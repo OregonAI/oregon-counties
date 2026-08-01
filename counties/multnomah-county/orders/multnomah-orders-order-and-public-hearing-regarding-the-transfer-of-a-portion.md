@@ -1,0 +1,99 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-order-and-public-hearing-regarding-the-transfer-of-a-portion
+title: 'Order And Public Hearing Regarding The Transfer Of A Portion Of S.E. Telford Road, County Road No. 869, To The City Of Gresham Pursuant To Ors 373.270.'
+doc_type: ordinance
+citation: 'Order And Public Hearing Regarding The Transfer Of A Portion Of S.E. Telford Road, County Road No. 869, To The City Of Gresham Pursuant To Ors 373.270.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/order_and_public_hearing_regarding_the_transfer_of_a_portion_of_s.e._telford_road%2C_county_road_no._869%2C_to_the_city_of_gresham_pursuant_to_ors_373.270./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 5f32eaff64258be2a6280cb9a3fd53e0a75a050d49140fa6a02522ed1e634099
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 373.270
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Order And Public Hearing Regarding The Transfer Of A Portion Of S.E. Telford Road, County Road No. 869, To The City Of Gresham Pursuant To Ors 373.270. (Order And Public Hearing Regarding The Transfer Of A Portion Of S.E. Telford Road, County Road No. 869, To The City Of Gresham Pursuant To Ors 373.270.)
+
+## At a glance
+
+Order And Public Hearing Regarding The Transfer Of A Portion Of S.E. Telford Road, County Road No. 869, To The City Of Gresham Pursuant To Ors 373.270. — orders of Multnomah County. 4 pages.
+
+## Full text
+
+Page 1 of 2 – Public Hearing Transferring Jurisdiction of a Portion of Telford Road to
+Gresham
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+ORDER NO.  2022-017
+Public Hearing and Order Regarding the Transfer of a Portion of S.E. Telford Road, County
+Road No. 869, to the City of Gresham Pursuant to ORS 373.270.
+The Multnomah County Board of Commissioners Finds:
+a. On December 15, 2005, this Board approved an Intergovernmental Agreement
+(“Agreement”) regarding the transfer of County Roads within the City limits of Gresham, to the
+City of Gresham (“City”).
+b. Paragraph 8.2 of the Agreement provides that upon future annexations jurisdiction of all
+roads under the jurisdiction of the County in the annexed areas will immediately pass to the
+City.
+c. However, a portion of Telford Road, directly abutting the annexed areas, was
+inadvertently omitted from the description of the area being annexed in 2017.  The City now
+requests that this area be annexed to them which is consistent with the purpose of the 2005
+IGA between the City and the County.
+d. Subsequently, the City adopted Resolution No. 3445 requesting that the County transfer
+jurisdiction for the portion of Telford Road that was inadvertently excluded to the City; that
+portion of Telford Road is described in the attached Exhibit A and shown on the attached Exhibit
+B.
+e. The purpose of this hearing is to allow for: (i) the filing and presentation of information
+by the public regarding the proposed transfer of the above mentioned public road; (ii) the
+County Board to determine if the surrendering of the county road is necessary,  expedient, or
+in the best interest of the County; and (iii) adherence to the requirements of ORS 373.270(4).
+Notice of this public hearing has been provided in compliance with ORS 373.270(2)(a) and (b).
+f. After considering information filed and presen ted at this public hearing, the County
+Board shall make a determination whether the transfer is necessary, expedient, or in the best
+interest of the County, and whether to support or deny the transfer of the above mentioned
+public road.
+f. If the County Boar d determines it is in the public interest to support the transfer of
+jurisdiction of the portion of Telford Road described in Exhibits A and shown on Exhibit B,
+adopting this Order will immediately transfer jurisdiction to the City.
+The Multnomah County Board of Commissioners Resolves:
+Page 2 of 2 – Public Hearing Transferring Jurisdiction of a Portion of Telford Road to
+Gresham
+1. Upon holding a public hearing and considering all matters presented, the County Board
+hereby declares transferring jurisdiction of the portion of S.E. Telford Road, County Road No.
+869, as described in the attached Exhibits A and B, to the City of Gresham, as being necessary,
+expedient, or in the best interest of the County.
+2. Jurisdiction of S.E. Telford Road, County Rd. No. 869, as described in the attached Exhibits
+A and B, is hereby transferred to the City of Gresham.
+3. Pursuant to ORS 373.270(7)(a), County jurisdiction over the portion of S.E. Telford Road
+being transferred, as a County Road, for its improvement, construction, or repair shall cease.
+4. Pursuant to ORS 373.270(7)(b), full and absolute jurisdiction over the portion of S.E. Telford
+Road being transferred, for the purposes of repair, construction, improvement and the levying
+and collection of assessments therefore shall vest in the City.
+ADOPTED this 10th day of March, 2022.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+SUBMITTED BY:  Jamie Waltz, Director, Department of Community Services

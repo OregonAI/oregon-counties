@@ -1,0 +1,263 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-resolution-adopting-the-2020-21-budget-for-the-mid-multnomah
+title: 'Resolution Adopting The 2020-21 Budget For The Mid-Multnomah County Street Lighting Service District No. 14 And Making Appropriations.'
+doc_type: ordinance
+citation: 'Resolution Adopting The 2020-21 Budget For The Mid-Multnomah County Street Lighting Service District No. 14 And Making Appropriations.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_adopting_the_2020-21_budget_for_the_mid-multnomah_county_street_lighting_service_district_no._14_and_making_appropriations./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 2f7029349dcbc45354337f9991521e907df4c811c3fca42df34663eedba8930f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Adopting The 2020-21 Budget For The Mid-Multnomah County Street Lighting Service District No. 14 And Making Appropriations. (Resolution Adopting The 2020-21 Budget For The Mid-Multnomah County Street Lighting Service District No. 14 And Making Appropriations.)
+
+## At a glance
+
+Resolution Adopting The 2020-21 Budget For The Mid-Multnomah County Street Lighting Service District No. 14 And Making Appropriations. — orders of Multnomah County. 7 pages.
+
+## Full text
+
+Page 1 - Adopting the 2020 -21 Budget for the Mid -Multnomah County Street Lighting
+Service District No. 14 and Making Appropriations
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+GOVERNING BODY FOR THE MID-MULTNOMAH COUNTY STREET LIGHTING
+SERVICE DISTRICT NO.14
+
+RESOLUTION NO.  2020-043
+
+Adopting the 20 20-21 Budget for the Mid-Multnomah County Street Lighting Service
+District No. 14 and Making Appropriations.
+
+The Multnomah County Board of Commissioners Finds:
+
+a. The Mid-Multnomah County Street Lighting  Service District No. 14 B udget
+(District’s Budget) , attached and  identified as Exhibit A,  was prepared by the
+District’s Budget Officer and has been considered and approved by the  District’s
+Budget Committee.
+
+b. Further, the District’s Budget has been certified by the Tax Supervising and
+Conservation Commission  (Commission) in comp liance with State law with no
+objections or recommendations, as verified by a letter dated May 27 , 2020, from
+Craig Gibons, the Executive Director of the Commission to the District, a copy of
+which is attached and identified as Exhibit B.
+
+c. The Budget as certified is on file in the Budget Office of Multnomah County.
+
+The Multnomah County Board of Commissioners Resolves:
+
+1. The District’s Budget attached as Exhibit A  is adopted as the budget of the Mid-
+Multnomah County Street Lighting Service District No. 14  in the amount of
+$774,000.
+
+2. The following appropriations are authorized for the fiscal year July 1, 2020, to June
+30, 2021:
+
+Page 2 - Adopting the 2020 -21 Budget for the Mid -Multnomah County Street Lighting
+Service District No. 14 and Making Appropriations
+Fund Appropriation
+General Fund $0
+Organization Unit or Program-  Street Light Management $625,000
+Not allocated to Organization Unit or Program $0
+Subtotal Appropriations $625,000
+Unappropriated EFB $149,000
+Total Requirements $774,000
+ADOPTED this 18th day of June, 2020.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+GOVERNING BODY FOR THE MID-
+MULTNOMAH COUNTY STREET
+LIGHTING SERVICE DISTRICT NO. 14
+Deborah Kafoury, Chair
+SUBMITTED BY:
+Jamie Waltz, Interim Director, Department of Community Services
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By K�ce ��---
+Katherine Thomas, Assistant County Attorney
+MID-COUNTY STREET LIGHTING SERVICE DISTRICT NO. 14
+Budget Committee Approval
+The following members of the budget committee for the Mid-County Street
+Lighting Service District No. 14  met on April 30, 2020 and approved the proposed
+budget for Fiscal Year 2020-2021:
+Deborah Kafoury
+Sharon Meieran
+Susheela Jayapal
+Jessica Vega Pederson
+Lori Stegmann
+                 Exhibit A
+Budget Message — Mid-Multnomah County Street Lighting Service District No. 14
+This County Service District originally known as Tulip Acres Lighting District when formed
+in 1967 now includes most of the unincorporated urban area of Multnomah County as well
+as the cities of Fairview, Maywood Park, and Troutdale.  District growth has stabilized due
+to the substantial completion of municipal annexations.
+
+Portland General Electric (PGE) provides energy for the District through tariffs approved by
+the State Public Utility Commission.  The County's Department of  Community Service
+provides administration, development review/coordination and manages contracts for system
+maintenance and repair of the District’s infrastructure.
+The District budget is approved at $345,000 for capital program for the fiscal year 2020 –
+2021 to replace street lights on NE Halsey St and SW 257th Drive, respond to
+miscellaneous lighting equipment replacement and develop a permit software system.
+The District's current assessment is $60.00 per property per year. For fiscal year
+2020-2021, the district approves no change in the rate.   This rate provides the District
+with the necessary operating resources to match needs.
+1 1 Available cash on hand* (cash basis) or 1
+2 260,424 419,605            228,000 2 Net working capital (accrual basis) 316,000 316,000 2
+3 17,565 4,794 5,000 3 Previously levied taxes estimated to be received 4,000 4,000 3
+4 5,736 9,741 5,000 4 Interest 4,000 4,000 4
+5 - - 5 5
+6 6  OTHER RESOURCES 6
+7 448,286 452,097            450,000 7 Street Lighting Assessments 450,000 450,000 7
+8 253 418 - 8 Subrogation 8
+9 1,462 9 Work for Others 9
+10 10 10
+11 11 11
+12 12 12
+13 13 13
+14 14 14
+15 15 15
+16 16 16
+17 17 17
+18 18 18
+19 19 19
+20 20 20
+21 21 21
+22 22 22
+23 23 23
+24 24 24
+25 25 25
+26 26 26
+27 27 27
+28 28 28
+29 732,264 888,117            688,000 29 Total resources, except taxes to be levied 774,000 774,000 29
+30 30 Taxes estimated to be received 30
+31 31 Taxes collected in year levied 31
+32 732,264 888,117            688,000 32 TOTAL RESOURCES 774,000 774,000 32
+150-504-020 (rev 10-16)
+MID-COUNTY STREET LIGHTING No. 14
+FORM
+RESOURCE DESCRIPTION
+RESOURCES
+General
+(Fund)
+Second Preceding
+Year 2017-18
+Budget for Next Year __2020-2021_______________Historical Data
+Actual
+First Preceding
+Year 2018-19
+Adopted Budget
+This Year
+Year 2019-20
+Proposed By
+Budget Officer
+Approved By
+Budget Committee
+*The balance of cash, cash equivalents and investments in the fund at the beginning of the budget year
+LB-20
+Adopted By
+Governing Body
+(Name of Municipal Corporation)
+FORM
+LB-30
+Adopted Budget
+Second Preceding First Preceding This Year Proposed By Approved By Adopted By
+Year 2017-18 Year 2018-19 2019-20 Budget Officer Budget Committee Governing Body
+1 1  PERSONNEL SERVICES NOT ALLOCATED 1
+2 2 2
+3 3 3
+4 0 0 0 4 TOTAL PERSONNEL SERVICES 0 0 4
+5 5 Total Full-Time Equivalent (FTE) 5
+6 6 MATERIALS AND SERVICES NOT ALLOCATED 6
+7 99,390 104,573 90,000 7 Portland General Electric - (elctrical power PUC Tariff) 85,000 85,000 7
+8 82,148 86,444 85,000 8 Administrative costs (reimb. to county general and road fund) 125,000 125,000 8
+9 57,495 36,759 54,000 9 Street Light Contracted Maintenance Services 70,000 70,000 9
+10 239,033 227,776 229,000 10 TOTAL MATERIALS AND SERVICES 280,000 280,000 10
+11 11 CAPITAL OUTLAY NOT ALLOCATED 11
+12 73,626 100,000 12 Street Light Pole/Equipment/Circuit Replacement /Others 100,000 100,000 12
+13 404,203 13 LED Conversion Project 0 0 13
+14 200,000 14 NE Halsey St Street Light Replacement and NE 257th Pole Replacement 200,000 200,000 14
+15 15 Permitting Software 45,000 45,000 15
+16 73,626 404,203 300,000 16 TOTAL CAPITAL OUTLAY 345,000 345,000 16
+28 28 OPERATING CONTINGENCY 28
+30 159,000 30 UNAPPROPRIATED ENDING BALANCE 149,000 149,000 30
+31 312,659 631,979 688,000 31 Total Requirements NOT ALLOCATED 774,000 774,000 31
+32 32 Total Requirements for ALL Org.Units/Programs within fund 0 32
+33 419,605 256,138 33 Ending balance (prior years) 33
+34 732,264 888,117 688,000 34 TOTAL REQUIREMENTS 774,000 774,000 34
+150-504-030  (Rev 11-18)
+Historical Data
+REQUIREMENTS DESCRIPTION
+Budget For Next Year 2020-21
+General
+MID-MULTNOMAH COUNTY STREET LIGHTING
+SERVICE DISTRICT No. 14
+REQUIREMENTS SUMMARY
+NOT ALLOCATED TO AN ORGANIZATIONAL UNIT OR PROGRAM
+ (name of Municipal Corporation)
+Actual
+(name of fund)
+
+Commissioners    David Barringer, Chair    |    Harmony Quiroz    |    Margo Norton    |    James Ofsink    |    Dr. Mark Wubbold
+
+May 27, 2020
+
+County Chair Deborah Kafoury and the Board of County Commissioners
+Mid-County Street Lighting Service District No. 14
+501 SE Hawthorne Blvd
+Portland, Oregon 97214
+
+RE: 2020-21 Approved Budget
+
+To the Multnomah County Commissioners,
+
+The Tax Supervising and Conservation Commission has completed its review and
+consideration of the 2020 -21 Approved Budget for the Mid-County Street Lighting Service
+DIstrict No 14.
+
+The budget was submitted timely on May 11,  2020. Today the Commission reviewed the
+budget and certified that it has no objections or recommendations to make with respect to
+the budget. Estimates were judged to be reasonable for the purposes shown and the
+document was found to be in substantial compliance with Local Budget Law.
+
+The budget estimates and levy amounts, as shown in the approved budget, were as follows:
+
+Oregon Revised Statutes require that the district file a complete copy of the Adopted Budget
+with the Commission no later than July 15, 2020. If extra time is needed for this, please
+request an extension in writing.
+
+Yours truly,
+TAX SUPERVISING & CONSERVATION COMMISSION
+
+Craig L.Gibons
+Executive Director
+Mid-County Lighting
+Appropriated Unappropriated Total Budget
+General Fund 625,000 149,000 774,000
+   Total 625,000 149,000 774,000
+2020-21 Approved Budget

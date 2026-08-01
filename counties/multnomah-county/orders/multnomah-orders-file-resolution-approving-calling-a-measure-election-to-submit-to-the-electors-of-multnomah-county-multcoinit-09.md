@@ -1,0 +1,409 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-resolution-approving-calling-a-measure-election-to-submit-to-the-electors-of-multnomah-county-multcoinit-09
+title: 'Resolution Approving Calling A Measure Election To Submit To The Electors Of Multnomah County Multcoinit-09.'
+doc_type: ordinance
+citation: 'Resolution Approving Calling A Measure Election To Submit To The Electors Of Multnomah County Multcoinit-09.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_approving_calling_a_measure_election_to_submit_to_the_electors_of_multnomah_county_multcoinit-09._/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 399389237fba119e113acaa8bda8e025455aaa63c6bd8f626557b61f59f94c58
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 20.190
+    - ORS 203.085
+    - ORS 250.045
+    - ORS 90.255
+    - OAR 165-014-0110
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Approving Calling A Measure Election To Submit To The Electors Of Multnomah County Multcoinit-09. (Resolution Approving Calling A Measure Election To Submit To The Electors Of Multnomah County Multcoinit-09.)
+
+## At a glance
+
+Resolution Approving Calling A Measure Election To Submit To The Electors Of Multnomah County Multcoinit-09. — orders of Multnomah County. 17 pages.
+
+## Full text
+
+Page 1 of 2 - Approving Calling a Measure Election to Submit to the Electors of Multnomah County MultCoInit-09
+  BEFORE THE BOARD OF COUNTY COMMISSIONERS FOR MULTNOMAH COUNTY, OREGON  RESOLUTION NO.  2023-006  Approving Calling a Measure Election to Submit to the Electors of Multnomah County MultCoInit-09.    The Multnomah County Board of Commissioners Finds:  a. On March 3, 2022, the Multnomah County Elections Division (“Elections Division”) received a prospective petition for a Multnomah County initiative, MultCoInit-09, attached as Exhibit A.  b. Under MCC 5.103(H), because MultCoInit-09 proposes adoption of county legislation other than a Charter amendment, the proposed measure must be submitted to electors if the number of qualified signatures “equals or exceeds 6% of the total number of votes cast in the county for all candidates for governor at the last general election at which the office of governor was filled for a four-year term.”  c. On May 26, 2022, the Multnomah County Elections Director certified the final ballot title and explanatory statement for MultCoInit-09, and notified the chief petitioners that they had until November 28, 2022 to collect a minimum of 22,686 signatures. Exhibit B.    d. On November 23, 2022, the Elections Division received initiative petition MultCoInit-09 for signature verification.  Under MCC 5.103(F), “Within 30 days after the director’s acceptance of a petition, the director must certify to the Board whether the petition contains a sufficient number of qualified signatures to require the submission of the proposed measure to the electors[.]”  e. On December 22, 2022, after completing verification of a statistical sample of signatures under the procedures set forth in OAR 165-014-0110, the Elections Director certified to the Board of County Commissioners that the total number of qualified signatures for initiative petition MultCoInit-09 is 24,216 signatures. Exhibit C.  Therefore, initiative petition MultCoInit-09 contains a sufficient number of qualified signatures to require submission of the proposed measure to the electors.  f. Under MCC 5.105(A), upon receiving the Election Director’s certification of sufficient qualified signatures, the Board may either by ordinance adopt the proposed legislation or call an election for submission of the legislation to the electors.  g. Under MCC 5.105(B), if the Board calls an election, the election must be on the next election date available under state law that is not sooner than the 90th day after the date of the Election Director’s certificate of sufficient qualified signatures.  Under ORS 203.085(2), the next election date available under state law that is not sooner than the 90th day after December 22, 2022 is May 16, 2023.
+Page 2 of 2 - Approving Calling a Measure Election to Submit to the Electors of Multnomah
+County MultCoInit-09
+The Multnomah County Board of Commissioners Resolves:
+1. A measure election is hereby called for the purpose of submitting to the electors o f
+Multnomah County MultCoInit-09 set forth in Exhibit A.
+2. The measure election hereby called shall be held in the County on May 16, 2023.
+3. The County Attorney or her designee shall submit the SEL 801 – Notice of Measure
+Election (County) to the Multnomah County Elections Division using the final ballo t title
+and explanatory statement set forth in Exhibit B.
+4. The Elections Director shall assign the measure the next sequential measure number.
+ADOPTED this 26th day of January, 2023.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+SUBMITTED BY: Jenny M. Madkour, County Attorney
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By K�ce  ��---
+Katherine Thomas, Assistant County Attorney
+Prospective Petition
+Local Initiative and Referendum
+SEL 370
+rev. Ol/22 ORS 250.045,
+250.165, 250.265, 255.135
+G Warning Supplying false Information on this form may result In conviction of a felony with a fine of up to $125,000 and/or prison for up to 5 years.
+Each chief petitioner is required to provide, on the same form, their name, residence address, contact phone number and signature attesting that the
+information on the form Is true and correct. Changes to the Information provided for a chief petitioner or to the circulator pay status must be
+reported to the filing officer no later than the 10th day after a chief petitioner first has knowledge or should have had knowledge of the change. At
+least one origlnal chief petitioner must remain throughout the petition process or the petition is void.
+Petition Information Type
+This flllng Is an rgJ Original OAmendment ~ Initiative 0 Referendum
+Jurisdiction Some Circulators may be Paid
+rxJ County Deity 0 District ~Yes ONo
+Title Subject or name you give your petition.
+£111c:?tof\ F<.· ~rtS'nJ1.,kJ1c,,._ L,... AU
+I
+Petition Correspondence Select the method of receiving notices or other correspondence from the Filing Officer.
+D Correspondence Recipient jg! Email Chief Petitioners O Mail Chief Petitioners
+Recipient Information
+Name Email Address
+Chief Petitioner Information Only chief petitioner's residential city and state will appear on petition sheets.
+7 By signing this document, I hereby state that all Information on the form is true and correct and attest that no clrculators will be compensated
+money or other valuable consideration on this petition based on the number of signatures obtained by the circulator.
+Name
+Bwck{\e/J
+J Contact Phone
+£.va,t !;' ,{ t 'J.- if 5· G, ,,s
+Residence Address street, city, state, zip
+Po-rf la.,uf . . Z&tY(f' NE ff-h Ave,. DR q1112-
+Malling Address if different
+I
+J Email Address
+tvai1.{hurd-F;e~@<11Jt,£i/,0M"
+Signature I Date Signed
+~
+C,___·;t).~ ,=;;--:7- 3 /J );;.2-
+~
+Name J\ \\ f ~~fv'v'
+J Contact Phone
+011 1--l(L( 3&10! 'L
+Residence Address street, city, state, zip
+)\ ye;-{e;- 12 g\l\2-NS.\O& -Vt~TL,f\"-IV, ti \2.- A, 2---l r-
+Malling Address if different J Email Address J l){ P-G: \\L-L-&JW p ,0 ·1
+Signature
+/}!'£){
+J Date Signed
+.. . -
+3(3 r z,,,o 2.,,1-v' ,
+Name
+s~~1t~}J.1AO ~OJ.:);ilJln
+I Contact Phone
+Residence Address street, city, state, zip "' •<UNJ.-lm~
+L~ =a 1u E:- \Jill I »••
+Malllng Address if different ••vo I Email Address
+03A/3Q3).I
+Signature J Date Signed
+Exhibit A to Resolution Approving Calling a Measure Election
+to Submit to the Electors of Multnomah County MultCoInit-09
+Exhibit A
+EVICTION REPRESENTATION FOR ALL
+The People of Multnomah County find:
+A. Housing is a human right, defined by the United Nations as "the right to live
+somewhere in security, peace and dignity," and includes access to affordable housing,
+adequate living conditions, security of tenure, and protection against forced evictions.
+B. High housing costs not only place households at increased risk of eviction but
+also reduce their ability to pay for other necessary expenses, such as food, healthcare,
+education, and transportation.
+C. Within Multnomah County, 40% of households are cost-burdened, with lowest
+income areas generally having the highest percentage of cost-burdened households.
+D. A 2020 report by Lisa K. Bates, PhD and the Community Alliance of Tenants
+found that "tenants who are Black, Indigenous, and People of Color identified are more
+likely to be cost burdened and struggle with housing insecurity, being over-represented
+among the houseless population in Oregon."
+E. Evictions not only cause tenants to lose their homes but also cause them to lose
+their possessions, disrupt their connection to the wider community, force children to
+change schools, lead to job loss, negatively affect people's mental health, threaten child
+custody, and impose an obstacle to future housing.
+F. Portland State University's Homelessness Research & Action Collaborative
+estimated that evictions flowing from the COVID-19 pandemic could cost the State of
+Oregon somewhere between $720 million and $4.7 billion. Conversely, numerous
+studies have shown that publicly funded tenant representation saves state and local
+governments more money than it costs, due to avoided social safety net expenses.
+G. Studies show that less than 3% of tenants typically have legal representation in
+eviction proceedings compared to upwards of 81 % for landlords.
+H. At least sixteen jurisdictions across the United States have successfully
+implemented ordinances to ensure free access to legal counsel for tenants facing
+evictions.
+Exhibit A
+I. Annual reports from jurisdictions with tenant representation programs,
+including New York, San Francisco, and Cleveland, show that legal representation
+helps tenants avoid default judgments, obtain better settlements, and avoid eviction
+more often at trial.
+Therefore, the People of Multnomah County Ordain as follows:
+Section 1. Policy and Purpose
+Multnomah County shall fully fund, administer, manage, and maintain a program that
+provides free legal representation, and related tenant services and resources, to all
+residential tenants who are facing legal proceedings to evict them from their residence.
+Section 2. Definitions
+A. "Covered individual" means any natural person, regardless of immigration
+status, facing eviction or removal from a residential property, including but not limited
+to any building, structure, land, rented space, or transportable dwelling unit, or any
+part thereof, used for a residence.
+B. "Covered proceedings" means legal proceedings to evict a covered individual
+from their residence, including related counterclaims, appeals, and collection actions.
+Covered proceedings also means post-foreclosure evictions of covered individuals, as
+well as appeals on behalf of covered individuals to maintain assistance under the
+Housing Choice Voucher Program (Section 8). Covered proceedings includes, but is not
+limited to, representation at administrative hearings brought by, or on behalf of, the
+Portland Public Housing Authority and/or any other entity acting as, or on behalf of, a
+landlord.
+C. "Designated organization" means a non-profit law firm or community-based
+organization that has the capacity to provide high-quality legal representation to
+covered individuals facing eviction.
+D. "Legal representation" means full scope legal services provided by a designated
+organization to a covered individual in connection with a covered proceeding. Full
+scope legal services shall include but shall not be limited to providing legal advice and
+Exhibit A
+consultation, filing an appearance and responsive pleadings with the court, conducting
+discovery, attempting to negotiate settlement, and representing the covered individual
+in court hearings, motion practice, and trial, where applicable. Full scope legal
+representation may include post-trial matters, appeals, and collection actions pursued at
+the discretion of the designated organization. Legal representation shall continue for the
+full duration of a covered proceeding as described in this section, subject to the consent
+of the covered individual and applicable ethical standards and rules of professional
+conduct.
+E. "Culturally specific and responsive services" means community-based services
+that are consistent with Multnomah County's policies and guidance documents for
+"contracting and Procurement for Culturally Specific and Responsive Services," and
+includes providing language and translations services.
+Section 3. Capital Gains Tax
+A. Tax: Residents in Multnomah County shall pay a tax on net capital gains as
+defined by the Internal Revenue Code. The initial rate for this tax shall be 0.75%. The
+rate for this tax may be adjusted by Multnomah County as necessary to ensure
+compliance with the program objectives as set forth in this ordinance.
+B. Effective Date: The tax will be imposed for all tax years beginning on or after
+January 1, 2023. Thereafter, payment of this tax will be due annually on April 15th or
+the closest following business day.
+C. Rulemaking: The Multnomah County Chief Financial Officer (hereinafter "CFO")
+will adopt administrative rules to implement this tax and may contract with public
+agencies to implement this ordinance.
+D. Receipts: The CFO, or a public agency on behalf of Multnomah County, will
+receive the tax imposed by this ordinance from the taxpayers, keep accurate records,
+report all monies received, and will collect and enforce payment of all taxes owing to
+the county.
+E. Revenues: Net revenues (after deducting the costs of collection and enforcement)
+shall be deposited into a separate fund designated as the "Multnomah County Eviction
+Representation for All Fund" (hereinafter "Fund").
+Exhibit A
+Section 4. Eviction Representation for All Program
+A. Monies in the Fund shall be dedicated to the Eviction Representation for All
+(hereinafter "ERA") program to ensure free legal representation for all tenants facing
+eviction in the county.
+B. A covered individual can access the services of the ERA program immediately
+after receiving notice of a termination of tenancy or eviction, or immediately after
+having reasonable belief that notice of a termination of tenancy or eviction has been
+served.
+C. The ERA program shall be fully operational within 12 months from the time
+voters pass this ordinance.
+D. The Fund shall accrue and then maintain reserve funds adequate to ensure 18
+months of continued operation of the ERA program.
+E. Whenever the county receives temporary funds from another government body
+to provide eviction representation or whenever a designated organization is awarded
+attorney fees or costs in a covered proceeding, those monies shall be added to the Fund
+as a cost-savings measure.
+Section 5. Tenant Resource Office
+A. The county shall create the Tenant Resource Office (hereinafter "TRO") within
+the Department of County Human Services (DHS) to administer and manage the ERA
+program as set forth in this ordinance.
+B. The TRO shall maintain a sufficient staff to support all aspects of the ERA
+program.
+C. The TRO shall contract with and fund a minimum of five designated
+organizations to provide legal representation to covered individuals. The TRO shall
+ensure that the contracted designated organizations provide hi~h quality legal
+representation to all covered individuals and retain competent attorneys and legal staff
+at competitive salaries and benefit levels.
+. . . . , -
+Exhibit A
+D. The TRO shall maintain a county-wide registry of all residential rental
+properties. The rental registry shall be accessible to the public.
+E. On January 31 of each year beginning on January 31, 2024, the TRO shall submit
+a written report to the county, detailing the number of covered individuals served, the
+names of all designated organizations and extent of legal services performed, metrics
+evaluating outcomes, projected budgeting needs for full representation to all covered
+individuals, revenue needed to maintain rainy day funds, data regarding evictions, and
+a summary of the engagement and education of tenants. The county shall increase or
+decrease the capital gains tax rate based on these reports to ensure projected funding is
+adequate for proper functioning of the program.
+F. The TRO shall create and administer a program to provide emergency rental
+assistance or pay legal costs, in whole or in part, incurred if a covered individual does
+not prevail in a claim or has a money award against them at the conclusion of litigation
+(such as plaintiff's attorney fees, costs, prevailing party fees, and/or landlord fees). A
+covered individual may apply to this program via the TRO, and the TRO shall establish
+rules to guide the discretionary award of funds under this program, taking into account
+the policy objectives of this ordinance, budgetary considerations, fairness
+considerations, and whether the award of funds will resolve the legal dispute.
+G. The TRO, in coordination with designated organizations, shall educate and
+inform the public about available eviction services, and other programs related to
+preventing displacement and supporting tenants.
+H. The TRO shall create and maintain a current and easily accessible website that
+educates the public about available eviction services (with links to designated
+organizations) and other programs related to preventing displacement and supporting
+tenants, including the emergency rental assistance.
+I. The TRO shall contract with designated organizations to hire peer educators to
+provide education and information on available eviction services, and other programs
+related to preventing displacement and supporting tenants.
+Section 6. Designated Organizations
+- , -
+Exhibit A
+A. Designated organizations shall provide high quality and culturally specific and
+responsive legal representation to covered individuals in covered proceedings.
+B. Designated organizations shall employ staff attorneys and/or contract with
+attorneys to represent covered individuals in covered proceedings. Designated
+organizations shall hire attorneys at competitive salaries and benefit levels, as well as
+paralegals and support staff at competitive salaries and benefit levels.
+C. Designated organizations shall seek to recover attorney fees and costs under ORS
+90.255 and prevailing party fees under ORS 20.190 whenever applicable. All attorney
+fees and costs awarded shall be received by the designated organization and
+reimbursed to the TRO. Any legal fees or costs paid by the covered individual shall be
+reimbursed to the covered individual.
+D. Designated organizations shall educate and inform the public about available
+eviction services and other programs related to preventing displacement and
+supporting tenants, including emergency rental assistance programs to prevent
+eviction. Where appropriate, designated organizations may develop culturally specific
+and responsive outreach plans to support their educational goals.
+E. Designated organizations shall meet and report on predetermined performance
+metrics, report those metrics to the TRO on an annual basis, and adhere to ethical
+standards and rules of professional conduct set by the Oregon State Bar; all components
+must be satisfied to receive an ongoing contract to provide legal representation for the
+program. The TRO will also supply annual reports to DHS reporting similar metrics.
+Section 7. Termination Notices and Evictions
+A. All residential property owners in Multnomah County must comply with the
+following requirements when serving notices of termination:
+1. At the time a notice of termination is served against a covered individual, the
+landlord must provide a written notification, in all languages commonly spoken in
+Multnomah County, informing the covered individual of free legal representation in a
+covered proceeding.
+.... . ..
+Exhibit A
+2. Within 24 hours of serving a covered individual a notice of termination, the
+landlord must file the notice with the TRO.
+B. All residential property owners in Multnomah County must comply with the
+county's efforts to create and maintain a county-wide rental registry.
+C. If a covered individual appears in court having not been informed of the ERA
+program in writing on the notice of termination, or was informed of the ERA program
+but was unable to be assigned a lawyer, the court shall setover the first appearance for
+no less than seven days to provide time for the covered individual to seek legal
+representation, unless there is an informed, affirmative waiver of counsel made on the
+record.
+Section 8. Board of Commissioners to Take Necessary Action
+The Multnomah County Board of Commissioners shall take all action necessary to
+ensure that taxes imposed by this ordinance are collected and are used to fulfill the
+policies and purposes of this ordinance.
+Section 9. Severability Clause
+If any part, section, or provision of this ordinance or any tax against any taxpayer
+imposed by this ordinance is found unconstitutional, illegal, or invalid, such
+unconstitutionality, illegality, or invalidity will affect only that part, section, or
+provision of this ordinance or tax, and will not affect or impair any other part, section,
+or provision of this ordinance.
+Exhibit A
+Department of Community Services
+Elections Division ● Tim Scott, Director
+Sent VIA Email to Chief Petitioners: evantburchfield@gmail.com and jill@jwjpdx.org
+May 26, 2022
+Evan Burchfield
+2608 NE 7th Ave.
+Portland OR 97212
+Dear Evan Burchfield;
+This letter provides the Election Director’s certification of the attached ballot title and explanatory
+statement as prescribed by a court order dated May 24, 2022, following the ballot title challenge related to
+MultCoInit-09.
+We have reviewed your initiative petition paperwork, as to meeting the requirements to collect signatures,
+and have found it to be in order and to include the certified ballot title as necessary. Please use only the
+approved forms during signature collection. You must use the same paper color for all petition sheets.
+The deadline to collect a minimum of 22,686 signatures from registered voters in Multnomah County is
+Monday, November 28, 2022.
+For the measure to be placed on the November 8, 2022 General Election, the completed petition would
+need to be turned in no later than Monday, July 18, 2022.  This date allows time for the Elections
+Division to signature verify the petition and for the Multnomah County board to act to refer it to the
+ballot.
+Signature sheets must be numbered prior to submission.
+If you have any questions, please don’t hesitate to contact us at 503-988-VOTE (8683).
+Sincerely,
+Tim Scott, Director of Elections
+Multnomah County Elections Division
+1040 SE Morrison St
+Portland OR 97214
+CC: Katherine Thomas, Assistant Multnomah County Attorney
+Jill Pham, Chief Petitioner
+1040 SE Morrison St. •  Portland Oregon 97214 • Phone: 503.988.VOTE (8683) • MultnomahVotes.gov
+Exhibit B to Resolution Approving Calling a Measure Election
+to Submit to the Electors of Multnomah County MultCoInit-09
+Exhibit B
+Exhibit B
+Exhibit B
+Exhibit B
+Exhibit B
+Exhibit B
+Department of Community Services
+Elections Division ● Tim Scott, Director
+Date:   December 22, 2022
+V
+IA EMAIL
+To: Board of Multnomah County Commissioners
+c/
+o Deborah Kafoury, Chair, Multnomah County Board of Commissioners
+Multnomah County
+501 SE Hawthorne St, Suite 600
+Portland, OR 97214
+RE: Certification of Initiative Petition MultCoInit- 0 9
+On November 23, 2022, the Multnomah County Elections Division received initiative petition MultCoInit-09
+for signature verification. Under MCC 5.103(F), the Director of Elections must certify to the Board “whether
+the petition contains a sufficient number of qualified signatures to require the submission of the proposed
+measure to the electors[.]”
+Under MCC 5.103(H), because MultCoInit-09 proposes adoption of county legislation other than a Charter
+amendment, the proposed measure must be submitted to electors if the number of qualified signatures “equals
+or exceeds 6% of the total number of votes cast in the county for all candidates for governor at the last general
+election at which the office of governor was filled for a four-year term.” For the May 16, 2023 election, the
+number of qualified signatures required is 22,686 signatures.
+As required by MCC 5.103(F) and Oregon Administrative Rule (“OAR”) 165-014-0110, the Multnomah County
+Elections Division completed verification of a statistical sample of signatures submitted for initiative petition
+MultCoInit-09 on December 21, 2022. Based on the statistical formula found in OAR 165-014-0110, Appendix
+4, the Director certifies that the total number of qualified signatures for initiative petition MutCoInit-09 is 24,216
+and therefore the petition contains a sufficient number of qualified signatures to require submission of the
+proposed measure to the electors.
+Under MCC 5.105, the Board may either by ordinance adopt the proposed legislation or call an election for
+submission of MultCoInit-09 to the electors at the May 16, 2023 election.
+Tim Scott
+Di
+rector of Elections
+Multnomah County
+1040 SE Morrison St
+Portland OR 97214
+Cc: Katherine Thomas, Assistant County Attorney, Mult
+ nomah County
+Evan Burchfield, Jill Pham, Chief Petitioners MultCoInit-09
+1040 SE Morrison Street • Portland Oregon 97214 • Pho ne: 503.988.VOTE (8683) • MultnomahVotes.gov
+Exhibit C to Resolution Approving Calling a Measure Election
+to Submit to the Electors of Multnomah County MultCoInit-09
+Exhibit C

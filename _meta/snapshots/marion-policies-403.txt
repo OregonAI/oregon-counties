@@ -1,0 +1,213 @@
+403 Policy  1
+ADMINISTRATIVE POLICIES
+
+SECTION: Financial Management POLICY #: 403
+TITLE: Fixed Asset Control PROCEDURE #:
+ ORDER #: 99-50
+DEPT: Support Services DIVISION:
+ADOPTED: 6/92, 5/99 REVIEWED:  REVISED: 2/96, 5/99
+
+1.0 Purpose
+
+This policy establishes policy and procedure for the control of Marion County
+fixed assets.
+
+2.0 General Policy
+
+Each department head and elected official will be responsible for the
+inventory, tagging and control of all fixed assets in his or her department.
+
+3.0 Policy Guidelines/Procedures
+
+a. Definition of a fixed asset effective Fiscal Year 1998/99:
+
+(1) It is tangible in nature, and
+
+(2) It has a useful life of more than one year, and
+
+(3) Individual units have a significant value (cost is greater than
+$5,000).  Individual units of assets with values less than $5,000
+may be tagged and placed on the County inventory for control
+purposes but would not be assessed value.
+
+(a) The cost of an asset is determined by the purchase price
+as stated on the invoice, contract or appraisal.
+
+- For general fixed assets include taxes, freight and
+installation costs.
+- For land include legal, title and survey fees, escrow
+and closing fees, site preparation and demolition costs.
+- For buildings include architect, legal and appraiser
+fees, escrow and closing fees, insurance and interest
+during construction.
+
+403 Policy  2
+(b) Salvage value is the amount of money the County can
+expect to recover after disposing of an asset at the end of
+its useful life.  Property that has a salvage value of less
+than $5,000 will be deleted.
+
+(c) The average life of the asset is determined from the
+following: (Equipment used in 24 hour operations may
+expire in fewer years.)
+
+ ASSET      LIFE YEARS
+  Office, shop, department & field equipment   5
+  Electronic & Communication equipment    3
+ Vehicles:
+  Auto        6
+  Pickups        6
+  Sheriff vehicles      3
+  Trucks        10
+  Off-road vehicles & road maintenance equipment  10
+ Weapons        15
+ Buildings        50
+ Land improvements       25
+ Land         Indefinite
+
+b. Procedures for implementing
+
+(1) The department determines its needs for equipment in the
+proposed annual budget.  The value and life of the item
+determine the items that are to be placed in the Capital Outlay
+category.  Purchases will be made in accounting accounts 53000
+through 53299.  Capital expenditures in accounting accounts
+53300 through 53999 require the creation of a project through
+project accounting.
+
+(2) Material and Services purchases applicable to capitalization will
+require the creation of a project through project accounting.
+
+(3) Capital outlay purchases of less than $5,000 applicable to
+capitalization will require project accounting.
+
+(4) The budget officer reviews the request and recommends a
+budget to the budget committee.
+
+(5) The budget committee holds public hearings on the proposed
+budget.  It approves the budget and forwards it to the Board of
+Commissioners for adoption.
+
+(6) The Board of Commissioners sets a public hearing to review the
+budget and after budget committee approval the Board of
+Commissioners formally adopts the budget.
+
+403 Policy  3
+(7) When the department's budget is adopted thereby signaling
+approval of the requests for fixed assets, the department will
+initiate and submit a
+
+purchasing requisition to Purchasing in Business Services
+Division of Support Services.  The department will complete the
+requisition in accordance with standard procedures including the
+required documentation such as contracts or leases.
+
+(8) Purchasing reviews for compliance with purchasing regulations
+and authorizes the purchase order in accordance with standard
+procedures.
+
+(9) Business Services will issue a series of inventory numbers to
+each department.
+
+(10) Upon receipt of the item the department will attach an inventory
+number to the item.  Upon implementation of the appropriate
+program, the department will determine the value, life
+expectancy, category code, location and other data to complete
+the fixed asset entry to the inventory data base.  The inventory
+data must be included on the request for payment submitted to
+Business Services.
+
+(11) Business Services issues the check for payment of the item; the
+fixed asset will be added to the inventory through the automated
+accounting program.
+
+c. Transfers and Retirements
+
+(1) If the department no longer has use of an asset, it is to be sent
+as surplus to Support Services for assignment to another
+department or sold through the State of Oregon surplus system.
+
+The surplus process for exempted property will be authorized in
+writing by Support Services.  Exempted property may include:
+
+1)   Property received through court ordered forfeiture,
+litigation on forfeiture or ordinance and statute
+enforcement actions.
+
+2) Property purchased for sale to the public with
+special program funds.
+
+3) Property with limited use by other county
+departments such as law books, voting and
+surveying equipment.
+
+403 Policy  4
+(2) If an asset is determined to be of a greater value as a "trade-in"
+for the purchase of replacement equipment or vehicle, the
+department will request authorization from Support Services
+prior to entering into a contract or contractual agreement with
+the vendor.
+
+(3) Support Service will authorize the transfer, trade-in or surplus,
+coordinate the appropriate action.  Delivery of an item to surplus
+or vendor is the responsibility of the department.
+
+Surplus computer and software may be offered to interested
+parties as a surplus sale or donated in the following order:
+- county departments with related programs
+- unrelated county department programs
+- Marion/Salem Data Center
+- schools relating to county programs
+- agencies in agreements with county departments
+- nonprofit organizations related to county services
+- nonprofit organizations with no relationship to the county
+
+(4) Fleet inventory control for county owned vehicles will be
+centralized through Support Services and delegated to Public
+Works.  Business Services will give notice to Public Works upon
+receipt of a county vehicle.  Public Works will audit the inventory
+of county vehicles, manage the redistribution of vehicles and the
+sale of surplus vehicles. The value of vehicles may be returned
+to the purchasing fund when notice is given at the time the
+vehicle is released for redistribution or surplus.  Public Works will
+give notice to Property Management in Support Services upon
+redistribution or sale of vehicles for inventory control input.
+
+d. Lost or Stolen
+
+(1) If a department is unable to locate an item, or if an item has
+been stolen, the department will give written notice to property
+management in Support Services.  The notice shall include a
+description the effort to locate the item and the determination of
+the loss.
+
+(2) Stolen fixed assets should also be reported to the proper
+authority and a copy of the report forwarded to property
+management in Support Services
+
+403 Policy  5
+e. Inventory updates
+
+(1) Assets of a value less than $5,000 will be deleted in preparation
+for the transfer of data from the historical data base to the
+current fiscal accounting data base and reported in the annual
+fiscal report.
+
+(2) The update of future deletions will be accomplished when the
+department takes a biannual physical inventory.
+
+f. Physical Inventory
+
+(1) A physical inventory of the departments' assets will be
+preformed biennially by June 30. Business Services will forward
+current inventory listing to the departments for verification.
+
+(2) Any differences between the inventory listing and the physical
+inventory will be reported to the Board of Commissioners, which
+will approve or disapprove the disposition of the unreconciled
+differences.
+
+Adopted:   6/92
+Revised:   2/96
+Revised: 12/98
+Adopted:   5/99

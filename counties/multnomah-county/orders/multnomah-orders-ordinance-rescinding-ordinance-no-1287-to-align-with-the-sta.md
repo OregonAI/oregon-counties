@@ -1,0 +1,124 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-ordinance-rescinding-ordinance-no-1287-to-align-with-the-sta
+title: 'Ordinance Rescinding Ordinance No. 1287 To Align With The Statewide Residential Eviction Moratorium And Declaring An Emergency.'
+doc_type: ordinance
+citation: 'Ordinance Rescinding Ordinance No. 1287 To Align With The Statewide Residential Eviction Moratorium And Declaring An Emergency.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/ordinance_rescinding_ordinance_no._1287_to_align_with_the_statewide_residential_eviction_moratorium_and_declaring_an_emergency./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: bd6efe43fcce8562c1e494062e6ab2a9b5432fc6c53a23a68a42cfca7fd41372
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance Rescinding Ordinance No. 1287 To Align With The Statewide Residential Eviction Moratorium And Declaring An Emergency. (Ordinance Rescinding Ordinance No. 1287 To Align With The Statewide Residential Eviction Moratorium And Declaring An Emergency.)
+
+## At a glance
+
+Ordinance Rescinding Ordinance No. 1287 To Align With The Statewide Residential Eviction Moratorium And Declaring An Emergency. — orders of Multnomah County. 3 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS FOR
+MULTNOMAH COUNTY, OREGON
+ORDINANCE NO. 1292
+Rescinding Ordinance No. 1287 to Align with the Statewide Residential Eviction
+Moratorium and Declaring an Emergency.
+The Multnomah County Board of Commissioners Finds:
+A. On March 11, 2020, the Multnomah County Chair issued Executive Rule No. 388
+declaring an emergency for the entire County to address the continued spread of the
+COVID-19 illness, loss of life, an extreme public health risk, and its significant economic
+impacts.
+B. On March 17, 2020, an Addendum to Executive Rule No. 388 provided additional
+measures to address the emergency conditions.
+C. On March 19, 2020, the Multnomah County Board of Commissioners (“Board”)
+ratified Executive Order 388 and its Addendum and adopted Ordinance No. 1282 to address
+the impacts of COVID-19 by creating a countywide residential eviction moratorium and six-
+month repayment grace period. The purpose of these measures was to promote housing
+stability during the COVID-19 pandemic to allow County residents to stay home, and to
+avoid a preventable increase in homelessness due to the economic effects of COVID-19.
+D. On April 1, 2020, and following the Board’s action, the Governor of the State of
+Oregon issued a statewide moratorium on evictions with Executive Order 20-13.
+E. On April 9, 2020, the Board adopted Resolution 2020-019 to continue the emergency
+declared in Executive Rule 388 and its Addendum until July 8, 2020.
+F. On April 16, 2020, the Board adopted Ordinance 1284 to further address the impacts
+of COVID-19 and suspended enforcement of the County's residential eviction moratorium
+established by Ordinance 1282 while a statewide residential eviction moratorium was in
+place.
+G. On July 2, 2020, the Board adopted Resolution 2020-059 to continue the emergency
+declared in Executive Rule 388 and its Addendum until September 30, 2020.
+H. On September 24, 2020, the Board adopted Resolution 2020-080 to continue the
+emergency declared in Executive Rule 388 and its Addendum until January 8, 2021.
+I. The State of Oregon provided statewide renter protections in HB 4213 (2020 First
+Special Session) with effective dates of April 1, 2020 to September 30, 2020. HB 4213
+continued and refined the statewide residential eviction moratorium created by the Governor
+in Executive Order 20-13 and established a statewide six-month repayment grace period.
+J. On September 4, 2020, the Center for Disease Control and Prevention (“CDC”),
+located within the U.S. Department of Health and Human Services, issued an Agency Order
+temporarily halting residential evictions to prevent the further spread of COVID-19 effective
+through December 31, 2020. See Federal Register, 85 FR 55292, Section 502 of Title V of
+Division N of the Consolidated Appropriations Act, 2021 extended that Agency Order
+through January 31, 2021. The CDC Agency Order provides a lesser level of renter
+protections than Oregon HB 4213, HB 4401, Executive Order 20-13, and County
+ordinances. Under the CDC Agency Order’s terms, it does not apply in any State, local,
+territorial, or tribal area with a moratorium on residential evictions that provides the same or
+greater level of public-health protection than the requirements listed in the Agency Order.
+K. On September 24, 2020, the Board repealed Ordinance Nos. 1282 and 1284 and
+replaced them with Ordinance No. 1287 to provide continued renter protections in
+Multnomah County in response to COVID-19.
+L. On December 17, 2020, the Board adopted Resolution 2020-110 to continue the
+emergency declared in Executive Rule 388 and its Addendum until July 2, 2021, or until
+rescinded.
+M. The State of Oregon extended statewide renter protections in HB 4401 (2020 Third
+Special Session). HB 4401 extended the emergency period and the end of the repayment
+grace period until June 30, 2021, if a landlord does not provide a required written notice,
+declaration form, and associated documentation to the tenant, or if a tenant provides the
+landlord with the required declaration.
+N. The County supports uniform implementation and enforcement of a residential
+eviction moratorium and a repayment grace period. This action rescinds Ordinance Number
+1287 to ensure consistent renter protections that further address the COVID-19 public health
+emergency and address its significant and long lasting impacts.
+O. The County is committed to responding to the impacts of the COVID-19 pandemic,
+and will consider future legislative actions as needed and as necessary to avoid mass
+evictions for non-payment of rent, promote housing stability, and protect the health of
+community members in Multnomah County.
+P. This action will become effective on February 1, 2021, in order to provide renters,
+landlords, and advocates time to prepare for compliance with House Bill 4401.
+Multnomah County Ordains as Follows:
+1. Ordinance 1287 was adopted on September 24, 2020.
+2. It is now considered necessary to rescind Ordinance 1287 because of the protections provided
+by House Bill 4401 (2020 Third Special Session).
+3. This Ordinance being necessary for the health, safety and general welfare of the people of
+Multnomah County, an emergency is declared and this ordinance will take effect on February 1,
+2021 pursuant to Section 5.50 of the Multnomah County Home Rule Charter.
+FIRST READING AND ADOPTION: January 14, 2021
+BOARD OF COUNTY COMMISSIONERS FOR
+MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY FOR
+MULTNOMAH COUNTY, OREGON
+By
+Jenny M. Madkour, County Attorney
+Submitted by:  Deborah Kafoury, Chair

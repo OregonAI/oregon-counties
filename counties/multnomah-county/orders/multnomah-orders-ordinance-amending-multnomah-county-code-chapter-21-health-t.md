@@ -1,0 +1,127 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-ordinance-amending-multnomah-county-code-chapter-21-health-t
+title: 'Ordinance Amending Multnomah County Code Chapter 21 - Health To Add Regulations Relating To The Acceptance Of Payment Or Other Consideration For Displaying To The Public Human Remains.'
+doc_type: ordinance
+citation: 'Ordinance Amending Multnomah County Code Chapter 21 - Health To Add Regulations Relating To The Acceptance Of Payment Or Other Consideration For Displaying To The Public Human Remains.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/ordinance_amending_multnomah_county_code_chapter_21_-_health_to_add_regulations_relating_to_the_acceptance_of_payment_or_other_consideration_for_displaying_to_the_public_human_remains./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: b99921c7dca38d68d202205742ea4b52b7311e1b97d99ae707dd9ba4f5e73db7
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance Amending Multnomah County Code Chapter 21 - Health To Add Regulations Relating To The Acceptance Of Payment Or Other Consideration For Displaying To The Public Human Remains. (Ordinance Amending Multnomah County Code Chapter 21 - Health To Add Regulations Relating To The Acceptance Of Payment Or Other Consideration For Displaying To The Public Human Remains.)
+
+## At a glance
+
+Ordinance Amending Multnomah County Code Chapter 21 - Health To Add Regulations Relating To The Acceptance Of Payment Or Other Consideration For Displaying To The Public Human Remains. — orders of Multnomah County. 3 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+ORDINANCE NO. 1306
+Amending Multnomah County Code Chapter 21 - Health to Add Regulations Relating to the
+Acceptance of Payment or other Consideration for Displaying to the Public Human Remains.
+(Language stricken is deleted; double underlined language is new.)
+The Multnomah County Board of Commissioners, in its capacity as the Board of Health and
+the ORS 431 local public health authority, finds as follows:
+1. Every person has the right to understand and consent to what will happen to the
+disposition of their remains.
+2. Whole body donors (WBDs) provide important insights for medical research, training,
+and education.
+3. To protect the integrity of WBD programs, it is important for potential donors to trust
+that their donated body will be used for scientific or educational purposes.
+4. Gaps in the regulation of WBD programs have resulted in the growth of unethical
+practices, including the deception of WBDs and their next of kin regarding the use of
+donated bodies, commercial enterprises profiting off the use of bodies donated for
+research, and unsanitary displays and other unethical and potentially hazardous
+public health conditions.
+5. Public displays of human remains have merit for ceremonial or religious purposes,
+education, or research, but not for profit or commercialization.
+6. Public displays of human remains without appropriate safeguards and precautions
+may also pose a threat to public health through the potential spread of
+communicable diseases.
+Therefore, Multnomah County ordains and adds the following underlined language:
+Section 1. MCC § 21.750 is added as follows:
+§ 21.750 - Purpose
+The purpose of MCC § 21.750 to MCC § 21.755 is to regulate the circumstances when
+payment or other consideration may be accepted for displaying to the public human remains
+within incorporated and unincorporated areas of Multnomah County.
+Section 2. MCC § 21.751 is added as follows:
+§ 21.751 - Definitions
+For MCC § 21.750 to MCC § 21.755, the following definitions shall apply:
+“Displaying to the public human remains” means any showing of human remains
+for individuals who (1) were not members of the decedent’s family and (2) never met
+the decedent during the decedent’s lifetime.
+“Human remains” is defined as the body, or any portion thereof, of any person who
+died less than 100 years prior to the display at issue, unless it only consists of teeth
+or hair.
+Section 3. MCC § 21.752 is added as follows:
+§ 21.752 - Prohibited Conduct
+It shall be unlawful and prohibited to accept payment or other consideration for displaying to
+the public human remains.
+Section 4. MCC § 21.753 is added as follows:
+§ 21.753 - Exceptions
+MCC § 21.752 does not prohibit accepting payment or other consideration for displaying to
+the public human remains when a person with the right to control disposition of remains has
+consented, and the payment or other consideration is accepted by:
+A. An individual or entity licensed by the Oregon Mortuary and Cemetery Board;
+B. An entity accredited by the American Alliance of Museums;
+C. An entity accredited by the Northwest Commission on Colleges and
+Universities (NWCCU);
+D. The Oregon Museum of Science & Industry; or
+E. An individual or entity facilitating a funeral, provided appropriate public health
+safeguards have been implemented.
+Section 4. MCC § 21.754 is added as follows:
+§ 21.754 - Enforcement
+A. The local public health administrator is authorized to take any lawful action to
+enforce MCC § 21.750 to MCC §21.755, including issuing citations to recover
+those penalties outlined in MCC § 21.755. The local public health
+administrator, at their sole discretion, may implement rules or policies as
+appropriate for enforcement.
+B. The County Attorney is also authorized to take any lawful action to enforce
+MCC § 21.750 to MCC §21.755, including filing a civil action in circuit court
+for injunctive or declaratory relief and to seek any other remedy or damages
+authorized by law, including those penalties outlined in MCC § 21.755.
+Section 5. MCC § 21.755 is added as follows:
+§ 21.755 - Penalties
+Any individual or entity found in violation of MCC § 21.750 to MCC §21.755 shall be fined
+$1,000 per violation per day, shall transfer to Multnomah County any consideration the
+individual or entity received pursuant to the violation, and shall pay for all attorney fees,
+costs, and disbursements incurred by Multnomah County to enforce MCC § 21.750 to MCC
+§21.755.
+FIRST READING: April 14, 2022
+SECOND READING AND ADOPTION: ______April 21, 2022_________________
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+
+SUBMITTED BY: Deborah Kafoury, County Chair
+REVIEWED:
+JENNY MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By �� b/J r E. L,n,_._d
+Robert E. Sinnott, Senior Assistant County Attorney

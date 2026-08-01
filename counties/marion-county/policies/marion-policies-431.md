@@ -1,0 +1,170 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-431
+title: '431'
+doc_type: policy
+citation: '431'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/431.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e55b0d1bd436a857544a890a6a4e9c19c559b2e7df44f72cd56b2a7da6abf33b
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.010
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 431 (431)
+
+## At a glance
+
+431 — policies of Marion County. 3 pages.
+
+## Full text
+
+431.1
+ADMINISTRATIVE POLICIES
+
+SECTION: Financial Management – Section 400 POLICY #: 431
+TITLE: Federal Awards - Allowable Costs PROCEDURE #: N/A
+ ORDER #: N/A
+DEPT: Finance DIVISION: N/A
+ADOPTED: 6/2015 REVIEWED: N/A REVISED: N/A
+
+PURPOSE: To establish policies and procedures over the allowable costs of Federal
+Awards, including those passed through from the State of Oregon or other
+granting organizations.
+
+AUTHORITY: The Marion County Board of Commissioners may establish rules and
+regulations in reference to managing the interest and business of the county
+under ORS 203.010, 203.035, 203.111, and 203.230.
+
+APPLICABILITY: Department heads, elected officials and other employees who administer
+Federal Awards.
+
+GENERAL POLICY: All Federal Awards are subject to the established requirements as set forth
+by the federal government in the Uniform Guidance for Federal Awards
+(Uniform Guidance) and other laws and regulations as required by the
+Federal Award Agreement and the granting agency.
+
+DEFINITIONS: See policy #430, Federal Awards – Administration and Definitions, for
+definitions of Federal Award, Federal Award Agreement, and Federal
+Financial Assistance.
+
+1. Responsibilities:
+  Every department head, elected official, employee or agent of the county (public official) who has
+authority to receive or expend Federal Financial Assistance is responsible for compliance with the
+policy. Each is responsible for ensuring that costs associated with Federal Awards are allowable in
+accordance with the purpose of the Federal Award Agreement and in compliance with all applicable
+laws and regulations.
+
+1.1. Allowable Costs – The total cost of a Federal Award is the sum of the allowable direct and
+allocable indirect costs, less any applicable credits.  Costs must meet the following criteria
+to be allowable under Federal Awards:
+a. Be necessary and reasonable for the performance of the Federal Award and be
+allocable (chargeable or assignable) to that Federal Award in accordance with the
+relative benefits received.
+SUBJECT: Federal Awards – Allowable Costs
+
+431.2
+b. Conform to any limitations or exclusions set forth in the Uniform Guidance or in
+the Federal Award Agreement as to type or amount of cost items.
+c. Be consistent with policies and procedures that apply uniformly to both federally
+financed and other activities of the county.
+d. Be given consistent treatment. A cost may not be assigned to a Federal Award as a
+direct cost if any other cost incurred for the same purpose in like circumstances has
+been allocated to the Federal Award as an indirect cost.
+e. Be determined in accordance with generally accepted accounting principles
+(GAAP).
+f. Not be included as a cost or used to meet cost-sharing or matching requirements of
+any other federally financed program in either the current or a prior period.
+g. Be adequately documented.
+h. Comply with the general cost provisions of the Uniform Guidance, 2 CFR Section
+200.420.  Examples of unallowable costs include, but are not limited to: alcohol,
+bad debts, contributions and donations, entertainment costs, goods and services for
+personal use, lobbying, organization costs associated with incorporation fees, and
+selling and marketing costs (except for prior approval of federal awarding agency).
+i. Receive prior written approval for certain items of cost as outlined in the Uniform
+Guidance, 2 CFR Section 200.407.
+1.2. Classification of Costs – All costs associated with Federal Awards shall be classified as
+direct or indirect costs. All allowable costs should be included in the budget or the
+financial plan of the Federal Award Agreement. Disallowed costs will not be charged to
+the Federal Award.
+
+a. Direct Costs – Those costs that can be identified specifically with a particular cost
+objective or that can be directly assigned to such activities easily and with a high
+degree of accuracy. Examples include, but are not limited to: payroll costs of
+employees who work directly on the Federal Award, materials and other expenses
+incurred in direct relation to administering the Federal Award, and subrecipient
+expenses.
+b. Indirect Costs – Those costs incurred for a common or joint purpose benefitting
+more than one cost objective and/or not readily assignable to the cost objective
+benefitted. For example, administrative costs charged to the grant based on a cost
+allocation plan or approved indirect cost rate would be considered indirect costs.
+c. Disallowed Costs - Those costs that the federal awarding agency or pass-through
+entity determines to be unallowable, in accordance with applicable federal statutes,
+regulations, and terms and conditions of the Federal Award.  To determine whether
+a cost is allowed or disallowed, refer to: 1) the Federal Award Agreement and 2)
+section 200.420-475 General Provisions for Selected Items of Cost under the
+Uniform Guidance for Federal Awards.  If unable to determine whether the cost is
+allowed or disallowed, contact the federal awarding agency or granting agency
+administering the Federal Award for further clarification.
+
+SUBJECT: Federal Awards – Allowable Costs
+
+431.3
+1.3. Administrative Charges on Federal Awards – Administrative charges must be allocated
+as a reimbursable cost or in-kind cost to maintain consistency in the application of
+administrative charges.
+
+a. Departments will include administrative charges in the grant application in
+accordance with the county’s approved cost allocation plan and/or indirect cost
+rate.
+b. Administrative charges will be included in the budget of the Federal Award
+approved by the awarding agency.
+c. If the Federal Award Agreement prohibits administrative charges or has a cap on
+those types of costs, the department will be responsible for including those costs as
+an in-kind match against the Federal Award.
+d. The Chief Administrative Officer and Board of Commissioners may grant an
+exception to the allocation of administrative charges to a federal award.
+
+2. Exceptions:
+Other than the exception noted in Section 1.3(d), there are no exceptions to this policy.
+
+3. Implementation:
+The Chief Financial Officer and the Chief Accountant are authorized to implement this policy, and
+authorized to record corrections or adjustments if costs are determined disallowed or in violation
+of this policy.
+
+4. Periodic Review:
+This policy will be reviewed by the Chief Financial Officer at least every three years.
+
+5. Resources:
+ The following are additional resources in relation to this policy:
+a. Uniform Administrative Requirements, Cost Principles and Audit Requirements for
+Federal Awards (Title 2, Code of Federal Regulations, Part 200 (2 CFR 200))
+b. Office of Management and Budget (OMB) Circular A-87, Cost Principles for State,
+Local and Indian Tribal Governments (2 CFR 225)
+c. OMB Circular A-102, Grants and Cooperative Agreements With State and Local
+Governments
+d. OMB Circular A-133, Audits of States, Local Governments and Non-Profit
+Organizations

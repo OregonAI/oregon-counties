@@ -1,0 +1,225 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wallowa-county
+id: wallowa-land-use-application-pack-fillable
+title: 'Application Pack Fillable'
+doc_type: ordinance
+citation: 'Application Pack Fillable'
+authority_level: county_ordinance
+issuing_body: 'Wallowa County Board of Commissioners'
+source_url: https://www.co.wallowa.or.us/sites/g/files/vyhlif14051/files/media/land-use-and-development/file/5261/Application%20Pack_Fillable.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: cb1adc3c934d7701db17a89c7dc6fd358a2a9b8f504be6658ad3f0e6c3322636
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 358.920
+  related: []
+  supersedes: []
+tags: [wallowa-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Wallowa County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Application Pack Fillable (Application Pack Fillable)
+
+## At a glance
+
+Application Pack Fillable — land use of Wallowa County. 5 pages.
+
+## Full text
+
+ApplicaƟon for Onsite Sewage
+Treatment System
+Harney County Planning Department
+Onsite Program
+111 W. Washington St.
+Burns, OR 97720
+541‐573‐2761 or 541‐589‐5788
+Date Stamp: FOR COUNTY USE ONLY:
+Date Received:_____________________
+Fee Paid:___________________
+ApplicaƟon Permit
+#:________________________________
+Date of 1st Response:________________
+Date of 2nd Response:________________
+Date of Final Response:_______________
+Date of CompleƟon:__________________
+Scanned:__________ Data Entry:_________
+A. Property Owner InformaƟon
+N a m e  M ailing Address (Street or PO BOX, City, State, Zip) Phone #
+B. Legal Property DescripƟon
+Township Range SecƟon  Tax Lot # Tax Account # Acreage/Lot Si ze
+County  Subdivision Name Lot                  Block
+Property Address:
+A d d r e s s ,  C i t y ,  Z i p
+DirecƟons to Property:
+C. ExisƟng FaciliƟes/ Proposed Facility/ Water InformaƟon
+ExisƟng FaciliƟes:
+Single Family
+        Number of Bedrooms
+Other_____________
+Proposed Facility:
+Single Family Residence
+Number of Bedrooms
+Other______________
+Water Supply:
+Public:
+Name
+Private:
+       Well, Spring, Shared
+D. Type of ApplicaƟon
+Site EvaluaƟon
+ConstrucƟon Permit
+Repair Permit
+  Major Minor
+AlteraƟon Permit
+Major Minor
+Renewal Permit
+   Permit #
+ExisƟng Systems EvaluaƟon
+Permit Transfer
+Permit Reinstatement
+AuthorizaƟon NoƟce For:
+ConnecƟon to an ExisƟng System NOT IN USE
+Replacing a Mobile Home or House
+         with another Mobile Home or House
+The AddiƟon of One or More bedrooms
+Personal Hardship
+Temporary Housing
+Other– Please Specify:
+ If the required fee and aƩachments are not included with this applicaƟon, it will be returned to you as incomplete.  Post a ﬂag or sign
+with your name and address at the entrance to the property.  Flag and number the test holes.
+By my signature, I cerƟfy that the informaƟon I have furnished is correct, and hereby grant Baker, Grant, Harney, Union, Wallowa,
+and Wheeler Counties and it’s authorized agents permission to enter onto the above described property for the sole purpose of this
+applicaƟon.
+S i g n a t u r e D a t e
+Applicant Name (Please Print Legibly) Address, Phone # and e‐mail
+Applicant Mailing Address
+Applicant is the Owner Authorized RepresentaƟve Licensed SepƟc Installer Installer #:________________
+SITE PLAN FOR CONSTRUCTION/INSTALLATION
+Site Plan MUST Be Current
+Property Owner:_______________________________________________________ Site ID:____________________________
+Site Address:_______________________________________________________________________ City:____________________
+Township:_____ Range:______ SecƟon:_____    Tax Lot:____________ Acres:__________
+Subdivision: _____________________ Lot:________________ Block: _______________________
+Scale: 1 square = _______ Feet          SITE PLAN MUST SHOW ALL PROPERTY LINES AND DIMENSIONS
+I cerƟfy that the above informaƟon is accurate to the best of my knowledge.  This site plan is based on actual measurements and
+condiƟons on the site.
+I am the Owner or   Authorized Agent.       Name (please prin t): ________________________________________________
+           Signature:_________________________________________   Date: _________________
+Department of Environmental Quality
+LAND USE COMPATIBILITY STATEMENT (LUCS)
+for Onsite Wastewater Treatment System Permits
+WHAT IS LUCS? The Land Use CompaƟbility Statement is the process used by the DEQ to determine whether DEQ permits and
+other approvals aﬀecƟng land use are consistent with local government comprehensive plans.  The LUCS form is included in the
+onsite permit applicaƟon approval packet.
+Harney County Planning Department
+Onsite Program
+111 W. Washington St.,
+Burns, OR 97720
+541‐573‐2761 or 541‐589‐5788
+WHY IS A LUCS REQUIRED?  Oregon law requires state agency acƟviƟes that impact land use be consistent with local compre‐
+hensive plan and land use regulaƟons.  Oregon AdministraƟve Rules (OAR) Chapter 340, Division 18 idenƟﬁes agency acƟviƟes or
+programs that signiﬁcantly aﬀect land use and the process for ensuring consistency.
+WHEN IS A LUCS REQUIRED?   A LUCS is required for nearly all DEQ permits, regulaƟons unde r general permits, and certain other
+approvals and cerƟﬁcaƟons that aﬀect land use.  This form only applies to onsite wasterwater treatment system permits and acƟvi-
+Ɵes.  WPCF applicants must complete DEQ’S General LUCS form.
+Step Who Does it What Happens
+1 Applicant Completes SecƟon 1 of the LUCS and submits it to the appropriate city or county planning
+2 City or County
+Planning Oﬃce
+Completes SecƟon 2 of the LUCS by determining if the acƟvity or use meets all local planning
+requirements, and returns to the applicant the signed and dated LUCS form with ﬁndings of
+fact for any local reviews or necessary planning approvals.
+3 Applicant Includes the  completed LUCS with ﬁndings of fact with the DEQ permit or approval submiƩal
+A permit cannot be issues if the proposed facility does not comply with all applicable local land use requirements.  The applicant is
+responsible for working with the local planning oﬃce to comply with land use requirements.
+WHERE TO GET HELP?  QuesƟons about the LUCS process can be directed to the Planning Department of the jurisdiction in
+which your property is located:
+Baker County Planning Department: 541-523-8219 ext. 146
+Grant County Planning Department: 541-575-1519
+Harney County Planning Department: 541-573-8174
+Union County Planning Department: 541-963-1014 ext. 300
+Wallowa County Planning Department: 541-426-4543 ext. 1168
+Wheeler County Planning Department: 541-728-1275
+CULTURAL RESOURCES PROTECTION LAWS: Applicants involved i n ground‐disturbing acƟviƟes should be aware of federal and
+state cultural resources protecƟon laws.  ORS 358.920 prohibits the excavaƟon, injury, destrucƟon, or alteraƟon of an
+archaeological site or object, or removal of archaeological objects from public and private lands without an archaeological permit
+issued by the State Historic PreservaƟon Oﬃce.  16 USC 470, SecƟon 106, NaƟonal Historic PreservaƟon Act of 1966 requires a
+federal agency, prior to any undertaking, to take into account the eﬀect of the undertaking that is included on or eligible for
+inclusion of the NaƟonal Regis‐ter.  For further informaƟon, contact the State Historic PreservaƟon Oﬃce at 503‐378‐4168
+extension 232
+SECTION 1: TO BE COMPLETED BY APPLICANT
+1: Applicant Name/ Property Owner:
+Mailing Address:
+City, State, Zip:
+Telephone:
+2: Property InformaƟon:
+C o u n t y :  T a x  L o t :
+Township____________  Range___________  SecƟon__________
+Physical Address:
+Block_________  Lot__________________ Subdivision Name (if appl icable):____________________________________
+3. This proposal facility is for:
+An Individual, single‐family dwelling
+  Other: Describe the type of development, business, or facility and the provided services or products:
+4. Permit or approval being requested:
+ConstrucƟon–InstallaƟon permit for: New ConstrucƟon   Repair AlteraƟon
+Non‐Water carried facility requests (for example: pit privy/vault toilet for campgrounds)
+AuthorizaƟon NoƟce for: Re placement of dwelling Bedro om addiƟon
+Other changes in land use involving potenƟal sewage ﬂow increases
+SECTION 2: TO BE COMPLETED BY CITY OR COUNTY PLANNING OFFICIAL
+5. Property Zoning:_________________________________ Zoning Minimum Parcel Size:________________________________
+6. The facility is located: inside city limits inside UGB outside UGB
+If inside UGB, the proposed facility is subject to:
+City jurisdicƟon County jurisdicƟon  Shared City/County  jurisdicƟon
+7. Does the proposed facility comply with all applicable local land use requirements? Yes     No
+If you answered “Yes” above, was this compliance based on:
+Compliance with local comprehensive plans and land use requirements (provide a citaƟon to the applicable provisions)
+CondiƟonal approval (provide ﬁndings and citaƟon or aƩach a copy of the applicable land use decision)
+Measure 49 waiver (provide Department of Land ConservaƟon and Development approval number)
+Either provide reasons for aﬃrmaƟve compliance decision or aƩach ﬁndings of fact:
+8. Planning Oﬃcial Signature:_________________________________________________________________________________
+Print Name:______________________________________________  Date:_____________________________________
+Title:____________________________________________________  Phone #:__________________________________
+Harney County Planning Department
+Onsite Program
+111 W. Washington St,
+Burns, OR 97720
+541‐573‐2761 or 541‐589‐5788
+NOTICE AUTHORIZING REPRESENTATIVE
+I,    , have authorized
+ to act as my agent in performing the
+acƟviƟes necessary to obtain site evaluaƟons, permits, and other onsite wastewater treatment program services provided by the
+Harney County Planning Department on the property described below in accordance with OAR Chapter 340, Division 071.  I agree
+that any costs no saƟsﬁed by the Authorized RepresentaƟve are my responsibility.
+(Property Owner– PRINT NAME)
+(Authorized RepresentaƟve– PRINT NAME)
+PROPERTY IDENTIFICATION
+Property Situs or Road Address and as described in the records as:
+Account #:
+Township Range SecƟon Map ID Tax Lot #(s)
+PROPERTY OWNER:
+Printed Name:
+S i g n a t u r e :  D a t e :
+A d d r e s s :  P h o n e  # :
+C i t y :  S t a t e :  Z i p :  F a x  # :
+E‐mail Address:
+AUTHORIZED REPRESENTATIVE:
+Printed Name:
+S i g n a t u r e :  D a t e :
+A d d r e s s :  P h o n e  # :
+C i t y :  S t a t e :  Z i p :  F a x  # :
+E‐mail Address:

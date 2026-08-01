@@ -1,0 +1,60 @@
+group: wallowa
+title: Wallowa County sources
+county: wallowa-county
+crawl:
+  decision: proceed
+  checked: '2026-08-01'
+  basis: The county's own site states no AI directive and serves us fine. Its ORDERS are in Google Drive,
+    whose download host disallows everyone — honoured, and it is a blanket directive rather than one aimed
+    at us.
+  hosts:
+  - host: www.co.wallowa.or.us
+    robots_url: https://www.co.wallowa.or.us/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: No named AI agents.
+  - host: drive.usercontent.google.com
+    robots_url: null
+    ai_block: false
+    content_signal: null
+    notes: 'Blanket Disallow: / on the Drive download host. Honoured; the folder view is also a client-side
+      app with no per-file URLs.'
+last_checked: '2026-07-31'
+upstream_signal: No feed and no codification, so there is no consolidated text whose hash would change;
+  freshness means new documents appearing in the land-use section.
+sources:
+- id: wallowa-land-use-application-pack-fillable
+  url: https://www.co.wallowa.or.us/sites/g/files/vyhlif14051/files/media/land-use-and-development/file/5261/Application%20Pack_Fillable.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Application Pack Fillable
+  last_checked: '2026-07-31'
+- id: wallowa-land-use-2024-onsite-fee-schedule
+  url: https://www.co.wallowa.or.us/sites/g/files/vyhlif14051/files/media/land-use-and-development/file/5266/2024-Onsite-Fee-Schedule.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: 2024-Onsite-Fee-Schedule
+  last_checked: '2026-07-31'
+- id: wallowa-land-use-volume-i-wallowabasicplan-rf
+  url: https://www.co.wallowa.or.us/sites/g/files/vyhlif10466/files/media/land-use-and-development/file/3816/Volume_I_WallowaBasicPlan_RF.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Volume I WallowaBasicPlan RF
+  last_checked: '2026-07-31'
+- id: wallowa-land-use-volume-ii-wallowa-mjnhmp-final
+  url: https://www.co.wallowa.or.us/sites/g/files/vyhlif10466/files/media/land-use-and-development/file/3821/volume_ii_wallowa_mjnhmp_final.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Volume Ii Wallowa Mjnhmp Final
+  last_checked: '2026-07-31'
+- id: wallowa-land-use-volume-iii-wallowa-mjnhmp-final-rev23-09-11
+  url: https://www.co.wallowa.or.us/sites/g/files/vyhlif10466/files/media/land-use-and-development/file/3826/volume_iii_wallowa_mjnhmp_final_rev23_09_11.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Volume Iii Wallowa Mjnhmp Final Rev23 09 11
+  last_checked: '2026-07-31'

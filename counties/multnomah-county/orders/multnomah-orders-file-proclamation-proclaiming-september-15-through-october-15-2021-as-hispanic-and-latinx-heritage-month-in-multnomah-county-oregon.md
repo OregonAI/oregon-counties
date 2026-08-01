@@ -1,0 +1,104 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-proclamation-proclaiming-september-15-through-october-15-2021-as-hispanic-and-latinx-heritage-month-in-multnomah-county-oregon
+title: 'Proclamation Proclaiming September 15 Through October 15, 2021, As Hispanic And Latinx Heritage Month In Multnomah County, Oregon.'
+doc_type: ordinance
+citation: 'Proclamation Proclaiming September 15 Through October 15, 2021, As Hispanic And Latinx Heritage Month In Multnomah County, Oregon.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/proclamation_proclaiming_september_15_through_october_15%2C_2021%2C_as_hispanic_and_latinx_heritage_month_in_multnomah_county%2C_oregon./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 0d0fb2a8a196c05fce2ec37b30edba3f3c7787d7d026fed16807e683da0a95e9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Proclamation Proclaiming September 15 Through October 15, 2021, As Hispanic And Latinx Heritage Month In Multnomah County, Oregon. (Proclamation Proclaiming September 15 Through October 15, 2021, As Hispanic And Latinx Heritage Month In Multnomah County, Oregon.)
+
+## At a glance
+
+Proclamation Proclaiming September 15 Through October 15, 2021, As Hispanic And Latinx Heritage Month In Multnomah County, Oregon. — orders of Multnomah County. 2 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS FOR
+MULTNOMAH COUNTY, OREGON
+PROCLAMATION NO. 2021-070
+Proclaiming September 15 through October 15, 2021, as Hispanic and Latinx  Heritage
+Month in Multnomah County, Oregon.
+The Multnomah County Board of Commissioners Finds:
+a. Multnomah County has been home to people who identify as Hispanic, Latino, Latinx,
+Chicano or indigenous from Mexico, Central or South America for over 100  years. In
+the 1920 census, 37 Mexicans were listed as living in Multnomah County.
+b. Members of the Latinx community in Multnomah County include people whose families
+have been here for generations and some of the newest members of our community.
+Recent census data shows that people of Hispanic origin are among the fastest
+growing populations in Oregon and are estimated to make up close to 13% percent of
+Multnomah County’s population.
+c. Latinx residents in Multnomah County contribute to our culture and arts as singers,
+performers and writers. They help drive our small business economy as workers,
+business owners and entrepreneurs. They enrich our academic environment as
+teachers, professors and engineers. They are driving social and political change as
+advocates, activists and elected officials. They ensure our health and community as
+nurses, doctors, caretakers and childcare workers.
+d. Many jobs and professions that are classified as “frontline workers” during the COVID-
+19 pandemic contain workforces with large numbers of Latinx people, including but not
+limited to: medical professionals, teachers, grocery store workers, farmworkers, and
+other jobs that are critical to a functioning society. In these last eighteen months, our
+broader community has been held up by the contributions of Latinx essential workers.
+e. The COVID -19 pandemic has disproportionately affected the Latinx community in
+Multnomah County. Latinx residents comprise 13 percent of Multnomah County’s
+population, but have accounted for 20 pe rcent of COVID-19 cases. Additionally, only
+46.5% of eligible Latinx individuals are vaccinated, making it the least vaccinated group
+in Multnomah County compared to other races and ethnicities.
+f. Multnomah County, community -based organizations, and cultu rally-specific health
+clinics are working tirelessly to reach this underserved and at -risk population. Efforts
+to make the COVID-19 vaccine more accessible, for example, translating materials into
+Spanish, providing incentives to cover the costs of transpo rtation or child care, and
+setting up vaccine clinics in areas of Portland where undervaccinated populations live,
+are all helping to increase rates of vaccination among Latinx people.
+g. Latinx employees make up 10 percent of Multnomah County’s workforce. The
+approximately five hundred Latinx County employees allows us to better serve our
+community by bringing multilingual and multicultural capacity to our workforce.
+h. Multnomah County takes great pride in the growing diversity of our community and in
+the impressive and valuable contributions made by our Latinx residents to the County's
+growth, prosperity and well-being.
+i. Latinx Heritage Month celebrates and recognizes the contributions that  the Latinx
+communities in the United States have made to society and culture. This month, we
+honor the rich heritage of Latinx communities and celebrate their countless
+achievements.
+The Multnomah County Board of Commissioners Proclaims:
+1. September 15 through October 15, 2021 as Hispanic and Latinx Heritage Month in
+Multnomah County, Oregon, in recognition and celebration of the many contributions
+of Latinx residents to the County and our community.
+2. We call upon all residents of Multnomah County to celebrate the history and recognize
+the contributions of Latinx residents to our community, state, and nation.
+ADOPTED this 9th day of September, 2021.
+SUBMITTED BY: Commissioner Jessica Vega Pederson, District 3
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By
+     Jenny M. Madkour, County Attorney

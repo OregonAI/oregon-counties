@@ -1,0 +1,494 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lake-county
+id: lake-land-use-18
+title: '18'
+doc_type: ordinance
+citation: '18'
+authority_level: county_ordinance
+issuing_body: 'Lake County Board of Commissioners'
+source_url: https://lake.county.codes/LCC/18
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: 12b3feb89c7c5f9be231e5036962e5388abd93bdfb277f21a2bc11a105f4939a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [lake-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lake County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 18 (18)
+
+## At a glance
+
+18 — land use of Lake County. 3067 characters.
+
+## Full text
+
+Title 18 Zoning | Lake County Code 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ Skip to main content 
+
+ 
+ 
+ Loading…
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ Lake County, OR 
+
+ 
+ County Code
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Home 
+ 
+ 
+ 
+ 
+ 17.05.010 
+ 
+ 
+ 
+ 
+ Code 
+ 
+ 
+ 
+ 
+ Ch. 18.05 
+ 
+ 
+ 
+ Toggle site navigation 
+ 
+ Menu 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Lake County 
+ County Code
+ Title 18, Zoning 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Home 
+ 
+ 
+ 
+ 
+ Contents 
+ 
+ 
+ 
+ 
+ Track 
+ 
+ 
+ 
+ Legislative History
+ 
+ 
+ 
+ 
+ 
+ Share 
+ 
+ 
+ 
+ This Page
+ 
+ 
+ Your Selections
+ 
+ 
+ 
+ 
+ 
+ 
+ Settings 
+ 
+ 
+ 
+ 
+ Help 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Lake County 
+ County Code
+ Title 18, Zoning 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Search Within This 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Title 18 ZONING 
+ This title is included in your selections. 
+ 
+
+ Chapters: 
+
+ 18.05 Introductory Provisions 
+ 18.10 Exclusive Farm Use Zone – A-1 
+ 18.15 Agriculture Use Zone – A-2 
+ 18.20 Rural Center Zone – A-3 
+ 18.25 Forest Use Zone – F-1 
+ 18.30 Rural Residential Zone – R-1 
+ 18.35 Farm Residential Zone – R-2 
+ 18.40 Suburban Residential Zone – R-3 
+ 18.45 Commercial Zone – C-1 
+ 18.50 Light Industrial Zone – M-1 
+ 18.55 Heavy Industrial Zone – M-2 
+ 18.60 Public Facility Zone – P-F 
+ 18.65 Airport Approach Combining Zone – A-A 
+ 18.70 High Groundwater Combining Zone – H-G 
+ 18.75 Reserved 
+ 18.80 Waste Disposal, Inactive Uranium Mill Tailings Zone – WD 
+ 18.85 Geological Hazard Combining Zone – G-H 
+ 18.90 Significant Resource Combining Zone – S-R 
+ 18.95 Limited Use Combining Zone – L-U 
+ 18.100 Supplementary Provisions 
+ 18.105 Off-Street Parking and Loading Requirements 
+ 18.110 Sign Requirements 
+ 18.115 Site Plan Review 
+ 18.120 Conditional Uses 
+ 18.125 Exceptions and Nonconforming Uses 
+ 18.130 Temporary Uses 
+ 18.135 Marijuana Establishments 
+ 18.140 Variances 
+ 18.145 Partitions 
+ 18.150 Zoning Amendments 
+ 18.155 Hearings/Findings 
+ 18.160 Administrative Provisions 
+ 18.165 Land Use Enforcement 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ selectionsbutton#showSelections"
+ data-controller="selectionsbutton"
+>
+ Your Selections
+ 
+ 
+ 
+ 
+
+ 
+ What’s Nearby 
+ Title 
+ 
+ 
+ 17 
+ 
+ 
+ 18 
+ 
+ 
+ Tables 
+ 
+ 
+ Chapter 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 18.05 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ The Lake County Code is current through Ord. 121, 2026, passed May 5, 2026. 
+ Disclaimer: The county clerk’s office has the official version of the Lake County Code. Users should contact the county clerk’s office for ordinances passed subsequent to the ordinance cited above. 
+
+ 
+
+ 
+ County Website: www.lakecountyor.org 
+ 
+
+ Hosted by ICC Code Solutions. 
+
+ 
+ Privacy Policy 
+ |
+ Terms of Use 
+ |
+ Cookie Preferences 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ Contents 
+ 
+ × 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ County Code
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Your Selections 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ Expand All 
+ 
+ 
+ Collapse All 
+ 
+ 
+
+ 
+ 
+ Share 
+ 
+ 
+ Clear 
+ 
+ 
+
+ 
+ Close 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ View Full Table 
+ View Full Image 
+ View Full File 
+ × 
+ 
+
+ 
+ 
+
+ 
+ 
+ Go to Top 
+ 
+ 
+ Go to Bottom 
+ 
+ 
+ Share/Save 
+ 
+ 
+ 
+ Close 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Save, Share, Bookmark or Print
+ 
+ 
+ History of This Subsection

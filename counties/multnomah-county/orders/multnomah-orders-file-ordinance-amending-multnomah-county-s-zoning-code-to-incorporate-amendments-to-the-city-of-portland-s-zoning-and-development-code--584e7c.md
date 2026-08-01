@@ -1,0 +1,14794 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-ordinance-amending-multnomah-county-s-zoning-code-to-incorporate-amendments-to-the-city-of-portland-s-zoning-and-development-code--584e7c
+title: 'Ordinance Amending Multnomah County’S Zoning Code To Incorporate Amendments To The City Of Portland’S Zoning And Development Code To Implement Changes Related To The City Of Portland’S Shelter To Housing Continuum Project And Declaring An…'
+doc_type: ordinance
+citation: 'Ordinance Amending Multnomah County’S Zoning Code To Incorporate Amendments To The City Of Portland’S Zoning And Development Code To Implement Changes Related To The City Of Portland’S Shelter To Housing Continuum Project And Declaring An…'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/ordinance_amending_multnomah_county%E2%80%99s_zoning_code_to_incorporate_amendments_to_the_city_of_portland%E2%80%99s_zoning_and_development_code_to_implement_changes_related_to_the_city_of_portland%E2%80%99s_shelter_to_housing_continuum_project_and_declaring_an%E2%80%A6/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d2ebd496d228bd6c50a21a12335a4d6343b664d3496fd9f0533dc43e62605bba
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.303
+    - ORS 197.307
+    - ORS 197.830
+    - ORS 203.082
+    - ORS 215.427
+    - ORS 268.380
+    - ORS 443.400
+    - ORS 446.265
+    - ORS 801.100
+    - ORS 92.040
+    - OAR 660-007-0035
+    - OAR 660-012-0060
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance Amending Multnomah County’S Zoning Code To Incorporate Amendments To The City Of Portland’S Zoning And Development Code To Implement Changes Related To The City Of Portland’S Shelter To Housing Continuum Project And Declaring An… (Ordinance Amending Multnomah County’S Zoning Code To Incorporate Amendments To The City Of Portland’S Zoning And Development Code To Implement Changes Related To The City Of Portland’S Shelter To Housing Continuum Project And Declaring An…)
+
+## At a glance
+
+Ordinance Amending Multnomah County’S Zoning Code To Incorporate Amendments To The City Of Portland’S Zoning And Development Code To Implement Changes Related To The City Of Portland’S Shelter To Housing Continuum Project And Declaring An… — orders of Multnomah County. 413 pages.
+
+## Full text
+
+Page 1 of 3 - Amending Multnomah County’s Zoning Code to Incorporate Amendments
+to the City of Portland’s Zoning and Development Code to implement
+changes related to the City of Portland’s Shelter to Housing Continuum
+Project and Declaring an Emergency.
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+ORDINANCE NO.
+Amending Multnomah County’s Zoning Code to Incorporate Amendments to the City of
+Portland’s Zoning and Development Code to implement changes related to the City of
+Portland’s Shelter to Housing Continuum Project and Declaring an Emergency.
+The Multnomah County Board of Commissioners Finds:
+a. Pursuant to an intergovernmental agreement executed in 2002 (the “IGA”), the City
+of Portland, Oregon (“City”), provides, with certain exceptions, land use planning
+services for those areas of unincorporated Multnomah County located within the
+City’s Urban Services Boundary (the “Unincorporated Urban Areas”).
+b. Because the County retains legislative authority over the Unincorporated Urban
+Areas, the County assumed an obligation in the IGA to amend County land use
+policies and regulations  as they relate to the Unincorporated Urban Areas  to
+incorporate applicable City land use policies and regulations, and all subsequent
+amendments thereto.
+c. Ordinance No. 190380 (adopted by the Portland City Council 04-28-21 and in full
+effect 08-01-21), amends Title 33 (Planning and Zoning) of Portland City Code to
+facilitate the provision of shelter and housing options for people in need.  The
+amendments make it easier to site homeless shelters in various zones , including
+all zones located within the Unincorporated Urban Areas, to allow public agencies
+and community-based nonprofits to open alternative outdoor shelters, allow group
+living configurations more broadly, and allow occupancy of one recreational vehicle
+(also known as tiny house on wheels) on residential property.
+d. The Portland Bureau of Planning and Sustainability, the Portland Housing Bureau,
+the Portland Bureau of Development Services, and the Joint City-County Office of
+Homeless Services partnered on this project to retool Portland City Codes to better
+address the emergency housing needs of people experiencing homelessness or
+at risk of homelessness or displacement.
+e. The Shelter to Housing Continuum Project is intended to further fair housing goals
+by expanding shelter and housing options throughout the city  and the Urban
+Unincorporated Areas.
+f. The Shelter to Housing Continuum Project includes changes to Portland City Code
+to remove barriers to the siting of shelters, and enable operation by public agencies
+or nonprofit organizations of outdoor shelters where people can be accommodated
+in tents, yurts, small cabins or vehicles on sites that can  also have supportive
+Page 2 of 3 - Amending Multnomah County’s Zoning Code to Incorporate Amendments
+to the City of Portland’s Zoning and Development Code to implement
+changes related to the City of Portland’s Shelter to Housing Continuum
+Project and Declaring an Emergency.
+services. Supportive services include bathrooms, laundry, and cooking  facilities.
+Further, the code changes ease restrictions on unrelated persons sharing homes
+in residential areas and allows occupancy of a recreational vehicle, or a tiny house
+on wheels, on residential property. The code changes  provide for a continuum of
+new shelter  and housing alternatives for people experiencing homelessness ,
+including those currently camping on streets and in open spaces.
+g. The Shelter to Housing Continuum Project includes three volumes. Volume One
+contains an introduction to the project. Volume Two contains amendments to Title
+33, Planning and Zoning. Volume Three contains amend ments to other titles of
+Portland City Code, and those amendments were adopted by the City through a
+separate companion ordinance, Ordinance 190381. The titles of Portland City
+Code amended in Ordinance 190381 are not subject to the IGA and therefore
+those amendments are not proposed for adoption in this ordinance.
+h. The City has  requested that the County amend the County’s Zoning Code to
+incorporate the changes implemented in City Ordinance 190380.
+i. Pursuant to State and City notice requirements, as well as the terms of the IGA,
+the City provided public notice of City Ordinance 190380. The City provided an
+opportunity for the public to be heard at public hearings, culminating with hearings
+before the City’s Planning and Sustainability Commission and the City Council.
+Multnomah County Ordains as Follows:
+Section 1. Multnomah County’s Zoning Code is amended to incorporate the
+amendments to Title 33 in City of Portland Ordinance 190380 attached hereto as Exhibit
+1, except for directive ‘d,’ which will no longer be in effect when this Ordinance goes into
+effect. The legislative intent and findings set forth in City of Portla nd Ordinance 190380
+are adopted as findings in support of this Ordinance.
+Section 2. In accordance with ORS 215.427(3), the changes resulting from  Section 1
+of this ordinance shall not apply to any decision on an application that is submitted before
+the applicable effective date s of this ordinance and that is made  complete prior to the
+applicable effective dates of this ordinance or within 180 days of the initial submission of
+the application.
+Section 3. In accordance with ORS 92.040(2), for any subdivisions for which the initial
+application is submitted before the applicable effective date s of this ordinance,  the
+subdivision application and any subsequent application for construction shall be governed
+by the County's land use regulations in effect as of the date the subdivision application is
+first submitted.
+Section 4. Any future amendments to the legislative matters listed in Section 1 above
+are exempt from the requirements of MCC 39.1210. The Board acknowledges, authorizes
+Page 3 of 3 - Amending Multnomah County’s Zoning Code to Incorporate Amendments
+to the City of Portland’s Zoning and Development Code to implement
+changes related to the City of Portland’s Shelter to Housing Continuum
+Project and Declaring an Emergency.
+and agrees that the Portland Planning and Sustainability Commission will act instead of
+the Multnomah County Planning Commission for the Unincorporated Urban Areas  by
+employing the City's  own legislative procedures, including providing notice to , and
+facilitating participation from , property owners within Unincorporated Urban Areas . The
+Board will consider the recommendations of the Portland Planning and Sustainability
+Commission and City Council when legislative land use matters for the Unincorporated
+Urban Areas come before the Board for action.
+Section 5. This ordinance being necessary for the health, safety, and general welfare
+of the people of Multnomah County, an emergency is declared and adoption of the
+amendments in Ordinance 190380 described in Section 1 of this Ordinance will take effect
+within the Unincorporated Urban Areas on August 1, 2021.
+FIRST READING AND ADOPTION: July 15, 2021
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+REVIEWED:
+JEN
+NY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By K�ce ��---
+Katherine Thomas, Assistant County Attorney
+SU
+BMITTED BY:  Jamie Waltz, Director, Department of Community Services
+ORDINANCE No
+. As Amended
+*Amend Title 33 Planning and Zoning to facilitate the provision of shelter and housing
+options for Portlanders in need  (Ordinance; amend Code Title 33)
+The City of Portland ordains:
+Section 1.  The Council finds:
+1. On October 7, 2015,
+ the Council, through Ordinance 187371, declared a
+housing emergency for a period of one year.
+2. On September 7, 2016, the Council, through Ordinance 187973, extended the
+housing emergency declared by Ordinance 187371 for an additional one-year
+period.
+3. On October 4, 2017, the Council, through Ordinance 188627, further extended
+the housing emergency for another eighteen-month duration.
+4. On February 19, 2019, the Council, through Ordinance 189387, continued the
+housing emergency initially declared by Ordinance 187371, and subsequently
+extended twice, until April 4, 2021.
+5. Ordinance 189387 also directed the Bureau of Planning and Sustainability
+(BPS) to develop a legislative proposal making permanent changes to city code
+to allow for temporary housing, shelters, and alternative shelter siting. This
+directive led to the Shelter to Housing Continuum Project.
+6. The State of Emergency Declarations by City Council have allowed for the siting
+of shelters, and related services, and has expedited the design review process
+for affordable housing. These operational improvements have provided
+significant efficiencies and improvements to be able to address expedited
+affordable housing development, and to provide service locations to people
+experiencing homelessness.
+7. The population experiencing homelessness are amongst the most vulnerable
+residents of Portland. On a single night during the winter of 2019, a point-in-time
+(PIT) count recorded 4,015 people as experiencing homelessness. The
+persistence of people experiencing unsheltered homelessness, the reliance on
+our emergency shelters, and the severe shortage of affordable housing are
+circumstances that create an immediate need to provide adequate, safe, and
+habitable shelter to persons experiencing homelessness.
+8. Experiencing homelessness causes tremendous human suffering and demands
+a spectrum of emergency response that includes adequate, safe, and habitable
+shelters, affordable housing units, and appropriate supportive services. Since
+2015, the Council has recognized and responded to the ongoing affordable
+housing crisis in an emergency mode.
+190380
+9. The Bureau of
+ Planning and Sustainability, the Portland Housing Bureau, the
+Bureau of Development Services, and the Joint City-County Office of Homeless
+Services partnered on this project to retool Portland City Codes to better
+address the emergency housing needs of people experiencing homelessness or
+at risk of homelessness or displacement.
+10. The Shelter to Housing Continuum Project is intended to further fair housing
+goals by expanding shelter and housing options throughout the city.
+11. Research for this project was funded by a technical assistance grant from the
+Oregon Department of Land Conservation and Development.
+12. The Shelter to Housing Continuum Proposed Draft was released for public
+review on November 25, 2020.
+13. On October 30, 2020, notice of the Proposed Draft was mailed to the
+Department of Land Conservation and Development in compliance with the
+post-acknowledgement review process required by OAR 660-18-0020.
+14. On December 8, 2020 and December 15, 2020, the Portland Planning and
+Sustainability Commission (PSC) held public hearings on the Proposed Draft.
+The PSC voted to forward the Shelter to Housing Continuum Project to City
+Council on January 26, 2021.
+15. The Shelter to Housing Continuum Recommended Draft was released for public
+review on February 17, 2021.
+16. The Shelter to Housing Continuum Recommended Draft includes three
+volumes. Volume One contains an introduction to the proposal. Volume Two
+contains PSC-recommended amendments to Title 33, Planning and Zoning.
+Volume Three contains related amendments to other titles of Portland City Code
+being considered through a separate companion ordinance.
+17. On February 24, 2021, notice of the March 17, 2021 City Council public hearing
+on the Shelter to Housing Continuum Recommended Draft was mailed to the
+those who presented oral and written testimony at the Planning and
+Sustainability Commission public hearings and those who requested such
+notice.
+18. The Shelter to Housing Continuum Recommended Draft includes changes to
+Portland City Code to: remove barriers to the siting of shelters; enable operation
+by public agencies or nonprofit organizations of outdoor shelters where people
+can be accommodated in tents, yurts, small cabins or vehicles on sites that can
+also have supportive services such as bathrooms, laundry, and cooking
+facilities; ease restrictions on unrelated persons sharing homes in residential
+areas; and allow occupancy of a recreational vehicle, or a tiny house on wheels,
+on residential property. These changes will provide a continuum of new shelter
+and housing alternatives for people experiencing homelessness including those
+currently camping on streets and in open spaces.
+19. Due to the urgent need for shelters, the code amendments in Exhibit C related to
+removing barriers to the siting of shelters, specified in directives a, b and c, will
+go into effect immediately upon adoption by City Council.
+20. Amendments to code sections and subsection that include easing restrictions on
+unrelated persons sharing homes (i.e. changes to group living) and the
+occupancy of recreational vehicles (i.e. tiny houses on wheels)(collectively the
+“group living” code amendments), specified in directive e, will go into effect on
+August 1, 2021 in tandem with implementation of the adopted Residential Infill
+Project code changes.
+21. Some of the shelter code amendments and some of the group living code
+amendments affect the same sections or subsections of code. Because the
+group living code changes trigger rewording or renumbering, it is necessary for
+Council to adopt interim zoning code amendments that implement certain shelter
+code amendments until the sections that implement both the shelter code group
+living amendments become effective on August 1, 2021.  These amendments are
+described in directive d. As specified in Section 2 of this ordinance, the interim
+zoning code amendments in directive d go into effect immediately upon adoption
+by Council and sunset on August 1, 2021, at which time the changes in directive
+e go into effect, triggering the reorganization or rewording of the section or
+subsection.
+22. The Findings of Fact R eport, attached as Exhibit A, includes additional findings
+demonstrating consistency with the Statewide Planning Goals, Metro Urban
+Growth Management Functional Plan, and the City of Portland 2035
+Comprehensive Plan.
+NOW, T
+HEREFORE, the Council directs:
+a. Adopt Ex
+hibit A—As-Amended as additional findings
+b. Adopt Exhibit B, Shelter to Housing Continuum Recommended Draft Volume
+One, dated February 2021, and the commentary in Exhibit C, Shelter to
+Housing Continuum Recommended Draft Volume Two—As-Amended, dated
+April 2021, as legislative intent and further findings.
+c. Amend Title 33, Planning and Zoning, of the Municipal Code of the City of
+Portland as shown in Exhibit C, Shelter to Housing Continuum
+Recommended Draft Volume Two—As-Amended, dated April 2021, but
+excluding the amendments to Title 33, Planning and Zoning List of Chapters,
+Table of Contents, 33.110.100, 33.110.200, 33.110.210, Table 110-4,
+33.110.225, 33,110.265, 33.120.100, Table 120-2, 33.120.213, 33.120.240,
+33.130.100, 33.130.207, 33.130.228, 33.140.100, 33.150.100.B.9; 33.200
+Table of Contents, 33.205.040.C, 33.207.040, 33.207.050, 33.236.030,
+33.239, 33.260, 33.266.110, Table 266-2, 33.270, 33.815.140, 33.920.100,
+33.920.110, the following terms in 33.900 List of Terms: Congregate Housing
+Facility, Group Living Facility, Household, Residential Structure Types, Single
+Room Occupancy Housing (SRO), and the following definitions in 33.910.030:
+Congregate Housing Facility, Density, Group Living Structure, Household,
+Residential Structure Types, Single Room Occupancy Housing (SRO),
+Vehicle Types.
+d. Amend 33.110.100, 33.120.100, 33.130.100, 33.140.100, and 33.815.140 as
+shown in Exhibit D, Shelter to Housing Continuum Interim Zoning Code
+Amendments.
+e. Amend Title 33, Planning and Zoning List of Chapters, Table of Contents,
+33.110.100, 33.110.200, 33.110.210, Table 110-4, 33.110.225, 33,110.265,
+33.120.100, Table 120-2, 33.120.213, 33.120.240, 33.130.100, 33.130.207,
+33.130.228, 33.140.100, 33.150.100.B.9; 33.200 Table of Contents,
+33.205.040.C, 33.207.040, 33.207.050, 33.236.030, 33.239, 33.260,
+33.266.110, Table 266-2, 33.270, 33.815.140, 33.920.100, 33.920.120, the
+following terms in 33.900 List of Terms: Congregate Housing Facility, Group
+Living Facility, Household, Residential Structure Types, Single Room
+Occupancy Housing (SRO), and the following definitions in 33.910.030:
+Congregate Housing Facility, Density, Group Living Structure, Household,
+Residential Structure Types, Single Room Occupancy Housing (SRO),
+Vehicle Types, of the Portland City Code as shown in Exhibit C, Shelter to
+Housing Continuum Recommended Draft Volume Two—As-Amended, dated
+April 2021.
+Section 2. The Council declares that an emergency exists because the city is
+experiencing a housing crisis and, for humanitarian reasons, immediate action is
+necessary; therefore, directives a, b and c shall be in full force and effect on April 30,
+2021, directive d shall be in full force and effect from April 30, 2021 until August 1, 2021,
+and directive e shall be in full force and effect on August 1, 2021.
+Section 3. If any  s
+ection, subsection, sentence, clause, phrase, diagram or drawing
+contained in this ordinance, or the map, report, inventory, analysis, or document it adopts
+or amends, is held to be deficient, invalid or unconstitutional, that shall not affect the
+validity of the remaining portions. The Council declares that it would have adopted the
+map, report, inventory, analysis, or document each section, subsection, sentence, clause,
+phrase, diagram and drawing thereof, regardless of the fact that any one or more sections,
+subsections, sentences, clauses, phrases, diagrams or drawings contained in this
+Ordinance, may be found to be deficient, invalid or unconstitutional.
+Passed by t
+he Council: April 28, 2021
+Mayor Wheeler &
+Commissioner
+s Rubio & Ryan
+Prepared by: Eric Engstrom
+Date Prepared: April 20, 2021
+Mary Hull Caballero
+Auditor of the City of Portland
+By
+Deputy
+Agenda No.
+ORDINANCE NO. 190380
+Title
+INTRODUCED BY
+Commissioner/Auditor: CLERK USE: DAT
+E FILED ___March 9, 2021_____________________
+COMMISSIONER APPROVAL Mary Hull Caballero
+Auditor of the City of Portland Mayor—Finance & Administration - Wheeler
+Position 1/Utilities - 5XELR
+Position 2/Works - 5\DQ
+Position 3/Affairs - Hardesty
+Position 4/Safety - 0DSSV
+BUREAU APPROVAL
+Bureau:
+Bureau Head:
+Prepared by:
+Date Prepared:
+Impact Statement
+Completed   ܆ Amends Budget  ܆
+Portland Policy Document
+If “Yes” requires City Policy paragraph stated
+in document.
+Yes  ܆܆       No  ܆܆
+City Auditor Office Approval:
+required for Code Ordinances
+City Attorney Approval:
+required for contract, code, easement,
+franchise, comp plan, charter
+Council Meeting Date
+FOUR-FIFTHS AGENDA COMMISSIONERS  VOTED
+AS  FOLLOWS:
+ YEAS NAYS
+1.5XELR 1.5XELR
+2. 5\DQ 2. 5\DQ
+3. Hardesty 3. Hardesty
+4.0DSSV 4.0DSSV
+Wheeler Wheeler
+AGENDA
+TIME CERTAIN  ܆܆
+Start time:
+Total amount of time needed:
+(for presentation, testimony and discussion)
+CONSENT ܆
+REGULAR  ܆
+Total amount of time needed:
+(for presentation, testimony and discussion)
+*Amend Title 33 Planning and
+ Zoning to facilitate the provision of shelter and housing options for
+Portlanders in need  (Ordinance; amend Code Title 33)
+2:00 P.M.
+3 h
+rs
+Carmen
+Rubio
+Digitally signed by Carmen
+Rubio
+Date: 2021.03.09 10:42:23
+-08'00'
+Ted
+Wheeler
+Digitally signed by
+Ted Wheeler
+Date: 2021.03.09
+14:37:29 -08'00'
+Rubio, Ryan, Wheeler
+Planning and Sustainability
+Andrea Durbin
+Digitally signed by Andrea Durbin
+Date: 2021.02.24 15:41:48 -08'00'
+March 17, 2021
+✔
+✔
+✔
+2/23/2021
+Digitally signed
+by Linly Rees
+Date:
+2021.02.24
+15:26:16 -08'00'
+Eric Engstrom
+Digitally signed by Yesenia L.
+Carrillo
+Date: 2021.03.09 14:01:24
+-08'00'
+(1 of 2)
+By:
+ ______________________________________
+       Deputy
+ACTION TAKEN:
+March 17, 2021 Continued to March 24, 2021 at 2:00 p.m.
+Time Certain
+March 24, 2021 Continued to March 31, 2021 at 3:00
+p.m. Time Certain
+March 31, 2021 Continued to April 14, 2021 at 2:00 p.m.
+Time Certain
+April 14, 2021 Continued to April 28, 2021 at 2:00 p.m.
+Time Certain
+183 203
+ 250 290
+ 165
+As Amended
+Exhibit A: As Amended - Additional Findings of Fact
+April 26, 2021
+Overview
+Text amendments to the zoning code must be found to be consistent with the Comprehensive Plan,
+Urban Growth Management Functional Plan, and the Statewide Planning Goals. In addition, the
+amendments must be consistent with the intent or purpose statement for the base zone, overlay zone,
+and plan district where the amendment is proposed, and any plan associated with the regulations.
+(33.835.040)
+1. Finding: The Shelter to Housing Continuum Project (S2HC) only makes text amendments to the
+zoning code. It does not make any changes to Comprehensive Plan goals or policies, the
+Comprehensive Plan map, or the zoning map.
+2. Finding: The City Council has identified and addressed all Comprehensive Plan goals and policies
+and zoning code purpose statements relevant and applicable to zoning code text amendments in
+these additional findings of fact.
+3. Finding: As discussed in more detail below, the City Council has considered the public testimony
+on this matter and has weighed all applicable goals and policies and has found the Shelter to
+Housing Continuum amendments (S2HC amendments) are consistent with the goals and policies
+of the Comprehensive Plan, Metro Urban Growth Management Functional Plan, Statewide
+Planning Goals and other relevant city plans.
+Part I. Statewide Planning Goals
+State planning statutes require cities to adopt and amend comprehensive plans and land use regulations
+in compliance with the Statewide Planning Goals.
+The Statewide Planning Goals that apply to Portland are:
+Goal 1 Citizen Involvement
+Goal 2 Land Use Planning
+Goal 5 Natural Resources, Scenic and Historic Areas, and Open Spaces
+Goal 6 Air, Water and Land Resource Quality
+Goal 7 Areas Subject to Natural Hazards
+Goal 8 Recreational Needs
+Goal 9 Economic Development
+Goal 10 Housing
+Goal 11 Public Facilities and Services
+Goal 12 Transportation
+Goal 13 Energy Conservation
+Goal 14 Urbanization
+Goal 15 Willamette River Greenway
+There are approximately 560 acres of land both within Portland’s municipal boundaries and beyond the
+regional urban service boundary that can be classified as rural land. In 1991, as part of Ordinance
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+164517, the City Council took an exception to Goal 3 and 4. the agriculture and forestry goals. Because
+of the acknowledged exception, the following goals do not apply:
+Goal 3 Agricultural Lands
+Goal 4 Forest Lands
+Other Statewide Planning Goals apply only within Oregon’s coastal zone. Since Portland is not within
+Oregon’s coastal zone, the following goals do not apply to this decision:
+Goal 16 Estuarine Resources
+Goal 17 Coastal Shorelands
+Goal 18 Beaches and Dunes
+Goal 19 Ocean Resources
+Goal 1. Citizen Involvement. To develop a citizen involvement program that insures the opportunity
+for citizens to be involved in all phases of the planning process.
+4. Finding: Portland adopted a Community Involvement Program on June 15, 2016. The Community
+Involvement Program serves as a framework to carry out policies from Chapter 2 — Community
+Involvement, of the 2035 Comprehensive Plan, and applies to legislative land use and
+transportation projects initiated by the City. Among the commitments that the City is asked to
+make in the Comprehensive Plan are the following:
+• To provide a wide range of opportunities for involvement in planning and investment
+decisions.
+• To achieve greater equity in land use actions through setting priorities and making decisions
+with meaningful involvement of under-served and under-represented communities.
+• To meaningfully involve, in decision making, those who potentially will be adversely affected
+by the results of those decisions.
+• To provide this meaningful involvement throughout the phases of planning and investment
+projects - issue identification and project design through implementation, monitoring,
+evaluation and enforcement.
+• To provide well-designed, relevant, responsive and culturally-responsive public involvement.
+• To build community capacity for meaningful participation and leadership in planning and
+investment decisions.
+The City has an acknowledged Goal 1 program. Community involvement efforts for the S2HC
+project have been conducted in accordance with that program. Therefore, the project is in
+compliance with Goal 1. More specific findings related to the city’s community involvement efforts
+are found in response to the policies in Chapter 2 of the Comprehensive Plan and are incorporated
+here. The requirements of Goal 1 are met.
+
+Goal 2. Land Use Planning. To establish a land use planning process and policy framework as a basis
+for all decisions and actions related to use of land and to assure an adequate factual base for such
+decisions and actions.
+5. Finding: Goal 2, as it applies to the S2HC amendments, requires the City to follow its established
+procedures for legislative amendments to the Zoning Code. The amendments comply with this
+goal because, as demonstrated by these findings, the amendments were developed consistent
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+with the Statewide Planning Goals, the Metro Urban Growth Management Functional Plan, 2035
+Comprehensive Plan and Portland Zoning Code, as detailed in this ordinance.
+Other government agencies received notice from the 35-day DLCD notice and the City’s legislative
+notice. The City did not receive any requests from other government agencies to modify the S2HC
+amendments.
+The City Council’s decision is based on the findings in this document, which are based on the
+factual evidence presented to the Planning and Sustainability Commission and City Council that
+are incorporated in the record that provides the adequate factual basis for this decision. The
+Council legislative record specifically incorporates all materials linked on the project website, the
+reports, memos and presentations provided to the Planning and Sustainability Commission and
+City Council, the written and verbal testimony submitted to the Planning and Sustainability
+Commission and City Council, and notices sent to the public. In light of the COVID-19 outbreak, as
+well as following directives outlined in Governor Brown’s Executive Order no. 20 – 16, the PSC and
+Council hearings were held virtually, allowing the public to testify using a telephone, mobile
+device, or computer. All project documents were produced and distributed electronically because
+staff do not have access to City facilities.
+• The weekly Council Agenda contains links to documents associated with the item before
+them, including ordinances, reports and memos.
+o https://www.portlandoregon.gov/auditor/56674
+• The Project website is located on the BPS website under Projects, Shelter to Housing
+Continuum (S2HC) Project. This link was available to the public and City Council during the
+public hearing process.
+o https://www.portland.gov/bps/s2hc
+.
+• Te
+stimony was stored in an online database and was available to decision-makers and the
+public at the following link. All notices included this link.
+o https://www.portlandmaps.com/bps/mapapp/proposals/#/s2hc.
+• Rec
+ords of the Planning and Sustainability deliberations and other project records were
+store
+d in the City’s electronic records system (eFiles) and are permanently available to
+de
+cision-makers and the public at the following links:
+o https://e
+files.portlandoregon.gov/Record/13949720/
+o https://efiles.portlandoregon.gov/Record/13949728/
+o https://efiles.portlandoregon.gov/Record/14008607/
+o https://efiles.portlandoregon.gov/Record/14028612/
+o https://efiles.portlandoregon.gov/Record/14028613/
+o https://efiles.portlandoregon.gov/record/14244551
+o https://efiles.portlandoregon.gov/record/14323315
+o https://efiles.portlandoregon.gov/Record/13829521/
+Several specific facts were particularly relevant:
+• The Recommended Draft of the S2HC report;
+• The testimony given to the Planning and Sustainability Commission and Council;
+• Staff presentations given before the Planning and Sustainability Commission and Council;
+• Information provided to the Planning and Sustainability Commission by a panel of people
+with lived experience being homeless and by a panel of shelter providers; and
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+• The transportation analysis memorandum from the Portland Bureau of Transportation
+dated March 1, 2021.
+Based on these findings, the S2HC project is consistent with Goal 2.
+
+Goal 5. Open Space, Scenic and Historic Areas, and Natural Resources. To protect natural resources
+and conserve scenic and historic areas and open spaces.
+6. Finding: Goal 5 addresses open spaces, scenic resources, historic resources, and natural resources.
+Open Spaces. The S2HC project amends the Open Space zone use regulations (33.100.100) to
+clarify that shelters (as a permanent use) will continue to be prohibited in the OS zones as the
+purpose of the OS zone has never been to provide permanent facilities for shelter or housing.
+All types of shelter may be placed in OS zones as a temporary activity during a state of
+emergency. The City Council’s authority to use City facilities in an emergency, including those
+zoned OS, is established by Title 15 (Emergency Code) and the City Charter, and is not a land use
+regulation. The amendments related to temporary activities permitted in response to a natural
+disaster or emergency (33.296.030(G)) are proposed for consistency with Title 15 terminology,
+and do not constitute a substantive change in regulations.  The City is currently using some
+community centers located in OS-zoned parks as emergency shelters during the COVID
+emergency, and during some weather related events. This practice is expected to continue as
+currently authorized by Title 15 and the City Charter and permitted under Zoning Code Chapter
+33.296. The S2HC amendments do not change this. The S2HC amendments to Zoning Code
+Chapter 33.296 are not expected to result in a significant change to current practice. It will
+remain a decision of the City whether to authorize the use of City facilities in the OS zone for
+outdoor shelters in an emergency.
+The proposed amendments in 33.296.030(H) would allow temporary mass shelters in the OS
+zone without requiring a declaration of an emergency. However, the use of a City facility within
+the OS designation for a mass shelter would continue to require approval of the City bureau
+responsible for the facility. For example, with Parks Bureau approval, community centers may
+occasionally be used as shelters during cold winter weather or hot/smokey days in the summer.
+In addition, mass shelters are not likely to have a significant impact on open space resources
+because these mass shelter facilities are, by definition, inside buildings. There is currently a
+significant amount of unsanctioned camping in natural areas, including identified Goal 5
+resources. The S2HC project could help reduce these impacts by providing sanctioned
+alternatives in more appropriate locations. The Council made amendments to the
+recommended code in order to clarify that temporary outdoor shelters would not be allowed in
+the OS zone or in certain natural resource overlays unless it was in the context of an emergency.
+Scenic Resources. The City has designated scenic resources in an adopted inventory and
+protects them through an overlay zone (Chapter 33.480) which address landscaping, setbacks,
+screening, building facades and tree removal. The S2HC amendments do not change this
+program. The S2HC code amendments to not impact landscaping, setback, screening, tree
+removal, or building standards. Except in the case of temporary shelters provided in response to
+a natural disaster or emergency, permanent and temporary outdoor shelters would be
+prohibited within scenic overlay zones. The City Council’s authority to act in an emergency is
+established by Title 15 (Emergency Code) and the City Charter. Therefore, the S2HC package is
+consistent with the scenic elements of Goal 5.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Historic Resources. Historic resources are located throughout the City. Council is not amending
+historic resource protections (Chapter 33.445). Any proposed alteration to historic structures
+will require conformance with existing historic resource protection measures including historic
+resource review, demolition delay or review, or design standards as applicable. Therefore, the
+S2HC package is consistent with the historic elements of Goal 5.
+Natural Resources. Existing natural resource protections are not amended with the S2HC
+package (Chapters 33.430 and 33.465).  Except in the case of temporary shelters provided in
+response to a natural disaster or emergency, permanent and temporary outdoor shelters would
+be prohibited within Environmental overlay zones, the River Natural overlay zone, the River
+Environmental overlay zone, and the Pleasant Valley Natural Resource overlay zone. The City
+Council’s authority to act in an emergency is established by Title 15 (Emergency Code) and the
+City Charter. Therefore, the S2HC package is consistent with the natural resource elements of
+Goal 5.
+Generally. As noted below in the findings for the 2035 Comprehensive Plan, the S2HC
+amendments are consistent with the goals and policies of Chapter 4 (Design and Development,
+including Historic and Cultural Resources) and Chapter 7 (Environment and Watershed Health)
+of the 2035 Comprehensive Plan and the findings in response to those goals and policies are
+incorporated by reference. Therefore, S2HC amendments are consistent with the requirements
+of Statewide Planning Goal 5.
+Goal 6. Air, Water, and Land Resource Quality. To maintain and improve the quality of the air, water
+and land resources of the state.
+7. Finding: Goal 6 requires the maintenance and improvement of the quality of air, water, and land
+resources. The State has not yet adopted specific requirements for complying with Statewide
+Planning Goal 6. The City is in compliance with environmental standards and statutes, including
+the federal Clean Water Act and Clean Air Act. Existing City regulations including Title 10 (Erosion
+Control) and the Stormwater Management Manual will remain in effect and are applicable to
+future development. As noted below in the findings for the 2035 Comprehensive Plan, the S2HC
+amendments are consistent with the goals and policies of Chapter 7 (Environment and Watershed
+Health) of the 2035 Comprehensive Plan and the findings in response to those goals and policies
+are incorporated by reference. Therefore, the amendments are consistent with the requirements
+of Statewide Planning Goal 6.
+Goal 7, Areas Subject to Natural Disasters and Hazards. To protect people and property from natural
+hazards.
+8. Finding: The State has not yet adopted specific requirements for complying with Statewide
+Planning Goal 7. The Buildable Land Inventory (BLI), which was adopted (Ordinance 187831) and
+acknowledged by LCDC on April 25, 2017, included a development constraint analysis that
+identified parts of Portland that are subject to natural hazards. The City of Portland used several
+sources of information in its Comprehensive Plan to identify potential hazards:
+• Special flood hazard area (Land area covered by the floodwaters of the base flood, as shown
+on the Federal Emergency Management Agency (FEMA) maps in effect on November 26,
+2010);
+• Floodway (The active flowing channel during a flood, as designated on the flood maps
+adopted under authority of Title 24 of the Portland City Code);
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+• 1996 Flood Inundation area (A record peak flow in February of 1996 caused the Willamette
+River and its major tributaries to flood. This map was created to delineate the inundated areas
+near the mainstem and major tributaries of the Willamette River);
+• Potential Rapidly Moving Landslide Hazard Zones (as shown in the DOGAMI IMS-22
+publication); and
+• Deep landslide—High Susceptibility or Landslide Deposit or Scarp as shown in the DOGAMI
+IMS-57 publication.
+The S2HC code changes will not expose people to additional hazard because the S2HC
+amendments do not include amendments to any programs or regulations that implement
+floodplain or landslide hazard policies. Section 33.285.050.C.1.c would prohibit permanent
+outdoor shelters in special flood hazard areas.  Section 33.296.030.H.2 would prohibit temporary
+outdoor shelters within the special flood hazard area except in the case of natural disaster or
+emergency. The City Council’s authority to act in an emergency is established by Title 15
+(Emergency Code) and the City Charter.  Floodplain and landslide hazard regulations would
+continue to apply to any development facilitated by the S2HC amendments.
+As noted below in the findings for the 2035 Comprehensive Plan, the S2HC amendments are
+consistent with the goals and policies of Chapter 7 (Environment and Watershed Health) of the
+2035 Comprehensive Plan and the findings in response to those goals and policies are
+incorporated by reference. Therefore, these amendments continue to protect people and
+property from natural hazards, consistent with the requirements of Statewide Planning Goal 7.
+Goal 8. Recreational Needs. To satisfy the recreational needs of the citizens of the state and visitors
+and, where appropriate, to provide for the siting of necessary recreational facilities including
+destination resorts.
+
+9. Finding: Goal 8 focuses on the provision of destination resorts. However, it does impose a general
+obligation on the City to plan for meeting its residents’ recreational needs: “(1) in coordination
+with private enterprise; (2) in appropriate proportions; and (3) in such quantity, quality and
+locations as is consistent with the availability of the resources to meet such requirements.”
+Goal 8 provides that “Recreation Needs -- refers to existing and future demand by citizens and
+visitors for recreations areas, facilities and opportunities.” Goal 8 also provides that “Recreation
+Areas, Facilities and Opportunities -- provide for human development and enrichment, and include
+but are not limited to: open space and scenic landscapes; recreational lands; history, archaeology
+and natural science resources; scenic roads and travelers; sports and cultural events; camping,
+picnicking and recreational lodging; tourist facilities and accommodations; trails; waterway use
+facilities; hunting; angling; winter sports; mineral resources; active and passive games and
+activities.”
+The City of Portland has robust and diverse system of parks, recreation areas and open spaces,
+and the S2HC amendments do not change this program. The S2HC amendments do not change
+the uses permitted on land designated as open space other than to clarify that permanent shelters
+will continue to be prohibited in the OS zones as the purpose of the OS zone has never been to
+provide permanent facilities for shelter or housing.
+As noted above, all types of activities (including shelter) may be placed in OS zones as a temporary
+activity during a state of emergency. The City Council’s authority to use City facilities in an
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+emergency, including those within the OS zone, is established by Title 15 (Emergency Code) and
+the City Charter and is not a land use regulation. The amendments related to temporary activities
+permitted in response to a natural disaster or emergency (33.296.030(G) are proposed for
+consistency with Title 15 terminology, and do not constitute a substantive change in regulations.
+The proposed S2HC amendments to Zoning Code Chapter 33.296 are not expected to result in a
+significant change to current practice. It will remain a decision of the City whether to authorize the
+use of City facilities in the OS zone for outdoor shelters in an emergency. The proposed
+amendments would allow mass shelters in the OS zone without requiring a declaration of an
+emergency. However, the use of a City facility within the OS designation for a mass shelter would
+continue to require approval of the City bureau responsible for the facility.   More detailed
+findings are found in response to Comprehensive Plan Chapter 8 policies – in particular – 8.93
+through 8.103. Therefore, the S2HC amendments are consistent with the requirements of
+Statewide Planning Goal 8.
+Goal 9. Economic Development. To provide adequate opportunities throughout the state for a variety
+of economic activities vital to health, welfare, and prosperity of Oregon’s citizens.
+10. Finding: Goal 9 requires cities to consider economic activities vital to the health, welfare, and
+prosperity of Oregon's citizens. Comprehensive plans for urban areas are required to include,
+among other things: an analysis of economic patterns, potentialities, strengths, and deficiencies;
+policies concerning economic development; and land use maps that provide for at least an
+adequate supply of sites for a variety of industrial and commercial uses.
+The 2035 Comprehensive Plan demonstrates compliance with Goal 9. Land needs for a variety of
+industrial and commercial uses are identified in the Economic Opportunities Analysis (EOA), which
+was adopted (Ordinance 187831) and acknowledged by LCDC on April 25, 2017.
+The City’s acknowledged EOA analyzed and demonstrated adequate growth capacity for a diverse
+range of employment uses. The S2HC project does not reduce the supply of employment land
+because no land is being removed from the City’s employment land base, and with one very
+qualified exception, no new permanent nonindustrial uses are being allowed within industrial
+zones.
+Temporary shelters are allowed in industrial zones through the Temporary Activities chapter of
+the zoning code. Such facilities do not impact the industrial land supply because no permanent
+changes to the site are authorized and the use is limited to 180 days or for the duration of an
+emergency.
+The exception is that permanent outdoor shelters will be allowed through conditional use
+approval in industrial zones provided the following standards and criteria are met:
+• The site must have an area of two acres or less,
+• The site must be in public ownership,
+• The site must not have been identified as an employment use or needed for employment
+use in the City’s acknowledged Buildable Lands Inventory for employment land, and
+• Shelter operations must not interfere with surrounding employment uses.
+The Oregon Administrative Rules governing the construction of buildable land inventories,
+Chapter 660, Division 7 and 9, state that publicly owned land should, in general, not be considered
+available for development. There are 445 publicly owned lots in Portland with industrial zoning.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+The City did not exclude all of these from its Employment Buildable Lands Inventory because 240
+of these lots are owed by either the Portland Development Commission (now doing business as
+Prosper Portland) or the Port of Portland, and these agencies do make their land available for
+employment uses. Therefore, only 205 publicly owned lots were excluded from the inventory. Of
+these excluded lots 156 are greater than two acres so there are only 49 that could meet the
+conditional approval criteria.  A map of these 49 parcels has been placed in the record, along with
+a copy of the Employment Buildable Lands Inventory map adopted as a supporting document to
+the City’s acknowledged Comprehensive Plan (Ordinances 187832 and 188177). The City Council
+incorporates this document by reference in support of these findings.
+Since not one of these 49 lots is identified as used, needed, or available for employment uses on
+the City’s acknowledged inventory and since the conditional use criteria protect surrounding
+employment uses from interference from shelters, allowing limited shelters within industrial
+zones will not diminish the City’s supply of needed employment land. The two acre limitation
+described in the findings above aligns with the applicability threshold provided in the Goal 9 rule -
+OAR 660.009(4).
+As noted below in the findings for the 2035 Comprehensive Plan, the S2HC amendments are
+consistent with the goals and policies of Chapter 6 (Economic Development) of the 2035
+Comprehensive Plan and the findings in response to those goals and policies are incorporated by
+reference. The requirements of Statewide Planning Goal 9 are met.
+Goal 10. Housing. To provide for the housing needs of citizens of the state.
+11. Finding: Goal 10 specifies that each city must plan for and accommodate needed housing types.
+As used in ORS 197.307 “needed housing” means all housing on land zoned for residential use or
+mixed residential and commercial use that is determined to meet the need shown for housing
+within an urban growth boundary at price ranges and rent levels that are affordable to households
+within the county with a variety of incomes, including but not limited to households with low
+incomes, very low incomes and extremely low incomes. Needed housing includes attached and
+detached single-family housing and multiple family housing for both owner and renter occupancy;
+government assisted housing, mobile home or manufactured dwelling parks; manufactured
+homes on individual lots; and housing for farmworkers.
+Goal 10 requires each city to inventory its buildable residential lands, forecast future needs, and
+zone enough buildable land to meet those needs. It also prohibits local plans from discriminating
+against needed housing types.
+Goal 10 and its implementing administrative rules contain the following specific requirements:
+1. Identify future housing needs by amount, type, tenure and affordability;
+2. Maintain a residential Buildable Lands Inventory (BLI) with sufficient land to meet
+identified needs;
+3. Adopt land use maps, public facility plans and policies to accommodate needed housing
+(housing capacity, as well as type, tenure and affordability);
+4. Meet minimum density and housing mix requirements (including the Metropolitan
+Housing Rule);
+5. Adopt clear and objective standards for needed housing.
+
+The adopted 2035 Comprehensive Plan conducted city-wide analysis to demonstrate compliance
+with Goal 10. The City's Housing Needs Analysis, which was adopted (Ordinance 185657) and
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+acknowledged by LCDC on June 11, 2014, consists of five distinct reports that analyzed the state of
+housing supply, housing affordability issues and the City's ability to meet projected housing
+demand. The Buildable Land Inventory (BLI), which was adopted (Ordinance 187831) and
+acknowledged by LCDC on April 25, 2017, identified the supply of land available to provide this
+needed housing. Supporting documents adopted with the acknowledged 2035 Comprehensive
+Plan (Ordinance 187832) established that the residential housing capacity of the unconstrained
+vacant and underutilized parcels in Portland is approximately 169,000 units. This is much more
+than the estimated 20-year need of 123,000 housing units by 2035. Portland has a surplus of
+housing capacity.
+Goal 10 mandates that local jurisdictions ensure adequate capacity, and provides a “floor” for
+such measure, but does not restrict or prevent jurisdictions from increasing housing capacity
+above a set “ceiling”. In other words, just because the City has shown that it meets the number of
+requisite units to accommodate the forecast growth, Goal 10 does not prevent the City from
+increasing the capacity, and especially so when such increases help improve the housing target
+performance in other areas of the goal (type, tenure and affordability).
+The S2HC project makes two changes that could affect the City’s capacity for housing
+development: 1) changing code to allow Group Living as an allowed rather than a conditional use
+in all residential zones; and 2) expanding the limited amount of shelter accommodations in
+residential zones.
+The Metropolitan Housing Rule (OAR 660-007-0035) states that cities “must provide for an overall
+density of ten or more dwelling units per net buildable acre”. The adopted Comprehensive Plan
+provides for 31 units per acre overall
+1. The S2HC amendments do not change minimum density
+requirements or remove current housing allowances. Therefore, the amendments provide for
+more than ten housing units per net buildable acre across the city.
+ORS 197.307(4) requires that jurisdictions “may apply only clear and objective standards,
+conditions and procedures regulating the development of needed housing on buildable lands”
+…and these provisions… “may not have the effect, either in themselves or cumulatively, of
+discouraging needed housing through unreasonable cost or delay.” Group living is a residential use
+and the change in its status from a discretionary conditional use to a use allowed by clear and
+objective standards meets the requirements of ORS 197.307(4). This change will also allow a more
+affordable form of housing, and since Group Living is housing, it will not diminish the total amount
+of available housing opportunities.
+Shelter, while certainly needed, is not “needed housing” as defined in ORS 197.303. Shelter is
+defined as a community service rather than a residential use, operators are public agency or
+nonprofit providers rather than landlords, and occupants are clients or guests rather than tenants.
+While some shelter will be allowed under clear and objective standards, nothing in ORS 197,
+Statewide Planning Goal 10, or OAR 660-007-0035 makes shelter subject to clear and objective
+standard requirements.
+Shelter will be allowed, either by clear and objective standards or through discretionary
+conditional use approval, in all residential zones. The City’s acknowledged Residential Buildable
+Lands Inventory contains a surplus constrained capacity of more than 46,000 units beyond what
+
+1 City of Portland, Ord. 188177, Vol. 1.1.A, page 40
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Metro identified as necessary in Portland. The BLI is a supporting document to the City’s
+acknowledged Comprehensive Plan (Ordinances 187832 and 188177). The City Council
+incorporates this document by reference in support of these findings. Since shelter, by definition,
+requires a public or charitable subsidy, and since the amount of public and charitable funds
+available for shelters is limited, the amount of shelter provided will not erode the amount of land
+made available for needed housing. The most recent estimate of the number of homeless in
+Portland (from the 2019 Point in Time Count, which has been placed in the record) was just over
+4,000 people. A summary of the City’s existing shelter capacity has also been placed in the record.
+It shows that the existing shelters have capacity for about 2,000 people. Assuming the remaining
+2,000 unsheltered individuals are served in shelters with 60 beds, that would represent a need to
+devote 33 additional parcels to shelter uses. Shelters are also allowed in commercial mixed use
+zones and may be co-located with existing religious institutions. For all of these reasons, the
+amount of land devoted to this use in residential zones will not significantly reduce the City’s
+housing capacity.
+The City’s Housing Needs Analysis and the growth allocation received from Metro assigns all of the
+expected population growth to a housing need and does not assume homelessness. It logically
+follows that if the City has documented enough residential land to house everyone, then it must
+also have enough land to shelter the portion of the population that is unhoused.
+In addition, the amendments regarding occupied recreational vehicles (Chapter 33.260)
+correspond to amendments being made to Title 29, which allow the residential occupancy of one
+recreational vehicle on a site with a house, attached house or manufactured home. The
+amendments to Title 29 are not a land use decision. In addition, an occupied recreational vehicle is
+not a dwelling unit within the context of Title 33—it is a vehicle. The amendments to Title 33
+provide direction for how zoning code regulations apply to a recreational vehicle that is occupied
+under the authority of Title 29. Because recreational vehicles are not dwelling units within the
+context of Title 33, they are not considered to be housing and are not counted toward the City’s
+residential housing capacity.
+As noted below in the findings for the 2035 Comprehensive Plan, the S2HC amendments are
+consistent with the goals and policies of Chapter 5 (Housing) of the 2035 Comprehensive Plan and
+the findings in response to those goals and policies are incorporated by reference. Therefore, the
+S2HC amendments are consistent with the requirements of Statewide Planning Goal 10.
+Goal 11. Public Facilities and Services. To plan and develop a timely, orderly and efficient
+arrangement of public facilities and services to serve as a framework for urban and rural development.
+12. Finding: Statewide Planning Goal 11, Public Facilities, requires cities to adopt and update public
+facilities plans. Public facilities plans ensure that urban development is guided and supported by
+types and levels of water, sewer and transportation facilities appropriate for the needs and
+requirements of the urban areas to be serviced, and that those facilities and services are provided
+in a timely, orderly and efficient arrangement.
+The adopted 2035 Comprehensive Plan includes the Citywide Systems Plan (CSP), which was
+adopted (Ordinance 185657) and acknowledged by LCDC on April 25, 2017. The CSP includes the
+Public Facilities Plan with information on current and future transportation, water, sanitary sewer,
+and stormwater infrastructure needs and projects, consistent with the requirements of Statewide
+Planning Goal 11.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Findings addressing water, sanitary sewage disposal, stormwater management, and school district
+capacity are found in findings in response to Comprehensive Plan Chapter 8 policies. Findings
+addressing transportation systems are in response to Chapter 9 policies. The findings in response
+to those goals and policies are incorporated by reference. Therefore, as described in these
+findings, S2HC amendments are consistent with the requirements of Statewide Planning Goal 11.
+Goal 12. Transportation. To provide and encourage a safe, convenient and economic transportation
+system.
+13. Finding: This goal requires Portland to adopt a Transportation System Plan (TSP) that supports
+safe, convenient and economical movement of people and goods, and supports a pattern of travel
+that will avoid air pollution, traffic and livability problems. Parts, but not all, of the City’s TSP have
+to be adopted as part of the Comprehensive Plan.
+All cities are required to provide safe and convenient motor vehicle, pedestrian and bicycle travel
+on a well-connected network of streets. Larger cities are required to provide for transit service
+and to promote more efficient performance of existing transportation facilities through
+transportation system management and demand management measures.
+Goal 12 rules require coordination with the state and regional transportation plans (such as the
+Oregon Highway Plan and the Regional Transportation Plan), and with other transportation
+providers. OAR 660-012-0060 states that if an amendment to a functional plan, an acknowledged
+comprehensive plan, or a land use regulation (including a zoning map) would have a significant
+negative impact on an existing or planned transportation facility, then the local government must
+take mitigating action, or plan for additional facilities to accommodate the expected impact.
+Generally, a jurisdiction cannot take action that significantly increases traffic on a facility that is
+failing to meet state, regional, or local mobility standards. As described below, the S2HC
+amendments are consistent with and do not amend the Transportation System Plan.
+A key objective of Goal 12 (and associated administrative rules) is to reduce reliance on single
+occupancy automobile use, particularly during the morning and afternoon commutes. To
+accomplish this, the Goal requires street connectivity and land use patterns, “that make it more
+convenient for people to walk, bicycle, use transit, use automobile travel more efficiently, and
+drive less to meet their daily needs.”
+As noted below and in the findings for the 2035 Comprehensive Plan, the S2HC amendments are
+consistent with the goals and policies of Chapter 9 (Transportation) of the 2035 Comprehensive
+Plan and the findings in response to those goals and policies are incorporated by reference. As
+described in the memorandum provided by the Portland Bureau of Transportation dated March 1,
+2021, the regional transportation modeling data assumes the whole population is housed and
+employed. Thus, people who are currently unhoused who might be accommodated by any future
+shelters that could be enabled by the S2CH project are already accounted for in the traffic model.
+The trip generation rates for Group Living and other similar congregate uses are lower than the
+rates for Household Living and employment uses, and therefore lower than the baseline
+assumptions in the traffic model. The new entitlements for shelter facilities and Group Living are
+relatively evenly distributed around the City. The S2HC changes will allow the largest shelters in
+commercial mixed-use zones and multi-dwelling zones, which are found in almost every
+neighborhood as evidenced by maps of zoning shown in presentations to City Council. Also, the
+more significant expanded shelter allowances generally correspond to zones that are close to
+transit and services, which will serve to further reduce potential automobile impacts. The new
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Group Living entitlements impact single dwelling and multi-dwelling zones; which are found in
+every neighborhood. Thus, the proposed amendments will not have a significant impact on
+transportation facilities and may help reduce reliance on single occupancy automobiles, and may
+help support more walking, bicycling, and use of transit. Therefore, as described in these findings,
+the S2HC amendments are consistent with the requirements of Statewide Planning Goal 12.
+Goal 13. Energy Conservation. To conserve energy.
+14. Finding: The State has not adopted specific rules for complying with Statewide Planning Goal 13.
+Goal 13 generally requires that land use plans contribute to energy conservation.
+The S2HC amendments do not adopt or amend a local energy policy or implementing provisions.
+The focus of the amendments is to add flexibility for shelter siting; establish outdoor shelters as a
+new community service use; liberalize the allowances for Group Living; and allow long-term,
+residential occupancy of recreational vehicles (RVs) and tiny houses on wheels. The amendments
+do not change any building development standards. For these reasons, they will not have an
+impact how the City’s land use plans and regulations contribute to energy conservation.
+Therefore, the S2HC amendments are consistent with the requirements of Statewide Planning
+Goal 13.
+Goal 14. Urbanization. To provide for an orderly and efficient transition from rural to urban land use,
+to accommodate urban population and urban employment inside urban growth boundaries, to ensure
+efficient use of land, and to provide for livable communities.
+15. Finding: Metro exercises Goal 14 obligations on behalf of Portland and other cities within the
+Metropolitan region. Metro has adopted an Urban Growth Management Functional Plan and
+compliance with this plan by constituent cities assures compliance with Goal 14, which is
+discussed in Part II of this document and those findings are incorporated by reference.
+As discussed under Goal 9, the City’s acknowledged EOA analyzed and demonstrated adequate
+growth capacity for a diverse range of employment uses. The S2HC does not reduce the supply of
+employment land because no land is being removed from the City’s employment land base, and
+with one very qualified exception (described above in response to Goal 9), no new nonindustrial
+uses are being allowed within industrial zones. The two acre limitation described in the findings
+above aligns with the applicability threshold provided in the Goal 9 rule - OAR 660.009(4).
+As discussed above under Goal 10, the S2HC project makes two changes that could affect the
+City’s capacity for housing development: 1) changing code to allow Group Living as an allowed
+rather than a conditional use in all residential zones; and 2) allowing a limited amount of shelter
+accommodations in residential zones. For all of the reasons described above in response to Goal
+10, the amount of land devoted to this use in residential zones will not significantly reduce the
+City’s housing capacity for purposes of conformance with regional plans.
+Therefore, the S2HC amendments are consistent with the requirements of Statewide Land Use
+Goal 14.
+Goal 15. Willamette River Greenway. To protect, conserve, enhance and maintain the natural, scenic,
+historical, agricultural, economic and recreational qualities of lands along the Willamette River as the
+Willamette River Greenway.
+16. Finding: Goal 15 requires cities to adopt local greenway plans, along with criteria for new
+development, new uses, and the increase of uses along the river. The City’s greenway regulations
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+are contained within Chapter 33.440 (Greenway Overlay Zones) and Chapter 33.475 (River Overlay
+Zones). The standards in these chapters apply to land or development within the Willamette River
+Greenway. Except in the case of temporary shelters provided in response to a natural disaster or
+emergency, outdoor shelters (permanent and temporary) would be prohibited within the River
+Natural overlay zone (33.440) and the River Environmental overlay zone (Chapter 33.475).
+Shelters would not be prohibited in other Greenway and River overlays including River General,
+River Recreational, River Industrial and River Water Quality.  However, greenway regulations
+would continue to apply to any permanent development facilitated by the S2HC amendments
+including permanent outdoor shelters. Temporary activities, including temporary shelters, are
+described/defined in 33.296 as being characterized by their short term or seasonal nature and by
+the fact that permanent improvements are not made to the site. In addition, according to 33.296,
+they are also not considered to be primary or accessory uses and have no inherent rights within
+the zone in which they locate. As a result of these provisions, a temporary shelter will not affect
+the Willamette River Greenway because siting a temporary facility there would not be
+permanently converting land to a non-greenway use. For these reasons, the proposed
+amendments are consistent with the requirements of Statewide Land Use Goal 15.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Part II. Metro Urban Growth Management Functional Plan
+Under ORS 268.380 and its Charter, Metro has the authority to adopt regional plans and require city
+and county comprehensive plans to comply with the regional plan. Metro adopted its Urban Growth
+Management Functional Plan under this authority.
+In Metro’s June 2011 update to its 2010 compliance report Metro found, “The City of Portland is in
+compliance with all Urban Growth Management Functional Plan requirements in effect on December
+15, 2010, except for Title 13, Nature in Neighborhoods.” On January 16, 2013 the City received a letter
+from Metro stating that Portland had achieved compliance with Title 13.
+Title 1. Housing Capacity. The Regional Framework Plan calls for a compact urban form and a “fair-
+share” approach to meeting regional housing needs. It is the purpose of Title 1 to accomplish these
+policies by requiring each city and county to maintain or increase its housing capacity, especially in
+centers, corridors, main streets, and station communities, except as provided in section 3.07.120.
+17. Finding: As discussed above under in Part 1, Goal 10, the S2HC project makes two changes that
+impact the City’s capacity for housing development: 1) changing code to allow Group Living as an
+allowed rather than a conditional use in all residential zones; and 2) allowing a limited amount of
+shelter accommodations in residential zones. Group living is a residential use and the change in its
+status from a discretionary conditional use will not diminish the total amount of available housing
+opportunities. While shelter is not a residential use per se, the City’s Housing Needs Analysis and
+the growth allocation received from Metro assigns all of the expected population growth to a
+housing need; thus, it follows that if the City has documented enough residential land to house
+everyone, it must also have enough land to shelter those that are unhoused. Furthermore,
+through periodic review the City documented with an updated Buildable Lands Analysis that it has
+a supply of land for housing that significantly exceeds the estimated need. The City’s housing
+challenge relates primarily to affordability, not overall land supply.  The BLI is a supporting
+document to the City’s acknowledged Comprehensive Plan (Ordinances 187832 and 188177). The
+City Council incorporates this document by reference in support of these findings.  The S2HC
+changes are consistent with addressing this challenge, and any minor loss of residential land to
+accommodate needed shelters is insignificant relative to the documented land supply. Therefore,
+the amendments are consistent with the applicable requirements of Metro Title 1.
+Title 2. Regional Parking Policy. (Repealed Ord. 10-1241B, Sec. 6, 1997)
+Title 3. Water Quality and Flood Management. To protect the beneficial water uses and functions and
+values of resources within the Water Quality and Flood Management Areas by limiting or mitigating
+the impact on these areas from development activities and protecting life and property from dangers
+associated with flooding.
+18. Finding: Title 3 calls for the protection of the beneficial water uses and functional values of
+resources within Metro-defined Water Quality and Flood Management Areas by limiting or
+mitigating the impact of development in these areas. Title 3 establishes performance standards
+for 1) flood management; 2) erosion and sediment control; and 3) water quality. The City has
+adopted overlay zones and land use regulations (33.430, 33.465, 33.475, 33.537, 33.563, 33.564,
+33.631, 33.640) as well as Title 10 Erosion Control and the balanced cut-and-fill standards in Title
+24 Building Regulations, that, in the June 2011 update to its 2010 compliance report, Metro found
+sufficient to comply with Title 3. This ordinance does not change any of these overlays or
+regulations. Therefore, the amendments are consistent with the applicable requirements of Metro
+Title 3.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Title 4. Industrial and Other Employment Areas. The Regional Framework Plan calls for a strong
+regional economy. To improve the economy, Title 4 seeks to provide and protect a supply of sites for
+employment by limiting the types and scale of non-industrial uses in Regionally Significant Industrial
+Areas (RSIAs), Industrial and Employment Areas. Title 4 also seeks to provide the benefits of
+"clustering" to those industries that operate more productively and efficiently in proximity to one
+another than in dispersed locations. Title 4 further seeks to protect the capacity and efficiency of the
+region’s transportation system for the movement of goods and services and to encourage the location
+of other types of employment in Centers, Corridors, Main Streets and Station Communities. The Metro
+Council will evaluate the effectiveness of Title 4 in achieving these purposes as part of its periodic
+analysis of the capacity of the urban growth boundary.
+19. Finding: The purpose of Title 4 is to maintain a regional supply of existing industrial and
+employment land by limiting competing uses for this land. Metro has not adopted a Statewide
+Planning Goal 9 economic opportunities analysis for the region, so Title 4 is not based on an
+assessment of the land needed for various employment types, nor do the Title 4 maps necessarily
+depict lands most suitable to accommodate future job growth. Rather, Title 4 seeks to protect the
+manufacturing, warehousing, and distribution of goods within three types of mapped areas by
+limiting competing uses. These three areas are Regionally Significant Industrial Areas (RSIAs),
+Industrial Areas, and Employment Areas.
+As discussed under Part I, Goal 9, the City’s acknowledged EOA analyzed and demonstrated
+adequate growth capacity for a diverse range of employment uses. The S2HC project does not
+reduce the supply of employment land because no land is being removed from the City’s
+employment land base, and with one very qualified exception, no new permanent nonindustrial
+uses are being allowed within industrial zones.
+Temporary shelters are allowed in industrial zones through the Temporary Activities chapter of
+the zoning code. Such facilities do not impact the industrial land supply because no permanent
+changes to the site are authorized and the use is limited to 180 days or for the duration of an
+emergency.
+An exception is that permanent outdoor shelters will be allowed through conditional use
+approvals in industrial zones provided the following standards and criteria are met:
+• The site must have an area of two acres or less,
+• The site must be in public ownership,
+• The site must not have been identified as an employment use or needed for employment
+use in the City’s acknowledged Buildable Lands Inventory for employment land, and
+• Shelter operations must not interfere with surrounding employment uses.
+The Oregon Administrative Rules governing the construction of buildable land inventories,
+Chapter 660, Division 7 and 9, state that publicly owned land should, in general, not be considered
+available for development. There are 445 publicly owned lots in Portland with industrial zoning,
+within the Metro-designated RSIA area. The City did not exclude all of these from its Employment
+Buildable Lands Inventory because 240 of these lots are owed by either the Portland Development
+Commission (now doing business as Prosper Portland) or the Port of Portland, and these agencies
+do make their land available for employment uses. Therefore, only 205 publicly owned lots were
+excluded from the inventory. Of these excluded lots 156 are greater than two acres so there are
+only 49 that could meet the conditional approval criteria.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Since not one of these 49 lots is identified as used, needed, or available for employment uses on
+the City’s acknowledged inventory and since the conditional use criteria protect surrounding
+employment uses from interference from shelters, allowing limited shelters within industrial
+zones will not diminish the City’s supply of needed employment land. The two acre limitation
+described in the findings above aligns with the applicability threshold provided in the Goal 9 rule -
+OAR 660.009(4).
+Therefore, the S2HC amendments are consistent with the requirements of Metro Title 4.
+Title 5. Neighboring Cities (Repealed Ord. 10-1238A, Sec. 4, 1997)
+Title 6. Centers, Corridors, Station Communities and Main Streets. The Regional Framework Plan
+identifies Centers, Corridors, Main Streets and Station Communities throughout the region and
+recognizes them as the principal centers of urban life in the region. Title 6 calls for actions and
+investments by cities and counties, complemented by regional investments, to enhance this role. A
+regional investment is an investment in a new high-capacity transit line or designated a regional
+investment in a grant or funding program administered by Metro or subject to Metro’s approval.
+20. Finding: Title 6 establishes eligibility criteria for certain regional investments, and the use of more
+flexible trip generation assumptions when evaluating transportation impacts. Title 6 also contains
+aspirational activity level targets for different Metro 2040 place types. This title is incentive-based,
+so these findings simply serve to document intent. There are no specific mandatory compliance
+standards in Title 6 that apply to this ordinance.
+Metro has designated the areas that may qualify for these regional incentives, including transit
+stations, the Central City, Gateway regional center, along with Hollywood, Hillsdale, Raleigh Hills,
+West Portland, Lents, and St. Johns town centers. The S2HC amendments help to achieve Metro
+2040 Growth Concept by expanding housing choices and Community Service provisions near
+several Metro-designated centers and corridors as described in more detail in response to
+Comprehensive Plan policies in Chapters 3, 4, and 5. These findings are incorporated here by
+reference. Therefore, the S2HC amendments are consistent with the applicable requirements of
+Metro Title 6.
+Title 7. Housing Choice. The Regional Framework Plan calls for establishment of voluntary affordable
+housing production goals to be adopted by local governments and assistance from local governments
+on reports on progress towards increasing the supply of affordable housing. It is the intent of Title 7 to
+implement these policies of the Regional Framework Plan.
+21. Finding: Title 7 addresses housing choice. Metro adopted voluntary affordable housing goals for
+each city and county in the region for the years 2001 to 2006, but never updated them. Therefore,
+Title 7 does not apply. Nevertheless, the recently adopted 2035 Comprehensive Plan includes city-
+wide affordable housing production goals that greatly exceed those adopted by the outdated Title
+7 (Ordinance 178832). By liberalizing the allowances for Group Living, the S2HC amendments
+support the production of affordable housing options.
+Title 8. Compliance Procedures. Title 8 addresses compliance procedures and establishes a process
+for ensuring city or county compliance with requirements of the Urban Growth Management
+Functional Plan and for evaluating and informing the region about the effectiveness of those
+requirements. An amendment to a city or county comprehensive plan or land use regulation shall be
+deemed to comply with the functional plan upon the expiration of the appropriate appeal period
+specified in ORS 197.830 or 197.650 or, if an appeal is made, upon the final decision on appeal. Once
+the amendment is deemed to comply, the functional plan requirement shall no longer apply to land
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+use decisions made in conformance with the amendment. A city or county proposing an amendment
+to a comprehensive plan or land use regulation shall submit the proposed amendment to Metro at
+least 35 days prior to the first evidentiary hearing on the amendment.
+22. Finding: Required notice was provided to Metro. Title 8 also requires the City to provide findings
+of compliance with the Urban Growth Management Functional Plan. These findings meet this
+requirement. All applicable requirements of Title 8 have been met.
+Title 9. Performance Measures. (repealed Ord. 10-1244B, Sec. 8, 2010)
+Title 10. Functional Plan Definitions. Title 10 contains definitions.
+23. Finding: When 2035 Comprehensive Plan uses a term found in Title 10 either the term has the
+same meaning found in Title 10, or the difference is explained. The S2HC amendments do not
+change any definitions in the 2035 Comprehensive Plan that are also found in Title 10. All
+applicable requirements of Title 10 have been met.
+Title 11. Planning for New Urban Areas. The purpose of Title 11 is to guide long range planning for
+urban reserves and areas added to the UGB. It also provides interim protection for areas added to the
+UGB until city or county amendments to land use regulations to allow urbanization become applicable
+to the areas.
+24. Finding: The amendments do not add areas to the UGB. Therefore, Title 11 is not applicable.
+Title 12. Protection of Residential Neighborhoods. Existing neighborhoods are essential to the
+success of the 2040 Growth Concept. The intent of Title 12 of the Urban Growth Management
+Functional Plan is to protect the region’s residential neighborhoods. The purpose of Title 12 is to help
+implement the policy of the Regional Framework Plan to protect existing residential neighborhoods
+from air and water pollution, noise, and crime and to provide adequate levels of public services.
+In order to protect these areas, Metro shall not require any city or county to authorize an increase in
+the residential density of a single-family neighborhood in an area mapped solely as Neighborhood. In
+addition, specific limits on access to commercial services are applied to commercial uses within
+designated neighborhood centers in order to reduce air pollution and traffic congestion. This Title also
+calls on Cities to establish a level of service standard for parks and greenspaces that calls for a park
+facility within a specified distance of all residences.
+25. Finding: Title 12 largely restricts Metro’s authority to plan and regulate density in single-family
+neighborhoods. The S2HC amendments were originated by the City’s legislative process, respond
+to locally-identified needs, and are not at the direction of Metro. The amendments do not include
+changes to Metro’s neighborhood center designations or authorize any large-format commercial
+uses. The City has already established a goal in its Parks 2020 Vision of providing a basic,
+developed Neighborhood Park facility within a half mile of every Portland resident, and a
+Community Park within a mile of every resident. Therefore, these amendments comply with Title
+12.
+Title 13. Nature in Neighborhoods. The purposes of this program are to (1) conserve, protect, and
+restore a continuous ecologically viable streamside corridor system, from the streams’ headwaters to
+their confluence with other streams and rivers, and with their floodplains in a manner that is
+integrated with upland wildlife habitat and with the surrounding urban landscape; and (2) to control
+and prevent water pollution for the protection of the public health and safety, and to maintain and
+improve water quality throughout the region.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+26. Finding: Title 13 is expressly intended to provide a minimum baseline level of protection for
+identified Habitat Conservation Areas. Local jurisdictions may achieve substantial compliance with
+Title 13 using regulatory and/or non-regulatory tools. The City of Portland implements Title 13
+through its adopted Natural Resources Inventory (NRI) and subsequent protection measures
+through the environmental overlay zones, which Metro has found to be in substantial compliance
+with Title 13.
+No changes to the environmental overlay zones are proposed as part of this project. Except in the
+case of temporary shelters provided in response to a natural disaster or emergency, permanent
+and temporary outdoor shelters would be prohibited within Environmental overlay zones, the
+River Natural overlay zone, the River Environmental overlay zone, and the Pleasant Valley Natural
+Resource overlay zone. The City Council’s authority to act in an emergency is established by Title
+15 (Emergency Code) and the City Charter. More specific findings related to environmental
+conservation and habitat protection are found in response to Comprehensive Plan Chapter 7
+policies. These findings are incorporated here by reference. Therefore, the S2HC amendments are
+consistent with the applicable requirements of Title 13.
+Title 14. Urban Growth Management Plan. Title 14 addresses the regional urban growth boundary.
+27. Finding: This ordinance does not require, nor initiate, a boundary change, Title 14 does not apply.
+Summary, Urban Growth Management Functional Plan Findings
+28. Finding: The Metro Title 10 definition of comply or compliance means “substantial” rather than
+absolute compliance. "Substantial compliance" means city comprehensive plans and
+implementing ordinances, on the whole, conform with the purposes of the performance standards
+in the functional plan and any failure to meet individual performance standard requirements is
+technical or minor in nature.
+For the facts and reasons stated above this ordinance substantially complies with all Urban
+Growth Management Functional Plan requirements applicable to the S2HC amendments.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Part III. Portland’s Comprehensive Plan
+Portland’s 2035 Comprehensive Plan was adopted as part of Task Four of Periodic Review. Task Four was
+adopted by Ordinance No. 187832 on June 15, 2016. The 2035 Comprehensive Plan was amended as
+part of Task Five of Periodic Review, which was adopted by Ordinance No. 188177 on December 21,
+2016. Both ordinances were made effective on May 24, 2018 by Ordinance No. 188695, and both Tasks
+Four and Five were approved by LCDC Order 18 – WKTSK – 001897 on August 8, 2018.
+29. Finding: The City Council has identified the following guiding principles, goals and policies to be
+applicable to the S2HC amendments.
+Guiding Principles
+The 2035 Comprehensive Plan adopted five “guiding principles” in addition to the goals and policies
+typically included in a comprehensive plan. These principles were adopted to reinforce that
+implementation of the plan needs to be balanced, integrated and multi-disciplinary, and the influence of
+each principle helps to shape the overall policy framework of the plan. While the policies in the
+Comprehensive Plan effectively ensure that the guiding principles are met, the findings below further
+demonstrate that in addition to meeting those specific policies, the S2HC amendments are consistent
+with these guiding principles as described below.
+Economic Prosperity. Support a low-carbon economy and foster employment growth,
+competitiveness and equitably distributed household prosperity.
+30. Finding: This guiding principle asserts prosperity is about more than job growth. It also is about
+having a resilient regional economy, thriving local businesses and growth in living-wage jobs. It is
+also prosperity shared by Portland households. The 2035 Comprehensive Plan measures
+household prosperity in terms of a “self-sufficiency index” of what income is needed to meet basic
+household needs – costs of housing, childcare, food, healthcare and transportation.
+The most significant contribution of the S2HC amendments to this principle is through increasing
+opportunities for “equitably distributed household prosperity”. This means that the economic
+benefits of a prosperous city are broadly accessible to satisfy essential needs, advance wellbeing,
+and achieve full potential. Council finds that household prosperity is equitably distributed when
+households of a range of income levels and all neighborhoods have access to amenities and
+services.
+S2HC does this by reducing barriers to lower cost housing options, as well as shelter options, in
+more parts of the city. Lower cost housing options are facilitated by allowing Group Living uses by
+right in a larger set of zones, including multi-dwelling and single-dwelling zones. Group Living uses
+enable lower rents because the square footage per person and the investment in kitchens and
+bathrooms per person is lower. This is noted in several studies included in the record (HUD User,
+“Considering SRO Housing in New York City and Beyond”, 6/25/2018; Towards a Smaller Housing
+Paradigm: A Literature Review of Accessory Dwelling Units and Micro Apartments by Thomas
+Geffner, Portland State University 2018; Urban land Institute, “The Macro View of Micro Units”,
+2014). Lower rent, in turn, increases the access that residents have to the different amenities and
+services that high opportunity neighborhoods can offer.
+This addition of housing and shelter options allows more residents and clients to seek out a
+housing or shelter solution that better meets their needs. With more lower cost options available,
+this translates to spending less of their income on housing/shelter and more on the local goods
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+and services, or to create additional savings. The S2HC amendments make this diversity of housing
+and shelter possible not just along select corridors, but broadly throughout many areas of the city,
+which also allows residents and clients to seek housing closer to the amenities and necessities
+they prioritize, be it a job, daycare, school, or recreation. Proximity reduces transportation costs
+through less vehicle miles travelled or more transit/bike/pedestrian travel all of which means
+lower carbon emissions.
+Furthermore, the S2HC amendments do not reduce or convert any lands zoned for employment,
+and with one very qualified exception, no new nonindustrial uses are being allowed within
+industrial zones. The exception is that outdoor shelters will be allowed through conditional use
+approvals in industrial zones provided a strict set of standards and criteria are met. The findings
+for Statewide Planning Goal 9 in Part I further address this allowance for shelters in industrial
+zones and are incorporated by reference.
+The broader allowance for shelters in commercial and other zones is intended to address an acute
+need to provide more options for homeless Portlanders. The 2019 Point in Time Count
+documented 2,037 people who were unsheltered, 1,459 people sleeping in emergency shelter and
+519 people in transitional housing. In all, the Count found 4,015 people who met HUD’s definition
+of homelessness (twice the current year-round capacity of the shelter system). Many people have
+expressed a concern about the impact that widespread camping has on the perceived safety of
+the Central City and other neighborhood commercial districts. Concerns have been raised about
+how this impacts the business environment. There are currently not enough shelter beds to
+accommodate all of the homeless population. There are approximately 1,630 year-round shelter
+beds in Portland as of March 2021, including approximately 400 beds in private facilities. In
+addition, there are 73 rooms in family shelters, and 196 pods in alternative shelters. There are
+about 565 severe weather beds, and 283 hotel rooms being used to provide temporary socially-
+distanced facilities for COVID-vulnerable people. Together these facilities can serve just over 2,000
+people year-round, assuming pre-COVID occupancy standards. A summary of existing shelter
+facilities is in the record.
+The shortage of shelter beds relative to need makes it impossible to move campers from public
+sidewalks and open spaces into safter forms of shelter. The S2HC amendments make it easier to
+open new shelters in a variety of zones across the City. Over the long term the S2HC amendments
+will therefore help the business environment by providing options to the current unmanaged
+camping in public spaces.
+Therefore, the S2HC amendments are consistent with the economic prosperity guiding principle.
+See also findings for relevant policies in Chapters 5 and 6.
+
+Human Health. Avoid or minimize negative health impacts and improve opportunities for Portlanders
+to lead healthy, active lives.
+31. Finding: Homelessness and the housing cost burden has a direct health impact on many
+Portlanders – either through added economic stress and the inability to afford medical care, or
+through the direct impact of living outdoors. The S2HC project is supporting human health
+because it focuses on providing safe, decent and affordable shelter and housing options to every
+Portlander that needs it and provides opportunities for more affordable mission-driven supportive
+housing. Therefore, the S2HC amendments are consistent with the human health guiding
+principle.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Environmental Health. Weave nature into the city and foster a healthy environment that sustains
+people, neighborhoods, and fish and wildlife. Recognize the intrinsic value of nature and sustain the
+ecosystem services of Portland’s air, water and land.
+32. Finding: The S2HC amendments support this principle by allowing the development of a wider
+variety of housing and shelter options in more areas of the city. This expands the capacity to
+provide housing in Portland without impacting natural areas and more undeveloped land. It also
+provides more shelter options for unhoused people who might otherwise camp in parks or natural
+areas. Further, existing natural resource protections are not amended with the S2HC package
+(Chapters 33.430 and 33.465). Except in the case of temporary shelters provided in response to a
+natural disaster or emergency, permanent and temporary outdoor shelters would be prohibited
+within Environmental overlay zones, the River Natural overlay zone, the River Environmental
+overlay zone, and the Pleasant Valley Natural Resource overlay zone. The City Council’s authority
+to act in an emergency is established by Title 15 (Emergency Code) and the City Charter.
+Therefore, the S2HC amendments are consistent with the environmental health guiding principle.
+Equity. Promote equity and environmental justice by reducing disparities, minimizing burdens,
+extending community benefits, increasing the amount of affordable housing, affirmatively furthering
+fair housing, proactively fighting displacement, and improving socio-economic opportunities for
+under-served and under-represented populations. Intentionally engage under-served and under-
+represented populations in decisions that affect them. Specifically recognize, address and prevent
+repetition of the injustices suffered by communities of color throughout Portland’s history.
+33. Finding: The City’s Point in Time homeless counts reveal that American Indian, Alaska Native,
+Native Hawaiian, Pacific Islander, and Black and African American populations are over-
+represented in Portland’s homeless population. The Non-Hispanic White population is
+underrepresented. The S2HC zoning code amendments promote equity and environmental justice
+by streamlining the processes for some Group Living and community service uses that currently
+require conditional use review and by establishing new shelter options. The amendments will
+generally allow for more flexibility in uses and development types, ultimately resulting in housing
+and shelter options with community benefits. The people most impacted by the project will be
+houseless people, and people seeking alternative forms of shelter or housing. Therefore, the S2HC
+amendments are consistent with the equity guiding principle.
+Resilience. Reduce risk and improve the ability of individuals, communities, economic systems, and
+the natural and built environments to withstand, recover from, and adapt to changes from natural
+hazards, human-made disasters, climate change, and economic shifts.
+34. Finding: The S2HC amendments further this guiding principle through increasing the ability of
+Portland’s land supply to produce a wider range of housing options and additional access to
+shelter. Increasing the supply of lower-cost housing and allowing for an increased range of
+housing types throughout the city provides room for the market to produce housing in varying
+economic conditions and more readily adapt to changing market demands. A greater diversity of
+housing also helps individuals find housing that is “right sized” to their needs, both socially and
+economically.
+The S2HC amendments also allow for more flexible responses to recurring seasonal cold snaps,
+heat waves and wildfire smoke events by allowing the quick opening of temporary shelters in
+temporary locations through new procedures. This eliminates the need for declaration of
+emergencies to facilitate the siting of some types of temporary shelter. The amendments also
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+allow for more types of shelters—including outdoor shelters—to better respond to different types
+of emergency shelter needs.
+In terms of natural hazards, the provisions of 33.631 (Sites in Flood Hazard Areas) and 33.632
+(Sites in Potential Landslide Hazard Areas) along with City programs for flood management, and
+erosion and sediment control (Title 10 Erosion Control and the balanced cut and fill requirements
+of City Title 24), are unchanged by these amendments. Therefore, the S2HC amendments are
+consistent with the resilience guiding principle.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Chapter 1: The Plan
+Goal 1.A: Multiple goals. Portland’s Comprehensive Plan provides a framework to guide land use,
+development, and public facility investments. It is based on a set of Guiding Principles that call for
+integrated approaches, actions, and outcomes that meet multiple goals to ensure Portland is
+prosperous, healthy, equitable, and resilient.
+35. Finding: As noted above, the S2HC amendments are consistent with the guiding principles of the
+Comprehensive Plan. As part of an integrated approach to meet multiple goals, the City Council
+has considered, weighed and balanced applicable policies, as described on page HTU-5 of the
+Comprehensive Plan, to determine that this ordinance on the whole complies with the
+Comprehensive Plan. As described below, the City Council’s decision to adopt the S2HC
+amendments has considered the multiple goals of the Comprehensive Plan, including the guiding
+principles, to determine that the adoption of this ordinance will ensure that Portland is
+prosperous, healthy, equitable, and resilient. Therefore this goal is met.
+Goal 1.B: Regional partnership. Portland’s Comprehensive Plan acknowledges Portland’s role within
+the region, and it is coordinated with the policies of governmental partners.
+36. Finding: The findings show how the amendments are consistent with Metro’s Urban Growth
+Management Functional Plan and the Statewide Planning Goals, including Goal 2 which requires
+coordination. Metro, TriMet, and other state agencies received notice of the proposed
+amendments from the 35-day DLCD notice and the City’s legislative notice. Therefore this goal is
+met.
+Goal 1.C: A well-functioning plan. Portland’s Comprehensive Plan is effective, its elements are
+aligned, and it is updated periodically to be current and to address mandates, community needs, and
+identified problems.
+37. Finding: The City Council defines “effective” as being successful in producing a desired or intended
+result. The desired or intended result is embodied in the Guiding Principles and goals and policies
+of the Comprehensive Plan. These findings demonstrate how the S2HC amendments are
+consistent with the Comprehensive Plan, including advancing multiple goals. These changes
+represent updating regulatory implementation tools that respond to community needs and
+identified problems, especially in addressing the need to facilitate more housing and shelter.
+Therefore this goal is met.
+Goal 1.D: Implementation tools. Portland’s Comprehensive Plan is executed through a variety of
+implementation tools, both regulatory and non-regulatory. Implementation tools comply with the
+Comprehensive Plan and are carried out in a coordinated and efficient manner. They protect the
+public’s current and future interests and balance the need for providing certainty for future
+development with the need for flexibility and the opportunity to promote innovation.
+38. Finding: The S2HC amendments include regulatory changes to one of the Comprehensive Plan’s
+implementation tool, the zoning code (Title 33). The proposed amendments protect the public’s
+current and future interest by increasing the ability of Portland’s land supply to produce a wider
+range of housing options and produce additional access to shelter. The S2HC amendments also
+allow for more flexible responses to future emergency events by allowing the quick opening of
+temporary shelters in temporary locations through new procedures. This eliminates the need for
+declarations of emergency to facilitate the siting of some types of temporary shelter. The
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+amendments also allow for more types of shelters—including outdoor shelters—to better respond
+to different types of emergency shelter needs.
+The City Council defines “flexibility” as a capability to adapt to new, different, or changing
+requirements and “innovation” as the introduction of something new. The code amendments
+allow increased flexibility for siting shelters, including the addition of outdoor shelters as a new
+Community Service use. The amendments also liberalize the allowances for Group Living and allow
+more flexibility for long-term, residential occupancy of recreational vehicles and tiny houses on
+wheels.
+While these regulatory changes are primarily focused on advancing housing policies in Chapter 5,
+Housing, the findings herein demonstrate that other policies in other chapters are also advanced,
+and shows how Council considered the applicable policies to determine that their decision
+complies with the Comprehensive Plan. Therefore this goal is met.
+Goal 1.E: Administration. Portland’s Comprehensive Plan is administered efficiently and effectively
+and in ways that forward the intent of the Plan. It is administered in accordance with regional plans
+and state and federal law.
+39. Finding: As noted above, the findings show how the amendments are consistent with the guiding
+principles of the 2035 Comprehensive Plan. The findings additionally show how the amendments
+are consistent with the Urban Growth Management Functional Plan, and the Statewide Planning
+Goals. Metro, TriMet, and other state agencies received notice of the proposed S2HC
+amendments from the 35-day DLCD notice and the City’s legislative notice. Therefore this goal is
+met.
+The Comprehensive Plan
+Policy 1.1. Comprehensive Plan elements. Maintain a Comprehensive Plan that includes these
+elements:
+• Vision and Guiding Principles. The Vision is a statement of where the City aspires to be in
+2035. The Guiding Principles call for decisions that meet multiple goals to ensure Portland is
+prosperous, healthy, equitable, and resilient.
+• Goals and policies. The goals and policies of the Comprehensive Plan, including the Urban
+Design Framework, provide the long-range planning direction for the development and
+redevelopment of the city.
+• Comprehensive Plan Map. The Comprehensive Plan Map is the official long-range planning
+guide for spatially defining the desired land uses and development in Portland. The
+Comprehensive Plan Map is a series of maps, which together show the boundaries of
+municipal incorporation, the Urban Service Boundary, land use designations, and the
+recognized boundaries of the Central City, Gateway regional center, town centers, and
+neighborhood centers.
+• List of Significant Projects. The List of Significant Projects identifies the public facility projects
+needed to serve designated land uses through 2035 including expected new housing and jobs.
+It is based on the framework provided by a supporting Public Facilities Plan (PFP). The
+Citywide Systems Plan (CSP) is the City’s public facilities plan. The Transportation System Plan
+(TSP) includes the transportation-related list of significant projects. The list element of the TSP
+is also an element of the Comprehensive Plan.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+• Transportation policies, street classifications, and street plans. The policies, street
+classifications, and street plan maps contained in the Transportation System Plan (TSP) are an
+element of the Comprehensive Plan. Other parts of the TSP function as a supporting
+document, as described in Policy 1.2.
+40. Finding: The S2HC amendments do not change the structure of these plan elements. This policy
+does not apply.
+Supporting Documents
+Policy 1.2. Comprehensive Plan supporting documents. Maintain and periodically update the
+following Comprehensive Plan supporting documents.
+1. Inventories and analyses. The following inventories and analyses are supporting documents
+to the Comprehensive Plan:
+• Economic Opportunities Analysis (EOA)
+• Buildable Lands Inventory (BLI)
+• Natural Resource Inventory (NRI)
+• Housing Needs Analysis (HNA)
+41. Finding: The S2HC amendments do not update the above-noted supporting documents. This
+Policy is not applicable.
+2. Public Facilities Plan. The Public Facilities Plan (PFP) is a coordinated plan for the provision of
+urban public facilities and services within Portland’s Urban Services Boundary. The Citywide
+Systems Plan (CSP) is the City’s public facilities plan.
+42. Finding: As demonstrated in the findings for Statewide Planning Goal 11 and Chapter 8 of the
+2035 Comprehensive Plan, the amendments have been evaluated to ensure that these changes do
+not impact the provision of public services and are consistent with the adopted Citywide Systems
+Plan (CSP). In particular, findings responding to Policies 8.67, 8.75, 8.88, and 8.99 address
+wastewater, stormwater, water and parks facilities. The CSP, which was adopted (Ordinance
+185657) and acknowledged by LCDC on April 25, 2017, includes the Public Facilities Plan with
+information on current and future transportation, water, sanitary sewer, and stormwater
+infrastructure needs and projects, consistent with the requirements of Statewide Planning Goal
+11. The S2HC amendments do not amend the Citywide Systems Plan (CSP).
+3. Transportation System Plan (TSP). The TSP is the detailed long-range plan to guide
+transportation system functions and investments. The TSP ensures that new development and
+allowed land uses are consistent with the identified function and capacity of, and adopted
+performance measures for, affected transportation facilities. The TSP includes a financial plan
+to identify revenue sources for planned transportation facilities included on the List of
+Significant Projects. The TSP is the transportation element of the Public Facilities Plan. Certain
+components of the TSP are elements of the Comprehensive Plan. See Policy 1.1.
+43. Finding: As demonstrated in the findings for Statewide Planning Goal 12 (Transportation) and the
+goals and policies of Chapter 9 (Transportation), the S2CH amendments have been evaluated to
+ensure that these changes do not impact the transportation system. The S2HC amendments are
+consistent with and do not amend the Transportation System Plan. As described in the
+memorandum provided by the Portland Bureau of Transportation dated March 1, 2021, the
+regional transportation modeling data assumes the whole population is housed and employed.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Thus, people who are currently unhoused who might be accommodated by any future shelters
+that could be enabled by the S2CH project are already accounted for in the traffic model. The trip
+generation rates for Group Living and other similar congregate uses are lower than the rates for
+Household Living and employment uses, and therefore lower than the baseline assumptions in the
+traffic model. The new entitlements for shelter facilities and Group Living are relatively evenly
+distributed around the City. The S2HC changes will allow the largest shelters in commercial mixed-
+use zones and multi-dwelling zones, which are found in almost every neighborhood as evidenced
+by maps of zoning shown in presentations to City Council.  Also, the more significant expanded
+shelter allowances generally correspond to zones that are close to transit and services, which will
+serve to further reduce potential automobile impacts. The new Group Living entitlements impact
+single dwelling and multi-dwelling zones; which are found in every neighborhood. Thus, code
+amendments that would enable more shelters and more Group Living uses will not have a
+negative impact on the transportation system.
+4. School Facility Plans. School facility plans that were developed in consultation with the City,
+adopted by school districts serving the City, and that meet the requirements of ORS 195 are
+considered supporting documents to the Comprehensive Plan.
+44. Finding: David Douglas School District (DDSD) is currently the only school district in Portland with
+an adopted school facility plan that meets this policy. The overall expectation for growth in East
+Portland is grounded in regional housing demand forecasts made by Metro, and those demand
+forecasts have not been altered by the fine-grained regulatory changes made within the S2HC
+project. The Group Living code changes could enable more residents to live in higher cost close-in
+neighborhoods. Expanded flexibility for Group Living has been noted in a variety of studies as a
+tool to address housing affordability in the highest cost urban areas (HUD User, “Considering SRO
+Housing in New York City and Beyond”, 6/25/2018; Towards a Smaller Housing Paradigm: A
+Literature Review of Accessory Dwelling Units and Micro Apartments by Thomas Geffner, Portland
+State University 2018; Urban land Institute, “The Macro View of Micro Units”, 2014). To the extent
+that the S2HC changes create any shift in larger scale growth patterns, the changes will allow more
+growth to be accommodated in higher cost inner neighborhoods outside of the DDSD boundary –
+by adding more affordable housing options.
+Implementation tools
+Policy 1.3. Implementation tools subject to the Comprehensive Plan. Maintain Comprehensive Plan
+implementation tools that are derived from, and comply with, the Comprehensive Plan.
+Implementation tools include those identified in policies 1.4 through 1.9.
+45. Finding: The S2HC amendments maintain and amend the Comprehensive Plan implementation
+tools as described below in Policies 1.4 through 1.9. Consistency with the comprehensive policies
+and guiding principles for relevant amendments are demonstrated elsewhere in these findings.
+Policy 1.4. Zoning Code. Maintain a Zoning Code that establishes the regulations that apply to various
+zones, districts, uses, and development types.
+46. Finding: Title 33 is the adopted and effective zoning code tool for the city. The S2HC zoning code
+amendments are intended to implement the policy framework of the 2035 Comprehensive Plan.
+The amendments are intended to add flexibility for shelter siting; establish outdoor shelters as a
+new community service use; and liberalize the allowances for Group Living. By adding flexibility for
+housing and shelter, the Zoning Code is a tool that can remove some of the barriers faced by
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+shelter providers and to those seeking lower-cost housing options. Consistency with the
+comprehensive policies and guiding principles are demonstrated elsewhere in these findings.
+Policy 1.5 Zoning Map. Maintain a Zoning Map that identifies the boundaries of various zones,
+districts, and other special features.
+47. Finding: The S2HC amendments include do not include any Zoning Map amendments. Therefore,
+this policy is not applicable.
+Policy 1.6 Service coordination agreements. Maintain coordination agreements with local
+governments of adjoining jurisdictions concerning mutual recognition of urban service boundaries;
+special service districts concerning public facilities and services within Portland’s Urban Services
+Boundary; and public school districts concerning educational facilities within Portland's Urban Services
+Boundary.
+48. Finding: The city maintains several intergovernmental agreements concerning mutual recognition
+of urban service boundaries; special service districts concerning public facilities and services within
+Portland’s Urban Services Boundary; and with public school districts This policy is not relevant to
+the S2HC amendments because there are no changes being made to these coordination
+agreements.
+Policy 1.7 Annexations. Provide a process incorporating urban and urbanizable land within the City's
+Urban Services Boundary through annexation. See policies 8.11-8.19 for service extension
+requirements for annexations.
+49. Finding: The city has a process for incorporating urban and urbanizable land. S2HC amendments
+do not include any annexations nor change current processes for incorporation of land. Therefore,
+this policy is not applicable.
+Policy 1.8 Urban renewal plans. Coordinate Comprehensive Plan implementation with urban renewal
+plans and implementation activities. A decision to adopt a new urban renewal district, adopt or amend
+goals and objectives that will guide investment priorities within a district, or amend the boundaries of
+an existing district, must comply with the Comprehensive Plan.
+50. Finding: The S2HC amendments do not include changes to existing, or any new urban renewal
+plans. Therefore, this policy is not applicable.
+Policy 1.9 Development agreements. Consider development agreements entered into by the City of
+Portland and pursuant to Oregon Revised Statute 94 a Comprehensive Plan implementation tool.
+51. Finding: The S2HC amendments do not affect nor necessitate development agreements.
+Therefore, this policy is not applicable.
+Administration
+Policy 1.10. Compliance with the Comprehensive Plan. Ensure that amendments to the
+Comprehensive Plan’s elements, supporting documents, and implementation tools comply with the
+Comprehensive Plan. “Comply” means that amendments must be evaluated against the
+Comprehensive Plan’s applicable goals and policies and on balance be equally or more supportive of
+the Comprehensive Plan than the existing language or designation.
+1.10.a Legislative amendments to the Comprehensive Plan’s elements and implementation tools
+must also comply with the Guiding Principles.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+1.10.b Legislative amendments to the Comprehensive Plan’s elements should be based on the
+factual basis established in the supporting documents as updated and amended over time.
+1.10.c Amendments to the Zoning Map are in compliance with the Comprehensive Plan if they are
+consistent with the Comprehensive Plan Map.
+52. Finding: The City Council finds that this is a fundamental policy of the Comprehensive Plan that
+guides the manner in which the City Council considers amendments to the Plan itself or any
+implementing regulations, such as the Zoning Code.
+The City Council interprets the policy to require the Council to consider whether, after considering
+all relevant facts, an amendment is equally or more supportive of the Comprehensive Plan. The
+City Council finds that an amendment is equally supportive when it is on its face directly
+supported by goals and policies in the Plan. The City Council finds that an amendment is more
+supportive of the Comprehensive Plan when the amendment will further advance goals and
+policies, particularly those that are aspirational in nature. The City Council finds that the policy
+requires consideration as to whether amendments are equally or more supportive of the Plan as a
+whole. The City Council finds that amendments do not need to be equally or more supportive with
+individual goals and policies, but rather amendments must be equally or more supportive of the
+entire Comprehensive Plan. Therefore, the City Council finds that there may be instances where
+specific goals and policies are not supported by the amendments but still the amendment is
+equally or more supportive of the entire Comprehensive Plan when considered cumulatively. The
+City Council finds that there is no precise mathematical equation for determining when the Plan as
+a whole is supported but rather such consideration requires City Council discretion in evaluating
+the competing interests and objectives of the plan.
+Council notes that the Comprehensive Plan introduction explains that “[t]he Comprehensive Plan
+contains a broad range of policies for Council to consider. Each policy describes a desirable
+outcome. But it is unlikely that all policies are relevant to a particular decision and that a particular
+decision could be expected to advance all of the policies in the plan equally well . . . [E]ven the
+strongest policies do not automatically trump other policies. Every decision is different, with
+different facts. The particular policies that matter will change from one decision to another. There
+is no set formula—no particular number of ‘heavier’ policies equals a larger set of ‘lighter’ policies.
+In cases where there are competing directions embodied by different policies, City Council may
+choose the direction they believe best embodies the plan as a whole.” 2035 Comprehensive Plan,
+page HTU-5.
+The S2HC amendments are a legislative amendment to the Zoning Code. These findings identify
+how the amendments comply with the Comprehensive Plan. That is, the amendments are
+evaluated against the Comprehensive Plan’s Guiding Principles, goals, and policies, as detailed
+throughout this set of findings. As described in the finding for Policy 1.2, the factual basis of the
+supporting documents is not changed by this ordinance.
+The City Council has considered all applicable goals and policies to achieve an optimum outcome.
+Goals and policies are considered as factors which must be weighed, balanced and met on the
+whole, not as criteria that must be individually met. The overall purposes of the S2HC
+amendments are to expand the diversity and affordability of housing opportunities and to
+increase flexibility for providing shelter. The focus of the amendments is to add flexibility for
+shelter siting; establish outdoor shelters as a new community service use; liberalize the allowances
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+for Group Living; and allow long-term, residential occupancy of recreational vehicles (RVs) and tiny
+houses on wheels.
+The Council found that the project particularly advances the following interjurisdictional guidance,
+goals and policies, and has weighed these policies heavily. The City Council finds that the S2HC
+amendments are more supportive of the Comprehensive Plan than the existing regulations with
+regard to the goals and policies as discussed below.
+Portland’s 2035 Comprehensive Plan contains a housing continuum policy that is informed by the
+following interjurisdictional guidance on homelessness.
+Understandably, the homeless population is most vulnerable to decreasing affordability and
+declining household prosperity. Unified guidance by the City of Portland, Multnomah County,
+and Home Forward is provided through their jointly authored plan, A Home for Everyone: A
+United Community Plan to End Homelessness in Multnomah County (2013). This plan focuses
+resources to support priority populations, particularly families with children, unaccompanied
+youth, adults with disabilities, women, and veterans. It focuses investments in six program areas
+to prevent and end homelessness, including housing, income and benefits, health, survival and
+emergency services, access to services, and systems coordination. The purpose of the plan is to
+prevent homelessness and reduce the time people spend being homeless. The following policy
+provides land use support for the priorities identified by this plan.
+The referenced policy states.
+Policy 5.46 Housing continuum. Prevent homelessness and reduce the time spent being
+homeless by allowing and striving to provide a continuum of safe and affordable housing
+opportunities and related supportive services including but not limited to rent assistance,
+permanent supportive housing, transitional housing, micro housing communities, emergency
+shelters, temporary shelters such as warming centers, and transitional campgrounds/rest areas.
+The S2HC project also carries out and advances many other Comprehensive Plan goals and
+policies. Most important among those are the following:
+Goal 2.B: Social justice and equity. The City of Portland seeks social justice by expanding choice
+and opportunity for all community members, recognizing a special responsibility to identify and
+engage, as genuine partners, under-served and under-represented communities in planning,
+investment, implementation, and enforcement processes, particularly those with potential to be
+adversely affected by the results of decisions. The City actively works to improve its planning
+and investment-related decisions to achieve equitable distribution of burdens and benefits and
+address past injustices.
+GOAL 3.A: A city designed for people.  Portland’s built environment is designed to serve the
+needs and aspirations of all Portlanders, promoting prosperity, health, equity, and resiliency.
+New development, redevelopment, and public investments reduce disparities and encourage
+social interaction to create a healthy connected city.
+Policy 3.3.b. Make needed investments in areas that are deficient in public facilities to reduce
+disparities and increase equity. Accompany these investments with proactive measures to avoid
+displacement and increase affordable housing.
+Goal 5.A: Housing diversity. Portlanders have access to high-quality affordable housing that
+accommodates their needs, preferences, and financial capabilities in terms of different types,
+tenures, density, sizes, costs, and locations.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Goal 5.B: Equitable access to housing. Portland ensures equitable access to housing, making a
+special effort to remove disparities in housing access for people with disabilities, people of color,
+low-income households, diverse household types, and older adults.
+Goal 7.D: Environmental equity. All Portlanders have access to clean air and water, can
+experience nature in their daily lives, and benefit from development designed to lessen the
+impacts of natural hazards and environmental contamination.
+Policy 9.25 Transit equity. In partnership with TriMet, maintain and expand high-quality
+frequent transit service to all Town Centers, Civic Corridors, Neighborhood Centers,
+Neighborhood Corridors, and other major concentrations of employment, and improve service
+to areas with high concentrations of poverty and historically under-served and under-
+represented communities.
+The findings of this ordinance identify how the S2HC amendments comply with and are
+consistent with the 2035 Comprehensive Plan’s Guiding Principles, goals, policies, and maps, as
+detailed throughout this set of findings. The Council concludes that the S2HC amendments are
+on balance, or on the whole, more supportive of the goals and policies of the Comprehensive
+Plan than the current regulations. Council considered all goals and policies and finds that the
+S2HC amendments comply and are consistent with all applicable goals and policies. Therefore,
+Policy 1.10 is met.
+
+Policy 1.11. Consistency with Metro Urban Growth Management Functional Plan and Urban Growth
+Boundary. Ensure that the Comprehensive Plan remains consistent with the Metro Urban Growth
+Management Functional Plan and supports a tight urban growth boundary for the Portland
+Metropolitan area.
+53. Finding: As noted earlier in these findings, the S2HC amendments are consistent with and
+designed to further the applicable elements of the Metro Urban Growth Management Functional
+Plan. See findings in Part II, Metro Urban Growth Management Functional Plan, which
+demonstrate consistency. Therefore, this policy is met.
+Policy 1.12. Consistency with Statewide Planning Goals. Ensure that the Comprehensive Plan,
+supporting documents, and implementation tools remain consistent with the Oregon Statewide
+Planning Goals.
+54. Finding: As noted earlier in these findings, the S2HC amendments are consistent with and
+designed to further the applicable elements of the Statewide Planning Goals. See findings in Part I,
+Statewide Planning Goals, which demonstrate consistency. Therefore, this policy is met.
+Policy 1.13. Consistency with state and federal regulations. Ensure that the Comprehensive Plan
+remains consistent with all applicable state and federal regulations, and that implementation
+measures for the Comprehensive Plan are well coordinated with other City activities that respond to
+state and federal regulations.
+55. Finding: The S2HC amendments were developed to be consistent with applicable state and federal
+regulations, including the fair housing act, and do not amend any Zoning Code sections that are
+required by state or federal regulations, including FEMA flood regulations and state building code
+requirements. The S2HC amendments generally further fair housing by expanding the number of
+housing types allowed in single-dwelling zones. Therefore, this policy is met.
+Policy 1.14. Public facility adequacy. Consider impacts on the existing and future availability and
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+capacity of urban public facilities and services when amending Comprehensive Plan elements and
+implementation tools. Urban public facilities and services include those provided by the City,
+neighboring jurisdictions, and partners within Portland’s urban services boundaries, as established by
+Policies 8.2 and 8.6.
+56. Finding: As demonstrated in the findings for Statewide Planning Goal 11 and Chapter 8 (Public
+Facilities and Services) of the Comprehensive Plan, City Council considered the impacts on the
+existing and future availability and capacity of urban public facilities and services consistent with
+this policy. Therefore, this policy is met.
+Policy 1.15. Intergovernmental coordination. Strive to administer the Comprehensive Plan elements
+and implementation tools in a manner that supports the efforts and fiscal health of the City, county
+and regional governments, and partner agencies such as school districts and transit agencies.
+57. Finding: As demonstrated in the findings for Statewide Planning Goal 2, the City filed the required
+35-day notice with Oregon Department of Land Conservation and Development to notify other
+government agencies of the proposed S2HC amendments. In addition, the City sent a separate
+legislative notice to Multnomah County, adjacent cities, Metro and TriMet. No government
+agencies raised issues or concerns with the S2HC amendments. During the Council hearings
+process, staff answered several questions from Multnomah County and Metro related to
+amendments addressing lands zoned open space – which are owned by both agencies.  Therefore,
+this policy is met.
+Policy 1.16. Planning and Sustainability Commission review. Ensure the Planning and Sustainability
+Commission (PSC) reviews and makes recommendations to the City Council on all proposed legislative
+amendments to Comprehensive Plan elements, supporting documents, and implementation tools. The
+PSC advises City Council on the City’s long-range goals, policies, and programs for land use, planning,
+and sustainability. The membership and powers and duties of the PSC are described in the Zoning
+Code.
+58. Finding: The PSC reviewed the S2HC amendments over the course of five meetings:
+• November 10, 2020 – Briefing
+• December 8 and December 15, 2020 – Public hearings
+• January 12 and January 26, 2021 – Discussion and recommendation
+The PSC fulfilled its responsibilities as outlined in this policy. Therefore, this policy is met.
+Policy 1.17. Community Involvement Committee. Establish a Community Involvement Committee to
+oversee the Community Involvement Program as recognized by Oregon Statewide Planning Goal 1 –
+Community Involvement and policies 2.15-2.18 of this Comprehensive Plan.
+59. Finding: The Community Involvement Committee was appointed in June 2018 and reviews and
+advises the way City staff engage with the public in land use and transportation planning. The
+Community Involvement Committee reviewed the proposed scope, engagement plan and work
+program for the S2HC Project.
+The CIC endorsed an “involvement” strategy as the project’s engagement goal. Involvement
+means not only helping people know about and understand the project, but also enabling them to
+influence the project at each decision step along the project’s way to adoption. To do this, the City
+must not only seek out involvement but ensure that concerns and aspirations of those involved
+are consistently and properly understood and considered. Here, “considered” means that
+proposals arising from involvement have real potential to shape final decisions.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+The CIC acknowledged that the persons most likely to benefit from this project may also be the
+persons least able to influence it. It is therefore of utmost importance that involvement be carried
+out in a manner designed to ameliorate this inverse relationship. The PSC responded to this by
+hosting a panel of people with lived experience in homelessness as part of their deliberation
+process.
+The project’s community involvement program is detailed more in the findings for Chapter 2,
+Community Involvement.
+The CIC fulfilled its responsibilities as outlined in this policy. Therefore, this policy is met.
+Policy 1.18. Quasi-judicial amendments to the Comprehensive Plan Map. Applicants for quasi-judicial
+amendments to the Comprehensive Plan Map must show that the requested change adheres to
+Policies 1.10 through 1.15 and:
+• Is compatible with the land use pattern established by the Comprehensive Plan Map.
+• Is not in conflict with applicable adopted area-specific plans as described in Policy 1.19, or the
+applicable hearings body determines that the identified conflict represents a circumstance
+where the area specific plan is in conflict with the Comprehensive Plan and the proposed
+amendment is consistent with the Comprehensive Plan.
+The Hearings Officer must review and make recommendations to the City Council on all quasi-
+judicial amendments to the Comprehensive Plan Map using procedures outlined in the Zoning
+Code.
+60. Finding: This policy concerns quasi-judicial amendments to the Comprehensive Plan Map and is
+not applicable to this project.
+Policy 1.19. Area-specific plans. Use area-specific plans to provide additional detail or refinements
+applicable at a smaller geographic scale, such as for centers and corridors, within the policy
+framework provided by the overall Comprehensive Plan.
+1.19.a Area-specific plans that are adopted after May 24, 2018, should clearly identify which
+components amend Comprehensive Plan elements, supporting documents, or implementation
+tools. Such amendments should be appropriate to the scope of the Comprehensive Plan; be
+intended to guide land use decisions; and provide geographically-specific detail. Such
+amendments could include policies specific to the plan area, land use designation changes, zoning
+map changes, zoning code changes, and public facility projects necessary to serve designated land
+uses.
+1.19.b Area-specific plan components intended as context, general guidance, or directives for
+future community-driven efforts should not amend the Comprehensive Plan elements or
+implementation tools but be adopted by resolution as intent. These components include vision
+statements, historical context, existing conditions, action plans, design preferences, and other
+background information.
+1.19.c Community, area, neighborhood, and other area-specific plans that were adopted by
+ordinance prior to January 1, 2018 are still in effect. However, the elements of this Comprehensive
+Plan supersede any goals or policies of a community, area, or neighborhood plan that are
+inconsistent with this Plan.
+61. Finding: The S2HC amendments do not include or amend area specific plans. Policy 1.19 directs
+that existing area-specific plans be used to provide additional detail or refinements at a smaller
+geographic scale, like centers or corridors. The S2HC code amendments are applicable at a
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+citywide scale. At the citywide scale, the findings included herein demonstrate that the
+amendments are consistent with the 2035 Comprehensive Plan. Because there are no area-
+specific impacts, area-specific plans are not applicable.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Chapter 2: Community Involvement
+Goal 2.A: Community involvement as a partnership. The City of Portland works together as a genuine
+partner with all Portland communities and interests. The City promotes, builds, and maintains
+relationships, and communicates with individuals, communities, neighborhoods, businesses,
+organizations, institutions, and other governments to ensure meaningful community involvement in
+planning and investment decisions.
+Goal 2.B: Social justice and equity. The City of Portland seeks social justice by expanding choice and
+opportunity for all community members, recognizing a special responsibility to identify and engage, as
+genuine partners, under-served and under-represented communities in planning, investment,
+implementation, and enforcement processes, particularly those with potential to be adversely
+affected by the results of decisions. The City actively works to improve its planning and investment-
+related decisions to achieve equitable distribution of burdens and benefits and address past injustices.
+62. Finding: With regard to Goal 2.A and Goal 2.B, the S2HC project is making citywide changes to
+regulations that impact homeless shelters and the types of housing that are allowed. The people
+most impacted by the project will be houseless people, and people seeking alternative forms of
+shelter or housing. The City’s Point in Time homeless counts reveal that American Indian, Alaska
+Native, Native Hawaiian, Pacific Islander, and Black and African American populations are over-
+represented in Portland’s homeless population. The Non-Hispanic White population is
+underrepresented. With this in mind, the project took two steps to reach out to people who have
+direct experience with homelessness. First, project staff engaged with the A Home for Everyone
+organization, tapping expertise that exists within its various committees. BPS hosted a forum on
+October 13 moderated by A Home for Everyone. Second, the PSC hosted a panel of people with
+lived experience in homelessness as part of their deliberation process. Therefore, these goals are
+met.
+Goal 2.C: Value community wisdom and participation. Portland values and encourages community
+and civic participation. The City seeks and considers community wisdom and diverse cultural
+perspectives, and integrates them with technical analysis, to strengthen land use decisions.
+Goal 2.D: Transparency and accountability. City planning and investment decision-making processes
+are clear, open, and documented. Through these processes a diverse range of community interests are
+heard and balanced. The City makes it clear to the community who is responsible for making decisions
+and how community input is considered. Accountability includes monitoring and reporting outcomes.
+Goal 2.E: Meaningful participation. Community members have meaningful opportunities to
+participate in and influence all stages of planning and decision making. Public processes engage the
+full diversity of affected community members, including under-served and under-represented
+individuals and communities. The City will seek and facilitate the involvement of those potentially
+affected by planning and decision making.
+Goal 2.F: Accessible and effective participation. City planning and investment decision-making
+processes are designed to be culturally accessible and effective. The City draws from acknowledged
+best practices and uses a wide variety of tools, including those developed and recommended by
+under-served and under-represented communities, to promote inclusive, collaborative, culturally-
+specific, and robust community involvement.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Goal 2.G: Strong civic infrastructure. Civic institutions, organizations, and processes encourage active
+and meaningful community involvement and strengthen the capacity of individuals and communities
+to participate in planning processes and civic life.
+63. Finding: The preparation of these amendments has provided numerous opportunities for
+meaningful community involvement consistent with Goals 2.A though 2.G, including:
+Community Engagement Committee. Engagement began on March 10, 2020 when the volunteer
+Community Involvement Committee (CIC) reviewed the proposed scope and work program for the
+S2HC Project and endorsed  “involvement” as the project’s engagement goal. Involvement means
+not only helping people know about and understand the project, but also enabling them to
+influence the project at each decision step along the project’s way to adoption. To do this, the City
+must not only seek out involvement but ensure that concerns and aspirations of those involved
+are consistently and properly understood and considered. Here, “considered” means that
+proposals arising from involvement have real potential to shape final decisions.
+The CIC, BPS, and partner agencies are acutely aware that the persons most likely to benefit from
+this project may also be the persons least able to influence it. It is therefore of utmost importance
+that involvement be carried out in a manner designed to ameliorate this inverse relationship.
+Involvement also must be adjusted to observe health advisories for the COVID-19 pandemic.
+Project Activities to Leading to the Discussion Draft. Initial work was aided by a technical
+assistance grant provided by the Oregon Department of Land Conservation and Development
+(DLCD). Angelo Planning Group, under contract with DLCD, prepared a series of reports describing
+approaches other jurisdictions had taken in facilitating shelter and Group Living accommodations
+and suggesting how similar provisions might be added to the Portland City Code. These reports
+are available at this link: https://efiles.portlandoregon.gov/record/13829522.
+A project website was established early in the project development to provide transparency. The
+technical reports noted above were posted there. News articles were posted to the website at
+major project milestones to raise public awareness, and the project was featured in a PBS
+newsletter received by organizations interested in the Bureau’s work.
+A standing inter-agency Housing Continuum Committee provided valuable context for further
+shaping the scope of the S2HC project, helped develop code concepts, and commented on rough
+drafts of code. Members of this committee attended and provided valuable assistance during
+community meetings.
+A core Technical Advisory Committee (TAC) composed of five members from three city bureaus
+drafted the proposed amendments, coordinated with the Housing Continuum Committee, and
+participated in community meetings.
+The S2HC Project, including outlines of the proposed code amendments, were presented through
+video conferencing during the following community meetings:
+• May 28, 2020, The Build Small Coalition, advisory to Metro.
+• June 25, 2020, Portland Forum on Alternative Shelters & Villages, sponsored by the Northeast
+Coalition of Neighborhoods and the Interfaith Alliance on Poverty.
+• July 15, 2020, Portland Neighbors Welcome; Monthly Meeting.
+• July 20, 2020, Southeast Uplift, Land Use Committee Meeting.
+• September 8, Central Eastside Industrial Council, Land Use Committee Meeting.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+• September 17, 2020, the Development Review Advisory Committee, advisory to the Portland
+Bureau of Development Services.
+
+The S2HC Project was the main agenda item in five of these meetings, and the proposals
+contained within the discussion draft of this report benefited greatly from the comments and
+suggestions received.
+Project Activities between the Discussion Draft and Proposed Draft. The S2HC Project, including
+the Discussion Draft version of the code amendments, were presented or discussed through video
+conferencing during the following meetings:
+• October 13, 2020, Bureau of Planning and Sustainability hosted Community Forum moderated
+by A Home for Everyone.
+• October 14, 2020, Portland Forum on Alternative Shelters & Villages, sponsored by the
+Northeast Coalition of Neighborhoods and the Interfaith Alliance on Poverty.
+• October 22, 2020, Bureau of Planning and Sustainability hosted Community Forum.
+• October 27, 2020, Bureau of Planning and Sustainability hosted Community Forum.
+• November 10, 2020, Planning and Sustainability Commission Briefing.
+• November 17, 2020, Southwest Neighbors Incorporated, Land Use Committee Meeting.
+
+The S2HC Project was the sole agenda item for four of these six meetings. Valuable input from
+persons with lived shelter experience was received during the October 13th and 14th meetings.
+About ninety people attended the Community Forums. Message transcripts from the forums were
+saved, read, and those messages that addressed the project purpose were compiled by topic and
+considered while formulating the Proposed Draft.
+Eighteen Map App Comments and thirteen email comments were received on the Discussion
+Draft. Again, all these comments were read, compiled by topic and considered while formulating
+the Proposed Draft.
+Response to Discussion Draft Comments. As a result of comments received in writing and during
+the outreach, the Proposed Draft amended some of the shelter regulations to increase the
+number of beds/individual shelters allowed without a conditional use review, and also adjusted
+some of the Conditional Use approval criteria. A new provision was added to allow an occupied
+recreational vehicle on the site of a house, attached house or manufactured home.
+Proposed Draft and Planning and Sustainability Commission (PSC) Hearing. In response to
+concerns about the speed of the proposal and comment period, staff set up two Planning and
+Sustainability Hearings in December to provide additional opportunities for formal review and
+comments. The two hearings were on December 8 and December 15, 2020. This provided more
+opportunity for video testimony signups as well as allocated some additional time for written
+testimony to be submitted through the Map App. The deadline for written testimony was
+extended to December 21, 2020.
+A total of 28 people spoke in person at the two hearings (12 on 12/8 and 16 on 12/15). In
+addition, there were 178 pieces of individual written testimony submitted through the Map App
+between November 30 and December 21, although a few pieces of testimony were duplicates and
+some testifiers submitted more than one piece of testimony.
+The testimony, both verbal and written, illuminated several common themes. On one hand, there
+was interest in expanding the places where various shelters could locate as well as an interest in
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+allowing a greater number of beds or individual tents/shelters within each location by right,
+reducing the situations where a shelter would require a conditional use review. On the other
+hand, there was considerable testimony expressing concern about potential considerations to
+allow permanent shelters within parks and open space areas. In addition, several testifiers were
+concerned with the current state of enforcement as it relates to the informal, unsanctioned
+campsites established in public spaces and the lack of solutions to enable existing enforcement of
+city regulations. Many commenters were concerned about potential geographic allocations of the
+new regulations which could create geographic concentrations of shelters in one area versus
+another. Some testifiers focused on the specific amendments that addressed the occupancy of
+recreational vehicles or tiny houses on wheels.
+This testimony helped inform Planning and Sustainability Commission’s (PSC) discussion in work
+sessions held on January 12 and 26, 2021. During these work sessions, the PSC discussed the
+following:
+• Number of shelter beds or individual tents/shelter allowed. The PSC amended the Proposed
+Draft to increase these numbers.
+• Operational requirements for outdoor shelters. No changes were made by the PSC.
+• A consideration to allow permanent shelters within Open Space (OS) zones. The PSC did not
+recommend this, so permanent shelters would continue to be prohibited in OS zones.
+• Provisions for temporary shelters. PSC considered potential limitations but did not make any
+changes.
+• Group Living use triggers. PSC discussed and recommended to increase the threshold
+distinguishing Household Living from Group Living from 6 up to 8 bedrooms in a dwelling unit.
+• Tiny Houses on Wheels and Recreational Vehicles on a lot. PSC considered several ideas but
+maintained one occupied recreational vehicle on a lot. City staff also made several changes to
+the Title 29 amendments as a result of the testimony and PSC discussion (see below).
+• Visitability Standards. At the request of BDS (Bureau of Development Services), PSC added
+standards addressing visitability that were initially proposed with the Residential Infill Project.
+These standards replace references to the building code that were expected to be difficult to
+implement.
+
+The PSC has formal authority to make recommendations related to Title 33 only, and not
+amendments to other City titles. The standing inter-agency Housing Continuum Committee also
+met in January and February to consider testimony and make revisions to elements of the project
+involving other parts of the City Code (Titles 8, 15, 17, 21, 29 and 30). As a result of the testimony
+the Committee recommended several changes, which have been incorporated into Volume 3.
+• Scaled-back changes to Title 15 to leave the housing emergency authorization intact.
+• Additional changes in Title 17 and 21 to implement System Development Charge (SDC)
+exemptions for outdoor shelters and for the recreational vehicle utility hookups.
+• Changes to Title 29 to simplify the number of requirements applicable to occupied
+recreational vehicles.
+• Changes to Title 30 to align shelter definitions and implement SDC exemptions.
+
+Recommended Draft and City Council Hearing. The Recommended Draft was published on
+February 17 in advance of the City Council hearing. The City Council scheduled a public hearing for
+March 17, 2021. A notice of public hearing was mailed on February 24, 2021 to parties who
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+participated in the Planning and Sustainability Commission hearings, to neighborhood
+associations, and to others who has requested notification of all legislative land use actions.
+BPS staff attended several stakeholder meetings during the period prior to the Council hearing,
+including:
+• February 17, 2021, East Portland Land Use and Transportation Chairs
+• February 23, 2021, Lents Neighborhood Association
+• February 24, 2021, East Portland Action Plan general meeting
+In light of the COVID-19 outbreak, as well as following directives outlined in Governor Brown’s
+Executive Order no. 20 – 16, the PSC and Council hearings were held virtually, allowing the public
+to testify using a telephone, mobile device, or computer. The hearings were also streamed on
+YouTube and televised. This ensured public participation in the decision making in a safe manner
+during the COVID-19 outbreak.
+Over 100 people testified on March 17, and over 2,500 written comments were received. The
+majority of testimony was about Open Space zones, and a concern about using parks and natural
+areas as a location for outdoor shelters. As a result of written and verbal testimony received, on
+March 31, 2021, the Council adopted several changes to the amendments, including:
+• Prohibit temporary shelter in natural area overlays in all zones.
+• Prohibit temporary outdoor shelters in the OS zone.
+• Make technical change to list of natural area overlays.
+• Reword Outdoor shelter definition for clarity.
+• Reduce site size standard for outdoor shelters to 3,000 sq. ft.
+• Delete recommended amendments to 17.44.B
+• Clarify allowed building mass (FAR) for congregate structures in single dwelling zones.
+• Clarify outdoor area requirements for congregate structures.
+• Clarify parking requirements for congregate structures.
+• Clarify short term rental occupancy due to removal of household definition.
+In addition, the Council directed City bureaus to examine surplus City property for suitability for
+transitional shelter accommodations and affordable housing.
+On March 31 the Council also re-opened the comment period, extended the comment period an
+additional 2 weeks and scheduled a second hearing on April 14 to consider two topics that they
+felt had received insufficient attention in the initial hearing: the role of faith-based institutions in
+serving the homeless, and the RV/tiny house on wheels aspect of the project. On April 14 the
+Council heard testimony from several dozen tiny house advocates, and from faith communities
+interested in providing shelter services. The Council closed the written comment period on April
+14..
+On April 28 the Council met again to receive revised ordinance language, findings, and revised
+exhibits consistent with the adopted amendments.
+Council heard testimony from at least one participant who felt there was not a meaningful
+opportunity to participate. Another participant expressed concern that not every amendment
+suggested in testimony received a specific up or down vote by Council. Council finds that the
+evidence shows the City followed its involvement procedures which provided multiple notices and
+opportunities to provide comments on the plan through oral and written testimony. Meaningful
+participation does not require that staff, the PSC or Council agree with and incorporate all input; it
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+simply means that participants have the opportunity to be heard throughout the process. The
+testimony demonstrates that participants were able to present their positions at all stages in the
+legislative process. There is also evidence that the Council did make several significant
+amendments in response to public testimony – notably the change to remove Open Space zones
+and natural area overlays from some temporary shelter allowances, and adding an allowance for
+institutional uses in Single Dwelling zones to host shelters. Therefore, the Council finds that the
+S2HC amendments have been prepared in a manner consistent with Goals 2.A though 2.G. These
+goals have been met because the project staff partnered with community organizations, involved
+underrepresented communities, transparently publicized project work, and made changes in
+response to community input.
+Partners in decision making
+Policy 2.1. Partnerships and coordination. Maintain partnerships and coordinate land use
+engagement with:
+2.1.a Individual community members.
+2.1.b Communities of color, low-income populations, Limited English Proficient (LEP)
+communities, Native American communities, and other under-served and under-represented
+communities.
+2.1.c District coalitions, neighborhood associations, and business district associations as local
+experts and communication channels for place-based projects.
+2.1.d Businesses, unions, employees, and related organizations that reflect Portland’s diversity as
+the center of regional economic and cultural activity.
+2.1.e Community-based, faith-based, artistic and cultural, and interest-based non-profits,
+organizations, and groups.
+2.1.f Institutions, governments, and Sovereign tribes.
+64. Finding: This policy directs the City to maintain partnerships and coordinate community
+engagement on a programmatic level and is not specific to a particular legislative project.
+Therefore, this policy is not applicable. Nevertheless, these partnerships were engaged and
+maintained throughout this process. Staff conducted on-going communication and responded to
+requests for additional information from neighborhood associations, coalitions, community-based
+organizations, under-represented communities as well as individuals among others.
+Policy 2.2. Broaden partnerships. Work with district coalitions, neighborhood associations, and
+business district associations to increase participation and to help them reflect the diversity of the
+people and institutions they serve. Facilitate greater communication and collaboration among district
+coalitions, neighborhood associations, business district associations, culturally-specific organizations,
+and community-based organizations.
+65. Finding: This policy directs the City to work with coalitions and associations to increase
+participation and improve communication on a programmatic level and is not specific to a
+particular legislative project. Therefore, this policy is not applicable. However, as evidenced by the
+range of involvement from comments and testimony received, the City was engaged with a
+breadth of partners to increase participation from these organizations and better reflect the
+diversity of the people served by them.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Environmental justice
+Policy 2.3. Extend benefits. Ensure plans and investments promote environmental justice by
+extending the community benefits associated with environmental assets, land use, and public
+investments to communities of color, low-income populations, and other under-served or under-
+represented groups impacted by the decision. Maximize economic, cultural, political, and
+environmental benefits through ongoing partnerships.
+Policy 2.4. Eliminate burdens. Ensure plans and investments eliminate associated disproportionate
+burdens (e.g., adverse environmental, economic, or community impacts) for communities of color,
+low-income populations, and other under-served or under-represented groups impacted by the
+decision.
+2.4.a, Minimize or mitigate disproportionate burdens in cases where they cannot be eliminated.
+2.4.b, Use plans and investments to address disproportionate burdens of previous decisions.
+66. Finding: For policies 2.3 and 2.4, the 2035 Comprehensive Plan defines “ensure” to mean “to
+make sure that something will happen or be available”. Council interprets these policies to mean
+that plans and investments each contribute to the extension of community benefits, and
+elimination of disproportionate burdens, over the duration of the planning period.
+One theme that emerged in public comments relates to a concern about the geographic
+distribution of homeless shelters. The current zoning code allows shelters to be sited in
+commercial zones by right, without a conditional use review, up to a certain number of beds. The
+S2HC project expands the number of beds allowed by right in commercial zones and expands this
+allowance to multi-dwelling zones. For example, in the low-density multi-dwelling zones (RM1,
+RM2, and RMP) up to 15 beds are currently allowed if on the site of an institutional use;
+otherwise, the facility requires a conditional use. Under the recommended code up to 30 beds
+would be allowed on any site by-right without a conditional use. A number of residents of Outer
+East Portland testified that this will lead to an inequitable distribution of shelter because there is a
+greater amount of commercial and multi-dwelling zoned land in Outer East Portland than other
+quadrants of the City. Some of this testimony revolved around land supply maps and data
+prepared by staff for the PSC (see January 12 and 26 PSC discussion).
+Commercial and multi-dwelling zoning is found in almost every neighborhood as evidenced by
+maps of zoning shown in presentations to City Council. The amount of commercial and residential
+land is not precisely balanced across the quadrants of the City, for several reasons.
+• The City’s Comprehensive Plan is based on a nodal “centers and corridors” growth strategy
+with an emphasis on growing in certain higher density centers, and along transit corridors.
+While the City has mapped centers and corridors in all quadrants of the City, the high capacity
+transit network is not yet complete, and not all designated centers have been fully
+implemented on the zoning map.
+• The different quadrants have different levels of capacity for growth after considering various
+natural hazards and goal-protected lands. Natural resource constrained lands are
+concentrated in outer SW and SE Portland, and in the Columbia Corridor.
+• The City has carried out neighborhood and area planning in cycles, touching different
+quadrants at different times. As those local area plans have been adopted over time, more
+multi-dwelling zoning has been implemented in those areas. In particular, a comprehensive re-
+evaluation of the zoning map in Inner SE Portland was never completed, while Outer SE was
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+the subject of a “Quadrant Plan” in the 1990’s. As a result, Inner SE has less multi-dwelling
+zoning than other quadrants. Similarly, a planning process to add more multi-dwelling zoning
+to SW Portland is in progress now in tandem with the region’s consideration of the SW
+Corridor light rail, but that plan is not yet adopted.
+The City Council acknowledges that there is more work to do to create a more equitable
+distribution of growth-related benefits and burdens through the zoning map. The Council also
+understands why this might be considered an environmental justice issue – because Outer East
+Portland does have more diverse demographics. Roughly one third of Outer East Portland
+residents are people of color compared with 26% of SW Portland residents.
+The PSC and Council considered this concern but concluded that the existing zoning pattern will
+not create an inequitable distribution of shelters. Several arguments were compelling:
+• Marc Jolin, the Director of the Joint City/County Office of Homeless Services discussed this at
+the PSC and made the point that “We have limited resources for shelters. We are only ever
+going to be opening a few shelters. And so those criteria are going to mean that we’re not just
+going to the place where the land is cheapest. Because that isn’t going to be where the next
+highest level of need is… The things that drive us to determine where to put shelter are about
+the people that are going to be served in those shelters… Again, the criteria for that are about
+where is there is an unmet need, what’s the best location given the need for access to
+services, to community amenities, and connection to community for the participants”. (PSC
+work session recording for 1/26/2021 at 1:09:30)
+• A map of documented unsanctioned camping sites presented to Council shows that the
+homelessness crisis is impacting all quadrants of the City. The need is clearly not limited to
+Outer East Portland.
+• In recent years new shelters have been opened in many different areas of the City, during a
+state of emergency when Zoning regulations had been waived. Examples include the
+Willamette Center on SE Milwaukie, the Kenton Woman’s Village and the St. Johns Village in
+North Portland, the River District Navigation Center in the Pearl District/NW Portland, the
+Laurelwood Center at SE Foster/Holgate, and the Walnut Park Shelter in NE Portland. In 2015
+most shelters were clustered Downtown or in the Central Eastside. A map presented to the
+PSC in the staff presentation shows that this had changed significantly by 2020. The greater
+flexibility afforded to JOHS and other shelter providers has in practice allowed facilities to be
+spread out more broadly across the City.
+The Council also amended the S2HC plan to include an allowance for institutional uses in single
+dwelling zoned to host small shelters (up to 20 beds). This amendment impacts approximately
+1,300 sites citywide, and further expands the number of eligible sites in neighborhoods where
+there is not as much multi-dwelling or commercial zoning. This further mitigates concerns related
+to the distribution of commercial and multi-dwelling zoning.
+For the reasons above, the S2HC amendments are consistent with policies 2.3 and 2.4.
+
+Invest in education and training
+Policy 2.5. Community capacity building. Enhance the ability of community members, particularly
+those in under-served and/or under-represented groups, to develop the relationships, knowledge, and
+skills to effectively participate in plan and investment processes.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 2.6. Land use literacy. Provide training and educational opportunities to build the public’s
+understanding of land use, transportation, housing, and related topics, and increase capacity for
+meaningful participation in planning and investment processes.
+Policy 2.7. Agency capacity building. Increase City staff’s capacity, tools, and skills to design and
+implement processes that engage a broad diversity of affected and interested communities, including
+under-served and under-represented communities, in meaningful and appropriate ways.
+67. Finding: These policies concern broad approaches to educating community members and City
+staff about planning processes and are not applicable to this project given the project scope. As
+noted in findings 2.1 and 2.2, the S2HC project engaged partnerships through on-going
+communication and provided additional information in meaningful and culturally appropriate
+ways to better enable these community partners to convey important project information and
+engage their members. Therefore, the S2HC amendments are consistent with these policies.
+Community assessment
+Policy 2.8. Channels of communication. Maintain channels of communication among City Council, the
+Planning and Sustainability Commission (PSC), project advisory committees, City staff, and community
+members.
+68. Finding: The City Council interprets this policy to create the opportunity for the community and
+advisory committees to have opportunities to communicate their issues and concerns to the PSC
+and City Council outside of the formal legislative process. These changes are a legislative process
+with formal opportunities to testify to communicate directly with City Council. Therefore, this
+policy does not apply.
+Policy 2.9. Community analysis. Collect and evaluate data, including community-validated population
+data and information, to understand the needs, priorities, and trends and historical context affecting
+different communities in Portland.
+Policy 2.10. Community participation in data collection. Provide meaningful opportunities for
+individuals and communities to be involved in inventories, mapping, data analysis, and the
+development of alternatives.
+Policy 2.11, Open data. Ensure planning and investment decisions are a collaboration among
+stakeholders, including those listed in Policy 2.1. Where appropriate, encourage publication,
+accessibility, and wide-spread sharing of data collected and generated by the City.
+69. Finding: Policies 2.9 through 2.11 concern how the City collects and makes available data that
+supports land use decisions. In this case, the City used an on-line “Map App” database to receive,
+organize and respond to public testimony on the S2HC project. The database was viewable to the
+public, as well as the PSC and staff, through a web browser. The Proposed Draft also provided
+maps and data depicting how and where the three types of shelters (outdoor, mass, temporary)
+would be allowed within the city. This included calculations of vacant lots subject to the shelter
+allowances. Therefore, the S2HC amendments are consistent with these policies.
+Transparency and accountability
+Policy 2.12. Roles and responsibilities. Establish clear roles, rights, and responsibilities for participants
+and decision makers in planning and investment processes. Address roles of City bureaus, elected
+officials, and participants, including community and neighborhood leadership, business, organizations,
+and individuals.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 2.13. Project scope. Establish clear expectations about land use project sponsorship, purpose,
+design, and how decision makers will use the process results.
+Policy 2.14. Community influence. At each stage of the process, identify which elements of a planning
+and investment process can be influenced or changed through community involvement. Clarify the
+extent to which those elements can be influenced or changed.
+Policy 2.15. Documentation and feedback. Provide clear documentation for the rationale supporting
+decisions in planning and investment processes. Communicate to participants about the issues raised
+in the community involvement process, how public input affected outcomes, and the rationale used to
+make decisions.
+70. Finding: As described in the findings above, the legislative process was clearly outlined in notices,
+documents and on the project website, including how to testify to influence the Proposed Draft at
+the PSC and City Council. Both of which made minor amendments to the proposal. The
+Recommended Draft was published with information about how to testify.
+Throughout this process, BPS staff contacted, met with, and coordinated with various
+stakeholders to inform them how to engage in the decision-making process, how the process was
+structured, and additional opportunities to participate when such opportunities existed.
+During the review phases of the project, BPS staff presented at various community meetings to
+inform people of the proposed amendments. All meetings and events were open to the public and
+included opportunities for public comment.
+Volume 1 of the Recommended Draft includes a summary of how the project evolved in response
+to public comments. Therefore, the S2HC amendments are consistent with these policies.
+Community involvement program
+Policy 2.16. Community Involvement Program. Maintain a Community Involvement Program that
+supports community involvement as an integral and meaningful part of the planning and investment
+decision-making process.
+Policy 2.17. Community engagement manual. Create, maintain, and actively implement a community
+engagement manual that details how to conduct community involvement for planning and investment
+projects and decisions.
+Policy 2.18. Best practices engagement methods. Utilize community engagement methods, tools, and
+technologies that are recognized as best practices.
+Policy 2.19. Community Involvement Committee. The Community Involvement Committee (CIC), an
+independent advisory body, will evaluate and provide feedback to City staff on community
+involvement processes for individual planning and associated investment projects, before, during, and
+at the conclusion of these processes.
+Policy 2.20. Review bodies. Maintain review bodies, such as the Planning and Sustainability
+Commission (PSC), Design Commission, Historic Landmarks Commission, and Adjustment Committee,
+to provide an opportunity for community involvement and provide leadership and expertise for
+specialized topic areas.
+Policy 2.21. Program evaluation. Periodically evaluate the effectiveness of the Community
+Involvement Program and recommend and advocate for program and policy improvements. The
+Community Involvement Committee (CIC) will advise City staff regarding this evaluation.
+Policy 2.22. Shared engagement methods. Coordinate and share methods, tools, and technologies
+that lead to successful engagement practices with both government and community partners and
+solicit engagement methods from the community.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 2.23. Adequate funding and human resources. Provide a level of funding and human resources
+allocated to the Community Involvement Program sufficient to make community involvement an
+integral part of the planning, policy, investment and development process.
+71. Finding: Policies 2.16 through 2.23 concern the City’s Community Involvement Program and are
+not applicable because the S2HC amendments do not change this program.
+Some testimony was received expressing concern that the S2HC would reduce public involvement
+opportunities related to shelter siting, because fewer projects will require conditional use review.
+Council considered this concern but concluded that these concerns are not relevant to policies
+2.16 – 2.23 because these policies require that the City maintain a public involvement program
+(CIP) and this project does not impact the City’s CIP.  The policies do not mandate a particular level
+of involvement for specific uses. In addition, the community will still have opportunities to provide
+input because the Joint City-County Office of Homeless Services carries out community
+engagement beyond what Zoning requires. According to communications dated 2/23/21 between
+staff and JOHS representatives:
+• When JOHS plans for a new shelter site, they create an online and paper FAQ for the
+community and mail out a postcard with information to neighbors in a half-mile around the
+site. They meet with neighborhood groups to answer questions.
+• JOHS and its chosen shelter operator also work with community members, if they desire, to
+create a good neighbor agreement or similar MOU that lays out how shelter guests, the JOHS
+and shelter operators will work with immediate neighbors and neighborhood groups to
+communicate about the shelter as it operates and to support its success. That also means
+working with and activating neighbors who want to volunteer and organize more formally to
+support a shelter.
+• And after a shelter opens, the shelter operator is expected to routinely attend neighborhood
+meetings and be available to, and a part of, the community where their shelter sits. JOHS is
+also available to troubleshoot any problem or concern if an operator somehow wasn't
+responsive.
+For the reasons stated above, to the extent that policies 2.16 to 2.23 could be read to apply,
+Council finds that they are met.
+Process design and evaluation
+Policy 2.24. Representation. Facilitate participation of a cross-section of the full diversity of affected
+Portlanders during planning and investment processes. This diversity includes individuals,
+stakeholders, and communities represented by race, color, national origin, English proficiency, gender,
+age, disability, religion, sexual orientation, gender identity, and source of income.
+Policy 2.25. Early involvement. Improve opportunities for interested and affected community
+members to participate early in planning and investment processes, including identifying and
+prioritizing issues, needs, and opportunities; participating in process design; and recommending and
+prioritizing projects and/or other types of implementation.
+Policy 2.26. Verifying data. Use data, including community-validated population data, to guide
+planning and investment processes and priority setting and to shape community involvement and
+decision-making efforts.
+Policy 2.27. Demographics. Identify the demographics of potentially affected communities when
+initiating a planning or investment project.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 2.28. Historical understanding. To better understand concerns and conditions when initiating a
+project, research the history, culture, past plans, and other needs of the affected community,
+particularly under-represented and under-served groups, and persons with limited English proficiency
+(LEP). Review preliminary findings with members of the community who have institutional and
+historical knowledge.
+Policy 2.29. Project-specific needs. Customize community involvement processes to meet the needs
+of those potentially affected by the planning or investment project. Use community involvement
+techniques that fit the scope, character, and potential impact of the planning or investment decision
+under consideration.
+Policy 2.30. Culturally-appropriate processes. Consult with communities to design culturally-
+appropriate processes to meet the needs of those affected by a planning or investment project.
+Evaluate, use, and document creative and culturally-appropriate methods, tools, technologies, and
+spaces to inform and engage people from under-served and under-represented groups about planning
+or investment projects.
+Policy 2.31. Innovative engagement methods. Develop and document innovative methods, tools, and
+technologies for community involvement processes for plan and investment projects.
+Policy 2.32. Inclusive participation beyond Portland residents. Design public processes for planning
+and investment projects to engage affected and interested people who may not live in Portland such
+as property owners, employees, employers, and students, among others, as practicable.
+Policy 2.33. Inclusive participation in Central City planning. Design public processes for the Central
+City that recognize its unique role as the region’s center. Engage a wide range of stakeholders from
+the Central City and throughout the region including employees, employers, social service providers,
+students, and visitors, as well as regional tourism, institutional, recreation, transportation, and
+local/regional government representatives, as appropriate.
+Policy 2.34. Accessibility. Ensure that community involvement processes for planning and investment
+projects are broadly accessible in terms of location, time, and language, and that they support the
+engagement of individuals with a variety of abilities and limitations on participation.
+Policy 2.35. Participation monitoring. Evaluate and document participant demographics throughout
+planning and investment processes to assess whether participation reflects the demographics of
+affected communities. Adapt involvement practices and activities accordingly to increase effectiveness
+at reaching targeted audiences.
+Policy 2.36. Adaptability. Adapt community involvement processes for planning and investment
+projects as appropriate to flexibly respond to changes in the scope and priority of the issues, needs,
+and other factors that may affect the process.
+Policy 2.37. Process evaluation. Evaluate each community involvement process for planning or
+investment projects from both the City staff and participants’ perspectives, and consider feedback and
+lessons learned to enhance future involvement efforts.
+72. Finding: Policies 2.24 through 2.37 concern how the community involvement program is designed
+and developed to support planning and investment projects. The community involvement process
+supporting the S2HC amendments engaged a broad range of stakeholders, including but not
+limited to people with lived shelter experience, shelter providers, and those involved in the
+development of housing as described in the findings addressing Comprehensive Plan Goals 2.A
+though 2.G. Therefore, the S2HC amendments are consistent with these policies.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Information design and development
+Policy 2.38. Accommodation. Ensure accommodations to let individuals with disabilities participate in
+administrative, quasi-judicial, and legislative land use decisions, consistent with federal regulations.
+Policy 2.39. Notification. Notify affected and interested community members and recognized
+organizations about administrative, quasi-judicial, and legislative land use decisions with enough lead
+time to enable effective participation. Consider notification to both property owners and renters.
+Policy 2.40. Tools for effective participation. Provide clear and easy access to information about
+administrative, quasi-judicial, and legislative land use decisions in multiple formats and through
+technological advancements and other ways.
+Policy 2.41. Limited English Proficiency (LEP). Ensure that limited English proficient (LEP) individuals
+are provided meaningful access to information about administrative, quasi-judicial, and legislative
+land use decisions, consistent with federal regulations.
+73. Finding: Consistent with Policies 2.38 – 2.41 and BPS community involvement practices, meetings,
+community forum events, and all public meetings, described in more detail in the findings above,
+were noticed, and information was provided online. All meetings were held through video
+conferencing in response to health advisories for the COVID-19 pandemic. Information about
+accommodation and translation was provided on all notices. The City also sent a legislative notice
+on October 30, 2020 of the December 2020 PSC hearings to interested parties, including
+neighborhood associations, business associations, and other affected jurisdictions, that have
+requested notice of proposed land use changes. The City sent a legislative notice on February 24,
+2021 to interested parties, and others that participated in the PSC hearings to inform them of the
+opportunity to testify at the March 17, 2021 Council public hearing. Therefore, the S2HC
+amendments are consistent with these policies.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Chapter 3: Urban Form
+GOAL 3.A: A city designed for people. Portland’s built environment is designed to serve the needs and
+aspirations of all Portlanders, promoting prosperity, health, equity, and resiliency. New development,
+redevelopment, and public investments reduce disparities and encourage social interaction to create a
+healthy connected city.
+74. Finding: City Council interprets this goal as calling for a built environment that supports the ability
+of Portlanders to meet their needs, including but not limited to needs for housing, employment,
+commercial and community services, education, and access to recreation and open space – as a
+basis for how the City of Portland will guide the future of the built environment. This goal
+identifies a number of important outcomes that this goal is intended to promote, including
+prosperity (which the Comprehensive Plan defines as including the prosperity of both households
+and businesses), health, equity (which the Comprehensive Plan defines to be when everyone has
+access to the opportunities necessary to satisfy their essential needs, advance their well-being,
+and achieve their full potential), and resilience (which the Comprehensive Plan defines as the
+capability to anticipate, prepare for, respond to, and recover from significant multi-hazard threats
+with minimum damage to social well-being, the economy, and the environment). This goal also
+calls for the City to be involved in fostering development and public investments that reduce
+disparities, which the City Council interprets to mean reducing disparities among Portlanders and
+Portland communities in access to resources that are essential for achieving equity, such as
+household income and access to housing, quality education, and services. A desired outcome of
+this goal is therefore to create a healthy connected city in which Portlanders can meet their needs
+for housing, employment, services, transportation, social connections, and have access to
+recreation and nature.
+The S2HC amendments are consistent with this goal in that they will help reduce disparities in
+access to housing by liberalizing the allowances for Group Living. Group Living buildings can be
+more affordable than traditional houses or apartments because they have fewer kitchens per
+bedroom, and kitchens are often the most expensive rooms to build (HUD User, “Considering SRO
+Housing in New York City and Beyond”, 6/25/2018; Towards a Smaller Housing Paradigm: A
+Literature Review of Accessory Dwelling Units and Micro Apartments by Thomas Geffner, Portland
+State University 2018; Urban land Institute, “The Macro View of Micro Units”, 2014). The S2HC
+amendments also help reduce disparities by providing more opportunities for safe and decent
+shelter in more locations in the city. These zoning amendments help serve the needs of all
+Portlanders, with a particular focus on the most vulnerable members of our community—those
+without housing and with the lowest incomes.
+The increased access to housing and shelter provided by the S2HC amendments also contributes
+to the health, prosperity, and equity components of this goal, as housing/shelter is essential for
+individuals to remain healthy, access jobs and services, and for children to have stable access to
+education.
+The S2HC amendments are also consistent with the social interactions component of this goal
+because the Group Living arrangements that are liberalized by the amendments foster and
+promote social interaction by providing for shared housing accommodations with shared cooking
+facilities. Allowing a broader range of housing options in existing neighborhoods will also
+strengthen social connections by allowing more Portlanders to afford to live in the neighborhoods
+where their social networks exist. Further, allowing greater access to shelters promotes social
+connections among those seeking shelter and promotes greater access to supportive services.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+The S2HC amendments also contribute to the access to transportation that healthy connected
+neighborhoods provide by allowing more flexibility for housing to locate in areas close to transit.
+The amendments also allow more shelter beds, and the addition of outdoor shelters, in multi-
+dwelling and commercial zones, which are typically well-served by transit. Therefore, the S2HC
+amendments are consistent with this goal.
+GOAL 3.B: A climate and hazard resilient urban form. Portland’s compact urban form, sustainable
+building development practices, green infrastructure, and active transportation system reduce carbon
+emissions, reduce natural hazard risks and impacts, and improve resilience to the effects of climate
+change.
+GOAL 3.C: Focused growth. Household and employment growth is focused in the Central City and
+other centers, corridors, and transit station areas, creating compact urban development in areas with
+a high level of service and amenities, while allowing the relative stability of lower-density single-family
+residential areas.
+GOAL 3.D: A system of centers and corridors. Portland’s interconnected system of centers and
+corridors provides diverse housing options and employment opportunities, robust multimodal
+transportation connections, access to local services and amenities, and supports low-carbon complete,
+healthy, and equitable communities.
+GOAL 3.E: Connected public realm and open spaces. A network of parks, streets, City Greenways, and
+other public spaces supports community interaction; connects neighborhoods, districts, and
+destinations; and improves air, water, land quality, and environmental health.
+GOAL 3.F: Employment districts. Portland supports job growth in a variety of employment districts to
+maintain a diverse economy.
+GOAL 3.G: Nature in the city. A system of habitat corridors weaves nature into the city, enhances
+habitat connectivity, and preserves natural resources and the ecosystem services they provide.
+75. Finding: Goals 3.B through 3.G address the large-scale form of the city, and the spatial layout of
+the city as a whole. The S2HC code amendments make citywide changes to regulations that
+impact homeless shelters and the types of housing that is allowed. While these amendments
+apply citywide, the impact is relatively fine-grained and will not impact the large-scale spatial
+layout of the city. More specific findings are below which demonstrated that the S2HC
+amendments are consistent with these goals.
+Citywide design and development
+Policy 3.1 Urban Design Framework. Use the Urban Design Framework (UDF) as a guide to create
+inclusive and enduring places, while providing flexibility for implementation at the local scale to meet
+the needs of local communities.
+76. Finding: The UDF provides guidance on the built and natural form of Portland, providing in
+Comprehensive Plan Figure 3-1 a diagrammatic arrangement of centers, corridors, city greenways,
+urban habitat corridors, and pattern areas. S2HC amendments do not establish or change specific
+boundaries in the UDF. The UDF identifies centers and corridors where the majority of commercial
+and housing development is intended to be concentrated. City Council interprets the S2HC
+amendments as being consistent with the UDF and this policy because the amendments do not
+significantly affect implementation of the UDF concepts of growth focused in centers and
+corridors. With the S2HC amendments, Group Living will continue to be permitted outright in
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+commercial and mixed-use zones and will no longer be restricted to 15 residents without
+conditional use review in multi-dwelling zones; these zones are generally coincident with the
+UDF’s centers and corridors. While the amendments do provide additional flexibility for Group
+Living in single-dwelling zones, Group Living would be limited to a maximum of 3,500 square feet
+(in addition to other base zone limitations), which is consistent with the limits for Household
+Living in these zones. Larger Group Living structures would continue to require conditional use
+review. Except for permanent shelters with 20 beds or fewer the site of an existing institutional
+use, which would be allowed outright, permanent shelters would continue to require conditional
+use review in single-dwelling zones, and the primary change in other zones is to allow additional
+shelter beds outright and to permit outdoor shelters as a new shelter type. The Temporary
+Activities chapter (33.296) also allows temporary shelters in all zones. However, as temporary
+activities, these shelters cannot make permanent alterations to a site and therefore do not impact
+the UDF. Allowing occupancy of RVs and tiny houses on wheels would not affect development
+patterns, since these changes apply to occupancy of vehicles, not built structures. The remaining
+policies in Chapter 3 provide additional direction on the desired characteristics and functions of
+the places identified in the UDF and are addressed below.
+Policy 3.2. Growth and stability. Direct most growth and change to centers, corridors, and transit
+station areas, allowing the continuation of the scale and characteristics of Portland’s residential
+neighborhoods.
+77. Finding: This policy reflects the Comprehensive Plan preferred growth scenario, which calls for
+roughly 30% of the growth in the Central City, centers and corridors accommodating about 50% of
+new housing units, while the single-dwelling residential areas accounting for the remaining 20% of
+growth. As described in the findings for Policy 3.1, the S2HC amendments do not significantly
+affect the concepts of growth focused in centers and corridors.
+City Council interprets “continuation of the scale and characteristics of Portland’s residential
+neighborhoods” to mean that in comparison to the centers and corridors that will experience high
+amounts of growth and development/redevelopment, single-dwelling zone residential areas
+should remain places with relatively small-scale development and retain characteristics of
+residential neighborhoods, such green street edges created by front yards and gardens. The S2HC
+amendments are consistent with this policy by limiting Group Living in the single-dwelling zones to
+small-scale buildings on relatively small lots, consistent with the low-rise development on
+residential lots that currently predominate in these residential zones. On oversize lots, Group
+Living would be limited to a maximum of 3,500 square feet (in addition to other base zone
+limitations), which is consistent with the limits for Household Living in these zones. Larger Group
+Living structures would require conditional use review.
+Permanent shelters would continue to require conditional use review in single-dwelling zones,
+except on the sites of institutional uses (such as faith-based institutions like churches, mosques,
+synagogues, etc.) and then only in limited amounts (up to 20 beds). The Temporary Activities
+chapter (33.296) also allows temporary shelters in all zones, including residential zones. These
+limited provisions do not create significant change or growth in single dwelling zones or impact
+the scale and characteristics of single dwelling zones, for the following reasons.
+• Shelters operate to provide services to the homeless population. As of the winter of 2019
+there were 4,015 people who met HUD’s definition of homelessness counted in Portland. The
+City’s current shelter system has a capacity to serve about half of that population. Even
+assuming significant growth in the homeless population in 2020 due to COVID and the
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+associated economic impacts, the number of houseless individuals that need to be served is
+orders of magnitude smaller than number of people housed in residential zones (thousands
+compared with hundreds of thousands). The code provision to allow institutional uses to host
+permanent shelters impacts approximately 1,300 sites in single dwelling zones, scattered in all
+neighborhoods. Given the number of people that need to be served, there is no way to
+reasonably conclude that every institution would incorporate this use. Even if all of the eligible
+sites did incorporate a permanent shelter, each would only be serving a few individuals.
+Alternatively, if all of the homeless individuals counted in 2019 were sheltered in temporary
+facilities with 40 beds each, approximately one facility would be needed in each of Portland’s
+95 neighborhoods. Therefore, the scale of the change from this is very limited in relation to
+the overall amount of change that can be expected in single dwelling zones. We note that the
+policy includes the term “most”, indicating that some degree of change is consistent with
+policy.
+• When considering the “characteristics of Portland’s residential neighborhoods” it is useful to
+refer to policies that define the desired character. These include the policies in Chapter 4 of
+this plan. In particular, policies 4.15 through 4.19 address residential areas. They include 4.15 -
+Residential area continuity and adaptability, 4.16 - Scale and patterns, 4.17 - demolitions, 4.18
+– Compact single family options, and 4.19 - Resource efficient and healthy residential design
+and development. Specific findings about that character are made in response to those
+policies. For purposes of this finding we note that the policies emphasize continuity of
+patterns and scale, but also call for choices to accommodate a wider diversity of family sizes,
+incomes, and ages, and the changing needs of households over time. The introduction to that
+section of the plan reads: “Even in relatively stable lower-density residentially-zoned areas,
+there will be development and change. These policies encourage design and development
+that provides continuity with existing development patterns in lower-density residentially-
+zoned areas outside of centers and corridors. They also support these areas’ continuing
+evolution as places that provide additional housing opportunities to meet the diverse needs of
+Portlanders but that will not be places of major change in urban form and scale.” Allowing
+institutional uses to host small shelters and allowing temporary shelters will not have an
+impact on the general scale and pattern of buildings and development because temporary
+uses cannot make permanent changes to the site (33.296.020), and because institutional uses
+already exist in residential neighborhoods and are already part of the existing neighborhood
+pattern and scale. Institutional uses tend to have larger sites (1 acre on average – based on
+the list of such sites compiled by staff), and already provide an occasional interruption of the
+rhythm of residential building arrangements.
+• The existing zoning code allows for other temporary uses such as construction staging, real
+estate sales offices, seasonal outdoor sales of plants and produce, farmers markets on
+institutional sites, and short term fairs and carnivals. While a temporary shelter provides a
+different type of service than these examples, it is it has characteristics that are more
+compatible with residential uses than some other temporary uses (the service it offers is a
+place to sleep on a temporary basis for example during an emergency). It would not have the
+same noise impacts of a construction site, or the traffic impacts of a fair or carnival.
+• Some testimony raised concerns about crime or drug use associated with homeless
+individuals. The Council also heard testimony that homeless shelters provide services that can
+help individuals address these behaviors and providing these services can reduce the impacts
+of homelessness. A Guardian study of two US cities found that crime is likelier to go down
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+than up in neighborhoods that host city sanctioned encampments (Guardian, “No link
+between homeless villages and crime rates”, May 2018). A Washington Post literature review
+similarly found no clear link between shelters and neighborhood decline (Washington Post,
+“D.C. residents fret over shelter plan, citing crime and property values” Terrence McCoy,
+2/27/16). The Council also notes that there are no Zoning Code mechanisms that preclude
+individuals with drug addiction or criminal behavior from residing in residential zones, and
+that these concerns can also be generated by housing that is allowed by right. While some
+testifiers may wish to use zoning to control the character of people in single dwelling areas;
+none of the policies governing residential character address the behavior of people, and there
+are state and federal laws precluding the use of zoning to segregate people.
+• Services to the homeless are institutional uses and such uses, by definition, provide services to
+the people of the city – they are not housing or a means of accommodating additional growth.
+They therefore cannot, by definition, impact how growth is distributed because growth is
+accommodated by permanent housing.
+
+Allowing occupancy of RVs and tiny houses on wheels would not affect the scale or characteristics
+of residential neighborhoods, since the rules simply allow occupancy of vehicles that are already
+allowed in zoning regulations to park in certain locations in single-dwelling zones.  Moreover, the
+primary regulation being amended is in Title 29, and is not a land use regulation. The
+corresponding zoning code amendment is being made to provide technical clarity.
+This policy is met because, as described above, the scale of change enabled by S2HC amendments
+is very small relative to the amount of change that is expected from growth, and because
+continuation of neighborhood “characteristics” is not meant to imply exclusion or segregation.
+Policy 3.3. Equitable development. Guide development, growth, and public facility investment to
+reduce disparities, ensure equitable access to opportunities, and produce positive outcomes for all
+Portlanders.
+3.3.a. Anticipate, avoid, reduce, and mitigate negative public facility and development impacts,
+especially where those impacts inequitably burden communities of color, under-served and
+under-represented communities, and other vulnerable populations.
+78. Finding: The Comprehensive Plan defines ‘public facility’ as “Any facility, including buildings,
+property, and capital assets, that is owned, leased, or otherwise operated, or funded by a
+governmental body or public entity. Examples of public facilities include sewage treatment and
+collection facilities, stormwater and flood management facilities, water supply and distribution
+facilities, streets, and other transportation assets, parks, and public buildings.” City Council
+interprets this policy as calling for the City to identify and mitigate potential impacts, including
+displacement risks, associated with major public facility improvements (such as the citing of a
+waste treatment facility, roadway interchange or other major capital asset, as well as local
+improvement districts where numbers of properties would be simultaneously affected both by
+assessments as well as physical changes to the condition of area infrastructure). While specific
+development may be required to improve the condition of infrastructure to support the proposed
+development, Council does not find that public facilities that are required in association with a
+specific site development (such as street frontage improvements or upsizing infrastructure to
+meet the demands of the specific development) will have negative impacts to surrounding
+properties or residents. S2HC does not include or require new major public facilities.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+The policy similarly calls for such identification and mitigation of potential impacts from changes
+to development allowances provided by the zoning code. As described in detail in the findings
+addressing Comprehensive Plan Policies 2.3 and 2.4, The City Council acknowledges that there is
+more work to do to ensure a more equitable distribution of growth-related benefits and burdens
+through the zoning map. The PSC and Council considered this concern but concluded that the
+existing zoning pattern will not create an inequitable distribution of shelters. However, the S2HC
+improves the current distribution of benefits and burdens because if allows shelters and group
+living outright in more areas of the City. The amendment to allow institutions to host small
+shelters allows a larger number of neighborhood institutions in West Portland to offer services.
+Therefore, the S2HC amendments are consistent with this policy.
+3.3.b. Make needed investments in areas that are deficient in public facilities to reduce
+disparities and increase equity. Accompany these investments with proactive measures to avoid
+displacement and increase affordable housing.
+79. Finding: Major investments in deficient public facility areas are outlined in the list of Significant
+Projects in the CSP. The S2HC amendments affect Zoning Code regulations and do not include
+specific investments. Therefore, this policy in not applicable.
+3.3.c. Encourage use of community benefit agreements to ensure equitable outcomes from
+development projects that benefit from public facility investments, increased development
+allowances, or public financial assistance. Consider community benefit agreements as a tool to
+mitigate displacement and housing affordability impacts.
+3.3d. Incorporate requirements into the Zoning Code to provide public and community benefits
+as a condition of development projects to receive increased development allowances.
+3.3.e. When private property value is increased by public plans and investments, require
+development to address or mitigate displacement impacts and impacts on housing affordability,
+in ways that are related and roughly proportional to these impacts.
+3.3.f. Coordinate housing, economic development, and public facility plans and investments to
+create an integrated community development approach to restore communities impacted by
+past decisions.
+3.3.g. Encourage developers to engage directly with a broad range of impacted communities to
+identify potential impacts to private development projects, develop mitigation measures, and
+provide community benefits to address adverse impacts.
+80. Finding: The S2HC amendments do not impact the City’s ability to use community benefit
+agreements or to encourage developers to engage directly with impacted communities. The S2HC
+amendments create community benefits by streamlining the processes for some Group Living and
+community service uses that currently require conditional use approval. Thus, increasing access to
+housing and shelter which is essential for individuals to remain healthy, access jobs and services,
+and for children to have stable access to education. Therefore, the S2HC amendments are
+consistent with these policies.
+Policy 3.4. All ages and abilities. Strive for a built environment that provides a safe, healthful, and
+attractive environment for people of all ages and abilities.
+81. Finding: The City Council interprets this policy to be focused on creating a supportive built
+environment for children, the elderly, and people with disabilities. Group living arrangements can
+provide supportive living environments that may be particularly beneficial to the elderly and
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+people with disabilities. By streamlining the processes for some Group Living uses that currently
+require conditional use review, the S2HC amendments remove potential barriers to the
+development of these housing types, and thus may lead to the development of additional
+facilities. The increased access to housing and shelter that could be facilitated by the S2HC
+amendments may also benefit children, as housing/shelter is essential for children to have stable
+access to education. Therefore, the S2HC amendments are consistent with this policy.
+Policy 3.5. Energy and resource efficiency. Support energy-efficient, resource-efficient, and
+sustainable development and transportation patterns through land use and transportation planning.
+Policy 3.6. Land efficiency. Provide strategic investments and incentives to leverage infill,
+redevelopment, and promote intensification of scarce urban land while protecting environmental
+quality.
+Policy 3.7. Integrate nature. Integrate nature and use green infrastructure throughout Portland.
+Policy 3.8. Leadership and innovation in design. Encourage high-performance design and
+development that demonstrates Portland’s leadership in the design of the built environment,
+commitment to a more equitable city, and ability to experiment and generate innovative design
+solutions.
+82. Finding: Policies 3.5 through 3.8 address energy, resource and land efficiency, integration of
+nature into design, and high-performance design. The S2HC amendments primarily address use-
+related standards (where housing is allowed without a land use review), and do not change any
+design-related development standards that implement this policy, or natural resources standards.
+The S2HC amendments do not affect the implementation of these policies.
+Policy 3.9. Growth and development. Evaluate the potential impacts of planning and investment
+decisions, significant new infrastructure, and significant new development on the physical
+characteristics of neighborhoods and their residents, particularly under-served and under-represented
+communities, with attention to displacement and affordability impacts. Identify and implement
+strategies to mitigate the anticipated impacts.
+83. Finding: The S2HC amendments benefit under-served and under-represented communities in that
+they will help reduce disparities in access to housing by liberalizing the allowances for Group
+Living. These changes are intended as an element of the City’s overall effort to mitigate the impact
+of infill growth and development. Expanded flexibility for Group Living has been noted in a variety
+of studies as a tool to address housing affordability in the highest cost urban areas (HUD User,
+“Considering SRO Housing in New York City and Beyond”, 6/25/2018; Towards a Smaller Housing
+Paradigm: A Literature Review of Accessory Dwelling Units and MicroA partments by Thomas
+Geffner, Portland State University 2018; Urban land Institute, “The Macro View of Micro Units”, ).
+As noted in these studies, group living buildings can be more affordable than traditional houses or
+apartments because they have fewer kitchens per bedroom, and kitchens are often the most
+expensive rooms to build.  The S2HC amendments also help reduce disparities by providing more
+opportunities for safe and decent shelter in more locations in the city. These zoning amendments
+help serve the needs of all Portlanders, with a particular focus on the most vulnerable members of
+our community—those without housing and with the lowest incomes. Therefore, the S2HC
+amendments are consistent with this policy.
+Policy 3.10. Rural, urbanizable, and urban land. Preserve the rural character of rural land outside the
+Regional Urban Growth Boundary. Limit urban development of urbanizable land beyond the City
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Limits until it is annexed and full urban services are extended.
+84. Finding: The S2HC amendments provide for increased residential capacity within the City Limits
+and urban services boundary, and do not impact rural land outside the UGB. This policy does not
+apply.
+Policy 3.11. Significant places. Enhance and celebrate significant places throughout Portland with
+symbolic features or iconic structures that reinforce local identity, histories, and cultures and
+contribute to way-finding throughout the city. Consider these especially at:
+• High-visibility intersections
+• Attractions
+• Schools, libraries, parks, and other civic places
+• Bridges
+• Rivers
+• Viewpoints and view corridor locations
+• Historically or culturally significant places
+• Connections to volcanic buttes and other geologic and natural landscape features
+• Neighborhood boundaries and transitions
+85. Finding: City Council interprets this policy as applying to prominent specific places, features and
+iconic structures. The S2HC amendments apply broadly to zones throughout the City. No changes
+to historic resource protections are made with these amendments. As potential providers of
+shelter services, the S2HC amendments apply to institutional uses in the community – such as
+schools, community centers, and faith institutions. Many of these sites are important cultural and
+civic landmarks in their neighborhoods. The code changes being made provide more flexibility for
+the institutions to add shelter or other related community services to their sites. These changes
+help community institutions respond to changing demographics and provide additional ways to
+maintain these sites as important community places. Therefore, the S2HC amendments are
+consistent with this policy.
+Centers
+Policy 3.12. Role of centers. Enhance centers as anchors of complete neighborhoods that include
+concentrations of commercial and public services, housing, employment, gathering places, and green
+spaces.
+Policy 3.13. Variety of centers. Plan for a range of centers across the city to enhance local, equitable
+access to services, and expand housing opportunities.
+Policy 3.14. Housing in centers. Provide housing capacity for enough population to support a broad
+range of commercial services, focusing higher-density housing within a half-mile of the center core.
+Policy 3.15. Investments in centers. Encourage public and private investment in infrastructure,
+economic development, and community services in centers to ensure that all centers will support the
+populations they serve.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 3.16. Government services. Encourage the placement of services in centers, including schools
+and colleges, health services, community centers, daycare, parks and plazas, library services, and
+justice services.
+Policy 3.17. Arts and culture. Ensure that land use plans and infrastructure investments allow for and
+incorporate arts, culture, and performance arts as central components of centers.
+Policy 3.18. Accessibility. Design centers to be compact, safe, attractive, and accessible places, where
+the street environment makes access by transit, walking, biking, and mobility devices such as
+wheelchairs, safe and attractive for people of all ages and abilities.
+Policy 3.19. Center connections. Connect centers to each other and to other key local and regional
+destinations, such as schools, parks, and employment areas, by frequent and convenient transit,
+bicycle sharing, bicycle routes, pedestrian trails and sidewalks, and electric vehicle charging stations.
+Policy 3.20. Green infrastructure in centers. Integrate nature and green infrastructure into centers
+and enhance public views and connections to the surrounding natural features.
+86. Finding: Policies 3.12 through 3.20 provide guidance on how centers identified on the
+Comprehensive Plan map should evolve over time. The policies address investments, uses, the
+relationship of centers to transportation networks, design, and development. City Council
+interprets most of these policies as applying to the commercial/mixed use and multi-dwelling
+zones within the mapped boundaries of centers. The exception to this is policy 3.14, which calls
+for providing housing capacity within a half-mile of center cores to provide population to support
+services in centers.
+The S2HC amendments do not directly affect planned investments in centers, or any of the ways
+centers are connected to the rest of the City. As described in the findings for Policy 3.2, with the
+S2HC amendments, Group Living will continue to be permitted outright in commercial and mixed-
+use zones and will no longer be restricted to 15 residents without conditional use review in multi-
+dwelling zones; this is consistent with the role of those zones within centers. While the
+amendments do provide additional flexibility for Group Living in single-dwelling zones (including
+areas within a half-mile of center cores), Group Living would be limited to a maximum of 3,500
+square feet (in addition to other base zone limitations), which is consistent with the limits for
+Household Living in these zones. Larger Group Living structures would require conditional use
+review.
+Except for permanent shelters with 20 beds or fewer the site of an existing institutional use, which
+would be allowed outright, permanent shelters would continue to require conditional use review
+in single-dwelling zones, and the primary change in other zones is to allow additional shelter beds
+outright and to permit outdoor shelters as a new shelter type. The Temporary Activities chapter
+(33.296) also allows temporary shelters in all zones. However, as temporary activities, these
+shelters cannot make permanent alterations to a site. Because temporary shelters are not long-
+term facilities, they therefore do not impact how centers will evolve over time. Allowing
+occupancy of RVs and tiny houses on wheels would not affect development patterns, since these
+changes apply to occupancy of vehicles, not built structures. Therefore, the S2HC amendments are
+consistent with these policies.
+Central City
+Policy 3.21. Role of the Central City. Encourage continued growth and investment in the Central City,
+and recognize its unique role as the region’s premier center for jobs, services, and civic and cultural
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+institutions that support the entire city and region.
+Policy 3.22. Model Urban Center. Promote the Central City as a living laboratory that demonstrates
+how the design and function of a dense urban center can concurrently provide equitable benefits to
+human health, the natural environment, and the local economy.
+Policy 3.23. Central City employment. Encourage the growth of the Central City’s regional share of
+employment and continue its growth as the region’s unique center for innovation and exchange
+through commerce, employment, arts, culture, entertainment, tourism, education, and government.
+Policy 3.24. Central City housing. Encourage the growth of the Central City as Portland’s and the
+region’s largest center with the highest concentrations of housing and with a diversity of housing
+options and services.
+Policy 3.25. Transportation hub. Enhance the Central City as the region’s multimodal transportation
+hub and optimize regional access as well as the movement of people and goods among key
+destinations.
+Policy 3.26. Public places. Promote public places and the Willamette River waterfront in the Central
+City as places of business and social activity and gathering for the people of its districts and the
+broader region.
+87. Finding: The S2HC amendments apply citywide. However, they support policies for the Central
+City by removing barriers for certain types of housing and allowing greater flexibility for siting
+homeless shelters. These changes are consistent with Policy 3.24, which calls for encouraging a
+diversity of housing options. Allowing more flexibility for Group Living uses promotes housing
+diversity, especially for those most in need of low-cost options. Single Room Occupancy housing
+has historically been available in the Central City, but many of those buildings have closed in
+recent decades (The Oregonian, “Portland banking on low-rent SRO hotels to ease housing
+problems”, Molly Harbarger and Elliot Njus, Apr 27, 2019).
+As noted in the article cited above, Single-room-occupancy hotels, or SROs, were once ubiquitous
+in the central city, an affordable haven for people who otherwise may be houseless. For the last
+50 years, though, the landlords who owned SROs retired or sold the decaying buildings to
+developers who put up expensive homes, offices or upscale hotels in their place. An inventory
+created by the housing nonprofit Northwest Pilot Project found that from 1978 through 2015,
+downtown lost nearly 40% of its rentals — more than 2,000 units — that were affordable to
+minimum-wage workers. Many of those were SROs. In Portland, an SRO usually rents for less than
+$600 a month without any subsidy. A typical studio apartment on the open market costs nearly
+twice that. The small footprint of an SRO allows more residents at a lower development price.
+SROs are a form of Group Living, and currently required Conditional Uses approval in residential
+zones, including the RX zone found in the Central City. The S2HC will allow new Group Living
+buildings without a conditional use citywide, including the RX zone.
+Policy 3.24 also calls for a diversity of services--the increased flexibility and capacity for shelters
+supports this policy. While the increase in allowed capacity for mass and short term shelters will
+not have much effect on the Central City zones--where these uses are already permitted at the
+highest capacity in the City--the addition of outdoor shelters as a new Community Service use (up
+to 60 accommodations allowed per site in the RX, CX, and EX zones)—will increase flexibility for
+the type of shelters provided. By increasing opportunities for shelter and housing, the
+amendments will contribute to equitable benefits to human health, consistent with Policy 3.22.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+The S2HC project does not propose new transportation facilities or new public spaces or include
+any policies or regulations that would impact the feasibility of such facilities in the Central City.
+The broader allowance for shelters is intended to address an acute need to provide more options
+for homeless Portlanders. The 2019 Point in Time Count documented 2,037 people who were
+unsheltered, 1,459 people sleeping in emergency shelter and 519 people in transitional housing.
+In all, the Count found 4,015 people who met HUD’s definition of homelessness (twice the current
+year-round capacity of the shelter system). Some of the largest concentrations of camping are in
+the Central City, as evidenced by maps provided by JOHS that document where camping has been
+observed over the winter of 2020/21. Many people have expressed a concern about the impact
+that widespread camping has on the perceived safety of the Central City and other neighborhood
+commercial districts. Concerns have been raised about how this impacts the business environment
+and accessibility of public spaces. The S2HC amendments make it easier to open new shelters in a
+variety of zones across the City. There are currently not enough shelter beds to accommodate all
+of the homeless population, which makes it impossible to move campers from public sidewalks
+and open spaces into safer forms of shelter. Over the long term the S2HC amendments will help
+the business environment (Policy 3.23 and 3.26) by providing options to the current unmanaged
+camping in public spaces. Therefore, the S2HC amendments are consistent with these policies.
+Gateway Regional Center
+Policy 3.27 Role of Gateway. Encourage growth and investment in Gateway to enhance its role as East
+Portland’s center of employment, commercial, and public services.
+Policy 3.28 Housing. Encourage housing in Gateway, to create East Portland’s largest concentration of
+high-density housing.
+Policy 3.29 Transportation. Enhance Gateway’s role as a regional high-capacity transit hub that serves
+as an anchor for East Portland’s multimodal transportation system.
+Policy 3.30 Public places. Enhance the public realm and public places in Gateway to provide a vibrant
+and attractive setting for business and social activity that serves East Portland residents and the
+region.
+88. Finding: Policies 3.27 through 3.30 provide direction on the desired characteristics and functions
+of the Gateway Regional Center. The S2HC amendments do not change the boundary of the
+Gateway Regional Center on the Urban Design Framework, and do not make significant changes to
+any regulations that apply in Gateway. With the S2HC amendments, Group Living will continue to
+be permitted outright in commercial and mixed-use zones and will no longer be restricted to 15
+residents without conditional use review in multi-dwelling zones; this is consistent with Policy 3.28
+to encourage high-density housing. The S2HC changes will allow the largest shelters in commercial
+mixed-use zones and multi-dwelling zones, which are found in almost every neighborhood,
+including Gateway, as evidenced by maps of zoning shown in presentations to City Council.  The
+predominant mixed use zone in Gateway (CX) already allow shelters with 200 beds, and this is not
+changing with the S2HC amendments.
+The S2HC project does not propose new transportation facilities or new public spaces or include
+any policies or regulations that would impact the feasibility of such facilities in Gateway.
+Within Gateway, the expanded shelter allowances in RX, RM2, RM3, CM2 correspond to places
+that are close to high capacity transit and services, which will serve to further reduce potential
+automobile impacts. Thus, the proposed amendments will not have a significant impact on
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+transportation facilities and may help reduce reliance on single occupancy automobiles, and
+support more walking, bicycling, and use of transit which is supportive of Policy 3.29. Expanded
+shelter allowances provide safe facilities to serve homeless individuals who may otherwise be
+sleeping in public spaces (Policy 3.30).  The S2HC code changes remove barriers to group living
+forms of housing development (including high density SRO configurations). Therefore, the S2HC
+amendments are consistent with these policies.
+Town Centers
+Policy 3.31 Role of Town Centers. Enhance Town Centers as successful places that serve the needs of
+surrounding neighborhoods as well as a wider area, and contain higher concentrations of
+employment, institutions, commercial and community services, and a wide range of housing options.
+Policy 3.32 Housing. Provide for a wide range of housing types in Town Centers, which are intended to
+generally be larger in scale than the surrounding residential areas. There should be sufficient zoning
+capacity within a half-mile walking distance of a Town Center to accommodate 7,000 households.
+Policy 3.33 Transportation. Improve Town Centers as multimodal transportation hubs that optimize
+access from the broad area of the city they serve and are linked to the region’s high-capacity transit
+system.
+Policy 3.34 Public places. Provide parks or public squares within or near Town Centers to support their
+roles as places of focused business and social activity.
+89. Finding: Policies 3.31 through 3.34 provide direction on the desired characteristics and functions
+of Town Centers. The S2HC amendments do not change the boundary any of the Town Centers on
+the Urban Design Framework. These policies are principally targeted at multi-dwelling and mixed-
+use zones. They address the types of uses that are expected in Town Centers, the intensity of
+housing, the presence of multimodal transportation options, and the need for public spaces.
+With the S2HC amendments, Group Living will continue to be permitted outright in commercial
+and mixed-use zones, and will no longer be restricted to 15 residents without conditional use
+review in multi-dwelling zones. This removes barriers to group living forms of housing
+development (including high density SRO configurations), consistent with the intended housing
+density within Town Centers. In the same zones, the amendments allow additional shelter beds
+outright and permit outdoor shelters as a new shelter type; this is consistent with the role of Town
+Centers as providing higher concentrations of community services. Therefore, the S2HC
+amendments are consistent with policies 3.31 and 3.32.
+The S2HC project does not propose new transportation facilities or new public spaces, or include
+any policies or regulations that would impact the feasibility of such facilities in Town Centers.
+Policies 3.33 and 3.34 are therefore not applicable.
+Neighborhood Centers
+Policy 3.35 Role of Neighborhood Centers. Enhance Neighborhood Centers as successful places that
+serve the needs of surrounding neighborhoods. In Neighborhood Centers, provide for higher
+concentrations of development, employment, commercial and community services, and a wider range
+of housing options than the surrounding neighborhoods.
+Policy 3.36 Housing. Provide for a wide range of housing types in Neighborhood Centers, which are
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+intended to generally be larger in scale than the surrounding residential areas, but smaller than Town
+Centers. There should be sufficient zoning capacity within a half-mile walking distance of a
+Neighborhood Center to accommodate 3,500 households.
+Policy 3.37 Transportation. Design Neighborhood Centers as multimodal transportation hubs that are
+served by frequent-service transit and optimize pedestrian and bicycle access from adjacent
+neighborhoods.
+Policy 3.38 Public places. Provide small parks or plazas within or near Neighborhood Centers to
+support their roles as places of local activity and gathering.
+90. Finding: Policies 3.35 through 3.38 provide direction on the desired characteristics and functions
+of neighborhood centers. These policies are principally targeted at multi-dwelling and mixed-use
+zones. They address the types of uses that are expected in Neighborhood Centers, the intensity of
+housing, the presence of multimodal transportation options, and the need for public spaces.
+The S2HC amendments do not change the neighborhood center boundaries on the Urban Design
+Framework. As described for the Town Center policies, the S2HC amendments support greater
+flexibility for Group Living uses in multi-dwelling and commercial/mixed-use zones, which is
+consistent with the policy of providing a wide range of housing types in Neighborhood Centers.
+Allowing additional shelter beds outright and permitting outdoor shelters as a new shelter type is
+also consistent with the role of Neighborhood Centers as providing higher concentrations of
+community services. Therefore, the S2HC amendments are consistent with policies 3.35 and 3.36.
+The S2HC project does not propose new transportation facilities or new public spaces or include
+any policies or regulations that would impact the feasibility of such facilities in Neighborhood
+Centers. Policies 3.37 and 3.38 are therefore not applicable.
+Inner Ring Districts
+Policy 3.39 Growth. Expand the range of housing and employment opportunities in the Inner Ring
+Districts. Emphasize growth that replaces gaps in the historic urban fabric, such as redevelopment of
+surface parking lots and 20th century auto-oriented development.
+Policy 3.40 Corridors. Guide growth in corridors to transition to mid-rise scale close to the Central
+City, especially along Civic Corridors.
+Policy 3.41 Distinct identities. Maintain and enhance the distinct identities of the Inner Ring Districts
+and their corridors. Use and expand existing historic preservation and design review tools to
+accommodate growth in ways that identify and preserve historic resources and enhance the
+distinctive characteristics of the Inner Ring Districts, especially in areas experiencing significant
+development.
+Policy 3.42 Diverse residential areas. Provide a diversity of housing opportunities in the Inner Ring
+Districts’ residential areas. Encourage approaches that preserve or are compatible with existing
+historic properties in these areas. Acknowledge that these areas are historic assets and should retain
+their established characteristics and development patterns, even as Inner Ring centers and corridors
+grow. Apply base zones in a manner that takes historic character and adopted design guidelines into
+account.
+Policy 3.43 Active transportation. Enhance the role of the Inner Ring Districts’ extensive transit,
+bicycle, and pedestrian networks in conjunction with land uses that optimize the ability for more
+people to utilize this network. Improve the safety of pedestrian and bike connections to the Central
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+City. Strengthen transit connections between the Inner Ring Districts and to the Central City.
+91. Finding: Policies 3.39 through 3.43 provide direction on the desired characteristics and functions
+of the Inner Ring Districts. These are the pre-automobile neighborhoods within short distance of
+the Central City. They include some of Portland’s oldest neighborhoods, including Buckman,
+Albina, and Northwest Portland. In the mid-20th-century many older buildings in these
+neighborhoods were demolished to make way for transportation infrastructure and parking.
+These policies encourage infill development to re-establish the historic pedestrian-oriented urban
+form and acknowledge the close proximity of the Central City’s array of services, jobs, and
+amenities. In the Urban Form Background Report with the 2035 Comprehensive Plan, the Inner
+Ring was described as having a consistent pattern of rectilinear blocks, typically 200'-deep; streets
+with sidewalks, planting strips, and street trees; a fine-grain pattern of development, based on
+lots commonly 50' x 100' street-oriented buildings; and a green-edge of front setbacks. The report
+noted several particularly distinctive places with unique street patterns, including Ladd’s Addition,
+Laurelhurst, Alameda, and Woodlawn.
+The S2HC project is consistent with these policies because the amendments support opportunities
+for greater housing diversity in residential Inner-Ring areas by liberalizing allowances for Group
+Living uses in single-dwelling and multi-dwelling zones. Consistent with Policy 3.41, which calls for
+maintaining and enhancing the distinct identities of the Inner Ring Districts, S2HC reinforces the
+established neighborhood characteristics by limiting building scale for Group Living in an
+equivalent manner as Household Living and retaining other standards for setbacks, height,
+building coverage, and standards for street facing facades, main entrances, and parking and
+garages. In multi-dwelling portions of Inner Ring Districts, Group Living will continue to be subject
+to the same development standards for height, setbacks, FAR, and other site and building design
+standards that apply to Household Living. The amendments do not affect street patterns, lot sizes,
+the City’s programs or policies related to historic resource preservation, or active transportation.
+The S2HC project also increases allowances for shelters that serve the homeless in Inner Ring
+Districts by expanding the number of beds allowed without conditional use in several zones,
+expanding allowances for temporary shelters, and allowing institutional uses (such as faith-based
+organizations) to host shelters in single-dwelling zones. The expanded shelter allowances do not
+impact growth patterns because shelters are not permanent housing. The changes do not impact
+street and block patterns or lot size, which have been identified in supporting document for the
+Comprehensive Plan as a key distinctive characteristic of the Inner Ring Districts (Policy 3.41). The
+amendments do not impact programs or policies related to historic preservation. Locating
+additional shelters in Inner Ring Districts is consistent with the goal of Policy 3.43 because many
+people served by shelters rely on walking, biking or transit, and proximity to these lower cost
+transportation modes is a factor in siting new shelters, as evidenced by remarks from the Joint
+City-County Office of Homeless Services Director (Marc Jolin) before the PSC. Therefore, the S2HC
+amendments are consistent with these policies.
+Corridors
+Policy 3.44. Growth and mobility. Coordinate transportation and land use strategies along corridors
+to accommodate growth and mobility needs for people of all ages and abilities.
+Policy 3.45. Connections. Improve corridors as multimodal connections providing transit, pedestrian,
+bicycle, and motor vehicle access and that serve the freight needs of centers and neighborhood
+business districts.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 3.46. Design. Encourage street design that balances the important transportation functions of
+corridors with their roles as the setting for commercial activity and residential living.
+Policy 3.47. Green infrastructure in corridors. Enhance corridors with distinctive green infrastructure,
+including landscaped stormwater facilities, extensive tree plantings, and other landscaping that both
+provide environmental function and contribute to a quality pedestrian environment.
+92. Finding: Policies 3.44 through 3.47 provide direction on the desired characteristics and functions
+of corridors as well as street design and future land use changes. Corridors are defined as part of
+the City’s Urban Design Framework in Figure 3-2 of the Comprehensive Plan.
+The S2HC amendments do not change the location of adopted corridors, impact transportation
+facility design or green infrastructure programs, or amend the TSP. The S2HC amendments do
+support Policy 3.44, which calls for accommodating growth along corridors, by removing
+restrictions in multi-dwelling zones that would limit Group Living to 15 residents without
+conditional use and by continuing to permit Group Living outright in commercial/mixed-use zones.
+This helps accommodate a wider diversity of housing options to meet the needs of more people in
+corridors.
+The S2HC project also increases allowances for shelters that serve the homeless in Corridors by
+expanding the number of beds allowed without conditional use in several zones, expanding
+allowances for temporary shelters, and allowing institutional uses (such as faith-based
+organizations) to host shelters in single-dwelling zones. The expanded shelter allowances do not
+impact growth patterns because shelters are not permanent housing. Locating additional shelters
+in Corridors is consistent with the goal of Policy 3.45 because many people served by shelters rely
+on walking, biking or transit, and proximity to these lower cost transportation modes is a factor in
+siting new shelters, as evidenced by remarks from the Joint City-County Office of Homeless
+Services Director (Marc Jolin) before the PSC. Therefore, the S2HC amendments are consistent
+with these policies.
+Civic Corridors
+Policy 3.48. Integrated land use and mobility. Enhance Civic Corridors as distinctive places that are
+models of ecological urban design, with transit-supportive densities of housing and employment,
+prominent street trees and other green features, and high-quality transit service and pedestrian and
+bicycle facilities.
+Policy 3.49. Design great places. Improve public streets and sidewalks along Civic Corridors to support
+the vitality of business districts, create distinctive places, provide a safe, healthy, and attractive
+pedestrian environment, and contribute to quality living environments for residents.
+Policy 3.50. Mobility corridors. Improve Civic Corridors as key mobility corridors of citywide
+importance that accommodate all modes of transportation within their right-of-way or on nearby
+parallel routes.
+Policy 3.51. Freight. Maintain freight mobility and access on Civic Corridors that are also Major or
+Priority Truck Streets.
+93. Finding: Policies 3.48 through 3.51 provide direction on the desired characteristics and functions
+of civic corridors as well as street design and future land use changes. The S2HC amendments do
+not change the boundary of corridors on the Urban Design Framework, impact transportation
+facility design, or amend the TSP. As described in the findings above for Corridor policies, the S2HC
+amendments support growth and housing density along civic corridors by removing restrictions in
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+multi-dwelling zones that would limit Group Living to 15 residents without conditional use and by
+continuing to permit Group Living outright in commercial/mixed-use zones. This helps
+accommodate a wider diversity of housing options to meet the needs of more people in civic
+corridors.
+Neighborhood Corridors
+Policy 3.52. Neighborhood Corridors. Enhance Neighborhood Corridors as important places that
+support vibrant neighborhood business districts with quality multi-family housing, while providing
+transportation connections that link neighborhoods.
+94. Finding: This policy provides direction on the desired characteristics and functions of corridors as
+well as street design and future land use changes. The S2HC amendments do not change the
+boundary of neighborhood corridors on the Urban Design Framework or amend the TSP. As
+described in the findings above for Corridor policies, the S2HC amendments support growth and
+housing density along neighborhood corridors by removing restrictions in multi-dwelling zones
+that would limit Group Living to 15 residents without conditional use and by continuing to permit
+Group Living outright in commercial/mixed-use zones. This helps accommodate a wider diversity
+of housing options to meet the needs of more people in neighborhood corridors.
+Transit Station Areas
+Policy 3.53. Transit-oriented development. Encourage transit-oriented development and transit-
+supportive concentrations of housing and jobs, and multimodal connections at and adjacent to high-
+capacity transit stations.
+Policy 3.54. Community connections. Integrate transit stations into surrounding communities and
+enhance pedestrian and bicycle facilities (including bike sharing) to provide safe and accessible
+connections to key destinations beyond the station area.
+Policy 3.55. Transit station area safety. Design transit areas to improve pedestrian, bicycle, and
+personal safety.
+Policy 3.56. Center stations. Encourage transit stations in centers to provide high density
+concentrations of housing and commercial uses that maximize the ability of residents to live close to
+both high-quality transit and commercial services.
+Policy 3.57. Employment stations. Encourage concentrations of jobs and employment-focused land
+uses in and around stations in employment-zoned areas.
+Policy 3.58. Transit neighborhood stations. Encourage concentrations of mixed-income residential
+development and supportive commercial services close to transit neighborhood stations. Transit
+neighborhood stations serve mixed-use areas that are not in major centers.
+Policy 3.59. Destination stations. Enhance connections between major destinations and transit
+facilities and strengthen the role of these station areas as places of focused activity.
+95. Finding: These policies generally relate to station planning and supportive active transportation
+infrastructure and future land use changes. The S2HC amendments do not change the boundary of
+station areas on the Urban Design Framework or amend the TSP. The S2HC amendments support
+transit-supportive residential densities by removing restrictions in multi-dwelling zones that would
+limit Group Living to 15 residents without conditional use and by continuing to permit Group
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Living outright in commercial/mixed-use zones. Liberalizing allowances for Group Living may
+enable more people to live close to transit and support transit service.
+City Greenways
+Policy 3.60. Connections. Create a network of distinctive and attractive City Greenways that link
+centers, parks, schools, rivers, natural areas, and other key community destinations.
+Policy 3.61. Integrated system. Create an integrated City Greenways system that includes regional
+trails through natural areas and along Portland’s rivers, connected to neighborhood greenways, and
+heritage parkways.
+Policy 3.62. Multiple benefits. Design City Greenways that provide multiple benefits that contribute to
+Portland’s pedestrian, bicycle, green infrastructure, and parks and open space systems.
+Policy 3.63. Design. Use design options such as distinctive street design, motor vehicle diversion,
+landscaping, tree plantings, scenic views, and other appropriate design options, to create City
+Greenways that extend the experience of open spaces and nature into neighborhoods, while
+improving stormwater management and calming traffic.
+96. Finding: These policies primarily relate to the design and construction of improvements for City
+Greenways and not to the development requirements for lots that abut them. This policy does not
+apply.
+Urban habitat corridors
+Policy 3.64. Urban habitat corridors. Establish a system of connected, well-functioning, and diverse
+habitat corridors that link habitats in Portland and the region, facilitate safe fish and wildlife access
+and movement through and between habitat areas, enhance the quality and connectivity of existing
+habitat corridors, and establish new habitat corridors in developed areas.
+Policy 3.65. Habitat connection tools. Improve habitat corridors using a mix of tools including natural
+resource protection, property acquisition, natural resource restoration, tree planting and landscaping
+with native plants, and ecological design integrated with new development.
+Policy 3.66. Connect habitat corridors. Ensure that planned connections between habitat corridors,
+greenways, and trails are located and designed to support the functions of each element, and create
+positive interrelationships between the elements, while also protecting habitat functions, fish, and
+wildlife.
+97. Finding: Habitat corridors are mapped on Figure 3-6 of the Comprehensive Plan. The City has an
+adopted Natural Resources Inventory (NRI) that provides a basis for establishing future habitat
+corridors and enhancing connectivity. The City’s environmental overlay zone regulations are the
+implementing regulatory tools to preserve natural resources and their ecosystem services,
+particularly in relationship habitat areas. The S2HC amendments do not amend either the NRI or
+the existing environmental zone regulations. Habitat corridors also include tree canopy. The S2HC
+amendments do not change Title 11 tree preservation and tree density requirements that apply in
+development situations. In addition, the amendments do not change the building coverage or
+minimum landscaped area standards that apply to Group Living or shelter uses in any zone.
+Concern was expressed about the impact of unsanctioned camping on habitat corridors, and this
+was discussed in the PSC work sessions. Except in the case of temporary shelters provided in
+response to a natural disaster or emergency, permanent and temporary outdoor shelters would
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+be prohibited within Environmental overlay zones, the River Natural overlay zone, the River
+Environmental overlay zone, the Pleasant Valley Natural Resource overlay zone and the Scenic
+overlay. The City Council’s authority to act in an emergency is established by Title 15 (Emergency
+Code) and the City Charter. Providing more flexibility for siting new shelter facilities, the
+amendments will provide safer alternatives for people currently camping in natural areas.
+Employment areas
+Policy 3.67. Employment area geographies. Consider the land development and transportation needs
+of Portland’s employment geographies when creating and amending land use plans and making
+infrastructure investments.
+98. Finding: The Comprehensive Plan defines Consider as “take into account when planning or making
+decisions”. Comprehensive Plan Figure 3-7 identifies four employment area geographies – Central
+City, industrial/employment, commercial, and institutional. With only a few exceptions, the S2HC
+amendments do not change the use allowances or development standards of the employment
+area zones. Shelters are already permitted in commercial, institutional, and employment zones;
+the main changes are allowing additional beds for mass and short term shelters and allowing
+outdoor shelters as an additional shelter type. While short term and mass shelters continue to be
+prohibited in industrial zones, outdoor shelters will be allowed through conditional use only on a
+small subset of properties (publicly owned sites under 2 acres that are not included in the City’s
+inventory of buildable employment land). The land development and transportation needs of
+employment districts were taken into account by placing limits on the size of outdoor shelters to
+ensure that prime industrial land is preserved. The main change regarding Group Living allowances
+in these zones is to remove any special regulations for post-incarceration facilities, allowing these
+to be treated like any other Group Living use.
+Policy 3.68. Regional Truck Corridors. Enhance designated streets to accommodate forecast freight
+growth and support intensified industrial use in nearby freight districts. See Figure 3-7 — Employment
+Areas. Designated regional truckways and priority truck streets (Transportation System Plan
+classifications are shown to illustrate this network).
+99. Finding: The City Council interprets the verb “enhance”, which is not defined in the 2035
+Comprehensive Plan, to mean to intensify or improve. The City Council interprets this policy to
+acknowledge the role that regional truck corridors play in our transportation system and to take
+steps to improve those functions. Portland’s approach to regional truck corridors is unchanged
+because the S2HC amendments do not amend the Citywide System Plan or the Transportation
+System Plan; and do not impact employment land. Therefore, the City continues to plan for public
+infrastructure investments to maintain and strengthen the regional truck corridors in the
+employment areas.
+Rivers Pattern Area
+Policy 3.69. Historic and multi-cultural significance. Recognize, restore, and protect the historic and
+multi-cultural significance of the Willamette and Columbia Rivers, including current activities such as
+subsistence fishing of legally-permitted fish species.
+Policy 3.70. River transportation. Recognize and enhance the roles of the Willamette and Columbia
+rivers as part of Portland’s historic, current, and future transportation infrastructure, including for
+freight, commerce, commuting, and other public and private transportation functions.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 3.71. Recreation. Improve conditions along and within the Willamette and Columbia rivers to
+accommodate a diverse mix of recreational users and activities. Designate and invest in strategically-
+located sites along the length of Portland’s riverfronts for passive or active recreation activities that
+are compatible with nearby land uses, historically and culturally important sites, significant habitat
+areas, restoration sites, and native fish and wildlife usage.
+Policy 3.72 Industry and port facilities. Enhance the regionally significant economic infrastructure that
+includes Oregon’s largest seaport and largest airport, unique multimodal freight, rail, and harbor
+access; the region’s critical energy hub; and proximity to anchor manufacturing and distribution
+facilities.
+Policy 3.73. Habitat. Enhance the roles of the Willamette and Columbia rivers and their confluence as
+an ecological hub that provides locally and regionally significant habitat for fish and wildlife and
+habitat restoration opportunities.
+Policy 3.74. Commercial activities. Enhance the roles of the Willamette and Columbia rivers in
+supporting local and regional business and commerce, including commercial fishing, tourism,
+recreation, and leisure.
+Policy 3.75. River neighborhoods. Enhance the strong river orientation of residential areas that are
+located along the Willamette and Columbia Rivers.
+Policy 3.76. River access. Enhance and complete Portland’s system of river access points and riverside
+trails, including the Willamette Greenway Trail, and strengthen active transportation connections
+between neighborhoods and the rivers.
+Policy 3.77. River management and coordination. Coordinate with federal, state, regional, special
+districts, and other agencies to address issues of mutual interest and concern, including economic
+development, recreation, water transportation, flood and floodplain management and protection,
+regulatory compliance, permitting, emergency management, endangered species recovery, climate
+change preparation, Portland Harbor Superfund, brownfield cleanup, and habitat restoration.
+Policy 3.78 Columbia River. Enhance the role of the Columbia River for river dependent industry, fish
+and wildlife habitat, subsistence and commercial fisheries, floating- and land-based neighborhoods,
+recreational uses, and water transportation.
+Policy 3.79 Willamette River North Reach. Enhance the role of the Willamette River North Reach for
+river dependent industry, fish and wildlife habitat, and as an amenity for riverfront neighborhoods and
+recreational users.
+Policy 3.80. Willamette River Central Reach. Enhance the role of the Willamette River Central Reach
+as the Central City and region’s primary riverfront destination for recreation, history and culture,
+emergency response, water transportation, and as habitat for fish and wildlife.
+Policy 3.81 Willamette River South Reach. Enhance the role of the Willamette River South Reach as
+fish and wildlife habitat, a place to recreate, and as an amenity for riverfront neighborhoods and
+others.
+Policy 3.82. Willamette River Greenway. Maintain multi-objective plans and regulations to guide
+development, infrastructure investments, and natural resource protection and enhancement within
+and along the Willamette Greenway.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+100. Finding: Policies 3.69 through 3.82 provide direction on the desired characteristics and functions
+of the Rivers Pattern Area, which includes areas along the Willamette and Columbia Rivers. Much
+of the land within the Rivers Pattern Area overlaps with the industrial/employment areas, which
+are addressed in the findings for Policy 3.67. As described in those findings, these areas are not
+significantly affected by the S2HC amendments.
+Except in the case of temporary shelters provided in response to a natural disaster or emergency,
+outdoor shelters (permanent and temporary) would be prohibited within the River Natural overlay
+zone (33.440) and the River Environmental overlay zone (Chapter 33.475). Shelters would not be
+prohibited in other Greenway and River overlays including River General, River Recreational, River
+Industrial and River Water Quality.  However, greenway regulations would continue to apply to
+any permanent development facilitated by the S2HC amendments including permanent outdoor
+shelters. Temporary activities, including temporary shelters, are described/defined in 33.296 as
+being characterized by their short term or seasonal nature and by the fact that permanent
+improvements are not made to the site. In addition, according to 33.296, they are also not
+considered to be primary or accessory uses and have no inherent rights within the zone in which
+they locate. As a result of these provisions, a temporary shelter will not affect the Willamette
+River Greenway because siting a temporary facility there would not be permanently converting
+land to a non-greenway use. For these reasons, the S2HC amendments are consistent with these
+policies.
+Central City Pattern Area
+Policy 3.83. Central City districts. Enhance the distinct identities of the Central City's districts.
+Policy 3.84. Central City river orientation. Enhance and strengthen access and orientation to the
+Willamette River in the Central City and increase river-focused activities.
+Policy 3.85. Central City pedestrian system. Maintain and expand the Central City’s highly
+interconnected pedestrian system.
+Policy 3.86. Central City bicycle system. Expand and improve the Central City’s bicycle system.
+101. Finding: Polices 3.83 through 3.86 provide direction on the desired characteristics and functions
+of the Central City Pattern Area. As they relate to development, Policies 3.83 and 3.84, are largely
+carried out through design review within the Central City design districts. The S2HC amendments
+do not affect implementation of design review, and any development that is built pursuant to the
+new S2HC allowances would be subject to design review procedures. The only exception is
+outdoor shelters, which are exempt from design review because of the temporary and modular
+nature of accommodations in outdoor shelters. Policies 3.85 and 3.86 are implemented by the
+Bureau of Transportation through the Transportation System Plan and are not applicable to the
+S2HC amendments.
+Inner Neighborhoods Pattern Area
+Policy 3.87 Inner Neighborhoods main streets. Maintain and enhance the Streetcar Era pattern of
+street-oriented buildings along Civic and Neighborhood corridors.
+Policy 3.88 Inner Neighborhoods street patterns. Preserve the area’s urban fabric of compact blocks
+and its highly interconnected grid of streets.
+Policy 3.89 Inner Neighborhoods infill. Fill gaps in the urban fabric through infill development on
+vacant and underutilized sites and in the reuse of historic buildings on adopted inventories.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 3.90 Inner Neighborhoods active transportation. Use the extensive street, sidewalk, and
+bikeway system and multiple connections to the Central City as a key part of Portland’s active
+transportation system
+Policy 3.91 Inner Neighborhoods residential areas. Continue the patterns of small, connected blocks,
+regular lot patterns, and streets lined by planting strips and street trees in Inner Neighborhood
+residential areas.
+Finding: Policies 3.87 through 3.91 provide direction on the desired characteristics and functions
+of the Inner Neighborhoods. The Inner Neighborhoods were developed and shaped during the
+Streetcar Era of the late 19th and early 20th centuries. The Inner Neighborhoods are characterized
+by a regular pattern of neighborhood business districts located along former streetcar streets
+interspersed with residential areas. These policies express the overall design approach in Inner
+Neighborhoods. They address block patters, infill development, building orientation and design,
+and active transportation. The S2HC project is consistent with these policies because it allows
+greater flexibility for Group Living uses, which could enable infill development in Inner
+Neighborhoods in a manner that is compatible in scale with existing residential development. As
+described in the findings above, outright allowed development of Group Living in single-dwelling
+zones will be limited to 3,500 square feet, which is consistent with limitations applicable to
+Household Living. Development standards that enforce street-oriented development patterns
+along corridors, compact blocks, and regular lot patterns are not affected by the S2HC
+amendments. Therefore, the S2HC amendments are consistent with these policies.
+Eastern Neighborhoods Pattern Area
+Policy 3.92 Eastern Neighborhoods street, block, and lot pattern. Guide the evolving street and block
+system in the Eastern Neighborhoods in ways that build on positive aspects of the area’s large blocks,
+such as opportunities to continue mid-block open space patterns and create new connections through
+blocks that make it easier to access community destinations.
+Policy 3.93 Eastern Neighborhoods site development. Require that land be aggregated into larger
+sites before land divisions and other redevelopment occurs. Require site plans which advance design
+and street connectivity goals.
+Policy 3.94 Eastern Neighborhoods trees and natural features. Encourage development and right-of-
+way design that preserves and incorporates Douglas fir trees and groves, and that protects the area’s
+streams, forests, wetlands, steep slopes, and buttes.
+Policy 3.95 Eastern Neighborhoods buttes. Enhance public views of the area’s skyline of buttes and
+stands of tall Douglas fir trees.
+Policy 3.96 Eastern Neighborhoods corridor landscaping. Encourage landscaped building setbacks
+along residential corridors on major streets.
+Policy 3.97 Eastern Neighborhoods active transportation. Enhance access to centers, employment
+areas, and other community destinations in Eastern Neighborhoods by ensuring that corridors have
+safe and accessible pedestrian and bicycle facilities and creating additional secondary connections that
+provide low-stress pedestrian and bicycle access.
+102. Finding: Policies 3.92 through 3.97 provide direction on the desired characteristics and functions
+of the Eastern Neighborhoods Pattern Area. They address street patterns, site development,
+natural features, and active transportation. The S2HC amendments do not affect any development
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+standards related to street or lot patterns, connectivity, tree preservation, or landscaping. These
+policies do not apply.
+Western Neighborhoods Pattern Area
+Policy 3.98 Western Neighborhoods village character. Enhance the village character of the Western
+Neighborhoods’ small commercial districts and increase opportunities for more people to live within
+walking distance of these neighborhood anchors.
+Policy 3.99 Western Neighborhoods active transportation. Provide safe and accessible pedestrian
+and bicycle connections, as well as off-street trail connections, to and from residential neighborhoods.
+Policy 3.100 Western Neighborhoods development. Encourage new development and infrastructure
+to be designed to minimize impacts on the area’s streams, ravines, and forested slopes.
+Policy 3.101 Western Neighborhoods habitat corridors. Preserve, enhance, and connect the area’s
+network of habitat areas and corridors, streams, parks, and tree canopy.
+Policy 3.102 Western Neighborhoods trails. Develop pedestrian-oriented connections and enhance
+the Western Neighborhoods’ distinctive system of trails to increase safety, expand mobility, access to
+nature, and active living opportunities in the area.
+103. Finding: Policies 3.98 through 3.102 provide direction on the desired characteristics and
+functions of the Western Neighborhoods Pattern Area. Most of these policies relate to right-of-
+way connections, active transportation, and trails, which are implemented by the City’s street and
+trail programs and are not impacted by the S2HC amendments. Other policies relate to limiting
+impacts to the area’s natural features and riparian corridors, which are implemented through the
+environmental zones that apply in this pattern area or through stormwater management
+requirements and are not being affected by the S2HC amendments.
+Policy 3.98, which calls for expanding opportunities for more people to live close to the area area’s
+commercial districts, is supported by S2HC amendments that liberalize Group Living allowances in
+the single-dwelling zones, which comprise the majority of land around the area’s commercial
+districts. Allowing permanent occupancy of RVs and tiny houses on wheels also supports this
+policy by allowing additional residential living arrangements on lots with existing homes. Findings
+related to trails are found in response to Policies 8.53 through 8.60.
+Therefore, the S2HC amendments are consistent with these policies.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Chapter 4: Design and Development
+Goal 4.A: Context-sensitive design and development. New development is designed to respond to
+and enhance the distinctive physical, historic, and cultural qualities of its location, while
+accommodating growth and change.
+Goal 4.B: Historic and cultural resources. Historic and cultural resources are integral parts of an urban
+environment that continue to evolve and are preserved.
+Goal 4.C: Human and environmental health. Neighborhoods and development are efficiently
+designed and built to enhance human and environmental health: they protect safety and livability;
+support local access to healthy food; limit negative impacts on water, hydrology, and air quality;
+reduce carbon emissions; encourage active and sustainable design; protect wildlife; address urban
+heat islands; and integrate nature and the built environment.
+Goal 4.D: Urban resilience. Buildings, streets, and open spaces are designed to ensure long-term
+resilience and to adjust to changing demographics, climate, and economy, and withstand and recover
+from natural disasters.
+104. Finding: These goals and many of the policies in this chapter address site and building design.
+The S2HC amendments add flexibility for shelter siting; establish outdoor shelters as a new
+community service use; liberalize the allowances for Group Living; and allow permanent
+occupancy of recreational vehicles and tiny houses on wheels. Generally, the amendments are
+related to use allowances and have little impact on the design and development standards, or
+other programs, that implement these standards.
+Water quality, hydrology and wildlife will continue to be protected by the City’s existing natural
+resource protections regulations which are not being amended with the S2HC package (Chapters
+33.430, 33.465, and 33.475).  Except in the case of temporary shelters provided in response to a
+natural disaster or emergency, permanent and temporary outdoor shelters would be prohibited
+within Environmental overlay zones, the River Natural overlay zone, the River Environmental
+overlay zone, and the Pleasant Valley Natural Resource overlay zone. The City Council’s authority
+to act in an emergency is established by Title 15 (Emergency Code) and the City Charter.
+Some testimony has raised concerns about the impact of supportive housing on neighborhood
+livability, safety or crime rates. First, we note that this concern does not relate to building forms,
+scale, street frontage relationships, setbacks, open space patterns, or landscaping. To the extent
+that this concern relates to “character”, the Council finds that supportive housing does not
+decrease property values nor increase criminal activity. We refer to an Urban Land Institute
+Report prepared for HUD in 1999, which examined the impact of supportive housing on
+neighborhoods and neighbors in Denver ("The Impact of Supportive Housing on Neighborhoods
+and Neighbors").
+More specific findings are found below, as well as descriptions of the few changes that the S2HC
+amendments make to the applicability of development standards for Group Living or shelter uses.
+Context
+Policy 4.1. Pattern areas. Encourage building and site designs that respect the unique built, natural,
+historic, and cultural characteristics of Portland’s five pattern areas described in Chapter 3: Urban
+Form.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 4.2. Community identity. Encourage the development of character-giving design features that
+are responsive to place and the cultures of communities.
+Policy 4.3. Site and context. Encourage development that responds to and enhances the positive
+qualities of site and context — the neighborhood, the block, the public realm, and natural features.
+105. Finding: Policies 4.1 through 4.3 provide direction on how the context of where development
+occurs should be considered in City implementation approaches – including how building and site
+design respect pattern areas and respond to the physical character-giving aspect of place and
+context. These policies are implemented by site and building development standards in the zoning
+code, and in some situations through design review guidelines. In general, the S2HC amendments
+do not affect the code’s development standards and guidelines that implement these policies.
+Findings in response to the five pattern areas are found above in response to Policies 3.69 – 3.102.
+However, the following aspects of the amendments respond to the physical character-giving
+aspect of place and context:
+• Group living. In single-dwelling zones, Group Living will be limited to a maximum of 3,500
+square feet (in addition to other base zone limitations), which is consistent with the limits for
+Household Living in these zones. Larger Group Living structures would require conditional use
+review. In multi-dwelling and commercial/mixed-use zones, Group Living will be allowed
+under the same floor area ratio, height, and lot coverage limitations that apply to Household
+Living. This responds to the existing patterns and scale of buildings in single dwelling areas.
+• Shelters. While additional shelter beds will be permitted without conditional use review in
+various zones, these developments will continue to be subject to the same floor area ratio,
+height, setback, lot coverage, and other base zone limitations that currently apply. Stand-
+alone shelters will continue to require conditional use review in single-dwelling zones.
+Impacts on physical compatibility is considered as part of conditional use review for shelters.
+• In single-dwelling zones. Up to 20 shelter accommodations will be permitted when co-
+located on a site with an institutional use. The zoning code contains institutional
+development standards which serve to maintain compatibility with surrounding residential
+uses. The S2HC is not changing those standards.
+• Outdoor shelters. Prohibitions in Environmental, Scenic, and Special Flood Hazard zones will
+keep outdoor shelters out of sensitive or hazardous areas that are mapped on City zoning
+maps. This exclusion helps protect natural features that define many neighborhoods.
+• Recreational vehicles and tiny houses on wheels. These are classified as vehicles, not
+structures or dwelling units. Therefore, occupied RVs are subject to existing siting standards
+for vehicle parking. The S2HC is not changing any of the physical standards that govern where
+vehicles can be parked.
+These provisions support these policies by regulating site and building design for Group Living
+uses and shelters in a way that is generally consistent with the current code, and these policies.
+Policy 4.4. Natural features and green infrastructure. Integrate natural and green infrastructure such
+as trees, green spaces, ecoroofs, gardens, green walls, and vegetated stormwater management
+systems, into the urban environment. Encourage stormwater facilities that are designed to be a
+functional and attractive element of public spaces, especially in centers and corridors.
+106. Finding: This policy calls for including natural elements, such as trees, and green infrastructure,
+such as ecoroofs and vegetated stormwater facilities, as part of the urban environment – both as
+part of development projects and within public spaces, such as streets. The S2HC amendments do
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+not affect any development/design standards or programs that implement this policy. This policy
+does not apply.
+Policy 4.5. Pedestrian-oriented design. Enhance the pedestrian experience throughout Portland
+through public and private development that creates accessible, safe, and attractive places for all
+those who walk and/or use wheelchairs or other mobility devices.
+Policy 4.6. Street orientation. Promote building and site designs that enhance the pedestrian
+experience with windows, entrances, pathways, and other features that provide connections to the
+street environment.
+Policy 4.7. Development and public spaces. Guide development to help create high-quality public
+places and street environments while considering the role of adjacent development in framing,
+shaping, and activating the public space of streets and urban parks.
+Policy 4.8. Alleys. Encourage the continued use of alleys for parking access, while preserving
+pedestrian access. Expand the number of alley-facing accessory dwelling units.
+107. Finding: Policies 4.5 through 4.8 call for new development and public infrastructure to enhance
+the pedestrian experience, public spaces, and promote access from alleys. The S2HC amendments
+related to shelter siting, Group Living and occupancy of recreational vehicles and tiny houses on
+wheels do not affect any development/design standards or programs that implement these
+policies.
+New standards in 33.285.050.C exempt outdoor shelters from on-site pedestrian standards. This
+exemption is provided because accommodations in outdoor shelters are intended to be more
+informal or temporary in nature – such as tents, yurts, small cabins or vehicles. They are not
+permanent buildings and will likely be periodically reconfigured. A requirement for an on-site
+network of permanent pedestrian paths would significantly limit the way that an outdoor shelter
+might operate. The Council acknowledges the need for operational flexibility to more effectively
+implement Policy 5.46.  The intent of Policy 4.5 would still be met because the Americans With
+Disabilities Act (ADA) requirements would be met though the state standards that are triggered
+through a building/site permit.
+Policy 4.9. Transitional urbanism. Encourage temporary activities and structures in places that are
+transitioning to urban areas to promote job creation, entrepreneurship, active streets, and human
+interaction.
+108. Finding: The Council interprets this policy as relating to temporary activities and informal
+structure in places that do not yet have high enough land values to support permanent
+development. The S2HC amendments do change allowances for temporary shelters in Chapter
+33.296 Temporary Activities. However, the purpose of those changes is to allow quick responses
+to housing and shelter emergencies, rather than to promote activities in places that are
+transitioning to urban areas. That said, the S2HC amendments related to outdoor shelters will
+provide opportunity for entrepreneurship and human interaction that is consistent with this
+policy.
+Health and safety
+Policy 4.10. Design for active living. Encourage development and building and site design that
+promotes a healthy level of physical activity in daily life.
+Policy 4.11. Access to light and air. Provide for public access to light and air by managing and shaping
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+the height and mass of buildings while accommodating urban-scale development.
+Policy 4.12. Privacy and solar access. Encourage building and site designs that consider privacy and
+solar access for residents and neighbors while accommodating urban-scale development.
+Policy 4.13. Crime-preventive design. Encourage building, site, and public infrastructure design
+approaches that help prevent crime.
+Policy 4.14. Fire prevention and safety. Encourage building and site design that improves fire
+prevention, safety, and reduces seismic risks.
+109. Finding Policies 4.10 through 4.14 provide direction regarding the promotion of health and
+safety in development. They address issues such as site planning, solar access, and design
+approaches that reduce crime or mitigate seismic hazards. The S2HC amendments support these
+policies by limiting the scale of Group Living uses in single-dwelling zones to 3,500 square feet,
+which is consistent with limitations for Household Living. In multi-dwelling and commercial/mixed-
+use zones, Group Living will be subject to the same height and FAR standards as Household Living.
+These amendments help ensure building mass and scale are controlled to improve privacy and
+access to light and air, while still permitting for urban development that is consistent with the
+established character of these zones. The development standards that would apply to shelters are
+not affected by the amendments.
+Residential areas
+Policy 4.15. Residential area continuity and adaptability. Encourage more housing choices to
+accommodate a wider diversity of family sizes, incomes, and ages, and the changing needs of
+households over time. Allow adaptive reuse of existing buildings, the creation of accessory dwelling
+units, and other arrangements that bring housing diversity that is compatible with the general scale
+and patterns of residential areas.
+
+110. Finding: The Comprehensive Plan defines Encourage as “Promote or foster using some
+combination of voluntary approaches, regulations, or incentives.” The S2HC amendments expand
+housing choices and promote housing diversity in residential areas by liberalizing regulatory
+allowances for Group Living. Group living arrangements, such as micro-apartments, congregate
+housing facilities, and dwelling units with multiple bedrooms, are typically more affordable than
+standard apartments or houses because they involve shared kitchens and bathrooms, which are
+expensive to build. Senior living facilities could be classified as Group Living if they share certain
+facilities. The S2HC amendments remove barriers to these housing types, which helps
+accommodate a wider diversity of incomes and ages in residential areas, consistent with this
+policy.
+The removal of the definition of “household” from the code acknowledges that the current
+definition may no longer reflect the full range of living arrangements in Portland today. Many
+Portlanders live in houses with people who are not related to them through blood or marriage,
+which had been the core of the code definition. In particular, people under 25 and older than 65
+often live in Group Living arrangements which were not acknowledged by the zoning code. The
+S2HC amendments better accommodate the housing needs of younger and older people and
+allow a residential structure to more easily be adapted over time.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 4.16. Scale and patterns. Encourage design and development that complements the general
+scale, character, and natural landscape features of neighborhoods. Consider building forms, scale,
+street frontage relationships, setbacks, open space patterns, and landscaping. Allow for a range of
+architectural styles and expression.
+
+111. Finding: The policy above emphasizes physical scale and patterns, and directs us to consider
+building forms, scale, street frontage relationships, setbacks, open space patterns, and
+landscaping. The changes being made with S2HC address group living, shelters, and occupied RVs
+and tiny houses on wheels.
+Group Living. The S2HC Group Living amendments are consistent with this policy by limiting the
+scale of Group Living in residential areas in a way that is equivalent to Household Living. In single-
+dwelling zones, Group Living will be limited to a maximum of 3,500 square feet, which is
+consistent with the limits for Household Living in these zones. Group living will also be subject to
+the base zone standards for setbacks, open space, landscaping, and frontage requirements. Larger
+Group Living structures would require conditional use review. In multi-dwelling zones, Group
+Living will be allowed under the same floor area ratio, height, and lot coverage limitations that
+apply to Household Living.
+Although S2HC will allow a greater range of living configurations, the number of Group Living uses
+in single-dwelling zones is not expected to dramatically increase with these changes. Data from
+the Bureau of Development Services permit records shows that between 2010 and 2020 there
+were only 12 conditional use reviews for Group Living uses citywide. Only 5 of those sites were in
+single-dwelling zones. Most were larger Group Living facilities in multi-dwelling zones. Four of
+those five sites in single-dwelling zones would still be conditional uses because they were larger
+facilities above the proposed 3,500 square foot threshold. One was a smaller house-size facility for
+young adults transitioning from foster care, which would have been allowed by right under the
+S2HC code. While there may be more small-scale Group Living uses permitted outright in single-
+dwelling zones under the new allowances, the BDS data suggests that Group Living uses tend to be
+larger facilities that will still trigger conditional use review in single-dwelling zones.
+Some testimony has raised concerns about the impact of supportive housing on neighborhood
+livability, safety or crime rates. First, we note that this concern does not relate to building forms,
+scale, street frontage relationships, setbacks, open space patterns, or landscaping. To the extent
+that this concern relates to “character”, the Council finds that supportive housing does not
+decrease property values nor increase criminal activity. We refer to an Urban Land Institute
+Report prepared for HUD in 1999, which examined the impact of supportive housing on
+neighborhoods and neighbors in Denver ("The Impact of Supportive Housing on Neighborhoods
+and Neighbors").
+Shelters. Most permanent homeless shelters would continue to require conditional use review in
+single-dwelling zones, which would consider physical compatibility and livability as review criteria.
+The Council adopted an amendment to allow the sites of institutional uses (such as faith-based
+institutions like churches, mosques, synagogues, etc.) to host small shelters (up to 20 beds).
+Changes to the Temporary Use chapter (33.296) also allow temporary shelters in most zones,
+including residential zones. These changes relate to the routine ongoing need for temporary
+facilities, not needs derived from larger natural disasters and emergencies (which had already
+been permitted prior to the S2HC project). These changes do not have a significant impact on
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+building forms, scale, street frontage relationships, setbacks, open space patterns, and
+landscaping, for these reasons:
+• Shelters in multi-dwelling zones will continue to be subject to all applicable base zone
+standards for setbacks, height, FAR, landscaping, and frontage requirements.
+• Allowing temporary shelters will not have an impact on the general scale and pattern of
+buildings and development because temporary uses cannot make permanent changes to the
+site (33.296.020).
+• Allowing institutional uses to host small shelters will not have an impact on the general scale
+and pattern of buildings and development because institutional uses already exist in
+residential neighborhoods and are already part of the existing neighborhood pattern and
+scale. Institutional uses tend to have larger sites (1 acre on average – based on the list of such
+sites compiled by staff), and already provide an occasional interruption of the rhythm of
+residential building arrangements. This code provision impacts approximately 1,300 sites in
+single dwelling zones, scattered in all neighborhoods. As discussed in response to Policy 3.2,
+the scale of the change from this is limited in relation to the overall amount of change that can
+be expected in single dwelling zones. Limiting this use to 20 beds means that any new
+permanent structures to accommodate this use can be of a scale that is roughly comparable
+to what is already allowed in single dwelling zones. For example, a triplex or fourplex allowed
+under HB 2001 might house 16 people if four families lived there. Moreover, institutional uses
+are subject to institutional development standards to ensure general compatibility with
+residential settings, and the S2HC amendments do not change those standards.
+• Some testimony has raised concerns about the impact of shelters on neighborhood livability,
+safety or crime rates. First, we note that this concern does not relate to building forms, scale,
+street frontage relationships, setbacks, open space patterns, or landscaping. To the extent
+that this concern relates to “character”, we find that shelters can have a positive impact on
+neighborhoods. A Guardian study of two US cities found that crime is likelier to go down than
+up in neighborhoods that host city sanctioned encampments (Guardian, “No link between
+homeless villages and crime rates”, May 2018). A Washington Post literature review similarly
+found no clear link between shelters and neighborhood decline (Washington Post, “D.C.
+residents fret over shelter plan, citing crime and property values” Terrence McCoy, 2/27/16).
+Occupied RVs and Tiny Houses on Wheels. The code change to allow occupancy of recreational
+vehicles and tiny houses on wheels will not impact scale and pattern of residential areas because
+the existing zoning code already allows and regulates where RVs and tiny houses on wheels may
+be parked, and those standards are not being changed. The change being made with S2HC
+concerns the interior use.
+Policy 4.17. Demolitions. Encourage alternatives to the demolition of sound housing, such as
+rehabilitation and adaptive reuse, especially affordable housing, and when new development would
+provide no additional housing opportunities beyond replacement.
+112. Finding: The S2HC amendments support this policy by allowing occupancy of recreational
+vehicles and tiny houses on wheels on residential lots, which expands options for increasing
+residential living opportunities on lots where there is an existing home.
+Policy 4.18. Compact single-family options. Encourage development and preservation of small
+resource-efficient and affordable single-family homes in all areas of the city.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 4.19. Resource efficient and healthy residential design and development. Support resource
+efficient and healthy residential design and development.
+113. Finding: Policies 4.18 and 4.19 address uses and design in residential areas. The S2HC
+amendments do not affect standards or use allowances related to single-family homes, and do not
+affect development standards that implement policies related to resource-efficient or healthy
+design. Therefore, these policies are not applicable.
+Design and development of centers and corridors
+Policy 4.20. Walkable scale. Focus services and higher-density housing in the core of centers to
+support a critical mass of demand for commercial services and more walkable access for customers.
+Policy 4.21. Street environment. Encourage development in centers and corridors to include
+amenities that create a pedestrian-oriented environment and provide places for people to sit, spend
+time, and gather.
+Policy 4.22. Relationship between building height and street size. Encourage development in centers
+and corridors that is responsive to street space width, thus allowing taller buildings on wider streets.
+Policy 4.23. Design for pedestrian and bicycle access. Provide accessible sidewalks, high-quality
+bicycle access, and frequent street connections and crossings in centers and corridors.
+Policy 4.24. Drive-through facilities. Prohibit drive through facilities in the Central City, and limit new
+development of new ones in the Inner Ring Districts and centers to support a pedestrian-oriented
+environment.
+Policy 4.25. Residential uses on busy streets. Improve the livability of places and streets with high
+motor vehicle volumes. Encourage landscaped front setbacks, street trees, and other design
+approaches to buffer residents from street traffic.
+Policy 4.26. Active gathering places. Locate public squares, plazas, and other gathering places in
+centers and corridors to provide places for community activity and social connections. Encourage
+location of businesses, services, and arts adjacent to these spaces that relate to and promote the use
+of the space.
+Policy 4.27. Protect defining features. Protect and enhance defining places and features of centers
+and corridors, including landmarks, natural features, and historic and cultural resources.
+Policy 4.28. Historic buildings in centers and corridors. Protect and encourage the restoration and
+improvement of historic resources in centers and corridors.
+Policy 4.29. Public art. Encourage new development and public places to include design elements and
+public art that contribute to the distinct identities of centers and corridors, and that highlight the
+history and diverse cultures of neighborhoods.
+114. Finding: Policies 4.20 through 4.29 address design and development in centers and along
+corridors. The policies provide guidance on development scale, streetscapes, gathering spaces,
+public art, and historic preservation. As described in the findings for Policies 3.12 through 3.20 and
+3.44 through 3.46, the S2HC amendments for liberalizing Group Living and allowing greater
+flexibility for shelter siting are consistent with the role of multi-dwelling and commercial/mixed-
+use zones in centers and along corridors. The S2HC amendments to not impact programs related
+to street design, public art, or the planning and creation of public gathering spaces. Historic
+preservation is addressed in separate findings below (policies 4.46 through 4.58).
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Transitions
+Policy 4.30. Scale transitions. Create transitions in building scale in locations where higher-density
+and higher-intensity development is adjacent to smaller-scale single-dwelling zoning. Ensure that new
+high-density and large-scale infill development adjacent to single-dwelling zones incorporates design
+elements that soften transitions in scale and limit light and privacy impacts on adjacent residents.
+Policy 4.31. Land use transitions. Improve the interface between non-residential uses and residential
+uses in areas where commercial or employment uses are adjacent to residentially-zoned land.
+Policy 4.32. Industrial edge. Protect non-industrially zoned parcels from the adverse impacts of
+facilities and uses on industrially zoned parcels using a variety of tools, including but not limited to
+vegetation, physical separation, land acquisition, and insulation to establish buffers between industrial
+sanctuaries and adjacent residential or mixed-use areas to protect both the viability of long-term
+industrial operations and the livability of adjacent areas.
+115. Finding: Policies 4.30 through 4.32 address scale and use transitions. The S2HC amendments
+add flexibility for shelter siting; establish outdoor shelters as a new community service use;
+liberalize the allowances for Group Living; and allow permanent occupancy of recreational
+vehicles and tiny houses on wheels. As described in the findings for Policies 4.1 through 4.3
+related to context-sensitive design, the S2HC amendments regulate development scale in a way
+that is generally consistent with the current code. The S2HC amendments do not change any
+existing building scale, setback or landscaping standards that apply where zoning designations
+transition. Any Group Living use or shelter that is built taking advantage of the new allowances
+would still have to meet existing development standards that apply to these transitional
+situations.
+Off-site impacts
+Policy 4.33. Off-site impacts. Limit and mitigate public health impacts, such as odor, noise, glare, light
+pollution, air pollutants, and vibration that public facilities, land uses, or development may have on
+adjacent residential or institutional uses, and on significant fish and wildlife habitat areas. Pay
+attention to limiting and mitigating impacts to under-served and under-represented communities.
+Policy 4.34. Auto-oriented facilities, uses, and exterior displays. Minimize the adverse impacts of
+highways, auto-oriented uses, vehicle areas, drive-through areas, signage, and exterior display and
+storage areas on adjacent residential uses.
+Policy 4.35. Noise impacts. Encourage building and landscape design and land use patterns that limit
+and/or mitigate negative noise impacts to building users and residents, particularly in areas near
+freeways, regional truckways, major city traffic streets, and other sources of noise.
+Policy 4.36. Air quality impacts. Encourage building and landscape design and land use patterns that
+limit and/or mitigate negative air quality impacts to building users and residents, particularly in areas
+near freeways, regional truckways, high traffic streets, and other sources of air pollution.
+Policy 4.37. Diesel emissions. Encourage best practices to reduce diesel emissions and related impacts
+when considering land use and public facilities that will increase truck or train traffic.
+Policy 4.38. Light pollution. Encourage lighting design and practices that reduce the negative impacts
+of light pollution, including sky glow, glare, energy waste, impacts to public health and safety,
+disruption of ecosystems, and hazards to wildlife.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 4.39. Airport noise. Partner with the Port of Portland to require compatible land use
+designations and development within the noise-affected area of Portland International Airport, while
+providing disclosure of the level of aircraft noise and mitigating the potential impact of noise within
+the affected area.
+Policy 4.40. Telecommunication facility impacts. Mitigate the visual impact of telecommunications
+and broadcast facilities near residentially zoned areas through physical design solutions.
+116. Finding: Policies 4.33 through 4.40 generally address impacts that can negatively affect adjacent
+residential uses and areas. They are implemented through a variety of design and impact-related
+performance standards in the zoning code. Current base zone development standards address
+potential off-site impacts through existing setback requirements, tree density standards,
+limitations on commercial uses and signage. Offsite impacts are additionally addressed in Chapter
+33.262. Existing regulations in the Portland International Airport Noise Impact Zone (33.470) are
+unchanged, and areas with high noise impacts (68 and higher DNL) where new residential uses are
+prohibited are unaffected by the housing and shelter allowances in the S2HC amendments.
+The S2HC amendments do not change any site or building design regulations, or any of the specific
+implementing regulations related to these policies. In addition, maximum building area limitations
+for Group Living uses in single-dwelling zones will help ensure that impacts are similar to those
+associated with Household Living. Housing or shelters that are built as a result of these
+amendments will be otherwise required to meet the development standards of the base zone,
+and the applicable off-site impact standards. Outdoor shelters are further subject to standards
+that help mitigate visual impacts, including 25-foot required setbacks from abutting R zoned
+properties and required screening from the street and abutting properties. For any Group Living
+use or shelter that requires conditional use review, the review will consider “livability” impacts, in
+terms of noise, glare from lights, late-night operations, odors, litter, and privacy issues.
+Scenic resources
+Policy 4.41. Scenic resources. Enhance and celebrate Portland’s scenic resources to reinforce local
+identity, histories, and cultures and contribute toward way-finding throughout the city. Consider views
+of mountains, hills, buttes, rivers, streams, wetlands, parks, bridges, the Central City skyline, buildings,
+roads, art, landmarks, or other elements valued for their aesthetic appearance or symbolism.
+Policy 4.42. Scenic resource protection. Protect and manage designated significant scenic resources
+by maintaining scenic resource inventories, protection plans, regulations, and other tools.
+Policy 4.43. Vegetation management. Maintain regulations and other tools for managing vegetation
+in a manner that preserves or enhances designated significant scenic resources.
+Policy 4.44. Building placement, height, and massing. Maintain regulations and other tools related to
+building placement, height, and massing to preserve designated significant scenic resources.
+Policy 4.45. Future development. Encourage new public and private development to create new
+public viewpoints providing views of Portland’s rivers, bridges, surrounding mountains, hills and
+buttes, the Central City skyline, and other landmark features.
+117. Finding: The City has designated scenic resources in an adopted inventory and protects them
+through an overlay zone (Chapter 33.480) which addresses landscaping, setbacks, screening,
+building facades and tree removal. The S2HC amendments do not change this program. Any Group
+Living use or shelter developed within the Scenic Resource zone would be subject to the standards
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+of Chapter 33.480. Further, the new outdoor shelter use is prohibited within the Scenic Resource
+overlay.
+Historic and cultural resources
+Policy 4.46. Historic and cultural resource protection. Protect and encourage the restoration of
+historic buildings, places, and districts that contribute to the distinctive character and history of
+Portland’s evolving urban environment.
+Policy 4.47. State and federal historic resource support. Advocate for state and federal policies,
+programs, and legislation that would enable stronger historic resource designations, protections, and
+rehabilitation programs.
+Policy 4.48. Continuity with established patterns. Encourage development that fills in vacant and
+underutilized gaps within the established urban fabric, while preserving and complementing historic
+resources.
+Policy 4.49. Resolution of conflicts. Adopt and periodically update design guidelines for unique
+historic districts. Refine base zoning in historic districts to consider the character of the historic
+resources in the district.
+Policy 4.50. Demolition. Protect historic resources from demolition. Provide opportunities for public
+comment, and encourage pursuit of alternatives to demolition or other actions that mitigate for the
+loss.
+Policy 4.51. City-owned historic resources. Maintain City-owned historic resources with necessary
+upkeep and repair.
+Policy 4.52. Historic Resources Inventory. Maintain and periodically update Portland’s Historic
+Resources Inventory to inform historic and cultural resource preservation strategies.
+Policy 4.53. Preservation equity. Expand historic preservation inventories, regulations, and programs
+to encourage historic preservation in areas and in communities that have not benefited from past
+historic preservation efforts, especially in areas with high concentrations of under-served and/or
+under-represented people.
+Policy 4.54. Cultural diversity. Work with Portland’s diverse communities to identify and preserve
+places of historic and cultural significance.
+Policy 4.55. Cultural and social significance. Encourage awareness and appreciation of cultural
+diversity and the social significance of historic places and their roles in enhancing community identity
+and sense of place.
+Policy 4.56. Community structures. Encourage the adaptive reuse of historic community structures,
+such as former schools, meeting halls, and places of worship, for arts, cultural, and community uses
+that continue their role as anchors for community and culture.
+Policy 4.57. Economic viability. Provide options for financial and regulatory incentives to allow for the
+productive, reasonable, and adaptive reuse of historic resources.
+Policy 4.58. Archaeological resources. Protect and preserve archaeological resources, especially those
+sites and objects associated with Native American cultures. Work in partnership with Sovereign tribes,
+Native American communities, and the state to protect against disturbance to Native American
+archaeological resources.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+118. Finding: These policies address historic and cultural resources. The City’s regulations for historic
+and cultural resource preservation are found in Chapter 33.445. No changes to these historic or
+cultural resource protections are proposed with the S2HC amendments; therefore, these policies
+do not apply.
+Public art
+Policy 4.59. Public art and development. Create incentives for public art as part of public and private
+development projects.
+119. Finding: This policy is not applicable. No changes to public art programs or new incentives are
+proposed with the S2HC project.
+Resource-efficient design and development
+Policy 4.60. Rehabilitation and adaptive reuse. Encourage rehabilitation and adaptive reuse of
+buildings, especially those of historic or cultural significance, to conserve natural resources, reduce
+waste, and demonstrate stewardship of the built environment.
+Policy 4.61. Compact housing. Promote the development of compact, space- and energy-efficient
+housing types that minimize use of resources such as smaller detached homes or accessory dwellings
+and attached homes.
+Policy 4.62. Seismic and energy retrofits. Promote seismic and energy-efficiency retrofits of historic
+buildings and other existing structures to reduce carbon emissions, save money, and improve public
+safety.
+Policy 4.63. Life cycle efficiency. Encourage use of technologies, techniques, and materials in building
+design, construction, and removal that result in the least environmental impact over the life cycle of
+the structure.
+Policy 4.64. Deconstruction. Encourage salvage and reuse of building elements when demolition is
+necessary or appropriate.
+Policy 4.65. Materials and practices. Encourage use of natural, resource-efficient, recycled, recycled
+content, and non-toxic building materials and energy-efficient building practices.
+Policy 4.66. Water use efficiency. Encourage site and building designs that use water efficiently and
+manage stormwater as a resource.
+Policy 4.67. Optimizing benefits. Provide mechanisms to evaluate and optimize the range of benefits
+from solar and renewable resources, tree canopy, ecoroofs, and building design.
+Policy 4.68. Energy efficiency. Encourage and promote energy efficiency significantly beyond the
+Statewide Building Code and the use of solar and other renewable resources in individual buildings
+and at a district scale.
+Policy 4.69. Reduce carbon emissions. Encourage a development pattern that minimizes carbon
+emissions from building and transportation energy use.
+Policy 4.70. District energy systems. Encourage and remove barriers to the development and
+expansion of low-carbon heating and cooling systems that serve multiple buildings or a broader
+district.
+Policy 4.71. Ecodistricts. Encourage ecodistricts, where multiple partners work together to achieve
+sustainability and resource efficiency goals at a district scale.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 4.72. Energy-producing development. Encourage and promote development that uses
+renewable resources, such as solar, wind, and water to generate power on-site and to contribute to
+the energy grid.
+120. Finding: Policies 4.60 through 4.72 address resource efficiency and resilience – primarily related
+to building design. This includes consideration of energy use, water use, use of recycled and
+healthy building materials, seismic standards, and adoptive re-use. The S2HC amendments do not
+change any existing design or development standards that have an impact on resource efficiency.
+The S2HC amendments also do not impact programs related to water or energy efficiency,
+recycling, or seismic resiliency. Generally, these policies are not applicable. However, the
+amendments do support Policy 4.61 because they enable greater flexibility for Group Living, which
+can be more space- and resource-efficient due to multiple residents sharing the same kitchen and
+bath facilities. By allowing permanent occupancy of recreational vehicles and tiny houses on
+wheels, the amendments also promote tiny homes as an alternative form of compact low-impact
+living, with the added efficiency of locating on the same lot as an existing home.
+Designing with nature
+Policy 4.73. Design with nature. Encourage design and site development practices that enhance, and
+avoid the degradation of, watershed health and ecosystem services and that incorporate trees and
+vegetation.
+Policy 4.74. Flexible development options. Encouraging flexibility in the division of land, the siting and
+design of buildings, and other improvements to reduce the impact of development on
+environmentally-sensitive areas and to retain healthy native and beneficial vegetation and trees.
+Policy 4.75. Low-impact development and best practices. Encourage use of low-impact development,
+habitat-friendly development, bird-friendly design, and green infrastructure.
+Policy 4.76. Impervious surfaces. Limit use of and strive to reduce impervious surfaces and associated
+impacts on hydrologic function, air and water quality, habitat connectivity, tree canopy, and urban
+heat island effects.
+Policy 4.77. Hazards to wildlife. Encourage building, lighting, site, and infrastructure design and
+practices that provide safe fish and wildlife passage, and reduce or mitigate hazards to birds, bats, and
+other wildlife.
+Policy 4.78. Access to nature. Promote equitable, safe, and well-designed physical and visual access to
+nature for all Portlanders, while also maintaining the functions and values of significant natural
+resources, fish, and wildlife. Provide access to major natural features, including:
+• Water bodies such as the Willamette and Columbia rivers, Smith and Bybee Lakes, creeks,
+streams, and sloughs.
+• Major topographic features such as the West Hills, Mt. Tabor, and the East Buttes.
+• Natural areas such as Forest Park and Oaks Bottom.
+121. Finding. Policies 4.73 through 4.78 provide direction regarding the interface between
+development and natural features and functions. They address site and building design and access
+to nature. The S2HC amendments do not change existing design or development standards that
+implement these policies. Any permanent shelter that is built pursuant to the new allowances
+would still be subject to the base zone standards for building coverage and landscaping, which
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+along with Title 11, regulate tree planting and other green elements. Temporary shelters cannot
+make permanent improvements to the site (33.296).
+Group living in single-dwelling zones will be limited to a maximum of 3,500 square feet (in
+addition to other base zone limitations) which is consistent with the limits for Household Living in
+these zones. This limitation, along with maximum building coverage standards (which will apply to
+both household and Group Living uses), helps limit building footprint and provides more space for
+vegetation. Group living in other zones is subject to the same building coverage, FAR, landscaping,
+and other standards that apply to Household Living in those zones. The S2HC amendments also do
+not impact programs related to accessing nature.
+There is currently a significant amount of unsanctioned camping in natural areas, including
+identified Goal 5 resources. This is documented by a map presented to City Council showing where
+people have been observed camping over the winter of 2020/21. A map of environmental overlay
+zones (the City’s primary Goal 5 implementation tool) is also in the record, for reference. The
+S2HC project will provide sanctioned alternatives in more appropriate locations. The topic of
+temporary shelter and impact to natural areas is discussed in greater detail in response to Chapter
+7 policies. Except in the case of temporary facilities provided in response to a natural disaster or
+emergency, the amendments adopted by Council prohibit permanent and temporary outdoor
+shelter use in the City’s environmental, river natural, river environmental, and scenic overlays; and
+in the Special Flood Hazard Areas. Temporary mass shelters would be only allowed in existing
+buildings within these overlays.
+Hazard-resilient design
+Policy 4.79. Natural hazards and climate change risks and impacts. Limit development in or near
+areas prone to natural hazards, using the most current hazard and climate change-related information
+and maps.
+Policy 4.80. Geological hazards. Evaluate slope and soil characteristics, including liquefaction
+potential, landslide hazards, and other geologic hazards.
+Policy 4.81. Disaster-resilient development. Encourage development and site-management
+approaches that reduce the risks and impacts of natural disasters or other major disturbances and
+that improve the ability of people, wildlife, natural systems, and property to withstand and recover
+from such events.
+Policy 4.83. Urban heat islands. Encourage development, building, landscaping, and infrastructure
+design that reduce urban heat island effects.
+Policy 4.82. Portland Harbor Facilities. Reduce natural hazard risks to critical public and private
+energy and transportation facilities in the Portland Harbor.
+Policy 4.84. Planning and disaster recovery. Facilitate effective disaster recovery by providing
+recommended updates to land use designations and development codes, in preparation for natural
+disasters.
+122. Finding: Policies 4.79 through 4.84 provide direction regarding the interface of development
+with natural hazards. The policies address climate, geology, disaster recovery, and reducing risks
+at harbor-related facilities.
+The S2HC amendments to not change existing city programs related to disaster planning and
+reducing hazard-related risks. City programs that are deemed in compliance with Metro Title 3
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+requirements for flood management, and erosion and sediment control (i.e., City Title 10 Erosion
+Control, and the balanced cut and fill requirements of City Title 24), as well as the environmental
+overlay zones are unchanged by these amendments and will ensure any new development will be
+done in a way to protect people and property from hazards.
+The S2HC amendments have no impact on harbor lands, so policy 4.82 is not applicable.
+The more flexible provision for temporary shelters will make it possible for the City and other
+partner agencies to respond more quickly to seasonal shelter needs related to winter cold snaps,
+summer heat, and wildfire smoke events.
+Additional findings related to this topic are found in response to Comprehensive Plan policies
+8.104 through 8.111, and state Goal 7.
+Healthy food
+Policy 4.85. Grocery stores and markets in centers. Facilitate the retention and development of
+grocery stores, neighborhood-based markets, and farmer’s markets offering fresh produce in centers.
+Policy 4.86. Neighborhood food access. Encourage small, neighborhood-based retail food
+opportunities, such as corner markets, food co-ops, food buying clubs, and community-supported
+agriculture pickup/drop-off sites, to fill in service gaps in food access across the city.
+Policy 4.87. Growing food. Increase opportunities to grow food for personal consumption, donation,
+sales, and educational purposes.
+Policy 4.88. Access to community gardens. Ensure that community gardens are allowed in areas close
+to or accessible via transit to people living in areas zoned for mixed-use or multi-dwelling
+development, where residents have few opportunities to grow food in yards.
+123. Finding: Policies 8.85 through 4.88 address ways that programs and land use plans can facilitate
+better access to healthy food. These policies do not apply because the S2HC amendments do not
+change any programs related to food access or change retail allowances or zoning that would
+directly affect food access.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Chapter 5: Housing
+Goal 5.A: Housing diversity. Portlanders have access to high-quality affordable housing that
+accommodates their needs, preferences, and financial capabilities in terms of different types, tenures,
+density, sizes, costs, and locations.
+124. Finding: The S2HC amendments expand housing diversity by liberalizing allowances for Group
+Living. Group living arrangements, such as micro-apartments, congregate housing facilities, and
+dwelling units with multiple bedrooms, are typically more affordable than standard apartments or
+houses because they involve a larger number of bedrooms sharing kitchens and bathrooms, which
+are expensive to build. The S2HC amendments remove barriers to development of a wider variety
+of housing, which allows Portland residents greater opportunity to access housing that suits their
+needs, preferences, and financial capabilities. As described in findings for Statewide Planning Goal
+10, shelters are not considered housing.
+Goal 5.B: Equitable access to housing. Portland ensures equitable access to housing, making a special
+effort to remove disparities in housing access for people with disabilities, people of color, low-income
+households, diverse household types, and older adults.
+125. Finding: City Council defines “equitable access to housing” as a goal to create housing that is
+accessible and affordable to a wide range of households, including people with disabilities, people
+of color, low-income households, diverse household types, and older adults. The S2HC
+amendments are consistent with this goal because they liberalize the allowances for Group Living,
+which provides greater housing choice and removes barriers to more affordable options. The
+change allows more equitable access to housing in more neighborhoods, especially for low-
+income Portland residents. Overall, the S2HC project is filling in the gap that exists between a tent
+and traditional housing. The people most impacted by increased housing opportunities will be
+houseless people and people seeking alternative forms of housing. The City’s Point in Time Counts
+reveal that American Indian, Alaska Native, Native Hawaiian, Pacific Islander, and Black and
+African American populations are over-represented in Portland’s homeless population. The S2HC
+code changes add housing options for very low income individuals, who had been identified in the
+City’s acknowledged Housing Needs Analysis as being most under-served.
+Goal 5.C: Healthy connected city. Portlanders live in safe, healthy housing that provides convenient
+access to jobs and to goods and services that meet daily needs. This housing is connected to the rest
+of the city and region by safe, convenient, and affordable multimodal transportation.
+126. Finding: City Council interprets this goal as to encourage the development of a wide range of
+housing options in and around complete neighborhoods that have access to transit, bikeways and
+sidewalks. Homelessness and the housing cost burden has a direct health impact on many
+Portlanders – either through added economic stress and the inability to afford medical care, or
+through the direct impact of living outdoors (“Health in Housing, Exploring the Intersection
+Between Housing and Health Care”, The Center for Outcomes research and Education, Providence
+Health & Services, Feb. 2016). The S2HC project is supporting human health because it focuses on
+providing safe, decent and affordable housing (and shelter) options to every Portlander that needs
+it and provides increasing the available housing capacity – and opportunities for more affordable
+mission-driven supportive housing. The S2HC amendments increase housing opportunities
+citywide, including in complete neighborhoods with access to transit, bikeways, and sidewalks.
+Goal 5.D: Affordable housing. Portland has an adequate supply of affordable housing units to meet
+the needs of residents vulnerable to increasing housing costs.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+127. Finding: City Council interprets this goal as to encourage the development of regulated
+affordable housing that provides long-term stability to low-income households. The rising cost of
+housing is a top concern across the city, as more people are finding it difficult to afford housing.
+The S2HC amendments do not directly impact programs to produce regulated affordable housing.
+However, by liberalizing Group Living allowances, the amendments support development of
+affordable mission-driven supportive housing in Group Living arrangements, such as single room
+occupancy buildings. An example of this is Findley Commons, a 35-unit regulated affordable
+housing project underway now on a church property in SE Portland. Fifteen of the 35 units in that
+building are SRO units. That project would have benefitted from the S2HC changes because it
+would no longer require a discretionary land use review. The amendments also support the
+voluntary production of housing that is typically lower-cost and more affordable to low-income
+residents.
+Goal 5.E: High-performance housing. Portland residents have access to resource-efficient and high-
+performance housing for people of all abilities and income levels.
+128. Finding: The S2HC amendments do not modify any development or building standards that
+ensure housing is energy- or resource-efficient. This goal does not apply. .
+Diverse and expanding housing supply
+Policy 5.1. Housing supply. Maintain sufficient residential development capacity to accommodate
+Portland’s projected share of regional household growth.
+Policy 5.2. Housing growth. Strive to capture at least 25 percent of the seven-county region’s
+residential growth (Multnomah, Washington, Clackamas, Yamhill, Columbia, Clark, and Skamania
+counties).
+Policy 5.3. Housing potential. Evaluate plans and investments for their impact on housing capacity,
+particularly the impact on the supply of housing units that can serve low- and moderate-income
+households, and identify opportunities to meet future demand.
+129. Finding: The S2HC project allows Group Living in more zones without conditional use approval,
+which increases the city’s housing capacity by removing barriers to development of more
+affordable housing types, including micro-apartments and congregate housing facilities. Because
+Group Living housing types are typically more affordable than standard apartments or houses,
+they can better serve the needs of low- and moderate-income households. Findings that address
+housing supply in response to Statewide Planning Goal 10 are also incorporated here by reference.
+Policy 5.4. Housing types. Encourage new and innovative housing types that meet the evolving needs
+of Portland households, and expand housing choices in all neighborhoods. These housing types
+include but are not limited to single-dwelling units; multi-dwelling units; accessory dwelling units;
+small units; pre-fabricated homes such as manufactured, modular, and mobile homes; co-housing; and
+clustered housing/clustered services.
+130. Finding: “Encourage” is defined in the Comprehensive Plan as “promote or foster using some
+combination of voluntary approaches, regulations, or incentives.” The S2HC amendments
+promote the evolving needs of Portland households by allowing for more flexibility for Group
+Living arrangements. This responds to the evolving housing industry and households’ evolving
+needs by facilitating innovative housing types such as micro-apartments, some forms of co-
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+housing with shared kitchens, some retirement communities. These housing types are facilitated
+or encouraged by removing regulatory code barriers to their siting and development.
+Policy 5.5. Housing in centers. Apply zoning in and around centers that allows for and supports a
+diversity of housing that can accommodate a broad range of households, including multi-dwelling and
+family-friendly housing options.
+131. Finding: The additional flexibility for housing development afforded by the S2HC amendments
+apply citywide, not only in centers. However, the amendments support housing diversity in
+centers by liberalizing allowances for Group Living uses. These amendments help accommodate a
+broader range of households in centers, particularly those with lower incomes who cannot afford
+to rent a typical apartment or purchase a house.
+Policy 5.6. Middle housing. Enable and encourage development of middle housing. This includes
+multi-unit or clustered residential buildings that provide relatively smaller, less expensive units; more
+units; and a scale transition between the core of the mixed use center and surrounding single family
+areas. Where appropriate, apply zoning that would allow this within a quarter mile of designated
+centers, corridors with frequent service transit, high capacity transit stations, and within the Inner
+Ring around the Central City.
+132. Finding: The S2HC amendments do not specifically address middle housing; however, some
+middle housing developments—such as co-housing arrangements and clusters of small cottages —
+could be classified as Group Living. As such, the S2HC enables certain forms of middle housing by
+removing barriers to Group Living. This greater range of options accommodates a broader
+diversity of income levels, allowing more people to live close to centers and corridors.
+Policy 5.7. Adaptable housing. Encourage adaptation of existing housing and the development of new
+housing that can be adapted in the future to accommodate the changing variety of household types.
+133. Finding: Liberalizing allowances for Group Living encourages housing adaptability by allowing
+more residents to share kitchen and bathroom facilities. For example, an existing home could be
+adapted into a Group Living arrangement by adding more bedrooms. Allowing permanent
+occupancy of recreational vehicles and tiny houses on wheels also encourages adaptability
+because these are inherently mobile and adaptable forms of living arrangements. For example, an
+RV or tiny house could be more easily added to a lot with an existing home to accommodate an
+additional household, or to meet the needs of a multi-generational family (for example a
+grandparent visiting seasonally, or a college student home for the summer). With the COVID-
+related economic impacts there are an increased number of families doubled up – with two
+families sharing one dwelling. The change to remove the definition of “household”, and changes
+to Group Living will ensure that those families are not subjected to zoning violations simply
+because they are not related by blood or marriage/domestic partnership.
+Policy 5.8. Physically-accessible housing. Allow and support a robust and diverse supply of affordable,
+accessible housing to meet the needs of older adults and people with disabilities, especially in centers,
+station areas, and other places that are proximate to services and transit.
+Policy 5.9. Accessible design for all. Encourage new construction and retrofitting to create physically-
+accessible housing, extending from the individual unit to the community, using Universal Design
+Principles.
+134. Finding. The S2HC amendments include amendments to the visitability standards in the single-
+dwelling and multi-dwelling zones. Visitability standards were added to these zones as part of the
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Better Housing by Design and Residential Infill projects to increase the number of units that will or
+are readily adaptable to meet the needs of our aging and disabled communities, consistent with
+Policies 5.8 and 5.9. The amendments in this ordinance do not change the visitability standards;
+rather, they revise the standards referencing ICC A117.1 to remove cross references to the
+international code council set of standards for Type C visitable units. Instead, specific
+requirements for visitable units are now wholly contained within the zoning code. The intent of
+these amendments is to help facilitate and streamline implementation and plan review as well as
+keep all the relevant standards in one location. By making implementation clearer, these changes
+advance this policy.
+Policy 5.10. Coordinate with fair housing programs. Foster inclusive communities, overcome
+disparities in access to community assets, and enhance housing choice for people in protected classes
+throughout the city by coordinating plans and investments to affirmatively further fair housing.
+135. Finding: The Comprehensive Plan defines “foster” to mean “encourage or guide the incremental
+development of something over a long period of time.” The S2HC amendments encourage and
+enhance housing choice by liberalizing allowances for Group Living and allowing permanent
+occupancy of recreational vehicles and tiny houses on wheels. By removing barriers to these
+typically lower-cost living arrangements, the amendments enhance choices and expand access to
+otherwise high cost Portland neighborhoods for low-income, cost-burdened, and other vulnerable
+populations.
+Housing access
+Policy 5.11. Remove barriers. Remove potential regulatory barriers to housing choice for people in
+protected classes to ensure freedom of choice in housing type, tenure, and location.
+136. Finding: The S2HC amendments remove regulatory barriers to choice by liberalizing allowances
+for Group Living and permanent occupancy of recreational vehicles and tiny houses on wheels.
+Currently, Group Living is only allowed in single-dwelling zones through conditional use review. In
+multi-dwelling zones, Group Living with more than 15 residents also requires conditional use
+approval. The S2HC amendments remove this regulatory barrier by allowing Group Living outright
+in multi-dwelling zones and allowing up to 3,500 square feet of Group Living outright in single-
+dwelling zones. Currently, RVs and tiny houses on wheels are prohibited from being permanently
+occupied on typical residential lots. The amendments remove this regulatory barrier by permitting
+permanent occupancy of RVs and tiny houses on wheels on the site of a house, attached house or
+manufactured home. By removing regulatory barriers to these more affordable types of living
+arrangements, the S2HC amendments help ensure freedom of choice for low-income people and
+those in other protected classes.
+Policy 5.12. Impact analysis. Evaluate plans and investments, significant new infrastructure, and
+significant new development to identify potential disparate impacts on housing choice, access, and
+affordability for protected classes and low-income households. Identify and implement strategies to
+mitigate the anticipated impacts.
+Policy 5.13. Housing stability. Coordinate plans and investments with programs that prevent
+avoidable, involuntary evictions and foreclosures.
+Policy 5.14. Preserve communities. Encourage plans and investments to protect and/or restore the
+socioeconomic diversity and cultural stability of established communities.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 5.15. Gentrification/displacement risk. Evaluate plans and investments, significant new
+infrastructure, and significant new development for the potential to increase housing costs for, or
+cause displacement of communities of color, low- and moderate-income households, and renters.
+Identify and implement strategies to mitigate the anticipated impacts.
+Policy 5.16. Involuntary displacement. When plans and investments are expected to create
+neighborhood change, limit the involuntary displacement of those who are under-served and under-
+represented. Use public investments and programs, and coordinate with nonprofit housing
+organizations (such as land trusts and housing providers) to create permanently-affordable housing
+and to mitigate the impacts of market pressures that cause involuntary displacement.
+137. Finding: The City Council interprets Policies 5.12 to 5.16 as requiring evaluation and analysis as
+to who will benefit and who will be burdened by a planning decision, including amendments to
+the Comprehensive Plan, the Comprehensive Plan Map, the Zoning Code, and the Zoning Map.
+The Council interprets “involuntary displacement” to occur when a resident is forced to relocate
+due to factors that are beyond the resident’s control including, but not limited to, increased rents
+due to market pressure and decisions by landlords to redevelop property.
+The S2HC project adds flexibility for shelter siting; establishes outdoor shelters as a new
+community service use; liberalizes the allowances for Group Living; and allows permanent
+occupancy of recreational vehicles and tiny houses on wheels. This directly impacts owners of
+property that will now have additional flexibility for siting shelters, Group Living uses, or tiny
+homes. Beneficiaries could include any Portlanders seeking shelter or low-cost living
+arrangements, with the biggest impact expected to be on houseless people and people seeking
+alternative forms of shelter or housing. These impacts will not be concentrated in any one
+neighborhood because the amendments apply on a citywide scale.
+These changes are not likely to result in direct displacement or economic displacement because:
+• Shelters are not driven by profits and are typically developed by nonprofit organizations
+(by definition). There is no evidence that shelters drive a significant change in property
+values one direction or another (Washington Post, “D.C. residents fret over shelter plan,
+citing crime and property values” Terrence McCoy, 2/27/16). Therefore, increasing
+allowances for shelters is unlikely to place pressure on existing property owners to sell
+their land or evict existing residents, and will not lead to increased property values.
+• Allowing the long-term residential occupancy of recreational vehicles and tiny houses on
+wheels does not displace the residents of an existing property where the vehicle may be
+parked. It creates a new option for providing residential living opportunities through
+infill, not redevelopment.
+• Group living and the allowance for occupancy of RVs and tiny houses on wheels will
+allow more flexibility for existing homeowners to adapt to changing economic conditions
+by adding people to their household, creating larger multi-generational households, or
+renting rooms long term. It also allows property owners the option of adaptively re-using
+an existing house and converting it to a series of micro-apartments with shared kitchen
+and community spaces.
+Policy 5.17. Land banking. Support and coordinate with community organizations to hold land in
+reserve for affordable housing, as an anti-displacement tool, and for other community development
+purposes.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+138. Finding: This policy is not relevant because this ordinance amends the zoning code and land
+banking programs are not authorized or managed through the zoning code.
+Policy 5.18. Rebuild communities. Coordinate plans and investments with programs that enable
+communities impacted by involuntary displacement to maintain social and cultural connections, and
+re-establish a stable presence and participation in the impacted neighborhoods.
+139. Finding: This ordinance does not establish new programs. By liberalizing the allowances for
+Group Living, the S2HC amendments create the opportunity for increased housing opportunities,
+including typically lower-cost housing. This could provide new options for properties in the
+impacted neighborhoods that are included the Portland Housing Bureau’s North/Northeast
+Preference Policy, which gives priority placement to people who were displaced, are at risk of
+displacement, or who are descendants of households that were displaced due to urban renewal in
+North and Northeast Portland.
+Policy 5.19. Aging in place. Encourage a range of housing options and supportive environments to
+enable older adults to remain in their communities as their needs change.
+140. Finding: The S2HC amendments remove regulatory barriers to housing types that could help
+meet the needs of older adults as their needs change. Some retirement communities may be
+classified as Group Living if they share kitchen facilities; as such, allowing Group Living without
+conditional use review in more zones can facilitate development of housing that meets the needs
+of senior citizens. The changes to Group Living regulations could enable the creation of small-scale
+retirement facilities that are more distributed within neighborhoods or allow retired individuals to
+more easily form co-housing facilities with supportive care services. In addition, allowing the long-
+term residential occupancy of recreational vehicles and tiny houses on wheels allows more
+options for housing aging adults. For example, seniors could live in a tiny house on the same
+property as their adult children.
+Housing location
+Policy 5.20. Coordinate housing needs in high-poverty areas. Meet the housing needs of under-
+served and under-represented populations living in high-poverty areas by coordinating plans and
+investments with housing programs.
+Policy 5.21. Access to opportunities. Improve equitable access to active transportation, jobs, open
+spaces, high-quality schools, and supportive services and amenities in areas with high concentrations
+of under-served and under-represented populations and an existing supply of affordable housing.
+Policy 5.22. New development in opportunity areas. Locate new affordable housing in areas that
+have high/medium levels of opportunity in terms of access to active transportation, jobs, open spaces,
+high-quality schools, and supportive services and amenities.
+
+141. Finding: The Census Bureau uses a set of income thresholds that vary by family size and
+composition to determine who classifies as impoverished. If a family's total income is less than the
+family's threshold than that family and every individual in it is considered to be living in poverty.
+High poverty areas are interpreted to mean areas with more than 25% poverty rate. According to
+US HUD, census tracts around Cully, Portsmouth, and the Central City have the highest poverty
+rates (U.S. Census Bureau, 2015-2019 American Community Survey 5-year estimates). Housing
+needs are coordinated as these high poverty areas are also the areas that qualify for the Low-
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Income Housing Tax Credit, a tool that is frequently used in combination with other city-incentives
+including CET and SDC waivers to produce regulated affordable housing units.
+The S2HC amendments remove regulatory barriers to housing and alternative living arrangements
+throughout the city by liberalizing the allowances for Group Living and allowing permanent
+occupancy of tiny houses on wheels. These changes increase opportunities for housing that is
+typically more affordable than standard apartments or houses. Group living tends to be more
+affordable because it shares kitchen facilities among more residents (HUD User, “Considering SRO
+Housing in New York City and Beyond”, 6/25/2018; Seattle For Growth, “Micros Are More
+Affordable With Many Benefits to Low Income Renters”, Ari Webb, 1/15/19; “Towards a Smaller
+Housing Paradigm: A Literature Review of Accessory Dwelling Units and Micro Apartments” by
+Thomas Geffner, Portland State University 2018; Urban land Institute, “The Macro View of Micro
+Units”, 2014). RVs and tiny houses on wheels are an affordable living option for a variety of
+reasons, including their small size, because they are often factory built, and because they do not
+require a building foundation (Business Insider, “Is the Cost of a Tiny House Worth It?”, Hillary
+Hoffower, 2/26/19).
+These policies are also intended to ensure that affordable housing is not concentrated in areas
+where land values are the lowest, which often correspond to places with fewer urban services.
+More housing is encouraged in areas with better access to those ingredients that help support
+prosperity. Neighborhoods in Portland offer varying levels of opportunity (see Comprehensive
+Plan Figure 5-1 – Housing Opportunity Map), with housing in high-opportunity neighborhoods
+tending to be expensive compared to more affordable housing in areas that offer fewer
+opportunities. The S2HC amendment are consistent with this policy because the amendments
+apply to zones citywide, including in higher-opportunity areas. Affordability of traditional housing
+is often most challenged in highest opportunity neighborhoods, and the S2HC will provide other
+options.
+
+Policy 5.23. Higher-density housing. Locate higher-density housing, including units that are affordable
+and accessible, in and around centers to take advantage of the access to active transportation, jobs,
+open spaces, schools, and various services and amenities.
+142. Finding: With the S2HC amendments, Group Living will continue to be permitted outright in
+commercial and mixed-use zones and will no longer be restricted to 15 residents without
+conditional use review in multi-dwelling zones; these zones are typically located in centers with
+access to transit and services.
+Policy 5.24. Impact of housing on schools. Evaluate plans and investments for the effect of housing
+development on school enrollment, financial stability, and student mobility. Coordinate with school
+districts to ensure plans are aligned with school facility plans.
+143. Finding: David Douglas School District (DDSD) is the only school district in Portland with an
+adopted school facility plan. The overall expectation for growth in East Portland is grounded in
+regional housing demand forecasts made by Metro, and those demand forecasts have not been
+altered by the fine-grained regulatory changes made within the S2HC project. The code changes
+could enable more residents to live in certain neighborhoods by allowing more flexibility for Group
+Living uses; however, the S2HC amendments do not alter growth forecasts at the scale of school
+district enrollment boundaries. Therefore, these changes will not impact school facility plans.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Housing affordability
+Policy 5.25. Housing preservation. Preserve and produce affordable housing to meet needs that are
+not met by the private market by coordinating plans and investments with housing providers and
+organizations.
+144. Finding: The S2HC amendments are consistent with this policy because they remove regulatory
+barriers to production of housing that is typically lower-cost and more affordable to low-income
+residents; however, the amendments do not directly impact efforts to preserve or produce
+affordable housing that is not provided by the private market. The findings for Policy 5.22 further
+address impact of the S2HC amendments on housing affordability and are incorporated by
+reference.
+Policy 5.26. Regulated affordable housing target. Strive to produce at least 10,000 new regulated
+affordable housing units citywide by 2035 that will be affordable to households in the 0-80 percent
+MFI bracket.
+145. Finding: The S2HC amendments support the voluntary production of housing that is typically
+lower-cost and more affordable to low-income residents and may support mission-driven
+development of supportive housing in Group Living arrangements. The S2HC amendments do not
+directly impact programs to produce regulated (permanently affordable) affordable housing.
+However, by liberalizing Group Living allowances, the amendments support development of
+affordable mission-driven supportive housing in Group Living arrangements, such as single room
+occupancy buildings. An example of this is Findley Commons, a 35-unit regulated affordable
+housing project underway now on a church property in SE Portland. Fifteen of the 35 units in that
+building are SRO units. That project would have benefitted from the S2HC changes because it
+would no longer require a discretionary land use review. The amendments also support the
+voluntary production of housing that is typically lower-cost and more affordable to low-income
+residents, consistent with this policy.
+Policy 5.27. Funding plan. Encourage development or financial or regulatory mechanisms to achieve
+the regulated affordable housing target set forth for 2035.
+146. Finding: As of August 1, 2016, new residential development and additions that are valued above
+$100,000 are required to pay a one-percent affordable housing construction excise tax. This tax
+pays for affordable housing programs, including production and preservation of housing for
+people with incomes at or below 60% (MFI), incentives for inclusionary zoning, and State of
+Oregon homeownership programs. The S2HC amendments do not impact this program.
+Policy 5.28. Inventory of regulated affordable housing. Coordinate periodic inventories of the supply
+of regulated affordable housing in the four-county (Clackamas, Clark, Multnomah and Washington)
+region with Metro.
+147. Finding: Council interprets this policy to apply to ongoing intergovernmental coordination, and
+not a directive to be applied with each land use plan amendment. This policy is not applicable.
+Policy 5.29. Permanently-affordable housing. Increase the supply of permanently-affordable housing,
+including both rental and homeownership opportunities.
+148. Finding: The 2035 Comprehensive Plan defines permanently affordable housing as units that will
+remain affordable to a low-income household, such as housing that is owned and maintained by a
+public agency or a nonprofit organization. As described above in response to Policy 5.26, by
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+liberalizing Group Living allowances, the amendments support development of affordable mission-
+driven supportive housing in Group Living arrangements, such as single room occupancy buildings,
+consistent with this policy.
+Policy 5.30. Housing cost burden. Evaluate plans and investments for their impact on household cost
+and consider ways to reduce the combined cost of housing, utilities, and/or transportation. Encourage
+energy-efficiency investments to reduce overall housing costs.
+149. Finding: The S2HC project removes the requirement for a conditional use review for all Group
+Living development in multi-dwelling zones and for Group Living up to 3,500 square feet in single-
+dwelling zones. Conditional use review fees are currently between $5,000 and $20,000 (depending
+on the scale and nature of the project), not including the cost of any early assistance or hiring
+consultants to prepare the applications—which can cost considerably more. This regulatory
+savings can help lower housing costs (in addition to the cost savings described in findings for Policy
+5.22).
+Policy 5.31. Household prosperity. Facilitate expanding the variety of types and sizes of affordable
+housing units, and do so in locations that provide low-income households with greater access to
+convenient transit and transportation, education and training opportunities, the Central City,
+industrial districts, and other employment areas.
+Policy 5.32 Affordable Housing in Centers. Encourage income diversity in and around centers by
+allowing a mix of housing types and tenures.
+150. Finding: The S2HC amendments encourage income diversity citywide, including in centers, by
+removing regulatory barriers to lower-cost housing types. The amendments liberalize Group Living
+allowances, which adds to the mix of allowed housing types and tenures in centers, as well as in
+other parts of the city. The changes to allow Group Living uses of any size in multi-dwelling zones
+will make it easier to site SRO-style affordable housing projects in the centers designated on the
+2035 Comprehensive Plan map (see findings for Policy 5.22 and 5.26).
+Policy 5.33. Central City affordable housing. Encourage the preservation and production of affordable
+housing in the Central City to take advantage of the area’s unique concentration of active
+transportation access, jobs, open spaces, and supportive services and amenities.
+151. Finding: The S2HC code amendments remove barriers to housing that is typically lower-cost and
+more affordable to low-income residents citywide, including in the Central City. The amendments
+liberalize Group Living allowances, which enables lower-cost housing within the Central City, as
+well as in other parts of the city. As noted earlier, single room occupancy housing has historically
+been available in the Central City, but many of those buildings have closed in recent decades. SRO
+style housing is a form of Group Living under S2HC and will be easier to site. See also findings for
+Policy 3.24, 5.22 and 5.26.
+Policy 5.34. Affordable housing resources. Pursue a variety of funding sources and mechanisms
+including new financial and regulatory tools to preserve and develop housing units and various
+assistance programs for households whose needs are not met by the private market.
+152. Finding: This policy does not apply because it concerns affordable housing funding sources and
+mechanisms, which are not addressed by zoning code regulations that are the focus of the S2HC
+amendments.
+Policy 5.35. Inclusionary housing. Use inclusionary zoning and other regulatory tools to effectively link
+the production of affordable housing to the production of market-rate housing.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+153. Finding: Inclusionary housing regulations were adopted in 2018. The S2HC amendments do not
+change that program.
+Policy 5.36. Impact of regulations on affordability. Evaluate how existing and new regulations affect
+private development of affordable housing, and minimize negative impacts where possible. Avoid
+regulations that facilitate economically-exclusive neighborhoods.
+154. Finding: The S2HC project removes the requirement for a conditional use review for all Group
+Living development in multi-dwelling zones and for Group Living up to 3,500 square feet in single-
+dwelling zones. Conditional use review fees are currently between $5,000 and $20,000 (depending
+on the scale and nature of the project), not including the cost of any early assistance or hiring
+consultants to prepare the applications. This regulatory savings can help lower housing costs (in
+addition to the cost savings described in findings for Policy 5.22).
+Policy 5.37. Mobile home parks. Encourage preservation of mobile home parks as a low/moderate-
+income housing option. Evaluate plans and investments for potential redevelopment pressures on
+existing mobile home parks and impacts on park residents and protect this low/moderate-income
+housing option. Facilitate replacement and alteration of manufactured homes within an existing
+mobile home park.
+155. Finding: Existing mobile home parks have been recently rezoned to RMP (Residential
+Manufactured Dwelling Park) to implement this policy. The S2HC amendments do not impact any
+land with RMP zoning. Therefore, this policy does not apply.
+Policy 5.38. Workforce housing. Encourage private development of a robust supply of housing that is
+affordable to moderate-income households located near convenient multimodal transportation that
+provides access to education and training opportunities, the Central City, industrial districts, and other
+employment areas.
+Policy 5.39. Compact single-family options. Encourage development and preservation of small
+resource-efficient and affordable single-family homes in all areas of the city.
+Policy 5.40  Employer-assisted housing. Encourage employer-assisted affordable housing in
+conjunction with major employment development.
+156. Finding:  The S2HC amendments are primarily intended to support additional housing
+opportunities for the lowest-income Portlanders and as such could remove barriers to the
+creation of workforce housing for low wage earners. Lower cost housing options are facilitated by
+allowing Group Living uses by right in a larger set of zones, including multi-dwelling and single-
+dwelling zones. Group Living uses enable lower rents because the square footage per person and
+the investment in kitchens and bathrooms per person is lower. This is noted in several studies
+included in the record (HUD User, “Considering SRO Housing in New York City and Beyond”,
+6/25/2018; Towards a Smaller Housing Paradigm: A Literature Review of Accessory Dwelling Units
+and Micro Apartments by Thomas Geffner, Portland State University 2018; Urban land Institute,
+“The Macro View of Micro Units”, 2014). This policy is met.
+Policy 5.41  Affordable homeownership. Align plans and investments to support improving
+homeownership rates and locational choice for people of color and other groups who have been
+historically under-served and under-represented.
+Policy 5.42  Homeownership retention. Support opportunities for homeownership retention for
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+people of color and other groups who have been historically under-served and under-represented.
+Policy 5.43  Variety in homeownership opportunities. Encourage a variety of ownership
+opportunities and choices by allowing and supporting including but not limited to condominiums,
+cooperatives, mutual housing associations, limited equity cooperatives, land trusts, and sweat equity.
+157. Finding: Council finds that Policies 5.38 through 5.43 all aim to support opportunities for
+homeownership for all Portlanders, including historically under-served and under-represented
+Portlanders. They also encourage compact single-dwelling homes, and homes affordable to
+middle-income Portlanders. The S2HC amendments are primarily intended to support additional
+housing opportunities for the lowest-income Portlanders. The increased flexibility for Group Living
+does not necessarily relate to these policies. However, the allowance for permanent occupancy of
+recreational vehicles and tiny homes on wheels does provide an avenue for existing homeowners
+to earn income by renting a portion of their property.
+Policy 5.44  Regional cooperation. Facilitate opportunities for greater regional cooperation in
+addressing housing needs in the Portland Metropolitan area, especially for the homeless, low- and
+moderate-income households, and historically under-served and under-represented communities.
+Policy 5.45  Regional balance. Encourage development of a “regional balance” strategy to secure
+greater regional participation to address the housing needs of homeless people and communities of
+color, low- and moderate-income households, and historically under-served and under-represented
+communities throughout the region.
+158. Finding: Council finds that Policies 5.44 and 5.45 address how the City engages with Metro and
+other jurisdictions in the Portland region on housing issues and do not apply to this legislative
+project.
+Homelessness
+Policy 5.46. Housing continuum. Prevent homelessness and reduce the time spent being homeless by
+ensuring that a continuum of safe and affordable housing opportunities and related supportive
+services are allowed, including but not limited to Permanent Supportive Housing, transitional housing,
+self-built micro housing communities, emergency shelters, temporary shelters such as warming
+centers, and transitional campgrounds.
+159. Finding: This is the primary policy driving the S2HC project. City Council interprets this policy to
+provide direction to provide a range of shelter and housing options, especially options that may
+not be considered traditional housing.
+The Portland Bureau of Planning and Sustainability was directed by City Council on February 19,
+2019 to undertake this work through Ordinance No. 189387. That ordinance extended the City’s
+State of Housing Emergency to April 4, 2021. The housing emergency declaration was intended to
+help address the city’s growing homelessness and housing affordability crises. That declaration
+allowed for the expedited development of affordable housing projects and made it easier to
+provide shelter and services to people experiencing homelessness. On March 31, 2021 Council
+again extended the state of emergency until April of 2022.
+Despite recent progress in developing affordable housing and Permanent Supportive Housing to
+address chronic homelessness in our community, 4,015 people were counted as experiencing
+homelessness on a single night during the winter of 2019. The economic downturn caused by the
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+COVID-19 pandemic has placed many more households at risk. Portland’s homelessness crisis is
+far from over. The S2HC project is informed by this larger context.
+The S2HC project addresses the urgent need to provide more options for those who are homeless
+– or could potentially experience homelessness – and facilitates transitions to permanent housing
+for housing-vulnerable Portlanders.
+In coordination with amendments to other titles of the Portland City Code, the project will allow
+needed emergency shelters, day storage and hygiene facilities, transitional living facilities, and
+stable housing for individuals and households with extremely low incomes. It will also improve
+how the regulatory environment affects for-profit, nonprofit, and public sector shelter and
+housing providers.
+The four most significant code changes are:
+• Providing more flexibility for shelter siting,
+• Establishing outdoor shelters as a new community service use,
+• Liberalizing the Group Living allowances, and
+• Allowing the long-term residential occupancy of recreational vehicles and tiny house on
+wheels.
+
+Shelter Flexibility
+Temporary Shelters
+The current code requires periodic declarations of an emergency to facilitate siting of some
+types of temporary shelter. What was initially viewed as a short term need for temporary
+shelters has become an ongoing need. The updated codes would allow the quick opening of
+temporary shelters in temporary locations through new procedures. These shelters would be
+allowed to operate for up to 180 days in a calendar year, and in certain zones, could be retained
+for longer periods, but would be subject to the base zone allowances or conditional use reviews.
+The changes described above are accomplished through amendments to Chapters 33.296 and
+33.815, and through an amendment to Title 15. This is consistent with Policy 5.46, which calls
+for enabling emergency shelters and temporary shelters as part of the shelter-to-housing
+continuum.
+Mass & Short Term Shelters
+The amendments increase the situations where a mass or short term shelter can be sited, and in
+some zones, increases the allowed number of mass or short term shelter beds. These changes
+provide greater siting flexibility, as well as correct an oversight made when the then new
+commercial mixed-use zones were put in place with the Comprehensive Plan Update, effective
+2018. The changes to the numbers of allowed shelter beds are made in Chapter 33.285.
+Outdoor Shelters
+The current zoning code offers no clear path for approving long-term siting of outdoor shelters,
+such as the Kenton Woman’s Village, Dignity Village, Right 2 Dream Two or other situations
+where shelters such as tents or cabins have been set up by public and non-profit agencies. Some
+existing shelters have been given temporary lawful status through an emergency declaration, or
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+through other project-specific Council actions. Code amendments provide for quick approval of
+temporary shelters and allow longer term occupancy of smaller shelters in certain zones. Clearer
+and more certain paths for retention and longer-term approval of outdoor shelters are in
+amended Titles 15 and 33 of the City Code. The new outdoor shelter use would join mass
+shelters and short term shelters (renamed from short term housing) in the Community Service
+use category. Definitions in Title 30 are amended to align with the revised shelter terminology in
+Title 33.
+Because outdoor shelters are often built with temporary structures and because the individual
+accommodations are often replaced, reconfigured, or moved, exemptions to some zoning
+standards are included. Outdoor shelters are made exempt from design review by a change to
+33.420.
+A narrow exception has also been added to the blanket prohibition on shelters in industrial
+zones. This is accomplished through modified approval criterion in 33.815. This exception would
+only apply to outdoor shelters on small sites on publicly owned land, and is described in detail in
+response to Policy 6.13.
+These allowances are consistent with Policy 5.46, which calls for enabling self-built micro
+housing communities and transitional campgrounds as part of the shelter-to-housing
+continuum.
+Increased Shelter Capacity
+The allowance of outdoor shelters within some commercial/mixed use residential zones, along
+with a similar expansion of the areas where mass shelters and short term shelters may locate by
+right within these zones means that these shelters will have additional opportunities to locate
+within many mixed use or residential zones without requiring a conditional use review. In
+general, the commercial/mixed use zones and  many residential zones are located in areas that
+are closer to transit and facilities, which provide the opportunities for clients to access places to
+find goods and services and to use alternative means of transportation. These zones are spread
+throughout the city, so that enables shelters to potentially be spread throughout the area and
+not concentrated in only a few areas. The Joint Office of Homeless Services (JOHS) has an
+interest in funding and managing shelters throughout the city to provide this service to those in
+the area that are in need.
+Housing Flexibility
+Household and Group Living
+The S2HC includes a number of amendments intended to provide additional flexibility for Group
+Living uses, such as Group living includes single room occupancy buildings, dorms, retirement
+care facilities or co-housing complexes where a larger group of residents share kitchens or
+bathrooms. Buildings where several bedrooms share a common kitchen, common bathroom, or
+both can be more affordable than standard apartments, because kitchens and bathrooms are
+expensive to build. The amendments simplify definitions to clarify the difference between Group
+Living and Household Living. Under the new code, all dwellings, like houses and apartments,
+with up to eight bedrooms would be classified as Household Living, without regard to how the
+occupants might be related (no longer using the term “household”). Dwelling units with more
+than eight bedrooms, and congregate living structures, like dormitories, single room occupancy
+buildings, and convents, that do not meet the definition of a dwelling unit would be classified as
+Group Living.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+This change coincides with elimination of the term “household,” which is being deleted for both
+functional and policy reasons:
+• The current definition is no longer necessary,
+• Inspection and enforcement would be enhanced by an alternative regulation, and
+• The current definition relies on culturally specific descriptions of family relationships
+that may no longer reflect the variety of living situations in Portland today.
+Where and How Group Living Would be Allowed
+The Council believes that it should be easy to site a residential use in a residential zone. The
+current code requires that a Group Living use obtain a conditional use approval to locate in
+single-dwelling zones. Allowing some Group Living uses without a conditional use would
+promote fair housing and enable a wider variety of solutions to meet present and future housing
+needs identified in Portland’s 2035 Comprehensive Plan. The code changes would allow Group
+Living in more base zones as an allowed-by-right use or as a limited use and would achieve
+greater parity between Group Living and Household Living. In single-dwelling zones the amount
+of Group Living allowed on oversized lots would be limited to a square footage cap that would
+apply in addition to other base zone limitations. Group Living in larger structures would continue
+to require a conditional use approval. In multi-dwelling zones, Group Living would be allowed
+under the same floor area ratio, height, and lot coverage limitations that apply to Household
+Living. These changes are accomplished by amending the use regulations of the base zones,
+(Chapters 33.110, 120, 130), and by changing definitions (Chapter 33.910) and use category
+descriptions (33.920).
+In addition, the amendments remove conditional use requirements for “alternative or post
+incarceration facilities,” which are Group Living uses where the residents are on probation or
+parole, but not subject to on-site supervision by sworn officers. To remove unnecessary stigma,
+these facilities will be treated like any other residential use. Situations where people are under
+judicial detainment and the direct supervision of sworn officers still fall under the detention
+facilities use category and are not Group Living. Detention facilities are either prohibited or
+require a conditional use approval depending on the zone.
+These changes are consistent with Policy 5.46, which calls for enabling safe and affordable
+housing opportunities, including transitional housing, as part of the shelter-to-housing
+continuum.
+Recreational Vehicles and Tiny Houses on Wheels
+The S2HC code amendments include changes to Title 29 and Title 33 to allow the residential
+occupancy of tiny houses on wheels and other similar recreational vehicles on residential
+property. Title 29 is amended to remove the current prohibition, and a new Chapter, 33,260, is
+added to T33 to clarify how these will be regulated within the Zoning Code. The approach is to
+allow one recreational vehicle for more permanent occupancy on the site of a house, attached
+house or manufactured home. Under state law, two or more RVs on any one lot is considered a
+campground, requiring a state license. The intent of the allowance is to acknowledge that many
+people already live in RVs or tiny houses, and to provide lower cost options for people who
+might not be able to afford to rent an accessory dwelling unit, apartment, or house. RVs and tiny
+houses on wheels add to the continuum of residential living arrangements, which is needed to
+accommodate more people with safe and affordable options, consistent with Policy 5.46.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Health, safety, and well-being
+Policy 5.47  Healthy housing. Encourage development and maintenance of all housing, especially
+multi-dwelling housing, that protects the health and safety of residents and encourages healthy
+lifestyles and active living.
+Policy 5.48  Housing safety. Require safe and healthy housing free of hazardous materials such as
+lead, asbestos, and radon.
+Policy 5.49. Housing quality. Encourage housing that provides high indoor air quality, access to
+sunlight and outdoor spaces, and is protected from excessive noise, pests, and hazardous
+environmental conditions.
+Policy 5.50. High-performance housing. Encourage energy efficiency, green building practices,
+materials, and design to produce healthy, efficient, durable, and adaptable homes that are affordable
+or reasonably priced.
+Policy 5.51. Healthy and active living. Encourage housing that provides features supportive of healthy
+eating and active living such as useable open areas, recreation areas, community gardens, crime-
+preventive design, and community kitchens in multifamily housing.
+Policy 5.52. Walkable surroundings. Encourage active transportation in residential areas through the
+development of pathways, sidewalks, and high-quality onsite amenities such as secure bicycle parking.
+Policy 5.53. Responding to social isolation. Encourage site designs and relationship to adjacent
+developments that reduce social isolation for groups that often experience it, such as older adults,
+people with disabilities, communities of color, and immigrant communities.
+160. Finding: Policies 5.47 through 5.53 relate to the design of housing. The S2HC amendments do
+not change any development standards that regulate housing safety, quality, energy efficiency,
+pedestrian connections. As a result, these policies generally do not apply. The changes to allow
+Group Living by right do advance Policy 5.53 by offering other congregate housing choices.
+Policy 5.54  Renter protections. Enhance renter health, safety, and stability through education,
+expansion of enhanced inspections, and support of regulations and incentives that protect tenants
+and prevent involuntary displacement.
+161. Finding: The S2HC amendments do not alter regulations establishing tenant protections
+including required relocation assistance when properties are sold and/or redeveloped (PCC
+30.01.085). As a result, this policy does not apply.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Chapter 6: Economic Development
+Goal 6.A: Prosperity. Portland has vigorous economic growth and a healthy, diverse economy that
+supports prosperity and equitable access to employment opportunities for an increasingly diverse
+population. A strong economy that is keeping up with population growth and attracting resources and
+talent can:
+• Create opportunity for people to achieve their full potential.
+• Improve public health.
+• Support a healthy environment.
+• Support the fiscal well-being of the city.
+Goal 6.B: Development. Portland supports an attractive environment for industrial, commercial, and
+institutional job growth and development by: 1) maintaining an adequate land supply; 2) a local
+development review system that is nimble, predictable, and fair; and 3) high-quality public facilities
+and services.
+Goal 6.C: Business district vitality. Portland implements land use policy and investments to:
+• Ensure that commercial, institutional, and industrial districts support business retention and
+expansion.
+• Encourage the growth of districts that support productive and creative synergies among local
+businesses.
+• Provide convenient access to goods, services, and markets.
+• Take advantage of our location and quality of life advantages as a gateway to world-class
+natural landscapes in Northwest Oregon, Southwest Washington, and the Columbia River
+Basin, and a robust interconnected system of natural landscapes within the region’s Urban
+Growth Boundary.
+162. Finding: The S2HC amendments do not change the Comprehensive Plan designations of any
+currently designated employment lands. Outdoor shelters will be allowed on a limited basis in
+industrial areas, as a Conditional Use, with criteria designed to protect industrial land supply as
+described in response to Policy 6.13. Therefore, there is no impact to employment capacity. The
+S2HC amendments do not affect the base development capacity in the commercial mixed-use
+areas. The amendments help support business district vitality by allowing for more residents to
+locate in Portland, closer to goods, services, and markets. The City Council finds that the S2HC
+amendments are consistent with economic development goals and policies, especially those that
+support neighborhood business districts.
+Diverse, expanding city economy
+Policy 6.1. Diverse and growing community. Expand economic opportunity and improve economic
+equity for Portland’s diverse, growing population through sustained business growth.
+Policy 6.2. Diverse and expanding economy. Align plans and investments to maintain the diversity of
+Portland’s economy and status as Oregon’s largest job center with growth across all sectors
+(commercial, industrial, creative, and institutional) and across all parts of the city.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 6.3. Employment growth. Strive to capture at least 25 percent of the seven-county region’s
+employment growth (Multnomah, Washington, Clackamas, Yamhill, Columbia, Clark, and Skamania
+counties).
+Policy 6.4. Fiscally-stable city. Promote a high citywide jobs-to-households ratio that supports tax
+revenue growth at pace with residential demand for municipal services.
+Policy 6.5. Economic resilience. Improve Portland’s economic resilience to impacts from climate
+change and natural disasters through a strong local economy and equitable opportunities for
+prosperity.
+Policy 6.6. Low-carbon and renewable energy economy. Align plans and investments with efforts to
+improve energy efficiency and reduce lifecycle carbon emissions from business operations. Promote
+employment opportunities associated with energy efficiency projects, waste reduction, production of
+more durable goods, and recycling.
+Policy 6.7. Competitive advantages. Maintain and strengthen the city’s comparative economic
+advantages including access to a high-quality workforce, business diversity, competitive business
+climate, and multimodal transportation infrastructure.
+Policy 6.8. Business environment. Use plans and investments to help create a positive business
+environment in the city and provide strategic assistance to retain, expand, and attract businesses.
+Policy 6.9. Small business development. Facilitate the success and growth of small businesses and
+coordinate plans and investments with programs that provide technical and financial assistance to
+promote sustainable operating practices.
+Policy 6.10. Business innovation. Encourage innovation, research, development, and
+commercialization of new technologies, products, and services through responsive regulations and
+public sector approaches.
+Policy 6.11. Sharing economy. Encourage mechanisms that enable individuals, corporations, non-
+profits, and government to market, distribute, share, and reuse excess capacity in goods and services.
+This includes peer-to-peer transactions, crowd funding platforms, and a variety of business models to
+facilitate borrowing and renting unused resources.
+Policy 6.12. Economic role of livability and ecosystem services. Conserve and enhance Portland’s
+cultural, historic, recreational, educational, food-related, and ecosystem assets and services for their
+contribution to the local economy and their importance for retention and attraction of skilled workers
+and businesses.
+163. Finding: Policies 6.1 through 6.12 provide direction regarding economic and employment
+growth. Except as noted below in response to Policy 6.13, the S2HC amendments do not affect any
+land designated for industrial or employment uses. The amendments do not affect the base
+development capacity in the commercial mixed-use areas. Therefore, there is no impact to
+employment capacity.
+Land development
+Policy 6.13. Land supply. Provide supplies of employment land that are sufficient to meet the long-
+term and short-term employment growth forecasts, adequate in terms of amounts and types of sites,
+available and practical for development and intended uses. Types of sites are distinguished primarily
+by employment geographies identified in the Economic Opportunities Analysis, although capacity
+needs for building types with similar site characteristics can be met in other employment geographies.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+164. Finding: The S2HC amendments do not change the Comprehensive Plan designations of any
+currently designated employment lands. With one exception, no new nonindustrial uses are being
+allowed within industrial zones.
+The exception is that outdoor shelters will be allowed through conditional use approvals in
+industrial zones provided the following standards and criteria are met:
+• The site must have an area of two acres or less,
+• The site must be in public ownership,
+• The site must not have been identified as an employment use or needed for employment
+use in the City’s acknowledged Buildable Lands Inventory for employment land, and
+• Shelter operations must not interfere with surrounding employment uses.
+The Oregon Administrative Rules governing the construction of buildable land inventories,
+Chapter 660, Division 7 and 9, state that publicly owned land should, in general, not be considered
+available for development. There are 445 publicly owned lots in Portland with industrial zoning.
+The City did not exclude all of these from its Employment Buildable Lands Inventory because 240
+of these lots are owed by either the Portland Development Commission (now doing business as
+Prosper Portland) or the Port of Portland, and these agencies do make their land available for
+employment uses. Therefore, only 205 publicly owned lots were excluded from the inventory. Of
+these excluded lots 156 are greater than two acres so there are only 49 that could meet the
+conditional approval criteria.
+Since not one of these 49 lots is identified as used, needed, or available for employment uses on
+the City’s acknowledged inventory and since the conditional use criteria protect surrounding
+employment uses from interference from shelters, allowing a few shelters within industrial zones
+will not diminish the City’s supply of needed employment land. The two acre limitation described
+in the findings above aligns with the applicability threshold provided in the Goal 9 rule - OAR
+660.009(4).
+Policy 6.14. Brownfield redevelopment. Overcome financial-feasibility gaps to cleanup and redevelop
+60 percent of brownfield acreage by 2035.
+Policy 6.15. Regionally-competitive development sites. Improve the competitiveness of vacant and
+underutilized sites located in Portland’s employment areas using incentives, and regional and state
+assistance for needed infrastructure and site readiness improvements.
+Policy 6.16. Regulatory climate. Improve development review processes and regulations to encourage
+predictability and support local and equitable employment growth and encourage business retention,
+including:
+6.16.a. Assess and understand cumulative regulatory costs to promote Portland’s financial
+competitiveness with other comparable cities.
+6.16.b. Promote certainty for new development through appropriate allowed uses and “clear
+and objective” standards to permit typical development types without a discretionary review.
+6.16.c. Allow discretionary-review to facilitate flexible and innovative approaches to meet
+requirements.
+6.16.d. Design and monitor development review processes to avoid unnecessary delays.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+6.16.e. Promote cost effective compliance with federal and state mandates, productive
+intergovernmental coordination, and efficient, well-coordinated development review and
+permitting procedures.
+Policy 6.17. Short-term land supply. Provide for a competitive supply of development-ready sites with
+different site sizes and types, to meet five-year demand for employment growth in the Central City,
+industrial areas, campus institutions, and neighborhood business districts.
+Policy 6.18. Evaluate land needs. Update the Economic Opportunities Analysis and short-term land
+supply strategies every five to seven years.
+Policy 6.19. Corporate headquarters. Provide land opportunities for development of corporate
+headquarters campuses in locations with suitable transportation facilities.
+165. Finding: Policies 6.13 through 6.16 provide direction regarding land supply and development
+sites and regulations in employment areas. The S2HC amendments do not change the
+Comprehensive Plan designations or regulations affecting any currently designated employment
+lands. With the small exception noted above in response to Policy 6.13, the amendments do not
+change the development standards or requirements for designated employment lands. Therefore,
+these policies are not applicable.
+Traded sector competitiveness
+Policy 6.20. Traded sector competitiveness. Align plans and investments with efforts to improve the
+city and regional business environment for traded sector and export growth. Participate in regional
+and statewide initiatives.
+Policy 6.21. Traded sector diversity. Encourage partnerships to foster the growth, small business
+vitality, and diversity of traded sectors.
+Policy 6.22. Clusters. Align plans and investments with efforts that direct strategic business
+development resources to enhance the competitiveness of businesses in traded sector clusters.
+Policy 6.23. Trade and freight hub. Encourage investment in transportation systems and services that
+will retain and expand Portland’s competitive position as a West Coast trade gateway and freight
+distribution hub.
+Policy 6.24. Traded sector land supply. Foster traded sector retention, growth, and competitive
+advantages in industrial districts and the Central City. Recognize the concentration of traded-sector
+businesses in these districts.
+Policy 6.25. Import substitution. Encourage local goods production and service delivery that
+substitute for imports and help keep the money Portlanders earn in the local economy.
+Policy 6.26. Business opportunities in urban innovation. Strive to have Portland’s built environment,
+businesses, and infrastructure systems showcase examples of best practices of innovation and
+sustainability.
+166. Finding: Policies 6.20 through 6.26 address Portland’ traded sector competitiveness. The S2HC
+amendments address housing and shelter, and do not impact the city and regional business
+climate as it relates to traded sector competitiveness. Policies 6.20 through 6.26 do not apply.
+Equitable household prosperity
+Policy 6.27. Income self-sufficiency. Expand access to self-sufficient wage levels and career ladders for
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+low-income people by maintaining an adequate and viable supply of employment land and public
+facilities to support and expand opportunities in Portland for middle- and high-wage jobs that do not
+require a 4-year college degree.
+6.27.a. Support the role of industrial districts as a leading source of middle-wage jobs that do not
+require a 4-year college degree and as a major source of wage-disparity reduction for under-
+served and under-represented communities.
+6.27.b. Evaluate and limit negative impacts of plans and investments on middle and high wage job
+creation and retention.
+Policy 6.28. East Portland job growth. Improve opportunities for East Portland to grow as a business
+destination and source of living wage jobs.
+167. Finding: Policies 6.27 and 6.28 address access to employment opportunities. The S2HC
+amendments address housing and shelter and do not adversely impact employment land or public
+facilities, or impact employment land or job growth in East Portland. The S2HC amendments do
+not reduce or convert any industrially zoned land, and with one very qualified exception, no new
+nonindustrial uses are being allowed within industrial zones. The exception is that outdoor
+shelters will be allowed through conditional use approvals in industrial zones provided a strict set
+of standards and criteria are met. The findings for Policy 6.13 Land Supply and Statewide Planning
+Goal 9 in Part I further address this allowance for shelters in industrial zones and are incorporated
+by reference. These policies do not apply.
+Policy 6.29. Poverty reduction. Encourage investment in, and alignment of, poverty-reduction efforts
+that address economic development, land use, transportation, housing, social services, public health,
+community development, and workforce development.
+168. Finding: By liberalizing allowances for Group Living and allowing permanent occupancy of RVs
+and tiny houses on wheels, the S2HC amendments remove barriers to the potential development
+of housing and other residential living arrangements that are available at a wider spectrum of
+prices across a broader geographic reach of the city. Reducing costs for housing and allowing more
+residents to reside closer to active transportation options improves public health outcomes,
+increases economic stability, and offers Portlanders greater means to accumulate savings.
+Therefore, the S2HC amendments support poverty reduction efforts through land use,
+transportation, housing and economic and community development, and do not affect efforts
+related to social services, public health and workforce development.
+Policy 6.30. Disparity reduction. Encourage investment in, and alignment of, public efforts to reduce
+racial, ethnic, and disability-related disparities in income and employment opportunity.
+Policy 6.31. Minority-owned, woman-owned and emerging small business (MWESB) assistance.
+Ensure that plans and investments improve access to contracting opportunities for minority-owned,
+woman-owned, and emerging small businesses.
+Policy 6.32. Urban renewal plans. Encourage urban renewal plans to primarily benefit existing
+residents and businesses within the urban renewal area through:
+• Revitalization of neighborhoods.
+• Expansion of housing choices.
+• Creation of business and job opportunities.
+• Provision of transportation linkages.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+• Protection of residents and businesses from the threats posed by gentrification and
+displacement.
+• The creation and enhancement of those features which improve the quality of life within the
+urban renewal area.
+169. Finding: Policies 6.30 through 6.32 address reduction of employment disparities MWESB
+contracting opportunities, and the creation of urban renewal plans. The S2HC amendments do not
+address or amend urban renewal plans, or adversely impact employment disparities or MWESB
+contracting opportunities. These policies do not apply.
+Central City
+Policy 6.33. Central City. Improve the Central City’s regional share of employment and continue its
+growth as the unique center of both the city and the region for innovation and exchange through
+commerce, employment, arts, culture, entertainment, tourism, education, and government.
+Policy 6.34. Central City industrial districts. Protect and facilitate the long-term success of Central City
+industrial districts, while supporting their evolution into places with a broad mix of businesses with
+high employment densities.
+Policy 6.35. Innovation districts. Provide for expanding campus institutions in the Central City and
+Marquam Hill, and encourage business development that builds on their research and development
+strengths.
+170. Finding: Policies 6.33 through 6.35 provide direction regarding economic development in the
+Central City. The S2HC amendments have no impact on Central City or Marquam Hill employment
+zones. These policies do not apply.
+Industrial and employment districts
+Policy 6.36. Industrial land. Provide industrial land that encourages industrial business retention,
+growth, and traded sector competitiveness as a West Coast trade and freight hub, a regional center of
+diverse manufacturing, and a widely-accessible base of family-wage jobs, particularly for under-served
+and under-represented people.
+Policy 6.37. Industrial sanctuaries. Protect industrial land as industrial sanctuaries identified on the
+Comprehensive Plan Map primarily for manufacturing and distribution uses and to encourage the
+growth of industrial activities in the city.
+Policy 6.38. Prime industrial land retention. Protect the multimodal freight-hub industrial districts at
+the Portland Harbor, Columbia Corridor, and Brooklyn Yard as prime industrial land that is prioritized
+for long-term retention.
+6.38.a. Protect prime industrial lands from quasi-judicial Comprehensive Plan Map amendments
+that convert prime industrial land to non-industrial uses, and consider the potential for other map
+amendments to otherwise diminish the economic competitiveness or viability of prime industrial
+land.
+6.38.b. Limit conversion of prime industrial land through land use plans, regulations, or public land
+acquisition for non-industrial uses, especially land that can be used by river-dependent and river-
+related industrial uses.
+6.38.c. Limit regulatory impacts on the capacity, affordability, and viability of industrial uses in the
+prime industrial area while ensuring environmental resources are also protected.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+6.38.d. Strive to offset the reduction of development capacity as needed, with additional prime
+industrial capacity that includes consideration of comparable site characteristics. Offsets may
+include but are not limited to additional brownfield remediation, industrial use intensification,
+strategic investments, and other innovative tools and partnerships that increase industrial
+utilization of industrial land.
+6.38.e. Protect prime industrial land for siting of parks, schools, large-format places of assembly,
+and large-format retail sales.
+6.38.f. Promote efficient use of freight hub infrastructure and prime industrial land by limiting
+non-industrial uses that do not need to be in the prime industrial area.
+Policy 6.39. Harbor access lands. Limit use of harbor access lands to river- or rail-dependent or related
+industrial land uses due to the unique and necessary infrastructure and site characteristics of harbor
+access lands for river-dependent industrial uses.
+Policy 6.40. Portland Harbor Superfund Site. Take a leadership role to facilitate a cleanup of the
+Portland Harbor that moves forward as quickly as possible and that allocates cleanup costs fairly and
+equitably. Encourage a science-based and cost-effective cleanup solution that facilitates re-use of land
+for river- or rail-dependent or related industrial uses.
+Policy 6.41. Multimodal freight corridors. Encourage freight-oriented industrial development to
+locate where it can maximize the use of and support reinvestment in multimodal freight corridors.
+Policy 6.42. Columbia East. Provide a mix of industrial and limited business park development in
+Columbia East (east of 82nd Avenue) that expand employment opportunities supported by proximity
+to Portland International Airport and multimodal freight access.
+Policy 6.43. Dispersed employment areas. Provide small, dispersed employment areas for a flexible
+and affordable mix of office, creative services, small-scale manufacturing, traded sector and
+distribution, and other small-format light industrial and commercial uses with access to nearby
+freeways or truck streets.
+Policy 6.44. Industrial land use intensification. Encourage reinvestment in, and intensification of,
+industrial land use, as measured by output and throughput per acre.
+Policy 6.45. Industrial brownfield redevelopment. Provide incentives, investments, technical
+assistance and other direct support to overcome financial-feasibility gaps to enable remediation and
+redevelopment of brownfields for industrial growth.
+Policy 6.46. Impact analysis. Evaluate and monitor the impacts on industrial land capacity that may
+result from land use plans, regulations, public land acquisition, public facility development, and other
+public actions to protect and preserve existing industrial lands.
+Policy 6.47. Clean, safe, and green. Encourage improvements to the cleanliness, safety, and ecological
+performance of industrial development and freight corridors by facilitating adoption of market
+feasible new technology and design.
+Policy 6.48. Fossil fuel distribution. Limit fossil fuels distribution and storage facilities to those
+necessary to serve the regional market.
+Policy 6.49. Industrial growth and watershed health. Facilitate concurrent strategies to protect and
+improve industrial capacity and watershed health in the Portland Harbor and Columbia Corridor areas.
+Policy 6.50. District expansion. Provide opportunities for expansion of industrial areas based on
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+evaluation of forecasted need and the ability to meet environmental, social, economic, and other
+goals.
+Policy 6.51. Golf course reuse and redevelopment. Facilitate a mix of industrial, natural resource, and
+public open space uses on privately-owned golf course sites in the Columbia Corridor that property
+owners make available for reuse.
+Policy 6.52. Residential and commercial reuse. Facilitate compatible industrial or employment
+redevelopment on residential or commercial sites that become available for reuse if the site is in or
+near prime industrial areas, and near a freeway or on a freight street.
+Policy 6.55. Neighborhood park use. Allow neighborhood park development within industrial zones
+where needed to provide adequate park service within one-half mile of every resident.
+171. Finding: Policies 6.36 through 6.55 provide direction regarding industrial and employment
+districts. The S2HC amendments do not reduce or convert any industrially zoned land, and with
+one very qualified exception, no new nonindustrial uses are being allowed within industrial zones.
+The exception is that outdoor shelters will be allowed through conditional use approvals in
+industrial zones provided a strict set of standards and criteria are met. The findings for Policy 6.13
+Land Supply and Statewide Planning Goal 9 in Part I further address this allowance for shelters in
+industrial zones and are incorporated by reference.
+Campus institutions
+Policy 6.56. Campus institutions. Provide for the stability and growth of Portland’s major campus
+institutions as essential service providers, centers of innovation, workforce development resources, and
+major employers.
+Policy 6.57. Campus land use. Provide for major campus institutions as a type of employment land,
+allowing uses typically associated with health care and higher education institutions. Coordinate with
+institutions in changing campus zoning to provide land supply that is practical for development and
+intended uses.
+Policy 6.58. Development impacts. Protect the livability of surrounding neighborhoods through
+adequate infrastructure and campus development standards that foster suitable density and attractive
+campus design. Minimize off-site impacts in collaboration with institutions and neighbors, especially to
+reduce automobile traffic and parking impacts.
+Policy 6.59. Community amenities and services. Encourage campus development that provides
+amenities and services to surrounding neighborhoods, emphasizing the role of campuses as centers of
+community activity.
+Policy 6.60. Campus edges. Provide for context-sensitive, transitional uses, and development at the
+edges of campus institutions to enhance their integration into surrounding neighborhoods, including
+mixed-use and neighborhood-serving commercial uses where appropriate.
+Policy 6.61. Satellite facilities. Encourage opportunities for expansion of uses, not integral to campus
+functions, to locate in centers and corridors to support their economic vitality.
+172. Finding. Policies 6.56 through 6.61 provide direction regarding campus institutions.
+The S2HC amendments do not include significant changes to campus institutional zones. Shelters are
+already permitted in campus institutional zones; the main changes are allowing additional beds for
+mass and short term shelters, and allowing outdoor shelters as an additional shelter type. No
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+significant changes to Group Living allowances are proposed in these zones. Therefore,
+implementation of these policies is not affected by the S2HC amendments.
+Neighborhood business districts
+Policy 6.62. Neighborhood business districts. Provide for the growth, economic equity, and vitality of
+neighborhood business districts.
+Policy 6.63. District function. Enhance the function of neighborhood business districts as a foundation
+of neighborhood livability.
+Policy 6.64. Small, independent businesses. Facilitate the retention and growth of small and locally-
+owned businesses.
+Policy 6.65. Home-based businesses. Encourage and expand allowances for small, low-impact home
+based businesses in residential areas, including office or personal service uses with infrequent or by-
+appointment customer or client visits to the site. Allow a limited number of employees, within the
+scale of activity typical in residential areas. Allow home-based businesses on sites with accessory
+dwelling units.
+Policy 6.66. Neighborhood-serving business. Provide for neighborhood business districts and small
+commercial nodes in areas between centers to expand local access to goods and services. Allow nodes
+of small-scale neighborhood-serving commercial uses in large planned developments and as a ground
+floor use in high density residential areas.
+Policy 6.67. Retail development. Provide for a competitive supply of retail sites that support the wide
+range of consumer needs for convenience, affordability, accessibility, and diversity of goods and
+services, especially in under-served areas of Portland.
+Policy 6.68. Investment priority. Prioritize commercial revitalization investments in neighborhoods
+that serve communities with limited access to goods and services.
+Policy 6.69. Non-conforming neighborhood business uses. Limit non-conforming uses to reduce
+adverse impacts on nearby residential uses while avoiding displacement of existing neighborhood
+businesses.
+Policy 6.70. Involuntary commercial displacement. Evaluate plans and investments for their impact
+on existing businesses.
+6.70.a. Limit involuntary commercial displacement in areas at risk of gentrification, and
+incorporate tools to reduce the cost burden of rapid neighborhood change on small business
+owners vulnerable to displacement.
+6.70.b. Encourage the preservation and creation of affordable neighborhood commercial space to
+support a broad range of small business owners.
+Policy 6.71. Temporary and informal markets and structures. Acknowledge and support the role that
+temporary markets (farmer’s markets, craft markets, flea markets, etc.) and other temporary or
+mobile-vending structures play in enabling startup business activity. Also, acknowledge that
+temporary uses may ultimately be replaced by more permanent development and uses.
+Policy 6.72. Community economic development. Encourage collaborative approaches to align land
+use and neighborhood economic development for residents and business owners to better connect
+and compete in the regional economy.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+6.72.a. Encourage broad-based community coalitions to implement land use and economic
+development objectives and programs.
+6.72.b. Enhance opportunities for cooperation and partnerships between public and private
+entities that promote economic vitality in communities most disconnected from the regional
+economy.
+6.72.c. Encourage cooperative efforts by area businesses, Business Associations, and
+Neighborhood Associations to work together on commercial revitalization efforts, sustainability
+initiatives, and transportation demand management.
+Policy 6.73. Centers. Encourage concentrations of commercial services and employment opportunities
+in centers.
+6.73.a. Encourage a broad range of neighborhood commercial services in centers to help residents
+and others in the area meet daily needs and/or serve as neighborhood gathering places.
+6.73.b. Encourage the retention and further development of grocery stores and local markets as
+essential elements of centers.
+6.73.c. Enhance opportunities for services and activities in centers that are responsive to the
+needs of the populations and cultural groups of the surrounding area.
+6.73.d. Require ground-level building spaces in core areas of centers accommodate commercial or
+other street-activating uses and services.
+6.73.e. Encourage employment opportunities as a key function of centers, including connections
+between centers, institutions, and other major employers to reinforce their roles as vibrant
+centers of activity.
+173. Finding: Policies 6.62 through 6.73 provide direction regarding neighborhood commercial
+districts, which primarily have commercial/mixed use zoning. The S2HC code amendments do not
+change commercial revitalization priorities or affect development capacity in the
+commercial/mixed-use zones. The S2HC amendments make relatively minor changes to
+commercial/mixed-use zones. Shelters are already permitted in commercial/mixed-use zones; the
+main changes are allowing additional beds for mass shelters in certain zones and allowing outdoor
+shelters as an additional shelter format. Group living is already a permitted use in
+commercial/mixed-use zones; the only change is to remove any special regulations for post-
+incarceration facilities, allowing these to be treated like any other Group Living use. The S2HC
+amendments also increase housing options and capacity within residential areas, including near
+neighborhood business districts. The potential for more residents near these business districts can
+result in a greater number and diversity of consumers, which helps increase the vitality and
+resulting growth of neighborhood business districts.
+The broader allowance for shelters is intended to address an acute need to provide more options
+for homeless Portlanders. As of 2019 there were over 4,000 people camping on streets and other
+public spaces in Portland. That number has increased in the aftermath of the COVID pandemic.
+Many people have expressed a concern about the impact that widespread camping has on the
+perceived safety of the Central City and other neighborhood commercial districts. Concerns have
+been raised about how this impacts the business environment and accessibility of public spaces.
+The S2HC amendments make it easier to open new shelters in a variety of zones across the City.
+There are currently not enough shelter beds to accommodate all of the homeless population,
+which makes it impossible to move campers from public sidewalks and open spaces into safer
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+forms of shelter. Over the long term the S2HC amendments will enhance neighborhood business
+district viability by providing options to the current unmanaged camping in public spaces.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Chapter 7: Environmental and Watershed Health
+Goal 7.A: Climate. Carbon emissions are reduced to 50 percent below 1990 levels by 2035.
+Goal 7.B: Healthy watersheds and environment. Ecosystem services and ecosystem functions are
+maintained and watershed conditions have improved over time, supporting public health and safety,
+environmental quality, fish and wildlife, cultural values, economic prosperity, and the intrinsic value of
+nature.
+Goal 7.C: Resilience. Portland’s built and natural environments function in complementary ways and
+are resilient in the face of climate change and natural hazards.
+Goal 7.D: Environmental equity. All Portlanders have access to clean air and water, can experience
+nature in their daily lives, and benefit from development designed to lessen the impacts of natural
+hazards and environmental contamination.
+Goal 7.E: Community stewardship. Portlanders actively participate in efforts to maintain and improve
+the environment, including watershed health.
+174. Finding: These goals focus on City programs and actions to improve environmental quality,
+watershed health, and resilience. They also provide direction regarding planning for natural
+resource protection, and provide a framework governing the City’s environmental overlay zones.
+There are also a number of watershed specific policies in this Chapter that provide additional
+guidance. The S2HC amendments do not include amendments to any programs or regulations that
+implement these goals.
+The City Council finds that the built and natural environments function in complementary ways
+when they both function without harming the other. The City Council Finds that an important
+element of Goal 7.D is to reduce environmental contamination and lessen the impact of
+development on lands that serve to absorb the impacts of natural hazards (such as floodplains).
+There was significant testimony expressing concerns about the impact of unsanctioned camping
+on natural areas, including floodplains (disruption of floodplain habitat functions). Concerns were
+also expressed about the direct environmental contamination resulting from unsanctioned
+camping along streams such as Johnson Creek. Many people testified about the importance of
+maintaining access to nature, and open space more broadly. Concerns were expressed that the
+Recommended Draft allowed temporary shelters in the Open Space (OS) Zone up to 180 days in a
+calendar year without an emergency, which might reduce access to nature for the general public.
+The Council responded to this testimony by further amending Chapter 33.296 (Temporary
+Activities) to exclude temporary outdoor shelters from the OS zone and several environmental
+overlays (Environmental overlay zones, the River Natural overlay zone, the River Environmental
+overlay zone, the Scenic overlay and the Pleasant Valley Natural Resource overlay zone). The flood
+hazard area was also excluded. As amended, except in the case of temporary facilities provided in
+response to a natural disaster or emergency, permanent and temporary outdoor shelters would
+be prohibited within the OS zone and the resource lands described above. Temporary mass
+shelters will only be allowed within existing buildings, where there will not be an impact to
+identified natural resources.
+Temporary activities are characterized by their short term or seasonal nature and by the fact that
+permanent improvements are not made to the site. The City Council’s authority to use City
+facilities in an emergency, including those zoned OS, is established by Title 15 (Emergency Code)
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+and the City Charter, and is not a land use regulation. The amendments related to temporary
+activities permitted in response to a natural disaster or emergency (33.296.030(G)) are proposed
+for consistency with Title 15 terminology, and do not constitute a substantive change in
+regulations.  The City is currently using some community centers located in OS-zoned parks as
+emergency shelters during the COVID emergency, and during some weather related events. This
+practice is expected to continue as currently authorized by Title 15 and the City Charter and
+permitted under Zoning Code Chapter 33.296. The S2HC amendments do not change this.
+With regard to the impacts of unsanctioned camping (contamination, disruption for floodplain
+habitat), the S2HC project will help reduce these impacts by providing sanctioned alternatives in
+more appropriate locations outside of the City’s environmental overlay, and outside of the flood
+hazard area.
+More specific findings addressing how the zoning code amendments relate to the City’s
+environmental and watershed health goals and policies are found below. The S2HC amendments
+are consistent with these policies – especially in light of the changes made by Council described
+here.
+Improving environmental quality and resilience
+Policy 7.1. Environmental quality. Protect or support efforts to protect air, water, and soil quality, and
+associated benefits to public and ecological health and safety, through plans and investments.
+Policy 7.2. Environmental equity. Prevent or reduce adverse environment-related disparities affecting
+under-served and under-represented communities through plans and investments. This includes
+addressing disparities relating to air and water quality, natural hazards, contamination, climate
+change, and access to nature.
+Policy 7.3. Ecosystem services. Consider the benefits provided by healthy ecosystems that contribute
+to the livability and economic health of the city.
+Policy 7.4. Climate change. Update and implement strategies to reduce carbon emissions and impacts
+and increase resilience through plans and investments and public education.
+7.4.a. Carbon sequestration. Enhance the capacity of Portland’s urban forest, soils, wetlands, and
+other water bodies to serve as carbon reserves.
+7.4.b. Climate adaptation and resilience. Enhance the ability of rivers, streams, wetlands,
+floodplains, urban forest, habitats, and wildlife to limit and adapt to climate-exacerbated flooding,
+landslides, wildfire, and urban heat island effects.
+Policy 7.5. Air quality. Improve, or support efforts to improve, air quality through plans and
+investments, including reducing exposure to air toxics, criteria pollutants, and urban heat island
+effects. Consider the impacts of air quality on the health of all Portlanders.
+Policy 7.6. Hydrology. Through plans and investments, improve or support efforts to improve
+watershed hydrology to achieve more natural flow and enhance conveyance and storage capacity in
+rivers, streams, floodplains, wetlands, and aquifers. Minimize impacts from development and
+associated impervious surfaces, especially in areas with poorly-infiltrating soils and limited public
+stormwater discharge points, and encourage restoration of degraded hydrologic functions.
+Policy 7.7. Water quality. Improve, or support efforts to improve, water quality in rivers, streams,
+floodplains, groundwater, and wetlands through land use plans and investments, to address water
+quality issues including toxics, bacteria, temperature, metals, and sediment pollution. Consider the
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+impacts of water quality on the health of all Portlanders.
+Policy 7.8. Biodiversity. Strive to achieve and maintain self-sustaining populations of native species,
+including native plants, native resident and migratory fish and wildlife species, at-risk species, and
+beneficial insects (such as pollinators) through plans and investments.
+Policy 7.9. Habitat and biological communities. Ensure that plans and investments are consistent with
+and advance efforts to improve, or support efforts to improve fish and wildlife habitat and biological
+communities. Use plans and investments to enhance the diversity, quantity, and quality of habitats
+habitat corridors, and especially habitats that:
+• Are rare or declining.
+• Support at-risk plant and animal species and communities.
+• Support recovery of species under the Endangered Species Act, and prevent new listings.
+• Provide culturally important food sources, including those associated with Native American
+fishing rights.
+Policy 7.10. Habitat connectivity. Improve or support efforts to improve terrestrial and aquatic
+habitat connectivity for fish and wildlife by using plans and investments, to:
+• Prevent and repair habitat fragmentation.
+• Improve habitat quality.
+• Weave habitat into sites as new development occurs.
+• Enhance or create habitat corridors that allow fish and wildlife to safely access and move
+through and between habitat areas.
+• Promote restoration and protection of floodplains.
+Policy 7.11. Urban forest. Improve, or support efforts to improve the quantity, quality, and equitable
+distribution of Portland’s urban forest through plans and investments.
+7.11.a. Tree preservation. Require or encourage preservation of large healthy trees, native trees
+and vegetation, tree groves, and forested areas.
+7.11.b. Urban forest diversity. Coordinate plans and investments with efforts to improve tree
+species diversity and age diversity.
+7.11.c. Tree canopy. Support progress toward meeting City tree canopy targets.
+7.11.d. Tree planting. Invest in tree planting and maintenance, especially in low-canopy areas,
+neighborhoods with under-served or under-represented communities, and within and near urban
+habitat corridors.
+7.11.e. Vegetation in natural resource areas. Require native trees and vegetation in significant
+natural resource areas.
+7.11.f. Resilient urban forest. Encourage planting of Pacific Northwest hardy and climate change
+resilient native trees and vegetation generally, and especially in urban habitat corridors.
+7.11.g. Trees in land use planning. Identify priority areas for tree preservation and planting in land
+use plans.
+7.11.h. Managing wildfire risk. Address wildfire hazard risks and management priorities through
+plans and investments.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 7.12. Invasive species. Prevent the spread of invasive plants, and support efforts to reduce the
+impacts of invasive plants, animals, and insects, through plans, investments, and education.
+Policy 7.13. Soils. Coordinate plans and investments with programs that address human-induced soil
+loss, erosion, contamination, or other impairments to soil quality and function.
+Policy 7.14. Natural hazards. Prevent development-related degradation of natural systems and
+associated increases in landslide, wildfire, flooding, and earthquake risks.
+Policy 7.15. Brownfield remediation. Improve environmental quality and watershed health by
+promoting and facilitating brownfield remediation and redevelopment that incorporates ecological
+site design and resource enhancement.
+Policy 7.16. Adaptive management. Evaluate trends in watershed and environmental health using
+current monitoring data and information to guide and support improvements in the effectiveness of
+City plans and investments.
+Policy 7.18. Community stewardship. Encourage voluntary cooperation between property owners,
+community organizations, and public agencies to restore or re-create habitat on their property,
+including removing invasive plants and planting native species.
+175. Finding: Policies 7.1 through 7.18 are focused on City programs and actions to improve
+environmental quality and resilience. These policies address City actions, coordination, and in
+some cases regulatory systems related to development. They address environmental quality,
+equity, ecosystem services, climate, air and water, biodiversity and wildlife habitats, forests,
+invasive species, soils, hazards, stewardship and adaptive management. The S2HC amendments
+do not include amendments to any programs or regulations that implement these policies.
+As noted above, there was significant testimony expressing concerns about the impact of
+unsanctioned camping on natural areas, and the impacts to the functional values expressed in
+these policies. Concerns were expressed that the Recommended Draft allowed temporary shelters
+in the Open Space (OS) Zone up to 180 days in a calendar year without an emergency, including
+potentially within identified natural resource areas, which might degrade the values associated
+with those resources. The Council responded to this testimony by further amending Chapter
+33.296 (Temporary Activities) to exclude temporary outdoor shelters from the OS zone and
+several environmental overlays (Environmental overlay zones, the River Natural overlay zone, the
+River Environmental overlay zone, the Scenic overlay and the Pleasant Valley Natural Resource
+overlay zone). As amended, except in the case of temporary facilities provided in response to a
+natural disaster or emergency, permanent and temporary outdoor shelters would be prohibited
+within the OS zone and the environmental overlay zones. Temporary mass shelters will only be
+allowed within existing buildings, where there will not be an impact to identified natural
+resources.
+Temporary activities are characterized by their short term or seasonal nature and by the fact that
+permanent improvements are not made to the site. The City Council’s authority to use City
+facilities in an emergency, including those zoned OS, is established by Title 15 (Emergency Code)
+and the City Charter, and is not a land use regulation. The amendments related to temporary
+activities permitted in response to a natural disaster or emergency (33.296.030(G)) are proposed
+for consistency with Title 15 terminology, and do not constitute a substantive change in
+regulations.  The City is currently using some community centers located in OS-zoned parks as
+emergency shelters during the COVID emergency, and during some weather related events. This
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+practice is expected to continue as currently authorized by Title 15 and the City Charter and
+permitted under Zoning Code Chapter 33.296. The S2HC amendments do not change this.
+The S2HC amendments are consistent with these policies – especially in light of the changes made
+by Council described here.
+Planning for natural resource protection
+Policy 7.19. Natural resource protection. Protect the quantity, quality, and function of significant
+natural resources identified in the City’s natural resource inventory, including:
+• Rivers, streams, sloughs, and drainageways.
+• Floodplains.
+• Riparian corridors.
+• Wetlands.
+• Groundwater.
+• Native and other beneficial vegetation species and communities.
+• Aquatic and terrestrial habitats, including special habitats or habitats of concern, large anchor
+habitats, habitat complexes and corridors, rare and declining habitats such as wetlands, native
+oak, bottomland hardwood forest, grassland habitat, shallow water habitat, and habitats that
+support special-status or at-risk plant and wildlife species.
+• Other resources identified in natural resource inventories.
+Policy 7.20. Natural resource inventory. Maintain an up-to-date inventory by identifying the location
+and evaluating the relative quantity and quality of natural resources.
+Policy 7.21. Environmental plans and regulations. Maintain up-to-date environmental protection
+plans and regulations that specify the significant natural resources to be protected and the types of
+protections to be applied, based on the best data and science available and on an evaluation of
+cumulative environmental, social, and economic impacts and tradeoffs. See Figure 7-2 — Adopted
+Environmental Plans.
+7.21.a. Improve the effectiveness of environmental protection plans and regulations to protect
+and encourage enhancement of ecological functions and ecosystem services.
+Policy 7.22. Land acquisition priorities and coordination. Maintain a land acquisition program as a
+tool to protect and support natural resources and their functions. Coordinate land acquisition with the
+programs of City bureaus and other agencies and organizations.
+176. Finding: Policies 7.19 through 7.22 provide direction regarding planning for natural resource
+protection. The 2035 Comprehensive Plan background documents included an updated Natural
+Resources Inventory (NRI), which was adopted (Ordinance 185657) and acknowledged by LCDC on
+June 13, 2014. The NRI identified the location, quantity, and quality of all significant natural
+resources as required by the inventory provisions of Statewide Planning Goal 5. From the set of all
+significant resources, high and medium quality resources, ranked primarily from riparian corridor
+and wildlife habitat considerations, were identified to comply with the inventory requirements of
+Title 13 of Metro’s Urban Growth Management Functional Plan.
+The City’s environmental overlay ones are the primary zoning tool to protect resources and
+functional values that have been identified by the City as providing benefits to the public
+(including the Environmental overlay zones, the River Natural overlay zone, the River
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Environmental overlay zone, and the Pleasant Valley Natural Resource overlay zone). The S2HC
+amendments do not change these zones or regulations. The amendments do not include or
+change any land acquisition programs which will continue to be coordinated between City bureaus
+and other agencies and organizations. Further, except in the case of temporary shelters provided
+in response to a natural disaster or emergency, the amendments prohibit permanent and
+temporary outdoor shelter use in the City’s environmental overlay zones and in Special Flood
+Hazard Areas.
+There is currently a significant amount of unsanctioned camping in natural areas, including
+identified Goal 5 resources. The S2HC project will help reduce these impacts by providing
+sanctioned alternatives in more appropriate locations outside of the City’s environmental overlay
+zones.
+Protecting natural resources in development situations
+Policy 7.23. Impact evaluation. Evaluate the potential adverse impacts of proposed development on
+significant natural resources, their functions, and the ecosystem services they provide to inform and
+guide development design and mitigation consistent with policies 7.24-7.26. and other relevant
+Comprehensive Plan policies.
+Policy 7.24. Regulatory hierarchy: avoid, minimize, mitigate. Maintain regulations requiring that the
+potential adverse impacts of new development on significant natural resources and their functions
+first be avoided where practicable, then minimized, then lastly, mitigated.
+Policy 7.25. Mitigation effectiveness. Require that mitigation approaches compensate fully for
+adverse impacts on locally and regionally significant natural resources and functions. Require
+mitigation to be located as close to the impact as possible. Mitigation must also take place within the
+same watershed or portion of the watershed that is within the Portland Urban Services Boundary,
+unless mitigating outside of these areas will provide a greater local ecological benefit. Mitigation will
+be subject to the following preference hierarchy:
+• On the site of the resource subject to impact with the same kind of resource; if that is not
+possible, then
+• Off-site with the same kind of resource; if that is not possible, then
+• On-site with a different kind of resource; if that is not possible, then
+• Off-site with a different kind of resource.
+Policy 7.26. Improving environmental conditions through development. Encourage ecological site
+design, site enhancement, or other tools to improve ecological functions and ecosystem services in
+conjunction with new development and alterations to existing development.
+177. Policies 7.23 through 7.26 provide direction regarding the protection of significant natural
+resources in development situations. The City’s environmental overlay zones (33.430) are the
+regulations that control development in order to protect the resources and functional values while
+allowing environmentally sensitive urban development. The S2HC amendments to not change the
+environmental overlay regulations. In addition, except in the case of temporary shelters provided
+in response to a natural disaster or emergency, permanent and temporary outdoor shelters would
+be prohibited within the City’s environmental overlay zones and temporary mass shelters will only
+be allowed within existing buildings. Temporary activities are characterized by their short term or
+seasonal nature and by the fact that permanent improvements are not made to the site.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Aggregate resources
+Policy 7.27. Aggregate resource protection. Protect aggregate resource sites for current and future
+use where there are no major conflicts with urban needs, or where these conflicts may be resolved.
+Policy 7.28. Aggregate resource development. When aggregate resources are developed, ensure that
+development minimizes adverse environmental impacts and impacts on adjacent land uses.
+Policy 7.29. Mining site reclamation. Ensure that the reclamation of mining sites protects public
+health and safety, protects fish and wildlife (including at-risk species), enhances or restores habitat
+(including rare and declining habitat types), restores adequate watershed conditions and functions on
+the site, and is compatible with the surrounding land uses and conditions of nearby land.
+178. Finding: Policies 7.27 through 7.29 provide direction regarding aggregate resources. The S2HC
+amendments do not impact aggregate resources or mine sites. These policies do not apply.
+Columbia River Watershed
+Policy 7.30. In-water habitat. Enhance in-water habitat for native fish and wildlife, particularly in the
+Oregon Slough and near-shore environments along the Columbia River.
+Policy 7.31. Sensitive habitats. Enhance grassland, beach, riverbanks, wetlands, bottomland forests,
+shallow water habitats, and other key habitats for wildlife traveling along the Columbia River
+migratory corridor, while continuing to manage the levees and floodplain for flood control.
+Policy 7.32. River-dependent and river-related uses. Maintain plans and regulations that recognize
+the needs of river-dependent and river-related uses while also supporting ecologically-sensitive site
+design and practices.
+179. Finding: Policies 7.30 through 7.32 provide direction regarding habitat and river-related uses in
+the Columbia River Watershed. The S2HC amendments do not affect the environmental zones that
+apply in this area, or other regulations or programs related to habitat enhancement, or river-
+dependent or river-related uses. The findings earlier in this chapter that apply to all of Portland’s
+watersheds are incorporated by reference.
+Willamette River Watershed
+Policy 7.33. Fish habitat. Provide adequate intervals of ecologically-functional shallow-water habitat
+for native fish along the entire length of the Willamette River within the city, and at the confluences of
+its tributaries.
+Policy 7.34. Stream connectivity. Improve stream connectivity between the Willamette River and its
+tributaries.
+Policy 7.35. River bank conditions. Preserve existing river bank habitat and encourage the
+rehabilitation of river bank sections that have been significantly altered due to development with
+more fish and wildlife friendly riverbank conditions.
+Policy 7.36. South Reach ecological complex. Enhance habitat quality and connections between Ross
+Island, Oaks Bottom, and riverfront parks and natural areas south of the Central City, ,to enhance the
+area as a functioning ecological complex.
+Policy 7.37. Contaminated sites. Promote and support programs that facilitate the cleanup, reuse,
+and restoration of the Portland Harbor Superfund site and other contaminated upland sites.
+Policy 7.38. Sensitive habitats. Protect and enhance grasslands, beaches, floodplains, wetlands,
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+remnant native oak, bottomland hardwood forest, and other key habitats for native wildlife including
+shorebirds, waterfowl, and species that migrate along the Pacific Flyway and the Willamette River
+corridor.
+Policy 7.39. Riparian corridors. Increase the width and quality of vegetated riparian buffers along the
+Willamette River.
+Policy 7.40. Connected upland and river habitats. Enhance habitat quality and connectivity between
+the Willamette riverfront, the Willamette’s floodplain, and upland natural resource areas.
+Policy 7.41. River-dependent and river-related uses. Develop and maintain plans and regulations that
+recognize the needs of river-dependent and river-related uses, while also supporting ecologically-
+sensitive site design and practices.
+Policy 7.42. Forest Park. Enhance Forest Park as an anchor habitat and recreational resource.
+180. Finding: Policies 7.33 through 7.42 provide direction regarding habitat and river-related uses in
+the Willamette River Watershed. The S2HC amendments do not affect the Environmental,
+Greenway, or River overlay zones that apply in this area, or other regulations or programs related
+to habitat or watershed health. Further, except in the case of temporary shelters provided in
+response to a natural disaster or emergency, the amendments prohibit temporary and permanent
+outdoor shelter use in the OS zone and in the City’s environmental overlay zones and in Special
+Flood Hazard Areas. The Council made changes to Chapter 33.296 (Temporary Activities) to
+exclude temporary outdoor shelters from the River Natural overlay zone and the River
+Environmental overlay zone. The findings earlier in this chapter that apply to all of Portland’s
+watersheds are incorporated by reference.
+Columbia Slough Watershed
+Policy 7.43. Fish passage. Restore in-stream habitat and improve fish passage within the Columbia
+Slough, including for salmonids in the lower slough.
+Policy 7.44. Flow constriction removal. Reduce constriction, such as culverts, in the slough channels,
+to improve the flow of water and water quality.
+Policy 7.45. Riparian corridors. Increase the width, quality, and native plant diversity of vegetated
+riparian buffers along Columbia Slough channels and other drainageways within the watershed, while
+also managing the slough for flood control.
+Policy 7.46. Sensitive habitats. Enhance grasslands and wetland habitats in the Columbia Slough, such
+as those found in the Smith and Bybee Lakes and at the St. Johns Landfill site, to provide habitat for
+sensitive species, and for wildlife traveling along the Columbia and Willamette river migratory
+corridors.
+Policy 7.47. Connected rivers habitats. Enhance upland habitat connections to the Willamette and
+Columbia rivers.
+Policy 7.48. Contaminated sites. Ensure that plans and investments are consistent with and advance
+programs that facilitate the cleanup, reuse, and restoration of contaminated sites that are adjacent, or
+that discharge stormwater, to the Columbia Slough.
+Policy 7.49. Portland International Airport. Protect, restore, and enhance natural resources and
+functions in the Portland International Airport plan district, as identified in Portland International
+Airport/Middle Columbia Slough Natural Resources Inventory. Accomplish this through regulations,
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+voluntary strategies, and the implementation of special development standards.
+181. Finding: Policies 7.43 through 7.49 provide direction regarding the environment and watershed
+health in the Columbia Slough Watershed. The S2HC amendments do not affect the
+environmental zones that apply in this area, or other regulations or programs related to habitat or
+watershed health. Further, except in the case of temporary shelters provided in response to a
+natural disaster or emergency, the amendments prohibit permanent and temporary outdoor
+shelter use in the City’s environmental overlay zones and in Special Flood Hazard Areas.  The
+findings earlier in this chapter that apply to all of Portland’s watersheds are incorporated by
+reference.
+Fanno and Tryon Creek Watersheds
+Policy 7.50. Stream connectivity. Encourage the daylighting of piped portions of Tryon and Fanno
+creeks and their tributaries.
+Policy 7.51. Riparian and habitat corridors. Protect and enhance riparian habitat quality and
+connectivity along Tryon and Fanno creeks and their tributaries. Enhance connections between
+riparian areas, parks, anchor habitats, and areas with significant tree canopy. Enhance in-stream and
+upland habitat connections between Tryon Creek State Natural Area and the Willamette River.
+Policy 7.52. Reduced hazard risks. Reduce the risks of landslides and streambank erosion by
+protecting trees and vegetation that absorb stormwater, especially in areas with steep slopes or
+limited access to stormwater infrastructure.
+182. Finding: Policies 7.50 through 7.52 provide direction regarding habitat and river-related uses in
+the Fanno and Tryon Creek Watersheds. The S2HC amendments do not affect the environmental
+zones that apply in this area, or other regulations or programs related to habitat or watershed
+health. Further, except in the case of temporary shelters provided in response to a natural disaster
+or emergency, the amendments prohibit permanent and temporary outdoor shelter use in the
+City’s environmental overlay zones and in Special Flood Hazard Areas. The findings earlier in this
+chapter that apply to all of Portland’s watersheds are incorporated by reference.
+Johnson Creek Watershed
+Policy 7.53. In-stream and riparian habitat. Enhance in-stream and riparian habitat and improve fish
+passage for salmonids along Johnson Creek and its tributaries.
+Policy 7.54. Floodplain restoration. Enhance Johnson Creek floodplain functions to increase flood-
+storage capacity, improve water quality, and enhance fish and wildlife habitat.
+Policy 7.55. Connected floodplains, springs, and wetlands. Enhance hydrologic and habitat
+connectivity between the Johnson Creek floodplain and its springs and wetlands.
+Policy 7.56. Reduced natural hazards. Reduce the risks of landslides, streambank erosion and
+downstream flooding by protecting seeps, springs, trees, vegetation, and soils that absorb stormwater
+in the East Buttes.
+Policy 7.57. Greenspace network. Enhance the network of parks, trails, and natural areas near the
+Springwater Corridor Trail and the East Buttes to enhance habitat connectivity and nature-based
+recreation in East Portland.
+183. Finding: Policies 7.53 through 7.57 provide direction regarding the environment and watershed
+health in the Johnson Creek Watershed. The S2HC amendments do not affect the environmental
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+zones that apply in this area or programs related to habitat or watershed health. The amendments
+also do not amend the Johnson Creek Basin Plan District. Further, except in the case of temporary
+shelters provided in response to a natural disaster or emergency, the amendments prohibit
+permanent and temporary outdoor shelter use in the City’s environmental overlay zones and in
+Special Flood Hazard Areas. The Council made changes to Chapter 33.296 (Temporary Activities)
+to exclude temporary outdoor shelters from the Pleasant Valley Natural Resource overlay zone
+and the Flood Hazard Area. The findings earlier in this chapter that apply to all of Portland’s
+watersheds are incorporated by reference. There was testimony describing the impact of
+unsanctioned camping on Johnson Creek. The S2HC project will help reduce these impacts by
+providing sanctioned alternatives in more appropriate locations outside of the City’s
+environmental overlay.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Chapter 8: Public Facilities and Services
+Goal 8.A: Quality public facilities and services. High-quality public facilities and services provide
+Portlanders with optimal levels of service throughout the city, based on system needs and community
+goals, and in compliance with regulatory mandates.
+Goal 8.B: Multiple benefits. Public facility and service investments improve equitable service
+provision, support economic prosperity, and enhance human and environmental health.
+Goal 8.C: Reliability and resiliency. Public facilities and services are reliable, able to withstand or
+recover from catastrophic natural and manmade events, and are adaptable and resilient in the face of
+long-term changes in the climate, economy, and technology.
+Goal 8.D: Public rights-of-way. Public rights-of-way enhance the public realm and provide a multi-
+purpose, connected, safe, and healthy physical space for movement and travel, public and private
+utilities, and other appropriate public functions and uses.
+Goal 8.E: Sanitary and stormwater systems. Wastewater and stormwater are managed, conveyed,
+and/or treated to protect public health, safety, and the environment, and to meet the needs of the
+community on an equitable, efficient, and sustainable basis.
+Goal 8.F: Flood management. Flood management systems and facilities support watershed health and
+manage flooding to reduce adverse impacts on Portlanders’ health, safety, and property.
+Goal 8.G: Water. Reliable and adequate water supply and delivery systems provide sufficient
+quantities of high-quality water at adequate pressures to meet the needs of the community on an
+equitable, efficient, and sustainable basis.
+Goal 8.H: Parks, natural areas, and recreation. All Portlanders have safe, convenient, and equitable
+access to high-quality parks, natural areas, trails, and recreational opportunities in their daily lives,
+which contribute to their health and well-being. The City manages its natural areas and urban forest to
+protect unique urban habitats and offer Portlanders an opportunity to connect with nature.
+Goal 8.I: Public safety and emergency response. Portland is a safe, resilient, and peaceful community
+where public safety, emergency response, and emergency management facilities and services are
+coordinated and able to effectively and efficiently meet community needs.
+Goal 8.J: Solid waste management. Residents and businesses have access to waste management
+services and are encouraged to be thoughtful consumers to minimize upstream impacts and avoid
+generating waste destined for the landfill. Solid waste — including food, yard debris, recyclables,
+electronics, and construction and demolition debris — is managed, recycled, and composted to ensure
+the highest and best use of materials.
+Goal 8.K: School facilities. Public schools are honored places of learning as well as multifunctional
+neighborhood anchors serving Portlanders of all ages, abilities, and cultures.
+Goal 8.L: Technology and communications. All Portland residences, businesses, and institutions have
+access to universal, affordable, and reliable state-of-the-art communication and technology services.
+Goal 8.M: Energy infrastructure and services. Residents, businesses, and institutions are served by
+reliable energy infrastructure that provides efficient, low-carbon, affordable energy through decision-
+making based on integrated resource planning.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+184. Finding: The policies in this chapter, and these goals, generally address provision of public
+services, and adequacy of services as it relates to growth and development. The adopted 2035
+Comprehensive Plan includes the Citywide Systems Plan (CSP), which was adopted (Ordinance
+185657) and acknowledged by LCDC on April 25, 2017. The CSP includes the Public Facilities Plan
+with information on current and future transportation, water, sanitary sewer, and stormwater
+infrastructure needs and projects.
+Many of these goals and policies are not applicable because they guide public agencies that
+provide public facilities, on how those facilities should be provided.
+The policy-specific findings below address the goals as follows:
+
+Goal 8.D (Public rights-of-way) is addressed in response to policies 8.39 through 8.52.
+Goal 8.E (Sanitary and stormwater systems) is addressed in response to policies 8.61 through 8.67
+and policies 8.68 through 8.75.
+Goal 8.F (Flood management) is addressed in response to policies 8.76 through 8.80.
+Goal 8.G (Water) is addressed in response to policies 8.81 through 8.91.
+Goal 8.H (Parks, natural areas, and recreation) is addressed in response to policies 8.92 through
+8.103.
+Goal 8.I (Public safety and emergency response) is addressed in response to policies 8.104 through
+8.111.
+Goal 8.K (School facilities) is addressed in response to policies 8.118 and 8.119.
+Transportation facilities are addressed under Chapter 9 (Transportation), below.
+The findings for Statewide Planning Goal 11 also address public facilities and are incorporated by
+reference.
+Service provision and urbanization
+Policy 8.1. Urban services boundary. Maintain an Urban Services Boundary for the City of Portland
+that is consistent with the regional urban growth policy, in cooperation with neighboring jurisdictions.
+The Urban Services Boundary is shown on the Comprehensive Plan Map.
+Policy 8.2. Rural, urbanizable, and urban public facility needs. Recognize the different public facility
+needs in rural, urbanizable and urban land as defined by the Regional Urban Growth Boundary, the
+City Urban Services Boundary, and the City Boundaries of Municipal Incorporation. See Figure 8-1 —
+Urban, Urbanizable, and Rural Lands.
+Policy 8.3. Urban service delivery. Provide the following public facilities and services at urban levels of
+service to urban lands within the City’s boundaries of incorporation:
+• Public rights-of-way, streets, and public trails
+• Sanitary sewers and wastewater treatment
+• Stormwater management and conveyance
+• Flood management
+• Protection of the waterways of the state
+• Water supply
+• Police, fire, and emergency response
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+• Parks, natural areas, and recreation
+• Solid waste regulation
+Policy 8.4. Supporting facilities and systems. Maintain supporting facilities and systems, including
+public buildings, technology, fleet, and internal service infrastructure, to enable the provision of public
+facilities and services.
+Policy 8.5. Planning service delivery. Provide planning, zoning, building, and subdivision control
+services within the boundaries of incorporation, and as otherwise provided by intergovernmental
+agreement within the City’s Urban Services Boundary.
+185. Finding: The City Council interprets policies 8.1 through 8.5 to provide direction on the provision
+of public facilities and services and the process of urbanization. The S2HC amendments do not
+urbanize any rural land, or include new public facilities or infrastructure projects. These policies do
+not apply.
+Service coordination
+Policy 8.6. Interagency coordination. Maintain interagency coordination agreements with neighboring
+jurisdictions and partner agencies that provide urban public facilities and services within the City of
+Portland’s Urban Services Boundary to ensure effective and efficient service delivery. See Policy 8.3 for
+the list of services included. Such jurisdictions and agencies include, but may not be limited to:
+• Multnomah County for transportation facilities and public safety.
+• State of Oregon for transportation and parks facilities and services.
+• TriMet for public transit facilities and services.
+• Port of Portland for air and marine facilities and services.
+• Metro for regional parks and natural areas, and for solid waste, composting, and recycling
+facilities and transfer stations.
+• Gresham, Milwaukie, Clackamas County Service District #1, and Clean Water Services for
+sanitary sewer conveyance and treatment.
+• Multnomah County Drainage District No. 1, Peninsula Drainage District No 1, and Peninsula
+Drainage District No. 2 for stormwater management and conveyance, and for flood mitigation,
+protection, and control.
+• Rockwood People’s Utility District; Sunrise Water Authority; and the Burlington, Tualatin
+Valley, Valley View, West Slope, Palatine Hill, Alto Park, and Clackamas River Water Districts
+for water distribution.
+• Portland Public Schools and the David Douglas, Parkrose, Reynolds, Centennial, and Riverdale
+school districts for public education, park, trail, and recreational facilities.
+Policy 8.7. Outside contracts. Coordinate with jurisdictions and agencies outside of Portland where
+the City provides services under agreement.
+Policy 8.8. Public service coordination. Coordinate with the planning efforts of agencies providing
+public education, public health services, community centers, urban forest management, library
+services, justice services, energy, and technology and communications services.
+Policy 8.9. Internal coordination. Coordinate planning and provision of public facilities and services,
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+including land acquisition, among City agencies, including internal service bureaus.
+Policy 8.10. Co-location. Encourage co-location of public facilities and services across providers where
+co-location improves service delivery efficiency and access for historically under-represented and
+under-served communities.
+186. Finding: The City Council interprets policies 8.6 through 8.10 to provide direction on
+coordination with neighboring jurisdictions and partner agencies that provide urban public
+facilities and services within the City of Portland’s Urban Services Boundary. The S2HC
+amendments do not include new public facility or infrastructure projects or amendments to public
+service coordination agreements. These policies do not apply. These agencies were, however,
+notified of the S2HC amendments pursuant to the City’s legislative procedures (33.740).
+Service extension
+Policy 8.11. Annexation. Require annexation of unincorporated urbanizable areas within the City’s
+Urban Services Boundary as a prerequisite to receive urban services.
+Policy 8.12. Feasibility of service. Evaluate the physical feasibility and cost-effectiveness of extending
+urban public services to candidate annexation areas to ensure sensible investment and to set
+reasonable expectations.
+Policy 8.13. Orderly service extension. Establish or improve urban public services in newly-annexed
+areas to serve designated land uses at established levels of service, as funds are available and as
+responsible engineering practice allows.
+Policy 8.14. Coordination of service extension. Coordinate provision of urban public services to
+newly-annexed areas so that provision of any given service does not stimulate development that
+significantly hinders the City’s ability to provide other urban services at uniform levels.
+Policy 8.15. Services to unincorporated urban pockets. Plan for future delivery of urban services to
+urbanizable areas that are within the Urban Services Boundary but outside the city limits.
+Policy 8.16. Orderly urbanization. Coordinate with counties, neighboring jurisdictions, and other
+special districts to ensure consistent management of annexation requests, and to establish rational
+and orderly process of urbanization that maximize efficient use of public funds.
+Policy 8.17. Services outside the city limits. Prohibit City provision of new urban services, or
+expansion of the capacity of existing services, in areas outside city limits, except in cases where the
+City has agreements or contracts in place.
+Policy 8.18. Service district expansion. Prohibit service district expansion or creation within the City’s
+Urban Services Boundary without the City’s expressed consent.
+Policy 8.19. Rural service delivery. Provide the public facilities and services identified in Policy 8.3 in
+rural areas only at levels necessary to support designated rural residential land uses and protect public
+health and safety. Prohibit sanitary sewer extensions into rural land and limit other urban services.
+187. Finding: The City Council interprets policies 8.11 through 8.19 to provide direction on extending
+public services. The S2HC amendments do not include new public facility or infrastructure projects
+or service extensions. These policies do not apply.
+Public investment
+Policy 8.20. Regulatory compliance. Ensure public facilities and services remain in compliance with
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+state and federal regulations. Work toward cost-effective compliance with federal and state mandates
+through intergovernmental coordination and problem solving.
+Policy 8.21. System capacity. Establish, improve, and maintain public facilities and services at levels
+appropriate to support land use patterns, densities, and anticipated residential and employment
+growth, as physically feasible and as sufficient funds are available.
+Policy 8.22. Equitable service. Provide public facilities and services to alleviate service deficiencies and
+meet level-of-service standards for all Portlanders, including individuals, businesses, and property
+owners.
+8.22.a. In places that are not expected to grow significantly but have existing deficiencies, invest
+to reduce disparity and improve livability.
+8.22.b. In places that lack basic public facilities or services and also have significant growth
+potential, invest to enhance neighborhoods, fill gaps, maintain affordability, and accommodate
+growth.
+8.22.c. In places that are not expected to grow significantly and already have access to complete
+public facilities and services, invest primarily to maintain existing facilities and retain livability.
+8.22.d. In places that already have access to complete public facilities and services, but also
+have significant growth potential, invest to fill remaining gaps, maintain affordability, and
+accommodate growth.
+Policy 8.23. Asset management. Improve and maintain public facility systems using asset
+management principles to optimize preventative maintenance, reduce unplanned reactive
+maintenance, achieve scheduled service delivery, and protect the quality, reliability, and adequacy of
+City services.
+Policy 8.24. Risk management. Maintain and improve Portland’s public facilities to minimize or
+eliminate economic, social, public health and safety, and environmental risks.
+Policy 8.25. Critical infrastructure. Increase the resilience of high-risk and critical infrastructure
+through monitoring, planning, maintenance, investment, adaptive technology, and continuity
+planning.
+Policy 8.26. Capital programming. Maintain long-term capital improvement programs that balance
+acquisition and construction of new public facilities with maintenance and operations of existing
+facilities.
+188. Finding: The City Council interprets policies 8.20 through 8.26 to provide direction on
+investment priorities for public facilities. The S2HC amendments do not include new public facility
+or infrastructure projects. These policies do not apply.
+Funding
+Policy 8.27. Cost-effectiveness. Establish, improve, and maintain the public facilities necessary to
+serve designated land uses in ways that cost-effectively provide desired levels of service, consider
+facilities’ lifecycle costs, and maintain the City’s long-term financial sustainability.
+Policy 8.28. Shared costs. Ensure the costs of constructing and providing public facilities and services
+are equitably shared by those who benefit from the provision of those facilities and services.
+Policy 8.29. System development. Require private or public entities whose prospective development
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+or redevelopment actions contribute to the need for public facility improvements, extensions, or
+construction to bear a proportional share of the costs.
+Policy 8.30. Partnerships. Maintain or establish public and private partnerships for the development,
+management, or stewardship of public facilities necessary to serve designated land uses, as
+appropriate.
+189. Finding: The City Council interprets policies 8.27 through 8.30 to provide direction on funding
+public facilities and services within the City of Portland’s Urban Services Boundary. The S2HC
+amendments do not include new public facility or infrastructure projects.
+Policy 8.29 is implemented in part though System Development Charges (SDC). The S2HC
+amendments, through changes being made to Titles 17 and 30, provide SDC waivers to the new
+outdoor shelter format, and for the utility connections being required for occupied RVs and Tiny
+Houses on Wheels.
+• The change related to RVs and Tiny Houses on Wheels is a technical clarification consistent
+with current practice – because these utility connections do not require building permits and
+are therefore not currently charged transportation or other SDCs. The primary reason for the
+change was to clarify that sewer and water SDCs would not be charged as the code would
+otherwise be unclear on that point.
+• The existing Title 17 and 30 code already exempts shelters, but new language was needed to
+align with the revised terminology and definitions in the Zoning Code.
+Based on the limited technical nature of these changes they will not have any significant impact on
+the implementation of this policy. The ongoing Council decision to avoid charging DSCs for certain
+affordable housing projects and shelters is consistent with the equity policies of this plan.
+For these reasons, the S2HC amendments are consistent with these policies.
+Public benefits
+Policy 8.31. Application of Guiding Principles. Plan and invest in public facilities in ways that promote
+and balance the Guiding Principles established in The Vision and Guiding Principles of this
+Comprehensive Plan.
+Policy 8.32. Community benefit agreements. Encourage the use of negotiated community benefit
+agreements for large public facility projects as appropriate to address environmental justice policies in
+Chapter 2: Community Involvement.
+Policy 8.33. Community knowledge and experience. Encourage public engagement processes and
+strategies for larger public facility projects to include community members in identifying potential
+impacts, mitigation measures and community benefits.
+Policy 8.34. Resource efficiency. Reduce the energy and resource use, waste, and carbon emissions
+from facilities necessary to serve designated land uses to meet adopted City goals and targets.
+Policy 8.35. Natural systems. Protect, enhance, and restore natural systems and features for their
+infrastructure service and other values.
+Policy 8.36. Context-sensitive infrastructure. Design, improve, and maintain public rights-of-way and
+facilities in ways that are compatible with, and that minimize negative impacts on, their physical,
+environmental, and community context.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 8.38. Age-friendly public facilities. Promote public facility designs that make Portland more
+age-friendly.
+190. Finding: The City Council interprets policies 8.31 through 8.38 to provide direction on the
+associated public benefits that should be considered in conjunction with investment in public
+facilities and services within the City of Portland’s Urban Services Boundary. The S2HC
+amendments do not include new public facility or infrastructure projects. These policies do not
+apply.
+Public rights-of-way
+Policy 8.39. Interconnected network. Establish a safe and connected rights-of-way system that
+equitably provides infrastructure services throughout the city.
+Policy 8.40. Transportation function. Improve and maintain the right-of-way to support multimodal
+transportation mobility and access to goods and services as is consistent with the designated street
+classification.
+Policy 8.41. Utility function. Improve and maintain the right-of-way to support equitable distribution
+of utilities, including water, sanitary sewer, stormwater management, energy, and communications, as
+appropriate.
+Policy 8.42. Stormwater management function. Improve rights-of-way to integrate green
+infrastructure and other stormwater management facilities to meet desired levels-of-service and
+economic, social, and environmental objectives.
+Policy 8.43. Trees in rights-of-way. Integrate trees into public rights-of-way to support City canopy
+goals, transportation functions, and economic, social, and environmental objectives.
+Policy 8.44. Community uses. Allow community use of rights-of-way for purposes such as public
+gathering space, events, or temporary festivals, if the community uses are integrated in ways that
+balance and minimize conflict with the designated through movement and access roles of rights-of-
+ways.
+Policy 8.45. Pedestrian amenities. Encourage facilities that enhance pedestrian enjoyment, such as
+transit shelters, garbage containers, benches, etc. in the right-of-way.
+Policy 8.46. Commercial uses. Accommodate allowable commercial uses of the rights-of-way for
+enhancing commercial vitality, if the commercial uses can be integrated in ways that balance and
+minimize conflict with the other functions of the right-of-way.
+Policy 8.47. Flexible design. Allow flexibility in right-of-way design and development standards to
+appropriately reflect the pattern area and other relevant physical, community, and environmental
+contexts and local needs.
+8.47.a. Use a variety of transportation resources in developing and designing projects for all
+City streets, such as the City of Portland’s Pedestrian Design Guide, Bicycle Master Plan-
+Appendix A, NACTO Urban Bikeway Design Guide, NACTO Urban Street Design Guide, Portland
+Parks and Recreation Trail Design Guidelines, Designing for Truck Movements and Other Large
+Vehicles, and City of Portland Green Street Policy, Stormwater Management Manual, Design
+Guide for Public Street Improvements, and Neighborhood Greenways. (TSP objective 8.1.e.).
+Policy 8.48. Corridors and City Greenways. Ensure public facilities located along Civic Corridors,
+Neighborhood Corridors, and City Greenways support the multiple objectives established for these
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+corridors.
+Policy 8.49. Coordination. Coordinate the planning, design, development, improvement, and
+maintenance of public rights-of-way among appropriate public agencies, private providers, and
+adjacent landowners.
+8.49.a. Coordination efforts should include the public facilities necessary to support the uses
+and functions of rights-of-way, as established in policies 8.40 to 8.46.
+8.49.b. Coordinate transportation and stormwater system plans and investments, especially in
+unimproved or substandard rights-of-way, to improve water quality, public safety, including for
+pedestrians and bicyclists, and neighborhood livability.
+Policy 8.50. Undergrounding. Encourage undergrounding of electrical and telecommunications
+facilities within public rights-of-way, especially in centers and along Civic Corridors.
+Policy 8.51. Right-of-way vacations. Maintain rights-of-way if there is an established existing or future
+need for them, such as for transportation facilities or for other public functions established in policies
+8.40 to 8.46.
+Policy 8.52. Rail rights-of-way. Preserve existing and abandoned rail rights-of-way for future rail or
+public trail uses.
+191. Finding: The City Council interprets policies 8.39 through 8.52 to apply to new public facilities,
+uses, or infrastructure projects in the right-of-way; and right of way vacations. The S2HC
+amendments do not include new public facility, uses, or infrastructure projects in the right-of-way.
+There is currently a significant amount of unsanctioned camping in public right of ways, including
+on sidewalks and in stormwater facilities. The S2HC project will provide sanctioned alternatives in
+more appropriate and safer locations. The S2HC amendments are therefore consistent with these
+policies.
+Trails
+Policy 8.53. Public trails. Establish, improve, and maintain a citywide system of public trails that
+provide transportation and/or recreation options and are a component of larger network of facilities
+for bicyclists, pedestrians, and recreational users.
+Policy 8.54. Trail system connectivity. Plan, improve, and maintain the citywide trail system so that it
+connects and improves access to Portland’s neighborhoods, commercial areas, employment centers,
+schools, parks, natural areas, recreational facilities, regional destinations, the regional trail system,
+and other key places that Portlanders access in their daily lives.
+Policy 8.55. Trail coordination. Coordinate planning, design, improvement, and maintenance of the
+trail system among City agencies, other public agencies, non-governmental partners, and adjacent
+landowners.
+Policy 8.56. Trail diversity. Allow a variety of trail types to reflect a trail’s transportation and
+recreation roles, requirements, and physical context.
+Policy 8.57. Public access requirements. Require public access and improvement of public trails along
+the future public trail alignments shown in Figure 8-2 — Future Public Trail Alignments.
+Policy 8.58. Trail and City Greenway coordination. Coordinate the planning and improvement of trails
+as part of the City Greenways system.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 8.59. Trail and Habitat Corridor coordination. Coordinate the planning and improvement of
+trails with the establishment, enhancement, preservation, and access to habitat corridors.
+Policy 8.60. Intertwine coordination. Coordinate with the Intertwine Alliance and its partners,
+including local and regional parks providers, to integrate Portland’s trail and active transportation
+network with the bi-state regional trail system.
+192. Finding: The City Council interprets policies 8.53 through 8.60 to apply to designated trails. The
+S2HC amendments do not amend the designated trail alignments. There is currently a significant
+amount of unsanctioned camping along some public trails. The S2HC project will provide
+sanctioned alternatives in more appropriate and safer locations. The S2HC amendments are
+therefore consistent with these policies.
+Sanitary system
+Policy 8.61. Sewer connections. Require all developments within the city limits to be connected to
+sanitary sewers unless the public sanitary system is not physically or legally available per City Code and
+state requirements; or the existing onsite septic system is functioning properly without failure or
+complaints per City Code and state requirements; and the system has all necessary state and county
+permits.
+Policy 8.62. Combined sewer overflows. Provide adequate public facilities to limit combined sewer
+overflows to frequencies established by regulatory permits.
+Policy 8.63. Sanitary sewer overflows. Provide adequate public facilities to prevent sewage releases
+to surface waters as consistent with regulatory permits.
+Policy 8.64. Private sewage treatment systems. Adopt land use regulations that require any proposed
+private sewage treatment system to demonstrate that all necessary state and county permits are
+obtained.
+Policy 8.65. Sewer extensions. Prioritize sewer system extensions to areas that are already developed
+at urban densities and where health hazards exist.
+Policy 8.66. Pollution prevention. Reduce the need for wastewater treatment capacity through land
+use programs and public facility investments that manage pollution as close to its source as practical
+and that reduce the amount of pollution entering the sanitary system.
+Policy 8.67. Treatment. Provide adequate wastewater treatment facilities to ensure compliance with
+effluent standards established in regulatory permits.
+193. Finding: The City Council interprets policies 8.61 through 8.67 to apply to the provision of
+sanitary sewer facilities. Policy 8.61, in particular, applies to development. Policy 8.61 is ensured
+through Title 25, Plumbing Regulations and verified at the time of development permit
+application. The S2HC amendments do not alter or affect Title 25 requirements. BES reviewed the
+S2HC amendments and provided comments in a letter dated March 10, 2021.
+BES regularly analyzes the sanitary sewer and stormwater system needs in the city, in conjunction
+with the Bureau of Planning and Sustainability’s planning projects, to ensure that Portland
+residents and businesses have adequate sanitary and stormwater service. Based on an
+understanding of current and anticipated growth in the city and system conditions, BES identifies
+priority areas for upgrading infrastructure, improving system capacity, and providing programs
+needed to serve the community’s needs related to clean water and public health. BES reviewed
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+the S2HC project’s recommended Title 33 code amendments and does not anticipate the
+amendments will have significant impacts to our sanitary or stormwater systems.
+The S2HC amendments add flexibility for shelter siting; establish outdoor shelters as a new
+community service use; liberalize the allowances for Group Living; and allow permanent
+occupancy of recreational vehicles and tiny houses on wheels.
+• The expanded allowances and streamlined regulations for homeless shelters will increase the
+availability of safe and healthy housing options for the large number of people currently living
+in unauthorized camps. It is expected that many people will move to shelters where they have
+access to water, hygiene and dignified sanitation. This will reduce the risks of human waste
+from unauthorized camps impacting BES facilities or reaching local waterways.
+• The new zoning provisions to allow group living uses to occur more broadly in single dwelling
+zones will not significantly impact sanitary or stormwater systems because they limit group
+living to a similar scale as household living uses. Group living facilities over 3,500 square feet
+will be evaluated individually for utility adequacy as part of the conditional use review
+process.
+• The S2HC provisions will allow occupancy of RVs and tiny houses on wheels on residential
+properties. If the RVs and THOWs have plumbing, the provisions require that they have
+sanitary service via a campground-style dump station connected to sanitary service on the
+site. The S2HC provisions significantly increase the availability of sites where occupied RVs and
+tiny houses can be located, reducing the likelihood they will become established in ROWs and
+other unauthorized locations. The provisions also seek to minimize the costs of establishing
+sewer connections. As a result, these provisions are expected to reduce the risk of
+unauthorized discharge of sewage to sewer and stormwater facilities, thereby reducing risks
+to human health and the environment.
+There was some testimony and discussion at City Council regarding the requirement for a sewer
+connection for occupied RVs and tiny houses on wheels. The Council chose to maintain that requirement
+in response to these policies. For the reasons described above, the S2HC amendments are consistent
+with these policies.
+
+Stormwater Systems
+Policy 8.68. Stormwater facilities. Provide adequate stormwater facilities for conveyance, flow
+control, and pollution reduction.
+Policy 8.69. Stormwater as a resource. Manage stormwater as a resource for watershed health and
+public use in ways that protect and restore the natural hydrology, water quality, and habitat of
+Portland’s watersheds.
+Policy 8.70. Natural systems. Protect and enhance the stormwater management capacity of natural
+resources such as rivers, streams, creeks, drainageways, wetlands, and floodplains.
+Policy 8.71. Green infrastructure. Promote the use of green infrastructure, such as natural areas, the
+urban forest, and landscaped stormwater facilities, to manage stormwater.
+Policy 8.72. Stormwater discharge. Avoid or minimize the impact of stormwater discharges on the
+water and habitat quality of rivers and streams.
+Policy 8.73. On-site stormwater management. Encourage on-site stormwater management, or
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+management as close to the source as practical, through land use decisions and public facility
+investments.
+Policy 8.74. Pollution prevention. Coordinate policies, programs, and investments with partners to
+prevent pollutants from entering the stormwater system by managing point and non-point pollution
+sources through public and private facilities, local regulations, and education.
+Policy 8.75. Stormwater partnerships. Provide stormwater management through coordinated public
+and private facilities, public-private partnerships, and community stewardship.
+194. Finding: The City Council interprets policies 8.68 through 8.75 to apply to the provision of
+stormwater facilities. Stormwater is conveyed through the combined sewer system, pipes, ditches,
+or drainageways to streams and rivers. In some cases, stormwater is managed in detention
+facilities, other vegetated facilities, or allowed to infiltrate in natural areas. The Citywide Systems
+Plan includes projects to address facilities needed for conveyance, flow control and pollution
+reduction.
+Many of these policies are ensured through application of the City’s Stormwater Management
+Manual. Stormwater management is critical to maintaining and enhancing the City’s livability and
+improving watershed health. The Stormwater Management Manual (SWMM) allows the City of
+Portland to protect both watershed resources and infrastructure investments with every
+development or improvement. Implementing the requirements in this manual helps protect
+Portland’s water resources, which in turn will provide great benefit to human health, fish and
+wildlife habitat, recreational resources, and drinking water. Environmental Services evaluates
+development proposals that increase impervious area (including buildings and hardscape) against
+the SWMM and Source Control Manual to effectively comply with local, state and federal point
+and non-point pollution water quality mandates.
+The S2HC amendments add flexibility for shelter siting; establish outdoor shelters as a new
+community service use; liberalize the allowances for Group Living; and allow permanent
+occupancy of recreational vehicles and tiny houses on wheels. Generally, the S2HC amendments
+do not have an impact on stormwater management policy because S2HC amendments do not
+change the applicability of the SWMM or Source Control Manual and projects built under the new
+zoning rules continue to be subject to those standards. As each project meets the requirements of
+these manuals, it will contribute to achieving these important citywide goals.
+• The changes to allow Group Living uses more broadly in single-dwelling zones will not have
+significant impacts because the use has been limited to a scale similar to Household Living
+uses. Group living facilities over 3,500 square feet will still be evaluated individually through
+conditional use review.
+• The changes to allow occupancy of recreational vehicles and tiny houses on wheels will not
+have an impact on stormwater because existing codes already allow these vehicles to be
+parked in residential areas. The primary change is related to the interior use.
+The findings above in response to policies 8.61 through 8.67, which summarize a BES latter dated
+March 10, 2021 are also incorporated by reference. For the reasons described above, the S2HC
+amendments are consistent with these policies.
+
+Flood management
+Policy 8.76. Flood management. Improve and maintain the functions of natural and managed
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+drainageways, wetlands, and floodplains to protect health, safety, and property, provide water
+conveyance and storage, improve water quality, and maintain and enhance fish and wildlife habitat.
+Policy 8.77. Floodplain management. Manage floodplains to protect and restore associated natural
+resources and functions and to minimize the risks to life and property from flooding.
+Policy 8.78. Flood management facilities. Establish, improve, and maintain flood management
+facilities to serve designated land uses through planning, investment and regulatory requirements.
+Policy 8.79. Drainage district coordination. Coordinate with drainage districts that provide
+stormwater management, conveyance, and flood mitigation, protection, and control services within
+the City’s Urban Services Boundary.
+Policy 8.80. Levee coordination. Coordinate plans and investments with special districts and agencies
+responsible for managing and maintaining certification of levees along the Columbia River.
+195. Finding. The City Council interprets policies 8.76 through 8.80 to apply to the management of
+floodplains. For sites in flood prone areas, the S2HC amendments do not amend the
+Environmental overlay maps, nor do they change City programs that regulate development in the
+floodplain (i.e., Title 33.631 Sites in Flood Hazard Areas; Title 10 Erosion Control, and the balanced
+cut and fill requirements of Title 24). Further, except in the case of a natural disaster or
+emergency, the amendments prohibit the permanent and temporary outdoor shelter use in
+Environmental overlay zones and in Special Flood Hazard Areas.
+Water systems
+Policy 8.81. Primary supply source. Protect the Bull Run watershed as the primary water supply
+source for Portland.
+Policy 8.82. Bull Run protection. Maintain a source-protection program and practices to safeguard the
+Bull Run watershed as a drinking water supply.
+Policy 8.83. Secondary supply sources. Protect, improve, and maintain the Columbia South Shore
+wellfield groundwater system, the Powell Valley wellfield groundwater system, and any other
+alternative water sources designated as secondary water supplies.
+Policy 8.84. Groundwater wellfield protection. Maintain a groundwater protection program and
+practices to safeguard the Columbia South Shore wellfield and the Powell Valley wellfield as drinking
+water supplies.
+Policy 8.85. Water quality. Maintain compliance with state and federal drinking water quality
+regulations.
+Policy 8.86. Storage. Provide sufficient in-city water storage capacity to serve designated land uses,
+meet demand fluctuations, maintain system pressure, and ensure supply reliability.
+Policy 8.87. Fire protection. Provide adequate water facilities to serve the fire protection needs of all
+Portlanders and businesses.
+Policy 8.88. Water pressure. Provide adequate water facilities to maintain water pressure in order to
+protect water quality and provide for the needs of customers.
+Policy 8.89. Water efficiency. Reduce the need for additional water facility capacity and maintain
+compliance with state water resource regulations by encouraging efficient use of water by customers
+within the city.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 8.90. Service interruptions. Maintain and improve water facilities to limit interruptions in water
+service to customers.
+Policy 8.91. Outside user contracts. Coordinate long-term water supply planning and delivery with
+outside-city water purveyors through long-term
+wholesale contracts.
+196. Finding: The City Council interprets policies 8.81 through 8.91 to apply to the provision of water
+service. Primarily these policies govern how the City manages its water system and are not
+applicable to development. Policies 8.81 through 8.85 are addressed through the requirements in
+Title 21 Water. Protections for the Bull Run watershed are enumerated in Chapter 21.36.
+Groundwater wellfield protections are ensured through regulations in Chapter 21.35. And water
+quality is locally regulated by Chapter 21.12, as well as Title 25 Plumbing Regulations, in addition
+to compliance mandates at the state and federal level. Implementation of these policies is
+unaffected by the S2HC amendments. New development may be required to extend service where
+no service is presently available or upgrade water mains when development requires larger water
+meter sizes.
+The S2HC amendments add flexibility for shelter siting; establish outdoor shelters as a new
+community service use; liberalize the allowances for Group Living; and allow permanent
+occupancy of recreational vehicles and tiny houses on wheels.
+• The greater allowances for homeless shelters will not have a significant impact on water
+services because most homeless people proposed to be served are already in the community.
+• Changes to allow Group Living uses more broadly in single-dwelling zones will not have
+significant impacts on water system needs or facilities because the use has been limited to a
+scale similar to Household Living uses. Group living facilities over 3,500 square feet will still be
+evaluated individually through conditional use review.
+• The impact of changes to allow occupancy of recreational vehicles and tiny houses on wheels
+will be analogous to the impact of an ADU being added to a property; which is an activity
+allowed by existing regulations. The changes being made in a companion ordinance will
+require a campground-style utility hookup for occupied RVs and tiny-houses on wheels if the
+vehicles have interior plumbing.
+For the reasons described above, the S2HC amendments are consistent with these policies.
+Parks and recreation
+Policy 8.92. Acquisition, development, and maintenance. Provide and maintain an adequate supply
+and variety of parkland and recreational facilities to serve the city’s current and future population
+based on identified level-of-service standards and community needs.
+Policy 8.93. Service equity. Invest in acquisition and development of parks and recreation facilities in
+areas where service-level deficiencies exist.
+Policy 8.94. Capital programming. Maintain a long-range park capital improvement program, with
+criteria that considers acquisition, development, and operations; provides opportunities for public
+input; and emphasizes creative and flexible financing strategies.
+Policy 8.95. Park planning. Improve parks, recreational facilities, natural areas, and the urban forest in
+accordance with current master plans, management plans, or adopted strategies that reflect user
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+group needs, development priorities, development and maintenance costs, program opportunities,
+financing strategies, and community input.
+Policy 8.96. Recreational trails. Establish, improve, and maintain a complete and connected system of
+public recreational trails, consistent with Portland Parks & Recreation’s trail strategy.
+Policy 8.97. Natural resources. Preserve, enhance, and manage City-owned natural areas and
+resources to protect and improve their ecological health, in accordance with both the natural area
+acquisition and restoration strategies, and to provide compatible public access.
+Policy 8.98. Urban forest management. Manage urban trees as green infrastructure with associated
+ecological, community, and economic functions, through planning, planting, and maintenance
+activities, education, and regulation.
+Policy 8.99. Recreational facilities. Provide a variety of recreational facilities and services that
+contribute to the health and well-being of Portlanders of all ages and abilities.
+Policy 8.100. Self-sustaining Portland International Raceway (PIR). Provide for financially self-
+sustaining operations of PIR, and broaden its programs and activities to appeal to families, diverse
+communities, and non-motorized sports such as biking and running.
+Policy 8.101. Self-sustaining and inclusive golf facilities. Provide financially self-sustaining public golf
+course operations. Diversify these assets to attract new users, grow the game, provide more
+introductory-level programming, and expand into other related recreational opportunities such as foot
+golf and disk golf.
+Policy 8.102. Specialized recreational facilities. Establish and manage specialized facilities within the
+park system that take advantage of land assets and that respond to diverse, basic, and emerging
+recreational needs.
+Policy 8.103. Public-private partnerships. Encourage public-private partnerships to develop and
+operate publicly-accessible recreational facilities that meet identified public needs.
+197. Finding: The City Council interprets policies 8.92 through 8.103 to primarily address City-owned
+parks and natural areas and not development on private land. The S2HC amendments do not by
+themselves change current parks and recreation programs or change the supply of parks.
+The Planning and Sustainability Commission and City Council debated the question of allowing
+both permanent and temporary shelters in the Open Space zone, and by extension, in parks. Some
+testimony argued that shelters should be allowed in the OS zone because OS zoned land is publicly
+owned and is perceived as a public resource that should be employed to help solve the
+homelessness crisis. Other testimony argued against allowing shelters in the OS zone because
+parks and natural areas serve other purposes, and there could be conflicts between homeless
+facilities and the intended recreational or natural resource conservation purposes. Both the PSC
+and Council agreed that unsanctioned camping in parks and natural areas was having an impact,
+and there is a need to provide other alternatives. There was general agreement that the S2HC
+amendments that provide broader allowances for shelters will help reduce these impacts by
+providing sanctioned alternatives for shelter in more appropriate locations.
+The existing zoning code prohibits shelters in the Open Space zone, as the purpose of the OS zone
+has never been to provide permanent facilities for shelter or housing. The S2HC amendments do
+not change that. Permanent shelters would not be permitted in parks.
+Nevertheless, all types of facilities (including shelter) may be placed in OS zones as a temporary
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+activity during a state of emergency (33.296.030.G). The S2HC amendments, as recommended by
+the PSC, included a clause (33.296.030.H) to allow shelters as a temporary activity in all zones for
+up to 180 days in a calendar year, outside of an emergency. Testimony described the potential
+impact of this to the City’s ability to provide “recreational facilities and services that contribute to
+the health and well-being of Portlanders of all ages and abilities.”
+The Council responded to this testimony by further amending Chapter 33.296.030.H to exclude
+temporary outdoor shelters from the OS zone and several environmental overlays. As amended,
+except in the case of temporary facilities provided in response to a natural disaster or emergency,
+permanent and temporary outdoor shelters would be prohibited within the OS zone and the
+environmental overlay zones. Almost all parks are in the OS zone. Temporary mass shelters will
+only be allowed within existing buildings, where there will be a more limited impact to parks
+facilities. As the facility manager (Portland Parks and Metro) would maintain the ability to consider
+those temporary uses on a case by case basis, similar to any request for a short-term non-park use
+of a park facility.
+Temporary activities are characterized by their short term or seasonal nature and by the fact that
+permanent improvements are not made to the site. The City Council’s authority to use City
+facilities in an emergency, including those zoned OS, is established by Title 15 (Emergency Code)
+and the City Charter, and is not a land use regulation. The amendments related to temporary
+activities permitted in response to a natural disaster or emergency (33.296.030(G)) are proposed
+for consistency with Title 15 terminology, and do not constitute a substantive change in
+regulations.  The City is currently using some community centers located in OS-zoned parks as
+emergency shelters during the COVID emergency, and during some weather-related events. This
+practice is expected to continue as currently authorized by Title 15 and the City Charter and
+permitted under Zoning Code Chapter 33.296. The S2HC amendments do not change this.
+Commissioners decided to maintain the existing prohibition on permanent shelters in the OS zone.
+This decision was based in part on analysis by staff showing that there was enough commercial
+and residential land available for shelters to accommodate our needs without the need to divert
+open space lands to other uses. The City’s acknowledged Buildable Lands Inventory was noted.
+The S2HC amendments are consistent with these policies – especially in light of the changes made
+by Council described here. The changes made by Council help ensure that there is still an
+adequate supply of parks and help protect the City’s investment in parks infrastructure and
+natural areas by providing expanded allowances for permanent shelters elsewhere.
+Public safety and emergency response
+Policy 8.104. Emergency preparedness, response, and recovery coordination. Coordinate land use
+plans and public facility investments between City bureaus, other public and jurisdictional agencies,
+businesses, community partners, and other emergency response providers, to ensure coordinated and
+comprehensive emergency and disaster risk reduction, preparedness, response, and recovery.
+Policy 8.105. Emergency management facilities. Provide adequate public facilities – such as
+emergency coordination centers, communications infrastructure, and dispatch systems – to support
+emergency management, response, and recovery.
+Policy 8.106. Police facilities. Improve and maintain police facilities to allow police personnel to
+efficiently and effectively respond to public safety needs and serve designated land uses.
+Policy 8.107. Community safety centers. Establish, coordinate, and co-locate public safety and other
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+community services in centers.
+Policy 8.108. Fire facilities. Improve and maintain fire facilities to serve designated land uses, ensure
+equitable and reliable response, and provide fire and life safety protection that meets or exceeds
+minimum established service levels.
+Policy 8.109. Mutual aid. Maintain mutual aid coordination with regional emergency response
+providers as appropriate to protect life and ensure safety.
+Policy 8.110. Community preparedness. Enhance community preparedness and capacity to prevent,
+withstand, and recover from emergencies and natural disasters through land use decisions and public
+facility investments.
+Policy 8.111. Continuity of operations. Maintain and enhance the City's ability to withstand and
+recover from natural disasters and human-made disruptions in order to minimize disruptions to public
+services.
+198. Finding: The City Council interprets policies 8.104 through 8.111 to address the provision of
+public safety and emergency response services. The City of Portland is currently under two
+declared States of Emergency – the Housing Emergency and the COVID Emergency. The Housing
+Emergency was set to expire on April 2, 2021; but was extended another year on March 31 to
+April 2022. The S2HC project changes City codes to provide most of the same opportunities for
+shelter siting and streamlined permitting for affordable housing that the Housing Emergency
+provided – but on a more permanent basis. The amendments allow for more flexible responses to
+emergencies by allowing the quick opening of temporary shelters in temporary locations through
+new procedures. This reduces the need for declaration of emergencies to facilitate the siting of
+some types of temporary shelter. The amendments also allow for more types of shelters—
+including outdoor shelters—to better respond to evolving needs. Other emergency response
+services are not affected by the S2HC amendments.
+Solid waste management
+Policy 8.112. Waste management. Ensure land use programs, rights-of-way regulations, and public
+facility investments allow the City to manage waste effectively and prioritize waste management in
+the following order: waste reduction, recycling, anaerobic digestion, composting, energy recovery, and
+then landfill.
+199. Finding: The City Council interprets this policy to address the provision of waste management
+services. The changes being made by the S2HC project do not impact these waste management
+services. These policies do not apply. In general, the streamlined opening of more homeless
+shelters will provide more people access to waste management services because people camping
+in unsanctioned locations do not have access to waste services while people staying in shelter
+facilities do.
+School facilities
+Policy 8.113. School district capacity. Consider the overall enrollment capacity of a school district – as
+defined in an adopted school facility plan that meets the requirements of Oregon Revised Statute 195
+– as a factor in land use decisions that increase capacity for residential development.
+200. Finding: David Douglas School District (DDSD) is the only school district in Portland with an
+adopted school facility plan. Its enrollment boundary covers much of East Portland.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+The overall expectation for growth in East Portland is grounded in regional housing demand
+forecasts made by Metro, and those demand forecasts have not been altered by the fine-grained
+regulatory changes made within the S2HC project. The code changes could enable more residents
+to live in certain neighborhoods by allowing more flexibility for Group Living uses; however, that
+potential growth is not significant at the scale of school district enrollment boundaries. A primary
+intent of the S2HC project is to enable more housing options that are affordable to those with low
+incomes. Providing more affordable housing may reduce enrollment changes caused by economic
+displacement.
+Policy 8.114. Facilities Planning. Facilitate coordinated planning among school districts and City
+bureaus, including Portland Parks and Recreation, to accommodate school site/facility needs in
+response to most up-to-date growth forecasts.
+Policy 8.115. Co-location. Encourage public school districts, Multnomah County, the City of Portland,
+and other providers to co-locate facilities and programs in ways that optimize service provision and
+intergenerational and intercultural use.
+Policy 8.116. Community use. Encourage public use of public school grounds for community purposes
+while meeting educational and student safety needs and balancing impacts on surrounding
+neighborhoods.
+Policy 8.117. Recreational use. Encourage publicly-available recreational amenities (e.g. athletic fields,
+green spaces, community gardens, and playgrounds) on public school grounds for public recreational
+use, particularly in neighborhoods with limited access to parks.
+Policy 8.118. Schools as emergency aid centers. Encourage the use of seismically-safe school facilities
+as gathering and aid-distribution locations during natural disasters and other emergencies.
+Policy 8.119. Facility adaptability. Ensure that public schools may be upgraded to flexibly
+accommodate multiple community-serving uses and adapt to changes in educational approaches,
+technology, and student needs over time.
+201. Finding: The S2HC amendments support Policies 8.118 and 8.119 by allowing more flexibility for
+shelter uses on school use sites operating as conditional uses in residential and campus
+institutional zones. Schools are currently permitted as conditional uses within the R and IR zone.
+The amendments increase the number of beds allowed outright in short term and mass shelters,
+and add outdoor shelters as a new allowed Community Service use in residential and campus
+institutional zones. These changes promote adaptability of school facilities and could help enable
+the use of schools as emergency aid centers.
+Policy 8.120. Leverage public investment. Encourage City public facility investments that complement
+and leverage local public school districts’ major capital investments.
+Policy 8.121. School access. Encourage public school districts to consider the ability of students to
+safely walk and bike to school when making decisions about the site locations and attendance
+boundaries of schools.
+Policy 8.122. Private institutions. Encourage collaboration with private schools and educational
+institutions to support community and recreational use of their facilities.
+202. Finding: The City Council interprets policies 8.114 through 8.122 to address school facilities and
+school sites. Except as noted in the findings for Policies 8.118-8.119, implementation of these
+school facility policies is not affected by the S2HC amendments.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Technology and communications
+Policy 8.123. Technology and communication systems. Maintain and enhance the City’s technology
+and communication facilities to ensure public safety, facilitate access to information, and maintain
+City operations.
+Policy 8.124. Equity, capacity, and reliability. Encourage plans and investments in technology and
+communication infrastructure to ensure access in all areas of the city, reduce disparities in capacity,
+and affordability, and to provide innovative high-performance, reliable service for Portland’s residents
+and businesses.
+203. Finding: The City Council interprets policies 8.123 and 8.124 to address the provision technology
+and communication services. These policies do not apply.
+Energy infrastructure
+Policy 8.125. Energy efficiency. Promote efficient and sustainable production and use of energy
+resources by residents and businesses, including low-carbon renewable energy sources, district energy
+systems, and distributed generation, through land use plans, zoning, and other legislative land use
+decisions.
+Policy 8.126. Coordination. Coordinate with energy providers to encourage investments that ensure
+reliable, equitable, efficient, and affordable energy for Portland residents and businesses.
+204. Finding: The S2HC amendments do not amend the sections of the zoning code that regulate the
+production of energy or other types of energy infrastructure and do not affect coordination
+efforts. These policies do not apply.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Chapter 9 Transportation
+GOAL 9.A: Safety. Transportation safety impacts the livability of a city and the comfort and security of
+those using City streets. Comprehensive efforts to improve transportation safety through engineering,
+education, enforcement and evaluation will be used to eliminate traffic-related fatalities and serious
+injuries from Portland’s transportation system.
+Goal 9.B: Multiple goals. Portland’s transportation system is funded and maintained to achieve
+multiple goals and measurable outcomes for people and the environment. The transportation system
+is safe, complete, interconnected, multimodal, and fulfills daily needs for people and businesses.
+GOAL 9.C: Great places. Portland’s transportation system enhances quality of life for all Portlanders,
+reinforces existing neighborhoods and great places, and helps make new great places in town centers,
+neighborhood centers and corridors, and civic corridors.
+GOAL 9.D: Environmentally sustainable. The transportation system increasingly uses active
+transportation, renewable energy, or electricity from renewable sources, achieves adopted carbon
+reduction targets, and reduces air pollution, water pollution, noise, and Portlanders’ reliance on
+private vehicles.
+GOAL 9.E: Equitable transportation. The transportation system provides all Portlanders options to
+move about the city and meet their daily needs by using a variety of safe, efficient, convenient, and
+affordable modes of transportation. Transportation investments are responsive to the distinct needs
+of each community.
+GOAL 9.F: Positive health outcomes. The transportation system promotes positive health outcomes
+and minimizes negative impacts for all Portlanders by supporting active transportation, physical
+activity, and community and individual health.
+GOAL 9.G: Opportunities for prosperity. The transportation system supports a strong and diverse
+economy, enhances the competitiveness of the city and region, and maintains Portland’s role as a
+West Coast trade gateway and freight hub by providing efficient and reliable goods movement,
+multimodal access to employment areas and educational institutions, as well as enhanced freight
+access to industrial areas and intermodal freight facilities. The transportation system helps people and
+businesses reduce spending and keep money in the local economy by providing affordable alternatives
+to driving.
+GOAL 9.H. Cost Effectiveness. The City analyzes and prioritizes capital and operating investments to
+cost effectively achieve the above goals while responsibly managing and protecting our past
+investments in existing assets.
+GOAL 9.I. Airport Futures. Promote a sustainable airport (Portland International Airport [PDX]) by
+meeting the region’s air transportation needs without compromising livability and quality of like for
+future generations.
+205. Finding: The City Council generally interprets the goals and the policies of Chapter 9 to address
+transportation improvements, programming, funding priorities and maintenance and not
+development or uses on private or public land outside of the right of way. That said, there are
+several specific policies that address the intersection between land use and transportation, which
+are applicable to this ordinance. These policies are addressed individually below.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Designing and planning
+Policy 9.1. Street design classifications. Maintain and implement street design classifications
+consistent with land use plans, environmental context, urban design pattern areas, and the
+Neighborhood Corridor and Civic Corridor Urban Design Framework designations.
+Policy 9.2. Street policy classifications. Maintain and implement street policy classifications for
+pedestrian, bicycle, transit, freight, emergency vehicle, and automotive movement, while considering
+access for all modes, connectivity, adjacent planned land uses, and state and regional requirements.
+9.2.a. Designate district classifications that emphasize freight mobility and access in industrial
+and employment areas serving high levels of truck traffic and to accommodate the needs of
+intermodal freight movement.
+9.2.b. Designate district classifications that give priority to pedestrian access in areas where high
+levels of pedestrian activity exist or are planned, including the Central City, Gateway regional
+center, town centers, neighborhood centers, and transit station areas.
+9.2.c. Designate district classifications that give priority to bicycle access and mobility in areas
+where high levels of bicycle activity exist or are planned, including Downtown, the River District,
+Lloyd District, Gateway Regional Center, town centers, neighborhood centers, and transit station
+areas.
+Policy 9.3. Transportation System Plan. Maintain and implement the Transportation System Plan
+(TSP) as the decision-making tool for transportation-related projects, policies, programs, and street
+design.
+Policy 9.4. Use of classifications. Plan, develop, implement, and manage the transportation system in
+accordance with street design and policy classifications outlined in the Transportation System Plan.
+9.4.a. Classification descriptions are used to describe how streets should function for each mode
+of travel, not necessarily how they are functioning at present.
+206. Finding: Policies 9.1 through 9.4 provide direction regarding transportation system
+classifications and the Transportation System Plan. The S2HC amendments do not change the
+functional classification of any existing or proposed transportation facility, nor do they change the
+standards implementing a functional classification system.
+Policy 9.5. Mode share goals and Vehicle Miles Travelled (VMT) reduction. Increase the share of trips
+made using active and low-carbon transportation modes. Reduce VMT to achieve targets set in the
+most current Climate Action Plan and Transportation System Plan, and meet or exceed Metro’s mode
+share and VMT targets.
+207. Finding: Council interprets this policy to mean reducing the share of single occupant motor
+vehicle trips through actions, investments, and plans that either encourage use of other modes or
+discourage the use of single occupant vehicles. Specific goals for mode share are stated in policy
+9.49.
+The In a Memo dated March 1, 2021, The Portland Bureau of Transportation (PBOT) describes the
+trip generation rates of various land uses and states that the kinds of facilities impacted by the
+S2HC amendments
+generate fewer trips than other land use types. A reduced number of trips
+translates to fewer vehicle miles travelled.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+The S2HC amendments do not significantly affect code strategies to reduce VMT or increase non-
+automobile mode splits, such as reducing or eliminating minimum off-street parking
+requirements. The S2HC amendments will have minor impacts on off-street parking requirements,
+based on the revised definitions of Group Living and Household Living. Household Living is now
+defined as the occupancy of a dwelling unit with 8 or fewer bedrooms. Group Living is the
+occupancy of a dwelling unit with more than 8 bedrooms, or of a congregate housing facility. This
+affects parking requirements, because ratios for Group Living and Household Living are calculated
+differently—Household Living is by dwelling and Group Living is by resident. The S2HC project will
+add some parking requirements for micro-unit apartments subject to the large building parking
+minimums, because apartments with up to 8 bedrooms will now be a Household Living use rather
+than Group Living. However, these changes to the applicability of off-street parking requirements
+will affect only a very small number of potential developments and reducing off-street parking
+requirements is only one strategy to reduce VMT.
+Another strategy is encouraging development in proximity to transit. With the S2HC amendments,
+Group Living will continue to be permitted outright in commercial and mixed-use zones and will
+no longer be restricted to 15 residents without conditional use review in multi-dwelling zones;
+these zones are typically located in centers with access to transit and services. The most significant
+expanded shelter allowances also generally correspond to zones that are close to transit. The
+allowance for occupancy of recreational vehicles and tiny houses on wheels is similar to the
+existing accessory dwelling unit allowance. By allowing flexibility for additional occupancy on
+residential lots, there may be somewhat greater capacity for households to be located close to
+transit. The PBOT Memo notes that “Proximity to transit and services will serve to further reduce
+potential automobile impacts”.
+Making a diversity of housing and shelter possible not just along select corridors, but broadly
+throughout many areas of the city, also allows residents and clients to seek housing closer to the
+amenities and necessities they prioritize, be it a job, daycare, school, or recreation. Proximity
+reduces transportation costs through less vehicle miles travelled or more transit/bike/pedestrian
+travel all of which means lower carbon emissions.
+Therefore, the proposed amendments will not have a significant impact on VMT. Additional
+findings related to transportation system performance in response to Policies 9.45 through 9.51
+are also relevant to this policy and incorporated by reference.
+Policy 9.6. Transportation strategy for people movement. Design the system to accommodate the
+most vulnerable users, including those that need special accommodation under the Americans with
+Disabilities Act (ADA). Implement a prioritization of modes for people movement by making
+transportation system decisions per the following ordered list:
+1. Walking
+2. Bicycling
+3. Transit
+4. Fleets of electric, fully automated, multiple passenger vehicles
+5. Other shared vehicles
+6. Low or no occupancy vehicles, fossil-fueled non-transit vehicles
+
+When implementing this prioritization ensure that:
+• The needs and safety of each group of users are considered, and changes do not make
+existing conditions worse for the most vulnerable users.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+• All users’ needs are balanced with the intent of optimizing the right of way for multiple
+modes on the same street.
+• When necessary to ensure safety, accommodate some users on parallel streets as part
+of multi-street corridors.
+• Land use and system plans, network functionality for all modes, other street functions,
+and complete street policies, are maintained.
+• Policy-based rationale is provided if modes lower in the ordered list are prioritized.
+Policy 9.7. Moving goods and delivering services. In tandem with people movement, maintain
+efficient and reliable movement of goods and services as a critical transportation system function.
+Prioritize freight system reliability improvements over single-occupancy vehicle mobility where there
+are solutions that distinctly address those different needs.
+Policy 9.8. Affordability. Improve and maintain the transportation system to increase access to
+convenient and affordable transportation options for all Portlanders, especially those who have
+traditionally been under-served or under-represented or have historically borne unequal burdens.
+Policy 9.9. Accessible and age-friendly transportation system. Ensure that transportation facilities are
+accessible to people of all ages and abilities, and that all improvements to the transportation system
+(traffic, transit, bicycle, and pedestrian) in the public right-of-way comply with the Americans with
+Disabilities Act of 1990. Improve and adapt the transportation system to better meet the needs of the
+most vulnerable users, including the young, older adults, and people with different abilities.
+Policy 9.10. Geographic policies. Adopt geographically-specific policies in the Transportation System
+Plan to ensure that transportation infrastructure reflects the unique topography, historic character,
+natural features, system gaps, economic needs, demographics, and land uses of each area. Use the
+Pattern Areas identified in Chapter 3: Urban Form as the basis for area policies.
+9.10.a. Refer to adopted area plans for additional applicable geographic objectives related to
+transportation. Land use, development, and placemaking
+208. Finding: Policies 9.6 through 9.10 provide direction regarding planning for the transportation
+system. These policies address the design and planning of transportation facilities and not
+development or uses on private or public land outside of the right of way. These policies do not
+apply.
+Land use, development, and placemaking
+Policy 9.11. Land use and transportation coordination. Implement the Comprehensive Plan Map and
+the Urban Design Framework though coordinated long-range transportation and land use planning.
+Ensure that street policy and design classifications and land uses complement one another.
+Policy 9.12. Growth strategy. Use street design and policy classifications to support Goals 3A-3G in
+Chapter 3: Urban Form. Consider the different design contexts and transportation functions in Town
+Centers, Neighborhood Centers, Neighborhood Corridors, Employment Areas, Freight Corridors, Civic
+Corridors, Transit Station Areas, and Greenways.
+Policy 9.13. Development and street design. Evaluate adjacent land uses to help inform street
+classifications in framing, shaping, and activating the public space of streets. Guide development and
+land use to create the kinds of places and street environments intended for different types of streets.
+209. Finding: Policies 9.11 through 9.13 address the relationship between land use and
+transportation planning – both at the citywide scale of urban form, and at the site and street level.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 9.12 does not apply because the S2HC amendments do not change the Comprehensive Plan
+Map, the Urban Design Framework, or the functional classification of any existing or proposed
+transportation facility, nor do they change the standards implementing a functional classification
+system. Policy 9.13 addresses how development creates place and street environments at the
+block-by-block scale, and Policy 9.11 addresses the relationship at the street or corridor level. The
+S2HC amendments are making some changes to the uses allowed in some zones – such as
+allowing Group Living by right in single dwelling zones and allowing institutions to host shelters. In
+both cases standards are being applied to limit the new use to a scale that is consistent with other
+allowed uses – thus not significantly altering the street/corridor functions or character. Changes to
+increase the number of allowed shelter beds in commercial/mixed use zones will not have an
+impact on the nature of the associated corridors because shelters are already an allowed use. For
+these reasons, the S2HC amendments are consistent with these policies.
+Streets as public spaces
+Policy 9.14. Streets for transportation and public spaces. Integrate both placemaking and
+transportation functions when designing and managing streets by encouraging design, development,
+and operation of streets to enhance opportunities for them to serve as places for community
+interaction, environmental function, open space, tree canopy, recreation, and other community
+purposes.
+Policy 9.15. Repurposing street space. Encourage repurposing street segments that are not critical for
+transportation connectivity to other community purposes.
+Policy 9.16. Design with nature. Promote street alignments and designs that respond to topography
+and natural features, when feasible, and protect streams, wildlife habitat, and native trees.
+210. Finding: Policies 9.14 through 9.16 address the design and use of public streets and not
+development or uses on private or public land outside of the right of way. These policies do not
+apply.
+Modal policies
+Policy 9.17. Pedestrian transportation. Encourage walking as the most attractive mode of
+transportation for most short trips, within and to centers, corridors, and major destinations, and as a
+means for accessing transit.
+Policy 9.18. Pedestrian networks. Create more complete networks of pedestrian facilities, and
+improve the quality of the pedestrian environment.
+Policy 9.19. Pedestrian safety and accessibility. Improve pedestrian safety, accessibility, and
+convenience for people of all ages and abilities.
+Policy 9.20. Bicycle transportation. Create conditions that make bicycling more attractive than driving
+for most trips of approximately three miles or less.
+Policy 9.21. Accessible bicycle system. Create a bicycle transportation system that is safe,
+comfortable, and accessible to people of all ages and abilities.
+Policy 9.22. Public transportation. Coordinate with public transit agencies to create conditions that
+make transit the preferred mode of travel for trips that are longer than 3 miles or shorter trips not
+made by walking or bicycling.
+Policy 9.23. Transportation to job centers. Promote and enhance transit to be more convenient and
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+economical than the automobile for people travelling more than three miles to and from the Central
+City and Gateway. Enhance regional access to the Central City and access from Portland to other
+regional job centers.
+Policy 9.24. Transit service. In partnership with TriMet, develop a public transportation system that
+conveniently, safely, comfortably, and equitably serves residents and workers 24 hours a day, 7 days a
+week.
+Policy 9.25. Transit equity. In partnership with TriMet, maintain and expand high-quality frequent
+transit service to all Town Centers, Civic Corridors, Neighborhood Centers, Neighborhood Corridors,
+and other major concentrations of employment, and improve service to areas with high
+concentrations of poverty and historically under-served and under-represented communities.
+9.25.a. Support a public transit system and regional transportation that address the
+transportation needs of historically marginalized communities and provide increased mobility
+options and access.
+Policy 9.26. Transit funding. Consider funding strategies and partnership opportunities that improve
+access to and equity in transit service, such as raising Metro-wide funding to improve service and
+decrease user fees/fares.
+Policy 9.27. Transit service to centers and corridors. Use transit investments to shape the city’s
+growth and increase transit use. In partnership with TriMet and Metro, maintain, expand, and
+enhance Portland Streetcar, frequent service bus, and high-capacity transit, to better serve centers
+and corridors with the highest intensity of potential employment and household growth.
+9.27.a. Locate major park-and-ride lots only where transit ridership is increased significantly,
+vehicle miles traveled are reduced, transit-supportive development is not hampered, bus service
+is not available or is inadequate, and the surrounding area is not negatively impacted.
+Policy 9.28. Intercity passenger service. Coordinate planning and project development to expand
+intercity passenger transportation services in the Willamette Valley, and from Portland to Seattle and
+Vancouver, BC.
+Policy 9.29. Regional trafficways and transitways. Maintain capacity of regional transitways and
+existing regional trafficways to accommodate through-traffic.
+Policy 9.30. Multimodal goods movement. Develop, maintain, and enhance a multimodal freight
+transportation system for the safe, reliable, sustainable, and efficient movement of goods within and
+through the city.
+Policy 9.31. Economic development and industrial lands. Ensure that the transportation system
+supports traded sector economic development plans and full utilization of prime industrial land,
+including brownfield redevelopment.
+Policy 9.32. Multimodal system and hub. Maintain Portland’s role as a multimodal hub for global and
+regional movement of goods. Enhance Portland’s network of multimodal freight corridors.
+Policy 9.33. Freight network. Develop, manage, and maintain a safe, efficient, and reliable freight
+street network to provide freight access to and from intermodal freight facilities, industrial and
+commercial districts, and the regional transportation system. Invest to accommodate forecasted
+growth of interregional freight volumes and provide access to truck, marine, rail, and air
+transportation systems. Ensure designated routes and facilities are adequate for over-dimensional
+trucks and emergency equipment.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 9.34. Sustainable freight system. Support the efficient delivery of goods and services to
+businesses and neighborhoods, while also reducing environmental and neighborhood impacts.
+Encourage the use of energy efficient and clean delivery vehicles, and manage on- and off-street
+loading spaces to ensure adequate access for deliveries to businesses, while maintaining access to
+homes and businesses.
+Policy 9.35. Freight rail network. Coordinate with stakeholders and regional partners to support
+continued reinvestment in, and modernization of, the freight rail network.
+Policy 9.36. Portland Harbor. Coordinate with the Port of Portland, private stakeholders, and regional
+partners to improve and maintain access to marine terminals and related river dependent uses in
+Portland Harbor.
+9.36.a. Support continued reinvestment in, and modernization of, marine terminals in Portland
+Harbor.
+9.36.b. Facilitate continued maintenance of the shipping channels in Portland Harbor and the
+Columbia River.
+9.36.c. Support more long-distance, high-volume movement of goods to river and oceangoing
+ships and rail.
+Policy 9.37. Portland Heliport. Maintain Portland’s Heliport functionality in the Central City.
+Policy 9.38. Automobile transportation. Maintain acceptable levels of mobility and access for private
+automobiles while reducing overall vehicle miles traveled (VMT) and negative impacts of private
+automobiles on the environment and human health.
+Policy 9.39. Automobile efficiency. Coordinate land use and transportation plans and programs with
+other public and private stakeholders to encourage vehicle technology innovation, shifts toward
+electric and other cleaner, more energy-efficient vehicles and fuels, integration of smart vehicle
+technology with intelligent transportation systems, and greater use of options such as car-share,
+carpool, and taxi.
+Policy 9.40. Emergency response. Maintain a network of accessible emergency response streets to
+facilitate safe and expedient emergency response and evacuation. Ensure that police, fire, ambulance,
+and other emergency providers can reach their destinations in a timely fashion, without negatively
+impacting traffic calming and other measures intended to reduce crashes and improve safety.
+211. Finding: Policies 9.17 through 9.40 primarily address the design and use of transportation
+infrastructure, and the goal of developing a more multimodal system. The policies are applicable
+to code amendments such as those in the S2HC package to the extent that the changes encourage
+walking, make bicycling more attractive than driving, and make transit the preferred mode of
+travel for trips that are longer than 3 miles. The policies also address mobility and VMT, which can
+be impacted by how land uses are distributed. Land use changes can impact travel behavior by
+changing the distribution of where people are within the city, and the proximity of their daily
+movements to transit systems, and walkable and bikeable street networks.
+The S2HC package has four main impacts on land use: it adds flexibility for shelter siting; it
+establishes outdoor shelters as a new community service use; it liberalizes the allowances for
+Group Living; and it allows permanent occupancy of recreational vehicles and tiny houses on
+wheels. Key findings related to system-wide transportation impacts from these amendments are
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+summarized below. Additional support for these findings is provided in the memorandum
+provided by the Portland Bureau of Transportation dated March 1, 2021.
+§ S2HC trips are already accounted for in the transportation model, and the transportation
+system can adequately support these trips through the programs and projects that have
+been identified in the 2035 Transportation System Plan.
+§ S2HC facilities are expected to generate fewer trips than other housing and employment
+uses that are currently allowed in the zones that are proposed for code changes.
+§ S2HC trips are likely to be dispersed throughout the transportation network and should
+therefore not have a major impact on travel patterns.
+§ The greatest expansion of shelter allowances generally correspond to zones that are close to
+transit. Large shelters remain a conditional use in the more dispersed single-dwelling zones
+that may not be located close to transit. This may support transit usage to some extent.
+§ The Group Living use allowances may change the type of housing people live in, but there is
+no reason to suggest it will add new growth or re-distribute where housing is developed.
+§ The allowance for occupancy of recreational vehicles and tiny houses on wheels is similar to
+the existing accessory dwelling unit allowance. By allowing flexibility for additional
+occupancy on residential lots, there may be somewhat greater capacity for households to be
+located close to transit.
+On balance, these code changes are either consistent with, or do not affect implementation of,
+these multimodal policies.
+The Council amended the S2HC package to allow small shelters located on the site of an existing
+institutional use (e.g., church, mosque, synagogue, or school) by right without a Conditional Use.
+There are approximately 1,300 of these sites in single-dwelling zones). The findings above in
+response to Policy 4.16 discuss why this is not a significant impact considering the expected
+number of shelters and what is already allowed in single-dwelling zones. Those findings are
+incorporated by reference.
+Policy 9.38 addresses automobile mobility and VMT, which can be impacted by land use changes.
+Mobility and VMT is discussed in response to Policy 9.49 below.
+Airport Futures
+Policy 9.41. Portland International Airport. Maintain the Portland International Airport as an
+important regional, national, and international transportation hub serving the bi-state economy.
+Policy 9.42. Airport regulations. Implement the Airport Futures Plan through the implementation of
+the Portland International Airport Plan District.
+9.42.a. Prohibit the development of a potential third parallel runway at PDX unless need for its
+construction is established through a transparent, thorough, and regional planning process.
+9.42.b. Support implementation of the Aircraft Landing Zone to provide safer operating
+conditions for aircraft in the vicinity of Portland International Airport by limiting the height of
+structures, vegetation, and construction equipment.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+9.42.c. Support the Port of Portland’s Wildlife Hazard Management Plan by implementing
+airport-specific landscaping requirements in the Portland International Airport Plan District to
+reduce conflicts between wildlife and aircraft.
+Policy 9.43. Airport partnerships. Partner with the Port of Portland and the regional community to
+address the critical interconnection between economic development, environmental stewardship, and
+social responsibility. Support an ongoing public advisory committee for PDX to:
+9.43.a. Support meaningful and collaborative public dialogue and engagement on airport
+related planning and development.
+9.43.b. Provide an opportunity for the community to inform the decision-making related to the
+airport of the Port, the City of Portland, and other jurisdictions/organizations in the region.
+9.43.c. Raise public knowledge about PDX and impacted communities.
+Policy 9.44. Airport investments. Ensure that new development and redevelopment of airport
+facilities supports the City’s and the Port’s sustainability goals and policies, and is in accordance with
+Figure 9-3 — Portland International Airport. Allow the Port flexibility in configuring airport facilities to
+preserve future development options, minimize environmental impacts, use land resources efficiently,
+maximize operational efficiency, ensure development can be effectively phased, and address Federal
+Aviation Administration’s airport design criteria.
+212. Finding: Policies 9.41 through 9.44 provide policy direction related to Portland International
+Airport. The amendments of the S2HC Project do not change the Portland International Airport
+Plan District, or have any impact on airport facilities. These policies do not apply.
+System management
+Policy 9.45. System management. Give preference to transportation improvements that use existing
+roadway capacity efficiently and that improve the safety of the system for all users.
+9.45.a. Support regional equity measures for transportation system evaluation.
+Policy 9.46. Traffic management. Evaluate and encourage traffic speed and volume to be consistent
+with street classifications and desired land uses to improve safety, preserve and enhance
+neighborhood livability, and meet system goals of calming vehicle traffic through a combination of
+enforcement, engineering, and education efforts.
+9.46.a. Use traffic calming tools, traffic diversion and other available tools and methods to
+create and maintain sufficiently low automotive volumes and speeds on neighborhood
+greenways to ensure comfortable cycling environment on the street.
+Policy 9.47. Connectivity. Establish an interconnected, multimodal transportation system to serve
+centers and other significant locations. Promote a logical, direct, and connected street system through
+street spacing guidelines and district-specific street plans found in the Transportation System Plan,
+and prioritize access to specific places by certain modes in accordance with policies 9.6 and 9.7.
+9.47.a. Develop conceptual master street plans for areas of the City that have significant
+amounts of vacant or underdeveloped land and where the street network does not meet City
+and Metro connectivity guidelines.
+9.47.b. As areas with adopted Street Plans develop, provide connectivity for all modes by
+developing the streets and accessways as shown on the Master Street Plan Maps in the
+Comprehensive Plan.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+9.47.c. Continue to provide connectivity in areas with adopted Street Plans for all modes of
+travel by developing public and private streets as shown on the Master Street Plan Maps in the
+Comprehensive Plan.
+9.47.d. Provide street connections with spacing of no more than 530 feet between connections
+except where prevented by barriers such as topography, railroads, freeways, or environmental
+constraints. Where streets must cross over protected water features, provide crossings at an
+average spacing of 800 to 1000 feet, unless exceptional habitat quality of length of crossing
+prevents a full street connection.
+9.47.e Provide bike and pedestrian connections at approximately 330 feet intervals on public
+easements or rights-of-way when full street connections are not possible, except where
+prevented by barriers s such as topography, railroads, freeways, or environmental constraints.
+Bike and pedestrian connections that cross protected water features should have an average
+spacing of no more than 530 feet, unless exceptional habitat quality or length of connection
+prevents a connection.
+Policy 9.48 Technology. Encourage the use of emerging vehicle and parking technology to improve
+real-time management of the transportation network and to manage and allocate parking supply and
+demand.
+Policy 9.49 Performance measures. Establish multimodal performance measures and measures of
+system completeness to evaluate and monitor the adequacy of transportation services based on
+performance measures in goals 9.A. through 9.I. Use these measures to evaluate overall system
+performance, inform corridor and area-specific plans and investments, identify project and program
+needs, evaluate and prioritize investments, and regulate development, institutional campus growth,
+zone changes, Comprehensive Plan Map amendments, and conditional uses.
+9.49.a. Eliminate deaths and serious injuries for all who share Portland streets by 2025.
+9.49.b. Maintain or decrease the number of peak period non-freight motor vehicle trips, system-
+wide and within each mobility corridor to reduce or manage congestion.
+9.49.c. By 2035, reduce the number of miles Portlanders travel by car to 11 miles per day or less,
+on average.
+9.49.d. Establish mode split targets in 2040 Growth Concept areas within the City, consistent
+with Metro’s targets for these areas.
+9.49.e. By 2035, increase the mode share of daily non-drive alone trips to 70 percent citywide,
+and to the following in the five pattern areas:
+Pattern Area 2035 daily target mode share
+Central City 85%
+Inner Neighborhoods 70%
+Western Neighborhoods 65%
+Eastern Neighborhoods 65%
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Industrial and River 55%
+
+9.49.f. By 2035, 70 percent of commuters walk, bike, take transit, carpool, or work from home
+at approximately the following rates:
+Mode Mode Share
+Walk 7.5%
+Bicycle 25%
+Transit 25%
+Carpool 10%
+Single Occupant Vehicle (SOV) 30% or less
+Work at home 10% below the line (calculated
+outside of the modal targets above)
+
+9.49.g. By 2035, reduce Portland’s transportation-related carbon emissions to 50% below 1990
+levels, at approximately 934,000 metric tons.
+9.49.h. By 2025, increase the percentage of new mixed use zone building households not
+owning an automobile from approximately 13% (2014) to 25%, and reduce the percentage of
+households owning two automobiles from approximately 24% to 10%.
+9.49.i. Develop and use alternatives to the level-of-service measure to improve safety,
+encourage multimodal transportation, and to evaluate and mitigate maintenance and new trip
+impacts from new development.
+9.49.j. Use level-of-service, consistent with Table 9.1, as one measure to evaluate the adequacy
+of transportation facilities in the vicinity of sites subject to land use review.
+9.49.k. Maintain acceptable levels of performance on state facilities and the regional arterial
+and throughway network, consistent with the interim standard in Table 9.2, in the development
+and adoption of, and amendments to, the Transportation System Plan and in legislative
+amendments to the Comprehensive Plan Map.
+9.49.l. In areas identified by Metro that exceed the level-of-service in Table 9.2 and are
+planned to, but do not currently meet the alternative performance criteria, establish an action
+plan that does the following:
+• Anticipates growth and future impacts of motor vehicle traffic on multimodal travel in
+the area
+• Establishes strategies for mitigating the future impacts of motor vehicles
+• Establishes performance standards for monitoring and implementing the action plan.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Table 9-2: Oregon Metro Interim Deficiency Thresholds and Operating Standards
+Location Standards
+Mid-
+Day
+One-
+Hour
+Peak *
+PM 2-Hour Peak
+*
+1st
+Hour
+2nd Hour
+Central City, Gateway, Town Centers,
+Neighborhood Centers, Station Areas
+0.99 1.1 0.99
+I-84 (from I-5 to I-205), I-5 North (from Marquam Bridge
+to Interstate Bridge, OR 99- E (from Lincoln St. to OR 224),
+US 26 (from I-405 to Sylvan Interchange), I-405
+0.99 1.1 0.99
+Other Principal Arterial Routes 0.90 0.99 0.99
+*The demand-to-capacity ratios in the table are for the
+highest two consecutive hours of the weekday traffic
+volumes. The mid-day peak hour is the highest 60-minute
+period between the hours of 9 a.m. and 3 p.m. The 2nd
+hour is defined as the single 60-minute period, either
+before or after the peak 60-minute period, whichever is
+highest.
+
+9.49.m. Develop performance measures to track progress in creating and maintaining the
+transportation system.
+Policy 9.50 Regional congestion management. Coordinate with Metro to establish new regional
+multimodal mobility standards that prioritize transit, freight, and system completeness.
+9.50.a. Create a regional congestion management approach, including a market-based system,
+to price or charge for auto trips and parking, better account for the cost of auto trips, and to
+more efficiently manage the regional system.
+Policy 9.51. Multimodal Mixed-Use Area. Manage Central City Plan amendments in accordance with
+the designated Central City Multimodal Mixed-Use Area (MMA) in the geography indicated in Figure 9-
+2. The MMA renders congestion / mobility standards inapplicable to any proposed plan amendments
+under OAR 660-0012-0060(10).
+213. Finding: Policies 9.45 through 9.51 generally address the system-wide management of the City’s
+transportation system. VMT and mode split targets are integrally related because they are two
+ways to measure system performance. Policy 9.49 addresses state and regional system
+performance standards, and includes standards related to vehicle congestion. The S2HC proposal
+could have an impact on these performance standards if the code changes within the proposal
+allow an increase in development near transportation facilities where levels of congestion exceed
+these standards.
+To evaluate these impacts project staff considered the proposed amendments to add flexibility for
+shelter siting; establish outdoor shelters as a new community service use; liberalize the allowances
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+for Group Living; and allow permanent occupancy of recreational vehicles and tiny houses on
+wheels.
+Staff used traffic modelling completed as part of the 2035 Comprehensive Plan adoption process
+as a benchmark. As part of that process the Metro Regional Travel Demand Model was run and
+used (based on the City’s land use plan) to identify which street segments were likely to have
+traffic volumes over the designed capacity within the 20-year planning horizon (volume to
+capacity ratios). This model projection was calibrated to the region’s 20-year growth forecast.
+With that information, both the Portland Bureau of Transportation and ODOT identified areas of
+concern – where standards might not be met, or where the amount of traffic would be close to
+designed capacity (where there may be congestion).
+When analyzing the potential transportation impacts from S2HC, PBOT compared the underlying
+assumptions of this regional travel demand modeling with anticipated changes from S2HC to
+determine if there would be any significant changes that could impact the transportation system.
+The memorandum provided by PBOT dated March 1, 2021 identified the following key findings
+related to transportation impacts.
+§ S2HC trips are already accounted for in the transportation model. “The regional travel
+demand model that PBOT uses to evaluate transportation impacts from land use changes does
+not differentiate between people living outside and those living in shelters. The model is built
+on population and employment projections. It assumes that everyone in the population
+projection is housed.” As a result, the people being served or housed in the facilities and
+housing types permitted by S2HC amendments are already represented in traffic modelling as
+making daily trips.
+§ The transportation system can adequately support these trips through the programs and
+projects that have been identified in the 2035 Transportation System Plan.
+§ S2HC facilities are expected to generate fewer trips than other housing and employment uses
+that are currently allowed in the zones that are proposed for code changes, based on ITE trip
+generation rates.
+§ S2HC trips are likely to be dispersed throughout the transportation network, minimizing the
+potential traffic impacts to the system and to areas that have been identified as “areas of
+concern”.
+§ The greatest expanded shelter allowances generally correspond to zones that are close to
+transit. Large shelters remain a conditional use in more dispersed single-dwelling zones that
+may not be located close to transit. Proximity to transit and services will serve to further
+reduce potential automobile impacts.
+The Council did amend the S2HC package to allow small shelters located on the site of an existing
+institutional use (e.g., church, mosque, synagogue, or school) by right without a Conditional Use.
+There are approximately 1,300 of these sites in single-dwelling zones. The findings above in
+response to Policy 4.16 discuss why this is not a significant impact considering the expected
+number of shelters and the scale of what is already allowed in single-dwelling zones. Those
+findings are incorporated by reference.
+The S2HC project is not anticipated to significantly impact how the transportation system
+functions, by impacting mobility, generating significant congestion, impacting mode choices or
+changing VMT. Any transportation impacts that are likely to occur because of S2HC can be
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+sufficiently managed through current and planned projects and programs that have already been
+identified in the 2035 Transportation System Plan.
+Transportation Demand Management
+Policy 9.52. Outreach. Create and maintain TDM outreach programs that work with Transportation
+Management Associations (TMA), residents, employers, and employees that increase the modal share
+of walking, bicycling, and shared vehicle trips while reducing private vehicle ownership, parking
+demand, and drive-alone trips, especially during peak periods.
+Policy 9.53. New development. Create and maintain TDM regulations and services that prevent and
+reduce traffic and parking impacts from new development and redevelopment. Encourage
+coordinated area-wide delivery of TDM programs. Monitor and improve the performance of private-
+sector TDM programs.
+Policy 9.54. Projects and programs. Integrate TDM information into transportation project and
+program development and implementation to increase use of new multimodal transportation projects
+and services.
+214. Finding. Policies 9.52 through 9.54 provide direction regarding transportation demand
+management. The City has created TDM financial incentive programs but has elected to only
+require participation in those programs for larger developments (10 or more dwelling units). The
+S2HC amendments do not affect existing TDM regulations or outreach programs (e.g.,
+requirements in Title 17, Smart Trips and Safe Routes to Schools).
+TDM code requirements apply based on the number of dwelling units in a development. By
+changing the definitions of Household Living, Group Living, and dwelling unit the S2HC Project will
+in-effect cause a few developments that would have been exempt to now be subject to TDM
+requirements, and a few projects that had been subject to them to now be exempt. This change is
+technical in nature and will not have a significant impact on the overall number of projects subject
+to required TDM plans.
+Parking Management
+Policy 9.55. Parking management. Reduce parking demand and manage supply to improve
+pedestrian, bicycle and transit mode share, neighborhood livability, safety, business district vitality,
+vehicle miles traveled (VMT) reduction, and air quality. Implement strategies that reduce demand for
+new parking and private vehicle ownership, and that help maintain optimal parking occupancy and
+availability.
+Policy 9.56. Curb Zone. Recognize that the Curb Zone is a public space, a physical and spatial asset
+that has value and cost. Evaluate whether, when, and where parking is the highest and best use of this
+public space in support of broad City policy goals and local land use context. Establish thresholds to
+utilize parking management and pricing tools in areas with high parking demand to ensure adequate
+on-street parking supply during peak periods.
+Policy 9.57. On-street parking. Manage parking and loading demand, supply, and operations in the
+public right of way to achieve mode share objectives, and to encourage safety, economic vitality, and
+livability. Use transportation demand management and pricing of parking in areas with high parking
+demand.
+Policy 9.58. Off-street parking. Limit the development of new parking spaces to achieve land use,
+transportation, and environmental goals, especially in locations with frequent transit service. Regulate
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+off-street parking to achieve mode share objectives, promote compact and walkable urban form,
+encourage lower rates of car ownership, and promote the vitality of commercial and employment
+areas. Use transportation demand management and pricing of parking in areas with high parking
+demand.
+Policy 9.59. Share space and resources. Encourage the shared use of parking and vehicles to maximize
+the efficient use of limited urban space.
+Policy 9.60. Cost and price. Recognize the high public and private cost of parking by encouraging
+prices that reflect the cost of providing parking and balance demand and supply. Discourage employee
+and resident parking subsidies.
+215. Finding: Policies 9.55 and 9.58 address parking management and off-street parking.
+These policies direct us to consider mode share objectives, promote compact and walkable urban
+form, and encourage lower rates of car ownership.
+The S2HC will have very minor impacts on off-street parking requirements for a small number of
+buildings, based on the revised definitions of Group Living and Household Living. Household living
+is now defined as the occupancy of a dwelling unit with 8 or fewer bedrooms. Group living is the
+occupancy of a dwelling unit with more than 8 bedrooms, or of a congregate housing facility. This
+affects parking requirements, because ratios for Group Living and Household Living are calculated
+differently—Household Living is by dwelling and Group Living is by resident. However, these
+changes will affect a very small number of potential developments and will not have a significant
+impact on the City’s policies related to parking demand.
+Policies 9.56, 9.57, 9.59 and 9.60 address the management of space within the right of way. These
+policies do not apply because the S2HC amendments do not change how the City manages the
+right of way.
+Policy 9.61. Bicycle parking. Promote the development of new bicycle parking facilities including
+dedicated bike parking in the public right-of-way. Provide sufficient bicycle parking at high-capacity
+transit stations to enhance bicycle connection opportunities. Require provision of adequate off-street
+bicycle parking for new development and redevelopment. Encourage the provision of parking for
+different types of bicycles. In establishing the standards for long-term bicycle parking, consider the
+needs of persons with different levels of ability.
+216. Finding: This policy does not apply because this ordinance does not include any changes to the
+bicycle parking regulations.
+Finance, programs, and coordination
+Policy 9.62. Coordination. Coordinate with state and federal agencies, local and regional
+governments, special districts, other City bureaus, and providers of transportation services when
+planning for, developing, and funding transportation facilities and services.
+Policy 9.63. New development impacts. Prevent, reduce, and mitigate the impacts of new
+development and redevelopment on the transportation system. Utilize strategies including
+transportation and parking demand management, transportation system analysis, and system and
+local impact mitigation improvements and fees.
+217. Finding: The potential impacts on the transportation system from the S2HC amendments are
+addressed in the findings for Policy 9.49 above.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Policy 9.64. Education and encouragement. Create, maintain, and coordinate educational and
+encouragement programs that support multimodal transportation and that emphasize safety for all
+modes of transportation. Ensure that these programs are accessible to historically under-served and
+under-represented populations.
+Policy 9.65. Telecommuting. Promote telecommuting and the use of communications technology to
+reduce travel demand.
+Policy 9.66. Project and program selection criteria. Establish transportation project and program
+selection criteria consistent with goals 9A through 9I, to cost-effectively achieve access, placemaking,
+sustainability, equity, health, prosperity, and safety goals.
+Policy 9.67. Funding. Encourage the development of a range of stable transportation funding sources
+that provide adequate resources to build and maintain an equitable and sustainable transportation
+system.
+218. Finding: Policies 9.64 through 9.67 address the funding and management of the City’s
+transportation system and programs and not development or uses on private or public land
+outside of the right of way. One of the mechanisms of funding transportation projects is the
+Transportation System Development Charge (SDC). The S2HC amendments, through changes
+being made to Titles 17 and 30, provide SDC waivers to the new outdoor shelter format, and for
+the utility connections being required for occupied RVs and Tiny Houses on Wheels.
+• The change related to RVs and Tiny Houses on Wheels is a technical clarification consistent
+with current practice – because these utility connections do not require building permits and
+are therefore not currently charged transportation or other SDCs. The primary reason for the
+change was to clarify that sewer and water SDCs would not be charged as the code would
+otherwise be unclear on that point.
+• The existing Title 17 and 30 code already exempts shelters, but new language was needed to
+align with the revised terminology and definitions in the Zoning Code.
+Based on the limited technical nature of these changes they will not have any significant impact on
+the stability of transportation system funding. The ongoing Council decision to avoid charging
+SDCs for certain affordable housing projects and shelters is consistent with the equity policies of
+this plan.
+Connected and Automated Vehicles
+Policy 9.68 New mobility priorities and outcomes. Facilitate new mobility vehicles and services with
+the lowest climate and congestion impacts and greatest equity benefits; with priority to vehicles that
+are fleet/shared ownership, fully automated, electric and, for passenger vehicles, shared by multiple
+passengers (known by the acronym FAVES). Develop and implement strategies for each following
+topic.
+9.68.a. Ensure that all new mobility vehicles and services and levels of automated vehicles
+advance Vision Zero by operating safely for all users, especially for vulnerable road users.
+Require adequate insurance coverage for operators, customers, and the public-at-large by
+providers of new mobility vehicles and services.
+9.68.b. Ensure that new mobility vehicles and services improve active transportation and shared
+ride travel time reliability and system efficiency by:
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+1. maintaining or reducing the number of vehicle trips during peak congestion periods;
+2. reducing low occupancy vehicle trips during peak congestion periods;
+3. paying for use of, and impact on, Portland’s transportation system including factors
+such as congestion level, carbon footprint, vehicle miles traveled, vehicle occupancy,
+and vehicle energy efficiency; and
+4. supporting and encouraging use of public transportation.
+
+9.68.c. Cut vehicle carbon pollution by reducing low occupancy “empty miles” traveled by
+passenger vehicles with zero or one passengers. Prioritize vehicles and services with the least
+climate pollution, and electric and other zero direct emission vehicles operated by fleets and
+carrying multiple passengers.
+9.68.d. Make the benefits of new mobility available on an equitable basis to all segments of the
+community while ensuring traditionally disadvantaged communities are not disproportionately
+hurt by new mobility vehicles and services. This includes people with disabilities, as well as
+communities of color, women, and geographically underserved communities.
+9.68.e Identify, prevent, and mitigate potential adverse impacts from new mobility vehicles and
+services.
+Policy 9.69 New mobility tools. Use a full range of tools to ensure that new mobility vehicles and
+services and private data communications devices installed in the City right of way contribute to
+achieving Comprehensive Plan and Transportation System Plan goals and policies.
+9.69.a. Maintain City authority to identify and develop appropriate data sharing requirements to
+inform and support safe, efficient, and effective management of the transportation system.
+Ensure that when new mobility vehicles and services use City rights-of-way or when vehicles
+connect with smart infrastructure within the City they share information including, but not
+limited to, vehicle type, occupancy, speed, travel routes, and travel times, crashes and citations,
+with appropriate privacy controls. Ensure that private data communications devices installed in
+the City right of way are required to share anonymized transportation data.
+9.69.b. Design and manage the mobility zone, curb/flex zone, and traffic control devices, e.g. to
+limit speeds to increase safety, to minimize cut-through traffic, evaluate future demand for pick-
+up and drop-off zones, and to prioritize automated electric vehicles carrying more passengers in
+congested times and locations;
+9.69.c. Evaluate the public cost and benefit of investments in wayside communication systems
+serving new mobility vehicles and services.
+9.69.d. Develop sustainable user-pays funding mechanisms to support new mobility vehicle
+infrastructure and service investments, transportation system maintenance, and efficient
+system management.
+9.69.e. Ensure that new mobility vehicles and
+ vehicles that connect to smart City infrastructure,
+and private data communications devices installed in the City right of way, help pay for
+infrastructure and service investments, and support system reliability and efficiency. Develop a
+tiered pricing structure that reflects vehicle and service impacts on the transportation system,
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+including factors such as congestion level, carbon footprint, vehicle miles traveled, vehicle
+occupancy, and vehicle energy efficiency.
+219. Finding: Policies 9.68 and 9.69 address the management of automated vehicles and not
+development or uses on private or public land outside of the right of way. These policies do not
+apply.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Chapter 10: Land Use Designations and Zoning
+Goal 10.A: Land use designations and zoning. Effectively and efficiently carry out the goals and
+policies of the Comprehensive Plan through the land use designations, Zoning Map, and the Zoning
+Code.
+220. The S2HC amendments do not change land use designations or the Zoning Map. The S2HC
+zoning code amendments add flexibility for shelter siting; establish outdoor shelters as a new
+community service use; liberalize the allowances for Group Living; and allow permanent
+occupancy of recreational vehicles and tiny houses on wheels. These amendments are consistent
+with the policies in the 2035 Comprehensive Plan, as described in the findings throughout this
+report.
+Land use designations
+Policy 10.1. Land use designations. Apply a land use designation to all land and water within the City’s
+Urban Services Boundary. Apply the designation that best advances the Comprehensive Plan goals and
+policies. The land use designations are shown on the adopted Land Use Map and on official Zoning
+Maps.
+221. The S2HC amendments do not change land use designations or the Zoning Map. This policy does
+not apply.
+The Zoning Map and the Zoning Code
+Policy 10.2. Relationship of land use designations to base zones. Apply a base zone to all land and
+water within the City’s urban services boundary. The base zone applied must either be a zone that
+corresponds to the land use designation or be a zone that does not correspond but is allowed per
+Figure 10-1 — Corresponding and Less-Intense Zones for Each Plan Map Designation. In some
+situations, there are long-term or short-term obstacles to achieving the level of development intended
+by the land use designation (e.g., an infrastructure improvement to serve the higher level of
+development is planned but not yet funded). In these situations, a less intense zone (listed in Figure
+10-1) may be applied. When a land use designation is amended, the zone may also have to be changed
+to a corresponding zone or a zone that does not correspond but is allowed.
+222. Finding: The S2HC does not apply or remove any base zones. This policy does not apply.
+Policy 10.3. Amending the Zoning Map.
+10.3.a. Amending a base zone may be done legislatively or quasi-judicially.
+10.3.b. When amending a base zone quasi-judicially, the amendment must be to a
+corresponding zone (see Figure 10-1 — Corresponding and Allowed Zones for Each Land Use
+Designation). When a designation has more than one corresponding zone, the most appropriate
+zone, based on the purpose of the zone and the zoning and general land uses of surrounding
+lands, will be applied.
+10.3.c. When amending a base zone legislatively, the amendment may be to a corresponding
+zone or to a zone that is does not correspond but is allowed (see Figure 10-1 — Corresponding
+and Allowed Zones for each Land Use Designation for zones that are allowed). A legislative
+Zoning Map amendment may not be to a zone that is not allowed.
+223. Finding: The S2HC does not apply or remove any base zones. This policy does not apply.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+10.3.d. An amendment to a base zone consistent with the land use designation must be
+approved when it is found that current public services can support the uses allowed by the zone,
+or that public services can be made capable by the time the development is complete. The
+adequacy of services is based on the proposed use and development. If a specific use and
+development proposal is not submitted, services must be able to support the range of uses and
+development allowed by the zone. For the purposes of this requirement, services include water
+supply, sanitary sewage disposal, stormwater management, transportation, school district
+capacity (where a school facility plan exists), and police and fire protection.
+224. Finding: The S2HC does not apply or remove any base zones. This policy does not apply.
+10.3.e. An amendment to apply or remove an overlay zone or plan district may be done
+legislatively or quasi-judicially, and must be based on a study or plan document that identifies a
+specific characteristic, situation, or problem that is not adequately addressed by the base zone
+or other regulations.
+225. Finding: The S2HC does not apply or remove any overlay zones. This policy does not apply.
+
+Policy 10.4. Amending the Zoning Code. Amendments to the zoning regulations must be done
+legislatively and should be clear, concise, and applicable to a broad range of development situations
+faced by a growing city. Amendments should:
+10.4.a. Promote good planning:
+• Effectively and efficiently implement the Comprehensive Plan.
+• Address existing and potential land use problems.
+• Balance the benefits of regulations against the costs of implementation and compliance.
+• Maintain Portland’s competitiveness with other jurisdictions as a location in which to live,
+invest, and do business.
+10.4.b. Ensure good administration of land use regulations:
+• Keep regulations as simple as possible.
+• Use clear and objective standards wherever possible.
+• Maintain consistent procedures and limit their number.
+• Establish specific approval criteria for land use reviews.
+• Establish application requirements that are as reasonable as possible, and ensure they are
+directly tied to approval criteria.
+• Emphasize administrative procedures for land use reviews.
+• Avoid overlapping reviews.
+10.4.c. Strive to improve the code document:
+• Use clear language.
+• Maintain a clear and logical organization.
+• Use a format and layout that enables use of the document by lay people as well as
+professionals.
+• Use tables and drawings to clarify and shorten the document.
+• Identify and act on regulatory improvement suggestions.
+
+226. Finding: The S2HC recommendation amends the following chapters of the zoning code:
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+• 33.100 Open Space Zone
+• 33.110 Single-Dwelling Zones
+• 33.120 Multi-Dwelling Zones
+• 33.130 Commercial/Mixed Use Zones
+• 33.140 Employment and Industrial Zones
+• 33.150 Campus Institutional Zones
+• 33.200 Additional Use & Development Regulations
+• 33.205 Accessory Dwelling Units
+• 33.207 Accessory Short Term Rentals
+• 33.236 Floating Structures
+• 33.239 Group Living
+• 33.260, Occupied Recreational Vehicles (New Chapter)
+• 33.285 Short Term, Mass and Outdoor Shelter
+• 33.296 Temporary Activities
+• 33.420 Design Overlay Zone
+• 33.815 Conditional Uses
+• 33.900 List of Terms
+• 33.910 Definitions
+• 33.920 Description of Use Categories
+Volumes 2 and 3 of the Recommended Draft—As-Amended present the legislative amendments
+to the Zoning Code to implement the concepts presented in Volume 1 of this ordinance. These
+amendments have been made in some cases to correct or update existing regulations to be
+consistent with the direction of S2HC, or to include new regulations and standards to allow
+implementation of S2HC as no other provisions may exist to accomplish that task. In all cases, the
+Zoning Code amendments are presented in as clear and objective of a way possible to ensure the
+intended users will be able understand and utilize the Zoning Code as it applies to their
+development proposals, land use, and properties, consistent with Comprehensive Plan Policy 10.4.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Part IV. Comprehensive Plan and Zoning Code Text Amendment
+Criteria
+33.835.040 Approval Criteria
+A. Amendments to the zoning code. Text amendments to the zoning code must be found to be
+consistent with the Comprehensive Plan, Urban Growth Management Functional Plan, and the
+Statewide Planning Goals. In addition, the amendments must be consistent with the intent or purpose
+statement for the base zone, overlay zone, plan district, use and development, or land division
+regulation where the amendment is proposed, and any plan associated with the regulations. The
+creation of a new plan district is subject to the approval criteria stated in 33.500.050.
+227. Finding: The findings in this report demonstrate how the S2HC zoning code amendments are
+consistent with the 2035 Comprehensive Plan, the Urban Growth Management Functional Plan,
+and the Statewide Planning Goals. Findings showing consistency with the purpose statements are
+provided below.
+The Council interprets this criterion to require the ordinance to be consistent with the
+Comprehensive Plan. Council notes that Comprehensive Plan defines the phrase “consistent with”
+to mean “the subject meets the requirements of, satisfies, or adheres to the regulations, mandate,
+or plan listed in the goal or policy.”
+The City Council has considered all applicable policies and the findings in this exhibit demonstrate
+how the amendments to the zoning code are consistent with the 2035 Comprehensive Plan, the
+Urban Growth Management Functional Plan, and with the Statewide Planning Goals.
+Council further finds this criterion operates in conjunction with Comprehensive Plan Policy 1.10
+which requires that amendments to the comprehensive Plan’s supporting documents, such as the
+Zoning Code, must “comply” with the Comprehensive Plan. “Comply” means “that amendments
+must be evaluated against the Comprehensive Plan’s applicable goals and policies and on balance
+be equally or more supportive of the Comprehensive Plan as a whole than the existing language or
+designation.” Additional findings in response to Policy 1.10 describe how the Council interprets
+“equally or more supportive” are incorporated here by reference.
+Council finds that S2HC amendments equally advance most of the Comprehensive Plan policies. As
+discussed in findings for Policy 1.10, Council further finds that the S2HC amendments are more
+supportive of the following Comprehensive Plan policies than the current code: Policy 5.46, Goal
+2.B, Policy 3.3.b., Goal 5.A, Goal 5.B, Goal 7.D and Policy 9.25.
+No new plan district has been proposed, therefore the criteria in 33.500.050 do not apply.
+The S2HC amendments make changes to the base zones and to use and development regulation.
+The consistency with the applicable purpose statements is addressed below.
+The amendments also remove Chapter 33.239 Group Living and add Chapter 33.260 Occupied
+Recreational Vehicle. This criterion is not applicable to those changes.
+For these reasons, this criterion has been met.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+33.100 Open Space Zone, 33.100.010 Purpose
+The Open Space zone is intended to preserve and enhance public and private open, natural, and
+improved park and recreational areas identified in the Comprehensive Plan. These areas serve many
+functions including:
+• Providing opportunities for outdoor recreation;
+• Providing contrasts to the built environment;
+• Preserving scenic qualities;
+• Protecting sensitive or fragile environmental areas;
+• Enhancing and protecting the values and functions of trees and the urban forest;
+• Preserving the capacity and water quality of the stormwater drainage system; and
+• Providing pedestrian and bicycle transportation connections.
+
+228. Finding: The S2HC amendment to the Open Space zone is a technical change to 33.100.100 that
+reflects the inclusion of outdoor shelters in the Community Service use category. Shelters will
+continue to be prohibited in the OS zone. Therefore, the proposed amendments within the Open
+Space Zone (33.100) are consistent with the purpose statement of that zone.
+The Council made amendments to the recommended code (in 33.296, temporary Activities) in
+order to clarify that temporary outdoor shelters would not be allowed in the OS zone or in certain
+natural resource overlays unless it was in the context of an emergency. To the extent that
+temporary shelters are allowed in OS zones during an emergency, they are not incompatible with
+the purpose of the OS zone because a temporary activity is characterized by their short-term or
+seasonal nature and by the fact that no permanent improvements2 are made to the site and
+33.296 describes temporary activities as neither primary or accessory uses.
+The Council further notes that the criteria state that changes to the text of the code must be
+“consistent with the base zone…where the amendment is proposed”. Changes to other chapters
+of the code do not need to be consistent with the purpose of other chapters.  Findings responding
+to the purpose statement of the Temporary Activities chapter are found below.
+
+33.110 Single-Dwelling Zones, 33.110.010 Purpose
+The single-dwelling zones are intended to preserve land for housing and to provide housing
+opportunities for individual households. The zones implement the Comprehensive Plan policies and
+designations for single-dwelling housing.
+A. Use regulations. The use regulations are intended to create, maintain and promote single-dwelling
+neighborhoods. They allow for some non-Household Living uses but not to such an extent as to
+sacrifice the overall image and character of the single-dwelling neighborhood.
+B. Development standards. The development standards preserve the character of neighborhoods by
+providing six different zones with different densities and development standards. The development
+standards work together to promote desirable residential areas by addressing aesthetically pleasing
+environments, safety, privacy, energy conservation, and recreational opportunities. The site
+development standards allow for flexibility of development while maintaining compatibility within the
+
+2 Only permanent improvements consistent with the base zone standards and allowed uses may be made.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+City's various neighborhoods. In addition, the regulations provide certainty to property owners,
+developers, and neighbors about the limits of what is allowed. The development standards are
+generally written for houses on flat, regularly shaped lots. Other situations are addressed through
+special regulations or exceptions.
+229. Finding: The S2HC amendments to the Single-Dwelling zones include the following:
+• Group Living to change from a conditional use to a limited use for uses with up to a 3,500
+square feet of net building area on the site in all of the Single-Dwelling zones.
+• The reference to single room occupancy housing type is being removed from Table 110-2 and
+the term congregate housing facility is being added.
+• Method for calculating building coverage for Group Living uses changed to be consistent with
+the method applied to Household Living uses.
+• A change to reflect the addition of outdoor shelter to the Community Service use category
+and the change in name for short term housing.
+• Institutional uses (which are primarily schools and faith-based organizations) are being
+allowed to host shelters of up to 20 beds without a Conditional Use review.
+• Temporary shelters are being allowed for up to 180 days a year. This is a change from the
+current code which allows temporary shelters only in response to declared emergencies or
+natural disasters.
+• The visitability standards referencing ICC A117.1 are revised to remove cross references to the
+international code council set of standards for Type C visitable units. Instead, specific
+requirements for visitable units are now wholly contained within the zoning code.
+• Allow residential occupancy of recreational vehicles and tiny houses on wheels on residential
+lots with a house.
+Group Living. Portland’s 2035 Comprehensive Plan identified both Household Living and Group
+Living as needed to meet present and future housing needs. The proposed amendments would
+not change the types of uses that can be permitted in the Single-Dwelling zones. Group Living uses
+are currently allowed in all Single-Dwelling zones through conditional use review. The 3,500
+square foot maximum size limitation for Group Living uses permitted through clear and objective
+standards is similar to the size of a dwelling unit. The base zone development standards, including
+setbacks, building coverage, maximum height, and the new floor area ratios that apply when the
+Residential Infill Project goes into effect in August 2021, limit the overall size of structures on a
+site. In some cases, the base zone development standards will limit the overall net building area
+allowed on a site to less than 3,500 square feet. In situations where there is more than one
+building on a site the 3,500 square foot limitation applies to all buildings, not to each building.
+These size limitations will help ensure that new residences for Household Living and Group Living
+will be of similar size and character. In addition, additional building area in excess of 3,500 square
+feet devoted to Group Living will still require conditional use approval.
+Although S2HC will allow a greater range of living configurations, the number of Group Living uses
+in single-dwelling zones is not expected to dramatically increase with these changes. Data from
+the Bureau of Development Services permit records shows that between 2010 and 2020 there
+were only 12 conditional use reviews for Group Living uses citywide. Only 5 of those sites were in
+single-dwelling zones. Most were larger Group Living facilities in multi-dwelling zones. Four of
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+those five sites in single-dwelling zones would still be conditional uses because they were larger
+facilities above the proposed 3,500 square foot threshold. One was a smaller house-size facility for
+young adults transitioning from foster care, which would have been allowed by right under the
+S2HC code. While there may be more small-scale Group Living uses permitted outright in single-
+dwelling zones under the new allowances, the BDS data suggests that Group Living uses tend to be
+larger facilities that will still trigger conditional use review in single-dwelling zones.
+Some testimony has raised concerns about the impact of supportive housing on neighborhood
+livability, safety or crime rates. To the extent that this concern relates to “image and character”,
+the Council finds that supportive housing does not decrease property values nor increase criminal
+activity. We refer to an Urban Land Institute Report prepared for HUD in 1999, which examined
+the impact of supportive housing on neighborhoods and neighbors in Denver ("The Impact of
+Supportive Housing on Neighborhoods and Neighbors"). The Council also notes that there are no
+Zoning Code mechanisms that regulate who can live in residential zones, and that these concerns
+can also be generated by housing forms that are allowed by right. While some testifiers may wish
+to use zoning to control the class, race or character of people in single dwelling areas; none of the
+policies governing residential character (Policies 4.15-4.19) address the behavior of people, and
+there are state and federal laws precluding the use of zoning to segregate people.
+The proposed revisions to Group Living use allowances render a separate single room occupancy
+definition unnecessary, because residential living configurations considered under single room
+occupancy would be considered a Group Living use, generally in a congregate housing facility.
+Currently, building coverage for Group Living uses is the same as Institutional uses (50% of the lot
+area). The amendments would change the lot coverage allowance for Group Living uses to be
+consistent with Household Living uses, which would result in somewhat less building coverage on
+lots which are larger than 3000 square feet in size.
+Shelters. Most permanent homeless shelters would continue to require conditional use review in
+single-dwelling zones, which would consider physical compatibility and livability as review criteria.
+The Council adopted an amendment to allow the sites of institutional uses (such as faith-based
+institutions like churches, mosques, synagogues, etc.) to host small shelters (up to 20 beds).
+Changes to the Temporary Use chapter (33.296) also allow temporary shelters in most zones,
+including residential zones. These changes relate to the routine ongoing need for temporary
+facilities, not needs derived from larger natural disasters and emergencies (which had already
+been permitted prior to the S2HC project). These changes do not have a significant impact on the
+character and image of single dwelling zones, for these reasons:
+• Allowing temporary shelters will not have an impact on the general scale and pattern of
+buildings and development because temporary uses cannot make permanent changes to the
+site (33.296.020).
+• When considering the “characteristics of Portland’s residential neighborhoods” it is useful to
+refer to policies that define the desired character. These include the policies in Chapter 4 of
+this plan. In particular, policies 4.15 through 4.19 address residential areas. They include 4.15 -
+Residential area continuity and adaptability, 4.16 - Scale and patterns, 4.17 - demolitions, 4.18
+– Compact single family options, and 4.19 - Resource efficient and healthy residential design
+and development. Specific findings about that character is made in response to those policies.
+For purposes of this findings we note that the policies emphasize continuity of patterns and
+scale, but also call for choices to accommodate a wider diversity of family sizes, incomes, and
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+ages, and the changing needs of households over time. The introduction to that section of the
+plan reads: “Even in relatively stable lower-density residentially-zoned areas, there will be
+development and change. These policies encourage design and development that provides
+continuity with existing development patterns in lower-density residentially-zoned areas
+outside of centers and corridors. They also support these areas’ continuing evolution as places
+that provide additional housing opportunities to meet the diverse needs of Portlanders but
+that will not be places of major change in urban form and scale.”
+• Allowing institutional uses to host small shelters will not have an impact on the character and
+image because institutional uses already exist in residential neighborhoods and are already
+part of the existing neighborhood character. Institutional uses tend to have larger sites (1 acre
+on average – based on the list of such sites compiled by staff), and already provide a variety of
+non-residential services and uses. Limiting this use to 20 beds means that any new permanent
+structures to accommodate this use can be of a scale that is comparable to what is already
+allowed in single dwelling zones. For example, a triplex or fourplex allowed under HB 2001
+might house 16 people if four families lived there.
+• The existing zoning code allows for other temporary uses such as construction staging, real
+estate sales offices, seasonal outdoor sales of plants and produce, farmers markets on
+institutional sites, and short term fairs and carnivals. While a homeless shelter provides a
+different type of service than these examples, it is it has characteristics that are more
+compatible with residential uses than some other temporary uses (the service it offers is a
+place to sleep). It would not have the same noise impacts of a construction site, or the traffic
+impacts of a fair or carnival.
+• Some testimony has raised concerns about the impact of shelters on neighborhood livability,
+safety or crime rates. To the extent that this concern relates to “character” and “image”, we
+find that shelters can have a positive impact on neighborhoods. A Guardian study of two US
+cities found that crime is likelier to go down than up in neighborhoods that host city
+sanctioned encampments (Guardian, “No link between homeless villages and crime rates”,
+May 2018). A Washington Post literature review similarly found no clear link between shelters
+and neighborhood decline ( Washington Post, “D.C. residents fret over shelter plan, citing
+crime and property values” Terrence McCoy, 2/27/16).
+
+RVs and Recreational Vehicles. The code change to allow occupancy of recreational vehicles and
+tiny houses on wheels will not impact scale and pattern of residential areas because the existing
+zoning code already allows and regulates where RVs and tiny houses on wheels may be parked,
+and those standards are not being changed. The change being made with S2HC concerns the
+interior use.
+Visitability. Amending the visitability standards as proposed will help facilitate and streamline
+implementation and plan review as well as keep all the relevant standards in one location.
+Therefore, the proposed amendments to 33.110 are consistent with the purpose statement.
+
+33.120 Multi-Dwelling Zones, 33.120.010 Purpose
+The multi-dwelling zones are intended to preserve land for urban housing and to provide opportunities
+for multi-dwelling housing.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+A. Use regulations. The use regulations are intended to create and maintain higher density residential
+neighborhoods. At the same time, they allow for institutional, limited commercial, and other
+nonresidential uses, but not to such an extent as to sacrifice the overall residential neighborhood
+character of the multi-dwelling zones and their intended role as places for housing.
+B. Development standards. The six multi-dwelling zones are distinguished primarily by their allowed
+scale and development standards. The development standards work together to create desirable
+residential areas by promoting aesthetically pleasing environments, safety, privacy, energy conservation,
+and recreational opportunities. The development standards generally assure that new development will
+be compatible with the City’s character and contribute to the intended characteristics of each zone. At
+the same time, the standards allow for flexibility for new development. In addition, the regulations
+provide certainty to property owners, developers, and neighbors about the limits of what is allowed.
+The development standards are generally written for development on flat, regularly shaped lots. Other
+situations are addressed through special standards or exceptions.
+230. Finding: The S2HC amendments to the Multi-Dwelling zones include the following:
+• Elimination of the limitation on Group Living uses so that it becomes an allowed use, similar
+to Household Living.
+• Elimination of the conditional use requirement for Group Living uses in post incarceration
+facilities to allow these situations to be treated the same as other Group Living situations.
+• A change to reflect the addition of outdoor shelter to the Community Service use category
+and the change in name for short term housing.
+• The reference to single room occupancy housing type is being removed from Table 120-2
+and the term congregate housing facility is being added.
+• The visitability standards referencing ICC A117.1 are revised to remove cross references to
+the international code council set of standards for Type C visitable units. Instead, specific
+requirements for visitable units are now wholly contained within the zoning code.
+• Clarification that the minimum density regulations do not apply to Group Living uses.
+• Through changes in Chapter 33.285, increasing the number of allowed shelter beds to 30 or
+60 (depending on the zone).
+Allowing a slightly increased number of shelter beds in the multi-dwelling zones is consistent
+with the purpose of this zone because the purpose statement acknowledges there will be a
+limited amount of other uses, and because the shelters in these zones will still be limited to a
+smaller size than what is allowed in the commercial mixed use zones. Although shelters are not
+housing, they serve a similar function – providing a place for people to sleep and have access to
+hygiene and other services.
+The Multi-Dwelling use regulations are intended to create and maintain higher density
+residential neighborhoods. Group Living is a residential use and is currently permitted in the
+Multi-Dwelling zones either outright or through conditional use review. With the recent changes
+made by the Better Housing by Design project to regulate development by floor area rather than
+by unit density, the current Group Living use limitation is no longer related to any density
+regulations for Household Living, and places alternative living arrangements (such as co-housing,
+assisted living or dormitories) at a greater disadvantage compared to apartments/dwelling units
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+in multi-dwelling zones. The removal of the limitation means that a Group Living use becomes
+an allowed use, similar to Household Living. Both are subject to maximum FAR.
+The elimination of the conditional use requirement for Group Living uses in post incarceration
+facilities is consistent with other City changes to destigmatize past offenders that have also
+resulted in city rule changes in employment and rental applications. With the current
+conditional use requirement, most post incarceration facilities have instead operated under the
+city’s definition of household and Household Living use, which is allowed by right. The change
+expands this to Group Living uses in post incarceration facilities in the multi-dwelling zones. It
+should be noted that facilities where people are under judicial detainment and the direct
+supervision of sworn officers fall under the Detention Facilities use category and are not Group
+Living.
+The proposed revisions to Group Living use allowances render a separate single room occupancy
+definition unnecessary, because residential living configurations considered under single room
+occupancy would be considered a Group Living use, generally in a congregate housing facility.
+Amending the visitability standards as proposed will help facilitate and streamline
+implementation and plan review as well as keep all the relevant standards in one location.
+Therefore, the proposed amendments to 33.120 are consistent with the purpose statement.
+
+33.130 Commercial/Mixed Use Zones, 33.130.010 Purpose
+The commercial/mixed use zones are intended for commercial and mixed use areas of the City as
+designated on the Comprehensive Plan map. These zones implement the vision, guiding principles, and
+goals and policies of the Comprehensive Plan, and encourage economic prosperity, human health,
+environmental health, equity, and resilience. These zones are primarily distinguished by the uses
+allowed and the intensity of development allowed. The zones allow a mix of commercial activities,
+housing, and employment uses that reflect the different types of centers and corridors described in the
+Urban Design chapter of the Comprehensive Plan, and also accommodate smaller, dispersed commercial
+and mixed use areas to provide opportunities for services in areas between the centers and corridors.
+The commercial/mixed use zones are intended to serve local neighborhood areas, larger districts, as
+well as broader citywide or regional markets. The regulations promote uses and development that
+support healthy complete neighborhoods—places where people of all ages and abilities have safe and
+convenient access to the goods and services they need in their daily life, and where people have the
+opportunity to live active lifestyles. The zones encourage quality and innovative design, and facilitate
+creation of great places and great streets.
+The development standards are designed to allow development flexibility, within parameters, that
+supports the intended characteristics of the specific zone. In addition, the regulations provide guidance
+to property owners, developers, and neighbors about the limits of what is allowed.
+231. Finding: The S2HC amendments to the Commercial/Mixed Use zones include the following:
+• Elimination of the limitation on Group Living uses so that it becomes an allowed use subject
+to the base zone development standards, including height and floor area limits.
+• Elimination of the conditional use requirement for Group Living uses in post incarceration
+facilities to allow these situations to be treated the same as other Group Living situations.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+• A change to reflect the addition of outdoor shelter to the Community Service use category
+and the change in name for short term housing.
+• Clarification that the minimum density regulations in CM2 and CM3 do not apply to Group
+Living uses.
+• Increasing the number of allowed shelter beds in some zones.
+The Commercial/Mixed Use zones allow residential uses and are intended to encourage
+economic prosperity, human health, environmental health, equity, and resilience. By removing
+barriers to housing options, the proposed amendments further those intentions especially as
+they relate to health and equity. Group Living is a residential use and is currently permitted in
+the Commercial/Mixed Use zones either outright or through conditional use review. It will be
+subject to development standards, including height and floor area limits, which support the
+intended characteristics of the specific zone.
+The elimination of the conditional use requirement for Group Living uses in post incarceration
+facilities is consistent with other City changes to destigmatize past offenders that have also
+resulted in city rule changes in employment and rental applications. With the current
+conditional use requirement, most post incarceration facilities have instead operated under the
+city’s definition of household and Household Living use, which is allowed by right. The change
+expands this to Group Living uses in post incarceration facilities in the commercial zones. It
+should be noted that facilities where people are under judicial detainment and the direct
+supervision of sworn officers fall under the Detention Facilities use category and are not Group
+Living.
+The increase in the number of allowed shelter beds in some zones corrects inconsistencies that
+had developed as a consequence of the remapping that occurred with the recent
+Comprehensive Plan Update. Through that project many parcels were re-zoned from CG (which
+had a broad allowance for shelters) to CM2 (which had a narrow allowance for shelters). This
+inadvertently reduced the opportunity for new shelters in some parts of the City. The new S2HC
+allowances provide more consistency in the number of beds that can be provided across the
+different types of commercial mixed use zones with similar levels of intensity.
+The broader allowance for shelters is intended to address an acute need to provide more
+options for homeless Portlanders. The 2019 Point in Time Count documented 2,037 people who
+were unsheltered, 1,459 people sleeping in emergency shelter and 519 people in transitional
+housing. In all, the Count found 4,015 people who met HUD’s definition of homelessness (twice
+the current year-round capacity of the shelter system). Many people have expressed a concern
+about the impact that widespread camping has on the perceived safety of the Central City and
+other neighborhood commercial districts. Concerns have been raised about how this impacts
+the business environment and accessibility of public spaces. The S2HC amendments make it
+easier to open new shelters in a variety of zones across the City. There are currently not enough
+shelter beds to accommodate all of the homeless population. There are approximately 1,630
+year round shelter beds in Portland as of March 2021, including 400 beds in private facilities. In
+addition there are 73 rooms in family shelters, and 196 pods in alternative shelters. There are
+about 565 severe weather beds, and 283 hotel rooms being used to provide temporary socially-
+distanced facilities for COVID-vulnerable people. Together these facilities can serve just over
+2,000 people year-round, assuming pre-COVID occupancy standards. A summary of existing
+shelter facilities is in the record.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+The shortage of shelter beds relative to need makes it impossible to move campers from public
+sidewalks and open spaces into safter forms of shelter. The S2HC amendments make it easier to
+open new shelters in a variety of zones across the City. Over the long term the S2HC
+amendments will enhance neighborhood business district commercial viability, consistent with
+the intent of the Commercial Mixed-Use zones, by providing options to the current unmanaged
+camping in public spaces.
+Therefore, the proposed amendments to 33.130 are consistent with the purpose statement.
+33.140 Employment and Industrial Zones, 33.140.010 General Purpose of the
+Zones
+The employment and industrial zones are for areas of the City that are reserved for industrial uses and
+for areas that have a mix of uses with a strong industrial orientation. The zones reflect the diversity of
+industrial and business areas in the City. The zones differ in the mix of allowed uses, the allowed
+intensity of development, and the development standards. The regulations promote areas which consist
+of uses and developments which will support the economic viability of the specific zoning district and of
+the City. The regulations protect the health, safety and welfare of the public, address area character,
+and address environmental concerns. In addition, the regulations provide certainty to property owners,
+developers, and neighbors about the limits of what is allowed.
+232. Finding: The S2HC amendments to the Employment and Industrial zones include the following:
+• A technical clarification that the limitation regarding houseboats applies to Group Living
+uses as well as Household Living.
+• Elimination of the conditional use requirement for Group Living uses in post incarceration
+facilities in the EX zone to allow these situations to be treated the same as other Group
+Living situations.
+• A change to reflect the addition of outdoor shelter to the Community Service use category
+and the change in name for short term housing.
+• A limited allowance for permanent outdoor shelters to be sited in I zones through the
+Conditional use process has been added. The limitations are designed to ensure that such
+facilities are allowed on a small number of publicly owned sites and do not disrupt the
+intended industrial orientation of the I zones. These limitations are discussed in more detail
+in findings responding to State Planning Goal 9 and Policy 6.3.
+• Consolidation of the Community Service use limits in the I zones and recognition that
+outdoor shelters, which are a newly defined type of facility, are regulated by Chapter
+33.285.
+The Employment and Industrial Zones are reserved for industrial uses and for areas that have a
+mix of uses with a strong industrial orientation; however, the purpose statement notes that the
+zones differ in the mix of allowed uses, the allowed intensity of development, and the
+development standards. Household Living and Group Living are currently allowed uses in the EX
+zone, except for Alternative or post incarceration facilities which currently requires conditional
+use review. The elimination of the conditional use requirement for Group Living uses in post
+incarceration facilities is consistent with other City changes to destigmatize past offenders that
+have also resulted in city rule changes in employment and rental applications. With the current
+conditional use requirement, most post incarceration facilities have instead operated under the
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+city’s definition of household and Household Living use, which is allowed by right in the EX. The
+change expands this to Group Living uses in post incarceration facilities in the EX zone. It should
+be noted that facilities where people are under judicial detainment and the direct supervision of
+sworn officers fall under the Detention Facilities use category and are not Group Living.
+The new approval criteria applicable to outdoor shelters in industrial zones, in addition to the
+proposed 2-acre site cap in Chapter 33.285, work to maintain the City’s limited supply of
+industrial land. Statewide Planning Goal 9 and its administrative rule generally require the
+exclusion of publicly owned land from buildable land inventories, but the Council ordinance did
+designate some public land owned by the Port of Portland and Prosper Portland as available for
+employment uses. The required check against the inventory map will ensure that land
+inventoried as needed for employment uses will not be converted to non-industrial uses, such as
+an outdoor shelter. The second criterion helps ensure that shelters allowed on industrial-zoned
+public land will not negatively interfere with the truck and freight movement in the area.
+Therefore, the proposed amendments to 33.140 are consistent with the purpose statement.
+
+33.150 Campus Institutional Zones, 33.150.010 Purpose
+The campus institutional zones implement the campus institution policies and Institutional Campus (IC)
+land use designation of the Comprehensive Plan. The zones are for institutions such as medical centers
+and colleges that have been developed as campuses, and for other uses that are compatible with
+surrounding neighborhoods. The differences between the zones reflect the diversity and location of
+campus institutions. Allowed uses and development standards promote the desired character of each
+zone, and reflect the character and development intensity of surrounding neighborhoods. The CI1 and IR
+zones encourage development that is at a low to medium density residential scale, while the CI2 zone
+encourages development that is at a more intense, urban scale. The development standards allow
+flexibility for development and provide guidance to property owners, developers, and neighbors about
+the limits of what is allowed.
+233. Finding: The S2HC amendments to the Campus Institutional zones include the following:
+• Addition of a reference for the special use regulations that apply to short term, mass and
+outdoor shelters and clarification on the existing limitation applicable to Community
+Service uses.
+• Clarification of the provisions for Group Living to reference the Group Living use on the
+Institution site instead of a Group Living facility
+• Eliminate the requirement for Group Living in the IR zone to meet the Group Living
+standards of adjacent residential zone in some circumstances.
+• Revise Table 150-1 to recognize that some shelters are a limited allowed use rather than a
+conditional use in the CI1, and IR zones. Similarly, in the CI2 zone, larger mass and outdoor
+shelters will trigger a conditional use review and are not always allowed by right.
+The changes affecting Community Services uses in Campus Institutional zones are primarily
+carried out in Chapter 33.285 Short Term, Mass, and Outdoor Shelters. Consistency with each
+institutional zone is described below.
+• The CI1 zone is intended for institutions located in or near low and medium density
+residential neighborhoods. Accordingly, there are lower limits on the number of shelter
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+beds/accommodations permitted by right in the CI1 than in the CI2 zone. In the CI1
+zone, the number of short term shelter beds allowed by right is being increased from 15
+to 30 beds; the number of mass shelter beds allowed by right is being increased from 25
+to 30 beds; and up to 30 outdoor shelter accommodations will be permitted by right. All
+other shelters are conditional uses. Required setbacks and open spaces create a buffer
+between the institution and the surrounding community.
+• The IR zone is a multi-use zone that is intended to accommodate both institutional and
+higher density residential uses. Intensity of development is regulated by the maximum
+size of buildings permitted. The allowances for number of shelter beds and
+accommodations permitted under the S2HC amendments are the same as in CI1: 30
+short term or mass shelter beds or 30 outdoor accommodations are permitted outright.
+All other shelters are conditional uses.
+• The CI2 zone is intended for large institutions located in or near a Regional, Town or
+Neighborhood Center, or along a civic or neighborhood corridor that is served by
+frequent transit service. Development is intended to be pedestrian-oriented and at a
+scale that encourages urban-scale facilities, while also ensuring compatibility with
+nearby mixed-use commercial and residential areas. In accordance with CI2’s intent as a
+higher-intensity zone, shelter allowances are also greater than in CI1 or IR. Short term
+shelters are already permitted outright; the number of mass shelter beds permitted by
+right will increase from 75 to 140 beds; and up to 60 outdoor accommodations will be
+permitted. All other mass or outdoor shelters are conditional uses.
+Group living (such as dormitories) are already permitted outright in the CI2 and IR zones, and
+will continue to be prohibited in CI1. In the IR zone, the requirement for Group Living in the to
+meet the Group Living standards of adjacent residential zones has been removed. However, any
+Group Living use that is provided in conjunction with an institutional campus in IR is still
+required to be reviewed as part of an impact mitigation plan, and the plan will have to consider
+mitigation measures based upon review of the impact of a Group Living use on adjoining areas.
+Therefore, the proposed amendments to 33.150 are consistent with the purpose statement.
+
+33.205 Accessory Dwelling Units, 33.203.010 Purpose
+Accessory home occupations are activities accessory to uses in the Household Living category. They have
+special regulations that apply to ensure that home occupations will not be a detriment to the character
+and livability of the surrounding neighborhood. The regulations ensure that the accessory home
+occupation remains subordinate to the residential use, and that the residential viability of the dwelling is
+maintained. The regulations recognize that many types of jobs can be done in a home with little or no
+effects on the surrounding neighborhood.
+234. Finding: The S2HC amendments’ only change to the Accessory Dwelling Units chapter is to
+revise the visitability standards referencing ICC A117.1 to remove cross references to the
+international code council set of standards for Type C visitable units. Instead, specific
+requirements for visitable units are now wholly contained within the zoning code. This doesn’t
+change the function of the visitability standards, but will help facilitate and streamline
+implementation and plan review as well as keep all the relevant standards in one location.
+Therefore, the proposed amendments to 33.205 are consistent with the purpose statement.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+33.207 Accessory Short Term Rentals, 33.207.010 Purpose
+This chapter provides standards for the establishment of accessory short-term rentals. The regulations
+are intended to allow for a more efficient use of residential structures, without detracting from
+neighborhood character, and ensuring that the primary use remains residential. In some situations, the
+operator can take advantage of the scale and architectural or historical significance of a residence. The
+regulations also provide an alternative form of lodging for visitors who prefer a residential setting.
+235. Finding: The S2HC amendments to the Accessory Short Term Rentals (ASTR) chapter include the
+following:
+• Change the requirement to limit ASTRs to being accessory to a residential use, rather
+than a Household Living use, thus allowing an ASTR to occur in smaller dwelling units
+under the Household Living use and larger dwelling units under the Group Living use.
+• Remove the standard limiting the number of people staying both long-term and short-
+term rentals (residents and guests) to the total allowed to occupy a dwelling unit under
+the Title 33 definitions of household.
+The definition of household is being removed, so the reference to household occupancy limits
+no longer has any meaning. In addition, it can be difficult to determine and enforce the overall
+number of people that may be residing in a dwelling at any one time. Since the Type A ASTR
+permit limits the total number of bedrooms used for a short-term rental, this room limitation
+should continue to ensure that a limited number of people are staying as guests, in addition to
+the residents on site. This, in turn, helps ensure that ASTRs do not detract from neighborhood
+character.
+Therefore, the proposed amendments to 33.207 are consistent with the purpose statement.
+
+33.236 Floating Structures, 33.236.010 Purpose
+This chapter adapts the existing upland regulations for use with floating structures.
+236. Finding: The S2HC amendments to the Floating Structures chapter include the following:
+• Include a reference to Group Living uses to acknowledge the potential for a 9-bedroom
+houseboat, which would now be classified as Group Living.
+• Correct a mistaken interpretation that identifies “single-dwelling” and “multi-dwelling”
+as a type of use, when they are intended to refer to development types. The
+amendments change these references to “dwelling unit” and “multi-dwelling
+development” to be consistent with the development type references used elsewhere in
+the code.
+Because these changes are technical in nature, and not substantive, the proposed amendments
+to 33.236 are consistent with the purpose statement.
+
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+33.270 Planned Development, 33.270.010 Purpose
+The Planned Development regulations provide an opportunity for innovative and creative development.
+Planned Development provides a master planning mechanism for allowing additional housing types and
+uses, the transfer of density and floor area to different portions of a site, and across internal zoning
+boundaries, and bonus floor area and increased height on large sites in commercial/mixed use zones. In
+this case, the flexibility is allowed when the development includes features that provide public benefits.
+These regulations allow flexibility, and in some cases increased intensity of development, beyond that
+allowed by other chapters of this Title, if the proposed development is well-designed and can be
+successfully integrated into the neighborhood and provides public benefits. Overall, a Planned
+Development is intended to promote:
+• High quality design that is integrated into the broader urban fabric, and complements existing
+character within the site and adjacent to the site;
+• Development that is pedestrian-oriented, with a strong orientation towards transit and
+multimodal transportation alternatives;
+• Building bulk, height, and orientation that ensures that light and air is accessible within the
+public realm, and that public view corridors are protected;
+• A safe and vibrant public realm, with buildings and uses that are oriented to activate key public
+gathering spaces, be they public open space, transit stations, or the Willamette River;
+• Open space areas that include gathering spaces and passive and/or active recreation
+opportunities;
+• Affordable housing; and
+• Energy efficient development.
+
+237. Finding: The S2HC amendments’ only change to the Planned Unit Development chapter is to
+revise the visitability standards referencing ICC A117.1 to remove cross references to the
+international code council set of standards for Type C visitable units. Instead, specific
+requirements for visitable units are now wholly contained within the zoning code. This doesn’t
+change the function of the visitability standards but will help facilitate and streamline
+implementation and plan review as well as keep all the relevant standards in one location.
+Therefore, the proposed amendments to 33.270 are consistent with the purpose statement.
+
+33.285 Short Term, Mass and Outdoor Shelter, 33.285.010 Purpose
+This chapter provides regulations for Community Service uses that provide short term housing or mass
+shelter. These regulations recognize that it is in the public interest to provide short term housing and
+shelter to people who would otherwise not receive it, and to ensure that standards of public health and
+safety are maintained. The regulations are intended to reduce conflicts between these and other uses.
+These regulations recognize that short term housing and mass shelters have differing impacts, and
+encourages providers to locate in existing structures and work with neighbors. These regulations also
+focus on the land use impacts of these uses.
+238. Finding: The S2HC amendments to Chapter 33.285 include the following:
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+• Change the term “short term housing” to “short term shelter” (changed throughout the
+code including in the title and purpose of this Chapter). This helps clarify that long-term
+housing is a type of residential use and short term shelter is a Community Service use.
+• Add outdoor shelters as a new type of Community Service Use.
+• Expand the number of short term shelter beds allowed by right in multi-dwelling and
+institutional zones.
+• Expand the number of mass shelter beds allowed by right in most multi-dwelling,
+commercial, institutional, and employment zones.
+• Continue permitting short term and mass shelters outright, where currently permitted.
+• In zones where short term and mass shelters are prohibited (e.g., Open Space and
+Industrial zones), the use allowances will not change. In single-dwelling zones where
+short term and mass shelters require a conditional use approval, allow up to 20 shelter
+beds on the site of existing conditional uses, but in all other circumstances continue to
+require conditional use approval.
+• Eliminate minimum spacing requirements for mass shelter beds.
+• Add allowances for outdoor shelters, generally in the same zones where short term and
+mass shelters are permitted. The allowances for number of accommodations per
+outdoor shelter are largely equivalent to shelter bed allowances in short term shelters.
+• Allow outdoor shelters in Industrial zones as a conditional use only on sites that are
+under 2 acres.
+• Establish standards for outdoor shelters, many of which are similar to standards for
+mass or short term shelters. The standards prohibit outdoor shelters in Environmental
+and Scenic overlay zones and in Special Flood Hazard Areas; limit minimum site size;
+establish operational, setback, and screening requirements; and clarify that no vehicle
+parking is required.
+The commentary in Volume 2 of the Recommended Draft includes more detail about the
+amendments to Chapter 33.285.
+Creating a clearer distinction between shelter and housing helps the City carrying out its
+continuum of care programs because the object of these programs is to provide Portlanders the
+housing they need. Shelter is an interim measure, provided until housing becomes available, or
+until shelter clients receive the support needed to make them more ready for housing. People
+enter the care system through either outdoor or mass shelters and may receive additional
+transitional services in short term shelters. Success is achieved with placement in housing;
+indefinite shelter stays are not the goal of housing continuum programs.
+The new allowance for outdoor shelters is consistent with recent changes to state law (2017
+amendments to ORS 446.265), which increased the allowance for “transitional housing
+accommodations”—equivalent to the City’s outdoor shelter use. Before 2017 cities were limited
+to only two outdoor shelters and the only accommodations allowed were yurts. Since the two-
+shelter limit has been removed and the range of accommodations expanded, it now makes
+sense to provide for outdoor shelters in the zoning code as a new type of Community Service
+use.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+Adding outdoor shelters as a new Community Service use and expanding the permitted number
+of shelter beds in several zones is consistent with the purpose of this chapter to serve the public
+interest by providing shelter to people who would otherwise not receive it. The development
+standards for short term, mass, and outdoor shelters will ensure that standards of public health
+and safety are maintained and that conflicts between these and other uses will be reduced to
+the extent possible.
+Therefore, the proposed amendments to 33.285 are consistent with the purpose statement.
+
+33.296 Temporary Activities, 33.296.010 Purpose
+This chapter allows short-term and minor deviations from the requirements of the zoning code for uses
+that are truly temporary in nature, will not adversely impact the surrounding area and land uses, and
+which can be terminated and removed immediately. Temporary uses have no inherent rights within the
+zone in which they locate.
+239. Finding: The S2HC amendments to the Temporary Activities chapter include the following:
+• Include the determination of a shelter shortage as a form of emergency, as stated in
+Title 15, and clarifies that a variety of shelters and medical facilities may be established
+under the emergency for the length of the declared emergency. Align terminology with
+Title 15.
+• Allow temporary operation of a mass shelter on a site in all zones of the city for up to
+180 days within a calendar year. Allow temporary operation of an outdoor shelter on a
+site in all zones of the city, except the OS zone and certain natural resource overlays, for
+up to 180 days within a calendar year
+Disasters and Emergencies. Generally, temporary activities that engage this section of the code
+(33.296.030.G) are the result of a natural disaster or an emergency declaration made by the City
+Council (like the current Housing Emergency declared back in October 2015, and since extended
+until April 2021). Recent emergency declarations have included the housing emergency and the
+COVID-19 emergency. The City is currently using some community centers located in OS-zoned
+parks as emergency shelters during the COVID emergency, and during some weather related
+events. This practice is expected to continue as currently authorized by Title 15 and the City
+Charter and permitted under Zoning Code Chapter 33.296. The S2HC amendments do not
+change this.
+All types of facilities (including shelter) may be placed in any zone as a temporary activity during
+a state of emergency. The City Council’s authority to use City facilities in an emergency,
+including those zoned OS, is established by Title 15 (Emergency Code) and the City Charter, and
+is not a land use regulation. The amendments related to temporary activities permitted in
+response to a natural disaster or emergency (33.296.030(G)) are proposed for consistency with
+Title 15 terminology, and do not constitute a substantive change in regulations.
+Outside of Disasters and Emergencies. The new provision for temporary mass or outdoor
+shelters (33.296.030.H) allows city agencies, institutions and other interested parties to
+maintain a temporary shelter without the need for an emergency to be declared by City Council
+in Title 15. This provides an opportunity for agencies and owners, including public agencies and
+various private institutions to agree to open up properties or buildings on a temporary basis, or
+in situations where seasonal shelters may be needed, but no formal housing or weather
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+emergency has been called. Routine examples of this include winter cold snaps, summer heat
+events, and summer wildfire smoke events. The updated code would allow more expedited
+opening of temporary shelters in temporary locations.
+The standards in 33.296.040 will help reduce impacts to the surrounding area and land uses.
+Subsection 33.296.040.A requires that any development associated with a temporary use be
+“consistent with the development standards for uses allowed by right in the underlying zone or
+required by applicable building, fire, health, or safety codes.” In addition, the development
+standards for mass and outdoor shelters in Chapter 33.285 will help ensure that standards of
+public health and safety are maintained and that that conflicts between these and other uses
+will be reduced to the extent possible. The standards do not permit removal of required parking,
+and the temporary use may not violate conditions of approval for Conditional use sites. The 180-
+day limitation helps ensure any impacts are short term. Shelters are, by definition as a
+community service use, nonprofit or public organizations; which further limits the number of
+entities that might take advantage of this new provision.
+The amendments in 33.296.030(H) would allow temporary mass shelters in the OS zone without
+requiring a declaration of an emergency. However, the use of a City facility within the OS
+designation for a mass shelter would continue to require approval of the City bureau
+responsible for the facility. For example, with Parks Bureau approval, community centers may
+occasionally be used as shelters during cold winter weather or hot/smokey days in the summer.
+In addition, mass shelters are not likely to have a significant impact on open space resources
+because these mass shelter facilities are, by definition, inside buildings. There is currently a
+significant amount of unsanctioned camping in natural areas, including identified Goal 5
+resources. The amendments in this section facilitate sanctioned alternatives in more
+appropriate locations. The Council made amendments to the recommended code in order to
+clarify that temporary outdoor shelters would not be allowed in the OS zone or in certain
+natural resource overlays unless it was in the context of an emergency.
+Therefore, the proposed amendments to 33.296 are consistent with the purpose statement.
+
+33.420 Design Overlay Zone, 33.420.010 Purpose
+The Design Overlay Zone promotes the conservation, enhancement, and continued vitality of areas of
+the City with special scenic, architectural, or cultural value. The Design Overlay Zone also promotes
+quality high-density development adjacent to transit facilities. This is achieved through the creation of
+design districts and applying the Design Overlay Zone as part of community planning projects,
+development of design guidelines for each district, and by requiring design review or compliance with
+the Community Design Standards. In addition, design review or compliance with the Community Design
+Standards ensures that certain types of infill development will be compatible with the neighborhood
+and enhance the area.
+240. Finding: The S2HC amendments’ only change to the Design Overlay Zone is to exempt outdoor
+shelters from design review. These shelters are generally composed of a mixture of temporary
+units such as tents, yurts or cabins that do not lend themselves to design review because the
+criteria are written for the review of permanent buildings or improvements. While an outdoor
+shelter may be permanently located, the design and layout of the individual shelters may change
+over time.
+Therefore, the proposed amendments to 33.420 are consistent with the purpose statement.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+33.815 Conditional Uses, 33.815.010 Purpose
+Certain uses are conditional uses instead of being allowed outright, although they may have beneficial
+effects and serve important public interests. They are subject to the conditional use regulations because
+they may, but do not necessarily, have significant adverse effects on the environment, overburden
+public services, change the desired character of an area, or create major nuisances. A review of these
+uses is necessary due to the potential individual or cumulative impacts they may have on the
+surrounding area or neighborhood. The conditional use review provides an opportunity to allow the use
+when there are minimal impacts, to allow the use but impose mitigation measures to address identified
+concerns, or to deny the use if the concerns cannot be resolved.
+241. Finding: The S2HC amendments to the Conditional Uses chapter include the following:
+• Expand the approval criteria for short term and mass shelters in R, CI1, and IR zones to
+also apply to outdoor shelters.
+• Split CI1 and CI2 so separate conditional use approval criteria apply to shelters in these
+zones. CI1 will now share criteria with R and IR zones; CI2 will keep the criteria that also
+apply in C, E, and I zones.
+• Expand the approval criteria for mass shelters in Commercial, Employment and
+Industrial zones to also apply to outdoor shelters.
+• Add additional approval criteria for outdoor shelters in I zones requiring they: (1) be on
+public publicly owned property that was not identified as being in an industrial use or
+identified as vacant or underutilized land needed for future industrial use in the City’s
+inventory of buildable employment land; and (2) will not have a significant adverse
+effect on truck and freight movement.
+The new outdoor shelter Community Service use has similar characteristics to the mass and short
+term shelters; therefore, the same approval criteria will apply to all shelter types in R, CI1, and IR
+zones. The CI1 zone is added because it generally applies to institutions with a lower intensity of
+development that are within residential zones. No changes to the criteria themselves are
+proposed.
+Similarly, the same approval will apply to both mass and outdoor shelters within Commercial,
+Employment and Industrial zones where conditional use review is required. The CI2 zone is usually
+applied to more intense institutional campuses that are often within commercial areas. No
+changes to the criteria themselves are proposed.
+The new approval criteria applicable to outdoor shelters in industrial zones, in addition to the
+proposed 2-acre site cap in Chapter 33.285, work to maintain the City’s limited supply of industrial
+land. Statewide Planning Goal 9 and its administrative rule generally require the exclusion of
+publicly owned land from buildable land inventories, but the Council ordinance did designate
+some public land owned by the Port of Portland and Prosper Portland as available for employment
+uses. The required check against the inventory map will ensure that land inventoried as needed
+for employment uses will not be converted to non-industrial uses, such as an outdoor shelter. The
+second criterion helps ensure that shelters allowed on industrial-zoned public land will not
+negatively interfere with the truck and freight movement in the area.
+S2HC Project, Amendments to Title 33 of the Portland City Code
+Exhibit A: As Amended - Additional Findings of Fact
+
+These amendments will provide the opportunity to allow outdoor shelters in zones where
+additional review is appropriate to ensure that any adverse impacts are minimal or can be
+mitigated. These provisions will help ensure that outdoor shelters do not have adverse effects on
+the environment, overburden public services, change the desired character of an area, or create
+major nuisances.
+Therefore, the proposed amendments to 33.815 are consistent with the purpose statement.
+
+- END –
+
+Amendments to the City Code
+Volume One, Introduction
+Recommended Draft - As Amended
+April 2021
+EXHIBIT B
+The Shelte
+r to Housing Continuum Project will further fair housing goals
+by expanding shelter and housing options throughout the city. The Bureau
+of Planning and Sustainability, the Portland Housing Bureau and the Joint
+City -County Office of Homeless Servi ces are partnering to retool city
+codes to better address our homelessness crisis.
+Cover illus
+trations kindly provided with permission:
+Josh Chang for
+ a photograph of the Kenton Women’s Village shelter,
+Multnomah County Communications for a photograph of the
+Laurelwood Center shelter,
+Multnomah County Communications for a photograph of the Family
+Village shelter, and
+Guerilla Development Company for a drawing of the “ Jolene's First
+Cousin” group living building.
+Cover design
+ by Gaby Jenkins, Bureau of Planning and Sustainability.
+March 17, 2021
+
+Testimony on the Recommended Draft is due on March 17, 2021
+
+How to Testify:
+The Shelter to Housing Continuum Recommended Draft will be considered by the Portland City Council. The public
+is invited to submit formal comments (public testimony) to City Council in writing, online via the Map App, or
+remotely at the public hearing. Testimony is directed to City Council, which may amend the proposal.
+
+To testify in writing:
+You must provide your full name and mailing address and use one of the following methods:
+• MapApp:
+The MapApp is easy as sending an email. Go to: https://www.portlandmaps.com/bps/mapapp/
+, click to view
+the Shelter to Housing Continuum Project and then click “Testify”.
+• U.S. Mail:
+Portland City Council
+Shelter to Housing Continuum Tetimony
+1221 SW 4th Avenue, Room 130
+Portland, OR 97204
+
+To testify at the City Council meeting:
+You may speak for three minutes to the City Council, and your testimony will be added to the public record. You
+must provide your full name and mailing address.
+
+Council hearing date: Wednesday March 17, 2021 at 2p.m.
+The hearing will be held virtually. You can use a computer, mobile device or telephone to testify during the
+hearing. You must pre register to testify. See below:
+
+To testify during the hearing, please visit the project website to register: https://www.portland.gov/bps/s2hc
+ . You
+will receive a confirmation email containing information about joining the virtual hearing. The deadline to sign up
+for the March 17 Council hearing is March 16 at 4:00 p.m. Individual have three minutes to testify, unless stated
+otherwise at the hearing.
+
+Email the Council Clerk at cctestimony@portlandoregon.gov
+ with questions.
+To confirm the hearing date and time, check the City Council calendar at
+https://www.portlandoregon.gov/auditor/26997
+ for the most updated information.
+
+For more information:
+Visit the project webpage at www.portland.gov/bps/s2hc or contact Eric Engstrom at
+Eric.Engstrom@portlandoregon.gov
+
+Project timeline:
+
+Acknowledgments
+
+Portland City Council
+Ted Wheeler, Mayor
+Jo Ann Hardesty, Commissioner
+Mingus Mapps, Commissioner
+Carmen Rubio, Commissioner
+Dan Ryan, Commissioner
+
+Portland Planning and Sustainability Commission
+Eli Spevak, Chair
+Steph Routh, Vice Chair
+Katherine Schultz, Vice Chair
+Jeff Bachrach, Commissioner
+Ben Bortolazzo, Commissioner
+Mike Houck, Commissioner
+Katie Larsell, Commissioner
+Oriana Magnera, Commissioner
+Chris Smith, Commissioner
+
+Bureau of Planning and Sustainability
+Carmen Rubio, Commissioner-in-charge
+Andrea Durbin, Director
+Joe Zehnder, Chief Planner
+Eric Engstrom, Principal Planner
+
+Project Staff
+Al Burns, AICP, (Retired) Senior City Planner, Bureau of Planning and Sustainability, Project Manager
+Shannon Buono, Senior City Planner, Bureau of Planning and Sustainability, Code Editor
+Jessica Conner, Senior Policy and Planning Coordinator, Housing Bureau, Technical Advisor
+Phil Nameny, City Planner II, Bureau of Planning and Sustainability, Technical Advisor
+Matt Wickstrom, Senior City Planner, Bureau of Development Services, Technical Advisor
+
+Project Advisors
+Terry Whitehill, Bureau of Development Services
+Marc Jolin and April Rohman, Joint Office of Homeless Services
+Jonny Lewis, Office of Management and Finance
+Amber Clayton, and Mike Crebs, Portland Bureau of Transportation
+Brett Horner, Portland Parks and Recreation
+Marie Walkiewicz, Bureau of Environmental Services
+Nate Takara, Portland Fire and Rescue
+Chris Davis and Jake Jensen, Police Bureau
+Lauren King, City Attorney’s Office
+Seraphie Allen and Zachary Kearl, Mayor Wheeler’s Office
+Claire Adamsick and Cynthia Castro, Commissioner Fritz’s Office
+Derek Bradley, Commissioner Hardesty’s Office
+
+Project Research
+Research for this project was funded by a technical assistance grant from the Oregon Department of Land
+Conservation and Development.  Best practices research was provided by Angelo Planning.
+
+Table of Contents, Volume One, Introduction
+
+Volume One, Introduction
+Summary  ............................................................................................................................................... 1
+Purpose  ............................................................................................................................................... 1
+Authorization ............................................................................................................................................ 1
+Contributors .............................................................................................................................................. 2
+Partners  ............................................................................................................................................... 2
+Context  ............................................................................................................................................... 2
+A Brief Overview of How the City Code Works ......................................................................................... 3
+Overview of Code Changes ....................................................................................................................... 4
+Shelter Flexibility ....................................................................................................................................... 5
+Outdoor Shelters ....................................................................................................................................... 7
+Summary of Shelter Changes .................................................................................................................... 8
+Housing Flexibility ................................................................................................................................... 11
+Recreational Vehicles and Tiny Houses of Wheels ................................................................................. 14
+Policy Basis  ............................................................................................................................................. 16
+Community Engagement ........................................................................................................................ 17
+
+Volume Two, Zoning Code Amendments
+
+Volume Three, Other Amendments to the City Code
+
+This page is intentionally blank
+
+Volume One, Introduction
+Summary
+This report contains amendments to the Portland City Code that facilitate the provision of shelter and
+allow more affordable forms of housing.  None of these amendments would go into effect unless first
+adopted by an ordinance of the Portland City Council.
+
+The report is in three volumes.  This Volume One contains an introduction.  Volume Two contains
+amendments to Title 33 of the Portland City Code, which includes all the City’s planning zoning
+regulations.  Volume Three contains amendments to four other titles of the Portland City Code
+concerning a variety of matters other than planning and zoning.
+
+Comments describing the amendments may be found on the pages facing the code changes in both
+Volumes Two and Three of this report.  Language to be added to City codes is indicated by underlined
+text and language to be removed is indicated by strikethrough text.  Language to remain unchanged is
+indicated by plain text.
+
+Purpose
+The Shelter to Housing Continuum Project (S2HC) is part of a larger multi-jurisdictional effort to provide
+safe, decent and affordable shelter and housing to every Portlander that needs it. The project scope is
+limited to reviewing and proposing changes those parts of the Portland City Code having the potential to
+impede this purpose.
+
+Particularly, the S2HC project will allow a range of shelters sited as temporary emergency uses to be
+reviewed and considered for approval through permanent code provisions. The housing emergency
+declaration allowing temporary siting expires on April 4, 2021 (although extended 1 year). The project
+schedule allows necessary amendments to be placed into effect in a timely manner.
+
+The S2HC project will further fair housing laws, expand the range of shelter and housing options, and
+improve the regulatory environment for nonprofit, for-profit and public-sector shelter and housing
+providers.
+
+The word “continuum” underscores an intent that the code amendments will help make more low-
+barrier, entry-level, temporary shelter available to more persons experiencing, or about to experience, a
+loss of housing; provide for more longer-term transitional shelters with onsite supportive services; and
+allow construction of a wider variety of more affordable types of permanent housing.
+
+Authorization
+The Portland Bureau of Planning and Sustainability was directed by City Council on February 19, 2019 to
+undertake this work through Ordinance No. 189387. That ordinance extended the City’s State of
+Housing Emergency to April 4, 2021. Background research for the S2HC Project was supported by a grant
+from the Oregon Department of Land Conservation and Development. Best practices research was
+provided by Angelo Planning.
+Contributors
+The Portland Bureau of Planning and Sustainability (BPS), Bureau of Development Services (BDS),
+Portland Housing Bureau (PHB) and the Multnomah County/City of Portland Joint Office of
+Homelessness Services (Joint Office) are the principal contributors to this report. The bureaus of
+Transportation (PBOT), Environmental Services, Parks and Recreation, and Water also provided technical
+assistance.
+
+Partners
+While the code amendments were under development, the Portland Housing Bureau built more
+apartments with supportive services for extremely low-income individuals and households. The Joint
+Office of Homeless Services increased its efforts to meet rising demand for emergency and short-term
+shelter, day storage, and hygiene facilities, while the City provided socially distanced, outdoor tent
+camping facilities as a COVID-19 response. Metro also made the Oregon Convention Center available as
+an emergency shelter.
+
+Interior of the Portland
+Homeless Family Shelter
+“Family Village.”  A Short Term
+Shelter facility supported by
+the Joint Office of Homeless
+Services.
+
+Context
+On October 7, 2015, the Portland City Council declared a housing emergency to help address the city’s
+growing homelessness and housing affordability crises. That declaration allowed for the expedited
+development of affordable housing projects and made it easier to provide shelter and services to people
+experiencing homelessness.
+
+Two years later, in partnership with Multnomah County and the Joint Office, the City committed to
+adding 2,000 units of Permanent Supportive Housing to address chronic homelessness in our
+community. There are already more than 800 new units of this supportive housing, either open or being
+built now.
+
+Affordable housing production remained at an all-time high in 2019 for a second consecutive year, with
+878 new units — the most ever produced in a single year. Another 3,100 are currently in development.
+Portland’s Housing Bond has contributed to this robust response. Twelve projects, totaling more than
+1,420 units of permanently affordable housing, are either open or in progress across the City since
+voters overwhelmingly approved the City’s first bond for affordable housing in 2016.
+
+Despite this progress, 4,015 people were counted as experiencing homelessness on a single night during
+the winter of 2019. The economic downturn caused by the COVID-19 pandemic has placed many more
+households at risk.  Portland’s homelessness crisis is far from over. The pandemic has postponed the
+2021 count.
+
+The S2HC project is informed by this larger context.
+
+A Brief Overview of How the City Code Works
+Portland City Code, Title 33, Planning and Zoning (zoning code) contains all City’s land use regulations.
+These regulations indicate whether a particular use or development is allowed in a particular place.
+These places are usually a base zone, overlay zone, or a plan district.  All these zones and districts are
+depicted on the City’s zoning map.  The S2HC project makes no changes to the zoning map.
+
+While Title 33 contains the City’s land use regulations, other Titles also impact how development occurs
+or how uses operate. For example, Title 24 contains building regulations governing how development
+allowed by the zoning code must be built. There are different building standards for single-dwelling
+residential, multi-dwelling residential, and commercial buildings as well as for low- and high-rise
+construction. Title 29 contains property management regulations controlling of the types of uses that
+may occupy various types of structures.
+
+This is an example of how these codes work together. Title 33 would allow building a detached garage in
+a residential back yard, provided lot line setback and building height and coverage requirements were all
+met. Title 24 would control how the garage was built by only allowing certain construction methods and
+materials. Title 29 would then allow the parking of cars and the storage of tools, but it would prohibit
+the owner of the garage from allowing a student to live in it while attending a nearby college.
+
+While Titles 24, 29, and 33 regulate platted lots and parcels, both privately and publicly owned, Titles 16
+and 17 regulate dedicated public rights-of-way. How a street can be used and what can be stored,
+placed, or parked upon it is controlled by these Titles of the City Code.
+
+Overview of Code Changes
+The four most significant code changes are:
+
+• Providing more flexibility for shelter siting,
+• Establishing outdoor shelters as a new community service use,
+• Liberalizing the group living allowances, and
+• Allowing permanent occupancy of recreational vehicles and tiny house on wheels.
+
+Volumes Two and Three of the S2HCP Project each contain a table of contents citing the report page
+numbers for each chapter of amended codes.  A title is the largest division of the City code; a chapter is
+a more detailed division of a title.  The amended City Code Titles include 8, 15, 17, 21, 29, 30 and 33.
+
+Other changes include:
+
+• Amending Title 15 Housing Emergency authorities to better align with revised sections of Title
+33.
+• Clarifying how Group Living accommodations that are not complete dwelling units (these are
+often called “micro apartments” or “single room occupancy units”) are regulated.
+• Eliminating the Group Living conditional use requirement for alternative and post incarceration
+facilities.
+• Coordinating with PBOT to consider temporary, transportable day storage locker, and bathroom
+and shower modules in the street to serve people experiencing homelessness and being served
+by shelters.
+• Providing alternative methods for siting temporary outdoor and mass shelters.
+• Exempting outdoor shelters from design review and pedestrian circulation standards.
+• Employing more careful terminology to distinguish shelter from housing, consistent with the
+principle that there is a tenant to landlord relationship established with housing but not with
+shelter.
+• Amending Titles 17, 21 and 30 to waive System Development Charges (SDCs) for Outdoor
+Shelters and utility hookups for RV/Tiny House on Wheels.
+
+All of these changes are described in more detail in the Sections below.
+
+Shelter Flexibility
+Temporary Shelters
+The current code requires periodic declarations of an emergency to facilitate siting of some types of
+temporary shelter. What was initially viewed as a short term need for temporary shelters has become
+an ongoing need. The updated codes would allow the quick opening of temporary mass or outdoor
+shelters in temporary locations through new procedures. These shelters would be allowed to operate
+for up to 180 days in a calendar year, but temporary outdoor shelters cannot be placed within Open
+Space zones or in environmentally sensitive, or floor prone areas. To become permanent, a mass or
+outdoor shelter would be subject to requirements and limitations stated elsewhere in this document.
+The changes described above are accomplished through amendments to Chapters 33.296, and through
+an amendment to Title 15.
+
+Existing Language for Mass & Short Term Shelters
+The amendments increase the situations where a mass or short-term shelter can be sited, and in some
+zones, increases the allowed number of mass or short-term shelter beds. These changes provide greater
+siting flexibility, as well as correct an oversight made when the then new commercial mixed-use zones
+were but in place with the Comprehensive Plan Update, effective 2018. The changes to the numbers of
+allowed shelter beds are made in Chapter 33.285.
+
+The Laurelwood Center and Portlad Harbor of Hope
+Two examples of the Mass Shelter format
+
+Day Facilities and Services
+Some shelters need to be served by ancillary facilities, such as lockers and hygiene stations. These
+facilities may need to be placed in rights-of-way. BPS will continue to work with the Bureau of
+Transportation (PBOT) to ensure that their future updates to Title 17 will more clearly allow day storage
+units and hygiene facilities in public right-of-way.
+
+Meal Programs
+There have been some cases where existing code has limited the ability of faith-based institutions to
+initiate or expand charitable meal programs. Changes are made to clarify that operating a “meal
+program” no longer requires a conditional use, or a conditional use amendment. This amendment also
+applies to schools, colleges and community service providers that want to provide meal programs.
+
+Shelter and Housing Terminology
+Using the term “housing” for a shelter facility not intended for long-term residential occupancy can
+create confusion and may imply landlord-tenant relationships exist. In general, housing is intended for
+permanent occupancy, and shelter is intended to serve transitional or emergency needs. The updated
+code makes numerous substitutions of terminology in several zoning code chapters to make the
+distinction between shelter and housing clearer. For example, the amended code changes the name of
+the Community Service use “Short Term Housing” to “Short Term Shelter” because the relationships in
+these facilities are provider to client or host to guest rather than landlord to tenant.
+
+An individual bedroom within
+the Portland Homeless Family
+Shelter.  A facility in the Short
+Term Shelter format.
+
+Outdoor Shelters
+The current zoning code offers no clear path for approving long-term siting of outdoor shelters, such as
+the Kenton Woman’s Village, Dignity Village, Right 2 Dream Two or other situations where shelters such
+as tents or cabins have been set up by public and non-profit agencies. Some existing shelters have been
+given temporary lawful status through an emergency declaration, or through other project-specific
+Council actions. Code amendments provide for quick approval of temporary shelters and allow longer
+term occupancy of smaller shelters in certain zones. Clearer and more certain paths for retention and
+longer-term approval of outdoor shelters are in amended Titles 15 and 33 of the City Code. The new
+outdoor shelter use would join mass shelters and short term shelters (renamed from short term
+housing) in the Community Service use category. Definitions in Title 30 are amended to align with the
+revised shelter terminology in Title 33.
+
+Because even permanent outdoor shelter locations are often built with temporary structures, and
+because the individual accommodations are often replaced, reconfigured, or moved, exemptions to
+some zoning standards are included. Outdoor shelters are made exempt from design review by a change
+to 33.420.
+
+A narrow exception has also been added to the blanket prohibition on shelters in industrial zones. This is
+accomplished through modified approval criterion in 33.815.  This exception would only apply to
+outdoor shelters on small sites on publicly owned land.
+
+The Kenton
+Women’s Village
+An Example of the
+Outdoor Shelter
+format.
+
+Summary of Shelter Changes
+The allowance of outdoor shelters within some commercial/mixed use and higher density residential
+zones, along with a similar expansion of the areas where mass shelters and short term shelters may
+locate by right within these zones means that these shelters will have additional opportunities to locate
+within many mixed use or higher density residential zones without requiring a conditional use review. In
+general, the commercial/mixed use zones and higher density residential zones are located in areas that
+are closer to transit and facilities, which provide the opportunities for clients to access places to find
+goods and services and to use alternative means of transportation. These zones are spread throughout
+the city, so that enables shelters to potentially be spread throughout the area and not concentrated in
+only a few areas. The Joint Office of Homeless Services (JOHS) has an interest in funding and managing
+shelters throughout the city to provide this service to those in the area that are in need.
+
+The tables below provide an overview of the three shelter types and the range of base zones where they
+may be allowed, either by right or through a conditional use review, in comparison to the current
+regulations.
+
+Table One
+Outdoor Shelter Allowances by Zone
+Current Code New Code
+Open Space NA Prohibited.
+Single dwelling NA Up to 20 individual shelters allowed on site of
+institutional use; non-institution sites up to 20 shelters
+are Conditional Use, more than 20 Prohibited
+Multi dwelling NA Up to 30 or 60 (depending on zone) individual shelters
+are allowed on the site; otherwise Conditional Use.
+Commercial NA Up to 60 individual shelters are allowed on the site;
+otherwise Conditional Use.
+Institutional NA In CI1, up to 30 individual shelters are allowed on the
+site; otherwise Conditional Use.
+In IR, up to 30 accommodations is allowed on the site;
+otherwise Conditional Use.
+In CI2, up to 60 accommodations is allowed on the site;
+otherwise, Conditional Use.
+Employment NA In EX, up to 60 individual shelters are allowed; otherwise
+Conditional Use.
+In EG1 and EG2 is a Conditional Use.
+Industrial NA Conditional Use if under 2 acres, publicly owned, and
+not on certain kinds of industrial land; otherwise
+prohibited.
+
+Table Two
+Mass Shelter Allowances by Zone
+Current Code Amended Code
+Open Space Prohibited.
+
+Prohibited
+Single dwelling Conditional Use.  Up to 20 beds allowed on site of
+institutional use; otherwise a
+Conditional Use
+Multi dwelling Allowed up to 50 beds in RM3, RM4
+and RX. In RM1, RM2, and RMP up to
+15 beds allowed if on the site of an
+institutional use; otherwise a
+Conditional Use.
+Allowed up to 60 beds in RM3, RM4 and
+RX. In RM1, RM2, and RMP up to 30
+beds allowed; otherwise a Conditional
+Use
+Commercial Allowed up to 200 beds in CX, CM3,
+and CE; up to 75 beds in CM2; and up
+to 25 beds in CM1 and CR; otherwise
+a Conditional Use.
+Allowed up to 200 beds in CX, CM3, and
+CE; up to 140 beds in CM2; up to 30 in
+CR and CM1; otherwise a Conditional
+Use
+Institutional Allowed up to 15 beds in IR on site of
+institution; up to 25 beds in CI1; and
+up to 75 beds in CI2; otherwise a
+Conditional Use.
+Allowed up to 30 beds in IR and CI1;
+allowed up to 140 beds in CI2;
+otherwise a Conditional Use
+Employment Allowed up to 200 beds in EX;
+otherwise Conditional Use.
+EG1 and EG2 Zones. Conditional Use.
+Allowed up to 200 beds in EX;
+otherwise Conditional Use.
+EG1 and EG2 Zones. Conditional Use.
+Industrial Prohibited Prohibited
+
+Table Three
+Short Term Shelter Allowances by Zone
+Current Code Amended Code
+Open Space Prohibited
+
+Prohibited
+Single dwelling Conditional Use  Up to 20 beds allowed on site of institutional
+use; otherwise a Conditional Use
+Multi dwelling Up to 15 beds allowed if on the
+site of an institutional use;
+otherwise a Conditional Use
+Up to 30 beds allowed; otherwise a Conditional
+Use
+Commercial Allowed  Allowed
+Institutional Allowed in CI2, allowed up to 15
+beds in CI1* and IR; otherwise
+Conditional Use
+In CI1 & IR, allowed up to 30 beds allowed;
+otherwise Conditional Use
+In CI2, allowed;
+Employment Allowed  Allowed
+Industrial Prohibited  Prohibited
+
+[*note] The shelter bed allowance in the CI1 zone is unclear in the existing code.  The existing code makes
+reference to the density allowed for Group Living in Chapter 33.239, and this Chapter provides no density
+allowance for the CI1 zone. So, an alternate reading may be that no beds are allowed. This situation probably arose
+from an oversight in an earlier ordinance where a clear bed allowance was not provided CI1 zone.
+
+Housing Flexibility
+Household and Group Living
+There are two types of residential use defined in the Portland Zoning Code – Household Living and
+Group Living.
+
+• Household living is currently defined as the residential occupancy of a dwelling unit by a
+household. A Household is currently defined as one or more persons related by blood, marriage,
+domestic partnership, legal adoption or guardianship, plus not more than 5 additional persons,
+who live together in one dwelling unit; or one or more handicapped persons as defined in the
+Fair Housing Amendments Act of 1988, plus not more than 5 additional persons, who live
+together in one dwelling unit. Household Living occurs in houses, duplexes, apartments,
+condominiums, retirement facilities with self-contained apartments, manufactured housing,
+houseboats, and other structures with self-contained dwelling units.
+
+• Group Living is currently defined as “the residential occupancy of a structure by a group of
+people who do not meet the definition of Household Living”. Examples include dormitories;
+communes; fraternities and sororities; monasteries and convents; nursing and convalescent
+homes; some group homes for people with disabilities; some residential programs for drug and
+alcohol treatment; and alternative or post incarceration facilities. Some forms of co-housing,
+micro-apartment buildings, and retirement communities may also be included in the Group
+Living category, depending on the number of people and how they share kitchens or bathrooms.
+
+The updated code would employ a different method to distinguishing Group Living from Household
+Living.  All dwellings, like houses and apartments, with up to eight bedrooms would be classified as
+Household Living, without regard to how the occupants might be related. Dwelling units with more than
+eight bedrooms, and congregate living structures, like dormitories, single room occupancy buildings, and
+convents, that do not meet the definition of a dwelling unit would be classified as Group Living.
+
+Where and How Group Living Would be Allowed
+It should be easy to site a residential use in a residential zone.  The current code requires that a Group
+Living use obtain a conditional use approval to locate in single dwelling zones as well as in multi-dwelling
+zones in many cases.  Allowing some Group Living uses without a conditional use would promote fair
+housing and enable a wider variety of solutions to meet present and future housing needs identified in
+Portland’s 2035 Comprehensive Plan. The code changes would allow Group Living in more base zones as
+an allowed-by-right use or as a limited use and would achieve greater parity between Group Living and
+Household Living. In single dwelling zones the amount of Group Living allowed on oversized lots would
+be limited regulated to a square footage cap that would apply in addition to other base zone limitations.
+Group Living in larger structures would continue to require a conditional use approval. In multi-dwelling
+zones, Group Living would be allowed under the same floor area ratio, height, and lot coverage
+limitations that apply to Household Living.  These changes are accomplished by amending the use
+regulations of the base zones, (Chapters 33.110, 120, 130), and by changing definitions (Chapter 33.910)
+and use category descriptions (33.920).
+
+“Household” no Longer a Basis for Regulation
+Because the Household and Group Living use categories would be distinguished by structure type or the
+number of bedrooms contained therein, the amended code eliminates the definition “household.”
+There are three reasons for elimination:
+• The current definition is no longer necessary,
+• Inspection and enforcement would be enhanced by an alternative regulation, and
+• The current definition relies on culturally specific descriptions of family relationships that may
+no longer reflect the variety of living situations in Portland today.
+
+The existing limitation on the number of people that may live in a dwelling unit is removed from the
+Zoning Code. Instead of counting people, the amended regulation would count bedrooms.
+Overcrowding would continue to be regulated through a more objective and enforceable provision in
+Section 29.30.220 of the Portland City Code. That code allows one resident, plus one additional resident
+for each 100 square feet of habitable room space.  For the purpose of this calculation, habitable space
+does not include bathrooms, toilet compartments, closets, halls, storage areas, utility areas, and other
+similar areas.
+
+Micro-Apartments and Single Room Occupancies
+Buildings where several bedrooms share a common kitchen, common bathroom, or both can be more
+affordable than standard apartments, because kitchens and bathrooms are expensive to build.  The
+current code is confusing with regard to Single Room Occupancies, which can be classified as Group
+Living, Household Living, or Retail Sales and Service uses depending on technical details. The amended
+code clarifies that there are only two types of residential uses, Household Living and Group Living.
+References to Single Room Occupancy have been eliminated, but these living arrangements can still
+occur identified as either a Group Living Use or a Household Living Use under the amended code.  These
+clarifications are made by changing definitions (33.910) and use category descriptions (33.920).
+
+“Jolene’s First Cousin”
+on SE Gladstone.  The
+green part of the
+building contains
+dwelling units rented as
+apartments.  The red
+part of the building
+contains ten group
+living accommodations
+that share a common
+kitchen on the ground
+floor.
+
+Inclusionary Housing
+All the code changes described above are made carefully so as to not change existing Inclusionary
+Housing requirements.  Household Living in a dwelling unit counts toward inclusionary housing
+requirements, which apply when a building contains 20 or more dwelling units.  Group Living, whether in
+a dwelling unit or not, does not count toward inclusionary housing requirements.  Inclusionary housing
+requirements are neither expanded nor contracted by the proposed amendments.
+
+Post-Incarceration Facilities
+An “alternative or post incarceration facility” is a Group Living use where the residents are on probation
+or parole, but not subject to on-site supervision by sworn officers. To remove unnecessary stigma, the
+conditional use requirement for these facilities is being eliminated. These facilities will be treated like
+any other residential use.  A facility in a dwelling unit with eight or fewer bedrooms will be classified as a
+Household Living use and a facility in a congregate living facility or a dwelling unit with nine or more
+bedrooms will be classified as a Group Living use. Situations where people are under judicial detainment
+and the direct supervision of sworn officers still fall under the Detention Facilities use category and are
+not Group Living. Detention facilities are either prohibited or require a conditional use approval
+depending on the zone.
+
+The following table provides a summary of the various shelter and housing types.
+
+Table
+Shelter and Housing Type Comparisons
+
+In a
+Building
+Has
+Bedroom(s) Minimum Stay Use Category
+Occupants
+Are
+Outdoor Shelter No No None Community
+Service
+Clients or
+Guests
+Mass Shelter Yes No None Community
+Service
+Clients or
+Guests
+Short Term
+Shelter Yes Yes None Community
+Service
+Clients or
+Guests
+Dwelling Unit
+Household Living Yes Yes, 8 or less 30 Days Residential Owners or
+Tenants
+Dwelling Unit
+Group Living Yes Yes, 9 or more 30 Days Residential Owners or
+Tenants
+Other Structures
+Group Living Yes Not required 30 Days Residential Owners or
+Tenants
+
+Recreational Vehicles and Tiny Houses on Wheels
+In response to public comments and continued discussion with stakeholders and the PSC, the code
+amendments include changes to Title 29 and Title 33 to allow the residential occupancy of tiny houses
+on wheels and other similar recreational vehicles on residential property. This is currently prohibited by
+Title 29, the City’s property maintenance code. The approach is to allow one recreational vehicle for
+more permanent occupancy on the site of a house, attached house or manufactured home. Title 29 is
+amended to remove the current prohibition, and a new Chapter, 33,260, is added to T33 to clarify how
+these will be regulated within the Zoning Code. The intent is to acknowledge the need for a wider
+continuum of housing types, to accommodate more people.
+
+The city is temporarily waiving code restrictions on overnight camping in RVs and tiny homes on wheels,
+as long as they’re parked on private property. Commissioner Eudaly announced in 2017 that the Bureau
+of Development Services, which enforces development and zoning code compliance, would
+deemphasize enforcement of the relevant codes against sleeping in a vehicle while the city develops a
+more permanent policy. While the Bureau of Development Services is no longer reporting to
+Commissioner Eudaly, subsequent commissioners in charge have not altered the approach. This
+proposal would replace the current non-enforcement policy.
+
+There is no official definition of a tiny house or a tiny house on wheels (THOW) in City Code. It is
+generally thought of as a small house, typically sized under 600 square feet. While tiny homes can be
+built on foundations, many tiny homes are built on trailers. Some California Cities have added references
+to “movable tiny houses” in their zoning codes. In nearly all cases, a tiny house on wheels shares the
+same attributes as other travel trailers and recreational vehicles, so they are classified under the zoning
+definition for recreational vehicle.
+
+The State of Oregon classifies a THOW as a vehicle. Tiny home trailers built by manufacturers may be
+considered travel trailers or park model recreational vehicles if they meet certain standards. THOWS
+used for commercial purposes would be registered by the state as commercial vehicles. ORS 801.100-
+610 and 174.101 contain the state definitions for different types of vehicles.
+
+• A “Travel trailer” does not have motive power and is eight and one-half feet or less in width.
+• A “Park Model Recreational Vehicle” is more than eight and one-half feet in width and is
+designed to be located in mobile home park.
+• A “Camper” designed to be mounted upon a motor vehicle, has no more than one axle
+supporting its weight, and is five and one-half feet or more in height from floor to ceiling at any
+point.
+• A “Motor Home” is similar to a Camper but has motive power.
+
+The Portland Zoning Code defines “recreational vehicle”, which is inclusive of what the Oregon
+Department of Motor Vehicles calls a motor home, a camper, and a travel trailer.
+
+While City Code (Title 29) does not currently permit long term residential occupancy of a vehicle, there
+are several existing legal paths for tiny house and recreational vehicle occupancy.
+
+• Campgrounds. Motor Homes, Trailers, Campers and THOWS can legally park in a campground
+and be used as short term accommodations in that context. Campgrounds are allowed in
+commercial zones as a Retail Sales and Service use as a form of temporary lodging. Any lot
+containing two or more THOWs would be a “campground” within the meaning of state law and
+require a state license. There are several commercial hotels that operate as campgrounds in
+Portland using THOWS and RVs.
+• RV Parks. Motor Homes, Trailers, Campers and THOWS can legally park in a recreational vehicle
+parks. Recreational vehicle parks are considered a Retail Sales and Service use as a form of
+temporary lodging and are allowed in commercial zones.
+• Residential occupancy of a tiny home without wheels (attached to a foundation) is allowed by
+both the Zoning Code and Building Code; either as a primary dwelling, or as an accessory
+dwelling unit.
+• State Law (ORS 203.082) provides an additional exception and allows religious institution to host
+up to three vehicles for homeless camping. This could be a car, motor home, trailer, camper, or
+potentially a THOW.
+
+To implement this proposal, amendments are proposed in three locations:
+1. An exception is added to Title 29.
+2. A new Chapter is created to address zoning standards for occupancy of a recreational vehicle on
+the site of a house, attached house, or manufactured home (33.260)
+3. The Definition of RVs in the Zoning Code is modified to better align with current DMV
+terminology (including ORS 801.100-610 and 174.101).
+
+Policy Basis
+Portland’s 2035 Comprehensive Plan contains a housing continuum policy that is informed by the
+following interjurisdictional guidance on homelessness.
+
+Understandably, the homeless population is most vulnerable to decreasing affordability and
+declining household prosperity. Unified guidance by the City of Portland, Multnomah County,
+and Home Forward is provided through their jointly authored plan, A Home for Everyone: A
+United Community Plan to End Homelessness in Multnomah County (2013). This plan focuses
+resources to support priority populations, particularly families with children, unaccompanied
+youth, adults with disabilities, women, and veterans. It focuses investments in six program areas
+to prevent and end homelessness, including housing, income and benefits, health, survival and
+emergency services, access to services, and systems coordination. The purpose of the plan is to
+prevent homelessness and reduce the time people spend being homeless. The following policy
+provides land use support for the priorities identified by this plan.
+
+The referenced policy states.
+
+Policy 5.46 Housing continuum.
+Prevent homelessness and reduce the time spent being homeless by allowing and striving to
+provide a continuum of safe and affordable housing opportunities and related supportive
+services including but not limited to rent assistance, permanent supportive housing, transitional
+housing, micro housing communities, emergency shelters, temporary shelters such as warming
+centers, and transitional campgrounds/rest areas.
+
+The S2HC project also carries out many other Comprehensive Plan goals and policies. The following are
+some examples.
+
+Goal 2.B: Social justice and equity
+The City of Portland seeks social justice by expanding choice and opportunity for all community
+members, recognizing a special responsibility to identify and engage, as genuine partners,
+under-served and under-represented communities in planning, investment, implementation,
+and enforcement processes, particularly those with potential to be adversely affected by the
+results of decisions. The City actively works to improve its planning and investment-related
+decisions to achieve equitable distribution of burdens and benefits and address past injustices.
+
+GOAL 3.A: A city designed for people
+Portland’s built environment is designed to serve the needs and aspirations of all Portlanders,
+promoting prosperity, health, equity, and resiliency. New development, redevelopment, and
+public investments reduce disparities and encourage social interaction to create a healthy
+connected city.
+
+Policy 3.3.b.
+Make needed investments in areas that are deficient in public facilities to reduce disparities and
+increase equity. Accompany these investments with proactive measures to avoid displacement
+and increase affordable housing.
+
+Goal 5.A: Housing diversity
+Portlanders have access to high-quality affordable housing that accommodates their needs,
+preferences, and financial capabilities in terms of different types, tenures, density, sizes, costs,
+and locations.
+
+Goal 5.B: Equitable access to housing.
+Portland ensures equitable access to housing, making a special effort to remove disparities in
+housing access for people with disabilities, people of color, low-income households, diverse
+household types, and older adults.
+
+Goal 7.D: Environmental equity.
+All Portlanders have access to clean air and water, can experience nature in their daily lives, and
+benefit from development designed to lessen the impacts of natural hazards and environmental
+contamination.
+
+Policy 9.25 Transit equity.
+In partnership with TriMet, maintain and expand high-quality frequent transit service to all
+Town Centers, Civic Corridors, Neighborhood Centers, Neighborhood Corridors, and other major
+concentrations of employment, and improve service to areas with high concentrations of
+poverty and historically under-served and under-represented communities.
+
+Community Engagement
+Engagement began on March 10, 2020 when the BPS Community Involvement Committee (CIC)
+reviewed the proposed scope and work program for the S2HC Project and endorsed an “involvement” as
+the project’s engagement goal.  Involvement means not only helping people know about and
+understand the project, but also enabling them to influence the project at each decision step along the
+project’s way to adoption. To do this, the City must not only seek out involvement but ensure that
+concerns and aspirations of those involved are consistently and properly understood and considered.
+Here, “considered” means that proposals arising from involvement have real potential to shape final
+decisions.
+
+The CIC, BPS, and partner agencies are acutely aware that the persons most likely to benefit from this
+project may also be the persons least able to influence it. It is therefore of upmost importance that
+involvement be carried out in a manner designed to ameliorate this inverse relationship. Involvement
+also must be adjusted to observe health advisories for the COVID-19 pandemic.
+
+Project Activities to Leading to the Discussion Draft
+Initial work was aided by a technical assistance grant provided by the Oregon Department of Land
+Conservation and Development (DLCD).  Angelo Planning, under contract with DLCD, prepared a series
+of reports describing approaches other jurisdictions had taken in facilitating shelter and group living
+accommodations and suggesting how similar provisions might be added to the Portland City Code.
+These reports are available at this link: https://efiles.portlandoregon.gov/record/13829522
+ .
+
+A standing inter-agency Housing Continuum Committee provided valuable context for further shaping
+the scope of the S2HC project, helped develop code concepts, and commented on rough drafts of code.
+Members of this committee attended and provided valuable assistance during community meetings.
+
+A core Technical Advisory Committee (TAC) composed of five members from three city bureaus drafted
+the proposed amendments, coordinated with the Housing Continuum Committee, and participated in
+community meetings.
+
+The S2HC Project, including outlines of the proposed code amendments, were presented through video
+conferencing during the following community meetings:
+
+• May 28, 2020, The Build Small Coalition, advisory to Metro.
+• June 25, 2020, Portland Forum on Alternative Shelters & Villages, sponsored by the Northeast
+Coalition of Neighborhoods and the Interfaith Alliance on Poverty.
+• July 15, 2020, Portland Neighbors Welcome; Monthly Meeting.
+• July 20, 2020, Southeast Uplift, Land Use Committee Meeting.
+• September 8, Central Eastside Industrial Council, Land Use Committee Meeting.
+• September 17, 2020, the Development Review Advisory Committee, advisory to the Portland
+Bureau of Development Services.
+
+The S2HC Project was the main agenda item in five of these meetings, and the proposals contained
+within the discussion draft of this report benefited greatly from the comments and suggestions received.
+
+Project Activities between the Discussion Draft and Proposed Draft
+The S2HC Project, including the Discussion Draft version of the code amendments, were presented or
+discussed through video conferencing during the following meetings:
+
+• October 13, 2020, Bureau of Planning and Sustainability hosted Community Forum moderated
+by A Home for Everyone.
+• October 14, 2020, Portland Forum on Alternative Shelters & Villages, sponsored by the
+Northeast Coalition of Neighborhoods and the Interfaith Alliance on Poverty.
+• October 22, 2020, Bureau of Planning and Sustainability hosted Community Forum.
+• October 27, 2020, Bureau of Planning and Sustainability hosted Community Forum.
+• November 10, 2020, Planning and Sustainability Commission Briefing.
+• November 17, 2020, Southwest Neighbors Incorporated, Land Use Committee Meeting.
+
+The S2HC Project was the sole agenda item for four of these six meetings.  Valuable input from persons
+with lived shelter experience was received during the October 13
+th and 14th meetings.  About ninety
+people attended the Community Forums.  Message transcripts from the forums were saved, read, and
+those messages that addressed the project purpose were compiled by topic and considered while
+formulating the Proposed Draft.
+
+Eighteen Map App Comments and thirteen email comments were received on the Discussion Draft.
+Again, all these comments were read, compiled by topic and considered while formulating the Proposed
+Draft.
+
+Response to Discussion Draft Comments
+As a result of comments received in writing and during the outreach, the Proposed Draft amended some
+of the shelter regulations to increase the number of beds/individual shelters allowed without a
+conditional use review, and also adjusted some of the Conditional Use approval criteria. A new provision
+was added to allow an occupied recreational vehicle on the site of a house, attached house or
+manufactured home.
+
+Proposed Draft and Planning and Sustainability Commission (PSC) Hearing
+In response to concerns about the speed of the proposal and comment period, staff set up two Planning
+and Sustainability Hearings in December to provide additional opportunities for formal review and
+comments. The two hearings were on December 8 and December 15, 2020. This provided more
+opportunity for video testimony signups as well as allocated some additional time for written testimony
+to be submitted through the Map App. The deadline for written testimony was extended to December
+21, 2020.
+
+A total of 28 people spoke in person at the two hearings (12 on 12/8 and 16 on 12/15). In addition, there
+were 178 pieces of individual written testimony submitted through the Map App between November 30
+and December 21, although a few pieces of testimony were duplicates and some testifiers submitted
+more than one piece of testimony.
+
+The testimony, both verbal and written illuminated several common themes. On one hand, there was
+interest in expanding the places where various shelters could locate as well as an interest in allowing a
+greater number of beds or individual tents/shelters within each location by right, reducing the situations
+where a shelter would require a conditional use review. On the other hand, there was considerable
+testimony expressing concern about potential considerations to allow permanent shelters within parks
+and open space areas. In addition, several testifiers were concerned with the current state of
+enforcement as it relates to the informal, unsanctioned campsites established in public spaces and the
+lack of solutions to enable existing enforcement of city regulations. Many commenters were concerned
+about potential geographic allocations of the new regulations which could create geographic
+concentrations of shelters in one area versus another. Some testifiers focused on the specific
+amendments that addressed the occupancy of recreational vehicles or tiny houses on wheels.
+
+This testimony helped inform Planning and Sustainability Commission’s (PSC) discussion in work sessions
+held on January 12 and 26, 2021. During these work sessions, the PSC discussed the following:
+
+• Number of shelter beds or individual tents/shelter allowed. The PSC amended the Proposed
+Draft to increase these numbers.
+• Operational requirements for outdoor shelters. No changes were made by the PSC.
+• A consideration to allow permanent shelters within Open Space (OS) zones. The PSC did not
+recommend this, so permanent shelters would continue to be prohibited in OS zones.
+• Provisions for temporary shelters. PSC considered potential limitations but did not make any
+changes.
+• Group Living use triggers. PSC discussed and recommended to increase the threshold
+distinguishing Household Living from Group Living from 6 up to 8 bedrooms in a dwelling unit.
+• Tiny Houses or Recreational Vehicles on a lot. PSC considered several ideas but maintained one
+occupied recreational vehicle on a lot. City staff also made some changes to Title 29 as a result
+of the testimony and PSC discussion (see below).
+• Visitability Standards. At the request of BDS (Bureau of Development Services), PSC added
+standards addressing visitability that were initially proposed with the Residential Infill Project.
+These standards replace references to the building code that were expected to be difficult to
+implement.
+
+The PSC has formal authority to make recommendations related to Title 33 only, and not other other
+amendments. The standing inter-agency Housing Continuum Committee also met in January and
+February to consider testimony and make revisions to elements of the project involving other part of the
+City Code (Titles 8, 15, 17, 21, 29 and 30). As a result of the testimony the Committee recommended
+several changes, which have been incorpoirated into Volume 3.
+
+• Scaled-back changes to Title 15 to leave the housing emergency authorization intact.
+• Additional changes in Title 17 and 21 to implement System Development Charge (SDC)
+exemptions for outdoor shelters and for the recreational vehicle utility hookups.
+• Changes to Title 29 to simplify the number of requirements applicable to occupied recreational
+vehicles.
+• Changes to Title 30 to align shelter definitions and implement SDC exemptions.
+Continuing Engagement
+Staff is continuing to engage with the public and provide information as the PSC Recommendation is
+developed. The Recommended Draft is published in advance of the City Council hearing, scheduled for
+March 17, 2021. Public notice is released on February 17, and the project webpage and Map App page
+for public comments has been updated.
+
+Amendments to the City Code
+Volume Two, Changes to the Zoning Code
+Recommended Draft - As Amended
+April 2021
+EXHIBIT C
+
+The Shelter to Housing Continuum Project will further fair housing goals by
+expanding shelter and housing options throughout the city. The Bureau of Planning
+and Sustainability, the Portland Housing Bureau and the Joint City -County Office of
+Homeless Services are partnering to retool city codes to better address our
+homelessness crisis.
+
+Cover illustrations kindly provided with permission:
+
+Josh Chang for a photograph of the Kenton Women’s Village shelter,
+Multnomah County Communications for a photograph of the Laurelwood Center
+shelter,
+Multnomah County Communications for a photograph of the Family Village
+shelter, and
+Guerilla Development Company for a drawing of the “ Jolene's First Cousin ” group
+living building.
+
+Cover design by Gaby Jenkins, Bureau of Planning and Sustainability.
+
+March 17, 2021
+
+Testimony on the Recommended Draft is due on March 17, 2021
+This information has been updated to reflect current City Council practice due to the COVID -19 pandemic.
+How to Testify:
+The Shelter to Housing Continuum Recommended Draft will be considered by the Portland City Council. The public is
+invited to submit formal comments (public testimony) to City Council  in writing, online via the Map App, or remotely
+at the public hearing. Testimony is directed to City Council, which may amend the proposal.
+
+To testify in writing:
+You must provide your full name and mailing address and use one of the following methods:
+• MapApp:
+The MapApp is easy as sending an email. Go to: https://www.portlandmaps.com/bps/mapapp/
+, click to view the
+Shelter to Housing Continuum Project and then click “Testify”.
+• U.S. Mail:
+Portland City Council
+Shelter to Housing Continuum Tetimony
+1221 SW 4th Avenue, Room 130
+Portland, OR 97204
+
+To testify at the City Council meeting:
+You may speak for three minute to the City Council, and your testimony will be added to the public record. You must
+provide your full namen and mailing address.
+Council hearing date: Wednesday March 17, 2021 at 2p.m.
+The hearing will be held virtually. You can use a computer, mobile device or telephone to testify during the hearing.
+You must pre register to testify. See below:
+
+To testify during the hearing, please visit the project website to register: https://www.portland.gov/bps/s2hc
+ . You
+will receive a confirmation email containing information about joining the virtual hearing. The deadline to sign up for
+the March 17 Council hearing is March 16 at 4:00 p.m. Individual have three minutes to testify, unless stated
+otherwise at the hearing.
+
+Email the Council Clerk at cctestimony@portlandoregon.gov with questions.
+To confirm the hearing date and time, check the City Council calendar at
+https://www.portlandoregon.gov/auditor/26997 for the most updated information.
+
+For more information:
+Visit the project webpage at www.portland.gov/bps/s2hc or contact Eric Engstrom at
+Eric.Engstrom@portlandoregon.gov
+
+Project timeline:
+
+Acknowledgments
+
+Portland City Council
+Ted Wheeler, Mayor
+Jo Ann Hardesty, Commissioner
+Mingus Mapps, Commissioner
+Carmen Rubio, Commissioner
+Dan Ryan, Commissioner
+
+Portland Planning and Sustainability Commission
+Eli Spevak, Chair
+Steph Routh, Vice Chair
+Katherine Schultz, Vice Chair
+Jeff Bachrach, Commissioner
+Ben Bortolazzo, Commissioner
+Mike Houck, Commissioner
+Katie Larsell, Commissioner
+Oriana Magnera, Commissioner
+Chris Smith, Commissioner
+
+Bureau of Planning and Sustainability
+Carmen Rubio, Commissioner-in-charge
+Andrea Durbin, Director
+Joe Zehnder, Chief Planner
+Eric Engstrom, Principal Planner
+
+Project Staff
+Al Burns (Retired), AICP, Senior City Planner, Bureau of Planning and Sustainability, Project Manager
+Shannon Buono, Senior City Planner, Bureau of Planning and Sustainability, Code Editor
+Jessica Conner, Senior Policy and Planning Coordinator, Housing Bureau, Technical Advisor
+Phil Nameny, City Planner II, Bureau of Planning and Sustainability, Technical Advisor
+Matt Wickstrom, Senior City Planner, Bureau of Development Services, Technical Advisor
+
+Project Advisors
+Terry Whitehill, Bureau of Development Services
+Marc Jolin and April Rohman, Joint Office of Homeless Services
+Jonny Lewis, Office of Management and Finance
+Amber Clayton, and Mike Crebs, Portland Bureau of Transportation
+Brett Horner, Portland Parks and Recreation
+Marie Walkiewicz, Bureau of Environmental Services
+Nate Takara, Portland Fire and Rescue
+Chris Davis and Jake Jensen, Police Bureau
+Lauren King, City Attorney’s Office
+Seraphie Allen and Zachary Kearl, Mayor Wheeler’s Office
+Claire Adamsick and Cynthia Castro, Commissioner Fritz’s Office
+Derek Bradley, Commissioner Hardesty’s Office
+
+Project Research
+Research for this project was funded by a technical assistance grant from the Oregon Department of Land
+Conservation and Development.  Best practices research was provided by Angelo Planning.
+
+Table of Contents, Volume Two, Zoning Code Amendments
+
+ List of Chapters .....................................................................................................................  2
+ Table of Contents ..................................................................................................................  4
+ 33.100 Open Space Zone ......................................................................................................  6
+ 33.110 Single-Dwelling Zones ...............................................................................................  8
+ 33.120 Multi-Dwelling Zones ................................................................................................  26
+ 33.130 Commercial/Mixed Use Zones ..................................................................................  40
+ 33.140 Employment and Industrial Zones ............................................................................  46
+ 33.150 Campus Institutional Zones ......................................................................................  52
+ 33.200 Additional Use & Development Regulations ............................................................  56
+ 33.205 Accessory Dwelling Units ..........................................................................................  58
+ 33.207 Accessory Short Term Rentals ..................................................................................  62
+ 33.236 Floating Structures ....................................................................................................  66
+ 33.239 Group Living ..............................................................................................................  68
+ 33.260 Occupied Recreational Vehicle .................................................................................  72
+ 33.266 Parking, Loading, and Transportation and Parking Demand Management .............  74
+ 33.270 Planned Development ..............................................................................................  78
+ 33.285 Short Term, Mass and Outdoor Shelter ....................................................................  82
+ 33.296 Temporary Activities ................................................................................................. 104
+ 33.420 Design Overlay Zone ................................................................................................. 106
+ 33.815 Conditional Uses ....................................................................................................... 108
+ 33.900 List of Terms .............................................................................................................. 118
+ 33.910 Definitions ................................................................................................................. 120
+ 33.920 Description of Use Categories ................................................................................... 128
+
+This page is intentionally blank
+
+Zoning Code Amendments
+
+This section presents staff proposed zoning code amendments. The section is formatted to
+facilitate readability by showing draft code amendments on the right-hand pages and related
+commentary on the facing left-hand pages.
+
+List of Chapters
+
+This change removes a reference to Chapter 33.239, and adds a reference to Chapter 33.260,  from
+the list of chapters for the entire zoning code, which is a prelude to the zoning code proper. Since
+the special standards for Group Living are being eliminated, the entirety of Chapter 33.239 is
+deleted. The reasons for the deletion are provided below in the commentary for Chapter 33.239.
+Likewise, the reasons for the addition of the new Chapter 33.260, Occupied Recreational Vehicle
+are provided in the commentary for Chapter 33.260.
+
+Ti
+tle 33, Planning and Zoning
+List of Chapters
+Additional Use & Development Regulations
+203 Accessory Home Occupations
+205 Accessory Dwelling Units
+207 Accessory Short-Term Rentals
+209 Aviation
+218 Community Design Standards
+219 Convenience Stores
+224 Drive-Through Facilities
+229 Elderly and Disabled High Density Housing
+236 Floating Structures
+237 Food Production and Distribution
+239 Group Living
+243 Helicopter Landing Facilities
+245 Inclusionary Housing
+248 Landscaping and Screening
+251 Manufactured Housing and Manufactured
+ Dwelling Parks
+254 Mining and Waste-Related
+258 Nonconforming Situations
+260 Occupied Recreational Vehicle
+262 Off-Site Impacts
+266 Parking and Loading
+270 Planned Developments
+272 Major Public Trail
+274 Radio Frequency Transmission Facilities
+279 Recreational Fields for Organized Sports
+281 Schools and School Sites
+284 Self-Service Storage
+285 Short Term Housing and Mass Shelters
+288 Special Street Setbacks
+293 Superblocks
+296 Temporary Activities
+299 Wind Turbines
+
+Table of Contents
+
+This change removes a reference to Chapter 33.239 and adds a reference to Chapter 33.260 from
+the table of contents for the entire zoning code, which is another prelude to the zoning code
+proper. Each major division of the zoning code also contains a table of contents. Since th e special
+standards for Group Living are being eliminated, the entirety of Chapter 33.239 is deleted. The
+Reasons for the deletion are provided below in the commentary for Chapter 33.239.  Likewise,
+Chapter 33.260 is a new chapter of regulations specific to an Occupied Recreational Vehicle on a
+lot. The reasons for the addition are provided in the commentary for Chapter 33.260.
+
+Table of Contents
+
+Chapter Number Page Number
+
+Additional Use and Development Regulations
+203 Accessory Home Occupations 203-1
+205 Accessory Dwelling Units 205-1
+207 Accessory Short-Term Rentals 207-1
+209 Aviation 209-1
+218 Community Design Standards 218-1
+219 Convenience Stores 219-1
+224 Drive-Through Facilities 224-1
+229 Elderly and Disabled High Density Housing 229-1
+236 Floating Structures 236-1
+237 Food Production and Distribution 237-1
+239 Group Living 239-1
+243 Helicopter Landing Facilities 243-1
+245 Inclusionary Housing 245-1
+248 Landscaping and Screening 248-1
+251 Manufactured Housing and Manufactured Dwelling Parks 251-1
+254 Mining and Waste-Related 254-1
+258 Nonconforming Situations 258-1
+260 Occupied Recreational Vehicle 260-1
+262 Off-Site Impacts 262-1
+266 Parking and Loading 266-1
+270 Planned Developments 270-1
+ [The table of contents for chapters containing additional use and development regulations continues
+past 270, but there are no other changes]
+
+33.100.100
+
+The Community Service use category currently includes two types of shelter: mass shelter and
+short-term housing. Amendments included with this project create a third type of shelter, outdoor
+shelter, and change the name of short-term housing to short term shelter. See page 74 and 112.
+The amendment to 33.100.100 is a technical amendment that reflects those changes. Shelters will
+continue to be prohibited in the OS zones as the purpose of the OS zone has never been to provide
+permanent facilities for shelter or housing.
+
+Note, all types of shelter may be placed in OS zones as a temporary activity, either during a state
+of emergency, or for distinct periods of time such as the winter months. See page 96 for
+information on the code provision under Chapter 33.296, Temporary Activities.
+
+33.100 Open Space Zone
+
+33.100.100 Primary Uses
+A.  [No change]
+B. Limited uses. Uses allowed that are subject to limitations are listed in Table 100-1 with an "L".
+These uses are allowed if they comply with the limitations listed below and the development
+standards and other regulations of this Title. In addition, a use or development listed in the
+200s series of chapters is also subject to the regulations of those chapters. The paragraphs
+listed below contain the limitations and correspond with the footnote numbers from Table
+100-1.
+1.-3. [No change]
+4. Community Services. This regulation applies to all parts of Table 100-1 that have note [4].
+Most Community Service uses are a conditional use. However, short term, housing and
+mass, and outdoor shelters are prohibited.
+5.-7. [No change]
+C.-D. [No change]
+
+33.110.100.B.1
+There are two types of residential use: household living and group living. Currently, Household Living
+is allowed by right in single dwelling zones, but Group Living requires approval through a conditional
+use review. However, Portland’s 2035 Comprehensive Plan identifies both types of residential uses
+as needed to meet present and future housing needs. All types of needed housing should have some
+options in residential zones, and easier siting can be accomplished through application of clear and
+objective standards rather than discretionary approval criteria.
+The intensity of the Household Living use is regulated through limitations on the number of units,
+the types of residential structures, and development limitations, such as building coverage and
+height, that control the total size and bulk of structures. Group Living uses can also be
+accommodated in a variety of structures, but many of them, such as dormitories and assisted living
+facilities are often of a size that is larger than expected development in the single dwelling zones.
+This amendment makes Group Living a limited rather than a conditional use, thus providing an
+opportunity for some Group Living to be subject to clear and objective standards. The limitation
+allows no more than 3,500 square feet of net building area on the site to be used for Group Living.
+The maximum size limitation is similar to the size of a larger dwelling unit, but the Group Living use
+could be accommodated in a dwelling unit or in the newly defined congregate housing facility.
+Additional building area devoted to Group Living will still require conditional use approval.
+This use limitation allows up to 3,500 square feet of Group Living use on a site—it does not allow a
+flat 3,500 square feet of the use. The base zone development standards, including setbacks,
+building coverage, maximum height, and the new floor area ratios that apply when the Residential
+Infill Project goes into effect in August, limit the overall size of structures on a site. In some
+cases, the base zone development standards will limit the overall net building area allowed on a site
+to less than 3,500 square feet. In situations where there is more than one building on a site the
+3,500 square foot limitation applies to all buildings, not to each building.
+Generally, these size limitations will help ensure that new residences for household living and group
+living will be of similar size and character.
+
+33.110.100.B.5
+This is a technical amendment that reflects the addition of outdoor shelter to the Community
+Service use category and the change in name for short-term housing.
+
+Note that the existing code on this page is based on the adopted Residential Infill Project
+which goes into effect on August 1, 2021
+
+33.110 Single-Dwelling Zones
+33.110.100 Primary Uses
+A. Allowed uses. [No change]
+B. Limited uses. Uses allowed that are subject to limitations are listed in Table 110-1 with an "L".
+These uses are allowed if they comply with the limitations listed below and the development
+standards and other regulations of this Title. In addition, a use or development listed in the
+200s series of chapters is also subject to the regulations of those chapters. The paragraphs
+listed below contain the limitations and correspond with the footnote numbers from Table
+110-1.
+1. Group Living. This regulation applies to all parts of Table 110-1 that have note [11]. Up to
+3,500 square feet of the total net building area on the site can be in a Group Living Use.
+More than 3,500 square feet of net building area in Group Living is a conditional use.
+1-3. [renumber to 2. – 4.]
+54. Community Service Uses. This regulation applies to all parts of Table 110-1 that have note
+[1]. Most Community Service uses are regulated by Chapter 33.815, Conditional Uses.
+Short term, housing and mass, and outdoor shelters have additional regulations in are
+regulated by Chapter 33.285, Short Term, Mass, and Outdoor SheltersShort Term Housing
+and Mass Shelters.
+5-10. [ renumber to 6. – 11.]
+C.-D. Conditional uses. [No change]
+
+Table 110-1
+The amendment to Table 110-1 changes the use allowance for Group Living from CU to L/CU and
+works with the note described above to allow up to 3,500 square feet of the net building area on a
+site in a Group Living use by right, with a larger use subject to a conditional use review.
+
+Note that the existing code on this page is based on the adopted Residential Infill Project
+which goes into effect on August 1, 2021
+
+Table 110-1
+Single-Dwelling Zone Primary Uses
+
+Use Categories
+
+RF
+
+R20
+
+R10
+
+R7
+
+R5
+
+R2.5
+Residential Categories
+Household Living Y Y Y Y Y Y
+Group Living L/CU [1] L/CU [1] L/CU [1] L/CU [1] L/CU [1] L/CU [1]
+Commercial Categories
+Retail Sales And Service  CU [21] CU [21] CU [21] CU [21] CU [21] CU [21]
+Office N N N N N N
+Quick Vehicle Servicing  N N N N N N
+Vehicle Repair N N N N N N
+Commercial Parking N N N N N N
+Self-Service Storage N N N N N N
+Commercial Outdoor Recreation N N N N N N
+Major Event Entertainment N N N N N N
+Industrial Categories
+Manufacturing And Production CU [32] N N N N N
+Warehouse And Freight Movement  N N N N N N
+Wholesale Sales N N N N N N
+Industrial Service N N N N N N
+Bulk Fossil Fuel Terminal N N N N N N
+Railroad Yards N N N N N N
+Waste-Related N N N N N N
+Institutional Categories
+Basic Utilities L/CU [43] L/CU [43] L/CU [43] L/CU [43] L/CU [43] L/CU [43]
+Community Service L/CU [54] L/CU [54] L/CU [54] L/CU [54] L/CU [54] L/CU [54]
+Parks And Open Areas L/CU [65] L/CU [65] L/CU [65] L/CU [65] L/CU [65] L/CU [65]
+Schools CU CU CU CU CU CU
+Colleges CU CU CU CU CU CU
+Medical Centers CU CU CU CU CU CU
+Religious Institutions CU CU CU CU CU CU
+Daycare L/CU [76] L/CU [76] L/CU [76] L/CU [76] L/CU [76] L/CU [76]
+Other Categories
+Agriculture L [87] L [87] L/CU [98] L/CU [98] L [109] L [109]
+Aviation And Surface Passenger
+Terminals
+
+CU
+
+N
+
+N
+
+N
+
+N
+
+N
+Detention Facilities N N N N N N
+Mining CU N N N N N
+Radio Frequency Transmission
+Facilities
+L/CU
+[1110]
+L/CU
+[1110]
+L/CU
+[1110]
+L/CU
+[1110]
+L/CU
+[1110]
+L/CU
+[1110]
+Railroad Lines And Utility Corridors CU CU CU CU CU CU
+Y = Yes, Allowed      L = Allowed, But Special Limitations
+CU = Conditional Use Review Required   N = No, Prohibited
+Notes: [no change]
+
+Table 110-2
+The reference to single room occupancy housing type is being removed from Table 110-2 and the
+term congregate housing facility is being added. The term “single room occupancy” overlaps with
+household living, group living and commercial uses. This is confusing, and difficult to administer.
+Also, the proposed revisions to Group Living use allowances render a separate single room occupancy
+definition unnecessary, because residential living configurations considered under single room
+occupancy would be considered a Group Living use, generally in a congregate housing facility. See
+page 116 for discussion of the new congregate housing facility definition.
+
+In combination with Table 110-1, a group living use, either in a larger dwelling unit or in a congregate
+housing facility, is an allowed use up to 3,500 square feet of net building area. A larger facility will
+be subject to a conditional use review.
+
+Note that the existing code on this page is based on the adopted Residential Infill Project
+which goes into effect on August 1, 2021
+
+Development Standards
+33.110.200 Housing Types Allowed
+A. Purpose. [No change]
+B. Housing types. The kinds of housing types allowed in the single-dwelling zones are stated in
+Table 110-2.
+Table 110-2
+Housing Types Allowed In The Single-Dwelling Zones
+Housing Type RF R20 R10 R7 R5 R2.5
+House Yes Yes Yes Yes Yes Yes
+Attached house
+(See 33.110.260.C and
+33.110.265.C)
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+Accessory dwelling unit
+(See Chapter 33.205)
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+Duplexes:
+On corners
+(See 33.110.265.D)
+Other situations
+(See 33.110.265.D)
+
+No
+
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+Triplexes
+(See 33.110.265.E)
+No No No Yes Yes Yes
+Fourplexes
+(See 33.110.265.E)
+No No No Yes Yes Yes
+Multi-dwelling Structure
+(See 33.110.265.F)
+No No No Yes Yes Yes
+Manufactured home
+(See Chapter 33.251)
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+Manufactured Dwelling
+park
+No No No No No No
+Houseboat
+(See Chapter 33.236)
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+Congregate Housing
+Facility (See
+33.110.100.B.11)
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+Single Room Occupancy
+(SRO) units
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+Attached Duplexes Only in Planned Developments, See Chapter 33.270.
+Group Living Facility Only when in conjunction with an approved conditional use.
+Multi-dwelling
+Development
+Only in Planned Developments, See Chapter 33.270
+Yes = allowed;   No = prohibited.
+
+33.110.210.B
+This amendment works in conjunction with the other amendments that apply to Group Living uses.
+
+The Residential Infill Project (adopted 8/12/20; effective 8/1/21) applies a maximum floor area
+ratio (FAR) to development in the R.25, R5 and R7 single-dwelling residential zones. The FAR
+limitation is graduated based on the number of dwelling units there are on a site. The Shelter to
+Housing Continuum project is introducing a new residential structure type to the zoning code that is
+not a dwelling unit—a congregate housing facility. This amendment clarifies which FAR limitation
+applies to a site with a congregate housing facility.
+
+Table 110-4
+In conjunction with the amendment above, these changes clarify what maximum FAR will apply for
+sites that have a congregate housing facility, a term introduced with this project.
+
+33.110.210 Floor Area Ratios
+A. Purpose. [No change]
+B. Maximum FAR. Maximum floor area ratios are stated in Table 110-4. The maximum FAR
+allowed is based on the total number of dwelling units on the site and whether a bonus option
+is chosen. The maximum FAR for a site with a congregate housing facility is the same as shown
+in Table 110-4 for a site with 1 total dwelling unit. The maximum FAR for institutional uses is
+stated in 33.110.270. Adjustments to the maximum FAR ratios, including bonus ratios, are
+prohibited.
+C-D. [No change]
+
+Table 110-4
+Summary of Development Standards In Single-Dwelling Zones
+
+Standard
+
+RF
+
+R20
+
+R10
+
+R7
+
+R5
+
+R
+2
+.
+5
+
+Maximum FAR
+- 1 total dwelling unit [1]
+- 2 total dwelling units [12]
+- 3 or more total dwelling
+units [1]
+(See 33.110.210 and
+33.110.265)
+
+no limit
+
+no limit
+
+no limit
+
+0.4 to 1
+0.5 to 1
+0.6 to 1 [23]
+
+0.5 to 1
+0.6 to 1
+0.7 to 1 [23]
+
+0.7 to 1
+0.8 to 1
+0.9 to 1 [23]
+Maximum FAR with Bonus
+- 1 total dwelling unit
+- 2 total dwelling units [12]
+- 3 or more total dwelling
+units [1]
+(See 33.110.210 and
+33.110.265)
+
+NA
+
+NA
+
+NA
+
+0.4 to 1
+0.6 to 1
+0.7 to 1
+
+0.5 to 1
+0.7 to 1
+0.8 to 1
+
+0.7 to 1
+0.9 to 1
+1 to 1
+Maximum Height (See
+33.110.215)
+30 ft. 30 ft. 30 ft. 30 ft. [23] 30 ft. [23] 35 ft.
+
+Table 110-4 (contd)
+Footnote [1] clarifies the maximum FAR that should apply to sites with a congregate housing
+facility.
+
+Table 110-5
+This amendment changes the way building coverage will be calculated for Group Living uses going
+forward. With the change to allow some Group Living use by right rather than requiring a CU for all
+Group Living uses, they should be subject to the same building coverage allowance as Household
+Living uses on a site. Building coverage for Household Living is a sliding scale that adjusts buildi ng
+coverage percentage downward as the lot size increases. However, accessory housing that may be
+part of a college campus or religious institution is subject to the development standards for the
+institution.
+
+Note that the existing code on this page is based on the adopted Residential Infill Project
+which goes into effect on August 1, 2021
+
+Minimum Setbacks
+- Front building
+setback
+- Side building
+setback
+- Rear building
+setback
+- Garage entrance
+setback
+(See 33.110.220)
+
+20 ft.
+
+10 ft.
+
+10 ft.
+
+18 ft.
+
+20 ft.
+
+10 ft.
+
+10 ft.
+
+18 ft.
+
+20 ft.
+
+10 ft.
+
+10 ft.
+
+18 ft.
+
+15 ft.
+
+5 ft.
+
+5 ft.
+
+18 ft.
+
+10 ft.
+
+5 ft.
+
+5 ft.
+
+18 ft.
+
+10 ft.
+
+0/5 ft.
+
+5 ft.
+
+18 ft.
+Maximum Building
+Coverage
+(See 33.110.225)
+See Table
+110-6
+See Table
+110-6
+See Table
+110-6
+See Table
+110-6
+See Table
+110-6
+See Table
+110-6
+Required Outdoor Area
+- Minimum area
+
+- Minimum dimension
+(See 33.110.240235)
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+200 sq. ft.
+
+10 ft. x
+10 ft.
+[1] Including any site with a congregate housing facility.
+[12] Including accessory dwelling units.
+[23] Additional FAR and height may be allowed. See 33.110.265.F.
+
+33.110.225 Building Coverage
+A. Purpose. The building coverage standards limit the footprint of buildings and work together
+with the height, setback and floor area ratio standards to control the overall bulk of structures.
+They are intended to ensure that taller buildings will not have such a large footprint that their
+total bulk will overwhelm adjacent houses. Additionally, the standards help define the
+character of the different zones by limiting the amount of buildings allowed on a site.
+B. Building coverage standards. The maximum combined building coverage allowed on a site for
+all covered structures is stated in Table 110-5.
+
+Table 110-5
+Maximum Building Coverage Allowed in the RF through R2.5 Zones [1]
+Lot Size  Maximum Building Coverage
+Less than 3,000 sq. ft.  50% of lot area
+3,000 sq. ft or more but less than 5,000 sq. ft.  1,500 sq. ft. + 37.5% of lot area over 3,000 sq. ft.
+5,000 sq. ft. or more but less than 20,000 sq. ft.  2,250 sq. ft + 15% of lot area over 5,000 sq. ft.
+20,000 sq. ft. or more 4,500 sq. ft. + 7.5% of lot area over 20,000 sq. ft.
+Notes:
+[1] Group Living uses are subject to the maximum building coverage for institutional development stated in
+Table 110-8.
+
+33.110.265.E.3.
+The standards referencing ICC A117.1 are revised to remove cross references to the international
+code council set of standards for Type C visitable units. Instead, specific requirements for
+visitable units are now wholly contained within the zoning code.
+
+The ICC standards were more extensive, and much more specific. Reverting to the set of standards
+previously recommended by the Planning and Sustainability Commission with the Residential Infill
+Project will help facilitate and streamline implementation and plan review as well as keep all the
+relevant standards in one location.
+
+The standards require a no step entry and specify the grade tolerances for the path leading to that
+entry. This is the only standard that is potentially adjustable, in order to account for the large
+degree of variability that may be present in different lot development situations, and recognizes
+that there may be other ways to provide an accessible route that do not strictly conform to the
+slope limits.
+
+Minimum door widths ensure that most mobility devices can travel through the space.
+
+A bathroom containing at least a toilet and a sink is required on the visitable floor. Minimum clear
+dimensional requirements ensure that most mobility devices can be maneuvered around bathro om
+fixtures. These clearances are adapted from ICC A117.1 Sec. 304.3.
+
+And lastly, the requirement for a minimum of 200 square feet of living area provides options for a
+bedroom space, or other living space besides just a half bath and stairwell on the visitable floor.
+
+Note that the existing code on this page is based on the adopted Residential Infill Project
+which goes into effect on August 1, 2021
+
+33.110.265 Residential infill options
+A.-D.  [No change]
+E. Triplexes and fourplexes. Triplexes and fourplexes that meet the following standards are
+allowed on interior and corner lots in the R7 through R2.5 zones. Triplexes and fourplexes are
+prohibited on lots that abut a street that has not been accepted for maintenance by the City of
+Portland, or the State of Oregon in the case of state highways, and are prohibited on lots that
+abut a private street that connects to a street or highway that has not been accepted for
+maintenance by the City or State. See Title 17.42, Property Owner Responsibility for Streets.
+Payment in lieu of street improvements does not satisfy this requirement. Triplexes and
+fourplexes are also prohibited on lots where a Historic or Conservation Landmark or a
+contributing structure in a Historic or Conservation District was demolished within the past ten
+years unless the landmark or contributing structure was destroyed by fire or other causes
+beyond the control of the owner, the only structure that was demolished was an accessory
+structure, or the demolition was approved through demolition review.
+1.-2. [No change]
+3. Visitability.
+a. Purpose. Visitability standards ensure that a baseline of accessible features is
+provided to accommodate people living in or visiting the residence regardless of age
+or ability. The standards:
+• Promote a diverse supply of more physically accessible housing;
+• Allow people of all ages and abilities to easily enter and visit the residence;
+• Foster community interaction by reducing barriers that can lead to social
+isolation; and
+• Enhance public safety for all residents and visitors.
+b. Visitable unit standards. Unless exempted by Subparagraph E.3.c., at least one
+dwelling unit on the lot must meet all of the following visitability standards:the
+requirements for Type C visitable units in ICC A117.1 (2009 Edition) and must have at
+least 200 square feet of living area on the same floor as the main entrance The
+property owner must execute a covenant with the City that meets the requirements
+of Section 33.700.060 and ensures that the features required by the Type C
+standards are retained for the life of the dwelling unit.
+(1) Visitable entrance. At least one entrance must be accessible via a route that
+does not have any stairs between it and the street lot line or an on-site parking
+space. The slope of the route may not exceed 1:8.
+
+See previous commentary page.
+
+Note that the existing code on this page is based on the adopted Residential Infill Project
+which goes into effect on August 1, 2021
+
+(2) Visitable bathroom. At least one bathroom with a sink and toilet must be
+designed to accommodate an unobstructed circle that is at least 60-inches in
+diameter. As an alternative, the bathroom may be designed to accommodate an
+unobstructed area that is comprised of two rectangles that are at least 36
+inches by 60 inches, and oriented at right angles to each other. See Figure 110-
+14. The visitable bathroom must be on the same floor as the visitable entrance
+or be accessible from the visitable entrance via a ramp, elevator or lift.
+Adjustments are prohibited;
+(3) Visitable living area. There must be at least 200 square feet of living area on the
+same floor as the visitable entrance or 200 square feet of living area must be
+accessible from the visitable entrance via a ramp, elevator or lift. Adjustments
+are prohibited; and
+(4) Visitable doors. All door openings between and including the visitable entrance,
+visitable living area, and the visitable bathroom must be at least 34 inches wide.
+Adjustments are prohibited.
+c. Exemptions. The following are exempt from the standards of this Subsection:
+(1)  Lots with an average slope of 20 percent or greater;
+(2) Lots where there is more than a 3-foot rise between the highest elevation along
+the street lot line and the lowest grade measured at the front setback.
+(3) Conversion of an existing residential structure to a triplex or fourplex.
+Figure 110-14
+Visitable Bathroom Clearances
+
+33.110.265.F.6.
+
+See commentary for 33.110.265.E.3 for triplexes. This commentary also applies to the amendments
+that amend the language for fourplexes and multi-dwelling structures.
+
+Note that the existing code on this page is based on the adopted Residential Infill Project
+which goes into effect on August 1, 2021
+
+F. Affordable fourplexes and multi-dwelling structures. Fourplexes and multi-dwelling structures
+with no more than six dwelling units are allowed on interior and corner lots in the R7 through
+R2.5 zones when the following standards are met. Fourplexes and multi-dwelling structures are
+prohibited on lots that abut a street that has not been accepted for maintenance by the City of
+Portland, or the State of Oregon in the case of state highways, and are prohibited on lots that
+abut a private street that connects to a street or highway that has not been accepted for
+maintenance by the City or State. See Title 17.42, Property Owner Responsibility for Streets.
+Payment in lieu of street improvements does not satisfy this requirement. Fourplexes and
+multi-dwelling structures are also prohibited on lots where a Historic or Conservation
+Landmark or a contributing structure in a Historic or Conservation District was demolished
+within the past ten years unless the landmark or contributing structure was destroyed by fire or
+other causes beyond the control of the owner, the only structure that was demolished was an
+accessory structure, or the demolition was approved through demolition review.
+1.-5. [No change]
+6. Visitability.
+a. Purpose. Visitability standards ensure that a baseline of accessible features is
+provided to accommodate people living in or visiting the residence regardless of age
+or ability. The standards:
+• Promote a diverse supply of more physically accessible housing;
+• Allow people of all ages and abilities to easily enter and visit the residence;
+• Foster community interaction by reducing barriers that can lead to social
+isolation; and
+• Enhance public safety for all residents and visitors.
+b. Visitable unit standards. Unless exempted by Subparagraph E.3.c., at least one
+dwelling unit on the lot must meet all of the following visitability standards:the
+requirements for Type C visitable units in ICC A117.1 (2009 Edition) and must have at
+least 200 square feet of living area on the same floor as the main entrance The
+property owner must execute a covenant with the City that meets the requirements
+of Section 33.700.060 and ensures that the features required by the Type C
+standards are retained for the life of the dwelling unit.
+(1) Visitable entrance. At least one entrance must be accessible via a route that
+does not have any stairs between it and the street lot line or an on-site parking
+space. The slope of the route may not exceed 1:8.
+(2) Visitable bathroom. At least one bathroom with a sink and toilet must be
+designed to accommodate an unobstructed circle that is at least 60-inches in
+diameter. As an alternative, the bathroom may be designed to accommodate an
+unobstructed area that is comprised of two rectangles that are at least 36
+inches by 60 inches, and oriented at right angles to each other. See Figure 110-
+14. The visitable bathroom must be on the same floor as the visitable entrance
+or be accessible from the visitable entrance via a ramp, elevator or lift.
+Adjustments are prohibited;
+
+Note that the existing code on this page is based on the adopted Residential Infill Project
+which goes into effect on August 1, 2021
+
+(3) Visitable living area. There must be at least 200 square feet of living area on the
+same floor as the visitable entrance or 200 square feet of living area must be
+accessible from the visitable entrance via a ramp, elevator or lift. Adjustments
+are prohibited; and
+(4) Visitable doors. All door openings between and including the visitable entrance,
+visitable living area, and the visitable bathroom must be at least 34 inches wide.
+Adjustments are prohibited.
+c. Exemptions. The following are exempt from the standards of this Subsection:
+(1)  Lots with an average slope of 20 percent or greater;
+(2) Lots where there is more than a 3-foot rise between the highest elevation along
+the street lot line and the lowest grade measured at the front setback.
+(3) Conversion of an existing residential structure to a fourplex or multi-dwelling
+structure.
+G. [No change]
+
+33.120.100.B.1.a.
+The current Group Living use regulations limit the number of residents that can reside together in a
+non-household situation (i.e. Group Living use) by right to 15. This is a way of controlling the density
+of residents, and it is more limiting than current Household Living density standards in the multi-
+dwelling zones. With the recent changes made by the Better Housing by Design project to regulate
+development by floor area rather than by unit density, the current Group Living use limitation is no
+longer related to any density regulations for Household Living, and places alternative living
+arrangements (such as co-housing, assisted living or dormitories) at a greater disadvantage
+compared to apartments/dwelling units in multi-dwelling zones. The removal of the limitation means
+that a Group Living use becomes an allowed use, similar to Household Living. Both are subject to
+maximum FAR.
+
+33.120.100.B.1.b.
+The elimination of the conditional use requirement for Group Living uses in post incarceration
+facilities allows these situations to be treated the same as other Group Living situations. This is in
+keeping with City changes to destigmatize past offenders that have also resulted in city rule
+changes in employment and rental applications. With the current conditional use requirement, most
+post incarceration facilities have instead operated under the city’s definition of household and
+Household Living use, which is allowed by right. The change expands this to Group Living uses in post
+incarceration facilities in the multi-dwelling zones. It should be noted that facilities where people
+are under judicial detainment and the direct supervision of sworn officers fall under the Detention
+Facilities use category and are not Group Living.
+
+The remaining limitations are renumbered.
+
+Note that the existing code on this page is based on the adopted Residential Infill Project
+which goes into effect on August 1, 2021
+
+33.120 Multi-Dwelling Zones
+
+33.120.100 Primary Uses
+A. Allowed uses. [No change]
+B. Limited uses. Uses allowed in these zones subject to limitations are listed in Table 120-1 with
+an “L”. These uses are allowed if they comply with the limitations listed below and the
+development standards and other regulations of this Title. In addition, a use or development
+listed in the 200s series of chapters is also subject to the regulations of those chapters. The
+paragraphs listed below contain the limitations and correspond with the footnote numbers
+from Table 120-1.
+1. Group Living. This regulation applies to all parts of Table 120-1 that have a [1].
+a. General regulations. All Group Living uses in the multi-dwelling zones, except for
+alternative or post incarceration facilities, are allowed as follows:
+(1) Seven to 15 residents. Group Living uses for 7 to 15 residents are allowed by
+right subject to the regulations of Chapter 33.239, Group Living.
+(2) More than 15 residents. Group Living facilities for more than 15 residents are
+conditional uses. They are also subject to the regulations of Chapter 33.239,
+Group Living.
+(3) Exception. Normally all residents of a structure are counted to determine
+whether the use is allowed or a conditional use as stated in (1) and (2) above.
+The only exception is residential facilities licensed by or under the authority of
+the state Department of Human Resources under ORS 443.400 to 443.460. In
+these cases, staff persons are not counted as residents to determine whether
+the facility meets the 15 resident cutoff, above which a conditional use is
+required.
+b. A lternative or post incarceration facilities. Group Living uses which consist of
+alternative or post incarceration facilities are conditional, uses regardless of size.
+They are also subject to the regulations of Chapter 33.239, Group Living.
+2.-3.  [Renumber to be 1.-2.]
+
+33.120.100.B.3 and 4
+The Community Service use limitation is being amended to incorporate the addition of a third type
+of shelter, outdoor shelter, as a Community Service use. In addition, “short term housing” is being
+renamed “short term shelter.” The references to limitations in this section are revised to reflect
+these changes. The actual limitations are explained below in commentary for proposed changes to
+Chapter 33.285 starting on page 74.
+
+Note that the existing code on this page is based on the adopted Residential Infill Project
+which goes into effect on August 1, 2021
+
+34. Community Service and Schools in RX. This regulation applies to all parts of Table 120-1
+that have a note [34]. Most Community Service uses are regulated by Chapter 33.815,
+Conditional Uses. Short term, housing and mass, and outdoor shelters are also regulated
+by Chapter 33.285, Short Term, Mass, and Outdoor Shelters. Short Term Housing and
+Mass Shelters.
+a. Limited uses. Community Service and Schools uses are allowed in a multi-dwelling
+development if all of the Community Service and Schools uses are located on the
+ground floor. If any portion of a Community Service or Schools use is not on the
+ground floor of a multi-dwelling development, the Community Services and Schools
+uses are limited to 20 percent of the net building area;
+b. Conditional uses. If any portion of the Community Service and Schools uses is not on
+the ground floor of a multi-dwelling development and the uses exceed 20 percent of
+the total net building area, then a conditional use review is required.
+45. Community Service in RM1 through RM4 and RMP. This regulation applies to all parts of
+Table 120-1 that have a [45]. Most Community Service uses are regulated by Chapter
+33.815, Conditional Uses. Short term, housing and mass, and outdoor shelters are
+regulated by Chapter 33.285, Short Term, Mass, and Outdoor Shelters. Short Term
+Housing and Mass Shelters.
+6.-11. [Renumber to be 5. – 10.]
+C-D. [No change]
+
+Table 120-1
+The change to Table 120-1 reflects the removal of the use limitations for Group Living in the multi-
+dwelling zones. For the RMP zone, which only allows manufactured homes that typically can’t
+accommodate a Group Living use, the prohibition on Group Living uses remains.
+
+The other amendments within the table reflect the use notation renumbering.
+
+Note that the existing code on this page is based on the adopted Residential Infill Project
+which goes into effect on August 1, 2021
+
+Table 120-1
+Multi-Dwelling Zone Primary Uses
+
+Use Categories
+
+RM1
+
+RM2
+
+RM3
+
+RM4
+
+RX
+
+RMP
+Residential Categories
+Household Living Y Y Y Y Y Y
+Group Living YL/CU [1] YL/CU [1] YL/CU [1] YL/CU [1] YL/CU [1] N
+Commercial Categories
+Retail Sales And Service  L [12] L [12] L [12] L [12] L [12] L [101]
+Office L [12] L [12] L [12] L [12] L [12] N
+Quick Vehicle Servicing  N N N N N N
+Vehicle Repair N N N N N N
+Commercial Parking N N N N CU [23] N
+Self-Service Storage N N N N N N
+Commercial Outdoor Recreation N N N N N N
+Major Event Entertainment N N N N N N
+Industrial Categories
+Manufacturing And Production N N N N N N
+Warehouse And Freight Movement  N N N N N N
+Wholesale Sales N N N N N N
+Industrial Service N N N N N N
+Bulk Fossil Fuel Terminal N N N N N N
+Railroad Yards N N N N N N
+Waste-Related N N N N N N
+Institutional Categories
+Basic Utilities L/CU [89] L/CU [89] L/CU [89] L/CU [89] L/CU [89] L/CU [89]
+Community Service L/CU [45] L/CU [45] L/CU [45] L/CU [45] L/CU [34] L/CU [45]
+Parks And Open Areas L/CU [56] L/CU [56] Y Y Y L/CU [56]
+Schools CU CU CU CU L/CU [34] CU
+Colleges CU CU CU CU CU CU
+Medical Centers CU CU CU CU CU CU
+Religious Institutions CU CU CU CU CU CU
+Daycare L/CU [67] L/CU [67] L/CU [67] L/CU [67] Y L/CU [67]
+Other Categories
+Agriculture L [910] L [910] L [910] L [910] L [910] L [910]
+Aviation And Surface Passenger
+Terminals
+N N N N N N
+Detention Facilities N N N N N N
+Mining N N N N N N
+Radio Frequency Transmission
+Facilities
+L/CU [78] L/CU [78] L/CU [78] L/CU [78] L/CU [78] L/CU [78]
+Rail Lines And Utility Corridors CU CU CU CU CU CU
+Y = Yes, Allowed      L = Allowed, But Special Limitations
+CU = Conditional Use Review Required   N = No, Prohibited
+
+33.120.200
+Table 120-2
+The reference to the single room occupancy housing type is being removed from Table 120 -2 and
+the term congregate housing facility is being added. The term “single room occupancy” overlaps with
+household living, group living and commercial uses. This is confusing, and difficult to administer.
+Also, the proposed revisions to Group Living use allowances render a separate single room occupancy
+definition unnecessary, because residential living configurations considered under single room
+occupancy would be considered a Group Living use, generally in a congregate housing facility. See
+page 116 for discussion of the new congregate housing facility definition. Congregate housing
+facilities will continue to be prohibited in the RMP zone.
+
+Note that the existing code on this page is based on the adopted Residential Infill Project
+which goes into effect on August 1, 2021
+
+33.120.200 Housing Types Allowed
+A. Purpose. A broad range of housing types are allowed in the multi-dwelling zones. This range
+allows for efficient use of land, provides options to increase housing variety and housing
+opportunities, and promotes affordable and energy-efficient housing.
+B. Housing types. The types of housing allowed in the multi-dwelling zones are stated in Table
+120-2.
+
+Table 120-2
+Housing Types Allowed In The Multi-Dwelling Zones
+Housing Type RM1 RM2 RM3 RM4 RX RMP
+House Yes Yes Yes Yes Yes No
+Attached House
+(See 33.120.270 C.)
+Yes Yes Yes Yes Yes No
+Accessory dwelling unit
+(See 33.205)
+Yes Yes Yes Yes Yes No
+Duplex Yes Yes Yes Yes Yes No
+Attached Duplex
+(See 33.120.270.F)
+Yes Yes Yes Yes Yes No
+Triplex Yes Yes Yes Yes Yes No
+Fourplex Yes Yes Yes Yes Yes No
+Multi-Dwelling Structure  Yes Yes Yes Yes Yes No
+Multi-Dwelling Development Yes Yes Yes Yes Yes Yes [1]
+Manufactured Dwelling
+(See Chapter 33.251)
+Yes Yes Yes Yes Yes Yes [2]
+Manufactured Dwelling Park
+(See Chapter 33.251)
+Yes No No No No Yes
+Houseboat
+(See Chapter 33.236)
+Yes Yes Yes Yes Yes No
+Single Room Occupancy (SRO) units No Yes Yes Yes Yes No
+Congregate HousingGroup Living
+Facility
+Yes Yes Yes Yes Yes No
+Yes = allowed; No = prohibited.
+Notes:
+[1] The only type of multi-dwelling development allowed in the RMP zone is manufactured dwellings in a
+manufactured dwelling park.
+[2] Except on individual lots created under the provisions of 33.642, Land Divisions of Manufactured Dwelling
+Parks, manufactured dwellings are only allowed in manufactured dwelling parks.
+
+33.120.211.C.4
+The standards referencing ICC A117.1 are revised to remove cross references to the international
+code council (ICC) set of standards for Type C visitable units. Instead, specific requirements for
+visitable units are now wholly contained within the zoning code.
+
+The ICC standards, originally adopted as part of the Better Housing by Design Project (effective
+March 1, 2020), were much more extensive and detailed than the zoning code standards.
+Implementation of this regulation using the ICC standards has proven impractical, given that such
+reviews require expertise with building code regulations, while the actual review of projects using
+this zoning code provision is by BDS land use planners experienced with zoning code regulations.
+Changing the visitability standards to zoning code regulations will help facilitate and streamline
+implementation and plan review as well as keep all the relevant standards in one location. Besides
+much greater regulatory simplicity compared to the ICC standards, these zoning code v isitability
+standards include the following differences from ICC standards:
+• No step, barrier free access to the unit with a maximum slope of 1:8 (ICC standards have
+maximum slopes of 1:20 or 1:12, which may still apply in some situations per building code
+regulations).
+• Greater requirements for bathroom maneuvering space (the ICC standards also required
+wall reinforcement for grab bars).
+• Doorway openings of 34 inches (clearance is 31¾ inches in the ICC code).
+
+The current requirement for a minimum of 200 square feet of living area is retained, which
+provides opportunity for a bedroom space or other living space, besides just a half bath and
+stairwell on the visitable floor.
+
+The amended visitability bonus are only available for housing types that are not subject to
+commercial building code requirements for accessible units, such as attached houses, duplexes, and
+townhouses (townhouses are considered in the zoning code to be multi-level units in a multi-dwelling
+structure, when located together on a single property). This is intended to promote physically
+accessible housing units in structure types that are not usually required to provide accessible units.
+
+(Commentary continues on next commentary page.)
+
+33.120.211 Floor Area Bonus Options
+A.-B.  [No change]
+C. Bonus options.
+1.-3. [No change]
+4. Visitable units bonus option. Bonus FAR is allowed up to the maximum with visitable units
+bonus as stated in Table 120-5 when at least 25 percent of all the dwelling units on the
+site meet the following visitability standards, except that this bonus is not available for
+projects with buildings that are required by the Oregon Structural Specialty Code to
+include Type A or Type B accessible units:are built to either Type A or Type C standards as
+described below. The property owner must execute a covenant with the City that meets
+the requirements of Section 33.700.060 and ensures that the features required by the
+Type A or Type C standards cited below are retained for the life of the dwelling unit:
+a. Dwelling units in houses, attached houses, duplexes, attached duplexes, triplexes,
+fourplexes, and multi-level dwelling units in multi-dwelling structures or multi-
+dwelling development must meet the requirements for Type C visitable units in ICC
+A117.1 (2009 Edition) and must have at least 200 square feet of living area on the
+same floor as the main entrance;
+b. Other types of dwelling units must meet the requirements for Type A units as
+defined in the Oregon Structural Specialty Code.
+a. Visitable entrance. At least one entrance must be accessible via a route that does not
+have any stairs between it and the street lot line or an on-site parking space. The
+slope of the route may not exceed 1:8.
+b. Visitable bathroom. At least one bathroom with a sink and toilet must be designed to
+accommodate an unobstructed circle that is at least 60-inches in diameter. As an
+alternative, the bathroom may be designed to accommodate an unobstructed area
+that is comprised of two rectangles that are at least 36 inches by 60 inches, and
+oriented at right angles to each other. See Figure 120-1. The visitable bathroom must
+be on the same floor as the visitable entrance or be accessible from the visitable
+entrance via a ramp, elevator or lift. Adjustments are prohibited;
+c. Visitable living area. There must be at least 200 square feet of living area on the same
+floor as the visitable entrance or 200 square feet of living area must be accessible
+from the visitable entrance via a ramp, elevator or lift. Adjustments are prohibited;
+and
+d. Visitable doors. All door openings between and including the visitable entrance,
+visitable living area, and the visitable bathroom must be at least 34 inches wide.
+Adjustments are prohibited.
+
+(contd from previous commentary)
+A change from the current code is that the amendments no longer include a visitability bonus option
+for housing types, such as multi-dwelling structures with single-level units, that are already subject
+to commercial building code accessibility requirements. The previous code provided a FAR bonus for
+such projects that had 25 percent of units built to building code Type A unit standards, which
+require a greater level of accessibility than the more usual requirement for Type B unit s. The bonus
+option for multi-dwelling projects to use the Type A unit standards required BDS planners to review
+proposals against commercial building code regulations, which has proven impractical to administer.
+Instead, the remaining bonus options for multi-dwelling structures will be bonuses for affordable
+units, such as the inclusionary housing bonus, which reflects City priorities for supporting the
+creation of affordable housing. Multi-dwelling structures subject to the commercial building code
+will continue to be required to provide accessible units (typically Type B units), which are typically
+required for all units accessed by elevators and ground-floor units.
+
+Figure 120-1
+This figure, which was initially part of the PSC’s recommendation, is added to illustrate how to
+accommodate the unobstructed area within the bathroom, as stated in the regulations above.
+
+33.120.213.B.
+The minimum density provisions in the multi-dwelling zones were written with the intention of
+ensuring a minimum number of dwelling units in areas closer to services. With the amendments to
+allow Group Living uses by right in the multi-dwelling zones, along with the acknowledgement of
+Group Living uses that are within larger dwelling units of 9 to 12 bedrooms, means that dwelling
+units with Group Living would maintain higher intensity uses near services. However, a potential for
+a conflict may arise with calculating a minimum density of dwelling units for Group Living uses (i.e. a
+project providing larger dwelling units such as for co-housing or for shared micro units may not be
+meeting the minimum number of dwelling units). This minimum density provision best applies to units
+provided for Household Living uses.
+This amendment clarifies the minimum density regulations do not apply to Group Living uses.
+
+Figure 120-1
+Visitable Bathroom Clearances
+
+Renumber Figures 120-1 through 120-16 to be Figures 120-2 through 120-17
+
+33.120.213 Minimum Density
+A. Purpose. The minimum density standards ensure that the service capacity is effectively utilized
+and that the City's housing goals are met. The standards also ensure that incremental
+development will not preclude the ability to meet the intended development intensity of the
+zoning of a site.
+B. Minimum density. The minimum density requirements for the multi-dwelling zones are stated
+in Table 120-3. Group Living uses are exempt from minimum density requirements. Land within
+an Environmental zone may be subtracted from the calculation of minimum density.
+
+33.120.240.B.
+Outdoor area requirements in the multi-dwelling zones are based on number of dwelling units. The
+Shelter to Housing Continuum project is introducing a new residential structure type to the zoning
+code that is not a dwelling unit—a congregate housing facility. This amendment clarifies how the
+outdoor area requirement applies to residential uses and how it applies to a congregate housing
+facility.
+
+33.120.240 Required Outdoor and Common Areas
+A. [no change]
+B. Outdoor area and common area requirements. In the RM1 through RM4 zones, on sites with a
+residential use, both outdoor and common areas are required. Required common area may
+count toward required outdoor area, but individual private outdoor area may not count toward
+required common area. The standards of this section do not apply in the RX and RMP zones.
+1. [No change]
+2. Required common area.
+a. Required common area standard. On sites that are more than 20,000 square feet in
+total site area, and on sites with a congregate housing facility, at least 10 percent of
+total site area must be provided as common area. At least 50 percent of the required
+common area must be outdoor area, such as outdoor courtyards or outdoor play
+areas. Up to 50 percent of the required common area may be indoor common area,
+such as indoor recreation facilities or indoor community rooms.
+b. Exemption. The required common area standard does not apply to sites where:
+(1) All of the dwelling units have individual entrances that are within 20 feet of a
+street lot line;
+(2) Each entrance is connected to the street by a path that is at least 3 feet wide
+and hard surfaced; and
+(3) Each dwelling unit has at least 200 square feet of individual outdoor area with a
+minimum dimension of 10 feet by 10 feet.
+C.  [no change]
+
+33.130.100.B.1a & b
+The removal of the special standards for Group Living uses in 33.239 means that the base zones no
+longer need to reference this chapter, and that Group Living uses are allowed by right subject to
+the base zone development standards, including height and floor area limits.
+
+The elimination of the conditional use requirement for Group Living uses in post incarceration
+facilities allows these situations to be treated the same as other group living situations. This is in
+keeping with City changes to destigmatize past offenders that have also resulted in city rule
+changes in employment and rental applications. With the current conditional use requirement, most
+post incarceration facilities have instead operated under the city’s definition of household and
+Household Living use, which is allowed by right. The change expands this to Group Living uses in post
+incarceration facilities in the commercial zones. It should be noted that facilities where people are
+under judicial detainment and the direct supervision of sworn officers fall under the Detention
+Facilities use category and are not Group Living.
+
+The remaining limitations are renumbered.
+
+33.130.100.B.6
+The Community Service use limitation is being amended to incorporate the addition of a third type
+of shelter, outdoor shelter, as a Community Service use. In addition, short term housing is being
+renamed “short term shelter.” The references to limitations in this section are revised to reflect
+these changes. The actual limitations are explained below in commentary for proposed changes to
+Chapter 33.285.
+
+33.130 Commercial/Mixed Use Zones
+33.130.100 Primary Uses
+A. Allowed uses. [no change]
+B. Limited uses. Uses allowed that are subject to limitations are listed in Table 130-1 with an "L".
+These uses are allowed if they comply with the limitations listed below and the development
+standards and other regulations of this Title. In addition, a use or development listed in the
+200s series of chapters is also subject to the regulations of those chapters. The paragraphs
+listed below contain the limitations and correspond with the footnote numbers from Table
+130-1.
+1. Group Living. This regulation applies to all parts of Table 130-1 that have a [1].
+a. General regulations. All Group Living uses, except for alternative or post
+incarceration facilities, are allowed by right subject to the regulations of Chapter
+33.239, Group Living.
+b. Alternative or post incarceration facilities. Group Living uses that consist of
+alternative or post incarceration facilities are conditional uses. They are also subject
+to the regulations of Chapter 33.239, Group Living.
+2-5. [Renumber to be 1. - 4.]
+56. Community Services. This regulation applies to all parts of Table 130-1 that have a [56].
+Most Community Service uses are allowed by right. Short term, housing and mass, and
+outdoor shelters may be allowed by right if they meet certain standards, or may be a
+conditional use. See Chapter 33.285, Short Term, Mass, and Outdoor SheltersShort Term
+Housing and Mass Shelters.
+7-12. [Renumber to 6. – 11.]
+C-D. [no change]
+
+Table 130-1
+
+The change to Table 130-1 reflects the removal of any use limitations for Group Living in the
+commercial/mixed use zones. These uses are now allowed by right in all cases.
+
+The other changes within the table are to reflect the renumbering of the use limit notations.
+
+Table 130-1
+Commercial/Mixed Use Zone Primary Uses
+Use Categories CR CM1 CM2 CM3 CE  CX
+Residential Categories
+Household Living Y Y Y Y Y Y
+Group Living YL/CU [1] YL/CU [1] YL/CU [1] YL/CU [1] YL/CU [1] YL/CU [1]
+Commercial Categories
+Retail Sales And Service  L [12] L [12] Y Y Y Y
+Office L [12] L [12] Y Y Y Y
+Quick Vehicle Servicing  N L [12] L [12] L [12] Y  N
+Vehicle Repair N N Y Y Y  L [45]
+Commercial Parking  N N L [89] L [89] Y  CU [89]
+Self-Service Storage N N N L [34] L [34] L [34]
+Commercial Outdoor Recreation N N Y Y Y Y
+Major Event Entertainment N N CU CU CU  Y
+Industrial Categories
+Manufacturing and Production N L/CU
+[23,45]
+L/CU
+[23,45]
+L/CU
+[23,45]
+L/CU
+[23,45]]
+L/CU
+[23,45]
+Warehouse and Freight Movement  N N N L [23,45] L [23,45] N
+Wholesale Sales N N L [23,45] L [23,45] L [23,45] L [23,45]
+Industrial Service N N CU [23,45] CU [23,45] CU [23,45] CU [23,45]
+Bulk Fossil Fuel Terminal N N N N N N
+Railroad Yards N N N N N N
+Waste-Related N N N N N N
+Institutional Categories
+Basic Utilities Y/CU [78] Y/CU [78] Y/CU [78] Y/CU [78] Y/CU [78] Y/CU [78]
+Community Service L/CU [56] L/CU [56] L/CU [56] L/CU [56] L/CU [56] L/CU [56]
+Parks and Open Areas Y Y Y Y Y Y
+Schools Y Y Y Y Y Y
+Colleges N Y Y Y Y Y
+Medical Centers N Y Y Y Y Y
+Religious Institutions Y Y Y Y Y Y
+Daycare  Y Y Y Y Y Y
+Other Categories
+Agriculture L [910] L [910] L/CU [1011] L/CU [1112] L/CU [1112] L/CU [1011]
+Aviation and Surface Passenger
+Terminals
+N N N N CU CU
+Detention Facilities N N N CU CU CU
+Mining N N N N N N
+Radio Frequency Transmission Facilities N L/CU [67] L/CU [67] L/CU [67] L/CU [67] L/CU [67]
+Rail Lines and Utility Corridors N CU CU CU CU CU
+ Y = Yes, Allowed
+CU = Conditional Use Review Required
+L = Allowed, But Special Limitations
+N = No, Prohibited
+
+Notes:
+• The use categories are described in Chapter 33.920.
+• Regulations that correspond to the bracketed numbers [ ] are stated in 33.130.100.B.
+• Specific uses and developments may also be subject to regulations in the 200s series of chapters.
+
+33.130.207.B
+
+The minimum density requirement in CM2 and CM3 zones was added as part of the Mixed Use Zone
+project. The intent was to require mixed use development that includes residential dwelling units to
+provide a minimum number of units to ensure adequate residential development in places close to
+services. The assumption was that the minimum dwelling units apply to Household Living uses.
+
+However, a potential for a conflict may arise with calculating a minimum density of dwelling units
+for Group Living uses (i.e. a project providing larger dwelling units such as for co- housing or for
+shared micro units may not be meeting the minimum number of dwelling units). This minimum density
+provision best applies to units provided for Household Living uses.
+
+The amendment clarifies that the minimum density provision in the CM2 and CM3 zones does not
+apply to Group Living uses.
+
+33.130.228.B.1
+Outdoor area requirements for residential uses in commercial mixed-use zones are based on the
+number of dwelling units. The Shelter to Housing Continuum project is introducing a new residenti al
+structure type to the zoning code that is not a dwelling unit—a congregate housing facility. This
+technical clarifies how the outdoor area requirement applies to a congregate housing facility.
+
+33.130.207 Minimum Density
+A. Purpose. The minimum density standards ensure that the service capacity is not wasted and
+that the City's housing goals are met.
+B. Minimum Density. The minimum density requirements for the CM2 and CM3 zones are stated
+in Table 130-2. Minimum density applies to new development when at least one dwelling unit
+is proposed. Group Living uses are exempt from minimum density requirements. Land within
+an Environmental zone may be subtracted from the calculation of minimum density.
+
+33.130.228 Required Outdoor Areas
+A. [no change]
+B. Requirements
+1. Amount required:
+a. On sites that are up to 20,000 square feet in total area, at least 36 square feet of
+outdoor area is required for each dwelling unit on the site;
+b. For sites that are more than 20,000 square feet in total area, at least 48 square feet
+of outdoor area is required for each dwelling unit on the site.;
+c. For any site with a congregate housing facility, at least 10 percent total site area must
+be provided as common area.
+2-4. [no change]
+
+33.140.100.B.2.a
+33.140.100.B.1
+With the amendment that classifies a dwelling unit with 9 or more bedrooms as a Group Living use,
+there is a need to reference Group Living in this notation in case there are houseboats that have 9
+or more bedrooms. Note [1] will apply to both Household and Group Living uses in the I zones.
+
+33.140.100.B.2.a & b
+The removal of the special standards for Group Living uses in 33.239 means that the EX zone no
+longer needs to reference this chapter, and that Group Living uses are allowed by right subject to
+the base zone development standards, including height and floor area limits.
+
+The elimination of the conditional use requirement for Group Living uses in post incarceration
+facilities in EX allows these situations to be treated the same as other Group Living uses. This is in
+keeping with City changes to destigmatize past offenders that have also resulted in city rule
+changes in employment and rental applications. With the current conditional use requirement, most
+post incarceration facilities have instead operated under the city’s definition of household and
+Household Living use, which is allowed by right. The change expands this to Group Living uses in post
+incarceration facilities in the EX zone. It should be noted that facilities where people are under
+judicial detainment and the direct supervision of sworn officers fall under the Detention Facilities
+use category and are not Group Living.
+
+The remaining limitations are renumbered.
+
+33.140.100.B.8
+The Community Service use limitation is amended to incorporate the addition of a third type of
+shelter, outdoor shelter, as a Community Service use. In addition, “short term housing” is being
+renamed “short term shelter.” The references to limitations in this section are revised to reflect
+these changes. The actual limitations are explained below in commentary for changes to Chapter
+33.285.
+
+33.140.100 B.9
+This amendment consolidates the Community Service use limits in the I zones. This includes the
+references to the forms of shelter. The changes combine and place Community Service use
+limitations in a more logical order without changing the substance of the limitations (i.e., short term
+and mass shelters are currently prohibited in I zones) Since Daycare falls under the ‘all other’
+Community Service uses, it does not need to be expressed separately, since it is also limited to
+3,000 square feet of net building area.
+
+33.140 Employment and Industrial Zones
+33.140.100 Primary Uses
+A. Allowed uses. [No change]
+B. Limited uses. Uses allowed that are subject to limitations are listed in Table 140-1 with an "L".
+These uses are allowed if they comply with the limitations listed below and the development
+standards and other regulations of this Title. In addition, a use or development listed in the
+200s series of chapters is also subject to the regulations of those chapters. The paragraphs
+listed below contain the limitations and correspond with the footnote numbers from Table
+140-1.
+1. Household Living and Group Living uses in I zones. This regulation applies to all parts of
+Table 140-1 that have a [1]. Household Living and Group Living in houseboats and
+houseboat moorages in I zones are regulated by Chapter 33.236, Floating Structures.
+Household and Group Living in other structures is prohibited.
+2. Group Living. This regulation applies to all parts of Table 140-1 that have a [2]
+a. General regulations. All Group Living uses except for alternative or post incarceration
+facilities, are allowed by right subject to the regulations of Chapter 33.239, Group
+Living.
+b. Alternative or post incarceration facilities. Group Living uses which consist of
+alternative or post incarceration facilities are conditional uses. They are also subject
+to the regulations of Chapter 33.239, Group Living.
+3-8. [Renumber to 2. – 7.]
+89. Community Service uses in EG zones. This regulation applies to all parts of Table 140-1
+that have a [89]. Most Community Service uses are allowed by right. Short term, housing
+and mass, and outdoor shelters are regulated by Chapter 33.285, Short Term, Mass, and
+Outdoor SheltersShort Term Housing and Mass Shelters.
+910. Community Service in the IEX zones. This regulation applies to all parts of Table 140-1 that
+have a [910].
+a. Short term and mass shelters are prohibited. Outdoor shelters Most Community
+Service uses are allowed by right. Short term housing and mass shelters are regulated
+by Chapter 33.285, Short Term, Mass, and Outdoor Shelters Housing and Mass
+Shelters.
+b. All other Community Service uses up to 3,000 square feet of net building area are
+allowed. Uses larger than 3,000 square feet of net building area are a conditional use.
+
+33.140.100 B.11
+
+Notation [11] has been combined with notations 8 and 9, therefore it is deleted here.
+
+Table 140-1
+The change to Table 140-1 reflects the removal of any use limitations for Group Living in the EX
+zone, as well as the changes made to Community Service use limitations detailed on the previous
+page.
+
+The other changes within the table are to reflect the renumbering of the use limit notations.
+
+11. Community Service and Daycare limitations in I zones. This regulation applies to all parts
+of Table 140-1 that have a [11]. Community Service uses or Daycare uses up to 3,000
+square feet of net building area are allowed. Community Service uses or Daycare uses
+larger than 3,000 square feet of net building area are a conditional use. Short term
+housing and mass shelters of any size are prohibited.
+12-17. [Renumber to 10. – 15.]
+C-D. [No change]
+
+Table 140-1
+Employment and Industrial Zone Primary Uses
+
+Use Categories
+
+EG1
+
+EG2
+
+EX
+
+IG1
+
+IG2
+
+IH
+Residential Categories
+Household Living N N Y CU [1] CU [1] CU [1]
+Group Living N N YL/CU [2] CU [1]N CU [1]N CU [1]N
+Commercial Categories
+Retail Sales And Service  L/CU [23] L/CU [23] Y L/CU [34] L/CU [45] L/CU [56]
+Office Y Y Y L/CU [34] L/CU [45] L/CU [56]
+Quick Vehicle Servicing  Y Y N Y Y Y
+Vehicle Repair Y Y Y Y Y Y
+Commercial Parking  CU [1315] CU [1315] CU [1315] CU [1315] CU
+[1315]
+CU
+[1315]
+Self-Service Storage Y Y L [67] Y Y Y
+Commercial Outdoor Recreation Y Y Y CU CU CU
+Major Event Entertainment CU CU CU CU CU CU
+Industrial Categories
+Manufacturing And Production Y Y Y Y Y Y
+Warehouse And Freight
+Movement
+Y Y Y Y Y Y
+Wholesale Sales Y Y Y Y Y Y
+Industrial Service Y Y Y Y Y Y
+Bulk Fossil Fuel Terminal L [1517] L [1517] N L [1517] L [1517] L [1517]
+Railroad Yards N N N Y Y Y
+Waste-Related N N N L/CU [78] L/CU [78] L/CU [78]
+Y = Yes, Allowed
+CU = Conditional Use Review Required
+L = Allowed, But Special Limitations
+N = No, Prohibited
+Notes:
+• The use categories are described in Chapter 33.920.
+• Regulations that correspond to the bracketed numbers [ ] are stated in 33.140.100.B.
+• Specific uses and developments may also be subject to regulations in the 200s series of chapters.
+
+Table 140-1
+Employment and Industrial Zone Primary Uses
+
+Use Categories
+
+EG1
+
+EG2
+
+EX
+
+IG1
+
+IG2
+
+IH
+Institutional Categories
+Basic Utilities Y/CU
+[1012]
+Y/CU
+[1012]
+Y/CU
+[1012]
+Y/CU
+[1113]
+Y/CU
+[1113]
+Y/CU
+[1113]
+Community Service L/CU [89] L/CU [89] L/CU
+[810]
+L/CU
+[911]
+L/CU
+[911]
+L/CU
+[911]
+Parks And Open Areas Y Y Y Y Y Y
+Schools Y Y Y N N N
+Colleges Y Y Y N N N
+Medical Centers Y Y Y N N N
+Religious Institutions Y Y Y N N N
+Daycare  Y Y Y L/CU
+[911]
+L/CU
+[911]
+L/CU
+[911]
+Other Categories
+Agriculture L [1416]  L [1416] L [1416] L [1416] L [1416] L [1416]
+Aviation And Surface Passenger
+Terminals
+
+CU
+
+CU
+
+CU
+
+CU
+
+CU
+
+CU
+Detention Facilities CU CU CU CU CU CU
+Mining N N N CU CU CU
+Radio Frequency Transmission
+Facilities
+L/CU
+[1214]
+L/CU
+[1214]
+L/CU
+[1214]
+L/CU
+[1214]
+L/CU
+[1214]
+L/CU
+[1214]
+Rail Lines And Utility Corridors Y Y Y Y Y Y
+Y = Yes, Allowed
+CU = Conditional Use Review Required
+L = Allowed, But Special Limitations
+N = No, Prohibited
+Notes:
+• The use categories are described in Chapter 33.920.
+• Regulations that correspond to the bracketed numbers [ ] are stated in 33.140.100.B.
+• Specific uses and developments may also be subject to regulations in the 200s series of chapters.
+
+33.150.100.B.4.a.& b.
+This amendment provides a reference for the special use regulations that apply to short term, mass
+and outdoor shelters. When this code section (33.150) was created in 2018, there was no reference
+to these special standards. The provisions in 33.285 are the location for determining the use
+allowances for shelters in the CI1, CI2, and IR zones. The paragraph is split to acknowledge that
+other types of Community Services uses are allowed in the CI2 zone, but are conditional uses in the
+CI1 and IR zone. This clarifies current code.
+
+33.150.100.B.9
+The provisions for Group Living are being clarified to reference the Group Living use on the
+Institution site instead of a group living facility.
+Since special group living standards are being removed, condition “c” that applies to these standards
+is no longer relevant. Any group living use that is provided in conjunction with an institutional
+campus in IR is still required to be reviewed as part of an impact mitigation plan, and the plan will
+have to consider mitigation measures based upon review of the impact of a group living use on
+adjoining areas.
+
+33.150 Campus Institutional Zones
+33.150.100 Primary Uses
+
+A. Allowed Uses. [no change]
+B. Limited uses. Uses allowed that are subject to limitations are listed in Table 150-1 with an “L”.
+These uses are allowed if they comply with the limitations listed below and the development
+standards and other regulations of this Title. In addition, a use or development listed in the 200s
+series of chapters is also subject to the regulations of those chapters. The paragraphs listed
+below contain the limitations and correspond with the footnote numbers from Table 150-1.
+1.-3. [No change]
+4.  Community Service. This regulation applies to all parts of Table 150-1 that have note [4]. .
+a.  In the CI1 and IR zones, mMost Community Service uses are regulated by Chapter
+33.815, Conditional Uses. Short term, mass, and outdoor shelters are regulated by
+Chapter 33.285, Short Term, Mass, and Outdoor Shelters.
+b. In the CI2 zones, most Community Service uses are allowed by right. Short term,
+mass, and outdoor shelters are regulated by Chapter 33.285, Short Term, Mass, and
+Outdoor Shelters.
+5.-8. [No change]
+9. Group Living in the IR Zone. This regulation applies to all parts of table 150-1 that have a
+note [9]. Group Living usesfacilities in the IR zone are regulated as follows:
+a. The Group Living usefacilities must be included in the mission statement of the
+campus’s impact mitigation plan;
+b. The impact mitigation plan’s implemented mitigation measures must accommodate
+the impacts the Group Living usefacility will create.;
+c. A facility located less than 150 feet from another residential zone must meet the
+standards for Group Living in that zone. Where two or more residential zones are
+within 150 feet of the Group Living development, the controlling regulations are
+those of the lower density zone.
+10.-12. [No change]
+
+Table 150-1
+Table 150-1 is revised to recognize that some shelters are a limited allowed use rather than a
+conditional use in the CI1, and IR zones. Similarly, in the CI2 zone, larger mass and outdoor shelters
+will trigger a conditional use review and are not always allowed by right. See previous page on use
+limitations.
+
+Table 150-1
+Campus Institutional Zone Primary Uses
+Use Categories CI1 CI2 IR
+Residential Categories
+Household Living N Y Y
+Group Living N Y Y [9]
+Commercial Categories
+Retail Sales And Service  CU [1] Y L/CU [10]
+Office N Y L/CU [10]
+Quick Vehicle Servicing  N N N
+Vehicle Repair N N N
+Commercial Parking  N Y N
+Self-Service Storage N N N
+Commercial Outdoor Recreation N N N
+Major Event Entertainment CU CU CU
+Industrial Categories
+Manufacturing And Production L [2] L/CU [2] N
+Warehouse And Freight Movement  N N CU
+Wholesale Sales N N N
+Industrial Service L [2] L/CU [2] N
+Bulk Fossil Fuel Terminal N N N
+Railroad Yards N N CU
+Waste-Related N N N
+Institutional Categories
+Basic Utilities L/CU [3] L/CU [3] L/CU [3]
+Community Service L/CU [4] L/CU [4]Y L/CU [4]
+Parks And Open Areas L/CU [5] L/CU [5] L/CU [5]
+Schools N N L/CU [11]
+Colleges Y/CU [6] Y/CU [6] L/CU [11]
+Medical Centers Y Y L/CU [11]
+Religious Institutions CU CU CU
+Daycare  Y Y L/CU [12]
+Other Categories
+Agriculture L [7] L [7] L [7]
+Aviation And Surface Passenger
+Terminals
+N N N
+Detention Facilities N N N
+Mining N N N
+Radio Frequency Transmission Facilities L/CU [8] L/CU [8] L/CU [8]
+Rail Lines And Utility Corridors CU CU CU
+Y = Yes, Allowed
+CU = Conditional Use Review Required
+L = Allowed, But Special Limitations
+N = No, Prohibited
+Notes:
+• The use categories are described in Chapter 33.920.
+• Regulations that correspond to the bracketed numbers [ ] are stated in 33.150.100.B.
+• Specific uses and developments may also be subject to regulations in the 200s series of chapters.
+
+33.200 Table
+The table of “Additional Use & Development Regulations” is amended to delete the reference to the
+33.239 Group Living Chapter. The reasons for the deletion are contained in the commentary below
+for Chapter 33.239.
+
+The table is also amended to add the new chapter, 33.260, Occupied Recreational Vehicle. The
+reasons for this addition are contained in the commentary below for Chapter 33.260.
+
+200s
+Additional Use & Development Regulations
+
+33.203 Accessory Home Occupations
+33.205 Accessory Dwelling Units
+33.207 Accessory Short-Term Rentals
+33.209 Aviation
+33.218 Community Design Standards
+33.219 Convenience Stores
+33.224 Drive-Through Facilities
+33.229 Elderly and Disabled High Density Housing
+33.236 Floating Structures
+33.237 Food Production and Distribution
+33.239 Group Living
+33.243 Helicopter Landing Facilities
+33.245 Inclusionary Housing
+33.248 Landscaping and Screening
+33.251 Manufactured Housing and Manufactured Dwelling Parks
+33.254 Mining and Waste-Related
+33.258 Nonconforming Situations
+33.260 Occupied Recreational Vehicle
+33.262 Off-Site Impacts
+33.266 Parking and Loading
+33.270 Planned Development
+[The 200’s table of contents for chapters containing additional use and development regulations
+continues past Chapter 270, but there are no other changes]
+
+33.205.040.C.5 Visitability Standard
+See commentary related to 33.110.265.E.3
+
+Note that the existing code on this page is based on the adopted Residential Infill Project
+which goes into effect on August 1, 2021
+
+33.205 Accessory Dwelling Units
+
+33.205.040 Development Standards
+A.-B.  [No change]
+C. Requirements for accessory dwelling units. Accessory dwelling units must meet the following:
+1.-4. [No change]
+5. Visitability.
+a-b. [No change]
+c. Visitable unit standards. Unless exempted by Subparagraph E.3.c., at least one
+dwelling unit on the lot must meet the following visitability standards: the
+requirements for Type C visitable units in ICC A117.1 (2009 Edition) and must have at
+least 200 square feet of living area on the same floor as the main entrance The
+property owner must execute a covenant with the City that meets the requirements
+of Section 33.700.060 and ensures that the features required by the Type C
+standards are retained for the life of the dwelling unit.
+(1) Visitable entrance. At least one entrance must be accessible via a route that
+does not have any stairs between it and the street lot line or an on-site parking
+space. The slope of the route may not exceed 1:8.
+(2) Visitable bathroom. At least one bathroom with a sink and toilet must be
+designed to accommodate an unobstructed circle that is at least 60-inches in
+diameter. As an alternative, the bathroom may be designed to accommodate an
+unobstructed area that is comprised of two rectangles that are at least 36
+inches by 60 inches, and oriented at right angles to each other. See Figure 205-1
+The visitable bathroom must be on the same floor as the visitable entrance or
+be accessible from the visitable entrance via a ramp, elevator or lift.
+Adjustments are prohibited;
+(3) Visitable living area. There must be at least 200 square feet of living area on the
+same floor as the visitable entrance or 200 square feet of living area must be
+accessible from the visitable entrance via a ramp, elevator or lift. Adjustments
+are prohibited; and
+(4) Visitable doors. All door openings between and including the visitable entrance,
+visitable living area, and the visitable bathroom must be at least 34 inches wide.
+Adjustments are prohibited.
+
+Figure 205-1
+This figure is added to illustrate how to accommodate the unobstructed area within the bathroom,
+as stated in the regulations above.
+
+Note that the existing code on this page is based on the adopted Residential Infill Project
+which goes into effect on August 1, 2021
+
+Figure 205-1
+Visitable Bathroom Clearances
+
+d. [No change]
+
+33.207.040.A.
+The current standards for Accessory Short-term rentals (ASTR) limit them to being accessory to a
+Household Living use. Because other code amendments contained in the report define dwelling units
+with 9 or more bedrooms as a Group Living use, there may be circumstances when the residents of a
+9 bedroom house may choose to apply for a short-term rental permit to rent up to  2 bedrooms on a
+short-term basis. This amendment changes the requirement to be accessory to a residential use,
+thus allowing an ASTR to occur in smaller dwelling units under the Household Living use and larger
+dwelling units under the Group Living use.
+
+33.207.040.B.
+The current standard for an ASTR limits the number of people staying both long-term and short-
+term (residents and guests) to the total allowed to occupy a dwelling unit under the Title 33
+definitions of household. The definition of household is being removed and, so this reference no
+longer provides the oversite needed to limit the number of guests for a Type A ASTR. This
+amendment revises the current language to provide a maximum number of five guests that are
+allowed with the renting of one or two bedrooms. This number is similar to how BDS currently
+interprets the household definition relationship since that definition allowed 5 additional people
+beyond the immediate sphere of relationships.
+
+33.207 Accessory Short-Term Rentals
+
+33.207.040 Type A Accessory Short-Term Rentals
+A. U se-related regulations.
+1. Accessory use. A Type A accessory short-term rental must be accessory to a
+residentialHousehold Living use on a site. This means that a resident must occupy the
+dwelling unit for at least 270 days during each calendar year, and unless allowed by
+Paragraph .040.B.2 or .040.B.3, the bedrooms rented to overnight guests must be within
+the dwelling unit that the resident occupies.
+2. [No change]
+3. Allowed structure type. A Type A accessory short-term rental is allowed in all residential
+structure types when accessory to a residentialHousehold Living use.
+4-5. [No change]
+B. Standards. The following standards apply to Type A accessory short-term rentals. Adjustments
+are prohibited:
+1-4. [No change]
+5. Number of residents and guests. The totalmaximum number of residents and guests
+occupying a dwelling unit with a Type A accessory short-term rental may not exceed 5the
+number allowed for a household. For sites with an accessory dwelling unit, the total
+number of residents and guests occupying both dwelling units may not exceed the
+number allowed for a household.
+6-9. [Renumber to 5. – 8.]
+
+33.207.050.A.
+Similar to 33.207.040.A, above, this removes the limitation on the type of residential use category
+that may provide a Type B accessory short-term rental (ASTR) on site. Often, older homes may
+have a larger number of bedrooms, and the Type B ASTR review process allows up to 5 bedrooms to
+be used on a short-term basis. A 9 bedroom house, which will be classified as containing a Group
+Living use going forward, can also be allowed to use 5 bedrooms as an ASTR when approved through
+a conditional use.
+
+33.207.050 Type B Accessory Short-Term Rentals
+A. Use-related regulations.
+1. Accessory use. A Type B accessory short-term rental must be accessory to a
+residentialHousehold Living use on a site. This means that a resident must occupy the
+dwelling unit for at least 270 days during each calendar year, and unless allowed by
+Paragraph .050.B.2 or .050.B.3, the bedrooms rented to guests must be within the
+dwelling unit that the resident occupies.
+2. Conditional use review. A Type B accessory short-term rental requires a conditional use
+review. A Type B accessory short-term rental that proposes commercial meetings is
+processed through a Type III procedure. All other Type B accessory short-term rentals are
+processed through a Type II procedure. The approval criteria are stated in 33.815.105,
+Institutional and Other Uses in R Zones.
+3. Allowed structure type. A Type B accessory short-term rental is allowed in all residential
+structure types when accessory to a residentialHousehold Living use.
+4. Cap. The number of dwelling units in a multi-dwelling structure or a triplex that can have
+an accessory short-term rental is limited to 1 unit or 25 percent of the total number of
+units in the structure, whichever is greater.
+5. Prohibition. Accessory short term rentals are prohibited in a building subject to Chapter 13
+of the Uniform Building Code (1970 edition) in effect on September 7, 1972, except when
+the Fire Marshal’s Office has determined that the building has a fire sprinkler system that
+protects the exitways.
+
+33.236.030 Houseboats
+The current code states that houseboats generally contain Household Living uses. Because of the
+amendments to the definition of Group Living, a 9 bedroom houseboat will now be considered to
+contain a Group Living use. The amendment acknowledges this potential and includes reference to
+Group Living uses
+
+The other amendment to this paragraph corrects a mistaken interpretation that identifies “single
+dwelling” and “multi dwelling” as a type of use, when they are intended to refer to devel opment
+types. The amendments change these references to “dwelling unit” and “multi dwelling development”
+to be consistent with the development type references used elsewhere in the code.
+
+33.236 Floating Structures
+
+33.236.030 Houseboats
+Houseboats and houseboat moorages are classified under the general use categoriesy of Household
+Living or Group Living. An individual houseboat outside of a houseboat moorage is considered to be one
+dwelling unit connected toa single-dwelling use of the upland lot. A houseboat moorage is considered to
+bea multi-dwelling development connected to the upland lotuse. Generally, an individual houseboat
+outside of a houseboat moorage is allowed only where a housesingle dwellinguse would be allowed on
+the upland lot, and a houseboat moorage is allowed only where a multi-dwelling developmentuse is
+allowed on the upland lot.
+In the I zones, houseboats and houseboat moorages are a conditional use.
+
+Chapter 33.239
+This chapter is being deleted. It contains development standards that apply to Group Living uses.
+These standards apply in addition to those in the base zones. Because Group Living use allowances
+have been liberalized and made comparable to those for Household Living, and because Group Living
+and Household Living uses now share the same development standards, there is no longer a need for
+Group Living specific development standards. The chief regulation within this chapter regulates
+density of people and will instead be replaced by a use limitation for area in the single dwelling
+zones, and by floor area in other base zones.
+
+33.239 Group Living
+33.239.010 Purpose
+The regulations ensure that uses in the Group Living category will be compatible with the character of
+residential and commercial areas.
+33.239.020 Use Regulations.
+The regulations of this chapter apply to all uses in the Group Living use category. The base zone chapters
+state whether Group Living uses are allowed, limited, conditional uses, or prohibited. If they are
+conditional uses, they are subject to the regulations of Chapter 33.815 in addition to the provisions of
+this chapter. Group Living uses that are accessory to a College, Medical Center, or Religious Institution,
+such as dormitories, fraternities, or monasteries, and that are part of an approved conditional use
+master plan, are exempt from the regulations of this chapter.
+33.239.030 Development Standards
+The development standards of the base zone, overlay zone, or plan district apply unless superseded by
+the standards below.
+A. Resident Density.
+1. Purpose. Resident density is limited to parallel the residential densities of the various
+zones. Resident density is also regulated to address service demands and to prevent
+nuisance-type impacts from overcrowding.
+2. Description of residents. Residents include all people living at the site, including those who
+provide support services, building maintenance, care, supervision, etc. People who only
+work at the site are not considered residents.
+3. Density standard. Group Living uses are limited to the following number of residents per
+square foot of site area:
+
+Zone Number of Residents
+RF through R5 zones 1.5 residents per 1,000 square feet
+R2.5 zone 2 residents per 1,000 square feet
+RM1 zone 2.5 residents per 1,000 square feet
+RM2 zone 3 residents per 1,000 square feet
+RM3, RM4, RX, IR, CI2, C, and E zones Not limited (must comply with the
+building or housing code, and the FAR
+of the base zone
+
+Chapter 33.239
+Chapter deletions continued.
+Outside of single dwelling zones, group living is an allowed use, so CU spacing standards are not as
+critical. Group Living uses within single dwelling zones that exceed 3,500 square feet will still
+trigger a Conditional Use review which includes approval criteria to consider the concentrations of
+non-household living uses.
+Other development standards such as outdoor area will be regulated through base zone standards.
+Parking will continue to be regulated through 33.266.
+
+B. Minimum Spacing
+1. Purpose. The minimum spacing standards assure that large Group Living uses do not unduly
+affect the character of residential and commercial areas.
+2. Spacing standards. Group living facilities that are conditional uses must be at least 600 feet
+from a site with any other group living facility that is also a conditional use.
+
+C. Required outdoor area. The requirement for outdoor areas applies in all residential zones
+except RX. Larger areas may be required as part of a conditional use review. The outdoor area
+requirement is24 square feet for each sleeping unit 48 square feet for every 3 residents, with a
+minimum dimension of 6 feet by 6 feet. Individual outdoor areas may be combined. The
+minimum size of a combined area is 500 square feet and must measure at least 20 feet in all
+directions.
+D. Parking and loading. Parking requirements are stated in Chapter 33.266, Parking and Loading.
+33.239.040 Other Regulations
+Uses in the Group Living use category may also be subject to County, State, or Federal licensing
+requirements. For more information, applicants should contact the Department of Human Services of
+the county in which the use will be located.
+
+Chapter 33.260 Occupied Recreational Vehicle
+
+This is a new chapter to address the amendments in Title 29 that will now allow a single occupied
+residential vehicle (or tiny house on wheels) on the site of a house, attached, or manufactured
+home. In general, these regulations provide code direction for an occupied recreational vehicle that
+is outside of an organized RV park (a Retail Sales and Service use) or an Outdoor Shelter (a
+Community Service use). Prior to this, Title 29 prohibited occupying a recreational vehicle outside
+of an RV park, so these regulations were previously not needed.
+
+33.260.010 Purpose
+This section specifies the purpose of the chapter, which is to provide the direction on how to
+regulate an occupied recreational vehicle allowed under Title 29.
+
+33.260.020 When This Chapter Applies
+The regulations of this chapter provide guidance for an occupied recreational vehicle that is parked
+on the site of a house, attached house or manufactured home, as expanded within Title 29. Other
+situations (RV park, Outdoor Shelter, Space in a mobile home park) are regulated through other
+provisions in the code.
+
+33.260.030 Occupied Recreational Vehicles
+This section provides the standards that will apply to a recreational vehicle (RV) that is occupied on
+a lot with a house, attached house, or manufactured home. These standards clarify that the RV has
+to meet the parking requirements, whether it is occupied or not. However, an occupied RV does not
+count as a dwelling unit for purposes of the density standards. Since the RV is a vehicle and not a
+structure, it does not have to meet any development standards for structures. Any structures that
+are built adjacent or connected to the RV do have to meet the development standards for the
+applicable structure. This could be deck, or a covered patio. Lastly, RVs cannot be used as an
+accessory short-term rental.
+
+33.260 Occupied Recreational Vehicle
+
+Sections:
+33.260.010 Purpose
+33.260.020 When This Chapter Applies
+33.260.030 Occupied Recreational Vehicles
+33.260.010 Purpose
+Title 29 of the Portland City Code allows the residential occupancy of recreational vehicles under certain
+circumstances. This chapter provides direction on how Title 33 regulations apply to occupied
+recreational vehicles.
+33.260.020 When This Chapter Applies
+This chapter applies to an occupied recreation vehicle on a site with a house, attached house, or
+manufactured home.
+33.260.030 Occupied Recreational Vehicles
+An occupied recreational vehicle is a vehicle and is not a building, structure or dwelling unit in terms of
+Title 33. The following standards clarify how Title 33 applies to an occupied recreational vehicle.
+A. Parking. Chapter 33.266 applies to both occupied and unoccupied recreational vehicles. The
+development standards in 33.266 that apply to parking area and recreational vehicles on a site
+also apply occupied recreational vehicles.
+A. Density. Because an occupied recreational vehicle is not a dwelling unit, building or structure it
+does not count toward minimum or maximum density or FAR.
+C. Other development standards. Occupied recreational vehicles are not subject to development
+standards in this Title that apply to buildings or structures. However, structures attached to an
+occupied recreational vehicle are subject to all applicable development standards in this Title.
+D. Accessory short-term rentals. An occupied recreational vehicle is prohibited from being an
+accessory short-term rental.
+
+33.266.110.B.2.
+As part of the Residential Infill Project, City Council eliminated minimum parking requirements for
+Household Living uses in single-dwelling zones. The Shelter to Housing Continuum project is
+amending the zoning code to treat smaller Group Living uses more like Household Living uses in
+single-dwelling zones. To align with this treatment, this amendment removes the parking
+requirement for Group Living uses that do not trigger a Conditional Use review in single dwelling
+zones. Those uses would be limited to a floor area of 3,500 square feet, similar to the size of a
+house.
+
+33.266 Parking, Loading, And Transportation And
+Parking Demand Management
+33.266.110 Minimum Required Parking Spaces
+A. [No change]
+B. Minimum number of required parking spaces.
+1. [no change]
+2. Minimum for sites located far from transit. For sites located more than 1500 feet from a
+transit station, or more than 500 feet from a transit street with 20-minute peak hour
+service the following minimum parking requirements apply:
+a. Household Living uses.
+(1) Single-dwelling zones. No parking is required for Household Living uses in the
+single-dwelling zones.
+(2) All other zones. The minimum number of parking spaces required for Household
+Living uses in all other zones is stated in Table 266-1.
+b. All other uses.
+(1) Group Living. No parking is required for Group Living uses in single-dwelling
+zones that do not require a conditional use review. The minimum number of
+parking spaces required for all other Group Living uses is stated in Table 266-1.
+(2) All other uses. The minimum number of parking spaces required is stated in
+Table 266-1.
+3. [No change]
+
+Table 266-2
+This amendment eliminates a remaining reference in the parking minimums table to the SRO
+residential structure type. This structure type has been removed from the zoning code to remove
+the confusion regarding the use types that an SRO may fall under.
+The amendment also updates the minimum parking requirement for Group Living when parking may
+be required to relate to bedrooms rather than residents. This aligns with the other changes which
+distinguish Group Living Uses from Household Living uses based upon the number of bedrooms.
+
+Table 266-2
+Parking Spaces by Use [2]
+(Refer to Table 266-1 to determine which standard applies.)
+
+Use Categories
+
+Specific Uses
+
+Standard A
+
+Standard B
+Residential
+Categories
+
+Household Living  1 per 2 units, except
+SROs exempt
+None, except 1.35 per
+unit on sites that are
+both in a
+commercial/mixed use
+or multi-dwelling zone
+and close to transit
+(close to transit is
+described in
+33.266.110.B.1.)
+Houses, attached houses
+and duplexes are
+exempt.
+Group Living  1 per 4
+residentsbedrooms
+None
+
+33.270.200.B Visitability
+See commentary related to 33.110.265.E.3.
+
+Note that the existing code on this page is based on the adopted Residential Infill Project
+which goes into effect on August 1, 2021
+
+33.270 Planned Development
+
+33.270.200 Additional requirements for Planned Developments in the R7 and R5 Zones
+A. Where this standard applies. In the R7 and R5 zones, unless exempted by Subsection C., the
+standards of this section apply when the total number of proposed dwelling units is at least 75
+percent of the maximum number of dwelling units allowed through the Planned Development,
+B. Visitability. At least 33 percent of the dwelling units on the Planned Development site must
+meet the the following standards:requirements for Type C visitable units in ICC A117.1 (2009
+Edition) and must have at least 200 square feet of living area on the same floor as the main
+entrance The property owner must execute a covenant with the City that meets the
+requirements of Section 33.700.060 and ensures that the features required by the Type C
+standards are retained for the life of the dwelling unit.
+1. Visitable entrance. At least one entrance must be accessible via a route that does not have
+any stairs between it and the street lot line or an on-site parking space. The slope of the
+route may not exceed 1:8.
+2. Visitable bathroom. At least one bathroom with a sink and toilet must be designed to
+accommodate an unobstructed circle that is at least 60-inches in diameter. As an
+alternative, the bathroom may be designed to accommodate an unobstructed area that is
+comprised of two rectangles that are at least 36 inches by 60 inches, and oriented at right
+angles to each other. See Figure 270-1. The visitable bathroom must be on the same floor
+as the visitable entrance or be accessible from the visitable entrance via a ramp, elevator
+or lift. Adjustments are prohibited;
+3. Visitable living area. There must be at least 200 square feet of living area on the same
+floor as the visitable entrance or 200 square feet of living area must be accessible from the
+visitable entrance via a ramp, elevator or lift. Adjustments are prohibited; and
+4. Visitable doors. All door openings between and including the visitable entrance, visitable
+living area, and the visitable bathroom must be at least 34 inches wide. Adjustments are
+prohibited.
+
+Figure 270-1
+This figure is added to illustrate how to accommodate the unobstructed area within the bathroom,
+as stated in the regulations above.
+
+Note that the existing code on this page is based on the adopted Residential Infill Project
+which goes into effect on August 1, 2021
+
+Figure 270-1
+Visitable Bathroom Clearances
+
+C. Exemptions. [No change]
+
+33.285.010
+Throughout the zoning code, the term “short term housing” is being changed to “short term
+shelter”. Long-term housing is a type of residential use and short-term shelter is a Community
+Service use. Shelters offer a provider-to-client relationship or a host-to-guest relationship rather
+than a landlord-to-tenant relationship.
+
+Carrying out the City’s continuum of care programs would benefit from a clearer distinction
+between shelter and housing because the object of these programs is to provide Portlanders the
+housing they need. Shelter is an interim measure, provided until housing becomes available, or until
+shelter clients receive the support needed to make them more ready for housing. People enter the
+care system through either outdoor or mass shelters and may receive additional transitional
+services in short term shelters. Success is achieved with placement in housing; indefinite shelter
+stays are not the goal of housing continuum programs.
+
+Outdoor shelter is a new type of Community Service use added to the code. What the zoning code
+calls “outdoor shelter” the state law calls “transitional housing accommodations” but the intent is to
+conform the City Code to state law with the two terms having similar meaning. The state law says,
+“Transitional housing accommodations are intended to be used by individuals or families on a limited
+basis for seasonal, emergency or transitional housing purposes and may include yurts, huts, cabins,
+fabric structures, tents and similar accommodations. The transitional housing accommodations may
+provide parking facilities, walkways and access to water, toilet, shower, laundry, cooking, telephone
+or other services either through separate or shared facilities.” ORS 446.265 was extensively
+amended in 2017. Before 2017 cities were limited to only two outdoor shelters and the only
+accommodations allowed were yurts. Since the two-shelter limit has been removed and the range of
+accommodations expanded, it now makes sense to provide for outdoor shelters in the zoning code as
+a new type of Community Service use. Recognizing that temporary shelter outdoors may also be in
+the form of a vehicle, including a recreational vehicle, we are also incorporating staying in a vehicle
+as a form of individual shelter in the outdoor shelter definition.
+
+33.285.020 Description
+The term outdoor shelter is added, and a new definition of outdoor shelter is found with examples
+under 33.910.
+
+33.285 Short Term Housing, Mass, and Outdoor Mass Shelters
+
+Sections:
+33.285.010 Purpose
+33.285.020 Description
+33.285.030 Where These Regulations Apply
+33.285.040 Use Regulations
+33.285.050 Standards
+33.285.010 Purpose
+This chapter provides regulations for Community Service uses that provide short term housing, or mass,
+or outdoor shelter. These regulations recognize that it is in the public interest to provide short term
+housing and shelter to people who would otherwise not receive it, and to ensure that standards of
+public health and safety are maintained. The regulations are intended to reduce conflicts between these
+and other uses. These regulations recognize that short term sheltershousing, and mass shelters, and
+outdoor shelters have differing impacts, and encourages providers to locate in existing structures and
+work with neighbors. These regulations also focus on the land use impacts of these uses.
+33.285.020 Description
+Short term shelters,housing and mass shelters, and outdoor shelters are defined in Chapter 33.910,
+Definitions. BothThese facilities are Community Service uses, and are managed by public or non-profit
+agencies. They may be in a variety of structures, from conventional houses to large institutional
+buildings, or may include a group of small accommodations.
+In zones where Retail Sales and Services uses are allowed, limited, or conditional uses, the applicant may
+choose to classify a short term shelterhousing facility as a hotel, which is included in the Retail Sales and
+Services category.
+33.285.030 Where These Regulations Apply
+The regulations of Sections 33.285.040 through 33.258.050 apply to short term shelters,housing and
+mass shelters, and outdoor shelters in all zones.
+
+33.285.040.A.1-3
+Within the single-dwelling residential zones, smaller short-term shelter facilities with up to 20
+beds can be placed on the site of an institutional use by right. Institutional uses include a range of
+uses such as religious institutions, schools, and other community service uses. However, parks uses
+within a single-dwelling zone are not included. Larger short-term shelters or those not affiliated
+with an institution use are still subject to a Conditional Use review.
+
+Within the multi-dwelling residential, CI1 and IR zones, the number of short-term shelter beds
+allowed by right is being increased from 15 to 30 beds. The requirement that the shelter be on the
+site of an institutional use is removed, to provide greater siting flexibility.
+
+When the campus institutional zones were created as part of the 2035 Comprehensive Plan staff
+inadvertently left out a maximum number of allowed short-term shelter beds in the CI1 zone, so it
+has been unclear if any short-term shelters would be allowed within the CI zone. This amendment
+establishes the same allowance for the CI1 zone as the multi-dwelling and IR zones by allowing up to
+30 beds as part of an institution. The CI2 zone, which is a more urban zone, is addressed with the
+commercial zones.
+
+33.285.040.A.4
+The existing exemption for short-term shelters for victims of sexual or domestic violence is being
+amended because the previous limitations, which were tied to the density limits in the Group Living
+chapter (33.239), have been eliminated. Going forward, the exemption will mirror the use limits for
+Group Living use in the base zone, with the exception of EG zones where group living is prohibited,
+but a short-term shelter for victims of violence is allowed.
+
+33.285.040 Use Regulations
+A. Short term sheltershousing.
+1. R, CI1,  and IR zones. A nNew short term shelterhousing, an expansion of net building area,
+or an increase in the number of occupants in an existing short term shelterhousing in R,
+CI1, and IR zones is subject to the following regulations:
+a. Allowed use. A nNew short term shelterhousing and alterations to an existing short
+term shelterhousing is allowed as followsif it meets one of the following:
+(1) A short term shelter with up to 20 beds is an allowed used in the RF – R2.5
+zones when provided on the site of an existing institutional use, excluding sites
+in a Parks and Open Areas use, and the standards of 33.285.050 are met.
+(21) A sShort term shelterhousing withfor up to 3015 beds is an allowed use in the
+RM1 – RMP, CI1, and IR zones if it iswhen provided on the site of an existing
+Institutional Use and meets the standards of 33.285.050 are met.
+(32) An alteration or expansion that does not increase the net building area of the
+short term shelterhousing by more than 10 percent is allowed if there is no
+increase in the number of beds or occupants and if the alteration or expansion
+complies with all conditions of approval.
+b. Conditional use. If the short term shelterhousing does not meet Subparagraph A.1.a,
+it is a conditional use and is reviewed through the following procedures. The
+approval criteria are in 33.815.107, Short Term, Housing and Mass, and Outdoor
+Shelters in R, CI1, and IR Zones. The short term shelterhousing must also meet the
+standards of 33.285.050:
+(1) If the short term shelterhousing is provided in an existing structure, or is on the
+site of an existing iInstitutional uUse, the conditional use is reviewed through a
+Type II procedure. An existing structure is one that is at least 5 years old and has
+not had an increase of more than 10 percent in net building area within the past
+in 5 years.
+(2) All other short term shelterhousing proposals are reviewed through a
+Type III procedure.
+2. C, E, and CI2 zones. A sShort term shelterhousing is allowed in C, E, and CI2 zones if it
+meetswhen the standards inof Section 33.285.050 are met. Expansion of net building area
+or increase in the number of occupants in an existing short term shelterhousing facility is
+allowed if it meets the standards in Section 33.285.050.
+3. OS and I zones. A sShort term shelterhousing is prohibited in OS and I zones.
+4. Exemption. A sShort term shelterhousing that exclusively serves victims of sexual or
+domestic violence is allowed by right in RM1-RMP, C, E, CI, and IR zones. In RF-R2.5 zones,
+a short term shelter that exclusively serves victims of sexual or domestic violence is
+allowed by right but is limited to a net building area of 3,500 square feet. if it meets the
+size limitations for Group Living uses.
+
+33.285.040.B.1
+This section is being removed and the use regulations applicable to the RF-R2.5 zones are
+incorporated in the next paragraph, B.2, which will be renumbered as B.1. Currently, mass shelters
+in single dwelling zones are always a conditional use. However, similar to the amendments for sho rt-
+term and outdoor shelters, smaller mass shelters with up to 20 beds will be allowed by right in
+single-dwelling zones if on the site of an institution. The changes to the previous B.2., and to Table
+285-1 implement this change, and this section is no longer needed.
+
+B. Mass shelters.
+1. RF through R2.5 zones. Generally, a new mass shelters, expansions of net building area
+and increases in the number of occupants in an existing mass shelters in RF through R2.5
+zones isare a conditional use and isare, reviewed through the following procedures.
+Certain alterations to an existing mass shelters may be allowed if they meet Subparagraph
+B.1.b. The standards of Section 33.285.050 do not apply to a mass shelters reviewed as
+conditional uses.
+a. New mass shelters. The following procedures apply to a new mass shelters and
+alterations to an existing mass shelters that do not meet subparagraph B.1.b. The
+approval criteria are in Section 33.815.107, Short Term, Housing and Mass, and
+Outdoor Shelters in R, CI1, and IR Zones:
+(1) If the mass shelter is provided in an existing structure or is on athe site of an
+existing iInstitutional uUse, the conditional use is reviewed through a Type II
+procedure. An existing structure is one that is at least 5 years old and has not
+had an increase of more than 10 percent in net building area within the pastin 5
+years.
+(2) All other mass shelters are reviewed through a Type III procedure.
+b. Existing mass shelters. An alteration or expansion that does not increase the net
+building area of the mass shelter by more than 10 percent is allowed if there is no
+increase in the number of beds or occupants and if the alteration or expansion
+complies with all conditions of approval.
+
+33.285.040.B.2-3
+As mentioned above, the single-dwelling zones are added to this paragraph to acknowledge that
+smaller mass shelters with up to 20 beds will be allowed by right in single-dwelling zones if the meet
+the standards of 33.285.050 which include Table 285-1.
+
+Other amendments are grammatical corrections or technical amendments related to amendments
+made elsewhere in this document. However, one amendment moves the mass shelter use regulations
+for the CI1 zone to the paragraph B.2 (now B.1), because the CI1 zone is a lower intensity
+institutional campus zone located in a single-dwelling residential setting. While the end result is
+similar in terms of the number of beds allowed without a conditional use review (30), the m ove
+means that a mass shelter in a CI1 subject to a conditional use review will need to meet the criteria
+for a shelter in an R- or IR-zone. These approval criteria are more consistent for a shelter in this
+situation, since the CI1 zones are more often located within residential areas.
+
+B.2 & B.3 are renumbered to B.1 and B.2.
+
+12. RF-R2.5, RM1, RM2, RMP, CI1 and IR zones. Applicants for a new mass shelter or
+expansion of net building area or increase in the number of occupants in an existing mass
+shelter in RF-R2.5, RM1, RM2, RMP, CI1 and IR zones may choose to be an allowed use or
+a conditional use, as stated below.
+a. Allowed use. A new mass shelter and alteration of an existing mass shelter is allowed
+if it meets one of the following:
+(1) A mass shelter that meets the standards of Section 33.285.050 is an allowed
+use.
+(2) An alteration or expansion that does not increase net building area of the mass
+shelter by more than 10 percent is allowed if there is no increase in the number
+of beds or occupants and if the alteration or expansion complies with all
+conditions of approval.
+b. Conditional use. If the mass shelter does not meet Subparagraph B.12.a, it is a
+conditional use as follows. The approval criteria are in Section 33.815.107, Short
+Term, Housing and Mass, and Outdoor Shelters in R, CI1, and IR Zones. The standards
+of Section 33.285.050 do not apply to a mass shelter reviewed as a conditional use.
+(1) If the mass shelter is provided in an existing structure or is on athe site of an
+existing iInstitutional uUse, the conditional use is reviewed through a Type II
+procedure. An existing structure is one that is at least 5 years old and has not
+had an increase of more than 10 percent in net building area within the pastin 5
+years.
+(2) All other mass shelters are reviewed through a Type III procedure.
+23. RM3, RM4 and RX zones. Applicants for a new mass shelter or expansion of net building
+area or increase in the number of occupants in an existing mass shelter in RM3, RM4, and
+RX zones may choose to be an allowed use or a conditional use, as stated below.
+a. Allowed use. A new mass shelter, or alteration of an existing mass shelter, is allowed
+if it meets one of the following:
+(1) A mass shelter that meets the standards of Section 33.285.050 is an allowed
+use.
+(2) An alteration or expansion that does not increase net building area of the mass
+shelter by more than 10 percent is allowed if there is no increase in the number
+of beds or occupants and if the alteration or expansion complies with all
+conditions of approval.
+
+33.285.040.B.4
+In general, these amendments are grammatical corrections or technical amendments related to
+amendments made elsewhere in this document. In addition, the use regulations for the CI2 zone
+have been split from the CI1 zone, with the CI2 use regulations and conditional use approval criteria
+reference remaining here, and the CI1 zone use regulations moving to 33.285.040.B.2 (now B.1). It
+should be noted that the threshold standards that indicate the size of a mass shelter allowed by
+right are located under Table 285-1 within the development standards of 33.285.050.
+
+B.4 is renumbered to B.3
+
+b. Conditional use. If the mass shelter does not meet Subparagraph B.23.a, it is a
+conditional use as follows. Approval criteria are in Section 33.815.107, Short Term,
+Housing and Mass, and Outdoor Shelters in R, CI1, and IR Zones. The standards of
+Section 33.285.050 do not apply to mass shelters reviewed as conditional uses.
+(1) If the mass shelter is provided in an existing structure or is on athe site of an
+existing iInstitutional uUse, the conditional use is reviewed through a Type II
+procedure. An existing structure is one that is at least 5 years old and has not
+had an increase of more than 10 percent in net building area within the pastin 5
+years.
+(2) All other mass shelters are reviewed through a Type III procedure.
+34. C, EX, and CI2 zones. Applicants for a new mass shelter or expansion of net building area
+or increase in the number of occupants in an existing mass shelter in C, EX, and CI2 zones
+may choose to be an allowed use or a conditional use, as stated below.
+a. Allowed use. A new mass shelter, or alteration of an existing mass shelter is allowed
+if it meets one of the following:
+(1) A mass shelter that meets the standards of Section 33. 285.050 is an allowed
+use.
+(2)  An alteration or expansion that does not increase net building area of the mass
+shelter by more than 10 percent is allowed if there is no increase in the number
+of beds or occupants and if the alteration or expansion complies with all
+conditions of approval.
+b. Conditional use. If the mass shelter does not meet the standards of 33.285.050, it is a
+conditional use, as follows. Approval criteria are in Section 33.815.140, Mass and
+Outdoor Shelters and Specified Group Living Uses in the C, CI2, E and CI Zones. The
+standards of Section 33.285.050 do not apply to mass shelters reviewed as
+conditional uses.
+(1) If the mass shelter is provided within an existing structure, or on athe site of an
+existing iInstitutional uUse, the conditional use is reviewed through a Type II
+procedure. An existing structure is one that is at least 5 years old and has not
+had an increase of more than 10 percent in net building area within the pastin 5
+years.
+(2) All other mass shelters are reviewed through a Type III procedure.
+
+33.285.040.B.5
+In general, these amendments clarify the code to update amendments made elsewhere in the code,
+as well as to make some grammatical corrections. Since the EG zones are intended to provide
+necessary employment lands, a request for a new mass shelter remains subject to a conditional use
+review.
+
+B.5 is renumbered to B.4.
+
+33.285.040.B.7
+The existing exemption for mass shelters for victims of sexual or domestic violence is being
+amended because the previous limitations, which were tied to the density limits in the Group Living
+chapter (33.239), have been eliminated. Going forward, the exemption will generally mirror the use
+limits for Group Living use in the base zone, with the exception of EG zones where group living is
+prohibited, but a mass shelter for victims of violence is allowed.
+
+B.6 & 7 are renumbered to B.5 & 6.
+
+45. EG zones. Generally, a mass shelters in EG zones isare a conditional use, reviewed through
+the following procedures. Certain alterations to an existing mass shelters may be allowed
+if they meet Subparagraph B.45.b. Approval criteria are in Section 33.815.140, Mass and
+Outdoor Shelters and Specified Group Living Uses in the C, CI2, EX, and CI Zzones. The
+standards of Section 33.285.050 do not apply to mass shelters reviewed as conditional
+uses.
+a. The following procedures apply to a new mass shelters and alterations to an existing
+of mass shelters that do not meet Subparagraph B.45.b:
+(1) If the mass shelter is provided within an existing structure, or on athe site of an
+existing iInstitutional uUse, the conditional use is reviewed through a Type II
+procedure. An existing structure is one that is at least 5 years old and has not
+had any increase in net building area within the pastin 5 years.
+(2) All other mass shelters are reviewed through a Type III procedure.
+b. Existing mass shelters. An alteration or expansion that does not increase net building
+area of the mass shelter by more than 10 percent is allowed if there is no increase in
+the number of beds or occupants and if the alteration or expansion complies with all
+conditions of approval.
+56. OS and I zones. Mass shelters in OS and I zones are prohibited.
+67. Exemption. A mass shelter that exclusively serves victims of sexual or domestic violence is
+allowed by right in RM1 – RMP, C, E, CI, and IR zones. In RF-R2.5 zones, a mass shelter that
+exclusively serves victims of sexual or domestic violence is allowed by right but is limited
+to a net building area of 3,500 square feet if it meets the size limitations for Group Living
+uses.
+33.285.040.C.
+Outdoor Shelter is a new type of Community Service use being added to the code. It is defined in
+the Definitions Chapter, 33.910 as being a collection of individual shelters such as tents, cabins,
+yurts, or even vehicles and RVs, if they are used for overnight shelter. The individual shelt ers are
+grouped together in an outdoor setting. The outdoor shelter could also include additional buildings
+providing food preparation and hygene or other services. A new set of use regulations is established
+to describe where outdoor shelters are allowed, where they are prohibited, where a conditional use
+might be required, and what procedure types apply to required conditional uses.
+
+33.285.040.C.1
+Outdoor shelters in OS zones are prohibited. Mass and short-term shelters are also prohibited in
+OS zones, since providing shelter or housing does not fall into the purpose of the OS zone.
+However, under the Temporary Activities chapter, 33.296, a temporary emergency or seasonal
+outdoor shelter may be provided in an OS zone.
+
+33.285.040.C.2
+These amendments establish the use limitations for outdoor shelters in the R, CI1 and IR zones.
+In single-dwelling residential zones, an outdoor shelter may be allowed by right with up to 20
+individual shelters as described in 33.910, if on a site of an institutional use other than a parks and
+opens space use. Other situations trigger a conditional use review.
+In the lower intensity multi-dwelling (RM1, RM2, RMP), CI1, and the IR zones, an outdoor shelter
+may be allowed by right with up to 30 individual shelters as described in 33.910. More than 30
+triggers a conditional use (CU) review, and the applicable approval criteria are the same as those
+that currently apply to mass or short-term shelters in residential zones.
+In the higher intensity multi-dwelling (RM3, RM4, RX) zones, that number of individual shelters
+allowed by right is increased to 60. More than 60 triggers the conditional use review.
+In single dwelling (RF-R2.5) and CI1 zone, all outdoor shelters are subject to a CU review, and in no
+case may an outdoor shelter contain more than 20 individual shelters in these zones.
+
+33.285.040.C.3
+In the C, EX, and CI2 zones, an outdoor shelter may be allowed by right with up to 6 0 individual
+shelters. More than 60 triggers a CU review, and the applicable approval criteria are the same as
+those that currently apply to mass shelters in C, CI2, E, and I zones.
+
+In all cases when a CU is required, the level of review is lowered to a Type II staff review in cases
+where the outdoor shelter is located on the site of an institution, instead of a Type III review,
+which requires a hearing. This is a similar provision for all types of shelters.
+Additionally, state law allows religious institutions to provide overnight vehicle camping as part of
+their operation. Currently, the limit is three vehicles, but the 2021 Oregon Legislature may consider
+increasing this cap.
+Additional development standards for outdoor shelters are provided in 33.285.050.
+C. Outdoor shelters.
+1. OS zones. Outdoor shelters are prohibited in the OS zone.
+2. R, CI1, and IR zones. A new outdoor shelter, and an alteration or expansion of an existing
+outdoor shelter in R, CI1, and IR zones is subject to the following regulations:
+a. Allowed use. A new outdoor shelter, or an alteration to an existing outdoor shelter is
+allowed if it meets one of the following:
+(1) An outdoor shelter with up to 20 individual shelters is an allowed use in the RF
+through R2.5 zones when provided on the site of an existing institutional use,
+excluding sites in a Parks and Open Areas use, and the standards of 33.285.050
+are met.
+(2) An outdoor shelter with up to 30 individual shelters is an allowed use in the
+RM1, RM2, RMP, CI1, and IR zones when the standards of 33.285.050 are met.
+(3) An outdoor shelter with up to 60 individual shelters is an allowed use in the
+RM3, RM4, and RX zones when the standards of 33.285.050 are met.
+(4) An alteration or expansion that does not increase the net building area or site
+area of the outdoor shelter by more than 10 percent is allowed if there is no
+increase in the number of individual shelters and if the alteration or expansion
+complies with all conditions of approval.
+b. Prohibited use. Outdoor shelters with more than 20 individual shelters are prohibited
+in the RF through R2.5 zones.
+c. Conditional use. If the outdoor shelter does not meet Subparagraph C.2.a, and it is
+not prohibited, it is a conditional use and is reviewed through the following
+procedures. The approval criteria are in 33.815.107, Short Term, Mass, and Outdoor
+Shelters in R, CI1, and IR Zones. The outdoor shelter must also meet the standards of
+33.285.050:
+(1) If the outdoor shelter is on the site of an existing institutional use, the
+conditional use is reviewed through a Type II procedure.
+(2) All other outdoor shelters are reviewed through a Type III procedure.
+3. C, EX, and CI2 zones. A new outdoor shelter, and an alteration or expansion of an existing
+outdoor shelter in C, EX, and CI2 zones is subject to the following regulations:
+a. Allowed use. A new outdoor shelter, or an alteration or expansion of an existing
+outdoor shelter is allowed if it meets one of the following:
+(1) An outdoor shelter with up to 60 individual shelters is an allowed use if it meets
+the standards of Section 33.285.050.
+(2)  An alteration or expansion that does not increase the net building area or site
+area of the outdoor shelter by more than 10 percent is allowed if there is no
+increase in the number of individual shelters and if the alteration or expansion
+complies with all conditions of approval and the standards of Section
+33.285.050.
+
+33.285.040.C.4
+These amendments establish the use limitations for outdoor shelters in the EG and I zones.
+Generally, outdoor shelters are a conditional use (CU) in EG and I zones. The exception is small
+expansions of existing shelters. For the CU review, the applicable approval criteria are the same as
+those that currently apply to mass shelters in C, CI2, E, and I. Similar to the other zones, when a
+new outdoor shelter is proposed on the site of an institutional use, a lower, Type II staff review is
+used instead of a Type III review which requires a hearing.
+
+33.285.050.A
+These amendments change the name of “Short Term Housing” to “Short Term Shelter” and remove
+an unnecessary refence to the adjustment process. Most development standards are adjustable.
+When a standard is not adjustable, a prohibition on adjustments is noted.
+
+b. Conditional use. If the outdoor shelter does not meet Subparagraph C.3.a., it is a
+conditional use and is reviewed through the following procedures. The approval
+criteria are in Section 33.815.140, Mass and Outdoor Shelters in the C, CI2, E and I
+Zones. The outdoor shelter must also meet the standards of 33.285.050.
+(1) If the outdoor shelter is on the site of an existing institutional use, the
+conditional use is reviewed through a Type II procedure.
+(2) All other outdoor shelters are reviewed through a Type III procedure.
+4. EG and I zones. Generally, outdoor shelters in EG and I zones are a conditional use,
+reviewed through the following procedures. Certain alterations to existing outdoor
+shelters may be allowed if they meet Subparagraph C.4.b. Approval criteria are in Section
+33.815.140, Mass and Outdoor Shelters in the C, CI2, E, and I Zones. The outdoor shelter
+must also meet the standards of 33.285.050.
+a. The following procedures apply to new outdoor shelters and alterations of outdoor
+shelters that do not meet Subparagraph C.4.b:
+(1) If the outdoor shelter is on the site of an existing institutional use, the
+conditional use is reviewed through a Type II procedure.
+(2) All other outdoor shelters are reviewed through a Type III procedure.
+b. Existing outdoor shelters. An alteration or expansion that does not increase the net
+building or site area of the outdoor shelter by more than 10 percent is allowed if
+there is no increase in the number of individual shelters and if the alteration or
+expansion complies with all conditions of approval.
+
+33.285.050 Standards
+A. Short term sheltershousing. Adjustments to the standards of this subsection are processed as
+stated in Chapter 33.805, Adjustments.
+1. Existing structures and additions to existing structures. A Sshort term shelterhousing
+provided in an existing structure is subject to the development standards for residential
+development in the base zone, overlay zone, or plan district, unless superseded by
+standards in this subsection. Sites that do not meet the development standards at the
+time of application are subject to the regulations of Section 33.258.070, Nonconforming
+Development.
+2. New structures. A Sshort term shelterhousing provided in a new structure is subject to the
+development standards for residential development in the base zone, overlay zone, or
+plan district, unless superseded by standards in this subsection.
+
+33.285.050.A.3.
+The density standard is deleted because the chapter it references is being removed as stated
+earlier in the document. The deletion means that Short Term Shelters are subject to the general
+development standards applicable to other structures in the base zone.
+The existing 4-6 are renumbered to 3-5.
+
+33.285.050.A.5.
+This amendment clarifies that a short-term shelter is exempt from motor vehicle parking but may
+still need to meet minimum requirements for loading spaces or bicycle parking at the ratios given in
+33.266, Parking, Loading, and Transportation and Parking Demand Management.
+
+33.285.050.B.2.
+The minimum spacing requirement for shelter beds is being eliminated. During the winter of 2019,
+4,015 people were identified as homeless on a single night. From 2015 to 2019 the percentage of
+unsheltered chronically homeless people increased. The City is seeking additional mass shelter
+facilities for the chronically homeless. The deletion does not mean that the City is carrying out a
+policy to concentrate Mass Shelters in only a few places, but it would increase the number of
+potential locations. Table 285-1 will continue to limit the size of individual mass shelters, but the
+geographic separation of a maximum number of shelter beds is removed. As seen during the recent
+COVID-19 health emergency and social distancing, providing an adequate number of beds can
+become even more of an issue during times of crisis.
+
+Table 285-1
+The amendment expands the allowed number of shelter beds in several zones and establishes the
+opportunity for a mass shelter to be placed on the site of an institutional use, other than parks and
+open area uses, by right within a single family zone. In this case a maximum number of 20 beds
+matches changes for other shelter types. A prior legislative decision that changed the City’s
+commercial zoning to the new commercial/mixed use zoning split the previous CG zone (which
+allowed up to 200 beds) into the CE zone (which allows 200 beds) and CM2 zone (which allows 75
+beds). However, the CM2 zone is often located in areas with a high level of supporting services and
+transit. During discussions with the Joint Office of Homeless Services about the optimum size of a
+larger shelter, mass shelters with over 120 beds become increasingly difficult to manage. The
+number 140 was chosen for the CM2 and CI2 to include the optimum of 120 but still allow for an
+occasional overflow. Shelters in lower density multi-dwelling zones have an increased allowance of
+30 beds. The requirement within the multi-dwelling zones that they be operated on a site of an
+institutional use has been removed, but is still in place for by-right mass shelters in single dwelling
+zones. Other numbers for RX, RM3, and RM4 have been increased to match maximums for outdoor
+shelters.
+
+33.285.050.B.8.
+Similar to A.5 above, this amendment clarifies that the exemption applies to motor vehicle parking.
+3. Density. The density standards for Group Living in Section 33.239.030.A must be met.
+34. Hours of operation. The short term shelterfacility must be open 24 hours a day.
+45. Reservation/referral. Lodging must be provided on a reservation or referral basis so that
+clients will not be required or allowed to queue for services.
+56. Parking. No motor vehicle parking is required.
+B. Mass shelters.
+1. Maximum occupancy. Mass shelters may have up to one shelter bed per 35 square feet of
+floor area. Adjustments to this standard are prohibited.
+2. Density. Table 285-1 sets out the maximum number of shelter beds allowed within a
+facility and within 600 feet of the facility. If the site has split zoning, the smaller number
+applies. Adjustments to this standard are prohibited.
+
+Table 285-1
+Maximum Number of Shelter Beds for Mass Shelters
+
+Zone of Site Maximum
+Number of Shelter Beds
+EX, CX, CM3, and CE 200
+CM2 and CI2 75140
+CR, CM1, and CI1 25
+RX, RM3, and RM4 5060
+RM1, RM2, RMP, CI1, IR, CR, CM1 [1] 1530
+RF-R2.5 [1] 20
+Notes:
+[1] The mass shelter must be operated on the site of an existing IInstitutional uUse, excluding
+sites in a Parks and Open Areas use..
+3. Outdoor activities. All functions associated with the shelter, except for children's play
+areas, outdoor recreation areas, parking, and outdoor waiting must take place within the
+building proposed to house the shelter. Outdoor waiting for clients, if any, may not be in
+the public right-of-way, must be physically separated from the public right-of-way, and
+must be large enough to accommodate the expected number of clients.
+4. Hours of operation. To limit outdoor waiting, the facility must be open for at least 8 hours
+every day between 7:00 AM and 7:00 PM.
+5. Supervision. On-site supervision must be provided at all times.
+6. Toilets. At least one toilet must be provided for every 15 shelter beds.
+7. Development standards. The development standards for residential development in the
+base zone, overlay zone, or plan district apply to mass shelters, unless superseded by
+standards in this subsection.
+8. Parking. No motor vehicle parking is required.
+
+33.285.050.C
+These are new standards for the Outdoor Shelter use.
+
+33.285.050.C.1
+These standards are intended to keep outdoor shelters out of sensitive or hazardous areas that are
+mapped on City zoning maps. Contaminated sites were also considered for exclusion, but the map of
+these sites is maintained by the Oregon Department of Environmental Quality rather than the City
+and would be difficult to reference during review of an application for development.
+
+33.285.050.C.2.a
+All shelters require some degree of support from government or non-profit agencies; a minimum
+shelter size would prevent the proliferation of mini outdoor shelters and thus provide realistic
+economies of scale for onsite operators and supporting agencies. The minimum site size of 3,000
+square feet was determined by the City Council.
+
+33.285.050.C.2.b
+A maximum outdoor shelter size is proposed for industrial zones to help preserve the City’s limited
+supply of industrial land for industrial use. Additional industrial land supply safeguards are provided
+under Chapter 33.815, Conditional Uses, below.
+
+33.285.050.C.3
+This provision is intended to allow persons to be at the shelter at all hours. It does not mean that
+the shelter must be open for intake or discharge or provide services at any hour. Being operational
+for 24 hours should limit queuing or loitering outside the facility.
+
+33.285.050.C.4
+As stated in the definition (33.910), outdoor shelters must be operated by a government agency or
+a not-for-profit corporation. Supervisors, who could be residents, volunteers, or employees, would
+be responsible to and serve at the pleasure of the operator.
+
+C. Outdoor shelters.
+1. An outdoor shelter is prohibited in:
+a. Environmental overlay zones;
+b. Pleasant Valley Natural Resource overlay zones;
+c. River Natural overlay zones;
+d. River Environmental overlay zones;
+e. Scenic overlay zones; and
+f. The special flood hazard area.
+2. Minimum and maximum site size.
+a. The minimum required site size for an outdoor shelter is 3,000 square feet.
+Institutional uses are exempt from this standard. Adjustments are prohibited.
+b. In I zones, the maximum site size for an outdoor shelter is 2 acres. Adjustments are
+prohibited.
+3. The facility must operate 24 hours a day.
+4. The facility must have a designated supervisor.
+
+33.285.050.C.5-6
+The proposed setbacks and screening requirements are similar to other requirements applicable to
+non-residential uses and outdoor activities that adjoin residential property lines.
+
+33.285.050.C.7
+This removes the requirement for an outdoor shelter to provide a pedestrian circulation system
+that is up to the zoning code minimums. This usually requires 6-foot paved connections to the street
+and to other areas onsite.
+Although an on-site pedestrian system would not be required by the proposed standard, Americans
+With Disabilities Act (ADA) requirements would be met though the state standards that are
+triggered through a building/site permit. Particularly applicable are these two accessible route
+sections of the 2019 Oregon Structural Specialty Code:
+
+1104.1 Site arrival points. At least one accessible route
+within the site shall be provided from public transportation
+stops, accessible parking, accessible passenger loading
+zones, and public streets or sidewalks to the accessible building
+entrance served.
+
+1104.2 Within a site. At least one accessible route shall connect
+accessible buildings, accessible facilities, accessible elements
+and accessible spaces that are on the same site.
+
+This accessible route would not have to be as wide as the zoning code requires and would only link
+those facilities required to be accessible (common building, etc.). It should provide some cost
+savings for setting up an outdoor shelter.
+
+33.285.050.C.8
+This provision exempts the outdoor shelter from motor vehicle parking requirements, but it does
+not exempt it from bicycle parking or loading requirements. It is anticipated that outdoor shelters
+will not trigger a loading space requirement, while the bike parking requirement will likely be the
+minimum requirement of 2 short-term and 2 long-term space (i.e. a total of 2 staple racks).
+
+5. All development associated with the outdoor shelter must be setback at least 5 feet from
+street lot lines and at least 25 feet from the lot line of any abutting R zoned property that
+is not part of the outdoor shelter site.
+6. The outdoor shelter site must be screened from the street and any adjacent properties.
+Screening from the street must comply with at least the L2 or F2 standards of Chapter
+33.248, Landscaping and Screening, with the exception that a fence can be a minimum of
+3-feet high. Screening from adjacent properties must comply with at least the L3 or F2
+standards of Chapter 33.248, Landscaping and Screening.
+7. The outdoor shelter is exempt from all pedestrian standards required by other chapters in
+this code.
+8. No motor vehicle parking is required.
+
+33.296.030
+These amendments to the allowed temporary activities allow a more efficient response to limited
+duration or temporary shelter needs.
+
+33.296.030.G
+Generally, temporary activities that engage this section of the code are the result of a natural
+disaster or an emergency declaration made by the City Council (like the current Housing Emergency
+declared back in October 2015, and since extended until April 2021). This amendment includes the
+determination of a shelter shortage as a form of emergency to align with the changes stated in
+Title 15, and it clarifies that a variety of shelters and medical facilities may be established under
+the emergency for the length of the declared emergency. Recent emergency declarations have
+included the housing emergency and the COVID-19 emergency.
+
+33.296.030.H
+This new provision accommodates the temporary operation of a mass shelter or an outdoor shelter
+on sites for up to 180 days within a calendar year. Temporary mass shelters, which are defined as
+being within a building could use this provision in all zones. Temporary outdoor shelters, which would
+are camps or other temporary structures cannot locate in Open Space (OS) zones or on
+environmentally sensitive or flood hazard areas in other zones. The new standard allows city
+agencies, institutions, and other interested parties to maintain a temporary shelter without the
+need for an emergency declaration by City Council in Title 15 and is usually the mechanism to invoke
+G. above. This provides an opportunity for agencies and owners to agree to open up properties or
+buildings on a temporary basis, or in situations where seasonal shelters may be needed, but no
+formal housing or weather emergency has been called.
+The calendar year time period means the period between January 1
+st and December 31st of any
+calendar year. If a shelter were to open on October 1st of one year and be extended until March
+31st of the next year, the shelter would have been open for 92 days in the first year and 90 days in
+the second year. A shelter that is open between January 1, and June 30 of one year would not be
+able to reopen until the following calendar year.
+
+33.296 Temporary Activities
+
+33.296.030 Temporary Activities Allowed
+A-F.  [No change]
+G. Natural disasters and emergencies. Temporary activities and structures needed as the result of
+a natural disaster, shelter shortage, or other health and safety emergencies are allowed for the
+duration of the emergency. Temporary activities include food, water, and equipment
+distribution centers, medical facilities, short term shelters, mass shelters, outdoor shelters,
+warming or cooling shelters, and triage stations.
+H. Mass and outdoor shelters.
+1.  Mass shelters. Mass shelters are allowed as a temporary activity for up to 180 days within
+a calendar year.
+2. Outdoor shelters. Outside of OS zones, outdoor shelters are allowed as a temporary
+activity for up to 180 days within a calendar year when the outdoor shelter is located
+outside of Environmental overlay zones, the River Natural overlay zone, the River
+Environmental overlay zone, the Pleasant Valley Natural Resource overlay zone, and the
+special flood hazard area.
+IH. Radio Frequency Transmission Facilities. Temporary facilities for personal wireless service
+facilities are allowed for up to 120 days in a calendar year. Meeting this regulation must be
+documented through a zoning permit.
+JI. Commercial filming. In all zones, commercial filming is allowed as a temporary activity. For all
+sites, except sites in the OS zone, the time between filming events must be four times as long
+as the duration of the last event.
+
+33.420.045.DD
+This code addition exempts outdoor shelters from design review. These shelters are generally
+composed of a mixture of temporary units such as tents, yurts or cabins that do not lend
+themselves to design review because the criteria are written for the review of permanent buildings
+or improvements. While an outdoor shelter may be permanently located, the design and layout of
+the individual shelters may change over time.
+
+33.420 Design Overlay
+
+33.420.045 Exempt From Design Review
+The following items are exempt from design review:
+A-CC. [No change]
+DD. Development associated with an outdoor shelter.
+
+Chapter 33.815 List of Sections
+The list of sections is amended to recognize changes for two sections of conditional use approval
+criteria. Descriptions of these changes is contained in commentary for Sections 33.815.107 and
+33.815.140 below.
+
+33.815 Conditional Uses
+Sections:
+General [no change]
+Approval Criteria
+33.815.100 Uses in the Open Space Zones
+33.815.105 Institutional and Other Uses in Residential and Campus Institutional Zones
+33.815.107 Short Term, Housing and Mass, and Outdoor Shelters in R, CI1, and IR Zones
+33.815.110 Office and Retail Sales And Service Uses in the RX Zone
+33.815.115 Specified Uses in Commercial/Mixed Use Zones
+33.815.120 Commercial Parking Facilities in the RX, CX, and E Zones, Outside the Central
+  City Plan District, the Columbia South Shore Plan District and the Cascade
+  Station/Portland International Center Plan District
+33.815.121 Commercial Parking Facilities in the CM2 and CM3 Zones in the
+Hollywood Plan District
+33.815.125 Specified Uses in Industrial Zones
+33.815.126 Office Uses in the IG1 Zone in the Lower Albina Subdistrict
+33.815.127 Accessory Offices and Headquarters Offices in the IH Zone in the Guild’s Lake
+  Industrial Sanctuary Plan District
+33.815.128 Retail Sales And Service Uses in the EG Zones
+33.815.129 Office Uses in Specified Historic Resources in the Industrial Zones in the Central City
+  Plan District
+33.815.130 Residential Uses in the IG1, IG2, and IH Zones
+33.815.140 Specified Mass and Outdoor Shelters And Group Living Uses in the C, CI2, E, and CI Zones
+33.815.200 Aviation And Surface Passenger Terminals
+33.815.205 Detention Facilities
+33.815.210 Helicopter Landing Facilities
+33.815.215 Major Event Entertainment
+33.815.220 Mining and Waste-Related
+33.815.222 Park-and-Ride Facilities for Mass Transit
+33.815.223 Public Safety Facilities
+33.815.225 Radio Frequency Transmission Facilities
+33.815.230 Rail Lines and Utility Corridors
+33.815.300 Commercial Parking Facilities in the Columbia South Shore Plan District
+33.815.301 Industrial Businesses in the Columbia South Shore Plan District
+33.815.302 Professional / Technical Facilities in the Columbia South Shore Plan District
+33.815.303 Retail Sales And Service Uses in the Columbia South Shore Plan District
+33.815.304 Retail Sales And Service Uses on Specified Sites in the CX and EX Zones in the Central
+City Plan District
+33.815.305 Replacement Parking Facilities in the Central City Plan District
+33.815.308 Commercial Parking in Multi-Dwelling Zones and Commercial Parking Access from
+  Main Streets in the Northwest Plan District
+33.815.310 Industrial Uses in the IR Zone
+33.815.315 Utility Scale Energy Production in Specified C Zones
+
+33.815.107
+The new outdoor shelter Community Service use has similar characteristics to the mass and short -
+term shelters. As a result, the existing conditional use approval criteria for these forms of shelter
+will also apply to outdoor shelters. The approval criteria in 33.815.107 will apply to outdoor shelters
+within R, CI1 and IR zones. The CI1 zone is added because it generally applies to institutions with a
+lower intensity of development that are within residential zones. The other main change is to
+update the reference for short-term shelters from short-term housing.
+
+33.815.107.A-C
+There are no changes made to the existing conditional use approval criteria, but they are included
+here since they will apply to outdoor shelters.
+
+33.815.107 Short Term, Housing and Mass, and Outdoor Shelters in R, CI1, and IR Zones
+These approval criteria apply to Community Service uses that provide short term, housing and mass, or
+outdoor shelters in R, CI1, and IR zones. Approval criterion A and C must be met for all mass shelters and
+short term sheltershousing. Criterion A through E must be met for all outdoor shelters, and for mass
+shelters and short term sheltershousing where the net building area on the site is increasing by more
+than 1500 square feet or 10 percent, whichever is greater. The approval criteria are as follows:
+A. Proportion of Household Living uses. The overall residential appearance and function of the
+area will not be significantly lessened due to the increased proportion of uses not in the
+Household Living category in the residential area. Consideration includes the proposal by itself
+and in combination with other uses in the area not in the Household Living category and is
+specifically based on:
+1. The number, size, and location of other uses not in the Household Living category in the
+residential area; and
+2. The intensity and scale of the proposed use and of existing Household Living uses and
+other uses.
+B. Physical compatibility.
+1. The proposal will preserve any City-designated scenic resources; and
+2. The proposal will be compatible with adjacent residential developments based on
+characteristics such as the site size, building scale and style, setbacks, tree preservation,
+and landscaping; or
+3. The proposal will mitigate differences in appearance or scale through such means as
+setbacks, screening, landscaping, tree preservation, and other design features.
+C. Livability. The proposal will not have significant adverse impacts on the livability of nearby
+residential zoned lands due to:
+1. Noise, glare from lights, late-night operations, odors, and litter; and
+2. Privacy issues.
+
+33.815.107.D-E
+There are no changes made to the existing conditional use approval criteria, but they are included
+here since they will apply to outdoor shelters.
+
+D. Public services.
+1. The proposal is supportive of the street designations of the Transportation Element of the
+Comprehensive Plan;
+2. Transportation system:
+a. The transportation system is capable of supporting the proposed use in addition to
+the existing uses in the area. Evaluation factors include safety, street capacity, level
+of service, connectivity, transit availability, availability of pedestrian and bicycle
+networks, on-street parking impacts, access restrictions, neighborhood impacts,
+impacts on pedestrian, bicycle, and transit circulation. Evaluation factors may be
+balanced; a finding of failure in one or more factors may be acceptable if the failure
+is not a result of the proposed development, and any additional impacts on the
+system from the proposed development are mitigated;
+b. Measures proportional to the impacts of the proposed use are proposed to mitigate
+on- and off-site transportation impacts. Measures may include transportation
+improvements to on-site circulation, public street dedication and improvement,
+private street improvements, intersection improvements, signal or other traffic
+management improvements, additional transportation and parking demand
+management actions, street crossing improvements, improvements to the local
+pedestrian and bicycle networks, and transit improvements;
+c. Transportation improvements adjacent to the development and in the vicinity
+needed to support the development are available or will be made available when the
+development is complete or, if the development is phased, will be available as each
+phase of the development is completed;
+3. Public services for water supply, police and fire protection are capable of serving the
+proposed use, and proposed sanitary waste disposal and stormwater disposal systems are
+acceptable to the Bureau of Environmental Services.
+E. Area plans. The proposal is consistent with any area plans adopted by the City Council as part
+of the Comprehensive Plan, such as neighborhood or community plans.
+
+33.815.140
+Within Commercial, Employment and Industrial zones, the conditional use approval criteria that
+currently apply to mass shelters is expanded to apply to outdoor shelters that require a conditional
+use review. The CI2 zone is also added to the list of zones where these criteria apply. The CI2 zone
+is usually applied to more intense institutional campuses that are often within commercial area In
+addition, since alternative or post incarceration group living uses will no longer be subject to a
+separate conditional use review, the heading addressing those uses is removed from the approval
+criteria.
+
+While mass shelters are listed elsewhere as prohibited in I-zones, some outdoor shelters may be
+allowed through a conditional use review. The heading and introduction are reworded to indicate
+that these are the approval criteria for outdoor shelters in an I zone. Certain specific criteria
+related to that zone are explained below.
+
+33.815.140.A-C
+There are no changes made to the existing conditional use approval criteria, but they are included
+here since they will apply to outdoor shelters.
+
+33.815.140 Specified Mass and Outdoor Shelters and Group Living Uses in the C, CI2, E, and CI Zones
+These criteria apply to mass and outdoor shelters in the C, CI2, E, and CI zones, or to Group Living uses
+that consist of alternative or post incarceration facilities in the C or EX zones.
+A. Physical compatibility.
+1. The proposal will preserve any City-designated scenic resources; and
+2. The appearance of the facility is consistent with the intent of the zone in which it will be
+located and with the character of the surrounding uses and development.
+B. Livability. The proposal will not have significant adverse impacts on the livability of nearby
+residential zoned lands due to:
+1. Noise, glare from lights, late-night operations, odors, and litter; and
+2. Privacy and safety issues.
+C. Public services.
+1. The proposed use is in conformance with the street designations in the Transportation
+Element of the Comprehensive Plan;
+2. Transportation system:
+a. The transportation system is capable of supporting the proposed use in addition to
+the existing uses in the area. Evaluation factors include safety, street capacity, level
+of service, connectivity, transit availability, availability of pedestrian and bicycle
+networks, on-street parking impacts, access restrictions, neighborhood impacts,
+impacts on pedestrian, bicycle, and transit circulation. Evaluation factors may be
+balanced; a finding of failure in one or more factors may be acceptable if the failure
+is not a result of the proposed development, and any additional impacts on the
+system from the proposed development are mitigated;
+b. Measures proportional to the impacts of the proposed use are proposed to mitigate
+on- and off-site transportation impacts. Measures may include transportation
+improvements to on-site circulation, public street dedication and improvement,
+private street improvements, intersection improvements, signal or other traffic
+management improvements, additional transportation and parking demand
+management actions, street crossing improvements, improvements to the local
+pedestrian and bicycle networks, and transit improvements.
+c. Transportation improvements adjacent to the development and in the vicinity
+needed to support the development are available or will be made available when the
+development is complete or, if the development is phased, will be available as each
+phase of the development is completed.
+3. Public services for water supply, police and fire protection are capable of serving the
+proposed use, and proposed sanitary waste disposal and stormwater disposal systems are
+acceptable to the Bureau of Environmental Services.
+
+33.815.140.D
+There are no changes made to the existing conditional use approval criteria, but they are included
+here since they will apply to outdoor shelters.
+
+33.815.140.E
+These are new approval criteria applicable only to outdoor shelters in industrial zones. In addition
+to the proposed two-acre site cap described in commentary above for the standards in Chapter
+33.285, they work to maintain the City’s limited supply of industrial land.
+
+33.815.140.E.1
+This criterion references the city’s inventory of buildable employment land. This inventory is a map
+adopted by Council ordinance. The map is acknowledged as complying with Statewide Planning G oal 9
+within the meaning of Oregon Revised Statutes, Chapter 197, and is also an acknowledged Portland
+2035 Comprehensive Plan supporting document. This inventory map is viewable from files maintained
+by the City’s corporate geographic information system. Occasional updates of this map are made for
+informational and research purposes, but the only map applicable for the purpose of this approval
+criterion is the last acknowledged version adopted by Council ordinance.
+
+Statewide Planning Goal 9 and its administrative rule generally require the exclusion of publicly
+owned land from buildable land inventories, but the Council ordinance did designate some public land
+owned by the Port of Portland and Prosper Portland as available for employment uses. The required
+check against the inventory map will ensure that land inventoried as needed for employment uses
+will not be converted to non-industrial uses, such as an outdoor shelter.
+
+33.815.140.E.2
+This proposed criterion helps ensure that shelters allowed on industrial-zoned public land will not
+negatively interfere with the truck and freight movement in the area.
+
+D. Area plans. The proposal is consistent with any area plans adopted by the City Council as part
+of the Comprehensive Plan, such as neighborhood or community plans.
+E. Additional criteria for outdoor shelters in I zones. The following criteria apply to outdoor
+shelters in I zones:
+1. The outdoor shelter must be on publicly owned property that was not identified as being
+in an industrial use or identified as vacant or underutilized land needed for future
+industrial use in the City’s inventory of buildable employment land.
+2. The shelter will not have a significant adverse effect on truck and freight movement.
+
+33.900 List of Terms
+Several terms are deleted or added to the definitions Chapter. For clarity, most of the unchanged
+terms are not included on the list of deleted and added terms. The reasons for the additions and
+deletions are stated in the commentary for Chapter 33.910 below.
+
+33.900 List of Terms
+
+Congregate Housing Facility See Residential Structure Types
+
+Group Living Facility See Residential Structure Types
+
+Household.
+
+Residential Structure Types
+• Accessory Dwelling Unit
+• Attached Duplex
+• Attached House
+• Congregate Housing Facility
+• Duplex
+• Dwelling Unit
+• Fourplex
+• Group Living Structure
+• House
+• Houseboat Moorage
+• Manufactured Dwelling
+— Manufactured Home
+— Mobile Home
+— Residential Trailer
+• Multi-Dwelling Development
+• Multi-Dwelling Structure
+• Single Room Occupancy Housing (SRO)
+• Triplex
+
+Outdoor Shelter
+
+Single Room Occupancy Housing (SRO) See Residential Structure Types
+
+33.910
+
+DEFINITIONS
+
+Congregate Housing Facility
+See the commentary under Residential Structure types for an explanation.
+
+Density
+A reference to single room occupancy is deleted because all residential configurations that could be
+accomplished under single room occupancy may be accomplished by the proposed amendments for
+Group Living, and a measurement of density by living units will not be required elsewhere in the
+code.
+
+Group Living Structure
+This definition is replaced by a new definition for “Congregate Housing Facility”, which is explained
+in more detail in commentary below.
+
+Household
+The definition of “Household” is being deleted for both functional and policy reasons.
+
+For many years the City has employed a practical reading of the definition of “household” noting
+that one person plus five additional persons can be a household, when there is no other relationship
+by blood, marriage, partnership, adoption, or guardianship. At a minimum one person using one
+bedroom and renting out 5 other bedrooms could be a household. However, a ‘family’ could
+potentially occupy several bedrooms while still renting out 5 bedrooms individually , meaning that the
+household could take up 7 or 8 bedrooms and be considered to be occupied by “Household Living.”
+These relationships are hard to monitor and enforce. The amendment deletes the definition of
+“household” is deleted, and uses a threshold for household living based upon the number of
+bedrooms per dwelling unit within the Use Category for Household Living. During deliberations with
+the Planning and Sustainability Commission, the Commission recommended raising this threshold to
+distinguish between Household and Group Living from 6 bedrooms to 8 bedrooms.
+
+From a policy perspective, and intended or not, various definitions of households in other city
+zoning codes have been viewed as validating the “traditional family” as the cultural norm, and
+dismissing other chosen living arrangements as a departure from the ideal. Zoning should be about
+the use of land. Categorizing and elevating one type of human association over another serves no
+public purpose in a zoning code. The change places relatives and roommates (up to a limit) on equal
+footing under the Portland zoning code.
+
+33.910 Definitions
+
+Congregate Housing Facility. See Residential Structure Types.
+
+Density. A measurement of the number of people, dwelling units, living units in Single Room Occupancy
+(SRO) housing, or lots in relationship to a specified amount of land. Density is a measurement used
+generally for residential uses. See Chapter 33.205, Accessory Dwelling Units for how density is calculated
+for ADUs. See also Intensity.
+
+Group Living Structure. See Residential Structure Types.
+
+Household. One or more persons related by blood, marriage, domestic partnership, legal adoption or
+guardianship, plus not more than 5 additional persons, who live together in one dwelling unit; or one or
+more handicapped persons as defined in the Fair Housing Amendments Act of 1988, plus not more than
+5 additional persons, who live together in one dwelling unit.
+
+Mass Shelter
+Minor changes to the existing mass shelter definition will help to distinguish a mass shelter from
+the newly defined outdoor shelter, as well as from a short-term shelter. Generally, only buildings
+can be certified for human occupancy. A state-authorized exception allows accommodations that
+are not buildings, or even structures, to be occupied within outdoor shelters (see below).The term
+“sleeping room” has been replaced by “bedroom” as the term “bedroom” is more commonly
+understood within the zoning code. The term “sleeping room” is defined in the 2019 Oregon
+Structural Specialty Code as, “a room used or intended for sleeping,” which has the same meaning as
+“bedroom” in Title 33. Title 30 of the Portland City Code has additional definitions of “bedroom”
+that apply to inclusionary housing. For all shelters, no minimum length of stay is required, to
+distinguish them from residential use categories.
+
+Outdoor Shelter
+This is a new definition that addresses the city’s need to provide a form of legal temporary shelter
+such as tents, cabins or other non-permanent structures for our houseless community. This based
+on an updated state statute (ORS 446.265) for “transitional housing accommodations”. The zoning
+code replaces the state word “accommodations” with “individual shelters” to allow a wider definition
+for the types of situations that could count as individual shelters, including recreational vehicles or
+other vehicles. Outdoor shelters may include food and hygiene facilities and other services, but the
+range of services can vary. The intent is for these facilities to be run by public agencies or non-
+profits including institutions.
+
+Below is the state rule from ORS 446.265 to provide context:
+(1) Inside an urban growth boundary, a local government may authorize the establishment of
+transitional housing accommodations used as individual living units by one or more individuals.
+Use of transitional housing accommodations is limited to persons who lack permanent or safe
+shelter and who cannot be placed in other low income housing. A local government may limit
+the maximum amount of time that an individual or a family may use the accommodations.
+(2) Transitional housing accommodations are intended to be used by individuals or families
+on a limited basis for seasonal, emergency or transitional housing purposes and may include
+yurts, huts, cabins, fabric structures, tents and similar accommodations. The transitional
+housing accommodations may provide parking facilities, walkways and access to water, toilet,
+shower, laundry, cooking, telephone or other services either through separate or shared
+facilities. The Oregon Health Authority may develop public health best practices for shared
+health and sanitation facilities for transitional housing accommodations.
+(3) Transitional housing accommodations are not subject to ORS chapter 90. [Note:  ORS
+chapter 90 is Oregon’s Landlord Tenant Law.]
+(4) As used in this section, “yurt” means a round, domed tent of canvas or other weather
+resistant material, having a rigid framework, wooden floor, one or more windows or skylights
+and that may have plumbing, electrical service or heat.
+
+Mass Shelter. A structurebuilding that contains one or more open sleeping areas, or is divided only by
+non-permanent partitions, a nd fur nished with beds, cots, floor mats, or bunks. Individual sleeping
+bedrooms are not provided. The shelter may or may not have food preparation or shower facilities. The
+shelter is managed by a public or non-profit agency to provide shelter, with or without a fee, with no
+minimum length of stayon a daily basis. Where individual bedrooms are provided, the facility is a short
+term shelter. See also Outdoor Shelter and Short Term Shelter.
+
+Outdoor Shelter Individual shelters grouped together in an outdoor setting. Examples of individual
+shelters include tents, yurts, huts, cabins, vehicles or other similar accommodation that do not contain
+sanitary or cooking facilities, and recreational vehicles with or without cooking and sanitary facilities.
+The shelter is managed by a public agency or a non-profit agency, with or without a fee, and with no
+minimum length of stay. An outdoor shelter may or may not include buildings that have food
+preparation or sanitary facilities. See also Mass Shelter and Short Term Shelter.
+
+Residential Structure Types
+
+Congregate Housing Facility
+The congregate housing facility definition replaces the current group living facility definition and
+works in conjunction with the dwelling unit definition to provide a clear distinction between these
+two residential housing types. While a group living use may occupy a dwelling unit with nine or more
+bedrooms, there are many situations where the living situation is not arranged around a traditional
+dwelling unit layout. These can include residential structures that don’t contain any kitchen
+facilities such as some dormitories, SROs and residential hotels, or they may contain some limited
+kitchen facilities within a larger-scale living situation, which we have defined as being a ratio of less
+than one kitchen per every 12 bedrooms. Or they may contain a larger commercial kitchen, but one
+that is not anticipated to be shared by residents within the facility, such as with assisted living
+facilities or other facilities that include meal programs.
+
+In conjunction with this definition, the definition of dwelling unit is amended to not include
+facilities that meet the definition of congregate housing facility. However, it is possible that a
+building could have a combination of dwelling units and a congregate housing facility.
+
+Dwelling Unit
+The definition of dwelling unit is amended to clarify that a congregate housing facility (above) is not
+considered a dwelling unit.
+
+Group Living Facility
+The existing definition of “Group Living Facility” is removed, and generally replaced by the new
+definition for “Congregate Housing Facility.” In addition, some buildings that were defined as a
+group living facility because they were used for a group living use may now be defined as a dwelling
+unit if the facility contains the components that make up a dwelling unit, such as some forms of co -
+housing or communal living.
+
+Single Room Occupancy Housing
+The definitions “Single Room Occupancy Housing” and “SRO” are eliminated because the
+configurations of single room occupancy structures used as residential spaces will fall under either
+the new Congregate Housing Facility structure type or as a larger dwelling unit under the Group
+Living use category.
+
+Residential Structure Types
+
+• Accessory Dwelling Unit. [No change]
+• Attached Duplex. [No change]
+• Attached House. [No change]
+• Congregate Housing Facility. A building, buildings, or portion of a building that includes
+separate bedrooms and individual or shared bathrooms but does not include a kitchen or if it
+does include a kitchen the number of kitchens is less than one kitchen per 12 bedrooms.
+• Duplex. [No change]
+• Dwelling Unit. A building, or a portion of a building, that has independent living facilities
+including provisions for sleeping, cooking, and sanitation, and that is designed for residential
+occupancy by a group of people, except that a congregate housing facility is not a dwelling unit.
+Kitchen facilities for cooking are described in Section 29.30.160 of Title 29, Property and
+Maintenance Regulations. Buildings with more than one set of cooking facilities are considered
+to contain multiple dwelling units unless the additional cooking facilities are clearly accessory,
+such as an outdoor grill.
+• Fourplex. [No change]
+• Group Living Facility. A structure or structures that contain sleeping areas and at least one set
+of cooking and sanitary facilities that is used as a residence for Group Living uses.
+• House. [No change]
+• Houseboat Moorage. [No change]
+• Manufactured Dwelling. [No change]
+• Multi-Dwelling Development. [ No cha nge]
+• Multi-Dwelling
+ Structure. [No change]
+• Single Room Occupancy Housing (SRO). A structure that provides living units that have separate
+sleeping areas and some combination of shared bath or toilet facilities. The structure may or
+may not have separate or shared cooking facilities for the residents. SRO includes structures
+commonly called residential hotels and rooming houses.
+• Triplex. [No change]
+
+Short Term Shelter
+The word “housing” has been replaced with the word shelter to distinguish short term shelters, a
+Community Service use, from residential uses. As mentioned above, all shelters are defined to not
+require any minimum length of stay, unlike residential uses. These shelters are often the
+transitional bridge to permanent housing. Short term shelters provide a host-to-guest or provider-
+to-client relationship rather than a landlord-to-tenant relationship.
+
+Vehicle Type
+Accessory Recreational Vehicle
+This change aligns with terminology used by the State of Oregon Department of Motor Vehicles
+(including ORS 801.100-610 and 174.101) for recreational vehicles. A tiny house on wheels may be
+titled/registered by the DMV as a travel trailer, or a park model RV, depending on the size and
+configuration. A new standard is added to Title 29 (29.50.050) to allow the occupancy of a
+recreational vehicle on the site of a house, attached house of manufactured home, and a new
+chapter, 33.260 (see page 68) provides the zoning guidelines applicable to the occupied recreational
+vehicle.
+
+Short Term ShelterHousing. A structurebuilding that contains one or more individual sleepingbedrooms,
+and where occupancytenancy of all rooms may be arranged with no minimum length of stayfor periods
+of less than one month. The short term shelterhousing facility may or may not have food preparation
+facilities, and shower or bath facilities may or may not be shared. The facility is managed by a public or
+non-profit agency to provide sheltershort term housing, with or without a fee. Examples include
+transitional housing, and emergency shelters where individual rooms are provided. Where individual
+bedrooms are not provided, the facility may be is a mass shelter. See also Mass Shelter and Outdoor
+Shelter.
+
+Single Room Occupancy Housing (SRO). See Residential Structure Types.
+
+Vehicle Types.
+
+• Recreational Vehicle. A vehicle with or without motive power, which is designed for sport or
+recreational use, or which is designed for human occupancy on an intermittent basis.
+Recreational vehicle is divided into two categories as follows:
+– Accessory recreational vehicle. Accessory recreational vehicle includes nonmotorized
+vehicles designed for human occupancy on an intermittent basis such as travelvacation
+trailers, park model recreational vehicles, campers, and fifth-wheel trailers. A camper is
+considered an accessory recreational vehicle when it is standing alone. Accessory
+recreational vehicle also includes vehicles designed for off-road use, such as off-road
+v
+ehi
+cles, dune buggies, and recreational boats.
+– Motor home. Motor home includes motorized vehicles designed for human occupancy on
+an intermittent basis. A camper is considered a motor home when it is on the back of a pick-
+up or truck. Motor homes are regulated as trucks unless the regulations specifically indicate
+otherwise. See also Truck.
+
+33.920.100.A
+This amendment describes Group Living as residential occupancy of a dwelling unit with more than
+eight bedrooms or residential occupancy of a congregate housing facility. This is a more affirmative
+description than the existing characterization of group living as simply other than Household Living
+and provides specific situations for when a residential use is a Group Living use. Note that
+“residential facilities” regulated by the state remain as a Group Living use. These state distinctions
+are still based on number of residents/patients.
+
+33.920.100.C
+The examples listed in this paragraph are revised to provide more clarity and to remove situations
+that could possibly be either a Group Living or Household Living use. For example, communes, post
+incarceration facilities, or convents where the residents share a dwelling unit with 8 or fewer
+bedrooms would be considered Household Living, not Group Living. So, these examples have been
+removed. If a cohousing community resides in a dwelling unit with 9 or more bedrooms or in a
+defined congregate housing facility, it would be Group Living per those examples.
+
+In addition, out-of-date language is removed from the code and replaced with the single term,
+“persons with disabling conditions.” The Social Security Administration maintains an extensive list
+of “disabling conditions” that provides a more holistic term.
+
+33.920.100.D.1
+The term “tenancy” is replaced by the term “length of stay” because the guests or clients of a hotel
+or shelter do not establish a tenant-to-landlord relationship with the operator.
+
+33.920.100.D.2
+This exception is modified because it relies on the deleted definition of “household.” Instead the
+exception relies on the new description for Household Living, which is living within a dwelling unit
+containing eight or fewer bedrooms.
+
+33.920 Description of Use Categories
+
+33.920.100 Group Living
+A. Characteristics. Group Living is the residential occupancy of a dwelling unit that contains more
+than eight bedrooms. Group Living is also the residential occupancy of a congregate housing
+facility. Group Living is characterized by the residential occupancy of a structure by a group of
+people who do not meet the definition of Household Living. The size of the group will be larger
+than the average size of a household. Tenancy is arranged on a month-to-month basis, or for a
+longer period. Uses where tenancy may be arranged for a shorter period are not considered
+residential. They are considered to be a form of transient lodging (see the Retail Sales And
+Service and Community Service categories). Generally, Group Living uses often include
+structures have a common eating area for residents. The residents may or may not receive any
+combination of care, training, or treatment, as long as they also reside at the site. Group Living
+may include the State definition of residential facility (see Chapter 33.910, Definitions)
+B. [no changes]
+C. Examples. Examples include houses and other dwelling units with nine or more bedrooms;
+dormitories; communes; fraternities and sororities; monasteries and convents; nursing and
+convalescent homes; single room occupancy housing or SROs, rooming houses, residential
+hotels and other congregate housing facilities; some group homes for persons with disabling
+conditionsthe physically disabled, mentally retarded, or emotionally disturbed; and some
+residential programs for drug and alcohol treatment; and alternative or post incarceration
+facilities.
+D. Exceptions.
+1. Lodging where the length of stay tenancy may be arranged for periods less than one
+month is considered a hotel or motel use and is classified in the Retail Sales And Service
+category. However, in certain situations, lodging where tenancythe length of stay may be
+arranged for periods less than one month may be classified as a Community Service use
+such as short term, housing or mass or outdoor shelters.
+2. Lodging where the residents meet the definition of Household, and where tenancy is
+arranged on a month-to-month basis, or for a longer period, in a dwelling unit with eight
+or fewer bedrooms is classified as Household Living.
+3. Facilities for people who are under judicial detainment and are under the supervision of
+sworn officers are included in the Detention Facilities category.
+
+33.920.110.A
+The characteristic of Household Living has been revised to count the number of bedrooms as a
+substitute for using the deleted definition of household, which counted the number of people.  Eight
+bedrooms is chosen as the threshold between Household and Group Living because this considers an
+allowance for some bedrooms to be occupied by related individuals while considering additional
+rooms being used for non-related individuals. It also corresponds to some recent smaller co-housing
+provided through the market where the individuals share a common space. The eight bedroom
+threshold was increased from six at the conclusion of discussion at the Planning and Sustainability
+Commission. It distinguishes the uses without relying on a count of the number of people living in a
+unit. It should be noted that this distinction may or may not line up with current building codes, and
+some 7 or 8 bedroom homes could require the application of our commercial  building codes rather
+than residential building codes, potentially requiring of a fire suppression sprinkler system in the
+building. The reference to single room occupancy is being removed because the configuration of
+single room occupancy structures will fall under either the new Congregate Housing Facility
+structure type or as a larger dwelling unit under the Group Living use category.  Note that the
+reference to “residential homes” remains as this is regulated at the State level as a household living
+use. These state distinctions are still based on number of residents/patients.
+
+33.920.110.D.1
+The reference to single room occupancy is removed for the reason stated in the commentary for
+33.920.110.A above. The term “tenancy” is replaced by the term “length of stay” because guests in a
+hotel do not establish a tenant-to-landlord relationship with the hotel owner.
+
+33.920.110.D.2 (existing 2)
+The reference to single room occupancy is removed for the reason stated in the commentary for
+33.920.110.A above.
+
+33.920.110.D.3 (existing 3)
+The restriction on guest houses with kitchens is eliminated because this is the same thing as an
+accessory dwelling unit, which are allowed when the accessory dwelling unit regulations are met.
+
+33.920.110.D.4 (renumbered to 2)
+This exception adds a reference to outdoor shelters.
+
+33.920.110.D.3 (new 3)
+This exception provides a cross reference for the Group Living use within larger dwelling units.
+
+33.920.110 Household Living
+A. Characteristics. Household Living is characterized by the residential occupancy of a dwelling
+unit that contains eight or fewer bedrooms.by a household. Tenancy is arranged on a month-
+to-month basis, or for a longer period. Uses where tenancy t he le ngth of stay may be arranged
+for a shorter period are not considered residential. They are considered to be a form of
+transient lodging (see the Retail Sales And Service and Community Service categories).
+Apartment complexes that have accessory services such as food service, dining rooms, and
+housekeeping are included as Household Living. Single Room Occupancy housing (SROs), that
+do not have totally self- contained dwelling units are also included if at least two thirds of the
+units are rented on a monthly basis. SROs may have a common food preparation area, but
+meals are prepared individually by the residents. In addition, residential homes as defined by
+the State of Oregon are included in the Household Living category (see Chapter 33.910,
+Definitions).
+B. Accessory Uses. Accessory uses commonly found are recreational activities, raising of pets,
+hobbies, and parking of the occupants' vehicles. Home occupations, accessory dwelling units,
+accessory short-term rentals, and food membership distribution are accessory uses that are
+subject to additional regulations.
+C. Examples. Uses include living in houses, duplexes, apartments, condominiums, retirement
+center apartments, manufactured housing, houseboats, and other structuresdwelling units
+with eight or fewer bedrooms self- con taine d dwelling units. Examples also include living in
+SROs if the provisions are met regarding length of stay and separate meal preparation.
+D. Exceptions.
+1. Lodging in a dwelling unit or SRO where less than two thirds of the units are rented on a
+monthly basis Situations where the length of stay may be arranged for periods of less than
+one month is considered a hotel or motel use and is classified in the Retail Sales And
+Service category.
+2. SROs that contain programs which include common dining are classified as Group Living.
+3. Guest houses that contain kitchen facilities are prohibited as accessory to Household
+Living uses.
+42. I n certain situations, lodging where the length of stay may tenancy may be arranged for
+periods less than one month may be classified as a Community Service use, such as short
+term, housing or mass, or outdoor shelter.
+3. Lodging where tenancy is arranged on a month-to-month basis, or for a longer period, in a
+dwelling unit with more than eight bedrooms is classified as Group Living.
+
+33.920.410.B
+The reference to the term “transitional housing unit” as an accessory use to a college was initially
+implemented with the revisions for mass shelters in 2016, and it was intended to allow institutions
+to temporarily house individuals or households. However, with the expansion allowing various
+shelters as a temporary activity in 33.296, this reference to an accessory use is no longer needed.
+A new allowance for charitable meal service or food distribution is provided, as these are services
+that institutions often provide to those in need. This has been especially evident with the current
+epidemic.
+
+33.920.420.A
+This change clarifies that the shelters within the Community Service use category do not require
+any minimum length of stay, and remove the word ‘tenancy’ which implies a landlord/tenant
+relationship. In addition, the use category includes outdoor shelters as a form of Community
+Service use.
+
+33.920.420.B
+This change adds hygiene facilities to the list of allowed accessory uses. These facilities would
+likely be part of a shelter but could also be incorporated into other examples like community
+centers and social service facilities.
+
+33.920.420.C
+These changes add outdoor shelters to the list of examples and replace “soup kitchens” with
+“charitable meal service or food distribution centers” in the list of examples.
+
+Ins
+titutional Use Categories
+33.920.410 Colleges
+A. Characteristics. This category includes colleges and other institutions of higher learning which
+offer courses of general or specialized study leading to a degree. They are certified by the State
+Board of Higher Education or by a recognized accrediting agency. Colleges tend to be in
+campus-like settings or on multiple blocks.
+B. Accessory Uses. Accessory uses include offices, housing for faculty, staff and students, up to six
+transitional housing units, food service, food membership distribution, laboratories, health and
+sports facilities, theaters, meeting areas, parking, maintenance facilities, charitable meal
+service and food distribution, and support commercial. A transitional housing unit is a housing
+unit for one household and is occupied for less than 180 days within a calendar year.
+C. Examples. Examples include universities, liberal arts colleges, community colleges, nursing and
+medical schools not accessory to a hospital, and seminaries.
+D.  Exceptions. Business and trade schools are classified as Retail Sales And Service.
+33.920.420 Community Services
+A. Characteristics. Community Services are uses of a public, nonprofit, or charitable nature
+generally providing a local service to people of the community. Generally, they provide the
+service on the site or have employees at the site on a regular basis. The service is ongoing, not
+just for special events. Community centers or facilities that have membership provisions are
+open to the general public to join at any time, (for instance, any senior citizen could join a
+senior center). The use may provide mass shelter, outdoor, or short term shelter with no
+minimum length of stayhousing where tenancy may be arranged for periods of less than one
+month when operated by a public or non-profit agency. The use may also provide special
+counseling, education, or training of a public, nonprofit or charitable nature.
+B. Accessory uses. Accessory uses may include offices, meeting areas, food preparation areas,
+food membership distribution, parking, health and hygiene facilities, therapy areas, daycare
+uses, and athletic facilities
+C. Examples. Examples include libraries, museums, senior centers, community centers, publicly
+owned swimming pools, youth club facilities, hospices, ambulance stations, drug and alcohol
+centers, social service facilities, mass shelters, outdoor shelters or short term sheltershousing
+when operated by a public or non-profit agency, vocational training for the physically or
+mentally disabledpersons with disabling conditions, crematoriums, columbariums,
+mausoleums, soup kitchens, park-and-ride facilities for mass transit, and surplus food
+charitable meal service or food distribution centers.
+D. [no changes]
+
+33.920.470.B.
+The reference to the term “transitional housing unit” as an accessory use to a religious institution
+was initially expanded with the revisions for mass shelters in 2016, and it was intended to allow
+institutions to temporarily house individuals of households. However, with the expansion allowing
+various shelters as a temporary activity in 33.296, this reference to an accessory use is no longer
+needed. A new allowance for charitable meal service or food distribution is provided as these are
+services that institutions often provide to those in need, in addition to the usual food service that a
+church provides its congregants. This has been especially evident with the current epidemic.
+
+Other changes include replacement of “group living facilities” with “congregate housing facilities” to
+be consistent with our changes in definitions. The current allowance for car camping is replaced
+with the term living in vehicles which is more consistent with the state law that allows religious
+institutions to offer overnight stays. State law caps the number of allowed vehicles at three. The
+2021 Oregon Legislature may consider increasing this cap.
+
+33.920.480.B.
+The reference to the term “transitional housing unit” as an accessory use to a school was initially
+implemented with the revisions for mass shelters in 2016, and it was intended to allow institutions
+to temporarily house individuals of households. However, with the expansion allowing various
+shelters as a temporary activity in 33.296, this reference to an accessory use is no longer needed.
+A new allowance for charitable meal service or food distribution is provided as these are services
+that institutions often provide to those in need. This has been especially evident with the current
+epidemic.
+
+33.920.470 Religious Institutions
+A. Characteristics. Religious Institutions are intended to primarily provide meeting areas for
+religious activities.
+B. Accessory uses. Accessory uses include Sunday school facilities, food membership distribution,
+food service, charitable meal service and food distribution, parking, caretaker's housing, up to
+six transitional housing units, and congregate housinggroup living facilities such as convents. A
+transitional housing unit is a housing unit for one household and is occupied for less than 180
+days within a calendar year. A religious institution may allow overnight living in vehicles car
+camping for up to three vehicles as specified in ORS 203.082.
+C. Examples. Examples include churches, temples, synagogues, and mosques.
+33.920.480 Schools
+A. Characteristics. This category includes public and private schools at the primary, elementary,
+middle, junior high, or high school level that provide state mandated basic education.
+B. Accessory uses. Accessory uses include play areas, cafeterias, recreational and sport facilities,
+athletic fields, auditoriums, food membership distribution, before or after-school daycare, and
+charitable meal service and food distribution. up to six transitional housing units. A transitional
+housing unit is a housing unit for one household and is occupied for less than 180 days within a
+calendar year
+C. Examples. Examples include public and private daytime schools, boarding schools and military
+academies.
+D. Exceptions.
+1. Preschools are classified as Daycare uses.
+2. Business and trade schools are classified as Retail Sales and Service.
+
+EXH
+IBIT D: Shelter to Housing Continuum Interim Zoning Code Amendments
+33.110 Single-Dwelling Zones
+110
+33.110.100 Primary Uses
+A. Allowed uses. [No change]
+B. Limited uses. Uses allowed that are subject to limitations are listed in Table 110-1 with an "L".
+These uses are allowed if they comply with the limitations listed below and the development
+standards and other regulations of this Title. In addition, a use or development listed in the
+200s series of chapters is also subject to the regulations of those chapters. The paragraphs
+listed below contain the limitations and correspond with the footnote numbers from Table
+110-1.
+1. Community Service Uses. This regulation applies to all parts of Table 110-1 that have note
+[1]. Most Community Service uses are regulated by Chapter 33.815, Conditional Uses.
+Short term, housing and mass, and outdoor shelters have additional regulations in are
+regulated by Chapter 33.285, Short Term, Mass, and Outdoor SheltersShort Term Housing
+and Mass Shelters.
+2-10. [No change]
+C.-D. C ondit
+ional uses. [No change]
+
+33.120 Multi-Dwelling Zones
+
+33.120.100 Primary Uses
+A. Allowed uses. [No change]
+B. Limited uses. Uses allowed in these zones subject to limitations are listed in Table 120-1 with
+an “L”. These uses are allowed if they comply with the limitations listed below and the
+development standards and other regulations of this Title. In addition, a use or development
+listed in the 200s series of chapters is also subject to the regulations of those chapters. The
+paragraphs listed below contain the limitations and correspond with the footnote numbers
+from Table 120-1.
+1.-3.  [no change]
+4. Community Service and Schools in RX. This regulation applies to all parts of Table 120-1
+that have a note [34]. Most Community Service uses are regulated by Chapter 33.815,
+Conditional Uses. Short term, housing and mass, and outdoor shelters are also regulated
+by Chapter 33.285, Short Term, Mass, and Outdoor Shelters. Short Term Housing and
+Mass Shelters.
+a. Limited uses. Community Service and Schools uses are allowed in a multi-dwelling
+development if all of the Community Service and Schools uses are located on the
+ground floor. If any portion of a Community Service or Schools use is not on the
+ground floor of a multi-dwelling development, the Community Services and Schools
+uses are limited to 20 percent of the net building area;
+b. Conditional uses. If any portion of the Community Service and Schools uses is not on
+the ground floor of a multi-dwelling development and the uses exceed 20 percent of
+the total net building area, then a conditional use review is required.
+5. Community Service in RM1 through RM4 and RMP. This regulation applies to all parts of
+Table 120-1 that have a [45]. Most Community Service uses are regulated by Chapter
+33.815, Conditional Uses. Short term, housing and mass, and outdoor shelters are
+regulated by Chapter 33.285, Short Term, Mass, and Outdoor Shelters. Short Term
+Housing and Mass Shelters.
+6-11. [no change]
+
+33.130 Commercial/Mixed Use Zones
+33.130.100 Primary Uses
+A. Allowed uses. [no change]
+B. Limited uses. Uses allowed that are subject to limitations are listed in Table 130-1 with an "L".
+These uses are allowed if they comply with the limitations listed below and the development
+standards and other regulations of this Title. In addition, a use or development listed in the
+200s series of chapters is also subject to the regulations of those chapters. The paragraphs
+listed below contain the limitations and correspond with the footnote numbers from Table
+130-1.
+1-5. [no change]
+6. Community Services. This regulation applies to all parts of Table 130-1 that have a [56].
+Most Community Service uses are allowed by right. Short term, housing and mass, and
+outdoor shelters may be allowed by right if they meet certain standards, or may be a
+conditional use. See Chapter 33.285, Short Term, Mass, and Outdoor SheltersShort Term
+Housing and Mass Shelters.
+7-12. [ no change]
+C-D. [ no cha
+nge]
+
+33.140 Employment and Industrial Zones
+33.140.100 Primary Uses
+A. Allowed uses. [No change]
+B. Limited uses. Uses allowed that are subject to limitations are listed in Table 140-1 with an "L".
+These uses are allowed if they comply with the limitations listed below and the development
+standards and other regulations of this Title. In addition, a use or development listed in the
+200s series of chapters is also subject to the regulations of those chapters. The paragraphs
+listed below contain the limitations and correspond with the footnote numbers from Table
+140-1.
+1-8. [no change]
+9. Community Service uses in EG zones. This regulation applies to all parts of Table 140-1
+that have a [89]. Most Community Service uses are allowed by right. Short term, housing
+and mass, and outdoor shelters are regulated by Chapter 33.285, Short Term, Mass, and
+Outdoor SheltersShort Term Housing and Mass Shelters.
+10. Community Service in the IEX zones. This regulation applies to all parts of Table 140-1 that
+have a [910].
+a. Short term and mass shelters are prohibited. Outdoor shelters Most Community
+Service uses are allowed by right. Short term housing and mass shelters are regulated
+by Chapter 33.285, Short Term, Mass, and Outdoor Shelters Housing and Mass
+Shelters.
+b. All other Community Service uses up to 3,000 square feet of net building area are
+allowed. Uses larger than 3,000 square feet of net building area are a conditional use.
+11. Community Service and Daycare limitations in I zones. This regulation applies to all parts
+of Table 140-1 that have a [11]. Community Service uses or Daycare uses up to 3,000
+square feet of net building area are allowed. Community Service uses or Daycare uses
+larger than 3,000 square feet of net building area are a conditional use. Short term
+housing and mass shelters of any size are prohibited.
+12-17. [Renumber to 11. – 16.]
+C-D. [ No change]
+
+Table 140-1
+Employment and Industrial Zone Primary Uses
+
+Use Categories
+
+EG1
+
+EG2
+
+EX
+
+IG1
+
+IG2
+
+IH
+Residential Categories
+Household Living N N Y CU [1] CU [1] CU [1]
+Group Living N N L/CU [2] N N N
+Commercial Categories
+Retail Sales And Service  L/CU [3] L/CU [3] Y L/CU [4] L/CU [5] L/CU [6]
+Office Y Y Y L/CU [4] L/CU [5] L/CU [6]
+Quick Vehicle Servicing  Y Y N Y Y Y
+Vehicle Repair Y Y Y Y Y Y
+Commercial Parking  CU [1415] CU [1415] CU [1415] CU [1415] CU
+[1415]
+CU
+[1415]
+Self-Service Storage Y Y L [7] Y Y Y
+Commercial Outdoor Recreation Y Y Y CU CU CU
+Major Event Entertainment CU CU CU CU CU CU
+Industrial Categories
+Manufacturing And Production Y Y Y Y Y Y
+Warehouse And Freight
+Movement
+Y Y Y Y Y Y
+Wholesale Sales Y Y Y Y Y Y
+Industrial Service Y Y Y Y Y Y
+Bulk Fossil Fuel Terminal L [1617] L [1617] N L [1617] L [1617] L [1617]
+Railroad Yards N N N Y Y Y
+Waste-Related N N N L/CU [8] L/CU [8] L/CU [8]
+Y = Yes, Allowed
+CU = Conditional Use Review Required
+L = Allowed, But Special Limitations
+N = No, Prohibited
+Notes:
+The use categories are described in Chapter 33.920.
+Regulations that correspond to the bracketed numbers [ ] are stated in 33.140.100.B.
+Specific uses and developments may also be subject to regulations in the 200s series of chapters.
+
+Table 140-1
+Employment and Industrial Zone Primary Uses
+
+Use Categories
+
+EG1
+
+EG2
+
+EX
+
+IG1
+
+IG2
+
+IH
+Institutional Categories
+Basic Utilities Y/CU
+[1112]
+Y/CU
+[1112]
+Y/CU
+[1112]
+Y/CU
+[1213]
+Y/CU
+[1213]
+Y/CU
+[1213]
+Community Service L/CU [9] L/CU [9] L/CU
+[910]
+L/CU
+[1011]
+L/CU
+[1011]
+L/CU
+[1011]
+Parks And Open Areas Y Y Y Y Y Y
+Schools Y Y Y N N N
+Colleges Y Y Y N N N
+Medical Centers Y Y Y N N N
+Religious Institutions Y Y Y N N N
+Daycare  Y Y Y L/CU
+[1011]
+L/CU
+[1011]
+L/CU
+[1011]
+Other Categories
+Agriculture L [1516]  L [1516] L [1516] L [1516] L [1516] L [1516]
+Aviation And Surface Passenger
+Terminals
+
+CU
+
+CU
+
+CU
+
+CU
+
+CU
+
+CU
+Detention Facilities CU CU CU CU CU CU
+Mining N N N CU CU CU
+Radio Frequency Transmission
+Facilities
+L/CU
+[1314]
+L/CU
+[1314]
+L/CU
+[1314]
+L/CU
+[1314]
+L/CU
+[1314]
+L/CU
+[1314]
+Rail Lines And Utility Corridors Y Y Y Y Y Y
+Y = Yes, Allowed
+CU = Conditional Use Review Required
+L = Allowed, But Special Limitations
+N = No, Prohibited
+Notes:
+The use categories are described in Chapter 33.920.
+Regulations that correspond to the bracketed numbers [ ] are stated in 33.140.100.B.
+Specific uses and developments may also be subject to regulations in the 200s series of chapters.
+
+33.815 Conditional Uses
+Sections:
+General [no change]
+Approval Criteria
+33.815.100 Uses in the Open Space Zones
+33.815.105 Institutional and Other Uses in Residential and Campus Institutional Zones
+33.815.107 Short Term, Housing and Mass, and Outdoor Shelters in R, CI1, and IR Zones
+33.815.110 Office and Retail Sales And Service Uses in the RX Zone
+33.815.115 Specified Uses in Commercial/Mixed Use Zones
+33.815.120 Commercial Parking Facilities in the RX, CX, and E Zones, Outside the Central
+  City Plan District, the Columbia South Shore Plan District and the Cascade
+  Station/Portland International Center Plan District
+33.815.121 Commercial Parking Facilities in the CM2 and CM3 Zones in the
+Hollywood Plan District
+33.815.125 Specified Uses in Industrial Zones
+33.815.126 Office Uses in the IG1 Zone in the Lower Albina Subdistrict
+33.815.127 Accessory Offices and Headquarters Offices in the IH Zone in the Guild’s Lake
+  Industrial Sanctuary Plan District
+33.815.128 Retail Sales And Service Uses in the EG Zones
+33.815.129 Office Uses in Specified Historic Resources in the Industrial Zones in the Central City
+  Plan District
+33.815.130 Residential Uses in the IG1, IG2, and IH Zones
+33.815.140 Specified Mass and Outdoor Shelters And Group Living Uses in the C, CI2, E, and CI Zones
+33.815.200 Aviation And Surface Passenger Terminals
+33.815.205 Detention Facilities
+33.815.210 Helicopter Landing Facilities
+33.815.215 Major Event Entertainment
+33.815.220 Mining and Waste-Related
+33.815.222 Park-and-Ride Facilities for Mass Transit
+33.815.223 Public Safety Facilities
+33.815.225 Radio Frequency Transmission Facilities
+33.815.230 Rail Lines and Utility Corridors
+33.815.300 Commercial Parking Facilities in the Columbia South Shore Plan District
+33.815.301 Industrial Businesses in the Columbia South Shore Plan District
+33.815.302 Professional / Technical Facilities in the Columbia South Shore Plan District
+33.815.303 Retail Sales And Service Uses in the Columbia South Shore Plan District
+33.815.304 Retail Sales And Service Uses on Specified Sites in the CX and EX Zones in the Central
+City Plan District
+33.815.305 Replacement Parking Facilities in the Central City Plan District
+33.815.308 Commercial Parking in Multi-Dwelling Zones and Commercial Parking Access from
+  Main Streets in the Northwest Plan District
+33.815.310 Industrial Uses in the IR Zone
+33.815.315 Utility Scale Energy Production in Specified C Zones
+
+33.815.140 Specified Mass and Outdoor Shelters and Group Living Uses in the C, CI2, E, and CI Zones
+These criteria apply to mass and outdoor shelters in the C, CI2, E, and CI zones, or to Group Living uses
+that consist of alternative or post incarceration facilities in the C or EX zones.
+A-D. [ N o change]
+E. Additional criteria for outdoor shelters in I zones. The following criteria apply to outdoor
+shelters in I zones:
+1. The outdoor shelter must be on publicly owned property that was not identified as being
+in an industrial use or identified as vacant or underutilized land needed for future
+industrial use in the City’s inventory of buildable employment land.
+2. The shelter will not have a significant adverse effect on truck and freight movement.
+
+ORDINANCE No.
+*Amend Title 33 Planning and Zoning to facilitate the provision of shelter and housing
+options for Portlanders in need  (Ordinance; amend Code Title 33)
+The City of P
+ortland ordains:
+Section 1.
+The Council finds:
+1. On October 7,
+2015, the Council, through Ordinance 187371, declared a
+housing emergency for a period of one year.
+2. On September 7, 2016, the Council, through Ordinance 187973, extended the
+housing emergency declared by Ordinance 187371 for an additional one-year
+period.
+3. On October 4, 2017, the Council, through Ordinance 188627, further extended
+the housing emergency for another eighteen-month duration.
+4. On February 19, 2019, the Council, through Ordinance 189387, continued the
+housing emergency initially declared by Ordinance 187371, and subsequently
+extended twice, until April 4, 2021.
+5. Ordinance 189387 also directed the Bureau of Planning and Sustainability
+(BPS) to develop a legislative proposal making permanent changes to city code
+to allow for temporary housing, shelters, and alternative shelter siting. This
+directive led to the Shelter to Housing Continuum Project.
+6. The State of Emergency Declarations by City Council have allowed for the siting
+of shelters, and related services, and has expedited the design review process
+for affordable housing. These operational improvements have provided
+significant efficiencies and improvements to be able to address expedited
+affordable housing development, and to provide service locations to people
+experiencing homelessness.
+7. The population experiencing homelessness are amongst the most vulnerable
+residents of Portland. On a single night during the winter of 2019, a point-in-time
+(PIT) count recorded 4,015 people as experiencing homelessness. The
+persistence of people experiencing unsheltered homelessness, the reliance on
+our emergency shelters, and the severe shortage of affordable housing are
+circumstances that create an immediate need to provide adequate, safe, and
+habitable shelter to persons experiencing homelessness.
+8. Experiencing homelessness causes tremendous human suffering and demands
+a spectrum of emergency response that includes adequate, safe, and habitable
+shelters, affordable housing units, and appropriate supportive services. Since
+2015, the Council has recognized and responded to the ongoing affordable
+housing crisis in an emergency mode.
+Strikethrough / underlined version
+
+9. The Bureau of Planning and Sustainability, the Portland Housing Bureau, the
+Bureau of Development Services, and the Joint City-County Office of Homeless
+Services partnered on this project to retool Portland City Codes to better
+address the emergency housing needs of people experiencing homelessness or
+at risk of homelessness or displacement.
+10. The Shelter to Housing Continuum Project is intended to further fair housing
+goals by expanding shelter and housing options throughout the city.
+11. Research for this project was funded by a technical assistance grant from the
+Oregon Department of Land Conservation and Development.
+12. The Shelter to Housing Continuum Proposed Draft was released for public
+review on November 25, 2020.
+13. On October 30, 2020, notice of the Proposed Draft was mailed to the
+Department of Land Conservation and Development in compliance with the
+post-acknowledgement review process required by OAR 660-18-0020.
+14. On December 8, 2020 and December 15, 2020, the Portland Planning and
+Sustainability Commission (PSC) held public hearings on the Proposed Draft.
+The PSC voted to forward the Shelter to Housing Continuum Project to City
+Council on January 26, 2021.
+15. The Shelter to Housing Continuum Recommended Draft was released for public
+review on February 17, 2021.
+16. The Shelter to Housing Continuum Recommended Draft includes three
+volumes. Volume One contains an introduction to the proposal. Volume Two
+contains PSC-recommended amendments to Title 33, Planning and Zoning.
+Volume Three contains related amendments to other titles of Portland City Code
+being considered through a separate companion ordinance.
+17. On February 24, 2021, notice of the March 17, 2021 City Council public hearing
+on the Shelter to Housing Continuum Recommended Draft was mailed to the
+those who presented oral and written testimony at the Planning and
+Sustainability Commission public hearings and those who requested such
+notice.
+18. The Shelter to Housing Continuum Recommended Draft includes changes to
+Portland City Code to: remove barriers to the siting of shelters; enable operation
+by public agencies or nonprofit organizations of outdoor shelters where people
+can be accommodated in tents, yurts, small cabins or vehicles on sites that can
+also have supportive services such as bathrooms, laundry, and cooking
+facilities; ease restrictions on unrelated persons sharing homes in residential
+areas; and allow occupancy of a recreational vehicle, or a tiny house on wheels,
+on residential property. These changes will provide a continuum of new shelter
+and housing alternatives for people experiencing homelessness including those
+currently camping on streets and in open spaces.
+19. Due to the urgent need for shelters, the code amendments in Exhibit C related to
+removing barriers to the siting of shelters, specified in directives a, b and c, will
+go into effect immediately upon adoption by City Council.
+20. Amendments to code sections and subsection that include easing restrictions on
+unrelated persons sharing homes (i.e. changes to group living) and the
+occupancy of recreational vehicles (i.e. tiny houses on wheels)(collectively the
+“group living” code amendments), specified in directive e, will go into effect on
+August 1, 2021 in tandem with implementation of the adopted Residential Infill
+Project code changes.
+21. Some of the shelter code amendments and some of the group living code
+amendments affect the same sections or subsections of code. Because the
+group living code changes trigger rewording or renumbering, it is necessary for
+Council to adopt interim zoning code amendments that implement certain shelter
+code amendments until the sections that implement both the shelter code group
+living amendments become effective on August 1, 2021.  These amendments are
+described in directive d. As specified in Section 2 of this ordinance, the interim
+zoning code amendments in directive d go into effect immediately upon adoption
+by Council and sunset on August 1, 2021, at which time the changes in directive
+e go into effect, triggering the reorganization or rewording of the section or
+subsection.
+22. The Findings of Fact Report, attached as Exhibit A, includes additional findings
+demonstrating consistency with the Statewide Planning Goals, Metro Urban
+Growth Management Functional Plan, and the City of Portland 2035
+Comprehensive Plan.
+
+NOW, THEREFORE, the Council directs:
+
+a. Adopt Exhibit A—As-Amended as additional findings
+b. Adopt Exhibit B, Shelter to Housing Continuum Recommended Draft Volume
+One, dated February 2021, and the commentary in Exhibit C, Shelter to
+Housing Continuum Recommended Draft Volume Two—As-Amended, dated
+February April 2021, as legislative intent and further findings.
+c. Amend Title 33, Planning and Zoning, of the Municipal Code of the City of
+Portland as shown in Exhibit C, Shelter to Housing Continuum
+Recommended Draft Volume Two—As-Amended, dated February April 2021,
+but excluding the amendments to Title 33, Planning and Zoning List of
+Chapters, Table of Contents, 33.110.100, 33.110.200, 33.110.210, Table
+110-4, 33.110.225, 33,110.265, 33.120.100, Table 120-2, 33.120.213,
+33.120.240, 33.130.100, 33.130.207, 33.130.228, 33.140.100,
+33.150.100.B.9; 33.200 Table of Contents, 33.205.040.C, 33.207.040,
+33.207.050, 33.236.030, 33.239, 33.260, 33.266.110, Table 266-2, 33.270,
+33.815.140, 33.920.100, 33.920.110, the following terms in 33.900 List of
+Terms: Congregate Housing Facility, Group Living Facility, Household,
+Residential Structure Types, Single Room Occupancy Housing (SRO), and
+the following definitions in 33.910.030: Congregate Housing Facility, Density,
+Group Living Structure, Household, Residential Structure Types, Single Room
+Occupancy Housing (SRO), Vehicle Types.
+d. Amend 33.110.100, 33.120.100, 33.130.100, 33.140.100, and 33.815.140 as
+shown in Exhibit D, Shelter to Housing Continuum Interim Zoning Code
+Amendments.
+e. Amend Title 33, Planning and Zoning List of Chapters, Table of Contents,
+33.110.100, 33.110.200, 33.110.210, Table 110-4, 33.110.225, 33,110.265,
+33.120.100, Table 120-2, 33.120.213, 33.120.240, 33.130.100, 33.130.207,
+33.130.228, 33.140.100, 33.150.100.B.9; 33.200 Table of Contents,
+33.205.040.C, 33.207.040, 33.207.050, 33.236.030, 33.239, 33.260,
+33.266.110, Table 266-2, 33.270, 33.815.140, 33.920.100, 33.920.120, the
+following terms in 33.900 List of Terms: Congregate Housing Facility, Group
+Living Facility, Household, Residential Structure Types, Single Room
+Occupancy Housing (SRO), and the following definitions in 33.910.030:
+Congregate Housing Facility, Density, Group Living Structure, Household,
+Residential Structure Types, Single Room Occupancy Housing (SRO),
+Vehicle Types, of the Portland City Code as shown in Exhibit C, Shelter to
+Housing Continuum Recommended Draft Volume Two—As-Amended, dated
+February April 2021.
+Section 2. The Council declares that an emergency exists because the city is
+experiencing a housing crisis and, for humanitarian reasons, immediate action is
+necessary; therefore, directives a, b and c shall be in full force and effect from and after
+passage by the Council on April 30, 2021, directive d shall be in full force and effect from
+and after passage by the Council April 30, 2021 until August 1, 2021, and directive e shall
+be in full force and effect on August 1, 2021.
+
+Section 3. If any section, subsection, sentence, clause, phrase, diagram or drawing
+contained in this ordinance, or the map, report, inventory, analysis, or document it adopts
+or amends, is held to be deficient, invalid or unconstitutional, that shall not affect the
+validity of the remaining portions. The Council declares that it would have adopted the
+map, report, inventory, analysis, or document each section, subsection, sentence, clause,
+phrase, diagram and drawing thereof, regardless of the fact that any one or more sections,
+subsections, sentences, clauses, phrases, diagrams or drawings contained in this
+Ordinance, may be found to be deficient, invalid or unconstitutional.
+
+Passed by the Council:
+
+Mayor Wheeler & Commissioner Rubio
+Prepared by: Eric Engstrom
+Date Prepared: February 17 April 20, 2021
+Mary Hull Caballero
+Auditor of the City of Portland
+By
+
+   Deputy
+
+DATE: March 31, 2020
+TO: City Council and Interested Parties
+FROM: Eric Engstrom, Principal Planner
+CC: Joe Zehnder, Chief Planner
+SUBJECT: Shelter to Housing Amendments for Consideration
+
+Attached are packages of potential amendments to the Shelter to Housing Continuum for Council’s
+consideration today (March 31, 2021). Strikethrough and underline is used to mark changes relative to
+current code. Text shading is for informational purposes to highlight where the text amendment occurs.
+The amendment packages includes:
+
+Topic Amendment Notes
+Parks, Natural
+Areas and Open
+Spaces
+1.1. Prohibit temporary shelter in natural area overlays in all zones. – p. 2
+1.2. Prohibit temporary outdoor shelters in the OS zone.
++ make technical change to list of natural area overlays – p. 3
+
+These amendments are combined into
+one temporary activity standard
+because they all impact the same
+clauses in code.
+ 1.3. Examine surplus City property for suitability for transitional shelter
+accommodations and affordable housing. – p. 4
+
+Shelters
+Generally
+2.1. Rewording of Outdoor shelter definition for clarity. – p. 5 Technical fix
+ 2.2. Allow shelters without Conditional Use up to 20 beds on institutional
+sites in single-dwelling zones. – p. 6
+Allows all 3 shelter types
+ 2.3. Reduce site size standard for outdoor shelters to 3,000 sq. ft. – p. 10
+ 2.4. Drop 17.44 element. – p.11 Address topic with a future Title 17
+update. In the meantime 17.24
+addresses this adequately.
+RVs and Tiny
+Houses
+3.1. Discuss RV/tiny houses on wheels element in future hearing. – p. 12
+Group Living 4.1. Clarify allowed building mass (FAR) for congregate structures in single
+dwelling zones. – p. 14
+Technical fix
+ 4.2. Clarify outdoor area requirements for congregate structures. - p. 16 Technical fix
+ 4.3. Clarify parking requirements for congregate structures. – p. 18 Technical fix
+ 4.4. Clarify short term rental occupancy due to removal of household
+definition. – p. 20
+Technical fix
+
+Commentary: Prohibit non-emergency temporary mass and outdoor shelters from natural areas in all
+zones. Prohibit non-emergency temporary outdoor shelters from OS zones. Temporary indoor mass
+shelters would still be permitted.
+
+33.296.030 Temporary Activities Allowed
+A-F.  [No change]
+G. Natural disasters and emergencies. Temporary activities and structures needed as the result of
+a natural disaster, shelter shortage, or other health and safety emergencies are allowed for the
+duration of the emergency. Temporary activities include food, water, and equipment
+distribution centers, medical facilities, short term shelters, mass shelters, outdoor shelters,
+warming or cooling shelters, and triage stations.
+H. Mass and outdoor shelters.
+
+1.  Mass shelters. Mass shelters are allowed as a temporary activity for up to 180 days within a
+calendar year.
+
+2.  O utdoor shelters. Outside of OS zones, outdoor shelters are allowed as a temporary activity
+for up to 180 days within a calendar year when the outdoor shelter is located outside of
+Environmental overlay zones, the River Natural overlay zone, the River Environmental
+overlay zone, the Pleasant Valley Natural Resource overlay zone, and the special flood
+hazard area.
+
+IH. Radio Frequency Transmission Facilities. Temporary facilities for personal wireless service
+facilities are allowed for up to 120 days in a calendar year. Meeting this regulation must be
+documented through a zoning permit.
+JI. Commercial filming. In all zones, commercial filming is allowed as a temporary activity. For all
+sites, except sites in the OS zone, the time between filming events must be four times as long
+as the duration of the last event.
+
+1.1 and 1.2 – Open Space and Natural Areas
+Commentary: Clarification related to permanent outdoor shelters, to make the list of excluded overlays
+match for both permanent and temporary shelters:
+
+Amend 33.285.050.C.1:
+1. An outdoor shelter is prohibited in:
+a.  Environmental overlay zones;
+b.  Pleasant Valley Natural Resource overlay zones;
+c.  River Natural overlay zones;
+d.  River Environmental overlay zones;
+e.  Scenic overlay zones; and
+f.  The special flood hazard area.
+
+Commentary: This additional directive would be part of the Shelter to Housing Continuum adopting
+ordinance (outside of the Zoning Code), asking bureaus to identify all surplus land that could be the
+subject of a future planning action.
+
+New Directive:
+• Council directs all City bureaus to inventory their land portfolio and identify candidate sites for
+land that could be determined excess to the needs of the bureau responsible for the land per
+Binding City Policy ADM 13.02, considered for re-zoning, and converted to transitional shelter
+accommodations and affordable housing by October 31, 2021.  Bureaus will identify land that
+does not have a property use restriction on title that cannot be changed solely by the City, is
+not a developed park, does not provide a natural resource value, and does not have natural
+hazard risks. Candidate sites must not have been acquired through restricted funding sources
+such as rates, federal/state/other grants, bond measures, System Development Charges, or by
+donation with restrictive covenants, unless purchasing the site with General Fund dollars would
+resolve the restrictions. Council will consider sites identified by bureaus and provide further
+direction as appropriate (quasi-judicial or legislative re-zoning, ownership transfers, additional
+community engagement, further planning, etc.).
+
+1.3 Examine surplus City property for suitability for transitional shelter accommodations and affordable housing
+
+Commentary:This amendment revises the wording of the definition of outdoor shelter in both Title 33
+and Title 30 to clarify that a vehicle used for sleeping/shelter is considered an individual shelter when
+part of any outdoor shelter. Also since outdoor shelters might not always include buildings, it isn’t clear
+that alternative sanitary facilities can be included. The wording in the Recommended Draft was unclear
+on these provisions and could be misinterpreted. The definition has been reworded so the entire
+provision is shown as shaded.
+
+Existing Recommendation:
+
+Outdoor Shelter. Individual tents, yurts, huts, cabins or other similar individual shelters that do not
+contain sanitary or cooking facilities, vehicles, and recreational vehicles with or without cooking and
+sanitary facilities, grouped together in an outdoor setting. The shelter is managed by a public agency or
+a nonprofit agency, with or without a fee, and with no minimum length of stay. An outdoor shelter may
+or may not include buildings that have food preparation or shower facilities. See also Mass Shelter and
+Short Term Shelter.
+
+Amended Language:
+Amend 33.910.030:
+Outdoor Shelter. Individual shelters grouped together in an outdoor setting. Examples of individual
+shelters include tents, yurts, huts, cabins, vehicles or other similar accommodation that do not contain
+sanitary or cooking facilities, and recreational vehicles with or without cooking and sanitary facilities.
+The shelter is managed by a public agency or a non-profit agency, with or without a fee, and with no
+minimum length of stay. An outdoor shelter may or may not include buildings that have food
+preparation or sanitary facilities. See also Mass Shelter and Short Term Shelter.
+
+Amend 30.01.030:
+Q. “Outdoor Shelter”. Individual shelters grouped together in an outdoor setting. Examples of individual
+shelters include tents, yurts, huts, cabins, vehicles or other similar accommodation that do not contain
+sanitary or cooking facilities, and recreational vehicles with or without cooking and sanitary facilities.
+The shelter is managed by a public agency or a non-profit agency, with or without a fee, and with no
+minimum length of stay. An outdoor shelter may or may not include buildings that have food
+preparation or sanitary facilities. See also Mass Shelter and Short Term Shelter.
+
+2.1. Rewording of Outdoor shelter definition for clarity
+
+Commentary: Similar to the approach adopted in 2020 for affordable housing, this change would allow
+religious institutions and similar institutional uses, except for Parks and Open Areas, in single dwelling
+zones to host small shelters without a conditional use review. Code language is amended so that these
+institutions could include either indoor (short term or mass) or outdoor shelters.
+
+For reference, the current S2HC recommendation allows:
+• Indoor shelters as a Type 2 Conditional Use if on the site of an Institutional Use in single dwelling
+zones.
+• Outdoor shelters with up to 20 individual shelters are a Type 2 Conditional Use if on the site of an
+institutional Use in single dwelling zones.
+• Outdoor shelters with more than 20 individual shelters are prohibited in the single dwelling
+zones.
+• Shelters serving domestic violence victims are allowed by right up to 3,500 square feet, even if
+not part of an institution.
+• Religious institutions are allowed to host a limited number of people camping in vehicles under
+Oregon Revised Statutes, Chapter 203, Section 08.
+
+Amend 33.285.040.A.1
+1. R , CI1, and IR zones. A nNew short term shelterhousing, an expansion of net building area,
+or an increase in the number of occupants in an existing short term shelterhousing in R,
+CI1, and IR zones is subject to the following regulations:
+a. Allowed use. A nNew short term shelterhousing and alterations to an existing short
+term shelterhousing is allowed as followsif it meets one of the following:
+(1) A short term shelter with up to 20 beds is an allowed used in the RF – R2.5
+zones when provided on the site of an existing institutional use, excluding sites
+in a Parks and Open Areas use,  and the standards of 33.285.050 are met.
+(21) A sShort term shelterhousing withfor up to 3015 beds is an allowed use in the
+RM1 – RMP, CI1, and IR zones if it iswhen provided on the site of an existing
+Institutional Use and meets the standards of 33.285.050 are met.
+(32) An alteration or expansion that does not increase the net building area of the
+short term shelterhousing by more than 10 percent is allowed if there is no
+increase in the number of beds or occupants and if the alteration or expansion
+complies with all conditions of approval.
+
+2.2. Allow shelters without Conditional Use up to 20 beds on institutional sites in single-dwelling zones
+Amend 33.285.040.B
+B. Mass shelters.
+1. RF through R2.5 zones. Generally, new mass shelters, expansions of net building area and
+increases in the number of occupants in existing mass shelters in RF through R2.5 zones
+are a conditional use and are, reviewed through the following procedures. Certain
+alterations to existing mass shelters may be allowed if they meet Subparagraph B.1.b. The
+standards of Section 33.285.050 do not apply to mass shelters reviewed as conditional
+uses.
+a. New mass shelters. The following procedures apply to new mass shelters and
+alterations to mass shelters that do not meet subparagraph B.1.b. The approval
+criteria are in Section 33.815.107, Short Term Housing and Mass Shelters in R and IR
+Zones:
+(1) If the mass shelter is provided in an existing structure or is on a site of an
+existing Institutional Use, the conditional use is reviewed through a Type II
+procedure. An existing structure is one that is at least 5 years old and has not
+had an increase of more than 10 percent in net building area
+in 5 years.
+(2) All other mass shelters are reviewed through a Type III procedure.
+b. Existing mass shelters. An alteration or expansion that does not increase net building
+area of the mass shelter by more than 10 percent is allowed if there is no increase in
+the number of beds or occupants and if the alteration or expansion complies with all
+conditions of approval.
+12. RF-R2.5, RM1, RM2, RMP, CI1 and IR zones. Applicants for a new mass shelter or
+expansion of net building area or increase in the number of occupants in an existing mass
+shelter in RM1, RM2, RMP, CI1 and IR zones may choose to be an allowed use or a
+conditional use, as stated below.
+a. Allowed use. A new mass shelter and alteration of an existing mass shelter is allowed
+if it meets one of the following:
+(1) A mass shelter that meets the standards of Section 33.285.050 is an allowed
+use.
+(2) An alteration or expansion that does not increase net building area of the mass
+shelter by more than 10 percent is allowed if there is no increase in the number
+of beds or occupants and if the alteration or expansion complies with all
+conditions of approval.
+b. Conditional use. If the mass shelter does not meet Subparagraph B.2.a, it is a
+conditional use as follows. The approval criteria are in Section 33.815.107, Short
+Term, Housing and Mass, and Outdoor Shelters in R, CI1, and IR Zones. The standards
+of Section 33.285.050 do not apply to a mass shelter reviewed as a conditional use.
+(1) If the mass shelter is provided in an existing structure or is on athe site of an
+existing iInstitutional uUse, the conditional use is reviewed through a Type II
+procedure. An existing structure is one that is at least 5 years old and has not
+had an increase of more than 10 percent in net building area within the pastin 5
+years.
+(2) All other mass shelters are reviewed through a Type III procedure.
+Renumber 3-6 to 2-5.
+Amend 33.285.040.C:
+C. Outdoor shelters.
+2. R, CI1, and IR zones. A new outdoor shelter, and an alteration or expansion of an existing
+outdoor shelter in R, CI1, and IR zones is subject to the following regulations:
+a. Allowed use. A new outdoor shelter, or an alteration to an existing outdoor shelter is
+allowed if it meets one of the following:
+(1) An outdoor shelter with up to 20 individual shelters is an allowed use in the RF
+through R2.5 zones when provided on the site of an existing institutional use,
+excluding sites in a Parks and Open Areas use, and the standards of 33.285.050
+are met.
+(2) An outdoor shelter with up to 30 individual shelters is an allowed use in the
+RM1, RM2, RMP, CI1, and IR zones when the standards of 33.285.050 are met.
+(3) An outdoor shelter with up to 60 individual shelters is an allowed use in the
+RM3, RM4, and RX zones when the standards of 33.285.050 are met.
+(4) An alteration or expansion that does not increase the net building area or site
+area of the outdoor shelter by more than 10 percent is allowed if there is no
+increase in the number of individual shelters and if the alteration or expansion
+complies with all conditions of approval.
+b. Prohibited use. Outdoor shelters with more than 20 individual shelters are prohibited
+in the RF through R2.5 zones.
+c. Conditional use. If the outdoor shelter does not meet Subparagraph C.2.a, and it is
+not prohibited, it is a conditional use and is reviewed through the following
+procedures. The approval criteria are in 33.815.107, Short Term, Mass, and Outdoor
+Shelters in R, CI1, and IR Zones. The outdoor shelter must also meet the standards of
+33.285.050:
+(1) If the outdoor shelter is on the site of an existing institutional use, the
+conditional use is reviewed through a Type II procedure.
+(2) All other outdoor shelters are reviewed through a Type III procedure.
+
+Amend Table 285-1 in 33.285.050.B.2:
+
+Table 285-1
+Maximum Number of Shelter Beds for Mass Shelters
+
+Zone of Site Maximum
+Number of Shelter Beds
+EX, CX, CM3, and CE 200
+CM2 and CI2 75140
+CR, CM1, and CI1 25
+RX, RM3, and RM4 5060
+RM1, RM2, RMP, CI1, IR, CR, CM1 [1] 1530
+RF-R2.5 [1] 20
+Notes:
+[1] The mass shelter must be operated on the site of an existing iInstitutional uUse, excluding
+sites in a Parks and Open Areas use.
+
+Commentary: Reduce the minimum site size for an Outdoor Shelter from 5,000 to 3,000 square feet.
+Note that site is defined as “ownership” within the provisions of the Zoning Code, not by area defined
+specific to the use. As an example, a church on a 40,000 square foot lot with an outdoor shelter on part
+of it is defined as having a minimum site size of 40,000 square feet.
+Amend 33.285.050.C.2:
+
+2.  Minimum and maximum site size.
+
+a. The minimum required site size for an outdoor shelter is 3,000 square feet. Adjustments are
+prohibited.
+b. In I zones, the maximum site size for an outdoor shelter is 2 acres. Adjustments are prohibited.
+
+2.3. Reduce site size standard for outdoor shelters to 3,000 sq. ft.
+
+Commentary: This amendment deletes the recommended amendments to Title 17.44.B because there
+are some remaining technical issues that PBOT has raised with this section. PBOT will be embarking on a
+Title 17 code overhaul and will continue to examine that section as part of it. We are confident that this
+will not impact the City or County's ability to continue putting portable restrooms and sanitation services
+in the right of way via other existing code authorities. In addition, this amendment will remove related
+references to the Title 17.44.B amendment from Vol. 1.
+
+Delete recommended amendments to 17.44.B
+(the recommended amendments are show below for reference only)
+
+(B. It is unlawful for any person to erect or cause to be erected any structure in,
+over or upon any dedicated street area, except that Director of the Bureau of
+Transportation may, based on findings of necessity, grant permission for walls,
+fences and steps, that otherwise comply with the Code of the City. Also, on
+buildings whose front is located on the property line, the Director of the Bureau of
+Transportation may allow decorative facings, certain types of utility meters, utility
+valves, and other utility appurtenances, to extend into the street area an amount
+that does not interfere with the public use of said street. The Director of the
+Bureau of Transportation, upon determining a public need for areas occupied by
+such walls, fences, steps, facings, or utility meter valves and other appurtenances,
+may revoke said permission and the property owner or utility will be required to
+remove them from the street area.
+
+B. It is unlawful to place, or cause to be placed, any obstruction within, upon or
+above any dedicated street area unless the Director of the Bureau of
+Transportation has, based on findings of necessity, granted a revocable permit to
+allow:
+
+1. Walls, fences and steps that otherwise comply with the Portland City Code,
+2. Decorative facings on buildings that front on a property line,
+3. Utility meters, utility valves, and other utility appurtenances that do not
+significantly interfere with public use of dedicated street area, or
+4. Portable sanitation, health, hygiene, day storage, and kitchen facilities.
+
+The Director of the Bureau of Transportation, upon determining a public need for
+a street area occupied by any of the above, may revoke a permit and the holder of
+the revoked permit will be required to remove all obstructions from the street
+area.)
+
+2.4. Drop 17.44 element
+
+Commentary: There has been a request to discuss the RV/tiny houses on wheels elements of the project
+in future hearing to allow more public comment. There is no amendment at this time. The existing
+recommendations are shown below for reference.
+
+29.50.050 Illegal Residential Occupancy.
+When a property has an illegal residential occupancy, including but not limited to occupancy of tents,
+campers, motor homes, recreational vehicles, or other structures or spaces not intended for permanent
+residential use or occupancy of spaces constructed or converted without permit, the use shall be abated
+or the structure brought into compliance with the present regulations for a building of the same
+occupancy.
+
+Residential occupancy of structures or spaces not intended for permanent residential use or occupancy
+is unlawful, including but not limited to structures placed, constructed or converted without permit;
+tents, campers, motor homes, recreational vehicles, and other vehicles.
+
+A. Exceptions:
+1. Individual sleeping accommodations within outdoor shelters legally established in
+conformance with Portland City Code Chapters 33.285 or 33.815, or allowed as temporary
+occupancies under Portland City Code Chapter 33.296;
+
+2. Vehicles on institutional property as allowed by Oregon Revised Statutes, Chapter 203,
+Section 082;
+
+3. Recreational vehicles within in a manufactured dwelling park or mobile home park as
+provided by Oregon Revised Statues, Chapter 197, Section 493;
+
+4. Motor homes and recreational vehicles within a recreational vehicle park allowed as a
+commercial use by Portland City Code Chapters 33.130 or 33.140; and
+
+5. One occupied recreational vehicle provided:
+
+a. The recreational vehicle is on a site with a house, attached house, or manufactured
+home. See Portland City Code Chapter 33.260.
+
+b. The recreational vehicle is a travel trailer, park model recreational vehicle, camper or
+motor home.
+
+c. A permanent recreational vehicle utility hookup that includes an electrical outlet, a
+water connection, and a sanitary sewer dump is provided on the site. A water
+connection and sanitary sewer dump is not required if the vehicle lacks internal
+3.1. Discuss RV/tiny houses on wheels element in future hearing
+plumbing.
+
+6. Camping under emergency circumstances as authorized by Portland City Code Sections
+14A.50.020 B., 33.296.030, or by declaration by the Mayor.
+
+B. When a property has an illegal residential occupancy, the use shall be abated or brought into
+compliance with the current regulations for a space of the same occupancy.
+
+Title 33 elements:
+
+33.260.010 Purpose
+Title 29 of the Portland City Code allows the residential occupancy of recreational vehicles under certain
+circumstances. This chapter provides direction on how Title 33 regulations apply to occupied
+recreational vehicles.
+
+33.260.020 When This Chapter Applies
+This chapter applies to an occupied recreation vehicle on a site with a house, attached house, or
+manufactured home.
+
+33.260.030 Occupied Recreational Vehicles
+An occupied recreational vehicle is a vehicle and is not a building, structure or dwelling unit in terms of
+Title 33. The following standards clarify how Title 33 applies to an occupied recreational vehicle.
+
+A. Parking. Chapter 33.266 applies to both occupied and unoccupied recreational vehicles. The
+development standards in 33.266 that apply to parking area and recreational vehicles on a site also
+apply occupied recreational vehicles.
+
+A. Density. Because an occupied recreational vehicle is not a dwelling unit, building or structure it does
+not count toward minimum or maximum density or FAR.
+
+C. Other development standards. Occupied recreational vehicles are not subject to development
+standards in this Title that apply to buildings or structures. However, structures attached to an occupied
+recreational vehicle are subject to all applicable development standards in this Title.
+
+D. Accessory short-term rentals. An occupied recreational vehicle is prohibited from being an accessory
+short-term rental.
+
+Commentary: The Residential Infill Project (adopted 8/12/20; effective 8/1/21) applies a maximum floor
+area ratio (FAR) to development in the R.25, R5 and R7 single-dwelling residential zones. The FAR
+limitation is graduated based on the number of dwelling units there are on a site. The Shelter to Housing
+Continuum project is introducing a new residential structure type to the zoning code that is not a
+dwelling unit—a congregate housing facility. This technical amendment clarifies which FAR limitation
+applies to a site with a congregate housing facility. The amendment was inadvertently left out of the
+Proposed Draft.
+
+Amend 33.110.210.B:
+B. Maximum FAR. Maximum floor area ratios are stated in Table 110-4. The maximum FAR
+allowed is based on the total number of dwelling units on the site and whether a bonus option
+is chosen. The maximum FAR for a site with a congregate housing facility is the same as shown
+in Table 110-4 for a site with 1 total dwelling unit. The maximum FAR for institutional uses is
+stated in 33.110.270. Adjustments to the maximum FAR ratios, including bonus ratios, are
+prohibited.
+Amend Table 110-4:
+
+Table 110-4
+Summary of Development Standards In Single-Dwelling Zones
+
+Standard
+
+RF
+
+R20
+
+R10
+
+R7
+
+R5
+
+R
+2
+.
+5
+
+Maximum FAR
+- 1 total dwelling unit [1]
+- 2 total dwelling units [12]
+- 3 or more total dwelling
+units [1]
+(See 33.110.210 and
+33.110.265)
+
+no limit
+
+no limit
+
+no limit
+
+0.4 to 1
+0.5 to 1
+0.6 to 1 [23]
+
+0.5 to 1
+0.6 to 1
+0.7 to 1 [23]
+
+0.7 to 1
+0.8 to 1
+0.9 to 1 [23]
+Maximum FAR with Bonus
+- 1 total dwelling unit
+- 2 total dwelling units [12]
+- 3 or more total dwelling
+units [1]
+(See 33.110.210 and
+33.110.265)
+
+NA
+
+NA
+
+NA
+
+0.4 to 1
+0.6 to 1
+0.7 to 1
+
+0.5 to 1
+0.7 to 1
+0.8 to 1
+
+0.7 to 1
+0.9 to 1
+1 to 1
+4.1. Clarify allowed building mass (FAR) for congregate structures in single dwelling zones
+Maximum Height
+(See 33.110.215)
+30 ft. 30 ft. 30 ft. 30 ft. [23] 30 ft. [23] 35 ft.
+Minimum Setbacks
+- Front building
+setback
+- Side building
+setback
+- Rear building
+setback
+- Garage entrance
+setback
+(See 33.110.220)
+
+20 ft.
+
+10 ft.
+
+10 ft.
+
+18 ft.
+
+20 ft.
+
+10 ft.
+
+10 ft.
+
+18 ft.
+
+20 ft.
+
+10 ft.
+
+10 ft.
+
+18 ft.
+
+15 ft.
+
+5 ft.
+
+5 ft.
+
+18 ft.
+
+10 ft.
+
+5 ft.
+
+5 ft.
+
+18 ft.
+
+10 ft.
+0/5 ft.
+5 ft.
+18 ft.
+Maximum Building
+Coverage
+(See 33.110.225)
+See Table
+110-6
+See Table
+110-6
+See Table
+110-6
+See Table
+110-6
+See Table
+110-6
+See Table
+110-6
+Required Outdoor Area
+- Minimum area
+
+- Minimum dimension
+(See 33.110.240235)
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+200 sq. ft.
+10 ft. x
+10 ft.
+[1] Including any site with a congregate housing facility.
+[12] Including accessory dwelling units.
+[23] Additional FAR and height may be allowed. See 33.110.265.F.
+
+Commentary: Outdoor area requirements in the multi-dwelling and commercial mixed-use zones are
+based on number of dwelling units. The Shelter to Housing Continuum project is introducing a new
+residential structure type to the zoning code that is not a dwelling unit—a congregate housing facility.
+This technical amendment clarifies how the outdoor area requirement applies to residential uses and
+how it applies to a congregate housing facility. The amendment was inadvertently left out of the
+Proposed Draft.
+
+Amend 33.120.240.B:
+B. Outdoor area and common area requirements. In the RM1 through RM4 zones, on sites with a
+residential use, both outdoor and common areas are required. Required common area may
+count toward required outdoor area, but individual private outdoor area may not count toward
+required common area. The standards of this section do not apply in the RX and RMP zones.
+1. [No change]
+2. Required common area.
+a. Required common area standard. On sites that are more than 20,000 square feet in
+total site area, and on sites with a congregate housing facility, at least 10 percent of
+total site area must be provided as common area. At least 50 percent of the required
+common area must be outdoor area, such as outdoor courtyards or outdoor play
+areas. Up to 50 percent of the required common area may be indoor common area,
+such as indoor recreation facilities or indoor community rooms.
+b. Exemption. The required common area standard does not apply to sites where:
+1. (1) All of the dwelling units have individual entrances that are within 20
+feet of a street lot line;
+2. (2) Each entrance is connected to the street by a path that is at least 3 feet
+wide and hard surfaced; and
+3. (3) Each dwelling unit has at least 200 square feet of individual outdoor
+area with a minimum dimension of 10 feet by 10 feet.
+Amend 33.130.228.B.1:
+1. Amount required:
+a. On sites that are up to 20,000 square feet in total area, at least 36 square feet of
+outdoor area is required for each dwelling unit on the site;
+b. For sites that are more than 20,000 square feet in total area, at least 48 square feet
+of outdoor area is required for each dwelling unit on the site.;
+4.2. Clarify outdoor area requirements for congregate structures
+c. For any site with a congregate housing facility, at least 10 percent total site area must
+be provided as common area.
+
+Commentary: As part of the Residential Infill Project, City Council eliminated minimum parking
+requirements for Household Living uses in single-dwelling zones. The Shelter to Housing Continuum
+project is amending the zoning code to treat Group Living uses more like Household Living uses in single-
+dwelling zones and as such, this technical amendment aligns the minimum parking requirements for
+Household and Group Living uses in the single- zones. This amendment also eliminates a remaining
+reference to the SRO residential structure type and updates the minimum parking requirement for Group
+Living (when a conditional use is required) to relate to bedrooms rather than residents. Both of these
+technical changes are consistent with other changes recommended as part of the Shelter to Housing
+Continuum project.
+
+Amend 33.266.110.B.2:
+2. Minimum for sites located far from transit. For sites located more than
+1500 feet from a transit station, or more than 500 feet from a transit
+street with 20-minute peak hour service the following minimum parking
+requirements apply:
+a. Household Living uses.
+(1) Single- dwelling zones. No parking is required for Household Living uses in the
+single-dwelling zones.
+(2) All other zones. The minimum number of parking spaces required for
+Household Living uses in all other zones is stated in Table 266-1.
+b. All other uses.
+(1) Group Living. No parking is required for Group Living uses in single-dwelling
+zones that do not require a conditional use review. The minimum number of
+parking spaces required for all other Group Living uses is stated in Table 266-1.
+(2) All other uses. The minimum number of parking spaces required is stated in
+Table 266-1.
+
+4.3. Clarify parking requirements for congregate structures
+Amend Table 266-2 (Residential Categories only):
+
+Table 266-2
+Parking Spaces by Use [2]
+(Refer to Table 266-1 to determine which standard applies.)
+
+Use Categories
+
+Specific Uses
+
+Standard A
+
+Standard B
+Residential
+Categories
+
+Household Living  1 per 2 units, except
+SROs exempt
+None, except 1.35 per
+unit on sites that are
+both in a
+commercial/mixed use
+or multi-dwelling zone
+and close to transit
+(close to transit is
+described in
+33.266.110.B.1.)
+Houses, attached houses
+and duplexes are
+exempt.
+Group Living  1 per 4
+residentsbedrooms
+None
+
+Commentary: This amendment retains the limit on the number of guests allowed in a Type A accessory
+short-term rental (ASTR). The current code effectively limits the number of guests in Type A ASTR (i.e.
+renting no more than 2 bedrooms) to 5 by limiting the number of residents and guests to no more than is
+allowed for a household. The Shelter to Housing Continuum project is removing the definition of
+household, so the language for the number of guests allowed in a Type A ASTR needs to be revised to
+ensure that the current limit is continued. (Note original proposal eliminated this provision, and this
+revision keeps a portion of it to limit total number of guests.)
+
+Amend 33.207.040.B.5
+5. Number of residents and guests. The totalmaximum number of residents and guests
+occupying a dwelling unit with a Type A accessory short-term rental may not exceed 5the
+number allowed for a household. For sites with an accessory dwelling unit, the total
+number of residents and guests occupying both dwelling units may not exceed the
+number allowed for a household.
+
+4.4. Clarify short term rental occupancy due to removal of household definition
+Summary of S2HC Amendments Discussed by Council
+Preliminary staff-prepared language follows below. Note that in some cases more than one amendment
+modifies the same section. Overlapping language will be reconciled prior to the final vote. Shaded text
+indicates the amendment. Strikethrough and underline marks changes from current code.
+
+Updated 3/24/21
+
+Topic Amendment Notes
+Parks, Natural
+Areas and Open
+Spaces
+1.1. Prohibit temporary shelter in natural
+area overlays in all zones
+
+ 1.2. Limit temporary shelters in the OS
+zone to indoor mass shelters or to
+outdoor shelters in paved parking lots
+
+ 1.3. Allow permanent shelters in OS via
+an act of Council
+A. Through a Type 3 or
+4 Conditional Use
+
+OR
+
+B. Alternatively, a
+directive to ID sites for
+future rezone
+Shelters
+Generally
+2.1. Rewording of Outdoor shelter
+definition for clarity
+Technical fix
+ 2.2. Allow shelters without Conditional
+Use up to 20 beds on institutional sites in
+single-dwelling zones
+
+ 2.3. Reduce site size standard for outdoor
+shelters to 3,000 sq. ft.
+
+ 2.4. Drop 17.44 element  PBOT would carry this
+topic with a future Title
+17 update. In the
+meantime 17.24
+addresses this
+adequately.
+RVs and Tiny
+Houses
+3.1. Discuss RV/tiny houses on wheels
+element in future hearing
+
+Group Living 4.1. Clarify allowed building mass (FAR)
+for congregate structures in single
+dwelling zones
+Technical fix
+ 4.2. Clarify outdoor area requirements
+for congregate structures
+Technical fix
+ 4.3. Clarify parking requirements for
+congregate structures
+Technical fix
+ 4.4. Clarify short term rental occupancy
+due to removal of household definition
+Technical fix
+
+1.1 SHELTERS - EXCLUDE NATURAL RESOURCE OVERLAYS
+Prohibit the new non-emergency related temporary mass and outdoor shelter allowance from natural
+areas in all zones.
+Amend 33.296.030.H:
+H. Mass and outdoor shelters. Mass shelters and outdoor shelters are allowed as a temporary
+activity in all zones except for Environmental overlay zones, the River Natural overlay zone, the
+River Environmental overlay zone, and the Pleasant Valley Natural Resource overlay zone. The
+temporary shelter is allowed for up to 180 days within a calendar year.
+
+Clarification related to permanent outdoor shelters, to make the list of excluded overlays match for both
+permanent and temporary shelters:
+Amend 33.285.050.C.1:
+1. An outdoor shelter is prohibited in:
+a. Environmental overlay zones;
+b. Pleasant Valley Natural Resource overlay zones;
+c. River Natural overlay zones;
+d. River Environmental overlay zones;
+e. Scenic overlay zones; and
+f. The special flood hazard area.
+
+1.2 PROHIBIT TEMPORARY OUTDOOR SHELTERS IN THE OPEN SPACE ZONE EXCEPT ON PAVED
+PARKING AREAS
+Amend the Shelter to Housing Continuum Project recommended code to prohibit non-emergency related
+temporary outdoor shelters from OS zones except in paved parking areas. Temporary outdoor shelters
+will continue to be allowed in other parts of the OS zones when City Council or the Mayor declares and
+emergency or activates the ECC.
+Amend 33.296.030.H:
+H. Mass and outdoor shelters.
+1. Mass shelters. Mass shelters are allowed as a temporary activity for up to 180 days within
+a calendar year.
+2. Outdoor shelters. Outside of OS zones, outdoor shelters are allowed as a temporary
+activity for up to 180 days within a calendar year on a site with an institutional use. Within
+OS zones, outdoor shelters are allowed as a temporary activity for up to 180 day within a
+calendar year when the outdoor shelter is located in an existing paved parking area.
+Amend 33.296.040.B:
+B. Temporary activities may not cause the elimination of required off-street parking, except for
+outdoor shelters, and Farmers Markets. Required parking may be temporarily occupied by an
+outdoor shelter. Required parking may be temporarily occupied by a Farmers Market, as
+follows:
+1. The market may occupy up to 3 required spaces or 30 percent of the required spaces,
+whichever is more; or
+2. If the market occurs at a time other than a peak time for the primary use on the site, the
+market may occupy all of the required spaces. If this option is used, the operator of the
+market must keep an analysis on file. The analysis must document when the peak times
+are for the primary use, and the hours of operation (including set-up and take-down) for
+the market.
+
+1.3 ALLOW PERMINANT OUTDOOR SHELTERS IN THE OPEN SPACE ZONE THROUGH A COUNCIL ACTION
+This is a staff recommended translation of the P:NW testimony, utilizing a Type 4 Conditional Use. The
+Council informally expressed a preference for Option B below.
+Option A
+Amend 33.100.100.B:
+B. Limited uses. Uses allowed that are subject to limitations are listed in Table 100-1 with an "L".
+These uses are allowed if they comply with the limitations listed below and the development
+standards and other regulations of this Title. In addition, a use or development listed in the
+200s series of chapters is also subject to the regulations of those chapters. The paragraphs
+listed below contain the limitations and correspond with the footnote numbers from Table
+100-1.
+1.-3. [No change]
+4. Community Services. This regulation applies to all parts of Table 100-1 that have note [4].
+Most Community Service uses are a conditional use. However, short term housingshelters
+and mass shelters are prohibited. Outdoor shelters are regulated by Chapter 33.285, Short
+Term, Mass, and Outdoor Shelters.
+5.-7. [No change]
+
+Amend 33.285.040.C:
+C. Outdoor shelters.
+1. OS zones.
+a. Prohibited use. Outdoor shelters with more than 20 individual shelters are prohibited
+in the OS zone.
+b. Conditional use. Generally, outdoor shelters with 20 or fewer individual shelters in
+OS zones are a conditional use reviewed through the following procedures. Certain
+alterations to existing outdoor shelters may be allowed if they meet Subparagraph
+C.1.b(2). Approval criteria are in Section 33.815.100, Uses in the Open Space Zone.
+The outdoor shelter must also meet the standards of 33.285.050.
+(1) New outdoor shelters. New outdoor shelters and alterations of outdoor shelters
+that do not meet Subparagraph C.1.b(2) are reviewed through a Type IV
+procedure.
+(2) Existing outdoor shelters. An alteration or expansion that does not increase the
+net building or site area of the outdoor shelter by more than 10 percent is
+allowed if there is no increase in the number of individual shelters and if the
+alteration or expansion complies with all conditions of approval.
+
+Option B
+ID SURPLUS LAND FOR PERMINANT SHELTERS
+This is a different approach to the P:NW testimony, using a directive outside of the Zoning Code to
+identify all  surplus land that could be the subject of a future planning action. If any OS-zoned land was
+identified, a re-zoning action could be initiated with appropriate public involvement. This was informally
+identified as the preferred option.
+
+Examine surplus city property for suitability for transitional shelter accommodations and affordable
+housing.
+
+2.1 OUTDOOR SHELTERS – CLARIFY DEFINITION OF OUTDOOR SHELTER
+This amendment revises the wording of the definition of outdoor shelter in both Title 33 and Title 30 to
+clarify that a vehicle can also be considered an individual shelter when part of any outdoor shelter. The
+wording in the Recommended Draft was unclear and could be read otherwise.
+
+Existing Recommendation:
+
+Outdoor Shelter. Individual tents, yurts, huts, cabins or other similar individual shelters that do not
+contain sanitary or cooking facilities, vehicles, and recreational vehicles with or without cooking and
+sanitary facilities, grouped together in an outdoor setting. The shelter is managed by a public agency or
+a nonprofit agency, with or without a fee, and with no minimum length of stay. An outdoor shelter may
+or may not include buildings that have food preparation or shower facilities. See also Mass Shelter and
+Short Term Shelter.
+
+Amended Language:
+Amend 33.910.030:
+Outdoor Shelter. Individual shelters grouped together in an outdoor setting. Examples of individual
+shelters include tents, yurts, huts, cabins, vehicles or other similar accommodation that do not contain
+sanitary or cooking facilities, and recreational vehicles with or without cooking and sanitary facilities.
+The shelter is managed by a public agency or a non-profit agency, with or without a fee, and with no
+minimum length of stay. An outdoor shelter may or may not include buildings that have food
+preparation or sanitary facilities. See also Mass Shelter and Short Term Shelter.
+
+Amend 30.01.030:
+Q. “Outdoor Shelter”. Individual shelters grouped together in an outdoor setting. Examples of individual
+shelters include tents, yurts, huts, cabins, vehicles or other similar accommodation that do not contain
+sanitary or cooking facilities, and recreational vehicles with or without cooking and sanitary facilities.
+The shelter is managed by a public agency or a non-profit agency, with or without a fee, and with no
+minimum length of stay. An outdoor shelter may or may not include buildings that have food
+preparation or sanitary facilities. See also Mass Shelter and Short Term Shelter.
+
+2.2 ALLOW SHELTERS ON INSTITUTIONAL SITES IN SINGLE DWELLING ZONES
+Similar to the approach adopted in 2020 for affordable housing, this change would allow religious
+institutions and other similar institutional uses in single dwelling zones to host small shelters without a
+conditional use review. The example code amendment below addresses outdoor shelters. Similar
+language could be developed for indoor shelters if desired.
+
+For reference, the current S2HC recommendation allows:
+
+• Indoor shelters as a Type 2 Conditional Use if on the site of an Institutional Use in single dwelling
+zones.
+• Outdoor shelters with up to 20 individual shelters are a Type 2 Conditional Use if on the site of an
+institutional Use in single dwelling zones.
+• Outdoor shelters with more than 20 individual shelters are prohibited in the single dwelling
+zones.
+• Shelters serving domestic violence victims are allowed by right up to 3,500 square feet.
+• Religious institutions are allowed to host a limited number of people camping in vehicles under
+Oregon Revised Statutes, Chapter 203, Section 08.
+
+Amend 33.285.040.C:
+C. Outdoor shelters.
+2. R, CI1, and IR zones. A new outdoor shelter, and an alteration or expansion of an existing
+outdoor shelter in R, CI1, and IR zones is subject to the following regulations:
+a. Allowed use. A new outdoor shelter, or an alteration to an existing outdoor shelter is
+allowed if it meets one of the following:
+(1) An outdoor shelter with up to 20 individual shelters is an allowed use in the RF
+through R2.5 zones when provided on the site of an existing institutional use
+and the standards of 33.285.050 are met.
+(2) An outdoor shelter with up to 30 individual shelters is an allowed use in the
+RM1, RM2, RMP, CI1, and IR zones when the standards of 33.285.050 are met.
+(3) An outdoor shelter with up to 60 individual shelters is an allowed use in the
+RM3, RM4, and RX zones when the standards of 33.285.050 are met.
+(4) An alteration or expansion that does not increase the net building area or site
+area of the outdoor shelter by more than 10 percent is allowed if there is no
+increase in the number of individual shelters and if the alteration or expansion
+complies with all conditions of approval.
+b. Prohibited use. Outdoor shelters with more than 20 individual shelters are prohibited
+in the RF through R2.5 zones.
+c. Conditional use. If the outdoor shelter does not meet Subparagraph C.2.a, and it is
+not prohibited, it is a conditional use and is reviewed through the following
+procedures. The approval criteria are in 33.815.107, Short Term, Mass, and Outdoor
+Shelters in R, CI1, and IR Zones. The outdoor shelter must also meet the standards of
+33.285.050:
+(1) If the outdoor shelter is on the site of an existing institutional use, the
+conditional use is reviewed through a Type II procedure.
+(2) All other outdoor shelters are reviewed through a Type III procedure.
+
+2.4 OBSTRUCTIONS AND TEMPORARY ENCROACHMENTS IN THE ROW
+This amendment deletes the recommended amendments to Title 17.44.B because there are some
+remaining technical issues that PBOT has raised with this section. PBOT will be embarking on a Title 17
+code overhaul and will continue to examine that section as part of it. We are confident that this will not
+impact the City or County's ability to continue putting portable restrooms and sanitation services in the
+right of way via other existing code authorities.
+
+In addition, this amendment will remove related references to the Title 17.44.B amendment from Vol. 1.
+
+Delete recommended amendments to 17.44.B (the recommended amendments are show below for
+reference only)
+
+(B. It is unlawful for any person to erect or cause to be erected any structure in,
+over or upon any dedicated street area, except that Director of the Bureau of
+Transportation may, based on findings of necessity, grant permission for walls,
+fences and steps, that otherwise comply with the Code of the City. Also, on
+buildings whose front is located on the property line, the Director of the Bureau of
+Transportation may allow decorative facings, certain types of utility meters, utility
+valves, and other utility appurtenances, to extend into the street area an amount
+that does not interfere with the public use of said street. The Director of the
+Bureau of Transportation, upon determining a public need for areas occupied by
+such walls, fences, steps, facings, or utility meter valves and other appurtenances,
+may revoke said permission and the property owner or utility will be required to
+remove them from the street area.
+
+B. It is unlawful to place, or cause to be placed, any obstruction within, upon or
+above any dedicated street area unless the Director of the Bureau of
+Transportation has, based on findings of necessity, granted a revocable permit to
+allow:
+
+1. Walls, fences and steps that otherwise comply with the Portland City Code,
+
+2. Decorative facings on buildings that front on a property line,
+
+3. Utility meters, utility valves, and other utility appurtenances that do not
+significantly interfere with public use of dedicated street area, or
+
+4. Portable sanitation, health, hygiene, day storage, and kitchen facilities.
+
+The Director of the Bureau of Transportation, upon determining a public need for
+a street area occupied by any of the above, may revoke a permit and the holder of
+the revoked permit will be required to remove all obstructions from the street
+area.)
+
+2.3 MINIMUM SITE SIZE FOR OUTDOOR SHELTERS
+Amend the Shelter to Housing Continuum Project recommended draft zoning code to reduce the
+minimum site size for an Outdoor Shelter from 5,000 to 3,000 square feet.
+Amend 33.285.050.C.2:
+
+2.  Minimum and maximum site size.
+
+a. The minimum required site size for an outdoor shelter is 3,000 square feet. Institutional uses are
+exempt from this standard. Adjustments are prohibited.
+b. In I zones, the maximum site size for an outdoor shelter is 2 acres. Adjustments are prohibited.
+
+3.1 OCCUPIED RV OR TINY HOUSE ON WHEELS
+Discuss RV/tiny houses on wheels element in future hearing to allow more public comment. The existing
+recommendations are shown for reference.
+
+29.50.050 Illegal Residential Occupancy.
+When a property has an illegal residential occupancy, including but not limited to occupancy of tents,
+campers, motor homes, recreational vehicles, or other structures or spaces not intended for permanent
+residential use or occupancy of spaces constructed or converted without permit, the use shall be abated
+or the structure brought into compliance with the present regulations for a building of the same
+occupancy.
+
+Residential occupancy of structures or spaces not intended for permanent residential use or occupancy
+is unlawful, including but not limited to structures placed, constructed or converted without permit;
+tents, campers, motor homes, recreational vehicles, and other vehicles.
+
+A. Exceptions:
+1. Individual sleeping accommodations within outdoor shelters legally established in
+conformance with Portland City Code Chapters 33.285 or 33.815, or allowed as temporary
+occupancies under Portland City Code Chapter 33.296;
+
+2. Vehicles on institutional property as allowed by Oregon Revised Statutes, Chapter 203,
+Section 082;
+
+3. Recreational vehicles within in a manufactured dwelling park or mobile home park as
+provided by Oregon Revised Statues, Chapter 197, Section 493;
+
+4. Motor homes and recreational vehicles within a recreational vehicle park allowed as a
+commercial use by Portland City Code Chapters 33.130 or 33.140; and
+
+5. One occupied recreational vehicle provided:
+
+a. The recreational vehicle is on a site with a house, attached house, or manufactured
+home. See Portland City Code Chapter 33.260.
+
+b. The recreational vehicle is a travel trailer, park model recreational vehicle, camper or
+motor home.
+
+c. A permanent recreational vehicle utility hookup that includes an electrical outlet, a
+water connection, and a sanitary sewer dump is provided on the site. A water
+connection and sanitary sewer dump is not required if the vehicle lacks internal
+plumbing.
+
+6. Camping under emergency circumstances as authorized by Portland City Code Sections
+14A.50.020 B., 33.296.030, or by declaration by the Mayor.
+
+B. When a property has an illegal residential occupancy, the use shall be abated or brought into
+compliance with the current regulations for a space of the same occupancy.
+
+Title 33 elements:
+
+33.260.010 Purpose
+Title 29 of the Portland City Code allows the residential occupancy of recreational vehicles under certain
+circumstances. This chapter provides direction on how Title 33 regulations apply to occupied
+recreational vehicles.
+
+33.260.020 When This Chapter Applies
+This chapter applies to an occupied recreation vehicle on a site with a house, attached house, or
+manufactured home.
+
+33.260.030 Occupied Recreational Vehicles
+An occupied recreational vehicle is a vehicle and is not a building, structure or dwelling unit in terms of
+Title 33. The following standards clarify how Title 33 applies to an occupied recreational vehicle.
+
+A. Parking. Chapter 33.266 applies to both occupied and unoccupied recreational vehicles. The
+development standards in 33.266 that apply to parking area and recreational vehicles on a site also
+apply occupied recreational vehicles.
+
+A. Density. Because an occupied recreational vehicle is not a dwelling unit, building or structure it does
+not count toward minimum or maximum density or FAR.
+
+C. Other development standards. Occupied recreational vehicles are not subject to development
+standards in this Title that apply to buildings or structures. However, structures attached to an occupied
+recreational vehicle are subject to all applicable development standards in this Title.
+
+D. Accessory short-term rentals. An occupied recreational vehicle is prohibited from being an accessory
+short-term rental.
+
+4.1 GROUP LIVING – APPLY FAR TO CONGREGATE HOUSING FACILITIES IN SINGLE-DWELLING ZONES
+The Residential Infill Project (adopted 8/12/20; effective 8/1/21) applies a maximum floor area ratio
+(FAR) to development in the R.25, R5 and R7 single-dwelling residential zones. The FAR limitation is
+graduated based on the number of dwelling units there are on a site. The Shelter to Housing Continuum
+project is introducing a new residential structure type to the zoning code that is not a dwelling unit—a
+congregate housing facility. This amendment clarifies which FAR limitation applies to a site with a
+congregate housing facility. The amendment was inadvertently left out of the Proposed Draft.
+Amend 33.110.210.B:
+B. Maximum FAR. Maximum floor area ratios are stated in Table 110-4. The maximum FAR
+allowed is based on the total number of dwelling units on the site and whether a bonus option
+is chosen. The maximum FAR for a site with a congregate housing facility is the same as shown
+in Table 110-4 for a site with 1 total dwelling unit. The maximum FAR for institutional uses is
+stated in 33.110.270. Adjustments to the maximum FAR ratios, including bonus ratios, are
+prohibited.
+Amend Table 110-4:
+
+Table 110-4
+Summary of Development Standards In Single-Dwelling Zones
+
+Standard
+
+RF
+
+R20
+
+R10
+
+R7
+
+R5
+
+R
+2
+.
+5
+
+Maximum FAR
+- 1 total dwelling unit [1]
+- 2 total dwelling units
+[12]
+- 3 or more total
+dwelling units [1]
+(See 33.110.210 and
+33.110.265)
+
+no limit
+
+no limit
+
+no limit
+
+0.4 to 1
+0.5 to 1
+0.6 to 1
+[23]
+
+0.5 to 1
+0.6 to 1
+0.7 to 1
+[23]
+
+0.7 to 1
+0.8 to 1
+0.9 to 1
+[23]
+Maximum FAR with
+Bonus
+- 1 total dwelling unit
+- 2 total dwelling units
+[12]
+- 3 or more total
+dwelling units [1]
+(See 33.110.210 and
+33.110.265)
+
+NA
+
+NA
+
+NA
+
+0.4 to 1
+0.6 to 1
+0.7 to 1
+
+0.5 to 1
+0.7 to 1
+0.8 to 1
+
+0.7 to 1
+0.9 to 1
+1 to 1
+Maximum
+Height (See
+33.110.215)
+30 ft. 30 ft. 30 ft. 30 ft. [23] 30 ft. [23] 35 ft.
+Minimum Setbacks
+- Front
+building
+setback
+- Side
+building
+setback
+- Rear
+building
+setback
+- Garage
+entrance
+setback
+(See 33.110.220)
+
+20 ft.
+
+10 ft.
+
+10 ft.
+
+18 ft.
+
+20 ft.
+
+10 ft.
+
+10 ft.
+
+18 ft.
+
+20 ft.
+
+10 ft.
+
+10 ft.
+
+18 ft.
+
+15 ft.
+
+5 ft.
+
+5 ft.
+
+18 ft.
+
+10 ft.
+
+5 ft.
+
+5 ft.
+
+18 ft.
+
+10 ft.
+0/5 ft.
+5 ft.
+18 ft.
+Maximum
+Building
+Coverage
+(See 33.110.225)
+See Table
+110-6
+See Table
+110-6
+See Table
+110-6
+See
+Table
+110-6
+See Table
+110-6
+See
+Table
+110-6
+Required Outdoor Area
+- Minimum area
+
+- Minimum
+dimension (See
+33.110.240235)
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+200 sq. ft.
+10 ft. x
+10 ft.
+[1] Including any site with a congregate housing facility.
+[12] Including accessory dwelling units.
+[23] Additional FAR and height may be allowed. See 33.110.265.F.
+
+4.2 GROUP LIVING – CLARIFY OUTDOOR AREA REQUIREMENTS FOR CONGREGATE HOUSING FACILITIES
+IN MULTI-DWELLING AND COMMERCIAL MIXED-USE ZONES
+Outdoor area requirements in the multi-dwelling and commercial mixed-use zones are based on number
+of dwelling units. The Shelter to Housing Continuum project is introducing a new residential structure
+type to the zoning code that is not a dwelling unit—a congregate housing facility. This amendment
+clarifies how the outdoor area requirement applies to residential uses and how it applies to a congregate
+housing facility. The amendment was inadvertently left out of the Proposed Draft.
+
+Amend 33.120.240.B:
+B. Outdoor area and common area requirements. In the RM1 through RM4 zones, on sites with a
+residential use, both outdoor and common areas are required. Required common area may
+count toward required outdoor area, but individual private outdoor area may not count toward
+required common area. The standards of this section do not apply in the RX and RMP zones.
+1. [No change]
+2. Required common area.
+a. Required common area standard. On sites that are more than 20,000 square feet in
+total site area, and on sites with a congregate housing facility, at least 10 percent of
+total site area must be provided as common area. At least 50 percent of the required
+common area must be outdoor area, such as outdoor courtyards or outdoor play
+areas. Up to 50 percent of the required common area may be indoor common area,
+such as indoor recreation facilities or indoor community rooms.
+b. Exemption. The required common area standard does not apply to sites where:
+(1) All of the dwelling units have individual entrances that are within 20 feet of a
+street lot line;
+(2) Each entrance is connected to the street by a path that is at least 3 feet wide
+and hard surfaced; and
+(3) Each dwelling unit has at least 200 square feet of individual outdoor area with a
+minimum dimension of 10 feet by 10 feet.
+Amend 33.130.228.B.1:
+1. Amount required:
+a. On sites that are up to 20,000 square feet in total area, at least 36 square feet of
+outdoor area is required for each dwelling unit on the site;
+b. For sites that are more than 20,000 square feet in total area, at least 48 square feet
+of outdoor area is required for each dwelling unit on the site.;
+c. For any site with a congregate housing facility, at least 10 percent total site area must
+be provided as common area.
+
+4.3 GROUP LIVING – CLARIFY PARKING REQUIREMENTS FOR GROUP LIVING USES
+As part of the Residential Infill Project, City Council eliminated minimum parking requirements for
+Household Living uses in single-dwelling zones. The Shelter to Housing Continuum project is amending
+the zoning code to treat Group Living uses more like Household Living uses in single-dwelling zones and
+as such, this amendment aligns the minimum parking requirements for Household and Group Living uses
+in the single- zones. This amendment also eliminates a remaining reference to the SRO residential
+structure type and updates the minimum parking requirement for Group Living (when a conditional use is
+required) to relate to bedrooms rather than residents. Both of these changes are consistent with other
+changes recommended as part of the Shelter to Housing Continuum project.
+
+Amend 33.266.110.B.2:
+2. Minimum for sites located far from transit. For sites located more than
+1500 feet from a transit station, or more than 500 feet from a transit
+street with 20-minute peak hour service the following minimum parking
+requirements apply:
+a. Household Living uses.
+(1) Single-dwelling zones. No parking is required for Household Living uses in the
+single-dwelling zones.
+(2) All other zones. The minimum number of parking spaces required for
+Household Living uses in all other zones is stated in Table 266-1.
+b. All other uses.
+(1) Group Living. No parking is required for Group Living uses in single-dwelling
+zones that do not require a conditional use review. The minimum number of
+parking spaces required for all other Group Living uses is stated in Table 266-1.
+(2) All other uses. The minimum number of parking spaces required is stated in
+Table 266-1.
+
+Amend Table 266-2 (Residential Categories only):
+
+Table 266-2
+Parking Spaces by Use [2]
+(Refer to Table 266-1 to determine which standard applies.)
+
+Use Categories
+
+Specific Uses
+
+Standard A
+
+Standard B
+Residential
+Categories
+
+Household Living  1 per 2 units, except
+SROs exempt
+None, except 1.35 per
+unit on sites that are
+both in a
+commercial/mixed use
+or multi-dwelling zone
+and close to transit
+(close to transit is
+described in
+33.266.110.B.1.)
+Houses, attached houses
+and duplexes are
+exempt.
+Group Living  1 per 4
+residentsbedrooms
+None
+
+4.4 ACCESSORY SHORT-TERM RENTAL
+This amendment retains the limit on the number of guests allowed in a Type A accessory short-term
+rental (ASTR). The current code effectively limits the number of guests in Type A ASTR (i.e. renting no
+more than 2 bedrooms) to 5 by limiting the number of residents and guests to no more than is allowed
+for a household. The Shelter to Housing Continuum project is removing the definition of household, so
+the language for the number of guests allowed in a Type A ASTR needs to be revised to ensure that the
+current limit is continued.
+
+Amend 33.207.040.B.5
+5. Number of residents and guests. The totalmaximum number of residents and guests
+occupying a dwelling unit with a Type A accessory short-term rental may not exceed 5the
+number allowed for a household. For sites with an accessory dwelling unit, the total
+number of residents and guests occupying both dwelling units may not exceed the
+number allowed for a household.
+
+DATE: March 9, 2021
+TO: Commissioner Rubio
+FROM: Eric Engstrom
+SUBJECT: Shelter to Housing Continuum (S2HC) – Technical Amendments
+This memo contains staff-recommended technical amendments for the Shelter to Housing
+Continuum Title 33, Title 30, and Title 17 code amendments. These amendments are
+necessary to clarify or add code language to carry out the policy decisions related to the
+Shelter to Housing Continuum code amendments. The amended code language is highlight
+through shaded text. In general, these amendments are intended to resolve technical issues
+discovered after publication of the Recommended Draft.
+Proposed Technical Amendments - will be discussed by Council o
+n
+March 24, 2021 at 2:00 p.m. Time Certain
+Title 33 and Title 30 Technical Amendments
+Item Topic Amendment
+1 Group Living – Apply floor
+area ratios (FAR) to
+congregate housing
+facilities in single-dwelling
+zones
+33.110.210.B: This amendment will assign an
+FAR maximum to sites with congregate
+housing facilities. This amendment addresses
+Title 33 code adopted with the Residential
+Infill Project. Without this amendment it may
+be unclear how to apply FAR to congregate
+housing facilities.
+2 Group Living – Clarify the
+outdoor area requirements
+for congregate housing
+facilities
+Ensure congregate housing facilities provide
+outdoor area in the multi-dwelling and
+commercial mixed-use zones. The removal of
+chapter 33.239 left us with an unintended
+gap regarding outdoor area standards that
+apply to congregate housing. This
+amendment adapts the current policy that
+housing should provide outdoor areas to the
+new code structure.
+3 Group Living – Clarify
+parking requirements for
+Group Living uses
+Do not apply a minimum parking space
+requirement to Group Living uses that are
+allowed by right in the single-dwelling zone.
+This puts Group Living at rough parity with
+Household Living with regard to parking
+standards. The Residential Infill project had
+abolished off-street parking requirements for
+Household Living.
+4 Outdoor shelters – Clarify
+definition of outdoor
+shelter
+Revise the definition of outdoor shelter to
+clarify that a vehicle can be considered an
+individual shelter when part of an approved
+outdoor shelter. This amendment affect both
+Title 33 and Title 30. This is a wording
+clarification.
+5 Accessory short-term rental
+– Clarify the number of
+guests allowed
+Ensure that no more than 5 guests are
+allowed in a Type A short-term rental. The
+elimination of the “Household” definition left
+BDS with a question about how to enforce
+one aspect of the short term rental
+regulations.
+6 Obstructions and temporary
+encroachments in the ROW
+Delete amendments to 17.44.B. PBOT has
+requested this element be pulled from the
+package for further discussion. They are
+planning a larger scale review of Title 17 and
+would like to consider this topic as part of
+that work.
+
+ITEM #1
+GROUP LIVING – APPLY FAR TO CONGREGATE HOUSING FACILITIES IN SINGLE-
+DWELLING ZONES
+The Residential Infill Project (adopted 8/12/20; effective 8/1/21) applies a maximum floor area ratio
+(FAR) to development in the R.25, R5 and R7 single-dwelling residential zones. The FAR limitation is
+graduated based on the number of dwelling units there are on a site. The Shelter to Housing Continuum
+project is introducing a new residential structure type to the zoning code that is not a dwelling unit—a
+congregate housing facility. This amendment clarifies which FAR limitation applies to a site with a
+congregate housing facility. The amendment was inadvertently left out of the Proposed Draft.
+Amend 33.110.210.B:
+B. Maximum FAR. Maximum floor area ratios are stated in Table 110-4. The maximum FAR
+allowed is based on the total number of dwelling units on the site and whether a bonus option
+is chosen. The maximum FAR for a site with a congregate housing facility is the same as shown
+in Table 110-4 for a site with 1 total dwelling unit. The maximum FAR for institutional uses is
+stated in 33.110.270. Adjustments to the maximum FAR ratios, including bonus ratios, are
+prohibited.
+Amend Table 110-4:
+
+Table 110-4
+Summary of Development Standards In Single-Dwelling Zones
+
+Standard
+
+RF
+
+R20
+
+R10
+
+R7
+
+R5
+
+R
+2
+.
+5
+
+Maximum FAR
+- 1 total dwelling unit [1]
+- 2 total dwelling units [12]
+- 3 or more total dwelling
+units [1]
+(See 33.110.210 and
+33.110.265)
+
+no limit
+
+no limit
+
+no limit
+
+0.4 to 1
+0.5 to 1
+0.6 to 1 [23]
+
+0.5 to 1
+0.6 to 1
+0.7 to 1 [23]
+
+0.7 to 1
+0.8 to 1
+0.9 to 1 [23]
+Maximum FAR with Bonus
+- 1 total dwelling unit
+- 2 total dwelling units [12]
+- 3 or more total dwelling
+units [1]
+(See 33.110.210 and
+33.110.265)
+
+NA
+
+NA
+
+NA
+
+0.4 to 1
+0.6 to 1
+0.7 to 1
+
+0.5 to 1
+0.7 to 1
+0.8 to 1
+
+0.7 to 1
+0.9 to 1
+1 to 1
+Maximum Height
+(See 33.110.215)
+30 ft. 30 ft. 30 ft. 30 ft. [23] 30 ft. [23] 35 ft.
+Minimum Setbacks
+- Front building
+setback
+- Side building
+setback
+- Rear building
+setback
+- Garage entrance
+setback
+(See 33.110.220)
+
+20 ft.
+
+10 ft.
+
+10 ft.
+
+18 ft.
+
+20 ft.
+
+10 ft.
+
+10 ft.
+
+18 ft.
+
+20 ft.
+
+10 ft.
+
+10 ft.
+
+18 ft.
+
+15 ft.
+
+5 ft.
+
+5 ft.
+
+18 ft.
+
+10 ft.
+
+5 ft.
+
+5 ft.
+
+18 ft.
+
+10 ft.
+0/5 ft.
+5 ft.
+18 ft.
+Maximum Building
+Coverage
+(See 33.110.225)
+See Table
+110-6
+See Table
+110-6
+See Table
+110-6
+See Table
+110-6
+See Table
+110-6
+See Table
+110-6
+Required Outdoor Area
+- Minimum area
+
+- Minimum dimension
+(See 33.110.240235)
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+250 sq. ft.
+
+12 ft. x
+12 ft.
+
+200 sq. ft.
+10 ft. x
+10 ft.
+[1] Including any site with a congregate housing facility.
+[12] Including accessory dwelling units.
+[23] Additional FAR and height may be allowed. See 33.110.265.F.
+
+ITEM #2
+GROUP LIVING – CLARIFY OUTDOOR AREA REQUIREMENTS FOR CONGREGATE
+HOUSING FACILITIES IN MULTI-DWELLING AND COMMERCIAL MIXED-USE ZONES
+Outdoor area requirements in the multi-dwelling and commercial mixed-use zones are based on number
+of dwelling units. The Shelter to Housing Continuum project is introducing a new residential structure
+type to the zoning code that is not a dwelling unit—a congregate housing facility. This amendment
+clarifies how the outdoor area requirement applies to residential uses and how it applies to a congregate
+housing facility. The amendment was inadvertently left out of the Proposed Draft.
+
+Amend 33.120.240.B:
+B. Outdoor area and common area requirements. In the RM1 through RM4 zones, on sites with a
+residential use, both outdoor and common areas are required. Required common area may
+count toward required outdoor area, but individual private outdoor area may not count toward
+required common area. The standards of this section do not apply in the RX and RMP zones.
+1. [No change]
+2. Required common area.
+a. Required common area standard. On sites that are more than 20,000 square feet in
+total site area, and on sites with a congregate housing facility, at least 10 percent of
+total site area must be provided as common area. At least 50 percent of the required
+common area must be outdoor area, such as outdoor courtyards or outdoor play
+areas. Up to 50 percent of the required common area may be indoor common area,
+such as indoor recreation facilities or indoor community rooms.
+b. Exemption. The required common area standard does not apply to sites where:
+(1) All of the dwelling units have individual entrances that are within 20 feet of a
+street lot line;
+(2) Each entrance is connected to the street by a path that is at least 3 feet wide
+and hard surfaced; and
+(3) Each dwelling unit has at least 200 square feet of individual outdoor area with a
+minimum dimension of 10 feet by 10 feet.
+Amend 33.130.228.B.1:
+1. Amount required:
+a. On sites that are up to 20,000 square feet in total area, at least 36 square feet of
+outdoor area is required for each dwelling unit on the site;
+b. For sites that are more than 20,000 square feet in total area, at least 48 square feet
+of outdoor area is required for each dwelling unit on the site.;
+c. For any site with a congregate housing facility, at least 10 percent total site area must
+be provided as common area.
+
+ITEM #3
+GROUP LIVING – CLARIFY PARKING REQUIREMENTS FOR GROUP LIVING USES
+As part of the Residential Infill Project, City Council eliminated minimum parking requirements for
+Household Living uses in single-dwelling zones. The Shelter to Housing Continuum project is amending
+the zoning code to treat Group Living uses more like Household Living uses in single-dwelling zones and
+as such, this amendment aligns the minimum parking requirements for Household and Group Living uses
+in the single- zones. This amendment also eliminates a remaining reference to the SRO residential
+structure type and updates the minimum parking requirement for Group Living (when a conditional use is
+required) to relate to bedrooms rather than residents. Both of these changes are consistent with other
+changes recommended as part of the Shelter to Housing Continuum project.
+
+Amend 33.266.110.B.2:
+2. Minimum for sites located far from transit. For sites located more than
+1500 feet from a transit station, or more than 500 feet from a transit
+street with 20-minute peak hour service the following minimum parking
+requirements apply:
+a. Household Living uses.
+(1) Single-dwelling zones. No parking is required for Household Living uses in the
+single-dwelling zones.
+(2) All other zones. The minimum number of parking spaces required for
+Household Living uses in all other zones is stated in Table 266-1.
+b. All other uses.
+(1) Group Living. No parking is required for Group Living uses in single-dwelling
+zones that do not require a conditional use review. The minimum number of
+parking spaces required for all other Group Living uses is stated in Table 266-1.
+(2) All other uses. The minimum number of parking spaces required is stated in
+Table 266-1.
+
+Amend Table 266-2 (Residential Categories only):
+
+Table 266-2
+Parking Spaces by Use [2]
+(Refer to Table 266-1 to determine which standard applies.)
+
+Use Categories
+
+Specific Uses
+
+Standard A
+
+Standard B
+Residential Categories
+Household Living  1 per 2 units, except SROs
+exempt
+None, except 1.35 per unit
+on sites that are both in a
+commercial/mixed use or
+multi-dwelling zone and
+close to transit (close to
+transit is described in
+33.266.110.B.1.)
+Houses, attached houses
+and duplexes are exempt.
+Group Living  1 per 4
+residentsbedrooms
+None
+
+ITEM #4
+OUTDOOR SHELTERS – CLARIFY DEFINITION OF OUTDOOR SHELTER
+This amendment revises the wording of the definition of outdoor shelter in both Title 33 and Title 30 to
+clarify that a vehicle can also be considered an individual shelter when part of any outdoor shelter. The
+wording in the Recommended Draft was unclear and could be read otherwise.
+
+Amend 33.910.030:
+Outdoor Shelter. Individual shelters grouped together in an outdoor setting. Examples of individual
+shelters include tents, yurts, huts, cabins, vehicles or other similar accommodation that do not contain
+sanitary or cooking facilities, and recreational vehicles with or without cooking and sanitary facilities.
+The shelter is managed by a public agency or a non-profit agency, with or without a fee, and with no
+minimum length of stay. An outdoor shelter may or may not include buildings that have food
+preparation or shower facilities. See also Mass Shelter and Short Term Shelter.
+
+Amend 30.01.030:
+Q. “Outdoor Shelter”. Individual shelters grouped together in an outdoor setting. Examples of
+individual shelters include tents, yurts, huts, cabins, vehicles or other similar accommodation that
+do not contain sanitary or cooking facilities, and recreational vehicles with or without cooking
+and sanitary facilities. The shelter is managed by a public agency or a non-profit agency, with or
+without a fee, and with no minimum length of stay. An outdoor shelter may or may not include
+buildings that have food preparation or shower facilities. See also Mass Shelter and Short Term
+Shelter.
+
+ITEM #5
+ACCESSORY SHORT-TERM RENTAL
+This amendment retains the limit on the number of guests allowed in a Type A accessory short-term
+rental (ASTR). The current code effectively limits the number of guests in Type A ASTR (i.e. renting no
+more than 2 bedrooms) to 5 by limiting the number of residents and guests to no more than is allowed
+for a household. The Shelter to Housing Continuum project is removing the definition of household, so
+the language for the number of guests allowed in a Type A ASTR needs to be revised to ensure that the
+current limit is continued.
+
+Amend 33.207.040.B.5
+5. Number of residents and guests. The totalmaximum number of residents and guests
+occupying a dwelling unit with a Type A accessory short-term rental may not exceed 5the
+number allowed for a household. For sites with an accessory dwelling unit, the total
+number of residents and guests occupying both dwelling units may not exceed the
+number allowed for a household.
+
+ITEM #6
+OBSTRUCTIONS AND TEMPORARY ENCROACHMENTS IN THE ROW
+This amendment deletes the recommended amendments to Title 17.44.B because there are some
+remaining technical issues that PBOT has raised with this section. PBOT will be embarking on a Title 17
+code overhaul and will continue to examine that section as part of it. We are confident this will not
+impact the City or County's ability to continue putting portable restrooms and sanitation services in the
+right of way via other existing code authorities. Currently, PBOT permitting authority lies in PCC 17.24,
+which already allows for permitting facilities/structures that the 17.44 amendments were proposing.
+PBOT has and will continue to permit portable sanitation and hygiene stations, day storage units, and
+other structures/facilities.
+
+Delete recommended amendments to 17.44.B (the recommended amendments are shown below
+for reference only)
+
+(B. It is unlawful for any person to erect or cause to be erected any structure
+in, over or upon any dedicated street area, except that Director of the Bureau
+of Transportation may, based on findings of necessity, grant permission for
+walls, fences and steps, that otherwise comply with the Code of the City.
+Also, on buildings whose front is located on the property line, the Director
+of the Bureau of Transportation may allow decorative facings, certain types
+of utility meters, utility valves, and other utility appurtenances, to extend
+into the street area an amount that does not interfere with the public use of
+said street. The Director of the Bureau of Transportation, upon determining
+a public need for areas occupied by such walls, fences, steps, facings, or
+utility meter valves and other appurtenances, may revoke said permission
+and the property owner or utility will be required to remove them from the
+street area.
+
+B. It is unlawful to place, or cause to be placed, any obstruction within,
+upon or above any dedicated street area unless the Director of the Bureau of
+Transportation has, based on findings of necessity, granted a revocable
+permit to allow:
+
+1. Walls, fences and steps that otherwise comply with the Portland City
+Code,
+2. Decorative facings on buildings that front on a property line,
+3. Utility meters, utility valves, and other utility appurtenances that do not
+significantly interfere with public use of dedicated street area, or
+4. Portable sanitation, health, hygiene, day storage, and kitchen facilities.
+
+The Director of the Bureau of Transportation, upon determining a public
+need for a street area occupied by any of the above, may revoke a permit
+and the holder of the revoked permit will be required to remove all
+obstructions from the street area.)

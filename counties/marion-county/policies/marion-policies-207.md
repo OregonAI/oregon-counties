@@ -1,0 +1,347 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-207
+title: '207'
+doc_type: policy
+citation: '207'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/207.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 08d78990dbe9dad0b2b204293816e7efa975b40eff2312524d43d25b883ee9c4
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.010
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 207 (207)
+
+## At a glance
+
+207 — policies of Marion County. 7 pages.
+
+## Full text
+
+207.1
+ADMINISTRATIVE POLICIES
+
+SECTION: General Administration POLICY #: 207
+TITLE: Volunteers and Volunteer Service
+PROCEDURE #: 207-A and 207-B
+ORDER #:
+DEPT: Human Resources  PROGRAM: Volunteer Services
+ADOPTED: 8/96 REVIEWED: 8/09 REVISED: 03/25
+
+PURPOSE:  To establish a policy that supports the participat ion and involvement of
+members of the public through unpaid volunteer, work experience, and
+student internship opportunities within Marion County departments.
+
+AUTHORITY:  The Marion County Board of Commissioners may estab lish rules and
+regulations in reference to managing the interest and business of the county
+under ORS 203.010, 203.035, 203.111, and 203.230.
+
+ The Marion County Board of Commissioners expresses  the governing
+body’s official, organizational position on fundamental issues or specific
+repetitive situations through formally adopted, written policy statements.
+The policy statements serve to provide rules for public officials on the
+conduct of county business.
+
+ The Marion County Board of Commissioners’ Administ rative Policies and
+Procedures manual outlines the forms and process through which the board
+takes formal action on administrative policy. It is the official record of
+county administrative policy.
+
+APPLICABILITY:  All county departments, elected officials, appoint ed department heads,
+employees, and volunteers.
+
+GENERAL POLICY:  Marion County recognizes that volunteers are essen tial to the productivity,
+efficiency, and cost effectiveness of government operations. Effective
+management of volunteer programs is, therefore, a matter of significant
+importance. Marion County Volunteer Services supports participation,
+career experience, and community involvement through volunteer
+opportunities within Marion County departments.
+
+ELIGIBILITY:
+
+Volunteers may be:
+a.  Persons aged 18 years or older and providing services to the county without pay;
+b.  County employees who have met the established criteria outlined in Section 2.4;
+c.  Youth age 14-17 years, providing services to the county without pay, with written permission
+from a parent or guardian;
+
+207.2
+d.  Children, age 7-13 years, accompanied by a parent or legal guardian, who are participating in
+family volunteer activities;
+e.  Persons who are in non-paid job experience or on-the-job training programs.
+
+DEFINITIONS
+
+Affiliated Volunteer: Any person who donates approved service to Marion County without pay or
+reimbursement from Marion County other than approved incidental expenses or stipend for services
+rendered. Affiliated volunteers have completed all county and department requirements to volunteer on a
+regular basis and are covered by applicable policies and insurance.
+a.  Program Volunteer – Any person who voluntarily performs a service or other undertaking for
+a Marion County program, division, or department without pay or reimbursement; and who
+works under the direction and supervision of County staff.
+b.  Unpaid Intern or Practicum Student - Any person who works without pay at a trade or
+occupation at Marion County while earning academic credit. Unpaid interns and practicum
+students are considered affiliated volunteers when all county and department requirements are
+met, and the appropriate agreements have been fully executed.
+c.  Work Experience Assignments – Any person who works without pay in a trade or
+occupation at Marion County while enrolled in a formal work experience program. Individuals
+may receive subsidy or stipend through the work experience program and are considered
+affiliated volunteers when all county and department requirements are met and the appropriate
+agreements have been fully executed.
+d.  Advisory Board Members – Any person appointed to, or serving on, a Marion County
+advisory board, committee, commission, council, or multi-jurisdictional committee.
+e.  Emergency Volunteers - Emergency volunteers who serve less than 60 days may be
+recognized as affiliated volunteers with approval from Marion County Emergency
+Management and upon receipt of a modified volunteer orientation that is applicable to their
+duties.
+
+Episodic Volunteer: Any person who donates time to Marion County without a long-term commitment,
+filling an urgent or short-term need with minimal screening and training. Episodic volunteers complete
+and sign a Volunteer Waiver and Release Form prior to providing any service. Episodic volunteers serve
+less than 60 days.
+
+Approved Service:  Volunteer positions that have been developed with, and approved by the volunteer
+services coordinator, and documented in a Volunteer Service Profile. All affiliated volunteers must be
+assigned to a Volunteer Service Profile. Department heads or their designee determine the extent to which
+their programs utilize volunteers.
+
+Volunteer Service Profile : Description of the volunteer opportunity, including work location where main
+duties are performed, volunteer supervisor, required qualifications, training and/or certification
+requirements, and the scope of work to be performed. The volunteer service profile may also include other
+requirements such as minimum age, work schedule, licensing requirements, or supplemental information
+that should be submitted with the application. A Volunteer Service Profile is required for all affiliated
+volunteers.
+
+207.3
+POLICY GUIDELINES:
+
+1.  RESPONSIBILITIES
+
+1.1.  Volunteer Services Responsibilities:
+1.1.  The county volunteer services coordinator is responsible for the facilitation, coordination,
+implementation and encouragement of countywide volunteer programs and services, acting as a
+resource for departments in the engagement, recruitment, placement, management, and
+recognition of volunteers. Volunteer services will:
+1.1.1.  Ensure that all affiliated volunteers are assigned to a volunteer service profile at
+placement.
+1.1.2.  Ensure that all affiliated volunteers receive appropriate screening, complete the county’s
+New Volunteer Orientation (NVO), and receive a photo ID badge identifying them as a
+volunteer.
+1.1.3.  Manage the county volunteer database.
+1.1.4.  Maintain volunteer worker records. The District Attorney’s Office, Juvenile
+Department, and Sheriff’s Office maintain their volunteer worker records if specific
+arrangements are not made with the volunteer services coordinator.
+1.1.5.  Advise and provide support and training for developing volunteer service profiles,
+recruiting, screening, orientation, training, and managing volunteers.
+1.1.6.  Participate in the recruitment of advisory board members and provide support for
+appointment of advisory board members.
+1.1.7.  Serve as an internal consultant on volunteer management program best practices,
+management techniques, questions, and issues.
+1.1.8.  Develop and maintain the Volunteer Opportunities public website.
+1.1.9.  Develop and maintain resources for volunteer managers on the county’s intranet site.
+1.1.10.  Compile the county’s annual volunteer report.
+1.1.11.  Oversee the implementation of annual volunteer awards and recognition.
+
+1.2.  Department Responsibilities:
+County departments are encouraged to involve volunteers in the implementation of services and
+in support for paid staff. Department responsibilities include:
+
+1.2.1.  Notify volunteer services coordinator of volunteer opportunities.
+1.2.2.  Develop volunteer service profiles for their volunteer opportunities.
+1.2.3.  Participate in volunteer recruitment.
+1.2.4.  Interview referred volunteers to screen for department criteria.
+1.2.5.  Execute any contracts, agreements, or credentialling needed for students, work
+experience assignments, or community partnerships that involve volunteers.
+1.2.6.  Cooperate with the volunteer services coordinator to ensure that all affiliated volunteers
+go through the appropriate screenings, complete NVO, and are badged when working in
+a county building.
+1.2.7.  Ensure that all episodic volunteers submit a Volunteer Waiver and Release Form and
+receive adequate training for the services performed.
+1.2.8.  Provide department/program level orientation and on-site training for all volunteers.
+
+207.4
+1.2.9.  Provide day-to-day management of volunteers, regularly recognize volunteers for their
+contributions, track and report on volunteers’ service, and document any performance
+management activities or actions.
+1.2.10.  Notify the volunteer services coordinator when a volunteer resigns or is released from
+service.
+1.2.11.  Train and support staff who have responsibility for volunteer management.
+1.2.12.  Participate in the quarterly volunteer manager’s meeting and any county volunteer
+services trainings.
+1.2.13.  Maintain volunteer program records.
+
+1.3.  Elected Officials, Department Heads, and Managers Responsibilities:
+
+1.3.1.  Support the involvement of volunteers in county work where appropriate.
+1.3.2.  Promote a consistent philosophy of volunteerism for the county.
+1.3.3.  Ensure staff receive current information about volunteer involvement, work
+collaboratively with volunteer services, and are held accountable for effective
+participation in the volunteer program.
+
+1.4.  Volunteer Responsibilities:
+
+1.4.1.  Adhere to applicable policies and procedures while acting in their official duties as
+outlined in their volunteer service profile.
+
+2.  VOLUNTEER PROGRAM REQUIREMENTS
+
+2.1.  Volunteer Application Forms
+
+2.1.1.  Affiliated volunteers must complete a county volunteer application.
+2.1.2.  Episodic volunteers must complete a Volunteer Registration and Waiver Form.
+
+2.2.  Volunteer Service Profiles
+
+2.2.1.  All affiliated volunteers must have a volunteer service profile on file with volunteer
+services.
+2.2.2.  Service profiles should be completed with adequate time to perform any required
+screenings and training prior to the first day of performing volunteer service.
+
+2.3.  Orientation and Training
+
+2.3.1.  All affiliated volunteers shall complete the county’s New Volunteer Orientation (NVO)
+and receive information regarding other pertinent policies and procedures no later than 15
+days after the first date of service.
+2.3.2.  Volunteers shall receive department specific orientation, and adequate training on their
+specific volunteer role at the beginning of their service.
+2.3.3.  Volunteers shall receive ongoing training to ensure they are prepared with the skills and
+knowledge needed to be successful in their volunteer role.
+
+207.5
+2.4.  County Employees as Volunteers
+
+2.4.1.  County employees may volunteer in county departments if the following criteria are met:
+2.4.1.1.  The volunteer position is with an established volunteer program.
+2.4.1.2.  The duties of the position are outside the employee's normal scope of work.
+2.4.1.3.  The employee agrees that no work time will be used to perform the volunteer
+duties.
+2.4.1.4.  The employee submits the County Employee Waiver Form indicating that the
+decision to volunteer is entirely their own and no payment for the work will be
+made.
+2.4.1.5.  Sheriff’s Office volunteer positions may be excluded or subject to additional
+requirements as outlined in Sheriff’s Office policies.
+
+2.5.  Advisory Board Volunteers
+
+2.5.1.  Advisory board volunteers are appointed by the Board of Commissioners or Sheriff to
+serve on county advisory boards, commissions, and committees. Guidelines regarding the
+appointment and service of volunteers on county advisory boards are available in
+Administrative Policy 203, Appointment to Advisory Boards and Committees. Information
+and resources about the management of advisory board volunteers is available on the
+county intranet or through the volunteer services coordinator.
+
+2.6.  Working Agreements with Partners
+
+2.6.1.  Marion County departments may have the opportunity to cooperate or collaborate on
+projects with other governments, agencies, or community groups. If volunteers will be
+used, departments who are involved in the planning for these projects must identify who is
+responsible for management and liability of volunteers involved.
+
+2.7.  Use of Vehicles
+
+2.7.1.  Volunteers who qualify as drivers per Marion County Administrative Policy 502 Driving
+on County Business may drive a county vehicle or a personal vehicle as part of their
+volunteer work if approved to do so. Volunteers may also transport clients in a county
+vehicle if approved to do so. Approval is contingent on the volunteer meeting the county’s
+driving criteria as outlined in Administrative Policy 502 and having driving duties clearly
+defined in the volunteer service profile.
+
+2.8.  Volunteer Injury Coverage
+
+2.8.1.  Marion County provides accident and liability insurance for affiliated volunteers while
+they are performing duties within the scope of their volunteer assignment.
+2.8.2.  Affiliated volunteers are covered by the Volunteer Injury Coverage Policy or in the case
+for some Sheriff’s Office positions, the county’s self-insured workers compensation
+program.
+2.8.3.  Volunteers must immediately report any injuries while volunteering to their immediate
+supervisor.
+
+207.6
+2.8.4.  All volunteer injuries reported to the volunteer’s supervisor must be reported to Risk
+Management within 24 hours of the incident.
+
+2.9.  Americans with Disabilities Act
+
+2.9.1.  Marion County does not discriminate on the basis of disability in admission to, access to,
+or operations of its programs, services, or activities.  Under Title II of the ADA, each
+county program or service, when viewed in its entirety, will be readily accessible to and
+usable by qualified individuals with disabilities.
+
+2.10.  Drug and Alcohol Free Workplace
+
+2.10.1.  Marion County is committed to maintaining a workplace free of drug and alcohol use.
+2.10.2.  While on duty or on Marion County premises, being under the influence of prescription or
+nonprescription medications that impair a volunteer’s ability to safely perform the
+assigned duties of their volunteer position or compromise the health and safety of others is
+prohibited.
+2.10.3.  While on duty, on county premises, or in a county vehicle, volunteers shall not possess,
+consume, use, manufacture, distribute, cause to be brought, dispense, purchase, or sell
+alcohol, or alcohol containers.
+2.10.4.  While on duty, on county premises, or in a county vehicle, volunteers shall not possess,
+consume, use, manufacture, distribute, cause to be brought, dispense, purchase, or sell
+drugs or drug paraphernalia, including all forms of marijuana that is otherwise lawful to
+use under state law.
+2.10.5.  An exception is made when the alcohol containers are sealed and purchased or collected
+in conjunction with a county authorized event.
+
+2.11.  Standard of Conduct
+
+2.11.1.  Volunteers are expected to adhere to administrative and departmental policies and
+procedures while acting in their official duties as outlined on the volunteer service profile.
+2.11.2.  Departments may create additional policies and procedures that are specific to the
+department’s use of volunteers.
+2.11.3.  Volunteers are expected to adhere to the same confidentiality guidelines as employees.
+
+2.12.  End of Service
+
+2.12.1.  Volunteers who do not adhere to the policies and procedures of the county or who are
+unable to perform their volunteer assignments at a satisfactory level may be released from
+service.
+2.12.2.  If placement is not suitable for the volunteer and/or does not meet the department needs,
+volunteers may be reassigned or released from service.
+2.12.3.  Volunteers are at-will and may be released at any time, for any reason.
+
+207.7
+3.  COMPLIANCE WITH STATUTES AND ORDINANCES
+Nothing contained in this statement of policy shall be construed to be in conflict with any state law or
+Marion County ordinance. Should there be an appearance of conflict, the appropriate state law or
+county ordinance shall prevail.
+
+4.  EXCEPTIONS
+There are no exceptions to this policy.
+
+5.  IMPLEMENTATION
+5.1.  The volunteer services coordinator supports the countywide implementation of this policy.
+5.2.  Elected officials and department heads are expected to be knowledgeable of, and shall be
+responsible for, implementing this policy within their respective departments and offices.
+
+6.  PERIODIC REVIEW
+This policy shall be reviewed by the county volunteer services coordinator at least every three (3)
+years, or more often if needed, and revised as necessary.
+
+Adopted:  08/96
+
+Revised:   02/99

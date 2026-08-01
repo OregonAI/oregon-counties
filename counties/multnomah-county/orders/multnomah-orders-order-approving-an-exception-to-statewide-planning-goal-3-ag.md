@@ -1,0 +1,2766 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-order-approving-an-exception-to-statewide-planning-goal-3-ag
+title: 'Order Approving An Exception To Statewide Planning Goal 3 (Agricultural Lands), And An Amendment To The Multnomah County Comprehensive Plan And The Multnomah County Comprehensive Plan And Zoning Map, To Rezone The Property Located In East…'
+doc_type: ordinance
+citation: 'Order Approving An Exception To Statewide Planning Goal 3 (Agricultural Lands), And An Amendment To The Multnomah County Comprehensive Plan And The Multnomah County Comprehensive Plan And Zoning Map, To Rezone The Property Located In East…'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/order_approving_an_exception_to_statewide_planning_goal_3_%28agricultural_lands%29%2C_and_an_amendment_to_the_multnomah_county_comprehensive_plan_and_the_multnomah_county_comprehensive_plan_and_zoning_map%2C_to_rezone_the_property_located_in_east%E2%80%A6/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 869beb856a4142ba7f48743e42f619d2deb3be9239eb5c4ce1e961c5e7333d10
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.732
+    - ORS 215.203
+    - ORS 215.243
+    - ORS 215.406
+    - OAR 660-004-0000
+    - OAR 660-004-0025
+    - OAR 660-004-0028
+    - OAR 660-006-0025
+    - OAR 660-015-0000
+    - OAR 660-015-0010
+    - OAR 660-033-0120
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Order Approving An Exception To Statewide Planning Goal 3 (Agricultural Lands), And An Amendment To The Multnomah County Comprehensive Plan And The Multnomah County Comprehensive Plan And Zoning Map, To Rezone The Property Located In East… (Order Approving An Exception To Statewide Planning Goal 3 (Agricultural Lands), And An Amendment To The Multnomah County Comprehensive Plan And The Multnomah County Comprehensive Plan And Zoning Map, To Rezone The Property Located In East…)
+
+## At a glance
+
+Order Approving An Exception To Statewide Planning Goal 3 (Agricultural Lands), And An Amendment To The Multnomah County Comprehensive Plan And The Multnomah County Comprehensive Plan And Zoning Map, To Rezone The Property Located In East… — orders of Multnomah County. 54 pages.
+
+## Full text
+
+Page 1 - Approving an E xception to Statewide Planning Goal 3 (Agricultural Lands), and an
+Amendment to the Multnomah County Comprehensive Plan  and the Multnomah
+County Comprehensive Plan and Zoning Map , to Rezone the P roperty locate d in
+East R ural Multnomah County at 2326 SE Troutdale Road and that portion of SE
+Troutdale Road adjacent to the subject property  extending to the r oad center line
+from Exclusive Farm Use (EFU) to Rural Residential (RR)
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+ORDER NO.  2020-086
+Approving an Exception to Statewide Planning Goal 3 (Agricultural Lands), and an Amendment
+to the Multnomah County Comprehensive Plan  and the Multnomah County Comprehensive
+Plan and Zoning Map , to Rezone the Property locate d in East R ural Multnomah County at
+2326 SE Troutdale Road  and that portion of SE Troutdale Road adjacent to the subject
+property extending to the road center line  from Exclusive Farm Use (EFU) to Rural Residential
+(RR).
+The Multnomah County Board of Commissioners Finds:
+a. On July 6, 2020 , the Multnomah County Planning Commission considered a n
+application for an exception to Statewide Planning Goal 3, and an amendment to the
+Multnomah County Comprehensive Plan  and Multnomah County Comprehensive Plan
+and Zoning Map (“Map”), to rezone the property located in east rural Multnomah County
+at 2326 SE Troutdale Road  (“subject property”) and that portion of SE Troutdale Road
+adjacent to the subject property  from Exclusive Farm Use (EFU) to Rural Residential
+(RR) (application T4-2019-12624).
+b. Before and at the July 6 , 20 20 hearing, there was an opportunity for the public to
+provide written and oral testimony. In addition to the applicant, one other person offered
+public testimony and that testimony was in favor of the proposal.
+c. After deliberation, the Planning Comm ission adopted Order No. T4 -2019-12624
+(attached hereto as Exhibit 4) , which recommends that the Board of County
+Commissioners adopt the findings of fact and statement of reasons contained in  the T4-
+2019-12624 staff report  attached hereto as ‘Exhibit 1’, approve the goal exceptio n
+request subject to the conditions in that staff report, and amend the Multnomah County
+Comprehensive Plan to document and incorporate the exception and zone change.
+The Multnomah County Board of Commissioners Orders:
+1. The findings of fact and statement of reasons contained in the T4 -2019-12624 staff
+report, attached hereto as Exhibit 1 , are adopt ed by the Board of County
+Commissioners and demonstrate that the standards for an excepti on to Statewide
+Planning Goal 3 have been met.
+2. The excepti on to Statewide Planning Goal 3  requested through T4 -2019-12624 is
+approved, effective on the date that this Order is signed, subject to the conditions stated
+in the T4-2019-12624 staff report (Exhibit 1).
+Page 2 - Approving an E xception to Statewide Planning Goal 3 (Agricultural Lands), and an
+Amendment to the Multnomah County Comprehensive Plan  and the Multnomah
+County Comprehensive Plan and Zoning Map , to Rezone the P roperty locate d in
+East R ural Multnomah County at 2326 SE Troutdale Road and that portion of SE
+Troutdale Road adjacent to the subject property  extending to the r oad center line
+from Exclusive Farm Use (EFU) to Rural Residential (RR)
+3. The property located in east rural Multnomah County at 2326 SE Troutdale Road
+(“subject property”)  and that portion of SE Troutdale Road adjacent to the subject
+property extending to the road center line  is rezoned from Exclusive Farm Use to Rural
+Residential.
+4. The Multnomah County Comprehensive Plan and Zoning Map (Appendix A to the
+Multnomah County Comprehensive Plan) , and related maps in the Comprehensive
+Plan, are amended as provided in the attached Exhibit 2.
+5. The text of the Multnomah County Comprehensive Plan is amended as provided in the
+attached Exhibit 3 to document and incorporate the approved goal exception and zone
+change, including the findings of facts and statement of reasons adopted by the Board
+that demonstrate that the standards for an exception have been met.
+6. The Planning Director  is delegated the authority to take all administrative acts
+necessary to codify the Board’s order, including amending the Multnomah County
+Comprehensive Plan and Map to reflect the Board’s order.
+ADOPTED this 1st day of October, 2020.
+SUBMITTED BY:
+Jamie Waltz, Interim Director, Department of Community Services
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By K�ce ��---
+Katherine Thomas, Assistant County Attorney
+Case Files: T4-2019-12624 and EP-2019-12704 Page 1 of 43
+1600 SE 190th Ave, Portland OR 97233-5910 • PH. (503) 988-3043 • Fax (503) 988-3389
+Staff Report
+Case
+ File T4-2019-12624
+Hearing Date
+&Time
+Monday, July 6, 2020, at 6:30 p.m. or soon thereafter.
+The Planning Commission meeting will be held virtually.
+Instructions for participating in the meeting online, or by phone will be published
+prior to the meeting on the county Planning Commission webpage:
+https://multco.us/landuse/planning-commission
+Proposal The Staff Report evaluates a request for an exception to statewide planning Goal 3
+(Agricultural Lands), and a Quasi-Judicial Comprehensive Plan Amendment, to
+authorize a zone change from Exclusive Farm Use (EFU) to Rural Residential (RR)
+on a 0.93 acre property at 2326 SE Troutdale Road in east rural Multnomah County.
+The subject property is the site of the former Cedar School, originally established in
+1857 and replaced in 1927 with a school building that remains on the site today.
+Location 2326 SE Troutdale Road; Troutdale, OR 97060
+Township 1 South, Range 3 East, Section 01C, Tax Lot 01200, WM.
+Property ID: R337210
+Alternate Account Number: R993010130
+Owner Colleen Cahill
+Applicant Rich Faith
+Base Zone
+(Current)
+Exclusive Farm Use (EFU)
+Overlays None
+Department of Community Services
+Land Use Planning Division
+www.multco.us/landuse
+Case Files: T4-2019-12624 and EP-2019-12704 Page 2 of 43
+Vicinity Maps
+
+Applicable Approval Criteria:
+
+Multnomah County Code (MCC):
+
+39.1000 – 39.1245: Administration, Procedures, Enforcement, Permits and Fees
+39.1205: Type IV Quasi-Judicial Plan and Zone Change Approval Criteria
+
+Multnomah County Comprehensive Plan:
+
+Policies 2.5 through 2.9: Rural Residential zoning policies
+Policies 3.6 through 3.9: Exclusive Farm Use zoning policies
+Case Files: T4-2019-12624 and EP-2019-12704 Page 3 of 43
+Policy 6.1: Historic Resources policy and strategies
+
+Multnomah County Transportation:
+Multnomah County Road Rules (MCRR):
+4.000: Access to County Roads
+6.000: Improvement Requirements
+9.000: Compliance Method
+18.000: Right-of-Way Use Permits
+16.000: Variance from County Standards and Requirements
+Multnomah County Design and Construction Manual (MCDCM):
+1.2: Access Management Standards
+
+Oregon Revised Statutes (ORS):
+ORS 197.732: Goal Exceptions
+
+Oregon Administrative Rules (OAR):
+OAR 660-004-0025: Exception Requirements for Land Physically Developed to Other Uses
+OAR 660-004-0028: Exception Requirements for Land Irrevocably Committed to Other Uses
+
+Recommended Decision:
+Staff recommends that the Planning Commission recommend approval of the Goal 3 Exception and zone
+change to the Board of County Commissioners, including adopting the text revisions to the Multnomah
+County Comprehensive Plan and the changes to the Multnomah County Comprehensive Plan and Zoning
+Map outlined in Section 7.0 of this report.
+
+Case Files: T4-2019-12624 and EP-2019-12704 Page 4 of 43
+Recommended Conditions of Approval:
+If the Planning Commission recommends approval, staff recommends including the following Conditions
+of Approval in the Planning Commission’s recommendation:
+
+1. Access/Driveway:
+A. Driveway will need to be permitted with Multnomah County (MCRR 4.000). Driveway permit
+application can be found here:
+B. Driveway will need to meet standards for this type of use and location (MCDCM 1.2.4, 1.2.5):
+(1) Rural Collector Driveway spacing is 100'. Driveway spacing is defined as the distance
+between driveway centerlines. the minimums apply both driveways on the same side of the
+street as well as driveways on opposite sides of the street.
+(2) Single family residential driveway width must be between 12 and 25 feet.
+C. New driveways must be paved - this is part of the permitting process (MCRR 6.100 and 9.400).
+Driveways are considered new, reconstructed, or reconfigured when they result in a transportation
+impact, are altered physically, or there are no records of an existing driveway
+2. Right of way dedication/Deed Restriction:
+A. Right of way dedication will be required (MCRR 6.100). It appears that the Right of way at this
+location is 55 feet. The preferred right of way width for a rural collector is 60 feet, therefore the
+right of way width should be 30 feet from centerline. It appears that a 5 foot dedication will be
+necessary to bring the width up to this standard.
+B. Deed restrictions will also be necessary (MCRR 6.100 and 9.400). A non-remonstrance
+agreement, or deed restriction, will require that the property participate in standard Rural Collector
+road improvements along the site’s frontage that are not completed as a part of the site’s required
+interim improvements.
+
+Table of Contents:
+Section Contents Pages
+Section 1.00 Summary of Proposal  5 - 6
+Section 2.00 Summary of Statewide Land Use Planning Goals and Exceptions Process 6 - 7
+Section 3.00 Goal Exception Standards  7 - 22
+Section 4.00 County Type 4 Quasi-Judicial Plan and Zone Change Criteria 22 - 28
+Section 5.00 Comprehensive Plan Policies 23 - 39
+Section 6.00 Summary of Public Comments 39
+Section 7.00 Recommended Comprehensive Amendment 39 - 40
+Section 8.00 Conclusion  40
+Section 9.00 Exhibits 40 - 43
+
+Case Files: T4-2019-12624 and EP-2019-12704 Page 5 of 43
+Findings of Fact
+
+FINDINGS: Written findings are contained herein. The Multnomah County Code (MCC) standards,
+Comprehensive Plan Policies, Rules and Statutes are in bold font. Applicant’s responses submitted in the
+application have been italicized and are identified as ‘Applicant Response.’ Staff analysis and comments
+are identified as ‘Staff Finding:’ and address the applicable standards. The notation (* * *) indicates a
+gap where non-applicable rules, statutes or codes have been skipped to reduce staff report length and
+improve readability.
+
+1.00 Summary of Proposal
+
+This land use application seeks to change the zoning of a property from Exclusive Farm Use (“EFU”) to
+Rural Residential (“RR”). The current owner of the property (“owner”) seeks this change as the first step
+in the process of obtaining the necessary land use approvals for use of a former school building as a
+single-family dwelling and photography studio.
+
+The 0.93 acre (approximately 40,511 square foot) property at issue in this application is located at 2326
+SE Troutdale Road in east rural Multnomah County (“subject property”), approximately 475 feet as the
+crow flies from the southern limits of the City of Troutdale (Exhibit Map B.19). The proposed zone
+change includes the entire 0.93 acre property and if approved, the RR zone would also extend to include
+that portion of SE Troutdale Road adjacent to the subject property extending to the road center line.
+
+The subject property is the site of a building built in 1927 that formerly was used as the Cedar School
+(Exhibit A.1.3). The owner currently is using the former school building as a single-family dwelling and
+photography studio (Exhibit A.1.1). The owner does not have land use or building permits for the single-
+family dwelling or photography studio uses.
+
+The subject property currently is zoned Exclusive Farm Use (“EFU”). Properties zoned EFU generally are
+eligible for a single-family dwelling only if the dwelling will be used in conjunction with farm use,
+consistent with the purpose of the EFU zone to “preserve and maintain agricultural lands for farm use.”
+See MCC 39.4200 (purpose of EFU); MCC 39.4220(J) (allowing replacement dwelling in conjunction
+with farm use); MCC 39.4225(B), (C), (D) (other types of dwellings allowed and tied to farm use). The
+owner of the subject property does not farm or intend to farm the property, and there is no evidence that
+the property was farmed at any point after the school located on the property. (Exhibit A.1.3, page 2).
+Moreover, although exceptions exist to allow dwellings for other purposes in the EFU, none of those
+exceptions are applicable to the owner’s current use.
+
+As a result, as the first step to getting the necessary land use and building permits for the single-family
+dwelling and photography studio, the owner has requested an exception to statewide planning Goal 3
+(Agricultural Lands), and a Comprehensive Plan Amendment, to authorize a zone change from EFU to
+Rural Residential (RR). One purpose of the RR zone is to “to provide areas for residential use for those
+persons who desire rural living environments.” MCC 39.4350. In the RR zone, “[r]esidential use
+consisting of a single family dwelling on a Lot of Record” is an allowed use.  MCC 39.4360(A).
+
+Although the property is currently entirely within the EFU zone, and is adjacent to farmland to the north,
+east, and south that also is within the EFU zone, properties located across SE Troutdale Road to the west
+are zoned RR.
+
+Case Files: T4-2019-12624 and EP-2019-12704 Page 6 of 43
+No new development is proposed on the subject property at this time and, if approved, a zone change, in
+itself, does not authorize development. Therefore, this staff report does not make findings regarding the
+Lot of Record status nor provide findings regarding compliance of existing uses and structures on the
+subject property. Both of these assessments will be completed as part of any future development request
+as required by Multnomah County Code (MCC) 39.3005, 39.3070 or 39.3090, and 39.1515.
+
+In addition, the current application does not seek land use or building permit approval for the single-
+family dwelling or photography studio uses. If this application is approved, the owner can seek those
+approvals through separate land use processes.
+
+The current process for a zone change from EFU to RR requires approval of a “goal exception,” a process
+explained more fully below, which includes an amendment to Multnomah County’s Comprehensive Plan
+and Comprehensive Plan and Zoning Map. The statutory nature of a goal exception assessment requires
+cross references to Oregon Administrative Rules, Oregon Revised Statutes, county code and county
+Comprehensive Plan policies, which can make a staff report difficult to read. Therefore, this report below
+has been broken into discrete sections, with notations provided under certain findings to help direct the
+reader to the report section containing the relevant findings when a regulatory cross reference occurs.
+
+2.00 Summary of Statewide Land Use Planning Goals and Exceptions Process
+
+Oregon land use rules are established at the highest level within Oregon’s 19 Statewide Planning Goals
+(“goals”) (Oregon Administrative Rule, OAR 660-015-0000 to OAR 660-015-0010). These 19 goals
+express statewide policy on a range of land use topics, such as citizen involvement, protection of air and
+water quality, protection of farm and forestland, and urbanization. These policies are codified as law
+within various sections of the Oregon Administrative Rules (“OAR”) and Oregon Revised Statutes
+(“ORS”). Local county and city comprehensive plans and development regulations must be consistent
+with these the applicable goals, rules and statutes.
+
+Some of the goals require the County’s Comprehensive Plan to restrict the use or development of
+different types of resource lands, such as Goal 3 (Agricultural Lands) and Goal 4 (Forest Lands). When
+the County wants to adopt a property-specific comprehensive plan amendment that is inconsistent with a
+goal requirement, it must seek an “exception” to the goal requirement. For example, Goal 3 provides that
+“[a]gricultural lands shall be preserved and maintained for farm use[.]” As a result, when a property
+owner proposes to use agricultural lands zoned EFU for a use that cannot comply with the EFU approval
+standards for that kind of use, an exception is required before that use can occur on the property.
+
+The purpose of the goal exception process is to excuse a proposed action from strict compliance with the
+specific language of the statewide planning goals or exclude certain land from the requirements of a goal
+in order to permit necessary flexibility where justifiable. See OAR 660-004-0000(3). There are three
+different types of goal exceptions, often referred to as (1) physically developed, (2) irrevocably
+committed, and (3) reasons exceptions. See ORS 197.732(2)(a); OAR 660-015-0000(2). The applicant has
+sought to justify the exception for the subject property under the physically developed and irrevocably
+committed exception standards.
+
+A local government in Oregon, such as Multnomah County, must make findings that each applicable goal
+exception standard is met and also must document the exception within the local comprehensive plan to
+authorize a goal exception request. This documentation requires an amendment to the Multnomah County
+Comprehensive Plan, which occurs through a Type IV quasi-judicial action considered by the Multnomah
+Case Files: T4-2019-12624 and EP-2019-12704 Page 7 of 43
+County Planning Commission and ultimately may be decided by the Multnomah County Board of
+Commissioners (MCC 39.1105(D)).
+
+This staff report has been drafted to provide the required findings of fact to the Multnomah County
+Planning Commission. If the Planning Commission denies the application, the Planning Commission
+decision will be the final decision of the County, unless appealed to the Board of County Commissioners.
+If a Planning Commission denial is appealed, or if the Planning Commission recommends approval of the
+application, the Board of County Commissioners will render the County’s final decision on this
+application.
+
+3.00 Goal Exception Standards
+
+3.01 OAR 660-015-0000(3) – Goal 3: Agricultural Lands (Language below taken from Oregon’s
+Statewide Planning Goals & Guidelines, Goal 3: Agricultural Lands -
+https://www.oregon.gov/lcd/OP/Documents/goal3.pdf)
+
+To preserve and maintain agricultural lands.
+
+  Agricultural lands shall be preserved and maintained for farm use, consistent with
+existing and future needs for agricultural products, forest and open space and with the
+state's agricultural land use policy expressed in ORS 215.243 and 215.700.
+
+* * *
+
+IMPLEMENTATION
+
+  Zoning applied to agricultural land shall limit uses which can have significant
+adverse effects on agricultural and forest land, farm and forest uses or accepted farming
+or forest practices.
+  Counties shall establish minimum sizes for new lots or parcels in each agricultural
+land designation. The minimum parcel size established for farm uses in farmland zones
+shall be consistent with applicable statutes. If a county proposes a minimum lot or parcel
+size less than 80 acres, or 160 acres for rangeland, the minimum shall be appropriate to
+maintain the existing commercial agricultural enterprise within the area and meet the
+requirements of ORS 215.243.
+
+* * *
+
+Staff Finding: OAR 660-015-0000(3), in part, establishes the requirement for counties to zone
+agricultural lands EFU, and also requires zoning applied to these lands to limit uses which can
+have significant adverse effects on farm land and farming practices. Examples of implementing
+EFU provisions in Multnomah County include an 80-acre minimum lot size for new parcels
+(MCC 39.4245(A) and farming income requirements for establishing a new dwelling (MCC
+39.4265(B)). OAR 660-015-0000(3), otherwise referred to as “Goal 3,” is applicable to the
+subject property because the subject property is zoned for agricultural use through the EFU
+zone. Goal 3 is the statewide requirement the applicant has requested an exception from because
+the owner is not using the property for agricultural use and cannot comply with the approval
+standards in the EFU for the current uses on the property. See ORS 197.732(3)(a).
+
+Case Files: T4-2019-12624 and EP-2019-12704 Page 8 of 43
+3.02 GOAL EXCEPTIONS
+
+Staff Finding: The following exception provisions are articulated both in ORS 197.732 and
+OAR 660-015-0000(2) – Land Use Planning. Staff will make findings under ORS 197.732 as
+required by MCC 39.1205(A)(1), which provides that an applicant must show that “[t]he plan
+revision is consistent with the standards of ORS 197.732 if a goal exception is required,
+including any OAR’s adopted pursuant to these statutes.” The findings relating to the remaining
+aspects of MCC 39.1205 are addressed within Section 4.00 of this report.
+
+ORS 197.732 Goal exceptions; criteria; rules; review.
+(1) As used in this section:
+(a) “Compatible” is not intended as an absolute term meaning no interference or
+adverse impacts of any type with adjacent uses.
+(b) “Exception” means a comprehensive plan provision, including an amendment
+to an acknowledged comprehensive plan, that:
+(A) Is applicable to specific properties or situations and does not establish a
+planning or zoning policy of general applicability;
+
+Staff Finding: The request is limited to one 0.93 acre property at 2326 SE Troutdale Road and
+will not establish a zoning policy of general applicability.
+
+(B) Does not comply with some or all goal requirements applicable to the
+subject properties or situations; and
+
+Staff Finding: As noted above, Goal 3 is applicable to the subject property because the subject
+property is zoned EFU. A comprehensive plan amendment rezoning the subject property from
+EFU to Rural Residential (“RR”) does not comply with the applicable Goal 3 requirement that
+“[a]gricultural lands shall be preserved and maintained for farm use” because the primary
+purpose of the RR zone is to provide areas for residential use, rather than farming. See MCC
+39.4350 (purpose of RR zone). In other words, property zoned RR is not required to be used for
+farm and limited nonfarm uses like EFU zoned property. Therefore, changing the zoning from
+EFU, which “preserve[s] and maintain[s] [property] for farm use,” to RR, which does not have a
+similar preservation purpose, does not currently comply with Goal 3 requirements applicable to
+the subject property and therefore requires an “exception.”
+
+(C) Complies with standards under subsection (2) of this section.
+Applicant: The applicant chooses to address “irrevocably committed” exception criteria (2)(a)
+and (b) rather than “reasons” exception criteria (2)(c).
+
+Staff Finding: The applicant has made this application under ORS 197.732 subsection (2)(a) &
+(b). ORS 197.732(2) provides three separate avenues for a goal exception – (a, physically
+developed), (b, irrevocably committed), and (c, reasons). An applicant can attempt to justify the
+exception based on one or a combination of these three provisions. Findings relating to ORS
+197.732(2) are addressed below.
+Case Files: T4-2019-12624 and EP-2019-12704 Page 9 of 43
+
+(2) A local government may adopt an exception to a goal if:
+(a) The land subject to the exception is physically developed to the extent that it is
+no longer available for uses allowed by the applicable goal;
+Applicant: The subject property, currently zoned Exclusive Farm Use (EFU), is less than an
+acre in size. The parcel was created in 1886 when the original land grant owners, William and
+Mary Jones deeded the land to School District #10 of Multnomah County to be used for a new
+school to replace the nearby aging one-room log-cabin school house, known as Cedar School,
+built in 1857. The second Cedar School was built shortly after the land was deeded to the school
+district and remained in place until a newer school was built on the site and opened in 1927.
+The school district used the building as a school house and for other purposes until 1971 when
+it was vacated. After the school district vacated the property, ownership reverted back to
+descendants of the Jones family who sold the property in 1976. The school house building is still
+present today and is now used as a single-family dwelling and in-house photography studio.
+Since construction of the former Cedar School building on this site in 1886, the property has not
+been used for farming, nor has it been available for farm use. Virtually the entire .93 acres is
+physically developed with buildings, driveways, parking area and walkways, or large trees and
+landscaping. The property is clearly developed to the extent that is unavailable for EFU
+resource land uses. (See Exhibit A-1, Aerial Photo Site Map)
+
+Staff Finding: Staff concurs with and adopts the applicant’s proposed finding. This standard
+requires a determination of whether the subject property is physically developed to the extent
+that it is no longer available for the uses allowed by Goal 3, which primarily are agricultural and
+farm uses. The majority of the 0.93-acre property is dominated by existing development
+including the historic schoolhouse building, a driveway and parking area, and pedestrian
+sidewalk connections (see aerial photograph – Exhibit A.1.4.A). The septic system and sanitary
+drainfield take up a substantial portion of a 0.93 acre property as well (Exhibit A.1.4.A).
+A few examples of common primary uses allowed by the applicable goal (Goal 3) which are
+unavailable on the property given the existing physical development and limited parcel size
+include farm uses such as commercial raising, harvesting and sale of crops or livestock (MCC
+39.4220(A)), propagation and harvesting of forest products such as timber (MCC 39.4220(C)),
+and industrial facilities for the processing farm or forest products (MCC 39.4230(A) & (G)).
+
+(b) The land subject to the exception is irrevocably committed as described by
+Land Conservation and Development Commission rule to uses not allowed by the
+applicable goal because existing adjacent uses and other relevant factors make uses
+allowed by the applicable goal impracticable; or
+(c) The following standards are met:
+(A) Reasons justify why the state policy embodied in the applicable goals
+should not apply;
+(B) Areas that do not require a new exception cannot reasonably
+accommodate the use;
+(C) The long term environmental, economic, social and energy consequences
+resulting from the use at the proposed site with measures designed to reduce
+Case Files: T4-2019-12624 and EP-2019-12704 Page 10 of 43
+adverse impacts are not significantly more adverse than would typically
+result from the same proposal being located in areas requiring a goal
+exception other than the proposed site; and
+(D) The proposed uses are compatible with other adjacent uses or will be so
+rendered through measures designed to reduce adverse impacts.
+
+Applicant: The applicant chooses to address “irrevocably committed” exception criteria (2)(a)
+and (b) rather than “reasons” exception criteria (2)(c).
+
+Staff Finding: The applicant addresses ORS 197.732(2)(b) beginning in Section 3.03 of this
+report by addressing the standards in OAR 660-004-0028(2), which implement the standard in
+(2)(b) above. The applicant does not and need not address ORS 197.732(2)(c) because an
+exception may be approved under any one of the three subsections of ORS 197.732(2).
+
+3.03 OAR 660-004-0028 Exception Requirements for Land Irrevocably Committed to Other
+Uses
+(1) A local government may adopt an exception to a goal when the land subject to the
+exception is irrevocably committed to uses not allowed by the applicable goal because
+existing adjacent uses and other relevant factors make uses allowed by the applicable goal
+impracticable:
+(a) A “committed exception” is an exception taken in accordance with ORS
+197.732(2)(b), Goal 2, Part II(b), and with the provisions of this rule, except where
+other rules apply as described in OAR 660-004-0000(1).
+(b) For the purposes of this rule, an “exception area” is that area of land for which
+a “committed exception” is taken.
+(c) An “applicable goal,” as used in this rule, is a statewide planning goal or goal
+requirement that would apply to the exception area if an exception were not taken.(2)
+Whether land is irrevocably committed depends on the relationship between the exception
+area and the lands adjacent to it. The findings for a committed exception therefore must
+address the following:
+ (a) The characteristics of the exception area;
+Applicant: By definition the "exception area" is that area of land for which a "committed
+exception" is taken, which in the case of this application, is the .93 acre parcel.  As previously
+described, the exception area is characterized as a fully developed parcel containing an old
+school house now being used as a residence along with several outbuildings, driveway and
+parking area, and significant landscaping with mature trees and shrubs. The property is not
+farmed and in its present state has no potential to be commercially farmed. The exception area
+can best be described as rural residential in character.
+Staff Finding: Staff concurs with and adopts the applicant’s description of the characteristics of
+the exception area, which can also be seen in the photographs in Exhibit A.1.4.A. Additional
+findings about the impracticability of farming the subject property are set forth in Section 3.08.
+
+Case Files: T4-2019-12624 and EP-2019-12704 Page 11 of 43
+3.04  (b) The characteristics of the adjacent lands;
+Applicant: The subject property is surrounded on three sides by agricultural land normally
+planted in field crops; but that land is buffered from the subject property by mature trees and
+shrubs that provide a clear separation between farm use and rural residential use. The subject
+property fronts on SE Troutdale Road, a paved two-lane county collector street. Across
+Troutdale Road from the subject property are several rural residences on small tracts. The
+properties along SE Troutdale Rd immediately across from the exception area are zoned Rural
+Residential.
+
+Staff Finding: Staff concurs with and adopts the applicant’s description of adjacent lands. The
+subject property is surrounded on three sides (north, east, and south) by an existing, active farm
+(Exhibit A.1.4.A). The surrounding farm is currently planted in a soil fixing cover crop and has
+previously been planted in berries (Exhibit B.14). The property is fronted along the west by SE
+Troutdale Road. Directly across the road are smaller properties in the RR zone ranging in size
+from 0.73 acres to 10.92 acres developed with single-family dwellings (Exhibit A.1.4.A).
+
+3.05  (c) The relationship between the exception area and the lands adjacent to it; and
+Applicant: Because of the large trees and extensive shrubbery that line the perimeter of the
+exception area, there is a distinct buffer between it and the adjacent farm land to its north,
+south and east. Arborvitae line the property wherever gaps occur in the more mature landscape
+plantings in order to provide continuous screening from adjacent farm lands. The exception
+area is open along its frontage to the west at the driveway and two walkway connections to SE
+Troutdale Road, which orients the site more to the rural residential zoned properties located
+across the road than it does to the adjacent agricultural land.
+
+Staff Finding: Staff concurs with and adopts the applicant’s description of the relationship
+between the exception area (subject property) and the lands adjacent to it. Trees and shrubbery
+provide a buffer around the perimeter of subject property to the north, south, and east (Exhibit
+A.1.4.A). This vegetative buffer provides a degree of physical separation between the subject
+property (proposed exception area) and the surrounding active farm operation. As a result of the
+vegetative buffer, it would be difficult to use the proposed exception area in conjunction with
+the adjoining farm operation. That is particularly true in light of the relatively small size of the
+proposed exception area and the existing development in the proposed exception area.
+
+3.06  (d) The other relevant factors set forth in OAR 660-004-0028(6).
+Applicant: See responses to relevant factors in (6) below.
+Staff Finding: Findings relating to the factors set forth in OAR 660-004-0028(6) are addressed
+in Sections 3.13 through 3.18 of this report.
+
+3.07 OAR 660-004-0028(3) Whether uses or activities allowed by an applicable goal are
+impracticable as that term is used in ORS 197.732(2)(b), in Goal 2, Part II(b), and in this
+rule shall be determined through consideration of factors set forth in this rule, except
+where other rules apply as described in OAR 660-004-0000(1). Compliance with this rule
+shall constitute compliance with the requirements of Goal 2, Part II. It is the purpose of
+this rule to permit irrevocably committed exceptions where justified so as to provide
+Case Files: T4-2019-12624 and EP-2019-12704 Page 12 of 43
+flexibility in the application of broad resource protection goals. It shall not be required
+that local governments demonstrate that every use allowed by the applicable goal is
+"impossible." For exceptions to Goals 3 or 4, local governments are required to
+demonstrate that only the following uses or activities are impracticable: (underlining
+added)
+Applicant: This application is a Goal 3 exception so the following uses are applicable.
+Staff Finding: The relevant factors to be considered for this application, which in part requests
+an irrevocably committed exception to Goal 3, are set forth in this rule. No other factors as
+described in OAR 660-004-0000(1)(a)-(c) need to be considered for the specific exceptions
+listed including sewer service to rural lands (1)(a), urban transportation improvements on rural
+lands (1)(b) or urban development on rural land (1)(c). Goal 3 (Agricultural Lands) applies to
+EFU land and therefore an exception is required for zone changes to a non-resource zone such
+as RR. The following findings determine whether the following uses or activities are
+impracticable, as required for an irrevocably committed exception.
+
+3.08 (a) Farm use as defined in ORS 215.203;
+Applicant: Demonstration that farm use is impracticable on the subject property is found in the
+response to ORS 197.732(2)(a) above [Section 3.02].
+
+Staff Finding: This standard requires an applicant to show that farm use, as defined in ORS
+215.203, is impracticable on the subject property. Farm use is defined in ORS 215.203(2)(a), in
+part, as “the current employment of land for the primary purpose of obtaining a profit in money
+by raising, harvesting and selling crops or the feeding, breeding, management and sale of, or the
+produce of, livestock, poultry, fur-bearing animals or honeybees or for dairying and the sale of
+dairy products or any other agricultural or horticultural use or animal husbandry or any
+combination thereof.” As found in Section 3.02, the applicant demonstrated that farm use as
+defined in ORS 215.203 is impracticable on the subject property because the majority of the
+0.93-acre property is dominated by existing development including the historic schoolhouse
+building, parking area and pedestrian sidewalk connections (see aerial photograph – Exhibit
+A.1.4.A). The septic system and sanitary drainfield take up a substantial portion of a 0.93 acre
+property as well (Exhibit A.1.4.A). Very little of the remaining area of the 0.93 acre property
+could be practically used for agricultural purposes because given the small property size (less
+than one acre) and the existing development, it is unlikely that the property is capable of
+producing sustained profit from the sale of any agricultural products that could be grown on the
+premises.
+
+Although it is possible for certain small farming operations to be profitable, even small farming
+operations in Multnomah County often are located on properties that are larger than one acre,
+suggesting that at least one acre of property is typically necessary for a farm use as defined in
+ORS 215.203. The average farm size in Multnomah County is 39 acres according to the 2017
+USDA Census of Agriculture (Exhibit B.15). In fact, this resource breaks farm sizes into six
+categories with the smallest category capturing farms 1 to 9 acres, with no data being reported
+for commercial farming operations smaller than 1-acre.
+
+In addition, as discussed under Section 3.05, although there is an active farm operation on the
+adjacent property, the vegetative buffer between the subject property and the neighboring farm
+Case Files: T4-2019-12624 and EP-2019-12704 Page 13 of 43
+operation would prevent use of the much smaller subject property in conjunction with the
+neighboring farm operation.
+3.09 (b) Propagation or harvesting of a forest product as specified in OAR 660-033-0120; and
+Applicant: For the same reasons that the subject property is irrevocably committed to
+nonresource uses and is unsuited to commercial agricultural, the same is true for the
+propagation and harvesting of a forest product. This fully developed .93 acre parcel simply does
+not lend itself to forestry related uses.
+
+Staff Finding: This standard requires an applicant to show that propagation or harvesting of a
+forest product as specified in OAR 660-033-0120 is impracticable on the subject property.
+OAR 660-033-0120 lists the specific development and uses authorized on agricultural lands.
+The rule includes as an allowed use the “[p]ropagation or harvesting of a forest product,” but
+does not further define that use.
+Staff concurs with and adopts applicant’s proposed finding. For similar reasons listed in Section
+3.08 above, the property is not suitable for propagation or subsequent harvesting of forest
+products both because (1) the property primarily consists of developed areas and (2) the
+property is smaller than typically would be necessary to propagate or harvest forest products.
+Although staff were unable to find data on the average size of commercial timber harvests in
+Multnomah County, the Commercial Forest Use base zoning regulations require new properties
+to be at least 80-acres in order to promote commercial timber uses. Additionally, Oregon’s
+Forest Practices Act limits clear-cuts to 120-acres, suggesting something less than this acreage,
+but likely much more than a fraction of an acre, is a viable size for propagation and harvesting
+of a forest product (Exhibit B.16). In addition, even if the subject property were not already
+significantly developed, there also are no forest products being propagated or harvested on
+adjacent properties, i.e., there is no option to use the subject property for this purpose in
+conjunction with uses on adjacent properties.
+
+3.10 (c) Forest operations or forest practices as specified in OAR 660-006-0025(2)(a).
+Applicant: Forest operations and forest practices including, but not limited to, reforestation of
+forest land, road construction and maintenance, harvesting of a forest tree species, application
+of chemicals, and disposal of slash, are totally impracticable on this fully developed .93 acre
+parcel located in close proximity to other rural residences.
+
+Staff Finding: This standard requires an applicant to show that forest operations or forest
+practices as specified in OAR 660-006-0025(2)(a) are impracticable on the subject property.
+OAR 660-006-0025(2)(a) provides, “The following uses pursuant to the Forest Practices Act
+(ORS chapter 527) and Goal 4 shall be allowed in forest zones: (a) Forest operations or forest
+practices including, but not limited to, reforestation of forest land, road construction and
+maintenance, harvesting of a forest tree species, application of chemicals, and disposal of
+slash[.]” Staff concurs with and incorporates the applicant’s proposed finding. The 0.93
+property is developed with a schoolhouse, parking area, and a septic system, leaving little
+remaining undeveloped area on the property on which to conduct forest operations or forest
+practices. In addition, forestry typically requires much larger forested tracts of land, with the
+typical privately owned forest lot comprising 40 acres or more of land (Exhibit B.17).
+Moreover, adjacent properties are not used for forest operations or forest practices and therefore
+Case Files: T4-2019-12624 and EP-2019-12704 Page 14 of 43
+do not offer an option for the subject property to be used for forestry purposes in conjunction
+with uses on adjacent properties.
+
+3.11 OAR 660-004-0028(4) A conclusion that an exception area is irrevocably committed shall
+be supported by findings of fact that address all applicable factors of section (6) of this
+rule and by a statement of reasons explaining why the facts support the conclusion that
+uses allowed by the applicable goal are impracticable in the exception area.
+Applicant: The applicant believes the responses to the exception criteria given in this narrative
+provide sufficient findings of fact in support of conclusions that uses allowed by goal 3 are
+impracticable in the exception area.
+
+Staff Finding: The proposed 0.93 acre exception area is irrevocably committed to non-resource
+use as found in Sections 3.13 through 3.18 of this report, addressing Section 6 of this rule (OAR
+660-004-0028).
+ Uses allowed by Goal 3 (Agricultural Lands) are impracticable because:
+1. The existing development (and lack of agriculture and forestry) on the small 0.93 subject
+property contrasts with the 44 acre farm surrounding the property on three sides (north,
+east, and south).
+2. A vegetative buffer around the perimeter of the property consisting of trees and
+shrubbery make it difficult to use the proposed exception area in conjunction with the
+adjoining farm operation.
+3. The subject property shares a similar development pattern with the contiguous RR zoned
+parcels to the west, but is dissimilar to the surrounding farmland.
+4. Existing landscape features, such as significant trees and shrubs, effectively impede
+practicable resource use of the exception area in conjunction with neighboring resource
+uses (Exhibit A.1.4.A) because they create a barrier separating the much smaller
+exception area from the neighboring farms.
+5. The landscaping features impede practicable resource use of the exception area because
+they occupy most areas of the property that are not already physically developed.
+Staff concludes that the uses allowed by Goal 3 (Agricultural Lands) are impracticable in the
+0.93 exception area.
+
+3.12 (5) Findings of fact and a statement of reasons that land subject to an exception is
+irrevocably committed need not be prepared for each individual parcel in the exception
+area. Lands that are found to be irrevocably committed under this rule may include
+physically developed lands.
+Applicant: Because the exception area consists of only one parcel, reasons provided herein why
+the exception area is irrevocably committed to a nonresource use necessarily apply to this
+individual parcel.
+
+Case Files: T4-2019-12624 and EP-2019-12704 Page 15 of 43
+Staff Finding: Staff concurs with, adopts, and supplements the Applicant’s proposed finding.
+The first part of this standard relates to an exception area consisting of multiple parcels, and
+therefore is not applicable to this application where the exception area consists of a single parcel
+(the 0.93 acre subject property). The second part of this standard provides that lands that are
+irrevocably committed may include physically developed lands. As discussed above under
+Finding 3.02, in addition to being irrevocably committed, the subject property is physically
+developed with the historic schoolhouse building, a driveway and parking area, septic system,
+and pedestrian sidewalk connections (see aerial photograph – Exhibit A.1.4.A).
+
+3.13 (6) Findings of fact for a committed exception shall address the following factors:
+ (a) Existing adjacent uses;
+Applicant: An explanation of existing adjacent uses is given under Criterion (2) above [Section
+3.04 and Section 3.05 of this staff report].
+Staff Finding: Under OAR 660-004-0028(1), land is irrevocably committed to uses not allowed
+by Goal 3 when “existing adjacent uses and other relevant factors make uses allowed by the
+applicable goal impracticable.” Based on that standard, one relevant factor for a committed
+exception is what property uses exist on adjacent properties. An explanation of existing adjacent
+uses is provided in Sections 3.04 and 3.05 above. Staff’s findings from those Sections are
+restated here for ease of reference:
+
+From Section 3.04: The subject property is surrounded on three sides (north, east, and south) by
+an existing, active farm (Exhibit A.1.4.A). The property is fronted along the west by SE
+Troutdale Road. Directly across the road are smaller properties in the RR zone ranging in size
+from 0.73 acres to 10.92 acres developed with single-family dwellings.
+
+From Section 3.05: Trees and shrubbery provide a buffer around the perimeter of subject
+property to the north, south, and east (Exhibit A.1.4.A). This vegetative buffer provides a degree
+of physical separation between the subject property (proposed exception area) and the
+surrounding active farm operation. As a result of the vegetative buffer, it would be difficult to
+use the proposed exception area in conjunction with the adjoining farm operation. That is
+particularly true in light of the relatively small size of the proposed exception area and the
+existing development in the proposed exception area.
+
+The existing development (and lack of agriculture and forestry) on the small 0.93 subject
+property contrasts with the 44 acre farm surrounding the property on three sides (north, east, and
+south).
+Conversely, though separated by a road, the subject property resembles the development pattern
+of the RR zone properties towards the west. The RR properties along the west side of the SE
+Troutdale Road share a similar development pattern with the subject property. In the case of the
+subject property, it is dominated by an existing dwelling, parking, walkways, and landscaping,
+which is substantially similar to the RR properties to the west.
+
+3.14 (b) Existing public facilities and services (water and sewer lines, etc.);
+Case Files: T4-2019-12624 and EP-2019-12704 Page 16 of 43
+Applicant: There are no public water or sewer lines serving the subject property. Water is
+provided from an individual on-site well that is believed to have been originally dug to serve the
+school and has since provided abundant, domestic water for users of the site. The well meets
+domestic needs by currently pumping out 10 gallons of water per minute. (See Exhibit D,
+Certification of Water Service form)
+The City of Troutdale has an above-ground water reservoir on a two-acre parcel approximately
+one-quarter mile to the east of the site immediately across from the adjacent farm land.  A 12-
+inch water transmission line from this city-owned property provides domestic water to the
+residents of the City. The water main runs west from the reservoir site along SE Strebin Road to
+its intersection with SE Troutdale Road placing it less than 250 feet from the nearest corner of
+the subject property. This line has the capacity to serve undeveloped properties along Strebin
+Road and SE Troutdale Road, including the subject property.
+Sewage from the subject property is discharged into an onsite private septic system that was
+installed either at the time of the 1927 school house construction, or some time since then. The
+system consists of a 1,000 gallon concrete septic tank to hold solids while the liquid waste is
+discharged to an onsite drain field. The septic system was built to handle the needs of a school
+and now provides more than adequate treatment and holding capacity for the current four-
+bedroom single family dwelling use. The nearest Troutdale sewer line serves lots within a city
+subdivision located on the north side of SE Strebin Road, approximately 500 feet northeast of
+the subject property.
+The subject property lies within Multnomah County Rural Fire District #10 which contracts
+with the City of Gresham for fire service; thus, fire service is provided by nearby Gresham. The
+closest fire station is located near Kane Drive and SE Division Street in Gresham -- less than
+three miles from the subject property.
+Police service is provided by the Multnomah County Sheriff’s Department, which has offices
+nearby in the City of Troutdale.
+The exception area is located less than 500 feet from the closest city limits of Troutdale to the
+north. The City provides a full range of urban services and public facility infrastructure.
+
+Staff Finding: The applicant has demonstrated that the property is served by existing public
+utilities or equivalent private facilities. However, this standard requires an applicant to address
+whether existing public facilities and services on or near the subject property commit the subject
+property to non-resources uses. The level of public services do not irrevocably commit the
+property to nonfarm uses.
+
+3.15  (c) Parcel size and ownership patterns of the exception area and adjacent lands:
+ (A) Consideration of parcel size and ownership patterns under subsection (6)(c) of this
+rule shall include an analysis of how the existing development pattern came about and
+whether findings against the goals were made at the time of partitioning or subdivision.
+Past land divisions made without application of the goals do not in themselves
+demonstrate irrevocable commitment of the exception area. Only if development (e.g.,
+physical improvements such as roads and underground facilities) on the resulting
+parcels or other factors makes unsuitable their resource use or the resource use of
+nearby lands can the parcels be considered to be irrevocably committed. Resource and
+Case Files: T4-2019-12624 and EP-2019-12704 Page 17 of 43
+nonresource parcels created and uses approved pursuant to the applicable goals shall
+not be used to justify a committed exception. For example, the presence of several
+parcels created for nonfarm dwellings or an intensive commercial agricultural
+operation under the provisions of an exclusive farm use zone cannot be used to justify
+a committed exception for the subject parcels or land adjoining those parcels.
+(B) Existing parcel sizes and contiguous ownerships shall be considered together in
+relation to the land's actual use. For example, several contiguous undeveloped parcels
+(including parcels separated only by a road or highway) under one ownership shall be
+considered as one farm or forest operation. The mere fact that small parcels exist does
+not in itself constitute irrevocable commitment. Small parcels in separate ownerships
+are more likely to be irrevocably committed if the parcels are developed, clustered in a
+large group or clustered around a road designed to serve these parcels. Small parcels
+in separate ownerships are not likely to be irrevocably committed if they stand alone
+amidst larger farm or forest operations, or are buffered from such operations;
+Applicant: The exception area consists of a single .93 acre parcel that was created in 1886
+when the land owners deeded the property to the local school district in order to build a school
+to replace the original Cedar School that was constructed in 1857 on a nearby site. Cedar
+School was one of the earliest school houses in East County. The second Cedar School was built
+on the current site in 1886 and was replaced by the existing school that was built in 1927. The
+present structure continued to be used by the school district (later consolidated with Troutdale
+School District) until 1971. The property was sold to a private party (William Rogers) in 1976
+whereupon the school house was converted to a single-family residence. In 1978 William
+Rogers sold the property to Timothy and Gail O’Neill, glasswork artists, who not only occupied
+the building as their residence but also converted the auditorium and classrooms into art
+studios and an art gallery. The current owner, Colleen Cahill, purchased the property in 1999
+and continues to occupy it as a single-family dwelling as well as a studio/office for her
+photography business.
+The adjacent agricultural land that lies to the north, east and south of the exception area
+consists of three parcels under the same ownership. The adjacent farm unit totals 28.58 acres
+consisting of three individual parcels of 1.15, 8.48 and 18.95 acres.
+The 1.15 acre adjacent parcel to the north appears to be a lot of record that was created many
+years ago for unknown reasons. This parcel, along with the 8.48 acres to the east and the 18.95
+acres to the south, has been in the Baker family since they settled the area decades ago. These
+three parcels are part of the original Baker farmstead that still exists today. Although the Baker
+family no longer farms the property, they lease it to others who continue to farm the land.
+The four closest rural residential properties across Troutdale Road from the exception area are
+each separately owned. Parcel sizes vary as follows: 4.95, 5.11, 7.33 and 10.11 acres. The
+smallest of these parcels has existed since at least the mid-1950s, whereas as the other three
+parcels were more recently created and do not show up on the County assessor maps until after
+the 1970s.
+
+Staff Finding: Staff concurs with and adopts the applicant’s analysis of the ownership patterns
+of the exception area and adjacent lands, except that staff does not and need not make any
+determinations with respect to the ‘lot of record’ status of adjacent properties. In consideration
+of subsection (A), the RR zoned properties to the west range in size from 0.73 acres (property
+Case Files: T4-2019-12624 and EP-2019-12704 Page 18 of 43
+described as 1S3E12B -00302) to 10.92 acres (property described as 1S3E12B -00200). The
+subject property was created prior to the creation of Statewide Planning Goal 3 (Agricultural
+Lands). Oregon Senate Bill 100 (signed into law in 1973) (Exhibit B.7) established the
+framework for Goal 3. The subject property was created in 1886 (Exhibit A.3) and was not
+subject to Goal 3 at the time of its creation approximately 87 years prior. In addition, the non-
+resource use of the property – for a single-family dwelling – predated EFU zoning on the
+property, meaning the non-resource uses on the property were not approved pursuant to the
+applicable goals (Exhibit B.18).
+
+In consideration of subsection (B), none of the contiguous properties are in the same ownership
+as the subject property. The majority of the small 0.93-acre property is dominated by existing
+development including the historic schoolhouse building, a driveway and parking area, and
+pedestrian sidewalk connections (see aerial photograph – Exhibit A.1.4.A). The septic system
+and sanitary drainfield take up a substantial portion of a 0.93 acre property as well (Exhibit
+A.1.4.A). While the property is surrounded on three sides by large EFU zoned parcels that are
+currently used for farming, it is also contiguous (only separated by the public road) with smaller
+RR zoned properties to the west. The subject property shares a similar development pattern with
+the contiguous RR zoned parcels to the west, but is dissimilar to the surrounding farmland. The
+fact that vegetative buffering between the farm operation and the subject property is not a
+primary factor in consideration of existing parcel sizes and contiguous ownerships.
+
+3.16  (d) Neighborhood and regional characteristics;
+Applicant: The exception area is located in proximity to the neighboring cities of Gresham to
+the west and Troutdale to the north. Full scale urban subdivisions are located at the edges of
+both cities and those within the City of Troutdale provide a visual backdrop to the subject
+property because of their nearness.
+The northeast corner of the subject property lies within 250 feet of the urban growth boundary
+that encompasses lands outside the Troutdale city limits but within its urban planning area.
+These lands are subject to city zoning under an intergovernmental agreement between
+Troutdale and Multnomah County.  Since these rural lands are earmarked for future
+incorporation into the city and for urban level development, Troutdale has zoned them R-10,
+which allows lots as small as 10,000 square feet to be created.
+Approximately 0.2 miles to the east of the subject property is a 14.5 acre parcel occupied by the
+Open Door Baptist Church and Open Door Christian Academy – a private school with grades
+pre-school through high school. The academy has a current enrollment of 300 students and 20
+teachers. Although located on the south side of SE Strebin road outside the Troutdale city limits
+and outside the urban growth boundary, the church/school complex receives water and sewer
+service from Troutdale through an extra-territorial service agreement.
+Urban subdivisions within the City of Gresham to the west are separated from the exception
+area by the rural residential parcels across Troutdale Road from the subject property. This
+separation is further enhanced by the riparian corridor associated with Beaver Creek, which
+flows along the rear of the rural residential parcels.
+From a regional perspective, the subject property lies within the boundaries of the Metro
+regional government. In 2010 in conjunction with its regional city and county partners, Metro
+designated lands outside the current Urban Growth Boundary (UGB) but within its
+Case Files: T4-2019-12624 and EP-2019-12704 Page 19 of 43
+jurisdictional boundaries as either Urban or Rural Reserves. An urban reserve designation
+means that the lands can be considered for future inclusion within the UGB and ultimate urban
+level development. A rural reserve designation means that the lands shall remain rural without
+the prospect of inclusion within the UGB for at least fifty years.
+During the process of designating urban and rural reserves, the subject property and
+surrounding lands were proposed as rural reserves.  However, when the City of Troutdale
+opposed this designation and expressed its desire to see this area designated as urban in order
+to serve as a future expansion area for the city, Metro and Multnomah County decided to leave
+an area of approximately 220 acres undesignated – meaning it is neither urban nor rural. The
+undesignated status leaves the door open for further review and consideration of this area for
+inclusion within the UGB and urban development in twenty years – in approximately the year
+2030. Thus on the regional scale, the exception area is a potential candidate for designation as
+urban reserve and inclusion within the UGB if there is need for additional lands to meet
+projected urban growth over a twenty-year planning horizon.
+
+Staff Finding: Staff concurs with, adopts, and supplements the applicant’s description of
+neighborhood and regional characteristics. For the purposes of this discussion, it is useful to
+define the neighborhood. Generally the neighborhood consists of lands within a quarter mile
+exclusive of the urban subdivisions within the city limits of Troutdale and Gresham (Exhibit
+B.19). The ‘neighborhood’ consists of a mix of larger farm properties (up to 27 acres), smaller
+rural residential properties (as small as 0.73 acres), and a few properties dominated by other
+uses such as a religious institution and water district infrastructure. The regional context for the
+subject property is that it is situated very close to the urban areas of Troutdale and Gresham
+(and the Urban Growth Boundary) and is located within Metro’s service boundary (Exhibit
+B.19).
+
+3.17 (e) Natural or man-made features or other impediments separating the exception area
+from adjacent resource land. Such features or impediments include but are not limited
+to roads, watercourses, utility lines, easements, or rights-of-way that effectively impede
+practicable resource use of all or part of the exception area;
+Applicant: There are no natural features or impediments separating the exception area from the
+adjacent agricultural resource land. The only man-made feature that provides separation from
+these resource lands is the extensive stand of trees, shrubs and other landscaping that line the
+perimeter of the exception area. Much of the vegetation has been in existence for decades and
+some of the trees appear to date back to the time of the second Cedar School’s construction on
+this site in 1886, if not before. Based on their size, two cedar trees at the southeast corner of the
+property, two maples at the northeast corner, and four Douglas firs and a maple tree on the
+southern border appear to be over 100 years old. Some may have existed on the property long
+before the school was built. These trees can be considered natural features that distinguish the
+exception area from the cleared, open farm lands surrounding it.
+Staff Finding: This standard requires examination of whether there are impediments separating
+the exception area from adjacent resource land that effectively impede practicable resource use
+of the exception area. Here, there are no man-made features or impediments separating the
+exception area from the adjacent farm resource land. However, existing landscape features, such
+as significant trees and shrubs, effectively impede practicable resource use of the exception area
+in conjunction with neighboring resource uses (Exhibit A.1.4.A) because they create a barrier
+Case Files: T4-2019-12624 and EP-2019-12704 Page 20 of 43
+separating the much smaller exception area from the neighboring farms. In addition, those
+landscaping features impede practicable resource use of the exception area because they occupy
+most areas of the property that are not already physically developed.
+
+3.18 (f) Physical development according to OAR 660-004-0025; and
+OAR Chapter 660
+Division 4 INTERPRETATION OF GOAL 2 EXCEPTION PROCESS
+
+Staff Finding: As found in Section 3.21 of this report, Physical development according to OAR
+660-004-0025 is a factor for the committed exception.
+
+3.19  (g) Other relevant factors.
+Applicant: The applicant has not identified any other factors for a findings of fact related to a
+committed exception for this property.
+
+Staff Finding: Another relevant factor for the irrevocably committed exception is the historical
+nature of the property and the development on the property, which make it impracticable to
+engage in resource use of the property. The property was created in 1886 (Exhibit A.3) and a
+schoolhouse was constructed on it shortly thereafter. The property has been in non-resource use
+since that time. The original building was replaced by the current one in 1927. The site is not
+simply physically developed, but has a history dating as far back as the history of the state of
+Oregon, which became a state in 1859. A primary goal of the applicant is to be able to legally
+occupy the building for residential purposes and in turn take care of the historic building and
+property. According to the applicant:
+“The current owner/occupant is actively engaged in preserving the building’s historical
+integrity. During development of the Multnomah County Comprehensive Plan in 2016, the
+property owner engaged in an online petition drive to garner community support for her effort
+to preserve Cedar School, as well as support for preservation of historic sites in general. That
+petition drive resulted in nearly 500 signatures on the owner’s Facebook page. In a strong show
+of support for her cause, the Troutdale Historic Society obtained 22 personal signatures for her
+petition.”
+Further, the Troutdale Historical Society has submitted a letter in support for the zone change in
+recognition of the property as a historical asset (Exhibit A.1.4.E-6). The City of Troutdale and
+several community members have also sent letters in support of the proposal (Exhibit A.1.4.E).
+Staff finds that the proposed zone change to Rural Residential further supports the upkeep and
+maintenance of the historic property and as such is an additional relevant factor.
+
+3.20 (7) The evidence submitted to support any committed exception shall, at a minimum,
+include a current map or aerial photograph that shows the exception area and adjoining
+lands, and any other means needed to convey information about the factors set forth in
+this rule. For example, a local government may use tables, charts, summaries, or
+narratives to supplement the maps or photos. The applicable factors set forth in section (6)
+of this rule shall be shown on the map or aerial photograph.
+
+Case Files: T4-2019-12624 and EP-2019-12704 Page 21 of 43
+Applicant: Exhibit A-3 is an aerial photo showing the exception area and adjacent lands. It
+provides evidence to support a committed exception finding.
+
+Staff Finding: The applicant submitted an aerial photo with labeled development and
+infrastructure (Exhibit A.1.4.A) This evidence in addition to the applicant’s narrative as
+supplemented by staff findings in Sections 3.13 through 3.19 above.
+
+3.21 660-004-0025
+Exception Requirements for Land Physically Developed to Other Uses
+(1) A local government may adopt an exception to a goal when the land subject to the
+exception is physically developed to the extent that it is no longer available for uses
+allowed by the applicable goal. Other rules may also apply, as described in OAR 660-004-
+0000(1).
+Applicant: In responses to previous criteria, this narrative has explained why the land subject
+to an exception is physically developed to the extent that it is no longer available for goal 3
+uses.
+The applicant does not believe that other rules described in OAR 660-004-0000(1) apply to this
+particular exception request.
+
+Staff Finding: Staff concurs with and adopts the applicant’s proposed finding. This standard
+requires a determination of whether the subject property is physically developed to the extent
+that it is no longer available for the uses allowed by Goal 3, which primarily are agricultural and
+farm uses. The majority of the 0.93-acre subject property is dominated by existing development
+including the historic schoolhouse building, outdoor deck, driveway, parking area and
+pedestrian sidewalk connections (see aerial photograph – Exhibit A.1.4.A). Typically a septic
+system and sanitary drainfield take up a substantial portion of a 0.93-acre developed rural
+subject property as well. Because most of the 0.93-acre subject property is physically developed
+with structures and paved areas, the exception area is no longer available for the resource uses
+allowed under Goal 3. In addition, the specific rules described in OAR 660-004-0000(1) do not
+apply to this application because it does not address (a) reasons for sanitary sewer service to
+rural lands; (b) reasons for urban transportation improvements on rural land; or (c) irrevocably
+committed or reasons exceptions to urban development on rural lands.
+
+(2) Whether land has been physically developed with uses not allowed by an applicable
+goal will depend on the situation at the site of the exception. The exact nature and extent of
+the areas found to be physically developed shall be clearly set forth in the justification for
+the exception. The specific area(s) must be shown on a map or otherwise described and
+keyed to the appropriate findings of fact. The findings of fact shall identify the extent and
+location of the existing physical development on the land and can include information on
+structures, roads, sewer and water facilities, and utility facilities. Uses allowed by the
+applicable goal(s) to which an exception is being taken shall not be used to justify a
+physically developed exception.
+Applicant: This goal exception is being sought for the purpose of allowing the already
+developed .93 acre exception area to be used as a single-family dwelling, just as it has been
+since 1976. Single-family dwellings in conjunction with farming operations are permitted on
+Case Files: T4-2019-12624 and EP-2019-12704 Page 22 of 43
+Goal 3 agricultural lands so the requested use is not inconsistent with allowed uses on EFU
+lands. In the case of the exception area, however, the existing dwelling is not farm related and
+the subject property has no potential for agricultural use because it is physically developed.
+The applicant believes the nature and extent to which the exception area has been physically
+developed has been adequately described in the previous responses to the exception criteria.
+This nature and extent of this physical development is demonstrated on the aerial photographs
+included with this application narrative. (Exhibits A-1 and A-2)
+
+Staff Finding: Staff concurs with and adopts the applicant’s proposed finding. As found in
+Section 3.03, the majority of the 0.93-acre property is physically developed including the
+historic schoolhouse building, deck, sheds, parking area, driveway and pedestrian sidewalk
+connections (see aerial photograph – Exhibit A.1.4.A). The applicant’s site plan (Exhibit
+A.1.4.A) indicates the location of the septic system and sanitary drainfield and well. Most of the
+remaining area of the 0.93-acre subject property is existing landscaping associated with the
+former school site (Exhibit A.1.4.A). Based on aerial photographs, it appears that there are only
+two areas of the subject property that are not physically developed or landscaped: (1) an
+approximately 45 foot by 45 foot area of property adjacent to a walkway and the septic
+drainfield, and (2) an approximately 60 foot by 60 foot area behind the deck (Exhibit A.1.4.A).
+
+In addition, although a single-family dwelling use is allowed on Goal 3 agricultural lands, the
+current single-family dwelling use pre-dated EFU zoning on the property and was not
+established in accordance with Goal 3 (Exhibit B.18).
+
+4.00 Multnomah County Type 4 Quasi-Judicial Plan and Zone Change Criteria
+
+4.01 MCC 39.1205(A) Quasi-judicial Plan Revision.
+ (1) The plan revision is consistent with the standards of ORS 197.732 if a goal exception
+is required, including any OAR's adopted pursuant to these statutes;
+
+Applicant: A goal exception is required so this criterion applies.
+
+Staff Finding: The plan revision is consistent with the goal exception standards of ORS
+197.732 and its implementing OARs as determined in the findings in Section 3.01 through 3.21
+of this report. This standard is met.
+
+4.02 (2) The proposal conforms to the intent of relevant policies in the comprehensive plan or
+that the plan policies do not apply. In the case of a land use plan map amendment for a
+commercial, industrial, or public designation, evidence must also be presented that the
+plan does not provide adequate areas in appropriate locations for the proposed use;
+
+Applicant: This application seeks a land use plan map amendment for agricultural resource
+lands; therefore, it is unnecessary to present evidence that the plan does not provide adequate
+areas in appropriate locations for the proposed use.
+
+Case Files: T4-2019-12624 and EP-2019-12704 Page 23 of 43
+Staff Finding: The proposal conforms to the intent of relevant policies of the Comprehensive
+Plan as determined in Section 5.1 through 5.3 of this report. The amendment does not include
+commercial, industrial, or public designation, so the second part of this standard is not
+applicable. This standard is met.
+
+4.03 (3) The uses allowed by the proposed changes will:
+(a) Not destabilize the land use pattern in the vicinity;
+Applicant: The uses that are contemplated to occur on the site under the proposed RR zoning
+are the existing single family dwelling and the home occupation photography business.
+Although RR zoning is considered a more “intensive” zone than EFU, in reality the EFU zone
+allows a much broader range of uses, many of which are more intensive than what is permitted
+in RR. For example, the EFU zone allows exploration and production of geothermal resources,
+operations for exploration of minerals, churches and cemeteries in conjunction with churches,
+and fire service facilities. None of these are permitted in the RR zone. The list of review uses
+for EFU is much more expansive and intensive than RR. Included among the review uses
+permitted in EFU but not in RR are:
+ Farm stands
+ Wineries
+ Off-street parking and loading
+ Parking of no more than seven log trucks
+ Large wineries
+ Up to 18 days of agri-tourism or other commercial events at a winery
+
+The vast range of allowed uses under EFU zoning, which is considerably more extensive and
+invasive than those allowed on RR lands, poses greater potential to destabilize the land use
+pattern in the vicinity than RR zoning of this property would.
+Long-time prior use of the property as a school was never found to have destabilized the land
+use pattern in this vicinity; nor has the present use of the property as a dwelling since 1976
+destabilized the land use pattern in the area.  These uses have proven to be a good fit for the
+parcel, which provides generous perimeter landscaping to buffer the property from adjacent
+agricultural lands. The uses are consistent with the rural residential development pattern on
+RR zoned properties immediately across Troutdale Road from the subject property.
+
+Staff Finding: This standard requires a determination of whether the uses allowed by the
+proposed change will destabilize the land use pattern in the vicinity, you have to first identify
+what the land use pattern is. Staff understands vicinity to be synonymous with the
+neighborhood as previously defined in Section 3.16 of this report and restated here; generally
+the neighborhood consists of lands within a quarter mile exclusive of the urban subdivisions
+within the city limits of Troutdale and Gresham (Exhibit B.19). The ‘neighborhood’ consists of
+a mix of larger farm properties (up to 27 acres), smaller rural residential properties (as small as
+0.73 acres), and a few properties dominated by other uses such as a religious institution and
+water district infrastructure.
+Staff concurs with, adopts, and supplements the applicant’s proposed finding. The existing
+development on the site is very similar to the development pattern in the vicinity and the RR
+zone properties in particular. Where dwellings are located they are typically adjacent to parking
+areas and landscaping which matches the existing development pattern on the subject site. This
+development pattern is especially prevalent in the RR zoned properties located west of the
+Case Files: T4-2019-12624 and EP-2019-12704 Page 24 of 43
+subject property. No changes are proposed to the subject property configuration or to
+development patterns on this site as part of this application that would impact the local land use
+pattern. This standard is met.
+
+4.04 (b) Not conflict with existing or planned uses on adjacent lands; and
+
+Applicant: There is clearly no conflict with existing rural residences that occupy the adjacent
+properties along Troutdale Road to the west.  Past and current uses of the subject property
+have coexisted in harmony with agricultural activities on adjacent farm lands.
+
+Staff Finding: The current uses on adjacent lands are agriculture to the north, east, and west
+and Rural Residential development to the west. These uses are allowed in their respective zone
+designations (EFU and RR). The existing zoning on adjacent lands mirrors the Comprehensive
+Plan zoning designations planned for the area (Exhibit B.8). The proposed zone change of the
+subject property from EFU to RR does not conflict with adjacent uses because rural residences
+are typical in the rural agricultural community. In addition, the subject property has been used
+for residential purposes for years with no evidence of conflict with farm uses or rural
+residential uses on adjacent lands. A letter from Robert Baker (Exhibit A.1.4.E-1), the adjacent
+owner of the surrounding agricultural properties, indicates that they are in support of the
+application, do not foresee any conflicts with the existing agricultural operation and are in
+support of the applicant’s plan to continue maintaining the historic schoolhouse. Staff is not
+aware of any future planned uses on adjacent lands which need be considered. This standard is
+met.
+
+4.05 (c) That necessary public services are or will be available to serve allowed uses.
+
+Applicant: The water well and septic system that serve the subject property are believed to
+have been installed in conjunction with the original use of the site as a school; however,
+undocumented replacements and upgrades could possibly have occurred since then. These
+systems continue to provide more than adequate service for the single-family residence and
+photography studio that now occupy the property. Allowed uses in the RR zone would not
+trigger the need for additional public services from what is already available to the site.
+
+Staff Finding: Public services necessary to serve a Rural Residential zoned property in this
+area typically include, access onto a County public road, emergency services, water, sanitation,
+electric, garbage Existing public services include access onto a County public road, and
+emergency services provided by the County Sherriff and Fire District 10. Other public services
+available to the site include electrical power provided by PGE, Natural Gas by Northwest
+Natural, mail service by the USPS and garbage service provided by Twelve Mile Disposal
+Services. According to the applicant, water is provided on site by a private well (Water Cert.
+Exhibit A.1.4.D) and sanitation is handled by an onsite septic system and drainfield (Exhibit
+A.1.4.A – site plan) Staff finds that the necessary public services are available. This standard is
+met.
+
+4.06 (4) Proof of change in a neighborhood or community or mistake in the planning or zoning
+for the property under consideration are additional relevant factors to be considered
+under this subsection.
+Applicant: As previously noted, the subject property was zoned MUA-20 for a period of time
+when the County first adopted new rural zoning in compliance with statewide planning goals
+Case Files: T4-2019-12624 and EP-2019-12704 Page 25 of 43
+and guidelines. This was likely done in recognition of the development status of the property
+with a non-farm use and its close proximity to neighboring rural residences zoned RR. If MUA-
+20 zoning were still present, the non-farm residence on the property would be allowable. For
+reasons unknown to the applicant, in the early 1980’s the zoning designation was changed to
+EFU-CS thereby rendering the residence as an unallowable nonfarm dwelling. In the absence
+of the facts, one could argue that this zone change was a mistake.
+A relevant factor that the neighborhood is positioned for change is the fact that Metro and the
+County have not designated the subject property and surrounding area as either urban or rural
+reserves. The area has been undesignated to allow it to be evaluated for possible inclusion
+within the UGB in or around the year 2030. Continued build out of lands within neighboring
+Troutdale and Gresham, along with dwindling developable land within the current UGB in
+general, will place increasing pressure on this undesignated area for future inclusion within
+the UGB. (See Exhibit E-8, Letter from City of Troutdale)
+Staff Finding: The standard requires proof of a change in either the neighborhood or
+community or a mistake in the planning or zoning (or both). In this case, a mistake in the
+zoning occurred.
+The earliest zoning on the property (prior to 1977) was F-2 (Exhibit B.9). The F-2 zone
+permitted single family dwelling as an allowed use (Exhibit B.10). In 1977 the zone changed to
+MUA-20 (Exhibit B.11 -- on 10/6/1977 (Ord 149)). The larger adjacent farm properties were
+also included in the MUA-20 zone, while properties west of the SE Troutdale Road were
+included in the RR zone. The MUA-20 zone also permitted single family dwellings as an
+allowed use (Exhibit B.12). In 1980 the zoning of the subject property changed to EFU as did
+all of the much larger agricultural parcels east of SE Troutdale Road (Exhibit B.13 -- 7/15/1980
+(Ord 238)). Staff suspects that the inclusion of the subject property in the EFU zone in 1980
+was due to a ‘broad brush’ zoning effort in response State mandates to apply the EFU zone to
+agricultural areas consisting of high-value farm soils.
+Staff finds that the inclusion of the 0.93 acre historical property in the EFU zone rather than
+the adjacent RR zone may be considered a ‘mistake’ insofar as the property was never likely to
+be suitable for agriculture given (1) the small size of the property; (2) the extensive
+development on the property dating back to the 1800s; and (3) the fact that the property had
+never been used for agricultural purposes.  Even with demolition of the historic schoolhouse
+and the associated sanitation infrastructure, the property would likely be too small to be
+considered a suitable commercial farm, and it is questionable whether demolition of the
+schoolhouse and associated infrastructure would restore the land to a quality where it could be
+farmed at all.
+
+4.07 MCC 39.1205(B) Quasi-Judicial Zone Change. The burden of proof is upon the person
+initiating a zone change request. That burden shall be to persuade that:
+
+Staff Finding: As demonstrated in the findings in Sections 4.08 through 4.11 below, the
+applicant has carried the burden of proof in support of the proposed zone change. This standard
+is met.
+
+4.08 (1) Granting the request is in the public interest;
+Case Files: T4-2019-12624 and EP-2019-12704 Page 26 of 43
+Applicant: The term “public interest” is not defined in the Multnomah County Zoning Code
+nor does it appear to be defined anywhere within ORS land use planning enabling legislation.
+Thus, the term can be, and has been, broadly construed in the context of land use law.
+As it pertains to this rezone application, the public interest being addressed is the right to
+continue use of a historic old school house as a legal single-family dwelling and the
+opportunity to obtain a home occupation permit for the owner’s photography studio within the
+dwelling. It is in the public interest that the old Cedar School be preserved and properly
+maintained so that it provides a visual connection to history for the local community and for all
+those who once attended the school or its many extracurricular activities such as civic, social,
+and recreational events.
+Since purchasing and occupying the site in 1999, the applicant has dedicated an enormous
+amount of time, energy and money into repair and upkeep of the building and grounds. This
+has been particularly challenging given the age of the building with its frequent need for
+structural, mechanical and electrical repairs and upgrades. The owner has a deep devotion to
+preservation of the property, which is demonstrated by the photographic display of previous
+school classes, historical newspaper clippings, and memorabilia from Cedar School’s past.
+Visitors to the home or to the photography studio are welcomed upon their entry by this
+display, giving them an immediate understanding and appreciation for the property’s rich
+history. The building’s bright brick exterior with its unique architecture sets it apart from other
+properties and serves as a constant reminder of its place in East Multnomah County’s heritage.
+
+Granting this rezone request from EFU to RR will enable the former Cedar School building to
+be occupied as a legally authorized residence along with operation of an allowed home
+occupation. This occupancy is the best assurance of the property’s continuous maintenance
+and its preservation as a historical resource. Granting this request is clearly in the public
+interest. (See Exhibit E-4, Letter from neighbors, Dan and Jolene Cox, Exhibit E-5, Letter from
+Open Door Baptist Church and Exhibit E-6, Letter from Troutdale Historical Society)
+
+Staff Finding: The standard requires the request to serve the public as opposed to that which
+would solely serve the property owner. Staff concurs with and adopts the applicant’s proposed
+finding as it relates to historic preservation of the schoolhouse structure being in the public
+interest. The change to RR zoning is more likely to facilitate the maintenance and upkeep of
+the historic property if the property can be lawfully used for residential purposes. In other
+words, the change to RR zoning provides the applicant with an opportunity to make an
+application to lawfully use the subject property for residential purposes, which in turn will
+incentivize and facilitate the maintenance and upkeep of the historic property. Though the
+rezone does not authorize any particular use on the property. This standard is met.
+
+4.09 (2) There is a public need for the requested change and that need will be best served by
+changing the classification of the property in question as compared with other available
+property;
+
+Applicant: Our manmade world is enriched by the presence of historical resources that link us
+to our past and remind us of people, places, and events that shaped who we are as a society
+today. All those who live in the vicinity of Cedar School and those simply passing by the site
+are profoundly struck by the simple grandness of this historic building. The Troutdale
+Historical Society is on record supporting this rezone application because the Society
+Case Files: T4-2019-12624 and EP-2019-12704 Page 27 of 43
+recognizes the historical importance of the building and the risk of losing it if the current
+owner is denied use of it as a residence. If RR zoning, which will allow residential use of the
+building, is denied, the prospect increases that the owner will vacate the site and the likelihood
+increases that a less sympathetic owner will let the building fall into such disrepair that
+demolition becomes necessary. For this reason, there is a public need to change the zoning of
+the subject property and that need is best served by changing the zoning classification to Rural
+Residential. Because of Cedar School’s historical significance and unique characteristics, no
+other property in the vicinity could satisfy this public need. (See Exhibit E-7, Letter from
+Troutdale Historian, Sharon Nesbitt)
+
+Staff Finding: The standard requires the requested change to serve a public need. The historic
+preservation of the schoolhouse structure is in the public interest and the change to RR zoning
+is more likely to facilitate the maintenance and upkeep of the historic property if the property
+can be lawfully used for residential purposes. Changing the zoning classification for this
+property, rather than locating the use on other available property, is the only option given the
+historic schoolhouse structure already is located on the subject property. This standard is met.
+
+4.10 (3) The proposed action fully accords with the applicable elements of the Comprehensive
+Plan; and
+
+Applicant: This zone change criterion has been addressed by previous responses to MCC
+39.1205(A)(2), Quasi-judicial Plan Revision criteria.
+
+Staff Finding: As determined in the findings in Sections 5.01 through 5.03 below, the
+proposed zoned change fully accords with the applicable elements of the Comprehensive Plan.
+This standard is met.
+
+4.11 (4) Proof of change in a neighborhood or community or mistake in the planning or zoning
+for the property under consideration are additional relevant factors to be considered
+under this subsection. The existence of home occupations shall not be used as justification
+for a zone change.
+
+Applicant: Evidence of change occurring in the neighborhood is found in the presence of
+residential subdivisions a short distance northeast of the subject property. Although located
+within nearby City of Troutdale, these subdivisions of former agricultural land are an example
+of the change that has surrounded the Cedar School site. The most recent of these subdivisions
+occurs on land owned by the Baker family, who also own the farm land immediately adjacent
+to the subject property. The Bakers sold 12.3 acres of their farmland for development in 2007.
+They own another 27 acres which lies just outside the city limits but within the urban growth
+boundary and is, therefore, a prime candidate for annexation and development. In fact, this
+property is already zoned for residential development (R-10) by the City under an
+intergovernmental agreement with the County that transferred land use jurisdiction to
+Troutdale. The southern boundary of this 27-acre tract is only 248 feet from the nearest corner
+of the subject property.
+
+As population growth within the Portland Metropolitan area intensifies, so too does the
+pressure to develop more of the unincorporated lands within the UGB. In 2008, for example,
+the City of Troutdale annexed two parcels just northwest of the subject property. The City’s
+Case Files: T4-2019-12624 and EP-2019-12704 Page 28 of 43
+annexation of these 14.15 acres, located approximately 500 feet from the subject property at
+their nearest points, further demonstrates the change the neighborhood is experiencing.
+
+As previously mentioned in this narrative, the subject property was zoned MUA-20 for a period
+of time when the County first adopted rural zoning in compliance with newly established
+statewide planning goals and guidelines. This was likely done in recognition of the
+development status of the property with a non-farm use and its close proximity to neighboring
+rural residences zoned RR. In the early 1980’s the zoning designation was changed to EFU-CS
+thereby rendering the residence as a non-allowable dwelling. One could argue that this zone
+change was a mistake and should have retained MUA-20 zoning to this day.
+
+Staff Finding: This standard largely mirrors the standard addresses in Section 4.06 of this
+report, and the findings from Section 4.06 therefore are incorporated and adopted in response
+to this standard as well. The presence of any home occupation is not a factor considered in this
+application for a zone change.
+
+5.00 Multnomah County Comprehensive Plan Policies
+
+As noted above in Section 4.02, MCC 39.1205(A)(2) requires an applicant seeking a quasi-judicial plan
+revision to show that the proposal “conforms to the intent of relevant policies in the comprehensive
+plan or that the plan policies do not apply.” The policies addressed below have been determined to be
+the relevant policies in the comprehensive plan for purposes of this standard and the following findings
+are made in support of that standard.
+5.01 Exclusive Farm Use Zones
+
+3.6 Designate and maintain as exclusive agricultural land, areas which are:
+1. Predominantly agricultural soil capability I, II, III, and IV, as defined by the U.S.
+Soil Conservation Service, and
+
+Applicant: According to Soil Conservation Service maps the subject property consists of high
+value agricultural soils (Quatama Loam, Class IIw).  However, the farmer of the adjacent
+agricultural land has stated that the soils in the immediate area of the subject property are not
+prime farming soils and require additional soil supplements to be as productive as other
+nearby agricultural land. Regardless, because the subject parcel is fully developed and
+irrevocably committed to a nonfarm use, it is not capable of being farmed. Thus, an EFU
+designation is not appropriate for the site.
+
+Staff Finding: These Comprehensive Plan policies relating to Exclusive Farm Use Zones are
+relevant because the property currently is zoned EFU. The intent behind these policies
+generally is to preserve the best agricultural lands for farm use and prevent the encroachment
+of new development onto those lands. While the subject property and adjacent farm is
+composed of Class II soil (37A-Quatama loam, 0 to 3 percent slopes, llw – Exhibit B.20), the
+subject property was dedicated to educational use beginning in the 1850s and then residential
+use in the 1970s before the property was zoned Exclusive Farm Use. Cultivation on the 0.93
+acre subject property has not been realistic since the 1850s because of the small size of the
+property and the fact that it is dominated by the school house and related parking and sanitation
+Case Files: T4-2019-12624 and EP-2019-12704 Page 29 of 43
+infrastructure. This proposal conforms to the intent of the policy because this proposal will not
+remove high value farm soil from agricultural use given that the property has not been in
+agricultural use, or available for agricultural use, in over 100 years.  Stated differently, the
+extensive development on the property and its historical use demonstrate that it need not be
+maintained for exclusive agricultural use.
+
+2. Of parcel sizes suitable for commercial agriculture, and
+
+Applicant: The subject parcel is only .93 acres in size and is much too small to be a
+commercially viable farm property. Because it is fully developed with a former school, now
+used as a single family dwelling, it does not lend itself to being incorporated into any adjacent
+farmland for agricultural purposes. On the basis of parcel size, the site is not suitable for
+commercial agriculture.
+
+Staff Finding: Staff concurs with, adopts, and supplements the applicant’s proposed finding.
+The intent of this policy is to preserve parcels large enough for commercial agriculture for
+exclusive agricultural use. As found in Section 3.08 the proposal to change the zone conforms
+to the intent of this policy because the property is much smaller than typical commercial
+agriculture parcels and therefore need not be maintained for exclusive agricultural use.
+
+3. In predominantly commercial agriculture use, and
+
+Applicant: The subject property has not been used for agriculture since the parcel was
+established over 130 years ago for the purpose of constructing Cedar school. Even then, there
+are several trees on the site that likely pre-date construction of the school, which suggests that
+the property might not ever have been farmed. For this reason, the site is not appropriate for
+EFU designation.
+
+Staff Finding: Staff concurs with and adopts the applicant’s proposed finding. The property
+was dedicated to educational uses beginning in the 1850s and the current schoolhouse, parking
+and landscaping have existed there since 1927, with residential use beginning in the 1970s. The
+proposal to change the zone from EFU to RR conforms to the intent of this policy because the
+subject property is not – nor has it been in the last 100 years – in predominantly commercial
+agriculture use, and therefore it need not be maintained for exclusive agricultural use.
+
+4. Not impacted by urban service, or
+
+Applicant: The subject property is not currently impacted by urban services, but as previously
+mentioned in this narrative, public (city) water and sewer service lines are within 250 feet and
+500 feet respectively of the property. Both of these urban services can be extended to the
+property if and when it is brought into the urban growth boundary for annexation into the City
+of Troutdale, which has expressed a willingness to do so in the future.
+
+Staff Finding: The intent of this policy is to preserve properties not impacted by urban service,
+and that meet the other requirements listed above (e.g. size of property) for exclusive
+agricultural use. Here, the property is not currently within an urban service area nor within the
+Urban Growth Boundary, but it does have a septic system and drainfield that occupy portions
+of the property that are not otherwise developed. The presence of that infrastructure, along with
+Case Files: T4-2019-12624 and EP-2019-12704 Page 30 of 43
+the other development on the subject property and barriers described above, would make it
+impractical to use the subject property for exclusive agricultural use. As a result, the proposal
+to rezone the property RR is not contrary to the intent of this policy.
+
+5. Other areas, predominantly surrounded by commercial agriculture lands, which
+are necessary to permit farm practices to be undertaken on these adjacent lands.
+
+Applicant: Although the subject parcel is surrounded on three sides by commercial
+agricultural land, this parcel is not necessary to permit those farm practices from being
+undertaken. Farming has occurred adjacent to the subject property throughout the many
+decades it has been used as a school and residence. Long time farming practices have thrived
+without need or dependence on the subject property for their existence. This standard for
+designating lands for EFU zoning does not apply to the subject property.
+
+Staff Finding: Staff concurs with and adopts the applicant’s proposed finding. The subject
+property is not necessary in the support of farm practices on adjacent lands because farming
+has occurred on adjacent lands for many years while the subject property has been used for
+residential and educational purposes. The subject property therefore need not be maintained for
+exclusive agricultural use to conform with the intent of this policy.
+
+ 3.7 Restrict the use of exclusive farm use lands to agriculture and other uses, consistent
+with state law, recognizing that the intent is to preserve the best agricultural lands from
+inappropriate and incompatible development.
+
+Applicant: The subject property was removed from agricultural use (if it was actually used for
+agriculture) in 1886 and committed to a nonfarm use long before EFU zoning was established
+under Oregon’s statewide planning program, enacted in the early 1970s. Because this property
+was set aside as a school site over a hundred years ago, and developed for that use, it would
+seem that a conscious decision was made at that time that use as a school was neither an
+inappropriate nor incompatible development in a largely agricultural setting. Conversion of
+the old school to a single family residence has not altered those conditions to render the site as
+an inappropriate and incompatible development within an agricultural area. Past and present
+uses of this site meet the intent of preserving the best agricultural lands from inappropriate and
+incompatible development.
+
+Staff Finding: This policy directs the County to apply the EFU zone to primarily allow for
+agricultural uses, and other uses consistent with State law with the intent of preserving the best
+agricultural lands from development. Although the policy says that EFU lands should be
+restricted to agricultural uses, the intent of that policy is to preserve ag lands from
+development. In this case, the subject property was developed well before the property was
+zoned EFU, and the property is developed to a point where agricultural use is no longer
+available or practicable on the property. As a result, a zone change to RR is not inconsistent
+with the intent of this policy because the zone change will not take the best agricultural land
+out of production or convert the best agricultural land to development – that development
+already has occurred.
+
+3.8 Maximize retention of the agricultural land base by maintaining Exclusive Farm Use
+designated areas as farm lands with agriculture as the primary allowed use.
+Case Files: T4-2019-12624 and EP-2019-12704 Page 31 of 43
+
+Applicant: If this small parcel were in agricultural use, then maintaining its EFU designation
+would make much more sense. However, as has been stated numerous times in this narrative,
+since it was created in 1886 this .93 acre parcel has been fully developed as a school and now
+as a rural residence. For this reason, retaining EFU zoning on the property does nothing
+toward maximizing retention of the agricultural land base.
+
+Staff Finding: Staff concurs with, adopts, and supplements the applicant’s proposed finding.
+The proposed zone change to RR does not jeopardize the retention of agricultural land, because
+the property is not cultivated for farm use and has not been historically cultivated for farm use
+so there is no “agricultural land base” to retain, particularly in light of the existing development
+on the subject property.
+
+3.9 Do not support zone changes that remove productive agricultural land from the
+protection afforded under Goal 3 of the Oregon Statewide Planning Program.
+
+Applicant: For the various reasons already stated in this narrative, approval of this rezone
+request will not cause the removal of productive agricultural land since the subject property is
+not currently in farm use, nor has it been in farm use for well over 100 years. It is irrevocably
+committed to nonfarm development.
+
+Staff Finding: Staff concurs with and adopts the applicant’s proposed finding. The 0.93 acre
+subject property is physically developed and irrevocably committed to nonfarm uses. The
+subject property is neither currently nor historically productive agricultural land nor even
+engaged in agriculture on any level, and as a result, this zone change will not remove
+productive agricultural land from Goal 3 protections.
+
+5.02 Rural Residential Areas
+
+2.5 Designate limited areas for rural residential development based upon the following
+criteria:
+1. Significant parcelization when an average of five (5) acres or less has already
+occurred, the majority of which are separately owned and developed;
+
+Applicant: The land across Troutdale Road from the subject property is zoned rural residential
+because of significant parcelization and other characteristics that justify rural residential
+zoning. These rural residential lands, which lie between Troutdale Road on the east and the
+Gresham city limits on the west, stretch from the Troutdale city limits on the north for
+approximately 1.5 miles south to the Gresham city limits at SE Powell Valley Road. The four
+rural residential parcels closest to the subject property are separately owned and range in size
+from 4.95 acres to 10.11 acres, with an average parcel size of 6.87 acres. The subject parcel is
+only .93 acres and is adjacent to a 1.15 acre parcel immediately north of it.
+
+Because of significant parcelization, this standard for designating Rural Residential areas is
+applicable to the subject property.
+
+It is worth pointing out that the subject property was zoned MUA-20 in 1977 when the County
+first adopted new rural zoning in compliance with statewide planning goals and guidelines.
+Case Files: T4-2019-12624 and EP-2019-12704 Page 32 of 43
+The zoning included a Community Service (CS) overlay to reflect the school located on the
+property. For reasons unknown to the applicant, this zoning designation was changed to EFU-
+CS sometime in the early 1980’s. The CS designation has since been removed due to the
+abandonment of the school and its conversion to a residence.
+
+Staff Finding: These Comprehensive Plan policies relating to Rural Residential Zones are
+relevant because the proposal is to change the zone of the subject parcel to RR. The intent
+behind these policies generally is to provide for rural residential uses in areas that are already
+differentiated from larger farm and forest properties by the existence of smaller properties
+developed with single family dwellings.
+Staff concurs with and adopts the applicant’s proposed finding. The term parcelization refers to
+properties that are generally too small to engage in commercial agriculture independently. The
+0.93 acre subject property is closer in size to the five acre minimum parcel size allowed for
+new properties in the RR zone than it is to the 80 acre minimum parcel size permitted in the
+EFU zone, and the property is separately owned and developed.
+
+2. The area is not a cohesive commercial farm or forest resource area;
+
+Applicant: The subject property, in conjunction with those rural residential parcels to the west
+along Troutdale Road, is not part of a commercial farm or forest resource area. The property
+has more in common with the rural residentially zoned parcels across the road than it does
+with the farm lands that surround it to the north, east and south. This may explain why the
+subject property was once zoned as MUA-20, a non-resource zoning designation. It also
+explains why a Rural Residential designation is appropriate.
+
+Staff Finding: Staff concurs with and adopts the applicant’s proposed finding. The subject
+property is not part of any larger commercial farm or forest resource area because it has not
+been farmed or used for forest resources in conjunction with any surrounding properties. The
+subject property therefore is appropriate to be designated for rural residential development.
+
+3. The designated area is compatible with any adjacent farm or forest uses and would
+not cause any substantial conflict with these natural resource uses;
+
+Applicant: The subject parcel has existed as a nonfarm use since construction of Cedar School
+on this site began in 1886. To the applicant’s knowledge, its use both as a school originally
+and now as a residence has been compatible with adjacent farm uses and has never caused any
+conflicts with those uses. As a school site it has long been accepted as an invaluable asset to
+the surrounding community. Historically the property has served as more than just a school.
+While it was a school house the building served as an important gathering place for the local
+community who used it for dances, theater productions and other community events.
+
+According to an information sheet about Cedar School prepared by the Troutdale Historical
+Society: “In addition to serving Scouts, 4-H and Campfire Girls, the building was a community
+meeting place.  Pie socials, spelling bees and literary society meetings occurred frequently.”
+After the school was closed the building “served for brief periods as a church, warehouse,
+square dance club, and college drama classroom.” All of these activities occurring on this site
+over the years have posed no conflict with the natural resource use of the surrounding farm
+lands. (See Exhibit F-1, Troutdale Historical Society information sheet, April 1979)
+Case Files: T4-2019-12624 and EP-2019-12704 Page 33 of 43
+
+Even with its use as a single family residence since 1976, the property continues to blend in
+harmoniously with surrounding agricultural lands. Approval of this rezone request to Rural
+Residential will not alter the longstanding relationship of this site to adjacent agricultural
+uses. (See Exhibit E-1, Letter from adjacent agricultural land owner, Robert Baker and Exhibit
+E-3, Letter from nearby farmers, the Strebin Family)
+
+Staff Finding: Staff concurs with, adopts, and supplements the applicant’s proposed finding.
+The change from the EFU to the RR zone will allow the applicant to seek approval for
+residential use of the subject property. In addition to the information the applicant provided
+above, there are no substantial conflicts between the residential use of the subject property and
+adjacent farm uses due in part to the vegetative buffer located between the existing building
+and adjacent agricultural uses (see aerial photograph – Exhibit A.1.4.A).
+
+4. The land resource is predominantly forest or forest-agricultural in nature
+(discounting the residences), rather than agricultural in character;
+
+Applicant: The land in question is not forest or forest-agricultural in nature. Therefore, this
+policy standard for designating lands for RR zoning does not apply.
+
+Staff Finding: The intent of this standard is to consider areas for RR zoning that are either
+predominately forested or mixed forest or agriculture as opposed to areas that are relatively
+non-forested. To the extent that the land on the subject property, excluding the existing
+schoolhouse building, is dominated by several large trees, the property is more closely related
+to forest than it is to agriculture given there is no cultivation on the property.
+
+5. There are no physical development limitations which would cause the area to be
+hazardous for development; and
+
+Applicant: The subject property has no physical limitations which would cause it to be
+hazardous for development. The site has been fully developed since 1886 without exhibiting
+any development hazards.
+
+Staff Finding: Staff concurs with, adopts, and supplements the applicant’s proposed finding.
+This criterion generally refers to natural physical limitations and hazards such as steep or
+unstable slopes, flood zones and the like. County GIS data do not reveal any of these types of
+hazards.
+
+6. Limited, but adequate, services must be available for the area, including those
+provided on-site (water and subsurface sewage disposal), as well as off-site (school,
+fire, police).
+
+Applicant: Since the Cedar School was originally constructed the subject property has received
+water from an onsite domestic well while sewage has been handled through onsite subsurface
+sewage disposal. These facilities continue to provide safe, reliable service to the site.
+The subject property lies within Multnomah County Rural Fire District #10 which contracts
+with the City of Gresham for fire service; thus, fire service is provided by nearby Gresham. The
+Case Files: T4-2019-12624 and EP-2019-12704 Page 34 of 43
+closest fire station is located near Kane Drive and SE Division Street in Gresham --
+approximately three miles from the subject property. Gresham Fire has certified that the
+subject property is in compliance with the fire apparatus access standards of the Oregon Fire
+Code as implemented by them. (See Exhibit C, Fire Service Agency Review Form with Revised
+Review Comments, October 30, 2019)
+Police service is provided by the Multnomah County Sheriff’s Department, which has offices
+nearby in the City of Troutdale.
+The property is within the Gresham-Barlow school district although the closest elementary
+school (Sweetbriar Elementary) is located less than a mile from the property and is within the
+Reynolds school district.
+Provision of these various services is further grounds for designating the site as Rural
+Residential.
+Staff Finding: Staff concurs with and adopts the applicant’s description of adequate services,
+as clarified herein. In particular, staff notes that the condition of the on-site sanitation system
+has not been confirmed by the County Sanitarian. If the zone change is approved, the property
+owner will be required to comply with DEQ rules pertaining to on-site sanitation systems prior
+to issuance of permits to allow the residential use of the property and/or any associated home
+occupations. Limited, but adequate, services are available or can be made available to serve the
+site. This criterion is met.
+
+2.6 Protect farmland and forest land from encroachment by residential and other non-
+farm or non-forest uses that locate in the RR zone.
+
+Applicant: Granting the request to zone this property RR will not result in encroachment by a
+nonfarm use on nearby farmland. This fully-developed, nonfarm parcel has been in existence
+for over 100 years without having any adverse impacts on those farmlands. Because of the
+extensive mature landscaping along its entire perimeter, there is a clear separation between
+the subject property and adjacent farmlands which affords protection of those farmlands from
+current or future non-farm use encroachment. RR zoning of this property will not result in
+encroachment upon adjacent farmland.
+
+Staff Finding: Staff concurs with and adopts the applicant’s proposed finding.
+
+2.7 Ensure that new, replacement, or expanding uses in the RR zone minimize impacts to
+farm and forest land by requiring recordation of a covenant that recognizes the rights of
+adjacent farm and forestry practices.
+
+Applicant: There is currently no recorded covenant of this nature.  The applicant does not
+object to a requirement for such a covenant if this rezone application is approved.
+
+Staff Finding: The criterion is applied when new, replacement, or expanding uses are
+proposed for existing RR zoned properties. If the property is rezoned to RR, the ‘farm and
+forest covenant’ will be required to be recorded prior to and as part of any separate approval for
+any new, replacement, or expanded uses.
+
+Case Files: T4-2019-12624 and EP-2019-12704 Page 35 of 43
+2.8 New non-agricultural businesses should be limited in scale and type to serve the needs
+of the local rural area.
+
+Applicant: The owner/occupant of the property runs a small photography business out of the
+home. The photography business includes an office and a studio where customers can be
+photographed.
+
+The applicant understands that continued operation of this business requires a County Home
+Occupation permit and fully intends to seek this permit if the rezone application is approved
+and the residence is legitimized. The application process for the Home Occupation will
+establish the appropriate nature and scale of this business in order for it to satisfy this policy.
+
+Staff Finding: Staff concurs with and adopts the applicant’s proposed finding. The RR zone
+provides for home based occupations that are limited in scale and type. If zone is changed to
+RR, the applicant may apply for a Home Occupation permit and will be subject to the
+limitations set forth in the Home Occupation approval criteria.
+
+Strategy 2.8-1: Review the appropriateness of review uses, conditional uses and
+community service uses in the RR zone through a public process that involves community
+stakeholders prior to amending the Zoning Code.
+Applicant: This rezone application entails a public process that includes public hearings
+before the County Planning Commission and County Board of Commissioners. Notification of
+these hearings will be sent to surrounding property owners and other community stakeholders
+on record with the County. A sign will also be posted on the property to alert the general
+public about the rezone request. Public comment will be solicited and taken throughout this
+process to record both support and opposition to the rezone request as well as any concerns it
+raises. Through this public process the appropriateness of the various types of allowed uses in
+the RR zone will be fully evaluated and considered in the final decision to amend the zoning.
+
+Staff Finding: This strategy is applicable to Zoning Code amendments only. Strategy 2.8-1 is
+not applicable to this application for a zone change because it does not involve an amendment
+to the Zoning Code.
+
+5.03 Historic Resources (page 6-8 of the Comprehensive Plan)
+The following policies and strategies direct the County to continue to recognize significant
+historic resources and to implement strategies to protect them, including the adaptive
+reuse of historic structures where such reuse can increase the ability of properties to
+maintain their condition and historic value.
+Applicant: The following policies are relevant to this comprehensive plan map
+amendment/rezone application because the property contains a historic building – Cedar
+School --- constructed in 1927.  Although the building is no longer used as a school, it retains
+historic significance for the community.
+
+The current owner/occupant is actively engaged in preserving the building’s historical
+integrity. During development of the Multnomah County Comprehensive Plan in 2016, the
+property owner engaged in an online petition drive to garner community support for her effort
+Case Files: T4-2019-12624 and EP-2019-12704 Page 36 of 43
+to preserve Cedar School, as well as support for preservation of historic sites in general. That
+petition drive resulted in nearly 500 signatures on the owner’s Facebook page. In a strong
+show of support for her cause, the Troutdale Historic Society obtained 22 personal signatures
+for her petition. (See Exhibit F-4, petition and signatures)
+
+Staff Finding: Staff concurs with, adopts, and supplements the applicant’s proposed finding.
+The historical schoolhouse and property are a community asset worthy of protection and
+maintenance. The proposed zone change to RR supports the goal of maintaining the historic
+resource because the ability for a property owner to live and work on the property is more
+likely to result in upkeep of the property. If the property remained in the EFU zone, it would be
+more difficult for a property owner to gain approval for residential use of the property because
+a dwelling is not an outright permitted use and it is unlikely that a 0.93 acre EFU property
+could qualify for a dwelling.
+
+6.1 Recognize significant historic resources and apply appropriate historic preservation
+measures to all designated historic sites.
+Strategy 6.1-1: Maintain an inventory of significant historic resources which meet the
+historical site criteria:
+1) Historical Significance - Property is associated with significant past events,
+personages, trends or values, and has the capacity to evoke one or more of the
+dominant themes of national or local history.
+2) Architectural Significance (Rarity of Type and/or Style) - Property is a prime
+example of a stylistic or structural type, or is representative of a type once
+common and is among the last examples surviving in the County. Property is a
+prototype or significant work of an architect, builder or engineer noted in the
+history of architecture and construction in Multnomah County.
+3) Environmental Considerations - Current land use surrounding the property
+contributes to an aura of the historic period, or property defines important space.
+4) Physical Integrity - Property is essentially as constructed on original site.
+Sufficient original workmanship and material remain to serve as instruction in
+period fabrication.
+5) Symbolic Value - Through public interest, sentiment, uniqueness or other
+factors, property has come to connote an ideal, institution, political entity or
+period.
+6) Chronology - Property was developed early in the relative scale of local history
+or was an early expression of type/style.
+Applicant: Multnomah County has recognized Cedar School as a historic resource since the
+County’s first historic and cultural resource inventory was conducted in 1976 for the State
+Historic Preservation Office. Two years later the County planning staff conducted a limited
+survey of historic resources which resulted in the adoption of an ordinance in 1980 which
+officially designated 18 historic resources within the unincorporated County. Although the
+ordinance did not include Cedar School among the 18 sites, it remained on the County’s
+inventory of historic properties.
+Case Files: T4-2019-12624 and EP-2019-12704 Page 37 of 43
+
+In 1988 the County contracted with a planning consulting firm to conduct a comprehensive
+historic resource survey of rural unincorporated Multnomah County. The resulting report
+issued in September 1990 identified 68 historic resources. Once again Cedar School was
+included in the inventory because it is “a singular example of a historic period revival style,
+(and) is a handsome composition of brick ornamented with glazed terra cotta.” (Multnomah
+County Historic Context Statement, September 1990, p.51) The report’s Statement of
+Significance for Cedar School states that “(T)he building is an excellent example of
+Mediterranean style architecture suggesting that it may have been designed by Herman
+Brookman or other prominent architect.  .. The building is the only known specimen of this
+historic building type in unincorporated Multnomah County.” (See Exhibit F-2, Cedar School
+Statement of Significance)
+
+The report went on further to say that “(B)ecause of the scarcity of rural schoolhouses, and the
+important role they played as focal points for the social life of small communities they should
+be given careful consideration for designation (as historic resources).” (p. 54)
+
+Cedar School deserves to be recognized as a significant historic resource because it meets all
+the above listed historical site criteria.
+
+Staff Finding: Staff concurs that the property is recognized by Multnomah County as a
+historic resource (Exhibit B.5).
+
+Strategy 6.1-2: Use the National Register of Historic Places, the Oregon Historic Sites
+Database and local historical society databases in compiling an inventory of historic
+resources.
+Applicant: The property is included in the Oregon Historic Sites Database as well as the
+Troutdale Historical Society inventory. These two inventories were the bases for the County
+including it in its own inventory conducted in 1976. The property is not, however, on the
+National Register of Historic Places.
+
+In 1978 the previous owners of the property, Timothy and Gail O’Neill, applied to have the
+property listed on the National Register of Historic Places. That request was evaluated by the
+Oregon State Board for Historical Preservation but was denied on a split vote. Notes from that
+decision state that despite its name, the Board at that time was not particularly interested in
+history, but rather, emphasized architecture as its principal interest. Those notes further
+disclose that the majority of the Board members did not feel the building was compelling
+enough architecturally to merit designation nor did they believe the building was old enough to
+justify historic significance (it was only 51 years old at the time). The Board was also put off by
+alterations that had been made to the building, such as residential use of the rear wing, some
+window replacements, and a greenhouse added to the rear elevation. The property owners
+were encouraged to resubmit their nomination with advice on what to include in order to
+strengthen the application. There is no record that they tried again to be listed on the National
+register.
+
+Staff Finding: This strategy is applicable when the County compiles or updates its own
+database of historic resources. Strategy 6.1-2 is not applicable to this application for a zone
+change.
+Case Files: T4-2019-12624 and EP-2019-12704 Page 38 of 43
+
+Strategy 6.1-3: Develop and maintain a historical preservation program for
+Multnomah County which includes:
+1) A review of, and compliance with, the laws related to historic preservation.
+2) Ongoing identification and inventory of significant sites, working with area
+citizens groups, local historical societies, the Oregon Historical Society, the State
+Historic Preservation Office, the Oregon Natural History Museum and other
+historic and archeological associations.
+3) Developing a handbook on historic preservation to assist County staff, area
+citizen groups, land owners, and developers in understanding and using applicable
+federal and state programs.
+4) Fostering, through ordinances or other means, the private restoration and
+maintenance of historic structures for compatible uses and development based on
+historic values.
+5) Encouraging the installation of appropriate plaques or markers on identified
+sites and structures.
+Applicant: To the applicant’s knowledge the County has not enacted a comprehensive
+historical preservation program which encompasses the various measures outlined in this
+policy strategy. The lack of such a program leaves the owners of historical properties in
+Multnomah County on their own to pursue ways to maintain and restore these sites. This is the
+challenge the current owner of Cedar School is facing as she struggles to keep the nearly
+century-old building in good repair so that it continues to be a showcase for the surrounding
+community’s heritage.
+
+Staff Finding: This strategy primarily directs Multnomah County to develop and maintain a
+historical preservation program and therefore is not relevant to this application for a zone
+change.
+Sub-strategy 4) directs the County to foster ‘through ordinances and other means’ the private
+restoration and maintenance of historic structures for compatible uses and development based
+on historic values. Staff supports the proposed zone change to RR in part because the RR zone
+is more conducive to maintaining the historic schoolhouse and property by allowing the
+property owners to seek approval to live onsite and maintain the historic structure.
+
+Strategy 6.1-4: The Zoning Code should:
+1) Amend the Historic Preservation overlay district to include a process for the
+owner of a historic resource to obtain a historic landmark designation.
+
+2) Amend the Historic Preservation overlay district to provide opportunities for
+owners of historic landmarks to preserve and maintain the resource by allowing as
+conditional uses, where possible, a use which can be shown to contribute to the
+preservation and reuse of the historic landmark.
+
+Case Files: T4-2019-12624 and EP-2019-12704 Page 39 of 43
+3) Provide for a 120-day delay period for the issuance of a demolition permit or a
+building permit that substantially alters the historic nature of a historic landmark.
+During this period, a review of the land use permit application to demolish or
+substantially alter, including the impacts and possible means to offset the impacts,
+would be undertaken.
+
+Applicant: The County’s Historic Preservation Overlay (HP) zoning district has not yet been
+applied to the subject property. The property owner desires to obtain this overlay zoning to
+recognize and acknowledge the site’s historic significance and to afford her additional
+opportunities to preserve it.
+
+Item 2 of this strategy was the direct outcome of public input provided during preparation of
+the new County Comprehensive Plan adopted in September 2016. This strategy item was
+determined to be a critical element for owners of historic properties seeking a source of income
+to assist with upkeep and maintenance of aging historic buildings. The applicant was among
+the historic preservation advocates who appealed to the County to include this strategy item in
+the Comprehensive Plan in order to influence action on this important historic preservation
+measure. Unfortunately, the County has not yet acted to amend the HP overlay district as
+called for in this strategy; so permitted, review and conditional uses of historic properties are
+limited to those listed in the underlining base zone. (See Exhibit F-3, Gresham Outlook article,
+April 24, 2015)
+
+Staff Finding: Strategy 6.1-4 directs the County to ensure the Zoning Code aligns with the
+listed sub-strategies but is not applicable to the application for a zone change. Future Code
+Updates to the HP standards of the Zoning Code will be required to consider relevant
+Comprehensive Plan Policies including Strategy 6.1-4. The property owner has not yet applied
+for the HP designation, so standards for applying the HP overlay are not applicable to this
+application.
+
+6.00 Summary of Public Comments
+
+The applicant has submitted eight letters (A.1.4.E) in support of the application including neighboring
+farmers, The City of Troutdale, and the Troutdale Historical Society. Any additional comments received
+by staff prior to the Planning Commission hearing will be submitted into the record at the hearing.
+
+7.00 Recommended Comprehensive Plan Map Amendment
+
+Staff Finding: The applicant has proposed to amend the Multnomah County Comprehensive Plan to
+recognize the zone change from EFU to RR and the associated Goal 3 (Agricultural Lands) exception. If
+approved, the zone change shall be reflected in the Multnomah County Comprehensive Plan’s Zoning
+Map and shall include that portion of SE Troutdale Road adjacent to the subject property. Additionally,
+Staff recommends amending the Comprehensive Plan’s Administration Section (Page xi) to reflect any
+order adopted by the Board of County Commissioners to amend the Comprehensive Plan to change the
+zone of the subject property. The Administration Section is intended to catalogue adopted documents
+amending the Plan. No additional text amendments to the Comprehensive Plan are required for this zone
+change.
+
+Case Files: T4-2019-12624 and EP-2019-12704 Page 40 of 43
+Staff recommends that the Planning Commission recommend that the Board approve this application and
+incorporate the amendments to the Comprehensive Plan’s Zoning Map and the Administration Section,
+documenting the approved zone change goal exception, as outlined in the Planning Commission Order.
+
+8.00 Conclusion
+
+Based on the findings and other information provided above, the applicant has carried the burden
+necessary for an exception to statewide planning Goal 3 (Agricultural Lands), and a Comprehensive Plan
+Amendment, to authorize a zone change from Exclusive Farm Use (EFU) to Rural Residential (RR) on a
+0.93 acre property at 2326 SE Troutdale Road (Township 1 South, Range 3 East, Section 01C, Tax Lot
+01200, WM.) in east rural Multnomah County.
+
+9.00 Exhibits
+‘A’ Applicant’s Exhibits
+‘B’ Staff Exhibits
+‘C’ Comments Received
+Exhibits are available for review in Case File T4-2019-12624 at the Land Use Planning office.
+
+Exhi
+bit #
+ # of
+Pag
+es
+Description of Exhibit
+Date
+Received /
+Submitted
+A.1 54 Applicant’s Submittal 10.31.2019
+A.1.1 1 General Application Form signed by Colleen Cahill 10.31.2019
+A.1.2 2 Multnomah County Department of Assessment, Recording, and
+Assessment Property Data sheet 10.31.2019
+A.1.3 23 Applicant’s Narrative Addressing Approval Criteria 10.31.2019
+A.1.4 1 Applicant’s List of Exhibits 10.31.2019
+A.1.4
+.A 3
+Aerial Photos of Subject Property – referenced by applicant as Exhibits
+A-1through A-3:
+
+A-1: Site Map
+A-2: Site Map with Building Setbacks
+A-3: Vicinity Map
+10.31.2019
+A.1.4
+.B 1 Floor Plan of Existing Residence 10.31.2019
+A.1.4
+.C 2 Fire Service Agency Review Form and Revised Fire Agency Comments 10.31.2019
+A.1.4
+.D 1 Certification of Water Service Signed by Colleen Cahill 10.31.2019
+A.1.4
+.E 8
+Supporting Letters:
+
+E-1: Bob Baker (1 pg)
+
+10.31.2019
+Case Files: T4-2019-12624 and EP-2019-12704 Page 41 of 43
+E-2: Fujji Farms (1 pg)
+
+E-3: Daniel Strebin and The Strebin Family (1 pg)
+
+E-4: Dan and Jolene Cox (1 pg)
+
+E-5: Open Door Baptist Church; signed by Jason Stamper, Pastor (1 pg)
+
+E-6: Troutdale Historical Society; signed by Erin Janssens, President
+(1pg)
+
+E-7: Sharon Nesbit (1 pg)
+
+E-8: City of Troutdale; signed by Ray Young, City Manager (1 pg)
+A.1.4
+.F 6
+Historical Resources:
+
+F-1: Information Sheet on Cedar School, Troutdale Historical Society,
+April 1979 (1pg)
+
+F-2: Statement of Significance for Cedar School, Multnomah County
+Historic Context Statement, September 1990 (2 pgs)
+
+F-3: Newspaper article on efforts to preserve Cedar School, Gresham
+Outlook, April 24, 2015 (1 pg)
+
+F-4: Petition of “Those Who Value the Preservation of Historic Sites”
+Cover Sheet and Signature Sheet (2 pgs)
+
+10.31.2019
+A.1.4
+.G 6
+Lot of Record Status (includes 1 pg. narrative):
+
+G-1: Survey 40027, filed with Multnomah County Survey Dept. on Dec.
+12, 1976 (1 pg)
+
+G-2: Legal Description from Title Insurance documents related to sale of
+the property from William Rogers to Timothy C. and Gail J. O’Neil dated
+May 23, 1978 (1 pg)
+
+G-3: Legal Description of the property from a 1992 Bargain and Sale
+Deed between Timothy O’Neil and Sean O’Neil, recorded in Book 2587,
+Page 256 Multnomah County Deed Records (1 pg)
+
+G-4: Legal Description of the property from a 1994 Bargain and Sale
+Deed between Sean O’Neil and Timothy O’Neil (1 pg)
+
+G-5: Legal Description of the property from a 2013 mortgage security
+instrument between Nationstar Mortgage LLC and Colleen Cahill (1 pg)
+10.31.2019
+A.2 1 Property owner letter of authorization 11.20.2019
+Case Files: T4-2019-12624 and EP-2019-12704 Page 42 of 43
+A.3 2 Original 1886 property deed 12.11.2019
+A.4 1 Letter from applicant explaining decision to ‘deem’ the application
+complete 12.11.2019
+A.5 1 Applicant's Completeness Response 12.112019 12.11.2019
+
+‘B’ # Staff Exhibits Date
+B.1 5 Lot of Record Info from DART 11.09.2019
+B.2 3 'Incomplete' Letter 11.27.2019 11.27.2019
+B.3 1 'Complete' Acknowledgement Letter 01.22.2020 01.22.2020
+B.4 2 Transportation Completeness Memo 11.29.2019
+B.5 5 Multnomah County Historical Resources Survey 12.19.2019
+B.6 5 Multnomah County Zoning Map 04.07.2020
+B.7 6 History of Land Use Planning 04.07.2020
+B.8 1 East County Zoning - Multnomah Comp Plan 04.07.2020
+B.9 1 1962-11-15 Earliest Zoning Map 04.13.2020
+B.10 18 1975-12-9 Zoning Ordinance 115 04.13.2020
+B.11 1 1977 Zone Map Ord. 149 04.13.2020
+B.12 71 1977-9-6 Zoning Ordinance 148 04.13.2020
+B.13 3 1980-7-15 Ordinance 238 04.13.2020
+B.14 2 Description of adjacent farm property submitted by Collen Cahill with
+attached letter from Ray Fujji who leases the farmland from Baker. 06.09.2020
+B.15 2
+USDA Farm Data for Multnomah County
+Source:
+www.nass.usda.gov/Publications/AgCensus/2017/Online_Resources/Cou
+nty_Profiles/Oregon/cp41051.pdf
+Accessed 06.10.2020
+06.10.2020
+B.16 7
+Oregon Timber Harvest Regulations
+Source: https://oregonforests.org/Harvest_Regulations
+Accessed 06.10.2020
+06.10.2020
+B.17 3
+Oregon Timber Harvest Information
+Source: Associated Oregon Loggers
+https://www.oregonloggers.org/Forest_facts_HarvestData.aspx#:~:text=H
+owever%2C%20more%20than%20three%2Dquarters,is%2040%2D60%2
+0acres).
+06.10.2020
+B.18 1 1979 Oregonian article about conversion of the schoolhouse to artist
+space and dwelling use. 06.10.2020
+Case Files: T4-2019-12624 and EP-2019-12704 Page 43 of 43
+B.19 1 Vicinity Map 06.11.2020
+B.20 2
+NRCS Soil Description
+Source:
+https://www.nrcs.usda.gov/Internet/FSE_MANUSCRIPTS/oregon/OR05
+1/0/or051_text.pdf
+Accessed 06.11.2020
+06.11.2020
+B.21 1 Soils Map 06.11.2020
+B.22 3 Transportation Memo Revised 6.15.20 06.15.2020
+
+Beaver
+Tax Lot ID
+1N4E31C
+-00900
+Tax Lot ID 1N4E31CC
+-01400
+Tax Lot ID
+1N4E31CC
+-01600
+Tax Lot ID
+1S3E01DA
+-03800
+Tax Lot ID
+1S3E01DB
+-07000
+Tax Lot ID
+1S3E01DB
+-07100
+Tax Lot ID
+1S3E01DB
+-07200
+Tax Lot ID
+1S3E01AD
+-00100
+Tax Lot ID
+1S3E01AD
+-00200
+Tax Lot ID
+1S3E01AD
+-00201
+T ax Lot ID
+1S3E01AD
+-00300
+Tax Lot ID
+1S3E01
+-00500
+Tax Lot ID
+1S3E01C
+-00100
+Tax Lot ID
+1S3E01C
+-00800
+Tax Lot ID
+1S3E01C -00900
+Tax Lot ID
+1S3E01C
+-01000
+Tax Lot ID
+1S3E01C
+-01002
+Tax Lot ID
+1S3E01C
+-01003
+Tax Lot ID
+1S3E01C
+-01004
+T ax Lot ID
+1S3E01C
+-01100
+T ax Lot ID
+1S3E01C
+-01200
+Tax Lot ID
+1S3E01C
+-01300
+Tax Lot ID
+1S3E01AA
+-00300
+Tax Lot ID
+1S3E01AA
+-00400T ax Lot ID
+1S3E01AA
+-00500
+Tax Lot ID
+1S3E01AA
+-00700
+Tax Lot ID
+1S3E01CC
+-00100
+Tax Lot ID
+1S3E01D
+-00100
+Tax Lot ID
+1S3E01D
+-00200
+Tax Lot ID
+1S3E01D
+-00300
+Tax Lot ID
+1S3E01D
+-00500
+Tax Lot ID
+1S3E01D
+-00700 Tax Lot ID
+1S3E01D
+-00800
+T ax Lot ID
+1S3E01D -01000
+Tax Lot ID
+1S3E01D -01100
+T ax Lot ID
+1S3E01D
+-01200
+Tax Lot ID
+1S3E12A -00100
+Tax Lot ID
+1S3E12A -00800
+Tax Lot ID
+1S3E12B
+-00100
+Tax Lot ID
+1S3E12B
+-00800
+Tax Lot ID
+1S4E06B
+-00100
+Tax Lot
+ID 1S4E06B
+-00200
+T ax Lot ID
+1S4E06BB
+-00800
+Tax Lot ID
+1S4E06BB
+-00900T ax Lot ID
+1S4E06BB -01000
+Tax Lot ID
+1S4E06BB
+-01200
+Tax Lot ID
+1S4E06BB -01201
+Tax Lot ID
+1S4E06BB -01300
+Tax Lot
+ID 1S4E06BB -01400
+Tax Lot ID
+1S4E06BB
+-01500
+Tax Lot ID
+1S4E06BB
+-01600
+Tax Lot ID
+1S4E06BC -00100
+Tax Lot ID
+1S4E06BC -00200
+Tax Lot ID
+1S4E06BC -00300
+Tax Lot ID
+1S4E06BC -00400
+T ax Lot ID 1S4E06BC
+-00500
+Tax Lot ID
+1S4E06BC
+-00800 Tax Lot ID
+1S4E06BC
+-00900
+T ax Lot ID
+1S4E06BC
+-01000
+Tax Lot ID
+1S4E06BC
+-01600
+Tax Lot ID
+1S4E06BD
+-00800
+Tax Lot ID
+1S4E06C
+-00100
+Tax Lot ID
+1S4E06C
+-00300
+Tax Lot ID
+1S4E06C
+-00400
+Tax Lot ID
+1S4E06C
+-00500
+Tax Lot ID
+1S4E06C
+-00800
+Tax Lot ID
+1S4E06C
+-00900
+T ax Lot ID 1S4E06CA
+-00300
+Tax Lot ID
+1S4E06CA
+-00400
+Tax Lot ID
+1S4E06CB
+-00101
+Tax Lot ID
+1S4E06CB
+-00102
+Tax Lot ID
+1S4E06CB
+-00103
+Tax Lot ID
+1S4E06CB
+-00104
+Tax Lot ID
+1S4E06CB
+-00106
+Tax Lot ID
+1S4E07B
+-00200
+Tax Lot ID
+1S4E07B -00300
+Tax Lot ID
+1S4E07B -00400
+Tax Lot ID
+1S4E07B -00500
+NE DIVISION ST
+SE
+PELTON
+AVE
+N
+E
+PALOM
+A
+AVE
+NE
+KANE
+DR
+SE 30TH CT
+SE 33RD ST
+SE STREBIN RD
+SE
+STOTTAVE
+SE SANDY DELL RD
+NE
+G
+REENW
+AY
+DR
+SE SWEETBRIAR RD
+SESW
+EETBRIAR
+LN
+SE
+VIEW
+POINTDR
+NE
+CENTURION
+DR
+NE 29TH ST
+SE STARK ST
+S TROUTDALE RD
+SE 40TH ST
+SE
+TROUTDALE
+RD
+SE 43RD
+DR
+SEEVANS
+AVE
+NE 11TH WAY
+SE 34TH CIR
+SE
+TOPAZCT
+SE
+ALTHAUS
+DR
+SE48TH ST
+NE 17TH ST
+NE 15TH ST
+NESCOTT
+CT
+SETOPAZDR
+SE 32ND ST
+SE 34TH
+CIR
+NE 13TH
+TER
+SE
+KERSLAKE RD
+NE 1 6TH
+CT
+SE 36TH ST
+NEHACIENDA
+CT
+SELENORE
+CIR
+SE
+HELEN
+CT
+SE
+JONES
+LN
+SE
+STO
+TTCIR
+SE
+CLARK
+CT
+SE 46TH AVE
+NE
+LA
+M
+ESA
+PL
+NE BARNES LN
+SE COCHRAN RD
+S
+E
+48TH PL
+SE 35TH CIR
+SEDOUGLASCT
+SE
+LE
+WIS
+C
+T
+SE
+JENNIFER
+CT
+SE 42ND CIR
+SE
+BLAKE
+PL
+SE KIB LING
+CT
+SE
+HARLOW
+CT
+SE 42NDST
+SE DORA CT
+SE SANDY
+CIR
+DRIVEW
+AY
+M
+T
+HOOD
+CC
+NE
+HACIENDA
+AVE
+N
+E
+LA
+M
+ESA
+AVE
+SE 35THST
+SE 282ND DR
+SE
+HAM PT ON
+LOOP
+E
+HISTORIC
+COLUM
+BIA
+RIVER
+HW
+Y
+SE STREBIN RD
+Troutdale
+Gresham
+RR
+EFU
+MUA20
+CFU
+GGO
+GGR5
+Multnomah County Official Zoning Map For Section: 1S3E-1
+(SZM #592, 597, 598)
+®
+0 1,000 2,000500
+Feet
+Location Map
+Ordinance Number:
+Adopted On:
+Page 1-101
+Legend
+National Scenic Area Boundary
+Taxlot Boundary
+Roads/Highways
+Multnomah County Land Use Planning
+Exhibit 2
+Clackamas
+County
+Hood River
+County
+Skamania
+County
+Clark County
+Stark Street
+Halsey Street
+257th/Kane Drive
+Glisan Street
+Orient Drive
+Lusted Road
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+Sundial Road
+Telford Road
+Bluff Road
+Marine Drive
+Evans
+Road
+Division Drive
+223rd Avenue
+OxbowDrive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon
+Creek
+Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+Disclaimer:
+Unofficial depiction, for illustrative purposes only.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+County Boundaries
+Subareas
+ZONE
+CFU3
+RC
+Columbia River
+Gorge
+GGA; GSA
+GGC
+GGCR; GGPR; GSPR
+GGF; GSF
+GGO; GSO
+GGR; GSR
+GGRC
+Interlachen
+LR10
+LR5 (overwater zone)
+LR7
+Pleasant Valley
+C3
+LM
+RR
+UF20
+West of Sandy
+River Zoning
+CFU
+EFU
+MUA20
+OCI
+OR
+PHRC
+RR
+East of Sandy
+River
+CFU3
+CFU4
+EFU
+MUA20
+RC
+RR
+Government
+Island and
+Bonneville
+CFU
+CFU3
+RC
+Multnomah County
+Zoning
+East Multnomah County
+Figure 2-2 Multnomah County Zoning Map
+Exhibit 2
+Stark Street
+Halsey Street
+257th/Kane Drive
+Glisan Street
+Orient Drive
+Lusted Road
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+Sundial Road
+Telford Road
+Bluff Road
+Marine Drive
+Evans
+Road
+Division Drive
+223rd Avenue
+OxbowDrive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon
+Creek
+Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+Clackamas
+County
+Hood River
+County
+Skamania
+County
+Clark County
+[0 2 41
+Miles
+Date:
+Disclaimer:
+Unofficial depiction, for illustrative purposes only.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+County Boundaries
+Farm Use Zones
+EFU
+MUA20
+Subareas
+Farm Use Zones
+East Multnomah County
+Figure 3-3 - Multnomah County Farm Use Zoning
+Exhibit 2
+Multnomah County Comprehensive Plan vii
+APPENDICES
+APPENDIX
+A Comprehensive Plan and Zoning Map (T he Multnomah County Zoning Map, as
+most recently amended through Multnomah County Ordinance 1194 Order_ _ _,
+serves as the statutorily-required comprehensive plan map for this
+Comprehensive Plan)
+B Glossary of Terms
+C Sauvie Island/Multnomah Channel Rural Area Plan (September 2015)
+D Columbia River Gorge National Scenic Rural Area Plan Policy Document
+E Multnomah County Transportation System Plan
+Exhibit 3
+Administration
+Multnomah County Comprehensive Plan xi
+ADOPTED AMENDMENTS
+EFFECTIVE
+DATE ORD # AMENDMENT TOPIC
+April 4, 2019 Order
+2019-025
+Approving exception to Statewide Planning Goal 11 to extend
+public sewer service outside the Urban Growth Boundary to the
+property located at 5105 SE 302nd Ave., Gresham, Oregon
+Order
+2020-_ _ _
+Exhibit 3
+Page 2 of 4
+Approving an exception to Statewide Planning Goal 3
+(Agricultural
+Lands), and an amendment to the Multnomah
+County Comprehensive Plan and the Multnomah County
+Comprehensive Plan and Zoning Map, to rezone the Property
+located in East Rural Multnomah County at 2326 SE Troutdale
+Road
+and that portion of SE Troutdale Road adjacent to the
+subject property extending to the road center line from
+Exclusive
+Farm Use (EFU) to Rural Residential (RR).
+  Farm Land
+Multnomah County Comprehensive Plan Farm Land  | 3-2
+
+INTRODUCTION/BACKGROUND   INFORMATION
+Significant amount of the land in the rural portions of Multnomah County is
+zoned and used for agricultural production. One of the original, primary goals
+of Oregon’s statewide planning program is to protect existing farm land for
+future agricultural use. Towards that end, state and local plans, policies, and
+laws put a premium on designating specific areas for “exclusive farm use,”
+limiting non-farm uses in these areas and
+minimizing conflicts between farm and non-
+farm uses. State laws significantly restrict the
+ability to subdivide land or build new non-farm
+buildings in areas zoned for exclusive farm use.
+Specific types of farm-related uses, such
+as farm stands, wineries, and “agri-tourism”
+events can help provide additional
+economic opportunities for farmers but also
+can create conflicts with adjacent farm
+owners and rural residents. As a result,
+they have been the subject of specific state
+legislation and local planning requirements.
+This chapter provides an overview of conditions and planning issues
+associated with farm land, along with Comprehensive Plan policies and
+strategies to address them.
+Farm Land Conditions
+Agricultural zoning and farm uses are a major component of the fabric of rural
+Multnomah County. Farm uses are the second largest land use and account
+for 30,4387 acres or 23% of all land in rural Multnomah County.
+Table 3-1 – Primary land use based on zoning in Multnomah County
+
+ZONE ACRES % OF ALL LANDS
+Forestry (CFU, 1, 2, 3, 4, and 5) 98,841 74%
+Farming (EFU and MUA20) 30,4387 23%
+Rural Residential (RR) 3,5134 3%
+Rural Center (OR, RC, OCI, and PHRC) 322 0%
+TOTAL 133,076144 100%
+“Those who live on, work on, and
+visit Sauvie Island, value the Island’s
+productive farm land, which
+provides fresh food for both locals
+and the region.”
+- Sauvie Island/Multnomah Channel
+Vision Statement
+Exhibit 3
+  Forest Land
+Multnomah County Comprehensive Plan Forest Land  | 4-3
+
+Table 4-1 - Primary Land Use Based on Zoning in Multnomah County
+
+ZONE ACRES % OF ALL
+LAND
+Forestry (CFU 1, 2, 3, 4, & 5) 98,841 74%
+Farming (EFU and MUA20) 30,4387 23%
+Rural Residential (RR) 3,5134 3%
+Rural Center (OR, RC, OCI, and PHRC) 322 0%
+
+Relevant Studies and Planning Processes
+A variety of state, regional, and local plans and policies are relevant to land
+use planning in Multnomah County, including the following.
+Oregon Statewide Planning Goal 4, Forest Lands, requires counties to
+inventory forest lands and adopt policies and ordinances that will conserve
+forest lands for forest uses. Associated statutes and administrative rules are
+found in ORS Chapter 215 and OAR Chapter 660, Division 6.
+The State Forest Practices Act establishes rules and standards for timber
+management and harvesting. Counties cannot impose zoning restrictions
+that conflict with these forest practice rules unless a county adopts its own
+comprehensive forest practices ordinance in place of the State’s which has
+not been done in Multnomah County.
+Multnomah County’s Past Rural Area Plans include background information
+and policies related to forest land that have been incorporated in this Plan.
+Multnomah County’s Zoning Code contains a Commercial Forest Use
+zoning district which specifies allowed and conditional uses that support and
+protect forestry practices throughout the County. There are currently six CFU
+zones applied throughout the County (CFU and CFU 1-5) with slight variations
+to each zone.
+
+TOTAL 133,076144 100%
+Exhibit 3
+Page 1 of 2 - Order
+BEFORE THE PLANNING COMMISSION
+FOR MULTNOMAH COUNTY, OREGON
+ORDER NO. T4-2019-12624
+Recommending to the Board of County Commissioners approval of an exception to
+Statewide Planning Goal 3 (Agricultural Lands), and an amendment to the Multnomah
+County Comprehensive Plan, to authorize a zone change from Exclusive Farm Use (EFU)
+to Rural Residential (RR) on the property located at 2326 SE Troutdale Road in east rural
+Multnomah County.
+The Multnomah County Planning Commission Finds:
+a. The Planning Commission is authorized by Multnomah County Code Chapter 39.1645
+and 39.1105(D), and by ORS 215.406, to conduct hearings on Type IV applications,
+including recommending to the Board of County Commissi oners approval of
+applications that require amendments to the County Comprehensive Plan.
+b. Statewide Planning Goal 3 (Agricultural Lands) limits the ability to establish residential
+uses on EFU-zoned land. Properties zoned EFU generally are eligible for a single-
+family dwelling only if the dwelling will be used in conjunction with farm use,  with
+limited exceptions.
+c. The 0.93-acre subject property, which is located at 2326 SE Troutdale Road within
+the EFU zone, has not been farmed for over 100 years, and may never have been
+farmed. The subject property is developed with a structure built in 1927 as a
+schoolhouse, which was converted into a residence in the 1970s. Today, the structure
+is being used as a residence and photography studio. However, neither the residential
+use nor the phot ography studio use has received land use or building permit
+approvals. As currently used, the structure  does not qualify for  approval as a
+residential use in the EFU zone. As a result, the applicant is seeking an exception to
+Goal 3 to change the zone from EFU to RR as the first step in the process of obtaining
+the necessary land use and building permit approvals for the structure.
+d. In the event of approval of a Goal exception, State law requires the County to
+document such approval through amendment of the Mult nomah County
+Comprehensive Plan and Zoning Map.
+e. Not
+ice of the Planning Commission hearing was mailed to all part ies consistent with
+county noticing requirements. Notice was also published in the Oregonian newspaper
+and on the website of the Multnomah County Land Use Planning Program. The
+Planning Commission held a public hearing on the proposal on July 6, 2020, during
+which all interested persons were given the opportunity to appear and be heard.
+f. It
+ is in the public interest to approve the application in T4-2019-12624 based on the
+findings of fact, reasons, and conditions of approval set forth in the staff report
+attached hereto as Exhibit 1.
+The P
+lanning Commission Orders:
+Exhibit 4
+Page 2 of 2 - Order
+1. The findings of fact and statement of reasons contained in the T4-2019-12624 staff
+report, attached hereto as Exhibit 1, demonstrate that the standards for an
+exception to Statewide Planning Goal 3  have been met and, therefore, are
+recommended for adoption by the Board of County Commissioners.
+2. The exception to Statewide Planning Goal 3 requested through T4-2019-12624 is
+recommended for approval by the Board of County Commissioners, subject to the
+conditions stated in the T4-2019-12624 staff report.
+3. If the Board of County Commissioners approves the application in T4-2019-12624,
+the Planning Commission recommends that the Board amend the Multnomah
+County Comprehensive Plan to document and incorporate the exception, including
+the findings of facts and statement of reasons  adopted by the Board that
+demonstrate that the standards for an exception have been met, as follows:
+[Formatting Note: The table below amends the ‘Administration’ section of the Multnomah
+County Comprehensive Plan, (page xi). Double underlined text is new.]
+Administration
+Adopted Amendments
+Effective Date ORD # Amendment Topic
+(placeholder
+for effective
+Board
+adoption date)
+(placeholder
+for effective
+Board order
+number)
+Approving exception to Statewide
+Planning Goal 3 to change the zoning
+from Exclusive Farm Use to Rural
+Residential on property located at 2326
+SE Troutdale Road in east rural
+Multnomah County
+AD
+OPTED this 6th day of July, 2020.
+P
+LANNING COMMISSION
+FOR MULTNOMAH COUNTY, OREGON
+___
+_______________________________
+John Ingle, Chair
+Exhibit 4

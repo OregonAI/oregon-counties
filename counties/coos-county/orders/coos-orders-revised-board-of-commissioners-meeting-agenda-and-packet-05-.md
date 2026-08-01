@@ -1,0 +1,359 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/coos-county
+id: coos-orders-revised-board-of-commissioners-meeting-agenda-and-packet-05-
+title: 'Revised+Board+of+Commissioners+Meeting+Agenda+and+packet-05-05-2026'
+doc_type: ordinance
+citation: 'Revised+Board+of+Commissioners+Meeting+Agenda+and+packet-05-05-2026'
+authority_level: county_ordinance
+issuing_body: 'Coos County Board of Commissioners'
+source_url: https://co.coos.or.us/files/d1fbbb0b4/Revised+Board+of+Commissioners+Meeting+Agenda+and+packet-05-05-2026.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: cf5f1abbe0116230f1c46115e1f6fa62734b4e184fa71733444028d1a54c365f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.955; figure agreement 0.890; dictionary ratio 0.915. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 192.660
+    - ORS 279C.800
+  related: []
+  supersedes: []
+tags: [coos-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 96%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Revised+Board+of+Commissioners+Meeting+Agenda+and+packet-05-05-2026 (Revised+Board+of+Commissioners+Meeting+Agenda+and+packet-05-05-2026)
+
+## At a glance
+
+OCR-derived text of Revised+Board+of+Commissioners+Meeting+Agenda+and+packet-05-05-2026. Not human-verified.
+
+## Full text
+
+REVISED                           AGENDA
+                                               COOS COUNTY        BOARD OF COMMISSIONERS
+
+                                   Owen Building Large Conference Room, 201 N. Adams, Coquille
+                                            or Virtuaily at https://meet.goto.com/865921461
+
+                                                                 May 5, 2026
+
+1.        EXECUTIVE SESSION UNDER THE AUTHORITY OF ORS 192.660- small conference room-
+          the public is excluded from this portion of the meeting
+          A.        (2)(e) Real Property Transactions
+          B.        (2)(f) Information or Records Exempt from Public Inspection
+          C.        (2)(h) Consultation with Counsel
+
+2.        9:30 AM PUBLIC SESSION/PLEDGE OF ALLEGIANCE/MOMENT OF SILENCE
+
+3.        DEPARTMENT                    HEADS
+            A.        Request Approval of Reclassification for Chelsea King- District Attorney
+               B.     Request Approval of Community Wildfire Protection Plan- Emergency Management
+            C.        Request Approval to Purchase Fire Alarm System for Owen Building & Adopt Sole Source Findings-
+                      Maintenance
+               D.     Request Approval to Renew Cisco Duo License- IT
+               E.     Request Approval to Purchase SQL Server Licenses- IT
+
+4.        CONSENT CALENDAR- administrative matters not up for discussion
+           A. Approval of Minutes
+                              i.    Worksession- Priorities for Federal Funding- December 17, 2025
+                            ii.     Worksession- Budget March 11, 2026
+                           iii.     Budget Committee- March 30, 2026
+                           iv.      Compensation Committee- March 30, 2026
+                            Vv.     Budget Committee- March 31, 2026
+                           vi.      Budget Committee- April 1, 2026
+                          vil.      Worksession- Addendum to Fairgrounds Pavilion Construction Contract- April 9, 2026
+                         vill.      Worksession- Possible Regulations to Address Kratom/Nitrous Abuse- April 15, 2026
+                           ix.      Regular Meeting Minutes- April 21, 2026
+           B.        Ratification of All Routine Expenditures, Tax Overpayments and Adjustments and
+                     Transfer of Funds Within the Budget
+                             i.     Transfer of Appropriation Within Department- Jail- replace rolling security doors
+                           ii.      Transfer of Appropriation Within Department- Road- support truck
+                          iii,      Transfer of Appropriation Within Department- Solid Waste- leachate hauling
+           Cc, Orders & Resolutions
+                                    Resolution 26-04-039P, In the Matter of Granting Salary Merit Step Increases for
+                                    Various Employees Effective May 1, 2026
+                                    Resolution 26-04-041P, In the Matter of Classifying and Placement of Various Employees on
+                                    the Regular Coos County Payroll Effective Their Hire Date
+                                    Resolution 26-04-042P, In the Matter of Granting a Longevity Increase for Heather Sanborn
+                                    Effective May 1, 2026
+                                    Resolution 26-04-043P, In the Matter of Granting a 25 Year Longevity Increase for Tammy
+                                    Dalton Effective May 1, 2026
+                                    Resolution 26-04-044P, In the Matter of Granting a Longevity Salary Increase for Brian Kent
+                                    Effective May 1, 2026
+           D. Post-Action Notifications Pursuant to County Rule 10.043 (5)
+                                    Contract Amendment with BLM- Sheriff- de-obligating funds not used
+
+This agenda does not limit the ability of the Commissioners to consider additional subjects. The Board reserves the right to place a
+time limit on public testimony on any matter. The meeting place is handicapped accessible; if special accommodation is needed,
+please contact the office at least 24 prior to the meeting.
+         Agenda
+         May 5, 2026
+         Page 2
+
+         5.           LATE AGENDA ITEMS
+                      A. Request Approval to Purchase Switched- IT
+
+                      B. Request Approval of Resignation Agreement & Authorize Chair to Sign- Counsel!
+
+                      C. Request Approval of MOU & Letter of Support for Legislation by Coquille Indian Tribe- Counsel
+
+         6.           COMMISSIONERS REPORTS
+
+         7.           CITIZEN COMMENTS
+
+Revised: 10/30/2025
+                                        LATE AGENDA      ITEM COVERSHEET
+
+Agenda Item Title:           Request Approval to purchase switches
+
+Department:       information      Technology /Counsel    Requested Agenda     Date:   5/5/2026
+
+Contact Person: Daris Bouthillier                         Phone/Ext.:   7739
+
+Background and description of need or problem:              We are requesting approval to purchase 14 Cisco
+catalyst switches from SHI in the amount of $31,418.24.        Our current switches are at end of life and
+need to be replaced, we did budget for these purchases.
+
+Funding Source:         001-4002-419.60-02 Computer Hardware - $31,418.24
+
+Requested Action:            Approve the purchase of switches in the amount of $31,418.24
+
+Date: 05/01/2026                                 Signature of Dept. Head: Cotta          Lt.
+If this is a Human Resources issue, forward to the Treasurer who will forward it to Human Resources.
+For ail other matters, forward the document to Counsel no later than the Monday prior to the
+Agenda deadline. Counsel will forward to Treasurer.
+
+If this is a contract or grant:
+        ["] Is the contract or grant an original?
+        C] Is the Contract/Grant Summary Form attached?
+        [_] Is the contract signed first by the vendor (except state/federal grants or contracts)?
+        [_]    If insurance is required, is the insurance certificate attached?
+        [_]    Is the Clerk’s Coversheet attached or do you want it returned to you for filing?
+
+Departments Affected:
+
+COUNSEL:          Cl
+
+TREASURER:             i i
+
+BOC forwards signed Contract/Grant to:
+Commissioners Initials to Place on Agenda ONLY:
+                                                                                                         O\
+
+Rev. 3/10/11
+O                                                                                               Pricing Proposal
+                                                                                                Quotation #: 27437825
+                                                                                                Created On: 4/21/2026
+                                                                                                Valid Until:  5/4/2026
+                                    ®
+
+OR-County of Coos                                                                               PubSec Inside Account
+                                                                                                Executive ¢ Public
+                                                                                                Sector
+
+Jeremy Guyer                                                                                    Iman Elgabrowny
+250 N Baxter Street                                                                            290 Davidson Ave
+Coquille, OR 97423                                                                             Somerset, NJ 08873
+United States                                                                                  Phone: +1 732-652-6596
+Phone: (541) 396-7744                                                                          Fax:
+Fax:                                                                                           Email: iman_Elgabrowny@shi.com
+Email: jguyer@co.coos.or.us
+
+All Prices are in US Dollar (USD)
+      Product                                                                                    Qty     Your Price               Total
+
+  1   10GBASE-CU SFP+ Cable 1 Meter                                                                 2        $100.25            $200.50
+       Cisco Systems - Part#: SFP-H10GB-CU1M=
+       Contract Name: OMNIA Partners IT Solutions, Products & Services
+       Contract #: 2024056-02
+
+  2   Catalyst 1300 48-port GE, Full PoE, 4x10G SFP+                                               14      $2,244.16        $31,418,24
+        Cisco Systems - Part#: C1300-48F P-4X
+        Contract Name: OMNIA Partners IT Solutions, Products & Services
+        Contract #. 2024056-02
+
+                                                                                                             Subtotal       $31,618.74
+                                                                                                                Total       $31,618.74
+
+Additional Comments
+
+Due to ongoing global component shortages affecting memory, storage, and other critical hardware, OEMs have
+implemented updated policies allowing for price adjustments up until the time of shipment. Accordingly, quoted
+prices and lead times are subject to change prior to shipment. We remain committed to keeping you informed of
+any changes and will communicate promptly as updates occur,
+
+Cisco's Terms and Conditions apply to alf hardware, software, cloud services, subscriptions, technical support and maintenance
+included in a Cisco offer.
+Thank you for choosing SHI International Corp! The pricing offered on this quote proposal is valid through the expiration date listed
+above. To ensure the best level of service, please provide End User Name, Phone Number, Email Address and applicable Contract
+Number when submitting a Purchase Order, For any additional information including Hardware, Software and Services Contracts,
+please contact an SHI Inside Sales Representative at (888) 744-4084. SHI International Corp. is 100% Minority Owned, Woman
+Owned Business. TAX ID# 22-3009648; DUNS# 61-1429481; CCR# 61-243957G; CAGE 1HTFO
+
+The products offered under this proposal are resold in accordance with the terms and conditions of the Contract referenced under
+that applicable line item.
+                                   LATE AGENDA ITEM COVERSHEET
+
+Agenda Item Title:            Approval of Agreement
+
+Department:                County Counsel             Requested Agenda Date: 5/5/2026
+
+Contact Person:         Colton Totland                Phone/Ext.:     541-396-7690
+
+Background and description of need or problem:                      Request the Board of Commissioners
+approve and Board Chair sign Resignation Agreement as presented, to become effective COB
+May 14, 2026. Also request Board approve the County's HR Manager to post/advertise for the
+soon to be vacant CHW Director position.
+
+Funding Source:          021-1300-441.10-01
+
+Requested Action: Request Board approve and Board Chair sign Resignation Agreement
+for Mike Rowley, with an effective date of COB May 14, 2026 and approve posting/filling the
+position under the County's HR Department.
+
+Date: 5/1/2026                                  Signature of Dept. Head: ¢        oll            Ihat
+
+For all matters, forward the dacument to Counsel no later than the Monday prior to the Agenda deadline.
+Counsel will forward to Treasurer.
+
+If this is a contract or grant:
+           CJ Is the contract or grant an original?
+         [_] Is the Contract/Grant Summary Form attached?
+         [[] Is the contract signed first by the vendor (except state/federal grants or contracts)?
+         LJ If insurance is required, is the insurance certificate attached?
+         [_] Is the Clerk’s Coversheet attached or do you want it returned to you for filing?
+
+County Counsel          _C/
+
+Treasurer
+
+Human Resources           _ (      ALA_;
+
+                                                                                                          OY bm
+Revised 5/18/15                                                                                         FL]       )
+                                      AGENDA ITEM COVERSHEET
+
+Agenda Item Title: MOU and letter of support for legislation by Coquille Indian Tribe
+
+Department: Counsel                                    Requested Agenda Date: 05/05/2026
+
+Contact Person: Colton Totland                         Phone/Ext.:    7690
+
+Background and description of need or problem:                 The County and Coquille Indian Tribe
+are looking to enter into an MOU        regarding the Tribe’s proposed management of the Coos Bay
+Wagon Road lands. The MOU would call for cooperation on the federal legislation, specifically
+a letter of support from the County, and development of a management agreement between
+the County and the Tribe.
+
+Funding Source:           N/A
+
+Requested Action:           Approve MOU with Coquille Indian Tribe and approve letter of support
+
+Date: 05/01/2026                           Signature of Dept. Head:   Cotten         lobb   ne
+
+For all matters, forward the document to Counsel no later than the Monday      prior to the Agenda
+deadline. Counsel will forward to Treasurer.
+
+If this is a Contract or Grant:
+                ts the contract or grant an original?
+      LIO0O0O
+
+                Is the Contract/Grant Summary Form attached?
+                Is the Contract signed first by the vendor (except state/federa! grants or contracts)?
+                If Insurance is required, Is the Insurance Certificate attached?
+                Is the Clerk’s Filing Coversheet attached?
+                Do you want this returned to you for filing?
+
+County Counsel         ___ C/
+
+Treasurer
+
+Human     Resources
+
+Revised 2/28/2022
+                                                 CONTRACT / GRANT                       SUMMARY FORM
+Clerk’s CJ No.:                                  (complete after filing)                  Contract/Agreement/Grant No.:                         Gif applicable)
+Name/Agency Name and Address: The Coquille Indian Tribe
+Contact Person: Brenda Meade                             Phone No: (541) 756-0904                     Email:
+Amount of Contract/Grant Award:              $ N/A
+Payment Terms: N/A (state lump sum or amount and time of payments)
+Effective Date: 5/5/26            Start Date:___ (if different from effective date, i.e, retroactive / prospective date)
+End Date: 01/03/2027 (if known)
+County Department and Employee Responsible for Performance: BOC/Counsel
+Description: An MOU to support legislation and a management agreement for tribal management of the Coos Bay Wagon Road lands
+Staff Requirements: [_]New [XJExisting [Subcontract
+Will unemployment cost be incurred? [_]Yes [XJNo
+
+                              STATE    %                OTHER     %              FEDERAL %                  Catalog of Federal Domestic Asst.
+                                                                               (CFDA # Required)                    *(CFDA) Number
+
+*CFDA is a five digit number in the following format: xx.xxx. The first two digits designate the federal agency and the last three the grant description. The following
+is a partial listing of the two digit agency identifier:
+     10.xxx USDA                      14.xxx HUD         20.xxx USDOT                66.xxx EPA      84.xxx Dept. of Education
+     I 1.xxx Dept. of Commerce        16.xxx USDOJ        39.xxx General Svs. Admin. 83.xxx FEMA     —93.xxx USDHHS
+                 NOTE:   Ef the contract/grant is associated with more than one CDFA       number, each segment must have ifs own sunimary form.
+
+           New                                          (1 Renewal                                               [J Modification
+                                                        Previous Amount: $                                       Original Amount: $
+                                                        Previous Date:                                            Original Date:
+
+Method of Selection:                                                                      Type of Contract:
+OOBid                 (1 None                                                             C1 New (complete sections below)
+LJ Quote              [J Other                                                            [71 Renewal (no need to complete sections below)
+im   Proposal                                                                             oo Modification      (no need to complete sections below)
+
+Type of Contract:
+LJ    Goods and Services - If Not Using Bid or Proposal, Mark Exemption:
+      (1 Under $10,000                                                                         fo Equipment Maintenance
+      1 Under $50,000 for Quotes                                                                (1 Office Supplies
+      (7 Under $150,000 & Approval from Board for Quotes                                        (1 Used Vehicles
+      (Sole Source                                                                              Gi State Purchasing
+      (7) Contract with Public Agency                                                          (Other
+
+C1    Public Improvement — If Not Using Bid, Mark Exemption:
+      (Under $5,000                                                                            (7 Alternative Contracting Method Approved by Board
+      1 Under $50,000 for Quotes                                                                Cl Other
+      (1 Between $50,000 and $100,000 for Quotes and Prevailing
+      Wage Requirements
+
+L]    Personal Services Contract ~ If Not Using Proposal, Mark Exemption:
+      Dd Under $50,000
+      1] Under $150,000 & Approval from Board
+
+Will project be reported to Bureau of Labor for Prevailing Wages under ORS 279C.800?                 [_]Yes [[INo
+Certificate of insurance required?     LyYes LINo
+
+     Date Approved by BOC:                                                                              Reviewed by Counsel:              (/_
+Contract and Grant Summary Form                                       Revised 1/28/2020
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 95.5% of
+the word sequence, and on 89.0% of the figures. Dictionary-recognizable words: 91.5%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

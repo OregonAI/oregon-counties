@@ -1,0 +1,80 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-602-a-notice
+title: '602-A Notice'
+doc_type: policy
+citation: '602-A Notice'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/602-A%20Notice.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8683c4a7a5a79a2cc9dcafdb5505e22f056569059767b67d1bccbe0f9b347589
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 602-A Notice (602-A Notice)
+
+## At a glance
+
+602-A Notice — policies of Marion County. 1 pages.
+
+## Full text
+
+January 2020
+
+Workplace Accommodation Notice
+Marion County is an equal opportunity employer and does not discriminate on the basis of
+race, religion, color, sex, age, national origin, disability, veteran status, sexual orientation,
+gender identity, gender expression or any other classification protected by law.
+
+Marion County will make reasonable accommodations for known physical or mental
+disabilities of an applicant or employee as well as known limitations related to pregnancy,
+childbirth or a related medical condition, such as lactation, unless the accommodation would
+cause an undue hardship. Among other possibilities, reasonable accommodations could
+include:
+ Acquisition or modification of equipment or devices;
+ More frequent or longer break periods or periodic rest;
+ Assistance with manual labor; or
+ Modification of work schedules or job assignments.
+
+Employees and job applicants have a right to be
+free from unlawful discrimination and retaliation.
+
+For this reason, Marion County will not:
+
+ Deny employment opportunities on the basis of a need for reasonable accommodation
+ Deny reasonable accommodation for known limitations, unless the accommodation
+would cause an undue hardship.
+ Take an adverse employment action, discriminate or retaliate because the applicant or
+employee has inquired about, requested or used a reasonable accommodation.
+ Require an applicant or an employee to accept an accommodation that is unnecessary.
+ Require an employee to take family leave or any other leave, if the employer can make
+reasonable accommodation instead.
+
+To request an accommodation or to discuss concerns or questions about this notice,
+please contact any Marion County manager or supervisor, or a Human Resources Business
+Partner.
+
+Reference: https://apps.intra.co.marion.or.us/BS/APAP/
+ Administrative Policy 301, Equal Employment Opportunity
+ Administrative Policy 602, Discrimination and Harassment Free Workplace

@@ -1,0 +1,103 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-resolution-approving-library-capital-bond-program-midland-li
+title: 'Resolution Approving Library Capital Bond Program Midland Library Fac-1 Construction Plan And Authorizing The County Chair To Execute A Guaranteed Maximum Price Amendment.'
+doc_type: ordinance
+citation: 'Resolution Approving Library Capital Bond Program Midland Library Fac-1 Construction Plan And Authorizing The County Chair To Execute A Guaranteed Maximum Price Amendment.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_approving_library_capital_bond_program_midland_library_fac-1_construction_plan_and_authorizing_the_county_chair_to_execute_a_guaranteed_maximum_price_amendment./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: b3c938ba47bf390ba648bc1776a39b65a4f1ee7330f720fa56903e9e4f493bc7
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Approving Library Capital Bond Program Midland Library Fac-1 Construction Plan And Authorizing The County Chair To Execute A Guaranteed Maximum Price Amendment. (Resolution Approving Library Capital Bond Program Midland Library Fac-1 Construction Plan And Authorizing The County Chair To Execute A Guaranteed Maximum Price Amendment.)
+
+## At a glance
+
+Resolution Approving Library Capital Bond Program Midland Library Fac-1 Construction Plan And Authorizing The County Chair To Execute A Guaranteed Maximum Price Amendment. — orders of Multnomah County. 2 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO.
+Approving Library Capital Bond Program Midland Library FAC-1 Construction Plan and
+Authorizing the County Chair to Execute a Guaranteed Maximum Price Amendment.
+The Multnomah County Board of Commissioners Finds:
+a. The Multnomah County Board of Commissioners (“Board”) previously adopted
+Resolution 2020-057 on June 25, 2020, authorizing submission to the voters of the County a
+measure election with the question of contracting general obligation bonded indebtedness in
+the an aggregate principal amount of not to exceed $387,000,000 to finance capital costs,
+and repealing certain provisions of Resolution No. 2020-014.
+b. On November 3, 2020, voters approved Measure 26-211 “Bonds to Expand, Renovate,
+Construct Library Branches, Facilities; Increase Safety,” which authorized the County to issue
+general obligation bonds to finance capital costs for updating, renovating, constructing, and
+refreshing libraries across the county.
+c. In June 2021, the County adopted the FY22 budget, including $387,000,000 for the
+Library Capital Bond Program (LCBP).
+d. In October 2021, through Resolution 2021-079, the Board approved the FAC-1 Library
+Capital Bond Program Plan, including Program and Project charter and scopes,estimated
+project costs and schedules, the funding strategy developed in cooperation with the County's
+Chief Financial Officer, and design phases.
+e. Pursuant to Administrative Procedure FAC-1 and the Library Capital Bond Program
+Plan, the enclosed FAC-1 Midland Library Construction Plan (“Construction Plan”) sets forth a
+review of the project goals, design effort to date, sustainability status, DEI (Diversity, Equity,
+and Inclusion) efforts, the project budget, the project schedule, and next steps.
+f. Bora Architects, Inc., partnered with Colloqate Design, was selected to perform design
+services. Project design is now complete and in alignment with programmatic and regulatory
+requirements.
+g. Swinerton Builders, Inc. was selected as Construction Management/General
+Contractor (CM/GC) to perform pre-construction services and to negotiate a guaranteed
+maximum price for construction services, and, if approved by the Board, execute an
+amendment to the CM/GC Contract authorizing Swinerton Builders, Inc. to proceed with
+construction of the Project at that price (“GMP Amendment”).
+h. In August 2022, the Project received approval from Portland Bureau of Development
+Services for a Type II Decision as Case Number File LU 22-134590 AD. The Land Use
+Decision was recorded against the property under filing 2022-079779.
+2023-004
+i. The Project budget totals $31.35 Million, including budget adjustments for broadband
+support, collections, specialty items, and market escalation. The negotiated guaranteed
+maximum price for construction services is $18,796,960.55
+j. The Project Team recommends Board approval of the Construction Plan and the GMP
+Amendment.
+k. Approval of the Construction Plan and the GMP Amendment is in the best interests of
+Multnomah County.
+Multnomah County Board of Commissioners Resolves:
+1. The Construction Plan is approved and the Project Team is authorized to proceed with
+the next steps in the construction phase development of the LCBP Midland Library.
+2. The County Chair is authorized to execute the GMP Amendment for the LCBP Midland
+Library Project, together with any amendments or any other ancillary instruments, provided
+that further Board approval shall be obtained with respect to any modification or amendment
+that results in a material increase in the obligations of the County or a material decrease in
+the benefits to the County under the Guaranteed Maximum Price Amendment.
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+SUBMITTED BY: Tracey Massey, Director, Department of County Assets
+ BOARD OF COUNTY COMMISSIONERS
+
+FOR MULTNOMAH COUNTY, OREGON
+ Jessica Vega Pederson, Chair
+ ADOPTED this 19th day of January, 2023.

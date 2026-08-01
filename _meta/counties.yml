@@ -83,9 +83,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://www.co.marion.or.us
-  built: false
-  deferred: cloudflare-challenge
-  deferred_reason: 'codepublishing.com (General Code) returns HTTP 403 Cloudflare managed challenge to an honestly-identified agent'
+  built: true
 - slug: jackson-county
   name: Jackson County
   short_name: Jackson
@@ -171,7 +169,7 @@ counties:
   source_url: https://www.josephinecounty.gov
   built: false
   deferred: cloudflare-challenge
-  deferred_reason: 'code migrated to eCode360 (JO4733), which is Cloudflare-403 to an honestly-identified agent'
+  deferred_reason: 'CODE is Cloudflare-403 on eCode360; LAND USE is reachable on the county''s own domain but every instrument is an image-only scan (comprehensive plan 760pp/35MB, 0 characters) so it needs OCR, not access (2026-08-01).'
 - slug: umatilla-county
   name: Umatilla County
   short_name: Umatilla
@@ -349,9 +347,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://www.lakecountyor.org
-  built: false
-  deferred: cloudflare-challenge
-  deferred_reason: 'lake.county.codes (General Code) returns HTTP 403 Cloudflare managed challenge to an honestly-identified agent; robots also names ClaudeBot'
+  built: true
 - slug: wallowa-county
   name: Wallowa County
   short_name: Wallowa
@@ -361,7 +357,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://www.co.wallowa.or.us
-  built: false
+  built: true
 - slug: harney-county
   name: Harney County
   short_name: Harney
@@ -403,7 +399,7 @@ counties:
   governing_body: county-court
   home_rule: general-law
   source_url: https://www.gilliamcountyor.gov
-  built: false
+  built: true
 - slug: wheeler-county
   name: Wheeler County
   short_name: Wheeler
@@ -414,3 +410,5 @@ counties:
   home_rule: general-law
   source_url: https://www.wheelercountyoregon.com
   built: false
+  deferred: cloud-container-opaque
+  deferred_reason: 'Publishes no codified code (measured none-found). Its resolutions, ordinances, court minutes and records-retention policy are all in Box.com shared folders, which render ZERO characters in headless Chromium after a 12s settle and a scroll — not a refusal, and not solvable by rendering. Older minutes require a records-request form by the county''s own statement, and its comprehensive plan is only in UO Scholars'' Bank.'

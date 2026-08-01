@@ -1,0 +1,75 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-resolution-directing-payment-of-deferred-taxes-on-tax-foreclosed-property-to-the-department-of-revenue-as-required-under-ors-311-6-b315fa
+title: 'Resolution Directing Payment Of Deferred Taxes On Tax Foreclosed Property To The Department Of Revenue As Required Under Ors 311.694.'
+doc_type: ordinance
+citation: 'Resolution Directing Payment Of Deferred Taxes On Tax Foreclosed Property To The Department Of Revenue As Required Under Ors 311.694.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_directing_payment_of_deferred_taxes_on_tax_foreclosed_property_to_the_department_of_revenue_as_required_under_ors_311.694._/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d357af7c4a81ecaa495fe8e744e61d06057363e188c7cf4f6fddf0841438559d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 311.666
+    - ORS 311.676
+    - ORS 311.694
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Directing Payment Of Deferred Taxes On Tax Foreclosed Property To The Department Of Revenue As Required Under Ors 311.694. (Resolution Directing Payment Of Deferred Taxes On Tax Foreclosed Property To The Department Of Revenue As Required Under Ors 311.694.)
+
+## At a glance
+
+Resolution Directing Payment Of Deferred Taxes On Tax Foreclosed Property To The Department Of Revenue As Required Under Ors 311.694. — orders of Multnomah County. 1 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO.  2022-013
+RESOLUTION Directing Payment of Deferred Taxes on Tax Foreclosed Property to the
+Department of Revenue as Required Under ORS 311.694:
+The Multnomah County Board of Commissioners Finds:
+a. Upon the execution and recording of the tax foreclosure deed on October 26, 2021, at
+the completion of the two year redemption period after the Tax Foreclosure Judgement
+was entered on October 23, 2019, Multnomah County acquired certain real property
+located in Multnomah County, Oregon more particularly described as:
+Lot 24, ANGELA PARK, in the City of Gresham, County of Multnomah and State
+of Oregon
+b. The Property was subject to the Oregon State Department of Revenue’s tax deferral
+program, as provided at ORS 311.666 to 311.701, under which the Department of
+Revenue (DOR) pays directly to the County the annual property taxes.  See ORS
+311.676
+c. Because the deferred taxes and interest have not otherwise been collected against the
+property, under ORS 311.694, the County must now pay the amount of deferred taxes
+and interest to the DOR from the unsegregated tax accounts.
+d. The County has received a payoff amount from the Department of Revenue for the
+Property of $106,002.15 as of March 3, 2022, with a per diem of $8.19.
+The Multnomah County Board of Commissioners Resolves:
+1. The Multnomah County Tax Collector is directed to pay the uncollected deferred taxes
+and interest on the Property in the amount set forth above to the Department of Revenue
+from the unsegregated tax collections account in compliance with ORS 311.694.
+ADOPTED this 3rd day of March, 2022. BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+SUBMITTED BY: Serena Cruz, Dept. of County Management
+REVIEWED:

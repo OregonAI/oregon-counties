@@ -1,0 +1,158 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-resolution-authorizing-cancellation-of-uncollectible-personal-property-taxes-for-tax-years-2009-2018
+title: 'Resolution Authorizing Cancellation Of Uncollectible Personal Property Taxes For Tax Years 2009-2018.'
+doc_type: ordinance
+citation: 'Resolution Authorizing Cancellation Of Uncollectible Personal Property Taxes For Tax Years 2009-2018.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_authorizing_cancellation_of_uncollectible_personal_property_taxes_for_tax_years_2009-2018./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 7ef440a10d5f398f6aeddee17176a9391b1bbea0debb177b5527c64223df39e7
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 311.790
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Authorizing Cancellation Of Uncollectible Personal Property Taxes For Tax Years 2009-2018. (Resolution Authorizing Cancellation Of Uncollectible Personal Property Taxes For Tax Years 2009-2018.)
+
+## At a glance
+
+Resolution Authorizing Cancellation Of Uncollectible Personal Property Taxes For Tax Years 2009-2018. — orders of Multnomah County. 2 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO. 2020-088
+Authorizing Cancellation of Uncollectible Personal Property Taxes for Tax Years 2009-2018.
+The Multnomah County Board of Commissioners Finds:
+a. Certain personal property taxes have been delinquent and the Multnomah County Tax
+Collector and County Attorney have determined that said taxes are wholly uncollectible
+and have requested the Board for an or der directing that the taxes be cancelled
+pursuant to ORS 311.790.
+The Multnomah County Board of Commissioners Resolves:
+1. That the Multnomah County Tax Collector is directed to cancel those certain personal
+property taxes which are listed and appended he reto and incorpo rated herein, for tax
+years 2009-2018 for the reason that the same are found to be uncollectible.
+ADOPTED this 8th day of October, 2020.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By /s/ Carlos Rasch
+ (Carlos Rasch, Assistant County Attorney)
+SUBMITTED BY:
+Travis Graves – Department of County Management
+Property
+Report
+Cd Warrant Numbers Total Due Tax Due
+Name &
+Address
+Property
+Type
+U631915 WOP Bankruptcy   $51,765.59 $32,625.37 SEAPORT AIRLINES INC Utilities
+     1 Utility account
+P651236 WOP 130926 $10,025.59 $4,880.51
+WEVCO BIODIESEL
+PRODUCTS LLC
+Personal
+Property
+Industrial
+
+1 Industrial
+account
+P626310 WOP 140744, 150685  $14,863.15 $8,490.81
+RIVERPLACE ATHLETIC
+INVESTORS LLC
+Personal
+Property
+P665494 WOP 140630 $9,144.79 $4763.70 NORTHWESTERN INC
+Personal
+Property
+P688976 WOP 181093 $9,103.27 $7,153.63
+OBELISK PARTNERS
+LLC
+Personal
+Property
+P501577 WOP
+091540, 100854,
+121959   $6,779.40 $2,731.87
+SIMON & ELIZABETH
+LLC
+Personal
+Property
+P681053 WOP 170718, 180926  $4,459.56 $3,235.52 RUE LLC
+Personal
+Property
+P658027 WOP 150215, 160230  $1,885.20 $1068.20 DLG ENTERPRISES LLC
+Personal
+Property
+P659896 WOP 150839 $1,296.77 $768.93
+THE MODERN MAN
+INC
+Personal
+Property
+P640644 WOP
+150432,160516,
+170438, 180563  $912.52 $685.53 KWIKFLICKS LLC
+Personal
+Property
+P640645 WOP
+150433, 160517,
+170439, 180564  $906.03 $675.11 KWIKFLICKS LLC
+Personal
+Property
+P658460 WOP
+150434,160518,
+170437, 180656    $906.03 $675.11 KWIKFLICKS LLC
+Personal
+Property
+P509076 WOP 161023 $830.05 $587.09 VITAMIN WORLD INC
+Personal
+Property
+P612674 WOP BK $632.70 $504.81
+EXPRESS CONCEPTS
+LLC
+Personal
+Property
+P657463 WOP 180639 $271.81 $223.42 MINUTE KEY INC
+Personal
+Property
+P444984 WOP BK $48.73 $28.78
+RHODES COLLEGES
+INC
+Personal
+Property
+P614880 WOP BK $10.24 $3.86
+FIRST PORTLAND
+CORPORATION
+Personal
+Property
+P526788 WOP 160972 $10.35 $6.69 TMLS INC
+Personal
+Property
+   $113,851.78 $69,108.94
+16 Business
+personal accounts

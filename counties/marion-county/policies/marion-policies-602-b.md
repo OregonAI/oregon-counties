@@ -1,0 +1,115 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-602-b
+title: '602-B'
+doc_type: policy
+citation: '602-B'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/602-B.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 99062881535f2b2571237d867c7e2de7abe9cdba4da0554c557e1b779eaa4dab
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 602-B (602-B)
+
+## At a glance
+
+602-B — policies of Marion County. 2 pages.
+
+## Full text
+
+602-B.1
+ADMINISTRATIVE PROCEDURES
+
+TITLE: Discrimination and Harassment Free Workplace - Public PROCEDURE #: 602-B
+DEPT: Human Resources DIVISION: Human Resources
+EFFECTIVE DATE: 8/05 REVIEWED:  REVISED: 01/20
+
+OBJECTIVE: To establish procedures for handling complaints of alleged discrimination in
+the provision of county programs or activities.
+
+REFERENCE: Policy # 602
+
+POLICY STATEMENT: It is the policy of Marion County to maintain a work environment which is
+free of harassment based on race, color, age, religion, sex, sexual
+orientation, disability, national origin, and any other protected status in
+accordance with applicable state and/or federal law. Discrimination or
+harassment will not be tolerated in the workplace, in the provision of county
+services to members of the public, in any work-related setting outside of the
+workplace, or when using county-owned equipment including vehicles and
+electronic devices.
+
+APPLICABILITY: County customers and members of the public.
+
+PROCEDURES:
+
+1. Complaint and Investigation Process:
+
+1.1. Complaints alleging discrimination by Marion County or its employees should be submitted to
+the Marion County Chief Human Resources Officer:
+Email: HumanResources@co.marion.or.us
+Mail: PO Box 14500, Salem OR 97309 or
+Phone: 503-589-3295
+
+1.2. A complaint must be filed in writing and should briefly describe the alleged violation of the
+regulations.
+1.2.1. The complaint must contain the name, address and telephone number of the person filing.
+1.2.2. The written complaint must be filed within 10 days of the alleged violation.
+
+1.3. The Chief Human Resources Officer or designee shall conduct the investigation, as may be
+appropriate, following the filing of a complaint.
+
+1.4. These procedures contemplate informal but thorough investigations, affording all interested
+persons and their representatives, if any, an opportunity to submit evidence relevant to a
+complaint.
+
+SUBJECT:  DISCRIMINATION and HARASSMENT FREE WORKPLACE
+602-B.2
+1.5. A written determination as to the validity of the complaint and a description of the resolution, if
+any, shall be issued by the Chief Human Resources Officer and a copy forwarded to the
+complainant no later than 30 days after its filing.
+
+1.6. The Chief Human Resources Officer shall maintain separate, confidential files and records for
+Marion County relating to the complaints filed.
+
+1.7. If dissatisfied with the resolution, the complainant may request reconsideration of the case.
+2.7.1. Requests for reconsideration must be made to the Marion County Chief Administrative
+ Officer.
+ Chief Administrative Officer: Phone: (503)588-5212
+     commissioners@co.marion.or.us
+
+2. These procedures shall be construed to protect the substantive rights of interested persons to meet
+appropriate due process standards and to assure that Marion County complies with the law and
+implementing regulations.
+
+3. The right of a person to prompt and equitable resolution of the complaint filed hereunder shall not be
+impaired by the person’s pursuit of other remedies such as the filing of a complaint with the
+responsible federal department or agency. Use of this grievance procedure is not a prerequisite to the
+pursuit of other remedies. Questions or complaints may also be addressed to:
+Office for Civil Rights
+US Department of Health and Human Services
+2201 Sixth Avenue, M/S RX-11
+Seattle, WA 98121-1831
+(206) 615-2290 (voice) or (800) 537-7697 (TTY) or (800) 368-1019 (Toll Free)

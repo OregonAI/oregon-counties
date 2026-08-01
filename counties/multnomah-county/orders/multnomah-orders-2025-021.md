@@ -1,0 +1,186 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-2025-021
+title: '2025-021'
+doc_type: ordinance
+citation: '2025-021'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/2025-021.pdf/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 381006c9b3e5a681930d610fcbc86b21e252c8ab3252e69fd40ce1117c23bdbc
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 294.175
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 2025-021 (2025-021)
+
+## At a glance
+
+2025-021 — orders of Multnomah County. 9 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO.  2025-021
+Certifying an Estimate of Expenditures for Fiscal Year 202 5-2026 for Assessment & Taxation
+in Accordance with ORS 294.175.
+The Multnomah County Board of Commissioners Finds:
+a. ORS 294.175 requires counties to file by May 1 st of each calendar year an estimate of
+expenditures for Assessment and Taxation for the ensuing year with the Oregon Department
+of Revenue.
+b. Assessment and Taxation has prepared such an estimate of expenditure in accordance
+with the requirements of ORS 294.175 and the Oregon Department of Revenue administrative
+rules.
+The Multnomah County Board of Commissioners Resolves:
+1. The attached estimate of expenditures for the fiscal year 2025-2026 for Assessment and
+Taxation for Multnomah County is certified for filing with the Oregon Department of Revenue
+as required by ORS 294.175.
+ADOPTED this 17th day of April, 2025.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+REVIEWED:
+SUBMITTED BY: Travis Graves, Chief Operating Officer, Director, Dept of County
+Management
+3.10 2.65  (0.45)
+ 21.59 22.63 1.04
+ 24.69 25.28 0.59
+ 9.50 9.25  (0.25)
+ 7.50 7.50 0.00
+ 24.50 24.50 0.00
+ 15.00 15.00 0.00
+ 1.50 1.50 0.00
+ 0.50 0.50 0.00
+ 1.00 1.00 0.00
+ 0.00 0.00 0.00
+ 3.00 3.00 0.00
+ 9.00 9.00 0.00
+ 71.50 71.25  (0.25)
+ 0.75 0.75 0.00
+ 5.10 5.05  (0.05)
+ 13.34 13.91 0.57
+ 0.90 0.90 0.00
+ 0.65 0.65 0.00
+ 19.99 20.51 0.52
+ 0.25 0.25 0.00
+ 0.00 0.00 0.00
+ 2.00 2.00 0.00
+ 2.05 2.04  (0.01)
+ 4.30 4.29  (0.01)
+ 4.32 4.26  (0.06)
+ 125.55 126.34 0.79
+(2024-25) (2025-26)
+Temporary Staffing for FY 2025-2026 is 2.80 FTE, no change in FTE from FY 2024-2025 to
+FY2025-2026. Temp staffing costs $139,559 and is reported in the following categories: Category A:
+.70 FTE at a cost of $44,613; Category B: 2.10 FTE at a cost of $94,946
+Temporary staff are utilized for the following purposes: Office assistants for seasonal coding of
+personal property returns (1.25 FTE); Residential and Commercial interns for data gathering (.85
+FTE); and Tax Supervising and Conservation Commission (TSCC) part time support for data entry,
+budget analysis, communications and administrative tasks (.70 FTE).
+Due to Countywide budget cuts, DART is reorganizing staff among assessment and tax collection
+programs (A&T)--note: no reductions were applied to A&T positions, personnel or other indirect
+expenditures.
+Personnel costs reflect allowable salary increases in accordance with Multnomah County Local 88
+contract terms and Personnel rules approved by the Board of County Commissioners, including 2.4%
+COLA and Step increases for Local 88 represented staff, 2.4% COLA and allowable merit increases for
+non-represented staff and VEBA of 1% for all non-represented staff.
+5,383 5,500 23.00 23.00
+ 44 45 0.50 0.25
+ 581 600 4.50 4.50
+ 65 70 1.50 1.50
+ 383 400 2.00 2.00
+ 1,906 1,950 5.50 5.50
+ 8,362 8,565 37.00 36.75
+ 34 35 1.00 1.00
+ 609 700 2.50 2.50
+ 7 5 0.50 0.50
+ 39 40 2.00 2.00
+ 4 5 0.50 0.50
+ 693 785 6.50 6.50
+ 275,000 3.00 3.00
+ 282,429 289,000 9.50 9.50
+ 13,616 14,000 6.50 6.50
+ 268,813
+ 14,837 15,000 10.00 10.00
+ 3.00 3.00
+ 0.50 0.50
+ 5.00 5.00
+ 71.25 71.50
+ (2024-25) (2024-25) (2025-26) (2025-26)
+92 150
+ 6 10
+ 767 650
+ 252 250
+ 70 60
+ 3,825 3,500
+ 2,072 2,100
+ 663 700
+ 9,358 9,400
+ 128 120
+ 88 90
+ 1,661 1,600
+ 279 280
+ 0 0
+ 189 180
+ 27,308 28,000
+ 22,361
+ 21,246
+X
+X
+MULTNOMAH
+ (2024-25) (2025-26)
+X
+19,680 20,000
+ 1,536 1,600
+ 45 50
+ 46 50
+ 5 5
+ 194 10
+MULTNOMAH
+2025-2026
+ (2025-26)
+ (2025-26)
+ (2024-25)
+ (2024-25)
+3,116,137 100,299 12,084,317 4,231,529 669,432 634,027
+ 12,797 695,151 408,142 37,693 2,346,943 758,626
+ 20,835,741
+ 4,259,352
+ 10,985 50,376 0 2,129 0 0 63,490
+ 4,650,656 12,829,844 113,096 3,876,892 707,125 2,980,970 25,158,583
+ 25,158,583
+ 0.05
+ 1,257,929
+ 0.00000
+ 0
+ 1,257,929
+ 0 0 0 0 0 0 0
+ 26,416,512
+ 1,584,991
+ 1,584,991
+ 0
+ 26,416,512
+$26,416,512
+TitleChair/Judge or Appointee Sign Date

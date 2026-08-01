@@ -1,0 +1,99 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-2025-062
+title: '2025-062'
+doc_type: ordinance
+citation: '2025-062'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/2025-062.pdf/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8e34fc854bf49e8f4ae7cbc28cf1841da6b13cf0b88dcae72b50b62ce0fb3a22
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 2025-062 (2025-062)
+
+## At a glance
+
+2025-062 — orders of Multnomah County. 2 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO. ______
+
+Approving
+ an Increased Contract Price for the Bridge Shop Fire Remediation Project.
+The Multnomah County Board of Commissioners Finds:
+A. Multnomah County owns the Bridge Shop building located at 1403 SE Water
+Ave., Portland, Oregon (“Building”).
+B. In Fiscal Year 2024, a fire started at the Building due to a fuel leak on a piece of
+equipment.  The fire caused extensive damage to the garage as well as the
+adjacent office space. All of the infrastructure was damaged beyond repair
+requiring a full remodel of both the garage and adjacent spaces.
+C. Through a Request for Proposal (“RFP”) process a contract for the Bridge Shop
+Fire Remediation Project (the “Project”) was awarded to general contractor
+Buildskape, LLC (“Contract”).
+D. After the Contract was signed, unforeseen issues were discovered amounting to
+$488,000 in additional costs.
+E. One of the change orders included repairing an existing stairlift. However, parts
+and materials to repair or replace the stairlift were discovered to no longer be
+available. With parts and materials no longer available, and the existing stairlift
+requiring a second person to assist individuals using wheelchairs, the Project
+team proposed replacing the existing stairlift with a platform lift. This upgrade will
+enable individuals in mobility devices to operate the lift independently, provide
+easy access for motorized chairs to the upper level, and ensure the building
+complies with current Americans with Disabilities Act (“ADA”) code standards.
+F. Of the $488,000 in additional costs, insurance will cover $338,000 of the
+remediation change order costs that were existing parts of the building at the
+time of the fire. Insurance will not cover the full cost of a new platform lift, as it
+was not an existing part of the building. To address this funding gap, $150,000
+has been allocated for the ADA lift from Capital Improvement Fund Program
+Offer 78206.
+G. The cost for the additional work performed by the contractor requires Board
+approval pursuant to Public Contract Review Board (PCRB) 49-0910(3), due to
+the increased costs of the Contract for renovation and remodeling exceeding
+33% of the original Contract price.
+2025-062
+H. Sufficient funds are appropriated within the FY 2026 budget. No additional
+funding is requested.
+I. Approval of the increased Contract price from $1,098,524 to $1,586,524
+(“Increased Contract Price”) is in the best interests of Multnomah County.
+The Multnomah County Board of Commissioners Resolves:
+Pursuant to PCRB 49-0910(3), the Increased Contract Price is approved.
+ADOPTED this __ day of _______, 20__.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By:
+Andrew MacKendrick, Sr. Assistant County
+Attorney
+SUBMITTED BY:
+Tracey Massey, Department of County Assets Director and CIO
+30th
+October

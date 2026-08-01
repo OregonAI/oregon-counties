@@ -1,0 +1,70 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-resolution-appointing-commissioner-lori-stegmann-to-serve-on
+title: 'Resolution Appointing Commissioner Lori Stegmann To Serve On The Urban Flood Safety And Water Quality District As The Representative For Multnomah County.'
+doc_type: ordinance
+citation: 'Resolution Appointing Commissioner Lori Stegmann To Serve On The Urban Flood Safety And Water Quality District As The Representative For Multnomah County.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_appointing_commissioner_lori_stegmann_to_serve_on_the_urban_flood_safety_and_water_quality_district_as_the_representative_for_multnomah_county./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 025fe5384fd0a988392a751eef56421b1cb968086f4a9f286abf374196d423e2
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Appointing Commissioner Lori Stegmann To Serve On The Urban Flood Safety And Water Quality District As The Representative For Multnomah County. (Resolution Appointing Commissioner Lori Stegmann To Serve On The Urban Flood Safety And Water Quality District As The Representative For Multnomah County.)
+
+## At a glance
+
+Resolution Appointing Commissioner Lori Stegmann To Serve On The Urban Flood Safety And Water Quality District As The Representative For Multnomah County. — orders of Multnomah County. 1 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO. 2020-016
+Appointment of Commissioner Lori Stegmann to serve on the Urban Flood Safety and Water
+Quality District as the representative for Multnomah County.
+The Multnomah County Board of Commissioners Finds:
+a. The Urban Flood Safety and Water Quality District (UFSWQD) was created by the 80th
+Oregon Legislative Assembly for the purpose of acquiring, purchasing, constructing, improving,
+operating and maintaining works in order to reduce the risk of flooding; protect people and
+property from flood risk; respond to flood emergencies; convey water for the purpose of flood
+safety; contribute to improved water quality, fish and wildlife habitat, floodplain restoration and
+landscape resilience; promote equity and social justice in all aspects of the district’s operations;
+prepare for and adapt to the impact of climate change in relation to the managed floodplain;
+and provide the public with in formation regarding the cultural history of the territory in the
+managed floodplain within the urban growth boundary of Multnomah County.
+b. Pursuant to Oregon Revised Statutes 550.190 the initial board of directors of the Urban
+Flood Safety and Water Quality District shall consist of seventeen directors with one director
+representing Multnomah County appointed by the Multnomah County Board of Commissioners.
+c. The purpose of the init ial district board is to organize  the district and to develop, and
+approve or seek approval from the electors of, methods of funding the operations of the district.
+The Multnomah County Board of Commissioners Resolves:
+The Board of County Commissioners appoints and approves Commissioner Lori Stegmann as
+the representative to the Urban Flood Safety and Water Quality District for Multnomah County.
+ADOPTED this 12th day of March, 2020.
+ BOARD OF COUNTY COMMISSIONERS
+ FOR MULTNOMAH COUNTY, OREGON
+ Deborah Kafoury, Chair
+SUBMITTED BY: Liz Smith-Currie, Chair’s Office

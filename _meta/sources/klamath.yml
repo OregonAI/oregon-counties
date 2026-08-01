@@ -29,6 +29,97 @@ sources:
   sha256: ''
   title: ORDINDEX-71326pdf
   last_checked: '2026-07-31'
+- id: klamath-land-use-2734
+  url: https://www.klamathcounty.org/DocumentCenter/View/2734
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: TOC.docx revised 6.13.2025 202506131844380856
+  last_checked: '2026-07-31'
+- id: klamath-land-use-2726
+  url: https://www.klamathcounty.org/DocumentCenter/View/2726
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 30 (PDF)
+  last_checked: '2026-07-31'
+- id: klamath-land-use-2730
+  url: https://www.klamathcounty.org/DocumentCenter/View/2730
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 70 (PDF)
+  last_checked: '2026-07-31'
+- id: klamath-land-use-5668
+  url: https://www.klamathcounty.org/DocumentCenter/View/5668
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 40 202401021333065871
+  last_checked: '2026-07-31'
+- id: klamath-land-use-2731
+  url: https://www.klamathcounty.org/DocumentCenter/View/2731
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 80 202308101747498714
+  last_checked: '2026-07-31'
+- id: klamath-land-use-5673
+  url: https://www.klamathcounty.org/DocumentCenter/View/5673
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 10 201809201331318342
+  last_checked: '2026-07-31'
+- id: klamath-land-use-2728
+  url: https://www.klamathcounty.org/DocumentCenter/View/2728
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 50 revised 6.13.2025 202506131829004870
+  last_checked: '2026-07-31'
+- id: klamath-land-use-39340
+  url: https://www.klamathcounty.org/DocumentCenter/View/39340
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Planning-Solar Siting Ordinance Article 57.2
+  last_checked: '2026-07-31'
+- id: klamath-land-use-2725
+  url: https://www.klamathcounty.org/DocumentCenter/View/2725
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 20 202302021738598403
+  last_checked: '2026-07-31'
+- id: klamath-land-use-2729
+  url: https://www.klamathcounty.org/DocumentCenter/View/2729
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 60 201803191317200319
+  last_checked: '2026-07-31'
+- id: klamath-land-use-2732
+  url: https://www.klamathcounty.org/DocumentCenter/View/2732
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 90 (PDF)
+  last_checked: '2026-07-31'
+- id: klamath-land-use-2723
+  url: https://www.klamathcounty.org/DocumentCenter/View/2723
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Appendices (PDF)
+  last_checked: '2026-07-31'
+- id: klamath-land-use-2029
+  url: https://www.klamathcounty.org/DocumentCenter/View/2029
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Economic Development - 8-24-17
+  last_checked: '2026-07-31'
 - id: klamath-policies-klamath-county-human-resources-policies-procedures-manual-cu
   url: https://www.klamathcounty.org/DocumentCenter/View/34462/Klamath-County-Human-Resources-Policies--Procedures-Manual-Current-05-23
   family: policies

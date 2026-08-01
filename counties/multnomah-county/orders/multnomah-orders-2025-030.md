@@ -1,0 +1,286 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-2025-030
+title: '2025-030'
+doc_type: ordinance
+citation: '2025-030'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/2025-030.pdf/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9d7b958432136d80f92a77f261602c57f20211be8129f21c11cf226258e066d5
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 190.003
+    - ORS 195.020
+    - ORS 195.065
+    - ORS 195.205
+    - ORS 197.175
+    - ORS 198.705
+    - ORS 198.725
+    - ORS 198.857
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 2025-030 (2025-030)
+
+## At a glance
+
+2025-030 — orders of Multnomah County. 9 pages.
+
+## Full text
+
+Page 1 of 2 - Approving a Petition to Annex a Single Parcel of Land to the Dunthorpe-
+Riverdale Service District pursuant to ORS 198.857 and Authorizing the Chair to Provide the
+District’s Endorsement on the Petition.
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+GOVERNING BODY FOR DUNTHORPE-RIVERDALE SERVICE DISTRICT
+
+RESOLUTION NO.  2025-030
+
+Approving a Petition to Annex a Single Parcel of Land to the Dunthorpe-Riverdale Service
+District pursuant to ORS 198.857 and Authorizing the Chair to Provide the District’s
+Endorsement on the Petition.
+
+The Multnomah County Board of Commissioners Finds:
+
+a. The Dunthorpe -Riverdale Service District  (“District”) is a county service district
+organized under ORS Chapter 451.   The Multnomah County Board of County
+Commissioners is the governing body of the District (“District Board”).
+
+b. ORS 198.857  provides a process for annexing  a parcel of land to a county service
+district.  ORS 198.857(2) requires that the board of a county service district approve an
+annexation petition by endorsement thereon before the annexation petition is filed with
+the county board.
+
+c. Petitioners have submitted an annexation petition to  the Distr ict for approval by
+endorsement on the petition .  The annexation petition is attached hereto as Exhibit 1
+and includes a map and legal description of the property.
+
+d. Per the District staff report  prepared for the Multnomah County Board of County
+Commissioners, attached hereto as Exhibit 2, annexation to the District of the property
+described in Exhibit 1 is consistent with the statewide planning goals, the Principal Act
+(ORS Chapter 451) , and Metro Code Chapter 3.09,  and the petition meets the
+requirements of ORS 198.857.
+
+/ / /
+
+/ / /
+
+/ / /
+
+/ / /
+
+/ / /
+
+/ / /
+
+/ / /
+
+/ / /
+Page 2 of 2 - Approving a Petition to Annex a Single Parcel of Land to the Dunthorpe-
+Riverdale Service District pursuant to ORS 198.857 and Authorizing the Chair to Provide the
+District’s Endorsement on the Petition.
+The Multnomah County Board of Commissioners Resolves:
+1. The District Board approves the annexation petition attached hereto as Exhibit 1.
+2. The County Chair, acting as the Chair of the governing body of the Dunthorpe-Riverdale
+Service District, is authorized and directed to provide the District Board’s approval by
+endorsement on the petition attached hereto as Exhibit 1.
+ADOPTED this 5th day of June, 2025.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+GOVERNING BODY FOR DUNTHORPE -
+RIVERDALE SERVICE DISTRICT
+Jessica Vega-Pederson, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+SUBMITTED BY: MARGI BRADWAY, DCS DIRECTOR
+4/7/2025
+Exhibit 2
+
+TO:     Multnomah County Board of County Commissioners
+
+FROM:    Chet Hagen, Dunthorpe-Riverdale Service District Program
+Manager
+
+Date of Staff Report:   May 15, 2025
+
+Date of County Board Hearing: June 5 , 2025
+
+DUNTHORPE-RIVERDALE SERVICE DISTRICT ANNEXATION PETITION STAFF REPORT
+
+Petitioners:  Property Owners – Risa and Camilo Moreno
+
+Subject Property: L ocated at 400 SW Edgecliff Road: Tax Lot 21E02BB01300, NW 1/4 Sec.
+2, T2S R1E, W.M., Clackamas County, Oregon
+   (See attached legal description and map)
+
+1. Staff Recommendation/Action Requested:  Approval of annexation petition
+
+2. Financial Impact to Multnomah County:      None
+
+3. Legal Issues:             None
+
+4. Link to Current County Policies:        None
+
+5. Citizen Participation:   By the time of the hearing, notice of the
+Multnomah County Board of County
+Commissioners hearing on the annexation
+petition will consist of: 1) Published notice in
+the Oregonian; 2) Mailed notice to the
+Petitioners, affected local governments, all
+property owners within 100 feet of the area
+to be annexed, and all recognized
+neighborhood or community organizations
+whose boundaries include the subject
+property; and 3) weatherproof posting of the
+hearing notice on a sign located in the public
+right-of-way adjacent to the subject property.
+Notice of this hearing includes information on
+how to provide testimony.
+
+6. Other Government Participation: The Dunthorpe-Riverdale Service District
+(“District”) is a county service district that
+provides sanitary sewer service in
+unincorporated Multnomah and Clackamas
+counties and for which the Multnomah
+County Board of County Commissioners
+serves as the governing body (“District
+Board”).  The District Board has approved
+and endorsed the annexation petition as is
+required by statute.
+
+      The property proposed to be annexed to the
+District is located in Clackamas County.
+However, because Multnomah County is the
+District’s principal county, as defined in ORS
+198.705(17), the Multnomah County Board
+of County Commissioners (“County Board”)
+must decide whether to approve the
+annexation petition.  ORS 198.725.
+
+PETITION UNDER ORS 198.857
+
+Petitioner initiated a consent annexation petition under ORS 198.857.  The petition meets the
+requirement for initiation of annexation proceedings set forth in ORS 198.857(2) and Metro
+Code 3.09.040(A) (lists Metro’s minimum requirements for petition).  If the County Board
+approves the proposal, the boundary change would become effective on the date described in
+Metro Code 3.09.060(A)(4).
+
+THE SUBJECT PROPERTY
+
+The territory that is proposed to be annexed (“subject property” or “affected territory”) is located
+generally on the south edge of the District at 400 SW Edgecliff Road: Tax Lot 21E02BB01300,
+NW 1/4 Sec. 2, T2S R1E, W.M., Clackamas County, Oregon.  A full legal description and map
+of the subject property is attached to this staff report.
+
+The subject property is inside of Metro's jurisdictional boundary and inside the regional Urban
+Growth Boundary (UGB). The subject property is .98 acres, currently has one dwelling, and is
+valued at $1,410,159.00.
+
+The subject property lies within Clackamas County is covered by an Urban Growth
+Management Agreement between Clackamas County and the City of Lake Oswego.  The
+agreement acknowledges that areas covered by the agreement can and should ultimately be
+provided with a full range of services by the City of Lake Oswego and that this should be
+accomplished through annexation to the City.  However, the subject property is not currently
+contiguous to the City, though it is within the City’s Urban Service Boundary.
+
+The proposed annexation would not result in the withdrawal of the subject property from the
+legal boundary of any county, city, district whose jurisdictional boundary or adopted urban
+service area includes any part of the affected territory or who provides any urban service to any
+portion of the affected territory; Metro; or any other unit of local government, as defined in ORS
+190.003, that is a party to any agreement for provision of an urban service to the affected
+territory.
+
+JURISDICTION
+
+The property to be annexed lies within Clackamas County.  However, Multnomah County is the
+“principal county,” as defined in ORS 198.705(17), in the District, and the Multnomah County
+Board of County Commissioners therefore has jurisdiction to determine whether to approve the
+annexation petition pursuant to ORS 198.725 and 198.857.
+
+REASON FOR ANNEXATION
+
+The petitioner desires sanitary sewer service to serve an existing single-family dwelling.
+
+AVAILABILITY OF SERVICES
+
+District sewer services are available to serve the subject property and the existing dwelling.  In
+particular, the dwelling can be served from a District sewer line in SW Edgecliff Rd on the
+northwest end of the subject property.
+
+CRITERIA
+
+Oregon Revised Statute Chapter 198 provides that, when determining whether to approve an
+annexation petition, the County Board shall “consider the local comprehensive plan for the area
+and any service agreement executed between a local government and the affected district.”
+ORS 198.857(4).
+
+A second set of criteria can be found in the Metro Code.  To approve a boundary change, the
+County Board must apply the criteria and consider the factors set forth in Metro Code Section
+3.09.045(D) and (E).  To approve a boundary change, the County Board must:
+
+1)    Find that the boundary change is consistent with expressly applicable provisions in:
+
+(A)     Any applicable urban service agreement adopted pursuant to ORS
+195.065;
+
+(B) Any applicable annexation plan adopted pursuant to ORS 195.205;
+
+(C) Any applicable cooperative planning agreement adopted pursuant to ORS
+195.020(2) between the District and any county, city, district whose
+jurisdictional boundary or adopted urban service area
+includes any part of the affected territory or who provides any urban
+service to any portion of the affected territory; Metro; or any other unit of
+local government, as defined in ORS 190.003, that is a party to any
+agreement for provision of an urban service to the affected territory;
+
+(D) Any applicable public facility plan adopted pursuant to a statewide
+planning goal on public facilities and services;
+
+(E) Any applicable comprehensive plan;
+
+(F) Any applicable concept plan; and
+
+2)    Consider whether the boundary change would:
+
+(A) Promote the timely, orderly and economic provision of public facilities and
+services;
+
+(B) Affect the quality and quantity of urban services; and
+
+(C) Eliminate or avoid unnecessary duplication of facilities and services.
+
+In addition, the County Board must consider whether the annexation petition covers property
+that lies outside the UGB.  Finally, ORS 197.175 requires that the annexation of property to a
+district be done in accordance with the statewide planning goals.
+
+Staff has addressed the criteria listed above in the attached Findings, Reasons for Decision,
+and Conclusions.
+
+STAFF RECOMMENDATION.
+
+Based on the attached Findings, Reasons for Decision, and Conclusions, staff recommends the
+annexation petition for the subject property described in the attached legal description and map
+be approved

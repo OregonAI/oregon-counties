@@ -1,0 +1,129 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-resolution-filling-a-vacancy-in-the-legislative-assembly-oregon-house-of-representatives-district-36
+title: 'Resolution Filling A Vacancy In The Legislative Assembly, Oregon House Of Representatives, District 36.'
+doc_type: ordinance
+citation: 'Resolution Filling A Vacancy In The Legislative Assembly, Oregon House Of Representatives, District 36.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_filling_a_vacancy_in_the_legislative_assembly%2C_oregon_house_of_representatives%2C_district_36./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9bf7b7407387d9d93fd8552ca0a7756ceee2a584ae09fdf8c7d0c6c3b88d9c11
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 171.060
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Filling A Vacancy In The Legislative Assembly, Oregon House Of Representatives, District 36. (Resolution Filling A Vacancy In The Legislative Assembly, Oregon House Of Representatives, District 36.)
+
+## At a glance
+
+Resolution Filling A Vacancy In The Legislative Assembly, Oregon House Of Representatives, District 36. — orders of Multnomah County. 3 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO. 2020-006
+Filling a Vacancy in the Legislative Assembly, Oregon House of Representatives, District 36.
+The Multnomah County Board of Commissioners Finds:
+a. Effective December 30, 2019 there is a vacancy in Oregon State Senate, District 36, due to the
+resignation of Representative Jennifer Williamson.
+b. Pursuant to state law, the Democratic Party Precinct Committeepersons of House District 36 met to
+choose nominees to fill the vacancy.
+c. The nominees chosen were: Chris Beck, Rob Fullmer, Akasha Lawrence-Spence, Lisa Reynolds, and
+Laurie Wimmer.
+d. In accordance with procedures established by the Secretary of State, the Multnomah County Board of
+Commissioners considered the nominations at a regular board meeting at 5:00 pm on January 16,
+2020.
+e. At the conclusion of the public meeting the Commissioners voted to appoint Akasha Lawrence-Spence
+to fill the vacancy, said nominee having received the highest number of votes as indicated on the vote
+tabulation attached as Exhibit A.
+The Multnomah County Board of Commissioners Resolves:
+1. Akasha Lawrence-Spence is selected as the appointee to fill the vacancy in the Oregon House of
+Representatives, District 36.
+2. This Resolution shall promptly be forwarded to the Secretary of State as required by ORS 171.060(3).
+ADOPTED this 16th day of January, 2020.
+BOARD OF COUNTY COMMISSIONERS
+F R MULTNOMAH COUNTY, OREGON
+Sharon Meieran, District 1
+Jessi.ca Vega Pederson, Oisfrict 3'
+'J 'J
+f
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORN
+FOR MULTNOMAH COUNTY, OREGON
+By ____________ _
+Jenny M. Madkour, County Attorney
+Susheela Jayapal, District 2
+.g
+'-- ~ "" y, }_Ii:-'.:)'\, '\ ,r,~' ~t,,•>s.._.,
+. Lori Stegmann, District 4
+BEFORE THE MULTNOMAH BOARD OF COUNTY COMMISSIONERS
+In the matter of
+Filling the Vacancy in the Legislative Assembly,
+State Representative District 36
+WHEREAS, pursuant to state law, the Democratic Party Precinct Committeepersons State
+Representative District 36 made nominations to fill the vacancy; and
+WHEREAS, in accordance with procedures established by the Secretary of State, the
+Multnomah County Board of Commissioners considered the nominations at a public meeting on
+January 16, 2020; and
+WHEREAS, at the conclusion of the public meeting the appointing authority voted to appoint
+_A_k_a_s_h_a_L_a_w_r_e_n_ce_-_s_p_e_n_c_e __ (nominee) to fill the vacancy, said nominee having received the highest
+number of votes as indicated on the vote tabulation attached as Exhibit A,
+NOW, THEREFORE, Akasha Lawrence-Spence is selected as the appointee to fill the vacancy in the
+Legislative Assembly, State Representative District 36;
+This Statement shall promptly be forwarded to the Secretary of State as required by
+ORS 171. 060(3).
+ADOPTED this 16th day of January, 2020.
+B}•:,
+"h
+De~6rah Kafoury
+Mul~nomah County Commissioner, Chair
+/Susheela Jayapal
+Multnomah County Commissioner
+Lori Stegmann
+Multnomah County Commissioner
+Sharon Meieran
+Multnomah County Commissioners
+Jessi qi Vega Pederson /
+Multhomah County Commissioner
+EXHIBIT A
+VOTE TABULATION
+In the matter of filling the vacancy in the Legislative Assembly, State Representative District 36,
+the following votes were cast at the public meeting held on January 16, 2020:
+Nominee
+Deborah Kafoury
+Multnomah County Commissioner, Chair
+Sharon Meieran
+Multnomah County Commissioners
+Susheela Jayapal
+Multnomah County Commissioners
+Jessica Vega Pederson
+Multnomah County Commissioners
+Lori Stegmann
+Multnomah County Commissioners
+Akasha Lawrence-Spence
+Akasha Lawrence-Spence
+Akasha Lawrence-Spence
+Akasha Lawrence-Spence
+Akasha Lawrence-Spence

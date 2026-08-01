@@ -1,0 +1,370 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2021-011
+title: 'Ordinance No. 2021-011'
+doc_type: ordinance
+citation: 'Ordinance No. 2021-011'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1638920611_2021-363-Ordinance%202021-011%20Recorded%209132021.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: b0729f818bc2e46823ad1730d38634eb56c64f851e6713c4086a17ecac204e21
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.983; figure agreement 0.872; dictionary ratio 0.925. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.610
+    - ORS 339.030
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Ordinance No. 2021-011 (Ordinance No. 2021-011)
+
+## At a glance
+
+OCR-derived text of Ordinance No. 2021-011. Not human-verified.
+
+## Full text
+
+Recorded in Deschutes County            CJ2021-363
+                                                             Steve Dennison, County Clerk
+                                                             Commissioners’ Journal                 09/13/2021   1:08:00 PM
+
+               tone                                          ek.                      (ANTINNIITINNTITNTT
+              REVIEWED                                          IES¢,
+
+       LEGAL COUNSEL                                   OF                             2021-363
+
+                                                                             For Recording Stamp Only
+
+     BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+
+ An Ordinance Amending Deschutes County Code             *
+ Title 18, Deschutes County Zoning, to Extend            *
+ Recreational Marijuana Retail Hours of Operation.       *                  ORDINANCE NO. 2021-011
+                                                         *
+
+                                                         e
+
+        WHEREAS, the Deschutes County Community Development Department (CDD) initiated amendments
+(Planning Division File No. 247-21-000579-TA) to the Deschutes County Code (DCC) Title 18, Chapter 18.116,
+Supplementary Provisions, to extend the permitted hours of operation of marijuana retail businesses; and
+
+       WHEREAS, the Deschutes County Planning Commission reviewed the proposed changes on July 22,
+2021 and forwarded to the Deschutes County Board of County Commissioners (“Board”) a unanimous
+recommendation of approval pending minor clarifications to the proposed language; and
+
+        WHEREAS, the Board considered this matter after a duly noticed public hearing on August 25, 2021 and
+concluded that the public will benefit from the proposed changes to the Deschutes County Code Title 18; now,
+therefore,
+
+         THE BOARD       OF COUNTY    COMMISSIONERS          OF DESCHUTES        COUNTY,         OREGON,   ORDAINS
+as follows:
+
+        Section 1. AMENDMENT. DCC 18.116. Supplementary Provisions, is amended to read as described in
+Exhibit “A”, attached hereto and by this reference incorporated herein, with new language underlined and
+language to be deleted in strikethrough.
+
+        //1
+
+PAGE 1 OF 2 - ORDINANCE NO. 2021-011
+         Section 2.     FINDINGS.     The Board adopts as its findings, Exhibit “B” attached and incorporated by
+reference herein.
+
+ Dated this         %       of Sphubs
+                                 /    { 2021                 BOARD OF COUNTY COMMISSIONERS
+                                                             OF DESCHUTES COUNTY, OREGON
+
+                                                                 Chi          Wir
+                                                             ANTHONY DEBONE, Chair
+
+                                                                 Wy           Ky
+                                                             PHILIP CHANG, Vice Chair
+
+ A
+ Recording fee
+                                  Mp                    Ov Nhave—
+                                                             PATTI ADAIR
+
+ Date of 1“ Reading: AD           day of QuAuxs        , 2021.
+
+ Date of 2"? Reading:         &   day of Deptahspor
+
+                                    Record of Adoption Vote:
+
+  Commissioner                        Yes      No     Abstained     Excused
+
+     Anthony DeBone                   vA      _          _             _
+      Philip Chang                    FR                 _.            __
+      Patti Adair                     a       a          a             _.
+
+  Effective date:       7     day of Decembuy, 2021.
+
+ PAGE 2 OF 2 - ORDINANCE NO. 2021-011
+Chapter 18.116.             SUPPLEMENTARY PROVISIONS
+
+18.116.330             Marijuana Production, Processing, Retailing, and Wholesaling
+
+Ok OR
+
+C.   Marijuana Retailing. Marijuana retailing, including recreational and medical marijuana sales, shall be
+     subject to the following standards and criteria:
+     1.
+          same day.
+     2. Odor. The building, or portion thereof, used for marijuana retailing shall be designed or equipped
+          to prevent detection of marijuana plant odor off premise by a person of normal sensitivity.
+     3. Window Service. The use shall not have a walk-up or drive-thru window service.
+          Secure Waste Disposal. Marijuana waste shall be stored in a secured waste receptacle in the
+          possession of and under the control of the OLCC licensee or OHA registrant.
+          Minors. No person under the age of 21 shall be permitted to be present in the building, or portion
+          thereof, occupied by the marijuana retailer, except as allowed by state law.
+          Co-Location of Related Activities and Uses. Marijuana and tobacco products shall not be smoked,
+          ingested, or otherwise consumed in the building space occupied by the marijuana retailer. In
+          addition, marijuana retailing shall not be co-located on the same lot or parcel or within the same
+          building with any marijuana social club or marijuana smoking club.
+          Separation Distances. Minimum separation distances shall apply as follows:
+         a.      The use shall be located a minimum of 1,000 feet from:
+                 i.     A public elementary or secondary school for which attendance is compulsory under Oregon
+                        Revised Statutes 339.010, et seq., including any parking lot appurtenant thereto and any
+                        property used by the school;
+                 ii.    A private or parochial elementary or secondary school, teaching children as described in
+                        ORS 339.030(1)(a), including any parking lot appurtenant thereto and any property used by
+                        the school;
+                 iii. A licensed child care center or licensed preschool, including any parking lot appurtenant
+                      thereto and any property used by the child care center or preschool. This does not include
+                      licensed or unlicensed family child care which occurs at or in residential structures;
+                 iv. National monuments and state parks; and
+                 v. Any other marijuana retail facility licensed by the OLCC or marijuana dispensary
+                      registered with the OHA.
+         b.      For purposes of DCC 18.116.330(B)(7), distance shall be measured from the lot line of the
+                 affected property to the closest point of the building space occupied by the marijuana retailer.
+                 For purposes of DCC 18.116.330(B)(7)(a)( vi), distance shall be measured from the closest
+                 point of the building space occupied by one marijuana retailer to the closest point of the
+                 building space occupied by the other marijuana retailer.
+         c.      A change in use to another property to a use identified in DCC 18.116.330(B)(7), after a
+                 marijuana retailer has been licensed by or registered with the State of Oregon shall not result in
+                 the marijuana retailer being in violation of DCC 18.116.330(B)(7).
+
+(Ord, 2021-OL1          $1. 2021; Ord. 2021-004 §7, 2021; Ord. 2020-007 §16, 2020; Ord. 2019-012, 2019; Ord.
+2018-012 §3, 2018; Ord. 2016-015 §10, 2016)
+
+Chapter 18.116                                              -I-                                              (9/2021)
+EXHIBIT A to ORDINANCE NO. 2021-011
+                                                    FINDINGS
+
+i.        PROPOSAL
+
+This is a legislative text amendment to Deschutes County Code (DCC), Title 18, County Zoning. The changes are as
+follows:
+
+      e   DCC 18.116.330(C)(1); Changes hours of operation for marijuana retailing from 9:00 a.m. — 7:00 p.m. to
+          7:00 a.m. — 10:00 p.m., in line with OLCC hours.
+
+Il.       REVIEW CRITERIA
+
+Deschutes County lacks specific criteria in DCC Titles 18, 22, or 23 for reviewing a legislative plan amendment.
+Nonetheless, since Deschutes County is initiating one, the County bears the responsibility for justifying that the
+amendments are consistent with Statewide Planning Goals and its existing Comprehensive Plan.
+
+A.        Statewide Planning Goals and Guidelines
+
+Goal 1: Citizen Involvement: The amendments do not propose to change the structure of the County’s citizen
+involvement program. Notice of the proposed amendments were provided to the Bulletin for the Board public
+hearing.
+
+Goal 2: Land Use Planning: This goal is met because ORS 197.610 allows local governments to initiate post
+acknowledgments plan amendments (PAPA). An Oregon Land Conservation and Development Department 35-day
+notice was initiated on June 9, 2021. The Planning Commission held a public hearing on July 22, 2021 and the
+Board of County Commissioners held a public hearing on August 25, 2021. The Findings document provides the
+adequate factual basis for the amendments.
+
+Goal 3: Agricultural Lands: The proposed amendments do not make changes regarding marijuana’s status as a
+farm crop, or the appropriate location of commercial grow sites and processing operations, and therefore
+continue to support Statewide Goal 3, to preserve and maintain agricultural lands. The proposed amendments to
+the County Code are consistent with these provisions of state law and are therefore consistent with Goal 3.
+
+Goal 4: Forest Lands: The proposed text amendments do not propose to change the County’s Plan policies or
+implementing regulations for compliance with Goal 4, and therefore are in compliance.
+
+Goal 5: Open Spaces, Scenic and Historic Areas, and Natural Resources: Complies because the text amendment
+does not propose to change the County’s Plan policies or implementing regulations for Goal 5 open spaces, scenic
+and historic areas, and natural resources.
+
+Goal 6: Air, Water and Land Resources Quality: The proposed text amendments do not propose to change the
+County’s Plan policies or implementing regulations for compliance with Goal 6, and therefore are in compliance.
+
+Goal 7: Areas Subject to Natural Disasters and Hazards: The proposed text amendments do not propose to change
+the County’s Plan or implementing regulations regarding natural disasters and hazards; therefore, they are in
+compliance.
+
+Page 1 of 3 - EXHIBIT B TO ORDINANCE NO. 2021-011
+Goal 8: Recreational Needs: Complies because the text amendment does not propose to change the County’s Plan
+or implementing regulations regarding recreational needs.
+
+Goal 9: Economy of the State: Goal 9 and its implementing regulations focus on economic analysis and economic
+development planning required in urban Comprehensive Plans. The proposed amendments apply to rural lands
+but do not propose to amend the Comprehensive Plan. Nevertheless, there are currently two retail marijuana
+businesses in unincorporated Deschutes County. DCC 18.116.330(C)(1) permits hours of operation from 9am to
+7pm for marijuana retail; however, the OLCC permits hours of operation from 7am to 10pm. increasing the
+allowable hours has the potential to increase those retail businesses’ economic opportunities with respect to sales
+as well as employment.
+
+Goal 10: Housing: This goal is not applicable because, unlike municipalities, unincorporated areas are not obligated
+to fulfill certain housing requirements.
+
+Goal 11: Public Facilities and Services: Complies because the text amendments do not propose to change the
+County’s Plan or implementing regulations regarding public facilities and services.
+
+Goal 12: Transportation: The proposed text amendments do not propose to change the County’s                   Plan   or
+implementing regulations regarding the Transportation System Plan; therefore, they are in compliance.
+
+Goal 13: Energy Conservation: Complies because the text amendments do not propose to change the County’s
+Plan or implementing regulations regarding energy conservation.
+
+Goal 14: Urbanization: Complies because the text amendments do not propose to change the County’s Plan or
+implementing regulations regarding urbanization.
+
+Goals 15 through 19 are not applicable to the proposed text anendments because the County does not contain
+these types of lands.
+
+D.       Deschutes County Comprehensive Plan
+
+Chapter 1, Comprehensive Planning: This chapter sets the Goals and Policies of how the County will involve the
+community and conduct land use planning. As described above, the proposed regulations will be discussed at
+work sessions with the Board of County Commissioners, as well as to the Planning Commission, which is the
+County’s official committee for public involvement. Both will conduct separate public hearings.
+
+These actions also satisfy the Goals and relevant Policies of Section 1.3, Land Use Planning Policies. Goal 1 of this
+section is to “maintain an open and public land use process in which decisions are based on the objective
+evaluation of facts.” Staff, the Planning Commission, and the Board reviewed the text amendments.
+
+Chapter 2, Resource Management:         This chapter sets the Goals and Policies of how the County will protect
+resource lands, including but not limited to, Agriculture and Forest as well as Water Resources and Environmental
+Quality.
+
+     Section 2.2, Agricultural Lands Policies, states that Goal 1 is to “preserve and maintain agricultural lands and
+     the agricultural industry.” Retail businesses are not permitted on agricultural lands.
+
+     Goal 2 promotes a diversified, sustainable, revenue-generating agricultural sector. Policy 2.2.10 calls for the
+     promotion of economically viable opportunities and practices while Policy 2.2.11 encourages small farming
+
+Page 2 of 3 - EXHIBIT B TO ORDINANCE NO. 2021-011
+   enterprises including but not limited to, niche markets and organic farming and valued-added projects. The
+   proposed text amendments do not change existing marijuana businesses’ ability to operate as a revenue
+   generating agricultural businesses.
+
+   Goal 3 specifies the Exclusive Farm Use (EFU) policies, classifications, and codes are consistent with local and
+   emerging agricultural conditions and markets.      As noted above, retail businesses are not permitted on
+   agricultural lands so this Goal does not apply.
+
+Page 3 of 3 - EXHIBIT   B TO ORDINANCE NO. 2021-011
+                    BOARD OF
+                    COMMISSIONERS
+
+        ~ AGENDA REQUEST & STAFF REPORT
+
+MEETING DATE:        September 8, 2021
+
+SUBJECT: Second Reading: Marijuana Retail Hours Text Amendments (Ord. No. 2021-011)
+
+BACKGROUND AND POLICY IMPLICATIONS:
+The Board of County Commissioners will conduct a second reading of Ordinance No. 2021-
+011 on September 8, 2021. The Board held a public hearing on August 25 concerning
+Ordinance No. 2021-011, legislative amendments to 1) extend the permitted hours for
+marijuana retail businesses and 2) modify marijuana annual reporting requirements.
+During deliberations, the Board chose to decouple the two components of Ordinance 2021-
+011. The amendments addressing the extension of marijuana retail hours were maintained
+in Ordinance No. 2021-011 and the requisite exhibits; the Board voted to approve the
+modified ordinance at that time and conducted first reading.
+
+BUDGET   IMPACTS:
+None.
+
+ATTENDANCE:
+Tanya Saltzman, Senior Planner
+                                                  MEMORANDUM
+
+TO:              Deschutes County Board of Commissioners
+
+FROM:           Tanya Saltzman, AICP, Senior Planner
+
+DATE:            September 2, 2021
+
+SUBJECT:         Second Reading: Marijuana Retail Hours Text Amendments (Ordinance No. 2021-011)
+
+The Board of County Commissioners            (Board) will conduct a second   reading of Ordinance   No. 2021-
+011 on September 8, 2021. The Board held a public hearing on August 25 concerning Ordinance No.
+2021-011, legislative amendments to 1) extend the permitted hours for marijuana retail businesses
+and 2) modify marijuana annual reporting requirements.' During deliberations, the Board chose to
+decouple the two parts of Ordinance 2021-011. The amendments addressing the extension of
+marijuana retail hours were maintained in Ordinance No. 2021-011 and the requisite exhibits; the
+Board voted to approve the modified ordinance at that time and conducted first reading. The other
+half of the original text amendment package concerning marijuana annual                  reporting shall be
+repackaged into a new ordinance for the Board's separate consideration.
+
+Staff submitted a 35-day Post-Acknowledgement Plan Amendment (PAPA) notice to the Department
+of Land Conservation and Development (DLCD) on June 9, 2021. Staff initially brought these issues to
+the Planning Commission for a preliminary discussion on May 13,* and had a subsequent discussion
+with the Board of County Commissioners on May 24,3 at which time the Board directed staff to initiate
+the text amendment process. Staff held a public hearing before the Planning Commission on July 22,
+2021, at which time the Planning Commission recommended approval of the amendments
+addressing the change in retail hours. A summary of the proposed amendments and background
+information was provided to the Board in the packet submitted for its August 18, 2021 work session.*
+
+I.      PROPOSAL
+
+The proposed text amendments are as follows:
+
+1 https://www.deschutes.org/bcc/page/board-county-commissioners-meeting-4
+? https://deschutescountyor.iqm2.com/Citizens/Detail_Meeting.aspx?ID=2770
+3 https://deschutescountyor.iqm2.com/Citizens/Detail_ Meeting.aspx?ID=2701
+4 https://www.deschutes.org/bcc/page/board-county-commissioners-meeting-40
+   e   DCC 18.116.330(C)(1): Changes hours of operation for marijuana retailing from 9:00 a.m. -
+       7:00 p.m. to 7:00 a.m. - 10:00 p.m., in line with OLCC hours.
+
+The applicant, in this case Deschutes County Community Development, has submitted findings
+summarizing the amendments and stating that the text amendments are in compliance with the
+Statewide Planning Goals, and applicable policies of the Deschutes County Comprehensive Plan.
+
+Attachments:
+1. Ordinance No. 2021-011
+2. Corresponding Exhibits to Ordinance No. 2021-011:
+      Exhibit A - DCC Chapter 18.116, Supplementary Provisions
+      Exhibit B - Findings
+
+                                                                                      Page 2 of 2
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.3% of
+the word sequence, and on 87.2% of the figures. Dictionary-recognizable words: 92.5%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

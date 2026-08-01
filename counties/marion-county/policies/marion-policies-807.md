@@ -1,0 +1,269 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-807
+title: '807'
+doc_type: policy
+citation: '807'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/807.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 096ad7f2b6c98950b495ed8d4d9ba1c32956b6f23d2c89897e4bc49d9f4b7696
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 807 (807)
+
+## At a glance
+
+807 — policies of Marion County. 4 pages.
+
+## Full text
+
+807 – Policy  1
+ADMINISTRATIVE POLICIES
+
+SECTION: Property Management POLICY #: 807
+TITLE: Issuing County Owned Property to
+Employees
+PROCEDURE #:
+ ORDER #: 99-33
+DEPT: Business Services DIVISION: Human Resources
+ADOPTED: 4/99 REVIEWED:  REVISED:
+
+1.0 Purpose
+
+This policy establishes procedures for issuing county owned property, keys
+and security system cards to employees so they can perform their duties and
+access county facilities.
+
+2.0 General Policy
+
+It is the responsibility of the department head, elected official or his/her
+designee to issue county property that is necessary for employees to perform
+their duties and have access to the appropriate facilities.
+
+3.0 Policy Guidelines/Procedures
+
+a. Each department shall give notice of newly hired and departmental
+transfer of employees to departments and committees responsible for
+property and building security and safety on the first day the employee
+reports to work.
+
+b. The department designee will prepare an inventory using the attached
+form of all other county building keys, property and equipment to be
+issued to the employee. The inventory will include but will not be
+limited to:
+
+1) Department building keys
+2) Internal building keys
+3) Turnkeys
+4) Photo identification
+5) Desk/file drawer keys
+6) County vehicle keys
+7) Equipment keys
+8) Fuel cards
+9) Credit cards including purchase authorization and travel cards
+807 – Policy  2
+
+10) Pagers
+11) Cellular Telephones
+12) Computers
+13) Equipment
+14) Other property
+
+c. The inventory will be dated and signed by the departmental designee
+and the employee.  The department will retain the original inventory a
+copy will be given to the employee.
+
+d. The department head or his/her designee shall determine the
+replacement cost of the county property at the time it is issued.  If the
+property is lost, stolen or not returned to the county the department
+will determine if the employee will be responsible for reimbursing the
+county for the loss.
+
+e. A review of issued inventory may be included in the employees annual
+performance review to update the record.
+
+f. The inventory form will indicate if county owned property is to be
+returned to the department during extended absences.
+
+g. The court security coordinator is granted authority to delete access
+authorization when the department cannot or does not verify
+possession of keys and security system access cards.
+
+h. It is the department’s responsibility to resolve inventory or security
+discrepancies.
+
+i. Department heads and elected officials are to bring current the
+equipment inventory for all employees no later than June 30, 1999.
+
+Adopted: 4/99
+807 – Policy  3
+
+SAMPLE - ISSUING COUNTY OWNED PROPERTY INVENTORY
+Indicate items not applicable
+
+EMPLOYEE NAME
+___________________________
+
+EMPLOYEE # _________________
+
+DEPARTMENT ________________
+
+DATE OF DEPARTURE
+
+PHOTO &/OR IDENTIFICATION
+_________________________
+_________________________
+
+BUILDING SECURITY CARD
+___________________________
+
+KEYS
+_________________________
+_________________________
+_________________________
+
+TURNKEYS
+_________________________
+_________________________
+
+DESK/FILEDRAWER KEYS
+_________________________
+
+COUNTY VEHICLE KEYS
+_________________________
+
+PARKING PASSES
+_________________________
+
+RECEIVED BY:
+___________________________
+Signature
+
+TITLE ______________________
+
+DATE ______________________
+BUDGET_____________________
+
+CLASSIFICATION_____________
+
+POSITION # _________________
+
+CREDIT CARDS
+___________________________
+___________________________
+GAS CARDS
+___________________________
+___________________________
+
+TRAVEL CARD ________________
+
+EQUIPMENT KEYS _____________
+___________________________
+
+PAGER:           Replacement Cost _____
+CELL PHONE:  Replacement Cost _____
+COMPUTER:    Replacement Cost _____
+
+COMPUTER PASSWORD OR
+CUSTODIAN
+___________________________
+
+ACCOUNTS PAYABLE TO THE
+COUNTY
+___________________________
+
+OTHER PROPERTY &
+REPLACEMENT COST
+___________________________
+
+RELEASED BY:
+___________________________
+Signature
+DATE _____________________
+
+WITNESSED BY:
+___________________________
+Signature
+
+807 – Policy  4
+
+SAMPLE - SUPPORT SERVICES
+KEY AND CARD ISSUING INVENTORY
+
+Indicate items not applicable
+
+EMPLOYEE NAME
+___________________________
+
+EMPLOYEE # ________________
+
+DEPARTMENT _______________
+
+DATE OF
+DEPARTURE____________
+
+BUILDING SECURITY CARD
+___________________________
+KEYS:
+Replacement Cost _____
+___________________________
+___________________________
+___________________________
+
+RECEIVED BY:
+___________________________
+Signature
+
+TITLE
+___________________________
+
+DATE ______________________
+BUDGET_____________________
+
+CLASSIFICATION_____________
+
+POSITION # ________________
+
+PARKING PASSES _____________
+
+SPACE NUMBER# _____________
+
+OTHER PROPERTY:
+Replacement Cost _____
+___________________________
+___________________________
+___________________________
+___________________________
+___________________________
+
+ISSUED BY:
+
+___________________________
+Signature
+
+WITNESSED BY:
+___________________________
+Signature

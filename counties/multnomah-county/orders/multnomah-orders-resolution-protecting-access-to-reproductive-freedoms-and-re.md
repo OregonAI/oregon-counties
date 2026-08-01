@@ -1,0 +1,139 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-resolution-protecting-access-to-reproductive-freedoms-and-re
+title: 'Resolution Protecting Access To Reproductive Freedoms And Reproductive Health.'
+doc_type: ordinance
+citation: 'Resolution Protecting Access To Reproductive Freedoms And Reproductive Health.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_protecting_access_to_reproductive_freedoms_and_reproductive_health./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 4eb356454829498f8f330463b99d68b54b211356518ed2b16e30f53f4863a20c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 164.365
+    - ORS 659.880
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Protecting Access To Reproductive Freedoms And Reproductive Health. (Resolution Protecting Access To Reproductive Freedoms And Reproductive Health.)
+
+## At a glance
+
+Resolution Protecting Access To Reproductive Freedoms And Reproductive Health. — orders of Multnomah County. 3 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO. 2022-052
+Protecting Access to Reproductive Freedoms and Reproductive Health.
+The Multnomah County Board of Commissioners Finds:
+a. This is a critical moment for reproductive rights and justice in the United States.
+Before the end of its term in June, 2022, the U.S. Supreme Court is scheduled to
+issue its ruling in Dobbs v. Jackson Women’s Health Organization, the most
+consequential abortion rights case in generations. The Court may be on the
+verge of overturningRoe v. Wade, decimating the right to abortion and leaving
+millions struggling to access the essential health care they need.
+b. A ruling to weaken or overturn Roe could take away a constitutional right that
+people have relied on for generations. It would also fundamentally undermine the
+rule of law, gender equality, and potentially, other constitutional rights, and lead to
+instability and uncertainty across the country.
+c. Legal abortions in the United States, whether in the form of medication,
+aspiration, dilation & evacuation, or induction, are safe procedures. A 2018
+consensus study report from the National Academies of Sciences, Engineering &
+Medicine found that “the clinical evidence clearly shows that legal abortions in
+the United States [...] are safe and effective.”
+d. Reliance on the right to abortion has been essential to advancing gender equality
+in the United States. Access to abortion has enabled generations of women and
+others to pursue personal, educational, and employment opportunities and life
+goals and helped counter the long history of injustice that has limited women’s
+legal, social, and economic progress. Taking away that right would reverse this
+critical progress and limit women’s ability to participate fully and equally in
+society.
+e. The restriction on abortion also expands beyond gender oppression as a function
+of racism, ableism, heterosexism, and economic injustice. As a result, Black,
+Indigenous, and People of Color (BIPOC), people with disabilities, people in rural
+areas, young people, immigrants, LGBTQ+ people, and people experiencing
+poverty are disproportionately affected by increasing the inaccessibility of
+reproductive health care.
+f. Regardless of legal status, pregnant people will seek reproductive health care
+services, including abortion. Restricting access to legal abortion does not reduce
+abortion, it merely makes it unsafe. In countries where abortion is legally
+restricted, unsafe abortion is a leading cause of preventable maternal mortality
+and morbidity. Access to legal, regulated abortion services ensures the safety of
+the patient and prevents the need to seek dangerous alternatives.
+g. Access to comprehensive reproductive health care, including safe, affordable,
+and legal abortion, is critical to promoting better maternal and infant health
+outcomes. Delays, costs, and complications that result from barriers to abortion
+access can cause poor health, including maternal morbidity and mortality.
+Abortion is a safe and common procedure performed in the US, with 6 out of 10
+unintended pregnancies ending in induced abortion. Abortion restrictions
+perpetuate disparities in reproductive and maternal health in the US as people of
+color, and those who are low-income are disproportionately effected.
+h. Over half of the states in the nation are poised to ban abortion ifRoe v. Wadeis
+overturned. This would leave millions without access to essential healthcare.
+i. If Roe is weakend or overturned, abortion will remain legal in Oregon because
+state law includes an express statutory protection for abortion and Oregon has
+enacted additional protections to expand reproductive freedoms.
+a. ORS 659.880 prohibits a public body from depriving a consenting
+individual of the choice of terminating the individual’s pregnancy.
+b. The Oregon Constitution includes an equal rights amendment (ERA )that
+should also protect the right to an abortion. The ERA states: “Equality of
+rights under the law shall not be denied or abridged by the State of
+Oregon or by any political subdivision in this state on account of sex.” OR.
+CONST. ART. I, §46 (added by voter initiative Measure 89,approved Nov.
+4, 2014, eff. Dec. 4, 2014).
+c. Provides public funding for abortion and requires private insurance
+coverage of abortion. OR. ADMIN. R. 410-130-0562, and OR. REV. STAT.
+§ 743A.067(2)(g).
+d. In 2022, the Oregon legislature appropriated $15 million to the
+Reproductive Health Equity Fund to provide immediate support, including
+travel expenses and lodging, for people seeking abortions in Oregon. H.B.
+5202, 81st Gen. Assemb., Reg. Sess. (Or. 2022).
+e. The state protects clinic safety and access by prohibiting the obstruction of
+health-care facilities. ORS 164.365(1)(a)(F).
+j. Although there is no indication that Oregon’s statutory and legal reproductive
+protections are at risk of being curtailed or otherwise restricted, the Board of
+County Commissioners stands ready to take legislative action to preserve
+reproductive freedoms in Multnomah County should the need arise.
+The Multnomah County Board of Commissioners Resolves:
+1. A commitment to advancing reproductive freedom and access to reproductive
+health.
+2. If reproductive freedoms are weakened or overturned at the federal and state
+level, the Board of County Commissioners will consider immediate legislative
+action to protect the freedom for individuals to make decisions about their
+reproductive health.
+3. To encourage the Chair to direct County staff to expand and support policies,
+programming, and educational materials to assure that members of the
+community are supported and informed about their reproductive freedoms.
+ADOPTED this 9th day of June, 2022.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+________________________________
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By
+Jenny M. Madkour, County Attorney
+SUBMITTED BY: Jessica Vega Pederson, District 3 Commissioner, Susheela Jayapal,
+District 2 Commissioner

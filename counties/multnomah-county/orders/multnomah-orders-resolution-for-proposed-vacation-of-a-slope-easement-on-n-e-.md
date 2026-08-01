@@ -1,0 +1,105 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-resolution-for-proposed-vacation-of-a-slope-easement-on-n-e-
+title: 'Resolution For Proposed Vacation Of A Slope Easement On N.E. 257Th Drive, County Road No. 4931, Pursuant To Ors 368.341 And Ors 368.351.'
+doc_type: ordinance
+citation: 'Resolution For Proposed Vacation Of A Slope Easement On N.E. 257Th Drive, County Road No. 4931, Pursuant To Ors 368.341 And Ors 368.351.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_for_proposed_vacation_of_a_slope_easement_on_n.e._257th_drive%2C_county_road_no._4931%2C_pursuant_to_ors_368.341_and_ors_368.351./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 1b6f83415ae23e2c9b5816eeddbcbdfba20dc5ec558edf4b935868e70762e464
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 271.230
+    - ORS 368.341
+    - ORS 368.351
+    - ORS 368.356
+    - ORS 368.361
+    - ORS 368.366
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution For Proposed Vacation Of A Slope Easement On N.E. 257Th Drive, County Road No. 4931, Pursuant To Ors 368.341 And Ors 368.351. (Resolution For Proposed Vacation Of A Slope Easement On N.E. 257Th Drive, County Road No. 4931, Pursuant To Ors 368.341 And Ors 368.351.)
+
+## At a glance
+
+Resolution For Proposed Vacation Of A Slope Easement On N.E. 257Th Drive, County Road No. 4931, Pursuant To Ors 368.341 And Ors 368.351. — orders of Multnomah County. 28 pages.
+
+## Full text
+
+Page 1 of 2 - Resolution Vacating a Slope Easement on N.E. 257th Drive
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO. 2021-084
+Proposed Vacation of a Slope Easement on N.E. 257th Drive, County Road No. 4931, Pursuant
+to ORS 368.341 and ORS 368.351.
+The Multnomah County Board of Commissioners Finds:
+a. The slope easement affected by this proposed vacation, was acquired by Multnomah
+County in 1986 in conjunction with the construction of N.E. 257th Drive, County Road No.
+4931.
+b. The slope easement to be vacated is more particularly described in Exhibit 1, attached
+hereto.  Multnomah County does not maintain, nor have plans to develop, the slope
+easement. The purpose for this slope easement vacation is to facilitate the development
+of vacant private property which abuts N.E. 257th Drive.
+c. Get R Done LLC, an Oregon limited liability company, petitioner, has submitted a petition
+to vacate the slope easement in compliance with ORS 368.341(3). A copy of the petition
+is attached to this Resolution as Exhibit 2.
+d. Pursuant to ORS 368.351 (1) the County Engineer has prepared a report which finds the
+proposed slope easement vacation to be in the public interest. The Agenda Placement
+Request constitutes the County Engineer’s report.
+e. As required under MCC 27.054, the County has received a total of $1265.00 from the
+petitioner, of which $200.00 applies to a feasibility study performed by the County.  The
+remaining $1065.00 will be applied to the vac ation proceeding. The total costs for this
+vacation, including administrative costs, are $7772.33. Administrative costs include staff
+time for research, review, analyses, and document preparation. The balance owed by the
+petitioners at the date of this hearing is $6507.33.
+f. Upon vacation, the portion of slope easement described in said Exhibit 1 will remain
+subject to the rights of any existing public utility that has improvements located within that
+former public way.
+The Multnomah County Board of Commissioners Resolves:
+1. Subject to the petitioner’s payment of all funds due as provided above under MCC 27.054,
+the slope easement, as more particularly described in the attached Exhibit 1, is vacated,
+excepting the easement rights any existing utilities may have in the vacated property
+under ORS Chapter 368.
+2. Pursuant to MCC 27.054, the total cost for this vacation proceeding incurred by the
+County is $7772.33; and Get R Done LLC, the petitioner, is directed to pay the remaining
+amount of $6507.33 to the County.
+Page 2 of 2 - Resolution Vacating a Slope Easement on N.E. 257th Drive
+3. This slope easement is within the city limits of the City of Troutdale. ORS 368.361(3)
+requires that the City of Troutdale adopts an Order or Resolution which concurs wit h the
+County’s findings.
+4. The Transportation Division of the Department of Community Services will record and file
+this Resolution in accordance with ORS 368.356(3), only upon receipt of the total amount
+due under MCC 27.054; as set forth in Resolve Clause No. 2, and upon receipt of the City
+of Troutdale’s Order or Resolution, as set forth in Resolve Clause No.3.
+5. Upon the recording and filing of this Resolution, the County Surveyor will mark the plat, if
+applicable, as provided under ORS 271.230, and title in the underlying property shall vest
+as provided under ORS 368.366.
+ADOPTED this 18th day of November, 2021.
+______________________________
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+Submitted by: Jaime Waltz, Interim Director, Department of Community Services
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON

@@ -1,0 +1,937 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-2025-031
+title: '2025-031'
+doc_type: ordinance
+citation: '2025-031'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/2025-031.pdf/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 0ab7de5002d901963b1fb09d5bbc2790e929948450d5c12c2afcf692ece4a369
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 2025-031 (2025-031)
+
+## At a glance
+
+2025-031 — orders of Multnomah County. 30 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO. 2025-031
+Approving the Mt. Hood Cable Regulatory Commission (MHCRC) FY 2025-2026 Fund
+Budget.
+The Multnomah County Board of Commissioners Finds:
+A. The Mt. Hood Cable Regulatory Commission (MHCRC) was formed by
+Multnomah County and the cities of Fairview, Gresham, Portland, Troutdale and
+Wood Village (Cities) to advocate for and protect the public interest in the
+regulation and development of cable communication systems.
+B. The MHCRC has approved a budget for Fiscal Year 2025-2026 and forwarded
+this budget to Multnomah County and the Cities for approval.
+The Multnomah County Board of Commissioners Resolves:
+The Mt. Hood Cable Regulatory Commission Fund Budget for Fiscal Year 2025-2026 is
+approved.
+ADOPTED this 5th day of June 2025.
+REVIEWED:
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By _____________ _
+Jenny M. Madkour, County Attorney
+Submitted by: Jessica Vega Pederson , County Chair
+MHCRC FUND BUDGET
+FISCAL YEAR 2025-26
+PROPOSED
+Members
+Julia DeGraw, Chair
+Scott Harden, Vice Chair
+Jeff Dennerline
+Leslie Goodlow
+Meghan Moyer
+Norman Thomas
+Cherri Wagner
+Prepared By:
+Eric Engstrom, Director, BPS
+Seema Kumar, Chief of Community Technology
+Douglas Imaralu, Finance Manager
+503-823-2005
+www.mhcrc.org
+MHCRC 1810 SW 5th Ave. Suite 710 Portland, Oregon 97201
+www.mhcrc.org
+INTRODUCTION
+The Mt. Hood Cable Regulatory Commission (MHCRC) was created by Multnomah County and the
+cities of Fairview, Gresham, Portland, Troutdale, and Wood Village for the purposes of:
+• Advocating for and protecting the public interest in the regulation and development of
+cable communication systems.
+• Providing consumer protection and cable subscribers' complaint resolution; and,
+• Facilitating the planning and implementation of community uses of cable communication
+technologies.
+Each Jurisdiction appoints citizen representatives to the MHCRC. Over the past year, these appointees,
+with staff support, have committed hundreds of hours to deeply understand the issues and local impacts
+of an ever-evolving technology, regulatory and business model landscape.
+They attended numerous MHCRC meetings, committee meetings and work sessions, kept abreast of
+issues of concern to their Jurisdictions, presented information at city council and county commission
+meetings, and served as ex officio Board members for Open Signal and MetroEast Community Media
+(MetroEast), all in service to the Jurisdictions and their communities.
+The MHCRC regulates and oversees cable service franchises with two companies, serving the following
+areas:
+Comcast: Portland, Gresham, Troutdale, Fairview, Wood Village, and Multnomah County
+The MHCRC contracts for staff and other support services through a services agreement with the City of
+Portland. The MHCRC funds an equivalent of 4.35 full-time (FTE) staff positions plus related materials,
+services, financial, internal services, HR, communications, Equity & Engagement, and other
+administrative costs. Each member Jurisdiction annually contributes to the MHCRC’s operating budget.
+The Jurisdictions’ fund a little over 1/3 of the operating budget and other MHCRC resources are used to
+supplement the remaining portion.
+The MHCRC focuses on community needs as it navigates today’s legal and public policy landscape to
+steward existing public benefits, while also exploring possibilities and opportunities in our quickly
+changing technology environment to help ensure a sound and vital digital future for all our communities.
+Please refer to the MHCRC’s FY 2023-24 Annual Report and website (www.mhcrc.org) for more detail
+about MHCRC activities and accomplishments.
+MHCRC FY 2025-26 FUND BUDGET
+BUDGET PROCESS
+According to the Intergovernmental Agr eement (IGA) among the Jurisdictions that created the MHCRC,
+the MHCRC must gain approval of its Fund Budget by every member Jurisdiction.
+BUDGET OVERVIEW
+The MHCRC FY 2025-26 Fund Budget is presented in Appendix 1, Table A.
+Ne
+arly all the MHCRC’s resources are funds collected from the cable companies and the expenditures
+are the disbursement of those funds to the member Jurisdictions, the community media providers
+(MetroEast and Open Signal), and the Community Grants recipients. These disbursements are governed
+by the IGA and by the cable services franchise agreements.
+Fund Resources
+The amount of MHCRC resources from year to year largely depends on franchise fee and PEG/ I-Net
+fee payments from cable companies for their private use of public right-of-way to provide cable TV
+services. Cable company payments are based on a percentage of the company’s gross revenues derived
+from cable TV services. The FY 2025-26 Fund resources are projected based on cable company actual
+payments through 2nd Quarter
+FY 2024-25. FY2025-26 Fund resources are projected to be $773,064 or
+14% less than FY2024 -25 (calculated with the combined total of franchise and PEG fees and other
+sources of revenue). This budget also includes a projected Beginning Fund balance of $6,327,632.
+Detail on each Fund resource follows:
+Franchise Fees: The MHCRC collects cable services franchise fees, based on 5% of the
+companies’ gross revenues for cable TV service, for Gresham, Troutdale, Fairview, Wood
+Village, and Multnomah County from Comcast. The MHCRC uses historical trend data and
+actual payments through 2nd Quarter FY24-25 to project anticipated FY25-26 franchise fees.
+Operating Budget Appropriation - Portland: The MHCRC collects funds from the City of
+Portland for its share of the MHCRC’s operating budget. The other MHCRC Jurisdictions’
+appropriations are allocated from the cable services franchise fees collected by the MHCRC
+(see Appendix 1, Table D).
+Interest Earned: The MHCRC collects interest on its Fund. Interest revenue is projected to have
+an increase when compared to the returns of the last three
+years (see Appendix 1, Table E).
+PEG/I-Net Capital Fee: All franchised cable companies pay 3%1 of their gross revenues related to
+TV services to the MHCRC as dedicated funding for capital costs of providing community media
+1 Upon execution of the Comcast Franchise Agreement renewal, Comcast will be paying a 2.5% PEG fee.
+and technology services to the community (see specific disbursements under Fund Expenditures
+below). A small portion also funds MHCRC’s compliance program costs to administer, oversee,
+and disburse the capital funds.
+Beginning Balance: The FY25-26 Beginning Balance is projected to be $6,327,632, albeit
+unrecovered advances are projected to be $2,707,305 at the beginning of FY25-26. Therefore,
+Ending Fund balance is projected to be $2,295,324 which would represent a 64% decline from
+FY24-25. However, we note here that only FY25 Year-to-Date amounts and FY25 Q2 receipts
+were used to make projections in the MHCRC FY25-26 Proposed Fund Budget.
+Fund Expenditures
+Nearly all the MHCRC’s expenditures are the disbursement of franchise fees and PEG/I-Net Capital
+Fees governed by the IGA and by the cable services franchises.
+Franchise Fee Balance to the Jurisdictions: This line-item expenditure is calculated based on the
+total amount of franchise fees the MHCRC collects and subtracting the amount each Jurisdiction
+appropriates to the MHCRC Operating Budget and the amount of community media payments to
+MetroEast and Open Signal in accordance
+with the IGA (see Appendix 1, Table B).
+MHCRC Operating Budget: This expenditure represents the total MHCRC Operating Budget
+(resources and line-item detail contained in Appendix 1, Table C).
+The MHCRC has opted to carry-over a portion of unused budget funding from FY24-25 to
+FY25-26.
+ This will help facilitate one-time costs, legal costs, renewal negotiations, and continue
+the
+ strategic planning process with the Jurisdictions to guide possible changes to the IGA and the
+MHCRC after FY24-25.
+Community Media Operating Payments: In accordance with the IGA, the MHCRC distributes
+60% of the East County Jurisdictions’ franchise fees to  MetroEast and 60% of West Multnomah
+County franchise fees to
+Open Signal. These dedicated funds are used to provide media and
+technology services to the community (see Appendix 2).
+Community Media Capital: The MHCRC distributes a portion of the PEG/I-Net Capital fee from
+the cable companies to support the capital needs of MetroEast and Open Signal. These payments
+are made in accordance
+with the IGA and the cable services franchise agreements (see Appendix
+2).
+Community Grants: The MHCRC is the grant-making body for the Community Grants program
+on behalf of member jurisdictions. The Community Grants program supports an annual
+competitive grant process called the Community Technology Grants and special funding
+initiatives. Grants are funded through the PEG/I-Net Capital fee revenues from the cable
+companies and are made in accordance with the IGA and the cable services franchise
+agreements.
+The Community Grants program provides funds for technology projects to nonprofit
+organizations, libraries, educational institutions, and local government agencies throughout
+Multnomah County to produce video content to be shared on the community media center
+channels to support project-related goals and objectives. The Community Grants program provides
+funds for
+technology projects to nonprofit or ganizations, libraries, educational institutions, and local
+government agencies throughout Multnomah County to produce video content to be shared on the
+community media center channels to support project-related goals and objectives.
+In the last five years (2019-2024), over 67% of grants made have focused on supporting grantees
+which are led by, informed by, and/or directly benefitting BIPOC communities facing current and
+historical policies and practices that have resulted in disparities. The grant-funded projects
+addressed barriers that limit or prevent individuals and communities from accessing services,
+information, communication tools and/or training.
+Contingency
+: Separate from the Community Grants/community media capital contingency, the
+MHCRC annually budgets a fund contingency amount (about 10% of the total Opera tions
+Budget) to cover unanticipated community needs and opportunities. For FY25-26, the MHCRC
+has decided to not budget for this line item.
+Amendments to Prior Year Outstanding Advances Amount: Every fiscal year
+, the MHCRC
+approves several grants that may take more than one year to be implemented. Grantees typically
+receive advances of funding that are tracked until the project is closed out. Staff also may
+occasionally enter contracts for consultant services that may span more than one fiscal year. The
+actual expenditures do not match the budget because activities budgeted for in one year often
+extends across subsequent years.
+From an accounting perspective, this is represented by itemizing “encumbrances” (contract or
+grant agreement commitments) made in one year that need to be carried forward and included in
+the next year’s budget. Advances are similarly tracked until they are “recovered” – meaning unti
+l
+the project is finished as specified. Even though the funds in an advance are actually paid out at
+the time of the initial advance, they are carried forward as potential liabilities until the grant
+closes.
+In the March 6th, 2025, Finance Committee meeting, staff recommended that the MHCRC
+forecast carryover in January of current year and include the estimate into the next year’s budget
+to be approved by the Commission. Also, estimates of non-grant encumbrances from current year
+should be added to the next year’s budget. These estimates would update
+up until the June 30th
+fiscal year end date. Currently, the PY outstanding advances estimate stands at over $2,707,305
+in FY25-26 MHCRC Fund budget.
+ APPENDIX 1
+TABLE A: MHCRC FUND BUDGET
+TABLE B: FRANCHISE FEE REVENUE AND DISBURSEMENT DETAIL
+TABLE C: MHCRC OPERATING BUDGET + PERSONNEL ALLOCATION
+TABLE D: JURISDICTIONAL APPROPRIATIONS BY JURISDICTION
+TABLE E: INTEREST FUND CHART THROUGH FY 24-25
+TABLE A: MHCRC FUND BUDGET FISCAL YEAR 2025-26
+*Interest Earned: This represents interest earned from MHCRC’s Interest Fund. For the FY26 budget, staff compared data
+from the FY24 Unaudited Report to projected earnings for FY25 is $298,867.
+*Community Media Payment, Multnomah West (MetroEast): New funding methodology as agreed by MetroEast and
+Open Signal in FY 2024-25. Data from Scenarios Forecast balanced with current year (FY25) FF disbursements.
+*Community Media Capital (MetroEast/OS): MHCRC Capital Allocation to Community Media Centers - MetroEast and
+Open Signal.
+*Prior Year Outstanding Advances: The amount of $2,707,305 on this line item represents an estimate of prior year
+outstanding advances (liabilities). A more accurate estimate will be added by year end, June 30, 2025.
+TABLE B: FRANCHISE FEE REVENUES AND DISBURSEMENTS FY25-26 ESTIMATE
+TABLE C: MHCRC FY2025-26 OPERATING B UDGET
+*MHCRC Bureau Overhead: In the winter of 2022, the Office of Community technology (OCT) was merged with the Bureau of
+Planning and Sustainability (BPS) and as a result, the staff of MHCRC came under the operational and management umbrella of BPS.
+Before the merger, OCT operated as a stand-alone bureau at the City of Portland and had overhead expenses for buildings,
+technology, printing, etc. which it was responsible to include in the OCT budget annually.
+These ‘overhead’ costs were allocated to MHCRC when OCT was a stand-alone bureau for the annual MHCRC budgeting process
+prior to OCT merging with BPS. Currently, MHCRC is a program area in the Community Technology Division of BPS. BPS funds
+internal services through the Overhead Model. The Overhead Model is developed by the City Budget Office (CBO) and uses an
+indirect rate set by the CBO. Services funded by bureau o
+verhead are administrative in nature and directed by bureau leadership.
+MHCRC FY26 Operating Budget includes a total of $325,045 in overhead costs. This amount represents 3.2% of BPS total overhead
+costs and pays for:
+i. $185,534 for Personnel: Contributes to a portion of the cost for Finance support, including MHCRC Finance Manager and BPS
+Finance Manager and support from BPS Director, Equity & Engagement Team, Communications Team, Tech Services, HR
+(hiring) and other internal services. Example: Production and distribution of the MHCRC Annual Report and other support
+services and coverage of MHCRC events.
+ii. $25,091 for External Materials and Services: Contributes to costs associated with BPS staff training, space planning, and
+strategic planning. Example: Strategic planning for BPS and training for staff.
+iii. $114,420 for Internal Materials and Services: Includes rent, a portion of Citywide IT costs, fleet services, printing and
+distribution, and other associated internal services costs. Example: This includes rent for the building BPS occupies.
+FY26 Personnel Allocation
+TABLE D: JURISDICTIONAL APPROPRIATIONS BY JURISDICTION
+Subscriber Count (Comcast + Ziply)
+*FTE Changes in FY 2025-26: The increase in Full-Time Equivalent (FTE) from 3.85 to 4.35 is a strategic and necessary
+adjustment to support the MHCRC’s Phase 2 of the strategic planning process and ensure continuity and effectiveness
+during a period of organizational transition. As part of this deliberate strategic planning initiative, the Commission is
+engaging in a comprehensive review to determine its next iteration, including in-depth financial considerations. The
+planning process is complex and requires active coordination, diverse partner engagement, data and policy synthesis, and
+legal and financial scenario planning. These are activities that extend beyond routine operations and administration and
+require dedicated staff time and expertise. The additional FTE reflects the crucial staffing capacity needed to manage and
+administer this process with due diligence and attention. Staff involved in this transition will be responsible for facilitating
+cross-sector collaboration, policy landscape tracking and analysis as it impacts cable TV regulatory shifts at the federal, state,
+and local levels, documenting strategic inputs and decisions, coordinating active partner inputs, and supporting the
+implementation and execution of interim measures and operational and administrative changes. Moreover, as the MHCRC
+transitions from its current form to its next iteration, staff capacity is critical to maintain existing functions while
+simultaneously building and executing the roadmap for the future. This dual responsibility—ensuring both continuity and
+transformation—demands additional human resources to avoid disruption, preserve institutional knowledge, and sustain the
+Commission’s commitments to community and dedicated partners. This investment in staff time will ensure that the strategic
+planning
+ process is not only well-executed but also leads to a smooth, thoughtful, and effective transition.
+Interest Fund Balance - history A=Actual
+Earnings and Expenditures by Fiscal Year E=Estimated
+Fiscal Year
+Interest
+Earned
+Net Admin.
+Expenditures Change
+Cumulative
+Balance A
+Beginning Balance $196,968 A
+2005-06 $100,333 ($99,294) $1,039 $198,007 A
+2006-07 $171,764 ($92,312) $79,452 $277,458 A
+2007-08 $181,699 ($92,771) $88,928 $366,386 A
+2008-09 $126,158 ($109,703) $16,455 $382,842 A
+2009-10 $71,976 ($98,233) ($26,257) $356,585 A
+2010-11 $32,395 ($109,045) ($76,650) $279,935 A
+2011-12 $34,324 ($129,708) ($95,384) $184,550 A
+2012-13 $30,329 ($66,281) ($35,952) $148,599 A
+2013-14 $43,567 $0 $43,567 $192,165 A
+2014-15 $57,577 $0 $57,577 $249,742 A
+2015-16* $91,898 $0 $91,898 $341,640 A
+2016-17 $136,434 $0 $136,434 $478,075 A
+2017-18 $184,274 $0 $184,274 $662,348 A
+2018-19 $291,297 $0 $291,297 $953,646 A
+2019-20* 265,053$    $0 $265,053 $1,218,698 A
+2020-21 95,194$      ($147,608) ($52,414) $1,166,285 A
+2021-22 58,380$      ($58,380) ($0) $1,166,284 A
+2022-23 151,352$    ($92,586) $58,766 $1,225,050 A
+2023-24 276,473$    $3,686 $280,159 $1,505,209 A
+2024-25 290,218$    ($135,914) $154,304 $1,659,513 E
+TABLE E: Interest Fund Chart through FY2024-25
+ APPENDIX 2
+COMMUNITY MEDIA DISBURSEMENT DETAIL
+(MetroEast and Open Signal)
+APPENDIX 2: COMMUNITY MEDIA DISBURSEMENT DETAIL
+(MetroEast and Open Signal)
+The MHCRC administers two grant agreements with the community media organizations that serve the
+MHCRC-member Jurisdictions. MetroEast Community Media (MetroEast) serves the cities and
+communities of Gresham, Troutdale, Fairview, and Wood Village and east Multnomah County areas.
+Open Signal serves the City of Portland and the west Multnomah County areas.
+The community media organizations receive funding for both operations and capital expenditures. Most
+of Open Signal’s operational resources come from a grant agreement between Open Signal and the City of
+Portland and are, therefore, not included in the MHCRC’s Fund Budget (the amount is included below for
+informational purposes). MetroEast receives operational resources, in accordance with the IGA that
+created the MHCRC, based on 60 percent of the cable franchise fees for the east Multnomah County area.
+Open Signal also receives an amount in accordance with the IGA for the west Multnomah County area.
+Both organizations receive capital funds from the MHCRC Fund Budget, derived from PEG/I-Net Capital
+fee.
+Both MetroEast and Open Signal are nonprofit organizations with governing Boards of Directors. These
+Boards annually develop and adopt budgets. FY2025-26 draft budget summaries are included in this
+Appendix to provide more detail for the community media expenditures in the MHCRC Fund Budget.
+SUMMARY OF COMMUNITY MEDIA DISBURSEMENTS
+MetroEast Community Media:
+Operations Funding: East/West County Franchise Fees  $ 699,393
+Capital Funding: MHCRC $  977,610
+Total $ 1,677,003
+Open Signal:
+Operations Funding: Portland General Fund $ 1,406.543
+Capital Funding: MHCRC $ 1,018,763
+Total $ 2,425,306
+
+MetroEast FY25-26 Draft Budget May 19, 2025
+MetroEast Community Media receives operations and capital funding through the Mt. Hood
+Regulatory Commission to provide media and technology services in the East Multnomah County
+area, including Gresham, Fairview, Wood Village and Troutdale and unincorporated Multnomah
+County. MHCRC funding supports MetroEast as a community-centered media organization
+committed to diversity, equity and opportunity.
+
+About MetroEast
+Our Mission
+MetroEast provides access to media and technology to invigorate civic engagement, inspire diverse
+voices, and strengthen community life.
+Our Core Values
+● Digital Equity, Accessibility and Inclusion
+● Partnership and Collaboration
+● Creativity and Intellectual Freedom
+● Civic Engagement and Democracy
+Who We Are/ What We Do
+● We are a premier digital media and video production nonprofit known for our state of the art
+technology, our award-winning productions team, and our versatile facility.
+● We are mobile; we provide media education designed by and for our communities and at local
+partner locations, delivering access to relevant technology and training that helps our
+community tell their stories.
+● We are committed to digital inclusion; we focus on ensuring that traditionally underserved
+communities have access to digital content, training, and tools.
+● We provide a welcoming space where our community can celebrate the media arts and the
+diverse voices of those we serve.
+● Local schools, nonprofits and governments rely on us as an essential service provider and
+partner for digital literacy training, access to technology, and video production needs.
+
+Strategic Priorities and Goals - FY 2024-2027
+(Adopted April 2023)
+To uphold our vision while honoring our values and commitment to equity, MetroEast will continue
+pursuing four broad strategic priorities and associated goals over the next two fiscal years:
+
+1. Focus offerings on digital access driven by interests of priority communities*
+2. Increase visibility and engagement with priority communities
+3. Grow and diversify income
+4. Develop a culture of shared leadership and responsibility
+
+*MetroEast’s “Priority Communities” are BIPOC and low-income residents as these people have
+historically been underserved by the media and faced significant barriers to using and accessing
+technology. MetroEast defines “User Communities of Interest” as our local municipalities, school
+districts, nonprofit organizations and other government entities.
+
+FY25-26 Budget Overview
+The MetroEast Board and staff developed the draft FY25-26 budget guided by the following key
+factors in our operating environment:
+
+● Staffing
+Our people are our strength and payroll is the largest portion of MetroEast’s operations
+budget. Our emphasis on technology and media services and culturally-responsive education
+requires retaining and hiring staff with unique expertise and experience. The support and
+professional development of staff is key to our success. The Board believes to retain high
+quality staff, we must provide reasonable pay and work loads. Although operations revenues
+from franchise fees have continued to decline, the draft budget supports staff in several ways:
+- The budget includes a 3% cost-of-living increase for all staff, retains medical and other
+benefits, and provides professional development resources.
+- The Board and staff Leadership Team developed our three-year strategic plan to focus
+services on our priority communities and diversifying revenue. We have been and will
+continue to tweak all aspects of the organization and services, while honoring our
+commitment to not further stress the capacity of staff.
+
+● Diminishing Franchise Fee Revenue
+The draft budget reflects the declining operations revenue from East County franchise fees
+based on forecasts provided by MHCRC staff. MetroEast is continuing to address this decline by
+growing our capacity to diversify revenue - one of our strategic priorities for 2023-27.  Both
+staff and the Board have engaged around this priority and we are beginning to see an increase
+in earned revenue and fundraising in the current fiscal year. We understand that building
+capacity for sustainable fundraising takes time, but we are encouraged by our successful efforts
+thus far.
+
+OPERATIONS BUDGET
+
+Revenue Highlights
+Over the last few years we received lower amounts of operations revenue from the Franchise Fee
+than initially projected by the MHCRC staff. To be conservative, our budget reflects a 6.5% decrease
+from the FY25-26 MHCRC staff projection.
+
+One of our strategic priorities for 2023-27 is to grow and diversify revenue but this takes
+capacity-building for both staff and the Board. We continue to cultivate additional income streams,
+based mostly on known resources (ie, either commitments or ongoing revenue sources). Although
+some of our efforts may enhance income in the upcoming year, we chose to take a conservative
+approach to our projections. Projected non-MHCRC revenue sources include, but are not limited to,
+sponsorships, grants, education fees, production services, sale of depreciated equipment, and space
+rental. The draft budget retains the ongoing services of a contracted grant writer.
+
+Expense Highlights
+Personnel is the largest expense in the operations budget. The draft budget includes the same FTE
+(10.5) as the current fiscal year, a 3% COLA increase, and status quo employee benefits. Other
+expenses mostly support either operational needs (ie, financial services, utilities, legal expertise,
+financial audit, etc.) or our cohort-model education services (food, translation services, childcare,
+gas, etc.) and production services (ie. government meetings and programs).
+
+CAPITAL BUDGET
+
+Revenue Highlights
+Capital income is the amount provided for in the MetroEast/MHCRC grant agreement for the
+upcoming fiscal year.
+
+Expense Highlights
+Other capital projects include: Completing our bathroom conversion project, studio control room
+core upgrades to support 4k production, and increasing our laptop, iPad library resources, and
+camera fleet. Capital expenses will also cover general building upkeep, annual IT support, internal
+software contract, and equipment replacements and upgrades.
+
+Capital Reserve Drawdown
+The draft FY 2025-26 budget anticipates drawing from our capital reserve amount to cover
+necessary capital expenditures to provide services and maintain our building and technology assets.
+This puts our reserve critically low to be able to address unanticipated emergency capital needs.
+ We anticipate having about $390,000 in capital contingency reserves at the end of June 2025. The
+draft budget anticipates spending $35,636 of our capital reserves to cover all the necessary capital
+expenses in FY25-26.
+MetroEast Draft Budget FY25-26
+ 2024/2025 Budget
+Total for Direct Contributions 4,000 6,000
+Total for Non-Government Grants 1,999,435 1,145,196
+Total for Government Grants -  17,000
+TOTAL FOR DONATED REVENUE 2,003,435 1,168,196
+Total for Program Revenue 122,701 115,000
+TOTAL FOR SPECIAL EVENTS -  5,550
+TOTAL EARNED REVENUE 187,701 138,550
+TOTAL INCOME $2,191,136 $1,306,746
+ 2025/2026 Budget
+4 DONATED REVENUE DONATED REVENUE
+5 EARNED REVENUE EARNED REVENUE
+5100
+4000 Direct Contributions
+4200 Non-Government Grants
+4300 Government Grants
+Program Sales & Fees
+5800 Special events
+4010 Individual Contributions 4,000 4,200
+4020 Board Contributions 800
+4030 Corporate Contributions 1,000
+4210 Grants without Restrictions 10,000 10,000
+4220 Grants with Restrictions 110,000 103,000
+4230 MHCRC Funds
+4231 Capital Releases 1,164,379 378,264
+4232 Operating Funds 715,056 653,932
+4230 Total MHCRC 1,879,435 1,032,196
+4320 State Grants 10,000
+4330 Local Government Grants 7,000
+5110 Program Service Fees -  1,000
+5120 Membership Fees 3,000 3,000
+5130 Sponsorships 5,000 3,000
+5140 Production Services 96,000 96,000
+5150 Admin Fees 4,000 -
+5160 Tower Rental 2,701 -
+5170 Education Services 12,000 12,000
+5999 Misc. Revenue 65,000 12,000
+MetroEast Draft Budget FY25-26
+ 2024/2025 Budget  2025/2026 Budget
+7 EXPENSES - GRANTS, SALARIES & CONTRACTORS  EXPENSES - GRANTS, SALARIES & CONTRACTORS
+8 NON PERSONNEL EXPENSES  NON PERSONNEL EXPENSES
+9 OTHER INCOME AND EXPENSES OTHER INCOME AND EXPENSES
+7200 Salaries & Related Expenses
+7500 Contract Service Expenses
+8100 Nonpersonnel Expenses
+8200 Facility  Expenses
+8300 Travel & Conference Expenses
+8400 Other Org Specific Expenses
+8500 Other Expenses
+9200 Investment Activity
+Total for Salaries & Related Expenses $734,885 $717,781
+Total for Contract Service Expenses 133,222 146,000
+TOTAL FOR GRANTS, SALARIES, & CONTRACTORS 868,107 863,781
+Total for Nonpersonnel Expenses 530,967 137,280
+Total for Facility Expenses 355,991 90,096
+Total for Travel & Conference Expenses 20,870 6,500
+Total for Other Org Specific Expenses 10,000 104,650
+Total for Other Expenses 145,487 91,594
+TOTAL NONPERSONNEL EXPENSES 1,063,315 430,120
+TOTAL EXPENSES $1,931,423 $1,293,902
+TOTAL NET OPERATING INCOME $259,714 $12,845
+Total for Investment Activity 130 28,101
+TOTAL OTHER INCOME AND EXPENSES $28,101
+TOTAL NET  INCOME $367 $40,946
+8430 Software Licensing 10,000 104,000
+8440 Film Festival Fees 650
+($259,347)
+MetroEast Draft Budget FY25-26
+ 2024/2025 Budget  2025/2026 Budget
+10 Anticpiated Capital Expenditures Anticpiated Capital Expenditures
+1600 Capital Source
+1600 Capital Spend
+Merrill Lynch Carry-Forward 391,016 391,016
+MHCRC Capitalized Overhead 174,657 146,642
+MHCRC Capitalized Wages & Benefits 259,477 231,622
+MHCRC Capital Funds 512,242 599,346
+MHCRC Roof Carry-Forward 218,000 82,000
+Building Improvements 315,071 119,000
+Capitalized Overhead 174,657 172,265
+Capitalized Wages & Benefits 259,477 231,622
+Contractor and Installation 10,500 17,195
+Equipment 269,675 300,300
+Software Development & Licensing 135,000 122,864
+Vehicles -  50,000
+Roof (remaining from previous year) 218,000 82,000
+Capital Available 1,555,392 1,450,626
+Capital Spend 1,382,380 1,095,246
+TOTAL NET  Capital $173,012 $355,380
+METROEAST COMMUNITY MEDIA
+FISCAL YEAR 2025-26
+1 Operations Funding  $        699,393
+2 Access Corporation
+Capital $  977,610
+Total
+Funding $       1,677,003
+Capital Budget Narrative
+ FY 2025 - 2026
+Overview
+Open Signal’s capital spending this year is focused on protecting our
+assets for the long term. We are also planning for upgrades to the
+Uninterruptible Power Supply to our server room, roof and studio
+improvements, and investment in media education program equipment.
+Revenue
+Our capital grant allocation from the MHCRC for FY 25-26 is $1,018,763
+representing 32.9% of applicable revenue.
+Expenses
+Land and Land Improvements
+Budget: $0.00
+There are no expected land improvements in this fiscal year.
+Building and Building Improvements
+Budget: $34,034.74
+We had our roof evaluated and are budgeting $8,000 for improvements.
+Annual studio painting is $5,000. We are allocating $21,034.74 toward
+the New Building Fund.
+Production Equipment
+Budget: $207,000.00
+We will be purchasing to maintain our equipment inventory to support
+partner programs, partnered media, production services, cohort and
+studio workshops. This year we will make the final purchases to complete
+Pg.1 | Capital Budget Narrative - 5.06.2025
+our Studio Improvement project. We will be upgrading the UPS in our
+server room in order to protect the assets in our server room from
+unexpected power outages. We are proactively upgrading this as well as
+budgeting for a storage expansion. We also will be undertaking a JAMF
+Migration due to licensing.
+Computers
+Budget: $20,000.00
+We will be purchasing cell phones for some of our staff to use as work
+phones, as well as replacing a couple of old computers and computer
+accessories. We have also set aside a budget to cover any unexpected
+computer purchasing needs.
+Vehicles
+Budget: $0.00
+There are no expected vehicle purchases in this fiscal year.
+Office Equipment and Furniture
+Budget: $1,549.00
+There will be some furniture purchases for new staff as well as purchases
+for storage for Production Services equipment.
+Software and Other Intangibles
+Budget: $278,191.26
+There are no plans to add additional software in this fiscal year. We have
+set aside a budget for our anticipated software contract renewal costs.
+Project Ficus is ongoing and this budget includes funds for the
+developers working on creating that asset.
+Pg.2 | Capital Budget Narrative - 5.06.2025
+($ 1,018,763) FY 25-26 Capital Budget
+Capital Budget Workbook FY 24-25 Carry Forward
+Draft Fiscal Year 25-26 ($ 1,018,763) Total Budget
+Projects Budget
+MHCRC - Land & Land Improvement $0.00
+Totals MHCRC - Land & Land Improvement $0.00
+MHCRC - Building & Building Improvement
+Coded Directly to Building &
+Building Improvement $5,000.00
+Roof Improvement $8,000.00
+New Building Fund $21,034.74
+Totals MHCRC - Building & Building Improvement $34,034.74
+MHCRC - Production Equipment
+PS Production Equipment $50,000.00
+PM Production Equipment $30,000.00
+Studio Improvements $9,000.00
+CM Production Equipment $50,000.00
+CM Lost/Stolen $3,000.00
+Cohort Project $10,000.00
+JAMF Migration $15,000.00
+Storage Expansion $25,000.00
+UPS Upgrade/Replacement $15,000.00
+Totals MHCRC - Production Equipment $207,000.00
+MHCRC - Computers
+Coded Directly to Computers $20,000.00
+Totals MHCRC - Computer $20,000.00
+MHCRC - Vehicles
+Coded Directly to Vehicles $0.00
+Totals MHCRC - Vehicles $0.00
+MHCRC - Office Equipment & Furniture
+Coded Directly to Office
+Equipment & Furniture
+Shed for equipment storage $400.00
+New Desk $1,149.00
+Totals MHCRC - Office Equipment & Furniture $1,549.00
+MHCRC - Software & Other Intangibles
+Coded Directly to Software &
+Other Intangibles $60,000.00
+Project Ficus - Equarc $100,000.00
+Project Ficus - DJ $118,191.26
+Totals MHCRC - Software & Other Intangibles $278,191.26
+MHCRC - CAP Wages
+CAP Wages - Regular Staff $325,174.00
+CAP Wages - On-call Staff
+Totals MHCRC - CAP Wages $325,174.00
+MHCRC - Capital Overhead $152,814.00
+Total Budgeted: $1,018,763.00
+Operating Budget Narrative
+FY 2025 - 2026
+Overview
+The Leadership Team proposes a balanced budget for FY 25-26 with no
+anticipated surplus. Significant cuts were necessary to achieve this net
+balance. At this time we cannot project sufficient revenues to provide for
+the typical 3% COLA increase, robust professional development,
+contractor expenses to support productions, or generous stipends for
+guest educators from our community.
+Revenue
+Our proposed budget anticipates a drop in gross operating revenue of
+4.05% (about $126,351) in FY 25-26 compared to FY 24-25.
+This is largely due to projections related to revenues received from the
+City of Portland. In FY25 we anticipated over $300k in one-time revenue
+from technical services related to the City Charter reform. We are now in
+the process of negotiating a new “gavel to gavel” agreement with the
+City of Portland for the increased service effort accompanying the 12
+member council structure. We have used a conservative revenue
+projection for this agreement in our draft budget $276,414.28.  If City
+Council maintains the highest frequency of planned meetings this
+revenue may go as high as $353,000. We will amend our revenue
+projections after the first quarter of FY25-26.
+We anticipate that the City of Portland’s budget process will allocate
+approximately $1,053,540 (33.1% of applicable revenue) to Open Signal
+for the third of our five year grant agreement. This is the same amount as
+Pg.1 | Operating Budget Narrative - 5.6.2025
+FY 24 and FY 25. Due to budget shortfalls, we anticipate that the City will
+not provide a CPI/COLA increase to our annual operating grant for the
+second consecutive year. The cumulative impact of these deferred
+increases amount to a loss of approximately $64,000 in FY 25-26
+compared to the projections we made at the start of the contract in July
+2023.
+With increased communications and fundraising capacity we project that
+direct contributions from individuals and local businesses will increase
+by approximately 200% in FY 25-26, generating 2.5% of applicable
+revenue, foundation grant funding is projected to increase by 84%, due
+to new multi-year grants received in FY25, and the renewal of multi-year
+grants with cycles ending in FY26, generating over 11.8% of applicable
+revenue. Production services revenue is projected to be 10.5% lower
+than FY 24-25, generating 17.6% of applicable revenue.
+Operating Expenses
+Gross operating expenses projected in the proposed budget represent a
+net decrease of .58% compared to the prior period.  Reaching this net
+decrease was the result of difficult tradeoffs consisting of increases and
+decreases in different accounts/lines.
+Our Personnel Expenses increased by $118,721.05, but we made
+$60,000 worth of cuts to our Contractors Expense (less money for guest
+speakers/teachers from our community, and HR, legal, production,
+marketing, and ADA contractors). In FY 24-25, Open Signal provided a
+3% COLA for all employees, despite the fact that the City did not
+increase the grant award in alignment with the CPI. We are not able to
+project sufficient revenues to cover this difference for the upcoming
+fiscal year. The increases in salary expense come from raises based on
+Pg.2 | Operating Budget Narrative - 5.6.2025
+years of service, increased hourly rates for part-time production crew,
+and new staff positions compared to last year.
+We also had to cut over $30,000 of professional development expenses,
+including both individual training stipends and the annual Alliance for
+Community Media conference staff. We reduced planned spending on
+supplies and food and refreshments, while increasing the budget for
+repairs and maintenance of our new vehicles.
+
+We hope to be able to reverse some of these cuts after the first quarter
+of the coming fiscal year when we amend/adjust our budget with final
+agreement on the revenues related to expanded City council production
+services. If and when increased revenues are secured, our priority will be
+to reinstate the COLA, followed by funding the Board reserve,
+contractors, and professional development, in that order.
+Pg.3 | Operating Budget Narrative - 5.6.2025
+Open Signal Compensation Structure
+Information:
+-  When you get promoted to a different level your tiers reset .
+-  We will plan to have a 3% COLA raise annually on top of any tier changes. This is the average given by nonprofits. The COLA is contingent
+upon sufficient projected revenues annually.
+-  Raises happen at your anniversary date.
+Fiscal Year 23-24
+Tier 1 Tier 2 Tier 3 Tier 4
+1-2 YRS 3+YRS; 3-5 YRS 6+ YRS; 6-11 YRS 12+YRS
+Core $56,000.00 $58,000.00 $60,000.00 $62,000.00
+Conductive $61,000.00 $63,000.00 $65,000.00 $67,000.00
+Complex -- $80,250.00 $82,250.00 $84,250.00
+Fiscal Year 24-25
+Tier 1 Tier 2 Tier 3 Tier 4
+1-2 YRS 3+YRS; 3-5 YRS 6+ YRS; 6-11 YRS 12+YRS
+Core $57,680.00 $59,740.00 $61,800.00 $63,860.00
+Conductive $62,830.00 $64,890.00 $66,950.00 $69,010.00
+Complex -- $82,657.50 $84,717.50 $86,777.50
+Fiscal Year 25-26
+Tier 1 Tier 2 Tier 3 Tier 4
+1-2 YRS 3+YRS; 3-5 YRS 6+ YRS; 6-11 YRS 12+YRS
+Core $59,410.40 $61,532.20 $63,654.00 $65,775.80
+Conductive $64,714.90 $66,836.70 $68,958.50 $71,080.30
+Complex -- $85,137.23 $87,259.03 $89,380.83
+Operating Budget
+ FY 25-26  FY 24-25  Difference $
+Rate
+ComparisonFinal FY 25-26
+Revenue
+Total 4000 Direct Contributions $ 79,610.00 $ 26,383 $ 53,227.00
+Total 4200 Non-Government Grant $ 376,500.00 $ 203,832 $ 172,668.00
+Total 4300 Government Grants $ 2,072,306.00 $ 2,336,887 $ (264,581.00)
+Total 5000 Government Contracts/Fees $ 450,814.28 $ 360,000 $ 90,814.28
+Total 5100 Program Sales & Fees $ 113,500.00 $ 251,000 $ (137,500.00)
+Total 5400 Revenue From Sales $ 6,820.00 $ 49,500 $ (41,380.00)
+Total 5800 Special Events $ 1,900.00 $ 550 $ 1,350.00
+Total 5890 Special Events - Direct Costs $ (3,000.00) $ (3,950.00) $ 950.00
+NET FOR SPECIAL EVENTS $ (1,100.00) $ (3,400) $ 400.00
+Total 5999 Misc Revenue $ -  $ -  $ -
+Expenditures
+Total 7000 Grants & Direct Assistance $ -  $ 1,000 $ (1,000.00)
+Total 7200 Salaries & Related Expenses $ 2,117,638.75 $ 2,001,653 $ 115,985.83
+Total 7500 Contract Service Expenses $ 178,487.97 $ 236,205 $ (57,716.77)
+4000 Direct Contributions
+4010 Individual Contributions $ 30,810.00 $ 21,583 $ 9,227.00 142.75%
+4030 Corporate Contributions $ 17,000.00 $ 3,000 $ 14,000.00 566.67%
+4040 Federated Campaigns $ -  $ -  $ -
+4050 Affiliates Contributions $ -  $ -  $ -
+4060 Nonprofit & Foundation Contributions $ 31,800.00 $ 1,800 $ 30,000.00 1766.67%
+4070 Legacies and Bequests $ -  $ -  $ -
+301.75%
+4200 Non-Government Grants
+4210 Grants without Restrictions $ 188,500.00 $ 203,832 $ (15,332.00) 92.48%
+4220 Grants with Restrictions $ 188,000.00 $ -  $ 188,000.00
+184.71%
+4300 Government Grants
+4310 Federal Grants $ -  $ 155,000 $ (155,000.00) 0.00%
+4320 State Grants $ -  $ -  $ -
+4331 Capital Local Grant Releases $ 1,018,763.00 $ 1,128,344 $ (109,581.00) 90.29%
+4332 Operating Local Grants $ 1,053,543.00 $ 1,053,543 $ -  100.00%
+88.68%
+5000 Government Contracts/Fees
+5010 Federal Contracts/Fees $ -  $ -  $ -
+5020 State Contracts/Fees $ -  $ -  $ -
+5030 Local Government Contracts/Fees $ 450,814.28 $ 360,000 $ 90,814.28 125.23%
+125.23%
+5100 Program Sales & Fees
+5110 Program Service Fees $ 3,500.00 $ -  $ 3,500.00
+5120 Membership Fees $ -  $ -  $ -
+5130 Sponsorships $ -
+5140 Production Services $ 107,000.00 $ 250,000 $ (143,000.00) 42.80%
+5150 Studio Rentals $ 3,000.00 $ 1,000 $ 2,000.00 300.00%
+45.22%
+5400 Revenue From Sales
+5410 Non-inventory Sales $ 6,500.00 $ 7,800 83.33%
+5420 Inventory Sales $ 2,020.00 $ 200 $ 1,820.00 1010.00%
+5430 Cost of Goods Sold $ (1,700.00) $ (1,000) $ (700.00) 170.00%
+5440 Asset Sales $ -  $ 42,500 $ (42,500.00) 0.00%
+13.78%
+5800 Special Events
+5810 Non-Gift Revenue $ 200.00 $ 300 $ (100.00) 66.67%
+5820 Gift Revenue $ 1,700.00 $ 250 $ 1,450.00 680.00%
+5830 In-Kind Donations $ -  $ -  $ -
+5840 In-Kind Expenses $ -  $ -  $ -
+5850 Silent Auction Sales $ -  $ -  $ -
+345.45%
+5890 Special Events - Direct Costs
+5891 Facilities $ -  $ (600) $ 600.00 0.00%
+5892 Food/Beverage $ (1,500.00) $ (1,900) $ 400.00 78.95%
+5893 Entertainment $ -  $ (1,450) $ 1,450.00 0.00%
+5894 Other $ (1,500.00) $ -  $ (1,500.00)
+75.95%
+32.35%
+5999 Misc. Revenue
+5999 Misc Revenue $ -  $ -  $ -
+Total Revenue
+7000 Grants & Direct Assistance
+7010 Grants to Individuals $ -  $ 1,000 $ (1,000.00) 0.00%
+7020 Grants to Domestic Organizations $ -  $ -  $ -
+7030 Grants to Foreign Organizations $ -  $ -  $ -
+0.00%
+7200 Salaries & Related Expenses
+7210 Salaries & Wages $ 1,371,445.00 $ 1,347,939 $ 23,506.16 101.74%
+7215 Salaries & Wages - On Call $ 198,278.71 $ 150,840 $ 47,438.71 131.45%
+7220 401k/403b Contributions $ 56,357.80 $ 57,071 $ (713.40) 98.75%
+7230 Employee Benefits $ 259,487.83 $ 235,987 $ 23,500.45 109.96%
+7240 Payroll Taxes $ 177,249.40 $ 155,116 $ 22,133.90 114.27%
+7250 Payroll Service Fees $ 45,120.00 $ 45,000 $ 120.00 100.27%
+7260 Paid Time Off $ -  $ -  $ -
+7290 Workers Comp $ 9,700.00 $ 9,700 $ -  100.00%
+105.79%
+7500 Contract Service Expenses
+7510 Contractors - General $ 77,997.97 $ 95,108 $ (17,110.03) 82.01%
+7515 Production & Crew $ 1,600.00 $ 16,995 $ (15,395.00) 9.41%
+7520 Accounting $ 75,040.00 $ 74,290 $ 750.00 101.01%
+7530 Attorney & Legal $ 6,000.00 $ 16,240 $ (10,239.96) 36.95%
+7540 IT Consultant $ -  $ -  $ -
+7550 Marketing Consultant $ 5,250.00 $ 11,525 $ (6,275.00) 45.55%
+7560 ADA Services $ 7,600.00 $ 11,447 $ (3,846.78) 66.39%
+7570 HR Services $ 5,000.00 $ 10,600 $ (5,600.00) 47.17%
+75.56%
+8100 Non-personnel Expenses
+8110 Supplies $ 8,840.00 $ 17,655 $ (8,815.30) 50.07%
+8115 Food & Refreshments $ 23,056.00 $ 26,425 $ (3,369.00) 87.25%
+8120 Telephone & Internet $ 64,803.96 $ 48,914 $ 15,890.38 132.49%
+8130 Postage & Shipping $ 1,185.00 $ 884 $ 301.00 134.05%
+8140 Equipment Rental $ 1,000.00 $ 500 $ 500.00 200.00%
+8150 Software & Hardware < $1,000 $ 20,843.50 $ 54,830 $ (33,986.50) 38.01%
+8155 Small Tools < 1,000 $ 14,792.00 $ 40,000 $ (25,208.00) 36.98%
+$ 3,098,450.28 3,224,202.00 96.10%$ (126,351.72)
+Operating Budget
+ FY 25-26  FY 24-25  Difference $
+Rate
+ComparisonFinal FY 25-26
+8160 Printing & Copying $ 3,955.00 $ 1,800 $ 2,155.00 219.72%
+8170 Subscriptions $ 259.00 $ 3,280 $ (3,021.00) 7.90%
+8180 Equipment Repairs & Maintenance $ 2,495.00 $ 5,000 $ (2,505.00) 49.90%
+8190 Depreciation & Amortization $ 611,279.64 $ 611,280 $ 0.03 100.00%
+92.84%
+8200 Facility Expenses
+8210 Office & Storage Rent $ -  $ -  $ -  -%
+8220 Utilities $ 51,815.68 $ 48,225 $ 3,590.48 107.45%
+8230 Facility Repairs & Maintenance $ 17,736.80 $ 20,462 $ (2,725.00) 86.68%
+8290 Depreciation & Amortization $ 105,809.76 $ 105,810 $ (0.05) 100.00%
+100.50%
+8300 Travel & Conference Expenses
+8310 Transportation $ 100.00 $ 600 $ (500.00) 16.67%
+8320 Airfare $ 1,100.00 $ 4,100 $ (3,000.00) 26.83%
+8330 Meals $ 368.00 $ 4,755 $ (4,387.00) 7.74%
+8340 Hotels & Lodging $ 900.00 $ 9,600 $ (8,700.00) 9.38%
+8350 Conference Registration Fees $ -  $ 2,200 $ (2,200.00) 0.00%
+8360 Vehicles (Gas & Repairs) $ 9,820.00 $ 7,800 $ 2,020.00 125.90%
+8370 Parking & Mileage $ 3,240.00 $ 3,340 $ (100.00) 97.01%
+47.93%
+8400 Other Program Specific Expenses
+8410 Disability Accommodations/Accessibility $ 500.00 $ 2,000 $ (1,500.00) 25.00%
+8420 Marketing $ 2,700.00 $ 7,250 $ (4,550.00) 37.24%
+34.59%
+8500 Other Expenses
+8510 Interest Expense $ -  $ -  $ -
+8520 Insurance - Non-employee Related $ 66,724.12 $ 45,336 $ 21,388.12 147.18%
+8530 Membership Dues - Organization $ 1,774.00 $ 2,549 $ (775.00) 69.60%
+8540 Staff & Volunteer Training $ 4,500.00 $ 19,000 $ (14,500.00) 23.68%
+8550 Bank Fees $ 2,160.00 $ 2,160 $ -  100.00%
+8560 Merchant Fees $ 4,200.00 $ 6,000 $ (1,800.00) 70.00%
+8570 Recruitment $ -  $ 500 $ (500.00) 0.00%
+8580 Business Taxes & Licensing Fees $ 2,127.00 $ 4,613 $ (2,486.00) 46.11%
+8590 Other Expenses $ 1,000.00 $ -  $ 1,000.00
+8595 Staff Appreciation $ 3,278.00 $ 2,676 $ 602.00 103.54%
+Total 8500 Other Expenses $ 82,834 $ 2,929.12
+Total Expenditures $ 3,328,489.18 $ 3,348,401 $ (19,911.78) 99.41%
+185.22%
+9000 Restricted Revenue
+9010 Restricted Contributions $ -  $ -
+9020 Restricted Grants $ -  $ -
+9030 Release from Restrictions $ (187,000.00) $ (155,000) $ (32,000.00) 120.65%
+9100 Donated Goods & Services Revenue $ -
+9110 In-Kind Professional Services $ -  $ -  $ -
+9120 In-Kind Use of Facilities $ -  $ -  $ -
+9130 In-Kind Goods $ -  $ -  $ -
+9200 Investment Activity $ -
+9210 Interest $ 18,480.00 $ 24,000 $ (5,520.00) 77.00%
+9220 Dividends $ -  $ 481 $ (481.00) 0.00%
+9230 Unrealized Gain(Loss) $ -  $ -
+9240 Realized Gain(Loss) $ -  $ -
+9250 Investment Fees $ -  $ -
+9300 Other Income $ -
+9310 Other Miscellaneous Income $ -  $ 500 $ (500.00) 0.00%
+9320 Gain/Loss on Sale of Fixed Assets $ -  $ -  $ -
+9400 Donated Goods & Services Expense $ -
+9410 In-Kind Professional Services - Expense $ -  $ -  $ -
+9420 In-Kind Use of Facilities - Expense $ -  $ -  $ -
+9430 In-Kind Goods - Expense $ -  $ -
+9440 Depreciation on Donated Goods $ -  $ -
+Reserved for Fixed Asset Purchases $ (505,530.50) $ (617,866) 81.82%
+103.67%
+$ (904,089.40)
+Depreciation & Amortization $ 717,089.40 $ 717,089 100.00%
+$ (187,000.00) $ (154,995) $ (1,911,575.05) 120.65%
+$ (187,000.00) $ (155,000) 120.65%
+$ 5 0.05%
+Surplus (Deficit): w/out Asset Depreciation Expens
+Planned Deficit to spend down multi-year grant(s)
+Total 8100 Non-personnel Expenses $ 752,509.10 $ 810,567 $ (58,058.39)
+Total 8200 Facility Expenses $ 175,362.24 $ 174,497 $ 865.43
+Total 8300 Travel & Conference Expenses $ 15,528.00 $ 32,395 $ (16,867.00)
+Total 8400 Other Program Specific Expenses $ 3,200.00 $ 9,250 $ (6,050.00)
+$ 85,763.12
+ Net Operating Revenue $ (230,038.90) $ (124,199) $ (106,439.94)
+Total 9000 Restricted Revenue $ (187,000.00) $ (155,000) $ (32,000.00) 120.65%
+Total 9100 Donated Goods & Services Revenue $ -  $ -  $ -
+Total 9200 Investment Activity $ 18,480.00 $ 24,481 $ (6,001.00) 75.49%
+Total 9300 Other Income $ -  $ 500 $ (500.00) 0.00%
+Total 9400 Donated Goods & Services Expense $ -  $ -  $ -
+Total Other Income & Expenses $ (168,520.00) $ (130,019) $ (28,961.75) 129.61%
+Total Operating Balance (Deficit) $ (904,089.40) (872,083.96) $ (872,083.96)
+(Excess Deficit) or Surplus $ 0.00

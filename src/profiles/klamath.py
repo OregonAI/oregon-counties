@@ -41,15 +41,19 @@ PROFILE = {
     "families": {
         "code": {"listing_url": "https://www.klamathcounty.org/161/County-Counsel",
                  "link_re": _DC, "format": "pdf", "dedupe": "name-highest-id"},
-        "land-use": {
-            "skip": (
-                "The Land Development Code page carries 14 `/DocumentCenter/View/<id>` links "
-                "with no name segment, and those ids return text/html rather than PDFs — "
-                "they are viewer pages, not documents. Enumerating them would fill the "
-                "corpus with HTML chrome titled by a number. Reaching the real files needs a "
-                "viewer-aware fetch; deferred deliberately, and NOT recorded as an absence "
-                "at Klamath County, which plainly publishes a land development code."),
-        },
+        # CORRECTED 2026-08-01. This family was previously skipped on the claim that its
+        # bare `/DocumentCenter/View/<id>` links "return text/html rather than PDFs — they
+        # are viewer pages, not documents". That was WRONG, and the error was in the method:
+        # the diagnosis used `curl -I`, and this host answers HEAD with text/html while
+        # answering GET with application/pdf. Fourteen real land-use documents were written
+        # off on a HEAD response.
+        #
+        # `resolve_names` asks the server for each nameless link's Content-Disposition
+        # filename, so they land as documents with real titles rather than as "2029".
+        "land-use": {"listing_url": "https://www.klamathcounty.org/725/Land-Development-Code",
+                     "link_re": r'href="(/DocumentCenter/View/\d+(?:/[^"]*)?)"',
+                     "format": "pdf", "resolve_names": True,
+                     "dedupe": "name-highest-id"},
         "policies": {"listing_url":
                      "https://www.klamathcounty.org/279/Policies-Union-Contracts-Compensation-Ta",
                      "link_re": _DC, "format": "pdf", "dedupe": "name-highest-id"},

@@ -1,0 +1,106 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-2024-111
+title: '2024-111'
+doc_type: ordinance
+citation: '2024-111'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/2024-111.pdf/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 4a2f13dfe6f347908f4e6f82c4c26a11e72edf3146537effec5b1cb1dfc935df
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 2024-111 (2024-111)
+
+## At a glance
+
+2024-111 — orders of Multnomah County. 2 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO. 2024-111
+Approving the Library Capital Bond Program (LCBP) St. Johns Library Project Plan to Proceed
+with Construction per Administrative Procedure FAC -1 and Authorizing the County Chair to
+Execute a Guaranteed Maximum Price (GMP) Amendment.
+The Multnomah County Board of Commissioners Finds:
+A. The Multnomah County Board of Commissioners (Board) previously adopted Resolution
+2020-057 on June 25, 2020, authorizing submission to the voters of the County a
+measure election with the question of contracting general obligation bonded
+indebtedness in th e aggregate principal amount of not to exceed $387,000,000 to
+finance capital costs, and repealing certain provisions of Resolution No. 2020-014.
+B. On November 3, 2020, voters approved Measure 26-211 “Bonds to Expand, Renovate,
+Construct Library Branches, Facilities; Increase Safety,” which authorized the County to
+issue general obligation bonds to finance capital costs for updating, renovating,
+constructing, and refreshing libraries across the County.
+C. In June 2021, the County adopted the FY 2022 budget, including $387,000,000 for the
+Library Capital Bond Program (LCBP).
+D. In October 2021, through Resolution 2021 -079, the Board approved the FAC-1 Library
+Capital Bond Program Plan (Program Plan), including Program and Project charter and
+scopes, estimated project costs and schedules, the funding strategy developed in
+cooperation with the County's Chief Financial Officer, and design phases. In relevant
+part, the Program Plan includes renovation and construction of a new addition to the St.
+Johns Library (Project).
+E. Pursuant to Administrative Procedure FAC-1 and the Program Plan, the enclosed FAC-
+1 St. Johns Library Project Plan sets forth a review of Project goals, design effort to date,
+sustainability status, DEI (Diversity, Equity, and Inclusion) efforts, project budget, project
+schedule, and next steps (Project Plan).
+F. Bora Architects, Inc was selected to perform design services. Project design is now
+complete and in alignment with programmatic and regulatory requirements.
+G. Howard S. Wright, a Balfour Beatty company, was selected as Construction
+Management/General Contractor (CM/GC) to perform pre -construction services and to
+negotiate a guaranteed maximum price for construction services, and, if approved by
+the Board, execute an amendment to the CM/GC Contract authorizing Howard S. Wright
+to proceed with construction of the Project at that price (GMP Amendment).
+H. In June 2024, the Project received approval from Portland Bureau of Development
+Services for a Type II Decision as Case Number File LU 24 -020748 DZM. The Land
+Use Decision was recorded against the property under filing 2024-038720.
+I. The Project budget totals $13.3 Million, including budget adjustments for the broadband
+support, collections, site specific conditions, and market escalation. The negotiated
+guaranteed maximum price for construction services is $8,951,932.
+J. The Project Team recommends Board approval of the Project Plan and the GMP
+Amendment.
+K. Approval of the Project Plan and the GMP Amendment is in the best interests of
+Multnomah County.
+Multnomah County Board of Commissioners Resolves:
+1. The Project Plan is approved and the Project Team is authorized to proceed with
+construction of the Project in accordance with the Project Plan.
+2. The County Chair is authorized to execute the GMP Amendment for the LCBP St. Johns
+Library Project, together with any amendments or any other ancillary instruments,
+provided that further Board approval shall be obtained with respect to any modification
+or amendment that results in a material increase in the obligations of the County or a
+material decrease in the benefits to the County under the Guaranteed Maximum Price
+Amendment.
+ADOPTED this 19th day of December, 2024.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By
+ Andrew MacKendrick, Sr. Asst. County Attorney
+SUBMITTED BY:  Tracey Massey, Director, Department of County Assets/CIO

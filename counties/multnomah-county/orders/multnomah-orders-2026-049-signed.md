@@ -1,0 +1,223 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-2026-049-signed
+title: '2026-049-Signed'
+doc_type: ordinance
+citation: '2026-049-Signed'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/2026-049-signed.pdf/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: c98c3c735b107fe1acc3ef00990be8cbf40ca3e8f9cbbbc74ac0d7bbae598a9b
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 137.707
+    - ORS 166.250
+    - ORS 419A.055
+    - ORS 419C.145
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 2026-049-Signed (2026-049-Signed)
+
+## At a glance
+
+2026-049-Signed — orders of Multnomah County. 8 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+ RESOLUTION NO. 2026-049
+Adopting a Population Emergency Release Plan for the Department of Community
+Justice’s Juvenile Services Division (JSD) facilities to be implemented in accordance
+with ORS § 419A.055 in the event that the maximum  capacity of the juvenile detention
+facility is exceeded.
+The Multnomah County Board of Commissioners Finds:
+A. The Board of County Commissioners and the Department of Community Justice
+(DCJ) are committed to operating the juvenile detention facilities in a manner
+consistent with prevailing constitutional standards and statutory provisions
+regarding conditions of confinement.
+B. The adoption of the Fiscal Year 2027 budget resulted in funding the Multnomah
+County juvenile detention system at a total of 36 beds; 29 beds for Multnomah
+County youth and an additional 7 beds. The 7 additional beds accommodate
+out-of-state runaways, Oregon Youth Authority youth, and those involved in the
+interstate compact.
+C. Pursuant to recommendations from the Department of Community Justice and
+the Office of County Attorney, it is necessary to adopt an order establishing the
+maximum capacity of the county’s juvenile detention facility to ensure
+administrative clarity and public safety.
+The Multnomah County Board of Commissioners Resolves:
+1. The population limit for the Multnomah County juvenile detention system
+consisting of the Donald E. Long Juvenile Detention Center, is hereby set at the
+annual adopted budget funding level.
+2. A Youth in Detention Population Emergency shall be deemed to exist if the
+number of youth in custody exceeds or is anticipated to exceed within 24 hours,
+the established Multnomah County capacity. Additionally, if an emergency is
+declared under Multnomah County Code § 25.440 that renders portions of the
+facility unsafe or uninhabitable, an emergency exists when the population
+reaches the adjusted capacity (total funded beds minus beds rendered
+unavailable by the emergency).
+3. The attached Capacity Management Plan (Plan) and Addendum are adopted and
+will be implemented by the Department of Community Justice Juvenile Services
+Division Director in accordance with ORS § 419A.055 in the event of a youth in
+detention population emergency.
+4. The Board may issue additional orders or resolutions to carry out the functions
+and authority granted to Multnomah County under ORS § 419A.055.
+5. This resolution takes effect on July 2nd, 2026.
+ADOPTED this 2nd day of July, 2026.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY A TTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+SUBMITTED BY: Denise Peña, Director, Department of Community
+Justice
+CAPACITY MANAGEMENT PLAN
+1. This Capacity Management Plan (“Plan”) is adopted pursuant to ORS §
+419A.055, to address circumstances where the number of youth and/or
+adjudicated youth in detention exceeds the capacity of the detention facilities.
+The Multnomah County Juvenile Services Division Director or the Division
+Director’s designee, will implement this Plan.
+2. The intent of this Plan is to ensure that juvenile detention facilities do not exceed
+capacity consistent with state law, and maintain facility safety and constitutional
+standards by prioritizing bed space for youth who pose the highest risk to public
+safety or are at high risk for non-appearance. Prioritization of bed space shall be
+determined by evaluations for release based on objective criteria reasonably
+calculated to:
+a. Ensure that the population remains at or below capacity for the
+detention facility;
+b. Ensure public and victim safety, as well as the youth or youth’s later
+appearance in court and best interests of the youth consistent with
+preadjudication detention grounds under ORS § 419C.145; and
+c. Comply with prevailing constitutional and Oregon Juvenile
+Detention Facility Guidelines, relating to conditions of detention.
+3. Definitions:
+a. Forced Release: The temporary release of a youth or adjudicated
+youth from lawful custody specifically necessitated by a detention
+population emergency.
+b. Maximum Operational Capacity: The maximum number of youth
+that can be safely housed based on the lower of: (a) physical bed
+space, (b) budgeted capacity, or (c) the number of youth
+manageable under the staffing ratios mandated by the Oregon
+Juvenile Detention Facility Guidelines and Prison Rape Elimination
+Act (PREA).
+4. In determining release priority, the JSD Director or their Designee shall consider:
+● The nature of the current allegation (prioritizing the retention of youth
+charged with ORS § 137.707 offenses or violent felonies);
+● The youth's score on the Detention Screening Instrument (DSI);
+● The youth's history of failure to appear (FTA) or escapes; and
+● Statutory requirements under ORS § 419C.145.
+5. Youth in custody who are identified by Corrections Health as being at a
+substantial risk of harm if released to the community as a result of their medical
+needs, shall be transferred to the appropriate level of clinical care at a local
+hospital or care facility.
+6. The JSD Director or designee, may authorize a forced release for youth of
+one gender if the available beds cannot be safely or appropriately utilized by the
+other gender due to classification or housing constraints.
+7. The JSD shall comply with all notice requirements under ORS 419A.055,
+ensuring the Presiding Court, District Attorney, and Defense Counsel are notified
+of the emergency and any youths forced release pursuant to this Plan.
+8. The JSD Director or their designee, in coordination with the District
+Attorney’s Office, shall ensure that victims are notified of a youth’s forced release
+in accordance with Oregon Constitution Art. I, § 42 and applicable statutes.
+9. Every youth released under this Plan must complete a “Forced
+Release Agreement.”
+10. The JSD Director or their designee may adopt, amend, and/or rescind
+Multnomah County Department of Community Justice Juvenile Services Division
+policies and procedures as necessary to implement this Plan.
+Addendum Submitted to the BOCC regarding Board
+Agenda Item Adopting a Population Emergency Release
+Plan for the Department of Community Justice Juvenile
+Services Division (JSD) - June 25 and July 2, 2026
+Submitted by the Department of Community Justice to the
+BOCC on June 30, 2026
+1. Operational Plan
+The plan defines Maximum Operational Capacity as the maximum number of youth that
+can be safely housed based on the lower of: (a) physical bed space, (b) budgeted
+capacity, or (c) the number of youth manageable under the staffing ratios mandated by
+the Oregon Juvenile Detention Facility Guidelines and Prison Rape Elimination Act
+(PREA), and additionally authorizes a forced release for youth of one gender if the
+available beds cannot be safely or appropriately utilized by the other gender due to
+classification or housing constraints.
+This takes into account the required separation due to co-defendant status, gang
+affiliation, gender identity, age and medical necessity.
+A capacity emergency occurs when the number of youth in detention exceeds the
+Maximum Operational Capacity. Oregon law  requires the following tiers to be used in
+such an emergency:
+Tier 1: Sanctions/Violations
+This tier applies to youth who are currently detained on lower-level, non-criminal
+matters such as technical violations of their supervision or short-term sanctions.
+Governing Statute: ORS  419C.145 (Preadjudication Detention Grounds) and
+ORS 419A.055.
+Statutory Criteria: Release is legally permitted and prioritized for youth admitted
+solely on a technical probation violation petition or short-term sanctions.
+Releasing Authority: DCJ’s JSD or the Oregon Youth Authority
+Tier 2: Eligible for Release with Social Safety Holds
+This tier applies to youth facing preadjudication charges who are evaluated
+through validated screening instruments but may face external placement
+barriers.
+Governing Statute: ORS 419C.145 and ORS 419A.055.
+Statutory Criteria: Release consideration is strictly governed by the youth's
+score on the Detention Screening Instrument (DSI), failure to appear (FTA)
+records, and individual escape history to ensure public and victim safety.
+The "Social Preclusion" Safeguard: Under ORS  419C.145, if a screening
+shows a youth is low-risk, but their parent/guardian actively refuses to assume
+custody or there are zero available shelter beds, a mandatory 36-hour hold
+override is triggered. Statute dictates that release cannot occur if it results in
+unsafe community conditions or immediate youth homelessness.
+Releasing Authority: DCJ’s JSD
+Tier 3: Mandatory Detention / Judicial Override (Go to Court)
+This tier establishes a strict statutory firewall. Youth cannot be released under
+any capacity management protocol and can only be released by going directly
+before a judge.
+Governing Statute: ORS 137.707 (Mandatory Minimum Sentences for
+Certain
+Youth Offenses / Measure 11 / SB 1008) and ORS 166.250.
+Statutory Criteria: The Capacity Management Plan strictly prioritizes bed space
+to retain youth charged with violent felonies or ORS 137.707 offenses.
+Firearm Override: Any charge involving an operable firearm under ORS
+166.250 triggers an automatic, non-negotiable statutory hold override. No
+emergency release can occur for youth in this tier without a signed judge's order.
+They must remain securely detained until they go to court.
+Releasing Authority: Oregon Judicial Department/Presiding Court
+If all steps are exhausted, DCJ/JSD may review short-term overflow viability and the
+Oregon Juvenile Department Directors Association (OJDDA) Mutual Aid Agreement, as
+necessary.
+2. Census Report
+The aggregated daily census report is included below, including occupancy details
+broken down by pod layout and utilization, and by gender identity. DCJ can provide
+updates to board members  as requested.
+3. Victim Notification Requirements
+● Oregon’s constitution codifies rights for victims including the right to be informed
+of constitutional rights, and to receive notifications at critical stages of the justice
+process.
+● DCJ provides these services, along with additional advocacy, for all victims who
+have been harmed by someone on supervision with DCJ.
+● This is outlined in the Intergovernmental Agreement between the District Attorney
+and DCJ, with the District Attorney responsible for all victim services
+pre-adjudication, and DCJ responsible for all victim services post-adjudication.
+● All notifications of release from detention are completed by DCJ staff, referring
+the victim to the District Attorney for additional advocacy if pre-adjudication, and
+DCJ if post-adjudication.
+4. DCJ/JSD will notify the Board of County
+Commissioners if this plan is activated

@@ -1,0 +1,571 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-resolution-approving-the-intergovernmental-agreement-between-multnomah-county-and-the-city-of-portland-for-the-administration-of-t-e24412
+title: 'Resolution Approving The Intergovernmental Agreement Between Multnomah County And The City Of Portland For The Administration Of The County Business Income Tax.'
+doc_type: ordinance
+citation: 'Resolution Approving The Intergovernmental Agreement Between Multnomah County And The City Of Portland For The Administration Of The County Business Income Tax.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_approving_the_intergovernmental_agreement_between_multnomah_county_and_the_city_of_portland_for_the_administration_of_the_county_business_income_tax./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 18fb8675d175b15b1cc652b4bd3e7f686e392be4edd99d977e6dede09fcd78ff
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Approving The Intergovernmental Agreement Between Multnomah County And The City Of Portland For The Administration Of The County Business Income Tax. (Resolution Approving The Intergovernmental Agreement Between Multnomah County And The City Of Portland For The Administration Of The County Business Income Tax.)
+
+## At a glance
+
+Resolution Approving The Intergovernmental Agreement Between Multnomah County And The City Of Portland For The Administration Of The County Business Income Tax. — orders of Multnomah County. 12 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO. 2020-061
+Resolution Approving the Intergovernmental Agreement between Multnomah County and the City of Portland
+for the Administration of the County Business Income Tax.
+The Multnomah County Board of Commissioners Finds:
+a. Administration of the County Business Income Tax (BIT) and the City Business License Tax (BLT) were
+consolidated in 1993 to provide operational efficiencies.
+b. The consolidation program has allowed businesses to follow a single set of procedures and definitions and
+to file a single reporting form for both the City and the County. This has simplified reporting requirements
+for businesses and has minimized administrative costs for the County for the past 27 years.
+c. The attached Intergovernmen tal Agreement provides for a ten  year extension of the existing agreement
+with the City of Portland (through FY 2020). The estimat ed cost to the County in FY 2021 is $1,393,468 .
+The base administrative fee will be adjusted by CPI annually.
+d. The City will be implementing new tax software “Inte grated Tax Software Project”  that will greatly
+modernize and enhance tax collection and administration. The new software is scheduled to go -live in
+August 2020.
+e. The Count y will contribute to ITS project costs based on “Revenue Baseline Computation” beginn ing in
+fiscal year 2022. If revenues for Increased Collection Activities (delinquent account collections,
+unregistered business collections, audit recovery, and unreported property transactions)  exceed an
+established annual baseline the County will contribute to projects costs.
+f. The total annual estimated cost for ITS Project is $5.7 million. The Multnomah County share of ITS costs is
+estimated to be $1.3 million annually.
+The Multnomah County Board of Commissioners Resolves:
+The Board of County Commissioners approves the attached Intergovernmental Agreement  for the
+administration of the County Business Income Tax. The agreement term will begin July 1, 2020.
+ADOPTED this 2nd day of July, 2020.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+SUBMITTED BY: Eric Arellano, Chief Financial Officer
+
+MULTNOMAH COUNTY, OREGON
+CITY OF PORTLAND, OREGON
+
+Intergovernmental Agreement
+
+ THIS AGREEMENT (the “Agreement”) entered into by and between Multnomah County,
+Oregon, hereinafter “County”, and the City of Portland, hereinafter “City”, is pursuant to authority
+of ORS Chapter 190.
+
+A. The consolidated administration of the City of Portland’s Business License Tax Law
+and the Multnomah County Business Income Tax Law has simplified reporting
+requirements for businesses and has reduced administrative costs for both the City
+and the County for the past 27 years.
+
+B. A consolidated program has allowed businesses to follow a single set of procedures
+and definitions and to file a single reporting form for both the City and the County for
+the past 27 years.
+
+C. The City and the County jointly developed and have retained code conformity and
+consolidated administration for the past 27 years with positive results for both
+jurisdictions.
+
+D. The City, acting through the Bureau of Revenue and Financial Services, Revenue
+Division (the “Division”), is willing and able to continue administering the Multnomah
+County Business Income Tax Law for the County.
+
+E. The City of Portland will be implementing new tax collection software with greatly
+enhanced functionality. The new system is scheduled to go-live late in 2020.
+
+ NOW THEREFORE, in consideration of the mutual promises contained herein, the
+parties agree as follows:
+
+1. General Administration.
+
+a. The Division agrees to supervise and administer the Multnomah County
+Business Income Tax Law, imposed by the Multnomah County Code as adopted
+by the Multnomah County Board of Commissioners (“the County Business
+Income Tax”).
+
+b. The Division agrees to administer the County Business Income Tax, including,
+but not limited to, adopting administrative rules and written policies, collecting
+estimated tax payments, auditing returns, assessing and collecting tax and tax
+deficiencies, including penalties and interest, making refunds, hearing appeals,
+and taking any other action necessary to administer and collect taxes under the
+County Business Income Tax.
+
+c. The County will defend any legal claims against the County Business Income
+Tax regarding the legal validity or constitutionality of the County Business Income
+Tax.
+
+d. In performing its duties under this Agreement, the Division may in its discretion
+determine what action shall be taken to enforce the provisions of the County
+Business Income Tax and collect the tax imposed thereunder.  In exercising its
+discretion, the Division agrees to provide a level of service comparable to the
+level of service it provides in the administration of the Business License Tax Law.
+If the Division deems it necessary to vary substantially from this standard, the
+Division shall notify the County of the need and obtain its written consent.
+
+e. As the tax administrator, the Division is authorized to collect any and all taxes,
+penalties, interest, and fees for any tax year open under statute.
+
+2. Appeals Board.
+
+a. The County designates the Business License Appeals Board, as created by the
+Business License Tax Law, as the body for reviewing taxfiler appeals from final
+determinations made by the Division under the County Business Income Tax.
+
+b. The County Chair shall provide recommendations for appointments to be made
+by the Mayor to the Business License Appeals Board.  The Mayor shall appoint
+one (1) of the three (3) public members of the Business License Appeals Board
+from the list of recommendations submitted by the County Chair.  The County
+Chair will submit one or more names that meet the expertise requirement in the
+City Code (7.02.295 D).  If the County Chair does not provide any
+recommendations for the board by the deadline established in the written notice
+(issued at least 30 days before any deadline), the Mayor may make an
+appointment from the Mayor’s own list of recommendations.
+
+3. Payments to the County.
+
+a. The Division agrees to deposit all taxes collected under this Agreement to a
+trustee account within the City established on behalf of and for the benefit of the
+County.  The account shall earn interest based on the City’s internal interest
+allocation used for its own funds.
+
+b. The City agrees, after deducting pending refunds and other credits, to remit the
+balance of the tax collected under this Agreement to the County, less an amount
+required to restore the Reserve Balance, defined below, if needed, by the tenth
+(10th) business day following the close of each month.
+
+c. The County agrees to maintain a reserve balance in the trustee account
+described in Section 3.a, of approximately two hundred thousand dollars
+($200,000) (the “Reserve Balance”).
+
+d. The Division agrees to make payments of taxes collected under this Agreement
+to the County’s Local Government Investment Pool Account No. 4017.  Should
+extraordinary refunds, adjustments, or credits require funds in excess of the
+Reserve Balance, the Division may retain a reasonable amount in excess of the
+$200,000 in the trustee account, or the County agrees to transfer necessary
+funds to the City from its Local Government Investment Pool Account No. 4017
+to the City’s Local Government Investment Pool Account No. 4002 to bring the
+Reserve Balance back to $200,000.
+
+e. The Division agrees to provide monthly reconciliations of deposits made and net
+revenues collected.  The Division agrees to provide a minimum of 10 days prior
+notice if it requires retention or transfer by the County of an amount equal to or
+greater than $500,000.
+
+4. Payments to the City.
+
+The annual compensation to be paid to the City during FY 2020-2021, for all services
+provided under this Agreement shall be $1,393, 468. For FY 2021-2022 and
+thereafter, the annual compensation will be adjusted annually by the greater of two
+and one half (2.5%) or the annual West Region-Size Class A Consumer Price Index
+All Urban Consumers (CPI-W) as issued by the US Department of Labor, Bureau of
+Labor Statistics from December to December. The compensation will be billed in
+twelve equal installments on the 15th of each month, or the first business day that
+follows.  The County agrees to make payment of the billed installment by the end of
+the month.
+
+If administrative costs increase as a result of a material change to one jurisdiction’s
+business income tax law that is not reflected in the other, the City may increase the
+annual compensation to reflect that cost of administration only if it has provided the
+County with written notice, at least 90 days in advance of the cost increase.  If the
+City or County subsequently changes the tax law to bring the two codes back into
+conformity, the City will remove the increased charge if it has been less than one
+year since it was added.
+
+5. Additional Payments to the City for Integrated Tax System.
+
+The City will be implementing new tax collection software (“Integrated Tax System”
+or “ITS”) that will be operational in FY 2020-2021. The new tax system functionality
+will enhance tax collection efforts for both the City and County. Each of the tax
+programs on the ITS platform will contribute to overall ITS costs based on their
+relative proportion of the total revenue collected using a three-fiscal year lookback of
+actual revenues. In the event a new program is collected on ITS after this IGA is
+implemented, it will be allocated a portion of ITS project costs for bonded and un-
+bonded debt service commencing in the fiscal year in which the program begins to
+generate revenue. This will result in a reduction of debt service costs for existing
+revenue programs on the platform assuming no other factors change, such as the
+amount collected by those programs, or programs terminating.
+
+ITS costs include maintenance and support, bonded debt service, unbonded debt
+service, and upgrades. Debt service costs will cease after the 10th year. Maintenance
+and support and upgrade costs shall be indexed to inflation (West Region-Size Class
+A Consumer Price Index All Urban Consumers (CPI-W) as issued by the US
+Department of Labor, Bureau of Labor Statistics from December to December).
+Annual total ITS Costs to be recovered are estimated at $5,733,285, with the
+breakdown of those costs as follows.
+
+Maintenance and Support - $2,802,882
+Bonded Debt - $1,100,000
+Unbonded Debt - $1,163,736
+Upgrades - $666,667
+
+Annually, the County shall pay for its allocated share of ITS project costs based on
+proportion of the revenues collected on the ITS platform. These revenues currently
+include the Multnomah County Business Income Tax program. Transient Lodging
+Taxes are covered by separate agreements. The County’s portion of ITS costs
+related to collection of the Business Income Tax are currently estimated to be
+$1,327,883 annually ($13,278,830 over 10 years, estimated), estimates will be
+finalized by June 30, 2021. A “Revenue Baseline Computation” methodology will be
+used to determine the annual payment to the City. The payment will be based on
+“Increased Collection Activities” (comprised of delinquent collections, unregistered
+business collections, audit recovery, and unreported property transactions) above
+the historical baseline figures detailed below. The baseline shall be treated as an
+aggregate of the four categories listed. The City and County may mutually agree on
+additional areas of marginal enforcement revenue in the future.
+
+MCBIT-Delinquent Collections: $973,927
+MCBIT-Unregistered Businesses: $1,478,199
+MCBIT-Audit Recovery: $962,641
+MCBIT-Unreported Property Transactions: $678,230
+
+Baseline: $4,092,997
+
+If revenues from Increased Collection Activities in a fiscal year exceed the baseline
+of $4,092,997, the County shall pay the total amount above the baseline, not to
+exceed the 10-year estimated ITS County share as finalized on June 30, 2021. The
+tracking and accounting of revenue increases above the baseline will commence in
+FY 2020-21. Payment to the City will begin in FY 2021-2022; the payment will be
+received by August 15th for any balance due for the prior year’s activity. In the final
+year of the Term (if applicable), the County shall make payment for activity from FY
+2029-2030 by June 30, 2030.
+
+IGA Year
+ROI Year
+(Increased
+Collection
+Activities)
+Payment
+Date
+Payment Amount
+(ICA revenue in
+excess of baseline)
+7/1/2020-6/30/2021 FY21 8/15/2021 To be determined
+7/1/2021-6/30/2022 FY22 8/15/2022 To be determined
+7/1/2022-6/30/2023 FY23 8/15/2023 To be determined
+7/1/2023-6/30/2024 FY24 8/15/2024 To be determined
+7/1/2024-6/30/2025 FY25 8/15/2025 To be determined
+7/1/2025-6/30/2026 FY26 8/15/2026 To be determined
+7/1/2026-6/30/2027 FY27 8/15/2027 To be determined
+7/1/2027-6/30/2028 FY28 8/15/2028 To be determined
+7/1/2028-6/30/2029 FY29 8/15/2029 To be determined
+7/1/2029-6/30/2030 FY30 6/30/2030 To be determined
+ITS PAYMENT SCHEDULE
+
+The City will make all reasonable efforts to confirm Increased Collections Activities
+for the County. The City shall provide the County with monthly enforcement and
+collection activity reports against baseline commencing approximately 90 days after
+implementation of Federal Taxpayer Information (FTI) in ITS. The City and County
+shall meet 90 days after the implementation of FTI and thereafter quarterly during FY
+2020-2021 to discuss Increased Collections Activities reports. At the close of the
+fiscal year the City will provide the County with a summary of collections against
+
+baseline. The County reserves the right to request account level detail to confirm
+annual activity. In addition the County reserves the right to contract with an audit firm
+to perform an annual independent review of Increased Collection Activities to confirm
+yearly activity against baseline and perform a sampling of accounts to confirm
+revenues reflect Increased Collections Activities. The cost of the auditor and any
+additional cost incurred by City in supporting audit requests will be covered by
+County.
+
+Listed below are non-exhaustive examples of Increased Collection Activities within
+established categories:
+
+MCBIT-Delinquent Collections:
+ Billed accounts delinquent for >120 days
+ Payments on delinquent accounts and accounts that have a payment plan
+MCBIT-Unregistered Businesses:
+ Payments on unregistered business accounts (nonfilter) through account
+prospecting
+MCBIT Audit Recovery:
+ Increase in tax resulting from audit report
+ Increase in tax when a taxpayer files an amended return and an auditor
+makes an adjustment
+ Increase in tax on an original or other filing and an auditor made an
+adjustment
+MCBIT-Unreported Property Transactions:
+ Any adjustment to a return to report property sale gain that was not included
+on original filing
+ Payment on previously unreported property transactions through account
+prospecting
+
+If the County amends the Business Income Tax in a way that materially impacts
+enforcement revenue captured in the Increased Collection Activities as outlined in
+the Agreement, the City and County will renegotiate the baseline and computation
+methodology.
+
+6. Notification of Changes.
+
+a. Law Changes.  The parties agree to cooperate in amending the County Business
+Income Tax or the City Business License Tax Law to ensure uniformity and
+consistency in these respective codes and in administration.  Both parties to this
+Agreement agree to notify the other of any intent to make changes, whether in
+the law or in the tax or fee rates, at least thirty (30) days prior to adopting the
+change.  If both parties mutually agree to make changes, such changes may take
+effect in less than the thirty (30) days required.  Both parties acknowledge that if
+changes are made to one code and not the other, administrative costs may
+increase as a result.
+
+b. Administrative Rules.  The County’s Chief Financial Officer, or designee, may
+request to be involved in the development of Administrative Rules.  If the
+County’s Chief Financial Officer so requests, the Division agrees that it will not
+initiate the public process for review and comment on proposed Administrative
+Rules until the County’s Chief Financial Officer and the Division mutually agree
+on the content and substance of the Administrative Rules.
+
+7. Reports.
+
+a. The Division agrees to provide receipts and expenditure reports to the County at
+the close of each of the City’s accounting periods.  The Division will deliver a
+preliminary report, estimating receipts and expenditures by tax year, to the
+County by the 10th day of each month.  If the 10th day falls on a legal holiday or
+on a weekend, the preliminary report will be delivered on the following business
+day.
+
+b. The Division agrees to provide the County, upon request, a report of large
+potential refunds due to amended returns, appeals or overpaid estimates.  For
+purposes of the preceding sentence, “large” shall mean a single refund total of
+more than $200,000.
+
+c. The Division will provide other reports or perform other work or may discontinue
+or combine any of the above reports, as the Division and the County may
+mutually agree.  If the reports or other work requested by the County require
+extensive programming time or have significant costs associated with the project,
+the City and the County may agree upon additional charges to be paid for such
+additional work under this Agreement.
+
+d. The County agrees that all County employees given access to the tax records
+derived from the database or new tax software will safeguard the tax information
+and maintain the confidentiality of individual taxpayer information.  To obtain
+access to tax records, an authorized County employee must attend the City’s
+Security and Disclosure Awareness training, updated by the Division, annually.
+Upon completion of the annual training, a Confidentiality Oath must be signed
+that documents the employee’s understanding of the confidential nature of the
+data, the need to safeguard it and the consequences of violating the City’s
+confidentiality policies and procedures.
+
+e. The County agrees to provide property tax information relevant to property
+transactions to the City to support the administration of the Business Income Tax
+program and other programs.
+
+8. Information.
+
+a. The parties agree to cooperate in exchanging information and making joint public
+announcements to promote the effective administration of the County Business
+Income Tax and the City Business License Tax Law.  In regard to the County
+Business Income Tax, all public announcements and all correspondence relating
+to policy matters and public relations will be the County’s responsibility.  The
+Division agrees to notify the County of any matter arising from the administration
+of the County Business Income Tax that may require any legislative amendments
+or affect County policy, including any policy relating to the amount of taxes
+collected.
+
+b. Additionally, the parties agree that all City and County tax returns from any year,
+are available for review and may be used by Division staff to assess fees or
+taxes not previously collected under one and/or both laws.
+
+9. Public Records.
+
+a. All work performed by the City under this Agreement shall be considered to be
+the property of the County.  The County shall own any and all data the City
+produces in connection with this Agreement.  Upon termination of this
+Agreement, the City and County will mutually agree upon how delivery of this
+data is to be effectuated.  Since the tax returns are combined with the City’s
+business license tax return as of tax year 1993, the City and County jointly own
+these documents.  The City and County will equally share any copying expenses
+(paper or electronic) related to these returns upon termination of this Agreement.
+
+b. The Division may receive public records requests for County Business Income
+Tax records obtained by or provided to the Division under this Agreement.  If
+there is a question whether a document with County information is exempt from
+the public records law, any such request(s) shall be forwarded to the County’s
+Chief Financial Officer, or routed as (s)he directs, by the following business day.
+The County’s Chief Financial Officer, or designee, may determine if the
+requested records exist, and if such records are subject to the public records law.
+Any determination made by the County under the public records law shall be the
+County’s sole responsibility, including but not limited to any legal defenses of
+such determinations.
+
+10. Limitations and Conditions.
+
+a. To the extent permitted by Oregon law, the City agrees to indemnify, within the
+limits of the Oregon Tort Claims Act, the County from any and all claims,
+demands, settlements or judgments, including all costs and attorney fees, arising
+from any of the Division’s activities under this Agreement, provided, that the City
+shall not be required to indemnify the County for any such claims, demands,
+settlements or judgments arising from the wrongful acts of the County’s officers,
+agents or employees.
+
+b. To the extent permitted by Oregon law, the County agrees to indemnify, within
+the limits of the Oregon Tort Claims Act, the City from any and all claims,
+demands, settlements or judgments, including all costs and attorney fees, arising
+from any of the County’s activities under this Agreement, provided, that the
+County shall not be required to indemnify the City for any such claims, demands,
+settlements or judgments arising from the wrongful acts of the City’s officers,
+agents or employees.
+
+11. Confidentiality.
+
+a. The information provided by individual taxpayers on tax returns shall be treated
+as confidential information to the extent permitted under Oregon law.  Such
+information may be disclosed to the County, for purposes of monitoring or
+overseeing the Division’s administration of the County Business Income Tax or
+for County revenue forecasting and budgeting.  If authorized by the County’s
+Chief Financial Officer, County officers, agents or employees may have access
+to such information after the execution of a certificate of confidentiality and
+background check.  The confidentiality certificate shall advise the officer, agent or
+employee of the penalties for disclosure of confidential information.  The County
+shall obtain and keep on file such certificates for its employees, agents and
+
+officers, and will provide a copy of the certificate to the Division.  Before access is
+granted, required training as detailed in Section 6.d. must be completed.
+
+b. When making requests for such information, other than routinely agreed upon
+reports, the County shall give not less than ten (10) calendar days prior notice to
+the Division, stating the information desired, the purpose of the request and the
+use to be made of such information.
+
+c. The County may audit the Division’s administration of the County Business
+Income Tax, applying generally accepted audit standards.  The County agrees to
+provide reasonable prior notice of its intent to audit the Division.  Prior to
+beginning the audit, all County officers, agents, employees or contractors
+participating in the audit agree to execute confidentiality certificates and
+background checks as provided herein.
+
+d.  The City will allow authorized County employees direct access to the City’s ITS
+platform for the purposes detailed above. For security purposes, such access
+shall be granted only from the City’s premises. The City shall make such access
+available within 10 business days of the County’s request.
+
+12. Term.
+
+a. The term of this Agreement shall be ten years, beginning July 1, 2020 (the
+“Term”), unless terminated by operation of law or by either party upon twelve
+months prior written notice.  Prior to the termination date of this Agreement, the
+County and the City will determine the disposition of pending matters which will
+not otherwise be completed within the Term, and the Division will provide the
+County with such records as are necessary for the County to commence
+collecting the tax under the County Business Income Tax.
+
+13. Payment on Early Termination.
+
+Upon early termination as provided by this Agreement, the County shall pay the
+City for all work performed prior to the termination date.
+
+14. Integration.
+
+This Agreement embodies the whole of the agreement between the parties for
+the administration of the County Business Income Tax.  Any prior written or oral
+agreements shall be superseded hereby.  The terms of this Agreement shall not
+be waived, altered, modified, supplemented or amended, in any manner
+whatsoever, except by written instrument signed by the parties.
+
+15. Severability.
+
+If any provisions of this Agreement shall be held invalid or unenforceable by any
+court of competent jurisdiction, such holding shall not invalidate or render
+unenforceable any other provisions hereof.
+
+16. Notice.
+
+a. Program Managers.  The City Program Manager shall be the Director of the
+City’s Revenue Division, or such other person as shall be designated in writing
+by the Director.  The County’s Program Manager shall be the County’s Chief
+Financial Officer, or such other person as shall be designated in writing by the
+Chief Financial Officer.
+
+b. Any notice provided for under this Agreement shall be sufficient if in writing and
+delivered to the following addressee or deposited in the United States mail,
+postage prepaid, addressed as follows, or to such other address as the receiving
+party specifies in writing.  Additionally, the parties may agree that written
+notification by email may serve as appropriate notice.
+
+If to the City:  Revenue Division Director
+     111 SW Columbia St., Suite 600
+     Portland, Oregon  97201
+
+If to the County: Multnomah County - Chief Financial Officer
+     501 SE Hawthorne Blvd. 5th Floor
+     Portland, Oregon  97214
+
+17. Oregon Law and Forum.
+
+a. This Agreement shall be construed according to the laws of the State of Oregon.
+
+b. Any litigation between the City and the County arising under this Agreement or
+out of work performed under this Agreement shall occur, if in the state courts, in
+the Multnomah County Court having jurisdiction thereof, and if in the federal
+courts, in the United States District Court for the District of Oregon.
+
+18. Independent Contractor Status.
+
+a. The City is engaged as an independent contractor and shall be responsible for
+any federal, state and local taxes and fees applicable to payments hereunder.
+
+b. The City, its subcontractors and their employees are not employees of the
+County and are not eligible for any benefits through the County including, without
+limitation, federal social security, health benefits, workers' compensation,
+unemployment compensation and retirement benefits.
+
+19. Amendments.
+
+The City and the County may amend this Agreement at any time only by written
+amendment executed by the City and the County.  Any amendment must be
+approved by ordinance of the City Council.
+
+20. Non-Waiver.
+
+The City and the County shall not be deemed to have waived any breach of this
+Agreement by the other party except by an express waiver in writing.  An express
+written waiver as to one breach shall not be deemed a waiver of any other
+breach not expressly identified, even though the other breach be of the same
+nature as that waived.
+
+ IN WITNESS WHEREOF, the authorized representatives of the City and County, as
+parties hereto, acting pursuant to the authority granted to them, have
+
+ HEREBY AGREED:
+
+CITY OF PORTLAND    MULTNOMAH COUNTY
+
+By: ___________________________  By: ______________________________
+ Mayor      Chair
+ City of Portland, Oregon   Multnomah County
+
+Date signed: __________________  Date signed: _______________________
+
+Approved as to Form:    Reviewed by:
+
+_____________________________  ___________________________________
+Tracy Reeve     Jenny M. Madkour
+City Attorney     County Attorney for
+      Multnomah County

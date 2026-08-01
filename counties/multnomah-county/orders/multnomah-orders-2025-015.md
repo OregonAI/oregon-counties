@@ -1,0 +1,68 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-2025-015
+title: '2025-015'
+doc_type: ordinance
+citation: '2025-015'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/2025-015.pdf/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 5334a7372ed5eb9f800c834c62747f73362976c5e87e371c5a42ab809eb20b93
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 2025-015 (2025-015)
+
+## At a glance
+
+2025-015 — orders of Multnomah County. 1 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO. 2025-015
+Approval of the Multnomah County Aging Disability and Veterans Services Division 2025-2029
+Area Plan
+The Multnomah County Board of Commissioners Finds:
+A. In accordance with Federal and State requirements under the Older Americans Act
+(OAA), a four year plan has been completed by the Aging Disability and Veterans
+Services Division.
+B. The Multnomah County Aging Disability and Veterans Services Division 2025-2029 Area
+Plan has been completed and shared with Multnomah County leadership and staff.
+C. The goals and objectives in the 2025-2029 Area Plan are derived from community
+feedback obtained by Multnomah County from residents of the county.
+The Multnomah County Board of Commissioners Resolves:
+1. Multnomah County approves the Multnomah County Aging Disability and Veterans
+Services Division 2025-2029 Area Plan.
+2. The Board directs Aging Disability and Veterans Services Division to implement the Area
+Plan 2025-2029 as written.
+ADOPTED this 20th day of March, 2025.
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON  SUBMITTED BY: Irma Jimenez, Director, Aging Disability and Veterans Services Division,
+Department of County Human Services for Multnomah County Oregon.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair

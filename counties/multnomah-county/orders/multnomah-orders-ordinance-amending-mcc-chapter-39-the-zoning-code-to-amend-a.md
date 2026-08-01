@@ -1,0 +1,8331 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-ordinance-amending-mcc-chapter-39-the-zoning-code-to-amend-a
+title: 'Ordinance Amending Mcc Chapter 39 (The Zoning Code) To Amend And Reorganize The Significant Environmental Concern Regulations.'
+doc_type: ordinance
+citation: 'Ordinance Amending Mcc Chapter 39 (The Zoning Code) To Amend And Reorganize The Significant Environmental Concern Regulations.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/ordinance_amending_mcc_chapter_39_%28the_zoning_code%29_to_amend_and_reorganize_the_significant_environmental_concern_regulations./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 5629485214551919061ba9898ce9ec4ce720fa68ed13c86510ed5a8d894b2650
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 196.9065
+    - ORS 215.110
+    - ORS 215.203
+    - ORS 215.503
+    - ORS 541.695
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance Amending Mcc Chapter 39 (The Zoning Code) To Amend And Reorganize The Significant Environmental Concern Regulations. (Ordinance Amending Mcc Chapter 39 (The Zoning Code) To Amend And Reorganize The Significant Environmental Concern Regulations.)
+
+## At a glance
+
+Ordinance Amending Mcc Chapter 39 (The Zoning Code) To Amend And Reorganize The Significant Environmental Concern Regulations. — orders of Multnomah County. 170 pages.
+
+## Full text
+
+Page | 1
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+ORDINANCE NO. 1330
+Amending MCC Chapter 39 (the Zoning Code) to Amend and Reorganize the Significant
+Environmental Concern Regulations.
+(Language stricken is deleted; underlined language is new.)
+The Multnomah County Board of Commissioners Finds:
+a. Periodically, there is a need to amend County land use policies or regulations to address
+a change in law or circumstance; to implement elements of the Multnomah County
+Comprehensive Plan; or to make technical corrections for, among other things,
+clarification and consistency (commonly referred to as “housekeeping
+amendments”). Having identified such need, the Multnomah County Planning
+Commission recommended the adoption of this ordinance to the Board of County
+Commissioners. The Planning Commission made such recommendation through
+adoption of the resolution described below and pursuant to its authority in MCC
+39.1645, 38.0340 and in ORS 215.110.
+b. Planning Commission Resolution No. PC 2024-0001 (Exhibit 1) relates to amendments
+to the Zoning Code to ensure, among other things, clarity and consistency in the Code.
+c. The changes in this recommended ordinance include restructuring of the order in which
+the Significant Environmental Concern standards appear. These changes will result into
+a more user-friendly, logical flow.
+d. The amendments include clarifying language for exemptions from the Significant
+Environmental Concern permit.
+e. Clarification of the term ‘within’ for the purposes of siting development in a Significant
+Environmental Concern overlay.
+f. New Exemption provisions for structures destroyed by fire, disaster, or other casualty.
+g. Reduces the required mitigation requirement for tree plantings for projects that require a
+mitigation plan.
+h. Creates one single set of regulations for development impacting streams and riparian
+areas.
+i. Creates a Type 1 simplified and streamlined review process for the Significant
+Environmental Concern for Scenic Views permit for qualifying projects.
+j. Creates a Type 1 simplified and streamlined review process for the Significant
+Environmental Concern for Water Resources permit for qualifying projects.
+Page | 2
+k. No property is being “rezoned,” as that term is defined in ORS 215.503, and therefore no
+mailed notice to individual property owners is required (“Ballot Measure 56” notice).
+Notice was published in the Oregonian newspaper and on the Land Use Planning
+Program website. The Planning Commission held a public hearing on July 8, 2024 where
+all interested persons were given an opportunity to appear and be heard.
+l. The Planning Commission’s recommendation is sound and derives from the proper
+execution of its duties and authority. It is in the public interest to adopt this ordinance.
+Multnomah County Ordains as Follows:
+Section 1. MCC Chapter 39 is amended as follows:
+CHAPTER 39 – MULTNOMAH COUNTY ZONING CODE
+§§:
+PART 1 – ADMINISTRATION, PROCEDURES, ENFORCEMENT, PERMITS AND
+FEES
+***
+5.H – SIGNIFICANT ENVIRONMENTAL CONCERN (SEC) OVERLAYS (SEC)
+PART 5.H.1 – SIGNIFICANT ENVIRONMENTAL CONCERN (SEC) DISTRICTS
+§39.5500 Purposes
+§39.5505 Area Affected
+§ 39.5510 Uses; SEC Permits Required
+§39.5515 Exceptions
+§39.5520 Application for SEC Permit
+§39.5525 Applicable Approval Criteria
+§39.5530 SEC Permit – Required Findings
+§39.5535 Scope of Conditions
+§39.5540 Criteria for Approval of SEC Permit
+§39.552045 Definitions
+§39.5525 Replacement or Restoration of Structures in All SEC Overlays
+
+Page | 3
+
+§39.5530  SEC Permit Criteria (Significant Environmental Concern)
+
+§39.5540  SEC-h Permit Criteria (Significant Wildlife Habitats)
+
+§39.5550  SEC-s Permit Criteria (Significant Streams)
+
+§39.5560  SEC-sw Permit Criteria (Significant Scenic Waterways)
+
+§39.5570  SEC-v Permit Criteria (Significant Scenic Views)
+
+§39.5580  SEC-w Permit Criteria (Significant Wetlands)
+
+§39.5590  SEC-wr Permit Criteria (Significant Water Resources)
+
+PART 5.H.2 – SEC STANDARDS APPLICABLE IN THE WEST OF SANDY RIVER AREA ONLY
+
+§39.5550  Existing Uses
+
+§39.5555  Buildable Lot Encroachment
+
+§39.5560  General Requirements for Approval in Areas Designated as SEC-wr or SEC-h
+
+PART 5.H.3 – SEC STANDARDS APPLICABLE IN THE URBAN PLANNING AREA ONLY
+
+§39.5570  Existing Uses in the Urban Planning Area
+
+§39.5575  General Requirements for Approval in Areas Designated as SEC-wr
+
+PART 5.H. 4 – NUISANCE PLANT LIST
+
+§39.5580  Nuisance Plant List
+
+PART 5.H.5 – SCENIC WATERWAY (SEC-sw)
+
+§39.5600  Criteria for Approval of SEC-sw Permit
+
+PART 5.H.6 – SIGNIFICANT SCENIC VIEW (SEC-V)
+
+§39.5650  Criteria for Approval of SEC-v Permit
+
+PART 5.H.7 – SIGNIFICANT WETLANDS (SEC-w)
+
+§39.5700  Criteria for Approval of SEC-w Permit
+
+PART 5.H.8 – STREAMS (SEC-s)
+
+§39.5750  Criteria for Approval of SEC-s Permit
+
+PART 5.H.9 – WATER RESOURCES (SEC-wr)
+
+§39.5800  Criteria for Approval of SEC-wr Permit
+
+Page | 4
+
+PART 5.H. 10 – WILDLIFE HABITAT (SEC-h)
+
+§39.5850 SEC-h Clear and Objective Standards
+
+§39.5860 Criteria for Approval of SEC-h Permit
+
+Section 2. MCC 39.5500 is amended as follows:
+
+5.H – SIGNIFICANT ENVIRONMENTAL CONCERN (SEC) OVERLAYS (SEC)
+
+5.H.1 – SIGNIFICANT ENVIRONMENTAL CONCERN GENERAL PROVISIONS
+
+§ 39.5500 PURPOSES.
+
+The purposes of the Significant Environmental Concern Overlays, MCC 39.5500 through MCC
+39.55905860 (collectively, the “SEC Overlays”)  are to protect, conserve, enhance, restore, and maintain
+significant natural and human-made features which are of public value, including among other things,
+river corridors, streams, lakes and islands, domestic water supply watersheds, flood water storage areas,
+natural shorelines and unique vegetation, wetlands, wildlife and fish habitats, significant geological
+features, tourist attractions, archaeological features and sites, and scenic views and vistas, and to establish
+criteria, standards, and procedures for the development, change of use, or alteration of such features or of
+the lands adjacent thereto.
+
+Section 3. MCC 39.5505 is amended as follows:
+
+§ 39.5505 AREA AFFECTED.
+
+(A)  Except as otherwise provided in MCC 39.5510 or MCC 39.5520 this section, the SEC Overlays shall
+apply to those lands designated with any of the following zoning overlay designations SEC on the
+Multnomah County Zoning Map consisting of the following resource area designations:
+Zoning Overlay Designation
+SEC: Significant Environmental Concern Area
+SEC-h:  Significant Wildlife Habitats
+SEC-s:  Significant Streams
+SEC-sw:  Significant Scenic Waterways
+Resource Area
+SEC-v:  Significant Scenic Views Resource Area
+SEC-w:  Significant Wetlands Resource Area
+SEC-s: Streams Resource Area
+SEC-wr:  Significant Water Resources Area
+SEC-h: Wildlife Habitat Resource Area
+
+Page | 5
+
+(B)  In the event of a mapping inconsistency, the SEC-s zoning Overlay shall be interpreted to be the
+defined Stream Conservation Area as defined in MCC 39.5750.
+(C) SEC - Scenic Waterway (SEC-sw) - Land areas that are contained within the Sandy River Scenic
+Waterway as shown on the zoning maps adopted on (September 6, 1977, Ord. 149).
+(D) SEC-Water Resource Area (SEC-wr) - Protected water features, riparian/vegetated corridors and the
+adjacent impact areas, that are identified as significant resources in the Goal 5 Inventory, and as
+established by these definitions, are the areas included within the SEC-wr Overlay District.
+(1) Protected Water Features shall include:
+(a) Wetlands that provide a water quality benefit - Wetlands of metropolitan concern as
+shown on the Metro Water Quality and Flood Management Area Map and other wetlands
+which meet any one of the following criteria. Wetlands do not include artificially constructed
+and managed stormwater and water quality treatment facilities.
+1. The wetland is fed by surface flows, sheet flows or precipitation, and has evidence of
+flooding during the growing season, and has 60 percent or greater vegetated cover, and is
+over one-half acre in size;
+2.  The wetland qualifies as having "intact water quality function" under the 1996 Oregon
+Fresh water Wetland Assessment Methodology;
+3. The wetland is in the Flood Management Area, and has evidence of flooding during
+the growing season, and is five acres or more in size, and has a restricted outlet or no
+outlet;
+4.  The wetland qualifies as having "intact hydrologic control function" under the 1996
+Oregon Freshwater Wetland Assessment Methodology; or
+5.  The wetland or a portion of the wetland is within a horizontal distance of less than
+one-fourth mile from a water body which meets the Department of Environmental
+Quality definition of "water quality limited water body" in OAR Chapter 340, Division
+41 (1996).
+(b) Rivers, streams, and drainages downstream from the point at which 50-acres or more are
+drained to the water feature (regardless of whether it carries year-round flow); and
+(c) Streams carrying year-round flow; and
+(d) Streams designated as significant in the Goal 5 inventory; and
+(e) Springs which feed stream and wetlands and have year-round flow; and
+(f) Natural lakes.
+(2) Riparian/Vegetated Corridors and Impact Area - The width of the riparian/vegetated corridor
+for all Protected Water Features varies and shall be as depicted on the Multnomah County Zoning
+Maps and is measured from the top of bank.
+(3) The zoning maps used to designate the SEC-wr zoning Overlay were created digitally by
+interpreting various data sources and maps contained in the 2002 West of Sandy River Goal 5
+ESEE report. Care was taken in the creation of the maps, but in some instances mapping
+
+Page | 6
+
+inaccuracies have occurred during the process. For those areas included in the 2002 West of
+Sandy River Plan, the SEC-wr zoning Overlay shall be interpreted to be the Water Resource Area
+as defined in this subsection B.
+(E) SEC-Habitat (SEC-h)- Includes nonriparian and nonwetland natural resource sites that contain habitat
+values such as wooded areas and areas with rare or endangered flora and fauna, as identified by the Goal
+5 Inventory.  Habitat areas include the significant Goal 5 habitat resource and a 25 foot buffer to protect
+the root zone of the vegetation.  The boundaries of Significant Habitat Areas, which are designated as
+SEC-h, are established by the Goal 5 Natural Resource Inventory and include:
+(1) Those areas identified on the map as "Riparian Corridor/Wildlife Habitat and Impact Area"
+that do not otherwise meet the definition of Water Resource Area in subsection (B) above; and
+(2) Those areas identified on the map as "Isolated Upland Wildlife Habitat" that do not otherwise
+meet the definition of Water Resource Area in subsection (B) above.
+(BF) The zoning maps used to designate the SEC-s zoning overlay were created digitally by interpreting
+various data sources including the hand drawn maps contained in the Goal 5 ESEE reports and Metro’s
+riparian and wildlife habitat inventories. Care was taken in the creation of the maps, but in some instances
+mapping inaccuracies have occurred during the process. In the event of a mapping inconsistency, the
+SEC-s zoning overlay subdistrict shall be interpreted to be the defined Stream Conservation Area as
+defined in MCC 39.57505520.
+
+(C) The zoning maps used to designate the SEC-wr zoning overlay were created digitally by interpreting
+various data sources and maps contained in the 2002 West of Sandy River Goal 5 ESEE report. Care was
+taken in the creation of the maps, but in some instances mapping inaccuracies have occurred during the
+process. For those areas included in the 2002 West of Sandy River Plan, the SEC-wr zoning overlay shall
+be interpreted to be the Significant Water Resources as defined in MCC 39.5520.
+
+Section 4. MCC 395510. is amended as follows:
+
+§ 39.5510 USES; SEC PERMITS REQUIRED.
+
+ (A) Except as provided in MCC 39.5515 and 39.5525, an SEC Overlays permit(s) is required for:
+ (1) All development, including but not limited to uses allowed in the base zone are allowed in the
+SEC when found to satisfy the applicable approval criteria given in such zone; provided however, that
+the location, and design of any use, or change, replacement, or alteration of a any use or structure,
+except as provided in MCC 39.5515, subject to approval of an SEC permit pursuant to this Subpart.
+ (B) (2) Any excavation or any removal of materials of archaeological, historical, pre-contact or
+anthropological nature shall be conducted under the conditions of an SEC permit, regardless of the
+zoning designation of the site.
+
+(B) An application for a use on a property containing more than one SEC overlay designation
+protected resource shall address the approval criteria for all of the designated SEC overlays resources
+on the property. In the case of conflicting criteria, approval shall be based on the ability of the
+proposed development to comply as nearly as possible with the criteria for all designated SEC
+overlays resources that would be affected.
+
+Page | 7
+
+Section 5. MCC 39.5515. is amended as follows:
+
+§ 39.5515 EXCEPTIONS.
+
+(A) Except as provided in subsection (B) of this Section, an SEC Overlays permit(s) shall not be required
+for the following:
+
+(1) Farm use, as defined in ORS 215.203 (2) (a), including buildings and structures accessory
+thereto on "converted wetlands" as defined by ORS 541.695 (9) or on upland areas. This
+exception does not apply to buildings and other development associated with farm practices and
+agricultural uses in the West of Sandy River Planning Area. The following vegetation removal:
+(a) The propagation of timber for personal use provided the tree(s) that are removed are
+replaced on a one-to-one basis with a native seedling or native tree within the boundaries
+of the subject property.
+(b) The removal of dead, decaying or other hazardous trees, provided the tree(s) that are
+removed are replaced on a one-to-one basis with a native seedling or native tree within
+the boundaries of the subject property.
+(c)(2) The propagation of timber or the cutting of timber for public safety or personal use
+or the cutting of timber in accordance with the State Forest Practices Act provided there
+is no change in land use.
+(2)(3) The following public safety and health related projects:
+(a) Alteration, repair, or replacement of septic system tanks, lines and drainfields and
+related components due to system failure provided that no fill materials shall be placed
+within the SEC-wr, SEC-w, or SEC-s. This exception does not apply to permits required
+by a local, state or federal agency, including but not limited to permits required for
+ground disturbing activities within a water body regulated by the Oregon Department of
+State Lands, the U.S. Army Corps of Engineers or the Oregon Department of Fish and
+Wildlife.
+(b) The maintenance and repair of existing flood control facilities.
+(c) Customary dredging and channel maintenance and the removal or filling, or both, for
+the maintenance or reconstruction of structures such as dikes, levees, groins, riprap,
+drainage ditch, irrigation ditches and tile drain systems as allowed by ORS 196.9065 (6).
+(d) Response to emergencies pursuant to the provisions of MCC 39.6900 (Responses to
+and Emergency/Disaster Event), provided a Post Emergency Response permit is obtained
+within specified timelines listed in MCC 39.6900 (C) and any required mitigation work is
+completed in compliance with the approved permit.
+(3)(4) The following projects completed for or by a public agency or utility:
+(a) The placing, by a public agency, of signs, markers, aids, etc., to serve the public.
+(b) Right-of-way widening, new surfacing, and vegetation removal for existing rights-of-
+way when the additional right-of-way or surfacing or vegetation removal is deemed
+necessary by the County Engineer to meet the needs of the traveling public.
+(c) Utility poles necessary to provide service to the local area.
+
+Page | 8
+
+(d) The placement of public utility infrastructure such as pipes, conduits and wires within
+an existing right-of-way to provide service to individual properties and neighborhoods
+within unincorporated Multnomah County.
+(e) The expansion of capacity, or the replacement, of existing communication or energy
+distribution and transmission systems, except substations.
+(5) Activities to protect, conserve, enhance, and maintain public recreational, scenic, historical,
+and natural uses on public lands.
+(6) The expansion of capacity, or the replacement, of existing communication or energy
+distribution and transmission systems, except substations.
+(7) The maintenance and repair of existing flood control facilities.
+(4)(8) Change, alteration, or expansion of a lawfully established use or structure provided that:
+(a) Within the SEC, SEC-sw, and SEC-v, there is no change to, or alteration, or expansion of,
+the exterior of the structure;
+(b) Within the SEC-h, SEC-wr and SEC-s, there is no change to, or alteration or expansion
+of, the structure’s or a driveway’s ground coverage in excess of 400 square feet.  With respect
+to expansion, this exception does not apply on a project-by-project basis, but rather applies on
+a cumulative basis to all expansions occurring after the issuance of the original permit for the
+construction of the structure date above; and.
+(9) Type A Home Occupation.
+(5)(10) Type A, Type B or Type C Home Occupation in an existing building. This exemption
+includes including the addition of less than 400 square feet of ground coverage to the structure
+used for a Type B or Type C the Home Occupation within the SEC-h, SEC-wr and SEC-s. This
+exemption cannot be applied if the exception in (4) above has already been used.
+(11) Alteration, repair, or replacement of septic system tanks, lines and drainfields and related
+components due to system failure.
+(12) Utility poles necessary to provide service to the local area.
+(13) Right-of-way widening, new surfacing, and vegetation removal for existing rights-of-way
+when the additional right-of-way or surfacing or vegetation removal is deemed necessary by the
+County Engineer to meet the needs of the traveling public.
+(6)(14) The following resource enhancement projects that do not involve or are part of any
+property development:
+(a) Stream enhancement or restoration projects limited to removal by hand of invasive
+vegetation and planting of any native vegetation on the Metro Native Plant List.
+(b)(15) Enhancement or restoration of the riparian corridor for water quality or quantity
+benefits, or for improvement of fish and wildlife habitat, pursuant to a plan that does not
+include placement of buildings or structures and does not entail grading in an amount
+greater than 10 cubic yards. This exemption is applicable to plans that are approved by
+Soil and Water Conservation District, the Natural Resources Conservation District, or the
+Oregon Department of Fish and Wildlife under the provisions for a Wildlife and Habitat
+Conservation Plan, and submitted to the County.
+
+Page | 9
+
+(7)(16) In all SEC designations, a solar An accessory alternative energy system, including solar
+thermal and photovoltaic, that is installed on an existing building, provided that:
+(a) The installation of the solar energy system can be accomplished without increasing the
+footprint of the residential or commercial structure or the peak height of the portion of the
+roof on which the system is installed; and
+(b) The solar energy system would be mounted so that the plane of the system is parallel to
+the slope of the roof; and
+(c) The external surfaces of the solar energy system are designated as anti-reflective or have a
+reflectivity rating of eleven percent or less.
+(8)(17) One free standing renewable energy and heating system and its associated components up
+to 400 square feet of cumulative ground coverage including but not limited to solar (including
+solar panels), geothermal and wind generated systems, provided any conduit through the SEC-wr,
+SEC-s or SEC-w areas is provided by directional boring.
+(9)(18) Routine repair and maintenance of structures, roadways, driveways, utility facilities, and
+landscaped areas that are lawfully established were in existence prior to November 30, 2000.
+(19) Response to emergencies pursuant to the provisions of MCC 39.6900 (Responses to and
+Emergency/Disaster Event), provided that after the emergency has passed, adverse impacts are
+mitigated, provided a Post Emergency Response permit is obtained and any mitigation work
+completed.
+(10)(20) The following improvements, provided that if the property is within the SEC-v, the
+structure is a dark earthtone color or 100% screened from all IVAs:
+(a) Signs listed in MCC 39.6720 (A) through (F), MCC 39.6805 (Directional Signs), and
+MCC 39.6810 (Temporary Signs).
+(b)(21) Flag poles no taller than 35 feet above existing or finished grade (whichever is
+lower) designed to display national, state, or local recognized jurisdiction flags pursuant
+to the United States Flag Code or laws regulating the proper display of jurisdictional
+flags.
+(c)(22) Heating oil, propane and similar tanks up to 1,000 gallon capacity placed within
+100 feet of a lawfully existing structure provided any pipes crossing through SEC-s,
+SEC-wr, or SEC-w areas are provided by directional boring.
+(d)(23) Mechanical equipment such as heating and air conditioning units, heat pumps,
+ventilation and air filtration systems, electrical boxes, back-up power generators and
+energy storage systems, water pumps, and similar equipment placed within 100 feet of a
+lawfully existing structure provide any pipes or conduit crossing through the SEC-s or
+SEC-w areas are provided by directional boring.
+(e) Placement of antennas and satellite dishes on an existing lawfully established
+structure.
+(f) Concrete slabs, parking areas, and similar low profile structures no taller than 36
+inches above initial grade.
+(g) Any modification or alteration to an existing exterior wall of a lawfully established
+structure that will be 100% screened from all IVAs by the structure itself.
+
+Page | 10
+
+(24) The placement of utility infrastructure such as pipes, conduits and wires within an existing
+right-of-way.
+(25) In the West of Sandy River Planning Area the uses and structures excepted in MCC 39.5550
+(B) (1), (2), and (3).
+(26) Within the SEC-v:
+(a) Any modification or alteration to an existing exterior wall of a lawfully established
+structure that will be 100% screened from all IVAs by the structure itself.
+(b) Placement of antennas and satellite dishes on an existing lawfully established structure.
+(c) Concrete slabs, parking areas, and similar low profile structures no taller than 36 inches
+above initial grade.
+ (B) Farm use, as defined in ORS 215.203 (2) (a), including buildings and structures accessory to a
+farm use do not require an SEC permit except in the following situations:
+
+(1) Within the West of Sandy River Planning Area, an SEC-wr and/or SEC-sw permit is required
+for agricultural buildings, structures and development associated with farm practices and
+agricultural uses, except that agricultural fences shall not require an SEC-wr and/or SEC-sw
+permit.
+
+(2) Within Metro’s 2009 jurisdictional boundary, an SEC-s permit is required for agricultural
+buildings, structures and development associated with farm practices and agricultural uses, except
+that agricultural fences shall not require an SEC-s permit.
+
+Section 6. MCC 39.5520 is amended as follows:
+
+§ 39.5520 APPLICATION FOR SEC PERMIT.
+
+An application for an SEC permit for a use or for the change or alteration of an existing use on land
+designated SEC, shall address the applicable criteria for approval, under MCC 39.5540 through 39.5860.
+
+(A) An application for an SEC permit shall include the following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of MCC 39.5540 through 39.5860.
+
+(2) A map of the property showing:
+
+(a) Boundaries, dimensions, and size of the subject parcel;
+
+(b) Location and size of existing and proposed structures;
+
+(c) Contour lines and topographic features such as ravines or ridges;
+
+(d) Proposed fill, grading, site contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel, areas where
+vegetation will be removed, and location and species of vegetation to be planted,
+including landscaped areas;
+
+Page | 11
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) In the SEC-wr overlay, the location of natural drainageways, springs, seeps, and
+wetlands on the site.
+
+(3) The Planning Director may also require the applicant to provide the following:
+
+(a) The location of the SEC-wr boundary, topography, or the location of development as
+determined by a registered professional surveyor or engineer;
+
+ (b) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades and existing or proposed
+vegetation.
+
+(B) SEC-Water Resource: In addition to the information requirements listed above, the following
+information shall be submitted for applications within the SEC-wr overlay.
+
+(1) A topographic map of the development area and adjacent areas of the site at contour intervals
+of five feet or less showing a delineation of the Water Area or Habitat Area as determined by a
+documented field survey, the location of all existing and proposed watercourses, drainageways,
+stormwater facilities, and utility installations;
+
+(2) The location of wetlands;
+
+(3) Information for the site from the adopted West of Sandy River Wildlife Habitat and Stream
+Corridor ESEE Reports, the County Goal 5 Inventory;
+
+(4) Preparation of plans and surveys inventories, assessment of existing conditions, and
+mitigation or restoration plans shall be prepared by a qualified fish or wildlife biologist at the
+discretion of the Planning Director. Wetlands shall be identified and delineated by a qualified
+wetland specialist. as set forth in the 1987 Corp of Engineers Wetland Delineation Manual.
+Required reports include:
+
+(a) An assessment of the existing condition of the Water Resource Area in accordance
+with MCC 39.5580 Table 2, Riparian/Vegetated Corridor Standards;
+
+(b) An inventory of vegetation, including percentage ground and canopy coverage, and
+location of nuisance plants listed in MCC 39.5580 Table 1;
+
+(c) A detailed Mitigation Plan as described in 39.5800 (F), if required;
+
+(5) The applicant shall provide evidence that when federal or state requirements apply, that the
+agency has been contacted, and shall provide an assessment of whether the project can meet the
+requirements based on the agency response;
+
+(6) The location of all existing trees of a caliper greater than six (6) inches in diameter at breast
+height (DBH);
+
+(7) A description and map of soil types in the proposed development area and the locations and
+specifications for all proposed draining, filling, dredging, and vegetation removal, including the
+amounts and methods.
+
+Page | 12
+
+Section 7. MCC 39.5525 is amended as follows:
+
+§ 39.5525 APPLICABLE APPROVAL CRITERIA.
+
+ (A) The approval criteria that apply to uses in areas designated SEC-sw, SEC-v, SEC-w, SEC-s,
+SEC-wr, SEC-h on Multnomah County zoning maps shall be based on the type of protected resources on
+the property, as indicated by the subscript letter in the zoning designation, as follows:
+Zoning Overlay
+Designation
+Approval Criteria
+(MCC#)
+SEC 39.5540
+SEC-sw (scenic
+waterway) 39.5600
+SEC-v (scenic
+views) 39.5650
+SEC-w (wetlands) 39.5700
+SEC-s (streams) 39.5750
+SEC-wr (water
+resource) 39.5560 and 39.5800
+SEC-h (wildlife
+habitat)
+Type I Permit – 39.5850
+Type II Permit – 39.5560,
+39.5850, and 39.5860
+
+ (B) An application for a use on a property containing more than one protected resource shall address
+the approval criteria for all of the designated resources on the property. In the case of conflicting criteria,
+approval shall be based on the ability of the proposed development to comply as nearly as possible with
+the criteria for all designated resources that would be affected.
+ (C) For protected stream resources, the approval criteria shall be used to determine the most
+appropriate location, size and scope of the proposed development, in order to make the development
+compatible with the purposes of this Overlay, but shall not be used to prohibit a use or be used to require
+removal or relocation of existing physical improvements to the property. Any proposed development
+must comply with the approval criteria in order to be approved.
+
+§ 39.5530  SEC PERMIT - REQUIRED FINDINGS.
+
+A decision on an application for an SEC permit shall be based upon findings of consistency with the
+purposes of the SEC and with the applicable criteria for approval specified in MCC 39.5540 through
+39.5860.
+
+§ 39.5535  SCOPE OF CONDITIONS.
+
+Page | 13
+
+(A) Conditions of approval of an SEC permit, if any, shall be designed to bring the application into
+conformance with the applicable criteria of MCC 39.5540 through 39.5860 and any other requirements
+specified in the Goal 5 protection program for the affected resource. Conditions may relate, but are not
+limited to relating, to the locations, design, and maintenance of existing and proposed improvements,
+including but not limited to buildings, structures and use areas, parking, pedestrian and vehicular
+circulation and access, natural vegetation and landscaped areas, fencing, screening and buffering,
+excavations, cuts and fills, signs, graphics, and lighting, timing of construction and related activities, and
+mitigation.
+
+(B) Approval of an SEC permit shall be deemed to authorize associated public utilities, including energy
+and communication facilities.
+
+(C) The approval criteria for an SEC permit shall be used to determine the most appropriate location, size
+and scope of the proposed development in order to ensure that it meets the purposes of this Overlay, but
+shall not be used to deny economically viable use or be used to require removal or relocation of existing
+physical improvements to the property.
+
+§ 39.5540 CRITERIA FOR APPROVAL OF SEC PERMIT.
+
+The SEC designation shall apply to those significant natural resources, natural areas, wilderness areas,
+and cultural areas, and wild and scenic waterways that are designated SEC on the Multnomah County
+Zoning Map. Any proposed development, activity or use requiring an SEC permit shall meet / comply
+with be subject to the following:
+ (A) The maximum possible landscaped area, scenic and aesthetic enhancement, open space or
+vegetation shall be provided between any use and a river, stream, lake, or floodwater storage area.
+ (B) Agricultural land and forest land shall be preserved and maintained for farm and forest use.
+ (C) A building, structure, or use shall be located on a lot in a manner which will balance functional
+considerations and costs with the need to preserve and protect areas of environmental significance.
+ (D) Recreational needs shall be satisfied by public and private means in a manner consistent with the
+carrying capacity of the land and with minimum conflict with areas of environmental significance.
+ (E) The protection of the public safety and of public and private property, especially from vandalism
+and trespass, shall be provided to the maximum extent practicable.
+ (F) Significant fish and wildlife habitats shall be protected.
+ (G) The natural vegetation along rivers, lakes, wetlands and streams shall be protected and enhanced
+to the maximum extent practicable to assure scenic quality and protection from erosion, and continuous
+riparian corridors.
+ (H) Archaeological areas shall be preserved for their historic, scientific, and cultural value and
+protected from vandalism or unauthorized entry.
+ (I) Areas of annual flooding, floodplains, water areas, and wetlands shall be retained in their natural
+state to the maximum possible extent to preserve water quality and protect water retention, overflow, and
+natural functions.
+ (J) Areas of erosion or potential erosion shall be protected from loss by appropriate means.
+Appropriate means shall be based on current Best Management Practices and may include restriction on
+timing of soil disturbing activities.
+
+Page | 14
+
+ (K) The quality of the air, water, and land resources and ambient noise levels in areas classified SEC
+shall be preserved in the development and use of such areas.
+ (L) The design, bulk, construction materials, color and lighting of buildings, structures and signs shall
+be compatible with the character and visual quality of areas of significant environmental concern.
+ (M) An area generally recognized as fragile or endangered plant habitat or which is valued for
+specific vegetative features, or which has an identified need for protection of the natural vegetation, shall
+be retained in a natural state to the maximum extent possible.
+ (N) The applicable policies of the Comprehensive Plan shall be satisfied.
+
+Section 8. MCC 39.5545 is amended as follows:
+
+§ 39.552045 DEFINITIONS.
+
+For the purposes of the SEC Overlays section of the Multnomah County Zoning Code (Chapter 39), the
+following definitions apply.
+
+Development: Any human-made change defined as buildings or other structures, mining, dredging,
+paving, filling, or grading in amounts greater than ten (10) cubic yards on any lot or excavation.  Any
+other activity that results in the removal of more than 10 percent of the existing vegetation in the Water
+Resource Area or Habitat Riparian Area on a lot or parcel.
+Developed Area: An area(s) of land associated with and/or dedicated to the primary use of a property
+and/or accessory use(s) including, but not limited to lawns, open spaces, structures, buildings, driveways,
+and other development.
+Forested Area: An area that has at least 75 percent crown closure, or 80 square feet of basal area per
+acre, of trees 11 inches DBH and larger, or an area which is being reforested pursuant to Forest Practice
+Rules of the Oregon Department of Forestry.
+Identified Viewing Areas: Public areas that provide important views of a significant scenic resource, and
+include both sites and linear corridors. The Identified Viewing Areas are:
+
+Bybee-Howell House
+
+Virginia Lakes
+
+Sauvie Island Wildlife Refuge
+
+Kelley Point Park
+
+Smith and Bybee Lakes
+
+Highway 30
+
+The Multnomah Channel
+
+The Willamette River
+
+Public roads on Sauvie Island.
+
+Page | 15
+
+Native plants: Native plants are those listed in the latest edition of the Metro Native Plant List, or
+deemed equivalent by the Planning Director.
+Non-Forested Area: An area which does not meet the definition of a forested area, as defined in MCC
+39.5520, and which is not being reforested pursuant to a forest management plan.
+Nuisance, and invasive non-native plants and native plants: Nuisance and invasive non-native plants
+include the those plants listed in the latest edition of the Metro Nuisance Plant List, and the Prohibited
+Plant List, and include those plants listed in the latest edition of the State of Oregon Noxious Weed List,
+or deemed equivalent by the Planning Director in consultation with a native plan authority or specialist.
+Native plants are those listed in the latest edition of the Metro Native Plant List.
+Practicable, Practical: As in No Practicable Alternative. Available and capable of being done after
+taking into consideration cost, existing technology, and logistics in light of overall project purposes.
+Protected Streams: Those streams which have been evaluated through a Goal 5 ESEE analysis and
+protected by Ordinance and those streams and wetlands mapped by Metro’s Title 13 as Habitat
+Conservation Areas as modified through the planning process are designated SEC-s on the Multnomah
+County Zoning Maps.
+
+Riparian Area: Those waterbodies, streams, wetlands, etc. protected by the SEC-wr and SEC-s Overlay
+designations. The Riparian Area includes the actual feature.
+
+Service Corridor: The entire length of the accessway and/or driveway measured from the public road to
+the proposed building or structure, parking areas, and circular turnarounds used to provide vehicle access
+to a building or use.
+
+Significant Environmental Concern Overlays (SEC Overlays): Those land areas identified in MCC
+39.5505 with zoning overlay designations areas designated on the Multnomah County Zoning Maps are
+land areas designated to protect, conserve, enhance, restore, and maintain significant natural and human-
+made features which are of public value, including among other things, river corridors, streams, lakes and
+islands, domestic water supply watersheds, flood water storage areas, natural shorelines and unique
+vegetation, wetlands, wildlife and fish habitats, significant geological features, tourist attractions,
+archaeological features and sites, and scenic views and vistas.
+
+Significant Scenic Views: Those areas designated SEC-v on Multnomah County Zoning Map.
+
+Significant Scenic Waterways (SEC-sw): Land areas that are contained within the Sandy River Scenic
+Waterway as shown on the zoning maps adopted on (September 6, 1977, Ord. 149).
+
+Significant Water Resources (SEC-wr): Protected water features, riparian/vegetated corridors and the
+adjacent impact areas, that are identified as significant resources in the Goal 5 Inventory, and as
+established by these definitions, are the areas included within the SEC-wr Overlay.
+Protected Water Features shall include:
+(1) Wetlands that provide a water quality benefit - Wetlands of metropolitan concern as shown on the
+Metro Water Quality and Flood Management Area Map and other wetlands which meet any one of
+the following criteria. Wetlands do not include artificially constructed and managed stormwater and
+water quality treatment facilities.
+
+Page | 16
+
+(a) The wetland is fed by surface flows, sheet flows or precipitation, and has evidence of flooding
+during the growing season, and has 60 percent or greater vegetated cover, and is over one-half
+acre in size;
+(b) The wetland qualifies as having "intact water quality function" under the 1996 Oregon Fresh
+water Wetland Assessment Methodology;
+(c) The wetland is in the Flood Management Area, and has evidence of flooding during the
+growing season, and is five acres or more in size, and has a restricted outlet or no outlet;
+(d)  The wetland qualifies as having "intact hydrologic control function" under the 1996 Oregon
+Freshwater Wetland Assessment Methodology; or
+(e)  The wetland or a portion of the wetland is within a horizontal distance of less than one-fourth
+mile from a water body which meets the Department of Environmental Quality definition of
+"water quality limited water body" in OAR Chapter 340, Division 41 (1996).
+(2) Rivers, streams, and drainages downstream from the point at which 50-acres or more are drained
+to the water feature (regardless of whether it carries year-round flow); and
+(3) Streams carrying year-round flow; and
+(4) Streams designated as significant in the Goal 5 inventory; and
+(5) Springs which feed stream and wetlands and have year-round flow; and
+(6) Natural lakes.
+Riparian/Vegetated Corridors and Impact Area:
+
+(1) The width of the riparian/vegetated corridor for all Protected Water Features varies and shall be as
+depicted on the Multnomah County Zoning Maps and is measured from the top of bank.
+
+Significant Wildlife Habitats (SEC-h): Includes nonriparian and nonwetland natural resource sites that
+contain habitat values such as wooded areas and areas with rare or endangered flora and fauna, as
+identified by the Goal 5 Inventory.  Habitat areas include the significant Goal 5 habitat resource and a 25
+foot buffer to protect the root zone of the vegetation.  The boundaries of Significant Wildlife Habitats,
+which are designated as SEC-h, are established by the Goal 5 Natural Resource Inventory and include:
+(1) Those areas identified on the Multnomah County Zoning maps as "Riparian Corridor/Wildlife
+Habitat and Impact Area" that do not otherwise meet the definition of Significant Water Resources in
+MCC 39.5520; and
+(2) Those areas identified on the Multnomah County Zoning maps as "Isolated Upland Wildlife
+Habitat" that do not otherwise meet the definition of Significant Water Resources in MCC 39.5520.
+Significant Wetlands: Those areas designated SEC-w on the Multnomah County Zoning Map and
+Significant wetlands consist of those areas designated as Significant on aerial photographs of a scale of 1
+inch = 200 feet made a part of the supporting documentation of the Comprehensive Plan.
+
+Stream Conservation Area: For the protected streams originally designated by Ordinance, the Stream
+Conservation Area designated on the zoning maps as SEC-s is an area extending upslope from and
+perpendicular to the centerline on both sides of a protected stream. The width of the Stream Conservation
+Area varies and shall be as depicted on the Multnomah County Zoning Maps and is from the centerline on
+both sides of the protected stream for the width of the mapped Overlay.
+
+Page | 17
+
+Top of Bank: The same as "bankfull stage" which means the stage or elevation at which water overflows
+the natural banks of streams or other waters of this state and begins to inundate the upland. In the absence
+of physical evidence, the two-year recurrence interval flood elevation may be used to approximate the
+bankfull stage.
+
+Visually Subordinate: The subject development does not noticeably contrast with the surrounding
+landscape, as viewed from an identified viewing area. Development that is visually subordinate may be
+visible, but is not visually dominant in relation to its surroundings.
+
+Within: The term “within” shall mean at least 75% of the entire development (building, physical
+improvements, landscaping, yards, septic system, etc.) shall be no further than the required distance from
+a public road allowed in the SECO code provisions.
+
+Section 9. MCC 39.5550 is amended as follows:
+
+5.H.2 – SEC STANDARDS APPLICABLE IN THE WEST OF SANDY RIVER AREA
+ONLY
+
+§ 39.5550 EXISTING USES THE WEST OF SANDY RIVER RURAL AREA.
+
+(A) Uses that legally existed in the West of Sandy River Planning Area on January 1, 2003, that are not
+included as Exceptions in MCC 39.5515, may utilize the provisions of this section. This section is
+intended to define the circumstances under which existing development can be improved or replaced
+under limited requirements in recognition of the preexisting status. The SEC provisions are also not
+intended to make existing uses nonconforming. However, approval of proposals for alteration of uses that
+were non-conforming prior to January 1, 2003, must obtain an SEC permit in addition to demonstrating
+compliance with the non-conforming use provisions of MCC 39.8300 through 39.8315.
+
+(B) Change, expansion, or alteration of existing uses in the West of Sandy River Planning Area shall
+require an SEC permit as provided in MCC 39.5500 through 39.5860, except for changes to a structure as
+described in subsections (1) through (3) below:
+
+(1) In areas subject to the provisions of the SEC-sw, change, or alteration of existing uses which do
+not require any modification to the exterior of the structure;
+
+(2) Within the SEC-wr and SEC-h, addition of less than 400 square feet of ground coverage to the
+structure. This provision is intended to allow a maximum of 400 square feet of additional coverage to
+the structure that existed on January 1, 2003; and
+
+(3) Within the SEC-h overlay, alteration or expansion of 400 square feet or less of such driveway.
+
+(C) Replacement or restoration of existing structures in the West of Sandy River Planning Area that were
+unintentionally destroyed by fire or other casualty, or natural disaster within the same foundation lines
+shall not require an SEC permit. The redevelopment must be commenced within one year from the date of
+the loss, and may include an addition of a maximum 400 square feet of ground coverage. Structures
+which are expanded up to 400 square feet under this provision, may not subsequently expand under the
+provision in subsection (A)(2) above.
+
+Page | 18
+
+(D) Within the SEC-wr, lawfully established structures in the West of Sandy River Planning Area that do
+not meet the casualty loss provisions of subsection (B) above may be replaced within the same foundation
+lines or area of ground coverage when the entire remaining vegetated corridor on the project site, or the
+first 50 feet closest to the stream, or an area equal to the ground coverage of the building and attached
+structures and paved areas, whichever is less, is enhanced to "good" condition pursuant to MCC 39.5800
+Table 2. Replacement shall be processed as a Type II review.
+
+(E) If development under this section is proposed to be located closer to a protected water feature,
+approval of a permit under the provisions of MCC 39.5520 through 39.5800 shall be obtained.
+
+Section 10. MCC 39.5555 is amended as follows:
+
+§ 39.5555 BUILDABLE LOT ENCROACHMENT IN THE WEST OF SANDY RIVER
+PLANNING AREA.
+
+In the West of Sandy River Planning Area, where a parcel is partially or wholly inside the SEC-wr
+Overlay Zone, the property owner may apply for encroachment in lieu of meeting the requirements in
+MCC 39.5800(A), (B), or (C) for development in the SEC- wr. The applicant shall demonstrate that:
+
+(A) Without the proposed encroachment, the owner would be denied economically viable use of the
+subject property. To meet this criterion, the applicant must show that no other application could result in
+approval of an economically viable use of the subject property. Evidence to meet this criterion shall
+include a list of uses allowed on the subject property.
+
+(B) The proposed encroachment is the minimum necessary to allow for the requested use, however not
+more than 1 acre of the site, including access roads and driveways, and areas necessary for utilities and
+facilities, is disturbed;
+
+(C) The proposed encroachment will comply with MCC 39.5800 (E) Mitigation; and
+
+(D) The proposed use complies with the standards of the base zone.
+
+Section 11. MCC 39.5560 is amended as follows:
+
+§ 39.5560 GENERAL REQUIREMENTS FOR APPROVAL IN THE WEST OF SANDY
+RIVER PLANNING AREA DESIGNATED AS SEC-WR OR SEC-H.
+
+The requirements in this section shall be satisfied for development in the SEC-wr and SEC-h areas
+located in the West of Sandy River Planning Area in addition to the provisions of MCC 39.5800 or
+39.5860 as applicable.
+
+(A) Areas of erosion or potential erosion shall be protected from loss by appropriate means. Appropriate
+means shall be based on current Best Management Practices and may include restriction on timing of soil
+disturbing activities.
+
+(B) Outdoor lighting shall be of a fixture type and shall be placed in a location so that it does not shine
+directly into undeveloped water resource or habitat areas. Where illumination of a water resource or
+habitat area is unavoidable, it shall be minimized through use of a hooded fixture type and location. The
+location and illumination area of lighting needed for security of utility facilities shall not be limited by
+this provision.
+
+Page | 19
+
+(C) The nuisance plants in MCC 39.554080 Table 1, in addition to the nuisance plants defined in MCC
+39.2000, shall not be used as landscape plantings within the SEC-wr and SEC-sh Overlay Zone.
+
+Section 12. MCC 39.5525 is amended as follows:
+
+§ 39.5525 REPLACEMENT OR RESTORATION OF STRUCTURES IN ALL SEC
+OVERLAYS
+
+(A) In all SEC Overlays, when a lawfully established structure is destroyed by fire, natural disaster, or
+other casualty, an SEC Overlays permit(s) is not required when the following standards are met:
+
+(1) The structure is replaced within 75% of the same foundation lines, or
+
+(2) The structure is replaced within 75% of the same foundation lines, and the structure’s total
+ground coverage is unchanged or expanded by a maximum of 400 square feet. Structures which
+are expanded under this provision may not subsequently expand under the provision in MCC
+39.5515 (A)(4). Other existing physical improvements shall not be modified under this exception;
+
+(3) Any nuisance and invasive non-native plants, as defined in MCC 39.5520, are removed from
+within the developed area.
+
+(B) In the SEC overlays identified below, the following additional requirements shall apply:
+
+(1) In the SEC-v, SEC (East of Sandy River Area), and SEC-sw Overlays, the height of the structure
+shall not be increased beyond the original structure height.
+
+5.H.3 – SEC STANDARDS APPLICABLE IN THE URBAN PLANNING AREA ONLY
+
+§ 39.5570 EXISTING USES IN THE URBAN PLANNING AREA.
+
+(A) Uses that legally existed in the Urban Planning Area on January 7, 2010, that are not included as
+Exceptions in section MCC .39.5515, may utilize the provisions of this section. This section is intended to
+define the circumstances under which existing development can be improved or replaced under limited
+requirements in recognition of the preexisting status. The SEC provisions are also not intended to make
+existing uses non-conforming. However, approval of proposals for alteration of uses that were non-
+conforming prior to the applicable SEC ordinance date, must obtain an SEC permit in addition to
+demonstrating compliance with the non-conforming use provisions of MCC 39.8300 through 39.8315.
+
+(B) Change, expansion, or alteration of existing uses in the Urban Planning Area shall require an SEC
+permit as provided in MCC 39.5500 through 39.5860, except for changes to a structure as described in
+subsections (1) or (2) below;
+
+(1) In areas subject to the provisions of the SEC Overlay, change, or alteration of existing uses
+which do not require any modification to the exterior of the structure;
+
+(2) Within the SEC-wr and SEC-h - addition of less than 400 square feet of ground coverage to
+the structure. This provision is intended to allow a maximum of 400 square feet of additional
+coverage to the structure that existed on January 7, 2010.
+
+Page | 20
+
+(C) In the Urban Planning Area replacement or restoration of existing structures that were unintentionally
+destroyed by fire or other casualty, or natural disaster within the same foundation lines shall not require
+an SEC permit. The redevelopment must be commenced within one year from the date of the loss, and
+may include addition of a maximum 400 square feet of ground coverage. Structures which are expanded
+up to 400 square feet under this provision, may not subsequently expand under the provision in subsection
+(A)(2) above.
+
+(D) In the Urban Planning Area within the SEC-wr, lawfully established structures that do not meet the
+casualty loss provisions of subsection (B) above may be replaced within the same foundation lines or area
+of ground coverage when the entire remaining vegetated corridor on the project site, or the first 50 feet
+closest to the stream, or an area equal to the ground coverage of the building and attached structures and
+paved areas, whichever is less, is enhanced to "good" condition pursuant to MCC 39.5800 Table 2.
+Replacement shall be processed as a Type II review.
+
+(E) If development under this section is proposed to be located closer to a protected water feature,
+approval of a permit under the provisions of MCC 39.5520 through 39.5800 shall be obtained.
+
+Section 13. MCC 39.5530 is amended as follows:
+
+§ 39.5530 SEC PERMIT CRITERIA (SIGNIFICANT ENVIRONMENTAL CONCERN)
+
+(A) Decision Review Process
+
+(1) Applications shall meet all of the criteria in MCC 39.5530 (B) through (C) and shall be processed
+through the Type II review procedure.
+
+(a) Properties designated with the SEC Overlay along the Sandy River in the East of Sandy River
+rural area, shall be subject to the approval criteria listed in MCC 39.5560 in lieu of the approval
+criteria in MCC 39.5530 (C) below.
+
+(B) Application Submittal Requirements.An All applications for an SEC permit shall include the
+following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of MCC 39.5530 (C) below.
+
+(2) A scaled site plan of the property showing:
+
+(a) Property lines;
+
+(b) Location and size of all existing and proposed buildings and structures;
+
+(c) Contour lines and topographic features such as ravines or ridges (contour lines no
+greater than 10 feet);
+
+(d) Boundaries of ground disturbing activities, including proposed fill, excavating, site
+contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel (wooded
+areas), areas where vegetation will be removed, and location and species of vegetation to
+be planted, including landscaped areas;
+
+Page | 21
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) Location of natural drainageways, springs, seeps, water bodies and wetlands on the
+site.
+
+(h) Location of wells, utility lines, stormwater drainage control system, sanitary tanks and
+drainfields (primary and reserve).
+
+(i) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades, and existing or proposed
+vegetation;
+
+(3) The Planning Director may also require the applicant to provide additional information,
+beyond that listed in this section such as a report prepared by an appropriate subject matter
+expert, where needed to address relevant approval criteria.
+
+(C) SEC Permit Approval Criteria
+
+The SEC designation shall apply to those significant natural resources, natural areas, wilderness areas,
+and cultural areas that are designated SEC on the Multnomah County Zoning Map. Any proposed
+development, activity or use requiring an SEC permit shall meet/ comply with the following:
+(1) The maximum possible landscaped area, scenic and aesthetic enhancement, open space or
+vegetation shall be provided between any use and a river, stream, lake, or floodwater storage area.
+(2) Agricultural land and forest land shall be preserved and maintained for farm and forest use.
+(3) A building, structure, or use shall be located on a lot in a manner which will balance functional
+considerations and costs with the need to preserve and protect areas of environmental significance.
+(4) Significant fish and wildlife habitats shall be protected.
+(5) The natural vegetation along rivers, lakes, wetlands and streams shall be protected and enhanced
+to the maximum extent practicable to assure scenic quality and protection from erosion, and
+continuous riparian corridors.
+(6) Archaeological areas shall be preserved for their historic, scientific, and cultural value and
+protected from vandalism or unauthorized entry.
+(7) Areas of annual flooding, floodplains, water areas, and wetlands shall be retained in their natural
+state to the maximum possible extent to preserve water quality and protect water retention, overflow,
+and natural functions.
+(8) Areas of erosion or potential erosion shall be protected from loss by appropriate means.
+Appropriate means shall be based on current Best Management Practices and may include restriction
+on timing of soil disturbing activities.
+(9) The quality of the air, water, and land resources and ambient noise levels in areas classified SEC
+shall be preserved in the development and use of such areas.
+(10) The design, bulk, construction materials, color and lighting of buildings, structures and signs
+shall be compatible with the character and visual quality of areas of significant environmental
+concern.
+
+Page | 22
+
+(11) An area generally recognized as fragile or endangered plant habitat or which is valued for
+specific vegetative features, or which has an identified need for protection of the natural vegetation,
+shall be retained in a natural state to the maximum extent possible.
+(12) The applicable policies of the Comprehensive Plan shall be satisfied.
+
+Section 14. MCC 39.5540 is amended as follows:
+
+§ 39.5540 SEC-h PERMIT CRITERIA (SIGNIFICANT WILDLIFE HABITATS)
+
+(A) Decision Review Process
+
+(1) Applications that meet all of the criteria in MCC 39.5540 (C) below, shall be processed through
+the Type I review procedure. A mitigation plan pursuant to subsection (D) below is not required.
+
+(2) Applications that do not meet all of the criteria in MCC 39.5540 (C) below, shall be processed
+through the Type II review procedure. A mitigation plan pursuant to subsection (D) below is
+required.
+
+(B) Application Submittal Requirements.An All applications for an SEC-h permit shall include the
+following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of MCC 39.5540 (C) and (D)39.5540 through 39.5860.
+
+(2) A scaled site plan of the property showing:
+
+(a) Boundaries, dimensions, and size of the subject parcel Property lines;
+
+(b) Location and size of all existing and proposed structures; and all existing and proposed type
+and location of all fencing on the subject property and on adjacent properties and on properties
+entirely or partially within 200 feet of the subject property.
+
+(c) Contour lines and topographic features such as ravines or ridges (contour lines not greater
+than 10 feet);
+
+(d) Boundaries of ground disturbing activities, including pProposed fill, excavating grading, site
+contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel (wooded areas), areas
+where vegetation will be removed, and location and species of vegetation to be planted, including
+landscaped areas;
+
+(f) Location and width of existing and proposed public roads, private access roads, driveways,
+and service corridors on the subject parcel and within 200 feet of the subject parcel's boundaries
+on all adjacent parcels;
+
+(g) Location of all existing forested areas (including areas cleared pursuant to an approved forest
+management plan) and non-forested "cleared" areas; For the purposes of this section, a forested
+area is defined as an area that has at least 75 percent crown closure, or 80 square feet of basal area
+per acre, of trees 11 inches DBH and larger, or an area which is being reforested pursuant to
+
+Page | 23
+
+Forest Practice Rules of the Department of Forestry. A non-forested "cleared" area is defined as
+an area which does not meet the description of a forested area and which is not being reforested
+pursuant to a forest management plan;
+
+(h) Location of wells, utility lines, stormwater drainage control systems, sanitary tanks and
+drainfields (primary and reserve);
+
+(i) A scaled drawing of the building design and elevations that show the relationship between the
+building and existing and finished grades and existing or proposed vegetation;
+
+(3) The Planning Director may also require the applicant to provide additional information, beyond
+that listed in this section such as a report prepared by an appropriate subject matter expert, where
+needed to address relevant approval criteria.
+
+(C) SEC-h Permit Approval Criteria
+
+(1) Development Standards
+
+(a) Where a parcel contains any non-forested "cleared" areas within 200 feet of a public road,
+development shall only occur in these areas, except as necessary to provide access and to meet
+minimum clearance standards for fire safety.
+
+(b) Development shall occur within 200 feet of a public road capable of providing reasonable
+practical access to the developable portion of the site.
+
+(c) The access road/driveway and service corridor serving the development shall not exceed 500
+feet in length.
+
+(d) The development shall be within 300 feet of a side property line if adjacent property has
+structures and developed areas within 200 feet of that common side property line.
+
+(e) Nuisance and invasive non-native plants, as defined in MCC 39.5540 shall not be planted on
+the subject property and shall be removed and kept removed from cleared areas of the subject
+property.
+
+(f) The proposed development shall meet the applicable stormwater and ground disturbing
+activity requirements of MCC 39.6200 through 39.6235. Ground disturbing activity within 100
+feet of a water body as defined by MCC 39.2000 shall be limited to the period between May 1st
+and September 15th. Revegetation and soil stabilization must be accomplished no later than
+October 15th.
+
+(g) Outdoor lighting shall be of a hooded fixture type and shall be placed in a location so that it
+does not shine directly into undeveloped habitat areas. Where illumination of habitat area is
+unavoidable, it shall be minimized through use of limited lumens with a hooded fixture type and
+proper placement. The location and illumination area of lighting needed for security of public
+utility facilities shall not be limited by this provision but should be done in a minimalistic
+manner.
+
+(D) Mitigation Plan Criteria
+
+(1) Mitigation Plan Requirements. An applicant shall propose a mitigation plan that provides
+mitigation activities and plantings as outlined in subsection (2) or (3) below. The mitigation area shall
+
+Page | 24
+
+first be located within any existing non-forested cleared areas contiguous to forested areas, second
+within any degraded stream riparian areas and last in forested areas or adjacent to landscaped yards.
+
+(2) Additions to Lawfully Established Buildings / Structures: The applicant may utilize the
+following mitigation measures for additions to lawfully established buildings and structures
+instead of mitigation plan:
+
+(a) Each tree removed to construct the proposed development shall be replaced on a one to one
+ratio with a six foot tall native tree.
+
+(b) For each 100 square feet of new building area, the property owner shall plant, one, 3-4 foot
+tall native tree or three native tree seedlings. The trees shall be planted to improve wildlife habitat
+first within non-forested cleared areas contiguous to forested areas, second within any degraded
+stream riparian areas before being placed in forested areas or adjacent to landscaped yards.
+
+(c) All exterior lighting on the property is brought into compliance with the (C)(1)(g) above.
+
+(d) For non-forested “cleared” areas that require nuisance and invasive non-native plant removal
+pursuant to (C)(1)(e) above, the property owner shall set a specific date for the work to be
+completed and the area replanted with native vegetation. The time frame must be within two
+years from the date of the permit.
+
+(3) New Buildings, Structures, and Development: The mitigation plan must demonstrate the
+following:
+
+(a) That measures are included in order to reduce impacts to forested areas to the minimum
+necessary to serve the proposed development by restricting the amount of clearance and
+length/width of cleared areas and disturbing the least amount of forest canopy cover.
+
+(b) That any newly cleared area associated with the development is not greater than one acre,
+excluding from this total the minimum area required for fire accessway purposes.
+
+(c) That no fencing will be built and existing fencing will be removed outside of areas cleared for
+the site development except for existing cleared areas used for agricultural purposes.
+
+(d) Mitigation areas
+
+(i) All trees, shrubs and ground cover shall be native plants selected from the Metro
+Native Plant List:
+
+(ii) Native trees and shrubs shall be planted at a rate of one (1) tree and one (1) shrub for
+every 100 square feet of development / disturbance area. Bare ground shall be planted or
+seeded with perennial native grasses or herbs.
+
+(iii) All vegetation shall be planted within the mitigation area located on the same Lot of
+Record as the development and shall be located within the SEC-h Overlay or in an area
+contiguous to the SEC-h Overlay.
+
+1. If the vegetation is planted in an area contiguous to the SEC-h Overlay, then
+the applicant shall preserve the contiguous area by executing a deed restriction,
+through a restrictive covenant.
+
+(e) That nNative soils disturbed during development will be conserved on the property.
+
+Page | 25
+
+(f) Plant size. Mitigation trees shall be at least one-half inch in caliper, measured at 6 inches
+above the ground level for field grown trees or above the soil line for container grown trees (the
+one-half inch minimum size may be an average caliper measure, recognizing that trees are not
+uniformly round).
+
+(i) If using oak or madrone trees, the planting size may be one gallon. Shrubs shall be in
+at least a 1-quart container or the equivalent in ball and burlap and shall be at least 6
+inches in height.
+
+(g) Plant spacing. Trees shall be planted between 8 and 12 feet on center and shrubs shall be
+planted between 4 and 5 feet on-center, or clustered in single species groups of no more than four
+(4) plants, with each cluster planted between 8 and 10 feet on-center.
+
+(i) When planting near existing trees, the drip line of the existing tree shall be the starting
+point for plant spacing measurements.
+
+(h) Plant diversity. Shrubs shall consist of at least two (2) different species. If 10 trees or more are
+planted, then no more than 50% of the trees may be of the same genus.
+
+(E) Required Conditions of Approval for all SEC-h Permits
+
+(1) An erosion and sediment control plan shall be prepared in compliance with the ground
+disturbing activity standards set forth in MCC 39.6200 through MCC 39.6235.
+
+(2) Prior to development, all work areas shall be flagged, fenced, or otherwise marked to reduce
+potential damage to habitat outside of the work area. The work area shall remain marked through
+all phases of development.
+
+(3) Trees shall not be used as anchors for stabilizing construction equipment.
+
+(4) The planting date for the mitigation area shall occur within one year following the approval of
+the application.
+
+(5) Any nuisance and invasive non-native plants, as defined in MCC 39.5520, listed in MCC
+39.5580 Table 1 shall be removed within the mitigation area prior to planting.
+
+(6) Monitoring and reporting. Monitoring of the mitigation site is the ongoing responsibility of
+the property owner. A Yearly Report shall be provided to Multnomah County Land Use Planning
+for a period of five years, unless the Planning Director requires a longer reporting period.
+
+(a) Plants that die shall be replaced in kind so that a minimum of 80% of the trees and
+shrubs planted shall remain alive on the fifth anniversary of the date that the mitigation
+planting is completed.
+
+(b) Mitigation plantings shall be maintained and shall not be removed from the property
+without contacting Multnomah County Land Use Planning and receiving written approval
+to amend the Mitigation Plan.
+
+Section 15. MCC 39.5575 is amended as follows:
+
+Page | 26
+
+§ 39.5575 GENERAL REQUIREMENTS FOR APPROVAL IN THE URBAN PLANNING
+AREA DESIGNATED AS SEC-WR.
+
+The requirements in this section shall be satisfied for development in the SEC-wr areas located in the
+Urban Planning Area in addition to the provisions of MCC 39.5800 as applicable.
+
+(A) Areas of erosion or potential erosion shall be protected from loss by appropriate means. Appropriate
+means shall be based on current Best Management Practices and may include restriction on timing of soil
+disturbing activities.
+
+(B) Outdoor lighting shall be of a fixture type and shall be placed in a location so that it does not shine
+directly into undeveloped water resource or habitat areas. Where illumination of a water resource or
+habitat area is unavoidable, it shall be minimized through use of a hooded fixture type and location. The
+location and illumination area of lighting needed for security of utility facilities shall not be limited by
+this provision.
+
+(C) The nuisance plants in MCC 39.5580 Table 1, in addition to the nuisance plants defined in MCC
+39.2000, shall not be used as landscape plantings within the SEC-wr and SEC-h Overlay Zone.
+
+Section 16. MCC 39.5585 is amended as follows:
+
+5.H.4 –  NUISANCE PLANT LIST
+
+§ 39.5585 NUISANCE PLANT LIST.
+
+Section 17. MCC 39.5600 is amended as follows:
+
+§ 39.55605600 SEC-sw PERMIT CRITERIA (SIGNIFICANT SCENIC WATERWAYS).
+
+(A) Decision Review Process
+
+(1) Applications that meet all of the following criteria shall be processed through the Type I
+review procedure:
+
+(a) The proposed building is no taller than 24 feet to top of ridgeline.
+(b) Dark earthtone colors are used on the exterior siding, trim and doors.
+(c) Building siding, roofing, windows and trim use low or non-reflective materials.
+Windows are low-e or better and have a reflectivity rating of 13 percent or less.
+(d) No more than 25 percent of the building elevation facing the Scenic Waterway is in
+glass.
+(e) All existing and proposed exterior lighting meets the Dark Sky Lighting Standards of
+MCC 39.6850. Shielding and hooding materials should be composed of nonreflective,
+opaque materials.
+
+Page | 27
+
+(f) The proposed building and ground disturbance are screened by existing on-site
+vegetation from the Scenic Waterway.
+(g)  The application for the SEC-sw permit shall include a letter from the Oregon Parks
+and Recreation Department indicating that the proposed development has been reviewed
+and is, or can be, consistent with the provisions of the Oregon Scenic Waterways
+Management Plan.
+(2) Applications that do not satisfy the criteria in subsection (1) above, shall meet all of the
+criteria in MCC 39.5560 (C) and shall be processed through the Type II review procedure.
+
+(B) Application Submittal Requirements.An All applications for an SEC-sw permit shall include the
+following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of MCC 39.5560 (C).
+
+(2) A scaled site plan of the property showing:
+
+(a) Property lines;
+
+(b) Location and size of all existing and proposed buildings and structures;
+
+(c) Contour lines and topographic features such as ravines or ridges (contour lines no
+greater than 10 feet);
+
+(d) Boundaries of ground disturbing activities, including proposed fill, grading
+excavating, site contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel (wooded
+areas), areas where vegetation will be removed, and location and species of vegetation to
+be planted, including landscaped areas;
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) Location of natural drainageways, springs, seeps, water bodies and wetlands on the
+site.;
+
+(h) Location of wells, utility lines, stormwater disposal system, sanitary tanks and
+drainfields (primary and reserve);
+
+(i) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades and existing or proposed
+vegetation;
+
+(3) The Planning Director may also require the applicant to provide additional information,
+beyond that listed in this section such as a report prepared by an appropriate subject matter
+expert, where needed to address relevant approval criteria.
+
+(C) SEC-sw Permit Approval Criteria.
+Any proposed development, activity or use requiring an SEC-sw permit shall comply with the following:
+
+Page | 28
+
+Except as otherwise provided in this Subpart, all development within the SEC-sw shall be subject to the
+following:
+(1) The application for the SEC-sw permit shall include a letter from the Oregon Parks and
+Recreation Department indicating that the proposed development has been reviewed and is, or can be,
+consistent with the provisions of the Oregon Scenic Waterways Management Plan.
+(2) The maximum possible landscaped area, scenic and aesthetic enhancement, open space or
+vegetation shall be provided between any use and a river, stream, lake, or floodwater storage area.
+(3) Agricultural land and forest land shall be preserved and maintained for farm and forest use.
+(4) A building, structure, or use shall be located on a lot in a manner which will balance functional
+considerations and costs with the need to preserve and protect areas of environmental significance.
+(5) The natural vegetation along rivers, lakes, wetlands and streams shall be protected and enhanced
+to the maximum extent practicable to assure scenic quality and protection from erosion
+(6) Archaeological areas shall be preserved for their historic, scientific, and cultural value and
+protected from vandalism or unauthorized entry.
+(7) Areas of erosion or potential erosion shall be protected from loss by appropriate means.
+Appropriate means shall be based on current Best Management Practices and may include restriction
+on timing of soil disturbing activities.
+(8) The design, bulk, construction materials, color and lighting of buildings, structures and signs shall
+be compatible with the character and visual quality of areas of significant environmental concern.
+(9) An area generally recognized as fragile or endangered plant habitat or which is valued for specific
+vegetative features, or which has an identified need for protection of the natural vegetation, shall be
+retained in a natural state to the maximum extent possible.
+
+Section 18. MCC 39.5570 is amended as follows:
+
+5.H.6 – SIGNIFICANT SCENIC VIEWS (SEC-v)
+
+§ 39.5570 SEC-v PERMIT CRITERIA (SIGNIFICANT SCENIC VIEWS)
+
+(A) Decision Review Process
+
+(1) Applications that meet all of the following criteria shall be processed through the Type I
+review procedure:
+
+(a) The proposed building is no taller than 24 feet to top of ridgeline.
+(b) Dark earthtone colors are used on the exterior siding, trim and doors facing an
+Identified Viewing Area.
+(c) Building siding, roofing, windows and trim use low or non-reflective materials.
+Windows are low-e or better and have a reflectivity rating of 13 percent or less.
+(d) No more than 25 percent of the building elevation facing an Identified Viewing Area
+is in glass.
+
+Page | 29
+
+(e) All existing and proposed exterior lighting meets the Dark Sky Lighting Standards of
+MCC 39.6850. Shielding and hooding materials should be composed of nonreflective,
+opaque materials.
+(f) The proposed building and ground disturbance are screened by existing on-site
+vegetation or are topographically not visible from an Identified Viewing Area as mapped
+by the County.
+(2) Applications that do not meet the criteria in subsection (1) above, shall meet all of the criteria
+in MCC 39.5570 (C) and shall be processed through the Type II review procedure.
+
+(B) Application Submittal Requirements.An All applications for an SEC-v permit shall include the
+following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria, and the visual subordinance requirements of subsection (C) below.
+
+(2) Details on the height, shape, colors, outdoor lighting, and exterior building materials of any
+proposed structure;
+
+(3) Elevation drawings showing the appearance of proposed structures when built and
+surrounding final ground grades; and demonstrating how the proposed development will be
+visually subordinate as required by subsection (C) below, including information on the type,
+height and location of any vegetation or other materials which will be used to screen the
+development from the view of identified viewing areas.
+
+(4)(2) A scaled site plan of the property showing:
+
+(a) Property lines;
+
+(b) Location and size of all existing and proposed buildings and structures;
+
+(c) Contour lines and topographic features such as ravines or ridges (contour lines no
+greater than 10 feet);
+
+(d) Boundaries of ground disturbing activities, including proposed fill, excavating, site
+contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel (wooded
+areas), areas where vegetation will be removed, and location and species of vegetation to
+be planted, including landscaped areas;
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) The location of natural drainageways, springs, seeps, water bodies and wetlands on
+the site.
+
+(h) Location of wells, utility lines, stormwater drainage control systems, sanitary tanks
+and drainfields (primary and reserve).
+
+(i) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades and existing or proposed
+vegetation.
+
+Page | 30
+
+(3) The Planning Director may also require the applicant to provide additional information,
+beyond that listed in this section such as a report prepared by an appropriate subject matter
+expert, where needed to address relevant approval criteria.
+
+(C) SEC-v Permit Approval Criteria
+
+(1) Any portion of a proposed development (including access roads, cleared areas and structures) on a
+property that is topographically visible from an identified viewing area shall be visually subordinate
+or achieve visual subordinance. For development to be found visually subordinate, the subject
+development shall not noticeably contrast with the surrounding landscape, as viewed from an
+identified viewing area. Development that is visually subordinate may be visible, but it shall not be
+visually dominant in relation to its surroundings. Guidelines which may be used to attain visual
+subordinance, and which shall be considered in making the determination of visual subordination
+include:
+
+(a) Siting on portions of the property where topography and existing vegetation will screen the
+development from the view of identified viewing areas.
+
+(b) Use of nonreflective or low reflective building materials and dark natural or earthtone colors.
+
+(c) Exterior lighting that it is not highly visible from identified viewing areas and meets the Dark
+Sky Lighting Standards of MCC 39.6850. Shielding and hooding materials should be composed
+of nonreflective, opaque materials.
+
+(d) Use of screening vegetation or earth berms to block and/or disrupt views of the development.
+Priority should be given to retaining existing vegetation over other screening methods. Trees
+planted for screening purposes should be coniferous to provide winter screening. The applicant is
+responsible for the proper maintenance and survival of any vegetation used for screening.
+
+(e) Proposed developments or land use shall be aligned, designed and sited to fit the natural
+topography and to take advantage of vegetation and land form screening, and to minimize visible
+grading or other modifications of landforms, vegetation cover, and natural characteristics.
+
+(f) Limiting structure height to remain below the surrounding forest canopy level.
+
+(g) Siting and/or design so that the silhouette of buildings and other structures remains below the
+skyline of bluffs or ridges as seen from identified viewing areas. This may require modifying the
+building or structure height and design as well as location on the property, except:
+
+(1) New public communications facilities (transmission lines, antennae, dishes, etc.), may
+protrude above a skyline visible from an identified viewing area upon demonstration that:
+
+1. The new facility could not be located in an existing transmission corridor or built
+upon an existing facility;
+
+2. The facility is necessary for public service; and
+
+3. The break in the skyline is the minimum necessary to provide the service.
+
+(2) The approval authority may impose conditions of approval on an SEC-v permit in accordance
+with MCC 39.5535, in order to make the development visually subordinate. The extent and type of
+conditions shall be proportionate to the potential adverse visual impact of the development as seen
+
+Page | 31
+
+from identified viewing areas, taking into consideration the size of the development area that will be
+visible, the distance from the development to identified viewing areas, the number of identified
+viewing areas that could see the development, and the linear distance the development could be seen
+along identified viewing corridors
+
+Section 19. MCC 39.5560 is amended as follows:
+
+§ 39.5650 CRITERIA FOR APPROVAL OF SEC-V PERMIT – SIGNIFICANT SCENIC
+VIEWS.
+
+(A) For purposes of this Section, the following terms and their derivations shall have the meanings
+provided below:
+
+(1) Significant Scenic Resources – Those areas designated SEC-v on Multnomah County Zoning
+Map.
+
+(2) Identified Viewing Areas – Public areas that provide important views of a significant scenic
+resource, and include both sites and linear corridors. The Identified Viewing Areas are:
+
+Bybee-Howell House
+
+Virginia Lakes
+
+Sauvie Island Wildlife Refuge
+
+Kelley Point Park
+
+Smith and Bybee Lakes
+
+Highway 30
+
+The Multnomah Channel
+
+The Willamette River
+
+Public roads on Sauvie Island.
+
+(3) Visually Subordinate – The subject development does not noticeably contrast with the
+surrounding landscape, as viewed from an identified viewing area. Development that is visually
+subordinate may be visible, but is not visually dominant in relation to its surroundings.
+
+(B) In addition to the information required by MCC 39.5520, an application for development in an area
+designated SEC-v shall include:
+
+(1) Details on the height, shape, colors, outdoor lighting, and exterior building materials of any
+proposed structure;
+
+(2) Elevation drawings showing the appearance of proposed structures when built and surrounding
+final ground grades; and
+
+(3) A list of identified viewing areas from which the proposed use would be visible; and,
+
+Page | 32
+
+(4) A written description and drawings demonstrating how the proposed development will be visually
+subordinate as required by subsection (C) below, including information on the type, height and
+location of any vegetation or other materials which will be used to screen the development from the
+view of identified viewing areas.
+
+(C) Any portion of a proposed development (including access roads, cleared areas and structures) that will
+be visible from an identified viewing area shall be visually subordinate. Guidelines which may be used to
+attain visual subordinance, and which shall be considered in making the determination of visual
+subordination include:
+
+(1) Siting on portions of the property where topography and existing vegetation will screen the
+development from the view of identified viewing areas.
+
+(2) Use of nonreflective or low reflective building materials and dark natural or earthtone colors.
+
+(3) Exterior lighting that it is not highly visible from identified viewing areas and meets the Dark Sky
+Lighting Standards of MCC 39.6850. Shielding and hooding materials should be composed of
+nonreflective, opaque materials.
+
+(4) Use of screening vegetation or earth berms to block and/or disrupt views of the development.
+Priority should be given to retaining existing vegetation over other screening methods. Trees planted
+for screening purposes should be coniferous to provide winter screening. The applicant is responsible
+for the proper maintenance and survival of any vegetation used for screening.
+
+(5) Proposed developments or land use shall be aligned, designed and sited to fit the natural
+topography and to take advantage of vegetation and land form screening, and to minimize visible
+grading or other modifications of landforms, vegetation cover, and natural characteristics.
+
+(6) Limiting structure height to remain below the surrounding forest canopy level.
+
+(7) Siting and/or design so that the silhouette of buildings and other structures remains below the
+skyline of bluffs or ridges as seen from identified viewing areas. This may require modifying the
+building or structure height and design as well as location on the property, except:
+
+(a) New communications facilities (transmission lines, antennae, dishes, etc.), may protrude
+above a skyline visible from an identified viewing area upon demonstration that:
+
+1. The new facility could not be located in an existing transmission corridor or built upon
+an existing facility;
+
+2. The facility is necessary for public service; and
+
+3. The break in the skyline is the minimum necessary to provide the service.
+
+(D) Mining of a protected aggregate and mineral resource within a PAM Overlay shall be done in
+accordance with any standards for mining identified in the protection program approved during the Goal 5
+process. The Application for SEC-v permit must comply only with measures to protect scenic views
+identified in the Goal 5 protection program that has been designated for the site.
+
+(E) The approval authority may impose conditions of approval on an SEC-v permit in accordance with
+MCC 39.5535, in order to make the development visually subordinate. The extent and type of conditions
+shall be proportionate to the potential adverse visual impact of the development as seen from identified
+
+Page | 33
+
+viewing areas, taking into consideration the size of the development area that will be visible, the distance
+from the development to identified viewing areas, the number of identified viewing areas that could see
+the development, and the linear distance the development could be seen along identified viewing
+corridors
+
+Section 20. MCC 39.5700 is amended as follows:
+
+5.H.7 – SIGNIFICANT WETLANDS (SEC-w)
+
+§ 39.55805700 SEC-w PERMIT CRITERIA (SIGNIFICANT WETLANDS).
+
+Significant wetlands consist of those areas designated as Significant on aerial photographs of a scale of 1
+inch = 200 feet made a part of the supporting documentation of the Comprehensive Plan.
+(A) Decision Review Process
+(1) Applications shall meet all of the criteria in MCC 39.5580 and shall be processed through the
+Type II review procedure.
+(B) Application Submittal Requirements. All applications for any proposed development, activity or use
+requiring an SEC-w permit shall include the following: which would impact those wetlands shall be
+subject to the following:
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of MCC 39.5580 (C) and (D).
+
+(2) A scaled site plan of the property showing:
+
+(a) Property lines;
+
+(b) Location and size of all existing and proposed buildings and structures;
+
+(c) Contour lines and topographic features such as ravines or ridges (contour lines no
+greater than 5 feet);
+
+(d) Boundaries of ground disturbing activities, including proposed fill, excavating, site
+contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel, areas where
+vegetation will be removed, and location and species of vegetation to be planted,
+including landscaped areas;
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) Location of natural watercourses, drainageways, springs, seeps, water bodies and
+wetlands on the site. The riparian boundaries shall be determined by a documented field
+survey by a professional riparian/wetland specialist and mapped by a licensed surveyor.
+
+(h) Location of wells, utility lines, stormwater disposal system, sanitary tanks and
+drainfields (primary and reserve);
+
+Page | 34
+
+(i) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades and existing or proposed
+vegetation;
+
+ (A) In addition to other SEC Permit submittal requirements, the application shall also include:
+(1) A site plan drawn to scale showing the wetland boundary as determined by a documented
+field survey, the location of all existing and proposed watercourses, drainageways, stormwater
+facilities, utility installations, and topography of the site at a contour interval of no greater than
+five feet;
+(23) a An assessment of the wetland’s functional characteristics and water sources, and a
+description of the vegetation types and fish and wildlife habitat in a written report by a
+professional riparian/wetland specialist. The report shall contain a description and map of the
+wetland area that will be affected by the proposed development, activity and/or use.;
+A description and map of the wetland area that will be affected by the proposed activity. This
+documentation must also include a map of the entire wetland, an assessment of the wetland’s
+functional characteristics and water sources, and a description of the vegetation types and fish and
+wildlife habitat;
+(34) A description and map of soil types in the proposed development area and the locations and
+specifications for all proposed draining, filling, grading excavating, dredging, and vegetation
+removal, including the amounts and methods;
+(45) A study of any flood hazard, erosion hazard, or other natural hazards in the proposed
+development area and any proposed protective measures to reduce such hazards;
+(56) Detailed Mitigation Plans as described in subsection (D), if required;
+(7) The Planning Director may also require the applicant to provide additional information,
+beyond that listed in this section such as a report prepared by an appropriate subject matter
+expert, where needed to address relevant approval criteria.
+
+(6) Description of how the proposal meets the approval criteria listed in subsection (B) below.
+(CB) SEC-w Permit Approval Criteria
+The applicant shall demonstrate that the proposal meets the following:
+(1) Is water-dependent or requires access to the wetland as a central element of its basic design
+function, or is not water dependent but has no practicable alternative as described in subsection
+(C) below;
+(2) Will have as few adverse impacts as is practical to the wetland’s functional characteristics and
+its existing contour, vegetation, fish and wildlife resources, shoreline anchoring, flood storage,
+general hydrological conditions, and visual amenities. This impact determination shall also
+consider specific site information contained in the adopted wetlands inventory and the economic,
+social, environmental, and energy (ESEE) analysis made part of the supporting documentation of
+the comprehensive plan;
+(3) Will not cause significant degradation of groundwater or surface-water quality;
+(4) Will provide a buffer area of not less than 50 feet between the wetland boundary and upland
+activities for those portions of regulated activities that need not be conducted in the wetland;
+
+Page | 35
+
+(5) Will provide offsetting replacement wetlands for any loss of existing wetland areas. This
+Mitigation Plan shall meet the standards of subsection (D).
+(6C) A finding of no practicable alternative is to be made only after demonstration by the
+applicant that:
+(a1) The basic purpose of the project cannot reasonably be accomplished using one or more
+other practicable alternative sites in Multnomah County that would avoid or result in less
+adverse impact on a wetland. An alternative site is to be considered practicable if it is
+available for purchase and the proposed development, activity or use can be conducted on
+that site after taking into consideration costs, existing technology, infrastructure, and
+logistics in achieving the overall project purposes;
+(i) Documentation must be provided of the alternative site considered and why they are
+not suitable to be used for the proposed development, activity or use.
+(b2) The basic purpose of the project cannot be accomplished by a reduction in the size,
+scope, configuration, or density of the project as proposed, or by changing the design of the
+project in a way that would avoid or result in fewer adverse effects on the wetland; and
+(c3) In cases where the applicant has rejected alternatives to the project as proposed due to
+constraints, the applicant must demonstrate that they have made a reasonable attempt to
+redesign the project to meet (b) above. has been made to remove or accommodate such
+constraints.
+(4) This section is only applicable for wetland resources designated "3-C".
+(D) A Mitigation Plan and monitoring program may be approved upon submission of the following:
+(1) A site plan and written documentation which contains the applicable information for the
+replacement wetland as required by MCC 39.5580 (C)5700 (A);
+(2) A description of the applicant’s coordination efforts to date with the requirements of other
+local, State, and Federal agencies;
+(3) A Mitigation Plan which demonstrates retention of the resource values addressed in MCC
+39.5580 (C)5700 (B) (2);
+(4) Documentation that replacement wetlands were considered and rejected according to the
+following order of locational preferences:
+(a) On the site of the impacted wetland, with the same kind of resource;
+(b) Off-site, with the same kind of resource;
+(c) On-site, with a different kind of resource;
+(d) Off-site, with a different kind of resource.
+
+Section 21. MCC 39.5770 is amended as follows:
+
+5.H.8 – SIGNIFICANT STREAMS (SEC-s)
+
+§ 39.5750 CRITERIA FOR APPROVAL OF SEC-S PERMIT – STREAMS.
+
+Page | 36
+
+(A) For purposes of this Section, the following terms and their derivations shall have the meanings
+provided below:
+
+(1) Nuisance and invasive non-native plants – Those plants listed in the latest edition of the Metro
+Nuisance Plant List and the Prohibited Plant List, and include those plants listed in the latest edition
+of the State of Oregon Noxious Weed List.
+
+(2) Protected Streams -- Those streams which have been evaluated through a Goal 5 ESEE analysis
+and protected by Ordinance and those streams and wetlands mapped by Metro’s Title 13 as Habitat
+Conservation Areas as modified through the planning process are designated SEC-s on the
+Multnomah County Zoning Maps.
+
+(3) Stream Conservation Area – For the protected streams originally designated by Ordinance, the
+Stream Conservation Area designated on the zoning maps as SEC-s is an area extending upslope from
+and perpendicular to the centerline on both sides of a protected stream. The width of the Stream
+Conservation Area varies and shall be as depicted on the Multnomah County Zoning Maps and is
+from the centerline on both sides of the protected stream for the width of the mapped overlay. Any
+development proposed within a Stream Conservation Area shall be required to demonstrate that the
+development satisfies the standards of MCC 39.5750 (B) through (E).
+
+(A) Except for the exempt uses listed in MCC 39.5515 and the existing uses in MCC 39.5550, no
+development shall be allowed within a Stream Conservation Area unless approved by the Approval
+Authority pursuant to the provisions of MCC 39.5750 through 39.5755, (C) through (F) and MCC
+39.5800 through 39.5805.
+
+(C) In addition to other SEC Permit submittal requirements, any application to develop in a Stream
+Conservation Area shall also include:
+
+(1) A site plan drawn to scale showing the Stream Conservation Area boundary, the location of all
+existing and proposed structures, roads, watercourses, drainageways, stormwater facilities, utility
+installations, and topography of the site at a contour interval equivalent to the best available U.S.
+Geological Survey 7.5’ or 15’ topographic information;
+
+(2) A detailed description and map of the Stream Conservation Area including that portion to be
+affected by the proposed activity. This documentation must also include a map of the entire Stream
+Conservation Area, an assessment of the Stream Conservation Area’s functional characteristics and
+water sources, and a description of the vegetation types and fish and wildlife habitat;
+
+(3) A description and map of soil types in the proposed development area and the locations and
+specifications for all proposed draining, filling, grading, dredging, and vegetation removal, including
+the amounts and methods;
+
+(4) A study of any flood hazard, erosion hazard, and/or other natural hazards in the proposed
+development area and any proposed protective measures to reduce such hazards as required by
+subsection (E) (5) below;
+
+(5) A detailed Mitigation Plan as described in subsection (D), if required; and
+
+(6) A description of how the proposal meets the approval criteria listed in subsection (D) below.
+
+(D) For the protected stream resources, the applicant shall demonstrate that the proposal:
+
+Page | 37
+
+(1) Will enhance the fish and wildlife resources, shoreline anchoring, flood storage, water quality and
+visual amenities characteristic of the stream in its pre-development state, as documented in a
+Mitigation Plan. A Mitigation Plan and monitoring program may be approved upon submission of the
+following:
+
+(a) A site plan and written documentation which contains the applicable information for the
+Stream Conservation Area as required by subsection (C) above;
+
+(b) A description of the applicant’s coordination efforts to date with the requirements of other
+local, State, and Federal agencies;
+
+(c) A Mitigation Plan which demonstrates retention and enhancement of the resource values
+addressed in subsection (D) (1) above;
+
+(d) An annual monitoring plan for a period of five years which ensures an 80 percent annual
+survival rate of any required plantings.
+
+(E) Design Specifications: The following design specifications shall be incorporated, as appropriate, into
+any developments within a Stream Conservation Area:
+
+(1) A bridge or arched culvert which does not disturb the bed or banks of the stream and are of the
+minimum width necessary to allow passage of peak winter flows shall be utilized for any crossing of
+a protected streams.
+
+(2) All storm water generated by a development shall be collected and disposed of on-site into dry
+wells or by other best management practice methods which emphasize groundwater recharge and
+reduce peak stream flows.
+
+(3) Any exterior lighting associated with a proposed development shall be placed, shaded or screened
+to avoid shining directly into a Stream Conservation Area.
+
+(4) Any trees over 6" in caliper that are removed as a result of any development shall be replaced by
+any combination of native species whose combined caliper is equivalent to that of the trees removed.
+
+(5) Satisfaction of the erosion control standards of MCC 39.5090.
+
+(6) Soil disturbing activities within a Stream Conservation Area shall be limited to the period between
+June 15 and September 15. Revegetation/soil stabilization must be accomplished no later than
+October 15. Best Management Practices related to erosion control shall be required within a Stream
+Conservation Area.
+
+(7) Demonstration of compliance with all applicable state and federal permit requirements.
+
+(F) For those Stream Conservation Areas located within Metro’s jurisdictional boundaries, the following
+requirements apply in addition to subsections (C) through (E) above:
+
+(1) The planting of any invasive nonnative or noxious vegetation as listed in subsection (A)(4) above
+is prohibited. In addition, the species listed in MCC 39.5580 Table 1 shall not be planted.
+
+(2) The revegetation of disturbed areas shall primarily use native plants. A list of native plants can be
+found in the latest edition of the Metro Native Plant List.
+
+Page | 38
+
+(3) Outside storage of hazardous materials as determined by DEQ is prohibited, unless such storage
+began before the effective date of the applicable SEC ordinance; or, unless such storage is contained
+and approved during development review.
+
+(G) For Protected Aggregate and Mineral (PAM) resources within a PAM Overlay, the Mitigation Plan
+must comply only with measures identified in the Goal 5 protection program that has been designated for
+the site.
+
+Section 22. MCC 39.5590 is amended as follows:
+
+5.H.9 – WATER RESOURCES (SEC-wr)
+
+§ 39.5590  SEC-wr PERMIT CRITERIA (SIGNIFICANT WATER RESOURCES)
+
+(A) Decision Review Process
+
+(1) Applications that meet all of the following criteria shall be processed through the Type I
+review procedure:
+
+(a) The proposed development is located at least 100 feet from the top of bank of the
+Protected Water Feature; and
+
+(b) The application includes a mitigation plan meeting the requirements of MCC 39.5590
+(D) that enhances the entire 25 feet in depth closest to the Protected Water Feature
+for the length of the property, to “Good Corridor” condition as defined in MCC
+39.5590 (D).
+
+(2) Applications that do not meet all of the criteria in MCC 39.5590 (A)(1) shall be processed
+through the Type II review procedure. The applicant shall meet all of the criteria in MCC 39.5590
+(B) through (E) below.
+
+(B) Application Submittal Requirements. An All applications for an SEC-wr or SEC-s permit shall
+include the following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of subsection (C) through (E) below.
+
+(2) A site plan of the property showing:
+
+(a) Property lines;
+
+(b) Location and size of all existing and proposed buildings and structures;
+
+(c) Contour lines and topographic features such as ravines or ridges. In addition, detailed
+topographic information of the development area, adjacent areas of the site, and a
+topographic delineation of the SEC-wr or SEC-s riparian area affected by the project.
+Contour information shall be determined by a field survey by an Oregon licensed
+surveyor. (Contour intervals shall be no greater than 5 feet);
+
+(d) Boundaries of ground disturbing activities, including proposed fill, excavating, site
+contouring or other landform changes;
+
+Page | 39
+
+(e) Location and predominant species of existing vegetation on the parcel (wooded
+areas), areas where vegetation will be removed, and location and species of vegetation to
+be planted, including landscaped areas;
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) Location of natural drainageways, springs, seeps, water bodies and wetlands on the
+site.
+
+(h) Location of all existing trees of a caliper greater than six (6) inches in diameter at
+breast height (DBH);
+
+(i) Location of wells, utility lines, stormwater drainage control systems, sanitary tanks
+and drainfields (primary and reserve);
+
+(j) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades and existing or proposed
+vegetation.
+
+(3) A description and map of soil types in the proposed development area and the locations and
+specifications for all proposed draining, filling, dredging, and vegetation removal, including the
+amounts and methods.
+
+(4) Preparation of a report which includes plans and surveys by a qualified wetland or riparian
+consultant, fish and wildlife biologist, or other qualified professional at the discretion of the
+Planning Director. Approval of a other qualified professional must be granted before the report is
+completed. Wetlands shall be identified and delineated by a qualified wetland specialist. The
+consultant shall prepare a report which includes:
+
+(a) An assessment of the existing condition of the Riparian Area in accordance with MCC
+39.5590 (D);
+
+(b) An inventory of vegetation, including percentage ground and canopy coverage, and
+location of nuisance and invasive non-native plants as defined in MCC 39.5520;
+
+(c) A detailed Mitigation Plan as described in MCC 39.5590 (D);
+
+(5) The applicant shall provide evidence that when federal or state requirements apply, that the
+agency has been contacted, and shall provide an assessment of whether the project can meet the
+requirements based on the agency response;
+
+(6) The Planning Director may also require the applicant to provide additional information,
+beyond that listed in this section such as a report prepared by an appropriate subject matter
+expert, where needed to address relevant approval criteria.
+
+(C) SEC-wr and SEC-s Permit Approval Criteria
+
+(1) Except for the exempt uses listed in MCC 39.5590 and the existing uses pursuant to MCC
+39.55255550, no development shall be allowed within a Riparian Area unless the provisions of
+subsections (2) or (3) & or (4) below are satisfied. An application shall not be approved unless it
+contains the site analysis information required in (B) (A) above.
+
+Page | 40
+
+(2) Low Impact Sites - Development on parcels in locations that would have low impacts on Riparian
+Areas may be exempt from the Alternatives Analysis in subsection (3) below. Development on sites
+that meet the following criterion may be allowed pursuant to the other applicable requirements of this
+Overlay including the Development Standards of subsection (4) and the provisions for Mitigation in
+subsection (D):
+
+(a) The entirety of the development site is at least one hundred (100) feet from top of bank or top
+of ravine, which ever results in a greater distance from the Protected Water Feature. Top of ravine
+is the break in the > 25% slope. Slope should be measured in 25- foot increments away from the
+water feature until the slope is less than 25% (top of ravine), up to a maximum distance of 200'
+from the water feature. Where multiple resources are present (e.g., stream with wetlands along
+banks), the starting point for measurement should be whichever offers greatest resource
+protection.
+
+(3) Alternatives Analysis Sites- Development proposed within a Riparian Area may be allowed if
+there is no alternative, when the other requirements of the Overlay including the Development
+Standards of subsection (4) and the provisions for Mitigation in subsection (D) are met. The applicant
+shall prepare an alternatives analysis which demonstrates that:
+
+(a) No practicable alternatives to the requested development location exists on the property
+further than 100 feet from the protected water feature; and
+
+(b) Development within the Alternative Analysis Site in the Riparian Area has been limited to the
+minimum area necessary to allow for the proposed use;
+
+(c) Development shall occur as far as practically possible from the protected water feature; and
+
+(d) The Riparian Area can be restored to an equal or better condition; or
+
+(e) Any net loss on the property of Riparian Area is mitigated.
+
+(4) Development Standards: Development within the Riparian Area shall comply with the following
+standards:
+
+(a) Development of trails, rest points, viewpoints, and other facilities in public and private parks
+for the enjoyment of the resource must be done in such a manner so as to minimize impacts on
+the natural resource while allowing for the enjoyment of the natural resource.
+
+(b) Development in areas of dense standing trees shall be designed to minimize the numbers of
+trees to be cut. No more than 50 percent of mature standing trees (of 6-inch DBH or greater) shall
+be removed without a one-for-one replacement with comparable species. Replacement trees shall
+be placed within the riparian corridor or adjacent to it to provide shade and water retention. Size
+of the replacement trees shall be 5 gallon or greater. The site plan for the proposed activity shall
+identify all mature standing trees by type, size, and location, which are proposed for removal, and
+the location and type of replacement trees.
+
+(c) Areas of standing trees, shrubs, and natural vegetation shall remain connected or contiguous,
+particularly along natural drainage courses, so as to provide a transition between the proposed
+development and the natural resource, to provide food, water, and cover for wildlife, and to
+protect the visual amenity values of the natural resource.
+
+Page | 41
+
+(d) The Riparian Area shall be restored to " ‘Ggood Corridor’ condition" as defined in MCC
+39.5590 (D)(1), and maintained in accordance with the mitigation plan pursuant to subsection
+MCC 39.5590 (D) below and the specifications in Table 2 of this section.
+
+(e) To the extent practicable, existing vegetation shall be protected and left in place. Work areas
+shall be carefully located and marked to reduce potential damage to the Riparian Area. Trees in
+the Riparian Area shall not be used as anchors for stabilizing construction equipment.
+
+(f) Prior to construction of the development, the boundaries of the Riparian Area shall be flagged,
+fenced or otherwise marked and shall remain undisturbed except as otherwise allowed by the
+permit. Such markings shall be maintained until construction is complete.
+
+(g) Stormwater drainage control facilities:
+
+(i) Stormwater management shall be conducted in a manner that does not increase the flow of
+stormwater to the stream above pre-development levels.
+
+(ii) The stormwater drainage control facility may only encroach a maximum of 25 feet into
+the outside boundary of the Riparian Area; and
+
+(iii) The area of encroachment must be replaced by adding an area equal in size and with
+similar functions and values to the Riparian Area on the subject property.
+
+(h) The nuisance and invasive non-native plants, as defined in MCC 39.5520, in addition to the
+nuisance plants defined in, shall not be used as landscape plantings within the Riparian Area
+SEC-wr and SEC- Overlays.
+
+(i) Areas of erosion or potential erosion shall be protected from loss by appropriate means.
+Appropriate means shall be based on current Best Management Practices.
+
+(i) Soil disturbing activities within a Riparian Area shall be limited to the period between
+June 15 and September 15. Revegetation/soil stabilization must be accomplished no later than
+October 15.
+
+(j) Outdoor lighting shall be of a fixture type and shall be placed in a location so that it does not
+shine directly into undeveloped Riparian Areas. Where illumination of a Riparian Area is
+unavoidable, it shall be minimized through use of a hooded fixture type and location. The
+location and illumination area of lighting needed for security of public utility facilities shall not
+be limited by this provision, but should be done in a minimalistic manner.
+
+(k) A bridge or open-bottom culvert, which does not disturb the bed or banks of the stream and is
+in compliance with the County’s Flood Hazard regulations shall be utilized for any crossing of a
+protected streams.
+
+(D) Mitigation: Mitigation shall be required to offset the impacts of development within the Riparian
+Area. This subsection section establishes how mitigation can occur.
+
+(1) Vegetated Corridor Condition: For the purposes of the SEC-wr Overlay, vegetated corridor
+conditions are defined below.
+
+(a) Good Corridor: A combination of native trees, shrubs, and groundcover covering greater
+than 80% of the area, and greater than 50% tree canopy exists (aerial measure).
+
+Page | 42
+
+(b) Marginal Corridor: A combination of native trees, shrubs, and groundcovers covering 50-
+80% of the area and/or 26-50% tree canopy exists (aerial measure).
+(c) Degraded Corridor: A combination of native trees, shrubs, and groundcovers covering is less
+than 50% of the area, and/or less than 25% tree canopy exists (aerial measure), and/or greater
+than 10% of the area is covered by invasive, non-native species.
+ (2) Mitigation Sequence: Mitigation includes avoiding, minimizing or compensating for adverse
+impacts to regulated natural resource areas.
+
+(a) When a proposed development could cause adverse impacts to a natural resource area, the
+preferred sequence of mitigation as defined in 1 through 5 below shall be followed unless the
+applicant demonstrates that an overriding public benefit would warrant an exception to this
+preferred sequence.
+
+(i) Avoiding the impact altogether by not taking a certain action or parts of actions on that
+portion of the site which contains the regulated natural resource area;
+
+(ii) Minimizing impacts by limiting the degree or magnitude of the action and its
+implementation;
+
+(iii) Compensating for the impact by repairing, rehabilitating, or restoring the affected
+environment;
+
+(iv) Compensating for the impact by replacing, enhancing or providing substitute
+resources or environments on-site.
+
+(v) Compensating for the impact by replacing, enhancing or providing substitute
+resources or environments off-site.
+
+(b) When evaluating potential impacts to the natural resource, the County may consider whether
+there is an overriding public benefit for the public project, given:
+
+(i) The extent of the public need for the proposed development;
+
+(ii) The functional values of the Riparian Area that may be affected by the proposed
+development;
+
+(iii) The extent and permanence of the adverse effects of the development on the Riparian
+Area, either directly or indirectly;
+
+(iv) The cumulative adverse effects of past activities on the Riparian Area or Stream
+Conservation Area, either directly or indirectly; and
+
+(v) The uniqueness or scarcity of the Riparian Area that may be affected.
+
+(3) Compensatory Mitigation: General Requirements. As a condition of any permit or other approval
+allowing development which results in the loss or degradation of, compensatory mitigation shall be
+required to offset the encroachment of the development into the area. The mitigation shall meet the
+following:
+
+Page | 43
+
+(a) Any person who alters or proposes to alter a Riparian Area shall restore or create a vegetated
+corridor equivalent to or larger than the altered corridor in order to compensate for resource
+losses.
+
+(b) The following ratios apply to the creation or restoration of the vegetated corridor. The first
+number specifies the amount of vegetated corridor to be created and the second specifies the
+amount of Riparian Area to be altered or lost.
+
+Creation (off-site) 2:1
+
+Restoration (off-site) 1.5:1
+
+Creation (on-site) 1.5:1
+
+Restoration (on-site) 1:1
+
+(c) Only Marginal or Degraded Corridor(s) as defined in MCC 39.5590 (D)(1) may be the subject
+of a restoration project proposed as part of a Mitigation Plan.
+
+(d) Highest priority sites for mitigation are Marginal or Degraded Corridor(s) that are closest to a
+natural drainage on the property, and areas which will increase contiguous areas of standing trees,
+shrubs, and natural vegetation along drainages.
+
+(e) The off-site mitigation shall be as close to the development as is practicable above the
+confluence of the next downstream tributary, or if this is not practicable, within the watershed
+where the development will take place or as otherwise specified by the County and shall comply
+with (c) and (d) above.
+
+(f) In order to ensure that on-site mitigation areas are established and maintained, the property
+owner shall record the mitigation plan approval in the deed records of Multnomah County. In
+order to ensure that offsite mitigation areas will be protected in perpetuity, the owner shall cause
+a deed restriction to be placed on the property where the mitigation is required. The deed
+restriction shall be irrevocable unless a statement of release is signed by an authorized
+representative of Multnomah County.
+
+(4) Mitigation Plan Standards: Natural resource mitigation plans shall contain the following
+information:
+
+(a) A description of adverse impacts that could be caused as a result of development.
+
+(b) An explanation of how adverse impacts to resource areas will be avoided, minimized, and/or
+mitigated.
+
+(c) A list of all responsible parties including, but not limited to, the owner, applicant, contractor
+or other persons responsible for work on the development site.
+
+(d) A map drawn to scale, showing where the specific mitigation activities will occur.
+
+(e) An implementation schedule, including timeline for construction, mitigation, mitigation
+maintenance, monitoring, reporting and a contingency plan. All in-stream work in fish-bearing
+streams must be done in accordance with the Oregon Department of Fish and Wildlife in-stream
+timing schedule.
+
+Page | 44
+
+(f) Mitigation work shall be completed prior to initiation of development where possible.
+
+(i) Where existing vegetation has been removed, or the original land contours disturbed,
+the site shall be revegetated, and the vegetation shall be established in the next planting
+season.
+
+(ii) Nuisance and invasive non-native plants, as defined in MCC 39.5520, or other debris
+and noxious materials shall be removed and be kept removed from the Riparian Area by
+the property owner.
+
+1. Removal shall be by hand or mechanically with small equipment, as
+appropriate to minimize damage to existing native vegetation.
+
+2. Interim erosion control measures such as mulching shall be used to avoid
+erosion on bare areas.
+
+3. Nuisance and invasive non-native plants, as defined in MCC 39.5520, shall be
+replaced by the next growing season with native plants that are appropriate to the
+site conditions to restore the vegetated corridor.
+
+ (E) Required Conditions of Approval for all SEC-wr and SEC-s Permits
+
+(1) Provide certification by a professional wetland or riparian consultant, fish and wildlife biologist,
+landscape architect, or other qualified professional as determined by the Planning Director, that the
+riparian/vegetated corridor was restored according to the mitigation plan and that the vegetated
+corridor will qualify as ‘Good Corridor’ within 5 years.
+(2) The plantings shall be monitored for five years to ensure that the vegetation naturalizes. Failure of
+vegetation to be maintained in a healthy growing state shall require continued monitoring by a
+professional.
+
+(a) A yearly report shall be provided to Multnomah County Land Use Planning outlining the
+condition of the plantings and if any modifications to the mitigation plan are necessary. Any
+proposed modifications to the mitigation plan require written approval by Multnomah County
+Land Use Planning.
+
+(3) Work areas shall be carefully located and marked to reduce potential damage to the Riparian Area.
+
+(4) Trees in the Riparian Area shall not be used as anchors for stabilizing construction equipment.
+
+§ 39.5800 CRITERIA FOR APPROVAL OF SEC-WR PERMIT – WATER RESOURCE.
+
+(A) Except for the exempt uses listed in MCC 39.5515 and the existing uses pursuant to MCC 39.5550,
+no development shall be allowed within a Water Resource Area unless the provisions of subsections (B)
+or (C) or (D) below are satisfied. An application shall not be approved unless it contains the site analysis
+information required in MCC 39.5520(A) and (B), and meets the general requirements in MCC 39.5560.
+
+(B) Development on Low Impact Sites - Development on parcels in locations that would have low
+impacts on Water Resource Areas may be exempt from the Alternatives Analysis in subsection (C) below.
+Development on sites that meet the following criterion may be allowed pursuant to the other applicable
+requirements of this Overlay including the Development Standards of subsection (E) and the provisions
+for Mitigation in subsection (F):
+
+Page | 45
+
+(1) The development site is at least one hundred (100) feet from top of bank or top of ravine, which
+ever results in a greater distance from the Protected Water Feature. Top of ravine is the break in the >
+25% slope. Slope should be measured in 25- foot increments away from the water feature until the
+slope is less than 25% (top of ravine), up to a maximum distance of 200' from the water feature.
+Where multiple resources are present (e.g., stream with wetlands along banks), the starting point for
+measurement should be whichever offers greatest resource protection.
+
+(C) Alternatives Analysis - Development proposed within a Water Resource Area may be allowed if there
+is no alternative, when the other requirements of this Overlay including the Development Standards of
+subsection (E) and the provisions for Mitigation in subsection (F) are met. The applicant shall prepare an
+alternatives analysis which demonstrates that:
+
+(1) No practicable alternatives to the requested development exist that will not disturb the Water
+Resource Area; and
+
+(2) Development in the Water Resource Area has been limited to the area necessary to allow for the
+proposed use;
+
+(3) Development shall occur as far as practically possible from the stream; and
+
+(4) The Water Resource Area can be restored to an equal or better condition; or
+
+(5) Any net loss on the property of resource area, function and/or value can be mitigated.
+
+(D) Buffer Averaging - Development may be allowed to encroach into the 200' SEC-wr overlay zone or
+"buffer" when the provisions of (1) through (6) below are satisfied. These provisions are intended to
+allow development to extend a specific amount into the edges of the overlay zone without an alternatives
+analysis in exchange for increasing the area of vegetated corridor on the property that is in good
+condition.
+
+(1) Site assessment information pursuant to MCC 39.5520(A) and (B) has been submitted.
+
+(2) The riparian/vegetated corridor is certified to be in a marginal or degraded condition pursuant to
+Table 2 of this section. Buffer averaging is not allowed to encroach in areas certified to be in good
+condition.
+
+(3) The maximum encroachment does not exceed 20% of the frontage length of the vegetated corridor
+by 20% of the required width.
+
+(4) The entire remaining vegetated corridor on the project site or the first 50 feet closest to the stream
+(whichever is less) will be enhanced to "good" condition pursuant to Table 2 of this section.
+
+(5) The area of encroachment will be replaced with added buffer area at a 1:1 ratio.
+
+(6) The replacement area will be incorporated into the remaining vegetated corridor on the project site
+and meet the "good" condition pursuant to Table 2 of this section, regardless of its distance from the
+resource area.
+
+(E) Development Standards- Development within the Water Resource Area shall comply with the
+following standards:
+
+Page | 46
+
+(1) Development of trails, rest points, viewpoints, and other facilities for the enjoyment of the
+resource must be done in such a manner so as to minimize impacts on the natural resource while
+allowing for the enjoyment of the natural resource.
+
+(2) Development in areas of dense standing trees shall be designed to minimize the numbers of trees
+to be cut. No more than 50 percent of mature standing trees (of 6-inch DBH greater) shall be removed
+without a one-for-one replacement with comparable species. The site plan for the proposed activity
+shall identify all mature standing trees by type, size, and location, which are proposed for removal,
+and the location and type of replacement trees.
+
+(3) Areas of standing trees, shrubs, and natural vegetation will remain connected or contiguous,
+particularly along natural drainage courses, so as to provide a transition between the proposed
+development and the natural resource, to provide food, water, and cover for wildlife, and to protect
+the visual amenity values of the natural resource.
+
+(4) The Water Resource Area shall be restored to "good condition" and maintained in accordance
+with the mitigation plan pursuant to subsection (F) below and the specifications in Table 2 of this
+section.
+
+(5) To the extent practicable, existing vegetation shall be protected and left in place. Work areas shall
+be carefully located and marked to reduce potential damage to the Water Resource Area. Trees in the
+Water Resource Area shall not be used as anchors for stabilizing construction equipment.
+
+(6) Where existing vegetation has been removed, or the original land contours disturbed, the site shall
+be revegetated, and the vegetation shall be established as soon as practicable. Nuisance plants, as
+identified in MCC 39.5580 Table 1, may be removed at any time. Interim erosion control measures
+such as mulching shall be used to avoid erosion on bare areas. Nuisance plants shall be replaced with
+non-nuisance plants by the next growing season.
+
+Figure 3.
+
+(7) Prior to construction, the Water Resource Area shall be flagged, fenced or otherwise marked and
+shall remain undisturbed except as otherwise allowed by this Overlay. Such markings shall be
+maintained until construction is complete.
+
+(8) Stormwater quantity control and quality control facilities:
+
+Page | 47
+
+(a) Stormwater management shall be conducted in a manner that does not increase the flow of
+stormwater to the stream above pre-development levels.
+
+(b) The stormwater quantity control and quality control facility may only encroach a maximum of
+25 feet into the outside boundary of the Water Resource Area of a primary water feature; and
+
+(c) The area of encroachment must be replaced by adding an area equal in size and with similar
+functions and values to the Water Resource Area on the subject property.
+
+(9) The nuisance plants in MCC 39.5580, in addition to the nuisance plants defined in MCC 39.2000,
+shall not be used as landscape plantings within the SEC-wr and SEC Overlays.
+
+(F) Mitigation - Mitigation shall be required to offset the impacts of development within the SEC-wr.
+This subsection section establishes how mitigation can occur.
+
+(1) Mitigation Sequence. Mitigation includes avoiding, minimizing or compensating for adverse
+impacts to regulated natural resource areas.
+
+(a) When a proposed development could cause adverse impacts to a natural resource area, the
+preferred sequence of mitigation as defined in 1 through 5 below shall be followed unless the
+applicant demonstrates that an overriding public benefit would warrant an exception to this
+preferred sequence.
+
+1. Avoiding the impact altogether by not taking a certain action or parts of actions on that
+portion of the site which contains the regulated natural resource area;
+
+2. Minimizing impacts by limiting the degree or magnitude of the action and its
+implementation;
+
+3. Compensating for the impact by repairing, rehabilitating, or restoring the affected
+environment;
+
+4. Compensating for the impact by replacing, enhancing or providing substitute resources
+or environments on-site.
+
+5. Compensating for the impact by replacing, enhancing or providing substitute resources
+or environments off-site.
+
+(b) When evaluating potential impacts to the natural resource, the County may consider whether
+there is an overriding public benefit, given:
+
+1. The extent of the public need for the proposed development;
+
+2. The functional values of the Water Resource Area that may be affected by the
+proposed development;
+
+3. The extent and permanence of the adverse effects of the development on the Water
+Resource Area, either directly or indirectly;
+
+4. The cumulative adverse effects of past activities on the Water Resource Area, either
+directly or indirectly; and
+
+5. The uniqueness or scarcity of the Water Resource Area that may be affected.
+
+Page | 48
+
+(2) Compensatory Mitigation: General Requirements. As a condition of any permit or other approval
+allowing development which results in the loss or degradation of regulated natural resource areas, or
+as an enforcement action, compensatory mitigation shall be required to offset impacts resulting from
+the actions of the applicant or violator.
+
+(a) Any person who alters or proposes to alter regulated natural resource areas shall restore or
+create natural resource areas equivalent to or larger than those altered in order to compensate for
+resource losses.
+
+(b) The following ratios apply to the creation or restoration of natural resource areas. The first
+number specifies the amount of natural resource area to be created and the second specifies the
+amount of natural resource area to be altered or lost.
+
+Creation (off-site) 2:1
+
+Restoration (off-site) 1.5:1
+
+Creation (on-site) 1.5:1
+
+Restoration (on-site) 1:1
+
+(c) Only marginal or degraded water resource areas as described in Table 2 of this section may be
+the subject of a restoration project proposed as part of a Mitigation Plan.
+
+(d) Highest priority sites for mitigation are marginal or degraded corridors that are closest to a
+natural drainage, and areas which will increase contiguous areas of standing trees, shrubs, and
+natural vegetation along drainages.
+
+(e) The off-site mitigation shall be as close to the development as is practicable above the
+confluence of the next downstream tributary, or if this is not practicable, within the watershed
+where the development will take place or as otherwise specified by the County.
+
+(f) Compensation shall be completed prior to initiation of development where possible.
+
+(g) In order to ensure that on-site mitigation areas are established and maintained, the property
+owner shall record the mitigation plan approval in the deed records of Multnomah County. In
+order to ensure that offsite mitigation areas will be protected in perpetuity, the owner shall cause
+a deed restriction to be placed on the property where the mitigation is required. The deed
+restriction shall be irrevocable unless a statement of release is signed by an authorized
+representative of Multnomah County.
+
+(3) Mitigation Plan Standards - Natural resource mitigation plans shall contain the following
+information:
+
+(a) A description of adverse impacts that could be caused as a result of development.
+
+(b) An explanation of how adverse impacts to resource areas will be avoided, minimized, and/or
+mitigated.
+
+(c) A list of all responsible parties including, but not limited to, the owner, applicant, contractor
+or other persons responsible for work on the development site.
+
+Page | 49
+(d) A map drawn to scale, showing where the specific mitigation activities will occur.
+(e) An implementation schedule, including timeline for construction, mitigation, mitigation
+maintenance, monitoring, reporting and a contingency plan. All in-stream work in fish-bearing
+streams must be done in accordance with the Oregon Department of Fish and Wildlife in-stream
+timing schedule.
+Table 2
+Riparian/Vegetated Corridor Standards
+Existing Riparian/Vegetated Corridor
+Condition
+Requirements of Riparian/Vegetated Corridor
+Protection, Enhancement, and/or Mitigation
+Good Corridor
+Combination of native trees, shrubs, and
+groundcover covering greater than 80% of the
+area
+and
+Greater than 50% tree canopy exists (aerial
+measure)
+Provide certification, pursuant to the procedures
+provided by the Planning Director, by a
+professional ecologist/biologist that the riparian/
+vegetated corridor meets condition criteria.
+Remove any invasive non-native or nuisance
+species and debris and noxious materials within the
+corridor by hand.
+Provide the County with a native plant revegetation
+plan appropriate to the site conditions developed by
+an ecologist/biologist or landscape architect to
+restore condition and mitigate any habitat or water
+quality impacts related to development.  See
+Planning Director procedures.
+Revegetate impacted area per approved plan to re-
+establish “good” corridor conditions
+Marginal Corridor
+Combination of native trees, shrubs, and
+groundcovers covering 50%-80% of the area
+and/or
+26-50% tree canopy exists (aerial measure)
+(Restoration up to “good” corridor required)
+Provide certification, pursuant to the procedures
+provided by the Planning Director, by a
+professional ecologist/biologist that the
+riparian/vegetated corridor meets condition criteria.
+Remove any invasive non-native or nuisance
+species and debris and noxious materials within the
+corridor by hand or mechanically with small
+equipment, as appropriate to minimize damage to
+existing native vegetation.
+Provide County with a native plant revegetation
+plan appropriate to the site conditions developed by
+an ecologist/biologist or landscape architect to
+restore to a good corridor condition.  See Planning
+Director procedures.
+Vegetate corridor to establish “good” corridor
+conditions
+Degraded Corridor
+Combination of native trees, shrubs, and
+groundcovers covering is less than 50% of the
+area
+and/or
+Less than 25% tree canopy exists (aerial
+measure)
+and/or
+Greater than 10% of the area is covered by
+invasive, non-native species
+(Restoration up to “good” corridor required)
+Provide certification, pursuant to the procedures
+provided by the Planning Director, by a
+professional ecologist/biologist that the
+riparian/vegetated corridor meets condition criteria.
+Remove any invasive non-native or nuisance
+species and debris and noxious materials within the
+corridor by hand or mechanically as appropriate.
+Provide County with a native plant revegetation
+plan appropriate to the site conditions developed by
+an ecologist/biologist or landscape architect to
+restore to a good corridor condition.  See Planning
+Director procedures.
+Vegetate corridor to establish “good” corridor
+conditions
+Section 23. MCC 39.5850 is amended as follows:
+5.H.10 – WILDLIFE HABITAT (SEC-h)
+§ 39.5850  SEC-H CLEAR AND OBJECTIVE STANDARDS
+(A) At the time of submittal, the applicant shall provide the application materials listed in MCC 39.5520(A) and
+39.5860(A). The application shall be reviewed through the Type I procedure and may not be authorized unless the
+standards MCC 39.5860(B)(1) through (4)(a)- (c) and (B)(5) through (7) are met. For development that fails to
+meet all of the criteria listed above, a separate land use application pursuant to MCC 39.5860 may be submitted.
+(B)
+(C) The nuisance plants listed in MCC 39.5580 Table 1 shall not be used as landscape plantings within the SEC-h
+Overlay Zone.
+(D) For development that fails to meet all of the standards listed in this section, a separate land use application
+pursuant to MCC 39.5860 may be submitted.
+§ 39.5860 CRITERIA FOR APPROVAL OF SEC-H PERMIT -WILDLIFE HABITAT.
+(A) In addition to the information required by MCC 39.5520 (A), an application for development in an area
+designated SEC-h shall include an area map showing all properties which are adjacent to or entirely or partially
+within 200 feet of the proposed development, with the following information, when such information can be
+gathered without trespass:
+(1) Location of all existing forested areas (including areas cleared pursuant to an approved forest
+management plan) and non-forested "cleared" areas; For the purposes of this section, a forested area is
+defined as an area that has at least 75 percent crown closure, or 80 square feet of basal area per acre, of
+trees 11 inches DBH and larger, or an area which is being reforested pursuant to Forest Practice Rules of
+Page | 50
+the Department of Forestry. A non-forested "cleared" area is defined as an area which does not meet the
+description of a forested area and which is not being reforested pursuant to a forest management plan.
+(2) Location of existing and proposed structures;
+(3) Location and width of existing and proposed public roads, private access roads, driveways, and
+service corridors on the subject parcel and within 200 feet of the subject parcel's boundaries on all
+adjacent parcels;
+(4) Existing and proposed type and location of all fencing on the subject property and on adjacent
+properties and on properties entirely or partially within 200 feet of the subject property.
+(B) Development standards:
+(1) Where a parcel contains any nonforested "cleared" areas, development shall only occur in these areas,
+except as necessary to provide access and to meet minimum clearance standards for fire safety.
+(2) Development shall occur within 200 feet of a public road capable of providing reasonable practical
+access to the developable portion of the site.
+(3) The access road/driveway and service corridor serving the development shall not exceed 500 feet in
+length.
+(4) For the purpose of clustering access road/driveway approaches near one another, one of the following
+two standards shall be met:
+(a) The access road/driveway approach onto a public road shall be located within 100 feet of a
+side property line if adjacent property on the same side of the road has an existing access road or
+driveway approach within 200 feet of that side property line; or
+(b) The access road/driveway approach onto a public road shall be located within 50 feet of either
+side of an existing access road/driveway on the opposite side of the road.
+(c) Diagram showing the standards in (a) and (b) above.
+(Diagram)
+For illustrative purposes only.
+(d) The standards in this subsection (4) may be modified upon a determination by the County
+Road Official that the new access road/driveway approach would result in an unsafe traffic
+situation using the standards in the Multnomah County “Design and Construction Manual,”
+adopted June 20, 2000, (or all updated versions of the manual). Standards to be used by the Road
+Official from the County manual include Table 2.3.2, Table 2.4.1, and additional referenced sight
+distance and minimum access spacing standards in the publication A Policy on Geometric Design
+of Highways and Streets by the American Association of State Highway and Transportation
+Officials (AASHTO) and the Traffic Engineering Handbook by the Institute of Transportation
+Engineers (ITE).
+1. The modification shall be the minimum necessary to allow safe access onto the public
+road.
+Page | 51
+2. The County Road Official shall provide written findings supporting the modification.
+(5) The development shall be within 300 feet of a side property line if adjacent property has structures and
+developed areas within 200 feet of that common side property line.
+(6) Fencing within a required setback from a public road shall meet the following criteria:
+(a) Fences shall have a maximum height of 42 inches and a minimum 17 inch gap between the
+ground and the bottom of the fence.
+(b) Wood and wire fences are permitted. The bottom strand of a wire fence shall be barbless.
+Fences may be electrified, except as prohibited by County Code.
+(c) Cyclone, woven wire, and chain link fences are prohibited.
+(d) Fences with a ratio of solids to voids greater than 2:1 are prohibited.
+(e) Fencing standards do not apply in an area on the property bounded by a line along the public
+road serving the development, two lines each drawn perpendicular to the principal structure from
+a point 100 feet from the end of the structure on a line perpendicular to and meeting with the
+public road serving the development, and the front yard setback line parallel to the public road
+serving the development. (See Figure 4 below.)
+(Diagram: Figure 4. FENCE EXEMPTION AREA)
+(f) Fencing standards do not apply where needed for security of utility facilities.
+(7) The nuisance plants in MCC 39.5580 Table 1 shall not be planted on the subject property and shall be
+removed and kept removed from cleared areas of the subject property.
+(C) Wildlife Conservation Plan. An applicant shall propose a wildlife conservation mitigation plan if one of two
+situations exist.
+(1) The applicant cannot meet the development standards of subsection (B) because of physical
+characteristics unique to the property. The applicant must show that the wildlife conservation plan results
+in the minimum departure from the standards required in order to allow the use; or
+(2) The applicant can meet the development standards of subsection (B), but demonstrates that the
+alternative conservation measures exceed the standards of subsection (B) and will result in the proposed
+development having a less detrimental impact on forested wildlife habitat than the standards in subsection
+(B).
+(3) Unless the wildlife conservation plan demonstrates satisfaction of the criteria in subsection (C)(5), the
+wildlife conservation plan must demonstrate the following
+(a) That measures are included in order to reduce impacts to forested areas to the minimum
+necessary to serve the proposed development by restricting the amount of clearance and
+length/width of cleared areas and disturbing the least amount of forest canopy cover.
+(b) That any newly cleared area associated with the development is not greater than one acre,
+excluding from this total the area of the minimum necessary accessway required for fire safety
+purposes.
+Page | 52
+(c) That no fencing will be built and existing fencing will be removed outside of areas cleared for
+the site development except for existing cleared areas used for agricultural purposes.
+(d) That revegetation of existing cleared areas on the property at a 2:1 ratio with newly cleared
+areas occurs if such cleared areas exist on the property.
+(e) That revegetation and enhancement of disturbed stream riparian areas occurs along drainages
+and streams located on the property.
+(4) For a property meeting subsection (C)(1) above, the applicant may utilize the following mitigation
+measures for additions instead of providing a separate wildlife conservation plan:
+(a) Each tree removed to construct the proposed development shall be replaced on a one to one
+ratio with a six foot tall native tree.
+(b) For each 100 square feet of new building area, the property owner shall plant, one, 3-4 foot
+tall native tree or three native tree seedlings. The trees shall be planted to improve wildlife habitat
+first within non-forested cleared areas contiguous to forested areas, second within any degraded
+stream riparian areas before being placed in forested areas or adjacent to landscaped yards.
+(c) Existing fencing located in the front yard adjacent to a public road shall be consistent with
+subsection (B)(6).
+(d) For non-forested “cleared” areas that require nuisance plant removal pursuant to subsection
+(B)(7), the property owner shall set a specific date for the work to be completed and the area
+replanted with native vegetation. The time frame must be within two years from the date of the
+permit.
+(5) Unless the wildlife conservation plan demonstrates satisfaction of the criteria in subsection (C)(3) of
+this section, the wildlife conservation plan must demonstrate the following:
+(a) That measures are included in order to reduce impacts to forested areas to the minimum
+necessary to serve the proposed development by restricting the amount of clearance and
+length/width of cleared areas and disturbing the least amount of forest canopy cover.
+(b) That any newly cleared area associated with the development is not greater than one acre,
+excluding from this total the area of the minimum necessary accessway required for fire safety
+purposes.
+(c) That no fencing will be built and existing fencing will be removed outside of areas cleared for
+the site development except for existing cleared areas used for agricultural purposes. Existing
+fencing located in the front yard adjacent to a public road shall be consistent with subsection
+(B)(6).
+(d) For mitigation areas, all trees, shrubs and ground cover shall be native plants selected from the
+Metro Native Plant List. An applicant shall meet Mitigation Option 1 or 2, whichever results in
+more tree plantings; except that where the total developed area (including buildings, pavement,
+roads, and land designated as a Development Impact Area) on a Lot of Record will be one acre or
+more, the applicant shall comply with Mitigation Option 2:
+1. Mitigation Option 1. In this option, the mitigation requirement is calculated based on
+the number and size of trees that are removed from the development site. Trees that are
+Page | 53
+removed from the development site shall be replaced as shown in the table below.
+Conifers shall be replaced with conifers. Bare ground shall be planted or seeded with
+native grasses or herbs. Non-native sterile wheat grass may also be planted or seeded, in
+equal or lesser proportion to the native grasses or herbs. Tree Replacement Table: Size of
+tree to be removed (inches in diameter) Number of trees and shrubs to be planted 6 to 12
+2 trees and 3 shrubs 13 to 18 3 trees and 6 shrubs 19 to 24 5 trees and 12 shrubs 25 to 30
+7 trees and 18 shrubs over 30 10 trees and 30 shrubs
+2. Mitigation Option 2. In this option, the mitigation requirement is calculated based on
+the size of the disturbance area associated with the development. Native trees and shrubs
+are required to be planted at a rate of five (5) trees and twenty-five (25) shrubs per every
+500 square feet of disturbance area (calculated by dividing the number of square feet of
+disturbance area by 500, and then multiplying that result times five trees and 25 shrubs,
+and rounding all fractions to the nearest whole number of trees and shrubs; for example,
+if there will be 330 square feet of disturbance area, then 330 divided by 500 equals .66,
+and .66 times five equals 3.3, so three trees must be planted, and .66 times 25 equals 16.5,
+so 17 shrubs must be planted). Bare ground shall be planted or seeded with native grasses
+or herbs. Non-native sterile wheat grass may also be planted or seeded, in equal or lesser
+proportion to the native grasses or herbs.
+(e) Location of mitigation area. All vegetation shall be planted within the mitigation area located
+on the same Lot of Record as the development and shall be located within the SEC-h overlay or
+in an area contiguous to the SEC-h overlay; provided, however, that if the vegetation is planted
+outside of the SEC-h overlay then the applicant shall preserve the contiguous area by executing a
+deed restriction, such as a restrictive covenant. (Note: an off-site mitigation option is provided in
+a streamlined discretionary review process). The mitigation area shall first be located within any
+existing non-forested cleared areas contiguous to forested areas, second within any degraded
+stream riparian areas and last in forested areas or adjacent to landscaped yards.
+(f) Prior to development, all work areas shall be flagged, fenced, or otherwise marked to reduce
+potential damage to habitat outside of the work area. The work area shall remain marked through
+all phases of development.
+(g) Trees shall not be used as anchors for stabilizing construction equipment.
+(h) Native soils disturbed during development shall be conserved on the property.
+(i) An erosion and sediment control plan shall be prepared in compliance with the ground
+disturbing activity standards set forth in MCC 39.6200 through MCC 39.6235.
+(j) Plant size. Replacement trees shall be at least one-half inch in caliper, measured at 6 inches
+above the ground level for field grown trees or above the soil line for container grown trees (the
+one-half inch minimum size may be an average caliper measure, recognizing that trees are not
+uniformly round), unless they are oak or madrone which may be one gallon size. Shrubs shall be
+in at least a 1-gallon container or the equivalent in ball and burlap and shall be at least 12 inches
+in height.
+(k) Plant spacing. Trees shall be planted between 8 and 12 feet on center and shrubs shall be
+planted between 4 and 5 feet on-center, or clustered in single species groups of no more than four
+(4) plants, with each cluster planted between 8 and 10 feet on-center. When planting near existing
+trees, the drip line of the existing tree shall be the starting point for plant spacing measurements.
+Page | 54
+(l) Plant diversity. Shrubs shall consist of at least two (2) different species. If 10 trees or more are
+planted, then no more than 50% of the trees may be of the same genus.
+(m) Nuisance plants. Any nuisance plants listed in MCC 39.5580 Table 1 shall be removed within
+the mitigation area prior to planting.
+(n) Planting schedule. The planting date shall occur within one year following the approval of the
+application.
+(o) Monitoring and reporting. Monitoring of the mitigation site is the ongoing responsibility of
+the property owner. Plants that die shall be replaced in kind so that a minimum of 80% of the
+trees and shrubs planted shall remain alive on the fifth anniversary of the date that the mitigation
+planting is completed.
+(6) For Protected Aggregate and Mineral (PAM) resources within a PAM Overlay, the applicant shall
+submit a Wildlife Conservation Plan which must comply only with measures identified in the Goal 5
+protection program that has been adopted by Multnomah County for the site as part of the program to
+achieve the goal.
+(D) Optional Development Impact Area (DIA). For the purpose of clustering home sites together with related
+development within the SEC-h overlay, an applicant may choose to designate an area around the home site for
+future related development and site clearing. For the purposes of establishing the appropriate mitigation for
+development within the DIA, existing vegetation within the DIA is presumed to be ultimately removed or cleared
+in the course of any future development within the DIA. Establishment of a DIA is subject to all of the applicable
+provisions in this section and the following:
+(1) The maximum size for a DIA shall be no greater than one acre, excluding from this total the area of
+the minimum necessary accessway required for fire safety purposes.
+(2) Any required mitigation for the DIA site under an approved wildlife conservation plan shall be
+completed within one year of the final approval of the application.
+(3) The DIA shall contain an existing habitable dwelling or approved dwelling site.
+(4) No more than one DIA is permitted per Lot of Record.
+(5) The DIA can be any shape, but shall be contiguous and shall fit within a circle with a maximum
+diameter of 400 feet.
+(6) For new dwellings that will be located on a Lot of Record that does not currently contain a dwelling,
+the DIA should be located within 200 feet of a public road or in the case of properties without road
+frontage, as close as practicable (accounting for required setbacks and fire safety zones) to the entry point
+of the vehicular access serving the property.
+(7) No part of a DIA may be located in a SEC-s Overlay, mapped wetland, or flood hazard zone.
+(8) All development within the DIA is subject to all development criteria in effect for the underlying zone
+and overlay zones at the time of development. Approval of a DIA does not preclude the applicant’s
+responsibility to obtain all other required approvals.
+(9) Once a DIA is approved and all predevelopment conditions of approval are met, development within
+the DIA may commence at any time thereafter provided the applicable approval criteria of this section are
+Page | 55
+the same as the criteria under which the DIA was originally approved. This provision does not waive the
+approval timeframe and/or expiration of any other permit approvals.
+FIRST READING: November 14, 2024
+SECOND READING AND ADOPTION: November 21, 2024
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jesse Beason, Vice-Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+SUBMITTED BY: Margi Bradway, Director, Department of Community Services
+Page | 56
+By
+Katherine Thomas, Sr. Assistant County
+Attorney on behalf of David Blankfeld, Sr.
+Assistant County Attorney
+
+Page | 1
+
+BEFORE THE PLANNING COMMISSION
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO. PC 2024-0001
+Recommend to the Board of County Commissioners the adoption of one or more
+ordinances amending MCC Chapter 39 to reorganize and clarify standards relating to
+significant environmental concern resource protection and refining rules specific to
+replacement and restoration of structures following a fire or natural disaster and creating
+a Type I review path for certain Significant Environmental Concern permits.
+The Planning Commission Finds:
+a. The Planning Commission is authorized by Multnomah County Code Chapter s
+39.1645, 38.0340 and by ORS 215.110 to recommend to the Board of County
+Commissioners the adoption of Ordinances to amen d the County Comprehensive
+Plan and land use regulations.
+b. Periodically, there is a need to make technical corrections, clarifications and similar
+“housekeeping” amendments to the Zoning Code to ensure, among other things,
+clarity and consistency in the Code.
+c. The changes in this recommended ordinance include restructuring of the order in
+which the Significant Environmental Concern standards appear . These changes will
+result into a more user-friendly, logical flow.
+
+d. Amendments include clarifying language for exemptions from the Significant
+Environmental Concern permit.
+
+e. Clarification of the term ‘within’ for the purposes of siting development in a Significant
+Environmental Concern overlay.
+
+f. Exemption provisions for structures destroyed by fire, disaster, or other casualty.
+
+g. Reduces to the required mitigation requirement for tree plantings.
+
+h. Creates one single set of regulations for development impacting streams and riparian
+areas.
+
+i. Creates a Type 1 simplified and streamlined review process  for the Significant
+Environmental Concern for Scenic Views permit for qualifying projects.
+
+j. Creates a Type 1 simplified and streamlined review process for the Significant
+Environmental Concern for Water Resources permit for qualifying projects.
+
+Exhibit 1
+
+Page | 2
+
+k. No property is being “rezoned,” as that term is defined in ORS 215.503, and therefore
+no mailed notice to individual property owners is required (“Ballot Measure 56” notice).
+Notice was published in the Oregonian newspaper and on the Land Use Planning
+Program website. The Planning Commission held a public hearing on June 10, 2024
+where all interested persons were given an opportunity to appear and be heard.
+The Planning Commission resolves:
+The adoption by the Board of County Commissioners of one or more ordinances
+amending MCC Chapter 39, in a form substantially similar to that approved by the
+Planning Commission, is hereby recommended.
+The Multnomah County Planning Commission Recommends as Follows:
+
+MCC 39 is amended as follows:
+
+CHAPTER 39 – MULTNOMAH COUNTY ZONING CODE
+
+PART 1 – ADMINISTRATION, PROCEDURES, ENFORCEMENT, PERMITS AND FEES
+
+( * * * )
+
+5.H – SIGNIFICANT ENVIRONMENTAL CONCERN OVERLAYS (SECO)
+
+PART 5.H.1 – SIGNIFICANT ENVIRONMENTAL CONCERN (SEC) DISTRICTS
+
+§39.5500  Purposes
+
+§39.5505  Ar ea  Af f ected
+
+§ 39.5510 Uses; SEC Permits Required
+
+§39.5515  Exceptions
+
+§39.5520  Application for SEC Permit
+
+§39.5525  Applicable Approval Criteria
+
+§39.5530  SEC Permit – Required Findings
+
+§39.5535  Scope of Conditions
+
+§39.5540  Crite ria for Approval of SEC Pe rmit
+
+§39.552045 Definitions
+
+§39.5525  Replacement or Restoration of Structures in All SEC Overlays
+
+Page | 3
+
+§39.5530  SEC Permit Crite ria (Significant Environmental Concern)
+
+§39.5540  SEC-h Permit Criteria (Significant Wildlife Habitats)
+
+§39.5550  SEC-s Permit Criteria (Significant Stre ams)
+
+§39.5560  SEC-sw Permit Criteria (Significant Sce nic Wate rways)
+
+§39.5570  SEC-v Permit Criteria (Significant Scenic Views)
+
+§39.5580  SEC-w Permit Criteria (Significant Wetlands)
+
+§39.5590  SEC-wr Permit Crite ria (Significant Wate r Re s ources)
+
+PART 5.H.2 – SEC STANDARDS APPLICABLE IN THE WEST OF SANDY RIVER AREA ONLY
+
+§39.5550  Existing Uses
+
+§39.5555  Buildable Lot Encroachment
+
+§39.5560  General Requirements for Approval in Areas Designated as SEC-wr or SEC-h
+
+PART 5.H.3 – SEC STANDARDS APPLICABLE IN THE URBAN PLANNING AREA ONLY
+
+§39.5570  Existing Uses in the Urban Planning Area
+
+§39.5575  General Requirements for Approval in Areas Designated as SEC-wr
+
+PART 5.H. 4 – NUISANCE PLANT LIST
+
+§39.5580  Nuisance Plant List
+
+PART 5.H.5 – SCENIC WATERWAY (SEC-sw)
+
+§39.5600  Crite ria for Approval of SEC-sw Permit
+
+PART 5.H.6 – SIGNIFICANT SCENIC VIEW (SEC-V)
+
+§39.5650  Crite ria for Approval of SEC-v Permit
+
+PART 5.H.7 – SIGNIFICANT WETLANDS (SEC-w)
+
+§39.5700  Crite ria for Approval of SEC-w Permit
+
+PART 5.H.8 – STREAMS (SEC-s)
+
+§39.5750  Crite ria for Approval of SEC-s Permit
+
+PART 5.H.9 – WATER RESOURCES (SEC-wr)
+
+Page | 4
+
+§39.5800  Crite ria for Approval of SEC-wr Pe rmit
+
+PART 5.H. 10 – WILDLIFE HABITAT (SEC-h)
+
+§39.5850 SEC-h Clear and Objective Standards
+
+§39.5860 Crite ria for Approval of SEC-h Permit
+
+* * *
+
+5.H – SIGNIFICANT ENVIRONMENTAL CONCERN (SEC) OVERLAYS (SEC)
+
+5.H.1 – SIGNIFICANT ENVIRONMENTAL CONCERN GENERAL PROVISIONS
+
+§ 39.5500 PURPOSES.
+
+The purposes of the Significant Environmental Concern Overlays, MCC 39.5500 through MCC
+39.55905860 (collectively, the “SEC Overlays”)  are to protect, conserve, enhance, restore, and maintain
+significant natural and human-made features which are of public value, including among other things,
+river corridors, streams, lakes and islands, domestic water supply watersheds, flood water storage areas,
+natural shorelines and unique vegetation, wetlands, wildlife and fish habitats, significant geological
+features, tourist attractions, archaeological features and sites, and scenic views and vistas, and to establish
+criteria, standards, and procedures for the development, change of use, or alteration of such features or of
+the lands adjacent thereto.
+
+§ 39.5505 AREA AFFECTED.
+
+(A)  Except as otherwise provided in MCC 39.5510 or MCC 39.5520 this section, the SEC Overlays shall
+apply to those lands designated with any of the following zoning overlay designations SEC on the
+Multnomah County Zoning Map consisting of the following resource area designations:
+Zoning Ove rlay De signation
+SEC: Significant Environmental Concern Area
+SEC-h:  Significant Wildlife Habitats
+SEC-s:  Significant Streams
+SEC-sw:  Significant Scenic Waterways
+Resource Area
+SEC-v:  Significant Scenic Views Resource Area
+SEC-w:  Significant Wetlands Resource Area
+SEC-s: Streams Resource Area
+SEC-wr:  Significant Water Resources Area
+
+Page | 5
+
+Zoning Ove rlay De signation
+SEC-h: Wildlife Habitat Resource Area
+
+(B)  In the event of a mapping inconsistency, the SEC-s zoning Overlay shall be interpreted to be the
+defined Stream Conservation Area as defined in MCC 39.5750.
+(C) SEC - Scenic Waterway (SEC-sw) - Land areas that are contained within the Sandy River Scenic
+Waterway as shown on the zoning maps adopted on (September 6, 1977, Ord. 149).
+(D) SEC-Water Resource Area (SEC-wr) - Protected water features, riparian/vegetated corridors and the
+adjacent impact areas, that are identified as significant resources in the Goal 5 Inventory, and as
+established by these definitions, are the areas included within the SEC-wr Overlay District.
+(1) Protected Water Features shall include:
+(a) Wetlands that provide a water quality benefit - Wetlands of metropolitan concern as
+shown on the Metro Water Quality and Flood Management Area Map and other wetlands
+which meet any one of the following criteria. Wetlands do not include artificially constructed
+and managed stormwater and water quality treatment facilities.
+1. The wetland is fed by surface flows, sheet flows or precipitation, and has evidence of
+flooding during the growing season, and has 60 percent or greater vegetated cover, and is
+over one-half acre in size;
+2.  The wetland qualifies as having "intact water quality function" under the 1996 Oregon
+Fresh water Wetland Assessment Methodology;
+3. The wetland is in the Flood Management Area, and has evidence of flooding during
+the growing season, and is five acres or more in size, and has a restricted outlet or no
+outlet;
+4.  The wetland qualifies as having "intact hydrologic control function" under the 1996
+Oregon Freshwater Wetland Assessment Methodology; or
+5.  The wetland or a portion of the wetland is within a horizontal distance of less than
+one-fourth mile from a water body which meets the Department of Environmental
+Quality definition of "water quality limited water body" in OAR Chapter 340, Division
+41 (1996).
+(b) Rivers, streams, and drainages downstream from the point at which 50-acres or more are
+drained to the water feature (regardless of whether it carries year-round flow); and
+(c) Streams carrying year-round flow; and
+(d) Streams designated as significant in the Goal 5 inventory; and
+(e) Springs which feed stream and wetlands and have year-round flow; and
+(f) Natural lakes.
+
+Page | 6
+
+(2) Riparian/Vegetated Corridors and Impact Area - The width of the riparian/vegetated corridor
+for all Protected Water Features varies and shall be as depicted on the Multnomah County Zoning
+Maps and is measured from the top of bank.
+(3) The zoning maps used to designate the SEC-wr zoning Overlay were created digitally by
+interpreting various data sources and maps contained in the 2002 West of Sandy River Goal 5
+ESEE report. Care was taken in the creation of the maps, but in some instances mapping
+inaccuracies have occurred during the process. For those areas included in the 2002 West of
+Sandy River Plan, the SEC-wr zoning Overlay shall be interpreted to be the Water Resource Area
+as defined in this subsection B.
+(E) SEC-Habitat (SEC-h)- Includes nonriparian and nonwetland natural resource sites that contain habitat
+values such as wooded areas and areas with rare or endangered flora and fauna, as identified by the Goal
+5 Inventory.  Habitat areas include the significant Goal 5 habitat resource and a 25 foot buffer to protect
+the root zone of the vegetation.  The boundaries of Significant Habitat Areas, which are designated as
+SEC-h, are established by the Goal 5 Natural Resource Inventory and include:
+(1) Those areas identified on the map as "Riparian Corridor/Wildlife Habitat and Impact Area"
+that do not otherwise meet the definition of Water Resource Area in subsection (B) above; and
+(2) Those areas identified on the map as "Isolated Upland Wildlife Habitat" that do not otherwise
+meet the definition of Water Resource Area in subsection (B) above.
+(BF) The zoning maps used to designate the SEC-s zoning overlay were created digitally by interpreting
+various data sources including the hand drawn maps contained in the Goal 5 ESEE reports and Metro’s
+riparian and wildlife habitat inventories. Care was taken in the creation of the maps, but in some instances
+mapping inaccuracies have occurred during the process. In the event of a mapping inconsistency, the
+SEC-s zoning overlay subdistrict shall be interpreted to be the defined Stream Conservation Area as
+defined in MCC 39.57505520.
+
+(C) The zoning maps used to designate the SEC-wr zoning overlay were created digitally by interpreting
+various data sources and maps contained in the 2002 West of Sandy River Goal 5 ESEE report. Care was
+taken in the creation of the maps, but in some instances mapping inaccuracies have occurred during the
+process. For those areas included in the 2002 West of Sandy River Plan, the SEC-wr zoning overlay shall
+be interpreted to be the Significant Water Resources as defined in MCC 39.5520.
+
+§ 39.5510 USES; SEC PERMITS REQUIRED.
+
+ (A) Except as provided in MCC 39.5515 and 39.5525, an SEC Overlays permit(s) is required for:
+ (1) All development, including but not limited to uses allowed in the base zone are allowed in the
+SEC when found to satisfy the applicable approval criteria given in such zone; provided however, that
+the location, and design of any use, or change, replacement, or alteration of a any use or structure,
+except as provided in MCC 39.5515, subject to approval of an SEC permit pursuant to this Subpart.
+ (B) (2) Any excavation or any removal of materials of archaeological, historical, pre-contact or
+anthropological nature shall be conducted under the conditions of an SEC permit, regardless of the
+zoning designation of the site.
+
+(B) An application for a use on a property containing more than one SEC overlay designation
+protected resource shall address the approval criteria for all of the designated SEC overlays resources
+
+Page | 7
+
+on the property. In the case of conflicting criteria, approval shall be based on the ability of the
+proposed development to comply as nearly as possible with the criteria for all designated SEC
+overlays resources that would be affected.
+
+* * *
+§ 39.5515 EXCEPTIONS.
+
+(A) Except as provided in subsection (B) of this Section, an SEC Overlays permit(s) shall not be required
+for the following:
+
+(1) Farm use, as defined in ORS 215.203 (2) (a), including buildings and structures accessory
+thereto on "converted wetlands" as defined by ORS 541.695 (9) or on upland areas. This
+exception does not apply to buildings and other development associated with farm practices and
+agricultural uses in the West of Sandy River Planning Area. The following vegetation removal:
+(a) The propagation of timber for personal use provided the tree(s) that are removed are
+replaced on a one-to-one basis with a native seedling or native tree within the boundaries
+of the subject property.
+(b) The removal of dead, decaying or other hazardous trees, provided the tree(s) that are
+removed are replaced on a one-to-one basis with a native seedling or native tree within
+the boundaries of the subject property.
+(c)(2) The propagation of timber or the cutting of timber for public safety or personal use
+or the cutting of timber in accordance with the State Forest Practices Act provided there
+is no change in land use.
+(2)(3) The following public safety and health related projects:
+(a) Alteration, repair, or replacement of septic system tanks, lines and drainfields and
+related components due to system failure provided that no fill materials shall be placed
+within the SEC-wr, SEC-w, or SEC-s. This exception does not apply to permits required
+by a local, state or federal agency, including but not limited to permits required for
+ground disturbing activities within a water body regulated by the Oregon Department of
+State Lands, the U.S. Army Corps of Engineers or the Oregon Department of Fish and
+Wildlife.
+(b) The maintenance and repair of existing flood control facilities.
+(c) Customary dredging and channel maintenance and the removal or filling, or both, for
+the maintenance or reconstruction of structures such as dikes, levees, groins, riprap,
+drainage ditch, irrigation ditches and tile drain systems as allowed by ORS 196.9065 (6).
+(d) Response to emergencies pursuant to the provisions of MCC 39.6900 (Responses to
+and Emergency/Disaster Event), provided a Post Emergency Response permit is obtained
+within specified timelines listed in MCC 39.6900 (C) and any required mitigation work is
+completed in compliance with the approved permit.
+(3)(4) The following projects completed for or by a public agency or utility:
+(a) The placing, by a public agency, of signs, markers, aids, etc., to serve the public.
+
+Page | 8
+
+(b) Right-of-way widening, new surfacing, and vegetation removal for existing rights-of-
+way when the additional right-of-way or surfacing or vegetation removal is deemed
+necessary by the County Engineer to meet the needs of the traveling public.
+(c) Utility poles necessary to provide service to the local area.
+(d) The placement of public utility infrastructure such as pipes, conduits and wires within
+an existing right-of-way to provide service to individua l properties and neighborhoods
+within unincorporated Multnomah County.
+(e) The expansion of capacity, or the replacement, of existing communication or energy
+distribution and transmission systems, except substations.
+(5) Activities to protect, conserve, enhance, and maintain public recreational, scenic, historical,
+and natural uses on public lands.
+(6) The expansion of capacity, or the replacement, of existing communication or energy
+distribution and transmission systems, except substations.
+(7) The maintenance and repair of existing flood control facilities.
+(4)(8) Change, alteration, or expansion of a lawfully established use or structure provided that:
+(a) Within the SEC, SEC-sw, and SEC-v, there is no change to, or alteration, or expansion of,
+the exterior of the structure;
+(b) Within the SEC-h, SEC-wr and SEC-s, there is no change to, or alteration or expansion
+of, the structure’s or a driveway’s ground coverage in excess of 400 square feet.  With respect
+to expansion, this exception does not apply on a project-by-project basis, but rather applies on
+a cumulative basis to all expansions occurring after the issuance of the original permit for the
+construction of the structure date above; and.
+(9) Type A Home Occupation.
+(5)(10) Type A, Type B or Type C Home Occupation in an existing building. This exemption
+includes including the addition of less than 400 square feet of ground coverage to the structure
+used for a Type B or Type C the Home Occupation within the SEC-h, SEC-wr and SEC-s. This
+exemption cannot be applied if the exception in (4) above has already been used.
+(11) Alteration, repair, or replacement of septic system tanks, lines and drainfields and related
+components due to system failure.
+(12) Utility poles necessary to provide service to the local area.
+(13) Right-of-way widening, new surfacing, and vegetation removal for existing rights-of-way
+when the additional right-of-way or surfacing or vegetation removal is deemed necessary by the
+County Engineer to meet the needs of the traveling public.
+(6)(14) The following resource enhancement projects that do not involve or are part of any
+property development:
+(a) Stream enhancement or restoration projects limited to removal by hand of invasive
+vegetation and planting of any native vegetation on the Metro Native Plant List.
+
+Page | 9
+
+(b)(15) Enhancement or restoration of the riparian corridor for water quality or quantity
+benefits, or for improvement of fish and wildlife habitat, pursuant to a plan that does not
+include placement of buildings or structures and does not entail grading in an amount
+greater than 10 cubic yards. This exemption is applicable to plans that are approved by
+Soil and Water Conservation District, the Natural Resources Conservation District, or the
+Oregon Department of Fish and Wildlife under the provisions for a Wildlife and Habitat
+Conservation Plan, and submitted to the County.
+(7)(16) In all SEC designations, a solar An accessory alternative energy system, including solar
+thermal and photovoltaic, that is installed on an existing building, provided that:
+(a) The installation of the solar energy system can be accomplished without increasing the
+footprint of the residential or commercial structure or the peak height of the portion of the
+roof on which the system is installed; and
+(b) The solar energy system would be mounted so that the plane of the system is parallel to
+the slope of the roof; and
+(c) The external surfaces of the solar energy system are designated as anti-reflective or have a
+reflectivity rating of eleven percent or less.
+(8)(17) One free standing renewable energy and heating system and its associated components up
+to 400 square feet of cumulative ground coverage including but not limited to solar (including
+solar panels), geothermal and wind generated systems, provided any conduit through the SEC-wr,
+SEC-s or SEC-w areas is provided by directional boring.
+(9)(18) Routine repair and maintenance of structures, roadways, driveways, utility facilities, and
+landscaped areas that are lawfully established were in existence prior to November 30, 2000.
+(19) Response to emergencies pursuant to the provisions of MCC 39.6900 (Responses to and
+Emergency/Disaster Event), provided that after the emergency has passed, adverse impacts are
+mitigated, provided a Post Emergency Response permit is obtained and any mitigation work
+completed.
+(10)(20) The following improvements, provided that if the property is within the SEC-v, the
+structure is a dark earthtone color or 100% screened from all IVAs:
+(a) Signs listed in MCC 39.6720 (A) through (F), MCC 39.6805 (Directional Signs), and
+MCC 39.6810 (Temporary Signs).
+(b)(21) Flag poles no taller than 35 feet above existing or finished grade (whichever is
+lower) designed to display national, state, or local recognized jurisdiction flags pursuant
+to the United States Flag Code or laws regulating the proper display of jurisdictional
+flags.
+(c)(22) Heating oil, propane and similar tanks up to 1,000 gallon capacity placed within
+100 feet of a lawfully existing structure provided any pipes crossing through SEC-s,
+SEC-wr, or SEC-w areas are provided by directional boring.
+(d)(23) Mechanical equipment such as heating and air conditioning units, heat pumps,
+ventilation and air filtration systems, electrical boxes, back-up power generators and
+energy storage systems, water pumps, and similar equipment placed within 100 feet of a
+
+Page | 10
+
+lawfully existing structure provide any pipes or conduit crossing through the SEC-s or
+SEC-w areas are provided by directional boring.
+(e) Placement of antennas and satellite dishes on an existing lawfully established
+structure.
+(f) Concrete slabs, parking areas, and similar low profile structures no taller than 36
+inches above initial grade.
+(g) Any modification or alteration to an existing exterior wall of a lawfully established
+structure that will be 100% screened from all IVAs by the structure itself.
+(24) The placement of utility infrastructure such as pipes, conduits and wires within an existing
+right-of-way.
+(25) In the West of Sandy River Planning Area the uses and structures excepted in MCC 39.5550
+(B) (1), (2), and (3).
+(26) Within the SEC-v:
+(a) Any modification or alteration to an existing exterior wall of a lawfully established
+structure that will be 100% screened from all IVAs by the structure itself.
+(b) Placement of antennas and satellite dishes on an existing lawfully established structure.
+(c) Concrete slabs, parking areas, and similar low profile structures no taller than 36 inches
+above initial grade.
+ (B) Farm use, as defined in ORS 215.203 (2) (a), including buildings and structures accessory to a
+farm use do not require an SEC permit except in the following situations:
+
+(1) Within the West of Sandy River Planning Area, an SEC-wr and/or SEC-sw permit is required
+for agricultural buildings, structures and development associated with farm practices and
+agricultural uses, except that agricultural fences shall not require an SEC-wr and/or SEC-sw
+permit.
+
+(2) Within Metro’s 2009 jurisdictiona l boundary, an SEC-s permit is required for agricultural
+buildings, structures and development associated with farm practices and agricultural uses, except
+that agricultural fences shall not require an SEC-s permit.
+
+§ 39.5520 APPLICATION FOR SEC PERMIT.
+
+An application for an SEC permit for a use or for the change or alteration of an existing use on land
+designated SEC, shall address the applicable criteria for approval, under MCC 39.5540 through 39.5860.
+
+(A) An application for an SEC permit shall include the following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of MCC 39.5540 through 39.5860.
+
+(2) A map of the property showing:
+
+Page | 11
+
+(a) Boundaries, dimensions, and size of the subject parcel;
+
+(b) Location and size of existing and proposed structures;
+
+(c) Contour lines and topographic features such as ravines or ridges;
+
+(d) Proposed fill, grading, site contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel, areas where
+vegetation will be removed, and location and species of vegetation to be planted,
+including landscaped areas;
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) In the SEC-wr overlay, the location of natural drainageways, springs, seeps, and
+wetlands on the site.
+
+(3) The Planning Director may also require the applicant to provide the following:
+
+(a) The location of the SEC-wr boundary, topography, or the location of development as
+determined by a registered professional surveyor or engineer;
+
+ (b) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades and existing or proposed
+vegetation.
+
+(B) SEC-Water Resource: In addition to the information requirements listed above, the following
+information shall be submitted for applications within the SEC-wr overlay.
+
+(1) A topographic map of the development area and adjacent areas of the site at contour intervals
+of five feet or less showing a delineation of the Water Area or Habitat Area as determined by a
+documented field survey, the location of all existing and proposed watercourses, drainageways,
+stormwater facilities, and utility installations;
+
+(2) The location of wetlands;
+
+(3) Information for the site from the adopted West of Sandy River Wildlife Habitat and Stream
+Corridor ESEE Reports, the County Goal 5 Inventory;
+
+(4) Preparation of plans and surveys inventories, assessment of existing conditions, and
+mitigation or restoration plans shall be prepared by a qualified fish or wildlife biologist at the
+discretion of the Planning Director. Wetlands shall be identified and delineated by a qualified
+wetland specialist. as set forth in the 1987 Corp of Engineers Wetland Delineation Manual.
+Required reports include:
+
+(a) An assessment of the existing condition of the Water Resource Area in accordance
+with MCC 39.5580 Table 2, Riparian/Vegetated Corridor Standards;
+
+(b) An inventory of vegetation, including percentage ground and canopy coverage, and
+location of nuisance plants listed in MCC 39.5580 Table 1;
+
+Page | 12
+
+(c) A detailed Mitigation Plan as described in 39.5800 (F), if required;
+
+(5) The applicant shall provide evidence that when federal or state requirements apply, that the
+agency has been contacted, and shall provide an assessment of whether the project can meet the
+requirements based on the agency response;
+
+(6) The location of all existing trees of a caliper greater than six (6) inches in diameter at breast
+height (DBH);
+
+(7) A description and map of soil types in the proposed development area and the locations and
+specifications for all proposed draining, filling, dredging, and vegetation removal, including the
+amounts and methods.
+
+§ 39.5525 APPLICABLE APPROVAL CRITERIA.
+
+ (A) The approval criteria that apply to uses in areas designated SEC-sw, SEC-v, SEC-w, SEC-s,
+SEC-wr, SEC-h on Multnomah County zoning maps shall be based on the type of protected resources on
+the property, as indicated by the subscript letter in the zoning designation, as follows:
+Zoning Overlay
+De signation
+Approval Crite ria
+(MCC#)
+SEC 39.5540
+SEC-sw (scenic
+waterway) 39.5600
+SEC-v (scenic
+views) 39.5650
+SEC-w (wetlands) 39.5700
+SEC-s (streams) 39.5750
+SEC-wr (water
+resource) 39.5560 and 39.5800
+SEC-h (wildlife
+habitat)
+Type I Permit – 39.5850
+Type II Permit – 39.5560,
+39.5850, and 39.5860
+
+ (B) An application for a use on a property containing more than one protected resource shall address
+the approval criteria for all of the designated resources on the property. In the case of conflicting criteria,
+approval shall be based on the ability of the proposed development to comply as nearly as possible with
+the criteria for all designated resources that would be affected.
+
+Page | 13
+
+ (C) For protected stream resources, the approval criteria shall be used to determine the most
+appropriate location, size and scope of the proposed development, in order to make the development
+compatible with the purposes of this Overlay, but shall not be used to prohibit a use or be used to require
+removal or relocation of existing physical improvements to the property. Any proposed development
+must comply with the approval criteria in order to be approved.
+
+§ 39.5530  SEC PERMIT - REQUIRED FINDINGS.
+
+A decision on an application for an SEC permit shall be based upon findings of consistency with the
+purposes of the SEC and with the applicable criteria for approval specified in MCC 39.5540 through
+39.5860.
+
+§ 39.5535  SCOPE OF CONDITIONS.
+
+(A) Conditions of approval of an SEC permit, if any, shall be designed to bring the application into
+conformance with the applicable criteria of MCC 39.5540 through 39.5860 and any other requirements
+specified in the Goal 5 protection program for the affected resource. Conditions may relate, but are not
+limited to relating, to the locations, design, and maintenance of existing and proposed improvements,
+including but not limited to buildings, structures and use areas, parking, pedestrian and vehicular
+circulation and access, natural vegetation and landscaped areas, fencing, screening and buffering,
+excavations, cuts and fills, signs, graphics, and lighting, timing of construction and related activities, and
+mitigation.
+
+(B) Approval of an SEC permit shall be deemed to authorize associated public utilities, including energy
+and communication facilities.
+
+(C) The approval criteria for an SEC permit shall be used to determine the most appropriate location, size
+and scope of the proposed development in order to ensure that it meets the purposes of this Overlay, but
+shall not be used to deny economically viable use or be used to require removal or relocation of existing
+physical improvements to the property.
+
+§ 39.5540 CRITERIA FOR APPROVAL OF SEC PERMIT.
+
+The SEC designation shall apply to those significant natural resources, natural areas, wilderness areas,
+and cultural areas, and wild and scenic waterways that are designated SEC on the Multnomah County
+Zoning Map. Any proposed development, activity or use requiring an SEC permit shall meet / comply
+with be subject to the following:
+ (A) The maximum possible landscaped area, scenic and aesthetic enhancement, open space or
+vegetation shall be provided between any use and a river, stream, lake, or floodwater storage area.
+ (B) Agricultural land and forest land shall be preserved and maintained for farm and forest use.
+ (C) A building, structure, or use shall be located on a lot in a manner which will balance functional
+considerations and costs with the need to preserve and protect areas of environmental significance.
+ (D) Recreational needs shall be satisfied by public and private means in a manner consistent with the
+carrying capacity of the land and with minimum conflict with areas of environmental significance.
+
+Page | 14
+
+ (E) The protection of the public safety and of public and private property, especially from vandalism
+and trespass, shall be provided to the maximum extent practicable.
+ (F) Significant fish and wildlife habitats shall be protected.
+ (G) The natural vegetation along rivers, lakes, wetlands and streams shall be protected and enhanced
+to the maximum extent practicable to assure scenic quality and protection from erosion, and continuous
+riparian corridors.
+ (H) Archaeological areas shall be preserved for their historic, scientific, and cultural value and
+protected from vandalism or unauthorized entry.
+ (I) Areas of annual flooding, floodplains, water areas, and wetlands shall be retained in their natural
+state to the maximum possible extent to preserve water quality and protect water retention, overflow, and
+natural functions.
+ (J) Areas of erosion or potential erosion shall be protected from loss by appropriate means.
+Appropriate means shall be based on current Best Management Practices and may include restriction on
+timing of soil disturbing activities.
+ (K) The quality of the air, water, and land resources and ambient noise levels in areas classified SEC
+shall be preserved in the development and use of such areas.
+ (L) The design, bulk, construction materials, color and lighting of buildings, structures and signs shall
+be compatible with the character and visual quality of areas of significant environmental concern.
+ (M) An area generally recognized as fragile or endangered plant habitat or which is valued for
+specific vegetative features, or which has an identified need for protection of the natural vegetation, shall
+be retained in a natural state to the maximum extent possible.
+ (N) The applicable policies of the Comprehensive Plan shall be satisfied.
+
+§ 39.5520 45 DEFINITIONS.
+
+For the purposes of the SEC Overlays section of the Multnomah County Zoning Code (Chapter 39), the
+following definitions apply.
+
+De velopment: Any human-made change defined as buildings or other structures, mining, dredging,
+paving, filling, or grading in amounts greater than ten (10) cubic yards on any lot or excavation.  Any
+other activity that results in the removal of more than 10 percent of the existing vegetation in the Water
+Resource Area or Habitat Riparian Area on a lot or parcel.
+Developed Area: An area(s) of land associated with and/or dedicated to the primary use of a property
+and/or accessory use(s) including, but not limited to lawns, open spaces, structures, buildings, driveways,
+and other development.
+Fore s ted Are a: An area that has at least 75 percent crown closure, or 80 square feet of basal area per
+acre, of trees 11 inches DBH and larger, or an area which is being reforested pursuant to Forest Practice
+Rules of the Oregon Department of Forestry.
+Identified Viewing Areas: Public areas that provide important views of a significant scenic resource, and
+include both sites and linear corridors. The Identified Viewing Areas are:
+
+Page | 15
+
+Bybee-Howell House
+
+Virginia Lakes
+
+Sauvie Island Wildlife Refuge
+
+Kelley Point Park
+
+Smith and Bybee Lakes
+
+Highway 30
+
+The Multnomah Channel
+
+The Willamette River
+
+Public roads on Sauvie Island.
+
+Native  plants: Native plants are those listed in the latest edition of the Metro Native Plant List, or
+deemed equivalent by the Planning Director.
+Non-Fore sted Are a: An area which does not meet the definition of a forested area, as defined in MCC
+39.5520, and which is not being reforested pursuant to a forest management plan.
+Nuisance, and invasive non-native plants and native plants: Nuisance and invasive non-native plants
+include the those plants listed in the latest edition of the Metro Nuisance Plant List, and the Prohibited
+Plant List, and include those plants listed in the latest edition of the State of Oregon Noxious Weed List,
+or deemed equivalent by the Planning Director in consultation with a native plan authority or specialist.
+Native plants are those listed in the latest edition of the Metro Native Plant List.
+Practicable, Practical: As in No Practicable Alternative. Available and capable of being done after
+taking into consideration cost, existing technology, and logistics in light of overall project purposes.
+Protected Streams: Those streams which have been evaluated through a Goal 5 ESEE analysis and
+protected by Ordinance and those streams and wetlands mapped by Metro’s Title 13 as Habitat
+Conservation Areas as modified through the planning process are designated SEC-s on the Multnomah
+County Zoning Maps.
+
+Riparian Are a: Those waterbodies, streams, wetlands, etc. protected by the SEC-wr and SEC-s Overlay
+designations. The Riparian Area includes the actual feature.
+
+Se rvice  Corridor: The entire length of the accessway and/or driveway measured from the public road to
+the proposed building or structure, parking areas, and circular turnarounds used to provide vehicle access
+to a building or use.
+
+Significant Environmental Concern Overlays (SEC Overlays): Those land areas identified in MCC
+39.5505 with zoning overlay designations areas designated on the Multnomah County Zoning Maps are
+land areas designated to protect, conserve, enhance, restore, and maintain significant natural and human-
+made features which are of public value, including among other things, river corridors, streams, lakes and
+islands, domestic water supply watersheds, flood water storage areas, natural shorelines and unique
+
+Page | 16
+
+vegetation, wetlands, wildlife and fish habitats, significant geological features, tourist attractions,
+archaeological features and sites, and scenic views and vistas.
+
+Significant Scenic Vie ws: Those areas designated SEC-v on Multnomah County Zoning Map.
+
+Significant Scenic Waterways (SEC-s w): Land areas that are contained within the Sandy River Scenic
+Waterway as shown on the zoning maps adopted on (September 6, 1977, Ord. 149).
+
+Significant Water Resources (SEC-wr): Protected water features, riparian/vegetated corridors and the
+adjacent impact areas, that are identified as significant resources in the Goal 5 Inventory, and as
+established by these definitions, are the areas included within the SEC-wr Overlay.
+Protected Water Features shall include:
+(1) Wetlands that provide a water quality benefit - Wetlands of metropolitan concern as shown on the
+Metro Water Quality and Flood Management Area Map and other wetlands which meet any one of
+the following criteria. Wetlands do not include artificially constructed and managed stormwater and
+water quality treatment facilities.
+(a) The wetland is fed by surface flows, sheet flows or precipitation, and has evidence of flooding
+during the growing season, and has 60 percent or greater vegetated cover, and is over one-half
+acre in size;
+(b) The wetland qualifies as having "intact water quality function" under the 1996 Oregon Fresh
+water Wetland Assessment Methodology;
+(c) The wetland is in the Flood Management Area, and has evidence of flooding during the
+growing season, and is five acres or more in size, and has a restricted outlet or no outlet;
+(d)  The wetland qualifies as having "intact hydrologic control function" under the 1996 Oregon
+Freshwater Wetland Assessment Methodology; or
+(e)  The wetland or a portion of the wetland is within a horizontal distance of less than one-fourth
+mile from a water body which meets the Department of Environmental Quality definition of
+"water quality limited water body" in OAR Chapter 340, Division 41 (1996).
+(2) Rivers, streams, and drainages downstream from the point at which 50-acres or more are drained
+to the water feature (regardless of whether it carries year-round flow); and
+(3) Streams carrying year-round flow; and
+(4) Streams designated as significant in the Goal 5 inventory; and
+(5) Springs which feed stream and wetlands and have year-round flow; and
+(6) Natural lakes.
+Riparian/Vegetated Corridors and Impact Area:
+
+(1) The width of the riparian/vegetated corridor for all Protected Water Features varies and shall be as
+depicted on the Multnomah County Zoning Maps and is measured from the top of bank.
+
+Page | 17
+
+Significant Wildlife Habitats (SEC-h): Includes nonriparian and nonwetland natural resource sites that
+contain habitat values such as wooded areas and areas with rare or endangered flora and fauna, as
+identified by the Goal 5 Inventory.  Habitat areas include the significant Goal 5 habitat resource and a 25
+foot buffer to protect the root zone of the vegetation.  The boundaries of Significant Wildlife Habitats,
+which are designated as SEC-h, are established by the Goal 5 Natural Resource Inventory and include:
+(1) Those areas identified on the Multnomah County Zoning maps as "Riparian Corridor/Wildlife
+Habitat and Impact Area" that do not otherwise meet the definition of Significant Water Resources in
+MCC 39.5520; and
+(2) Those areas identified on the Multnomah County Zoning maps as "Isolated Upland Wildlife
+Habitat" that do not otherwise meet the definition of Significant Water Resources in MCC 39.5520.
+Significant Wetlands: Those areas designated SEC-w on the Multnomah County Zoning Map and
+Significant wetlands consist of those areas designated as Significant on aerial photographs of a scale of 1
+inch = 200 feet made a part of the supporting documentation of the Comprehensive Plan.
+
+Stre am Conse rvation Are a: For the protected streams originally designated by Ordinance, the Stream
+Conservation Area designated on the zoning maps as SEC-s is an area extending upslope from and
+perpendicular to the centerline on both sides of a protected stream. The width of the Stream Conservation
+Area varies and shall be as depicted on the Multnomah County Zoning Maps and is from the centerline on
+both sides of the protected stream for the width of the mapped Overlay.
+
+Top of Bank: The same as "bankfull stage" which means the stage or elevation at which water overflows
+the natural banks of streams or other waters of this state and begins to inundate the upland. In the absence
+of physical evidence, the two-year recurrence interval flood elevation may be used to approximate the
+bankfull stage.
+
+Visually Subordinate: The subject development does not noticeably contrast with the surrounding
+landscape, as viewed from an identified viewing area. Development that is visually subordinate may be
+visible, but is not visually dominant in relation to its surroundings.
+
+Within: The term “within” shall mean at least 75% of the entire development (building, physical
+improvements, landscaping, yards, septic system, etc.) shall be no further than the required distance from
+a public road allowed in the SECO code provisions.
+
+5.H.2 – SEC STANDARDS APPLICABLE IN THE WEST OF SANDY RIVER AREA
+ONLY
+
+§ 39.5550 EXISTING USES THE WEST OF SANDY RIVER RURAL AREA.
+
+(A) Uses that legally existed in the West of Sandy River Planning Area on January 1, 2003, that are not
+included as Exceptions in MCC 39.5515, may utilize the provisions of this section. This section is
+intended to define the circumstances under which existing development can be improved or replaced
+under limited requirements in recognition of the preexisting status. The SEC provisions are also not
+intended to make existing uses nonconforming. However, approval of proposals for alteration of uses that
+were non-conforming prior to January 1, 2003, must obtain an SEC permit in addition to demonstrating
+compliance with the non-conforming use provisions of MCC 39.8300 through 39.8315.
+
+Page | 18
+
+(B) Change, expansion, or alteration of existing uses in the West of Sandy River Planning Area shall
+require an SEC permit as provided in MCC 39.5500 through 39.5860, except for changes to a structure as
+described in subsections (1) through (3) below:
+
+(1) In areas subject to the provisions of the SEC-sw, change, or alteration of existing uses which do
+not require any modification to the exterior of the structure;
+
+(2) Within the SEC-wr and SEC-h, addition of less than 400 square feet of ground coverage to the
+structure. This provision is intended to allow a maximum of 400 square feet of additional coverage to
+the structure that existed on January 1, 2003; and
+
+(3) Within the SEC-h overlay, alteration or expansion of 400 square feet or less of such driveway.
+
+(C) Replacement or restoration of existing structures in the West of Sandy River Planning Area that were
+unintentionally destroyed by fire or other casualty, or natural disaster within the same foundation lines
+shall not require an SEC permit. The redevelopment must be commenced within one year from the date of
+the loss, and may include an addition of a maximum 400 square feet of ground coverage. Structures
+which are expanded up to 400 square feet under this provision, may not subsequently expand under the
+provision in subsection (A)(2) above.
+
+(D) Within the SEC-wr, lawfully established structures in the West of Sandy River Planning Area that do
+not meet the casualty loss provisions of subsection (B) above may be replaced within the same foundation
+lines or area of ground coverage when the entire remaining vegetated corridor on the project site, or the
+first 50 feet closest to the stream, or an area equal to the ground coverage of the building and attached
+structures and paved areas, whichever is less, is enhanced to "good" condition pursuant to MCC 39.5800
+Table 2. Replacement shall be processed as a Type II review.
+
+(E) If development under this section is proposed to be located closer to a protected water feature,
+approval of a permit under the provisions of MCC 39.5520 through 39.5800 shall be obtained.
+
+§ 39.5555 BUILDABLE LOT ENCROACHMENT IN THE WEST OF SANDY RIVER
+PLANNING AREA.
+
+In the West of Sandy River Planning Area, where a parcel is partially or wholly inside the SEC-wr
+Overlay Zone, the property owner may apply for encroachment in lieu of meeting the requirements in
+MCC 39.5800(A), (B), or (C) for development in the SEC- wr. The applicant shall demonstrate that:
+
+(A) Without the proposed encroachment, the owner would be denied economically viable use of the
+subject property. To meet this criterion, the applicant must show that no other application could result in
+approval of an economically viable use of the subject property. Evidence to meet this criterion shall
+include a list of uses allowed on the subject property.
+
+(B) The proposed encroachment is the minimum necessary to allow for the requested use, however not
+more than 1 acre of the site, including access roads and driveways, and areas necessary for utilities and
+facilities, is disturbed;
+
+(C) The proposed encroachment will comply with MCC 39.5800 (E) Mitigation; and
+
+(D) The proposed use complies with the standards of the base zone.
+
+Page | 19
+
+§ 39.5560 GENERAL REQUIREMENTS FOR APPROVAL IN THE WEST OF SANDY
+RIVER PLANNING AREA DESIGNATED AS SEC-WR OR SEC-H.
+
+The requirements in this section shall be satisfied for development in the SEC-wr and SEC-h areas
+located in the West of Sandy River Planning Area in addition to the provisions of MCC 39.5800 or
+39.5860 as applicable.
+
+(A) Areas of erosion or potential erosion shall be protected from loss by appropriate means. Appropriate
+means shall be based on current Best Management Practices and may include restriction on timing of soil
+disturbing activities.
+
+(B) Outdoor lighting shall be of a fixture type and shall be placed in a location so that it does not shine
+directly into undeveloped water resource or habitat areas. Where illumination of a water resource or
+habitat area is unavoidable, it shall be minimized through use of a hooded fixture type and location. The
+location and illumination area of lighting needed for security of utility facilities shall not be limited by
+this provision.
+
+(C) The nuisance plants in MCC 39.554080 Table 1, in addition to the nuisance plants defined in MCC
+39.2000, shall not be used as landscape plantings within the SEC-wr and SEC-sh Overlay Zone.
+
+§ 39.5525 REPLACEMENT OR RESTORATION OF STRUCTURES IN ALL SEC
+OVERLAYS
+
+(A) In all SEC Overlays, when a lawfully established structure is destroyed by fire, natural disaster, or
+other casualty, an SEC Overlays permit(s) is not required when the following standards are met:
+
+(1) The structure is replaced within 75% of the same foundation lines, or
+
+(2) The structure is replaced within 75% of the same foundation lines, and the structure’s total
+ground coverage is unchanged or expanded by a maximum of 400 square feet. Structures which
+are expanded under this provision may not subsequently expand under the provision in MCC
+39.5515 (A)(4). Other existing physical improvements shall not be modified under this exception;
+
+(3) Any nuisance and invasive non-native plants, as defined in MCC 39.5520, are removed from
+within the developed area.
+
+(B) In the SEC overlays identified below, the following additional requirements shall apply:
+
+(1) In the SEC-v, SEC (East of Sandy River Area), and SEC-sw Overlays, the height of the structure
+shall not be increased beyond the original structure height.
+
+5.H.3 – SEC STANDARDS APPLICABLE IN THE URBAN PLANNING AREA ONLY
+
+§ 39.5570 EXISTING USES IN THE URBAN PLANNING AREA.
+
+(A) Uses that legally existed in the Urban Planning Area on January 7, 2010, that are not included as
+Exceptions in section MCC .39.5515, may utilize the provisions of this section. This section is intended to
+
+Page | 20
+
+define the circumstances under which existing development can be improved or replaced under limited
+requirements in recognition of the preexisting status. The SEC provisions are also not intended to make
+existing uses non-conforming. However, approval of proposals for alteration of uses that were non-
+conforming prior to the applicable SEC ordinance date, must obtain an SEC permit in addition to
+demonstrating compliance with the non-conforming use provisions of MCC 39.8300 through 39.8315.
+
+(B) Change, expansion, or alteration of existing uses in the Urban Planning Area shall require an SEC
+permit as provided in MCC 39.5500 through 39.5860, except for changes to a structure as described in
+subsections (1) or (2) below;
+
+(1) In areas subject to the provisions of the SEC Overlay, change, or alteration of existing uses
+which do not require any modification to the exterior of the structure;
+
+(2) Within the SEC-wr and SEC-h - addition of less than 400 square feet of ground coverage to
+the structure. This provision is intended to allow a maximum of 400 square feet of additional
+coverage to the structure that existed on January 7, 2010.
+
+(C) In the Urban Planning Area replacement or restoration of existing structures that were unintentionally
+destroyed by fire or other casualty, or natural disaster within the same foundation lines shall not require
+an SEC permit. The redevelopment must be commenced within one year from the date of the loss, and
+may include addition of a maximum 400 square feet of ground coverage. Structures which are expanded
+up to 400 square feet under this provision, may not subsequently expand under the provision in subsection
+(A)(2) above.
+
+(D) In the Urban Planning Area within the SEC-wr, lawfully established structures that do not meet the
+casualty loss provisions of subsection (B) above may be replaced within the same foundation lines or area
+of ground coverage when the entire remaining vegetated corridor on the project site, or the first 50 feet
+closest to the stream, or an area equal to the ground coverage of the building and attached structures and
+paved areas, whichever is less, is enhanced to "good" condition pursuant to MCC 39.5800 Table 2.
+Replacement shall be processed as a Type II review.
+
+(E) If development under this section is proposed to be located closer to a protected water feature,
+approval of a permit under the provisions of MCC 39.5520 through 39.5800 shall be obtained.
+
+§ 39.5530 SEC PERMIT CRITERIA (SIGNIFICANT ENVIRONMENTAL CONCERN)
+
+(A) Decision Review Process
+
+(1) Applications shall meet all of the criteria in MCC 39.5530 (B) through (C) and shall be processed
+through the Type II review procedure.
+
+(a) Properties designated with the SEC Overlay along the Sandy River in the East of Sandy River
+rural area, shall be subject to the approval criteria listed in MCC 39.5560 in lieu of the approval
+criteria in MCC 39.5530 (C) below.
+
+(B) Application Submittal Requirements.An All applications for an SEC permit shall include the
+following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of MCC 39.5530 (C) below.
+
+Page | 21
+
+(2) A scaled site plan of the property showing:
+
+(a) Property lines;
+
+(b) Location and size of all existing and proposed buildings and structures;
+
+(c) Contour lines and topographic features such as ravines or ridges (contour lines no
+greater than 10 feet);
+
+(d) Boundaries of ground disturbing activities, including proposed fill, excavating, site
+contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel (wooded
+areas), areas where vegetation will be removed, and location and species of vegetation to
+be planted, including landscaped areas;
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) Location of natural drainageways, springs, seeps, water bodies and wetlands on the
+site.
+
+(h) Location of wells, utility lines, stormwater drainage control system, sanitary tanks and
+drainfields (primary and reserve).
+
+(i) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades, and existing or proposed
+vegetation;
+
+(3) The Planning Director may also require the applicant to provide additional information,
+beyond that listed in this section such as a report prepared by an appropriate subject matter
+expert, where needed to address relevant approval criteria.
+
+(C) SEC Permit Approval Criteria
+
+The SEC designation shall apply to those significant natural resources, natural areas, wilderness areas,
+and cultural areas that are designated SEC on the Multnomah County Zoning Map. Any proposed
+development, activity or use requiring an SEC permit shall meet/ comply with the following:
+(1) The maximum possible landscaped area, scenic and aesthetic enhancement, open space or
+vegetation shall be provided between any use and a river, stream, lake, or floodwater storage area.
+(2) Agricultural land and forest land shall be preserved and maintained for farm and forest use.
+(3) A building, structure, or use shall be located on a lot in a manner which will balance functional
+considerations and costs with the need to preserve and protect areas of environmental significance.
+(4) Significant fish and wildlife habitats shall be protected.
+
+Page | 22
+
+(5) The natural vegetation along rivers, lakes, wetlands and streams shall be protected and enhanced
+to the maximum extent practicable to assure scenic quality and protection from erosion, and
+continuous riparian corridors.
+(6) Archaeological areas shall be preserved for their historic, scientific, and cultural value and
+protected from vandalism or unauthorized entry.
+(7) Areas of annual flooding, floodplains, water areas, and wetlands shall be retained in their natural
+state to the maximum possible extent to preserve water quality and protect water retention, overflow,
+and natural functions.
+(8) Areas of erosion or potential erosion shall be protected from loss by appropriate means.
+Appropriate means shall be based on current Best Management Practices and may include restriction
+on timing of soil disturbing activities.
+(9) The quality of the air, water, and land resources and ambient noise levels in areas classified SEC
+shall be preserved in the development and use of such areas.
+(10) The design, bulk, construction materials, color and lighting of buildings, structures and signs
+shall be compatible with the character and visual quality of areas of significant environmental
+concern.
+(11) An area generally recognized as fragile or endangered plant habitat or which is valued for
+specific vegetative features, or which has an identified need for protection of the natural vegetation,
+shall be retained in a natural state to the maximum extent possible.
+(12) The applicable policies of the Comprehensive Plan shall be satisfied.
+
+§ 39.5540 SEC-h PERMIT CRITERIA (SIGNIFICANT WILDLIFE HABITATS)
+
+(A) Decision Review Process
+
+(1) Applications that meet all of the criteria in MCC 39.5540 (C) below, shall be processed through
+the Type I review procedure. A mitigation plan pursuant to subsection (D) below is not required.
+
+(2) Applications that do not meet all of the criteria in MCC 39.5540 (C) below, shall be processed
+through the Type II review procedure. A mitigation plan pursuant to subsection (D) below is
+required.
+
+(B) Application Submittal Requirements.An All applications for an SEC-h permit shall include the
+following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of MCC 39.5540 (C) and (D)39.5540 through 39.5860.
+
+(2) A scaled site plan of the property showing:
+
+(a) Boundaries, dimensions, and size of the subject parcel Property lines;
+
+(b) Location and size of all existing and proposed structures; and all existing and proposed type
+and location of all fencing on the subject property and on adjacent properties and on properties
+entirely or partially within 200 feet of the subject property.
+
+Page | 23
+
+(c) Contour lines and topographic features such as ravines or ridges (contour lines not greater
+than 10 feet);
+
+(d) Boundaries of ground disturbing activities, including pProposed fill, excavating grading, site
+contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel (wooded areas), areas
+where vegetation will be removed, and location and species of vegetation to be planted, including
+landscaped areas;
+
+(f) Location and width of existing and proposed public roads, private access roads, driveways,
+and service corridors on the subject parcel and within 200 feet of the subject parcel's boundaries
+on all adjacent parcels;
+
+(g) Location of all existing forested areas (including areas cleared pursuant to an approved forest
+management plan) and non-forested "cleared" areas; For the purposes of this section, a forested
+area is defined as an area that has at least 75 percent crown closure, or 80 square feet of basal area
+per acre, of trees 11 inches DBH and larger, or an area which is being reforested pursuant to
+Forest Practice Rules of the Department of Forestry. A non-forested "cleared" area is defined as
+an area which does not meet the description of a forested area and which is not being reforested
+pursuant to a forest management plan;
+
+(h) Location of wells, utility lines, stormwater drainage control systems, sanitary tanks and
+drainfields (primary and reserve);
+
+(i) A scaled drawing of the building design and elevations that show the relationship between the
+building and existing and finished grades and existing or proposed vegetation;
+
+(3) The Planning Director may also require the applicant to provide additional information, beyond
+that listed in this section such as a report prepared by an appropriate subject matter expert, where
+needed to address relevant approval criteria.
+
+(C) SEC-h Permit Approval Criteria
+
+(1) Development Standards
+
+(a) Where a parcel contains any non-forested "cleared" areas within 200 feet of a public road,
+development shall only occur in these areas, except as necessary to provide access and to meet
+minimum clearance standards for fire safety.
+
+(b) Development shall occur within 200 feet of a public road capable of providing reasonable
+practical access to the developable portion of the site.
+
+(c) The access road/driveway and service corridor serving the development shall not exceed 500
+feet in length.
+
+(d) The development shall be within 300 feet of a side property line if adjacent property has
+structures and developed areas within 200 feet of that common side property line.
+
+Page | 24
+
+(e) Nuisance and invasive non-native plants, as defined in MCC 39.5540 shall not be planted on
+the subject property and shall be removed and kept removed from cleared areas of the subject
+property.
+
+(f) The proposed development shall meet the applicable stormwater and ground disturbing
+activity requirements of MCC 39.6200 through 39.6235. Ground disturbing activity within 100
+feet of a water body as defined by MCC 39.2000 shall be limited to the period between May 1st
+and September 15th. Revegetation and soil stabilization must be accomplished no later than
+October 15th.
+
+(g) Outdoor lighting shall be of a hooded fixture type and shall be placed in a location so that it
+does not shine directly into undeveloped habitat areas. Where illumination of habitat area is
+unavoidable, it shall be minimized through use of limited lumens with a hooded fixture type and
+proper placement. The location and illumination area of lighting needed for security of public
+utility facilities shall not be limited by this provision but should be done in a minimalistic
+manner.
+
+(D) Mitigation P lan Criteria
+
+(1) Mitigation Plan Requirements. An applicant shall propose a mitigation plan that provides
+mitigation activities and plantings as outlined in subsection (2) or (3) below. The mitigation area shall
+first be located within any existing non-forested cleared areas contiguous to forested areas, second
+within any degraded stream riparian areas and last in forested areas or adjacent to landscaped yards.
+
+(2) Additions to Lawfully Established Buildings / Structures: The applicant may utilize the
+following mitigation measures for additions to lawfully established buildings and structures
+instead of mitigation plan:
+
+(a) Each tree removed to construct the proposed development shall be replaced on a one to one
+ratio with a six foot tall native tree.
+
+(b) For each 100 square feet of new building area, the property owner shall plant, one, 3-4 foot
+tall native tree or three native tree seedlings. The trees shall be planted to improve wildlife habitat
+first within non-forested cleared areas contiguous to forested areas, second within any degraded
+stream riparian areas before being placed in forested areas or adjacent to landscaped yards.
+
+(c) All exterior lighting on the property is brought into compliance with the (C)(1)(g) above.
+
+(d) For non-forested “cleared” areas that require nuisance and invasive non-native plant removal
+pursuant to (C)(1)(e) above, the property owner shall set a specific date for the work to be
+completed and the area replanted with native vegetation. The time frame must be within two
+years from the date of the permit.
+
+(3) New Buildings, Structures, and Development: The mitigation plan must demonstrate the
+following:
+
+(a) That measures are included in order to reduce impacts to forested areas to the minimum
+necessary to serve the proposed development by restricting the amount of clearance and
+length/width of cleared areas and disturbing the least amount of forest canopy cover.
+
+Page | 25
+
+(b) That any newly cleared area associated with the development is not greater than one acre,
+excluding from this total the minimum area required for fire accessway purposes.
+
+(c) That no fencing will be built and existing fencing will be removed outside of areas cleared for
+the site development except for existing cleared areas used for agricultural purposes.
+
+(d) Mitigation areas
+
+(i) All trees, shrubs and ground cover shall be native plants selected from the Metro
+Native P lant List:
+
+(ii) Native trees and shrubs shall be planted at a rate of one (1) tree and one (1) shrub for
+every 100 square feet of development / disturbance area. Bare ground shall be planted or
+seeded with perennial native grasses or herbs.
+
+(iii) All vegetation shall be planted within the mitigation area located on the same Lot of
+Record as the development and shall be located within the SEC-h Overlay or in an area
+contiguous to the SEC-h Overlay.
+
+1. If the vegetation is planted in an area contiguous to the SEC-h Overlay, then
+the applicant shall preserve the contiguous area by executing a deed restriction,
+through a restrictive covenant.
+
+(e) That nNative soils disturbed during development will be conserved on the property.
+
+(f) P lant size. Mitigation trees shall be at least one-half inch in caliper, measured at 6 inches
+above the ground level for field grown trees or above the soil line for container grown trees (the
+one-half inch minimum size may be an average caliper measure, recognizing that trees are not
+uniformly round).
+
+(i) If using oak or madrone trees, the planting size may be one gallon. Shrubs shall be in
+at least a 1-quart container or the equivalent in ball and burlap and shall be at least 6
+inches in height.
+
+(g) Plant spacing. Trees shall be planted between 8 and 12 feet on center and shrubs shall be
+planted between 4 and 5 feet on-center, or clustered in single species groups of no more than four
+(4) plants, with each cluster planted between 8 and 10 feet on-center.
+
+(i) When planting near existing trees, the drip line of the existing tree shall be the starting
+point for plant spacing measurements.
+
+(h) P lant diversity. Shrubs shall consist of at least two (2) different species. If 10 trees or more are
+planted, then no more than 50% of the trees may be of the same genus.
+
+(E) Required Conditions of Approval for all SEC-h P ermits
+
+(1) An erosion and sediment control plan shall be prepared in compliance with the ground
+disturbing activity standards set forth in MCC 39.6200 through MCC 39.6235.
+
+Page | 26
+
+(2) Prior to development, all work areas shall be flagged, fenced, or otherwise marked to reduce
+potential damage to habitat outside of the work area. The work area shall remain marked through
+all phases of development.
+
+(3) Trees shall not be used as anchors for stabilizing construction equipment.
+
+(4) The planting date for the mitigation area shall occur within one year following the approval of
+the application.
+
+(5) Any nuisance and invasive non-native plants, as defined in MCC 39.5520, listed in MCC
+39.5580 Table 1 shall be removed within the mitigation area prior to planting.
+
+(6) Monitoring and reporting. Monitoring of the mitigation site is the ongoing responsibility of
+the property owner. A Yearly Report shall be provided to Multnomah County Land Use Planning
+for a period of five years, unless the Planning Director requires a longer reporting period.
+
+(a) Plants that die shall be replaced in kind so that a minimum of 80% of the trees and
+shrubs planted shall remain alive on the fifth anniversary of the date that the mitigation
+planting is completed.
+
+(b) Mitigation plantings shall be maintained and shall not be removed from the property
+without contacting Multnomah County Land Use Planning and receiving written approval
+to amend the Mitigation Plan.
+
+§ 39.5575 GENERAL REQUIREMENTS FOR APPROVAL IN THE URBAN PLANNING
+AREA DESIGNATED AS SEC-WR.
+
+The requirements in this section shall be satisfied for development in the SEC-wr areas located in the
+Urban Planning Area in addition to the provisions of MCC 39.5800 as applicable.
+
+(A) Areas of erosion or potential erosion shall be protected from loss by appropriate means. Appropriate
+means shall be based on current Best Management Practices and may include restriction on timing of soil
+disturbing activities.
+
+(B) Outdoor lighting shall be of a fixture type and shall be placed in a location so that it does not shine
+directly into undeveloped water resource or habitat areas. Where illumination of a water resource or
+habitat area is unavoidable, it shall be minimized through use of a hooded fixture type and location. The
+location and illumination area of lighting needed for security of utility facilities shall not be limited by
+this provision.
+
+(C) The nuisance plants in MCC 39.5580 Table 1, in addition to the nuisance plants defined in MCC
+39.2000, shall not be used as landscape plantings within the SEC-wr and SEC-h Overlay Zone.
+
+5.H.4 –  NUISANCE PLANT LIST
+
+§ 39.5585 NUISANCE PLANT LIST.
+
+( * * * )
+
+Page | 27
+
+§ 39.5550 SEC-s PERMIT CRITERIA (SIGNIFICANT STREAMS)
+
+(A) An application for an SEC-s permit shall meet the requirements and approval criteria listed in MCC
+39.5590.
+
+5.H.5 – SCENIC WATERWAY (SEC-sw)
+
+§ 39.55605600 SEC-sw PERMIT CRITERIA (SIGNIFICANT SCENIC WATERWAYS).
+
+(A) Decision Review Process
+
+(1) Applications that meet all of the following criteria shall be processed through the Type I
+review procedure:
+
+(a) The proposed building is no taller than 24 feet to top of ridgeline.
+(b) Dark earthtone colors are used on the exterior siding, trim and doors.
+(c) Building siding, roofing, windows and trim use low or non-reflective materials.
+Windows are low-e or better and have a reflectivity rating of 13 percent or less.
+(d) No more than 25 percent of the building elevation facing the Scenic Waterway is in
+glass.
+(e) All existing and proposed exterior lighting meets the Dark Sky Lighting Standards of
+MCC 39.6850. Shielding and hooding materials should be composed of nonreflective,
+opaque materials.
+(f) The proposed building and ground disturbance are screened by existing on-site
+vegetation from the Scenic Waterway.
+(g)  The application for the SEC-sw permit shall include a letter from the Oregon Parks
+and Recreation Department indicating that the proposed development has been reviewed
+and is, or can be, consistent with the provisions of the Oregon Scenic Waterways
+Management Plan.
+(2) Applications that do not satisfy the criteria in subsection (1) above, shall meet all of the
+criteria in MCC 39.5560 (C) and shall be processed through the Type II review procedure.
+
+(B) Application Submittal Requirements.An All applications for an SEC-sw permit shall include the
+following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of MCC 39.5560 (C).
+
+(2) A scaled site plan of the property showing:
+
+(a) Property lines;
+
+Page | 28
+
+(b) Location and size of all existing and proposed buildings and structures;
+
+(c) Contour lines and topographic features such as ravines or ridges (contour lines no
+greater than 10 feet);
+
+(d) Boundaries of ground disturbing activities, including proposed fill, grading
+excavating, site contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel (wooded
+areas), areas where vegetation will be removed, and location and species of vegetation to
+be planted, including landscaped areas;
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) Location of natural drainageways, springs, seeps, water bodies and wetlands on the
+site.;
+
+(h) Location of wells, utility lines, stormwater disposal system, sanitary tanks and
+drainfields (primary and reserve);
+
+(i) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades and existing or proposed
+vegetation;
+
+(3) The Planning Director may also require the applicant to provide additional information,
+beyond that listed in this section such as a report prepared by an appropriate subject matter
+expert, where needed to address relevant approval criteria.
+
+(C) SEC-sw Permit Approval Criteria.
+Any proposed development, activity or use requiring an SEC-sw permit shall comply with the following:
+Except as otherwise provided in this Subpart, all development within the SEC-sw shall be subject to the
+following:
+(1) The application for the SEC-sw permit shall include a letter from the Oregon Parks and
+Recreation Department indicating that the proposed development has been reviewed and is, or can be,
+consistent with the provisions of the Oregon Scenic Waterways Management Plan.
+(2) The maximum possible landscaped area, scenic and aesthetic enhancement, open space or
+vegetation shall be provided between any use and a river, stream, lake, or floodwater storage area.
+(3) Agricultural land and forest land shall be preserved and maintained for farm and forest use.
+(4) A building, structure, or use shall be located on a lot in a manner which will balance functional
+considerations and costs with the need to preserve and protect areas of environmental significance.
+(5) The natural vegetation along rivers, lakes, wetlands and streams shall be protected and enhanced
+to the maximum extent practicable to assure scenic quality and protection from erosion
+(6) Archaeological areas shall be preserved for their historic, scientific, and cultural value and
+protected from vandalism or unauthorized entry.
+
+Page | 29
+
+(7) Areas of erosion or potential erosion shall be protected from loss by appropriate means.
+Appropriate means shall be based on current Best Management Practices and may include restriction
+on timing of soil disturbing activities.
+(8) The design, bulk, construction materials, color and lighting of buildings, structures and signs shall
+be compatible with the character and visual quality of areas of significant environmental concern.
+(9) An area generally recognized as fragile or endangered plant habitat or which is valued for specific
+vegetative features, or which has an identified need for protection of the natural vegetation, shall be
+retained in a natural state to the maximum extent possible.
+
+5.H.6 – SIGNIFICANT SCENIC VIEWS (SEC-v)
+
+§ 39.5570 SEC-v PERMIT CRITERIA (SIGNIFICANT SCENIC VIEWS)
+
+(A) Decision Review Process
+
+(1) Applications that meet all of the following criteria shall be processed through the Type I
+review procedure:
+
+(a) The proposed building is no taller than 24 feet to top of ridgeline.
+(b) Dark earthtone colors are used on the exterior siding, trim and doors facing an
+Identified Viewing Area.
+(c) Building siding, roofing, windows and trim use low or non-reflective materials.
+Windows are low-e or better and have a reflectivity rating of 13 percent or less.
+(d) No more than 25 percent of the building elevation facing an Identified Viewing Area
+is in glass.
+(e) All existing and proposed exterior lighting meets the Dark Sky Lighting Standards of
+MCC 39.6850. Shielding and hooding materials should be composed of nonreflective,
+opaque materials.
+(f) The proposed building and ground disturbance are screened by existing on-site
+vegetation or are topographically not visible from an Identified Viewing Area as mapped
+by the County.
+(2) Applications that do not meet the criteria in subsection (1) above, shall meet all of the criteria
+in MCC 39.5570 (C) and shall be processed through the Type II review procedure.
+
+(B) Application Submittal Requirements.An All applications for an SEC-v permit shall include the
+following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria, and the visual subordinance requirements of subsection (C) below.
+
+(2) Details on the height, shape, colors, outdoor lighting, and exterior building materials of any
+proposed structure;
+
+Page | 30
+
+(3) Elevation drawings showing the appearance of proposed structures when built and
+surrounding final ground grades; and demonstrating how the proposed development will be
+visually subordinate as required by subsection (C) below, including information on the type,
+height and location of any vegetation or other materials which will be used to screen the
+development from the view of identified viewing areas.
+
+(4)(2) A scaled site plan of the property showing:
+
+(a) Property lines;
+
+(b) Location and size of all existing and proposed buildings and structures;
+
+(c) Contour lines and topographic features such as ravines or ridges (contour lines no
+greater than 10 feet);
+
+(d) Boundaries of ground disturbing activities, including proposed fill, excavating, site
+contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel (wooded
+areas), areas where vegetation will be removed, and location and species of vegetation to
+be planted, including landscaped areas;
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) The location of natural drainageways, springs, seeps, water bodies and wetlands on
+the site.
+
+(h) Location of wells, utility lines, stormwater drainage control systems, sanitary tanks
+and drainfields (primary and reserve).
+
+(i) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades and existing or proposed
+vegetation.
+
+(3) The Planning Director may also require the applicant to provide additional information,
+beyond that listed in this section such as a report prepared by an appropriate subject matter
+expert, where needed to address relevant approval criteria.
+
+(C) SEC-v Permit Approval Criteria
+
+(1) Any portion of a proposed development (including access roads, cleared areas and structures) on a
+property that is topographically visible from an identified viewing area shall be visually subordinate
+or achieve visual subordinance. For development to be found visually subordinate, the subject
+development shall not noticeably contrast with the surrounding landscape, as viewed from an
+identified viewing area. Development that is visually subordinate may be visible, but it shall not be
+visually dominant in relation to its surroundings. Guidelines which may be used to attain visual
+subordinance, and which shall be considered in making the determination of visual subordination
+include:
+
+Page | 31
+
+(a) Siting on portions of the property where topography and existing vegetation will screen the
+development from the view of identified viewing areas.
+
+(b) Use of nonreflective or low reflective building materials and dark natural or earthtone colors.
+
+(c) Exterior lighting that it is not highly visible from identified viewing areas and meets the Dark
+Sky Lighting Standards of MCC 39.6850. Shielding and hooding materials should be composed
+of nonreflective, opaque materials.
+
+(d) Use of screening vegetation or earth berms to block and/or disrupt views of the development.
+Priority should be given to retaining existing vegetation over other screening methods. Trees
+planted for screening purposes should be coniferous to provide winter screening. The applicant is
+responsible for the proper maintenance and survival of any vegetation used for screening.
+
+(e) Proposed developments or land use shall be aligned, designed and sited to fit the natural
+topography and to take advantage of vegetation and land form screening, and to minimize visible
+grading or other modifications of landforms, vegetation cover, and natural characteristics.
+
+(f) Limiting structure height to remain below the surrounding forest canopy level.
+
+(g) Siting and/or design so that the silhouette of buildings and other structures remains below the
+skyline of bluffs or ridges as seen from identified viewing areas. This may require modifying the
+building or structure height and design as well as location on the property, except:
+
+(1) New public communications facilities (transmission lines, antennae, dishes, etc.), may
+protrude above a skyline visible from an identified viewing area upon demonstration that:
+
+1. The new facility could not be located in an existing transmission corridor or built
+upon an existing facility;
+
+2. The facility is necessary for public service; and
+
+3. The break in the skyline is the minimum necessary to provide the service.
+
+(2) The approval authority may impose conditions of approval on an SEC-v permit in accordance
+with MCC 39.5535, in order to make the development visually subordinate. The extent and type of
+conditions shall be proportionate to the potential adverse visual impact of the development as seen
+from identified viewing areas, taking into consideration the size of the development area that will be
+visible, the distance from the development to identified viewing areas, the number of identified
+viewing areas that could see the development, and the linear distance the development could be seen
+along identified viewing corridors
+
+§ 39.5650 CRITERIA FOR APPROVAL OF SEC-V PERMIT – SIGNIFICANT SCENIC
+VIEWS.
+
+(A) For purposes of this Section, the following terms and their derivations shall have the meanings
+provided below:
+
+(1) Significant Scenic Resources – Those areas designated SEC-v on Multnomah County Zoning
+Map.
+
+Page | 32
+
+(2) Identified Viewing Areas – Public areas that provide important views of a significant scenic
+resource, and include both sites and linear corridors. The Identified Viewing Areas are:
+
+Bybee-Howell House
+
+Virginia Lakes
+
+Sauvie Island Wildlife Refuge
+
+Kelley Point Park
+
+Smith and Bybee Lakes
+
+Highway 30
+
+The Multnomah Channel
+
+The Willamette River
+
+Public roads on Sauvie Island.
+
+(3) Visually Subordinate – The subject development does not noticeably contrast with the
+surrounding landscape, as viewed from an identified viewing area. Development that is visually
+subordinate may be visible, but is not visually dominant in relation to its surroundings.
+
+(B) In addition to the information required by MCC 39.5520, an application for development in an area
+designated SEC-v shall include:
+
+(1) Details on the height, shape, colors, outdoor lighting, and exterior building materials of any
+proposed structure;
+
+(2) Elevation drawings showing the appearance of proposed structures when built and surrounding
+final ground grades; and
+
+(3) A list of identified viewing areas from which the proposed use would be visible; and,
+
+(4) A written description and drawings demonstrating how the proposed development will be visually
+subordinate as required by subsection (C) below, including information on the type, height and
+location of any vegetation or other materials which will be used to screen the development from the
+view of identified viewing areas.
+
+(C) Any portion of a proposed development (including access roads, cleared areas and structures) that will
+be visible from an identified viewing area shall be visually subordinate. Guidelines which may be used to
+attain visual subordinance, and which shall be considered in making the determination of visual
+subordination include:
+
+(1) Siting on portions of the property where topography and existing vegetation will screen the
+development from the view of identified viewing areas.
+
+Page | 33
+
+(2) Use of nonreflective or low reflective building materials and dark natural or earthtone colors.
+
+(3) Exterior lighting that it is not highly visible from identified viewing areas and meets the Dark Sky
+Lighting Standards of MCC 39.6850. Shielding and hooding materials should be composed of
+nonreflective, opaque materials.
+
+(4) Use of screening vegetation or earth berms to block and/or disrupt views of the development.
+Priority should be given to retaining existing vegetation over other screening methods. Trees planted
+for screening purposes should be coniferous to provide winter screening. The applicant is responsible
+for the proper maintenance and survival of any vegetation used for screening.
+
+(5) Proposed developments or land use shall be aligned, designed and sited to fit the natural
+topography and to take advantage of vegetation and land form screening, and to minimize visible
+grading or other modifications of landforms, vegetation cover, and natural characteristics.
+
+(6) Limiting structure height to remain below the surrounding forest canopy level.
+
+(7) Siting and/or design so that the silhouette of buildings and other structures remains below the
+skyline of bluffs or ridges as seen from identified viewing areas. This may require modifying the
+building or structure height and design as well as location on the property, except:
+
+(a) New communications facilities (transmission lines, antennae, dishes, etc.), may protrude
+above a skyline visible from an identified viewing area upon demonstration that:
+
+1. The new facility could not be located in an existing transmission corridor or built upon
+an existing facility;
+
+2. The facility is necessary for public service; and
+
+3. The break in the skyline is the minimum necessary to provide the service.
+
+(D) Mining of a protected aggregate and mineral resource within a PAM Overlay shall be done in
+accordance with any standards for mining identified in the protection program approved during the Goal 5
+process. The Application for SEC-v permit must comply only with measures to protect scenic views
+identified in the Goal 5 protection program that has been designated for the site.
+
+(E) The approval authority may impose conditions of approval on an SEC-v permit in accordance with
+MCC 39.5535, in order to make the development visually subordinate. The extent and type of conditions
+shall be proportionate to the potential adverse visual impact of the development as seen from identified
+viewing areas, taking into consideration the size of the development area that will be visible, the distance
+from the development to identified viewing areas, the number of identified viewing areas that could see
+the development, and the linear distance the development could be seen along identified viewing
+corridors
+
+ * * *
+5.H.7 – SIGNIFICANT WETLANDS (SEC-w)
+
+§ 39.55805700 SEC-w PERMIT CRITERIA (SIGNIFICANT WETLANDS).
+
+Page | 34
+
+Significant wetlands consist of those areas designated as Significant on aerial photographs of a scale of 1
+inch = 200 feet made a part of the supporting documentation of the Comprehensive Plan.
+(A) Decision Review Process
+(1) Applications shall meet all of the criteria in MCC 39.5580 and shall be processed through the
+Type II review procedure.
+(B) Application Submittal Requirements. All applications for any proposed development, activity or use
+requiring an SEC-w permit shall include the following: which would impact those wetlands shall be
+subject to the following:
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of MCC 39.5580 (C) and (D).
+
+(2) A scaled site plan of the property showing:
+
+(a) Property lines;
+
+(b) Location and size of all existing and proposed buildings and structures;
+
+(c) Contour lines and topographic features such as ravines or ridges (contour lines no
+greater than 5 feet);
+
+(d) Boundaries of ground disturbing activities, including proposed fill, excavating, site
+contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel, areas where
+vegetation will be removed, and location and species of vegetation to be planted,
+including landscaped areas;
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) Location of natural watercourses, drainageways, springs, seeps, water bodies and
+wetlands on the site. The riparian boundaries shall be determined by a documented field
+survey by a professional riparian/wetland specialist and mapped by a licensed surveyor.
+
+(h) Location of wells, utility lines, stormwater disposal system, sanitary tanks and
+drainfields (primary and reserve);
+
+(i) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades and existing or proposed
+vegetation;
+
+ (A) In addition to other SEC Permit submittal requirements, the application shall also include:
+(1) A site plan drawn to scale showing the wetland boundary as determined by a documented
+field survey, the location of all existing and proposed watercourses, drainageways, stormwater
+facilities, utility installations, and topography of the site at a contour interval of no greater than
+five feet;
+
+Page | 35
+
+(23) a An assessment of the wetland’s functional characteristics and water sources, and a
+description of the vegetation types and fish and wildlife habitat in a written report by a
+professional riparian/wetland specialist. The report shall contain a description and map of the
+wetland area that will be affected by the proposed development, activity and/or use.;
+A description and map of the wetland area that will be affected by the proposed activity. This
+documentation must also include a map of the entire wetland, an assessment of the wetland’s
+functional characteristics and water sources, and a description of the vegetation types and fish and
+wildlife habitat;
+(34) A description and map of soil types in the proposed development area and the locations and
+specifications for all proposed draining, filling, grading excavating, dredging, and vegetation
+removal, including the amounts and methods;
+(45) A study of any flood hazard, erosion hazard, or other natural hazards in the proposed
+development area and any proposed protective measures to reduce such hazards;
+(56) Detailed Mitigation Plans as described in subsection (D), if required;
+(7) The Planning Director may also require the applicant to provide additional information,
+beyond that listed in this section such as a report prepared by an appropriate subject matter
+expert, where needed to address relevant approval criteria.
+
+(6) Description of how the proposal meets the approval criteria listed in subsection (B) below.
+(CB) SEC-w Permit Approval Criteria
+The applicant shall demonstrate that the proposal meets the following:
+(1) Is water-dependent or requires access to the wetland as a central element of its basic design
+function, or is not water dependent but has no practicable alternative as described in subsection
+(C) below;
+(2) Will have as few adverse impacts as is practical to the wetland’s functional characteristics and
+its existing contour, vegetation, fish and wildlife resources, shoreline anchoring, flood storage,
+general hydrological conditions, and visual amenities. This impact determination shall also
+consider specific site information contained in the adopted wetlands inventory and the economic,
+social, environmental, and energy (ESEE) analysis made part of the supporting documentation of
+the comprehensive plan;
+(3) Will not cause significant degradation of groundwater or surface-water quality;
+(4) Will provide a buffer area of not less than 50 feet between the wetland boundary and upland
+activities for those portions of regulated activities that need not be conducted in the wetland;
+(5) Will provide offsetting replacement wetlands for any loss of existing wetland areas. This
+Mitigation Plan shall meet the standards of subsection (D).
+(6C) A finding of no practicable alternative is to be made only after demonstration by the
+applicant that:
+(a1) The basic purpose of the project cannot reasonably be accomplished using one or more
+other practicable alternative sites in Multnomah County that would avoid or result in less
+
+Page | 36
+
+adverse impact on a wetland. An alternative site is to be considered practicable if it is
+available for purchase and the proposed development, activity or use can be conducted on
+that site after taking into consideration costs, existing technology, infrastructure, and
+logistics in achieving the overall project purposes;
+(i) Documentation must be provided of the alternative site considered and why they are
+not suitable to be used for the proposed development, activity or use.
+(b2) The basic purpose of the project cannot be accomplished by a reduction in the size,
+scope, configuration, or density of the project as proposed, or by changing the design of the
+project in a way that would avoid or result in fewer adverse effects on the wetland; and
+(c3) In cases where the applicant has rejected alternatives to the project as proposed due to
+constraints, the applicant must demonstrate that they have made a reasonable attempt to
+redesign the project to meet (b) above. has been made to remove or accommodate such
+constraints.
+(4) This section is only applicable for wetland resources designated "3-C".
+(D) A Mitigation Plan and monitoring program may be approved upon submission of the following:
+(1) A site plan and written documentation which contains the applicable information for the
+replacement wetland as required by MCC 39.5580 (C)5700 (A);
+(2) A description of the applicant’s coordination efforts to date with the requirements of other
+local, State, and Federal agencies;
+(3) A Mitigation Plan which demonstrates retention of the resource values addressed in MCC
+39.5580 (C)5700 (B) (2);
+(4) Documentation that replacement wetlands were considered and rejected according to the
+following order of locational preferences:
+(a) On the site of the impacted wetland, with the same kind of resource;
+(b) Off-site, with the same kind of resource;
+(c) On-site, with a different kind of resource;
+(d) Off-site, with a different kind of resource.
+
+5.H.8 – SIGNIFICANT STREAMS (SEC-s)
+
+§ 39.5750 CRITERIA FOR APPROVAL OF SEC-S PERMIT – STREAMS.
+
+(A) For purposes of this Section, the following terms and their derivations shall have the meanings
+provided below:
+
+(1) Nuisance and invasive non-native plants – Those plants listed in the latest edition of the Metro
+Nuisance Plant List and the Prohibited Plant List, and include those plants listed in the latest edition
+of the State of Oregon Noxious Weed List.
+
+Page | 37
+
+(2) Protected Streams -- Those streams which have been evaluated through a Goal 5 ESEE analysis
+and protected by Ordinance and those streams and wetlands mapped by Metro’s Title 13 as Habitat
+Conservation Areas as modified through the planning process are designated SEC-s on the
+Multnomah County Zoning Maps.
+
+(3) Stre am Cons ervation Area – For the protected streams originally designated by Ordinance, the
+Stream Conservation Area designated on the zoning maps as SEC-s is an area extending upslope from
+and perpendicular to the centerline on both sides of a protected stream. The width of the Stream
+Conservation Area varies and shall be as depicted on the Multnomah County Zoning Maps and is
+from the centerline on both sides of the protected stream for the width of the mapped overlay. Any
+development proposed within a Stream Conservation Area shall be required to demonstrate that the
+development satisfies the standards of MCC 39.5750 (B) through (E).
+
+(A) Except for the exempt uses listed in MCC 39.5515 and the existing uses in MCC 39.5550, no
+development shall be allowed within a Stream Conservation Area unless approved by the Approval
+Authority pursuant to the provisions of MCC 39.5750 through 39.5755, (C) through (F) and MCC
+39.5800 through 39.5805.
+
+(C) In addition to other SEC Permit submittal requirements, any application to develop in a Stream
+Conservation Area shall also include:
+
+(1) A site plan drawn to scale showing the Stream Conservation Area boundary, the location of all
+existing and proposed structures, roads, watercourses, drainageways, stormwater facilities, utility
+installations, and topography of the site at a contour interval equivalent to the best available U.S.
+Geological Survey 7.5’ or 15’ topographic information;
+
+(2) A detailed description and map of the Stream Conservation Area including that portion to be
+affected by the proposed activity. This documentation must also include a map of the entire Stream
+Conservation Area, an assessment of the Stream Conservation Area’s functional characteristics and
+water sources, and a description of the vegetation types and fish and wildlife habitat;
+
+(3) A description and map of soil types in the proposed development area and the locations and
+specifications for all proposed draining, filling, grading, dredging, and vegetation removal, including
+the amounts and methods;
+
+(4) A study of any flood hazard, erosion hazard, and/or other natural hazards in the proposed
+development area and any proposed protective measures to reduce such hazards as required by
+subsection (E) (5) below;
+
+(5) A detailed Mitigation Plan as described in subsection (D), if required; and
+
+(6) A description of how the proposal meets the approval criteria listed in subsection (D) below.
+
+(D) For the protected stream resources, the applicant shall demonstrate that the proposal:
+
+(1) Will enhance the fish and wildlife resources, shoreline anchoring, flood storage, water quality and
+visual amenities characteristic of the stream in its pre-development state, as documented in a
+Mitigation Plan. A Mitigation Plan and monitoring program may be approved upon submission of the
+following:
+
+Page | 38
+
+(a) A site plan and written documentation which contains the applicable information for the
+Stream Conservation Area as required by subsection (C) above;
+
+(b) A description of the applicant’s coordination efforts to date with the requirements of other
+local, State, and Federal agencies;
+
+(c) A Mitigation Plan which demonstrates retention and enhancement of the resource values
+addressed in subsection (D) (1) above;
+
+(d) An annual monitoring plan for a period of five years which ensures an 80 percent annual
+survival rate of any required plantings.
+
+(E) Design Specifications: The following design specifications shall be incorporated, as appropriate, into
+any developments within a Stream Conservation Area:
+
+(1) A bridge or arched culvert which does not disturb the bed or banks of the stream and are of the
+minimum width necessary to allow passage of peak winter flows shall be utilized for any crossing of
+a protected streams.
+
+(2) All storm water generated by a development shall be collected and disposed of on-site into dry
+wells or by other best management practice methods which emphasize groundwater recharge and
+reduce peak stream flows.
+
+(3) Any exterior lighting associated with a proposed development shall be placed, shaded or screened
+to avoid shining directly into a Stream Conservation Area.
+
+(4) Any trees over 6" in caliper that are removed as a result of any development shall be replaced by
+any combination of native species whose combined caliper is equivalent to that of the trees removed.
+
+(5) Satisfaction of the erosion control standards of MCC 39.5090.
+
+(6) Soil disturbing activities within a Stream Conservation Area shall be limited to the period between
+June 15 and September 15. Revegetation/soil stabilization must be accomplished no later than
+October 15. Best Management Practices related to erosion control shall be required within a Stream
+Conservation Area.
+
+(7) Demonstration of compliance with all applicable state and federal permit requirements.
+
+(F) For those Stream Conservation Areas located within Metro’s jurisdictional boundaries, the following
+requirements apply in addition to subsections (C) through (E) above:
+
+(1) The planting of any invasive nonnative or noxious vegetation as listed in subsection (A)(4) above
+is prohibited. In addition, the species listed in MCC 39.5580 Table 1 shall not be planted.
+
+(2) The revegetation of disturbed areas shall primarily use native plants. A list of native plants can be
+found in the latest edition of the Metro Native Plant List.
+
+(3) Outside storage of hazardous materials as determined by DEQ is prohibited, unless such storage
+began before the effective date of the applicable SEC ordinance; or, unless such storage is contained
+and approved during development review.
+
+Page | 39
+
+(G) For Protected Aggregate and Mineral (PAM) resources within a PAM Overlay, the Mitigation Plan
+must comply only with measures identified in the Goal 5 protection program that has been designated for
+the site.
+
+5.H.9 – WATER RESOURCES (SEC-wr)
+
+§ 39.5590  SEC-wr PERMIT CRITERIA (SIGNIFICANT WATER RESOURCES)
+
+(A) Decision Review Process
+
+(1) Applications that meet all of the following criteria shall be processed through the Type I
+review procedure:
+
+(a) The proposed development is located at least 100 feet from the top of bank of the
+Protected Water Feature; and
+
+(b) The application includes a mitigation plan meeting the requirements of MCC 39.5590
+(D) that enhances the entire 25 feet in depth closest to the Protected Water Feature
+for the length of the property, to “Good Corridor” condition as defined in MCC
+39.5590 (D).
+
+(2) Applications that do not meet all of the criteria in MCC 39.5590 (A)(1) shall be processed
+through the Type II review procedure. The applicant shall meet all of the criteria in MCC 39.5590
+(B) through (E) below.
+
+(B) Application Submittal Requirements. An All applications for an SEC-wr or SEC-s permit shall
+include the following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of subsection (C) through (E) below.
+
+(2) A site plan of the property showing:
+
+(a) Property lines;
+
+(b) Location and size of all existing and proposed buildings and structures;
+
+(c) Contour lines and topographic features such as ravines or ridges. In addition, detailed
+topographic information of the development area, adjacent areas of the site, and a
+topographic delineation of the SEC-wr or SEC-s riparian area affected by the project.
+Contour information shall be determined by a field survey by an Oregon licensed
+surveyor. (Contour intervals shall be no greater than 5 feet);
+
+(d) Boundaries of ground disturbing activities, including proposed fill, excavating, site
+contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel (wooded
+areas), areas where vegetation will be removed, and location and species of vegetation to
+be planted, including landscaped areas;
+
+Page | 40
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) Location of natural drainageways, springs, seeps, water bodies and wetlands on the
+site.
+
+(h) Location of all existing trees of a caliper greater than six (6) inches in diameter at
+breast height (DBH);
+
+(i) Location of wells, utility lines, stormwater drainage control systems, sanitary tanks
+and drainfields (primary and reserve);
+
+(j) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades and existing or proposed
+vegetation.
+
+(3) A description and map of soil types in the proposed development area and the locations and
+specifications for all proposed draining, filling, dredging, and vegetation removal, including the
+amounts and methods.
+
+(4) Preparation of a report which includes plans and surveys by a qualified wetland or riparian
+consultant, fish and wildlife biologist, or other qualified professional at the discretion of the
+Planning Director. Approval of a other qualified professional must be granted before the report is
+completed. Wetlands shall be identified and delineated by a qualified wetland specialist. The
+consultant shall prepare a report which includes:
+
+(a) An assessment of the existing condition of the Riparian Area in accordance with MCC
+39.5590 (D);
+
+(b) An inventory of vegetation, including percentage ground and canopy coverage, and
+location of nuisance and invasive non-native plants as defined in MCC 39.5520;
+
+(c) A detailed Mitigation Plan as described in MCC 39.5590 (D);
+
+(5) The applicant shall provide evidence that when federal or state requirements apply, that the
+agency has been contacted, and shall provide an assessment of whether the project can meet the
+requirements based on the agency response;
+
+(6) The Planning Director may also require the applicant to provide additional information,
+beyond that listed in this section such as a report prepared by an appropriate subject matter
+expert, where needed to address relevant approval criteria.
+
+(C) SEC-wr and SEC-s Permit Approval Criteria
+
+(1) Except for the exempt uses listed in MCC 39.5590 and the existing uses pursuant to MCC
+39.55255550, no development shall be allowed within a Riparian Area unless the provisions of
+subsections (2) or (3) & or (4) below are satisfied. An application shall not be approved unless it
+contains the site analysis information required in (B) (A) above.
+
+Page | 41
+
+(2) Low Impact Sites - Development on parcels in locations that would have low impacts on Riparian
+Areas may be exempt from the Alternatives Analysis in subsection (3) below. Development on sites
+that meet the following criterion may be allowed pursuant to the other applicable requirements of this
+Overlay including the Development Standards of subsection (4) and the provisions for Mitigation in
+subsection (D):
+
+(a) The entirety of the development site is at least one hundred (100) feet from top of bank or top
+of ravine, which ever results in a greater distance from the Protected Water Feature. Top of ravine
+is the break in the > 25% slope. Slope should be measured in 25- foot increments away from the
+water feature until the slope is less than 25% (top of ravine), up to a maximum distance of 200'
+from the water feature. Where multiple resources are present (e.g., stream with wetlands along
+banks), the starting point for measurement should be whichever offers greatest resource
+protection.
+
+(3) Alternatives Analysis Sites- Development proposed within a Riparian Area may be allowed if
+there is no alternative, when the other requirements of the Overlay including the Development
+Standards of subsection (4) and the provisions for Mitigation in subsection (D) are met. The applicant
+shall prepare an alternatives analysis which demonstrates that:
+
+(a) No practicable alternatives to the requested development location exists on the property
+further than 100 feet from the protected water feature; and
+
+(b) Development within the Alternative Analysis Site in the Riparian Area has been limited to the
+minimum area necessary to allow for the proposed use;
+
+(c) Development shall occur as far as practically possible from the protected water feature; and
+
+(d) The Riparian Area can be restored to an equal or better condition; or
+
+(e) Any net loss on the property of Riparian Area is mitigated.
+
+(4) Development Standards: Development within the Riparian Area shall comply with the following
+standards:
+
+(a) Development of trails, rest points, viewpoints, and other facilities in public and private parks
+for the enjoyment of the resource must be done in such a manner so as to minimize impacts on
+the natural resource while allowing for the enjoyment of the natural resource.
+
+(b) Development in areas of dense standing trees shall be designed to minimize the numbers of
+trees to be cut. No more than 50 percent of mature standing trees (of 6-inch DBH or greater) shall
+be removed without a one-for-one replacement with comparable species. Replacement trees shall
+be placed within the riparian corridor or adjacent to it to provide shade and water retention. Size
+of the replacement trees shall be 5 gallon or greater. The site plan for the proposed activity shall
+identify all mature standing trees by type, size, and location, which are proposed for removal, and
+the location and type of replacement trees.
+
+(c) Areas of standing trees, shrubs, and natural vegetation shall remain connected or contiguous,
+particularly along natural drainage courses, so as to provide a transition between the proposed
+development and the natural resource, to provide food, water, and cover for wildlife, and to
+protect the visual amenity values of the natural resource.
+
+Page | 42
+
+(d) The Riparian Area shall be restored to " ‘Ggood Corridor’ condition" as defined in MCC
+39.5590 (D)(1), and maintained in accordance with the mitigation plan pursuant to subsection
+MCC 39.5590 (D) below and the specifications in Table 2 of this section.
+
+(e) To the extent practicable, existing vegetation shall be protected and left in place. Work areas
+shall be carefully located and marked to reduce potential damage to the Riparian Area. Trees in
+the Riparian Area shall not be used as anchors for stabilizing construction equipment.
+
+(f) Prior to construction of the development, the boundaries of the Riparian Area shall be flagged,
+fenced or otherwise marked and shall remain undisturbed except as otherwise allowed by the
+permit. Such markings shall be maintained until construction is complete.
+
+(g) Stormwater drainage control facilities:
+
+(i) Stormwater management shall be conducted in a manner that does not increase the flow of
+stormwater to the stream above pre-development levels.
+
+(ii) The stormwater drainage control facility may only encroach a maximum of 25 feet into
+the outside boundary of the Riparian Area; and
+
+(iii) The area of encroachment must be replaced by adding an area equal in size and with
+similar functions and values to the Riparian Area on the subject property.
+
+(h) The nuisance and invasive non-native plants, as defined in MCC 39.5520, in addition to the
+nuisance plants defined in, shall not be used as landscape plantings within the Riparian Area
+SEC-wr and SEC- Overlays.
+
+(i) Areas of erosion or potential erosion shall be protected from loss by appropriate means.
+Appropriate means shall be based on current Best Management Practices.
+
+(i) Soil disturbing activities within a Riparian Area shall be limited to the period between
+June 15 and September 15. Revegetation/soil stabilization must be accomplished no later than
+October 15.
+
+(j) Outdoor lighting shall be of a fixture type and shall be placed in a location so that it does not
+shine directly into undeveloped Riparian Areas. Where illumination of a Riparian Area is
+unavoidable, it shall be minimized through use of a hooded fixture type and location. The
+location and illumination area of lighting needed for security of public utility facilities shall not
+be limited by this provision, but should be done in a minimalist ic manner.
+
+(k) A bridge or open-bottom culvert, which does not disturb the bed or banks of the stream and is
+in compliance with the County’s Flood Hazard regulations shall be utilized for any crossing of a
+protected streams.
+
+(D) Mitigation: Mitigation shall be required to offset the impacts of development within the Riparian
+Area. This subsection section establishes how mitigation can occur.
+
+(1) Vegetated Corridor Condition: For the purposes of the SEC-wr Overlay, vegetated corridor
+conditions are defined below.
+
+Page | 43
+
+(a) Good Corridor: A combination of native trees, shrubs, and groundcover covering greater
+than 80% of the area, and greater than 50% tree canopy exists (aerial measure).
+(b) Marginal Corridor: A combination of native trees, shrubs, and groundcovers covering 50-
+80% of the area and/or 26-50% tree canopy exists (aerial measure).
+(c) De grade d Corridor: A combination of native trees, shrubs, and groundcovers covering is less
+than 50% of the area, and/or less than 25% tree canopy exists (aerial measure), and/or greater
+than 10% of the area is covered by invasive, non-native species.
+ (2) Mitigation Sequence: Mitigation includes avoiding, minimizing or compensating for adverse
+impacts to regulated natural resource areas.
+
+(a) When a proposed development could cause adverse impacts to a natural resource area, the
+preferred sequence of mitigation as defined in 1 through 5 below shall be followed unless the
+applicant demonstrates that an overriding public benefit would warrant an exception to this
+preferred sequence.
+
+(i) Avoiding the impact altogether by not taking a certain action or parts of actions on that
+portion of the site which contains the regulated natural resource area;
+
+(ii) Minimizing impacts by limiting the degree or magnitude of the action and its
+implementation;
+
+(iii) Compensating for the impact by repairing, rehabilitating, or restoring the affected
+environment;
+
+(iv) Compensating for the impact by replacing, enhancing or providing substitute
+resources or environments on-site.
+
+(v) Compensating for the impact by replacing, enhancing or providing substitute
+resources or environments off-site.
+
+(b) When evaluating potential impacts to the natural resource, the County may consider whether
+there is an overriding public benefit for the public project, given:
+
+(i) The extent of the public need for the proposed development;
+
+(ii) The functional values of the Riparian Area that may be affected by the proposed
+development;
+
+(iii) The extent and permanence of the adverse effects of the development on the Riparian
+Area, either directly or indirectly;
+
+(iv) The cumulative adverse effects of past activities on the Riparian Area or Stream
+Conservation Area, either directly or indirectly; and
+
+(v) The uniqueness or scarcity of the Riparian Area that may be affected.
+
+Page | 44
+
+(3) Compensatory Mitigation: General Requirements. As a condition of any permit or other approval
+allowing development which results in the loss or degradation of, compensatory mitigation shall be
+required to offset the encroachment of the development into the area. The mitigation shall meet the
+following:
+
+(a) Any person who alters or proposes to alter a Riparian Area shall restore or create a vegetated
+corridor equivalent to or larger than the altered corridor in order to compensate for resource
+losses.
+
+(b) The following ratios apply to the creation or restoration of the vegetated corridor. The first
+number specifies the amount of vegetated corridor to be created and the second specifies the
+amount of Riparian Area to be altered or lost.
+
+Creation (off-site) 2:1
+
+Restoration (off-site) 1.5:1
+
+Creation (on-site) 1.5:1
+
+Restoration (on-site) 1:1
+
+(c) Only Marginal or Degraded Corridor(s) as defined in MCC 39.5590 (D)(1) may be the subject
+of a restoration project proposed as part of a Mitigation Plan.
+
+(d) Highest priority sites for mitigation are Marginal or Degraded Corridor(s) that are closest to a
+natural drainage on the property, and areas which will increase contiguous areas of standing trees,
+shrubs, and natural vegetation along drainages.
+
+(e) The off-site mitigation shall be as close to the development as is practicable above the
+confluence of the next downstream tributary, or if this is not practicable, within the watershed
+where the development will take place or as otherwise specified by the County and shall comply
+with (c) and (d) above.
+
+(f) In order to ensure that on-site mitigation areas are established and maintained, the property
+owner shall record the mitigation plan approval in the deed records of Multnomah County. In
+order to ensure that offsite mitigation areas will be protected in perpetuity, the owner shall cause
+a deed restriction to be placed on the property where the mitigation is required. The deed
+restriction shall be irrevocable unless a statement of release is signed by an authorized
+representative of Multnomah County.
+
+(4) Mitigation Plan Standards: Natural resource mitigation plans shall contain the following
+information:
+
+(a) A description of adverse impacts that could be caused as a result of development.
+
+(b) An explanation of how adverse impacts to resource areas will be avoided, minimized, and/or
+mitigated.
+
+(c) A list of all responsible parties including, but not limited to, the owner, applicant, contractor
+or other persons responsible for work on the development site.
+
+Page | 45
+
+(d) A map drawn to scale, showing where the specific mitigation activities will occur.
+
+(e) An implementation schedule, including timeline for construction, mitigation, mitigation
+maintenance, monitoring, reporting and a contingency plan. All in-stream work in fish-bearing
+streams must be done in accordance with the Oregon Department of Fish and Wildlife in-stream
+timing schedule.
+
+(f) Mitigation work shall be completed prior to initiation of development where possible.
+
+(i) Where existing vegetation has been removed, or the original land contours disturbed,
+the site shall be revegetated, and the vegetation shall be established in the next planting
+season.
+
+(ii) Nuisance and invasive non-native plants, as defined in MCC 39.5520, or other debris
+and noxious materials shall be removed and be kept removed from the Riparian Area by
+the property owner.
+
+1. Removal shall be by hand or mechanically with small equipment, as
+appropriate to minimize damage to existing native vegetation.
+
+2. Interim erosion control measures such as mulching shall be used to avoid
+erosion on bare areas.
+
+3. Nuisance and invasive non-native plants, as defined in MCC 39.5520, shall be
+replaced by the next growing season with native plants that are appropriate to the
+site conditions to restore the vegetated corridor.
+
+ (E) Required Conditions of Approval for all SEC-wr and SEC-s P ermits
+
+(1) Provide certification by a professional wetland or riparian consultant, fish and wildlife biologist,
+landscape architect, or other qualified professional as determined by the Planning Director, that the
+riparian/vegetated corridor was restored according to the mitigation plan and that the vegetated
+corridor will qualify as ‘Good Corridor’ within 5 years.
+(2) The plantings shall be monitored for five years to ensure that the vegetation naturalizes. Failure of
+vegetation to be maintained in a healthy growing state shall require continued monitoring by a
+professional.
+
+(a) A yearly report shall be provided to Multnomah County Land Use Planning outlining the
+condition of the plantings and if any modifications to the mitigation plan are necessary. Any
+proposed modifications to the mitigation plan require written approval by Multnomah County
+Land Use Planning.
+
+(3) Work areas shall be carefully located and marked to reduce potential damage to the Riparian Area.
+
+(4) Trees in the Riparian Area shall not be used as anchors for stabilizing construction equipment.
+
+§ 39.5800 CRITERIA FOR APPROVAL OF SEC-WR PERMIT – WATER RESOURCE.
+
+Page | 46
+
+(A) Except for the exempt uses listed in MCC 39.5515 and the existing uses pursuant to MCC 39.5550,
+no development shall be allowed within a Water Resource Area unless the provisions of subsections (B)
+or (C) or (D) below are satisfied. An application shall not be approved unless it contains the site analysis
+information required in MCC 39.5520(A) and (B), and meets the general requirements in MCC 39.5560.
+
+(B) Development on Low Impact Sites - Development on parcels in locations that would have low
+impacts on Water Resource Areas may be exempt from the Alternatives Analysis in subsection (C) below.
+Development on sites that meet the following criterion may be allowed pursuant to the other applicable
+requirements of this Overlay including the Development Standards of subsection (E) and the provisions
+for Mitigation in subsection (F):
+
+(1) The development site is at least one hundred (100) feet from top of bank or top of ravine, which
+ever results in a greater distance from the Protected Water Feature. Top of ravine is the break in the >
+25% slope. Slope should be measured in 25- foot increments away from the water feature until the
+slope is less than 25% (top of ravine), up to a maximum distance of 200' from the water feature.
+Where multiple resources are present (e.g., stream with wetlands along banks), the starting point for
+measurement should be whichever offers greatest resource protection.
+
+(C) Alternatives Analysis - Development proposed within a Water Resource Area may be allowed if there
+is no alternative, when the other requirements of this Overlay including the Development Standards of
+subsection (E) and the provisions for Mitigation in subsection (F) are met. The applicant shall prepare an
+alternatives analysis which demonstrates that:
+
+(1) No practicable alternatives to the requested development exist that will not disturb the Water
+Resource Area; and
+
+(2) Development in the Water Resource Area has been limited to the area necessary to allow for the
+proposed use;
+
+(3) Development shall occur as far as practically possible from the stream; and
+
+(4) The Water Resource Area can be restored to an equal or better condition; or
+
+(5) Any net loss on the property of resource area, function and/or value can be mitigated.
+
+(D) Buffer Averaging - Development may be allowed to encroach into the 200' SEC-wr overlay zone or
+"buffer" when the provisions of (1) through (6) below are satisfied. These provisions are intended to
+allow development to extend a specific amount into the edges of the overlay zone without an alternatives
+analysis in exchange for increasing the area of vegetated corridor on the property that is in good
+condition.
+
+(1) Site assessment information pursuant to MCC 39.5520(A) and (B) has been submitted.
+
+(2) The riparian/vegetated corridor is certified to be in a marginal or degraded condition pursuant to
+Table 2 of this section. Buffer averaging is not allowed to encroach in areas certified to be in good
+condition.
+
+(3) The maximum encroachment does not exceed 20% of the frontage length of the vegetated corridor
+by 20% of the required width.
+
+Page | 47
+
+(4) The entire remaining vegetated corridor on the project site or the first 50 feet closest to the stream
+(whichever is less) will be enhanced to "good" condition pursuant to Table 2 of this section.
+
+(5) The area of encroachment will be replaced with added buffer area at a 1:1 ratio.
+
+(6) The replacement area will be incorporated into the remaining vegetated corridor on the project site
+and meet the "good" condition pursuant to Table 2 of this section, regardless of its distance from the
+resource area.
+
+(E) Development Standards- Development within the Water Resource Area shall comply with the
+following standards:
+
+(1) Development of trails, rest points, viewpoints, and other facilities for the enjoyment of the
+resource must be done in such a manner so as to minimize impacts on the natural resource while
+allowing for the enjoyment of the natural resource.
+
+(2) Development in areas of dense standing trees shall be designed to minimize the numbers of trees
+to be cut. No more than 50 percent of mature standing trees (of 6-inch DBH greater) shall be removed
+without a one-for-one replacement with comparable species. The site plan for the proposed activity
+shall identify all mature standing trees by type, size, and location, which are proposed for removal,
+and the location and type of replacement trees.
+
+(3) Areas of standing trees, shrubs, and natural vegetation will remain connected or contiguous,
+particularly along natural drainage courses, so as to provide a transition between the proposed
+development and the natural resource, to provide food, water, and cover for wildlife, and to protect
+the visual amenity values of the natural resource.
+
+(4) The Water Resource Area shall be restored to "good condition" and maintained in accordance
+with the mitigation plan pursuant to subsection (F) below and the specifications in Table 2 of this
+section.
+
+(5) To the extent practicable, existing vegetation shall be protected and left in place. Work areas shall
+be carefully located and marked to reduce potential damage to the Water Resource Area. Trees in the
+Water Resource Area shall not be used as anchors for stabilizing construction equipment.
+
+(6) Where existing vegetation has been removed, or the original land contours disturbed, the site shall
+be revegetated, and the vegetation shall be established as soon as practicable. Nuisance plants, as
+identified in MCC 39.5580 Table 1, may be removed at any time. Interim erosion control measures
+such as mulching shall be used to avoid erosion on bare areas. Nuisance plants shall be replaced with
+non-nuisance plants by the next growing season.
+
+Figure 3.
+
+Page | 48
+
+(7) Prior to construction, the Water Resource Area shall be flagged, fenced or otherwise marked and
+shall remain undisturbed except as otherwise allowed by this Overlay. Such markings shall be
+maintained until construction is complete.
+
+(8) Stormwater quantity control and quality control facilities:
+
+(a) Stormwater management shall be conducted in a manner that does not increase the flow of
+stormwater to the stream above pre-development levels.
+
+(b) The stormwater quantity control and quality control facility may only encroach a maximum of
+25 feet into the outside boundary of the Water Resource Area of a primary water feature; and
+
+(c) The area of encroachment must be replaced by adding an area equal in size and with similar
+functions and values to the Water Resource Area on the subject property.
+
+(9) The nuisance plants in MCC 39.5580, in addition to the nuisance plants defined in MCC 39.2000,
+shall not be used as landscape plantings within the SEC-wr and SEC Overlays.
+
+(F) Mitigation - Mitigation shall be required to offset the impacts of development within the SEC-wr.
+This subsection section establishes how mitigation can occur.
+
+(1) Mitigation Sequence. Mitigation includes avoiding, minimizing or compensating for adverse
+impacts to regulated natural resource areas.
+
+(a) When a proposed development could cause adverse impacts to a natural resource area, the
+preferred sequence of mitigation as defined in 1 through 5 below shall be followed unless the
+applicant demonstrates that an overriding public benefit would warrant an exception to this
+preferred sequence.
+
+1. Avoiding the impact altogether by not taking a certain action or parts of actions on that
+portion of the site which contains the regulated natural resource area;
+
+2. Minimizing impacts by limiting the degree or magnitude of the action and its
+implementation;
+
+Page | 49
+
+3. Compensating for the impact by repairing, rehabilitating, or restoring the affected
+environment;
+
+4. Compensating for the impact by replacing, enhancing or providing substitute resources
+or environments on-site.
+
+5. Compensating for the impact by replacing, enhancing or providing substitute resources
+or environments off-site.
+
+(b) When evaluating potential impacts to the natural resource, the County may consider whether
+there is an overriding public benefit, given:
+
+1. The extent of the public need for the proposed development;
+
+2. The functional values of the Water Resource Area that may be affected by the
+proposed development;
+
+3. The extent and permanence of the adverse effects of the development on the Water
+Resource Area, either directly or indirectly;
+
+4. The cumulative adverse effects of past activities on the Water Resource Area, either
+directly or indirectly; and
+
+5. The uniqueness or scarcity of the Water Resource Area that may be affected.
+
+(2) Compensatory Mitigation: General Requirements. As a condition of any permit or other approval
+allowing development which results in the loss or degradation of regulated natural resource areas, or
+as an enforcement action, compensatory mitigation shall be required to offset impacts resulting from
+the actions of the applicant or violator.
+
+(a) Any person who alters or proposes to alter regulated natural resource areas shall restore or
+create natural resource areas equivalent to or larger than those altered in order to compensate for
+resource losses.
+
+(b) The following ratios apply to the creation or restoration of natural resource areas. The first
+number specifies the amount of natural resource area to be created and the second specifies the
+amount of natural resource area to be altered or lost.
+
+Creation (off-site) 2:1
+
+Restoration (off-site) 1.5:1
+
+Creation (on-site) 1.5:1
+
+Restoration (on-site) 1:1
+
+(c) Only marginal or degraded water resource areas as described in Table 2 of this section may be
+the subject of a restoration project proposed as part of a Mitigation Plan.
+
+Page | 50
+
+(d) Highest priority sites for mitigation are marginal or degraded corridors that are closest to a
+natural drainage, and areas which will increase contiguous areas of standing trees, shrubs, and
+natural vegetation along drainages.
+
+(e) The off-site mitigation shall be as close to the development as is practicable above the
+confluence of the next downstream tributary, or if this is not practicable, within the watershed
+where the development will take place or as otherwise specified by the County.
+
+(f) Compensation shall be completed prior to initiation of development where possible.
+
+(g) In order to ensure that on-site mitigation areas are established and maintained, the property
+owner shall record the mitigation plan approval in the deed records of Multnomah County. In
+order to ensure that offsite mitigation areas will be protected in perpetuity, the owner shall cause
+a deed restriction to be placed on the property where the mitigation is required. The deed
+restriction shall be irrevocable unless a statement of release is signed by an authorized
+representative of Multnomah County.
+
+(3) Mitigation Plan Standards - Natural resource mitigation plans shall contain the following
+information:
+
+(a) A description of adverse impacts that could be caused as a result of development.
+
+(b) An explanation of how adverse impacts to resource areas will be avoided, minimized, and/or
+mitigated.
+
+(c) A list of all responsible parties including, but not limited to, the owner, applicant, contractor
+or other persons responsible for work on the development site.
+
+(d) A map drawn to scale, showing where the specific mitigation activities will occur.
+
+(e) An implementation schedule, including timeline for construction, mitigation, mitigation
+maintenance, monitoring, reporting and a contingency plan. All in-stream work in fish-bearing
+streams must be done in accordance with the Oregon Department of Fish and Wildlife in-stream
+timing schedule.
+
+Table  2
+Riparian/Vegetated Corridor Standards
+
+Page | 51
+
+Existing Riparian/Vegetated Corridor
+Condition
+Requirements of Riparian/Vegetated Corridor
+Protection, Enhancement, and/or Mitigation
+Good Corridor
+Combination of native trees, shrubs, and
+groundcover covering greater than 80% of the
+area
+and
+Greater than 50% tree canopy exists (aerial
+measure)
+Provide certification, pursuant to the procedures
+provided by the Planning Director, by a
+professional ecologist/biologist that the riparian/
+vegetated corridor meets condition criteria.
+Remove any invasive non-native or nuisance
+species and debris and noxious materials within the
+corridor by hand.
+Provide the County with a native plant revegetation
+plan appropriate to the site conditions developed by
+an ecologist/biologist or landscape architect to
+restore condition and mitigate any habitat or water
+quality impacts related to development.  See
+Planning Director procedures.
+Revegetate impacted area per approved plan to re-
+establish “good” corridor conditions
+Marginal Corridor
+Combination of native trees, shrubs, and
+groundcovers covering 50%-80% of the area
+and/or
+26-50% tree canopy exists (aerial measure)
+(Restoration up to “good” corridor required)
+Provide certification, pursuant to the procedures
+provided by the Planning Director, by a
+professional ecologist/biologist that the
+riparian/vegetated corridor meets condition criteria.
+Remove any invasive non-native or nuisance
+species and debris and noxious materials within the
+corridor by hand or mechanically with small
+equipment, as appropriate to minimize damage to
+existing native vegetation.
+Provide County with a native plant revegetation
+plan appropriate to the site conditions developed by
+an ecologist/biologist or landscape architect to
+restore to a good corridor condition.  See Planning
+Director procedures.
+Vegetate corridor to establish “good” corridor
+conditions
+
+Page 52 of 58 – Resolution 2024-0001
+Degraded Corridor
+Combination of native trees, shrubs, and
+groundcovers covering is less than 50% of the
+area
+and/or
+Less than 25% tree canopy exists (aerial
+measure)
+and/or
+Greater than 10% of the area is covered by
+invasive, non-native species
+(Restoration up to “good” corridor required)
+Provide certification, pursuant to the procedures
+provided by the Planning Director, by a
+professional ecologist/biologist that the
+riparian/vegetated corridor meets condition criteria.
+Remove any invasive non-native or nuisance
+species and debris and noxious materials within the
+corridor by hand or mechanically as appropriate.
+Provide County with a native plant revegetation
+plan appropriate to the site conditions developed by
+an ecologist/biologist or landscape architect to
+restore to a good corridor condition.  See Planning
+Director procedures.
+Vegetate corridor to establish “good” corridor
+conditions
+
+5.H.10 – WILDLIFE HABITAT (SEC-h)
+
+§ 39.5850  SEC-H CLEAR AND OBJECTIVE STANDARDS
+
+(A) At the time of submittal, the applicant shall provide the application materials listed in MCC
+39.5520(A) and 39.5860(A). The application shall be reviewed through the Type I procedure and may not
+be authorized unless the standards MCC 39.5860(B)(1) through (4)(a)- (c) and (B)(5) through (7) are met.
+For development that fails to meet all of the criteria listed above, a separate land use application pursuant
+to MCC 39.5860 may be submitted.
+
+(B)
+
+(C) The nuisance plants listed in MCC 39.5580 Table 1 shall not be used as landscape plantings within
+the SEC-h Overlay Zone.
+
+(D) For development that fails to meet all of the standards listed in this section, a separate land use
+application pursuant to MCC 39.5860 may be submitted.
+
+§ 39.5860 CRITERIA FOR APPROVAL OF SEC-H PERMIT -WILDLIFE HABITAT.
+
+(A) In addition to the information required by MCC 39.5520 (A), an application for development in an
+area designated SEC-h shall include an area map showing all properties which are adjacent to or entirely
+or partially within 200 feet of the proposed development, with the following information, when such
+information can be gathered without trespass:
+
+(1) Location of all existing forested areas (including areas cleared pursuant to an approved forest
+management plan) and non-forested "cleared" areas; For the purposes of this section, a forested
+area is defined as an area that has at least 75 percent crown closure, or 80 square feet of basal area
+per acre, of trees 11 inches DBH and larger, or an area which is being reforested pursuant to
+
+Page 53 of 58 – Resolution 2024-0001
+Forest Practice Rules of the Department of Forestry. A non-forested "cleared" area is defined as
+an area which does not meet the description of a forested area and which is not being reforested
+pursuant to a forest management plan.
+
+(2) Location of existing and proposed structures;
+
+(3) Location and width of existing and proposed public roads, private access roads, driveways,
+and service corridors on the subject parcel and within 200 feet of the subject parcel's boundaries
+on all adjacent parcels;
+
+(4) Existing and proposed type and location of all fencing on the subject property and on adjacent
+properties and on properties entirely or partially within 200 feet of the subject property.
+
+(B) Development standards:
+
+(1) Where a parcel contains any nonforested "cleared" areas, development shall only occur in
+these areas, except as necessary to provide access and to meet minimum clearance standards for
+fire safety.
+
+(2) Development shall occur within 200 feet of a public road capable of providing reasonable
+practical access to the developable portion of the site.
+
+(3) The access road/driveway and service corridor serving the development shall not exceed 500
+feet in length.
+
+(4) For the purpose of clustering access road/driveway approaches near one another, one of the
+following two standards shall be met:
+
+(a) The access road/driveway approach onto a public road shall be located within 100 feet
+of a side property line if adjacent property on the same side of the road has an existing
+access road or driveway approach within 200 feet of that side property line; or
+
+(b) The access road/driveway approach onto a public road shall be located within 50 feet
+of either side of an existing access road/driveway on the opposite side of the road.
+
+(c) Diagram showing the standards in (a) and (b) above.
+
+(Diagram)
+
+For illustrative purposes only.
+
+(d) The standards in this subsection (4) may be modified upon a determination by the
+County Road Official that the new access road/driveway approach would result in an
+unsafe traffic situation using the standards in the Multnomah County “Design and
+Construction Manual,” adopted June 20, 2000, (or all updated versions of the manual).
+Standards to be used by the Road Official from the County manual include Table 2.3.2,
+Table 2.4.1, and additional referenced sight distance and minimum access spacing
+standards in the publication A Policy on Geometric Design of Highways and Streets by
+the American Association of State Highway and Transportation Officials (AASHTO) and
+the Traffic Engineering Handbook by the Institute of Transportation Engineers (ITE).
+
+Page 54 of 58 – Resolution 2024-0001
+1. The modification shall be the minimum necessary to allow safe access onto the
+public road.
+
+2. The County Road Official shall provide written findings supporting the
+modification.
+
+(5) The development shall be within 300 feet of a side property line if adjacent property has
+structures and developed areas within 200 feet of that common side property line.
+
+(6) Fencing within a required setback from a public road shall meet the following criteria:
+
+(a) Fences shall have a maximum height of 42 inches and a minimum 17 inch gap
+between the ground and the bottom of the fence.
+
+(b) Wood and wire fences are permitted. The bottom strand of a wire fence shall be
+barbless. Fences may be electrified, except as prohibited by County Code.
+
+(c) Cyclone, woven wire, and chain link fences are prohibited.
+
+(d) Fences with a ratio of solids to voids greater than 2:1 are prohibited.
+
+(e) Fencing standards do not apply in an area on the property bounded by a line along the
+public road serving the development, two lines each drawn perpendicular to the principal
+structure from a point 100 feet from the end of the structure on a line perpendicular to
+and meeting with the public road serving the development, and the front yard setback line
+parallel to the public road serving the development. (See Figure 4 below.)
+
+(Diagram: Figure 4. FENCE EXEMPTION AREA)
+
+(f) Fencing standards do not apply where needed for security of utility facilities.
+
+(7) The nuisance plants in MCC 39.5580 Table 1 shall not be planted on the subject property and
+shall be removed and kept removed from cleared areas of the subject property.
+
+(C) Wildlife Conservation Plan. An applicant shall propose a wildlife conservation mitigation plan if one
+of two situations exist.
+
+(1) The applicant cannot meet the development standards of subsection (B) because of physical
+characteristics unique to the property. The applicant must show that the wildlife conservation plan
+results in the minimum departure from the standards required in order to allow the use; or
+
+(2) The applicant can meet the development standards of subsection (B), but demonstrates that
+the alternative conservation measures exceed the standards of subsection (B) and will result in the
+proposed development having a less detrimental impact on forested wildlife habitat than the
+standards in subsection (B).
+
+(3) Unless the wildlife conservation plan demonstrates satisfaction of the criteria in subsection
+(C)(5), the wildlife conservation plan must demonstrate the following
+
+(a) That measures are included in order to reduce impacts to forested areas to the
+minimum necessary to serve the proposed development by restricting the amount of
+
+Page 55 of 58 – Resolution 2024-0001
+clearance and length/width of cleared areas and disturbing the least amount of forest
+canopy cover.
+
+(b) That any newly cleared area associated with the development is not greater than one
+acre, excluding from this total the area of the minimum necessary accessway required for
+fire safety purposes.
+
+(c) That no fencing will be built and existing fencing will be removed outside of areas
+cleared for the site development except for existing cleared areas used for agricultural
+purposes.
+
+(d) That revegetation of existing cleared areas on the property at a 2:1 ratio with newly
+cleared areas occurs if such cleared areas exist on the property.
+
+(e) That revegetation and enhancement of disturbed stream riparian areas occurs along
+drainages and streams located on the property.
+
+(4) For a property meeting subsection (C)(1) above, the applicant may utilize the following
+mitigation measures for additions instead of providing a separate wildlife conservation plan:
+
+(a) Each tree removed to construct the proposed development shall be replaced on a one
+to one ratio with a six foot tall native tree.
+
+(b) For each 100 square feet of new building area, the property owner shall plant, one, 3-
+4 foot tall native tree or three native tree seedlings. The trees shall be planted to improve
+wildlife habitat first within non-forested cleared areas contiguous to forested areas,
+second within any degraded stream riparian areas before being placed in forested areas or
+adjacent to landscaped yards.
+
+(c) Existing fencing located in the front yard adjacent to a public road shall be consistent
+with subsection (B)(6).
+
+(d) For non-forested “cleared” areas that require nuisance plant removal pursuant to
+subsection (B)(7), the property owner shall set a specific date for the work to be
+completed and the area replanted with native vegetation. The time frame must be within
+two years from the date of the permit.
+
+(5) Unless the wildlife conservation plan demonstrates satisfaction of the criteria in subsection
+(C)(3) of this section, the wildlife conservation plan must demonstrate the following:
+
+(a) That measures are included in order to reduce impacts to forested areas to the
+minimum necessary to serve the proposed development by restricting the amount of
+clearance and length/width of cleared areas and disturbing the least amount of forest
+canopy cover.
+
+(b) That any newly cleared area associated with the development is not greater than one
+acre, excluding from this total the area of the minimum necessary accessway required for
+fire safety purposes.
+
+(c) That no fencing will be built and existing fencing will be removed outside of areas
+cleared for the site development except for existing cleared areas used for agricultural
+
+Page 56 of 58 – Resolution 2024-0001
+purposes. Existing fencing located in the front yard adjacent to a public road shall be
+consistent with subsection (B)(6).
+
+(d) For mitigation areas, all trees, shrubs and ground cover shall be native plants selected
+from the Metro Native Plant List. An applicant shall meet Mitigation Option 1 or 2,
+whichever results in more tree plantings; except that where the total developed area
+(including buildings, pavement, roads, and land designated as a Development Impact
+Area) on a Lot of Record will be one acre or more, the applicant shall comply with
+Mitigation Option 2:
+1. Mitigation Option 1. In this option, the mitigation requirement is calculated
+based on the number and size of trees that are removed from the development
+site. Trees that are removed from the development site shall be replaced as shown
+in the table below. Conifers shall be replaced with conifers. Bare ground shall be
+planted or seeded with native grasses or herbs. Non-native sterile wheat grass
+may also be planted or seeded, in equal or lesser proportion to the native grasses
+or herbs. Tree Replacement Table: Size of tree to be removed (inches in
+diameter) Number of trees and shrubs to be planted 6 to 12 2 trees and 3 shrubs
+13 to 18 3 trees and 6 shrubs 19 to 24 5 trees and 12 shrubs 25 to 30 7 trees and
+18 shrubs over 30 10 trees and 30 shrubs
+
+2. Mitigation Option 2. In this option, the mitigation requirement is calculated
+based on the size of the disturbance area associated with the development. Native
+trees and shrubs are required to be planted at a rate of five (5) trees and twenty-
+five (25) shrubs per every 500 square feet of disturbance area (calculated by
+dividing the number of square feet of disturbance area by 500, and then
+multiplying that result times five trees and 25 shrubs, and rounding all fractions
+to the nearest whole number of trees and shrubs; for example, if there will be 330
+square feet of disturbance area, then 330 divided by 500 equals .66, and .66 times
+five equals 3.3, so three trees must be planted, and .66 times 25 equals 16.5, so
+17 shrubs must be planted). Bare ground shall be planted or seeded with native
+grasses or herbs. Non-native sterile wheat grass may also be planted or seeded, in
+equal or lesser proportion to the native grasses or herbs.
+
+(e) Location of mitigation area. All vegetation shall be planted within the mitigation area
+located on the same Lot of Record as the development and shall be located within the
+SEC-h overlay or in an area contiguous to the SEC-h overlay; provided, however, that if
+the vegetation is planted outside of the SEC-h overlay then the applicant shall preserve
+the contiguous area by executing a deed restriction, such as a restrictive covenant. (Note:
+an off-site mitigation option is provided in a streamlined discretionary review process).
+The mitigation area shall first be located within any existing non-forested cleared areas
+contiguous to forested areas, second within any degraded stream riparian areas and last in
+forested areas or adjacent to landscaped yards.
+
+(f) Prior to development, all work areas shall be flagged, fenced, or otherwise marked to
+reduce potential damage to habitat outside of the work area. The work area shall remain
+marked through all phases of development.
+
+(g) Trees shall not be used as anchors for stabilizing construction equipment.
+
+(h) Native soils disturbed during development shall be conserved on the property.
+
+Page 57 of 58 – Resolution 2024-0001
+(i) An erosion and sediment control plan shall be prepared in compliance with the ground
+disturbing activity standards set forth in MCC 39.6200 through MCC 39.6235.
+
+(j) P lant size. Replacement trees shall be at least one-half inch in caliper, measured at 6
+inches above the ground level for field grown trees or above the soil line for container
+grown trees (the one-half inch minimum size may be an average caliper measure,
+recognizing that trees are not uniformly round), unless they are oak or madrone which
+may be one gallon size. Shrubs shall be in at least a 1-gallon container or the equivalent
+in ball and burlap and shall be at least 12 inches in height.
+
+(k) Plant spacing. Trees shall be planted between 8 and 12 feet on center and shrubs shall
+be planted between 4 and 5 feet on-center, or clustered in single species groups of no
+more than four (4) plants, with each cluster planted between 8 and 10 feet on-center.
+When planting near existing trees, the drip line of the existing tree shall be the starting
+point for plant spacing measurements.
+
+(l) Plant diversity. Shrubs shall consist of at least two (2) different species. If 10 trees or
+more are planted, then no more than 50% of the trees may be of the same genus.
+
+(m) Nuisance plants. Any nuisance plants listed in MCC 39.5580 Table 1 shall be
+removed within the mitigation area prior to planting.
+
+(n) Planting schedule. The planting date shall occur within one year following the
+approval of the application.
+
+(o) Monitoring and reporting. Monitoring of the mitigation site is the ongoing
+responsibility of the property owner. Plants that die shall be replaced in kind so that a
+minimum of 80% of the trees and shrubs planted shall remain alive on the fifth
+anniversary of the date that the mitigation planting is completed.
+
+(6) For Protected Aggregate and Mineral (PAM) resources within a PAM Overlay, the applicant
+shall submit a Wildlife Conservation Plan which must comply only with measures identified in
+the Goal 5 protection program that has been adopted by Multnomah County for the site as part of
+the program to achieve the goal.
+
+(D) Optional Development Impact Area (DIA). For the purpose of clustering home sites together with
+related development within the SEC-h overlay, an applicant may choose to designate an area around the
+home site for future related development and site clearing. For the purposes of establishing the
+appropriate mitigation for development within the DIA, existing vegetation within the DIA is presumed to
+be ultimately removed or cleared in the course of any future development within the DIA. Establishment
+of a DIA is subject to all of the applicable provisions in this section and the following:
+
+(1) The maximum size for a DIA shall be no greater than one acre, excluding from this total the
+area of the minimum necessary accessway required for fire safety purposes.
+
+(2) Any required mitigation for the DIA site under an approved wildlife conservation plan shall
+be completed within one year of the final approval of the application.
+
+(3) The DIA shall contain an existing habitable dwelling or approved dwelling site.
+
+(4) No more than one DIA is permitted per Lot of Record.
+Page 58 of 58 – Resolution 2024-0001
+(5) The DIA can be any shape, but shall be contiguous and shall fit within a circle with a
+maximum diameter of 400 feet.
+(6) For new dwellings that will be located on a Lot of Record that does not currently contain a
+dwelling, the DIA should be located within 200 feet of a public road or in the case of properties
+without road frontage, as close as practicable (accounting for required setbacks and fire safety
+zones) to the entry point of the vehicular access serving the property.
+(7) No part of a DIA may be located in a SEC-s Overlay, mapped wetland, or flood hazard zone.
+(8) All development within the DIA is subject to all development criteria in effect for the
+underlying zone and overlay zones at the time of development. Approval of a DIA does not
+preclude the applicant’s responsibility to obtain all other required approvals.
+(9) Once a DIA is approved and all predevelopment conditions of approval are met, development
+within the DIA may commence at any time thereafter provided the applicable approval criteria of
+this section are the same as the criteria under which the DIA was originally approved. This
+provision does not waive the approval timeframe and/or expiration of any other permit approvals.
+* * *
+AD
+OPTED this 8th day of July, 2024
+P
+LANNING COMMISSION
+FOR MULTNOMAH COUNTY, OREGON
+J
+ohn Ingle, Chair
+P
+age | 1
+STAFF REPORT
+Land Use Planning Division
+www.multco.us/landuse    Email: land.use.planning@multco.us    Phone: (503) 988-3043
+P
+LANNING COMMISSION HEARING
+JULY 08, 2024
+CHAPTER 39 ZONING CODE AMENDMENTS RELATING TO
+SIG
+NIFICANT ENVIRONMENTAL CONCERN REGULATIONS
+(PC-2024-0001)
+Staff Contacts:
+Primary: Lisa Estrin, Senior Planner Secondary: Chris Liu, Senior Planner
+lisa.m.estrin@multco.us chris.liu@multco.us
+1.0 Introduction
+T
+he following staff report outlines proposed revisions to various sections of the Chapter 39 zoning code
+applicable to lands outside of the Columbia River Gorge National Scenic Area (Chapter 38). Sections of
+code proposed for modification below include rules relating to Significant Environmental Concern
+(“SEC”) resource protection. The purposes of all Significant Environmental Concern Overlays,
+(collectively, the “SEC Overlays”) are to protect, conserve, enhance, restore, and maintain significant
+natural and human-made features which are of public value, and to establish criteria, standards, and
+procedures for the development, change of use, or alteration of such features or of the lands adjacent
+thereto.
+T
+he need for such various amendments was identified as a result of feedback from applicants and staff
+with experience applying the existing code to projects. More specifically, the proposed amendments
+attempt to accomplish the following main objectives:
+• Re
+organization, clarification, and simplification.
+• Refine rules specific to replacement / restoration of structures following a fire / natural disaster.
+• Create a Type I review path for more SEC Overlays Permits, where possible.
+A
+ Planning Commission Work Session regarding the proposed amendments was held on April 1, 2024.
+Attached to this staff report is a document titled ‘Revised Regulations’ containing a clean version of the
+proposed code revisions as they would appear in the code without underlining and strikethrough text.
+D
+uring the Work Session, Senior Planner Lisa Estrin discussed some of the history behind the SEC-s
+(currently referred to as ‘Streams Resource Area’) and SEC-wr (currently referred to as ‘Water Resource
+Area’). The SEC-s was originally adopted in 1994, whereas the SEC-wr was adopted in 2003. Because
+the SEC-wr is based on more current scientific principles than the SEC-s, the SEC-wr requirements
+provide more direction to applicants as to what is needed to gain approval and prescribes mitigation
+Exhibit 2
+
+Page | 2
+
+activities. Therefore, Staff made the proposed changes found in this report to direct properties that are
+within the SEC-s Overlay to the revised SEC-wr approval criteria.
+
+The Planning Commission provided a number of suggestions at the April 1 work session. The following
+table lists those suggestions and staff’s response.
+
+Suggestion Staff Response
+39.5505 AREA AFFECTED:
+Reorder the table of SEC types in 39.5505 to
+match the order that it will now appear in the
+code.
+Completed.
+39.5515 EXCEPTIONS:
+39.5515(A)(1)(b)
+Suggestions that staff consider a more specific
+exemption for tree removal for power lines on
+private property if done by a power company.
+Concern raised that property is required to replace
+removed trees if taken out by power company.
+
+Staff does not recommend removing the
+requirement that trees be replaced in the event of
+their removal because it would be counter to the
+overall Goal 5 protection program to maintain and
+increase the forest canopy. Staff may revisit the
+issue if becomes a significant issue in the
+community.
+39.5515 EXCEPTIONS:
+39.5515(A)(9)
+Question about origin of date that is proposed to
+be deleted.
+Staff is recommending to replace these types of
+date references to simply require that certain uses
+must be lawfully established in order to qualify
+under the standard.
+39.5515 EXCEPTIONS:
+39.5515(A)(9)
+Request that metal roofs be addressed by
+requiring low reflective replacement.
+While not an exemption, Section
+39.5570(A)(1)(c) provides for a simpler, Type 1
+project review in the SEC-v overlay for, among
+other things, metal roofs.
+
+No change recommended.
+Remove code citation errors and typos on pages
+24 and 25.
+Completed.
+39.5540 SEC-h PERMIT CRITERIA
+(SIGNIFICANT WILDLIFE HABITATS):
+39.5540(D)(3)(d)(ii)
+Recommendation to adjust the planting ratio to
+one tree for every 100 square feet of development
+or disturbance area.
+Completed.
+
+Important Staff report formatting note:
+
+• Staff comments providing orientation are called out using text boxes with blue background.
+• Existing code in regular text not being amended is shown in black.
+• Proposed revisions are shown in red (double underlined = new text proposed, strikethrough = text
+proposed to be deleted.
+• Existing code which has been moved to a new location is identified using black strikethrough text
+to show the location from which text has been removed and using black double underlined text to
+show the new location.
+• The symbol ( * * * ) is used to show a gap between code sections.
+
+2.0 Proposed Amendments to Significant Environmental Concern Regulations
+
+Page | 3
+
+Staff Comment: These amendments proposed below are intended to further organize the Significant
+Environmental Concern (SEC) section following the initial code consolidation project (PC-2015-4679)
+LUP completed in 2018. Staff has added clarifications and revisions to subsections of the SEC code that
+are vague and/or difficult to implement in practice (i.e. portions of the SEC-h wildlife conservation plan
+requirements).
+
+5.H – SIGNIFICANT ENVIRONMENTAL CONCERN (SEC) OVERLAYS (SEC)
+
+5.H.1 – SIGNIFICANT ENVIRONMENTAL CONCERN GENERAL PROVISIONS
+
+§ 39.5500 PURPOSES.
+
+The purposes of the Significant Environmental Concern Overlays, MCC 39.5500 through MCC
+39.55905860
+ (collectively, the “SEC Overlays”)  are to protect, conserve, enhance, restore, and maintain
+significant natural and human-made features which are of public value, including among other things,
+river corridors, streams, lakes and islands, domestic water supply watersheds, flood water storage areas,
+natural shorelines and unique vegetation, wetlands, wildlife and fish habitats, significant geological
+features, tourist attractions, archaeological features and sites, and scenic views and vistas, and to establish
+criteria, standards, and procedures for the development, change of use, or alteration of such features or of
+the lands adjacent thereto.
+
+§ 39.5505 AREA AFFECTED.
+
+(A)  Except as otherwise provided in MCC 39.5510 or MCC 39.5520
+this section, the SEC Overlays shall
+apply to those lands designated with any of the following zoning overlay designations SEC on the
+Multnomah County Zoning Map consisting of the following resource area designations:
+Zoning Overlay Designation
+SEC: Significant Environmental Concern Area
+SEC-h:  Significant Wildlife Habitats
+SEC-s:  Significant Streams
+SEC-sw:  Significant Scenic Waterways
+Resource Area
+SEC-v:  Significant Scenic Views Resource Area
+SEC-w:  Significant Wetlands Resource Area
+SEC-s: Streams Resource Area
+SEC-wr:  Significant Water Resources Area
+SEC-h: Wildlife Habitat Resource Area
+
+Page | 4
+
+(B)  In the event of a mapping inconsistency, the SEC-s zoning Overlay shall be interpreted to be the
+defined Stream Conservation Area as defined in MCC 39.5750.
+(C) SEC - Scenic Waterway (SEC-sw) - Land areas that are contained within the Sandy River Scenic
+Waterway as shown on the zoning maps adopted on (September 6, 1977, Ord. 149).
+(D) SEC-Water Resource Area (SEC-wr) - Protected water features, riparian/vegetated corridors and the
+adjacent impact areas, that are identified as significant resources in the Goal 5 Inventory, and as
+established by these definitions, are the areas included within the SEC-wr Overlay District.
+(1) Protected Water Features shall include:
+(a) Wetlands that provide a water quality benefit - Wetlands of metropolitan concern as
+shown on the Metro Water Quality and Flood Management Area Map and other wetlands
+which meet any one of the following criteria. Wetlands do not include artificially constructed
+and managed stormwater and water quality treatment facilities.
+1. The wetland is fed by surface flows, sheet flows or precipitation, and has evidence of
+flooding during the growing season, and has 60 percent or greater vegetated cover, and is
+over one-half acre in size;
+2.  The wetland qualifies as having "intact water quality function" under the 1996 Oregon
+Fresh water Wetland Assessment Methodology;
+3. The wetland is in the Flood Management Area, and has evidence of flooding during
+the growing season, and is five acres or more in size, and has a restricted outlet or no
+outlet;
+4.  The wetland qualifies as having "intact hydrologic control function" under the 1996
+Oregon Freshwater Wetland Assessment Methodology; or
+5.  The wetland or a portion of the wetland is within a horizontal distance of less than
+one-fourth mile from a water body which meets the Department of Environmental
+Quality definition of "water quality limited water body" in OAR Chapter 340, Division
+41 (1996).
+(b) Rivers, streams, and drainages downstream from the point at which 50-acres or more are
+drained to the water feature (regardless of whether it carries year-round flow); and
+(c) Streams carrying year-round flow; and
+(d) Streams designated as significant in the Goal 5 inventory; and
+(e) Springs which feed stream and wetlands and have year-round flow; and
+(f) Natural lakes.
+(2) Riparian/Vegetated Corridors and Impact Area - The width of the riparian/vegetated corridor
+for all Protected Water Features varies and shall be as depicted on the Multnomah County Zoning
+Maps and is measured from the top of bank.
+(3) The zoning maps used to designate the SEC-wr zoning Overlay were created digitally by
+interpreting various data sources and maps contained in the 2002 West of Sandy River Goal 5
+ESEE report. Care was taken in the creation of the maps, but in some instances mapping
+inaccuracies have occurred during the process. For those areas included in the 2002 West of
+
+Page | 5
+
+Sandy River Plan, the SEC-wr zoning Overlay shall be interpreted to be the Water Resource Area
+as defined in this subsection B.
+(E) SEC-Habitat (SEC-h)- Includes nonriparian and nonwetland natural resource sites that contain habitat
+values such as wooded areas and areas with rare or endangered flora and fauna, as identified by the Goal
+5 Inventory.  Habitat areas include the significant Goal 5 habitat resource and a 25 foot buffer to protect
+the root zone of the vegetation.  The boundaries of Significant Habitat Areas, which are designated as
+SEC-h, are established by the Goal 5 Natural Resource Inventory and include:
+(1) Those areas identified on the map as "Riparian Corridor/Wildlife Habitat and Impact Area"
+that do not otherwise meet the definition of Water Resource Area in subsection (B) above; and
+(2) Those areas identified on the map as "Isolated Upland Wildlife Habitat" that do not otherwise
+meet the definition of Water Resource Area in subsection (B) above.
+(BF) The zoning maps used to designate the SEC-s zoning overlay were created digitally by interpreting
+various data sources including the hand drawn maps contained in the Goal 5 ESEE reports and Metro’s
+riparian and wildlife habitat inventories. Care was taken in the creation of the maps, but in some instances
+mapping inaccuracies have occurred during the process. In the event of a mapping inconsistency, the
+SEC-s zoning overlay subdistrict shall be interpreted to be the defined Stream Conservation Area as
+defined in MCC 39.57505520.
+
+(C) The zoning maps used to designate the SEC-wr zoning overlay were created digitally by interpreting
+various data sources and maps contained in the 2002 West of Sandy River Goal 5 ESEE report. Care was
+taken in the creation of the maps, but in some instances mapping inaccuracies have occurred during the
+process. For those areas included in the 2002 West of Sandy River Plan, the SEC-wr zoning overlay shall
+be interpreted to be the Significant Water Resources as defined in MCC 39.5520.
+
+§ 39.5510 USES; SEC PERMITS REQUIRED.
+
+ (A) Except as provided in MCC 39.5515 and 39.5525, an SEC Overlays permit(s) is required for:
+ (1) All development, including but not limited to uses allowed in the base zone are allowed in the
+SEC when found to satisfy the applicable approval criteria given in such zone; provided however, that
+the location, and design of any use, or change, replacement, or alteration of a any use or structure,
+except as provided in MCC 39.5515, subject to approval of an SEC permit pursuant to this Subpart.
+ (B) (2) Any excavation or any removal of materials of archaeological, historical, pre-contact or
+anthropological nature shall be conducted under the conditions of an SEC permit, regardless of the
+zoning designation of the site.
+
+(B) An application for a use on a property containing more than one SEC overlay designation
+protected resource shall address the approval criteria for all of the designated SEC overlays resources
+on the property. In the case of conflicting criteria, approval shall be based on the ability of the
+proposed development to comply as nearly as possible with the criteria for all designated SEC
+overlays resources that would be affected.
+
+Staff Comment: These amendments below seek to better organize the various available Exceptions by
+creating categories, where possible, to group similar focused exceptions (e.g. Exceptions related to
+public safety and health).
+
+Page | 6
+
+§ 39.5515 EXCEPTIONS.
+
+(A) Except as provided in subsection (B) of this Section, an SEC Overlays permit(s) shall not be required
+for the following:
+
+(1) Farm use, as defined in ORS 215.203 (2) (a), including buildings and structures accessory
+thereto on "converted wetlands" as defined by ORS 541.695 (9) or on upland areas. This
+exception does not apply to buildings and other development associated with farm practices and
+agricultural uses in the West of Sandy River Planning Area. The following vegetation removal:
+(a) The propagation of timber for personal use provided the tree(s) that are removed are
+replaced on a one-to-one basis with a native seedling or native tree within the boundaries
+of the subject property.
+(b) The removal of dead, decaying or other hazardous trees, provided the tree(s) that are
+removed are replaced on a one-to-one basis with a native seedling or native tree within
+the boundaries of the subject property.
+(c)(2) The propagation of timber or the cutting of timber for public safety or personal use
+or the cutting of timber in accordance with the State Forest Practices Act provided there
+is no change in land use.
+(2)(3) The following public safety and health related projects:
+(a) Alteration, repair, or replacement of septic system tanks, lines and drainfields and
+related components due to system failure provided that no fill materials shall be placed
+within the SEC-wr, SEC-w, or SEC-s. This exception does not apply to permits required
+by a local, state or federal agency, including but not limited to permits required for
+ground disturbing activities within a water body regulated by the Oregon Department of
+State Lands, the U.S. Army Corps of Engineers or the Oregon Department of Fish and
+Wildlife.
+(b) The maintenance and repair of existing flood control facilities.
+(c) Customary dredging and channel maintenance and the removal or filling, or both, for
+the maintenance or reconstruction of structures such as dikes, levees, groins, riprap,
+drainage ditch, irrigation ditches and tile drain systems as allowed by ORS 196.9065 (6).
+(d) Response to emergencies pursuant to the provisions of MCC 39.6900 (Responses to
+and Emergency/Disaster Event), provided a Post Emergency Response permit is obtained
+within specified timelines listed in MCC 39.6900 (C) and any required mitigation work is
+completed in compliance with the approved permit.
+(3)(4) The following projects completed for or by a public agency or utility:
+(a) The placing, by a public agency, of signs, markers, aids, etc., to serve the public.
+(b) Right-of-way widening, new surfacing, and vegetation removal for existing rights-of-
+way when the additional right-of-way or surfacing or vegetation removal is deemed
+necessary by the County Engineer to meet the needs of the traveling public.
+(c) Utility poles necessary to provide service to the local area.
+
+Page | 7
+
+(d) The placement of public utility infrastructure such as pipes, conduits and wires within
+an existing right-of-way to provide service to individual properties and neighborhoods
+within unincorporated Multnomah County.
+(e) The expansion of capacity, or the replacement, of existing communication or energy
+distribution and transmission systems, except substations.
+(5) Activities to protect, conserve, enhance, and maintain public recreational, scenic, historical,
+and natural uses on public lands.
+Staff Comment: The exception currently under MCC 39.5515(A)(5) was an initial and broad concept,
+which has since been replaced by more specific exceptions related to resource protection activities.
+Hence, staff removed this outdated and discretionary exception.
+
+(6) The expansion of capacity, or the replacement, of existing communication or energy
+distribution and transmission systems, except substations.
+(7) The maintenance and repair of existing flood control facilities.
+(4)(8) Change, alteration, or expansion of a lawfully established use or structure provided that:
+(a) Within the SEC, SEC-sw, and SEC-v, there is no change to, or alteration, or expansion of,
+the exterior of the structure;
+(b) Within the SEC-h, SEC-wr and SEC-s, there is no change to, or alteration or expansion
+of, the structure’s or a driveway’s ground coverage in excess of 400 square feet.  With respect
+to expansion, this exception does not apply on a project-by-project basis, but rather applies on
+a cumulative basis to all expansions occurring after the issuance of the original permit for the
+construction of the structure date above; and.
+(9) Type A Home Occupation.
+(5)(10) Type A, Type B or Type C Home Occupation in an existing building. This exemption
+includes including the addition of less than 400 square feet of ground coverage to the structure
+used for a Type B or Type C the Home Occupation within the SEC-h, SEC-wr and SEC-s. This
+exemption cannot be applied if the exception in (4) above has already been used.
+(11) Alteration, repair, or replacement of septic system tanks, lines and drainfields and related
+components due to system failure.
+(12) Utility poles necessary to provide service to the local area.
+(13) Right-of-way widening, new surfacing, and vegetation removal for existing rights-of-way
+when the additional right-of-way or surfacing or vegetation removal is deemed necessary by the
+County Engineer to meet the needs of the traveling public.
+(6)(14) The following resource enhancement projects that do not involve or are part of any
+property development:
+(a) Stream enhancement or restoration projects limited to removal by hand of invasive
+vegetation and planting of any native vegetation on the Metro Native Plant List.
+(b)(15) Enhancement or restoration of the riparian corridor for water quality or quantity
+benefits, or for improvement of fish and wildlife habitat, pursuant to a plan that does not
+
+Page | 8
+
+include placement of buildings or structures and does not entail grading in an amount
+greater than 10 cubic yards. This exemption is applicable to plans that are approved by
+Soil and Water Conservation District, the Natural Resources Conservation District, or the
+Oregon Department of Fish and Wildlife under the provisions for a Wildlife and Habitat
+Conservation Plan, and submitted to the County.
+(7)(16) In all SEC designations, a solar An accessory alternative energy system, including solar
+thermal and photovoltaic, that is installed on an existing building, provided that:
+(a) The installation of the solar energy system can be accomplished without increasing the
+footprint of the residential or commercial structure or the peak height of the portion of the
+roof on which the system is installed; and
+(b) The solar energy system would be mounted so that the plane of the system is parallel to
+the slope of the roof; and
+(c) The external surfaces of the solar energy system are designated as anti-reflective or have a
+reflectivity rating of eleven percent or less.
+(8)(17) One free standing renewable energy and heating system and its associated components up
+to 400 square feet of cumulative ground coverage including but not limited to solar (including
+solar panels), geothermal and wind generated systems, provided any conduit through the SEC-wr,
+SEC-s or SEC-w areas is provided by directional boring.
+(9)(18) Routine repair and maintenance of structures, roadways, driveways, utility facilities, and
+landscaped areas that are lawfully established were in existence prior to November 30, 2000.
+(19) Response to emergencies pursuant to the provisions of MCC 39.6900 (Responses to and
+Emergency/Disaster Event), provided that after the emergency has passed, adverse impacts are
+mitigated, provided a Post Emergency Response permit is obtained and any mitigation work
+completed.
+(10)(20) The following improvements, provided that if the property is within the SEC-v, the
+structure is a dark earthtone color or 100% screened from all IVAs:
+(a) Signs listed in MCC 39.6720 (A) through (F), MCC 39.6805 (Directional Signs), and
+MCC 39.6810 (Temporary Signs).
+(b)(21) Flag poles no taller than 35 feet above existing or finished grade (whichever is
+lower) designed to display national, state, or local recognized jurisdiction flags pursuant
+to the United States Flag Code or laws regulating the proper display of jurisdictional
+flags.
+(c)(22) Heating oil, propane and similar tanks up to 1,000 gallon capacity placed within
+100 feet of a lawfully existing structure provided any pipes crossing through SEC-s,
+SEC-wr, or SEC-w areas are provided by directional boring.
+(d)(23) Mechanical equipment such as heating and air conditioning units, heat pumps,
+ventilation and air filtration systems, electrical boxes, back-up power generators and
+energy storage systems, water pumps, and similar equipment placed within 100 feet of a
+lawfully existing structure provide any pipes or conduit crossing through the SEC-s or
+SEC-w areas are provided by directional boring.
+(e) Placement of antennas and satellite dishes on an existing lawfully established
+structure.
+
+Page | 9
+
+(f) Concrete slabs, parking areas, and similar low profile structures no taller than 36
+inches above initial grade.
+(g) Any modification or alteration to an existing exterior wall of a lawfully established
+structure that will be 100% screened from all IVAs by the structure itself.
+(24) The placement of utility infrastructure such as pipes, conduits and wires within an existing
+right-of-way.
+(25) In the West of Sandy River Planning Area the uses and structures excepted in MCC 39.5550
+(B) (1), (2), and (3).
+(26) Within the SEC-v:
+(a) Any modification or alteration to an existing exterior wall of a lawfully established
+structure that will be 100% screened from all IVAs by the structure itself.
+(b) Placement of antennas and satellite dishes on an existing lawfully established structure.
+(c) Concrete slabs, parking areas, and similar low profile structures no taller than 36 inches
+above initial grade.
+ (B) Farm use, as defined in ORS 215.203 (2) (a), including buildings and structures accessory to a
+farm use do not require an SEC permit except in the following situations:
+
+(1) Within the West of Sandy River Planning Area, an SEC-wr and/or SEC-sw permit is required
+for agricultural buildings, structures and development associated with farm practices and
+agricultural uses, except that agricultural fences shall not require an SEC-wr and/or SEC-sw
+permit.
+
+(2) Within Metro’s 2009 jurisdictional boundary, an SEC-s permit is required for agricultural
+buildings, structures and development associated with farm practices and agricultural uses, except
+that agricultural fences shall not require an SEC-s permit.
+
+§ 39.5520 APPLICATION FOR SEC PERMIT.
+
+An application for an SEC permit for a use or for the change or alteration of an existing use on land
+designated SEC, shall address the applicable criteria for approval, under MCC 39.5540 through 39.5860.
+
+(A) An application for an SEC permit shall include the following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of MCC 39.5540 through 39.5860.
+
+(2) A map of the property showing:
+
+(a) Boundaries, dimensions, and size of the subject parcel;
+
+(b) Location and size of existing and proposed structures;
+
+(c) Contour lines and topographic features such as ravines or ridges;
+
+(d) Proposed fill, grading, site contouring or other landform changes;
+
+Page | 10
+
+(e) Location and predominant species of existing vegetation on the parcel, areas where
+vegetation will be removed, and location and species of vegetation to be planted,
+including landscaped areas;
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) In the SEC-wr overlay, the location of natural drainageways, springs, seeps, and
+wetlands on the site.
+
+(3) The Planning Director may also require the applicant to provide the following:
+
+(a) The location of the SEC-wr boundary, topography, or the location of development as
+determined by a registered professional surveyor or engineer;
+
+ (b) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades and existing or proposed
+vegetation.
+
+(B) SEC-Water Resource: In addition to the information requirements listed above, the following
+information shall be submitted for applications within the SEC-wr overlay.
+
+(1) A topographic map of the development area and adjacent areas of the site at contour intervals
+of five feet or less showing a delineation of the Water Area or Habitat Area as determined by a
+documented field survey, the location of all existing and proposed watercourses, drainageways,
+stormwater facilities, and utility installations;
+
+(2) The location of wetlands;
+
+(3) Information for the site from the adopted West of Sandy River Wildlife Habitat and Stream
+Corridor ESEE Reports, the County Goal 5 Inventory;
+
+(4) Preparation of plans and surveys inventories, assessment of existing conditions, and
+mitigation or restoration plans shall be prepared by a qualified fish or wildlife biologist at the
+discretion of the Planning Director. Wetlands shall be identified and delineated by a qualified
+wetland specialist. as set forth in the 1987 Corp of Engineers Wetland Delineation Manual.
+Required reports include:
+
+(a) An assessment of the existing condition of the Water Resource Area in accordance
+with MCC 39.5580 Table 2, Riparian/Vegetated Corridor Standards;
+
+(b) An inventory of vegetation, including percentage ground and canopy coverage, and
+location of nuisance plants listed in MCC 39.5580 Table 1;
+
+(c) A detailed Mitigation Plan as described in 39.5800 (F), if required;
+
+(5) The applicant shall provide evidence that when federal or state requirements apply, that the
+agency has been contacted, and shall provide an assessment of whether the project can meet the
+requirements based on the agency response;
+
+(6) The location of all existing trees of a caliper greater than six (6) inches in diameter at breast
+height (DBH);
+
+Page | 11
+
+(7) A description and map of soil types in the proposed development area and the locations and
+specifications for all proposed draining, filling, dredging, and vegetation removal, including the
+amounts and methods.
+
+§ 39.5525 APPLICABLE APPROVAL CRITERIA.
+
+ (A) The approval criteria that apply to uses in areas designated SEC-sw, SEC-v, SEC-w, SEC-s,
+SEC-wr, SEC-h on Multnomah County zoning maps shall be based on the type of protected resources on
+the property, as indicated by the subscript letter in the zoning designation, as follows:
+Zoning Overlay
+Designation
+Approval Criteria
+(MCC#)
+SEC 39.5540
+SEC-sw (scenic
+waterway) 39.5600
+SEC-v (scenic
+views) 39.5650
+SEC-w (wetlands) 39.5700
+SEC-s (streams) 39.5750
+SEC-wr (water
+resource) 39.5560 and 39.5800
+SEC-h (wildlife
+habitat)
+Type I Permit – 39.5850
+Type II Permit – 39.5560,
+39.5850, and 39.5860
+
+ (B) An application for a use on a property containing more than one protected resource shall address
+the approval criteria for all of the designated resources on the property. In the case of conflicting criteria,
+approval shall be based on the ability of the proposed development to comply as nearly as possible with
+the criteria for all designated resources that would be affected.
+ (C) For protected stream resources, the approval criteria shall be used to determine the most
+appropriate location, size and scope of the proposed development, in order to make the development
+compatible with the purposes of this Overlay, but shall not be used to prohibit a use or be used to require
+removal or relocation of existing physical improvements to the property. Any proposed development
+must comply with the approval criteria in order to be approved.
+
+§ 39.5530  SEC PERMIT - REQUIRED FINDINGS.
+
+A decision on an application for an SEC permit shall be based upon findings of consistency with the
+purposes of the SEC and with the applicable criteria for approval specified in MCC 39.5540 through
+39.5860.
+
+§ 39.5535  SCOPE OF CONDITIONS.
+
+Page | 12
+
+(A) Conditions of approval of an SEC permit, if any, shall be designed to bring the application into
+conformance with the applicable criteria of MCC 39.5540 through 39.5860 and any other requirements
+specified in the Goal 5 protection program for the affected resource. Conditions may relate, but are not
+limited to relating, to the locations, design, and maintenance of existing and proposed improvements,
+including but not limited to buildings, structures and use areas, parking, pedestrian and vehicular
+circulation and access, natural vegetation and landscaped areas, fencing, screening and buffering,
+excavations, cuts and fills, signs, graphics, and lighting, timing of construction and related activities, and
+mitigation.
+
+(B) Approval of an SEC permit shall be deemed to authorize associated public utilities, including energy
+and communication facilities.
+
+(C) The approval criteria for an SEC permit shall be used to determine the most appropriate location, size
+and scope of the proposed development in order to ensure that it meets the purposes of this Overlay, but
+shall not be used to deny economically viable use or be used to require removal or relocation of existing
+physical improvements to the property.
+
+§ 39.5540 CRITERIA FOR APPROVAL OF SEC PERMIT.
+
+The SEC designation shall apply to those significant natural resources, natural areas, wilderness areas,
+and cultural areas, and wild and scenic waterways that are designated SEC on the Multnomah County
+Zoning Map. Any proposed development, activity or use requiring an SEC permit shall meet / comply
+with be subject to the following:
+ (A) The maximum possible landscaped area, scenic and aesthetic enhancement, open space or
+vegetation shall be provided between any use and a river, stream, lake, or floodwater storage area.
+ (B) Agricultural land and forest land shall be preserved and maintained for farm and forest use.
+ (C) A building, structure, or use shall be located on a lot in a manner which will balance functional
+considerations and costs with the need to preserve and protect areas of environmental significance.
+ (D) Recreational needs shall be satisfied by public and private means in a manner consistent with the
+carrying capacity of the land and with minimum conflict with areas of environmental significance.
+ (E) The protection of the public safety and of public and private property, especially from vandalism
+and trespass, shall be provided to the maximum extent practicable.
+ (F) Significant fish and wildlife habitats shall be protected.
+ (G) The natural vegetation along rivers, lakes, wetlands and streams shall be protected and enhanced
+to the maximum extent practicable to assure scenic quality and protection from erosion, and continuous
+riparian corridors.
+ (H) Archaeological areas shall be preserved for their historic, scientific, and cultural value and
+protected from vandalism or unauthorized entry.
+ (I) Areas of annual flooding, floodplains, water areas, and wetlands shall be retained in their natural
+state to the maximum possible extent to preserve water quality and protect water retention, overflow, and
+natural functions.
+ (J) Areas of erosion or potential erosion shall be protected from loss by appropriate means.
+Appropriate means shall be based on current Best Management Practices and may include restriction on
+timing of soil disturbing activities.
+
+Page | 13
+
+ (K) The quality of the air, water, and land resources and ambient noise levels in areas classified SEC
+shall be preserved in the development and use of such areas.
+ (L) The design, bulk, construction materials, color and lighting of buildings, structures and signs shall
+be compatible with the character and visual quality of areas of significant environmental concern.
+ (M) An area generally recognized as fragile or endangered plant habitat or which is valued for
+specific vegetative features, or which has an identified need for protection of the natural vegetation, shall
+be retained in a natural state to the maximum extent possible.
+ (N) The applicable policies of the Comprehensive Plan shall be satisfied.
+
+§ 39.552045 DEFINITIONS.
+
+For the purposes of the SEC Overlays section of the Multnomah County Zoning Code (Chapter 39), the
+following definitions apply.
+
+Development: Any human-made change defined as buildings or other structures, mining, dredging,
+paving, filling, or grading in amounts greater than ten (10) cubic yards on any lot or excavation.  Any
+other activity that results in the removal of more than 10 percent of the existing vegetation in the Water
+Resource Area or Habitat Riparian Area on a lot or parcel.
+Developed Area: An area(s) of land associated with and/or dedicated to the primary use of a property
+and/or accessory use(s) including, but not limited to lawns, open spaces, structures, buildings, driveways,
+and other development.
+Forested Area: An area that has at least 75 percent crown closure, or 80 square feet of basal area per
+acre, of trees 11 inches DBH and larger, or an area which is being reforested pursuant to Forest Practice
+Rules of the Oregon Department of Forestry.
+Identified Viewing Areas: Public areas that provide important views of a significant scenic resource, and
+include both sites and linear corridors. The Identified Viewing Areas are:
+
+Bybee-Howell House
+
+Virginia Lakes
+
+Sauvie Island Wildlife Refuge
+
+Kelley Point Park
+
+Smith and Bybee Lakes
+
+Highway 30
+
+The Multnomah Channel
+
+The Willamette River
+
+Public roads on Sauvie Island.
+
+Native plants: Native plants are those listed in the latest edition of the Metro Native Plant List, or
+deemed equivalent by the Planning Director.
+
+Page | 14
+
+Non-Forested Area: An area which does not meet the definition of a forested area, as defined in MCC
+39.5520, and which is not being reforested pursuant to a forest management plan.
+Nuisance, and invasive non-native plants and native plants: Nuisance and invasive non-native plants
+include the those plants listed in the latest edition of the Metro Nuisance Plant List, and the Prohibited
+Plant List, and include those plants listed in the latest edition of the State of Oregon Noxious Weed List,
+or deemed equivalent by the Planning Director in consultation with a native plan authority or specialist.
+Native plants are those listed in the latest edition of the Metro Native Plant List.
+Practicable, Practical: As in No Practicable Alternative. Available and capable of being done after
+taking into consideration cost, existing technology, and logistics in light of overall project purposes.
+Protected Streams: Those streams which have been evaluated through a Goal 5 ESEE analysis and
+protected by Ordinance and those streams and wetlands mapped by Metro’s Title 13 as Habitat
+Conservation Areas as modified through the planning process are designated SEC-s on the Multnomah
+County Zoning Maps.
+
+Riparian Area: Those waterbodies, streams, wetlands, etc. protected by the SEC-wr and SEC-s Overlay
+designations. The Riparian Area includes the actual feature.
+
+Service Corridor: The entire length of the accessway and/or driveway measured from the public road to
+the proposed building or structure, parking areas, and circular turnarounds used to provide vehicle access
+to a building or use.
+
+Significant Environmental Concern Overlays (SEC Overlays): Those land areas identified in MCC
+39.5505 with zoning overlay designations areas designated on the Multnomah County Zoning Maps are
+land areas designated to protect, conserve, enhance, restore, and maintain significant natural and human-
+made features which are of public value, including among other things, river corridors, streams, lakes and
+islands, domestic water supply watersheds, flood water storage areas, natural shorelines and unique
+vegetation, wetlands, wildlife and fish habitats, significant geological features, tourist attractions,
+archaeological features and sites, and scenic views and vistas.
+
+Significant Scenic Views: Those areas designated SEC-v on Multnomah County Zoning Map.
+
+Significant Scenic Waterways (SEC-sw): Land areas that are contained within the Sandy River Scenic
+Waterway as shown on the zoning maps adopted on (September 6, 1977, Ord. 149).
+
+Significant Water Resources (SEC-wr): Protected water features, riparian/vegetated corridors and the
+adjacent impact areas, that are identified as significant resources in the Goal 5 Inventory, and as
+established by these definitions, are the areas included within the SEC-wr Overlay.
+Protected Water Features shall include:
+(1) Wetlands that provide a water quality benefit - Wetlands of metropolitan concern as shown on the
+Metro Water Quality and Flood Management Area Map and other wetlands which meet any one of
+the following criteria. Wetlands do not include artificially constructed and managed stormwater and
+water quality treatment facilities.
+(a) The wetland is fed by surface flows, sheet flows or precipitation, and has evidence of flooding
+during the growing season, and has 60 percent or greater vegetated cover, and is over one-half
+acre in size;
+(b) The wetland qualifies as having "intact water quality function" under the 1996 Oregon Fresh
+water Wetland Assessment Methodology;
+
+Page | 15
+
+(c) The wetland is in the Flood Management Area, and has evidence of flooding during the
+growing season, and is five acres or more in size, and has a restricted outlet or no outlet;
+(d)  The wetland qualifies as having "intact hydrologic control function" under the 1996 Oregon
+Freshwater Wetland Assessment Methodology; or
+(e)  The wetland or a portion of the wetland is within a horizontal distance of less than one-fourth
+mile from a water body which meets the Department of Environmental Quality definition of
+"water quality limited water body" in OAR Chapter 340, Division 41 (1996).
+(2) Rivers, streams, and drainages downstream from the point at which 50-acres or more are drained
+to the water feature (regardless of whether it carries year-round flow); and
+(3) Streams carrying year-round flow; and
+(4) Streams designated as significant in the Goal 5 inventory; and
+(5) Springs which feed stream and wetlands and have year-round flow; and
+(6) Natural lakes.
+Riparian/Vegetated Corridors and Impact Area:
+
+(1) The width of the riparian/vegetated corridor for all Protected Water Features varies and shall be as
+depicted on the Multnomah County Zoning Maps and is measured from the top of bank.
+
+Significant Wildlife Habitats (SEC-h): Includes nonriparian and nonwetland natural resource sites that
+contain habitat values such as wooded areas and areas with rare or endangered flora and fauna, as
+identified by the Goal 5 Inventory.  Habitat areas include the significant Goal 5 habitat resource and a 25
+foot buffer to protect the root zone of the vegetation.  The boundaries of Significant Wildlife Habitats,
+which are designated as SEC-h, are established by the Goal 5 Natural Resource Inventory and include:
+(1) Those areas identified on the Multnomah County Zoning maps as "Riparian Corridor/Wildlife
+Habitat and Impact Area" that do not otherwise meet the definition of Significant Water Resources in
+MCC 39.5520; and
+(2) Those areas identified on the Multnomah County Zoning maps as "Isolated Upland Wildlife
+Habitat" that do not otherwise meet the definition of Significant Water Resources in MCC 39.5520.
+Significant Wetlands: Those areas designated SEC-w on the Multnomah County Zoning Map and
+Significant wetlands consist of those areas designated as Significant on aerial photographs of a scale of 1
+inch = 200 feet made a part of the supporting documentation of the Comprehensive Plan.
+
+Stream Conservation Area: For the protected streams originally designated by Ordinance, the Stream
+Conservation Area designated on the zoning maps as SEC-s is an area extending upslope from and
+perpendicular to the centerline on both sides of a protected stream. The width of the Stream Conservation
+Area varies and shall be as depicted on the Multnomah County Zoning Maps and is from the centerline on
+both sides of the protected stream for the width of the mapped Overlay.
+
+Top of Bank: The same as "bankfull stage" which means the stage or elevation at which water overflows
+the natural banks of streams or other waters of this state and begins to inundate the upland. In the absence
+of physical evidence, the two-year recurrence interval flood elevation may be used to approximate the
+bankfull stage.
+
+Page | 16
+
+Visually Subordinate: The subject development does not noticeably contrast with the surrounding
+landscape, as viewed from an identified viewing area. Development that is visually subordinate may be
+visible, but is not visually dominant in relation to its surroundings.
+
+Within: The term “within” shall mean at least 75% of the entire development (building, physical
+improvements, landscaping, yards, septic system, etc.) shall be no further than the required distance from
+a public road allowed in the SECO code provisions.
+
+5.H.2 – SEC STANDARDS APPLICABLE IN THE WEST OF SANDY RIVER AREA
+ONLY
+
+§ 39.5550 EXISTING USES THE WEST OF SANDY RIVER RURAL AREA.
+
+(A) Uses that legally existed in the West of Sandy River Planning Area on January 1, 2003, that are not
+included as Exceptions in MCC 39.5515, may utilize the provisions of this section. This section is
+intended to define the circumstances under which existing development can be improved or replaced
+under limited requirements in recognition of the preexisting status. The SEC provisions are also not
+intended to make existing uses nonconforming. However, approval of proposals for alteration of uses that
+were non-conforming prior to January 1, 2003, must obtain an SEC permit in addition to demonstrating
+compliance with the non-conforming use provisions of MCC 39.8300 through 39.8315.
+
+(B) Change, expansion, or alteration of existing uses in the West of Sandy River Planning Area shall
+require an SEC permit as provided in MCC 39.5500 through 39.5860, except for changes to a structure as
+described in subsections (1) through (3) below:
+
+(1) In areas subject to the provisions of the SEC-sw, change, or alteration of existing uses which do
+not require any modification to the exterior of the structure;
+
+(2) Within the SEC-wr and SEC-h, addition of less than 400 square feet of ground coverage to the
+structure. This provision is intended to allow a maximum of 400 square feet of additional coverage to
+the structure that existed on January 1, 2003; and
+
+(3) Within the SEC-h overlay, alteration or expansion of 400 square feet or less of such driveway.
+
+(C) Replacement or restoration of existing structures in the West of Sandy River Planning Area that were
+unintentionally destroyed by fire or other casualty, or natural disaster within the same foundation lines
+shall not require an SEC permit. The redevelopment must be commenced within one year from the date of
+the loss, and may include an addition of a maximum 400 square feet of ground coverage. Structures
+which are expanded up to 400 square feet under this provision, may not subsequently expand under the
+provision in subsection (A)(2) above.
+
+(D) Within the SEC-wr, lawfully established structures in the West of Sandy River Planning Area that do
+not meet the casualty loss provisions of subsection (B) above may be replaced within the same foundation
+lines or area of ground coverage when the entire remaining vegetated corridor on the project site, or the
+first 50 feet closest to the stream, or an area equal to the ground coverage of the building and attached
+structures and paved areas, whichever is less, is enhanced to "good" condition pursuant to MCC 39.5800
+Table 2. Replacement shall be processed as a Type II review.
+
+(E) If development under this section is proposed to be located closer to a protected water feature,
+approval of a permit under the provisions of MCC 39.5520 through 39.5800 shall be obtained.
+
+Page | 17
+
+§ 39.5555 BUILDABLE LOT ENCROACHMENT IN THE WEST OF SANDY RIVER
+PLANNING AREA.
+
+In the West of Sandy River Planning Area, where a parcel is partially or wholly inside the SEC-wr
+Overlay Zone, the property owner may apply for encroachment in lieu of meeting the requirements in
+MCC 39.5800(A), (B), or (C) for development in the SEC- wr. The applicant shall demonstrate that:
+
+(A) Without the proposed encroachment, the owner would be denied economically viable use of the
+subject property. To meet this criterion, the applicant must show that no other application could result in
+approval of an economically viable use of the subject property. Evidence to meet this criterion shall
+include a list of uses allowed on the subject property.
+
+(B) The proposed encroachment is the minimum necessary to allow for the requested use, however not
+more than 1 acre of the site, including access roads and driveways, and areas necessary for utilities and
+facilities, is disturbed;
+
+(C) The proposed encroachment will comply with MCC 39.5800 (E) Mitigation; and
+
+(D) The proposed use complies with the standards of the base zone.
+
+§ 39.5560 GENERAL REQUIREMENTS FOR APPROVAL IN THE WEST OF SANDY
+RIVER PLANNING AREA DESIGNATED AS SEC-WR OR SEC-H.
+
+The requirements in this section shall be satisfied for development in the SEC-wr and SEC-h areas
+located in the West of Sandy River Planning Area in addition to the provisions of MCC 39.5800 or
+39.5860 as applicable.
+
+(A) Areas of erosion or potential erosion shall be protected from loss by appropriate means. Appropriate
+means shall be based on current Best Management Practices and may include restriction on timing of soil
+disturbing activities.
+
+(B) Outdoor lighting shall be of a fixture type and shall be placed in a location so that it does not shine
+directly into undeveloped water resource or habitat areas. Where illumination of a water resource or
+habitat area is unavoidable, it shall be minimized through use of a hooded fixture type and location. The
+location and illumination area of lighting needed for security of utility facilities shall not be limited by
+this provision.
+
+(C) The nuisance plants in MCC 39.554080 Table 1, in addition to the nuisance plants defined in MCC
+39.2000, shall not be used as landscape plantings within the SEC-wr and SEC-sh Overlay Zone.
+
+§ 39.5525 REPLACEMENT OR RESTORATION OF STRUCTURES IN ALL SEC
+OVERLAYS
+
+(A) In all SEC Overlays, when a lawfully established structure is destroyed by fire, natural disaster, or
+other casualty, an SEC Overlays permit(s) is not required when the following standards are met:
+
+(1) The structure is replaced within 75% of the same foundation lines, or
+
+(2) The structure is replaced within 75% of the same foundation lines, and the structure’s total
+ground coverage is unchanged or expanded by a maximum of 400 square feet. Structures which
+
+Page | 18
+
+are expanded under this provision may not subsequently expand under the provision in MCC
+39.5515 (A)(4). Other existing physical improvements shall not be modified under this exception;
+
+(3) Any nuisance and invasive non-native plants, as defined in MCC 39.5520, are removed from
+within the developed area.
+
+(B) In the SEC overlays identified below, the following additional requirements shall apply:
+
+(1) In the SEC-v, SEC (East of Sandy River Area), and SEC-sw Overlays, the height of the structure
+shall not be increased beyond the original structure height.
+
+5.H.3 – SEC STANDARDS APPLICABLE IN THE URBAN PLANNING AREA ONLY
+
+§ 39.5570 EXISTING USES IN THE URBAN PLANNING AREA.
+
+(A) Uses that legally existed in the Urban Planning Area on January 7, 2010, that are not included as
+Exceptions in section MCC .39.5515, may utilize the provisions of this section. This section is intended to
+define the circumstances under which existing development can be improved or replaced under limited
+requirements in recognition of the preexisting status. The SEC provisions are also not intended to make
+existing uses non-conforming. However, approval of proposals for alteration of uses that were non-
+conforming prior to the applicable SEC ordinance date, must obtain an SEC permit in addition to
+demonstrating compliance with the non-conforming use provisions of MCC 39.8300 through 39.8315.
+
+(B) Change, expansion, or alteration of existing uses in the Urban Planning Area shall require an SEC
+permit as provided in MCC 39.5500 through 39.5860, except for changes to a structure as described in
+subsections (1) or (2) below;
+
+(1) In areas subject to the provisions of the SEC Overlay, change, or alteration of existing uses
+which do not require any modification to the exterior of the structure;
+
+(2) Within the SEC-wr and SEC-h - addition of less than 400 square feet of ground coverage to
+the structure. This provision is intended to allow a maximum of 400 square feet of additional
+coverage to the structure that existed on January 7, 2010.
+
+(C) In the Urban Planning Area replacement or restoration of existing structures that were unintentionally
+destroyed by fire or other casualty, or natural disaster within the same foundation lines shall not require
+an SEC permit. The redevelopment must be commenced within one year from the date of the loss, and
+may include addition of a maximum 400 square feet of ground coverage. Structures which are expanded
+up to 400 square feet under this provision, may not subsequently expand under the provision in subsection
+(A)(2) above.
+
+(D) In the Urban Planning Area within the SEC-wr, lawfully established structures that do not meet the
+casualty loss provisions of subsection (B) above may be replaced within the same foundation lines or area
+of ground coverage when the entire remaining vegetated corridor on the project site, or the first 50 feet
+closest to the stream, or an area equal to the ground coverage of the building and attached structures and
+paved areas, whichever is less, is enhanced to "good" condition pursuant to MCC 39.5800 Table 2.
+Replacement shall be processed as a Type II review.
+
+(E) If development under this section is proposed to be located closer to a protected water feature,
+approval of a permit under the provisions of MCC 39.5520 through 39.5800 shall be obtained.
+
+§ 39.5530 SEC PERMIT CRITERIA (SIGNIFICANT ENVIRONMENTAL CONCERN)
+
+Page | 19
+
+(A) Decision Review Process
+
+(1) Applications shall meet all of the criteria in MCC 39.5530 (B) through (C) and shall be processed
+through the Type II review procedure.
+
+(a) Properties designated with the SEC Overlay along the Sandy River in the East of Sandy River
+rural area, shall be subject to the approval criteria listed in MCC 39.5560 in lieu of the approval
+criteria in MCC 39.5530 (C) below.
+
+(B) Application Submittal Requirements.An All applications for an SEC permit shall include the
+following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of MCC 39.5530 (C) below.
+
+(2) A scaled site plan of the property showing:
+
+(a) Property lines;
+
+(b) Location and size of all existing and proposed buildings and structures;
+
+(c) Contour lines and topographic features such as ravines or ridges (contour lines no
+greater than 10 feet);
+
+(d) Boundaries of ground disturbing activities, including proposed fill, excavating, site
+contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel (wooded
+areas), areas where vegetation will be removed, and location and species of vegetation to
+be planted, including landscaped areas;
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) Location of natural drainageways, springs, seeps, water bodies and wetlands on the
+site.
+
+(h) Location of wells, utility lines, stormwater drainage control system, sanitary tanks and
+drainfields (primary and reserve).
+
+(i) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades, and existing or proposed
+vegetation;
+
+(3) The Planning Director may also require the applicant to provide additional information,
+beyond that listed in this section such as a report prepared by an appropriate subject matter
+expert, where needed to address relevant approval criteria.
+
+(C) SEC Permit Approval Criteria
+
+The SEC designation shall apply to those significant natural resources, natural areas, wilderness areas,
+and cultural areas that are designated SEC on the Multnomah County Zoning Map. Any proposed
+development, activity or use requiring an SEC permit shall meet/ comply with the following:
+
+Page | 20
+
+(1) The maximum possible landscaped area, scenic and aesthetic enhancement, open space or
+vegetation shall be provided between any use and a river, stream, lake, or floodwater storage area.
+(2) Agricultural land and forest land shall be preserved and maintained for farm and forest use.
+(3) A building, structure, or use shall be located on a lot in a manner which will balance functional
+considerations and costs with the need to preserve and protect areas of environmental significance.
+(4) Significant fish and wildlife habitats shall be protected.
+(5) The natural vegetation along rivers, lakes, wetlands and streams shall be protected and enhanced
+to the maximum extent practicable to assure scenic quality and protection from erosion, and
+continuous riparian corridors.
+(6) Archaeological areas shall be preserved for their historic, scientific, and cultural value and
+protected from vandalism or unauthorized entry.
+(7) Areas of annual flooding, floodplains, water areas, and wetlands shall be retained in their natural
+state to the maximum possible extent to preserve water quality and protect water retention, overflow,
+and natural functions.
+(8) Areas of erosion or potential erosion shall be protected from loss by appropriate means.
+Appropriate means shall be based on current Best Management Practices and may include restriction
+on timing of soil disturbing activities.
+(9) The quality of the air, water, and land resources and ambient noise levels in areas classified SEC
+shall be preserved in the development and use of such areas.
+(10) The design, bulk, construction materials, color and lighting of buildings, structures and signs
+shall be compatible with the character and visual quality of areas of significant environmental
+concern.
+(11) An area generally recognized as fragile or endangered plant habitat or which is valued for
+specific vegetative features, or which has an identified need for protection of the natural vegetation,
+shall be retained in a natural state to the maximum extent possible.
+(12) The applicable policies of the Comprehensive Plan shall be satisfied.
+
+§ 39.5540 SEC-h PERMIT CRITERIA (SIGNIFICANT WILDLIFE HABITATS)
+
+(A) Decision Review Process
+
+(1) Applications that meet all of the criteria in MCC 39.5540 (C) below, shall be processed through
+the Type I review procedure. A mitigation plan pursuant to subsection (D) below is not required.
+
+(2) Applications that do not meet all of the criteria in MCC 39.5540 (C) below, shall be processed
+through the Type II review procedure. A mitigation plan pursuant to subsection (D) below is
+required.
+
+(B) Application Submittal Requirements.An All applications for an SEC-h permit shall include the
+following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of MCC 39.5540 (C) and (D)39.5540 through 39.5860.
+
+Page | 21
+
+(2) A scaled site plan of the property showing:
+
+(a) Boundaries, dimensions, and size of the subject parcel Property lines;
+
+(b) Location and size of all existing and proposed structures; and all existing and proposed type
+and location of all fencing on the subject property and on adjacent properties and on properties
+entirely or partially within 200 feet of the subject property.
+
+(c) Contour lines and topographic features such as ravines or ridges (contour lines not greater
+than 10 feet);
+
+(d) Boundaries of ground disturbing activities, including pProposed fill, excavating grading, site
+contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel (wooded areas), areas
+where vegetation will be removed, and location and species of vegetation to be planted, including
+landscaped areas;
+
+(f) Location and width of existing and proposed public roads, private access roads, driveways,
+and service corridors on the subject parcel and within 200 feet of the subject parcel's boundaries
+on all adjacent parcels;
+
+(g) Location of all existing forested areas (including areas cleared pursuant to an approved forest
+management plan) and non-forested "cleared" areas; For the purposes of this section, a forested
+area is defined as an area that has at least 75 percent crown closure, or 80 square feet of basal area
+per acre, of trees 11 inches DBH and larger, or an area which is being reforested pursuant to
+Forest Practice Rules of the Department of Forestry. A non-forested "cleared" area is defined as
+an area which does not meet the description of a forested area and which is not being reforested
+pursuant to a forest management plan;
+
+(h) Location of wells, utility lines, stormwater drainage control systems, sanitary tanks and
+drainfields (primary and reserve);
+
+(i) A scaled drawing of the building design and elevations that show the relationship between the
+building and existing and finished grades and existing or proposed vegetation;
+
+(3) The Planning Director may also require the applicant to provide additional information, beyond
+that listed in this section such as a report prepared by an appropriate subject matter expert, where
+needed to address relevant approval criteria.
+
+(C) SEC-h Permit Approval Criteria
+
+(1) Development Standards
+
+(a) Where a parcel contains any non-forested "cleared" areas within 200 feet of a public road,
+development shall only occur in these areas, except as necessary to provide access and to meet
+minimum clearance standards for fire safety.
+
+(b) Development shall occur within 200 feet of a public road capable of providing reasonable
+practical access to the developable portion of the site.
+
+(c) The access road/driveway and service corridor serving the development shall not exceed 500
+feet in length.
+
+Page | 22
+
+(d) The development shall be within 300 feet of a side property line if adjacent property has
+structures and developed areas within 200 feet of that common side property line.
+
+(e) Nuisance and invasive non-native plants, as defined in MCC 39.5540 shall not be planted on
+the subject property and shall be removed and kept removed from cleared areas of the subject
+property.
+
+(f) The proposed development shall meet the applicable stormwater and ground disturbing
+activity requirements of MCC 39.6200 through 39.6235. Ground disturbing activity within 100
+feet of a water body as defined by MCC 39.2000 shall be limited to the period between May 1st
+and September 15th. Revegetation and soil stabilization must be accomplished no later than
+October 15th.
+
+(g) Outdoor lighting shall be of a hooded fixture type and shall be placed in a location so that it
+does not shine directly into undeveloped habitat areas. Where illumination of habitat area is
+unavoidable, it shall be minimized through use of limited lumens with a hooded fixture type and
+proper placement. The location and illumination area of lighting needed for security of public
+utility facilities shall not be limited by this provision but should be done in a minimalistic
+manner.
+
+(D) Mitigation Plan Criteria
+
+(1) Mitigation Plan Requirements. An applicant shall propose a mitigation plan that provides
+mitigation activities and plantings as outlined in subsection (2) or (3) below. The mitigation area shall
+first be located within any existing non-forested cleared areas contiguous to forested areas, second
+within any degraded stream riparian areas and last in forested areas or adjacent to landscaped yards.
+
+(2) Additions to Lawfully Established Buildings / Structures: The applicant may utilize the
+following mitigation measures for additions to lawfully established buildings and structures
+instead of mitigation plan:
+
+(a) Each tree removed to construct the proposed development shall be replaced on a one to one
+ratio with a six foot tall native tree.
+
+(b) For each 100 square feet of new building area, the property owner shall plant, one, 3-4 foot
+tall native tree or three native tree seedlings. The trees shall be planted to improve wildlife habitat
+first within non-forested cleared areas contiguous to forested areas, second within any degraded
+stream riparian areas before being placed in forested areas or adjacent to landscaped yards.
+
+(c) All exterior lighting on the property is brought into compliance with the (C)(1)(g) above.
+
+(d) For non-forested “cleared” areas that require nuisance and invasive non-native plant removal
+pursuant to (C)(1)(e) above, the property owner shall set a specific date for the work to be
+completed and the area replanted with native vegetation. The time frame must be within two
+years from the date of the permit.
+
+(3) New Buildings, Structures, and Development: The mitigation plan must demonstrate the
+following:
+
+(a) That measures are included in order to reduce impacts to forested areas to the minimum
+necessary to serve the proposed development by restricting the amount of clearance and
+length/width of cleared areas and disturbing the least amount of forest canopy cover.
+
+Page | 23
+
+(b) That any newly cleared area associated with the development is not greater than one acre,
+excluding from this total the minimum area required for fire accessway purposes.
+
+(c) That no fencing will be built and existing fencing will be removed outside of areas cleared for
+the site development except for existing cleared areas used for agricultural purposes.
+
+(d) Mitigation areas
+
+(i) All trees, shrubs and ground cover shall be native plants selected from the Metro
+Native Plant List:
+
+(ii) Native trees and shrubs shall be planted at a rate of one (1) tree for every 100 square
+feet of development / disturbance area. Bare ground shall be planted or seeded with
+perennial native grasses or herbs.
+
+(iii) All vegetation shall be planted within the mitigation area located on the same Lot of
+Record as the development and shall be located within the SEC-h Overlay or in an area
+contiguous to the SEC-h Overlay.
+
+1. If the vegetation is planted in an area contiguous to the SEC-h Overlay, then
+the applicant shall preserve the contiguous area by executing a deed restriction,
+through a restrictive covenant.
+
+(e) That nNative soils disturbed during development will be conserved on the property.
+
+(f) Plant size. Mitigation trees shall be at least one-half inch in caliper, measured at 6 inches
+above the ground level for field grown trees or above the soil line for container grown trees (the
+one-half inch minimum size may be an average caliper measure, recognizing that trees are not
+uniformly round).
+
+(i) If using oak or madrone trees, the planting size may be one gallon. Shrubs shall be in
+at least a 1-quart container or the equivalent in ball and burlap and shall be at least 6
+inches in height.
+
+(g) Plant spacing. Trees shall be planted between 8 and 12 feet on center and shrubs shall be
+planted between 4 and 5 feet on-center, or clustered in single species groups of no more than four
+(4) plants, with each cluster planted between 8 and 10 feet on-center.
+
+(i) When planting near existing trees, the drip line of the existing tree shall be the starting
+point for plant spacing measurements.
+
+(h) Plant diversity. Shrubs shall consist of at least two (2) different species. If 10 trees or more are
+planted, then no more than 50% of the trees may be of the same genus.
+
+(E) Required Conditions of Approval for all SEC-h Permits
+
+(1) An erosion and sediment control plan shall be prepared in compliance with the ground
+disturbing activity standards set forth in MCC 39.6200 through MCC 39.6235.
+
+(2) Prior to development, all work areas shall be flagged, fenced, or otherwise marked to reduce
+potential damage to habitat outside of the work area. The work area shall remain marked through
+all phases of development.
+
+Page | 24
+
+(3) Trees shall not be used as anchors for stabilizing construction equipment.
+
+(4) The planting date for the mitigation area shall occur within one year following the approval of
+the application.
+
+(5) Any nuisance and invasive non-native plants, as defined in MCC 39.5520, listed in MCC
+39.5580 Table 1 shall be removed within the mitigation area prior to planting.
+
+(6) Monitoring and reporting. Monitoring of the mitigation site is the ongoing responsibility of
+the property owner. A Yearly Report shall be provided to Multnomah County Land Use Planning
+for a period of five years, unless the Planning Director requires a longer reporting period.
+
+(a) Plants that die shall be replaced in kind so that a minimum of 80% of the trees and
+shrubs planted shall remain alive on the fifth anniversary of the date that the mitigation
+planting is completed.
+
+(b) Mitigation plantings shall be maintained and shall not be removed from the property
+without contacting Multnomah County Land Use Planning and receiving written approval
+to amend the Mitigation Plan.
+
+§ 39.5575 GENERAL REQUIREMENTS FOR APPROVAL IN THE URBAN PLANNING
+AREA DESIGNATED AS SEC-WR.
+
+The requirements in this section shall be satisfied for development in the SEC-wr areas located in the
+Urban Planning Area in addition to the provisions of MCC 39.5800 as applicable.
+
+(A) Areas of erosion or potential erosion shall be protected from loss by appropriate means. Appropriate
+means shall be based on current Best Management Practices and may include restriction on timing of soil
+disturbing activities.
+
+(B) Outdoor lighting shall be of a fixture type and shall be placed in a location so that it does not shine
+directly into undeveloped water resource or habitat areas. Where illumination of a water resource or
+habitat area is unavoidable, it shall be minimized through use of a hooded fixture type and location. The
+location and illumination area of lighting needed for security of utility facilities shall not be limited by
+this provision.
+
+(C) The nuisance plants in MCC 39.5580 Table 1, in addition to the nuisance plants defined in MCC
+39.2000, shall not be used as landscape plantings within the SEC-wr and SEC-h Overlay Zone.
+
+5.H.4 –  NUISANCE PLANT LIST
+
+§ 39.5585 NUISANCE PLANT LIST.
+
+( * * * )
+
+§ 39.5550 SEC-s PERMIT CRITERIA (SIGNIFICANT STREAMS)
+
+(A) An application for an SEC-s permit shall meet the requirements and approval criteria listed in MCC
+39.5590.
+
+Page | 25
+
+5.H.5 – SCENIC WATERWAY (SEC-sw)
+
+§ 39.55605600 SEC-sw PERMIT CRITERIA (SIGNIFICANT SCENIC WATERWAYS).
+
+(A) Decision Review Process
+
+(1) Applications that meet all of the following criteria shall be processed through the Type I
+review procedure:
+
+(a) The proposed building is no taller than 24 feet to top of ridgeline.
+(b) Dark earthtone colors are used on the exterior siding, trim and doors.
+(c) Building siding, roofing, windows and trim use low or non-reflective materials.
+Windows are low-e or better and have a reflectivity rating of 13 percent or less.
+(d) No more than 25 percent of the building elevation facing the Scenic Waterway is in
+glass.
+(e) All existing and proposed exterior lighting meets the Dark Sky Lighting Standards of
+MCC 39.6850. Shielding and hooding materials should be composed of nonreflective,
+opaque materials.
+(f) The proposed building and ground disturbance are screened by existing on-site
+vegetation from the Scenic Waterway.
+(g)  The application for the SEC-sw permit shall include a letter from the Oregon Parks
+and Recreation Department indicating that the proposed development has been reviewed
+and is, or can be, consistent with the provisions of the Oregon Scenic Waterways
+Management Plan.
+(2) Applications that do not satisfy the criteria in subsection (1) above, shall meet all of the
+criteria in MCC 39.5560 (C) and shall be processed through the Type II review procedure.
+
+(B) Application Submittal Requirements.An All applications for an SEC-sw permit shall include the
+following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of MCC 39.5560 (C).
+
+(2) A scaled site plan of the property showing:
+
+(a) Property lines;
+
+(b) Location and size of all existing and proposed buildings and structures;
+
+(c) Contour lines and topographic features such as ravines or ridges (contour lines no
+greater than 10 feet);
+
+(d) Boundaries of ground disturbing activities, including proposed fill, grading
+excavating, site contouring or other landform changes;
+
+Page | 26
+
+(e) Location and predominant species of existing vegetation on the parcel (wooded
+areas), areas where vegetation will be removed, and location and species of vegetation to
+be planted, including landscaped areas;
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) Location of natural drainageways, springs, seeps, water bodies and wetlands on the
+site.;
+
+(h) Location of wells, utility lines, stormwater disposal system, sanitary tanks and
+drainfields (primary and reserve);
+
+(i) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades and existing or proposed
+vegetation;
+
+(3) The Planning Director may also require the applicant to provide additional information,
+beyond that listed in this section such as a report prepared by an appropriate subject matter
+expert, where needed to address relevant approval criteria.
+
+(C) SEC-sw Permit Approval Criteria.
+Any proposed development, activity or use requiring an SEC-sw permit shall comply with the following:
+Except as otherwise provided in this Subpart, all development within the SEC-sw shall be subject to the
+following:
+(1) The application for the SEC-sw permit shall include a letter from the Oregon Parks and
+Recreation Department indicating that the proposed development has been reviewed and is, or can be,
+consistent with the provisions of the Oregon Scenic Waterways Management Plan.
+(2) The maximum possible landscaped area, scenic and aesthetic enhancement, open space or
+vegetation shall be provided between any use and a river, stream, lake, or floodwater storage area.
+(3) Agricultural land and forest land shall be preserved and maintained for farm and forest use.
+(4) A building, structure, or use shall be located on a lot in a manner which will balance functional
+considerations and costs with the need to preserve and protect areas of environmental significance.
+(5) The natural vegetation along rivers, lakes, wetlands and streams shall be protected and enhanced
+to the maximum extent practicable to assure scenic quality and protection from erosion
+(6) Archaeological areas shall be preserved for their historic, scientific, and cultural value and
+protected from vandalism or unauthorized entry.
+(7) Areas of erosion or potential erosion shall be protected from loss by appropriate means.
+Appropriate means shall be based on current Best Management Practices and may include restriction
+on timing of soil disturbing activities.
+(8) The design, bulk, construction materials, color and lighting of buildings, structures and signs shall
+be compatible with the character and visual quality of areas of significant environmental concern.
+
+Page | 27
+
+(9) An area generally recognized as fragile or endangered plant habitat or which is valued for specific
+vegetative features, or which has an identified need for protection of the natural vegetation, shall be
+retained in a natural state to the maximum extent possible.
+
+5.H.6 – SIGNIFICANT SCENIC VIEWS (SEC-v)
+
+§ 39.5570 SEC-v PERMIT CRITERIA (SIGNIFICANT SCENIC VIEWS)
+
+(A) Decision Review Process
+
+(1) Applications that meet all of the following criteria shall be processed through the Type I
+review procedure:
+
+(a) The proposed building is no taller than 24 feet to top of ridgeline.
+(b) Dark earthtone colors are used on the exterior siding, trim and doors facing an
+Identified Viewing Area.
+(c) Building siding, roofing, windows and trim use low or non-reflective materials.
+Windows are low-e or better and have a reflectivity rating of 13 percent or less.
+(d) No more than 25 percent of the building elevation facing an Identified Viewing Area
+is in glass.
+(e) All existing and proposed exterior lighting meets the Dark Sky Lighting Standards of
+MCC 39.6850. Shielding and hooding materials should be composed of nonreflective,
+opaque materials.
+(f) The proposed building and ground disturbance are screened by existing on-site
+vegetation or are topographically not visible from an Identified Viewing Area as mapped
+by the County.
+(2) Applications that do not meet the criteria in subsection (1) above, shall meet all of the criteria
+in MCC 39.5570 (C) and shall be processed through the Type II review procedure.
+
+(B) Application Submittal Requirements.An All applications for an SEC-v permit shall include the
+following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria, and the visual subordinance requirements of subsection (C) below.
+
+(2) Details on the height, shape, colors, outdoor lighting, and exterior building materials of any
+proposed structure;
+
+(3) Elevation drawings showing the appearance of proposed structures when built and
+surrounding final ground grades; and demonstrating how the proposed development will be
+visually subordinate as required by subsection (C) below, including information on the type,
+height and location of any vegetation or other materials which will be used to screen the
+development from the view of identified viewing areas.
+
+(4)(2) A scaled site plan of the property showing:
+
+(a) Property lines;
+
+Page | 28
+
+(b) Location and size of all existing and proposed buildings and structures;
+
+(c) Contour lines and topographic features such as ravines or ridges (contour lines no
+greater than 10 feet);
+
+(d) Boundaries of ground disturbing activities, including proposed fill, excavating, site
+contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel (wooded
+areas), areas where vegetation will be removed, and location and species of vegetation to
+be planted, including landscaped areas;
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) The location of natural drainageways, springs, seeps, water bodies and wetlands on
+the site.
+
+(h) Location of wells, utility lines, stormwater drainage control systems, sanitary tanks
+and drainfields (primary and reserve).
+
+(i) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades and existing or proposed
+vegetation.
+
+(3) The Planning Director may also require the applicant to provide additional information,
+beyond that listed in this section such as a report prepared by an appropriate subject matter
+expert, where needed to address relevant approval criteria.
+
+(C) SEC-v Permit Approval Criteria
+
+(1) Any portion of a proposed development (including access roads, cleared areas and structures) on a
+property that is topographically visible from an identified viewing area shall be visually subordinate
+or achieve visual subordinance. For development to be found visually subordinate, the subject
+development shall not noticeably contrast with the surrounding landscape, as viewed from an
+identified viewing area. Development that is visually subordinate may be visible, but it shall not be
+visually dominant in relation to its surroundings. Guidelines which may be used to attain visual
+subordinance, and which shall be considered in making the determination of visual subordination
+include:
+
+(a) Siting on portions of the property where topography and existing vegetation will screen the
+development from the view of identified viewing areas.
+
+(b) Use of nonreflective or low reflective building materials and dark natural or earthtone colors.
+
+(c) Exterior lighting that it is not highly visible from identified viewing areas and meets the Dark
+Sky Lighting Standards of MCC 39.6850. Shielding and hooding materials should be composed
+of nonreflective, opaque materials.
+
+(d) Use of screening vegetation or earth berms to block and/or disrupt views of the development.
+Priority should be given to retaining existing vegetation over other screening methods. Trees
+planted for screening purposes should be coniferous to provide winter screening. The applicant is
+responsible for the proper maintenance and survival of any vegetation used for screening.
+
+Page | 29
+
+(e) Proposed developments or land use shall be aligned, designed and sited to fit the natural
+topography and to take advantage of vegetation and land form screening, and to minimize visible
+grading or other modifications of landforms, vegetation cover, and natural characteristics.
+
+(f) Limiting structure height to remain below the surrounding forest canopy level.
+
+(g) Siting and/or design so that the silhouette of buildings and other structures remains below the
+skyline of bluffs or ridges as seen from identified viewing areas. This may require modifying the
+building or structure height and design as well as location on the property, except:
+
+(1) New public communications facilities (transmission lines, antennae, dishes, etc.), may
+protrude above a skyline visible from an identified viewing area upon demonstration that:
+
+1. The new facility could not be located in an existing transmission corridor or built
+upon an existing facility;
+
+2. The facility is necessary for public service; and
+
+3. The break in the skyline is the minimum necessary to provide the service.
+
+(2) The approval authority may impose conditions of approval on an SEC-v permit in accordance
+with MCC 39.5535, in order to make the development visually subordinate. The extent and type of
+conditions shall be proportionate to the potential adverse visual impact of the development as seen
+from identified viewing areas, taking into consideration the size of the development area that will be
+visible, the distance from the development to identified viewing areas, the number of identified
+viewing areas that could see the development, and the linear distance the development could be seen
+along identified viewing corridors
+
+§ 39.5650 CRITERIA FOR APPROVAL OF SEC-V PERMIT – SIGNIFICANT SCENIC
+VIEWS.
+
+(A) For purposes of this Section, the following terms and their derivations shall have the meanings
+provided below:
+
+(1) Significant Scenic Resources – Those areas designated SEC-v on Multnomah County Zoning
+Map.
+
+(2) Identified Viewing Areas – Public areas that provide important views of a significant scenic
+resource, and include both sites and linear corridors. The Identified Viewing Areas are:
+
+Bybee-Howell House
+
+Virginia Lakes
+
+Sauvie Island Wildlife Refuge
+
+Kelley Point Park
+
+Smith and Bybee Lakes
+
+Highway 30
+
+Page | 30
+
+The Multnomah Channel
+
+The Willamette River
+
+Public roads on Sauvie Island.
+
+(3) Visually Subordinate – The subject development does not noticeably contrast with the
+surrounding landscape, as viewed from an identified viewing area. Development that is visually
+subordinate may be visible, but is not visually dominant in relation to its surroundings.
+
+(B) In addition to the information required by MCC 39.5520, an application for development in an area
+designated SEC-v shall include:
+
+(1) Details on the height, shape, colors, outdoor lighting, and exterior building materials of any
+proposed structure;
+
+(2) Elevation drawings showing the appearance of proposed structures when built and surrounding
+final ground grades; and
+
+(3) A list of identified viewing areas from which the proposed use would be visible; and,
+
+(4) A written description and drawings demonstrating how the proposed development will be visually
+subordinate as required by subsection (C) below, including information on the type, height and
+location of any vegetation or other materials which will be used to screen the development from the
+view of identified viewing areas.
+
+(C) Any portion of a proposed development (including access roads, cleared areas and structures) that will
+be visible from an identified viewing area shall be visually subordinate. Guidelines which may be used to
+attain visual subordinance, and which shall be considered in making the determination of visual
+subordination include:
+
+(1) Siting on portions of the property where topography and existing vegetation will screen the
+development from the view of identified viewing areas.
+
+(2) Use of nonreflective or low reflective building materials and dark natural or earthtone colors.
+
+(3) Exterior lighting that it is not highly visible from identified viewing areas and meets the Dark Sky
+Lighting Standards of MCC 39.6850. Shielding and hooding materials should be composed of
+nonreflective, opaque materials.
+
+(4) Use of screening vegetation or earth berms to block and/or disrupt views of the development.
+Priority should be given to retaining existing vegetation over other screening methods. Trees planted
+for screening purposes should be coniferous to provide winter screening. The applicant is responsible
+for the proper maintenance and survival of any vegetation used for screening.
+
+(5) Proposed developments or land use shall be aligned, designed and sited to fit the natural
+topography and to take advantage of vegetation and land form screening, and to minimize visible
+grading or other modifications of landforms, vegetation cover, and natural characteristics.
+
+(6) Limiting structure height to remain below the surrounding forest canopy level.
+
+Page | 31
+
+(7) Siting and/or design so that the silhouette of buildings and other structures remains below the
+skyline of bluffs or ridges as seen from identified viewing areas. This may require modifying the
+building or structure height and design as well as location on the property, except:
+
+(a) New communications facilities (transmission lines, antennae, dishes, etc.), may protrude
+above a skyline visible from an identified viewing area upon demonstration that:
+
+1. The new facility could not be located in an existing transmission corridor or built upon
+an existing facility;
+
+2. The facility is necessary for public service; and
+
+3. The break in the skyline is the minimum necessary to provide the service.
+
+(D) Mining of a protected aggregate and mineral resource within a PAM Overlay shall be done in
+accordance with any standards for mining identified in the protection program approved during the Goal 5
+process. The Application for SEC-v permit must comply only with measures to protect scenic views
+identified in the Goal 5 protection program that has been designated for the site.
+
+(E) The approval authority may impose conditions of approval on an SEC-v permit in accordance with
+MCC 39.5535, in order to make the development visually subordinate. The extent and type of conditions
+shall be proportionate to the potential adverse visual impact of the development as seen from identified
+viewing areas, taking into consideration the size of the development area that will be visible, the distance
+from the development to identified viewing areas, the number of identified viewing areas that could see
+the development, and the linear distance the development could be seen along identified viewing
+corridors
+
+( * * * )
+
+5.H.7 – SIGNIFICANT WETLANDS (SEC-w)
+
+§ 39.55805700 SEC-w PERMIT CRITERIA (SIGNIFICANT WETLANDS).
+
+Significant wetlands consist of those areas designated as Significant on aerial photographs of a scale of 1
+inch = 200 feet made a part of the supporting documentation of the Comprehensive Plan.
+(A) Decision Review Process
+(1) Applications shall meet all of the criteria in MCC 39.5580 and shall be processed through the
+Type II review procedure.
+(B) Application Submittal Requirements. All applications for any proposed development, activity or use
+requiring an SEC-w permit shall include the following: which would impact those wetlands shall be
+subject to the following:
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of MCC 39.5580 (C) and (D).
+
+(2) A scaled site plan of the property showing:
+
+(a) Property lines;
+
+(b) Location and size of all existing and proposed buildings and structures;
+
+Page | 32
+
+(c) Contour lines and topographic features such as ravines or ridges (contour lines no
+greater than 5 feet);
+
+(d) Boundaries of ground disturbing activities, including proposed fill, excavating, site
+contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel, areas where
+vegetation will be removed, and location and species of vegetation to be planted,
+including landscaped areas;
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) Location of natural watercourses, drainageways, springs, seeps, water bodies and
+wetlands on the site. The riparian boundaries shall be determined by a documented field
+survey by a professional riparian/wetland specialist and mapped by a licensed surveyor.
+
+(h) Location of wells, utility lines, stormwater disposal system, sanitary tanks and
+drainfields (primary and reserve);
+
+(i) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades and existing or proposed
+vegetation;
+
+ (A) In addition to other SEC Permit submittal requirements, the application shall also include:
+(1) A site plan drawn to scale showing the wetland boundary as determined by a documented
+field survey, the location of all existing and proposed watercourses, drainageways, stormwater
+facilities, utility installations, and topography of the site at a contour interval of no greater than
+five feet;
+(23) a An assessment of the wetland’s functional characteristics and water sources, and a
+description of the vegetation types and fish and wildlife habitat in a written report by a
+professional riparian/wetland specialist. The report shall contain a description and map of the
+wetland area that will be affected by the proposed development, activity and/or use.;
+A description and map of the wetland area that will be affected by the proposed activity. This
+documentation must also include a map of the entire wetland, an assessment of the wetland’s
+functional characteristics and water sources, and a description of the vegetation types and fish and
+wildlife habitat;
+(34) A description and map of soil types in the proposed development area and the locations and
+specifications for all proposed draining, filling, grading excavating, dredging, and vegetation
+removal, including the amounts and methods;
+(45) A study of any flood hazard, erosion hazard, or other natural hazards in the proposed
+development area and any proposed protective measures to reduce such hazards;
+(56) Detailed Mitigation Plans as described in subsection (D), if required;
+(7) The Planning Director may also require the applicant to provide additional information,
+beyond that listed in this section such as a report prepared by an appropriate subject matter
+expert, where needed to address relevant approval criteria.
+
+Page | 33
+
+(6) Description of how the proposal meets the approval criteria listed in subsection (B) below.
+(CB) SEC-w Permit Approval Criteria
+The applicant shall demonstrate that the proposal meets the following:
+(1) Is water-dependent or requires access to the wetland as a central element of its basic design
+function, or is not water dependent but has no practicable alternative as described in subsection
+(C) below;
+(2) Will have as few adverse impacts as is practical to the wetland’s functional characteristics and
+its existing contour, vegetation, fish and wildlife resources, shoreline anchoring, flood storage,
+general hydrological conditions, and visual amenities. This impact determination shall also
+consider specific site information contained in the adopted wetlands inventory and the economic,
+social, environmental, and energy (ESEE) analysis made part of the supporting documentation of
+the comprehensive plan;
+(3) Will not cause significant degradation of groundwater or surface-water quality;
+(4) Will provide a buffer area of not less than 50 feet between the wetland boundary and upland
+activities for those portions of regulated activities that need not be conducted in the wetland;
+(5) Will provide offsetting replacement wetlands for any loss of existing wetland areas. This
+Mitigation Plan shall meet the standards of subsection (D).
+(6C
+) A finding of no practicable alternative is to be made only after demonstration by the
+applicant that:
+(a1) The basic purpose of the project cannot reasonably be accomplished using one or more
+other practicable alternative sites in Multnomah County that would avoid or result in less
+adverse impact on a wetland. An alternative site is to be considered practicable if it is
+available for purchase and the proposed development, activity or use can be conducted on
+that site after taking into consideration costs, existing technology, infrastructure, and
+logistics in achieving the overall project purposes;
+(i) Documentation must be provided of the alternative site considered and why they are
+not suitable to be used for the proposed development, activity or use.
+(b2) The basic purpose of the project cannot be accomplished by a reduction in the size,
+scope, configuration, or density of the project as proposed, or by changing the design of the
+project in a way that would avoid or result in fewer adverse effects on the wetland; and
+(c3) In cases where the applicant has rejected alternatives to the project as proposed due to
+constraints, the applicant must demonstrate that they have made a reasonable attempt to
+redesign the project to meet (b) above. has been made to remove or accommodate such
+constraints.
+(4) This section is only applicable for wetland resources designated "3-C".
+(D) A Mitigation Plan and monitoring program may be approved upon submission of the following:
+(1) A site plan and written documentation which contains the applicable information for the
+replacement wetland as required by MCC 39.5580 (C)5700 (A);
+(2) A description of the applicant’s coordination efforts to date with the requirements of other
+local, State, and Federal agencies;
+
+Page | 34
+
+(3) A Mitigation Plan which demonstrates retention of the resource values addressed in MCC
+39.5580 (C)5700 (B) (2);
+(4) Documentation that replacement wetlands were considered and rejected according to the
+following order of locational preferences:
+(a) On the site of the impacted wetland, with the same kind of resource;
+(b) Off-site, with the same kind of resource;
+(c) On-site, with a different kind of resource;
+(d) Off-site, with a different kind of resource.
+
+5.H.8 – SIGNIFICANT STREAMS (SEC-s)
+
+§ 39.5750 CRITERIA FOR APPROVAL OF SEC-S PERMIT – STREAMS.
+
+(A) For purposes of this Section, the following terms and their derivations shall have the meanings
+provided below:
+
+(1) Nuisance and invasive non-native plants – Those plants listed in the latest edition of the Metro
+Nuisance Plant List and the Prohibited Plant List, and include those plants listed in the latest edition
+of the State of Oregon Noxious Weed List.
+
+(2) Protected Streams -- Those streams which have been evaluated through a Goal 5 ESEE analysis
+and protected by Ordinance and those streams and wetlands mapped by Metro’s Title 13 as Habitat
+Conservation Areas as modified through the planning process are designated SEC-s on the
+Multnomah County Zoning Maps.
+
+(3)
+Stream Conservation Area – For the protected streams originally designated by Ordinance, the
+Stream Conservation Area designated on the zoning maps as SEC-s is an area extending upslope from
+and perpendicular to the centerline on both sides of a protected stream. The width of the Stream
+Conservation Area varies and shall be as depicted on the Multnomah County Zoning Maps and is
+from the centerline on both sides of the protected stream for the width of the mapped overlay. Any
+development proposed within a Stream Conservation Area shall be required to demonstrate that the
+development satisfies the standards of MCC 39.5750 (B) through (E).
+
+(A) Except for the exempt uses listed in MCC 39.5515 and the existing uses in MCC 39.5550, no
+development shall be allowed within a Stream Conservation Area unless approved by the Approval
+Authority pursuant to the provisions of MCC 39.5750 through 39.5755, (C) through (F) and MCC
+39.5800 through 39.5805.
+
+(C) In addition to other SEC Permit submittal requirements, any application to develop in a Stream
+Conservation Area shall also include:
+
+(1) A site plan drawn to scale showing the Stream Conservation Area boundary, the location of all
+existing and proposed structures, roads, watercourses, drainageways, stormwater facilities, utility
+installations, and topography of the site at a contour interval equivalent to the best available U.S.
+Geological Survey 7.5’ or 15’ topographic information;
+
+(2) A detailed description and map of the Stream Conservation Area including that portion to be
+affected by the proposed activity. This documentation must also include a map of the entire Stream
+
+Page | 35
+
+Conservation Area, an assessment of the Stream Conservation Area’s functional characteristics and
+water sources, and a description of the vegetation types and fish and wildlife habitat;
+
+(3) A description and map of soil types in the proposed development area and the locations and
+specifications for all proposed draining, filling, grading, dredging, and vegetation removal, including
+the amounts and methods;
+
+(4) A study of any flood hazard, erosion hazard, and/or other natural hazards in the proposed
+development area and any proposed protective measures to reduce such hazards as required by
+subsection (E) (5) below;
+
+(5) A detailed Mitigation Plan as described in subsection (D), if required; and
+
+(6) A description of how the proposal meets the approval criteria listed in subsection (D) below.
+
+(D) For the protected stream resources, the applicant shall demonstrate that the proposal:
+
+(1) Will enhance the fish and wildlife resources, shoreline anchoring, flood storage, water quality and
+visual amenities characteristic of the stream in its pre-development state, as documented in a
+Mitigation Plan. A Mitigation Plan and monitoring program may be approved upon submission of the
+following:
+
+(a) A site plan and written documentation which contains the applicable information for the
+Stream Conservation Area as required by subsection (C) above;
+
+(b) A description of the applicant’s coordination efforts to date with the requirements of other
+local, State, and Federal agencies;
+
+(c) A Mitigation Plan which demonstrates retention and enhancement of the resource values
+addressed in subsection (D) (1) above;
+
+(d) An annual monitoring plan for a period of five years which ensures an 80 percent annual
+survival rate of any required plantings.
+
+(E) Design Specifications: The following design specifications shall be incorporated, as appropriate, into
+any developments within a Stream Conservation Area:
+
+(1) A bridge or arched culvert which does not disturb the bed or banks of the stream and are of the
+minimum width necessary to allow passage of peak winter flows shall be utilized for any crossing of
+a protected streams.
+
+(2) All storm water generated by a development shall be collected and disposed of on-site into dry
+wells or by other best management practice methods which emphasize groundwater recharge and
+reduce peak stream flows.
+
+(3) Any exterior lighting associated with a proposed development shall be placed, shaded or screened
+to avoid shining directly into a Stream Conservation Area.
+
+(4) Any trees over 6" in caliper that are removed as a result of any development shall be replaced by
+any combination of native species whose combined caliper is equivalent to that of the trees removed.
+
+(5) Satisfaction of the erosion control standards of MCC 39.5090.
+
+Page | 36
+
+(6) Soil disturbing activities within a Stream Conservation Area shall be limited to the period between
+June 15 and September 15. Revegetation/soil stabilization must be accomplished no later than
+October 15. Best Management Practices related to erosion control shall be required within a Stream
+Conservation Area.
+
+(7) Demonstration of compliance with all applicable state and federal permit requirements.
+
+(F) For those Stream Conservation Areas located within Metro’s jurisdictional boundaries, the following
+requirements apply in addition to subsections (C) through (E) above:
+
+(1) The planting of any invasive nonnative or noxious vegetation as listed in subsection (A)(4) above
+is prohibited. In addition, the species listed in MCC 39.5580 Table 1 shall not be planted.
+
+(2) The revegetation of disturbed areas shall primarily use native plants. A list of native plants can be
+found in the latest edition of the Metro Native Plant List.
+
+(3) Outside storage of hazardous materials as determined by DEQ is prohibited, unless such storage
+began before the effective date of the applicable SEC ordinance; or, unless such storage is contained
+and approved during development review.
+
+(G) For Protected Aggregate and Mineral (PAM) resources within a PAM Overlay, the Mitigation Plan
+must comply only with measures identified in the Goal 5 protection program that has been designated for
+the site.
+
+5.H.9 – WATER RESOURCES (SEC-wr)
+
+§ 39.5590  SEC-wr PERMIT CRITERIA (SIGNIFICANT WATER RESOURCES)
+
+(A) Decision Review Process
+
+(1) Applications that meet all of the following criteria shall be processed through the Type I
+review procedure:
+
+(a) The proposed development is located at least 100 feet from the top of bank of the
+Protected Water Feature; and
+
+(b) The application includes a mitigation plan meeting the requirements of MCC 39.5590
+(D) that enhances the entire 25 feet in depth closest to the Protected Water Feature
+for the length of the property, to “Good Corridor” condition as defined in MCC
+39.5590 (D).
+
+(2) Applications that do not meet all of the criteria in MCC 39.5590 (A)(1) shall be processed
+through the Type II review procedure. The applicant shall meet all of the criteria in MCC 39.5590
+(B) through (E) below.
+
+(B) Application Submittal Requirements. An All applications for an SEC-wr or SEC-s permit shall
+include the following:
+
+(1) A written description of the proposed development and how it complies with the applicable
+approval criteria of subsection (C) through (E) below.
+
+(2) A site plan of the property showing:
+
+Page | 37
+
+(a) Property lines;
+
+(b) Location and size of all existing and proposed buildings and structures;
+
+(c) Contour lines and topographic features such as ravines or ridges. In addition, detailed
+topographic information of the development area, adjacent areas of the site, and a
+topographic delineation of the SEC-wr or SEC-s riparian area affected by the project.
+Contour information shall be determined by a field survey by an Oregon licensed
+surveyor. (Contour intervals shall be no greater than 5 feet);
+
+(d) Boundaries of ground disturbing activities, including proposed fill, excavating, site
+contouring or other landform changes;
+
+(e) Location and predominant species of existing vegetation on the parcel (wooded
+areas), areas where vegetation will be removed, and location and species of vegetation to
+be planted, including landscaped areas;
+
+(f) Location and width of existing and proposed roads, driveways, and service corridors.
+
+(g) Location of natural drainageways, springs, seeps, water bodies and wetlands on the
+site.
+
+(h) Location of all existing trees of a caliper greater than six (6) inches in diameter at
+breast height (DBH);
+
+(i) Location of wells, utility lines, stormwater drainage control systems, sanitary tanks
+and drainfields (primary and reserve);
+
+(j) A scaled drawing of the building design and elevations that show the relationship
+between the building and existing and finished grades and existing or proposed
+vegetation.
+
+(3) A description and map of soil types in the proposed development area and the locations and
+specifications for all proposed draining, filling, dredging, and vegetation removal, including the
+amounts and methods.
+
+(4) Preparation of a report which includes plans and surveys by a qualified wetland or riparian
+consultant, fish and wildlife biologist, or other qualified professional at the discretion of the
+Planning Director. Approval of a other qualified professional must be granted before the report is
+completed. Wetlands shall be identified and delineated by a qualified wetland specialist. The
+consultant shall prepare a report which includes:
+
+(a) An assessment of the existing condition of the Riparian Area in accordance with MCC
+39.5590 (D);
+
+(b) An inventory of vegetation, including percentage ground and canopy coverage, and
+location of nuisance and invasive non-native plants as defined in MCC 39.5520;
+
+(c) A detailed Mitigation Plan as described in MCC 39.5590 (D);
+
+(5) The applicant shall provide evidence that when federal or state requirements apply, that the
+agency has been contacted, and shall provide an assessment of whether the project can meet the
+requirements based on the agency response;
+
+Page | 38
+
+(6) The Planning Director may also require the applicant to provide additional information,
+beyond that listed in this section such as a report prepared by an appropriate subject matter
+expert, where needed to address relevant approval criteria.
+
+(C) SEC-wr Permit Approval Criteria
+
+(1) Except for the exempt uses listed in MCC 39.5590 and the existing uses pursuant to MCC
+39.55255550, no development shall be allowed within a Riparian Area unless the provisions of
+subsections (2) or (3) & or (4) below are satisfied. An application shall not be approved unless it
+contains the site analysis information required in (B) (A) above.
+
+(2) Low Impact Sites - Development on parcels in locations that would have low impacts on Riparian
+Areas may be exempt from the Alternatives Analysis in subsection (3) below. Development on sites
+that meet the following criterion may be allowed pursuant to the other applicable requirements of this
+Overlay including the Development Standards of subsection (4) and the provisions for Mitigation in
+subsection (D):
+
+(a) The entirety of the development site is at least one hundred (100) feet from top of bank or top
+of ravine, which ever results in a greater distance from the Protected Water Feature. Top of ravine
+is the break in the > 25% slope. Slope should be measured in 25- foot increments away from the
+water feature until the slope is less than 25% (top of ravine), up to a maximum distance of 200'
+from the water feature. Where multiple resources are present (e.g., stream with wetlands along
+banks), the starting point for measurement should be whichever offers greatest resource
+protection.
+
+(3) Alternatives Analysis Sites- Development proposed within a Riparian Area may be allowed if
+there is no alternative, when the other requirements of the Overlay including the Development
+Standards of subsection (4) and the provisions for Mitigation in subsection (D) are met. The applicant
+shall prepare an alternatives analysis which demonstrates that:
+
+(a) No practicable alternatives to the requested development location exists on the property
+further than 100 feet from the protected water feature; and
+
+(b) Development within the Alternative Analysis Site in the Riparian Area has been limited to the
+minimum area necessary to allow for the proposed use;
+
+(c) Development shall occur as far as practically possible from the protected water feature; and
+
+(d) The Riparian Area can be restored to an equal or better condition; or
+
+(e) Any net loss on the property of Riparian Area is mitigated.
+
+(4) Development Standards: Development within the Riparian Area shall comply with the following
+standards:
+
+(a) Development of trails, rest points, viewpoints, and other facilities in public and private parks
+for the enjoyment of the resource must be done in such a manner so as to minimize impacts on
+the natural resource while allowing for the enjoyment of the natural resource.
+
+(b) Development in areas of dense standing trees shall be designed to minimize the numbers of
+trees to be cut. No more than 50 percent of mature standing trees (of 6-inch DBH or greater) shall
+be removed without a one-for-one replacement with comparable species. Replacement trees shall
+
+Page | 39
+
+be placed within the riparian corridor or adjacent to it to provide shade and water retention. Size
+of the replacement trees shall be 5 gallon or greater. The site plan for the proposed activity shall
+identify all mature standing trees by type, size, and location, which are proposed for removal, and
+the location and type of replacement trees.
+
+(c) Areas of standing trees, shrubs, and natural vegetation shall remain connected or contiguous,
+particularly along natural drainage courses, so as to provide a transition between the proposed
+development and the natural resource, to provide food, water, and cover for wildlife, and to
+protect the visual amenity values of the natural resource.
+
+(d) The Riparian Area shall be restored to " ‘Ggood Corridor’ condition" as defined in MCC
+39.5590 (D)(1), and maintained in accordance with the mitigation plan pursuant to subsection
+MCC 39.5590 (D) below and the specifications in Table 2 of this section.
+
+(e) To the extent practicable, existing vegetation shall be protected and left in place.
+Work areas
+shall be carefully located and marked to reduce potential damage to the Riparian Area. Trees in
+the Riparian Area shall not be used as anchors for stabilizing construction equipment.
+
+(f) Prior to construction of the development, the boundaries of the Riparian Area shall be flagged,
+fenced or otherwise marked and shall remain undisturbed except as otherwise allowed by the
+permit. Such markings shall be maintained until construction is complete.
+
+(g) Stormwater drainage control facilities:
+
+(i) Stormwater management shall be conducted in a manner that does not increase the flow of
+stormwater to the stream above pre-development levels.
+
+(ii) The stormwater drainage control facility may only encroach a maximum of 25 feet into
+the outside boundary of the Riparian Area; and
+
+(iii) The area of encroachment must be replaced by adding an area equal in size and with
+similar functions and values to the Riparian Area on the subject property.
+
+(h) The nuisance and invasive non-native plants, as defined in MCC 39.5520,
+in addition to the
+nuisance plants defined in, shall not be used as landscape plantings within the Riparian Area
+SEC-wr and SEC- Overlays.
+
+(i) Areas of erosion or potential erosion shall be protected from loss by appropriate means.
+Appropriate means shall be based on current Best Management Practices.
+
+(i) Soil disturbing activities within a Riparian Area shall be limited to the period between
+June 15 and September 15. Revegetation/soil stabilization must be accomplished no later than
+October 15.
+
+(j) Outdoor lighting shall be of a fixture type and shall be placed in a location so that it does not
+shine directly into undeveloped Riparian Areas. Where illumination of a Riparian Area is
+unavoidable, it shall be minimized through use of a hooded fixture type and location. The
+location and illumination area of lighting needed for security of public utility facilities shall not
+be limited by this provision, but should be done in a minimalistic manner.
+
+(k) A bridge or open-bottom culvert, which does not disturb the bed or banks of the stream and is
+in compliance with the County’s Flood Hazard regulations shall be utilized for any crossing of a
+protected streams.
+
+Page | 40
+
+(D) Mitigation: Mitigation shall be required to offset the impacts of development within the Riparian
+Area. This subsection section establishes how mitigation can occur.
+
+(1) Vegetated Corridor Condition: For the purposes of the SEC-wr Overlay, vegetated corridor
+conditions are defined below.
+
+(a) Good Corridor: A combination of native trees, shrubs, and groundcover covering greater
+than 80% of the area, and greater than 50% tree canopy exists (aerial measure).
+(b) Marginal Corridor: A combination of native trees, shrubs, and groundcovers covering 50-
+80% of the area and/or 26-50% tree canopy exists (aerial measure).
+(c) Degraded Corridor: A combination of native trees, shrubs, and groundcovers covering is less
+than 50% of the area, and/or less than 25% tree canopy exists (aerial measure), and/or greater
+than 10% of the area is covered by invasive, non-native species.
+ (2) Mitigation Sequence: Mitigation includes avoiding, minimizing or compensating for adverse
+impacts to regulated natural resource areas.
+
+(a) When a proposed development could cause adverse impacts to a natural resource area, the
+preferred sequence of mitigation as defined in 1 through 5 below shall be followed unless the
+applicant demonstrates that an overriding public benefit would warrant an exception to this
+preferred sequence.
+
+(i) Avoiding the impact altogether by not taking a certain action or parts of actions on that
+portion of the site which contains the regulated natural resource area;
+
+(ii) Minimizing impacts by limiting the degree or magnitude of the action and its
+implementation;
+
+(iii) Compensating for the impact by repairing, rehabilitating, or restoring the affected
+environment;
+
+(iv) Compensating for the impact by replacing, enhancing or providing substitute
+resources or environments on-site.
+
+(v) Compensating for the impact by replacing, enhancing or providing substitute
+resources or environments off-site.
+
+(b) When evaluating potential impacts to the natural resource, the County may consider whether
+there is an overriding public benefit for the public project, given:
+
+(i) The extent of the public need for the proposed development;
+
+(ii) The functional values of the Riparian Area that may be affected by the proposed
+development;
+
+(iii) The extent and permanence of the adverse effects of the development on the Riparian
+Area, either directly or indirectly;
+
+(iv) The cumulative adverse effects of past activities on the Riparian Area or Stream
+Conservation Area, either directly or indirectly; and
+
+Page | 41
+
+(v) The uniqueness or scarcity of the Riparian Area that may be affected.
+
+(3) Compensatory Mitigation: General Requirements. As a condition of any permit or other approval
+allowing development which results in the loss or degradation of, compensatory mitigation shall be
+required to offset the encroachment of the development into the area. The mitigation shall meet the
+following:
+
+(a) Any person who alters or proposes to alter a Riparian Area shall restore or create a vegetated
+corridor equivalent to or larger than the altered corridor in order to compensate for resource
+losses.
+
+(b) The following ratios apply to the creation or restoration of the vegetated corridor. The first
+number specifies the amount of vegetated corridor to be created and the second specifies the
+amount of Riparian Area to be altered or lost.
+
+Creation (off-site) 2:1
+
+Restoration (off-site) 1.5:1
+
+Creation (on-site) 1.5:1
+
+Restoration (on-site) 1:1
+
+(c) Only Marginal or Degraded Corridor(s) as defined in MCC 39.5590 (D)(1) may be the subject
+of a restoration project proposed as part of a Mitigation Plan.
+
+(d) Highest priority sites for mitigation are Marginal or Degraded Corridor(s) that are closest to a
+natural drainage on the property, and areas which will increase contiguous areas of standing trees,
+shrubs, and natural vegetation along drainages.
+
+(e) The off-site mitigation shall be as close to the development as is practicable above the
+confluence of the next downstream tributary, or if this is not practicable, within the watershed
+where the development will take place or as otherwise specified by the County and shall comply
+with (c) and (d) above.
+
+(f) In order to ensure that on-site mitigation areas are established and maintained, the property
+owner shall record the mitigation plan approval in the deed records of Multnomah County. In
+order to ensure that offsite mitigation areas will be protected in perpetuity, the owner shall cause
+a deed restriction to be placed on the property where the mitigation is required. The deed
+restriction shall be irrevocable unless a statement of release is signed by an authorized
+representative of Multnomah County.
+
+(4) Mitigation Plan Standards: Natural resource mitigation plans shall contain the following
+information:
+
+(a) A description of adverse impacts that could be caused as a result of development.
+
+(b) An explanation of how adverse impacts to resource areas will be avoided, minimized, and/or
+mitigated.
+
+(c) A list of all responsible parties including, but not limited to, the owner, applicant, contractor
+or other persons responsible for work on the development site.
+
+Page | 42
+
+(d) A map drawn to scale, showing where the specific mitigation activities will occur.
+
+(e) An implementation schedule, including timeline for construction, mitigation, mitigation
+maintenance, monitoring, reporting and a contingency plan. All in-stream work in fish-bearing
+streams must be done in accordance with the Oregon Department of Fish and Wildlife in-stream
+timing schedule.
+
+(f) Mitigation work shall be completed prior to initiation of development where possible.
+
+(i) Where existing vegetation has been removed, or the original land contours disturbed,
+the site shall be revegetated, and the vegetation shall be established in the next planting
+season.
+
+(ii) Nuisance and invasive non-native plants, as defined in MCC 39.5520, or other debris
+and noxious materials shall be removed and be kept removed from the Riparian Area by
+the property owner.
+
+1. Removal shall be by hand or mechanically with small equipment, as
+appropriate to minimize damage to existing native vegetation.
+
+2. Interim erosion control measures such as mulching shall be used to avoid
+erosion on bare areas.
+
+3. Nuisance and invasive non-native plants, as defined in MCC 39.5520, shall be
+replaced by the next growing season with native plants that are appropriate to the
+site conditions to restore the vegetated corridor.
+
+ (E) Required Conditions of Approval for all SEC-wr and SEC-s Permits
+
+(1) Provide certification by a professional wetland or riparian consultant, fish and wildlife biologist,
+landscape architect, or other qualified professional as determined by the Planning Director, that the
+riparian/vegetated corridor was restored according to the mitigation plan and that the vegetated
+corridor will qualify as ‘Good Corridor’ within 5 years.
+(2) The plantings shall be monitored for five years to ensure that the vegetation naturalizes. Failure of
+vegetation to be maintained in a healthy growing state shall require continued monitoring by a
+professional.
+
+(a) A yearly report shall be provided to Multnomah County La nd Use Planning outlining the
+condition of the plantings and if any modifications to the mitigation plan are necessary. Any
+proposed modifications to the mitigation plan require written approval by Multnomah County
+Land Use Planning.
+
+(3) Work areas shall be carefully located and marked to reduce potential damage to the Riparian Area.
+
+(4) Trees in the Riparian Area shall not be used as anchors for stabilizing construction equipment.
+
+§ 39.5800 CRITERIA FOR APPROVAL OF SEC-WR PERMIT – WATER RESOURCE.
+
+(A) Except for the exempt uses listed in MCC 39.5515 and the existing uses pursuant to MCC 39.5550,
+no development shall be allowed within a Water Resource Area unless the provisions of subsections (B)
+
+Page | 43
+
+or (C) or (D) below are satisfied. An application shall not be approved unless it contains the site analysis
+information required in MCC 39.5520(A) and (B), and meets the general requirements in MCC 39.5560.
+
+(B) Development on Low Impact Sites - Development on parcels in locations that would have low
+impacts on Water Resource Areas may be exempt from the Alternatives Analysis in subsection (C) below.
+Development on sites that meet the following criterion may be allowed pursuant to the other applicable
+requirements of this Overlay including the Development Standards of subsection (E) and the provisions
+for Mitigation in subsection (F):
+
+(1) The development site is at least one hundred (100) feet from top of bank or top of ravine, which
+ever results in a greater distance from the Protected Water Feature. Top of ravine is the break in the >
+25% slope. Slope should be measured in 25- foot increments away from the water feature until the
+slope is less than 25% (top of ravine), up to a maximum distance of 200' from the water feature.
+Where multiple resources are present (e.g., stream with wetlands along banks), the starting point for
+measurement should be whichever offers greatest resource protection.
+
+(C) Alternatives Analysis - Development proposed within a Water Resource Area may be allowed if there
+is no alternative, when the other requirements of this Overlay including the Development Standards of
+subsection (E) and the provisions for Mitigation in subsection (F) are met. The applicant shall prepare an
+alternatives analysis which demonstrates that:
+
+(1) No practicable alternatives to the requested development exist that will not disturb the Water
+Resource Area; and
+
+(2) Development in the Water Resource Area has been limited to the area necessary to allow for the
+proposed use;
+
+(3) Development shall occur as far as practically possible from the stream; and
+
+(4) The Water Resource Area can be restored to an equal or better condition; or
+
+(5) Any net loss on the property of resource area, function and/or value can be mitigated.
+
+(D) Buffer Averaging - Development may be allowed to encroach into the 200' SEC-wr overlay zone or
+"buffer" when the provisions of (1) through (6) below are satisfied. These provisions are intended to
+allow development to extend a specific amount into the edges of the overlay zone without an alternatives
+analysis in exchange for increasing the area of vegetated corridor on the property that is in good
+condition.
+
+(1) Site assessment information pursuant to MCC 39.5520(A) and (B) has been submitted.
+
+(2) The riparian/vegetated corridor is certified to be in a marginal or degraded condition pursuant to
+Table 2 of this section. Buffer averaging is not allowed to encroach in areas certified to be in good
+condition.
+
+(3) The maximum encroachment does not exceed 20% of the frontage length of the vegetated corridor
+by 20% of the required width.
+
+(4) The entire remaining vegetated corridor on the project site or the first 50 feet closest to the stream
+(whichever is less) will be enhanced to "good" condition pursuant to Table 2 of this section.
+
+(5) The area of encroachment will be replaced with added buffer area at a 1:1 ratio.
+
+Page | 44
+
+(6) The replacement area will be incorporated into the remaining vegetated corridor on the project site
+and meet the "good" condition pursuant to Table 2 of this section, regardless of its distance from the
+resource area.
+
+(E) Development Standards- Development within the Water Resource Area shall comply with the
+following standards:
+
+(1) Development of trails, rest points, viewpoints, and other facilities for the enjoyment of the
+resource must be done in such a manner so as to minimize impacts on the natural resource while
+allowing for the enjoyment of the natural resource.
+
+(2) Development in areas of dense standing trees shall be designed to minimize the numbers of trees
+to be cut. No more than 50 percent of mature standing trees (of 6-inch DBH greater) shall be removed
+without a one-for-one replacement with comparable species. The site plan for the proposed activity
+shall identify all mature standing trees by type, size, and location, which are proposed for removal,
+and the location and type of replacement trees.
+
+(3) Areas of standing trees, shrubs, and natural vegetation will remain connected or contiguous,
+particularly along natural drainage courses, so as to provide a transition between the proposed
+development and the natural resource, to provide food, water, and cover for wildlife, and to protect
+the visual amenity values of the natural resource.
+
+(4) The Water Resource Area shall be restored to "good condition" and maintained in accordance
+with the mitigation plan pursuant to subsection (F) below and the specifications in Table 2 of this
+section.
+
+(5) To the extent practicable, existing vegetation shall be protected and left in place. Work areas shall
+be carefully located and marked to reduce potential damage to the Water Resource Area. Trees in the
+Water Resource Area shall not be used as anchors for stabilizing construction equipment.
+
+(6) Where existing vegetation has been removed, or the original land contours disturbed, the site shall
+be revegetated, and the vegetation shall be established as soon as practicable. Nuisance plants, as
+identified in MCC 39.5580 Table 1, may be removed at any time. Interim erosion control measures
+such as mulching shall be used to avoid erosion on bare areas. Nuisance plants shall be replaced with
+non-nuisance plants by the next growing season.
+
+Figure 3.
+
+Page | 45
+
+(7) Prior to construction, the Water Resource Area shall be flagged, fenced or otherwise marked and
+shall remain undisturbed except as otherwise allowed by this Overlay. Such markings shall be
+maintained until construction is complete.
+
+(8) Stormwater quantity control and quality control facilities:
+
+(a) Stormwater management shall be conducted in a manner that does not increase the flow of
+stormwater to the stream above pre-development levels.
+
+(b) The stormwater quantity control and quality control facility may only encroach a maximum of
+25 feet into the outside boundary of the Water Resource Area of a primary water feature; and
+
+(c) The area of encroachment must be replaced by adding an area equal in size and with similar
+functions and values to the Water Resource Area on the subject property.
+
+(9) The nuisance plants in MCC 39.5580, in addition to the nuisance plants defined in MCC 39.2000,
+shall not be used as landscape plantings within the SEC-wr and SEC Overlays.
+
+(F) Mitigation - Mitigation shall be required to offset the impacts of development within the SEC-wr.
+This subsection section establishes how mitigation can occur.
+
+(1) Mitigation Sequence. Mitigation includes avoiding, minimizing or compensating for adverse
+impacts to regulated natural resource areas.
+
+(a) When a proposed development could cause adverse impacts to a natural resource area, the
+preferred sequence of mitigation as defined in 1 through 5 below shall be followed unless the
+applicant demonstrates that an overriding public benefit would warrant an exception to this
+preferred sequence.
+
+1. Avoiding the impact altogether by not taking a certain action or parts of actions on that
+portion of the site which contains the regulated natural resource area;
+
+2. Minimizing impacts by limiting the degree or magnitude of the action and its
+implementation;
+
+3. Compensating for the impact by repairing, rehabilitating, or restoring the affected
+environment;
+
+4. Compensating for the impact by replacing, enhancing or providing substitute resources
+or environments on-site.
+
+5. Compensating for the impact by replacing, enhancing or providing substitute resources
+or environments off-site.
+
+(b) When evaluating potential impacts to the natural resource, the County may consider whether
+there is an overriding public benefit, given:
+
+1. The extent of the public need for the proposed development;
+
+2. The functional values of the Water Resource Area that may be affected by the
+proposed development;
+
+Page | 46
+
+3. The extent and permanence of the adverse effects of the development on the Water
+Resource Area, either directly or indirectly;
+
+4. The cumulative adverse effects of past activities on the Water Resource Area, either
+directly or indirectly; and
+
+5. The uniqueness or scarcity of the Water Resource Area that may be affected.
+
+(2) Compensatory Mitigation: General Requirements. As a condition of any permit or other approval
+allowing development which results in the loss or degradation of regulated natural resource areas, or
+as an enforcement action, compensatory mitigation shall be required to offset impacts resulting from
+the actions of the applicant or violator.
+
+(a) Any person who alters or proposes to alter regulated natural resource areas shall restore or
+create natural resource areas equivalent to or larger than those altered in order to compensate for
+resource losses.
+
+(b) The following ratios apply to the creation or restoration of natural resource areas. The first
+number specifies the amount of natural resource area to be created and the second specifies the
+amount of natural resource area to be altered or lost.
+
+Creation (off-site) 2:1
+
+Restoration (off-site) 1.5:1
+
+Creation (on-site) 1.5:1
+
+Restoration (on-site) 1:1
+
+(c) Only marginal or degraded water resource areas as described in Table 2 of this section may be
+the subject of a restoration project proposed as part of a Mitigation Plan.
+
+(d) Highest priority sites for mitigation are marginal or degraded corridors that are closest to a
+natural drainage, and areas which will increase contiguous areas of standing trees, shrubs, and
+natural vegetation along drainages.
+
+(e) The off-site mitigation shall be as close to the development as is practicable above the
+confluence of the next downstream tributary, or if this is not practicable, within the watershed
+where the development will take place or as otherwise specified by the County.
+
+(f) Compensation shall be completed prior to initiation of development where possible.
+
+(g) In order to ensure that on-site mitigation areas are established and maintained, the property
+owner shall record the mitigation plan approval in the deed records of Multnomah County. In
+order to ensure that offsite mitigation areas will be protected in perpetuity, the owner shall cause
+a deed restriction to be placed on the property where the mitigation is required. The deed
+restriction shall be irrevocable unless a statement of release is signed by an authorized
+representative of Multnomah County.
+
+(3) Mitigation Plan Standards - Natural resource mitigation plans shall contain the following
+information:
+
+(a) A description of adverse impacts that could be caused as a result of development.
+
+Page | 47
+
+(b) An explanation of how adverse impacts to resource areas will be avoided, minimized, and/or
+mitigated.
+
+(c) A list of all responsible parties including, but not limited to, the owner, applicant, contractor
+or other persons responsible for work on the development site.
+
+(d) A map drawn to scale, showing where the specific mitigation activities will occur.
+
+(e) An implementation schedule, including timeline for construction, mitigation, mitigation
+maintenance, monitoring, reporting and a contingency plan. All in-stream work in fish-bearing
+streams must be done in accordance with the Oregon Department of Fish and Wildlife in-stream
+timing schedule.
+
+Table 2
+Riparian/Vegetated Corridor Standards
+Existing Riparian/Vegetated Corridor
+Condition
+Requirements of Riparian/Vegetated Corridor
+Protection, Enhancement, and/or Mitigation
+Good Corridor
+Combination of native trees, shrubs, and
+groundcover covering greater than 80% of the
+area
+and
+Greater than 50% tree canopy exists (aerial
+measure)
+Provide certification, pursuant to the procedures
+provided by the Planning Director, by a
+professional ecologist/biologist that the riparian/
+vegetated corridor meets condition criteria.
+Remove any invasive non-native or nuisance
+species and debris and noxious materials within the
+corridor by hand.
+Provide the County with a native plant revegetation
+plan appropriate to the site conditions developed by
+an ecologist/biologist or landscape architect to
+restore condition and mitigate any habitat or water
+quality impacts related to development.  See
+Planning Director procedures.
+Revegetate impacted area per approved plan to re-
+establish “good” corridor conditions
+
+Page | 48
+
+Existing Riparian/Vegetated Corridor
+Condition
+Requirements of Riparian/Vegetated Corridor
+Protection, Enhancement, and/or Mitigation
+Marginal Corridor
+Combination of native trees, shrubs, and
+groundcovers covering 50%-80% of the area
+and/or
+26-50% tree canopy exists (aerial measure)
+(Restoration up to “good” corridor required)
+Provide certification, pursuant to the procedures
+provided by the Planning Director, by a
+professional ecologist/biologist that the
+riparian/vegetated corridor meets condition criteria.
+Remove any invasive non-native or nuisance
+species and debris and noxious materials within the
+corridor by hand or mechanically with small
+equipment, as appropriate to minimize damage to
+existing native vegetation.
+Provide County with a native plant revegetation
+plan appropriate to the site conditions developed by
+an ecologist/biologist or landscape architect to
+restore to a good corridor condition.  See Planning
+Director procedures.
+Vegetate corridor to establish “good” corridor
+conditions
+Degraded Corridor
+Combination of native trees, shrubs, and
+groundcovers covering is less than 50% of the
+area
+and/or
+Less than 25% tree canopy exists (aerial
+measure)
+and/or
+Greater than 10% of the area is covered by
+invasive, non-native species
+(Restoration up to “good” corridor required)
+Provide certification, pursuant to the procedures
+provided by the Planning Director, by a
+professional ecologist/biologist that the
+riparian/vegetated corridor meets condition criteria.
+Remove any invasive non-native or nuisance
+species and debris and noxious materials within the
+corridor by hand or mechanically as appropriate.
+Provide County with a native plant revegetation
+plan appropriate to the site conditions developed by
+an ecologist/biologist or landscape architect to
+restore to a good corridor condition.  See Planning
+Director procedures.
+Vegetate corridor to establish “good” corridor
+conditions
+
+5.H.10 – WILDLIFE HABITAT (SEC-h)
+
+§ 39.5850  SEC-H CLEAR AND OBJECTIVE STANDARDS
+
+(A) At the time of submittal, the applicant shall provide the application materials listed in MCC 39.5520(A) and
+39.5860(A). The application shall be reviewed through the Type I procedure and may not be authorized unless the
+standards MCC 39.5860(B)(1) through (4)(a)- (c) and (B)(5) through (7) are met. For development that fails to
+meet all of the criteria listed above, a separate land use application pursuant to MCC 39.5860 may be submitted.
+
+(B)
+
+(C) The nuisance plants listed in MCC 39.5580 Table 1 shall not be used as landscape plantings within the SEC-h
+Overlay Zone.
+
+(D) For development that fails to meet all of the standards listed in this section, a separate land use application
+pursuant to MCC 39.5860 may be submitted.
+
+§ 39.5860 CRITERIA FOR APPROVAL OF SEC-H PERMIT -WILDLIFE HABITAT.
+
+(A) In addition to the information required by MCC 39.5520 (A), an application for development in an area
+designated SEC-h shall include an area map showing all properties which are adjacent to or entirely or partially
+within 200 feet of the proposed development, with the following information, when such information can be
+gathered without trespass:
+
+(1) Location of all existing forested areas (including areas cleared pursuant to an approved forest
+management plan) and non-forested "cleared" areas; For the purposes of this section, a forested area is
+defined as an area that has at least 75 percent crown closure, or 80 square feet of basal area per acre, of
+trees 11 inches DBH and larger, or an area which is being reforested pursuant to Forest Practice Rules of
+the Department of Forestry. A non-forested "cleared" area is defined as an area which does not meet the
+description of a forested area and which is not being reforested pursuant to a forest management plan.
+
+(2) Location of existing and proposed structures;
+
+(3) Location and width of existing and proposed public roads, private access roads, driveways, and service
+corridors on the subject parcel and within 200 feet of the subject parcel's boundaries on all adjacent parcels;
+
+(4) Existing and proposed type and location of all fencing on the subject property and on adjacent
+properties and on properties entirely or partially within 200 feet of the subject property.
+
+(B) Development standards:
+
+(1) Where a parcel contains any nonforested "cleared" areas, development shall only occur in these areas,
+except as necessary to provide access and to meet minimum clearance standards for fire safety.
+
+(2) Development shall occur within 200 feet of a public road capable of providing reasonable practical
+access to the developable portion of the site.
+
+(3) The access road/driveway and service corridor serving the development shall not exceed 500 feet in
+length.
+
+(4) For the purpose of clustering access road/driveway approaches near one another, one of the following
+two standards shall be met:
+
+(a) The access road/driveway approach onto a public road shall be located within 100 feet of a side
+property line if adjacent property on the same side of the road has an existing access road or
+driveway approach within 200 feet of that side property line; or
+
+(b) The access road/driveway approach onto a public road shall be located within 50 feet of either
+side of an existing access road/driveway on the opposite side of the road.
+
+(c) Diagram showing the standards in (a) and (b) above.
+
+(Diagram)
+
+For illustrative purposes only.
+
+(d) The standards in this subsection (4) may be modified upon a determination by the County Road
+Official that the new access road/driveway approach would result in an unsafe traffic situation
+using the standards in the Multnomah County “Design and Construction Manual,” adopted June 20,
+2000, (or all updated versions of the manual). Standards to be used by the Road Official from the
+County manual include Table 2.3.2, Table 2.4.1, and additional referenced sight distance and
+minimum access spacing standards in the publication A Policy on Geometric Design of Highways
+and Streets by the American Association of State Highway and Transportation Officials
+(AASHTO) and the Traffic Engineering Handbook by the Institute of Transportation Engineers
+(ITE).
+
+1. The modification shall be the minimum necessary to allow safe access onto the public
+road.
+
+2. The County Road Official shall provide written findings supporting the modification.
+
+(5) The development shall be within 300 feet of a side property line if adjacent property has structures and
+developed areas within 200 feet of that common side property line.
+
+(6) Fencing within a required setback from a public road shall meet the following criteria:
+
+(a) Fences shall have a maximum height of 42 inches and a minimum 17 inch gap between the
+ground and the bottom of the fence.
+
+(b) Wood and wire fences are permitted. The bottom strand of a wire fence shall be barbless.
+Fences may be electrified, except as prohibited by County Code.
+
+(c) Cyclone, woven wire, and chain link fences are prohibited.
+
+(d) Fences with a ratio of solids to voids greater than 2:1 are prohibited.
+
+(e) Fencing standards do not apply in an area on the property bounded by a line along the public
+road serving the development, two lines each drawn perpendicular to the principal structure from a
+point 100 feet from the end of the structure on a line perpendicular to and meeting with the public
+road serving the development, and the front yard setback line parallel to the public road serving the
+development. (See Figure 4 below.)
+
+(Diagram: Figure 4. FENCE EXEMPTION AREA)
+
+(f) Fencing standards do not apply where needed for security of utility facilities.
+
+(7) The nuisance plants in MCC 39.5580 Table 1 shall not be planted on the subject property and shall be
+removed and kept removed from cleared areas of the subject property.
+
+(C) Wildlife Conservation Plan. An applicant shall propose a wildlife conservation mitigation plan if one of two
+situations exist.
+
+(1) The applicant cannot meet the development standards of subsection (B) because of physical
+characteristics unique to the property. The applicant must show that the wildlife conservation plan results in
+the minimum departure from the standards required in order to allow the use; or
+
+(2) The applicant can meet the development standards of subsection (B), but demonstrates that the
+alternative conservation measures exceed the standards of subsection (B) and will result in the proposed
+development having a less detrimental impact on forested wildlife habitat than the standards in subsection
+(B).
+
+(3) Unless the wildlife conservation plan demonstrates satisfaction of the criteria in subsection (C)(5), the
+wildlife conservation plan must demonstrate the following
+
+(a) That measures are included in order to reduce impacts to forested areas to the minimum
+necessary to serve the proposed development by restricting the amount of clearance and
+length/width of cleared areas and disturbing the least amount of forest canopy cover.
+
+(b) That any newly cleared area associated with the development is not greater than one acre,
+excluding from this total the area of the minimum necessary accessway required for fire safety
+purposes.
+
+(c) That no fencing will be built and existing fencing will be removed outside of areas cleared for
+the site development except for existing cleared areas used for agricultural purposes.
+
+(d) That revegetation of existing cleared areas on the property at a 2:1 ratio with newly cleared
+areas occurs if such cleared areas exist on the property.
+
+(e) That revegetation and enhancement of disturbed stream riparian areas occurs along drainages
+and streams located on the property.
+
+(4) For a property meeting subsection (C)(1) above, the applicant may utilize the following mitigation
+measures for additions instead of providing a separate wildlife conservation plan:
+
+(a) Each tree removed to construct the proposed development shall be replaced on a one to one
+ratio with a six foot tall native tree.
+
+(b) For each 100 square feet of new building area, the property owner shall plant, one, 3-4 foot tall
+native tree or three native tree seedlings. The trees shall be planted to improve wildlife habitat first
+within non-forested cleared areas contiguous to forested areas, second within any degraded stream
+riparian areas before being placed in forested areas or adjacent to landscaped yards.
+
+(c) Existing fencing located in the front yard adjacent to a public road shall be consistent with
+subsection (B)(6).
+
+(d) For non-forested “cleared” areas that require nuisance plant removal pursuant to subsection
+(B)(7), the property owner shall set a specific date for the work to be completed and the area
+replanted with native vegetation. The time frame must be within two years from the date of the
+permit.
+
+(5) Unless the wildlife conservation plan demonstrates satisfaction of the criteria in subsection (C)(3) of
+this section, the wildlife conservation plan must demonstrate the following:
+
+(a) That measures are included in order to reduce impacts to forested areas to the minimum
+necessary to serve the proposed development by restricting the amount of clearance and
+length/width of cleared areas and disturbing the least amount of forest canopy cover.
+
+(b) That any newly cleared area associated with the development is not greater than one acre,
+excluding from this total the area of the minimum necessary accessway required for fire safety
+purposes.
+
+(c) That no fencing will be built and existing fencing will be removed outside of areas cleared for
+the site development except for existing cleared areas used for agricultural purposes. Existing
+fencing located in the front yard adjacent to a public road shall be consistent with subsection
+(B)(6).
+
+(d) For mitigation areas, all trees, shrubs and ground cover shall be native plants selected from the
+Metro Native Plant List. An applicant shall meet Mitigation Option 1 or 2, whichever results in
+more tree plantings; except that where the total developed area (including buildings, pavement,
+roads, and land designated as a Development Impact Area) on a Lot of Record will be one acre or
+more, the applicant shall comply with Mitigation Option 2:
+1. Mitigation Option 1. In this option, the mitigation requirement is calculated based on the
+number and size of trees that are removed from the development site. Trees that are
+removed from the development site shall be replaced as shown in the table below. Conifers
+shall be replaced with conifers. Bare ground shall be planted or seeded with native grasses
+or herbs. Non-native sterile wheat grass may also be planted or seeded, in equal or lesser
+proportion to the native grasses or herbs. Tree Replacement Table: Size of tree to be
+removed (inches in diameter) Number of trees and shrubs to be planted 6 to 12 2 trees and
+3 shrubs 13 to 18 3 trees and 6 shrubs 19 to 24 5 trees and 12 shrubs 25 to 30 7 trees and
+18 shrubs over 30 10 trees and 30 shrubs
+
+2. Mitigation Option 2. In this option, the mitigation requirement is calculated based on the
+size of the disturbance area associated with the development. Native trees and shrubs are
+required to be planted at a rate of five (5) trees and twenty-five (25) shrubs per every 500
+square feet of disturbance area (calculated by dividing the number of square feet of
+disturbance area by 500, and then multiplying that result times five trees and 25 shrubs,
+and rounding all fractions to the nearest whole number of trees and shrubs; for example, if
+there will be 330 square feet of disturbance area, then 330 divided by 500 equals .66, and
+.66 times five equals 3.3, so three trees must be planted, and .66 times 25 equals 16.5, so
+17 shrubs must be planted). Bare ground shall be planted or seeded with native grasses or
+herbs. Non-native sterile wheat grass may also be planted or seeded, in equal or lesser
+proportion to the native grasses or herbs.
+
+(e) Location of mitigation area. All vegetation shall be planted within the mitigation area located
+on the same Lot of Record as the development and shall be located within the SEC-h overlay or in
+an area contiguous to the SEC-h overlay; provided, however, that if the vegetation is planted
+outside of the SEC-h overlay then the applicant shall preserve the contiguous area by executing a
+deed restriction, such as a restrictive covenant. (Note: an off-site mitigation option is provided in a
+streamlined discretionary review process). The mitigation area shall first be located within any
+existing non-forested cleared areas contiguous to forested areas, second within any degraded
+stream riparian areas and last in forested areas or adjacent to landscaped yards.
+
+(f) Prior to development, all work areas shall be flagged, fenced, or otherwise marked to reduce
+potential damage to habitat outside of the work area. The work area shall remain marked through
+all phases of development.
+
+(g) Trees shall not be used as anchors for stabilizing construction equipment.
+
+(h) Native soils disturbed during development shall be conserved on the property.
+
+(i) An erosion and sediment control plan shall be prepared in compliance with the ground
+disturbing activity standards set forth in MCC 39.6200 through MCC 39.6235.
+
+(j) Plant size. Replacement trees shall be at least one-half inch in caliper, measured at 6 inches
+above the ground level for field grown trees or above the soil line for container grown trees (the
+one-half inch minimum size may be an average caliper measure, recognizing that trees are not
+uniformly round), unless they are oak or madrone which may be one gallon size. Shrubs shall be in
+at least a 1-gallon container or the equivalent in ball and burlap and shall be at least 12 inches in
+height.
+
+(k) Plant spacing. Trees shall be planted between 8 and 12 feet on center and shrubs shall be
+planted between 4 and 5 feet on-center, or clustered in single species groups of no more than four
+(4) plants, with each cluster planted between 8 and 10 feet on-center. When planting near existing
+trees, the drip line of the existing tree shall be the starting point for plant spacing measurements.
+
+(l) Plant diversity. Shrubs shall consist of at least two (2) different species. If 10 trees or more are
+planted, then no more than 50% of the trees may be of the same genus.
+
+(m) Nuisance plants. Any nuisance plants listed in MCC 39.5580 Table 1 shall be removed within
+the mitigation area prior to planting.
+
+(n) Planting schedule. The planting date shall occur within one year following the approval of the
+application.
+
+(o) Monitoring and reporting. Monitoring of the mitigation site is the ongoing responsibility of the
+property owner. Plants that die shall be replaced in kind so that a minimum of 80% of the trees and
+shrubs planted shall remain alive on the fifth anniversary of the date that the mitigation planting is
+completed.
+
+(6) For Protected Aggregate and Mineral (PAM) resources within a PAM Overlay, the applicant shall
+submit a Wildlife Conservation Plan which must comply only with measures identified in the Goal 5
+protection program that has been adopted by Multnomah County for the site as part of the program to
+achieve the goal.
+
+(D) Optional Development Impact Area (DIA). For the purpose of clustering home sites together with related
+development within the SEC-h overlay, an applicant may choose to designate an area around the home site for
+future related development and site clearing. For the purposes of establishing the appropriate mitigation for
+development within the DIA, existing vegetation within the DIA is presumed to be ultimately removed or cleared in
+the course of any future development within the DIA. Establishment of a DIA is subject to all of the applicable
+provisions in this section and the following:
+
+(1) The maximum size for a DIA shall be no greater than one acre, excluding from this total the area of the
+minimum necessary accessway required for fire safety purposes.
+
+(2) Any required mitigation for the DIA site under an approved wildlife conservation plan shall be
+completed within one year of the final approval of the application.
+
+(3) The DIA shall contain an existing habitable dwelling or approved dwelling site.
+
+(4) No more than one DIA is permitted per Lot of Record.
+
+(5) The DIA can be any shape, but shall be contiguous and shall fit within a circle with a maximum
+diameter of 400 feet.
+
+(6) For new dwellings that will be located on a Lot of Record that does not currently contain a dwelling, the
+DIA should be located within 200 feet of a public road or in the case of properties without road frontage, as
+close as practicable (accounting for required setbacks and fire safety zones) to the entry point of the
+vehicular access serving the property.
+
+(7) No part of a DIA may be located in a SEC-s Overlay, mapped wetland, or flood hazard zone.
+
+(8) All development within the DIA is subject to all development criteria in effect for the underlying zone
+and overlay zones at the time of development. Approval of a DIA does not preclude the applicant’s
+responsibility to obtain all other required approvals.
+
+(9) Once a DIA is approved and all predevelopment conditions of approval are met, development within the
+DIA may commence at any time thereafter provided the applicable approval criteria of this section are the
+same as the criteria under which the DIA was originally approved. This provision does not waive the
+approval timeframe and/or expiration of any other permit approvals.
+
+( * * * )
+
+(Table of Contents Section)
+
+PART 1 – ADMINISTRATION, PROCEDURES, ENFORCEMENT, PERMITS AND FEES
+
+( * * * )
+
+5.H – SIGNIFICANT ENVIRONMENTAL CONCERN OVERLAYS (SECO)
+
+PART 5.H.1 – SIGNIFICANT ENVIRONMENTAL CONCERN (SEC) DISTRICTS
+
+§39.5500  Purposes
+
+§39.5505  Area Affected
+
+§ 39.5510 Uses; SEC Permits Required
+
+§39.5515  Exceptions
+
+§39.5520  Application for SEC Permit
+
+§39.5525  Applicable Approval Criteria
+
+§39.5530  SEC Permit – Required Findings
+
+§39.5535  Scope of Conditions
+
+§39.5540  Criteria for Approval of SEC Permit
+
+§39.552045  Definitions
+
+§39.5525  Replacement or Restoration of Structures in All SEC Overlays
+
+§39.5530  SEC Permit Criteria (Significant Environmental Concern)
+
+§39.5540  SEC-h Permit Criteria (Significant Wildlife Habitats)
+
+§39.5550  SEC-s Permit Criteria (Significant Streams)
+
+§39.5560  SEC-sw Permit Criteria (Significant Scenic Waterways)
+
+§39.5570  SEC-v Permit Criteria (Significant Scenic Views)
+
+§39.5580  SEC-w Permit Criteria (Significant Wetlands)
+
+§39.5590  SEC-wr Permit Criteria (Significant Water Resources)
+
+PART 5.H.2 – SEC STANDARDS APPLICABLE IN THE WEST OF SANDY RIVER AREA ONLY
+
+§39.5550  Existing Uses
+
+§39.5555  Buildable Lot Encroachment
+
+§39.5560  General Requirements for Approval in Areas Designated as SEC-wr or SEC-h
+
+PART 5.H.3 – SEC STANDARDS APPLICABLE IN THE URBAN PLANNING AREA ONLY
+
+§39.5570  Existing Uses in the Urban Planning Area
+
+§39.5575  General Requirements for Approval in Areas Designated as SEC-wr
+
+PART 5.H. 4 – NUISANCE PLANT LIST
+
+§39.5580  Nuisance Plant List
+
+PART 5.H.5 – SCENIC WATERWAY (SEC-sw)
+
+§39.5600  Criteria for Approval of SEC-sw Permit
+
+PART 5.H.6 – SIGNIFICANT SCENIC VIEW (SEC-V)
+
+§39.5650  Criteria for Approval of SEC-v Permit
+
+PART 5.H.7 – SIGNIFICANT WETLANDS (SEC-w)
+
+§39.5700
+Criteria for Approval of SEC-w Permit
+
+PART 5.H.8 – STREAMS (SEC-s)
+
+§39.5750  Criteria for Approval of SEC-s Permit
+
+PART 5.H.9 – WATER RESOURCES (SEC-wr)
+
+§39.5800  Criteria for Approval of SEC-wr Permit
+
+PART 5.H. 10 – WILDLIFE HABITAT (SEC-h)
+
+§39.5850 SEC-h Clear and Objective Standards
+
+§39.5860 Criteria for Approval of SEC-h Permit

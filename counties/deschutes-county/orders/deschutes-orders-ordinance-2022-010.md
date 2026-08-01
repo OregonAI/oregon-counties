@@ -1,0 +1,2279 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2022-010
+title: 'Ordinance No. 2022-010'
+doc_type: ordinance
+citation: 'Ordinance No. 2022-010'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1666740251_2022-287-Ordinance%202022-010%20Recorded%208102022.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 18912c3f7ec70bea748f56fe30030aa0eebe26312beee4a1b8696a2f7c6e7e10
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+text_source: ocr
+conversion_notes: 'OCR-derived. Engines: ocrmypdf/tesseract 5.3.4 and PaddleOCR PP-OCRv6, run independently on the same scan. Word agreement 0.983; figure agreement 0.896; dictionary ratio 0.935. Artifacts disclosed, not repaired. NOT human-verified.'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.175
+    - ORS 197.835
+    - ORS 215.435
+    - ORS 227.181
+    - OAR 660-022-0030
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders, ocr-derived]
+---
+
+> **NON-AUTHORITATIVE — OCR-DERIVED TEXT, NOT HUMAN-VERIFIED.** The county publishes
+> this document as an image-only scan with no text layer. The text below was read by
+> two independent OCR engines that agreed at 98%; it is a machine reading of a
+> picture, not the county's own text. Verify at the source URL before relying on it.
+
+# Ordinance No. 2022-010 (Ordinance No. 2022-010)
+
+## At a glance
+
+OCR-derived text of Ordinance No. 2022-010. Not human-verified.
+
+## Full text
+
+Recorded in Deschutes County
+                                                                Steve Dennison, County Clerk               CJ2022-287
+                                                                Commissioners’ Journal                  08/10/2022   11:53:44 AM
+                                                         soso    RS) ES Co
+                                                                           ,
+
+           REVIEWED                                             Ear
+
+                                                                               Ane
+                                                                    —                       2022-287
+          Oe Wu
+
+                                                                               :
+       LEGAL COUNSEL
+
+                                                                                     For Recording Stamp Only
+
+     BEFORE THE BOARD OF COUNTY COMMISSIONERS                           OF DESCHUTES COUNTY, OREGON
+
+ An Ordinance Amending Deschutes County Code
+
+                                                          *
+ Title 23, the Deschutes County Comprehensive Plan,                                  ORDINANCE NO. 2022-010
+
+                                                          &
+ to Change the Comprehensive Plan Map Designation
+
+                                                          &
+ for Certain Property From Agriculture to Rural
+
+                                                          &*
+ Industrial, and Amending Deschutes County Code
+
+                                                         *
+ Title 18, the Deschutes County Zoning Map, to
+                                                         x
+ Change the Zone Designation for Certain Property
+ From Exclusive Farm Use to Rural Industrial.
+
+         WHEREAS, Anthony Aceti, applied for changes to both the Deschutes County Comprehensive Plan Map
+(247-20-000438-PA) and the Deschutes County Zoning Map (247-20-000439-ZC), to change comprehensive plan
+designation of the subject property from an Agricultural (AG) to Rural Industrial (RI) and a corresponding zone
+change from Exclusive Farm Use (EFU) to Rural Industrial (RI); and
+
+        WHEREAS, the Board of County Commissioners issued a decision approving the subject application on
+January 27, 2021, and the decision was thereby appealed to the Oregon Land Use Board of Appeals and remanded
+back to the County for further review; and
+
+        WHEREAS,     the applicant initiated review of the remand application on April 7, 2022 through file no.
+247-22-000287-A; and
+
+        WHEREAS, after notice was given in accordance with applicable law, a limited de novo public hearing
+was held on May 18, 2022, before the Board of County Commissioners (Board); with oral and written testimony
+continued to June 8, 2022; and an open record period ending on June 22, 2022; and
+
+         WHEREAS, the Board, after review conducted in accordance with applicable law, approved the
+application on remand, both plan amendment to change the Comprehensive Plan Map designation from AG to RI,
+and approved the Zoning Map amendment to change from EFU to RI via oral motion and directed staff to prepare
+this ordinance consistent with that motion; now, therefore,
+
+         THE BOARD     OF COUNTY     COMMISSIONERS              OF DESCHUTES            COUNTY,        OREGON,   ORDAINS
+as follows:
+
+         Section 1.       AMENDMENT.          DCC Title 23, Deschutes County Comprehensive Plan Map, is
+amended to change the plan designation for certain property described in Exhibit “A” and depicted on the map set
+forth as Exhibit “B”, with both exhibits attached and incorporated by reference herein, from AG to RI.
+
+PAGE 1 OF 2 - ORDINANCE NO. 2022-010
+        Section 2.        AMENDMENT.          DCC Title 18, Zoning Map, is amended to change the zone designation
+from EFU to RI for certain property described in Exhibit “A” and depicted on the map set forth as Exhibit “C.”
+
+        Section 3.        AMENDMENT.          DCC Section 23.01.010, Introduction, is amended to read as described
+in Exhibit "D" attached and incorporated by reference herein, with new language underlined.
+
+         Section 4.     AMENDMENT.          Deschutes County Comprehensive Plan Section 5.12, Legislative
+History, is amended to read as described in Exhibit "E" attached and incorporated by reference herein, with new
+language underlined.
+
+        Section 5.         FINDINGS.      The Board adopts as its findings in support of this Ordinance the Decision
+of the Board of County Commissioners as set forth in Exhibit “F” and incorporated by reference herein.
+
+ Dated this   ~      /    of Les                                 BOARD OF COUNTY COMMISSIONERS
+                                                                 OF DESCHUTES COUNTY, OREGON
+
+                                                                     othe        Nd pee          —
+                                                                 PATTI ADAIR, Chair~
+
+                                                                  AM
+                                                                 ANTHONY DEBONE, Vice Chair
+ i/o                          k LY                                py         A
+
+ Recording Secretary                                             PHIL CHANG, Commissioner
+
+ Date of 1“ Reading:      3    day oS          Leg rr
+ Date of 2"¢ Reading:     o [day of seh                      2022.
+
+                                 Record of Adoption Vote:
+
+ Commissioner                      Yes        No        Abstained      Excused
+     Patti Adair                   x          a              a           a
+     Anthony DeBone                fh                        a           a
+     Phil Chang                    > Ss       a              a           a
+
+ Effective date:     AS   day of Detober           , 2022.
+
+PAGE 2 OF 2 - ORDINANCE NO. 2022-010
+                                                EXHIBIT A
+
+                                    LEGAL DESCRIPTIONS
+                           TAX LOTS 16-12-26-C-00201 & 16-12-27-D-00104
+
+AA parcel of land located in the Southwest one-quarter of Section 26 and the Southeast one-quarter of
+Section 27, Township 16 South, Range 12 East of the Willamette Meridian, Deschutes County, Oregon,
+tore fully described as follows:
+
+TAX   LOTS    16-12-26-C-00201:
+
+Commencing at a brass disk at the 1/4 comer between said Sections 26 and 27; thence along the east-west
+centerline of said Section 27, North 89°49°46" West 20.00 feet: thence leaving said cast-west centerline,
+South 00°03'15” East, parallel to and 20 feet westerly of the line common to said Sections 26 and 27,
+40.35 feet to a point on the southerly line of the {5.00 foot dedication to the southerly 30.00 foot right-of-
+way of Tumalo Road per Deed No, 98-29504, and the Point of Beginning for this description; thence
+along said 15-foot dedication line, 67.90 feet along the arc of a 12818,89 foot radius curve sight (the long
+chord of which bears South 89°35'07" Bast 67.90 feet); thenee South 89°26'01" Bast 997.75 fect to the
+westerly right-of-way of the Dalles-California Highway per Deed recorded March 22, 1991, in Book 231,
+Page 81, Deschutes County Records; thence leaving said 15-foot dedication line and along said westerly
+ripht-of-way, South 37°03’52” Hast 23.10 feet, said point being 85.00 fect from the centerline of said
+Dalles-California Highway; thence continuing along said 85-foot right-of-way line, South 26°22°14”
+West 1419.88 feet to a point on the south line of the property described in Deed No, 97-45542; thence
+leaving said 85-foot right-of-way line and-along said south line, South 89°56'45" West 447.62 feet to the
+southwest comer of said 97-45542 property, said point lying 20.00 fect westerly of the line common to
+Sections 26 and 27; thence Jeaving said south line, North 00°03°15" West 1301.34 feet to the point of
+beginning;                                                                           .
+
+EXCHPTING THEREFROM: the new alignment of               Tumalo Road per Deed No. 98-32048, further
+modified for tur lanes per Deed No. 2001-22023, fully described as follows:                    .
+
+Commencing at a brass disk at the.L/4 comer between said Sections 26 and 27; thence along the east-west
+centerline of said Section 27, North 89°49°46" West 20,00 feet; thence leaving said east-west centerline,
+South 00°03'15" East, parallel to and 20 feet westerly of the line common to said Sections 26 and 27,
+357.34 feet to the northerly right-of-way of the new road alignment, and the Point of Beginning for this
+description, thence leaving said parallel line and along the new right-of-way line, South 59°39°01"Rast
+50.46 feet; thence South 62°39"40" Hast 442.65 feet; thence South 63°56'22” East 250.70 feet: thence
+South 59°39'0E" Hast 95.51 feet to the westerly 85 foot right- of-way line of the Dalles-Calfornia
+Highway; thence leaving said new road right-of-way and along said westerly 85 foot right-of-way line,
+South 26°22°14" West 170.41 feet to the southerly right-of-way line of the new road; thence leaving said
+westerly 85 foot right-of-way line and along said southerly right-of-way line, North S9°39°0L" West
+107.34 feet; thence Narth $5°21°40" West 250,70 fect; thence North 56°38'22" West 442.65 Fect, said
+point bying 20.00 feet westerly of the line common to Sections 26 and 27; thence North G0°O3'15" East
+99,7] fect to the point of beginning.
+
+Net area for this property is 20.46 acres.
+                                                                                           e
+
+Oetober 14, ZOES                                                                      201 5186-Dese.
+                                                                                                   doc
+Prepared by Baxter Land Surveying, Inc,
+P.O. Hox 7022, Bend, OR 97708       (54L) 482-1969                                                       {Pp
+                                              EXHIBIT A
+
+TAX LOTS 16-12-27-D-00104:
+
+That portion of Deed No. 97-40139 described as “Parcel 3,” further modified by the excepting of Tract |
+and Tract 2 of Deed No. 98-32049, and more fully described as follows;
+
+Beginning at the Point of Beginning for the previous description of TAX LOT 16-12-27-C- 00201, said
+point being on the southerly 45 foot right-of-way of Tumalo Road and lying 20.00 feet westerly of the
+line common to Sections 26 and 27; thence along said 20 foot westerly line, North 00°03'15" West 5,00
+feet to a point on a 40,00 foot right-of-way of Tumalo Road, per said 98-32049 Deed; thence leaving said
+20 foot line, 31.74 feet along the arc of a 12823.89 foot radius curve left (the long chord of which bears
+North 89°48'29" West 31.74 feet); thence North 89°52"44" West 26.42 feet; thence 219.07 feet along the
+arc of a 210.00 foot radius curve left (the long chord of which bears South 60°14'07""Wesl 209.27 fect);
+thence South 30°20°59" West 40.03 feet; thence 47.12 feet along the arc of a 30.00 foot radius curve left
+(the long chord of which hears South 14°39°G1" East 42.43 feet); thence South 59°39'01”" East 145.00
+feet; thence South 60°31°23" East 142.53 feet to a point lying 20,00 feet westerly of the line common to
+said Sections 26 and 27; thence North 00°03°15" West 317.00 fect to the point af beginning for this
+description;
+
+Contains 1.30 acres.
+
+Note:   All comers are marked with monuments per recorded survey No. CS14491 by Michael Berry.
+
+             {      REGISTERED
+                  PROFESSIONAL
+                 LAND SURVEYOR
+                   Garcon
+                    \_ | OREGON.
+                                Dianne :
+                     JULY 20, 1eg8
+                  JAMES D, PERRY
+             \         24a7     —
+                 RENEWS 12-31-2016
+
+October 14, 2015                                                                   2015 186-Dese doc
+Prepared by Baxter Land Surveying, Inc.
+P.O. Box 7022, Bend, OR 97708 (541) 382-1962                                                         @
+                                                                                                       EXHIBIT A
+
+                                                                               EXHIBIT MAP
+                                                                       TAX LOTS (6-12—-26-C-00201
+                                                                          AND 16—-12~-27=—D-00104
+                           Located                          in       the SWI/4 Sec. 26 and the SE1/4                                                                    Sec.          27,
+                                                                                          T.IGS.,              RIZE,                  FM,
+                                                                         DESCHUTES                             COUNTY,                   OREGON
+
+                                                                      BRASS Oyde AT 144 COR.
+peace oh        yoove              ae
+         88                    20.00                                                                    CENTERLINE TUMALO ROAD                 (WCHOLS MARKET AOD,
+                          NX           Nye aep50 RA                                         2 seen         -    erent    -oe,            A f           cee -    EE      oN
+                                                                                                                                                                        EY                           ——
+                           es                  =A                        >                   oo                   ~                  i             =              pan                a                                 S,
+         oe                    eye                               TE          -                                          SOF2e OTE SSF TS                                                       j
+                fo                                                       18 RAW DEDICA TCH                                                                                      Sarasa"
+f                                      \ i                               DEEG We, GH 29504                                                                                           2310                              F
+                                       oe                                                                                                                                                                          ‘
+                TAN LOT 104                                                                                                          CURVE TABLE
+    cq        AREA: 1-50 AGRES |.                                                                      me] Dei a_|iewom | Raows               Giant
+         is                                |                                                            ci | o1g' 13" | 67.90 |iamig.gg] sagas ort 67.90                                                 i
+         tet
+               Ip,                     5                                                                G2    [ose | Sys [128g8a] wna       ae eo Ww I, 74                                          r)                      é
+          cree        2                ‘ |                                                              C3, | soee'ta” | 219.07 | fig.cd [sso14
+                                                                                                                                              a7 w 209,37
+                     ne,      | |                                                                       é4[sononey|                 4hiz | soos | sige ore 42.43                              / e
+                        Pgee.                                                                                                                                                                                ase
+                         chins |                            nssu'se'or"e                                                                                                                  f                        ogy.
+                                                                 30.46                                                                    UWE TABLE                                   é
+                      r2               bal                                                                                 uve | LENGTH                 ALARING                 2
+               DEED 9832049                                   Me ag OED 20027023                                                :        rae       esr                         xy                    ;                          ;
+
+                                                                 a
+                                                              oeMgt               Nag
+                                               |on:                      we Es
+                                       i!              5                          ety
+                                       rl              of
+                                               ,       €
+                                               t       ay
+
+                                       t
+                                               | B     a
+
+                                       t |             2            TAX LOT 207
+                                         |                          GROSS AREA: 22.68 ACRES
+                                         |                          NEW ROAD: 2.42 ACRES
+                                       |                            TAX &
+                                       G                            NEF aREA $0.46 ACRES
+                                        ¥                            11.42 ACRES NORTH OF NEW ROAD:
+                                                   a                9.04 ACRES SOUTH OF NEW ROAD
+                                                   z
+                                       1/3
+                                       11
+                                       | re
+                                                                                                                                                                        REGISTERED
+                                       i‘,                                                                                                                            PROFESSIONAL
+                                       .|                                                                                                                            LAND SURVEYOR
+                                               |- 20.00"
+                                                                                                                                                                          eens                           bln
+                                       1]
+                                                                                                                                                                          y OREGON                                                  ~
+                                                                                                                                                                                    ULY       26,    1989
+                                                            —_—-_           +, Salt vom            =                                                                    JAMES             0. PERRY
+                                                                     SOP564S°W            447.62
+                                                                                                                                                                                      2407
+                                                                                                                                                                     RENEWS                    12-31-2016
+
+                      PREPARED BY BAXTER LAND SUERVEFING, INC   P.O. BOY F022                                                                                   BEND, OH             Srr0E
+                           20970 EMPIRE AVE, SEHTE €-3, HEND, OR 97708   (S41)                                                                                 SA2—-19G2
+          ROBIN AVE
+                      Plan Amendment from
+                          Agriculture (AG)
+                      2           to.    a    Le
+                          Rural industrial (RI).
+Legend                                                  PROPOSED                                  BOARD OF COUNTY COMMISSIONERS
+Sarat Subject Properties                           PLAN AMENDMENT MAP
+Comprehensive Plan                                           Exhibii "B" to                       Patti Adair, Chair
+       AG - Agriculture                                      .                     r              Lh           ——
+                                                                                                  Tony DeBone, Vice Chair
+       RC - Rural Commercial                              Ordinance           2022-010
+       RI - Rural Industrial                                                                      Phil Chang, Commissigner
+       RREA - Rural Residential Exception Area
+                                                                                                  _    Ags
+                                                                                                      rca    §         Kiet?
+                                                                                                                       4°
+                                                                                                  ATTEST:    Recording      Secretary
+                                                      0               312.5              625
+                                                                                           Feet   Dated this_4? day optidy 2022
+                                                                 November
+                                                                        11, 2020
+                                                                                                  Effective Date.      _ Cx pine,   23, 2022
+                           .              :
+                        Plan Amendment from
+                       arm Use’-Tumalo/Redmond/Bend
+                          Subzone (EFU-TRB
+                      _ toye Ruralte Indust
+Legend                                                     PROPOSED                       BOARD OF COUNTY COMMISSIONERS
+ol      Su
+                                                                                          OF-QRESCHUTES COUNTY, OREGON
+Soman        bject Properties
+                                                          ZONING MAP
+Zoning                                                                                    Patti Adair, Chait
+                                                          Exhibit "C" to
+     EFU - TUMALO/REDMOND/BEND SUBZONE
+                                                      Ordinance 2022-010                  AF
+                                                                                           Uo —
+     FLOOD PLAIN                                                                          Tony DeBone, Vice Chair
+     MULTIPLE USE AGRICULTURAL                                                            Phil =       YL.
+     RURAL COMMERCIAL
+(777 RURAL INDUSTRIAL                                 0            312.5         625
+                                                                                          ATTEST:    Recording Secretary
+                                                                                   Feet   Dated this 27 day ortle . 202 Zz
+                                                             November 11, 2020            Effective Date:                  , 2022
+Chapter 23.01 COMPREHENSIVE              PLAN
+
+Chapter 23.01 COMPREHENSIVE PLAN
+
+23.01.010. Introduction.
+
+A,      The Deschutes County Comprehensive Plan, adopted by the Board in Ordinance 2011-003
+and found on the Deschutes County Community Development Department website, is incorporated
+by reference herein.
+B.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2011-027, are incorporated by reference herein.
+C.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2012-005, are incorporated by reference herein.
+D.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2012-012, are incorporated by reference herein.
+E.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2012-016, are incorporated by reference herein.
+F.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2013-002, are incorporated by reference herein.
+G.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2013-009, are incorporated by reference herein.
+H.      The Deschutes County Comprehensive Pian amendments, adopted by the Board in Ordinance
+2013-012, are incorporated by reference herein.
+I.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2013-007, are incorporated by reference herein.
+J.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014-005, are incorporated by reference herein.
+K.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014-006, are incorporated by reference herein.
+L.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014-012, are incorporated by reference herein.
+M.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014-021, are incorporated by reference herein.
+N.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014-027, are incorporated by reference herein.
+O.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2015-021, are incorporated by reference herein.
+P.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2015-029, are incorporated by reference herein.
+Q.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2015-018, are incorporated by reference herein.
+R.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2015-010, are incorporated by reference herein.
+S.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2016-001, are incorporated by reference herein.
+T.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2016-022, are incorporated by reference herein.
+U.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2016-005, are incorporated by reference herein.
+
+Exhibit D, Ord. 2022-010 Chapter 23.01                                                (7/13/22)
+V.       The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+2016-027, are incorporated by reference herein.
+W.       The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+2016-029, are incorporated by reference herein.
+Xx.      The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+2017-007, are incorporated by reference herein.
+Y.       The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+2018-002, are incorporated by reference herein.
+Z.       The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+2018-006, are incorporated by reference herein.
+AA. — The Deschutes County Comprehensive Plan amendments,       adopted by the Board in Ordinance
+2018-011, are incorporated by reference herein.
+BB.      The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+2018-005, are incorporated by reference herein.
+ CC. — The Deschutes County Comprehensive Plan amendments,      adopted by the Board in Ordinance
+2018-008, are incorporated by reference herein.
+DD.      The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+ 2019-002, are incorporated by reference herein.
+ EE.     The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+ 2019-001, are incorporated by reference herein.
+ FF.     The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+ 2019-003, are incorporated by reference herein.
+ GG.     The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+ 2019-004, are incorporated by reference herein.
+ HH.     The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+ 2019-011, are incorporated by reference herein.
+ Il.     The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+ 2019-006, are incorporated by reference herein.
+ JJ.     The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+ 2019-016, are incorporated by reference herein.
+ KK.     |The Deschutes County Comprehensive Plan amendments,   adopted by the Board in Ordinance
+ 2019-019, are incorporated by reference herein.
+ LL.     The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+ 2020-001, are incorporated by reference herein.
+ MM.     The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+ 2020-002, are incorporated by reference herein.
+NN. — The Deschutes County Comprehensive Plan amendments,       adopted by the Board in Ordinance
+ 2020-003, are incorporated by reference herein.
+ OO.     The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+ 2020-008, are incorporated by reference herein.
+ PP.     The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+ 2020-007, are incorporated by reference herein.
+ QQ.     The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+ 2020-006, are incorporated by reference herein.
+ RR.     The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+ 2020-009, are incorporated by reference herein.
+ SS.     The Deschutes County Comprehensive Plan amendments,    adopted by the Board in Ordinance
+ 2020-013, are incorporated by reference herein.
+
+Exhibit D, Ord. 2022-010 Chapter 23.01                                                    (7/13/22)
+TT.     |The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020-02, are incorporated by reference herein.
+UU.     The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2021-005, are incorporated by reference herein.
+VV.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2021-008, are incorporated by reference herein.
+WW.     The Deschutes County Comprehensive Plan amendments,     adopted by the Board in Ordinance
+2022-001, are incorporated by reference herein.
+XX.     The Deschutes County Comprehensive Plan amendments,     adopted by the Board in Ordinance
+2022-003, are incorporated by reference herein.
+YY.     The Deschutes County Comprehensive Plan amendments,     adopted by the Board in Ordinance
+2022-006, are incorporated by reference herein.
+ZZ.___The Deschutes County Comprehensive Plan amendments,       adopted by the Board in Ordinance
+2022-0010, are incorporated by reference herein.                                           .
+
+(Ord. 2022-0010 §2, 2022; Ord. 2022-006 §2, 2022; Ord. 2022-003 §2, 2022; Ord. 2022-001 §1,
+2022; Ord. 2021-008 §1; Ord. 2021-005 §1, 2021; Ord. 2021-002§3, 2020; Ord. 2020-01381, 2020;
+Ord. 2020-009§1, 2020; Ord. 2020-006§1, 2020; Ord. 2020-007§1, 2020; Ord. 2020-008§1, 2020;
+Ord. 2020-003 §1, 2020; Ord. 2020-002 §1, 2020; Ord. 2020-001 §26, 2020; Ord. 2019-019 §2,
+2019; Ord. 2019-016 §3, 2019; Ord. 2019-006 § 1, 2019; Ord. 2019-011 § 1, 2019; Ord. 2019-004
+§1, 2019; Ord. 2019-003 §1, 2019; Ord. 2019-001 §1, 2019; Ord. 2019-002 §1, 2019; Ord. 2018-008
+§1, 2018; Ord. 2018-005 §2, 2018; Ord. 2018-011 §1, 2018; Ord. 2018-006 §1, 2018; Ord. 2018-002
+§1, 2018; Ord. 2017-007 §1, 2017; Ord. 2016-029 §1, 2016; Ord. 2016-027 §1, 2016; Ord. 2016-005
+§1, 2016; Ord. 2016-022 §1, 2016; Ord. 2016-001 §1, 2016; Ord. 2015-010 §1, 2015; Ord. 2015-018 §
+1, 2015; Ord. 2015-029 § 1, 2015; Ord. 2015-021 § 1, 2015; Ord. 2014-027 § 1, 2014; Ord. 2014-021
+§1, 2014; Ord. 2014-12 §1, 2014; Ord. 2014-006 §2, 2014; Ord. 2014-005 §2, 2014; Ord. 2013-012
+§2, 2013; Ord. 2013-009 §2, 2013; Ord. 2013-007 §1, 2013; Ord. 2013-002 §1, 2013; Ord. 2013-001
+§1, 2013; Ord. 2012-016 §1, 2012; Ord. 2012-013 §1, 2012; Ord. 2012-005 §1, 2012; Ord. 2011-027
+§1 through 12, 2011; Ord. 2011-017 repealed; Ord.2011-003 §3, 2011)
+
+Click here to be directed to the Comprehensive Plan (http://www.deschutes.org/compplan)
+
+Exhibit D, Ord. 2022-010 Chapter 23.01                                                    (7/13/22)
+Section 5.12 Legislative History
+Background
+This section contains the legislative history of this Comprehensive Plan.
+Table 5.12.1 Comprehensive Plan Ordinance History
+
+Ordinance        Date Adopted/         Chapter/Section                Amendment
+                 Effective
+                                       All, except
+                                       Transportation, Tumalo
+                                       and Terrebonne
+201 1-003        8-10-1 1/1 1-9-11     Community Plans,               Comprehensive Plan update
+                                       Deschutes Junction,
+                                       Destination Resorts and
+                                       ordinances adopted in
+                                       2011
+                                       2.5, 2.6, 3.4, 3.10, 3.5,                         ;
+                                       46.53.5851]                    Housekeeping amendments to
+2011-027         10-31-11/11-9-11       Ss InA 42 MAD                 ensure a smooth transition to
+                                       23.40A, 23.40B,                the      updated       PI
+                                       23.40.065, 23.01.010                 © upcarecan
+                                       23.60, 23.64 (repealed),                                   ;
+2012-005     | 8-20-12/11-19-12 | 3.7 (revised), Appendix ¢ | System
+                                                              UPdated PlanTransportation
+                                       (added)
+
+2012-012     | 8-20-12/8-20-12.      | 4.1, 42                        LaBoundary
+                                                                           Pine Urban Growth
+2012-016     | 12-3-12/3-4-13        | 3.9                            Housekeeping   amendiments to
+                                                                      Destination Resort Chapter
+                                                                      Central Oregon Regional
+2013-002         |-7-13/1-7-13         4.2                            Large-lot Employment Land
+                                                                      Need Analysis
+                                                                      Comprehensive Plan Map
+                                                                      Amendment, changing
+2013-009     | 2-6-13/5-8-13            1.3                           designation of certain
+                                                                      property from Agriculture to
+                                                                      Rural Residential Exception
+                                                                      Area
+                                                                      Comprehensive Plan Map
+2013-012     | 5-8-13/8-6-13           23.01.010                      Amendment,    including certain
+                                                                      property within City of Bend
+                                                                      Urban Growth Boundary
+                                                                      Newberry Country: A Plan
+2013-007         5-29-|3/8-27-13       3.10, 3.11                     for Southern Deschutes
+                                                                      County
+
+                                                          DESCHUTES COUNTY COMPREHENSIVE PLAN — 2011
+                                        CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+                                                                                EXHIBIT E, ORD. 2022-010
+                                                                   Comprehensive Plan Map
+                                                                   Amendment, including certain
+2013-016         10-21-13/10-21-13      23.01.010
+                                                                   property within City of Sisters
+                                                                   Urban Growth Boundary
+                                                                   Comprehensive Plan Map
+                                                                   Amendment,     including certain
+2014-005         2-26-|4/2-26-14        23.01.010
+                                                                   property within City of Bend
+                                                                   Urban Growth Boundary
+                                                                   Housekeeping amendments to
+2014-012         4-2-14/7-1-14          3.10, 3.11
+                                                                   Title 23.
+                                                                   Comprehensive Plan Map
+                                                                   Amendment, changing
+                                                                   designation of certain
+                                                                   property from Sunriver Urban
+2014-02 |        8-27-|4/1 1-25-14      23.01.010, 5.10
+                                                                   Unincorporated Community
+                                                                   Forest to Sunriver Urban
+                                                                   Unincorporated Community
+                                                                   Utility
+                                                                   Comprehensive Plan Map
+                                                                   Amendment, changing
+                                                                   designation of certain
+                                                                   property from Sunriver Urban
+2014-021         8-27-14/1 1-25-14      23.01.010, 5.10
+                                                                   Unincorporated Community
+                                                                   Forest to Sunriver Urban
+                                                                   Unincorporated Community
+                                                                   Utility
+                                                                   Comprehensive Plan Map
+                                                                   Amendment, changing
+2014-027         |2-15-14/3-31-15       23.01.010, 5.10            designation of certain
+                                                                   property from Agriculture to
+                                                                   Rural Industrial
+                                                                   Comprehensive Plan Map
+                                                                   Amendment, changing
+2015-021         1 1-9-15/2-22-16       23.01.010                  designation of certain
+                                                                   property from Agriculture to
+                                                                   Surface Mining.
+                                                                   Comprehensive Plan Map
+                                                                   Amendment, changing
+                                                                   designation of certain
+2015-029         1 1-23-15/1 1-30-15    23.01.010
+                                                                   property from Tumalo
+                                                                   Residential 5-Acre Minimum
+                                                                   to Tumalo Industrial
+                                                                   Housekeeping Amendments
+2015-018         12-9-|5/3-27-16       23.01.010, 2.2, 4.3
+                                                                   to Title 23.
+
+DESCHUTES COUNTY COMPREHENSIVE PLAN — 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+EXHIBIT E, ORD. 2022-010
+                                                              Comprehensive Plan Text and
+                                                              Map Amendment recognizing
+2015-010   |2-2-15/12-2-15     2.6
+                                                              Greater Sage-Grouse Habitat
+                                                              Inventories
+                                                              Comprehensive Plan Map
+                                                              Amendment, changing
+                                                              designation of certain
+2016-001   12-21-15/04-5-16    23.01.010; 5.10
+                                                              property from, Agriculture to
+                                                              Rural Industrial (exception
+                                                              area)
+                                                              Comprehensive Plan
+                                                              Amendment to add an
+                                                              exception to Statewide
+2016-007   2-10-16/5-10-16     23.01.010; 5.10                Planning Goal || to allow
+                                                              sewers in unincorporated
+                                                              lands in Southern Deschutes
+                                                              County
+                                                              Comprehensive Plan
+                                                              Amendment recognizing non-
+2016-005   | 1-28-16/2-16-17   23.01.010, 2.2, 3.3            resource lands process
+                                                              allowed under State law to
+                                                              change EFU zoning
+                                                              Comprehensive plan
+                                                              Amendment, including certain
+2016-022   9-28-16/1 1-14-16   23.01.010, 1.3, 4.2
+                                                              property within City of Bend
+                                                              Urban Growth Boundary
+                                                              Comprehensive Plan Map
+                                                              Amendment, changing
+2016-029   12-14-16/12/28/16   23.01.010                      designation of certain
+                                                              property from, Agriculture to
+                                                              Rural Industrial
+                                                              Comprehensive Plan Map
+                                                              Amendment, changing
+                                                              designation of certain
+2017-007   10-30-17/10-30-17   23.01.010
+                                                              property from Agriculture to
+                                                              Rural Residential Exception
+                                                              Area
+                                                              Comprehensive Plan
+                                                              Amendment permitting
+2018-002   | -3-18/1-25-18     23.01, 2.6
+                                                              churches in the Wildlife Area
+                                                              Combining Zone
+
+                                                  DESCHUTES COUNTY COMPREHENSIVE PLAN — 201 I
+                                CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+                                                                        EXHIBIT E, ORD. 2022-010
+                                                                      Housekeeping Amendments
+                                                                      correcting tax lot numbers in
+                                                                      Non-Significant Mining Mineral
+2018-006         8-22-18/] 1-20-18      23.01.010, 5.8, 5.9           and Aggregate Inventory;
+                                                                      modifying Goal 5 Inventory of
+                                                                      Cultural and Historic
+                                                                      Resources
+                                                                      Comprehensive Plan Map
+                                                                      Amendment, changing
+                                                                      designation of certain
+2018-01 |        9-12-18/12-1
+                           1-18         23.01.010
+                                                                      property from Agriculture to
+                                                                      Rural Residential Exception
+                                                                      Area
+                                                                      Comprehensive Plan Map
+                                                                      Amendment, removing Flood
+                                        23.01.010, 2.5, Tumalo        Plain Comprehensive Plan
+2018-005         9-19-18/10-10-18       Community Plan,               Designation; Comprehensive
+                                        Newberry Country Plan         Plan Amendment adding Flood
+                                                                      Plain Combining Zone
+                                                                      purpose statement.
+                                                                      Comprehensive Plan
+                                                                      Amendment allowing for the
+                                                                      potential of new properties to
+2018-008         9-26-18/ 10-26-18      23.01.010, 3.4
+                                                                      be designated as Rural
+                                                                      Commercial or Rural
+                                                                      Industrial
+                                                                      Comprehensive Plan Map
+                                                                      Amendment changing
+                                                                      designation of certain
+                                                                      property from Surface Mining
+                                                                      to Rural Residential Exception
+2019-002          |-2-19/4-2-19         23.01.010, 5.8
+                                                                      Area; Modifying Goal 5
+                                                                      Mineral and Aggregate
+                                                                      Inventory; Modifying Non-
+                                                                      Significant Mining Mineral and
+                                                                      Aggregate Inventory
+                                                                      Comprehensive Plan and Text
+                                                                      Amendment to add a new
+2019-001          1-16-19/4-16-19        1.3, 3.3, 4.2, 5.10, 23.01
+                                                                      zone to Title 19: Westside
+                                                                      Transect Zone.
+
+DESCHUTES COUNTY COMPREHENSIVE PLAN — 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE   HISTORY
+EXHIBIT E, ORD. 2022-010
+                                                               Comprehensive Plan Map
+                                                               Amendment changing
+                                                               designation of certain
+2019-003    02-12-19/03-12-19    23.01.010, 4.2                property from Agriculture to
+                                                               Redmond Urban Growth
+                                                               Area for the Large Lot
+                                                               Industrial Program
+                                                               Comprehensive Plan Map
+                                                               Amendment changing
+                                                               designation of certain
+                                                               property from Agriculture to
+                                                               Redmond Urban Growth
+2019-004    02-12-19/03-12-19    23.01.010, 4.2
+                                                               Area for the expansion of the
+                                                               Deschutes County
+                                                               Fairgrounds and relocation of
+                                                               Oregon Military Department
+                                                               National Guard Armory.
+                                                               Comprehensive Plan Map
+                                                               Amendment to adjust the
+                                                               Bend Urban Growth
+                                                               Boundary to accommodate
+                                                               the refinement of the Skyline
+                                                               Ranch Road alignment and the
+2019-01 |   05-01-19/05-16/19    23.01.010, 4.2                refinement of the West Area
+                                                               Master Plan Area | boundary.
+                                                               The ordinance also amends
+                                                               the Comprehensive Plan
+                                                               designation of Urban Area
+                                                               Reserve for those lands
+                                                               leaving the UGB.
+                                                               Comprehensive Plan Map
+                                                               Amendment, changing
+                                                               designation of certain
+2019-006    03-13-19/06-1
+                       1-19      23.01.010,
+                                                               property from Agriculture to
+                                                               Rural Residential Exception
+                                                               Area
+                                                               Comprehensive Plan and Text
+                                                               amendments incorporating
+                                                               language from DLCD’s 2014
+2019-016    1 1-25-19/02-24-20   23.01.01, 2.5                 Model Flood Ordinance and
+                                                               Establishing a purpose
+                                                               statement for the Flood Plain
+                                                               Zone.
+
+                                                   DESCHUTES COUNTY COMPREHENSIVE PLAN — 201 |
+                                 CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+                                                                         EXHIBIT E, ORD. 2022-010
+                                                                   Comprehensive Plan and Text
+                                                                   amendments to provide
+                                                                   procedures related to the
+                                                                   division of certain split zoned
+2019-019         12-1 1-19/12-11-19    23.01.01, 2.5
+                                                                   properties containing Flood
+                                                                   Plain zoning and involving a
+                                                                   former or piped irrigation
+                                                                   canal.
+                                                                   Comprehensive Plan and Text
+                                                                   amendments to provide
+                                                                   procedures related to the
+                                                                   division of certain split zoned
+2020-00 |        12-1 1-19/12-1
+                             1-19      23.01.01, 2.5
+                                                                   properties containing Flood
+                                                                   Plain zoning and involving a
+                                                                   former or piped irrigation
+                                                                   canal.
+                                                                   Comprehensive Plan Map
+                                                                   Amendment to adjust the
+                                                                   Redmond Urban Growth
+                                                                   Boundary through an equal
+                                                                   exchange of land to/from the
+                                                                   Redmond UGB. The exchange
+                                                                   property is being offered to
+                                                                   better achieve land needs that
+2020-002         2-26-20/5-26-20        23.01.01, 4.2, 5.2         were detailed in the 2012 SB
+                                                                    1544 by providing more
+                                                                   development ready land
+                                                                   within the Redmond UGB.
+                                                                   The ordinance also amends
+                                                                   the Comprehensive Plan
+                                                                   designation of Urban Area
+                                                                   Reserve for those lands
+                                                                   leaving the UGB.
+                                                                   Comprehensive Plan
+                                                                   Amendment with exception
+                                                                   to Statewide Planning Goal | |
+2020-003         02-26-20/05-26-20      23.01.01, 5.10             (Public Facilities and Services)
+                                                                   to allow sewer on rural lands
+                                                                   to serve the City of Bend
+                                                                   Outback Water Facility.
+
+DESCHUTES COUNTY COMPREHENSIVE PLAN — 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+EXHIBIT E, ORD. 2022-010
+                                                               Comprehensive Plan
+                                                               Transportation System Plan
+                                                               Amendment to add
+                                                               roundabouts at US 20/Cook-
+2020-008   06-24-20/09-22-20     23.01.010, Appendix C         O.B. Riley and US 20/Old
+                                                               Bend-Redmond Hwy
+                                                               intersections; amend Tables
+                                                               5.3.T1 and 5.3.T2 and amend
+                                                               TSP text.
+
+                                                               Housekeeping Amendments
+2020-007   07-29-20/ 10-27-20    23.01.010, 2.6                correcting references to two
+                                                               Sage Grouse ordinances.
+
+                                                               Comprehensive Plan and Text
+                                                               amendments to update the
+                                                               County’s Resource List and
+2020-006   08-12-20/1 1-10-20    23.01.01, 2.11, 5.9           Historic Preservation
+                                                               Ordinance to comply with the
+                                                               State Historic Preservation
+                                                               Rule.
+                                                               Comprehensive Plan
+                                                               Transportation System Plan
+                                                               Amendment to add reference
+                                                               to J turns on US 97 raised
+2020-009   08-19-20/1 1-17-20    23.01.010, Appendix C
+                                                               median between Bend and
+                                                               Redmond; delete language
+                                                               about disconnecting
+                                                               Vandevert Road from US 97.
+                                                               Comprehensive Plan Text
+                                                               And Map Designation for
+                                                               Certain Properties from
+                                                               Surface Mine (SM) and
+                                                               Agriculture (AG) To Rural
+2020-013   08-26-20/ | 1/24/20   23.01.01, 5.8                 Residential Exception Area
+                                                               (RREA) and Remove Surface
+                                                               Mining Site 461 from the
+                                                               County's Goal 5 Inventory of
+                                                               Significant Mineral and
+                                                               Aggregate Resource Sites.
+                                                               Comprehensive Plan Map
+                                                               Designation for Certain
+2021-002   01-27-21/04-27-2|     23.01.01
+                                                               Property from Agriculture
+                                                                AG) To Rural Industrial (Rl)
+
+                                                   DESCHUTES COUNTY COMPREHENSIVE PLAN — 201 |
+                                 CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+                                                                         EXHIBIT E, ORD. 2022-010
+                                                                   Comprehensive Plan Map
+                                                                   Amendment Designation for
+                                                                   Certain Property from
+2021-005         06-1 6-21/06-16-2|     23.01.01, 4.2              Agriculture (AG) To
+                                                                   Redmond Urban Growth
+                                                                   Area (RUGA) and text
+                                                                   amendment
+                                                                   Comprehensive Plan Map
+                                                                   Amendment Designation for
+                                                                   Certain Property Adding
+2021-008         06-30-21/09-28-2       23.01.01                   Redmond Urban Growth
+                                                                   Area (RUGA) and Fixing
+                                                                   Scrivener’s Error in Ord.
+                                                                   2020-022
+                                                                   Comprehensive Plan Map
+                                                                   Amendment, changing
+                                                                   designation of certain
+2022-001         04-{3-22/07-|2-22      23.01.010
+                                                                   property from Agriculture
+                                                                   (AG) to Rural Residential
+                                                                   Exception Area (RREA)
+                                                                   Comprehensive Plan Map
+                                                                   Amendment, changing
+                                                                   designation of certain
+2022-003         04-20-22/07-19-22      23.01.010
+                                                                   property from Agriculture
+                                                                   (AG) to Rural Residential
+                                                                   Exception Area (RREA)
+                                                                   Comprehensive Plan Map
+                                                                   Amendment, changing
+                                                                   designation of certain
+2022-006         06-22-22/08- 19-22     23.01.010                  property from Rural
+                                                                   Residential Exception Area
+                                                                   (RREA) to Bend Urban
+                                                                   Growth Area
+                                                                   Comprehensive Plan Map
+                                                                   Designation for Certain
+2022-010         07-27-22/ 10-25-22     23.01.010
+                                                                   Property from Agriculture
+                                                                   (AG) To Rural Industrial (RI)
+
+DESCHUTES COUNTY COMPREHENSIVE PLAN — 201 I
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5.12 LEGISLATIVE HISTORY
+EXHIBIT E, ORD. 2022-010
+       BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+            FINDINGS OF FACT AND CONCLUSIONS OF LAW ON REMAND
+
+FILE NUMBERS:       247-20-000438-PA, 247-20-000439-ZC, 247-22-000287-A
+
+APPLICANT/          AnthonyJ. Aceti
+OWNER:              21235 Tumalo Place
+                    Bend, OR 97703
+
+APPLICANT'S         Bill Kloos
+ATTORNEY:           375 W 4" Ave, Suite 204
+                    Eugene, OR 97401
+
+APPLICANT'S         Patricia A. Kliewer, MPA
+REPRESENTATIVE:     60465 Sunridge Drive
+                    Bend, OR     97702
+
+STAFF PLANNER:      Nicole Mardell, Senior Planner - Long Range
+                    Nicole.mardell@deschutes.org, 541-317-3157
+
+REQUEST:            The applicant requests proceedings on remand from Centra/ Oregon
+                    Landwatch v. Deschutes County, __ Or LUBA __ (LUBA No 2021-028, June
+                    18, 2021) affd 315 Or App 673 (2021) of the Board of County
+                    Commissioner's approval of original application file numbers 247-20-
+                                               DRARAQLN
+
+                    002.
+
+PROPOSAL:           Comprehensive Plan Amendment to re-designate the subject property
+                    from Agriculture to Rural Industrial and a corresponding Zone Change
+                    to change the zoning from Exclusive Farm Use -
+                    Tumalo/Redmond/Bend         Subzone (EFU-TRB) to Rural Industrial Zone
+                    (Rl).
+
+LOCATION:           21235 Tumalo      Place, Bend, OR 97703;
+                    Taxlots: 161226C000201       and 161227D000104
+
+I.    FINDINGS OF FACT:
+
+A.    incorporated Findings of Fact: The Findings of Fact from the Hearings Officer's
+      decision dated October 7, 2020, adopted as Exhibit F to Ordinance No. 2021-002, are
+      hereby incorporated as part of this decision.
+
+Exhibit F to Ordinance 2022-010                                                              1
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+B.     Procedural History: The Deschutes County Board of County Commissioners
+       adopted Ordinance No. 2021-002, approving the requested Comprehensive Plan
+       Amendment and Zone Change of the subject property to Rural Industrial, on January
+       27, 2021. Central Oregon Landwatch (COLW) appealed Ordinance No. 2021-002 to
+       the Land Use Board of Appeals. LUBA remanded the decision on June 18, 2021
+       denying all of COLW’s arguments except for one. COLW appealed to the Court of
+       Appeals and Applicant filed a cross-petition. The Court of Appeals affirmed on the
+       petition and cross-petition. The Applicant requested in writing on April 7, 2022 that
+       the County Board proceed with the application on remand pursuant to ORS
+       215.435.
+
+       The Board of County Commissioners limited the remand proceeding to the issue
+       remanded by LUBA and permitted new evidence and testimony to address the
+       remand issue. A public hearing on remand was held on May 18, 2022 following
+       public notice. At the hearing the applicant and Central Oregon Landwatch
+       submitted written and oral argument.      Because COLW filed a procedural objection
+       that there had not been 20 days between notice of the public hearing and the public
+       hearing, the Board of County Commissioners continued the public hearing to June 8,
+       2022. On May 18, 2022, twenty-one days before the continued hearing date, the
+       County mailed public notice of the continued hearing. The Board of County
+       Commissioners held a continued public hearing on June 8, 2022, then closed the
+       hearing but left the record open until June 15, 2022 for additional written evidence,
+       a rebuttal period ending June 22, 2022, and applicant’s final argument on June 29,
+       2022. Both parties submitted materials for the June 15 written evidence period.
+       COLW did not submit rebuttal materials for the period ending June 22, 2022.
+       Applicant submitted final written argument with his rebuttal on June 22, 2022 and
+       waived the right to submit additional materials on June 29, 2022. The record closed
+       on June 22, 2022.
+
+       The County Board deliberated and voted unaminously to approve the decision on
+       July 6, 2022.
+
+Cc.    LUBA Decision and Guidance: LUBA’s Final Opinion and Order for LUBA No. 2021-
+       028, issued on June 18, 2022, provides the basis for the remand. Given that other
+       components of LUBA’s final opinion are relevant to the Board of County
+       Commissioners’ reasoning and decision on remand, these findings quote
+       extensively from that opinion.
+
+       The relevant passage from LUBA’s opinion that explains the basis for the remand
+       states:
+
+                 “The challenged decision does not establish that the county concluded
+                 that compliance with the use and dimensional standards for the RI
+
+Exhibit F to Ordinance   2022-010                                                              2
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+             zone will obviously or inevitably limit the number of employees
+             employed by the most intensive potential industrial use of the
+             property, or that the county relied on the TIA as evidence to support
+             that conclusion. We decline to reach that conclusion under ORS
+             197.835(11)(b). It is not obvious to us that the RI zone regulations will
+             necessarily result in a small number of workers. Accordingly, we
+             agree with petitioner that remand is required for the county to
+             explain why it concluded that the potential uses would employ a small
+             number of workers.” Slip Op at 35.
+
+      On remand, the Board of County Commissioners must address the last sentence in
+      the above passage.
+
+      The Board of County Commissioners also finds that LUBA’s opinion accurately
+      explained the County's approach to demonstrating compliance with Goals 11 and 14
+      during the acknowledgment process implemented under Ordinances 2002-126 and
+      2002-127 and the effect of the acknowledgment of those provisions to this and
+      similar type decisions. LUBA correctly explained:
+
+             “To bring RI zoning into compliance with Goals 11 and 14, instead of
+             taking exceptions to those goals, the county elected to amend the
+             DCCP and DCC to limit the uses authorized in the RI zone to rural
+             uses. * * *, To comply with Work Task 14 and Goal 14, the county
+             amended the DCCP and DCC to restrict the types and intensity of uses
+             permitted in the Ri zone.
+
+             “The county relied on the building size limitation in the
+             Unincorporated Communities Rule as the primary reasons of ensuring
+             that industrial uses in the RI zone would remain rural, consistent with
+             Goal 14. * * *. The 2002 Ordinances restrict new rural industrial uses,
+             except primary processing of raw materials produced in rural areas to
+             a maximum of 7,500 square feet of floor space within a building. That
+             floor area limitation is codified in DCC 18.100.040(H)(1).
+
+             “Ordinance 2002-126 adopted what is now DCCP Policy 3.4.23, which
+             applies to land designated and zoned RI and provides: ‘To assure that
+             urban uses are not permitted on rural industrial lands, land use
+             regulations in the [RI] zones shall ensure that the uses allowed are
+             less intensive than those allowed for unincorporated communities in
+             OAR 660-22 or any successor. Ordinance 2002-127 amended DCC
+             chapter 18.100, the RI zone regulations. On January 23, 2003, DLCD
+             issued Order No. 001456, acknowledging the 2002 Ordinances as
+             consistent with Goal 14.” Slip Op at 18-19. See a/so, Slip Op 28
+
+Exhibit F to Ordinance 2022-010                                                          3
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+             (repeating DLCD acknowledged the 2002 RI zone regulations as
+             consistent with Goal 14).
+
+      Likewise, LUBA’s opinion repeatedly and correctly recognizes that the Board of
+      County Commissioners’ position, as stated in the original adopted findings for this
+      proceeding, is “that even the most intensive industrial use that could be approved
+      on the subject property under the RI regulations and use limitations would not
+      constitute an urban use.” Slip Op at 24. LUBA quoted further from the findings that
+      “found that the RI zone ‘effectively prevent[s] urban use of rural land’ by subjecting
+      all development in the RI zone to the requirements of DCC chapter 18.100[.]”. Slip
+      Op at 27. And LUBA correctly noted that “the county agreed with intervenor that
+      ‘the policies of the DCCP, implemented by DCC Chapter 18.100, which is an
+      acknowledged land use regulation, do not allow urban uses on RI designated and
+      zoned land.” Slip Op at 29. LUBA further noted that, “Petitioner does not assign
+      error to that finding on appeal.” Finally on this point, LUBA correctly stated,
+
+             “The county determined that the DCCP RI policies and implementing
+             DCC RI use and dimensional limitations will limit the scope and
+             intensity of industrial development to rural use. In particular, the
+             county references limitations on maximum floor area and
+             requirements for on-site sewage disposal and on-site wells or public
+             water systems.” Slip Op at 31.
+
+      Despite that correct understanding of the County's position, LUBA concluded that,
+      because the findings included the second-step Shaffer v. jackson County analysis, the
+      County must have concluded that the acknowledged zoning regulations were not
+      sufficient to ensure only rural uses of the property would take place. As LUBA
+      framed it,
+
+             “Accordingly, we assume for purposes of this decision, as the county did
+             and the parties do, that the fact that the RI zone regulations have been
+             acknowledged by DLCD to comply with Goal 14 is not independently
+             sufficient to demonstrate the challenged post-acknowledgment plan
+             amendment applying their plan designation and zone to the subject
+             property also complies with Goal 14.” Slip Op 29 (emphasis supplied).
+
+      The Board of County Commissioners explicitly disagrees with LUBA’s “assumption”
+      and statement about the position taken.     Neither the Board of County
+      Commissioners nor the Applicant took the position that the acknowledged RI zone
+      regulations are not independently sufficient to ensure that only rural uses of land
+      can be approved under those regulations. In fact, LUBA’s assumption is contrary to
+      the explicit position taken by both parties in this proceeding as plainly expressed in
+      the above-quoted passages from the findings as stated in the LUBA opinion.
+
+Exhibit F to Ordinance 2022-010                                                                4
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+       Furthermore, LUBA’s “assumption” reverses the reasoning behind why both the
+       County and the Applicant did not oppose proceeding to the second-step of the
+       Shaffer analysis. Shaffer expressly states that if a party challenges whether a
+       proposal would result in an urban use of rural land (which Central Oregon
+       Landwatch did), the local government is required to ask four initial questions.
+       Furthermore, if any one or more of those questions is not answered in the
+       affirmative (i.e., potentially not indicating a rural use), Shaffer states that the decision
+       maker must proceed to the next step. Shaffer is silent about whether a County with
+       a comprehensive plan and code acknowledged as consistent with Goal 14 is allowed
+       to skip that second step if there is even a single non-affirmative response,
+       nonetheless two as was the case in the initial decision. The Board of County
+       Commissioners does not have the authority to ignore the express directives of
+       LUBA’s Shaffer opinion, particularly since the other case cited in the findings and by
+       LUBA, Columbia Riverkeeper v. Columbia County, was decided in 2014, well after most
+       counties’ codes, to include the DCC, have been acknowledged as consistent with
+       Goal 14. The Board of County Commissioners proceeded to the second step of that
+       analysis because the case law said the Board of County Commissioners was
+       required to, not for the reason LUBA assumed.
+
+       If, as LUBA suggests in its footnote 9, the Shaffer analysis has been superseded by
+       the Unincorporated Communities Rule or acknowledgment of a land use code as
+       consistent with Goal 14, LUBA should expressly state so, because its subsequently-
+       dated rulings suggest that is not the case.
+
+       Furthermore, the Board of County Commissioners now expressly finds that the
+       policies and provisions of the DCCP and DCC are independently sufficient to both
+       demonstrate that post-acknowledgment plan amendments that apply the Rural
+       Industrial (RI) plan designation and zoning to rural land are consistent with Goal 14
+       and that uses and development permitted pursuant to those acknowledged
+       provisions constitute rural uses, do not constitute urban uses, and maintain the
+       land as rural land. Given that finding, any further analysis under Shaffer is
+       redundant and precautionary only.
+
+       However, given that LUBA remanded the decision for us to address our response to
+       one of the initial Shaffer inquiries, these findings now discuss Shaffer further.
+
+       One of the four Shaffer questions is, as the adopted findings explain, whether the
+       industrial use, “Is significantly dependent on a site-specific resource and there is a
+       practical necessity to site the use near the resource.” Rec-73. As the County Board
+       of Commissioners understands, under Shaffer, any industrial use that is not a
+       mining, logging or another use that utilizes an on-site resource would necessarily
+       result in a non-affirmative answer and would require the decision maker to proceed
+
+Exhibit F to Ordinance   2022-010                                                                 5
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+      to the second-step, which is to take one of the three options set forth in Shaffer and
+      subsequent opinions. Under Shaffer, as the Applicant and the County understand it,
+      that sole non-affirmative answer requires proceeding to the second step of the
+      analysis. Shaffer doesn't even require a local government to address all 4 first-step
+      questions at the first step if one of the questions is not answered in the affirmative;
+      the county is simply required to proceed to the second step, which Deschutes
+      County then did in the original findings.
+
+      Relatedly, any general application for the RI designation and zoning that does not
+      include a specific development proposal, as is the case here, cannot answer that
+      “site-specific resource” question in the affirmative because the ultimate use of the
+      property is unknown. In these situations, under Shaffer, the decisionmaker must
+      always proceed to the second step. The County's undertaking of that second step in
+      this proceeding, contrary to LUBA’s erroneous assumption, had nothing to do with a
+      belief that the acknowledged DCC provisions were not independently sufficient to
+      ensure that development would, in fact, be consistent with Goal 14. The County's
+      undertaking of the second step analysis had to do with the fact that at least one of
+      the first-step questions could not be answered in the affirmative and Shaffer
+      requires proceeding to the second step in such instances. In fact, the Applicant's
+      answer for the second-step analysis, despite non-affirmative responses to two of
+      the first-step questions in those findings, was that the DCCP and DCC provisions
+      were sufficient to ensure that development would be consistent with Goal 14 and
+      that those provisions, “[I]imit[ed] the allowed uses to effectively prevent urban use
+      of rural land[]” as stated in the original findings. The Board of County
+      Commissioners again concurs with that response. That conclusion is reached, in
+      large part, because DCC chapter 18.100 has been acknowledged by LCDC as
+      consistent with and fully implementing Goal 14 as LUBA recognized in its final
+      opinion and order. LUBA misconstrued the Board of County Commissioners’
+      reasoning.   LUBA’s “assumption” to the contrary was wrong.
+
+      The Board of County Commissioners finds nothing in Shaffer, Columbia Riverkeeper,
+      or any other case that applies the Shaffer analysis that has been cited by the parties
+      or LUBA, that requires the second step of the Shaffer analysis to disprove any of the
+      non-affirmative responses to any of the four first-step Shaffer questions. All a non-
+      affirmative first-step response requires is that the county proceed to the
+      requirements stated under Shaffer's second step. Furthermore, the cases state that
+      none of those first-step questions is dispositive regarding whether a proposal is
+      consistent with Goal 14. A non-affirmative response simply requires additional
+      analysis and findings via the second step. The County's obligation in that second-
+      step response is to do one of the following:
+
+             “(1) limit allowed uses to effectively prevent urban use of rural land,
+             (2) take an exception to Goal 14, or (3) adequately explain why the
+
+Exhibit F to Ordinance 2022-010                                                                 6
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+              proposed use, notwithstanding the presence of one or more factors
+              pointing toward an urban nature, should be viewed as a rural use.”
+              Columbia Riverkeeper v. Columbia County, 70 Or LUBA 171 aff'd without
+              opinion, 267 Or App 673, 342 P3d 181 (2014); See also, Shaffer v.
+              Jackson County, 17 Or LUBA 922, 925 (1989) (Shaffer II) (citing Shaffer I,
+               16 Or LUBA 871, 875 (1988), using different wording).
+
+      The purpose of Shaffer’s second step is not to necessarily further analyze the
+      response(s) to the first-step questions; it is to make the demonstration that a
+      proposal is consistent with Goal 14 despite the non-affirmative responses or for the
+      local government to take an exception to Goal 14 or include the property within a
+      UGB.
+
+      In written testimony on remand, COLW suggested that Shaffer stands for the
+      proposition that a finding only of a lack of need for urban services must lead to a
+      conclusion that the use is not rural. Shaffer states that such a finding alone, without
+      further explanation, is insufficient to support a conclusion that a proposed use (in
+      that case an asphalt batch plant) will be rural. This proceeding is unlike the one in
+      Shaffer. \n this instance, there is more in the original record and on remand to
+      support the conclusion that there will be a small number of workers and that the
+      uses permitted by the DCC under the development requirements imposed by the
+      RI-zone will allow only rural uses to be developed on the property. The supporting
+      evidence includes the numbers of employees derived from the TIA related
+      materials, the potential limitations on septic capacity on the property as well as the
+      application of the acknowledged DCC use and dimensional limitations for the Ri
+      zone.
+
+      Also, in written testimony on remand, COLW mischaracterized our original Shaffer
+      findings and LUBA’s resolution of those findings. Namely, COLW contended that our
+      initial decision found that no findings are possible for two of the four factors and
+      “the fourth factor indicates the proposal is not for a rural use.” The County Board of
+      Commissioners finds that description to be incorrect. The initial findings concluded
+      that two of the factors indicated the proposed uses would be rural (the number of
+      workers and the public facilities and services factors) and that for the other two,
+      there was insufficient evidence to support an affirmative finding. LUBA Record page
+      189. LUBA remanded only on the number of workers finding, thereby also affirming
+      our finding that the proposal does not require public facilities or services.
+
+      LUBA correctly noted that the original findings conclude that compliance with the
+      use limitations, dimensional requirements, parking and loading requirements, site
+      plan review requirements and review, and additional DCC requirements will limit
+      permissible RI uses on the property to rural uses and ensure that development is
+      consistent with Goal 14. Slip Op at 24; see also, Rec-190. The Board of County
+
+Exhibit F to Ordinance 2022-010                                                                7
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+      Commissioners finds that COLW failed to successfully challenge that ultimate
+      conclusion.
+
+      LUBA remanded the decision for the Board of County Commissioners to adopt
+      adequate findings related to one of the Shaffer first-step questions. Those findings
+      and related conclusions on remand are provided under Section I! below.
+
+D.    Deschutes County Land Use Regulations: As noted in LUBA’s opinion, the
+      Deschutes County Comprehensive Plan and Title 18 of the Deschutes County Code
+      have been acknowledged by LCDC as consistent with every statewide planning goal,
+      to include Goal 14.
+
+      The Comprehensive Plan states that the Rural Industrial plan designation and
+      zoning are applied to specific properties to provide compliance with state rules by
+      adopting zoning to ensure that those properties remain rural and that the uses
+      allowed there are less intensive than those allowed in unincorporated communities
+      as defined in OAR 660-022. Comprehensive Plan, Ch. 3, p. 11 (emphasis supplied).
+
+      Specific Comprehensive Plan Policies implement this statement. These include:
+
+            Policy 3.4.23 To assure that urban uses are not permitted on rural
+           industrial lands, land use regulations in the Rural Industrial zones shall
+           ensure that the uses allowed are less intensive than those allowed for
+           unincorporated communities in OAR 660-22 or any successor.
+
+           Policy 3.4.27 Land use regulations shall ensure that new uses authorized
+           within the Rural Industrial sites do not adversely affect agricultural and
+           forest uses in the surrounding area.
+
+           Policy 3.4.28 New industrial uses shall be limited in size to a maximum
+           floor area of 7,500 square feet per use within a building, except for the
+           primary processing of raw materials produced in rural areas, for which
+           there is no floor area per use limitation.
+
+           Policy 3.4.31 Residential and industrial uses shall be served by DEQ
+           approved on-site sewage disposal systems.
+
+            Policy 3.4.32 Residential and industrial uses shall be served by on-site
+           wells or public water systems.
+
+            Policy 3.4.33 Community sewer systems shall not be allowed in Rural
+            Industrial zones.
+
+Exhibit F to Ordinance 2022-010                                                              8
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+      The Deschutes County Code Chapter 18.100 RURAL INDUSTRIAL ZONE - R-l,
+      implements the above Comprehensive Plan policies. It limits the types of industrial
+      uses, whether permitted outright or through conditional approval, to rural industrial
+      uses at levels less intensive than for those allowed for in unincorporated
+      communities. DCC 18.100.010 and .020. The DCC further restricts those industrial
+      uses through use limitations, dimensional standards, off-street parking and loading
+      standards, site design, additional requirements, and solar setback restrictions. DCC
+       18.100.030 through .080.
+
+      The Board of County Commissioners expressly finds, as did DLCD in its
+      acknowledgment order, that rural industrial development of uses, permitted
+      outright by DCC 18.100.010 and conditionally under DCC.100.020, that is consistent
+      with the development limitations imposed by the DCCP and DCC is consistent with
+      Goal 14, constitutes rural use of rural land and does not constitute urban uses or
+      development.
+
+E.    Issues on Remand: The issue on remand concerns adequate findings regarding
+      the Shaffer inquiry whether the uses allowed under the proposal would employ a
+      small number of workers and, relatedly, how that may affect the second-step Goal
+      14 analysis and conclusion that the approved comprehensive plan and zone change
+      to RI will allow only rural use and not urban use of the subject property such that no
+      Goal 14 exception is required. LUBA succinctly framed the action to be taken on
+      remand:
+
+               “(Remand is required for the county to explain why it concluded that
+               the potential uses would employ a small number of workers.” Slip Op
+               at 35.
+
+      All other issues in this proceeding have either been resolved by LUBA or are
+      otherwise precluded because they were waived, not raised or otherwise not
+      preserved in the appeal to LUBA. These resolved and waived issues include, but are
+      not limited to:
+
+          e¢   Whether the applicant's TIA evidence provided the ‘worst case’ development
+               scenario that assumes the most intensive level of development that could be
+               allowed under RI zoning on the property given that the uses are subject to
+               zone, Site plan review and conditional use criteria that apply not only as a
+               result of any specific use, but also as a result of the property's location and
+               relationships to adjacent residential uses.
+          e    Challenges to the accuracy or credibility of the traffic-related evidence and
+               analysis including but not limited to traffic counts, whether it represents a
+               reasonable worst-case scenario, or is otherwise valid.
+
+Exhibit F to Ordinance 2022-010                                                                  9
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+          e    Whether the Deschutes County Comprehensive Plan limits the RI plan
+               designation to existing rural industrial development and cannot be applied to
+               the subject property.
+          e    That the proposal fails to comply with Goals 6 and/or 11.
+          e    That industrial development is a per se urban use that requires a Goal 14
+               exception if on rural land.
+          e¢   That the County misconstrued the Curry County decision as it applies to Goal
+               14.
+          e    Whether the County deferred its determination of Goal 14 compliance.
+          e    That the County is prohibited as a matter of law from analyzing Goal 14
+               compliance in the context of RI zoning in the absence of a specific proposed
+               industrial use.
+          e    Challenges to the finding that the RI zone “effectively prevent[s] urban use of
+               rural land” by subjecting all development in the RI zone to the requirements
+               of DCC chapter 18.100, which allow development that is less intense than
+               that allowed under the Unincorporated Communities Rule.”
+          e    Challenges to the finding that “the policies of the DCCP, implemented by DCC
+               Chapter 18.100, which is an acknowledged land use regulation, do not allow
+               urban uses on RI designated and zoned land.”
+          e    Challenges to the finding that “[t]he property is located about 3.25 miles
+               north of Bend and 6.5 miles south of Redmond via US 97.”
+          e    Challenges to the finding that the subject property is served with existing
+               private water service.
+
+il.   CONCLUSIONS OF LAW:
+
+      Summarizing the analysis and conclusions below, the Board of County
+      Commissioners concludes that the evidence in the record establishes that
+      development on the subject property under the requested plan designation and
+      zone change to Ri will employ a small number of workers. That conclusion is
+      consistent with the Board's original decision, which LUBA has otherwise affirmed.
+      The Board of County Commissioners concludes that approval of the application and
+      the reasonable worst case scenario of approximately 90 employees, will continue to
+      allow only rural use of rural land on the subject property. The Board of County
+      Commissioners again approves the requested plan designation and zone change
+      applications.
+
+      In the alternative and as a precaution only, in the event that LUBA disagrees with
+      our conclusion that the proposal will only allow development that will employ a
+      small number of workers, the Board of County Commissioners concludes that, even
+      if there is the potential that the uses allowed could employ more than a small
+      number of workers, the RI zone regulations have been acknowledged by DLCD to
+      comply with Goal 14 and the application of those regulations is independently
+
+Exhibit F to Ordinance 2022-010                                                              10
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+      sufficient to demonstrate that this post-acknowledgment plan amendment, which
+      applies the RI plan designation and zone to the subject property, also complies with
+      Goal 14. The adopted and acknowledged use limitations, dimensional standards,
+      off-street parking and loading standards, site design, additional requirements, solar
+      setbacks, and restrictions imposed under DCC 18.100.030 through .080 and other
+      invoked DCC provisions so limit the scale, scope and intensity of allowed uses and
+      development on the subject property to effectively prevent urban use of rural land.
+      The Board of County Commissioners’ conclusion now, as it was originally, is that the
+      DCC 18.100 provisions that will apply to all development on the property will ensure
+      that any allowed uses and development will constitute rural use of rural land
+      consistent with Goal 14 and related comprehensive plan rural and urbanization
+      policies even if one or more uses does not necessarily employ a small number of
+      workers. Consequently, an exception to Goal 14 is not required to approve the
+      applications. Under this precautionary alternative analysis, the Board of County
+      Commissioners approves the requested plan designation and zone change
+      applications.
+
+      Development allowed under the proposed plan designation and zone change
+      will employ a small number of workers and constitutes a rural use of rural
+      land.
+
+      Given that there is not a specific development proposal for the subject property, it is
+      difficult to make a precise determination on the number of employees resulting
+      from the proposed application. That does not mean, however, that the analysis of
+      this factor is mere supposition or is not based on evidence a reasonable decision
+      maker would rely upon. Three pillars underly the Board of County Commissioner's
+      analysis: (1) the site context; (2) the applicable DCC 18.100 requirements and other
+      relevant standards; and (3) the evidence and analysis in the record, to include the
+      Transportation Impact Analysis (TIA) and supplemental analysis provided during the
+      remand proceedings by Transight Consulting and evidence concerning the
+      suitability of the site’s soils for septic systems. Based upon this evidence in the
+      record the Board of County Commissioners concludes that approval of the
+      applications and the development it will permit under a reasonable worst-case
+      scenario will result in 90 workers, which is thereby recognized as a “small” number
+      of workers.
+
+      As an initial matter, the Board of County Commissioners notes that neither LUBA
+      nor any party has identified any regulations or case law that establish, as a matter of
+      law, what constitutes a “small” number of employees. The record shows that
+      Central Oregon Landwatch has argued that “small” means 1 to 3 workers per
+      property, but cites to no statute, rule, code provision or case that mandates that as
+      the standard. The Board of County Commissioners accepts that 1 to 3 workers per
+      property would be small, but rejects the idea that more than 3 workers per property
+
+Exhibit F to Ordinance 2022-010                                                              11
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+       cannot constitute a small number of workers.    It is common   for commercial and
+       industrial uses, even in rural areas, to have more than 3 numbers of workers and
+       still constitute a rural use.
+
+       During the remand proceedings, COLW submitted an analysis of the City of Bend’s
+       economy that indicates the average “firm” size had eight employees. Based on that
+       evidence, COLW asserts that eight (8) workers is an “urban” number of workers.
+       Applicant responds that the inquiry remanded by LUBA concerns whether the uses
+       will employ a “small number of workers” not an “urban” or “rural” number of
+       workers and that in order to characterize the number of workers as “urban” or
+       “rural” requires the analysis of a number of other factors. The Board of County
+       Commissioners agrees with Applicant and that the focus of this remand proceeding
+       is to determine whether the uses allowed will employ a small number of workers.
+
+       The Board of County Commissioners finds that the site context limits the
+       development potential of the subject property. The Applicant’s extensive evidence
+       regarding surrounding land uses establishes that there are adjacent residential
+       dwellings located to the north, west and south of the subject property. The
+       proximity of those residential uses trigger Rl-zone development limitations that
+       further restrict the type and intensity of development that can occur on the
+       property. The adjacent residential dwellings, in addition to the location of major
+       roads adjacent to and through the subject property, also trigger greater setbacks
+       than otherwise would be required, which further limits the amount and intensity of
+       development that can occur on the subject property. That in turn limits the number
+       of workers that can be employed on the subject property as it is developed with Ri
+       permitted uses under the Rl-zone development standards.
+
+       Given the location and number of those residential uses, much of the property is
+       within 600 feet of a residential dwelling and consequently, pursuant to DCC
+       18.100.010 and 18.100.020(A), all of the uses permitted outright under DCC
+       18.100.010 in those areas are subject to conditional use review. Given the
+       property's location adjacent to and bisected by major roadways and residential
+       uses, the footprint available for development is further reduced pursuant to DCC
+       18.100.040(C) and (D), which impose greater set-back standards than normally
+       apply. The TIA provided by the applicant, at Rec-1267 noted by the applicant,
+       contains a diagram showing the existing parcel sizes, setbacks, and easements on
+       the subject property. The TIA explains that approximately 15.5 acres of the property
+       is developable, with one acre presently developed. Within that buildable area, DCC
+       18.100.040(B) further limits any lot within 600 feet of a residence to 70 or less
+       percent lot coverage, to include buildings, storage areas or facilities, and required
+       off-street parking and loading areas. Last, DCC 18.100.040(H)(1) limits the maximum
+       size of a building anywhere on the Rl-zoned site to 7,500 square feet of developed
+       floor space per lot, whether as a single building or combined buildings per lot.
+
+Exhibit F to Ordinance   2022-010                                                           12
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+      While it may seem that none of the above standards expressly speak to the number
+      of workers that may use a site, the above affects the amount of floor space that can
+      be reasonably built on the subject property. As Transight Consulting’s letter on
+      remand and the TIA plainly establishes, vehicle trips that include worker trips is
+      based on the size of the building for permitted uses. Contrary to COLW's assertion
+      that there is no way to determine the number of workers that might be employed
+      by an unidentified factory, the ITE Trip Generation manual is based on just that type
+      of general use analysis and is not dependent on a specific development proposal.
+      As Transight Consulting explains, the TIA process yields a total daily number of trips
+      per use category based on building size(s). The evidence submitted on remand
+      supports that statement.    The Goal 12 rule relies on that very ability to estimate the
+      traffic flow from different possible use scenarios and requires the analysis to use a
+      reasonable “worst case” development scenario. These ITE-based daily trip counts
+      incorporate all types of trips, to include worker trips, deliveries, customers and
+      business clients. Transight Consulting’s letter and TIA, and its reliance on ITE best
+      practices, constitutes credible and reliable evidence that takes into account the
+      development restrictions the code imposes on the subject property, the maximum
+      building sizes allowed under the code, and the number of workers associated with
+      various uses and permitted building sizes.
+
+      The Transight Consulting TIA included in the record, as summarized by the Transight
+      Consulting letter submitted for the remand proceedings, sets forth a reasonable
+      “worst case” scenario about how the subject property could be developed under the
+      proposed Ri pian designation and zoning at applicant's noted record item Rec-1269
+      and Table 2. The Board of County Commissioners notes that County Transportation
+      staff expressly agreed with the assumptions, methodology and conclusion of the
+      TIA, although staff did not fully agree with its initial proposed mitigation measures.
+      ODOT likewise did not challenge the TIA’s assumptions, methodology or conclusions
+      other than posing several questions regarding the underlying basis and growth
+      rates used in the calculations and requesting additional safety analysis not relevant
+      here. ODOT did not object to or otherwise challenge Transight Consulting’s
+      responses to ODOTs questions.
+
+      At the remand public hearing, COLW claimed that the TIA analysis is irrelevant to the
+      number of workers issue and that the worst-case scenario for Goal 12 purposes is
+      irrelevant to the number of workers issue. The Board of County Commissioners
+      disagrees. The TIA analysis methodology takes into consideration the types of uses
+      the zoning code permits for the property, the size of development that can be
+      authorized, and the traffic flow that is generated from the number of workers for
+      those uses in those sized buildings, as well as the traffic volumes that deliveries and
+      customers to those uses and permitted development world bring under a worst-
+      case development scenario. In short, embedded in the TIA analysis is the number of
+
+Exhibit F to Ordinance 2022-010                                                               13
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+       workers that will result from the most intensive development of the property
+       permissible under the code.
+
+       The Board further notes that COLW did not directly challenge the accuracy or
+       credibility of the Transight Consulting TIA. Significantly, COLW did not in any way
+       challenge during the prior local appeal proceeding or at LUBA whether the TIA’s
+       development scenario represented a reasonable “worst case” development scenario
+       as is required by Goal 12. The Board also notes that COLW made no effort to
+       submit evidence during the original proceeding or on remand regarding
+       development of the property consistent with the constraints imposed by the DCC
+       and the subject property's characteristics. During testimony on remand, COLW
+       alleged that “thousands” of workers could be employed under RI development of
+       the subject property, but provided no evidence that would support that claim. That
+       unsubstantiated claim is contradicted by the daily trip count data provided in the
+       TIA, which County Transportation Staff concurred and ODOT did not object to. The
+       Board of County Commissioners find the TIA to be credible and that it provides a
+       “worst case” development scenario for the subject property.
+
+       The Board of County Commissioners note that, as found in the original adopted
+       findings, the Applicant will be able to partition or subdivide the subject property,
+       and such subdivision may remove some, but not all, of the limitations on
+       development imposed by DCC standards. Furthermore, the Board notes that it is
+       possible to discern from TIA Table 2, in record item Rec-1269 per the applicant,
+       based on the maximum permitted building size of 7,500 square feet, that the
+       property could be subdivided into 10 lots in a reasonable “worst case” scenario.     See
+       also, Transight Consulting remand letter, Table 1 (indicating similar data).
+
+       On remand, Transight Consulting submitted a letter that explains what the 63,160
+       square feet of building uses that could be developed on the property on those 10
+       lots could represent in terms of the numbers of workers employed by the uses
+       described in the TIA. The Transight Consulting remand letter states that the “worst
+       case” scenario would employ 90 workers. Table 2 of the remand letter shows the
+       breakdown of total employees based upon the various land uses. Transight
+       Consulting further testified at the hearing and provided additional background
+       material to substantiate its conclusions. The Board of County Commissioners finds
+       that evidence credible and agrees that 90 workers is a “worst case” scenario
+       regarding the potential number of workers for the subject property given the fact
+       that the ITE use data is based on suburban employment levels and, as the Transight
+       consulting letter explains, rural uses “tend to result in more land-intensive uses as is
+       evident by the surrounding development patterns of similarly zoned industrial
+       lands.” Despite that aspect of the ITE data, the Board of County Commissioners
+       bases its conclusion on the figure shown by the ITE analysis - 90 workers. The
+
+Exhibit F to Ordinance 2022-010                                                               14
+File Nos. 247-20-000438-PA/439-ZC    (247-22-000287-A)
+       Board of County Commissioners concludes that for a property of this size, 21.54
+       acres, 90 workers is a small number of workers.
+
+       In addition, Transight Consulting’s analysis further explains that this does not mean
+       that 90 employees will be on the property at any given time. Rather, Transight
+       Consulting states that approximately half of the employees are likely to be at work
+       and present on the property at any given time.
+
+       An examination of the above evidence is revealing. The most intensive of the
+       remand letter Table 2 “worst case” scenario listed uses is specialty trade contractor.
+       With 12,000 square feet of building, under the DCC’s development standards the
+       total employees (34) would be spread over two different lots.   That makes 17
+       workers each for those two lots. At any given time, half, or 9 employees would be
+       on each lot. The Board of County Commissioners finds that to be a low number of
+       workers per industrial use - at either the 17 or 9 number of workers. Each of the
+       other “worst case” scenario uses have an even lower number of workers per lot.
+       Worth noting is that the mini-storage facility example posited by COLW has among
+       the lowest number of workers of any permitted use on the subject property as
+       demonstrated by the Transight Consulting responding evidence.
+
+       During the remand hearing, the Board of County Commissioners inquired whether
+       there were any other site-specific considerations that might limit the number of
+       workers that could be permitted on the subject property. In response to an inquiry
+       regarding the septic capacity of the subject property's soils, the Applicant submitted
+       the detailed soiis study for the property (“Borine study”) and an email exchange
+       between the Applicant and Todd Cleveland, the County’s Environmental Soils
+       Supervisor. The analysis and conclusions reached by the County's expert regarding
+       the number of workers that could be employed on the property are similar to those
+       noted above.
+
+       Mr. Cleveland explained that the soil mapping shows that at least 60% of the subject
+       property is not suitable for any type of onsite treatment system and that none of
+       the property is suitable for a standard septic system. Mr. Cleveland further explains
+       that any system, whether an absorption or holding tank system, will only operate
+       with constraints that ensure very low total water usage. DEQ’s rules will have the
+       direct effect of limiting the types of industrial uses and the total number of persons
+       at any of the facilities. Mr. Cleveland concluded that, even with multiple holding
+       tank facilities, the total number of workers that could be employed on the site
+       would number in the dozens, not hundreds, because of the site limitations. The
+       Board of County Commissioners recognizes that this information is preliminary and
+       serves informational purposes, not providing any specific approvals, and provides
+       adequate general guidance regarding the impacts of septic feasibility and its
+       impacts on the potential number of employees. The Board finds the Borine study
+
+Exhibit F to Ordinance 2022-010                                                                15
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+      and Mr. Cleveland's analysis and conclusions from that study to be credible, albeit
+      general in nature. The analysis and conclusions are based on site-specific evidence
+      and are consistent with what Mr. Cleveland states is typical elsewhere in the county.
+
+      COLW argues that Mr. Cleveland’s testimony is not probative and should be rejected
+      because: the soils data does not satisfy all the requirements for a DEQ septic site
+      evaluation; the evidence does not provide an exact number of workers that could be
+      employed on the site; and that the analysis fails to consider potential use of a
+      composting or combustion waste disposal facility or use of surrounding lands for
+      septic drainfields. The Board of County Commissioners disagrees for the following
+      reasons.
+
+      Whether the soils study Mr. Cleveland bases his opinion on satisfies DEQ septic site
+      evaluation regulations does not go to the probative value of Mr. Cleveland's
+      analysis, it goes to the scope of the underlying evidence. The Board of County
+      Commissioners finds that Mr. Cleveland appropriately qualified his analysis,
+      indicating both the soil study’s value and its limitations and explaining where
+      additional information would be required in order to make more precise
+      conclusions. The Board finds the evidence both probative and credible for the
+      professional opinion being expressed within the limitations explained by Mr.
+      Cleveland. The Board also notes that this information is solely for the purpose of
+      anticipating the potential number of employees, and that further analysis would be
+      required prior to any use operating on the property.
+
+      As noted above, although Mr. Cieveland does not offer an exact number of workers
+      that on-site DEQ approved systems could support, the “dozens and not hundreds”
+      conclusion is consistent with the Transight Consulting analysis and rebuts COLW's
+      claim that it could mean 180 or 250 (i.e., hundreds) workers. The lack of exactness
+      does not make Mr. Cleveland's analysis not probative.
+
+      Regarding potential alternative means of disposal, Mr. Cleveland's analysis is
+      directed to the suitability of the site to on-site septic systems and is probative as to
+      the suitability of such systems. That Mr. Cleveland’s analysis does not consider
+      other system types or off-site drainfield locations goes to the scope of the analysis,
+      not its probative value.
+
+      With respect to the cited sewage disposal systems, the Board of County
+      Commissioners notes that COLW submitted no evidence that such systems could be
+      utilized on the property, which is relevant because neither composting nor
+      combustion waste facilities is a permitted use in the RI zone. Likewise, COLW’s
+      claims that an “off-site” septic drainfield could be used is contrary to the express
+      requirements of DCC 18.100.030(K) which requires industrial uses to “be served by
+      DEQ approved on-site sewage disposal systems.”
+
+Exhibit F to Ordinance 2022-010                                                                  16
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+       Mr. Cleveland’s conclusion, that an on-site septic system may act as a further
+       restriction on the level of development and, consequently, further limit the number
+       of workers on the property to that less than what could otherwise be permitted
+       under a DCC worst-case development scenario, is credible and probative to the
+       issue on remand.      COLW’s arguments do not demonstrate otherwise.
+
+       COLW also contends that the Board of County Commissioners’ acceptance of and
+       reliance on Mr. Cleveland's analysis opens the decision up to charges of prejudice
+       and prejudgment and claims of bias. The County Commissioners expressly state
+       that they are not biased or prejudiced in either their review of Mr. Cleveland’s
+       statements or with respect to this proceeding. Mr. Cleveland’s review of the study
+       presented to him is no different than the County or ODOT analysis of the Applicant's
+       TIA. The Board of County Commissioners reaches this decision on remand by
+       applying the relevant standards based on the evidence and arguments presented in
+       this remand proceeding and the original proceeding. The Board of County
+       Commissioners has not prejudged the evidence or the final decision in this remand
+       proceeding.
+
+       The Board of County Commissioners also notes that sewer services cannot be
+       provided to the subject property and that any approval for development will require
+       DEQ approval for the proposed septic system. If a normal on-site septic system is
+       used, this site-specific soil condition will likely further ensure that employment on
+       the subject property under RI zoning is limited to a small number of workers.
+
+       The Board of County Commissioners concludes that, given the number of lots and
+       the types of industrial uses that could be developed on the subject property even
+       under a “worst case” scenario, as well as the limitations on development imposed by
+       the soil conditions for the property, the industrial uses that could be approved
+       under the DCC will employ a small number of workers.     The Board of County
+       Commissioners reaches this conclusion whether one looks at the subject property
+       as a whole, employing 90 workers, or as individual subdivided/partitioned lots with
+       the smaller numbers of workers per lot that would be permitted under the DCC
+       restrictions, as explained in the Transight Consulting materials.
+
+       During the original local appeal proceedings, COLW argued that the number of
+       employees “could number into the hundreds per factory.” As noted above, at the
+       hearing on remand COLW raised that generalized amount to “thousands.” The
+       Board of County Commissioners notes that COLW did not submit any evidence to
+       support such allegations. As the Applicant rightly explained, attorney assertions do
+       not constitute evidence. The Board further notes that COLW submitted no evidence
+       regarding the number of workers typically employed by rural industrial uses, nor did
+       COLW attempt to explain in any way, how the number of workers it claimed could
+
+Exhibit F to Ordinance   2022-010                                                            17
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+       be employed on the subject property is possible under the scale of development
+       consistent with the limitations imposed on uses and development by DCC Chapter
+       18.100.
+
+       It is difficult to imagine “hundreds” of workers in a 7,500 square foot building.
+       Furthermore, for example, COLW’s claim that 300 workers or more could be
+       employed at a single factory would likely result in an average daily trip count
+       approaching 600 (assuming some workers carpool) for that factory for only the
+       workers. That trip count would not include deliveries to or from the factory, or visits
+       by clients. That daily trip count number is refuted by the ITE-based daily trip count
+       evidence in the record, which COLW made no effort to challenge in the previous
+       proceeding. Simply put, the claim of hundreds of employees per lot or thousands
+       for the entire site cannot be reconciled with the TIA analysis, to which County
+       Transportation staff concurred. That analysis establishes much lower daily trip
+       counts for the entire subject property under a reasonable “worst case” development
+       scenario than COLW contends could be allowed under the DCC standards for a
+       single factory. Furthermore, such claims are refuted by the soils evidence and
+       analysis provided by Todd Cleveland, the County's Environmental Soils Supervisor.
+       Mr. Cleveland concluded that, given the poor soils on the property and the unusual
+       septic systems that would be required to serve rural industrial uses, at best “dozens
+       “of workers could be employed on the subject property not “hundreds.”       Mr.
+       Cleveland also indicated that the soils conditions would limit the types of rural
+       industrial uses to those that produce a low volume of waste water.
+
+       Given the above evidence regarding a worst case deveiopment scenario under the
+       DCC and further limitations on development posed by the soil conditions on the
+       property, the Board of County Commissioners rejects COLW's assertion that the
+       Applicant must submit evidence or the Board must make findings regarding every
+       type of possible use or factory - be it a cellophane, cork or feathers factory or a
+       mini-storage unit. Nothing COLW has entered into the record undermines the
+       Applicant's evidence. Likewise, none of the potential development scenarios
+       described by COLW, such as 122 factories each 7,500 square feet in size, could be
+       developed on the subject property. Approval of such scenarios are not possible
+       under the DCC. The Board of County Commissioners hereby adopts Applicant's
+       responses to each of the posited scenarios as to the unfeasibility of those proposals
+       under the DCC Chapter 18.100 development standards as its own. Consequently,
+       the Board of County Commissioners finds as not credible COLW’s various
+       unsubstantiated claims regarding possible numbers of workers that could be
+       employed on the property.
+
+       One final comparison is worth noting.   The unincorporated communities rule at OAR
+       660-022-0030(3)(c) limits new industrial uses to “small-scale, low impact uses[.]”   As
+       discussed above, the purpose for RI zoning is to ensure that the uses allowed are
+
+Exhibit F to Ordinance   2022-010                                                                18
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+       less intensive than those allowed for unincorporated communities. OAR 660-022-
+       0030(11) goes on to state that the size of such a “small-scale” industrial building
+       shall not exceed 40,000 square feet of floor space for unincorporated communities
+       and 60,000 square feet of floor space for urban unincorporated communities. By
+       comparison, DCC 18.100.040(H)(1) limits the maximum size of a building in the RI
+       zone to 7,500 square feet of floor space, which is less than one-fifth the size of a
+       “small-scale” unincorporated community industrial building. As the Transight
+       Consulting TIA plainly demonstrates, trip counts, to include employee vehicle trips,
+       are dependent on building sizes in association with a given use. It is reasonable to
+       deduce that, at one-fifth the permissible building size of a “small-scale”
+       unincorporated community industrial use, there will be a corresponding reduction
+       in vehicle trips, to include numbers of workers and their vehicle trips, under the DCC
+       Ri development limitations.       If only “small-scale” industrial uses are permitted in
+       rural unincorporated communities, it stands to reason that one-fifth of “small-scale”
+       is even smaller scale, with a correspondingly small number of workers.
+
+       For the reasons provided above, the Board of County Commissioners conclude that
+       the evidence in the record demonstrates that industrial uses and development that
+       could be approved under the proposed RI plan designation and zone change under
+       a reasonable worst case scenario would employ a small number of workers.
+       Because this conclusion is consistent with our previous determination and LUBA
+       denied each of COLW's other assignments of error regarding all other portions of
+       the Board of County Commissioners’ Goal 14 and the Shaffer analysis in the original
+       decision, the Board of County Commissioners again approves the requested plan
+       designation and zone change applications.
+
+       Alternatively, even if the plan designation and zone change will employ more
+       than a small number          of workers as a matter of law, the provisions of DCC
+       Chapter 18.100 will ensure that any allowed uses and development will
+       constitute rural use of rural land.
+
+       In the alternative and as a precaution only, if LUBA concludes that the above
+       determination that the proposal will employ a small number of workers is in error
+       the Board of County Commissioners adopts the following findings based on the
+       presumption that approval of the applications will allow “more” than a “small
+       number of workers” on the property.
+
+       The Board of County Commissioners reiterate, as LUBA’s opinion recognizes, that
+       DLCD's acknowledgment of the DCCP and DCC as consistent with Goal 14 was not
+       based on measures that limited the number of employees permitted on land zoned
+       rural industrial. Rather, during acknowledgment the County took a different
+       approach and adopted DCCP and DCC provisions that operate to limit the types and
+       intensity of the uses allowed and its related development. Framed differently,
+
+Exhibit F to Ordinance   2022-010                                                                 19
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+      DLCD’s acknowledgement of the DCCP and DCC as consistent with Goal 14 and
+      allowing only the rural use of rural land is independent of the number of workers
+      that may be ultimately employed by permitted uses developed consistent with the
+      DCC limitations. In short, Shaffer’s “small number of workers” inquiry has little
+      significance regarding whether the DCC is consistent with Goal 14 and adequately
+      imposes limits on allowed uses to ensure they constitute rural use of land. Even if
+      there may be more than a “small” number of employees, that fact alone does not
+      categorically mean that the uses allowed under the adopted and acknowledged DCC
+      standards do not constitute a rural use of rural land. Consequently, the potential
+      number of workers alone is not a basis to conclude that the DCC limitations do not
+      ensure that only rural uses are approved on rural land. There is no County or State
+      standard or approval criteria for this application that make the number of workers a
+      determining factor for approval of the application.
+
+      Nothing in state statutes, administrative rules, Shaffer or any other case law cited to
+      the Board of County Commissioners stands for the proposition that a use can only
+      constitute a rural use on rural land if it employs a small number of workers. Such a
+      contention would be contrary to DLCD’s acknowledgment of the DCCP and DCC as
+      well as with express statements in Shaffer and other caselaw that says the “small
+      number of workers” and other first-step Shaffer questions are not determinative of
+      whether rural use of rural land will flow from the decision, they are only indicators
+      that further inquiry and possible actions are required. In this instance, the evidence
+      in the record shows what a “worst case” development scenario would look like on
+      the subject property under the adopted and acknowledged DCC provisions.
+      Deveiopment under the DCC is not unlimited as COLW’s testimony suggests. The
+      evidence in the record establishes that the types of uses and levels of activity
+      permitted under the DCC are consistent with Goal 14’s mandate to allow only rural
+      use of rural land. Indeed, LUBA affirmed our Goal 14 conclusions, rejecting COLW’s
+      Goal 14 challenges.
+
+      As discussed above, the TIA demonstrates that, even if LUBA determines that the
+      evidence does not support the conclusion that the allowed uses will employ a
+      “small” number of workers, that number is not substantial, particularly given the
+      total number of vehicle trips development of the site could produce in a “worst
+      case” scenario. As discussed above, that relatively low number of vehicle trips is the
+      direct result of acknowledged   DCC standards, such as the DCC 18.100.040(H)(1)
+      dimensional standard that imposes a 7,500 square foot maximum for a building or
+      buildings in a single use on an individual lot, and other standards that apply in this
+      instance such as the applicable 70 percent lot coverage limitation and setback
+      requirements. Those restrictions limit the scope and intensity of the allowed
+      development on the property. That analysis is just as valid here as it is above, even
+      if LUBA reaches a different conclusion regarding whether the possible number of
+      employees that the daily trip totals suggest is “small.” That possible characterization
+
+Exhibit F to Ordinance 2022-010                                                                20
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+      for the number of workers does not change the fact that DLCD has acknowledged
+      that development of the allowed uses under the development restrictions imposed
+      by the DCC will constitute rural use of rural land consistent with Goal 14.
+
+      COLW contends that the issue of whether the RI zone has been determined to be in
+      compliance with Goal 14 by prior acknowledgement was waived by the Applicant,
+      claiming that the Court of Appeals so held. The Board of County Commissioners
+      rejects the argument that the issue of DLCD’s acknowledgment of the RI zone’s
+      consistency with the Statewide Planning Goals, to include Goal 14, has been waived.
+      The Court of Appeals statement quoted by Appellant concerned whether the
+      argument, “that LUBA should not have applied the Shaffer test at all” had been
+      waived. Central Oregon Landwatch v. Deschutes County, 315 Or App 673, 680, 501 P3d
+      1121 (2021). That is not the same as saying that the issue of whether the DCC is
+      acknowledged as consistent with Goal 14 and the other Statewide Planning Goals
+      has been waived. The goal compliance issue has not been waived. As quoted
+      extensively above in Section C of these findings, LUBA recognized that the DCC has
+      been acknowledged as consistent with Goal 14 and that our original findings
+      repeatedly asserted that the DCC is consistent with Goal 14 such that “that even the
+      most intensive industrial use that could be approved on the subject property under
+      the RI regulations and use limitations would not constitute an urban use.” Central
+      Oregon Landwatch v. Deschutes County, _ Or LUBA __ (LUBA No 2021-028, June 18,
+      2021) (Slip Op at 24). The Board of County Commissioners also notes, as discussed
+      in Section C above, that LUBA “assumed” we did not believe the application of our RI
+      zone regulations was not sufficient to ensure development would comply with Goal
+      14. id, Slip Op at 29. As explained above, LUBA's “assumption” was incorrect.   LUBA
+      did not conclusively resolve that issue and it has not been waived.
+
+      At the remand hearing and in written materials, COLW made various claims about
+      potential impacts from different development scenarios. The Board of County
+      Commissioners find none of those scenarios to be credible. The most specific of the
+      COLW development scenario claims is that 122 buildings, each 7,500 square feet in
+      size, could be built on the property if the RI plan designation and zoning were
+      approved. As the Applicant explained, that figure represents 915,000 square feet of
+      building space, which is equivalent to the entire 21-acre subject property. The
+      Board of County Commissioners finds that such a development scenario could not
+      be approved for the subject property because it disregards the limitations imposed
+      by the DCC setback standards, 70 percent Jot coverage on large portions of the
+      property and all other development standards discussed in these findings. COLW’s
+      claim that a mini-storage facility could be developed on the property that has 18,000
+      units is not based on any evidence that such a facility could be designed in a
+      manner that complies with the DCC development standards noted above.
+      Furthermore, COLW’s mini-storage vehicle trip and employee claims are refuted by
+      Transight Consulting evidence that addresses vehicle trips and numbers of
+
+Exhibit F to Ordinance 2022-010                                                            21
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+      employees for mini-storage facility uses. Similarly, COLW’s allegations about
+      cellophane, cork and feather factories are not supported by any evidence in the
+      record and represent mere allegations. The Board of County Commissioners finds
+      that such extreme claims so undermine COLW’s credibility as to make any
+      statement or assertion by COLW, not supported by explicit, detailed factual
+      evidence, highly suspect and not credible. The Applicant carried his burden of proof
+      with credible evidence. Rejecting arguments and scenarios that are not based on
+      any evidence in the record or that represents development that cannot be approved
+      under the acknowledged DCC development standards does not shift the burden of
+      proof as COLW has argued.
+
+      The Board of County Commissioners further note that the original decision that
+      concluded the proposal will prevent the urban use of rural land was based, in part,
+      upon transportation considerations. Those considerations necessarily included the
+      TIA. The Board of County Commissioners’ analysis of the TIA and the conclusions
+      reached were based on the daily trips generated under that “reasonable worst-case”
+      development scenario and are valid regardless of whether the number of worker
+      trips within those traffic volumes is properly classified as a “small” or “more than
+      small” number of workers. The Board of County Commissioner's conclusion is the
+      same here as with the initial decision - the development of uses represented by a
+      “worst case” rural industrial development of the site under the DCC maintains the
+      land as rural land consistent with Goal 14. Whether the 90 workers represents a
+      “small number or workers” or not, does not change our ultimate Goal 14 conclusion
+      or the second-step of our Shaffer analysis. Our conclusion remains that the DCCP
+      and DCC so limit the aliowed uses as to effectively prevent urban use of rural land,
+      and the evidence supports that conclusion. Again, COLW presented no evidence
+      that challenges, nonetheless refutes, that underlying evidence, nor did COLW
+      challenge on appeal to LUBA any of the other findings from our original decision
+      that support the Board's ultimate conclusion.
+
+      Other acknowledged DCC standards similarly restrict the scope and intensity of
+      permissible RI uses such that approval of development proposals under the
+      acknowledged standards ensure that only rural uses will occur on rural land. For
+      example, DCC 18.100.030(B) limits uses on lots adjacent to residential dwellings to
+      no more than 30 truck trailer or other heavy equipment trips per day. That is not an
+      urban level of activity. More importantly, this is the first time that a vehicle trip cap
+      by type - to include employee, customer and delivery vehicle trips - has been
+      assigned to an acknowledged DLCD RI approval standard within the county code to
+      ensure approved uses remain rural and compatible with surrounding uses. That
+      standard demonstrates that there exists a relationship between vehicle trips and
+      the intensity of approved rural industrial uses, to include the number of employees
+      (who may be driving such vehicles to and from the property during the course of
+      business). That limitation applies to portions of the subject property given the
+
+Exhibit F to Ordinance 2022-010                                                              22
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+      relationship of the property to surrounding residential lots and imposes strict limits
+      on activities that can be approved for the subject property.
+
+      Likewise, DCC 18.100.030(K) and (L) limit industrial uses to those that can be served
+      by DEQ approved on-site sewage disposal systems and on-site wells or public water
+      systems respectively. Again, those two provisions operate to ensure only rural uses
+      are permitted and developed on rural industrial land by greatly limiting the services
+      that could facilitate larger more intensive services, much like limiting building size.
+      Such limitations are significant for the subject property. The soil suitability evidence
+      submitted during the remand proceeding establishes that 60% of the property is not
+      suitable for any type of onsite treatment system and that none of the property is
+      suitable for a standard system. The costs of utilizing a holding tank system as well
+      as the extreme volume limitations of such systems means that uses that involve the
+      use and disposal or high volumes of water, or that employ a high number of
+      workers that will have sewer needs will not be able to satisfy the DCC requirements
+      for DEQ permits and ultimately cannot be approved for the subject property.
+
+      Continuing with the DCC’s development limitations, other provisions restrict allowed
+      uses on the subject property due to the fact that most of the property is within 600
+      feet of a residential dwelling. DCC 18.100.030(D) prohibits uses that emit odors,
+      dust, fumes, glare, flashing lights, noise or similar disturbances perceptible without
+      instruments more than 200 feet in the direction of an affected residential use. That
+      limitation greatly reduces the intensity of permissible development.    Also, DCC
+      18.100.020(A) mandates that even permitted uses within 600 feet of a residential
+      dweiling be subject to conditional use review.   The general standards governing
+      conditional uses under DCC 18.125.015(A) and (B) require that the site be suitable
+      for the proposed use, to include the “operating characteristics of the use,” and that
+      the proposed use be compatible with existing and projected uses on surrounding
+      properties, which are rural uses. An industrial use that has excessive disturbances
+      or is not consistent with the rural designation and zoning of the subject property or
+      the surrounding rural designated and zoned properties cannot be approved on the
+      subject property under the above standards.
+
+      While COLW argued during the initial proceedings that giant lumber and pulp mills
+      or plastic manufacturing factories could be approved on the subject property and
+      that such uses could employ hundreds of employees, COLW made no effort to
+      demonstrate through evidence or argument that any such proposal could satisfy
+      any, nonetheless all, of the limiting standards or physical site conditions discussed
+      above on the subject property. COLW’s evidence and testimony, whether during the
+      initial proceedings or on remand, totally ignore the DCC use limitations and
+      dimensional standards that were the basis for LCDC acknowledging the DCC as
+      consistent with the Statewide Planning Goals. The Board of County Commissioners
+      find that the purpose of the DCC use limitation and dimensional standards is to
+
+Exhibit F to Ordinance 2022-010                                                               23
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+      prevent the very types of intensive industrial development that COLW bases its
+      arguments upon. Uses of that scale and intensity could never be approved for the
+      subject property under the DCC restrictions acknowledged by DLCD.
+
+      The Board of County Commissioners expressly reiterates the following findings
+      drawn from the original decision that the DCC so limits allowed uses as to effectively
+      prevent urban use of rural land and that a Goal 14 exception is not required for
+      approval of the applications.
+
+          e   “DCC Chapter 18.100 implements DCCP Policies 3.4.9 and 3.4.23, which
+              together direct land use regulations for the Rural Commercial and Rural
+              Industrial zones to ‘allow uses less intense than those allowed in
+              unincorporated communities as defined by Oregon Administrative Rule 660-
+              022 or its successor[.]”
+          e   “TT}he application of DCC Title 18 to any development proposed on Rural
+              Commercial or Rural Industrial designated land will ensure that the
+              development approved is consistent with the requirements set forth in DCCP
+              Policies 3.4.12 and 3.4.27 to not adversely affect surrounding area
+              agricultural or forest land, or the development policies limiting building size
+              (DCCP Policies 3.4.14 and 2.4.28), sewers (DCCP Policies 3.4.18 and 3.4.31)
+              and water (DCCP Policies 3.4.19 and 3.4.32) intended to limit the scope and
+              intensity of development on rural land.”
+
+      COLW did not challenge those findings in its appeal to LUBA.
+
+      The analysis and conclusion, that development permitted and authorized consistent
+      with the applicable DCC RI-zone approval standards will not authorize urban uses
+      on rural land and will ensure rural use of rural land on the subject property, is based
+      on the DCC’s limitation of uses authorized in the RI zone and imposition of building
+      size and other development restrictions on permissible development. It is entirely
+      independent of whether permissible development on the property will employ only
+      a small number of workers.    With acknowledgment, DLCD concluded that the
+      approach taken by the County and the measures adopted to implement that
+      approach ensure that industrial uses approved in the RI zone under the
+      acknowledged standards would remain rural, consistent with Goal 14. Furthermore,
+      evidence submitted during the remand proceedings demonstrates that the soil
+      conditions on the property will likely act to further limit the intensity of development
+      that can be placed on the property.   Nothing in the evidence or argument submitted
+      by COLW demonstrates that to not be the case.
+
+      Shaffer expressly allows, in response to a non-affirmative answer to whether a
+      proposed use will employ a small number of workers, a local government to limit
+      the allowed uses to effectively prevent urban use of rural land. That is what the
+
+Exhibit F to Ordinance 2022-010                                                             24
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+       acknowledged DCC RI Zone standards do. Shaffer does not require a local
+       government to prove that only a small number of workers could be employed in the
+       second-step analysis before it approves a proposal as consistent with Goal 14;
+       Shaffer only requires that a local government explain why allowed uses will
+       constitute rural use of rural land despite such a finding, or to take an exception or
+       include the property within a UGB.
+
+       The Board of County Commissioners hereby reiterates what must not have been
+       clear from the original findings. The adopted and acknowledged rural industrial
+       DCCP policies and DCC development standards for permitted rural industrial uses
+       operate to ensure that any allowed uses and development on the subject property
+       that is consistent with the applicable DCC standards will constitute rural use of rural
+       land as required by Goal 14. That conclusion is valid even if those uses will employ
+       more than a “small” number of workers because, in part, the County's approach to
+       acknowledgement was not dependent upon the number of workers employed by
+       industrial uses, but upon other factors that DLCD acknowledged as consistent with
+       and that fully implement Goal 14 without the use of limitations on the number of
+       workers. Furthermore, site limitations may act as a further restrictive measure to
+       limit the development potential of the subject property so that only rural uses will
+       be allowed on rural land.
+
+       For the above reasons, the Board of County Commissioners approves the requested
+       plan designation and zone change applications.
+
+iii.   FINDINGS, ANALYSIS AND CONCLUSIONS IN RESPONSE TO ARGUMENTS
+       SUBMITTED ON REMAND
+
+       This section addresses some of the issues and arguments raised by parties to the
+       remand proceeding that are not expressly addressed above. The fact that an issue
+       or argument is addressed in this section does not mean it necessarily falls within the
+       scope of the remand proceeding and is not intended to preclude the County or any
+       other party from arguing on subsequent appeal that the issue lies outside the scope
+       of the remand or has otherwise been previously resolved or waived.
+
+       Scope of the Remand Proceeding
+
+       The Board of County Commissioners limited the scope of the remand proceeding to
+       the issue remanded by LUBA and parties were permitted to submit new evidence
+       directed towards that issue as part of the de novo hearing on remand. DCC
+       22.34.040.A directs the Board of County Commissioners to review remanded issues
+       and provides the Board the discretion to open the record in instance which it deems
+       it to be appropriate. DCC 22.34.040.C authorizes the Board of County
+       Commissioners to limit new testimony to the remanded issues or to issues raised by
+
+Exhibit F to Ordinance   2022-010                                                              25
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+       new evidence that was directed towards the issue on remand. That provision also
+       states that issues resolved by LUBA or that were not appealed to LUBA are deemed
+       to be waived and may not be reopened. The Board of County Commissioners has
+       so limited the remand proceeding. Furthermore, the Board of County
+       Commissioners interprets the above provisions to implicitly mean that only the
+       standards and criteria that expressly relate to LUBA’s remand are live on remand
+       and that issues related to standards and criteria that were resolved by LUBA or that
+       could have been resolved by LUBA in an earlier proceeding are deemed resolved or
+       waived and that compliance of the proposal with those standards and applicable
+       criteria may not be challenged on remand. The Board of County Commissioners
+       also notes that caselaw supports the above principles.
+
+       In an email submitted before the public hearing, COLW argued that the standards
+       and applicable criteria for the upcoming hearing are not limited to those that
+       formed the basis of the LUBA and Court of Appeals remand decisions, but also
+       include the Standards and Applicable Criteria that formed the basis for the decisions
+       appealed to LUBA. The Board of County Commissioners disagrees with that broad
+       statement. The Board of County Commissioners has not exercised its discretion to
+       expand the scope of the remand hearing, the issues that may be raised or the
+       standards that may be visited. The only standards and applicable criteria that are
+       live on remand are those that directly relate to the issue remanded by LUBA.
+
+       During the remand proceedings, both parties addressed the Shaffer factors not
+       remanded by LUBA. COLW at one point argued that because of our resolution of
+
+       of the land would result from approval of the application. The Board of County
+       Commissioners disagrees with that conclusion, in part because if that were the case,
+       LUBA would not have remanded for the Board to adopt findings for the remaining
+       factor. Also, the findings above correct a COLW misstatement regarding our
+       response to one of the Shaffer factors. In written comments, the Applicant posited
+       that the Board could now conclude that the Shaffer inquiry regarding whether the
+       use “is a type of use typically located in rural areas” could now be answered in the
+       affirmative because of the additional evidence submitted after our initial findings,
+       particularly that DLCD acknowledged that the RI permitted uses are rural uses. If
+       that were a live issue on remand, the Board of County Commissioners would
+       conclude that the uses allowed in the RI zone are types of uses typically located in
+       rural areas for the reasons provided by the Applicant. However, the Board of
+       County Commissioners has limited this remand proceeding to the sole issue of
+       adopting findings regarding the number of workers and whether that alters our
+       conclusion that approval of the applications will allow only rural use of rural land.
+       Consequently, Applicant's raising of the “type of use inquiry” plays no part of our
+       decision on remand.
+
+Exhibit F to Ordinance   2022-010                                                              26
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+      Statewide Planning Goals
+
+      In written testimony submitted at the public hearing, COLW argued that, under ORS
+      197.175(2)(a), the proposal must be in compliance with the statewide planning goals
+      and that the findings cannot rely on a “prior amendment.” The main point of
+      COLW's argument, which refers to an unidentified prior amendment, is not
+      sufficiently clear for the Board of County Commissioners to directly address and
+      therefore the Board of County Commissioners finds that whatever issue COLW
+      sought to present was insufficiently raised.
+
+      That said, the Board of County Commissioners notes that the original decision had
+      findings that concluded the proposal was consistent with each of the statewide
+      planning goals. On appeal to LUBA, COLW only challenged the findings and
+      conclusions related to Goals 6, 11 and 14. All of COLW's goal-based arguments were
+      denied by LUBA. And while LUBA stated that the appeal’s first assignment of error
+      concerned Goal 14, the remand did not concern the challenge to the Goal 14 finding
+      of consistency, but rather the findings regarding the number of workers under the
+      Shaffer analysis. Compliance with the Statewide Planning Goals is a resolved issue.
+      If it is not, at most, the only Goal that may be live, is compliance with Goal 14.
+
+      Misstatements About Previous Findings
+
+      During the remand proceedings, COLW has made several misstatements about the
+      findings the Board of County Commissioners adopted in the initial decision to
+      approve the applications. Those misstatements shouid not go uncorrected.
+
+      First, as discussed above, COLW contended that our initial findings concluded that
+      the response to the Shaffer “does not require public facilities or services” inquiry
+      indicated the proposal is not for a rural use, That characterization is incorrect. The
+      board of County Commissioners, as did the Hearings Officer, concluded that the
+      response to that inquiry indicated the proposal is a rural use. LUBA did not remand
+      on that issue.
+
+      Second, COLW suggests that it is law of the case that there is insufficient evidence to
+      base a determination that the type of uses that will occur on the property are of a
+      type typically located in rural areas. The Board of County Commissioners notes the
+      previous findings found, as LUBA plainly explained in its decision, that all of the uses
+      and conditional uses, as limited by the development and other approval standards
+      contained in the DCC, were acknowledged by DLCD as complying with Goal 14 to
+      not constitute urban uses.
+
+Exhibit F to Ordinance 2022-010                                                             27
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+       Reasonable Worst-Case Scenario
+
+       COLW challenged the worst-case scenario approach used in this proceeding arguing
+       that it provides only an “estimate” of workers, which is inadequate to demonstrate
+       compliance with Goal 14, and attempted to distinguish between the use of the
+       terms “reasonable worst-case” and “worst-case.”
+
+       Applicant addressed the worst-case development scenario analysis process in his
+       rebuttal material, pointing to recent examples where LUBA used the term
+       “reasonable worst-case” scenario and explaining when findings using that approach
+       are inadequate. The Board of County Commissioners finds that when applied
+       properly, the reasonable worst-case development scenario approach is an
+       appropriate methodology to evaluate potential impacts for plan designation and
+       zone change applications that do not propose specific development. In support of
+       this finding, the Board of County Commissioners adopts Applicant's rebuttal
+       response as its own.
+
+       The Board of County Commissioners also notes that COLW failed to challenge the
+       use of the reasonable worst-case scenario approach for the Goal 12 findings in the
+       initial appeal, or to challenge that the development scenario represented in the
+       original TIA, a scenario approved by County Transportation Staff and ODOT,
+       represented a worst-case development scenario of the subject property. Last, the
+       Board of County Commissioners finds, as explained above, that Petitioner failed to
+       provide any development scenario that could, in fact, be developed on the subject
+       property. Had COLW done so, these findings would be required to either base its
+       analysis and conclusions on that development scenario or to provide an adequate
+       justification as to why that development scenario does not constitute a worst-case
+       scenario. Nothing requires the County to consider development scenarios that
+       could not be approved under acknowledged development standards.
+
+IV.    DECISION:
+
+Based upon the foregoing Findings of Fact and Conclusions of Law, the Board of County
+Commissioners hereby APPROVES on remand the Applicant's applications for a
+Comprehensive Plan Map amendment to re-designate the subject property from
+Agriculture to Rural Industrial and a corresponding Zone Map Amendment (Zone Change)
+to reassign the zoning from Exclusive Farm Use - Tumalo/Redmond/Bend Subzone (EFU-
+TRB) to Rural Industrial Zone (RI) subject to the following conditions of approval:
+
+1.     The Applicant shall submit to the Planning division a metes-and-bounds description
+       of the subject site to be re-designated and rezoned.
+
+Exhibit F to Ordinance   2022-010                                                           28
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+2.     The applicant shall submit a certification regarding the purpose of the application,
+       consistent with DCC 22.20.025(B)(2).
+
+3.     The Applicant shall enter into a Voluntary Compliance Agreement (‘VCA’) with the
+       Deschutes County Code Enforcement division of the Community Development
+       Department to resolve alleged code violations in file no. 247-19-00064-CE
+
+4.     As part of any development of the subject property, the developer shall be subject
+       to assessment of transportation system development charges (SDCs) on that
+       development at the current SDC rate then applicable. Additionally, further traffic
+       analysis may be required, depending on whether a proposed development triggers
+       the traffic analysis thresholds of DCC 18.116.310(C)(3). The County may also
+       consider imposition of non-infrastructure mitigations under OAR 660-01 2-0060(1 1).
+
+Dated this Al    day of July, 2022
+
+Exhibit F to Ordinance   2022-010                                                             29
+File Nos. 247-20-000438-PA/439-ZC (247-22-000287-A)
+                      BOARD OF
+                      COMMISSIONERS
+
+MEETING DATE:          Wednesday, July 27, 2022
+
+SUBJECT:    Consideration of Second Reading of Ordinance 2022-010: Remand of Deschutes
+           Junction Plan Amendment and Zone Change application, and Consideration of
+           Adoption
+
+RECOMMENDED MOTION:
+The board conducts second reading by title only moves to adopt Ordinance No, 2022-010
+remand of Deschutes Junction Plan Amendment and Zone Change application
+
+BACKGROUND AND POLICY IMPLICATIONS:
+The Board will conduct second reading of Ordinance 2022-010, approving a decision on remand
+from the Land Use Board of Appeals. The application concerns a request to rezone and
+redesignate property from Exclusive Farm Use (EFU) / Agriculture (AG) to Rural Industrial (RI). The
+entirety of the record can be found on the project website at
+https://www.deschutes. org/cd/page/remand-deschutes-junction-plan-amendment-zone-change
+
+As stated previously, remand applications are subject to a 120-day review timeline per ORS
+227.181. The final day in which a decision must be issued is August 5, 2022.
+
+BUDGET     IMPACTS:
+None.
+
+ATTENDANCE:
+Nicole Mardell, Senior Planner - Long Range
+Will Groves, Planning Manager
+                                                                COMMUNITY        DEVELOPMENT
+
+                                          MEMORANDUM
+
+TO:           Deschutes County Board of Commissioners (Board)
+
+FROM:         Nicole Mardell, Senior Planner - Long Range
+              Will Groves, Planning Manager
+
+DATE:         July 27, 2022
+
+SUBJECT:      Consideration of Second Reading of Ordinance 2022-010: Remand of Deschutes
+              Junction Plan Amendment and Zone Change (file nos. 247-20-000438-PA/439-ZC (247-
+              22-000287-A))
+
+The Board of County Commissioners (Board) will consider second reading of Ordinance 2022-010
+on July 27, 2022, approving file nos. 247-20-000438-PA/439-ZC (247-22-000287-A). The application is
+requesting approval of Plan Amendment and Zone Change applications remanded by the Oregon
+Land Use Board of Appeals.
+
+l.      BACKGROUND
+
+The applicant, Tony Aceti, is requesting a Comprehensive Plan Amendment to redesignate the subject
+property from Agriculture to Rural Industrial and a Zoning Map Amendment to rezone the property
+from Exclusive Farm Use (EFU) to Rural Industrial. The property is 21.59-acres in size and is located
+at 21235 Tumalo   Place, Bend (Taxlot ID 161226C000201   and 161227D000104).
+
+The application was originally submitted on June 30, 2020 and approved by the Board on January 27,
+2021. Following Board approval, the application was appealed to the Oregon Land Use Board of
+Appeals (LUBA) and was remanded back to the County for additional review due to insufficient
+findings regarding the potential number of workers on site resulting from the requested plan
+amendment and zone change. The applicant appealed the remand decision to the Court of Appeals
+who affirmed LUBAs decision. The remand was then initiated by the applicant for County review on
+April 7, 2022. The final day in which the County must issue a final decision is August 5, 2022.
+
+The board held limited de novo public hearings on May 18, 2022 and June 8, 2022, and the written
+record period closed on June 22, 2022. On July 6, 2022, the Board deliberated on the application and
+voted unanimously to approve the requests. On July 13, staff returned with a draft decision through
+Ordinance 2022-010, and the Board conducted first reading of the ordinance by title only.
+Hl.    NEXT STEPS / SECOND READING
+
+The Board will conduct the second reading of Ordinance 2022-010     on July 27, 2022.
+
+ATTACHMENTS:
+1. Draft Ordinance 2022-010 and Exhibits
+        Exhibit A: Legal Description
+        Exhibit B: Proposed Comprehensive Plan Amendment Map
+        Exhibit C: Proposed Zone Change Map
+       Exhibit D: Comprehensive Plan Section 23.01.010, Introduction
+       Exhibit E: Comprehensive Plan Section 5.12, Legislative History
+       Exhibit F: Decision of the Board of County Commissioners
+
+                                                                                        Page 2 of 2
+
+## Curator notes
+
+This document had no text layer. The text above was recovered by OCR under the two-engine
+rule in `AGENTS.md`: `ocrmypdf/tesseract` and `PaddleOCR PP-OCRv6` read it independently and agreed on 98.3% of
+the word sequence, and on 89.6% of the figures. Dictionary-recognizable words: 93.5%.
+
+**Agreement is evidence the words are on the page. It is not evidence they were read
+correctly** — two engines can misread the same smudged character identically. Signature
+blocks, proper names, dates and dollar figures are the least reliable parts of an OCR'd
+scan, and figures diverge between engines more than words do.
+
+Nothing has been repaired. Where the engines lost word spacing or garbled a character, that
+is left visible rather than corrected, because re-inserting what OCR did not resolve means
+writing text no one read.

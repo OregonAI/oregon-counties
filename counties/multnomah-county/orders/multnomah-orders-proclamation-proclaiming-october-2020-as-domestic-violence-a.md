@@ -1,0 +1,100 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-proclamation-proclaiming-october-2020-as-domestic-violence-a
+title: 'Proclamation Proclaiming October 2020 As Domestic Violence Awareness Month In Multnomah County, Oregon.'
+doc_type: ordinance
+citation: 'Proclamation Proclaiming October 2020 As Domestic Violence Awareness Month In Multnomah County, Oregon.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/proclamation_proclaiming_october_2020_as_domestic_violence_awareness_month_in_multnomah_county%2C_oregon./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8a8e5fc7e46ab5559c96ab6b901967d22108af7dfb1254838ffefaf0d0794736
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Proclamation Proclaiming October 2020 As Domestic Violence Awareness Month In Multnomah County, Oregon. (Proclamation Proclaiming October 2020 As Domestic Violence Awareness Month In Multnomah County, Oregon.)
+
+## At a glance
+
+Proclamation Proclaiming October 2020 As Domestic Violence Awareness Month In Multnomah County, Oregon. — orders of Multnomah County. 2 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+PROCLAMATION NO. 2020-091
+Proclaiming October 2020 as Domestic Violence Awareness Month in Multnomah County, Oregon.
+The Multnomah County Board of Commissioners Finds:
+A. Domestic violence is a complex and pervasive problem in our community that affects
+individuals across economic, racial, gender, educational, religious, and societal lines.
+Domestic violence is not just physical, it can include emotional, mental, and financial abuse.
+B. One in four women and one in seven men aged 18 and older in the United States have been
+the victim of severe physical violence by an intimate partner in their lifetime.
+C. One in fifteen children are exposed to domestic violence every year and between 30 and 60
+percent of perpetrators of intimate partner violence also abuse children in the home. Exposure
+to domestic violence harms children and places them at risk of experiencing further violence.
+D. Domestic violence is a leading cause of home lessness among families in the United States
+and is a significant contributing factor to unemployment and poverty. Nearly 8 million days of
+paid work each year is lost due to domestic violence issues – the equivalent of more than
+32,000 full-time jobs.
+E. Although domestic violence can affect anyone, the impact is not uniform. Survivors from
+marginalized groups, including individuals with disabilities, members of the LGBTQ
+community, immigrants, older adults, and women of color experience disproportionate rat es
+of domestic violence. These disproportionate impacts are often a direct result of systemic
+barriers, inequities and inherent racism, sexism, homophobia, ableism, ageism, and other
+oppressions in our service systems.
+F. Challenges that disproportionately a ffect communities of color in general -- poverty, lack of
+access to educational opportunities, limited job resources, language barriers, fear of
+deportation, inadequate culturally responsive and linguistically competent services -- are
+especially limiting and harmful for women of color experiencing violence. Efforts to prevent
+and respond to domestic violence must be informed by an equity lens, and be responsive to
+disparities experienced by survivors in Multnomah County.
+G. The COVID-19 pandemic has created new challenges in our system’s response to domestic
+violence. An overall increase in frequency and severity of domestic violence in the wake of
+the pandemic have pushed our system to increase collaboration, and come up with innovative
+solutions to help survivors maintain access to critical services.
+H. Multnomah County is a leader in addressing domestic violence through its prevention, public
+safety, and health and human services programs. Our c ross-sector collaboration stre tches
+across housing, criminal justice, law enforcement, community -based services, and more,
+ensuring that survivors receive holistic services that address their unique needs.
+I. Multnomah County is committed to ensuring the safety, dignity and self -determination of
+those who have been harmed by domestic violence, safeguarding the wellbeing of children
+who have been impacted by domestic and sexual violence, and providing appropriate
+intervention and accountability with domestic violence offenders.
+The Multnomah County Board of Commissioners Proclaims:
+1. October 2020 to be Domestic Violence Awareness Month in Multnomah County, Oregon.
+2. We urge all Multnomah County residents to actively work towards the elimination of domestic
+violence by supporting and b elieving survivors and promoting healthy, respectful
+relationships.
+ADOPTED this 22nd day of October, 2020.
+SUBMITTED BY: Alix Sanchez, Senior Manager Multnomah County Domestic and Sexual
+Violence Coordination Office
+     Jenny M. Madkour, County Attorney
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By
+•1!)'\A_,I��

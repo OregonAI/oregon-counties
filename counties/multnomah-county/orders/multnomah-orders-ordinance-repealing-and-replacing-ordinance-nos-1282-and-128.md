@@ -1,0 +1,229 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-ordinance-repealing-and-replacing-ordinance-nos-1282-and-128
+title: 'Ordinance Repealing And Replacing Ordinance Nos. 1282 And 1284 To Provide Continued Renter Protections In Multnomah County In Response To Covid-19 And Declaring An Emergency.'
+doc_type: ordinance
+citation: 'Ordinance Repealing And Replacing Ordinance Nos. 1282 And 1284 To Provide Continued Renter Protections In Multnomah County In Response To Covid-19 And Declaring An Emergency.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/ordinance_repealing_and_replacing_ordinance_nos._1282_and_1284_to_provide_continued_renter_protections_in_multnomah_county_in_response_to_covid-19_and_declaring_an_emergency./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 89645969230bee1f5984e756e553e3bb1aa8794f7342617692b0a31c2bc5b537
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 105.105
+    - ORS 105.110
+    - ORS 90.140
+    - ORS 90.150
+    - ORS 90.220
+    - ORS 90.392
+    - ORS 90.412
+    - ORS 90.427
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance Repealing And Replacing Ordinance Nos. 1282 And 1284 To Provide Continued Renter Protections In Multnomah County In Response To Covid-19 And Declaring An Emergency. (Ordinance Repealing And Replacing Ordinance Nos. 1282 And 1284 To Provide Continued Renter Protections In Multnomah County In Response To Covid-19 And Declaring An Emergency.)
+
+## At a glance
+
+Ordinance Repealing And Replacing Ordinance Nos. 1282 And 1284 To Provide Continued Renter Protections In Multnomah County In Response To Covid-19 And Declaring An Emergency. — orders of Multnomah County. 6 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS FOR
+MULTNOMAH COUNTY, OREGON
+ORDINANCE NO. 1287
+Repealing and Replacing Ordinance Nos. 1282 and 1284 to Provide Continued Renter
+Protections in Multnomah County in Response to COVID-19 and Declaring an
+Emergency.
+The Multnomah County Board of Commissioners Finds:
+A. On March 11, 2020, the Multnomah County Chair issued Executive Rule No. 388
+declaring an emergency for the entire County to address the continued spread of the
+COVID-19 illness, loss of life, an extreme public health risk, and its significant economic
+impacts.
+B. On March 17, 2020, an Addendum to Executive Rule No. 388 provided additional
+measures to address the emergency conditions.
+C. On March 19, 2020, the Multnomah County Board of Commissioners (Board)
+ratified Executive Order 388 and its Addendum and adopted Ordinance No. 1282 to
+address the impacts of COVID-19 by creating a countywide residential eviction
+moratorium and
+six-month repayment grace period. The purpose of these measures was
+to promote housing stability during the COVID-19 pandemic to allow County residents to
+stay home, and to avoid a preventable increase in homelessness due to the economic
+effects of COVID-19.
+D. On April 1, 2020, and following
+the Board’s action, the Governor of the State of
+Oregon issued a statewide moratorium on evictions with Executive Order 20-13.
+E. On April 9, 2020, the Board adopted Resolution 2020-019 to continue the
+emergency declared in Executive Rule 388 and its Addendum until July 8, 2020.
+F. On April 16, 2020, the Board adopted Ordinance 1284 to further address the
+impacts of COVID-19 and suspended enforcement of the County's residential eviction
+moratorium established by Ordinance 1282 while a statewide residential eviction
+moratorium was in place.
+G. On July 2, 2020, the Board adopted Resolution 2020-059 to continue the
+emergency declared in Executive Rule 388 and its Addendum until September 30, 2020.
+H. On September 24, 2020, the Board adopted a Resolution 2020-080 to continue
+the emergency declared in Executive Rule 388 and its Addendum until January 8, 2021.
+I. The State of Oregon provided statewide renter protections in HB 4213 (2020
+First Special Session) with effective dates of April 1, 2020 to September 30, 2020. HB
+4213 continued and refined the statewide residential eviction moratorium created by the
+Governor in Executive Order 20-13 and established a statewide six-month repayment
+grace period.
+J. On September 4, 2020, the Center for Disease Control and Prevention (“CDC”),
+located within the U.S. Department of Health and Human Services, issued an Agency
+Order temporarily halting residential evictions to prevent the further spread of COVID-19
+effective through December 31, 2020. See Federal Register, 85 FR 55292.  The CDC
+Agency Order provides a lesser level of renter protections than HB 4213, Executive
+Order 20-13, and County ordinances. Under the CDC Agency Order’s terms, it does not
+apply in any State, local, territorial, or tribal area with a moratorium on residential
+evictions that provides the same or greater level of public-health protection than the
+requirements listed in the Agency Order.
+K. The County supports uniform implementation and enforcement of a residential
+eviction moratorium and a six-month repayment grace period, and the County therefore
+is enacting Section 3 of HB 4213 into County Code, with only those modifications
+necessary to adapt that provision to be County legislation. This action repeals and
+replaces Ordinance Numbers 1282 and 1284 to ensure continued renter protections to
+further address the COVID-19 public health emergency and address its significant and
+long lasting impacts.
+L. The provisions of this Ordinance might affect the terms and conditions of certain
+contracts entered into in the County. Any such effects are not substantial because the
+provisions have a limited scope and duration and are necessary to protect the public
+health, safety and welfare. Therefore, this Ordinance does not undermine a contractual
+bargain, interfere with a party’s reasonable expectations, or prevent a party from
+safeguarding or reinstating the party’s rights. Even if it did, this action is appropriate and
+reasonable to carry out the significant and legitimate public purpose of responding to
+the declarations of emergency issued at the county, state and federal levels.
+Multnomah County Ordains as Follows:
+Section 1. Title
+This Ordinance shall be known as the Multnomah County COVID-19 “Renter Protection
+Measures.”
+Section 2. Purpose
+The purpose of the COVID-19 Renter Protection Measures is to promote housing stability
+and to avoid a preventable increase in homelessness due to the ongoing impacts of
+COVID-19.
+Section 3. Residential Eviction Moratorium and Repayment Grace Period
+A. These measures apply unless local, state or federal regulations provide
+equal or greater protections to residential renters in Multnomah County.
+B. As used in this section:
+1. “Emergency period” means the period beginning October 1, 2020,
+and ending on January 8, 2021, or the first day the emergency
+declared in Executive Rule 388 and its Addendum, as extended by
+the Board, is no longer in effect, whichever is later.
+2. “Nonpayment” means the nonpayment of a payment that becomes
+due during the emergency period to a landlord, including a payment
+of rent, late charges, utility or service charges or any other charge
+or fee as described in the rental agreement or ORS 90.140, 90.302,
+90.315, 90.392, 90.394, 90.560 to 90.584 or 90.630.
+3. “Nonpayment balance” includes all or a part of the net total amount
+of all items of nonpayment by a tenant, and all unpaid amounts that
+accrued by operation of ORS 90.220(9) during the six-month grace
+period described in subsection (G) of this section, provided that the
+tenant makes payment in an amount equal to or greater than the
+rent for the current rental period.
+4. “Termination notice without cause” means a notice delivered by a
+landlord under ORS 90.427 (3)(b), (4)(b) or (c), (5)(a) to (c), or
+(8)(a)(B) or (b)(B).
+C. During and after the emergency period and notwithstanding ORS Chapter
+90 or ORS 105.105 to 105.168, a landlord may not, and may not threaten to:
+1. Deliver a notice of termination of a rental agreement based on a
+tenant’s nonpayment balance;
+2. Initiate or continue an action under ORS 105.110 to take
+possession of a dwelling unit based on a notice of termination for
+nonpayment delivered on or after October 1, 2020;
+3. Take any action that would interfere with a tenant’s possession or
+use of a dwelling unit based on a tenant’s nonpayment balance;
+4. Assess a late fee or any other penalty on a tenant’s nonpayment; or
+5. Report a tenant’s nonpayment balance as delinquent to any
+consumer credit reporting agency
+D. During the emergency period, a landlord may provide a written notice to a
+tenant stating that the tenant continues to owe any rent due. The notice must also
+include a statement that eviction for nonpayment is not allowed before the end of the
+emergency period.
+E. During the emergency period, a landlord may not deliver a termination
+notice without cause and may not file an action under ORS 105.110 based on a
+termination notice without cause.
+F. If the first year of occupancy would end during the emergency period, for
+the purposes of a termination notice without cause, the “first year of occupancy” is
+extended to mean a period lasting until 30 days following the emergency period.
+G. Following the emergency period, a tenant with an outstanding
+nonpayment balance has a six-month grace period to pay the outstanding nonpayment
+balance.
+H. Following the emergency period, a landlord may deliver a written notice to
+a tenant that substantially states:
+1. The date that the emergency period ended;
+2. That if rents and other payments that come due after the
+emergency period are not timely paid, the landlord may terminate
+the tenancy;
+3. That the nonpayment balance that accrued during the emergency
+period is still due and must be paid;
+4. That the tenant will not owe a late charge for the nonpayment
+balance;
+5. That the tenant is entitled to a six-month grace period to repay the
+nonpayment balance following the emergency period;
+6. That within a specified date stated in the notice given under this
+subsection that is no earlier than 14 days following the delivery of
+the notice, the tenant must pay the nonpayment balance or notify
+the landlord that the tenant intends to pay the nonpayment balance
+by the end of the six-month grace period described in subsection
+(G) of this section;
+7. That failure of a tenant to give notice to the landlord of utilization of
+the grace period described in subsection (G) of this section may
+result in a penalty described in subsection (K) of this section; and
+8. That rents and other charges or fees that come due after the
+emergency period must be paid as usual or the landlord may
+terminate the tenancy under ORS 90.392, 90.394 or 90.630.
+I. 1. If a landlord gives a notice as described in subsection (H) of this
+section, a tenant who has an outstanding nonpayment balance as of the
+date listed on the landlord’s notice as described in subsection (H)(6) of
+this section must notify the landlord of the tenant’s intention to use the
+grace period described in subsection (G) of this section to pay the
+nonpayment balance.”
+2. The tenant’s notice under this subsection must be actual notice
+described in ORS 90.150 or notice given by electronic means, and must
+be given to the landlord by the date given in the landlord’s notice as
+described in subsection (H)(6) of this section.
+J. The landlord’s notice described in subsection (H) of this section may offer
+an alternate voluntary payment plan for payment of the nonpayment balance, but the
+notice must state that the alternate payment plan is voluntary.
+K. A tenant’s failure to give the notice required by subsection (I) of this
+section to a landlord entitles the landlord to recover damages equal to 50 percent of one
+month’s rent following the grace period.
+L. If a landlord violates this section, a tenant may obtain injunctive relief to
+recover possession or address any other violation of this section and may recover from
+the landlord an amount up to three months’ periodic rent plus any actual damages.
+M. ORS 90.412 does not apply to a landlord that accepts a partial rent
+payment.
+Section 4. This Ordinance being necessary for the health, safety and general welfare of
+the people of Multnomah County, an emergency is declared and this ordinance will take
+effect immediately upon being signed pursuant to Section 5.50 of the Multnomah
+County Home Rule Charter.
+FIRST READING AND ADOPTION:
+Submitted by: Deborah Kafoury, Chair
+     Jenny M. Madkour, County Attorney
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By
+•1!)'\A_,I��
+September 24, 2020

@@ -86,16 +86,30 @@ PROFILE = {
             "link_re": _FILE % r"rule_[^/\"]+",
             "format": "pdf",
         },
+        # NOW BUILT, via js-render. The reason this was skipped turned out to be only half
+        # right: the list is paginated AND client-side. Plain HTTP returns ZERO file links
+        # across pages 0, 1 and 23 — measured — while a rendered page yields 29 on page one.
+        # So `listing_urls` alone would have enumerated nothing and looked like an empty
+        # family.
+        #
+        # multco.us serves our honest agent HTTP 200 and states no AI directive; the only
+        # obstacle was that the list is built in the browser. Rendering it is being a capable
+        # client, not getting past anything.
+        #
+        # STILL EXCLUDED: the 1962-2019 Preservica archive
+        # (multco.access.preservica.com), which is a separate platform with its own search
+        # semantics. So this family is the DRUPAL ERA ONLY, and that boundary is stated
+        # rather than implied — a corpus silently holding 2020+ would answer "what did the
+        # Board adopt in 2015" with nothing, which reads as "nothing was adopted".
         "orders": {
-            "skip": (
-                "The Board record is split by era and neither half fits this pass. "
-                "2020-present is a Drupal faceted list at /board/documents-view paginated "
-                "over ~24 `?page=N` pages, which the generic link-list mode reads only the "
-                "first page of — enumerating page one and reporting a count would understate "
-                "the record while looking complete. 1962-2019 is a separate Preservica "
-                "archive (multco.access.preservica.com) with its own search semantics. Both "
-                "are real work, not blocked, and are the obvious next increment for this "
-                "county."),
+            "discovery": "js-render",
+            "url_template": "https://www.multco.us/board/documents-view?page=%d",
+            "pages": 24,
+            # Hrefs are RELATIVE in the rendered DOM (`/file/2026-031.pdf/download`), not
+            # absolute, because getAttribute returns what the markup says rather than the
+            # resolved URL. Matching on the path is what works; the driver resolves it.
+            "link_re": r"^/file/[^\"]+/download$",
+            "format": "pdf",
         },
     },
 }

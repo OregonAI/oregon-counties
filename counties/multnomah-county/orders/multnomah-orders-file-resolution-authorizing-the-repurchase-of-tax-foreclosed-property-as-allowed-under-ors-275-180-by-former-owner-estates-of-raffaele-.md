@@ -1,0 +1,93 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-resolution-authorizing-the-repurchase-of-tax-foreclosed-property-as-allowed-under-ors-275-180-by-former-owner-estates-of-raffaele-
+title: 'Resolution Authorizing The Repurchase Of Tax Foreclosed Property As Allowed Under Ors 275.180 By Former Owner Estates Of Raffaele Cortese And Francesca Cortese And Execution Of Deed And Closing Documents.'
+doc_type: ordinance
+citation: 'Resolution Authorizing The Repurchase Of Tax Foreclosed Property As Allowed Under Ors 275.180 By Former Owner Estates Of Raffaele Cortese And Francesca Cortese And Execution Of Deed And Closing Documents.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_authorizing_the_repurchase_of_tax_foreclosed_property_as_allowed_under_ors_275.180_by_former_owner_estates_of_raffaele_cortese_and_francesca_cortese_and_execution_of_deed_and_closing_documents./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d42acd93c677194a09f1c984189a68bf2f218d75b8722b4a2e0739e8d4cdab7d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 195.300
+    - ORS 275.180
+    - ORS 30.930
+    - ORS 312.200
+    - ORS 92.010
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Authorizing The Repurchase Of Tax Foreclosed Property As Allowed Under Ors 275.180 By Former Owner Estates Of Raffaele Cortese And Francesca Cortese And Execution Of Deed And Closing Documents. (Resolution Authorizing The Repurchase Of Tax Foreclosed Property As Allowed Under Ors 275.180 By Former Owner Estates Of Raffaele Cortese And Francesca Cortese And Execution Of Deed And Closing Documents.)
+
+## At a glance
+
+Resolution Authorizing The Repurchase Of Tax Foreclosed Property As Allowed Under Ors 275.180 By Former Owner Estates Of Raffaele Cortese And Francesca Cortese And Execution Of Deed And Closing Documents. — orders of Multnomah County. 3 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO. 2023-005
+Authorizing the Repurchase of Tax Foreclosed Property as Allowed under ORS 275.180 by Former Owner
+Estates of Raffaele Cortese and Francesca Cortese and Execution of Deed and Closing Documents
+The Multnomah County Board of Commissioners Finds:
+a. Estates of Raffaele Cortese and Francesca Cortese are the former owner of certain real property, more
+particularly described in the proposed deed to (“Former Owner”), attached and identified as Exhibit A
+(“Property”).
+b. On or about October 28, 2020, judgment was entered in Multnomah County Circuit Court foreclosing the
+delinquent taxes levied against the Property.
+c. On October 31, 2022, the County Tax Collector deeded all right, title and interest in the Property to
+Multnomah County as authorized under ORS 312.200.
+d. Former Owner made a request to the County, in compliance with MCC Section 7.402, to repurchase
+the Property for $56,637.97, (“Repurchase Price”), an amount consistent with ORS 275.180 and MCC
+Subsection 7.402(B).  The County has received payment in the amount of the Repurchase Price.
+e. It is in the best public interest that the Property be sold to the Former  Owner as described above in
+Paragraph d).
+The Multnomah County Board of Commissioners Resolves:
+The County Chair is authorized to execute the deed and related escrow closing documents conveying the
+Property to Estates of Raffaele Cortese and Francesca Cortese.
+ADOPTED this 26th day of January 2023.
+.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+SUBMITTED BY: Serena Cruz, Chief Operating Officer and Director, Department of County Management
+EXHIBIT A TO RESOLUTION
+Until a change is requested, all tax statements shall be sentto the following address:(Grantee) ESTATES OF RAFFAELE CORTESE AND FRANCESCA CORTESE8871 MERRIMAC LN NMAPLE GROVE, MN 55311-1609
+After recording return to:(Grantor) MULTNOMAH COUNTY℅ TAX TITLE501 SE HAWTHORNE BLVD, Rm 175PORTLAND OR 97214D192661 for R333117 BARGAIN AND SALE DEED
+MULTNOMAH COUNTY, a political subdivision of the State of Oregon, Grantor, conveys toEstates of RaffaeleCorteseandFrancesca Cortese,Grantee,the following describedreal property:
+See Attached Exhibit 1
+BEFORE SIGNING OR ACCEPTING THIS INSTRUMENT, THE PERSON TRANSFERRING FEE TITLE SHOULD INQUIREABOUT THE PERSON’S RIGHTS, IF ANY, UNDER ORS 195.300, 195.301 AND 195.305 TO 195.336 AND SECTIONS 5 TO11, CHAPTER 424, OREGON LAWS 2007, SECTIONS 2 TO 9 AND 17, CHAPTER 855, OREGON LAWS 2009, ANDSECTIONS 2 TO 7, CHAPTER 8, OREGON LAWS 2010.  THIS INSTRUMENT DOES NOT ALLOW USE OF THE PROPERTYDESCRIBED IN THIS INSTRUMENT IN VIOLATION OF APPLICABLE LAND USE LAWS AND REGULATIONS. BEFORESIGNING OR ACCEPTING THIS INSTRUMENT, THE PERSON ACQUIRING FEE TITLE TO THE PROPERTY SHOULDCHECK WITH THE APPROPRIATE CITY OR COUNTY PLANNING DEPARTMENT TO VERIFY THAT THE UNIT OF LANDBEING TRANSFERRED IS A LAWFULLY ESTABLISHED LOT OR PARCEL, AS DEFINED IN ORS 92.010 OR 215.010, TOVERIFY THE APPROVED USES OF THE LOT OR PARCEL, TO DETERMINE ANY LIMITS ON LAWSUITS AGAINSTFARMING OR FOREST PRACTICES, AS DEFINED IN ORS 30.930, AND TO INQUIRE ABOUT THE RIGHTS OFNEIGHBORING PROPERTY OWNERS, IF ANY, UNDER ORS 195.300, 195.301 AND 195.305 TO 195.336 AND SECTIONS 5TO 11, CHAPTER 424, OREGON LAWS 2007, SECTIONS 2 TO 9 AND 17, CHAPTER 855, OREGON LAWS 2009, ANDSECTIONS 2 TO 7, CHAPTER 8, OREGON LAWS 2010.
+The true consideration for this conveyance is $56,637.97.
+INWITNESSWHEREOF, theMultnomahCounty BoardofCommissionersbyauthorityofaResolutionoftheBoard,enteredonJanuary XX, 2023, by Resolution No 2023-0XX has caused this deed to be executed by the Chair of the County Board.
+Dated this ____ day of January, 2023. BOARD OF COUNTY COMMISSIONERSFOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+STATE OF OREGON )) ssCOUNTY OF MULTNOMAH )
+This Deedwasacknowledgedbeforemethis______dayofJanuary2023,byJessicaVegaPederson,tomepersonallyknown,asChairoftheMultnomah County Board of Commissioners, on behalf of the County by authority of the Multnomah County Board of Commissioners.
+Marina A. HoviousNotary Public for Oregon;My Commission expires: 5/10/2026REVIEWED:JENNY M. MADKOUR, COUNTY ATTORNEYFOR MULTNOMAH COUNTY, OREGON
+By ________________________________Carlos Rasch, Assistant County Attorney
+EXHIBIT 1 TO DEED D192661
+R333117
+A tract of land in Section 8, Township 1 South, Range 2 East of the Willamette Meridian, in the City of Portland, County ofMultnomah and State of Oregon, described as follows:
+Beginningat apoint ontheEast lineof theJoshuaE. WittenD.L.C. whichis 809.50feetSouthoftheNortheastcornerofsaidD.L.C.; thenceWest 157.00feet totheNortheast corner of that tract of landconveyedtoRobertP.HastingsbydeedrecordedMarch8, 1967, inBook 551, Page248, DeedRecords; thenceSouthalongtheEastlineofsaidHastingstract69.75feettotheSoutheast cornerthereof;thenceEast157.00feettotheEastlineofsaidD.L.C.;thenceNorthalongtheEastlineofsaidD.L.C.,69.75 feet to the point of beginning.
+EXCEPTING THEREFROM that portion thereof located within the boundaries of S.E. 71st Avenue.

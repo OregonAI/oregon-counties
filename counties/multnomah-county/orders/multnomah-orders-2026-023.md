@@ -1,0 +1,261 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-2026-023
+title: '2026-023'
+doc_type: ordinance
+citation: '2026-023'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/2026-023.pdf/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: eb49caf79f3e91235dba4a3d86c6f197c69e229f830f85809c392bfdc992e307
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 294.414
+    - ORS 294.426
+    - ORS 294.428
+    - ORS 294.435
+    - ORS 294.456
+    - ORS 294.635
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 2026-023 (2026-023)
+
+## At a glance
+
+2026-023 — orders of Multnomah County. 6 pages.
+
+## Full text
+
+Page 1 of 3 - Resolution Approving the Multnomah County Library District’s Proposed
+Fiscal Year 2027 Budget for Submittal to the Tax Supervising and
+Conservation Commission.
+BEFORE THE MULTNOMAH COUNTY LIBRARY DISTRICT BOARD
+RESOLUTION NO. 2026-023_
+Approving the Multnomah County Library District’s Proposed Fiscal Year 2027 Budget for
+Submittal to the Tax Supervising and Conservation Commission.
+The Multnomah County Library District (MCLD) Board Finds:
+A. OR
+S 294.423 designates the MCLD Board as the budget committee for the MCLD
+because MCLD has a population exceeding 200,000 and is located in Multnomah
+County, which has a Tax Supervising and Conservation Commission. This
+approach is an explicit exception in ORS 294.414, under which the majority of
+jurisdictions have a budget committee made up of a combination of members of
+the governing body and qualified voters (non-elected).
+B. In ac
+cordance with ORS 294.426 the MCLD Board received the MCLD
+Director/Budget Officer’s Budget Message and the budget document on April 16th,
+2026, and provided members of the public with an opportunity to ask questions
+about and comment on the budget document . The documents are attached as
+Exhibit 1.
+C. OR
+S 294.428 requires the Budget Committee to approve the budget document
+and the property tax rates/amounts and allows the budget committee to “approve
+the budget document as submitted by the budget officer.”  ORS 294.635 further
+requires that this approved budget document be submitted to the TSCC no later
+than May 15.
+D. Appr
+oval of the budget document at this stage is a requirement of Oregon Budget
+Law to allow for TSCC oversight and public hearings. This "approval" serves to
+certify the document for transmittal and does not constitute the final adoption of
+the budget. It does not imply agreement on the part of the budget committee with
+the policies included in the budget, nor with the proposed allocation of resources.
+E. Per
+ ORS 294.456, the Budget submitted to the TSCC establishes the estimated
+maximum expenditure for each fund and the maximum property tax levy. The
+MCLD Board may not increase these expenditures by more than $5,000 or 10
+percent (whichever is greater) unless the amended budget document is
+republished and a new public hearing is held before the TSCC.
+F. Whi
+le this resolution approves the document for transmittal, the MCLD Board
+retains the authority to increase appropriations or make reallocations or reductions
+prior to final adoption within the limitations noted above without a new hearing
+before the TSCC.
+Page 2 of 3 - Resolution Approving the Multnomah County Library District’s Proposed
+Fiscal Year 2027 Budget for Submittal to the Tax Supervising and
+Conservation Commission.
+G. Per ORS 294.435, the final legal authority to spend funds and impose taxes occurs
+only when the MCLD Board formally adopts the budget, which is scheduled to take
+place in June following the TSCC’s review and additional public testimony.
+H. The MCLD B
+oard will conduct an extensive review and public discussion of the FY
+2027 Budget prior to adopting the budget.
+The Mu
+ltnomah County Library District Board Resolves:
+1. The MCLD Budget Officer/Director will prepare the FY 2027 Approved Budget, as
+amended on April 23, 2026, and transmit it to the TSCC.
+2. The following property tax levy and category are approved and included in the
+Approved Budget forwarded to the TSCC.
+3. This tax is at the authorized tax rate as follows:
+General Government Category
+Operating Taxes Tax Rate/
+$1,000
+Permanent Tax Rate  $   1.2200
+Total Operating Taxes  $    1.2200
+Excluded From Limitation
+Bonded Indebtedness Tax Amount
+General Obligation Debt Levy   $0.00
+Total Debt Levy $0.00
+Page 3 of 3 - Resolution Approving the Multnomah County Library District’s Proposed
+Fiscal Year 2027 Budget for Submittal to the Tax Supervising and
+Conservation Commission.
+4. This approval is for the express purpose of complying with ORS 294.428 and ORS
+294.635 to allow for TSCC review and does not finalize the MCLD's spending plan
+for the upcoming fiscal year.
+ADOPTE
+D this 23rd day of April, 2026.
+MULTNOMAH COUNTY LIBRARY DISTRICT BOARD
+Vince Jones-Dixon, Vice-Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By
+  Katherine Thomas, Assistant County Attorney
+SUBMITTED BY:
+Katie Shifley, Library Finance and Facilities Director
+The Multnomah County Library District identified two minor but required technical changes in
+the Library District Capital Fund. These changes do affect the topline budget or overall fund
+balance for the District, and do not represent a spending or policy shift for the Library. The
+purpose of the technical amendment is simply to rename line items in accordance with local
+budget law. The attached forms detail what these adjustments will look like as amended in the
+Approved stage.
+The first change is to adjust the existing $18.2M 'Transfer in from other funds' line item by
+splitting it out into two lines:
+• The first line will read $13.2M 'Transfer in from other funds' from the District General
+Fund.
+• The second line will read $5M 'Payment from County Capital Bond fund'
+• This change will correctly identify the return of funds from the Capital Bond fund as
+coming from outside the District.
+The second change is to adjust the existing $94M 'contingency' line item and rename it to
+'reserved for future expenditures'
+• This change better reflects the purpose of this line item, which is for future
+infrastructure needs.
+• This change is also required to be in alignment with local budget law. Because no actual
+expenditures are planned from this fund next year, the category must be shifted from
+‘contingency’ to ‘reserved for future expenditure’.
+RESOURCES
+ Capital Fund Multnomah County Library District
+(Fund)
+1 1. Available cash on hand* (cash basis) or 1
+2 $52,721,320 $56,031,066 $71,841,035 2. Beginning working capital (accrual basis) $76,592,505 $76,592,505 2
+3 3. Previously levied taxes estimated to be received 3
+4 4. Interest 4
+5 $2,311,202 $16,141,902 $4,850,050 5. Transferred IN, from other funds $18,231,712 $13,211,712 5
+6 6                      OTHER RESOURCES  6
+7 7  Fines & Fees 7
+8 $2,068,544 $2,373,097 8  Interest 8
+9 $150,000 9  Grants & Gifts 9
+10 10  Sales To The Public 10
+11 11  Payment from County Capital Bond Fund 2517 $5,020,000 11
+12 12 12
+13 13 13
+14  14
+15 15 15
+16 16 16
+17 17 17
+18 18 18
+19 19 19
+20 20 20
+21 21 21
+22 22 22
+23 23 23
+24 24 24
+25 25 25
+26 26 26
+27 27 27
+28   28 28
+29 $57,101,066 $74,696,065 $76,691,085 29. Total resources, except taxes to be levied $94,824,217 $94,824,217 29
+30 30. Taxes estimated to be received 30
+31 31. Taxes collected in year levied 31
+32 $57,101,066 $74,696,065 $76,691,085 32.  TOTAL RESOURCES $94,824,217 $94,824,217 32
+*The balance of cash, cash equivalents and investments in the fund at the beginning of the budget year
+FORM
+LB-20
+Second Preceding
+Year 2023 - 2024
+Budget for Next Year 2026-2027Historical Data
+Actual
+First Preceding
+Year 2024 - 2025
+Adopted Budget
+This Year
+2025 - 2026 RESOURCE DESCRIPTION
+Proposed By
+Budget Officer
+Approved By
+Budget Committee
+Adopted By
+Governing Body
+(Name of Municipal Corporation)
+Page _______
+
+FORM
+LB-30
+(name of fund)
+Adopted Budget
+Second Preceding First Preceding This Year Proposed By Approved By Adopted By
+Year 2023 - 2024 Year 2024 - 2025 2025 - 2026 Budget Officer Budget Committee Governing Body
+ PERSONNEL SERVICES NOT ALLOCATED
+1 1
+2 2
+3 0 3  TOTAL PERSONNEL SERVICES 0
+4 0     Total Full-Time Equivalent (FTE)
+ MATERIALS AND SERVICES NOT ALLOCATED
+5 Contract with Multnomah County
+6 1,070,000 2,300,000 3,530,000 6 Multnomah County Library Capital Construction Fund
+7 1,070,000 2,300,000 3,530,000 7 TOTAL MATERIALS AND SERVICES 0
+CAPITAL OUTLAY NOT ALLOCATED
+8 8
+9 9
+10 0 0 0 10  TOTAL CAPITAL OUTLAY
+DEBT SERVICE
+11 11
+12 12
+13 0 0 0 13 TOTAL DEBT SERVICE 0
+SPECIAL PAYMENTS
+14 14
+15 15
+16 0 0 0 16 TOTAL SPECIAL PAYMENTS 0
+INTERFUND TRANSFERS
+17
+18 18
+19 19
+20 20
+21 21
+22 0 0 0 22 TOTAL INTERFUND TRANSFERS 0
+OPERATING CONTINGENCY
+23 73,161,085 23  TOTAL OPERATING CONTINGENCY 94,824,217
+24 1,070,000 2,300,000 76,691,085 24 Total Requirements Not Allocated 94,824,217 0
+25 25 Total Org./Prog. Requirements
+26 26 Reserved for future expenditure 94,824,217
+27 56,031,066 72,396,065 27  Ending balance (prior years)
+28 28 UNAPPROPRIATED ENDING FUND BALANCE
+29 57,101,066 74,696,065 76,691,085 29        TOTAL REQUIREMENTS 94,824,217 94,824,217
+REQUIREMENTS SUMMARY
+NOT ALLOCATED TO AN ORGANIZATIONAL UNIT OR PROGRAM
+Multnomah County Library District Capital Fund
+
+Actual
+
+REQUIREMENTS DESCRIPTION
+Budget For Next Year 2026 - 2027
+150-504-030  (Rev 10/14)

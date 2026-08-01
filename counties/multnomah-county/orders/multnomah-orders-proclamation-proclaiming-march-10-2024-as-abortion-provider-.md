@@ -1,0 +1,98 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-proclamation-proclaiming-march-10-2024-as-abortion-provider-
+title: 'Proclamation Proclaiming March 10, 2024 As Abortion Provider Appreciation Day In Multnomah County, Oregon.'
+doc_type: ordinance
+citation: 'Proclamation Proclaiming March 10, 2024 As Abortion Provider Appreciation Day In Multnomah County, Oregon.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/proclamation_proclaiming_march_10%2C_2024_as_abortion_provider_appreciation_day_in_multnomah_county%2C_oregon./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 61b8f134978d26eb29864c5ca2e7c7f2b67c4df1fcc4e9d2200642921400db45
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Proclamation Proclaiming March 10, 2024 As Abortion Provider Appreciation Day In Multnomah County, Oregon. (Proclamation Proclaiming March 10, 2024 As Abortion Provider Appreciation Day In Multnomah County, Oregon.)
+
+## At a glance
+
+Proclamation Proclaiming March 10, 2024 As Abortion Provider Appreciation Day In Multnomah County, Oregon. — orders of Multnomah County. 4 pages.
+
+## Full text
+
+BEFORETHEBOARDOFCOUNTYCOMMISSIONERSFORMULTNOMAHCOUNTY, OREGON
+PROCLAMATIONNO.2024-017
+ProclaimingMarch10,2024as AbortionProviderAppreciationDayin MultnomahCounty, Oregon.
+TheMultnomahCountyBoardofCommissionersFinds:
+A. OnMarch10,1993,Dr. DavidGunnwasshotandkilledbya whitesupremacistanti-abortionextremistin thefirstknowninstanceofthemurderofanabortionProvider.
+B. Beginningin 1996,March10th was establishedas AbortionProvidersAppreciationDay, a dayto honorDr. Gunn’s legacyandto celebratetheresilienceandcommitmentofthosewhocontinuetoprovideabortioncare.Thisdayof appreciationhonorsabortionproviders– includingclinicadministrators,patientadvocates,counselors,securitypersonnel,medicalassistants,nurses,advancedpracticeclinicians,physiciansandothers– whoprovideessentialhealthcarewithcourage,compassionanddedication.
+C. Thedecisionaboutwhetherandwhentobecomea parentis oneofthemostimportantlifedecisionsa personcanmake,andabortionprovidersmustbeaccessiblein orderforpeopleto makerealdecisionsabouttheirbodies,livesandfutures.
+D. Abortionprovidersandclinicstaff helpto ensurethatallwomen,transmen,gender-non-binaryandall otherpeoplewhocanbecomepregnantcanmaketheirowndecisionsabouttheirbodiesandtheirpregnancies,andsupporttheirpatients’decisionsbytreatingthemwithdignity, compassionandrespect.
+E. Abortionclinicsandprovidershavehistoricallybeentargetedwithactsofviolenceandvandalismperpetratedby anti-abortionextremists.TheNationalAbortionFederation’s 2022statisticsonviolenceanddisruptionagainstabortionprovidersshowsthatactsaimedatdisruptingservices,harassingprovidersandblockingpatients’accesstoabortioncarehavecontinuedtorisesignificantlyinthewakeofthefallofRoev. Wade, especiallyinprotectivestatesafterdozensofclinicswereforcedtoclosein statesthatbannedabortion.Clinicsinprotectivestatessawadisproportionateincreaseinviolenceanddisruptioninthepastyear,withstalkingincreasingby913%,obstructionsby538%,bombthreatsby133%,burglariesincreaseby100%andassaultsandbatteriesby29%
+.
+F. In MultnomahCounty, despitecontinuingaffirmationofourcommunity’s valuesaroundreproductivechoiceandfreedom,ourprovidershavebeensubjecttoharassmentand protestthat disruptspatientcare,burdensclinicsandstigmatizesprovidersandthosethattheyserve.
+G. OnJune9, 2022theMultnomahCountyBoardof CommissionerspassedaresolutionProtectingAccessto ReproductiveFreedomsand ReproductiveHealth.TheResolutionreaffirmedMultnomahCounty’scommitmenttoadvancingreproductivefreedomand accessto reproductivehealth,and resolvedtoconsiderimmediatelegislativeactionif reproductivefreedomswereto beweakenedoroverturnedatthefederalorstatelevel.
+H. OnJune24,2022theSupremeCourtoftheUnitedStatesissueditsrulinginDobbsv. JacksonWomen’s HealthOrganization, overturningtheconstitutionalprotectionsforabortionsetinRoev. Wade. Thisdecisionhascontinuedtohavedeepripplingeffects,eveninstateswhereabortionismoreaccessible.SincetheDobbsdecision,twentystateshavemovedto banor restrictabortionand25havemeasuresin placeto protectabortionrights.OregonstandsalonewithVermontasthemostprotectivestatesinthecountry.
+2
+I. SincetheDobbsdecision,Oregonhasseenasignificantuptickinabortions,witha reportfromtheSocietyofFamilyPlanningestimatingthat8,880abortionswereperformedin OregonfromJuly2022to March2023
+3
+. Oregoncreateda $15millionfundlastyeartoexpandabortionservicesacrossthestate.Yetdespitecontinuedstateinvestmentinabortionfundsandpatientsupportneedsliketravel
+3
+“#WeCount Report.” Societyof FamilyPlanning. https://doi.org/10.46621/UKAI6324
+2
+“AbortionPolicyintheAbsenceof Roe.” Guttmacher Institute.https://www.guttmacher.org/state-policy/explore/abortion-policy-absence-roe
+“2022ViolenceandDisruptionStatistics”. National AbortionFederation.https://prochoice.org/our-work/provider-security/
+andlodging
+, andfederalcommitmentstoprotectindividuals’rightstotraveltoreceiveabortioncare
+5
+, patientsandprovidersstillfacesignificantbarriersanduncertaintyaboutthepersonalandprofessionalrisksassociatedwithabortioncare.
+J. Thechanginglegalandpoliticallandscapeforabortioncareprovidersdeepenstherisksthataccompanythiswork.Recognizingtheserisks,in January2023,Oregon’s AttorneyGenerallauncheda newReproductiveRightsHotlinethatprovidesfreelegaladviceonOregon’sreproductivehealthlaws,includingissuesrelatedtoabortionaccess.
+K. Themostrecentdataavailablefrom2022indicatesthatmorethana quarteroftheabortionproceduresinOregonhappeninMultnomahCounty
+6
+. Asaccessingcarebecomesmorechallengingacrossthecountry, it is essentialto protectabortioncareinOregonandespeciallyinMultnomahCounty. Inordertoprotectabortioncare,wemustprotectandsupportproviders.
+L. Abortionprovidersin MultnomahCountyandclinicstaff courageouslyprovidecarein thefaceof theserestrictions,politicalinterferenceandthreatstotheirpersonalsafety.
+M. Abortionprovidersandtheclinicstaff whosupportthemandtheirpatientsareanessentialandvaluedpartofthecontinuumofhealthcareinMultnomahCounty,providingquality, compassionate,andnecessaryhealthcaretocountyresidentsandtothosewhotravelhereforcare.
+TheMultnomahCountyBoardofCommissionersProclaims:
+1. March10tobeAbortionProviderAppreciationDayinMultnomahCounty.
+6
+“Abortionsbymonthof occurrenceandcountyof residence”https://www.oregon.gov/oha/ph/birthdeathcertificates/vitalstatistics/pages/induced-abortion-data.aspx
+5
+“ExecutiveOrder onSecuringAccesstoReproductiveandOther HealthcareServices.”
+HouseBill 5202-A(2022)
+2. We thank and support the many abortion providers in Multnomah County
+including the OHSU Department of Obstetrics and Gynecology and Center for
+Women’s Health, Lilith Clinic, and Planned Parenthood Columbia Willamette, are
+committed to ensuring their safety and continued operation in Multnomah County,
+and welcome patients traveling to Multnomah County to access the abortion care
+they need.
+ADOPTED this 14th day of March, 2024.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY , OREGON
+________________________________
+Jessica Vega Pederson, County Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY , OREGON
+By________________________________
+Jenny M. Madkour, County Attorney
+SUBMITTED BY: Chair Jessica Vega Pederson

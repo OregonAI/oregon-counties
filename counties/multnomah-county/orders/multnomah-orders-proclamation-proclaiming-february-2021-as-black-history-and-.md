@@ -1,0 +1,96 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-proclamation-proclaiming-february-2021-as-black-history-and-
+title: 'Proclamation Proclaiming February 2021 As Black History And Future Month In Multnomah County, Oregon'
+doc_type: ordinance
+citation: 'Proclamation Proclaiming February 2021 As Black History And Future Month In Multnomah County, Oregon'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/proclamation_proclaiming_february_2021_as_black_history_and_future_month_in_multnomah_county%2C_oregon/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 27b99a66bfb1f4be8e4f0ca3301605e6516a445d322b2b185bb9ecf4add0560a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Proclamation Proclaiming February 2021 As Black History And Future Month In Multnomah County, Oregon (Proclamation Proclaiming February 2021 As Black History And Future Month In Multnomah County, Oregon)
+
+## At a glance
+
+Proclamation Proclaiming February 2021 As Black History And Future Month In Multnomah County, Oregon — orders of Multnomah County. 3 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+PROCLAMATION NO. 2021-007
+Proclaiming February 2021 as Black History and Future Month in Multnomah County,
+Oregon.
+The Multnomah County Board of Commissioners Finds:
+A. Black History and Future Month is observed throughout the United States to
+celebrate and recognize the vital role and contributions of Black and African Americans
+in our history and culture. Black History Month was first celebrated in 1976.
+B. In 2021, Multnomah County recognizes the Black Family, through
+Representation, Identity, and Diversity. The Black Family offers a rich tapestry of stories
+and images for exploring the tremendous complexity of the Black and African American
+past and present.
+C. Multnomah County acknowledges and rejects the long history of institutional and
+structural racism toward African American and in the United States and this observance
+of Black History Month calls our attention to the continued need to confront racism and
+build a society that lives up to its democratic values.
+D. Multnomah County recognizes that racial and ethnic diversity enriches our
+community.
+E. Multnomah County recognizes and endeavors to dismantle the systemic barriers
+set up to hinder Black and African Americans’ achieving equity, opportunity, and social
+mobility.
+F. Multnomah County further recognizes the resulting and immense economic
+impacts for our Black and African American community members.
+G. Multnomah County honors the rich heritage, extraordinary legacies, and ongoing
+accomplishments of Black and African Americans, including successful entrepreneurial
+endeavors, thriving local businesses, and cultural contributions.
+H. Multnomah County honors and celebrates our Black and African American
+employees working towards eliminating disparities in their communities and creating a
+better future for all community members.
+I. Multnomah County honors the workforce equity contributions of Employees of
+Color (EOC), Managers of Color (MOC) and Black and African American employees
+that ensure safety, trust and belonging for all in our community.
+J. Multnomah County joins the President of the United States’ call to celebrate
+Black and African American excellence and Black and African American advocacy of
+social justice, cultural contributions, racial justice and hope. We celebrate and recognize
+Black and African American excellence not only this month, but 365 days a year.
+The Multnomah County Board of Commissioners Proclaim:
+February 2021 as Black History Month and Black History and Future Month in
+Multnomah County, Oregon, in recognition and celebration of the contributions of Black
+and African Americans to our community.
+ADOPTED this 11th day of February, 2021.
+BOARD OF COUNTY
+COMMISSIONERS
+FOR MULTNOMAH COUNTY,
+OREGON
+  Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY
+ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By:
+ Jenny M. Madkour, County Attorney
+SUBMITTED BY:

@@ -1,0 +1,142 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-2024-104
+title: '2024-104'
+doc_type: ordinance
+citation: '2024-104'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/2024-104.pdf/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: f80bab91b35583e877ea4b99dfe0147cf59e886487f487db2eb6a14f51f90aaa
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 195.300
+    - ORS 271.330
+    - ORS 30.930
+    - ORS 92.010
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 2024-104 (2024-104)
+
+## At a glance
+
+2024-104 — orders of Multnomah County. 10 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO.  2024-104
+Resolution and Public Hearing Authorizing  Transfer of Tax Foreclosed Propert ies to the City of
+Gresham.
+The Multnomah County Board of Commissioners Finds:
+a. On September 27, 2007 (R287167) ; September 2 3, 20 13 ( R338499); and , September 2 6,
+2000 (R338905) , the County acquired ownership through the foreclosure of delinquent tax
+liens to the subject properties located in Multnomah County, described below.
+b. ORS 271.330 (1) authorizes the transfer of tax foreclosed property to a governmental body by
+a political subdivision including transfers without consideration.
+c. The City of Gresham, a municipal corporation of the State of Oregon,  (“City”) has requested,
+under ORS 271.330,  the transfer of certain tax foreclosed propert ies (“Properties”) which are
+more particularly described in the attached Exhibits A-1, A -2, A -3 (“Deeds”).  It is in the
+County’s interest to waive the public purpose reversionary interest  as allowed under ORS
+271.330 (6).
+d. The County’s Tax Title Program published notice of this December 5, 2024, Public Hearing to
+consider the proposed transfer of the Properties as required under ORS 271.330 (5).
+e. The public interest is best served by the County c onveying the Propert ies to the City  without
+monetary consideration and by waiving the reversionary interest.
+The Multnomah County Board of Commissioners Resolves:
+1. The Properties are transferred to the City as requested without consideration for public
+purposes and the County waives its right to a reversionary interest.
+2. The Chair is authorized  is authorized to execute all documents necessary to complete the
+transfer of the Properties, including a deed of conveyance, that is in substantial conformance
+with the attached Exhibits A-1, A-2, A-3.
+ADOPTED this 5th day of December, 2024. BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+REVIEWED:
+SUBMITTED BY: Travis Graves, Interim Director, Dept. of County Management
+EXHIBITA-1TORESOLUTION
+Until achangeisrequested, all taxstatementsshall besenttothefollowingaddress:(Grantee)TITLES, LIENS&COLLECTIONS, CITYOFGRESHAM1333NWEASTMANPARKWAYGRESHAM, OR 97030-3813
+After recordingreturnto:(Grantor) MULTNOMAHCOUNTY℅TAXTITLE, RM175501SEHAWTHORNEBLVDPORTLANDOR97214
+D192688For R287167 BARGAINANDSALEDEED
+MULTNOMAH COUNTY, a political subdivision of the State of Oregon, Grantor, conveys to Grantee,CITY OF GRESHAM, a municipal corporation of the State of Oregon, the following described realproperty:
+SeeAttachedExhibit I toDeedD192688
+BEFORESIGNINGORACCEPTINGTHISINSTRUMENT, THEPERSONTRANSFERRINGFEETITLESHOULD INQUIRE ABOUT THE PERSON’S RIGHTS, IF ANY, UNDER ORS 195.300, 195.301 AND195.305TO195.336ANDSECTIONS5TO11,CHAPTER424,OREGONLAWS2007,SECTIONS2TO9 AND 17, CHAPTER 855, OREGON LAWS 2009, AND SECTIONS 2 TO7, CHAPTER8, OREGONLAWS2010.  THISINSTRUMENTDOESNOTALLOWUSEOFTHEPROPERTYDESCRIBEDINTHISINSTRUMENT IN VIOLATION OF APPLICABLE LAND USE LAWS AND REGULATIONS. BEFORESIGNING OR ACCEPTING THIS INSTRUMENT, THE PERSON ACQUIRING FEE TITLE TO THEPROPERTY SHOULD CHECK WITH THE APPROPRIATE CITY OR COUNTY PLANNINGDEPARTMENT TO VERIFY THAT THE UNIT OF LAND BEING TRANSFERRED IS A LAWFULLYESTABLISHED LOT OR PARCEL, AS DEFINED IN ORS 92.010 OR 215.010, TO VERIFY THEAPPROVEDUSESOFTHELOTORPARCEL,TODETERMINEANYLIMITSONLAWSUITSAGAINSTFARMINGOR FOREST PRACTICES, AS DEFINED IN ORS 30.930, AND TOINQUIREABOUTTHERIGHTS OF NEIGHBORING PROPERTY OWNERS, IF ANY, UNDER ORS 195.300, 195.301 AND195.305TO195.336ANDSECTIONS5TO11,CHAPTER424,OREGONLAWS2007, SECTIONS2TO9 AND 17, CHAPTER 855, OREGON LAWS 2009, AND SECTIONS 2 TO7, CHAPTER 8, OREGONLAWS2010.
+The true consideration for this conveyance is $0.00 and other good and valuable non-monetaryconsideration.
+INWITNESSWHEREOF, the MultnomahCountyBoardof Commissionersbyauthorityof anOrder of theBoard, entered on December 5, 2024, by Order No. 2024-0XX, has caused this deed tobeexecutedbytheChair of theCountyBoard.
+Datedthis_____dayof December 2024. BOARDOFCOUNTYCOMMISSIONERSFORMULTNOMAHCOUNTY, OREGON
+JessicaVegaPederson, Chair
+STATEOFOREGON )) ssCOUNTYOFMULTNOMAH )
+This Deed was acknowledgedbeforemethis______dayof December 2024, byJessicaVegaPederson,to me personally known, as Chair of the Multnomah County Board of Commissioners, on behalf of theCountybyauthorityof theMultnomahCountyBoardof Commissioners
+MarinaHoviousNotaryPublicfor Oregon;MyCommissionexpires: 5/10/2026
+REVIEWED: ACCEPTEDBY:JENNYM. MADKOUR, COUNTYATTORNEY CITYOFGRESHAMFORMULTNOMAHCOUNTY, OREGON
+By______________________________` By______________________________CarlosRasch, Assistant CountyAttorney CityManager
+APPROVEDASTOFORM:
+By______________________________City Attorney
+Exhibit I toDeedD192688
+R287167
+A TRACT OF LAND IN BLOCK 5 OF THOMPSON’SADDITIONTOTHECITYOF GRESHAM, ALSOBEING IN THE SOUTHWEST ONE-QUARTER OF SECTION 10, TOWNSHIP 1 SOUTH, RANGE 3EAST OF THE WILLAMETTE MERIDIAN, MULTNOMAH COUNTY, OREGON, SAID PARCEL BEINGMOREPARTICULARLYDESCRIBEDASFOLLOWS:
+THAT PORTION OF LOT 5, BLOCK 5 OF THOMPSON’S ADDITION TO THE CITY OF GRESHAMLYINGEASTERLYOF THEEAST LINEOF S.E. HOODAVENUEASSAIDSTREETWASCONVEYEDTOTHECITYOF GRESHAMBYDEEDRECORDEDOF MARCH23, 1973 INBOOK916, PAGE1442MULTNOMAHCOUNTYDEEDRECORDS.
+EXHIBITA-2TORESOLUTION
+Until achangeisrequested, all taxstatementsshall besenttothefollowingaddress:(Grantee)TITLES, LIENS&COLLECTIONS, CITYOFGRESHAM1333NWEASTMANPARKWAYGRESHAM, OR 97030-3813
+After recordingreturnto:(Grantor) MULTNOMAHCOUNTY℅TAXTITLE, RM175501SEHAWTHORNEBLVDPORTLANDOR97214
+D192689For R338499 BARGAINANDSALEDEED
+MULTNOMAH COUNTY, a political subdivision of the State of Oregon, Grantor, conveys to Grantee,CITY OF GRESHAM, a municipal corporation of the State of Oregon, the following described realproperty:
+SeeAttachedExhibit I toDeedD192689
+BEFORESIGNINGORACCEPTINGTHISINSTRUMENT, THEPERSONTRANSFERRINGFEETITLESHOULD INQUIRE ABOUT THE PERSON’S RIGHTS, IF ANY, UNDER ORS 195.300, 195.301 AND195.305TO195.336ANDSECTIONS5TO11,CHAPTER424,OREGONLAWS2007,SECTIONS2TO9 AND 17, CHAPTER 855, OREGON LAWS 2009, AND SECTIONS 2 TO7, CHAPTER8, OREGONLAWS2010.  THISINSTRUMENTDOESNOTALLOWUSEOFTHEPROPERTYDESCRIBEDINTHISINSTRUMENT IN VIOLATION OF APPLICABLE LAND USE LAWS AND REGULATIONS. BEFORESIGNING OR ACCEPTING THIS INSTRUMENT, THE PERSON ACQUIRING FEE TITLE TO THEPROPERTY SHOULD CHECK WITH THE APPROPRIATE CITY OR COUNTY PLANNINGDEPARTMENT TO VERIFY THAT THE UNIT OF LAND BEING TRANSFERRED IS A LAWFULLYESTABLISHED LOT OR PARCEL, AS DEFINED IN ORS 92.010 OR 215.010, TO VERIFY THEAPPROVEDUSESOFTHELOTORPARCEL,TODETERMINEANYLIMITSONLAWSUITSAGAINSTFARMINGOR FOREST PRACTICES, AS DEFINED IN ORS 30.930, AND TOINQUIREABOUTTHERIGHTS OF NEIGHBORING PROPERTY OWNERS, IF ANY, UNDER ORS 195.300, 195.301 AND195.305TO195.336ANDSECTIONS5TO11,CHAPTER424,OREGONLAWS2007, SECTIONS2TO9 AND 17, CHAPTER 855, OREGON LAWS 2009, AND SECTIONS 2 TO7, CHAPTER 8, OREGONLAWS2010.
+The true consideration for this conveyance is $0.00 and other good and valuable non-monetaryconsideration.
+INWITNESSWHEREOF, the MultnomahCountyBoardof Commissionersbyauthorityof anOrder of theBoard, entered on December 5, 2024, by Order No. 2024-0XX, has caused this deed tobeexecutedbytheChair of theCountyBoard.
+Datedthis_____dayof December 2024. BOARDOFCOUNTYCOMMISSIONERSFORMULTNOMAHCOUNTY, OREGON
+JessicaVegaPederson, Chair
+STATEOFOREGON )) ssCOUNTYOFMULTNOMAH )
+This Deed was acknowledgedbeforemethis______dayof December 2024, byJessicaVegaPederson,to me personally known, as Chair of the Multnomah County Board of Commissioners, on behalf of theCountybyauthorityof theMultnomahCountyBoardof Commissioners.
+MarinaHoviousNotaryPublicfor Oregon;MyCommissionexpires: 5/10/2026
+REVIEWED: ACCEPTEDBY:JENNYM. MADKOUR, COUNTYATTORNEY CITYOFGRESHAMFORMULTNOMAHCOUNTY, OREGON
+By______________________________ By______________________________CarlosRasch, Assistant CountyAttorney CityManager
+APPROVEDASTOFORM:
+By______________________________City Attorney
+Exhibit I toDeedD192689
+R338499
+Aparcel of landlocatedintheSoutheast one-quarter of Section7, Township1South, Range3East of theWillamette Meridian, in theCityof Gresham, Countyof MultnomahandStateof Oregon, moreparticularlydescribedasfollows:
+Commencing at the East one-quarter corner of said Section 7; thence South 0°11’53” East adistanceof2645.65 feet to the Southeast corner of said Section 7; thenceNorth22°23’26” West adistanceof 79.42feet to a point of intersection of the West right-of-way line of S.W. Highland Drive (30.00 feet West ofcenterline) and a line 45.00 feet Southwesterly of, when measured at right angled to the centerline ofPowell Valley Road and the true point of beginning of this description: thence North 66°58’50” Westparallel to and 45.00 feet Southwesterly of the centerline of Powell ValleyRoadadistanceof 139.73feetto a point of offset spiral, opposite engineer’s centerline Station 498+46.93 P.T.; thence a distance of197.64 feet along an offset spiral curve (offset 45.00 feet Southwesterly of centerline) to the left (longchord bears North 67°58’29” West a distance of 197.62 feet) to a point of circular curve oppositeengineer’s Station 496+46.93 P.C.S.; thence Northwesterly a distance of 27.21 feet along the arc of a1864.86 foot circular curve to the left through a central angle of 00°51’05’’ (long cord bears North69°58’50’’ West a distance of 27.71 feet) to a point of non-tangency; thence North 00°37’01” East adistance of 11.77 feet to a point on the South right-of-way of Powell Valley Road as established byMultnomah County asCountyRoadNo. 535.60, 30.00feet Southwesterlyof thecenterlineof saidCountyRoad; thence South 73°55’34” East along the South right-of-way line of said County Road No. 535.60adistance of 76.07 feet; thenceSouth66°58’50” East alongtheSouthlineof saidCountyRoadNo. 535.60a distance of 287.53 feet to a point on the right-of-way of S.W. HighlandDrive30.00feet Westerlyof thecenterlinethereof; thenceSouth00°11’53” East alongsaidright-of-wayadistanceof 16.32feet tothetruepoint of beginningof thedescription.
+EXHIBITA-3TORESOLUTION
+Until achangeisrequested, all taxstatementsshall besenttothefollowingaddress:(Grantee)TITLES, LIENS&COLLECTIONS, CITYOFGRESHAM1333NWEASTMANPARKWAYGRESHAM, OR 97030-3813
+After recordingreturnto:(Grantor) MULTNOMAHCOUNTY℅TAXTITLE, RM175501SEHAWTHORNEBLVDPORTLANDOR97214
+D192690For R338905 BARGAINANDSALEDEED
+MULTNOMAH COUNTY, a political subdivision of the State of Oregon, Grantor, conveys to Grantee,CITY OF GRESHAM, a municipal corporation of the State of Oregon, the following described realproperty:
+SeeAttachedExhibit I toDeedD192690
+BEFORESIGNINGORACCEPTINGTHISINSTRUMENT, THEPERSONTRANSFERRINGFEETITLESHOULD INQUIRE ABOUT THE PERSON’S RIGHTS, IF ANY, UNDER ORS 195.300, 195.301 AND195.305TO195.336ANDSECTIONS5TO11,CHAPTER424,OREGONLAWS2007,SECTIONS2TO9 AND 17, CHAPTER 855, OREGON LAWS 2009, AND SECTIONS 2 TO7, CHAPTER8, OREGONLAWS2010.  THISINSTRUMENTDOESNOTALLOWUSEOFTHEPROPERTYDESCRIBEDINTHISINSTRUMENT IN VIOLATION OF APPLICABLE LAND USE LAWS AND REGULATIONS. BEFORESIGNING OR ACCEPTING THIS INSTRUMENT, THE PERSON ACQUIRING FEE TITLE TO THEPROPERTY SHOULD CHECK WITH THE APPROPRIATE CITY OR COUNTY PLANNINGDEPARTMENT TO VERIFY THAT THE UNIT OF LAND BEING TRANSFERRED IS A LAWFULLYESTABLISHED LOT OR PARCEL, AS DEFINED IN ORS 92.010 OR 215.010, TO VERIFY THEAPPROVEDUSESOFTHELOTORPARCEL,TODETERMINEANYLIMITSONLAWSUITSAGAINSTFARMINGOR FOREST PRACTICES, AS DEFINED IN ORS 30.930, AND TOINQUIREABOUTTHERIGHTS OF NEIGHBORING PROPERTY OWNERS, IF ANY, UNDER ORS 195.300, 195.301 AND195.305TO195.336ANDSECTIONS5TO11,CHAPTER424,OREGONLAWS2007, SECTIONS2TO9 AND 17, CHAPTER 855, OREGON LAWS 2009, AND SECTIONS 2 TO7, CHAPTER 8, OREGONLAWS2010.
+The true consideration for this conveyance is $0.00 and other good and valuable non-monetaryconsideration.
+INWITNESSWHEREOF, the MultnomahCountyBoardof Commissionersbyauthorityof anOrder of theBoard, entered on December 5, 2024, by Order No. 2024-0XX, has caused this deed tobeexecutedbytheChair of theCountyBoard.
+Datedthis_____dayof December 2024. BOARDOFCOUNTYCOMMISSIONERSFORMULTNOMAHCOUNTY, OREGON
+JessicaVegaPederson, Chair
+STATEOFOREGON )) ssCOUNTYOFMULTNOMAH )
+This Deed was acknowledgedbeforemethis______dayof December 2024, byJessicaVegaPederson,to me personally known, as Chair of the Multnomah County Board of Commissioners, on behalf of theCountybyauthorityof theMultnomahCountyBoardof Commissioners.
+MarinaHoviousNotaryPublicfor Oregon;MyCommissionexpires: 5/10/2026
+REVIEWED: ACCEPTEDBY:JENNYM. MADKOUR, COUNTYATTORNEY CITYOFGRESHAMFORMULTNOMAHCOUNTY, OREGON
+By______________________________ By______________________________CarlosRasch, Assistant CountyAttorney CityManager
+APPROVEDASTOFORM:
+By______________________________City Attorney
+Exhibit I toDeedD192690
+R338905
+A PARCEL OF LAND IN THESOUTHWEST ONE-QUARTEROF SECTION9, TOWNSHIP1 SOUTH,RANGE 3 EAST, WILLAMETTE MERIDIAN, MULTNOMAH COUNTY, STATE OF OREGON,DESCRIBEDASFOLLOWS:BEGINNINGAT APOINT WHICHISS00°03’07”E167.83 FEETFROMHURLBURTSNWCORNEROFTHE SOUTHWEST ONE-QUARTER OF SECTION 9, TOWNSHIP 1 SOUTH, RANGE 3 EAST,WILLAMETTE MERIDIAN; THENCE ALONG THE ARC OF A 330 FOOT RADIUS CURVE TO THELEFT, 32.96 FEET (THE CHORD BEARS SOUTH 27°31’59” EAST, 32.94 FEET) TO A POINT OFREVERSECURVE; THENCEALONGTHEARCOF A13 FOOT RADIUSCURVERIGHT, 22.49 FEET(THE CHORD BEARS SOUTH 19°10’09” WEST, 19.79 FEET) TO A POINT OF CURVE; THENCEALONG THE ARC OF A 795.75 FOOT RADIUS CURVE RIGHT, 9.30 FEET (THE CHORD BEARSSOUTH 69°04’02” WEST 9.30 FEET); THENCE NORTH 00°03’07” WEST TO THE POINT OFBEGINNING.

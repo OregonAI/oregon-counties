@@ -1,0 +1,10516 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-2025-037
+title: '2025-037'
+doc_type: ordinance
+citation: '2025-037'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/2025-037.pdf/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e180f0d5aa872e65201090094a0615f00ea9132372660e8c54745fc00cad59bf
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 294.456
+    - ORS 423.560
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 2025-037 (2025-037)
+
+## At a glance
+
+2025-037 — orders of Multnomah County. 72 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO.
+Adopting the Fiscal Year 2026 Budget for Multnomah County and Mak ing Appropriations
+Thereunder, Pursuant to ORS 294.456.
+The Multnomah County Board of Commissioners Finds:
+A. The Multnomah County budget, as prepared by the duly appointed Budget Officer , has
+been considered and approved by the Board acting as the Budget Committee.
+B. A public hearing on this budget was held before the Multnomah County Tax Supervising
+and Conservation Commission on the 4th of June, 2025.
+C. The budget is on file in the Office of the Chair of Multnomah County.
+D. The Board has made certain amendments to the above -described budget and those
+amendments are attached to this resolution as Attachment A.
+E. The appropriations authorized are attached to this resolution as Attachment B.
+F. Board budget notes of actions to be taken during the next year are attached to this
+resolution as Attachment C.
+G. The Tax Supervising and Conservation Commission has certified the budget , and there
+are no objections.
+The Multnomah County Board of Commissioners Resolves:
+1. The budget,  in the amount of $4,002,065,887 including Attachments A, B, and C,  is
+adopted as the budget of Multnomah County, Oregon.
+2. The appropriations shown in Attachment B as amended are authorized for the fiscal year
+July 1, 2025 to June 30, 2026.
+ADOPTED this 12th day of June 2025.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By
+     Jenny M. Madkour, County Attorney
+SUBMITTED BY: Christian Elkin, Chief Budget Officer, County Management
+2025-037
+FY 2026 BOARD BUDGET AMENDMENTS as of June 12, 2025 - ADOPTED
+MULTNOMAH COUNTY
+FY 2026 Adopted Board Revenue Amendments General Fund
+Proposed  By Vote Revenue Source/Program Reduction One-Time-Only Ongoing FTE
+1 Vega Pederson 5-0 New General Fund (Opioid Settlement Revenue Swap) 545,000
+2a Vega Pederson 5-0 Roll Over Unused FY 2025 Public Campaign Finance Contingency500,000
+2b Vega Pederson 5-0 New General Fund (FY 2025 ARP Rent Assistance Swap)113,000
+3 Vega Pederson 5-0 New General Fund (FY 2025 Gun Violence Grant Revenue Swap)495,288
+4 Vega Pederson 5-0 New General Fund (Balance of GF hold for Local 88 Market Study 2 of 3) 254,121
+Total Proposed Revenue 1,108,288799,121
+16/17/2025
+FY 2026 BOARD BUDGET AMENDMENTS as of June 12, 2025 - ADOPTED
+MULTNOMAH COUNTY
+FY 2026 Board ADOPTED Amendments General Fund SHS Proposed Expenditure Offsets General Fund SHS
+Proposed
+ By
+Votes Description Dept. OTO Ongoing FTE SHS OTO SHS
+Ongoing
+SHS
+FTE
+Description OTO Ongoing FTE SHS OTO SHS
+Ongoing
+SHS
+FTE
+1 Brim-Edwards 5-0 Revised - Restore School Based Mental Health HD 834,122 5.01 Reduce 1.00 FTE in Sobering (COO Offset) and Contracted
+Services in 40104B HD
+-214,837 -1.00
+Vega Pederson DCHS M&S (COO Offset) -30,000
+Moyer HD Grant (COO Offset) -1,476
+Revenue from Medicaid Billing* -587,809
+5 Singleton 5-0 Fund Market & Wy'East Shelters for 9 months and
+Fund PSH Expansion for Q4
+HSD 169,000 Reduce ECHRC Cook Plaza Operations for FY 2026 -44,472
+Reduce HSD Diversion Services -124,528
+8 Jones-Dixon 5-0 Add'l Housing Placement Services East County Cities HSD 124,000 Reduce ECHRC Cook Plaza Operations for FY 2026 -124,000
+9 Jones-Dixon 5-0 Restore Full Funding of Gresham Housing Placement
+and Retention
+HSD 188,491 Reduce ECHRC Cook Plaza Operations for FY 2026 -188,491
+10 Moyer 5-0 Expand the Homeless Mobile Intake Team for
+individuals with SPMI
+DCHS 500,000 Reduce Complaints Investigation Unit (CIU) -736,335 -3.00
+ADA Gender Neutral Restroom Multnomah Bldg DCA 236,335
+11
+Singleton/
+Brim-Edwards
+5-0 Restore Income Acquisition - Employment Programs HSD 1,090,344 1,830,190 Reduce SHS-Funded DCHS and ADVSD LTSS Nursing
+Homes and Homeless Services FTE
+-1,830,190 -3.00
+Employment and
+Income Aquistion
+Programs
+ADVSD LTSS CGF and Medicaid for HMIT Team DCHS 327,000 Medicaid Revenue from CGF Match -870,000
+Additional Medicaid General Fund DCHS 870,000 Reduce Chair's Office -148,614 -1.00
+Reduce COO's Office -235,724
+Reduce RACC -300,000
+Reduce Office of Sustainability -63,929
+Reduce Sobering Center (3.00 FTE Community Health
+Specialist)
+-337,254 -3.00
+Reduce State of the Children Report -150,000
+New HD Contracted Services and BH Program Supervisor
+and HD Grant Offset
+-181,823 -1.00
+16
+Brim-Edwards/
+Vega Pederson/
+Jones-Dixon
+5-0 Adapt Staffing Needs for LPSCC including Report on
+Youth Violence Prevention
+LPSCC No Financial Impact
+17 Brim-Edwards/Moyer 5-0 Restore Funding for Animal Services Emergency After
+Hours Care
+DCS 200,000 Behavioral Health Executive Specialist (COO Offset) -114,970 -1.00
+HD Finance Specialist (FBM) (Remainder of Position
+Reduction in Amendment 31) (COO Offset)
+-85,030 -1.00
+19 Moyer 5-0 Increase Marketing and Branding NOND No Financial Impact
+20 Moyer 5-0 Add 2.50 FTE to Budget Office DCM 571,887 2.50 3.00 Vacant HR FTE or Equivalent Amount -571,887 -3.00
+21 Jones-Dixon/Moyer 5-0 OSU Extension Sponsorship NOND 40,000 DCM COO M&S (COO Offset) -40,000
+22 Jones-Dixon 5-0 Restore Continuous Improvement Staffing in COO's
+Office
+DCM 201,982 DCJ Vacant Research and Planning FTE (COO Offset) -182,868 -1.00
+DCM COO M&S (COO Offset) -19,114
+25 Brim-Edwards 3-2 Restore and Improve Capacity for Body Worn
+Cameras Program
+DA 810,500 3.00 Vacancy Hiring Delay (see amendment #42) -810,500
+26 Brim-Edwards 3-2 Restore Organized Retail & Auto Theft Task Forces DA 500,111 2.40 Vacancy Hiring Delay (see amendment #42) -389,500
+Jones-Dixon HD Vacant Program Specialist (BHD Consumer Engagement) (COO Offset) -76,758 -1.00
+DCM COO M&S (COO Offset) -15,886
+HD Grant Offset (COO Offset) -17,967
+26/17/2025
+FY 2026 BOARD BUDGET AMENDMENTS as of June 12, 2025 - ADOPTED
+MULTNOMAH COUNTY
+FY 2026 Board ADOPTED Amendments (cont.) General Fund SHS Proposed Expenditure Offsets General Fund SHS
+Proposed
+ By
+Votes Description Dept. OTO Ongoing FTE SHS OTO SHS
+Ongoing
+SHS
+FTE
+Description OTO Ongoing FTE SHS OTO SHS
+Ongoing
+SHS
+FTE
+27 Singleton/
+Jones-Dixon
+5-0
+Mini Grants for CBOs for Voter Outreach and
+Education in East Multnomah County
+DCS 100,000 Offset is Revenue Amendment 2a/b -100,000
+28 Singleton 5-0 East County Fair Housing Investigations DCHS 128,000 Offset is Revenue Amendment 2a/b -128,000
+29 Brim-Edwards/
+Singleton
+5-0 Lobbying Transparency Contingency Earmark
+($100,000)
+Countywide Contingency Earmark
+31 Brim-Edwards/Moyer 3-2 Restore Domestic Violence Unit DDA DA 222,000 1.00 Remainder of HD Finance Specialist (FBM) (COO Offset) -83,492
+Restore Treatment Court DDA DA 205,064 1.00 Health Department Grant Offset (COO Offset) -10,557
+Restore Civil Commitment DDA DA 211,985 1.00 Offset is Revenue Amendment 3 -356,871
+Remainder Sobering Contract Reduction 40104B -137,809
+Sustainability (10018) - Contracted Services and M&S -50,320
+32 Singleton 5-0 Restore Funding to STI and Clinical Services for a
+nPEP/PrEP Navigator
+HD/DCM 107,284 Equity Focused Organizational Development Contracting -100,000
+Offset is General Fund Contingency -7,284
+33 Singleton/
+Jones-Dixon
+5-0 Increase Summerworks Participants by 57 Youth NOND 285,000 Offset is Revenue Amendment 2a/b -285,000
+34 Singleton 5-0 HSD Housing Immigration Legal Services HSD 303,131 5,701 Offset is Revenue Amendment 1 -545,000
+Legal Services Eviction Defense Legal Services HSD 339,000 Offset is Revenue Amendment 3 -64,417
+Project Reset (Expugement) DCHS 250,000 Offset is Revenue Amendment 4 -254,121
+Onsite Legal at Courthouse DCHS 247,324 Reduce HSD Navigation Services -540,491
+Peer Navigators - Restoration DCHS 419,431 Reduce HSD Diversion Services -49,658 -14,374
+Eviction Prevention DCHS 124,528 210,164 MCDA MAAP Reduce 1.00 FTE -290,889 -1.00
+Offset is Revenue Amendment 2a/b -100,000
+Offset is General Fund Contingency -40,329
+37 Jones-Dixon 5-0 East County Culturally-Specific Community Food
+Systems Grant
+DCHS 74,000 Offset is Revenue Amendment 3 -74,000
+40 Jones-Dixon 5-0 Restore East County Liaison Position HSD 240,000 Reduce ECHRC Cook Plaza Operations for FY 2026 -240,000
+43 Moyer 4-1 Countywide Countywide Sponsorship Savings TBD
+45 Moyer 5-0 Contracted Security Services in Contingency Earmark
+($500,000)
+Countywide Contingency Earmark
+46 Moyer 1-4
+(Revote 5-
+0)
+Restore STI Clinic Services HD 221,472 10000C - 1.00 FTE Vacant Related to HB 4002 -221,472
+47 Budget Office 5-0 Technical Placeholder Countywide
+48 Singleton 5-0 Budget Neutral SARP SHS/CGF Swap DCJ/HSD 993,663 -993,663 HSD SHS/CGF Swap -993,663 993,663
+Total Additional Expenditures 3,456,365 6,618,798 15.91 983,356 1,129,527 0.00 Total Offsets -3,513,823 -6,561,340 -17.00 -1,231,884 -880,999 -3.00
+County General Fund Total 10,075,163 SHS Total 2,112,883 County General Fund Total -10,075,163 SHS Total -2,112,883
+Notes: * Revenue listed as a negative in order to balance against added expenditures
+36/17/2025
+FY 2026 BOARD BUDGET AMENDMENTS as of June 12, 2025 - ADOPTED
+MULTNOMAH COUNTY
+Failed Amendments General Fund SHS Proposed Expenditure Offsets General Fund SHS
+Proposed  By BCC Vote Description Dept. OTO Ongoing FTE SHS OTO SHS
+Ongoing
+SHS
+FTE
+Description OTO Ongoing FTE SHS OTO SHS
+Ongoing
+SHS
+FTE
+23 Moyer/Brim-Edwards 3-2
+(Revote 2-
+3)
+Reduce Health Inspections Fees for Food Service
+Increase from 33% to 10% (Reduction in Revenue)
+HD Eliminate Vacancies in the Health Department
+24 Brim-Edwards/Moyer 2-3 Create Office of Board Services moves to COO NOND No Financial Impact
+Withdrawn Amendments General Fund SHS Proposed Expenditure Offsets General Fund SHS
+Proposed
+ By
+Prog. # Description Dept. OTO Ongoing FTE SHS OTO SHS
+Ongoing
+SHS
+FTE
+Description OTO Ongoing FTE SHS OTO SHS
+Ongoing
+SHS
+FTE
+1 Brim-Edwards/Vega Pederson Restore School Based Mental Health HD 696,313 4.18 Reduce 1.00 FTE in Sobering (COO Offset) and Contracted
+Services in HD
+-446,313 -1.00
+Revenue from Medicaid Billing* -250,000
+2 Brim-Edwards Restore 4.00 FTE in the District Attorney's Office DA 1,044,727 4.00 Reduce 6.00 Vacant FTE (countywide) -1,044,727 -6.00
+3 Brim-Edwards/Moyer Increase Lone Fir Capital Investment NOND 500,000 Offset is Revenue Amendment 2a -500,000
+4 Singleton Fund Permanent Supportive Housing Expansion HSD 6,845,675 Reduce Ongoing SHS in Safety Off the Streets Adult Shelter (30200) -6,845,675
+6 Singleton 30210B Backfill Service Coordination and Navigation Services HSD 259,203 281,288 Reduce Homeless Response System (NOND) -281,288 -1.00
+7 Moyer 40082 Restore Student Base Mental Health (SBMH) HD 788,140 5.01 Reduce FTE in Chair's Office (10000A NOND) -267,601 -1.00
+Reduce FTE in COO's Office (72000 DCM) -425,578 -1.00
+Anticipated Medicaid Revenue* -100,000
+12 Moyer COO's Office to reimagine HR Eliminate 8.00 HR Positions or Fiscal Equivalent -1,500,000 -8.00
+13 Moyer 72021 Reduce CIU Refocus on Investigating Protected Class HR Complaints Reduce CIU positions by 3.00 FTE -736,335 -3.00
+14 Moyer Fully Fund Lone Fir Memorial NOND 1,050,000
+Renovate Two Multco Building Restrooms into One
+Multi-Stall Gender-Neutral Restroom
+DCA 500,000
+15 Brim-Edwards/Moyer Restore 1.00 FTE Treatment Court DDA and 1.00 FTE
+Civil Commitment DDA
+DA 417,049 2.00 Opioid Settlement Revenue (Revenues 1) -417,049
+18 Moyer/Jones-Dixon 30100 Additional $433,360 for Housing, Immigration, and
+Legal Services for Individuals in the Coordinated
+Access; $339,000 for Eviction Defense Legal Svcs.
+HSD 772,360 Reduce Materials and Supplies, and Vacant Positions -2,657,621
+25131A $250,000 Legal Services Days and $580,000 to
+Eviction Prevention In-Courtroom Support
+DCHS 830,000
+25131B Peer Navigators DCHS 621,261
+TBD $100,000 for Community Partners Processing Delayed
+Expungements
+TBD 100,000
+25131C Eviction Legal Defenses DCHS 334,000
+30 Brim-Edwards/Jones-Dixon Culturally-Specific Meals DCHS  125,000 Offset is Revenue Amendment 4 -125,000
+35 Moyer Countywide
+COLA Reduction from 2.4% to 1.5% for Nonrepresented Management Earning over $125,000-516,583
+36 Jones-Dixon New Complete Construction of the Memorial at Block 14 at
+Lone Fir Cemetery
+NOND 1,000,000 Offsets Forthcoming
+38 Jones-Dixon New Safety Improvements at Vance Park DCA 75,000 TBD
+39 Jones-Dixon New Continuum Care Coordinator and Services for High-
+Risk Youth and their Families  (EMOPI)
+TBD 210,000 Offset is Revenue Amendment 3 -210,000
+41 Jones-Dixon/Moyer 25145 Ensure Integration of Successful Families
+Programming into SUN Community Schools
+DCHS 2,000,000 Offset TBD -2,000,000
+42 Brim-Edwards Phased Vacancy Filling (Hiring Delay) (see amendments #25 and #26)
+44 Jones-Dixon New Youth Violence Study DCM 75,000 Offset is Revenue Amendment 3 -75,000
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Amendments  are  edits  to  the  budget  that  change  where  money  is  spent,  how  much  is
+spent,
+
+or
+
+how
+
+services
+
+are
+
+delivered.
+
+Amendments
+
+require
+
+a
+
+majority
+
+of
+
+the
+
+Board
+
+to
+
+become
+
+part
+
+of
+
+the
+
+final
+
+budget,
+
+and
+
+must
+
+keep
+
+the
+
+budget
+
+balanced.
+
+The
+
+Amendment
+
+process
+
+is
+
+a
+
+crucial
+
+step
+
+that
+
+allows
+
+the
+
+elected
+
+commissioners
+
+to
+
+shape
+
+the
+
+county's
+
+programmatic
+
+and
+
+financial
+
+roadmap
+
+based
+
+on
+
+their
+
+priorities
+
+and
+
+public
+
+input.
+
+  The  following  amendments  were  adopted  by  the  Board  of  County  Commissioners  on
+June  12,  2025.
+ Revenue  Amendment  #1  Chair  Jessica  Vega  Pederson
+ Adds  $545,000  in  ongoing  General  Funds  Appropriates  $545,000  in  ongoing  General  Fund  that  can  be  achieved  by  budgeting  for
+the
+
+new
+
+ongoing
+
+Opioid
+
+Settlement
+
+revenue
+
+in
+
+the
+
+Health
+
+Department
+
+and
+
+freeing
+
+up
+
+ongoing
+
+General
+
+Fund.
+
+The
+
+Health
+
+Department
+
+will
+
+identify
+
+the
+
+appropriate
+
+program
+
+add
+
+the
+
+revenue
+
+to
+
+and
+
+the
+
+transaction
+
+will
+
+be
+
+done
+
+in
+
+a
+
+Health
+
+department
+
+amendment
+
+that
+
+will
+
+move
+
+the
+
+program
+
+expenses.
+    Revenue  Amendment  #2A  and  B  Chair  Jessica  Vega  Pederson   Adds  $613,000  in  one-time-only  General  Funds  Appropriates  $613,000  in  anticipated  Beginning  Working  Capital  (BWC)  in  FY  2026.
+This
+
+amendment
+
+rolls
+
+over
+
+$500,000
+
+of
+
+the
+
+remaining
+
+FY
+
+2025
+
+contingency
+
+earmark
+
+for
+
+Public
+
+Campaign
+
+Finance
+
+for
+
+use
+
+as
+
+one-time-only-only
+
+in
+
+FY
+
+2026,
+
+and
+
+rolls
+
+over
+
+$113,000
+
+from
+
+Refunds
+
+issued
+
+on
+
+Rent
+
+Assistance
+
+paid
+
+for
+
+with
+
+American
+
+Rescue
+
+Plan
+
+(ARP)
+
+revenue
+
+in
+
+past
+
+budget
+
+years.
+
+This
+
+ARP
+
+revenue
+
+can
+
+be
+
+used
+
+in
+
+FY
+
+2025,
+
+which
+
+will
+
+free
+
+up
+
+$113,000
+
+in
+
+FY
+
+2025
+
+General
+
+Fund
+
+that
+
+can
+
+be
+
+used
+
+as
+
+one-time-only
+
+(OTO)
+
+funding
+
+in
+
+FY
+
+2026.
+
+ FY  2026  Board  ADOPTED  Amendments   Page  1
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Revenue  Amendment  #3  Chair  Jessica  Vega  Pederson  Proposed  on  May  29,  2025
+ Rolls  over  $495,288  of  Ongoing  General  Fund  from  Gun  Violence  Grant  Revenue
+Swap
+ A  May  2025  budget  modification  appropriated  additional  OTO  revenue  from  the  Oregon
+Health
+
+Authority
+
+that
+
+can
+
+be
+
+used
+
+to
+
+address
+
+Gun
+
+Violence.
+
+These
+
+funds
+
+must
+
+be
+
+invoiced
+
+by
+
+the
+
+end
+
+of
+
+June
+
+2025
+
+and
+
+are
+
+funding
+
+activity
+
+that
+
+was
+
+already
+
+in
+
+HD's
+
+FY
+
+2025
+
+budget.
+
+This
+
+freed
+
+up
+
+$495,288
+
+in
+
+CGF
+
+which
+
+will
+
+be
+
+placed
+
+in
+
+contingency
+
+in
+
+FY
+
+2025.
+
+This
+
+amendment
+
+to
+
+roll
+
+this
+
+over
+
+the
+
+funding
+
+to
+
+FY
+
+2026.
+
+  Revenue  Amendment  #4  Chair  Jessica  Vega  Pederson  Proposed  on  May  29,  2025
+ Remaining  Local  88  Market  Study  (2  of  3)  Estimate  -  $254,121  Ongoing  General
+Fund
+ The  FY  2026  budget  included  a  $600,000  ongoing  set  aside  to  cover  the  increased
+costs
+
+of
+
+the
+
+second
+
+L88
+
+Market
+
+Study.
+
+The
+
+study
+
+and
+
+estimates
+
+were
+
+recently
+
+finalized
+
+and
+
+the
+
+final
+
+additional
+
+CGF
+
+costs
+
+will
+
+be
+
+approximately
+
+$346,000.
+
+The
+
+remaining
+
+$254,121
+
+can
+
+be
+
+reallocated
+
+to
+
+some
+
+other
+
+ongoing
+
+purpose.
+
+This
+
+amendment
+
+reduces
+
+the
+
+remaining
+
+set
+
+aside
+
+in
+
+contingency
+
+to
+
+be
+
+reallocated.             FY  2026  Board  ADOPTED  Amendments   Page  2
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Amendment  #1   Commissioner  Julia  Brim-Edwards   Co-sponsored  by  Chair  Jessica  Vega  Pederson  Co-sponsored  by  Meghan  Moyer
+
+Restore
+
+School
+
+Based
+
+Mental
+
+Health
+
+Consultants
+
+in
+
+Health
+
+Department
+ This  substitute  amendment  includes  adding  $137,809  in  Medicaid  billing  revenue
+associated
+
+with
+
+the
+
+addition
+
+of
+
+0.83
+
+FTE
+
+and
+
+reduces
+
+the
+
+offset
+
+from
+
+new
+
+contracted
+
+services
+
+in
+
+the
+
+Health
+
+Department’s
+
+program
+
+40104B
+
+24/7
+
+Sobering
+
+and
+
+Crisis
+
+Stabilization
+
+Center
+
+Implementation.
+  The  well-being  of  our  children  reflects  the  well-being  of  our  community  and  right  now
+there
+
+is
+
+an
+
+immediate
+
+and
+
+critical
+
+need
+
+to
+
+care
+
+for
+
+and
+
+invest
+
+in
+
+our
+
+school-aged
+
+children’s
+
+mental
+
+health.
+
+School
+
+based
+
+mental
+
+health
+
+services
+
+and
+
+the
+
+mental
+
+health
+
+consultants
+
+that
+
+provide
+
+it
+
+are
+
+a
+
+life-line
+
+for
+
+the
+
+most
+
+vulnerable
+
+and
+
+marginalized
+
+students
+
+in
+
+the
+
+County
+
+and
+
+are
+
+disproportionately
+
+located
+
+in
+
+schools
+
+and
+
+districts
+
+in
+
+East
+
+Portland
+
+and
+
+East
+
+County
+
+to
+
+ensure
+
+children
+
+are
+
+able
+
+to
+
+access
+
+mental
+
+health
+
+services
+
+and
+
+supports
+
+so
+
+that
+
+they
+
+are
+
+able
+
+to
+
+learn
+
+and
+
+thrive.
+
+  Commissioner  Brim-Edwards,  Chair  Vega  Pederson  and  Commissioner  Moyer  propose
+an
+
+amendment
+
+that
+
+restores
+
+$834,122
+
+for
+
+5.01
+
+FTE
+
+School
+
+Based
+
+Mental
+
+Health
+
+Consultants.
+
+This
+
+program
+
+generates
+
+Medicaid
+
+revenue,
+
+projected
+
+to
+
+be
+
+$587,809.
+
+The
+
+remaining
+
+$246,313
+
+to
+
+restore
+
+School
+
+Based
+
+Mental
+
+Health
+
+Consultants
+
+would
+
+be
+
+offset
+
+by:
+ ●  From  “possible  cuts”  offered  by  the  Chief  Operating  Officer’s  Additional  Budget
+Analysis:
+ ○  Reducing  $152,646  Program  Supervisor  (Sobering)  position  ○  $30,000  from  Department  of  County  Human  Services  Materials  and
+Services
+ ○  $1,476  from  the  Health  Department’s  Grants  Offset    ●  $62,191  from  the  proposed  new  contracted  services  in  the  Health  Department’s
+program
+
+40104B
+
+24/7
+
+Sobering
+
+and
+
+Crisis
+
+Stabilization
+
+Center
+
+Implementation.
+
+ FY  2026  Board  ADOPTED  Amendments   Page  3
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Amendment  #5   Commissioner  Shannon  Singleton   Funds  the  Market  Street  and  Wy’East  shelters  through  March  of  2026  and  then
+redirects
+
+the
+
+funding
+
+in
+
+the
+
+fourth
+
+quarter
+
+to
+
+fund
+
+the
+
+Permanent
+
+Supportive
+
+Housing
+
+(PSH)
+
+expansion.
+
+  Requires  an  additional  $169,000  of  funding  that  will  be  offset  from  the  following:  ●  $44,472  -  ECHRC  Cook  Plaza  Operations  (SHS  Ongoing)  ●  $124,528  -  Reduction  in  Homeless  Services  Department  (HSD)  Diversion
+Services
+
+Funding
+
+(SHS
+
+OTO)
+
+  Amendment  #8  Commissioner  Vince  Jones-Dixon    Add  funding  for  program  30300  Housing  Placement  &  Retention  -  Adults  &
+Women
+
+Households
+
+for
+
+the
+
+smaller
+
+three
+
+East
+
+County
+
+Cities
+  Amendment:  Additional  $124,000  to  program  30300  for  housing  placement  services
+associated
+
+with
+
+the
+
+smaller
+
+three
+
+east
+
+county
+
+cities,
+
+who
+
+similarly
+
+have
+
+a
+
+gap
+
+in
+
+funding
+
+at
+
+a
+
+time
+
+when
+
+their
+
+outreach
+
+program
+
+is
+
+just
+
+getting
+
+off
+
+the
+
+ground.
+
+  Offset  -  East  County  Homelessness  Resource  Center  (ECHRC)  Cook  Plaza  Operations
+budget
+
+for
+
+FY
+
+ FY  2026  Board  ADOPTED  Amendments   Page  4
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Amendment  #9  Commissioner  Vince  Jones-Dixon   Restore  full  funding  to  the  City  of  Gresham’s  Housing  Placement  and  Retention
+capacity
+
+in
+
+program
+
+30300
+
+Housing
+
+Placement
+
+&
+
+Retention
+
+-
+
+Adults
+
+&
+
+Women
+  Allocates  $188,491  of  one-time-only  (OTO)  to  program  offer  30300  to  restore  full
+funding
+
+the
+
+city
+
+of
+
+Gresham's
+
+housing
+
+placement
+
+and
+
+retention
+
+program.
+
+In
+
+FY
+
+2025,
+
+the
+
+city
+
+has
+
+used
+
+its
+
+funds
+
+to
+
+place
+
+80
+
+people
+
+in
+
+permanent
+
+housing,
+
+exceeding
+
+its
+
+goal
+
+of
+
+55
+
+placements
+
+by
+
+over
+
+45%,
+
+with
+
+over
+
+a
+
+month
+
+still
+
+remaining
+
+in
+
+the
+
+fiscal
+
+year.
+
+This
+
+additional
+
+funding
+
+will
+
+ensure
+
+full
+
+funding
+
+for
+
+this
+
+successful
+
+program
+
+in
+
+FY
+
+2026.
+
+  Offset-  East  County  Homelessness  Resource  Center  (ECHRC)  Cook  Plaza  Operations
+budget
+
+for
+
+FY
+
+2026
+   Amendment  #10  Commissioner  Meghan  Moyer   Expand  Medicaid  Long-term  Care  for  Homeless  Individuals  with  Severe  and
+Persistent
+
+Mental
+
+Illness
+
+(SPMI)
+
+by
+
+$500,000
+
+  Add  $500,000  GF  to  the  Department  of  County  Human  Services  (DCHS)  offset  by  cuts
+below.
+
+This
+
+funding
+
+will
+
+expand
+
+the
+
+program
+
+25029
+
+Homeless
+
+Mobile
+
+Intake
+
+Team
+
+to
+
+provide
+
+Medicaid
+
+LongTerm
+
+Care
+
+eligibility
+
+and
+
+case
+
+management
+
+to
+
+individuals
+
+with
+
+SPMI.
+
+Health
+
+Dept
+
+(HD)
+
+and
+
+Homeless
+
+Services
+
+Dept
+
+(HSD)
+
+will
+
+help
+
+identify
+
+providers
+
+and
+
+collaborate
+
+on
+
+program
+
+design.
+
+During
+
+FY
+
+2026,
+
+Homeless
+
+Response
+
+System,
+
+OCHS,
+
+HD,
+
+and
+
+HSD
+
+will
+
+work
+
+to
+
+establish
+
+processes
+
+and
+
+systems,
+
+and
+
+target
+
+rollout
+
+for
+
+January
+
+2026.
+
+  Add  Gender-Neutral  Public  Restroom  near  Commission  Boardroom   $236,335  of  one-time-only  funding  to  convert  the  small  office  currently  between  the
+restrooms
+
+and
+
+the
+
+boardroom
+
+into
+
+a
+
+gender-neutral,
+
+ADA
+
+accessible
+
+single-stall
+
+restroom.
+
+  Offsets:   Complaints  Investigation  Unit  (CIU)  (program  72021)   FY  2026  Board  ADOPTED  Amendments   Page  5
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Amendment  #11  Commissioner  Shannon  Singleton    Co-sponsored  by  Commissioner  Julia  Brim-Edwards
+Restoration
+
+of
+
+Income
+
+Acquisition
+
+–
+
+Employment
+
+Programs
+
+(Program
+
+30600)
+
+ Adds  $327,000  of  County  General  Fund  which  generates  $870,000  of  Medicaid  to
+Program
+
+25029
+
+in
+
+order
+
+to
+
+reallocate
+
+SHS
+
+funding.
+  Program  Dept./Program  Title  Amount  Fund  Type
+25029  DCHS  -  Fund  LTSS  with  County  General  to  generate  Medicaid  Match
++$327,000  New  GF  Ongoing
+ Medicaid  Match  Funding  +$870,000  Medicaid
+ Total  $1,197,000
+
+By  Pulling  Funds  from:   Program  Dept./Program  Title  Amount  Fund  Type  25000C  State  of  the  Children  Report  -$150,000  GF  OTO  10000B  RACC  -$177,000  GF  Ongoing
+ Total  General  Fund  Reductions  -$327,000
+DCHS  LTSS  Nursing  Homes  and  Homeless  Services  (Program  25029)  -  this  program
+has
+
+5.00
+
+FTE
+
+that
+
+conduct
+
+assessments
+
+and
+
+determine
+
+eligibility
+
+for
+
+Aging,
+
+Disability
+
+and
+
+Veterans
+
+(ADVSD)
+
+services.
+
+This
+
+is
+
+something
+
+that
+
+should
+
+be
+
+done
+
+through
+
+existing
+
+eligibility
+
+workers
+
+as
+
+people
+
+who
+
+qualify
+
+for
+
+these
+
+services
+
+should
+
+be
+
+able
+
+to
+
+access
+
+them
+
+regardless
+
+of
+
+housing
+
+status.
+
+We
+
+should
+
+not
+
+need
+
+a
+
+special
+
+program
+
+using
+
+Supportive
+
+Housing
+
+Services
+
+(SHS)
+
+dollars
+
+to
+
+do
+
+something
+
+that
+
+the
+
+County
+
+should
+
+be
+
+doing
+
+anyway.
+
+     FY  2026  Board  ADOPTED  Amendments   Page  6
+Multnomah  County   FY  2026  Board  Adopted  Amendments      Allocates  $2,920,534  for  Employment  Services  by  reducing  funding  in  the  following:   Program  Dept./Program  Title  Amount  Fund  Type  25000A  DCHS  -  Director’s  Office  -  1.00  FTE  -$198,440  SHS  25029  DCHS  -  ADVSD  LTSS  Nursing  Homes  and  Homeless  Services  (Medicaid)
+-$992,295  SHS
+25118  DCHS  -  YFS  -  Youth  &  Family  Services  Administration  -  1.00  FTE  Assertive  Engagement  Trainer
+-$188,927  SHS
+HSD  East  County  Homelessness  Resource  Center  (ECHRC)  Operations
+-$235,528  SHS
+10000B  NOND  Homeless  Response  Services  (HRS)  1.00  FTE
+-$215,000  SHS
+ Subtotal  SHS  Reductions  -$1,830,190
+10000A  NOND  -  Chair’s  Office  -$148,614  GF  Ongoing  72000  NOND  -  COOs  Office  -$235,724  GF  Ongoing  10020  RACC*  -$123,000  GF  Ongoing  10018  NonD  -  Office  of  Sustainability  -$63,929  GF  Ongoing  40065  HD  -  Contracted  Services  and  BH  Program  Supervisor  (COO  Offset)
+-$181,823  GF  Ongoing
+40104B  HD  -  Sobering  Center  -  Community  Health  Specialist  2  (3.00  FTE)
+-$337,254  GF  Ongoing
+ Subtotal  General  Fund  Reductions  -$1,090,344
+Total  Reduction  -$2,920,534
+*See
+
+table
+
+on
+
+previous
+
+page
+
+for
+
+full
+
+RACC
+
+Reduction.
+
+ FY  2026  Board  ADOPTED  Amendments   Page  7
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Amendment  #16  Commissioner  Julia  Brim-Edwards  Co-sponsored  by  Chair  Vega  Pederson  and  Commissioner  Vince  Jones-Dixon   Adapting  Staffing  Needs  for  the  Local  Public  Safety  Coordinating  Council   The  Local  Public  Safety  Coordinating  Council  (LPSCC)  is  a  statutorily  required,  unique
+and
+
+valuable
+
+collaborative
+
+body
+
+of
+
+stakeholders
+
+representing
+
+diverse
+
+parts
+
+of
+
+the
+
+public
+
+safety
+
+system.
+
+LPSCC
+
+“coordinate[s]
+
+local
+
+criminal
+
+justice
+
+policy
+
+among
+
+affected
+
+criminal
+
+justice
+
+entities”
+
+(ORS
+
+423.560).
+
+To
+
+support
+
+this
+
+charge,
+
+staff
+
+support
+
+LPSCC
+
+through
+
+coordinating
+
+inter-agency
+
+public
+
+policy
+
+discussions,
+
+and
+
+by
+
+providing
+
+organizational
+
+and
+
+communications
+
+support.
+
+LPSCC
+
+stakeholders
+
+have
+
+identified
+
+a
+
+growing
+
+need
+
+for
+
+data
+
+and
+
+policy
+
+analytics
+
+to
+
+examine
+
+the
+
+public
+
+safety
+
+system
+
+and
+
+inform
+
+decision-making
+
+for
+
+the
+
+Council
+
+and
+
+Council
+
+Subcommittees.
+
+  This  budget  amendment  is  co-sponsored  with  Chair  Vega  Pederson  and  Commissioner
+Jones-Dixon
+
+to
+
+repurpose
+
+and
+
+reclassify
+
+the
+
+current
+
+1.00
+
+FTE
+
+Strategic
+
+Initiatives
+
+Manager.
+
+It
+
+is
+
+proposed
+
+that
+
+this
+
+position
+
+focuses
+
+50%
+
+of
+
+the
+
+work
+
+on
+
+data
+
+and
+
+analytical
+
+projects
+
+and
+
+50%
+
+of
+
+their
+
+time
+
+performing
+
+policy
+
+analysis
+
+to
+
+reflect
+
+current
+
+staffing
+
+needs
+
+for
+
+the
+
+Local
+
+Public
+
+Safety
+
+Coordinating
+
+Council
+
+(LPSCC).
+
+  This  FTE  will  be  tasked  with  conducting  a  study  of  best  practices  in  youth  violence
+prevention
+
+in
+
+Multnomah
+
+County.
+
+The
+
+study
+
+should
+
+explore
+
+and
+
+report
+
+the
+
+characteristics
+
+of
+
+local
+
+collaboration
+
+models
+
+that
+
+drive
+
+successful
+
+youth
+
+empowerment
+
+and
+
+public
+
+safety
+
+outcomes.
+
+The
+
+FTE
+
+should
+
+also
+
+conduct
+
+a
+
+scan
+
+of
+
+the
+
+Multnomah
+
+County
+
+youth
+
+violence
+
+prevention
+
+landscape
+
+and
+
+identify
+
+a
+
+menu
+
+of
+
+opportunities
+
+to
+
+improve
+
+efficiency
+
+and
+
+effectiveness
+
+in
+
+regional
+
+collaboration,
+
+presented
+
+in
+
+the
+
+format
+
+of
+
+an
+
+Action
+
+Plan.
+
+Finally
+
+the
+
+study
+
+should
+
+explore
+
+and
+
+provide
+
+recommendations
+
+for
+
+technology
+
+solutions
+
+that
+
+allow
+
+for
+
+seamless
+
+collaboration
+
+and
+
+data
+
+sharing
+
+across
+
+sectors
+
+and
+
+government
+
+agencies
+
+to
+
+improve
+
+service
+
+to
+
+youth
+
+and
+
+families.
+
+ FY  2026  Board  ADOPTED  Amendments   Page  8
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Amendment  #17  Commissioner  Julia  Brim-Edwards  Co-sponsored  by  Commissioner  Meghan  Moyer   Restore  $200,000  of  Funding  for  Animal  After  Hours  Emergency  Medical  Care  Commissioners  Brim-Edwards  proposes  an  amendment  that  restores  Multnomah
+County
+
+Animal
+
+Services
+
+(MCAS)
+
+emergency
+
+contracted
+
+services
+
+for
+
+animal
+
+health
+
+for
+
+pets,
+
+as
+
+directed
+
+by
+
+the
+
+Department
+
+of
+
+Community
+
+Services
+
+(DCS)
+
+for
+
+a
+
+total
+
+of
+
+$200,000.
+
+In
+
+addition
+
+to
+
+emergency
+
+medical
+
+care
+
+for
+
+fostered
+
+animals,
+
+there
+
+are
+
+many
+
+situations
+
+where
+
+animals
+
+-
+
+many
+
+who
+
+are
+
+strays
+
+-
+
+are
+
+found
+
+by
+
+good
+
+samaritans
+
+and
+
+law
+
+enforcement
+
+after
+
+MCAS
+
+shelter
+
+hours,
+
+who
+
+are
+
+injured
+
+or
+
+sick
+
+and
+
+in
+
+need
+
+of
+
+emergency
+
+medical
+
+care
+
+after
+
+hours.
+
+This
+
+amendment
+
+complements
+
+and
+
+perfects
+
+full
+
+restoration
+
+of
+
+funding
+
+for
+
+MCAS
+
+after
+
+hours
+
+emergency
+
+medical
+
+care
+
+for
+
+animals,
+
+in
+
+addition
+
+to
+
+the
+
+previous
+
+amendment
+
+for
+
+emergency
+
+contracted
+
+services
+
+for
+
+foster
+
+animals.
+
+  Offset  by  $200,000  from  two  (2.00)  FTE  offered  in  the  Chief  Operating  Officer’s
+Additional
+
+Budget
+
+Analysis
+
+of
+
+“possible
+
+cuts” to  the  following:  ●  Behavioral  Health  Executive  Specialist  -  $114,970  ●  Health  Department  Finance  Specialist  (FBM)  -  $85,030     Amendment  #19  Commissioner  Meghan  Moyer   Communications  Office  Reshuffle  to  Increase  Marketing  and  Branding  of
+Multnomah
+
+County
+ In  order  to  increase  the  visibility  and  transparency  of  Multnomah  County’s  work,  it  is  the
+Board’s
+
+policy
+
+to
+
+dedicate
+
+two
+
+FTE
+
+in
+
+the
+
+Chair’s
+
+proposed
+
+budget
+
+to
+
+working
+
+with
+
+departments
+
+on
+
+branding
+
+the
+
+services
+
+Multnomah
+
+County
+
+provides
+
+through
+
+county
+
+programs,
+
+departments,
+
+employees,
+
+and
+
+contracted
+
+service
+
+providers.
+  In  order  to  accomplish  this:   1.  In  Program  Offer  10007A  Communications  Office,  reassign  1.00  FTE  Public
+Affairs
+
+Coordinator
+
+(Job
+
+Code
+
+6089)
+
+$171,699
+
+to
+
+Marketing
+
+and
+
+Branding
+
+Coordinator,
+
+or
+
+equivalent
+
+to
+
+1.00
+
+FTE
+
+spread
+
+out
+
+across
+
+staff
+
+positions.
+
+  FY  2026  Board  ADOPTED  Amendments   Page  9
+Multnomah  County   FY  2026  Board  Adopted  Amendments     2.  Fund  a  second  Marketing  and  Branding  Coordinator.  This  position  will  be  offset
+by
+
+eliminating
+
+the
+
+new
+
+1.00
+
+FTE
+
+$171,703
+
+Public
+
+Affairs
+
+Coordinator
+
+(Job
+
+Code
+
+6089)
+
+$171,699
+
+in
+
+program
+
+offer
+
+10007B
+
+Expanded
+
+Communications
+
+Capacity.
+
+  3.  The  Board  expects  that  these  positions  will  work  with  departments  to  ensure  the
+visibility
+
+of
+
+County
+
+programs,
+
+and
+
+that
+
+the
+
+Chief
+
+Operating
+
+Office
+
+(COO)
+
+will
+
+work
+
+with
+
+the
+
+Communication's
+
+Office
+
+to
+
+implement
+
+this
+
+work
+
+and
+
+ensure
+
+the
+
+participation
+
+of
+
+departments.
+
+This
+
+should
+
+include
+
+establishing
+
+opportunities
+
+for
+
+branding
+
+and
+
+marketing
+
+visibility
+
+for
+
+the
+
+County
+
+through
+
+departments,
+
+programs,
+
+and
+
+contracts,
+
+and
+
+a
+
+report
+
+back
+
+to
+
+the
+
+Board
+
+on
+
+progress
+
+in
+
+these
+
+efforts
+
+as
+
+well
+
+as
+
+the
+
+needs
+
+for
+
+both
+
+Communications
+
+and
+
+County
+
+departments
+
+to
+
+further
+
+this
+
+branding
+
+effort.
+
+  Budget  Impact:  Amendment  is  balanced  as  written.     Amendment  #20  Commissioner  Meghan  Moyer   Addition  of  2.50  FTE  Senior  Budget  Analyst  and  increased  required  program
+deliverables
+
+for
+
+Budget
+
+Office
+
+balanced
+
+with
+
+reductions
+
+of
+
+3.00
+
+vacant
+
+Human
+
+Resources
+
+FTE
+
+or
+
+an
+
+equivalent
+
+amount.
+
+  This  amendment  increases  program  72001:  Budget  Office  by  $571,887  it  would  add
+2.00
+
+new
+
+Sr.
+
+Budget
+
+Analysts
+
+(job
+
+class
+
+9730)
+
+and
+
+restore
+
+a
+
+0.50
+
+Principal
+
+Budget
+
+Analyst
+
+(job
+
+class
+
+9734).
+
+  Human  Resources  reductions  $571,984  (or  an  equivalent):  ●  Program  72017  (Job  Code  9748  1.00  FTE  $221,712)  ●  Program  40000A  (Job  Code  9748  1.00  FTE  $200,272)  ●  Program  40039  (Job  Code  9748  1.00  FTE  $150,000)   Issue  Every  year,  the  County  develops  and  publishes  its  budget,  which  must  use  tax  payer
+resources
+
+as
+
+efficiently
+
+and
+
+effectively
+
+as
+
+possible
+
+to
+
+do
+
+the
+
+most
+
+good.
+
+The
+
+budget
+
+ FY  2026  Board  ADOPTED  Amendments   Page  10
+Multnomah  County   FY  2026  Board  Adopted  Amendments     process  is  how  the  County  aligns  its  funding  with  its  priorities,  so  it  is  essential  that  the
+County’s
+
+values
+
+are
+
+incorporated
+
+into
+
+the
+
+process.
+  Program  Goals  The  Budget  Office’s  goal  is  to  guide  the  Chair,  the  Board  of  County  Commissioners,  and
+County
+
+leadership
+
+to
+
+produce
+
+a
+
+budget
+
+that
+
+is
+
+equitables,
+
+efficient,
+
+realistic,
+
+transparent,
+
+and
+
+designed
+
+to
+
+meet
+
+community
+
+needs
+
+within
+
+available
+
+resources.
+
+The
+
+budget
+
+informs
+
+the
+
+community
+
+of
+
+the
+
+County’s
+
+priorities
+
+and
+
+explains
+
+how
+
+and
+
+where
+
+the
+
+County
+
+is
+
+spending
+
+the
+
+community’s
+
+resources
+
+It
+
+is
+
+one
+
+of
+
+the
+
+County’s
+
+most
+
+important
+
+policy
+
+documents.
+  Program  Activities  The  Budget  Office  manages  the  countywide  budget  process  by:   ●  Designing  and  publishing  budget  materials  that  help  decision-makers  and
+community
+
+members
+
+understand
+
+programs
+
+and
+
+how
+
+they
+
+affect
+
+the
+
+community
+
+ ●  Creating  a  guide  for  developing  the  budget  that  includes  the  Chair’s  policy
+guidance,
+
+financial
+
+context,
+
+a
+
+calendar
+
+with
+
+key
+
+dates,
+
+and
+
+detailed
+
+instructions;
+ ●  Collecting,  analyzing,  and  publishing  budget  data  that  informs  decision  makers
+and
+
+the
+
+community
+
+through
+
+reports,
+
+presentations,
+
+and
+
+online
+
+tools;
+
+ ●  Providing  training  and  materials  to  support  budget  development;    ●  Ensuring  the  budget  complies  with  Oregon  Budget  Law  and  County  financial  and
+budget
+
+policies.
+
+ ●  Working  with  departments  to  develop  their  program  offers  and  verifying  the
+accuracy
+
+of
+
+the
+
+financial
+
+aspects
+
+of
+
+program
+
+offers
+
+before
+
+submitting
+
+to
+
+the
+
+Chair
+
+and
+
+commissioners;
+ ●  Reviewing  program  offers  for  potential  redundancies,  cost  savings,  and
+efficiencies
+
+and
+
+presenting
+
+findings
+
+to
+
+the
+
+Office
+
+of
+
+the
+
+COO.
+  Additionally,  the  Budget  Office  evaluates  how  economic  trends  impact  the  County’s
+financial
+
+health,
+
+identifying
+
+issues
+
+and
+
+collaborating
+
+to
+
+find
+
+solutions.
+
+These
+
+activities
+
+include:
+
+ ●  Creating  General  Fund  forecasts  to  inform  the  Board  of  how  much  funding  is
+available
+
+for
+
+the
+
+budget;
+
+ ●  Reviewing  and  creating  forecasts  for  the  Library  District  and  Preschool  for  All;
+and
+
+ ●  Estimating  the  costs  of  proposals  for  union  staff,  non-union  staff,  and  policies,
+and
+
+figuring
+
+out
+
+their
+
+long-term
+
+effects
+
+on
+
+the
+
+County's
+
+budget.
+  FY  2026  Board  ADOPTED  Amendments   Page  11
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Program  Outputs  This  program  offer:  ●  Provides  budget  development  instructions,  templates,  and  training  for  decision
+makers
+
+and
+
+departments;
+
+ ●  Publishes  an  annual  budget  and  related  materials  for  decision  makers,
+departments,
+
+and
+
+the
+
+community;
+
+ ●  Reviews  budget  proposals,  changes,  and  decisions;   ●  Provides  accurate,  timely  information  and  advice  on  short-  and  long-term
+financial
+
+issues
+
+to
+
+the
+
+Chair,
+
+Board,
+
+other
+
+elected
+
+officials,
+
+and
+
+departments.
+
+    Amendment  #21  Commissioner  Vince  Jones-Dixon  Co-sponsored  by  Commissioner  Meghan  Moyer   OSU  Extension  and  Multnomah  County  $40,000  Sponsorship   Support  the  Chair  in  executing  an  Intergovernmental  Agreement  with  Oregon  State
+University
+
+(OSU)
+
+Extension
+
+Service
+
+to
+
+provide
+
+$40,000
+
+ongoing
+
+funding
+
+to
+
+restore
+
+and
+
+expand
+
+local
+
+programs
+
+in
+
+Multnomah
+
+County.
+
+Multnomah
+
+County
+
+is
+
+the
+
+only
+
+one
+
+of
+
+Oregon’s
+
+36
+
+counties
+
+without
+
+a
+
+funding
+
+mechanism
+
+in
+
+place
+
+to
+
+support
+
+a
+
+full
+
+partnership
+
+with
+
+OSU
+
+Extension.
+
+As
+
+a
+
+result,
+
+current
+
+OSU
+
+Extension
+
+programs
+
+and
+
+services
+
+—
+
+though
+
+impactful
+
+—
+
+are
+
+extremely
+
+limited.
+  A  county  investment  would  support  OSU  to  grow  vital  programs  and  partnerships.    Offset-   Proposed  COO  offsets  Department  of  County  Management  reduction  in  the
+Chief
+
+Operating
+
+Officers
+
+materials
+
+and
+
+supplies
+
+budget
+
+by
+
+$40,000.
+
+ FY  2026  Board  ADOPTED  Amendments   Page  12
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Amendment  #22  Commissioner  Vince  Jones-Dixon   Restores  Continuous  Improvement  Staffing  in  the  Chief  Operating  Officer’s  Office
+(Program
+
+72000)
+  This  amendment  restores  staffing  and  $201,892  to  move  forward  our  One  County
+Strategic
+
+planning
+
+work.
+  Offset  -Proposed  COO  Offsets  revenue:  DCJ  Vacant  Research  and  Planning  Position
+(-$182,868)
+
+and
+
+(-$19,114)
+
+from
+
+DCM
+
+COO
+
+Materials
+
+and
+
+Supplies.
+   Amendment  #25  Commissioner  Julia  Brim-Edwards   Restore  and  Improve  Capacity  for  the  Body  Worn  Cameras  Program  in  the  District
+Attorney’s
+
+Office
+  Commissioner  Brim-Edwards  proposes  an  amendment  that  restores  three  (3.00)  FTE
+and
+
+technology
+
+in
+
+the
+
+Body
+
+Worn
+
+Cameras
+
+Unit
+
+for
+
+a
+
+total
+
+of
+
+$810,500.
+  Offset  by  $810,500  from  the  one-time-only  savings  generated  by  the  Phased  Vacancy
+Filling
+
+(Hiring
+
+Delay)
+
+see
+
+Amendment
+
+#42
+
+for
+
+a
+
+description.
+   Amendment  #26  Commissioner  Julia  Brim-Edwards  Co-sponsored  by  Commissioner  Vince  Jones-Dixon   This  substitute  amendment  changes  previously  proposed  offsets;  it  removes  $129,000
+from
+
+Chair
+
+Revenue
+
+amendment
+
+#4,
+
+increases
+
+the
+
+phased
+
+vacancy
+
+filling
+
+(hiring
+
+delay)
+
+offset
+
+amount,
+
+and
+
+adds
+
+offsets
+
+offered
+
+as
+
+“potential
+
+cuts”
+
+by
+
+the
+
+Chief
+
+Operating
+
+Officer
+
+(COO)
+
+additional
+
+budget
+
+analysis.
+
+ FY  2026  Board  ADOPTED  Amendments   Page  13
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Commissioners  Brim-Edwards  and  Jones-Dixon  propose  an  amendment  that  restores
+the
+
+Organized
+
+Retail
+
+&
+
+Auto
+
+Theft
+
+Task
+
+Forces
+
+for
+
+a
+
+total
+
+of
+
+$500,111
+
+for
+
+2.40
+
+FTE
+
+in
+
+the
+
+District
+
+Attorney’s
+
+Budget.
+
+The
+
+remaining
+
+amount
+
+for
+
+the
+
+full
+
+restoration
+
+is
+
+$10,289.
+  Offset  by  $500,111  from  the  following:  ●  $389,500  from  the  one-time-only  savings  generated  by  the  Phased  Vacancy
+Filling
+
+(Hiring
+
+Delay)
+
+see
+
+Amendment
+
+#42
+
+for
+
+a
+
+description.
+ ●  $76,758  Health  Department  Vacant  Program  Specialist  (BHD  Consumer
+Engagement)
+
+COO
+
+Offset
+ ●  $15,886  Department  of  County  Management  (DCM)  Materials  and  Supplies  COO
+Offset
+ ●  $17,967  Health  Department  Grant  COO  Offset     Amendment  #27  Commissioner  Shannon  Singleton  Co-sponsored  by  Commissioner  Vince  Jones-Dixon   Voter  Education  Mini-Grant  Program   Voter  Education  Mini-grant  Program--  these  funds  will  be  used  to  provide  $100,000  of
+one-time-only
+
+funding
+
+for
+
+culturally
+
+specific
+
+Community
+
+Based
+
+Organizations
+
+(CBOs)
+
+to
+
+support
+
+voter
+
+education
+
+for
+
+those
+
+outside
+
+of
+
+the
+
+City
+
+of
+
+Portland,
+
+who
+
+will
+
+be
+
+experiencing
+
+rank
+
+choice
+
+voting
+
+for
+
+the
+
+first
+
+time
+
+in
+
+November
+
+2026
+
+when
+
+the
+
+County
+
+conducts
+
+its
+
+first
+
+rank
+
+choice
+
+voting.
+
+This
+
+amendment
+
+contemplates
+
+that
+
+the
+
+funds
+
+will
+
+be
+
+distributed
+
+by
+
+the
+
+Department
+
+of
+
+Community
+
+Services.
+  Offset:  Revenue  Amendment  #2a/b
+ FY  2026  Board  ADOPTED  Amendments   Page  14
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Amendment  #28  Commissioner  Shannon  Singleton   Restore  East  County  Fair  Housing  Investigations  $128,000  East  County  Fair  Housing--  this  program  was  reduced  due  to  other  programs  in  the
+community
+
+conducting
+
+this
+
+same
+
+function.
+
+Since
+
+the
+
+department
+
+proposed
+
+budget
+
+was
+
+submitted,
+
+community
+
+circumstances
+
+have
+
+changed--
+
+some
+
+fair
+
+housing
+
+funds
+
+were
+
+cut
+
+from
+
+HUD
+
+and
+
+other
+
+federal
+
+grants
+
+that
+
+supported
+
+this
+
+work.
+
+This
+
+is
+
+a
+
+small
+
+investment
+
+to
+
+ensure
+
+that
+
+people
+
+in
+
+the
+
+County
+
+who
+
+live
+
+outside
+
+of
+
+the
+
+City
+
+of
+
+Portland
+
+have
+
+access
+
+to
+
+fair
+
+housing
+
+investigations.
+
+  Offset:  Revenue  Amendment  #2a/b     Amendment  #29  Commissioner  Julia  Brim-Edwards  Co-sponsored  by  Commissioner  Shannon  Singleton   Lobbying  and  Transparency  Program   Commissioners  Brim-Edwards  and  Singleton  propose  an  amendment  to  provide
+start-up
+
+funding
+
+for
+
+the
+
+recently
+
+established
+
+Lobbying
+
+and
+
+Transparency
+
+Program.
+
+  On  May  1,  the  Board  of  County  Commissioners  approved  an  ordinance  that  establishes
+a
+
+new
+
+lobbyist
+
+reporting
+
+requirement,
+
+transparency
+
+measures,
+
+and
+
+a
+
+rule
+
+requiring
+
+the
+
+Chair
+
+and
+
+Board
+
+of
+
+County
+
+Commissioners
+
+(BOCC)
+
+to
+
+post
+
+their
+
+calendars
+
+online.
+
+The
+
+ordinance
+
+takes
+
+effect
+
+on
+
+July
+
+1,
+
+2026
+
+and
+
+the
+
+supporting
+
+technology
+
+solutions
+
+will
+
+be
+
+developed
+
+during
+
+FY
+
+2026
+
+by
+
+the
+
+Department
+
+of
+
+County
+
+Assets
+
+(DCA)
+
+and
+
+the
+
+Chief
+
+Operating
+
+Officer
+
+(COO)
+
+Office.
+  On  May  13,  Chief  Operating  Officer  (COO)  Chris  Neal  provided  an  update  to  the  Board
+of
+
+County
+
+Commissioners
+
+on
+
+the
+
+status
+
+of
+
+implementation,
+
+and
+
+identified
+
+the
+
+need
+
+to
+
+carry
+
+over
+
+to
+
+FY
+
+2026
+
+the
+
+$200,000
+
+in
+
+capital
+
+funding
+
+the
+
+Board
+
+of
+
+County
+
+Commissioners
+
+allocated
+
+for
+
+this
+
+project,
+
+as
+
+well
+
+as
+
+an
+
+additional
+
+one-time-only
+
+(OTO)
+
+General
+
+Fund
+
+(GF)
+
+resources
+
+to
+
+provide
+
+additional
+
+capital
+
+funding
+
+and
+
+project
+
+staff
+
+to
+  FY  2026  Board  ADOPTED  Amendments   Page  15
+Multnomah  County   FY  2026  Board  Adopted  Amendments     support  the  non-technical  aspects  of  implementation,  such  as  the  development  of
+education,
+
+training
+
+and
+
+outreach
+
+materials.
+  Offset:  This  amendment  sets  aside  and  earmarks  $100,000  in  FY  2026  one-time-only
+General
+
+Fund
+
+contingency
+
+for
+
+the
+
+Lobbying
+
+and
+
+Transparency
+
+program.
+    Amendment  #31  Commissioner  Julia  Brim-Edwards  Co-sponsored  Commissioner  Meghan  Moyer   Protect  Domestic  Violence  Survivors  and  Increase  Behavioral  Health  Pathways
+and
+
+Improve
+
+Outcomes
+
+for
+
+Individuals
+
+in
+
+the
+
+Public
+
+Safety
+
+System
+  This  substitute  amendment  reduces  $545,000  ongoing  General  Funds  Chair  Revenue
+Amendment
+
+#1/Opioid
+
+Settlement
+
+and
+
+adds
+
+$421,000
+
+Chair
+
+Revenue
+
+Amendment
+
+#3/Gun
+
+Violence
+
+Grant
+
+Revenue
+
+Swap
+
+and
+
+$124,000
+
+from
+
+the
+
+proposed
+
+new
+
+contracted
+
+services
+
+in
+
+the
+
+Health
+
+Department’s
+
+program
+
+40104B
+
+24/7
+
+Sobering
+
+and
+
+Crisis
+
+Stabilization
+
+Center
+
+Implementation.
+  This  amendment  updates  the  offsets  to  adjust  for  the  increase  in  offset  funds  from
+Commissioner
+
+Brim-Edwards’s
+
+amendment
+
+to
+
+Restore
+
+$200,000
+
+of
+
+Funding
+
+for
+
+Animal
+
+After
+
+Hours
+
+Emergency
+
+Care.
+  Commissioners  Brim-Edwards  and  Moyer  propose  an  amendment  that  restores  a  total
+of
+
+$639,049
+
+for
+
+3.00
+
+FTE
+
+in
+
+the
+
+District
+
+Attorney’s
+
+Budget
+
+in
+
+the
+
+following
+
+program
+
+areas:
+ ●  $205,064  for  1.00  FTE  Treatment  Court  Unit  Deputy  District  Attorney   ●  $211,985  for  1.00  FTE  Civil  Commitment  Deputy  District  Attorney  ●  $222,000  for  1.00  FTE  Domestic  Violence  Unit  Deputy  District  Attorney   $639,049  offset  by:   ●  $356,871  Chair  Revenue  Amendment  #3/Gun  Violence  Grant  Revenue  Swap   ●  $137,809  from  the  proposed  new  contracted  services  in  the  Health  Department’s
+program
+
+40104B
+
+24/7
+
+Sobering
+
+and
+
+Crisis
+
+Stabilization
+
+Center
+
+Implementation.
+
+ FY  2026  Board  ADOPTED  Amendments   Page  16
+Multnomah  County   FY  2026  Board  Adopted  Amendments     ●  The  remaining  $83,492  in  offsets  from  Commissioners  Brim-Edwards’  and
+Moyer’s
+
+Amendment
+
+to
+
+Restore
+
+$200,000
+
+of
+
+Funding
+
+for
+
+Animal
+
+After
+
+Hours
+
+Emergency
+
+Medical
+
+Care.
+ ●  $10,557  in  Health  Department  Grant  Offset  from  the  Chief  Operating  Officer’s
+Additional
+
+Budget
+
+Analysis
+
+as
+
+a
+
+“possible
+
+cut.’’
+ ●  $50,302  by  reducing  contractual  services  and  materials  and  supplies  in
+Sustainability
+
+(10018).
+    Amendment  #32  Commissioner  Shannon  Singleton   Restores  $107,284  in  funding  for  the  Sexually  Transmitted  Infection  (STI)  and
+Clinical
+
+Services
+
+for
+
+a
+
+nPEP/PrEP
+
+navigator.
+
+  Funding  is  offset  from  the  following:  ●  $100,000  of  one-time-only  General  Funds  in  the  Equity  Focused  Organizational
+Development
+
+Contracting.
+
+ ●  $7,284  of  General  Fund  Contingency  funding.    Amendment  #33  Commissioner  Shannon  Singleton  Co-sponsored  by  Commissioner  Vince  Jones-Dixon   Expands  the  Summerworks  Youth  program  by  $285,000  to  serve  57  youth   The  summer  works  program  has  been  reduced  over  the  past  3  years.  This  program
+serves
+
+as
+
+a
+
+means
+
+for
+
+youth
+
+to
+
+gain
+
+access
+
+to
+
+employment
+
+and
+
+exposure
+
+to
+
+fields
+
+and
+
+professions
+
+across
+
+the
+
+spectrum.
+
+Youth
+
+employment
+
+also
+
+serves
+
+as
+
+a
+
+violence
+
+prevention
+
+activity.
+
+These
+
+employment
+
+opportunities
+
+have
+
+served
+
+BIPOC
+
+youth
+
+in
+
+the
+
+past
+
+and
+
+are
+
+critical
+
+investments
+
+for
+
+both
+
+District
+
+2
+
+and
+
+4.
+
+  Offset:  This  will  be  funded  with  the  OTO  GF  to  serve  57  youth.  Offset  from  Revenue
+amendment
+
+a/b.
+    FY  2026  Board  ADOPTED  Amendments   Page  17
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Amendment  #34  Commissioner  Shannon  Singleton   Restores  $1,899,279  of  funding  for  Legal  Services  as  follows:   Prog.  Dept/Program  Title  $  Funding  Source
+30100  Housing,  immigration,  and  collateral  consequence  legal  services  to  individuals  and  families  experiencing  or  at  imminent  risk  of  homelessness;  for  the  purposes  of  removing  barriers  to  housing
+303,131  5,701  $308,832
+GF  ongoing  SHS  OTO
+30100  Eviction  Defense  Legal  Services   $339,000  SHS  OTO
+25131A  Project  Reset  to  provide  expungement  of  mostly  uncollectible  fines  that  keep  people  from  acquiring  licenses  and  housing
+$250,000  GF  ongoing
+25131A  Provide  free,  same-day,  onsite  legal  education,  advice  and  negotiation  to  tenants  at  Multnomah  County  Courthouse  and  the  East  County  Courthouse
+$247,324  GF  ongoing
+25131B  Peer  Navigators  $419,431  GF  ongoing
+25131C  Eviction  Prevention  Program  $124,528  $210,164  $334,692
+GF  ongoing  SHS  OTO
+ Total  $1,899,279
+ FY  2026  Board  ADOPTED  Amendments   Page  18
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Reduces  funding  for  the  offset  from:   Program
+
+Dept/Program  Title
+
+$  Funding
+
+Fund  Type
+
+Revenue  Amendment  1
+
+-$545,000
+
+Ongoing  GF
+
+Revenue  Amendment  2a/b
+
+-$100,000
+
+OTO  GF
+
+Revenue  Amendment  3
+
+-$64,417
+
+OTO  GF
+
+Revenue  Amendment  4
+
+-$254,121
+
+OTO  GF
+
+95001  General  Fund  Contingency
+
+-$40,329
+
+OTO  GF
+
+30210B  HSD  Navigation  Services
+
+-$540,491
+
+SHS  OTO
+
+30500  HSD  Diversion
+
+-$64,032
+
+GF/SHS  OTO
+
+15207
+
+Reduce  MCDA  MAAP
+
+-$290,889
+
+Ongoing  GF
+
+Total
+
+-$1,899,279
+
+  Amendment  #37  Commissioner  Vince  Jones-Dixon   East  County  Culturally  Specific  Community  Food  Systems  Grant   $74,000  of  one-time-only  (OTO)  funding  for  the  establishment  of  a  grant  program  for
+culturally
+
+specific
+
+food
+
+systems
+
+workforce
+
+development
+
+programing
+
+and
+
+site
+
+development
+
+support
+
+for
+
+a
+
+culturally
+
+specific
+
+Community
+
+Food
+
+Hub
+
+In
+
+East
+
+County.
+
+  Offset  -  Revenue  amendment  #3
+ FY  2026  Board  ADOPTED  Amendments   Page  19
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Amendment  #40  Commissioner  Vince  Jones-Dixon   Restore  East  County  Liaison  position  within  the  Homeless  Services  Department   Restores  funding  in  program  30004  -  Policy  &  Planning,  Restore  one-time-only  (OTO)
+funding
+
+for
+
+$240,000
+
+to
+
+support
+
+a
+
+1.00
+
+FTE
+
+East
+
+County
+
+Homeless
+
+Service
+
+System
+
+Liaison
+
+Program
+
+Specialist
+
+Senior.
+
+  Offset-  East  County  Homelessness  Resource  Center  (ECHRC)  Cook  Plaza  Operations
+budget
+
+for
+
+FY
+
+2026.
+    Amendment  #42  (for  description  purposes  only)  Commissioner  Julia  Brim-Edwards   Vacancy  Hiring  Delay  The  Budget  office  reviewed  all  vacancies,  removed  those  positions  already  being
+considered
+
+for
+
+a
+
+cut,
+
+and
+
+limited
+
+the
+
+analysis
+
+to
+
+the
+
+General
+
+Fund.
+
+The
+
+review
+
+also
+
+did
+
+not
+
+include
+
+public
+
+safety
+
+positions.
+
+From
+
+this
+
+they
+
+made
+
+an
+
+estimate
+
+of
+
+what
+
+a
+
+Quarter
+
+1
+
+(Q1)
+
+hiring
+
+delay
+
+would
+
+look
+
+like
+
+across
+
+all
+
+vacancies
+
+which
+
+is
+
+approximately
+
+$3.0M.
+
+  From  here,  the  Chief  Operating  Officers  (COO's)  Office  did  a  further  review  to  update
+the
+
+information
+
+to:
+ ●  Remove  positions  identified  by  COO’s  Office  as  possible  reductions  ●  Remove  positions  which  we  know  are  already  filled  ●  Remove  positions  planned  to  be  used  for  layoff  /  bumping  /  Project  Save  ●  Remove  positions  which  leverage  others  funds  /  fees  ●  Remove  positions  which  are  already  filled  with  a  work  out  of  class,  temporary,
+contracted
+
+or
+
+limited
+
+duration
+
+appointment.
+  Adding  a  10%  contingency  to  the  total  savings  to  account  for  changes.  This  would
+potentially
+
+create
+
+$1.2M
+
+of
+
+one-time-only
+
+savings
+
+in
+
+the
+
+General
+
+Fund
+
+across
+
+all
+
+departments
+
+if
+
+we
+
+delayed
+
+hiring
+
+during
+
+the
+
+first
+
+quarter
+
+(Q1);
+
+however,
+
+departments
+
+have
+
+the
+
+entire
+
+fiscal
+
+year
+
+to
+
+generate
+
+the
+
+savings.
+
+The
+
+Budget
+
+Office
+
+will
+
+monitor
+
+on
+
+a
+
+quarterly
+
+basis
+
+and
+
+determine
+
+any
+
+additional
+
+budget
+
+steps
+
+needed
+
+to
+
+true
+
+this
+
+up.
+
+  FY  2026  Board  ADOPTED  Amendments   Page  20
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Amendment  #43  Commissioner  Meghan  Moyer   Countywide  Sponsorship  Savings  In  order  to  minimize  job  losses  and  maintain  direct  services  to  our  community's  most
+vulnerable
+
+populations,
+
+it
+
+is
+
+the
+
+policy
+
+of
+
+the
+
+Board
+
+that
+
+no
+
+County
+
+funds
+
+be
+
+expended
+
+on
+
+sponsorships
+
+originating
+
+from
+
+Multnomah
+
+County
+
+departments
+
+and
+
+offices
+
+for
+
+the
+
+duration
+
+of
+
+FY
+
+2026.
+
+Sponsorships
+
+of
+
+employee
+
+events
+
+are
+
+exempt.
+
+  Budget  Impact:  Estimate  requested  but  amount  was  indeterminate.  Savings  will  be
+realized
+
+at
+
+the
+
+end
+
+of
+
+FY
+
+2026
+
+and
+
+used
+
+for
+
+FY
+
+2027.
+
+    Amendment  #45  Commissioner  Meghan  Moyer   Earmarks  $500,000  in  FY  2026  one-time-only  General  Fund  contingency  to  cover
+increased
+
+costs
+
+for
+
+contracted
+
+security
+
+services.
+    Amendment  #46  Commissioner  Meghan  Moyer   Restores  Partial  Funding  to  the  STI  Clinic   Add  $221,472  in  the  STI  Clinical  and  Community  Services  program  40010B  to  backfill
+federal
+
+reductions
+
+and
+
+restore
+
+clinic
+
+services.
+  Offset:  reduces  the  HB  4002  program  10000C  by  $221,472
+ FY  2026  Board  ADOPTED  Amendments   Page  21
+Multnomah  County   FY  2026  Board  Adopted  Amendments     Amendment  #47  Budget  Office  Technical  Placeholder   Allows  the  Budget  Office  to  balance  all  the  Board  Amendments  and  includes  any
+accounting
+
+for
+
+Internal
+
+Services
+
+and
+
+the
+
+Risk
+
+Fund.
+    Amendment  #48  Commissioner  Shannon  Singleton   This  amendment  is  a  fund  swap  to  move  $993,663  of  SHS  one-time-only  from  the
+Department
+
+of
+
+Community
+
+Justice
+
+(DJC)
+
+Adult
+
+Stabilization
+
+and
+
+Readiness
+
+Program
+
+(SARP
+
+50041)
+
+to
+
+Homeless
+
+Services
+
+(HSD)
+
+Housing
+
+Placement
+
+and
+
+Retention
+
+-
+
+Emergency
+
+Rent
+
+Assistance
+
+(30304)
+
+and
+
+move
+
+$993,663
+
+General
+
+Fund
+
+one-time-only
+
+from
+
+HSD
+
+Housing
+
+Placement
+
+and
+
+Retention
+
+-
+
+Emergency
+
+Rent
+
+Assistance
+
+(30304)
+
+to
+
+DJC
+
+SARP
+
+(50041).
+
+This
+
+fund
+
+swap
+
+has
+
+no
+
+financial
+
+impact
+
+on
+
+the
+
+budget
+
+and
+
+will
+
+be
+
+budget
+
+neutral.
+
+ FY  2026  Board  ADOPTED  Amendments   Page  22
+Prepared by the Multnomah County Budget Office Page 1 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Summary General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change
+Technical Amendments (24,995) (281,104) (306,099)
+Staﬃng Amendments (3,244) 1,030 (2,214) (2.00)
+Revenue Amendments 555,724 1,927,921 2,483,645 10.30
+Program Amendments 71,733 17,990,514 18,062,247 0.25
+Carryover Amendments 95,000 95,000
+Totals: 694,218 19,638,361 20,332,579 8.55
+Prepared by the Multnomah County Budget Office Page 2 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Technical Amendments (GREEN)
+1
+2
+3
+4
+5
+6
+Totals:
+Multiple Accounting Cost Object Updates This amendment updates cost objects. These changes do not
+change expenditure or revenue amounts; appropriation by fund
+or department; and do not have programmatic impacts. this
+amendment may be updated for cost object placeholders as
+needed to align the ﬁnal budget with our ﬁnancial and
+accounting system.
+AdoptAmend-DCA-012-26
+AdoptAmend-HD-027-26
+AdoptAmend-HSD-004-26
+AdoptAmend-HSD-005-26
+AdoptAmend-HSD-006-26
+AdoptAmend-HSD-007-26
+AdoptAmend-HSD-008-26
+Multiple Internal Service Adjustments Multiple
+TBD
+(281,104) (281,104) Adjusts revenues and expenditures in the Risk Fund, Internal
+Service Funds, and General Fund to balance service
+reimbursements and indirect charges budgeted by departments.
+These may include Risk Fund expenses such as employee medical
+and dental insurance costs, Internal Service expenses such as
+telecommunications and facilities and Indirect expenses on
+eligible grant funding that would provide General Fund revenue
+and appropriation to support internal administrative costs.
+AdoptAmend-OVER-002-26
+15206
+15207
+Strategic Prosecution & Services Unit, MCDA
+Access Attorney Program (MAAP)
+DA This technical amendment moves 1.00 DDA 3 and 1.00 DDA 2
+from the MAAP Program (15207) to the SPSU Unit (15206).
+These positions were budgeted in the SPSU Unit (15206) in FY
+2025. They were incorrectly budgeted in 15207 in FY 2026. This
+move will not impact the work of the DDAs.
+AdoptAmend-DA-003-26
+40022
+40048
+40056
+FQHC-Mid County Health Clinic, Community
+Epidemiology, Healthy Families
+HD This amendment corrects the revenue accounting ledger
+accounts from Intergovernmental, Direct State to
+Intergovernmental, Federal through State (programs 40022 &
+40048) and from Intergovernmental, Federal through State to
+Intergovernmental, Direct State (program 40056).
+AdoptAmend-HD-005-26
+40040
+40061
+95000
+95001
+Financial and Business Management Services,
+Harm Reduction, Fund Level Transactions,
+General Fund Revenues
+HD
+OVER
+(24,995) (24,995) This amendment reduces appropriation in the General Fund by
+$24,995 by removing indirect expense and revenue that was
+incorrectly budgeted in the Opioid Settlement funding. Reducing
+indirect expense allows for more direct programing in the Harm
+Reduction program for a net zero change. The Financial and
+Business Management Services program's supplies have
+decreased due to the indirect reduction.
+AdoptAmend-HD-003-26
+80025 Library Special Projects LIB This amendment adjusts the accounting structure in the Library
+Special Projects program oﬀer in order to improve budget
+monitoring capabilities throughout FY 2026. The amendment also
+includes a ledger account correction for Burgeon play space
+equipment expenses that will be incurred during FY 2026, shifting
+the line item from professional services to capital equipment.
+AdoptAmend-LIB-004-26
+(24,995) (281,104) (306,099)
+Prepared by the Multnomah County Budget Office Page 3 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Staffing Amendments (BLUE)
+7
+8
+9
+Multiple Local 88 Market Study 16,285 16,285 This amendment allocates County General Fund held in
+contingency for the Local 88 Market Study 2 of 3, which
+resulted in pay scale changes for selected job proﬁles. In the
+last adopted contract with Local 88, the County and Union
+agreed to review market data and negotiate compensation for
+selected job proﬁles. Estimates were recently ﬁnalized. The
+ﬁnal additional General Fund costs will be $345,879. The
+increase of $16,285 in Other Funds is for internal service
+reimbursement for insurance and beneﬁts.
+This amendment impacts: (1) positions below the new
+minimum salary, and (2) positions that were previously at the
+maximum salary, in the following departments:
+DCJ: Impacts 34.00 Corrections Technician FTE. Reduces
+General Fund contingency by $182,843.
+DCHS: Impacts 6.50 Case Manager FTE. Reduces General Fund
+contingency by $19,955.
+DA: Impacts 11.95 Investigator FTE. Reduces General Fund
+contingency by $95,564.
+HD: Impacts 1.00 Case Manager, 1.00 Nutrition Assistant, and
+5.00 Pre-Commitment Investigator FTE. Reduces General Fund
+contingency by $35,952.
+MCSO: Impacts 2.00 Corrections Technician FTE. Reduces
+General Fund contingency by $11,564.
+Departments will review how this wage study aﬀects Other
+Funds. They will decide if an FY 2026 budget modiﬁcation is
+needed to avoid overspending.
+AdoptAmend-DA-004-26
+AdoptAmend-DCHS-006-26
+AdoptAmend-DCJ-003-26
+AdoptAmend-HD-033-26
+AdoptAmend-MCSO-001-26
+Multiple Job Classiﬁcation Updates 482 482 This amendment updates job classiﬁcations for 9.00 FTE that
+the Board has approved for reclassiﬁcation in FY 2025, but are
+not reﬂected in the Approved budget. The change of $482 in
+Other Funds is for internal service reimbursement for
+insurance and beneﬁts.
+AdoptAmend-DCA-001-26
+AdoptAmend-DCM-002-26
+AdoptAmend-LIB-002-26
+78341
+78343
+IT Enterprise Architecture, IT Portfolio Services DCA This amendment reassigns 1.00 FTE Business Systems Analyst
+from IT Portfolio Services (78343) to IT Enterprise Architecture
+(78341). The enterprise architecture team was realigned in
+the FY 2026 budget. This move will align the position with the
+updated structure.
+AdoptAmend-DCA-014-26
+Prepared by the Multnomah County Budget Office Page 4 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Staffing Amendments (BLUE)
+10
+11
+25121 YFS - Weatherization DCHS This amendment updates the job classiﬁcation of a new 1.00
+FTE from a Data Technician to a Program Technician. This
+position is funded through a new Innovation grant from the
+US Department of Energy (DOE) and is identiﬁed as a Program
+Technician in the grant award. These is no ﬁscal impact
+because both job classiﬁcations are in the same compensation
+grade.
+This grant aims to increase the number of single family and
+manufactured housing units receiving comprehensive, deep
+energy retroﬁts by making homes weatherization and
+electriﬁcation-ready, while also ensuring healthy indoor
+environments. Parameters for making homes electriﬁcation
+ready include utility savings and non-energy beneﬁts of
+improved indoor air quality. Work will repair home situations
+that prevent weatherization, such as new roof, ﬁxed siding,
+new electrical panels, etc. This position will support the
+tracking and reporting requirements required by this grant
+and support the work of a new 1.00 FTE Weatherization
+Inspector that is also funded by this grant.
+The grant award period is from July 2024 - June 2027 (36
+months), however the ﬁnal execution of the award was
+delayed so funding will be spent in FY 2026 and FY 2027. In FY
+2026, the total amount budgeted for this grant is $919,684
+and 2.00 FTE.
+AdoptAmend-DCHS-002-26
+25000A DCHS Director's Oﬃce DCHS (1,326) (1,326) This amendment updates the job classiﬁcation of a vacant
+1.00 FTE non-represented Administrative Analyst to
+represented. It was anticipated that this position would be
+reclassiﬁed to a non-represented Administrative Analyst. This
+amendment reverts the position back to it's current job
+classiﬁcation of a represented Administrative Analyst, per HR
+Class Comp. This position provides support to the Director,
+Deputy Director and Senior Leadership team and is the only
+administrative support position in the Administrative Division.
+Due to the personnel costs of the represented position costing
+less, this amendment makes available $30,417 in the General
+Fund that is moved to the supplies budget.
+The $1,326 decrease in Other Funds is for internal service
+reimbursement for insurance and beneﬁts.
+AdoptAmend-DCHS-003-26
+Prepared by the Multnomah County Budget Office Page 5 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Staffing Amendments (BLUE)
+12
+13
+14
+Totals:
+72001 Budget Oﬃce DCM This amendment reclassiﬁes 0.50 FTE from a Budget Analyst
+Senior to a Budget Analyst Principal.  The Proposed Budget
+reduced Budget Oﬃce staﬃng by 0.50 FTE and incorrectly
+removed a Budget Analyst Principal and budgeted a Budget
+Analyst Senior. This amendment reverses the classiﬁcation
+error.  There is no budgetary impact in FY 2026.
+AdoptAmend-DCM-003-26
+30001
+30004
+Business Services, Policy & Planning HSD (3,244) (14,411) (17,655) (2.00) This Amendment reduces 2.00 FTE Sta ﬀ Assistant (9400) that
+were incorrectly budgeted and funds 2.00 limited duration
+assignment positions in the Policy and Planning (30004)
+program. These positions will work on updating, developing
+and advancing the Community Sheltering Strategy, HRAP 2.0,
+and the Supportive Housing Services Local Implementation
+Plan. The $3,244 decrease in General Fund is from indirect
+and the $14,411 decrease in Other Funds is for internal
+service reimbursement for insurance and beneﬁts.
+AdoptAmend-HSD-001-26
+90020
+90021
+Land Use Planning (LUP) Code Compliance, Land
+Use Planning
+DCS This amendment moves a 0.50 Planning Principal from Land
+Use Planning (LUP)  program 90021 to Land Use Planning
+Code Compliance program 90020 to reﬂect current
+operations. There is no net ﬁnancial impact to LUP and no net
+change to FTE.
+AdoptAmend-DCS-001-26
+(3,244) 1,030 (2,214) (2.00)
+Prepared by the Multnomah County Budget Office Page 6 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Revenue Amendments (YELLOW)
+15
+16
+17
+18
+19
+20
+15206A Strategic Prosecution & Services Unit DA 177,010 177,010 This amendment increases the Federal/State fund by
+$167,590 with unspent grant funding carried forward from FY
+2025. This is one-time-only (OTO) funding. This includes
+$57,590 for one LDA DA Investigator for the remaining three
+months and $110,000 in pass through. During FY 2025, MCDA
+was awarded $277,196 from the State of Oregon's Organized
+Retail Theft Grant Program administered by the Criminal
+Justice Commission (CJC) for one MCDA Investigator position
+and funding to be passed through to the Organized Retail
+Crime Association of Oregon (ORCAOR) for marketing and
+advertisement, surveillance equipment, and to host an
+Organized Retail Theft conference networking event for
+approximately 350 attendees. This grant has been extended
+through 9/30/25. The additional $9,420 in Other Funds is for
+internal service reimbursement for insurance and beneﬁts.
+AdoptAmend-DA-001-26
+15003
+15015
+15206A
+Finance Unit, Victim Assistance Program,
+Strategic Prosecution & Services Unit, Central HR
+Employee Beneﬁts & Wellness
+DA 310,894 66,636 377,530 2.00 This amendment adds $310,894 of General Fund revenue
+through a grant from TriMet to fund a 1.00 Legal Assistant 2 in
+the SPSU Program (15206) and 1.00 Victim Advocate in the
+Victim Assistance Program (15015). These positions support
+TriMet funded DDAs and DA Investigators. This funding is an
+expansion of services for TriMet related cases. This amount
+also includes $65,805 in indirect costs.
+AdoptAmend-DA-002-26
+15206C Auto Theft Task Force DA 175,000 34,714 209,714 1.25 This revenue amendment adds $175,000 from the Portland
+Police Bureau to fund a 0.85 FTE DA Investigator and 0.40 FTE
+Legal Assistant to support the Deputy District Attorney
+assigned to the Auto Theft Task Force (15206C).
+AdoptAmend-DA-005-26
+15206B Organized Retail Theft Task Force DA 175,000 34,714 209,714 1.25 This revenue amendment adds $175,000 from the Portland
+Police Bureau to fund a 0.85 FTE DA Investigator and 0.40 FTE
+Legal Assistant to support the Deputy District Attorney
+assigned to the Organized Retail Theft Task Force (15206B).
+AdoptAmend-DA-006-26
+78301
+78330
+78332
+78336
+78337
+78340
+IT Technology Improvement Program, CEDARS
+Replacement, Public Website and Digital Services
+Transformation, Radio System Replacement,
+Network Access Control, Enterprise Resource
+Planning Historical Data Retention
+DCA 475,915 475,915 This amendment increases Beginning Working Capital in the
+Information Technology Capital Fund (2508) by $475,915
+based on the updated current spending forecast for FY 2025.
+It also allocates funding to speciﬁc projects as will be detailed
+in the Capital Budget section of the Adopted Budget.
+AdoptAmend-DCA-002-26
+78308 IT Asset Replacement DCA 220,454 220,454 This amendment increases Beginning Working Capital in the
+Information Technology Fund (3503) by $220,454 based on
+the updated current spending forecast for FY 2025. It allocates
+$112,288 for IT hardware and $108,166 for software.
+AdoptAmend-DCA-003-26
+Prepared by the Multnomah County Budget Office Page 7 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Revenue Amendments (YELLOW)
+21
+22
+23
+24
+25
+78228A
+78228F
+78228G
+78228H
+78228I
+78228J
+Library Capital Bond Construction, Library Capital
+Bond Construction:  Albina Library, Library
+Capital Bond Construction:  East County Library,
+Library Capital Bond Construction:  Belmont
+Library, Library Capital Bond Construction:
+Northwest Library, Library Capital Bond
+Construction:  St. Johns Library
+DCA (2,814,539) (2,814,539) This amendment decreases Beginning Working Capital in the
+Multnomah County Library Capital Construction (GO Bond)
+fund (2517) by $2,814,539 based on the updated current
+spending forecast for FY 2025. It also allocates funding to
+speciﬁc projects as will be detailed in the Capital Budget
+section of the Adopted Budget.
+AdoptAmend-DCA-004-26
+78345 Lobbying Reporting Software DCA 200,000 200,000 This amendment increases Beginning Working Capital in the
+Information Technology Capital Fund (2508) by $200,000 to
+support the lobbyist reporting technology solution. This
+funding was ﬁrst provided by Budget Modiﬁcation D3-002-25
+on May 1, 2025.
+AdoptAmend-DCA-005-26
+78245 Facilities Capital Improvement Program DCA (655,949) (655,949) This amendment updates Beginning Working Capital in the
+following capital funds as follows, based on the updated
+current spending forecasts for FY 2025:
+Library Construction Fund (2506): $271,745
+Capital Improvement Fund (2507): ($1,346,646)
+Asset Preservation Fund (2509): $387,352
+Additionally, it transfers $15,800 from the Behavioral Health
+Resource Center Capital fund (2516) to the Asset Preservation
+fund (2509) for the BHRC parking lot project.
+It also allocates funding to speciﬁc projects as will be detailed
+in the Capital Budget section of the Adopted Budget.
+AdoptAmend-DCA-006-26
+78240 Hansen Complex Deconstruction Phase 1 DCA 500,000 500,000 This budget amendment increases Beginning Working Capital
+by $500,000 in the Hansen Deconstruction project based on
+an updated spending forecast.  Budget Modiﬁcation
+DCA-011-25, approved by the Board on May 15, 2025
+provided $550,000 for this project.
+AdoptAmend-DCA-007-26
+78244 Juvenile Justice Complex Security Foyer DCA 309,949 309,949 This budget amendment increases Beginning Working Capital
+by $309,949 in the Juvenile Justice Complex Security Foyer
+project based on an updated spending forecast.  The start
+date of construction is running a little behind schedule, due in
+part to procurement scheduling. The FAC-1 approval for the
+construction project has been pushed to Fiscal Year 2026. This
+is a shift from the initial plan, which had anticipated the FAC-1
+in FY 2025.
+AdoptAmend-DCA-008-26
+Prepared by the Multnomah County Budget Office Page 8 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Revenue Amendments (YELLOW)
+26
+27
+28
+78249 Sobering and Crisis Intervention Center DCA 1,340,000 1,340,000 This amendment increases Beginning Working Capital by
+$1,340,000 in the Sobering and Crisis Intervention Capital
+Fund (2521) based on an updated spending forecast.  This
+project assumed more spending on project management,
+design, engineering then will be done in FY 2025. The
+expenses will be coming in early FY 2026 instead.
+AdoptAmend-DCA-009-26
+78233 Justice Center Electrical System Upgrade - Bus
+Duct Replacement Phase 2
+DCA 805,651 805,651 This budget amendment increases Beginning Working Capital
+by $805,651 in the Justice Center Capital Fund (2518) for the
+Bus Duct Replacement project based on an updated spending
+forecast.  Spending on this project in FY 2025 is less than
+expected due in part to a delay in elevator decommissioning
+as the City of Portland required a structural review of the
+elevator shaft as part of the permit process. This resulted in
+other construction work not starting as quickly as anticipated
+and less spend down.
+AdoptAmend-DCA-010-26
+78243 Homeless Services Department (HSD) Capital
+Program
+DCA 953,820 953,820 This budget amendment increases Beginning Working Capital
+in the Homeless Services Capital fund (2519) by $953,820
+based on the updated current spending forecasts for FY 2025.
+It also allocates funding to speciﬁc projects as will be detailed
+in the Capital Budget section of the Adopted Budget,
+including:
+$448,067 to East County Homeless Resource Center (Cook
+Plaza)
+$505,753 to Harrison Building Renovation
+AdoptAmend-DCA-011-26
+Prepared by the Multnomah County Budget Office Page 9 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Revenue Amendments (YELLOW)
+29
+30
+25000A
+25010
+25011
+25012
+25013
+25023
+25027
+25118
+30004
+40040
+40068
+40069
+40074A
+40075
+40081
+40082
+40087
+40088
+78202
+78209
+78316
+80025
+DCHS Director's Oﬃce, IDDSD Administration &
+Support, IDDSD Budget and Operations Support,
+IDDSD Services for Adults, IDDSD Services for
+Children and Young Adults, ADVSD Long Term
+Services & Supports (Medicaid), ADVSD
+Administration, YFS - Youth & Family Services
+Administration, Policy & Planning, Financial and
+Business Management Services, Behavioral
+Health Quality Management, Behavioral Health
+Crisis Services, Mental Health Residential
+Services, Choice Model, Multnomah County Care
+Coordination, School Based Mental Health
+Services, Addiction Services Alcohol & Drug
+Prevention, Coordinated Diversion for Justice
+Involved Individuals, Facilities Operations and
+Maintenance, Facilities Lease Management, IT
+Division Administration, Library Special Projects
+DCA
+DCHS
+HD  HSD
+LIB
+172,184 172,184 This amendment increases lease appropriation in the
+following four departments. These costs were not foreseen by
+County Assets during the internal service rate budgeting
+process for FY 2026. The Board approved a similar FY 2025
+budget modiﬁcation on May 15, 2025 (Budmod-DCA-04-25).
+County Human Services: Adjustments totaling $67,160 were
+made across eight diﬀerent program oﬀers to fund the
+increased lease appropriation. Reductions were made in
+supply lines from all of those programs, reducing the
+department’s ability to provide necessary materials for a
+number of areas. Work units will need to stretch existing
+supply reserves and limit future purchases in the next ﬁscal
+year.
+Homeless Services: Adjustments totaling $44,464 were made
+to reduce professional services in order to fund the increased
+lease appropriation.
+Health: Adjustments totaling $31,601 were made to reduce
+supplies and travel in order to fund the increased lease
+appropriation.
+Library: Adjustments totaling $28,373 were made to reduce
+facilities service requests in order to fund the increased lease
+appropriation.
+AdoptAmend-DCA-013-26
+80006
+80010
+80012
+80018
+80020
+80023
+80025
+80026
+Youth Development, Library Director’s Oﬃce,
+Business Services, IT Services, Integrated Library
+Services, Community Engagement, Library
+Special Projects, Library Events and Reader
+Services
+LIB 10,655 1,984,143 1,994,798 1.50 This Amendment increases the Library Fund appropriation by
+$1,941,060 due to the Library Foundation grant for program
+and collection enhancements, building projects and adds 1.50
+FTE. For the third year, Library Foundation support is greater
+than normal due to additional resources to fund Early
+Learning Playspaces in ﬁve newly developed/renovated
+libraries. Other programs supported by the Library Foundation
+include the Every Child Initiative, Teen Connected Learning
+Spaces, and Community Labs. A full list of all programs
+receiving Library Foundation support is available upon
+request. The $10,655 General Fund change is from indirect
+and $42,726 Other Funds change is internal service
+reimbursement for insurance and beneﬁts.
+AdoptAmend-LIB-001-26
+Prepared by the Multnomah County Budget Office Page 10 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Revenue Amendments (YELLOW)
+31
+32
+25000A
+25029
+DCHS Director's Oﬃce, ADVSD LTSS Nursing
+Homes and Homeless Services (Medicaid)
+DCHS 23,079 212,079 235,158 1.00 This amendment increases the Federal/State Fund
+appropriation by $183,353 in Title XIX Medicaid funding from
+the State of Oregon's Department of Human Services (ODHS),
+Oﬃce of Aging and People with Disabilities (APD) for Housing
+Support Services under its 1915(c) Waiver. This funding began
+in FY 2023 and was slated to end in June 2025, but was
+recently extended through the 25-27 biennium. This funding
+will restore the only Housing Navigator position (1.00 FTE
+Program Specialist) in the Aging, Disability and Veterans
+Services Division (ADVSD). Housing Navigators oﬀer
+consultation to case managers and direct consumer
+assistance.
+Housing Support Services assist 6,141 Medicaid service
+consumers with either maintaining or obtaining tenancy in an
+in-home setting. Approximately 195 of these clients are
+referred to the Housing Navigator position for additional
+housing stabilization services a year.
+The $23,079 increase in General Fund is due to new indirect,
+and the additional $28,726 in Other Funds is for internal
+service reimbursement for insurance and beneﬁts.
+AdoptAmend-DCHS-001-26
+40032
+40040
+FQHC-Lab and Medical Records, Financial and
+Business Management Services
+HD 44,133 403,497 447,630 3.00 This amendment increases the appropriation in the Health
+Department Federally Qualiﬁed Health Center (FQHC) Fund by
+$325,593 to fund 3.00 FTE Oﬃce Assistants 2 in the FQHC -
+Lab and Medical Records program in the Integrated Clinical
+Services division. This revenue and FTE was inadvertently left
+out of the budget. These positions support the optimization of
+patient healthcare related documents. They receive and
+review client documents such a medical records from other
+clinics, prescriptions, medical reports, and requests for patient
+information.
+The $44,133 increase in General Fund is due to new indirect,
+and the additional $77,904 in Other Funds is for internal
+service reimbursement for insurance and beneﬁts.
+AdoptAmend-HD-001-26
+Prepared by the Multnomah County Budget Office Page 11 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Revenue Amendments (YELLOW)
+33
+34
+35
+40040
+40048
+40087
+Financial and Business Management Services,
+Community Epidemiology, Addiction Services
+Alcohol & Drug Prevention
+HD 11,144 12,610 23,754 0.30 This amendment shifts $79,004 in the Federal/State Fund
+from the division of Behavioral Health to Public Health for the
+Federal Strategic Prevention Framework Project Grant. This
+funding will increase a Research Evaluation Scientist position
+by 0.30 FTE from 0.68 FTE to 0.98 FTE.  The Research
+Evaluation Scientist's work includes statewide program
+assessment and evaluation of eﬀorts in substance use
+prevention.  Pass-through funding is decreased in Behavioral
+Health, but these funds were always intended for a Research
+Evaluation Scientist.
+The $11,144 increase in General Fund is due to new indirect,
+and the $12,610 in Other Funds is for internal service
+reimbursement for insurance and beneﬁts.
+AdoptAmend-HD-016-26
+40010A
+40040
+Communicable Disease Prevention and Control,
+Financial and Business Management Services
+HD 10,319 77,033 87,352 This amendment increases the appropriation of the
+Federal/State Fund by $76,130 for the one-time Jynneous
+Vaccine Eﬃcacy grant. The grants will fund a temporary
+Epidemiologist. Restoring the Epidemiologist capacity will
+allow the program to retain the ability to investigate cases and
+outbreaks of reportable diseases. The grant period is from
+1/1/2025 to 12/31/2025.
+The $10,319 increase in General Fund is due to new indirect,
+and the additional $903 in Other Funds is for internal service
+reimbursement for insurance and beneﬁts.
+AdoptAmend-HD-021-26
+10030
+95001
+Employee Retention Incentives - Final Year,
+General Fund Revenues
+NOND -
+All
+Other
+OVER
+(750,000) (750,000) This amendment reduces Beginning Working Capital in the
+General Fund for retention incentive payments by $750,000.
+This revenue reduction is oﬀset by a reduction of $750,000 in
+personnel costs for Employee Retention Incentives, which will
+remove this program from the FY 2026 budget. Due to the
+timing of labor negotiations it was anticipated that the
+funding budgeted in FY 2025 would not be spent so the
+funding was rebudgeted in FY 2026 for the ﬁnal retention
+incentive payments. However, the ﬁnal labor contract has
+settled and payments were made in FY 2025.
+AdoptAmend-NOND - All
+Other-001-26
+Prepared by the Multnomah County Budget Office Page 12 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Revenue Amendments (YELLOW)
+36
+37
+38
+39
+Totals:
+40104B
+95000
+95001
+24/7 Sobering and Crisis Stabilization Center
+Implementation, Fund Level Transactions,
+General Fund Revenues
+HD
+OVER
+545,000 545,000 This amendment appropriates $545,000 of new ongoing
+opioid settlement funding in the General Fund and moves
+$545,000 of expenses that were already budgeted related to
+programming in 24/7 Sobering and Crisis Stabilization Center
+Implementation (40104B) to this new funding source. This
+allows $545,000 of General Funds to be budgeted in Board
+revenue amendment 1.
+AdoptAmend-HD-028-26
+30202C Safety oﬀ the Streets - City of Portland
+Alternative Shelter Sites
+HSD 3,417,500 3,417,500 This amendment is associated with FY 2025 budget
+modiﬁcation BudMod-JOHS-008-25 (5/29/25) to carryover
+$3,417,500 in one-time Metro Supportive Housing Services
+funding to pass through to the City of Portland for temporary
+alternative shelter sites (TASS) operations that were unspent
+by the City and were previously approved by the Board.
+AdoptAmend-HSD-009-26
+40034B FQHC - Contingency and Reserves HD
+OVER
+(6,000,000) (6,000,000) This amendment reduces the Beginning Working Capital
+(BWC) and Unappropriated balances in the Health
+Department Federally Qualiﬁed Health Center (FQHC) Fund by
+$6 million. When preparing the FY 2026 budget, the amount
+of BWC is estimated based on beginning balances and
+estimated spending in FY 2025. In mid-FY 2025, $6 million of
+additional funds were appropriated to ﬁnish the La Clinica de
+Buena Salud (Fernhill Health Center) on Budmod-HD-032-25,
+and therefore this $6 million will not be available in FY 2026.
+AdoptAmend-HD-012-26
+95000 Fund Level Transactions OVER 500 500 1,000 This amendment increases Beginning Working Capital in the
+Downtown Courthouse Capital Fund by $500 and transfers it
+to the General Fund.  This closes out the Downtown
+Courthouse Capital Fund as the project has been completed.
+The General Fund increases by $500 from this fund transfer
+revenue.
+AdoptAmend-OVER-001-26
+555,724 1,927,921 2,483,645 10.30
+Prepared by the Multnomah County Budget Office Page 13 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Program Amendments (PURPLE)
+40 25133C Medicaid 1115 Health Related Social Needs
+Housing Waiver
+DCHS 10,000,000 10,000,000 This amendment increases the Federal/State Fund
+appropriation by $10,000,000 in CareOregon funding for the
+Health Related Social Needs (HRSN) Housing program under
+the State of Oregon’s Medicaid 1115 Waiver. In FY 2026, this
+funding provides rent and utilities assistance payments
+extended through Medicaid and will be reimbursed by
+CareOregon.
+Under the State of Oregon’s 1115 Medicaid Demonstration
+Waiver for 2022-2027, Oregon Health Authority added a new
+class of Medicaid beneﬁts for (HRSN). The HRSN services
+include housing and nutrition support.  The overall goal of this
+waiver is to improve health outcomes for low-income
+Oregonians and eliminate health inequities.
+This program is planning on serving at least 2,400 households
+(200 households per month) with up to six months of rental
+assistance and tenancy support, including rent and utility
+arrears (past due payments). Funds are available to Medicaid
+recipients who also meet several other criteria including a
+clinical risk factor and who are presently housed but are
+facing homelessness. The $10 million is for only three months
+of program costs given the uncertainty related to Medicaid. In
+the ﬁrst month of providing these payments DCHS found that
+most households have almost $18,000 in arrears payments
+due and with a goal of 200 households per month will result
+in payments exceeding $3 million per month. A full year of
+rent and utility payments is estimated to be almost $40
+million.
+The Medicaid waiver support will slow the inﬂow of housed
+individuals and families into homelessness by increasing the
+rent assistance available, however the need for rent
+assistance already far outweighs the amount of rent
+assistance available. This program is set to sunset in 2027 if no
+changes are made to Medicaid eligibility or use under the
+Federal budget before that time.
+AdoptAmend-DCHS-004-26
+Prepared by the Multnomah County Budget Office Page 14 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Program Amendments (PURPLE)
+41 25119
+25139
+25145
+25147
+25149
+25151
+25152
+25155
+YFS - Energy Assistance, YFS - Multnomah
+Stability Initiative (MSI), YFS - SUN Community
+Schools, YFS - Child & Family Hunger Relief, YFS -
+SUN Youth Advocacy Program, YFS - SUN Parent
+& Child Development Services, YFS - Early
+Learning Family Engagement and Kindergarten
+Transition, YFS - Sexual & Gender Minority Youth
+Services
+DCHS The FY 2026 budget eliminates the Successful Families
+program (25137) and reallocates $2,323,594 in General Fund
+from that program to support wage increases to
+community-based organizations (CBOs) across the entire SUN
+Service System ($1,423,594) and fund additional CBO staﬀ to
+support youth in middle and high school in the SUN Youth
+Advocacy program ($900,000).
+The $2.3 million reallocation was originally budgeted in YFS -
+SUN Community Schools (25145). This amendment realigns
+that reallocation to reﬂect the changes by program oﬀer. It
+reduces YFS - SUN Community Schools by $1,689,010, leaving
+$634,585 to support wage increases in that program, and
+reallocates those funds to the other programs across the
+entire SUN Service System. The impacts are to contractual
+services to support CBO wage increases are as follows:
+$152,170 increase in YFS - Energy Assistance (25119).
+$242,474 increase in YFS - Multnomah Stability Initiative
+(25139)
+$1,689,010 decrease for a net increase of $634,584 to support
+CBO wage increases in YFS - SUN Community Schools (25145).
+$32,735 increase in YFS - Child & Family Hunger Relief
+(25147).
+$239,132 increase in YFS - SUN Youth Advocacy Program
+(25149).
+$86,366 increase in YFS - SUN Parent & Child Development
+Services (25151).
+$14,728 increase in YFS - Early Learning Family Engagement
+and Kindergarten Transition (25152).
+$21,405 increase in YFS - Sexual & Gender Minority Youth
+Services (25155).
+In addition, there is a $900,000 increase to fund additional
+CBO staﬀ in high equity index schools and serve 210 more
+youth in YFS - SUN Youth Advocacy Program (25149).
+This amendment has no ﬁscal impact. The Department of
+County Human Services briefed the Board of County
+Commissioners about this reallocation of funding at the
+Budget Work Session on June 4, 2025.
+AdoptAmend-DCHS-007-26
+Prepared by the Multnomah County Budget Office Page 15 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Program Amendments (PURPLE)
+42
+43
+44
+72017 Central HR Services DCM This amendment was originally created to transfer 1.00 FTE
+from the Organizational Learning team (72017) to the
+Complaints Investigation Unit (CIU) (72021) of Central Human
+Resources in DCM. However, due to Board amendments that
+changed the approach to the Complaints Investigation Unit,
+this amendment is now moot, and the 1.00 FTE position will
+remain in Central Human Resources.
+AdoptAmend-DCM-001-26
+40007
+40037
+40040
+Health Inspections and Education, Environmental
+Health Community Programs, Financial and
+Business Management Services
+HD (20,704) (180,048) (200,752) (0.80) This amendment reduces appropriation in the Federal/State
+Fund by ($152,754) from $663,454 to $510,700 for the ﬁsh
+advisory consumption program. The total Environmental
+Protection Agency's (EPA) grant award amount is $1,500,000
+and was originally a three year grant from
+9/01/2023-8/30/2026. It was extended to 8/30/2028 with no
+additional funding, which means the budget needs to be
+reduced in order to provide services through 2028. A vacant
+Program Specialist 0.80 FTE position is being eliminated. In
+addition, 0.10 FTE of an Oﬃce Assistant Senior's position will
+be reallocated to support the Inspections Program, where the
+other 0.90 FTE is budgeted. The impact of this reduction is
+that additional trainings, outreach, and education that would
+accompany in-water cleanup construction activities will not
+be provided.
+The $20,704 decrease in General Fund is due to a reduction in
+indirect, and the additional $27,294 reduction in Other Funds
+is for internal service reimbursement for insurance and
+beneﬁts.
+AdoptAmend-HD-019-26
+80003
+80005
+80012
+80026
+West and South County Libraries, East County
+Libraries, Business Services, Library Events and
+Reader Services
+LIB 4,280 4,280 0.05 This amendment moves 2.00 FTE Librarians and 2.00 Program
+Supervisors to new cost centers with no net change in FTE to
+better align positions with updated roles under the Library
+Future Staﬃng Plan. This amendment also shifts 0.20 FTE
+from a 1.00 FTE Program Specialist ﬁlled by an employee who
+has worked a 0.8 FTE schedule for an extended period of time.
+A 0.50 FTE Program Specialist is being increased to 0.75 FTE
+(for a net increase of 0.05 FTE) to address emerging
+programmatic needs. The increased FTE capacity will be used
+to coordinate and support sensory rooms and sensory
+accommodations.
+The $4,280 increase in Other Funds is for internal service
+reimbursement for insurance and beneﬁts.
+AdoptAmend-LIB-003-26
+Prepared by the Multnomah County Budget Office Page 16 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Program Amendments (PURPLE)
+45
+46
+47
+40061 Harm Reduction HD (1,162,939) (1,162,939) This amendment decreases appropriation in the Federal/State
+Fund by $1,162,939 for Overdose Prevention and Naloxone
+Distribution from CareOregon which is not being renewed for
+FY 2026. The reduction leaves $0.85 million budgeted in FY
+2026 which is the estimated unspent amount that the
+program will have available to carry over from FY 2025. The
+grant's purpose is to provide naloxone to community
+partners. The funding goes through December 2025, with a
+potential no cost extension.
+AdoptAmend-HD-014-26
+40061 Harm Reduction HD 174,000 174,000 This amendment increases the Federal/State Fund
+appropriation by $174,000 from Health Share of Oregon.
+These funds will be used for regional wound care kits for the
+Multnomah, Clackamas, and Washington counties. These kits
+are prepackaged wound cleaning and dressing supplies to
+prevent infections and treat abscesses in wounds from
+injuries and/or injection sites among houseless folks. Simple
+kits are intended for general prevention needs, while
+enhanced kits include wet dressings and may be part of
+follow-up or non-clinical intervention for active
+wounds/abscesses. This amendment adds these funds to the
+Harm Reduction program (40061), and the output is expected
+to be 20,000 Simple Kits, 3,000 enhanced kits. 53% to
+Multnomah County, 27% to Washington County, 20% to
+Clackamas County.
+AdoptAmend-HD-030-26
+40113 Substance Use Disorder Stabilization Center HD 6,850,000 6,850,000 This amendment appropriates $6.85 million of carryforward
+Supportive Housing Services funds for a provider to build a
+stabilization center with substance use disorder (SUD) services
+that includes 46 beds for SUD recovery and treatment
+housing. The FY 2025 Homeless Services Department budget
+included a one-time capital investment of $6.85 million for
+this purpose, and this amendment will carry it forward into FY
+2026 and move the funds to the Health Department. The
+facility will provide stabilization for individuals transitioning
+from acute care settings. The current delay in the land
+purchase is due to the pending approval of the Property Line
+Adjustment application by the City of Portland. The project
+remains on track for occupancy in Fall 2026. Please see
+related amendment HSD-003-26 that adds the revenue.
+AdoptAmend-HD-029-26
+Prepared by the Multnomah County Budget Office Page 17 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Program Amendments (PURPLE)
+48
+49
+30999 Supportive Housing Services Revenue for Other
+Departments
+HSD The FY 2025 Homeless Services Department budget includes a
+one-time capital investment of $6.85 million for Health
+Department capital for 24/7 Stabilization Center Emergency
+Sobering Units & Detox. This amendment carries forward the
+revenue from FY 2025 to FY 2026. Please see related
+amendment HD-029-26 that appropriates the expenses.
+AdoptAmend-HSD-003-26
+40075 Choice Model HD 272,521 272,521 This amendment increases the appropriation of the
+Federal/State Fund by $272,521 for the CHOICE program. The
+additional revenue is part of an incentive payment and
+ongoing allocation for the CHOICE model funding. The CHOICE
+program consists of care coordination services and contracted
+services to work with individuals with Severe and Persistent
+Mental Illness (SPMI). Choice diverts individuals from the
+Oregon State Hospital (OSH), coordinates successful discharge
+from OSH and acute psychiatric hospitals into appropriate
+community placements, coordinates care for individuals
+residing primarily in licensed residential facilities in order to
+move individuals into the least restrictive housing possible,
+and coordinates care and develops support to maximize
+independent living. The increase in funds will be allocated to
+direct client assistance, including housing support,
+housing-related services, guardianship, and other essential
+needs for approximately 50 CHOICE clients.
+AdoptAmend-HD-023-26
+Prepared by the Multnomah County Budget Office Page 18 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Program Amendments (PURPLE)
+50 40040
+40081
+Financial and Business Management Services,
+Multnomah County Care Coordination
+HD 22,722 981,091 1,003,813 This amendment increases the Federal/State Fund
+appropriation by $951,863 in one-time-only funding from
+CareOregon for the Addictions Assessment Team (ASAM)
+project. These unspent funds will be carried forward from an
+FY 2025 agreement that was terminated, freeing up the funds
+for other behavioral health services. This amendment funds a
+Limited Duration Mental Health Consultant ($144,912) to
+serve as an adult care coordination intake specialist. The role
+will enhance intake responsiveness for adults with complex
+mental illness and co-occurring diagnoses who are houseless.
+Direct Client Assistance in the amount of $784,229 is included
+to support urgent needs, including motel stays at two Bridging
+Connections shelter sites, eviction prevention, rapid
+rehousing, safety planning, and responses to imminent health
+and safety crises. These supports are designed to avoid delays
+that could negatively impact client outcomes. The funding will
+maintain up to 40 motel vouchers and provide critical, timely
+assistance that improves housing stability and safety for a
+vulnerable population. While this is one-time funding, the
+outcomes will be measurable in increased housing
+placements, reduced emergency interventions, and improved
+linkage to long-term services. When the funding has ended,
+the responsibilities will be re-absorbed into the program.
+The $22,722 increase in General Fund is due to new indirect,
+and the additional $29,228 in Other Funds is for internal
+service reimbursement for insurance and beneﬁts.
+AdoptAmend-HD-013-26
+Prepared by the Multnomah County Budget Office Page 19 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Program Amendments (PURPLE)
+51
+52
+40018
+40040
+Women, Infants, and Children (WIC), Financial
+and Business Management Services
+HD 23,470 235,914 259,384 1.00 This amendment increases the Federal/State Fund
+appropriation by $207,252 from the Food Research and
+Action Center in the Women, Infants, and Children (WIC)
+Clinics budget to expand mobile clinical services. The WIC
+program currently operates one remote clinic in North
+Portland, and this funding will allow expansion into Gresham
+and more broadly in North Portland through two popups per
+month with partners that will help improve access to nutrition
+services for underserved communities. This additional funding
+will support the purchase of mobile clinic supplies. It will also
+provide surge capacity to support existing WIC clinics during
+peak periods. The funding adds 1.00 FTE Dietitian
+(Nutritionist) who will lead nutrition education and clinical
+service delivery in these mobile and surge environments. The
+grant period is 1/1/2026 through 12/31/2026 and is
+renewable up to seven times.
+The $23,470 increase in General Fund is due to new indirect,
+and the additional $28,662 in Other Funds is for internal
+service reimbursement for insurance and beneﬁts.
+AdoptAmend-HD-008-26
+40040
+40045
+40047
+Financial and Business Management Services,
+Corrections Health Operations, Corrections
+Health Transition Services
+HD 31,960 694,269 726,229 This amendment increases the appropriation in the
+Federal/State Fund by $663,910 from the Criminal Justice
+Commission (CJC) for jail based medications for opioid use
+disorder (MOUD) programs. The funds will provide for
+temporary staﬀ, materials and supplies, and contractual
+services that will securely deliver methadone to each
+identiﬁed eligible patient. This will expand current services to
+include other MOUDs. An estimated 15-20 people will be
+served with this funding. The grant period is from 10/1/2024
+to 9/30/2025, although the program was only notiﬁed of the
+funding in March. This grant also funds 0.19 FTE of a
+Management Analyst that was previously budgeted in the
+General Fund.
+The $31,960 increase in General Fund is due to new indirect,
+and the additional $30,359 in Other Funds is for internal
+service reimbursement for insurance and beneﬁts.
+AdoptAmend-HD-010-26
+Prepared by the Multnomah County Budget Office Page 20 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Program Amendments (PURPLE)
+53
+Totals:
+40022
+40040
+FQHC-Mid County Health Clinic, Financial and
+Business Management Services
+HD 14,285 121,426 135,711 This amendment increases the Health Department FQHC Fund
+appropriations by $120,000 for a Refugee Health Promotion
+grant. Mid County Health Center has been the primary health
+center in the state of Oregon completing Refugee Medical
+screening because most newcomers who resettle in Oregon
+reside in the Portland Metro Area. Because of this, Mid
+County Health Center has been recognized by the as Oregon
+Department of Human Services (ODHS) the standard on how
+to complete the medical screening and reporting
+requirements.  Mid County Health Center has been awarded
+this grant to provide ODHS with data on Refugee Medical
+Screenings and mentoring other Health Centers around the
+state doing the same work. The award covers a portion of a
+temporary Registered Nurse to prepare an annual report for
+ODHS and assist other health centers as a subject matter
+expert on reporting and screening.
+The $14,285 increase in General Fund is due to new indirect,
+and the additional $1,426 in Other Funds is for internal
+service reimbursement for insurance and beneﬁts.
+AdoptAmend-HD-017-26
+71,733 17,990,514 18,062,247 0.25
+Prepared by the Multnomah County Budget Office Page 21 of 21
+Attachment A - Multnomah County
+FY 2026 Department Amendments
+Row Program Oﬀ er Number Program Oﬀ er Name Dept(s) General Fund
+Change
+Other Funds
+Change
+Total Change FTE Change Amendment Description Amendment #
+Carryover Amendments (SALMON)
+54
+Totals:
+72003  95000 FRM Oﬃce of the CFO, Fund Level Transactions DCM
+OVER
+95,000 95,000 This amendment increases beginning working capital and
+carries over $95,000 in the General Fund for the Economic
+Development Landscape Analysis and Report, which will
+inform the development and implementation of a countywide
+economic development strategy. The project team solicited
+proposals from two pre-qualiﬁed County vendors, and is
+currently ﬁnalizing the selection of the vendor for this project.
+It is anticipated that the vendor will begin work in June 2025,
+but that they will need to continue their work into Fiscal Year
+2026.
+In FY 2025, the report is funded with one-time-only funding of
+$100,000 from contingency, which the Board approved on
+April 17, 2025 (Budmod-D3-001-25). This request is a limited
+exception given the timing of the Commission's approval of
+the Budget Modiﬁcation that happened to land close to the FY
+2026 budget process.
+AdoptAmend-DCM-004-26
+95,000 95,000
+Attachment B
+Appropriations Schedule
+Multnomah County, Oregon
+Fiscal Year July 1, 2025 to June 30, 2026
+Fund Department
+Department
+Program
+Expenditures Contingency Cash Transfers Debt Service Total Appropriation
+General Fund (1000) 27,011,967         9,311,335            -                         36,323,302
+Nondepartmental 55,649,100                55,649,100
+District Attorney 48,747,314                48,747,314
+County Human Services 76,981,304               76,981,304
+Joint Office 64,537,640                64,537,640
+Health 149,236,885              149,236,885
+Community Justice 89,257,881                89,257,881
+Sheriff 196,667,987              196,667,987
+County Management 65,408,764               65,408,764
+County Assets 10,919,979                10,919,979
+Community Services 27,669,250               27,669,250
+Total General Fund 785,076,104              27,011,967          9,311,335           -                         821,399,406
+Road Fund (1501) 5,021,163           -                        -                         5,021,163
+Community Services 71,719,529               -                        -                        -                         71,719,529
+Total Road Fund 71,719,529                5,021,163            -                        -                         76,740,692
+Bicycle Path Construction Fund (1503) -
+Community Services 462,551                      462,551
+Bicycle Path Construction Fund Total 462,551                      -                        -                        -                         462,551
+Recreation Fund (1504) -
+County Management 40,000                        40,000
+Recreation Fund Total 40,000                        -                        -                        -                         40,000
+Fund Requirements
+Attachment B
+Appropriations Schedule
+Multnomah County, Oregon
+Fiscal Year July 1, 2025 to June 30, 2026
+Fund Department
+Department
+Program
+Expenditures Contingency Cash Transfers Debt Service Total Appropriation
+Fund Requirements
+Federal State Fund (1505) 13,400,000        13,400,000
+Nondepartmental 3,266,111                  3,266,111
+District Attorney 8,050,037                  8,050,037
+County Human Services 195,104,196             195,104,196
+Joint Office 89,086,949                89,086,949
+Health 139,173,099              139,173,099
+Community Justice 26,084,114                26,084,114
+Sheriff 14,784,555                14,784,555
+County Assets 126,000                      126,000
+Community Services 2,127,575                 2,127,575
+Federal State Fund Total 477,802,636              -                        13,400,000        -                         491,202,636
+County School Fund (1506) -
+Nondepartmental 70,025                        70,025
+County School Fund Total 70,025                        -                        -                        -                         70,025
+Animal Control Fund (1508) 569,473              1,374,091           1,943,564
+Community Services 1,301,236                 1,301,236
+Animal Control Fund Total 1,301,236                  569,473               1,374,091          -                         3,244,800
+Willamette River Bridges Fund (1509) 36,892,729         28,584,065         65,476,794
+Community Services 33,650,197               33,650,197
+Willamette River Bridges Fund Total 33,650,197                36,892,729          28,584,065         -                         99,126,991
+Library Fund (1510) -
+Library 125,223,589              125,223,589
+Library Fund Total 125,223,589              -                        -                        -                         125,223,589
+Special Excise Taxes Fund (1511) -
+Nondepartmental 44,421,215                44,421,215
+Special Excise Taxes Fund Total 44,421,215                -                        -                        -                         44,421,215
+Land Corner Preservation Fund (1512) -
+Community Services 2,412,077                 2,412,077
+Land Corner Preservation Fund Total 2,412,077                  -                        -                        -                         2,412,077
+Attachment B
+Appropriations Schedule
+Multnomah County, Oregon
+Fiscal Year July 1, 2025 to June 30, 2026
+Fund Department
+Department
+Program
+Expenditures Contingency Cash Transfers Debt Service Total Appropriation
+Fund Requirements
+Inmate Welfare Fund (1513) -
+Sheriff 1,786,000                  1,786,000
+Inmate Welfare Fund Total 1,786,000                  -                        -                        -                         1,786,000
+Coronavirus (COVID-19) Response Fund (1515) -
+County Human Services 1,644,937                 1,644,937
+Sheriff 857,527                      857,527
+Community Services 869,903                      869,903
+Coronavirus (COVID-19) Response Fund Total 3,372,367                  -                        -                        -                         3,372,367
+Justice Services Special Operations (1516) -
+District Attorney 2,000                          2,000
+Community Justice 1,096,275                  1,096,275
+Sheriff 11,548,383                11,548,383
+Justice Services Special Operations Total 12,646,658                -                        -                        -                         12,646,658
+Oregon Historical Society Levy Fund (1518) -
+Nondepartmental 3,844,422                  3,844,422
+Oregon Historical Society Levy Fund Total 3,844,422                  -                        -                        -                         3,844,422
+Video Lottery Fund (1519) 667,147              667,147
+Nondepartmental 2,354,972                  2,354,972
+Joint Office 3,090,331                  3,090,331
+County Management 332,988                      332,988
+Community Services 1,000,000                 1,000,000
+Video Lottery Fund Total 6,778,291                  667,147               -                        -                         7,445,438
+Attachment B
+Appropriations Schedule
+Multnomah County, Oregon
+Fiscal Year July 1, 2025 to June 30, 2026
+Fund Department
+Department
+Program
+Expenditures Contingency Cash Transfers Debt Service Total Appropriation
+Fund Requirements
+Supportive Housing Fund (1521) 4,165,730           4,165,730
+Nondepartmental 4,050,870                  4,050,870
+County Human Services 6,022,715                 6,022,715
+Joint Office 153,487,493              153,487,493
+Health 23,141,614                23,141,614
+Community Justice 1,361,752                  1,361,752
+County Management 203,058                      203,058
+Supportive Housing Fund Total 188,267,502              4,165,730            -                        -                         192,433,232
+Preschool for All Program Fund (1522) 17,500,000         17,500,000
+Nondepartmental 376,642                      376,642
+County Human Services 162,977,210             162,977,210
+Health 2,016,968                  2,016,968
+County Management 7,035,866                 7,035,866
+Preschool for All Program Fund Total 172,406,686              17,500,000          -                        -                         189,906,686
+Capital Debt Retirement Fund (2002) 23,854,815          23,854,815
+Nondepartmental 3,000                          3,000
+Capital Debt Retirement Fund Total 3,000                          -                        -                        23,854,815         23,857,815
+General Obligation Bond Sinking Fund (2003) 57,090,090          57,090,090
+Nondepartmental -                               -
+General Obligation Bond Sinking Fund Total -                               -                        -                        57,090,090         57,090,090
+PERS Bond Sinking Fund (2004) 34,885,000          34,885,000
+Nondepartmental 450,700                      450,700
+PERS Bond Sinking Fund Total 450,700                      -                        -                        34,885,000         35,335,700
+Downtown Courthouse Capital Fund (2500) 14,520                14,520
+County Assets -                               -
+Downtown Courthouse Capital Fund Total -                               -                        14,520                -                         14,520
+Attachment B
+Appropriations Schedule
+Multnomah County, Oregon
+Fiscal Year July 1, 2025 to June 30, 2026
+Fund Department
+Department
+Program
+Expenditures Contingency Cash Transfers Debt Service Total Appropriation
+Fund Requirements
+Asset Replacement Revolving Fund (2503) -
+County Assets 580,027                      580,027
+Asset Replacement Revolving Fund Total 580,027                      -                        -                        -                         580,027
+Library Capital Construction Fund (2506) -
+County Assets 13,296,443                13,296,443
+Library Capital Construction Fund Total 13,296,443                -                        -                        -                         13,296,443
+Capital Improvement Fund (2507) -
+County Assets 45,491,471                45,491,471
+Capital Improvement Fund Total 45,491,471                -                        -                        -                         45,491,471
+Information Technology Capital Fund (2508) -
+County Assets 14,634,224                14,634,224
+Information Technology Capital Fund Total 14,634,224                -                        -                        -                         14,634,224
+Asset Preservation Fund (2509) -
+County Assets 47,358,677                47,358,677
+Asset Preservation Fund Total 47,358,677                -                        -                        -                         47,358,677
+Sellwood Bridge Replacement Fund (2511) -
+Community Services 8,583,523                 8,583,523
+Sellwood Bridge Replacement Fund Total 8,583,523                  -                        -                        -                         8,583,523
+Burnside Bridge Fund (2515) -
+Community Services 33,025,016               33,025,016
+Burnside Bridge Fund Total 33,025,016                -                        -                        -                         33,025,016
+Behavioral Health Resource Center Capital Fund (2516) 915,800              915,800
+County Assets -
+Behavioral Health Resource Center Capital Fund Total -                               -                        915,800              -                         915,800
+Multnomah County Library Capital Construction (GO Bond) (2517) -
+County Assets 140,101,169              140,101,169
+Multnomah County Library Capital Construction (GO Bond) Total 140,101,169             -                        -                        -                         140,101,169
+Attachment B
+Appropriations Schedule
+Multnomah County, Oregon
+Fiscal Year July 1, 2025 to June 30, 2026
+Fund Department
+Department
+Program
+Expenditures Contingency Cash Transfers Debt Service Total Appropriation
+Fund Requirements
+Justice Center Capital Fund (2518) -
+County Assets 13,407,092                13,407,092
+Justice Center Capital Fund Total 13,407,092                -                        -                        -                         13,407,092
+Joint Office of Homeless Services Capital Fund (2519) 5,893,328           5,893,328
+County Assets 10,492,017                10,492,017
+Joint Office of Homeless Services Capital Fund Total 10,492,017                -                        5,893,328          -                         16,385,345
+Animal Services Facility Capital Fund (2520) -
+County Assets 3,446,128                  3,446,128
+Animal Services Facility Capital Fund Total 3,446,128                  -                        -                        -                         3,446,128
+Sobering and Crisis Intervention Capital Fund (2521) -
+County Assets 14,740,000                14,740,000
+Animal Services Facility Capital Fund Total 14,740,000                -                        -                        -                         14,740,000
+Behavioral Health Managed Care Fund (3002) -
+Health 637,000                      637,000
+Health Department FQHC Fund Total 637,000                      -                        -                        -                         637,000
+Health Department FQHC Fund (3003) 16,714,328         16,714,328
+Health 217,234,613              217,234,613
+Health Department FQHC Fund Total 217,234,613              16,714,328          -                        -                         233,948,941
+Risk Management Fund (3500) 17,789,290         17,789,290
+Nondepartmental 8,776,000                  8,776,000
+County Management 189,770,615             189,770,615
+Risk Management Fund Total 198,546,615              17,789,290          -                        -                         216,335,905
+Attachment B
+Appropriations Schedule
+Multnomah County, Oregon
+Fiscal Year July 1, 2025 to June 30, 2026
+Fund Department
+Department
+Program
+Expenditures Contingency Cash Transfers Debt Service Total Appropriation
+Fund Requirements
+Fleet Management Fund (3501) 773,833              313,298               1,087,131
+County Assets 7,328,469                  7,328,469
+Fleet Management Fund Total 7,328,469                  773,833               313,298               -                         8,415,600
+Fleet Asset Replacement Fund (3502) -
+County Assets 16,695,365                16,695,365
+Fleet Asset Replacement Fund Total 16,695,365                -                        -                        -                         16,695,365
+Information Technology Fund (3503) 2,452,698           2,452,698
+County Assets 82,706,157                82,706,157
+Information Technology Fund Total 82,706,157                2,452,698            -                        -                         85,158,855
+Mail Distribution Fund (3504) 500,261              500,261
+County Assets 4,905,812                  4,905,812
+Mail Distribution Fund Total 4,905,812                  500,261               -                        -                         5,406,073
+Facilities Management Fund (3505) 3,314,719           413,464               3,728,183
+County Assets 92,245,000                92,245,000
+Facilities Management Fund Total 92,245,000                3,314,719            413,464               -                         95,973,183
+Total Appropriation 2,897,189,603          133,373,338       60,219,901         115,829,905        3,206,612,747
+Total Unappropriated Balance 818,729,699
+Total All Funds 4,025,342,446
+Multnomah  County   FY  2026  Adopted  Board  Budget  Notes     Budget  notes  are  a  key  part  of  the  County's  budget  process.  Budget  notes  may:  ●  document  Board  discussions  and  decisions,  ●  request  future  policy  discussion,  ●  highlight  areas  for  in-depth  exploration  during  the  year,  ●  earmark  General  Fund  contingency  for  future  investments,  or  ●  give  departments  direction  in  how  to  achieve  the  Board’s  policy  goals  during  the
+year.
+  The  following  budget  notes  were  adopted  by  the  Board  of  County  Commissioners  on
+
+June
+
+12,
+
+2025.
+
+ Budget  Note  #1  Commissioner  Julia  Brim-Edwards
+ Transparency  in  County  Budgeting  and  Contracting  It  is  requested  that  the  Chair  direct  the  Department  of  County  Management  (DCM)  to
+regularly
+
+report
+
+to
+
+the
+
+Commission
+
+to
+
+include
+
+a
+
+detailed
+
+accounting
+
+of
+
+budgets-to-actuals
+
+for
+
+all
+
+fund
+
+types
+
+and
+
+program
+
+offers
+
+for
+
+FY
+
+2026
+
+and
+
+for
+
+future
+
+fiscal
+
+years.
+
+Additionally,
+
+it
+
+is
+
+requested
+
+that
+
+the
+
+Chair
+
+direct
+
+the
+
+Chief
+
+Financial
+
+Officer
+
+(CFO)
+
+to
+
+provide
+
+at
+
+least
+
+quarterly
+
+reports
+
+to
+
+the
+
+Board
+
+of
+
+County
+
+Commissioners
+
+of
+
+all
+
+contracts
+
+or
+
+contract
+
+amendments
+
+signed
+
+by
+
+the
+
+County
+
+Chair,
+
+the
+
+Chair’s
+
+designee
+
+or
+
+other
+
+authorized
+
+signees,
+
+with
+
+thresholds
+
+and
+
+contract
+
+types.
+
+The
+
+Board
+
+further
+
+requests
+
+that
+
+it
+
+be
+
+provided
+
+with
+
+recommended
+
+Financial
+
+and
+
+Budget
+
+Policy
+
+language
+
+on
+
+recurring
+
+contract
+
+reporting,
+
+including
+
+thresholds
+
+and
+
+contract
+
+types
+
+before
+
+December
+
+31,2025,
+
+ FY  2026  Board  ADOPTED  Budget  Notes  Page  1
+Multnomah  County   FY  2026  Adopted  Board  Budget  Notes     Budget  Note  #2  Commissioner  Meghan  Moyer   Key  Performance  Indicators  (KPls)  and  Equity  Impact  Statements   The  Multnomah  County  Board  of  Commissioners  is  responsible  for  ensuring  transparent
+and
+
+accountable
+
+spending
+
+of
+
+public
+
+dollars.
+
+In
+
+order
+
+to
+
+faithfully
+
+execute
+
+this
+
+function,
+
+the
+
+Board
+
+requires
+
+accurate
+
+information
+
+provided
+
+at
+
+regular
+
+intervals
+
+on
+
+the
+
+success
+
+of
+
+Department
+
+programs
+
+relative
+
+to
+
+Board-approved
+
+KPls.
+
+Establishment
+
+and
+
+evaluation
+
+of
+
+KPls
+
+allows
+
+the
+
+Board
+
+to
+
+make
+
+decisions
+
+concerning
+
+redundancies,
+
+efficiencies,
+
+and
+
+cost
+
+savings
+
+within
+
+and
+
+across
+
+departments.
+
+  It  is  the  policy  of  the  Board  to:   ●  Help  departments  develop  KPl's  for  programs  to  create  consistency  across
+programs
+
+and
+
+fiscal
+
+years.
+
+KPl's
+
+should
+
+speak
+
+to
+
+how
+
+well
+
+the
+
+program
+
+is
+
+delivering
+
+on
+
+the
+
+goals
+
+established
+
+in
+
+the
+
+program
+
+offer
+
+through
+
+objective
+
+quantitative
+
+and
+
+qualitative
+
+measures.
+ ●  Review  equity  impact  of  program  offers  and  determine  equity  impacts  across
+race,
+
+ethnicity,
+
+income,
+
+gender,
+
+sexuality,
+
+age,
+
+ability,
+
+or
+
+any
+
+other
+
+criteria
+
+deemed
+
+relevant
+
+to
+
+the
+
+program.
+
+The
+
+Board
+
+policy
+
+is
+
+that
+
+this
+
+review
+
+is
+
+done
+
+in
+
+partnership
+
+with
+
+the
+
+Office
+
+of
+
+Diversity
+
+and
+
+Equity.
+
+ ●  Ensure  program  offers  include  consistency  in  format  and  relevant  information.
+KPl's
+
+should
+
+include
+
+populations
+
+served,
+
+populations
+
+in
+
+need
+
+of
+
+services,
+
+qualitative
+
+and
+
+quantitative
+
+data,
+
+descriptions
+
+about
+
+the
+
+types
+
+and
+
+levels
+
+of
+
+services
+
+provided.
+
+KPls
+
+should
+
+also
+
+be
+
+constructed
+
+in
+
+a
+
+way
+
+that
+
+allows
+
+the
+
+Board
+
+to
+
+estimate
+
+the
+
+impacts
+
+of
+
+changes
+
+to
+
+funding,
+
+with
+
+a
+
+focus
+
+on
+
+Multnomah
+
+County's
+
+most
+
+vulnerable
+
+and
+
+historically
+
+marginalized
+
+populations.
+  It  is  the  policy  of  the  Board  that  KPIs  be  provided  to  the  Board  of  Commissioners  at
+regular
+
+intervals
+
+and
+
+as
+
+a
+
+tool
+
+to
+
+inform
+
+budgetary
+
+and
+
+policy
+
+decisions,
+
+including
+
+but
+
+not
+
+limited
+
+to
+
+Department
+
+proposed
+
+program
+
+offers
+
+for
+
+the
+
+annual
+
+budget,
+
+program
+
+offers
+
+in
+
+the
+
+Chair's
+
+proposed
+
+Annual
+
+Budget,
+
+Budget
+
+Modifications,
+
+Resolutions,
+
+and
+
+Ordinances.
+
+The
+
+Board’s
+
+policy
+
+is
+
+that
+
+these
+
+new
+
+KPl's
+
+and
+
+Equity
+
+Impacts
+
+are
+
+specified
+
+in
+
+time
+
+to
+
+inform
+
+the
+
+FY
+
+2027
+
+budget
+
+process.
+
+ FY  2026  Board  ADOPTED  Budget  Notes  Page  2
+Multnomah  County   FY  2026  Adopted  Board  Budget  Notes     Budget  Note  #3  Commissioner  Meghan  Moyer   Report  Out  for  Preschool  for  All  Sites  It  is  the  policy  of  the  Board  that  all  vacant  spaces  owned  or  leased  by  the  County  for
+suitability
+
+to
+
+build
+
+out
+
+for
+
+infant/toddler
+
+childcare
+
+and/or
+
+preschool
+
+use
+
+be
+
+evaluated,
+
+and
+
+a
+
+report
+
+provided
+
+to
+
+the
+
+Board
+
+by
+
+end
+
+of
+
+year
+
+2025
+
+with
+
+a
+
+list
+
+of
+
+all
+
+available
+
+and
+
+feasible
+
+spaces,
+
+including
+
+whether
+
+zoning
+
+changes
+
+are
+
+needed
+
+and
+
+next
+
+steps
+
+advised
+
+by
+
+the
+
+city
+
+planning
+
+department.
+   Budget  Note  #4  Commissioner  Meghan  Moyer   Facilities  Capital  Planning  Process   It  is  the  policy  of  the  Board  to  develop  a  systems  and  process  improvement  plan  to
+identify
+
+key
+
+decision
+
+points
+
+that
+
+are
+
+cost
+
+drivers
+
+and
+
+how
+
+Multnomah
+
+County
+
+can
+
+make
+
+improvements
+
+in
+
+order
+
+to
+
+drive
+
+capital
+
+project
+
+cost
+
+down.
+
+Examples
+
+of
+
+process
+
+improvements
+
+include,
+
+but
+
+are
+
+not
+
+limited
+
+to,
+
+estimated
+
+budget
+
+parameters
+
+before
+
+planning
+
+begins,
+
+review
+
+of
+
+value-added
+
+regarding
+
+green
+
+building
+
+and
+
+renovations,
+
+identified
+
+likely
+
+source
+
+of
+
+funding
+
+for
+
+full
+
+project
+
+scope
+
+prior
+
+to
+
+beginning
+
+planning
+
+process,
+
+and
+
+evaluation
+
+of
+
+commercial
+
+practices
+
+that
+
+could
+
+be
+
+implemented
+
+to
+
+minimize
+
+cost
+
+overruns.
+
+ FY  2026  Board  ADOPTED  Budget  Notes  Page  3
+Multnomah  County   FY  2026  Adopted  Board  Budget  Notes     Budget  Note  #5  Commissioner  Meghan  Moyer  Co-sponsored  Chair  Jessica  Vega  Pederson   Medicaid  Behavioral  Health  Services   Multnomah  County  is  the  Local  Mental  Health  Authority  (LMHA)  and  a  Federally
+Qualified
+
+Health
+
+Center.
+
+Together
+
+with
+
+the
+
+State
+
+of
+
+Oregon
+
+and
+
+Coordinated
+
+Care
+
+Organizations
+
+(CCOs),
+
+it
+
+is
+
+tasked
+
+with
+
+providing
+
+health
+
+services
+
+to
+
+all
+
+eligible
+
+people.
+
+Decisions
+
+made
+
+by
+
+Multnomah
+
+County
+
+affect
+
+CCOs
+
+and
+
+other
+
+organizations,
+
+and
+
+Multnomah
+
+County
+
+is
+
+affected
+
+by
+
+decisions
+
+made
+
+by
+
+other
+
+organizations.
+
+Thus,
+
+it
+
+is
+
+important
+
+that
+
+information
+
+relevant
+
+to
+
+our
+
+shared
+
+client
+
+population
+
+is
+
+shared
+
+with
+
+ample
+
+opportunity
+
+for
+
+collaboration
+
+and
+
+coordination.
+
+  It  is  the  policy  of  the  Board  that  the  Health  Department  invites  Multnomah  County  CCO
+partners
+
+CareOregon,
+
+Trillium
+
+Community
+
+Health
+
+Plan,
+
+and
+
+Health
+
+Share
+
+of
+
+Oregon,
+
+for
+
+a
+
+board
+
+briefing
+
+in
+
+FY
+
+2026.
+
+A
+
+primary
+
+goal
+
+for
+
+this
+
+briefing
+
+will
+
+be
+
+to
+
+discuss
+
+and
+
+consider
+
+the
+
+ways
+
+Multnomah
+
+County
+
+and
+
+CCOs
+
+collaborate
+
+to
+
+maintain
+
+and
+
+expand
+
+service
+
+delivery,
+
+with
+
+a
+
+focus
+
+on
+
+strengthening
+
+collaboration
+
+and
+
+addressing
+
+challenges
+
+and
+
+barriers
+
+to
+
+partnership.
+
+Briefing
+
+topics
+
+should
+
+include:
+
+  ●  Outline  the  scope  of  behavioral  health  services  funded  and  provided  by  each
+CCO;
+
+●  Identify  issues  related  to  network  adequacy,  reimbursement  rates,  workforce,  and
+other
+
+challenges,
+
+and
+
+CCO
+
+strategies
+
+for
+
+addressing
+
+these
+
+issues;
+
+●  Update  on  CCO  plans  to  expand  behavioral  health  services  to  meet  demand;
+●  Outline  care  coordination  efforts  and  case  management  services  and  how  they
+coordinate
+
+with
+
+county
+
+services
+
+such
+
+as
+
+housing,
+
+long
+
+term
+
+care,
+
+etc.
+
+●  Outline  the  roles  of  the  Oregon  Health  Authority,  CCOs,  and  LMHA/Community
+Mental
+
+Health
+
+Program
+
+(CMHP)
+
+in
+
+the
+
+provision
+
+of
+
+behavioral
+
+health
+
+services,
+
+including
+
+how
+
+they
+
+work
+
+individually
+
+and
+
+collaboratively
+
+to
+
+meet
+
+the
+
+needs
+
+of
+
+our
+
+Medicaid
+
+population;
+
+and;
+
+●  Highlight  funding  decisions  made  at  the  federal,  state,  and  local  level  that  impact
+service
+
+delivery
+
+and
+
+network
+
+adequacy,
+
+particularly
+
+in
+
+behavioral
+
+health
+
+ FY  2026  Board  ADOPTED  Budget  Notes  Page  4
+Multnomah  County   FY  2026  Adopted  Board  Budget  Notes     ●  Discuss  the  ways  Multnomah  County  and  CCOs  collaborate  to  maintain  and
+expand
+
+service
+
+delivery,
+
+including
+
+opportunities
+
+and
+
+challenges
+
+to
+
+broadening
+
+and
+
+deepening
+
+collaboration.
+
+  Budget  Note  #6  Commissioner  Meghan  Moyer   Span  of  Control  The  ratio  of  management-to-staff  is  often  guided  by  the  principle  of  "span  of  control."
+Best
+
+practice
+
+generally
+
+suggests
+
+a
+
+1:5
+
+to
+
+1:10
+
+ratio
+
+of
+
+managers
+
+to
+
+staff,
+
+with
+
+each
+
+manager
+
+leading
+
+approximately
+
+5-10
+
+direct
+
+reports.
+
+However,
+
+the
+
+ideal
+
+ratio
+
+can
+
+vary
+
+based
+
+on
+
+the
+
+nature
+
+of
+
+the
+
+work,
+
+the
+
+experience
+
+of
+
+employees
+
+and
+
+managers,
+
+and
+
+the
+
+level
+
+of
+
+interaction
+
+between
+
+them.
+
+That
+
+being
+
+said,
+
+on
+
+an
+
+organizational
+
+level
+
+it
+
+is
+
+important
+
+to
+
+maintain
+
+a
+
+management-to-staff
+
+ratio
+
+in
+
+line
+
+with
+
+our
+
+objective
+
+of
+
+maximizing
+
+the
+
+number
+
+of
+
+employees
+
+whose
+
+primary
+
+responsibilities
+
+are
+
+delivering
+
+direct
+
+services
+
+to
+
+the
+
+community.
+
+  It  is  vital  that  Multnomah  County  maintains  the  ability  to  deliver  high-quality  services  in  a
+leaner
+
+environment.
+
+An
+
+important
+
+step
+
+toward
+
+this
+
+leaner
+
+operating
+
+model
+
+is
+
+an
+
+evaluation
+
+of
+
+the
+
+span
+
+of
+
+control
+
+and
+
+a
+
+tighter
+
+adherence
+
+to
+
+maximizing
+
+the
+
+number
+
+of
+
+frontline
+
+employees
+
+while
+
+learning
+
+to
+
+manage
+
+that
+
+work
+
+in
+
+a
+
+more
+
+efficient
+
+management
+
+structure.
+
+  This  budget  note  states  the  Board’s  expectation  that  policy  compliance  will  be
+demonstrated
+
+by
+
+January
+
+2026
+
+in
+
+the
+
+following
+
+manner:
+
+  A  written  report  will  be  provided  to  the  Board  of  Commissioners  on   achieving  an
+average
+
+management-to-staff
+
+ratio
+
+of
+
+1:7
+
+or
+
+greater.
+
+The
+
+report
+
+should
+
+include
+
+organizational
+
+charts
+
+and
+
+an
+
+implementation
+
+strategy.
+
+ FY  2026  Board  ADOPTED  Budget  Notes  Page  5
+Multnomah  County   FY  2026  Adopted  Board  Budget  Notes     Budget  Note  #7  Commissioner  Meghan  Moyer  Co-sponsored  by  Commissioner  Julia  Brim-Edwards   Americans  with  Disability  Act  (ADA)  Ramps  It  is  the  policy  of  the  Board  that  sustainable  sources  of  funding  be  identified  that  are
+sufficient
+
+to
+
+complete
+
+the
+
+County's
+
+ADA
+
+Transition
+
+Plan
+
+("the
+
+Plan")
+
+within
+
+a
+
+period
+
+of
+
+ten
+
+years.
+
+  The  Board  requests  a  report  and  Board  Briefing  by  January  2,  2026  on:   ●  The  implementation  status  of  the  Plan  and  schedule  for  completion;  ●  Options  to  sufficiently  fund  implementation  of  the  Plan,  including  but  not  limited  to
+bonding
+
+against
+
+General
+
+Fund
+
+revenues;
+ ●  Feedback  received  from  previous  outreach  and  engagement;  ●  Plans  for  continued  public  outreach  and  engagement;  ●  Connections  to  the  County's  long-term  capital  plan  and  asset  management
+strategy.
+     Budget  Note  #8  Commissioner  Julia  Brim-Edwards   Animal  Services  Fee  Study  Multnomah  County  Animal  Services  (MCAS)  collects  a  number  of  fees,  including  pet
+and
+
+facility
+
+licensing
+
+fees
+
+and
+
+boarding
+
+and
+
+adoption
+
+fees.
+
+MCAS
+
+has
+
+not
+
+increased
+
+any
+
+fees
+
+since
+
+2019
+
+after
+
+analysis
+
+of
+
+neighboring
+
+counties.
+  This  budget  note  requests  the  Chair  direct  the  Department  of  Community  Services
+(DCS),
+
+of
+
+which
+
+MCAS
+
+is
+
+a
+
+division
+
+of,
+
+to
+
+conduct
+
+an
+
+Animal
+
+Services
+
+fees
+
+assessment
+
+study
+
+work
+
+plan
+
+distributed
+
+to
+
+the
+
+Board
+
+of
+
+County
+
+Commissioners
+
+(Board
+
+of
+
+County
+
+Commissioners)
+
+by
+
+July
+
+30,
+
+2025
+
+and
+
+provide
+
+a
+
+comprehensive
+
+Animal
+
+Services
+
+fee
+
+assessment
+
+with
+
+recommendations
+
+distributed
+
+to
+
+the
+
+Board
+
+of
+
+County
+
+Commissioners
+
+by
+
+September
+
+30,
+
+2025.
+    FY  2026  Board  ADOPTED  Budget  Notes  Page  6
+Multnomah  County   FY  2026  Adopted  Board  Budget  Notes     Budget  Note  #9  Commissioner  Vince  Jones-Dixon   Service  Connection  Technology   It  is  the  policy  of  the  Board  to  develop  a  plan  for  Board  funding  consideration  in  FY  2027
+to
+
+support
+
+the
+
+technology
+
+upgrades
+
+and
+
+implementation
+
+of
+
+the
+
+application
+
+that
+
+connects
+
+juveniles
+
+in,
+
+or
+
+transitioning
+
+out
+
+of,
+
+the
+
+juvenile
+
+justice
+
+system
+
+with
+
+services.
+
+This
+
+application
+
+will
+
+support
+
+improved
+
+participation
+
+for
+
+youth
+
+and
+
+families
+
+in
+
+treatment
+
+and
+
+wraparound
+
+service
+
+referrals
+
+and
+
+mutual
+
+accountability.
+
+The
+
+Board
+
+requests
+
+that
+
+the
+
+Chair
+
+direct
+
+DCA
+
+and
+
+DCJ
+
+to
+
+submit
+
+an
+
+implementation
+
+plan
+
+to
+
+the
+
+Board
+
+by
+
+October
+
+30,
+
+2025.
+   Budget  Note  #10  Commissioner  Julia  Brim-Edwards  Co-sponsor  Commissioner  Shannon  Singleton   Countywide  Fee  Assessment  This  budget  note  requests  the  Chair  to  direct  the  Chief  Operating  Officer’s  Office  to
+conduct
+
+a
+
+comprehensive,
+
+countywide
+
+fee
+
+assessment
+
+and
+
+by
+
+February
+
+1,
+
+2026,
+
+provide
+
+a
+
+report
+
+to
+
+the
+
+Commission
+
+that
+
+considers
+
+impacts
+
+payers,
+
+consistency
+
+across
+
+similar
+
+fees
+
+and
+
+recommendations
+
+on
+
+appropriate
+
+levels
+
+of
+
+cost
+
+recovery
+
+and
+
+fee
+
+waivers.
+    Budget  Note  #11  Commissioner  Vince  Jones-Dixon  Co-sponsored  by  Julia  Brim-Edwards    Youth  Violence  Prevention  Request  the  Chair  to  direct  the  office  of  the  Chief  Operating  Officer  to  oversee  a
+third-party
+
+study
+
+around
+
+best
+
+practices
+
+in
+
+youth
+
+violence
+
+prevention
+
+in
+
+Multnomah
+
+County.
+
+The
+
+study
+
+should
+
+explore
+
+and
+
+report
+
+the
+
+characteristics
+
+of
+
+local
+
+collaboration
+
+models
+
+that
+
+drive
+
+successful
+
+youth
+
+empowerment
+
+and
+
+public
+
+safety
+
+outcomes.
+
+The
+
+study
+
+effort
+
+should
+
+also
+
+conduct
+
+a
+
+scan
+
+of
+
+the
+
+Multnomah
+
+County
+
+youth
+
+violence
+
+ FY  2026  Board  ADOPTED  Budget  Notes  Page  7
+Multnomah  County   FY  2026  Adopted  Board  Budget  Notes     prevention  landscape  and  identify  a  menu  of  opportunities  to  improve  efficiency  and
+effectiveness
+
+in
+
+regional
+
+collaboration,
+
+presented
+
+in
+
+the
+
+format
+
+of
+
+an
+
+Action
+
+Plan.
+
+Finally
+
+the
+
+study
+
+should
+
+explore
+
+and
+
+provide
+
+recommendations
+
+for
+
+technology
+
+solutions
+
+that
+
+allow
+
+for
+
+seamless
+
+collaboration
+
+and
+
+data
+
+sharing
+
+across
+
+sectors
+
+and
+
+government
+
+agencies
+
+to
+
+improve
+
+service
+
+to
+
+youth
+
+and
+
+families
+.
+    Budget  Note  #12  Commissioner  Shannon  Singleton   Grant  Writing  and  DCA  Procurement  Staffing  Reductions  Assessment  The  Board  requests  that  the  Chair  provide  a  report  back  to  the  board  by  December  31,
+2025,
+
+regarding
+
+the
+
+implementation
+
+and
+
+impacts
+
+to
+
+other
+
+departments,
+
+including
+
+any
+
+additional
+
+costs
+
+and
+
+staffing
+
+needs,
+
+from
+
+the
+
+reductions
+
+of
+
+2.00
+
+FTE
+
+in
+
+contracting/procurement
+
+in
+
+Program
+
+78105
+
+and
+
+1.00
+
+FTE
+
+Senior
+
+Grants
+
+position
+
+in
+
+the
+
+Government
+
+Relations
+
+Office
+
+in
+
+Program
+
+10016.
+    Budget  Note  #13  Commissioner  Shannon  Singleton   Manager  Evaluations  The  Board  of  County  Commissioners  requests  that  the  Chair  direct  the  Central  Human
+Resources
+
+Office
+
+and
+
+Department
+
+of
+
+County
+
+Management
+
+to
+
+report
+
+back
+
+to
+
+the
+
+board
+
+by
+
+February
+
+28,
+
+2026
+
+with
+
+an
+
+assessment
+
+of
+
+manager
+
+evaluations
+
+and
+
+how
+
+to
+
+move
+
+to
+
+a
+
+360
+
+evaluation
+
+process
+
+in
+
+FY
+
+2027.
+
+Examples
+
+of
+
+feedback
+
+to
+
+be
+
+included
+
+are
+
+reviews
+
+from
+
+all
+
+of
+
+the
+
+manager’s
+
+direct
+
+reports,
+
+their
+
+manager,
+
+program
+
+partners
+
+and/or
+
+clients
+
+being
+
+served
+
+by
+
+the
+
+program
+
+they
+
+oversee.
+
+The
+
+manager
+
+under
+
+review
+
+will
+
+not
+
+choose
+
+those
+
+conducting
+
+their
+
+review.
+
+ FY  2026  Board  ADOPTED  Budget  Notes  Page  8
+Multnomah  County   FY  2026  Adopted  Board  Budget  Notes     Budget  Note  #14  Commissioner  Shannon  Singleton   Adult  Addictions  Treatment  Continuum  Budget  Note  Program  (40085)  The  Board  requests  that  the  Chair  direct  the  Adult  Addictions  Treatment  Continuum  and
+Homeless
+
+Services
+
+Department
+
+staff
+
+to
+
+provide
+
+recommendations
+
+to:
+ 1.  Increase  referral  access  for  homeless  service  providers  to  addictions  treatment
+programs,
+
+regardless
+
+of
+
+the
+
+provider's
+
+ability
+
+to
+
+diagnose
+
+clients.
+ 2.  Align  publicly  funded  resources  to  provide  a  pathway  for  people  from
+detox/sobering
+
+to:
+ a.  clean  and  sober  shelter  and  outpatient  treatment  b.  transitional  recovery  treatment  programs  /  inpatient  treatment  c.  Permanent  housing  with  supports  for  recovery  either  through  PSH  in
+home
+
+services
+
+or
+
+outpatient
+
+treatment
+ 3.  Collect  housing  and  homelessness  data  and  enter  data  into  HMIS  for  those
+experiencing
+
+homelessness.
+
+Data
+
+to
+
+include
+ a.  Required  HMIS  data  elements,  as  determined  by  the  HSD   b.  Housing  outcomes,  as  determined  in  partnership  with  HSD,  to  include  but
+not
+
+be
+
+limited
+
+to:
+ i.  Number  and  %  of  people  exiting  transitional  recovery  treatment  to
+permanent
+
+housing
+ ii.  Number  and  %  of  retention  (stably  housed)  1.  6  months  post  subsidy  2.  12  month  post  subsidy   The  Board  further  requests  this  assessment  to  be  presented  to  the  board  by  May  1,
+2026.
+
+The
+
+Board
+
+expects
+
+that
+
+this
+
+assessment
+
+will
+
+be
+
+heavily
+
+influenced
+
+by
+
+front
+
+line
+
+providers,
+
+those
+
+with
+
+lived
+
+experience,
+
+and
+
+current
+
+consumers
+
+of
+
+services.
+
+ FY  2026  Board  ADOPTED  Budget  Notes  Page  9
+Multnomah  County   FY  2026  Adopted  Board  Budget  Notes     Budget  Note  #15  Commissioner  Shannon  Singleton   Consistency  of  Data  for  Homelessness  Work  The  County  funds  day  centers,  emergency  shelters,  outreach,  eviction  prevention,  rapid
+rehousing,
+
+and
+
+permanent
+
+supportive
+
+housing
+
+across
+
+multiple
+
+departments.
+
+Some
+
+of
+
+this
+
+work
+
+is
+
+done
+
+in-house,
+
+some
+
+is
+
+contracted
+
+to
+
+community
+
+based
+
+organizations.
+
+Currently,
+
+these
+
+programs
+
+do
+
+not
+
+all
+
+measure
+
+the
+
+same
+
+outcomes
+
+(client
+
+and
+
+process
+
+based)
+
+making
+
+it
+
+impossible
+
+to
+
+conduct
+
+assessments
+
+on
+
+the
+
+effectiveness
+
+of
+
+these
+
+investments,
+
+learn
+
+and
+
+share
+
+promising,
+
+emerging,
+
+or
+
+best
+
+practices
+
+that
+
+may
+
+result
+
+from
+
+the
+
+most
+
+effective
+
+programs,
+
+or
+
+aggregate
+
+data
+
+across
+
+the
+
+County
+
+enterprise.
+  By  December  31,  2025,  it  is  requested  that  the  Chair  direct  the  Chief  Operating  Officer,
+in
+
+coordination
+
+with
+
+the
+
+Health
+
+Department,
+
+Department
+
+of
+
+County
+
+Human
+
+Services,
+
+Homeless
+
+Services
+
+Department,
+
+Department
+
+of
+
+Community
+
+Justice,
+
+and
+
+the
+
+Sheriff's
+
+Office,
+
+to
+
+provide
+
+an
+
+update
+
+to
+
+the
+
+board
+
+on
+
+the
+
+data
+
+elements
+
+that
+
+can
+
+be
+
+collected
+
+across
+
+the
+
+enterprise.
+
+Examples
+
+of
+
+data
+
+that
+
+will
+
+be
+
+included,
+
+at
+
+a
+
+minimum:
+ ●  Basic  HMIS  data  elements  needed  for  the  By-Name-List  as  identified  by  the
+Homeless
+
+Services
+
+Department
+
+will
+
+be
+
+collected
+
+at
+
+all
+
+types
+
+of
+
+programs
+
+listed
+
+in
+
+paragraph
+
+1.
+1
+ ●  For  programs  where  people  move  into  permanent  housing  or  receive  eviction
+prevention,
+
+and
+
+transitional
+
+recovery
+
+programs:
+ ○  Retention  rates  at  6,  12,  and  24  months  months  (measured  post  subsidy
+for
+
+rapid
+
+rehousing
+
+programs)
+ ●  For  shelter  programs:  ○  Positive  exits  as  defined  by  the  HSD  in  consultation  with  the  County  SOC
+representatives
+ ●  For  outreach  programs  ○  Positive  exits  as  defined  by  the  HSD  in  consultation  with  the  County  SOC
+representatives
+ ●  For  day  centers  ○  Number  of  unduplicated  participants  served,  as  defined  by  HSD  in
+consultation
+
+with
+
+the
+
+County
+
+SOC
+
+representatives
+
+1
+ Not  all  programs  have  intakes  as  a  part  of  the  ability  to  access  that  program.  For  those  circumstances,
+the
+
+needed
+
+basic
+
+data
+
+elements
+
+for
+
+By-Name-List
+
+will
+
+be
+
+collected
+
+when
+
+client/worker
+
+relationship
+
+allows
+
+it
+
+to
+
+be
+
+done
+
+through
+
+a
+
+trauma
+
+informed
+
+lens.
+  FY  2026  Board  ADOPTED  Budget  Notes  Page  10
+Multnomah  County   FY  2026  Adopted  Board  Budget  Notes     Programs  may  collect  other  data  specific  to  their  model  and  those  data  elements  will  be
+included
+
+in
+
+the
+
+presentation
+
+but
+
+the
+
+focus
+
+of
+
+this
+
+budget
+
+note
+
+is
+
+to
+
+get
+
+alignment
+
+on
+
+some
+
+basic/core
+
+data
+
+elements
+
+that
+
+we
+
+need
+
+to
+
+be
+
+able
+
+to
+
+see
+
+the
+
+full
+
+impact
+
+of
+
+ending
+
+homelessness
+
+work
+
+across
+
+the
+
+County
+
+enterprise,
+
+regardless
+
+of
+
+department
+
+or
+
+funding
+
+source.
+    Budget  Note  #17  Chair  Vega  Pederson   Multnomah  County  Sheriff’s  Office  Human  Resources   This  budget  note  requests  that  the  Sheriff  provide  an  update  on  recruitment,  retention
+and
+
+overall
+
+staffing
+
+in
+
+the
+
+Sheriff’s
+
+Office,
+
+including
+
+any
+
+ongoing
+
+impacts
+
+on
+
+MCSO’s
+
+work
+
+due
+
+to
+
+persistent
+
+vacancies
+
+by
+
+the
+
+end
+
+of
+
+February
+
+2026.
+
+    Budget  Note  #18  Chair  Vega  Pederson  Co-sponsored  Commissioner  Julia  Brim-Edwards   Capital  Projects  Plan   As  a  part  of  efforts  to  improve  the  technical  effectiveness  and  equity  approaches  for  the
+County’s
+
+capital
+
+infrastructure
+
+investments
+
+–
+
+building
+
+on
+
+input
+
+provided
+
+by
+
+the
+
+Board
+
+of
+
+Commissioners
+
+throughout
+
+2025
+
+–
+
+this
+
+budget
+
+note
+
+requests
+
+that
+
+the
+
+Chair
+
+provide
+
+a
+
+FY
+
+2027
+
+Capital
+
+Plan
+
+that:
+
+ ●  Tracks  all  capital  projects  together  (defined  as  IT  projects  equal  or  greater  than
+$500,000,
+
+and
+
+Transportation/Facilities
+
+projects
+
+equal
+
+or
+
+greater
+
+to
+
+$1,000,000)
+ ●  Highlights  the  equity  impacts  of  proposed  projects   ●  Demonstrates  and  refining  as  needed,  the  project  prioritization  process   ●  Works  across  all  proposed  projects  to  better  identify  and  propose  possible
+external
+
+funding
+
+sources.
+
+ ●  Identifies  where  the  Board  responsibilities  and  engagement  will  take  place.    The  Board  further  requests  a  presentation  of  the  Capital  Plan  by  February  28,  2026.    FY  2026  Board  ADOPTED  Budget  Notes  Page  11
+Multnomah  County   FY  2026  Adopted  Board  Budget  Notes     Budget  Note  #19  Chair  Vega  Pederson   School  Based  Mental  Health  Quality  Improvement  Strategy  This  budget  note  requests  the  Chair  support  the  following  transmittals  and  briefings  in
+FY
+
+2026:
+
+ ●  By  end  of  July  2025,  transmit  a  plan  to  the  Board  of  County  Commissioners  for
+where
+
+mental
+
+health
+
+consultants
+
+will
+
+be
+
+placed
+
+based
+
+on
+
+the
+
+department’s
+
+local
+
+health
+
+and
+
+risk
+
+data,
+
+student
+
+health
+
+surveys,
+
+current
+
+SBMH
+
+encounter
+
+data,
+
+District
+
+contracts
+
+and
+
+information
+
+from
+
+other
+
+school-based
+
+services
+
+(i.e.
+
+Student
+
+Health
+
+Centers
+
+and
+
+SUN
+
+Schools)
+
+in
+
+order
+
+to
+
+minimize
+
+disruption
+
+of
+
+services.
+
+●  By  end  of  August  2025,  transmit  a  plan  to  the  Board  of  County  Commissioners
+for
+
+a
+
+financially-sustainable
+
+SBMH
+
+program
+
+model
+
+that
+
+incorporates
+
+service
+
+goals
+
+and
+
+outcomes
+
+aligned
+
+with
+
+clinical
+
+best
+
+practices,
+
+quality
+
+assurance
+
+measures
+
+to
+
+ensure
+
+that
+
+all
+
+billable
+
+codes
+
+are
+
+being
+
+utilized,
+
+and
+
+a
+
+productivity
+
+standard
+
+that
+
+aligns
+
+with
+
+expected
+
+revenue
+
+goals.
+
+●  Quarterly,  written  reports  to  the  Board  of  County  Commissioners  that  include
+qualitative
+
+and
+
+quantitative
+
+metrics
+
+on
+
+outcomes
+
+related
+
+to
+
+the
+
+impact
+
+of
+
+the
+
+program,
+
+including
+
+details
+
+on
+
+billing
+
+practices,
+
+caseload
+
+per
+
+clinician,
+
+and
+
+total
+
+youth
+
+served,
+
+disaggregated
+
+by
+
+school,
+
+race
+
+and
+
+ethnicity.
+
+●  By  the  end  of  March  2026,  brief  the  Board  of  County  Commissioners  on  initial
+outcomes
+
+from
+
+the
+
+program’s
+
+efforts
+
+to
+
+meet
+
+previously
+
+stated
+
+goals.
+
+   Budget  Note  #20  Commissioner  Julia  Brim-Edwards  Co-sponsored  by  Commissioner  Meghan  Moyer   Making  the  Multnomah  County  Building  a  More  Welcoming  and  Accessible  This  budget  note  requests  the  Chair  to  direct  the  COO’s  Office  to  develop  a  proposal
+and
+
+report
+
+with
+
+cost
+
+estimates
+
+for
+
+the
+
+Board
+
+to
+
+consider
+
+to
+
+make
+
+the
+
+front
+
+entrance
+
+and
+
+lobby
+
+of
+
+the
+
+Multnomah
+
+County
+
+Building
+
+a
+
+more
+
+welcoming
+
+and
+
+accessible
+
+space
+
+for
+
+residents
+
+and
+
+the
+
+public
+
+seeking
+
+County
+
+services.
+
+A
+
+report
+
+and
+
+cost
+
+estimate
+
+is
+  FY  2026  Board  ADOPTED  Budget  Notes  Page  12
+Multnomah  County   FY  2026  Adopted  Board  Budget  Notes     requested  to  be  provided  to  the  Board  in  writing  by  February  28,  2026,  and  it  should
+consider
+
+a
+
+reconfiguration
+
+of
+
+the
+
+first
+
+floor
+
+lobby
+
+that
+
+includes
+
+an
+
+improved
+
+reception
+
+area
+
+and
+
+incorporates
+
+accessible
+
+design
+
+best
+
+practices,
+
+as
+
+well
+
+as
+
+a
+
+non-uniformed
+
+staffing
+
+presence
+
+to
+
+provide
+
+information
+
+referral
+
+services
+
+to
+
+the
+
+public.
+
+    Budget  Note  #21  Commissioner  Shannon  Singleton   Employment  Services  To  better  understand  the  Countywide  investment  in  employment  services  in  multiple
+departments,
+
+to
+
+better
+
+track
+
+investments
+
+and
+
+impact
+
+on
+
+accessibility
+
+and
+
+outcome
+
+for
+
+specific
+
+populations
+
+(youth,
+
+adults
+
+post-incarceration,
+
+domestic
+
+violence
+
+survivors,
+
+early
+
+childhood
+
+workers,
+
+adults
+
+in
+
+or
+
+transitioning
+
+from
+
+homelessness,
+
+and
+
+historically
+
+underserved
+
+communities)
+
+and
+
+the
+
+workforce
+
+pipeline
+
+(baseline
+
+job
+
+readiness,
+
+pre-apprenticeship,
+
+apprenticeship,
+
+journey-level,
+
+small
+
+business,
+
+and
+
+management
+
+development)
+
+this
+
+budget
+
+note
+
+states
+
+the
+
+Board’s
+
+intention
+
+to
+
+receive
+
+a
+
+report
+
+on
+
+the
+
+existing
+
+conditions
+
+of
+
+tracking
+
+measures,
+
+populations
+
+served,
+
+and
+
+connection
+
+to
+
+the
+
+level
+
+of
+
+the
+
+workforce
+
+pipeline
+
+by
+
+November
+
+1,
+
+2025.
+
+  This  information  will  be  used  in  tandem  with  the  work  of  the  Commissioner  Singleton
+and
+
+Commissioner
+
+Jones-Dixon
+
+workforce
+
+table
+
+to
+
+provide
+
+a
+
+set
+
+of
+
+recommendations
+
+for
+
+future
+
+investment
+
+plan
+
+and
+
+strategy
+
+in
+
+employment
+
+services
+
+throughout
+
+the
+
+County
+
+in
+
+preparation
+
+for
+
+the
+
+FY
+
+budget.
+
+ FY  2026  Board  ADOPTED  Budget  Notes  Page  13
+Multnomah  County   FY  2026  Adopted  Board  Budget  Notes     Budget  Note  #22  Commissioner  Julia  Brim-Edwards  Co-sponsored  Chair  Vega  Pederson  Co-sponsored  Meghan  Moyer   Lone  Fir  Cemetery  Memorial  Project  It  is  a  priority  of  the  Board  to  directly  commit  funding  to  the  Lone  Fir  Memorial  project,
+as
+
+well
+
+as
+
+to
+
+acknowledge
+
+the
+
+historical
+
+injustices
+
+as
+
+a
+
+result
+
+of
+
+Multnomah
+
+County's
+
+historical
+
+actions
+
+and
+
+issue
+
+a
+
+formal
+
+apology
+
+on
+
+June
+
+26,
+
+2025
+
+to
+
+the
+
+Chinese
+
+American
+
+Community.
+  In  FY  2026,  the  Board  allocated  $1.0  million  dollars  to  elevate  and  prioritize  the  healing
+of
+
+historical
+
+injustices
+
+to
+
+the
+
+Chinese
+
+American
+
+community
+
+that
+
+began
+
+with
+
+the
+
+County's
+
+administration
+
+of
+
+Lone
+
+Fir
+
+Cemetery's
+
+Block
+
+14
+
+and
+
+the
+
+many
+
+Chinese
+
+Americans
+
+buried
+
+there.
+  The  Board  will  closely  monitor  construction  efforts  of  this  project  over  the  next  year,  and
+intends
+
+to
+
+prioritize
+
+available
+
+funds
+
+in
+
+the
+
+next
+
+budget
+
+cycle
+
+to
+
+support
+
+the
+
+completion
+
+of
+
+the
+
+historical
+
+altar,
+
+including
+
+a
+
+gathering
+
+space,
+
+seating,
+
+interpretive
+
+elements,
+
+and
+
+a
+
+new
+
+stone
+
+altar
+
+marking
+
+the
+
+location
+
+of
+
+the
+
+historic
+
+altar
+
+—
+
+all
+
+essential
+
+to
+
+enabling
+
+traditional
+
+rituals
+
+and
+
+community
+
+reflection.
+  This  will  provide  an  enduring  record  of  the  County's  memorialization  and  public  apology
+that
+
+helps
+
+to
+
+heal
+
+these
+
+harms
+
+for
+
+today
+
+and
+
+future
+
+generations.
+
+ FY  2026  Board  ADOPTED  Budget  Notes  Page  14
+ATTACHMENT D
+Adopted June 12, 2025
+The Board makes the following response to the recommendation made by the Tax Supervising and
+Conservation Commission (TSCC) which is contained in the letter from the TSCC Hearing on June 4, 2025
+certifying the FY 2026 County budget.
+RECOMMENDATION: On review of Multnomah County’s FY 2023-24 audit, the TSCC found that the
+district had expenditures or fund transfers that exceed appropriation limits in the Facilities Management
+Fund. We have noticed that over expenditures are a recurring challenge with three occurrences in the
+last five years. County staff have been very responsive to our inquiries in this area and have responded
+with a written letter outlining a comprehensive list of corrective actions. We encourage the district to
+implement these enhanced policies to mitigate these issues going forward in order to avoid violation of
+Oregon Local Budget Law.
+RESPONSE: SEE ATTACHED MEMO

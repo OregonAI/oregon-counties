@@ -1,0 +1,372 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-502
+title: '502'
+doc_type: policy
+citation: '502'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/502.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8774da47bfad91164af76f2651bf1b4193520ab08a6b594a1644c41f6983b27d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.010
+    - ORS 860.010
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 502 (502)
+
+## At a glance
+
+502 — policies of Marion County. 10 pages.
+
+## Full text
+
+502. 1
+ADMINISTRATIVE POLICIES
+SECTION: Healthy, Safety and Security POLICY #: 502
+TITLE: Driving on County Business PROCEDURE #: 502-A
+ORDER #: 22-028
+DEPT: Business Services DIVISION: Risk Management
+ADOPTED: 1/86 REVIEWED 03/22 REVISED: 03/22
+PURPOSE: The purpose of this policy is to maximize the safety of drivers, passengers
+and the public when vehicles are driven on county business.
+AUTHORITY: The Marion County Board of Commissioners may establish rules and
+regulations in reference to managing the interest and business of the county
+under ORS 203.010, 203.035, 203.111, and 203.230.
+APPLICABILITY: This policy applies to all county elected officials, employees, and
+volunteers who drive county owned or personal vehicles on county
+business.
+Should any provisions of this policy conflict with the vehicle operations
+standards for sworn law enforcement employees of the Marion County
+Sheriff’s Office, then the provisions of the Sheriff’s policies and
+procedures shall prevail.
+GENERAL POLICY: It is the policy of Marion County that any person who drives a vehicle while
+performing county business is qualified to drive under Oregon motor vehicle
+laws and have a demonstrated ability to operate a motor vehicle in a safe and
+responsible manner.
+Employees and volunteers are encouraged when practical, to consider
+alternatives to driving, such as carpooling, and phone or video conferencing.
+Drivers are also encouraged, when practical to use a fleet vehicle that provides
+the best fuel economy.
+This policy applies to the operation of motor vehicles and is not intended to
+cover the operation of off-road equipment or machinery that does not require a
+driver license to operate.
+
+502. 2
+DEFINITIONS:
+
+1.  Acceptable Driving Record - An individual’s driving history that is within the
+acceptable range of points as listed in Appendix A
+2.  County vehicle - A vehicle that is owned or leased by Marion County.
+3.  Discretionary driver - An employee or volunteer whose job does not include driving  as
+an essential job function, but chooses to drive on county business.
+4.  Driving on county business - Driving in a county or personal vehicle for any county
+sanctioned task performed within the scope of a driver’s assigned duties, including, brief
+errands.
+5.  Personal vehicle - A vehicle not owned, leased, or maintained by Marion County.
+6.  Qualified driver- An employee or volunteer who meets the requirements to drive on
+Marion County Business according to this policy .
+7.  Required driver- An employee or volunteer whose job includes driving as an essential
+job function.
+8.  Volunteer- Any person who donates approved service to Marion County without pay or
+reimbursement from Marion County other than approved incidental expenses or stipend
+for services rendered.
+POLICY GUIDELINES:
+1.  RESPONSIBILITIES
+1.1.  Department heads and elected officials are responsible for enforcing this policy and
+ensure that all operators of vehicles in their respective department have fulfilled the
+requirements of this policy.
+1.2.  Supervisors and managers will ensure that anyone who operates a vehicle on
+county business is notified of the requirements contained in this policy and
+corresponding procedures.
+1.3.  Marion County Risk Management is responsible for monitoring driving records of
+individuals who drive for county business.
+1.4.  Marion County Risk Management provides  training resources for safe driving.
+1.5.  Drivers must comply with all applicable laws, parking regulations, and county
+policies and procedures.
+1.6.  A driver whose license has been suspended, revoked, or any other change that affects
+the person’s driving status must immediately notify their supervisor.
+1.7.  Drivers are held responsible for all traffic citations, parking tickets, or fines incurred
+while driving on county business.
+
+502. 3
+2.  SAFETY
+2.1.  Oregon law requires all motor vehicle operators and passengers be properly
+secured with a safety belt or safety harness, child-restraining devices, or booster
+seats as required based on a child’s weight, height, and age.
+2.2.  Consumption of alcoholic beverages or a controlled substance while operating a
+motor vehicle on county business is prohibited.
+2.3.  Drivers may not operate a motor vehicle while using medication that may impair
+their ability to safely operate a motor vehicle. Drivers taking such medications must
+notify their supervisors.
+2.4.  Making or receiving phone calls, sending, or receiving text messages, email or other
+similar activities are prohibited while operating a motor vehicle. This prohibition
+does not apply to operators of Marion County Sheriff’s Office patrol vehicles that
+are equipped with mobile data systems. Marion County Sheriff’s Office policy will
+apply.
+2.5.  Marion County discourages making or receiving phone calls when on a hands-free
+device, except in an emergency situation.
+2.6.  Marion County owned or leased vehicles will not be relinquished to a non-county
+driver except in the case of an emergency.
+2.7.  When exiting a vehicle, drivers are required to turn off the engine, remove the key
+and lock the vehicle.
+3.  QUALIFICATIONS FOR DRIVING ON COUNTY BUSINESS
+3.1.  To be considered a qualified driver, Marion County employees, and volunteers must:
+3.1.1.  Be at least 18 years of age.
+3.1.2.  Possess a valid Oregon driver’s license.
+3.1.3.  Maintain an acceptable driving record as determined using the weighted
+point system in Appendix A.
+• Both on and off-the-job traffic infractions are used in determining a
+driver’s points.
+3.1.4.  Employees who receive an unacceptable rating, based upon their driving
+record, are not qualified drivers and are not allowed to drive on county
+business.
+3.2.  Applicants for positions that include driving as an essential function:
+3.2.1.  Be at least 18 years of age.
+3.2.2.  Possess a valid driver’s license
+3.2.3.  Possess an acceptable driving record for the past 60 months.
+• Applicants with less than 60 months driving history must have at least 24
+months driving history and 12 points or less based on the scoring system in
+Appendix A.
+• Driving records will be assessed during the background check process.
+• Applicants with an out-of-state license must provide, upon request, and at
+their own expense a certified copy of their out-of-state driving record.
+
+502. 4
+3.2.4.  Applicants found to have an invalid or unacceptable driving record will be
+removed from consideration for positions that require driving as an essential
+function.
+
+4.  COUNTY VEHICLES
+4.1.  Personal use of county vehicles is prohibited, except for incidental use as follows:
+4.1.1.  Stops for meal or restroom breaks during business
+4.1.2.  Short and infrequent stops of a personal nature that are in the route of
+travel for county business and are accomplished during a normal break.
+4.2.  The use of a county vehicle is prohibited in all instances where it could reasonably
+expose the county to the public perception of misuse or abuse of driving privileges.
+Such uses include but are not limited to stops at a liquor store, a bar or tavern,
+marijuana retailer, an adult bookstore, or a gambling establishment, unless the stop
+is required as part of the job assignment.
+4.3.  County vehicles are not allowed to be taken home overnight unless it is a job
+requirement.
+4.4.  Drivers are prohibited from modifying or altering county vehicles.  County
+vehicles will not be modified for non-county business purposes.
+4.4.1.  Marion County will not install Ignition Interlocking Devices (IID) on its vehicles
+or sign an Employer Ignition Interlock Device Exemption form.  Therefore, for
+purposes of this policy, should any operator who is required to drive a Marion
+County vehicle receive a work permit or hardship license with an IID
+requirement, it shall be deemed invalid for the purposes of driving on Marion
+County business.
+5.  PERSONAL VEHICLES
+5.1.  Use of personal vehicles to conduct county business is permitted when authorized by
+a department head, elected official, or their designee. Departments must establish a
+process using Attachment A in Procedure 502-A to document that the authorization
+has been granted and that automobile liability insurance is in place to cover the
+vehicle.
+5.2.  A personal vehicle used for county business must be a mechanically safe
+conventional four-wheel, motor vehicle that is licensed to operate on public
+roadways. Vehicle equipment must conform to Oregon requirements.
+5.3.  Oregon law (ORS 860.010) requires all vehicle owners to carry valid and current
+automobile insurance on their vehicles. Use of personal vehicles for official county
+business in violation of the mandatory automobile insurance laws is considered a
+deliberate and willful disregard for statutory requirements. The Oregon Tort Claims
+Act allows the county to exclude coverage in such cases.
+5.4.  The employee’s personal vehicle insurance is primary with respect to bodily injury
+and property damage when driving a personal vehicle. The county defends and
+investigates all claims or actions against the county, its employees or individuals
+driving on county business, unless the claim arises out of an alleged act or omission
+
+502. 5
+occurring in the performance of county duties because of malfeasance in office,
+willful or deliberate neglect of duty and when all applicable underlying coverages
+have been exhausted by payment or settlement of judgments. The county’s self-
+insurance applies only as excess to statutory limits for bodily injury and property
+damage, or the aggregate of all the other applicable insurance limits, whichever is
+greater.
+5.5.  Mileage reimbursement for use of personal vehicles is considered full payment
+(including depreciation, insurance, maintenance, and operating costs) for its use.
+Mileage reimbursement rates are established by the Marion County Finance
+Department and are based on the Internal Revenue Service (IRS) reimbursement
+rate.
+6.  ASSIGMENT OF VEHICLES
+6.1.  Department heads, elected officials or their designee may assign county vehicles to
+designated employees only to conduct county business, and to maintain the ability to
+respond to county business outside the normal work hours when special equipment or
+tools are available in or on the vehicle. Use of county vehicles to commute to and
+from work, except as stated above, is prohibited. County vehicles may not be
+assigned to drivers who are not county employees.
+6.2.  County employees who are assigned a county vehicle may use the vehicle with
+prior approval of their supervisor during regular duty hours for medical
+appointments and meals when the employee is on call and may need to leave an
+appointment or meal to respond to a work assignment.
+6.3.  County employees may not lend county vehicles to other persons, and county
+employees may not carry passengers except on county business.
+6.4.  Vehicle assignments may be withdrawn at any time for any reason, including
+but not limited to the following:
+6.4.1.  Violation of this policy
+6.4.2.  Failure to meet the driver qualifications
+6.4.3.  Operating county vehicle in violation of the law
+6.4.4.  Conduct in connection with use of the county vehicle that is not in the best
+interest of Marion County, or
+6.4.5.  Use of county vehicle no longer benefits Marion County.
+6.5.  County departments must prepare a written annual report identifying which employees
+are authorized to use county vehicles for commuting. This report must be submitted to
+the payroll supervisor in the Finance Department on or before July 1st of each year.
+Employees who are authorized to use county owned vehicles for commuting may be
+responsible for paying income tax on the personal use of the vehicle.
+
+502. 6
+
+7.  OUT OF STATE TRAVEL
+7.1.  Using a county vehicle for out-of-state travel is prohibited except in the following
+situations with prior approval by Marion County’s Risk Manager:
+7.1.1.  Patrol cars engaged in a pursuit (prior notification not required)
+7.1.2.  Marked vehicles attending a ceremonial event
+7.1.3.  Vehicles used for the transfer of persons in custody
+7.1.4.  Road maintenance equipment as part of a mutual aid agreement
+7.1.5.  When specialized repair or maintenance is required at an out-of-state location, or
+7.1.6.  Distance traveled out of state is less than 100 miles one way and does not
+involve an overnight stay.
+
+8.  RIDE-A-LONG PROGRAM
+Subject to prior authorization from a department head, elected official or their designee; Ride-A-
+Long or job shadowing programs involve non-employees accompanying an employee in a county
+or personal vehicle while the employee conducts county business. Non-employees may include
+family members as well as members of the public.
+
+9.  PASSENGERS
+Only authorized passengers are allowed to ride in county vehicles. Authorized passengers are:
+9.1.  County employees conducting county business
+9.2.  Officers and agents representing the county
+9.3.  Volunteers acting on behalf of the county
+9.4.  Vendors and contractors working on behalf of the county
+9.5.  Participants or clients in county business and programs
+9.6.  Representatives of other governmental agencies working with the county
+9.7.  Anyone with prior specific authorization by the appropriate department head,
+elected Official or designee
+9.8.  Ride-A-Long participants who have completed the required ride-along application.
+
+502. 7
+10.  ANIMALS
+Transportation of animals is prohibited except for the following:
+10.1.  Live animals are permitted to be transported in sheriff’s office vehicles as
+necessary during the conduct of business.
+10.2.  Animals are permitted to be transported in animal control vehicles in
+specialized containment structures.
+10.3.  Deceased animals are permitted to be transported in vans, trucks, and trailers for the
+purpose of disposal of animal remains consistent with established county standards.
+10.4.  Service dogs are permitted as part of an approved accommodation under the
+Americans with Disabilities Act.
+11.  VIOLATION OF POLICY
+Violating the driving policy or misconduct involving the use of a motor vehicle may be grounds
+for disciplinary action up to and including termination.
+
+12.  PERIODIC REVIEW
+Marion County Business Services will review and update this policy and corresponding
+procedures every three years or more frequently if necessary.
+
+ATTACHMENTS
+
+Appendix A: Driver Qualification Point System
+
+Adopted:  1/86
+
+Revised: 1/96
+
+502. 8
+
+502. 9
+
+Appendix A
+
+Driver Qualification Point System
+
+TYPE OF OFFENSE  POINTS
+Felony or Misdemeanor
+Convictions within previous 60 months  35
+Diversion Agreement
+Within previous 60 months  of the  ending date  of the diversion agreement  30
+License Suspension or Revocation
+Within previous 60 months  of the  ending date  of the suspension or revocation  15
+Class "A" Conviction
+Convictions within previous 36 months  of date of conviction  20
+Convictions within previous 36 -60 months  of date of conviction  15
+Class "B" Conviction
+Convictions within previous 12 months  of date of conviction  12
+Convictions within previous 12 -36 months  of date of conviction  10
+Class "C" Conviction
+Convictions within previous 12 months  of date of conviction  10
+Convictions within previous 12 -36 months  of date of conviction  8
+Class "D" Conviction
+Convictions within previous 12 months  of date of conviction  8
+Convictions within previous 12 -36 months  of date of conviction  6
+
+Point totals for applicants and new volunteers for driving positions may not exceed 35.
+Point totals for current employees:
+0 - 35: Acceptable
+36 - 45: Probationary- may continue to drive follow ing required tasks listed in procedures
+46 and Over: Unacceptable
+
+EXAMPLES OF VIOLATIONS LISTED BY CLASSIFICATION
+
+1.  CLASS “A” VIOLATION
+1.1.  Failure to obey a traffic flagger
+1.2.  Driving while suspended (violation)
+1.3.  Careless driving (accident involved)
+1.4.  Speed racing
+1.5.  Speeding (30+ MPH over posted limit)
+1.6.  Failure to stop for a school bus
+
+2.  CLASS “B” VIOLATION
+2.1.  Passing in a no pass zone
+2.2.  Failure to drive on right side of the road
+2.3.  No operator’s license
+
+502. 10
+2.4.  Careless driving (no accident involved)
+2.5.  Failure to obey a traffic control device
+2.6.  Speeding (21-30 MPH over posted limit)
+2.7.  Driving uninsured
+3.  CLASS “C” VIOLATION
+3.1.  Failure to use traction devices
+3.2.  Defective headlights
+3.3.  Illegal U-turn
+3.4.  Failure to yield to pedestrian in crosswalk
+3.5.  Speeding (11-20 MPH over the limit)
+
+4.  CLASS “D” VIOLATION
+4.1.  Impeding the flow of traffic
+4.2.   Failure to signal lane change
+4.3.  Failure to display license plates
+4.4.  Speeding (1-10 MPH over the limit)
+4.5.  Failure to use safety belts
+4.6.  Failure to change information on driver’s license
+
+5.  Notwithstanding the violations listed above, Oregon  law provides that if the speed limit is 65 miles p er
+hour and:
+5.1.1.  The driver is exceeding 65 miles per hour but not e xceeding 75 miles per hour, the offense is
+a Class “C” traffic violation.
+5.1.2.  The driver is exceeding 75 miles per hour but not e xceeding 85 miles per hour, the offense is
+a Class B traffic violation.
+5.1.3.  The driver is exceeding 85 miles per hour, the offense is a Class A traffic violation.

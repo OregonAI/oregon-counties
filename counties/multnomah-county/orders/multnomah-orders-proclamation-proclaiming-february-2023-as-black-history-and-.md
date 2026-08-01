@@ -1,0 +1,111 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-proclamation-proclaiming-february-2023-as-black-history-and-
+title: 'Proclamation Proclaiming February 2023 As “Black History And Futures Month” In Multnomah County, Oregon.'
+doc_type: ordinance
+citation: 'Proclamation Proclaiming February 2023 As “Black History And Futures Month” In Multnomah County, Oregon.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/proclamation_proclaiming_february_2023_as_%E2%80%9Cblack_history_and_futures_month%E2%80%9D_in_multnomah_county%2C_oregon./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9df50193f057efaedffc7cec7c11673ba7732c91504e1ee6acb94647ece4c02e
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Proclamation Proclaiming February 2023 As “Black History And Futures Month” In Multnomah County, Oregon. (Proclamation Proclaiming February 2023 As “Black History And Futures Month” In Multnomah County, Oregon.)
+
+## At a glance
+
+Proclamation Proclaiming February 2023 As “Black History And Futures Month” In Multnomah County, Oregon. — orders of Multnomah County. 2 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+PROCLAMATION NO. 2023-011
+Proclaiming February 2023 as “Black History and Futures Month” in Multnomah County,
+Oregon.
+The Multnomah County Board of Commissioners Finds:
+A. Black History Month is observed every February throughout the United States to
+celebrate and recognize the vital role and contributions of Black and African Americans in our
+history and culture. Black History Monthgrew out of “Negro History Week,” the brainchild of
+noted historian Carter G. Woodson and other prominent African Americansand was created as
+an opportunity tocelebrate achievements by Black Americans and a time for recognizing their
+central role in U.S. history.Each February, we take stock of the cumulative efforts undertaken
+by Black people to erect a liberatory future, holding space for the past, present and future of
+liberation both individually and collectively.
+B. In recent years, Black Leaders and Visionaries have led the movement to celebrate
+Black Futures Month alongside Black History Month. Black Futures Month is a visionary,
+forward-looking celebration of Blackness in February; a time to consider and celebrate Black
+history and to dream and imagine a world in which all Black people are free to experience
+freedom, justice, love and overall well-being.
+C. Black History and Futures month celebrated together is an example of Sankofa a word
+and symbol from the Akan tribe in Ghana. The literal translation of the word and the symbol is “it
+is not taboo to fetch what is at risk of being left behind.” The symbol is based on a mythical bird
+with its feet firmly planted forward and its head turned backwards. Thus, the Akan believe the
+past serves as a guide for planning the future. To the Akan, it is this wisdom in learning from the
+past which ensures a strong future. We believe as The Akans believe, that there must be
+movement and new learning as time passes. As this forward march proceeds, the knowledge of
+the past must never be forgotten.
+D. In 2023, Multnomah County recognizes the importance of Black futures by continuing to
+invest in programs that focus on the health, security, success and care and of our Black
+residents through County programs including but, not limited to, REACH, Preschool for All,
+Health Birth Initiatives, The Multnomah Mother’s Trust, Black Cultural Advocates in our Libraries
+and by centering racial equity in all of our priorities and decisions.
+E. By acknowledging the importance of the future state, Multnomah County seeks to not
+only honor Black history in America, but also to recognize that racial injustices persist for Black
+communities in Multnomah County and across the country, and to honor the people and
+organizations that are working to create a better and more just future for Black and African
+American communities, including organizations like Kairos PDX & ELSO, who are here with us
+today and our many Black Led Community Partners.
+G. Multnomah County acknowledges and rejects the long history of institutional and
+structural racism toward African Americans in the United States, and this observance of Black
+History and Futures Month calls our attention to the continued need to confront racism and build
+a society that lives up to its democratic values. We recognize that a more just future requires a
+reimagining of life as we know it and a revolutionary transformation of beliefs, norms, and
+systems. We endeavor to dismantle the systemic barriers set up to hinder Black people’s ability
+to achieve equity, opportunity, and social mobility and to focus on systemic change that
+prioritizes the dignity and power of Black people.
+H. Multnomah County honors the rich heritage, extraordinary legacies, and ongoing
+accomplishments of Black and African Americans and joins the chorus of other local, state and
+national leaders who celebrate Black and African American excellence and lift up the
+importance and power of Black and African American health, healing, justice and hope. We
+celebrate and recognize Black and African American communities not only this month, but 365
+days a year.
+The Multnomah County Board of Commissioners Proclaim:
+February 2023 as “Black History Month and Black History and Futures Month” in Multnomah
+County, Oregon.
+ADOPTED this 23rd day of February, 2023.
+NOTE :
+The use of the plural Futures in the name of Black Futures Monthis often interpreted as indicating
+the diversity of the Black experience and the many different opportunities and possibilities for Black
+people - as opposed to a single, monolithic vision for the future.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+________________________________
+Jessica Vega Pederson, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By
+Jenny M. Madkour, County Attorney

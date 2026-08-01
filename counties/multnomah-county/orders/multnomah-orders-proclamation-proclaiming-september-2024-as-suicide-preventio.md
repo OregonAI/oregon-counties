@@ -1,0 +1,163 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-proclamation-proclaiming-september-2024-as-suicide-preventio
+title: 'Proclamation \u200b\u200bProclaiming September 2024 As Suicide Prevention Awareness Month In Multnomah County, Oregon.'
+doc_type: ordinance
+citation: 'Proclamation \u200b\u200bProclaiming September 2024 As Suicide Prevention Awareness Month In Multnomah County, Oregon.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/proclamation_%E2%80%8B%E2%80%8Bproclaiming_september_2024_as_suicide_prevention_awareness_month_in_multnomah_county%2C_oregon./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 36a5f3a9b5e91d991a53c21cda8bc052df9e56df8a1185c4d003859557a3f436
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Proclamation ​​Proclaiming September 2024 As Suicide Prevention Awareness Month In Multnomah County, Oregon. (Proclamation ​​Proclaiming September 2024 As Suicide Prevention Awareness Month In Multnomah County, Oregon.)
+
+## At a glance
+
+Proclamation ​​Proclaiming September 2024 As Suicide Prevention Awareness Month In Multnomah County, Oregon. — orders of Multnomah County. 3 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+
+PROCLAMATION NO. 2024-082
+
+Proclaiming September 2024 as Suicide Prevention Awareness Month in Multnomah
+County, Oregon.
+
+The Multnomah County Board of Commissioners Finds:
+
+A.   Suicide Prevention Awareness Month is  elevated every September to increase
+awareness that prevention efforts save lives. The international theme for Suicide
+Prevention Month is “ Changing The Narrative  On Suicide,” and our efforts are
+infused with this theme in September and every month of the year.
+
+B. The County’s longstanding investment in suicide pre and postvention services is
+an acknowledgment that anyone and everyone may be touched by the traumatic
+impacts of suicide or thoughts of suicide - be it through family, friends, or
+themselves. It acknowledges suicide impacts our community, and is a public health
+crisis.
+
+C. Suicide is an intersectional public health issue. While overall youth suicide rates
+decreased in our region, suicide rates for youth of color continue to climb in
+Multnomah County and across our state. The LGBTQIA2S+ community is also at
+high risk, especia lly those who identify as transgender; they are nearly 12 times
+more likely to attempt suicide than the general population.
+
+D. Suicide is the 3rd leading cause of death among people aged 10 -24 and the 11th
+leading cause of death overall in the U.S.  Youth impacted by criminal justice
+systems, foster care, homelessness, poverty, and abuse have an increased risk of
+death by suicide in Multnomah County. Housing, economic stressors, health, and
+relationship issues lead to stressors identified for adults aged 25 through
+retirement and beyond.
+
+E. Suicide is complex, often with individuals experiencing untreated behavioral health
+conditions in addition to social, life, economic, and physical stressors. While the
+social disruption and loss of life due to the COVID -19 pandemic have changed in
+recent years, residents continue to see impacts from the height of the pandemic,
+especially the youngest residents who lost years of social engagement during their
+early developmental years. The fabric of children’s lives drastically shifted, in
+addition to the on going, complex issues that persist, such as continued systemic
+racism, income and housing instability, climate impacts, and fundamental
+challenges of daily living. The factors continue to amplify and increase personal
+stressors and mental health. Our commu nity is experiencing the impact of
+interconnected behavioral health -related crises evidenced by increased crisis
+calls, overdose and substance abuse, the impact of fentanyl, and a climb in gun
+violence, especially among youth.
+
+F. Compassion fatigue is real;  individuals exposed to extended periods of stress
+become desensitized to what they see around them. People may walk by when
+
+they see someone in crisis, accustomed to others’ pain, or simply because they
+don’t know how to help. Fear and stigma are real, too, and often interfere with
+people giving and seeking help.
+
+G. Despite these challenges, there is hope. Multnomah County has a workfo rce
+dedicated to supporting individuals in their healing, facilitating connections, and
+providing services well before the prospect of suicide is imminent. Community
+partners and school districts are actively engaged in efforts to prevent suicides and
+spread effective, practical information about how to help those facing a crisis.
+
+H. The County’s public health approach to suicide prevention addres ses the many
+factors across the lifespan that can contribute to suicidal behavior. We are focused
+on improving the quality of life in Multnomah County with programs and resources
+that help families and children gain access to food, health care, and stable housing,
+reduce the traumatic impacts of gun violence, and aid those with substance us e
+and other behavioral health disorders find their path toward health and wellness.
+This year, Multnomah County’s Health Department will continue and expand our
+successful social media campaign, uplifting the power of connection, meaning,
+healing, and hope for those impacted by suicide while speaking to the diversity of
+our community.
+
+I. Our Behavioral Health Prevention staff offers multiple supports aimed at reducing
+suicide and thoughts of suicide, as well as mitigating other behaviors that often
+lead to depression and isolation, like gambling disorders. The Get Trained to Help
+program offers free training for community members on how to provide immediate
+help and ensure the safety of someone in distress.
+
+J. The Multnomah County Behavioral Health Call Center is staffed by professionals
+trained to address immediate crises, assess needs to find the right services and
+connect clients to a range of appropriate, available resources. The new national
+988 number is a n alternative to our Behavioral Health Call Center, offering
+assessment and crisis counseling, and resource referrals to individuals and family
+or friends helping those in crisis.
+
+K. Multnomah County promotes positive actions that can prevent suicide, including
+behavioral and physical health care that is accessible and effective. We support
+culturally specific and responsive services that support communities.
+
+L. We recognize that connection is more important than ever now. It builds resilience
+and support. Everyday acts of kindness bind us together in community and
+kindness, allowing empathy to fill the spaces around us. When we truly pause to
+connect, make space for deep conversation, thoughtfully share a meal, or
+intentionally reach out to those who need us, we create positive action, and those
+actions contribute to healing. Sitting in challenging conversations with open hearts
+and kindness removes the shame and stigma interrupting people from seeking
+help. Let’s collectively see the humanity in ourselves and each other, hold
+compassion for those in crisis, and compassion for those unsure how to help others
+in crisis.
+
+M. Suicide prevention is everyone’s business. Anyone can get trained to help  - for
+free! Go to www.gettrainedtohelp.com to learn how. If you think an individual is at
+risk for suicide, help is available 24/7 by calling the Multnomah County Behavioral
+Health Call Center at 403-988-4888 or dial 988 for the national suicide prevention
+line.
+The Multnomah County Board of Commissioners Proclaims:
+September 2024 is proclaimed Suicide Prevention Awareness Month in Multnomah
+County, Oregon. All county residents are encouraged to increase awareness of individuals
+who may be struggling with challenges in their lives  and “Create Hope Through Positive
+Action.” Even the smallest efforts help create hope, and hope helps prevent suicide. There
+are resources to help you and those around you.
+ADOPTED this 3rd day of October 2024.
+SUBMITTED BY: Heather Mirasol, BHD Director
+ Jenny M. Madkour, County Attorney
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By:

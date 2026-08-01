@@ -20,14 +20,32 @@ not the same as evading a technical access control.** So:
   - One request per source, cached on disk forever after. Re-fetching is opt-in
     (`--refetch`), never a side effect of running the ingester again.
   - MIN_INTERVAL between requests to the same host, always.
+
+HTTP/2, AND WHY THAT TURNED OUT TO MATTER MORE THAN ANY OF THE ABOVE. Marion County's code
+was recorded `unavailable` for four tranches on the belief that Cloudflare was refusing our
+identity. It was not. With the SAME User-Agent and the same headers:
+
+    curl --http2    -> 200
+    curl --http1.1  -> 403
+
+Python's urllib speaks only HTTP/1.1, so every request this module made was scored on
+protocol version and refused. The block was never about who we said we were.
+
+That is worth stating plainly because the wrong diagnosis pointed at the wrong remedy: it
+framed a solvable client-modernity problem as a choice between disguising ourselves and
+giving up, and a headless browser was reached for before a protocol check. Speaking HTTP/2
+is not impersonation — it is being a current client, with the honest User-Agent unchanged.
 """
 from __future__ import annotations
 
 import pathlib
+import re
 import time
 import urllib.error
 import urllib.parse
 import urllib.request
+
+import httpx
 
 USER_AGENT = ("OregonAI-CivicCorpus/1.0 "
               "(+https://github.com/OregonAI/oregon-counties; public-records archival)")
@@ -55,6 +73,16 @@ def _retry_after(headers) -> float | None:
 
 
 _last: dict[str, float] = {}
+_shared: httpx.Client | None = None
+
+
+def _client() -> httpx.Client:
+    """One HTTP/2 client, reused. Redirects followed; TLS still verified."""
+    global _shared
+    if _shared is None:
+        _shared = httpx.Client(http2=True, follow_redirects=True, timeout=TIMEOUT,
+                               limits=httpx.Limits(max_connections=4))
+    return _shared
 
 
 class Refused(Exception):
@@ -86,45 +114,45 @@ def _throttle(url: str) -> None:
 
 
 def get(url: str, _attempt: int = 0) -> tuple[bytes, str]:
-    """Fetch once, honestly. Returns (body, content_type). Raises Refused/Challenge."""
+    """Fetch once, honestly, over HTTP/2. Returns (body, content_type).
+
+    Raises Refused/Challenge — see the module docstring for why those are kept distinct from
+    a 404, and from each other.
+    """
     _throttle(url)
-    req = urllib.request.Request(url, headers=HEADERS)
     try:
-        with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
-            body = resp.read()
-            ctype = (resp.headers.get("Content-Type") or "").split(";")[0].strip()
-            if resp.status == 307 and not resp.headers.get("Location"):
-                raise Challenge(f"{url}: 307 with no Location — bot challenge")
-            return body, ctype
-    except urllib.error.HTTPError as e:
-        # 429 IS NOT A REFUSAL. It means "you are going too fast" — a request to slow down,
-        # not a decision to exclude us — and treating it as `Refused` both loses documents
-        # and misrepresents the host's position in the manifest. Coos County returned it on
-        # four documents at a 2s interval; the honest response is to back off and try again,
-        # which is also the polite one.
-        if e.code == 429 and _attempt < len(BACKOFF):
-            wait = _retry_after(e.headers) or BACKOFF[_attempt]
-            print(f"    429 from {urllib.parse.urlsplit(url).netloc} — backing off "
-                  f"{wait}s (attempt {_attempt + 1}/{len(BACKOFF)})")
-            time.sleep(wait)
-            return get(url, _attempt + 1)
-        if e.code in (401, 403, 429):
-            mitigated = (e.headers or {}).get("cf-mitigated", "")
-            raise (Challenge if mitigated == "challenge" else Refused)(
-                f"{url}: HTTP {e.code}"
-                f"{' (Cloudflare managed challenge)' if mitigated else ''}"
-                f"{' after backing off ' + str(sum(BACKOFF)) + 's' if e.code == 429 else ''}"
-            ) from e
-        if e.code == 307:
-            raise Challenge(f"{url}: 307 challenge") from e
-        raise
-    except urllib.error.URLError as e:
+        resp = _client().get(url, headers=HEADERS)
+    except httpx.ConnectError as e:
         # Baker County serves its TLS leaf without the intermediate, so every verifying
-        # client fails while browsers paper over it by fetching the issuer themselves. Named
-        # explicitly so it reads as the county's misconfiguration rather than a dead host.
-        if "CERTIFICATE_VERIFY_FAILED" in str(e.reason):
-            raise Refused(f"{url}: TLS chain incomplete (server omits its intermediate)") from e
+        # client fails while browsers paper over it. Named so it reads as the county's
+        # misconfiguration rather than a dead host.
+        if "CERTIFICATE_VERIFY" in str(e).upper():
+            raise Refused(f"{url}: TLS chain incomplete "
+                          f"(server omits its intermediate)") from e
         raise
+    except httpx.RemoteProtocolError as e:
+        # lb2.municodeweb.com completes TLS and then drops the connection rather than
+        # answering — a refusal delivered as a reset instead of a status code.
+        raise Refused(f"{url}: connection closed without a response ({e})") from e
+
+    code = resp.status_code
+    if code == 429 and _attempt < len(BACKOFF):
+        # 429 IS NOT A REFUSAL. It means "you are going too fast" — a request to slow down,
+        # not a decision to exclude us. Coos returned it on four documents at a 2s interval.
+        wait = _retry_after(resp.headers) or BACKOFF[_attempt]
+        print(f"    429 from {urllib.parse.urlsplit(url).netloc} — backing off {wait}s "
+              f"(attempt {_attempt + 1}/{len(BACKOFF)})")
+        time.sleep(wait)
+        return get(url, _attempt + 1)
+    if code in (401, 403, 429):
+        mitigated = resp.headers.get("cf-mitigated", "")
+        raise (Challenge if mitigated == "challenge" else Refused)(
+            f"{url}: HTTP {code}"
+            f"{' (Cloudflare managed challenge)' if mitigated else ''}")
+    if code == 307 and not resp.headers.get("Location"):
+        raise Challenge(f"{url}: 307 with no Location — bot challenge")
+    resp.raise_for_status()
+    return resp.content, (resp.headers.get("Content-Type") or "").split(";")[0].strip()
 
 
 def snapshot(url: str, dest: pathlib.Path, refetch: bool = False) -> tuple[bytes, bool]:
@@ -216,14 +244,9 @@ def source_dates(snap: pathlib.Path, fresh: bool, doc_path: pathlib.Path) -> tup
     return retrieved, retrieved
 
 
-# Filenames that are drafts sitting beside adopted text in the same directory. Measured in
-# five counties: Lane (APM `...Issue2REDLINE.pdf` next to `...CURRENT.pdf`), Clackamas
-# (`zdoproposed`), Lincoln, Baker (`-DRAFT`), Gilliam (a redline employee handbook NEWER and
-# LARGER than the adopted one, so "take the most recent" is actively wrong here).
-# Enforced again in check_guardrails.py — publishing a draft as adopted law is the worst
-# single error this corpus can make.
-DRAFT_PATTERNS = (r"redline", r"\bissue\s*\d+\b", r"zdoproposed", r"-draft\b", r"\bdraft\b",
-                  r"\bproposed\b")
+# Draft-filename patterns live in src/patterns.py, which imports nothing — so the CI
+# guardrail check can share them without pulling in this module's HTTP stack.
+from src.patterns import DRAFT_PATTERNS  # noqa: E402,F401
 
 
 def looks_like_draft(name: str) -> bool:

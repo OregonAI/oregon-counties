@@ -1,0 +1,169 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-704
+title: '704'
+doc_type: policy
+citation: '704'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/704.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 7d9934101812dde2c97097d45d5ee896358cb4b201f86dc8a1f85f92605ee97e
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.010
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 704 (704)
+
+## At a glance
+
+704 — policies of Marion County. 3 pages.
+
+## Full text
+
+704.1
+ADMINISTRATIVE POLICIES
+
+SECTION: Information Technology POLICY #: 704
+TITLE: Social Media Use Policy PROCEDURE #: 704-A
+ ORDER #: 15-26
+DEPT: Information Technology DIVISION:
+ADOPTED: 6/11 REVIEWED: 3/15 REVISED: 3/15
+
+PURPOSE: To address the fast-changing landscape of the Internet and the way residents
+communicate and obtain information online, county departments may consider
+using social media platforms to reach a broader audience. The county encourages
+the use of social media to further the goals of the county and the missions of its
+departments, where appropriate.
+
+AUTHORITY: The Marion County Board of Commissioners may establish rules and regulations
+in reference to managing the interest and business of the county under ORS
+203.010, 203.035 and 203.111.
+
+The Marion County Board of Commissioners expresses the governing body’s
+formal, organizational position of fundamental issues or specific repetitive
+situations through formally adopted, written policy statements.  The policy
+statements serve as guides to decision making for both elected and appointed
+officials on the conduct of county business.
+
+The Marion County Administrative Policies and Procedures manual of the
+Marion County Board of Commissioners outlines the forms and process through
+which the board takes official action on administrative policy, and is the official
+record of county administrative policy.
+Statutory References: Oregon Revised Statutes Chapters 192, 205, and 357;
+Oregon Administrative Rules Chapter 166.
+
+APPLICABILITY: All county departments, employees, contractors, and volunteers.
+
+GENERAL POLICY: The county has an overriding interest and expectation in deciding what is
+"spoken" on behalf of the county on social media.  This policy establishes
+guidelines for the use of social media platforms.
+
+POLICY GUIDELINES:
+
+1.   General
+
+1.1. The county’s website (www.co.marion.or.us) will remain the county's primary and
+predominant Internet presence.
+
+1.1.1.  County social media accounts are to be used for the following purposes:
+
+704.2
+ADMINISTRATIVE POLICIES
+
+1.1.1.1.  As channels for disseminating time-sensitive information as quickly as
+    possible (example: emergency information); and
+
+1.1.1.2. As marketing/promotional channels that increase the county's ability to
+     broadcast its messages to the widest possible audience.
+
+1.1.2.  County social media accounts and the official county website should work cooperatively
+to convey information to the public about county programs and services.  Whenever
+practicable, content posted on county social media accounts shall contain links directing
+users back to the county’s official website for in-depth information, forms, documents or
+online services necessary to conduct business with the county.
+
+1.2 The department head of each department that operates social media accounts is ultimately
+responsible for any content posted on social media accounts operated by that department.
+
+1.2.1. The department head, or a designee, must be assigned administrator privileges for the
+purpose of accessing social media accounts operated by that department.
+
+ 1.2.2 If the head of  a county department appoints a designee to oversee that department’s
+  social media accounts, that department head remains ultimately responsible for all
+  content appearing on that social media account.
+
+1.3  All county social media content, including comments from members of the public and other
+content provided by persons not employed by the county, shall comply with the moderation
+guidelines adopted by the county.
+
+1.4.  All county social media content shall comply with all appropriate county policies and
+standards including but not limited to Administrative Policy 701: Use of Telephones, Computer
+and Data Communications Equipment, E-Mail and Internet.
+
+1.5. In general, county social media accounts shall be maintained and operated by county employees.
+Exceptions may be granted when good cause exists to allow contractors or volunteers to operate
+county social media accounts.
+
+1.6. County social media content shall comply with county and state ethics and elections codes
+and administrative rules.
+
+1.7. County social media content, including comments and other content provided by members of the
+public, is subject to State of Oregon public records laws.  Any content maintained in a social
+media format that is related to county business, including but not limited to lists of subscribers
+and posted communication, is a public record.  Each department that operates social media
+accounts is responsible for responding completely and accurately to any public records request
+for public records on social media.  Content related to county business shall be maintained in an
+accessible format independent of the social media platform so that it can be produced in response
+to a request.
+
+1.8. Oregon state law and relevant county records retention schedules apply to social media
+
+704.3
+ADMINISTRATIVE POLICIES
+content.  All departments that make use of social media platforms shall preserve records required
+to be maintained.  The records retention shall be pursuant to a relevant records retention schedule
+for the required retention period in a format that preserves the integrity of the original record and
+is easily accessible.  All materials posted on a social media platform, including comments and
+other content provided by persons not employed by the county, will also be retained in another
+medium.
+
+1.9.  The county will approach the use of social media tools, including design standards, as
+consistently as possible, enterprise-wide.
+
+2. Exceptions:
+
+Any exceptions will be approved by the chief administrative officer or designee and subject to review by
+the Information Technology Director.
+
+3. Violations:
+
+The proper use of social media enhances communication with the public.  It is the responsibility of county
+public officials to use this form of communication properly.  Violation of the policies or procedures set
+forth in this policy may result in removal of department content from social media accounts.  Violations
+may also be grounds for disciplinary action up to and including termination of county employment.
+
+4. Periodic Review:
+
+This policy will be reviewed by the Information Technology Director and County Legal Counsel every
+two years and updated as needed.

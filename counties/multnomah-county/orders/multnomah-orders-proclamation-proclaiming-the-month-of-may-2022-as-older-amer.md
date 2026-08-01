@@ -1,0 +1,90 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-proclamation-proclaiming-the-month-of-may-2022-as-older-amer
+title: 'Proclamation Proclaiming The Month Of May 2022 As Older Americans Month In Multnomah County, Oregon.'
+doc_type: ordinance
+citation: 'Proclamation Proclaiming The Month Of May 2022 As Older Americans Month In Multnomah County, Oregon.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/proclamation_proclaiming_the_month_of_may_2022_as_older_americans_month_in_multnomah_county%2C_oregon./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9134add915ae9601d5b58ec01aeef3a5b935f1db414ba9e0e9c70968c13e3fe3
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Proclamation Proclaiming The Month Of May 2022 As Older Americans Month In Multnomah County, Oregon. (Proclamation Proclaiming The Month Of May 2022 As Older Americans Month In Multnomah County, Oregon.)
+
+## At a glance
+
+Proclamation Proclaiming The Month Of May 2022 As Older Americans Month In Multnomah County, Oregon. — orders of Multnomah County. 2 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+PROCLAMATION NO. 2022-043
+Proclaiming the Month of May 2022 as Older Americans Month in Multnomah County,
+Oregon.
+The Multnomah County Board of Commissioners Finds:
+1. One in five people living in Multnomah County is 60 years or older. By 2030, that
+proportion is expected to reach nearly one in four. We affirm this growing
+population of older adults and elders and celebrate their contributions and voices
+in our community.
+2. Our whole community benefits when people of all ages, abilities, and backgrounds
+are welcomed, included, and supported. Older adults thrive when choice and self-
+determination is prioritized and their choices and natural support are honored.
+3. Aging, Disability and  Veterans Services Division (“ADVSD”) supports an aging
+services network, which includes community -based organizations and partners
+across Multnomah County, and provides access to services and programs that
+reflect and affirm the diverse people, cultures and languages of older adults and
+elders across the County.
+4. Services and support that are responsive to the needs and preferences fosters the
+well-being and safety of older adults and elders so they may live independently
+and age where they choose.
+5. Community and connection are necessary for all of us, particularly as we age. The
+COVID-19 pandemic has shifted how we offer opportunities for connection and
+community with and among older people, and the importance of transportation
+services and technology access.
+6. Transportation that is low-cost and accessible was consistently ranked among the
+highest needs by older adults and elders across communities and identities in
+Multnomah County’s most recent Area Plan needs assessment survey. The survey
+also identified a desire among older people for technology training and access.
+7. ADVSD is committed to continually seeking input from our community in our work
+with the Aging Services Advisory Council and the Disabilities Services Advisory
+Council. The a dvocacy of these councils has improved our community and
+supported independence and choice for older people.
+The Multnomah County Board of Commissioners Proclaims:
+May 2022 is Older Americans Month, a time to recognize the unique path and experiences
+of older adults and elders in our community. Consistent with this year’s national theme,
+“Age My Way,” we ask people in Multnomah County to recognize and celebrate older
+adults and elders in their communities.
+ADOPTED this 19th day of May, 2022.
+SUBMITTED BY: Commissioner Sharon Meieran, District 1.
+     Jenny M. Madkour, County Attorney
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By

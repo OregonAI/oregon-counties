@@ -1,0 +1,105 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-2025-026
+title: '2025-026'
+doc_type: ordinance
+citation: '2025-026'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/2025-026.pdf/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a3c27f930a4f708f991235660180640b2832ba00f025e7b56831c00351487880
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 294.423
+    - ORS 294.426
+    - ORS 294.428
+    - ORS 294.635
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 2025-026 (2025-026)
+
+## At a glance
+
+2025-026 — orders of Multnomah County. 12 pages.
+
+## Full text
+
+Page 1 of 2 – Resolution Approving the Multnomah County Library District’s Proposed Fiscal
+Year 2026 Budget for Submittal to the Tax Supervising and Conservation Commission
+BEFORE THE MULTNOMAH COUNTY LIBRARY DISTRICT BOARD
+RESOLUTION NO.  2025-026
+Approving the Multnomah County Library Dist rict’s Proposed Fiscal Year 20 26 Budget for
+Submittal to the Tax Supervising and Conservation Commission.
+The Multnomah County Library District (MCLD) Board Finds:
+a. ORS 294.423 provides that the MCLD Board is the Budget Committee for the MCLD.
+b. ORS 294.635 requires transmittal of the MCLD Budget to the Tax Supervising and
+Conservation Commission (TSCC) prior to May 15.
+c. On April 2 4, 202 5 the MCLD Board received the budget message from the MCLD
+Director/Budget Officer and the Proposed Budget for the fiscal year July 1, 20 25 to June 30,
+2026, in compliance with ORS 294.426.  The documents are attached as Exhibit 1.
+d. The MCLD Director/Budget Officer requests that the MCLD Board approve the
+Proposed Budget for submittal to the TSCC as required by ORS 294.428.
+e. The Budget submitted to the TSCC establishes the estimated maximum expenditures
+for the MCLD. The MCLD Board generally may not increase these expenditures by more than
+ten percent.
+f. The Budget submitted to the TSCC establishes the maximum property tax levy for the
+MCLD.
+g. Submitting the Budget to the TSCC does not prevent the MCLD Board from making
+reallocations within the limitations noted above.
+h. The MCLD Board will conduct a review and public discussion of the F iscal Year 2026
+Budget.
+The Multnomah County Library District Board Resolves:
+1. The MCLD Proposed Fiscal Year 2026 Budget, attached as Exhibit 1, is approved.  The
+MCLD Director/Budget Officer will prepare the Fiscal Year 2026 Approved Budget and forward
+it to the TSCC.
+2. The following tax levy is approved and included in the Approved Budget forwarded to
+the TSCC.
+Page 2 of 2 – Resolution Approving the Multnomah County Library District’s Proposed Fiscal
+Year 2026 Budget for Submittal to the Tax Supervising and Conservation Commission
+3. This tax is at the authorized tax rate as follows:
+General Government Category
+Operating Taxes Tax Rate / 1,000
+Permanent Tax Rate $  1 .2200
+Total Operating Taxes     $  1. 2200
+ADOPTED this 8th day of May 2025.
+MULTNOMAH COUNTY LIBRARY
+DISTRICT BOARD
+Jessica Vega Pederson, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By
+     Katherine Thomas, Assistant County Attorney
+SUBMITTED BY:
+Katie Shifley, Library Finance and Facilities Director
+Exhibit 1 to Resolution Approving the  Proposed Fiscal Year 2026 Budget Submittal to the Tax Supervising and Conservation Commission
+Multnomah County Library District Proposed Budget FISCAL YEAR 2025–2026
+Library patrons explore the newly-expanded Midland Library in October, 2024 Photo by Naim Hasan Photography/Multnomah County Library
+Table of Contents  Budget Message 3 A Time of Transformation and Transition 4 About the Budget 4 Structural Operating Deficit 5 Multnomah County Library District’s Financial Policies 5 Library District Resources 6 Library District Requirements 7 Capital Fund Resources 8 Capital Fund Requirements 9
+Budget Message April 24, 2025 It is my privilege to propose the Fiscal Year 2026 budget for the Multnomah County Library District. This is the thirteenth Library District budget since the adoption of Measure 26-143 in November 2012, which created the Library District with a permanent tax rate, limited to $1.24 per $1,000 of assessed property value. The District tax is expected to generate $115.4 million in Fiscal Year 2026; combined with other revenues (e.g. grants, interest), the District’s total ongoing revenues are projected at $117.3 million. The library’s ongoing expense forecast exceeded $117.3 million, and the library reduced ongoing expenses by $1.4 million in order to balance the library budget for Fiscal Year 2026. A total of $123.2 million is budgeted for transfer to the County Library Fund to support library operations, which includes a $5.9 million draw on District fund balance to support several time-limited operating projects and limited duration positions. The District budget includes a $6.3 million set-aside for planned operating projects in Fiscal Year 2027 and beyond. The library proposes to continue the levy rate of $1.22 per $1,000 of assessed value in Fiscal Year 2026. The Multnomah County Budget Office forecast showed a deficit for the Library District at this rate next fiscal year, but multiple years of forecasted deficits due to slowing property tax revenue growth and uncertainty about the library’s post-bond expense landscape warrant a cautious approach to raising the levy rate to its maximum level.  In accordance with prior year updates to District financial policies, $1.0 million is placed in contingency, and $22.0 million in unappropriated fund balance is held in reserve to address future structural operating deficit issues.  The Multnomah County Library District Capital Fund totals $76.7 million, which will support future infrastructure needs and the long-term financial health of the District. Fiscal Year 2026 expenditures include a $3.5 million transfer to the Multnomah County Library Capital Construction Fund, which represents both external and District support for bond projects.  Exciting changes await for Fiscal Year 2026—including the reopening of several libraries after major renovations—as well as new challenges. Slowing revenue growth and rising costs will precipitate challenges in the years to come, but the District is well positioned to navigate these changes while serving the evolving needs of a vibrant and diverse community.  Respectfully, Annie Lewis Director of Libraries, Multnomah County Library District
+A Time of Transformation and Transition The library approaches an incredible milestone in Fiscal Year 2026 as it nears completion of the voter-approved bond work to modernize library spaces and services. Also in Fiscal Year 2026, the library will fully implement an updated staffing model in tandem with the opening of the new 95,000 square foot East County Library. The new staffing plan serves as the library’s guide for ensuring adequate staffing and optimal library services for the new library spaces, and it aligns with the MCL Service Statement and Priorities. The District’s revenue forecast for the coming year reflects slower than typical revenue growth, and total property tax revenue growth is forecasted at less than two percent for the first time in the history of the District. The impact of remote work and lower economic activity in the downtown core has depressed assessed value for commercial property values, which is acting as a detriment to overall property tax revenue growth. A set of newly-established urban renewal areas is also diverting property tax revenue to designated tax-increment-financing districts around the County. At the same time, multiple years of sustained inflation and rapid personnel cost growth since 2020 have set a higher cost baseline for the library’s current level of service.  These financial conditions required budget reductions that impact the delivery of library services. Of particular note, the number of simultaneous e-book holds is being reduced from 20 to 10, and the library is discontinuing several online databases. While the staffing plan implementation resulted in net position adds, the reconfiguration of staffing across work units resulted in three programs being sunset: School Corps, Books2U, and Listos para el Kínder.  District budget planning remains focused on long-term financial sustainability including strategic use of fund balance to meet time-limited needs, aligning resources with the library’s new Services and Priorities Statement, and planning for further trade-off discussions on the horizon.  Despite this difficult financial picture, the library’s work to expand library spaces and evolve library services continues apace. In the next fiscal year, the library will continue to focus resources on meeting the goals articulated in the MCL Strategic Plan, and begin work on planning for the next phase of strategic planning.  Multnomah County Library is proud to continue its long tradition of service to our community. The role of the library continues to change as community needs dictate and that evolution will continue with purpose and intention, driven by community voices. The library will continue to provide world-class library services to this diverse and growing community in the present and for the future.  About the Budget  By charter, members of the Multnomah County Board of County Commissioners serve as the governing body of the District. The Budget Committee consists of the members of the Board, convening as the Multnomah County Library District Board. The Multnomah County Library District was approved by voters in 2012 in order to fund library services on an ongoing basis for the use of the people of Multnomah County. The Multnomah County Library Fund budget is adopted each year by the Multnomah County Board of County Commissioners, and funds library services via an intergovernmental agreement with the Multnomah County Library Department.
+The Fiscal Year 2026 budget is proposed at a tax rate of $1.22 per $1,000 of assessed value. That rate is a continuation of the level set for the current fiscal year. This rate will generate enough revenue to maintain current hours and services. The current five-year forecast for the Library District assumes that the levy rate will be raised to its maximum, $1.24 per $1,000 of assessed value, in Fiscal Year 2028.  This budget continues a practice of maintaining the Library Department budget in the current County Library Fund and using the Library District Fund to receive the Library District tax as well as any non-tax revenues for Fiscal Year 2026. This will ensure that the District’s taxes and revenues are received and accounted for separately. As instituted in the prior year, one-time spending for special projects within the Library Department budget is matched with a sub-fund in the Library District Fund to improve communication and transparency around District fund balance utilization. The Library District budget is based on an intergovernmental agreement between Multnomah County and the Library District. The District contracts with Multnomah County to provide library services. The District regularly reimburses the County from the Library District Fund as expenses are incurred. Structural Operating Deficit  The Library District was established in 2012, with the intent to provide a stable funding source for the provision of library services for 10 years. It has long been understood that the District faces a structural operating deficit, with the pace of expenses—especially personnel costs—eventually expected to exceed the stable but constrained growth of dedicated property taxes over a long enough period. The coming year will be the fourteenth year of the Library District.  Library financial policies and budget practices are geared toward delaying this issue well into the future. But eventually, the library will experience an inflection point where year-over-year service level reductions will be required to balance the budget.  In the near term, the library will look to staffing and resource reallocations to meet its highest priority service commitments and baseline operating needs. Smart utilization of the District’s fund balance can be employed to support infrastructure-related expenses and other one-time-only expenses, extending this issue out even further into the future. There is not an imminent risk to overall library services, but initial discussions about the long-term funding strategy for library services may be warranted in the next several years if property tax revenue growth remains sluggish for the foreseeable future.  Multnomah County Library District’s Financial Policies On June 6, 2024, the Multnomah County Library District Board passed Resolution 2024-049, adopting Multnomah County Library District financial and budget policies. Updated financial policies will be presented to the District Board for approval in June of 2025.
+(Fund)$36,995,058 $31,292,670 $41,265,422$40,074,272 $0$1,119,972 $1,283,557 $1,039,928$1,071,126 $0$157,740 $173,845 $282,503$204,000 $0$18,073 $20,369 $15,000$15,000 $0$1,682,560 $2,386,273 $900,000$900,000 $0$1,931,886 $3,830,091 $3,227,238$1,005,160$4,153 $756 $8,500$2,500 $0$108,781 $89,233$200 $28$42,018,423 $39,076,821 $46,738,591$43,272,058 $0$111,659,046$114,117,545 $0$100,532,942$108,191,772
+(Name of Municipal Corporation)
+(Fund)$34,946,778 $52,721,320 $55,978,508$71,841,035$18,456,969 $2,311,202 $16,141,902$4,850,050$879,879 $2,068,544$1,500,000 $100,000$55,783,626 $57,101,066 $72,220,410$76,691,085 $0 $0
+(Name of Municipal Corporation)
