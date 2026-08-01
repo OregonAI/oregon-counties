@@ -1,0 +1,108 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-492
+title: '492'
+doc_type: policy
+citation: '492'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/492.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 6e6bb300a260244c30c0b5ec15379901833b589b1df02cb092ef89dc00b837a6
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.010
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 492 (492)
+
+## At a glance
+
+492 — policies of Marion County. 2 pages.
+
+## Full text
+
+492.1
+ADMINISTRATIVE POLICIES
+
+SECTION: Financial Management POLICY #: 492
+TITLE: Restrictions on Backfills PROCEDURE #: 492-A
+ ORDER #: 08-49
+DEPT: Finance DIVISION:
+ADOPTED: 4/08 REVIEWED: 4/24 REVISED:
+
+PURPOSE: To establish a policy for setting the conditions under which reduced or
+eliminated program resources may be replaced by general fund transfers.
+
+AUTHORITY: The Marion County Board of Commissioners may establish rules and
+regulations in reference to managing the interest and business of the county
+under ORS 203.010, 203.035 and 203.111.
+
+The Marion County Administrative Policies and Procedures manual of the
+Board of Commissioners outlines the forms and process through which the
+board takes official action on administrative policy, and is the official
+record of county administrative policy.
+
+APPLICABILITY: All county departments.
+
+GENERAL POLICY: It is the policy of Marion County that general fund resources shall not be
+transferred to backfill, i.e., replaced, reduced or eliminated federal, state,
+foundation or other grant or contract funding, or any other program
+resource, unless specific conditions set by the board of commissioners are
+met.
+
+POLICY GUIDELINES:
+
+1. Responsibilities:  The budget officer shall issue budget preparation instructions that require
+departments to submit decision packages for general fund backfill of reduced or eliminated
+program resources, in accordance with the criteria established in this policy.
+
+2. Criteria For Allowing Backfill Requests:  Explicit criteria will be applied as to whether a
+department may request general fund resources to backfill reduced or eliminated grant, contract or
+other program funding.  More than one criterion may be valid.  This policy is a guideline for
+identifying backfills that may be requested; there is no assumption that any backfill request will be
+approved.  A request for backfill is allowed if one or more of the following criteria are met.
+
+2.1 If grant or contract funding has been used for a pilot or model program or project, and the
+board or budget committee has expressed an interest in continuing the program with
+general fund resources if program results are judged successful and desirable.
+SUBJECT:  RESTRICTIONS ON BACKFILLS
+492-2
+
+2.2 If newly imposed charges for services provide a substantial portion of the revenue required
+to replace the reduced or eliminated funds, with the balance to be funded by general fund
+resources.
+
+2.3 If there is proposed a general fund dollar reduction in another program that can replace
+most or all of the grant funds, and if that other program is agreed by the budget committee
+to have a lower priority funding.
+
+2.4 If the backfill requested is for one year only and the budget committee approves a funding
+plan that includes either alternate funding sources or discontinuance of the program or
+project in the following fiscal year.
+
+3. Exceptions:  Exceptions may be granted only by the budget officer.
+
+4. Implementation:  The chief administrative officer shall implement this policy.
+
+5. Periodic Review:  This policy shall be reviewed after the first year for improvements that surface
+during the implementation year, and then at least every three years by the chief financial officer.

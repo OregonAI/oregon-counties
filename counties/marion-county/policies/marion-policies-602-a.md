@@ -1,0 +1,227 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-602-a
+title: '602-A'
+doc_type: policy
+citation: '602-A'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/602-A.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e9b9f6b116286abf989279cf17eb4443597be29674ec984b9d184955180563e3
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 602-A (602-A)
+
+## At a glance
+
+602-A — policies of Marion County. 4 pages.
+
+## Full text
+
+602-A.1
+ADMINISTRATIVE PROCEDURES
+
+TITLE: Discrimination and Harassment Free Workplace PROCEDURE #: 602-A
+DEPT: Human Resources DIVISION: Human Resources
+EFFECTIVE DATE: 8/05 REVIEWED:  REVISED: 01/20
+
+OBJECTIVE: To establish procedures for the handling of complaints involving alleged
+discrimination or harassment in the workplace.
+
+REFERENCE: Policy # 602
+
+POLICY STATEMENT: It is the policy of Marion County to maintain a work environment which is
+free of harassment based on race, color, age, religion, sex, sexual
+orientation, disability, national origin, and any other protected status in
+accordance with applicable state and/or federal law. Discrimination or
+harassment will not be tolerated in the workplace, in the provision of county
+services to members of the public, in any work-related setting outside of the
+workplace, or when using county-owned equipment including vehicles and
+electronic devices.
+
+APPLICABILITY: All Marion County elected officials, department heads, employees,
+prospective employees, volunteers, interns, and contractors.
+
+PROCEDURES:
+
+1. Complaint and Investigation Process
+
+1.1. An employee subjected to workplace harassment has a right to seek redress through:
+1.1.1.  The complaint-reporting procedure outlined below;
+1.1.2.  The Bureau of Labor and Industries’ complaint resolution process
+https://www.oregon.gov/boli/Pages/about_us.aspx; or
+1.1.3.  Under any other available law, whether civil or criminal.
+
+2. Reporting and Receiving Complaints
+
+2.1. The Marion County Human Resources Department must be advised of all complaints of possible
+violations of Policy 602 and will provide oversight and guidance on all investigations into
+allegations of discrimination, harassment, intimidation, retaliation, or whistleblower retaliation, to
+ensure equity and consistency of the process within and across all departments.
+
+2.2. Any employee or volunteer who has observed or has been subjected to any form of
+discrimination, harassment, intimidation, retaliation, or whistleblower retaliation in the workplace
+is expected to report the incident to a manager, supervisor, department head or Human Resources.
+Human Resources directly.
+602-A.2
+
+2.3. Oral or written complaints will be accepted.
+2.3.1.  The employee receiving an oral complaint must write it out and obtain the complainant’s
+signed and dated verification that the prepared statement is correct.
+
+2.3.2.  Upon receipt of a complaint from an employee, volunteer, or a third party, the supervisor
+or manager shall notify their department head. The manager or department head shall file
+an incident report with Human Resources.
+
+2.3.3.  When a complaint is received in Human Resources, the appropriate department head or
+management will be notified that a complaint has been received.
+
+2.3.4.  Following the receipt of a complaint, Human Resources will determine if an inquiry,
+assessment, investigation, or other plan of action is appropriate and will notify the
+department. Human Resources may notify or consult with Legal Counsel or Risk
+Management as appropriate.
+
+2.3.5.  If an investigation is determined to be appropriate, Human Resources, in consultation
+with the department and/or Legal Counsel, will assign a qualified, neutral investigator, or
+an external investigator, to conduct interviews and gather facts on the complaint.
+2.3.5.1. To maintain neutrality in the investigation process, investigators must not have a
+working or personal relationship with the complainant, accused, or witnesses.
+
+2.3.6.  If Human Resources determines that the matter can be investigated internally, then the
+department may assign a qualified, neutral investigator.
+
+2.3.7.  Human Resources shall connect victims of workplace harassment with the county’s
+employee assistance provider for legal, counseling, and support services.
+
+3. Investigative Procedures
+
+3.1. All complaints will be investigated in a professional manner as expeditiously as possible. As
+much as possible and practicable, every effort will be made to maintain the confidentiality of the
+information gained through the complaint and investigative process.
+
+3.2. The investigator will schedule and conduct a thorough interview with the complainant.
+3.2.1.  The complainant will be advised that all information will be kept as confidential as
+possible and practicable; however, complete confidentiality cannot be guaranteed.
+3.2.2.  During the interview, complainant will be asked for specifics regarding the alleged
+discriminatory, harassing, intimidating, or retaliatory incident, including date,
+approximate time, location and any potential witnesses to the occurrence or similar
+occurrences.
+3.2.3.  Following the interview with the complainant or other witnesses, the investigator will
+advise the employee who has been accused that a complaint has been filed against
+him/her.
+602-A.3
+3.2.3.1. The complaint will be discussed with the accused employee who will then be
+interviewed.
+3.2.3.2. The employee will be asked to respond to the allegations and may offer the
+names of additional witnesses for the investigator to interview.
+3.2.3.3. An accused represented employee may request that a union steward be present
+during the interview as an observer only.
+3.2.3.4. Non-union employees may request that some other representative be present.
+
+3.2.4.  The investigator will interview a reasonable number of witnesses who may have
+evidence critical to the investigation.
+3.2.4.1. Represented employees may request that a union steward be present during the
+interview as an observer only.
+3.2.4.2. Non-union employees may request that some other representative be present.
+
+3.2.5.  In order to preserve the validity of the investigative process and minimize workplace
+disruption, all employees interviewed in response to a complaint will be advised to
+answer the questions fully and truthfully, and will be advised to refrain from discussing
+the investigation outside of the interviews with the investigator.
+3.2.5.1. Failure to do so will be considered misconduct that could result in discipline.
+This does not preclude an accused employee from discussing the matter with a
+union representative or other legal representative, as appropriate.
+
+3.2.6.  When all interviews have been completed, the internal or external investigator will
+prepare a confidential report to be submitted to Human Resources.
+3.2.6.1. The investigative report may be reviewed with Legal Counsel and Risk
+Management.
+3.2.6.2. Human Resources will review the report with the appropriate department head or
+department management.
+
+4. Resolution of Complaints
+
+4.1. Supervisors, employees, and volunteers are encouraged to resolve discrimination and harassment
+issues at the department level in conformance with Policy 602. The resolution must involve
+consultation with the Human Resources Department.
+
+4.2. If there is no evidence found to support the allegations in the complaint, or the evidence that is
+found does not rise to the level of a violation of this policy or civil rights laws, both the
+complainant and the accused will be so advised by Human Resources or department management.
+4.2.1.  The employees involved may be offered the opportunity to participate in communication
+training, conflict resolution sessions, team building exercises, or other services or
+training, as appropriate.
+
+4.3. If evidence is found that supports the complaint and indicates a violation of Policy 602 or civil
+rights laws, then the investigation results summary and recommended sanctions will be presented
+to the department head or department management for consideration and determination of
+appropriate disciplinary action.
+602-A.4
+
+4.4. The complainant and the accused employee will be advised by Human Resources or department
+management that the evidence supported the allegations and that appropriate steps will be taken
+to remedy the situation and to ensure that the incidents will not reoccur.
+
+4.5. Both parties will be advised by Human Resources or department management that retaliation for
+filing a complaint under these procedures will not be tolerated, must be reported immediately, and
+could subject the employee to discipline for retaliatory acts.
+
+4.6. Human Resources must maintain a report of the investigation that outlines the resolution or
+actions taken.
+4.6.1.  If training is indicated as part of the resolution, it must occur within three months of the
+proposed resolution.
+4.6.2.  Completion of the training must be reported, in writing, to Human Resources.
+
+4.7. Human Resources will notify the County Administrative Officer if action for a resolution is not
+taken by the department.
+
+4.8. If evidence is found that indicates a violation of Policy 602 based upon whistleblower retaliation
+may be a potential criminal misdemeanor, then the investigation results may be reported to the
+Marion County District Attorney’s Office.
+
+4.9. Human Resources must follow-up with the complaining employee every three months in the year
+following receipt of the complaint, even if the allegation is not substantiated.
+4.9.1.  Human resources must document the meetings with employees and retain the
+documentation with the investigation records.
+
+5. Employee Rights in Civil or Criminal Charges Based on Whistleblower Disclosures:
+
+5.1. An employee who is civilly or criminally charged in relation to protected whistleblower
+disclosures may assert an affirmative defense pursuant to ORS 659A (2016).
+
+5.2. An employee may not assert the affirmative defense if:
+5.2.1.  The employee is an attorney;
+5.2.2.  The information is disclosed in relation to the representation of a client and the employee
+is employed, retained, supervised, or directed by an attorney; or
+5.2.3.  The information:
+5.2.3.1. Is disclosed or redisclosed by the employee or at the employee direction to a
+party other than to a state or federal regulatory agency, law enforcement
+agency, manager, or attorney; or
+5.2.3.2. Is stated in a commercial exclusive negotiating agreement with Marion County,
+provided that the agreement is not related to the employee’s employment with
+Marion County; or
+5.2.3.3. Is stated in a commercial nondisclosure agreement with Marion County,
+provided that the agreement is not related to the employee’s employment with
+Marion County.

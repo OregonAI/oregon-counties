@@ -1,0 +1,99 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-416-a
+title: '416-A'
+doc_type: policy
+citation: '416-A'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/416-A.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 1eef1db3388a561e30cb202408668231682219173dcec797722ea7f57d7d120c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 416-A (416-A)
+
+## At a glance
+
+416-A — policies of Marion County. 2 pages.
+
+## Full text
+
+A.1
+ADMINISTRATIVE PROCEDURES
+
+TITLE: Modification of Net Working Capital Budget PROCEDURE #:  416-A
+DEPT: Finance DIVISION:
+EFFECTIVE DATE: 12/17/2014 REVIEWED:  REVISED:
+
+OBJECTIVE: To establish a procedure for adjusting budgeted actual net working capital
+to replace estimated net working capital during budget execution.
+
+REFERENCE: Policy #416.
+
+POLICY STATEMENT: Departments are required to submit supplemental budget requests to modify
+adopted budgeted net working capital estimates to actual net working
+capital after the actual has been calculated and recorded in the financial
+information management system (FIMS).
+
+APPLICABILITY: Department heads, elected officials, and other employees who are
+responsible for budget management at the fund and program level.
+
+PROCEDURES:
+
+1. D etermination of Actual Net Working Capital for the Current Fiscal Year
+
+1.1. Current fiscal year actual net working capital is recorded in FIMS in the first quarter of the
+fiscal year.  Departments should review Income Summary reports and note variances
+between budget and actual net working capital at fund, program and service levels to begin
+planning for a supplemental budget.
+
+1.2. General Fund and Central Services Fund departments do not need to submit supplemental
+budgets to adjust net working capital as there is no ending or beginning fund balances for
+these funds at the department level.  General Fund net working capital is at the non-
+departmental level while the Central Services Fund is set up as a self-balancing fund, e.g.,
+it has no net income or loss.  The Finance Department is responsible for any post-budget
+adoption modifications to the net working capital budget for the General Fund.
+
+2. Prepare a Supplemental Budget Request
+
+2.1 Departments will be notified that a supplemental budget stage is open and that it is the
+appropriate stage to enter net working capital modifications.
+
+2.2 Net working capital budget adj ustments are entered in the budget program (BUD), using
+either positive or negative amounts according to whether the budgeted net working capital
+is to be increased or decreased to the actual (FIMS) balance.  Entry is at the same level as
+the adopted budget amounts which may be to the project level.
+2.3  In certain situations, redistribution of net working capital between services (or projects)
+within a program or among programs within a fund may be allowed.  If the revenues of
+any service are legitimately transferable to or from other services or programs within a
+fund, then the net working capital may also be transferable.  Departments are responsible
+for knowing the state, federal or donor restrictions, if any, on shifting net working capital
+derived from grants, contracts or donations from one service to another.
+
+3. The Budget Officer and Chief Financial Officer are responsible for ensuring that a countywide
+supplemental budget request includes requests to adjust the net working capital budget for each
+fund that meets the criteria.
+
+ATTACHMENTS:  None

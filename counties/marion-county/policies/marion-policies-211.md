@@ -1,0 +1,215 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-211
+title: '211'
+doc_type: policy
+citation: '211'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/211.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9294099c5d47ec98626e366d0917fcfd25a90c09a0caf118463b138b33981068
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.010
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 211 (211)
+
+## At a glance
+
+211 — policies of Marion County. 4 pages.
+
+## Full text
+
+211.1
+ADMINISTRATIVE POLICIES
+
+SECTION: General Administration POLICY #: 211
+TITLE: PROCEDURE #: 211-A
+
+Customer Service Program
+
+ORDER #: 07-11
+DEPT: Board of Commissioners DIVISION: N/A
+ADOPTED: 1/07 REVIEWED: 12/12 REVISED:
+
+PURPOSE: Provide a philosophy and standards to create a uniform countywide
+customer service program.
+
+AUTHORITY: The Marion County Board of Commissioners may establish rules and
+regulations in reference to managing the interest and business of the county
+under ORS 203.010, 203.035 and 203.111.
+
+The Marion County Board of Commissioners expresses the governing
+body’s formal, organizational position of fundamental issues or specific
+repetitive situations through formally adopted, written policy statements.
+The policy statements serve as guides to decision making for both elected
+and appointed officials on the conduct of county business.
+
+The Administrative Policies and Procedures Manual of the Board of
+Commissioners outlines the forms and process through which the board
+takes official action on administrative policy, and is the official record of
+county administrative policy.
+
+APPLICABILITY: All County Departments and Employees
+
+GENERAL POLICY: To deliver quality products and services in a timely, feasible, and cost-
+effective manner, which meet our customers' expectations, through well-
+defined customer service program standards and training that support
+county values and assist members in program implementation.
+
+POLICY GUIDELINES: The components outlined below will assist the county in furthering our
+customer service program. More detail for each component will be included
+in an implementation plan, to further clarify and to assist both customers
+and employees and volunteers to understand and carry out our programs.
+
+211.2
+1. Value Statements :  To assure a successful customer service program that is responsive to
+customers needs, Marion County has established these values to guide our service and product
+delivery:
+
+1.1. Treat customers (both internal and external) professionally with dignity, honesty, courtesy,
+humility, respect, and fairness.
+
+1.2. Seek to understand through active and objective listening.
+
+1.3. Respond in a timely, efficient and responsible manner.
+
+1.4. Respond with accurate, complete, and understandable information.
+
+1.5. Be open and collaborate when problem solving.
+
+1.6. Provide seamless services and programs.
+
+1.7. Continue to improve services through soliciting feedback.
+
+1.8. Employ well-trained, knowledgeable staff and empower them to remove barriers.
+
+1.9. Provide customers with good value for the dollar.
+
+1.10. Use resources (people, time, assets, and funds) efficiently and effectively.
+
+1.11. Acknowledge excellence in service.
+
+1.12. Hold employees and volunteers accountable to service standards.
+
+1.13. Employ appropriate technology to make information accessible and enhance service
+delivery.
+
+2. Definitions
+:  (For the purposes of the county program)
+
+2.1. Customers:   any group, organization or individual who receives a product or service from
+the county. Customers may be internal (employees and volunteers) or external (those
+outside of county government).
+
+2.2. Customer Service:   the process of delivering efficient, fair, cost effective and satisfying
+products and services with the goal of meeting the customer's needs.
+
+2.3. Product:   anything that is produced as the result of labor or thought.
+
+2.4. Service :  the activity of providing a product, assistance or information to a customer.
+
+211.3
+3. Program Components :  An effective customer service program consists of several components.
+The following are those that have been identified for inclusion in our program.
+
+3.1. Service Standards:   Service Standards are established behaviors, expectations, targets,
+and goals that support excellence in providing service and products to our customers. The
+county has determined certain standards are desirable and necessary to define our program.
+These standards are established for all employees and volunteers and focus on key areas.
+The following describes these key areas and the attached implementation plan provides
+details on what each standard is and how it is to be implemented.
+
+3.1.1. Accessibility:  To meet customers' needs, products and services must be both
+accessible and easy to find. To assure accessibility, standards for location of
+services, time of operation, how services are provided, and member availability
+will be defined. The county is committed to providing customers with various
+practical mechanisms to facilitate access to our services and information how to
+receive them.
+
+3.1.2. Timeliness of Response:  The delivery of products and services are often time
+sensitive and customers may have deadlines to meet. To assist customers in
+meeting deadlines, clear response times are necessary.
+
+3.1.3. Conduct:  The key to delivering quality customer service is in the attitude that
+employees and volunteers exhibit when interacting with customers. Specific
+behavioral standards are necessary to assist employees and volunteers in providing
+consistent and positive service.
+
+3.1.4. Quality:  The quality of products and services is critical to our customers. These
+will adhere to the individual departments' quality standards and specifications to
+assure consistency, performance and safety where applicable. Services, whether
+presented in person or in written correspondence, should be timely, accurate and
+presented in a clear, concise, and understandable manner.
+
+3.1.5. Resolution:  It is important that employees and volunteers strive to meet the
+customers' expectations with an emphasis on what we can do to resolve the
+customer's issues. County products and services are provided to customers who
+request them as well as those we are required to provide due to health, safety or
+legal reasons.
+
+Regardless, customers expect these products and services to meet their needs by
+being high quality and delivered in a timely, fair, and complete manner. It is the
+county's expectation that this will be accomplished. However, there will
+occasionally be times when this is not the case and the customers feel that they
+have not received the expected results or a resolution. For those customers whom
+we have not been able to satisfy through all other means, a customer complaint
+process will be established.
+
+211.4
+3.2. Accountability:   Standards alone will not assure the success of a program. The county, at
+all levels, must hold employees and volunteers accountable by providing feedback and
+periodic monitoring of individuals and department compliance with our service standards.
+Minimally this should be provided to employees and volunteers during their annual
+evaluations and through annual department surveys.
+
+3.3. Communication:   Communications with customers are key in providing an effective and
+successful program. It allows us to understand the customers' expectations and perceptions,
+while at the same time ensuring our products and services are consistent and as we
+represent them to be.
+
+3.4. Surveys:   Customer satisfaction information is needed to continuously improve the way
+we serve our customers and meet their needs and expectations. Conducting surveys gives
+us a way to gather this information. Once analyzed, the data can serve as a significant
+catalyst for innovation and improvement to increase customer satisfaction. Each county
+department, in conjunction with a. countywide plan, will at least biennially conduct a
+customer service survey, analyze the data, and publish the results.
+
+3.5. Employee Recognition/Awarding for Excellence in Customer Service:   Rewarding
+employees and volunteers for providing excellent customer service is important. When
+acknowledged publicly, not only does the service become a model for others, but it also
+reinforces the value of the individuals and the jobs that they do.
+
+3.6. Training:   To enhance our customer service program, a strong training program,
+conducted frequently and over an extended period, will be provided. Its goal will be to
+reinforce the standards and expectations of our program through education.
+
+4.  Periodic Review :  The implementation plan will be developed, reviewed and revised from time to
+time by workgroups. The workgroups will be given the responsibility to address specific portions
+of the program, develop recommendations, work with the affected departments, and draft language
+for inclusion into the implementation plan.
+
+Adopted:  1/07
+
+Reviewed:    12/12

@@ -1,0 +1,160 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-302-a
+title: '302-A'
+doc_type: policy
+citation: '302-A'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/302-A.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 6a385f6fce0a337166d7268ed8340fdc1b9a62fc41ca5af0a7d2f2f0f25acdf9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 302-A (302-A)
+
+## At a glance
+
+302-A — policies of Marion County. 3 pages.
+
+## Full text
+
+302-A.1
+
+ADMINISTRATIVE PROCEDURES
+
+TITLE: Leave Donation Program PROCEDURE #: 302-A
+  DEPT:      Human Resources DIVISION: Human Resources
+EFFECTIVE DATE:     03/95 REVIEWED: 12/09 REVISED:                  09/20
+
+OBJECTIVE: To establish a procedure for the leave donation program.
+REFERENCE: Policy # 302
+POLICY STATEMENT: The Leave Donation Program allows employees to voluntarily transfer
+accrued vacation hours to the sick leave account of an eligible employee
+who has exhausted all accrued leave and benefits.
+
+APPLICABILITY:  All benefits-eligible county employees who are unable to perform the
+duties of their position because of a serious illness or injury which is life
+threatening or which will require a lengthy convalescence.
+
+PROCEDURES:
+
+1. Requesting Employee
+
+a. Any employee qualifying as a requesting employee as outlined  in Policy 302 may
+request a donation of hours by completing the Request to Receive Donated Vacation
+Leave form.  The form may be obtained from human resources (HR) or the HR intranet
+page.
+
+b. Requests for leave donation must be submitted to the HR Leave Administrator for review
+and approval.
+
+c. The request for donated leave will be reviewed in a confidential and objective manner.
+All determinations made by HR regarding qualification for donated leave are final.
+
+d. The requesting employee shall provide the following information:
+
+1) Name, employee number, department, work location, work phone, and
+employment status;
+2) Medical certification from the attending physician or other applicable health care
+provider with respect to the qualifying condition submitted with the Family and
+Medical Leave Act (F M LA ) application which meets the applicability
+definition under the policy; and
+3) Any additional information that may be required to verify the information in the
+recipient’s leave request.
+SUBJECT:  LEAVE DONATION PROGRAM
+302-A.2
+
+e. The requesting employee must have exhausted all accumulated leave and benefits
+including compensatory time, personal holidays, vacation leave, sick leave, and
+compensation credits prior to being eligible to use any donated leave hours.
+1) If it can be shown that all accrued leave will be exhausted during the anticipated
+period of leave, the request may be made prior to the actual qualifying event.
+
+f. The maximum amount of donated leave available for employees who work 40 hours per
+week will not exceed 480 hours, and the maximum hours of donated leave available for
+employees who work 37.5 hours per week will not exceed 450 hours in a qualifying event.
+1) The county will determine eligibility under this provision by the use of the rolling
+12-month basis referenced in the Policy 302.
+
+2. Donating Employee
+
+a. An employee may donate vacation hours by completing the Authorization to Donate
+Vacation form found on the HR intranet site  and submitting it to the department payroll
+representative.
+
+b. Leave may be donated only in hour increments.
+
+3. Human Resources Responsibility
+a. The leave administrator will notify the requesting employee of their eligibility for donated
+leave.
+
+b. Human resources will determine, within 5 business days of receipt of the request, whether
+the request for leave donation is consistent with the policy.
+
+c. If the request is approved, HR will notify the department payroll representative
+of the decision.
+
+d. If the request is denied, HR will notify both the department payroll representative and
+the employee. The employee will be notified by letter.
+
+e. The request will be filed in the employee’s family medical leave file with the final
+decision and all supporting documentation.
+
+f. The department payroll representative will generate an e-mail to department employees
+providing notification of the request for donated leave. If sufficient vacation hours are not
+donated to cover the qualifying absence, the department payroll representative will
+generate an all-county e-mail requesting vacation leave donations. HR will provide a
+standard notice format that should be used for this purpose.
+
+4. Department Responsibility
+
+a. The department representative is responsible for collecting Authorization to Donate
+Vacation Leave forms from all donating employees.
+
+SUBJECT:  LEAVE DONATION PROGRAM
+302-A.3
+b. Payroll representatives will verify that the donating employees have sufficient hours
+available to donate and will then forward the Authorization to Donate Vacation Leave
+forms to payroll for processing.
+
+5. Payroll Responsibility
+
+a. Payroll will reduce the donor’s vacation balance according to the approved request forms
+submitted by the department payroll representative.
+b. Payroll will notify the donor of the transfer of leave.
+c. Payroll shall file the original Authorization to Donate Vacation Leave form in the
+donating employee’s payroll master file and a copy in the recipient’s payroll master file.
+d. Vacation leave donations will be processed by date of submission until the approved
+amount of donated leave is reached.
+
+e. Payroll representatives will only submit donated hours needed for the pay period that
+payroll is processing.
+
+f. Vacation leave donations that exceed the approved amount needed by the requesting
+employee will be returned to the donating employees and will not be processed.
+
+g. Upon notification of the donation of hours, payroll will credit the receiving employee’s
+record with the authorized hours, credited as sick leave. A copy of the approved leave
+report shall be retained in Payroll.

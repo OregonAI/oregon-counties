@@ -1,0 +1,185 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-604
+title: '604'
+doc_type: policy
+citation: '604'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/604.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 85347709722f016b8e20152b4e29b5230b66f4d0668efdea021575531c24479f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.010
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 604 (604)
+
+## At a glance
+
+604 — policies of Marion County. 3 pages.
+
+## Full text
+
+604.1
+ADMINISTRATIVE POLICIES
+
+SECTION: Professional Conduct POLICY #: 604
+TITLE: Nepotism
+PROCEDURE #: 604-A
+ORDER #: 19-110
+DEPT: Business Services PROGRAM: Human Resources
+ADOPTED: 11/05 REVIEWED:  REVISED: 09/19
+
+PURPOSE: The purpose of this policy is to establish rules for managing nepotism and
+personal relationships in the workplace with the objective of maintaining
+the public trust and confidence in the integrity and professionalism of the
+decisions made and the services provided by Marion County.
+
+AUTHORITY: The Marion County Board of Commissioners may establish rules and
+regulations in reference to managing the interest and business of the county
+under ORS 203.010, 203.035 and 203.111, 203.230 and 244.177.
+
+ The Marion County Board of Commissioners expresses the governing
+body’s official, organizational position on fundamental issues or specific
+repetitive situations through formally adopted, written policy statements.
+Policy statements serve to provide rules for public officials on the conduct
+of county business.
+
+ Marion County Administrative Policies and Procedures outline the forms
+and process through which the Board of Commissioners takes formal action
+on administrative policy. They are the official record of county
+administrative policy.
+
+APPLICABILITY: All county departments, elected officials, and employees.
+
+GENERAL POLICY: County employees are entrusted with performing work in a manner
+consistent with the highest professional and ethical standards. It is the
+policy of Marion County to prevent favoritism, bias, unequal treatment, or
+conflict of interest based on an employee’s familial, personal, or financial
+relationships.
+
+DEFINITIONS:
+
+Nepotism: Favoritism or bias shown by those acting in the capacity of a supervisor or by persons with
+oversight authority to family members or someone with whom they have a close personal or financial
+relationship.
+
+SUBJECT: NEPOTISM
+
+604.2
+Relative/family member: spouse, domestic partner, fiancé, children, step-children, foster children, parents
+(including foster parents and in loco-parentis relationships), step-parent, brother, brother-in-law, sister,
+sister-in-law, son-in-law, daughter-in-law, mother-in-law, father-in-law, aunt, uncle, niece, nephew,
+grandparent, grand-child.
+
+Personal Relationships:
+1. Relative, family relationship, or personally involved relationships that are consensually undertaken by
+both individuals.
+2. A relationship that gives rise to real or perceived conflict of interest and that includes relatives, close
+personal relationships, and financial relationships.
+3. A relationship where one person is financially dependent on the other.
+4. Persons who reside in the same household or have a romantic relationship or a relationship that has
+the effect of influencing judgment or employment actions of either party to the relationship.
+
+In loco parentis: Relationships that involve the day-to-day responsibilities to care for house or provide
+financial support to an individual. A biological or legal relationship is not necessary. The continuing
+relationship between the parties after the individual reaches the age of majority constitutes an in loco
+parentis relationship.
+
+Supervisory or oversight authority: When one employee has direct influence on decisions concerning
+selection and hiring, which includes making recommendations for hiring, assignment or review of work,
+providing input on employee performance evaluations, transfer, promotion, grievance review, or other
+terms and conditions of employment over another employee.  This includes supervisors and lead workers.
+
+POLICY GUIDELINES:
+
+1. RESPONSIBILITIES
+1.1. An employee may not directly or indirectly supervise a family member or an individual with
+whom there is a close personal or financial relationship.
+1.1.1. If an employee is in the position of supervising or having ultimate supervisory authority
+over a family member or individual with whom there is a close personal or financial
+relationship, supervisory authority must be delegated up the chain of command to the next
+level of management.
+
+1.2. Department heads are responsible for:
+1.2.1. Ensuring that no appointment is made in their departments that may violate this policy; and
+1.2.2. Monitoring changes in employee reporting relationships after initial hire to ensure
+compliance with this policy.
+
+1.3. It is the responsibility of each employee to avoid being in a position of supervising or being
+supervised by an immediate family member or someone with whom there is a close personal or
+financial relationship.
+1.3.1. Employees that establish a close personal or financial relationship with other employees
+must inform their department head and human resources, in writing, within five (5)
+business days of the beginning of the relationship or the change in their reporting
+relationship.
+SUBJECT: NEPOTISM
+
+604.3
+
+1.4. Employees must not participate in any personnel action that may impact the employment of a
+family member or close personal, or financial relationship, including:
+1.4.1. Appointing, employing, or promoting;
+1.4.2. Discharging, firing, or demoting;
+1.4.3. Interviewing; or
+1.4.4. Providing input in the appointment, evaluation, employment, compensation, promotion,
+discharge, firing or demotion.
+
+1.5. Employees who become family members or establish a close personal or financial relationship
+with other employees may continue employment as long as the relationship does not result in
+nepotism as defined by this policy.
+
+1.6. Provided no supervisory or oversight authority exists, nothing in this policy is intended to prevent
+family members or individuals in a personal or financial relationship from being employed by
+Marion County.
+
+1.7. Each employee is responsible for complying with this policy. Policy violations, including but not
+limited to failure to disclose personal relationships, will be investigated by the department in
+consultation with human resources and may result in progressive discipline up to and including
+termination of employment.
+
+1.8. When a self-reported close personal relationship is made, the employees and the county shall
+jointly make a good faith effort to find an alternative assignment for one of the two employees.
+1.8.1. Depending on business need, this may include but is not limited to: restructuring duties;
+assignment to another position; assignment to another shift; or change in supervision.
+1.8.2. If no alternative assignment is available within 60 business days, one of the employees will
+be required to resign. In the event that neither employee is willing to resign, the less senior
+employee will be laid off.
+
+1.9. Managers, supervisors and lead workers may be disciplined for taking employment actions based
+upon close personal or financial relationships.
+
+2. EXCEPTIONS
+There are no exceptions to this policy.
+
+3. IMPLEMENTATION
+Department heads are expected to be knowledgeable of and shall be responsible for implementing this
+policy in their respective departments.
+
+4. PERIODIC REVIEW
+This policy shall be reviewed by Human Resources at least every three years, or more often if needed,
+and updated as necessary.
+
+Adopted: 11/05
+Revised:  09/19

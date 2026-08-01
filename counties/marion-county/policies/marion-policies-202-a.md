@@ -1,0 +1,367 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-202-a
+title: '202-A'
+doc_type: policy
+citation: '202-A'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/202-A.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9f40ebbceed8871c816d301f7ec158b83d0a35ef5898e31c3986c15cfcacf3da
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 192.410
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 202-A (202-A)
+
+## At a glance
+
+202-A — policies of Marion County. 12 pages.
+
+## Full text
+
+202-A.1
+ADMINISTRATIVE PROCEDURES
+
+TITLE: Public Records Management PROCEDURE #: 202-A
+DEPT: County Clerk’s Office  DIVISION: n/a
+EFFECTIVE DATE: 4/84 REVIEWED: 2/09 REVISED: 04/19
+
+OBJECTIVE: To establish a procedure for implementation of Division 17 Oregon
+Administrative Rule (OAR) Digital Imaging systems and accessing County
+Archive services.  The Clerk, as necessary and consistent with the policies
+may revise these procedures.
+
+REFERENCE: Policy # 202.
+
+POLICY STATEMENT: Establish an integrated approach by Marion County for managing public
+records from their creation to their ultimate disposition.
+
+APPLICABILITY: All officers, employees and agents for Marion County.
+
+PROCEDURES:
+
+DIGITAL IMAGING SYSTEMS
+
+1. System Documentation:  All digital imaging systems that store digitized public records with a
+retention period of ten years or more shall have system documentation on file with the Marion
+County Clerk, no later than 30 days of the install of new system.  This documentation shall
+include a narrative description of the digital imaging system, the retention period of the original
+records, the header label used in the system, and an estimate of the life expectancy of the digital
+imaging system.  If the life expectancy of the system is less than the retention period of the records
+it stores, system documentation shall also include a description of how access to digital images of
+records will be maintained.
+
+2. Image Quality:  Digitized document shall be verified after digitization.  Documentation describing
+each inspection shall be maintained for each digital imaging system and shall include the date of
+inspection, name of inspector(s), group of documents inspected, and sample size (if applicable).
+Scanner Quality control procedure shall conform to ANSI/AIIM MS44-1988.  Recommended
+Practice for Quality Control of Image Scanners, which is incorporated by reference and is
+available from the Association for Information and Image Management, 1100 Wayne Avenue,
+Suite 1100 Silver Spring, MD 20910.  In addition, the following standards apply to digital images:
+
+a. Office documents containing fonts no smaller than six-point shall be scanned at a
+minimum density of 200 dpi.  Documents containing fonts smaller than six-point,
+architectural and engineering drawing, maps, and line art shall be scanned at a minimum
+density of 300 dpi.
+
+202-A.2
+b. If documents are digitized using fax technology, the fax mechanism must be capable of
+transmitting and receiving both 200 and 300 dpi images.
+
+c. Digitized documents shall support CCIT group 3 or 4 compression techniques.  Digitized
+photographs and halftone images shall also support or provide a gateway to JPEG
+compression techniques.
+
+3. Indexing:  All documents in a digital imaging system shall be indexed and retrievable.  Document
+image indexes shall be preserved as long as the document images are maintained in the system.
+
+4. Storage Requirements:
+
+a. The following standards apply to the storage of digital disks containing public records:
+
+1) Environmental conditions for the operation, maintenance, and storage of digital
+imaging system equipment and storage media shall meet or exceed manufacturer’s
+specifications.
+
+2) Digital imaging system equipment shall be maintained in proper working condition.
+Manufacturer’s guidelines for preventive maintenance shall be followed and
+defective equipment shall not be used.
+
+b. In addition to the standards in section (1) of this rule the following standards apply to the
+long–term storage of information on digital disks:
+
+1) Digital images shall be recorded and stored by means of a technology that does not
+allow their subsequent revision or replacement.
+
+2) The digital disk substrate shall be either polycarbonate or tempered glass.
+
+3) Only Digital disks with a 20-year life expectancy, based on accelerated aging tests
+linked to a specific disk location, may be used.
+
+4) Digital imaging system storage media shall be inspected annually.  This inspection
+should include visual examination of the medium and its housing, followed by the
+retrieval or play-back of recorded information.  Documentation describing each
+inspection shall be maintained for each digital imaging system and shall include the
+date of inspection, name of inspector(s), and storage media inspected.  Link to form
+(will be set up as link at time of release).
+202-A.3
+5. Expungement of information stored on WORM Media:  Expungement of digital images stored on
+WORM digital disks shall conform to the Expungement of Information Recorded on Digital
+Write-Once-Read-Many (WORM) Systems (TR28-1991) which is incorporated by reference and
+is available from Association of Information and Image Management, 1100 Wayne Avenue, Suite
+1100, Silver Spring, MD 20910.
+
+6. Access:  Before any agency acquires or makes a major modification to any digital imaging system,
+equipment or software to store or retrieve public records, it shall assure that such proposed system,
+equipment or software adequately provides for the rights of the public to access and copy public
+records under ORS 192.410 to 192.505:
+
+a. Agencies shall not enter into contracts with any person or entity if the contract will impair
+the right of the public under state law to inspect or copy the agency’s nonexempt public
+records existing online in, or stored on a device or media in connection with digital
+imaging system owned, leased or otherwise used by an agency in the course of its
+governmental functions.
+
+b. Digital imaging systems shall use non-proprietary header labels, the system must be able to
+read images with non-proprietary header labels and produce images with nonproprietary
+header labels.
+
+7. Retention:
+
+a. Public records with a scheduled retention period of less than 100 years may be stored on
+digital disks.  The original record may be disposed of following verification of acceptable
+digital image quality.  Images stored on digital disks shall be copied onto new digital disks
+after no more than ten years.  Images must be recopied until the retention period of the
+original public records has been satisfied.
+
+b. Public records with a scheduled retention period of 100 years or more may be stored on
+digital disk devices provided that the original records are retained in hard copy or on
+microfilm for the entire scheduled retention period.
+
+ARCHIVES
+
+1. Sending physical records:
+
+a. It is the requestor’s responsibility to insure proper packing of the physical records.
+
+1) Files are in alphabetical, numerical or chronological order.
+
+2) Numbering in sequential order of multiple boxes.
+
+3) Inventory list should be made for each box sent to Archives.
+
+4) Files are facing in the same direction as the front of the box, seam to the back.
+
+202-A.4
+5) Files are packed with a minimum of 2 inches of empty space.  Two fingers should
+fit between files and box.
+
+6) There will be no additions to an archived box.  Once a box is sent to archives it is
+considered complete in its inventory.
+
+7) Absolutely no hanging files are to be used as file holders for archiving in boxes.
+
+b. Obtain an official Marion County archive box that will carry a charge (current market
+value per box). The agency is also charged per lb of box when a box is burned.
+
+c. Obtain an official Marion County sticker for the archive box; follow directions on Exhibit
+ # 1 for sticker placement.
+
+d. Supplies: contact Archives 503.588.5490 OR Office Max P512513 to request boxes and
+lids.
+
+e. Transmittal will be available online or by e-mail: archive@co.marion.or.us.
+
+f. Directions for placement of archive sticker (Exhibit #1):
+
+1) Facing the box with handles on the side with the seam of box to the back, label
+shall be placed on the left side toward the middle.
+
+2) Front of the box is for the Archives information only.
+
+3) Handles shall be punched to the inside of the box.
+
+4) No staples shall be put on lids.
+
+5) Weight may not exceed 35 lbs per box.
+
+g. Directions to fill out Archive sticker (Exhibit #2):
+
+1) Description of label (no fill).
+
+2) Department or agency.
+
+2a) Division if different.
+
+3) Type of documents.
+
+4) From: alpha, chronological or numeric.
+
+4a) Same as 4.
+
+5) Must be the date range of records.
+202-A.5
+
+5a) Must be box numbers in sequential order if in a grouping.
+
+6) Inventory: Optional (your option).
+
+6a) Restricted: Optional mark yes or no.
+
+7) Date of Receipt: Option of Archives.
+
+8) Destruction date. (Departments option or Archives option).
+
+h. Sender will need to fax transmittal (Exhibit #3 and #4).
+
+1) Agency (must be agency name) example: Business Services, District Attorney,
+Sheriff’s office etc.
+
+2) Division or office example: Payroll, Support Enforcement, and Corrections etc.
+
+3) Accession number is reserved for Archives. This is the number that will be
+assigned by archives to correctly identify the group of boxes going to Archives.
+
+4) Item Number: This section identifies specific groups. Example:
+
+i. Different types of documents.
+ii. Different range of years.
+iii. Different age groups with different retentions adult versus juvenile.
+
+5) Total number of boxes.  Boxes for item number.
+
+6) Title of Record Series. Use the OAR’s Retention Schedules for this, and insert the
+current OAR #.  Example: Employee time records (title) 166.150.0155(3)(number).
+
+7) Retention period:  Time of retention required by OAR - Employee time records
+retention is 4 yrs.
+
+8) Covering Dates.  Beginning date of files example 1/1/2007.
+
+9) Covering Dates.  Ending Date of files examples 12/31/2007.
+
+10) Signature of person archiving for the agency or division.
+
+11) Date of signature for the person from the agency or division.
+
+12) Signature of person picking up the boxes for archives.
+
+13) Date Archives person signed when picking up.
+
+202-A.6
+2. Requesting Physical records from Archives:
+
+a. The person working for the agency must call Archives @ 503.588.5490 and have the
+following available for archive to retrieve the file:
+
+1) Callers name.
+
+2) Department.
+
+3) Phone number of requestor.
+
+4) Accession number.
+
+5) Item number if needed.
+
+6) Box number.
+
+7) File identified as: name, date or alpha letter.
+
+8) If needed:  birth date of client.
+
+9) If needed:  identifying number on file.
+
+10) If needed:  number of files for this request.
+
+b. The person requesting files must work for the agency that owns the file.  Example:  The
+DA’s office cannot request files owned by Sheriff’s office.  The DA’s office must go
+through the Sheriff’s office & the Sheriff’s office will need to make the request for the file.
+
+c. Some agencies give Archives a list of people who may request (confidential files) from
+their agency. Archives will check with contact from agency if somebody who is not on that
+list but is requesting a file from that agency’s files.
+
+d. Archives will retrieve requested files within 24 hrs of request.
+
+e. Archives send files through the inter-office mail to outlining offices, which will delay
+delivery of requested files.
+
+3. How destruction of physical records from archival storage happens:  Destruction transmittal must
+be completed.  Either Marion County Archives or agency can complete but only when retentions
+on the documents are met (Exhibit #5).
+
+a) Completed with Agency name and with division of agency if applicable.
+
+b) Date of request.
+
+c) Record series and title.  Follow OAR’s titles.
+202-A.7
+
+d) Inclusive dates of the records up for destruction.
+
+e) Cubic feet (issued archive boxes are considered to measure 1 cubic foot).
+
+f) Retention is the amount of years required under OAR for this record series.
+
+g) Retention authorization is the OAR number 166.150.---- ( ).
+
+h) Department manager will need to sign two originals destruction transmittals and send to
+Archives.
+
+i) Archives will check and sign off authorization for destruction.
+
+j) Once a truck capacity is met for burning, archives will arrange for a large enough truck to
+take. (Agency will be charged per box at this time).
+
+k) Once destruction authorizations have been signed for recycle destruction, Garten Services
+will be called for pick up at Archives.
+
+l) Once the destruction happens Archives will sign off as to when and how the records were
+destroyed.
+
+m) One original will be sent to the agency for their records and one original will be kept by
+archives.  These are permanent records that must be kept to document destruction of public
+records.
+
+E-MAIL:
+
+To be entered at a later date.
+
+202-A.8
+
+Exhibit 1
+202-A.9
+
+Exhibit 2
+202-A.10
+
+Exhibit 3
+202-A.11
+
+Exhibit 4
+202-A.12
+
+Exhibit 5

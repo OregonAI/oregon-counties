@@ -1,0 +1,157 @@
+524-A.1
+         ADMINISTRATIVE PROCEDURES
+
+TITLE: Building Security and Access PROCEDURE #: 524-A
+DEPT: Business Services PROGRAM: Risk Management
+EFFECTIVE DATE: 1/09 REVIEWED: 05/25 REVISED:  06/25
+
+OBJECTIVE: To establish procedures for requesting and issuing keys and keycards for
+access to buildings owned and operated by Marion County.
+
+REFERENCE: Policy #524
+
+POLICY STATEMENT: To establish the requirements for gaining key and keycard access to Marion
+County facilities.
+
+APPLICABILITY: All county departments, county employees, volunteers and contracted
+providers who may need key or keycard access.
+
+PROCEDURES:
+
+1. Definitions:
+1.1. County Access Coordinator (CAC):  A Business Services employee who assigns building access
+per department needs that align with policy 524.
+1.2. Department Access Coordinator (DAC):  An employee(s) assigned by their department head or
+elected official to coordinate key and keycard access for that department.
+1.3. Access Request Form: An electronic form that DACs submit online to Business Services to
+request building access.
+1.4. Keycard / Key fob: An electronic key that is programmed to provide entry into specific doors
+and/or buildings at specific times.
+1.5. Key System Hierarchy: A multiple-level key structure where each level in the hierarchy provides
+a different level of access.
+1.5.1. Great Grand Master Key (GGM): A key that opens all county locks within that key system
+hierarchy.
+1.5.2. Single Key Different (SKD): A unique key that accesses areas where materials that are
+sensitive in nature are stored and requires additional security. SKD locks cannot be
+accessed by any other key in the key structure except the GGM.
+524-A.2
+1.5.3. Grand Master Key (GM): A key that opens all locks within a specific building, except for
+SKD locks or doors with a keycard reader.
+1.5.4. Master Key (MK):  A key that provides access to a group of rooms within a department or
+building.
+1.5.5. Department Key (DK): A key that provides access to a single room, office, or door within
+an individual building.
+1.6. KeyWatcher Box: An electronically controlled lock box that holds metal keys for employees to
+check out on an as needed basis.
+2. Keycard Access and Issuance:
+2.1. Departments requesting that an employee possess more than one active keycard must first receive
+authorization from their department head or elected official. Upon receiving authorization, DACs
+must submit the request through the Access Request Form. The CAC will request authorization
+from the Marion County CAO prior to activating additional keycards.
+2.1.1. Upon receipt of CAO’s access decision, the CAC shall let the DAC know the outcome of
+the decision.
+2.1.2. The Access Request Form can be found on the Business Services intranet page or by
+clicking: https://apps.intra.co.marion.or.us/BS/FM/AccessRequest/
+2.2. Employees may be issued appropriate keys and keycard(s) needed to access offices and/or work
+areas as determined by the department director or elected official per policy 524.
+2.2.1. In the case of a lost or forgotten keycard, see Procedure 524-B.
+2.3. All requests for keys, keycards, or key fobs must be submitted electronically through the Access
+Request Form by a DAC. Authorization from the employee’s immediate supervisor and DAC
+must be received by Business Services.
+2.4. Business Services will issue keys and keycards to new employees during the county’s new
+employee orientation, Right Start.
+2.5. At the time a position recruitment is filled, DACs will submit to Business Services the
+employee’s name, department, job title, office location, start date, and employment status on the
+Access Request Form. Business Services will establish the new employee’s keycard access and
+assign keys if necessary. All issued items will be inventoried and signed for by the employee
+during Right Start.
+2.5.1. When an employee will not be attending Right Start or their scheduled shift falls outside
+normal business hours, the DAC will receive any assigned items through the inner office
+mail courier program. DACs are responsible for securing the employee’s signature when
+the keys or keycards are issued and must return a copy of the signed form to Business
+Services.
+524-A.3
+2.6. A key and keycard inventory audit will be conducted with each employee’s performance
+evaluation annually. DACs will coordinate with Business Services to provide inventory lists to
+supervisors for audit purposes.
+2.6.1. If any change in job status, departmental role, or reduction in access occurs and assigned
+keys are no longer required, Department Head or designee shall coordinate with DACs to
+return the unrequired keys to Business Services.
+2.7. DACs may request access be granted to outside agents, vendors, and contractors with approval
+from the appropriate department head or elected official.
+2.8. Volunteers who require keycard access must be registered with the volunteer coordinator before a
+keycard is issued. The DAC is responsible for submitting the request on the Access Request Form
+and for securing the keycard at the completion of the volunteer’s assignment.
+2.9. In the event a key or keycard is lost or stolen, Business Services must be notified as soon as
+possible so that the security of the facility can be preserved. Notification should be done even if
+there is a chance that the keycard may later be found. Lost or Stolen keys and/or keycards will not
+be replaced until the DAC provides written notification of the loss to Business Services and the
+employee’s immediate supervisor.
+2.9.1. For a temporary assigned keycard, see Procedure 524-B.
+3. Key Issuance:
+3.1. A GGM key shall not be issued to anyone outside of Business Services.  The issuance of this key
+is restricted and should not be issued to anyone who is not in a management position.  In an
+emergency involving life and safety, the GGM may be temporarily issued to emergency
+responders.  At the conclusion of the event, the GGM must be retrieved and accounted for.
+3.2. Department heads and elected officials may request that GM keys be issued for employees based
+on business needs.  The issuance of GM building keys will be limited only to those employees
+who have a need for frequent access in order to perform job-related responsibilities.  A GM key
+request will require the signature of the department head or elected official requesting the key.
+Requests for keys that will allow access to another department’s work area require prior approval
+from the department head or elected official who occupies the space to be accessed.
+3.3. DACs may request department keys or master keys only for areas that their assigned department
+occupies.
+3.3.1. Requests for department keys or master keys outside of the employee’s associated
+department must go through the CAC. The CAC will get the needed approvals from the
+outside departments.
+3.4. KeyWatcher boxes will hold keys that can be accessed for a case by case need when frequent
+access is unnecessary. This allows for the least amount keys being assigned when feasible.
+3.4.1. DACs must submit an Access Request Form to request access to the KeyWatcher boxes.
+524-A.4
+3.4.2. KeyWatcher box approval will adhere to the same guidelines as key or keycard approval
+that align with Policy 524.
+3.5. The Business Services work order system will be used to request changes to locks or keying.
+3.6. Requests for single key different (SKD) locks will require approval of the appropriate department
+head or elected official and the CAO.
+4. Change Status:
+4.1. DACs must immediately notify Business Services when any change in an employee’s status or
+business arrangement results in restricting building access or terminating building access.
+4.2. DACs may request a change to existing keycard access levels for their areas.  DACs shall obtain
+all necessary approvals prior to forwarding such a request to Business Services. Business Services
+may verify changes in status with Human Resources before executing changes to confirm
+reassignment to another department or other status changes that would result in granting
+additional access.
+4.3. DACs may request temporary changes to access levels. Temporary changes may be needed when
+special projects or deadlines require employees to work beyond their normal schedule.
+Temporary access will not be granted to areas not under the control of the employee’s
+department.  Requests for access to another department’s area will require the authorization of
+that department head or elected official who controls the space.
+4.4. Department Heads and Elected Officials are responsible for ensuring that an audit of keys,
+keycards, key fobs, and access is conducted for each employee annually. DACs will provide the
+annual audit to Business Services. Any unused, unneeded, or obsolete (no longer valid) keys,
+keycards, or key fobs must be returned to Business Services along with a notice of any change in
+access.
+5. Department Access:
+5.1. Departments are responsible for complying with county policy when determining department
+level access protocols for employees, agents, contractors and visitors based on business need, job
+specifications, and nature of work performed in the area.
+6. Replacement Keys or Keycards:
+6.1. Initial keycards and necessary keys will be issued to all qualifying employees without charge.
+6.2. Keys and keycards that are broken or worn will be replaced without a charge.  The original
+keycard or parts of the broken key must be returned to Business Services prior to reissuance.
+6.3. Replacement of lost or stolen keys, keycards, key fobs or failure to return assigned keys,
+keycards, or key fobs may result in charges to the key, keycard, key fob assignee. The
+replacement fee for each item is a minimum of fifteen dollars ($15).
+524-A.5
+6.4. Failure to collect keys, keycards, or key fobs from an employee upon their departure from the
+department may result in replacement charges to the department. The replacement fee for each
+item is a minimum of fifteen dollars ($15).
+7. High Security Access Areas and Buildings:
+7.1. Upon the authorization of the department head or elected official, the DAC may request that an
+employee, volunteer, or contractor be granted unescorted access into high security areas or
+buildings.
+7.2. Individuals who require unescorted access, shall comply with the provisions of the CJIS security
+policy, including a fingerprint-based national records check. Individuals who do not receive CJIS
+clearance shall not be granted unescorted access to high security areas or buildings.
+7.3. The CAC shall confirm that CJIS clearance has been given. Access to high security areas or
+buildings shall not be granted prior to confirmation of CJIS clearance.

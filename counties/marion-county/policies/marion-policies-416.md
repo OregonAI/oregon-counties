@@ -1,0 +1,135 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-416
+title: '416'
+doc_type: policy
+citation: '416'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/416.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: c8a9f3737393eb1fca06291568ed8c717ec1d7585e67c021518f03ef8eb70d09
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.010
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 416 (416)
+
+## At a glance
+
+416 — policies of Marion County. 2 pages.
+
+## Full text
+
+ADMINISTRATIVE POLICIES
+
+SECTION: Financial Management POLICY #: 416
+TITLE: Modification of Net Working Capital Budget PROCEDURE #: 416-A
+ ORDER #: 14-120
+DEPT: Finance DIVISION:
+ADOPTED:  12/17/2014 REVIEWED:  REVISED:
+
+PURPOSE: This establishes policy for budgeting actual net working capital to replace
+estimated net working capital during budget execution to provide better
+financial information with which to manage budgets.
+
+AUTHORITY: The Marion County Board of Commissioners may establish rules and
+regulations in reference to managing the interest and business of the county
+under ORS 203.010, 203.035, 203.111, and 203.230.
+
+APPLICABILITY: Department heads, elected officials, and other employees who are responsible
+for budget management.
+
+GENERAL POLICY: Departments are required to submit supplemental budget requests to modify
+adopted budgeted net working capital to actual net working capital after the
+actual has been calculated and recorded in the financial information
+management system.
+
+DEFINITION: Net working capital is a term used in budget to define the amount of net
+resources computed at the end of the fiscal year that is available as a resource
+in the ensuing fiscal year.  It is alternatively referred to as beginning balance
+or beginning fund balance; the balances (e.g., amounts) also represent the
+ending balance or ending fund balance of the prior fiscal year.
+
+POLICY GUIDELINES:
+
+1. Background
+
+2.1 Estimating net working capital for the ensuing year budget is dependent on the accuracy of
+estimating actual revenue and actual expenditures; revenues and expenditures for the remainder of a
+budget year may exceed or fall short of expectations at budget submission time for many reasons;
+e.g., change in plans for purchasing, and the timing of construction.
+
+2.2 An inaccurate net working capital budget may cause budget management problems.  If
+actual net working capital is substantially larger than the budget, the additional funds are not
+available for expenditure to provide additional services or make up for revenue shortfalls.  If actual
+net working capital is substantially less than the budget, the shortfall in resources may result in a
+
+fund year-end net loss even if expenditures remain within appropriation, or may require a reduction
+in expenditures for the fiscal year.
+
+2.3 Inaccurate budgets may mislead managers both inside and outside of each department into
+discerning that the financial status of a budget at any level is better or worse than reality.  The way
+to correct an inaccuracy is to revise the estimated net working capital budget to match actual net
+working capital.
+
+2. Policy:
+
+3.1 A department is required to request a net working capital budget modification for any fund
+that has either a 5% or greater or a $5,000 or greater variance between the current budget and the
+actual amount, regardless of whether the actual is higher or lower than budget.
+
+3.2 A department may at its option request a net working capital budget modification for any
+fund that has less than a 5% or $5,000 variance between the current budget and actual amount,
+regardless of whether the actual is higher or lower than budget
+
+3. Responsibilities:
+
+All department heads, elected officials and other department managers responsible for budget
+development and execution of operating and non-operating budgets are responsible for monitoring
+current fiscal year expenditures and encumbrances compared to budget.  They are further
+responsible for modifying the budget according to supplemental budget rules and instructions issued
+by the Budget Officer and by administrative policies and procedures. This policy sets forth the
+conditions under which a department either may or is required to modify net working capital during
+the course of budget execution.
+
+4. Exceptions:
+
+4.1  If the Budget Officer determines that modification of any fund budget to reflect actual net
+working capital is unnecessary, the department will be advised that submission of a modification
+request is not required.
+
+4.2 When modification of net working capital is optional to a department subject to subsection
+3.2, the Budget Officer may require a modification. This would occur in a situation when the fund is
+being closely monitored outside of the managing department and the accuracy of financial
+information is desirable in order to avoid misunderstandings about availability of funds and
+expenditure limits.
+
+5. Implementation:
+
+The Budget Officer is authorized to implement the policy and there are no extents or limits of that
+authority.
+
+6. Periodic Review:
+
+The Budget Officer and the Chief Financial Officer shall jointly review the policy every three years.

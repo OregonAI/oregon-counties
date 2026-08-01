@@ -1,0 +1,43 @@
+702-A.1
+ADMINISTRATIVE PROCEDURES
+
+TITLE: Geographic Information System (GIS) Database
+Administration PROCEDURE #: 702-A
+DEPT: Information Technology DIVISION:
+EFFECTIVE DATE:  10/08 REVIEWED:  REVISED:
+
+OBJECTIVE: To establish a procedure that dictates how geographic information system
+(GIS) data is distributed.
+
+REFERENCE: Policy # 702
+
+POLICY STATEMENT: Marion County has the t echnology and resources to combine database
+components created and maintained by various departments into an
+integrated GIS database.  The county will develop and maintain an
+integrated GIS database to improve its own operations, improve its ability
+to share information with other public entities, and to provide the public
+with better access to public records.
+
+APPLICABILITY: All Marion County departments and employees.
+
+PROCEDURES:
+
+1. Making GIS Data Available:
+
+1.1 New or modified non-confidential GIS data will be posted to a county Internet website
+every 2 weeks.  Metadata, instructions for use and a directory of available data will be
+placed on the main page of the website for ease of use.
+
+1.2 A disclaimer page will be placed on the openi ng page of the site.  Users must accept the
+disclaimer to access county GIS data.
+
+2. Special Requests:
+
+2.1 Any cost incurred by the county to provide other access to this data or assistance using this
+data will be at the expense of the entity requesting access.  Cost will be determined by a
+time estimate and charged out via an applicable employed burdened rate.  An email
+address will be available on the main page of the site where users may submit special
+requests.
+
+2.2 Requests for confidential data will be appr oved or denied by the Board of Commissioners
+as an action item at a board session.

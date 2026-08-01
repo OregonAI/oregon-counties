@@ -1,0 +1,226 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-213
+title: '213'
+doc_type: policy
+citation: '213'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/213.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 5dc2793000004e5a3b3c81becb5ed13c4f7deefbd770ac1fb04e3d98bfa328af
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 192.311
+    - ORS 192.324
+    - ORS 192.407
+    - ORS 192.410
+    - ORS 203.010
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 213 (213)
+
+## At a glance
+
+213 — policies of Marion County. 4 pages.
+
+## Full text
+
+213.1
+ADMINISTRATIVE POLICIES
+SECTION: General Administration POLICY #: 213
+TITLE: Public Records Requests PROCEDURE #: 213-A
+ ORDER #: 18-029
+DEPT: Board of Commissioners DIVISION: N/A
+ADOPTED: 02/18 REVIEWED:  REVISED:
+
+PURPOSE: To establish a county-wide policy for responding to public records requests
+in compliance with Oregon’s Inspection of Public Records Law (ORS
+192.311 to 192.478), which provides members of the public the right to
+inspect and copy public records that are not otherwise exempt from public
+disclosure.
+
+AUTHORITY: The Marion County Board of Commissioners may establish rules and
+regulations in reference to managing the interest and business of the county
+under ORS 203.010, 203.035, 203.111, and 203.230.
+
+APPLICABILITY: All Marion County departments shall be subject to this policy.
+
+GENERAL POLICY: This policy establishes an orderly and consistent procedure for responding
+to public records requests, creates the basis for a fee schedule designed to
+reimburse Marion County for the actual costs incurred in responding to
+public records requests, and informs individuals of the procedures that
+apply to public records requests. It is the policy of Marion County to ensure
+that all requests for public records are handled consistent with applicable
+public records laws. This policy shall be implemented in a manner that
+minimizes the impact on County workload and resources.
+
+DEFINITIONS:
+
+Business Day: A day other than Saturday, Sunday, or a legal holiday and on which at least one paid
+employee of the County is scheduled to and does report to work.
+
+Impracticable: For the purposes of this policy and complying with the timelines established in this policy
+and ORS 192.324 and 192.329, compliance may be deemed impracticable because:  (1) The staff or
+volunteers necessary to complete a response to a public records request are unavailable; (2) Compliance
+with the timelines would demonstrably impede the county’s ability to perform other necessary services; or
+(3) The volume of public records requests being simultaneously processed by the county.
+
+Public records officer: An individual who is identified in accordance with this policy to whom public
+records requests may be sent.
+213.2
+Public records request: A written request, by a person or organization, to be provided access or copies of
+identified public records.  This includes requests received via email. A public records request does not
+include simple, routine requests for readily available records.
+
+Record: Any writing containing information relating to the conduct of the public’s business,
+including but not limited to court records, mortgages, and deed records, prepared, owned, used or retained
+by a public body regardless of physical form or characteristics. ORS 192.410(4)(a). A record may be
+handwritten, typed, photocopied, printed, microfilmed, or exist in an electronic form such as email or a
+word processing document, or other types of electronic recordings. A record is a public record if it
+contains information relating to the conduct of Marion County business and is prepared, owned, used or
+retained by the county.
+
+POLICY GUIDELINES
+
+1. Public Records Requests
+Written public records requests shall be responded to without unreasonable delay and in accordance
+with this policy. Public records identified in a request shall be disclosed unless the records are
+confidential, privileged, or subject to an exemption. Marion County is not required to create a record
+in order to respond to a public records request.
+
+2. Public Records Officers
+2.1. Each department head within Marion County is responsible for:
+2.1.1. Appointing one or more public records officer(s) who shall be responsible for coordinating
+and assisting staff implementation of this policy; and
+2.1.2. Developing, approving, and maintaining public records procedures for their department, in
+   compliance with this policy.
+2.2. Each public records officer within Marion County is responsible for ensuring timely and reliable
+processing of written public records requests as outlined by this policy.
+2.3. Requests from journalists or media representatives shall be handled by a person authorized to
+speak with the media.
+
+3. Processing Public Records Requests
+3.1. Unless impracticable, the public records officer shall acknowledge receipt of the written request
+to inspect or receive a copy of a public record within five business days after receiving the
+request.
+3.2. The acknowledgement must be in writing, which includes emailed acknowledgements, and must,
+at a minimum, inform the requester that the request has been received and that the department or
+division:
+3.2.1. is the custodian of the requested record; or
+3.2.2. is not the custodian of the requested record; or
+3.2.3. is uncertain whether the department or division has custody of the requested record.
+3.3. A written acknowledgement is not required if the public records request is completed within five
+business days.
+3.4. In order to more appropriately respond to the request, a public records officer may request
+additional information or clarification from the requester. The obligation to further complete the
+request is suspended until the requester provides the information for clarification. Requests for
+213.3
+additional information or clarification must be made in a good faith attempt to expedite the
+request.
+3.5. As soon as reasonably possible, but not later than 15 business days after a public records officer
+has received a written public records request, the county shall complete its response to the
+request, or inform the requester in writing that the county is still processing the request and
+provide a reasonable estimated date when its response will be complete.
+3.5.1. The 15 business days timeframe does not apply:
+3.5.1.1. If compliance is impracticable;
+3.5.1.2. During the time that the county waits for a requester to provide additional
+information or clarification requested by the public records officer; or
+3.5.1.3. For those days the county waited for a requester to pay a fee for the county’s
+anticipated cost of making the public records available.
+3.6. If a requester seeks access for inspection of records, reasonable steps must be taken to ensure that
+the records are protected from damage or removal.
+3.7. A response is complete when:
+3.7.1. Access or copies of non-exempt records are provided;
+3.7.2. The county asserts that an exemption within ORS 192.311 to 192.478 applies to the
+    requested records; or
+3.7.3. The county informs the requester that it is not the custodian of the requested records.
+3.8. If the county asserts an exemption to disclosure of a record, the response shall include a statement
+that the requester may seek review of the county’s determination pursuant to the provisions set
+forth in ORS 192.407 to 192.431.
+
+4. Fees
+4.1. Oregon’s Inspection of Public Records Law allows public bodies to recover their actual costs in
+fulfilling a public records request.
+4.2. The fee must be reasonably calculated to reimburse Marion County for its actual costs in making
+records available, and may include:
+4.2.1. Charges for the time spent by staff to locate the requested public records, to review the
+records in order to determine whether any requested records are exempt from disclosure, to
+segregate exempt records, to supervise the requester’s inspection of original documents, to
+copy records, to certify records as true copies, and to send records by mail;
+4.2.2. A per-page charge for photocopies or requested records; and
+4.2.3. A per-item charge for CDs, audiotapes, or other electronic copies of requested records.
+4.3. The Board of Commissioners establishes the public records fee schedule set forth by board order.
+Departments may request board approval of a department-specific fee schedule.
+4.4. The requester will be informed of estimated fees and may be required to make a deposit before
+the request will be further processed.
+4.5. If the estimated fee is greater than $25, Marion County must provide the requester with written
+notice of the estimated amount of the fee prior to fulfilling the records request. The notice may be
+delivered via email. Marion County will not fulfill the request until the requester makes a deposit
+in the amount of the estimated fee.
+4.6. The requester must pay the amount owing before the requested records will be made available.
+4.6.1. If the requester was required to make a deposit, fees will be debited against that deposit. If
+the fees are less than the deposit, Marion County will provide the records along with a
+refund of the deposit, less the fee.
+213.4
+4.6.2. If the deposit is insufficient to cover the entire costs of completing the public records
+request, or the requester was not required to pay a deposit, an invoice for the unpaid costs
+of completing the public records request will be generated and sent to the requester.
+
+5. Fee Waivers
+Requests for fee waivers or reduced fees must be made in writing.  The county has discretion to
+approve or deny the request for a fee waiver.  The final decision to grant a fee waiver request must be
+approved by the Chief Administrative Officer (CAO) or Deputy County Administrative Officer. The
+CAO or Deputy CAO must consider, among other things, the character of the public interest in the
+particular disclosure, the purpose for which the requester intends to use the information, the extent to
+which the fee impedes the public interest and the extent to which the waiver would burden the county.
+The law prohibits waiving fees if the records were created through use of certain constitutionally
+dedicated funds, such as fuel taxes or motor vehicle fees, unless the cost of charging the fee would
+exceed the cost of providing the record.
+
+6. Copyrighted Material
+ If Marion County maintains public records containing copyrighted material, it will permit the person
+making the request to inspect the copyrighted material, and may allow limited copying of such
+material if allowed under federal copyright law. The county may require the requester to obtain
+written consent from the copyright holder or an opinion from the person’s legal counsel before
+allowing copying of such materials.
+
+7. Destruction of Records
+ No employee shall alter or destroy a record that the employee reasonably believes is subject to a
+public records request or is relevant to current or reasonably anticipated litigation. This includes
+records otherwise eligible for destruction.
+
+8. Implementation
+The Board of Commissioners Office has the sole authority and responsibility to implement this policy
+and assure compliance by county departments.
+
+9. Tracking Public Records Requests
+ Each department’s public records officer shall document the number and type of public records
+requests the department has received and completed.
+
+10. Periodic Review
+The Board of Commissioners Office shall review this policy every three years, or as state and federal
+regulations are revised and necessitate a change in the policy. The Board of Commissioners Office
+shall review the public records officers list at least annually, and notify each department of any
+changes.
+
+ADOPTED:  02/18

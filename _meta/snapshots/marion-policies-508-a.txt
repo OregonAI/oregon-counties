@@ -1,0 +1,167 @@
+508-A.1
+ADMINISTRATIVE PROCEDURES
+
+TITLE: Employee Exposure Control to Bloodborne
+Pathogens PROCEDURE #: 508-A
+DEPT: Business Services DIVISION: Risk Management
+EFFECTIVE
+DATE: 10/23   REVIEWED:   REVISED:
+
+OBJECTIVE: To establish procedures to limit and control occupational exposure to
+bloodborne pathogens and other potentially infections materials.
+REFERENCE: Policy 508 – Employee Exposure Control to Bloodborne Pathogens
+APPLICABILITY: All employees and volunteers who could reasonably be expected to
+encounter potentially infectious materials in the course of their work.
+1. DEFINITIONS:
+
+1.1. Blood:  Human blood, human blood components, and products made from human blood.
+1.2. Bloodborne Pathogens:  Pathogenic microorganisms that are present in human blood and
+can cause disease in humans.  These pathogens include, but are not limited to, hepatitis B
+virus (HBV), hepatitis C virus (HBC) and human immunodeficiency virus (HIV).
+1.3. Contaminated:  The presence or the reasonably anticipated presence of blood or other
+potentially infectious materials on an item or surface.
+1.4. Contaminated Laundry:  Laundry that has been soiled with blood or other potentially
+infectious materials or may contain sharps.
+1.5. Contaminated Sharp:  Any contaminated object that can penetrate the skin including, but
+not limited to, needles, scalpels, broken glass, broken capillary tubes, and exposed ends of
+wires.
+1.6. Decontamination:  The use of physical or chemical means to remove, inactivate, or destroy
+bloodborne pathogens on a surface or item to the point where they are no longer capable of
+transmitting infectious articles and the surface or item is rendered safe for handling, use or
+disposal.
+1.7. Engineering Controls:  Controls (e.g., self-sheathing needles, needleless systems, sharps
+disposable containers) that isolate or remove the bloodborne pathogens hazard from the
+workplace.  This includes Sharps with Engineered Sharps Injury Protections (SESIPs) which
+is a non-needle sharp, or a needle device used for withdrawing body fluids, accessing a vein
+or artery, or administering medications or other fluids, with a built-in safety feature or
+mechanism that effectively reduces the risk of an exposure incident.
+502-A.2
+1.8. Exposure Determination:  The risk assessment that evaluates and determines if employees
+have reasonably anticipated contact with human blood or other potential infectious
+materials.
+1.9. Exposure Incident:  A specific eye, mouth, other mucous membrane, non-intact skin, or
+parenteral contact with blood or other potentially infectious materials that results from the
+performance of an employee's duties.
+1.10. Occupational Exposure:  Reasonably anticipated skin, eye, mucous membrane, or
+parenteral contact with blood or other potentially infectious materials that may result from
+the performance of an employee's duties.
+1.11. Other Potentially Infectious Materials (OPIM):
+1.11.1.  The following human body fluids: semen, vaginal secretions, cerebrospinal fluid,
+synovial fluid, pleural fluid, pericardial fluid, peritoneal fluid, amniotic fluid,
+saliva in dental procedures, any body fluid that is visibly contaminated with blood,
+and all body fluids in situations where it is difficult or impossible to differentiate
+between body fluids;
+1.11.2.  Any unfixed tissue or organ (other than intact skin) from a human (living or dead);
+and
+1.11.3. HIV-containing cell or tissue cultures, organ cultures, and HIV-or HBV-containing
+culture medium or other solutions; and blood, organs, or other  tissue from
+experimental animals infected with HIV or HBV.
+1.12. Parenteral:  Piercing mucous membranes or the skin barrier through such events as
+needlesticks, human bites, cuts, and abrasions.
+1.13. Personal Protective Equipment:  Specialized clothing or equipment worn by an employee
+for protection against a hazard.  General work clothes (e.g., uniforms, pants, shirts, or
+blouses) not intended to function as protection against a hazard are not considered to be
+personal protective equipment.
+1.14. Regulated Waste:  Liquid or semi-liquid blood or other potentially infectious materials;
+contaminated items that would release blood or other potentially infectious materials in a
+liquid or semi-liquid state if compressed; items that are caked with dried blood or other
+potentially infectious materials and are capable of releasing these materials during handling;
+contaminated sharps; and pathological and microbiological wastes containing blood or other
+potentially infectious materials.
+1.15. Universal Precautions:  An approach to infection control. According to the concept of
+Universal Precautions, all human blood and certain human body fluids are treated as if
+known to be infectious for HIV, HBV, HBC and other bloodborne pathogens.
+1.16. Work Practice Controls:  Controls that reduce the likelihood of exposure by altering the
+way a task is performed (e.g., prohibiting recapping of needles by a two-handed technique,
+not reaching into a fluid filled container/sink that contains contaminated sharps with a
+gloved hand).
+502-A.3
+
+2. BLOODBORNE PATHOGEN PROGRAMS
+Marion County Risk Management will provide guidance and assist each department in assessing
+requirements and developing a Bloodborne Pathogen program.
+2.1. Determine which jobs are affected by bloodborne pathogens.
+2.2. Evaluate each job position to determine which employees may be expected to be
+occupationally exposed to blood or other potentially infections materials.
+2.2.1. Exposure determination is made without considering the use of personal
+protective equipment (PPE).  Jobs with sufficient evidence of reasonable
+anticipated exposure.
+2.2.2. Marion County provides protections to the employees with occupational
+exposure.
+3. CONTROLING EXPOSURE TO BLOODBORNE PATHOGENS
+3.1. Reduce or eliminate the hazards of occupational exposure to bloodborne pathogens.
+Departmental exposure control plans for the jobs with occupational exposure shall include
+details on employee protection measures.
+3.2. Plans shall describe how the department will use:
+3.2.1. Engineering and work practice controls,
+3.2.2. Personal protective clothing and equipment,
+3.2.3. Employee training,
+3.2.4. Medical surveillance.
+3.2.5. Hepatitis B vaccinations,
+3.2.6. Annual policy and procedure reviews, and
+3.2.7. Other provisions as required by OSHA's Bloodborne Pathogens Standard (29 CFR
+1910.1030).
+3.3. Engineering controls are considered the preferred means of eliminating or minimizing
+employee exposure and include the use of safer medical devices, such as needleless devices,
+shielded needle devices, and plastic capillary tubes.
+4. EXPOSURE CONTROL PLAN
+4.1. Exposure control plans must include:
+4.1.1. The exposure determination to create the list of job classifications that are
+reasonably expected to have skin, eye, mucous membrane, or parenteral contact with
+502-A.4
+blood and/or any body fluids that are contaminated with blood resulting from the
+performance of their assigned job duties.
+4.1.2. Procedures for evaluating the circumstances surrounding an exposure incident.
+4.1.3. Schedule and method for implementing the provisions of the standard.
+4.1.4. Annual review and updates as required OSHA or as needed when new tasks or
+procedures affect employee occupational exposure.
+5. Risk Management is available to help departments create their exposure control plan.
+
+Adopted: 10/23 TG
+APPENDIX A
+Procedure 508-A:  Bloodborne Pathogen Exposure Control Plan Exposure Determination
+Worksheet
+
+H:\Policies & Procedures\508 Bloodborne Pathogens\Working Documents\AppendixA BBPControlAssessment.docx
+
+Duties, tasks, or job classifications that place the employee at potential risk for occupational BBP
+exposure:
+
+Determinations are to be made without regard to the use of personal protective equipment.
+
+1. Works with sharps:
+1.1. Administers injections,
+1.2. draws blood,
+1.3. performs hemoglobin/PKU tests, or
+1.4. other procedures that result in bleeding.
+
+2. Examiner:
+2.1. Performs physical examinations, which might result in contact with blood, semen,
+vaginal secretions, or other potentially infectious materials.
+
+3. Blood & other fluids:
+3.1. Has contact with urine specimens, sputum, or other situations where it may be difficult
+to distinguish between body fluids.
+
+4. Cleaning/disinfection:
+4.1. Cleans surfaces or instruments that have been soiled or contaminated with blood or
+other potentially infectious materials.
+
+5. Infectious waste:
+5.1. Empties infections waste containers,
+5.2. replaces/disposes of sharps containers,
+5.3. carries red bags to biohazard box.
+
+6. Clients:
+6.1. Works with clients who may present a risk for reasonably anticipated exposure to
+human bites, cuts, abrasions.
+
+7. Designated to give first aid/CPR (other than Good Samaritan):
+7.1. Apply dressings,
+7.2. irrigate wounds.
+
+8. Laundry:
+8.1. Handles potentially contaminated clothing or laundry.
+
+9. Other:
+9.1. Performs duties not described above that may exposure employee to bodily fluids.

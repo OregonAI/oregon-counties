@@ -1,0 +1,158 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-512
+title: '512'
+doc_type: policy
+citation: '512'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/512.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8e2da9d6bfb1c01b1a72fbe4f40d360ed03430cbdfccbc1ea2f10e830da6583a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 512 (512)
+
+## At a glance
+
+512 — policies of Marion County. 3 pages.
+
+## Full text
+
+ADMINISTRATIVE POLICIES
+
+SECTION: Health, Safety & Security POLICY #: 512
+TITLE: Physical Examinations PROCEDURE #:
+ ORDER #: 96-32
+DEPT: Risk Management DIVISION:
+ADOPTED: 2/96 REVIEWED:  REVISED:
+
+1.0 Purpose
+
+This policy and procedure sets forth a consistent, county-wide process for conducting physical
+examinations, either as a condition of appointment to specified job classifications, or to
+determine fitness for duty or reasonable accommodation following injury or illness.  This policy
+does not apply to work-related injuries or illnesses, which are covered by the Injured
+Worker Policy (see page D-9).
+
+2.0 General Policy
+
+In order to ensure that physical examinations are conducted legally and consistently by all county
+departments, a single contractor will be identified to provide this service.  The Risk Management
+and Human Resources Departments will act as resource to departments regarding the
+identification of the provider currently under contract to provide this service.  The Risk
+Management and Human Resources Departments will also act as resource to departments
+regarding procedural questions.
+
+3.0 Policy guidelines/Procedures
+
+3.1 PREAPPOINTMENT PHYSICAL EXAMINATIONS
+
+a. Before these procedures are followed, all other testing, interviewing, and
+screening exercises, developed in order to identify the most qualified
+candidate for a particular vacancy, must have been completed.
+
+b. Upon identification of the most qualified candidate, the hiring supervisor
+will issue a conditional job offer, i.e., a job offer conditioned upon the
+candidate passing a physical examination to determine ability to perform
+the physical requirements of the job.
+
+c. The applicant will be advised to contact a clinic under contract to the
+provider, to schedule a physical examination within a specified period of
+time.
+
+d. Upon completion of the physical examination, the clinic will forward
+results to the contractor, who will then issue a medical evaluation report to
+the hiring supervisor, advising on the results of the physical examination
+and whether the candidate is physically capable of performing the
+requirements of the job.
+
+e. The hiring supervisor will advise the candidate on the results of the
+physical examination.  The results will be that the candidate was
+determined to be one of the following:  medically qualified, conditionally
+qualified, medically unqualified, or conditionally unqualified.  Candidates
+must contact the provider directly to discuss any details regarding the
+results of their physical exam.
+
+1) If the candidate has been determined medically qualified, a final
+and formal job offer will be extended to that candidate.
+
+2) If the candidate has been determined conditionally qualified, s/he
+will be advised of the conditions which must be maintained in
+order to retain qualified status.  A final and formal job offer will be
+extended to that candidate conditioned upon continuing
+qualification.
+
+3) If the candidate has been determined medically unqualified, the
+candidate will be so notified.  Possible accommodations will be
+discussed by the applicant and hiring supervisor.  If no
+accommodation can be identified which would enable the applicant
+to perform the job, s/he will be disqualified from further
+consideration for the vacancy.
+
+4) If the candidate has been determined conditionally unqualified,
+s/he will be advised of the conditions required to qualify, and
+notified of a specified time period during which to meet those
+conditions.  If the conditions are met, a final and formal job offer
+will be extended to that candidate.
+
+3.2 PHYSICAL EXAMINATIONS TO DETERMINE FITNESS FOR DUTY
+
+a. Should an employee sustain an injury or experience a period of serious
+illness which may affect his/her physical ability to perform the essential
+functions of his/her job, the employee's department management may
+
+require the employee to be physically examined to determine fitness for
+duty.
+
+b. The employee will be advised to contact a clinic under contract to the
+provider, to schedule a physical examination within a specified period of
+time.
+
+c. Upon completion of the physical examination, the clinic will forward
+results to the contractor, who will then issue a medical evaluation report to
+the employee's supervisor, advising on the results of the physical
+
+ examination and whether the employee is physically capable of
+performing the requirements of the job.
+
+d. The physical examination (see 3.1, e, 1-4) will determine whether the
+employee is physically able to return to, and perform the duties of his/her
+job, with or without accommodation.  Based upon the results of the
+physical examination, provisions of the Americans with Disabilities Act
+will be followed if found to be applicable.
+
+3.3 RECORD MAINTENANCE AND RETENTION
+
+All medical evaluation reports and correspondence regarding applicants' and
+employees' physical examinations will be maintained by the hiring department in
+a separate, confidential medical file.  When the employment relationship is
+terminated, the employee's medical file will be forwarded to the Risk
+Management Department, where it will be maintained for the period of time
+specified by law.  No reports, or copies of reports, which contain the results of the
+pre-appointment physical examination will be maintained in the employee's
+personnel file.  The contracted provider will maintain the detailed physical
+examination record.
+
+Adopted: 2/96

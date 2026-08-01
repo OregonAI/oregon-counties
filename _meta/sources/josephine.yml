@@ -1,0 +1,27 @@
+group: josephine
+title: Josephine County sources
+county: josephine-county
+crawl:
+  decision: proceed
+  checked: '2026-08-01'
+  basis: The county's own site serves the honest agent HTTP 200 and names only GPTBot in robots — not
+    us — so there is no directive here to weigh. Its VENDOR code hosts (eCode360 and the stale Code Publishing
+    link) both return HTTP 403 Cloudflare managed challenge, and getting past that would mean misrepresenting
+    what we are; the code family is skipped for that reason and no other.
+  hosts:
+  - host: www.josephinecounty.gov
+    robots_url: https://www.josephinecounty.gov/robots.txt
+    ai_block: true
+    content_signal: null
+    notes: 'Names GPTBot with Disallow: / — and NOT ClaudeBot or any agent we present as. Recorded as
+      an AI block because it is one, but it is not a directive addressed to this crawler.'
+  - host: ecode360.com
+    robots_url: https://ecode360.com/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: JO4733. Returns 403 Cloudflare challenge for this county, unlike Clatsop and Crook on the same
+      vendor which serve us fine.
+last_checked: '2026-07-31'
+upstream_signal: The comprehensive plan PDFs carry `?t=<timestamp>` cache-busters that change on republication,
+  so diffing the link set detects an amendment without a fetch.
+sources: []

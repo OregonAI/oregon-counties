@@ -15,9 +15,22 @@ the two instruments by filename prefix, which is what makes routing trivial:
     html/MarionCounty<NN>/...   the county code            -> code
     html/MarionComp<NN>/...     the comprehensive plan     -> land-use
 
-**MARION IS UNAVAILABLE, AND THIS IS THE HONEST OUTCOME RATHER THAN A FAILURE TO TRY.**
+**THE CODE IS UNAVAILABLE; THE ADMINISTRATIVE POLICIES ARE NOT.** Re-checked 2026-08-01 at
+the operator's request, going to the county's own domain rather than the vendor storefront.
 
-codepublishing.com sits behind a Cloudflare managed challenge that answers
+`apps.co.marion.or.us/APAP/` — the county's Administrative Policy and Procedure index — is
+reachable by the honest agent and lists **153 policy PDFs served from co.marion.or.us**, plus
+`/HR/Documents/personnelrules.pdf`. Those are ingested. Marion is therefore IN the corpus
+with its administrative policy, and out of it only for its codified code.
+
+That is worth stating as a general lesson rather than a Marion footnote: **the vendor
+storefront being blocked did not mean the county was blocked.** Checking the county's own
+domain before recording a county as unreachable is cheap and was skipped the first time.
+
+Note `/BOC/Policies/` itself returns HTTP 401 as a directory — only the individual PDFs are
+public, so the APAP index is the only way in.
+
+THE CODE remains unavailable. codepublishing.com sits behind a Cloudflare managed challenge that answers
 **HTTP 403 with `cf-mitigated: challenge`** to `src/fetch.py`'s honest, self-identifying
 User-Agent. A plain `curl` with a browser User-Agent gets 200 and the full index — so the
 content is public, and the only thing standing between this corpus and 17 code chapters is
@@ -30,10 +43,9 @@ thing: it is a technical access control, and the only way past it is to misrepre
 are. Declining to honour a stated preference is not the same act as disguising identity to
 defeat a control, and this corpus does the first and not the second.
 
-So `crawl.decision` is `unavailable` and every family is skipped with that reason. This is
-recorded as a fact about OUR ACCESS, never as a fact about Marion County — the same
-`none-found` versus `could-not-verify` distinction the 36-county survey turns on. Marion
-publishes its code; we did not take it.
+So the `code` and `land-use` families are skipped with that reason, recorded as a fact about
+OUR ACCESS and never about Marion County — the same `none-found` versus `could-not-verify`
+distinction the survey turns on. Marion publishes its code; we did not take it.
 
 Its robots.txt, read separately, names NO AI agent — it disallows CGI, search and several
 file extensions including `*.pdf$`, none of which would have covered the HTML tree. The
@@ -49,7 +61,7 @@ PROFILE = {
     "discovery": "link-list",
     "site": "https://www.codepublishing.com/OR/MarionCounty/",
     "crawl": {
-        "decision": "unavailable",
+        "decision": "proceed",
         "checked": "2026-07-31",
         "basis": (
             "Cloudflare managed challenge: HTTP 403 with cf-mitigated: challenge to an "
@@ -85,8 +97,13 @@ PROFILE = {
                 "orders": {
             "skip": ("Unavailable: codepublishing.com answers HTTP 403 (Cloudflare managed challenge) to an honestly-identified agent. See the module docstring — this is an access failure on our side, not an absence at Marion County."),
         },
-                "policies": {
-            "skip": ("Unavailable: codepublishing.com answers HTTP 403 (Cloudflare managed challenge) to an honestly-identified agent. See the module docstring — this is an access failure on our side, not an absence at Marion County."),
+                # THE COUNTY'S OWN DOMAIN, not the vendor. 153 policy PDFs indexed by the APAP
+        # application and served from co.marion.or.us, plus the personnel rules.
+        "policies": {
+            "listing_urls": ["https://apps.co.marion.or.us/APAP/",
+                             "https://www.co.marion.or.us/HR/Pages/default.aspx"],
+            "link_re": r'href="((?:https://www\.co\.marion\.or\.us)?/(?:BOC/Policies|HR/Documents)/[^"]*\.pdf)"',
+            "format": "pdf",
         },
     },
 }

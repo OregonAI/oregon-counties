@@ -1,0 +1,166 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-603
+title: '603'
+doc_type: policy
+citation: '603'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/603.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: fe3318c5a4fccef1ba72e5e8530c91c5190d241639eb2a6a1e0d4cee4970dca9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.010
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 603 (603)
+
+## At a glance
+
+603 — policies of Marion County. 3 pages.
+
+## Full text
+
+603.1
+
+ADMINISTRATIVE POLICIES
+
+SECTION: Professional Conduct POLICY #: 603
+TITLE: Workplace Violence Prevention PROCEDURE #: 603-A
+ORDER #:                 09-78
+DEPT: Business Services DIVISION: Risk Management
+ADOPTED: 1/98 REVIEWED: 8/09 REVISED: 4/00, 8/09
+
+PURPOSE: The purpose of this policy is to establish Marion County’s commitment to
+providing a safe workplace free from violence, harassment or intimidation.
+
+AUTHORITY: The  Marion  County  Board  of  Commissioners  may  establish  rules  and
+regulations in reference to managing the interest and business of the county
+under ORS 203.010, 203.035 and 203.111.
+
+The  Marion  County  Board  of  Commissioners  expresses  the  governing
+body’s for mal, organizatio nal po sition of funda mental issues or specific
+repetitive situations through formally adopted, written policy statements.
+The policy state ments serve as gui des to decision making for both elected
+and appointed officials on the conduct of county business.
+
+The Marion County Administrative Policies and Procedures manual of the
+board of commissioners outlines the forms and process through which the
+board takes official action on administrative policy, and is the official
+record of county administrative policy.
+
+APPLICABILITY: This policy applies to all departments, employees, volunteers, contractors,
+and agents of the county.
+
+GENERAL POLICY:            Marion County is committed to maintaining a safe work environment, free
+from all  forms of violence, for all county  employees, elected officials,
+volunteers, contract workers, and agents.   Acts of violence are strictly
+prohibited and will not be tolerated.
+
+Law enforce ment personnel are often exposed to situati ons that involve
+violence.   This policy is not meant to be applied during the course and
+scope of law enforcement activities or mandated interactions.
+
+Nothing  in  this  policy  is  meant  to  be  applied  to  reasonable  corrective
+actions  taken  for  poor  performance,  misconduct,  economic  necessity  or
+other appropriate business related communications.
+603.2
+SUBJECT: WORKPLACE VIOLENCE PREVENTION
+
+Nothing in this policy alters any other reporting obligation established in
+county policies or other applicable local, state or federal law.
+
+POLICY GUIDELINES:
+
+1. Definitions:
+
+1.1. “Domestic Violence” refers to the use of abusive or violent behavior, including threats and
+intimidation, between people who have an ongoing  or prior personal, domestic or intimate
+relationship.
+
+1.2. “Intimidation” is intentionally engaging in actions or behaviors with malice intended to
+frighten, coerce or induce duress, including but not limited to stalking, or , transmitting
+inappropriate emails.
+
+1.3. “Physical Attack” is unwanted physical contact including but not limited to hitting,
+fighting, pushing, shoving, throwing objects, spitting, or transferring other bodily fluids.
+
+1.4. “Workplace Violence” refers to violence or threats of violence including but not limited to
+intimidation, harassment, coercion, physical attack, domestic violence or property damage,
+regardless of the source of the violence, perpetrated in a Marion County employment
+setting.
+
+1.5. “Threat” is an expression of intent to cause physical or mental harm.  An expression
+constitutes a threat without regard for the method used to convey the threat, whether the
+party communicating the threat has the present ability to carry it out or whether the
+expression is contingent, conditional or prospective.
+
+2. Prohibited Conduct:
+
+No employee, elected official, volunteer, contract worker, or agent of Marion County shall engage
+in any act of workplace violence.  Engaging in prohibited conduct may result in disciplinary action
+up to and including termination of employment, termination of the contract, or termination of
+other relationship with the county.
+
+Any retaliation or discrimination against an individual who reports an act of workplace violence
+will not be tolerated.
+
+The failure to report workplace violence is a violation of Marion County policy, and the employee
+may be subject to discipline.  Volunteers, agents or contractors who fail to report an act of
+workplace violence may have their relationship with the county terminated.
+603.3
+SUBJECT: WORKPLACE VIOLENCE PREVENTION
+
+3. Responsibilities:
+
+It is the responsibility of  all Marion County employees, elected officials, volunteers, contract
+workers, and agents to create and maintain a workplace free of violence.  All threats of workplace
+violence must be taken seriously.
+
+Any county employee, volunteer, contract worker, or agent having knowledge of a violent act in
+the workplace involving any other person must report the incident immediately to a supervisor,
+management representative, or human resources.  The supervisor/manager shall, as soon as
+possible but not later than the next business day, refer any incident to of workplace violence to
+risk management or the appropriate human resources representative.
+
+4. Imminent Danger:
+
+Marion County recognizes that there may be situations that require immediate action to protect
+oneself or others against imminent danger to life and health.  If an incident occurs where
+immediate response is necessary and there is no time to contact a supervisor or wait for law
+enforcement to respond, employees, elected officials, volunteers, contract workers, or agents may
+protect themselves pursuant to law.
+
+5. Domestic Violence:
+
+Domestic violence that enters into the workplace will be considered workplace violence and
+handled accordingly.  Marion County will work closely with victims to ensure that they are safe in
+the workplace.  Supervisors are encouraged to provide victims with information regarding the
+services available to them under the county benefits programs.
+
+6. Training:
+
+All employees, elected officials, volunteers, contract workers, and agents of Marion County shall
+receive training on the workplace violence prevention policy.  Periodic training will cover topics
+such as risk factors for workplace violence, handling difficult situations, and developing
+departmental emergency plans.

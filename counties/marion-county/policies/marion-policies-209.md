@@ -1,0 +1,132 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-policies-209
+title: '209'
+doc_type: policy
+citation: '209'
+authority_level: county_policy
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.co.marion.or.us/BOC/Policies/209.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 36d888b7ed687a32c3940159ce636efdcfb54a309a5c23a28fd8dd039aff594a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.010
+  related: []
+  supersedes: []
+tags: [marion-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 209 (209)
+
+## At a glance
+
+209 — policies of Marion County. 2 pages.
+
+## Full text
+
+209.1
+ADMINISTRATIVE POLICIES
+
+SECTION: General Administration POLICY #: 209
+TITLE: Bylaws of Advisory Boards, Commissions,
+Committees, and Councils
+PROCEDURE #: 209-A
+ORDER #: 18-096
+DEPT: Board of Commissioners’ Office PROGRAM: Volunteer Services
+ADOPTED: 3/00 REVIEWED:  REVISED: 09/18
+
+PURPOSE: The purpose of this policy is to establish rules to ensure consistent content
+of the bylaws of Marion County public advisory boards, committees,
+commissions, and councils (hereinafter referred to as “advisory boards”).
+
+AUTHORITY: The Marion County Board of Commissioners may establish rules and
+regulations in reference to managing the interest and business of the county
+under ORS 203.010, 203.035, 203.111, and 203.230.
+
+ The Marion County Board of Commissioners expresses the governing
+body’s official, organizational position on fundamental issues or specific
+repetitive situations through formally adopted, written policy statements.
+The policy statements serve to provide rules for public officials on the
+conduct of county business.
+
+ The Marion County Board of Commissioners’ Administrative Policies and
+Procedures manual outlines the forms and process through which the board
+takes formal action on administrative policy. It is the official record of
+county administrative policy.
+
+APPLICABILITY: All county advisory boards, commissions, committees, and councils, except
+limited duration committees.
+
+GENERAL POLICY: Each Marion County advisory board must have bylaws to direct and clarify
+its actions, procedures, and organization. Bylaws are the guidelines by
+which a board functions and should include expectations of members.
+Issues such as attendance, responsibilities, and discipline should be
+addressed in the bylaws.
+
+POLICY GUIDELINES:
+
+1. RESPONSIBILITIES
+
+1.1. All advisory boards shall develop bylaws for direction of procedure and operations within
+30 days of the first regular meeting.
+SUBJECT:  BYLAWS OF ADVISORY BOARDS
+
+209.2
+1.2. New and revised bylaws shall be submitted to the Board of Commissioners for review and
+approval by board order.
+
+1.3. Bylaws of advisory boards shall contain the elements of the attached bylaws template as
+directed by the Board of Commissioners.
+1.3.1. Bylaws require the following elements:
+1.3.1.1.   Name of Board
+1.3.1.2.   Mission Statement
+1.3.1.3.   Purpose of Board
+1.3.1.4.   Goals
+1.3.1.5.   Membership
+1.3.1.6.   Termination
+1.3.1.7.   Attendance
+1.3.1.8.   Meetings
+1.3.1.9.   Officers
+1.3.1.10. Standing Committees
+1.3.1.11. Special Committees
+1.3.1.12. Conflicts of Interest
+1.3.1.13. Revision or Amendment of Bylaws
+1.3.1.14. Community Relations/Public Input
+
+1.4. Bylaws are to be reviewed by each advisory board at least every three years.
+
+2. EXCEPTIONS
+
+Limited duration committees that are created by the board of commissioners or the chief
+administrative officer to serve for a period of time less than 90 days are not required to submit
+bylaws for approval.
+
+3. IMPLEMENTATION
+
+The Board of Commissioners has the authority to implement this policy.
+
+4. PERIODIC REVIEW
+
+This policy shall be reviewed by the Board of Commissioners’ Office at least every three years, or
+more often if needed, and updated as necessary.
+
+Adopted:    03/00
+
+Revised:      11/06

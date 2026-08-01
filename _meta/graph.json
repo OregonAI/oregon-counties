@@ -1,8 +1,8 @@
 {
  "corpus": "oregon-counties",
- "n_nodes": 1825,
- "n_edges": 6147,
- "n_edges_external": 6147,
+ "n_nodes": 1969,
+ "n_edges": 6294,
+ "n_edges_external": 6294,
  "nodes": [
   {
    "id": "benton-code-adpr",
@@ -7971,6 +7971,870 @@
    "title": "Veterans-Preference",
    "doc_type": "policy",
    "path": "counties/malheur-county/policies/malheur-policies-veterans-preference.md"
+  },
+  {
+   "id": "marion-policies-1003",
+   "title": "1003",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-1003.md"
+  },
+  {
+   "id": "marion-policies-1005-a",
+   "title": "1005-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-1005-a.md"
+  },
+  {
+   "id": "marion-policies-1005",
+   "title": "1005",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-1005.md"
+  },
+  {
+   "id": "marion-policies-101",
+   "title": "101",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-101.md"
+  },
+  {
+   "id": "marion-policies-102-a",
+   "title": "102-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-102-a.md"
+  },
+  {
+   "id": "marion-policies-102",
+   "title": "102",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-102.md"
+  },
+  {
+   "id": "marion-policies-201-a-table1",
+   "title": "201-A Table1",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-201-a-table1.md"
+  },
+  {
+   "id": "marion-policies-201-a",
+   "title": "201-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-201-a.md"
+  },
+  {
+   "id": "marion-policies-201",
+   "title": "201",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-201.md"
+  },
+  {
+   "id": "marion-policies-202-a",
+   "title": "202-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-202-a.md"
+  },
+  {
+   "id": "marion-policies-202",
+   "title": "202",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-202.md"
+  },
+  {
+   "id": "marion-policies-206-a",
+   "title": "206-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-206-a.md"
+  },
+  {
+   "id": "marion-policies-206",
+   "title": "206",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-206.md"
+  },
+  {
+   "id": "marion-policies-207-a",
+   "title": "207-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-207-a.md"
+  },
+  {
+   "id": "marion-policies-207-b",
+   "title": "207-B",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-207-b.md"
+  },
+  {
+   "id": "marion-policies-207",
+   "title": "207",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-207.md"
+  },
+  {
+   "id": "marion-policies-208",
+   "title": "208",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-208.md"
+  },
+  {
+   "id": "marion-policies-209-a",
+   "title": "209-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-209-a.md"
+  },
+  {
+   "id": "marion-policies-209",
+   "title": "209",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-209.md"
+  },
+  {
+   "id": "marion-policies-211-a",
+   "title": "211-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-211-a.md"
+  },
+  {
+   "id": "marion-policies-211",
+   "title": "211",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-211.md"
+  },
+  {
+   "id": "marion-policies-212-a",
+   "title": "212-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-212-a.md"
+  },
+  {
+   "id": "marion-policies-212",
+   "title": "212",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-212.md"
+  },
+  {
+   "id": "marion-policies-213-a-records-officers",
+   "title": "213-A Records Officers",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-213-a-records-officers.md"
+  },
+  {
+   "id": "marion-policies-213-a",
+   "title": "213-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-213-a.md"
+  },
+  {
+   "id": "marion-policies-213",
+   "title": "213",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-213.md"
+  },
+  {
+   "id": "marion-policies-214-a",
+   "title": "214-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-214-a.md"
+  },
+  {
+   "id": "marion-policies-214",
+   "title": "214",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-214.md"
+  },
+  {
+   "id": "marion-policies-215-a",
+   "title": "215-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-215-a.md"
+  },
+  {
+   "id": "marion-policies-215",
+   "title": "215",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-215.md"
+  },
+  {
+   "id": "marion-policies-301",
+   "title": "301",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-301.md"
+  },
+  {
+   "id": "marion-policies-302-a",
+   "title": "302-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-302-a.md"
+  },
+  {
+   "id": "marion-policies-302",
+   "title": "302",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-302.md"
+  },
+  {
+   "id": "marion-policies-303",
+   "title": "303",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-303.md"
+  },
+  {
+   "id": "marion-policies-305-a",
+   "title": "305-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-305-a.md"
+  },
+  {
+   "id": "marion-policies-305",
+   "title": "305",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-305.md"
+  },
+  {
+   "id": "marion-policies-306",
+   "title": "306",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-306.md"
+  },
+  {
+   "id": "marion-policies-307-a",
+   "title": "307-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-307-a.md"
+  },
+  {
+   "id": "marion-policies-307",
+   "title": "307",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-307.md"
+  },
+  {
+   "id": "marion-policies-401",
+   "title": "401",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-401.md"
+  },
+  {
+   "id": "marion-policies-402",
+   "title": "402",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-402.md"
+  },
+  {
+   "id": "marion-policies-403",
+   "title": "403",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-403.md"
+  },
+  {
+   "id": "marion-policies-405",
+   "title": "405",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-405.md"
+  },
+  {
+   "id": "marion-policies-406",
+   "title": "406",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-406.md"
+  },
+  {
+   "id": "marion-policies-407-a",
+   "title": "407-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-407-a.md"
+  },
+  {
+   "id": "marion-policies-407",
+   "title": "407",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-407.md"
+  },
+  {
+   "id": "marion-policies-408",
+   "title": "408",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-408.md"
+  },
+  {
+   "id": "marion-policies-409",
+   "title": "409",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-409.md"
+  },
+  {
+   "id": "marion-policies-415",
+   "title": "415",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-415.md"
+  },
+  {
+   "id": "marion-policies-416-a",
+   "title": "416-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-416-a.md"
+  },
+  {
+   "id": "marion-policies-416",
+   "title": "416",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-416.md"
+  },
+  {
+   "id": "marion-policies-417",
+   "title": "417",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-417.md"
+  },
+  {
+   "id": "marion-policies-430",
+   "title": "430",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-430.md"
+  },
+  {
+   "id": "marion-policies-431",
+   "title": "431",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-431.md"
+  },
+  {
+   "id": "marion-policies-432",
+   "title": "432",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-432.md"
+  },
+  {
+   "id": "marion-policies-490-a",
+   "title": "490-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-490-a.md"
+  },
+  {
+   "id": "marion-policies-490",
+   "title": "490",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-490.md"
+  },
+  {
+   "id": "marion-policies-491-a",
+   "title": "491-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-491-a.md"
+  },
+  {
+   "id": "marion-policies-491",
+   "title": "491",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-491.md"
+  },
+  {
+   "id": "marion-policies-492-a",
+   "title": "492-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-492-a.md"
+  },
+  {
+   "id": "marion-policies-492",
+   "title": "492",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-492.md"
+  },
+  {
+   "id": "marion-policies-493-a",
+   "title": "493-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-493-a.md"
+  },
+  {
+   "id": "marion-policies-493",
+   "title": "493",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-493.md"
+  },
+  {
+   "id": "marion-policies-496",
+   "title": "496",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-496.md"
+  },
+  {
+   "id": "marion-policies-502-a-attachment-e",
+   "title": "502-A Attachment E",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-502-a-attachment-e.md"
+  },
+  {
+   "id": "marion-policies-502-a",
+   "title": "502-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-502-a.md"
+  },
+  {
+   "id": "marion-policies-502",
+   "title": "502",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-502.md"
+  },
+  {
+   "id": "marion-policies-505-a",
+   "title": "505-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-505-a.md"
+  },
+  {
+   "id": "marion-policies-507",
+   "title": "507",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-507.md"
+  },
+  {
+   "id": "marion-policies-508-a",
+   "title": "508-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-508-a.md"
+  },
+  {
+   "id": "marion-policies-508",
+   "title": "508",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-508.md"
+  },
+  {
+   "id": "marion-policies-509",
+   "title": "509",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-509.md"
+  },
+  {
+   "id": "marion-policies-511-a",
+   "title": "511-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-511-a.md"
+  },
+  {
+   "id": "marion-policies-511",
+   "title": "511",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-511.md"
+  },
+  {
+   "id": "marion-policies-512",
+   "title": "512",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-512.md"
+  },
+  {
+   "id": "marion-policies-513",
+   "title": "513",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-513.md"
+  },
+  {
+   "id": "marion-policies-514-a",
+   "title": "514-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-514-a.md"
+  },
+  {
+   "id": "marion-policies-514",
+   "title": "514",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-514.md"
+  },
+  {
+   "id": "marion-policies-515",
+   "title": "515",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-515.md"
+  },
+  {
+   "id": "marion-policies-517",
+   "title": "517",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-517.md"
+  },
+  {
+   "id": "marion-policies-518-a",
+   "title": "518-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-518-a.md"
+  },
+  {
+   "id": "marion-policies-518",
+   "title": "518",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-518.md"
+  },
+  {
+   "id": "marion-policies-519",
+   "title": "519",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-519.md"
+  },
+  {
+   "id": "marion-policies-520",
+   "title": "520",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-520.md"
+  },
+  {
+   "id": "marion-policies-521-a",
+   "title": "521-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-521-a.md"
+  },
+  {
+   "id": "marion-policies-521",
+   "title": "521",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-521.md"
+  },
+  {
+   "id": "marion-policies-522-a",
+   "title": "522-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-522-a.md"
+  },
+  {
+   "id": "marion-policies-522",
+   "title": "522",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-522.md"
+  },
+  {
+   "id": "marion-policies-523-a",
+   "title": "523-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-523-a.md"
+  },
+  {
+   "id": "marion-policies-523",
+   "title": "523",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-523.md"
+  },
+  {
+   "id": "marion-policies-524-a",
+   "title": "524-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-524-a.md"
+  },
+  {
+   "id": "marion-policies-524-b",
+   "title": "524-B",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-524-b.md"
+  },
+  {
+   "id": "marion-policies-524-c",
+   "title": "524-C",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-524-c.md"
+  },
+  {
+   "id": "marion-policies-524",
+   "title": "524",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-524.md"
+  },
+  {
+   "id": "marion-policies-525-a-request-for-exception",
+   "title": "525-A Request for Exception",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-525-a-request-for-exception.md"
+  },
+  {
+   "id": "marion-policies-525-a",
+   "title": "525-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-525-a.md"
+  },
+  {
+   "id": "marion-policies-525",
+   "title": "525",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-525.md"
+  },
+  {
+   "id": "marion-policies-526-a",
+   "title": "526-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-526-a.md"
+  },
+  {
+   "id": "marion-policies-526",
+   "title": "526",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-526.md"
+  },
+  {
+   "id": "marion-policies-601",
+   "title": "601",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-601.md"
+  },
+  {
+   "id": "marion-policies-602-a-notice",
+   "title": "602-A Notice",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-602-a-notice.md"
+  },
+  {
+   "id": "marion-policies-602-a",
+   "title": "602-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-602-a.md"
+  },
+  {
+   "id": "marion-policies-602-b",
+   "title": "602-B",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-602-b.md"
+  },
+  {
+   "id": "marion-policies-602",
+   "title": "602",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-602.md"
+  },
+  {
+   "id": "marion-policies-603-a",
+   "title": "603-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-603-a.md"
+  },
+  {
+   "id": "marion-policies-603",
+   "title": "603",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-603.md"
+  },
+  {
+   "id": "marion-policies-604-a-nepotism-disclosure-form",
+   "title": "604-A Nepotism Disclosure Form",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-604-a-nepotism-disclosure-form.md"
+  },
+  {
+   "id": "marion-policies-604-a",
+   "title": "604-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-604-a.md"
+  },
+  {
+   "id": "marion-policies-604",
+   "title": "604",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-604.md"
+  },
+  {
+   "id": "marion-policies-701",
+   "title": "701",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-701.md"
+  },
+  {
+   "id": "marion-policies-702-a",
+   "title": "702-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-702-a.md"
+  },
+  {
+   "id": "marion-policies-702",
+   "title": "702",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-702.md"
+  },
+  {
+   "id": "marion-policies-703-a",
+   "title": "703-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-703-a.md"
+  },
+  {
+   "id": "marion-policies-703",
+   "title": "703",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-703.md"
+  },
+  {
+   "id": "marion-policies-704-a",
+   "title": "704-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-704-a.md"
+  },
+  {
+   "id": "marion-policies-704",
+   "title": "704",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-704.md"
+  },
+  {
+   "id": "marion-policies-705-a-remote-access-services",
+   "title": "705-A Remote Access Services",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-705-a-remote-access-services.md"
+  },
+  {
+   "id": "marion-policies-705-a-request-form",
+   "title": "705-A Request Form",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-705-a-request-form.md"
+  },
+  {
+   "id": "marion-policies-705-a",
+   "title": "705-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-705-a.md"
+  },
+  {
+   "id": "marion-policies-705",
+   "title": "705",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-705.md"
+  },
+  {
+   "id": "marion-policies-801-a-form",
+   "title": "801-A Form",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-801-a-form.md"
+  },
+  {
+   "id": "marion-policies-801-a",
+   "title": "801-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-801-a.md"
+  },
+  {
+   "id": "marion-policies-801",
+   "title": "801",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-801.md"
+  },
+  {
+   "id": "marion-policies-802",
+   "title": "802",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-802.md"
+  },
+  {
+   "id": "marion-policies-803",
+   "title": "803",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-803.md"
+  },
+  {
+   "id": "marion-policies-805",
+   "title": "805",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-805.md"
+  },
+  {
+   "id": "marion-policies-806",
+   "title": "806",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-806.md"
+  },
+  {
+   "id": "marion-policies-807",
+   "title": "807",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-807.md"
+  },
+  {
+   "id": "marion-policies-809-a",
+   "title": "809-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-809-a.md"
+  },
+  {
+   "id": "marion-policies-809",
+   "title": "809",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-809.md"
+  },
+  {
+   "id": "marion-policies-901-a",
+   "title": "901-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-901-a.md"
+  },
+  {
+   "id": "marion-policies-901",
+   "title": "901",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-901.md"
+  },
+  {
+   "id": "marion-policies-902-a",
+   "title": "902-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-902-a.md"
+  },
+  {
+   "id": "marion-policies-902",
+   "title": "902",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-902.md"
+  },
+  {
+   "id": "marion-policies-903",
+   "title": "903",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-903.md"
+  },
+  {
+   "id": "marion-policies-904",
+   "title": "904",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-904.md"
+  },
+  {
+   "id": "marion-policies-905",
+   "title": "905",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-905.md"
+  },
+  {
+   "id": "marion-policies-908",
+   "title": "908",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-908.md"
+  },
+  {
+   "id": "marion-policies-909-a-manual",
+   "title": "909-A Manual",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-909-a-manual.md"
+  },
+  {
+   "id": "marion-policies-909-a",
+   "title": "909-A",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-909-a.md"
+  },
+  {
+   "id": "marion-policies-909",
+   "title": "909",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-909.md"
+  },
+  {
+   "id": "marion-policies-910",
+   "title": "910",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-910.md"
+  },
+  {
+   "id": "marion-policies-eeop-utilization-report",
+   "title": "EEOP Utilization Report",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-eeop-utilization-report.md"
+  },
+  {
+   "id": "marion-policies-personnelrules",
+   "title": "Personnelrules",
+   "doc_type": "policy",
+   "path": "counties/marion-county/policies/marion-policies-personnelrules.md"
   },
   {
    "id": "multnomah-code-chapter-1-general-provisions",
@@ -30995,6 +31859,741 @@
    "from": "malheur-policies-veterans-preference",
    "type": "references_external",
    "to": "ORS 408.230"
+  },
+  {
+   "from": "marion-policies-1005-a",
+   "type": "references_external",
+   "to": "ORS 276.594"
+  },
+  {
+   "from": "marion-policies-1005",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-1005",
+   "type": "references_external",
+   "to": "ORS 811.602"
+  },
+  {
+   "from": "marion-policies-101",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-101",
+   "type": "references_external",
+   "to": "ORS 203.030"
+  },
+  {
+   "from": "marion-policies-101",
+   "type": "references_external",
+   "to": "ORS 203.710"
+  },
+  {
+   "from": "marion-policies-102",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-201-a-table1",
+   "type": "references_external",
+   "to": "ORS 192.640"
+  },
+  {
+   "from": "marion-policies-201-a-table1",
+   "type": "references_external",
+   "to": "ORS 192.660"
+  },
+  {
+   "from": "marion-policies-201",
+   "type": "references_external",
+   "to": "ORS 192.610"
+  },
+  {
+   "from": "marion-policies-201",
+   "type": "references_external",
+   "to": "ORS 192.640"
+  },
+  {
+   "from": "marion-policies-201",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-201",
+   "type": "references_external",
+   "to": "ORS 203.045"
+  },
+  {
+   "from": "marion-policies-202-a",
+   "type": "references_external",
+   "to": "ORS 192.410"
+  },
+  {
+   "from": "marion-policies-202",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-206",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-207",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-208",
+   "type": "references_external",
+   "to": "ORS 169.530"
+  },
+  {
+   "from": "marion-policies-208",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-209",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-211",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-212-a",
+   "type": "references_external",
+   "to": "ORS 30.260"
+  },
+  {
+   "from": "marion-policies-212-a",
+   "type": "references_external",
+   "to": "ORS 30.285"
+  },
+  {
+   "from": "marion-policies-212",
+   "type": "references_external",
+   "to": "ORS 166.293"
+  },
+  {
+   "from": "marion-policies-212",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-212",
+   "type": "references_external",
+   "to": "ORS 203.145"
+  },
+  {
+   "from": "marion-policies-213-a",
+   "type": "references_external",
+   "to": "ORS 192.311"
+  },
+  {
+   "from": "marion-policies-213-a",
+   "type": "references_external",
+   "to": "ORS 192.324"
+  },
+  {
+   "from": "marion-policies-213-a",
+   "type": "references_external",
+   "to": "ORS 192.407"
+  },
+  {
+   "from": "marion-policies-213-a",
+   "type": "references_external",
+   "to": "ORS 192.410"
+  },
+  {
+   "from": "marion-policies-213",
+   "type": "references_external",
+   "to": "ORS 192.311"
+  },
+  {
+   "from": "marion-policies-213",
+   "type": "references_external",
+   "to": "ORS 192.324"
+  },
+  {
+   "from": "marion-policies-213",
+   "type": "references_external",
+   "to": "ORS 192.407"
+  },
+  {
+   "from": "marion-policies-213",
+   "type": "references_external",
+   "to": "ORS 192.410"
+  },
+  {
+   "from": "marion-policies-213",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-214",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-215",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-301",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-302",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-305-a",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-305-a",
+   "type": "references_external",
+   "to": "ORS 401.165"
+  },
+  {
+   "from": "marion-policies-305-a",
+   "type": "references_external",
+   "to": "ORS 433.441"
+  },
+  {
+   "from": "marion-policies-305-a",
+   "type": "references_external",
+   "to": "ORS 433.442"
+  },
+  {
+   "from": "marion-policies-305-a",
+   "type": "references_external",
+   "to": "ORS 657B.060"
+  },
+  {
+   "from": "marion-policies-305-a",
+   "type": "references_external",
+   "to": "ORS 657B.150"
+  },
+  {
+   "from": "marion-policies-305-a",
+   "type": "references_external",
+   "to": "ORS 657B.430"
+  },
+  {
+   "from": "marion-policies-305-a",
+   "type": "references_external",
+   "to": "ORS 659A.104"
+  },
+  {
+   "from": "marion-policies-305-a",
+   "type": "references_external",
+   "to": "ORS 659A.150"
+  },
+  {
+   "from": "marion-policies-305-a",
+   "type": "references_external",
+   "to": "ORS 659A.159"
+  },
+  {
+   "from": "marion-policies-305-a",
+   "type": "references_external",
+   "to": "ORS 659A.162"
+  },
+  {
+   "from": "marion-policies-305-a",
+   "type": "references_external",
+   "to": "OAR 839-009-0340"
+  },
+  {
+   "from": "marion-policies-305",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-305",
+   "type": "references_external",
+   "to": "ORS 401.165"
+  },
+  {
+   "from": "marion-policies-305",
+   "type": "references_external",
+   "to": "ORS 433.441"
+  },
+  {
+   "from": "marion-policies-305",
+   "type": "references_external",
+   "to": "ORS 433.442"
+  },
+  {
+   "from": "marion-policies-305",
+   "type": "references_external",
+   "to": "ORS 657B.060"
+  },
+  {
+   "from": "marion-policies-305",
+   "type": "references_external",
+   "to": "ORS 657B.150"
+  },
+  {
+   "from": "marion-policies-305",
+   "type": "references_external",
+   "to": "ORS 657B.430"
+  },
+  {
+   "from": "marion-policies-305",
+   "type": "references_external",
+   "to": "ORS 659A.104"
+  },
+  {
+   "from": "marion-policies-305",
+   "type": "references_external",
+   "to": "ORS 659A.150"
+  },
+  {
+   "from": "marion-policies-305",
+   "type": "references_external",
+   "to": "ORS 659A.159"
+  },
+  {
+   "from": "marion-policies-305",
+   "type": "references_external",
+   "to": "ORS 659A.162"
+  },
+  {
+   "from": "marion-policies-305",
+   "type": "references_external",
+   "to": "OAR 839-009-0340"
+  },
+  {
+   "from": "marion-policies-307",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-406",
+   "type": "references_external",
+   "to": "ORS 294.435"
+  },
+  {
+   "from": "marion-policies-406",
+   "type": "references_external",
+   "to": "ORS 294.450"
+  },
+  {
+   "from": "marion-policies-407-a",
+   "type": "references_external",
+   "to": "ORS 297.405"
+  },
+  {
+   "from": "marion-policies-407-a",
+   "type": "references_external",
+   "to": "ORS 297.465"
+  },
+  {
+   "from": "marion-policies-407-a",
+   "type": "references_external",
+   "to": "ORS 297.466"
+  },
+  {
+   "from": "marion-policies-407-a",
+   "type": "references_external",
+   "to": "OAR 162-010-0000"
+  },
+  {
+   "from": "marion-policies-407-a",
+   "type": "references_external",
+   "to": "OAR 162-010-0330"
+  },
+  {
+   "from": "marion-policies-407",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-407",
+   "type": "references_external",
+   "to": "ORS 297.405"
+  },
+  {
+   "from": "marion-policies-407",
+   "type": "references_external",
+   "to": "ORS 297.425"
+  },
+  {
+   "from": "marion-policies-407",
+   "type": "references_external",
+   "to": "ORS 297.465"
+  },
+  {
+   "from": "marion-policies-407",
+   "type": "references_external",
+   "to": "ORS 297.466"
+  },
+  {
+   "from": "marion-policies-407",
+   "type": "references_external",
+   "to": "ORS 297.485"
+  },
+  {
+   "from": "marion-policies-407",
+   "type": "references_external",
+   "to": "ORS 297.670"
+  },
+  {
+   "from": "marion-policies-407",
+   "type": "references_external",
+   "to": "OAR 162-010-0000"
+  },
+  {
+   "from": "marion-policies-407",
+   "type": "references_external",
+   "to": "OAR 162-010-0020"
+  },
+  {
+   "from": "marion-policies-408",
+   "type": "references_external",
+   "to": "ORS 203.035"
+  },
+  {
+   "from": "marion-policies-408",
+   "type": "references_external",
+   "to": "ORS 288.805"
+  },
+  {
+   "from": "marion-policies-408",
+   "type": "references_external",
+   "to": "ORS 461.547"
+  },
+  {
+   "from": "marion-policies-409",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-415",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-416",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-417",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-430",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-431",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-432",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-490",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-490",
+   "type": "references_external",
+   "to": "ORS 294.455"
+  },
+  {
+   "from": "marion-policies-491",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-492",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-493",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-502-a",
+   "type": "references_external",
+   "to": "ORS 30.285"
+  },
+  {
+   "from": "marion-policies-502",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-502",
+   "type": "references_external",
+   "to": "ORS 860.010"
+  },
+  {
+   "from": "marion-policies-505-a",
+   "type": "references_external",
+   "to": "ORS 656.005"
+  },
+  {
+   "from": "marion-policies-505-a",
+   "type": "references_external",
+   "to": "ORS 656.210"
+  },
+  {
+   "from": "marion-policies-505-a",
+   "type": "references_external",
+   "to": "ORS 656.212"
+  },
+  {
+   "from": "marion-policies-505-a",
+   "type": "references_external",
+   "to": "ORS 659A.043"
+  },
+  {
+   "from": "marion-policies-508",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-514",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-518",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-518",
+   "type": "references_external",
+   "to": "ORS 438.010"
+  },
+  {
+   "from": "marion-policies-518",
+   "type": "references_external",
+   "to": "ORS 475.035"
+  },
+  {
+   "from": "marion-policies-518",
+   "type": "references_external",
+   "to": "ORS 475.525"
+  },
+  {
+   "from": "marion-policies-518",
+   "type": "references_external",
+   "to": "ORS 659A.127"
+  },
+  {
+   "from": "marion-policies-519",
+   "type": "references_external",
+   "to": "ORS 164.245"
+  },
+  {
+   "from": "marion-policies-522",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-522",
+   "type": "references_external",
+   "to": "ORS 646A.600"
+  },
+  {
+   "from": "marion-policies-523",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-524",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-525",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-525",
+   "type": "references_external",
+   "to": "ORS 659A.143"
+  },
+  {
+   "from": "marion-policies-525",
+   "type": "references_external",
+   "to": "OAR 839-006-0345"
+  },
+  {
+   "from": "marion-policies-526",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-601",
+   "type": "references_external",
+   "to": "ORS 166.715"
+  },
+  {
+   "from": "marion-policies-601",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-601",
+   "type": "references_external",
+   "to": "ORS 244.020"
+  },
+  {
+   "from": "marion-policies-602",
+   "type": "references_external",
+   "to": "ORS 171.120"
+  },
+  {
+   "from": "marion-policies-602",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-602",
+   "type": "references_external",
+   "to": "ORS 399.065"
+  },
+  {
+   "from": "marion-policies-602",
+   "type": "references_external",
+   "to": "ORS 654.062"
+  },
+  {
+   "from": "marion-policies-603",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-604",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-701",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-701",
+   "type": "references_external",
+   "to": "ORS 244.040"
+  },
+  {
+   "from": "marion-policies-702",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-703",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-704",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-705",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-801",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-801",
+   "type": "references_external",
+   "to": "ORS 433.835"
+  },
+  {
+   "from": "marion-policies-809-a",
+   "type": "references_external",
+   "to": "ORS 271.330"
+  },
+  {
+   "from": "marion-policies-809",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-901",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-902-a",
+   "type": "references_external",
+   "to": "ORS 244.010"
+  },
+  {
+   "from": "marion-policies-902",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-908",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-909",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-910",
+   "type": "references_external",
+   "to": "ORS 203.010"
+  },
+  {
+   "from": "marion-policies-personnelrules",
+   "type": "references_external",
+   "to": "ORS 652.140"
+  },
+  {
+   "from": "marion-policies-personnelrules",
+   "type": "references_external",
+   "to": "ORS 652.190"
+  },
+  {
+   "from": "marion-policies-personnelrules",
+   "type": "references_external",
+   "to": "ORS 656.506"
+  },
+  {
+   "from": "marion-policies-personnelrules",
+   "type": "references_external",
+   "to": "OAR 839-001-0420"
   },
   {
    "from": "multnomah-code-chapter-1-general-provisions",
