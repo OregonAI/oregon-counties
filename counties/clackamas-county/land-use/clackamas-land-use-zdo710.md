@@ -1,0 +1,604 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clackamas-county
+id: clackamas-land-use-zdo710
+title: 'Zdo710'
+doc_type: ordinance
+citation: 'Zdo710'
+authority_level: county_ordinance
+issuing_body: 'Clackamas County Board of Commissioners'
+source_url: https://www.clackamas.us/planning/zdo710
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: 175dd092b7ee261e1e074304524ebe81074272adf4f4e8b8d2402c030a099bb9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 30.930
+    - ORS 30.939
+  related: []
+  supersedes: []
+tags: [clackamas-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clackamas County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zdo710 (Zdo710)
+
+## At a glance
+
+Zdo710 — land use of Clackamas County. 13154 characters.
+
+## Full text
+
+ZDO 710: Sensitive Bird Habitat District (SBH) | Clackamas County 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Translate 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Jobs 
+ Events 
+ News 
+ Contact Us 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+
+ 
+ 
+ 
+ Community 
+ 
+ 
+ Business 
+ 
+ 
+ Departments 
+ 
+ 
+ Our County 
+ 
+ 
+ I want to... 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ ZDO 710: Sensitive Bird Habitat District (SBH) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ZDO 710: Sensitive Bird Habitat District (SBH) 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 710.01 Purpose Section 710 is adopted to: Conserve sensitive bird resources by protecting nesting and rearing habitat and providing buffer areas; Establish standards and procedures for evaluating and permitting developments which affect sensitive bird habitat areas; Implement the sensitive bird policies of the Natural Resources and Energy Chapter of the Comprehensive Plan; and Enhance coordination between County, state, federal, and other jurisdictional agencies regarding development activities in or near sensitive bird sites. 710.02 Applicability/Adoption of Reports The Sensitive Bird Habitat District (SBH) is an overlay district that consists of sensitive bird habitat areas as identified in the Comprehensive Plan policies and Sensitive Bird Inventory completed pursuant to the Goal 5 and Oregon Administrative Rules 660, Division 16 provisions. The sensitive habitat area to be protected pursuant to Section 710 shall be defined as the area necessary to protect the sensitive bird site from impacts adverse to its nesting and rearing activities. The area protected is dependent upon the specific species as described in the Comprehensive Plan Inventory and Economic, Social, Environmental, and Energy (ESEE) findings and conclusions. The standards and procedures of the SBH District apply to all development, alterations, and vegetation removal within any portion of a sensitive bird site habitat or buffer area. Should the County be notified by the Oregon Department of Fish and Wildlife that a sensitive bird site area no longer exists within an SBH District, development activities and uses shall not be subject to the provisions of Section 710. The sensitive bird habitat areas administered through these provisions are based upon the Comprehensive Plan Inventory and Economic, Social, Environmental and Energy (ESEE) findings and conclusions. The Inventory maps and ESEE reports are hereby adopted by reference and declared to be part of this Ordinance. 710.03 Definitions Unless specifically defined below, words or phrases used in Section 710 shall be interpreted to give them the same meaning as they have in common usage and to give Section 710 its most reasonable application. Alteration: A use which adversely impacts the condition of a sensitive bird habitat site and/or buffer area. Alterations include, but are not limited to, buildings or other structures, grading, filling, dredging, draining, channelizing, mining, paving (including sidewalks, roads and bike paths), surface water management facilities, or other land uses that adversely impact the existing vegetation, hydrology, wildlife or wildlife habitat. Development: A partition, subdivision, or property line adjustment which may or may not include an alteration. Economic, Social, Environmental and Energy (ESEE) Analysis: The analysis conducted pursuant to Statewide Planning Goal 5 in which the County evaluates the conflicting use economic, social, environmental and energy consequences and the Board of County Commissioners reached a decision of which, if any, conflicting use(s) would be allowed fully or on a limited basis. Rookery: A discrete area that contains one or more Great Blue Heron nests. Sensitive Bird Habitat: The nesting, rearing and roosting area of sensitive birds as identified in the Comprehensive Plan. Sensitive Bird, Buffer: An area around a sensitive bird site, determined to be appropriate for the specific species, that is included on the planned and zoned SBH District overlay maps Sensitive Bird Habitat, Edge or Boundary: The boundary of a sensitive bird habitat area as mapped on the Comprehensive Plan Sensitive Bird Habitat Inventory maps. Generally, the edge or boundary is the line, represented by a horizontal line regardless of elevation between sensitive bird habitat areas and nonsensitive bird habitat areas. 710.04 Uses in Sensitive Bird Habitat Areas Alterations and developments consistent with the underlying zoning district located within an SBH District may be granted, subject to review of an SBH District Permit, which shall require review as a Type II application pursuant to Section 1307 and shall be subject to the following standards and criteria: The proposal is consistent with Policy 11.0 of the Wildlife Habitats and Distinctive Resource Areas Section of the Natural Resources and Energy Element of the Comprehensive Plan; A mitigation plan demonstrates the proposed alteration or development will not disrupt the nesting or rearing habitat; and Vegetation and construction management plans demonstrate the alteration or development will be consistent with the provisions Section 710. Prohibited Uses: Vegetation removal within the buffer is prohibited unless the removal is permitted in conjunction with a vegetation and construction management plan described in Subsection 710.04(A)(3). Exempt Uses: Modifications that do not extend beyond the footprint of legally established uses, structures, and facilities are exempt from the provisions of this subsection. Commercial forest practices subject to Oregon Revised Statutes (ORS) Chapter 527 and the Oregon Administrative Rules (OARs) adopted pursuant thereto. Agricultural practices subject to ORS 30.930 through ORS 30.939 and the OARs adopted pursuant thereto. 710.05 Development Standards The following standards shall apply to alterations or development in sensitive bird habitat areas. Based on the biology and characteristics of the species and characteristics of the site, the proposed alteration or development shall provide protection that will prevent destruction or abandonment of the subject site. Alteration activities shall be prohibited during the nesting season unless the Oregon Department of Fish and Wildlife determines in writing the proposed alteration will not be disruptive to the nest or rookery. Alterations necessary to (1) repair or reconstruct septic systems or structures damaged or (2) destroyed by fire or natural causes are exempt from this provision. New roads, driveways, or public trails shall be located the greatest distance possible from the nest or rookery unless topographic, vegetation, or structural features will provide greater visual or noise buffer to the nest or rookery. Existing vegetation buffers the nest or rookery and shall be retained unless removal is granted pursuant to Subsection 710.04(A). No land divisions or property line adjustments shall be approved which would result in the location of a structure within the designated sensitive habitat area. Exterior lighting for new uses shall be sited and shielded away from the nest or rookery. Residential lots of record where lot configuration precludes compliance with these provisions shall be exempt when proposed structures are sited the maximum practical distance from the rookery. Additions to existing structures which are located closer than the required buffer shall be permitted provided the addition complies with the remaining provisions of this subsection Sensitive bird habitat areas disturbed by alterations considered pursuant to Subsection 710.04(A) shall be re-vegetated with plants not identified on the Planning Director's Prohibited Plant List at a pre-removal or greater density within 90 days of completion, considering Subsection 710.05(B), or a surety agreement shall be provided pursuant to Section 1311, Completion of Improvements, Sureties, and Maintenance. The developer shall submit a written contract guaranteeing vegetation survival of at least 80 percent for a minimum one-year period. Prior to commencing alteration or construction activities on parcels containing sensitive bird habitat, the edge of the SBH District and buffer area, as identified on the County maps, shall be clearly marked with stakes connected by flagging. The applicant shall retain this temporary marking until construction is completed and vegetation on the site is reestablished. 710.06 Submittal Requirements In addition to the submittal requirements identified in Subsection 1307.07(C), an application for an SBH District Permit in sensitive bird habitat and buffer areas considered pursuant to Subsection 710.04(A) shall include the following: A site plan showing existing natural features and the proposed development on the site(s), including proposed alterations, vegetation removal, surface water sources, tree cutting activity, utilities, easements, and location of the nesting or rookery site and respective buffer; A written analysis describing how the proposal is consistent with Policy 11.0 of the Wildlife Habitats and Distinctive Resource Areas Section of the Natural Resources and Energy Element of the Comprehensive Plan; A written construction management plan describing the timing and sequence of construction activities, equipment, surface water management, and erosion control plan; and A vegetation plan that includes the species and quantity to be removed and planted, and any maintenance activities that will be used to ensure survival and growth of the vegetation. 710.07 Approval Period and Time Extension Approval Period: Approval of an SBH District Permit is valid for four years from the date of the final written decision. If the County's final written decision is appealed, the approval period shall commence on the date of the final appellate decision. During this four-year period, the approval shall be implemented. "Implemented" means: "Implemented" means all major development permits shall be obtained and maintained, or if no major development permits are required to complete the development contemplated by the approved SBH District Permit, "implemented" means all other necessary County development permits (e.g. grading permit, building permit for an accessory structure) shall be obtained and maintained. A "major development permit" is: A building or manufactured dwelling placement permit for a new primary structure that was part of the SBH District Permit approval; or A permit issued by the County Engineering Division for parking lot or road improvements that were part of the WRG permit approval. Time Extension: If the approval of an SBH District Permit is not implemented within the initial approval period established by Subsection 710.07(A), a two-year time extension may be approved, pursuant to Subsection 1310. [Amended by Ord. ZDO-248, 10/13/14; Amended by Ord. ZDO-253, 6/1/15 Return to the Zoning and Development Ordinance main page. Contact zoninginfo@clackamas.us for additional information. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Phone: 503-742-4500 
+ Email: zoninginfo@clackamas.us 
+ 
+ 
+ 
+ 150 Beavercreek Road Room #225 Oregon City, OR 97045 
+ 
+ 
+ Office Hours: Monday to Thursday  8 a.m. to 4 p.m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's My Zoning? 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Related Events 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Related Events
+ 
+ 
+ 
+ 
+ Board of County Commissioners, Planning and Zoning 
+ 
+ 
+ Aug 
+ 04 
+ 
+ 
+ 11:00 am 
+ - 11:30 am 
+ 
+ 
+ Land Use Hearing: Z0437-25 and Z0438-25 - Aug. 4, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Aug 
+ 20 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0096-26 - Aug. 20, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Sep 
+ 03 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0207-26 - Sept. 3, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ more events 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ SHORTCUTS 
+ 
+ 
+ 
+ Jobs Procurement Process, Contracts and Grants Pay Online CMap Contact the County Report a Hazard County Code Public Records Request HIPAA/Privacy Concerns Civil Rights ACA Complaint Form Accessibility Statement Title VI Compliance Plan Website Privacy Media Contacts 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ELECTED OFFICIALS 
+ 
+ 
+ 
+ Chair Craig Roberts Commissioner Diana Helm Commissioner Paul Savas Commissioner Martha Schrader Commissioner Ben West   County Assessor/Tax Collector Bronson Rueda County Clerk Catherine McMullen District Attorney John Wentworth Justice of the Peace Kathleen Rastetter Sheriff Angela Brandenburg Treasurer Brian Nava 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can’t find what you're looking for? 
+ 
+ 
+ 
+ 
+ Search Box 
+ 
+
+ 
+ enter your search here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2026 Clackamas County

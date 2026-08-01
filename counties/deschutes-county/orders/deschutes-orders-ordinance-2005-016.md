@@ -1,0 +1,1217 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2005-016
+title: 'Ordinance No. 2005-016'
+doc_type: ordinance
+citation: 'Ordinance No. 2005-016'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616978992_2005-667-Ordinance%20No.%202005-016%20Recorded%205_3_2005.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: f9c12686a7af8348623c9d68aff1910c0a431fa80605f652f1cde4f4031ac368
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2005-016 (Ordinance No. 2005-016)
+
+## At a glance
+
+Ordinance No. 2005-016 — orders of Deschutes County. 16 pages.
+
+## Full text
+
+REVIE) kED
+2r
+LEGAL COUNSEL
+REVIEWED
+gm—
+CODE REVIEW COMMITTEE
+DESCHUTES COUNTY OFFICIAL RECORDS
+NANCY BLANKENSHIP, COUNTY CLERK U SHP
+COMMISSIONERS' JOURNAL At 1A1JIAAK I 1 1Al l It ON
+For Recording Stamp Only
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 18 of the Deschutes
+County Code and Declaring an Emergency. ORDINANCE NO. 2005- 016
+WHEREAS, Hap Taylor & Sons, Inc applied for a text amendmentto Title 18 of the DeschutesCounty
+Code ( file number TA - 04- 7); and
+WHEREAS, the DeschutesCounty Planning Commission, considered this matter after a public hearing
+on December 9, 2004 and forwarded a recommendation to the Board of County Commissioners to approve the
+text amendment with changes, and
+WHEREAS, notice was given and hearing conducted on April 5, 2005, before the Board of County
+Commissioners (" Board") in accordance with applicable law; and
+WHEREAS, on this same date, the Board adopted Ordinance 2005-017 amending Title 23 of the
+Deschutes County Code to allow for the creation of the Tumalo Industrial zone; and
+WHEREAS, the Board approved the proposed text amendment with the changesrecommendedby the
+Planning Commission and the applicant' sproposed revisions; now, therefore
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 18. 12, Establishment of Zones, is amended to read as described
+in Exhibit " A," attached hereto and by this reference incorporated herein, with new language underlined and
+language to be deleted in str-ikegffeugh.
+Section 2. AMENDMENT. DCC 18.67, Tumalo Rural Community Zoning Districts, is amended
+to read as described in Exhibit " B," attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in str-ikegffetigh.
+PAGE I OF 2 - ORDINANCE NO. 2005- 016 ( 04/ 27/ 2005)
+Section 3. EMERGENCY. This Ordinance being necessaryfor the immediate preservation of the
+public peace, health and safety, an emergency is declaredto exist, and this Ordinance takes effect on its passage.
+APPROVED this day of 2005 for the Deschutes County Board
+of Commissioners.
+0-,6- Se-,, t -
+Tom DeWolf, Chair
+ATTEST:
+0-, 6OL4---
+Recording Secretary
+yAay ofDate of 1 "Reading: O& J)" 2005.
+1
+J -A
+Dateof 2ndReadingo=-— day of ahlkL, 2005.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Tom DeWolf
+Michael M. Daly
+Dennis R. Luke
+Effective date: 2005. day of 6q
+ATTEST:
+t1kM,-
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. 2005- 016 ( 04/ 27/ 2005)
+R. Luke, Commissioner
+EXHIBIT " A"
+Chapter 18. 12. ESTABLISHMENT OF
+Abbreviations
+ZONES
+18. 12. 010. Establishment of zones.
+18. 12. 020. Location of zones.
+18. 12. 030. Zoning map.
+18. 12. 040. Zone boundaries.
+18. 12. 010. Establishment of zones.
+For the purpose of DCC Title 18, the following
+primary zones, combining zones, subzones and
+zone districts arehereby established:
+A. Primary zones.
+Primary Zones Abbreviations
+Airport Development AD
+Exclusive Farm Use Zones EFU
+Flood Plain FP
+Forest Use F I
+Forest Use F2
+Multiple Use Agriculture MUA 10
+Open Space and Conservation OS& C
+Rural Commercial RC
+Rural Industrial RI
+Rural Residential RRIO
+Rural Service Center RSC
+Surface Mining SM
+B. Combininiz zones.
+Combining Zones Abbreviations
+Airport Height AH
+Conventional Housing CH
+Destination Resort DR
+Landscape Management LM
+Limited Use LU
+Sensitive Bird & Mammal Habitat SBM
+SurfaceMining Impact Area SMIA
+Wildlife Area WA
+C. Exclusive Farm Use Zones.
+Exclusive Farrn Use Subzones Abbreviations
+Alfalfa EFUAL
+Horse Ridge East EFUHR
+La Pine EFULA
+Lower Bridge EFULB
+Sisters/ Cloverdale EFUSC
+Terrebonne EFUTE
+Tumalo/ Redmond/ Bend EFUTRB
+D. Unincorporated Community Zones.
+La Pine Urban Unincorporated
+Communitv-
+La Pine Planning Area Abbreviations
+Commercial District LPC
+Community Facility District LPCF
+Community Facility Limited District LPCFL
+Flood Plain District LPFP
+Industrial District LPI
+Business Park District LPBP
+Residential District LPR
+Sewer Treatment District LPST
+Neighborhood Planning Area Abbreviations
+Neighborhood Community Facility LPNCF
+Neighborhood Community Facility LPNCFL
+Limited
+Resort Equestrian District
+Neighborhood Commercial LPNC
+Neighborhood Park LPNPK
+Neighborhood Open Space LPNO
+Neighborhood Residential Center LPNRC
+Neighborhood Residential General LPNRG
+Wickiup Planning Area Abbreviation
+Wickiup Commercial/Residential LPWJ
+2. Sunriver Urban Unincorporated
+Sunriver LTUC Districts Abbreviations
+Airport District SUA
+Business Park District SUBP
+Commercial District SUC
+Community GeneralDistrict SUCG
+Community Limited District SUCL
+Community Neighborhood District SUCN
+Community Recreation District SUCR
+Flood Plain Combining District SUFP
+Forest District SUF
+Multiple Family Residential District SURM
+Resort District SUR
+Resort Equestrian District SURE
+Resort Golf Course District SURG
+Resort Marina District SURA
+Resort Nature Center District SURN
+Single Family Residential District SURS
+UtilityDistrict SUU
+Page I of 3 — Exhibit " A" TO ORDINANCE 2005- 016 ( 4/ 25/ 05)
+EXHIBIT " A"
+3. 1 errebonne Kural Uommuni
+Terrebonne RC Districts Abbreviations
+Commercial District TERC
+Commercial - Rural District TECR
+Residential District TER
+Residential - 5 acre minimum
+District TER5
+4. 1 umaio Kurai uomr
+Tumalo RC Districts Abbreviations
+Commercial District TUC
+Residential District TUR
+Residential - 5 acre minimum
+District TUR5
+Research & Development District TURE
+Industrial District TUI
+5. Rural Service Center.
+Commercial/ Mixed Use District RSC- C/ M
+Residential RSC - R
+Open Space RSC - OS
+6. Resort Community.
+A. Black Butte Ranch Abbreviations
+Resort District BBRR
+Surface Mining District/ Limited Use BBRSM
+Utility District/ Limited Use BBRU
+B. Inn of the 7th Mountain/ Widgi Creek Abbreviations
+Resort District SMWCR
+Widgi Creek Residential District WCR
+7. Rural Commercial
+Deschutes Junction RC
+River Woods Store RC
+Spring River RC_ LU
+Ord. 2005- 016 § 1, 2005, Ord. 2002- 019 § 1,
+2002, Ord. 2002- 001, § 1, 2002, Ord. 2001- 048 §
+4, 2001, Ord. 2001- 044 § 2, 2001; Ord. 98- 063 §
+2, 1998; Ord. 96- 003 § 4, 1996; Ord. 92- 025 § 5,
+1992)
+18. 12. 020. Location of zones.
+The boundaries for the zones listed in DCC Title
+18 are indicated on the DeschutesCounty Zoning
+Map which is hereby adopted by reference. The
+boundaries shall be modified subject to zoning
+map amendments which shall be adopted by
+reference.
+Ord. 91- 020 § 1, 1991)
+18.12.030. Zoning map.
+A zoning map amendment adopted by DCC
+18.12.020, above, or by an amendment thereto
+shall be prepared by authority of the Planning
+Director or Hearings Body or Board of County
+Commissioners. The map or map amendment
+shall be dated with the effective date of the order
+or ordinance that adopts the map or map
+amendment. A certified print of the adoptedmap
+shall be maintained in the office of the County
+Clerk as long as the map adoption order or
+ordinance remains in effect. A copy of all map
+amendments, which shall contain a legal
+description of the area to be amended as well as a
+map reflecting the previous zoning and a map of
+the amendment, shall be maintained in the office
+of the County Clerk.
+Ord. 91- 020 § 1, 1991)
+18. 12. 040. Zone boundaries.
+Unless otherwise specified, zone boundaries are
+section lines, subdivision lines, lot lines, center
+lines of street or railroad rights of way, water
+courses, ridges or rimrocks, other readily
+recognizable or identifiable natural features, or
+the extension of such lines. Whenever
+uncertainty exists as to the boundary of a zone as
+shown on the zoning map or amendment thereto,
+the following rules shall apply:
+A. Where a boundary line is indicated as
+following a street, alley, canal or railroad
+right of way, it shall be construed as
+following the centerline of such right of way.
+B. Where a boundary line follows or
+approximately coincides with a section lines
+or division thereof, lot or property ownership
+line, it shall be construed as following such
+line.
+C. If a zone boundary as shown on the zoning
+map divides a lot or parcel between two
+zones, the entire lot or parcel shall be deemed
+to be in the zone in which the greater area of
+the lot or parcel lies, provided that this
+adjustment involves a distance not exceeding
+100 feet from the mapped zone boundary.
+DCC Title 18 does not apply to areaszoned
+flood plain.
+Page I of 3 — Exhibit " A" TO ORDINANCE 2005- 016 ( 4/ 25/ 05)
+Z!,
+EXHIBIT " A"
+Ord. 91- 020 § 1, 1991; Ord. 91- 005 § 3, 1991;
+Ord. 80- 206 § 2, 1980)
+Page I of 3 — Exhibit " A" TO ORDINANCE 2005- 016 ( 4/ 25/ 05)
+Chapter 18. 67. TUMALO RURAL
+COMMUNITY ZONING
+DISTRICTS
+18. 67. 010. Purpose.
+18. 67. 020. Residential ( TuR) district.
+18. 67. 030. Residential - 5 acre minimum
+TuR5) district.
+18. 67. 040. Commercial ( TuC) district.
+18. 67. 050. Research and development
+district.
+18. 67. 060. Industrial ( Tul) district.
+18. 67. 0670. Flood plain district.
+18. 67. 0-780. Standards for all districts.
+18.67.0990.Right- of-way development
+standards.
+18. 67. 010. Purpose.
+The purpose of DCC 18. 67 is to establish
+standards and review procedures for the future
+development of the Tumalo Rural Community.
+Five Six separatezoning districts are established,
+each with its own set of allowed uses and district
+regulations.
+Ord. 97- 033 § 2, 1997)
+18. 67. 020. Residential ( TuR) district.
+The Tumalo Residential ( TuR) District allows a
+mixture of housing types and densities suited to
+the level of available water and sewer facilities.
+The purpose of this district is to allow new
+residential development that is compatible with
+the rural character of the area.
+A. Permitted Uses. The following usesand their
+accessoryuses are permitted outright and do
+not require site plan review.
+1. Single- family dwelling, or a
+manufactured home subject to DCC
+18. 116. 070.
+2. Two-family dwelling.
+3. Type 1 Home Occupation, subject to
+DCC 18. 116. 280.
+4. Agricultural uses as defined in DCC Title
+18, involving:
+a. Keeping of cows, horses, goats,
+sheep or similar farrn animals,
+provided that the total number of
+such animals over the age of six
+months is limited to one for each
+20, 000 square feet.
+b. Keeping of chickens, fowl, rabbits or
+similar farm animals, provided that
+the total number of such animals
+over the age of six months does not
+exceed one for each 500 square feet
+of property.
+5. Class I and II road or street project
+subject to approval as part of a land
+partition, subdivision or subject to the
+standards of DCC 18. 67. 080 and
+18. 116. 230.
+6. Class III road or street project.
+7. Operation, maintenance, and piping of
+existing irrigation systemsoperatedby an
+Irrigation District except as provided in
+DCC 18. 120. 050.
+B. Conditional Uses. The following uses and
+their accessory uses are permitted subject to
+the applicable provisions of DCC 18. 67,
+18. 116, 18. 124, and 18. 128:
+1. Multi -family dwelling complex.
+2. Retirement center or nursing home.
+3. Church.
+4. Cemetery.
+5. Type 2 or Type 3 Home Occupation,
+subject to DCC 18. 116. 280.
+6. Child care center.
+7. Public or private school.
+8. Park.
+9. Public or semi-public building.
+10. Utility facility.
+11. Water supply or treatment facility.
+12. Wireless telecommunications facilities,
+except those facilities meeting the
+requirements of DCC 18. 116. 250( A) or
+B).
+13. Surface mining of mineral and aggregate
+resources in conjunction with the
+operation and maintenance of irrigation
+systems operated by an Irrigation
+District, including the excavation and
+mining for facilities, ponds, reservoirs,
+and the off- site use, storage, and sale of
+excavated material.
+C. Lot Requirements.
+1. Partitions:
+Page I of I I— Exhibit " B" TO ORDINANCE 2005- 016 ( 4/ 25/ 05)
+a. Subject to the provisions of DCC zoned land that is receiving special
+17. 36. 170( A), parcels not served by assessment. for farm use shall be set
+an approved community, non- back a minimum of 100 feet from the
+community or municipal water common property line.
+system shall have a minimum width Ord. 2004- 002 § 17, 2004; Ord. 2001- 039 §
+of 150 feet with a minimum parcel 8, 2001; Ord. 2001- 016 § 2, 2001; Ord. 97 -
+size of one acre. 063 § 3, 1997; Ord. 97- 033 § 2, 1997)
+b. Subject to DCC 17. 36. 170( A),
+parcels served by an approved 18. 67. 030. Residential - 5 acre minimum
+community, non - community, TuR5) District.
+municipal or public water system, The purpose of the Tumalo Residential - 5 Acre
+shall have a minimum parcel size as Minimum District is to retain large rural
+follows: residential lots.
+1. For a single-family dwelling the
+parcel shall have a minimum A. Permitted Uses. The following usesand their
+width of 100 feet and a minimum accessory uses are permitted outright and do
+parcel size of 22, 000 square feet. not require site plan review.
+2. For a two-family dwelling the
+1. Single- family dwelling or a
+parcel shall have a minimum manufactured home subject to DCC
+width of 100 feet and a minimum 18. 116. 070.
+parcel size of 33, 000 square feet. 2. Type I Home Occupation, subject to
+2. Subdivisions: DCC 18. 116. 280.
+a. For subdivisions involving multi-
+3. Agricultural uses as defined in DCC
+family dwellings, a manufactured 18.04, involving:
+home park or a retirement home, all a. Keeping of cows, horses, goats,
+new lots shall be connected to a sheep or similar farm animals,
+DEQ -permitted Wastewater provided that the total numbers of
+Pollution Control Facility.
+such animals over the age of six
+b. For subdivisions involving only months is limited to the square
+single-family and two-family footage of the lot or parcel divided
+dwellings the standards set forth in by 20,000 square feet.
+DCC 18.67.020( C)( 1) shall apply.
+b. Keeping of chickens, fowl, rabbits or
+similar farin animals over the age of
+D. Yard Standards. six months, provided that the total
+I . Front Yard. The front yard shall be 20 numbers of such animals does not
+feet for a property fronting on a local exceed one for each 500 square feet
+streetright-of-way, 30 feet for a property of property.
+fronting on a collector right- of- way and 4. Class I and H road or street project
+80 feet for a property fronting on an subject to approval as part of a land
+arterial right- of- way. partition, subdivision or subject to the
+2. Side Yard. A side yard shall be a standards of DCC 18. 67. 080 and
+minimum of five feet and the sum of the 18. 116. 230.
+two side yards shall be a minimum of 15 5. Class III road or street project.
+feet, subject to DCC 18. 67. 020( D)( 4). 6. Operation, maintenance, and piping of
+3. Rear Yard. The minimum rear yard shall
+existing irrigation systemsoperatedby an
+be 20 feet, subject to DCC Irrigation District except as provided in
+18. 67. 020( D)( 4). DCC 18. 120. 050.
+4. Exception to Yard Standards. Any new
+structure requiring a building permit on
+B. Conditional Uses. The following uses and
+a lot or parcel contiguous to EFU- their accessory uses are permitted subject to
+Page 2 of I I— Exhibit " B" TO ORDINANCE 2005- 016 ( 4/ 25/ 05)
+the applicable provisions of DCC 18. 116,
+18. 124, and 18. 128:
+1. Church.
+2. Type 2 or Type 3 Home Occupation,
+subject to DCC 18. 116. 280.
+3. Public or private school.
+4. Child care center.
+5. Park.
+6. Public or semi-public building.
+7. Utility facility.
+8. Water supply or treatment facility.
+9. Wireless telecommunications facilities,
+except those facilities meeting the
+requirements of DCC 18. 116. 250( A) or
+B)_
+10. Surface mining of mineral and aggregate
+resources in conjunction with the
+operation and maintenance of irrigation
+systems operated by an Irrigation
+District, including the excavation and
+mining for facilities, ponds, reservoirs,
+and the off- site use, storage, and sale of
+excavated material.
+C. Lot Requirements. The minimum lot or
+parcel size in the TuR5 District is five acres.
+D. Yard Standards.
+I . Front Yard. The front yard shall be 20
+feet for a property fronting on a local
+streetright- of-way, 30 feet for a property
+fronting on a collector right- of- way, and
+80 feet for a property fronting on an
+arterial right- of- way.
+2. Side Yard. A side yard shall be a
+minimum of five feet and the sum of the
+two side yards shall be a minimum of 15
+feet, subject to DCC 18. 67. 030( D)( 4).
+3. Rear Yard. The minimum rear yard shall
+be 20 feet, subject to DCC
+18. 67. 030( D)( 4).
+4. Exception to Yard Standards. Any new
+structure requiring a building permit on
+a lot adjacent to EFU- zoned land that is
+receiving special assessmentfor farm
+use shall be set back a minimum of 100
+feet from the common property line.
+Ord. 2004- 002 § 18, 2004; Ord. 2001- 039 §
+8, 2001; Ord. 2001- 016 § 2, 2001; Ord. 2000-
+033 § 11, 2000; Ord. 97- 063 § 3, 1997; Ord.
+97- 033 § 2, 1997)
+18. 67. 040. Commercial ( TuC) district.
+The Tumalo Commercial District is intended to
+allow a range of limited commercial and
+industrial uses to serve the community and
+surrounding area.
+A. Permitted Uses. The following usesand their
+accessory uses are permitted outright and do
+not require site plan review.
+I . Single-family dwelling or duplex.
+2. Manufactured home subject to DCC
+18. 116. 070.
+3. Type I Home Occupation, subject to
+DCC 18. 116. 280.
+4. Class I and 11 road or street project
+subject to approval as part of a land
+partition, subdivision or subject to the
+standards of DCC 18. 67. 060 and
+18. 116. 230.
+5. Class III road or street project.
+6. Operation, maintenance, and' piping of
+existing irrigation systemsoperatedby an
+Irrigation District except as provided in
+DCC 18. 120. 050.
+B. Uses Pennitted, Subject to Site Plan Review.
+The following uses and their accessoryuses
+are permitted subject to the applicable
+provisions of DCC 18. 67, 18. 116 and 18. 124:
+1 . A building or buildings, none of which
+exceeds 4, 000 square feet of floor space
+to be used by any combination of the
+following uses:
+a. Retail or service business.
+b. Eating and/or drinking establishment.
+c. Offices.
+d. Residential use in the samebuilding
+as a use permitted in DCC 18. 67. 040.
+2. Any of the uses listed under DCC
+18.67.040 proposing to occupy more than
+4, 000 square feet of floor area in a
+building subject to the provisions of
+DCC 18. 67. 040( E).
+C. Conditional Uses. The following uses and
+their accessory uses are permitted subject to
+the applicable provisions of DCC 18. 116,
+18. 124, and 18. 128:
+1. Church.
+Page 3 of I I— Exhibit " B" TO ORDINANCE 2005- 016 ( 4/ 25/ 05)
+2. Bed and breakfast inn.
+3. Child care center.
+4. Type 2 or Type 3 Home Occupation,
+subject to DCC 18. 116. 280.
+5. Park.
+6. Public or semi-public building.
+7. Utility facility.
+8. Water supply or treatment facility.
+9. Manufactured home/ RV park on a parcel
+in use as a manufactured home park or
+recreational vehicle park prior to the
+adoption of PL -15 in 1979 and being
+operated as of June 12, 1996 as a
+manufactured home park or recreational
+vehicle park, including any expansion of
+such uses on the same parcel as
+configured on June 12, 1996.
+10. The following uses and their accessory
+uses may be conducted in a building or
+buildings not to exceed 4, 000 square feet
+of floor space.
+a. Farm equipment, sales, service or
+repair.
+b. Trailer sales, service or repair.
+c. Vehicle service or repair.
+d. Veterinary clinic.
+11. The following usesmay be conducted in
+a building or buildings not to exceed
+10, 000 square feet of floor space:
+a. Manufacturing or production.
+b. Wholesale sales.
+12. Wireless telecommunications facilities,
+except those facilities meeting the
+requirements of DCC 18. 116. 250( A) or
+B).
+13. Surface mining of mineral and aggregate
+resources in conjunction with the
+operation and maintenance of irrigation
+systems operated by an Irrigation
+District, including the excavation and
+mining for facilities, ponds, reservoirs,
+and the off- site use, storage, and sale of
+excavated material.
+D. Use Limitations. The following use
+limitations shall apply to the uses listed in
+DCC 18. 67. 040( C)( I 1).
+1. Compatibility.
+a. Any use expected to generate more
+than 50 truck -trailer and/ or heavy
+equipment trips per day to and from
+the subject property shall not be
+permitted to locate on a lot or parcel
+adjacent to or across a local or
+collector street from a lot or parcel in
+a residential district.
+2. Traffic and Parking.
+a. A use that generates more than 20
+auto or truck trips during the peak
+hour of the day to and from the
+premises shall document with facts
+that the affected transportation
+facilities are adequate to serve the
+proposed use, considering the
+functional classification, capacity
+and level of service of the affected
+transportation facility.
+b. All parking demand generated by
+uses permitted by DCC 18.67 shall
+be accommodated entirely on the
+premises.
+E. Requirements for Large Scale Uses.
+I . All useslisted in DCC 18.67.040(B) may
+have a total floor area exceeding 4,000
+square feet but not greater than 10, 000
+square feet if the Planning Director or
+HearingsBody finds:
+a. The use is intended to serve the
+community and surrounding rural
+area or the traveling needs of people
+passing through the area;
+b. The use will primarily employ a
+work force from the community and
+surrounding rural area; and
+c. It is not practical to contain the
+proposed use within 4, 000 square
+feet of the floor area.
+2. This provision does not apply to uses
+listed in DCC 18. 67. 040( C)( I 0).
+3. For the purposes of DCC 18. 67. 040, the
+surrounding rural area is described as the
+following: extending north to the
+Township boundary between Townships
+15 and 16; extending west to the
+boundaryof thepublic landsmanagedby
+the U. S. Forest Service in T16S- RIIE;
+extending south to the south section lines
+of T17S- Rl2E sections 4, 5,6 and T17S-
+Page 4 of I I— Exhibit " B" TO ORDINANCE 2005- 016 ( 4/ 25/ 05)
+RHE sections 1,2,3; and extending east
+to Highway 97.
+F. Design Standards. Ground Floor Windows.
+The following criteria for ground floor
+windows apply to new buildings in the TuC
+district except those uses listed in DCC
+18. 67. 040( C)( 10) and any residential use.
+The provisions of DCC 18. 124 also apply.
+I . The windows must be at least 50 percent
+of the length of the ground level wall
+area and 25 percent of height of the
+ground level wall area. Ground level
+wall area includes all exterior wall area
+up to nine feet above the finished grade.
+The window requirement applies to the
+ground level of exterior building walls
+which abut sidewalks or streets.
+2. Required window areas shall be either
+windows that allow views into working
+areas, lobbies, pedestrian entrances or
+display windows.
+G. Lot Requirements. No lot shall be created
+having less than a minimum of 10,000 square
+feet. Lot requirements for this district shall
+be determined by spatial requirements for
+sewage disposal, required landscaped areas
+and off- street parking.
+H. Dimensional Standards.
+I . Lot Coverage: No lot coverage
+requirements, provided spatial
+requirements for parking, sewage
+disposal and landscapingaresatisfied.
+2. No use listed in DCC 18. 67. 040( C)( 10)
+that is located adjacent to or across a
+local or collector from a lot or parcel in a
+residential district shall exceed 70
+percent lot coverage by all buildings,
+outside storage, or off- street parking and
+loading areas.
+I. Yard Standards.
+1. Front Yard. The front yard shall be a
+maximum of 15 feet, except as otherwise
+allowed by DCC 18.124.070 (D)( 3).
+The street setback for buildings may be
+reduced, but not increased, to the average
+building setback distance of existing
+buildings on adjoining lots.
+2. Side Yard. No requirement, subject to
+DCC 18. 67. 040( l)( 4).
+3. Rear Yard. No specific requirement,
+subjpct to DCC 18. 67. 040 ( 1)( 4).
+4. Exceptions to Yard Standards.
+a. Lot line adjacent to a residential
+zone.
+For all new structures or substantial
+alteration of a structure requiring a
+building permit on a lot adjacent to a
+residential district, the setback shall
+be a minimum of 15 feet. The
+required yard will be increased by
+one foot for each foot by which the
+building height exceeds20 feet.
+b. Lot line adjacent to an EFU zone.
+Any structure requiring a building
+permit on a lot adjacent to EFU-
+zoned land that is receiving special
+assessment for farm use shall be set
+back a minimum of 100 feet from the
+common property line.
+Ord. 2004- 013 § 7, 2004; Ord. 2004- 002 § 19,
+2004; Ord. 2001- 039 § 8, 2001; Ord. 2001- 016 §
+2, 2001; Ord. 2000- 033 § 11, 2000; Ord. 97- 063
+3, 1997; Ord. 97- 033 § 2, 1997)
+18. 67. 050. Research and development
+district.
+The purpose of the Research and Development
+District is to allow research and development
+facilities requiring a more rural, nonindustrial
+location to be located in designated areas of the
+County and encourage employment opportunity
+within the County while protecting the rural
+character of the area, as well as preserving or
+enhancing the air, water and land resources of the
+area.
+A. Uses permitted outright. The following uses
+and their accessory uses are permitted
+outright:
+1. Farming, except for livestock feed lot or
+salesyard, hog or mink farms.
+2 Office buildings associated with research
+and development.
+3. Research and development laboratories.
+4. Residence for caretaker or night
+watchman on property with existing
+research and development use.
+Page 5 of I I— Exhibit " B" TO ORDINANCE 2005- 016 ( 4/ 25/ 05)
+5. Class I and 19 road or street project disturbances perceptible without
+subject to approval as part of a land instruments more than 200 feet in the
+partition, subdivision or subject to the direction of the affected residential use or
+standards of DCC 18. 67. 080 and lot.
+18. 116. 230. 2. All parking demand created by any use
+6. Class III road or street project. permitted by DCC 18.67.050 shall be
+7. Operation, maintenance, and piping of accommodated on the applicant' s
+existing irrigation systems operated by an premises entirely off- street.
+Irrigation District except as provided in DCC 3. No use permitted by DCC 18.67.050
+18. 120. 050. shall require the backing of traffic onto a
+B. Conditional Uses. The following uses and
+public or private street or road right of
+their accessory uses are permitted subject to
+way.
+the applicable provisions of DCC 18. 116,
+4. There shall be only one ingress.
+18. 124, and 18. 128:
+5. All usesshall be screenedfrom adjoining
+I . Manufacturing and assembly of residential uses by densely planted trees
+electronic instruments and equipment and shrubsor sight -obscuring fencing.
+and electrical devices.
+6. No use shall be permitted to operate
+2. Manufacturing and assembly of precision betweenthe hours of 11:00 p.m. and 7:00
+instruments, tools or devices. a.m. if located adjacent to or across the
+3. Manufacturing of medicines and
+street from a residential use or lot in a
+pharmaceuticals.
+platted subdivision or residential zone if
+4. Limited incidental manufacture of a
+the use creates noise in violation of the
+research product. County Noise Ordinance except as
+5. Restaurant and cafeteria facilities for provided by DCC 8.08.090(A).
+employees.
+7. No use shall be permitted which has been
+6. Excavation, grading and fill and removal declared a nuisance by state statute,
+within the bed and banks of a stream or County ordinance or court of competent
+river or in a wetland subject to DCC
+jurisdiction. No use requiring
+18. 120. OSO and 18. 128. 270.
+contaminant discharge permits shall be
+7. Wireless telecommunications facilities, approved by the Planning Director or
+except those facilities meeting the Hearings Body prior to review by the
+requirements of DCC 18. 116. 250( A) or
+applicable state or federal
+B). permit - reviewing authority, nor shall
+8. Surface mining of mineral and aggregate
+such uses be permitted adjacent to or
+resources in conjunction with the
+across the street from a residential use or
+operation and maintenance of irrigation
+lot.
+systems operated by an Irrigation D. Dimensional standards. In the R& D Zone,
+District, including the excavation and the following dimensional standards shall
+mining for facilities, ponds, reservoirs, apply:
+and the off- site use, storage, and sale of I . The minimum lot size shall be
+excavated material. determined subject to the provisions of
+C. Use limitations. The following limitations
+DCC 18. 67. 050 relative to setback
+and standards shall apply to all permitted
+requirements, off- street parking and
+loading, and as deemednecessaryby the
+uses:
+I . Any use on a lot adjacent to or across a Planning Director or Hearings Body, to
+street from a residential use or lot in a maintain air, water and land resource
+platted subdivision or residential zone quality and to protect adjoining and area
+shall not emit odor, dust, fumes, glare,
+land uses.
+flashing lights, noise or other similarZ
+Page 6 of I I— Exhibit " B" TO ORDINANCE 2005- 016 ( 4/ 25/ 05)
+E.
+F
+2.
+3
+4
+5
+T
+7
+EXHIBIT " B"
+No use which is located adjacent to or
+across a street from a residential use or
+lot in a platted subdivision or residential
+zone shall exceed more than 70 percent
+lot coverage by all buildings, storage
+areas or facilities, and required off- street
+parking and loading areas.
+The minimum building setback between
+a structure and a street, road or railroad
+right- of-way line shall be 50 feet unless a
+greater setback is required for
+compliance with Comprehensive Plan
+policies.
+The minimum setback between a
+structure and a property line adjoining a
+residential lot or use in a platted
+subdivision or residential zone shall be
+50 feet.
+The minimum setback between a
+structure and an existing use shall be
+three feet from the property line and six
+feet from a structure on the adjoining
+property.
+The maximum building height shall be
+25 feet on any lot adjacent to or across
+the street from a residential use or lot in a
+platted subdivision or residential zone.
+The minimum lot frontage shall be 50
+feet.
+R& D Site design. The site design of any
+permitted use shall make the most effective
+use reasonably possible of the site
+topography, existing landscaping and
+building placement so as to preserve existing
+trees and natural features, preserve vistas and
+other views from public ways and
+neighboring residential uses and to minimize
+intrusion into the character of existing
+developmentsin the immediate vicinity of the
+proposed use.
+Design and use criteria. In the consideration
+of an application for a proposed use, the
+Planning Director or Hearings Body shall
+take into account the impact of the proposed
+use on nearby residential and commercial
+uses, on resource carrying capacities and on
+the capacity of transportation and other
+public facilities and services. In approving a
+proposed use, the Planning Director or
+Hearings Body shall find that:
+I . The proposal is in compliance with the
+Comprehensive Plan.
+2. The proposal is in compliance with the
+intent and provisions of DCC Title 18.
+3. That any adverse social, economical,
+physical or environmental impacts are
+minimized.
+G. Additional requirements. As a condition of
+approval, the Planning Director or Hearings
+Body may require:
+I . An increase in required setbacks.
+2. Additional off-street parking and loading
+facilities.
+3. Limitations on signs or lighting, hours of
+operation, and points of ingress and
+egress.
+4. Additional landscaping, screening and
+other improvements.
+5. Any other conditions considered
+necessary to achieve compliance with the
+intent and purposes of DCC Title 18 and
+policies of the Comprehensive Plan.
+Ord. 2001- 039 § 8, 2001; Ord. 2001- 016 § 2,
+2001; Ord. 97- 063 § 3, 1997; Ord. 97- 033 § 2,
+1997)
+18. 67. 060. Industrial ( Tub District.
+The puMose of the Industrial District is to allow a
+limited range of industrial uses to serve the
+community and the surrounding area.
+A. Uses pen-nitted outright. The following uses
+and their accesso!y uses are permitted
+outright:
+I . Industrial uses in existence on the date of
+adoption of the Unincorporated
+Communities rule, OAR 660- 022
+October 28, 1994),
+2. Office buildings associated with
+industrial uses in existence on the date of
+adoption of the UnincoMorated
+Communities rule, OAR 660- 022
+October 28, 1994),
+Restaurants and cafeteria facilities
+associated with industrial uses in
+existence on the date of adoption of the
+Uninco! porated Communities rule, OAR
+660- 022 ( October 28, 1994);
+Page 7 of I I— Exhibit " B" TO ORDINANCE 2005- 016 ( 4/ 25/ 05)
+4. Residence for caretaker or nialit
+watchman on propegy with industrial
+uses in existence on the date of adoption
+of the Uninco1porated Communities rule,
+OAR 660- 022 ( October 28, 1994)-,
+5. Equipment storage associated with
+industrial uses in existence on the date of
+adoption of the UnincoEporated
+Communities rule, OAR 660- 022
+October 28, 1994);
+6. Class I and H road or street project
+sub* ect to approval as part of a land
+partition, subdivision or subject to the
+standards of DCC 18. 67. 080 and
+18. 116. 230.
+7. Class III road or street project.
+8. OReration, maintenance, and piping of
+existing irrigation systemsoperatedby -an
+Irrigation District except as provided in
+DCQ 18. 120. 050..
+B. Uses Permitted, Subiect to Site Plan Review.
+The following uses and their accessoEy uses
+are permitted in a building or buildings not to
+exceed 40, 000 square feet of floor area,
+subject to the qpplicable provisions of DCC
+18. 67, 18. 116, and 18. 124.
+1. Expansion or replacement of uses
+allowed under DCC 18. 67. 060( A);
+2. Office buildings associated with
+industrial uses,
+3. Restaurant and cafeteria facilities
+associated with industrial uses;
+4. Residence for caretaker or nigJi
+watchman on prope!:!y with industrial
+uses;
+5 Equipment storage associated with
+industrial uses;
+6. Primajy processing, packaging,
+treatment, bulk storage and distribution
+of the following products:
+a. Agricultural products, including
+foodstuffs, animal and fish products,
+and animal feeds.
+b. Ornamental horticultural products
+and nurseries.
+c. Softwood and hardwood products
+excluding l2uIP and pMer
+manufacturing.
+d. Sand, gravel, clqy and other mineral
+products.
+7. Freight depot, including the loading,
+unloading, storage and distribution of
+goodsand materials by railcar or truck;
+8. Contractor' s or building materials
+business and other construction - related
+business including plumbing, electrical,
+roof, siding, etc.,
+9. Welding, sheet metal, or machine shop
+provided such is wholly enclosed within
+a building or all outside storage is
+enclosed by site -obscuring fencing.
+10. Mini - storage facilfty.
+11. Manufacturing, storage, sales, rental,
+repair and servicing of equipment and
+materials associated with fann and forest
+uses, logging, road maintenance, mineral
+extraction, construction or similar rural
+activities;
+12. Any industrial use proposing to occupy
+more than 40, 000 square feet of floor
+area in a building or buildings is subiect
+to the provisions of DCC 18. 67. 060( C)
+and ( D).
+C. Conditional Uses. The followinQ uses and
+their accessory uses are permitted subject to
+the applicable provisions of DCQ 18. 116,
+18. 124, and 18. 128:
+1. Any use permitted by DCQ 18.67.060(B)
+which will exceed 40, 000 square feet of
+floor area,
+2. Concrete or readv Mix Diant:
+3. Stockpiling, storage, crushing and
+processing of minerals, includiniz the
+processing of aggregate into asphaltic
+concrete or Portland Cement Concrete;
+4. Buildings, structures, qpparatus,
+equipment and appurtenances necessM
+for the above uses to be carried on.
+D. Use limitations. The following limitations
+and standards shall apply to all permitted
+uses:
+I . A new industrial use mU occupy more
+than 40, 000 square feet of floor area in a
+building or buildings provided an
+analysis set forth in the comprehensive
+plan demonstrates and land use
+regulations ensure:
+Page 8 of I I— Exhibit " B" TO ORDINANCE 2005- 016 ( 4/ 25/ 05)
+a. The use will primarily emplpy a
+work force from the communi1y and
+surrounding rural area and will not
+rely gpon a work force served by
+uses within urban growth boundaries.
+The determination of the work force
+of the communijy shall consider the
+total industrial empigyment in the
+community and surrounding rural
+area and be coordinated with
+empIpMent l2roiections for nearb
+urban prowth boundaries; and
+b. It is not practical to contain the
+proposed use within 40, 000 square
+feet of the floor area.
+2. For the pu! poses of DQC 18. 67. 060, the
+surrounding rural area is described as the
+following: extending north to the
+Township boundM between Townships
+15 and 16-, extending west to the
+bounda!y of the public lands managedby
+the U. S. Forest Service in T16S- RIIE,
+extending south to the south section lines
+of T17S- Rl2E sections 4, 5, 6 and T17S-
+RI IE sections 1,23, and extending east
+to Highwgy 97.
+E. Dimensional standards. In the Industrial
+Zone, the following dimensional standards
+shall @V121y:
+1. The minimum lot size shall be
+determined subiect to the provisions of
+DCC 18. 67. 060 relative to setback
+req irements, off- street Parking and
+loading, and as deemednecessM by the
+Planning Director or Hearings Body, to
+maintain air, water and land resource
+qualily and to protect adjoining and area
+land uses.
+2. The minimum building setback between
+a structure and a street, road or railroad
+riy,ht-of-wqy line shall be 25 feet unless a
+gre er setback is required for
+compliance with Comprehensive Plan
+policies.
+3. The minimum setback between a
+structure and a propegy line adjoining a
+residential lot or use in a platted
+subdivision or residential zone shall be
+50 feet.
+4. The minimum setback between a
+structure and an existing use shall be
+three feet from the prope!ly line and six
+feet from a stnicture on the adjoining
+prope!:! y.
+5. The maximum building height shall be
+45 feet on any lot adjacent to a
+residential use or lot in a platted
+subdivision or residential zone.
+6. The minimum lot frontage shall be 50
+feet.
+7. Exception to Yard Standards. Any new
+structure requiring a building permit on a
+lot adjacent to EFU- zoned land that is
+receiving special assessment for farm use
+shall be set back a minimum of 100 feet
+from the common 12ropeMline.
+F. Industrial Site design. The site design of any
+permitted use shall make the most effective
+use reasonably possible of the site
+topogrWhy, existing landscqping and
+building placement so as to preserveexisting
+trees and natural features, preserve vistas and
+other views from public ways and
+neighboring residential uses and to minimize
+intrusion into the character of existing
+developments in the immediate vicinity of the
+proposed use.
+G. Design and use criteria. In the consideration
+of an application for a new industrial use, the
+Planning Director or Hearings Body shqll
+take into account the imRact of the proposed
+use on nearby residential and commercial
+uses, on resource cMing capacities and on
+the capacily of transportation and other
+public facilities and services. In approving a
+proposed use, the Planning Director or
+Hearings Body shall find that:
+I . The new use is in compliance with the
+Comprehensi3Le Plan.
+2. The new use is in compliance with the
+intent and provisions of DCQ Title 18.
+3. That any adverse social, economical,
+physical or environmental impacts are
+inimized.
+H. Additional requirements. As a condition of
+gpproval, the Planning Director or HeadM
+Body mqy require:
+Page 9 of I I— Exhibit " B" TO ORDINANCE 2005- 016 ( 4/ 25/ 05)
+1. An increase in required setbacks.
+2. Additional off- street parking and loading
+facilities.
+3. Limitations on signs or lighting, hours of
+operation, and points of ing[ ess and
+egress.
+4. Additional landscqRing, screening and
+other iWrovements.
+5. ALiy other conditions considered
+necessM to achieve compliance with the
+intent and pulposes of DCC Title 18 and
+policies of the Comprehensive Plan.
+1. For putposes of this clinter, a new industrial
+use does not include industrial uses in
+existence on the date of Ord. 2005- 16.
+Unless expanded or altered, industrial uses in
+existence on the date of adoption of the TUI
+District are not subiect to the requirements of
+18. 67. 060( B) or 18. 67. 060( C).
+Ord. 2005- 016 § 2, 2005)
+18. 67. 0670. Flood plain district.
+All uses within this district shall be subject to the
+applicable provisions in DCC 18. 96.
+Ord. 97- 033 § 2, 1997)
+18. 67. 0-780. Standards for all districts.
+011
+U0.1
+Fe
+IWE
+E
+Solar Setback. The setback from the north
+lot line shall meet the solar setback
+requirements in DCC 18. 116. 180.
+Building Code Setbacks. In addition to the
+setbacksset forth herein, any greater setbacks
+required by the applicable building or
+structural codes adopted by the State of
+Oregon and/ or the County under DCC 15.04
+shall be met.
+Off -Street Parking and Loading. Off- street
+parking and loading shall be provided subject
+to the applicable provisions of DCC 18. 116.
+Lot Coverage. Except where otherwise noted,
+the primary and accessory buildings located
+on any lot or parcel shall not cover more than
+30 percent of the total lot or parcel.
+Building Height. Except where otherwise
+indicated, no building or structure shall be
+erected or enlarged to exceed 30 feet in
+height, except as allowed under DCC
+18. 120. 040.
+F. Rimrock Setback. Setbacks from the rimrock
+are subject to the applicable provisions of
+DCC 18. 116. 160.
+G. River setback. All new structures or
+additions to existing structures within 100
+feet from the ordinary high water mark of
+designated streams and rivers are subject to
+the applicable provisions of DCC 18. 120. 030.
+For the purpose of DCC 18. 67. 070, decks are
+considered part of a structure.
+Ord. 97- 033 § 2, 1997)
+18.67.0990. Right- of- way development
+standards.
+A. Applicability. The standards in DCC
+18. 67. 080 shall, in conjunction with the
+provisions of DCC 17. 36, 17. 40 and 17. 48
+relatingto improvementsin the right-of-way,
+apply to improvements in the right-of-way
+required by land use approvals. Right-of-way
+improvementsshall be those authorizedby
+subdivision, partition, conditional use or site
+plan requirements, as applicable. The
+standards set forth in DCC 18. 67. 080 shall
+govern over any conflicting standards set
+forth in DCC Title 17.
+B. Road Access. For properties abutting
+Highway 20, when there is a choice to take
+accessfrom a road otherthan Highway 20, no
+accessshall be taken from Highway 20.
+C. Roadways. Any roadway improvement shall
+conform to the applicable provisions of DCC
+Title 17, Table 18. 67- A and the functional
+classification assigned to the road segment by
+the Comprehensive Plan for the Tumalo
+Rural Community.
+D. Bikeways. Required bikeway improvements
+shall conform to the standards set forth in
+DCC 17. 48. 140 and applicable specifications
+of DCC Title 17, Table 18. 67- A.
+E. Sidewalks.
+1. Sidewalks shall meet the standards set
+forth in Table 18. 67- A. Sidewalks are
+required only where specified in the
+Page 10 of I I— Exhibit " B" TO ORDINANCE 2005- 016 ( 4/ 25/ 05)
+Comprehensive Plan Map for Tumalo,
+Map D1 " Planned Pedestrian
+Improvements."
+2. Sidewalks may be constructed either at
+the time of development or may be
+deferred until later through formation of
+a local improvement district. Applicants
+electing to defer sidewalk construction
+shall be required as a condition of
+approval to submit and have recorded a
+waiver of remonstrance signed by the
+land owner waiving the land owner' s
+rights to have any objection to LID
+formation counted against formation of
+the LID.
+F. Drainage. Drainage facilities shall be
+required if necessary to meet the standard of
+DCC 17. 48. 190. Where specified in DCC
+Title 17, Table 18. 67- A drainage shall be
+accomplished by swales constructed in
+accordance with the specifications set forth in
+DCC Title 17, Table 18. 67- A and the
+drawing set forth in DCC 17.48.
+Ord. 97- 03- 3 § 2, 1997)
+Page I I of I I— Exhibit " B" TO ORDINANCE 2005- 016 ( 4/ 25/ 05)

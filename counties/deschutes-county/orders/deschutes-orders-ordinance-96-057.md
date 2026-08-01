@@ -1,0 +1,166 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-96-057
+title: 'Ordinance No. 96-057'
+doc_type: ordinance
+citation: 'Ordinance No. 96-057'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616776939_1996-30862-Ordinance%20No.%2096-057%20Recorded%208_22_1996.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: af39e9e67baecfefe149962d581809b4cdd8bb1c8c70422d514e35beca24eb33
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 96-057 (Ordinance No. 96-057)
+
+## At a glance
+
+Ordinance No. 96-057 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+REVIEW
+96- 30862 LEGALCOUNSEL
+U0
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Section 18.116.040(c), * 9
+Accessoryuses, of the DeschutesCounty
+Code and Declaring an Emergency. * ':
+ORDINANCE NO. 96- 057
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. Amendment. Section 18. 116. 040( c), Accessoryuses, is amendedas set forth in
+Exhibit A attached hereto and incorporated herein, with new language set out in red -line and language
+to be deleted is in strike - out.
+Section 2. Severability. The provisions of this ordinance are severable. If any section,
+sentence, clause or phrase of this ordinance is adjudged to be invalid by a court of competent
+jurisdiction, that decision shall not affect the validity of the remaining portions of this ordinance.
+Section 3. Codification. County Legal Counsel shall have the authority to format the
+provisions contained herein in a manner that will integrate them into the County Code consistent with
+the DeschutesCounty Form and Style Manual for Board Documents. Such codification shall include
+the authority to make such changes, to make changes in numbering systems and to make such
+numbering changesconsistent with interrelated code sections. In addition, as part of codification of
+theseordinances, County Legal Counselmay insert appropriatelegislativehistory reference. Any
+legislative history referencesincluded herein are not adoptedaspart of the substanceof this ordinance,
+but are included for administrative convenience and as a reference. They may be changed to correct
+errors and to conform to proper style without action of the Board of County Commissioners.
+Section 4. Repeal of Ordinances as Affecting Existing Liabilities. The repeal, express
+or implied, of any ordinance, ordinanceprovision, codesection, or any map or any line on a map
+incorporatedthereinby reference, by this amendingordinanceshallnot releaseor extinguishanyduty,
+condition, penalty, forfeiture, or liability previouslyincurredor that may hereafterbe incurredunder
+such ordinance, unless a provision of this amending ordinance shall so expressly provide, and such
+ordinance repealed shall be treated as still remaining in force for the purpose of sustaining any proper
+action or prosecution for the enforcement of such duty, condition, penalty, forfeiture, or liability, and
+for the purpose of authorizing the prosecution, conviction and punishment of the person or persons
+who previously violated the repealed ordinance.
+s '
+i(AIUOFILMID
+PAGE 1 - ORDINANCE NO. 96- 057 ( Date) `~ a Go —
+AUG2 8 1996
+0155- 1612
+Section 5. Emergency. This ordinance being necessaryfor the immediate preservation of
+the public peace, health and safety, an emergencyis declared to exist, and this ordinance takes effect
+on its passage.
+DATED this ( day of , 1996.
+ATTEST:
+Recording Secretary
+PAGE 2 - ORDINANCE NO. 96- 057 ( Date)
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+Exhibit
+18. 116. 040. Accessory uses.
+An accessory use shall comply
+with all requirements for a
+principal use, except as this
+title specifically allows to
+the contrary, and shall comply
+with the following limitations:
+A. The primary use of
+the property must be
+established or applied for
+prior to issuance of any
+building or land use permits
+for an accessory structures.
+1. Exception:
+a. Building permit for a
+ramada or carport may be issued
+without establishment or
+application of primary use if
+all other criteria for issuance
+are met.
+b. Land use, building or
+environmental health permits or
+extensions of such permits
+sought to correct existing code
+violations for the subject
+property shall be issued if all
+other criteria for issuance are
+met.
+yard may be reduced to five
+feet for an accessory structure
+erected more than 65 feet from
+a front lot line, provided the
+structure is detached from
+other buildings by five feet or
+more and does not exceed a
+height of one story nor an area
+of 450 square feet.
+C. Boats and trailers,
+travel trailers, pickup campers
+or coaches, motorized dwellings
+0155- 1613
+A
+and similar recreational
+equipment may be stored on a
+lot but not used as an
+accessory use in any zone
+provided that:
+1. In a residential
+zone, parking or storage in a
+front yard or in a side yard
+adjoining a street other than
+an alley shall be permitted
+only on a driveway.
+2. Parking or storage
+shall be at least three feet
+from an interior side lot line.
+D. A manufactured home
+may be stored on an individual
+lot subject to obtaining a
+zoning approval from the
+Planning Division and subject
+to the following:
+1. Storage period shall
+not exceed one year.
+2. No utilities other
+than electric may be connected.
+3. The mobile home shall
+not be inhabited.
+4. The subject lot is
+not located in a CH,
+Conventional Housing Combining
+Zone. ( Ord. 95- 077 S 1, 1995;
+Ord. 95- 075 S 1, 1995; Ord.
+91- 038 § 1, 1991)
+96- 057]

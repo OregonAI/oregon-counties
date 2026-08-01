@@ -1,0 +1,2421 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-93-012
+title: 'Ordinance No. 93-012'
+doc_type: ordinance
+citation: 'Ordinance No. 93-012'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616696826_1993-31946-Ordinance%20No.%2093-012%20Recorded%208_9_1993.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: cea0be1635d821cb9763fbaf1496ef1044cde816b0e4f929b3d7ec9e4b91129d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 93-012 (Ordinance No. 93-012)
+
+## At a glance
+
+Ordinance No. 93-012 — orders of Deschutes County. 49 pages.
+
+## Full text
+
+012' 7- 1215
+93- 31946
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 17 of the
+7 1-0
+Deschutes County Code, the Deschutes
+County Subdivision/ Partition Ordinance * r,
+and Declaring an Emergency.
+ORDINANCE NO. 93- 012 ;-
+WHEREAS, the Deschutes County Subdivision/ Partition Ordiinpanc' e is
+in need of updating.
+WHEREAS, the State of Oregon has required that certain ordinances
+be adopted by local jurisdictions to implement Statewide Planning Goal
+12, the Transportation Planning Rule, in particular OAR
+660 - 12 - 045( 3)( a - d).
+WHEREAS, the Deschutes County Planning Commission and the Bend
+Urban Area Planning Commission, after review conducted in accordance
+with applicable law, have recommended approval of the proposed Text
+Amendments to Title 17.
+WHEREAS, after notice was given and hearings conducted in
+accordance with applicable law, the Board of County Commissioners has
+considered the Planning Commissions, recommendations, now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+ORDAINS AS FOLLOWS:
+Changes to, Additions to, Repeal of
+Provisions of Chapter 17. 08,
+Definitions and Interpretation of Language"
+Section 1. Section 17. 08. 020, " Terminology," of Title 17 of the
+Deschutes County Code is amended to change the name of the Section to
+Definitions."
+Section 2. The following sections are added to Title 17,
+Definitions and Interpretation of Language," as individual definitions
+under Chapter 17. 08.
+1117. 08. 035 AASHTO Standards.
+Refers to the road safety and design standards set forth in
+the publication entitled American Association of State Highway and
+Transportation Officials Policy on Geometric Designs of Highways
+and Streets, dated 1990.
+Page 1 - ORDINANCE No. 93- 012 ( 8- 4- 93) - """'  41993
+0127- 14016
+17. 08. 045 Access Corridor.
+Access Corridor. A separate travel way for pedestrians and
+bicyclists to minimize travel distances within and between
+subdivisions, planned unit developments, residential areas and
+commercial centers, major employment areas, transit stops, or
+within and between nearby neighborhood activity centers such as
+schools, parks and convenience shopping."
+17. 08. 091 Bicycle.
+A vehicle designed to operate on the ground on wheels,
+propelled solely by human power, upon which any person or persons
+may ride, and with every wheel more than 14 inches in diameter or
+two tandem wheels either of which is more than 14 inches in
+diameter or having three wheels in contact with the ground, any of
+which is more than 14 inches in diameter."
+17. 08. 092 Bicycle Facilities.
+A general term denoting improvements and provisions made to
+accommodate or encourage bicycling, including parking facilities,
+all bikeways, and shared roadways not specifically designated for
+bicycle use."
+17. 08. 093 Bike Route.
+A segment of a bikeway system designated with appropriate
+directional and information markers by the jurisdiction having
+authority."
+17. 08. 094 Bikeway.
+A. Any road, path or way which in some manner is
+specifically designated as being open to bicycle travel, regardless
+of whether such facilities are designated for the exclusive use of
+bicycles or are shared with other transportation modes. The five
+types of bikeway are: bike path, bike lane, shoulder bikeway,
+shared roadway and mountain bike trail.
+1. Bike Path. A bikeway physically separated from motorized
+vehicular traffic by an open space or barrier and either
+within the highway or road right of way or within an
+independent right of way.
+2. Bike Lane. A portion of a roadway which has been designated
+by striping, signing, and permanent markings for the
+preferential or exclusive use of bicyclists.
+3. Shoulder Bikeway. A bicycle facility where the bicycle
+travels on the paved shoulder of the roadway.
+Page 2 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 140017
+4. Shared Roadway. A bicycle facility where the bicycle shares
+the normal vehicle lanes with motorists.
+5. Bike Trail ( Mountain Bike). A bicycle facility designed to
+accommodate bicycle travel on unpaved roads and trails."
+17. 08. 581 Property line.
+Property line" means the division line between two units of
+land."
+17. 08. 582 Property line adjustment.
+Property line" adjustment means the relocation of a common
+property line between two abutting properties."
+17. 08. 585 Public Water System.
+Public Water System" means a system for the provision to the
+public of piped water for human consumption, if such system has
+more than three ( 3) service connections or supplies water to a
+public or commercial establishment which operates a total of at
+least 60 days per year, and which is used by 10 or more individuals
+per day or is a facility licensed by the State Health Division.
+A public water system is either a " community water system", a
+non - community water system" or a " non - transient, non - community
+water system".
+a. " Community water system" means a public water system
+which has 15 or more service connections used by year- round
+residents, or which regularly serves 25 or more year- round
+residents;
+b. " Non - community water system" means a public water system
+that is not a community water system;
+C. " Non - transient, non - community water system" or " NTNCWS"
+means a public water system that is not a community water system
+and that regularly serves at least 25 of the same persons over 6
+months per year."
+17. 08. 590 Replat.
+Replat means the act of platting the lots, parcels and
+easements in a recorded subdivision or partition plat to achieve
+a reconfiguration of the existing subdivision or partition plat or
+to increase or decrease the number of lots in the subdivision."
+Page 3 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 10418
+17. 08. 645 Series Partitioned Lands, Series Partition
+Series Partitioned Lands" and " Series Partition" mean a
+series of partitions of land resulting in the creation of four or
+more parcels over a period of more than one calendar year."
+Section 3. Sections 17. 08. 410, " Lot line front," 17. 48. 420, " Lot
+line, rear," and 17. 48. 430, " Lot line, side," are hereby repealed.
+Section 4. Section 17. 08. 530, " Partition," of Title 17 is amended
+to read as follows:
+17. 08. 530 Partition.
+Partition" means the act of partitioning land or an area or tract
+of land partitioned.
+A. Major Partition. A partition which includes the actual
+creation of a public or private street or accessway. A major
+partition also includes divisions where an easement provides
+access to one or two parcels.
+B. Minor Partition. A partition which does not require the
+creation of a public or private street or accessway.]"
+Section 5. Section 17. 08. 540, " Partition land," is repealed and
+replaced with a new definition of " Partition land" as follows:
+17. 08. 540 Partition land.
+Partition land" means to divide land into two or three parcels of
+land within a calendar year but does not include:
+a. A division of land resulting from a lien foreclosure,
+foreclosure of a recorded contract for the sale of real property
+or the creation of cemetery lots;
+b. An adjustment of a property line by the relocation of a common
+boundary where an additional unit of land is not created and where
+the existing unit of land reduced in size by the adjustment
+complies with any applicable zoning ordinance; or
+C. A sale or grant by a person to a public agency or public body
+for state highway, county road, city street or other right of way
+purposes provided that such road or right of way complies with the
+applicable comprehensive plan and ORS 215. 213 ( 2)( q) to ( s) and
+215. 283 ( 2)( p) to ( r). However, any property divided by the sale
+or grant of property for state highway, county road, city street
+or other right of way purposes shall continue to be considered a
+single unit of land until such time as the property is further
+subdivided or partitioned."
+Page 4 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 12.19
+Section 6. Section 17. 08. 620 of Title 17, " Road or Street," is
+amended as follows:
+1117. 08. 620 Road or street.
+Road" or " street" means a public or private way that is created
+to provide ingress and egress to one or more lots, parcels, areas
+or tracts of land, excluding a private way that is created to
+provide ingress and egress to land in conjunction with the use of
+such land for forestry, mining or agricultural purposes.
+A. Alley means a public way through the middle of a block,
+giving access to the rear of parcels or buildings.
+B. " Arterial" means a restricted - access street of substantial
+continuity which is primarily a traffic artery and so designated
+by the county]
+B. " Arterial" includes three types of arterials, Principal
+Arterial, Urban Minor and Rural Minor Arterial, defined as follows:
+1) " Principal arterial" means a road which carries the major
+portion of trips entering and leaving the urban areas and outlying
+rural and recreation areas ( State highways).
+2) " Urban Minor Arterial" means a road that interconnects
+with and augments the principal arterial system and provides
+service to intra- urban/ intra- community areas.
+3) " Rural Minor Arterial" means a road that connects with
+the principal arterial system and forms the rural road network that
+links cities and rural service centers.
+C. " Bicycle lane" means a portion of a roadway which has been
+designated by striping, signing and pavement markings for the
+preferential or exclusive use of bicyclists.]
+D. " Bicycle route" means a segment of a system of bicycle lanes
+designated by the jurisdiction having authority with appropriate
+directional and informational markers.]
+E] C. " Collector" means a restricted - access street supplementary
+to the arterial street system used or intended to be used primarily
+for the movement of traffic between arterials and local streets.
+F] D. " Frontage road" means a street parallel and adjacent to an
+arterial providing access to abutting properties, but protected
+from through traffic.
+G] E. " Industrial road" means a street to or through property
+zoned industrial.
+Page 5 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+012' 7--1220
+H] F. " Local street" means a street which provides access to
+property abutting the public right of way; this includes vehicular
+and pedestrian access. Moving traffic is a secondary function of
+a local street and it should not carry through traffic.
+I. " Minor arterial" means a street that interconnects with and
+augments the principal arterial system.]
+J] G. " Modernization" means the widening or reconstruction of an
+existing county road to an adopted county standard.
+K. Principal arterial" means a street that carries the major
+portion of vehicle trips entering and leaving the urban area and
+outlying rural and recreation areas.]
+L. " Rural minor arterial" means a street that connects with the
+principal arterial system and forms the rural road network that
+links cities and rural service centers.]
+M] H. " Special pedestrian way" means a sidewalk or pathway not
+located within a public road right of way which enables pedestrian
+access to a street, school, park or other similar facility or
+service.
+N] I. " Stubbed street" means a street having only one outlet for
+vehicular traffic and which is intended to be extended or continued
+to serve future subdivisions or developments on adjacent lands.
+Section 6A. Section 17. 08. 625, " Road or Street Project," is
+amended to read as follows:
+17. 08. 625 Road and Street Project.
+Road and Street Project. The construction and maintenance of
+the roadway, bicycle lanes, sidewalks or other facilities related
+to a road or street. Road and street projects shall be a Class I,
+Class II or Class III project.
+A. Class I Project. Land use permit required. " Class I
+Project" is a major project such as ( 1) a new
+controlled - access freeway; ( 2) a road or street project
+of four or more lanes on a new location; . and ( 3) a major
+project involving the acquisition of more than minor
+amounts of rights- of- way, substantial changes in access
+control, a large amount of demolition, displacement of
+a large amount of residences or businesses, or
+substantial change in local traffic patterns.
+B. Class II Project. Land use permit required. [" Class II
+Project" means modernization, traffic safety
+improvements, maintenance, repair and preservation of a
+Page 6 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+road or street.] Class
+where a road or street
+2) traffic safety o.
+changes local traffic
+has significant land
+construction of a new
+existed before.
+0127- 1221
+II Project is a ( 1) modernization
+is widened by more than one lane;
+intersection improvement which
+patterns; ( 3) system change which
+use implications; or, ( 4) the
+county road or street where none
+C. Class III Project. [ Land use permit required. " Class
+III project" means modernization where a road or street
+is widened by more than one land, traffic safety or
+intersection improvements which change local traffic
+patterns or other system changes which have significant
+land use implications, or the construction of a new
+proposed county road or street where none existed
+before.] No land use permit required. " Class III
+Project" is a modernization, traffic safety improvement,
+maintenance, repair or preservation of a road or street.
+Section 7. Section 17. 08. 680, " Subdivide Land" of Title 17 is
+amended to read as follows:
+17. 08. 680 Subdivide land.
+Subdivide land" means to divide an area or tract of land into four
+or more lots within a calendar year [ when such area or tract of
+land exists as a unit or contiguous units of land under a single
+ownership at the beginning of such year]."
+Section 8. Section 17. 08. 740, " Water Supply," of Title 17 is
+hereby repealed.
+Changes in, Additions to, Repeal of
+Provisions in Chapter 17. 12,
+Administration and Enforcement."
+Section 9. Section 17. 12. 010, " Minimum Standards," of Title 17 is
+amended to read as follows:
+17. 12. 010 Minimum standards.
+All proposed subdivisions and partitions within the county shall
+be considered for approval [ approved] by the county under this
+title. In addition, no such proposed subdivision or partition
+shall be approved unless it complies with the comprehensive plan
+for the county and/ or the applicable urban area comprehensive plan,
+and the applicable zoning ordinance and Oregon Revised Statutes
+Chapter 92."
+Section 10. Section 17. 12. 020, " Compliance with State
+Regulations," is hereby repealed.
+Page 7 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+012' 7- 1222
+Section 11. Section 17. 12. 050, " Planning Director - Duties and
+Responsibilities," is amended to read as follows:
+17. 12. 050 Planning Director - Duties and responsibilities.
+A. The Planning Director shall review all applications for
+subdivisions and partitions and shall, consistent with the
+Deschutes County Development Procedures Ordinance,
+either act upon
+the
+application before him administratively or refer the application
+to a hearings officer.
+B. Before making an administrative decision on a subdivision or
+partition application, the Planning Director shall solicit comments
+on the proposal from the Director of Public Works, the County
+Environmental Health Division [ Sanitarian, or their designees] and
+representatives of any other appropriate county, city, state or
+federal agency.
+C. Before referring to the hearings officer and completing the
+Staff Report on an application [ on] for a subdivision or partition
+application], the Planning Director shall [ submit the application
+to] solicit comments on the proposal from the Director of Public
+Works, the County Environmental Health Division [ Sanitarian, or
+their designees] and any other appropriate county, city, state or
+federal agency [ he deems appropriate for their comments]."
+Section 12. Section 17. 12. 080, " Statement of Water Rights," of
+Title 17 is amended to read as follows:
+17. 12. 080 Statement of water rights.
+All applicants for a subdivision or [ a] partition shall be informed
+by the Planning Director or his designee of the requirement[ s] to
+file] include a statement of water rights [ with the Oregon
+Department of Water Resources] on the final plat.
+Section 13. Section 17. 12. 100, " Sale Prohibited Before Final
+Approval," is amended to read as follows:
+17. 12. 100 Sale of subdivision lots prohibited before final
+approval.
+No person shall sell any lot [ or parcel created by a] in any
+subdivision [ or partition] until final approval of the land
+division has been granted by the County. Final approval occurs
+when the plat of the subdivision or partition is recorded with the
+County Clerk. No person shall negotiate to sell any lot in a
+subdivision until a tentative plan has been approved."
+Page 8 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+012" 7-1223
+Section 14. Title 17 is amended to add Section 17. 12. 105, " Sale
+of Partition Parcels Prohibited Prior to Tentative Plan Approval," as
+follows:
+1117. 12. 105 Sale of partition parcels prohibited prior to
+tentative plan approval.
+No person may sell any parcel in a partition prior to approval of
+the tentative plan. Prior to approval of the tentative plan, a
+person may negotiate to sell any parcel of a proposed partition."
+Changes in, Additions to
+Provisions in Chapter 17. 16,
+Approval of Subdivision Tentative Plans
+and Master Development Plans."
+Section 15. Section 17. 16. 030 is amended to read as follows:
+1117. 16. 030 Informational requirements.
+The following information shall be shown on the tentative plan or
+provided in accompanying materials. No tentative plan shall be
+considered complete unless all such information is provided.
+A. General Information Required.
+1. Proposed name of the subdivision;
+2. Names, addresses and phone numbers of the owners of
+record, authorized agents or representatives, engineer or surveyor,
+and any assumed business names filed or to be filed with the
+corporation commission by the applicant;
+3. Date of preparation, [ time, magnetic] true north, scale
+and gross area of the proposed subdivision;
+4. Appropriate identification of the drawing as a tentative
+plan for a subdivision;
+5. Location and tract designation sufficient to define its
+location and boundaries, and a legal description of the tract
+boundaries in relation to existing plats and streets;
+6. Certified copy of the recorded instrument under which the
+applicant claims an ownership interest, such as a copy of a land
+sales agreement or similar binding agreement, which binds the
+applicant in the event of tentative approval.
+7. Title report or subdivision guarantee.
+B. Information Concerning Existing Conditions.
+Page 9 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+012' 7- 1224
+1. Location, names and widths of existing improved and
+unimproved streets and roads, bikeways and access corridors [ within
+and adjacent to] in the proposed subdivision and within 200 feet
+of the proposed subdivision;
+2. Location of any existing features, such as section lines,
+section corners, special district boundary lines and survey
+monuments;
+3. Location of existing structures, irrigation canals and
+ditches, pipelines, waterways, railroads and any natural features,
+such as rock outcroppings marshes, wooded areas and natural
+hazards;
+4. Location and direction of watercourses and the location
+of areas subject to flooding and high water tables;
+5. Location, width and use or purpose of any existing
+easement or right of way for utilities, bikeways and access
+corridors within and adjacent to the proposed subdivision;
+6. Existing sewer lines, water mains, culverts and other
+underground and overhead utilities within and adjacent to the
+proposed subdivision, together with pipe sizes, grades and
+locations;
+7. Contour lines related to some established benchmark or
+other engineering acceptable datum and having minimum intervals of
+two feet for slopes of less than five percent, ten feet for slopes
+of [ fifteen] five to twenty percent, and twenty feet for slopes
+greater than twenty percent;
+8. Zoning classification of lands within and adjacent to the
+proposed subdivision;
+9. [ Names and addresses of all adjoining property owners]
+A map showing the location of any site zoned SM, Surface Mining,
+under Title 18 of the Deschutes County Code, within one- half mile
+of the proposed subdivision or partition boundary.
+10. The structures, trees, rock outcroppings or other
+shade - producing objects, if the object will cast shade from or onto
+the subdivision.
+C. Information Concerning Proposed Subdivision.
+1. Location, names, width, typical improvements,
+cross- sections bridges, culverts, approximate grades, curve radii
+and centerline lengths [ and reserve strips] of all proposed
+streets, and the relationship to all existing and proposed streets;
+Page 10 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+012' 7- 1225
+2. Location, width and purpose of all proposed easements or
+rights of way for roads, utilities, bikeways and access corridors,
+and relationship to all existing easements and rights of way;
+3. Location of at least one temporary benchmark within the
+proposed) subdivision boundary;
+4. Location, approximate area and dimensions of each lot,
+and proposed lot [ and block] numbers;
+5. Location, approximate area and dimensions of any lot or
+area proposed for public use, the use proposed, and plans for
+improvements or development thereof;
+6. Proposed use, location, approximate area and dimensions
+of any lot intended for nonresidential use;
+7. An outline of the area proposed for partial recording if
+contemplated or proposed;]
+7. Phase boundaries outlined in bold lines, if phasing is
+contemplated for the subdivision.
+8. Source, method and preliminary plans for domestic and
+other water supplies, sewage disposal, solid waste disposal and all
+utilities;
+9. Description and location of any proposed community
+facility;
+10. Storm water and other drainage facility plans;
+11. Statement from each utility company proposed to serve the
+proposed] subdivision, stating that each such company is able and
+willing to serve the [ proposed] subdivision as set forth in the
+tentative plan;
+12. Proposed fire protection system for the [ proposed]
+subdivision [ and written approval thereof by the appropriate fire
+protection agency].
+13. Solar Access.
+a. Provide a statement relative to the solar access to be
+provided by the subdivision plan.
+b. Determine the location and type of street trees, if
+proposed.
+14. Location and design of all proposed bicycle and
+pedestrian facilities.
+Page 11 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 1226
+15. Location and design of all proposed facilities providing
+for public transit.
+D. Information for lots located in Surface Mining Impact Area
+SMIA) zones. For each lot located wholly or partially within a
+SMIA zone, an applicant shall submit a site plan, accompanied by
+appropriate site plan fees, indicating the location of proposed
+noise or dust sensitive uses ( as defined in Title 18) , the location
+and dimensions of any mitigating berms or vegetation and data
+addressing the standards of Chapter 18. 56 of Title 18, as amended,
+with respect to proposed noise or dust sensitive uses."
+Section 16. Section 17. 16. 040, " Protective Covenants and Homeowner
+Association Agreements," of Title 17 is amended to read as follows:
+17. 16. 040 Protective covenants and homeowner association
+agreements.
+Landowner covenants, conditions and restrictions and Homeowner
+Association agreements are not relevant to approval of subdivisions
+and partitions under this title, unless otherwise determined by the
+County to carry out certain conditions of approval, such as road
+maintenance or open space preservation. Any provision in such
+agreements not in conformance with the provisions of this title or
+applicable zoning ordinances are void."
+Section 17. Section 17. 16. 050, " Master Development Plan," of Title
+17 is amended to read as follows:
+17. 16. 050 Master development plan.
+An overall master development plan shall be submitted for all
+developments affecting land under the same ownership for which
+phased development is contemplated. The master plan shall include,
+but not be limited to, the following elements:
+A. Overall development plan, including phase or unit sequence;
+B. Show compliance with the comprehensive plan and implementing
+land use ordinances and policies;
+C. Schedule of improvements, initiation and completion;
+D. Overall transportation and traffic pattern plan, including
+bicycle, pedestrian and public transit transportation facilities
+and access corridors.
+E. Program timetable projection;
+F. Development plans for any common elements or facilities;
+Page 12 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+G. If the proposed subdivision has an
+adjacent lands or lands within the general
+Director or Hearings Body may require
+development pattern for streets, bikeways ai
+adjoining lands to be submitted together w
+as part of the master development p7
+subdivision."
+0127- 1227
+unknown impact upon
+vicinity, the Planning
+a potential [ street]
+id access corridors for
+ith the tentative plan
+an for the subject
+Section 18. Section 17. 16. 060, " Master Development Plan -
+Approval," of Title 17 is amended as follows:
+17. 16. 060 Master development plan - Approval
+The Planning Director or Hearings Body shall review a master
+development plan at the same time the tentative plan for the first
+phase is reviewed. The Planning Director or Hearings Body may
+approve, modify or disapprove the master plan and shall set forth
+findings for such decision. The Planning Director or Hearings Body
+may also attach conditions necessary to bring the plan into
+compliance with all applicable land use ordinances and policies.
+Any tentative plan submitted for the plan area shall conform to the
+master plan unless approved otherwise by the County. Master Plan
+approval shall be granted for a specified time period by the
+Planning Director or Hearings Body, and shall be included in the
+conditions of approval."
+Section 19. Section 17. 16. 100, " Required Findings for Approval,"
+is amended to read as follows:
+17. 16. 100 Required findings for approval.
+The Hearings Body shall not approve] A tentative plan for a
+proposed subdivision shall not be approved unless the Planning
+Director or Hearings Body finds[, in addition to other requirements
+and standards set forth in this title,] that the subdivision as
+proposed or modified will [ satisfy the intent and] meet the
+requirements of this title and Titles 18 through 21 of this code,
+and [ be] is in compliance with the comprehensive plan. Such
+findings shall include, but not be limited to, the following:
+A. The subdivision contributes to orderly development and land
+use patterns in the area, and provides for the preservation of
+natural features and resources such as streams, lakes, natural
+vegetation, special terrain features, agricultural and forest lands
+and other natural resources.
+B. The subdivision will not create excessive demand on public
+facilities and services, and utilities required to serve the
+development.
+C. The tentative plan for the proposed subdivision meets the
+requirements of Oregon Revised Statutes Section 92. 090.
+Page 13 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+012' 7- 1228
+D. For subdivisions or portions thereof proposed within a Surface
+Mining Impact Area ( SMIA) zone under Title 18 of the Deschutes
+County Code, the subdivision creates lots on which noise or dust
+sensitive uses can be sited consistent with the requirements of
+Chapter 18. 56 of Title 18, as amended, as demonstrated by the site
+plan and accompanying information required under Section 17. 16. 030
+of this chapter.
+E. The subdivision name has been approved by the County Surveyor."
+Section 19A. Title 17 is amended to add a new section 17. 16. 105,
+Access to Subdivisions," as follows:
+17. 16. 105 Access to Subdivisions
+No proposed subdivision shall be approved unless it would be
+accessed by roads constructed to County standards and by roads
+accepted for maintenance responsibility by a unit of local or state
+government. This standard is met if the subdivision would have
+direct access to an improved collector or arterial, or in cases
+where the subdivision has no direct access to such a collector or
+arterial, by demonstrating that the road accessing the subdivision
+from a collector or arterial meets relevant County standards and
+has been accepted for maintenance purposes."
+Changes in
+Provisions in Chapter 17. 28,
+Approval of Tentative Plans for Partitions,"
+as Renumbered to Chapter 17. 22.
+Section 20. Title 17 is amended to create a new Chapter 17. 22,
+Approval of Tentative Plans for Partitions," from the existing
+provisions of present Chapter 17. 28, " Approval of Tentative Plans for
+Partitions" and to renumber accordingly each existing chapter 17. 28
+provision in sequence as Chapter 17. 22 provisions.
+Section 21. Present Section 17. 28. 010, " Filing Procedures and
+Requirements," renumbered under Section 20 above as Section 17. 22. 010,
+is amended to read as follows:
+17. 22. 010 [ 17. 28. 010] Filing procedures and requirements.
+A. Any person, or his authorized agent or representative,
+proposing a land partition, shall prepare and submit a minimum of
+ten [ five] copies of the documents hereinafter described, unless
+more copies are required by the Planning Director, in accordance
+with the prescribed procedures, and the appropriate filing fee, to
+the Planning [ department] Division.
+Page 14 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+012' 7- 1229
+B. The tentative plan shall include the following:
+1. A vicinity map locating the proposed partition in
+relation to parcels zoned SM, Surface Mining, under Title 18 of the
+Deschutes County Code, which are within one- half mile of the
+subject partition, and to adjacent subdivisions, roadways and
+adjoining land use and ownership patterns. The map must include
+names of all existing roadways shown therein;
+2. A plan of the proposed partitioning showing tract
+boundaries and dimensions, the area of each tract or parcel,
+locations of all easements, and the names, rights of way, widths
+and improvement standards of existing roads. The tentative plan
+shall also show the location of all existing buildings, canals,
+ditches, septic tanks and drainfield; it shall also show the
+location of any topographical feature which could impact the
+partition, such as canyons, bluffs, rock outcroppings, natural
+springs and floodplains. In addition, the tentative plan shall
+show the location width, curve radius and grade of proposed rights
+of way;
+3. If the partition is to be accessed by a U. S. Forest
+Service or Bureau of Land Management road, the applicant shall
+submit a written agreement with the appropriate land management
+agency providing for permanent legal access to the road and any
+required maintenance.
+3] 4. Names and addresses of the landowner, the applicant ( if
+different), a mortgagee if applicable, and the engineer or surveyor
+employed or to be employed to make the necessary surveys [ and
+prepare the legal descriptions of each parcel to be created, and
+record owners of land contiguous to the proposed partition];
+4] 5. A statement regarding contemplated water supply,
+telephone and electric service, sewage disposal, [ solid waste
+disposal,] fire protection and access, etc. If domestic water is
+to be provided by an on- site well, the application must include at
+least two well logs for wells in the area;
+5] 6. True north [ point], scale and date of map and property
+identification by tax lot, section, township and range;
+6] 7. Statement regarding [ past,] present and intended use of
+the parcels to be created, or the use for which the parcels are to
+be offered;
+7] 8. If a tract of land has water rights, the application
+shall be accompanied by a water rights division plan which can be
+reviewed [ approved] by the irrigation district or other water
+district holding the water rights, or when there is no such
+district, the county watermaster;
+Page 15 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+012' 7- 1230
+9. Title Report or Subdivision Guarantee. [ Location of all
+existing buildings, canals, ditches, septic tanks and drainf ields; ]
+10. Location of any topographical feature which could impact
+the partition, such as canyons, bluffs, rock outcroppings, natural
+springs and floodplains;]
+11. Location, width, name, curve radius and grade of proposed
+rights of way.]
+C. Information for parcels located within a Surface Mining Impact
+Area ( SMIA) zones. For each parcel wholly or partially within in
+a SMIA zone under Title 18 of the Deschutes County Code, an
+applicant shall submit a site plan, accompanied by appropriate site
+plan fees, indicating the location of proposed noise or dust
+sensitive uses ( as defined in Title 18), the location and
+dimensions of any mitigating berms or vegetation and data
+addressing the standards of Chapter 18. 56 of Title 18, with respect
+to allowed noise or dust sensitive uses.
+Section 22. Present Section 17. 28. 020, " Requirements for
+approval," renumbered under Section 20 above as Section 17. 22. 020, is
+amended to read as follows:
+1117. 22. 020 [ 17. 28. 020] Requirements for approval.
+A. No application for partition shall be approved unless the
+following requirements are met:
+1. Proposal is in compliance with Oregon Revised Statutes
+Chapter 92, the applicable comprehensive plan and applicable zoning
+ordinance. A proposed partition is not in compliance with the
+zoning ordinance if it would conflict with the terms of a
+previously issued approval for a land use on the property or would
+otherwise create a non - conforming use on any of the newly described
+parcels with respect to an existing structure or use.
+2. Proposal does not conflict with existing public access
+easements within or adjacent to the partition.
+3. The partition is accessed either by roads dedicated to the
+public or by way of United States Forest Service or Bureau of Land
+Management roads where applicant has submitted a written agreement
+with the appropriate land management agency providing for permanent
+legal access to the parcels and any required maintenance. This
+provision shall not be subject to variance.
+4. An access permit can be obtained from either the County
+Public Works Department, the City Public Works Department or the
+State Highway Division.
+Page 16 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+012' 7- 1231
+3] 5. Each parcel is suited for the use intended or
+offered, considering the size of the parcels, natural hazards,
+topography and access.
+4. All required utilities, public services and facilities
+are available and adequate and are proposed to be provided by the
+petitioner.
+5. A[ n approved] water rights division plan, reviewed and
+approved by the appropriate irrigation district or the
+Watermaster' s Office, if [ applicable] water rights are associated
+with the subject property;
+6. [ Partitions adjoining SM zones shall be approved on the
+condition that deeds for parcels created by the partition will
+contain a statement noting the existence and location of such zones
+in relation to the subject parcel. ] For partitions or portions
+thereof within one- half mile of SM zones, the applicant shows that
+a noise or dust sensitive use, as defined in Title 18 of the
+Deschutes County Code, can be sited consistent with the
+requirements of Chapter 18. 56 of Title 18, as demonstrated by the
+site plan and accompanying information required to be submitted
+under Section 17. 28. 010 ( C) of this chapter.
+B. [ The hearings body shall deny an application for partitioning
+when it appears the partitioning is part of a plan or scheme to
+create more than three parcels without going through subdivision,
+or is part of a development pattern having the effect of creating
+more than three parcels without subdividing.] If the Planning
+Director determines that the proposed partition constitutes series
+partitioning, or if series partitioning has occurred in the past,
+then the Planning Director may refer the application to the
+Hearings Officer for a determination as to whether the application
+should be subject to the requirements of Sections 17. 36. 300, Public
+Water Supply System, and 17. 48. 160, Road Development Requirements
+for Subdivisions.
+C. Protective covenants and homeowner' s association agreements
+are irrelevant to any partition approval and will not be reviewed
+by the county. Any provision in such agreements not in conformance
+with the provisions of this title or applicable zoning ordinance
+are void as against the County."
+Section 23. Present Section 17. 28. 030, " Improvement Requirements,"
+renumbered under Section 20 above as Section 17. 22. 030, is further
+amended to read as follows:
+1117. 22. 030 [ 17. 28. 030] Improvement requirements.
+In the approval of a land partition, the County shall consider the
+need for street and other improvements, and may require as a
+condition of approval any improvements that may be required for a
+Page 17 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+012' 7- 1232
+subdivision under the provisions of this title. All roads in
+partitions [ where a right of way dedication is proposed] shall be
+dedicated to the public without reservation or restriction."
+Section 24. Present Section 17. 28. 040, " Application Review,"
+renumbered under Section 20 above as Section 17. 22. 040, is further
+amended to read as follows:
+17. 22. 040 [ 17. 28. 040] Application review.
+Following submission of an application for a land partition, the
+Planning Director or Hearings Body shall review the plan and
+application and any comments received thereon, and shall either
+approve or deny the application] application shall be reviewed in
+accordance with Title 22 of the Deschutes County Code."
+Section 25. Present Section 17. 28. 050, " Special Partition
+Regulations," renumbered under Section 20 above as Section 17. 22. 100,
+is further amended to read as follows:
+17. 22. 100 [ 17. 28. 100] Special partition regulations.
+A. The partitioning of a tract of land in which not more than one
+additional parcel is created, and transferred to a [ public or
+semipublic agency] governmental agency or special district for the
+purpose of road, railway, electric substation, canal right of way,
+or irrigation district use, may be approved by the Planning
+Director without going through a Variance procedure. The new
+parcel may be less than the minimum lot size in the zone within
+which it is located, provided it is utilized for one of the above
+purposes. A partition application shall be required.
+B. The adjustment of a lot line by the relocation of a common
+boundary where an additional parcel or tax lot is created, or when
+a parcel existing before the adjustment is reduced below the
+minimum lot size established by the applicable zoning shall be
+treated as a partition.]
+Changes and Additions to
+Provisions in Chapter 17. 24, " Final Plat."
+Section 25A. Section 17. 24. 040, " Form," is amended to read as
+follows:
+The final plat shall be submitted in the form prescribed by
+state statute and this title. All plats and other writings or
+dedications made a part of such plats offered for recording
+shall be made in black ink upon an eighteen inch by twenty-
+four inch sheet, with an additional three- inch binding edge on
+the left side. The plat shall be made upon drafting material
+of at least 4 mil thickness that is suitable for binding and
+copying and have such other characteristics of strength and
+Page 18 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+012' 7- 1233
+permanency as may be required by the County Surveyor. All
+signatures on the original subdivision or partition plat shall
+be in permanent black India - type ink. The plat shall be of
+such a scale as established by the County Surveyor, and the
+lettering of the approvals, dedications, the surveyor' s
+certificate [ affidavit of the surveyor], and all other
+information shall be of such size or type as will be clearly
+legible, but no part shall come nearer to any edge of the
+sheet than one inch. The plat may contain as many sheets as
+necessary, but an index page shall be included for plats of
+three or more sheets."
+Section 25AA. The title of Section 17. 24. 050, " Requirements of
+Survey and Plat of Subdivision," is amended to read " Requirements of
+Survey and Plat."
+Section 26. Section 17. 24. 060, " Required Information," of Title
+17 is amended to read as follows:
+17. 24. 060 Required information.
+In addition to that required for the tentative plan or otherwise
+specified by law, the following information shall be shown on the
+submitted plat:
+A. Name of subdivision [ or partition] and plat number for a final
+subdivision plat, or the partition application number and space for
+the partition plat number for a final partition plat.
+B. Name of owner, applicant and surveyor.
+C. The date, scale, true north [ point], key to symbols,
+controlling topography such as bluffs, creeks and other bodies of
+water, and existing highways and railroads.
+D. Legal description of the tract boundaries.
+E. The exact location and width of streets and easements
+intercepting the boundary of the tract.
+F. Tract, [ block or] lot or parcel boundary lines and street
+rights of way and centerlines, with dimensions, bearing or
+deflection angles, radii, arcs, points of curvature and tangent
+bearings. Normal high water lines for any creek, bay or other body
+of water. Tract boundaries and street bearings shall be shown to
+the nearest second with the basis of bearings. Distances shall be
+shown to the nearest 0. 01 feet.
+G. Streets. The width of the streets being dedicated and the
+curve data shall be based on the street centerline. In addition
+to the centerline dimensions, the radius and central angle shall
+be indicated, together with the long chord distance and bearing.
+Page 19 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+012' 7- 1234
+H. Easements. The location, dimensions and purpose of all
+recorded and proposed public easements shall be shown on the plat
+along with the County Clerk' s recording reference if the easement
+has been recorded with the County Clerk. All such easements shall
+be denoted by fine dotted lines and clearly identified. If an
+easement is not of record, a statement of the grant of easement
+shall be given. If the easement is being dedicated by the plat,
+it shall be properly referenced in the owner' s certificate of
+dedication.
+I. Southern Building Line. The southern building line shall be
+shown on each lot or parcel which is benefitted by solar height
+restrictions on burdened lots within the subdivision or partition.
+J. Solar Height Restriction. The solar height restriction shall
+be shown on the plat for each lot or parcel burdened by the solar
+access of another lot or parcel. This provision shall be waivable
+for parcels of ten ( 10 ) acres or more if, in the opinion of the
+planning director, adjoining lots or parcels would not be
+benefitted by such a requirement.]
+J. Bicycle and Pedestrian Facilities. The location, width and
+type ( i. e. route, lane or path) of all bicycle and pedestrians
+facilities, including access corridors.
+K. Lot or Parcel Numbers. Lot or parcel number beginning with
+the number one and numbered consecutively [ in each block].
+L. Block Numbers. Block numbers shall not be allowed for any
+subdivision application submitted for tentative approval after
+January 1, 1992, unless such subdivision is a continued phase of
+a previously recorded subdivision, bearing the same name, that has
+previously used block numbers or letters. The numbers shall begin
+ning] with the number one and [ continuing] continue consecutively
+without omission or duplication throughout the subdivision [ or
+partition]. The numbers shall be placed so as not to obliterate
+any figure. Block numbers in an addition to a subdivision [ or
+partition] of the same name shall be a continuation of the
+numbering in the original subdivision [ or partition].
+M. Public Lands. Public lands, including strips and easements,
+shall be clearly marked to distinguish them from lots or parcels
+intended for sale.
+N. Access Restrictions. Limitations on rights of access to and
+from streets, lots or parcels and other tracts of land.
+0. Area. The area of each lot or parcel, if larger than one
+acre, to the nearest hundredth of an acre; and the area of each lot
+or parcel less than one acre, to the nearest square foot.
+Page 20 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+012' 7- 1235
+P. Dedications. Dedications of all common improvements,
+including, but not limited to, streets, roads, parks, sewage
+disposal and water supply systems, where dedication of such
+improvements is required as a condition of approval of the
+tentative plan.]
+Q] P. Statement of Water Rights. [ If lots or parcels have
+appurtenant water rights, the amount of water to be allocated to
+each lot or parcel shall be indicated on each lot or parcel.]
+1. Each subdivision or partition plat shall include a statement
+of water rights on the plat. The statement shall indicate whether
+a water right or permit is appurtenant to the subject property.
+If a water right is appurtenant, the certificate number must appear
+with the statement. If a water permit rather than a perfected
+water right is appurtenant, the permit number shall be included on
+the plat.
+2. If a water right is appurtenant, the applicant shall submit
+a copy of the final plat to the State Water Resources Department,
+except for those plats with lots or parcels served by irrigation
+districts.
+3. All final plats for parcels within an irrigation district
+shall be signed by an authorized person from the district.
+R. [ Affidavits] Statements. The following [
+affidavits]
+statements are required:
+1. An acknowledged affidavit signed by all parties having
+any ownership interest of record in the land, consenting to the
+preparation and recording of the plat. This affidavit and the
+affidavit required by subsection ( R)( 2) below may be made on a
+separate document if, due to the number and location of parties,
+making such affidavits on the plat would not be practical.]
+2. An affidavit signed and acknowledged by all parties
+having any interest of record in the land dedicating all land
+intended for public use, except land intended for the exclusive use
+of the owners of the lots or parcels in the subdivision or
+partition, their licensees, visitors, tenants and servants.]
+3. An acknowledged affidavit regarding preparation of the
+plat in conformance with the provisions of state law signed by the
+surveyor responsible for the survey and final plat and stamped with
+his seal.]
+1. Land Divider' s Declaration
+a. An acknowledged affidavit of the person proposing the
+land division ( declarant) stating that he has caused the
+plat to be prepared in accordance with the provisions of
+Page 21 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 1236
+ORS Chapter 92 and dedicating any common improvements,
+such as streets, bike paths or walkways, parks or open
+space, sewage disposal or water supply systems,
+required
+under this Chapter or as a condition of approval of the
+tentative plan or plat. The declaration shall also
+include the creation of any other public or private
+easements.
+b. If the declarant is not the fee owner of the property,
+the fee owner and the vendor under any instrument
+of
+sale shall also execute the declaration for the purpose
+of consenting to the property being divided and to any
+dedication or creation of an easement or other
+restriction. Likewise, the holder of any mortgage or
+trust deed shall also execute the declaration for
+purposes of consenting to the property being divided and
+for the purpose of assenting to any dedication or
+creation of an easement or other restriction.
+C. In lieu of signing the declaration on the plat, any
+required signatory to the declaration other than the
+declarant may record an acknowledged affidavit
+consenting to the declaration and to any dedication or
+donation of property for public purposes or creation of
+an easement or other restriction.
+2. A certificate certifying
+preparation of the plat in
+conformance with the provisions of state law signed by the surveyor
+responsible for the survey and final plat and stamped with his
+seal.
+4] 3. Any other affidavit required by state regulations.
+S]. R Signature Lines. Unless otherwise stated herein,
+signature lines for the following
+officials signifying their
+approval:
+1. County Surveyor.
+2. Director of Public Works.
+3. County [ sanitarian] Environmental Health Director, unless
+the property is to be connected to a municipal sewer system.
+4. County Assessor ( subdivisions and nonfarm partitions
+only).
+5. County Tax Collector ( subdivisions only).
+6. Authorized agent for any irrigation district servicing
+the subdivision or partition.
+Page 22 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 123' 7
+7. County Planning Director.
+8. County Commissioners.
+9. Any other signature required by state regulation.
+T] S. The plat shall contain a statement located directly beneath
+the signatures of the county commissioners stating as follows:
+Signature by the Board of County Commissioners constitutes
+acceptance by the county of any [ right- of- way dedicated] dedication
+made herein to the public.
+U] T. Adjacent SM zone. Any plat of a subdivision or partition
+adjoining an SM zone must clearly show where such zone is located
+in relation to the subdivision or partition boundaries."
+Section 27. Section 17. 24. 100, " Technical Review," of Title 17 is
+amended to read as follows:
+17. 24. 100 Technical review.
+A. Review by surveyor.
+1. The County Surveyor shall, after receipt of such fees
+provided by law or county ordinance, review the plat for
+conformance with the requirements of Chapter 92 of the Oregon
+Revised Statutes.
+2. The Surveyor shall not approve a partition unless he is
+satisfied that all required monuments on the exterior boundary and
+all required parcel corner monuments have been set.
+3. The County Surveyor may require that the setting of
+interior corners for a subdivision be delayed if the installation
+of street and utility improvements has not been completed or if
+other contingencies justify the delay. In such cases, the surveyor
+shall require payment of a bond to the county as provided for in
+section 17. 24. 130 of this title.
+4. Any plat prepared by the County Surveyor in his private
+capacity shall be approved by the County Surveyor of another county
+in accordance with Oregon Revised Statutes sections 92. 100 ( 4).
+B. Ordinance check.
+1. Upon payment by the applicant of any fees required by the
+county, the planning director ( or his designees) and such other
+county departments as he shall deem appropriate shall review the
+plat and other data submitted with it to determine whether or not
+Page 23 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 1238
+the subdivision or partition as shown is substantially the same as
+it appeared on the approved tentative plan and for compliance with
+provisions of this title and other applicable laws.
+2. Review and approval under this subsection shall occur in
+accordance with Section 17. 24. 110 of this chapter.]
+C] B. Field Check. The Director of Public Works, the Planning
+Director and the County Surveyor or their designated
+representatives may make such checks in the field as are required
+by law or are otherwise desirable to verify that the plat is
+sufficiently correct. [ The director of public works, planning
+director and county surveyor, or their designated representatives,]
+They may enter the property for this purpose.
+Section 28. Title 17, " Final Plat Review," is amended to add a new
+Section 17. 24. 105 as follows:
+17. 24. 105 Final Plat Review.
+1. Upon payment by the applicant of any fees required by the
+county, the Planning Director and such other county departments as
+he shall deem appropriate shall review the plat and other data
+submitted with it to determine whether or not the subdivision or
+partition as shown is substantially the same as it appeared on the
+approved tentative plan and for compliance with provisions of this
+title, the tentative approval, and other applicable laws. If the
+Planning Director determines all conditions of approval have been
+satisfied, the final plat shall be submitted to the Board of County
+Commissioners for their signatures.
+2. Review and approval under this section shall occur in
+accordance with Section 17. 24. 110."
+Section 29. Section 17. 24. 110, " Conditions of Approval," of Title
+17 is amended to read as follows:
+17. 24. 110 Conditions of approval.
+A. The [ hearings body] Planning Director and Public Works
+Director shall determine whether or not the plat conforms with the
+approved tentative plan and this title. If the [ hearings body]
+Planning Director and/ or Public Works Director does not approve the
+plat, [ it] they shall advise the applicant of the changes or
+additions that must be made, and shall afford him an opportunity
+to make corrections. If the [ hearings body] Planning Director and
+Public Works Director determine[ s] that the plat conforms to all
+requirements and if, in the case of partitions, [ it] they
+determine[ s] that all current taxes and assessments are paid, [ it]
+they shall recommend approval, provided supplemental documents and
+provisions for required improvements are satisfactory.
+Recommendation of approval of the plat does not constitute final
+Page 24 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+012' 7- 1239
+approval, such authority for final approval being vested with the
+governing body.
+B. No plat of a proposed subdivision or partition shall be
+approved unless:
+1. Streets and roads for public use are to be dedicated
+without any reservation or restriction;
+2. Streets and roads held for private use and indicated on
+the tentative plan have been approved by the county;
+3. The plat contains provisions for dedication to the public
+of all common improvements, including, but not limited to,
+streets, roads, parks, sewage disposal and water supply systems, if
+made a condition of the approval of the tentative plan;
+4. Explanations of all common improvements required as
+conditions of approval of the tentative plan shall be recorded and
+referenced on the final plat;
+5. If the subdivision or partition adjoins an SM zone, the
+existence and location of such zone shall be entered on the deeds
+for all lots or parcels created by the subdivision or partition.]"
+Section 30. Section 17. 24. 120 ( B) of Title 17 is amended to read
+as follows:
+Section 17. 24. 120 Improvement Agreement
+B. No building permit shall be issued for any lot or parcel of
+a platted subdivision or partition until the required improvements
+are completed and accepted by the county [, unless this provision
+is waived by the hearings body because of the character of the
+subdivision or partition]. One building permit for a dwelling may
+be allowed for the entire parent parcel of a subdivision or
+partition prior to final plat approval, provided there are no other
+dwellings on the subject property, all land use approvals have been
+obtained and the siting of the dwelling is not inconsistent with
+the tentative plat approval.
+Section 31. Section 17. 24. 150 ( B) of Title 17 is amended to read
+as follows:
+17. 24. 150 Recording
+Page 25 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 1240
+B. The applicant must present the original approved plat plus two
+exact mylar copies at the time of recording. The surveyor who made
+the plat shall make an affidavit [ to indicate] on the mylar copies
+indicating that the copy or tracing is a[ n] true and exact copy of
+the plat. Prior to submission to the County Clerk of a plat of a
+county - approved subdivision or partition, the applicant shall
+provide [ the required number of] 15 blue line copies of the plat
+as determined by the planning director,] to the [ County] Planning
+Director] Division and pay the appropriate cartography fee. No
+plat shall be recorded with the County Clerk unless accompanied by
+a written statement from the Planning Division that all
+requirements have been met.
+n
+Changes to, Additions to, and Repeal of
+Provisions in Chapter 17. 36, " Design Standards."
+Section 31A. Section 17. 36. 020, " Streets," of Title 17 is amended
+to read as follows:
+17. 36. 020 Streets
+A. The location, width and grade of streets shall be
+considered in their relation to existing and planned streets,
+topographical conditions, public convenience and safety, and the
+proposed use of land to be served by the streets. The street
+system shall assure an adequate traffic circulation system for all
+modes of transportation, including pedestrians, bicycles, and
+automobiles, with intersection angles, grades, tangents and curves
+appropriate for the traffic to be carried, considering the terrain.
+The subdivision or partition shall provide for the continuation of
+the principal streets existing in the adjoining subdivision or
+partition or of their proper projection when adjoining property
+which is not subdivided, and such streets shall be of a width not
+less than the minimum requirements for streets set forth in this
+chapter.
+B. Streets in subdivisions shall be dedicated to the public,
+unless located in a destination resort, planned community or
+planned or cluster development, where roads can be privately owned.
+Planned developments shall include public streets where necessary
+to accommodate present and future through traffic.
+C. Streets in partitions shall be dedicated to the public."
+Section 32. Section 17. 36. 030, " Division of Land," of Title 17 is
+amended to read as follows:
+Page 26 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 1.2-041
+17. 36. 030 Division of land.
+Any proposal for a condominium conversion which results in a
+division of real property shall comply with the provisions of [ this
+chapter,] Title 17 and Oregon Revised Statutes Chapter 92."
+Section 33. Section 17. 36. 040, " Existing Streets," of Title 17 is
+amended to read as follows:
+17. 36. 040 Existing streets.
+Whenever existing streets, adjacent to or within a tract, are of
+inadequate width to accommodate the increase in traffic expected
+from the subdivision or partition or by the county roadway network
+plan, additional rights of way shall be provided at the time of the
+land division by the applicant. During consideration of the
+tentative plan for the subdivision or partition the Planning
+Director or Hearings Body, together with the Public Works Director,
+shall determine whether improvements to existing streets adjacent
+to or within the tract, are required. If so determined, such
+improvements shall be required as a condition of approval for the
+tentative plan. Improvements to adjacent streets shall be required
+where traffic on such streets [ shall] will be directly affected by
+the proposed subdivision or partition."
+Section 34. Section 17. 36. 090, " Reserve Strips," is hereby
+repealed.
+Section 35. Section 17. 36. 100, " Marginal access streets," is
+renamed " Frontage Roads," and is further amended to read as follows:
+17. 36. 100 [ Marginal access streets] Frontage roads
+A. If a land division abuts or contains an existing or proposed
+collector or arterial street, the Planning Director or Hearings
+Body may require [ marginal access streets] frontage roads, reverse
+frontage lots or parcels with suitable depth, screen planting
+contained in a non - access reservation along the rear or side
+property line, or other treatment necessary for adequate protection
+of residential properties and to afford separation of through and
+local traffic. Provision may be made for emergency access. All
+marginal access streets] frontage roads shall comply with
+appropriate local road standards] the applicable standards of
+Table A of this Title.
+Section 36. Section 17. 36. 120, " Street Names," of Title 17 is
+amended to read as follows:
+17. 36. 120 Street names.
+Except for extensions of existing streets, no street name shall be
+used which will duplicate or be confused with the name of an
+Page 27 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 1042
+existing street in a nearby city or in the county. Street names
+and numbers shall conform to the established pattern in the county
+and shall require approval from the County Property Address
+Coordinator.
+Section 37. Section 17. 36. 130, " Sidewalks," is amended to read as
+follows:
+17. 36. 130 Sidewalks.
+A. Within an urban growth boundary, sidewalks [ are required to]
+shall be installed on both sides of a public road or street and in
+any special pedestrian way within the subdivision or partition and
+along any collectors and arterials improved in accordance with the
+subdivision or partition approval. [ In the case of streets serving
+residential areas having single- family dwellings located on lots
+or parcels equivalent to two and one- half or fewer dwellings per
+acre, the requirement of sidewalks shall not apply, provided there
+is no evidence of regular pedestrian activity along the streets
+involved.]"
+B. Within an urban area, sidewalks shall be required along
+frontage roads only on the side of the frontage road abutting the
+development.
+C. Sidewalk requirements for areas outside of urban areas are set
+forth in Section 17. 48. 175. In the absence of a special
+requirement set forth by the Director of Public Works under Section
+17. 48. 030, sidewalks and curbs are never required in rural areas
+outside rural service centers."
+Section 38. Title 17 is amended to repeal Section 17. 35. 140,
+Bicycle Routes," and replace it with a new section 17. 36. 140,
+Bicycle, Pedestrian and Transit Requirements," as follows:
+17. 36. 145 Bicycle, Pedestrian and Transit Requirements
+A. Pedestrian and Bicycle Circulation within Subdivision.
+1. The tentative plan for a proposed subdivision shall provide
+for bicycle and pedestrian routes, facilities and improvements
+within the subdivision and to nearby existing or planned
+neighborhood activity centers, such as schools, shopping areas
+and parks in a manner that will ( a) minimize such interference
+from automobile traffic that would discourage pedestrian or
+cycle travel for short trips; ( b) provide a direct route of
+travel between destinations within the subdivision and
+existing or planned neighborhood activity centers, and ( c)
+otherwise meet the needs of cyclists and pedestrians,
+considering the destination and length of trip.
+2. Subdivision layout.
+Page 28 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+01207- 1043
+a) Cul- de- sacs or dead- end streets shall be allowed only
+where, due to topographical or environmental
+constraints, the size and shape of the parcel, or a lack
+of through - street connections in the area, a street
+connection is determined by the Planning Director or
+Hearings Body to be infeasible or inappropriate. In
+such instances, where applicable and feasible, there
+shall be a bicycle and pedestrian connection connecting
+the ends of cul- de- sacs to streets or neighborhood
+activity centers on the opposite side of the block.
+b) Bicycle and pedestrian connections between streets shall
+be provided at mid - block where the addition of a
+connection would reduce the walking or cycling distance
+to an existing or planned neighborhood activity center
+by 400 feet and by at least 50 percent over other
+available routes.
+c) Local roads shall align and connect with themselves
+across collectors and arterials. Connections to
+existing or planned streets and undeveloped properties
+shall be provided at no greater than 400 foot intervals.
+d) Connections shall not be more than 400 feet long and
+shall be as straight as possible.
+3. Facilities and Improvements
+a) Bikeways may be provided by either a separate paved path
+or an on - street bike lane, consistent with the
+requirements of this title.
+b) Pedestrian access may be provided by sidewalks or a
+separate paved path, consistent with the requirements of
+this title.
+c) Connections shall have a 20 - foot right of way, with at
+least a 10 - foot usable surface."
+Section 38A. Section 17. 36. 150, " Blocks," of Title 17 is amended
+to read as follows:
+17. 36. 150 Blocks
+A. General. The length, width and shape of blocks shall
+accommodate the need for adequate building site size, [ and] street
+width, and direct travel routes for pedestrians and cyclists
+through the subdivision and to nearby neighborhood activity
+centers, and shall be compatible with the limitations of the
+topography.
+Page 29 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 1044
+B. Size. Within an urban growth boundary, no block shall be
+longer than one thousand two hundred feet between street lines.
+In blocks over eight hundred feet in length, there shall be a cross
+connection [ walkway of not less than ten feet in width near the
+middle of the block] consistent with the provisions of Section
+17. 36. 140."
+Section 39. Section 17. 36. 180, " Frontage Lots," is renamed
+Frontage," and is further amended to read as follows:
+17. 36. 180 Frontage [ lots].
+A. Each lot or parcel shall abut upon a public road [ street or
+an officially approved way other than an alley] for at least fifty
+feet, except for lots or parcels fronting on the bulb of a cul de
+sac, then the minimum frontage shall be thirty feet, and except for
+partitions off of US Forest Service or Bureau of Land Management
+roads.
+B. All side lots lines shall be at right angles to street lines
+or radial to curved streets wherever practical.
+Section 40. Section 17. 36. 240, " Special Setbacks," is hereby
+repealed.
+Section 41. Section 17. 36. 280, " Water and sewer lines," is amended
+to read as follows:
+17. 36. 280 Water and sewer lines.
+Within an urban growth boundary, all subdivisions and partitions
+shall provide water and sewer lines constructed to county and city
+standards and specifications, which shall be consistent with the
+appropriate urban area agreement.] Where required by the
+applicable zoning ordinance, water and sewer lines shall be
+constructed to county and city standards and specifications.
+Required water mains and service lines shall be installed prior to
+the curbing and paving of new streets in all new subdivisions or
+partitions."
+Section 42. Section 17. 36. 290, " Individual Wells," is amended to
+read as follows:
+17. 36. 290 Individual wells.
+In any [ development] subdivision or partition where individual
+wells are proposed, the applicant shall provide documentation of
+the depth and quantity of potable water available from a minimum
+of [ one well] two wells within one mile of the proposed
+development] land division. Notwithstanding Section 17. 36. 300,
+individual wells for subdivisions are allowed when parcels are
+larger than ten acres.
+Page 30 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+G1?7- 1. 45
+Section 43. Section 17. 36. 300, " Community domestic water supply
+system," is renamed " Public water system," and is further amended to
+read as follows:
+17. 36. 300 [ Community domestic] Public water [ supply] system.
+In any [ development] subdivision or partition where a [ community]
+public water [ supply] system is required or proposed, plans for the
+water [ supply] system shall be submitted and approved by the
+appropriate state or federal agency. A community water [ supply]
+system shall be required where lot or parcel sizes are less than
+one acre or where potable water sources are at depths greater than
+five hundred feet, excepting land partitions. Except as provided
+for in Sections 17. 24. 120 and 17. 24. 130, a required water system
+shall be constructed and operational, with lines extended to the
+lot line of each and every lot depicted in the proposed subdivision
+or partition plat, prior to final approval.
+Changes to, Additions to, and Repeal of
+Provisions in Chapter 17. 44,
+Park Development."
+Section 44. Section 17. 44. 010, " Development within an urban growth
+boundary," is renamed " Dedication of Land," and is further amended to
+read as follows:
+17. 44. 010 Dedication of land. [ Development within an urban
+growth boundary]
+A. [ A subdivision] For subdivisions or partitions inside an urban
+growth boundary, the developer shall set aside and dedicate to the
+public for park and recreation purposes not less than [ five percent
+of the gross area of such development within the Redmond urban
+growth boundary, or not less than] eight percent of the gross area
+of such development [ within the Bend urban growth boundary], if the
+land is suitable and adaptable for such purposes and is generally
+located in an area planned for parks.
+B. For subdivisions or partitions outside of an urban growth
+boundary, the developer shall set aside a minimum area of the
+development equal to $ 350. 00 per dwelling unit within the
+development, if the land is suitable and adaptable for such
+purposes and is generally located in an area planned for parks.
+B.] C. The Planning Director or Hearings Body shall determine
+whether or not such land is [, in fact] suitable for park purposes;
+provided further, that any such approval shall be subject to the
+condition that the county or appropriate park district accept the
+deed dedicating such land.
+C. In the event there is no suitable park or recreation area or
+site in the proposed subdivision or adjacent thereto, then the
+Page 31 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 100C.46
+developer shall, in lieu of setting aside land, pay into a park
+acquisition fund a sum of money equal to the fair market value of
+the land that would have been donated under subsection A of this
+section. For the purpose of determining the fair market value, the
+latest value of land, unplatted and without improvements, as shown
+on the county assessor' s tax roll shall be used. The sum so
+contributed shall be used for acquisition of suitable area for park
+and recreation purposes or for the development of recreation
+facilities. Such expenditures shall be made for neighborhood or
+community facilities within the area of the community that will
+reasonably benefit the contributing subdivision.]
+D. Funds contributed in lieu of park land shall be credited to
+a park acquisition and development fund, and shall be deposited
+with the county treasurer. Such funds may be expended only on
+order of the board of county commissioners for the purpose of
+acquiring or developing land for park or recreation purposes.]
+Section 45. Section 17. 44. 020, " Development outside an urban
+growth boundary," is repealed.
+Section 46. Title 17 is amended to add a new Section 17. 44. 020,
+Fee in lieu of dedication," to read as follows:
+17. 44. 020 Fee in lieu of dedication.
+A. In the event there is no suitable park or recreation area or
+site in the proposed subdivision or partition, or adjacent thereto,
+then the developer shall, in lieu of setting aside land, pay into
+a park acquisition and development fund a sum of money equal to the
+fair market value of the land that would have been donated under
+17. 44. 010 above. For the purpose of determining the fair market
+value, the latest value of the land, unplatted and without
+improvements, as shown on the county assessor' s tax roll shall be
+used. The sum so contributed shall be deposited with the County
+Treasurer and be used for acquisition of suitable area for park and
+recreation purposes or for the development of recreation
+facilities. Such expenditures shall be made for neighborhood or
+community facilities at the discretion of the Board of County
+Commissioners and/ or applicable park district."
+Changes to, Additions to, and Repeal of
+Provisions in Chapter 17. 48,
+Design and Construction Specifications."
+Section 47. Section 17. 48. 040, " Approval of Variations," is
+amended to read as follows:
+17. 48. 040 Approval of variations.
+A. The Planning Director or Hearings Body [ director of public
+works] may approve proposed variations in the improvement
+Page 32 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 10247
+plans] standards of up to ten percent of the standards of
+this Title at the time a tentative plat application is
+reviewed without the need for a variance to the standards [ up
+to plus or minus ten percent of the standard or design
+tentatively approved,] provided the Planning Director or
+Hearings Body finds, after consultation with the County Public
+Works Director, that:
+A] 1. There is no adverse impact to the public in allowing
+the variations;
+B] 2. The variation promotes the intent and purposes of the
+ordinances; and
+C] 3. There are practical difficulties that will create an
+unreasonable construction expense that will not result in a
+significant public benefit.
+B. If a request for a variance from the standards is made after
+approval of a tentative plat and before the final plat, the
+applicant shall file a separate variance application, to be
+reviewed under the criteria set forth in subsection A of this
+section."
+Section 48. Section 17. 48. 050, " Road Design," is amended to read
+as follows:
+17. 48. 050 Road design.
+This section sets forth the minimum design standards acceptable
+to the department of public works for new roads or improvements to
+existing roads.] The design of [ the] roads covered by this title
+is to be prepared by a registered professional engineer and shall
+at a minimum conform to the design standards for new or existing
+roads set forth in Table A of this title and shall otherwise
+conform with AASHTO standards [ the policies of the American
+Association of State Highway and Transportation Officials ( AASHTO),
+as constituted on January 1, 1982, and as otherwise amended]. Base
+and pavement dimensions set forth in Table A may be increased by
+the Director of Public Works if necessitated by anticipated traffic
+volumes.
+Section 48A. Section 17. 48. 080, " Vertical Alignment," is amended
+to read as follows:
+17. 48. 080 Vertical Alignment
+A. Vertical curves shall be designed to be consistent with and
+complimentary to the horizontal curves. [ Minimum] Vertical curves
+will] shall be [ those shown in Table B. ( See Table B set out at
+the end of this title.)] designed in accordance with AASHTO
+standards.
+Page 33 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+01207-1048
+B. Maximum percent of grade shall be as shown in Table A. ( See
+Table A set out at end of this title. Minimum grade shall be one
+percent for all roads, unless a drainage plan is submitted to and
+approved by the Director of Public Works.
+C. Angle points shall not be allowed on grad breaks over one
+percent."
+Section 48AA. Section 17. 48. 090, " Intersections," is amended to
+read as follows:
+A. All intersections shall be planned for through traffic on the
+street with the greatest project average daily traffic ( ADT). The
+side street shall be at right angle to the main street. Horizontal
+and vertical alignment for an intersection shall be as shown in
+Drawing No. D- 6. ( See Drawing D- 6 set out at the end of this
+title, and by this reference incorporated herein.)
+B. Intersecting streets, including driveways to commercial and
+industrial properties, shall be separated by at least the following
+distances when the through road is:
+1. Arterial, five hundred feet.
+2. Collector, three hundred feet.
+3. Local, one hundred feet;
+4. Industrial park, two hundred fifty feet; and
+5. Primary access, two hundred fifty feet.
+To be measured between intersecting centerlines of the streets or
+driveways.
+C. Valley gutters shall be constructed in accordance with Drawing
+No. D- 3 ( see Drawing No. D- 3 set out at the end of this title) when
+intersecting streets are to be curbed.]
+Section 49. Section 17. 48. 140, " Bicycle Lanes," is repealed and
+replaced with a new section 17. 48. 140, " Bikeways," as follows:
+17. 48. 140 Bikeways
+A. General Design Criteria.
+1. Bikeways shall be designed in accordance with the current
+standards and guidelines of the State of Oregon Bicycle Master
+Plan, the American Association of State Highway Transportation
+Officials ( AASHTO) Guide for Development of New Bicycle
+Facilities, and the Deschutes County Bicycle Master Plan.
+Page 34 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 149
+2. All collectors and arterials shown on the County
+Transportation Plan map shall be constructed to include
+bikeways as defined by the Deschutes County Bicycle Master
+Plan.
+3. If interim road standards are used, interim bikeways and/ or
+walkways shall be provided. These interim facilities shall
+be adequate to serve bicyclists and pedestrians until the time
+of road upgrade.
+B. Bike Paths
+1. Bike paths shall be used where aesthetic, recreation and
+safety concerns are primary and a direct route with few
+intersections can be established. If private roads are constructed
+to a width of less than 28 feet, bike paths shall be provided.
+2. Bike paths are two- way facilities with a standard width
+of 10 feet, but with a 12 - foot width if there are multiple users.
+These paths shall meet County bike path standards and shall connect
+with bikeways on public roads.
+C. Bike Lanes
+Six- foot bike lanes shall be used on new construction of urban
+arterials and collectors and on rural arterials and collectors with
+more than 50 bicycle average daily trips ( BADTs). On rural
+arterials and collectors without curbs, the bike lane shall be a
+minimum of 4 feet wide. Where the travel lane on an existing
+arterial or collector is not greater than 11 feet, the bike lane
+shall be a minimum of 4 feet wide.
+D. Shoulder bikeways
+1. Shoulder bikeways shall be used on new construction of
+uncurbed arterials and collectors and on any uncurbed street having
+20- 50 BADTs.
+2. Shoulder bikeways shall be at least 4 feet wide, except
+that on curbed roadways having 20- 50 BADTs, the bike lane shall be
+at least 5 feet wide.
+E. Shared roadways
+1. Shared roadways shall be used on streets having fewer
+than 20 BADTs ( new rural construction other than local and primary
+access requires a 2. 5 - foot shoulder). Shared roadways shall also
+be used as interim facilities on existing arterials and collectors
+with a travel lane at least 14 feet wide ( signing is required if
+the travel lane is less than 14 feet wide and there are more than
+20 BADTs).
+Page 35 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+012 7- 1x,
+F. Mountain bike trails
+1. Mountain bike ( dirt or other unpaved surface) trails may
+be used as recreational or interim transportation facilities.
+2. Trails used for transportation shall have a 2 - foot
+minimum tread width and a 6 - foot minimum clearing width centered
+over the trail, and a minimum overhead clearance of 7 feet. Trails
+used solely for recreational use may be narrower with less clearing
+of vegetation.
+Section 50. Section 17. 48. 160, " Road Development Requirements -
+Standards," is amended to read as follows:
+17. 48. 160 Road development requirements - Standards.
+A. Subdivision Standards. All roads in new subdivisions shall
+have all public roads within the subdivision] either be
+constructed to a standard acceptable for inclusion in the county
+maintained system or the subdivision shall be part of a special
+road district or a homeowners association in a planned unit
+development.
+B. Improvements of Public Rights of Way.
+1. The developer of a subdivision or partition [ or site
+plan] will be required to improve all public ways that are adjacent
+or within the land development.
+2. All improvements within public rights of way shall
+conform to the improvements standards designated in this title for
+the applicable road classification.
+C. Primary Access Roads. [ All new subdivisions shall have a road
+improved to a primary access road standard from an existing paved
+county, city or state maintained road to the subdivision.] The
+primary access road for any new subdivision shall be improved to
+the applicable standard set forth in Table A. The applicable
+standard shall be determined with reference to the road' s
+classification under the relevant transportation plan. For the
+purposes of this section a primary access road is a road leading
+to the subdivision from an existing paved county, city or state
+maintained road that provides the primary access to the subdivision
+from such a road.
+D. Secondary Access Roads. When deemed necessary by the County
+Public Works Director or Planning Director, a secondary access road
+shall be constructed to the subdivision. Construction shall be to
+the same standard used for roads within the subdivision.
+Page 36 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+012' 7- 1051
+E. Stubbed Roads. Any proposed road that terminates at a
+development boundary shall be constructed with a paved cul de sac
+bulb.
+F. Cul de sacs. Cul de sacs shall have a length of less than six
+hundred feet, unless a longer length is approved by the applicable
+fire protection district, and more than 100 feet from the center
+of the bulb to the intersection with the main road. The maximum
+grade on the bulb shall be four percent.
+G. Frontage Roads. Right of way widths shall be 40 feet when
+immediately adjacent to a main highway/ arterial; 60 feet when the
+frontage road is separated from the highway or arterial by private
+land.
+Section 51. Section 17. 48. 170, " Road Development Requirements -
+Partitions," is amended to read as follows:
+17. 48. 170 Road development requirements - Partitions.
+Roadway improvements within a partition and to a road maintained
+by a public agency shall be constructed prior to final approval of
+the partition, depending on the maximum parcel size as follows:
+A. For a partition with an average parcel size of twenty acres
+or larger, the minimum roadway section shall be a graded road at
+least twenty feet wide;]
+B] A. For a parcel size of ten acres or larger, [ but less than
+twenty acres,] the minimum [ roadway section] road improvement
+standard shall be twenty feet wide with five inches of aggregate
+surfacing ( cinders are acceptable), the centerline of which
+coincides with the centerline of the right of way;
+C] B. For a parcel size of less than ten acres, the road standards
+used [ will] shall be the same as for a subdivision.
+Section 52. Title 17 is amended to add a new Section 17. 48. 175,
+Road Development Requirements - Rural Service Centers," as follows:
+17. 48. 175 Road Development Requirements - Rural Service Centers.
+A. Standards
+1. In the areas zoned Rural Service Center in LaPine, Tumalo and
+Terrebonne, all roads shall be improved with curbs and sidewalks
+and to the width specified for the applicable urban classification
+in Table A of this title.
+2. For areas zoned Rural Industrial ( RI) all roads shall be
+improved to the width specified for the applicable urban
+classification in Table A; no curbs or sidewalks are required.
+Page 37 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 1/01152
+3. For the areas zoned Rural Service Residential ( RSR - M and
+RSR - 5) , all roads shall be improved with curbs and sidewalks if the
+density of development is greater than 2. 2 dwelling units per acre.
+If the density is 2. 2 dwelling units per acre or less, the adjacent
+roads shall be improved with curbs and to the width, without
+sidewalks, specified for the applicable urban classification in
+Table A of the title.
+4. No curbs or sidewalks are required in the rural service
+centers of Alfalfa, Brothers, Hampton, Millican, Whistle Stop,
+Wickiup Junction, Wild Hunt, Deschutes River Woods and Spring
+River.
+B. All required road improvements shall be located on the
+applicant' s side of the street, unless the subject property lies
+on both sides of the street."
+Section 53. Section 17. 48. 180, " Private Roads," is amended to read
+as follows:
+17. 48. 180 Private roads.
+The following minimum road standards shall apply for private roads:
+A. [ Minimum road width, twenty feet] The minimum paved roadway
+width shall be twenty- four feet in planned unit developments and
+cluster developments containing twenty or more residential units
+when separate paved bicycle/ pedestrian ways are provided in the
+development. Where separate paved bicycle/ pedestrian ways are not
+provided in such developments, the minimum paved roadway width
+shall be twenty- eight feet, including four - foot wide bike lanes,
+and two - foot wide gravel shoulders;
+B. Minimum radius of curvature, fifty feet;
+C. Maximum grade, twelve percent;
+D. At least one road name sign will be provided at each
+intersection for each road;
+E. A method for continuing road maintenance acceptable to the
+County.
+F. Private road systems shall include provisions for bicycle and
+pedestrian traffic. Shoulder bike lanes shall be a minimum of 4
+feet wide, paved and striped, with no on - street parking allowed
+within the bikeway. When private roads are developed to a width
+of less than 28 feet, bike paths constructed to County standards
+shall be required.
+Page 38 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 1 lM
+Section 53A. Section 17. 48. 210, " Access," of Title 17, is amended
+to read as follows:
+17. 48. 210 Access
+A. Permit Required. Access onto public right of way or change
+in type of access shall require a permit from the Director of
+Public Works [, except when access is granted through the land use
+permit process]. Access shall be denied at locations that do not
+meet sight distance.
+B. Access Restrictions and Limitations. The creation of access
+onto arterials and collectors is prohibited. In any event,
+residential access onto arterials and collectors shall not be
+permitted within one hundred feet of an intersection or the maximum
+obtainable on the parcel, whichever is less.
+C. Commercial and Industrial Access. Requirements for commercial
+and industrial access will be determined by the Director of Public
+Works in accordance with Section 17. 48. 090 of this Chapter. Safety
+improvements, including left turn lanes and traffic signals, may
+be required.
+D. Sight Distance. Sight distance shall meet AASHTO standards.
+D. Sight Distance.
+1. Sight distance ( in feet) shall be the lesser of five
+hundred fifty or ten time the posted speed limit ( in miles per
+hour).
+2. Sight distance shall be measure from an eye height of
+3. 75 feet to an object height of 3. 75 feet.]
+Section 53AA. Section 17. 48. 240( A), " Utilities -- Permit," of
+Title 17 is amended to read as follows:
+17. 48. 240 Utilities -- Permit
+A. Prior to any work being done in a public right of way, a
+permit shall be obtained from the Department of Public Works. A
+minimum of two weeks prior to the desired commencement date of the
+project, the applicant shall deliver to the Department of Public
+Works the following:
+1. A completed permit [ from ( See Appendix A set out at the end
+of this Title) on the Deschutes County Department of Public Works
+standard form containing the following:
+a. Applicant' s name, address and telephone number;
+Page 39 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- 1-01<154
+b. Name, address and telephone number of the contractor and
+foreman or other person responsible for the work if
+different from the contractor;
+C. Location of project, including:
+i. Township, range and section,
+ii. Road name,
+iii. Nearest intersecting roads.
+d. Type of facility,
+e. The proposed starting and completion dates;
+2. Two sets of construction plans showing all pertinent
+construction details;
+3. A plan for traffic control; in the case of a road closure, a
+proposed detour and / or other method of controlling traffic;
+4. A bond or cash deposit as required in Section 17. 48. 300 of
+this chapter, with an improvement agreement in a form approved by
+the Director of Public Works.
+Section 53AAA. Section 17. 48. 340, " Construction -- Testing," of
+Title 17 is amended to read as follows:
+17. 48. 340 Construction -- Testing
+All testing shall conform to the methods described in AASHTO
+Materials, Part II, Tests, [ 11th Edition, 1974] 1993 Edition, or
+the Oregon State Highway Division Laboratory Manual of Test
+Procedure, 1993 Edition."
+Section 53B. Section 17. 48. 420( C), " Construction -- Surfacing
+Requirements," of Title 17 is amended to read as follows:
+17. 48. 420 Construction -- Surfacing requirements.
+C) Asphalt Penetration Macadam. When an oil mat is placed, it
+shall be applied in accordance with Section 406 of the General
+Specifications. It shall be equal to or greater than a type
+0- 9 penetration macadam as shown in Appendix [ D] B. ( See
+Appendix [ D] B set out at the end of this title.)
+Page 40 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+01 2"x--1255
+Section 54. Section 17. 48. 490, " Road and Street Project," is
+amended to read as follows:
+17. 48. 490 Road and street project.
+A. Subdivision Standards Applicable. Design and construction
+standards set forth in Chapter 17. 48 of this title are applicable
+to all road and street projects.
+B. Land Use Permit Required. A land use permit shall be required
+for any Class I or Class [ III] II road and street project. No land
+use permit shall be required for a Class [ II] III road and street
+project. The road project shall be reviewed against the applicable
+comprehensive plan Transportation Plan element and the following
+standards:
+a. Compatibility with existing land use and social patterns,
+including noise generation, safety hazards ( e. g. children in a
+residential area), and zoning.
+b. Environmental impacts, including hazards imposed to and
+by wildlife ( e. g. migration or water use patterns).
+C. Retention of scenic quality, including tree preservation.
+d. Means to improve the safety and function of the facility,
+including surrounding zoning, access control and terrain
+modifications.
+e. In the case of roadways where modification results in a
+change of traffic types or density, impacts on route safety, route
+land use patterns, and route nonmotorized/ pedestrian traffic.
+f. Consideration of the potential developmental impact
+created by the facility.
+g. Cost- effectiveness.
+C. Bicycle Lanes. Bicycle lanes[, adjacent to and] consisting
+of a portion of the paved roadway and designated by striping,
+signing and pavement markings for the preferential or exclusive use
+of bicyclists, shall be constructed in conjunction with a road and
+street project if the project involves the new construction,
+modernization, reconstruction or major alteration of an arterial
+or collector to the adopted county road standards ( and the road and
+street project is on a designated bicycle route].
+D. Sidewalks. Sidewalks shall be required in conjunction with
+a road and street project in accordance with Section 12. 35. 065,
+Developed area sidewalks," of the Deschutes County Code.
+Page 41 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+127- 1. 5s
+Chancres to, Additions to, and Repeal of
+Provisions in Chapter 17. 56, " Variances."
+Section 55. Section 17. 56. 010, " Application," is amended to read
+as follows:
+17. 56. 010 Application.
+The Planning Director or Hearings [ officer] Body may authorize a
+variance from the requirements of this title. Application for a
+variance shall be made by petition stating fully the grounds of the
+application and the facts relied upon by the petitioner.
+Section 56. Section 17. 56. 020, " Hearings Officer - Authority," is
+renamed " Variance Criteria," and is further amended to read as follows:
+17. 56. 020 [ Hearings officer -- Authority] Variance criteria.
+A variance may be granted unqualifiedly or may be granted subject
+to prescribed conditions, provided that the Planning Director or
+Hearings [ officer] Body [ shall make] makes all of the following
+findings:
+A. That the literal application of the ordinance would create
+practical difficulties resulting in greater private expense than
+public benefit;
+B. That the condition creating the difficulty is not general
+throughout the surrounding area, but is unique to the applicant' s
+site;
+C. That the condition was not created by the applicant;
+D. That the variance conforms to the comprehensive plan and the
+intent of the ordinance being varied."
+Section 57. Section 17. 56. 030, " Hearing Officer - Action," is
+repealed.
+Section 58. Title 17 is amended to add a new section 17. 56. 030,
+Procedure," to read as follows:
+17. 56. 030 Procedure.
+The variance application shall be processed according to Title 22
+of the County Code."
+Section 59. Title 17 is amended to repeal Section 17. 56. 040,
+Procedure."
+Section 60. Title 17 is amended to repeal Table A, " Minimum Design
+Standards," and replace it with a new Table A, " Minimum Design
+Page 42 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+01 27"' 1, 57
+Standards," attached hereto as Exhibit 1 and by this reference
+incorporated herein.
+Section 61. Title 17 is amended to repeal Table B, " Minimum length
+of Vertical Curves," Appendix A, " Permit, Deschutes County Public Works
+Department," Appendix C, " Improvement Agreement," and Appendix E,
+Application - Access, Driveway and Curb Cut."
+Section 62. Title 17 is amended to redesignate current Appendix
+B, " Sign Standards," Appendix A, to delete Paragraph 4, " End County
+Road Maintenance Signs," and Paragraph 5, " Striping," and to renumber
+the remaining paragraphs accordingly, as set forth in Exhibit 2 to this
+ordinance, attached hereto and by this reference incorporated herein.
+Section 63. Title 17 is amended to repeal current Appendix D,
+Asphalt Penetration and Macadam," and to replace it with a new table
+designated Appendix B, " Asphalt Penetration and Macadam," attached
+hereto as Exhibit 3 and by this reference incorporated herein.
+Section 64. With respect to a series of drawings currently
+referred to as Exhibit E ( also labelled as Exhibits D- 1 through D- 6)
+Title 17 is amended to repeal Drawings D- 1 and D- 2 ( currently on pages
+344 and 345 of subdivision ordinance), to replace D- 3, " Curbs, Gutters
+Sidewalks," with a new drawing with the same title, attached hereto
+as Exhibit 4 and by this reference incorporated herein. Those drawings
+not repealed or replaced shall keep their current numbers.
+Addition of New Chapter 17. 60,
+Property Line Adiustment"
+Section 65. Deleted.
+Section 66. Deleted.
+Section 67. Deleted.
+Section 68. Deleted.
+Section 69. Deleted.
+Section 70. DELETIONS AND ADDITIONS. Provisions that are to be
+deleted as a result of the enactment of the above - referenced sections
+are shown in brackets; provisions that are being added are shown in
+bold- faced type.
+Section 71. REPEAL OF ORDINANCES AS AFFECTING EXISTING
+LIABILITIES. The repeal, express or implied, of any ordinance,
+ordinance provision, or code section by this ordinance shall not
+release or extinguish any duty, condition, penalty, forfeiture, or
+liability incurred under such ordinance, unless a provision of this
+ordinance shall so expressly provide, and such ordinance repealed shall
+be treated as still remaining in force for the purpose of sustaining
+Page 43 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+0127- x_258
+any proper action or prosecution for the enforcement of such duty,
+condition, penalty, forfeiture, or liability, and for the purpose of
+authorizing the prosecution, conviction and punishment of the person or
+persons who violated the repealed ordinance.
+Section 72. SEVERABILITY. The provisions of this ordinance are
+severable. If any section, sentence, clause, or phrase of this
+ordinance or any exhibit thereto is adjudged to be invalid by a court
+of competent jurisdiction that decision shall not affect the validity
+of the remaining portions of this ordinance or exhibit thereto.
+Section 73. EMERGENCY AND EFFECTIVE DATE. This Ordinance being
+necessary for the immediate preservation of the public peace, health
+and safety, an emergency is declared to exist, and this Ordinance takes
+effect on its passage.
+Section 74. CORRECTIONS. This ordinance may be corrected by order
+of the Board of County Commissioners to cure editorial and clerical
+errors and to insert appropriate legislative history references.
+DATED this day of August, 1993.
+BOARD OFC. COMMISSIONERS
+OF DESCHUT S COUNTY, OREGON
+r
+ATTEST: NANCY POP WH GEN, Commiss
+L, 41 ZX 0 / " J? 41, " -
+Recording Secr tary B. H. S UGHTER, C mmissioner
+Page 44 - ORDINANCE No. 93- 012 ( 8- 4- 93)
+ZOZ,: 74'31 ; , P W N 1
+H H n ' U M ro O 0 H 0 O I
+CED n . 0 D C ccnnCOnG m n
+G n I G  ( D r• Frt r• trc
+C w ' DDrl w m  z Cn  <
+1 N 1 ( D to z rt t(
+N N 0 a N rt Ea n rt ( n
+LU n E a w tr a
+a 0 F,- r r a G ro r
+rtW G (D 0, rt
+G
+GAF
+o w trJ (i O In CCDCCDn a
+Ir
+D
+rt CDrt ro o a • • w wc
+O rt n n 3 O to f,- E
+R. M m 10< n n a rt
+xn-
+r
+rt N '(
+3 K a n 0 0 " C F'
+O
+D
+b w rl r• n n ( n U
+E n( D ((D CD0- w w 0 rt 101-1- o
+F-- n CL rl r 0 tJ n a
+ro
+rt O
+rt n
+r
+a E E( D CD
+Sb Ef O' CD O ( D N• r• N f G V
+rt a a n 10 rt rt rt a rt c
+x" C 0. U) ( D p Z:r nIC
+G
+bin
+0010 0, O0
+P.
+M O ,r
+tC] 0 M r W. n rt CD M ( I
+O E r G E CDo •
+la—,
+Ort (D nW x 0( D m"
+rt
+O 0 0 In m m
+CD CDn
+n
+0 rotCODw n CDC
+r• I-,• G V rt G a n a rt ( D
+o w n n 0 C
+O : 3' n R r• rt C
+O a 0 M tin OCDO rt C U.
+G 1] a rt En r• CD r
+ca I- 1- d 0 .' 7• Cr
+aGi (n C O OIO
+In-.
+c
+Ir, la--,
+fnn H
+r
+1-• I-
+CD a a •O Q N
+N N l rO
+O In E " " C (• t ( D
+CD : 3' O a En
+a
+prn
+w w
+n G CD rt, n
+fD • n I-. D, ( n
+a n O En rt
+to ( D n ::% a
+m 0 p
+D R7 a
+C ( n O n
+to N • CA 0
+rt CD LQ CD
+0 G a
+w
+0 rr a
+O O cwt 0
+CD G a ' Cl
+ro O r* rt
+a r• I1,
+31
+0
+n a fD Q
+0 p, n tr
+D r y r• l<
+G C rt
+rt CD rt
+N CD ::: r
+O En ( D
+M
+rtG O n
+Id rl
+G G
+M
+C
+C7
+a
+CD C
+n a
+m  ro
+i N G
+O , ro CT
+n ( D
+X, tr
+to r•  ()
+O
+01 O
+r n
+a O X
+n In
+CDM mCDO
+O ' CJ
+E rt a
+7 ( D n
+D n ( f
+ct In
+CD O
+n rt
+EXHIBIT 1 TO ORDINANCE 93- 012
+N W N
+01-_
+2... 1,
+N W W a%
+W
+OD O OD p
+v r, r
+Mn
+oD O
+r
+Cl
+Cn:
+ro
+n
+O
+O O
+O
+D
+On
+O
+OrN•
+O
+G a r a p CD a r a G
+JLn
+rt r CD r n rt C F D 1 n
+LQD
+CT
+rt 3 ' tf
+O N- a LQCD
+0
+Cb
+rt
+O
+b
+P. a
+O
+a
+O
+rt
+n
+o
+r
+rt
+D
+CD
+n
+0
+r
+CD
+ctH
+O
+rC y
+CD D ( D
+n > H
+sc
+rt
+V
+rt
+01
+ON
+nrt
+OD
+W
+nrt
+D
+a
+CT CO
+w
+v H
+CD
+1 h• I I I 1
+n
+I--'
+An.
+O
+CT
+O
+CT ( p co
+O O O
+r.
+O
+N
+O O% O CTO
+N•
+r C)
+rte•
+ON
+C) Co
+a,
+o
+CT
+O co O
+a
+C rt
+1 I
+o
+t
+v
+s
+C) CD I
+1 I I I 1 1
+M
+N . P N N N N W N N N W W a%
+W
+OD O OD p aD coo ON oD O OD O, ON Cl
+n n
+D
+En
+a
+CD
+o
+D CD 0
+0 C)
+O O O
+0 O O G
+W W JLn
+C)
+Ln OD
+0
+CT O O
+0
+rt rt
+N N O
+rt rt rt
+rt
+D
+CD co CD CD CD CD
+ctH
+O
+D CD D ( D
+sc
+V
+sa
+01
+ON OD
+W
+W
+a
+CT CO
+w
+v H
+1 h• I I I 1 1 I--' I r t-• F-•
+N CT a% 0%
+1 s I 1 1 I I t s s a s
+1 1 I I I 1 1
+I I I I I 1 cn I N N N N
+rt
+N O W
+to
+W N O W W
+to
+W N N W W a
+1
+n n Id n n
+D
+n
+m
+D ( D
+n n n n
+D
+En
+a
+CD
+o
+D CD 0
+0 C)
+O O O
+0 O O G
+C)
+0 0
+C) 0
+rt rt rt rt
+0
+rt rt rt
+y
+rt rt rt rt
+rt
+D
+CD co CD CD CD CD
+ctH
+O
+D CD D ( D
+sc sa
+01
+ON OD
+W
+p. . P
+CT CO O v H
+1 h• I I I 1 1 I--' I r
+r CT r r OD co CT ( T
+N dp O O dp de dp O O O dp dp dp
+e dp dp dp a dp
+In VI N to n co IA n to y n o ( n
+CD ( D D CD CD D D CD CD D D CD ( DD ( D D O CD D D D CD 0 D CD 0
+O O O O O O
+0 O O G G 0 0
+rt rt rt rt rt rt rt rt rt rt rt rt rt
+D CD CD co CD CD CD CD D D CD D ( D
+W
+p. . P
+1 h• I I I 1 1 I--' I r t-• F-•
+N CT a% 0%
+1 s I 1 1 I I t s s a s
+1 1 I I I 1 1
+I I I I I 1 cn I N N N N
+rtC6 0 a, aa a
+E H
+H
+C
+ro d
+w
+H
+G)
+CD 1 z N
+rt Cl)
+tl to
+Is]
+1-3
+a m
+O
+In
+rn
+C7 Di
+n a
+a x
+0, D
+10 CD
+InD r•
+Q, LQ
+O
+0.1 7- 1A2:60
+Appendix A To Subdivision/ Partition Ordinance
+Exhibit 2 to Ordinance 93- 012)
+SIGN STANDARDS
+1. GENERAL
+All signs shall be manufactured from 0. 080 inch thick aluminum stock and
+shall be mounted onto four inch by four inch by twelve foot ( 4" x4" x12')
+pressure - treated, wooden posts of Standard lumber grade or better. Every
+sign shall be mounted at approximately a right angle to the direction of,
+and facing, the traffic it is intended to serve, unless mirror reflection
+reduces legibility, in which case the sign shall be turned slightly away
+from the road. Sign posts shall be located not less than six feet ( 6')
+nor more than twelve feet (
+121)
+from the edge of the road. The tope of
+the post shall be nominally eight feet (
+81)
+above the elevation of the
+near edge of the road. The posts shall be painted white. All reflective
+material shall be " 3M Engineer Grade" or approved equal.
+Signing for subdivisions shall be procured and erected at the expense of
+the developer. The County will not manufacture, sell, or install any
+signs, until roads are accepted into the County Maintained System.
+2. ROAD NAME SIGNS
+Road name signs for Public Roads shall have a reflectorized green
+background and reflectorized white letters. These signs shall be six
+inches (
+611)
+high and of sufficient length to allow the necessary letters
+to be mounted and to allow for a one and one- half inch ( 1h") margin at
+each end, but shall not be less than eighteen inches ( 18"), and the
+corners shall be rounded to a one- half inch (") radius. Lettering shall
+be four inches ( 4") high. The signs shall not have contrasting borders.
+Conventional abbreviations for the road type prefixes and suffixes ( e. g.
+NW, Ave., Rd., Ct., etc.) are acceptable, but shall not be used for the
+road names. Road name signs shall be mounted, through the use of four
+inch by four inch ( 4" x4") metal brackets, onto the top of the sign posts.
+Brackets shall be # 827F 4" x4" Post Brackets from Traffic Safety Supply
+Company or an approved equal. At least one road name sigh shall be
+provided at each intersection for each road.
+3. " STOP" SIGNS
+Stop signs shall have reflectorized re
+white letters and borders, and shall be
+shall be mounted so that the bottom edgy
+and a maximum of seven feet (
+71)
+above t
+the road or curb. Stop sign mounted ne:
+be mounted at the maximum height. Stop
+of two or more roads, one or more of
+thirty inches by thirty inches ( 30" x30")
+I backgrounds and reflectorized
+octagonal in shape. Stop signs
+is a minimum of five feet (
+51)
+ie elevation of the near edge of
+t to a walkway or bikeway shall
+igns, located at an intersection
+which is an arterial, shall be
+and shall have an one inch ( 1")
+Page 1 - EXHIBIT 2 TO ORDINANCE NO. 93- 012 ( 8- 4- 93)
+border which extends to the edge of the sign. All other stop signs shall
+be twenty- four inches by twenty- four inches ( 24" x24") and shall have a
+three- quarter inch ( 3/ 4") border which extends to the edge of the sign.
+4. ADDITIONAL TRAFFIC CONTROL DEVICES
+Any traffic control devices deemed necessary by the Director of Public
+Works shall be procured and installed by the developer and the developer
+shall supply construction signing in accordance with the MUTCD ( current
+Manual of Uniform Traffic Control Devices, Federal Highway
+Administration).
+Page 2 - EXHIBIT 2 TO ORDINANCE NO. 93- 012 ( 8- 4- 93)
+EXHIBIT 3 TO ORDINANCE 93- 012
+01 '
+03*
+07. 12 62
+APPENDIX B: ASPHALT PENETRATION MACADAM
+TYPE 0- 9 0- 11
+APPROX. THICK. 7/ 8" 1 - 1/ 4 "
+TYPE)
+RATES RATES
+PER SIZE PER
+SIZE SQ. YD. S0. YD.
+QLJ CRS - 1) 606o GAL CRS - 1) 60 GAL
+Q (LAGGREGATE 3/ 4"- 1/ 2" 0. 018 1 1/ 4"- 3/ 4" 0. 018
+ASPHALT CRS - 2) 55 GAL CRs - 2) 65 GAL
+AGGREGATE 3/ 4" — 1 / 2" 0. 015 1 1/ 4" — 3/ 4" 0. 028
+ASPHALT CRS - 2) 45 GAL CRS - 2) 55 GAL
+0
+z
+Q
+NAGGREGATE 1/ 2" — 1 / 4" 0. 010 3/ 4" O1 / 2" 018
+2 3
+W
+ASPHALT CRS - 2P) 40 GAL CRS - 2) 50 GAL
+AGGREGATE 1/ 4!'-# 10 0. 009 1/ 2': / 4" 013O1
+4
+ASPHALT CRS - 2P) 45 GAL
+AGGREGATE 1/ 4"—# 10 010
+Q ASPHALT
+w
+AGGREGATE 1/ 4"-# 10 0. 005 1/ 4"-# 10 0. 005
+O CU. YD./ SQ. YD.
+O DUST COAT ( IF NECESSARY)- 1/ 4"-# 10-, 0. 005 CY.
+O DUST COAT ( IF NECESSARY): 1/ 2"- 1/ 4"; 0. 005 CY.
+DUST COAT ( 1F NECESSARY): 1/ 4"-# 10; 0. 005 CY.
+EXHIBIT 4 TO ORDINANCE . 93- 012 VI-. 27  r
+O c
+W W
+J
+O0•, O
+w
+a
+W f M
+4= W so
+o w
+Yr
+y
+O J K JJ Q W
+40 dc I
+W W
+U
+W I/\ V Q
+1
+J
+d
+F F K
+z
+c V
+v1LL w w W 7
+W t" O
+3 Q W y Q
+2
+W
+to
+3
+o> z o o in
+U)
+Z a F F w
+O V O F Q 1
+cn
+N
+V
+z
+0 z
+W ni
+Q W
+X p
+W Z
+gyp 0
+J
+w
+z
+ay.
+OO
+J
+a
+le
+rc
+9
+I
+w
+z
+w
+Y
+a
+I
+w
+3 Y
+o J
+0 3
+ai Q d
+o
+I W
+d  K
+w Z
+0 CL
+CIA d
+U
+Wli o 3 v
+z,
+co
+W wy U
+O 2
+U 9 tee. m a
+x o
+om
+m
+F
+W
+J _
+CL
+aq
+2 W
+O O
+a
+m a N
+02
+S
+z
+O
+fz
+zx
+a
+a a
+a0
+X mw Q- 3

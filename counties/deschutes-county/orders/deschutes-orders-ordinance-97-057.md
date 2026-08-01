@@ -1,0 +1,119 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-97-057
+title: 'Ordinance No. 97-057'
+doc_type: ordinance
+citation: 'Ordinance No. 97-057'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616785827_1997-37271-Ordinance%20No.%2097-057%20Recorded%2010_8_1997.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: b7e16fb75b898a8b325bb33ee3ddc926ff6b454a72d84f18ab5d6a63edd07e6b
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 97-057 (Ordinance No. 97-057)
+
+## At a glance
+
+Ordinance No. 97-057 — orders of Deschutes County. 2 pages.
+
+## Full text
+
+01ti3- 5"
+REVIEW
+c
+97- 3' 271
+LEGA COtJNS' EL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County
+Code Section 11. 04. 070, Prohibited Activities,
+with an Effective Date of December 23, 1997.
+ORDINANCENO. 97- 057
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. AMENDMENT. Deschutes County Code Section 11.04.070, Prohibited
+Activities, is amended to read as described in Exhibit " A," attachedhereto and by this reference
+incorporated herein, with new language underlined
+Section 2. EFFECTIVE DATE. This Ordinance takes effect on December 23, 1997.
+DATED this 8th day of October, 1997.
+ATT T:
+Recording Secretary
+PAGE 1 of 1 - ORDINANCE NO. 97- 057 ( 10/ 8/ 97)
+OF
+DES
+L
+is
+SSIONERS
+160TERT L. NIPPER, Cog4thissioner
+LINDA L. SWEARINkftN, Commissioner
+1dICRS"M
+e
+OCT 1Ir1997
+Z
+C) o
+CCn ..
+c
+rn
+c
+ro
+C)
+c) o t7ti
+KEYR05, HE
+OCT 997
+0163- 05' 5
+EXHIBIT " A"
+11. 04. 070. Prohibited activities.
+A. No person shall construct, install, or
+encroach upon County owned land. No person
+shall sever, excavate, damage, vandalize, burn,
+litter, remove materials from or cause other site
+disturbing activity upon or to County owned land
+without obtaining a permit authorizing such
+activity, from the Board, Property andReal Estate
+Manager, Director of Road Department or
+Director of Solid Waste.
+B. No person shall cut or remove wood on
+or from County owned real property except upon
+first obtaining a wood cutting permit from the
+County Property and Real Estate Manager.
+C. Motor vehicles shall be limited to
+existing parking lots and roads. Motor vehicles
+are prohibited on dedicated public
+pedestrian/ bicycletrails.
+D. Discharge of firearms is prohibited in
+and on public service facilities except as may be
+provided by resolution of the Board.
+E. No person or group shall exclude any
+other member of the public from County owned
+land, except as provided by lease, license or
+resolution by the Board.
+F. No personshall engagein any conduct in
+or on property where public services are provided
+which hinders, interferes with or prevents those
+employeesfrom performing their duties.
+G. No person shall smoke or carry any
+lighted smoking instrument in any Deschutes
+County owned or occupied building. ( Ord. 97-
+057 § 1, 1997; Ord. 96- 013 § 1, 1996)
+PAGE 1 OF 1 - EXHIBIT " A" ( 10/ 8/ 97)

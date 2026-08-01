@@ -1,0 +1,7175 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-code-chapter-15-sheriff
+title: 'Chapter 15: Sheriff'
+doc_type: ordinance
+citation: 'Chapter 15: Sheriff'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://multco.us/file/chapter_15:_sheriff/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: fd7dbdfd7937036379a44a94936129a26111e8ddb00654bcbb47040c3b234ca3
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 133.005
+    - ORS 133.070
+    - ORS 133.455
+    - ORS 133.525
+    - ORS 161.015
+    - ORS 161.405
+    - ORS 161.450
+    - ORS 163.160
+    - ORS 163.465
+    - ORS 163.665
+    - ORS 164.005
+    - ORS 164.015
+    - ORS 164.135
+    - ORS 164.205
+    - ORS 164.243
+    - ORS 164.315
+    - ORS 164.345
+    - ORS 164.805
+    - ORS 166.025
+    - ORS 166.065
+    - ORS 166.155
+    - ORS 166.171
+    - ORS 166.173
+    - ORS 166.210
+    - ORS 166.291
+    - ORS 166.370
+    - ORS 167.002
+    - ORS 167.007
+    - ORS 167.012
+    - ORS 167.017
+    - ORS 167.117
+    - ORS 167.122
+    - ORS 167.203
+    - ORS 167.262
+    - ORS 169.120
+    - ORS 169.170
+    - ORS 169.190
+    - ORS 183.413
+    - ORS 183.470
+    - ORS 192.410
+    - ORS 192.440
+    - ORS 192.500
+    - ORS 203.810
+    - ORS 204.635
+    - ORS 30.315
+    - ORS 34.010
+    - ORS 426.460
+    - ORS 471.105
+    - ORS 475.005
+    - ORS 475.940
+    - ORS 656.041
+    - ORS 659A.030
+    - ORS 659A.400
+    - ORS 659A.409
+    - ORS 659A.421
+    - ORS 659A.885
+    - ORS 809.725
+    - ORS 811.100
+    - ORS 811.125
+    - ORS 811.182
+  related: []
+  supersedes: []
+tags: [multnomah-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter 15: Sheriff (Chapter 15: Sheriff)
+
+## At a glance
+
+Chapter 15: Sheriff — code of Multnomah County. 70 pages.
+
+## Full text
+
+CHAPTER 15:  SHERIFF
+§§:
+(S-1 2013)
+
+GENERAL PROVISIONS
+15.001 Duties.
+15.002 Fees.
+DEFENDANT EMPLOYMENT
+15.025- Title, Purpose And Scope.
+15.026 Eligibility.
+15.027 Workers' Compensation.
+15.028 Compensation.
+15.029 Additional Benefits.
+15.030 Authorized Employment.
+15.031 Supervision.
+15.032 Termination Of Employment.
+15.033 Administration.
+CURFEW FOR MINORS
+15.050- Curfew Established.
+15.051 Curfew Hours.
+
+FIREARMS
+15.060- Title and Area of Application.
+15.061 Consistency with State Criminal
+Law.
+15.062 Penalty for Violation.
+15.063 Definitions.
+15.064 Possession of a Loaded Fireman
+in a Public Place.
+15.065 Discharge of a Firearm.
+15.066 Endangering a Child by
+Allowing Access to a Firearm.
+15.067 Failure to Report Theft.
+TOWING SERVICES
+15.100- Title.
+15.101 Definitions.
+15.102 Policy And Purpose.
+15.103 License Required.
+15.104 Notices.
+15.105 Application For License.
+15.106 Proof Of Insurance Required.
+15.107 Equipment Required.
+15.108 Investigation And Inspection By
+Sheriff.
+15.109 Standards For Issuance.
+15.110 Denial Or Revocation Of
+License.
+15.111 Renewal Of License.
+15.112 Notification Of Change Of
+Circumstances.
+15.113 Appeals And Hearings; Review.
+15.114 Identification, Rate Schedule
+And Permit Required.
+15.115 Removal Of Debris.
+15.116 Storage Of Towed Vehicles.
+15.117 Hours For Release Of
+Impounded Vehicles.
+15.118 Prohibited Acts.
+15.119 Other Laws Apply.
+15.120 Administration.
+WRECKER CERTIFICATES
+15.200- Purpose.
+15.201 Applications.
+15.202 Investigation.
+15.203 Recommendations To The
+Board.
+15.204 Denial Of Certificate.
+15.205 Hearings; Notification.
+15.206 Hearings.
+15.207 Reconsideration Of Applications.
+NUISANCES GENERALLY
+15.225- Title And Area Of Application.
+15.226 Definitions.
+15.227 Policy.
+15.228 Notices.
+15.229 Nuisances Prohibited.
+15.230 Inspection And Abatement.
+15.231 Appeals And Hearings.
+15.232 Review.
+15.233 Abatement By Owner Required.
+15.234 Abatement By County; Costs;
+Waiver; Lien.
+15.235 Other Laws Apply.
+15.236 Administration And
+Enforcement.
+OPEN PITS
+15.250- Definitions.
+15.251 Policy And Construction.
+15.252 Open Pit Nuisances Prohibited.
+15.253 Inspections.
+15.254 Notice.
+2 Multnomah County – Sheriff
+(S-2 2013)
+
+15.255 Hearing.
+15.256 Abatement By County; Costs;
+Lien.
+15.257 Other Laws Apply.
+15.258 Administration And
+Enforcement.
+SOUND CONTROL
+15.265- Title And Application.
+15.266 Definitions.
+15.267 Findings And Policy.
+15.268 Sound Measurement.
+15.269 Prohibitions.
+15.270 Exceptions.
+15.271 Variances.
+15.272 Additional Remedies.
+15.273 Impoundment.
+15.274 Administration And
+Enforcement.
+CHRONIC NUISANCE PROPERTY
+15.285- Definitions.
+15.286 Violations.
+15.287 Abatement Procedure.
+15.288 Commencement Of Actions;
+Remedies; Burden Of Proof.
+15.289 Summary Closure.
+15.290 Enforcement.
+SECONDHAND DEALERS
+15.300- Title And Scope.
+15.301 Purpose.
+15.302 Definitions.
+15.303 Permit Required.
+15.304 Application For Permit.
+15.305 Issuance And Renewal Of
+Permit.
+15.306 Permit Fees.
+15.307 Subsequent Locations.
+15.308 Seller Identification; Purchase
+Report Forms.
+15.309 Sale Limitations.
+15.310 Tagging Required.
+15.311 Inspection Of Property And
+Records.
+15.312 Prohibited Acts.
+15.313 Revocation Or Suspension Of
+Permit.
+15.314 Appeals.
+15.315 Nuisance Declared.
+EMERGENCY AREA REGULATIONS
+15.325- Repealed by Ord. 1000
+15.326 Powers Of Sheriff.
+15.328 Access Prior To Declaration As
+Emergency Area; Findings.
+15.329 Authority Of Peace Officer To
+Restrict Access To Areas.
+15.330 Interfering In Emergencies.
+BRIDGE REGULATION
+15.335- Prohibited Activities.
+CIVIL RIGHTS DISCRIMINATION
+15.340- Policy.
+15.341 Intent.
+15.342 Definitions.
+15.343 Discrimination in Employment
+Prohibited.
+15.344 Discrimination in Selling,
+Renting, or Leasing Real
+Property Prohibited.
+15.345 Discrimination in Place of Public
+Accommodation Prohibited.
+15.346 Exceptions.
+15.347 Enforcement and
+Administration.
+CIVIL FORFEITURE
+15.350- Title.
+15.351 Definitions; Incorporation Of
+State Law.
+15.352 Policy And Purpose.
+15.353 Forfeiture.
+15.354 Forfeiture Procedures.
+15.355 Distribution Of Proceeds.
+LIQUOR LICENSES
+15.400- Purpose.
+15.401 Application Procedure.
+15.402 Investigation.
+15.403 Recommendations To The
+Board.
+15.404 Denial Of License.
+15.405 Hearings; Notification.
+15.406 Hearing Procedures.
+15.407 Reconsideration Of Applications.
+15.408 Temporary Licenses.
+CHAPTER 15:  SHERIFF
+(S-1 2013)
+
+POLICE IMPERSONATION
+15.450- Unauthorized Vehicles
+Displaying Police Insignia.
+NEIGHBORHOOD WATCH SIGNS
+15.500- Findings.
+15.501 Permit; Standards.
+CRIMINAL JUSTICE INFORMATION
+15.550- Purpose.
+15.551 Definitions.
+15.552 Scope.
+15.553 Access To Criminal History
+Record Information.
+15.554 Access For Research Purposes.
+15.555 Access To Intelligence And
+Investigative Information.
+15.556 Accuracy And Completeness Of
+Information.
+15.557 Restrictions On Data Entered
+Into Computerized Records.
+15.558 Dissemination Of Information
+Related To Juveniles.
+15.559 Right To Access And Challenge.
+15.560 Administration.
+PROPERTY INVENTORY
+15.600- Purpose.
+15.601 Definitions.
+15.602 Inventories Of Contents Of
+Impounded Vehicles.
+15.603 Inventories Of Personal Property
+Of Persons In Custody.
+DISPOSITION OF UNCLAIMED PROPERTY
+15.650- Acknowledgment Of Unclaimed
+Property.
+15.651 Public Sale; Notice; Prior Claim
+Of Ownership.
+15.652 Bids By County Personnel
+Prohibited.
+15.653 Disposition Of Sale Proceeds.
+15.654 County Use Of Unclaimed
+Property.
+15.655 Claim By Owner After
+Disposition.
+15.656 Transfers Of Property Acquired
+Through Civil Forfeiture Laws.
+ALARM SYSTEMS
+15.700- Title.
+15.701 Purpose And Scope.
+15.702 Definitions.
+15.703 Permits Required; Payment of
+Permit Fees and Other Fees.
+15.704 Excessive False Alarms; Fees.
+15.705 No Response; Reinstatement Fee.
+15.706 Special Permits.
+15.707 User Instructions.
+15.708 Automatic Dialing Device;
+Certain Interconnections
+Prohibited.
+15.709 Hearing.
+15.710 Sound Emission Cutoff Feature
+Required.
+15.711 Statistics.
+15.712 Allocation Of Revenues And
+Expenses.
+15.713 Interpretation.
+15.714 Enforcement.
+MASSAGE TREATMENT
+15.725- Title; Application.
+15.726 Definitions.
+15.727 Findings And Purpose.
+15.728 State License Required;
+Prohibited Conduct.
+15.729 Exemptions.
+15.730 Nuisance Declared; Abatement.
+15.731 Administration And
+Enforcement.
+ADULT ENTERTAINMENT
+15.750- Title.
+15.751 Definitions.
+15.752 Policy And Purpose.
+15.753 License Required.
+15.754 Standards For Issuance Of
+License.
+15.755 Denial Or Revocation Of
+License.
+15.756 Unlicensed Business; Removal
+Or Relocation.
+15.757 License Fees And Renewal.
+15.758 Appeals And Hearings; Review.
+15.759 Other Laws Apply.
+15.760 Administration And
+Enforcement.
+4 Multnomah County – Sheriff
+(S-2 2013)
+
+MOTOR VEHICLES; PARKING
+15.800- Definitions.
+15.801 Compliance Required.
+15.802 Prescribed Manner Of Parking.
+15.803 Bus Zone Parking Prohibited.
+15.804 Emergency Vehicles Excepted.
+15.805 Right-Of-Way For Parking.
+15.806 Parking Prohibited Without
+First Removing Key.
+15.807 Stopping Or Parking Prohibited
+In Specified Places.
+15.808 Parking Time Limit.
+15.809 Public Parking Businesses, Auto
+Sales Or Repair Businesses;
+Prohibitions.
+15.810 Special Parking Permits.
+15.811 Storage Parking Of Heavy
+Vehicles.
+15.812 Civil Emergencies; Parking
+Prohibited.
+15.813 Impoundment.
+15.814 Signs; Curb Markings.
+MOTOR VEHICLES; DRIVING
+15.820- Speed Racing Prohibited.
+15.821 Aggressive Driving Prohibited.
+OFF-ROAD VEHICLES
+15.850- Title; Application.
+15.851 Definitions.
+15.852 Policy.
+15.853 Operation Of Off-Road Vehicles.
+15.854 Falsification Prohibited.
+15.855 Arrest; Impoundment.
+15.856 Disposition Of Vehicle.
+15.857 Off-Road Trail System.
+15.858 Other Laws Apply.
+15.999 Penalty.
+
+Cross-reference:
+ Sheriff, see Charter § 6.50(1)
+
+Statutory reference:
+ Community corrections, see ORS, Ch. 423
+ Correctional facilities, see ORS, Ch. 169
+ Firearms, see ORS, Ch. 161
+Firearms, see ORS, Ch. 166
+ Penalty, see ORS, Ch. 419c
+Sheriffs, see ORS, Ch. 206
+Unlawful Discrimination in Employment, see
+ORS 659A
+GENERAL PROVISIONS
+
+§ 15.001 DUTIES.
+
+ (A) The Sheriff shall perform the functions of
+that office prescribed by state law and shall adminis-
+ter the jails and corrections facilities of the county.
+
+ (B) The Sheriff and the Director of the Depar t-
+ment of Community Justice shall operate jointly as
+the county supervisory authority.  In the role of s u-
+pervisory authority, the Sheriff is designated to o p-
+erate county jails and local correctional facilities.
+(Ord. 987, Amended, 08/01/2002; Ord. 919, passed, 08/13/1998; ‘ 90
+Code, § 2.30.800, 07/01/1998; Ord. 458, passed, 02/21/1985; Ord. 359,
+passed, 01/04/1983; Ord. 336, passed, 08/26/1982)
+
+§ 15.002 FEES.
+
+ (A) Except as provided by division (B) of this
+section, the Sheriff's office shall collect fees as set
+by Board resolution for providing documents or se r-
+vices.
+
+ (B) Notwithstanding to provisions of division
+(A) of this section, the Sheriff may furnish any se r-
+vice or copy of a public record of the Sheriff's office
+without charge or at a substantially reduced fee if
+the Sheriff determines that the waiver or r eduction
+of fees is in the public interest because making the
+service or record available primarily benefits the
+general public. (See ORS 192.440(4))
+(‘ 90 Code, § 5.10.420, 07/01/1998; Ord. 712, passed, 02/13/1992; Ord.
+646, passed, 03/22/1990; Ord. 513, passed, 05/19/1986; Ord. 308,
+passed, 05/06/1982; Ord. 278, passed, 08/20/1981; Ord. 157, passed,
+12/29/1977; Ord. 105, passed, 07/10/1975)
+
+DEFENDANT EMPLOYMENT
+
+§ 15.025- TITLE, PURPOSE AND SCOPE.
+
+ This subchapter shall be known as the Convict
+Employment Law, the purpose of which is to com-
+ply with provisions of ORS 169.170. It authorizes
+and directs the Board adopt rules and regulations re-
+garding employmen t of defendants sentenced to
+serve terms in the correctional facilities of the cou n-
+ty, that apply to all adult inmates of county corre c-
+tional facilities designated to perform authorized
+employment.
+(‘ 90 Code, § 2.70.205, 07/01/1998; Ord. 398, passed, 09/22/1983)
+
+         CHAPTER 15:  SHERIFF          5
+
+§ 15.026 ELIGIBILITY.
+
+ (A) Any convict sentenced to a term in a county
+adult correctional facility by any court, whether in
+default of the payment of a fine, or committed for a
+definite number of days, and who, in the judgment
+of the Sheriff, h as satisfactorily met the rules g ov-
+erning conduct within the facility, has the physical
+qualifications therefor and who has no legal or med-
+ical restraints prohibiting such work, shall be elig i-
+ble to perform authorized employment under this
+subchapter.
+
+ (B) Any eligible convict may be required by the
+Sheriff to perform work prescribed, whether or not
+such eligible convict has volunteered so to pe rform,
+and failure to comply with the Sheriff's order to per-
+form such work shall be the basis for appropriate
+disciplinary proceedings.
+(‘ 90 Code, § 2.70.230, 07/01/1998; Ord. 398, passed, 09/22/1983)
+
+§ 15.027 WORKERS' COMPENSATION.
+
+ Persons authorized under these rules to pe rform
+authorized employment are subject workers of the
+county entitled and restricted to b enefits provided
+by the state Workers' Compensation Act for any i n-
+juries incurred in the performance of such emplo y-
+ment, pursuant to ORS 656.041.
+(‘ 90 Code, § 2.70.230, 07/01/1998; Ord. 398, passed, 09/22/1983)
+
+§ 15.028 COMPENSATION.
+
+ No convict engaged  in employment pursuant to
+these rules shall be paid more than $2 per day. The
+Sheriff is authorized to prescribe levels of payment
+consistent with the work assigned, in amounts not to
+exceed those provided by Board resolution. Trusty
+payment for inmates w ho were assigned to public
+works projects will be reimbursed to the Inmate
+Welfare Fund by the public works agency which us-
+es the trusty to perform the work. Workdays shall
+consist of eight hours, except in the case of an
+emergency.
+(‘ 90 Code, § 2.70.230, 07/01/1998; Ord. 398, passed, 09/22/1983)
+
+§ 15.029 ADDITIONAL BENEFITS.
+
+ Unless otherwise ordered by the court or legal
+authority, a convict who performs work under these
+rules shall be entitled to credit against the sentence
+originally meted, payment,  or both, wit hout regard
+to other credits reducing said sentence, in acco rd-
+ance with ORS 169.120. Notwithstanding § 15.027,
+no convict performing authorized employment, shall
+be entitled to any benefits as an e mployee of the
+county.
+(‘ 90 Code, § 2.70.230, 07/01/1998; Ord. 896, passed, 01/08/1998; Ord.
+398, passed, 09/22/1983)
+
+§ 15.030 AUTHORIZED EMPLOYMENT.
+
+ No convict shall be assigned under these rules
+to perform employment unless such employment in-
+volves work on public roads of the county or such
+other work of a public nature as may include, but
+not be limited to, county facilities and grounds, and
+as authorized by ORS 169.190. In no event shall
+such work include application of skills requiring
+certification.
+(‘ 90 Code, § 2.70.230, 07/01/1998; Ord. 398, passed, 09/22/1983)
+
+§ 15.031 SUPERVISION.
+
+ Convicts may be delivered by the Sheriff to the
+care and custody of any supervisory person auth or-
+ized to direct and supervise the performance of a u-
+thorized employment upon facilities of the county or
+other pu blic works. Such delivery shall not const i-
+tute release from detention and if a co nvict departs
+the custody of such assigned superv isor, the convict
+shall be subject to prosecution under state law for
+escape or any related offense.
+(‘ 90 Code, § 2.70.230, 07/01/1998; Ord. 398, passed, 09/22/1983)
+
+§ 15.032 TERMINATION OF
+EMPLOYMENT.
+
+ The Sheriff is authorized, for whatever cause, to
+terminate the authorized employment of any convict
+assigned under these rules to authorized emplo y-
+ment, which decision is not subject to review.
+(‘ 90 Code, § 2.70.230, 07/01/1998; Ord. 398, passed, 09/22/1983)
+6 Multnomah County – Sheriff
+(S-1 2019)
+
+§ 15.033 ADMINISTRATION.
+
+ This subchapter shall be administered by the
+Sheriff, subject to review by the Board.
+(‘ 90 Code, § 2.70.220, 07/01/1998; Ord. 398, passed, 09/22/1983)
+
+CURFEW FOR MINORS
+
+§ 15.050- CURFEW ESTABLISHED.
+
+ It shall be unlawful for any minor under 18
+years of age to be, or remain in or upon any street,
+highway, park, alley or other public place outside
+incorporated cities in the county between the h ours
+specified in § 15.051, unless such minor is acco m-
+panied by a parent, guardian or other person 21
+years of age or over and authorized by the parent or
+by law to have the care and custody of the m inor, or
+unless such minor is then and there engaged in a
+lawful pursuit or activity which requires their pres-
+ence in or upon such street, highway, park, alley or
+other public place during the hours specified in §
+15.051.
+Penalty, see § 15.999
+(Ord. 1272, Amended, 06/06/2019; ‘ 90 Code, § 7.45.100, 07/01/1998)
+
+§ 15.051 CURFEW HOURS.
+
+ For the purposes of this subchapter, the applic a-
+ble hours of curfew shall be:
+
+ (A) As to minors under 14 years of age who
+have not begun high school, the hours shall be b e-
+tween 9:15 p.m. and 6:00 a.m. of the following
+morning, except that during the months of June, July
+and August, the hours shall be between 10:15 p.m.
+and 6:0 0 a.m. of the following morning, except as
+further limited by subsection (C) of this section.
+
+ (B) As to minors 14 years of age or over who
+have begun high school, the hours shall be b etween
+10:15 p.m. Sunday, Monday, Tuesday, Wednesday
+or Thursday, and 6:00 a.m. of the following mor n-
+ing, and between 12:00 midnight on Friday or Sa t-
+urday, or any legal holiday, and 6:00 a.m. of the fol-
+lowing morning, except th at during the months of
+June, July and August, the hours shall be between
+12:00 midnight and 6:0 0 a.m. of the following
+morning, except as further limited by subsection (C)
+of this section.
+
+ (C)  For minors who have been found by a court
+to have possess ed, purchased, used, transferred or
+transported a firearm unlawfully and are under the
+jurisdiction of the court as a result of that
+adjudication, curfew is between 7:00 p.m. and 6:00
+a.m. of the following morning except for minors
+meeting the exception of  §15.050 or with written
+permission of the minor’s probation or parole
+officer or juvenile court counselor.
+(Ord. 1199, amended 4/25/13; ‘ 90 Code, § 7.45.200, 07/01/1998; Ord.
+163, passed 1963)
+Penalty, see § 15.999
+
+FIREARMS
+
+§ 15.060 TITLE AND AREA OF
+APPLICATION.
+
+ This subchapter shall be known and cited as the
+County Firearms Law.
+(Ord. 1199, passed 4/25/13)
+
+§ 15.061  CONSISTENCY WITH STATE
+LAW.
+
+ This subchapter shall be construed consistent
+with state law, and any procedures or defenses made
+available in the prosecution of the same or similar
+offenses under state criminal law shall apply in
+prosecutions under this subchapter.
+(Ord. 1203, Amended 7/11/13; Ord. 1199, passed 4/25/13)
+
+§ 15.062   PENALTY FOR VIOLATION.
+
+ Unless a different penalty is s pecifically
+provided, any violation of any provision of this
+subchapter shall upon conviction be punished by a
+fine of not more than $500, or by imprisonment of
+not more than 6 months, or by both.  However, no
+greater penalty shall be imposed than allowed under
+state law.
+(Ord. 1199, passed 4/25/13)
+
+§ 15.063 DEFINITIONS.
+
+ For purposes of this subchapter, the following
+definitions apply unless the context requires a
+different meaning:
+
+(A) HANDGUN:  has the meaning as provided
+in ORS 166.210(5).
+         CHAPTER 15:  SHERIFF          7
+(B) CONCEALED HANDGUN LICENSE:  a
+license issued pursuant to ORS 166.291 to 166.295
+that allows an individual to carry a concealed
+handgun in public places as provided by state law.
+
+(C)  FIREARM:  has the meaning as provided
+in ORS 166.210(3).
+
+(D)  PUBLIC PLACE:  has the meaning as
+provided ORS 161.015(10).
+
+(E) MULTNOMAH COUNTY BUILDING:
+means a building owned or controlled by
+Multnomah County or its Districts and used for
+official meetings.
+(Ord. 1338, Amended, 9/04/2025; Ord. 1199, passed 4/25/13)
+
+§ 15.064 POSSESSION OF FIREARMS.
+
+ (A) It is unlawful for any person in a public
+place, to carry a firearm upon the person, or while in
+a vehicle in a public place, unl ess all ammunition
+has been removed from the chamber and from the
+cylinder, clip, or magazine.  A person who violates
+this section is subject to penalty even if the person
+did not know that ammunition was in the cylinder,
+chamber, clip or magazine.
+
+ (B) The prohibitions of subsection (A) of this
+section do not apply to or affect:
+
+(1) Those listed in ORS 166.173(2).
+
+(2) Licensed hunters engaged in lawful
+hunting.
+
+(3) Persons engaged in target shooting at an
+established shooting range, shooting gallery or other
+area designed and built for the purpose of target
+shooting.
+
+(4) A government employee authorized or
+required by their employment or office to carry
+firearms.
+
+(5) A security guard employed at a
+financial institution insured by the Federal Deposi t
+Insurance Corporation  and an armed security
+professional that is certified by the Department of
+Public Safety Standards and Training while on duty.
+(6) Any person otherwise authorized by law
+to possess a loaded firearm in a public place.
+
+(7) A person with written authorization
+from the Multnomah County Sheriff or their
+designee.
+
+ (C) The affirmative defe nse described in ORS
+166.370(3)(g), concerning persons licensed to carry
+a con cealed handgun under ORS 166,291 and
+166.292, does not apply to the possession of
+firearms within a Multnomah County building.
+
+ (D) It is unlawful for any person who possesses
+a firearm, clip or magazine in or upon a public
+place, or while in a vehicle in a public place, to
+refuse to permit a peace of ficer to inspect that
+firearm, clip or magazine after the peace officer has
+identified himself or herself as such.  The
+prohibitions of this subsection do not apply to or
+affect the persons listed in subsection (B) of this
+section.
+(Ord. 1338, Amended, 9/04/2025; Ord. 1272, Amended, 06/ 06/2019;
+Ord. 1203, Amended 7/11/13; Ord. 1199, passed 4/25/13)
+
+§ 15.065 DISCHARGE OF A FIREARM.
+
+ (A) It is unlawful for any person to fire or
+discharge a firearm within the boundaries of the
+County.
+
+ (B) The prohibition of subsection (A) of this
+section does not apply to or affect those listed in
+ORS 166.171(2) or otherwise authorized by law to
+fire or discharge a firearm.
+(Ord. 1203, Amended 7/11/13; Ord. 1199, passed 4/25/13)
+
+§ 15.066 ENDANGERING A CHILD BY
+ALLOWING ACCESS TO A
+FIREARM.
+
+(A) A person commits the offense of
+endangering a child if a person fails to prevent
+access to a loaded or unloaded firearm by a minor
+without the permission of the person, a parent or
+guardian, when the person knew or reasonably
+should have known that a minor could gain access
+to the firearm.
+8 Multnomah County – Sheriff
+(B) Subsection (A) of this section does not
+apply when:
+
+(1) The minor obtains the firearm as a
+result of an illegal entry into any premises under the
+person’s custody or control.
+
+(2) The firearm is kept in a locked
+container or in a location that a reasonable person
+would believe to be secure from entry by the minor.
+
+(3) The firearm is locked with a device that
+has rendered the firearm inoperable and is designed
+to prevent minors and unauthorized users from
+firing the firearm.  The device may be installed on
+the firearm, be incorporated into the design of the
+firearm, or prevent access to the firearm.
+(C) Penalty:  Violation of subsection (A) of this
+section is punishable by incarceration for not more
+than 10 days and a fine of not more than $500.
+(Ord. 1199, passed 4/25/13)
+
+§ 15.067 FAILURE TO REPORT THEFT.
+
+(A) Any person who possesses, owns or
+controls a firearm in the County shall report the
+theft or misplacement of the firearm to law
+enforcement and provide a description of the
+firearm, within 48 hours of knowing, or having
+reason to know, the firearm is stolen or cannot be
+located through reasonable effort.
+(B) A person who possesses, owns or controls a
+firearm in the County and fails to provide the serial
+number of the firearm when reporting the firearm in
+accordance with subsection (A) of this section is
+subject to a $200 administrative fee.
+(C) Violation of subsection (A) of this section is
+punishable by a fine of $2,500.
+(Ord. 1199, passed 4/25/13)
+
+TOWING SERVICES
+
+§ 15.100- TITLE.
+
+ This subchapter shall be known and cited as the
+Towing Law and may be so cited.
+(‘ 90 Code, § 6.20.105, 07/01/1998; Ord. 63, passed, 12/14/1972)
+
+§ 15.101 DEFINITIONS.
+
+ For the purpose of this subchapter, the follo w-
+ing definitions shall apply unless the context r e-
+quires a different meaning.
+
+ DOING BUSINESS IN THE COUNTY.  Any
+acceptance of tows for hire as defined in this se c-
+tion.
+
+ EMPLOYEE. An employee, agent or driver of
+towing vehicle, employed by the licensee in the
+business of towing for hire.
+
+ LICENSE. A nontransfera ble, nonassignable
+annual permit, personal to whom it is issued, i ssued
+by the Sheriff authorizing the person whose name
+appears on it as a licensee to tow vehicles in the
+county for hire.
+
+ LICENSEE. A person possessing a valid l i-
+cense under this subchapter.
+
+ MOTOR VEHICLE RELATED CONVI C-
+TIONS.
+
+  (1) Conviction upon a charge of ma n-
+slaughter or criminally negligent homicide resul ting
+from operation of a motor vehicle;
+
+  (2) Conviction or forfeiture of bail upon
+two charges of reckless driving within the preceding
+12 months;
+
+  (3) Conviction upon a charge of failing to
+stop and disclose identity at the scene of an acc i-
+dent, where the driver was involved in that accident;
+
+  (4) Conviction upon a charge of driving
+while under the influence of intoxicating l iquor or
+dangerous or narcotic drugs;
+
+  (5) Conviction for any crime punishable as
+a felony in the commission of which a motor vehicle
+was used; or
+
+  (6) Conviction for any crime upon the
+charge of theft, burglary, arson or robbery of a m o-
+tor vehicle.
+         CHAPTER 15:  SHERIFF          9
+ TOW FOR HIRE.  The towing for a price or
+charge of a wrecked, abandoned, disabled or no n-
+functional motor vehicle from any location within
+the county, outside incorporated cities, whether
+originating upon public or private property, regar d-
+less of whether the  destination for such tow for hire
+lies within, or outside, the county.
+
+ TOWING VEHICLE.  A truck, automobile or
+other vehicle designed for the purpose of towing
+motor vehicles or so adapted for that purpose.
+(‘ 90 Code, § 6.20.110, 07/01/1998; Ord. 246, passed, 08/21/1980; Ord.
+63, passed, 12/14/1972)
+
+§ 15.102 POLICY AND PURPOSE
+
+The Board has determined that it is necessary to
+regulate and eliminate certain towing practices and
+to insure the use of safe equipment and veh icles in
+order to protect the heal th, safety and welfare of the
+people of the county, and this subchapter shall be
+liberally construed to effectuate this purpose.
+(‘ 90 Code, § 6.20.115, 07/01/1998; Ord. 63, passed, 12/14/1972)
+
+§ 15.103 LICENSE REQUIRED.
+
+ It shall be unlawful for any per son to do bus i-
+ness in the county without a license.
+Penalty, see § 15.999
+(‘ 90 Code, § 6.20.120, 07/01/1998; Ord. 63, passed, 12/14/1972)
+
+§ 15.104 NOTICES.
+
+ All notices shall be in writing and, if mailed,
+then postpaid by certified or registered mail, r eturn
+receipt requested, to the addressee's last known a d-
+dress, and shall be considered given at the date of
+mailing.
+(‘ 90 Code, § 6.20.150, 07/01/1998; Ord. 63, passed, 12/14/1972)
+
+§ 15.105 APPLICATION FOR LICENSE.
+
+ (A) Applications for licenses shall be made up-
+on forms provided by the Sheriff and shall state the
+following:
+
+  (1) The name, home address and pr oposed
+business address of the applicant;
+
+  (2) The number of towing vehicles, l icense
+numbers, model types, location, description and
+hourly availability of the towing vehicles owned or
+operated by the applicant;
+  (3) The address and telephone number of
+any storage locations owned, operated or used by
+the applicant;
+
+  (4) The existing rate schedule charged by
+the applicant for towing and storage services;
+  (5) The name, home address and age of all
+of the applicant's employees engaged in the business
+of towing for hire, full disclosure of any motor vehi-
+cle related convictions of the applicant or employees
+which are known or should have been know n to the
+applicant, and the chauffeur license numbers of the
+applicant's employee-drivers; and
+
+  (6) Such other information as the Sheriff
+shall find reasonably necessary to effectuate the
+purpose of this subchapter.
+
+ (B) The application to the Sheriff m ust be a c-
+companied by an application fee in an amount set by
+Board resolution. Payment of the application fee
+shall cover the license fee for the balance of the first
+annual license.
+(‘ 90 Code, § 6.20.160, 07/01/1998; Ord. 195, passed, 04/26/1979; Ord.
+157, passed, 12/29/1977; Ord. 63, passed, 12/14/1972)
+
+§ 15.106 PROOF OF INSURANCE
+REQUIRED.
+
+ (A) No license shall be issued to an applicant
+until the applicant has deposited with the Sheriff the
+following memorandums or certificates of insu r-
+ance:
+
+  (1) Public liability insurance with insu rers
+licensed to do business in Oregon, in an amount set
+by Board resolution.
+
+  (2) Cargo insurance with insurers l icensed
+to do business in the state, in an amount set by
+Board resolution.
+
+ (B) Each memorandum or certif icate of insu r-
+ance must contain an endorsement providing for ten
+days' notice to the Sheriff in the event of any m ate-
+rial change or cancellation.
+Penalty, see § 15.999
+(‘ 90 Code, § 6.20.170, 07/01/1998; Ord. 63, passed, 12/14/1972)
+10 Multnomah County – Sheriff
+§ 15.107 EQUIPMENT REQUIRED.
+
+ Each towing vehicle shall be equipped and
+maintained with the following:
+
+ (A) Tires of not less than 7.00 x 15 in size, with
+tread of not less than 3/32 of an inch and six-ply rat-
+ing on rims secured with not less than six lug bolts
+or equivalent holding power;
+
+ (B) Wire rope with a safe working limit of
+3,500 pounds as established by the American Soci e-
+ty of Mechanical Engineers;
+
+ (C) Four-way flashing system, including one
+flashing amber light or other color prescribed by
+state law, of not less than five inches in diameter,
+mounted on the towing vehicle. In addition, at least
+one light must be provided mounted behind the cab
+of the towing vehicle, which, as dete rmined by the
+Sheriff, has the capacity to light the scene of an a c-
+cident under darkened or foggy conditions;
+
+ (D) At least one fire extinguisher with an U n-
+derwriters' Laboratory rating of at least 5B:C units,
+one broom, one shovel and one container for debris;
+
+ (E) A dolly available for the purpose of to wing
+motor vehicles where it is ne cessary to tow without
+damage to the towed vehicle;
+
+ (F) Equipment capable of providing minor r e-
+pairs, including, but not limited to, polarity pr otect-
+ed starting equipment, tire changing equipment and
+gasoline;
+
+ (G) Portable auxiliary brake light, turn l ight and
+taillight systems for use on towed vehicles whose
+lighting systems are inoperable; and
+
+ (H) Such other equipment as required by state
+laws.
+(‘ 90 Code, § 6.20.180, 07/01/1998; Ord. 63, passed, 12/14/1972)
+
+§ 15.108 INVESTIGATION AND
+INSPECTION BY SHERIFF.
+
+ (A) Within 30 days after receipt of an applic a-
+tion, the Sheriff shall cause an investigation to be
+made of the applicant and the applicant's towing v e-
+hicles, equipment and employees, including p olice
+record checks of applicant and employees.
+
+ (B) All towing vehicle and equipment owned or
+operated by the applicant shall be inspected by the
+Sheriff prior to the issuance of a license. Towing
+vehicles and towing equipment must meet the state
+motor vehicles code requirements, the r equirements
+of this subchapter and such other reasonable safety
+requirements as the Sheriff finds necessary for pu b-
+lic safety.
+
+ (C) Inspection of all tow vehicles and towing
+equipment owned or operated by the licensee may be
+made from time to time as may reasonably be dete r-
+mined by the Sheriff for the purpose of determi ning
+continued compliance with this subchapter.
+(‘ 90 Code, § 6.20.190, 07/01/1998; Ord. 63, passed, 12/14/1972)
+
+§ 15.109 STANDARDS FOR ISSUANCE.
+
+ (A) The Sheriff shall issue a license when the
+Sheriff finds as a result of the investigation and i n-
+spection that:
+  (1) An accurate and complete application
+has been filed and fees are paid;
+
+  (2) Insurance policies required by § 15.106
+have been procured;
+
+  (3) Vehicle and equipment inspection has
+been satisfactorily completed under § 15.108;
+
+  (4) All drivers of the applicant's towing v e-
+hicles have valid chauffeurs' licenses; and
+
+  (5) The requirements of this subchapter and
+all other governing laws and ordinances have been
+met.
+
+ (B) A motor vehicle related  conviction of the
+applicant or the applicant's employees may be
+grounds for denial or revocation of a license if the
+Sheriff determines that the denial or revocation is in
+accordance with the objectives of this subchapter
+and necessary for the health, saf ety and welfare of
+the people of the county.
+(‘ 90 Code, § 6.20.200, 07/01/1998; Ord. 63, passed, 12/14/1972)
+         CHAPTER 15:  SHERIFF          11
+§ 15.110 DENIAL OR REVOCATION OF
+LICENSE.
+
+ (A) The Sheriff may initiate denial or revocation
+of a license upon finding that a licensee fails to meet
+the requirements of this subchapter or is operating in
+violation of this subchapter or existing fe deral, state
+or local laws or ordinances.
+
+ (B) Any person whose license has been denied
+or revoked may, after 30 days from the date of the
+denial or rev ocation, reapply upon the prepayment
+of an application fee in an amount set by Board re s-
+olution. That sum shall not be credited to the appl i-
+cant's annual license fee.
+
+ (C) Any person who has had a license denied or
+revoked two times within one year, or wh o has a to-
+tal of four denials or revocations, may be disqual i-
+fied from applying for a license for a period not to
+exceed two years.
+
+ (D) The Sheriff shall, upon finding that a viol a-
+tion of this subchapter has occurred, provide written
+notice to the licens ee of the violation and shall d e-
+mand that the violation, if continuing, be corrected
+within 30 days from the date of the notice. The n o-
+tice shall describe with reasonable certainty the v io-
+lation and the action necessary to correct the viol a-
+tion.
+
+ (E) The licensee shall notify the Sheriff when
+corrective action under division (D) of this section
+has been taken. The Sheriff shall then make an i n-
+spection, if necessary.
+
+ (F) The licensee's failure to take corrective a c-
+tion in the time required shall be cause for license
+revocation unless the licensee has filed notice of a p-
+peal, which notice shall abate revocation, pending
+determination of the Board.
+
+ (G) The Sheriff may order immediate corre ctive
+action of the licensee upon finding the violation
+poses an extreme hazard to public safety.
+(‘ 90 Code, § 6.20.210, 07/01/1998; Ord. 157, passed, 12/29/1977; Ord.
+63, passed, 12/14/1972)
+
+§ 15.111 RENEWAL OF LICENSE.
+
+ (A) Inspection of all towing vehicles shall be
+made as provided in § 15.108(B) at the time of each
+annual renewal of the license to tow.
+
+ (B) An annual license renewal fee in an amount
+set by Board resolution shall be charged for each
+calendar year and shall be due on December first of
+the previous calendar year.
+
+ (C) Renewal of an applicant's license is subject
+to compliance with this subchapter.
+(‘ 90 Code, § 6.20.220, 07/01/1998; Ord. 246, passed, 08/21/1980; Ord.
+157, passed, 12/29/1977; Ord. 63, passed, 12/14/1972)
+
+§ 15.112 NOTIFICATION OF CHANGE OF
+CIRCUMSTANCES.
+
+ If the status of any licensee u nder this subchap-
+ter changes in regard to the number of towing v ehi-
+cles owned or operated, new drivers, disco ntinued
+drivers, the personal qualifications of employees,
+the sale or discontinuance of the business being
+conducted, or anything substantially ch anging the
+information contained in the initial application, the
+licensee must immediately file with the Sheriff a
+statement setting forth the changes. An inspection
+fee in an amount set by Board resolution shall be
+paid for inspection of towing vehicles acquired after
+the license inspection.
+(‘ 90 Code, § 6.20.230, 07/01/1998; Ord. 63, passed, 12/14/1972)
+
+§ 15.113 APPEALS AND HEARINGS;
+REVIEW.
+
+ (A) Persons receiving notice from the Sheriff
+may request a hearing by filing a written request for
+hearing with the Sheriff within 30 days of r eceipt of
+the notice. The request shall set forth reasons for the
+hearing and the issues to be heard.
+
+ (B) The Sheriff shall, upon receipt of request for
+hearing, promptly notify the Board and the Board
+shall set a time an d place for the hearing, not more
+than 60 days from the date of receipt of request for a
+hearing.
+12 Multnomah County – Sheriff
+ (C) The Board shall give notice to the person
+requesting a hearing as to the time and place for the
+hearing not less than 30 days prior to the hearing.
+
+ (D) The person requesting the hearing and the
+Sheriff may make argument, cross examine witness-
+es, submit testimony, rebuttal evidence and written
+documentation and submit briefs on matters pert i-
+nent to the issue to be determined.
+
+ (E) All hearings shall be recorded in a manner
+which will allow for a written transcription to be made
+and all materials submitted by the person r equesting
+the hearing and by the Sheriff shall be r etained by the
+Board for a period of at least two years.
+
+ (F) The Board shall issue its order determi ning
+the question within 30 days from the date of the
+hearing, or any continuance not to exceed 30 days,
+and shall mail a copy of the order to the person r e-
+questing the hearing.
+
+ (G) Review of the action of the Board shall be
+taken solely and exclusively by writ of review in the
+manner set forth in ORS §§ 34.010 to 34.100, pr o-
+vided, however, that any aggrieved person may d e-
+mand relief by writ of review.
+(‘ 90 Code, § 6.20.240, 07/01/1998; Ord. 63, passed, 12/14/1972)
+
+§ 15.114 IDENTIFICATION, RATE
+SCHEDULE AND PERMIT
+REQUIRED.
+
+ (A) The name, address, number of the partic ular
+vehicle and phone number of the licensee shall be
+prominently displayed on each towing vehicle
+owned or operated by the licensee.
+
+ (B) Tow and storage rates charged f or services
+by a licensee shall be filed with the Sheriff at least
+ten days prior to their effective date and shall be
+prominently posted at the licensee's place of bus i-
+ness. Each towing vehicle operator shall have in
+possession a rate card setting forth the licensee's rate
+schedule currently on file with the Sheriff which
+shall include the licensee's business name, location,
+telephone number, location of storage f acilities for
+towed vehicles and business hours. A copy of the
+rate card shall be furnished to  the person requiring
+the tow, if present.
+
+ (C) The towing operator shall, upon request,
+provide their full name to any patron of the licensee.
+
+ (D) The tow for hire permit indicating vehicle
+operation under a the county license shall be prom i-
+nently disp layed in the lower left corner of the
+windshield of each towing vehicle.
+
+ (E) The tow truck permit registration will be
+carried in each towing vehicle and will be pr esented
+for inspection upon request of a peace officer.
+Penalty, see § 15.999
+(Ord. 1272, Amended, 06/06/2019; 90 Code, § 6.20.250, 07/01/1998;
+Ord. 137, passed, 12/16/1976; Ord. 63, passed, 12/14/1972)
+
+§ 15.115 REMOVAL OF DEBRIS.
+
+ The driver of a towing vehicle engaged to r e-
+move a disabled vehicle from the scene of an acc i-
+dent shall remove glass and other debris from the
+roadway unless otherwise instructed by police a u-
+thority.
+Penalty, see § 15.999
+(‘ 90 Code, § 6.20.250, 07/01/1998; Ord. 137, passed, 12/16/1976; Ord.
+63, passed, 12/14/1972)
+
+§ 15.116 STORAGE OF TOWED
+VEHICLES.
+
+ Vehicles shall be stored in conformity with the
+zoning ordinance of the county and nothing in this
+subchapter shall be construed as a modification of
+those requirements.
+Penalty, see § 15.999
+(‘ 90 Code, § 6.20.260, 07/01/1998; Ord. 63, passed, 12/14/1972)
+
+§ 15.117 HOURS FOR RELEASE OF
+IMPOUNDED VEHICLES.
+
+ Towing operators storing impounded vehicles in
+the county must provide for release of i mpounded
+vehicles, without additional charge, at any time
+within the 24 hours following the tow. Ther eafter,
+the release may b e effected during normal working
+hours, between 8:00 a.m. and 5:00 p.m., Monday
+through Friday.
+(‘ 90 Code, § 6.20.270, 07/01/1998; Ord. 63, passed, 12/14/1972)
+         CHAPTER 15:  SHERIFF          13
+§ 15.118 PROHIBITED ACTS.
+
+ No licensee or employee of a licensee shall:
+
+ (A) Make a false statement of a material fact, or
+omit disclosure of a material fact, in the appl ication
+for license;
+
+ (B) Monitor the police radio for profit or gain;
+
+ (C) Solicit information as to accident locations
+by payment of any form of gratuity;
+
+ (D) Solicit those  at the scene of an accident
+without first determining whether towing assi stance
+has already been requested. A prior request shall
+prohibit solicitation, provided, however, any lice n-
+see may render assistance without charge at the sce-
+ne of an accident to clear the public street or high-
+way;
+
+ (E) Either expressly or impliedly by any stat e-
+ment or action make any false representation that he
+represents or is approved by any business firm or
+organization;
+
+ (F) Require performance of repair work on a
+vehicle i nvolved in an accident or breakdown in
+connection with providing towing service for that
+vehicle;
+
+ (G) Increase towing or storage rates from those
+filed with the Sheriff except as provided in §
+15.114;
+
+ (H) Make any repairs or alterations to a veh icle
+without first being authorized by the registered or
+legal owner, an authorized insurance company or
+authorized agent of those persons, provided, howev-
+er, that licensees and employees may make eme r-
+gency alterations necessary to permit the towing of
+the vehicle;
+
+ (I) Store vehicles in violation of the zoning o r-
+dinance;
+
+ (J) Charge a fee when a vehicle owner or the
+owner's agent or insurance representative gives writ-
+ten or verbal authorization to a person other than the
+licensee to remove the owner's vehicle from the l i-
+censee's premises;
+ (K) Tow a vehicle which is occupied by pe r-
+sons;
+
+ (L) Charge for services not performed or make
+duplicate charges for the same services;
+
+ (M) Charge more than one daily storage fee for
+the initial 24 -hour storage period or charge other
+than on a calendar day basis after that; or
+
+ (N) Refuse the owner or the owner's autho rized
+agent reasonable access to the licensee's storage
+premises for vehicle inspection.
+Penalty, see § 15.999
+(‘ 90 Code, § 6.20.280, 07/01/1998; Ord. 63, passed, 12/14/1972)
+
+§ 15.119 OTHER LAWS APPLY.
+
+ This subchapter shall in no way be a substitute
+for nor eliminate the necessity of conforming with
+any and all state laws and rules and other county o r-
+dinances which relate to the activities regulated by
+this subchapter.
+(‘ 90 Code, § 6.20.290, 07/01/1998; Ord. 63, passed, 12/14/1972)
+
+§ 15.120 ADMINISTRATION.
+
+ (A) The Sheriff shall be responsible for the a d-
+ministration and enforcement of this subchapter.
+
+ (B) The Sheriff shall have the authority to do
+the following:
+
+  (1) Administer oaths;
+
+  (2) Audit records;
+
+  (3) Certify to all official acts;
+
+  (4) Subpoena and require attendance of
+witnesses at meetings or hearings to determine
+compliance with this subchapter;
+
+  (5) Require the production of relev ant doc-
+uments;
+
+  (6) Swear witnesses;
+14 Multnomah County – Sheriff
+  (7) Take testimony of any person by dep o-
+sition; and
+
+  (8) Perform all other acts necessary to a d-
+minister and enforce the provisions of this subcha p-
+ter.
+
+ (C) The Board may adopt rules by resolution
+necessary for the administration and enforcement of
+this subchapter.
+(‘ 90 Code, § 6.20.130 & 6.20.140, 07/01/1998; Ord. 63, passed,
+12/14/1972)
+
+WRECKER CERTIFICATES
+
+§ 15.200- PURPOSE.
+
+ The purposes of this subchapter are to esta blish
+the principal criteria which shal l be considered by
+the Board and Sheriff in granting approval of
+wrecker certificates within unincorporated the coun-
+ty and to establish an application and approval pro-
+cess.
+(‘ 90 Code, § 5.10.010, 07/01/1998; Ord. 723, passed, 06/04/1992)
+
+§ 15.201 APPLICATIONS.
+
+ (A) Any applicant for a wrecker certificate who
+is required by the Department of Motor Vehicles
+(DMV) to obtain approval from a county go verning
+body in which it does business shall present an a p-
+plication prescribed by DMV to the Sheriff for the
+purpose of obtaining such an approval.
+
+ (B) The Sheriff may require information in a d-
+dition to that provided on the application in o rder to
+conduct an investigation relevant to the county's a p-
+proval.
+
+ (C) An application shall be accepted only if it is
+properly completed and accompanied by a pro-
+cessing fee in an amount set by Board resolution.
+(‘ 90 Code, § 5.10.010, 07/01/1998; Ord. 723, passed, 06/04/1992)
+
+§ 15.202 INVESTIGATION.
+
+ (A) The Sheriff shall coordinate and conduct an
+investigation of each app lication using the proc e-
+dures set forth in division (B) of this section.
+
+ (B) The Sheriff shall:
+
+  (1) Check for prior arrest records of owners
+on employees or violations of state statutes regula t-
+ing wreckers;
+
+  (2) Check for prior community relations
+problems;
+
+  (3) Check to see if the requirements of ORS
+822.110 are met;
+
+  (4) Check to see if the business location v i-
+olates any prohibitions under ORS 822.135;
+
+  (5) Check to see that the location meets
+zoning regulations of the county; and
+
+  (6) Check to see that there are no deli n-
+quent personal or real property taxes due and owing.
+(‘ 90 Code, § 5.10.010, 07/01/1998; Ord. 723, passed, 06/04/1992)
+
+§ 15.203 RECOMMENDATIONS TO THE
+BOARD.
+
+ Upon completion of the investigation proc e-
+dures by the Sheriff' s office, the Sheriff shall fo r-
+ward to the Board a recommendation of approval or
+denial. The clerk of the Board shall place the matter
+on the Board's agenda, in order that the Board may
+make a recommendation of approval or denial to
+DMV.
+(‘ 90 Code, § 5.10.010, 07/01/1998; Ord. 723, passed, 06/04/1992)
+
+§ 15.204 DENIAL OF CERTIFICATE.
+
+ The Sheriff may make a recommendation of de-
+nial regarding any application if:
+
+ (A) The applicant's record reflects a pattern of
+violations of state statutes regulating wreckers;
+
+ (B) The record of the applicant shows viol a-
+tion(s) of criminal law(s) or ordinance(s) co nnected
+in time, place or manner with an auto wrecker estab-
+lishment or which demonstrates a disregard for the
+law;
+
+ (C) The requirements of ORS 822.110 have no t
+been met;
+         CHAPTER 15:  SHERIFF          15
+ (D) The business location violates prohibitions
+under ORS 822.135;
+
+ (E) The location does not meet zoning regul a-
+tions of the county;
+
+ (F) Delinquent personal or real property taxes
+are due and owing; or
+
+ (G) If there is any other specific reason con-
+sistent with the purposes of this subchapter which
+may, in the opinion of the Sheriff, warrant an ad-
+verse report to the Board based upon public health,
+safety, welfare, convenience or necessity.
+(‘ 90 Code, § 5.10.010, 07/01/1998; Ord. 723, passed, 06/04/1992)
+
+§ 15.205 HEARINGS; NOTIFICATION.
+
+ When the Sheriff makes a recommendation for
+denial of any application, the clerk of the Board
+shall notify, by certified mail, the applicant and the
+Sheriff of the hearing date, place and time at least
+one week before such hearing takes place.
+(‘ 90 Code, § 5.10.010, 07/01/1998; Ord. 723, passed, 06/04/1992)
+
+§ 15.206 HEARINGS.
+
+ When the Board has scheduled a hearing on any
+auto wrecker certificate approval, such applicant
+shall be given a reasonable oppo rtunity to be heard
+and address concerns raised by the Sheriff, the
+Board, and persons or groups appearing in oppos i-
+tion to such an application. The Board's recomme n-
+dation of approval or denial of such application,
+based upon a determination of what course of action
+best serves the interest of the citizens of the county,
+shall be final.
+(‘ 90 Code, § 5.10.010, 07/01/1998; Ord. 723, passed, 06/04/1992)
+
+§ 15.207 RECONSIDERATION OF
+APPLICATIONS.
+
+ After having made a recommendation of d enial
+on any auto wreck er certificate application, the
+Sheriff and the Board shall not consider any new
+application for the same location by the same or
+substantially the same applicant for a period of at
+least six months or while such applicant has pending
+an appeal in court or in a state administrative agency
+related to such a certificate approval. Notwithstan d-
+ing, the Sheriff may reconsider or resubmit such an
+application to the Board in less than six months if it
+is reasonably believed that a recommendation of de-
+nial has subs tantially changed, and no court or ad-
+ministrative appeal of such license is pending.
+(‘ 90 Code, § 5.10.010, 07/01/1998; Ord. 723, passed, 06/04/1992)
+
+NUISANCES GENERALLY
+
+§ 15.225- TITLE AND AREA OF
+APPLICATION.
+
+ This subchapter shall be known and cited  as the
+county Nuisance Control Law, and shall apply to the
+unincorporated and incorporated areas of the county
+for purposes of control, extermination or abatement
+of public health vectors as authorized by state law.
+(Ord. 1111, Amended, 02/28/2008; ‘ 90 Code, § 7.20.005, 07/01/1998;
+Ord. 125, passed, 05/27/1976)
+
+§ 15.226 DEFINITIONS.
+
+ For the purpose of this subchapter, the follo w-
+ing definitions shall apply unless the context r e-
+quires a different meaning.
+
+ ABANDONED VEHICLE. Any vehicle which
+reasonably appears to be inoperative, wrecked, di s-
+carded, abandoned or totally or partially dismantled.
+
+ DESIGNEE.  Person or persons authorized by
+the Health Officer or Sheriff to fulfill their respe c-
+tive functions.
+
+ EXPLOSIVE. A chemical compound, mixture
+or device that is used or intended to be used for the
+purpose of producing a chemical reaction resulting
+in a substantially instantaneous release of gas and
+heat, including but not limited to dynamite, blas ting
+powder, nitroglycerin, blasting caps and nitr ojelly,
+but excluding fireworks as defined by state law,
+black powder, smokeless powder, small arms a m-
+munition and small arms ammunition primers.
+
+ GARBAGE. All animal and vegetable wastes
+resulting from the handling, preparation, cooking or
+consumption of food.
+
+ HEALTH OFFICER. That person in the cou n-
+ty Department of Health, or an agent with the a u-
+thority of the local Health Officer under state law.
+16 Multnomah County – Sheriff
+ HEARINGS OFFICER. That person appointed
+by the Board to preside at hearings held under §
+15.231.
+
+ INTERSECTION. The area embraced within
+the prolongation or connection of the lateral
+curblines or, if none, then of the lateral boundary
+lines of two or more streets or highways which join
+one another at an angle, whether or not one street or
+highway crosses the other.
+
+ LIQUID WASTE. Waste oil, septic tank pum p-
+ing, liquid industrial wastes or other similar mater i-
+al.
+
+ NUISANCE. Any condition or practice cau sing
+or capable of causing an unreasonable threat to the
+public health, safety and welfare in the circumstanc-
+es, but does not include noise, provided, howe ver,
+that anything defined as a nuisance in § 15.229 shall
+be a nuisance.
+
+ OWNER. Any person having a legal interest in
+real or personal property or any person in possession
+or control of real or personal p roperty, and excludes
+any person whose interest is for security only.
+
+ RADIOACTIVE SUBSTANCE.  A substance
+which emits radiation in the form of gamma rays, X-
+rays, alpha particles, beta particles, neutrons, pr o-
+tons, high -speed electrons and other nuclear p arti-
+cles, but radiation does not include sound waves, ra-
+dio waves, visible light, infrared light or ultravi olet
+light.
+
+ RODENT. A mouse or rat.
+
+ RUBBISH. Glass, metal, paper, wood, pla stics
+or other nonputrescible solid waste.
+
+ SEWAGE SLUDGE. Residual waste of sewage
+treatment plants, consisting of digested organic
+waste and indigestible solids.
+
+ SIDEWALK. That portion of a public right -of-
+way, other than the roadway, set apart by curbs, bar-
+riers, markings or other delineation for pedestrian
+travel.
+
+ SOLID WASTE. All putrescible and nonputres-
+cible wastes, whether in solid or liquid form, except
+wastes produced by the human body, li quid-carried
+industrial waste or sewage, or sewage hauled as an
+incidental part of septic tank or cesspool cleaning
+service, and includes garbage, rubbish, ashes, fill
+dirt, sewage sludge, street refuse, i ndustrial wastes,
+swill, demolition and used constru ction materials,
+abandoned vehicles or parts thereof, discarded home
+or industrial appliances, manure, vegetable or an i-
+mal solids and semisolid waste, dead animals and
+other discarded solid materials.
+
+ VECTOR. Any non-human animal, including
+but not limited to insects (flies, fleas, ticks, mosqui-
+toes, etc.), birds and rodents  capable of bearing or
+carrying a disease transmittable to human beings.
+
+ VEHICLE. Any device which is designed or
+used for transporting people, goods or property upon
+a public street or roadway, including but not limited
+to a body, engine, transmission, frame or other m a-
+jor parts, but does not include a device propelled by
+human power, such as a bicycle, or a device opera t-
+ed exclusively upon fixed rails or tracks.
+(Ord. 1095, Amended, 07/12/2007; ‘ 90 Code, § 7.20.010, 07/01/1998;
+Ord. 653, passed, 06/14/1990; Ord. 125, passed, 05/27/1976)
+
+§ 15.227 POLICY.
+
+ The Board has determined it is necessary to e s-
+tablish and maintain a program for the effective con-
+trol and abatement of nuisances which const itute a
+hazard or menace to the health, safety and welfare
+of the people of the county, and this subchapter shall
+be liberally construed to effectuate that purpose.
+(‘ 90 Code, § 7.20.020, 07/01/1998; Ord. 125, passed, 05/27/1976)
+
+§ 15.228 NOTICES.
+
+ Except as provided in § 15.231(B), all notices
+shall be in writing and, if mailed, then post-paid cer-
+tified or reg istered mail, return receipt r equested, to
+the addressee's last known address. A mailed n otice
+shall be presumed to have been received on the sec-
+ond mail delivery day after mailing.
+(‘ 90 Code, § 7.20.050, 07/01/1998; Ord. 125, passed, 05/27/1976)
+         CHAPTER 15:  SHERIFF          17
+§ 15.229 NUISANCES PROHIBITED.
+
+ (A) It shall be unlawful for any person to mai n-
+tain or allow to exist the following things, practices
+or conditions on any property or within public road
+rights-of-way adjacent to that pro perty, which shall
+be nuisances:
+
+  (1) A pond or pool of stagnant water which
+emits an obnoxious odor or is a source of vector
+breeding or otherwise presents a threat to the public
+health, safety and welfare.
+
+  (2) An animal carcass not buried or d e-
+stroyed within 24 hours after death.
+
+  (3) Accumulation, collection or storage of
+solid waste without prior approval of the health o f-
+ficer and the Sheriff, unless the person is licensed by
+lawful authority to operate a business specifically
+for those purposes.
+
+  (4) A well, septic system or cesspool that
+has not been safely or securely sealed or properly
+maintained, which may cause or has caused an i nju-
+ry to any person or contamination of a potable water
+supply.
+
+  (5) An abandoned, discarded or una ttended
+icebox, refrigerator or other container with a co m-
+partment of more than one and one -half c ubic feet
+capacity and a door or lid which locks or fastens a u-
+tomatically when closed and which cannot be ea sily
+opened from the inside.
+
+  (6) Any property, whether vacant or i m-
+proved buildings, residence struc ture or accumul a-
+tion of any materials which is infested by vectors or
+rodents.
+
+  (7) Uncontrolled or uncultivated growth of
+weeds, brush, or grasses which offer vector or r o-
+dent harborage, contribute noxious pollens to the
+atmosphere, constitute a fire ha zard or produce to x-
+ins that are harmful to humans, pets, livestock or
+wildlife.
+
+  (8) Any explosive or radioactive su bstance
+unless the possession is authorized by law.
+
+  (9) Any vacant building, left unsecured and
+unattended and accessible to the public.
+
+  (10)  An open pit, well, quarry, cistern,
+excavation or other hole of a depth of four feet or
+more and a top width of 12 inches or more without
+reasonable safeguards or barriers to prevent them
+from being accessible to children.
+
+  (11)  Dead or decay ing trees and tree
+limbs that present a safety hazard to the public or to
+the abutting property owners.
+
+  (12)  A fence, barrier, partition or o b-
+struction located in a residential zone, except RL -C
+or F-2, and which is partially or totally co nstructed
+with barbed wire or is electrically charged in such a
+manner as to transmit an electrical shock or charge
+upon contact.
+
+  (13)  Any abandoned vehicle upon pr i-
+vate or public property unless the owner of the
+property is lawfully authorized to operate a busines s
+specifically for that purpose.
+
+  (14)  Signs, hedges, shrubbery, natural
+growth or other obstructions at or near interse ctions
+which hinder the view necessary for the safe oper a-
+tion of vehicles.
+
+  (15)  Obstruction to public sidewalks or
+roadways by tre es, bushes, roots, other natural
+growth, soil or solid waste.
+
+  (16)  Any excavation which endangers
+the lateral support or causes cracking, settling or
+other damage to streets, sidewalks or other public
+property.
+
+ (B) The enumeration of nuisances in div ision
+(A) of this section shall not limit the power of the
+health officer or Sheriff to investigate or declare any
+other condition a nuisance which is within the scope
+of § 15.226.
+Penalty, see § 15.999
+(‘ 90 Code, § 7.20.060, 07/01/1998; Ord. 653, passed, 06/14/1990; Ord.
+125, passed, 05/27/1976)
+18 Multnomah County – Sheriff
+§ 15.230 INSPECTION AND ABATEMENT.
+
+ (A) The Health Officer, Sheriff or designee may
+enter any property or building at any reasonable
+time for the purpose of inspection or enforcing this
+subchapter. Except  when a n emergency exists, the
+Health Officer, Sheriff or designee, shall obtain the
+consent of the owner or a court warrant before e n-
+tering private property or a private building.
+
+ (B) As used in this section, an emergency e xists
+when the Health O fficer or Sher iff has reasonable
+cause to believe that a nuisance requires prompt re-
+mediation to avoid a clear and immediate danger to
+individuals or to the public health.
+
+ (C) An investigation may be conducted whe n-
+ever the H ealth O fficer or Sheriff becomes aware
+that a nuisance exists.
+
+ (D) Whenever it appears there is reasonable
+cause to believe that a nu isance exists, the Health
+Officer or Sheriff shall provide written notice to the
+owner of the existence of the nuisance and shall
+demand abatement within 30 days fro m the date of
+the written notice, or such lesser time as may be set
+by the Health Officer or Sheriff to protect the public
+health, safety and welfare. The notice shall describe
+with reasonable certainty the property, the nature of
+the nuisance and the acti on necessary to abate the
+nuisance, and shall inform the owner of the owner's
+rights under §§ 15.231 and 15.232, and the proc e-
+dure by which the owner may contact the notice
+provider for more information.
+
+ (E) In an emergency, the Health O fficer or
+Sheriff may order immediate abatement of a nu i-
+sance. The Health Officer or Sheriff shall give n o-
+tice of the requirement for immediate abatement to
+the owner.
+
+ (F) In an emergency, and in lieu of action under
+division (E) of this section, the Health O fficer or
+Sheriff may proceed with immediate abatement of
+the nuisance. The Health O fficer or Sheriff shall
+then immediately send written notice of abatement
+to the owner of the property.
+
+ (G) In a situation in which the property owner
+has refused to abate a nuisance , or has taken or
+threatened action that gives the Health Officer pro b-
+able cause to believe such action will comprise a
+danger to Health Department staff, any involved
+contractors, other individuals or the public genera l-
+ly, the Health Officer may request t he assistance of
+the Sheriff in carrying out necessary investigation,
+abatement or enforcement actions as ordered by the
+Health Officer under § 15.230 or a Hearings Officer
+under § 15.231.
+
+ (H) Unless the Sheriff has probable cause to b e-
+lieve that the H ealth Officer’s assessment of danger
+is in error, or unless there are conflicting legal r e-
+quirements, the Sheriff will immediately provide as-
+sistance as requested by the Health Officer.
+(Ord. 1095, Amended, 07/12/2007; ‘ 90 Code, § 7.20.070, 07/01/1998;
+Ord. 125, passed, 05/27/1976)
+
+§ 15.231 APPEALS AND HEARINGS.
+
+ (A) Any person receiving a notice under §
+15.230(D), (E) or (F) may request a hearing by writ-
+ing the Health Officer or Sheriff within seven days
+of the date of the notice.
+
+ (B) A person recei ving a notice of denial, re-
+fusal to renew, suspension, or revocation of license
+or permit for specified animals, specified animal fa-
+cility and other health licenses, as provided by MCC
+§ 21.990, may request a hearing by writing the
+Health Officer within se ven days of the date of the
+notice.
+
+(C) The Health Officer or Sheriff shall, upon re-
+ceipt of request for a hearing, promptly notify the
+hearings officer who shall set a time and place for
+the hearing at the earliest possible time and shall
+promptly notify the person requesting the hearing as
+to the time and place for the hearing. Notice may be
+by any means of giving actual notice. Notice may
+also be given to such persons as the hearings officer
+may determine to be interested persons.
+
+ (D) The person req uesting the hearing and the
+Health Officer or Sheriff may make argument, su b-
+mit testimony, cross examine witnesses and submit
+rebuttal evidence on the pertinent issues. Any party
+may be represented by counsel.
+         CHAPTER 15:  SHERIFF          19
+ (E) All hearings shall be recorded in a mann er
+which will allow for written transcription to be
+made and all materials submitted at the hearing shall
+be retained by the hearings officer for a period of
+two years.
+
+ (F) Failure of the person requesting the hea ring
+to appear at the hearing shall const itute a waiver of
+the right to a hearing.
+
+ (G) After the hearing, the hearings officer shall
+issue and mail a copy of the order determi ning the
+question within 15 days from the date of the hea r-
+ing, or any continuance thereof not to exceed 15
+days, to the person requesting hearing and the
+Health Officer or Sheriff.
+
+ (H) If the hearings officer finds the nuisance to
+exist, the order shall set a date for abatement to be
+accomplished by the owner.
+
+ (I) If the hearings officer determines that an y-
+thing removed under § 15.230(F) no longer const i-
+tutes a nuisance or can be released upon such cond i-
+tion as the hearings officer may prescribe that will
+eliminate the nuisance, the person requesting the
+hearing may claim it upon paying the expense i n-
+curred in its removal and storage.
+
+ (J) If the hearings officer determines there was
+a wrongful abatement under § 15.230(F), the hea r-
+ings officer may order the Health Officer or Sheriff
+to make reasonable restitution.
+
+ (K) Hearings involving the Health Officer shall
+be conducted in accordance with applicable portions
+of ORS 183.413 to ORS 183.470.
+(Ord. 1116, Amended, 07/17/2008; Ord. 1095, Amended, 07/12/2007; ‘
+90 Code, § 7.20.080, 07/01/1998; Ord. 125, passed, 05/27/1976)
+
+§ 15.232 REVIEW.
+
+ Review of any action of the hearings officer
+taken under this subchapter and the rules adopted
+under them shall be taken solely and exclusively by
+writ of review in the manner set forth in ORS
+34.010 to 34.100.
+(‘ 90 Code, § 7.20.090, 07/01/1998; Ord. 125, passed, 05/27/1976)
+
+§ 15.233 ABATEMENT BY OWNER
+REQUIRED.
+
+ Failure of the owner to abate the nuisance wit h-
+in 30 days as provided by  § 15.230(D) or within the
+time set by the hearings officer under § 15.231 shall
+be a violation under this subchapter, and a county
+offense under ORS 203.810.
+Penalty, see § 15.999
+(Ord. 1095, Amended, 07/12/2007; ‘ 90 Code, § 7.20.100, 07/01/1998;
+Ord. 125, passed, 05/27/1976)
+
+§ 15.234 ABATEMENT BY COUNTY;
+COSTS; WAIVER; LIEN.
+
+ (A) If an owner fails to abate a nuisance as r e-
+quired under this subchapt er, the Health Officer or
+Sheriff may cause abatement of the nuisance. Acc u-
+rate record of the abatement costs shall be kept and
+shall include a surcharge of 25% of the cost of the
+abatement for administrative overhead. A billing for
+the amount of the costs shall be forwarded by cert i-
+fied or regi stered mail, return receipt requested, to
+the owner. Payment shall be due to the Health Of-
+ficer or Sheriff within 30 days from the date of the
+billing.
+
+ (B) The cost of abating a nuisance may be
+waived or reduced based upon rules adopted by the
+Health Department or Sheriff.
+
+ (C) Applications for waiver of nuisance abat e-
+ment costs shall be filed with the Health Officer or
+Sheriff on forms supplied by the county within ten
+days from the date of notice of the amount of cost of
+abatement. All information required to be given on
+the forms shall be supplied by and verified by the
+applicant. An application for waiver of nuisance a s-
+sessment costs must be submitted for each cost of
+abatement notice sent to the applicant.
+
+ (D) The Board shall file a lien against the pro p-
+erty if payment is not made as provided in subsec-
+tion (A) of this section or waived under subsection
+(B) of this section.
+
+ (E) The lien provided for in subsection (D) of
+this section shall be given priori ty over all liens e x-
+cept those for taxes and assessments and shall i n-
+clude interest at the legal rate accruing from the date
+billing is sent to the owner of property.
+20 Multnomah County – Sheriff
+ (F) The lien provided for in subsection (D) of
+this section shall be foreclosed in the manner pr e-
+scribed by state law for the enforcement of liens and
+collection of assessments.
+(Ord. 1095, Amended, 07/12/2007; ‘ 90 Code, § 7.20.110, 07/01/1998;
+Ord. 125, passed, 05/27/1976)
+
+§ 15.235 OTHER LAWS APPLY.
+
+ This subchapter shall in no way be a substitute
+for nor eliminate the necessity of conforming with
+any and all state laws and rules and other county o r-
+dinances which are now or may in the future be in
+effect, which relate to the activities regulated by this
+subchapter.
+(‘ 90 Code, § 7.20.120, 07/01/1998; Ord. 125, passed, 05/27/1976)
+
+§ 15.236 ADMINISTRATION AND
+ENFORCEMENT.
+
+ (A) The Health Officer and Sheriff shall be r e-
+sponsible for the administration and enforcement of
+this subchapter.
+
+ (B) The Health Officer and Sheriff shall have
+authority to administer oaths, certify all official acts,
+issue citations, subpoena and require the attendance
+of witnesses and production of relevant documents
+at hearings before the hearings officer and take te s-
+timony of any person by deposition.
+
+ (C) The Health Officer and Sheriff may adopt
+rules necessary for the administration and enforc e-
+ment of this subchapter.
+(Ord. 1095, Amended, 07/12/2007; ‘ 90 Code, § 7.20.030, 07/01/1998;
+Ord. 125, passed, 05/27/1976)
+
+OPEN PITS
+
+§ 15.250- DEFINITIONS.
+
+ For the purp ose of this subchapter, the follo w-
+ing definitions shall apply unless the context r e-
+quires a different meaning.
+
+ ADEQUATE SAFEGUARD.  The degree of
+protection which is afforded by such systems as
+chainlink fence not less than eight feet in height, or
+six feet surmounted by three strands of barbed wire.
+The safeguard may include plantings, walls or other
+means and may include access gates having the
+same protective characteristics if securely closed
+and locked during nonoperating hours. Fences shall
+comply with the applicable codes and ordinances of
+the county.
+
+ OPEN PIT. That part of an excavation created
+by the removal of material having a depth exceeding
+ten feet below adjacent natural ground, with a side
+slope steeper than two to one, whether containing
+water or not.
+
+ OPEN PIT NUISANCE.  The maintenance,
+whether operational or not, of an open pit without
+adequate safeguard.
+
+ OWNER. A person having legal title to real
+property in the county outside of incorporated cities.
+
+ PERSON IN CHARGE OF PROPERTY.  An
+agent, occupant, lessee, contract purchaser or person
+other than owner having possession or control of re-
+al property in the county outside of incorporated cit-
+ies.
+(‘ 90 Code, § 7.25.010, 07/01/1998; Ord. 61, passed, 09/14/1972)
+
+§ 15.251 POLICY AND CONSTRUCTION.
+
+ To protect the health, safety, and welfare of the
+people of the county, the Board has determined the
+necessity of providing a program for adequate saf e-
+guarding of open pit nuisances which constitute a
+hazard or menace to the public health and saf ety.
+This subchapter shall be liberally construed for the
+accomplishment of this purpose.
+(‘ 90 Code, § 7.25.020, 07/01/1998; Ord. 61, passed, 09/14/1972)
+
+§ 15.252 OPEN PIT NUISANCES
+PROHIBITED.
+
+ It shall be unlawful for any owner or person in
+charge of property in the county outside of incorp o-
+rated cities to maintain an open pit without adequate
+safeguard. The maintenance of that property is d e-
+clared to be an open pit nuisance.
+Penalty, see § 15.999
+(‘ 90 Code, § 7.25.030, 07/01/1998; Ord. 61, passed, 09/14/1972)
+         CHAPTER 15:  SHERIFF          21
+§ 15.253 INSPECTIONS.
+
+ The Sheriff shall conduct such inspections as
+the Sheriff considers necessary to ensure compli-
+ance with all provisions of this subchapter, and shall
+have right of entry at any reasonable hour to inves-
+tigate co mplaints and  to insure abatement of open
+pit nuisances as provided in this subchapter.
+(‘ 90 Code, § 7.25.060, 07/01/1998; Ord. 61, passed, 09/14/1972)
+
+§ 15.254 NOTICE.
+
+ (A) The Sheriff shall, if there is cause to find
+that an alleged open pit nuisance exists, provi de
+written notice to the owner and person in charge of
+the property of the existence of the alleged nuisance,
+and shall demand that the alleged nuisance be a bat-
+ed within 15 days from the date of the written n o-
+tice. The notice shall describe with reasonable  cer-
+tainty the property, the nature of the alleged nui-
+sance and the action necessary to abate the alleged
+nuisance.
+
+ (B) The Chair may order immediate abat ement
+if the Chair finds that the alleged nuisance poses e x-
+treme hazard to the public health or safety.
+(‘ 90 Code, § 7.25.070, 07/01/1998; Ord. 61, passed, 09/14/1972)
+
+§ 15.255 HEARING.
+
+ (A) The person in charge of the property, or the
+owner receiving a notice of abatement of an a lleged
+open pit nuisance may request a hearing b efore the
+Board by filin g a written request with the Board
+within five days from the date of notice of abat e-
+ment. Abatement action under § 15.254 shall be
+suspended upon the filing of the written request.
+
+ (B) The Board shall, upon receipt of written r e-
+quest for hearing, set a ti me and place for hearing
+upon its order, which shall not be more than ten
+days from the date of filing of request for a hearing,
+and shall so notify in writing the person requesting
+hearing. Persons considered by the Board to be i n-
+terested shall also be no tified. The owner or person
+in charge of the property may present evidence b e-
+fore the Board pertinent to the alleged nuisance and
+its abatement. The Sheriff shall also appear and pre-
+sent evidence pertinent to the alleged nuisance and
+its abatement. Failure of the person requesting hear-
+ing to appear at the hearing shall constitute a waiver
+of the right to a hearing.
+ (C) The Board shall, after the hearing, enter an
+order containing its findings as to whether the a l-
+leged open pit nuisance does in fact exist,  and may
+confirm or extend the time in which the nuisance is
+to be abated.
+(‘ 90 Code, § 7.25.080, 07/01/1998; Ord. 61, passed, 09/14/1972)
+
+§ 15.256 ABATEMENT BY COUNTY;
+COSTS; LIEN.
+
+ (A) If the nuisance has not been abated by the
+owner or person in charge of the property within the
+time allowed by this subchapter, the Board may, at
+the request of the Sheriff, cause the nu isance to be
+abated. Accurate records shall be kept of the total
+expense incurred by the county to abate the nui-
+sance. A billing for th e amount of costs shall be
+forwarded by registered mail to the owner or person
+in charge of the property for full payment. Payment
+shall be made to the county, in not less than 30 days
+from the date of registered mail.
+
+ (B) If the owner or person in charg e objects to
+the cost of abatement, the owner or person in charge
+may file a written protest with the Board within a
+period not to exceed ten days from the date of notice
+of the amount of cost of abatement. The Board shall
+set a time and place for hearing the objection, notify
+the objector of the time and place and make its d e-
+termination based upon evidence presented at the
+hearing. The Board's order of determination shall be
+final and binding.
+
+ (C) The Board shall file a lien against the pro p-
+erty when the practice constituting the nuisance was
+found to exist, when:
+
+  (1) Payment has not been made as provided
+in division (A) of this section; or
+
+  (2) When payment has not been made with-
+in 15 days of the order of the Board as provided in
+division (B) of this section.
+(‘ 90 Code, § 7.25.090, 07/01/1998; Ord. 61, passed, 09/14/1972)
+22 Multnomah County – Sheriff
+§ 15.257 OTHER LAWS APPLY.
+
+ This subchapter shall in no way be a substitute
+for nor eliminate the necessity of conforming with
+any and all state laws, rules and other county ordi-
+nances which are now, or may in the future be, in
+effect which relate to the public health or safety.
+(‘ 90 Code, § 7.25.100, 07/01/1998; Ord. 61, passed, 09/14/1972)
+
+§ 15.258 ADMINISTRATION AND
+ENFORCEMENT.
+
+ (A) The Sheriff shall be responsible for the a d-
+ministration and enforcement of this subchapter.
+
+ (B) The Board may adopt rules by resolution re-
+lating to the administration of this subchapter.
+(‘ 90 Code, § 7.25.040 & 7.25.050, 07/01/1998; Ord. 61, passed,
+09/14/1972)
+
+SOUND CONTROL
+
+§ 15.265- TITLE AND APPLICATION.
+
+ This subchapter shall be known and cited as the
+county Sound Control Law and shall apply within
+the unincorporated areas of the county.
+(‘ 90 Code, § 7.30.005, 07/01/1998; Ord. 316, passed, 06/10/1982)
+
+§ 15.266 DEFINITIONS.
+
+ For the pur pose of this subchapter, the follo w-
+ing definitions shall apply unless the context r e-
+quires a different meaning.
+
+ IDLING SPEED.  That speed at which an e n-
+gine will run when no pressure is applied to the a c-
+celerator or accelerator linkage.
+
+ NOISE SENSITIVE UNIT. Any building or
+portion thereof, vehicle, boat or other structure
+adapted or used for the overnight accommodation of
+persons, including, but not limited to individual re s-
+idential units, individual apartments, trailers, hospi-
+tals, and nursing homes.
+
+ PLAINLY AUDIBLE SOUND.  Any sound for
+which the information content of that sound is u n-
+ambiguously communicated to the listener, such as,
+but not limited to, understandable spoken speech,
+comprehension of whether a voice is raised or no r-
+mal, or comprehensible musical rhythms.
+ SOUND PRODUCING DEVICE.
+
+  (1) Loudspeakers, public address systems;
+
+  (2) Radios, tape recorders or tape players,
+phonographs, television sets, stereo systems, includ-
+ing those installed in a vehicle;
+
+  (3) Musical instruments, amp lified or u n-
+amplified;
+
+  (4) Sirens, bells;
+
+  (5) Vehicle engines or exhausts, when the
+vehicle is not on a public right -of-way, particularly
+when the engine is operating above idling speed;
+
+  (6) Vehicle tires, when caused to squeal by
+excessive speed or acceleration;
+
+  (7) Domestic tools, including electric drills,
+chain saws, lawn mowers, electric saws, hammers,
+and similar tools, but only between 10:00 p.m. and
+7:00 a.m. of the following day; and
+
+  (8) Heat pumps, air conditioning units, and
+refrigeration units, including those mounted on v e-
+hicles.
+
+ VEHICLE. Automobiles, motorcycles, moto r-
+bikes, trucks, buses, and snowmobiles.
+(‘ 90 Code, § 7.30.010, 07/01/1998; Ord. 316, passed, 06/10/1982)
+
+§ 15.267 FINDINGS AND POLICY.
+
+ (A) The Board has found that excessive sound
+can and does constitute a hazard to the health, saf e-
+ty, and welfare and quality of life of residents of the
+county.
+
+ (B) The Board has further determined that while
+certain activities essential to the economic, social,
+political, educational and technical advancements of
+the citizens of the county necessarily require the
+production of sounds which may offend, disrupt, i n-
+trude or otherwise create hardship among the cit i-
+zens, the Board is obliged to impose some limit a-
+tions and regulation upon the production of exce s-
+sive sound as will reduce the deleterious effects
+thereof.
+         CHAPTER 15:  SHERIFF          23
+ (C) It is therefore the policy of this Board to
+prevent and regulate excessive sound wherever it is
+deemed to be harmful to the health, safety, we lfare
+and quality of life of the citizens of the county. This
+subchapter shall be liberally co nstrued to effectuate
+that purpose.
+(‘ 90 Code, § 7.30.020, 07/01/1998; Ord. 316, passed, 06/10/1982)
+
+§ 15.268 SOUND MEASUREMENT.
+
+ (A) If measurements are made, they shall be
+made with a sound level meter. The sound level me-
+ter shall be an instrument in good operating cond i-
+tion, meeting the requirements of a type I or type II
+meter, as specified in ANSI standard 1.4 -1971. For
+purposes of this subchapter, a sound level meter
+shall contain at least an A -weighed scale, and both
+fast and slow meter response capability.
+
+ (B) If measurements are made, personnel ma k-
+ing those measurements shall have completed trai n-
+ing in the use of the sound level meter, and me as-
+urement procedures consistent  with that training
+shall be followed.
+
+ (C) Measurements may be made at or within the
+boundary of the property on which a noise se nsitive
+unit which is not the source of the sound is located,
+or within a noise sensitive unit which is not the
+source of the sound.
+
+ (D) All measurements made pursuant to this
+subchapter shall comply with the provisions of this
+section.
+(‘ 90 Code, § 7.30.040, 07/01/1998; Ord. 316, passed, 06/10/1982)
+
+§ 15.269 PROHIBITIONS.
+
+ It shall be unlawful for any person to produce or
+permit to be produced, with a sound producing d e-
+vice, sound which:
+
+ (A) When measured at or within the boundary
+of the property on which a noise sensitive unit
+which is not the source of the sound is located, or,
+within a noise sensitive unit which is not the source
+of the sound, exceeds:
+
+  (1) Fifty dBA at any time between 10:00
+p.m. and 7:00 a.m. the following day; or
+
+  (2) Sixty dBA at any time between 7:00
+a.m. and 10:00 p.m. the same day; or
+
+ (B) Is plainly audible at any time between 10:00
+p.m. and 7:00 a.m. the following day:
+
+  (1) Within a noise sensitive unit which is
+not the source of the sound; or
+
+  (2) On a public right -of-way at a distance
+of 50 feet or more from the source of the sound.
+
+ (C) If a measurement of the sound is made, d i-
+vision (A) of this section shall supersede division
+(B) of this section and shall be used to determine if
+a violation exists.
+Penalty, see § 15.999
+(‘ 90 Code, § 7.30.050, 07/01/1998; Ord. 316, passed, 06/10/1982)
+
+§ 15.270 EXCEPTIONS.
+
+ Notwithstanding § 15.269, the following exce p-
+tions from this subchapter are permitted:
+
+ (A) Sounds caused by organized athletic or ot h-
+er group activities, when those activities are co n-
+ducted on property generally used for those purpo s-
+es, including stadiums, parks, schools, churc hes,
+athletic fields, racetracks, airports and waterways,
+provided, however, that this exception shall not i m-
+pair the Sheriff's power to declare the event or activ-
+ities ot herwise to violate other laws, ordinances or
+regulations.
+
+ (B) Sounds caused by emer gency work, or by
+the ordinary and accepted use of emergency equi p-
+ment, vehicles and apparatus, whether or not the
+work is performed by a public or private agency,
+upon public or private property.
+
+ (C) Sounds caused by sources regulated as to
+sound production by federal law, including, but not
+limited to, sounds caused by railroad, aircraft or
+commercially licensed watercraft operations.
+
+ (D) Sounds caused by bona fide use of eme r-
+gency warning devices and alarm systems auth or-
+ized by this chapter.
+24 Multnomah County – Sheriff
+ (E) Sound caused by blasting activities when
+performed under a permit issued by appropriate
+governmental authorities and only between the
+hours of 9:00 a.m. and 4:00 p.m., excluding week-
+ends, u nless the permit expressly authorizes othe r-
+wise.
+
+ (F) Sounds caused by industrial, agricultural or
+construction organizations or workers during their
+normal operations.
+(‘ 90 Code, § 7.30.060, 07/01/1998; Ord. 316, passed, 06/10/1982)
+
+§ 15.271 VARIANCES.
+
+ (A) Any person who is planning the use of a
+sound producing device which may violate any pr o-
+vision of this subchapter may apply to the Sheriff
+for a variance from the provisions of this subcha p-
+ter.
+
+ (B) The application shall state the provision
+from which a variance is being sought, the period of
+time the variance is to apply, the reason for which
+the variance is sought and other supporting infor-
+mation which the Sheriff may reasonably require.
+
+ (C) The Sheriff shall consider:
+
+  (1) The nature and duration of the sound
+emitted;
+
+  (2) Whether the public health, safety or
+welfare is endangered;
+
+  (3) Whether compliance with the prov ision
+would produce no benefit to the public; and
+
+  (4) Whether previous permits have been i s-
+sued, and the applicant's record of compliance.
+
+ (D) A variance may be granted for a specific
+time interval only.
+
+ (E) The Sheriff shall, within ten days, deny the
+application, approve it, or approve it subject to co n-
+ditions.
+
+ (F) The Sheriff's decision may be appealed to
+the Board. Notice of appeal should be delivered to
+the clerk of the Board. The Bo ard shall review the
+application de novo, and within 15 days, deny the
+application, approve it, or approve it subject to co n-
+ditions.
+
+ (G) The Sheriff may, at any time before or du r-
+ing the operation of a variance granted by the Sh er-
+iff, revoke the variance  for good cause. The Board
+may, at any time before or during the operation of
+any variance, revoke the variance for good cause.
+(‘ 90 Code, § 7.30.070, 07/01/1998; Ord. 316, passed, 06/10/1982)
+
+§ 15.272 ADDITIONAL REMEDIES.
+
+ The provisions of this subchapter shall be cumu-
+lative and nonexclusive and shall not affect any ot h-
+er claim, cause of action or remedy. It is in add ition
+to existing legislation and common law on such sub-
+ject.
+(‘ 90 Code, § 7.30.080, 07/01/1998; Ord. 316, passed, 06/10/1982)
+
+§ 15.273 IMPOUNDMENT.
+
+ In addition to the penalties prescribed in §
+15.999, the court may order any sound producing
+device, found to have been used to violate this su b-
+chapter, seized, confiscated, and destroyed as co n-
+traband, or sold with the proceeds of sale to be de-
+posited in the county general fund.
+(‘ 90 Code, § 7.30.090, 07/01/1998; Ord. 316, passed, 06/10/1982)
+
+§ 15.274 ADMINISTRATION AND
+ENFORCEMENT.
+
+ (A) The Sheriff shall administer, supervise and
+perform all acts necessary to enforce this subcha p-
+ter.
+
+ (B) Persons appointed or assigned by the Sh er-
+iff, as he deems necessary to accomplish effective
+enforcement of this subchapter, may be peace offi c-
+ers or not, but if unsworn persons are selected and
+empowered to issue citations for violation of this
+subchapter, the Sheriff shall exercise powers under
+ORS 204.635.
+
+ (C) Upon citation of a person for a violation of
+this subchapter, the person issuing the citation may
+seize as evidence the sound producing device which
+was the source of the sound. The sound prod ucing
+device, if seized, shall be impounded subject to di s-
+position of the issued citation and d etermination by
+the court whether the sound pr oducing device shall
+         CHAPTER 15:  SHERIFF          25
+be returned to the cited person or deemed contr a-
+band, subject to § 15.999. It is the intent of  this sub-
+chapter to avoid such seizures except where the pe r-
+son being cited has received two previous citations
+within the previous six months for the use of the
+same or similar sound producing device. The pr evi-
+ous citations may, but need not, occur on the  same
+date as the citation which prompts the seizure.
+
+ (D) Citation forms authorized pursuant to ORS
+§§ 153.110 through 153.310 may be used for any
+violations under § 15.269.
+
+ (E) In addition to any other enforcement proc e-
+dures, the Board may, upon its o wn motion, or upon
+receipt of a petition requesting a hearing by the
+Board, signed by no fewer than ten persons residing
+in the vicinity of a property upon which is located an
+alleged violation of this subchapter, issue its o rder to
+the person producing or  permitting to be produced
+the sound which allegedly violates this subchapter, to
+appear before the Board and show cause why the
+Board should not declare the sound a violation of this
+subchapter and order the violation abated. Nonco m-
+pliance with the order may result in the Board refe r-
+ring the order to the County Attorney for i njunctive
+enforcement, or alternatively to the District Attorney
+for appropriate action.
+(‘ 90 Code, § 7.30.030, 07/01/1998; Ord. 316, passed, 06/10/1982)
+
+CHRONIC NUISANCE PROPERTY
+
+§ 15.285- DEFINITIONS.
+
+ For the purpose of this subchapter, the follo w-
+ing definitions shall apply unless the context r e-
+quires a different meaning.
+
+CHRONIC NUISANCE PROPERTY.
+
+  (1) Property on which three or more nui-
+sance activities exist or have occurred during any 60
+day period;
+
+  (2) Property on which or within 200 feet of
+which any person associated with the property has
+engaged in three or more nuisance activities du ring
+any 60 day period;
+
+  (3) Property which, upon request for execu-
+tion of a search warrant, has been the subject of a
+determination by a court that probable cause that
+possession, manufacture, or delivery of a controlled
+substance or related offenses as defined in ORS
+167.203, 475.005 through 475.285 or ORS 475.940
+through 475.999 has oc curred within the previous
+60 days, and the Sheriff has determined that the
+search warrant was based on evidence of continuous
+or repeated nuisance activities at the property;
+
+  (4) Property which, upon request for execu-
+tion of a search warrant, has been the subject of a
+determination by a court that probable cause that
+prostitution, promoting prostitution, or compelling
+prostitution as defined in ORS 167.002 through
+167.027 has occurred within the previous 60 days,
+and the Sheriff has determined that the search war-
+rant was based on evidence of continuous or r epeat-
+ed nuisance activities at the property; or
+
+  (5) Property on which continuous or r e-
+peated NUISANCE ACTIVITIES as defined in d i-
+visions (7), (8), (13) or (14) of that definition e xist
+or have occurred.
+
+ CONTROL. The ability to regulate, restrain,
+dominate, counteract or govern property or co nduct
+that occurs on a property.
+
+ NUISANCE ACTIVITIES. Any of the follo w-
+ing activities, behaviors or conduct:
+
+  (1) Harassment as defined in ORS 166.065;
+
+  (2) Intimidation as defined in ORS 166.155
+through 166.165;
+
+  (3) Disorderly conduct as defined in ORS
+166.025;
+
+  (4) Assault or menacing as defined in ORS
+163.160 through 163.190;
+
+  (5) Sexual abuse, contributing to the deli n-
+quency of a minor, or sexual  misconduct as defined
+in ORS.163.415 through 163.445;
+
+  (6) Public indecency as defined in ORS
+163.465;
+
+  (7) Prostitution or related offenses as d e-
+fined in ORS 167.007 through 167.017;
+26 Multnomah County – Sheriff
+  (8) Alcoholic liquor violations as defined in
+ORS 471.105 through 471.482;
+
+  (9) Offensive littering as defined in ORS
+164.805;
+
+  (10)  Criminal trespass as defined in ORS
+164.243 through 164.265;
+
+  (11)  Theft as defined ORS 164.015
+through 164.140;
+
+  (12)  Arson or related offenses as defined
+in ORS 164.315 through 164.335;
+
+  (13)  Possession, manufacture, or del iv-
+ery of a controlled substance or related offenses as
+defined in ORS 167.203 through 167.212, ORS
+167.262, ORS 475.005 through 475.285, or ORS
+475.940 through 475.999;
+
+  (14)  Illegal gambling offenses as defined
+in ORS 167.117, or ORS 167.122 through 167.137;
+
+  (15)  Criminal mischief as defined in
+ORS 164.345 through 164.365;
+
+  (16)  Any attempt to commit, as defined
+in ORS 161.405, or conspiracy to commit, as d e-
+fined in ORS 161.450, any of the above activities,
+behaviors or conduct;
+
+  (17)  Sound control violations defined
+this chapter; or
+
+  (18)  Curfew violations as defined in this
+chapter.
+
+ PERSON ASSOCIATED WITH.  Any person
+who, on the occasion of a nuisance activity, has e n-
+tered, patronized, v isited or attempted to enter, p at-
+ronize or visit, or waited to enter, patronize or visit a
+property or person present on a property, inclu ding
+without limitation any officer, director, customer,
+agent, employee, or any independent co ntractor of a
+property, person in charge, or owner thereof.
+
+ PERSON IN CHARGE.  Any person in actual
+or constructive possession of a property, including
+but not limited to an owner or occupant or property
+under their dominion, ownership or control.
+ PROPERTY. Any property, inclu ding land
+and that which is affixed, incidental or appurtenant
+to land, including but not limited to any bus iness
+or residence, parking area, loading area, landsca p-
+ing, building or structure or any separate part, unit
+or portion thereof, or any business eq uipment,
+whether or not permanent. For property consisting
+of more than one unit, property may be limited to
+the unit or the portion of the property on which
+any nuisance activity has occurred or is occurring,
+but includes areas of the property used in com mon
+by all units of the property including without lim i-
+tation other stru ctures erected on the property and
+areas used for parking, loading and landscaping.
+(Ord. 1272, Amended, 06/06/2019; Ord. 894, passed, 12/18/1997)
+
+§ 15.286 VIOLATIONS.
+
+ (A) Any prope rty determined by the Sheriff to
+be chronic nuisance property is in violation of this
+subchapter and subject to its remedies.
+
+ (B) Any person in charge of property dete r-
+mined by the Sheriff to be a chronic nuisance pro p-
+erty is in violation of this subchap ter and subject to
+its remedies.
+Penalty, see § 15.999
+(Ord. 894, passed, 12/18/1997)
+
+§ 15.287 ABATEMENT PROCEDURE.
+
+ (A) Notice.
+
+  (1) When the Sheriff receives two or more
+police reports documenting the occurrence of nui-
+sance activities on or within 20 0 feet of a pro perty,
+the Sheriff shall independently review such r eports
+to determine whether they describe the activities,
+behavior or conduct enumerated under the definition
+of nuisance activities in § 15.285. Upon such a fin d-
+ing, the Sheriff may notify  the person in charge and
+occupant in writing that the property is in da nger of
+becoming chronic nuisance property. The notice
+shall contain the following information:
+
+   (a) The street address or a legal d e-
+scription sufficient for identification of the property;
+
+   (b) A statement that the Sheriff has i n-
+formation that the property may be chronic nuisance
+property, with a concise description of the nuisance
+activities that exist or that have occurred;
+         CHAPTER 15:  SHERIFF          27
+   (c) An offer that the person in charge
+propose a course of action to abate the nuisance a c-
+tivities; and
+
+   (d) A demand that the person in charge
+respond to the Sheriff within ten days.
+
+  (2) When the Sheriff receives a police r e-
+port documenting the occurrence of additional nui-
+sance activity on or within 200 feet of a property af-
+ter notice as provided in division (A)(1); or in the
+case of chronic nuisance property as defined in §
+15.285, divisions (3) through (5) of that definition,
+for which notice under division (A)(1) of this se c-
+tion is not required; t he Sheriff shall notify the pe r-
+son in charge and occupant of property in writing
+that the property has been determined to be a chro n-
+ic nuisance property. The notice shall contain the
+following information:
+
+   (a) The street address or a legal d e-
+scription sufficient for identification of the property;
+
+   (b) A statement that the Sheriff has d e-
+termined the property to be a chronic nuisance prop-
+erty, with a concise description of the nuisance a c-
+tivities leading to the determination; and
+
+   (c) A demand that the person in charge
+respond to the Sheriff within ten days and propose a
+course of action to abate the nuisance activities.
+
+  (3) Service of the notice described in div i-
+sions (A)(1) and (A)(2) shall be made either pers on-
+ally or by first class mail, postage prepaid, return re-
+ceipt requested, addressed to the person in charge at
+the address of the property which may be or which
+has been determined to be a chronic nuisance prop-
+erty or at such other place which is likely to give
+nuisance property or at such other place which is
+likely to give the person in charge notice of the
+Sheriff's information or determination.
+
+  (4) A copy of the notice described in div i-
+sions (A)(1) and (A)(2) shall be served on the owner
+at the address shown on the county tax rolls an d/or
+on the occupant at the address of the property, if
+these persons are different than the person in charge,
+and service shall be made either personally or by
+first class mail, postage prepaid.
+
+  (5) A copy of the notice described in div i-
+sions (A)(1) an d (A)(2) shall also be posted at the
+property if ten days has elapsed from the service or
+mailing of the notice to the person in charge, and the
+person in charge has not contacted the Sheriff.
+
+  (6) The failure of any person to receive n o-
+tice as provided by this division (A) shall not invali-
+date or otherwise affect the proceedings under this
+subchapter.
+
+ (B) Response or failure to respond.
+
+  (1) If the person in charge fails to r espond
+as required by division (A)(2)(c), the Sheriff may
+refer the matter to County Attorney.
+
+  (2) If the person in charge responds as r e-
+quired by division (A)(2)(c), and agrees with the
+Sheriff on a course of action to abate the nuisance
+activities, the Sheriff may postpone referring the
+matter to County Attorney. If an agreed  course of
+action does not result in the abatement of the nui-
+sance activities, or if no agreement concerning
+abatement is reached within 60 days of the initial re-
+sponse, the Sheriff may refer the matter to County
+Attorney.
+
+  (3) When a person in charge ma kes a r e-
+sponse to the Sheriff as required divisions (A)(1)(d)
+and (A)(2)(c), any conduct or statements made in
+connection with the furnishing of that response shall
+not constitute an admission that any nuisance activi-
+ties have occurred or are occurring. Th is section
+does not require the exclusion of evidence which is
+otherwise admissible or is offered for any other pu r-
+pose.
+(Ord. 894, passed, 12/18/1997)
+
+§ 15.288 COMMENCEMENT OF ACTIONS;
+REMEDIES; BURDEN OF PROOF.
+
+ (A) County Attorney may commence legal p ro-
+ceedings in circuit court to abate chronic nuisance
+property and to seek closure, the imposition of civil
+penalties against any or all the persons in charge,
+and any other relief deemed appropriate.
+
+ (B) If the court determines property to be chron-
+ic nu isance property, the court shall order that the
+property be closed and secured against all access,
+28 Multnomah County – Sheriff
+use and occupancy for a period of not less than six
+months, nor more than one year. The order shall be
+entered as part of the final judgment. The court shall
+retain jurisdiction during any period of closure.
+
+ (C) (1) If the court determines a property to be
+chronic nuisance property, the court may impose e i-
+ther:
+
+   (a) A civil penalty of up to $100 per
+day for each day following the notice furnished pu r-
+suant to § 15.287(A)(2) when nuisance activities oc-
+curred on or within 200 feet of the property; or
+
+   (b) The cost to the county to abate the
+nuisance activities at the property, whichever is
+greater.
+
+  (2) The amount of the civil penalty shall be
+assessed against the person in charge and/or the
+property and may be included in the county's money
+judgment.
+
+ (D) If satisfied of the good faith of the person in
+charge, the court shall not award civil penalties if
+the court finds that the person in charge at all  mate-
+rial times could not, in the exercise of reasonable
+care or diligence, determine that the property had
+become chronic nuisance property.
+
+ (E) In establishing the amount of any civil p en-
+alty, the court may consider any of the following
+factors and shall cite those found applicable:
+
+  (1) The motions taken by the person in
+charge to mitigate or correct the nuisance activities
+at the property;
+
+  (2) The financial condition of the person in
+charge;
+
+  (3) Repeated or continuous nature of the
+problem;
+
+  (4) The magnitude or gravity of the pro b-
+lem;
+
+  (5) The cooperativeness of the person in
+charge with the county;
+
+  (6) The cost to the county of investiga ting
+and correcting or attempting to correct the nu isance
+activities; and
+
+  (7) Any other factor deemed relevant by the
+court.
+ (F) The county shall have the initial burden of
+proof to show by a preponderance of the evidence
+that the property is chronic nuisance property.
+
+ (G) Evidence of the general reputation of a
+property or of the general reputatio n of persons r e-
+siding in or frequenting the property shall be a dmis-
+sible.
+(Ord. 894, passed, 12/18/1997)
+
+§ 15.289 SUMMARY CLOSURE.
+
+ Any summary closure proceeding shall be based
+on evidence showing that nuisance activities exist or
+have occurred on the p roperty and that emergency
+action is necessary to avoid an immediate threat to
+public welfare and safety. Proceedings to obtain an
+order of summary closure shall be governed by the
+provisions of Oregon Rules of Civil Procedure 79
+for obtaining temporary re straining orders. In the
+event of summary closure, the county is not required
+to comply with the notice procedures set forth in §
+15.287(A).
+(Ord. 894, passed, 12/18/1997)
+
+§ 15.290 ENFORCEMENT.
+
+ (A) Costs of securing property.
+
+  (1) The court may author ize the county to
+secure the property against all access, use or occ u-
+pancy in the event the person in charge fails to do so
+within the time specified by the court. In the event
+that the county is authorized to secure the property,
+the county shall recover all costs reasonably i n-
+curred in doing so.
+
+  (2) The county shall prepare a statement of
+costs and shall thereafter submit it to the court for
+review, as provided in Oregon Rule of Civil Proc e-
+dure 68.
+         CHAPTER 15:  SHERIFF          29
+ (B) Relocation costs.
+
+  (1) The person in charge sh all pay reasona-
+ble relocation costs of a tenant as defined by ORS
+90.100(28) if, without actual notice, the tenant
+moved into the property after either:
+
+   (a) A person in charge received notice
+of the Sheriff's determination pursuant to §
+15.287(A)(2); or
+
+  (2) A person in charge received notice of an
+action brought pursuant to § 15.289.
+
+ (C) Lien against property, penalties, costs, i n-
+terest.
+
+  (1) A lien shall be created against the pro p-
+erty for the amount of the county's money judgment.
+
+  (2) In addition, any person who is a ssessed
+penalties under § 15.288(C) or costs under division
+(A) of this section shall be personally liable for
+payment thereof to the county.
+
+  (3) Judgments imposed pursuant to this
+subchapter shall bear interest at the statutory rate.
+
+ (D) Attorney fees. The court may award attorney
+fees to the prevailing party.
+(Ord. 894, passed, 12/18/1997)
+
+SECONDHAND DEALERS
+
+§ 15.300- TITLE AND SCOPE.
+
+ This subchapter shall be known and cited as the
+county Occasional Secondhand Dealers an d
+Secondhand Dealers Law.
+(‘ 90 Code, § 6.81.005, 07/01/1998; Ord. 647, passed, 03/22/1990)
+
+§ 15.301 PURPOSE.
+
+ The Board's purpose in adopting this subchapter
+is to strictly regulate certain business activities that
+present an extraordinary risk of being  used to co n-
+ceal criminal behavior, including the theft of proper-
+ty. The Board finds that this risk is present despite
+the best efforts of legitimate businesses, because
+these businesses process large volumes of goods and
+materials that are frequently the subject of theft.
+This subchapter is intended to reduce this type of
+criminal activity by providing more timely police
+awareness of such property transactions, and by
+regulating the conduct of persons engaged in this
+business activity. The Board finds that  these regula-
+tions are necessary and the need for the regulations
+outweighs any anti -competitive effect that may r e-
+sult from their adoption.
+(‘ 90 Code, § 6.81.010, 07/01/1998; Ord. 647, passed, 03/22/1990)
+
+§ 15.302 DEFINITIONS.
+
+ As used in this subchapt er, unless the context
+requires otherwise:
+
+ ACCEPTABLE IDENTIFICATION.  Either a
+valid driver's license, or two pieces of identification
+issued by a government agency, one of which shall
+include a physical description and a photograph of
+the person from wh om the secondhand goods are
+being purchased.
+
+ CRIMINAL ARRESTS OR CONVICTIONS.
+Any offense defined by the statutes of the state or
+ordinances of the county, unless otherwise specified.
+Any arrest or conviction for conduct other than that
+denoted by the st atutes of the state or ordinances of
+the county, as specified herein, shall be considered
+to be equivalent to one of such offenses if the el e-
+ments of such offense for  which the person  was ar-
+rested or convicted would  have constituted one of
+the above offenses under the applicable state statutes
+or the county ordinance provisions.
+
+ INVESTMENT PURPOSES.  The purchase of
+personal property by businesses, and the retention of
+that property in the same form as purchased, for r e-
+sale to persons who are purchasing th e property
+primarily as an investment.
+
+ OCCASIONAL SECONDHAND DEALER.
+Any person:
+
+  (1) Who engages in, conducts, manages or
+carries on a business as defined by § 11.504;
+
+  (2) Who purchases or offers for sale no
+more than 50 items of regulated property  in any
+one-year period; and
+30 Multnomah County – Sheriff
+  (3) Who purchases regulated property at or
+from premises located within the county, or on b e-
+half of such a business regardless of where the pu r-
+chase occurs.
+
+ PURCHASE. To take or transfer any interest in
+personal property in a voluntary transaction, includ-
+ing but not limited to the following: sales, consig n-
+ments, leases, trade-ins, loans or any transfer involv-
+ing a condition of selling the property back at a stip-
+ulated price in the future. PURCHASE does not in-
+clude any loans made in compliance with state laws
+by pawnbrokers licensed by the state.
+
+ REGULATED PROPERTY.
+
+  (1) Any of the following property which is
+used or secondhand:
+
+   (a) Precious metals including but not
+limited to the following: any metal that is valued f or
+its character, rarity, beauty or quality, including
+gold, silver, platinum or any other metals, whether
+as a separate item or in combination as a piece of
+jewelry;
+
+   (b) Precious gems including but not
+limited to the following: any gem that is va lued for
+its character, rarity, beauty or quality, including d i-
+amonds, rubies, emeralds, sapphires or pearls, or
+any other such precious or semiprecious gems or
+stones, whether as a separate item or in combination
+as a piece of jewelry;
+
+   (c) Watches and jewe lry containing
+precious metals or precious gems including but not
+limited to the following: rings, necklaces, pendants,
+earrings, brooches, chains, pocket watches, wrist
+watches, or stop watches;
+
+   (d) Sterling silver including but not
+limited to the fol lowing: flatware, candleholders,
+coffee and tea sets, or ornamental objects;
+
+   (e) Audio equipment including but not
+limited to the following: tape players, tape decks or
+players, compact/digital disc players, sound mete r-
+ing devices, tuners, amplifiers, speakers, transceiv-
+ers, equalizers, receivers, phonographs, turntables,
+stereos, radios, clock radios, car stereos, car spea k-
+ers, radar detectors, or citizen band r adi-
+os/transceivers;
+
+   (f) Video equipment including but not
+limited to the following: color televisions, black and
+white televisions, videotape or videodisc recorders,
+videotape or videodisc players, video cameras, or
+video monitors;
+
+   (g) Photographic and optical equipment
+including but not limited to the follo wing: cameras,
+camera lenses, c amera filters, camera motor drives,
+light meters, flash equipment, movie projectors,
+slide projectors, photography processing equipment,
+photography enlarging equipment, binoculars, tel e-
+scopes, opera glasses, microscopes, surveying
+equipment, rifle scopes, spotting scopes, or electron-
+ic sighting equipment;
+
+   (h) Electrical office equipment inclu d-
+ing but not limited to the following: telefax m a-
+chines, laser printers, copiers, duplicators, typewr it-
+ers, calculators, cash registers, transcribers, dict a-
+phones, computers, home computers, modems,
+monitors, or any computer equipment or access o-
+ries;
+
+   (i) Power yard and garden tools includ-
+ing but not limited to the following: garden tra ctors,
+lawn mowers, rototillers, lawn sweepers, weed or
+brush cutters, edgers, trimmers, or blowers;
+
+   (j) Power equipment and tools inclu d-
+ing but not limited to the following: air hammers, air
+tools, nail guns, power staplers, power saws, power
+sanders, chainsaws, power planers, power drills,
+routers, lathes, joiners, shop vacuums, paint sprayers
+and accessory equipment, generators, air compre s-
+sors, pressure washers, or logging equipment;
+
+   (k) Automotive hand tools including
+but not limited to the following: wrench sets, socket
+sets, screwdriver sets, pliers, vise grips, tool b oxes,
+auto body hammers, jacks, or timing lights;
+
+   (l) Telephones or telephone equi pment
+limited to office telephones, portable home tel e-
+phones, mobile telephones, cellular telephones, or
+answering machines;
+         CHAPTER 15:  SHERIFF          31
+   (m) Musical instruments inclu ding but
+not limited to the following: pianos, organs, guitars,
+violins, cellos, trumpets, trombones, saxophones,
+flutes, drums, percussion instruments, or electronic
+synthesizers;
+
+   (n) Firearms including but not limited
+to the following: rifles, shotguns, hand guns, revolv-
+ers, pellet guns, or BB guns;
+
+   (o) Sporting equipment limited to b icy-
+cles, golf clubs, skis, and ski boots; and
+
+   (p) Outboard motors, props, and ou t-
+drives.
+
+  (2) The term REGULATED PROPERTY
+does not include any of the following property:
+
+   (a) Vehicles required to be re gistered
+with the state Motor Vehicles Division;
+
+   (b) Boats required to be certified by the
+state Marine Board;
+
+   (c) Books;
+
+   (d) Glassware;
+
+   (e) Furniture;
+
+   (f) Refrigerators, stoves, washers, dry-
+ers and other similar major household appliances;
+
+   (g) Property which is purchased by a
+bona fide business for investment pu rposes, limited
+to the following:
+
+    1. Gold bullion bars (0.995 fine or
+better);
+
+    2. Silver bullion bars (0.995 fine
+or better);
+
+    3. All tokens, coins, or money,
+whether commemorative or an actual medium of
+exchange adopted by a domestic or foreign gover n-
+ment as part of its currency; or
+
+    4. Postage stamps, stamp colle c-
+tions and philatelic items.
+ SECONDHAND DEALER. Any person:
+
+(1) Who engages in, conducts, manages or
+carries on a business as defined by § 11.504; and
+
+  (2) Who purchases or offers for sale 51 or
+more items of regulated property in any one -year
+period; and
+
+  (3) Who purchases regulated property at or
+from business premises located within the county, or
+on behalf of such a business regardless of where the
+purchase occurs.
+(‘ 90 Code, § 6.81.020, 07/01/1998; Ord. 647, passed, 03/22/1990)
+
+§ 15.303 PERMIT REQUIRED.
+
+ (A) No person shall engage in, conduct or carry
+on an o ccasional secondhand dealer business or a
+secondhand dealer business in the county without a
+valid occasional secondhand dealer permit or a valid
+secondhand dealer permit issued by the Sheriff.
+
+ (B) Upon purchasing 50 items of regulated
+property during an y one-year period, an occasional
+secondhand dealer shall apply for and obtain a
+secondhand dealer permit before purchasing any
+more items of regulated property.
+
+ (C) Any person who advertises or otherwise
+holds themselves out to be purchasing regulated
+property within the county shall be presumed to be
+operating a business subject to the terms of this su b-
+chapter.
+Penalty, see § 15.999
+(‘ 90 Code, § 6.81.030, 07/01/1998; Ord. 647, passed, 03/22/1990)
+
+§ 15.304 APPLICATION FOR PERMIT.
+
+ (A) An application fo r an occasional
+secondhand dealer's permit or a secondhand dealer's
+permit shall set forth the following information:
+
+  (1) The name, address, telephone nu mber,
+birth date and principal occupation of the appl icant
+and any other person who will be directly  engaged
+or employed in the management or operation of the
+business or the proposed business;
+32 Multnomah County – Sheriff
+  (2) The name, address and telephone nu m-
+ber of the business or proposed business and a d e-
+scription of the exact nature of the business to be
+operated;
+
+  (3) Written proof that the applicant is at
+least 18 years of age;
+
+  (4) The applicant's business occupation or
+employment for the three years immediately preced-
+ing the date of application;
+
+  (5) The business permit history of the a p-
+plicant in operating a business identical to or similar
+to those regulated by this subchapter;
+
+  (6) A brief summary of the applicant's
+business history in the county or in any other city,
+county or state including:
+
+   (a) The business license or permit hi s-
+tory of the applicant; and
+
+   (b) Whether the applicant has ever had
+any license or permit revoked or suspended, the re a-
+sons therefor, and the business activity or occup a-
+tion of the applicant subsequent to the suspension or
+revocation;
+
+  (7) If the business or proposed business i s
+the undertaking of a sole proprietorship, partnership
+or corporation:
+
+   (a) If a partnership, the application
+shall set forth the names, birth dates, addresses, te l-
+ephone numbers, principal occupations, along with
+all other information required of any individual ap-
+plicant of each partner, whether general, limited, or
+silent, and the respective ownership shares owned
+by each;
+
+   (b) If a corporation, the application
+shall set forth the corporate name, copies of the a rti-
+cles of incorporation and the corp orate bylaws, and
+the names, addresses, birth dates, telephone nu m-
+bers, and principal occupations, along with all other
+information required of any individual applicant, of
+every officer, Sheriff and shareholder (owning more
+than 5% of the outstanding shar es) and the number
+of shares held by each;
+  (8) Any criminal arrests or convictions r e-
+lating to fraud or theft of each applicant and all na t-
+ural persons enumerated in divisions (A)(1) through
+(7) of this section; and
+
+  (9) Any other information which the Sheriff
+may reasonably feel is necessary to acco mplish the
+goals of this subchapter.
+
+ (B) The personal and business information co n-
+tained in the application forms required pursuant to
+this section shall be treated as confidential and e x-
+empted from disclo sure to the maximum extent
+permitted by law.
+(‘ 90 Code, § 6.81.040, 07/01/1998; Ord. 647, passed, 03/22/1990)
+
+§ 15.305 ISSUANCE AND RENEWAL OF
+PERMIT.
+
+ (A) Upon the filing of an application for an o c-
+casional secondhand dealer or secondhand dealer
+permit and payment of the required fee, the Sheriff
+shall conduct an investigation of the applicant. The
+Sheriff shall issue such permit within 90 days of r e-
+ceiving a complete application if no cause for denial
+as noted herein exists.
+
+ (B) The Sheriff shall den y an application for an
+occasional secondhand dealer's permit or a
+secondhand dealer's permit if:
+
+  (1) The applicant, or any other person who
+will be directly engaged in the management or oper-
+ation of the business, or any person who owns a 5%
+or more int erest in the business has previously
+owned or operated a business regulated by this su b-
+chapter; and
+
+   (a) The license or permit for the bus i-
+ness has been revoked for cause which would be
+grounds for revocation pursuant to this subchapter;
+
+   (b) The bu siness has been found to
+constitute a public nuisance and abatement has been
+ordered; or
+
+   (c) Any of the persons i nvolved in the
+business has been convicted of any criminal offense
+noted in §§ 15.304(A)(8) or 15.312; or
+         CHAPTER 15:  SHERIFF          33
+  (2) The operation as proposed by the appli-
+cant would not comply with all applicable requir e-
+ments of this code including building, health, pla n-
+ning, zoning and fire requirements.
+
+  (3) Any statement in the application is
+found to be false or any required information is
+withheld.
+
+  (4) Any employee is found to have commit-
+ted any criminal offense relating to fraud or theft
+and the offense either occurred on the premises of
+the business subject to the permit or was connected
+in a time and manner with the operation of the bus i-
+ness so that the person(s) in charge of such business
+knew, or should reasonably have known, that such
+violation(s) would occur.
+
+  (5) Evidence exists to support a finding that
+either:
+
+   (a) The location of the business for
+which the application has been filed has a  history of
+violations of the provisions of this subchapter; or,
+
+   (b) A statistically significant record e x-
+ists of criminal offenses relating to fraud or theft in
+the area located within 500 feet of the premises.
+
+  (6) The operation does not comply wit h ap-
+plicable federal or state licensing requirements.
+
+ (C) Notwithstanding division (B) of this section,
+the Sheriff may grant a permit with the concurrence
+of the Sheriff despite the presence of one or more of
+the enumerated factors if the applicant establishes to
+the Sheriff's satisfaction that:
+
+  (1) The behavior evidenced by such fa ctor
+is not likely to recur;
+
+  (2) The behavior evidenced by such fa ctor
+is remote in time; and
+
+  (3) The behavior evidenced by such fa ctor
+occurred under circumstances w hich diminish the
+seriousness of the factor as it relates to the pu rpose
+of this subchapter.
+
+ (D) Occasional secondhand dealer permits and
+secondhand dealer permits shall be for a term of one
+year and shall expire on the anniversary of their i s-
+suance. The  permits shall be nontransferable and
+shall be valid only for a single location. When the
+business location is to be changed, the permit holder
+shall provide the address of the new location in writ-
+ing to the Sheriff for approval at least ten days prior
+to such change.
+
+ (E) All occasional secondhand and secondhand
+dealer permits shall be displayed on the business
+premises in a manner readily visible to patrons.
+
+ (F) (1) The Sheriff, upon denial of an applic a-
+tion for an occasional secondhand dealer's permit  or
+a secondhand dealer's permit, shall give the appl i-
+cant written notice of the denial by causing notice to
+be served upon the applicant at the business or res i-
+dence address listed on the application.
+
+  (2) Service of the notice shall be acco m-
+plished eit her by mailing the notice by certified
+mail, return receipt requested, or at the option of the
+Sheriff, by personal service in the same manner as a
+summons served in an action at law.
+
+  (3) Refusal of the service by the person
+whose permit is denied shall  be prima facie ev i-
+dence of receipt of the notice. Service of notice up-
+on the person in charge of a business during its
+hours of operation shall constitute prima facie ev i-
+dence of notice to the person holding the permit to
+operate the business.
+
+  (4) The denial shall be effective and final
+the date the notice is received by applicant as ev i-
+denced by the return receipt or the return of service.
+
+ (G) Denial of a permit may be appealed to the
+Board by filing written notice of an appeal with the
+clerk of the Board within ten days of the date of de-
+nial, in accordance with § 15.314.
+(‘ 90 Code, § 6.81.050, 07/01/1998; Ord. 647, passed, 03/22/1990)
+34 Multnomah County – Sheriff
+§ 15.306 PERMIT FEES.
+
+ (A) Every person engaged in, conducting or car-
+rying on an occasional secondhand dealer busi ness
+shall:
+
+  (1) For an occasional secondhand dealer's
+permit, file an application within 60 days of the e f-
+fective date of this subchapter with the Sheriff and
+pay a nonrefundable fee in an amount set by Board
+resolution.
+
+  (2) For renewal of an occasio nal
+secondhand dealer's permit, shall pay a nonrefund a-
+ble fee in an amount set by Board resolution.
+
+ (B) Every person engaged in, conducting or car-
+rying on a secondhand dealer's business shall:
+
+  (1) File an application within 60 days of the
+effective date of this subchapter with the Sheriff and
+pay a nonrefundable fee in an amount set by Board
+resolution. The Sheriff shall allow occasional
+secondhand dealer application fee against the charge
+for the secondhand dealer application fee.
+
+  (2) For renewal o f a secondhand dealer's
+permit, pay a nonrefundable fee in an amount set by
+Board resolution.
+(‘ 90 Code, § 6.81.060, 07/01/1998; Ord. 647, passed, 03/22/1990)
+
+§ 15.307 SUBSEQUENT LOCATIONS.
+
+ (A) The holder of a valid occasional secondhand
+dealer's permit or a secondhand dealer's permit shall
+file an application for a permit for an additional l o-
+cation with the Sheriff and shall not be required to
+pay any fee provided the information required for
+the subsequent location is identical to that provided
+in the application for the prior location with the e x-
+ception of that required by § 15.304(A)(6).
+
+ (B) Permits issued for subsequent locations
+shall be subject to all the requirements of this su b-
+chapter, and the term of any permit issued for a su b-
+sequent location shall expire on the same date as the
+initial permit.
+(‘ 90 Code, § 6.81.070, 07/01/1998; Ord. 647, passed, 03/22/1990)
+
+§ 15.308 SELLER IDENTIFICATION;
+PURCHASE REPORT FORMS.
+
+ (A) The Sheriff shall provide all occasional
+secondhand dealers and secondhan d dealers with
+purchase report forms at cost. The Sheriff may spec-
+ify the size, shape and color of the purchase report
+form. The Sheriff may require the purchase repor t-
+forms to provide any information relating to the
+regulations of this subchapter. Occasi onal
+secondhand dealers and secondhand dealers may
+utilize their own forms, in lieu of those supplied by
+the Sheriff, if such forms have been approved by the
+Sheriff.
+
+ (B) (1) When purchasing regulated property,
+occasional secondhand dealers and secondhan d
+dealers shall obtain acceptable identification and a
+current residential address from the seller.
+
+  (2) All occasional secondhand dealers and
+secondhand dealers shall write a description of the
+purchased property upon a purchase report form at
+the time of purchasing any item of regulated proper-
+ty. The description of the purchased property shall
+be as called for by the purchase report form. All o c-
+casional secondhand dealers and secondhand dealers
+shall fill in all of the blank spaces on the purchase
+report forms with the data required by the form and
+require the person selling any regulated property to
+sign their name on the form. All purchase r eport
+forms shall be filled out in clearly legible, printed
+English.
+
+  (3) The information required to be fu r-
+nished on purchase report forms is to assist in the
+investigation of the theft of property. The infor-
+mation is of a confidential nature and related to the
+personal privacy of persons doing business with the
+dealer, as well as certain trade secrets and practic es
+of occ asional secondhand dealers and secondhand
+dealers. The information shall be treated as conf i-
+dential and exempt from disclosure to the maximum
+extent possible under applicable laws.
+
+ (C) All occasional secondhand dealers and
+secondhand dealers shall mail or deliver to the Sher-
+iff at the close of each business day the original and
+second copy of all report forms describing articles
+purchased that business day.
+         CHAPTER 15:  SHERIFF          35
+ (D) The third copy of all completed report
+forms shall be retained by occasional secondh and
+dealers and secondhand dealers for a period of not
+less than one year from the date of purchase on their
+business premises.
+Penalty, see § 15.999
+(Ord. 1272, Amended, 06/06/2019; ‘ 90 Code, § 6.81.080, 07/01/1998;
+Ord. 647, passed, 03/22/1990)
+
+§ 15.309 SALE LIMITATIONS.
+
+ (A) No regulated property purchased by any o c-
+casional secondhand dealer or secondhand dealer
+shall be sold for a period of 15 full days after the
+date of purchase. The dealer shall maintain the pu r-
+chased property in substantially the s ame form as
+purchased and shall not commingle the property to
+preclude identification during this 15 -day holding
+period. The purchased property shall be located on
+the business premises during normal business hours
+during this holding period so that it can be inspected
+as provided in § 15.311. Notwithstanding this r e-
+quirement, the Sheriff may authorize the sale or
+transfer of an item of purchased regulated property
+before the expiration of this period, in cases in
+which the dealer shows that extreme financi al hard-
+ship will result from holding such property for the
+15-day period.
+
+ (B) The Sheriff may provide written notice, up-
+on reasonable belief that the purchased property is
+the subject of theft, to any occasional secondhand
+dealer or secondhand dealer not  to dispose of any
+specifically described property purchased. The deal-
+er shall retain the property in substantially the same
+form as purchased. The dealer shall not sell, e x-
+change, dismantle or otherwise dispose of the pro p-
+erty for a period of time, as det ermined by the Sher-
+iff, not to exceed 180 days from the date of pu r-
+chase.
+
+ (C) If an occasional secondhand dealer or
+secondhand dealer purchases regulated property
+with serial numbers, personalized inscriptions or ini-
+tials, or other identifying marks whic h are or have
+been altered, obliterated, removed, or otherwise
+rendered illegible, the occasional secondhand dealer
+or secondhand dealer shall hold such property on the
+business premises for a period of 90 full days after
+purchase. The dealer shall maintai n the purchased
+regulated property in substantially the same form as
+purchased and shall not commingle the property so
+as to preclude identification during this 90-day hold-
+ing period. Such property shall be located on the
+business premises during normal bu siness hours
+during this holding period so that it can be i nspect-
+ed, as provided in § 15.311.
+Penalty, see § 15.999
+(‘ 90 Code, § 6.81.090, 07/01/1998; Ord. 647, passed, 03/22/1990)
+
+§ 15.310 TAGGING REQUIRED.
+
+ Any occasional secondhand dealer or
+secondhand dealer purchasing any regulated prope r-
+ty shall affix to property, during the holding period
+required by § 15.309, a tag upon which shall be
+written a number in legible characters. The number
+shall correspond to the number on the purchase r e-
+port forms required by § 15.308.
+Penalty, see § 15.999
+(‘ 90 Code, § 6.81.100, 07/01/1998; Ord. 647, passed, 03/22/1990)
+
+§ 15.311 INSPECTION OF PROPERTY AND
+RECORDS.
+
+ Upon presentation of official identification, the
+Sheriff may enter onto the business premises of any
+person with an occasional secondhand dealer or
+secondhand dealer permit to ensure compliance with
+the provisions of this subchapter. The inspection
+shall be for the limited purpose of inspecting any
+regulated property purchased by the dealer, held by
+the dealer pursuant to § 15.309, or the records inc i-
+dent thereto. Any such inspection shall only be a u-
+thorized to occur during normal business hours.
+(‘ 90 Code, § 6.81.110, 07/01/1998; Ord. 647, passed, 03/22/1990)
+
+§ 15.312 PROHIBITED ACTS.
+
+ It shall be unl awful for any person acting as
+owner, manager, agent or employee of a business
+regulated by this subchapter to commit any of the
+following:
+
+ (A) To engage in, conduct or carry on the opera-
+tion of any occasional secondhand dealer business
+or secondhand dea ler business within the county,
+unless a permit for such business has first been o b-
+tained from the Sheriff;
+
+ (B) To fail to obtain acceptable identification
+from the person selling any regulated property;
+36 Multnomah County – Sheriff
+ (C) To fail to have the person selling any reg u-
+lated property sign the purchase report form describ-
+ing the article purchased;
+
+ (D) To fail to retain on the business premises a
+copy of the purchase report form describing the pur-
+chased regulated property for a period of one year
+from the date of purchase;
+
+ (E) To fail to mail or deliver to the Sheriff at the
+close of each business day the original and second
+copy of all purchase report forms describing reg u-
+lated property purchased during that business day;
+
+ (F) To fail to include on the purchase report
+form all readily available information required by
+the form;
+
+ (G) To fail to withhold from sale any regulated
+property for the required holding period after pu r-
+chase;
+
+ (H) To fail, after purchasing regulated property,
+to retain during normal business hou rs on the bus i-
+ness premises for the required holding period after
+its purchase;
+
+ (I) To fail to allow inspection by the Sheriff of
+any regulated property being retained pursuant to
+this subchapter;
+
+ (J) To fail to allow inspection by the Sheriff of
+any records required by this subchapter;
+
+ (K) To fail to have affixed to any purchased
+regulated property, during the required holding p e-
+riod, a tag upon which is written a number in legible
+characters which corresponds to the number on the
+purchase record form required by this subchapter; or
+
+ (L) To continue activities as an occasional
+secondhand dealer or secondhand dealer after sus-
+pension or revocation of a permit.
+Penalty, see § 15.999
+(‘ 90 Code, § 6.81.120, 07/01/1998; Ord. 647, passed, 03/22/1990)
+
+§ 15.313 REVOCATION OR SUSPENSION
+OF PERMIT.
+
+ (A) The Sheriff shall revoke or suspend any
+permit issued pursuant to this subchapter:
+  (1) Upon the recommendation of the Sh er-
+iff:
+
+   (a) For any cause which would be
+grounds for denial of a permit;
+
+   (b) Where investigation reveals that
+any violation of the provisions of this subcha pter or
+any offense noted in § 15.312 has been co mmitted
+by any person and such offense is connected in time
+and manner with the operation of the business so
+that the person(s) in  charge of such establishment
+knew, or should reasonably have known, that such
+violations have been permitted to occur on the
+premises by the permit holder or any employee;
+
+  (2) A lawful inspection has been refused;
+
+  (3) Upon a finding by the Sheriff  that the
+business activities cause significant litter, noise,
+vandalism, vehicular or pedestrian traffic congestion
+or other locational problems in the area around such
+premises;
+
+  (4) If payment of civil penalties has not
+been received by the Sheriff w ithin ten working
+days after the penalty becomes final;
+
+  (5) If any statement contained in the appl i-
+cation for the permit is found to have been false; or
+
+  (6) If any occasional secondhand dealer
+business or secondhand dealer business fails to meet
+the federal or state licensing requirements.
+
+ (B) (1) The Sheriff, upon revocation or suspe n-
+sion of any permit issued pursuant to this subcha p-
+ter, shall give the permittee written notice of such
+revocation or suspension by causing notice to be
+served upon the permit holder at the business or res-
+idence address listed on the permit application.
+
+  (2) Service of the notice shall be acco m-
+plished either by mailing the notice by certified
+mail, return receipt requested, or at the option of the
+Sheriff, by personal service in the same manner as a
+summons served in an action at law.
+         CHAPTER 15:  SHERIFF          37
+  (3) Refusal of the service by the person
+whose permit is suspended or revoked shall be pr i-
+ma facie evidence of receipt of the notice. Service of
+notice upon the person in charge of a b usiness dur-
+ing its hours of operation shall constitute prima facie
+evidence of notice to the person holding the permit
+to operate the business.
+
+ (C) Suspension or revocation shall be effective
+and final ten days after the giving of such notice u n-
+less such  suspension or revocation is appealed, in
+accordance with § 15.314.
+(‘ 90 Code, § 6.81.140, 07/01/1998; Ord. 647, passed, 03/22/1990)
+
+§ 15.314 APPEALS.
+
+ (A) (1) The filing of a notice of appeal of rev o-
+cation or suspension of a permit, or of a civil pena l-
+ty imposed by the Sheriff, under this subchapter
+shall stay the effective date of the action until the
+appeal is determined by the Board.
+
+  (2) The notice of appeal shall state the
+name and address of the appellant to which all n o-
+tices required herein may  be mailed. The notice
+shall also indicate the reasons why the action was
+incorrect and what the correct determination should
+be.
+
+  (3) The appellant shall be deemed to have
+waived the right to object and the appeal shall be
+dismissed if:
+
+   (a) The noti ce of appeal is not filed
+within the specified time; or
+
+   (b) The notice of appeal does not ot h-
+erwise conform to these requirements.
+
+ (B) (1) Upon receipt of notice of the appeal, the
+clerk of the Board shall give notice of the filing of
+the appeal to the Sheriff, who shall file a report with
+the Board containing the reasons for such action.
+Upon receiving the Sheriff's report, the clerk of the
+Board shall set a date for a Board hearing of the a p-
+peal and shall notify the appellant of the hearing
+date.
+
+  (2) At the Board hearing, the Sheriff shall
+report to the Board the Sheriff's reasons for the a c-
+tion. The appellant shall have the opportunity to
+present evidence and oral argument to the Board and
+to file a written statement. A record shall be made of
+this hearing. At the conclusion of the hearing, the
+Board shall determine the appeal and direct that
+written findings be prepared. If the Board denies the
+appeal of the denial of the application, the revoc a-
+tion, suspension, or civil penalty, the action shall be
+effective upon the Board's signing the findings. The
+decision of the Board shall be final.
+(‘ 90 Code, § 6.81.150, 07/01/1998; Ord. 647, passed, 03/22/1990)
+
+§ 15.315 NUISANCE DECLARED.
+
+ Any business maintained in violation of the
+provisions of this subchapter is declared to be a pub-
+lic nuisance. The County Attorney is authorized to
+bring any action or suit to abate such nuisance by
+seeking injunctive or other appropriate relief to the
+following:
+
+ (A) Cease all unlawful activities;
+
+ (B) Close the unlawful business establishment;
+
+ (C) Return property obtained through unlawful
+activities to the rightful owners;
+
+ (D) Seek payment of civil penalties assessed by
+the Sheriff; or
+
+ (E) Seek such other relief as may be appropr i-
+ate.
+Penalty, see § 15.999
+(‘ 90 Code, § 6.81.160, 07/01/1998; Ord. 647, passed, 03/22/1990)
+
+EMERGENCY AREA REGULATIONS
+
+§ 15.326 POWERS OF SHERIFF.
+
+ (A) Whenever any area has been designa ted as
+an emergency area under MCC  25.440, within the
+boundaries of the area the Sheriff shall have authori-
+ty to:
+
+  (1) Regulate or prohibit ingress and egress
+to and from the area;
+
+  (2) Limit or prohibit the movement of any
+persons within the area;
+
+  (3) Move any property within the area;
+38 Multnomah County – Sheriff
+  (4) Evacuate any persons from the area
+whenever and to  the extent that the Sheriff finds
+human lives or property are endangered; and
+
+  (5) Enter into or upon private property, or
+direct entry to prevent or minimize danger to lives
+or property.
+
+ (B) The Sheriff has authority to barricade streets
+and to prohi bit or regulate travel upon any street,
+avenue or highway leading to an area designated as
+an emergency area for such distance as the Sheriff
+considers necessary under the circumstances.
+(Ord. 1166, Amended, 07/08/2010; Ord. 1138, Amended, 06/18/2009;
+Ord. 1061, Amended, 05/26/2005, eff. 7/1/2005; Ord. 1000, Amended,
+11/14/2002; ‘ 90 Code, § 7.40.200, 07/01/1998; Ord. 18, passed,
+09/26/1968)
+
+§ 15.328 ACCESS PRIOR TO
+DECLARATION AS EMERGENCY
+AREA; FINDINGS.
+
+ The Board finds that certain emergencies may
+require the responding peace officers to immediately
+restrict public access to the areas affected, before
+the area has been designated  as an emergency area
+under § 25.440.  Peace officers that respond to such
+emergencies have authority to restrict access to t he
+area affected to protect the health, welfare and saf e-
+ty of the people of the county. Sections 15.328
+through 15.330 must be liberally construed to effe c-
+tuate the purposes expressed herein.
+(Ord. 1166, Amended, 07/08/2010, Ord. 1138, Amended, 06/18/2009;
+Ord. 1061, Amended, 05/26/2005, eff. 7/1/2005; Ord. 1000, Amended,
+11/14/2002; ‘ 90 Code, § 7.41.015, 07/01/1998; Ord. 455, passed,
+02/07/1985)
+
+§ 15.329 AUTHORITY OF PEACE OFFICER
+TO RESTRICT ACCESS TO
+AREAS.
+
+ (A) Whenever a threat to the public health or
+safety is created by any fire, explosion, accident,
+cave-in, or similar emergency, catastrophe or disa s-
+ter, or by disturbance, riot, presence of an armed
+person, hostage being held, or other disturbance, a
+peace officer may restrict or deny access to pe rsons
+to the area where such threat exists, for the duration
+of such threat, when the presence of such persons in
+such area would constitute a danger to themselves or
+when such officer reasonably believes that the pre s-
+ence of such persons would substantial ly interfere
+with the performance of police or other emergency
+services.
+
+ (B) Whenever it appears to be reasonably n ec-
+essary to investigate, or to preserve or collect ev i-
+dence of, criminal acts, a peace officer may restrict
+or deny access to any room, bui lding or enclosure,
+or any open area, by cordoning off such area by the
+use of persons, vehicles, ropes, markers or any other
+means.
+
+ (C) As used in this section, RESTRICT OR
+DENY ACCESS  means that the peace officer has
+the authority to regulate or prohib it the presence or
+movement of persons or vehicles to, from, and with-
+in any area, to evacuate persons and to move or r e-
+move any property therefrom, until the reason for
+such restriction or denial of access no longer exists.
+
+ (D) It is unlawful for any per son to enter or to
+refuse to leave any area closed or restricted in ac-
+cess pursuant to divisions (A) and (B) of this se c-
+tion, unless such person has specific statutory a u-
+thority, or the permission of the on -scene ranking
+peace officer, to be within such area.
+
+ (E) In accordance with the authority granted by
+this section, and in consideration of the law e n-
+forcement and emergency services needs involved,
+provisions shall be made for reasonable access to
+such areas by members of the media for the purpose
+of news gathering and reporting.
+Penalty, see § 15.999
+(‘ 90 Code, § 7.41.020, 07/01/1998; Ord. 455, passed, 02/07/1985)
+
+§ 15.330 INTERFERING IN
+EMERGENCIES.
+
+ It is unlawful for any person to stop or remain in
+the vicinity of a fire, explosion, accident, cave-in, or
+similar emergency or disaster, or where such an
+emergency or disaster is threatened, or in the vicin i-
+ty of a riot, affray or arrest, when that person's pre s-
+ence may be unsafe for that person or others, or may
+interfere with rescue, firefighting or  other emergen-
+cy aid, after being notified by a peace officer to
+move to a place outside the area of danger or inte r-
+ference.
+Penalty, see § 15.999
+(‘ 90 Code, § 7.41.030, 07/01/1998; Ord. 455, passed, 02/07/1985)
+         CHAPTER 15:  SHERIFF          39
+BRIDGE REGULATION
+
+§ 15.335- PROHIBITED ACTIVITIES.
+
+ It is unlawful for any person, to affix objects to,
+climb on, hang, swing, or jump from any county op-
+erated or maintained bridge over the Willamette
+River, Willamette Slough, Multnomah Channel or
+Sandy River, or remain in areas of the bridges n ot
+intended for public access, unless engaged in bridge
+maintenance work or otherwise authorized or pe r-
+mitted by the county.
+(Ord. 976, Added, 02/07/2002)
+
+CIVIL RIGHTS DISCRIMINATION
+
+(Ord. 969, Added, 11/29/2001)
+
+§ 15.340- POLICY.
+
+ It is the policy of  the County to eliminate di s-
+crimination based on race, religion, color, sex, mari-
+tal status, familial status, national origin, age, me n-
+tal or physical disability, sexual orientation, gender
+identity or source of income.  Such discrimination
+poses a threat to the health, safety and general we l-
+fare of the citizens of the County and menaces the
+institutions and foundation of our community.
+(Ord. 969, Added, 11/29/2001)
+
+§ 15.341 INTENT.
+
+ The Board finds that discrimination on the basis
+of source of income  in employment and if the ind i-
+vidual is 18 years of age or older exists in the Coun-
+ty and that state law does not clearly prohibit such
+discrimination. The Board intends to exercise of its
+powers for the protection of the public health, saf e-
+ty, and general wel fare and to maintain peace and
+good government. Every individual needs an equal
+opportunity to participate fully in the County free of
+discriminatory barriers in employment, housing, and
+public accommodations.
+(Ord. 1202, Amended, 05/09/2013; Ord. 969, Added, 11/29/2001)
+
+§ 15.342 DEFINITIONS.
+
+ (A) For this subchapter, the following defin i-
+tions apply unless the context requires a different
+meaning:
+
+ SEXUAL ORIENTATION.   Actual or su p-
+posed male or female homosexuality, heterosexual i-
+ty, bisexuality or gend er identity, regardless of
+whether the individual’s gender identity, appea r-
+ance, expression or behavior differs from that trad i-
+tionally associated with the individual’s sex at birth.
+
+ SOURCE OF INCOME.  The means by which
+a person supports themselves and their dependents,
+including but not limited to money and property
+from any occupation, profession or activ ity, from
+any contract, settlement or agreement, from federal
+or state payments, court -ordered pa yments, gifts,
+bequests, annuities, life insurance po licies, and
+compensation for illness or injury, but excluding
+any money or property derived in a manner made i l-
+legal or criminal by any law, statute or ordinance.
+
+ (B) All other terms used in this subchapter are
+defined as in Oregon Revised Statutes Chapter
+659A.
+(Ord. 1272, Amended, 06/06/2019; Ord. 1202, Amended, 05/09/2013;
+Ord. 1059, Amended, 04/28/2005; Ord. 969, Added, 11/29/2001)
+
+§ 15.343 DISCRIMINATION IN
+EMPLOYMENT PROHIBITED.
+
+ (A) It is unlawful to discriminate in employment
+on the basis of an  individual’ s race, religion, color,
+sex, sexual orientation, national origin, marital st a-
+tus, age if the individual is 18 years of age or older,
+familial status,  or disability, by committing any of
+the acts made unlawful under the provisions of ORS
+659A.030 and 659A.109.
+
+ (B) It is unlawful to discriminate in employment
+on the basis of an individual’s source of income by
+committing against any such i ndividual any of the
+acts already made unlawful u nder ORS 659A.030
+when committed against the ca tegories o f persons
+listed therein.
+(Ord. 1202, Amended, 05/09/2013; Ord. 1059, Amended, 04/28/2005;
+Ord. 969, Added, 11/29/2001)
+
+§ 15.344 DISCRIMINATION IN SELLING,
+RENTING, OR LEASING REAL
+PROPERTY PROHIBITED.
+
+ (A) It is unlawful to discriminate in selling,
+renting, or leasing real property on the basis of an
+individual’s race, religion, color, sex, sexual orienta-
+tion, national origin, marital status, familial status,
+source of income or disability, by committing any of
+40 Multnomah County – Sheriff
+the acts made unlawful under the provisions of ORS
+659A.421 and 659A.145.
+
+ (B) It is unlawful to discriminate in selling,
+renting, or leasing real property on the basis of an
+individual’s age if the individual is 18 years of age
+or older.
+(Ord. 1202, Amended, 05/09/2013; Ord. 1059, Amended, 04/28/2005;
+Ord. 969, Added, 11/29/2001)
+
+§ 15.345 DISCRIMINATION IN PLACES OF
+PUBLIC ACCOMMODATION
+PROHIBITED
+
+ (A) It is unlawful to discriminate in public a c-
+commodations on the basis of an individual’s race,
+religion, color, sex, sexual orientation, national
+origin, marital status, age if the individual is 18
+years of age or older, or disability, by committing
+any of the acts made unlawful under the provisions
+of ORS 659A.409, 659A.142, or ORS 659A.400 to
+659A.406.
+
+ (B) It is unlawful in public accommodation s to
+discriminate on the basis of an individual’s source
+of income or familial status, by committing against
+any such individual any of the acts already made un-
+lawful under ORS 659A.400 to 659A.409  when
+committed against the categories of persons listed
+therein.
+(Ord. 1202, Amended, 05/09/2013; Ord. 1059, Amended, 04/28/2005;
+Ord. 969, Added, 11/29/2001)
+
+§ 15.346 ENFORCEMENT AND
+ADMINISTRATION.
+
+ (A) Any person claiming to be aggrieved by an
+unlawful discriminatory act under this subchapter
+has a cause of action in any court of competent j u-
+risdiction for relief as provided in ORS  659A.885
+and 659A.890.
+
+ (B) In addition to the right to commence an a c-
+tion under subsection (A), any person claiming to be
+aggrieved by an unlawful employment practice u n-
+der thi s subchapter may file a complaint with the
+Commissioner of the Bureau of Labor and Indu s-
+tries under ORS659A.820.
+(Ord. 1202, Amended, 05/09/2013; Ord. 1059, Amended, 04/28/2005;
+Ord. 969, Added, 11/29/2001)
+
+CIVIL FORFEITURE
+
+§ 15.350- TITLE.
+
+ This subchapter shall be known and cited as the
+Forfeiture Law of the county.
+(‘ 90 Code, § 7.85.005, 07/01/1998; Ord. 442, passed, 11/06/1984)
+
+§ 15.351 DEFINITIONS; INCORPORATION
+OF STATE LAW.
+
+ (A) For the purpose of this subchapter, the fo l-
+lowing definitions shall apply unless the context r e-
+quires a different meaning.
+
+  PROHIBITED CONDUCT. Includes viola-
+tion of, solicitation to violate, attempt to violate or
+conspiracy to violate any provisions of ORS
+164.005 through 164.125 (Theft), ORS 164.135
+(Unauthorized U se of a Vehicle), ORS 164.205
+through 164.225 (Burglary), ORS 167.002 through
+167.027 (Prostitution and Related Offenses), ORS
+167.117 through 167.153 (Gambling Offenses) and
+ORS 163.665 through 163.695 (Visual Recording of
+Sexual Conduct by Children), and  ORS
+811.182(3)(g) (Driving While Driving Privileges are
+Suspended or Revoked for a Driving Under the I n-
+fluence of Intoxicants Conviction).
+
+ (B) This chapter incorporates by reference as
+though fully set forth 1989 Oregon Laws, Chapter
+791, §§ 2(1) through (10) and §§ 2(12) through (14),
+inclusive.
+(‘ 90 Code, § 7.85.011, 07/01/1998; Ord 633, passed, 12/14/1989)
+
+§ 15.352 POLICY AND PURPOSE.
+
+ (A) The Board finds that:
+
+  (1) The use of profits, proceeds or instr u-
+mentalities in theft (ORS 164.005 through 164.125);
+unauthorized use of a vehicle (ORS 164.135); bu r-
+glary (ORS 164.205 through 164.225); gambling of-
+fenses (ORS 167.117 through 167.153); prostitution
+and related offenses (ORS 167.002 through
+167.027) and visual recording of sexual conduct by
+children (ORS 163.665 through 163.695) and dri v-
+ing while driving privileges are suspended or r e-
+voked resulting from a conviction for driving under
+the influence of intoxicants (ORS 811.182(3)(g))
+         CHAPTER 15:  SHERIFF          41
+have and are proliferating in the county, and the
+presence of such activities is detrimental to the pu b-
+lic health, safety, welfare and qua lity of life in the
+county;
+
+  (2) In particular, gambling and prostit ution
+activities involving the use of conveyances and real
+property and conveyances used by drivers whose
+driving privileges have been suspended or revoked
+resulting from a conviction for driving under the i n-
+fluence of intoxicants have been and are prolifera t-
+ing in the county, and the presence of these activ i-
+ties is detrimental to the safety and quality of life in
+the county and therefore the specified co nveyances
+and real property are nuisances;
+
+  (3) The prohibited conduct defined in this
+chapter is undertaken in the course of profitable a c-
+tivities which result in, and are facilitated by, the
+acquisition, possession or transfer of property su b-
+ject to civil forfeiture under this subchapter;
+
+  (4) Transactions involving property su bject
+to forfeiture under this subchapter escape taxation;
+
+  (5) Local government's attempts to r espond
+to prohibited conduct require additional resources to
+meet its needs;
+
+  (6) There is a need to provide for the civil
+forfeiture of certain property subject to forfeiture
+under this subchapter, to provide for the protection
+of the rights and interests of affected persons, and to
+provide for uniformity with respect to the laws pe r-
+taining to the forfeiture of real and personal prope r-
+ty; and
+
+  (7) The instrumentalities, profits and pro-
+ceeds of prohibited conduct are often used to com-
+mit the same or another prohibited conduct and the
+return of the property thus serves to encourage and
+perpetuate the commission of prohibited co nduct in
+the county.
+(‘ 90 Code, § 7.85.021, 07/01/1998; Ord 633, passed, 12/14/1989)
+
+§ 15.353 FORFEITURE.
+
+ The following will be subject to civil in rem for-
+feiture:
+
+ (A) All property, products and equipment of any
+kind which are used, or intended for use, in provi d-
+ing, manufacturing, compounding, processing, de-
+livering, importing or exporting any service or su b-
+stance in the course of prohibited conduct.
+
+ (B) All conveyances, including aircraft, vehicles
+or vessels, which are used or are intended for use, to
+transport or in any manner facilitate the transport a-
+tion, sale, receipt, possession or concealment of
+property described in division (A) of this section,
+and all conv eyances including aircraft, vehicles or
+vessels, which are used or intended for use in pro-
+hibited conduct or to facilitate prohibited conduct in
+any manner. Such conveyances specifically include,
+but are not limited to, the following:
+
+  (1) A conveyance o perated by a person
+whose operator's license is suspended or revoked as
+a result of conviction for driving under the influence
+of intoxicants in violation of the provisions of local
+or state law;
+
+  (2) A conveyance within which an act of
+prostitution as prohibited by local or state law; or
+
+  (3) A conveyance used or intended to be
+used to facilitate activities defined in ORS 167.012
+(Promoting Prostitution), ORS 167.017 (Compelling
+Prostitution), or ORS 167.122 through 167.137
+(Gambling Offenses).
+
+ (C) No conveyance used by any person as a
+common carrier in the transaction of business as a
+common carrier shall be forfeited under the prov i-
+sions of this section unless the owner or other pe r-
+son in charge of such conveyance was a consenting
+party or knew of a nd acquiesced in the prohibited
+conduct.
+
+ (D) No property shall be forfeited under the
+provisions of this section by reason of any act or
+omission established by the owner thereof to have
+been committed or omitted by any person other than
+such owner while  such property was unlawfully in
+the possession of a person other than the owner in
+violation of the criminal laws of the United States or
+any state. Such property shall be returned to the
+owner following a determination by the court that
+the pro perty was unlawfully in the possession of a
+person other than the owner, and the owner did not
+42 Multnomah County – Sheriff
+know it, and did not consent to the use of the pro p-
+erty for prohibited conduct.
+
+ (E) This subchapter incorporates by reference
+state law.  (‘90 Code, § 7.85.026, 07/01/199 8; Ord 633,
+passed, 12/14/1989)
+
+§ 15.354 FORFEITURE PROCEDURES.
+
+ The forfeiture procedures of state law are her e-
+by incorporated by reference.
+(‘ 90 Code, § 7.85.031, 07/01/1998; Ord 633, passed, 12/14/1989)
+
+§ 15.355 DISTRIBUTION OF PROCEEDS.
+
+ After the forfeiture counsel distributes property
+under the provisions of state law, the forfeiture
+counsel shall disperse of and distribute property in
+the following manner:
+
+ (A) If the seizing agency has an intergover n-
+mental agreement pursuant to state law, the terms of
+the intergovernmental agreement shall control the
+distribution of the property.
+
+ (B) If the seizing agency does not have an inte r-
+governmental agreement pursuant to state law, the
+seizing agency shall recover 50% of the property,
+the county distri ct attorney's office shall recover
+35% of the property and the remaining 15% shall be
+credited to the county general fund for criminal ju s-
+tice services.
+
+ (C) If more than one law enforcement agency
+has participated in the investigation leading to fo r-
+feiture, the participating agencies shall share the
+50% of the proceeds ordinarily remitted to the sei z-
+ing agency equitably between the participating
+agencies.
+
+ (D) Except as otherwise provided by interg ov-
+ernmental agreement, the forfeiting agency may:
+
+  (1) Sell, lease, lend or transfer the pro perty
+or proceeds to any federal, state or local law e n-
+forcement agency or district attorney;
+
+  (2) Sell the forfeited property by public or
+other commercially reasonable sale and pay from
+the proceeds the expenses of keeping and selling the
+property;
+  (3) Retain the property; or
+
+  (4) With written authorization from the dis-
+trict attorney for the forfeiting agency's jurisdi ction,
+destroy any firearm or contraband.
+
+ (E) The forfeiting agency, and any agency
+which receives forfeited property or proceeds from
+the sale of forfeited property, shall maintain written
+documentation of each sale, decision to return,
+transfer or other disposition.
+(‘ 90 Code, § 7.85.036, 07/01/1998; Ord 633, passed,
+12/14/1989)
+
+LIQUOR LICENSES
+
+§ 15.400- PURPOSE.
+
+ The purposes of this subchapter are to establish
+the principal criteria which shall be considered by
+the Board and the Sheriff, in making recommend a-
+tions to the state Liquor Control Commission co n-
+cerning the granting, denying, modif ying or rene w-
+ing of all liquor licenses for premises within uni n-
+corporated the county and to establish a process, to
+be utilized for the investigation of such license a p-
+plicants for the purpose of making such recomme n-
+dations, that is fair, effective and efficient. This sub-
+chapter is necessary to ensure that all premises l i-
+censed to sell or di spense liquor in any form meet
+the high expectations of this community, and that all
+businesses are conducted in a lawful manner that
+does not unreasonably disturb the peace and tra n-
+quility of this county and its neighborhoods.
+(‘ 90 Code, § 5.10.020, 07/01/1998; Ord. 799, passed, 10/06/1994; Ord.
+724, passed, 06/11/1992; Ord. 420, passed, 06/14/1984; Ord. 412,
+passed, 03/15/1984; Ord. 195, passed, 04/26/1979; Ord. 157, passed,
+12/29/1977)
+
+§ 15.401 APPLICATION PROCEDURE.
+
+ (A) Any applicant for any license who is r e-
+quired by the state Liquor Control Commission to
+have a recommendation from the county concerning
+the suitability of such application shall present the
+license application forms prescribed by the Liquor
+Control Commission to the Sheriff for the purpose
+of obtaining the recommendation of the county co n-
+cerning such a license.
+         CHAPTER 15:  SHERIFF          43
+ (B) For the purpose of conducting the investiga-
+tion to ascertain pertinent information  bearing upon
+such county recommendations, the Sheriff may r e-
+quire such other information in addition to that pr o-
+vided upon the Liquor Control Commission applica-
+tion forms as it deems appropriate.
+
+ (C) The Sheriff shall accept liquor license a p-
+plications only when the following conditions are
+met:
+
+  (1) All required forms are properly co m-
+pleted and in order; and
+
+  (2) The processing fees, in amounts esta b-
+lished by Board resolution, and as allowed by ORS,
+have been paid.
+(‘ 90 Code, § 5.10.020, 07/01/1998; Ord. 799, passed,
+10/06/1994; Ord. 724, passed, 06/11/1992; Ord. 420, passed,
+06/14/1984; Ord. 412, passed, 03/15/1984; Ord. 195, passed,
+04/26/1979; Ord. 157, passed, 12/29/1977)
+
+§ 15.402 INVESTIGATION.
+
+ (A) The Sheriff shall coordinate and conduct an
+investigation of each application for the purpose of
+determining what recommendation shall be made to
+the Board, using the procedures set forth in division
+(B) of this section.
+
+ (B) (1) All applicants shall be checked for any
+and all prior arrest records or violations of Li quor
+Control Commission regulations.
+
+  (2) All applicants shall be checked for prior
+community relations problems under another l i-
+cense.
+
+  (3) The business locations shall be e xam-
+ined and must be in the best interests of the comm u-
+nity.
+
+  (4) All renewal applications shall be r e-
+viewed and checked for prior negative impact on the
+community.
+
+  (5) All new outlets, or change of loc a-
+tion/privilege shall be referred to the zoning section
+for verification of the proposed use under the county
+zoning code.
+
+  (6) All new and renewal applications shall
+be checked to determine whether there are deli n-
+quent personal or real property taxes due and o wing
+for the premises.
+(‘ 90 Code, § 5.10.020, 07/01/1998; Ord. 799, passed,
+10/06/1994; Ord. 724, passed, 06/11/1992; Ord. 420, passed,
+06/14/1984; Ord. 412, passed, 03/15/1984; Ord. 195, passed,
+04/26/1979; Ord. 157, passed, 12/29/1977)
+
+§ 15.403 RECOMMENDATIONS TO THE
+BOARD.
+
+ Upon completion of the investigation proc e-
+dures, the Sheriff shall forward to  the Board a re c-
+ommendation of approval or denial. The clerk of the
+Board then places the matter on the Board's agenda,
+in order that the Board may then make a recomme n-
+dation of approval or denial to the state Liquor Co n-
+trol Commission. (‘ 90 Code, § 5.10. 020, 07/01/1998; Ord.
+799, passed, 10/06/1994; Ord. 724, passed, 06/11/1992; Ord.
+420, passed, 06/14/1984; Ord. 412, passed, 03/15/1984; Ord.
+195, passed, 04/26/1979; Ord. 157, passed, 12/29/1977)
+
+§ 15.404 DENIAL OF LICENSE.
+
+ The Sheriff may make a recommendation of de-
+nial to the Board regarding any application if:
+
+ (A) The applicant's record reflects a pattern of
+violation of the alcoholic liquor laws of this state;
+
+ (B) The applicant has a history of use of co n-
+trolled substances or use of alcoholic be verages to
+excess;
+
+ (C) The record of the applicant shows viol a-
+tion(s) of criminal law(s) or ordinance(s) connected
+in time, place or manner with a liquor establishment
+or which demonstrate a disregard for law;
+
+ (D) The applicant has maintained, or allow ed to
+exist, an establishment which creates or is a public
+nuisance under the ordinances of the county or laws
+of the state or in which any violation of the prov i-
+sions of the code, or federal or state law relating to
+minors, gambling, obscenity, controlled  substances,
+prostitution or alcoholic beverages, or ORS Cha p-
+ters 163, 164, 165 and 166 have occurred, or which
+creates an increase in disorderly or violent acts, li t-
+ter, noise, vandalism, vehicular or pedestrian traffic
+congestion, or other location probl ems, in the re a-
+sonable proximity of such premises;
+44 Multnomah County – Sheriff
+ (E) The applicant's premises are not maintained
+in reasonable repair, both interior and exterior, and
+kept clean and free of litter, rubbish, and dirt;
+
+ (F) The applicant's premises are found to be a
+nuisance under the terms of this chapter;
+
+ (G) In the case of an application for a new l i-
+cense or for an increase in liquor selling or dispen s-
+ing privilege, there are sufficient licensed premises
+in the locality set out in the application and the l i-
+cense is not demanded by public interest or conve n-
+ience;
+
+ (H) The licensing of the premises would not be
+in the best interests of the community because of a
+history of illegal activities, altercations, noisy co n-
+duct, or other disturbances in or around the premi s-
+es;
+
+ (I) The applicant has demonstrated an unwi ll-
+ingness or inability to cooperate with county age n-
+cies or neighbors in resolving community disputes
+related to a licensed establishment;
+
+ (J) If the zoning section finds that the proposed
+new outlet, or cha nge of location/privilege is found
+to be in violation of the zoning code. However, the
+applicant may file an application for change of zone,
+conditional use which would permit such use;
+
+ (K) If there are delinquent real or personal
+property taxes due and owing for the premises at the
+time of application or renewal, a recommendation of
+denial is mandatory; and
+
+ (L) If there is any other specific reason con-
+sistent with the purposes of this subchapter which
+may, in the opinion of the Sheriff, warrant an ad-
+verse report to the Board based upon public health,
+safety, welfare, convenience or necessity.
+(‘ 90 Code, § 5.10.020, 07/01/1998; Ord. 799, passed, 10/06/1994; Ord.
+724, passed, 06/11/1992; Ord. 420, passed, 06/14/1984; Ord. 412,
+passed, 03/15/1984; Ord. 195, passed, 04/26/1979; Ord. 157, passed,
+12/29/1977)
+
+§ 15.405 HEARINGS; NOTIFICATION.
+
+ (A) When the Sheriff makes a recommendation
+for denial of any application, the clerk of the Board
+shall notify, by certified mail, the applicant, the
+Liquor Control Co mmission, and the Sheriff of the
+hearing date, place and time at least one week b e-
+fore such hearing takes place. The presiding officer
+of the Board may also contact the neighborhood a s-
+sociations concerned.
+
+ (B) When the Sheriff makes a recommendation
+for approval of an application for which the Sheriff
+or the Board has received complaints or concerns
+from citizens or other business establishments, or
+for which there may be other controversy, the clerk
+of the Board shall notify those concerned citizens or
+business establishments and the applicant of the
+hearing date, place and time.
+(‘ 90 Code, § 5.10.020, 07/01/1998; Ord. 799, passed, 10/06/1994; Ord.
+724, passed, 06/11/1992; Ord. 420, passed, 06/14/1984; Ord. 412,
+passed, 03/15/1984; Ord. 195, passed, 04/26/1979; Ord. 157, passed,
+12/29/1977)
+
+§ 15.406 HEARING PROCEDURES.
+
+ When the Board has scheduled a hearing on any
+liquor license application, such applicant shall be
+given a reasonable opportunity to be heard and a d-
+dress concerns raised by the Sheriff, t he Board, and
+persons or groups appearing in opposition to such an
+application. The Board's recommendation of a p-
+proval or denial of such application, based upon a
+determination of what course of action best serves
+the interest of the citizens of the county , shall be f i-
+nal.
+(‘ 90 Code, § 5.10.020, 07/01/1998; Ord. 799, passed, 10/06/1994; Ord.
+724, passed, 06/11/1992; Ord. 420, passed, 06/14/1984; Ord. 412,
+passed, 03/15/1984; Ord. 195, passed, 04/26/1979; Ord. 157, passed,
+12/29/1977)
+
+§ 15.407 RECONSIDERATION OF
+APPLICATIONS.
+
+ After having made a recommendation of denial
+on any liquor license application, the Sheriff and the
+Board shall not consider any new application for the
+same location by the same or substantially the same
+applicant for a period of at least six months or while
+such applicant has pending an appeal in court or in a
+state administrative agency related to such a license.
+Notwithstanding, the Sheriff may reconsider or r e-
+submit such an application to the Board in less than
+six months if it i s reasonably believed that a re c-
+ommendation of denial has substantially changed,
+and no court or administrative appeal of such license
+is pending.
+(‘ 90 Code, § 5.10.020, 07/01/1998; Ord. 799, passed, 10/06/1994; Ord.
+724, passed, 06/11/1992; Ord. 420, passed, 06/14/1984; Ord. 412,
+passed, 03/15/1984; Ord. 195, passed, 04/26/1979; Ord. 157, passed,
+         CHAPTER 15:  SHERIFF          45
+12/29/1977)
+
+§ 15.408 TEMPORARY LICENSES.
+
+ On any application for a temporary liquor l i-
+cense which will be in effect for five days or less,
+review by the Board shall not be automatically r e-
+quired. The Sheriff has authority to make a reco m-
+mendation of approval to the Liquor Control Co m-
+mission on such applications. If the Sheriff reco m-
+mends denial of any application for a temporary l i-
+cense, the application shall be  reviewed by the
+Board as outlined in §§ 15.405 and 15.406.
+(‘ 90 Code, § 5.10.020, 07/01/1998; Ord. 799, passed,
+10/06/1994; Ord. 724, passed, 06/11/1992; Ord. 420, passed,
+06/14/1984; Ord. 412, passed, 03/15/1984; Ord. 195, passed,
+04/26/1979; Ord. 157, passed, 12/29/1977)
+
+POLICE IMPERSONATION
+
+§ 15.450- UNAUTHORIZED VEHICLES
+DISPLAYING POLICE INSIGNIA.
+
+ No person shall own or operate a private motor
+vehicle in the county outside of incorporated cities
+marked or identified by the word “ police”  or any
+other marking or insignia identifying the vehicle as
+a police vehicle.
+Penalty, see § 15.999
+(‘ 90 Code, § 7.90.100, 07/01/1998; Ord. 35, passed,
+07/09/1970)
+
+NEIGHBORHOOD WATCH SIGNS
+
+§ 15.500- FINDINGS.
+
+ The Board finds:
+
+ (A) The Sheriff, in cooperatio n with the co m-
+munity, has instituted an observation and reporting
+program by which the residents of blocks can organ-
+ize to better protect themselves against neighbo r-
+hood intruders who are there for unlawful purposes.
+
+ (B) It has been proposed that when re sidents of
+a block have met certain requirements that they be
+allowed to place signs within the right -of-way
+which indicate that the block is protected by neig h-
+borhood watch.
+
+ (C) The granting of this request will not be d et-
+rimental to the public interest  under certain cond i-
+tions.
+(‘ 90 Code, § 2.70.305, 07/01/1998; Ord. 399, passed,
+09/23/1983)
+
+§ 15.501 PERMIT; STANDARDS.
+
+ (A) A revocable permit is granted to the Sheriff
+to have the signs referred to in § 15.500 placed in
+the public rights-of-way subject to the conditions set
+forth in division (B) of this section.
+
+ (B) (1) Signs and signposts shall be furnished
+and installed by the requesting neighborhood.
+
+  (2) All signs and locations shall be a p-
+proved by the traffic engineer.
+
+  (3) The signs, when installed, shall conform
+to the county engineer's standard plan.
+
+  (4) The Sheriff shall maintain a record of
+installed sign locations.
+
+  (5) The county shall remove signs not in
+conformance with the county engineer's standard
+plan and the traffic engineer's approved location.
+(‘ 90 Code, § 2.70.320, 07/01/1998; Ord. 399, passed,
+09/23/1983)
+
+CRIMINAL JUSTICE INFORMATION
+
+§ 15.550- PURPOSE.
+
+ It is the purpose of this subchapter to assure that
+criminal history record information, wherever it a p-
+pears, is stored, collected, and disseminated in a
+manner to ensure the completeness, integrity, acc u-
+racy, and security of such information, and to pr o-
+tect individual privacy. (‘90 Code, § 7.80.010, 07/01/1998;
+Ord. 201, passed, 05/10/1979)
+
+§ 15.551 DEFINITIONS.
+
+  For the purpose of this subchapter, the fo l-
+lowing definitions shall apply unless the context r e-
+quires a different meaning.
+
+ ACCESS. The authority to review or receive in-
+formation from files, records, or an information sy s-
+tem, whether manual or automated.
+46 Multnomah County – Sheriff
+ ATTORNEY. An attorney at law authorized by
+a person to assert the confidentiality of right of ac-
+cess to criminal history record information under
+this subchapter.
+
+AUTHORIZED REPRESENTATIVE . A pa r-
+ent, or a guardian, or conservator, other than an a t-
+torney, appointed to act on behalf of a person and
+empowered by such person to assert the confide nti-
+ality of or right of access to personal data under this
+subchapter.
+
+ CRIMINAL HISTORY RECORD INFO R-
+MATION (CHRI). Information collected by crim i-
+nal justice agenc ies on individuals consisting of
+identifiable descriptions and notations of arrests, de-
+tentions, indictments, informations, or other formal
+criminal charges, and any dispositions arising ther e-
+from, including sentencing, correctional superv i-
+sion, and releas e. The term does not include info r-
+mation contained in original records of arrest, arrest
+logs, or reports of crimes available for inspection
+under terms of ORS 192.410 to 192.505, and ident i-
+fication info rmation such as fingerprint records to
+the extent tha t such information does not indicate
+involvement of the individual in the criminal justice
+system.
+
+ CRIMINAL JUSTICE ADMINISTRATION.
+The performance of the following activities: dete c-
+tion, apprehension, detention, pre-trial release, post-
+trial release, pr osecution, adjudication, correctional
+supervision or rehabilitation of accused persons or
+criminal offenders. The administration of criminal
+justice shall include criminal identification activities
+and the collection, storage, and dissemination of
+criminal history record information.
+
+ CRIMINAL JUSTICE AGENCY. Any court or
+other governmental agency or any subunit thereof
+which performs the administration of justice pu rsu-
+ant to any statute or any executive order, and which
+allocates a substantial part of its  budget to the ad-
+ministration of criminal justice and any agency spe-
+cially designated as a criminal justice agency by e x-
+ecutive order of the governor of the state.
+
+ CRIMINAL JUSTICE INFORMATION
+(CJI). Information collected by criminal justice
+agencies that is needed for the performance of their
+legally authorized and required functions. This is the
+broadest information term and includes CHRI and
+investigative and intelligence information. It does
+not include agency personnel or administrative rec-
+ords used for agency operations or management.
+
+ DISPOSITION. Information disclosing that
+criminal proceedings have been concluded, inclu d-
+ing information disclosing that the police have
+elected not to refer a matter to a prosecutor, or that a
+prosecutor has elected not to commence criminal
+proceedings, and also disclosing the nature of the
+termination in the proceedings, or information di s-
+closing that proceedings have been indefinitely
+postponed and also disclosing the reason for such
+postponement. Disposition shall include, but not be
+limited to, a cquittal, bail forfeiture, bound over for
+trial after preliminary hearing, bound over for trial --
+preliminary hearing waived, convicted, dismissed --
+civil action, dismissed--defense motion, dismissed--
+prosecutor motion (withd rawn), dismissed --court
+motion, extradited, judgment on guilty or ``nolo''
+plea, not responsible, charge reduced, case conti n-
+ued without fin ding, deceased, deferred disposition,
+pardoned, probation before conviction, sentence
+commuted, mistrial --defendant discharged, exec u-
+tive clemency, placed on probation, paroled, r e-
+leased from correctional supervision, charge
+dropped by arresting agency, charge dropped by
+prosecutor, or charge dropped--invalid warrant.
+
+ DISSEMINATION. The transmission of info r-
+mation, whether orally, in writing or electronically,
+to anyone outside the agency which maintains the
+information, except reports to an authorized repos i-
+tory.
+
+ INTELLIGENCE AND INVESTIGATIVE
+INFORMATION (I and I).  Information compiled
+in an effort to anticipate, p revent or monitor poss i-
+ble criminal activity, or compiled in a course of i n-
+vestigation of known or suspected crimes.
+
+ PERSON. An individual of any age concerning
+whom criminal history record information is co n-
+tained in a manual computerized file of any co unty
+criminal justice agency, or a person's attorney or a u-
+thorized representative.
+(‘ 90 Code, § 7.80.020, 07/01/1998; Ord. 257, passed,
+11/26/1980; Ord. 201, passed, 05/10/1979)
+
+         CHAPTER 15:  SHERIFF          47
+(S-1 2019)
+§ 15.552 SCOPE.
+
+ This subchapter relates solely to criminal justice
+information stored, collected, and disseminated by
+agencies of county government, except that they
+shall not extend to include manual or automated i n-
+formation systems operated or maintained by the j u-
+diciary. It does not extend to original records of a r-
+rest, arre st logs, or reports of crimes available for
+inspection under terms of ORS 192.410 to 192.505.
+(‘ 90 Code, § 7.80.030, 07/01/1998; Ord. 201, passed, 05/10/1979)
+
+§ 15.553 ACCESS TO CRIMINAL HISTORY
+RECORD INFORMATION.
+
+ Access to criminal history record inf ormation
+shall be limited to the following:
+
+ (A) Criminal justice agencies, where the info r-
+mation is to be used for criminal justice administr a-
+tion or criminal justice agency employment;
+
+ (B) Agencies or persons legally authorized to
+receive the specific  information pursuant to statute,
+government regulation, court order, or legal di-
+rective; and
+
+ (C) Within county criminal justice agencies,
+personnel who have a bona fide need -to-know or
+need-to-handle criminal history record information
+to perform their assigned duties.
+(‘ 90 Code, § 7.80.040, 07/01/1998; Ord. 201, passed, 05/10/1979)
+
+§ 15.554 ACCESS FOR RESEARCH
+PURPOSES.
+
+ Individuals or noncriminal justice agencies e n-
+gaged in criminal justice research may be authorized
+by the Sheriff to have limited access to criminal his-
+tory record information contained in files of county
+criminal justice agencies provided:
+
+ (A) The party seeking access submits a written
+request to the Sheriff setting forth the nature and
+scope of their research, the specific data re quested,
+and the methodology to be employed in collecting,
+storing, and analyzing the data; and
+ (B) The Sheriff is satisfied that the party see k-
+ing access to the criminal history record information
+has a bona fide research purpose and has given su f-
+ficient assurance that no personal identification i n-
+formation or data (contained in CHRI) that can be
+associated with a particular individual will be di s-
+closed to the public in any manner or form;
+
+ (C) The party seeking access to the criminal his-
+tory record inf ormation gives written assurances to
+the Sheriff that they will use the criminal history
+record information data solely for research purposes
+set forth in their approved request.
+Penalty, see § 15.999
+(Ord. 1272, Amended, 06/06/2019; ‘ 90 Code, § 7.80.041, 07/01/1998;
+Ord. 201, passed, 05/10/1979)
+
+§ 15.555 ACCESS TO INTELLIGENCE AND
+INVESTIGATIVE INFORMATION.
+
+ Notwithstanding any other provisions in this
+subchapter, intelligence and investigative infor-
+mation shall not be publicly disclosed so long as
+there is a clear need in a particular case to delay dis-
+closure in the course of an investigation in accor d-
+ance with ORS 192.500.
+Penalty, see § 15.999
+(‘ 90 Code, § 7.80.045, 07/01/1998; Ord. 201, passed, 05/10/1979)
+
+§ 15.556 ACCURACY AND
+COMPLETENESS OF
+INFORMATION.
+
+ Each county criminal justice agency which
+stores, collects, or disseminates criminal history
+record information shall establish procedures to i n-
+sure the accuracy and completeness of criminal hi s-
+tory record information. No criminal history record
+information shall be disseminated until the infor-
+mation has been verified against computerized crim-
+inal history (CCH) records of the Oregon State Po-
+lice (OSP). Whenever a county agency reports arrest
+information to OSP-CCH, that agency should report
+to OSP-CCH any disposition related to the reported
+arrest which occurs within the county within 90
+days after the disposition has occurred. No info r-
+mation should be added to a person's criminal histo-
+ry record, whether automated or manual, unless the
+data is bas ed upon a readily identifiable numbered
+48 Multnomah County – Sheriff
+(S-1 2019)
+source document and upon the assurance that the in-
+formation pertains to the individual whose criminal
+history record is affected.
+Penalty, see § 15.999
+(‘ 90 Code, § 7.80.010, 07/01/1998; Ord. 257, passed, 11/26/1980; Ord.
+201, passed, 05/10/1979)
+
+§ 15.557 RESTRICTIONS ON DATA
+ENTERED INTO COMPUTERIZED
+RECORDS.
+
+ Data shall not be entered into any computerized
+criminal history record which contains, in narrative
+or code, statements with evaluative, conjectural or
+judgmental content.
+Penalty, see § 15.999
+(‘ 90 Code, § 7.80.055, 07/01/1998; Ord. 201, passed, 05/10/1979)
+
+§ 15.558 DISSEMINATION OF
+INFORMATION RELATED TO
+JUVENILES.
+
+ (A) Any information about a child's conduct
+which, if committed by an adult, would be an  of-
+fense, may be provided by a law enforcement age n-
+cy to another agency only when the information is
+pertinent to a specific investigation by that agency.
+
+ (B) Fingerprint and photograph files and rec-
+ords of children shall be kept separate from those of
+adults, and fingerprints and photographs known to
+be those of a child shall be maintained on a local ba-
+sis only and not sent to central state or federal d e-
+pository.
+
+ (C) Reports and other material relating to a
+child's history and prognosis are privileged and, ex-
+cept at the request of the child, shall not be di s-
+closed directly or indirectly to anyone other than the
+judge of the juvenile court, those acting under the
+child’s direction, and to the attorneys of record for
+the child’s parent or guardian.
+Penalty, see § 15.999
+(Ord. 1272, Amended, 06/06/2019; ‘ 90 Code, § 7.80.060, 07/01/1998;
+Ord. 257, passed, 11/26/1980; Ord. 201, passed, 05/10/1979)
+
+§ 15.559 RIGHT TO ACCESS AND
+CHALLENGE.
+
+ (A) Any individual shall have the right of access
+to their own crimin al history record information
+which is contained in manual or computerized files
+of any county criminal justice agency at no cost.
+ (B) Each county criminal justice agency which
+maintains CHRI shall establish procedures which:
+
+  (1) Inform an individual i n writing, upon
+written request, whether the agency maintains cri m-
+inal history record information concerning him;
+
+  (2) Make available to a person, upon wri t-
+ten request, the criminal history record inform ation
+concerning him;
+
+  (3) Allow a person to cont est the acc uracy,
+completeness or relevancy of his criminal history
+record information;
+
+  (4) Allow criminal history record infor-
+mation to be corrected upon written request of a
+person when the agency concurs in the proposed
+correction;
+
+  (5) Allow a per son who believes that the
+agency maintains inaccurate or incomplete criminal
+history record information concerning himself to
+submit a written statement to the agency setting
+forth what he believes to be an accurate or complete
+version of that information.  If, after a review of the
+statement, the agency does not concur and does not
+make the corrections requested in the statement, the
+statement shall be filed in a manual file in the age n-
+cy's records section under an appropriate index
+number and any subsequen t dissemination of the
+referenced criminal history record information shall
+disclose the existence of the statement challenging
+the accuracy or completeness of the information.
+(‘ 90 Code, § 7.80.070, 07/01/1998; Ord. 201, passed, 05/10/1979)
+
+§ 15.560 ADMINISTRATION.
+
+ (A) Each criminal justice agency shall be r e-
+sponsible for the accuracy, completeness, and int eg-
+rity of all information which it adds, modifies, and
+deletes from any criminal history record.
+
+ (B) Each county agency shall maintain a log of
+all disseminations of criminal history record info r-
+mation to individuals and non-criminal justice agen-
+cies outside its own organization. These logs shall
+include, but not be limited to, the following info r-
+mation about each individual record so dissem inat-
+ed:
+         CHAPTER 15:  SHERIFF          49
+(S-1 2019)
+  (1) Date and time of day;
+
+  (2) Identification number of the record r e-
+leased;
+
+  (3) Identification of the person and agency
+who received the criminal history record infor-
+mation;
+
+  (4) Identification of the individual who r e-
+leased the criminal history record information.
+(‘ 90 Code, § 7.80.080, 07/01/1998; Ord. 201, passed, 05/10/1979)
+
+PROPERTY INVENTORY
+
+§ 15.600- PURPOSE.
+
+ This subchapter applies to inventories of pe r-
+sonal property in an impounded vehicle and the pe r-
+sonal possessions of anyone in la w enforcement
+custody. It does not affect any statutory or constit u-
+tional right(s) that law enforcement officers may
+employ to search or seize possessions for other pu r-
+poses.
+(‘ 90 Code, § 7.15.010, 07/01/1998; Ord. 878, passed, 04/10/1997)
+
+§ 15.601 DEFINITIONS.
+
+  For the purpose of this subchapter, the fo l-
+lowing definitions shall apply unless the context r e-
+quires a different meaning.
+
+ CLOSED CONTAINER. A container the co n-
+tents of which are not exposed to view.
+
+ LAW ENFORCEMENT CUSTODY.
+
+  (1) The imposition of restraint as a result of
+an arrest as that term is defined in ORS 133.005(1);
+
+  (2) The imposition of actual or constru ctive
+restraint by a law enforcement officer pursuant to a
+court order;
+
+  (3) The imposition of actual or constru ctive
+constraint by a law enforcement officer purs uant to
+ORS Chapter 426;
+
+  (4) The imposition of actual or constru ctive
+restraint by a law enforcement officer for pu rposes
+of taking the restrained person to an approved facili-
+ty for the involuntary confinement of persons pursu-
+ant to state law; or
+
+  (5) The imposition of actual or constru ctive
+restraint by a law enforcement officer pursuant to
+ORS Chapter 137.
+
+ LAW ENFORCEMENT OFFICER.
+
+  (1) Any officer of the office of the Sheriff.
+
+  (2) Any parole or probation officer of the
+Department of Community Justice, who conducts an
+inventory related to the supervision of an offender
+on parole or probation.
+
+ OPEN CONTAINER. A container which is u n-
+secured or incompletely secured in such a fashion
+that the container's contents are exposed to view.
+
+ VALUABLES.
+
+  (1) Cash money of an aggregate amount of
+$50 or more; or
+
+  (2) Individual items of personal property
+with a value of over $500.
+(Ord. 988, Amended, 08/22/2002; ‘ 90 Code, § 7.15.020, 07/01/1998;
+Ord. 878, passed, 04/10/1997)
+
+§ 15.602 INVENTORIES OF CONTENTS OF
+IMPOUNDED VEHICLES.
+
+ (A) The contents of all vehicles impounded by a
+law enforcement officer shall be inventoried. The
+inventory shall be conducted before constructive
+custody of the vehicle is released to a third -party
+towing company except under the following circum-
+stances:
+
+  (1) If there is reasonable suspicion to b e-
+lieve that the safety of either the law enforcement
+officer(s) or any other person is at risk, a required
+inventory will be done as soon as safely practical; or
+
+  (2) If the vehicle is being impounded for
+evidentiary purposes in connection with the invest i-
+gation of a criminal offense, the inventory will be
+done after such investigation is completed.
+50 Multnomah County – Sheriff
+(S-1 2019)
+ (B) The purpose for the inventory of an i m-
+pounded vehicle will be to the following:
+
+  (1) Promptly identify property to esta blish
+accountability and avoid spurious claims to prope r-
+ty;
+
+  (2) Assist in the prevention of theft of
+property;
+
+  (3) Locate toxic, dangerous, flammable or
+explosive substances; and
+
+  (4) Reduce the danger to persons and pro p-
+erty.
+
+ (C) Inventories of impounded vehicles shall be
+conducted according to the following procedure:
+
+  (1) An inventory of personal property and
+the contents of open containers will be conducted
+throughout the passenger and engine compartments
+of the vehicle, including, but not limited to, access i-
+ble areas under or within the dashboard area, in any
+pockets in the doors or in the back of the front seat,
+in any console between the seats, under any flo or
+mats, and under the seats;
+
+  (2) In addition to the passenger and e ngine
+compartments as described above, an inventory of
+personal property and the contents of open contai n-
+ers will also be conducted in the following loc a-
+tions:
+
+   (a) Any other type of  unlocked co m-
+partments that are a part of the vehicle including,
+but not limited to, unlocked vehicle trunks and u n-
+locked car-top containers; and
+
+   (b) Any locked compartments inclu d-
+ing, but not limited to, locked vehicle trunks, locked
+hatchbacks and lo cked car -top containers, if either
+the keys are available to be released with the vehicle
+to the third -party towing company or an unlocking
+mechanism for such compartment is available wit h-
+in the vehicle.
+
+  (3) A closed container left either within the
+vehicle or any of the vehicle's compartments will
+have its contents inventoried only when:
+
+   (a) The closed container is to be placed
+in the immediate possession of a person at the time
+that person is placed in the secure portion of a cu s-
+todial facility, la w enforcement vehicle or secure
+law enforcement holding room;
+
+   (b) A person requests that the closed
+container be with him or her in the secure portion of
+a law enforcement vehicle or a secure law enforc e-
+ment holding room; or
+
+   (c) The closed container is designed for
+carrying money or valuables, including, but not l im-
+ited to, closed purses, closed coin purses, closed
+wallets and closed fanny packs.
+
+ (D) Upon completion of the inventory, the law
+enforcement officer will complete a report as d i-
+rected by the Sheriff.
+
+ (E) Any valuables located during the inventory
+process will be listed on a property receipt. A copy
+of the property receipt will either be left in the v ehi-
+cle or tendered to the person in control of the v ehi-
+cle if such person is present. T he valuables will be
+dealt with in such manner as directed by the Sheriff.
+(‘ 90 Code, § 7.15.030, 07/01/1998; Ord. 878, passed, 04/10/1997)
+
+§ 15.603 INVENTORIES OF PERSONAL
+PROPERTY OF PERSONS IN
+CUSTODY.
+
+ (A) A law enforcement officer will inventory
+the personal property in the possession of anyone
+taken into law enforcement custody and such inve n-
+tory will be conducted whenever:
+
+  (1) Such person will be either placed in a
+secure law enforcement holding room or transported
+in the secure portion of a la w enforcement vehicle;
+or
+
+  (2) Custody of the person will be tran s-
+ferred to another law enforcement agency, corre c-
+tional facility, or “ treatment facility”  as that phrase
+is used in ORS 426.460 or such other lawfully a p-
+proved facility for the involuntary  confinement of
+persons pursuant to state law.
+
+ (B) The purposes of the inventory of a person in
+law enforcement custody will be to the following:
+         CHAPTER 15:  SHERIFF          51
+(S-1 2019)
+  (1) Promptly identify property to esta blish
+accountability and avoid spurious claims to prope r-
+ty;
+  (2) Fulfill the requirements of ORS
+133.455 to the extent that such statute may apply to
+certain property held by the law enforcement officer
+for safekeeping;
+
+  (3) Assist in the prevention of theft of
+property;
+
+  (4) Locate toxic, dangerous, flammable or
+explosive substances;
+
+  (5) Locate weapons and instruments that
+may facilitate an escape from custody or endanger
+law enforcement personnel; and
+
+  (6) Reduce the danger to persons and pro p-
+erty.
+
+ (C) Inventories of the personal property in the
+possession of such persons will be conducted a c-
+cording to the following procedures:
+
+  (1) An inventory will occur prior to pla cing
+such person into a holding room or a law enforc e-
+ment vehicle, whichever occurs first. However, if
+there is reasonable suspicion to believe that the safe-
+ty of the law enforcement officer(s), the person in
+custody, or both are at risk, an inventory will be
+done as soon as safely practical prior to the transfer
+of custody to another law enforcement agency or fa-
+cility.
+
+  (2) To complete the inv entory of the pe r-
+sonal property in the possession of such person, the
+law enforcement officer will remove all items of
+personal property from the clothing worn by such
+person. In addition, the officer will also remove all
+items of personal property from al l open containers
+in the possession of such person.
+
+  (3) A closed container in the possession of
+such person will have its contents inventoried only
+when:
+
+   (a) The closed container is to be placed
+in the immediate possession of such person at the
+time that person is placed in the secure portion of a
+custodial facility, law enforcement vehicle or secure
+law enforcement holding room;
+
+   (b) Such person requests that the closed
+container be with him or her in the secure portion of
+a law enforcement vehic le or a secure law enforc e-
+ment holding room; or
+
+   (c) The closed container is designed for
+carrying money or valuables on or about the person,
+including, but not limited to, closed purses, closed
+coin purses, closed wallets and closed fanny packs.
+
+ (D) Valuables found during the inventory pro-
+cess will be noted by the law enforcement officer in
+a report as directed by the Sheriff.
+
+ (E) All items of personal property, neither left
+in the immediate possession of the person in cust o-
+dy, nor left with the fac ility or agency accepting
+custody of the person, will be handled in the follow-
+ing manner:
+
+  (1) A property receipt will be prepared lis t-
+ing the property to be retained in the possession of
+the Sheriff and a copy of that receipt will be te n-
+dered to the per son in custody when such person is
+released to the facility or agency accepting custody
+of such person;
+
+  (2) The property will be dealt with in such
+manner as directed by the Sheriff.
+
+ (F) All items of personal property neither left in
+the immediate pos session of the person in custody
+nor, dealt with as provided in division (E) above,
+will be released to the facility or agency accepting
+custody of the person so that they may:
+
+  (1) Hold the property for safekeeping on
+behalf of the person in custody; and
+
+  (2) Prepare and deliver a receipt, as may be
+required by ORS 133.455, for any valuables held on
+behalf of the person in custody.
+(‘ 90 Code, § 7.15.040, 07/01/1998; Ord. 878, passed, 04/10/1997)
+
+52 Multnomah County – Sheriff
+(S-1 2019)
+DISPOSITION OF UNCLAIMED PROPERTY
+
+§ 15.650- ACKNOWLEDGMENT OF
+UNCLAIMED PROPERTY.
+
+ Whenever the Sheriff possesses any property,
+including money, the ownership of which is un-
+known and which is unclaimed for 30 days after the
+property came into the Sheriff’s  possession, the
+Sheriff shall report the fact to th e Board and request
+authority to dispose of it as provided in this su b-
+chapter.
+(Ord. 1272, Amended, 06/06/2019; ‘ 90 Code, § 7.70.100, 07/01/1998;
+Ord. 24, passed, 06/29/1969)
+
+§ 15.651 PUBLIC SALE; NOTICE; PRIOR
+CLAIM OF OWNERSHIP.
+
+ The Board shall act u pon the request of the
+Sheriff within 30 days after the receipt of the r e-
+quest. If the request is to have the property disposed
+of by public sale and if the Board approves the re-
+quest, the Sheriff or the Department of County
+Management shall post written o r printed notice of
+sale in three public places within the county at least
+ten days before the sale. The notice shall describe
+the property, including money, and shall state the
+time and place of public sale at which the property
+may be purchased by the hi ghest bidder. Until the
+date of the sale, the property, including money, may
+be claimed at the Sheriff's office. If ownership is
+proved, the Sheriff shall turn the property including
+money, over to the owner and cancel the sale insofar
+as the claimed property is concerned.
+(Ord. 1061, Amended, 05/26/2005, eff. 7/1/2005; Ord. 978, Amended,
+03/07/2002; Ord. 971, Amended, 12/20/2001; ‘ 90 Code, § 7.70.150,
+07/01/1998; Ord. 24, passed, 06/29/1969)
+
+§ 15.652 BIDS BY COUNTY PERSONNEL
+PROHIBITED.
+
+ Members of the county government, including
+officials and employees, shall not be allowed to bid
+at the sale.
+(‘ 90 Code, § 7.70.200, 07/01/1998; Ord. 24, passed, 06/29/1969)
+
+§ 15.653 DISPOSITION OF SALE
+PROCEEDS.
+
+ The Sheriff or the Department of County Ma n-
+agement shall conduct the sale and shall deposit the
+proceeds, after deducting the cost of the sale toget h-
+er with any other money included in the notice, in
+the county treasury to the credit of the county ge n-
+eral fund.
+(Ord. 1061, Amended, 05/26/2005, eff. 7/1/2005; Ord. 978, Amended,
+03/07/2002; Ord. 971, Amended, 12/20/2001; ‘ 90 Code, § 7.70.250,
+07/01/1998; Ord. 24, passed, 06/29/1969)
+
+§ 15.654 COUNTY USE OF UNCLAIMED
+PROPERTY.
+
+ In lieu of a sale of the property under §§ 15.650
+through 15.653, the Sheriff, with the approval of the
+Board, may transfer any portion of unclaimed pro p-
+erty to the county for use by the county.
+(‘ 90 Code, § 7.70.300, 07/01/1998; Ord. 24, passed, 06/29/1969)
+
+§ 15.655 CLAIM BY OWNER AFTER
+DISPOSITION.
+
+ If the property is sold as provide d in this su b-
+chapter and if, within six months after the sale, the
+owner of the property, including money, files with
+the Board a claim for the property, including money,
+and proves the owner's right to it, the Board shall di-
+rect that the money or the amou nt received for the
+property, less expenses of the sale, shall be paid to
+the owner from the county treasury. The Board shall
+not approve any claims filed more than six months
+after the sale. If the property is transferred to the
+county in lieu of sale, it may be claimed by the law-
+ful owner at any time within one year from the
+transfer to the county. The Sheriff, in disposing of
+property in the manner provided in this subchapter,
+shall not be liable to the owner of the property.
+(‘ 90 Code, § 7.70.350, 07/01/1998; Ord. 24, passed, 06/29/1969)
+
+§ 15.656 TRANSFERS OF PROPERTY
+ACQUIRED THROUGH CIVIL
+FORFEITURE LAWS.
+
+ (A) Definitions.  For the purpose of this su b-
+chapter, the following definitions shall apply unless
+the context requires a different meaning.
+
+  FORFEITED PROPERTY.  All personal
+property other than cash or cash proceeds, the right,
+title, and interest of which has been granted to the
+county by the circuit court of the state pursuant to
+any of the following:
+
+   (a) Oregon Laws 1989, Cha pter 791,
+§§ 1-10; or
+         CHAPTER 15:  SHERIFF          53
+(S-2 2013)
+   (b) The county civil forfeiture prov i-
+sions, §§ 15.350 through 15.355.
+
+  GOVERNMENT AGENCY.  Any state
+agency, department, division, bureau, board, and
+commission; any county, city, school district, sp e-
+cial district, municipal corporation, and any board,
+department, commission, council or agency thereof;
+and any other public agency of this state.
+
+  LAW ENFORCEMENT AGENCY.  Any
+agency which employs police officers for the pu r-
+pose of investigation and prosecution of criminal
+cases.
+
+  LAW ENFORCEM ENT PURPOSE.  Any
+activity which may be reasonably expected to result
+in the identification, apprehension, or conviction of
+criminal offenders.
+
+  POLICE OFFICER. Has the meaning gi v-
+en that term in ORS 133.525.
+
+ (B) Types of transfers allowed.
+
+  (1) Forfeited property may be transferred to
+any law enforcement agency to be used for law e n-
+forcement purposes; or
+
+  (2) Forfeited property may be transferred to
+any government agency within the state for a public
+purpose.
+
+ (C) Approval of transfers.
+
+  (1) All property transfers to law enforc e-
+ment agencies shall be made at the discretion of the
+Sheriff of the county.
+
+  (2) All other property transfers shall be a p-
+proved by resolution of the Board upon recomme n-
+dation of the Sheriff.
+
+ (D) Transfer documents.  Upon approval, the
+Sheriff shall transfer the forfeited property by e xe-
+cuting a transfer document describing the property
+transferred, stating the transfer is without warranties
+of title, condition or fitness for a particular purpose.
+In addition, the transfer  document shall give notice
+the transferee is required to maintain written doc u-
+mentation of each sale, transfer or other disposition
+of the property as required by Oregon Laws 1989,
+Chapter 791, § 10(2).
+(‘ 90 Code, § 7.70.360, 07/01/1998; Ord. 676, passed, 04/11/1991; Ord.
+24, passed, 06/29/1969)
+
+ALARM SYSTEMS
+
+§ 15.700- TITLE.
+
+ This subchapter shall be known and cited as the
+Burglary and Robbery Alarm Law.
+(‘ 90 Code, § 7.51.005, 07/01/1998; Ord. 796, passed, 09/08/1994; Ord.
+687, passed, 07/03/1991; Ord. 610, passed, 03/30/1989)
+
+§ 15.701 PURPOSE AND SCOPE.
+
+ (A) The purpose of this subchapter is to encou r-
+age alarm users and alarm businesses to assume i n-
+creased responsibility for maintaining the mechan i-
+cal reliability and the proper use of alarm systems to
+prevent unnecessary responses to false alarms and
+thereby to protect the emergency response capability
+of the county from misuse.
+
+ (B) This subchapter governs burglary and ro b-
+bery alarm systems, requires permits, establishes
+fees, provides for allocat ion of revenues and def i-
+cits, provides for fees for excessive false alarms,
+provides for no response to alarms, provides for
+punishment of violations and establishes a system of
+administration.
+
+ (C) Revenue generated in excess of costs to
+administer this subchapter shall be allocated for the
+use of participating law enforcement agencies to r e-
+cover costs associated with alarm response and for
+public education and training programs in reduction
+of false alarms in accordance with § 15.711.
+
+ (D) The provisions of this subchapter shall a p-
+ply in any city in the county which has consented to
+the application of this subchapter. The provisions of
+this subchapter shall not apply in any city in the
+county which has in effect an ordinance having the
+same purpose as th is subchapter and which is ad-
+ministered by the county pursuant to an intergov-
+ernmental agreement.
+(Ord. 1047, Amended, 08/26/2004; ‘ 90 Code, § 7.51.010, 07/01/1998;
+Ord. 796, passed, 09/08/1994; Ord. 687, passed, 07/03/1991; Ord. 610,
+passed, 03/30/1989)
+
+54 Multnomah County – Sheriff
+(S-2 2013)
+§ 15.702 DEFINITIONS.
+
+ For the purpose of this subchapter, the follo w-
+ing definitions shall apply unless the context r e-
+quires a different meaning.
+
+ ALARM BUSINESS. The business by any i n-
+dividual, partnership, corporation, or other entity of
+selling, le asing, maintaining, servicing, repairing,
+monitoring, altering, replacing, moving or installing
+any alarm system or causing to be sold, leased,
+maintained, serviced, repaired, monitored altered,
+replaced, moved or installed any alarm system in or
+on any building, structure or facility.
+
+ ALARM SYSTEM.  Any assembly of equi p-
+ment, mechanical or electrical, arranged to signal
+the occurrence of an illegal entry or other activity
+requiring urgent attention and to which law e n-
+forcement officers are alerted.
+
+ ALARM USER. The person, firm, partnership,
+association, corporation, company or organization
+of any kind which owns, controls or occupies any
+building, structure or facility wherein an alarm sy s-
+tem is maintained.
+
+ AUTOMATIC DIALING DEVICE.  A device
+which is i nterconnected to a telephone line and is
+programmed to select a predetermined telephone
+number and transmit by voice message or code si g-
+nal an emergency message indicating a need for
+emergency response. Such a device is an alarm sy s-
+tem.
+
+ BUREAU OF EMERGEN CY COMMUN I-
+CATIONS. The city or county facility used to r e-
+ceive emergency and general information from the
+public to be dispatched to the respective law e n-
+forcement departments utilizing the bureau.
+
+ BURGLARY or ROBBERY ALARM SY S-
+TEM. An automated or manual alarm system signal-
+ing a robbery, an entry or attempted entry into the
+area protected by the system.
+
+ COMMERCIAL ALARM SYSTEM.  An alarm
+system maintained in a building, structure or facility
+that is not primarily used as the alarm system user’s
+residence.
+
+ ECONOMICALLY DISADVANTAGED PE R-
+SON. A person receiving public assistance or food
+stamps.
+
+ FALSE ALARM.  An alarm signal, eliciting a
+response by a law enforcement officer when a situ a-
+tion requiring a response by such  officer does not in
+fact exist.  An alarm is not considered false if the
+alarm signal is caused by violent conditions of n a-
+ture or other extraordinary circumstances not re a-
+sonably subject to control by the alarm business o p-
+erator or alarm user, including but not limited to, ev-
+idence of a crime or an attempted crime; notice from
+the alarm business that the system is faulty b efore
+the officer arrives on the scene or notice from alarm
+business operator that the system or the user erred
+before an officer arrives on the scene.
+
+ INTERCONNECT. To connect an alarm sy s-
+tem including an automatic dialing device to a tel e-
+phone line, either directly or through a mechanical
+device that utilizes a telephone, for the purpose of
+using the telephone line to transmit a message upon
+the activation of the alarm system.
+
+ NO RESPONSE.  Law enforcement officers
+will not be dispatched to investigate a report of an
+alarm signal.
+
+ NOTICE.  All notices in this ordinance required
+to be given by the Sheriff to an alarm user or alarm
+business shall be by U.S. mail.  NOTICE, whether
+actual or constructive, is presumed to be given sev-
+en days from the date printed on the notice.
+
+ RESIDENTIAL ALARM SYSTEM.  An alarm
+system maintained in a building, structure or facility
+that is primarily used as the alarm system user’s res-
+idence.
+
+ SHERIFF. The Multnomah County Sheriff, or
+designee.
+
+ SYSTEM BECOMES OPERATIVE. When the
+alarm system is capable of eliciting a response by
+law enforcement officers.
+(Ord. 1135, Amended, 05/28/2009; Ord. 1047, Amended, 08/26/2004; ‘
+90 Code, § 7.51.015, 07/01/1998; Ord. 796, passed, 09/08/1994; Ord.
+687, passed, 07/03/1991; Ord. 610, passed, 03/30/1989)
+
+         CHAPTER 15:  SHERIFF          55
+(S-1 2019)
+§ 15.703 PERMITS REQUIRED; PAYMENT
+OF PERMIT FEES AND OTHER
+FEES.
+
+ (A) Every alarm user , including but not limited
+to users of any non -monitored alarm systems, must
+obtain an alarm user's permit for each system from
+the Sheriff within 30 days of the time when the sy s-
+tem becomes operative. Users of commercial alarm
+systems having both manual and automated alarm
+capabilities must obtain a separat e permit for each
+function.
+
+ (B) Permits issued under this subchapter expire
+annually on March 31.  Application for an alarm u s-
+er’s permit and the permit fees as set by Board res o-
+lution must be filed with the Sheriff each year.  The
+permit fees must be postmarked to the Sheriff on or
+before midnight March 31 of the preceding permit
+year.
+
+(C) If a residential alarm user is over the age of
+65 or is an economically disadvantaged person and
+is a resident of the residence, and if no business is
+conducted in the residence, a user's permit may be
+obtained from the Sheriff's office according to su b-
+sections (A) and (B)  for a reduced fee as set by
+Board resolution.
+
+(D) Each permit will bear the signature of the
+Sheriff and must be physically upon the premises
+where the alarm system is used and available for i n-
+spection by the Sheriff.  If a law enforcement officer
+is dispatched to investigate a report of an alarm si g-
+nal and a valid permit is not available for inspection,
+the alarm user must pay a fee as set by Board reso-
+lution and obtain a permit within 30 days of the date
+of dispatch.
+
+ (E) A late fee in an amount set by Board resolu-
+tion will be charged in addition to the fee s provided
+in this subsection to an alarm user who fails to o b-
+tain a permit within 30 days after the system b e-
+comes operative, or who is more than 30 days delin-
+quent in renewing a permit.
+
+ (F) If an alarm user fails to renew a permit
+within 30 days after the permit expires, the Sheriff
+will notify the alarm user that, unless the permit is
+renewed and all fees are paid within 30 days of r e-
+ceipt of notice, the Sheriff will initiate the no r e-
+sponse process. If the permit is not renewed and all
+fees paid, the Sheriff will initiate the no response
+process and make notifications as provided in §
+15.705(C).
+(Ord. 1135, Amended, 05/28/2009; Ord. 1047, Amended, 08/26/2004; ‘
+90 Code, § 7.51.020, 07/01/1998; Ord. 796, passed, 09/08/1994; Ord.
+687, passed, 07/03/1991; Ord. 610, passed, 03/30/1989)
+
+§ 15.704 EXCESSIVE FALSE ALARMS;
+FINES.
+
+ (A) After the fo urth false alarm within the pe r-
+mit year there may be no law enforcement response
+to subsequent alarms without approval of the Sh er-
+iff.
+
+ (B) After a false alarm, the Sheriff will also n o-
+tify the alarm user that:
+
+(1) After the fourth false alarm within the
+permit year, there may be no response to subsequent
+alarms without approval of the Sheriff; and
+
+(2) Approval of the Sheriff may only be ob-
+tained by applying in writing for reinstatement.  The
+Sheriff may reinstate the alarm user upon a finding
+that reasonable effort has been made to correct the
+false alarms.
+
+(C) Fees for excessive false alarms will be a s-
+sessed by the Sheriff as set by Board resolution.
+
+ (D) The Sheriff will notify the alarm user of a
+false alarm, the fees for excessive false alarms, if
+any, and the consequences of the failure to pay the
+fees. The Sheriff will also i nform the alarm user of
+their right to appeal the validity of the false alarm to
+the Sheriff, as provided in § 15.709.
+
+ (E) A late fee in an amount set by Board resolu-
+tion will be charged in addition to the fee provided
+in subsection (A) to an alarm user who fails to pay
+the excessive false alarm fees within 30 days after
+receipt of the notice.
+
+ (F) If a residential alarm system user fails to
+pay the excessive false alarm f ee within 30 days a f-
+ter the date  of the initial notice and no appeal is
+pending, the Sheriff will notify the alarm user that
+unless all fees are paid within seven days of the date
+of the notice, the Sheriff will initiate the no response
+process.  If paymen t is not received within seven
+56 Multnomah County – Sheriff
+(S-1 2019)
+days of the date  of the notice,  the Sheriff will i niti-
+ate the no r esponse process, make notifications as
+provided in § 15.705(C) and may initiate the e n-
+forcement of penalties.
+
+ (G) If a commercial alarm system user fails t o
+pay the excessive false alarm fee within 30 days a f-
+ter the date of the initial notice and no appeal hea r-
+ing is pending, the Sheriff will notify the alarm user
+that unless all fees are paid within seven days of r e-
+ceipt of notice, the Sheriff will initiate  the no r e-
+sponse process.  If payment is not received within
+seven days of the date of the notice, the Sheriff may
+initiate the no response process, make notifications
+as provided in § 15.705 and may initiate the e n-
+forcement of penalties.
+Penalty, see § 15.999
+(Ord. 1272, Amended, 06/06/2019; Ord. 1135, Amended, 05/28/2009;
+Ord. 1047, Amended, 08/26/2004; ‘ 90 Code, § 7.51.025, 07/01/1998;
+Ord. 796, passed, 09/08/1994; Ord. 687, passed, 07/03/1991; Ord. 610,
+passed, 03/30/1989)
+
+§ 15.705 NO RESPONSE;
+REINSTATEMENT FEE.
+
+ (A) When the no response process is initiated,
+the Sheriff shall notify:
+
+  (1) The Bureau of Emergency Communica-
+tions;
+
+  (2) The alarm user; and
+
+(3) Any alarm business employed by the
+alarm user if known.
+
+ (B) No response to an alarm will begin seven
+days after the date of the notices provided above un-
+less a written request for a false alarm validity hea r-
+ing has been made in the time period required under
+§ 15.709.
+
+ (C) If a no response order is issued by the Sh er-
+iff, a reinstatement f ee as set by Board resolution
+will be charged in addition to any outstanding fees,
+fines and penalties.
+(Ord. 1135, Amended, 05/28/2009; Ord. 1047, Amended, 08/26/2004; ‘
+90 Code, § 7.51.035, 07/01/1998; Ord. 796, passed, 09/08/1994; Ord.
+687, passed, 07/03/1991; Ord. 610, passed, 03/30/1989)
+
+§ 15.706 SPECIAL PERMITS.
+
+ (A) The following alarm users will be issued a
+special permit:
+
+(1) An alarm user required by federal, state,
+county or municipal law to install, maintain and
+operate an alarm system; or
+
+(2) A federal, state or local government
+unit.
+
+ (B) Special permit holders must pay the regular
+permit fee, but are not subject to the no response
+procedure under this subchapter.
+
+(C) Any alarm user that is a federal government
+agency is not liable for false alarm fees.
+(Ord. 1135, Amended, 05/28/2009; Ord. 1047, Amended, 08/26/2004; ‘
+90 Code, § 7.51.040, 07/01/1998; Ord. 796, passed, 09/08/1994; Ord.
+687, passed, 07/03/1991; Ord. 610, passed, 03/30/1989)
+
+§ 15.707 USER INSTRUCTIONS.
+
+Every alarm business must:
+
+(A) Furnish the user with instructions that pr o-
+vide information to enable the user to operate the
+alarm system properly and to obtain se rvice for the
+alarm system at any time.
+
+ (B) Notify the user of the requirement to get a
+permit and give the user a copy of the application
+necessary to obtain a permit.
+
+ (C) Give the user a copy of the county notice
+that outlines the consequences of generating false
+alarms, including possible fees, penalties, and fines,
+and such other forms and notic es as required by the
+county.
+
+ (D) Maintain a list of all active alarm customers
+and provide this list to the Multnomah County Sher-
+iff’s Office upon request.
+Penalty, see § 15.999
+(Ord. 1135, Amended, 05/28/2009; Ord. 1047, Amended, 08/26/2004; ‘
+90 Code, § 7.51.045, 07/01/1998; Ord. 796, passed, 09/08/1994; Ord.
+687, passed, 07/03/1991; Ord. 610, passed, 03/30/1989)
+         CHAPTER 15:  SHERIFF          57
+(S-1 2019)
+§ 15.708 AUTOMATIC DIALING DEVICE;
+CERTAIN INTERCONNECTIONS
+PROHIBITED.
+
+It is unlawful for any person to program an a u-
+tomatic dialing dev ice to select any telephone  line
+assigned to a governmental agency related to eme r-
+gency response, and it is unlawful for an alarm user
+to fail to disconnect or reprogram such device wit h-
+in 12 hours of receipt of written notice from the
+Sheriff that an auto matic dialing device is so pr o-
+grammed.
+Penalty, see § 15.999
+(Ord. 1135, Amended, 05/28/2009; ‘ 90 Code, § 7.51.005, 07/01/1998;
+Ord. 796, passed, 09/08/1994; Ord. 687, passed, 07/03/1991; Ord. 610,
+passed, 03/30/1989)
+
+§ 15.709 HEARING.
+
+ (A) An alarm user who wants to appeal validity
+of a false alarm determination may appeal to the
+Sheriff for a hearing. The appeal must be in writing
+and must be received by the Sheriff within 14 days
+from the date of the notice. Failure to contest the de-
+termination in t he required time period results in a
+conclusive presumption for all purposes that the
+alarm was false.
+
+ (B) If a hearing is requested, the Sheriff will no-
+tify the alarm user of the time and place of the hea r-
+ing at least 10 days prior to the hearing date, which
+date will not be more than 21 nor less than 10 days
+after the request for hearing is received  unless
+agreed upon by both parties.
+
+ (C) The hearing shall be before a hearings o f-
+ficer. The alarm user has the right to present written
+and oral evidence,  subject to the right of cross e x-
+amination. If the Sheriff determines that the a lleged
+false alarms occurred in a permit year, the Sheriff
+will issue written findings waiving, expunging or
+entering a false alarm designation on an alarm user's
+record at the Sheriff’s discretion. If false alarm d es-
+ignations are entered on the alarm user's record, the
+Sheriff may find that the alarm user is liable for
+hearing costs, including costs of the hearings officer
+and witnesses and will pursue fee collection as set
+forth in this subchapter.
+(Ord. 1135, Amended, 05/28/2009; Ord. 1047, Amended, 08/26/2004; ‘
+90 Code, § 7.51.055, 07/01/1998; Ord. 796, passed, 09/08/1994; Ord.
+687, passed, 07/03/1991; Ord. 610, passed, 03/30/1989)
+
+§ 15.710 SOUND EMISSION CUTOFF
+FEATURE REQUIRED.
+
+ (A) Alarm systems which emit audible sound
+which can be heard outside the building, structure or
+facility of the alarm user, shall be equipped with a
+sound emission cutoff feature which will stop the
+emission of sound 15 minutes or less after t he alarm
+is activated.
+
+ (B) When an alarm system can be heard outside
+a building, structure, or facility for more than 15
+minutes continuously or intermittently, and the
+alarm owner or alarm company is not readily avai l-
+able or able to silence the device, it becomes a pub-
+lic nuisance and the Sheriff is authorized to phys i-
+cally disconnect the sounding device. The county
+shall not be liable for any cost of, or associated with,
+disconnecting or reconnecting the alarm. The alarm
+owner shall be liable for such costs.
+Penalty, see § 15.999
+(‘ 90 Code, § 7.51.060, 07/01/1998; Ord. 796, passed, 09/08/1994; Ord.
+687, passed, 07/03/1991; Ord. 610, passed, 03/30/1989)
+
+§ 15.711 STATISTICS.
+
+Subject to the requirements of confidentiality, the
+Sheriff will develop and ma intain statistics within
+reason for the purpose of evaluating member service
+for the municipalities and alarm companies.
+(Ord. 1135, Amended, 05/28/2009; ‘ 90 Code, § 7.51.065, 07/01/1998;
+Ord. 796, passed, 09/08/1994; Ord. 610, passed, 03/30/1989)
+
+§ 15.712 ALLOCATION OF REVENUES
+AND EXPENSES.
+
+ (A) All revenue collected pursuant to this su b-
+chapter or an ordinance of a city having the same
+purpose as this subchapter and which is admini s-
+tered by the county pursuant to an intergovernme n-
+tal agreement shall  be general fund revenue of the
+county. The county shall maintain records sufficient
+to identify the sources and amounts of that revenue.
+
+ (B) The county shall maintain records in ac-
+cordance with sound accounting principles suff i-
+cient to determine on a fi scal year basis the direct
+costs of administering this subchapter and ordinanc-
+es of cities having the same purpose as this subchap-
+ter and which are administered by the county purs u-
+ant to an intergovernmental agreement, including
+salaries and wages (excluding the Sheriff individual-
+58 Multnomah County – Sheriff
+(S-1 2019)
+ly), travel, office supplies, postage, printing, facili-
+ties, office equipment and other properly chargeable
+costs.
+
+ (C) The county shall render an account to each
+city having an ordinance having the same purpose as
+this subchapter  and which is administered by the
+county pursuant to an intergovernmental agreement.
+
+ (D) Distribution by the county of any excess
+revenue or payment of allocated deficit amounts by
+a city shall be made in accordance with the terms of
+the intergovernmental agreement with the city.
+
+ (E) SOUND ACCOUNTING PRINCIPLES, as
+used in this section, shall include, but not be limited
+to, practices required by the terms of any state or
+federal grant or regulations applicable thereto which
+relate to the purpose of this subchapter.
+(Ord. 1047, Amended, 08/26/2004; ‘ 90 Code, § 7.51.070, 07/01/1998;
+Ord. 796, passed, 09/08/1994; Ord. 687, passed, 07/03/1991; Ord. 610,
+passed, 03/30/1989)
+
+§ 15.713 INTERPRETATION.
+
+ This subchapter and any ordinance of a city
+having the s ame purpose as this subchapter and
+which is administered by the county officers or e m-
+ployees shall be liberally construed to effect the
+purpose of this subchapter and to achieve uniform
+interpretation and application of the respective o rdi-
+nances.
+(‘ 90 Code, § 7.51.075, 07/01/1998; Ord. 796, passed, 09/08/1994; Ord.
+687, passed, 07/03/1991; Ord. 610, passed, 03/30/1989)
+
+§ 15.714 ENFORCEMENT.
+
+ (A) Enforcement of this subchapter may be by
+civil action as provided in ORS 30.315.
+
+ (B) The failure or omission  to comply with any
+section of this subchapter shall be deemed a viol a-
+tion and may be so prosecuted.
+Penalty, see § 15.999
+(Ord. 1135, Amended, 05/28/2009; ‘ 90 Code, § 7.51.080, 07/01/1998;
+Ord. 796, passed, 09/08/1994; Ord. 687, passed, 07/03/1991; Ord. 610,
+passed, 03/30/1989)
+
+MASSAGE TREATMENT
+
+§ 15.725- TITLE; APPLICATION.
+
+ This subchapter shall be known and cited as the
+Massage Treatment Law, and shall apply to the u n-
+incorporated areas of the county.
+(‘ 90 Code, § 6.50.005, 07/01/1998; Ord. 160, passed, 03/09/1978)
+
+§ 15.726 DEFINITIONS.
+
+ For the purpose of this subchapter, the follo w-
+ing definitions shall apply unless the context r e-
+quires a different meaning.
+
+ COMPENSATION. Any form of remuneration,
+direct or indirect, either received from the per son
+upon whom the massage treatment is performed, or
+performed by, or from another.
+
+ MANUAL. Includes the use of hands, feet or
+any other part of the human anatomy.
+
+ MASSAGE TREATMENT.  The manipulation
+or touching of the body of another person by pre s-
+sure, friction, stroking, tapping, kneading, painting
+or any other manipulating or contact, direct or ind i-
+rect, by manual or mechanical means or by gymna s-
+tics, with or without appliances such as vibrators, in-
+frared heat, sun lamps and external baths, and with
+or without lubricants or pigments, including but not
+limited to oils, soaps, alcohol, paint, powders, l o-
+tions, shampoos or salts.
+
+ MASSAGE TREATMENT BUSINESS.  The
+operation of an establishment at which the practice
+of massage treatment is performed.
+
+ PRACTICE OF MASSAGE TREATMENT.
+The performance of massage treatment or the pe r-
+mitting of massage treatment to be performed by
+another on one's own body, for compensation.
+(‘ 90 Code, § 6.50.010, 07/01/1998; Ord. 160, passed, 03/09/1978)
+
+§ 15.727 FINDINGS AND PURPOSE.
+
+ (A) The Board finds that there has been an i n-
+crease in the county of various business enterprises
+in which nonlicensed persons offer to manipulate or
+touch the bodies of paying customers for the pu r-
+pose of sexual arousal or sexual gratificatio n. These
+         CHAPTER 15:  SHERIFF          59
+(S-1 2019)
+enterprises operate under names such as massage
+parlor, lotion studio, rapport studio, sexy sauna and
+other names generally identifying the nature of the
+erotic services available.
+
+ (B) The Board finds that the businesses referred
+to in division (A) of this section present law e n-
+forcement problems by fostering prostitution, lewd
+displays, pornogr aphy and other criminal activity
+including the harboring and illegal employment of
+runaway minors and the purchase and sale of narcot-
+ics and other drugs.
+
+ (C) It is the purpose of this subchapter to pro-
+hibit the businesses and practices referred to in div i-
+sion (A) of this section in order to provide an effe c-
+tive means of preventing violations of and enforcing
+the criminal law and to protect the public heal th,
+safety and welfare by assuring that persons practi c-
+ing ma ssage treatment for compensation are doing
+so for legitimate reasons relating to the establis h-
+ment and maintenance of good health and body
+conditioning and not as a subterfuge for prostitution
+and other criminal acts.
+(‘ 90 Code, § 6.50.020, 07/01/1998; Ord. 160, passed, 03/09/1978)
+
+§ 15.728 STATE LICENSE REQUIRED;
+PROHIBITED CONDUCT.
+
+ (A) It shall be unlawful for any person to e n-
+gage in, conduct, or carry on, or to permit to be e n-
+gaged in, conducted or carried on, the operation of a
+massage treatment business unless a massage bus i-
+ness license has first been obtained from the state
+Board of Massage Technicians under ORS Chapter
+687.
+
+ (B) It shall be unlawful for a person to engage
+in the practic e of massage treatment without first
+having obtained a permit as a massage technician or
+apprentice massage technician from the state Board
+of Massage Technicians under ORS Chapter 687.
+Penalty, see § 15.999
+(‘ 90 Code, § 6.50.030, 07/01/1998; Ord. 160, passed, 03/09/1978)
+
+§ 15.729 EXEMPTIONS.
+
+ This subchapter shall not apply to:
+
+ (A) Persons who practice massage relaxation
+treatment as an incident to another profession l i-
+censed under the authority of the state and who hold
+the license in good standing from the state board
+having authority to license that profession, or to per-
+sons working under the direction of those licensed
+persons in the performance of the licensed persons'
+professional capacity;
+
+ (B) Trainers of any amateur, semiprofessional
+or professional athletic team or athlete;
+
+ (C) Massage practiced at any bona fide athletic
+club or at any athletic department of any bona fide
+fraternal organization;
+
+ (D) Massage treatment practices under the au s-
+pices of the athletic department of any institut ion
+supported in whole or part by public funds; or
+
+ (E) Massage treatment practices under the au s-
+pices of the athletic department of any school, co l-
+lege or university.
+(‘ 90 Code, § 6.50.050, 07/01/1998; Ord. 160, passed, 03/09/1978)
+
+§ 15.730 NUISANCE DECLARED;
+ABATEMENT.
+
+ Any premises established or maintained in v io-
+lation of the provisions of this subchapter is a public
+nuisance subject to injunction and abatement, r e-
+gardless of whether any individual has been co n-
+victed of a violation of this subchapter.
+Cross-reference:
+ Nuisances generally, see §§ 15.225 through
+15.236
+(‘ 90 Code, § 6.50.070, 07/01/1998; Ord. 160, passed, 03/09/1978)
+
+§ 15.731 ADMINISTRATION AND
+ENFORCEMENT.
+
+ The Sheriff shall be responsible for the admin-
+istration and enforcement of this subchapter.
+(‘ 90 Code, § 6.50.060, 07/01/1998; Ord. 160, passed, 03/09/1978)
+
+ADULT ENTERTAINMENT
+
+§ 15.750- TITLE.
+
+ This subchapter shall be known and cited as the
+Adult Bookstore and Adult Theater Law.
+(‘ 90 Code, § 6.65.010, 07/01/1998; Ord. 374, passed, 04/05/1983)
+60 Multnomah County – Sheriff
+(S-1 2019)
+§ 15.751 DEFINITIONS.
+
+ For the purpose of this subchapter, the follo w-
+ing definitions shall apply unless the context r e-
+quires a different meaning.
+
+ ADULT BOOKSTORE. An establishment ha v-
+ing as a substantial or significant portion of its  mer-
+chandise, items such as books, magazines or other
+publications, films or videotapes which are for sale,
+rent or viewing on premises, and which are disti n-
+guished or characterized by their emphasis on ma t-
+ters depicting specified sexual activities. Any
+bookstore or similar establishment which bars entry
+by persons 17 years old or younger is an adult
+bookstore.
+
+ ADULT THEATER.  An establishment used
+primarily for presenting materials for observation by
+patrons therein, having as a dominant theme mater i-
+al distinguished or characterized by an emphasis on
+matters depicting specified sexual activities. Any
+theater which bars entry by persons 17 years old or
+younger is an adult theater.
+
+ SPECIFIED SEXUAL ACTIVITIES.  Real or
+simulated acts of human sexual interco urse, mastur-
+bation, sadomasochistic abuse, or sodomy; or h u-
+man genitals in a state of sexual stimulation or
+arousal.
+(‘ 90 Code, § 6.65.015, 07/01/1998; Ord. 374, passed, 04/05/1983)
+
+§ 15.752 POLICY AND PURPOSE.
+
+ The Board has determined that it is neces sary to
+provide for the annual licensing of adult businesses
+and adult theaters, based upon the findings of appl i-
+cable county zoning code provisions and of this
+subchapter, and to provide for the administration
+and enforcement of this subchapter in order t o pro-
+tect the health, safety, and welfare of the people of
+the county and the use and values of their properties.
+This subchapter shall be liberally construed to those
+ends.
+(‘ 90 Code, § 6.65.020, 07/01/1998; Ord. 374, passed, 04/05/1983)
+
+§ 15.753 LICENSE REQUIRED.
+
+ It shall be unlawful for any person to conduct an
+adult bookstore or adult theater business in uninco r-
+porated the county without a current annual license.
+Penalty, see § 15.999
+(‘ 90 Code, § 6.65.030, 07/01/1998; Ord. 374, passed, 04/05/1983)
+
+§ 15.754 STANDARDS FOR ISSUANCE OF
+LICENSE.
+
+ The Sheriff shall issue an annual license upon a
+finding, as a result of inspection and investigation,
+that:
+
+ (A) An accurate and complete application has
+been filed, and fees paid; and
+
+ (B) That the Sheriff or the Department of Ma n-
+agement and Business Services has certified that the
+applicable county zoning code, Building Code,
+Plumbing Code and other code requirements are sat-
+isfied.
+Cross-reference:
+ Building and Plumbing Codes, see Ch. 29
+(Ord. 978, Amended, 03/07/2002; Ord. 971, Amended, 12/20/2001;
+Ord. 956, Amended, 01/18/2001; ‘ 90 Code, § 6.65.035, 07/01/1998;
+Ord. 374, passed, 04/05/1983)
+
+§ 15.755 DENIAL OR REVOCATION OF
+LICENSE.
+
+ (A) The Sheriff may initiate denial or revocation
+of a license upon finding that a licensee fails to meet
+the requirements of this subchapter or is operating in
+violation of this subchapter or existing laws or o rdi-
+nances.
+
+ (B) Any person whose license has been denied
+or revoked may, after 30 days from the date of the
+denial or revocation, reapply upon the prepayment
+of an application fee in an amount set by Board re s-
+olution. That sum shall not be credited to the appl i-
+cant's annual license fee.
+
+ (C) The Sheriff shall, upon finding that a viol a-
+tion of this subchapter has occurred, provide written
+notice to the licensee of the violation, and shall d e-
+mand that the violation, if continuing, be corrected
+within 30 days from the date of the notice. The n o-
+tice shall describe, with reasonable certainty, the v i-
+olation and the action necessary to correct the viola-
+tion.
+         CHAPTER 15:  SHERIFF          61
+(S-1 2019)
+ (D) The licensee shall notify the Sheriff when
+corrective action under division (C) of this section
+has been taken. The Sheriff shall then make an i n-
+spection, if necessary.
+(‘ 90 Code, § 6.65.040, 07/01/1998; Ord. 374, passed, 04/05/1983)
+
+§ 15.756 UNLICENSED BUSINESS;
+REMOVAL OR RELOCATION.
+
+ (A) Any adult bookstore or adult theater remain-
+ing unlicensed for an uninterrupted period of six
+months shall be deemed in violation of this subchap-
+ter, and shall be removed or be  relocated so as to
+comply with the requirements of this subchapter.
+
+ (B) In the event that two or more adult bus i-
+nesses are close together, and all but one are r e-
+quired to be removed under this subchapter, the one
+legally established for the longer time has superior
+rights to remain.
+(‘ 90 Code, § 6.65.045, 07/01/1998; Ord. 374, passed, 04/05/1983)
+
+§ 15.757 LICENSE FEES AND RENEWAL.
+
+ (A) The annual license fee shall be as set by
+Board resolution.
+
+ (B) The fee shall be due and payable upon in i-
+tial license application and thereafter on the first day
+of April each year.
+
+ (C) The license fee shall be prorated to the full
+month for each full or partial month remaining until
+the next April first.
+
+ (D) Revenue from license fees shall be used to
+offset the co sts of administration and enforcement
+of this subchapter, and for such other purposes as
+the Board may determine in the budget approval
+process.
+(‘ 90 Code, § 6.65.050, 07/01/1998; Ord. 374, passed, 04/05/1983)
+
+§ 15.758 APPEALS AND HEARINGS;
+REVIEW.
+
+ (A) A person receiving notice of an action by
+the Sheriff under this subchapter may request a
+hearing by filing a written request for hearing with
+the She riff within 30 days of receipt of the notice.
+The request shall set forth reasons for the hearing
+and the issues to be heard.
+
+ (B) The Sheriff shall, upon receipt of request for
+hearing, promptly notify the Board, and the Board
+shall set a time and place for hearing not more than
+60 days from the date of receipt of request for hea r-
+ing.
+
+ (C) The Board shall give notice to the person
+requesting hearing as to the time and place for the
+hearing not less than 30 days prior to the hearing.
+
+ (D) The person requesting the hearing, and the
+Sheriff, may make argument, cross examine wi t-
+nesses, submit testimony, rebutt al evidence and
+written documentation, and submit briefs on matters
+pertinent to the issue to be determined.
+
+ (E) All hearings shall be recorded in a manner
+which will allow for a written transcription to be
+made and all materials submitted by the person re-
+questing hearing and the Sheriff shall be retained by
+the Board for a period of at least two years.
+
+ (F) The Board shall issue its order determining
+the question within 30 days from the date of the
+hearing, or any continuance not to exceed 30 days,
+and shall mail a copy of the order to the person r e-
+questing the hearing.
+
+ (G) Review of the action of the Board shall be
+taken solely and exclusively by writ of review in the
+manner set forth in ORS 34.010 to 34.100; pr ovid-
+ed, however, that any aggrieved person may demand
+relief by writ of review.
+(‘ 90 Code, § 6.65.055, 07/01/1998; Ord. 374, passed, 04/05/1983)
+
+§ 15.759 OTHER LAWS APPLY.
+
+ This subchapter shall in no way be a substitute
+for, nor eliminate the necessity of conforming with
+any and all state laws and rules and other county or-
+dinances which relate to the activities regulated by
+this subchapter.
+(‘ 90 Code, § 6.65.060, 07/01/1998; Ord. 374, passed, 04/05/1983)
+
+§ 15.760 ADMINISTRATION AND
+ENFORCEMENT.
+
+ (A) The Sheriff of the county shall be respo nsi-
+ble for the administration and enforcement of this
+subchapter.
+
+62 Multnomah County – Sheriff
+(S-1 2019)
+ (B) The Sheriff may adopt rules necessary to
+the administration and enforcement of this subcha p-
+ter.
+(‘ 90 Code, § 6.65.025, 07/01/1998; Ord. 374, passed, 04/05/1983)
+
+MOTOR VEHICLES; PARKING
+
+§ 15.800- DEFINITIONS.
+
+ For the purpose of this subchapter, the follo w-
+ing definitions shall apply unless the context r e-
+quires a different meaning.
+
+ BUS LOADING ZONES. The space adjacent to
+the curb reserved for the exclusive use of motor
+buses in the  loading and unloading of passengers
+and merchandise and designated by official signs or
+markings.
+
+ CONSTRUCTION ZONE. The space adjacent
+to the curb and in immediate proximity to the pr em-
+ises where construction, alterations, remodeling, re-
+pairing or similar work is in progress and designated
+by official signs or markings.
+
+ CROSSWALK.
+
+  (1) Except as provided in division (2) b e-
+low, that portion of a roadway at an intersection i n-
+cluded within the connections of the lateral lines of
+the sidewalks on opposi te sides of the street or
+highway measured from the curbs, or, in the absence
+of curbs, from the edges of the traveled roadway to
+the property lines, or the prolongation of the lateral
+lines of a sidewalk, to the sidewalk on the opposite
+side of the street , if the prolongation would meet
+that sidewalk; or
+
+  (2) Any portion of a roadway at an intersec-
+tion or elsewhere distinctly indicated for pede strian
+crossing by lines or other markings on the surface of
+the roadway, conforming in design to standards pr e-
+scribed by the state Highway Division. Whenever
+marked crosswalks have been indicated, those
+crosswalks and no other shall be considered lawful
+across the roadway at that intersection.
+
+ CURB. Any raised margin along lines esta b-
+lished by ordinance as curbli nes, defining the space
+in the street devoted to vehicular traffic.
+
+ EMERGENCY ZONE. Places designated with
+official signs, barricades or other markings by the
+Sheriff where, during emergencies or because of
+contingent emergencies, no parking shall be a l-
+lowed.
+
+ ENTRANCE ZONE. The space adjacent to the
+curb in front of the entrance to any public building,
+school building, theater, church or firehouse and
+designated by official signs or markings.
+
+ INTERSECTION. The area embraced within
+the prolongation or connection of the lateral
+curblines or, if none, then of the lateral boundary
+lines of two or more streets or highways which join
+one another at an angle, whether or not one street or
+highway crosses the other.
+
+ LOADING ZONE; TRUCK.  The space adj a-
+cent to the curb reserved for the exclusive use of
+trucks actually engaged in the loading or unloading
+of passengers, goods, wares, merchandise or mat eri-
+als and designated by official signs or markings.
+
+ PARK, PARKING  or PARKED. The stopping
+or standing of any ve hicle upon any street or hig h-
+way, whether that vehicle is occupied or not, othe r-
+wise than temporarily for the purpose of and while
+actually engaged in loading or unloading passengers
+or freight, or in obedience of traffic regulations or
+traffic signs or signals.
+
+ PARKING AREA.  Parking areas owned by or
+under the control of the county, including the par k-
+ing area at the county Exposition Center and any
+other location within the county owned, held under
+a lease or by other interest less than fee, or othe r-
+wise under the control of the county.
+
+ ROADWAY. That portion of a publicly owned
+street or highway improved, designed or ordinarily
+used for vehicular travel.
+
+ SAFETY ZONE.  The area or space officially
+set apart within a roadway for the exclusive use of
+pedestrians and which is protected or is so marked
+or indicated by adequate signs as to be plainly vis i-
+ble at all times while set apart as a safety zone.
+         CHAPTER 15:  SHERIFF          63
+(S-1 2019)
+ SCHOOL BUS. Every motor vehicle owned by
+a public or governmental agency and operated for
+the transportation of children to or from school, or
+privately owned and operated for compensation for
+the transportation of children to or from school, but
+does not include vehicles commonly known and
+used as private passenger vehicles and not operated
+for compensation  except in the transportation of
+children to or from school.
+
+ SCHOOL ZONE.  The space adjacent to or in
+the proximity of a school building or grounds or a
+school crossing and designated by official signs or
+markings.
+
+ SIDEWALK. That portion of a street be tween
+the curblines, or the lateral lines of a roadway, and
+the adjacent property line intended for the use of
+pedestrians.
+
+ SLED. Every vehicle moving over the streets,
+except such vehicles as move exclusively on revolv-
+ing wheels in contact with the surface of the road.
+
+ STREET or HIGHWAY. The entire width b e-
+tween the boundary lines of every way publicly
+maintained when any part of it is open to the use of
+the public for purposes of vehicular traffic.
+
+ TAXICAB. Every motor vehicle, except an a m-
+bulance, equipped with a taximeter which is used as
+a basis for determining rates for the transportation of
+passengers.
+
+ TAXICAB ZONE.  The space adjacent to the
+curb reserved for the exclusive use of taxicabs and
+designated by official signs or markings.
+
+ TOW AWAY ZONE. The space adjacent to the
+curb on any street or avenue, or portion thereof, on
+which stopping or parking has been prohibited for
+specific hours of the day, or otherwise, and which is
+designated as a tow away zone by official signs or
+markings.
+
+ TRAILER. Every vehicle without motor power,
+designed for carrying or accommodating persons or
+property and drawn by a motor vehicle.
+
+ VEHICLE. Every device in, upon, or by which
+any person or property is or may be transported or
+drawn upon any public street  or highway, except
+devices moved by human power or used exclusively
+upon stationary rails or tracks.
+(‘ 90 Code, § 7.10.010, 07/01/1998; Ord. 457, passed, 02/14/1985; Ord.
+140, passed, 03/17/1977; Ord. 54, passed, 06/08/1972)
+
+§ 15.801 COMPLIANCE REQUIRED.
+
+ It shall be unlawful for the driver of a vehicle to
+stop, stand or park that vehicle contrary to the par k-
+ing regulations under §§ 15.802 and 15.803, whet h-
+er attended or unattended, except when nece ssary to
+avoid conflict with other traffic or in compli ance
+with the directions of a police officer or traffic co n-
+trol signal.
+(‘ 90 Code, § 7.10.025, 07/01/1998; Ord. 54, passed, 06/08/1972)
+
+§ 15.802 PRESCRIBED MANNER OF
+PARKING.
+
+ (A) In parking a vehicle on any road, it shall be
+placed with the righthand s ide parallel to the
+righthand curbline and not more than one foot from
+that curbline, provided, however, that on streets
+where only one -way traffic is permitted, a vehicle
+may be parked parallel with the curbline on either
+side of those streets unless othe rwise posted by the
+Department of Community Services and provided,
+further, that the vehicle must be headed in the dire c-
+tion in which traffic is permitted, and that it shall be
+parked so as not to obstruct traffic and not more
+than one foot from the curb.
+ (B) Angle parking is prohibited except where
+properly designated by official signs or markings,
+provided, however, that angle parking of moto rcy-
+cles, motor scooters or other similar two - or three-
+wheel vehicles is permitted if the vehicles do not ex-
+tend more than an average car width from the curb.
+
+ (C) No person shall permit a vehicle in that pe r-
+son's charge to remain backed to the curb of any
+street except while engaged in actually loading or
+unloading the same, and then only when it is abs o-
+lutely necessary for the purpose owing to the weight
+or size of the merchandise being handled, and in no
+event shall it be permissible to allow the vehicle to
+remain for a period greater than 20 minutes. The
+motive power attached to any vehicle so backed to
+the curb s hall be turned parallel to the curb and in
+the direction in which the traffic is required to be
+moved upon the same side of the street, except that
+in case of a truck and trailer combination, the truck
+64 Multnomah County – Sheriff
+(S-1 2019)
+shall be removed and parked separately. All vehicles
+shall be parked parallel to the curb for loading or
+unloading and shall be subject to all rules regarding
+parking within the county.
+Penalty, see § 15.999
+(Ord. 1061, Amended, 05/26/2005, eff. 7/1/2005; Ord. 978, Amended,
+03/07/2002; Ord. 971, Amended, 12/20/2001; Ord. 956, Amended,
+01/18/2001; ‘ 90 Code, § 7.10.050, 07/01/1998; Ord. 457, passed,
+02/14/1985; Ord. 54, passed, 06/08/1972)
+
+§ 15.803 BUS ZONE PARKING
+PROHIBITED.
+
+ It is unlawful for any person to park, except for
+the purpose of loading or unload ing passengers, in
+any bus, local or interurban zone on any street, road
+or highway within the county.
+Penalty, see § 15.999
+(‘ 90 Code, § 7.10.075, 07/01/1998; Ord. 54, passed, 06/08/1972)
+
+§ 15.804 EMERGENCY VEHICLES
+EXCEPTED.
+
+ The provisions of this su bchapter relating to
+stopping, standing or parking shall not apply to v e-
+hicles of the fire and police, authorized emergency
+vehicles or other apparatus when answering calls or
+alarms or going to or from a fire.
+(‘ 90 Code, § 7.10.100, 07/01/1998; Ord. 54, passed, 06/08/1972)
+
+§ 15.805 RIGHT-OF-WAY FOR PARKING.
+
+ The motorist who first begins maneuvering a
+vehicle into a vacant parking space shall have a pri-
+or right -of-way to park in that space, and it is u n-
+lawful for another driver to attempt to deprive the
+motorist of that space by blocking the motorist's ac-
+cess.
+Penalty, see § 15.999
+(‘ 90 Code, § 7.10.125, 07/01/1998; Ord. 54, passed, 06/08/1972)
+
+§ 15.806 PARKING PROHIBITED
+WITHOUT FIRST REMOVING
+KEY.
+
+ (A) It is unlawful for the owner, driver or pe r-
+son in charge of a motor vehicle, to park or permit
+the vehicle to be parked within the limits of the
+county without first stopping the motor, locking the
+ignition and removing the ignition key. If the v ehi-
+cle is attended the ignition key need not be removed.
+
+ (B) Whenever a police officer finds a motor v e-
+hicle parked unattended with the ignition key in the
+vehicle in violation of division (A) of this section
+the police officer may, for purposes of safety, r e-
+move the key from the vehicle and deliver it to the
+person in charge of the nearest police station, pr o-
+vided, however, that due notice is given to the ow n-
+er indicating the key removal and place of deposit.
+Penalty, see § 15.999
+(‘ 90 Code, § 7.10.150, 07/01/1998; Ord. 54, passed, 06/08/1972)
+
+§ 15.807 STOPPING OR PARKING
+PROHIBITED IN SPECIFIED
+PLACES.
+
+ It is unlawful for the driver of a vehicle to stop,
+stand or park the vehicle, whether attended or una t-
+tended, except when necessary to avoid conflict
+with other traffic or in compliance with the dire c-
+tions of a police officer or traffic control signal, in
+any of the following places:
+
+ (A) Within an intersection;
+
+ (B) Within a crosswalk;
+
+ (C) Between a safety zone and the adjacent curb
+or within 30 feet of points of the curb immediately
+opposite the ends o f a safety zone, unless local or
+traffic authorities indicate a different length by signs
+or markings;
+
+ (D) Within 25 feet from the intersection of
+curblines, or if none, then within 15 feet of the inter-
+section of property lines at an intersection within a
+business or residence district;
+
+ (E) Within 30 feet upon the approach to any of-
+ficial flashing beacon, stop sign or traffic control
+signal located at the side of the roadway;
+
+ (F) Within 15 feet of the driveway entrance to
+any fire station;
+
+ (G) Within ten feet of a fire hydrant, with the
+exception of taxicabs occupying properly signed
+taxi zones;
+
+ (H) In front of a private driveway including the
+radius or ramps of the driveway;
+
+         CHAPTER 15:  SHERIFF          65
+(S-1 2019)
+ (I) On a sidewalk or parking strip;
+
+ (J) Alongside or opposite any str eet, road or
+highway excavation or obstruction when stopping,
+standing or parking would obstruct traffic, unless
+the vehicle stopped or parked is being used in co n-
+nection with the maintenance or repair of public or
+private utility service, above, below or upon the sur-
+face of the street or highway and the location of the
+vehicle is necessary in connection with the mainte-
+nance or repair;
+
+ (K) On a roadway side of any vehicle stopped or
+parked at the edge of a street, road or highway;
+
+ (L) At any place where official signs, curb paint
+or markings have been installed prohibiting stan d-
+ing, stopping or parking, provided, however, that
+driver-attended private passenger motor vehicles
+and taxicabs may stop for no longer than 30 seconds
+in the tow away zone for the sole purpose of loading
+or unloading passengers;
+
+ (M) Within a 25 -foot radius of the intersection
+of the centerlines of a street, road or highway and a
+railway crossing;
+
+ (N) In front of the entrance or other place where
+mail is received of any post off ice or postal station,
+or within ten feet of a private mailbox during the
+hours of delivery;
+
+ (O) In any street so as to prevent the free pa s-
+sage of other vehicles in both directions at the same
+time, except on one -way streets, or so as to prevent
+any vehicle from turning from one street into anot h-
+er street;
+
+ (P) In any street, road, highway, alley, lane,
+sidewalk or parking strip for the storage of any v e-
+hicle in lieu of a garage or offstreet parking area;
+
+ (Q) In any street, road or highway for the pu r-
+pose of displaying the vehicle for sale or exchange;
+
+ (R) In any emergency zone;
+
+ (S) In any entrance zone except to load or u n-
+load passengers for a period of time not to exceed
+one minute, except in any area designated as a tow
+away zone during the hour s when stopping or par k-
+ing is prohibited;
+
+ (T) In any bus loading zone, except a motor bus
+or taxicab actually engaged in loading or unloading
+passengers or merchandise for a period not excee d-
+ing two minutes. Taxicabs using any bus loading
+zone shall use only the entrance end of the zone and
+shall not use the zone between the hours of 4:30 and
+6:00 p.m.;
+
+ (U) On private property without the consent of
+the owners of the private property;
+
+ (V) In any construction zone except by vehicles
+actually necessary to the construction work being
+carried on;
+
+ (W) On county-owned or county -operated prop-
+erty designated for use for motor vehicle parking by
+authorized county personnel only, without the co n-
+sent of the county, if there is in plain view on the
+property a si gn prohibiting public parking or r e-
+stricting parking;
+
+ (X) In any street, road, highway, alley, lane or
+on any sidewalk, parking strip, public park property,
+county-owned property or county -operated property
+for more than 24 hours, if the vehicle is disab led or
+abandoned;
+
+ (Y) On either or both sides of any street adj a-
+cent to any school property if there is in plain view
+on that property a sign prohibiting public parking or
+restricting parking;
+
+ (Z) At any place in which stopping, standing or
+parking of vehicles would create an especially h az-
+ardous condition or cause unusual delay to traffic, if
+there is in plain view on the property a sign prohibit-
+ing public parking or restricting parking;
+
+   (AA) In any public park property, county -
+owned property or co unty-operated property when
+parking would interfere with traffic or create a h az-
+ardous situation, if there is in plain view on the
+property a sign prohibiting public parking or r e-
+straining parking; and
+66 Multnomah County – Sheriff
+(S-1 2019)
+  (BB) In any parking area for the purpose of
+displaying the vehicle for sale or offering any pro p-
+erty for sale without a permit issued by the Sheriff
+as provided in § 15.810.
+Penalty, see § 15.999
+(‘ 90 Code, § 7.10.175, 07/01/1998; Ord. 140, passed, 03/17/1977; Ord.
+54, passed, 06/08/1972)
+
+§ 15.808 PARKING TIME LIMIT.
+
+ It is unlawful for any person to park or stop any
+vehicle for a longer period than designated by off i-
+cial signs or other markings, placed by the Depar t-
+ment of Community Services , except on Sundays,
+New Year's Day, Memorial Day, Fourth of Ju ly,
+Labor Day, Veterans Day, Thanksgiving Day and
+Christmas Day. Parking time limits shall be effe c-
+tive only between the hours of 8:00 a.m. and 6:00
+p.m. unless designated “no parking at any time”  or
+otherwise designated by official signs or markings.
+The aggregate of time of all stops on the same side
+of the street of any vehicle within a space of 200
+lineal feet measured along the curbline and within
+intersections shall not exceed the designated time
+limit during any three -hour period, where one - or
+two-hour parking is designated, or during any two -
+hour period where 30-minute parking is designated.
+Penalty, see § 15.999
+(Ord. 1061, Amended, 05/26/2005, eff. 7/1/2005; Ord. 978, Amended,
+03/07/2002; Ord. 971, Amended, 12/20/2001; Ord. 956, Amended,
+01/18/2001; ‘ 90 Code, § 7.10.200, 07/01/1998; Ord. 54, passed,
+06/08/1972)
+
+§ 15.809 PUBLIC PARKING BUSINESSES,
+AUTO SALES OR REPAIR
+BUSINESSES; PROHIBITIONS.
+
+ (A) It is unlawful for the person in charge of a
+public parking business or any auto sales or repair
+business to permit a vehicle to be parked on a street
+while that vehicle is in the custody of the business
+for the purpose of being parked, offered for sale or
+repaired, or for the display of advertising.
+
+ (B) If a vehicle is parked on the street while in
+the custody or possession of a public parking bus i-
+ness or an auto sales or repair business for the pu r-
+pose of being parked, offered for sale or repaired, it
+is prima facie evidence that the person in charge
+permitted the vehicle to be parked on the street.
+ (C) It is unlawful to use the public right -of-way
+for the storage of any object other than a vehicle
+without obtaining a permit from the Department of
+Community Services.
+
+ (D) For the purpose of this section, the follo w-
+ing definitions shall apply unless  the context r e-
+quires a different meaning.
+
+  AUTO SALES OR REPAIR BUSINESS.
+A business offering new or used vehicles for sale or
+offering vehicle repair service.
+
+  PERSON IN CHARGE.  An owner, oper a-
+tor or employee who is physically present and a ctu-
+ally supervising operation of the business.
+
+  PUBLIC PARKING BUSINESS.  A bus i-
+ness offering public offstreet parking as a service.
+Penalty, see § 15.999
+(Ord. 1061, Amended, 05/26/2005, eff. 7/1/2005; Ord. 978, Amended,
+03/07/2002; Ord. 971, Amended, 12/20/2001; Ord. 956, Amended,
+01/18/2001; ‘ 90 Code, § 7.10.225, 07/01/1998; Ord. 54, passed,
+06/08/1972)
+
+§ 15.810 SPECIAL PARKING PERMITS.
+
+ (A) The Sheriff may issue or cause to be issued
+without charge a special parking permit and ident i-
+fication card.
+
+ (B) All s pecial parking permits issued by a u-
+thority of this section shall expire on the last day of
+the calendar year in which issued. A new permit
+may be issued for the ensuing years by the Sheriff in
+the same manner as the original application.
+(‘ 90 Code, § 7.10.250, 07/01/1998; Ord. 457, passed, 02/14/1985; Ord.
+140, passed, 03/17/1977; Ord. 54, passed, 06/08/1972)
+
+§ 15.811 STORAGE PARKING OF HEAVY
+VEHICLES.
+
+ (A) It shall be unlawful for any person, owning
+or having control of any vehicle, trailer or sled, in
+excess of three -quarter-ton capacity, or with gross
+vehicle weight in excess of 6,000 pounds, to park or
+leave it standing for storage in lieu of offstreet or
+garage parking of that equipment, upon any street,
+avenue or public way in a residential area, or  upon
+either side of any street, avenue, or public way in
+front of or adjacent to any residence, church, school,
+multiple dwelling, hospital or playground.
+
+         CHAPTER 15:  SHERIFF          67
+(S-1 2019)
+ (B) This section shall not prohibit the lawful
+parking of the equipment under division (A) of this
+section upon any street, avenue or public way for
+the actual loading or unloading of goods, wares or
+merchandise, provided, however, that loading and
+unloading, as used in this section, shall be limited to
+the actual time consumed in that operation. The
+parking of any equipment under authority of this
+section shall in no event be within 25 feet of the i n-
+tersection of curblines, or if there is no curb, then
+within 15 feet of the intersection of property lines at
+any intersection.
+Penalty, see § 15.999
+(‘ 90 Code, § 7.10.275, 07/01/1998; Ord. 54, passed, 06/08/1972)
+
+§ 15.812 CIVIL EMERGENCIES; PARKING
+PROHIBITED.
+
+ It is unlawful for any person, firm, corporation
+or association to park, cause to be parked, or allow
+to remain parked, a vehicle during any declared civil
+emergency in those areas of evacuation where par k-
+ing has been prohibited by the Sheriff.
+Penalty, see § 15.999
+
+Cross-reference:
+ Emergency area regulations, see §§ 15.325
+through 15.330
+(‘ 90 Code, § 7.10.300, 07/01/1998; Ord. 54, passed, 06/08/1972)
+
+§ 15.813 IMPOUNDMENT.
+
+ (A) When any motor vehicle is found standing
+or parked in or upon any street, road or highway or
+parking area of the county within the jurisdiction of
+this subchapter in violation of, and contrary to, any
+of the provisions o f this subchapter applicable to
+stopping, standing or parking of vehicles, or in v io-
+lation of §15.821 prohibiting aggressive driving, or
+in violation of § 15.820 prohibiting speed racing, the
+owner or person entitled to possession of the motor
+vehicle or a spectator as defined in § 15.820, may be
+issued a citation and the vehicle removed or caused
+to be removed by the Sheriff and held at the expense
+of the owner or person entitled to possession. If a
+vehicle is so removed and held, the provisions rela t-
+ing to notice to owner, appraisal of value and owner
+reclaiming vehicle shall be followed in ORS
+809.725 and ORS Chapter 819. If the vehicle is not
+redeemed within 30 days it will be disposed of as
+prescribed in ORS Chapter 819.
+
+ (B) The Sheriff may authorize another police
+agency to remove and hold motor vehicles that are
+found in violation of this subchapter, § 15.821, or §
+15.820, and may also define the geographical area
+within which the agency may order such removal. If
+a vehicle is so removed and held by another police
+agency, that agency shall provide notice to the ow n-
+er of the removal in accordance with the proc edures
+of the removing agency.
+(Ord. 1057, Amended, 02/17/2005; Ord. 976, Amended, 02/07/2002; ‘
+90 Code, § 7.10.325, 07/01/1998; Ord. 878, passed, 04/10/1997; Ord.
+815, passed, 04/06/1995; Ord. 457, passed, 02/14/1985; Ord. 140,
+passed, 03/17/1977; Ord. 54, passed, 06/08/1972)
+
+§ 15.814 SIGNS; CURB MARKINGS.
+
+ The Sheriff is authorized to install or cause to be
+installed proper signs, curb marking  or other desi g-
+nations reasonably necessary to carry out any of the
+provisions of this subchapter.
+(‘ 90 Code, § 7.10.350, 07/01/1998; Ord. 457, passed, 02/14/1985; Ord.
+54, passed, 06/08/1972)
+
+MOTOR VEHICLES; DRIVING
+
+§ 15.820- SPEED RACING PROHIBITED.
+
+ (A) For purposes of this subchapter, the follo w-
+ing definitions apply unless the context requires a
+different meaning:
+
+  SPEED RACING is defined as set forth in
+ORS 811.125.
+
+  SPECTATOR is a person who attends a
+speed racing activity for the purpose of e ncouraging
+such activity.
+
+ (B) It is unlawful for any person to participate
+in speed racing upon any street, public or private, or
+any premise open to the public, within unincorp o-
+rated Multnomah County.
+
+ (C) It is unlawful for any person to be a spect a-
+tor of speed racing within unincorporated
+Multnomah County.
+68 Multnomah County – Sheriff
+(S-1 2019)
+ (D) Any vehicle utilized within unincorporated
+Multnomah County in violation of this subchapter,
+including vehicles belonging to, or under the control
+of, spectators may be towed without notice an d all
+passengers and occupants promoting or encouraging
+may be cited, subject to the provisions of MCC §
+15.813.
+(Ord. 976, Added, 02/07/2002)
+
+§ 15.821 AGGRESSIVE DRIVING PROHIB-
+ITED.
+
+ (A) A person commits the offense of aggressive
+driving if the person e ngages in continuous conduct
+by violating two or more of the following moving
+traffic violations with the intent to harass, alarm,
+annoy, intimidate or obstruct another motorist or
+vehicle:
+
+Following too closely  ORS 811.485
+Improper stopping or stand-
+ing
+ORS 811.500
+Improper lane change  ORS 811.370 -
+811.385
+Violation of any speed rule  ORS 811.100 -
+811.130
+Unsafe passing  ORS 811.410 -
+811.425
+Unlawful use of vehicle
+lighting
+ORS 811.515(6)(b)
+Improper use of a vehicle
+horn
+ORS 815.225(b)
+Failure to yield the right of
+way
+ORS 811.275 -
+811.292
+
+(B) The offense described in this section, a g-
+gressive driving, is a Class A violation and is appl i-
+cable upon any premises open to the public.  A pe r-
+son who commits the offense of aggressive driving
+may be required to attend an educational program
+approved by the division of motor vehicles designed
+to improve the safety and habits of drivers.
+
+ (C) Any vehicle utilized within unincorporated
+Multnomah County in violation of this subchapter,
+may be towed without notice subject to the prov i-
+sions of MCC § 15.813.
+(Ord. 1057, Add, 02/17/2005)
+OFF-ROAD VEHICLES
+
+§ 15.850- TITLE; APPLICATION.
+
+ This subchapter shall be known and cited as the
+county Off -Road Vehicle Law, and shall apply to
+the unincorporated areas of the county.
+(‘ 90 Code, § 10.50.005, 07/01/1998; Ord. 93, passed, 02/20/1975)
+
+§ 15.851 DEFINITIONS.
+
+ For the purpose of this subchapter, the follo w-
+ing definitions shall apply unless the context r e-
+quires a different meaning.
+
+ NONROAD AREA. Any area that is not a road,
+or a road which is closed to off -road vehicles and
+posted as such but does not include areas commonly
+held open to vehicular use, such as parking lots and
+racetracks.
+
+ OFF-ROAD VEHICLE.  Every self -propelled
+motor vehicle designed or c apable of traversing on
+or over natural terrain, including but not limited to
+snowmobiles, minibikes, motorcycles, four -wheel
+drive trucks, pickups, all -terrain vehicles, jeeps,
+half-tracks and helicopters, but does not include, un-
+less used for purposes prohibited by this subchapter,
+implements of husbandry or military, fire, emerge n-
+cy or law enforcement vehicles used for legal pu r-
+poses.
+
+ ROAD. Every public way, thoroughfare, road,
+street or easement within the county used or i ntend-
+ed for use by the general public for vehicular travel.
+(‘ 90 Code, § 10.50.010, 07/01/1998; Ord. 93, passed, 02/20/1975)
+
+§ 15.852 POLICY.
+
+ The Board has determined that off-road vehicles
+can provide appropriate, useful and energy -efficient
+alternatives to automobiles when prope rly operated,
+but that the unregulated use of off -road vehicles is a
+nuisance to the people of the county and causes
+damage to and deterioration of the environment, det-
+rimental to the health, safety and welfare of the peo-
+ple.
+(‘ 90 Code, § 10.50.020, 07/01/1998; Ord. 93, passed, 02/20/1975)
+         CHAPTER 15:  SHERIFF          69
+(S-1 2019)
+§ 15.853 OPERATION OF OFF-ROAD
+VEHICLES.
+
+ It shall be unlawful for any person to operate an
+off-road vehicle on any non-road area which the op-
+erator does not own, unless:
+
+ (A) The operator possesses written permission
+from the owner, contract purchaser or lessee of the
+nonroad area;
+
+ (B) The operator possesses written evidence of
+membership in a club or association to which the
+owner, contract purchaser or lessee of the nonroad
+area has given written permission and a c opy of
+which has been filed with the Sheriff;
+
+ (C) The owner, contract purchaser or lessee of
+the nonroad area has designated the non-road area as
+open for recreational purposes in accordance with
+applicable state law by filing consent and other i n-
+formation necessary to identify the area with the
+Sheriff; or
+
+ (D) The owner, contract purchaser or lessee has
+designated the nonroad area as being open to off -
+road vehicle use by posting notice thereof in a form
+and manner prescribed by the Sheriff.
+(‘ 90 Code, § 10.50.040, 07/01/1998; Ord. 93, passed, 02/20/1975)
+
+§ 15.854 FALSIFICATION PROHIBITED.
+
+ It shall be unlawful for any person to:
+
+ (A) Falsify the written permission required by §
+15.853(A);
+
+ (B) Falsify the evidence of club or association
+membership or the written permission required by §
+15.853(B);
+
+ (C) Falsify the filing or consent required by §
+15.853(C); or
+
+ (D) Post the notice or remove the posted notice
+required by § 15.853(D) without the consent of the
+owner, contract purchaser or lessee.
+Penalty, see § 15.999
+(‘ 90 Code, § 10.50.060, 07/01/1998; Ord. 93, passed, 02/20/1975)
+
+§ 15.855 ARREST; IMPOUNDMENT.
+
+ (A) (1) The Sheriff may arrest the person ope r-
+ating an off -road vehicle when the person is found
+in the act of operating an off -road vehicle in viol a-
+tion of this subchapter, except, however, the Sheriff
+may issue a citation in accordance with ORS
+133.070 in lieu of exercising custody of the oper a-
+tor.
+
+  (2) The Sheriff may seize any off -road ve-
+hicle incident to arrest or citation of the ope rator if
+the Sheriff has reasonable grounds to believe that
+the vehicle was operated with willful or reckless dis-
+regard of the likelihood that the operation would
+cause substantial damage to the off -road area, and
+that substantial damage has been caused by  that op-
+eration.
+
+  (3) The Sheriff shall retain possession of
+the vehicle, if seized, and, in any event, proceed at
+once against the person arrested in the appropriate
+court of the county.
+
+ (B) (1) If the person arrested is the legal owner
+of a seized ve hicle, it shall be returned to the owner
+upon execution of a good and valid bond, or cash
+deposit, with sureties acceptable to the Sheriff, in a
+sum equal to the average value of the vehicle as
+stated in a list of average values of known vehicle
+categories, prepared by the Sheriff and approved by
+the Board, which bond or cash deposit shall be co n-
+ditioned upon the return of the vehicle to the Sheriff
+upon disposition of the judgment of the court.
+
+  (2) If the person arrested is convicted of a
+violation of t his subchapter and is the owner of the
+off-road vehicle, the vehicle shall be subject to di s-
+position as provided in § 15.856.
+
+ (C) If the person arrested is not the legal owner
+of a seized vehicle, the Sheriff shall make all re a-
+sonable efforts to identify  the name and address of
+the owner. If the Sheriff is able to determine the
+name and address of the owner, the Sheriff shall n o-
+tify the owner by registered or certified mail of the
+seizure and inform the owner of the owner's rights
+under division (D) of this section.
+70 Multnomah County – Sheriff
+(S-1 2019)
+ (D) (1) Any person notified under division (C)
+of this section, any owner of the vehicle or any other
+person asserting a claim of lawful possession of a
+seized vehicle, may, prior to trial, move the court for
+return of the vehicle or obtain po ssession of the v e-
+hicle by posting bond or cash in accordance with d i-
+vision (B) of this section.
+
+  (2) The court shall, upon receipt of m otion
+for return of vehicle, hold a hearing to dete rmine if
+the owner, or other person asserting a lawful claim
+to the  vehicle, had any knowledge that the v ehicle
+would be used in violation of this subchapter.
+
+  (3) If the court determines by clear and
+convincing evidence that the movant had knowledge
+that the person arrested would use the vehicle in
+violation of this su bchapter, the vehicle shall not be
+returned to the movant except in accordance with
+division (B) of this section, and the vehicle shall be
+subject to forfeiture as specified in § 15.856.
+
+ (E) If the person arrested is not convicted of a
+violation of this subchapter and the Sheriff is in pos-
+session of the vehicle, it shall immediately be r e-
+turned to the owner.
+(‘ 90 Code, § 10.50.080, 07/01/1998; Ord. 93, passed, 02/20/1975)
+
+§ 15.856 DISPOSITION OF VEHICLE.
+
+ (A) (1) The court, upon conviction of the person
+arrested, may order a return of a seized vehicle to
+the owner after payment of all expenses, or it may,
+upon motion made by the district attorney, order
+forfeiture and sale of the vehicle at public auction
+by the Sheriff.
+
+  (2) In determining whether to  order a fo r-
+feiture and sale of the vehicle, the court shall co n-
+sider the amount of damage caused by the use of the
+vehicle, and the willfulness or recklessness of the
+violation.
+
+ (B) If the court orders a forfeiture and sale of
+the vehicle, the Sheriff, after deducting an amount
+set by Board resolution for administrative expenses
+plus all other expenses incurred, shall pay, to the ex-
+tent of the remaining proceeds, all liens of record,
+ratably and according to their priorities. Any ba l-
+ance remaining shall be paid into the general fund of
+the county.
+ (C) If no person claims the vehicle, the Sheriff
+shall advertise the sale of the vehicle and the d e-
+scription thereof in accordance with the requir e-
+ments of this chapter relating to disposition of u n-
+claimed prop erty. Proceeds from the sale of the
+property, after deducting the expenses and costs,
+shall be paid into the funds of the county to be used
+to develop a system of off -road vehicle trails or f a-
+cilities. The Board may authorize the Sheriff to
+submit a bid fo r purchase at the public sale if the
+vehicle could be used for county purposes. Unsold
+property may be destroyed.
+(‘ 90 Code, § 10.50.100, 07/01/1998; Ord. 93, passed, 02/20/1975)
+
+§ 15.857 OFF-ROAD TRAIL SYSTEM.
+
+ The Board may develop, maintain and regul ate
+facilities for the enjoyment of off -road vehicles and
+shall conspicuously post those areas as off -road ve-
+hicle areas.
+(‘ 90 Code, § 10.50.120, 07/01/1998; Ord. 93, passed, 02/20/1975)
+
+§ 15.858 OTHER LAWS APPLY.
+
+ This subchapter shall not be a substit ute for or
+eliminate the necessity of conformity with any and
+all state laws and rules, and other ordinances which
+are now or may be in the future in effect which r e-
+late to the activities regulated in this subchapter.
+(‘ 90 Code, § 10.50.140, 07/01/1998; Ord. 93, passed, 02/20/1975)
+
+§ 15.999 PENALTY.
+
+ (A) General penalty.  Any person who violates
+any provision of this chapter for which no other
+specific penalty is provided shall, upon conviction,
+be punished by a fine of not more than the amount
+provided by state law for a Class A violation. Each
+day such violation continues shall constitute a sep a-
+rate offense. This penalty is in addition to and not in
+lieu of other procedures and remedies provided by
+this chapter or state law.
+
+ (B) Curfew violations. Any minor violating any
+of the provisions of §§ 15.050 or 15.051 may be a p-
+prehended and taken into cu stody as provided in
+ORS 419C , and may be subjected to further pr o-
+ceedings as provided therein.
+(Ord. 976, Amended, 02/07/2002; ‘ 90 Code, § 7.45.900, 07/01/1998)

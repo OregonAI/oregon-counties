@@ -1,0 +1,628 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-land-use-columbia-river-gorge-national-scenic-area-rural-area-plan-po
+title: 'Columbia River Gorge National Scenic Area Rural Area Plan Policy'
+doc_type: ordinance
+citation: 'Columbia River Gorge National Scenic Area Rural Area Plan Policy'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://multco.us/file/columbia_river_gorge_national_scenic_area_rural_area_plan_policy/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 5fa547375e1a5f427dac7e7b9fc3dc49bf3e784a77344312747a1c6b319bdde8
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 196.107
+  related: []
+  supersedes: []
+tags: [multnomah-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Columbia River Gorge National Scenic Area Rural Area Plan Policy (Columbia River Gorge National Scenic Area Rural Area Plan Policy)
+
+## At a glance
+
+Columbia River Gorge National Scenic Area Rural Area Plan Policy — land use of Multnomah County. 16 pages.
+
+## Full text
+
+Columbia River Gorge National Scenic Area Rural
+Area Plan Policy Document
+
+December 16, 2021
+
+Table of Contents
+PURPOSE OF THE RURAL AREA PLAN ............................................................................................... 1
+INTRODUCTION TO AND OVERVIEW OF THE RURAL AREA PLAN .......................................... 1
+Rural Area Plan Policy ......................................................................................................................... 1
+INTRODUCTION TO THE MANAGEMENT PLAN FOR THE COLUMBIA RIVER GORGE
+NATIONAL SCENIC AREA ...................................................................................................................... 3
+RELATIONSHIP OF THE RURAL AREA PLAN TO OTHER EXISTING PLANS AND
+REGULATIONS .......................................................................................................................................... 3
+MANAGEMENT PLAN FOR THE COLUMBIA RIVER GORGE NATIONAL SCENIC AREA .............................................. 3
+Management Plan for the Columbia River Gorge National Scenic Area Policies .................................4
+LAND AND RESOURCE MANAGEMENT PLAN FOR THE MT. HOOD NATIONAL FOREST .......................................... 4
+Land and Resource Management Plan for the Mt. Hood National Forest Policy ................................. 5
+INDIAN TRIBES’ SOVEREIGN RIGHTS AND TREATIES.......................................................................................................... 5
+Indian Tribe’s Sovereign Rights and Treaties Policy ........................................................................... 5
+OREGON STATEWIDE PLANNING GOALS ................................................................................................................................. 5
+OREGON REVISED STATUTES ...................................................................................................................................................... 5
+Oregon Statewide Planning Goals Policy ............................................................................................. 6
+MULTNOMAH COUNTY COMPREHENSIVE FRAMEWORK PLAN ....................................................................................... 6
+Comprehensive Framework Plan Policy .............................................................................................. 6
+AUTHORITY IN THE COLUMBIA RIVER GORGE NATIONAL SCENIC AREA ......................... 6
+COLUMBIA RIVER GORGE COMMISSION ................................................................................................................................ 6
+Columbia River Gorge Commission Policy .......................................................................................... 7
+U.S. DEPARTMENT OF AGRICULTURE, FOREST SERVICE .................................................................................................. 7
+Forest Service Policies ......................................................................................................................... 8
+INDIAN TRIBES ................................................................................................................................................................................. 8
+Indian Tribes Policies ........................................................................................................................... 8
+METRO REGIONAL GOVERNMENT JURISDICTION WITHIN SCENIC AREA .................................................................... 9
+Metro Jurisdiction Policy ..................................................................................................................... 9
+MULTNOMAH COUNTY ................................................................................................................................................................. 9
+Multnomah County Authority Policies ................................................................................................ 10
+CITY OF TROUTDALE ................................................................................................................................................................... 10
+City of Troutdale Policy ...................................................................................................................... 11
+ISSUES NOT SPECIFICALLY ADDRESSED IN THE MANAGEMENT PLAN FOR THE
+COLUMBIA RIVER GORGE NATIONAL SCENIC AREA ................................................................ 11
+GEOLOGIC HAZARD ....................................................................................................................................................................... 11
+ Geologic Hazard Policies............................................................... ............................ .............12
+OFF-STREET PARKING AND LOADING ................................................................................................................................... 12
+Off-Street Parking and Loading Policy............................................................................................... 12
+LAND DIVISIONS ........................................................................................................................................................................... 12
+Land Divisions Policies ...................................................................................................................... 13
+PLANNED DEVELOPMENTS ........................................................................................................................................................ 13
+Planned Developments Policy ............................................................................................................ 13
+VARIANCES TO DIMENSIONAL STANDARDS ....................................................................................................................... 13
+
+Variances to Dimensional Standards Policy ...................................................................................... 13
+
+i
+PURPOSE OF THE RURAL AREA PLAN
+The purpose of this Rural Area Plan is to guide decision making regarding land use, capital
+improvements, and physical development of the Multnomah County portion of the Columbia
+River Gorge National Scenic Area.
+INTRODUCTION TO AND OVERVIEW OF THE RURAL AREA PLAN
+Multnomah County recognizes that the Management Plan for the Columbia River Gorge
+National Scenic Area is the guiding policy document for the NSA portion of the County. The
+Rural Area Plan is intended to complement the Management Plan for the Columbia River
+Gorge National Scenic Area and the Multnomah County Comprehensive Framework Plan. The
+Multnomah County Comprehensive Framework Plan is the guiding land use planning policy
+document for the County. The Rural Area Plan is an element of the overall Multnomah County
+Comprehensive Framework Plan. The Rural Area Plan and the Management Plan for the
+Columbia River Gorge National Scenic Area guide decision making wit h regard to land use,
+capital improvements, and physical development of the community.
+
+This Rural Area Plan for the Columbia River Gorge National Scenic Area (“Scenic Area”)
+explains how Multnomah County conducts land use planning in the portion of the Scenic Area
+within the County. The Scenic Area covers 85 miles along the Columbia River, including
+portions of Multnomah, Hood River, and Wasco counties in Oregon and Clark, Klickitat, and
+Skamania counties in Washington, and the Mt. Hood and Gifford Pinchot National Forests.
+
+Rural Area Plan Policy
+The purposes of the Columbia River Gorge National Scenic Area Districts are to
+protect and provide for the enhancement of the scenic, cultural, recreational, and natural
+resources of the Columbia River Gorge, and to protect and support the economy of the
+Columbia River Gorge by encouraging growth to occur in existing urban areas and by allowing
+future economic development in a manner that protects and enhances the scenic, cultural,
+recreational, and natural res ources of the Gorge . The Rural Area Plan explains the various
+sources for the County’s authority to administer land use planning in the Scenic Area and
+identifies the other agencies the County partners with to manage the Scenic Area. The list below
+shows the hierarchy of authority for land use planning in the Multnomah County portion of
+the Scenic Area. Agencies are shown in bold, their guiding plans and regulations in italic, and
+their primary responsibility in plain type.
+
+Introduction to the Columbia River Gorge National Scenic Area Act
+U.S. Congress established the Scenic Area with Columbia River Gorge National Scenic Area
+Act (“the Act” —Public Law 99 -663) on November 17, 1986. Congress called for the
+preparation of a management plan that would treat the portions of six counties in the states of
+Oregon and Washington as a region. The Congress also established a two-tiered management
+approach that divide s responsibility between the U.S. Department of Agriculture, Forest
+Service (U.S. Forest Service) and the Columbia River Bi -State Gorge Commission. Congress
+directed the U.S. Forest Service to prepare land use designations and guidelines for the Special
+Management Areas (SMA). The SMA includes the region’s most sensitive lands, concentrated
+
+primarily in the western half of the Scenic Area. Congress authorized the Gorge Commission
+to plan for General Management Area (GMA) lands, which include agricultural, forestry, and
+residential uses.
+
+INTRODUCTION TO THE MANAGEMENT PLAN FOR THE COLUMBIA RIVER
+GORGE NATIONAL SCENIC AREA
+The Gorge Commission adopted Federal Interim Guidelines for the Scenic Area in 1988 and
+adopted the Management Plan for the Columbia River Gorge National Scenic Area on October
+15, 1991. The U.S. Secretary of Agriculture gave his concurrence of the Management Plan for
+the Columbia River Gorge National Scenic Area on February 13, 1992. As part of the National
+Scenic Area Act, Congress directed the Gorge Commission to conduct a comprehensive review
+of the Management Plan for the Columbia River Gorge National Scenic Area at least once
+every 10 years, to determine if it needs to be revised. The Commission started their first 10-
+year review in the spring of 2001. After public feedback and testimony, the Gorge Commission
+adopted a revised Plan on April 27, 2004. A similar comprehensive review process concluded
+on October 13, 2020 following a three year public planning process when the Gorge
+Commission adopted revisions to the Management Plan. As required under the Act, the U.S.
+Secretary of Agriculture has since concurred with the revisions and the Gorge Commission
+transmitted a final version of the Management Plan for the Columbia River Gorge National
+Scenic Area to Multnomah County on March 16, 2021. From this date, the County had 60
+days to inform the Gorge Commission if it would be revising its codes to implement the
+changes (which Multnomah County did on March 29, 2021) and began the local code
+amendment process implementing the Management Plan revisions. The Multnomah County
+Planning Commission considered proposed revisions to Chapter 38 regulations  at a public
+hearings on October 4 and November 1, 2021. The Multnomah County Board of
+Commissioners considered an ordinance  amending Chapter 38 and this rural area plan policy
+document which is a component of the Multnomah County Comprehensive Plan at public
+hearings on December 2 and 16, 2021.
+
+RELATIONSHIP OF THE RURAL AREA PLAN TO OTHER EXISTING PLANS
+AND REGULATIONS
+
+Management Plan for the Columbia River Gorge National Scenic Area
+The Management Plan for the Columbia River Gorge National Scenic Area serves as the overall
+policy document or comprehensive plan that guides the regulations in Multnomah County Code
+Chapter 38. The Management Plan for the Columbia River Gorge National Sce nic Area
+regulates land use to ensure that development does not compromise the scenic, cultural, natural,
+and recreational resources of the Gorge that are of particular value to the nation, and to protect
+agricultural,  forest,  and  recreation  land  and  open  spaces.  The  Management  Plan  for the
+
+Columbia River Gorge National Scenic Area applies to all six counties in the Scenic Area. The
+policies and strategies incorporated into this Rural Area Plan are only applicable to the
+Multnomah County portion of the Scenic Area. In addition, the Rural Area Plan contains
+specific policy direction for provisions in the Multnomah County Code that are not provided
+by the Management Plan for the Columbia River Gorge National Scenic Area. The Rural Area
+Plan is intended to complement the Management Plan for the Columbia River Gorge National
+Scenic Area and the Multnomah County Comprehensive Framework Plan.
+
+The Multno mah County Comprehensive Framework Plan is the guiding land use planning
+policy document for the County. The Rural Area Plan is an element of the overall Multnomah
+County Comprehensive Framework Plan. The Comprehensive Framework Plan applies to all
+areas of Multnomah County, both in the Scenic Area and not in the Scenic Area. The plan can
+be changed only if it goes through the process of an official plan amendment. Policy 1.5 of the
+Comprehensive Framework Plan is to implement the goals, objectives, policies, guideline
+elements, and maps of the Management Plan for the Columbia River Gorge National Scenic
+Area.
+The Rural Area Plan, as an element of the Comprehensive Framework Plan, and the
+Management Plan for the Columbia River Gorge National Scenic Area guide decision making
+with regard to land use, capital improvements, and physical development of the community. It
+will be used by the County, other governmental agencies, developers and residents of the area.
+In the event of a conflict between the Comprehensive Framework Plan, Rural Area Plan and
+the Management Plan, the policies and guidelines of the Management Plan for the Columbia
+River Gorge National Scenic Area will prevail.
+
+Management Plan for the Columbia River Gorge National Scenic Area Policies
+Multnomah County recognizes that the Management Plan for the Columbia River
+Gorge National Scenic Area, in conjunction with the Rural Area Plan as an element of
+the Comprehensive Framework Plan, serves as the policy document that guides land
+use regulation in the Scenic Area.
+Multnomah County shall amend Chapter 38, Columbia River Gorge National Scenic
+Area, of the Multnomah County Code as needed to be consistent with the Management
+Plan for the Columbia River Gorge National Scenic Area.
+
+Land and Resource Management Plan for the Mt. Hood National Forest
+The Management Plan for the Columbia River Gorge National Scenic Area and the Mt. Hood
+Land and Resource Management Plan guide land management on National Forest System land
+in the Scenic Area. The Rural Area Plan has no relationship to the Land and Resource
+Management Plan, as the Rural Area Plan does not guide management of federal land, and the
+Land and Resource Management Plan does not apply to non-federal land.
+Land and Resource Management Plan for the Mt. Hood National Forest Policy
+Multnomah County recognizes that the Management Plan for the Columbia River
+Gorge National Scenic Area and the Land and Resource Management Plan for the Mt.
+Hood National Forest serve as the policy documents that gui de land use management
+on National Forest System Land in the Scenic Area.
+
+Indian Tribes’ Sovereign Rights and Treaties
+The four Columbia River Treaty Tribes (The Nez Perce Tribe, the  Confederated Tribes of the
+Umatilla Indian Reservation, the Confederated Tribes of Warm Springs, and the Confederated
+Tribes and Bands of the Yakama Indian Nation) signed treaties with Congress the United Stated
+in 1855. These treaties ceded to the United States legal title to millions of acres of land. They
+also reserved and guaranteed certain aboriginal rights exercised by Indian people since time
+immemorial. The legally protected sovereign and treaty rights belong to each of the four
+Columbia River treaty tribe s and are regulated and enforced by the respective Indian tribal
+governments. The Indian tribal governments exercise inherent sovereign powers, as limited by
+treaty or act of Congress. Multnomah County and the Rural Area Plan mus t observe these
+rights.
+
+Indian Tribe’s Sovereign Rights and Treaties Policy
+Ensure that the Multnomah County Code Chapter 38 and its application do not
+adversely affect treaty or other rights of any of the four Columbia River treaty tribes.
+
+Oregon Statewide Planning Goals
+The foundation of the Oregon land use planning program is a set of 19 Statewide Planning
+Goals that express the state´s policies on land use and on related topics, such as citizen
+involvement, housing, and natural resources. Oregon´s statewide goals are achieved through
+local comprehensive planning. State law requires each city and county to adopt a
+comprehensive plan and the zoning and land-division ordinances needed to put the plan into
+effect. The local comprehensive plans must be consistent with the Statewide Planning Goals.
+Plans are reviewed for such consistency by the state´s Land Conservation and Development
+Commission. When Land Conservation and Development Commission officially approves a
+local government´s plan, the plan is said to be ´acknowledged.´ It then becomes the controlling
+document for land use in the area covered by that plan.
+In enacting ORS 196, the Oregon Legislative Assembly found that the Management Plan for
+the Columbia River Gorge National Scenic Area achie ves on balance the purposes of the
+Statewide Planning Goals (ORS 196.107(1)). Therefore the County applies the Management
+Plan for the Columbia River Gorge National Scenic Area in the scenic area rather than the
+Statewide Planning Goals. The Rural Area Plan, as a complement to the Management Plan for
+the Columbia River Gorge National Scenic Area, does not directly address the Statewide
+Planning Goals.
+
+Oregon Revised Statutes
+The Oregon State Legislature codified the Scenic Area Act in Oregon Revised Statutes Chapter
+196. The statutes establish the relationship of the Gorge Commission; Multnomah, Wasco, and
+Hood River counties; and the Oregon Land Conservation and Development Commission. The
+statutes also establish the relationship among the Management  Plan for the Columbia River
+Gorge National Scenic Area, Oregon Statewide Planning Goals, and county plans and
+ordinances.
+Oregon Statewide Planning Goals Policy
+Multnomah County recognizes that the Oregon State Legislative Assembly and the
+Department of Land Conservation and Development consider the Management Plan
+
+for the Columbia River Gorge National Scenic Area to achieve, on balance, the
+objectives of the Statewide Planning Goals.
+
+Multnomah County Comprehensive Framework Plan
+The Framework plan establishes goals, policies, and strategies to guide de velopment in the
+County. Policy 1.5: Columbia River Gorge National Scenic Area, states that it is the County’s
+policy to implement the  goals, objectives, policies, and guideline elements of the
+Management Plan for the Columbia River Gorge National Scenic Area. The strategy to
+implement this policy is to amend and apply the zoning districts and review procedures of the
+zoning code to implement the Management Plan for the Columbia River Gorge National Scenic
+Area.
+
+Comprehensive Framework Plan Policy
+The Rural Area Plan is an element of the Multnomah County Comprehensive
+Framework Plan, and together with the Management Plan for the Columbia River
+Gorge National Scenic Area, provides the policy basis for Multnomah County Code
+Chapter 38.
+
+AUTHORITY IN THE COLUMBIA RIVER GORGE NATIONAL SCENIC AREA
+Columbia River Gorge Commission
+Through an inter-state compact, the states of Oregon and Washington established the Columbia
+River Gorge Commission. The Commission is comprised of 12 volunteers. Each County
+appoints one Commissioner. The Governors of Washington and Oregon each appoint three.
+One non-voting member is appointed by the U.S. Secretary of Agriculture. Members serve for
+a period of four years. The two states share the cost of the Gorge Commission’s budget and
+expenditures equally.
+The Gorge Commission’s activities with respect to Multnomah County include:
+• Developing and adopting land use and resource protection policy through the Management
+Plan for the Columbia River Gorge National Scenic Area.
+• Serving as the appeals board for Scenic Area land use decisions issued by Multnomah
+County. This function serves to increase uniformity of implementa tion through the six
+counties and two states in the scenic area.
+• Working with Multnomah County and the other five Scenic Area counties who administer
+the land use ordinances that implement Management Plan for the Columbia River Gorge
+National Scenic Area.
+The Gorge Commission’s powers with respect to land use in Multnomah County include:
+• The power to disapprove a land use ordinance enacted by Multnomah County if the
+ordinance is inconsistent with the Management Plan for the Columbia River Gorge
+National Scenic Area.
+
+• The power to enact a land use ordinance that sets standards for the use of non-federal land
+if the County fails to enact land use ordinances consistent with the Management Plan for
+the Columbia River Gorge National Scenic Area.
+
+• The power to consider and decide appeals filed by any person or entity adversely affected
+by a final action or order of the County relating to the implementation of the National
+Scenic Area Act.
+Multnomah County sends land use applications to the Gorge Commission for its review as part
+of the County’s site review process.
+
+Columbia River Gorge Commission Policy
+Multnomah County recognizes the Columbia River Gorge Commission’s responsibility
+for revising the Management Plan for the Columbia River Gorge National Scenic Area
+and its authority to serve as an appeals board for Multnomah County Scenic Area land
+use decisions.
+
+U.S. Department of Agriculture, Forest Service
+The U.S. Forest Service determines the consistency of projects on federal lands with the
+Management Plan for the Columbia River Gorge National Scenic Area. The U.S. Forest
+Service administers the National Forest System lands within the special management areas of
+Multnomah County in accordance with the Act, the Land and Resource Management Plan for
+Mt. Hood National Forest (1990), and other laws, rules and regulations applicable to the
+National Forest System. Multnomah County accepts applications for new development and
+uses in th e SMA on non- federal land and forwards them to the U.S. Forest Service for their
+review and for certain additional resource information. Multnomah County coordinates with
+the U.S. Forest Service to obtain technical support with respect to cultural resource s,
+anadromous fisheries, oak woodland and wetlands management on non-federal lands. The U.S.
+Forest Service also maintains and updates a geographic information systems for use by the
+counties, Gorge Commission, and U.S. Forest Service.
+The U.S. Forest Service’s other activities and responsibilities include:
+• Assuring that actions on all federal lands are consistent with the Act.
+• Concurring on consistency of Management Plan for the Columbia River Gorge National
+Scenic Area amendments with the Act, and concurring on consistency of SMA ordinances
+with the Management Plan for the Columbia River Gorge National Scenic Area (authority
+delegated from the Secretary of Agriculture to the Region 6 Regional Forester).
+• Consulting with Indian tribal governments at the government -to-government level to
+determine the effect of all new development or uses in the SMA on treaty rights. The U.S.
+Forest Service notifies the County of the determination as part of the review process.
+• Continue to acquire SMA and Dodson/Warrendale  Special Purchase Unit land through
+purchase, donation, or land exchange.
+• Provide fish and wildlife resource information to counties and the Gorge Commission.
+• Provide historic resource information to counties and the Gorge Commission.
+• Provide technical ass istance in SMA forest practices review for consistency with the
+Management Plan for the Columbia River Gorge National Scenic Area.
+
+U.S. Forest Service Policies
+Multnomah County recognizes the authority of the U.S. Forest Service to manage
+National Forest System lands in the Scenic Area according to the Management Plan
+
+for the Columbia River Gorge National Scenic Area and the Land and Resource
+Management Plan for the Mt. Hood National Forest.
+
+Multnomah County recognizes the authority of the U.S. Forest Service to determine
+consistency with the Management Plan for the Columbia River Gorge National Scenic
+Area for all projects on federal lands in the Scenic Area.
+
+Multnomah County shall foster close cooperation with the U.S. Forest Service in order
+to coordinate review of development proposals for SMA lands.
+
+Indian Tribes
+Four tribal entities with interests in the Scenic Area play an important role in implementing the
+Management Plan for the Columbia River Gorge National Scenic Area and protecting cultural
+resources. Tribal trust lands in the Scenic Area are managed by the Nez Perce Tribe, the
+Confederated Tribes of the  Umatilla Indian Reservation, the Confederated Tribes of Warm
+Springs, and the Confederated Tribes and Bands of the Yakama Nation.
+Treaty rights are defined by the treaties of 1855 between Congress and the Indian tribal
+governments. These treaties reserved and guaranteed certain aboriginal rights exercised by
+Indian people since time immemorial. These legally protected rights belong to each Indian tribe
+and are regulated and enforced by the respective Indian tribal governments. The Indian tribal
+governments exercise inherent sovereign powers, as limited by treaty or act of Congress.
+Indian treaty rights must be observed by the Gorge Commission as well as local and state
+governments, federal agencies, and private citizens. Indian treaty rights guarantee the exclusive
+right of taking fish in the streams running through and bordering reservations and the privilege
+of hunting, gathering roots and berries and pasturing their stock on unclaimed lands (all public
+lands).
+Multnomah County coordinates with the four tribal governments on matters respecting the
+Scenic Area principally through the notification process. Notices and decisions regarding land
+use applications in the Scenic Area are copied to all four tribal governments.
+
+Indian Tribes Policies
+Multnomah County shall notify the four Indian tribal governments when new uses are
+proposed on lands where tribal members exercise treaty or other rights.
+Indian tribal governments shall have an opportunity to review and comment on new
+uses that are proposed on lands, or in waters, where tribal members exercise treaty or
+other rights.
+Project applicants shall consult Indian tribal governments that submit substantive
+comments about proposed uses that may affect or modify treaty or other rights.
+
+Proposed uses that would adversely affect treaty or other rights of any Indian tribe
+shall be prohibited.
+
+Metro Regional Government Jurisdiction Within Scenic Area
+The jurisdictional boundary of the regional government Metro extends into the Scenic Area
+east of the Sandy River to include about four square miles. Metro is a directly elected regional
+government  that  serves  more  than  1.3  million  residents  in  Clackamas,  Multnomah  and
+
+Washington counties, and the 25 cities in the Portland, Oregon, metropolitan area . Land use
+related functions which Metro provides are management of the urban growth boundary,
+regional transportation planning, and development of programs to protect natural resources and
+water quality. Metro’s authority includes the ability to require local government compliance
+with their adopted programs.
+
+Many of the Metro land use planning functions are implementation of certain Statewide
+Planning Goals. Examples of those Goals are those that strive to contain sprawl, strive to
+eliminate barriers to sufficient affordable housing, and developing protections for such “Goal
+5” resources as fish and wildlife habitat. In particular Metro has inventoried and mapped the
+fish and wildlife resources within its jurisdiction, even the area inside the Scenic Area.
+
+To avoid potential conflicting jurisdiction, Multnomah County takes the position that because
+the Oregon Legislature in ORS 196.107 has determined that the Management Plan achieves
+the purposes of the Statewide Goals, then the program developed by Metro to protect the fish
+and wildlife Goal 5 resources under Oregon Administrative Rule 660-023 -0080 is not
+applicable within the Scenic Area.
+
+Metro Jurisdiction Policy
+It is the policy of Multnomah County that the Management Plan achieves the purposes of the
+Statewide Planning Goals, the Management Plan implements the Goal 5 fish and wildlife
+protection program and Metro ordinances regarding the Goal 5 fish and wildlife protection
+program do not apply.
+
+Multnomah County
+Multnomah County is one of six counties with lands in the Columbia River Gorge Scenic Area.
+Section 7 of the National Scenic Area Act requires counties to develop land use ordinances
+consistent with the Management Plan for the Columbia River Gorge National Scenic Area.
+With adoption of Multnomah County Code Chapter 38 that the Gorge Commission and the
+Secretary of Agriculture (as delegated to the Regional Forester) for the SMA have found to be
+consistent with the current Management Plan for the Columbia River Gorge National Scenic
+Area, the County has the authority to implement the Management Plan for the Columbia River
+Gorge National Scenic Area for scenic area lands within its jurisdiction. Multnomah County
+has authority from the Scenic Act to adopt ordinances with provisions that vary from  the
+policies and guidelines in the Management Plan for the Columbia River Gorge National Scenic
+Area as long as the ordinances provide greater protection for the scenic, cultural, natural, and
+recreation resources of the Scenic Area (with concurrence by t he Gorge Commission and the
+Secretary of Agriculture for the SMA). The County also has the authority to deny any permit
+or otherwise refuse to take any action that is inconsistent with the purposes and standards of
+the Management Plan for the Columbia River Gorge National Scenic Area.
+
+Multnomah County is one of nine counties in the State of Oregon to have a home rule charter.
+Home rule charters allow voters the power to adopt and amend their own county government
+organization within certain limits set by the state. An amendment to the Oregon Constitution
+in 1958 allowed home rule charters. Until that time, counties were considered agents of the
+state government. The voters of Multnomah County approved a home rule charter on May 24,
+1966, which became effective January 1, 1967. The primary organizational change was a
+
+governing body consisting of a board of five full -time county commissioners, which is the
+policy determining body of the county.
+
+The County’s home rule charter recognizes the dual role of the county as a unit of local
+government and as an agency of the state. The charter allows the County to avail itself of local
+determination in county affairs to the fullest extent possible under the constitution and laws of
+the state. Chapter II of the charter confers upon the County general powers. The county has
+authority over matters of county concern to the fullest extent granted or allowed by the
+constitutions and laws of the United States and the State of Oregon, as fully as though each
+particular power comprised in that general authority were specifically listed in the charter. The
+charter shall be liberally construed, and each power of the county under the charter shall be
+construed as a continuing power unless the charter or the grant of the power indicates the
+contrary.
+
+Multnomah County Authority Policies
+Multnomah County shall review and decide upon applications for all permits relating
+to the use of non-federal land within the Multnomah County portion of the Scenic Area.
+These permits include all form of land divisions, land use, and legislative enactments
+and amendments to the Multnomah County Comprehensive Plan and Multnomah
+County Code.
+Multnomah County shall review all development proposals on non-federal land in the
+Scenic Area for consistency with the Management Plan for the Columbia River Gorge
+National Scenic Area by applying the standards, criteria, and procedures in
+Multnomah County Code Chapter 38.
+Multnomah County may adopt provisions that vary from the Management Plan for the
+Columbia River Gorge National Scenic Area when it deems that the provisions  are
+more protective of the resources in the scenic area.
+The County may adopt provisions that vary from the Management Plan for the
+Columbia River Gorge National Scenic Area when it deems they are necessary to
+protect general health, safety, and welfare or to implement state or federal laws not
+regulated by the Columbia River Gorge National Scenic Area Act, when not
+inconsistent with the Management Plan for the Columbia River Gorge National Scenic
+Area.
+
+City of Troutdale
+The portion of the City of Troutda le, east of the Sandy River is within the Columbia River
+Gorge National Scenic Area. The City has not enacted an ordinance to implement the
+Management Plan for the Scenic Area and until the City of Troutdale enacts such regulations,
+Multnomah County is directed by the Scenic Area Act to enforce its implementing ordinance
+in this portion of the City. Development proposals affecting land use in this area are reviewed
+by Multnomah County staff for compliance with Multnomah County Zoning Code Chapter 38,
+which has been approved by the Gorge Commission. The City of Troutdale enforces its land
+use regulations, so that development within the area of the city subject to the National Scenic
+Area regulations is subject to review by both Multnomah County and the City of Troutdale.
+Such dual review is a burden to applicants and creates potential for conflicts between City
+regulations and County regulations. The Management Plan for the Columbia River Gorge
+National Scenic Area allows counties and cities to enter into agreements so that only one
+
+jurisdiction is applying a land use ordinance: A county and a city may enter into an agreement
+to allow the other to implement a land use ordinance that applies to the city and that has been
+approved or adopted by the Gorge Commission under Section 8 of the Scenic Area Act . (Part
+IV – Administration, Chapter 1: Gorge Commission Role, County Ordinances section, Policy
+2) Multnomah County supports this concept and may explore the possibility of developing an
+agreement with the City of Troutdale.
+
+City of Troutdale Policy
+Multnomah County shall review development in the Scenic Area portion of the City of
+Troutdale for consistency with the Management Plan for the Columbia River Gorge
+National Scenic Area by applying the standards, criteria, and procedures in
+Multnomah County Code Chapter 38, until such time that the City of Troutdale adopts
+an ordinance to implement the Management Plan for the Columbia River Go rge
+National Scenic Area or the City and County enter into an agreement to specify how
+the Management Plan is to be implemented in this portion of the City.
+
+ISSUES NOT SPECIFICALLY ADDRESSED IN THE MANAGEMENT PLAN
+FOR THE COLUMBIA RIVER GORGE NATIONAL SCENIC AREA
+
+Geologic Hazards
+The Management Plan for the Columbia River Gorge National Scenic Area does not
+specifically address development on hillside areas, but does have thresholds for when an
+erosion and sediment  plan is required, including any necessary geotechnical studies . The
+main purpose of the Management Plan for the Columbia River Gorge National Scenic Area’s
+standards related to grading are to minimize the visual impact of large -scale grading. The
+purpose of the geological features invent ory performed for the Management Plan for the
+Columbia River Gorge National Scenic Area was to determine how to protect features and
+avoid hazards. However, the Management Plan contains no policy guidance for achieving this
+purpose. Multnomah County’s Geologic Hazard  District meets fulfills this purpose. The
+Scenic Area in Multnomah County contains significant geologic resources consisting in many
+cases of steep and unstable hillsides. Inappropriate grading and development  in these areas
+may further destabilize them, threaten geologic resources, endanger public safety, and create
+liability issues for the County. Outside the Scenic Area, policy direction for these areas
+originally derived from the Statewide Planning Goal #7, which covers naturally haza rdous
+areas. Multnomah County has mapped hazardous and steep areas. (The maps are based upon
+geotechnical analysis prepared by Shannon & Wilson, Inc., dated September 30, 1978 and
+May 31, 1996.) This document provides policy direction to protect geologic resources and
+public safety through the application of a Geologic Hazard  District. The implementation of
+grading, development, and erosion control measures in the MCC to protect the resources
+necessarily differ from the thresholds established by the Managem ent Plan for the Columbia
+River Gorge National Scenic Area because they implement the Plan’s objective to protect
+geologic features and avoid hazards versus impacts of grading on scenic, or cultural
+resources.
+
+Geologic Hazard Policies
+Multnomah County shall endeavor to protect geologic resources in the Scenic Area,
+particularly to help ensure that grading on unstable and steep slopes does not
+degrade geologic resources.
+
+Multnomah County shall apply the Geologic Hazard District in the Scenic Area.
+Off-Street Parking and Loading
+The Management Plan for the Columbia River Gorge National Scenic Area addresses parking
+in relationship to protecting scenic resources, and primarily deals with setbacks and screening.
+It does not provide direction on the many specific standards for parking that a jurisdiction
+typically regulates. Multnomah County needs to fill this gap by enacting additional off-street
+parking and loading regulations to reduce traffic congestion associated with specific uses,
+protect the character of neighborhoods and the function of streets, and to ensure uniform and
+safe standards for parking lot design and layout.
+
+Off-Street Parking and Loading Policy
+Multnomah County shall enact standards to reduce traffic congestion associated with
+specific uses, protect the character of neighborhoods and the function of streets, and
+to ensure uniform and safe standards for parking lot design and layout. The
+standards shall regulate the development and maintenance of off-street parking and
+loading areas, including location, dimensions, design, and minimum number of
+spaces in the Scenic Area.
+
+Land Divisions
+Land divisions in Oregon are governed by Chapter 92—Tentative  and Final Approval of Plans;
+Plats—of the Oregon Revised Statutes (ORS). No land may be subdivided or partitioned except
+in accordance with ORS 92. Before a plat of any subdivision or partition can be recorded, the
+county or city having jurisdiction must review and approve the proposed subdivision or
+partition in accordance with the procedures established by the jurisdiction. The Management
+Plan for the Columbia River Gorge National Scenic Area provides rules regarding criteria for
+approving the subdivisions but does not identify how it is to be accomplished. ORS 92 serves
+this purpose.
+
+The Management Plan for the Columbia River Gorge National Scenic Area regulates land
+divisions as review uses, so that they must meet the same criteria protecting scenic area
+resources. New land divisions are not allowed in the Special Management Area, unless the
+creation of a new parcel will facilitate land acquisition by the federal government to achieve
+the policies and standards of the Management Plan for the Columbia River Gorge N ational
+Scenic Area. Multnomah County’s requirements for land divisions ensure that streets connect,
+lots are developable, pedestrian and bike facilities are provided, utilities are extended logically,
+and street trees are planted.
+Land Divisions Policies
+Multnomah County shall enact requirements for land divisions that ensure streets
+connect, lots are developable, pedestrian and bike facilities are provided, and utilities
+are extended logically.
+
+The County shall allow the internal lot lines of a group of lots under one ownership to
+be eliminated and consolidated.
+
+Planned Developments
+The Management Plan for the Columbia River Gorge National Scenic Area does not address
+planned developments. Planned developments conserve  range of resources, including the
+County’s investment in infrastructure.
+
+Planned Developments Policy
+Multnomah County shall allow for planned development projects in the GGRC zone
+that use flexible and diversified land development standards that will result in better or
+more efficient development arrangements, and make efficient use of resources like
+energy, land, and of utility networks.
+
+Application of the planned development standards shall be allowed in the Rural Center
+district (GGRC) for duplexes, single family residences, and limited supporting
+commercial uses.
+
+Variances to Dimensional Standards
+The Management Plan for the Columbia River Gorge National Scenic Area regulates variances
+from resource protection setbacks and buffers. The main purpose of allowing variances is to
+eliminate conflicts between competing resource protections. In addition to these variance s,
+Multnomah County needs to allow variances to dimensional standards in order to provide
+flexibility for applicants where there are practical difficulties in application of the standards.
+The Management Plan for the Columbia River Gorge National Scenic Area explicitly allows
+counties to grant variances to provisions in their land use ordinances that are not required by a
+policy or guideline in the Management Plan for the Columbia River Gorge National Scenic
+Area. Policy 3 of the County Ordinances section s tates: Counties may grant variances to
+provisions in their land use ordinances that are not required by a policy or guideline in the
+Management Plan. (Part IV – Administration, Chapter 1: Gorge Commission Role)
+
+Variances to Dimensional Standards Policy
+Multnomah County shall adopt zoning code provisions in Chapter 38 that allow
+variances to dimensional standards such lot dimensions, setbacks, and building height
+in order to provide flexibility for applicants where there are practical difficulties in
+application of the standards.

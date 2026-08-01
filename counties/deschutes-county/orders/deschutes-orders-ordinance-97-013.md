@@ -1,0 +1,896 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-97-013
+title: 'Ordinance No. 97-013'
+doc_type: ordinance
+citation: 'Ordinance No. 97-013'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616778510_1997-09259-Ordinance%20No.%2097-013%20Recorded%203_20_1997.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 59495c47ddcbc685b01063f179755d31f24f34561139e654286bcb2038a3f81d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 97-013 (Ordinance No. 97-013)
+
+## At a glance
+
+Ordinance No. 97-013 — orders of Deschutes County. 11 pages.
+
+## Full text
+
+9' 7- 092& 9
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+An Ordinance Amending Deschutes
+County Code Section 4. 08. 080,
+Definition - Tax Administrator,
+and Declaring an Emergency.
+0JLc3" d
+lF
+i
+FOR DESCHUTES BOUNTY, " OREGON` ' _
+ORDINANCE NO. 97- 013
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. Amendment. Deschutes County Code Section 4. 08. 080,
+Definition - Tax Administrator, is hereby amended to read as set forth in
+Exhibit A attached hereto and by this reference incorporated herein.
+Section 2. Upon approval of this Ordinance, the Deschutes County
+Treasurer shall turn over all records relating to the administration of
+Deschutes County Code Chapter 4. 08 to the Deschutes County Finance
+Officer.
+Section 3. Severability. The provisions of this ordinance are
+severable. If any section, sentence, clause or phrase of this
+ordinance is adjudged to be invalid by a court of competent
+jurisdiction, that decision shall not affect the validity of the
+remaining portions of this ordinance.
+Section 4. Codification. County Legal Counsel shall have the
+authority to format the provisions contained herein in a manner that
+will integrate them into the County Code consistent with the Deschutes
+County Form and Style Manual for Board Documents. Such codification
+shall include the authority to make such changes, to make changes in
+numbering systems and to make such numbering changes consistent with
+interrelated code sections. In addition, as part of codification of
+these ordinances, County Legal Counsel may insert appropriate
+legislative history reference. Any legislative history references
+included herein are not adopted as part of the substance of this
+ordinance, but are included for administrative convenience and as a
+reference. They may be changed to correct errors and to conform to
+proper style without action of the Board of County Commissioners.
+DATED this _ 1q day of
+TE T:
+Recording Secr tary
+1 - ORDINANCE NO. 97- 013
+1n'
+2A' 0A_ -
+1
+BOARD OF UNTY
+AF DESCAUTEISCO
+1997.
+OMMISSIONERS
+i'
+OREGON
+NGE Cha'
+C
+C msioner
+ATG*,, Commissioner
+90AR
+2ll®
+19,97
+7EXHIBIT A )
+Ordinance 97- 013
+4. 08. 080. Definition - Tax administrator.
+Tax administrator" means the county
+6. ( Ord. 97- 013 § 1,
+1997; Ord. 203- 3 § 2, 1975)
+Chapter 4. 08. TRANSIENT ROOM TAX
+4. 08. 010. Short title.
+4. 08. 020. Definitions.
+4. 08. 025. Definition - Accrual accounting.
+4. 08. 030. Definition - Board.
+4. 08. 035. Definition - Cash accounting.
+4. 08. 040. Definition - County.
+4. 08. 045. Definition - Hotel.
+4. 08. 050. Definition - Occupancy.
+4. 08. 055. Definition - Operator.
+4. 08. 060. Definition - Person.
+4. 08. 065. Definition - Rent.
+4. 08. 070. Definition - Rent package plan.
+4. 08. 075. Definition - Tax.
+4. 08. 080. Definition - Tax administrator.
+4. 08. 085. Definition - Transient.
+4. 08. 090. Tax imposed.
+4. 08. 100. Applicability.
+4. 08. 110. Operator - Collection - Amount.
+4. 08. 120. Operator - Collection - Procedure.
+4. 08. 130. Exemptions.
+4. 08. 140. Operator - Registration - Form and
+contents - Execution - Certification
+of authority.
+4. 08. 150. Returns and payments - Date due.
+4. 08. 160. Penalties and
+interest - Delinquency.
+4. 08. 170. Penalties and interest - Continued
+delinquency.
+4. 08. 180. Penalties and interest - Fraud.
+4. 08. 190. Penalties and
+interest - Assessment of interest.
+4. 08. 200. Penalties and interest - Penalties
+merged with tax.
+4. 08. 210. Penalties and interest - Petition
+for waiver.
+4. 08. 220. Deficiency determination.
+4. 08. 230. Fraud - Refusal to collect - Evasion.
+4. 08. 240. Operator delay.
+4. 08. 250. Redeterminations.
+4. 08. 260. Security for collection of tax.
+4. 08. 270. Lien.
+4. 08. 280. Refunds.
+4. 08. 290. Transient room tax fund.
+4. 08300. Recordkeeping.
+4. 08310. Examination of records.
+4. 08320. Administration - Confidentiality.
+4. 08. 330. Appeals.
+4. 08. 340. Unlawful acts -Penalty.
+4. 08. 010. Short title.
+This chapter shall be known as the county
+transient room tax ordinance. ( Ord. 203- 3 § 1,
+1975)
+4. 08. 020. Definitions.
+For the purposes of this chapter, unless
+otherwise apparent from the context, certain
+words and phrases used in this chapter are
+defined as set forth in 4. 08. 025- 085. ( Ord.
+95- 029 § 1, 1995; Ord. 203- 3 § 2, 1975)
+4. 08. 025. Definition - Accrual accounting.
+Accrual accounting" means the operator
+enters the rent due from a transient on his
+records when rent is earned whether or not it
+is paid. ( Ord. 203- 3 § 2, 1975)
+4. 08. 030. Definition - Board.
+Board" means the County Board of
+Commissioners. ( Ord. 203- 3 § 2, 1975)
+4. 08. 035. Definition - Cash accounting.
+Cash accounting" means the operator
+does not enter the rent due from a transient
+on his records until rent is paid. ( Ord. 203- 3
+2, 1975)
+4. 08. 040. Definition - County.
+County" meansDeschutesCounty and is
+limited to the unincorporated area of the
+county. ( Ord. 203- 3 § 2, 1975)
+4. 08. 045. Definition - Hotel.
+Hotel" means any structure, or any
+portion of any structure which is occupied or
+intended or designed for transient occupancy
+for 30 days or less, for dwelling, lodging or
+sleepingpurposes, andincludesanyhotel, inn,
+tourist home, tourist accommodation,
+condominium, motel, studio hotel, bachelor
+hotel, lodging house, rooming house,
+apartment house, public or private dormitory,
+fraternity, sorority, public or private club,
+Chapter 4. 08 1 ( 3/ 1997)
+space in mobile home or trailer parks, private
+home, or similar structure or portions thereof
+so occupied. ( Ord. 93- 049 § 1, 1993; Ord.
+203- 3 § 2, 1975)
+4. 08. 050. Definition - Occupancy.
+Occupancy" meansthe useor possession,
+or the right to the use or possession for
+lodging or sleeping purposes of any room or
+rooms in a hotel, or space in a mobile home
+or trailer park or portion thereof. ( Ord. 203- 3
+2, 1975)
+4. 08. 055. Definition - Operator.
+Operator" means the person who is
+proprietor of the hotel in any capacity.
+Where the operator performs his functions
+through a managing agent of any type or
+character other than an employee, the
+managing agent shall also be deemed an
+operator for the purposes of this chapter and
+shall have the same duties and liabilities as his
+principal. Compliance with the provisions of
+this chapter by either the principal or the
+managing agent shall be considered to be
+compliance by both. ( Ord. 203- 3 § 2, 1975)
+4. 08. 060. Definition - Person.
+Person" means any individual, firm,
+partnership, joint venture, association, social
+club, fraternal organization, fraternity,
+sorority, public or private dormitory, joint
+stock company, corporation, estate, trust,
+business trust, receiver, trustee, syndicate or
+any other group or combination acting as a
+unit. ( Ord. 203- 3 § 2, 1975)
+4. 08. 065. Definition - Rent.
+Rent" means the consideration charged,
+whether or not received by the operator, for
+the occupancy of space in a hotel valued in
+money, goods, labor, credits, property or other
+consideration valued in money, without any
+deduction, but does not include the sale of
+any goods, services and commodities other
+than the furnishing of rooms accommodations
+and parking space in mobile home parks or
+trailer parks. ( Ord. 203- 3 § 2, 1975)
+4. 08. 070. Definition - Rent package plan.
+Rent package plan" means the
+consideration charged for both food and rent
+where a single rate is made for the total of
+both. The amount applicable to rent for
+determination of transient room tax under this
+chapter shall be the same charge made for
+rent when consideration is not a part of a
+package plan. ( Ord. 203- 3 § 2, 1975)
+4. 08. 075. Definition - Tax.
+Tax" means either the tax payable by the
+transient, or the aggregate amount of taxes
+due from an operator during the period for
+which he is required to report his collections.
+Ord. 203- 3 § 2, 1975)
+4. 08. 080. Definition - Tax administrator.
+Tax administrator" means the county
+finance officer. ( Ord. 97- 013 § 1, 1997; Ord.
+203- 3 § 2, 1975)
+4. 08. 085. Definition - Transient.
+Transient" means any individual who
+exercises occupancy or is entitled to occupancy
+in a hotel for a period of 30 consecutive
+calendar days or less, counting portions of
+calendar days as full days. The day a transient
+checks out of the hotel shall not be included
+in determining the 30 -day period if the
+transient is not charged rent for that day by
+the operator. Any such individual so
+occupyingspacein a hotel shall be deemedto
+be a transient until the period of 30 days has
+expired unless there is an agreement in writing
+between the operator and the occupant
+providing for a longer period of occupancy.
+Ord. 203- 3 § 2, 1975)
+4. 08. 090. Tax imposed.
+For the privilege of occupancy in any
+hotel, on and after the effective date of the
+ordinance codified in this chapter, each
+transient shall pay a tax in the amount of
+seven percent of the rent charged by the
+operator. The tax constitutes a debt owed by
+the transient to the county which is
+extinguished only by payment to the operator
+Chapter 4. 08 2 ( 3/ 1997)
+as agent for the county. The transient shall
+pay the tax to the operator of the hotel at the
+time the rent is paid. The operator shall enter
+the tax on his records when rent is collected if
+the operator keeps his records on the cash
+accounting basis and when earned if the
+operator keeps his records on the accrual
+accounting basis. If rent is paid in
+installments, a proportionate share of the tax
+shall be paid by the transient to the operator
+with each installment. If for any reason the
+tax due is not paid to the operator of the
+hotel, the tax administrator may require that
+such tax shall be paid directly to the county.
+Ord. 95- 029 § 1, 1995; Res. 87- 053 adopted
+by the people 11/3/87; Ord. passed 3/11/80:
+Ord. 203- 3 § 3, 1975)
+4. 08. 100. Applicability.
+The tax imposed by this ordinance shall
+apply only to those hotels located within the
+unincorporated area of the county. ( Ord.
+95- 029 § 1, 1995; Ord. 203- 3 § 4, 1975)
+4. 08. 110. Operator - Collection - Amount.
+A. Every operator renting rooms in the
+county, the occupancy of which is not
+exempted under the terms of this chapter,
+shall collect a tax from the occupant. The tax
+collected or accrued by the operator
+constitutes a debt owed by the operator to the
+county.
+B. In all cases of credit or deferred
+payment of rent, the payment of tax to the
+operator may be deferred until the rent is
+paid, and the operator shall not be liable for
+the tax until credits are paid or deferred
+payments are made.
+C. For rent collected on portions of a
+dollar, the first one cent of tax shall be
+collected on one cent through 14 cents,
+inclusive; the second one cent of tax on 15
+cents through 28 cents; the third one cent of
+tax on 29 cents through 42 cents; the fourth
+one cent of tax on 43 cents through 56 cents;
+the fifth one cent of tax on 57 cents through
+70 cents; the sixth one cent of tax on 71 cents
+through 84 cents and the seventh one cent of
+0156- 2401
+tax on 85 cents through $. 99. ( Ord. 95- 029 §
+1, 1995; Ord. 203- 3 § 5, 1975)
+4. 08. 120. Operator - Collection - Procedure.
+Each operator shall collect the tax
+imposed by this chapter at the same time as
+the rent is collectedfrom everytransient. The
+amount of tax shall be separately stated upon
+the operator' s records, and any receipt
+rendered by the operator. No operator of a
+hotel shall advertise that the tax or any part of
+the tax will be assumed or absorbed by the
+operator, or that it will not be added to the
+rent, or that, when added, any part will be
+refunded, except in the manner provided by
+this chapter. ( Ord. 95- 029 § 1, 1995; Ord.
+203- 3 § 6, 1975)
+4. 08. 130. Exemptions.
+No tax imposed under this chapter shall be
+imposed upon:
+A. Any occupant for more than 30
+successive calendar days ( a person who pays
+for lodging on a monthly basis, irrespective of
+the number of days in such month, shall not
+be deemed a transient);
+B. Any occupantwhose rent is of a value
+lessthan $4.00 per day;
+C. Any occupant whose rent is paid for
+hospital room or to a medical clinic,
+convalescent home or home for aged people.
+Ord. 95- 029 § 1, 1995; Ord. 93- 049 adopted
+by the people 11/9/93; Ord. 93-020 § 1, 1993;
+Ord. 203- 3 § 7, 1975)
+4. 08. 140. Operator - Registration - Form and
+contents - Execution - Certification
+of authority.
+A. Every person engaging or about to
+engage in business as an operator of a hotel in
+the county shall register with the tax
+administrator on a form provided by him.
+Operators engaged in business at the time the
+ordinance codified in this chapter is adopted
+must register not later than 30 calendar days
+after passage of the ordinance codified in this
+chapter. Operators starting businessafter the
+ordinance codified in this chapter is adopted
+Chapter 4.08 3 ( 3/ 1997)
+must register within 15 calendar days after
+commencing business. The privilege of
+registration after the date of imposition of
+suchtax shall not relieve anyperson from the
+obligation of payment or collection of tax
+regardless of registration. Registration shall
+set forth the name under which an operator
+transacts or intends to transact business, the
+location of his place or places of business and
+such other information to facilitate the
+collection of the tax as the tax administrator
+may require. The registration shall be signed
+by the operator. The tax administrator shall,
+within 10 days after registration, issue without
+charge from the occupant, together with a
+duplicate thereof for each additional place of
+business for each registrant. Certificates shall
+be nonassignable and nontransferable and
+shall be surrendered immediately to the tax
+administrator upon the cessation of business
+at the location named or upon its sale or
+transfer. Each certificate and duplicate shall
+state the place of business to which it is
+applicable and shall be prominently displayed
+therein so as to be seen and come to the
+notice readily of all occupants and persons
+seeking occupancy.
+B. The certificate shall, among other
+things, state the following:
+1. The name of the operator;
+2. The address of the hotel;
+3. The date upon which the certificate
+was issued;
+4. This Transient Occupancy Registration
+Certificate signifies that the person named on
+the face hereof has fulfilled the requirements
+of the Transient Room Tax Ordinance of the
+County of Deschutesby registration with the
+Tax Administrator for the purpose of
+collecting from transients the room tax
+imposedby said County and remitting saidtax
+to the Tax Administrator. ( Ord. 95- 029 § 1,
+1995; Ord. 203- 3 § 8, 1975)
+4. 08. 150. Returns and payments - Date due.
+A. The tax imposed by this chapter shall
+be paid by the transient to the operator at the
+time that rent is paid. All amounts of such
+011 6- 14 02
+taxescollected by any operator are due and
+payable to the tax administrator on a monthly
+basis on the 15th day of the month for the
+preceding month; and are delinquent on the
+lastdayof themonthin whichtheyaredue.
+B. On or before the 15th day of the
+month following each month of collection a
+return for the preceding month' s tax
+collections shall be filed with the tax
+administrator. The return shall be filed in
+such form as the tax administrator may
+prescribeby everyoperator liable for payment
+of tax.
+C. Returns shall show the amount of tax
+collected or otherwise due for the related
+period. The tax administrator may require
+returns to show the total rentals upon which
+tax was collected or otherwise due, gross
+receipts of operator for such period and an
+explanation in detail of any discrepancy
+between such amounts, and the amount of
+rents exempt, if any.
+D. The person required to file the return
+shall deliver the return, together with the
+remittance of the amount of the tax due, to
+the tax administrator at his officer either by
+personal delivery or by mail. If the return is
+mailed, the postmark shall be considered the
+dateof deliveryfor determining delinquencies.
+E. For good cause, the tax administrator
+may extend but not to exceed one month the
+time for making any return or payment of tax.
+No further extension shall be granted, except
+by the board. Any operator to whom an
+extension is granted shall pay interest at the
+rate of one percent per month on the amount
+of tax due without proration for a fraction of
+a month. If a return is not filed, and the tax
+and interest due is not paid by the end of the
+extension granted, then the interest shall
+become a part of the tax for computation of
+penalties described elsewhere in this chapter.
+Ord. 95- 029 § 1, 1995; Ord. 203- 3 § 9, 1975)
+4. 08. 160. Penalties and
+interest -Delinquency.
+Any operator who hasnot beengrantedan
+extension of time for remittance of tax due
+Chapter 4.08 4 ( 3/ 1997)
+and who fails to remit any tax imposed by this
+chapter prior to delinquency shall pay a
+penalty of 10 percent of the amount of the tax
+due in addition to the amount of the tax.
+Ord. 95- 029 § 1, 1995; Ord. 203- 3 § 10( 1),
+1975)
+4. 08. 170. Penalties and interest - Continued
+delinquency.
+Any operator who has not been granted an
+extension of time for remittance of tax due,
+and who failed to pay any delinquent
+remittance on or before a period of 30 days
+following the date on which the remittance
+first became delinquent shall pay a second
+delinquency penalty of 15 percent of the
+amount of the tax due plus the amount of the
+tax and the 10 percent penalty first imposed.
+Ord. 95- 029 § 1, 1995; Ord. 203- 3 § 10( 2),
+1975)
+4. 08. 180. Penalties and interest - Fraud.
+If the tax administrator determines that
+the nonpayment of any remittance due under
+this chapter is due to fraud or intent to evade
+the provisions thereof, a penalty of 25 percent
+of the amount of the tax shall be added
+thereto in addition to the penalties stated in
+Sections 4. 08. 160 and 4. 08. 170 of this title.
+Ord. 95- 029 § 1, 1995; Ord. 203- 3 § 10( 3),
+1975)
+4. 08. 190. Penalties and
+interest - Assessment of interest.
+In addition to the penalties imposed, any
+operator who fails to remit the taximposedby
+this chapter shall pay interest at the rate of
+one- half of one percent per month or fraction
+thereof without proration for portions of a
+month, on the amount of the tax due,
+exclusive of penalties, for the date on which
+the remittance first became delinquent until
+paid. ( Ord. 95- 029 § 1, 1995; Ord. 203- 3 §
+10( 4), 1975)
+lu- 2413
+4. 08. 200. Penalties and interest - Penalties
+merged with tax.
+Every penalty imposed and such interest
+as accrues under the provisions of this section
+shall be merged with and become a part of the
+tax required in this chapter to be paid. ( Ord.
+95- 029 § 1, 1995; Ord. 203- 3 § 10( 5), 1975)
+4. 08. 210. Penalties and interest - Petition
+for waiver.
+Any operator who fails to remit the tax
+levied in this chapter within the time stated in
+this chapter shall pay the penalties stated in
+this chapter; provided, however, the operator
+may petition the board for waiver and refund
+of the penalty or any portion thereof and the
+board may, if a good and sufficient reason is
+shown, waive and direct a refund of the
+penalty or any portion thereof. ( Ord. 95-029 §
+1, 1995; Ord. 203- 3 § 10( 6), 1975)
+4. 08. 220. Deficiency determination.
+If the tax administrator determines that
+the returns are incorrect, he may compute and
+determine the amount required to be paid
+upon the basis of the facts contained in the
+return or returns or upon the basis of any
+information within his possession. One or
+more deficiencydeterminations maybe made
+on the amount due for one, or more than one
+period, and the amount so determined shall
+be due and payableimmediately upon service
+of notice as provided in this chapter after
+which the amount determined is delinquent.
+Penalties on deficiencies shall be applied as
+set forth in Sections 4. 08. 160 through 4. 08. 210
+of this chapter.
+A. In making a determination the tax
+administrator may offset overpaymentsif any,
+which may have been previously made for a
+period or periods, against any underpayment
+for a subsequent period or periods, or against
+penalties, and interest, on the underpayments.
+The interest on underpayments shall be
+computed in the manner set forth in Sections
+4. 08. 160 through 4. 08. 210 of this chapter.
+B. The tax administrator shall give to the
+operator or occupant a written notice of his
+Chapter 4. 08 5 ( 3/ 1997)
+determination. The notice may be served
+personally or by mail; if by mail, the notice
+shall be addressed to the operator at his
+address as it appears in the records of the tax
+administrator. In case of service by mail of
+any notice required by this chapter the service
+is complete at the time of deposit in the
+United States Post Office.
+C. Except in the case of fraud, intent to
+evade this chapter or authorized rules and
+regulations, every deficiency determination
+shall be made and notice thereof mailed
+within three years after the last day of the
+month following the close of the monthly
+period for which the amount is proposed to be
+determined or within three years after the
+return is filed, whichever period expires the
+later.
+D. Any determination shall become due
+and payable immediately upon receipt of
+notice and shall become final within ten days
+after the tax administrator has given notice
+thereof; provided, however, the operator may
+petition redemption and refund if the petition
+is filed before the determination becomes final
+as provided for in this chapter. ( Ord. 95- 029 §
+1, 1995; Ord. 203- 3 § 11( 1), 1975)
+4. 08. 230. Fraud - Refusal to collect - Evasion.
+If any operator shall fail or refuse to
+collect such tax or to make, within the time
+provided in this chapter any report and
+remittance of such tax or any portion thereof
+required by this chapter, or makes a
+fraudulent return or otherwise wilfully
+attempts to evade this chapter, the tax
+administrator shall proceed in such manner as
+he may deem best to obtain facts and
+information on which to base an estimate of
+the tax due. As soon as the tax administrator
+has determined the tax due that is imposed by
+this chapter from any operator who has failed
+or refused to collect the same and to report
+and remit such tax, he shall proceed to
+determine and assess against such operator
+the tax, interest and penalties provided for by
+this chapter. In case such determination is
+made, the tax administrator shall give a notice
+0156- 24;, 4
+in the manner aforesaid of the amount so
+assessed. Such determination and notice shall
+be made and mailed within three years after
+discovery by the tax administrator of any
+fraud, intent to evade or failure or refusal to
+collect such tax, or failure to file return. Any
+determination shall become due and payable
+immediately upon receipt of notice and shall
+become final within 10 days after the tax
+administrator has given notice thereof;
+provided, however, the operator may petition
+redemption and refund if the petition is filed
+before the determination becomes final as
+provided in this chapter. ( Ord. 95- 029 § 1,
+1995; Ord. 203- 3 § 11( 2), 1975)
+4. 08. 240. Operator delay.
+If the tax administrator believes that the
+collection of any tax or any amount of tax
+required to be collected and paid to the
+county will be jeopardized by delay, or if any
+determination will be jeopardized by delay, he
+shall thereupon make a determination of the
+tax or amount of tax required to be collected,
+noting the fact upon the determination. The
+amount so determined as provided in this
+chaptershallbe immediately dueand payable,
+and the operator shall immediately pay same
+determination to the tax administrator after
+service of notice thereof; provided, however
+the operator may petition, after payment has
+been made, for redemption and refund of
+such determination, if the petition is filed
+within 10 days from the date of service of
+notice by the tax administrator. ( Ord. 95- 029
+1, 1995; Ord. 203- 3 § 11( 3), 1975)
+4. 08. 250. Redeterminations.
+A. Any person against whom a
+determination is made under Sections
+4. 08. 220, 4. 08. 230 and 4. 08. 240 of this chapter
+or any person directly interested may petition
+for a redetermination and redemption and
+refund within the time required in Sections
+4. 08. 220, 4. 08. 230 and 4. 08. 240 of this chapter.
+If a petition for redetermination and refund is
+not filed within the time required in Sections
+4. 08. 220, 4. 08. 230 and 4. 08. 240 of this chapter,
+Chapter 4.08 6 ( 3/ 1997)
+the determination becomes final at the
+expiration of the allowable time.
+B. If a petition for redetermination and
+refund is filed within the allowable period, the
+tax administrator shall reconsider the
+determination, and if the person has so
+requested in his petition, shall grant the
+person an oral hearing and shall given him 10
+days notice of the time and place of the
+hearing. The tax administrator may continue
+the hearing from time to time as may be
+necessary.
+C. The tax administrator may decrease or
+increase the amount of the determination as a
+result of the hearing and if an increase is
+determined such increase shall be payable
+immediately after the hearing.
+D. The order or decision of the tax
+administrator upon a petition for
+redetermination of redemption and refund
+becomes final 10 days after service upon the
+petitioner of notice thereof, unless appeal of
+such order or a decision is filed with the
+board within 10 days after service of such
+notice.
+E. No petition for redetermination of
+redemption and refund or appeal therefrom
+shall be effective for any purpose unless the
+operator has first complied with the payment
+provisions of this chapter. ( Ord. 95- 029 § 1,
+1995; Ord. 203- 3 § 12, 1975)
+4. 08. 260. Security for collection of tax.
+A. The tax administrator, after
+delinquencyandwhenhe deemsit necessary
+to insure compliance with this chapter, may
+require any operator subject thereto to deposit
+with him such security in the form of cash,
+bond or other securityasthe tax administrator
+may determine. The amount of the security
+shall be fixed by the tax administrator but
+shall not be greater than twice the operator' s
+estimated average monthly liability for the
+period for which he files returns, determined
+in such manner as the tax administrator deems
+proper, or $ 5, 000. 00, whichever amount is the
+lesser. The amount of the security may be
+increased or decreased by the tax
+administrator subject to the limitations
+provided in this chapter.
+B. At any time within three years after
+any tax or any amount of tax required to be
+collected becomes due and payable or at any
+time within three years after any
+determination becomes final, the tax
+administrator may bring an action in the
+courts of the state, or any state or of the
+United States in the name of the county to
+collect the amount delinquent together with
+penalties and interest. ( Ord. 95- 029 § 1, 1995;
+Ord. 203- 3 § 13, 1975)
+4. 08. 270. Lien.
+A. The tax imposed by this chapter
+together with the interest and penalties
+provided in this chapter and the filing fees
+paid to the County Clerk and advertisingcosts
+which may be incurred when the same
+becomes delinquent as set forth in this chapter
+shall be and, until paid, remain a lien from the
+date of its recording with the County Clerk,
+and superior to all subsequent recorded liens
+on all tangible personal property used in the
+hotel of an operator and may be foreclosed on
+and sold as may be necessaryto discharge
+such lien, if the lien has been recorded.
+Notice of lien may be issued by the tax
+administrator or his deputy whenever the
+operator is in default in the payment of such
+tax, interest and penalty and shall be recorded,
+and a copy sent to the delinquent operator.
+The personal property subject to such lien
+seized by any deputy or employee of the tax
+administrator may be sold by the department
+seizing the same at public auction after 10
+days notice which shall mean one publication
+in a newspaper of general circulation within
+the county.
+B. Any lien for taxes as shown on the
+records of the proper county official shall,
+upon the payment of all taxes, penalties and
+interest thereon, be released by the tax
+administrator when the full amount
+determined to be due has been paid to the
+county and the operator or person making
+such payment shall receive a receipt therefor
+Chapter 4.08 7 ( 3/ 1997)
+stating that the full amount of taxes, penalties
+and interest thereon have been paid and that
+the lien is thereby released and the record of
+lien is satisfied. ( Ord. 95- 029 § 1, 1995; Ord.
+203- 3 § 14, 1975)
+4. 08. 280. Refunds.
+A. Operator' s Refunds. Whenever the
+amount of any tax, penalty or interest has
+been paid more than once or has been
+erroneously or illegally collected or received
+by the tax administrator under this chapter, it
+may be refunded, provided a verified claim in
+writing therefor, stating the specific reason
+upon which the claim is founded, is filed with
+the tax administrator within three years from
+the date of payment. The claim shall be made
+on forms provided by the tax administrator. If
+the claim is approvedby the tax administrator,
+the excess amount collected or paid may be
+refunded or may be credited on any amounts
+then due and payable from the operator from
+whom it was collected or by whom paid and
+the balance may be refunded to each
+operator, his administrators, executors or
+assignees.
+B. Transient Refunds. Whenever the tax
+required by this chapter hasbeencollected by
+the operator, and deposited by the operator
+with the tax administrator, and it is later
+determined that the tax was erroneously or
+illegally collected or received by the tax
+administrator, it may be refunded by the tax
+administrator to the transient, provided a
+verified claim in writing therefor, stating the
+specific reason on which the claim is founded,
+is filed with the tax administrator within three
+years from the date of payment. ( Ord. 95- 029
+1, 1995; Ord. 203- 3 § 15, 1975)
+4. 08. 290. Transient room tax fund.
+The tax administrator shall place all
+moneys received pursuant to this chapter in
+the transient room tax fund. ( Ord. 95- 029 § 1,
+1995; Ord. 203- 3 § 16( 1), 1975)
+Chapter 4.08
+4. 08. 300. Recordkeeping.
+Every operator shall keep guest records of
+room sales and accounting books and records
+of the room sales. All records shall be
+retained by the operator for a period of three
+years and six months after they come into
+being. (Ord. 95- 029 § 1, 1995; Ord. 203- 3 §
+16( 2), 1975)
+4. 08. 310. Examination of records.
+The tax administrator or any person
+authorized in writing by him may examine
+during normal business hours, the books,
+papers and accounting records relating to
+room sales of any operator after notification
+to the operator liable for the tax and may
+investigate the business of the operator in
+order to verify the accuracy of any return
+made, or if no return is madeby the operator,
+to ascertain and determine the amount
+required to be paid. ( Ord. 95- 029 § 1, 1995;
+Ord. 203- 3 § 16( 3), 1975)
+4. 08320. Administration - Confidentiality.
+It is unlawful for the tax administrator or
+any person having an administrative or clerical
+duty under the provisions of this chapter to
+make known in any manner whatever the
+business affairs, operations or information
+obtained by an investigation of records and
+equipment of any person required to obtain a
+transient occupancy registration certificate or
+pay a transient occupancy tax, or any other
+person visited or examined in the discharge of
+official duty, or the amount of source of
+income, profits, losses, expenditures or any
+particular thereof, set forth in any statement
+or application, or to permit any statement or
+application, or copy of either, or any book
+containing any abstract or particulars thereof
+to be seen or examined by any person;
+provided, that nothing in this subsection shall
+be construed to prevent:
+A. The disclosure to, or the examination
+of records and equipment by another county
+official, employee or agent for collection of
+taxes for the sole purpose of administering or
+enforcing any provision of this chapter; or
+8 ( 3/ 1997)
+r
+collecting taxes imposed under this chapter.
+B. The disclosure after the filing of a
+written request to that effect, to the taxpayer
+himself, receivers, trustees, executors,
+administrators, assignees and guarantors, if
+directly interested, of information as to any
+paid tax, any unpaid tax or amount of tax
+required to be collected or interest and
+penalties; provided further, that the district
+attorney approves each such disclosure and
+that the tax administrator may refuse to make
+any disclosure referred to in this subsection
+when in his opinion the public interest would
+suffer thereby.
+C. The disclosure of the names and
+addresses of any persons to whom transient
+occupancy registration certificates have been
+issued.
+D. The disclosure of general statistics
+regarding taxes collected or business done in
+the county. ( Ord. 95- 029 § 1, 1995; Ord. 203- 3
+16( 4), 1975)
+4. 08. 330. Appeals.
+Any person aggrieved by any provisions of
+the tax administrator may appeal to the board
+by filing a notice of appeal with the tax
+administrator within 10 days of the
+administrator' s decision. The tax
+administrator shall transmit such notice of
+appeal, together with the file of such appealed
+matter to the board who shall fix a time and
+place for hearing such appeal. The board
+shall give the appellant not less than 10 days
+written notice of the time and place of hearing
+of such appealed matter. ( Ord. 95- 029 § 1,
+1995; Ord. 203- 3 § 17, 1975)
+4. 08. 340. Unlawful acts -Penalty.
+It is an infraction for any operator or
+other person so required to fail or refuse to
+register as required in this chapter, or to
+furnish anyreturn required to bemade, or fail
+or refuse to furnish a supplemental return or
+other data required by the tax administrator
+or to render a false or fraudulent return. No
+person required to make, render, sign or verify
+any report shall make any false or fraudulent
+report, with intent to defeat or evade the
+determination of anyamount due required by
+this chapter. Violation of any provision of
+this title is a Class A infraction. ( Ord. 95- 029
+1, 1995; Ord. 83- 013 § 1, 1983; Ord. 203- 3 §
+19, 1975)
+Chapter 4.08 9 ( 3/ 1997)

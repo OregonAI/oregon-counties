@@ -1,0 +1,166 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-95-010
+title: 'Ordinance No. 95-010'
+doc_type: ordinance
+citation: 'Ordinance No. 95-010'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616701333_1995-06216-Ordinance%20No.%2095-010%20Recorded%203_2_1995.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d22777f11e9ee495f7be25ade15887d18b642d174daffcd182e110d3f3e74bda
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 95-010 (Ordinance No. 95-010)
+
+## At a glance
+
+Ordinance No. 95-010 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+it
+95- 06216
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF
+An Ordinance Amending Title
+17, to allow for System
+Development Charges for Parks
+Within the Boundaries of the
+Central Oregon Park and
+Recreation District and
+Declaring an Emergency.
+ORDINANCE NO. 95- 010
+i
+LECALACOUNSI
+DESCHUTES
+0138- 0591
+WHEREAS, the Board of County Commissioners for Deschutes
+County has adopted Ordinance No. 95- 019, an agreement with
+the Central Oregon Park and Recreation District to collect
+for the District payment of a park and recreation system
+development charge for all new residential and hotel or
+motel development in the County located within the boundaries
+of the Central Oregon Park and Recreation District; and
+WHEREAS, the County' s subdivision and partition
+ordinance currently requires that subdivisions and partitions
+be approved subject to requirements to dedicate land for
+parks purposes, or in the alternative to pay a fee in lieu of
+such dedications; and
+WHEREAS, it is the Board' s intention that those existing
+dedication and fee in lieu provisions should be superseded by
+the Central Oregon Park and Recreation District' s newly
+instituted parks system development charges; and
+WHEREAS, after notice was given and hearing conducted in
+accordance with applicable law, the Board of County
+Commissioners have considered the proposed amendment; now,
+therefore:
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+ORDAINS as follows:
+Section 1. Section 17. 44. 010, " Development within an
+urban growth boundary," as amended, is further amended to
+read as follows:
+1117. 44. 010 Dedication of land.
+A. For subdivisions or partitions inside an urban
+growth boundary, the developer shall set aside and
+dedicate to the public for park and recreation
+purposes not less than eight percent of the gross
+Page 1- ORDINANCE NO. 95- 010
+J" rRo' l, KF
+March 1, 1995 MfD hCHED
+9 9,5 021995
+0138- 0592
+area of such development, if the land is suitable
+and adaptable for such purposes and is generally
+located in an area planned for parks.
+B. For subdivisions or partitions outside of an
+urban growth boundary, the developer shall set
+aside a minimum area of the development equal to
+350 per dwelling unit within the development, if
+the land is suitable and adaptable for such
+purposes and is generally located in an area
+planned for parks.
+C. The Planning Director or Hearings Body shall
+determine whether or not such land is suitable for
+park purposes; provided further, that any such
+approval shall be subject to the condition that the
+county or appropriate park district accept the deed
+dedicating such land.
+D. This section shall not apply to the subdivision
+or partition of lands located inside the Bend Urban
+Growth Boundary or within the boundaries of the
+Central Oregon Park and Recreation District.
+Section 2. Section 17. 44. 020, " Fee in lieu of
+dedication," as amended, is further amended as follows:
+17. 44. 020 Fee in lieu of dedication.
+A. In the event there is no suitable park or
+recreation area or site in the proposed subdivision
+or adjacent thereto, then the developer shall, in
+lieu of setting aside land, pay into a park
+acquisition and development fund a sum of money
+equal to the fair market value of the land that
+would have been donated under 17. 44. 010 above. For
+the purpose of determining the fair market value,
+the latest value of the land, unplatted and without
+improvements, as shown on the county assessor' s tax
+roll shall be used. The sum so contributed shall
+be deposited with the County Treasurer and be used
+for acquisition of suitable area for park and
+recreation purposes or for the development of
+recreation facilities. Such expenditures shall be
+made for neighborhood or community facilities at
+the discretion of the Board of County
+Commissioners. and/ or applicable park district.
+B. This section shall not apply to subdivision or
+partition of lands located inside of the Bend Urban
+Growth Boundary or within the boundaries of the
+Central Oregon Park and Recreation District.
+Section 3. SEVERABILITY. the provisions of this
+Page 2- ORDINANCE NO. 95- 010
+March 1, 1995
+0138-° 0593
+ordinance are severable. If any section, sentence, clause,
+or phrase of this ordinance is adjudged to be invalid by a
+court of competent jurisdiction that decision shall not
+affect the validity of the remaining portions of this
+Ordinance.
+Section 4. EMERGENCY. This Ordinance being necessary
+for the immediate preservation of the public peace, health
+and safety, an emergency is declared to exist, and this
+Ordinance takes effect on its passage.
+DATED this day of March, 1995.
+BOARD OF COUNTY COMMISSIONERS
+O DES S COUNTY, OREGON
+YI Y
+BARRY UGHTER,_ Chair
+Iz / =
+I"
+of
+Ala"ag
+D4•
+TE T:
+Recording Secr tary
+Page 3- ORDINANCE NO. 95- 010
+March 1, 1995
+ssi. oner
+commis

@@ -1,0 +1,248 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2013-015
+title: 'Ordinance No. 2013-015'
+doc_type: ordinance
+citation: 'Ordinance No. 2013-015'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617111529_2013-1155-Ordinance%20No.%202013-015%20Recorded%209_6_2013.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 14521b853a77381ad3d09eec1cd1567a83f12a57635440785ae0f9e60e6a484a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2013-015 (Ordinance No. 2013-015)
+
+## At a glance
+
+Ordinance No. 2013-015 — orders of Deschutes County. 6 pages.
+
+## Full text
+
+Rb IEWFI) ( DESCHUTES COUNTY OFFICIAL RECORDS
+0Z~ NANCY BLANKENSHIP, COUNTY CLERK ~ J 2013w11~~
+LEGAL COUNSEL
+COMMISSIONERS' JOURNAL
+09/ 06/2013 08; 39;42 AM
+II [111111111111111111milillZ 155
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCI IUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County
+Code Chapter 1, 16 to Include State Violation * ORDINANCE NO. 2013- 015
+Fine Amounts and Allow Circuit Court Judges to
+Ordcr Injunctive Relief
+WHEREAS, since 2008, the state statutory maximum fines in ORS 153. 018 for violations have been
+increased considerably, but Deschutes County Code (" DCC") 1. 16.010( l)(C) setting the maximum fines for
+violations of the DCC has not been updated; and,
+WHEREAS, the Board of County Commissioners (" Board") finds that amendingDCC 1. 16.010( C)(1)
+to mirror the statutory maximum fines will aid in providing incentives for code violators to comply with the
+DCC:; and
+WHEREAS, per ORS 153. 008(1)( C), a county may include in its code enforcement ordinance a
+provision to authorize the court to order injunctive relief when a violator is cited into court, but the current DCC
+does not include such a provision; and
+WHEREAS, the Board finds that including the ability for the court to order injunctive relief rather than
+having to file a separate injunctive action will expedite the code enforcement process and reduce the costs of the
+code enforcement program; now, therefore,
+THE BOARD O COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC Chapter 1. 16 is anncnded to read as described in Exhibit " A,"
+attached hereto and by this reference incorporated herein, with new language underlined and language to be
+deleted in
+Dated this _ of 2013 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+ALAN UNGER, Chair
+TAMMY B EY, Vice Chair
+ATTEST:
+Recording Secretary
+4 ~ 0 k - 92, v 2~
+ANTHONY DEBONE, Commissioner
+PAGE 1 OF 2 - ORDINANCE NO. 2013 - 015
+Date of I" Reading: ! I-- day of &,, f, 2013.
+Date of 2"c1Reading: day of , ' 2013.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Alan Unger
+Tammy Baney
+Anthony DeBone
+Effective date: ! _ day of 2013.
+PAGE 2 OF 2 - ORDINANCE, NO. 2013 - 015
+Chapter 1. 16. CODE VIOLATIONS AND ENFORCEMENT
+1. 16.010. Violations Deemed Class A or B Classification- Penalties.
+1. 16.020. Continuing Violations.
+1. 1.6. 030. Violation Procedures- Statutory Provisions Adopted.
+1. 16.032. Base Fine Amounts and Violation Classification for Water Supply, On- Site Sewage,
+Building Code, Subdivision Regulations and Land Use Regulation Violations.
+1. 16.035. Search Warrants- Statutory Provisions Adopted.
+1. 16.040. Other Remedies Not Precluded_--Iniunctive Reliet7Abatement.
+1. 16.045. Private Right of Action.
+1. 16.050. Stop Work or Use Tag Violations.
+1. 16.060. Continuation of Certain Liabilities.
+1. 16.070. Code Enforcement Officials- Designation by County Administrator.
+1. 16,080. Code Enforcement Officials- Appointment Status.
+1. 16.090. Penalty for False Information on Noise or Animal Control Violation.
+1. 16.010. Violations Deemed Class A or B Classification- Penalties.
+A. Violation of a county ordinance shall be punishable, upon conviction, by line or by the specific
+remedies specified within the County Code.
+B. Each county ordinance specifying a county offense shall classify the ordinance violation as a Class A
+or Class B violation.
+C. A sentence to pay a fine for a violation of a county ordinance shall be a sentence to pay an amount not
+exceeding-thy Maxirnuin Dines in OIZ,ti 1.. 5,3_,_ 0_1. 8,.:
+2. ' 1=kr Efts elr ci- ticnl:ltil: r lfrk a C=(a 4 a1.a1+
+D. Notwithstanding 1. 16.030, for violations of 'Chapters 13. 04, 1308, 15. 04 and 15. 10 and Titles 17 and
+18, the base tine amount shall be the Maximum I ine amount.
+O 1- 3-015l' d. 2008-026, § 1, 2008; Ord. 2003- 021 § 3, 2003; Ord. 2002- 016 § 9, 2002;
+86-076 § 1, 1986)
+1. 16.015. Strict Liability
+A. All of the offenses in the Deschutes County Code are strict liability offenses and do not require the
+proof of any culpablemental state unless the code provision defining the offense expresslyprovidesthat
+culpability is required,
+B. It is no defense to prosecutionunder any provision in this code that the actor was not the person who
+actually created, moved, caused, or maintained the unlawful condition or use.
+C, A person is liable for prosecution under any provision of this code:
+1. If the person created, moved, caused, or maintained an unlawful condition or use;
+2. If the person aided or abetted another person in creating, moving, causing, or maintaining all
+unlawful condition or use;
+3. If the person is in actual or constructive possession of premises on which an unlawful condition or
+use or is found; or
+4. If the person has any interest, other than a security interest, in premises on which an unlawful
+condition or use is found.
+Ord. 2008-026, §l, 2008)
+1. 16.020. Continuing Violations.
+Chapter 1. 16 68/ 2011
+Page I of 4 - EXHIBIT A TO ORDINANCE 2013015
+A, When a violation is of a continuing nature, a separatelypunishable violation occurs on each calendar
+day the violation continues,
+B. The complaint for a continuing violation will clearly state the following:
+1. The ongoing or uninterrupted nature of the violation;
+2. The date the violation is alleged to have first occurred;
+3. The dates or range of dates of each day of the continuing or uninterrupted violation; and
+4. The amount of the fide for each day's violation.
+Ord. 2008-026, § 1, 2008; Ord, 2003-021 § 4, 2003; Ord. 2002- 016 § 9, 2002; 86- 076 §2, 1986)
+1. 16.030. Violation procedures- Statutory provisions adopted.
+A. The violation procedures as set forth in ORS 153. 030 to 153. 145 and 153. 990 shall be the
+procedures for county ordinance violations, and are adopted hereby by reference.
+B. Peace officers may enforce the provisions of Chapter 6. 08, Animal Control, when the peace
+officer has reasonable grounds to believe that the conduct constitutes a violation of that
+chapter.
+Ord. 2009- 005 § 1, 2009; Ord, 2008-026, § 1, 2008; Ord. 2003- 021 § 5, 2003; Ord. 2002- 032 § 1,
+2002; 2002- 016 § 9, 2002; 86 076 § 3, 1986)
+1. 16.032. Base- Fine-A- ntattots and-. Violation Classification for Water Supply, On- Site Sewage,
+Building Code, Subdivision Regulations and Land Use Regulation Violations.
+A. 1~ Jt>iruitFt~ ttt~~tlittg~ 1- 1~3E1` fe~vielatienF~€ C:=hal.~tei ._.. I._3 {) q.--~ 38 l 3) 4 aia. c{--15- F1.) tri~ cl~lt} es=~r~ e}
+I-$- tl~e.. l~a~ sa...tif} e-ain~~ t~~tt:-~ 1~a11~ G tiae-- Eiite-~trnetrnt:
+Violations of Chapters 13,04, 13,08, 13.36, 15. 04 and 15.10 and Titles 17 and 18 constitute Class A
+violations.
+Oi'd, ?013- 015. § 1, 2013:Ord, 2002- 032 § 1, 2002)
+1. 16.035. Search warrants- Statutory Provisions Adopted.
+A. The definition of " offense" as set forth in ORS 161. 505 is adopted:
+B. An offense is conduct for which a sentence to a term of imprisonment or to a fine is provided by any
+law of this state or by any law or ordinance of a political subdivision of this state. An offense is a crime
+or a violation.
+C. ORS 133. 535 ( 3), which allows for property that has been used, or is possessedfor the purpose of being
+used, to cotninit or conceal the commission of an offense to be the subject of search and seizure is
+adopted hereby by reference.
+D. The procedure established for obtaining search warrants as set forth in ORS 133. 545 through 133. 703 is
+adoptedhereby by reference,
+Ord. 2003- 021 § 6, 2003; Ord. 96- 025 § 1, 1996)
+1. 16.040. Other Remedies Not Precluded- Injunctive Reliell'/ Abatenient.
+Chapter1. 16 2 ( 68/ 2013)
+Page2 of 4 - EXHIBIT A TO ORDINANCE 2013015
+F1The procedure established by DCC 1, 16,010 throughDCC 1. 16,060 shall be the exclusive procedurefor
+imposing a fine; provided, however, such sections shall not prohibit, in any manner, alternative
+remedies, including but not limited to injunction, nor shall the County be prohibited from recovering
+any expense incurred in any injunction action.
+B. In additiorl_ toaPine. rely citation for _a ..violation of a c~~ unt~. ordinance may inelr.id(L - 1 reclgg5t.._f 2r
+rnjunc,tive relief and/or„ abatement ot, the viol ttrol.n,
+C The c. nunty 5 representative may al%.) lc, quest illu. nctlve_relief cold/or _abatement at the tinge of
+arrai anment of trial,
+aillst...a per5cm_.._f~r.. vi.c7latinu a coutlty ordinance, the Court i1jay in additionl g 3 s 1 _..._. x..._.
+any other penalty imposed by law, enter orders for injunctive relief' and/or abatement, requiring _. L1j,p
+person to cease all( Ldesistand to correct the violation
+Mal 291. 7..0 1.., 2Oa..~_...Ord~. 86- 076 §4, 1986)
+1. 16.045. Private Right of Action.
+A. Any person, whether actingas principal, agent or employee, whose interest is or may be affected by any
+violation of a Deschutes County ordinance may, in addition to the other remedies provided by law, file
+all violation complaint in the following manner:
+I . The private citizen shall prepare and present the violation complaint to the appropriate enforcement
+officer.
+2. If the enforcement officer fails to act upon the violation complaint within 30 days, the citizen nlay
+submit the violation complaint to Deschutes County Legal Counsel ( legal Counsel).
+3. Legal counsel shall investigate the alleged violation of a county ordinance and, after consultation
+with the appropriate department head, shall either
+a. have the violation complaintserved and prosecute, or
+b, decline to have the violation complaintserved or to prosecute.
+4. Legal counsel shall notify the private citizen of said action within ten days from the date the
+violation complaint is presented to legal counsel.
+5. The private citizen, following notice by legal counsel of legal counsel's decision not to prosecute,
+may, within 60 days of such notice, bring an action under the authority granted by DCC 1. 16.045, in
+the citizen's name against the alleged violator in the sarne wanner and form as provided by a civil
+violation complaint,
+6. Should the private citizen prevail against the violator, any fine imposed and special costs shall be
+awarded to the plaintiff private citizen.
+B. A decision by legal counsel not to prosecute a zoning ordinance violation shall not be deemed to
+constitute a land use decision.
+Ord. 2002- 016 § 9, 2002; 97- 058 § 1, 1997)
+1. 16.050. Stop Work or Use Tag Violations.
+After a stop work or use tag is posted, any person continuing work or use commits a separate violation,
+Violation ofa stop work or use notice constitutes a Class A violation.
+Ord. 2002- 016 § 9, 2002; 86- 076 § 5, 1986)
+1. 1.6. 060. Continuation of Certain Liabilities.
+A. The repeal of Ordinances 82- 012 and 86- 027 by the ordinance codified in DCC 1. 16.010 through
+1. 16.060 shall not extinguish any penalty, forfeiture or judgment imposed or liability incurred under
+Ordinance 82- 012, as amended by Ordinance 86- 027.
+B. Ordinances 82- 012 and 86- 027 shall remain in full force and effect for the purpose of enforcement of
+any penalty, forfeiture or judgment imposed thereunder or liability incurred thereunder.
+Chapter1, 16 68/ 2014.3)
+Page 3 of 4 - EXHIBIT A TO ORDINANCE 2013015
+Ord. 86- 076 §6, 1986)
+1. 16.070. Code Enforcement Officials- Designation by County Administrator.
+A. The County Administrator shall designate individuals, in addition to peace officers, who are employees
+or agents of the county, to enforce violations of county ordinances.
+13. Private individuals who commence actions wider subsection C of this section are not agents or
+employees of the county.
+C. A private person may commence an action for a noise offense under DCC 8. 08, or an animal control
+violation under DCC 6. 08 by signing the complaint before a magistrate, clerk or deputy clerk of the
+court or sheriff's deputy.
+D. The action commenced by a privateperson shall be entered in the court record.
+C. If' an ORS 153. 045 unlf61.111 violation citation form is ] lot used, then a complaint lender DCC
+1. 16.070( B) shall contain a statement that the complainant shall certify, under the penalties provided in
+DCC 1. 16.090, that the complainant has reasonable grounds to believe, and does believe, that the person
+cited committed the offense contrary to law.
+F. A certificate conforming to DCC 1. 16. 090 shall be deemed equivalent to a sworn complaint.
+G. When the complaint is certified by a private person, the court shall cause the su111nlons to be delivered
+to the defendant. The court may require the County Sheriff's Office to serve the summons as provided
+in ORS 153, 535(1).
+Ord. 2011- 023 § 1, 2011; Ord. 2008-026, §1, 2008, Ord. 2007- 028 § 1, 2007; Ord. 2002-016 § 9, 2002; 98-
+010 § 1, 1998; Ord. 87- 005 §1, 1987)
+1. 16.080. Code Enforcement Officials- Appointment Status.
+The appointment of a county officer to enforce violations of county ordinances shall be continuous until
+such appointmentis revolted by the County Administrator or where such officers are employees, upon
+separation from employment.
+Ord. 201 1- 023 § 1, 2011; Ord. 2002- 016 § 9, 2002; 87- 005 §2, 1987)
+1. 16.090. Penalty for False Information on Noise or Animal Control Violation.
+Any person who, in connection with the issuance of a complaint for a noise or animal control violation as
+defined in DCC 8. 08 or DCC 6. 08 respectively, knowingly certifies falsely in the platters set forth therein,
+commits a Class A violation.
+Ord. 2002- 016 § 9, 2002; 98- 010 § 2, 1998)
+Chapter 1. 16 68/ 20143)
+Page 4 of 4 - EXHIBIT A TO ORDINANCE 2013015

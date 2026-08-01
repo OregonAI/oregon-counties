@@ -1,0 +1,276 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-98-008
+title: 'Ordinance No. 98-008'
+doc_type: ordinance
+citation: 'Ordinance No. 98-008'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616797736_1998-12067-Ordinance%20No.%2098-008%20Recorded%202_26_1998.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: eb40494a47c0998697dca92573b967966bcfb35f2c97afd9560f68cce4f2c268
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 98-008 (Ordinance No. 98-008)
+
+## At a glance
+
+Ordinance No. 98-008 — orders of Deschutes County. 4 pages.
+
+## Full text
+
+REVIEVv
+u
+TO FORM
+C
+I
+ODkE REVIEW COMM. 9S- 12067
+I— REVIEWED
+0164- 0304
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County
+Code Sections 6. 08. 050, Conditions When
+Animals Are Nuisances; 6. 08. 060, Animals at Large-,
+6.08.070, Dangerous Dog; 6.08.080, Impermissible
+Harboring, and 6.08.090, Infractions, with
+an Effective Date of May 26, 1998.
+98FEB26 PH1-- 46
+MARYSUL7EINHOLLOW
+COUNTYCLERK
+ORDINANCE NO. 98- 008
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. AMENDMENT. Deschutes County Code Sections 6.08.050, Conditions When
+Animals Are Nuisances, 6.08. 060, Animals at Large, 6.08.070, Dangerous Dog, 6.08.080, Impermissible
+Harboring, and 6.08.090, Infractions, are amended to read as described in Exhibit " A," attached hereto
+and by this referenceincorporatedherein, with new languageunderlinedandlanguageto be deletedin
+Section 2. EFFECTIVE DATE. This Ordinance takes effect on May 26, 1998.
+DATED this 25"' day of February, 1998.
+ATTEST:
+11
+Recording Secretary
+PAGE I OF 1- ORDINANCE NO. 98- 008 ( 2/ 25/ 98)
+OF COUNTY COMMISSIONERS FOR
+JTES COUNTY, ORhiGON
+NANCY
+ROBW L. NIPPER,
+L. S
+MICROFILMED
+APR r:, ? 1998
+ssioner
+Chapter 6. 08. ANIMAL CONTROL
+6. 08. 010. Definitions.
+6. 08. 015. Definition - At large.
+6. 08. 020. Definition - Dangerous dog.
+6. 08. 025. Definition -. Keeper.
+6. 08. 030. Definition - Livestock.
+6. 08. 035. Definition - Livestock district.
+6. 08. 040. Definition - Open range.
+6. 08. 045. Definition - Unconfined.
+6. 08. 050. Conditions when animals are
+nuisances.
+6. 08. 060. Animals at large.
+6. 08. 070. Dangerous dog.
+6. 08. 080. Impermissible harboring.
+6. 08. 090. Infractions.
+6. 08. 100. When impoundment of dogs
+authorized.
+6. 08. 010. Definitions.
+As used in this chapter, the words and
+phrases are defined as set forth in 6. 08. 015- 045.
+Ord. 95- 031 § 1, 1995)
+6. 08. 015. Definition - At large.
+A. " At large" means a dog or other animal
+found off the premises of the owner or keeper
+while the dog or animal is not under the complete
+control of a capable person.
+B. A dog shall not be considered to be at
+large under the following circumstances: ( a) a
+dog in a duly recognized obedience school on
+field training exercises and under the direct
+supervision of a handler; ( b) a dog within a
+vehicle; ( c) a dog being used to hunt, chase, or
+tree wildlife while under the supervision of its
+owner or keeper; ( d) use of a dog to control or
+protect livestock; and ( e) use of a dog in other
+related agricultural activities.
+C. Livestock on the open range shall not be
+considered to be at large. ( Ord. 90- 019 § 1, 1990)
+W64- 03GG
+6. 08. 020. Definition - Dangerous dog.
+Dangerousdog" meansany dog:
+A. Whose owner has been convicted or has
+admitted responsibility, or has in effect admitted
+responsibility on a charge that the dog without
+provocation impermissibly placed a person in
+reasonablefear of imminent physical injury;
+B. Whose owner has been convicted or has
+admitted responsibility, or has in effect admitted
+responsibility on a charge that the dog attacked a
+person or domestic animal without provocation.;
+or
+C. That is trained for or used in animal
+fighting. ( Ord. 90-019 § 1, 1990)
+6. 08. 025. Definition - Keeper.
+Keeper" means, in addition to its ordinary
+meaning, the parents or guardian of an animal
+owner when the owner is under the age of 18
+years and when the owner resides with the parent
+or guardian on the date of the alleged violation of
+a provision of this chapter. ( Ord. 90- 019 § 1,
+1990)
+6. 08. 030. Definition - Livestock.
+Livestock" means any animal that is defined
+to be livestock by the petition or order
+establishing the livestock district in which the
+subject livestock was found. ( Ord. 90- 019 § 1,
+1990)
+6. 08. 035. Definition - Livestock district.
+Livestock district" means any geographic
+area wherein as established pursuant to state law
+it is unlawful for livestock to be at large. This
+definition shall apply only to those livestock
+districts or portions of livestock districts lying
+within the jurisdiction of Deschutes County.
+Ord. 90- 019 § 1, 1990)
+6. 08. 040. Definition - Open range.
+Open range" means any area outside the
+boundaries of a city that is not within the
+boundaries of a livestock district, as defined in
+this chapter. ( Ord. 90- 019 § 1, 1990)
+PAGE 1 OF 3- EXHIBIT " A" TO ORDINANCE NO. 98- 008 ( 2/ 25/ 98)
+6. 08. 045. Definition - Unconfined.
+Unconfined" means not securely confined
+indoors or confined in a securely locked pen or
+structure upon the premises of the owner or
+keeperof a dangerousdog. Such pen or structure
+must be constructed in a manner adequate to
+ensure the confinement of the dangerous dog.
+Ord. 90- 019 § 1, 1990)
+6. 08. 050. Conditions when animals are
+nuisances.
+A. An animal other than livestock is a public
+nuisance if it:
+1. Bites, injures or attacks a person;
+2. Chases vehicles or persons;
+3. Damages or destroys property of persons
+other than the owner or keeper of the animal;
+4. Scatters garbage;
+5. Trespasses on private property of persons
+other than the owner or keeper of the animal;
+6. Disturbs any person by frequent or
+prolonged noises;
+k 7
+is .,
+fafn le deg in hem .,n ti-,
+t
+b
+large;
+8. Pai4ieipmeswith a athe
+than the owner- ar- keeper- of the dog
+9. Places a person in reasonable fear of
+imminent physical injury, when such incident
+takes place off the premises of the animal' s owner
+or keeper; or
+4-08. Injures or kills an animal or fowl
+belonging to a person other than the owner or
+keeper of the animal
+9. Is found to be in violation of section
+6. 08. 060.
+B. An animal shall not be considered to be a
+nuisance under this section if the subject animal
+bites a person or another animal wrongfully
+assaulting the subject animal or if the subject
+animal bites a person or other animal trespassing
+upon premises occupied by the dog's owner or
+keeperafter being provoked by that person.
+C. The owner or keeper of an animal that is
+a public nuisance under th- s subsection ( A)( 1)
+shall be liable under section 6. 08. 080 of this
+chapter.
+0164- 0306
+b
+shall be eensidefedto ho MAt.- r-Aw
+Of p e t ^ e toots, E. Ahs old,
+whiehever eames first. ( Ord. 98- 008 § 1, 1998;
+Ord. 95- 031 § 1, 1995; Ord. 90- 019 § 1, 1990)
+6. 08. 060. Animals at large.
+A. Any dog found at large is a public
+nuisance.
+B. Any livestock in a livestock control
+district found at large is a public nuisance.
+C.
+lel:.
+nuisanee ander- this eetion shall b
+liable undef: seetion 6. 08. 090 of this chaptef
+P An owner or keeperof a dog or livestock
+shall be liable for a violation of this section only
+if such public nuisance resulted from the owner
+or keeper' s negligent conduct. ( Ord. 98- 008 § 1,
+1998; Ord. 97- 011 § 2, 1997; 95- 031 § 1, 1995;
+Ord. 90- 019 § 1, 1990)
+6. 08. 070. Dangerous dog.
+A. No owner or keeper of a dangerous dog
+shall suffer or permit such dog to go unconfined
+on the premises of the owner or keeper.
+B. No owner or keeper of a dangerous dog
+shall suffer or permit such animal to go beyond
+the premises of such person unless such animal is
+humanely muzzled and securely leashed or
+otherwise securely restrained.
+G Thepr- ovisionsof this eetion sh-A-11 he
+subjeet to seation 6. 08. 080 of this ehapter- ( Ord.
+98- 008 § 1, 1998; Ord. 95- 031 § 1, 1995; Ord.
+90- 019 § 1, 1990)
+6. 08. 080. Impermissible harboring.
+No person shall own, harbor, or keep any dog
+with knowledge that, while off the premises
+owned or controlled by its owner or keeper and
+while not acting under the direction of its owner
+or keeper or employees or agents of such persons,
+the dog haskilled or serieusly injured any person.
+Ord. 98- 008 § 1, 1998; Ord. 90- 019 § 1, 1990)
+6. 08. 090. Infractions.
+A. Except as provided herein, violation of
+any provision of this chapter is a Class B
+infraction.
+PAGE 2 OF 3- EXHIBIT " A" TO ORDINANCE NO. 98- 008 ( 2/ 25/ 98)
+0164- 030' 7
+B. Violation of subsections 6. 08. 050( A)( 1),
+7) and ( 8), and sections 6. 08. 060, 6. 08. 070 or
+6. 08. 080 is a Class A infraction eet- to
+Vie.
+C. Vi8lation of seetion 6. 08. 070 E)r- 6. 08. 080
+is a Clan. ^ infra - tion ( Ord. 98- 008 § 1, 1998;
+Ord. 97- 011 § 2, 1997; Ord. 95- 031 § 1, 1995;
+Ord. 90- 019 § 1, 1990)
+6. 08. 100. When impoundment of dogs
+authorized.
+When a dog is a public nuisance under this
+chapter, any peace officer or animal control
+officer may, in addition to citing the owner for a
+violation under section 6. 08. 070, impound the
+dog. ( Ord. 95- 031 § 1, 1995; Ord. 90- 019 § 1,
+1990)
+PAGE 3 OF 3- EXHIBIT " A" TO ORDINANCE NO. 98- 008 ( 2/ 25/ 98)

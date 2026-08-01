@@ -1,0 +1,142 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-resolution-87-053
+title: 'Resolution No. 87-053'
+doc_type: ordinance
+citation: 'Resolution No. 87-053'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1620941337_1987-19974-Resolution%20No.%2087-053%20Recorded%209_30_1987.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 52b04ccbff7655efafab24a3e5fb97773d02e63e7d21fff6965d532aa178728f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution No. 87-053 (Resolution No. 87-053)
+
+## At a glance
+
+Resolution No. 87-053 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+r  ,
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+87- 19974
+A Resolution Submitting a
+Proposed Ordinance, Amending
+Section 4. 08. 030 of the
+Deschutes County Code,
+Increasing the Transient Room *
+Tax to 7 %, to the People of *
+Deschutes County, Oregon, For *
+Their Approval or Rejection, *
+at an Election to be Held on *
+Tuesday, November 3, 1987,
+And Providing For a Ballot
+Title.
+VOL 81GE318
+RESOLUTION NO. 87 - 053
+BE IT RESOLVED BY THE BOARD OF COUNTY COMMISSIONERS OF
+DESCHUTES COUNTY, OREGON, as follows:
+Section 1. Ordinance Proposed. The Deschutes County Code
+Amendment, set forth in Exhibit " A ", attached hereto and by this
+reference incorporated herein, proposing to amend Section
+4. 08. 030, " Tax Imposed ", of the Deschutes County Code, is hereby
+submitted to the legal voters of Deschutes County, Oregon, for
+their approval or rejection.
+Section 2. Date of Election. That the Ordinance proposed
+in Section 1 of this Resolution, relating to the amendment of
+Deschutes County Code Section 4. 08. 030, be submitted to the legal
+electors of Deschutes County, Oregon, at an election to be held
+on November 3, 1987. The polls shall be open from 6: 00 a. m. to
+8: 00 p. m.
+Section 3. Ballot Title. The ballot title for the proposed
+amendment to Section 4. 08. 030 of the Deschutes County Code, as
+set forth in Section 1 of this Resolution, to be submitted to the
+legal electors of Deschutes County, Oregon, shall be as follows:
+CAPTION: Increase in Deschutes County Transient Room Tax.
+QUESTION: Shall the County Code be amended to increase the
+transient room tax outside cities to 7% beginning
+January 1, 1988?
+EXPLANATION: Renters of hotel, motel or similar accommodations
+pay transient room taxes. Revenues from the tran-
+sient room tax, paid by these renters, have been
+used to promote tourism and partially pay for
+County services also used by County visitors. The
+estimated revenue increase is $ 136, 000. 00 per
+1 - RESOLUTION NO. 87 - 053
+8 ' PAGE3/ 9
+year. The increased revenues will be used to pay
+for the construction of a welcome center complex
+and promote tourism. County property tax dollars
+are not used for tourism promotion. Approval of
+this measure amends Section 4. 08. 030, Deschutes
+County Code.
+Section 4. Vote By Mail. The election for the Ordinance
+proposed in Section 1 of this Resolution shall be a vote by mail
+election. Notification of electors shall be as prescribed by the
+laws and rules applicable to vote by mail elections.
+Section 4. Filing. Immediately following passage, this
+Resolution shall be filed with the Deschutes County Clerk, and a
+copy hereof, along with a Notice of Measure Election, shall be
+filed with the Elections Officier f eschutes County, Oregon.
+DATED this .:-= j
+t
+day of L LL tL & h' , 1987.
+ATTEST:
+kar-
+27—
+ecording Secretary
+2 - RESOLUTION NO. 87 - 053
+BOARD OF COUNTY COMMI IONERS
+OF • J- CHUTES' COUNTY, O' EGON
+TOW PRANTE, Chair
+TOM sioner
+K MAUDLI . Co' issioner
+EXHIBIT " A" VOL 89PAGE320
+THE PEOPLE OF DESCHUTES COUNTY, OREGON, ORDAIN AS FOLLOWS:
+Section 1. Section 4. 08. 030, " Tax Imposed ", of the
+Deschutes County Code, is amended as follows:
+4. 08. 030 Tax imposed.
+For the privilege of occupancy in any hotel, on
+and after the effective date of the ordinance codified
+in this chapter, each transient shall pay a tax in the
+amount of seven percent of the rent charged by the
+operator. The tax constitutes a debt owed by the tran-
+sient to the county which is extinguished only by pay-
+ment to the operator as agent for the county. The
+transient shall pay the tax to the operator of the
+hotel at the time the rent is paid. The operator shall
+enter the tax on his records when rent is collected if
+the operator keeps his records on the cash accounting
+basis and when earned if the operator keeps his records
+on the accrual accounting basis. If rent is paid in
+installments, a proportionate share of the tax shall be
+paid by the transient to the operator with each in-
+stallment. If for any reason the tax due is not paid
+to the operator of the hotel, the tax administrator may
+require that such tax shall be paid directly to the
+county."
+Section 2. This Ordinance shall become effective, after
+approval, on January 1, 1988.

@@ -1,0 +1,550 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2015-018
+title: 'Ordinance No. 2015-018'
+doc_type: ordinance
+citation: 'Ordinance No. 2015-018'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1625589785_2015-551-Ordinance%20No.%202015-018%20Recorded%2012_31_2015.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a9c6d1fbcd0be5580aa9590f1919ed833280727fd9fe878ca2f9d94c55ade267
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.860
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2015-018 (Ordinance No. 2015-018)
+
+## At a glance
+
+Ordinance No. 2015-018 — orders of Deschutes County. 14 pages.
+
+## Full text
+
+DESCHUTES COUNTY OFFICIAL RECORDS
+W 2015.55+
+REVIEWED NANCY BLANKENSHIP,  COUNTY CLERK lrtl V
+fta- yr,
+COMMISSIONERS'  JOURNAL
+121311201508:11:06AM
+LEGAL COUNSEL
+WI
+BEFORE TI IE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An OrdinanceAmendingDeschutesCounty Code
+Title 23 and the Deschutes County Comprehensive      * ORDINANCE NO. 2015- 018
+Plan to Incorporate " Housekeeping" Changes that
+Correct Errors, Incorporate Changes to State Law,
+and Provide Clarification of Existing Regulations,
+Procedures, and Policies.
+Wi IEREAS, the Deschutes County Community Development Department ( CDD) initiated amendments
+Planning Division File No. 247-15-000256-TA) to the DeschutesCounty ComprehensivePlan Chapter 4,
+Urban Growth Management, and Appendix " C," Transportation System Plan to incorporate " housekeeping"
+changes correct errors, incorporate changes to state law, and provide clarification of existing regulations,
+procedures, and policies; and
+WHEREAS, the Deschutes County Planning Commission reviewed the proposed changes on August 13,
+2015 and forwarded to the Deschutes County Board of County Commissioners(" Board"), a recommendation of
+approval; and
+WHEREAS, the Board considered this matter after a duly noticed public hearing on December 9, 2015,
+and concluded that the public will benefit from the proposed changes to the Deschutes County Comprehensive
+Plan and Deschutes County Code(" DCC") Title 23; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section I.   AMENDMENT.  DCC 23. 01. 010, Introduction,• is amended to read as described in Exhibit
+A," attachedheretoandby this referenceincorporatedherein, with new languageunderlinedand languageto
+be deleted in s riketh; ough.
+Section 2.   AMENDMENT.   DeschutesCounty ComprehensivePlan Chapter 4,  Urban Growth
+Management, is amended to read as described in Exhibit" B," attachedheretoandby this referenceincorporated
+herein, with new language underlined and language to be deleted in=strikcthrough.
+Section 3.  AMENDMENT Deschutes County Comprehensive Plan Appendix " C," Transportation
+System Plan,  is amended to read as described in Exhibit " C," attached hereto and by this referenced
+incorporated herein, with new language underlined and language to be deleted in strikes, et; ro gh.
+Section 4.  AMENDMENT.    Deschutes County Comprehensive Plan Chapter 5,  Supplementary
+Sections, is amended to read as described in Exhibit " D," attached hereto and by this reference incorporated
+herein, with new language underlined and language to be deleted in ctrikethrough.
+PAGE 1 OF 2- ORDINANCE NO. 2015- 018
+Section 5.  FINDINGS.   The Board adopts as its findings in support of this decision attached to
+Ordinance 2015-018 as Exhibit" E" and incorporated by reference herein.
+r+
+Dated this    (    of 2015 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+ANTHONY DEBONE, Chair
+ALAN UNGER, Vice Chair
+ATTEST:
+2?)
+VIVAAI;  ( 61-11)1A---   C6/173
+Gt I
+Recording Secretary TAMMY BANEY, Comm.   Toner
+ate of
+1st
+Reading:   G' day of 2015.
+Date of 2°
+d
+Reading: Z' o .   day of   ( 1:2a-C. ,   , 2015.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Tammy Baney
+Anthony DeBone
+Alan Unger       ,
+Effective date:
+0t
+i
+day of 2016,
+PAGE 2 OF 2- ORDINANCE NO. 2015- 018
+Chapter 23. 01 COMPREHENSIVE PLAN
+Chapter 23. 01 COMPREIIENSLVE PLAN
+23. 01. 010. Introduction.
+A.      The DeschutesCounty ComprehensivePlan, adoptedby the Board in Ordinance 2011-003
+and found on the DeschutesCounty Community Development Department website, is incorporated
+by referenceherein.
+B.       The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2011- 027, are incorporated by reference herein.
+C.       The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2012- 005, are incorporated by reference herein.
+D.      The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2012-012, are incorporatedby referenceherein.
+E.       The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2012-016, are incorporated by referenceherein.
+F.       The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2013-002, are incorporated by referenceherein.
+G.      The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2013- 009, are incorporated by reference herein.
+11.      The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2013- 012, are incorporated by reference herein.
+I. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2013- 007, are incorporated by reference herein.
+J.       The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2014- 005, are incorporated by reference herein.
+K.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014- 006, are incorporated by reference herein.
+L.       The DeschutesCounty ComprehensivePlan amendments,adoptedby the Board in Ordinance
+2014-012, are incorporated by referenceherein.
+M.      The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2014- 021, are incorporated by reference herein.
+N.      The DeschutesCounty ComprehensivePlan amendments,adoptedby the Board in Ordinance
+2014- 027, are incorporated by reference herein.
+O.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2015- 021, are incorporated by reference herein.
+P.       The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2015- 029, are incorporated by reference herein.
+Q.      The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2015-018, are incorporated by referenceherein.
+Ord. 2015- 018 § 1, 2015; Ord. 2015- 029 § 1, 2015; Ord. 2015- 021 § 1, 2015; Ord. 2014- 027 § 1,
+2014; Ord. 2014- 021 § 1, 2014; Ord. 2014- 12 § 1, 2014; Ord. 2014- 006 § 2, 2014; Ord. 2014- 005 § 2,
+2014; Ord. 2013- 012 § 2, 2013; Ord. 2013- 009 § 2, 2013; Ord. 2013- 007 § 1, 2013; Ord. 2013- 002 § 1,
+2013; Ord. 2013- 001 § 1, 2013; Ord. 2012- 016 § 1, 2012; Ord. 2012- 013 § 1, 2012; Ord. 2012- 005 § 1,
+2012; Ord. 2011- 027 § 1 through 12, 201 1; Ord. 2011- 017 repealed; Ord. 201 1- 003 § 3, 2011)
+Click hereto be directed to the ComprehensivePlan( http://www. deschutes.org/compplan)
+Page 1 of 1 - EXHIBIT A OF ORDINANCE NO. 2015- 018
+1°1°14" Denotes portions of this Section not amended by Ordinance 2015-018.
+DeschutesCounty ComprehensivePlan
+Section 4. 3 Unincorporated Communities
+u
+Table 4. 3. 1 — Deschutes County Unincorporated Communities 2010
+Community Type Approval Date
+Sunriver Urban Unincorporated CommunityY 199 7
+Terrebonne Rural Community 1997
+Tumalo Rural Community 1997
+Black Butte Ranch Resort Community 2001
+Inn of the 7th Mountain/   Resort Community 2001
+Widgi Creek
+Alfalfa Rural Service Center 2002
+Brothers Rural Service Center 2002
+Hampton Rural Service Center 2002
+Millican Rural Service Center 2002
+Whistlestop Rural Service Center 2002
+Wildhunt Rural Service Center 2002
+Source: DeschutesCounty PlanningDivision
+The policiesfor unincorporatedcommunitiesare basedon extensive, relativelyrecent public
+input andarefor the most part still relevantasof 2010. Consequently, only minor changeshave
+beenmadeto those sectionsof this Plan. The exceptionsare the Community Plansfor Tumalo
+andTerrebonnewhich are beingadoptedseparately. Thesehavebeenincorporatedinto this
+plan as Sections 4.56 and 4.67.
+Page 1 of 1 - EXHIBIT B OF ORDINANCE NO. 2015- 018
+Denotes portions of this Section not amended by Ordinance 2015-018.
+2.2 Existing Transportation System and Current Needs
+Rural Arterials
+Baker Road/ Knott Road/ SE 27° Street
+These roads connect to the US 97 Baker Road interchange at the far south end of Bend. Baker Road
+provides access to the Deschutes River Woods neighborhoods just south of Bend and then connects to
+Brookswood Boulevard, Bend' s west side ring road. Knott Road provides access to the Deschutes
+County Landfill before turning north and becoming SE27thStreet. The Knott/ 27thcombination is the ring
+road for Bend' s east side. SE27thStreet continues north into the City of Bend, where this County arterial
+becomes a City arterial north of Diamond Back Lane. Some travelers use a routing of Knott and Rickard
+Road to reach US 20 to avoid the congestion of 27th Street, which also intersect US 20 in east- central
+Bend
+Baker Road
+2009 traffic volumes
+0. 10 miles west of Cinder Butte Road 6, 174 ADT
+0. 10 miles west of U5 97 8, 404 ADT
+Knott Road
+2009 traffic volumes
+0. 10 miles east of US 97 6, 269 ADT
+0. 20 miles east of
+15th
+St. ( Bend)      6, 508 ADT
+2008 traffic volumes
+0. 25 miles west of
+27th
+St. ( Bend)      6, 039 ADT
+SE 27th Street
+2008 traffic volumes
+0. 10 miles south of Diamond Back Ln 7, 656 ADT
+Page 1 of 1 - EXHIBIT C OF ORDINANCE NO. 2015- 018
+Sect% ov15. 12 Leg' sLat' ve H-' storU
+Background
+This sectioncontainsthe legislativehistory of this ComprehensivePlan.
+Table 5. 11.1 Comprehensive Plan. Ordinance History
+Ordinance
+Date Adopted/
+Chapter/ Section Amendment
+Effective
+All, except
+Transportation, Tumalo
+and Terrebonne
+2011- 003 8- 10- 1 1/ 1 1- 9- 1 I Community Plans,
+Comprehensive Plan update
+Deschutes Junction,
+Destination Resorts and
+ordinances adopted in
+2011
+2. 5, 2. 6, 3. 4, 3. 10, 3. 5,
+Housekeeping amendments to
+2011- 027 10- 31- I 1/ I 1-9- 1 1
+4. 6, 5. 3, 5. 8, 5. I I,
+ensure a smooth transition to
+23. 40A, 23. 40B,
+the updated ad d PI n
+23. 40. 065, 23. 01. 010 P
+23. 60, 23. 64 ( repealed),
+Updated Transportation
+2012- 005 8- 20- 12/ 11- 19- 12 3. 7 ( revised), Appendix C
+System Plan
+added)
+2012- 012 8- 20- 12/ 8- 20- 12 4. 1, 4. 2
+La Pine Urban Growth
+Boundary
+2012- 016 12- 3- 12/ 3- 4- 13 3. 9 Housekeeping amendments to
+Destination Resort Chapter
+Central Oregon Regional
+2013- 002 1- 7- 13/ 1- 7- 13 4. 2 Large- lot Employment Land
+Need Analysis
+Comprehensive Plan Map
+Amendment, changing
+2013- 009 2- 6- 13/ 5- 8- 13 1.3
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan Map
+2013- 012 5- 8- 13/ 8- 6- 13 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+Newberry Country: A Plan
+2013- 007 5- 29- 13/ 8- 27- 13 3. 10, 3. I I for Southern Deschutes
+County
+DESCHUTES COUNTY COMPREHENSIVE PLAN- 201 I
+CHAPTER 5 SUPPLEMENTALSECTIONS SECTION 5. 11 GOAL S ADOPTED ORDINANCES
+PAGE I OF 2— EXHIBIT D TO ORDINANCE 2015- 018
+Date Adopted/
+Ordinance
+Effective
+Chapter/ Section Amendment
+Comprehensive Plan Map
+2013- 016 10- 21- 13/ 10- 21- 13 23. 01. 010 Amendment, including certain
+property within City of Sisters
+Urban Growth Boundary
+Comprehensive Plan Map
+2014- 005 2- 26- 14/ 2- 26- 14 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+2014- 012 4- 2- 14/ 7- 1- 14 3. 10, 3. I I Housekeeping amendments to
+Title 23.
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+2014- 021 8- 27- 14/ 11- 25- 14 23. 01. 010, 5. 10 property from Sunriver Urban
+Unincorporated Community
+Forest to Sunriver Urban
+Unincorporated Community
+Utility
+Comprehensive Plan Map
+Amendment, changing
+2014- 027 12- 15- 14/ 3- 31- 15 23. 01. 010, 5. 10 designation of certain
+property from Agriculture to
+Rural Industrial
+Comprehensive Plan Map
+Amendment, changing
+2015- 021 11- 9- 15/ 2- 22- 16 23. 01. 010 designation of certain
+property from Agriculture to
+Surface Mining.
+Comprehensive Plan Map
+Amendment, changing
+2015- 029 11- 23- 15/ 11- 30- 15 23. 01. 010
+designation of certain
+property from Tumalo
+Residential 5- Acre Minimum
+to Tumalo Industrial.
+2015- 018 12- 9- 15/ 3- 27- 16 23.01.010, 2.2, 4.3 Housekeeping Amendments
+to Title 23.
+2 DESCHUTES COUNTY COMPREHENSIVE PLAN- 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. I2LEGISLATIVE HISTORY
+PAGE 2 OF 2.- EXHIBIT D TO ORDINANCE 2015- 018
+FINDINGS
+I. APPLICABLE CRITERIA:
+Title 22, Deschutes County Development Procedures Ordinance
+II.       BASIC FINDINGS:
+A. PROPOSAL:   The Planning Division determined minor changes were necessary to
+clarify existing standards and procedural requirements, incorporated changes to state
+law, and correct errors found in various sections of the Deschutes County Code ( DCC).
+Staff initiated the proposed changes and notified the Oregon Department of Land
+Conservation and Development.      The Deschutes County Board of County
+Commissioners will review the proposed changes on December 9, 2015.
+III.      CONCLUSIONARY FINDINGS:
+A.       CHAPTER 22. 12, LEGISLATIVE PROCEDURES
+1.       Section 22. 12. 010.
+Hearing Required
+FINDING:  The applicant meets this criterion because a public hearing will be held before the
+Deschutes County Board of County Commissioners on December 9, 2015.
+2.       Section 22. 12. 020, Notice
+Notice
+A.  Published Notice
+1.  Notice of a legislative change shall be published in a newspaper of
+general circulation in the county at least 10 days prior to each public
+hearing.
+2. The notice shall state the time and place of the hearing and contain a
+statement describing the general subject matter of the ordinance under
+consideration.
+FINDING:    Notice of proposed legislative changes was published in the Bend Bulletin
+newspaper on November 29, 2015. This criterion has been met.
+B.  Posted Notice.  Notice shall be posted at the discretion of the Planning
+Director and where necessary to comply with ORS 203. 045.
+FINDING:   Notice was posted in the bulletin board in the lobby of the Deschutes County
+Community Development Department, 117 NW Lafayette, Bend. This criterion has been met.
+C.  Individual notice.  Individual notice to property owners, as defined in
+DCC 22. 08. 010( A), shall be provided at the discretion of the Planning
+Director, except as required by ORS 215. 503.
+Page 1 of 7— Exhibit E of Ordinance 2015- 018
+FINDING:  Given the proposed legislative amendments do not apply to any specific property, no
+individual notices were sent. This criterion has been met.
+D.  Media notice.  Copies of the notice of hearing shall be transmitted to
+other newspapers published in Deschutes County.
+FINDING:   Notice will be provided to the County public information official for wider media
+distribution. This criterion has been met.
+3.       Section 22. 12. 030 Initiation of Legislative Changes.
+A legislative change may be initiated by application of individuals upon
+payment of required fees as well as by the Board of County
+Commissioners.
+FINDING:   The application was initiated by the Deschutes County Planning Division, which
+received a fee waiver. This criterion has been met.
+4.       Section 22. 12, 040. Hearings Body
+A.  The following shall serve as hearings or review body for legislative
+changes in this order:
+1.  The Planning Commission.
+2. The Board of County Commissioners.
+B.  Any legislative change initiated by the Board of County Commissioners
+shall be reviewed by the Planning Commission prior to action being
+taken by the Board of Commissioners.
+FINDING:   The Planning Commission held a public hearing on July 9, 2015, to review the
+proposed amendments.    Then,  on August 13,  2015,  the Planning Commission voted
+unanimously to recommend approval of the proposed amendments as amended. These criteria
+have been met.
+5.       Section 22. 12. 050 Final Decision
+All legislative changes shall be adopted by ordinance
+FINDING:   The proposed legislative changes included in file no. 247- 15- 000256- TA will be
+implemented by ordinances upon approval and adoption by the Board; this criterion will be met.
+IV.      PROPOSED TEXT AMENDMENTS:
+The text amendments are detailed in the corresponding and referenced ordinance attached
+hereto with additional text identified by underline and deleted text by -strikethla- peu- g,;.  Below are
+explanations of the changes.
+A.       Title 9 of the Deschutes County Code:
+Chapter 9. 04. DRUG PARAPHERNALIA
+In March of 2014, the Board adopted an ordinance establishing a moratorium on the
+operation of any marijuana dispensary in any area subject to the jurisdiction of Deschutes
+Page 2 of 7— Exhibit E of Ordinance 2015- 018
+County.  This ordinance included a sunset May 1, 2015, repealing the moratorium.  The
+amendment removes the moratorium from the County code. ( Ord. 2015-013 Exhibit A)
+B.      Title 11, County Owned Land and Property:
+Chapter 11. 12. TRANSFERABLE DEVELOPMENT CREDIT PROGRAM
+Section 11. 12. 020. TDC Transactions.
+DCC 11. 12. 020( B)(3)( c) includes a typo incorrectly referring to DCC 11. 12.010, Definitions,
+and not the appropriate section of DCC 11. 12. 020, TDC Transactions.  The amendment
+corrects the reference.  ( Ord. 2015- 014 Exhibit A)
+C.      Title 17, Subdivisions:
+Table A Minimum Design Standards
+Note# 20 of the table references zones and standards for the La Pine Urban Unincorporated
+Community that are now within the city limits of La Pine and no longer under the jurisdiction
+of Deschutes County.  The amendments remove these references.  ( Ord. 2015. 015 Exhibit
+A)
+D.       Title 18, County Zoning:
+Chapter 18. 04. TITLE, PURPOSE AND DEFINITIONS
+Section 18. 04. 030.  Definitions.
+DCC 18. 04. 030 includes several definitions that are associated solely with the La Pine
+Neighborhood Planning Area that is now located entirely within the city limits of La Pine and
+no longer under the jurisdiction of Deschutes County.   The amendments delete these
+definitions from the code.  ( Ord. 2015- 016 Exhibit A)
+Chapter 18. 18 EXCLUSIVE FARM USE ZONE
+Section 18. 16. 040.  Limitations on Conditional Uses.
+DCC 18. 16.040 currently only references conditional uses permitted in DCC 18. 16. 030.
+However,  the conditional uses permitted under sections 18. 16. 031 and 18. 16. 033 are
+allowed either under Oregon Revised Statute ( ORS) 215. 283( 2) or Oregon Administrative
+Rule  ( OAR)  660- 033- 0120 and also subject to ORS 215. 296.  The amendment adds
+reference to DCC 18. 16. 031 and 18. 16. 033 for clarification. ( Ord. 2015- 016 Exhibit B)
+Chapter 18. 60 RURAL RESIDENTIAL ZONE— RR- 10
+Section 18. 60. 090.  Oregon Water Wonderland Unit 2 Sewer District Limited Use
+Combining Zone.
+The County Comprehensive Plan was updated and reformatted in 2011.  The amendment
+corrects this reference to reflect the format change and identifies the new section number.
+Ord. 2015- 016 Exhibit C)
+Page 3 of 7— Exhibit E of Ordinance 2015- 018
+Chapter 18. 67. TUMALO RURAL COMMUNITY ZONING DISTRICTS
+Section 18. 67. 080. Standards for All Districts.
+DCC 18. 67. 080( G), river setback, currently only refers to structures located within 100-feet
+of the river and the requirement that a setback exception to the 100- foot setback shall be
+approved.  Instead, this section should state the required setback is a minimum of 100-feet
+while also noting there is opportunity for an exception.   The amendment clarifies the
+standard.  ( Ord. 2015- 016 Exhibit D)
+Chapter 18. 84.  LANDSCAPE MANAGEMENT COMBINING - LM ZONE
+Section 18. 84. 050.   Use limitations.
+As currently worded, this section requires that all substantial alterations, interior or exterior,
+requiring a building permit receive LM site plan approval.  The regulation and review of
+interior alterations is not related to the purpose of the LM zone which is "... to maintain
+scenic and natural resources of the designated areas and to maintain and enhance scenic
+vistas and natural landscapes as seen from designated roads, rivers, or streams."  Staff
+believes this is an oversight from previous amendments that were not related to the interior
+alterations.
+In Ordinance 91- 20, Section 18. 84. 050, Use limitations, previously stated:
+No structure, including agricultural buildings, shall be erected or substantially altered
+externally within one-quarter mile (measured at right angles from centerline of any
+identified landscape management roadway or within 200 feet of the ordinary[ mean] high
+water mark of any identified landscape management corridor along a river) without first
+obtaining the approval of the Planning Director or Hearings Body. (emphasis added)
+Then,  Ordinance 92- 034 amended 18.84. 050 to its current wording which omitted the
+reference to exterior alterations.    Exhibit  " C"  of Ordinance 92- 034 summarizes the
+amendments noting, " Section 18. 84. 050 requires site plan review for structures within the
+LM zone, clarifies the amount of alteration allowed without site plan review and exempts
+structures which will not be and will remain invisible from a designated roadway, river, or
+stream from the provision of site plan review." Staff concludes the omission of reference to
+exterior alterations was done in error.
+This section also included a reference to DCC 18. 124, Site Plan Review.  However, DCC
+18. 124 is not applicable to the LM zone.  The site plan review requirements and standards
+that are applicable to the LM zone are outlined in the Chapter 18. 84.   The amendment
+removes this reference.
+Section 18. 84. 080.  Design Review
+DCC 18. 84. 080( D) includes a typo in the reference to DCC18. 84. 090( E).  The amendment
+removes this error.
+DCC 18.84.080(E) as currently worded erroneously exempts agricultural structures located
+at least 50 feet from a rimrock for the standards of DCC18. 84. 080, instead of the height limit
+of the section as intended. The amendment corrects this error.
+Page 4 of 7— Exhibit E of Ordinance 2015- 018
+DCC 18.84.080(J) currently refers to Squaw Creek, the previous name of Whychus Creek.
+The amendment corrects the name.
+Ord 2015- 016 Exhibit E)
+Chapter 18. 108. URBAN UNINCORPORATED COMMUNITY ZONE - SUNRIVER
+Section 18. 108. 055 Town Center— TC District
+The County Comprehensive Plan was updated and reformatted in 2011.  The amendments
+correct this reference to reflect the format change and identify the new section number.
+Ord. 2015- 016 Exhibit F)
+Chapter 18. 113. DESTINATION RESORTS ZONES - DR
+Section 18. 113. 060. Standards for Destination Resorts.
+Ordinance 2013- 008 approved a ratio of 2. 5: 1 for residential units to overnight available in
+destination resorts.   Section 18. 113. 060( A)( 1)(b)( iv) was not previously updated to reflect
+this new standard.  The amendment makes the approved change to this section.   ( Ord.
+2015- 016 Exhibit G)
+Chapter 18. 128. CONDITIONAL USE
+Section 18.128.200. Cluster Development( Single- Family Residential Uses Only).
+The County Comprehensive Plan was updated and reformatted in 2011.  The amendment
+corrects this reference to reflect the format change. ( Ord. 2015- 016 Exhibit H)
+E.       Title 22, Deschutes county Development Procedures Ordinances:
+Chapter 22. 08. GENERAL PROVISIONS
+Section 22. 08. 010. Application Requirements.
+The review of select land applications requires a hearings officer deposit for cost of services
+to be submitted as part of an application.  Currently there is no reference to this deposit in
+the application requirements. The amendment specifies that a hearings officer deposit shall
+be submitted or requested prior to deeming the application complete.   ( Ord. 2015- 017
+Exhibit A)
+Chapter 22. 28.  LAND USE ACTION DECISIONS
+Section 22. 28. 020. Notice of decision.
+This section currently requires hearings body decisions be mailed to all parties.  This can be
+and has been a considerable expense and may not be necessary given the availability of
+decisions online or upon request.  Instead, the amendment indicates notice of the decision
+will be sent to all parties.  Decisions will continue to be available online or upon request.
+Ord. 2015- 017 Exhibit B)
+Chapter 22. 32. APPEALS
+Section 22. 32. 015. Filing appeals.
+DCC 22.32.015( D) specifies that appeal fees shall be paid by cash, check, money order, or
+purchase order for government agencies. This standard was added by Ord. 98- 019 ( TA98-
+Page 5 of 7--- Exhibit E of Ordinance 2015- 018
+6) to explicitly allow governmental agencies to pay for an appeal with a purchase order in
+addition to cash, check, or money order.  Since the adoption of Ord. 98-019, the Community
+Development Department is now able to accept payments via credit card.  Instead of adding
+credit cards to the list of payment options, the terminology is simplified to acknowledge all
+acceptable forms of payment.
+Section 22. 32. 024. Transcript requirement
+DCC 22.32.024 currently requires an appellant to provide a complete transcript of for the
+appeal hearing.  However, with the availability of audio and video recordings of hearings,
+such a transcript is not always necessary.  Therefore, this change provides opportunity for
+the appeal hearings body to waive the requirement of providing a complete transcript.
+Ord. 2015- 017 Exhibit C)
+Chapter 22. 34.  PROCEEDINGS ON REMAND
+Section 22. 34. 030.   Notice and hearings requirements.
+Oregon Legislature enacted House Bill ( HB) 2830 amending the LUBA remand procedures.
+In summary, the amendment extends the 90- day review time period to 120- days upon
+request from the applicant that the county proceed with review.  The amendment also
+provides opportunity for this time period to be extended an additional 365 days if the parties
+enter into mediation as provided by ORS 197.860 prior to the expiration of the initial 120-day
+period.  If the county does not receive the request to proceed from the applicant within 180
+days of the effective date of the final order or the final resolution of the judicial review or if
+not resolved through mediation prior to the expiration of the 365-day extension, the county
+shall deem the application terminated. The amendment reflects this legislation. ( Ord. 2015-
+017 Exhibit D)
+Chapter 22. 36.  LIMITATIONS ON APPROVALS
+Section 22. 36. 010.  Expiration of approval.
+DCC 22. 36. 010( B)( 4)( a) indicates the approval period for replacement dwellings in the EFU
+zone is for 4 years.  However, recent amendments to ORS 215. 417 removed replacement
+dwellings from the list of uses with 4 year approval periods.  Instead, replacement dwellings
+are subject to the general 2 year approval period.  The amendment corrects this error.  ( Ord.
+2015- 017 Exhibit E)
+F.       Title 23, Deschutes County Comprehensive Plan:
+Chapter 4.  URBAN GROWTH MANAGEMENT
+Section 4. 3 Unincorporated Communities/
+Table 4. 3. 1 — Deschutes County Unincorporated Communities 2010
+The narrative after the table notes the Community Plans for Tumalo and Terrebonne are in
+Sections 4.5 and 4.6, respectively.  However, text amendments previously approved
+renumbered these Sections to 4. 6 and 4. 7. The amendment corrects error.  ( Ord. 2015- 018
+Exhibit B)
+APPENDIX C— TRANSPORTATION SYSTEM PLAN
+Section 2.2 Existing Transportation System and Current Needs
+Page 6 of 7— Exhibit E of Ordinance 2015- 018
+The County TSP does not currently include a description of SE 27th Street, which forms
+portions of the southeast boundary of the city limits and urban growth boundary the City of
+Bend.   Because portions of the road and property adjacent are located in areas under
+County jurisdiction,  inclusion of the road on the TSP is warranted.   The County Road
+Department road inventory identifies this segment of road as a rural arterial and the most
+recent traffic count in 2008 found 7, 656 average daily trips( ADT). The amendment adds SE
+279' Street to the existing description of Baker Road and Knott Road because it is natural
+extension of the same corridor.  ( Ord. 2015- 018 Exhibit C)
+V.       CONCLUSION:
+Based on the information provided herein, the Board of County Commissioners APPROVE the
+proposed text amendments that make minor changes necessary to clarify existing standards
+and procedural requirements, incorporate changes to state law, and to correct errors.
+Page 7 of 7— Exhibit E of Ordinance 2015- 018

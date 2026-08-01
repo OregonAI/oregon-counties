@@ -27,3 +27,15 @@ site/
 credentials.json
 
 .DS_Store
+
+# Raw source files are NOT committed; frontmatter declares snapshot_policy: hash-only.
+# Seven counties of code chapters, board orders and comprehensive plans is much closer to
+# oregon-audits' 767 MiB than to federal-reference's 13 MB, and county comprehensive plans
+# are routinely map-heavy scans in the tens of megabytes. The committed .txt extractions are
+# what provenance verifies against, so source_sha256 and full-text coverage are unaffected.
+#
+# Re-fetch any source with:  python3 src/ingest_counties.py --only <county> --refetch
+_meta/snapshots/*.pdf
+_meta/snapshots/*.html
+_meta/snapshots/*.xml
+_meta/snapshots/*.json

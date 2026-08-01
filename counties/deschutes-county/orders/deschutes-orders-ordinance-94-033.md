@@ -1,0 +1,126 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-94-033
+title: 'Ordinance No. 94-033'
+doc_type: ordinance
+citation: 'Ordinance No. 94-033'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616698728_1994-23989-Ordinance%20No.%2094-033%20Recorded%206_10_1994.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 5937ba7c930ef10531e616944c1b1ab6cfe620618ab1a95876fec8a09ccccddf
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 94-033 (Ordinance No. 94-033)
+
+## At a glance
+
+Ordinance No. 94-033 — orders of Deschutes County. 2 pages.
+
+## Full text
+
+REVIEWED
+94- 23989
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUT O
+An Ordinance Amending Chapter 12. 48 * ,.
+of the Deschutes County Code and* ,., O0Declaring an Emergency
+ORDINANCE
+WHEREAS, the Board of County
+Ordinance 94- 025) to provide for
+NO. 94- 033;, w
+r: co
+Commissioners adopted an '
+t',
+ardihance
+constructing local improvement; and
+WHEREAS, it is necessary to amend that ordinance to provide for
+additional procedures not specified in that ordinance; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. Section 12. 48. 200, " Board order for improvement -
+Recording - Vacation of order," is amended to read as follows, with new
+language set forth in bold- faced type and language to be deleted set
+forth in brackets:
+12. 48. 200 Board order for improvement - Recording - Vacation of
+order.
+A. At the time of the public hearing, the board shall hear
+any testimony on the proposed local improvement and may continue
+the hearing as it deems necessary. If objections are received by
+the board signed by more than 50 percent of the owners of land
+representing more than 50 percent of the total amount of the
+estimated assessment for the proposed local improvement, the
+proposed local improvement shall, by order of the board, be
+declared abandoned and no new petition may be filed and no new
+resolution may be adopted for the local improvement within a
+period of one year after the date of the order.
+B. If following the hearing the board determines that the
+proposed local improvement should be made and the number of
+objections mentioned in this section has not been received, the
+board may at its discretion, by order describing the land to be
+assessed, direct the local improvement to be made by contract or
+by force account. If by contract, it shall be awarded in the same
+manner as provided for other contracted county road improvements.
+C. Following the hearing, the board may modify the proposed
+local improvement, the estimated cost, the assessment method or
+the estimated assessments in response to information received and
+objections raised, in which case an additional hearing shall be
+noticed in accordance with section 12. 48. 170 to 12. 48. 200 of this
+chapter. The provision of additional information to justify the
+chosen methodology shall not trigger the requirements of this
+subsection.
+1 - ORDINANCE NO. 94- 031
+UN H'F_`=
+0135- 20"74
+D. The board can suspend or abandon proceeding with a local
+mprovement [ at any time up to letting contracts for construction]
+if it determines that the minimum requirements of section
+12. 48. 330( A) are not being met or for any other reason.
+E. Subject to subsection ( C) above, the Board may at its
+discretion and on its own motion or at the request of interested
+parties reopen a previously noticed public hearing that has been
+closed upon the mailing of notice to owners of property to be
+assessed not less than 5 days prior to the reopening of the
+hearing.
+Section 2. Applicability. The provisions of this ordinance shall
+be applicable to all LID' s initiated after the effective date of this
+ordinance and to all LID proceedings pending on the date of this
+ordinance.
+Section 3. Severability. The provisions of this ordinance are
+severable. If any section, sentence, clause, or phrase of this
+ordinance or any exhibit thereto is adjudged to be invalid by a court
+of competent jurisdiction, that decision shall not affect the validity
+of the remaining portions of this ordinance or any exhibit thereto.
+Section 4. Emergency. This Ordinance being necessary for the
+immediate preservation of the public peace, health and safety, an
+emergency is declared to exist, and this Ordinance takes effect on its
+passage.
+DATED this lff4_ day of June, 1994.
+OF COUNTY COMMISSIONERS
+S) COUNTY,
+S¢ HLANGEN, C
+A7!
+TO OOP%, isssi/ oner
+J. 7 A f ZM4V
+Recording Secreta y BARRY . SLAUGH ER, Commissioner
+2 - ORDINANCE NO. 94- 031

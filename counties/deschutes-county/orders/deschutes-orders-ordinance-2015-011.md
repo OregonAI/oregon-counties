@@ -1,0 +1,529 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2015-011
+title: 'Ordinance No. 2015-011'
+doc_type: ordinance
+citation: 'Ordinance No. 2015-011'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617127098_2015-544-Ordinance%20No.%202015-011%20Recorded%2012_24_2015.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 92b1bf2c376502f6965be4e51ec9693e36123a1bd4e7f52d086d27ae66de2fcc
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 469.300
+    - OAR 635-140-0002
+    - OAR 660-033-0120
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2015-011 (Ordinance No. 2015-011)
+
+## At a glance
+
+Ordinance No. 2015-011 — orders of Deschutes County. 12 pages.
+
+## Full text
+
+DESCHUTES
+CLERK 4r1 2015
+m
+544
+COMMISSIONERS'  JOURNAL
+12/24/201512:35:12PM
+LILJJII1IJJJIIIUIIIIIIIIIIIIII
+REV W L; 1.
+LEGAL COUNSEL.
+For Recording Stamp Only
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending DeschutesCounty Code
+Title 18, and Declaring an Emergency.    ORDINANCE NC). 2015- 01 1
+WHEREAS, on July 23, 2015 the Oregon Department of Land Conservation and Development
+Commission adopted Greater Sage-Grouse habitat inventories and rules establishinga procedurefor considering
+development proposals on lands identified as significant Greater Sage- Grouse Habitat.
+WHEREAS, Deschutes County is one of seven counties with Greater Sage-Grouse Habitat; and
+WHEREAS, amendmentsto the DeschutesCounty Code Title 18 are necessaryto comply with ORS
+197. 646( 3) and OAR 660- 023- 0115( 4); and
+WHEREAS, after notice was given in accordancewith applicable law, a public hearing was held before
+the DeschutesCounty Planning Commission on October 8, 2015 to consider the revised County Code; and
+WHEREAS, on November 12, 2015 the Planning Commission forwarded to the Board of County
+Commissioners(" Board") a recommendation of approval to adopt changes to the County Code; and
+WHEREAS, the Board considered this matter after a duly noticed public hearing on December 2, 2015
+and concluded that the public will benefit from changesto the County Code; and
+WHEREAS, the Board finds it in the public interest to adopt the following County Code amendments;
+now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1.  ADDING.   DCC Chapter18. 89, Greater Sage-Grouse Area Combining Zone, is hereby
+added to read as described in Exhibit" A," attached hereto and by this reference incorporated herein.
+Section 2.  AMENDMENT.   DCC Chapter 18.90, Sensitive Bird and Mammal Habitat Combining
+Zone, is amended to read as described in Exhibit" B," attachedheretoand by this referenceincorporated herein,
+with new language underlined and language to be deleted in strike.
+Section 3.  FINDINGS.  The Board adopts as its findings Exhibit " F" of Ordinance 2015- 010 and
+incorporated by reference herein.
+PAGE 1 OF 2- ORDINANCE NO. 2015- 011
+Section 4. EMERGENCY. This Ordinance being necessaryfor the immediate preservation of the public
+peace, health and safety, an emergency is declared to exist, and this Ordinance takes effect on its passage.
+Dated this(//       of 2015 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+ANTHONY De BONE, Chair
+ajc0
+ALAN UNGER, Vice Chair
+ATTEST:
+T10/44k2e-'
+q2,-
+X144
+W_D-a/ v7
+Recording Secretary TAMMY BANEY, Con issioner
+Yr
+Date of
+it
+Reading:   /      day of   ( De- C'.    , 2015.
+Date of
+2nd
+Reading:       dayof
+6   ,
+2015.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Anthony De Bone
+v
+Alan Unger
+Tammy Baney
+Effective date:, -" day of_ 2015.
+PAGE 2 OF 2- ORDINANCE NO. 2015- 01 1
+Chapter 18. 89.      GREATER SAGE- GROUSE AREA COMBINING ZONE - GSGA
+18. 89. 010.  Introduction.
+18. 89. 020.  Exempt Activities.
+18. 89. 030.  Definitions.
+18. 89. 040.  Quality, Quantity and Location.
+18. 89. 050.  Determination of Significance.
+18. 89. 060.  Conflicting Uses.
+18. 89. 070.  Pre- Application Conference.
+18.89. 080.  Program to Achieve Goal of Protecting Significant Sage Grouse Habitat in a Core Area.
+18.89. 090.  Program to Achieve Goal of Protecting Significant Sage Grouse Habitat in a Low
+Density Area.
+18. 89. 100.  Program to Achieve Goal of Protecting Significant SageGrouse Habitat on General
+Habitat.
+18. 89. 110.  Especially Unique Local Economic Opportunity.
+18. 89. 120.  Proposal to Upzone Lands Containing Significant Sage Grouse Habitat.
+18. 89. 130.  Landscape- Level Consideration.
+18. 89. 140.  Central Registry.
+18. 89. 150.  Metering.
+18. 89. 160.  Disturbance Threshold.
+18. 89. 010.  Introduction.
+Greater Sage- Grouse ( hereafter " sage- grouse") habitat is a unique wildlife resourcesubject to a variety of
+threats across a broad, multi- state region.  Oregon' s sage- grouse habitat is comprised of a combination of
+public land managed by the federal government and nonfederal land generally in private ownership.
+Managing private and other nonfederal land for the best possible outcomes requires partnership and
+cooperation among many stakeholders.   Accordingly, private and other nonfederal lands are strongly
+encouraged to participate in a Candidate Conservation Agreement with Assurances program.  Voluntary
+conservation efforts of this nature are recognized by the Stateof Oregon as a critical part in recovering the
+breeding population targeted by Oregon's Greater Sage-Grouse ConservationAssessmentand. Strategy for
+Oregon.   Beyond voluntary efforts, it remains necessaryto provide a regulatory framework that offers
+fairness, predictability and certainty for all involved parties. Engagementon the part of county government
+is critical to Oregon' s efforts to address possible impacts from future development.
+Ord. 2015- 011 § 1, 2015)
+18. 89. 020.  Exempt Activities.
+A.  Those activities that do not require governmental approval, including farm use as defined in ORS
+215. 203( 2), are exempt from the provisions of this chapter.
+B.  Stateagencypermits necessaryto facilitate a farm use, including granting of new water right permits by
+the Oregon Water Resources Department( OWRD), are also exempt from the provisions of this chapter.
+C.  Any energy facility that submitted a preliminary application for site certificate pursuantto ORS 469.300
+et seq. on or before August 13, 2015, is exempt from the provisions of this chapter.
+I.  Notwithstanding ORS 197. 646( 3), this chapter shall not be directly applicable to any land use
+decision regarding that facility unless the applicant chooses otherwise.
+2.   Similarly, any changes to a local government' s acknowledged comprehensive plan or land use
+ordinances developed to achieve consistency with this chapter shall not constitute " applicable
+substantive criteria" pursuant to OAR 345- 022- 0030( 3), unless they are in effect on the date the
+Chapter 18. 89 1 xx/ 201. 5)
+Page 1 of 7 - EXHIBIT A TO ORDINANCE NO. 2015- 011
+applicant submits a preliminary application for site certificate,  unless the applicant chooses
+otherwise.
+D.  Private and other nonfederal lands are strongly encouragedto participate in a CandidateConservation
+Agreement with Assurances( CCAA) program.
+1.   Voluntary conservationefforts of this nature are recognizedby the Stateof Oregon asa critical part
+in recovering the breeding population targeted by the Greater Sage-Grouse Conservation
+Assessment and Strategy for Oregon.
+2.   Uses identified in CCAA agreements are relieved from the provisions of this chapter except that
+conflicting usesidentified in section DCC 18.89.060 will be subjectto sectionsDCC 18.89.080 thru
+18. 89. 100 in all instances regardless of enrollment status.
+Ord. 2015- 011 § 1, 2015)
+18. 89. 030.  Definitions.
+Definitions. For purposesof this chapter, the definitions in OAR 635-140-0002 and in the glossary of the
+Greater Sage-Grouse Conservation Assessment and Strategy for Oregon" adopted by the Oregon Fish and
+Wildlife Commission on April 22, 2011 shall apply. in addition, the following definitions shall apply:
+Areas of High Population Richness" means mapped areas of breeding and nesting habitat within core
+habitat that support the 75th percentile of breeding bird densities( i. e. the top 25 percent). Please see Exhibit
+A to OAR 660- 023- 0115.
+Candidate Conservation Agreement with Assurances" means a formal agreement between the United
+States Fish and Wildlife Service ( USFWS) and one or more parties to address the conservation needs of
+proposed or candidate species, or species likely to become candidates, before they become listed as
+endangeredor threatened. Landowners voluntarily commit to conservationactionsthat will help stabilize or
+restore the species with the goal that listing under the Federal Endangered Species Act will become
+unnecessary.
+Core areas" meansmapped sagebrushtypes or other habitats that support sage-grouse annual life history
+requirements that are encompassed by areas:
+A.  Of very high, high, and moderate lek density strata;
+B.  Where low lek density strataoverlap local connectivity corridors; or
+C.  Where winter habitat use polygons overlap with either low lek density strata, connectivity corridors, or
+occupied habitat. Core areamapsare maintained by Oregon Departmentof Fish and Wildlife( ODFW).
+Development action" meansany human activity subject to regulation by local, state, or federal agencies
+that could result in the loss of significant sage-grousehabitat. Development actions may include but are not
+limited to, construction and operational activities of local, state, and federal agencies. Development actions
+also include subsequent repermitting of existing activities proposing new impacts beyond current conditions.
+Direct impact" means an adverse effect of a development action upon significant sage- grouse habitat which
+is proximal to the development action in time and place.
+Disturbance" includes natural threats to sage- grouse habitat such as: wildfire, juniper infestation and the
+spread of noxious weeds or human activities that can negatively affect sage-grouse use of habitat either
+through changing the vegetation type or condition, or displacement of sage- grouse use of an area.  For
+purposes of this chapter only disturbance from human activities are considered.
+General habitat" means occupied ( seasonal or year- round) sage-grouse habitat outside core and low density
+habitats.
+Chapter 18. 89 2 xx/ 2015)
+Page 2 of 7 - EXHIBIT A TO ORDINANCE NO. 2015- 011
+Indirect impacts" means adverse effects to significant sage-grouse habitat that are caused by or will
+ultimately result from an affected development activity.  indirect impacts usually occur later in time or are
+removed in distance compared to direct effects.
+Large- scale development" means uses that are: over 50 feet in height; have a direct impact in excess of five
+acres; generatemore than 50 vehicle trips per day; or createnoise levels of at least70 dB at zero metersfor
+sustained periods of time.   Uses that constitute large- scale development also require review by county
+decision makers and are listed in one of the following categories identified in the table attached to OAR
+660- 033- 0120.
+A.  Commercial Uses.
+B.  Mineral, Aggregate, Oil and Gas Uses.
+C.  Transportation Uses.
+D.  Utility/ Solid Waste Disposal Facilities.
+E.  Parks/ Public/ Quasi- Public.
+Lek" means an area where male sage-grouse display during the breeding season to attract females ( also
+referred to as strutting- ground).
+Low density areas" means mapped sagebrushtypes or other habitats that support sage-grouse that are
+encompassed by areas where:
+A.  Low lek density strataoverlappedwith seasonalconnectivity corridors;
+B.  Local corridors occur outside of all lek density strata;
+C.  Low lek density strata occur outside of connectivity corridors; or
+D.  Seasonalconnectivity corridors occur outsideof all lek density strata.
+Low density areamapsaremaintained by ODFW.
+Mitigation hierarchy" means an approach used by decision makers to consider development proposals and
+is ordinarily comprised of a three step process:
+A   " Avoidance" is the first step in the mitigation hierarchy and is accomplished by not taking a certain
+development action or parts of that action.
+B.  " Minimization" is the second step in the mitigation hierarchy and is accomplished by limiting the
+degree or magnitude of the development action and its implementation.
+C.  " Compensatory mitigation" is the third step in the mitigation hierarchy and meansthe replacementor
+enhancement of the function of habitat capable of supporting sage-grouse in greater numbers than
+predictedto be impacted by a development.
+Occupied Lek" means a lek that has been regularly visited by ODFW and has had one or more male sage-
+grouse counted in one or more of the last seven years..
+Occupied Pending Lek" meansa lek that has not beencountedregularly by ODFW in the last sevenyears,
+but sage- grouse were present at ODFW' s last visit.
+Priority Areas for Conservation" ( PACs) means key habitats identified by state sage-grouse conservation
+plans or through other sage- grouse conservation efforts( e. g., BLM Planning). In Oregon, core area habitats
+are PACs.
+Ord. 2015- 011 § 1, 2015)
+Chapter 18. 89 3 xx/ 2015)
+Page 3 of 7 - EXHIBIT A TO ORDINANCE NO. 2015- 011
+18. 89. 040.  Quality, Quantity and Location.
+The location of sage-grouse habitat within DeschutesCounty shall be determined by maps produced by
+ODFW and included as Exhibit B in OAR 660- 023- 0115.
+Ord. 2015- 011 § I, 2015)
+18. 89. 050.  Determination of Significance.
+Significant sage-grouse habitat includes only lands protected under Statewide Planning Goals 3 or 4 as of
+July 1,2015that are identified as
+A.  Core areas;
+B.  Low density areas; and
+C.  Lands within a generalhabitat arealocatedwithin 3.1miles of an occupiedor occupied-pending lek.
+D.  The exact location of sage-grousehabitat may be refined during consideration of specific projects but
+Ord. 2015- 011 § 1, 2015)
+18. 89. 060.  Conflicting Uses.
+For purposes of protecting significant sage-grouse habitat, conflicting uses are:
+A.  Large- scale development; and
+B.  Other activities, which require review by county decision makerspursuantto OAR 660-033-0120 table
+and are proposed:
+1.   in a core area within 4.0 miles of an occupied or occupied- pending lek;
+2.   In a low density areawithin 3.1 miles of an occupied or occupied-pending lek; or
+3.   in generalhabitat within 3.1miles of anoccupied or occupied-pending lek.
+Ord. 2015- 011 § 1, 2015)
+18. 89. 070.  Pre- Application Conference.
+A.  The County Planning Division should convene a pre-application conferencewith the applicant prior to
+accepting an application for a conflicting use in significant sage-grouse habitat.
+B.  The pre-application conferenceshould include, at a minimum, the applicant, County planning staff and
+local ODFW staff.
+Ord. 2015- 011 § 1, 2015)
+18. 89. 080.  Program to Achieve Goal of Protecting Significant Sage Grouse Habitat in a Core Area.
+A.  The County may consider a large-scale development in a core area upon applying disturbance
+thresholds and the mitigation hierarchy as follows:
+1.   The County may consider a large-scaledevelopment that doesnot causethe one-percent metering
+threshold described in DCC 18. 89. 150 or the three- percent disturbance threshold described in DCC
+18. 89. 160 to he exceeded.
+2.   Avoidance.
+a.   Before proceeding with large- scale development activity that impacts a core area, the applicant
+must demonstratethat reasonablealternatives have been considered and that the activity or
+other action cannot avoid impacts within core area habitat.
+b.   If the proposed large- scale development can occur in another location that avoids both direct
+and indirect impacts within core area habitat, then the proposal must not be allowed unless it
+can satisfy the following criteria.
+i)   It is not technically feasible to locate the proposed large- scale development outside of a
+core area based on accepted engineering practices, regulatory standards or some
+combination thereof. Costs associatedwith technical feasibility may be considered, but
+cost alone may not be the only consideration in determining that development must be
+Chapter 18. 89 4 xx/ 2015)
+Page 4 of 7 - EXHIBIT A TO ORDINANCE NO. 2015- 011
+located such that it will have direct or indirect impacts on significant sage- grouse areas;
+or
+ii)  The proposed large- scale development is dependent on a unique geographic or other
+physical feature( s) that cannot be found on other lands; and
+iii) If either DCC 18. 89. 080( A)( 2)( b)( i) or 18. 89. 080( A)( 2)( b)( ii) is found to be satisfied the
+County must also find that the large-scale development will provide important economic
+opportunity, neededinfrastructure, public safety benefits or public health benefits for
+local citizens or the entire region.
+3.   Minimization.
+a.   If the proposed use cannot be sited by avoiding a core area altogether, including direct and
+indirect impacts, it shall be locatedto minimize the amount of such habitat directly or indirectly
+disturbed, and to minimize fragmentation of the core area(s) in question by locating the
+developmentadjacentto existing developmentandat the edgeof the core areawhen possible.
+b.   Usesshould minimize impactsthrough micro-siting, limitations on the timing of construction or
+use, or both, and methods of construction.
+c.   Minimizing impacts from large-scale development in core habitat shall also ensuredirect and
+indirect impacts do not occur in known areas of high population richness within a given core
+area, unless a project applicant demonstrates, by a preponderance of the evidence, that such an
+approach is not feasible.
+d.   Costs associatedwith minimization may be considered, but cost alone may not be the only
+consideration in determining that location of development cannot further minimize direct or
+indirect impacts to core areas.
+4.   Compensatory Mitigation.
+a.   To the extent that a proposed large- scale development will have direct or indirect impacts on a
+core area after application of the avoidance and minimization standards and criteria, above, the
+permit must be conditioned to fully offset the direct and indirect impacts of the development to
+any core area.
+b.   The required compensatory mitigation must comply with OAR chapter 635, division 140.
+B.  The County may approvea conflicting useas identified at DCC 18.89.060(B) above upon either:
+1.   Receiving confirmation from ODFW that the proposed conflicting use does not pose a threat to
+significant sage-grousehabitat or the way sage-grouseusethat habitat; or
+2.   Conditioning the approval basedon ODFW recommendations, including minimization techniques
+and compensatory mitigation, if necessary, to resolve threats to significant sage-grouse habitat.
+Ord. 2015- 011 § 1, 2015)
+18. 89. 090.  Program to Achieve Goal of Protecting Significant Sage Grouse Habitat in a Low
+Density Area.
+A.  The County may approve a large-scaledevelopment in a low density areaupon applying the mitigation
+hierarchy as follows:
+1.   Avoidance.
+a.   Before proceeding with large-scale development activity that impacts a low density area, the
+applicant must demonstrate that reasonable alternatives have been considered and that the
+activity or other action cannot avoid impacts within a low density area.
+b.   If the proposed large- scale development can occur in another location that avoids both direct
+and indirect impacts within a low density area, then the proposal must not be allowed unless it
+can satisfy the following criteria:
+1)  It is not technically or financially feasible to locate the proposed large-scale development
+outside of a low density area basedon acceptedengineering practices, regulatory
+standards, proximity to necessary infrastructure or some combination thereof; or
+Chapter 18. 89 5 xx/ 2015)
+Page 5 of 7 - EXHIBIT A TO ORDINANCE NO. 2015- 011
+2)  The proposed large- scale development is dependent on geographic or other physical
+feature(s) found in low density habitat areasthat are lesscommon at other locations, or it
+is a linear use that must cross significant sage- grouse habitat in order to achieve a
+reasonablydirect route.
+2.   Minimization.
+a.   If the proposed use cannot be sited by avoiding a low density area altogether, including direct
+and indirect impacts, it shall be located to minimize the amount of such habitat directly or
+indirectly disturbed, and to minimize fragmentation of the low density area(s) in question by
+locating the development adjacent to existing development and at the edge of the low density
+area when possible.
+b.   Uses should minimize impacts through micro- siting, limitations on the timing of construction or
+use, or both, and methods of construction.
+3.   CompensatoryMitigation. Required consistentwith the provisions of DCC 18.89.080(A)( 4) above.
+B.  The County may approve a conflicting use as identified at DCC 18.89.060(6) above when found to be
+consistent with the provisions of DCC 18. 89. 080( B).
+Ord. 2015- 011 § 1, 2015)
+18. 89. 100.  Program to Achieve Goal of Protecting Significant SageGrouse Habitat on General
+Habitat.
+A.  The County may approvea large-scaledevelopmenton significant sage-grousehabitat in generalhabitat
+upon requiring:
+1.   General Habitat Consultation.
+a.   If the proposed use cannot be sited by avoiding a general habitat area altogether, including
+direct andindirect impacts, it shall be locatedto minimize the amount of suchhabitat directly or
+indirectly disturbed, andto minimize fragmentation of the generalhabitat area(s) in question.
+b.   If the proposed use will be located in a general habitat area, the application for the use must
+include documentation of consultation between the development applicant and ODFW that
+considers and results in recommendations on how to best locate, construct or operate the
+development action so as to avoid or minimize direct and indirect impacts on significant sage-
+grouse habitat within the area of general habitat.
+c.   The County shall attach ODFW recommendations as a condition of approval; and
+2.   Compensatory Mitigation. Required consistent with the provisions of DCC 18.89.080( A)( 4) above.
+B.  The County may approve a conflicting use identified in DCC 18.89.060(B) above when found to be
+consistent with the provisions of DCC 18. 89. 080( B).
+Ord. 2015- 011 § 1, 2015)
+18. 89110.  Especially Unique Local Economic Opportunity.
+A.  The County may approve a large-scaledevelopmentproposal that doesnot meetthe avoidancetest for
+significant sage-grouse habitat if the County determinesthat the overall public benefits of the proposal
+outweigh the damage to significant sage- grouse habitat.
+B.  Requirementsfor minimization and compensatorymitigation continue to apply and attempts should be
+made to avoid areas of high population richness, if possible.
+C.  The County shall makethe balancing determination required by DCC 18.89.110(A) and (B) only when
+the proposal involves an economic opportunity that will provide a number of permanent, full- time jobs,
+not including construction activities, paying at least 150percent of averagecounty wages sufficient to
+increase the amount of total private nonfarm payroll employment by at least 0.5 percent over the figure
+included in the most recent data available from the Oregon Department of Employment rounded down
+to the nearest whole number.
+D.  The applicant has the burden to show that the overall public benefits outweigh the damage to the
+significant sage- grouse habitat.
+Chapter I8. 89 6 xx/ 2015)
+Page 6 of 7 - EXHIBIT A TO ORDINANCE NO. 2015- 011
+E.  This sectionmaybeexercisedby theCountyonceduringeveryten-yearperiodbeginningon August
+13, 2015.
+F.  The County may deny a proposalsubmittedunderthis section.
+Ord. 2015- 011 § 1, 2015)
+18. 89. 120.  Proposal to Upione Lands Containing Significant Sage Grouse Habitat.
+A.  A proposal to up-zone lands containing significant sage-grouse habitat to a greater development
+potential than otherwise allowed under Goals 3 and 4 shall follow the ordinary Goal 5 processat OAR
+660- 023- 0030 to 660- 023- 0050.
+B.  Up-zoning lands in a core areashall be considereda direct impact and count towards the three percent
+disturbance threshold pursuant to DCC 18. 89. 160 below.
+Ord. 2015- 011 § 1, 2015)
+18. 89. 130.  Landscape- Level Consideration.
+The standards in DCC 18. 89. 080, 18. 89. 090 18. 89. 100 above, are designed to minimize the amount of
+future impacts from human sources to significant sage- grouse habitat areas.
+Ord. 2015- 011 § 1, 2015)
+18. 89. 140.  Central Registry.
+A.  The County shall cooperate with the Oregon Department of Land Conservation and Development
+DLCD), ODFW, the Bureau of Land Management( BLM), and USFWS, Baker, Crook, Harney, Lake,
+Malheur and Union counties to maintain a central registry, tracking human disturbance from existing
+baseline)and all new developmentaffecting core areas.
+B.  In addition to assistingin maintaining the central registry, the County shall report all development land
+use permits for all uses within a core area to DLCD.
+C.  The County may establish more refined, project specific data to replace the baseline figures in the
+DLCD registry so long asall countieslisted in DCC 18.89.140(A) utilize a common methodology.
+Ord. 2015- 011 § 1, 2015)
+18. 89. 150.  Metering.
+A.  This chapter is intended to ensurethat the area of direct impact levels in any PAC, including energy
+facilities exempted under subsection (2)(b), doesnot increaseby an amount greaterthan 1.0 percent of
+the total areaof the PAC in any ten-year period.
+B.  The initial period shall commence August 13, 2015, the effective date of the Land Conservation and
+Development Commission ( LCDC) sage grouse protection rules, and continue for ten consecutive
+years, where upon the process shall be successively repeated.
+Ord. 2015- 011 § 1, 2015)
+18. 89. 160.  Disturbance Threshold.
+This Chapter is intendedto ensurethat direct impact level, including energy facilities exempted under DCC
+18. 89. 020( C), does not exceed three percent of the total area in any PAC. ( Ord. 2015- 011 § 1, 2015)
+Chapter 18. 89 7 xx/ 2015)
+Page 7 of 7 - EXHiBIT A TO ORDINANCE NO. 2015- 011
+Chapter 18. 90.      SENSITIVE BiRD AND MAMMAL HABITAT COMBINING ZONE - SBMH
+18. 90. 010.  Purpose.
+18. 90. 020.  Definition of Sensitive Habitat Area.
+18. 90. 030.  Limitations and Uses Permitted.
+18. 90. 040.  Applicability.
+18. 90. 050.  Site Plan Review Requirement.
+18. 90. 060.  Site Plan Review Criteria.
+18. 90. 010.  Purpose.
+The purpose of the Sensitive Bird and Mammal Combining Zone is to insure that sensitive habitat areas
+identified in the County's Goal 5 sensitive bird and mammal inventory as critical for the survival of the
+I northernbaldeagle, greatblueheron, goldeneagle, prairiefalcon, osprey, greatgreyowl, sagegrouse, and
+the Townsend's big-earedbat are protected from the effects of conflicting usesor activities which are not
+subject to the Forest Practices Act.  This objective shall be achieved by implementation of the decision
+resulting from the economic, social, environmental and energy analysis ( ESEE) for each inventoried
+sensitive habitat area.
+I  (Ord. 2015- 01 1 $ 2, 20151 Ord. 94- 005 § 1, 1994; Ord. 92- 042 § 2, 1992)
+18. 90. 020.  Definition of Sensitive Habitat Area.
+A.  The sensitive habitat area is the area identified in the Deschutes County Comprehensive Plan Resource
+Element inventory and site specific ESEE for eachsensitive bird or mammal site. The sensitivehabitat
+area to be protected by the provisions of DCC 18.90 is defined as the area:
+1.   Within a radius of 1,320 feet of a golden eagle, bald eagle, prairie falcon nest, sage grouse lek, or a
+Townsend's big-earedbat hibernating or nursery site.
+2.   Within a radius of 300 feet of a great blue heron rookery or osprey nest.
+3.   Within a radius of 900 feet of a eat owl nest site.grey Y
+B.  Inventoried sensitive bird or mammal sites located on federal land are not subject to the provisions of
+DCC 18. 90 unless the sensitive habitat area identified in DCC 18. 90. 020( A)( 1) extends onto nonfederal
+land.
+I  (Ord_ 2015- 01. 1. §2, 2015; Ord. 94- 005 § I, 1994; Ord. 93- 043 § 14, 1993; Ord. 92- 042 § 2, 1992)
+18. 90. 030.  Limitations and Uses Permitted.
+A.  Uses permitted in the underlying zone( s) are permitted or conditionally permitted ill the Sensitive Bird
+and Mammal Combining Zone subject to the additional procedure and requirements of DCC 18.90.040
+and the provisions of the ESEE decision. The Sensitive Bird and Mammal Habitat Combining Zone
+does not regulate or prohibit forest practices subject to ORS 527. 610 to 527. 770 and the rules adopted
+pursuantthereto;ortofarmpracticesasdefinedbyORS30.930(2).
+B.  When there is a conflict between the site specific ESEE analysis and the provisions of DCC Title 18,
+the site- specific ESEE analysis shall control.
+Ord. 94- 005 § 1, 1994; Ord. 92- 042 § 2, 1992)
+18. 90. 040.  Applicability.
+Review under DCC 18.90 shall be triggered by the following proposalsoccurring within a sensitive habitat
+area, as defined in DCC 18.90. 020:
+A.  An application for a building permit for a new structure or addition to an existing structure;
+Page 1 of 3 - EXHIBIT B TO ORDINANCE NO. 2015- 011
+B.  Land divisions creating new lots or parcelswithin the sensitivehabitat area;
+C.  An application for a conditional use permit; or
+D.  An application for site plan approval.
+Ord. 94- 005 § 1, 1994; Ord. 92- 042 § 2, 1992)
+18. 90. 050.  Site Plan Review Requirement.
+A.  For those proposals identified in DCC 18. 90. 040 to be sited within an inventoried sensitive habitat area,
+as defined under DCC 18.90. 020, a site plan shall be prepared in accordance with the requirements of
+DCC 18.90.050.  The site plan shall be approved prior to issuanceof a building permit, land division,
+conditional use permit or site plan identified in DCC: 18. 90. 040.
+B.  The site plan application shall provide the following information:
+1.   A plot plan showing the location of all development including existing and proposed roads,
+driveways and structures.
+2.   Description of operating characteristicsof the proposed use including times when activity within
+the sensitive habitat area would generate noise, dust, vibration, lights, traffic or be visible from the
+nest,lek, rookery or hibernation site.
+3.   Timing of construction activities including grading or filling land, hauling materials andbuilding.
+4.   Description of existing vegetationand vegetationto be removedfor the proposeddevelopment.
+C.  The County shall submit a copy of the site plan to the Oregon Department of Fish and Wildlife for
+comment.  ODFW shall have 20 days from the date the site plan is mailed to submit written comments
+to the County.
+D.  Based upon the record, and evaluation of the proposal based on the criteria in DCC 18. 90. 060, and
+conformance with the ESEE analysis for the site contained in the Resource Element of the
+Comprehensive Plan, the County shall approve or reject the site plan.  in lieu of rejection of the site
+plan, the County may allow the applicant to revise the site plan if the applicant has not met the standards
+for approval. Applicant shall waive the 120-day time limit if it choosesto revise the site plan.
+E.  Approval of a site plan under DCC 18.90. 050 shall be conditioned upon applicant' s implementation of
+the plan.
+Ord. 2015- 011L, 2, 2015; Ord. 95- 075 § 1, 1995; Ord. 94- 005 § 1, 1994; Ord. 93- 043 § 14B, 1993; Ord.
+92- 042 § 2, 1992)
+18. 90. 060.  Site Plan Review Criteria.
+Approval of site plan shall bebasedon the following criteria:
+A.  The site plan shall considerthe biology of the identified sensitive species, nesting trees, critical nesting
+periods,roosting sitesandbuffer areas.Basedon the biology of the speciesandthe characteristicsof the
+site, the site plan shall provide protection that will prevent destruction of the subject nesting site, lek,
+hibernation site or rookery and will, to a reasonable certainty, avoid causing the site to be abandoned.
+B.  Developmentactivities, including grading and fill, mining, construction, or activities generatingnoise or
+dust within the sensitive habitat area shall be prohibited during the nesting, strutting or hibernation
+season identified in the site specific ESEE analysis and decision for each habitat site. An exception to
+this standardmay be made if the Oregon Departmentof Fish and Wildlife determines in writing that the
+nest, lek-or rookery is not active and will not becomeactive during the proposedconstruction period or
+if the sensitive birds have fledged.  Construction activities within an enclosed structure may be
+conductedduring the nesting, strutting or hibernation season. Construction activities necessaryto repair
+an existing septic system or to replace or repair a structure destroyed or damaged by fire or other natural
+causesmay be conductedduring the nesting, strutting or hibernation season.
+I C.  New roads, driveways or public trails shall be located at the greatest distance possible from the nest, lek,
+rookery or hibernation site unlesstopographic or vegetation or structural featureswill provide greater
+visual and/or noise buffer from the nest, lek, rookery or hibernation site.
+Page 2 of 3 - EXHIBIT B TO ORDINANCE NO. 2015- 011
+D.  Existing vegetation or other landscapefeatures which are located on the subject property and which
+obscurethe view of the nest, rookery, lek or hibernation site from the proposeddevelopment, shall be
+preserved and maintained. A restrictive covenant to preserve and maintain vegetation shall be required
+when specified in the ESEE for the site.
+E.  No partitions or subdivisions shall be permitted which would force location of a dwelling or other
+structure, not otherwisepermitted by the site specific ESEE,within the designatedsensitive habitat area.
+F.   All exterior lighting, including security lighting shall be sited and shielded so that the light is directed
+downward and does not shine on the subject nest, rookery, ek or hibernation site.
+G.  The site plan shall conform with the requirements of the ESEE decision for the subject sensitive bird or
+mammal site contained in the Resource Element of the Deschutes County Comprehensive plan.
+I  (Ord. 2015- OII .§ 2, 2015; Ord. 94- 005 § 1, 1994)
+Page 3 of 3 - EXHIBIT B TO ORDINANCE NO. 2015- 011

@@ -1,0 +1,2777 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2019-004
+title: 'Ordinance No. 2019-004'
+doc_type: ordinance
+citation: 'Ordinance No. 2019-004'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617129429_2019-67-Ordinance%20No.%202019-004%20Recorded%202_20_2019.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8a96db84857cbb53fe2db4edb29ddeb6a39be8dbe2694df26c651dbb715fb793
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 195.025
+    - ORS 195.300
+    - ORS 197.296
+    - ORS 197.610
+    - OAR 660-011-0005
+    - OAR 660-024-0050
+    - OAR 660-024-0065
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2019-004 (Ordinance No. 2019-004)
+
+## At a glance
+
+Ordinance No. 2019-004 — orders of Deschutes County. 78 pages.
+
+## Full text
+
+R IEW D
+LE AL COUNSEL
+Recorded in Deschutes County CJ2019- 67Nancy Blankenship, County Clerk
+Commissioners' Journal 02/ 20/ 2019 8: 53: 39 AM
+VTES co
+2019- 67
+For Recording Stamp Only
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending DeschutesCounty Code
+Title 23, the Deschutes County Comprehensive Plan, * ORDINANCE NO. 2019- 004
+to Changethe Comprehensive Plan Map Designation
+for Certain Property From Agriculture to Redmond
+Urban Growth Area and Declaring an Emergency.
+WHEREAS, the Oregon Department of State Lands initiated an amendment ( Planning Division File No.
+247 -18 -000752 -PA) to the Comprehensive Plan Map, to change a portion of the subject property from an
+Agricultural ( AG) designation to a Redmond Urban Growth Area ( RUGA) designation, and amendments to the
+Comprehensive Plan; and
+WHEREAS, a companion application ( Planning Division File No. 247 -18 -000751 -PA) was submitted to
+redesignatethe remaining portion of the property from Agricultural ( AG) designation to Redmond Urban Growth
+Area ( RUGA) designation, in accordance with the Regional Large Lot Industrial Program, under Ordinance No.
+2019- 003; and
+WHEREAS, after notice was given in accordance with applicable law, a public hearing was held on
+November 27, 2018, before the Deschutes County Hearings Officer and, on December 10, 2018, the Hearings
+Officer recommendedapproval of the Comprehensive Plan Map change; and
+WHEREAS, after notice was given in accordancewith applicable law, a de novo public hearing was held
+on February 12, 2019, before the Board of County Commissioners (" Board"); and
+WHEREAS, the Board, after review conducted in accordance with applicable law, approved as detailed
+abovethe Comprehensive Plan text and map changes; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC Section 23. 01. 010, Introduction, is amended to read as described
+in Exhibit " A" attached and incorporated by reference herein, with language approved by the Board within
+Ordinance 2019- 003 and new language underlined.
+Section 2. AMENDMENT. DCC Title 23, Deschutes County Comprehensive Plan Map, is
+amendedto changethe plan designation for certain property described in Exhibit `B" and depicted on the map set
+forth as Exhibit " C", with both exhibits attached and incorporated by reference herein, from Agriculture to
+Redmond Urban Growth Area.
+PAGE 1 OF 2 - ORDINANCE NO. 2019- 004
+Section 3. AMENDMENT. Deschutes County Comprehensive Plan Chapter 4, Urban Growth
+Management, is amendedto read as described in Exhibit " D" attached and incorporated by referenceherein, with
+languageapprovedby theBoardwithin Ordinance2019-003andnew languageunderlined.
+Section 4. AMENDMENT. Deschutes County Comprehensive Plan Section 5.12, Legislative
+History, is amendedto read as describedin Exhibit " E" attachedand incorporatedby referenceherein, with
+languageapprovedby theBoardwithin Ordinance2019-003andnewlanguageunderlined.
+Section 5. FINDINGS. The Board adopts as its findings in support of this Ordinance, the Decision
+of the Hearings Officer as set forth in Exhibit " F", and incorporated by reference herein.
+Section 6. EMERGENCY. This Ordinance being necessary for immediate preservation of the
+public peace, health and safety, and to support the City of Redmond' s timely efforts related to the expansion of
+the DeschutesCountyFairgroundsfacility andrelocationof the OregonMilitary Department'sNationalGuard
+Armory, anemergencyis declaredto existandthis Ordinancetakeseffectthirty (30) daysfrom adoption.
+Dated this of Fe— 2019
+ATTESTi
+Re r mg Secretary
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, O EGON
+PHILIP G. $3NDERSON, Chair
+4 46
+PA TI ADAIR, Vice Chair
+ANTHONY DEBONE, Commissioner
+Date of I" Reading: aday of T,,,Ioj 2019.
+Date of 211Reading: dayofr` 2019.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Philip G. Henderson K
+Patti Adair
+Anthony DeBone
+Effective date: day of G --A c , 2019.
+PAGE 2 OF 2 - ORDINANCE NO. 2019- 004
+Chapter 23. 01 COMPREHENSIVE PLAN
+Chapter 23. 01 COMPREHENSIVE PLAN
+23. 01. 010. Introduction.
+A. TheDeschutesCountyComprehensivePlan, adoptedby theBoardin Ordinance2011-003
+andfoundontheDeschutesCountyCommunityDevelopmentDepartmentwebsite, is incorporated
+by referenceherein.
+B. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2011-027, areincorporated by referenceherein.
+C. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2012-005, areincorporated by referenceherein.
+D. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2012-012, areincorporated by referenceherein.
+E. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2012-016, areincorporated by referenceherein.
+F. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2013-002, areincorporated by referenceherein.
+G. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2013-009, areincorporated by referenceherein.
+H. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2013-012, areincorporated by referenceherein.
+I. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2013-007, areincorporated by referenceherein.
+J. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2014-005, areincorporated by referenceherein.
+K. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2014-006, areincorporated by referenceherein.
+L. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2014-012, areincorporated by referenceherein.
+M. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2014-021, are incorporated by referenceherein.
+N. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2014-027, are incorporated by referenceherein.
+O. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2015-021, areincorporated by referenceherein.
+P. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2015-029, are incorporated by referenceherein.
+Q. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2015- 018, are incorporated by reference herein.
+R. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2015-010, are incorporated by referenceherein.
+S. TheDeschutesCountyComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2016-001, areincorporated by referenceherein.
+T. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2016-022, areincorporated by referenceherein.
+U. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2016-005, areincorporated by referenceherein.
+PAGE 1 OF 2 — EXHIBIT A TO ORDINANCE NO. 2019- 004
+V. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2016-027, areincorporated by referenceherein.
+W. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2016-029, areincorporated by referenceherein.
+X. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2017-007, areincorporated by referenceherein.
+Y. The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2018-002, areincorporated by referenceherein.
+Z. TheDeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2018-006, are incorporated by reference herein.
+A. A. TheDeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2018-011, are incorporated by reference herein.
+BB. TheDeschutesCounty ComprehensivePlanamendments, adoptedby the Board in Ordinance
+2018-005, are incorporated by reference herein.
+CC. TheDeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2018-008, are incorporated by reference herein.
+DD. TheDeschutesCounty ComprehensivePlanamendments, adoptedby theBoardin Ordinance
+2019- 002, are incorporated by reference herein.
+EE. TheDeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2019- 001, are incorporated by reference herein.
+FF The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019- 003 are incorporated by reference herein.
+GG TheDeschutesCounty ComprehensivePlanamendments, adoptedby the Boardin Ordinance
+2019- 004 are incorporated by reference herein.
+Ord. 2019- 004 1, 2019; Ord. 2019- 003 1, 2019, Ord. 2019- 001 § 1, 2019; Ord. 2019- 002 § 1,
+2019; Ord. 2018- 008 § 1, 2018; Ord. 2018- 005 § 2, 2018; Ord. 2018- 011 § 1, 2018; Ord. 2018- 006 § 1,
+2018; Ord. 2018- 002 § 1, 2018; Ord. 2017- 007 § 1, 2017; Ord. 2016- 029 § 1, 2016; Ord. 2016- 027 § 1,
+2016; Ord. 2016- 005 § 1, 2016; Ord. 2016- 022 § 1, 2016; Ord. 2016- 001 § 1, 2016; Ord. 2015- 010 § 1,
+2015; Ord. 2015- 018 § 1, 2015; Ord. 2015- 029 § 1, 2015; Ord. 2015- 021 § 1, 2015; Ord. 2014- 027 §
+1, 2014; Ord. 2014- 021 § 1, 2014; Ord. 2014- 12 § 1, 2014; Ord. 2014- 006 § 2, 2014; Ord. 2014- 005
+2, 2014; Ord. 2013- 012 § 2, 2013; Ord. 2013- 009 § 2, 2013; Ord. 2013- 007 § 1, 2013; Ord. 2013- 002
+1, 2013; Ord. 2013- 001 § 1, 2013; Ord. 2012- 016 § 1, 2012; Ord. 2012- 013 § 1, 2012; Ord. 2012- 005
+1, 2012; Ord. 2011- 027 § 1 through 12, 2011; Ord. 2011- 017 repealed; Ord. 2011- 003 § 3, 2011)
+Click here to be directed to the ComprehensivePlan (http://www. deschutes.org/compplan)
+PAGE 2 OF 2 - EXHIBIT A TO ORDINANCE NO. 2019- 004
+I::/: 11lkd. l
+Proposed County Fairgrounds and Oregon Military Department Expansion Area
+Legal Description, Subject Property
+Willamette Meridian, Oregon
+T. 15 S., R. 13 E.,
+sec. 33, N1/ 2NW1/ 4, and N1/ 2NE1/ 4.
+Legend
+Proposed Plan Amendment Boundary
+Redmond Urban Growth Boundary
+Comprehensive Plan Designation
+AG - Agriculture
+OS& C - Open Space & Conservation
+RREA - Rural Residential Exception Area
+PROPOSED BOARD OF COUNTY COMMISSIONERS
+COMPREHENSIVE PLAN MAP
+OF DESCHUTES COUNTY, OREGON
+Exhibit " C"
+to Ordinance 2019- 004
+100
+0 0. 125 0. 25 0. 5
+Miles
+January 18, 2019
+Philip G. Henderson, Chair
+Patti Adair, Vice Chair
+Tony DeBone, Commissioner
+ATTEST: Recording Secretary
+Dated this day of , 2019
+Effective Date: , 2019
+i trbaw growth
+EXHIBIT " D" TO ORDINANCE NO. 2019- 004
+Chapter 4
+Mawagemewt
+Se t' Ow 4. 1 1K tr001 V-CtLOw
+Background
+A major emphasisof Oregon's landuseplanningprogramis directing new developmentinto
+urbanareas. StatewidePlanningGoal 14, Urbanization, requirescities, in cooperationwith
+counties, to create Urban Growth Boundaries ( UGBs). The UGBs are legal lines that contain
+lands that are anticipated to urbanize over a 20 -year period. UGBs allow cities to adequately
+plan for future urban facilities and services. State laws require that UGBs be adopted by both
+the city and the county.
+Besidesthe UGBs which define the land needed for city expansion over 20 years, some cities
+adopt Urban Reserve Areas ( URAs), which define land needed beyond a 20 year horizon,
+typically representingan additional 10to 30 year landsupply. By adoptingan URA a city can
+better plan for expansion and growth. Like UGBs, URAs are done in a partnership between a
+county and the city.
+DeschutesCounty hasfour incorporated cities. Bend, RedmondandSisterswere incorporated
+before 1979. The City of LaPineincorporated on November 7, 2006. Bend, Redmondand
+Sisters' Comprehensive Plansare coordinated with the County. Certain elements are adopted
+into the County's. In addition, the cities andthe County maintainurbangrowth areazoning
+ordinances and cooperative agreements for mutually administering the unincorporated
+urbanizingareas. Theseareasare locatedoutsidecity limits but within UGBs. LaPineadopteda
+Comprehensive Plan and UGB in 2012. Until La Pine adopts its own land use regulations,
+County landuseregulationswill continueto beappliedinsidethe city limits though a joint
+management agreement.
+In addition to cities and the associated UGBs and URAs, there are rural locations around the
+Countythatcontainurbanleveldevelopment. TheseareasgenerallyexistedbeforetheOregon
+land use system was enacted in the early 1970s. In 1994 the Land Conservation and
+Development Commission wrote a new Oregon Administrative Rule (OAR), 660-22, to classify
+and regulate these unincorporated communities. The OAR created four categories of
+unincorporated communities and required the County to evaluate existing rural developments
+under the new Rule.
+Purpose
+The Urban Growth Management chapter, in concert with the other chapters of this Plan,
+specifies how Deschutes County will work with cities and unincorporated communities to
+accommodate growth while preserving rural character and resource lands.
+The following issuesare covered in this chapter:
+Urbanization ( Section 4. 2)
+Unincorporated Communities Overview ( Section 4. 3)
+LaPineUrban UnincorporatedCommunity (Section4.4)
+SunriverUrbanUnincorporated Community (Section4.5)
+Terrebonne RuralCommunity Plan (Section4.6)
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4. 1 INTRODUCTION
+EXHIBIT " D" TO ORDINANCE NO. 2019- 004
+Tumalo RuralCommunity Plan (Section4.7)
+Black Butte Ranch and Inn of the 7`h Mountain/ Widgi Creek Rural Resorts ( Section 4.8)
+Rural Service Centers ( Section 4. 9)
+Goal 14 recognizes the following:
+Statewide Planning Goal 14 Urbanization
+Toprovidefor anorderlyandefficienttransitionfromruralto urbanlanduse, to
+accommodate urban population and urban employment inside urban growth
+boundaries, to ensureefficient useof land, and to provide for livablecommunities."
+Excerpt from Goal 14 Planning Guidelines
+Plansshoulddesignatesufficientamounts of urbanizableland to accommodatethe
+needfor furtherurbanexpansion, takingintoaccount (1) thegrowthpolicyof thearea,
+2) the needsof the forecastpopulation; (3) the carryingcapacityof the planning area;
+and ( 4) open space and recreational needs."
+DESCHUTES COUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER4 URBANGROWTHMANAGEMENTSECTION4. 1INTRODUCTION
+EXHIBIT " D" TO ORDINANCE NO. 2019- 004
+seou' ovv +. 2 Rrbaw' zat' ow
+Background
+This section describes the coordination between the County and the cities of Bend, La Pine,
+Redmond and Sisters on Urban Growth Boundaries ( UGBs) and Urban Reserve Areas ( URAs).
+StatewidePlanningGoal 2 recognizesthe importanceof coordinatinglanduseplans.
+City, county, stateandfederalagencyandspecialdistrict plansandactions
+related to land use shall be consistent with the comprehensive plans of cities and
+counties and regional plans adopted under ORS Chapter 268."
+Oregon Revised Statute 197. 015( 5) goes further to define comprehensive plan coordination.
+A plan is " coordinated" when the needs of all levels of governments, semipublic
+and private agencies and the citizens of Oregon have been considered and
+accommodated as much as possible."
+Population
+An important basisfor coordinatingwith cities is adoptedpopulationprojections. Havingan
+estimate of anticipated population is the first step to planning for future growth and
+conservation. ORS 195. 025( 1) requires counties to coordinate local plans and population
+forecasts. The County oversees the preparation of a population forecast in close collaboration
+with cities. This is important because the population of the County has increased significantly in
+recent decades and a coordinated approach allows cities to ensure managed growth over time.
+Table 4. 2. 1 — Population Growth in Deschutes County 1980 to 2010
+Sources 1980 1990 2000 2010
+PopulationResearchCenter July I estimates 62, 500 75, 600 116, 600 172, 050
+US Census Bureau April I counts 62, 142 74, 958 115,367 1 157,733
+Source: As noted above
+In 1996 Bend, Redmond, Sisters and the County reviewed recent population forecasts from the
+PortlandStateUniversityCenter Populationand ResearchCenter (PRC) andU.S. Census
+Bureau, Department of Transportation, Woods and Poole, Bonneville Power Administration
+and Department of Administrative Services Office of Economic Analysis. After reviewing these
+projections, all local governments adopted a coordinated population forecast. It was adopted by
+Deschutes County in 1998 by Ordinance 98-084.
+The results of the 2000 decennial census and subsequent population estimates prepared by the
+PRC revealed that the respective populations of the County and its incorporated cities were
+growing fasterthan anticipatedunder the 1998coordinatedforecast. The cites andthe County
+re-engaged in a coordination process between 2002 and 2004 that culminated with the County
+adoptinga revisedpopulationforecastthat projected populationto the year 2025. It was
+adopted by Ordinance2004-012 and upheldby the LandUse Boardof Appealson March28,
+2005.
+The following tabledisplaysthe 2004coordinated populationforecastfor DeschutesCounty
+and the UGBs of the cities of Bend, Redmond, and Sisters.
+4 DESCHUTES COUNTY COMPREHENSIVE PLAN — 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4. 2 URBANIZATION
+EXHIBIT " D" TO ORDINANCE NO. 2019- 004
+Table 4. 2. 2 - Coordinated Population Forecast 2000 to 2025
+Year I Bend UGB I Redmond UGB I Sisters UGB I
+Unincorporated
+Total County
+2000 52, 800 15, 505 975 47, 320 116, 600
+2005 69, 004 19, 249 1,768 53, 032 143, 053
+2010 81, 242 23, 897 2, 306 59, 127 166, 572
+2015 91, 158 29, 667 2, 694 65, 924 189, 443
+2020 100, 646 36, 831 3, 166 73, 502 214, 145
+2025 109, 389 45, 724 3, 747 81, 951 240, 811
+The processthrough which the County andthe cities coordinatedto developthe 2000-2025
+coordinated forecast is outlined in the report titled " Deschutes County Coordinated
+Population Forecast 2000- 2025: Findings in Support of Forecast."
+Thefourthcityin DeschutesCountyisthe Cityof LaPine. Incorporatedon November7,
+2006, the City of La Pine's 2006populationestimateof 1,590wascertified by PRCon
+December 15, 2007. As a result of La Pine's incorporation, Deschutes County updated its
+Coordinated Population Forecast with Ordinance 2009- 006.
+The purpose of this modification was to adopt a conservative 20 year population forecast for
+the Cityof LaPinethatcouldbeusedbycityofficialsandthe OregonDepartmentof Land
+Conservation and Development to estimate its future land need and a UGB.
+The following table displaysthe coordinated populationforecastfor DeschutesCounty, the
+UGBs of the cities of Bend, Redmond, and Sisters, and La Pine from 2000 to 2025. By extending
+the growth rate to the year 2025, La Pine' s population will be 2,352. The non -urban
+unincorporatedpopulationdecreasesby 2,352from its originalprojection of 81,951, to 79,599.
+Table 4. 2. 3 - Coordinated Population Forecast 2000 to 2025, Including La Pine
+Year
+Bend
+UGB
+Redmond
+UGB
+Sisters
+UGB
+La Pine
+UGB
+Unincorporated
+County Total County
+2000 52, 800 15, 505 975 47, 320 116, 600
+2005 69, 004 19, 249 1,768 53, 032 143, 053
+2010 81, 242 23, 897 2, 306 1,697 57, 430 166, 572
+2015 91, 158 29, 667 2, 694 1,892 64, 032 189, 443
+2020 100, 646 36, 831 3, 166 2, 110 71, 392 214, 145
+2025 109, 389 45, 724 3, 747 2, 352 79, 599 240, 811
+Source: 2004 Coordinated Population Forecastfor DeschutesCounty - updated 2009
+2030 Population Estimate
+This Comprehensive Plan is intended to manage growth and conservation in the
+unincorporatedareasof the County until 2030. Becausethe officialpopulationforecastextends
+onlyto 2025, Countystaffusedconservativeaverageannualgrowthratesfrom theadopted
+population forecast to estimate population out to 2030. The following table estimates
+DeschutesCounty populationby extendingthe adoptednumbersout anadditionalfive years.
+DESCHUTES COUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4. 2 URBANIZATION
+EXHIBIT " D" TO ORDINANCE NO. 2019- 004
+Table 4. 2. 4 — Deschutes County 2030 Population Forecast
+Year
+Bend Redmond
+I
+Sisters Lo Pine Unincorporated
+Total CountyUGB UGB UGB UGB County
+2030 119, 009 51, 733 14, 426 2, 632 188, 748 266, 538
+Snurre• Cnuntv estimates based on the 2004 Coordinated Population Forecast as shown below
+Bend' s average annual growth rate from 2025 to 2030 is 1.70%
+Redmond' s average annual growth rate from 2025 to 2030 is 2.50%
+Sisters' basedtheir population on forecasted rates of buildinggrowth, residential housingunits, and persons per dwelling unit
+La Pine' s average annual growth rate from 2025 to 2030 is 2.20%
+Deschutes County's unincorporated areaaverageannualgrowth rate from 2025 to 2030 is 2.20%
+As the pie chart below indicates, if population occurs as forecasted, 67% of the County' s
+population will reside in urban areas by 2030.
+In 2030
+Unincorporated
+Area Bend_
+33% 45%
+b
+Sisters
+2%
+I
+I
+La Pine Redmond
+1% 19%
+Figure 4. 1 Deschutes County 2030
+Estimated Population
+Such growth will undoubtedly require strategically managingthe provision of public services and
+maintainingadequateamountsof residential, commercialandindustriallands. Growthpressures
+will also require programmatic approaches to maintain open spaces, natural resources, and
+functionalecosystemsthat helpdefinethe qualitiesof DeschutesCounty.
+Urban Growth Boundary Amendments
+Bend
+TheCityof Bendlegislativelyamendedits UGBaspartof a periodicreviewacknowledgmentin
+December2004. The BendCity Council andthe Board of County Commissionersadopted
+concurrent ordinances that expanded the Bend UGB by 500 acres and satisfied a 20 year
+demand for industrial land.
+InJuly2007, the Bend -LaPineSchoolDistrict receivedapprovalsto expandthe City of Bend
+UGB to include two properties for the location of two elementary schools, one at the Pine
+Nursery, the other on SkylinerRoad. In 2014, the Bend -LaPineSchooldistrict received
+approval to include a 33 -acre site within the UGB near Skyliners Road to facilitate the
+construction of a public middle school.
+TheBendCityCouncilandthe Boardof CountyCommissionersapprovedalegislative
+amendment to the Bend UGB in September 2016. The adopted amendment added 2,380 acres
+of land intendedto satisfya 20 -year landneedfor neededhousing, employment, and publicuses
+from 2008 to 2028. The adopted UGB amendment also satisfied the terms of a 2010 Remand
+DESCHUTES COUNTY COMPREHENSIVE PLAN — 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4. 2 URBANIZATION
+EXHIBIT " D" TO ORDINANCE NO. 2019- 004
+Order from the Oregon Land Conservation and Development Commission ( 10 -REMAND -
+PARTIAL ACKNOW- 001795).
+The City of BendUGB amendmentidentified 5 existingneighborhoodtypologieswithin the
+City, with the "Transect" beingthe definedneighborhoodtypologywhich "providesa
+transitional residential development pattern from urban to rural using a variety of housing types
+integrated with the surrounding natural landscapeto minimize the impact on sensitive
+ecosystems, wildlife and to reduce the risk of wildfire." The City appliedthis Transectconcept
+to specific areas added to the UGB identified as the " Shevlin Area" and the " West Area" and
+created area - specific policies for those areas to recognize the unique characteristics of the area
+and create a transition from higher densities within the city to lower densities extending
+westward to the City of BendUGB. In coordination with the city, DeschutesCounty has
+continued this concept for the areas in the county on the west side of Bend adjacent to the
+Shevlin" and "West Area" in its Rural Housing elements and policies found in Chapter 3 of this
+Comprehensive Plan.
+Sisters
+The City of Sisterslegislativelyamendedits UGB in September2005when its City Counciland
+the Board of County Commissionersadoptedrespectiveordinances. The SistersUGB
+expansion covered 53 acres and satisfied a 20 year demand for residential, commercial, light
+industrial, andpublicfacility land. In March2009, Sistersamendedtheir UGBto facilitatethe
+establishmentof a 4 -acrefire trainingfacilityfor the Sisters/CampShermanFire District.
+Redmond
+The City of Redmondlegislativelyamendedits UGB in August2006when its City Counciland
+the Boardof County Commissionersadoptedrespectiveordinances. The RedmondUGB
+expansion covered 2, 299 acres and satisfied a 20 year demand for residential and neighborhood
+commercial land.
+In Febt < r ._ dnOnd amended € t ah cov7r its cuncil
+and the Board Of COUnty Commissioners adoMe res_pec.tivc_Ordinances. This expansion
+covered 949_acr_es in total_ 789_ acres_ was, desi hated for lame lot industr-._€al de_v_elppm- ifs
+accordance with the Central re Oer , , iona_I_Iire Lot Industrial_ Lancis._P a trr and 160
+acres allowed for the .ex[ ansion of the existinZI) esch,utes .0 ung fair rounds and  e c r
+Eli , National Guard Armory.
+Lo Pine
+In 2012 La Pine adopted its first Comprehensive Plan. La Pine established a UGB that matches
+the city limits, becausethe City containssufficientundevelopedlandfor future housing,
+commercial and industrial needs over a 20 -year period. The Plan map includes land use
+designations intended to provide an arrangement of uses to ensure adequate and efficient
+provision of public infrastructure for all portions of the City and UGB.
+Urban Reserve Area
+Redmond
+In December2005, RedmondCity Council andthe Boardof County Commissionersadopteda
+5,661acre URA for the City. It is the first URA in Central Oregon becausemost citiesfind
+planningfarther into the future thanthe 20 -year UGBtimeframe, challenging.
+DESCHUTES COUNTY COMPREHENSIVE PLAN — 2011 7
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4. 2 URBANIZATION
+EXHIBIT " D" TO ORDINANCE NO. 2019- 004
+Coordination
+As noted above, StatewideGoal 2 andORSpromote land useplanningcoordination. The
+purposes of the urbanization goals and policies in this section are to provide the link between
+urban and rural areas, and to provide some basic parameters within which the urban areas of
+DeschutesCounty candevelop, althoughthe specificcomprehensiveplanfor eachcommunity
+remainsthe prevailingdocumentfor guidinggrowth in its respectivearea. Thesepoliciespermit
+the County to review each city's comprehensive plan to ensure effective coordination.
+TheRedmondandDeschutesCountyCommunityDevelopmentDepartmentsreceivedtheOregon
+ChapterofAmericanPlanningAssociation's (OAPA) ProfessionalAchievementinPlanningAwardin
+2006 for the "RedmondUrban ReserveArea / Urban Growth BoundaryExpansionProject.".
+ThefollowingquotetakenfromtheOregonChapterof theAmericanPlanningAssociation's 2006
+AwardsProgramshowswhytheRedmondCommunityDevelopmentDepartmentwaschosenfor this
+award.
+Anoutstandingeffortfort to addressRedmond's rapidpopulationgrowth, includingthesuccessful
+designationof an UrbanReserveandtheimminentdesignationof an UrbanGrowthBoundary, a
+FrameworkPlan" with a requirementfor masterplanning, andtheestablishmentof "Great
+Neighborhood Principles."
+Central Oregon Large Lot Industrial Land Need Analysis
+Duringthe 1990s, theCentralOregonregionexperiencedadramatictransformationfroman
+economyconcentratedlargelyinwoodproductsinto a servicebasedeconomyservinga
+growinganddiversetourism andhouseholdbase. Acceleratedin -migrationandtourism growth
+gaveway to rapid economicexpansion, escalationin home prices, anda systematicshift in the
+localeconomyfromgoodsproducingactivitiesto serviceorientedindustries. Whileinitially
+representingadiversificationof thelocaleconomy, thisshiftledto anover -relianceuponthese
+types of industries.
+Duringtherecentrecession, theregionaleconomy'svulnerabilitiesbecameapparent. Suitable
+landfor today's industrialdevelopmentformsemergedasoneof Oregon'smostsevere
+development challenges. In 2010, 2011, and 2012, Deschutes, Crook and Jefferson counties and
+their respective cities, undertook an unprecedented regional evaluation of the economic
+opportunities and constraints associated with users of large industrial parcels in the Central
+Oregon region. The purpose of this evaluation was to aid in providing a more diversified
+economic base for the region that would accommodate industrial uses with a need for larger
+lotsthanpossiblymaybecurrentlyavailablein anyof the CentralOregoncities. Aspartof that
+evaluation, DeschutesCounty hired a consultantto draft ananalysisof Central Oregon's
+opportunities, competitiveness, ability, andwillingnessto attract more basicindustries. The
+analysisfocusedspecificallyon industriesthat require largelots. The result wasa document
+calledthe Central Oregon RegionalEconomicOpportunity Analysis, andwasthe basisfor
+Ordinance 2011-017, dated May 31, 2011.
+Ordinance 2011-017 was appealed to the Land Use Board of Appeals by 1,000 Friends of
+Oregon (" 1,000 Friends"). The appealwasstayedin early 2012to allow DeschutesCounty, the
+Governor' s Office, and 1,000 Friends to explore a settlement, which was ultimately reached in
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4. 2 URBANIZATION
+EXHIBIT " D" TO ORDINANCE NO. 2019- 004
+April, 2012. The settlementconsistedof policy conceptsfocusingentirely on Central Oregon's
+short- term need for large -lot industrial sites as well as a commitment from the Department of
+Land Conservation and Development (" DLCD") to initiate rule-makingthat summer. The three
+counties, their respective cities, 1,000 Friends, and DLCD staff then engaged in drafting a
+proposed rule. In August, the final draft of that rule was then sent to the Oregon Land
+Conservation and Development Commission (" LCDC"). As a result, in November, the LCDC
+adopted Oregon Administrative Rule ( OAR) 660- 024- 0040 and 660- 024- 0045. That rule
+provides that that the large lot industrial land need analysisagreed upon by all of the parties,
+once adoptedby eachof the participatinggovernmentalentities, would be sufficientto
+demonstratea needfor upto nine largeindustrialsitesin Central Oregon. Sixof the siteswill
+be madeavailableinitially. Three more sitesmaybeaddedunderthe rule asthe originalsites
+are occupied. After the adoption of the new OARS, Deschutes County voluntarily repealed
+Ordinance 2011- 017 and adopted a new ordinance, Ordinance 2013- 002, in accordance with
+the OARS.
+Utilizingthe newOARS, Ordinance2013-002emphasizedCentralOregon' shortterm needfor
+a critical mass of competitive and diverse vacant, developable industrial sites. An additional
+necessary component is an intergovernmental agreement (" IGA") between the region' s
+jurisdictions and the Central Oregon Intergovernmental Council (" COIC"). Through the IGA,
+COIC will provide oversight of the short- term land supply of large -lot industrial sites to enable
+the region to become competitive in industrial recruitment. Once each of the three counties
+and their respective cities adopt similar ordinances and enter into an IGA with COIC, the large
+lot sites will enable industrial recruitment opportunities to attract potential industrial users to
+considertheregionthatmaynot haveotherwisewithoutthe availabilityof theselargelots. The
+IGA between COIC and the_FAggi_cri' s_cities and counties--was—executedQ Aril_ _ 2QJ3.
+Participatinglocalgovernmentswill reviewthe programafterallninesiteshavebeenoccupied
+or after ten years, whichever comes first.
+In . e_hrtr - 01 t_ I sch ates_ cr_ _ rec dcaited_ r dir7 n e, l' 0._ 20119..."t 3,_ which_imp (p inented,
+ti e.far e Ir t. industr-4j _ Qlicies defined 6_y 0. - _go—Administrative R lei K 660 024€ 004,},
+and 660-024-0045. The ordinance amended the Deschutes Counry_QqDip_r__ebensive (plan rnaDt..0
+allow for _ 89 acres of a 949-acre..Darcel awned lywthe_ reeparmqgnt., of State Lands to
+be inccLpprai- a_(. h e arrC pansf€ rredec__ ces v
+into the_lJ_GllB suarit_to different criteria . This site referred to asthe SouthRedmondTrac4t.,.
+vvassut r ittcd_ta_the ar e_Lot Industrrial_Laands_,para r rrt, 6 chc_ i cif Red rrrond. in 201.,_ after
+anextensiveanalysisof severalpotentialsitesutflizingthe criteria of the -Ado ed.Central
+C re an Lard LeatIndustrialLandsNeedsAnalysis(" the Analysis" ) I. LIQ acc_gpted_ 117e
+pro. rptyiinto the La Lot Ir dustria_ l_ Ll. jjror rr ren C ? 15. _ uk se. rrt { 7_ ity__ni
+Redmond amended its ronin _ c de tcs.._awddLar i_ Lot_l€adustrial Zon—e- which_ addresses the
+r rir rncntsci the L,LI ) rc) arrrand ensures th tparop rhes with_this zonin deli nation armee
+to be utilized spleC r far I a _industrial or direct[ relate" urgs.
+DESCHUTES COUNTY COMPREHENSIVEPLAN — 2011 9
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4. 2 URBANIZATION
+EXHIBIT " D" TO ORDINANCE NO. 2019- 004
+sect' ow - 4. 2 L -j rbawLzatLov- PoU' a' es
+Goals and Policies
+Goal 1 Coordinate with cities, special districts and stakeholders to support
+urban growth boundaries and urban reserve areas that provide an
+orderly and efficient transition between urban and rural lands.
+Policy4.2.1 Participatein the processesinitiated by cities in DeschutesCounty to create
+and/ or amend their urban growth boundaries.
+Policy 4.2.2 Promote and coordinate the use of urban reserve areas.
+Policy 4.2.3 Review the idea of using rural reserves.
+Goal 2 Coordinate with cities, special districts and stakeholders on urban
+growth area zoning for lands inside urban growth boundaries but
+outside city boundaries.
+Policy 4.2.4 Useurbangrowth areazoningto coordinate landusedecisionsinsideurban
+growth boundaries but outside the incorporated cities.
+Policy 4.2.5 Negotiate intergovernmental agreements to coordinate with cities on land use
+inside urban growth boundaries and outside the incorporated cities.
+Policy 4.2.6 Develop urban growth area zoning with consideration of the type, timing and
+location of public facilities and services provision consistent with city plans.
+Policy 4.2.7 Adopt by referencethe comprehensiveplansof Bend, LaPine, Redmondand
+Sisters, asthe policy basisfor implementinglanduseplansandordinancesin
+each city' s urban growth boundary.
+Goal 3 Coordinate with cities, special districts and stakeholders on policies
+and zoning for lands outside urban growth boundaries but inside
+urban reserve areas.
+Policy 4.2.8 Designate the Redmond Urban Reserve Area on the County Comprehensive
+PlanMapandregulateit through a RedmondUrban ReserveArea (RURA)
+CombiningZone in DeschutesCounty Code, Title 18.
+Policy 4.2.9 In cooperation with the City of Redmond adopt a RURA Agreement consistent
+with their respective comprehensive plans and the requirements of Oregon
+Administrative Rule 660- 021- 0050 or its successor.
+Policy 4.2.10 The following land use policies guide zoning in the RURA.
+a. Plan and zone RURA lands for rural uses, in a manner that ensures the
+orderly, economicandefficientprovisionof urbanservicesastheselandsare
+brought into the urban growth boundary.
+b. New parcels shall be a minimum of ten acres.
+c. Until lands in the RURA are brought into the urban growth boundary, zone
+changes or plan amendments shall not allow more intensive uses or uses that
+10 DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4. 2 URBANIZATION
+EXHIBIT " D" TO ORDINANCE NO. 2019- 004
+generate more traffic, than were allowed prior to the establishment of the
+RURA.
+d. For Exclusive Farm Use zones, partitions shall be allowed based on state law
+and the County Zoning Ordinance.
+e. New arterial and collector rights-of-way in the RURA shall meet the right- of-
+way standardsof DeschutesCounty or the City of Redmond, whicheveris
+greater, but be physically constructed to Deschutes County standards.
+f. Protect from development existing and future arterial and collector rights-of-
+way, asdesignatedon the County's Transportation SystemPlan.
+g. A singlefamilydwellingon a legalparcelis permitted if that usewas permitted
+before the RURA designation.
+Policy4.2.11 Collaboratewith the City of Redmondto assurethat the County -owned 1,800
+acres in the RURA is master planned before it is incorporated into Redmond' s
+urban growth boundary.
+Goal 4 To build a strong and thriving regional economy by coordinating
+public investments, policies and regulations to support regional and
+state economic development objectives in Central Oregon.
+Policy 4.2.12 Deschutes County supports a multi -jurisdictional cooperative effort to pursue a
+regional approach to establish a short- term supply of sites particularly designed
+to address out -of -region industries that may locate in Central Oregon.
+Policy 4.2.13 DeschutesCounty recognizesthe importanceof maintaininga large -lot industrial
+landsupplythat is readilydevelopablein Central Oregon.
+Policy 4.2.14 The Central Oregon Regional Large Lot Industrial Land Need Analysis
+Analysis"), adoptedby Ordinance2013-002 is incorporated by reference
+herein.
+Policy 4.2.15 Within 6 months of the adoption of Ordinance 2013- 002, in coordination with
+the participatinglocalgovernmentsin Central Oregon, DeschutesCounty shall,
+execute an intergovernmental agreement (" IGA") with the Central Oregon
+Intergovernmental Council (" COIC") that specifies the process of allocation of
+large lot industrial sites among the participating local governments.
+Policy4.2.16 In accordance with OAR 660-024-004 and 0045, Deschutes County, fulfilling
+coordination duties specified in ORS 195. 025, shall approve and update its
+comprehensiveplanwhen participatingcitieswithin their jurisdiction legislatively
+or through a quasi-judicial process designate regionally significant sites.
+Policy 4.2.17 DeschutesCounty supportsEconomicDevelopmentof Central Oregon
+EDCO"), a non- profit organization facilitating new job creation and capital
+investment to monitor and advocate for the region' s efforts of maintaining an
+inventory of appropriatesizedandlocatedindustriallots availableto the market
+Policy4.2.18 Deschutes County will collaborate with regional public and private
+representatives to engage the Oregon Legislature and state agencies and their
+commissions to address public facility, transportation and urbanization issues
+that hinder economic development opportunities in Central Oregon.
+DESCHUTES COUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4. 2 URBANIZATION
+EXHIBIT " D" TO ORDINANCE NO. 2019- 004
+Policy 4.2.19 DeschutesCounty will strengthenlong-term confidencein the economyby
+building innovative public to private sector partnerships.
+12 DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 4 URBAN GROWTH MANAGEMENT SECTION 4. 2 URBANIZATION
+EXHIBIT " D" TO ORDINANCE NO. 2019- 004
+sect%ow X22 t...eg%sl,at%ve Ftistor
+Background
+This section contains the legislative history of this Comprehensive Plan.
+Table S. 12. 1 Comprehensive Plan Ordinance History
+Ordinance
+Date Adopted/
+Chapter/ Section Amendment
+Effective
+All, except
+Transportation, Tumalo
+and Terrebonne
+2011- 003 8- 10- 1 1/ 11-9- 11 Community Plans,
+Deschutes junction,
+Comprehensive Plan update
+Destination Resorts and
+ordinances adopted in
+2011
+2. 5, 2. 6, 3.4, 3. 10, 3.5,
+Housekeeping amendments to
+2011- 027 10- 31- 1 1 / 11-9- 1 1
+4. 6, 5. 3, 5.8, 5. 1 1,
+23. 40A, 23. 408,
+ensure a smooth transition to
+23. 40. 065, 23. 01. 010
+the updated Plan
+23. 60, 23. 64 ( repealed),
+Updated Transportation
+2012- 005 8- 20- 12/ 11- 19- 12 3. 7 ( revised), Appendix C System Plan
+added)
+2012- 012 8- 20- 12/ 8- 20- 12 4. 1, 4. 2
+La Pine Urban Growth
+Boundary
+2012- 016 12- 3- 12/ 3- 4- 13 3. 9 Housekeeping amendments to
+Destination Resort Chapter
+Central Oregon Regional
+2013- 002 1-7- 13/ 1-7- 13 4. 2 Large - lot Employment Land
+Need Analysis
+Comprehensive Plan Map
+Amendment, changing
+2013- 009 2- 6- 13/ 5- 8- 13 1. 3
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan Map
+2013- 012 5- 8- 13/ 8- 6- 13 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+Newberry Country: A Plan
+2013- 007 5- 29- 13/ 8- 27- 13 3. 10, 3. 1 1 for Southern Deschutes
+County
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTALSECTIONS SECTION 5. 12 LEGISLATIVEHISTORY
+EXHIBIT " E" TO ORDINANCE NO. 2019- 004
+DESCHUTES COUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER 5 SUPPLEMENTALSECTIONS SECTION S. 12 LEGISLATIVE HISTORY
+EXHIBIT " E" TO ORDINANCE NO. 2019- 004
+Comprehensive Plan Map
+2013- 016 10- 21- 13/ 10- 21- 13 23. 0 1.010 Amendment, including certain
+property within City of Sisters
+Urban Growth Boundary
+Comprehensive Plan Map
+2014- 005 2- 26- 14/ 2- 26- 14 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+2014- 012 4- 2- 14/ 7- 1- 14 3. 10, 3. 11 Housekeeping amendments to
+Title 23.
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+2014- 021 8- 27- 14/ 11- 25- 14 23. 01. 010, 5. 10 property from Sunriver Urban
+Unincorporated Community
+Forest to Sunriver Urban
+Unincorporated Community
+Utility
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+2014- 021 8- 27- 14/ 11- 25- 14 23. 01. 010, 5. 10 property from Sunriver Urban
+Unincorporated Community
+Forest to Sunriver Urban
+Unincorporated Community
+Utility
+Comprehensive Plan Map
+Amendment, changing
+2014- 027 12- 15- 14/ 3- 31- 15 23. 01. 010, 5. 10 designation of certain
+property from Agriculture to
+Rural Industrial
+Comprehensive Plan Map
+Amendment, changing
+2015- 021 11- 9- 15/ 2- 22- 16 23. 01. 010 designation of certain
+property from Agriculture to
+Surface Mining.
+Comprehensive Plan Map
+Amendment, changing
+2015- 029 11- 23- 15/ 11- 30- 15 23. 01. 010
+designation of certain
+property from Tumalo
+Residential 5 -Acre Minimum
+to Tumalo Industrial
+2015- 018 12- 9- 15/ 3- 27- 16 23. 01. 010, 2. 2, 4. 3 Housekeeping Amendments
+to Title 23.
+DESCHUTESCOUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER5 SUPPLEMENTALSECTIONSSECTIONS. 12 LEGISLATIVE HISTORY
+EXHIBIT "E" TO ORDINANCENO. 2019- 004
+DESCHUTES COUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER 5 SUPPLEMENTALSECTIONS SECTION 5. 12 LEGISLATIVEHISTORY
+EXHIBIT " E" TO ORDINANCE NO. 2019- 004
+Comprehensive Plan Text and
+2015- 010 12- 2- 15/ 12- 2- 15 2. 6 Map Amendment recognizing
+Greater Sage -Grouse Habitat
+Inventories
+Comprehensive Plan Map
+Amendment, changing
+2016- 001 12- 21- 15/ 04- 5- 16 23. 01. 010; 5. 10
+designation of certain
+property from, Agriculture to
+Rural Industrial ( exception
+area)
+Comprehensive Plan
+Amendment to add an
+exception to Statewide
+2016- 007 2- 10- 16/ 5- 10- I6 23. 01. 010; 5. 10 PlanningGoal I I to allow
+sewers in unincorporated
+lands in Southern Deschutes
+County
+Comprehensive Plan
+Amendment recognizing non -
+2016 - 005 11- 28- 16/ 2- 16- 17 23. 01. 010, 2. 2, 3. 3 resource lands process
+allowed under State law to
+change EFU zoning
+Comprehensive plan
+2016- 022 9- 28- 16/ 11- 14- 16 23. 01. 010, 1.3, 4. 2 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+Comprehensive Plan Map
+Amendment, changing
+2016- 029 12- 14- 16/ 12/ 28/ 16 23. 01. 010 designation of certain
+property from, Agriculture to
+Rural Industrial
+Comprehensive Plan Map
+Amendment, changing
+2017- 007 10- 30- 17/ 10- 30- 17 23. 01. 010
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan
+2018- 002 1-3- 18/ 1-25- 18 23. 01, 2. 6 Amendment permitting
+churches in the Wildlife Area
+Combining Zone
+DESCHUTESCOUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER5 SUPPLEMENTALSECTIONSSECTION5. 12 LEGISLATIVEHISTORY
+EXHIBIT "E" TO ORDINANCENO. 2019- 004
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTALSECTIONS SECTION 5. 12 LEGISLATIVE HISTORY
+EXHIBIT " E" TO ORDINANCE NO. 2019- 004
+Housekeeping Amendments
+correcting tax lot numbers in
+Non -Significant Mining Mineral
+2018- 006 8- 22- 18/ 11- 20- 18 23. 01. 010, 5. 8, 5. 9 and Aggregate Inventory;
+modifying Goal 5 Inventory of
+Cultural and Historic
+Resources
+Comprehensive Plan Map
+Amendment, changing
+2018- 011 9- 12- 18/ 12- 11- 18 23. 01. 010
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan Map
+Amendment, removing Flood
+23. 01. 010, 2. 5, Tumalo Plain Comprehensive Plan
+2018- 005 9- 19- 18/ 10- 10- 18 Community Plan, Designation; Comprehensive
+Newberry Country Plan PlanAmendment adding Flood
+Plain Combining Zone
+purpose statement.
+Comprehensive Plan
+Amendment allowing for the
+2018- 008 9- 26- 18/ 10- 26- 18 23. 01. 010, 3.4
+potential of new properties to
+be designated as Rural
+Commercial or Rural
+Industrial
+Comprehensive Plan Map
+Amendment changing
+designation of certain
+property from Surface Mining
+2019- 002 1-2- 19/ 4- 2- 19 23. 01. 010, 5. 8
+to Rural Residential Exception
+Area; Modifying Goal 5
+Mineral and Aggregate
+Inventory; Modifying Non -
+Significant Mining Mineral and
+Aggregate Inventory
+Comprehensive Plan and Text
+2019- 001 1- 16- 19/ 4- 16- 19 1.3, 3. 3, 4. 2, 5. 10, 23. 01
+Amendment to add a new
+zone to Title 19: Westside
+Transect Zone.
+DESCHUTES COUNTY COMPREHENSIVEPLAN - 2011
+CHAPTER5 SUPPLEMENTALSECTIONSSECTION5. 12 LEGISLATIVE HISTORY
+EXHIBIT "E" TO ORDINANCENO. 2019- 004
+2019- 003 TBD/ TBD 23. 01. 010. 4. 2
+Comprehensive Plan Map
+Amendment changing
+designation of certain
+property from Agriculture to
+Redmond Urban Growth
+Area for the Large Lot
+Industrial Program
+2019- 004 TBD/ TBD 23. 01. 010, 4. 2
+Comprehensive Plan Map
+Amendment changing
+designation of certain
+property from Agriculture to
+Redmond Urban Growth
+Area for the expansion of the
+Deschutes County
+Fairgrounds and relocation of
+Oregon Military Department
+National Guard Armory.
+DESCHUTES COUNTY COMPREHENSIVEPLAN — 2011
+CHAPTER 5 SUPPLEMENTALSECTIONS SECTION 5. 12 LEGISLATIVEHISTORY
+EXHIBIT " E" TO ORDINANCE NO. 2019- 004
+DESCHUTES COUNTY
+HEARINGS OFFICER DECISION
+FILE NUMBERS: 247 - 18 -000752 - PA
+HEARING: November 27, 2018, 6:00 p.m.
+Barnes & Sawyer Rooms
+Deschutes Service Center
+1300 NW Wall Street
+Bend, OR 97708
+APPLICANT/ OWNER: John Swanson, Real Property Planner
+Department of State Lands
+775 Summer Street NE, Ste. 100
+Salem, OR 97301- 1279
+APPLICANT' S AGENT: Matt Hastie
+Angelo Planning Group
+921 SW Washington Street, Ste. 468
+Portland, OR 97205
+PROPOSAL: The applicant is proposing to amend the Urban Growth Boundary
+UGB) for the Cityof Redmondto allow for the expansion of the existing
+Deschutes County Fairgrounds and Oregon Military Department' s
+National Guard Armory. The applicant requests approval of a
+Comprehensive Plan amendment to redesignate a 160 - acre portion of
+the property from Agriculture to Redmond Urban Growth Area. The
+applicant has submitted a related application ( 247- 18- 000751)
+associated with the remaining 789 acres of the property.
+STAFF REVIEWER: Nicole Mardell, Associate Planner
+Nicole. Mardell@deschutes. org, 541- 317- 3157
+HEARINGS OFFICER: Dan R. Olsen
+Thefollowing decision adopts the Staff Report, including staffs conclusions regarding the applicable
+standards and criteria, with minor substantive revisions and edits. Substantive revisions are noted
+as Hearings Officer.
+I. APPLICABLE STANDARDS AND CRITERIA:
+Title 18, Deschutes County Zoning Ordinance
+Title 22, DeschutesCounty Development ProceduresOrdinance
+EXHIBIT F TO ORDINANCE NO. 2019- 004
+Title 23, Deschutes County Comprehensive Plan
+Chapter 1, Comprehensive Planning
+Chapter 2, Resource Management
+Chapter 4, Urban Growth Management
+Oregon Administrative Rules ( OAR), Chapter 660
+Division 12, Transportation
+Division 15, Statewide Planning Goals and Guidelines
+Division 18, Post - Acknowledgement Amendments
+Division 24, Urban Growth Boundaries
+Oregon Revised Statutes ( ORS)
+197A - Comprehensive Land Use Planning II
+Amendment of Urban Growth Boundaries Outside Metro
+111. FINDINGS OF FACT:
+A. LOCATION: The property is located at 4800 SW 19thStreet, Redmond and is identified on
+DeschutesCounty Assessor's Map 15-13 as Tax Lot 130. The entire property, referred to as
+the South Redmond Tract in the application materials, is 949 acres in size. The focus of this
+application is the northeastern 160 acres of the property (" Subject Property"), as shown in
+the map below.
+Hearings Officer Decision 247 - 18 -000752 - PA
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 2 of 55
+B. LOT OF RECORD: Per DCC22.04.040 Verifying Lots of Record, lot of record verification is
+required for certain permits:
+B. Permits requiring verification
+1. Unless an exception applies pursuant to subsection ( 8)(2) below, verifying a
+lot parcel pursuant to subsection ( C) shall be required to the issuance of the
+following permits:
+a. Any land usepermit for a unit of land in the ExclusiveFarm UseZones
+DCC Chapter 18. 16), Forest Use Zone - F1 ( DCC Chapter 18. 36), or
+Forest Use Zone - F2 ( DCC Chapter 18. 40);
+b. Any permit for a lot or parcel that includes wetlands as show on the
+Statewide Wetlands Inventory,
+C. Any permit for a lot or parcel subject to wildlife habitat special
+assessment,
+d. In all zones, a land use permit relocating property lines that reduces
+in size a lot or parcel'
+e. In all zones, a land use, structural, or non - emergency on- site sewage
+disposal system permit if the lot or parcel is smaller than the
+minimum area required in the applicable zone,
+Inthe Powell/Ramsey (PA -14-2, ZC-14-2) hearingsofficerdecision, the HearingsOfficerheld
+to a prior Zone Change Decision ( Belveron ZC-08-04) that a property' s lot of record status
+was not required to be verified as part of a plan amendment and zone change application.
+Rather, the applicant would be required to receive lot of record verification prior to any
+development on the subject property. Therefore this criterion is not applicable.
+C. PROPOSAL: The applicant requests approval of a Comprehensive Plan Map Amendment to
+redesignate 160 acres of the South Redmond Tract from Agriculture to Redmond Urban
+Growth Area. The purpose of the request is to amend the City of Redmond' s Urban Growth
+Boundary to allow for the expansion of the existing Deschutes County Fairgrounds and
+Oregon Military Department's National Guard Armory. The applicant has submitted a
+separate request for a Large Lot Industrial application ( 247 - 18 -000751 - PA) for the remainder
+of the property. The public hearings for each proposal will take place on the same evening,
+but are to be reviewed individually.
+D. ZONING AND PLAN DESIGNATIONS: The property is zoned Exclusive Farm Use - Alfalfa
+subzone and is designated on the Comprehensive Plan map as Agriculture.
+E. SITE DESCRIPTION: The subject property encompasses approximately 160 acres and is
+located immediately south and east of the City of Redmond's Urban Growth Boundary and
+City Limits. The property is bordered by the Burlington Santa Fe Railroad to the west and
+receives access from SW Elkhorn Avenue to the north. The property is vacant, is not in farm
+tax deferral and does not contain any irrigation water rights or irrigated area. The property
+is generally level in topography with scatter rock outcroppings and contains juniper and
+sagebrush throughout.
+EXHIBIT " I"' TO ORDINANCE NO. 2019- 004 Page 3 of 55
+F. SURROUNDING LAND USES: Land uses surrounding the subject property vary. To the south
+and east of the subject property are large tracts of land owned by the Bureau of Land
+Management (BLM) which are currently vacant. To the west of the subject property isJuniper
+Golf Course, vacant land owner by the State of Oregon, Mountain View Mobile Home Park, a
+few residential parcels, and larger EFU-zoned parcels farther west of the subject property.
+Tothe northeastof the propertyisthe RedmondMunicipalAirport andvacantlandowned
+bythe Cityof Redmond. Tothe north of the propertyisthe DeschutesCountyFairgrounds
+and a variety of smaller parcelszoned for commercial, industrial, or residential use.
+G. SOILS: According to Natural ResourcesConservation Service (NRCS) maps of the area, the
+subject property contains three different soil types, as described below.
+33B Deschutes- Houstake complex. 0 to 8 percent slopes: This soil complex is composed of
+50 percent Deschutes soil and similar inclusions, 35 percent Houstake soil and similar
+inclusions and 15 percent contrasting inclusions. The Deschutessoils are well drained with
+a moderatelyrapidpermeability, andabout3.7 inchesof availablewatercapacity. Houstake
+soils are well drained with a moderate permeability, and about 7 inches of available water
+capacity. Major uses of this soil type are irrigated cropland and livestockgrazing. The
+agriculturalcapabilityratingfor 33Bsoilsare3Ewhenirrigated, and 6Ewhennot irrigated.
+This soil is high-value when irrigated. Approximately thirty- three ( 33) percent of the entire
+property is made up of this soil type.
+35B Deschutes- Stukel complex, d 0 to 8 percent slo e. This soil complex is composed of
+50 percent Deschutes soil and similar inclusions, 35 percent Stukel soil and similar inclusions,
+and 15 percent contrasting inclusions. The Deschutes soils are well drained with a
+moderatelyrapid permeability, and about 7 inchesof availablewater capacity. TheStukel
+soils are well drained with moderately rapid permeability and about 2.2 inches of available
+watercapacity. Majorusesof this soiltypeare irrigatedcroplandandlivestockgrazing. The
+agriculturalcapabilityratingfor 35Bsoilsare4Ewhenirrigated, and6Ewhennot irrigated.
+This soil is high- value when irrigated. Approximately eight ( 8) percent of the entire property
+is made up of this soil type.
+142B Stukel- rock outcrop - Deschutes complex. 0 to 8 percent slopes: This soil type is
+comprised of 35 percent Stukel soil and similar inclusions, 30 percent rock outcrop, 20
+percent Deschutes soil and similar inclusions, and 15 percent contrasting inclusions. Stukel
+soils are well drained with moderately rapid permeability. The available water capacity is
+about 2 inches. Deschutes soils are well drained with moderately rapid permeability.
+Availablewater capacityis about 3.7 inches. The major usefor this soil type is livestock
+grazing. TheStukelsoilshaveratingsof 6Ewhen unirrigated, and no ratingwhenirrigated.
+Therockoutcrophasa ratingof 8, with orwithout irrigation. TheDeschutessoilshaveratings
+of 6Ewhen unirrigated, and no rating when irrigated. Approximately fifty- nine (59) percent
+of the entire property is made up of this soil type.
+H. PUBLIC AND AGENCY COMMENTS: The Planning Division mailed notice of the application
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 4 of 55
+and notice of the public hearing to neighboring property owners and the following agencies:
+Bureau of Land Management, Oregon Department of Transportation, City of Redmond, State
+of Oregon, and Department of Land Conservation and Development. No comments were
+received prior to the close of the record. Staff consulted Peter Russell, Deschutes County
+Senior Transportation Planner in reviewing the Transportation Memorandum provided in
+the Burden of Proof. Mr. Russell's comments are found under the OAR 660- Division 12
+Transportation Planning analysis.
+I. NOTICE REQUIREMENT: The applicant complied with the posted notice requirements of
+Section 22.23.030(B) of Deschutes County Code ( DCC) Title 22. The applicant submitted a
+Land Use Action Sign Affidavit, dated October 10, 2018 indicating the applicant posted notice
+of the land useaction on the property on that same date. On October 30, 2018, the Planning
+Division mailed a Notice of Public Hearing to all property owners within 750 feet of the
+subject property. A Notice of Public Hearing was published in the Bend Bulletin on Sunday,
+November 4, 2018. Notice of the first evidentiary hearing was submitted to the Department
+of Land Conservation and Development on October 16, 2018.
+J. REVIEW PERIOD: The application was submitted on September 12, 2018. The application
+was deemed complete October 15, 2018. Accordingto DeschutesCounty Code22.20.040(D),
+the review of the proposed quasi- judicial Plan Amendment application is not subject to the
+150 -day review period.
+K. LAND USEHISTORY: The South Redmond Tract is owned by the Oregon Department of State
+Lands ( DSL) for the exclusive benefit of the Common School Fund ( CSF). Revenues generated
+by the land are dedicated to the support of K-12 public schools throughout the state.
+Accordingto the applicant, in October2008the State Land Board, which overseesDSL,
+adopted the South Redmond Tract Land Use and Management Plan ( Plan). The Plan set out
+a concept for urban development of the Tract that is consistent with state land use law,
+advances DSL's mission to maximize revenue for the CSF, and benefits the local community
+and regional economy of Central Oregon. Prior to 2007 the subject property was owned and
+managed by the U.S. Bureau of Land Management ( BLM).
+Previous land use actions associated with the subject property are:
+247- SP0750- PL ( 2007): Site plan review for the removal and replacement of utility
+poles.
+247- PS1240-PL (2012): Land Use Compatibility Statement ( LUCS) for an Outdoor Mass
+Gathering - Tough Mudder Race.
+247 - 14 -000158 - LL, 159 - LL, and 160 - LL ( 2014): Application for a property line
+adjustment between four legal lots of record.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 5 of 55
+247 -18 -000631 -PS: Land Use Compatibility Statement ( LUCS) for the Redmond Turkey
+Trot road race.
+L. HEARING:
+Hearings Officer: At the outset of the hearing I provided the statutorily required notices. I
+noted that I had no conflicts of interest, had received no ex parte contacts and had not
+conducted a site visit. I explained the right to a continuance or extension of the open record
+period, but no such request was made.
+Matt Hastie, Angelo Planning Group, testified for the applicant, including explaining how the
+potential future transportation impacts will be addressed. James Lewis, Deschutes County
+Property Manager testified in favor, noting that the current fairgrounds is turning away events
+and that the County will be acquiring the property in an exchangefor county owned industrial
+land. There was no other testimony. Staff introduced into the record the 2007 Agreement
+between the City of Redmond and DeschutesCountygoverning land use matters within the
+Redmond Unincorporated Urban Growth Area and the Redmond Urban Reserve Area.
+The Agreement was adopted pursuant to ORS Chapter 190. Among other things it designates
+DeschutesCounty as the entity with authority to processand decide amendments to the
+Redmond Urban Growth Boundary and amendments to the County comprehensive plan, plan
+map, zoning map and regulations until such time as property is brought within the Redmond
+Urban Growth Boundary, subject to approval by the Redmond City Council. ( Hearing Ex. 1)
+As with the companion application ( 247- 18- 000751), the City of Redmond concurrently is
+processing the related city land use applications, culminating in ajoint public hearing at which
+the Redmond City Council and Deschutes County Board of Commissioners will make their
+respective final decisions on the applications.
+111. FINDINGS AND CONCLUSIONS - APPROVAL CRITERIA
+TITLE 18 OF THE DESCHUTES COUNTY CODE - ZONING ORDINANCE
+A. Chapter 18. 136, Amendments
+1. Section 18. 136. 010, Amendments
+DCCTitle 18 may be amended as set forth in DCC18.136. Theprocedures for text or
+legislative map changesshall be assetforth in DCC22.12. A request by aproperty owner
+for a quasi-judicial map amendment shall be accomplished by filing an application on
+forms provided by the Planning Department and shall be subject to applicable
+procedures of DCCTitle 22.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 6 of 55
+FINDING: The applicant, also the property owner, has requested and filed an application for a quasi-
+judicial plan amendment in accordance with County policies and applicable procedures of DCCTitle
+22.
+TITLE 23 OF THE DESCHUTES COUNTY CODE - COMPREHENSIVE PLAN
+Chapter 1, Comprehensive Planning
+Section 1.3 Land Use Planning
+Goal 1. Maintain an open and public land use process in which decisions are based on the
+objective evaluation of facts.
+FINDING: The proposed plan amendment is being processed as a quasi-judicial application with
+opportunities for public input before a County Hearings Officer and the Board of County
+Commissioners. Staff adhered to the notice requirements within Title 22 - Deschutes County
+Procedures Ordinance. Additionally, the City of Redmond is processing a concurrent application to
+annex, rezone, and master plan the property which will include additional opportunities for public
+input. This goal is met.
+Goal 2. Promote regional cooperation and partnerships on planning issues.
+FINDING: The applicant has a long history of coordination with the City of Redmond, Deschutes
+County, and other agenciesleading to the submittal of this application. Within the burden of proof,
+the applicant details this history:
+All affected regional agencies and stakeholders were involved in the South Redmond Tract
+Land Use and Management Plan, which designated the northern portion of the tract for
+the public facility uses proposed in this amendment. At the inception of the project, DSL
+engaged partner agencies including OPRD, Oregon Department of Transportation ( ODOT),
+City of Redmond, DeschutesCounty, and EconomicDevelopmentfor Central Oregon
+EDCO). The plan was developed through a regional task force, the South Redmond
+CollaborativePlanningGroup, supportedby a regionalpartnership known as the Central
+Oregon Economic Revitalization Team, and input was sought from the DLCD and Oregon
+Economic and Community Development Department ( OECDD).
+Visit Bend, the regional tourism agency, funded feasibility study for the Multi -Purpose
+Athletic and EventsCenterfacility that informs the proposed development program for that
+site.
+TheCityof Redmondand DeschutesCountyare conductingajoint land usereviewand
+public hearing process to concurrently review proposed amendments to the UGB, the
+County Comprehensive Plan and the City's zoning map. Aspart of this process, the City and
+County conducted a joint pre -proposal conference with the applicant and the applicant
+DSL) has continued to coordinate regularly with City and County staff in regards to the
+proposed amendments.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 7 of 55
+Aspart of a separatebut relatedsetof land useamendmentsassociatedwith theadjacent
+proposed Large Lot Industrial site, the City and DSLhave coordinated closely the COICand
+DeschutesCountystaff regardingproposedplansfor that site and its relationship to the
+proposed public facility uses.
+Cityand Countystaff andthe DSLrepresentativeshavecoordinatedcloselywith ODOTstaff
+in regards to analysisof transportation impacts associatedwith the proposedland use
+applications, including approaches for modeling impacts, potential mitigation associated
+with those impacts and consistency with the Oregon Transportation Planning Rule and
+other state transportation requirements.
+DSL representatives have consulted with representatives of DLCDregarding consistency
+with state requirements associated with UGB amendments, including those intended to
+support the Central Oregon LLI program and associated administrative rules.
+DSL representatives have coordinated with other state agencies partners including the
+OregonMilitary Departmentand OregonParksand RecreationDepartmentin regardsto
+future land exchanges or agencyfacilities within or adjacent to the subject property.
+Staff finds that the applicable has demonstrated the cooperation and partnership among regional
+stakeholders. This goal is met.
+Goal 3. Manage County owned lands efficiently, effectively, flexibly and in a manner that
+balances the needs of County residents.
+FINDING: The purpose of the proposed text amendment is to allow for an exchange of land
+resulting in the conveyanceof a 160 -acre portion of the subject property from the Department of
+State Lands to Deschutes County. The property will be used to expand the County' s Fairgrounds,
+includinga new Multi -PurposeAthleticand EventsCenter, aswellasprovidinga relocationsitefor
+the Oregon Military Department's National GuardArmory. Within the burden of proof, the applicant
+stated County residents will be served by these facilities as they will provide needed recreation
+facilities. Additionally, the Armory will provide additional public service benefits to the community.
+This goal is met.
+Chapter 2, Resource Management
+Section 2. 2 Agricultural Lands Policies
+Goal 1. Preserve and maintain agricultural lands and the agricultural industry.
+Policy 2.2.1 Retain agricultural lands through ExclusiveFarm Usezoning.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 8 of 55
+Policy2.2.2 ExclusiveFarm Usesub -zonesshall remain as described in the 1992FarmStudy
+and shown in the table below, unless adequate legal findings for amending the sub -zones
+are adopted or an individual parcel is rezoned as allowed by Policy 2.2.3.
+FINDING: The majority of the discussionsurroundingagriculturalland and the applicant's legal
+argument (per policy 2.2.2) isfound in the findings for Statewide PlanningGoal3, Agricultural Land.
+Staff notes that this application is unique, in that the request follows a needs based assessment
+conducted on a regional scale for the expansion of the Fairgrounds and military site.
+Policy 2.2.3 Allow Comprehensive Plan and Zoning Map amendments for individual EFU
+parcels as allowed by State Statute, Oregon Administrative Rules and this Comprehensive
+Plan.
+FINDING: Staff notes that this application is unique in that the applicant is pursuing a needs -based
+UGB adjustment to accommodate a public facility use. Compliance with State Statute, Oregon
+Administrative Rules, and further sections of the Deschutes Country Comprehensive Plan are
+addressed in this decision. This provision is met.
+Policy 2.2.4 Develop comprehensive policy criteria and code to provide clarity on when and
+how EFU parcels can be converted to other designations.
+Policy 2.2.5 Usesallowed in ExclusiveFarm Usezones shall comply with State Statute and
+Oregon Administrative Rule.
+FINDING: The applicant is requesting approval of a plan amendment to redesignate the subject
+property as Redmond Urban Growth Area, and in doing so will amend the Cityof Redmond's Urban
+Growth Boundary. This application does not rezone the subject property. The applicant is pursuing
+a subsequent application process through the City of Redmond to annex, rezone, and master plan
+the property to Fairgrounds (FG) and Public Facility (PF). Staff finds this policy is not applicable to
+the application at hand.
+Section 2. 4 Goal 5 Overview Policies
+Goal 1. Protect Goal 5 resources
+FINDING: In the burden of proof, the applicant states that the subject property does not contain
+any identified open spaces or natural, scenic, cultural, or historic resources identified in the
+Comprehensive Plan. Staff confirms that the property does not contain any inventoried Goal 5
+resources, therefore this goal does not apply.
+Section 2. 7 Open Spaces, Scenic Views and Sites Policies
+Goal 1. Coordinate with property owners to ensure protection of significant open spaces and
+scenic views and sites.
+EXHIBIT' F" TO ORDINANCE NO. 2019- 004 Page 9 of 55
+FINDING: As stated above, the subject property does not contain any identified open spaces or
+natural, scenic, cultural, or historic resources identified in the Comprehensive Plan. Therefore this
+goal does not apply.
+Section 2.8 Energy Policies
+Goal 1. Promote energy conservation.
+Goal 2. Promote affordable, efficient, reliable and environmentally sound energy systems for
+individual home and business consumers.
+Goal 3. Promote affordable, efficient, reliable and environmentally sound commercial energy
+facilities.
+FINDING: The applicant addresses compliance with energy policy and conservation goals in their
+response to Statewide Planning Goal 13 - EnergyConservation, detailed below.
+Section 2.9 Environmental Quality
+Goal 1. Maintain and improve the quality of the air, water and land.
+Goal 2. Promote sustainable building practices that minimize the impacts on the natural
+environment.
+FINDING: The applicant addresses compliance with environmental quality goals in their response
+to Statewide Planning Goal 6 - Air, Water and Land ResourcesQuality, detailed below.
+Chapter 4, Urban Growth Management
+Section 4. 2 Urbanization Policies
+Goal 1. Coordinate with cities, special districts and stakeholders to support urban growth
+boundaries and urban reserve areas that provide an orderly and efficient transition between
+urban and rural lands.
+Policy 4.2.1 Participate in the processes initiated by cities in Deschutes County to create
+and or amend their urban growth boundaries.
+FINDING: As referenced above, the applicant provided a detailed history of the significant
+collaboration among DeschutesCounty, Cityof Redmond, Department of StateLands, Oregon Parks
+and Recreation, Oregon Department of Transportation, and Economic Development for Central
+Oregon ( EDCO), as well as others. The City and County are conducting simultaneous land use
+reviews for the subject property to ensure all requirements are accurately addressed prior to
+approval.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 10 of 55
+Goal 2. Coordinate with cities, special districts and stakeholders on urban growth area zoning
+for lands inside urban growth boundaries but outside city boundaries.
+Goal 3. Coordinate with cities, special districts and stakeholders on policies and zoning for
+lands outside urban growth boundaries but inside urban reserve areas.
+FINDING: These goals relate to properties designated within Urban Growth Boundaries and outside
+of city boundaries or vice versa. The applicant proposes to amend the City of Redmond's Urban
+Growth Boundary to include the subject property, while also annexing the property into the Cityof
+Redmond, per the concurrent City of Redmond review process. Therefore, these criteria do not
+apply.
+Goal 4. To build a strong and thriving regional economy by coordinating public investments,
+policies and regulations to support regional and state economic development objectives in
+Central Oregon.
+FINDING: The applicant provides the following response to this criteria within the burden of proof:
+Economicdevelopmentis not theprimary purposefor this proposedamendment, however, severalof the
+Fairgrounds facilities planned under this amendment will generate economic activity and employment
+opportunities by attracting visitors and supporting tourism within the city and region. Theproposed
+facilities will support regional and state economic development objectives to increase tourism.
+Additionally, thefacilities will shareinfrastructurewith a largelot industrial site directlyto thesouththat
+is associated with the Central Oregon Large Lot Industrial lands program, a regional economic
+development initiate. More information about the economic impacts of this amendment is provided under
+StatewidePlanningGoal9 below.
+Staff agrees that expansion of the fairgrounds and coordination with the large lot industrial site are
+aligned with the goal above and support the regional and state development objectives for the
+region. This goal is met.
+OREGON ADMINISTRATIVE RULES CHAPTER 660
+LAND CONSERVATION AND DEVELOPMENT DEPARTMENT
+Division 24, Urban Growth Boundaries
+OAR660-024-0020 Adoption or Amendment of a UGB
+1) All statewide goals and related administrative rules are applicable when establishing
+or amending a UGB, except as follow.
+a) The exceptions process in Goal 2 and OAR chapter 660, division 4, is not applicable
+unless a local government chooses to take an exception to a particular goal
+requirement, for example, as provided in OAR 660- 004- 0010( 1);
+FINDING: The proposal does not seek any goal exceptions, therefore this provision does not apply.
+b) Goals 3 and 4 are not applicable;
+EXHIBIT " I'" TO ORDINANCE NO. 2019- 004 Page 11 of 55
+FINDING: Goals 3 and 4 are not applicable.
+c) Goal 5 and related rules under OAR chapter 660, division 23, apply only in areas
+added to the UGB, except as required under OAR 660- 023- 70 and 660- 023- 025;
+FINDING: The subject property does not contain any Goal 5 resources listed in the Deschutes
+County Comprehensive Plan, therefore this goal does not apply.
+d) Thetransportation planning rule requirements under OAR660-012-0060need not be
+applied to a UGBamendment if the land added to the UGBis zoned as urbanizable
+land, either by retaining the zoning that was assigned prior to inclusion in the
+boundary or by assigning interim zoning that does not allow development that
+would generate more vehicle trips than development allowed by the zoning assigned
+prior to inclusion in the boundary,
+FINDING: The applicant has applied for a concurrent review with the City of Redmond. Pending the
+outcome of this UGB amendment application, the applicant plans to rezone the property to
+Fairgrounds ( FG) and Public Facilities ( PF) within the City of Redmond Zoning Code. Therefore these
+requirements do not apply. Additional analysis for compliance with Transportation Planning Rule
+and Goal 12 are found below.
+e) Goal 15 is not applicable to land added to the UGB unless the land is within the
+Willamette River Greenway Boundary;
+f) Goals16to 18arenot applicableto land addedto the UGBunlessthe land is within
+a coastal shorelands boundary,
+g) Goal 19is not applicable to a UGBamendment
+FINDING: The subject property is not located within the Willamette River Greenway Boundary nor
+a coastal shorelands boundary. Goal 19 does not apply to UGB amendments. Therefore Goals 15-
+19 do not apply to this application.
+2) The UGB and amendments to the UGB must be shown on the city and county plan and
+zone maps at a scale sufficient to determine which particular lots or parcels are
+included in the UGB. Where a UGB does not follow lot or parcel lines, the maps must
+provide sufficient information to determine the precise UGB location.
+FINDING: The applicant has provided maps within the burden of proof denoting the specific
+boundary lines and parcels in which the UGBis proposed to be adjusted. This provision is met.
+OAR 660- 024- 0040, Land Need
+3) A local government may review and amend the UGBin consideration of one categoryof
+land need (for example, housing need) without a simultaneous review and amendment
+in consideration of other categories of land ( for example, employment need).
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 12 of 55
+FINDING: The applicant is proposing to amend the UGBin consideration of one land categoryneed
+public facilities. No other land needs are addressed as part of this application. This provision is
+met.
+5) Except for a metropolitan service district described in ORS 197. 015( 13), the
+determination of 20year employment land need for an urban area must comply with
+applicable requirements of Goal9 and OARchapter 660, division 9, and must include a
+determination of the need for a short-term supply of land for employment uses
+consistent with 660-009-0025. Employment land need may be based on an estimate of
+job growth over the planning period, local government must provide a reasonable
+justification for the job growth estimate but Goal 14 does not require that job growth
+estimates necessarily be proportional to population growth. Local governments in
+Crook, Deschutes or Jefferson Counties may determine the need for Regional Large -Lot
+Industrial Land by following the provisions of 660-024-0045for areas subject to that
+rule.
+6) Cities and counties may jointly conduct a coordinated regional EOAfor more than one
+city in the county or for a defined region within one or more counties, in conformance
+with Goal 9, OAR chapter 660, division 9, and applicable provisions of ORS 195.025. A
+defined region may include incorporated and unincorporated areas of one or more
+counties.
+FINDING: The purpose of the application is to accommodate the need for specific public facilities,
+expansion of the existing Deschutes County Fairgrounds and relocation of the Oregon Military
+Department's National Guard Armory site. Although additional employment may be generated by
+the application, it is not the primary purpose of the amendment. Therefore these requirements do
+not apply.
+7) Thedetermination of 20year land needsfor transportation and public facilities for an
+urban area must comply with applicable requirements of Goals11and 12, rules in OAR
+chapter 660, divisions 11 and 12, and public facilities requirements in ORS 197. 712 and
+197.768. Thedetermination of schoolfacility needs must also comply with 195.110and
+197.296 for local governments specified in those statutes.
+FINDING: The application is for public facilities, but not those defined by OAR 660-011-0005(5)
+subject to Goal 11 ( water, sewer, transportation). Rather the application is for facilities to be used
+for a public purpose. The applicant is not proposing a school facility as part of the application.
+Therefore these requirements do not apply.
+8) Thefollowing safe harbors may be applied by a local government to determine housing
+need under this division...
+9) Thefollowing safe harbors may be applied by a local government to determine its
+employment needs for purposes of a UGB amendment under this rule, Goal 9, OAR
+chapter 660, division 9, Goal 14 and, if applicable, ORS197.296...
+EXHIBIT ' T" TO ORDINANCE NO. 2019- 004 Page 13 of 55
+FINDING: The provisions above relate to proposals addressing employment or housing needs. As
+the applicant is proposing an amendment related to a needfor public facilities, these requirements
+do not apply.
+10) As a safe harbor during periodic review or other legislative review of the UGB, a local
+government may estimate that the 20year land needsfor streets and roads, parks and
+school facilities will together require an additional amount of land equal to 25 percent
+of the net buildable acres determined for residential land needs under section (4) of
+this rule, and in conformance with the definition of " Net Buildable Acre" as defined in
+OAR 660- 024- 0010( 6).
+FINDING: The proposal targets facilities needed for the existing Deschutes County Fairgrounds and
+relocation of the Oregon Military Department's National Guard Armory. As the proposal does not
+incorporate the addition of facilities specifically for streets, roads, parks, or schools, this provision
+does not apply.
+OAR 660-024-0050, Land Inventory and Response to Deficiency
+1) When evaluating or amending a UGB, a local government must inventory land inside
+the UGB to determine whether there is adequate development capacity to
+accommodate 20 year needs determined in OAR 660- 024- 0040. For residential land, the
+buildable land inventory must include vacant and redevelopable land, and be
+conducted in accordance with OAR 660- 007- 0045 or 660- 008- 0010, whichever is
+applicable, and ORS 197. 296 for local governments subject to that statute. For
+employment land, the inventory must include suitable vacant and developed land
+designated for industrial or other employment use, and must be conducted in
+accordance with OAR 660- 009- 0015.
+FINDING: The proposal will not impact the buildable land inventory related to residential or
+employment development as it is addressing a site specific, public facility need. The analysis
+regardingthe existingUGB's landinventoryto meettheavailableneedisfound in section (4) below.
+4) If the inventorydemonstratesthat the developmentcapacityof land insidethe UGBis
+inadequate to accommodate the estimated 20 year needs determined under OAR 660-
+024-0040, the local government must amend the plan to satisfy the need deficiency,
+either by increasing the development capacity of land already inside the city or by
+expanding the UGB, or both, and in accordancewith ORS197.296 where applicable. Prior
+to expanding the UGB, a local government must demonstrate that the estimated needs
+cannot reasonably be accommodated on land already inside the UGB. If the local
+government determines there is a need to expand the UGB, changes to the UGB must
+be determined by evaluating alternative boundary locations consistent with Goal 14
+and applicable rules at OAR 660- 024- 0060 or 660- 024- 0065 and 660- 024- 0067.
+FINDING: The applicant is seeking approval to amend the City of Redmond' s UGB to meet the need
+for specific public facilities that cannot be accommodated within the existing UGB. As the proposal
+includes three different uses, the applicant provided analysis for three distinct sites, each with an
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 14 of 55
+individual set of site characteristics, to best analyze compliance with this requirement. The applicant
+provided the following information in the burden of proof.
+Site Characteristics - Fairgrounds Expansion
+Fairgrounds Expansion Site. There is a need to expand three existing facilities on the
+Fairgrounds: the RV Park, the 4- H facilities, and the OHV track facilities. In total, 50 acres of
+vacant and developable land is needed to accommodate thesefacilities. Eachof thesefacilities
+are required to be directly adjacent to eachrespective, existingfacility to accommodatethe
+need for expansion.
+Site Characteristics - Multi- Purpose Athletic and Events Center Site
+Multi - Purpose Athletic and Events Center Site. The Multi - Purpose Athletic and Events Center is
+a new Countyfacility. The complex is not strictly required to be adjacent to the existing
+Fairgrounds, but this location would provide many efficiencies that would enable the facility
+to operate more effectively. This application evaluates alternative locations that could provide
+the required site characteristics for the complex, pursuant to Goal 14 requirements. The site
+must include 100acresof vacantand developableland, as determinedthrough the County's
+feasibility study...
+1. Neededzoning designation. If within the existing UGB, the site must be in one of the
+following zones: Fairgrounds, Open Space Park Reserve (OSPR), Park, Public Facility, or
+specific Commercial zones (C-1, C-2, C-4, and C-5). Theseare the only zones that allow for
+thefull range of usesthat are proposedfor the site. Theusecategoriesof the Redmond
+Development Code that match the proposed uses for the site are " Recreational Facilities"
+and " Arena for Indoor Sport Events" These uses are not permitted in Residential, Mixed -
+Use, Industrial, or Airport zones. These uses are also not permitted in the UH - 10 zone,
+whichis intendedprimarily for future urban residentialdevelopment, as identified in the
+Redmond Framework Plan.
+2. OutsideURAs. If outsidethe UGB, the site must not be in a RedmondUrbanReserveArea
+URA). City of Redmond URAsare designated to meet future residential and employment
+needs, as identified in the Redmond Framework Plan. The 2005 Redmond Urbanization
+Report, the analysis that informed the Framework Plan and the associated UGB
+amendment, found there was a need for 1,985 acres of land to meet the needs for
+residential and employment land and associated public facilities between 2003 and 2025. 9
+Theadopted UGBexpansion added 2,299 acres of land that is designated under the city of
+Redmond's URAs. Thelarge sizeof the Multi -PurposeAthletic and EventsCenter, at 100
+acres, could potentially consume land that needed to meet future residential and
+employment demand.
+3. Conflicts with residential uses. The site must not be adjacent to existing residential use
+zones or to areas planned for future residential uses in URAs, as identified in the Redmond
+Framework Plan or other subarea plan. The Multi - Purpose Athletic and Events Center is
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 15 of 55
+not suitable for a location adjacent to residential areas due to the livability impacts of a
+large complex that hosts ongoing events, including traffic generation, noise, and outdoor
+lighting.
+4. No more than three separate, contiguous parcels. The Multi - Purpose Athletic and Events
+Centermaybe developedon a sitemadeup of multipleparcels. However, it wouldbe
+impractical to attempt to assemble more than three lots under separate owners given
+varying interests, demands, and willingness to sell on the part of the property owners.
+Therefore, the analysis will be limited to sites that are over 100 acres in size but include no
+more than three contiguous parcels.
+Site Characteristics - Oregon Military Department Armory RelocationSite
+OMDArmoryRelocationSite. Theprimarypurposefor therelocationof theOMDarmoryisto
+provide direct accessto the Biak Training Area. Thesite must include 20 acres of vacant and
+developable land. Three additional site characteristics are required for the facility, as
+described below:
+1. Direct access. As described in the Section 2.2.2 of this report, OMD needs direct accessto
+thetraininggroundsto avoidpotentialconflictswithgeneraltrafficonlocalstreets.
+Therefore, the relocation site needs to be adjacent to the boundaries or the Biak Training
+areaor accessibleto the training areavia a private easementthrough land not planned
+for future urban development.
+2. Zoning. If within the UGB, thesite shouldbein a PublicFacilities, OSPR, or Parkzoneto
+prevent potential land use conflicts with other uses.
+3. OutsideURAs. If outsidethe UGB, thesitemust not be in a RedmondUrbanReserveArea
+URA). As described above in relation to the Multi - Purpose Athletic and Events Center,
+URAsare designated to meetfuture residential and employment needs, as identified in
+the Redmond Framework Plan.
+The applicant then went on to detail land options within the existing UGB that could suit the needs
+identified in the characteristics above. As described below, no areas within the existing UGB could
+accommodate the specific needs for each of the three sites.
+Land Inventory - Fairgrounds Expansion
+Theonlysiteswithin theexistingUGBand directlyadjacentto the existingFairgroundsare the
+Airport to the north and industrial areas to the north and west. No vacant sites in this area
+meet the size requirement of 50 acres.
+Land Inventory - Multi - Purpose Athletic and Events Center
+No sites located in the specific zones are large enough to accommodate the 100 -acre site. No
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 16 of 55
+sites in the Park, Public Facility, or specified Commercialzones contain fewer than three
+contiguous parcels that total at least 100 acres. One site in the OSPRzone is approximately 99
+acres in total size, however, a significant portion of the site is not suitable for development.
+Approximately 12acresof the area is located within a RunwayProtectionZone (RPZ) of the
+DeschutesCountyAirport SafetyOverlay, developmentis significantlyconstrictedwithin an
+RPZ. Additional, the site includes Goal 5 resource areas, further limiting development.
+Land Inventory - OMD Relocation Site
+TheBiakTrainingAreais locatedeastandsouthof the existingUGB, on landsownedand
+managedby BLM (seeExhibit Gfor a map of the training area boundary). No siteson the
+eastern or southern boundary of the existing UGB, which could potentially provide direct
+accessto the training area, are designatedfor the specifiedzones. Theseareasare zonedfor
+residential, industrial, commercial, and airport uses. Additionally, most areas north of
+Highway126will beseparatedfrom the Biak TrainingArea byfuture urban developmentin
+the Eastside Framework Plan area. If the facility were located west of this plan area— within
+the existingUGBfuture urban developmentto the eastwould interfere with direct accessto
+the training area. As no sites within the existing UGBmeet the zoning and accessrequirements
+for the facility, the site must be located outside the UGB.
+The applicant found that no lands within the existing UGB could accommodate the use, and
+therefore evaluated alternative boundary locations outside the UGB, discussedin findings for OAR
+660-024-0065 and 0067 below. This provision is met. A map of the existing UGBboundary is shown
+in Figure 2.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 17 of 55
+Figure 2 - Existing UGB Lands Analyzed
+k/
+1111.3 RedmondUG8 89
+34
+Highway 27 21 39 36
+Arterial
+t
+Collector 6 20
+38 26
+Zoning 106
+Airport 23 60
+Com rcrcial ( CS C5)
+2p
+34
+4, ft U W h R1Ul" Y) M.. fined- 6e live- Pr (
+Industrial ( Ali- M2i
+r
+236
+nnnnr
+Public facilities ( PF? 40 56
+213
+22
+Fairgrounds IPG) or u
+Open Space Con: ervatren IOSCI
+r
+20l 36 33 28 24 30 ) 7 22
+Open Space Park Reserve r,OSPR) 000% -
+Park 21 to 20 40
+Residential ( R I - W
+UrbanHadingIUHiO) 39 . 039 29 29
+Flood Plain iFPI
+assie
+57 TM
+37 BIAK TRAINING AREA
+ynuss
+MAPLE rE U8 ( SEE EXHIBIT G)
+Labeled numbem are
+the sire of taxlot 31
+40
+1601
+acres) Taxiots 29
+soon
+smaller than 20 acres
+27
+not labeled
+22 20 39
+84LA
+HWV
+1264
+42 34
+cv 38. 47
+H
+30 28 39
+28. azc 21
+22HI HLiAND 148
+Elrssaor+ tnr/ iuo
+s2 23 an 55
+49 s
+34 20 25 105
+7ERAt S 12 .®.
+39 29 38 r2g 37 27 W 105
+24 fru 0
+26 r 49
+aus#
+24
+i
+36 30 44
+39A 678
+r
+35 qY'y6 20 20 i
+oY
+38
+20
+36 38
+23
+nsnnnrrrrrrnoroorrr i renn
+24 41 24
+COUNTY
+FAIRGROUNDS
+i
+a
+31 37 38 85 33
+25 i
+34
+288 it 17;
+i
+2847 /
+urrrra  r• nrrnw• r•• wi'
+43 27 21 G 35 BIAK TRAINING AREA
+G)
+Oil
+1E i 3
+SEE EXHIBIT
+40 57
+6 •
+an
+4062 fa•• rus•••• r
+21 30 48 075
+OM lee
+22 40
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 18 of 55
+5) In evaluatinganamendmentof a UGBsubmittedunderORS197.626, the directoror the
+commission may determine that a difference between the estimated 20year needs
+determined under OAR660-024-0040 and the amount of land and development capacity
+addedto the UGBby the submitted amendmentis unlikely to significantlyaffect land
+supplyor resourceland protection, andas a result, maydeterminethat theproposed
+amendment complies with section ( 4) of this rule.
+FINDING: The applicant is proposing to amend the UGB to include the 160 -acre portion of the
+propertyfor publicfacilities. Asthe amount of land proposedfor the adjustmentis equalto the
+identified land need for the specific facilities, this provision does not apply.
+6) When land is added to the UGB, the local government must assign appropriate urban
+plan designations to the added land, consistent with the need determination and the
+requirements of section (7) of this rule, if applicable. Thelocal government must also
+applyappropriatezoningto theaddedlandconsistentwith theplan designationor may
+maintain the land as urbanizable land until the land is rezoned for the planned urban
+uses, either byretainingthezoningthat wasassignedprior to inclusionin theboundary
+or by applyingother interim zoning that maintains the land's potential for planned
+urban development. The requirements of ORS 197.296 regarding planning and zoning
+also apply when local governments specified in that statute add land to the UGB.
+FINDING: The applicant has applied for a concurrent application with the City of Redmond. Pending
+approval of the UGB amendment, the applicant seeks to rezone and redesignate the Fairgrounds
+expansion portion of the site ( shown in Figure 1) to Fairgrounds ( FG) under the City of Redmond
+Code. The proposed uses are consistent with the requirements of that zone. Additionally, the
+applicant seeks to rezone and redesignate the OMD facility ( shown in Figure 1) as Public Facilities
+PF). A military site is an allowed use in this zone. This provision is met.
+7) Lands included within a UGBpursuant to OAR660-024-0065(3) to provide for a particular
+industrial use, or a particular public facility, must be planned and zoned for the
+intended use and must remain planned and zoned for that use unless the city removes
+the land from the UGB.
+FINDING: As stated previously, the proposal is to amend the property pursuant to OAR660-024-
+0065(3). Through the burden of proof, intergovernmental agreement provided as Exhibit B in the
+burden of proof, and concurrent application with the City of Redmond, the applicant has
+demonstratedthe propertyisbeingplannedandzonedfor the intendeduseof publicfacilities. This
+provision is met.
+OAR660-024-0065, Establishment of Study Are to Evaluate Landfor Inclusion in the UGB
+1) Whenconsideringa UGBamendmentto accommodatea needdeficit identified in OAR
+660-024-0050(4), a city outside of Metro must determine which land to add to the UGB
+by evaluatingalternative locationswithin a "study area" establishedpursuant to this
+rule. Toestablish the study area, the city must first identify a "preliminary study area"
+EXHIBIT " I"' TO ORDINANCE NO. 2019- 004 Page 19 of 55
+which shall not include land within a different UGB or the corporate limits of a city
+within a different UGB.
+The preliminary study area shall include:
+a) All lands in the city's acknowledged urban reserve, if any,
+b) All lands that are within the following distance from the acknowledged UGB:
+A) For cities with a UGBpopulation less than 10,000: one- half mile,
+B) For cities with a UGB population equal to or greater than 10, 000: one mile;
+c) All exception areas contiguous to an exception area that includes land within the
+distance specified in subsection ( b) and that are within the following distance from
+the acknowledged UGB:
+A) For cities with a UGB population less than 10, 000: one mile,
+B) For cities with a UGB population equal to or greater than 10, 000. one and one-
+half miles,
+d) At the discretion of the city, the preliminary study area may include land that is
+beyond the distance specified in subsections ( b) and ( c).
+FINDING: The applicant identified a study area consistent with the requirements in this chapter,
+including the incorporation of all lands in the City of Redmond Urban ReserveArea (URA). As the
+Cityof RedmondUGBincludesa populationof approximately27,000; all landswithin one mile of
+the existing UGBand all exception areas contiguous to those lands and within one and one-half
+miles of the existing UGBwere included in the study area, pursuant to subsections (b) and (c). No
+additional discretionary land was included inthe study area. The applicant provided a map denoting
+the study area shown in Figure 3. This provision is met.
+2) A city that initiated the evaluation or amendment of its UGBprior to January 1, 2016,
+may choose to identify a preliminary study area applying the standard in this section
+rather than section ( 1). For such cities, the preliminary study area shall consist of...
+FINDING: The city initiated the application after January 1, 2016. Therefore this provision does not
+apply.
+3) When the primary purpose for expansion of the UGB is to accommodate a particular
+industrial use that requires specific site characteristics, or to accommodate a public
+facility that requires specific site characteristics, and the site characteristics may be
+found in only a small number of locations, the preliminary study area may be limited to
+those locations within the distance described in section ( 1) or ( 2), whichever is
+appropriate, that have or could be improved to provide the required site
+characteristics. For purposes of this section:
+a) The definition of site characteristics in OAR660-009-0005(11) applies for purposes
+of identifying a particular industrial use.
+b) A " public facility" may include a facility necessary for public sewer, water,
+stormwater, transportation, parks, schools, or fire protection. Site characteristics
+may include but are not limited to size, topography and proximity.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 20 of 55
+FINDING: The applicant states in the burden of proof that the list of facilities in 3( b) above is not
+exclusiveto only those types of public facilities listed. Therefore the applicant finds the proposal for
+public facilities related to the Oregon Military Department and Fairgrounds fall under this category
+and are subject to the requirements in section ( 3) and can limit the preliminary study area to those
+that provide the required site characteristics. As the proposed amendment includes three public
+facilities, the applicant provided three sets of defining site characteristics to define the respective
+study areas.
+Figure 3 - General Study Area Boundary
+Hearings Officer Decision 247 - 18 - 000752 - PA
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 21 of 55
+fig„ „......,,,.. ......
+Q
+r  k.
+aOman am
+g
+of _
+WPM USS
+B ®
+am E
+kL
+r sn RLAANn
+All
+Z
+a
+E7 RAta9 126
+u
+RPO
+COUNTY
+P FAIRGROUNDS r
+R
+I 1
+f"
+5fi
+Highway Redmand LlGB Zoning Exception Areas
+Rrterial a®® UrbanReserveF. reas Ezrlusive Farm Use ( EFII) Rural Residential( RR1( l)
+Collector e11 Mile El fferfrom UGB Surface Miring( SPA Y Mixed- UseAgriculultural ( MUA)
+1. 5Mile Buffer from UG6 Rural Industrial ( RI) g
+Opon Space ( OSC) C— boles
+Hearings Officer Decision 247 -18 - 000752 -PA
+EXHIBIT "F" TO ORDINANCENO. 2019- 004 Page 21 of 55
+4) Thecity may exclude land from the preliminary study area if it determines that:
+a) Based on the standards in section ( 7) of this rule, it is impracticable to provide
+necessarypublic facilities or services to the land;
+b) The land is subject to a risk of:
+A) Landslides: The land consists of a landslide deposit or scarp flank that is
+described and mapped on the Statewide Landslide Information Database for
+Oregon ( SLIDO) Release 3.2 Geodatabase published by the Oregon Department
+of Geologyand Mineral Industries (DOGAMI) December2014, provided that the
+deposit or scarp flank in the data source is mapped at a scale of 1:40,000 or
+finer. If the owner of alot or parcel provides the city with a site- specific analysis
+by a certified engineering geologist demonstrating that development of the
+property would not be subject to significant landslide risk, the city may not
+exclude the lot or parcel under this paragraph;
+B) Flooding, including inundation during storm surges: the land is within the
+Special Flood Hazard Area ( SFHA) identified on the applicable Flood Insurance
+Rate Map ( FIRM);
+C) Tsunamis: the land is within a tsunami inundation zone established pursuant
+to ORS 455. 446;
+c) The land consists of a significant scenic, natural, cultural or recreational resource
+described in this subsection:
+A) Land that is designated in an acknowledged comprehensive plan prior to
+initiation of the UGBamendment, or that is mapped on a published state or
+federal inventory at a scale sufficient to determine its location for purposes of
+this rule, as:
+i) Critical or essential habitat for a species listed by a state or federal agency
+as threatened or endangered
+ii) Core habitat for Greater Sage Grouse, or
+iii) Biggame migration corridors or winter range, except where located on lands
+designated as urban reserves or exception areas,
+B) RelatedAdjacent Landsdescribed by ORS390.805, asmapped by the applicable
+state orfederal agency responsiblefor the scenicprogram;
+C) Designated Natural Areas on the Oregon State Register of Natural Heritage
+Resources,
+D) Wellhead protection areas described under OAR 660- 023- 0140 and delineated
+on a local comprehensive plan,
+E) Aquatic areas subject to Statewide Planning Goal 16 that are in a Natural or
+Conservation management unit designated in an acknowledged
+comprehensive plan;
+F) Lands subject to acknowledged comprehensive plan or land use regulations
+that implement Statewide Planning Goal 17, Coastal Shoreland, Use
+Requirement 1,
+G) Lands subject to acknowledged comprehensive plan or land use regulations
+that would implement Statewide Planning Goal 18, Implementation
+Requirement 2;
+EXHIBIT " f" TO ORDINANCE NO. 2019- 004 Page 22 of 55
+d) Theland is owned by the federal government and management primarily for rural
+uses.
+FINDING: The initial study area found above in Figure3 was modified to exclude areasthat did not
+meet the identified site characteristics as described in section ( 3) or were designated for exclusion
+in the list for section ( 4) above. The applicant provides a detailed analysis of the specific areas that
+were excluded on pages 40-41 of the burden of proof. Figures of the new study boundary for each
+site are found below. Full size renderings of the study boundary maps are found on pages 42-44 of
+the burden of proof.
+Figure 4 - Fairgrounds Amended Study Area
+Highway C3 RedmondUGB IM Exclusion A: Not Adjacent to Fairgrounds
+Arterial  , ri Urban Re-wer1e Areas Exc: tuslon B: BLM Land
+Collector s, 1 MiteButtertromUGB
+ti,;, 15 Mile Buffer from UGB
+Hearings Officer Decision 247 - 18 -000752 - PA
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 23 of 55
+Figure 5 - Multi - Purpose Athletic and Events Center Site
+Highway Redmond UG8 ExClusion 8: AtIjacent to ReSiC,,Pnl[ ial
+Arterial Urban Reserve Areas ( Exclusion Al Exotusion C: Less trian 100 ages
+Wlector C•,3 1MileBufferfromUGE3 Exclusion D7 13L.M Land
+1, 5 Mile Buffer from UCS EM Attjletic/EvetA5CenterStudyArea
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 24 of 55
+Figure 6 - Multi - Purpose Athletic and Events Center Site
+HLohvxy CM RedmondUG3
+k?wmarterial a% Urban Reserve.Areas (ExcILIS1011A.1
+Colkqctw 1 k1i Ne Fkiffe r f [ oiv lJ08
+1. 5 Mie BuffI rfdomUG0e
+Hearings Officer Decision 247 - 18 - 000752 - PA
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004
+Exclusion 0'. Not Adjacent to Diatr Tyefining Ayea
+Exclusion C: KN - 1 Land
+DMI) Study AfOF
+5) After excluding land from the preliminary study area under section (4), the city must
+adjust the area, if necessary, so that it includes an amount of land that is at least twice
+the amount of land needed for the deficiency determined under OAR660-024-0050(4)
+or, if applicable, twice the particular land need described in section ( 3). Such
+adjustment shall be made by expanding the distance specified under the applicable
+section ( 1) or (2) and applying section ( 4) to the expanded area.
+FINDING: The applicant provided the acreages for each site analysis area, shown in the table below.
+The acreages are at least twice the amount need for public facility needs described in section ( 3). This
+provision is met.
+Site Required Size Size of Study Area
+Fairgrounds Expansion 50 acres 1, 559 acres
+Multi - Purpose
+Athletic/ Events Center
+100 acres 3, 661 aces
+OMD Relocation Site 20 acres 3, 160 acres
+6) For purposes of evaluating the priority of land under OAR660-024-0067, the "study area'
+shall consist of all land that remains in the preliminary study area described in section
+1), ( 2) or (3) of this rule after adjustments to the area based on sections (4) and (5),
+provided that when a purpose of the U68 expansion is to accommodate a public park
+need, the city must also consider whether land excluded under subsection (4)(a) through
+c) of this rule can reasonably accommodate the park use.
+FINDING: No land was excluded under subsection ( 4)(a) through ( 4)(c), therefore this section does
+not apply.
+7) For purposes of subsection ( 4)(a), the city may consider it impracticable to provide
+necessarypublic facilities or services to the following lands...
+8) Land may not be excluded from the preliminary study area based on a finding of
+impracticability that is primarily a result of existing development patterns. However, a
+city may forecast development capacity for such land as provided in OAR 660-024-
+0067( 1)( d).
+FINDING: No land was excluded from the preliminary study area under subsection (4)(a), nor based
+on a finding of impracticabilitythat is primarily the result of existingdevelopmentpatterns. The
+exclusions applied to each study area were to eliminate areas that did not have or could not be
+improved to have the required site characteristics for each public facility use. Therefore, this provision
+does not apply.
+9) Notwithstanding OAR660-024-0050(4) and section (1) of this rule, except during periodic
+review or other legislative review of the U6B, the city may approve an application under
+EXHIBIT " I"' TO ORDINANCE NO. 2019- 004 Page 26 of 55
+ORS 197.610 to 197.625 for a UG8 amendment to add an amount of land less than
+necessary to satisfy the land need deficiency determined under OAR660-024-0050(4),
+provided the amendment complies with all other applicable requirements.
+FINDING: This application does not propose to add an amount of land less than required for the
+need; this provision does not apply.
+OAR660-024-0067, Evaluation of Land in the Study Area for Inclusion in the UGB; Priorities
+1) A city consideringa UGBamendmentmust decidewhich land to add to the UGBby
+evaluating all land in the study area determined under OAR660-024-0065, asfollows:
+a) Beginning with the highest priority category of land described in section (2), the city
+must apply section (5) to determine which h land in that priority category is suitable
+to satisfy the need deficiency determined under OAR660-024-0050 and select for
+inclusion in the UGBas much of the land as necessary to satisfy the need.
+b) If the amount of suitable land in the first priority category is not sufficient to satisfy
+all the identified need deficiency, the city must apply section (5) to determine which
+land in the next priority is suitable and select for inclusion in the UGBas much of
+the suitable land in that priority as necessary to satisfy the need. The city must
+proceed in this manner until all the land need is satisfied, except as provided in OAR
+660- 024- 0065( 9).
+c) If the amount of suitable land in a particular priority category in section (2) exceeds
+the amount necessary to satisfy the need deficiency, the city must choose which
+land in that priority to include in the UGBby applying the criteria in section (7) of
+this rule.
+d) In evaluating the sufficiency of land to satisfy a need under this section, the city
+may use the factors identified in sections ( 5) and ( 6) of this rule to reduce the
+forecast development capacity of the land to meet the need.
+e) Land that is determined to not be suitable under section ( 5) of this rule to satisfy
+the need deficiency determined under OAR 660-024-0050 is not required to be
+selected for inclusion in the UGB unless its inclusion is necessary to serve other
+higher priority lands.
+FINDING: The applicant identified the study areas in compliance with OAR 660-024-0065.
+Conformance with the priority criteria is further analyzed below.
+2) Priority of Landfor inclusion in a UGB:
+a) First priority is urban reserve, exception land, and non -resource land. Lands in the
+study area that meet the description in paragraphs (A) through ( C) of this subsection
+are of equal ( first) priority.
+A) Land designated as an urban reserve under OAR chapter 660, division 1, in an
+acknowledged comprehensive plan,
+FINDING: No urban reserve lands are included within the study areas of each public facility site, as
+demonstrated in Figures 4-6. All Redmond URA lands were excluded from study areas to preserve
+those lands to meet future employment and residential land needs established in the Redmond
+EXHIBIT " I"' TO ORDINANCE NO. 2019- 004 Page 27 of 55
+Urban Framework Plan. Furthermore, the Redmond URA lands do not possess adequate site specific
+characteristics to accommodate the OMD relocation site, Fairgrounds Expansion site, or the Multi -
+Purpose Athletic and Event Center. This provision does not apply.
+8) Land that is subject to an acknowledged exception under ORS 197. 732
+FINDING: No exception lands are present in the study areas for the OMD relocation site, nor for the
+Fairgrounds Expansion site. Within the Multi -Purpose Athletic and Events Center study area are 45
+acres of land zoned Rural Residential - 10 acre minimum ( RR -10), which is an acknowledged exception
+area in the DeschutesCounty Comprehensive Plan. The area is part of a larger 89 -acre parcel that is
+split zoned, with the remaining 44 acres of land zoned EFU. The applicant stated the following in the
+burden of proof:
+Theparcelis includedin the studyareafor the Multi -PurposeAthleticand EventsCenterbecauseit is
+adjacent to a 67 -acre parcel with which it could be combined to achieve the required size of at least 100
+acres for the Multi - Purpose Athletic and Events Center site. The adjacent parcel is also zoned EFU. In order
+to accommodate the 100 -acre Multi - Purpose Athletic and Events Center, this site would need to include at
+least55 acresof EFUland. Theentiresite is locatedwithin the CentralOregonIrrigation District (COID), and
+therefore, in accordance with 195. 300( 10)( c)( B), the EFU lands on this site are considered high- value
+farmland and thereforewould be in a lowerpriority categoryof land that could be consideredfor a UGB
+expansion.
+Staffagreesthe splitzoningandpotentialfor highvaluefarmingonthe 45 -acreRR -10parcelmakeit
+unsuitable to meet the identified need. This provision does not apply.
+C) Land that is non - resource land.
+FINDING: No non -resource lands are present in the study areas for the Fairgrounds Expansion site,
+nor for the Multi - Purpose Athletic and Event Center. Within the OMD study area is one property zoned
+Rural Industrial, which is developed with the Central Oregon Unit Training and Equipment Site
+COUTES). Thefacility is adjacent to the aforementioned BiakTraining Area owned by OMD. The OMD
+facilityrequires20acresof vacantlandonthe siteto accommodatethe armory. Theapplicantfound
+that the COUTES parcel has 15 acres of developed land with 20 acres of undeveloped land, but the
+20 -acre piece is bisected by an accessroad and therefore not entirely developable and vacant. Staff
+agrees there is no non -resource land suitable to satisfy the need in the study area. This provision
+does not apply.
+b) SecondPriority is marginal land. land within the study area that is designatedas
+marginal land under ORS 197. 247 ( 1991 Edition) in the acknowledged comprehensive
+plan.
+FINDING: DeschutesCountydoesnot haveanyacknowledgedor designatedmarginalfarm lands.
+Therefore, the threestudyareado not containanysecondpriority lands.
+EXHIBIT " I"' TO ORDINANCE NO. 2019- 004 Page 28 of 55
+c) Third Priority is forest or farmland that is not predominantly high-valuefarmland.
+land within the study area that is designated for forest or agriculture uses in the
+acknowledged comprehensive plan and that is not predominantly high- value
+farmland as defined in ORS195.300, or that does not consist predominantly of prime
+or unique soils, as determined by the United States Department of Agriculture Natural
+Resources Conservation Service ( USDA NRCS). In selecting which lands to include to
+satisfy the need, the city must use the agricultural land capability classification
+system or the cubic foot site class system, as appropriate for the acknowledged
+comprehensive plan designation, to select lower capability or cubic foot site class
+lands first.
+FINDING: The applicant stated the following in the burden of proof:
+Nofarm land in DeschutesCountymeetsthe definitionof "high-valuefarm land" as definedby this
+subsection and the applicable ORS sections. Therefore, all lands zoned EFU in Deschutes County are
+considered Third Priority lands. However, DeschutesCounty has historically applied an additional
+classificationof EFUlandsbasedonsoilcapabilityratingsand availabilityof irrigation. Inestablishingurban
+reserveareasin 2005, the Countydivided Third Priority EFUlands into non -irrigated parcels ("Dry EFU'),
+partiallyirrigatedEFUparcels, andcommercialagriculturalproperties. 12DryEFUparcelsweredesignated
+the highestpriority for inclusion in urban reserveareas, followed by partially irrigated EFUparcels, and
+commercial agriculture properties were designated the lowest priority for inclusion. This additional
+prioritization will be used to select lands from each study area to meet the need for each use, asfollows.
+Full analysis can be found on pages 50- 52 of the burden of proof. Staff finds for this section, the
+relevant information is the number of sites within each study boundary that are being evaluated as
+Third Priority lands. The Fairgrounds identified only one eligible site (the South Redmond Tract) to
+include in the study area. The Multi -PurposeAthletic and EventsCenter Siteidentified three potential
+sites that meet the characteristics and need. The OMD Relocation Site identified four potential sites
+that meet the characteristics and need. Staff notes the sites will be compared based on the Goal 14
+boundary location, pursuant to section (7) of this rule. The findings of the boundary location
+determination are reviewed in that section.
+c) FourthPriority is agricultural land that is predominantly high-valuefarmland. land
+within the study area that is designated as agricultural land in an acknowledged
+comprehensive plan and is predominantly high-value farmland as defined in ORS
+195.300. A city may not select land that is predominantly made up of prime or unique
+farm soils, as defined by the USDANRCS, unless there is an insufficient amount of
+other land to satisfy its land need. In selecting which lands to include to satisfy the
+need, the city must use the agricultural land capability classification system to select
+lower capability lands first.
+FINDING: There are sufficient Third Priority lands to meet the identified need for all three proposed
+sites. Therefore, no Fourth Priority lands will be included.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 29 of 55
+3) Notwithstanding section (2)(c) or (d) of this rule, land that would otherwise be excluded
+from a UGB may be included if.•
+a) Theland contains a small amount of third orfourth priority land that is not important
+to the commercial agricultural enterprise in the area and the land must be included
+in the UGBto connect a nearby and significantly larger area of land of higher priority
+for inclusion within the UGB: or
+b) The land contains a small amount of third or fourth priority land that is not
+predominately high- value farmland or predominantly made up of prime or unique
+farm soils and the land is completely surrounded by land of higher priority for
+inclusion into the UGB.
+FINDING: The study areas did not include sufficient First and Second Priority lands, therefore this
+provision does not apply.
+4) For purposes of categorizing and evaluating land pursuant to subsections (2)(c) and (d)
+and section ( 3) of this rule,
+a) Areas of land not larger than 100 acres may be grouped together and studied as a
+single unit of land,
+b) Areas of land larger than 100acres that are similarly situated and have similar soils
+may be grouped together provided soils of lower agricultural orforest capability may
+not begrouped with soils of higher capability in a manner inconsistent with the intent
+of section (2) of this rule, which requires that higher capability resource lands shall
+be the last priority for inclusion in a UGB;
+c) Notwithstanding subsection ( 4)(a), if a city initiated the evaluation or amendment of
+its UGBprior to January 1, 2016, and if the analysis involves more than one lot or
+parcel or area within a particular priority category for which circumstances are
+reasonably similar, these lots, parcels and areas may be considered and evaluated as
+a single group,
+d) When determining whether the land is predominantly high- value farmland, or
+predominantly prime or unique, " predominantly" means more than 50 percent.
+FINDING: There are three individual study areas curated to include the individual needs of each type
+of use. The study areas were grouped based on the amount of land needed for each use. Higher
+priority inclusion lands in the UGBwere not grouped with lower priority lands, consistent with this
+provision. This provision is met.
+Hearings Officer Decision 247 - 18 -000752 - PA
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 30 of 55
+Figure 7 - Fairgrounds Land Prioritization
+Highway Redmond U,-, B
+Arienalf
+it
+Urban Reserve Areas ( First Priority Lands)
+CoIlectorarw 11.44eBufferfromUGB
+1 5 Mile Buffer from UGB
+Hearings Officer Decision 247 - 18 - 000752 - PA
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004
+Fairgtounds Expansion Study Area
+First Priority Lands - Exception Areas
+First Priority Lands - Nonresource
+Third Priority Lands - Irrigated EFU
+Third Priority Lands - Dry EFU
+Figure 8 - Multi - Purpose Athletic and Events Center Land Prioritization
+Highway C3 RedmondUGB
+Arterial :' O"t UrbanReserveAreas (FirstPriorityLands)
+n•• q
+Collector • • 1 Kle Buffer from UGB
+s ,
+1, 5 Mile, Buffer from UGB
+Hearings Officer Decision 247 - 18 - 000752 - PA
+EXHIBIT" F" TO ORDINANCE NO. 2019- 004
+CM Athletic/EventsCenterStudyArea
+First Priority Lands - Exception Areas
+First Priority Lands - Nonresource
+Third Priority Lands - Irrigated EFU
+Third Priority Lands - Dry EFU
+Figure 9 - Multi - Purpose Athletic and Events Center Land Prioritization
+Highway a3Redmond UGB
+G. W. 64
+Arterial - Urban Reserve Areas ( First Priority Lands)
+Collector I Fable Buffer from UGS
+1. 5 We Buffer from UGB
+Hearings Officer Decision 247 - 18 - 000752 - PA
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004
+OMD Study Area
+First Priority Lands - Exception Areas
+First Prionty Lands - Nonresource
+Third Priority Lands - Irrigated EFU
+Third Priority Lands - Dry EFU
+5) With respect to section ( 1), a city must assume that vacant or partially vacant land in a
+particular priority category is "suitable" to satisfy a need deficiency identified in OAR660-
+024-0050(4) unless it demonstrates that the land cannot satisfy the specified need based
+on one or more of the conditions described in subsections ( a) through ( g) of this section:
+a) Existingparcelization, lot sizesor developmentpatterns of rural residential land
+make that land unsuitable for an identified employment need, as follows:
+A) Parcelization: the land consists primarily of parcels 2 -acres or less in size, or
+B) Existing development patterns: the land cannot be reasonably redeveloped or
+infilled within the planning period due to the location of existing structures and
+infrastructure.
+b) The land would qualifyfor exclusion from the preliminary study area under the factors
+in OAR660-024-0065(4) but the city declined to exclude it pending more detailed
+analysis.
+c) The land is, or will be upon inclusion in the UGB, subject to natural resources
+protections under Statewide Planning Goal5 such that that no development capacity
+should be forecast on that land to meet the land need deficiency.
+d) With respect to needed industrial usesonly, the land is over 10percent slope, or is an
+existing lot or parcel that is smaller than 5 acresin size, or both. Slopeshall be
+measured as the increase in elevation divided by the horizontal distance at maximum
+ten foot contour intervals.
+e) With respect to a particular industrial use or particular public facility use described
+in OAR 660- 024- 0065( 3), the land does not have, and cannot be improved to provide,
+one or more of the required specific site characteristics.
+t) The land is subject to a conservation easement described in ORS 271. 715 that
+prohibits urban development.
+g) The land is committed to a use described in this subsection and the use is unlikely to
+be discontinued during the planning period.
+A) Public park, church, school, or cemetery, or
+B) land within the boundary of an airport designated for airport uses, but not
+including land designated or zonedfor residential, commercial or industrial uses
+in an acknowledged comprehensive plan.
+FINDING: Within the analysis for section ( 2) in the burden of proof, the applicant identified the
+following properties as not suitable to satisfy the need deficiency, in accordancewith the provisions
+in this section:
+Multi -PurposeAthleticandEventsCenterstudyarea, Site6includes44acresof exceptionland. Astheland
+was not large enough to meet the size requirements for the site, it was considered not suitable, as allowed
+by subsection (5)(e) of this rule.
+Fairgrounds Expansion and Multi -Purpose Athletic and Events Center study area, Site Z was partially
+includedin the boundary of the DeschutesCountyAirport SafetyCombiningZone. Theselands werenot
+consideredsuitablefor developmentpursuant to subsection (5)(g)(B) of this rule. Theremaininglands in
+Fairgrounds Expansion, Site Z following this exclusion, were not large enough to accommodate the required
+sizeof thesite, and thereforewereexcludedpursuant to subsection (5)(e) of this rule.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 34 of 55
+Thesouthernparcel of the OMDRelocationSitestudy area, Site3, wasremovedfrom thestudyareaasthe
+site was developed and usedfor the Central Oregon Unit Training and Equipment Site (COUTES). Asprovided
+by this section, developed land can be considered not suitable.
+This provision is met.
+6) For vacant or partially vacant lands added to the UGB to provide for residential uses:
+FINDING: This proposal is not for residential uses, therefore this provision does not apply.
+7) Pursuant to subsection ( 1)( c), if the amount of suitable land in a particular priority
+category under section (2) exceedsthe amount necessaryto satisfy the need deficiency,
+the city must choosewhich land in that priority to include in the UGBbyfirst applying the
+boundary location factors of Goal 14 and then applying applicable criteria in the
+acknowledged comprehensive plan and land use regulations acknowledged prior to
+initiation of the UGB evaluation or amendment. The city may not apply local
+comprehensive plan criteria that contradict the requirements of the boundary location
+factors of Goal 14. Theboundary location factors are not independent criteria, when the
+factors are applied to compare alternative boundary locations and to determine the UGB
+location the city must show that it considered and balanced all the factors. The criteria
+in this section may not be used to select lands designated for agriculture or forest use
+that have higher land capability or cubic foot site class, as applicable, ahead of lands that
+have lower capability or cubic foot site class.
+FINDING: No First or Second Priority lands were suitable for any of the three sites. The amount of
+Third Priority lands within eachstudy area isgreater than the identified need, therefore the boundary
+factors of Goal 14 were applied to determine the appropriate site for UGB inclusion, in each study
+area. The applicant provided the following analysis for the boundary factors below:
+Boundary Location Analysis: All Third Priority Lands
+Fairgrounds Expansion.
+As demonstrated in the evaluation of suitable lands, Site 1, the South Redmond Tract is the only suitable
+location for the expansion of the County Fairground. Therefore, the consideration for boundary location
+factors for this site is limited to areas within the South Redmond Tract, as described below.
+Multi - Purpose Athletic and Events Center Site and OMD Relocation Site. There are significantly
+more ThirdPriority landssuitablefor the Multi -PurposeAthleticand EventsCenterand OMDsitesthan
+the identified land need. Theselands are divided among three sitesfor the Multi -Purpose Athletic and
+EventsCenterandfour sitesfor the OMDfacility. Sites1, 2, and3 areidenticalfor bothfacilities; Site4 is
+onlysuitablefor the OMDfacility (Figure12). Site1, theSouthRedmondTract, is themost appropriate
+location for inclusion in the UGBfor both facilities, based on consideration for the Goal 14 boundary
+location factors, as follows.
+1. Efficient accommodation of identified land needs,
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 35 of 55
+The location of the South Redmond Tract, Site 1, provides several efficiencies relative to the alternative
+sites.
+Transportation efficiency. If located on the SRT, transportation to the both the OMD and
+Multi - Purpose Athletic and Events Center would be more efficient because the SRTis closer to
+local population centers in Redmond than Sites 2 and 4, and closer to regional population
+centers in Bend than Site 3. TheSRTcan be accessedvia an existing arterial, 19th Street. 19th
+Street is a complete street that includes sidewalks and bike lanes, which may facilitate non -
+motorized transportation to the site. Site 3 would be accessedvia Highway 126, which is less
+safefor walkingand biking, doesnot includepedestrianfacilities and limits bikefacilities to
+the road shoulder. Sites 2 and 4 are not accessible on existing roadways. TheSRTsite also
+will significantlyminimizethe needto travel betweenseparate, non -adjacentfacilities,
+reducingthe needfor additional transportationfacilities and associatedland.
+Operational efficiency. LocatingtheMulti -PurposeAthleticand EventsCenteron theSouth
+RedmondTractwould allow thefacility to utilize centralizedresourcesand supportfacilities
+in usefor the existing Fairgrounds, including parking, concessions, administration, and
+maintenance. If the expansionwerelocatedon anyof theother sites, redundantfacilities
+would need to be developed and/ or significant transportation needs and associated impacts
+would be incurred in transporting goods and services between the two sites, as described in
+more detail below.
+2. Orderlyand economicprovision of publicfacilities andservices;
+The location of the South Redmond Tract would allow a more orderly and efficient provision of public
+facilities than alternative sites. Water and wastewater lines are available along the alignment of 19th
+Street and terminate at the northwest corner of the site. Alternatively, sites 2, 3, and 4 would each
+require an extensionof sewerand water linesof at leastone mile. Additionally, Sites2-4 arenot capable
+of accommodatingall of theproposedusesfor the Fairgroundsexpansionand OMDrelocation,
+therefore, the uses would need to be located on separate sites and be served with separate facilities.
+Alternatively, all usescan utilize thesameinfrastructure if locatedon theSouthRedmondTract.
+TheSouth Redmond Tract currently has sufficient water, electric, natural gas, and telecommunications
+capacityto servetheproposeduses, asdemonstratedin thefindings in responseto StatewidePlanning
+Goal11. Thereis not currentlysufficientcapacityfor wastewaterserviceto the Tract, but DSLhasagreed
+to finance the replacement of a pump station and construction of associated infrastructure to establish
+sufficient wastewater capacity to serve the site. Sites2 and 4 would connect to the some water and
+wastewaterlines, and thus requiresimilar capacityimprovementsto theSouthRedmondTract. Site3
+was included in the Infrastructure Analysis completed for the application to the large lot industrial sites
+program. That analysisfound that the sufficient infrastructure capacity could be developed to serve the
+site but would be costlier to provide than the capacity improvements needed to serve the South
+Redmond Tract.
+As the South Redmond Tract is in closer proximity to existing public facilities and requires capacity
+improvements that are similar or less costly than Sites 2-4, the Site allows for a relatively more efficient
+and orderly provision of public facilities.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 36 of 55
+More detailed information related to public facilities and services can befound in Section 3.2 of this
+report, under the findings in response to Statewide Planning Goals 11 and 12.
+3. Comparative environmental, energy, economic and social (ESEE) consequences, and
+Environmental consequences. As discussed in the findings under Goals 5- 7 in Section 3.2 of this
+report, Site 1 contains no Goal 5 resources, permanent or seasonal water, wetlands, habitat for
+sensitive, threatened or endangered plant or animal species, wilderness values, and no mineral
+potential. Sites 2, 3, and 4 do not contain any water and are not within any County inventories of
+wetlands or habitat areas. A more detailed environmental assessment of Sites 2, 3, and 4 has not
+been completed, however, given that the environmental conditions of Site 1 has been assessedand
+no significant environmental impacts were identified, the relative environmental consequences of
+development on Site 1 are similar or less significant than the environmental consequences of
+development on Sites 2, 3, and 4.
+A portion of Site3 is locatedwithin a DeschutesCountyLandscapeManagementZone, an overlay
+zone intended to protect Goal 5 scenic resources in the city. Development of this site, therefore, may
+have more significant consequences on local scenic resources.
+Additionally, the adjacencyof Site 1 with the existingFairgroundsand RedmondUGBprovides
+transportation efficiencies that encourage non - motorized transportation which will reduce impacts
+on air quality. Sites2, 3, and 4, by comparison, arefurther from the existingFairgroundsand are
+not connected to existing pedestrian and bicyclefacilities within the Redmond UGB.
+Energyconsequences. As noted above, the adjacencyof Site 1 to the existingFairgroundsOna
+regionally central location provides transportation efficienciesthat can encouragenonmotorized
+transportation and reduce VehicleMiles Traveled (VM7), therefore conserving energy in comparison
+to Sites2, 3, and 4. Therelocation of the OMDfacility will significantlyshorten trips betweenthe
+facility and the OMDtraining grounds. Theexpansionof 4-Hfacilities adjacentto existingfacilities
+eliminates the needfor trips between the site and existing off-site locations for specific activities. The
+siting of the newMulti -PurposeAthleticand EventsCenterin a location that is central in the region
+will reduce overall VMT compared to less central locations. Sites 2, 3, and 4 lack these advantages
+and development of them would result in more significant energy consequences.
+Economic consequences. Asnoted infindings under Goal 9 in Section 3.2 of this report, the expanded
+RV park, OHV tracks, and new Multi - Purpose Athletic and Events Center will generate economic
+activity by attracting visitors and supporting tourism in the city and region. By centralizing these
+facilities on one site with the existing facilities, expansion of the Fairgrounds onto Site 1 can offer
+greater efficiency, convenience, andflexibility to potential usersin comparisonto Sites2, 3, and 4.
+Social consequences. None of the potential sites are adjacent to any existing city neighborhoods or
+residential areas, in order to avoid potential land use conflicts related to traffic, parking, noise, or
+lighting. Additionally, all land designated for other usesin the City of Redmond Urban Reserveswere
+excluded from the OMD and Multi -Purpose Athletic and EventsCenter study areas in order to avoid
+displacingland previouslyidentifiedfor other needsthat contribute to the residentialand social
+fabric of the community, including housing, parks, and commercial services. Finally, the educational
+Hearings Officer Decision 247 - 18 -000752 - PA
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 37 of 55
+and recreational usesproposed for the site will contribute to the social capacity of the community
+and region. There is no meaningful difference between the sites under consideration in relation to
+this criterion.
+This provision is met.
+8) Thecity must apply the boundary location factors of Goal 14in coordination with service
+providers and state agencies, including the Oregon Department of Transportation ( ODOT)
+with respect to Factor 2 regarding impacts on the state transportation system, and the
+Oregon Department of Fish and Wildlife ( ODFW) and the Department of State Lands (DSL)
+with respect to Factor 3 regarding environmental consequences. " Coordination" includes
+timely notice to agencies and service providers and consideration of any recommended
+evaluation methodologies.
+FINDING: The study area contains no identified wildlife resources, wetlands, or floodplains. Therefore
+coordination with ODOT, ODFW, and DSL is not required. However, the applicant ( DSL) has
+collaborated extensively with organizations in the development of the application, including ODOT.
+This provision is met.
+9) In applying Goal 14 Boundary Location Factor 2 to evaluate alternative locations under
+section ( 7), the city must compare relative costs, advantages and disadvantages of
+alternative UGB expansion areas with respect to the provision of public facilities and
+services needed to urbanize alternative boundary locations. For purposes of this section,
+the term " public facilities and services" means water, sanitary sewer, storm water
+management, and transportation facilities. The evaluation and comparison under
+Boundary location Factor 2 must consider.
+a) The impacts to existing water, sanitary sewer, storm water and transportation
+facilities that serve nearby areas already inside the UGB;
+b) The capacity of existing public facilities and services to serve areas already inside the
+UGB as well as areas proposed for addition to the UGB; and
+c) The need for new transportation facilities, such as highways and other roadways,
+interchanges, arterials and collectors, additional travel lanes, other major
+improvements on existing roadways and, for urban areas of 25,000 or more, the
+provision of public transit service.
+FINDING: As noted previously, in comparison to the other sites, Site1will havelower costsassociated
+with provision of water, sanitary sewer and storm water facilities due to its proximity to existing
+facilities located along 19th Street. This provision is met.
+10) The adopted findings for UGB amendment must describe or map all of the alternative
+areas evaluated in the boundary location alternatives analysis.
+FINDING: The text and figures within the applicant' s burden of proof and Figure 10 within this
+decision describe and map all alternate areas evaluated in the boundary location alternatives
+analysis.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 38 of 55
+In conclusion, the applicant has demonstrated the issues and challenges with Sites 2 and 3 in
+association with the Third Priority lands boundary criteria. Site 1, the subject property is the best
+option for location, comparative to the other sites. This provision is met.
+Figure 10 - Boundary Location Analysis - All Study Areas
+Highway Redmond UGB Suitable Third Priority Lands, All Study Areas
+saw--
+Arterial
+a
+4 Urban Reserve Areas { First Priority Lands) First Priority Lands - Exception Areas
+Collector • 1 Mile Buffer from UGB First Priority Lands - Nonresource
+rr :
+Water tines 1. 5 Mile Buffer from UGB Third Priority Lands - Irrigated EFU
+Sewer lines Third Priority Lands . Dry EFU
+Ods
+Mlks
+EXHIBIT " I"' TO ORDINANCE NO. 2019- 004 Page 39 of 55
+Division 15, Statewide Planning Goals and Guidelines
+Goal 1 - Citizen Involvement
+Todevelopa citizen involvementprogram that insuresthe opportunityfor citizensto be in
+involved in all phases of the planning process.
+FINDING: Staff adhered to Title 22 of the Deschutes County Code - Procedures Ordinance in
+providingadequatenoticeto partiesinvolved. Noticeof Applicationand Noticeof PublicHearing
+was mailed to all property owners within 750 feet of the subject property and to relevant agencies.
+Additionally, Noticeof PublicHearingwaspostedinthe BendBulletinmorethan20daysinadvance
+of the initial public hearing. Following the HearingsOfficers proceedings, a second hearingwill take
+place before the Board of County Commissioners. This goal is met.
+Goal 2 - Land Use Planning
+To establish a land useplanning process and policy framework as a basisfor all decision and
+actions related to use of land and to assure an adequate factual basefor such decisions and
+actions.
+FINDING: The applicant has submitted concurrent applications with the City of Redmond and
+DeschutesCountyin accordancewith establishedland useplanningprocesses. Theapplicanthas
+provided a burden of proof discussing the factual basis for approval of the proposal. This goal is
+met.
+Goal 3 - Agricultural Lands
+To preserve and maintain agricultural lands.
+FINDING: The subject property is designated as Agriculture and zoned ExclusiveFarm Use. The
+applicant provided the following response to this goal in the burden of proof:
+the land has never been farmed and is not suitable for agricultural production. Soils on the property
+are designatedas ClassVll and Vlll and the property lacksirrigation water rights. ThelandszonedEFU
+adjacentto theproperty are not activelyusedfor agriculturalproduction due to similar constraints. The
+proposedUGBamendmentmeetsthegoal ofpreservingagriculturalland asthepropertydoesnot include
+viable agricultural land and can be made compatible with any future farming uses on adjacent land.
+Staff recognizes this application is unique as the property was identified through a regional needs
+assessment. The applicant analyzed alternatives previously in this application to preserve and
+maintain agricultural lands to the greatest extent possible. Staff finds the applicant provided
+sufficient analysisthat this property is not viable agricultural land and cannot be made compatible
+with future farm uses. Therefore, this goal is met.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 40 of 55
+Goal 4 - Forest
+To preserve and maintain agricultural lands.
+FINDING: The subject property does not include forest land, therefore this goal does not apply.
+Goal 5 - Open Space Scenic and Historic Areas. and Natural Resources
+To protect natural resources and conserve scenic and historic areas and open spaces.
+FINDING: The applicant provided the following response to this goal in the burden of proof:
+No part of the subjectproperty is identified in DeschutesCounty's Goal5 inventoryof openspacesand
+natural, scenic, cultural, or historic resources. As described in Section 2. 1.1 of this report, the property
+does not include any wetlands, habitat for sensitive, threatened or endangered plant or animal species,
+wilderness values, and no mineral potential or mineral rights. Historic and cultural resources surveys
+conducted on the site indicate that the Tract was not occupied by prehistoric or historic peoples and
+containsno significanthistoric or cultural resources. Asno part of the property is identified in a Goal5
+inventoryand additionalsurveyshavefound no significantresources, this proposedamendmentis
+consistent with Goal 5.
+Staff agreesthis goal does not apply asthe site does not contain any Goal 5 resourceslisted within
+the Deschutes County Comprehensive Plan.
+Goal 6 - Air Water and Land Resource Quality
+To maintain and improve the quality of the air, water and land resources of the state.
+FINDING: The applicant provided the following response in the burden of proof:
+The (South Redmond} Tract has no evidence of permanent or seasonal water and the National Wetlands
+InventoryMap doesnot identify wetlandson the Tract. Any potentialnegativeimpactsof future
+developmenton the quality of air, water or land resourceswill be identified and mitigated during the
+development review process, as the specific impacts cannot be known until a specific development is
+proposed. TheCityof Redmondhasadequateprovisionsin placeto protect the quality of air, water, and
+land resourcesfrom negativeimpacts of new development. In addition, state and federal regulations
+administered by the USEnvironmentalProtectionAgencyand OregonDepartment of Environmental
+Qualityregulateimpactsof newdevelopment. Inaddition, stateandfederalregulationsadministeredby
+the US Environmental Protection Agency and Oregon Department of Environmental Quality regulate
+impacts on air resources to ensure clean air and will apply to any future development located on the
+subject site. Therefore, this UGB amendment is consistent with Goal 6.
+Staff agrees with the applicant that the impact on air, water, and land resource quality will be
+reviewed during the actual time of development. Stafffinds this goal is met.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 41 of 55
+Goal 7 - Areas Subject to Natural Disasters and Hazards
+Toprotect people and property from natural hazards.
+FINDING: The applicant provided the following response in the burden of proof:
+Thereare no areason thesite that are subjecttoflooding or landslideactivity. Wildfirehazardsare not
+substantiallydifferentfrom other areaswithin or adjacentto the RedmondUGB, and developmentof the
+site could improvefire protection by providing accessand water infrastructure. Therefore, inclusionof
+this site within the UGB and subsequent development will be consistent with Goal 7.
+Staff agrees with the applicant that there are no areas on site within a floodplain or designated as
+high landslide risk. Additionally, the property is currently within and will continue to be within the
+jurisdiction of Redmond Fire and Rescue District. This goal is met.
+Goal 8 - Recreational Needs
+To satisfy the recreational needs of the citizens of the state and visitors and, where
+appropriate, to provide for the siting of necessaryrecreational facilities including destination
+resorts.
+FINDING: The applicant provided the following response in the burden of proof:
+Theprimary purposeof the Fairgroundsexpansionand newMulti -PurposeAthleticand EventsCenteris
+to provide for the recreational needs of local and regional residents and visitors. The Fairgrounds
+expansion site will incorporate a number of recreational facilities in an accessible and convenient
+location, including an RVpark for camping, equestrian trails, off-road vehicle trails, and potentially a
+shootingrangefacility. TheMulti -PurposeAthleticandEventsCenterwillincludea varietyoffacilitiesable
+to host eventsand informal usefor a widerange of sportsand activities, includingbasketball, volleyball,
+wrestling, martial arts, soccer, football, lacrosse, baseball, softball, cheerleading, anddancecompetitions.
+The facilities to provide for these recreational opportunities are specialized and often not inefficient to
+provide at a local scale. As a regional facilities that generates revenue from both local use and visitors,
+the Fairground employs an economic and operational model that is not available to most general parks
+and recreation departments. Thisamendment proposes to increase the capacity of the Fairgrounds facility
+and organization to provide a wide range of recreational opportunities to citizens of the state and visitors,
+therefore, the proposal is consistent with Goal 8.
+Staff agrees with the applicant' s analysis and finds that this project is specifically targeting the
+fulfillment of recreational needs and thereby meets this goal.
+Goal 9 - Economic Development
+To provide adequate opportunities throughout the state for a variety of economic activities
+vital to the health, welfare, and prosperity of Oregon' s citizens.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 42 of 55
+FINDING: The applicant provided the following response in the burden of proof:
+Theprimary purposeof the facilitiesis to meetthe needsfor defense, recreation, and non-profit
+educationalopportunitiesfor residentsof theCityof Redmond, DeschutesCounty, and theCentralOregon
+region.
+However, severalof the Fairgroundsfacilities planned under this amendment will generate economic
+activityand employmentopportunities by attracting visitorsand supporting tourism within the city and
+region. The RVpark will accommodate more visitors to the Fairgrounds during the County fair and for
+year- round events at the Fairgrounds or general tourism in the area. The Multi - Purpose Athletic and
+Events Center... will attract visitors from a wide area that includes Oregon, Washington, and Northern
+California. The OHV tracks will enable the Fairgrounds to accommodate a wider variety of off- road racing
+competitions and other events. The facility' s support of tourism is consistent with the economic
+developmentstrategiesof the Cityof Redmondand CentralOregon. Tourismleveragesthestrengthsand
+opportunitiespresentedby CentralOregon'sfavorable climate, natural beauty, and outdoor recreational
+opportunities. Further, thefacility is strategicallylocated to support tourism as it is regionallycentral,
+adjacent to the Redmond Municipal Airport, and adjacent to Juniper Golf Course.
+As this amendment will generate economic opportunities by supporting a regional strategy to increase
+tourism, it is consistent with Goal 9.
+Staff agrees that the expansion of the Fairgrounds and relocation of the Oregon Military
+DepartmentArmoryincreasethe varietyof economicactivitiesin the areawhilepromotinghealth,
+welfare, and prosperity of nearby and statewide citizens. This goal is met.
+Goal 10 - Housing
+To provide for the housing needs of citizens of the state.
+FINDING: The applicant provided the following response in the burden of proof:
+The South Redmond Tract is not identified as a suitable location for residential development in the City of
+RedmondComprehensivePlan. Thecity has identified sufficient acreageof land for future residential
+development outside the UGBin Urban ReserveAreas within the Eastside Framework Plan and lands to
+thewestof theexistingUGB. ThisUGBamendmentisnotproposedto meetresidentiallandneedsand
+will not displace land identified as needed for residential uses. Therefore, the proposal is consistent with
+Goal 10.
+Staff agreeswith the applicant's analysis. Additionally, this location was identified through a regional
+needsanalysisfor suitingthe needsof this specifictypeof development. TheCityof Redmondhas
+identified other key areasfor residential development. This goal is met.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 43 of 55
+Goal 11: Public Facilities and Services
+Toplan and develop a timely, orderly and efficient arrangement of public facilities andservices
+to serve as a framework for urban and rural development.
+FINDING: The applicant provided a detailed response on pages 76 and 77 of the burden of proof,
+which discuss the specific conditions and planning efforts to ensure the subject property has
+adequate access to public facilities and services. The following excerpt provides valuable context on
+the coordination between this application and the large lot industrial proposal on the remainder of
+the subject property ( file no. 247 -18 -000751 -PA).
+Publicfacilityplanningfor theFairgroundsexpansionoccurredin coordinationwiththeadjacentlarge
+lot industrial uses. The City of Redmondevaluatedinfrastructure needsfor serving the entire South
+Redmond Tract through the City's application to COICto include the Tract in the regional large lot
+industrial program ( Exhibit A). A preliminary Infrastructure Analysis was included in that application. The
+analysis assessedthe infrastructure capacity and relative efficiency of infrastructure provision compared
+to an alternative site east of the UGB. Based on this analysis and subsequent assessments performed
+through updatesto the City's WastewaterMaster Plan and WaterMaster Plan, DSLagreedto finance
+constructionof allfacilities necessaryto servethesite through an MOAwith the Cityof Redmond (Exhibit
+B). The agreement requires that DSL construct the facilities within 180 days of approval of this
+amendment..
+Staff finds that the applicant and other agencies have adequately planned and arranged for the
+arrangement of public facilities and services. As the applicant is requesting a redesignated to be
+included in the City of Redmond's Urban Growth Boundary, the applicant has prepared for urban
+development on the subject property. This goal is met.
+Goal 12: Transportation
+To provide and encourage a safe, convenient and economic transportation system.
+FINDING: Conformance with Goal 12 is addressed in detail below, under the OAR Division 12 -
+Transportation Planning criteria of this report.
+Goal 13: Energy Conservation
+To conserve energy.
+FINDING: The applicant provided the following response in the burden of proof:
+Energyconservationwill be achievedby thisamendmentthroughtransportationefficienciesandland
+use%onstruction efficiencies. The site's adjacency with the existing Fairgrounds and regionally central
+location provides transportation efficiencies that can encourage non - motorized transportation and
+reduce Vehicle Miles Traveled (VMT). The relocation of the OMD facilities will significant shorten trips
+betweenthefacility and the OMDtraining grounds. Theexpansionof 4-Hfacilities adjacent to existing
+EXHIBIT' F" TO ORDINANCE NO. 2019- 004 Page 44 of 55
+facilities eliminates the needfor trips between the site and existing off-site locations for specific activities.
+Thesiting of the new Multi -PurposeAthletic and EventsCenterin a location that is central in the region
+will reduce overall VMT compared to less central locations. The location of the proposed uses directly
+adjacentto theexistingFairgroundseliminatestheneedto siteand constructredundantsupportfacilities,
+whichconservesenergythat wouldbeusedfor constructionandongoingoperationsof thosefacilities.
+Both the expansionof existingusesand the new usescan utilize existing, centralizedsupportfacilities,
+including parking, concessions, administration, and maintenance. If the expansion were located
+elsewhere, redundant facilities would need to be developed for these support needs.
+Asthe location of theproposedamendmentprovidestransportation and land useefficienciescompared
+to existinglocationsand alternativerelocationsites, the amendmentis consistentwith the intent of Goal
+13 to conserve energy.
+Staff finds that the applicant has demonstrated the amendment will achieve energy conservation.
+This goal is met.
+Goal 14 - Urbanization
+Toprovide for an orderly and efficient transition from rural to urban land use, to accommodate
+urban population and urban employment inside urban growth boundaries ( UGB), to ensure
+efficient use of land, and to provide for livable communities.
+FINDING: The applicant provided the following response in the burden of proof:
+Thepurpose and intent of Goal 14 was consideredthroughout the developmentof this proposedUGB
+amendment. Theproposal providesfor orderly and efficient transition to urban land usesbecausethe
+site is directly adjacent to the Cityof Redmond's existingUGB, can be servedby a direct expansionof
+existingpublicfacilities, and becausethe proposeduseof the sitefor specificpublicfacilities is suitable
+and compatible with existing uses in the area. Theproposal accommodates the needfor specific public
+facilities in an accessiblelocation. Severalof the proposed usesrepresentexpansionof useslocatedat
+the existingFairgroundssite, makingfor efficient useof both land and the transportation systemby
+providing direct accessand connectionsbetweenthe existing and expandedfacilities. Theproposal
+generallycontributesto livablecommunitiesby increasingrecreationand employmentopportunities, the
+specific contributions to livability needs are addressed in other findings through this report, including
+conformance with Statewide Planning Goal 12 and the Great Neighborhood Principles provided under
+the City of Redmond's Master Planning Requirements.
+The master planning requirements mentioned by the applicant are found within the application
+materials, but are not reviewedthrough the DeschutesCounty process. Stafffinds the applicant has
+demonstrated compliance with this goal based on the location of the subject property, the joint use
+of existing facilities, and concurrent master planning processtaking placewith the Cityof Redmond.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 45 of 55
+Urban Growth Boundaries: Urban growth boundaries shall be established and maintained by
+cities, counties and regional governments to provide land for urban development needs and
+to identify and separate urban and urbanizableland from rural land. Establishmentand
+changeof urban growth boundaries shall be a cooperative process among cities, counties and,
+where applicable, regional governments.
+An urban growth boundary and amendments to the boundary shall be adopted by all cities
+within the boundary and by the county or counties within which the boundary is located,
+consistent with intergovernmental agreements, except for the Metro regional urban growth
+boundaryestablishedpursuantto ORSchapter268, whichshall beadoptedor amendedby the
+Metropolitan Service District.
+FINDING: The applicant provided the following response in the burden of proof:
+This proposal conforms to established processesfor designating and amending the UGB of the City of
+Redmond. Theproposal is a resultof a cooperativeprocessbetweenDSL, the Cityof Redmond, Deschutes
+County, andotheragenciesandjurisdictions. TheUGBamendmentisproposedfor adoptiontoboththe
+Cityof Redmondand DeschutesCounty, in accordancewith theprovisionsof the UGB,JointManagement
+Agreement between the City and County.
+Staff agrees with the applicant' s analysis. The applicant is pursuing concurrent approval between
+the Cityof Redmond and DeschutesCounty, in which the property is located. This goal is met.
+Land Need. Establishment and change of urban growth boundaries shall be based on the
+following.
+1) Demonstrated need to accommodate long range urban population, consistent with a 20 -
+year population forecast coordinated with affected local governments, or for cities applying
+the simplified process under ORS chapter 197A, a 14 year forecast; and
+FINDING: The applicant provided the following response in the burden of proof:
+TheCityof Redmondhas adopted a population forecast through theyear 2025 in coordination with
+DeschutesCountyand the citiesof Bendand Sisters. However, the proposedamendmentis intendedto
+address a needfor specific public facilities that is not directly proportional to local or regional population
+growth.
+The applicant is pursuing the amendment to the UGB to accommodate the growth of the Deschutes
+CountyFairgroundsandthe OregonMilitaryDepartmentsite. Theapplicanthasprovidedanalysis
+related to land need and site analysis below.
+2) Demonstrated need for housing, employment opportunities, livability or uses such as public
+facilities, streets and roads, schools, parks or open space, or any combination of the need
+categories in this subsection ( 2). In determining need, local government may specify
+characteristics, such as parcel size, topography or proximity, necessary for land to be suitable
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 46 of 55
+for an identified need. Prior to expanding an urban growth boundary, local governments shall
+demonstrate that needs cannot be reasonably be accommodated on land already inside the
+urban growth boundary.
+FINDING: The applicant provided the following response in the burden of proof:
+The proposed amendment includes facilities that are publicly owned and intended to address multiple
+public needs. Theprimary needsinclude national defense (OMDfacility), recreation (RVpark, Multi -
+Purpose Athletic and Events Center, 4- H facilities, and OHV tracks), and non- profit educational
+opportunities ( 4-Hfacilities, operated by Oregon State University Extension program).
+These public facilities are distinct from public facilities defined under Goal 11, which concerns water,
+sewer, and transportation facilities fas defined in OAR 660- 011- 005( 5)1.
+Theprimary purposeof thefacilities and theassociatedUGBamendmentisto meeta publicfacility need.
+The RVpark, Multi -Purpose Athletic and Events Center, and OHV tracks address a secondary need for
+direct and indirect employment opportunities that may be provided by attracting visitors and supporting
+tourism to the city and region. However, as addressed in the Goal 9 findings under Section 3.2 of this
+report, the employmentbenefitsof this developmentare secondaryto the publicfacility needand the
+land is not considered employment land.
+TheCityof Redmondand DeschutesCountyspecifiednecessarysite characteristicsfor land to besuitable
+for the public facilities and demonstrates that the need cannot be accommodated on land within the
+existingUGB. Seethefindings associatedwith OAR660-024-0050, 660-024-0065, and 660-024-0067, in
+section 3. 1 of this report.
+The applicant stated previously that the location of the subject property is ideal for expansion and
+it will reduce the expansion of existing public facilities defined by OAR660-011-005(5) suchaswater,
+sewer, and electricity. Additionally it allows for close proximity of the existing operations on the
+property to allow for efficient transportation of goods, services, and employees. The subject
+property is 160 acres and is not located in close proximity to existing residential development,
+allowing for best use of the property for the recreation, education, and national defense uses. This
+goal is met.
+Boundary Location: Thelocation of the urban growth boundary and changesto the boundary
+shall be determined by evaluating alternative boundary locations consistent with ORS197.298
+and with consideration of the following factors:
+1) Efficient accommodation of identified land needs:
+FINDING: The applicant provided the following response in the burden of proof:
+The location of the proposed uses directly adjacent to the existing Fairgrounds provides several
+efficiencies. Boththe expansionof existingusesand thenewusescanutilizeexisting, centralizedfacilities,
+including parking, concessions, administration, and maintenance. If the expansion were located
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 47 of 55
+elsewhere, redundant facilities would need to be developed. Theadjacency with the existing Fairgrounds
+also allows the developments to utilize existing infrastructure and future infrastructure improvements
+required for the proposed large lot industrial site to the south. The proposed location also will significantly
+minimize the need to travel between separate, nonadjacent facilities, reducing the need for additional
+transportation facilities and associated land.
+Staff finds the applicant has demonstrated efficient accommodation of identified land needs on the
+subject property. This goal is met.
+2) Orderly and economicprovision of public facilities and services;
+FINDING: The applicant provided the following response in the burden of proof:
+Thesite canbeservedby a directand orderlyextensionof existingpublicfacilities. Transportation, water,
+and wastewater facilities will be provided along the alignment of 19th Street, an arterial street planned
+for future expansionsouth of the site to serveother rural uses. Thedirect extensionof 19thstreet will
+provide aframeworkfor orderly developmentof the site and potentialfuture developmentto thesouth.
+There is sufficient water, electric, natural gas, and telecommunications capacity to serve the site. Thereis
+not currentlysufficientcapacityfor wastewaterserviceto the Tract, but DSLhasagreedtofinance replace
+a pump station and constructassociatedinfrastructure to establishsufficient wastewatercapacityto
+serve the site. The MOA between DSLand the City of Redmond requires that DSLconstruct all necessary
+publicfacilities to servethesite upon approvalof this amendment. More detailedinformation related to
+public facilities and services can be found in Section 3.2 of this report, under the findings in response to
+Statewide Planning Goals 11 and 12.
+Staff finds that the applicant has demonstrated orderly and economic provision of public facilities
+and services. This goal is met.
+3) Comparative environmental, energy, economic and social consequences, and
+FINDING: The applicant provided the following response in the burden of proof:
+TheCityof Redmondand DeschutesCountyhasconsideredthe relativeenvironmental, energy, economic
+and socialconsequencesof developmentof thesite, asdetailedbelow.
+Environmental consequences. As discussed in the findings under Goals 5- 7 in Section 3.2 of this
+report, the site contains no permanent or seasonal water, wetlands, habitat for sensitive,
+threatened or endangered plant or animal species, wilderness values, and no mineral potential.
+Thesite's adjacencywith the existingFairgroundsand RedmondUGBprovides transportation
+efficiencies that encourage non -motorized transportation. Specific impacts to air, land, or water
+quality canbe addressedat the time of development.
+Energyconsequences. Asnoted above, thesite's adjacencywith the existingFairgroundsand
+regionally central location provides transportation efficiencies that can encourage nonmotorized
+transportation and reduce VehicleMiles Traveled (VM7), therefore conserving energy. The
+relocationof the OMDfacility will significantlyshorten trips betweenthefacility and the OMD
+traininggrounds. Theexpansionof 4-Hfacilities adjacentto existingfacilities eliminatesthe need
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 48 of 55
+for trips between the site and existing off-site locations for specific activities. Thesiting of the new
+Multi - Purpose Athletic and Events Center in a location that is central in the region will reduce
+overall VMT compared to less central locations.
+Economic consequences. As noted in findings under Goal 9 in Section 3.2 of this report, the
+expanded RV Park, OHV tracks, and new Multi - Purpose Athletic and Events Center will generate
+economic activity by attracting visitors and supporting tourism in the city and region. By
+centralizingthesefacilities on onesite with the existingfacilities, the Fairgroundscanoffer
+efficiency, convenience, and flexibility to potential users and is projected to attract more year-
+round events and visitors to the region.
+Social consequences. The proposed location for the facilities is not adjacent to any existing city
+neighborhoods or residential areas, in order to avoid potential land use conflicts related to traffic,
+parking, noise, or lighting. Additionally, all land designatedfor other usesin the Cityof Redmond
+Urban Reserves were excluded from the alternative sites analysis for the Multi - Purpose Athletic
+and Events Center in order to avoid displacing land previously identified for other needs that
+contribute to the residential and social fabric of the community, including housing, parks, and
+commercialservices. Finally, the educational and recreational usesproposedfor the site will
+contribute to the social capacity of the community and region.
+Staff agrees with the applicant' s analysis and finds that the environmental, energy, economic, and
+social consequences have been addressed within this application. This goal is met.
+4) Compatibility of the proposed urban uses with nearby agricultural and forest activities
+occurring on farm and forest land outside the UGB.
+FINDING: The applicant provided the following response in the burden of proof:
+There are no active farm or forest activities near the South Redmond Tract. The land to the south and east
+of theTractiszonedfor ExclusiveFarmUse, but isnotsuitableor usedfor agricultureduetopoorsoil
+quality and lackof irrigation rightsfor theland. Asa result, developmentof thesite wouldbe compatible
+with farm and forest use outside the UGB and would have no impacts on such uses. Additional findings
+associated with Statewide Goal 3 (Agricultural Lands) are found in Section 3.2 of this document.
+Staff agrees that there is no evidence of commercial agriculture taking place in the area due to the
+soil quality, parcel size, and proximity to the Redmond city limits. Thisgoal is met.
+Urbanizable Land: Land within urban growth boundaries shall be considered available for
+urban development consistent with plans for the provision of urban facilities and services.
+Comprehensive plans and implementing measures shall manage the use and division of
+urbanizable land to maintain its potential for planned urban development until appropriate
+public facilities and services are available or planned.
+FINDING: The applicant provided the following response in the burden of proof:
+Uponapprovalof thisproposedamendment, DSLis obligatedby the land exchangeandsaleagreements
+with DeschutesCountyand DSLto constructall necessaryinfrastructure to servethe sites. TheServicing
+EXHIBIT' F" TO ORDINANCE NO. 2019- 004 Page 49 of 55
+Agreement requires the construction to be complete within 180 days of any contracted interest to convey
+the SRTor part thereof.6 In addition, applications for Comprehensive Plan and Zoning Map amendments
+are beingsubmitted and reviewed concurrently with the proposed UGBamendment application. Approval
+of the package of amendments will result in application of urban Comprehensive Plan and Zoning
+designations which will allow for urbanization as soon as public facilities are in place to serve the
+development.
+Staff finds the applicant has demonstrated compliance with this provision.
+Single Family Dwellings in Exception Areas: Notwithstanding the other provisions of this goal,
+the commission may by rule provide that this goal does not prohibit the development and use
+of one single-family dwelling on a lot or parcel that:...
+FINDING: The application is not for a single family dwelling. This goal does not apply.
+Rural Industrial Development. Notwithstanding other provisions of this goal restricting urban
+uses on rural land, a county may authorize industrial development, and accessory uses
+subordinate to the industrial development, in building of any size and type, on certain lands
+outside urban growth boundaries specified in ORS 197. 713 and 197. 714 consistent with the
+requirements of those statutes and any applicable administrative rules adopted by the
+Commission.
+FINDING: The application is not for a rural industrial development. This goal does not apply.
+Goals 15- 19
+Willamette rivergreenway, estuarine resources, coastal shorelands, beaches and dunes, ocean
+resources.
+FINDING: As stated previously, the subject property is not located within the Willamette River
+Greenway nor within a Coastal boundary. Goal 19 does not apply to UGB amendments. These goals
+do not apply.
+Division 12, Transportation Planning
+FINDING: The applicant provided a Transportation Analysis Memorandum as Exhibit H of the
+burden of proof. The memorandum was created by Kittleson & Associates and analyzes the entire
+South Redmond Tract, not only the subject property within this application. Generally, the traffic
+study report major impacts to the transportation system could be mitigated by transportation
+system improvements planned by the City of Redmond.
+OAR 660- 012- 0060 Plan and Land use Regulation Amendments
+1) If an amendment to afunctional plan, an acknowledged comprehensive plan, or a land
+use regulation ( including a zoning map) would significantly affect an existing or planned
+transportation facility, then the local government must put in place measures as
+EXHIBIT " I"' TO ORDINANCE NO. 2019- 004 Page 50 of 55
+provided in section ( 2) of this rule, unless the amendment is allowed under section ( 3),
+9) or ( 10) of this rule. A plan or land use regulation amendment significantly affects a
+transportation facility if it would:
+a) Change the functional classification of an existing or planned transportation facility
+exclusive of correction of map errors in an adopted plan),
+b) Change standards implementing a functional classification system, or
+c) Result in any of the effects listed in paragraphs ( A) through ( C) of this subsection
+based on projected conditions measured at the end of the planning period identified
+in the adopted TSP. As part of evaluating projected conditions, the amount of traffic
+projected to be generated within the area of the amendment may be reduced if the
+amendment includes an enforceable, ongoing requirement that would
+demonstrably limit traffic generation, including, but not limited to, transportation
+demand management. This reduction may diminish or completely eliminate the
+significant effect of the amendment.
+A) Types or levels of travel or access that are inconsistent with the functional
+classification of an existing or planned transportation facility,
+e) Degrade the performance of an existing or planned transportation facility such
+that it would not meet the performance standards identified in the TSP or
+comprehensive plan, or
+C) Degrade the performance of an existing or planned transportation facility that
+is otherwise projected to not meet the performance standards identified in the
+TSP or comprehensive plan.
+2) In meeting the purposes described in section ( 1), coordinated land use and
+transportation plans should ensure that the planned transportation system supports a
+pattern of travel and land use in urban areas that will avoid the air pollution, traffic
+and livability problems faced by other large urban areas of the country through
+measures designed to increase transportation choices and make more efficient use of
+the existing transportation system.
+3) The extent of planning required by this division and the outcome of individual
+transportation plans will vary depending on community size, needs and circumstances.
+Generally, larger and faster growing communities and regions will need to prepare
+more comprehensive and details plans, while smaller communities and rural areas will
+have more general plans. For all communities, the mix of planned transportation
+facilities and services should be sufficient to ensure economic, sustainable and
+environmentally sound mobility and accessibility for all Oregonians. Coordinating land
+use and transportation planning will also complement efforts to meet other state and
+local objectives, including containing urban development, reducing the cost of public
+services, protecting farm and forest land, reducing air, water and noise pollution,
+conserving energy and reducing emissions of greenhouse gases that contribute to
+global climate change.
+a) In all urban areas, coordinated land use and transportation plans are intended to
+provide safe and convenient vehicular circulation and to enhance, promote and
+facilitate safe and convenient pedestrian and bicycle travel by planning a well-
+connected network of streets and supporting improvements for all travel modes.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 51 of 55
+b) In urban areas that contain a population greater than 25, 000 persons, coordinated
+land use and transportation plans are intended to improve livability and
+accessibility by promoting the provision of transit service where feasible and more
+efficient performance of existing transportation facilities through transportation
+system management and demand management measures.
+c) Within metropolitan areas, coordinate land use and transportation plans are
+intended to improve livability and accessibility by promoting changes in the
+transportation system and land use patters. A key outcome of this effort is the
+reduction in reliance on single occupant automobile use, particularly during peak
+periods. To accomplish this outcome, this division promotes increased planning for
+alternative modes and street connectivity and encourages land use patterns
+throughout urban areas that make it more convenient for people to walk, bicycle,
+use transit, use automobile travel more efficient, and drive less to meet their daily
+needs. The result of applying these portions of the division will vary within
+metropolitan areas. Some parts of urban areas, such as downtowns, pedestrian
+districts, transit - oriented developments and other mixed- use, pedestrian friendly
+centers, will be highly convenient for a variety of modes, including walking, bicycling
+and transit, while others will be auto - oriented and include more modest measures
+to accommodate access and circulation by other modes.
+4) This division sets requirements for coordination among affected levels of government
+and transportation service providers for preparation, adoption, refinement,
+implementation and amendment of transportation system plans. Transportation system
+plans adopted pursuant to this division fulfill the requirements for public facilities
+required under ORS19Z 712(2)(e), Goal 11 and chapter 660, division 11, as they relate to
+transportation facilities. The rules in this division are not intended to make local
+government determinations " land use decision" under ORS 197. 015( 10). The rules
+recognize, however, that under existing statutory and case law, many determinations
+relating to the adoption and implementationof transportation plans will be land use
+decisions.
+FINDING: The traffic study provided by Kittleson and Associates denotes two areas of significant
+impact to the transportation system within the areas. One being the intersection of 21stStreet and
+Airport Wayand the other being the intersection of CanalBoulevard and YewAvenue.
+The study notes the significant impact at 21StStreet and Airport Way could be mitigated with the
+installation of a median to restrict right -in -right -out movements at the intersection. The study notes
+the impact at Canal Boulevard and Yew Street would require additional analysis as any
+improvements would likely have a major impact to right-of-way and neighboring properties. The
+applicant states this would be addressed as part of the City's Transportation System Plan (TSP)
+update. Staff consulted Peter Russell, Deschutes County Senior Transportation Planner, to
+determine compliance with these provisions. Mr. Russell provided the following comments:
+l have reviewed the traffic study dated March 12, 2018, for the Redmond UGB expansion and
+comprehensiveplan amendmentof 949 acresfor the Redmondlarge lot industrial area, the Deschutes
+CountyFairgroundsexpansion, andtheOregonMilitaryDepartment (OMD). Thetrafficstudyfound all
+Hearings Officer Decision 247 - 18 -000752 - PA
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 52 of 55
+intersections either performed acceptably at the end of the planning horizon ( 2040) or could rely on
+mitigations which have funding or a reasonable expectation of funding. The land use application thus
+complies with Goal 12 and the transportation planning rule (TPR). Theone exception was the intersection
+of 21st St/Airport Way. Thetraffic report identified a raisedmedianasa possiblemitigation, but deferred
+to the Cityof Redmond's TransportationSystemPlan (TSP) whichis being updated. Whilecurrentlythere
+is nospecificdevelopmentbeingproposed, Countystaff notesthe impactsof largelot industrialsitescan
+be mitigated through non -construction measures as well such as shift changes beginning/ ending out of
+the a.m. and p.m. peak hours and transportation demand management (TDM) measures (vanpools,
+transit passesfor employees, enhanced facilities for bicycling, etc.)
+Noneof thestudiedintersectionsare underthejurisdiction of DeschutesCounty. Theaffectedintersections
+are either ODOTfacilities or City of Redmondstreets. Thetraffic study was scopedand reviewedin
+coordination with ODOT, City of Redmond, and DeschutesCounty. The agencieshave reviewedthe
+completed traffic study's recommendations. Thoseroad authorities whosefacilities were significantly
+affected (ODOTand City of Redmond) have not submitted adverse comments on the UGBexpansion and
+the proposed land use changes in response to being notified. They could provide comment at the public
+hearing. Constructionof a raisedmedian at 21st/Airport Wayto changethe current accessesinto right -
+in, right -out only (RIRO) is a relativelylow costimprovement. It is not unreasonableto assumethisfuture
+mitigation would be funded by either subsequent development or a combination of development and
+ODOTand/ or City of Redmond.
+As the impacts are planned to be mitigated in conjunction with the City of Redmond' s TSP update
+and will be reviewed in the concurrent applications through the City of Redmond, staff finds these
+provisions are met.
+5) Thepresence of a transportation facility or improvement shall not be a basis for an
+exception to allow residential, commercial, institutional or industrial development on
+rural lands under this division or OAR 660- 004- 0022 and 660- 004- 002&
+FINDING: The applicant is not seekinga goal exception for the proposal, therefore this section does
+not apply.
+6) in determining whether proposed land useswould affect or be consistent with planned
+transportation facilities as provided in sections ( 1) and ( 2), local governments shall give
+full credit for potential reduction in vehicle trips for uses located in mixed- use,
+pedestrian friendly centers, and neighborhoods as provided in subsections ( a) -(d)
+below,
+FINDING: The application is not located in a mixed- use, pedestrian - friendly center or neighborhood
+as defined in Section ( 8) of this rule, therefore, this section does not apply.
+7) Amendments to acknowledged comprehensive plans and land use regulations which
+meet all of the criteria listed in subsections ( a) -(c) below shall include an amendment
+to the comprehensive plan, transportation system plan the adoption of a local street
+plan, access management plan, future street plan or other binding local transportation
+Hearings Officer Decision 247 - 18 -000752 - PA
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 53 of 55
+plan to provide for on-site alignment of streets or accessways with existing and planned
+arterial, collector, and local streets surrounding the site as necessary to implement the
+requirements in OAR 660- 012- 0020( 2)( b) and 660- 012- 0045( 3):
+a) The plan or land use regulation amendment results in designation of two or more
+acres of land for commercial use,
+b) The local government has not adopted a TSP or local street plan which complies with
+OAR 660- 012- 0020( 2)( b) or, in the Portland Metropolitan Area, has not complied with
+Metro' s requirement for street connectivity as contained in Title 6, Section 3 of the
+Urban Growth Management Functional Plan, and
+c) The proposed amendment would significantly affect a transportation facility as
+provided in section ( 1).
+FINDING: The applicant will redesignate property as Urban Growth Area with future plans to rezone
+within the City of Redmond to Public Facilitiesand Fairgrounds. The City of Redmond has already
+adopted a TSPand subsequent plans. Staff finds this section does not apply.
+9) Notwithstanding section ( 1) of this rule, a local government may find that an
+amendment to a zoning map does not significantly affect an existing or planned
+transportation facility if all of the following requirements are met.
+FINDING: The subject application is for a comprehensive plan map designation change and does
+not include a zoning map designation change. Therefore this section does not apply.
+10) Notwithstanding sections ( 1) and ( 2) of this rule, a local government may amend a
+functional plan, a comprehensive plan or a land use regulation without applying
+performance standards related to motor vehicle traffic congestion ( e.g. volume to
+capacity ratio or V/C), delay or travel time if the amendment meets the requirements
+of subsection ( a) of this section. This section does not exempt a proposed amendment
+from other transportation performance standards or policies that may apply including,
+but not limited to, safety for all modes, network connectivity for all modes ( e.g.
+sidewalks, bicycle lanes) and accessibility for freight vehicles of a size and frequency
+required by the development.
+a) A proposed amendment qualifies for this section if it.
+A) Is a map or text amendment affecting only land entirely within a multimodal
+mixed- use area ( MMA); and
+8) Is consistent with the definition of an MMA and consistent with the function of
+the MMA as described in the findings designating the MMA.
+FINDING: The subject property is not located within a multimodal mixed- use area (MMA). Therefore
+this section does not apply.
+11) A local government may approve an amendment with partial mitigation as provided
+in section ( 2) of this rule if the amendment complies with subsection ( a) of this section,
+the amendment meets the balancing test in subsection (b) of this section, and the local
+government coordinates as provided in subsection ( c) of this section.
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 54 of 55
+FINDING: As a mitigation measure for the significant impact to Canal Boulevard and Yew Avenue
+intersection has not yet been identified but will be identified as part of the Redmond TSP update,
+staff asks the Hearings Officer to determine if this section is applicable.
+OREGON REVISED STATUTES
+197A - Comprehensive Land Use Planning
+197A. 300 Amendment of Urban Growth Boundaries Outside Metro
+FINDING: The statute is implemented through Oregon Administrative Rule ( OAR) 660, Division 24.
+Analysis for the requirements under Division 24 and Division 12, Goal 14 - Urbanization have been
+addressed previously in this report.
+IV. CONCLUSION:
+Hearings Officer: Based on the foregoing findings and conclusions and the record herein and
+noting the absenceof any contrary evidence or argument, the application is APPROVED, subject to
+final approval by the Board of County Commissioners pursuant to DCC22.28.030.
+DESCHUTES COUNTY HEARINGS OFFICER
+Dan R. Olsen
+December 10, 2018
+EXHIBIT " F" TO ORDINANCE NO. 2019- 004 Page 55 of 55

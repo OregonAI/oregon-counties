@@ -1,0 +1,136 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2014-019
+title: 'Ordinance No. 2014-019'
+doc_type: ordinance
+citation: 'Ordinance No. 2014-019'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617124420_2014-360-Ordinance%20No.%202014-019%20Recorded%207_7_2014.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d6124977afac70ec57db6dbd3643bba0567544adf10d6120f83c6f4467a74de5
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2014-019 (Ordinance No. 2014-019)
+
+## At a glance
+
+Ordinance No. 2014-019 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+REVI
+I
+DESCHUTES COUNTY OFFICIAL RECORDS
+NANCY BLANKENSHIP,  COUNTY CLERK CJ2014.360
+LEGAL COUNSEL
+COMMISSIONERS'  JOURNAL
+07/07/201411;21:27AM
+I
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County
+Code Chapter 6. 12. 130 Pertaining to Release of     * ORDINANCE NO. 2014- 019
+Dog Found to Have Harmed Domesticated Fowl,   *
+and Declaring an Emergency.
+WHEREAS,  an inconsistency was discovered between Deschutes County Code  (" DCC")
+Chapters 6. 12. 060( C) and 6. 12. 130, and
+WHEREAS, with the changes shown in Exhibit A, DCC Chapter 6. 12. 130 will be consistent
+with the terms and condition of DCC Chapter 6. 12. 60 ( C) ; and
+WHEREAS, the Board of County Commissioners considered this matter after a duly noticed
+public hearing on June 30, 2014, and concluded that the proposed changes are consistent with the
+terms and conditions of DeschutesCounty Code, Chapter 6.12; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1.  AMENDING.  DCC Chapter 6. 12, Livestock Kills, is amended to read as described
+in Exhibit " A," attached and incorporated by reference herein, with new language underlined and
+deleted language set forth in st ike hrough.
+PAGE I OF 2- ORDINANCE NO. 2014- 0019
+Section 2.  EMERGENCY. This Ordinancebeingnecessaryfor the public peace, healthand
+safety, anemergencyisdeclaredto existandthisOrdinancetakeseffectonitspassage.
+Dated this of 014 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+TAMMY B
+NEY1!
+Chi
+a44/11/59   ---
+ANTHONY DEBONE, Vice Chair
+ATTEST:
+b
+i 1 01/ 4„.„.._   11A„LirA____
+Recording Secretary ALAN UNGER, Commissioner
+Date of
+1st
+Reading: rday of 2014.
+441
+Date of 2" Reading:   day of 44- 1-___ 2014.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Anthony DeBone
+Alan Unger
+Tammy Baney v
+d
+Effective date: ,   day of
+4-4( 4.-- 2014.
+PAGE 2 OF 2- ORDINANCE NO. 2014- 0019
+Chapter 6. 12.      LIVESTOCK KILLS
+6. 12. 010.  Definitions.
+6. 12. 012.  Definition- Animal Control Officer.
+6. 12. 015.  Definition- Board.
+6. 12. 018.   Definition- Chasing.
+6. 12. 019.   Definition- Injury, Injures or Injuring.
+6. 12. 020.   Definition- Livestock.
+6. 12. 025.   Definition- Domesticated Fowl.
+6. 12. 030.   Killing, Wounding or Injuring Livestock- Nuisance.
+6. 12. 040.   harboring of Livestock Killing Dogs Prohibited.
+6. 12. 050.  Killing, Wounding or Injuring Livestock- Evidence.
+6. 12. 060.   Hearing.
+6. 12. 065 Payment of Costs and Penalties; Liens.
+6. 12. 070.  Killing, Wounding or Injuring Of Livestock- Disputable Presumption.
+6. 12. 080.  Owner of Livestock- Damage Claims.
+6. 12. 090.   Damage Claims Hearing.
+612. 100.  Damage Claims- Collection.
+6. 12. 110.   Civil Right of Action.
+6. 12. 120 Microchip Identification of Dog.
+6. 12. 130 Release of Dog Found To Have harmed-. Killed Domesticated Fowl.
+6. 12. 130 Release of Dog Found to Have IlarmedKilled Domesticated Fowl
+I A. NotwithstandingDCC6.12.060(C), a dogfoundto haveinjured, woundedor killeddomesticated
+fowl may be releasedback to its owner or keeper if the Board finds by a preponderanceof the
+evidence that:
+1.  The livestock owner did not make reasonable efforts, under all of the circumstances, to protect
+the fowl from predation;
+2.  The dog's owner or keeper madereasonableefforts, under all of the circumstances, to maintain
+the dogon the owner' sor keeper's property;
+3.  The dog hasnot previously engagedin chasing,injuring, wounding or killing any livestock; and
+4.  The dog'sowner or keeperwill take necessarymeasuresto preventa reoccurrence.
+B. This sectionshall not exempt the dog's owner or keeperfrom paying a civil penalty, taking necessary
+measures to prevent a reoccurrence, or satisfying any other obligations reasonably imposed upon the
+owner or keeper under DCC Chapter 6. 12, which obligations may be imposed as a condition to
+release of the dog.
+C.  In addition to any other penalties, fees or obligations imposed upon a dog owner under this
+subsection, the Board may order that the dog owner pay reasonable compensation to the livestock
+I owner for the domesticated fowl iwu- Fe wounded or killed, and may make payment of such
+compensation a condition to release of the dog.
+I ( Ord. 2014-"'* ..§ 1..,..201. 4: 2012- 015 § I, 2012)
+Formatted: Font: Times New Roman
+EXI- 1lBIT A

@@ -1,0 +1,1275 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-95-007
+title: 'Ordinance No. 95-007'
+doc_type: ordinance
+citation: 'Ordinance No. 95-007'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616701375_1995-06218-Ordinance%20No.%2095-007%20Recorded%203_2_1995.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a54f4034ca81644d2d7be823b28f0de54373c04982d16ce0c36383110a4b9bbe
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 95-007 (Ordinance No. 95-007)
+
+## At a glance
+
+Ordinance No. 95-007 — orders of Deschutes County. 30 pages.
+
+## Full text
+
+95- 06218
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF
+An Ordinance Amending Chapters 18. 04 and
+18. 16 of the Deschutes County Code, Amending
+Development Standards in the EFU Zones and
+Declaring an Emergency.
+REVIEWED
+DESCHUT
+CO E
+0138- 00 .
+ORDINANCE NO. 95- 007
+WHEREAS, the Land Conservation and Development Commission filed
+new administrative rule OAR 660- 033 on March 1, 1994, relative to
+requirements for Agricultural Lands; and
+WHEREAS, the newly adopted rule was made effective upon filing;
+and
+WHEREAS, the newly adopted rule supersedes county code provisions
+where there is a conflict between the rule and the code; and
+WHEREAS, the Board finds it is in the public interest to make the
+county' s land use regulations be consistent with state law; and
+WHEREAS, public hearings have been held on the proposed amendments
+consistent with state and county law; and
+WHEREAS, the Deschutes County Planning Commission recommended
+adoption of the amendments as proposed; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY ORDAINS as
+follows:
+Section 1. Section 18. 04. 030 of the Deschutes County Code, as
+amended, is further amended to add the following new definition of
+Golf Course":
+Golf Course. Means an area of land with highly maintained
+natural turf laid out for the game of golf with a series of
+nine or more holes, each including a tee, a fairway, a
+putting green and often one or more natural or artificial
+hazards. A ' golf course' may be a nine or 18 hole regulation
+golf course or a combination nine and 18 hole regulation golf
+course consistent with the following:
+A. A regulation 18 hole golf course is generally
+characterized by a site of about 120 to 150 acres of land,
+has a playable distance of 5, 000 to 7, 200 yards, and a par of
+64 to 73 strokes.
+B. A regulation nine hole golf course is generally
+characterized by a site of 65 to 90 acres of land, has a
+playable distance of 2, 500 to 3, 600 yards and a par of 31 to
+36 strokes.
+KEYP CHEG
+1 - ORDINANCE NO. 95- 007 ( 3- 1- 95) M 21995
+7/~
+0138- 0612
+Golf course' does not include a stand- alone driving range.
+In EFU zones, ' golf course' includes only regulation golf
+courses and does not include a golf course or golf course -
+like development that does not meet this definition.
+Excluded from this definition is such non - regulation
+development as executive golf courses, Par 3 golf courses,
+pitch and putt golf courses and miniature golf courses."
+Section 2. Section 18. 04. 030 of the Deschutes County Code, as
+amended, is further amended to add the following new definition of
+Golf Course, Accessory Uses":
+Golf Course, Accessory Uses. An accessory use to a golf
+course is a facility or improvement that is incidental to the
+operation of the golf course and is either necessary for the
+operation and maintenance of the golf course or that provides
+goods or services customarily provided to golfers at a golf
+course. An accessory use or activity does not serve the
+needs of the non - golfing public.
+Accessory uses to a golf course may include: parking;
+maintenance buildings; cart storage and repair; practice
+range or driving range; clubhouse; restrooms; lockers and
+showers; food and beverage service; pro shop; a practice or
+beginners course as part of an 18 hole or larger golf course.
+In an EFU Zone, accessory uses to a golf course do not
+include: sporting facilities unrelated to golfing such as
+tennis courts, swimming pools and weight rooms; wholesale or
+retail operations oriented to the non - golfing public;
+housing."
+Section 3. Section 18. 04. 030 of the Deschutes County Code, as
+amended, is further amended to add the following new definition of
+High - Value Farmland":
+High - Value Farmland. Means land in a tract composed
+predominantly of the following soils when they are irrigated:
+Agency loam ( 2A and 2B), Agency sandy loam ( ILA), Agency -
+Madras complex ( 3B), Buckbert sandy loam ( 23A), Clinefalls
+sandy loam ( 26A), Clovkamp loamy sand ( 27A and 28A),
+Deschutes sandy loam ( 31A, 31B and 32A), Deschutes- Houstake
+complex ( 33B), Deskamp loamy sand ( 36A and 36B), Deskamp
+sandy loam ( 37B), Era sandy loam ( 44B and 45A), Houstake
+sandy loam ( 66A and 67A), Iris silt loam ( 68A), Lafollette
+sandy loam ( 71A and 72B), Madras loam ( 87A and 87B), Madras
+sandy loam ( 86A and 86B) , Plainview sandy loam ( 98A and 98B) ,
+Redmond sandy loam ( 104A), Tetherow sandy loam ( 150A and
+150B) and Tumalo sandy loam ( 152A and 152B)."
+2 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- 06113
+Section 4. Section 18. 04. 030 of the Deschutes County Code, as
+amended, is further amended to amend the definition of " Irrigated
+Acres" as follows:
+Irrigated facresl. As used in Chapter 18. 16, irrigated
+acres] means [ those lands to which a water right is
+appurtenant] watered by an artificial or controlled means,
+such as sprinklers, furrows, ditches or spreader dikes. An
+area or tract is ' irrigated' if it is currently watered, or
+has established rights to use water for irrigation from a
+water or irrigation district or other provider." ( Ord. 92-
+065 S 2, 1992)
+Section 5. Section 18. 04. 030 of the Deschutes County Code, as
+amended, is further amended to amend the definition of " Partition Land"
+as follows:
+Partition Land. To divide ( an area or tract of] land into
+two or three parcels within a calendar year [ when such area
+or tract of land exists as a unit or contiguous units of land
+under single ownership at the beginning of such year].
+Partition land does not include divisions of land resulting
+from lien foreclosures, or recorded contracts for the sale of
+real property and divisions of land resulting from the
+creation of cemetery lots. Partition land does not include
+the sale of a lot in a recorded subdivision, even though the
+lot may have been acquired prior to the sale with other
+contiguous lots or property by a single owner] a division of
+land resulting from the recording of a subdivision or
+condominium plat. Partition land does not include an
+adjustment of a property line by the relocation of a common
+boundary where an additional unit of land is not created and
+where the existing unit of land reduced in size by the
+adjustment complies with any applicable zoning ordinance."
+Section 6. Section 18. 04. 030 of the Deschutes County Code, as
+amended, is further amended to amend the definition of " Replat" as
+follows:
+Replat. [ Includes a final map of the reconfiguration of
+lots and easements of a recorded subdivision or partition
+plat and other writings containing all the descriptions,
+locations, specifications, dedications and provisions and
+information concerning a recorded partition or subdivision
+plat.] Means the act of platting the lots, parcels and
+easements in a recorded subdivision or partition plat to
+achieve a reconfiguration of the existing subdivision or
+partition plat or to increase or decrease the number of lots
+in the subdivision." ( Ord. 91- 038 S 3, 1991)
+3 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138-° 0014
+Section 7. Section 18. 04. 030 of the Deschutes County Code, as
+amended, is further amended to amend the definition of " Subdivision and
+Subdivide" as follows:
+Subdivision andl Subdividefdl Lands. Means to [ Improved or
+unimproved area or tract of land] divide[ d] land into four or
+more lots within a calendar year [ when such area or tract of
+land exists as a unit or contiguous units of land under a
+single ownership at the beginning of such year. This section
+does not apply to divisions of land resulting from lien
+foreclosures or foreclosures of recorded contracts for the
+sale of real property.]"
+Section 8. Section 18. 04. 030 of the Deschutes County Code, as
+amended, is further amend to add a definition of " Subdivision" as
+follows:
+Subdivision. Means either an act of subdividing land or an
+area or a tract of land subdivided."
+Section 9. Section 18. 16. 010 of the Deschutes County Code, as
+amended, is further amend to read as follows:
+18. 16. 010 Purpose
+A. The purpose of the Exclusive Farm Use zones is to
+preserve and maintain agricultural lands and to serve as a
+sanctuary for farm uses.
+B. The purposes of this zone are served by the land use
+restrictions set forth in the Comprehensive Plan and in this
+Chapter and by the restrictions on private civil actions and
+enforcement actions set forth in ORS 30. 930 through 30. 947."
+Section 10. Section 18. 16. 020 of the Deschutes County Code, as
+amended, is further amended to read as follows:
+18. 16. 020 Uses Permitted Outright
+The following uses and their accessory uses are permitted
+outright:
+A. Farm use as defined in this title.
+B. Propagation or harvesting of a forest product.
+C. Exploration for minerals as defined by ORS 517. 750.
+D. Accessory buildings customarily provided in conjunction
+with farm use.
+E. Climbing and passing lanes within a right- of- way
+existing as of July 1, 1987.
+4 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- 0610
+F. Reconstruction or modification of public roads and
+highways, not including the addition of travel lanes, where
+no removal or displacement of buildings would occur or no new
+land parcels result.
+G. Temporary public road or highway detour that will be
+abandoned and restored to original condition or use when no
+longer needed.
+H. Minor betterment of existing public roads and highway -
+related facilities such as maintenance yards, weigh [ with]
+stations and rest areas, within a right- of- way existing as of
+July 1, 1987, and contiguous publicly owned property utilized
+to support the operation and maintenance of public roads and
+highways.
+I. A replacement dwelling to be used in conjunction with
+farm use if the existing dwelling has been listed in the
+county inventory as an historic property as defined in ORS
+358. 480. ( Ord. 91- 038 S 2, 1991)]
+I[ J]. C[ c] reation, restoration or enhancement of wetlands.
+J. Alteration, restoration or replacement of a lawfully
+established dwelling that:
+1. Has intact exterior walls and roof
+structure;
+2. Has indoor plumbing consisting of a
+kitchen sink, toilet and bathing
+facilities connected to a sanitary waste
+disposal system;
+3. Has interior wiring for interior lights;
+4. Has a heating system; and
+5. In the case of replacement, is removed,
+demolished or converted to an allowable
+use within three months of completion of
+the replacement dwelling.
+An accessory farm dwelling approved under
+subsection 18. 16. 050( C) may be replaced only by a
+manufactured home.
+K. A replacement dwelling to be used in conjunction with
+farm use if the existing dwelling is listed on the National
+5 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138-- 06. 0
+Register of Historic Places and on the county inventory as a
+historic property as defined in ORS 358. 480."
+Ord. 91- 038 S 1 and 2, 1992; Ord. 91- 020 S 1, 1991; Ord. 91-
+005 S 4, 1991; Ord. 91- 002 S 3, 1991; Ord. 86- 007 S 1, 1986;
+Ord. 81- 025 S 1, 1981; Ord. 81- 001 S 1, 1981)
+Section 11. Section 18. 16. 030 of the Deschutes County Code, as
+amended, is further amended to read as follows:
+18. 16. 030 Conditional Uses Permitted - High Value and
+Non - High Value Farmland
+The following uses may be allowed in the Exclusive Farm Use
+Zones on either high value farmland or non - high value
+farmland subject to applicable provisions of the
+Comprehensive Plan, Sections 18. 16. 040 and 18. 16. 050 and
+other applicable sections of this title.
+A. Dwellings customarily provided in conjunction with farm
+use ( farm - related dwellings).
+B. manufactured home as a secondary accessory farm dwelling.]
+B. A relative farm - help dwelling.
+C. Preexisting dwellings as a ranch hand residence. ( Ord. 91-
+020 S 1, 1991; Ord 83- 020 S 1, 1983)]
+C[ D]. Non[ -] farm dwelling and accessory uses thereto.
+D. Lot of record dwelling.
+E. Residential home[ s] as defined in Section 18. 04. 030 of
+this title, in existing dwellings.
+F. A hardship dwelling.
+G[ F]. Commercial activity[ ies] that is [ are] in
+conjunction with farm use. ( The commercial activity shall be
+associated with a farm use occurring on the parcel where the
+commercial use is proposed. The commercial activity may use,
+process, store or market farm products produced in Deschutes
+County or an adjoining county.]
+H[ G]. Operations conducted for ( 1) exploration, mining
+and processing of geothermal resources as defined by ORS
+522. 005; ( 2) exploration and extraction of natural gas or
+oil; [ and] or ( 3) surface mining of mineral and aggregate
+resources exclusively for on- site personal, farm or forest
+use or in conjunction with maintenance for irrigation canals.
+6 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+U138-~aU_LI
+I[ H]. Homestead retention when the entire parcel has been
+under single ownership for at least the preceding ten
+consecutive years and the parcel occupies not less than 320
+acres. This use will permit the owner to convey the parcel
+but retain a leasehold interest in the residence and the land
+underlying the residence up to a maximum of five acres. In
+no case shall another residence be constructed elsewhere on
+the parcel except in conformance with the terms of this
+chapter. The leasehold interest shall extend throughout the
+lifetimes of the seller and his or her spouse.
+J[ I]. Expansion of an existing p[ P] rivate park[ s],
+playground[ s], hunting and fishing preserve[ s] and
+campground[ s].
+K[ J]. Expansion of an existing p[ P] ark[ s], playground[ s] or
+community center[ s] owned and operated by a governmental
+agency or a non- profit community organization.
+K. Golf courses.]
+L. U[ u] tility facility[ ies] necessary for public service,
+and] except commercial utility facility [ ies ] for the purpose
+of generating power for public use by sale and transmission
+towers over 200 feet in height.
+M. Transmission tower over 200 feet in height.
+N. Commercial utility facility, including a hydroelectric
+facility ( in accordance with Sections 18. 116. 130 and
+18. 128. 040( V)), for the purpose of generating power for
+public use by sale.
+O[ M]. Personal - use landing strip for airplanes and
+helicopter pad, including associated hangar, maintenance and
+service facilities. A personal use airport as used in this
+section means an airstrip restricted, except for aircraft
+emergencies, to use by the owner and, on an infrequent and
+occasional basis, by invited guests and by commercial
+aviation activities in connection with agricultural
+operations. [ No aircraft may be based on a personal - use
+airport other than those owned or controlled by the owner of
+the airstrip. Exceptions to the activities permitted under
+this definition may be granted through waiver action by the
+Aeronautics Division in specific instances. A personal use
+airport lawfully existing as of September 1, 1975, shall
+continue to be permitted subject to any applicable
+regulations of the Oregon Aeronautics Division.]
+P[ N]. Home occupation[ s] carried on by residents as an
+accessory use within their existing dwelling or other
+existing residential accessory building. Home occupations
+are not allowed in structures accessory to resource use.
+7 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- 0618
+Q[ O]. A facility for the primary processing of forest
+products. [ Such a facility may be approved for a one- year
+period which is renewable. The facility is intended to be
+portable or temporary in nature.] The primary processing of
+a forest product, as used in this section, means the use of
+a portable chipper or stud mill or other similar method of
+initial treatment of a forest product in order to enable its
+shipment to market. Forest products, as used in this
+section, means timber grown upon a parcel of land or
+contiguous land where the primary processing facility is
+located.
+R. Hydroelectric facility, in accordance with Sections
+18. 116. 130 and 18. 128. 040( V). ( Ord. 94- 008 § 9, 1994; Ord.
+86- 018 § 3, 1986)]
+Q. Dog kennels. ( Ord. 94- 008 § 9, 1994; Ord. 90- 018 § 1,
+1991)]
+R. Storage, crushing and processing of minerals, including
+the processing of aggregate into asphaltic concrete or
+portland cement concrete when such uses are in conjunction
+with the maintenance or construction of public roads or
+highways.
+S. A site for the disposal of solid waste approved by the
+governing body of a city or county and for which a permit has
+been granted under ORS 459. 245 by the Department of
+Environmental Quality. ( Ord. 94- 008 § 9, 1994; Ord. 91- 014 §
+1, 1991)]
+T. One manufactured home in conjunction with an existing
+dwelling as a temporary use for the term of a hardship
+suffered by the existing resident or a relative of the
+resident. ( Ord. 94- 008 § 9, 1994; Ord. 91- 038 § 2, 1991)]
+S[ U]. Expansion of an existing c[ C] hurch or cemetery in
+conjunction with a church, provided such church or cemetery
+is not within three miles of an urban growth boundary.
+T. Expansion of an existing church or cemetery in
+conjunction with a church within three miles of an urban
+growth boundary if an exception is first granted under state
+law.
+U[ V]. Expansion of an existing p[ P] ublic or private school,
+including all buildings essential to the operation of such a
+school, provided such school is not within three miles of an
+urban growth boundary.
+V. Expansion of an existing public or private school,
+including all buildings essential to the operation of such a
+8 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- 0619
+school, located within three miles of an urban growth
+boundary, if an exception is first granted under state law.
+W. Construction of additional passing and travel lanes
+requiring the acquisition of right- of- way, but not resulting
+in the creation of new land parcels.
+X. Reconstruction or modification of public roads and
+highways involving the removal or displacement of buildings,
+but not resulting in the creation of new land parcels.
+Y. Improvement of public roads and highway - related
+facilities such as maintenance yards, weigh stations and rest
+areas where additional property or right- of- way is required,
+but not resulting in the creation of new land parcels.
+Z. The propagation, cultivation, maintenance and harvesting
+of aquatic species.
+AA. Bed and breakfast inn[ s].
+BB. Excavation, grading and fill and removal within the bed
+and banks of a stream or river or in a wetland.
+CC. Cemeteries in conjunction with churches. ( Ord. 94- 008
+9, 1994; Ord. 91- 038 S 2, 1991)]
+DD. Living history museums. ( Ord. 94- 008 S 9, 1994)]
+CC. Rural fire station."
+Ord. 94- 008 S 9, 1994; Ord. 91- 038 S 1 and 2, 1991; Ord. 91-
+020 S 1, 1991, Ord. 90- 014 S 23, 1991; Ord. 90- 014 S 31,
+1990; Ord. 91- 005 S 5, 1991; Ord. 87- 013 S 1, 1987)
+Section 12. A new Section 18. 16. 031, " Conditional Uses Located on
+Non - High Value Farmland," is added to and made a part of Chapter 18. 16,
+as follows:
+18. 16. 031 Non - Residential Conditional Uses on Non - High Value
+Farmland Only
+The following uses may be allowed only on tracts in the
+Exclusive Farm Use Zones that constitute non - high value
+farmland subject to applicable provisions of the
+Comprehensive Plan and Section 18. 16. 040 and other applicable
+sections of this title.
+A. Dog kennel.
+B. A site for the disposal of solid waste approved by the
+governing body of a city or county or both and for which a
+permit has been granted under ORS 459. 245 by the Department
+9 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- 0620
+of Environmental Quality together with equipment, facilities
+or buildings necessary for its operation.
+C. Golf course and accessory golf course uses as defined
+in this title."
+Section 13. A new Section 18. 16. 033, " Conditional Uses Located on
+High Value Farmland," is added to and made a part of Chapter 18. 16, as
+follows:
+18. 16. 033 Non - Residential Conditional Uses on High Value
+Farmland Only
+In addition to those uses listed in Section 18. 16. 030
+above, the following uses may be allowed on tracts in the
+Exclusive Farm Use Zones that constitute high value farmland
+subject to applicable provisions of the Comprehensive Plan
+and Section 18. 16. 040 and other applicable sections of this
+title.
+A. Maintenance, enhancement or expansion of dog kennels
+existing as of March 1, 1994, subject to other requirements
+of law. New dog kennels are prohibited.
+B. Maintenance, enhancement or expansion of a site
+described in 18. 16. 031( B) existing as of March 1, 1994,
+subject to other requirements of law. New such sites are
+prohibited.
+C. Maintenance, enhancement or expansion of golf course and
+accessory golf course uses as defined in this title existing
+as of March 1, 1994, subject to other requirements of law.
+New such uses are prohibited. Expanded courses may not
+exceed 36 holes total."
+Section 14. Section 18. 16. 040 of the Deschutes County Code, as
+amended, is further amended to read as follows:
+18. 16. 040 Limitations on Conditional Uses
+A. Conditional uses permitted by 18. 16. 030[( F)]( G) through
+CC[ DD]) may be established subject to applicable provisions
+in Chapter 18. 128 and upon a finding by the Planning Director
+or Hearings Body that the proposed use: ( Ord. 91- 020 § 1,
+1991)
+1[ a]. Will not force a significant change in accepted
+farm or forest practices as defined in ORS 215. 203( 2)( c) on
+adjacent lands devoted to farm or forest uses; and [ or]
+2[ b]. Will not significantly increase the cost of
+accepted farm or forest practices on surrounding lands
+devoted to farm or forest use; and
+10 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- 0021
+3[ c]. That the actual site on which the use is to be
+located is the least suitable for the production of farm
+crops or livestock.
+B. A commercial activity allowed under Section
+18. 16. 030( G) above shall be associated with a farm use
+occurring on the parcel where the commercial use is proposed.
+The commercial activity may use, process, store or market
+farm products produced in Deschutes County or an adjoining
+county.
+C. A utility facility necessary for public use allowed
+under Section 18. 16. 030( L) above shall be one that is
+necessary to be situated in an agricultural zone in order for
+the service to be provided.
+D. A power generation facility that is part of a
+commercial utility facility for purpose of generating power
+for public use by sale identified in Section 18. 16. 030( N)
+above and:
+1. That is located on high- value farmland shall not
+preclude more than 12 acres from use as a commercial
+agricultural enterprise unless an exception is taken pursuant
+to OAR 660, Division 4.
+2. That is not located on high- value farmland shall not
+preclude more than 20 acres from use as a commercial
+agricultural enterprise unless an exception is taken pursuant
+to OAR 660, Division 4.
+E. No aircraft may be based on a personal - use airport
+identified in Section 18. 16. 030( 0) above other than those
+owned or controlled by the owner of the airstrip. Exceptions
+to the activities permitted under this definition may be
+granted through waiver action by the Aeronautics Division in
+specific instances. A personal use airport lawfully existing
+as of September 1, 1975, shall continue to be permitted
+subject to any applicable regulations of the Oregon
+Aeronautics Division.
+F. The facility for the primary processing of forest
+products identified under Section 18. 16. 030( Q) above is
+intended to be portable or temporary in nature. Such a
+facility may be approved for a one- year period which is
+renewable.
+G. Batching and blending mineral and aggregate into
+asphaltic cement may not be authorized within two miles of a
+planted vineyard. Planted vineyard means one or more
+vineyards totalling 40 acres or more that are planted as of
+the date of the application for batching and blending is
+filed.
+11 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0:138- 0622
+H. Accessory uses for golf courses shall be limited in size
+and orientation on the site to serve the needs of persons and
+their guests who patronize the golf course to golf. An
+accessory use that provides commercial services ( e. g., food
+and beverage service, pro shop, etc . ) shall be located in the
+clubhouse rather than in separate buildings.
+I. An expansion of an existing golf course as allowed
+under Section 18. 16. 033( C) shall comply with the definition
+of " golf course" set forth in this title and the provisions
+of subsection A of this section.
+J[ B]. An applicant for a non- farm conditional use may
+demonstrate that the standards for approval will be satisfied
+through the imposition of conditions. Any conditions so
+imposed shall be clear and objective."
+Ord. 91- 038 S 1 and 2, 1991)
+Section 15. Section 18. 16. 050 of the Deschutes County Code, as
+amended, is amended to read as follows ( without setting out changes in
+bold and brackets):
+18. 16. 050 Standards for Dwellings in the EFU Zones
+Dwellings listed in Section 18. 16. 030 may be allowed under
+the conditions set forth below for each kind of dwelling:
+A. Farm - Related Dwellinas on Non - High Value Farmland
+A dwelling customarily provided in conjunction with farm
+use, as listed at 18. 16. 030( A) of this chapter, may be
+approved if it satisfies any of the alternative tests set
+forth below:
+1. Acreage Test.
+a. On land not identified as high- value farmland, a
+dwelling, including a manufactured home in accordance with
+Section 18. 116. 070, is considered to be customarily provided
+in conjunction with farm use if:
+i. The parcel on which the dwelling will be located is at
+least:
+a). 160 acres and not in the Horse
+Ridge East subzone; or
+b). 320 acres in the Horse Ridge East
+subzone;
+ii. The subject tract is currently employed for farm use,
+as evidenced by a farm management plan;
+12 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- 0623
+iii. The dwelling will be occupied by a person or persons
+who will be principally engaged in the farm use of the land,
+such as planting, harvesting, marketing or caring for
+livestock, at a commercial scale;
+iv. There is no other dwelling on the subject tract; and
+v. The dwelling will be located on the least productive
+part of the parcel.
+2. Median Acreage/ Gross Sales Test.
+a. On land not identified as high- value farmland, a
+dwelling, including a manufactured home in accordance with
+Section 18. 116. 070, is considered to be customarily provided
+in conjunction with farm use if:
+i. The subject tract is at least as large as the median
+size of those commercial farm or ranch tracts capable of
+generating at least $ 10, 000 in annual gross sales that are
+located within a study area that includes all tracts wholly
+or partially within one mile of the perimeter of the subject
+tract;
+ii. The subject tract is capable of producing at least
+the median level of annual gross sales of county indicator
+crops as the same commercial farm or ranch tracts used to
+calculate the tract size in subsection ( i) of this section;
+iii. The subject tract is currently employed for farm
+use, as evidenced by a farm management plan, at a level
+capable of producing the annual gross sales required in
+subsection ( ii) of this section;
+iv. The subject lot or parcel on which the dwelling is
+proposed is at least 20 acres in size;
+V. There is no other dwelling on the subject tract; and
+vi. The dwelling will be located on the least productive
+part of the parcel.
+b. For the purpose of calculating appropriate tract sizes
+and gross incomes to satisfy ( i) and ( ii) of this section,
+the county will utilize the methodology contained in OAR 660-
+33- 135( 3) using data on gross sales per acre tabulated by
+LCDC pursuant to OAR 660- 33- 135( 4).
+3. Gross Annual Income Test.
+a. On land not identified as high- value farmland, a
+dwelling, including a manufactured home in accordance with
+Section 18. 116. 070, is considered to be customarily provided
+13 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- 0624
+in conjunction with farm use if:
+i. The subject tract is currently employed for a farm
+use that produced $ 32, 500 in gross annual income in the last
+two years or three of the last five years.
+ii. There is no other dwelling on the subject tract;
+iii. The dwelling will be occupied by a person or
+persons who produced the commodities which grossed the income
+in subsection ( i) of this section; and
+iv. The dwelling will be located on the least
+productive part of the parcel.
+b. In determining gross income, the cost of purchased
+livestock shall be deducted from the total gross income
+attributed to the tract.
+B. Farm Related Dwellings on High Value Farmland.
+On land identified as high- value farmland, a dwelling,
+including a manufactured home in accordance with Section
+18. 116. 070, is considered to be customarily provided in
+conjunction with farm use if:
+1. The subject tract is currently employed for the farm
+use that produced at least $ 80, 000 ( 1994 dollars) in gross
+annual income from the sale of farm products in the last two
+years or three of the last five years. In determining gross
+income, the cost of purchased livestock shall be deducted
+from the total gross income attributed to the tract;
+2. There is no other dwelling on the subject tract;
+3. The dwelling will be occupied by a person or persons
+who produced the commodities which grossed the income in
+subsection ( 1) of this section; and
+4. The dwelling will be located on the least productive
+part of the parcel.
+C. Accessory Dwelling.
+A dwelling, including a manufactured home in accordance with
+Section 18. 116. 070, is considered to be an accessory farm
+dwelling customarily provided in conjunction with farm use
+when:
+1. The accessory dwelling meets the following criteria:
+a. The accessory farm dwelling will be occupied by a
+person or persons who will be principally engaged in the farm
+14 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- 0625
+use of the land and whose assistance in the management of the
+farm use is or will be required by the farm operator; and
+b. The accessory farm dwelling will be located:
+i. On the same lot or parcel as the principal
+farm dwelling; or
+ii. On the same tract as the principal farm
+dwelling when the lot or parcel on which
+the accessory dwelling will be sited is
+consolidated into a single parcel with
+all other contiguous lots and parcels in
+the tract; or
+On a lot or parcel on which the
+principal farm dwelling is not located,
+when the accessory farm dwelling is a
+manufactured home and a deed restriction
+substantially in compliance with the
+form set forth in Exhibit A to this
+chapter is filed with the county clerk.
+The deed restriction shall require the
+manufactured dwelling to be removed when
+the lot or parcel is conveyed to another
+party. An accessory farm dwelling
+approved pursuant to this section may
+not be occupied by a person or persons
+who will not be principally engaged in
+the farm use of the land and whose
+assistance in the management of the farm
+use is not or will not be required by
+the farm operator. The manufactured
+home may remain if it is reapproved
+under this section; and
+C. There is no other dwelling on land zoned EFU owned
+by the farm operator that is vacant or currently occupied by
+persons not working on the subject farm or ranch and that
+could reasonably be used as an accessory farm dwelling; and
+2. The principal farm dwelling to which the proposed
+dwelling would be accessory meets one of the following:
+a. On land not identified as high- value farmland, the
+principal farm dwelling is located on a farm or ranch
+operation that is currently employed in farm use and produced
+32, 500 in gross annual sales in the last two years or three
+of the last five years. In determining gross income, the
+cost of purchased livestock shall be deducted from the total
+gross income attributed to the tract; or
+b. On land identified as high- value farmland, the
+15 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+U138- ''
+A
+principal farm dwelling is located on a farm or ranch"
+operation that is currently employed for farm use, and
+produced at least $ 80, 000 ( 1994 dollars) in gross annual
+income from the sale of farm products in the last two years
+or three of the last five years. Gross income shall be
+calculated by deducting the cost of purchased livestock from
+the total gross income attributed to the tract; and
+3. A lot or parcel approved for an accessory farm dwelling under
+this section shall not be approved for a division of land except
+as provided for in Section 18. 16. 055( B).
+D. Relative Farm Help Dwelling
+1. A dwelling listed in DCC 18. 16. 030B is allowed when:
+a. The subject tract is at least 40 acres in size,
+unless it is demonstrated to the Planning Director or
+Hearings Body that a smaller unit of land is a commercial
+agricultural enterprise.
+b. The subject tract is used for farm use;
+C. The dwelling is a manufactured home and is sited in
+accordance with Section 18. 116. 070;
+d. The dwelling is located on the same lot or parcel as
+the dwelling of the farm operator, and is occupied by a
+grandparent, grandchild, parent, child, brother, or sister of
+the farm operator or the farm operator' s spouse, whose
+assistance in the management of the commercial farm use is or
+will be required by the farm operator.
+e. The farm operator plays the predominant role in the
+management and farm use of the farm and will continue to do
+so after the relative farm help dwelling is approved.
+2. The manufactured home shall be considered a temporary
+installation and permits for such home shall be renewable on
+an annual basis. The manufactured home shall be removed from
+the property if it is no longer needed for the operation of
+the farm.
+3. For the purposes of this subsection, a farm operator is
+a person who operates a farm, doing the work and making the
+day- to- day decisions about such things as planting,
+harvesting, feeding and marketing.
+E. Lot of Record Dwelling on Non - High Value Farmland
+1. A lot of record dwelling will be approved on non - high
+value farmland when all of the following requirements are
+met:
+16 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- oc
+a. The lot or parcel on which the dwelling will be
+sited was lawfully created and was acquired by the present
+owner:
+i. Prior to January 1, 1985; or
+ii. By devise or by intestate succession
+from a person who acquired the lot or parcel
+prior to January 1, 1985.
+b. The tract on which the dwelling will be sited does
+not include a dwelling.
+c. For lots or parcels located within a wildlife area
+WA) combining zone, siting of the proposed dwelling would be
+consistent with the limitations on density as applied under
+the applicable density restrictions of Chapter 18. 88 of this
+title.
+d. If the lot or parcel on which the dwelling will be
+sited is part of a tract, the remaining portions of the tract
+shall be consolidated into a single lot or parcel when the
+dwelling is allowed.
+e. The County Assessor shall be notified of any
+approval of a dwelling under this section.
+2. For purposes of this subsection, " owner" includes the
+wife, husband, son, daughter, mother, father, brother,
+brother- in- law, sister, sister- in- law, son- in- law, daughter-
+in- law, mother- in- law, father- in- law, aunt, uncle, niece,
+nephew, step- parent, step - child, grandparent or grandchild of
+the owner or a business entity owned by any one or
+combination of these family members.
+F. Lot of Record Dwelling on High - Value Farmland
+1. A lot of record dwelling will be approved on non - high
+value farmland when all of the following requirements are
+met:
+a. The requirements set forth in Section
+18. 16. 050( E)( 1)( a) through ( e), as determined by the County;
+and
+b. The requirements of OAR 660- 33- 130( 3)( c)( C), as
+determined by a hearings officer of the State Department of
+Agriculture.
+2. Applicants under this section shall make their
+application to the County. The County shall give its
+conditional approval under subsection 1( a) of this section
+before forwarding an application made under this section to
+17 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- a6 S
+the State Department of Agriculture for hearing under
+subsection 1( b).
+3. Applicants under this section shall be subject to such
+other procedural requirements as are imposed by the Oregon
+Department of Agriculture.
+G. Nonfarm Dwelling.
+1. One single- family dwelling, including a manufactured home in
+accordance with Section 8. 116. 070, not provided in conjunction
+with farm use may be permitted on an existing lot or parcel
+subject to the following criteria:
+a. The Planning Director or Hearings Body shall make
+findings that:
+i. The dwelling or activities associated with the
+dwelling will not force a significant change in or
+significantly increase the cost of accepted farming
+practices, as defined in ORS 215. 203( 2)( c), or accepted
+forest practices on nearby lands devoted to farm or
+forest use.
+ii. The proposed nonfarm dwelling does not materially
+alter the stability of the overall land use pattern of
+the area. In determining whether a proposed nonfarm
+dwelling will alter the stability of the land use
+pattern in the area, the county shall consider the
+cumulative impact of nonfarm dwellings on other lots or
+parcels in the area similarly situated and whether
+creation of the parcel will lead to creation of other
+nonfarm parcels, to the detriment of agriculture in the
+area.
+iii. The proposed nonfarm dwelling is situated on an
+existing lot or parcel, or a portion of a lot or parcel,
+that is generally unsuitable for the production of farm
+crops and livestock or merchantable tree species,
+considering the terrain, adverse soil or land
+conditions, drainage and flooding, vegetation, location
+and size of the tract.
+iv. The proposed nonfarm dwelling is not within one-
+quarter mile of a dairy farm, feed lot, sales yard,
+slaughterhouse or poultry, hog or mink farm, unless
+adequate provisions are made and approved by the
+Planning Director or Hearings Body for a buffer between
+such uses. The establishment of a buffer shall be
+designed based upon consideration of such factors as
+prevailing winds, drainage, expansion potential of
+affected agricultural uses, open space and any other
+factor that may affect the livability of the non- farm
+18 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- 06Mg
+dwelling or the agriculture of the area. ( Ord. 91- 020 §
+1, 1991)
+V. Road access, fire and police services and utility
+systems ( i. e., electrical and telephone) are adequate for the
+use.
+2. For the purposes of this subsection only,
+unsuitability" shall be determined with reference to the
+following:
+a. A lot or parcel shall not be considered unsuitable
+solely because of size or location if it can reasonably be
+put to farm or forest use in conjunction with other land. If
+the parcel is under forest assessment, the dwelling shall be
+situated upon generally unsuitable land for the production of
+merchantable tree species recognized by the Forest Practices
+Rules, considering the terrain, adverse soil or land
+conditions, drainage and flooding, vegetation, location and
+size of the parcel.
+b. A lot or parcel is not " generally unsuitable" simply
+because it is too small to be farmed profitably by itself.
+If a lot or parcel can be sold, leased, rented or otherwise
+managed as part of a commercial farm or ranch, it is not
+generally unsuitable". A lot or parcel is presumed to be
+suitable if it is composed predominantly of Class I - VI soils.
+Just because a lot or parcel is unsuitable for one farm use
+does not mean it is not suitable for another farm use. If
+the parcel is under forest assessment, the area is not
+generally unsuitable" simply because it is too small to be
+managed for forest production profitably by itself.
+C. If a lot or parcel under forest assessment can be
+sold, leased, rented or otherwise managed as a part of a
+forestry operation, it is not " generally unsuitable". If a
+lot or parcel is under forest assessment, it is presumed
+suitable if it is composed predominantly of soil capable of
+producing 20 cubic feet of wood fiber per acre per year. If
+a lot or parcel is under forest assessment, to be found
+compatible and not seriously interfere with forest uses on
+surrounding land it must not force a significant change in
+forest practices or significantly increase the cost of those
+practices on the surrounding land.
+3. Loss of Tax Deferral
+a. Pursuant to ORS 215. 236, a non- farm dwelling on a lot
+or parcel in an Exclusive Farm Use zone that is or has been
+receiving special assessment may be approved only on the
+condition that before a building permit is issued the
+applicant must produce evidence from the County Assessor' s
+Office that the parcel upon which the dwelling is proposed
+19 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- 0530
+has been disqualified for special assessment at value for
+farm use under ORS 308. 370 or other special assessment under
+ORS 308. 765, 321. 352, 321. 730 or 321. 815 and that any
+additional tax or penalty imposed by the County Assessor as
+a result of disqualification has been paid.
+b. A parcel that has been disqualified for special
+assessment at value for farm use pursuant to ORS 215. 236( 4)
+shall not requalify for special assessment unless, when
+combined with another contiguous parcel, it constitutes a
+qualifying parcel.
+H. Temporary Hardship Dwelling.
+1. A dwelling listed in Section 18. 16. 030( F) is allowed
+under the following conditions:
+a. The dwelling is a manufactured home and is used in
+conjunction with an existing dwelling on the lot or parcel;
+b. The manufactured home would be temporarily sited on
+the lot or parcel only for the term of a hardship suffered by
+the existing resident or relative of the resident;
+C. The existence of a medical hardship is verified by
+a written doctor' s statement, which shall accompany the
+permit application; and
+d. The temporary manufactured home uses the same
+subsurface sewage disposal system used by the existing
+dwelling, provided that the existing disposal system is
+adequate to accommodate the additional dwelling.
+2. Permits granted under this subsection shall be subject
+to the provisions of Section 18. 116. 090( B) and ( C) and shall
+be required to meet any applicable DEQ review and removal
+requirements as a condition of approval.
+3. As used in this subsection, the term " hardship" means a
+medical hardship or hardship for the care of an aged or
+infirm person or persons. As used in this subsection, the
+term " relative" means grandparent, grandchild, parent, child,
+brother or sister of the existing resident."
+Section 16. Section 18. 16. 055 of the Deschutes County Code, as
+amended, is further amended to read as follows:
+18. 16. 055 Land Divisions
+A. General. A d[ D] ivision[ s] of land in the farm zone
+shall be identified on the land division application as
+either a farm division, nonfarm dwelling division[,] or a
+nonfarm division.
+20 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+B. Farm Divisions. A f[ F] arm division[ s] shall be subject
+to the minimum lot size requirements of Section 18. 16. 060( A)
+and all applicable requirements of Title 17. Notwith- standing
+the provisions of Section 18. 16. 060( B), partitions
+establishing parcels less than the EFU minimum lot size in
+EFU areas may be permitted to create one new parcel for a
+nonfarm dwelling that has been approved under subsection
+18. 16. 050( D), provided that the remaining farm parcel meets
+the minimum established by the EFU subzones.
+The minimum size for new parcels for farm use does not mean
+that dwellings may be approved on the new parcels. New
+dwellings in conjunction with farm use must satisfy the
+criteria in Section 18. 16. 050.
+C. Nonfarm Dwelling Division[ s].
+1[ a]. A n[ N] onfarm dwelling land division[ s] shall be
+subject to the minimum lot size requirements of Section
+18. 16. 060( B) and all applicable requirements of the partition
+ordinance, including the general partition standards set
+forth in Chapter 17. 22 and the Section 18. 16. 050( D) standards
+for nonfarm dwellings. Each nonfarm dwelling land division
+application shall be accompanied by an application for a
+dwelling on each parcel to be created.
+2[ b]. Nonfarm subdivisions are prohibited. No more than
+three nonfarm parcels may be created from any one parent
+parcel[,] existing as of the effective date of Ordinance 92-
+065.
+D. Nonfarm Divisions] other than Nonfarm Dwelling[ s].
+Such divisions shall be subject to the minimum lot size
+requirements of Section 18. 16. 060( C) of this Chapter and the
+applicable partitioning standards, including the general
+partition standards set forth in Chapter 17. 22, the
+Subdivision and Partition Ordinance."
+Section 17. Section 18. 16. 060 of the Deschutes County Code, as
+amended, is further amended to read as follows:
+18. 16. 060 Dimensional standards.
+A. The minimum parcel size for farm parcels created
+subject to Title 17 of the Deschutes County Code shall be as
+specified under Section 18. 16. 065, " Subzones."
+B. The minimum lot size for non- farm land divisions is
+20 acres.
+C. The minimum lot area for all non- farm uses
+permitted by Section 18. 16. 030[( E)]( G) through [( DD)] ( CC)
+shall be that determined by the Planning Directory or
+21 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- 06t';2
+Hearings Body to carry out the intent and purposes of ORS
+Chapter 215, this title and the Comprehensive Plan. In no
+case shall lot areas be less than one acre.
+D. Each lot shall have a minimum street frontage of 50
+feet.
+E. Building Height. No building or structure shall be
+erected or enlarged to exceed 30 feet in height, except as
+allowed under Section 18. 120. 040."
+Ord. 93- 043 5 3, 1993; Ord. 93- 004 S 1, 1993; Ord. 92- 065 S
+3, 1992; Ord. 92- 055 S 1, 1992; Ord. 91- 038 SS 1 and 2, 1991;
+Ord. 91- 020 S 1, 1991)
+Section 18. Section 18. 16. 065 of the Deschutes County Code, as
+amended, is further amended to read as follows:
+18. 16. 065 Subzones
+A. Lower Bridge
+a]. A p[ P] roposed farm division[ s] must result in parcels
+which demonstrate the following characteristics or
+capabilities:
+1.] 130 acres of irrigated land or 1991 assessed farm
+use value of $ 31, 850.[; or]
+2. Median irrigated acres or the equivalent assessed farm
+use value ( i. e., irrigated acres x $ 245/ acre) for commercial
+farms within a 2 - mile radius as measured from parcel
+perimeter. To qualify under this criterion parcels must
+contain at least 48 irrigated acres.]
+b. Applications for farm dwellings on existing parcels
+must meet one of the following:
+1. The subject property contains at least 130 irrigated
+acres or has a 1991 assessed farm use value of $ 31, 850; or
+2. The subject property contains the median irrigated acres
+or has the equivalent assessed farm use value ( i. e.,
+irrigated acres x $ 245/ acre) of commercial farms within a 2 -
+mile radius as measured from parcel perimeter; or
+3. The applicant demonstrates through a farm management
+plan the ability of the parcel to produce annual gross sales
+of $ 52, 650 or provides evidence that the parcel is part of a
+farm operation made up of non- contiguous tracts that together
+can meet the criteria in ( b)( 1), above.]
+B. Sisters/ Cloverdale
+22 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+a.] A p[ P] roposed farm division[ s] must result in parcels
+which demonstrate the following characteristics or
+capabilities:
+1.] 63 acres of irrigated land or 1991 assessed farm
+use value of $ 14, 931.[; or]
+2. Median irrigated acres or the equivalent assessed farm
+use value ( i. e., irrigated acres x $ 237/ acre) of commercial
+farms within a half - mile radius as measured from parcel
+perimeter. To qualify under this criterion parcels must
+contain at least 23 irrigated acres.]
+b. Applications for farm dwellings on existing parcels
+must meet one of the following:
+1. The subject property contains at least 63 irrigated
+acres or has a 1991 assessed farm use value of $ 14, 931; or
+2. The subject property contains the median irrigated acres
+or has the equivalent assessed farm use value ( i. e.,
+irrigated acres x $ 237/ acre) of commercial farms within a
+half - mile radius as measured from parcel perimeter; or
+3. The applicant demonstrates through a farm management
+plan the ability of the parcel to produce annual gross sales
+of $ 22, 680 or provides evidence that the parcel is part of a
+farm operation made up of non- contiguous tracts that together
+can meet the criteria in ( b)( 1), above.]
+C. Terrebonne
+a.] A p[ P] roposed farm division[ s] must result in parcels
+which demonstrate the following characteristics or
+capabilities:
+1.] 35 acres of irrigated land or 1991 assessed farm use
+value of $ 8, 365.[; or]
+2. Median irrigated acres or the equivalent assessed farm
+use value ( i. e., irrigated acres x $ 239/ acre) of commercial
+farms within a half - mile radius as measured from parcel
+perimeter. Parcels which qualify under this criterion must
+contain at least 23 irrigated acres.]
+b. Applications for farm dwellings on existing parcels
+must meet one of the following:
+1. The subject property contains at least 35 irrigated
+acres or has a 1991 assessed farm use value of $ 8, 365; or
+2. The subject property contains the median irrigated acres
+or has the equivalent assessed farm use value ( i. e.,
+23 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- 06,"A
+irrigated acres x $ 239/ acre) of commercial farms within a
+half - mile radius as measured from parcel perimeter; or
+3. The applicant demonstrates through a farm management
+plan the ability of the parcel to produce annual gross sales
+of $ 12, 600 or provides evidence that the parcel is part of a
+farm operation made up of non- contiguous tracts that together
+can meet the criteria in ( b)( 1), above.]
+D. Tumalo/ Redmond/ Bend
+a.] A p[ P] roposed farm division[ s] must result in parcels
+which demonstrate the following characteristics or
+capabilities:
+1.] 23 acres of irrigated land or 1991 assessed farm use
+value of $ 5, 451.[; or]
+2. Median irrigated acres or the equivalent assessed farm
+use value ( i. e., irrigated acres x $ 237/ acre) for commercial
+farms within a half - mile radius as measured from parcel
+perimeter. To qualify under this criterion parcels must
+contain at least 18 irrigated acres.]
+b. Applications for farm dwellings on existing parcels
+must meet one of the following:
+1. The subject property contains at least 23 irrigated
+acres or has a 1991 assessed farm use value of $ 5, 451; or
+2. The subject property contains the median irrigated acres
+or has the equivalent assessed farm use value ( i. e.,
+irrigated acres x $ 237/ acre) of commercial farms within a
+half - mile radius as measured from parcel perimeter; or
+3. The applicant demonstrates through a farm management
+plan the ability of the parcel to produce annual gross sales
+of $ 8, 280 or provides evidence that the parcel is part of a
+farm operation made up of non- contiguous tracts that together
+can meet the criteria in ( b)( 1), above.]
+E. Alfalfa
+a.] A p[ P] roposed farm division[ s] must result in parcels
+which demonstrate the following characteristics or
+capabilities:
+1.] 36 irrigated acres or 1991 assessed farm use value of
+8, 640.[; or]
+2. Median irrigated acres or the equivalent assessed farm
+use value ( i. e., irrigated acres x $ 240/ acre) of commercial
+farms within a half - mile radius as measured from parcel
+24 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+16 2" 38- 5
+perimeter. To qualify under this criterion parcels must
+contain at least 19 irrigated acres.]
+b. Applications for farm dwellings on existing parcels
+must meet one of the following:
+1. The subject property contains at least 36 irrigated
+acres or has a 1991 assessed farm use value of $ 8, 640; or
+2. The subject property contains the median irrigated acres
+or the equivalent assessed farm use value ( i. e., irrigated
+acres x $ 240/ acre) of commercial farms within a half - mile
+radius as measured from parcel perimeter; or
+3. The applicant demonstrates through a farm management
+plan the ability of the parcel to produce annual gross sales
+of $ 12, 960 or provides evidence that the parcel is part of a
+farm operation made up of non- contiguous tracts which
+together can meet the criteria in ( b)( 1), above.]
+F. LaPine
+a.] A p[ P] roposed farm division[ s] must result in parcels
+which demonstrate the following characteristics or
+capabilities:
+1.] 37 acres of irrigated land or 1991 assessed farm use
+value of $ 11, 570.
+b. Applications for farm dwellings on existing parcels must
+meet one of the following:
+1. The subject property contains at least 37 irrigated
+acres or has a 1991 assessed farm use value of $ 11, 570; or
+2. The applicant demonstrates through a farm management
+plan the ability of the parcel to produce annual gross sales
+of $ 10, 710 or provides evidence that the parcel is part of a
+farm operation made up of non- contiguous tracts that together
+can meet the criteria in ( b)( 1), above.]
+G. Horse Ridge East
+Minimum parcel size [ s ] for a farm division[ s] or for farm -
+related dwellings on existing parcels is 320 acres."
+Ord. 92- 065, Sec. , 1992)
+Section 19. Section 18. 16. 065 of the Deschutes County Code, as
+amended, is further amended to read as follows:
+18. 16. 067 Farm Management Plans
+25 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+A. Contents. A farm management plan shall consist of the
+following components:
+1[)] A written description of existing and/ or proposed
+farm uses, including type of crops or livestock, size and
+location of areas for each use, and land or soil preparation
+required.
+2()] An assessment of the soils, climate and irrigation
+on the parcel demonstrating that the parcel is suitable for
+the current or proposed use outlined in Section A( 1).
+3[)] A business plan, including a demonstration that
+markets exist for the product; estimates of gross sales or
+actual gross sales figures; estimated or actual figures
+concerning necessary expenditures; and a list of capital
+expenditures incurred or projected to be incurred in
+establishing the farm use on the parcel.
+4 [ ) ] A written description of the farm uses in the area,
+including acreage, size and type of crop or livestock raised
+showing that the proposed plan is representative of similar
+farm uses„ if any, in the area and will not conflict with
+the existing agriculture types.
+5()] For farm uses not currently practiced in the area,
+an analysis showing that the plan is representative of the
+type of agriculture proposed.
+B. Conditional Approvals.
+1[)] For purposes of land use approval, in instances
+where at the time of application the subject land is not
+currently in farm use, a farm management plan will be deemed
+to demonstrate current employment of the land for farm use
+if: ( 1) the farm management plan establishes a level of
+farming that constitutes a farm use; ( 2) the farm management
+plan sets forth specific timelines for the completion of
+capital improvements ( barns, fencing, irrigation, etc.) and
+for the establishment of the proposed farm use on the parcel;
+and ( 3) land use approval is subject to a condition that no
+building permit for the farm dwelling can be issued prior to
+a determination that pursuant to the farm management plan a
+farm use has been established on the subject land.
+2 [ ) ] For purposes of determining under this section that
+a farm use has been established on the land, the County shall
+determine that the farm management plan has been implemented
+to the extent that the farm use has [ may reasonably be
+expected to] achieved the [ a] gross farm sales figure
+required under Section 18. 16. 050 [ equal to the median gross
+sales figure for the subzone].
+26 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- 06C
+C. Tier 3 Review. For purposes of Tier 3 approvals, the
+management plan shall be reviewed by an independent expert.]
+Ord. 93- 004 S 2, 1993; Ord. 92- 065 S , 1992)
+Section 20. The Covenants, Conditions and Restrictions form set
+forth in Exhibit A hereto and incorporated herein by reference is
+adopted as Exhibit A to Chapter 18. 16.
+Section 21. ADDITIONS AND DELETIONS. Unless otherwise noted,
+additions to the existing code are set forth in bold- faced type;
+deletions are enclosed in brackets.
+Section 22. SEVERABILITY. The provisions of this ordinance are
+severable. If any sentence, clause, or phrase of this ordinance is
+found to be invalid by a court of competent jurisdiction that decision
+shall not affect the validity of the remaining portions of this
+ordinance.
+Section 23. CORRECTIONS. This ordinance may be corrected by
+order of the Board of County Commissioners to cure editorial and
+clerical errors and to insert appropriate legislative history
+references.
+Section 24. CODIFICATION. County Legal Counsel shall have the
+authority to format the provisions contained herein in a manner that
+will integrate them into the County Code consistent with the County
+Legal Counsel form and style for ordinance codification. Such
+codification shall include the authority to make format changes, to
+make changes in numbering systems and to make such numbering changes
+consistent with interrelated code sections. In addition, as part of
+codification of these ordinances, County Legal Counsel may insert
+appropriate legislative history reference. Any legislative history
+references included herein are not adopted as part of the substance of
+this ordinance, but are included for administrative convenience and as
+a reference. They may be changed to correct errors and to conform to
+proper style without action of the Board of County Commissioners.
+Section 25. REPEAL OF ORDINANCES AS AFFECTING EXISTING
+LIABILITIES. The repeal, express or implied, of any ordinance,
+ordinance provision, code section, or any map or any line on a map
+incorporated therein by reference, by this amending ordinance shall not
+release or extinguish any duty, condition, penalty, forfeiture, or
+liability previously incurred or that may hereafter be incurred under
+such ordinance, unless a provision of this amending ordinance shall so
+expressly provide, and such ordinance repealed shall be treated as
+still remaining in force for the purpose of sustaining any proper
+action or prosecution for the enforcement of such duty, condition,
+penalty, forfeiture, or liability, and for the purpose of authorizing
+the prosecution, conviction and punishment of the person or persons who
+previously violated the repealed ordinance.
+27 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- 0638
+Section 26. EMERGENCY. This Ordinance being necessary for the
+immediate preservation of the public peace, health and safety, an
+emergency is declared to exist, and this Ordinance takes effect on its
+passage.
+DATED this 1st day of March, 1995.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES
+7Z;
+OREGON
+v4
+B Y H. S HTER/ , Ch firman
+1 /
+ATTEST: NANCY EISC"' GEN, Commissi
+Recording Secre ary ROBEAT L. NIPPER, Commi s oner
+28 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+Exhibit A
+Declaration of Covenants, Conditions and Restrictions
+Whereas the undersigned hereinafter referred to
+as " Declarant", is owner in fee simple of the property described in
+Exhibit A attached hereto and by this reference incorporated herein
+the property); and
+Whereas, Declarant has received approval to site a manufactured
+home on the property described herein pursuant to land use permit No.
+for an accessory farm dwelling, issued by Deschutes
+County pursuant to Section 18. 16. 050( C) of the Deschutes County Code;
+Whereas Section 18. 16. 050( C)( 1)( b)( iii) requires as a condition of
+approval the recording of a deed restriction in favor of Deschutes
+County requiring that any manufactured home sited under said permit be
+removed prior to any further conveyance of this property; and
+Whereas the Declarant desires to declare his/ her intention to
+create covenants, conditions and restrictions necessary to effectuate
+and comply with the requirements of OAR 660- 33- 130( 24)( a)( B)( iii) and
+Section 18. 16. 050( C) of the Deschutes County Code;
+Declarant hereby declares that all of the property described in
+Exhibit A shall be held, sold and conveyed subject to the following
+covenants, conditions and restrictions in favor of Deschutes County:
+1. Declarant shall cause to be removed any manufactured home sited on
+the property described herein pursuant to Deschutes County land
+use permit No. for an accessory dwelling prior
+to any further conveyance of the property.
+2. Declarant' s obligations under this covenant shall not be
+extinguished by any subsequent conveyance made in disregard of
+these covenants, conditions and restrictions.
+3. These covenants, conditions and restrictions shall in addition run
+with the land and be binding upon any of the Declarant' s
+successors in interest should the property be transferred in
+disregard of this covenant.
+4. It is intended that this covenant shall have the same effect as a
+regulation designed to implement the comprehensive plan. This
+covenant may be enforced by Deschutes County by a suit in equity,
+or if Deschutes County fails to take such action, by any person
+described in ORS 215. 188.
+29 - ORDINANCE NO. 95- 007 ( 3- 1- 95)
+0138- 061,010
+5. These covenants, conditions and restrictions shall be released by
+the County upon proof that the requirements set forth herein have
+been met.
+Dated this day of
+Signature)
+notary seal)
+30 - ORDINANCE NO. 95- 007 ( 3- 1- 95)

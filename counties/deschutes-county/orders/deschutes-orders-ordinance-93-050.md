@@ -1,0 +1,445 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-93-050
+title: 'Ordinance No. 93-050'
+doc_type: ordinance
+citation: 'Ordinance No. 93-050'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616697113_1993-33296-Ordinance%20No.%2093-050%20Recorded%209_22_1993.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 76905c9b2c9afb7187f6a4d8f8281b079bb311fc4156fe3c5437de006f96de8b
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 93-050 (Ordinance No. 93-050)
+
+## At a glance
+
+Ordinance No. 93-050 — orders of Deschutes County. 5 pages.
+
+## Full text
+
+T)VJQ
+93- 33296
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Chapter 9. 08, * w
+Discharge of Firearms," of the Deschutes *" Cn
+County Code to designate the Deschutes River
+Restricted Area and Declaring an Emergency. * `
+ORDINANCE 93- 050 L14 j L o
+ry x '- -^"'
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OCG© N,
+ORDAINS as follows:
+Section 1. ADOPTION. Chapter 9. 08, " Discharge of Firearms"
+is amended to read as set forth in Exhibit " A, " attached hereto and
+by this reference incorporated herein.
+Section 2. MAP. The Board shall cause to be filed with the
+County Clerk' s office a map suitable for reproduction showing the
+boundaries of the Deschutes River restricted area, as described in
+Deschutes County Code Section 9. 08. 085, adopted herein.
+Section 3. DELETIONS AND ADDITIONS. Code provisions or
+portions thereof that are to be deleted as a result of the adoption
+made under Section 1 of this ordinance are shown in brackets;
+provisions that are being added are shown in bold- faced type.
+Section 4. SEVERABILITY. The provisions of this ordinance
+are severable. If any section, sentence, clause, or phrase of this
+ordinance or any exhibit thereto is adjudged to be invalid by a
+court of competent jurisdiction that decision shall not affect the
+validity of the remaining portions of this ordinance or exhibit
+thereto.
+Section 5. EMERGENCY. This Ordinance being necessary for the
+immediate preservation of the public peace, health and safety, an
+emergency is declared to exist, and this Ordinance takes effect on
+its passage.
+DATED this 22nd day of September 1993.
+BOARD OF COMMISSIONERS
+OF DESCRU
+OUNTY
+ES COUNTY, OREGON
+A E NAN POPE / GE , Commissio
+l( i
+Recording Secretary BARRY H. ST. 3HT R, Commissioner
+1 - ORDINANCE NO. 93- 050 ( 9/ 22/ 93) KCHED
+i. i Y
+AEC
+21993 ?
+L J
+EXHIBIT " A"
+Chapter 9. 08
+DISCHARGE OF FIREARMS
+Sections:
+procedure.
+9. 08. 010 Definitions.
+9. 08. 020 Discharge of firearms
+prohibited.
+9. 08. 030 Exemptions to chapter
+9. 08. 080
+applicability.
+9. 08. 040 Restricted areas - Formation
+9. 08. 085 Deschutes River corridor
+restricted area.
+9. 08. 090 Violation - Penalty.
+9. 08. 010 Definitions.
+For the purposes of this chapter, unless
+otherwise apparent from the context, certain
+words and phrases used in this chapter are
+defined as follows:
+A. " Board" means the Board of
+Commissionersof DeschutesCounty, Oregon.
+B. " Restricted area" means an area
+restricted pursuant to the provisions of this
+chapter or an area designated as restricted in
+this chapter.
+C. " River miles" refers to mileage
+measured along the river, with reference to
+river mile designations shown on 1981
+photorevised USGS quadrangle maps of the
+areas in question.
+9. 08. 020 Discharge of firearms prohibited.
+No person shall fire or discharge any
+weapon which acts by force of explosive,
+except as provided in section 9.08. 030 of this
+chapter, within an area designated as a
+restricted area pursuant to section 9. 08. 080 of
+this chapter or designated as a restricted area
+in this chapter.
+9. 08. 030 Exemptions to chapter
+applicability.
+Section 9. 08. 020 of this chapter shall not
+apply to:
+A. A person acting in defense or
+protection of his property or of an individual;
+B. A peace officer acting in the course
+of his duty;
+C. A lawfully established firing range.
+9. 08. 040 Restricted areas.
+A. This provision shall apply to
+restricted areas formed through the petition
+process. A restricted area formed by petition
+may be formed in the following areas, subject
+to petition and signature requirements set
+forth in section 9. 08. 050 of this chapter,
+provided that the properties within a single
+proposed district are contiguous:
+GAL Recorded subdivisions or town
+plats; or
+2)] 2. Individual lots outside of
+recorded subdivisions or town plats, where
+such lots are contiguous to a subdivision or
+town plat in an existing or proposed restricted
+area or are contiguous to other lots included
+within an existing or proposed restricted area,
+or
+3)] 3. Any combination thereof;
+B. No subdivision or town plat shall be
+eligible for such designation unless 60 percent
+of the registered voters within such subdivision
+or combination of subdivisions sign the
+petition proposing such district.
+C. No individual lot not covered by a
+town plat or recorded subdivision plat shall be
+eligible for inclusion in a proposed restricted
+area unless the owner of such lot signs a
+petition requesting such designation.
+Determination of ownership shall be made
+using the most recent property tax assessment
+roll. Recent purchasers must provide a
+certified copy of a deed.
+D. Except as set forth in subsection B of
+1 — EXHIBIT " A" TO ORDINANCE NO. 93- 050 ( 9/ 22/ 93)
+procedure.
+9. 08. 050 Petitions - Requirements.
+9. 08. 060 Petitions - Time limit for
+securing signatures.
+9. 08. 070 Petitions - Hearing -Notice.
+9. 08. 080 Petitions - Formation of
+restricted areas.
+9. 08. 085 Deschutes River corridor
+restricted area.
+9. 08. 090 Violation -Penalty.
+9. 08. 010 Definitions.
+For the purposesof this chapter, unless
+otherwise apparent from the context, certain
+words and phrases used in this chapter are
+defined as follows:
+A. " Board" means the Board of
+Commissionersof DeschutesCounty, Oregon.
+B. " Restricted area" means an area
+restricted pursuant to the provisions of this
+chapter or an area designatedas restricted in
+this chapter.
+C. " River miles" refers to mileage
+measured along the river, with referenceto
+river mile designations shown on 1981
+photorevised USGS quadrangle maps of the
+areas in question.
+9. 08. 020 Dischargeof firearms prohibited.
+No personshall fire or dischargeany
+weapon which acts by force of explosive,
+exceptas providedin section9. 08. 030 of this
+chapter, within an area designatedas a
+restricted area pursuant to section9. 08. 080 of
+this chapteror designatedas a restricted area
+in this chapter.
+9. 08. 030 Exemptionsto chapter
+applicability.
+Section 9. 08. 020 of this chapter shall not
+applyto:
+A. A person acting in defenseor
+protectionof his propertyor of an individual;
+B. A peace officer actingin the course
+of his duty;
+C. A lawfully establishedfiring range.
+9. 08. 040 Restricted areas.
+A. This provision shall apply to
+restricted areas formed through the petition
+process. A restrictedarea formedby petition
+maybe formedin the followingareas, subject
+to petition and signature requirements set
+forth in section 9. 08. 050 of this chapter,
+provided that the properties within a single
+proposed district are contiguous:
+GAL Recorded subdivisionsor town
+plats; or
+2)] 2. Individual lots outside of
+recorded subdivisions or town plats, where
+such lots are contiguous to a subdivision or
+town platin an existingor proposed restricted
+area or are contiguousto other lots included
+within an existingor proposed restricted area,
+or
+3)] 3. Any combinationthereof;
+B. No subdivisionor town plat shall be
+eligible for such designation unless60 percent
+of the registered voters within such subdivision
+or combination of subdivisions sign the
+petition proposingsuch district.
+C. No individuallot not coveredby a
+town plat or recorded subdivisionplat shall be
+eligible for inclusionin a proposed restricted
+area unless the owner of such lot signs a
+petition requesting such designation.
+Determinationof ownershipshall be made
+usingthe most recent propertytax assessment
+roll. Recent purchasers must provide a
+certifiedcopyof a deed.
+D. Exceptas set forth in subsectionB of
+1 — EXHIBIT " A" TO ORDINANCENO. 93- 050 ( 9/ 22/ 93)
+this section, no individual lots owned by a
+political subdivision of the State of Oregon or
+special district shall be eligible for inclusion in
+a proposed restricted area unless such
+governmental entity or quasi - governmental
+entity shall have passed an ordinance
+consistent with the provisions of this chapter
+restricting the discharge of firearms on such
+property.
+E. Any area eligible to be included in a
+restricted area under this section may annex
+onto an existing firearms district by following
+the formation procedures set forth in this
+chapter.
+9. 08. 050 Petitions - Requirements.
+A. Except for restricted areas
+designated outright in this chapter, a [ A]
+proposal for formation of a restricted area
+shall be made by petition. The petition, which
+may consist of a single instrument or separate
+counterparts, shall contain the following:
+1. A description of the boundaries of
+the proposed restricted area;
+2. A statement that the area is
+proposed to be restricted pursuant to the
+provisions of this chapter;
+3. At least one, and as many as three,
+chief petitioners, setting forth their names and
+mailing addresses;
+4. The signatures of not less than sixty
+60) percent of the registered voters of
+subdivisions included within the proposed
+restricted area;
+5. The signature of each owner, or
+authorized representative thereof, of any
+individual lot outside of a recorded
+subdivision plat or town plat entitled to be
+included in a proposed restricted area; and
+6. A certified true copy of any
+ordinance of a municipal corporation or
+special district with property included within
+the proposedboundaries designatingthe area
+to be restricted area consistent with the
+provisions of this chapter.
+B. Each person signinga petition shall,
+besides signing the petition, also print his
+name after his signature and shall add after
+011208-CIlC9
+his signature his place of residence, giving
+street and number or designation sufficient to
+enable the place or residence to be readily
+ascertained.
+C. After a petition has been offered for
+filing a person may not withdraw his name
+therefrom.
+9.08.060 Petitions - Time limit for securing
+signatures.
+A. A petition shall not be accepted for
+filing unless the signatures thereon have been
+secured within six months of the date on
+which the first signature on the petition was
+aflyd. The petition shall be filed with the
+county clerk.
+B. The petition shall be accompanied by
+a sum of money determined by the board as
+sufficient to cover the expenses of the
+formation of the district.
+C. Within ten days after the date the
+petition is offered for filing, the county clerk
+shall examine the petition and determine
+whether it is signed by the requisite number
+of qualified signers. If the requisite number
+of qualified signers have signed the petition,
+the clerk shall forward the petition to the
+board. If the requisite number have not
+signed the petition the clerk shall notify the
+chief petitioners and may return the petition
+to the petitioners.
+D. A petition shall not be filed unless
+the certificate of the county clerk is attached
+thereto certifying that he has compared the
+signatures of the signers with the appropriate
+records; that he has ascertained therefrom the
+number of qualified signers appearing on the
+petition and that the petition is signed by the
+requisite number of qualified signers.
+9.08.070 Petitions - Hearing - Notice.
+A. Following receipt of the petition from
+the county clerk, the board shall set a date for
+hearing not less than fifteen days nor more
+than forty- five days after the date the petition
+is received by the board.
+R. The board shall cause notice of the
+hearing to be posted in at least three public
+2 — EXHIBIT " A" TO ORDINANCE NO. 93- 050 ( 9/ 22/ 93)
+places within the proposed restricted area and
+published once by insertion in a newspaper of
+general circulation in the restricted area not
+less than seven nor more than fourteen days
+prior to the date set for hearing. The notice
+shall state:
+1. The purpose for which the district is
+being formed;
+2. The boundaries for the proposed
+district;
+3. The time and place set for hearing,
+and
+4. That all interested parties may
+appear and be heard and that notice be given
+to the non -appearing registered voters within
+the area omitted. The hearing may not be
+continued for more than fifteen days.
+9. 08. 080 Petitions - Formation of restricted
+areas.
+If after hearing the petition the board
+determines that the area would benefit by the
+restrictions of this chapter, it may enter an
+order stating that the area petitioned to be
+restricted, and as may be amended, shall be
+subject to the provisions of this chapter. The
+order shall take effect immediately upon
+passage.
+9. 08. 085 Deschutes River corridor restricted
+area.
+A. For the purposes of this chapter, the
+Deschutes River restricted area, as described
+in this section, shall be a restricted area. The
+boundaries of the Deschutes River restricted
+area shall extendfrom the northern boundary
+of Sunriver, located at the SW 1/4 of section
+20, Township 19 S., Range 11 E. W. M. ( river
+mile 185. 45) to the southern edge of the area
+platted as First Addition River Forest Acres
+subdivision, located in the SW 1/4 of Section
+35, Township 20 S., Range 10 E. W. M. ( river
+mile 203.07), except for the following excluded
+areas:
+1. A 3. 04 mile segment of the Deschutes
+River extending between river mile 187.70
+through 190.74, more generally described as
+that segment of the river lying between a
+0128- 0 T0
+point located . 77 river miles upstream of
+Cardinal Bridge and a point located . 26 river
+miles upstream of the confluence with Spring
+River;
+2. A . 36 mile segment of the Deschutes
+River extending between river miles 191.52
+and 191. 88, covering that area extending
+downstream . 21 river miles from where Spring
+River Road crosses the river at Harper Bridge
+located at river mile 191. 73) and upstream
+15 river miles from Harper Bridge;
+3. A . 35 mile segment of the Deschutes
+River extending between river miles 192.40
+and 192.75, covering that area extending . 15
+river miles downstream of the confluence of
+the Little Deschutes River ( located at river
+mile 192. 55) and . 20 river miles upstream of
+the confluence of the Little Deschutes River;
+4. A . 55 mile segment of the Deschutes
+River extending between river miles 198.94
+and 199.49, covering that area extending . 21
+river miles downstream of where South
+Century Drive crosses the river at General
+Patch Bridge ( located at river mile 199. 15)
+and . 34 river miles upstream of the General
+Patch Bridge;
+5. A . 15 mile segment of the Deschutes
+River upstream of the General Patch Bridge
+extending between river miles 200.00 and
+200. 15;
+6. A . 61 mile segment of the Deschutes
+River upstream of the General Patch Bridge
+extending between river miles 200.60 and
+201. 21; and
+7. A . 95 mile segment of the Deschutes
+River upstream of the General Patch Bridge
+extending between river miles 201.93 and
+202. 88;
+The restricted area shall include the beds
+and banks and surface of the Deschutes River
+segments described above that fall below the
+ordinary high water mark, any included
+islands and those adjacent lands within 150
+yards from the ordinary high water mark on
+each side of the river.
+B. The areas identified herein as
+excluded areas shall not be restricted by the
+provisions of this chapter.
+3 - EXHIBIT " A" TO ORDINANCE NO. 93- 050 ( 9/ 22/ 93)
+C. This designation shall not affect any
+other pre- existing designated restricted areas.
+9.08.090 Violation - Penalty.
+Violation of any provision of this chapter
+is a Class A infraction.
+4 — EXHIBIT " A" TO ORDINANCE NO. 93- 050 ( 9/ 22/ 93)

@@ -1,0 +1,178 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2001-004
+title: 'Ordinance No. 2001-004'
+doc_type: ordinance
+citation: 'Ordinance No. 2001-004'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616806715_2001-441-Ordinance%20No.%202001-004%20Recorded%205_24_2001.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: f526e6db48c8e6e83598010f3daba734ab93883162106bfe50b070cbd55ffb8b
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2001-004 (Ordinance No. 2001-004)
+
+## At a glance
+
+Ordinance No. 2001-004 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+VOL: CJ2001 PAGE: 441
+RECORDED DOCUMENT
+STATE OF OREGON
+COUNTY OF DESCHUTES
+02001- 441 * Vol - Page Printed: 06/ 01/ 2001 15:48: 08
+DO NOT REMOVE THIS CERTIFICATE
+This certificate constitutes a part of the original instrument in accordance with
+ORS 205. 180( 2). Removal of this certificate may invalidate this certificate and affect
+theadmissibilityof theoriginal instrumentinto evidencein anylegalproceeding.)
+I herebycertify thattheattachedinstrumentwasreceived
+and duly recordedin DeschutesCounty records:
+DATE AND TIME:
+DOCUMENT TYPE:
+NUMBER OF PAGES:
+May. 24, 2001; 12:04 p.m.
+Ordinance ( CJ)
+1
+MARY SUE PENHOLLOW
+DESCHUTES COUNTY CLERK
+KEY NCH D
+JU 1 001
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OFffiSCHUTES COUNTY, OREGON
+An Ordinance Amending Title 18, Deschutes *
+County Zoning Ordinance of the Deschutes REVIEWED
+County Code, to Amend the Regulations for
+Building Height Exceptions.
+ORDINANCE NO. 2001- 004
+LEGAL COUNSEL
+WHEREAS, the citizens and the DeschutesCounty Planning Commission of Deschutes
+County have brought concernsover the building height exceptions processin DeschutesCounty
+to the attention of the Board of County Commissioners and the Planning Division; and
+WHEREAS, the Deschutes County Board of County Commissioners and Deschutes
+County Planning Commission held a joint meeting on July 10, 2000 to discuss the Deschutes
+County Zoning Ordinance, Building Height Exceptions, Section 18.120.040; and
+WHEREAS, the Deschutes County Planning Commission, after conducting a Public
+Hearing, forwarded recommendations regarding this matter to the Board of County
+Commissioners to consider; and
+WHEREAS, after notice was given and a public hearing was conducted on May 2, 2001,
+before the Board of County Commissioners in accordance with applicable law, the Board of
+County Commissioners has considered the proposed amendments; and
+WHEREAS, The Board of County Commissionershas determined that there is a needto
+protect the scenic views in DeschutesCounty by limiting the types of structuresthat are allowed
+an outright exception to the existing 30 -foot building height limit; and
+WHEREAS, because consideration of changes to the allowable height for agricultural
+barns/ structures is a more complicated matter, the Board is deferring the decision on these
+structures pending a subsequent public hearing process; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. AMENDMENT. Section 18.120.040, Building Height Exceptions, of the
+Deschutes County Zoning Ordinance, is amended to read as shown in Exhibit " A," attached
+hereto and by this referenceincorporated herein, with new languageunderlined and deleted
+language shown in stfil.
+DATED this day of May, 2001.
+BOARD OF COUNTY COYMISSIONERS OF
+DESCHUTES COUNTY, OW- GON
+ATTEST: MNNIS R. LUKE,
+Recording Secretary MICHAEL M. Dt Z
+PAGE 1 OF 1 - ORDINANCE NO. 2001 - 004 ( 05/ 02/ 01)
+in )
+EXHIBIT " A"
+20.040. Building height exceptions.
+The following structures or structural
+parts are not subject to the building
+height limitations of Title 18: pubhe
+seheels, chimneys not more than three
+feet six inches ( 3' 6") above the highest
+point of the roof, vertical support
+structures for telephone and power
+transmission lines in utility easements or
+public rights- of- way, not requiring a site
+plan review as defined in the DCC
+18. 124. 060, ' hufeahrspires, be1 ,
+demes, menuments, fire and hose t
+smekestaeh,— flagpoles not exceeding
+forty ( 40) feet.; and agricultural
+structures as defined in this ordinance.
+This exception does not apply to an
+Airport Development Zone, Apert
+Height Gembining Airport Safety
+Combining Zone or Landscape
+ManagementCombining Zone.
+B. The following structures or structural
+parts may receive exceptions to the
+building heightlimitationsof Title 18if
+approved as part of a Site Plan Review,
+as defined in the DCC 18.124.060 and
+subject to the criteria contained therein,
+public schools vertical support structures
+for telephone and power transmission
+lines requiring a site plan structures that
+are necessary for public safety and
+flagpoles This exception does not
+supercede the more restrictive
+requirements that are found in the Airport
+Safety Combining Zone or Landscape
+Management Combining Zone.
+B -.C. An exception ( up to 36 feet) to the
+building height limitationsfor structures
+not otherwise exempted by
+18.120.040( A) may be approved upon
+findings that:
+1. The structure is not located in a
+Landscape Management Zone,
+except when the structure is a single-
+family dwelling with an attached
+hangar located in an unincorporated
+community and the structurehas a
+maximum height of 35 feet including
+chimneys, antennas, flagpoles or
+other projections from the roof of the
+structure;
+2. The structure is not located within
+100feetof anyrimrock, asdefinedin
+DCC 18. 04. 030;
+3. After consultation with the
+applicable fire department, the
+proposed height does not exceed the
+height limitation of the department' s
+fire fighting equipment, considering
+the evacuation of the building' s
+occupants and the fire fighting
+requirements of the department;
+4. The proposed additional height will
+not adversely impact scenic views
+from existing nearby residences; and
+5. The proposed structure shall
+relate harmoniously to the natural
+environment and existing
+development minimizing visual
+impacts and preserving natural
+features including_ views and
+topographical features.
+Ord 2001- 004 § 3, 2001; Ord. 96- 035 § 1,
+1996; 93- 043 § 20C, 1993; Ord. 92- 055 § 10,
+1992; Ord. 92- 036 1, 1992)
+Page 1 of 1 -EXHIBIT " A" TO ORDINANCE NO. 2001-004 ( 05/02.01)

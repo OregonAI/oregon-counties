@@ -1,0 +1,1153 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/washington-county
+id: washington-code-apxblopuheauco
+title: 'Appendix B - LOCAL PUBLIC HEALTH AUTHORITY CODE'
+doc_type: ordinance
+citation: 'Appendix B - LOCAL PUBLIC HEALTH AUTHORITY CODE'
+authority_level: county_ordinance
+issuing_body: 'Washington County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=436713&nodeId=APXBLOPUHEAUCO&productId=16681
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: efebb9fe0d674b6ae7e65f29509ba3d47cf8c73a370449daf74ae438b0d0b782
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 431.415
+    - ORS 689.005
+  related: []
+  supersedes: []
+tags: [washington-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Washington County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Appendix B - LOCAL PUBLIC HEALTH AUTHORITY CODE (Appendix B - LOCAL PUBLIC HEALTH AUTHORITY CODE)
+
+## At a glance
+
+Appendix B - LOCAL PUBLIC HEALTH AUTHORITY CODE — code of Washington County. 31 sections.
+
+## Full text
+
+ ### Appendix B - LOCAL PUBLIC HEALTH AUTHORITY CODE
+
+Footnotes: --- ( 1 ) ---
+Editor's note—
+Printed herein is the Appendix B of the County, Ordinance No. 848 § 3(Exh. A), as adopted by the County on May 7, 2019. Amendments to the Appendix
+are indicated by parenthetical history notes following amended provisions. The absence
+of a history note indicates that the provision remains unchanged from the original
+ordinance. Obvious misspellings and punctuation errors have been corrected without
+notation. Additions made for clarity are indicated by brackets.
+
+ ### CHAPTER 1 - DRUG TAKEBACK ORDINANCE
+
+ ### 1.010 - Authority, purpose and intent.
+
+(1)
+The purpose of this Ordinance is to protect the public health by providing prompt,
+safe, and effective disposal methods for expired or otherwise unwanted drugs and to
+prevent such substances from being obtained for unauthorized purposes or being disposed
+of in a manner that can adversely affect the environment.
+(2)
+This Ordinance has been enacted for the welfare of the public as a whole. Nothing
+contained in this Ordinance is intended to be nor may be construed to create or form
+the basis of any liability on the part of the County, its officers, employees, or
+agents for any injury or damage resulting from the failure of anyone to comply with
+the provisions of this Ordinance, or by reason or in consequence of the implementation
+or enforcement pursuant to this Ordinance, or by reason of any action or inaction
+on the part of the County related in any manner to the enforcement of this Ordinance
+by its officers, employees, or agents.
+(3)
+This Ordinance is adopted by the Washington County Board of Commissioners sitting
+as the Local Public Health Authority in accordance with the authority granted in ORS
+431.415.
+
+ ### 1.020 - Administration.
+
+The Washington County Department of Health and Human Services, Public Health Division
+shall administer this Ordinance under the authority and requirements of ORS Chapter
+431. Public Health is authorized to take actions deemed necessary to maintain public
+health and sanitation and to administer and enforce this Ordinance. Fees may be charged
+and collected for this administration.
+
+ ### 1.030 - Reserved.
+
+ ### 1.040 - Definitions.
+
+As used in this Ordinance, the following terms have the meanings indicated unless
+the context clearly indicates otherwise.
+(1)
+"Authorized collector" means any person or entity authorized as a collector by the
+United States Drug Enforcement Administration pursuant to 21 CFR 1317, such as manufacturers,
+distributors, reverse distributors, retail pharmacies, hospitals/clinics with an on-site
+pharmacy, or narcotic treatment programs that gather unwanted drugs, including controlled
+substances, from Residents for the purpose of collection, transportation and disposal.
+For purposes of this Ordinance, "authorized collector" shall also include law enforcement
+agencies.
+(2)
+"Covered drug" means a drug sold in any form and used by Residents, including prescription
+and nonprescription drugs, brand name and generic drugs, drugs for veterinary use,
+and drugs in medical devices and combination products, including pre-filled inhaler
+devices and pre-filled injector devices with a retractable or otherwise securely covered
+needle. Covered drug does not include:
+(a)
+Vitamins or supplements;
+(b)
+Herbal-based remedies and homeopathic drugs, products or remedies;
+(c)
+Cosmetics, shampoos, sunscreens, toothpaste, lip balm, antiperspirants or other personal
+care products that are regulated as both cosmetics and nonprescription drugs under
+the Federal Food, Drug and Cosmetic Act (Title 21 U.S.C. Ordinance 9);
+(d)
+Drugs for which producers provide a pharmaceutical product stewardship or take- back
+program as part of a federal food and drug administration managed risk evaluation
+and mitigation strategy (Title 21 U.S.C. Sec. 355-1);
+(e)
+Drugs that are biological products as defined by 21 CFR 600.3(h) as it exists on the
+effective date of this Ordinance if the producer already provides a pharmaceutical
+product stewardship or take-back program;
+(f)
+Injector products and medical devices or their component parts or accessories that
+have been emptied or contain no more than trace residual amounts of a covered drug;
+and
+(g)
+Pet pesticide products contained in pet collars, powders, shampoos, topical applications,
+or other similar products.
+(3)
+"Residents" means all individuals living in Washington County, including individuals
+living in single and multiple family residences and other residential settings, and
+including other non-business sources of prescription and nonprescription drugs that
+are unused, unwanted, disposed of or abandoned by Residents as identified by Public
+Health. "Residents" does not include business generators of pharmaceutical waste such
+as hospitals, clinics, doctor's offices, veterinarian clinics, pharmacies or airport
+security and law enforcement drug seizures.
+(4)
+"Drop-off site" means the location of an authorized collector where a secure drop
+box for the collection of unwanted covered drugs is provided for Residents of the
+County, or the location of a long-term care facility at which a hospital/clinic or
+retail pharmacy is authorized by the United States Drug Enforcement Administration
+to maintain a secure drop box for unwanted covered drugs from Residents of the long-term
+care facility.
+(5)
+"Drug wholesaler" means a corporation, individual or other entity that buys drugs
+or devices for resale and distribution to corporations, individuals or entities other
+than consumers.
+(6)
+"Drug" means:
+(a)
+Substances recognized in the official United States pharmacopoeia, official national
+formulary, the official homeopathic pharmacopoeia of the United States or any supplement
+of the formulary or those pharmacopoeias as published by the U.S. Pharmacopeia Convention
+and the Homeopathic Pharmacopoeia Convention of the United States;
+(b)
+Substances intended for use in the diagnosis, cure, mitigation, treatment or prevention
+of disease in humans or other animals;
+(c)
+Substances, other than food, intended to affect the structure or any function of the
+body of humans or other animals; or
+(d)
+Substances intended for use as a component of any substances specified in (a), (b)
+or (c) of this subsection.
+(7)
+"Independent stewardship plan" means a plan other than the standard stewardship plan
+for the collection, transportation and disposal of unwanted covered drugs that:
+(a)
+May be proposed by a producer or group of producers; and
+(b)
+If approved, is financed, developed and implemented by the participating producer
+or group of producers, and operated by the participating producer or group of producers
+or a stewardship organization.
+(8)
+"Long-term care facility" means a nursing home, retirement care, mental care or other
+facility or institution which provides extended health care to resident patients and,
+for the purposes of this Ordinance, a facility where covered drugs that may be disposed
+in a secure drop box pursuant to 21 CFR 1317.80 are in the lawful possession of the
+resident.
+(9)
+"Mail-back services" means a collection method for the return of unwanted covered
+drugs from Residents utilizing prepaid and preaddressed mailing envelopes.
+(10)
+"Manufacture" means the production, preparation, propagation, compounding or processing
+of a drug or other substance or device or the packaging or repackaging of such substance
+or device, or the labeling or relabeling of the commercial container of such substance
+or device, but does not include the activities of a practitioner who, as an incident
+to his or her administration or dispensing such substance or device in the course
+of his or her professional practice, prepares, compounds, packages, or labels such
+substance or device.
+(11)
+"Manufacturer" means a person, corporation or other entity engaged in the manufacture
+of drugs or devices.
+(12)
+"Nonprescription drug" means a drug that may be lawfully sold without a prescription.
+(13)
+"Ordinance" means this "Drug Takeback Ordinance" adopted by the Washington County
+Board of Commissioners as the Local Public Health Authority.
+(14)
+"Person" means an individual, firm, sole proprietorship, corporation, limited liability
+company, general partnership, limited partnership, limited liability partnership,
+association, cooperative or other entity of any kind or nature.
+(15)
+"Pharmacy" means a place licensed by the State Board of Pharmacy where the practice
+of pharmacy, as defined in ORS 689.005, is conducted.
+(16)
+"Potential authorized collector" means any person or entity, such as manufacturers,
+distributors, reverse distributors, retail pharmacies, hospitals/clinics with an on-site
+pharmacy, or narcotic treatment programs, that may modify their registration with
+the United States Drug Enforcement Administration to be authorized for collection
+of drugs, including controlled substances. For purposes of this Ordinance, "Potential
+authorized collector" shall also include law enforcement agencies.
+(17)
+"Prescription drug" means any drugs, including controlled substances, that are required
+by an applicable federal or state law or regulation to be dispensed by prescription
+only or are restricted to use by practitioners only.
+(18)
+"Producer" means a manufacturer that is engaged in the manufacture of a covered drug
+sold in or into Washington County, including a brand-name or generic drug. Producer
+does not include:
+(a)
+A retailer whose store label appears on a covered drug or the drug's packaging if
+the manufacturer from whom the retailer obtains the drug is identified under Section
+1.050 ;
+(b)
+A pharmacist who compounds a prescribed individual drug product for a consumer; or
+(c)
+A drug wholesaler who is not also the manufacturer.
+(19)
+"Public Health" means Washington County Department of Health and Human Services, Public
+Health Division.
+(20)
+"Retail pharmacy" means a pharmacy registered by the State Board of Pharmacy for retail
+sale and dispensing of drugs.
+(21)
+"Standard stewardship plan" means the plan for the collection, transportation and
+disposal of unwanted covered drugs that is:
+(a)
+Financed, developed, implemented and participated in by producers;
+(b)
+Operated by the participating producers or a stewardship organization; and
+(c)
+Approved by Public Health as the standard stewardship plan.
+(22)
+"Stewardship organization" means an organization designated by a producer or group
+of producers to act as an agent on behalf of each participating producer to develop,
+implement and operate a stewardship plan.
+(23)
+"Unwanted covered drug" means any covered drug no longer wanted by its owner, that:
+(a)
+Has been abandoned or discarded; or
+(b)
+Is intended to be discarded by its owner.
+
+ ### 1.050 - Stewardship plan participation.
+
+(1)
+Each producer shall participate in the standard stewardship plan approved by Public
+Health, except that a producer may individually, or with a group of producers, form
+and participate in an independent stewardship plan approved by Public Health.
+(2)
+The standard stewardship plan and any independent stewardship plan shall be approved
+by Public Health before collecting unwanted covered drugs. Once approved, stewardship
+plans must have prior written approval of Public Health for proposed changes as described
+in Section 1.140 .
+(3)
+Within sixty (60) days after the date of adoption of this Ordinance:
+(a)
+A producer shall notify Public Health in writing of the producer's intent to participate
+in the standard stewardship plan or to form and participate in an independent stewardship
+plan; and
+(b)
+A retailer whose store label appears on a covered drug or the drug's packaging shall
+notify Public Health of the intent to participate in a stewardship plan or provide
+written notification that the manufacturer from whom the retailer obtains the drug
+has provided its notice of intent to participate.
+For a covered drug not sold in or into Washington County at the date of adoption of
+this Ordinance, the producer of the covered drug, and, if applicable, the retailer
+whose store label appears on a covered drug or the drug's packaging, shall have one
+hundred and eighty (180) days from the date of initiating sales of the covered drug
+in or into the County to make this notification to Public Health.
+(4)
+A producer or a group of producers participating in the standard stewardship plan
+or an independent stewardship plan shall:
+(a)
+Within one hundred and twenty (120) days after this Ordinance is adopted identify
+in writing to Public Health a plan operator, including the plan operator's telephone,
+mailing address and email contact information, who is authorized to be the official
+point of contact for the stewardship plan;
+(b)
+Within one hundred and twenty (120) days after this regulation is adopted, notify
+all potential authorized collectors in the county of the opportunity to participate
+as a drop-off site in accordance with Section 1.070 (1) and (4), and provide a process for forming an agreement between the plan and interested
+potential authorized collectors, including providing a sample collector agreement;
+and
+(i)
+Annually thereafter, make the same notification to any nonparticipating potential
+authorized collectors in the county; and
+(ii)
+Commence good faith negotiations with each potential authorized collector expressing
+an interest in participating as a drop-off site within thirty (30) calendar days of
+the expression of such interest.
+(c)
+Within one hundred and eighty (180) days after this Ordinance is adopted, submit a
+proposed stewardship plan as described in Section 1.060 to Public Health for review and approval;
+(d)
+Within ninety (90) days after Public Health's approval of the stewardship plan:
+(i)
+Provide written documentation to Public Health confirming that all potential authorized
+collectors participating in the approved stewardship plan, not including law enforcement,
+have amended their registrations with the United States Drug Enforcement Administration;
+and
+(ii)
+Begin operation of the approved stewardship plan, including providing the collection
+system for unwanted covered drugs in accordance with the requirements of Section 1.070 .
+(e)
+At least every four (4) years after each plan initiates operations, submit an updated
+plan to Public Health explaining any substantive changes to components of the stewardship
+plan required in Section 1.060 , and accompanied by the review fee in accordance with Section 1.180 . Public Health shall review updated stewardship plans using the process described
+in Section 1.130 .
+(f)
+Pay all administrative and operational costs and fees associated with the stewardship
+plan as required under Sections 1.100 and 1.180 .
+(5)
+A producer or group of producers participating in the standard stewardship plan or
+an independent stewardship plan may:
+(a)
+Enter into contracts and agreements with stewardship organizations, service providers,
+or other entities as necessary, useful or convenient to provide all or portions of
+their stewardship plan;
+(b)
+Notify Public Health of any producer selling covered drugs in or into the County that
+is failing to participate in a stewardship plan; or
+(c)
+Perform any other functions as may be necessary or proper to provide the stewardship
+plan and to fulfill any or all of the purposes for which the plan is organized.
+(6)
+After the first full year of operation of the approved standard stewardship plan,
+a producer or group of producers participating in the standard stewardship plan may
+notify Public Health, in writing, of the intent to form an independent stewardship
+plan. The notification shall identify a plan operator, including the plan operator's
+telephone, mailing address and email contact information, who is authorized to be
+the official point of contact for the proposed independent stewardship plan. Within
+ninety (90) days of such notification, the producer or group of producers may submit
+a proposed independent stewardship plan as described under Section 1.060 to Public Health for review and approval.
+(7)
+Public Health may approve, in writing, extensions to later dates for the submission
+dates and deadlines in this section.
+(8)
+When requested, Public Health may provide consultation and technical assistance about
+the requirements of this Ordinance to assist a producer, group of producers or stewardship
+organization in developing its proposed plan.
+
+ ### 1.060 - Stewardship plan components.
+
+The standard stewardship plan or any independent stewardship plan, which must be submitted
+and reviewed according to Section 1.130 , shall include:
+(1)
+Contact information for all drug producers participating in the stewardship plan.
+(2)
+A description of the proposed collection system to provide convenient ongoing collection
+service for all unwanted covered drugs from Residents in compliance with the provisions
+and requirements in Section 1.070 , including:
+(a)
+A list of all collection methods and participating potential authorized collectors;
+(b)
+A list of drop-off sites with addresses;
+(c)
+A list of potential authorized collectors contacted by the plan under Section 1.050 (4)(b), a list of all potential authorized collectors who offered to participate,
+and if applicable an explanation of the reason any potential authorized collector
+who offered to participate was not included in the plan;
+(d)
+A sample of the collector agreement that the plan operator provides to a potential
+authorized collector to arrange for services at a drop-off site;
+(e)
+A description of how periodic collection events will be scheduled and located, if
+applicable;
+(f)
+A description of how mail-back services will be provided and an example of the prepaid,
+preaddressed mailers to be utilized; and
+(g)
+A description of proposed alternative collection methods for any covered drugs that
+may not be acceptable for return in secure drop boxes, during collection events or
+in mailers.
+(3)
+A description of the handling and disposal system, including identification of and
+contact information for transporters and waste disposal facilities to be used by the
+stewardship plan in accordance with Sections 1.070 and 1.090 .
+(4)
+A description of the policies and procedures to be followed by persons handling unwanted
+covered drugs collected under the stewardship plan, including a description of how
+all authorized collectors, transporters and waste disposal facilities utilized will
+ensure the collected, unwanted covered drugs are safely and securely tracked from
+collection through final disposal, and how all entities participating in the stewardship
+plan will operate under all applicable federal and state laws, regulations and guidelines,
+including those of the United States Drug Enforcement Administration, and how any
+pharmacy drop-off site will operate under applicable regulations and guidance of the
+State Board of Pharmacy.
+(5)
+A description of how patient information on drug packaging will be kept secure during:
+collection; transportation; and recycling or disposal.
+(6)
+A description of the public education effort and promotion strategy required in Section
+1.080 , including a copy of standardized instructions for Residents, signage developed for
+authorized collectors and required promotional materials.
+(7)
+A proposal on the short-term and long-term goals of the stewardship plan for collection
+amounts and public awareness.
+(8)
+A description of how the stewardship plan will consider:
+(a)
+Use of existing providers of pharmaceutical waste services;
+(b)
+Separating covered drugs from packaging to the extent possible to reduce transportation
+and disposal costs; and
+(c)
+Recycling of drug packaging to the extent feasible.
+
+ ### 1.070 - Collection of covered drugs.
+
+(1)
+This Ordinance does not require any person to serve as an authorized collector in
+a stewardship plan. A person may offer to participate as an authorized collector voluntarily,
+or may agree to participate as an authorized collector in exchange for compensation
+offered by a producer, group of producers or stewardship organization. Retail pharmacies,
+hospitals/clinics with an on-site pharmacy, law enforcement agencies, and any other
+entities participating as authorized collectors in a stewardship plan, shall operate
+in accordance with state and federal laws and regulations for the handling of unwanted
+covered drugs, including those of the United States Drug Enforcement Administration,
+and in compliance with this Ordinance. A pharmacy drop-off site shall operate under
+applicable regulations and guidance of the State Board of Pharmacy.
+(2)
+The collection system shall be convenient, operated on an ongoing, year-round basis
+that adequately serves the needs of Residents, and provide equitable and convenient
+access for all Washington County Residents to return unwanted covered drugs, in accordance
+with this section.
+(3)
+The collection system for all unwanted covered drugs shall be safe and secure and
+include provisions for protecting patient information on drug packaging.
+(4)
+Operation, Locations, and Minimum Number of Drop-off Sites. The service convenience
+goal for the standard stewardship plan and any independent stewardship plan is a system
+of drop- off sites distributed to provide reasonably convenient and equitable access
+for all Residents in incorporated and unincorporated areas of the county and meeting
+the requirements of this subsection.
+(a)
+In establishing and operating a stewardship plan, a producer, group of producers or
+stewardship organization shall give preference to having drop-off sites located at
+retail pharmacies, hospitals/clinics with an on-site pharmacy, and law enforcement
+agencies. A stewardship plan shall include, within ninety (90) days of their offer
+to participate, any retail pharmacy, any hospital/clinic with an on-site pharmacy
+or any law enforcement agency voluntarily willing to participate as a drop-off site
+for unwanted covered drugs and able to meet the requirements of this Ordinance, unless
+the potential authorized collector requests a longer time frame. A producer, or group
+of producers establishing and operating a stewardship plan may also include any potential
+authorized collector, narcotic treatment program or long-term care facility willing
+to participate as a drop-off site for unwanted covered drugs and able to meet the
+requirements of this Ordinance.
+(b)
+Drop-off sites shall accept all covered drugs from Residents during all hours that
+the authorized collector is normally open for business with the public. However, drop-off
+sites at long-term care facilities shall only accept covered drugs from individuals
+who reside, or have resided, at the facility pursuant to 21 CFR 1317.80.
+(c)
+Drop-off sites shall utilize secure drop boxes in compliance with all applicable federal
+and state laws, including requirements of the United States Drug Enforcement Administration.
+A producer, group of producers, or stewardship organization shall provide a service
+schedule that meets the needs of each drop-off site to ensure that each secure drop
+box is serviced as often as necessary to avoid reaching capacity, and that collected
+covered drugs are transported to final disposal in a timely manner, including a process
+for additional prompt, on-call collection upon notification from the drop-off site.
+Secure drop box signage shall include a prominently displayed twenty-four (24) hour,
+toll-free telephone number and website for the stewardship plan, by which any person
+can provide feedback on collection activities, including but not limited to the need
+to empty the receptacle.
+(d)
+Locations and Minimum Number of Drop-off Sites.
+(i)
+At least one drop-off site shall be provided in each city with a population under
+10,000. At least two drop-off sites shall be provided in each city in Washington County
+with a population between 10,000 and 40,000. In any city with a population over 40,000,
+there shall be in addition to the two drop-off sites at least one additional drop-off
+site for each additional 20,000 residents in that city.
+(ii)
+At least two drop-off sites shall be provided in each Aloha and Bethany.
+(iii)
+Drop-off sites shall be geographically distributed to provide reasonably convenient
+and equitable access to Residents of each city and in the unincorporated county.
+(iv)
+Drop-off sites located at a long-term care facility or narcotic treatment program
+shall not count towards the minimum drop-off sites required in each city or town under
+this subsection.
+(v)
+If the minimum number of drop-off sites in this subsection cannot be achieved in specific
+areas of the county, then the stewardship plan shall include collection of covered
+drugs by periodic collection events, held at least once annually, in those cities
+and towns in which the minimum required drop-off sites cannot be achieved. The stewardship
+plan must also notify municipal buildings, fire stations, and public libraries serving
+those areas in which the minimum required drop-off sites cannot be achieved of the
+opportunity to distribute prepaid and preaddressed mailers, and provide an adequate
+and ongoing supply of mailers to those that agree to participate as a mailer distribution
+location.
+(5)
+Mail-back Service and Collection Events.
+(a)
+Mail-back services shall be free of charge, and shall be made available to any resident
+of the county, including differentially-abled and homebound Residents. An adequate
+and ongoing supply of prepaid and preaddressed envelopes shall be provided:
+(i)
+To county Residents upon request through the stewardship plan's toll-free telephone
+number and website;
+(ii)
+Upon request to persons providing home care services to Residents, including hospice
+services; and
+(iii)
+At municipal buildings, fire stations, public libraries, and other publicly accessible
+entities in the county that request to serve as a mailer distribution location.
+(b)
+Periodic collection events, if utilized as a collection method, shall be arranged
+with law enforcement personnel through voluntary agreements, and shall be conducted
+in compliance with United States Drug Enforcement Administration protocols, any additional
+requirements of participating law enforcement agencies, and in compliance with this
+Ordinance.
+(6)
+Alternative collection methods shall be provided for any covered drugs that cannot
+be accepted or comingled with other covered drugs in secure drop boxes, in mailers,
+or at collection events. Such collection methods shall be reviewed and approved by
+Public Health and shall operate in compliance with applicable local, state and federal
+regulations.
+(7)
+In determining the collection services required under this section, the annual population
+estimate produced by the Portland State University Population Research Center shall
+be utilized to define the population of cities and unincorporated areas of Washington
+County.
+
+ ### 1.080 - Promotion.
+
+(1)
+A producer or group of producers participating in the standard stewardship plan or
+an independent stewardship plan shall develop and provide a system of promotion, education,
+and public outreach about safe storage and secure collection of covered drugs. Each
+stewardship plan shall include and have a plan to:
+(a)
+Promote the use of their stewardship plan so that where and how to return unwanted
+covered drugs to drop-off sites and how to use other collection options for unwanted
+covered drugs are widely understood by Residents, pharmacists, retailers of covered
+drugs, and health care practitioners and other prescribers, including doctors, dentists,
+veterinarians, and veterinary hospitals;
+(b)
+Discourage the disposal of unwanted covered drugs in the garbage, municipal sewer,
+or on-site septic systems as required per Section 1.210(5)(a);
+(c)
+Promote the safe storage of prescription and nonprescription drugs by Residents before
+secure disposal through the stewardship plan;
+(d)
+Work with participating authorized collectors to develop clear, standardized instructions
+for Residents on the use of drop boxes and a readily recognizable, consistent design
+of drop boxes. Public Health may provide guidance to producers and authorized collectors
+on the development of the instructions and design;
+(e)
+Establish a toll-free telephone number and website where collection options and current
+locations of drop-off sites will be publicized and prepare educational and outreach
+materials promoting safe storage of prescription and nonprescription drugs and describing
+where and how to return unwanted covered drugs to the stewardship plan. The educational
+and outreach materials must be provided free of charge to pharmacies, health care
+facilities, county agencies, and other interested parties for dissemination to Residents.
+Plain language and explanatory images should be utilized to make use of drug collection
+services readily understandable by all Residents, including individuals with limited
+English proficiency. The website and all materials shall discourage disposal of unused,
+expired or contaminated pharmaceutical wastes in the solid waste system or the sewer
+system in Washington County;
+(f)
+Conduct surveys of Residents and of pharmacists, health professionals, and veterinarians
+in the county who interact with Residents on use of prescription and nonprescription
+drugs to assess the effectiveness of the stewardship plan as follows:
+(i)
+A survey shall be conducted prior to the start of operation of an approved plan; after
+the first twelve (12) months of plan operation, after twenty-four (24) months of plan
+operation, and biennially thereafter until such time as Public Health designates a
+less frequent schedule;
+(ii)
+Survey questions shall measure awareness of the stewardship plan, assess awareness
+of the drop-off sites and other collection methods, assess the convenience and ease
+of use of drop-off sites and other collection methods, and assess knowledge and attitudes
+about risks of abuse, poisonings and overdoses from prescription and nonprescription
+drugs used in the home. The survey conducted prior to the start of operation of an
+approved plan shall measure awareness of existing drop-off sites and other collection
+methods, and assess knowledge and attitudes about risk of abuse, poisoning and overdoses
+from prescription and nonprescription drugs; and
+(iii)
+Draft survey questions shall be submitted to Public Health for review and comment
+at least thirty (30) days prior to initiation of the survey. All survey data and results
+shall be reported to Public Health and made available to the public on the stewardship
+plan's website within ninety (90) days of the end of the survey period;
+(g)
+Annually evaluate the effectiveness of its promotion, outreach, and public education,
+and include this evaluation in its annual report; and
+(h)
+Provide educational and outreach materials and surveys in English, Spanish, Russian,
+Chinese (both Mandarin and Cantonese) and Korean. Additional languages may be designated
+by Public Health on an annual basis.
+(2)
+If more than one stewardship plan is approved then all approved stewardship plans
+shall coordinate their promotional activities to ensure that all Residents can easily
+identify, understand and access the collection services provided by each stewardship
+plan, including providing Residents with a single toll-free telephone number and single
+website to access information about collection services for each approved plan.
+(3)
+Pharmacies and other entities selling prescription and nonprescription drugs in or
+into Washington County:
+(a)
+Are encouraged to promote secure disposal of covered drugs by Residents through the
+use of an approved stewardship plan or plans; and
+(b)
+Shall provide materials explaining the use of approved stewardship plans to customers
+upon request. Such materials must be provided to pharmacies by the program operator
+upon request and at no cost to the pharmacy.
+(4)
+Public Health and government agencies throughout the county responsible for health,
+solid waste management, and wastewater treatment are encouraged to use their standard
+educational methods to promote:
+(a)
+Safe storage of prescription and nonprescription medicines by Residents;
+(b)
+Secure disposal of covered drugs by Residents through the use of the stewardship plans;
+and
+(c)
+The toll-free telephone number and website for approved stewardship plans.
+
+ ### 1.090 - Disposal of covered drugs.
+
+(1)
+Covered drugs collected under a stewardship plan must be disposed of at a permitted
+hazardous waste facility as defined by the United States Environmental Protection
+Agency under 40 CFR parts 264 and 265.
+(2)
+Public Health may grant approval for a producer or group of producers participating
+in the standard stewardship plan or an independent stewardship plan to dispose of
+some or all collected covered drugs at a permitted large municipal waste combustor,
+as defined by the United States Environmental Protection Agency under 40 CFR parts
+60 and 62, if use of a permitted hazardous waste disposal facility required under
+subsection (1) is deemed not feasible for the stewardship plan based on cost, logistics
+or other considerations.
+(3)
+A producer or group of producers participating in the standard stewardship plan or
+an independent stewardship plan may petition the Public Health for approval to use
+alternative final disposal technologies that provide superior environmental and human
+health protection for environmental and human health protection than provided by the
+disposal technologies in subsections (1) and (2), or equivalent protection at lesser
+cost. The proposed technology must provide equivalent or superior protection in each
+of the following areas:
+(a)
+Monitoring of any emissions or waste;
+(b)
+Worker health and safety;
+(c)
+Air, water or land emissions contributing to persistent, bioaccumulative, and toxic
+pollution; and
+(d)
+Overall impact to the environment and human health.
+
+ ### 1.100 - Administrative and operational costs and fees.
+
+(1)
+A producer or group of producers participating in the standard stewardship plan or
+an independent stewardship plan shall pay all administrative and operational costs
+related to their stewardship plan, except as provided under this section. Administrative
+and operational costs related to the stewardship plan include:
+(a)
+Collection and transportation supplies for each drop-off site;
+(b)
+Purchase and installation of secure drop boxes for each drop-off site;
+(c)
+Ongoing maintenance or replacement of secure drop boxes, as requested by authorized
+collectors;
+(d)
+Providing mail-back services and providing prepaid, preaddressed mailers to Residents
+and to mailer distribution locations under Section 1.070 ;
+(e)
+Operating periodic collection events, if utilized, including costs of law enforcement
+staff time if necessary;
+(f)
+Transportation of all collected drugs to final disposal;
+(g)
+Environmentally sound disposal of all collected drugs under Section 1.090 ; and
+(h)
+Program promotion, surveys, and evaluation under Section 1.080 , including costs of providing materials to pharmacies and other entities for distribution
+to Residents, and ongoing management of a website and toll-free number.
+(2)
+No person or producer may charge a specific point-of-sale fee to consumers to recoup
+the costs of their stewardship plan, nor may they charge a specific point-of-collection
+fee at the time the covered drugs are collected from Residents.
+(3)
+Producers are not required to pay for costs of staff time at drop-off sites provided
+by authorized collectors volunteering to provide services under a stewardship plan,
+but may offer compensation to authorized collectors for their participation.
+
+ ### 1.110 - Reporting requirements.
+
+(1)
+Quarterly Reports. Within thirty (30) days after each ninety (90) day period of operation,
+the plan operator of the standard stewardship plan and any independent stewardship
+plan shall submit a quarterly report to Public Health on behalf of participating producers.
+The report must include the total amount, by weight, of unwanted covered drugs collected
+during the previous ninety (90) day period by each collection method used. After the
+first two (2) years of operation of an approved stewardship plan, Public Health may
+determine that quarterly reporting of the collection amount is no longer required
+and shall notify the plan operator of any change in the reporting schedule.
+(2)
+Annual Reports. Within ninety (90) days after the end of the first twelve (12) month
+period of operation, and annually thereafter, the plan operator of the standard stewardship
+plan and of any independent stewardship plan shall submit an annual report to Public
+Health on behalf of participating producers describing activities during the previous
+twelve (12) month reporting period to comply with this Ordinance. The annual report
+shall include:
+(a)
+A list of producers participating in the stewardship plan;
+(b)
+The amount, by weight, of unwanted covered drugs collected, including the amount by
+weight from each collection method used;
+(c)
+A list of drop-off sites with addresses and the amount by weight of unwanted covered
+drugs collected from each drop-off site during each ninety (90) day period of the
+annual reporting period;
+(d)
+The number of mailers provided:
+(i)
+Directly to Residents in response to a request through the toll-free telephone number
+or website;
+(ii)
+To each home care service provider; and
+(iii)
+To each municipal facility, fire station, public library, and other mailer distribution
+location.
+(e)
+The number of mailers received from county Residents by the plan during each ninety
+(90) day period of the annual reporting period;
+(f)
+A list of dates and locations of any collection events held and the amount by weight
+of unwanted covered drugs collected at each event;
+(g)
+A list of transporters and the disposal facility or facilities used;
+(h)
+Whether any safety or security problems occurred during collection, transportation
+or disposal of unwanted covered drugs during the annual reporting period and, if so,
+what changes have or will be made to policies, procedures or tracking mechanisms to
+avoid similar problems and to improve safety and security in the future;
+(i)
+A description of the public education, outreach and evaluation activities implemented
+during the annual reporting period and an evaluation of the effectiveness of these
+promotion, outreach, and public education activities;
+(j)
+A description of how collected packaging was recycled to the extent feasible, including
+the recycling facility or facilities used;
+(k)
+A summary of the stewardship plan's goals for collection amounts and public awareness,
+the degree of success in meeting those goals during the annual reporting period and,
+if any goals have not been met, what effort will be made to achieve the goals in the
+next twelve (12) month period; and
+(l)
+The total expenditure of the stewardship plan during the reporting period.
+(3)
+Public Health shall make reports submitted under this section available to the public.
+
+ ### 1.120 - Identification of producers of covered drugs.
+
+(1)
+Within sixty (60) days of a request from Public Health, any drug wholesaler that sells
+any covered drug in or into the County shall provide a list of producers of covered
+drugs to Public Health in a form agreed upon with Public Health. Wholesalers shall
+update the list, no more than annually, if requested by Public Health.
+(2)
+Any person receiving a letter of inquiry from Public Health regarding whether or not
+it is a producer under this Ordinance must respond in writing within sixty (60) days.
+If such person does not believe it is a producer under this Ordinance, it must state
+the basis for such belief and provide a list of any covered drugs it sells, distributes,
+repackages, or otherwise offers for sale within the county, and identify the name
+and contact information of the manufacturer of the covered drug.
+
+ ### 1.130 - Review of proposed plans.
+
+(1)
+Within one hundred and eighty (180) days after the date of adoption of this Ordinance,
+a producer, group of producers or stewardship organization shall submit its proposed
+stewardship plan to Public Health for review. The proposed plan shall be accompanied
+by the plan review fee in accordance with Section 1.180 . A producer, group of producers or stewardship organization shall indicate whether
+the plan is proposed as the standard stewardship plan or an independent stewardship
+plan. If multiple proposals are submitted for the standard stewardship plan, Public
+Health shall designate the standard stewardship plan at the time of plan approval.
+(2)
+Public Health shall review each proposed stewardship plan and determine whether the
+proposed plan meets the requirements of Section 1.060 and other applicable sections of this Ordinance. In reviewing a proposed stewardship
+plan, Public Health shall provide opportunity for written public comment and consider
+any comments received.
+(3)
+After the review and within ninety (90) days after receipt of the proposed stewardship
+plan, Public Health shall: approve, approve subject to conditions, or reject the proposed
+stewardship plan in writing to a producer, group of producers or stewardship organization.
+If the proposed plan is approved subject to conditions or rejected, Public Health
+will provide reasons for the decision.
+(4)
+Plan Rejection. If the proposed stewardship plan is rejected, the producer, group
+of producers or stewardship organization shall submit a revised stewardship plan to
+Public Health within the timeframe specified by Public Health in the written notice
+of the rejection, which shall not be less than thirty (30) days. Public Health shall
+review and approve or reject a revised stewardship plan as provided under subsections
+(2) and (3) of this section.
+(5)
+Conditional Plan Approval. If the proposed stewardship plan is approved subject to
+conditions, Public Health shall provide a written notice to the plan operator that
+lists the conditions that must be addressed by the producer or group of producers
+participating in the stewardship plan or their stewardship organization. Public Health
+shall define the timeframe, which shall not be less than thirty (30) days, of each
+action that must be taken or each revision to the stewardship plan that shall be made
+by the producer, group of producers or stewardship organization. Public Health will
+identify any conditions that must be addressed prior to operation of the stewardship
+plan as required in Section 1.050 (4)(d).
+(6)
+Revised Plan Rejection. If Public Health rejects a revised stewardship plan, or any
+subsequently revised plan, Public Health may deem the producer or group of producers
+out of compliance with this Ordinance and subject to the enforcement provisions in
+this Ordinance.
+(a)
+If a revised proposal for the standard stewardship plan is rejected, Public Health
+may require the submission of a further revised stewardship plan as provided under
+subsection (4) of this section or develop and impose changes to some or all components
+of a rejected plan.
+(b)
+If a revised independent stewardship plan is rejected, the producer or group of producers
+submitting the independent stewardship plan shall participate in an approved stewardship
+plan and are not eligible to propose an independent stewardship plan for one hundred
+and eighty (180) days after the rejection. Public Health may not deem a producer who
+is out of compliance with this Ordinance whose revised independent stewardship plan
+is rejected if the producer participates in and complies with an approved stewardship
+plan.
+(7)
+In approving a proposed stewardship plan, Public Health may exercise reasonable discretion
+to waive strict compliance with the requirements of this Ordinance that apply to producers
+in order to achieve the objectives of this Ordinance.
+
+ ### 1.140 - Notice and approval process for modifications to an approved stewardship plan.
+
+(1)
+Proposed changes to an approved stewardship plan that substantively alter plan operations,
+including, but not limited to, changes to participating producers, collection methods,
+achievement of the service convenience goal, policies and procedures for handling
+covered drugs, education and promotion methods or disposal facilities, shall be submitted
+to Public Health at least thirty (30) days before the change is scheduled to occur
+and must be approved in writing by Public Health before the change is made. The request
+for proposed changes must be accompanied by the review fee in accordance with SCC
+12.20.180.
+(2)
+The plan operator of an approved stewardship plan shall notify Public Health at least
+fifteen (15) days before a proposed change is scheduled to occur that does not substantively
+alter plan operations. Non-substantive changes may include: changes to drop-off site
+locations; methods for scheduling and locating periodic collection events, methods
+for distributing prepaid, preaddressed mailers; and changes to agreements with authorized
+collectors for services at drop-off sites provided that the proposed changes do not
+substantively alter achievement of the service convenience goal under Section 1.070 , and do not substantively alter plan operations under subsection (1) of this section.
+Public Health may determine that the proposed change is a substantive change. If Public
+Health determines that the proposed change is substantive, then the process described
+in Section 1.140 (1) shall be followed.
+(3)
+The producer or group of producers participating in an approved stewardship plan shall
+notify Public Health of any changes to the plan operator for the stewardship plan
+within fifteen (15) days of the change.
+(4)
+The plan operator shall notify Public Health of any changes in ownership or contact
+information for participating producers within thirty (30) days of such change.
+
+ ### 1.150 - Enforcement.
+
+(1)
+Public Health is authorized to administer and enforce this Ordinance. Enforcement
+may include, but is not limited to, issuance of a civil infraction, notices of noncompliance
+with a requirement under this Ordinance and issuance of enforcement orders.
+(2)
+Public Health may audit or inspect records and facilities upon providing notice of
+an audit or inspection to determine compliance with this Ordinance or to investigate
+a complaint. Producer, group of producers or stewardship organization shall allow
+Public Health or its agent to audit records that are related to a stewardship plan
+or to inspect at reasonable times a stewardship plan's or an authorized collector's
+facilities, vehicles and equipment used to carry out the stewardship plan.
+(3)
+Civil Infraction. The failure to comply with the requirements and restrictions in
+this Ordinance, including the failure to comply with an order issued by Public Health
+under this Ordinance, and further including but not limited to the list of acts of
+noncompliance detailed below, is a continuing offense and shall be punishable by the
+issuance of a civil infraction against a producer or group of producers or drug wholesaler
+for each violation, and may include all costs incurred for enforcement of the noncompliance.
+Civil infractions shall be issued in accordance with Washington County Code Chapter
+1.12. Any noncompliance with this Ordinance is a Class A Civil Infraction. Administrative
+enforcement of a civil infraction shall be under Washington County Code Chapter 1.12.
+(4)
+A producer not participating in the standard stewardship plan or an independent stewardship
+plan and whose covered drug continues to be sold in or into the County sixty (60)
+days after receiving a civil infraction, may be subject to any and all remedies allowed
+under law including by not limited to, equitable relief, injunctive relief and damages.
+(5)
+Failure to begin operation of an approved stewardship plan and provide the collection
+system for unwanted covered drugs required under this Ordinance within ninety (90)
+days of Public Health's approval of the stewardship plan may result in a civil infraction.
+Each day of delayed implementation of the stewardship plan will constitute a new and
+separate civil infraction.
+(6)
+Failure to provide access to the records required pursuant to Section 1.150 (2) shall result in a civil infraction.
+(7)
+If Public Health determines that a stewardship plan is not in compliance with this
+Ordinance or its plan approved under Section 1.130 , Public Health may send the producer or group of producers participating in the
+plan a notice of noncompliance stating the plan is in noncompliance, providing notice
+of compliance requirements, and warning of the potential issuance of a civil infraction.
+The producer or group of producers has thirty (30) days after receipt of the notice
+to achieve compliance. This subsection does not preclude Public Health from suspending
+an approved plan, in addition to other available remedies, if noncompliance with this
+Ordinance or an approved plan creates a condition that, in Public Health's judgment,
+constitutes an immediate hazard.
+
+ ### 1.160 - Reserved.
+
+ ### 1.170 - Regulations and performance standards.
+
+(1)
+The County may adopt rules necessary to implement, administer and enforce this Ordinance.
+(2)
+Public Health may work with the plan operator to define goals for collection amounts
+and public awareness for a stewardship plan.
+(a)
+Upon review of collection amounts in annual reports, Public Health may direct a producer
+or group of producers participating in an approved stewardship plan to change the
+frequency of collection events or the provision of mail-back services to improve the
+plan's performance in providing adequate and reasonably convenient service to all
+Washington County Residents as required under Section 1.070 .
+(b)
+Upon review of annual reports or results of public awareness surveys, Public Health
+may direct a producer or group of producers participating in an approved stewardship
+program to modify the plan's promotion and outreach activities to better achieve widespread
+awareness and understanding among Washington County Residents and healthcare providers
+about how to use collection options for unwanted covered drugs as required under Section
+1.080 .
+
+ ### 1.180 - Plan review and annual operating fees.
+
+(1)
+Fees required of producers for the review of stewardship plans and other actions related
+to this Ordinance shall be adopted by the Board of Commissioners in the Washington
+County Fee Schedule and shall be commensurate with the costs of delivering the service
+and to administering and enforcing this Ordinance. Public Health shall charge fees
+to a producer or group of producers participating in a stewardship plan according
+to the most current Washington County Fee Schedule.
+(2)
+A producer or group of producers participating in the standard stewardship plan or
+an independent stewardship plan shall pay fees to Public Health for:
+(a)
+Review of a proposed stewardship plan;
+(b)
+Re-submittal of a proposed stewardship plan;
+(c)
+Review of changes to an approved stewardship plan;
+(d)
+Submittal of an updated stewardship plan at least every four (4) years under Section
+1.050 ;
+(e)
+Review of any petition for approval to use alternative final disposal technologies
+under Section 1.090 ; and
+(f)
+Oversight of annual plan operations.
+(3)
+A plan operator or a stewardship organization may remit the fee on behalf of participating
+producers.
+
+ ### 1.190 - Other powers reserved - Alternative remedies and emergency orders.
+
+Nothing in this Ordinance shall limit the authority of Washington County Public Health
+to act under any other legal authority. The powers conferred by this Ordinance shall
+be in addition to and supplemental to the powers conferred by any other law. If Public
+Health determines immediate action is necessary to protect the public health and safety
+or the environment, such action may be taken or be ordered to be taken and any person
+to whom such an order is directed shall comply immediately.
+
+ ### 1.200 - Reserved.
+
+ ### CHAPTER 2 - ACCESS TO TOBACCO, SYNTHETIC NICOTINE AND INHALANT DELIVERY SYSTEMS
+
+ ### 2.010 - Findings.
+
+A.
+Despite the efforts of federal, state and local governments, together with various
+private organizations, tobacco use continues to be a significant issue with negative
+implications for the health of our community, in addition to impacting the cost of
+providing both private and public health care services.
+B.
+It is illegal to sell tobacco products or inhalant delivery systems to a person under
+21 years old. In some cases, employers have not adequately trained salesclerks and
+other employees or otherwise taken responsibility to ensure that the laws prohibiting
+sales to persons under 21 years of age are complied with rigorously.
+C.
+Selling tobacco products, flavored tobacco products, synthetically derived nicotine
+products or inhalant delivery systems to persons under 21 years old is a detriment
+to the health, safety and welfare of the residents of Washington County. Local governments
+retain the authority to enact regulations concerning the sale of tobacco if the local
+regulations are directed at encouraging compliance with existing laws.
+D.
+Oregon law requires retailers to post a notice informing the public that selling tobacco
+products and inhalant delivery systems to individuals under 21 is prohibited. Oregon
+law also prohibits the sale of inhalant delivery systems packaged in a manner attractive
+to minors.
+( Ord. No. 878 , § 4(Exh. A), 11-2-2021)
+
+ ### 2.020 - Definitions.
+
+A.
+Cigarette. Any product that contains nicotine, is intended to be burned or heated under ordinary
+conditions of use and consists or contains:
+1.
+Any roll of tobacco wrapped in paper or in any substance not containing tobacco;
+2.
+Tobacco, in any form, that is functional in the product and that, because of its appearance,
+the type of tobacco used in the filler or its packaging and labeling, is likely to
+be offered to or purchased by, consumers as a cigarette; or
+3.
+Any roll of tobacco that is wrapped in any substance containing tobacco and that,
+because of its appearance, the type of tobacco used in the filler or its packaging
+and labeling, is likely to be offered to or purchased by, consumers as cigarette described
+in subsection (a) of this section.
+B.
+Flavored Product. Any synthetic nicotine product or tobacco product that contains a taste or smell,
+other than the taste or smell of tobacco, that is distinguishable by an ordinary consumer
+either prior to or during the consumption of the product, including, but not limited
+to, any taste or smell relating to chocolate, cocoa, menthol, mint, wintergreen, vanilla,
+honey, molasses, fruit, or any candy, dessert, alcoholic beverage, herb, or spice.
+A public statement or claim, whether express or implied, made or disseminated by the
+manufacturer of a synthetic nicotine product or tobacco product, or by any person
+authorized or permitted by the manufacturer to make or disseminate public statements
+or claims concerning such products, that a synthetic nicotine product or tobacco product
+has or produces a taste or smell other than a taste or smell of tobacco will constitute
+presumptive evidence that the product is a flavored product.
+Flavored product does not include any product that has been approved by the United
+States Food and Drug Administration for sale as a tobacco cessation product or for
+any other therapeutic purpose if the product is marketed and sold solely for the approved
+purpose.
+C.
+Inhalant delivery system: A device that can be used to deliver nicotine or cannabinoids in the form of a vapor
+or aerosol to an individual inhaling from the device, or a component of such a device
+or a substance in any form sold for the purpose of being vaporized or aerosolized
+by such a device, whether the component or substance is sold separately or is not
+sold separately. Inhalant delivery system includes, but is not limited to, an e-cigarette,
+e-cigar, e-pipe, vape pen, or e-hookah.
+Inhalant delivery system does not include any product that has been approved by the
+United States Food and Drug Administration for sale as a tobacco cessation product
+or for any other therapeutic purpose if the product is marketed and sold solely for
+the approved purpose.
+D.
+Self-service display. The display of cigarettes or any tobacco products for sale or consumption at a business
+that allows the public access to the products without the assistance of the owner
+or an employee of the business. All licensed products must be stored behind the sales
+counter, in a locked case, in a storage unit, or in another area not freely accessible
+to the general public.
+E.
+Synthetic Nicotine product. Any product designed for human consumption where the nicotine was created and produced
+in a laboratory and not derived from tobacco.
+F.
+Tobacco Product. (1) Any product containing, made of, or derived from tobacco or nicotine that is
+intended for human consumption or is likely to be consumed, whether inhaled, absorbed,
+or ingested by any other means, including, but not limited to, a cigarette, a cigar,
+pipe tobacco, chewing tobacco, snuff, or snus; (2) Any inhalant delivery system, and
+any substances that may be aerosolized or vaporized by such device, whether or not
+the substance contains tobacco or nicotine; or (3) Any component, part, or accessory
+of (1) or (2), whether or not any of these contains tobacco or nicotine, including,
+but not limited to, filters, rolling papers, blunt or hemp wraps, hookahs, and pipes.
+Tobacco product does not include any product that has been approved by the United
+States Food and Drug Administration for sale as a tobacco cessation product or for
+any other therapeutic purpose, if the product is marketed and sold solely for the
+approved purpose.
+G.
+Vendor-assisted sale. The sale of cigarettes or any tobacco products to a retail consumer or buyer wherein
+only the vendor has access to the product until after the completion of the sale.
+( Ord. No. 878 , § 4(Exh. A), 11-2-2021)
+
+ ### 2.030 - Prohibitions.
+
+A.
+Prohibited sales to persons under the age of 21. No person or entity shall sell, distribute
+or offer for sale or distribution any tobacco product, synthetic nicotine product
+or inhalant delivery system to a person under the age of 21.
+B.
+Flavored products restricted. No person shall sell, offer for sale, or otherwise distribute
+any flavored tobacco product or flavored synthetic nicotine product.
+C.
+Coupon and price promotions prohibited. No person shall accept or redeem any coupon
+or other instrument or mechanism, whether in paper, digital, electronic, mobile, or
+any other form, that provides any tobacco product, synthetic nicotine product or inhalant
+delivery system to a consumer at no cost or at a price that is less than the non-discounted,
+standard price listed by a retailer on the item or on any related shelving, posting,
+advertising, or display at the location where the item is sold or offered for sale,
+including all applicable taxes.
+D.
+Minimum package size required. No person shall sell or distribute, or offer for sale
+or distribution, or permit to be sold or distribution, any container of cigarettes
+containing fewer than 20 cigarettes. Each sale or distribution or offer to sell or
+distribute shall be a separate violation.
+E.
+Vendor-assisted sale of tobacco products required. No person or entity shall offer
+for sale, sell or permit to be sold any cigarettes, tobacco products, synthetic nicotine
+product or inhalant delivery system by means of a self-service display or any means
+other than by a vendor-assisted sale. Each day that the self-service display is accessible
+shall be a separate violation. Each offer for sale or sale other than vendor-assisted
+shall be a separate violation.
+F.
+Moveable Place of Business prohibited. Any form of business that is operated out of
+a kiosk, truck, van, automobile or other type of vehicle or transportable shelter
+and not a fixed address store front or other permanent type of structure authorized
+for sales transactions of any tobacco product, synthetic nicotine product or inhalant
+delivery system is prohibited.
+( Ord. No. 878 , § 4(Exh. A), 11-2-2021)
+
+ ### 2.040 - Non-retaliation.
+
+It shall be a violation of this ordinance for any employer to discharge, demote, suspend,
+refuse to hire, or in any manner retaliate against any employee, applicant for employment
+or customer because such person reports, testifies, assists or participates in any
+manner in any investigation, proceeding or hearing regarding an alleged violation
+of this ordinance. To the extent permitted by law, any person claiming to be aggrieved
+by a violation of this section shall have a cause of action in any court of competent
+jurisdiction for damage and such other remedies as may be appropriate.
+( Ord. No. 878 , § 4(Exh. A), 11-2-2021)
+
+ ### 2.050 - Conformity with law.
+
+This chapter shall not, in any way, be a substitute for, nor eliminate in any way,
+the necessity for conformity with any and all laws or rules of the federal government,
+the state of Oregon or its agencies, nor any ordinances or rules and regulations of
+the county.
+( Ord. No. 878 , § 4(Exh. A), 11-2-2021)
+
+ ### 2.060 - Enforcement.
+
+WCC Chapter 1.12 provides the general enforcement mechanism for this chapter, but
+does not preclude other enforcement options.
+( Ord. No. 878 , § 4(Exh. A), 11-2-2021)
+
+ ### 2.070 - Civil infraction.
+
+A county enforcement officer, as defined in WCC Chapter 1.12, may issue a Class A
+civil infraction for failure to comply with this chapter and any rules and regulations
+adopted pursuant thereto. Civil infractions shall conform to the requirements of the
+Administrative Enforcement Code, Chapter 1.12 . Enforcement of civil infractions shall be through Chapter 1.12 . Each day a person is in violation of this chapter shall be deemed a separate violation
+thereof.
+( Ord. No. 878 , § 4(Exh. A), 11-2-2021)
+
+ ### 2.080 - Civil infraction—Other enforcement procedures not excluded.
+
+The provisions of this chapter are in addition to and not in lieu of any other procedures
+and remedies provided by law, including equitable relief and damages.
+( Ord. No. 878 , § 4(Exh. A), 11-2-2021)

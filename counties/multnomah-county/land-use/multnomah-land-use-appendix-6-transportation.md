@@ -1,0 +1,983 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-land-use-appendix-6-transportation
+title: 'Appendix 6 - Transportation'
+doc_type: ordinance
+citation: 'Appendix 6 - Transportation'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://multco.us/file/appendix_6_-_transportation/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 0192490ba1f06562dec5c3b52e4983798ae402858c28e22f6da364ff39dd7e2a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Appendix 6 - Transportation (Appendix 6 - Transportation)
+
+## At a glance
+
+Appendix 6 - Transportation — land use of Multnomah County. 34 pages.
+
+## Full text
+
+Appendix 6: Transportation
+Contents
+
+Introduction .................................................................................................................................................. 3
+Context ...................................................................................................................................................... 4
+Acknowledgments ..................................................................................................................................... 4
+CAC Subcommittee Members ............................................................................................................... 4
+TAC Subcommittee Members ............................................................................................................... 5
+Relation of Appendix 6: Transportation to the SIMC Plan ........................................................................ 5
+Maps & Figures ......................................................................................................................................... 6
+Maps...................................................................................................................................................... 6
+SECTION 1: KEY TRANSPORTATION ISSUES ................................................................................................... 9
+SECTION 2: EXISTING CONDITIONS ............................................................................................................... 9
+1997 SIMC Plan ......................................................................................................................................... 9
+1998 Westside Rural Multnomah County Transportation System Plan ................................................. 13
+SECTION 3: STATEWIDE REGULATORY FRAMEWORK ................................................................................. 19
+SECTION 4: RELEVANT COUNTY AND AGENCY PLANS ................................................................................ 20
+Relevant Multnomah County Comprehensive Plan policies regarding Transportation ......................... 20
+Policy 32 Capital Improvements ......................................................................................................... 20
+Policy 33a Transportation System ...................................................................................................... 20
+Policy 33b Marine Transportation System .......................................................................................... 21
+Policy 33c Bicycle/Pedestrian System ................................................................................................. 21
+Policy 34 Trafficways ........................................................................................................................... 21
+Policy 35 Public Transportation .......................................................................................................... 22
+Policy 36 Transportation Development Requirements ...................................................................... 23
+Relevant 1997 SIMC Plan Policies regarding Transportation .................................................................. 24
+POLICY 21: Recommend that the Multnomah County Bicycle and Pedestrian Advisory Committee
+has significant Sauvie Island representation....................................................................................... 24
+POLICY 22: Have the Multnomah County Bicycle and Pedestrian Citizen Advisory Committee study
+and recommend to the Board of Commissioners short-term and long-term solutions to safely
+accommodate bicyclists, pedestrians, and motor vehicles on Sauvie Island including on-road
+bikeways, separated multi-use paths, and funding options. .............................................................. 24
+POLICY 23: Update Policy 33B Marine Transportation System in the Comprehensive Framework
+Plan. .................................................................................................................................................... 24
+POLICY 24: Oppose placement of regional roadways in the Sauvie Island/Multnomah Channel Rural
+Area, should such roadways be under consideration by any regional transportation authority in the
+future. ................................................................................................................................................. 24
+POLICY 25: Review rural roadway standards to determine if 8-foot paved shoulder widths can be
+reduced to preserve the rural character of roads. ............................................................................. 24
+POLICY 26: Participate in a cooperative effort with the Sauvie Island Drainage District and the Army
+Corps of Engineers to study the dikes upon which public roads run including funding for dike
+improvements. .................................................................................................................................... 24
+Relevant 1998 Westside Rural Multnomah County Transportation System Plan Policies regarding
+Transportation ........................................................................................................................................ 25
+Relevant Zoning Ordinance Provisions ................................................................................................... 29
+Multnomah County  Road Rules (MCRR) ............................................................................................ 29
+Multnomah County Design and Construction Manual (DCM) ............................................................ 30
+SECTION 6: RELEVANT STATE AND REGIONAL AGENCY PLANS & RULES ................................................... 33
+Section 7: PROPOSED TRANSPORTATION POLICY FRAMEWORK ............................................................... 34
+Preliminary Recommendations to Resolve Issues Identified in Section 1 .............................................. 34
+Section 8: Subcommittee Meeting Process ................................................................................................ 34
+Agendas ................................................................................................................................................... 34
+Meeting Summaries ................................................................................................................................ 34
+Documents & Materials Considered ....................................................................................................... 34
+Detailed Findings & Recommendations .................................................................................................. 34
+
+Introduction
+As described on the Multnomah County website:
+The Sauvie Island/Multnomah Channel Rural Area includes those portions of Sauvie Island and
+the Multnomah Channel within Multnomah County. The Plan Area is bounded by U.S. Highway
+30 on the west, Columbia County on the north, the Columbia River on the east, and the
+Willamette River and the city of Portland on the south. The area is dominated by agricultural
+uses and a wildlife refuge, with various water-related uses on and along Multnomah Channel,
+ranging from protected wetlands to marinas.
+Appendix 6 – Transportation System Plan Background Report  is the seventh of a series of topic-specific
+background documents that are intended to serve as the factual and analytical basis for the 2013-2014
+update of the Sauvie Island – Multnomah Channel Rural Area Plan and Transportation System Plan
+(SIMC Plan). Appendix 6 addresses the transportation system in the SIMC planning area.
+Maps 1 and 2 below show SIMC Planning Area. Map 1 is taken from the 1997 SIMC Plan.  Map 2 shows a
+2012 aerial photo of the SIMC Planning Area.
+Map 1.  1997 SIMC Planning Area  Map 2. 2012 Aerial  Photo
+
+Context
+The transportation system of Sauvie Island and the Multnomah Channel serves and supports a number
+of different transportation modes for the area. These modes include motor vehicles, bicyclists,
+pedestrians, horses and farm equipment. As part of the scoping process for the update a number of
+concerns were raised regarding safety, conflicts between modes, and increased traffic and demand on
+the transportation system.  The issue of “cumulative impacts” from increased tourism and recreational
+use of the Island was especially a focus of discussion of transportation issues at the Transportation
+Subcommittee and CAC level.  The proposed policies are intended to address cumulative impacts from
+the transportation perspective.
+The transportation system in the area consists of a series of roads that serve a variety of uses. The area
+is dominated by agricultural uses and a wildlife refuge, with various water-related uses on and along
+Multnomah Channel ranging from protected wetlands to marinas. The Sauvie Island Road system is
+largely served by a main loop made up of a Rural Collector road system. They are Gillihan Rd, Reeder Rd.
+and Sauvie Island Rd. Rural Collector roads distribute traffic over large areas and generally connect to
+urban streets or rural arterials. They also provide for necessary truck transport (agriculture, timber or
+minerals) out of rural areas. All other roads in the Sauvie Island/Multnomah Channel Rural Area are
+Rural Local roads. Local roads provide access to abutting land uses and are generally low traffic volume
+and low speed facilities. All road access to Sauvie Island runs across the Sauvie Island Bridge, which
+crosses Multnomah Channel near the south end of the island.
+Access to properties along the Channel mainly comes off US Highway 30 which is an Oregon Department
+of Transportation (ODOT) facility. These roads are mainly classified as Rural Local or Local Roads and
+mainly serve the adjacent land uses. These roads include: Wapato Drive, Burlington Drive, Wapato
+Avenue, and Lower Rocky Point Road. County standards for Rural Collector roadways include two 12-
+foot travel lanes and two 8-foot paved shoulders. Gillihan Rd, Reeder Rd and Sauvie Island Rd are not
+currently constructed to the County standards for Rural Collector roads. While right-of-way is owned to
+accommodate these standards, there are no plans to reconstruct the roadways. Widening the paved
+surface would require extensive fill to widen the dike to accommodate an additional 16 feet for paved
+shoulders.
+Acknowledgments
+Appendix 6 resulted in large part from the work and recommendations of the SIMC Community Advisory
+Committee (CAC), the SIMC Technical Advisory Committee (TAC) and most particularly the
+Transportation Subcommittee, comprised of select CAC and TAC members who expressed an interest in
+and knowledge of the complex issues addressed in this report.  Subcommittee members who actively
+participated in the preparation of this appendix include the following:
+CAC Subcommittee Members
+•  Ericka Dickey-Nelson
+•  Martha Berndt
+•  Stephan Morris
+•  Julie Samples
+TAC Subcommittee Members
+•  John Niiyama, Multnomah County Road Services, Maintenance
+•  Brian Vincent, Multnomah County Road Services, Engineering
+•  Katherine McQuillan, Multnomah County Transportation Planning
+•  Ross Kevlin, ODOT Region 1
+•  David Lanning, ODOT Rail
+•  Ben Baldwin, TriMet
+The process leading up to these recommendations is documented in Section 6 of this report.
+Relation of Appendix 6: Transportation to the SIMC Plan
+The SIMC Plan itself will include a vision statement, plan policies and implementation strategies, plan
+and zoning maps, and land use regulations for the entire SIMC planning area.  The SIMC Plan will also
+include basic explanatory text and tables, as well as composite inventory maps – but the detailed
+substantive and procedural information leading up to the adoption of the SIMC Plan is found in the
+series of appendices listed below.  To become effective, the SIMC Plan must be “acknowledged” as
+complying with all fifteen applicable statewide planning goals; findings documenting compliance with
+these goals is found in Appendix 7.
+The nine appendices listed below will provide the detailed inventory information and analysis,
+consideration of alternative policy choices, explanation of the reasons for ultimate policy choices, and
+documentation of the robust community engagement effort that culminated in plan adoption.  Section 7
+of this document includes a complementary Multnomah Channel vision statement, draft policies and
+implementation for the Multnomah Channel area that will be incorporated (in some form) into the final
+SIMC Plan.
+Unlike the SIMC Plan, the appendices (background reports) are not intended to serve as policy
+documents in themselves – but do provide the information required by Statewide Planning Goals 1
+(Citizen Involvement) and 2 (Land Use Planning) necessary to support the County’s ultimate policy
+choices.
+•  Appendix 1: SIMC Scoping Report  (CH2M Hill)
+•  Appendix 2: Agriculture and Agri-Tourism Background Report
+•  Appendix 3: Multnomah Channel Marinas and Floating Homes Background Report
+•  Appendix 4: Natural and Cultural Resources Background Report
+•  Appendix 5: Public Facilities and Semi-Public Facilities Background Report
+•  Appendix 6: Transportation Background Report
+•  Appendix 7: Consistency with Applicable Statewide Planning Goals
+Focusing on topical areas is useful when identifying and resolving specific issues.  The 1997 SIMC Plan
+describes the transportation system for the area and relation to relevant County plans such as the bike
+and pedestrian plans.  The 1997 plan also includes policies.  In addition to the 1997 plan, the 1998
+Westside Rural Multnomah County Transportation System Plan provides a more detailed look at the
+transportation system for the area.
+Focusing attention on any specific issue can also lose sight of the big picture.  Recognizing this limitation,
+the CAC will hold a special meeting towards the end of the community involvement process to consider
+and integrate the results of each topical appendix. The SIMP Plan itself will include a chapter devoted to
+integrating the series of topical issues and policies into a cohesive and internally consistent rural area
+planning document.
+Maps & Figures
+Appendix 6 includes the following maps and figures showing natural resources within and adjacent to
+the SIMC planning area. Portions of the maps and figures listed below will be incorporated into the SIMC
+Plan for the entire planning area, which includes all of Sauvie Island, Multnomah Channel and land
+between the Channel and US Highway 30.
+Maps
+•  SIMC Planning Area
+
+•  Base Zoning
+
+•  Functional Class Map
+
+SECTION 1: KEY TRANSPORTATION ISSUES
+The following issues are quoted directly from the May 6, 2013 staff report to the Multnomah County
+Planning Commission related to PC-2013-2659 (Scoping Report in support of updating to the 1997
+Sauvie Island – Multnomah Channel Rural Area Plan).
+•  Need for strategies that reduce traffic conflicts between modes on Sauvie Island roads,
+particularly between bicycles and motorists, but also including farm equipment and pedestrians.
+There is a strong desire for better accommodations for bicycles and pedestrians. The lack of
+road shoulders and/or multi-use paths is a common theme.
+•  Need for safety improvements for roads, intersections, and rail crossings.
+•  Concern regarding the increasing numbers of visitors to Sauvie Island and related issues, such as
+increased traffic and increased demand on emergency service providers.
+SECTION 2: EXISTING CONDITIONS
+This section includes a discussion of information found in the 1997 Plan, the Multnomah County
+Comprehensive Framework Plan, and the 1998 Westside Rural Multnomah County Transportation
+System Plan.
+1997 SIMC Plan
+The following maps and text related to transportation are provided below.
+TRANSPORTATION
+Multnomah County Comprehensive Framework Plan
+The Transportation System Policy of the Multnomah County Comprehensive Framework Plan includes
+policies for the following three categories: 1) Transportation System (33A), 2) Marine Transportation
+System (33B) and 3) Bikeways/Pedestrian System (33C). Multnomah County's policy is to provide a
+balanced transportation system that offers alternative transportation facilities to people and commerce.
+
+The purpose of Policy 33A is to establish criteria for Multnomah County to use in evaluating alternative
+transportation proposals in order to achieve its objective of a balanced, safe and efficient system.
+POLICY 33B ensures that Multnomah County takes appropriate action to provide for needed marine
+transportation system facilities in those areas of the Portland region within its jurisdiction. The system
+includes appropriate backup land for marine terminal and waterfront industrial facilities. This policy
+addresses the Columbia River shipping channel only and does not include Multnomah Channel.
+
+Bikeways and pedestrian ways are an integral part of a balanced transportation system. Policy 33C
+currently focuses on implementing a bicycle system without addressing the pedestrian system.
+However, this policy will be amended in the near future to reflect the recently adopted Pedestrian
+Master Plan as well as the Bicycle Master Plan. Policy 33C directs facility planning and route
+implementation based on the Bicycle Network Map.
+
+Policy 34 of the Comprehensive Framework plan directs Multnomah County to develop the existing
+traffic way system to maximize efficiency, and to consider the mobility of pedestrians by providing safe
+crossings. There are three types of roads in the Sauvie
+Island/Multnomah Channel Rural Area. US 30 is classified as a Principal Arterial. Principal Arterials serve
+interstate, interregional, and regional traffic. Traffic volumes are high and access to adjacent land uses is
+limited.
+
+Three roadways on Sauvie Island are classified in Policy 34 as Rural Collector roadways. They are Gillihan
+Rd, Reeder Rd and Sauvie Island Rd. Rural Collector roads distribute traffic over large areas and generally
+connect to urban streets or rural arterials. They also provide for necessary truck transport (agriculture,
+timber or minerals) out of rural areas.
+
+All other roads in the Sauvie Island/Multnomah Channel Rural Area are Rural Local roads. Local roads
+provide access to abutting land uses and are generally low traffic volume and low speed facilities.
+
+All road access to Sauvie Island runs across the Sauvie Island bridge, which crosses Multnomah Channel
+near the south end of the island. It is a narrow two-lane facility with no capacity for major increases in
+traffic over existing levels.
+
+Portland-Astoria (US Highway 30) Corridor Plan
+An inventory of US 30 was conducted as part of the Corridor Plan by the Oregon Department of
+Transportation. The segment of US 30 from the Portland City Limits to the Multnomah County line is a
+four-lane highway with high speeds and volumes. Traffic volumes range from 10,000 - 50,000 average
+daily traffic (ADT) with peak summer traffic increasing 10-30 % above ADT.
+
+US 30 is a designated Statewide Bicycle Route. Bicycle travel is expected to increase for both commuter
+and recreational travel. The Plan recommends that, at a minimum, five-foot paved shoulders be
+provided to accommodate bicycle use along the entire corridor length. Additional pavement is needed in
+some areas to meet the five-foot shoulder width. Other recommendations include:
+
+Provide connections to local bicycle (and hiking) systems where feasible, and
+Provide bicycle crossings across US 30 where appropriate and feasible.
+
+Pedestrians are allowed to use the shoulders on US 30, but pedestrian activity is expected to be
+concentrated in the urban areas.
+The Bicycle Master Plan, adopted in 1990, was developed with assistance from a County wide Bicycle
+Planning Task Force and a Sauvie Island Bicycle Planning Task Force. Two objectives with related policies
+and implementation strategies are identified in the
+Bicycle Master Plan.
+
+1) Develop and maintain an extensive network of bicycle transportation facilities that provide
+safe, efficient and enjoyable bicycle travel.
+
+2) Increase bicyclist and motorist knowledge and awareness so as to resolve hazards and
+conflicts of bicycling, and reduce the occurrence of bicycle related accidents.
+
+Included in the Bicycle Master Plan is a Bikeway Plan Map. The map identifies roadways that will provide
+a bikeway facility when the roadway is constructed to current standards. There are two bikeways
+identified on the map for the Sauvie Island/Multnomah Channel area: US 30 and Sauvie Island Rd from
+US 30 to Ferry Rd. Paved shoulders exist on US 30 providing a space for bicyclists to ride. Paved
+shoulders, the standard bikeway for Rural Collectors, do not exist on Sauvie Island Rd.
+
+Reconstructing Sauvie Island Rd to improve safety for bicyclists and motorists has been estimated to
+cost over $1 million. To add paved shoulders, the dike would need to be widened. Currently, there is no
+funding available or identified. Extensive coordination is required for this project with the Corps of
+Engineers, Sauvie Island Drainage District and Multnomah County.
+
+The Bicycle Master Plan recommends establishing a Bicycle Citizen Advisory Committee to address
+current and future bicycling problems and opportunities.
+
+Multnomah County Pedestrian Master Plan
+
+The purpose of the Pedestrian Master Plan is to establish a framework for developing a safe and
+convenient urban and rural pedestrian system on Multnomah County roads. County standards for
+pedestrian facilities on rural roads include 4-foot gravel or 8-foot paved shoulders. On Sauvie Island
+roads, paved shoulders are very limited. There are currently no plans to widen the shoulders on Gillihan
+Rd., Reeder Rd. or Sauvie Island Rd. Other pedestrian facilities that may need to be provided on the
+island include pedestrian crossings at the school or at other destinations that attract pedestrians.
+
+Shoulders exist on US 30 and may be used by pedestrians. The Oregon Bike and Pedestrian Plan states
+that where shoulders are expected to be used by bicyclists and pedestrians, shoulders should be 1.8m (6
+ft) or wider. Shoulders on rural roads are shared with bicyclists.
+
+The Pedestrian Master Plan recommends establishing a Pedestrian Citizen Advisory Committee to assist
+the County in identifying and resolving specific pedestrian issues, problems and opportunities.
+
+Street Standards
+
+County standards for Rural Collector roadways include two 12-foot travel lanes and two 8-foot paved
+shoulders. Gillihan Rd, Reeder Rd and Sauvie Island Rd are not currently constructed to the County
+standards for Rural Collector roads. While right-of-way is owned to accommodate these standards,
+there are no plans to reconstruct the roadways. Widening the paved surface would require extensive fill
+to widen the dike to accommodate an additional 16 feet for paved shoulders.
+
+Existing Policies from 1997 Rural Area Plan
+
+POLICY 21: Recommend that the Multnomah County Bicycle and Pedestrian Advisory Committee has
+significant Sauvie Island representation.
+STRATEGY: Multnomah County shall implement this policy through the appointment process for
+the Committee.
+
+POLICY 22: Have the Multnomah County Bicycle and Pedestrian Citizen Advisory Committee study and
+recommend to the Board of Commissioners short-term and long-term solutions to safely accommodate
+bicyclists, pedestrians, and motor vehicles on Sauvie Island including on-road bikeways, separated multi-
+use paths, and funding options.
+STRATEGY: Multnomah County shall implement this policy through the work program of the
+Bicycle & Pedestrian Citizen Advisory Committee and the Transportation and Land Use Planning
+Division budget.
+
+POLICY 23: Update Policy 33B Marine Transportation System in the Comprehensive Framework Plan.
+STRATEGY: Multnomah County shall implement this policy through the budgeting process for
+the Division of Transportation and Land Use Planning.
+
+POLICY 24: Oppose placement of regional roadways in the Sauvie Island/Multnomah Channel Rural Area,
+should such roadways be under consideration by any regional transportation authority in the future.
+STRATEGY: Multnomah County shall use this policy in discussions and recommendations
+regarding regional roadways.
+
+POLICY 25: Review rural roadway standards to determine if 8-foot paved shoulder widths can be
+reduced to preserve the rural character of roads.
+STRATEGY: Multnomah County shall implement this policy through the budgeting process for
+the Division of Transportation and Land Use Planning.
+
+POLICY 26: Participate in a cooperative effort with the Sauvie Island Drainage District and the Army
+Corps of Engineers to study the dikes upon which public roads run including funding for dike
+improvements.
+STRATEGY: Multnomah County shall implement this policy by working with the Drainage District
+and Corps of Engineers to devise and then implement a process for studying the dikes with
+roads on them protecting Sauvie Island.
+
+Map XX.  Functional Classification in 1997
+
+Source: SIMC Plan 1997
+
+1998 Westside Rural Multnomah County Transportation System Plan
+
+The following maps and text related to transportation are provided below.
+Goals,  Objectives and Policies from 1998 TSP
+Goal 1:  Implement a transportation system that is safe and efficient in meeting the needs of area
+residents and those traveling through the area.
+ Objective A:  Provide a transportation system that addresses safety concerns for all modes of
+travel
+Policy: Improve roadways to attain appropriate safety levels for all motorized and
+non-motorized traffic
+ Implementation strategies:
+i.  Monitor accident rates for all modes of transportation and
+recommend implementation of low-cost operational
+improvements within budgetary limits. Target resources to
+reduce accident potential in the top 10 percent of accident
+locations
+ii.  Continue to monitor high accident location sites for all modes of
+transportation
+iii.  Implement access management standards to reduce vehicle
+conflicts and maintain the rural character of the area
+
+…
+Policy: Actively support safe travel speeds on the transportation system
+ Implementation strategies:
+i.  Support speed limit enforcement
+ii.  Apply design standards that encourage appropriate motor
+vehicle and truck speeds.
+Objective B:  Provide a transportation system that is convenient and limits congestion while
+meeting minimum safety standards
+  Policy: Review adopted design standards to determine if 4 feet paved shoulders
+adequately meet safety standards for all modes of travel.
+  Implementation Strategies:
+i.  Support the Street Design Guidelines for 2040 and apply them
+appropriately to maintain the rural character of Multnomah
+County
+ii.  Support Title 6 of the Urban Growth Management Functional
+Plan and apply level of service standards appropriately to
+maintain the character of rural Multnomah County.
+Goal 2:  Implement a balanced transportation system that supports all modes of travel.
+ Objective A:  Establish a transportation system that accommodates a variety of methods of
+travel and minimizes reliance on a single travel mode
+  Policy: Encourage the use of ride sharing facilities
+   Implementation Strategies
+i.  Support safe and convenient park and ride facilities for car pools
+and transit service in convenient and appropriate locations
+ii.  Encourage the placement of bike lockers at all park and
+ride/park and car pool locations. Support and promote their
+use.
+iii.  Coordinate with other agencies to assist users with convenient
+services (e.g. ride share matching)
+  Policy: Encourage mobility for the transportation disadvantaged.
+   Implementation Strategy
+i.  Work with public transportation providers to monitor and
+provide for the transportation needs of the transportation
+disadvantaged.
+  Policy: Support the development of multi-use paths.
+   Implementation Strategy
+i.  Coordinate multi-use trail transportation needs with Metro
+Parks and Green Spaces
+Goal 3: Develop a transportation system that supports the rural character of West Multnomah County
+ Objective A:  Maintain a transportation system that supports the surrounding rural land use
+designations
+  Policy: Discourage through traffic on trafficways with functional classification of rural
+local road
+   Implementation Strategies
+i.  Reduce travel conflicts by providing appropriate facilities, signs,
+and traffic markings based upon user type and travel mode
+ii.  On rural local roads with heavy through traffic, consider
+implementing appropriate traffic-calming measures to reduce
+such traffic
+ Objective B:  Provide a transportation system that minimizes impacts to wildlife and agricultural
+resources.
+  Policy: Apply roadway design safety standards appropriately by balancing the needs of
+the travelling public and minimizing negative impacts to the environment.
+   Implementation Strategies
+i.  Develop and implement a design exception process that
+considers the relative and incremental benefits of
+implementation costs and impacts to the environment
+ii.  Assess implications of fish passage requirements on county
+facilities and develop a program for retrofitting drainage
+facilities
+iii.  Adopt and apply drainage system design guidelines and
+standards to accommodate fish passage
+iv.  Adopt and apply rural roadway shoulder standards that
+preserve the rural character of the area
+v.  Adopt and apply rural roadway standards that accommodate
+wildlife migration
+ Objective C:  Maintain the beauty of the area by preserving critical view sheds
+  Policy: Encourage the placement of new pipelines and transmissions lines in existing
+right-of-way whenever possible
+   Implementation Strategies
+i.  Develop general guidelines for utility placement within the
+county right-of-way that reduce the number of conflicts and
+cost of implementation
+ii.  Enhance the rural character and scenic qualities of the area by
+placing utilities underground when possible
+iii.  Coordinate improvements with utility companies through
+regular status meetings to maintain and preserve the beauty of
+the rural character of west Multnomah County.
+ Objective D:  Ensure the transportation plan meets federal, state and regional air, water, and
+noise standards
+  Policy: Coordinate transportation improvement proj ects with appropriate regulatory
+agencies
+   Implementation Strategies
+i.  Retrofit existing facilities to meet regulatory requirements
+within budgetary limits.
+ii.  Obtain permits as necessary for transportation improvement
+projects and maintenance activities
+Goal 4:  Develop a transportation system the supports a healthy economy
+ Objective A:  Provide a convenient access while maintaining movement of freight along the U.S.
+Corridor 30
+  Policy: Provide ongoing coordination with state, r egional, and local business interests
+to assure efficient movement of goods and services
+   Implementation Strategies
+i.  Participate in, support, and adopt the U.S. 30 Corridor Plan
+ii.  Provide for auxiliary turn lanes on road connections to U.S. 30
+to achieve acceptable operating levels of service
+  Policy: Promote transportation alternatives for t he movement of freight.
+   Implementation strategies:
+i.  Encourage rail operators to maintain rail service within the U.S.
+30 corridor
+ii.  Support the movement of freight on the Columbia River,
+including the U.S. Army Corps of Engineers’ study of deepening
+the Lower Columbia River navigation channel to accommodate
+deep draft ships.
+ Objective B:  Preserve the function and safety of the transportation system.
+  Policy: Provide a transportation system that ensur es economically viable
+transportation of goods from farm to market.
+   Implementation Strategies
+i.  Conduct a study of the Sauvie Island Bridge
+ii.  Conduct a study of Cornelius Pass Road
+  Policy: Coordinate transportation system management activities with interested and
+affected stakeholders
+   Implementation Strategies
+i.  Wok with property owners to consolidate existing accesses
+when possible and as appropriate to access management
+standards
+ii.  Support limited accesses along U.S. 30 to the extent possible.
+Support access management along U.S. 30 in accordance with
+ODOT’s Access Management Standards.
+
+Goal 5:  Provide transportation improvements in a timely manner according to funding capability.
+ Objective A:  Maximize cost-effectiveness of transportation improvements using the Capital
+Improvement Plan process.
+  Policy: Invest in safety and maintenance improvem ents
+   Implementing strategies
+i.  Accelerate shoulder paving to safely accommodate automobile,
+bicycle, and pedestrian use.
+ii.  Make intersection improvements to improve safety, sight
+distance, and intersection efficiency.
+iii.  Continue to provide opportunities to educate and inform
+citizens with easy-to-understand materials on transportation
+finance.
+iv.  Ensure the Capital Improvement Plan evaluation criteria
+adequately evaluates rural needs.
+
+SECTION 3: STATEWIDE REGULATORY FRAMEWORK
+Oregon’s Statewide Planning Goals and implementing “administrative rules” apply when comprehensive
+plans are adopted or amended.  The Multnomah County Comprehensive Plan and the SIMC Plan have
+been “acknowledged” by the Oregon Land Conservation and Development Commission (LCDC) as
+complying with applicable Statewide Planning Goals and administrative rules.  Therefore, the County can
+rely on its acknowledged plans and (in most cases) need not do a separate goal analysis when
+implementing acknowledged plans.
+The exception to this rule occurs when the County interprets the meaning of applicable statutes, goals
+and rules; the Greenfield v. Bella Organics cases are an example of the Oregon Land Use Board of
+Appeals and the Oregon Court of Appeals reversing and remanding a County decision because those
+decisions improperly construed applicable statutes.
+In any case, the SIMC Plan is part of the Multnomah County Comprehensive Plan; therefore, any
+amendments to the SIMC Plan must comply with applicable Statewide Planning Goals, rules and
+statutes.  Appendix 7: Compliance with Applicable Statewide Planning Goals provides findings explaining
+how proposed amendments to the SIMC Plan so comply.
+
+SECTION 4: RELEVANT COUNTY AND AGENCY PLANS
+In addition to plans identified in Section 2, the Multnomah County Comprehensive Framework Plan and
+the Sauvie Island Rural Area Plan have policies that are relevant to the transportation system within the
+SIMC planning area.
+Relevant Multnomah County Comprehensive Plan policies regarding
+Transportation
+Policy 32 Capital Improvements
+The provision of public facilities and services is a key component in land development and
+implementation of the comprehensive land use plan. A timely and efficient arrangement of public
+facilities and services maximizes the use of available and projected resources while responding to
+demands for service by existing and future land users.
+
+Basic services needed to support land development are public schools, transportation, water supply,
+and sewage and solid waste disposal. Other essential support services include police and fire
+protection; sanitary and storm drainage facilities; planning, zoning, and subdivision control; health
+and recreational facilities and services; energy; communications; and community governmental
+services.
+
+The County's intent is to require the establishment and maintenance of a public services and
+facilities plan and capital improvements program which will provide for the timely, orderly and
+efficient arrangement of public services and facilities, considering:
+1.  The health, safety and general welfare of County residents;
+2.  the level of services required, based upon the needs and uses permitted in urban, rural and
+natural resource areas;
+3.  the equitable distribution of costs, based upon benefits received from the public utility system
+or facility; and the environmental, social, and economic impacts.
+
+In developing policies and strategies, the County will seek to ensure that public services and facilities
+plans and capital improvements programs will result in the following:
+1.  Coordination of land use planning and provision of appropriate types and levels of public
+facilities.
+2.  Coordination of a full range of public facilities and services among all agencies responsible for
+providing them.
+3.  Provision of adequate facilities and services for existing uses.
+4.  Maintenance of an adequate inventory of buildable land.
+5.  Protection of natural resource and rural areas.
+6.  Timely development of public services and facilities in urbanizable areas within resource
+limitations.
+Policy 33a Transportation System
+The County's Policy is to implement a balanced, safe and efficient transportation system, in
+evaluating parts of the system, the County will support proposals which:
+A. Implement the comprehensive plan;
+B. Best achieve the objectives of the specific project;
+C. Protect or enhance water and air quality and reduce noise levels;
+D. Protect social values and the quality of neighborhoods and communities;
+E. Support economic growth;
+F. Provide a safe, functional and convenient system; and
+G. Provide optimum efficiency and effectiveness of investment.
+H. Update and refine the bicycle corridor concept plan,
+I. The County will also consider:
+Equality of access to urban opportunities;
+J. The degree of mobility available to all people in terms of alternative types of transportation;
+K. Energy conservation and efficiency;
+L. System flexibility;
+M. Pedestrian crossing and safety; and
+N. The need for landscaping and other design techniques Necessary for visual enhancement.
+Policy 33b Marine Transportation System
+Ensures that Multnomah County takes appropriate action to provide for needed marine
+transportation system facilities in those areas of the Portland region within its jurisdiction. The
+system includes appropriate backup land for marine terminal and waterfront industrial facilities.
+This policy addresses the Columbia River shipping channel only and does not include Multnomah
+Channel.
+Policy 33c Bicycle/Pedestrian System
+It is the County's Policy to create a balanced transportation system by implementing bicycle and
+pedestrian systems as integral parts of the County-wide transportation system.
+Policy 34 Trafficways
+Trafficways are a vital part of the transportation system in Multnomah County, functioning to move
+people and goods between their origins and destinations. A hierarchy of trafficways provides
+necessary access to land uses, and mobility to travelers and commerce. The trafficway network
+accommodates several modes of travel within public right-of-way, and acknowledges differing
+transportation needs between the urban and rural areas of the County. Communication and power
+networks, and public utilities including storm and sanitary sewers, and water supply share the right-
+of-way with roads.
+
+Trafficways are developed according to their functional classification, which distinguishes streets
+and roads, by their operational purposes. Many aspects are considered when classifying trafficways:
+• Travel characteristics: trip length, origin and destination
+• Intensity and density of land uses served: urban and rural
+• Travel modes to be served: automobiles, bicycles, transit, trucks, and pedestrians
+• Relationship between traffic movement and access management
+• Projected traffic volumes and capacity requirements at acceptable levels of service
+
+The purpose of this Policy is to direct the County to develop the existing trafficway system to
+maximize efficiency, and to consider the mobility of pedestrians by providing safe crossings.
+The County's Policy is to develop a safe and efficient trafficway system using the existing road
+network, and by:
+A. Maintaining a trafficway classification system;
+B. Improving streets to the standards established by the classification system, where necessary,
+and/or appropriate to mitigate identified transportation problems and to accommodate existing
+implemented and planned pedestrian, bicycle (Policy 33c), and transit facilities (Policy 35) as
+established in the County, regional, and local transportation plans;
+C. Placing priority on maintaining the existing trafficways;
+D. Developing additional transportation facilities to meet community and regional transportation
+needs where capacity of the existing system has been maximized through transportation system
+management and demand management measures;
+Average Daily Traffic by County Street Classifications chart here
+E. Providing safe and convenient bicycle and transit facilities and a pedestrian environment with
+road crossings and sidewalk network designed for pedestrian travel in accordance with Policy
+33c: Bikeways/Pedestrian System and Policy 35: Public Transportation;
+F. Limiting the number of and consolidating ingress and egress points on arterials and major
+collectors to preserve traffic flow and on rural local roads to limit rural commercial development, as
+necessary;
+G. Reducing reliance on the automobile and assuring that the Planned transportation system
+supports patterns of travel and land use which will avoid or mitigate problems of air pollution,
+Traffic congestion and community liveability;
+H. Encouraging ride-share and flextime programs to help meet the projected increase in travel
+demand. The County will work with metro and tri-met to develop ride-share programs, flextime and
+other transportation demand strategies to achieve the ride-share goal given in the regional
+transportation plan; and
+I. Implementing the preferred street standards chapter 29.500, administrative rule or the County
+Design and Construction Manual, including adherence to access control and intersection design
+guideline criteria,; and establishing a procedure for allowing deviation from the preferred standard
+only when a physical obstacle prevents construction to the preferred standard or when the
+appropriate local jurisdiction’s Transportation System Plan provides an alternate adopted standard.
+In all cases, roadways shall be constructed to standards within the County’s allowable ranges for the
+appropriate classification.
+J. Considering and allowing for implementation of regional street design elements including
+reduction of excessive standards (as shown in Creating Livable Streets: Street Design for 2040
+(1997)) Guidelines (Second Edition, June 2002) when planning for improvements to facilities
+designated on Metro’s Regional Street Design Map or on roadways in urban unincorporated
+areas.
+[Added 1999, Ord. 926 § II]
+K. Improving local circulation by keeping through trips on arterial streets and minimizing local trip
+lengths by increasing street connectivity. [Added 1999, Ord. 926 § II]
+L. Ensuring that on-street parking is provided in accordance with county street standards and
+coordinating with cities to implement Metro’s regional 10 percent reduction goal.
+M.Ensuring that additional right-of-way is dedicated at intersections that are currently signalized
+and that potentially may be signalized in order to comply with the Americans with Disabilities
+Act.
+Policy 35 Public Transportation
+The purpose of this Policy is to direct the County to consider the effects of land use decisions on the
+efficient provision of public transportation, and to continually review the Tri-Met routes to
+determine that the County residents are receiving the best possible service.
+
+The County's Policy is to support a safe, efficient and convenient public transportation system by:
+A. Increasing overall density levels in the urban area, particularly at light rail stations,
+B. Locating population concentrations, commercial centers, employment centers, and public
+facilities in areas which can be served by public transportation,
+C. Making improvements to public transportation corridors which enhance rider convenience,
+comfort, access and reduced travel time, and
+D. Communicating community needs to the agencies responsible for public transportation planning,
+programming and funding.
+E. Supporting implementation of the I-205 transitway.
+F. Implementing the publicly funded elements of the transit station plan as soon as possible.
+G. Designating regional transit trunk routes, transit centers and park-and-ride lots as required by the
+regional transportation plan of the Portland Metropolitan Area as shown on the regional transit
+trunk route map.
+Policy 36 Transportation Development Requirements
+The County's Policy is to increase the efficiency and aesthetic quality of the trafficways and public
+transportation by requiring:
+A. The dedication of additional right-of-way appropriate to the functional classification of the street
+given in Policy 34 and chapter 11.60.
+B. The number of ingress and egress points be consolidated through joint use agreements,
+C. Vehicular and truck off-street parking and loading areas,
+D. Off-street bus loading areas and shelters for riders,
+E. Street trees to be planted,
+F. A pedestrian circulation system as given in the sidewalk provisions, chapter 11.60,
+G. Implementation of the bicycle corridor capital improvements program,
+H. Bicycle parking facilities at bicycle and public transportation sections in new commercial,
+industrial and business developments, and
+I. New streets improved to County standards in unincorporated County may be designated public
+access roads and maintained by the County until annexed into a city, as stated in ordinance 313.
+
+Relevant 1997 SIMC Plan Policies regarding Transportation
+The following policies are quoted in  from the 1997 Sauvie Island Multnomah Channel Rural Area Plan .
+POLICY 21: Recommend that the Multnomah County Bicycle and Pedestrian Advisory
+Committee has significant Sauvie Island representation.
+STRATEGY: Multnomah County shall implement this policy through the appointment process for the
+Committee.
+POLICY 22: Have the Multnomah County Bicycle and Pedestrian Citizen Advisory
+Committee study and recommend to the Board of Commissioners short-term and
+long-term solutions to safely accommodate bicyclists, pedestrians, and motor
+vehicles on Sauvie Island including on-road bikeways, separated multi-use paths, and
+funding options.
+STRATEGY: Multnomah County shall implement this policy through the work program of the Bicycle &
+Pedestrian Citizen Advisory Committee and the Transportation and Land Use Planning Division budget.
+POLICY 23: Update Policy 33B Marine Transportation System in the Comprehensive
+Framework Plan.
+STRATEGY: Multnomah County shall implement this policy through the budgeting process for the
+Division of Transportation and Land Use Planning.
+POLICY 24: Oppose placement of regional roadways in the Sauvie Island/Multnomah
+Channel Rural Area, should such roadways be under consideration by any regional
+transportation authority in the future.
+STRATEGY: Multnomah County shall use this policy in discussions and recommendations regarding
+regional roadways.
+POLICY 25: Review rural roadway standards to determine if 8-foot paved shoulder
+widths can be reduced to preserve the rural character of roads.
+STRATEGY: Multnomah County shall implement this policy through the budgeting process for the
+Division of Transportation and Land Use Planning.
+POLICY 26: Participate in a cooperative effort with the Sauvie Island Drainage District
+and the Army Corps of Engineers to study the dikes upon which public roads run
+including funding for dike improvements.
+STRATEGY: Multnomah County shall implement this policy by working with the Drainage District and
+Corps of Engineers to devise and then implement a process for studying the dikes with roads on them
+protecting Sauvie Island.
+
+Note that the Westside Rural Multnomah County Transportation System Plan (TSP) was adopted since
+formulation of these policies. The TSP is consistent with the preceding transportation policies and it
+specifically implements policies 24 & 25. The TSP is the document Multnomah County will use to review
+future developments and transportation improvements.
+
+Relevant 1998 Westside Rural Multnomah County Transportation System Plan
+Policies regarding Transportation
+Goals,  Objectives and Policies from 1998 TSP
+Goal 1:  Implement a transportation system that is safe and efficient in meeting the needs of area
+residents and those traveling through the area.
+ Objective A:  Provide a transportation system that addresses safety concerns for all modes of
+travel
+Policy: Improve roadways to attain appropriate safety levels for all motorized and
+non-motorized traffic
+ Implementation strategies:
+•  Monitor accident rates for all modes of transportation and
+recommend implementation of low-cost operational
+improvements within budgetary limits. Target resources to
+reduce accident potential in the top 10 percent of accident
+locations
+•  Continue to monitor high accident location sites for all modes of
+transportation
+•  Implement access management standards to reduce vehicle
+conflicts and maintain the rural character of the area
+
+…
+Policy: Actively support safe travel speeds on the transportation system
+ Implementation strategies:
+•  Support speed limit enforcement
+•  Apply design standards that encourage appropriate motor
+vehicle and truck speeds.
+Objective B:  Provide a transportation system that is convenient and limits congestion while
+meeting minimum safety standards
+  Policy: Review adopted design standards to determine if 4 feet paved shoulders
+adequately meet safety standards for all modes of travel.
+  Implementation Strategies:
+•  Support the Street Design Guidelines for 2040 and apply them
+appropriately to maintain the rural character of Multnomah
+County
+•  Support Title 6 of the Urban Growth Management Functional
+Plan and apply level of service standards appropriately to
+maintain the character of rural Multnomah County.
+Goal 2:  Implement a balanced transportation system that supports all modes of travel.
+ Objective A:  Establish a transportation system that accommodates a variety of methods of
+travel and minimizes reliance on a single travel mode
+  Policy: Encourage the use of ride sharing facilities
+   Implementation Strategies
+•  Support safe and convenient park and ride facilities for car pools
+and transit service in convenient and appropriate locations
+•  Encourage the placement of bike lockers at all park and
+ride/park and car pool locations. Support and promote their
+use.
+•  Coordinate with other agencies to assist users with convenient
+services (e.g. ride share matching)
+  Policy: Encourage mobility for the transportation disadvantaged.
+   Implementation Strategy
+•  Work with public transportation providers to monitor and
+provide for the transportation needs of the transportation
+disadvantaged.
+  Policy: Support the development of multi-use paths.
+   Implementation Strategy
+•  Coordinate multi-use trail transportation needs with Metro
+Parks and Green Spaces
+Goal 3: Develop a transportation system that supports the rural character of West Multnomah County
+ Objective A:  Maintain a transportation system that supports the surrounding rural land use
+designations
+  Policy: Discourage through traffic on trafficways with functional classification of rural
+local road
+   Implementation Strategies
+•  Reduce travel conflicts by providing appropriate facilities, signs,
+and traffic markings based upon user type and travel mode
+•  On rural local roads with heavy through traffic, consider
+implementing appropriate traffic-calming measures to reduce
+such traffic
+ Objective B:  Provide a transportation system that minimizes impacts to wildlife and agricultural
+resources.
+  Policy: Apply roadway design safety standards appropriately by balancing the needs of
+the travelling public and minimizing negative impacts to the environment.
+   Implementation Strategies
+•  Develop and implement a design exception process that
+considers the relative and incremental benefits of
+implementation costs and impacts to the environment
+•  Assess implications of fish passage requirements on county
+facilities and develop a program for retrofitting drainage
+facilities
+•  Adopt and apply drainage system design guidelines and
+standards to accommodate fish passage
+•  Adopt and apply rural roadway shoulder standards that
+preserve the rural character of the area
+•  Adopt and apply rural roadway standards that accommodate
+wildlife migration
+ Objective C:  Maintain the beauty of the area by preserving critical view sheds
+  Policy: Encourage the placement of new pipelines and transmissions lines in existing
+right-of-way whenever possible
+   Implementation Strategies
+•  Develop general guidelines for utility placement within the
+county right-of-way that reduce the number of conflicts and
+cost of implementation
+•  Enhance the rural character and scenic qualities of the area by
+placing utilities underground when possible
+•  Coordinate improvements with utility companies through
+regular status meetings to maintain and preserve the beauty of
+the rural character of west Multnomah County.
+ Objective D:  Ensure the transportation plan meets federal, state and regional air, water, and
+noise standards
+  Policy: Coordinate transportation improvement proj ects with appropriate regulatory
+agencies
+   Implementation Strategies
+•  Retrofit existing facilities to meet regulatory requirements
+within budgetary limits.
+•  Obtain permits as necessary for transportation improvement
+projects and maintenance activities
+Goal 4:  Develop a transportation system the supports a healthy economy
+ Objective A:  Provide a convenient access while maintaining movement of freight along the U.S.
+Corridor 30
+  Policy: Provide ongoing coordination with state, r egional, and local business interests
+to assure efficient movement of goods and services
+   Implementation Strategies
+•  Participate in, support, and adopt the U.S. 30 Corridor Plan
+•  Provide for auxiliary turn lanes on road connections to U.S. 30
+to achieve acceptable operating levels of service
+  Policy: Promote transportation alternatives for t he movement of freight.
+   Implementation strategies:
+•  Encourage rail operators to maintain rail service within the U.S.
+30 corridor
+•  Support the movement of freight on the Columbia River,
+including the U.S. Army Corps of Engineers’ study of deepening
+the Lower Columbia River navigation channel to accommodate
+deep draft ships.
+ Objective B:  Preserve the function and safety of the transportation system.
+  Policy: Provide a transportation system that ensur es economically viable
+transportation of goods from farm to market.
+   Implementation Strategies
+•  Conduct a study of the Sauvie Island Bridge
+•  Conduct a study of Cornelius Pass Road
+  Policy: Coordinate transportation system management activities with interested and
+affected stakeholders
+   Implementation Strategies
+•  Wok with property owners to consolidate existing accesses
+when possible and as appropriate to access management
+standards
+•  Support limited accesses along U.S. 30 to the extent possible.
+Support access management along U.S. 30 in accordance with
+ODOT’s Access Management Standards.
+
+Goal 5:  Provide transportation improvements in a timely manner according to funding capability.
+ Objective A:  Maximize cost-effectiveness of transportation improvements using the Capital
+Improvement Plan process.
+  Policy: Invest in safety and maintenance improvem ents
+   Implementing strategies
+•  Accelerate shoulder paving to safely accommodate automobile,
+bicycle, and pedestrian use.
+•  Make intersection improvements to improve safety, sight
+distance, and intersection efficiency.
+•  Continue to provide opportunities to educate and inform
+citizens with easy-to-understand materials on transportation
+finance.
+•  Ensure the Capital Improvement Plan evaluation criteria
+adequately evaluates rural needs.
+Relevant Zoning Ordinance Provisions
+Multnomah County  Road Rules (MCRR)
+
+The purpose of these rules is to govern the administration of roads under the jurisdiction of
+Multnomah County in accordance with MCC 29.500 through 29.999 and in keeping with Policies 32,
+33, 34, 35, 36, 37 and 38 of the County Comprehensive Framework Plan.
+
+These rules provide the link between the County Code provisions of MCC 29.500, et seq and the
+Design and Construction Manual adopted under the provisions of these rules pursuant to MCC
+29.571. In addition, these rules are the “Street Standards Rules” referenced in the Land Division
+Code parts of the Multnomah County Zoning Code Chapters and are therefore one of the
+implementation tools for establishing standards for street design and improvements.
+
+The full document can be found online at: http://web.multco.us/sites/default/files/transportation-
+planning/documents/final_road_rules04.pdf
+
+Current Functional Class Map
+Multnomah County Design and Construction Manual (DCM)
+
+The Multnomah County Design and Construction Manual includes the engineering standards and
+specifications to be followed in the design and construction of new and improved roadways in
+Multnomah County. The document supplements the Multnomah County Street Standards - Rules
+document, which includes all administrative procedures to be followed with respect to roadway
+design and construction, including plan preparation format, permitting, and variances.
+
+The Design and Construction Manual is a comprehensive reference to all relevant roadway design
+standards in Multnomah County. The standards and specifications are to be applied on all roadways
+either currently under County jurisdiction, or for which the County will assume maintenance
+responsibility upon the completion of construction.
+
+The manual is divided into two other parts:
+Part I: Design Manual, includes all roadway design-related standards, with sections covering traffic
+planning, geometric design, drainage, landscaping/urban design, and traffic engineering design.
+
+Part II: Construction Manual, includes all procedures and specifications related to roadway
+construction. Sections covering traffic, roadway, drainage, and landscaping/urban design
+construction are presented.
+
+Appendix A: Level of Service, describes the concept of level of service criteria and how it used to
+evaluate the performance of transportation facilities including unsignalized and signalized
+intersections, rural and suburban highways, urban and suburban arterials, etc.
+
+The document can be found on line at:
+http://web.multco.us/sites/default/files/roads/documents/multnomahco_dcm.pdf
+
+Design Level of Service per the Design and Construction Manual
+
+The roadway level of service (LOS) concept is applied in the U.S. as a qualitative assessment of the
+road user's perception of the quality of flow. LOS is represented by one of the letters "A" through
+"F," with "A" representing free flow operation and "F" stop and go operation. LOS reflects the
+quality of flow as measured by some scale of driver satisfaction. Measures of effectiveness such as
+average travel speed, volume to capacity ratio, average seconds of delay, and others have been
+developed to approximate these qualitative representations quantitatively. Different measures of
+effectiveness are used for different types of roadways because the user's perception of quality of
+flow varies by road type. Appendix B of the Design and Construction Manual discusses the level of
+service concept in greater detail related to rural/suburban highways, urban/suburban arterials, and
+signalized/unsignalized intersections.
+All new and improved arterial and major collector roadways in urban areas shall be designed to
+accommodate a level of service "D" or better during the design hour. In rural areas, such facilities
+shall be designed to accommodate level of service "C" or better during the design hour. On
+neighborhood collectors in urban areas, the design level of service shall also be "C" or better. In
+special circumstances, such as downtown central business districts or designated regional centers,
+level of service "E" might be acceptable for roadway design purposes, if approved by the County
+Engineer. Local streets intersecting arterials or collectors may be level of service ”F” during the peak
+hour if approved by the County Engineer.
+Rural Collector and Rural Local Cross Sections Applicable to the Plan Area
+
+SECTION 6: RELEVANT STATE AND REGIONAL AGENCY PLANS & RULES
+Coordination with other jurisdictions and service providers and achieving consistency with other
+planning work were important parts of the development of the transportation policies.  This includes:
+compliance with the Oregon Transportation Planning Rule; coordination with the Regional
+Transportation plan; and coordination with the Oregon Transportation Plan and Oregon Highway Plan.
+Further compliance will be addressed as part of the Transportation System Plan (TSP) update that is yet
+to be completed.
+
+Section 7: PROPOSED TRANSPORTATION POLICY FRAMEWORK
+Preliminary Recommendations to Resolve Issues Identified in Section 1
+TO BE PROVIDED BASED ON RESULTS OF FEBRUARY 18, 2014 SUBCOMMITTEE MEETING
+Section 8: Subcommittee Meeting Process
+Agendas
+[INCLUDE AGENDAS FOR SUBCOMMITTEE MEETINGS]
+Meeting Summaries
+[INCLUDE FUTURE MEETING SUMMARIES FROM SUBCOMMITTEE MEETINGS]
+Documents & Materials Considered
+TO BE PROVIDED
+Detailed Findings & Recommendations
+TO BE PROVIDED

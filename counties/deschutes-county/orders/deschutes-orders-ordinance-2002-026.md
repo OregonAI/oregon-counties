@@ -1,0 +1,191 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2002-026
+title: 'Ordinance No. 2002-026'
+doc_type: ordinance
+citation: 'Ordinance No. 2002-026'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616818081_2002-959-Ordinance%20No.%202002-026%20Recorded%206_25_2002.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d0206ba0c62ef19b16a513df30c380875085322dac5600808d4d84b15e500f7b
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2002-026 (Ordinance No. 2002-026)
+
+## At a glance
+
+Ordinance No. 2002-026 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+REVIEWED
+LEGAL COUNSEL
+REV D
+CODE RE IEW COMMITTEE
+DESCHUTESCOUNTYOFFICIALRECORDS
+CJ2002.959MARY SUE PENHOLLOW, COUNTY CLERK
+COMMISSIONERS' JOURNAL
+06/15/200103:13:52PM
+For Recording Stamp Only
+BEFORETHE BOARD OFCOUNTY COMMISSIONERSOFDESCHUTESCOUNTY, OREGON
+An Ordinance Amending Title 17, Deschutes
+County Zoning Ordinance, of the Deschutes
+County Code, and Declaring an Emergency.
+ORDINANCE NO. 2002- 026
+WHEREAS, Deschutes County has initiated an amendment to Title 17, Subdivision Ordinance, of the
+DeschutesCountyCode (FileNumberTA -02-4) to establishnewlanguageallowingfor thebondingof curb
+requirements while the County researchesmethods to control storm water run-off within the La Pine Urban
+Unincorporated Community ( UUC), and
+WHEREAS, theDeschutesCountyPlanningCommissionconducteda publichearingontheproposed
+text amendment, andforwardedthe proposedamendmentto the Boardof CountyCommissionerswith a
+recommendation that said amendment be adopted; and
+WHEREAS, DeschutesCounty considersit necessaryto amendSection 17.24, Final Plat, to include
+languagerequiringbondingof necessarycurb improvementswhile the Countydelaysthe requirementfor curb
+improvementsin orderto researchmethodsto controlstormwaterrun-off for theLa PineUrbanUnincorporated
+Community ( UUC). Theseitemsaresignificantto theCountybecausetheywill assistwith thefutureorderly
+development of the La Pine UUC; and,
+WHEREAS, becauseof the immediate development needs within the La Pine UUC, this ordinance is
+necessaryfor the immediateimplementationof the new languageallowing for the bondingof curb
+improvementswithin the La Pine Urban UnincorporatedCommunity (UUC); therefore, an emergency is
+declared to exist, so that this ordinance can take effect on its passage; and,
+WHEREAS, afternoticewasgivenandhearingconductedonJune19, 2002for File NumberTA -02-4
+beforethe DeschutesCountyCommissionersin accordancewith applicablelaw, the Board of County
+Commissioners has considered the proposed amendments; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC subsections 17.24.120(A) is amendedto read as described in Exhibit
+A," attached hereto and by this reference incorporated herein, with new language underlined and language to
+be deleted in str-ilk.
+PAGE 1 OF 2 - ORDINANCE NO. 2002- 026 ( 06/ 20/ 02)
+Section 2. EMERGENCY. This Ordinance being necessary for the immediate preservation of the
+public peace, health and safety, an emergency is declaredto exist, and this Ordinance takes effect on its passage.
+DATED this - mayof Q_ 12002.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY OREGON
+TOM DE LF, Chair
+h-
+DENNIS R. LUKE, Commissioner
+OZ 'Wiv
+MI EL A DALY,
+7"
+missioner
+Date of I stReading:  day of , 2002.
+Dateof 2"dReading: / / day ofa, 4- 2002.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Tom DeWolf
+Dennis R. Luke
+Michael M. Daly
+Effective date:  dayof 2.
+ATTEST:
+6ukA 1$ 0u-—
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. 2002- 026 ( 06/ 20/ 02)
+EXHIBIT " A"
+17. 24. 120. Improvement agreement.
+A. The subdivider may, in lieu of
+completion of the required repairs to
+existing streets and facilities, and
+improvements as specified in the
+tentative plan, request the County to
+approve an agreement between himself
+and the County specifying the schedule
+by which the required improvements and
+repairs shall be completed; provided,
+however, any schedule of improvements
+and repairs agreed to shall not exceed one
+year from the date the final plat is
+recorded, except as otherwise allowed by
+DCC 17. 24. 120( F) below. The
+agreement shall also provide the
+following:
+1. A list of all the contractors who will
+construct or complete the
+improvements and repairs;
+2. The cost of the improvements and
+repairs;
+3. That the County may call upon the
+security for the construction or
+completion of the improvements and
+repairs, upon failure of the
+subdivider to adhere to the schedule
+for improvements and repairs;
+4. That the County shall recover the full
+cost and expense of any work
+performed by or on behalf of the
+County to complete construction of
+the improvements and repairs,
+including, but not limited to,
+attorneys and engineering fees;
+5. That a one-year warranty bond shall
+be deposited with the County
+following acceptance of the
+improvements and repairs. The bond
+shall be in the amount of 10 percent
+of the value of the improvements.
+B. Except as provided for in DCC
+17.24.120(C), no building permit shall be
+issued for any lot or parcel of a platted
+subdivision or partition until the required
+improvements are completed and
+accepted by the County. One building
+permit for a dwelling may be allowed for
+the entire parent parcel of a subdivision
+or partition prior to final plat approval,
+provided there are no other dwellings on
+the subject property, all land use
+approvals have been obtained and the
+siting of the dwelling is not inconsistent
+with the tentative plat approval.
+C. The restrictions of DCC 17.24. 120( B)
+shall not apply to a destination resort
+approved under DCC 18. 113, provided
+that the required fire protection facilities
+have been constructed in compliance
+with the master plan or tentative plat
+approval and approved access roads have
+been completed to minimal fire code
+standards. Issuance of building permits
+under DCC 17. 24. 120 shall not preclude
+the County from calling upon the security
+at a later date if the roads are not later
+completed to the standards required by
+the approval.
+D. The County may reject an agreement
+authorized by DC 17.24.120 for any
+sufficient reason.
+E. The applicant shall file with any
+agreement specified in DCC 17. 24. 120 a
+bond or other form of security provided
+for in DCC 17. 24. 130.
+F. Required curb improvements within the
+La Pine LJUC may be bonded for un to
+three ( 3) vears while the Countv develops
+a stormwater management plan.
+Ord. 2002- 026 § 1, Ord. 97- 016 § 1,
+1997; Ord. 93- 012 § 30, 1993; Ord.
+90- 003 § 1, Exhibit A, 1990; Ord.
+81- 043 § 1, Exhibit A, § 4. 050, 1981)
+Page 1 of 1 — EXHIBIT " A" TO ORDINANCE NO. 2002- 026 ( 06/ 19/ 02)

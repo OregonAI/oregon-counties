@@ -1,0 +1,1687 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-land-use-appendix-4-natural-cultural-resources
+title: 'Appendix 4 - Natural & Cultural Resources'
+doc_type: ordinance
+citation: 'Appendix 4 - Natural & Cultural Resources'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://multco.us/file/appendix_4_-_natural_&_cultural_resources/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 30516e840e3392c3cd1dc0170399df71576ba476ada154a9f76a3852024baedb
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 196.905
+    - ORS 215.203
+    - ORS 274.043
+    - ORS 390.310
+    - ORS 496.171
+    - ORS 541.695
+    - OAR 660-023-0140
+    - OAR 660-023-0180
+  related: []
+  supersedes: []
+tags: [multnomah-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Appendix 4 - Natural & Cultural Resources (Appendix 4 - Natural & Cultural Resources)
+
+## At a glance
+
+Appendix 4 - Natural & Cultural Resources — land use of Multnomah County. 60 pages.
+
+## Full text
+
+Appendix 4: Natural and Cultural
+Resources Background Report
+Contents
+Introduction .................................................................................................................................................. 4
+Historical Context ...................................................................................................................................... 4
+Acknowledgments ..................................................................................................................................... 4
+CAC Subcommittee Members ............................................................................................................... 5
+TAC Subcommittee Members ............................................................................................................... 5
+Relation of Appendix 4: Natural & Cultural Resources to the SIMC Plan ................................................. 5
+Maps & Figures ......................................................................................................................................... 6
+SECTION 1: KEY NATURAL AND CULTURAL RESOURCE ISSUES ..................................................................... 8
+Related Issues ........................................................................................................................................... 8
+SECTION 2: NATURAL FEATURES INVENTORY & ANALYSIS ........................................................................... 9
+1997 SIMC Plan ......................................................................................................................................... 9
+Large-Scale Significant Resource Sites ................................................................................................ 12
+Historical and Cultural Sites ................................................................................................................ 13
+Wetlands ............................................................................................................................................. 13
+Application of the SEC Overlay to Natural Resource Sites ...................................................................... 16
+Geography and Natural History .............................................................................................................. 17
+Collaborative Conservation and Mapping Efforts ................................................................................... 20
+Metro Maps ........................................................................................................................................ 20
+West Multnomah Soil & Water Conservation District ........................................................................ 20
+Sauvie Island Habitat Partnership Information ................................................................................... 21
+Sauvie Island Wildlife Area .................................................................................................................. 23
+The Wetlands Conservancy ................................................................................................................. 24
+Scappoose Watershed Council ........................................................................................................... 25
+Oregon Natural Heritage Program ...................................................................................................... 25
+Grand Ronde Tribal Efforts to Restore Cultural and Archeological Resources ................................... 25
+Flood Hazard Mitigation ..................................................................................................................... 25
+Sauvie Island Drainage Improvement Company ................................................................................. 26
+Useful Resource Categories .................................................................................................................... 27
+SECTION 3: STATEWIDE REGULATORY FRAMEWORK ................................................................................. 29
+Goal 5 (Natural & Cultural Resources), Division 023 (Goal 5 Rule) ......................................................... 30
+GOAL 5: Natural Resources, Scenic and Historic Areas, and Open Spaces ......................................... 31
+The New Goal 5 Rule ........................................................................................................................... 31
+Goal 6 (Air, Land and Water Quality) ...................................................................................................... 33
+Goal 7 (Natural Hazards) ......................................................................................................................... 33
+Goal 15 (Willamette River Greenway) .................................................................................................... 33
+SECTION 4: RELEVANT COUNTY AND AGENCY PLANS ................................................................................ 34
+Relevant Multnomah County Comprehensive Plan policies regarding Natural and Cultural Resources34
+Policy 13 Air, Water and Noise Pollution ............................................................................................ 34
+Policy 14 Development Limitations .................................................................................................... 34
+Natural Resources Policies ...................................................................................................................... 34
+Policy 16 Natural Resource Protection ............................................................................................... 35
+Policy 16-A: Open Space ..................................................................................................................... 35
+Policy 16-D: Fish And Wildlife Habitat ................................................................................................ 35
+Policy 16-E: Natural Areas ................................................................................................................... 36
+Policy 16-G: Water Resources And Wetlands ..................................................................................... 36
+Protected Water Resources and Wetland Sites * * * ......................................................................... 37
+Policy 16-I: Historic Resources ............................................................................................................ 38
+Policy 16-J: Cultural Areas ................................................................................................................... 38
+Policy 15 Conservation of Willamette River Natural and Cultural Resources .................................... 39
+Relevant 1997 SIMC Plan Policies regarding Natural and Cultural Resources ........................................ 39
+Policy 4: Wildlife Habitat Deferral ....................................................................................................... 39
+Policy 20: Metro Greenspaces Plan and Acquisition Program ............................................................ 39
+Policy 28: Coordination ....................................................................................................................... 39
+Policy 31: Deposition of Fill from Dredging Activities ......................................................................... 40
+Policy 41: Selective Dredging in Sturgeon Lake .................................................................................. 40
+Policy 42: Howell Park Planning .......................................................................................................... 40
+Relevant Zoning Ordinance Provisions (EFU and MUA-20 zones) .......................................................... 40
+Definitions (MCC 34.0005) .................................................................................................................. 40
+Exclusive Farm Use Zone (MCC 34.2800) ............................................................................................ 41
+Natural and Cultural Resource Protection Overlay Districts .................................................................. 41
+SEC Overlay (MCC 34.4500) ................................................................................................................ 41
+SEC-w Wetlands .................................................................................................................................. 43
+SEC-v Significant Views ....................................................................................................................... 44
+Willamette River Greenway (MCC 34.5800) ....................................................................................... 44
+Community Service Uses (MCC 34.6000) ............................................................................................ 47
+Design Review (MCC 34.7000) ............................................................................................................ 49
+SECTION 6: RELEVANT STATE AGENCY PLANS & RULES ............................................................................. 51
+Department of State Lands (DSL) ............................................................................................................ 51
+DSL Responsibilities: 141-082-0260 General Provisions ..................................................................... 51
+Department of Environmental Quality (DEQ) ......................................................................................... 53
+SECTION 7: Subcommittee Meeting Process .............................................................................................. 55
+Agendas ................................................................................................................................................... 55
+Meeting Summaries ................................................................................................................................ 56
+
+View of Mount Hood from Sturgeon Lake
+(Courtesy of Sauvie Island Soil & Water Conservatio n District / Sauvie Island Community Association Ne wsletter)
+Introduction
+As described on the Multnomah County website:
+The Sauvie Island/Multnomah Channel Rural Area includes those portions of Sauvie Island and
+the Multnomah Channel within Multnomah County. The Plan Area is bounded by U.S. Highway
+30 on the west, Columbia County on the north, the Columbia River on the east, and the
+Willamette River and the city of Portland on the south. The area is dominated by agricultural
+uses and a wildlife area, with various water-related uses on and along Multnomah Channel,
+ranging from protected wetlands to marinas.
+Appendix 4 – Natural and Cultural Resources Background Report  is the fifth of a series of topic-specific
+background documents that are intended to serve as the factual and analytical basis for the 2013-2014
+update of the Sauvie Island – Multnomah Channel Rural Area Plan and Transportation System Plan
+(SIMC Plan). Appendix 4 addresses natural (riparian and upland wildlife habitat, wetlands, stream and
+river corridors, floodplains, etc.) and cultural (archeological and historic) resources in the SIMC planning
+area.
+Historical Context
+The following statement provides historical context for the Cultural and Natural Resources Background
+Report :1
+“The island was once a center of trade for Native Americans stretching from the Willamette Valley to
+Idaho and Wyoming. Meriwether Lewis and William Clark, explorers for the young republic of the
+United States, noted the island during their 1804-06 expedition, calling it Wapato Island after the
+large beds of arrowhead, or wild potato, growing there. The Native American name for the plant is
+wapato.
+A French-Canadian employee of the Hudson’s Bay Company, Laurent Sauve, for whom Sauvie Island is
+now named, established the first non-native settlement in 1838—a dairy. Since then, little other than
+agricultural development has occurred on the island. The channel is mostly a peaceful water way
+featuring quiet moorages, lush vegetation, plentiful song birds and waterfowl.
+Multnomah Channel begins three miles upstream from the Willamette’s main confluence with the
+Columbia. It traverses the west flank of Sauvie Island for 21 miles until it, too, connects with the
+Columbia River (at St. Helens).”
+Acknowledgments
+Appendix 4 resulted in large part from the work and recommendations of the SIMC Community Advisory
+Committee (CAC), the SIMC Technical Advisory Committee (TAC) and most particularly the Marinas and
+Floating Homes Subcommittee, comprised of select CAC and TAC members who expressed an interest in
+
+1 The quotation is provided courtesy of the Oregon State Marine Board.  Please follow this link for the full report to
+the Willamette River Guide:. http://www.oregon.gov/OSMB/library/docs/willametteriverguide-
+07/willametteriverguidepdf-multnomahchannel.pdf
+and knowledge of the complex issues addressed in this report.  Subcommittee members who actively
+participated in the preparation of this appendix include the following:
+CAC Subcommittee Members
+•  Linda Wisner, Sauvie Island Neighborhood Association President
+•  Jan Hamer, Marina Owner
+TAC Subcommittee Members
+•  Dick Springer, West Multnomah Soil and Water Conservation District
+•  Michael Karnosh, Grand Ronde Tribe
+•  Esther Lev, The Wetlands Conservancy
+•  Sue Beilke, Oregon Department of Fish and Wildlife
+•  Jane Hartline, Sauvie Island Habitat Partnership
+•  Tim Couch, Sauvie Island Drainage Improvement Company
+•  Doug Drake, Department of Environmental Quality
+•  Anne Squier
+The process leading up to these recommendations is documented in Section 6 of this report.
+Relation of Appendix 4: Natural & Cultural Resources to the SIMC Plan
+The SIMC Plan itself will include a vision statement, plan policies and implementation strategies, plan
+and zoning maps, and land use regulations for the entire SIMC planning area.  The SIMC Plan will also
+include basic explanatory text and tables, as well as composite inventory maps – but the detailed
+substantive and procedural information leading up to the adoption of the SIMC Plan is found in the
+series of appendices listed below.  To become effective, the SIMC Plan must be “acknowledged” as
+complying with all fifteen applicable statewide planning goals; findings documenting compliance with
+these goals is found in Appendix 7.
+The seven appendices listed below will provide the detailed inventory information and analysis,
+consideration of alternative policy choices, explanation of the reasons for ultimate policy choices, and
+documentation of the robust community engagement effort that culminated in plan adoption.  Section 7
+of this document includes a complementary Multnomah Channel vision statement, draft policies and
+implementation for the Multnomah Channel area that will be incorporated (in some form) into the final
+SIMC Plan.
+Unlike the SIMC Plan, the appendices (background reports) are not intended to serve as policy
+documents in themselves – but do provide the information required by Statewide Planning Goals 1
+(Citizen Involvement) and 2 (Land Use Planning) necessary to support the County’s ultimate policy
+choices.
+•  Appendix 1: SIMC Scoping Report  (CH2M Hill)
+•  Appendix 2: Agriculture and Agri-Tourism Background Report
+•  Appendix 3: Marinas and Floating Homes Background Report
+•  Appendix 4: Natural and Cultural Resources Background Report
+•  Appendix 5: Public Facilities and Semi-Public Facilities Background Report
+•  Appendix 6: Transportation Background Report
+•  Appendix 7: Consistency with Applicable Statewide Planning Goals
+Focusing on topical areas is useful when identifying and resolving specific issues.  The 1997 SIMC Plan
+described and mapped known wetlands on the Island – but did little to incorporate this information into
+an overall planning strategy.  This background report recognizes the ongoing efforts of conservation
+groups such as the Grand Ronde Tribe, the West Multnomah Soil & Water Conservation District, the
+Sauvie Island Habitat Partnership, The Wetlands Conservancy, the Columbia River Land Trust, the Sauvie
+Island Drainage Improvement Company and the Scappoose Bay Watershed Council to develop an
+integrated and primarily voluntary approach to natural and cultural resources restoration and
+enhancement in the SIMC planning area.
+Focusing attention on any specific issue can also lose sight of the big picture.  Recognizing this limitation,
+the CAC will hold a special meeting towards the end of the community involvement process to consider
+and integrate the results of each topical appendix. The SIMC Plan itself will include a chapter devoted to
+integrating the series of topical issues and policies into a cohesive and internally consistent rural area
+planning document.
+Maps & Figures
+Appendix 4 includes the following maps and figures showing natural resources within and adjacent to
+the SIMC planning area. In addition to information provided in the 1997 SIMC Plan, the project team is
+grateful to the West Multnomah Soil and Water Conservation District, Metro, the Scappoose Watershed
+Council and The Wetlands Conservation for more recent natural resources information and GIS
+mapping.  Portions of the maps and figures listed below will be incorporated into the SIMC Plan for the
+entire planning area, which includes all of Sauvie Island, Multnomah Channel and land between the
+Channel and US Highway 30.
+The following maps are embedded into this Natural and Cultural Resources Background Report.
+•  Map 1. SIMC Planning Area (1997 SIMC Plan)
+•  Map 2. Aerial Photo (2012)
+•  Map 3. Public Lands (1997 SIMC Plan)
+•  Map 4. Public Lands (2014 County GIS)
+•  Map 5. Floodplain Areas (1997 SIMC Plan)
+•  Map 6. Floodplain Areas (2014 County GIS)
+•  Map 7. Significant Environmental Concern (SEC) Overlay Zone
+•  Map 8: Willamette River Greenway (WRG)
+•  Map 9. Geography Prior to Levee Construction
+•  Map 10. Historical Vegetation Cover (1851)
+•  Map 11. Historic Vegetation (2014 County GIS)
+•  Map 12. Historic Wildlife Habitat
+•  Map 13. Historic Soils Survey (1919)
+•  Map 14. Riparian Corridors (2014 County GIS)
+•  Map 15. Wetlands (2014 County GIS)
+•  Map 16. Vegetation (2014 County GIS)
+•  Map 17. Existing and Potential Oak Habitat (2014 County GIS)
+•  Map 18. Sauvie Island Wildlife Area – Southern Portion (ODFW)
+•  Map 19. Scappoose Bay Watershed
+•  Map 20. Canal System Maintained by the Drainage Company
+•  Map 21. Public and Private Land
+•  Map 22. Public Land Ownership
+•  Map 23. WRG and SEC Zoning in Relation to Property Ownership
+
+SECTION 1: KEY NATURAL AND CULTURAL RESOURCE ISSUES
+The following issues are quoted directly from the May 6, 2013 staff report to the Multnomah County
+Planning Commission related to PC-2013-2659 (Scoping Report in support of updating to the 1997
+Sauvie Island – Multnomah Channel Rural Area Plan).
+•  Concern for maintaining the rural character and agricultural nature of Sauvie Island.
+•  Desire for preservation, restoration and enhancement of natural habitat.
+•  Examine consistency of Policy 15 Willamette River Greenway with corresponding statewide
+planning goal. Incorporate changes needed to maintain consistency into policy and land use
+regulations WRG, base zones, and conditional/community service use regulations.
+•  Examine zoning code provisions for riparian habitat protection along the channel for consistency
+with community goals and both state and federal law.
+•  Consider new RAP policy for protection of dark skies and reduction of light pollution through the
+use of appropriate lighting.
+•  Consider new RAP policy regarding acknowledging the history, prehistory, and cultural resources
+of the Island and Channel (Native Americans, Lewis and Clark, settlers, and early farming and
+dairying through to present day) in consultation with SHPO, Historic Society, Tribes, and other
+stakeholders.
+•  Consider expanding wildlife deferral option to more zones.
+•  Review and if necessary amend RAP and TSP policies for consistency with the 2009 Climate
+Action Plan. Consider Plan Objective #7 (Climate Change Preparation – community resilience,
+adaptation, levees /flood control), and Objective #4 (Forests and Natural Systems - with
+consideration of watershed health).
+•  Review and if necessary amend RAP and TSP policies for consistency with the 2006 Multnomah
+County Natural Hazards Mitigation Plan: The RAP and TSP updates should include coordination
+with the County Office of Emergency Management.
+Related Issues
+The timing of the SIMC Plan update is providential.  Multnomah County has the opportunity to work
+collaboratively with Island residents, farmers, property owners, natural resource conservation groups,
+the Sauvies Island Grange, the Sauvie Island Drainage Improvement Company, the West Multnomah Soil
+& Water Conservation District, Metro and state agencies to provide a comprehensive survey of natural
+features on and adjacent to the Island.
+
+This information can serve as the basis for voluntary programs and incentives to restore and enhance
+Sauvie Island’s natural features which are integral to the rural character so highly valued by Island
+residents and visitors alike. This information can also be used as part of regional efforts to adapt to the
+effects of climate change and changes in the regional landscape.
+
+SECTION 2: NATURAL FEATURES INVENTORY & ANALYSIS
+This section includes a discussion of Goal 5 inventory information found in the 1997 SIMC Plan and the
+Multnomah County Comprehensive Framework Plan  and inventory information provided by other
+governmental and non-governmental organizations.  It will serve as a base for identifying and analyzing
+natural resources and developing coordinated programs for their protection, restoration and
+enhancement.
+1997 SIMC Plan
+The following maps and text related to natural and cultural resources are provided below.  Maps 1 and 2
+below show SIMC Planning Area. Map 1 is taken from the 1997 SIMC Plan.  Map 2 shows a 2012 aerial
+photo of the SIMC Planning Area.
+Map 1.  1997 SIMC Planning Area  Map 2. Aerial Phot o (2012)
+
+Map 3 shows public lands as they existed in 1997.  Map 4 shows public lands as of 2014.  Note the
+addition of the North and South Multnomah Channel Marshes and Duck Lake.
+Please see the Public and Semi-Public Facilities Background Report for a more detailed description of
+parks, wildlife areas and public facilities.  These maps do not show private lands with conservation
+easements.
+Map 3. Public Lands (1997 SIMC Plan) Map 4. Public Lands (2014)
+
+Sources: SIMC Plan 1997 and Multnomah County GIS 20 14
+The floodplain maps below show the extent of the 100-year floodplain on Sauvie Island. Map 5 shows
+just the floodplain; Map 6 shows the floodplain overlain with zoning.
+Note that Appendix 5: Public and Semi-Public Facilities Background Report includes a discussion of the
+function and challenges of the Sauvie Island Drainage Improvement Company.  This report recognizes
+that there is a functional relationship between conservation of wetland systems and flooding – both on
+the Island and downstream from Sauvie Island.
+Map 5. Floodplain (1997 SIMC Plan)  Map 6.  Floodpl ain and Base Zoning (2014)
+
+Source: SIMC Plan 1997 and Multnomah County GIS 201 4
+As noted in the 1997 SIMC Plan:
+The floods of 1996 showed the need for emergency communications and evacuation plans during
+natural disasters such as flooding, or other potential disasters such as earthquakes or wildfire.
+Among the needs the flooding demonstrated are: method of notice for evacuation, method of
+distributing emergency information to Sauvie Island residents, and the need for coordination
+between Multnomah County, the Sauvie Island Drainage District and the Sauvie Island Fire
+Protection District. Another expressed need is a flood monitoring station for the reach of the
+Willamette and Columbia between Portland and St. Helens.
+The 1997 SIMC Plan also recognizes high ground-water conditions on the Island:
+In Multnomah County a high ground water table is defined as groundwater between 0 and 24
+inches below the surface. Areas with period high groundwater levels include parts of Sauvie
+Island. Groundwater is a significant factor in determining the suitability of an area for
+development. High groundwater tables can cause septic tank malfunction, basement flooding
+and can affect surface drainage.
+The 1997 SIMC Plan identified three types of natural resource sites – and determined that all three were
+“significant”:
+1.  Large-Scale Significant Resource Sites
+2.  Historical and Cultural Sites
+3.  Wetlands
+Scenic resources were not included in the 1997 SIMC, but are incorporated into the implementing land
+use regulations for the West Hill Rural Area Plan).  Nine viewing areas are identified, seven of which are
+located in the SIMC Plan area:
+•  Bybee-Howell House
+•  Virginia Lakes
+•  Sauvie Island Wildlife Area
+•  Highway 30
+•  Multnomah Channel
+•  Willamette River
+•  Public Roads on Sauvie Island
+It is important to note that the scenic quality of the West Hills as seen from Identified viewing areas
+within the SIMC plan area is addressed by an overlay applicable only in the West Hills Rural Plan Area.
+The Significant Environmental Concern for Scenic Views (SEC-v) standards requires new development
+and exterior modifications to existing structures to comply with the scenic standards. The relevant text
+from the 1997 SIMC Plan is quoted below in italic font , followed by comments from the project team.
+From the 1997 Plan:
+Multnomah County has conducted two levels of analysis for significant natural and
+environmental resources on Sauvie Island and Multnomah Channel. The first, done at the time of
+the initial adoption of the Multnomah County Comprehensive Framework Plan in 1980, identified
+several large-scale significant resource sites and historic and archaeological sites. The second,
+done in 1990, identified significant wetlands.
+Large-Scale Significant Resource Sites
+Sturgeon Lake
+This site of approximately 3,000 acres encompasses that portion of the State Wildlife Area
+boundaries in Multnomah County as well as some adjacent private lands along Reeder Road
+north of its confluence with Gillihan Road. The site is designated as sensitive waterfowl habitat
+by the Oregon Department of Fish & Wildlife. Additionally, this area was found to have
+significant natural areas, water areas, wetlands, and groundwater resources, all categories for
+protection under Goal 5 of the Oregon Statewide Planning Program. Multnomah County
+protected these natural and environmental resources by placing the Significant Environmental
+Concern (SEC) Zoning Overlay on the site. This overlay requires review of all non-agricultural
+development in order to minimize or eliminate impacts to wildlife habitat, wetlands, water
+areas, and groundwater resources.
+West Side of Multnomah Channel
+This site is bounded by Highway 30 on the west. It includes open space, fish and wildlife habitat,
+natural areas, water areas, wetlands, and groundwater resources which are significant.
+Multnomah County protected these natural and environmental resources by placing the
+Willamette River Greenway (WRG) Zoning Overlay on the site. This overlay requires review of all
+non-agricultural development in order to minimize or eliminate impacts to open space, fish &
+wildlife habitat, natural areas, wetlands, water areas, and groundwater resources.
+Howell Lake and Virginia Lakes
+These two sites are found to be significant as open space, fish and wildlife habitat, natural areas,
+water areas, wetlands, and groundwater resources. Howell Lake is located on the Bybee-Howell
+County Park (now owned by METRO). Virginia Lakes (now known as the Wapato State Park) are
+located on the east side of Multnomah Channel, west of Sauvie Island Road north of its
+intersection with Reeder Road. Multnomah County protected these natural and environmental
+resources by placing the Willamette River Greenway (WRG) Zoning Overlay on the sites. This
+overlay requires review of all non-agricultural development in order to minimize or eliminate
+impacts to open space, fish & wildlife habitat, natural areas, wetlands, water areas, and
+groundwater resources.
+Historical and Cultural Sites
+Bybee-Howell House
+This Greek Revival styled home was constructed in 1856, and is the oldest structure in rural
+Multnomah County. It is part of the Bybee-Howell County Park (now administered by METRO).
+The Oregon Historical Society has completely restored the house and it is listed on the National
+Register of Historic Places. It is considered protected because of its listing and its location within
+a public park.
+Native American Archaeological Sites
+The area around the confluence of the Willamette and Columbia Rivers was a well-known and
+favored location for Native American settlements from perhaps 3,500 years ago up through the
+early 1800's. Sauvie Island has several known village sites which were mapped by the Lewis and
+Clark expedition, as well as the Sunken Village site, located on Multnomah Channel near the
+southern end of the island. Information about these sites is not made known to the general
+public, due to the potential for abuse and concern for the private property rights of affected
+landowners.
+Wetlands
+As part of the State Goal 5 process, Multnomah County undertook a wetlands and riparian areas
+inventory during the spring and summer of 1988. Areas surveyed included Sauvie Island and
+Multnomah Channel. Riparian areas adjacent to the wetlands and water areas were also
+evaluated and mapped as part of the inventory because of the interrelationship they have for
+wildlife habitat. The consultant's final report produced the following significant wetland and
+riparian areas for Sauvie Island and Multnomah Channel, along with each area's wildlife
+assessment rating, which measures its value as wildlife habitat (More detailed discussion of the
+wildlife habitat value of each site can be found in the original report):
+1. Virginia Lakes (Score: 79-81 Points) -- now known as Wapato Access Greenway.
+The Virginia Lakes area is approximately 280 acres, bordered on the south by Multnomah
+Channel and Sauvie Island Road to the north. It is a complex of six different vegetative
+community types. Most of Virginia Lakes is owned and managed by the State of Oregon as a
+state park. The site is protected by the Willamette River Greenway Overlay Zone, which prevents
+all non-agricultural disruptions of the significant wetland area.
+2. Rafton Tract [Now Known as J.R. Palensky Wildlife Area]  (Score: 74 Points)
+Rafton Tract (Burlington Bottoms) [ J.R. Palensky Wildlife Area] is located west of Sauvie Island,
+on the west side of Multnomah Channel. The site is a mosaic of riparian forest, emergent
+wetland, marshes and sloughs and grass/sedge meadows. Once a high quality wetland and
+wildlife habitat site, due to its species and structural diversity, the area's value has been greatly
+diminished by intensive cattle grazing. In 1993 the Bonneville Power Administration (BPA)
+purchased most of the Rafton-Burlington Bottoms site as mitigation for impacts to wetlands
+elsewhere in the Northwest. It is anticipated that the BPA will transfer ownership of its holdings
+to METRO. The BPA, in coordination with the Oregon Department of Fish & Wildlife, produced an
+analysis of existing conditions on this land in 1994. In 1995, Portland area voters approved a
+bond issue for METRO Parks and Greenspaces. This bond issue authorized METRO to purchase
+lands to the north of the BPA holdings in Burlington Bottoms for protection as open space and
+wetlands preservation. The Burlington Bottoms area has potential as a wildlife viewing area
+which could relieve the pressure of such recreational uses on the Sauvie Island Wildlife Area. The
+site is protected by the Willamette River Greenway Overlay Zone, which prevents all non-
+agricultural disruptions of the significant wetland area.
+3. Sturgeon Lake (Score: 71-73 Points)
+Sturgeon Lake is a maze of floodplain lakes influenced by the Columbia River. Inflow and outflow
+of this shallow-bottomed lake is through the Gilbert River. The lake area is 2,928 acres with an
+elevation of eight feet and occupies the middle of Sauvie Island. Water levels are determined by
+Willamette Valley and Columbia River tidal influences. The lake complex receives a lot of human
+use: bird watching, hiking, canoeing, fishing and seasonal hunting on some portions of the lake.
+Much of the land surrounding Sturgeon Lake is owned by Oregon Department. of Fish and
+Wildlife and is managed as a Area, primarily for water fowl. The oak woodlands of Oak Island
+border Sturgeon Lake to the west with agricultural land to the south. Sturgeon Lake and the
+surrounding lands are zoned with the Significant Environmental Concern (SEC) overlay zone. This
+zone prevents all non-agricultural/forest disruptions of the significant wetland areas.
+4. Multnomah Channel (Score: 65 Points)
+Multnomah Channel, located on the west side of Sauvie Island, flows north from the Willamette
+to the Columbia River. The Channel is approximately seven miles long. The degree of slope and
+type and width of riparian vegetation varies along the channel. The greatest wildlife habitat
+function of Multnomah Channel is as a travel corridor. The water and adjacent riparian
+vegetation provide habitat for waterfowl, heron, cormorants and kingfishers. Human use of the
+channel is high, including several boat moorages, log rafts, day boaters and fishers. Multnomah
+Channel is zoned with the Willamette River Greenway (WRG) zoning overlay district. This zone
+prevents all non-agricultural/forest disruptions of significant wetland areas, and requires review
+of all development proposals for their impact upon such wetlands and wildlife habitat.
+5. Dairy Creek, Gilbert River and Misc. Drainage ways (Score: 56 Points)
+The riparian strips along the water features are predominantly black cottonwood and Oregon
+Ash dominated with alder, willow, cherry, hawthorn and big leaf maple. The wildlife habitat
+value of these riparian strips on Sauvie Island varies depending upon the width of the riparian
+strip and the adjacent land uses. These waterways are mostly privately owned. The Gilbert River
+serves as the main drainage way for the Sauvie Island Drainage District's [now the SI Drainage
+Improvement Company] system. Both of these streams are zoned with the SEC overlay zone
+which protects the wetlands associated with them from non-agricultural development. "Related
+drainage ways" are not protected with the SEC overlay zone, because they are of relatively
+insignificant value as wetland wildlife habitat.
+6. Sand Lake (Score: 49 Points)
+Sand Lake is a small isolated lake on Sauvie Island surrounded by agricultural land and houses.
+The land around Sand Lake is privately owned. Residents pump water in and out of the lake and
+have also treated the lake with chemicals to eradicate algal blooms. These activities effect the
+wildlife habitat value and use of the lake. Sand Lake is zoned with the SEC overlay zone, which
+prevents non-agricultural disruptions of the significant wetland areas.
+7. Howell Lake (Score: 47 Points)
+Howell Lake and the adjacent wetland are located north of the Bybee Howell House. The lake is
+primarily open-water with about 5% of the surface area covered with emergent aquatic
+vegetation. Adjacent land use is agricultural. The lake receives limited human use by bird
+watchers and visitors to the Bybee Howell House. Most of the wetland areas are part of the
+Bybee-Howell Park, administered by METRO. METRO is currently preparing a master plan for the
+park. The site is zoned with the Willamette River Greenway (WRG) zoning overlay district, which
+prevents all non- agricultural and non-forest disruptions of significant wetland areas.
+8. Small lake near Wagonwheel Hole Lake (Score: 47 Points)
+This small linear lake is densely vegetated with willow, black cottonwood and ash on one side
+and steep banks with reed canary grass on the other. The impacts of diking, roads and fences
+limit the wildlife use of this site. The site is privately owned. The SEC overlay zone which has been
+placed on the site prevents all non-agricultural disruptions of the significant wetland area.
+9. Agricultural Ditches and Sloughs on Sauvie Island (Score: 37-40 Points)
+The majority of the waterways bisect agricultural lands. The steep banks and dense mat of
+vegetation limit access to and from the water for some wildlife species. Water quality may be
+affected by chemical runoff from adjacent agricultural fields. Water levels in these ditches
+fluctuate seasonally. These ditches and sloughs are privately owned. Some of the ditches are
+maintained by the Sauvie Island Drainage District, while the rest are the responsibility of
+individual property owners. These sites are not protected by the SEC overlay zone because of
+their small, fragmented nature, and the fact that they are all zoned for rural uses. Most are
+zoned Exclusive Farm Use, and any non-agricultural use must be approved through a conditional
+use permit process. Such a process would serve to protect significant wetlands from
+development or degradation.
+10. Wagonwheel Hole Lake (Score: 37 Points)
+This is a small body of open water at the northern limit of the county on Sauvie Island. The banks
+have been severely disturbed and are eroding. Human use, primarily fishing, is heavy. The site is
+mainly important due to its location between Sturgeon Lake and wetlands and Multnomah
+Channel to the west. Significant wetlands on this site are protected from non-agricultural
+disruptions by the SEC zoning overlay.
+Application of the SEC Overlay to Natural Resource Sites
+Map 7 shows water resource sites within the SIMC planning area that are protected by the Significant
+Environmental Concern (SEC) overlay.  The general SEC overlay applies primarily to land within the
+Sauvie Island Wildlife Area; however, some private land in the Sturgeon Lake area is also protected by
+the SEC overlay.  Note that this overlay does not limit normal agricultural operations.  It is important to
+note that the Willamette River Greenway overlay protects significant natural resources along the
+Multnomah Channel.  Map 8 shows the WRG and SEC overlays as they apply to public and private land
+within the SIMC planning area.
+Map 7. SEC Overlay    Map 8. Willamette River Green way (WRG)
+
+Maps 9 and 10 on the following page shows riparian areas and wetlands that have been mapped since
+1997.  There have been numerous voluntary projects to restore and enhance these water resources
+since the SIMC Plan was adopted in 1997.
+The “significance” of water resources outside of the SEC and WRG overlays has not been determined.
+Water resources outside of the SEC and WRG overlay zones currently are regulated by the Department
+of State Lands (DSL) but lack County Goal 5 protection.
+Map 9. Riparian Areas   Map 10: Wetlands
+
+Geography and Natural History
+As pointed out by Dick Springer, Executive Director of the West Multnomah Soil & Water Conservation
+District, the geographical history of the SIMC planning area begins well before colonial settlement.
+The following maps provide some context for our current planning efforts – and a reference point as we
+collaboratively pursue programs to restore and enhance natural resources within this planning area.
+The maps below provide a snapshot of the SIMC planning area before engineering projects changed the
+Island’s ecology in the latter half of the 19 th  Century.
+Map 11. Geography Prior to Levee Construction Map 1 2. Historic Vegetation Cover (1851)
+
+As the Island and vicinity developed over time:
+•  Bridge construction improved vehicular access:
+•  Levee construction protected agricultural areas; and
+•  Wetlands and water bodies were filled or modified to provide irrigation, drainage, and flood
+control.
+This land “reclamation” process resulted in is a series of small wetlands and areas of vegetation that are
+often isolated from each other, preventing the interaction that promotes biodiversity and functioning as
+part of the regional natural resource network.  The maps on the following page show existing wetlands
+and vegetation.
+Map 13 shows historic vegetation types that provide wildlife habitat that are valued by Indian tribes.
+Map 14 on the following page shows soil types based on information from a 1919 soil survey.
+Map 13. Historic Vegetation / Habitat
+
+Map 14. Historic Soils Survey (1919)
+
+Collaborative Conservation and Mapping Efforts
+Over the last few decades, the need to restore and enhance natural systems within the SIMC planning
+area has resulted in collaborative efforts by Island residents, governmental and non-profit organizations.
+The following is a partial listing of the ongoing voluntary projects and mapping efforts that are beginning
+to change the ecological structure of area.
+Metro Maps
+Metro has prepared a number of natural resource inventories and maps.  Specific to the SIMC Plan are
+identification of wetlands and historic vegetation, shown below.  Note that Metro’s riparian and wetland
+map shows a number of riparian areas and wetlands that do not appear on the 1997 SIMC Map – which
+was based on wetlands identified in the National Wetlands Inventory (NWI).
+Map 15. Wetlands (2014)     Map 16. Vegetation (201 4)
+
+West Multnomah Soil & Water Conservation District
+The West Multnomah Soil & Water Conservation District (Conservation District) was established almost
+70 years ago as the Sauvie Island Soil Conservation District.  It provides funding and technical assistance
+on restoration projects, farm and agricultural issues, invasive plants, native plants, and oak habitat
+protection.
+
+The Conservation District has coordinated a variety of projects on Sauvie Island including:
+•  The Sturgeon Lake Restoration Project;
+•  Private landowner restoration projects (mud and manure management, riparian and oak
+habitat restoration, and pasture management);
+•  Technical assistance to the Sauvie Island Drainage Improvement Company with its hydrology
+study;
+
+The Conservation District is also providing technical assistance on the SIMC Plan project team by
+providing mapping of historic and present day soils, wetlands and water bodies, habitat public lands,
+upland oak locations, and cultural resources.  This information is incorporated throughout this appendix
+as specific resources or resource areas are discussed. Map 17 shows existing and potential oak habitat.
+
+Map 17. Existing / Potential Oak Habitat
+
+Sauvie Island Habitat Partnership Information
+The mission of the Sauvie Island Habitat Partnership (SIHAP) is conservation and restoration of Sauvie
+Island habitats and species.   SIHAP has an unpaid director and is loosely governed by representatives of
+organizations that have a stake in habitat work on the island, including the: West Multnomah
+Conservation District, the Oregon Department of Fish and Wildlife (ODFW), Oregon State Parks, The
+Wetlands Conservancy, the Sauvie Island Drainage Improvement Company, the Audubon Society of
+Portland and the National Resource Conservation Service (NRCS).  The SIHAP voluntary program
+effectively supplements Multnomah County’s natural resource protection program.
+SIHAP works collaboratively with private property owners and other environmental organizations to
+achieve carry out its mission – without reliance on regulatory programs.  According to the Sauvie Island
+Community Association website, the Sauvie Island Habitat Partnership sponsors a variety of voluntary
+habitat restoration projects across the Island, including:
+Sauvie Island Pond Project
+10 ponds on private land have been targeted for habitat restoration by SIHAB. Turtle, amphibian
+egg mass and aquatic invertebrate surveys have been done on each pond, as well as assessment
+of current aquatic, riparian and upland plants. A team of technical experts visited each of the
+ponds in summer 2013 and made recommendations on how to improve the habitat for a variety
+of species. We’ll be implementing the recommendations over the next few years.
+Sauvie Island Prairie Project
+Meadow wildflowers are being propagated by SIHAB for grassland restoration on three sites on
+Oregon State Parks and ODFW land on the island. Some planting was done in spring 2012 and a
+larger planting was done in Fall 2013. At this point, we are experimenting with small plots to see
+which plants thrive with minimal care. Students from Sauvie Island Academy assisted with
+planting and will be monitoring to see how plants hold up to cattle and goose grazing and
+management practices.
+Sauvie Island Osprey Project
+Ospreys have made a great comeback on Sauvie. As they run out of ideal nesting sites, some
+have attempted to build nests on power poles. This isn’t good for them, since they can get
+electrocuted, or for PGE and Sauvie Residents, since it can cause power outages. In summer
+2012, SIHAB GPS’ed and monitored osprey nests on parts of the island that have power poles to
+see at what intervals ospreys were nesting. We then helped secure landowner permission so that
+PGE could erect five new nesting platforms in appropriate locations. Monitoring will continue in
+subsequent years.
+Sauvie Island Turtle Project
+Western painted turtles live in the canals, ponds and lakes on the island. SIHAB conducted turtle
+surveys on non-ODFW lands on the island in 2012 with a grant from WMSWCD and the help of
+numerous volunteers. ODFW lands were not included in this project since they had been
+previously surveyed. In summer 2013, SIHAB constructed and placed 11 turtle basking rafts
+around the island.
+Sauvie Island Plant List Project
+Sauvie Island has been a “stomping ground” for botanists since the 1800s, and is well
+represented in Oregon herbariums. Using these records, as well as lists developed by
+credentialed botanists for ODFW and Oregon State Parks lands, SIHAB is assembling a list of
+plants that historically and currently occur/red on the island. The list can be used by agencies,
+private contractors and landowners involved in habitat restoration.
+Sauvie Island Aquatic Plant Survey
+This started as a search on the island for Howellia aquatilis, a federally-listed aquatic plant that
+was new to the botanical world when noted botanist Thomas Howell discovered it in his Sauvie
+pond in 1879. We didn’t find Howellia, but we did find a number of other rare species, and we
+now have a much better idea of what plants inhabit water bodies on all parts of the island.
+Gilbert River Restoration Project
+The Sauvie Island Drainage Improvement Company has easements along the island’s
+drainage/irrigation canals, and has traditionally asked that these be kept free of trees and
+shrubs to facilitate routine maintenance and dredging. SIHAB and the West Multnomah
+Conservation District have done three experimental plantings with several test plots to show
+alternative possibilities for wildlife corridor plantings that could make the canals better habitat
+for a variety of species.
+Sauvie Island Grange Forest Restoration
+The 2-acre forest next to and belonging to the Sauvies Island Grange was so infested with ivy
+that  grange members were considering clear-cutting as a solution. In January, 2011 SIHAB
+organized volunteers and began ivy removal. A grant from WMSWCD provided funds for
+spraying of some areas of ground ivy, once volunteers had killed tree ivy and removed most of
+the ground ivy. 48 volunteers provided nearly 500 volunteer hours on this project. We planted a
+few native plants, but were mostly astonished by the resiliency of the native plants, which must
+have been lying in wait for decades for the opportunity to make a comeback. We continue to
+monitor the forest and remove re-sprouting ivy.
+Sauvie Island Removal Project
+We developed a spreadsheet listing 38 infestations with information about the extent of the
+infestation, and ownership of the properties, and with a column for the status of treatment
+efforts. Volunteers treated most of the areas, but WMSCD brought in paid crews for a few of the
+larger infestations and ODFW sent spray crews into infestations on their property after
+volunteers had killed tree ivy. In addition to ivy removal, there has been an education campaign,
+including presentations at island meetings and bulletins in the Sauvie Newslinks to alert island
+residents to the evils of ivy, to ask for their assistance in spotting ivy that needs to be treated and
+to recruit volunteers. At this point, nearly all known tree ivy on the island has been killed and we
+are monitoring for recurrence and for previously unnoticed vines.
+Sauvie Landowner Education
+Much of the wildlife habitat on the island is in the hands of private landowners, and many
+landowners are interested and enthusiastic about enhancing habitat for songbirds, turtles, frogs
+and other species. SIHAB writes articles on native and invasive plants and animals and habitat
+restoration for the Sauvie Island Newslinks and has given presentations at Sauvie Island
+Community Association and Sauvies Island Grange meetings. An evening class on Sauvie Island
+Native Plants was offered in July 2013.
+Sauvie Island Wildlife Area
+The 12,000-acre Sauvie Island Wildlife Area is located on the north portion of Sauvie Island, spanning
+Columbia and Multnomah Counties.  Owned by the State, it is habitat for wintering waterfowl, swans,
+herons, sandhill cranes, bald eagles and 250 other species. Waterfowl number reach 200,000 and
+shorebird numbers reach 30,000. Bald Eagles and Peregrine Falcons occur on the Wildlife Area. These
+wetlands also play an important role in the endangered salmonid life cycles. Active Heron Rookeries are
+located in the Johnson Unit and Footbridge Unit.
+Access is restricted during hunting season and spring.  The Area includes wetlands, savannah,
+cottonwood bottomlands, and upland Oregon White Oak forest managed by the Oregon Department of
+Fish and Wildlife as a Wildlife Area. On the southwest side of the island, Oregon State Parks owns and
+manages a 180-acre parcel that contains many of the native habitats found elsewhere on the island.
+Map 18 shows the southern portion of the Sauvie Island Wildlife Area.
+Map 18.  Sauvie Island Wildlife Area – Southern Portion
+
+The Wetlands Conservancy
+The Wetland Conservancy has recently applied for a Bullitt Foundation grant to support a sub-regional
+natural resource survey and community outreach effort, with the intent of preparing a voluntary
+conservation plan as part of a regional conservation strategy.
+The intent is to coordinate closely with Multnomah County, Metro, the Scappoose Watershed Council
+and the Columbia Land Trust to prepare a conservation plan for Sauvie Island and Scappoose Bay. This
+program will complement the Regional Conservation Strategy  that was prepared by the Intertwine
+Alliance in 2012, the vision of which is to create an interconnected system of functioning natural areas
+that protect the region’s air and water quality, help species and habitats recover from past degradation
+and increase their resilience to change, and promote the role of working lands and built landscape in
+supporting regional biodiversity.
+Scappoose Watershed Council
+The Scappoose Bay Watershed consists of a series of creeks on the west side of Multnomah Channel
+that drain primarily portions of Columbia County, but also a small area in Multnomah County (Jackson
+and South Scappoose Creeks).  The Council educates, advises, and assists landowners in the watershed
+to improve the quality of the community’s creeks and natural areas through monitoring water quality
+and macro-invertebrates, and supporting a native plant nursery and salmon habitat assessment
+programs.  In addition, the Council is active in restoring and preserving habitat by helping improve
+watershed health, functions, and uses.  This includes opening up 55 miles of salmon spawning streams
+through culvert removal and replacement, and having a weed management program along 20 miles of
+creek.  Map 19 shows the Scappoose Bay Watershed.
+Map 19.  Scappoose Bay Watershed
+
+Oregon Natural Heritage Program
+The PSU Institute for Natural Resources (successor to the Oregon Natural Heritage Program) indicated
+that there are no recognized “natural areas” in the SIMC Plan area. Scappoose Bay is, however, a
+recognized “natural area”.
+Grand Ronde Tribal Efforts to Restore Cultural and Archeological Resources
+To be included when information becomes available.
+Flood Hazard Mitigation
+Map 5 shows the base flood (commonly referred to as the “100-year floodplain”) boundaries,
+encompassing the area that has a one percent chance of flooding each year based on FEMA (Federal
+Emergency Management Agency) maps. The 1996 flood exceeded the base flood event.  As noted
+below, these maps take into consideration the extensive diking system on the Island.
+Developed areas on Sauvie Island are protected from flooding by a levee system maintained by the
+Sauvie Island Drainage Improvement Company to federal standards, allowing residents to purchase
+federally subsidized flood hazard insurance.  In order to maintain federal certification the levees must be
+inspected by the US Army Corps of Engineers on a periodic schedule.
+The Drainage Company is preparing for an inspection later this year.  Failure to comply with federal
+standards may result in decertification, which in turn will discontinue flood hazard insurance subsidies,
+forcing landowners to pay substantially higher rates if they can find flood insurance at all.  If the levee
+system is breached or overtopped during a flood event, lowlands within the District boundary will be
+inundated to the level of adjacent waters.
+For a base flood, the water level is established by FEMA at approximately 31 feet at the south end of the
+island and 29 feet at the Multnomah/Columbia County boundary, so all land and development below
+that level within the Multnomah County portion of the Island would be inundated.
+Sauvie Island Drainage Improvement Company
+The Sauvie Island Drainage Improvement Company (Drainage Company) was created to manage flood
+control works constructed by the US Army Corps of Engineers in the late 1930’s and early 1940’s.  The
+Drainage Company’s service area  is approximately 11,170 acres in size and is surrounded by a levee
+system approximately 18 miles long that it maintains.
+Land within the Drainage Company service area  is drained through a series of canals totaling over 35
+miles in length.  Drainage canals are maintained through periodic dredging and channelization, with the
+spoils being side-cast onto abutting property.  Water is pumped through the drainage system by four
+internal pump stations and then to Multnomah Channel at the main pump station at the north end of
+Sauvie Island Road.  The map below shows the canal system managed by the Drainage Company.
+
+Map 20.  Canal System Maintained by
+Useful Resource Categories
+It may be useful to categorize resource inventories
+can help identify future programs and activities necessary to protect, enhance, or
+resources to optimize their potential values.
+•  Resource Site s In Public Owner
+conservation purpose.  The reason for their protection is well defined, and often accomp
+by a management plan or future development plan that may be limiting, and will need to be
+considered in analyzing future protection measures.
+•  Resource Sites In Private Ownership and Protected With Conservation Easements.
+public ownership, resource protection through easement is well
+of the area may not be.  Resource val
+but development or enhancement of additional values can be considered.
+•  Resource Site s in Private Ownership with WRG or SEC Protection
+that is zoned WRG or SEC.  These re
+(as is the case with wetlands and the Multnomah Channel).
+Natural and Cultural Resources Background Report
+Canal System Maintained by Drainage Company
+
+Resource Categories
+resource inventories  based on existing levels of Goal 5 protection.  This
+can help identify future programs and activities necessary to protect, enhance, or expand
+resources to optimize their potential values.  Suggested categories are:
+s In Public Owner ship.   These lands are owned and managed for a specific
+conservation purpose.  The reason for their protection is well defined, and often accomp
+by a management plan or future development plan that may be limiting, and will need to be
+ng future protection measures.
+In Private Ownership and Protected With Conservation Easements.
+public ownership, resource protection through easement is well defined, although management
+of the area may not be.  Resource values protected through easements need to be considered,
+but development or enhancement of additional values can be considered.
+s in Private Ownership with WRG or SEC Protection .  This category includes land
+WRG or SEC.  These re sources may also be regulated by state or federal agencies
+as is the case with wetlands and the Multnomah Channel).
+
+Page 27
+Drainage Company
+protection.  This
+expand specific
+These lands are owned and managed for a specific
+conservation purpose.  The reason for their protection is well defined, and often accomp anied
+by a management plan or future development plan that may be limiting, and will need to be
+In Private Ownership and Protected With Conservation Easements.   Similar to
+defined, although management
+ues protected through easements need to be considered,
+This category includes land
+state or federal agencies
+•  Resource Sites in Private Ownership without Regulatory or Ownership Protections.   This
+category may include resources that do not meet the regulatory definitions of wetland or water
+body, or are upland habitats, but are important in the overall functioning of the Island
+ecosystem.  Examples may include small drainageways, wetlands that did not appear on the
+National Wetlands Inventory (NWI), hedgerows, and forested areas or oak groves.  These
+resources may be protected through a combination of educational, incentive and regulatory
+programs.
+Maps 21 and 22 show land and water resource ownership within the SIMC planning area.
+Map 21. Public and Private Land.  Map 22. Public La nd Ownership
+
+Map 23 on the following page shows the location of the Willamette River Greenway (WRG) and
+Significant Environmental Concern (SEC) overlay zones in relation to property ownership.
+Map 23. WRG and SEC Zoning in Relation to Property Ownership
+
+SECTION 3: STATEWIDE REGULATORY FRAMEWORK
+Oregon’s Statewide Planning Goals and implementing “administrative rules” apply when comprehensive
+plans are adopted or amended.  The Multnomah County Comprehensive Plan and the SIMC Plan have
+been “acknowledged” by the Oregon Land Conservation and Development Commission (LCDC) as
+complying with applicable Statewide Planning Goals and administrative rules.  Therefore, the County can
+rely on its acknowledged plans and (in most cases) need not do a separate goal analysis when
+implementing acknowledged plans.
+The exception to this rule occurs when the County interprets the meaning of applicable statutes, goals
+and rules; the Greenfield v. Bella Organics cases are an example of the Oregon Land Use Board of
+Appeals and the Oregon Court of Appeals reversing and remanding a County decision because those
+decisions improperly construed applicable statutes.
+In any case, the SIMC Plan is part of the Multnomah County Comprehensive Plan; therefore, any
+amendments to the SIMC Plan must comply with applicable Statewide Planning Goals, rules and
+statutes.  Appendix 7: Compliance with Applicable Statewide Planning Goals provides findings explaining
+how proposed amendments to the SIMC Plan so comply.
+Goal 5 (Natural & Cultural Resources), Division 023 (Goal 5 Rule)
+Goal 5 requires local governments to inventory and protect significant natural and cultural resources.
+Over the years, this general goal has been interpreted by two administrative rules: the “old” (1986-
+1995) and the “new” (1996-present) Goal 5 rules. 2
+•  When the County Comprehensive Framework Plan was reviewed by the Land Conservation and
+Development Commission in the early 1980s, the County was subject to the “old Goal 5 rule” –
+OAR Chapter 660, Division 016.  During the 1980s and 1990s the County completed the Goal 5
+process for wildlife habitat and aggregate resources using the old Goal 5 rule.
+•  Except for cultural resources which remain subject to the old Goal 5 rule (OAR Chapter 660,
+Division 016), any amendments to the SIMC Plan will be subject to the “new Goal 5 rule” – OAR
+Chapter 660, Division 023.
+As noted in Section 4 of this report, Multnomah County has completed the Goal applied Goal 5 to three
+types of resources in Sauvie Island: wetlands, historic resources and scenic areas. Multnomah County’s
+natural and cultural resource protection program relies on the SEC overlay zone to protect significant
+wetlands and scenic areas, and the Willamette River Greenway overlay to protect resources along the
+Multnomah Channel.  The WRG overlay protects significant natural and cultural resources within its
+boundaries (150’ of the ordinary low water line). 3
+But an effective natural and cultural resource conservation program typically has additional components
+are rely on collaborative community processes.  Sauvie Island is exceptional in this regard.
+For example:
+•  Conservation groups and community organizations, including the West Multnomah Soil & Water
+Conservation District, the Sauvie Island Habitat Partnership, the Sauvie Island Grange, The
+Wetlands Conservancy and the Sauvie Island Academy have been actively promoting voluntary,
+incentive-based programs to identify, restore and enhance natural resources within the SIMC
+planning area.
+•  There are also voluntary programs that place natural resource sites in conservation easements –
+which ensure long-term protection of such resources by private property owners.  These
+programs are typically managed by groups such as The Wetlands Conservancy, the Columbia
+River Land Trust, and the National Resource Conservation Service.
+
+2 As noted in Section 0250 of the new Goal 5 rule: (1) This division replaces OAR 660, Division 16, except with
+regard to cultural resources * * * . Local governments shall follow the procedures and requirements of this division
+* * * in the adoption or amendment of all plan or land use regulations pertaining to Goal 5 resources. The
+requirements of Goal 5 do not apply to land use decisions made pursuant to acknowledged comprehensive plans
+and land use regulations.
+3 The new Goal 5 rule notes that: The requirements of Goals 15 [Willamette River Greenway] , 16, 17, and 19
+[Coastal Goals]  shall supersede requirements of this division for natural resources that are also subject to and
+regulated under one or more of those goals.
+•  Finally, the Oregon Department of Fish and Wildlife, Oregon State Parks, the Department of
+State Lands and Metro are responsible for managing natural and cultural resources on public
+land on the Island and in Multnomah Channel.
+GOAL 5: Natural Resources, Scenic and Historic Areas, and Open Spaces
+Goal 5 reads as follows:
+To protect natural resources and conserve scenic and historic areas and open spaces. Local
+governments shall adopt programs that will protect natural resources and conserve scenic,
+historic, and open space resources for present and future generations. These resources promote
+a healthy environment and natural landscape that contributes to Oregon's livability.
+The following resources shall be inventoried: a. Riparian corridors, including water and riparian
+areas and fish habitat; b. Wetlands; c. Wildlife Habitat; d. Federal Wild and Scenic Rivers; e.
+State Scenic Waterways; f. Groundwater Resources; g. Approved Oregon Recreation Trails; h.
+Natural Areas; i. Wilderness Areas j. Mineral and Aggregate Resources; k. Energy sources; l.
+Cultural areas. Local governments and state agencies are encouraged to maintain current
+inventories of the following resources: a. Historic Resources; b. Open Space; c. Scenic Views and
+Sites.
+Following procedures, standards, and definitions contained in commission rules, local
+governments shall determine significant sites for inventoried resources and develop programs to
+achieve the goal.
+The New Goal 5 Rule
+The new Goal 5 Rule, OAR Chapter 660, Division 023 interprets Goal 5 and would apply to any SIMC Plan
+amendments proposed by the County.  Generally, the rule requires that the County conduct a valid
+inventory (location, quality and quantity of the resource sites); identify conflicting uses and activities;
+evaluate the ESEE (economic, social, environmental and energy) consequences of alternative protection
+programs (full protection, limited protection or no protection); and then adopt a program to achieve the
+Goal (consisting of plan policies and implementing land use regulations or incentive programs).
+There are a number of useful Division 023 definitions that may have applicability to the issues raised in
+Section 1 of this report:
+660-023-0010 Definitions
+•  "Conflicting use " is a land use, or other activity reasonably and customarily subject to land use
+regulations, that could adversely affect a significant Goal 5 resource (except as provided in OAR
+660-023-0180(1)(b)). Local governments are not required to regard agricultural practices as
+conflicting uses.
+•  "ESEE consequences " are the positive and negative economic, social, environmental, and energy
+(ESEE) consequences that could result from a decision to allow, limit, or prohibit a conflicting use.
+•  "Impact area " is a geographic area within which conflicting uses could adversely affect a
+significant Goal 5 resource.
+•  "Inventory " is a survey, map, or description of one or more resource sites that is prepared by a
+local government, state or federal agency, private citizen, or other organization and that
+includes information about the resource values and features associated with such sites. As a
+verb, "inventory" means to collect, prepare, compile, or refine information about one or more
+resource sites. (See resource list.)
+•  "Program " or "program to achieve the goal" is a plan or course of proceedings and action either
+to prohibit, limit, or allow uses that conflict with significant Goal 5 resources, adopted as part of
+the comprehensive plan and land use regulations (e.g., zoning standards, easements, cluster
+developments, preferential assessments, or acquisition of land or development rights).
+•  "Protect ," when applied to an individual resource site, means to limit or prohibit uses that
+conflict with a significant resource site (except as provided in OAR 660-023-0140, 660-023-0180,
+and 660-023-0190). When applied to a resource category, "protect" means to develop a program
+consistent with this division.
+•  "Resource category " is any one of the cultural or natural resource groups listed in Goal 5.
+•  "Resource list " includes the description, maps, and other information about significant Goal 5
+resource sites within a jurisdiction, adopted by a local government as a part of the
+comprehensive plan or as a land use regulation. A "plan inventory" adopted under OAR 660-016-
+0000(5)(c) shall be considered to be a resource list.
+•  "Resource site " or "site" is a particular area where resources are located. A site may consist of a
+parcel or lot or portion thereof or may include an area consisting of two or more contiguous lots
+or parcels.
+•  "Groundwater " is any water, except capillary moisture, beneath the land surface or beneath the
+bed of any stream, lake, reservoir, or other body of surface water.
+•  "Historic areas " are lands with buildings, structures, objects, sites, or districts that have local,
+regional, statewide, or national historic significance. " Historic resources " are those buildings,
+structures, objects, sites, or districts that have a relationship to events or conditions of the
+human past. " Historic resources of statewide significance " are buildings, structures, objects,
+sites, or districts listed in the National Register of Historic Places, and within approved national
+register historic districts pursuant to the National Historic Preservation Act of 1966 (PL 89-665;
+16 U.S.C. 470).
+•  For purposes of this rule, " natural areas " are areas listed in the Oregon State Register of Natural
+Heritage Resources.
+•  "Riparian corridor " is a Goal 5 resource that includes the water areas, fish habitat, adjacent
+riparian areas, and wetlands within the riparian area boundary.
+•  "Wildlife habitat " is an area upon which wildlife depend in order to meet their requirements for
+food, water, shelter, and reproduction. Examples include wildlife migration corridors, big game
+winter range, and nesting and roosting sites.
+•  For purposes of this rule, a " wetland " is an area that is inundated or saturated by surface water
+or ground water at a frequency and duration sufficient to support, and that under normal
+circumstances does support, a prevalence of vegetation typically adapted for life in saturated soil
+conditions.
+For purposes of this rule, "open space" includes parks, forests, wildlife preserves, nature
+reservations or sanctuaries, and public or private golf courses.
+For purposes of this rule, "scenic views and sites" are lands that are valued for their aesthetic
+appearance.
+The new Goal 5 rule lays out the Goal 5 process and standards for specific categories of natural and
+cultural resources.  the process and review standards
+Goal 6 (Air, Land and Water Quality)
+Goal 6 is implemented by County policies to protect air, land and water resource quality. Generally,
+these policies rely on coordination with the Department of Environmental Quality (DEQ) for their
+implementation.
+Goal 7 (Natural Hazards)
+The primary Goal 7 natural hazard is flooding.  The Subcommittee raised concerns about earthquakes
+and human-made hazards including gas pipelines, railroad crossing blockages, coal dust (from rail cars)
+and oil spills (from rail cars).
+Goal 15 (Willamette River Greenway)
+Goal 15 Willamette River Greenway is designed to protect natural resources within 150 feet of the
+ordinary low water line of the Willamette River – which includes the Multnomah Channel.  The County’s
+WRG overlay has been “acknowledged” by the LCDC as complying with Goal 15.  See additional
+discussion in Marinas and Floating Homes Background Report.
+SECTION 4: RELEVANT COUNTY AND AGENCY PLANS
+In addition to master plans identified in Section 2 ( e.g., Metro master plans for Howell Territorial Park
+and Wapato Park, the ODWF master plan for Sauvie Island Wildlife Area, Sauvie Island Drainage
+Company master plan, etc.) the Multnomah County Comprehensive Framework Plan and the Sauvie
+Island Rural Area Plan have policies that are relevant to management of natural and cultural resources
+within the SIMC planning area.
+Relevant Multnomah County Comprehensive Plan policies regarding Natural
+and Cultural Resources
+In addition to master plans identified in Section 2 (e.g., Metro master plans for Howell Territorial Park
+and Wapato Park, the ODFW master plan for Sauvie Island Wildlife Management Area, Sauvie Island
+Drainage Improvement Company master plan, etc.) the Multnomah County Comprehensive Framework
+Plan and the Sauvie Island Rural Area Plan have policies that are relevant to management of natural and
+cultural resources within the SIMC planning area.
+Policy 13 Air, Water and Noise Pollution
+Multnomah County, recognizing that the health, safety, welfare, and quality of life of its citizens
+may be adversely affected by air, water and noise pollution, supports efforts to improve air and
+water quality and to reduce noise levels. Therefore, if a land use proposal is a noise sensitive use
+and is located in a noise impacted area, or if the proposed use is a noise generator, the following
+shall be incorporated into the site plan:  (1) Building placement on the site in an area having
+minimal noise level disruptions; and (2) Insulation or other construction techniques to lower
+interior noise levels in noise-impacted areas.
+Comment : This policy makes it clear that the County will address air and water quality issues through
+coordination with regional, state and federal agencies; through the community planning process (such
+as the SIMC Plan); and by adopting erosion control and design review standards. This policy clearly relies
+on federal agencies to enforce federal pollution standards.
+Policy 14 Development Limitations
+The County's policy is to direct development and land form alterations away from areas with
+development limitations except upon a showing that design and construction techniques can
+mitigate any public harm or associated public cost and mitigate any adverse effects to
+surrounding persons or properties. Development limitations areas are those which have any of
+the following characteristics: A. Slopes exceeding 20%; B. Severe soil erosion potential; C. Land
+within the 100 year flood plain; D. A high seasonal water table within 0-24 inches of the surface
+for 3 or more weeks of the year; E. A fragipan less than 30 inches from the surface; F. Land
+subject to slumping, earth slides or movement.
+Natural Resources Policies
+The purpose of the Natural Resources policy is to implement Statewide Planning Goal 5: "Open
+Spaces, Scenic and Historic Areas, and Natural Resources". These resources are necessary to
+ensure the health and well-being of the population, and include such diverse components as
+mineral and aggregate reserves, significant wetlands, historic sites, and scenic waterways. The
+individual components, as set forth by state law (OAR 660-16), are addressed below as
+subpolicies 16-A through 16-L.
+An overlay classification, "Significant Environmental Concern" will be applied to certain areas
+identified as having one or more of these resource values.
+Policy 16 Natural Resource Protection
+The County's policy is to protect natural resources, conserve open space, and to protect scenic
+and historic areas and sites. These resources are addressed within sub-policies 16-a through 16-l.
+Strategies
+A. The County will maintain an inventory of the location, quality, and quantity of each of these
+resources. * * *
+B. Certain areas identified as having one or more significant resource values will be protected by
+the designation Significant Environmental Concern (SEC). This overlay zone will require special
+procedures for the review of certain types of development allowed in the base zones. This review
+process will ensure the minimum impact on the values identified within the various areas, and
+shall be designed to mitigate any lost values to the greatest extent possible. * * *
+Policy 16-A: Open Space
+It is the County's policy to conserve open space resources and protect open spaces from
+incompatible and conflicting land uses.
+Strategies
+Designate agricultural and forest lands with large lot zones to conserve the open character of
+such areas. Apply SEC, WRG, FW and FF overlays along rivers and other water features, as
+appropriate, to restrict and control the character of development in these areas to enhance open
+spaces. Review uses conditionally allowed in farm or forest zones to insure that open space
+resources are conserved and enhanced.
+Policy 16-D: Fish And Wildlife Habitat
+It is the County's policy to protect significant fish and wildlife habitat, and to specifically limit
+conflicting uses within natural ecosystems within the rural portions of the County and sensitive
+big game winter habitat areas.
+Strategies
+A. Utilize information provided by the Oregon Department of Fish and Wildlife to identify
+significant habitat areas, and to delineate sensitive big game winter habitat areas. If necessary,
+supplement this information with additional professional analysis to identify additional
+significant habitat areas and natural ecosystems within rural portions of the County.
+B. Apply the SEC overlay zone to all significant habitat areas not already zoned Willamette River
+Greenway.
+C. Include provisions within the Zoning Ordinance to review development proposals which may
+affect natural ecosystems within the rural portions of the County and sensitive big game winter
+habitat areas.
+Policy 16-E: Natural Areas
+It is the County's policy to protect natural areas from incompatible development and to
+specifically limit those uses which would irreparably damage the natural area values of the site.
+Strategies
+A. Utilize information from the Oregon Natural Heritage Program to maintain a current
+inventory of all ecologically and scientifically significant natural areas.
+B. Apply the SEC overlay zone to all areas not otherwise protected by Willamette River Greenway
+zoning or outright ownership by a public or private agency with a policy to preserve natural area
+values of the site.
+Policy 16-G: Water Resources And Wetlands
+It is the County's policy to protect and, where appropriate, designate as areas of significant
+environmental concern, those water areas, streams, wetlands, watersheds, and groundwater
+resources having special public value in terms of the following: A. Economic value; B. Recreation
+value; C. Educational research value (ecologically and scientifically significant lands); D. Public
+safety, (municipal water supply watersheds, water quality, flood water storage areas, vegetation
+necessary to stabilize river banks and slopes); E. Natural area value, (areas valued for their
+fragile character as habitats for plant, animal or aquatic life, or having endangered plant or
+animal species).
+Strategies * * *
+E. Assess the natural area value of Water Resource and Wetland Sites and designate
+"significant" (1C) if: 1) The Oregon Department of Forestry has classified the stream or
+watercourse as "Class 1 waters" as defined in the State Forest Practices Act; or The water
+resource or associated vegetation area is the habitat of an endangered or threatened plant or
+animal species as identified by the Oregon Natural Heritage Program, US Fish and Wildlife
+Service or other public agency; or 2) A "Wildlife Habitat Assessment" (WHA) rating form has
+been completed and the site scored 45 or more points of the possible 96 points. Sites with scores
+between 35-44 points on the WHA form may be determined "Significant" (1C) if they function as
+essential connections between or demonstrably enhance higher rated adjacent resource areas.
+The WHA is a standardized rating system for evaluating the wildlife habitat values of a
+site. The form was cooperatively developed by staff from the U.S. Environmental
+Protection Agency, the U.S. Fish and Wildlife Service, the U.S. Army Corps of Engineers,
+The Oregon Department of Fish and Wildlife, the Audubon Society of Portland, The
+Wetlands Conservancy, and the City of Beaverton Planning Bureau.
+F. Significant water resource and wetland areas identified as a "2A", "3A", or "3C" site using the
+Statewide Planning Goal 5 "Economic. Social, Environmental, and Energy analysis" procedure as
+outlined in OAR 660-16-000 through 660-16-025 shall be designated as "Areas of Significant
+Environmental Concern" and protected by either the SEC or WRG overlay zone.
+G. Wetlands information gathered by and made available to the County shall be utilized as
+follows: 1 )The U.S. Fish and Wildlife National Wetland Inventory (NWI) maps should be
+consulted at the beginning stages of any development proposal in order to alert the property
+owner/developer of the U.S. Corps of Engineers and Division of State Lands permit requirements.
+2) Wetlands shown on the NWI maps which are determined to not be important by the County
+after field study should be indicated as such on 1"=200' aerial photographs made part of the
+State Goal 5 supporting documents. 3) Boundaries of "Significant" wetlands located within the
+SEC and WRG overlay zones should be depicted on 1"=200' aerial photographs. 4) Additional
+information on wetland sites should be added to the plan and supporting documents as part of a
+scheduled plan update or by the standard plan amendment process initiated at the discretion of
+the County.
+H. Although a wetland area may not meet the County criteria for the designation "Significant,"
+the resource may still be of sufficient importance to be protected by State and Federal agencies.
+I. The zoning code should include provisions requiring a finding prior to approval of a legislative
+or quasi-judicial action that the long-range availability and use of domestic water supply
+watersheds will not be limited or impaired.
+Protected Water Resources and Wetland Sites * * *
+Rural Westside Sites (listed alphabetically):
+1) Agricultural Ditches and Sloughs on Sauvie Island  * * *
+4) Burlington Bottoms Wetlands Dairy Creek
+6)
+Gilbert River & tributary drainageways/wetlands (in R1W sections 5, 8, 9, 16, 21, 22,28,
+29, 31, 32 & 33),
+7) Howell Lake
+10) Multnomah Channel (reach outside Portland)
+12)
+Sand Lake
+14) Small Unnamed Lake/Slough west of Virginia Lakes Virginia Lakes
+15) Sturgeon Lake
+19) Virginia Lakes
+20) Wagon Wheel Hole Lake.
+
+Comment :  These significant resource sites are identified in the 1997 SIMC Plan and protected by
+the SEC overlay zone.
+Policy 16-I: Historic Resources
+It is the County's policy to recognize significant historic resources, and to apply appropriate
+historic preservation measures to all designated historic sites.
+Strategies
+A. Maintain an inventory of significant historic resources which meet the historical site criteria
+outlined below.
+B. Utilize the National Register of Historic Places and the recommendations of the State Advisory
+Committee on Historic Preservation in the designation of historic sites.
+C. Develop and maintain a historical preservation process for Multnomah County which includes:
+1) A review of the laws related to historic preservation. 2) A program for ongoing identification
+and registration of significant sites, working with area citizens groups, the Oregon Historical
+Society, the Oregon Natural History Museum and other historic and archeological associations.
+3) Developing a handbook on historic preservation to assist County staff, area citizen groups,
+land owners and developers in understanding and using applicable federal and state programs.
+4) Fostering, through ordinances or other means, the private restoration and maintenance of
+historic structures for compatible uses and development based on historic values. 5) Encouraging
+the installation of appropriate plaques or markers on identified sites and structures.
+D. The Zoning Code should: 1) Include an Historic Preservation overlay district which will provide
+for the protection of significant historic areas and sites. 2) Include conditional use provisions to
+allow new sites to be established to preserve historic structures and sites. 3) Provide for a 120-
+day delay period for the issuance of a demolition permit or a building permit that substantially
+alters the historic nature of the site or building. During this period, a review of the permit
+application, including the impacts and possible means to offset the impacts should be
+undertaken. 4) On-site density transfer in order to protect historic areas and protect unique
+features.
+Policy 16-J: Cultural Areas
+It is the County's policy to protect cultural areas and archeological resources, and to prevent
+conflicting uses from disrupting the scientific value of known sites.
+Strategies
+A. Maintain information on file regarding the location of known archeological sites. Although
+not made available to the general public, this information will be used to insure the sites are
+not degraded through incompatible land use actions.
+B. Coordinate with the State Archaeologist in the State Historic Preservation Office regarding
+the identification and recognition of significant archeological resources.
+C. Encourage landowners to notify state authorities upon discovering artifacts or other evidence
+of past cultures on their property.
+D. Work with the LCDC Archeological Committee in devising equitable and effective methods of
+identifying and protecting archeological resources.
+Comment : The LCDC Archeological Committee ceased its operations two decades ago.  The Committee’s
+goal of identifying and protecting archeological resources on a statewide basis was not realized.
+Policy 15 Conservation of Willamette River Natural and Cultural Resources
+The County's policy is to protect, conserve, enhance, and maintain the natural, scenic, historical,
+agricultural, economic, and recreational qualities of lands along the Willamette River. Further, it
+is the County's policy to protect identified Willamette River greenway areas by requiring special
+procedures for the review of certain types of development allowed in the base zone that will
+ensure the minimum impact on the values identified within the various areas. The procedures
+shall be designed to mitigate any lost values to the greatest extent possible.
+Comment :  This policy is implemented through MCC 34.5800 Willamette River Greenway.
+Relevant 1997 SIMC Plan Policies regarding Natural and Cultural Resources
+The following policies are quoted in italic font from the 1997 Sauvie Island Multnomah Channel Rural
+Area Plan .
+Policy 4: Wildlife Habitat Deferral
+Encourage property owners to protect their lands as wildlife habitat through the use of tax
+deferral programs, and allow switching of tax deferral status from agriculture to open space-
+wildlife habitat without penalty.
+Strategy:
+Multnomah County shall forward this policy as an informational item to the Oregon State
+Legislature and the Association of Oregon Counties.
+Policy 20: Metro Greenspaces Plan and Acquisition Program
+Promote recreational activities within the rural plan area which are complementary to natural
+and environmental resources identified pursuant to Goal 5 of the Statewide Planning Program
+and regionally significant natural areas adopted in the Metro Greenspaces Master Plan and
+lands approved in Metro's Acquisition Refinement Plan.
+Strategy:
+Multnomah County shall implement this policy through the current planning permitting process
+and the Special Plan Area process.
+Policy 28: Coordination
+Coordinate promulgation and enforcement of air quality, water quality, lighting, and noise
+pollution issues with the City of Portland and the Port of Portland.
+Strategy:
+Multnomah County shall implement this policy through developing a program of advocacy for
+protection of rural area environmental quality issues as part of the long-range planning and
+budgeting process.
+Policy 31: Deposition of Fill from Dredging Activities
+Recommend that any fill generated as a result of dredging activities in the Columbia River be
+located on Sauvie Island only under the following conditions: To assist in flood control; Not on
+designated wetlands; Not on high value farmland unless placement of such fill improves a farm's
+soils or productivity; In areas where it will not negatively impact wildlife habitat
+Strategy:
+Multnomah County shall implement this policy when reviewing any federal dredging projects
+proposed for the Columbia River.
+Policy 41: Selective Dredging in Sturgeon Lake
+Explore and encourage opportunities to conduct selected dredging to increase depth, flows,
+flushing, and circulation action in Sturgeon Lake.
+Strategy:
+Multnomah County shall implement this policy by forwarding it to the Oregon Department of
+Fish & Wildlife.
+Policy 42: Howell Park Planning
+Make recommendations and participate in the planning for Howell Park with METRO.
+Strategy:
+Multnomah County shall implement this policy by participating in and reviewing the Howell Park
+Master Plan
+Relevant Zoning Ordinance Provisions (EFU and MUA-20 zones)
+Definitions (MCC 34.0005)
+The following definitions have some relevance to issued raised in Section 2 of this report.
+•  Archeological Resource – A district, site, building, structure or artifact which possesses material
+evidence of life and culture of the pre-historic and historic past.
+•  Base Flood – A flood of such magnitude as to have a one percent probability of being equaled or
+exceeded in any given year.
+•  Base Flood Level – The elevation of a Base Flood, referenced to the National Geodetic Vertical
+Datum of 1929 (NGVD).
+•  Buffer – Base Flood – A flood of such magnitude as to have a one percent probability of being
+equaled or exceeded in any given year.
+•  Base Flood Level – The elevation of a Base Flood, referenced to the National Geodetic Vertical
+Datum of 1929 (NGVD).
+•  Board Historical Building – Any building or structure designated under a local government land-
+mark or historic district ordinance, or entered in the National Register of Historic Places, or listed
+in the Oregon State Inventory of Historical Sites, Buildings, and Properties Approved for
+Nomination to the National Register of Historic Places by the State of Oregon Advisory
+Committee on Historic Preservation.
+•  Historical Resources – Those districts, sites, buildings, structures and artifacts which have a
+relationship to events or conditions of the human past.
+•  Wetlands – Those areas that are inundated or saturated by surface or groundwater at a
+frequency and duration sufficient to support, and under normal circumstances do support, a
+prevalence of vegetation typically adapted for life in saturated soil conditions. Wetlands
+generally include swamps, marshes, bogs and similar areas.
+Exclusive Farm Use Zone (MCC 34.2800)
+Land uses and review procedures in the Exclusive Farm Use (EFU) zone are discussed in greater detail in
+Appendix 2: Agriculture and Agri-Tourism Background Report.  Habitat restoration and enhancement is
+permitted in the EFU zone. However, Goal 5 protection measures (i.e., the SEC overlay zone) cannot
+restrict commercial agricultural activities in the EFU zone.
+Natural and Cultural Resource Protection Overlay Districts
+•  SEC – Significant Environmental Concern District.
+•  HP – Heritage Preservation District.
+•  WRG – Willamette River Greenway.
+SEC Overlay (MCC 34.4500)
+The Significant Environmental Concern (SEC) overlay zone protects significant Goal 5 resource sites,
+including significant wetlands identified on the National Wetlands Inventory (NWI).  It does not apply
+along the Multnomah Channel because the channel is considered to be part of the Willamette River and
+is covered by Willamette River Greenway (WRG) standards.
+Wetlands within the WRG boundary, in particular, are protected by MCC 34.6855 Significant Wetlands.
+§ 34.4500- Purposes
+The purposes of the Significant Environmental Concern subdistrict are to protect, conserve,
+enhance, restore, and maintain significant natural and man-made features which are of public
+value, including among other things, river corridors, streams, lakes and islands, domestic water
+supply watersheds, flood water storage areas, natural shorelines and unique vegetation,
+wetlands, wildlife and fish habitats, significant geological features, tourist attractions,
+archaeological features and sites, and scenic views and vistas, and to establish criteria,
+standards, and procedures for the development, change of use, or alteration of such features or
+of the lands adjacent thereto. (Ord. 997, Repealed and Replaced, 10/31/2002; Ord. 953 §2, Reorg&Renum,
+11/30/2000)
+§ 34.4505 Area Affected
+Except as otherwise provided in MCC 34.4510 or MCC 34.4515, this subsection shall apply to
+those lands designated SEC on the Multnomah County Zoning Map. (Ord. 997, Repealed and Replaced,
+10/31/2002; Ord. 953 §2, Reorg&Renum, 11/30/2000)
+§ 34.4515 EXCEPTIONS
+An SEC permit shall not be required for the following:
+(A) Farm use, as defined in ORS 215.203 (2) (a), including buildings and structures accessory
+thereto on "converted wetlands" as defined by ORS 541.695 (9) or on upland areas;
+(B) The propagation of timber or the cutting of timber for public safety or personal use or the
+cutting of timber in accordance with the State Forest Practices Act;
+(C) Customary dredging and channel maintenance and the removal or filling, or both, for the
+maintenance or reconstruction of structures such as dikes, levees, groins, riprap, drainage ditch,
+irrigation ditches and tile drain systems as al-lowed by ORS 196.905 (6);
+(D) The placing, by a public agency, of signs, markers, aids, etc., to serve the public;
+(E) Activities to protect, conserve, enhance, and maintain public recreational, scenic, historical,
+and natural uses on public lands;
+ (F) The expansion of capacity, or the replacement, of existing communication or energy
+distribution and transmission systems, except sub-stations;
+(G) The maintenance and repair of existing flood control facilities;
+(H) With respect to a structure lawfully established on or before November 17, 1994; alteration
+or expansion of such structure that: (1) For the SEC, SEC-w, and SEC-v overlays does not require
+any alteration of expansion of the exterior of the structure; (2) For the SEC-h and SEC-s overlays,
+result in the alteration or expansion of 400 square feet or less of the structure’s ground
+coverage. With respect to expansion, this exception does not apply on a project-by-project basis,
+but rather extends only to a maximum of 400 square feet of additional ground coverage as
+compared to the structure’s ground coverage on the date above; and (3) For the SEC-h overlay,
+alteration or expansion of 400 square feet or less of a driveway.
+Comment :  The SEC-w overlay applies to significant wetlands that are mapped on county inventories.
+As noted above, the SIMC planning area includes several significant wetlands (originally based on the
+National Wetland Inventory.
+•  The SEC-h overlay applies to significant wildlife habitat; the County has not applied this
+designation to land or water in the SIMC planning area.
+•  The SEC-s overlay applies to significant streams; the County has not applied this designation to
+land or water in the SIMC planning area.
+•  The SEC-v overlay applies to significant public viewing areas and is discussed below.
+SEC-w Wetlands
+As noted in §34.4560 Criteria for Approval of SEC-w permit – Significant Wetlands:
+Significant  wetlands consist of those areas designated as significant on aerial photographs of a
+scale of 1 inch = 200 feet made a part of the supporting documentation of the Comprehensive
+Framework Plan. Any proposed activity or use requiring an SEC permit which would impact those
+wetlands shall be subject to the following: * * *
+(B) The applicant shall demonstrate that the proposal:
+(1) Is water-dependent or requires access to the wetland as a central element of its basic design
+function, or is not water dependent but has no practicable alternative as de-scribed in subsection
+(C) below;
+(2) Will have as few adverse impacts as is practical to the wetland’s functional characteristics
+and its existing contour, vegetation, fish and wildlife resources, shoreline anchoring, flood
+storage, general hydrological conditions, and visual amenities. This impact determination shall
+also consider specific site information contained in the adopted wetlands inventory and the
+economic, social, environmental, and energy (ESEE) analysis made part of the supporting
+documentation of the comprehensive plan;
+(3) Will not cause significant degradation of groundwater or surface-water quality;
+(4) Will provide a buffer area of not less than 50 feet between the wetland boundary and upland
+activities for those portions of regulated activities that need not be con-ducted in the wetland;
+(5) Will provide offsetting replacement wetlands for any loss of existing wetland areas. This
+Mitigation Plan shall meet the standards of subsection (D).
+(C) A finding of no practicable alternative is to be made only after demonstration by the
+applicant that: (1) The basic purpose of the project cannot reasonably be accomplished using one
+or more other practicable alternative sites in Multnomah County that would avoid or result in
+less adverse impact on a wetland. An alternative site is to be considered practicable if it is
+available for purchase and the proposed activity can be conducted on that site after taking into
+consideration costs, existing technology, infrastructure, and logistics in achieving the overall
+project purposes; (2) The basic purpose of the project cannot be accomplished by a reduction in
+the size, scope, configuration, or density of the project as proposed, or by changing the design of
+the project in a way that would avoid or result in fewer adverse effects on the wetland; and (3) In
+cases where the applicant has rejected alternatives to the project as proposed due to
+constraints, a reasonable attempt has been made to remove or accommodate such constraints.
+SEC-v Significant Views
+The SEC-v overlay applies to significant scenic sites.  There are no significant scenic sites within the SIMC
+planning area.  However, there are viewing areas from which the West Hills (a significant scenic site) can
+be seen.  As noted in MCC 3445.65:
+§ 34.4565 CRITERIA FOR APPROVAL OF SEC-V PERMIT -SIGNIFICANT SCENIC VIEWS
+Significant scenic resources consist of those areas designated SEC-v on Multnomah County
+sectional zoning maps. (2) Identified Viewing Areas are public are-as that provide important
+views of a significant scenic resource, and include both sites and linear corridors. Identified
+Viewing Areas are: Bybee-Howell House ; Virginia Lakes ; Sauvie Island Wildlife Area ; Kelley
+Point Park; Smith and Bybee Lakes; Highway 30 ; The Multnomah Channel; The Willamette River
+[and] Public roads on Sauvie Island .* * *
+Willamette River Greenway (MCC 34.5800)
+The WRG overlay provides an effective means of ensuring that intensification of existing marina and
+floating home moorages address environmental impacts and fully comply with applicable
+comprehensive plan policies.
+§ 34.5800- Purposes
+The purposes of the Willamette River Greenway subdistrict are to protect, conserve, enhance,
+and maintain the natural, scenic, historical, agricultural, economic, and recreational qualities of
+lands along the Willamette River; to implement the County's responsibilities under ORS 390.310
+to 390.368; to establish Greenway Compatibility Review Areas; and to establish criteria,
+standards and procedures for the intensification of uses, change of uses, or the development of
+lands within the Greenway. (Ord. 997, Repealed and Replaced, 10/31/2002; Ord. 953 §2, Reorg&Renum,
+11/30/2000)
+§ 34.5805 Area Affected
+MCC 34.5800 through 34.5865 shall apply to those lands designated WRG on the Multnomah
+County Zoning Map. (Ord. 997, Repealed and Replaced, 10/31/2002; Ord. 953 §2, Reorg&Renum, 11/30/2000)
+§ 34.5810 USES – Greenway Permit Required
+All uses permitted under the provisions of the underlying district are permitted on lands
+designated WRG; provided, however, that any development, change of use or intensification of
+use, except as provided in MCC 33.5820, shall be subject to a Greenway Permit issued under the
+provisions of MCC 34.5830. (Ord. 997, Repealed and Replaced, 10/31/2002; Ord. 953 §2, Reorg&Renum,
+11/30/2000)
+§ 34.5815 Definitions
+For the purposes of this district, the following terms and their derivations shall have the
+following meanings. Definitions (A) through (E) are derived from paragraph a. of the Order
+Adopting Preliminary Willamette River Greenway Plan of the Oregon Land Conservation and
+Development Commission, dated December 6, 1975.
+(A) Change of use  - means making a different use of the land or water than that which existed on
+December 6, 1975. It includes a change which requires construction, alterations of the land,
+water or other areas outside of existing buildings or structures and which substantially alters or
+affects the land or water. It does not include a change of use of a building or other structure
+which does not substantially alter or affect the land or water upon which it is situated. Change of
+use shall not include the completion of a structure for which a valid permit has been issued as of
+December 6, 1975 and under which permit substantial construction has been undertaken by July
+1, 1976. The sale of property is not in itself considered to be a change of use. An existing open
+storage area shall be considered to be the same as a building. Landscaping, construction of
+driveways, modifications of existing structures, or the construction or placement of such
+subsidiary structures or facilities as are usual and necessary to the use and enjoyment of existing
+improvements shall not be considered a change of use for purposes of this order.
+(E) Intensification  - means any additions which increase or expand the area or amount of an
+existing use, or the level of activity. Remodeling of the exterior of a structure not excluded below
+is an intensification when it will substantially alter the appearance of the structure.
+(F) Water-dependent use  – means a use which can be carried out only on, in, or adjacent to
+water areas because the use requires access to the water body for waterborne transportation or
+recreation. Water-dependent use also includes development, which by its nature, can be built
+only on, in, or over a water body (including a river). Bridges supported by piers or pillars are
+water-dependent uses.
+(Ord. 1038, Amended, 05/13/2004; Ord. 997, Repealed and Re-placed, 10/31/2002; 953
+§2, Reorg&Renum, 11/30/2000)
+§ 34.5840 Decision by Hearings Officer
+(A) A decision on a Greenway Permit application for a Conditional Use as specified either in the
+underlying district or in MCC 34.6300 through 34.6765, or for a Community Service Use as
+specified in MCC 34.6000 through 34.6230, shall be made by the Hearings Officer in conjunction
+with the decision on the use proposal associated therewith.
+(A) A decision on a Greenway Permit application for a Conditional Use as specified either in the
+underlying district or in MCC 34.6300 through 34.6765, or for a Community Service Use as
+specified in MCC 34.6000 through 34.6230, shall be made by the Hearings Officer in conjunction
+with the decision on the use proposal associated therewith. (B) Action by the Hearings Officer on
+a Green-way Permit application shall be pursuant to pro-visions for a Type III Permit as described
+in MCC Chapter 37.
+(C) The findings and conclusions made by the Hearings Officer, and the conditions or
+modifications of approval, if any, shall specifically ad-dress the relationships between the
+proposal and the elements of the Greenway Design Plan.
+(Ord. 997, Repealed and Replaced, 10/31/2002;
+Ord. 991, Amended, 09/26/2002; 953 §2, Reorg&Renum, 11/30/2000)
+§ 34.5855 GREENWAY DESIGN PLAN
+The elements of the Greenway Design Plan are:
+(A) The maximum possible landscaped area, scenic and aesthetic enhancement, open space or
+vegetation shall be provided between any use and the river.
+(B) Reasonable public access to and along the river shall be provided by appropriate legal means
+to the greatest possible degree and with emphasis on urban and urbanizable areas.
+(C) Developments shall be directed away from the river to the greatest possible degree, provided,
+however, that lands in other than rural and natural resource districts may continue in urban
+uses.
+(D) Agricultural lands shall be preserved and maintained for farm use.
+(E) The harvesting of timber, beyond the vegetative fringes, shall be conducted in a manner
+which shall insure that the natural scenic qualities of the Greenway will be maintained to the
+greatest extent practicable or will be restored within a brief period of time on those lands inside
+the Urban Growth Boundary.
+(F) Recreational needs shall be satisfied by public and private means in a manner consistent with
+the carrying capacity of the land and with minimum conflicts with farm uses. (G) Significant fish
+and wildlife habitats shall be protected.
+(H) Significant natural and scenic areas and viewpoints and vistas shall be preserved.
+(I) Maintenance of public safety and protection of public and private property, especially from
+vandalism and trespass, shall be provided to the maximum extent practicable.
+(J) The natural vegetation along the river, lakes, wetlands and streams shall be enhanced and
+protected to the maximum extent practicable to assure scenic quality, protection from erosion,
+screening of uses from the river, and continuous riparian corridors.
+(K) Extraction of known aggregate deposits may be permitted, pursuant to the provisions of MCC
+34.6300 through 34.6535, when economically feasible and when conducted in a manner
+designed to minimize adverse effects.
+(L) Areas of annual flooding, flood plains, water areas and wetlands shall be preserved in their
+natural state to the maximum possible extent to protect the water retention, overflow and
+natural functions.
+(M) Significant wetland areas shall be protected as provided in MCC 34.5865.
+(N) Areas of ecological, scientific, historical or archaeological significance shall be protected,
+preserved, restored, or enhanced to the maximum extent possible.
+(O) Areas of erosion or potential erosion shall be protected from loss by appropriate means
+which are compatible with the character of the Greenway.
+(P) The quality of the air, water and land re-sources in and adjacent to the Greenway shall be
+preserved in development, change of use, or intensification of use of land designated WRG.
+(Q) A building setback line of 150 feet from the ordinary low waterline of the Willamette River
+shall be provided in all rural and natural re-source districts, except for non-dwellings provided
+in conjunction with farm use and except for buildings and structures in conjunction with a
+water-related or a water dependent use.
+(R) Any development, change of use or intensification of use of land classified WRG, shall be
+subject to design review, pursuant to MCC 34.7000 through 34.7070, to the extent that such
+design review is consistent with the elements of the Greenway Design Plan.
+(S) The applicable policies of the Comprehensive Plan are satisfied.
+(Ord. 997, Repealed and Replaced,
+10/31/2002; 953 §2, Re-org&Renum, 11/30/2000)
+Comment : WRG design plan provisions that protect significant natural and cultural resources are
+highlighted in bold font.  The NCR Subcommittee recommends changes to the WRG overlay zone to
+address endangered salmon habitat and passage concerns.
+Community Service Uses (MCC 34.6000)
+§ 34.6000- PURPOSE
+MCC 34.6010 through 34.6230 provides for the review and approval of the location and
+development of special uses which, by reason of their public convenience, necessity, unusual
+character or effect on the neighborhood, may be appropriate as specified in each district. (Ord.
+997, Repealed and Replaced, 10/31/2002; Ord. 953 §2, Reorg&Renum, 11/30/2000)
+§ 34.6005 General Provisions
+(A) Community Service approval shall be for the specific use or uses approved together with the
+limitations or conditions as determined by the approval authority.
+(B) Uses authorized pursuant to this section shall be subject to Design Review approval under
+MCC 34.7000 through 34.7065.
+(C) A Community Service approval shall not be construed as an amendment of the Zoning Map,
+although the same may be depicted thereon by appropriate color designation, symbol or short
+title identification.
+(Ord. 997, Repealed and Replaced, 10/31/2002; 953 §2, Re-org&Renum, 11/30/2000)
+§ 34.6015 Uses
+(A) Except as otherwise limited in the EFU district, the following Community Service Uses and
+those of a similar nature, may be permitted in any district when approved at a public hearing by
+the approval authority.
+(B) Allowed Community Service Uses in the EFU district are limited to those uses listed in the
+district.
+§ 34.6005 General Provisions
+(A) Community Service approval shall be for the specific use or uses approved together with the
+limitations or conditions as determined by the approval authority.
+(B) Uses authorized pursuant to this section shall be subject to Design Review approval under
+MCC 34.7000 through 34.7065.
+(C) A Community Service approval shall not be construed as an amendment of the Zoning Map,
+although the same may be depicted thereon by appropriate color designation, symbol or short
+title identification.
+(Ord. 997, Repealed and Replaced, 10/31/2002; 953 §2, Reorg&Renum, 11/30/2000)
+§ 34.6010 Approval Criteria
+In approving a Community Service use, the approval authority shall find that the proposal meets
+the following approval criteria, * * *
+(A) Is consistent with the character of the area;
+(B) Will not adversely affect natural resources;
+(C) The use ill not: (1) Force a significant change in accepted farm or forest practices on
+surrounding lands devoted to farm or forest use; nor (2) Significantly increase the cost of
+accepted farm or forest practices on surrounding lands devoted to farm or forest use.
+(D) Will not require public services other than those existing or programmed for the area;
+(E) Will be located outside a big game winter habitat area as defined by the Oregon Department
+of Fish and Wildlife or that agency has certified that the impacts will be acceptable;
+(F) Will not create hazardous conditions;
+(G) Will satisfy the applicable policies of the Comprehensive Plan;
+(H) Will satisfy such other applicable approval criteria as are stated in this Section.
+(Ord. 1186,
+Amended, 10/13/2011; Ord. 997, Repealed and Re-placed, 10/31/2002; Ord. 958, Amended, 02/15/2001; Ord. 953
+Comment : CSU review criteria that protect significant natural and cultural resources are highlighted in
+bold font.
+§ 34.6015 Uses
+(A) Except as otherwise limited in the EFU district, the following Community Service Uses and
+those of a similar nature, may be permitted in any district when approved at a public hearing by
+the approval authority.
+Allowed Community Service Uses in the EFU district are limited to those uses listed in the district.
+Design Review (MCC 34.7000)
+The design review process ensures that all County policies and standards are met.  This process applies
+to all community service uses and includes provisions to protect natural and cultural resources.
+§ 34.7000- Purposes
+MCC 34.7000 through 34.7065 provides for the review and administrative approval of the design
+of certain developments and improvements in order to promote functional, safe, innovative and
+attractive site development compatible with the natural and man-made environment. (Ord. 997,
+Repealed and Replaced, 10/31/2002; Ord. 953 §2, Reorg&Renum, 11/30/2000)
+§ 34.7005 Elements of Design Review Plan
+The elements of a Design Review Plan are: The lay-out and design of all existing and proposed
+improvements, including but not limited to, buildings, structures, parking and circulation areas,
+outdoor storage areas, landscape areas, service and delivery areas, outdoor recreation areas,
+retaining walls, signs and graphics, cut and fill actions, accessways, pedestrian walkways,
+buffering and screening measures. (Ord. 997, Repealed and Replaced, 10/31/2002; Ord. 953 §2,
+Reorg&Renum, 11/30/2000)
+§ 34.7010 Design Review Plan Approval Required
+No building, grading, parking, land use, sign or other required permit shall be issued for a use
+subject to this section, nor shall such a use be commenced, enlarged, altered or changed until a
+final design review plan is approved by the Planning Director, under this ordinance. (Ord. 997,
+Repealed and Replaced, 10/31/2002; Ord. 953 §2, Reorg&Renum, 11/30/2000)
+§ 34.7020 Application of Regulations
+(A) Except those exempted by MCC 34.7015, the provisions of MCC 34.7000 through 34.7060
+shall apply to all conditional and community service uses, and to specified uses, in any district.
+(C) Siting and design of all pickup and delivery facilities shall insure maximum convenience with
+minimum adverse visual impacts. (Ord. 997, Repealed and Replaced, 10/31/2002; Ord. 953 §2, Reorg&Renum,
+11/30/2000)
+§ 34.7050 Design Review Criteria
+(A) Approval of a final design review plan shall be based on the following criteria :
+
+(1) Relation of Design Review Plan Elements to Environment.
+(a) The elements of the design review plan shall relate harmoniously to the natural
+environment and existing buildings and structures having a visual relationship with the
+site.
+(b) The elements of the design review plan should promote energy conservation and
+provide protection from ad-verse climatic conditions, noise, and air pollution.
+(c) Each element of the design review plan shall effectively, efficiently, and attractively serve
+its function. The elements shall be on a human scale, inter-related, and shall provide spatial
+variety and order.
+(2) Safety and Privacy – The design review plan shall be designed to provide a safe environment,
+while offering appropriate opportunities for privacy and transitions from public to private spaces.
+(3) Special Needs of Handicapped – Where appropriate, the design review plan shall provide for
+the special needs of handicapped persons, such as ramps for wheel-chairs and braille signs.
+(4) Preservation of Natural Landscape – The landscape and existing grade shall be preserved
+to the maximum practical degree, considering development constraints and suitability of the
+landscape or grade to serve their functions. Preserved trees and shrubs shall be protected
+during construction.
+(5) Pedestrian and Vehicular circulation and Parking – The location and number of points of
+access to the site, the interior circulation patterns, the separations between pedestrians and
+moving and parked vehicles, and the arrangement of parking areas in relation to buildings and
+structures, shall be designed to maximize safety and convenience and shall be harmonious with
+pro-posed and neighboring buildings and structures.
+(6) Drainage – Surface drainage systems shall be designed so as not to adversely affect
+neighboring properties or streets.
+(7) Buffering and Screening – Areas, structures and facilities for storage, machinery and
+equipment, services (mail, refuse, utility wires, and the like), loading and parking, and similar
+accessory areas and structures shall be designed, located, buffered or screened to minimize
+adverse impacts on the site and neighboring properties.
+(8) Utilities – All utility installations above ground shall be located so as to minimize adverse
+impacts on the site and neighboring properties.
+(9) Signs and Graphics – The location, texture, lighting, movement, and materials of all exterior
+signs, graphics or other informational or directional features shall be compatible with the other
+elements of the design review plan and surrounding properties.
+(B) Guidelines designed to assist applicants in developing design review plans may be adopted by
+the Planning Commission.
+(Ord. 997, Repealed and Replaced, 10/31/2002; 953 §2, Re- org&Renum, 11/30/2000)
+Comment :  Design review guidelines that protect significant natural and cultural resources are
+highlighted in bold font.
+
+SECTION 6: RELEVANT STATE AGENCY PLANS & RULES
+Department of State Lands (DSL)
+The Oregon Land Board and its administrative arm, the Oregon Department of State Lands (DSL),
+regulates the placement of structures (marinas, moorages, docks, floats, houseboats, boat houses,
+recreational cabins, etc.) below the “ordinary high water line” in waters of the state – including the
+Multnomah Channel.  Under Oregon’s land use system, local approval or a determination of land use
+consistency is required before DSL may enter into leases for commercial uses – or register non-
+commercial uses – below the ordinary high water of the Multnomah Channel.
+DSL’s constitutional authority for managing public land and water comes primarily from Article VIII,
+Section 5  of the Oregon Constitution, which provides:
+"The board shall manage lands under its jurisdiction with the object of obtaining the greatest
+benefit for the people of this state, consistent with the conservation of this resource under sound
+techniques of land management."
+According to the DSL website ( http://www.oregon.gov/dsl/LW/Pages/waterway.aspx ) the Land Board
+and DSL hold these lands in trust for the public (under the "Public Trust Doctrine"). DSL works to clarify
+title and manage uses of these lands in the public´s best interests to ensure that any uses (for example,
+marinas, docks, sand and gravel mining, and log rafts) are authorized and pay their fair share as
+compensation to the public for the use of public land.
+ORS Chapter 274  Submerged and Submersible Lands provides more specific guidance regarding the
+leasing and registration of structures in Multnomah Channel.  More detailed management guidance is
+contained in OAR Chapter 141, Division 082 Rules Governing the Management of, and Issuing Leases,
+Licenses and Registration for Structures on, and Use of, State-Owned Submerged and Submersible
+Land .
+DSL Responsibilities: 141-082-0260 General Provisions
+Division 082 sets forth the purposes of and scope of the administrative rule in regulating structures
+below the ordinary high water line as follows:
+(1) Pursuant to Oregon law as defined in ORS 274, all tidally influenced and title navigable
+waterways (referred to as state-owned submerged and/or submersible land) have been placed
+by the Oregon State Legislature under the jurisdiction of the State Land Board and the
+Department, as the administrative arm of the State Land Board.
+(2) The State Land Board, through the Department, has a constitutional responsibility to manage
+"the lands under its jurisdiction with the object of obtaining the greatest benefit for the people of
+this state, consistent with the conservation of this resource under sound techniques of land
+management" pursuant to Article 8, Section 5(2) of the Oregon Constitution.
+(3) State-owned submerged and/or submersible land is managed to ensure the collective rights
+of the public, including riparian owners, to fully use and enjoy this resource for commerce,
+navigation, fishing, recreation and other public trust values. These rights are collectively referred
+to as “public trust rights.”
+(4) No person is allowed to place a structure on, or make use of state-owned submerged and/or
+submersible land, regardless of the length of time the structure may have existed on, or the use
+may have occurred on the land, without the required authorization described in these rules,
+unless the structure or use is exempt from such authorization by law or these rules. Ownership of
+state-owned submerged and/or submersible land cannot be obtained by adverse possession
+regardless of the length of time the structure or use has been in existence.
+(5) All uses of state-owned submerged and/or submersible land must conform to local (including
+local comprehensive land use planning and zoning ordinance requirements), state and federal
+laws.
+(6) The Department shall not authorize a proposed use or structure if it: (a) Is inconsistent with
+local, state, or federal laws ; (b) Is not in compliance with these rules; (c) Would result in an
+unreasonable interference with the public trust rights of commerce, navigation, fishing and
+recreation; (d) Would have unacceptable impacts on public health, safety or welfare, or result in
+the loss of, or damage to natural, historical, cultural or archaeological resources; (e) Is
+prohibited by a State Land Board or Department-adopted area closure, use restriction, or
+waterway management plan (such as the Lower Willamette River Management Plan; a Total
+Maximum Daily Load Plan; or the Oregon Territorial Sea Plan) ; (f) Is inconsistent with any
+endangered species management plan adopted by the Department under the Oregon
+Endangered Species Act (ORS 496.171 to 496.192 ); or (g) It extends from the bank of a
+waterway for a distance that exceeds 25 percent of the width of the waterway, unless authorized
+by the Director. * * *
+(7) No applicant for, or person holding an authorization from the Department shall request from
+any government agency a change in the zoning for, or approved uses of a parcel of state-owned
+submerged and/or submersible land without first applying to, and receiving written approval
+from the Department to request such a change.
+(8) When a use or structure subject to written authorization from the Department becomes
+exempt from written authorization, compensation, or both, by a change in the law or in these
+rules the holder may terminate the written authorization or allow the written authorization to
+expire by its terms. If the written authorization is terminated, the holder is not entitled to receive
+any reimbursement from the Department for any compensation or other fees paid by the holder
+to the Department under the written authorization prior to expiration or termination.
+Comment :  During the 2013 SIMC Scoping process and at the Marinas and Floating Homes CAC
+Subcommittee meeting on December 17, 2013, there was considerable discussion of the Clean Water
+Act and Endangered Species Act, and how these federal laws should be considered in the review of
+marina and floating home moorage expansion and redevelopment.  (See discussion of new issues in
+Section 1 of this report.)
+DSL has primary responsibility for reviewing development proposals in navigable waterways, and, as
+noted below, has specific responsibility for carrying out applicable federal law, and implementing the
+following state plans that help to carry out the CWA and the ESA:
+•  Lower Willamette River Management Plan ;
+•  Any Total Maximum Daily Load Plan;
+•  The Oregon Territorial Sea Plan);
+•  Any Endangered Species Management Plan adopted by the Department under the Oregon
+Endangered Species Act (ORS 496.171 to 496.192).
+Comment : Multnomah County may not have the resources to effectively implement the provisions of
+the CWA and the ESA through the Community Service or Special Area Plan review processes.  Perhaps
+this review function should remain with DSL and the County should continue to focus on impacts to
+neighboring properties, land use, transportation and the Willamette River Greenway.  Notably, DSL rules
+to encourage voluntary habitat restoration work; but requires agency review of mandatory restoration
+work that is required as a condition of development approval.
+(80) “Voluntary Habitat Restoration Work” means the same as set forth in ORS 274.043(4)(d).
+Voluntary habitat restoration work does not include: (a) Activities undertaken to satisfy any
+actual or potential legal obligation; (b) Activities for which the person undertaking the work
+receives compensation of any kind to do the work; or (c) Work completed by an entity to satisfy
+an environmental mitigation obligation or to generate, sell or obtain credit as an offset against
+actual or potential natural resource damages liability.
+Department of Environmental Quality (DEQ)
+From the DEQ website (http://www.oregon.gov/DEQ/Pages/about_us.aspx):
+The Oregon Department of Environmental Quality (DEQ) is a regulatory agency whose job is to protect
+the quality of Oregon's environment. DEQ's corporate values include:
+•  Environmental results
+•  Public service
+•  Partnerships
+•  Excellence and integrity
+•  Teamwork
+•  Employee growth
+•  Diversity
+•  Health, safety and wellness
+•  Economic growth through quality environment.
+DEQ's mission is to be a leader in restoring, maintaining and enhancing the quality of Oregon's air, land
+and water.
+DEQ works collaboratively with Oregonians for a healthy, sustainable environment.
+DEQ staff use a combination of technical assistance, inspections and permitting to help public and
+private facilities and citizens understand and comply with state and federal environmental regulations.
+ The DEQ staff consists of scientists, engineers, technicians, administrators, and environmental
+specialists.  The agency's headquarters are in Portland with regional administrative offices in Bend,
+Eugene, and Portland; and field offices in Coos Bay, Grants Pass, Hermiston, Medford, Pendleton, Salem,
+and The Dalles.  DEQ operates a modern pollution-control laboratory in Hillsboro.
+In addition to local programs, the Environmental Protection Agency delegates authority to DEQ to
+operate federal environmental programs within the state such as the federal Clean Air, Clean Water, and
+Resource Conservation and Recovery Acts.  See DEQ/EPA Performance Partnership Agreement.
+The DEQ director has the authority to issue fines for violation of pollution laws and standards. The DEQ
+relies on several advisory committees of citizens and government officials to help guide its decision-
+making.
+DEQ is responsible for protecting and enhancing Oregon's water and air quality, for cleaning up spills and
+releases of hazardous materials, for managing the proper disposal of hazardous and solid wastes, and
+for enforcing Oregon's environmental laws.
+DEQ staff use a combination of technical assistance, inspections and permitting to help public and
+private facilities and citizens understand and comply with state and federal environmental regulations.
+The DEQ staff consists of scientists, engineers, technicians, administrators, and environmental specialists.
+The agency's headquarters are in Portland with regional administrative offices in Bend, Eugene, and
+Portland; and field offices in Coos Bay, Grants Pass, Hermiston, Medford, Pendleton, Salem, and The
+Dalles.  DEQ operates a modern pollution-control laboratory in Hillsboro.
+Oregon's history of environmental regulation dates back to 1938 when the Oregon State Sanitary
+Authority was formed. As a division within the State Board of Health, the Authority was formed in
+response to outraged citizens who overwhelmingly supported an initiative petition known as the "Water
+Purification and Prevention of Pollution Bill." The bill declared a state policy to preserve Oregon waters
+from pollution. In 1969, the Authority changed its name to the Department of Environmental Quality and
+established itself as an independent state agency. In 2009, Oregon DEQ celebrated its 40th anniversary,
+commemorating the event with the publishing of its history timeline and series of success stories
+representing its various programs.
+SECTION 7: Subcommittee Meeting Process
+Agendas
+The agendas for the February 18 and March 18, 2014 Natural and Cultural Resource Subcommittee
+meetings are shown below.
+
+Meeting Summaries
+Meeting summaries for the February 18 and March 18, 2014 Natural and Cultural Resource
+Subcommittee meetings are shown below.

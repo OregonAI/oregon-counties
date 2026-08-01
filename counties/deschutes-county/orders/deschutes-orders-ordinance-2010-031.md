@@ -1,0 +1,176 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2010-031
+title: 'Ordinance No. 2010-031'
+doc_type: ordinance
+citation: 'Ordinance No. 2010-031'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617038889_2010-2943-Ordinance%20No.%202010-031%20Recorded%2011_29_2010.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d6140325973db48e4c9ac21834c202837f15c4efab64b435abf46741bdaad381
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2010-031 (Ordinance No. 2010-031)
+
+## At a glance
+
+Ordinance No. 2010-031 — orders of Deschutes County. 4 pages.
+
+## Full text
+
+REVIEWED
+LEGAL COUNSEL
+DESCHUTES COUNTY OFFICIAL
+NANCY BLANKENSHIP, COUNTY
+COMMISSIONERS' JOURNAL
+IIIIII' IIIIIIIIIHillIIIs - zv
+RECORDS
+CJ201002943
+11/ 29/1010 10; 09;33 AM
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County Code
+18. 100.090 and Title 18, the Deschutes County
+Zoning Map, to Changethe Zone Designation for
+Certain Property From Exclusive Farm Use to Rural
+Residential with a Limited Use Combing Zone To
+Allowing the Storage, Crushing, Processing, Sale and
+Distribution of Minerals.
+ORDINANCE NO. 2010- 031
+WHEREAS, 4- R Equipment, LLC applied for a Deschutes County Comprehensive Plan and Plan Map
+amendment and a Deschutes County Code (" DCC") zoning Code Zoning Map amendment to rezone certain
+property from Exclusive Farm Use ( EFU) to Rural Industrial ( RI) with a new Limited Use Combining Zone
+LU); and
+WHEREAS, after notice was give in accordance with applicable law, public hearings were held on May
+11, 2010 and June 8, 2010 before the Deschutes County Hearings Officer and, on July 23, 2010 the Hearings
+Officer recommended approval of the zone change; and
+WHEREAS, the Board of County Commissioners considered this matter after a duly noticed public
+hearing on October 4, 2010 and concluded that the proposed changes are consistent with the County's
+Comprehensive Plan and that the public will benefit from changesto the land use regulations; and
+WHEREAS, on this same date, the Board of County Commissioners (` Board") adopted Ordinance
+2010- 030 amending DCC Title 23, changing the plan designation of the property from Agriculture (AG) to
+Rural Industrial ( RI); and
+WHEREAS, a change to the Deschutes County zoning code and Zoning Map is necessary to implement
+the amendment adopted in Ordinance; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDING. DCC 18. 100.090, Limited Use Combining Zone - Deschutes Junction, as
+described in Exhibit " A," attached and incorporated by reference herein with new language underlined and
+deleted language set forth in strip, for the property described in Exhibit " D" attached to Ordinance
+2010- 030 and incorporated by reference herein and depicted on the map set forth as Exhibit ` B', attached and
+incorporated by reference herein.
+Section 2. AMENDMENT. DCC Title 18, Zoning Map, is amended to change the zone designation
+from Exclusive Farm Use ( EFU) to Rural Industrial ( RI) with a new Limited Use Combining Zone ( LU) for
+certain property described in Exhibit " D" attached to Ordinance 2010- 030 and incorporated by reference herein
+and depicted on the map set forth as Exhibit " B", and incorporated by reference herein.
+PAGE 1 OF 2 - ORDINANCE NO. 2010- 031
+Section 3. FINDINGS. The Board adopts as its findings in support of this decision, Exhibit " F",
+attached to Ordinance 2009- 030 and incorporated by reference herein.
+Dated this 21p of &Oi~ Q~.2010
+ATTEST: /
+JNwt
+Recording Secretary
+BOARD OF COUNTY COMMISSIONERS
+OF DESC ES COUNTY, OREGON
+DENNIS R. LUKE, Chair
+ALAN UNGER, Vice Chair
+4/~v
+TAM BA , Commis oner
+Date of 1" Reading: 1 U day of n
+1 ,
+2010.
+Date of 2°d ReadinaZZ0j day of ~ JVV - , 2010.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Dennis R. Luke
+Alan Unger
+Tammy Baney
+Effective date: -~ay of i - , - 2M.
+PAGE 2 OF 2 - ORDINANCE NO. 2010- 031
+18. 100.090 Limited Use Combining Zone - Deschutes Junction
+A. For the property at Deschutes Junction that is described in Exhibit " C" and identified on Exhibit
+D", attached to Ordinance 2009- 007 and incorporated by reference herein, the storage,
+crushing, processing, sale and distribution of minerals and their accessory uses are permitted
+outright and do not require site plan review.
+B. For the property at Deschutes Junction that is described in Exhibit " D" identified on Exhibit
+E", attached to Ordinance 2010- 030 and incorporated by reference herein, the storage,
+crushing, processing, sale and distribution of minerals are subject to conditional use and site
+plan approval.
+Ord. 2010- 031 § 1, 2010; Ord. 2009- 008 § 2, 2009)
+Zoning Map amended by Ord. 2010- 031 § 2, 2010, Ord. 2009- 008 § 2, 2009; Ord. 95- 016 § 1, 1995; Ord. 94-
+011 § l, 1994)
+Chapter 18. 100 ( 10/ 2010)
+Page 1 of 1 - Exhibit A to Ordinance 2010- 031
+EFUTRB
+WA10
+Zone Change From
+EFUTRB to RI with
+Limited Use Combining
+Zone ( LU)
+RC
+TUMnto K d'
+SRO
+0
+C3
+r
+s
+EFUTRB
+h
+RI
+Zone Change From
+EFUTRB to RI with
+Limited Use Combining
+Zone ( LU)
+N~
+R_ I'/. LU s~
+EFUAL
+n°
+OS&C
+Legend PROPOSED ZONING MAP
+BOARD
+4fUTESTXM, OREGON
+Subject Property
+OF OE FLUTESCOUNTY, OREGON
+County Zoning 4- R Equipment, LLC & Jack Robinson and Sons, Inc.
+enni . Luke, Chair
+EFUAL - Alfal/ a Subzone
+EFUTRB - TumalotRadmondiBend Subzone Exhibit " B"
+to Ordinance 2010- 031
+Alan Unger, Vice Chair
+MUA70 - Multiple Use Agricultural
+OS&C - Open Space & Conservation ^
+1/VlAlf.\J
+Tam Baney, Commissio
+RI- Rural Industrial
+RC - Rural Commercial ATTEST Recording Secrete
+0 125
+Existing Limited Use Combining Zone
+250 500 750 ;
+J
+Feat
+New Limited Use Combining Zone
+September 28, 2010 Effective
+is ~
+Date: to
+oF6e4eber, 2010

@@ -1,0 +1,2037 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2014-021
+title: 'Ordinance No. 2014-021'
+doc_type: ordinance
+citation: 'Ordinance No. 2014-021'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1625590271_2014-436-Ordinance%20No.%202014-021%20Recorded%208_29_2014.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 0b436aa17464bff548158591063f55f267d842baa5b143a0b89002c3d43f7f69
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.732
+    - ORS 197.763
+    - OAR 660-004-0018
+    - OAR 660-004-0022
+    - OAR 660-011-0060
+    - OAR 660-012-0060
+    - OAR 660-015-0000
+    - OAR 660-015-0005
+    - OAR 660-015-0010
+    - OAR 660-022-0040
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2014-021 (Ordinance No. 2014-021)
+
+## At a glance
+
+Ordinance No. 2014-021 — orders of Deschutes County. 44 pages.
+
+## Full text
+
+REV1E  ' ED DESCHUTES
+CLERK CJ014.436
+LEG COUNSEL
+COMMISSIONERS'  JOURNAL
+08/29/201410'53'13AM
+II
+ai -
+IIII I IIIIIIIIIIIIIIIIII
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending DeschutesCounty Code,       *
+Title 23, and Amending Deschutes County ORDINANCE NO. 2014- 021
+Comprehensive Plan, Sections 5. 10 and 5. 12, to
+Adopt an Exception to Goal 4 and To Change the
+Plan Designation for Certain Property From Sunriver    *
+Urban Unincorporated Community Forest to Sunriver   *
+Urban Unincorporated Community Utility
+WHEREAS, Sunriver Service District proposed a" reasons" exception to Goal 4 and a Plan Amendment
+to Deschutes County Code (" DCC"), Section 23.01.010, Introduction, and Deschutes County Comprehensive
+Plan,  Section 5. 10,  Goal Exception Statements,  and Section 5. 12,  Legislative History,  to change the
+comprehensive plan designation of certain property from Sunriver Urban Unincorporated Community Forest to
+Sunriver Urban Unincorporated Community Utility; and
+WHEREAS, after notice was given in accordance with applicable law, a public hearing was held on
+April 22, 2014 before the Deschutes County Hearings Officer, and on June 13, 2014 the Hearings Officer
+recommended approval of the exception to Goal 4 and a Plan Amendment; and
+WHEREAS, after notice was give in accordancewith applicable law, a de novo public hearing was held
+on August 13, 2014 before the Board of County Commissioners (" Board"), and
+WHEREAS, the Board, after review conducted in accordance with applicable law, approved the goal
+exception to Goal 4 to change the comprehensive plan designation from Sunriver Urban Unincorporated
+Community Forest to Sunriver Urban Unincorporated Community Utility; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1.  AMENDMENT.  DCC Section 23. 01. 010, Introduction, is amended to read as described in
+Exhibit" A", attached and incorporated by reference herein, with new language underlined and deleted language
+set forth in strikethrough.
+Section 2. AMENDMENT. DCC Section 5. 10, Goal Exception Statements, is amended to read as
+described in Exhibit" B", attached and incorporated by reference herein with new language underlined and
+deleted language set forth in strikethrough.
+Section 3. AMENDMENT. DCC Section 5.12, Legislative History, is amendedto read as described
+in Exhibit" C", attached and incorporated by reference herein with new language underlined and deleted
+language set forth in Gtrikethrough.
+Page 1 of 2 - ORDINANCE NO. 2014- 021
+Section 4. AMENDMENT. The DeschutesCounty Comprehensive Plan Map is amendedto changethe
+plan designationfor certainpropertydescribedin Exhibit "D" anddepictedonthemapsetforth asExhibit "E",
+with both exhibits attached and incorporated by reference herein,  from Sunriver Urban Unincorporated
+Community Forest to Sunriver Urban Unincorporated Community Utility.
+Section 5.  FINDINGS.  The Board adopts as its findings in support of this decision Exhibit " F," attached
+and incorporatedby referenceherein.
+Dated this   ) r%.  , of      "'   6 '      2014 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+TAMMY BANEY, Chair
+ANTHONY DEBONE, Vice Chair
+ATTEST:
+15
+V
+Recording Secretary ALAN UNGER, Commis oncr
+Date of
+1st
+Reading:/ 7):". day of A    '"   , 2014.
+Date of 2°
+d
+Reading       ".  day of ((:       2014.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Tammy Baney
+Anthony DeBone
+Alan Unger r–
+Effective dater day of A..T00    '` a, 2014.
+Page 2 of 2 - ORDINANCE NO. 2014- 021
+Chapter 23. 01 COMPREHENSIVE PLAN
+23. 01. 010. Introduction.
+A.       The DeschutesCounty ComprehensivePlan, adoptedby the Board in Ordinance2011-003
+andfound on the DeschutesCounty Community DevelopmentDepartmentwebsite, is
+incorporated by reference herein.
+B.       The DeschutesCounty ComprehensivePlanamendments, adoptedby the Board in Ordinance
+2011-027, areincorporatedby referenceherein.
+C.       The DeschutesCounty ComprehensivePlanamendments,adoptedby theBoard in Ordinance
+2012-005, are incorporated by reference herein.
+D.       The DeschutesCounty ComprehensivePlanamendments, adoptedby theBoard in Ordinance
+2012- 012, are incorporated by reference herein.
+E.       The DeschutesCounty ComprehensivePlanamendments, adoptedby the Board in Ordinance
+2012- 016, are incorporated by reference herein.
+F.       The DeschutesCounty ComprehensivePlanamendments,adoptedby the Board in Ordinance
+2013- 002, are incorporated by reference herein.
+G.       The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2013- 009, are incorporated by reference herein.
+H.       The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2013- 012, are incorporated by reference herein.
+1. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2013- 007, are incorporated by reference herein.
+J. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014- 005, are incorporated by reference herein.
+K.       The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014- 006, are incorporated by reference herein.
+L.       The DeschutesCounty ComprehensivePlan amendments, adoptedby the Board in Ordinance
+2014- 012, are incorporated by reference herein.
+M.      The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014- 021, are incorporated by reference herein.
+Ord. 2014- 021 § 1, 2014; Ord. 2014- 12 § 1, 2014; Ord. 2014- 006 § 2, 2014; Ord. 2014- 005 § 2, 2014;_ Ord.
+2013- 012 § 2, 2013; Ord. 2013- 009 § 2, 2013; Ord. 2013- 007 § 1, 2013; Ord. 2013- 002 § 1, 2013; Ord.
+2013- 001 § 1, 2013; Ord. 2012- 016 § 1, 2012; Ord. 2012- 013 § 1, 2012; Ord. 2012- 005 § 1, 2012; Ord.
+2011- 027 § 1 through 12, 2011; Ord. 2011- 017 repealed; Ord. 2011- 003 § 3, 2011)
+Click here to be directed to the Comprehensive Plan( http:// www. deschutes.org/compplan)
+PAGE 1 OF I — EXHIBIT" A" TO ORDINANCE 2014- 021
+sectLovi, 5. 10 cjoaL ej . cept' ovA, statevvtevtts
+Background
+The purpose of this section is to identify the landswhere Deschutes County demonstrated an
+exception to meeting the requirements of the Statewide PlanningGoals. The intent of goal
+exceptionsis to allow someflexibility in rural areasunderstrictly definedcircumstances. Goal
+exceptionsare definedandregulatedbyStatewidePlanningGoal2 andOregonAdministrative
+Rule 660- 004 ( excerpt below).
+660-004-0000(2) An exceptionis a decisionto excludecertainland from the requirementsof
+one or more applicable statewide goals in accordance with the process specified in Goal 2,
+Part 11, Exceptions. The documentation for an exception must be set forth in a local
+government' s comprehensive plan. Such documentation must support a conclusion that the
+standards for an exception have been met.
+StatewidePlanningGoalswith DeschutesCounty Exceptions
+Goal 3 Agricultural Lands
+Goal 4 Forest Lands
+Goal I I Public Facilities and Services
+Goal 14 Urbanization
+Three types of exceptions are permitted by Oregon Administrative Rule 660-004
+Irrevocably committed
+Physically developed
+Reasons
+The summary below identifies approved goal exceptions and identifies the adopting ordinance
+for those interested in further information. The ordinances listed are incorporated by reference
+into this Plan.
+1979 Exceptions
+Comprehensive Plan entire County— PL 20 - 1979
+Duringthe preparationof the 1979ComprehensivePlanit wasapparentthat manyrural lands
+had already received substantialdevelopment and were committed to non-resource uses. Areas
+were examined and identified where Goal 3 and 4 exceptions were taken. At this time
+exceptions to Goals 11 and 14 were not required.
+The total area excepted was 41,556 acres. These landswere residentially developed,
+committed to development or needed for rural service centers.
+Additional Exceptions
+Bend Municipal Airport— Ordinances 80- 203, 1980 and 80- 222, 1980
+The Bend Municipal Airport received an exception to Goal 3 to allow for the necessary and
+expected use of airport property.
+La Pine UUC Boundary— Ordinance 98- 001, 1998
+Exceptions to Goals 3, 11 and 14 were taken to allow lands to be included in the La Pine UUC
+boundary and plannedand zoned for commercial use.
+DESCHUTES COUNTY COMPREHENSIVE PLAN- 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 11 GOAL 5 ADOPTED ORDINANCES
+PAGE 1 OF 3 --- EXHIBIT" B" TO ORDINANCE 2014- 021
+SpringRiver Rural Service Center— Ordinances 90- 009, 1990; 90- 010, 1990; 96- 022, 1996; 96- 045„
+A reasonsexceptionwastakento Goal 14to allowthe establishmentof the SpringRiverRural
+Service Center on residentially designatedlands.
+Burgess Road and Highway97— Ordinance 97- 060, 1997
+An exception was taken to Goal 4 to allow for road improvements.
+Rural Industrial Zone — Ordinances 2010- 030, 2010; 2009- 007, 2009
+Two separate ordinances for rural industrial uses. The 2009 exception included an irrevocably
+committed exception to Goal 3 and a reasons exception to Goal 14 with a Limited Use
+Combining Zone for storage, crushing, processing, saleand distribution of minerals. The 2010
+exception took a reasonsexception to Goal 14with a Limited Use Combing Zone for storage,
+crushing, processing, sale and distribution of minerals.
+Prineville Railway— Ordinance 98- 017
+An exceptionwastakento Goal3 to accommodatethe relocationof the RedmondRailway
+Depot and the use of the site for an historic structure to be utilized in conjunction with the
+Crooked River Dinner Train operations.
+Resort Communities— Ordinance 2001- 047, 2001
+An exception was taken to Goal 4 for Black Butte Ranch and Inn of the 7th Mountain/ Widgi
+Creek during the designation of those communities as Resort Communities under OAR 660-
+22.
+BarclayMeadows Business Park— Ordinance 2003- 1 I, 2003
+A reasonsexceptionwastakento Goal3 to includecertainpropertywithin the SistersUrban
+Growth Boundary.
+Sisters School District# 6 — Ordinance 2003- 11, 2003
+A reasonsexceptionwastakento Goal3 to includecertainproperty within the SistersUrban
+Growth Boundary.
+Sisters Organization of Activities and Recreation and Sisters School District# 6 — Ordinance 2003- 017,
+2003
+A reasonsexception was taken to Goal 4 to include certain property within the Sisters Urban
+Growth Boundary.
+Oregon Water Wonderland Unit 2 Sewer District— Ordinances 2010- 015, 2010; 2003- 015, 2003
+A reasonsexceptionwastakento Goals4 and I I to allow usesapprovedby the Boardof
+County Commissioners in PA-02-5 and ZC- 02-3 asamended by PA-09-4.
+City of Bend Urban Growth BoundaryAmendment ( Juniper Ridge) — Ordinance 97- 060. 1997
+An exception was taken to Goal 3 to allow an amendment of the Bend Urban Growth
+Boundary to incorporate 513 acres for industrial uses.
+Joyce Coats Revocable Trust Johnson Road and Tumalo Reservoir Road Properties— Ordinance 2005-
+015, 2005
+An irrevocably committed exception was taken to Goal 3 to allow a changeof comprehensive
+plan designationfrom Surface Mining to Rural ResidentialException Area and zoning from
+SurfaceMining to Multiple Use Agriculture for Surface Mine Sites 306 and 307.
+2 DESCHUTES COUNTY COMPREHENSIVE PLAN- 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 12LEGISLATIVE HISTORY
+PAGE 2 OF 3 — EXHIBIT` B" TO ORDINANCE 2014- 021
+Watson/ Generation Development inc— Ordinance 2005- 015
+An exception was taken to Goal 3 to include a portion of agricultural property.
+Oregon Department of Transportation — Ordinance 2005- 019, 2005
+An exception was taken to Goal 3 to include a portion of agricultural property.
+Conklin/ EadyProperty— Ordinance 2005- 035, 2005
+An exception was taken to Goal 3 to include a portion of agricultural property.
+City of Sisters Property— Ordinance 2005- 037, 2005
+An exception was taken to Goal 4 to include a portion of forest property.
+McKenzie Meadows Property— Ordinance 2005- 039, 2005
+An exception was taken to Goal 4 to include a portion of forest property.
+Bend Metro Park and Recreation District Properties— Ordinance 2006- 025
+A reasonsexception was taken to Goal 3 to include a portion of agricultural property.
+Harris and NancyKimblePropertyand Portionof CLR, Inc PropertyA.K.A. the KlippelPit Property—
+Ordinance 2008- 001, 2008
+An irrevocably committed exception was taken to Goal 3 to allow reclassificationand zoning
+from Surface Mine to Rural Residential Exception Area and Rural Residential 10 acre for
+Surface Mine Site 294.
+Sunriver Service District. Sunriver Fire Department— Ordinance 2014- 02I, 2014
+A reasonsexception was taken to Goal 4 to include a portion of forest property.  To ensure
+that the uses in the Sunriver Utility District Zone on the approximate 4.28 acre site of Tax Lot
+102on Deschutes County Assessor's Map 19-11-00 are limited in nature and scope to those
+justifying the exception to Goal 4 for the site, the Sunriver Forest (SUF) zoning on the subject
+site shall be subject to a Limited Use Combining Zone, which will limit the useson the subject
+site to a fire training facility and accessroad for the Sunriver Service District and Sunriver Fire
+Department.
+DESCHUTES COUNTY COMPREHENSIVE PLAN- 201 1 3
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 1I GOAL 5 ADOPTED ORDINANCES
+PAGE 3 OF 3 — EXHIBIT" B" TO ORDINANCE 2014- 021
+secti, o14, 5. 12 Lee i.sLat% ve H-%storu
+Background
+Thissectioncontainsthe legislativehistoryof this ComprehensivePlan.
+Table 5.11.1Comprehensive Plan Ordinance History
+Ordinance
+Date Adopted/
+Chapter/ Section AmendmentEffective
+All, except
+Transportation, Tumalo
+and Terrebonne
+2011- 003 8- 10- 1 1/ 1 1- 9- I I Community Plans,
+Comprehensive Plan updateDeschutes Junction,
+Destination Resorts and
+ordinances adopted in
+2011
+2. 5, 2. 6, 3. 4, 3. 10, 3. 5,
+Housekeepingamendmentsto
+2011- 027 10- 3 I- I I/ I 1- 9- I I
+4. 6, 5. 3, 5. 8, 5. I I,
+ensure a smooth transition to
+23. 40A, 23. 40B,
+the updated Plan
+23. 40. 065, 23. 01. 010
+23. 60, 23. 64 ( repealed),
+Updated Transportation2012- 005 8- 20- 12/ 11- 19- 12 3. 7 ( revised), Appendix C
+System Plan
+added)
+2012- 012 8- 20- 12/ 8- 20- 12 4. 1, 4. 2 La Pine Urban Growth
+Boundary
+20 12- 0 16 12- 3- 12/ 3- 4- 13 3, 9 Housekeepingamendmentsto
+Destination Resort Chapter
+Central Oregon Regional
+2013- 002 1- 7- 13/ 1- 7- 13 4. 2 Large- lot Employment Land
+Need Analysis
+Comprehensive PlanMap
+Amendment, changing
+2013- 009 2- 6- 13/ 5- 8- 13 1. 3 designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive PlanMap
+2013- 012 5- 8- 13/ 8- 6- 13 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+Newberry Country: A Plan
+2013- 007 5- 29- 13/ 8- 27- 13 3. 10, 3. I I for Southern Deschutes
+County
+DESCHUTES COUNTY COMPREHENSIVE PLAN- 201 1
+CHAPTER5 SUPPLEMENTALSECTIONSSECTION5. 11 GOAL 5 ADOPTED ORDINANCES
+PAGE 1 OF 2— EXHIBIT" C" TO ORDINANCE 2014- 021
+Ordinance
+Date Adopted/
+Chapter/ Section Amendment
+Effective
+ComprehensivePlanMap
+Amendment, includingcertain20 13- 0 16 10- 21- 13/ 10- 21- 13 23. 01. 010
+property within City of Sisters
+Urban Growth Boundary
+Comprehensive PlanMap
+2014- 005 2- 26- 14/ 2- 26- 14 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+20 14- 0 12 4- 2- 14/ 7- 1- 14 3. 10, 3. I I Housekeepingamendmentsto
+Title 23.
+Comprehensive PlanMap
+Amendment, changing
+designation of certain
+property from Sunriver Urban2014- 021 8- X- 14/ 1 1- X- 14 23. 01. 010. 5. 10
+Unincorporated Community
+Forest to Sunriver Urban
+Unincorporated Community
+Utility
+DESCHUTES COUNTY COMPREHENSIVE PLAN- 20 I I 2
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. I I GOAL 5 ADOPTED ORDINANCES
+PAGE 2 OF 2— EXHIBIT" C" TO ORDINANCE 2014- 021
+LEGAL DESCRIPTION
+A FireTrainingFacilitySitelocatedintheSouthwest.One-QuarteroftheSoutheastOne-Quarter
+SW 1/ 4 SE 1/ 4) of Section Thirty- Three ( 33), Township Nineteen (19) South, RangeEleven
+11) East, Willamette Meridian, DeschutesCounty, Oregon, said site being more particularly
+described as follows:
+Commencingat the South One-Quarter (1/4) corner of said. Section 33, thence
+alongtheSouthline of saidSection33East60.00feetto theTRUEPOINTOF.
+BEGINNING; thenceleaving saidSouthline on aline perpendicularto saidSouth
+line North 350.00 feet; thence on a line parallel to and 350.00 feet from said,
+South line East 30000 feet; thence on a line perpendicular to said South line
+South 350, 00 feet to a point on the South line of said Section 33; thence along
+said South line West 300.00 feet to the TRUE POINT OF BEGINNING,
+containing 2.41 acres,more or less.
+TOGETHER WITH a 30.00 foot wide Access Corridor located in the Southwest One-Quarter of
+the Southeast One- Quarter ( SW 1/ 4 SE 1/4) of Section Thirty- Three ( 33), Township Nineteen
+19) South, Range Eleven ( 11) East, Willamette Meridian, DeschutesCounty, Oregon, said
+AccessEasementbeingmoreparticularly describedasfollows:
+Beginning at the South One-Quarter (1/4) corner of said Section 33, said point
+being the TRUE POINT OF BEGINNING of said Access Easement; thence
+leavingtheSouthlineof saidSection33alongtheNorth-Southcentersectionline
+of said Section 33 30.00 feet, more or less, to a point on a line parallel to and
+30. 00 feet from the South line of said Section 33; thence on said line that is
+parallel to and 30. 00 feet from said South line East 60. 00 feet, more or less, to a
+point that lies on a line perpendicular to said South section line and 60.00 feet
+East from said South One- Quarter corner of Section 33 ; thence along said line
+perpendicular to said South line South 30. 00 feet to a point on the South line of
+said Section 33; thence along said South line West 60.00 feet to the TRUE
+POINT OF BEGINNING.
+TOGETHER WITH a 30. 00 foot wide Access Corridor located in the Southwest One- Quarter
+SW 1/ 4) of Section Thirty- Three ( 33), Township Nineteen ( 19) South, Range Eleven ( 11) East,
+Willamette Meridian, DeschutesCounty, Oregon, saidAccessEasementbeing moreparticularly
+described as follows:
+The South 30. 00 feet of said SW 1/ 4 of said Section 33,  EXCEPTING
+THEREFROM the West 30. 00 feet of said South 30. 00 feet.
+PAGE 1 OF 1 -- EXHIBIT" D" TO ORDINANCE 2014- 021
+viripp,, N.--   WIl•- w     -.
+4i.-
+ri
+4
+Community District    ."     ' ,,
+4    #
+Ilk, iii   . 1
+Ili 141%
+1P z  *
+v    _____
+7
+D
+I
+Sunriver
+UUCP
+1111,--      Sunriver UUC
+Residential District r Forest District
+to
+a       ';
+a
+Y o
+4111P—"Ill ritr
+A,11
+fir(
+74
+STAc LN'     •
+Plan Amendment
+From Sunriver UUC Forest District
+A4
+ir .      to Sunriver UUC Utility Districtr. Or
+r)/ iI
+S
+7X
+a
+ti.,
+MI
+i .
+7
+7 wo-
+y' ;       r
+d„.;;*..'
+3,''''''''....''''..;
+t Ih r rt
+day
+J
+r1'
+ni
+1.,
+Fi
+j
+a
+a c
+7
+q 8
+Ss1 1.. ,., A y;”  , 91
+r•     u
+j
+P,
+1
+c
+r
+i
+er°
+ts
+e
+4
+or
+r 4Y
+a,,
+m
+S      ,
+Sunriver UUC
+k''':17'+  r t r
+t
+Utiliy District w
+iv Fr
+w ',
+Y1
+W^
+fitY1 e
+4';',.'.';'''''''"'"''
+f;
+74,,,,..
+f,
+00",',..
+1-
+l A,
+r
+Forest
+r
+wfl    '>
+w
+i
+Y 4,,„„, f1
+I+ a
+f'.,'  ydi,
+t”
+4x
+v     $   ,.
+Y
+s
+7
+rY
+Y y$'"       .
+0°
+rZ i P 4 M1       -*"" t4"
+z  .       1y. w , w t S +,  r'
+c
+F
+1       r
+a      ;"
+R j
+r
+o t  :
+r 9y
+4 i', "      '' "       Y
+t Y:
+M a   .  » t.
+Y
+wd R y      +
+a
+d w
+r;   i M     {
+r  ,
+u r S
+s"YS.
+N
+q 7 g "
+aap I t 1 p
+5y d
+Yaa '
+i ,  .;
+1 4y „ t i       ;
+Y
+d a* 4,',‘
+w
+d I""       r Y:   yd`
+9
+n      '  1
+1
+a
+r
+dPV4,',"4,.'''' '' :,.',',
+t '     ,    I
+Mr a 1
+6,      p
+t     &„
+r  '       r" M r,
+h
+1
+n', i
+f ' 1,43":
+4 7 i*      b1" t
+Y,,,, /     " u,..,  p;
+a d"' M .
+nt d
+COMPREHENSIVE PLAN MAPLe g end
+OBO
+F
+A RO OF COU
+cTpYuCNOTMY,
+M
+OSRSEIQON
+ERS
+Subject Property
+Tam 1• ' aney, Ch
+Comprehensive Plan Designation Exhibit" E"
+to Ordinance 2014- 021
+r'"
+Forest mhony
+as--
+Sunriver UUC Forest District Ala Unger, Commissioner.
+SUnriver UUC Residential District 1.A< ..  _._.
+Sunriver UUC Utility District
+0 150 300 800 900
+ATTEST: Recording Secretary
+Sunrvier UUC Community District
+t Date
+ivelDate:
+Ai
+des' of
+Tt2014August 12. 2014
+DECISION OF DESCHUTES COUNTY HEARINGS OFFICER
+FILE NUMBERS:      PA- 14- 1, ZC- 14- 1
+APPLICANT:   Sunriver Service District
+P. O. Box 3609
+Sunriver, Oregon 97707
+PROPERTY OWNER: Sunriver Environmental, LLC
+Post Office Box 3609
+Sunriver, Oregon 97707
+APPLICANT' S
+ATTORNEY: Tia Lewis
+Schwabe, Williamson& Wyatt
+360 S. W. Bond Street, Suite 400
+Bend, Oregon 97702
+REQUEST:     The applicant requests approval of a plan amendment and zone
+change from Sunriver Urban Unincorporated Community Forest
+District( SUF) to Sunriver Urban Unincorporated Community Utility
+District ( SUU), and an exception to Goal 4, Forest Lands, for a
+4. 28- acre site on the subject property.  The proposal would
+facilitate development of the site with a fire training facility.
+STAFF REVIEWER:  Cynthia Smidt, Associate Planner
+HEARING DATE:      April 22, 2014
+RECORD CLOSED:   May 13, 2014
+I.       APPLICABLE STANDARDS AND CRITERIA:
+A.      Title 18 of the Deschutes County Code, the Deschutes County Zoning Ordinance
+1.      Chapter 18.108, Urban Unincorporated Community Zone- Sunriver
+2.      Chapter 18.80, Airport Safety Combining Zone
+3.      Chapter 18. 88, Wildlife Area Combining Zone
+4.      Chapter 18. 112, Limited Use Combining Zone
+Section 18. 112. 010, Purpose
+5.      Chapter 18. 136, Amendments
+Section 18. 136. 010, Amendments
+Section 18. 136. 020, Rezoning Standards
+Sunriver Service District
+PAGE 1 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+B.      Title 22of the DeschutesCountyCode,the DevelopmentProceduresOrdinance
+1.      Chapter 22. 28. Land Use Action Decisions
+C.      Deschutes County Comprehensive Plan
+1.      Chapter 4, Urban Growth Management
+Section 4. 4, Sunriver
+D.      Oregon Administrative Rules( OAR) Chapter 660
+1.      Division 4, Interpretation of Goal 2 Exception Process
+OAR 660-004-0018, Planning and Zoning for Exception Areas
+OAR 660- 004- 0020, Goal 2, Part II(c), Exception Requirements
+OAR 660-004-0022, Reasons Necessary to Justify an Exception Under
+Goal 2, Part II( c)
+2.      Division 12, Transportation Planning
+OAR 660-012-0060, Plan and Land Use Regulation Amendments
+3.      Division 15, Statewide Planning Goals and Guidelines
+OAR 660-015-0000, Statewide Planning Goals and Guidelines 1-14
+OAR 660-015-0005, Statewide Planning Goals and Guidelines 15
+OAR 660-015-0010, Statewide Planning Goals and Guidelines 16-19
+II.      FINDINGS OF FACT:
+A.      Location: The subject property has an assigned address of 18305 CottonwoodRoad,
+Sunriver, and is further identified as Tax Lot 102 on Deschutes County Assessor' s map
+19-11-00. The propertyis locatedonthe east sideof the Sunriverresort community.
+B.      Zoning and Plan Designation:  The subject property is zoned Sunriver Urban
+UnincorporatedCommunityForest District (SUF).A small area in the northwestcorner of
+the property is zoned Forest Use ( F- 1). The property also is located within the Wildlife
+Area (WA) and Airport Safety(AS) CombiningZones.The subject propertyis designated
+Urban Unincorporated Community-Forest on the Deschutes County Comprehensive
+Plan map.
+C.      Site Description: The entire subject property is 332 acres in size and has relatively
+leveltopography. Vegetationconsistsof scatteredlodgepolepinetreesandnativebrush
+and grasses as well as irrigated fields on which sewage effluent has been applied. The
+propertyis developedwitha sewageeffluentstoragepondand irrigationfacility, wood
+and debris composting facility, accessory structures, access roads, parking areas, and a
+wireless telecommunications facility consisting of a 150-foot-tall lattice tower and ground
+equipment. Primaryaccessto the subjectpropertyis from CottonwoodRoadon the
+north. A gravel U.S. Forest Service ( USFS) road known as Crawford Road provides
+access to the wireless telecommunications facility from South Century Drive.
+Sunriver Service District
+PAGE 2 OF 34-- EXHIBIT " F" TO ORDINANCE 2014- 021
+The proposed 4. 28- acre site for the fire training facility is located near the southeast
+corner of the subject property and will take access from the USFS road. The site is
+located adjacent to the southern property boundary and includes a 1.87-acre road
+easement and a 2.41- acre square area on which the fire training facility would be
+located. Accordingto the Flood Insurance Rate Map (FIRM) for DeschutesCounty and
+the National Wetlands Inventory, respectively, the subject property is not located within
+the 100- year flood plain and contains no mapped wetlands.
+D.      Soils: Accordingto Soil ResourceInventoryfor the DeschutesNationalForest,there are
+two soil units mapped on the subject property.
+Mapping Unit 64. This soil type includes 70 percent or more of Landtype ( or Unit) 64
+soils and may have inclusionsof Landtypes14, 63, 64, 76, 6G, 6A, and 6B. Vegetation
+is composed ponderosa pine trees and native shrubs and grasses. According to the soils
+characteristics data for this mapping unit, the productivity is Site Class 5, which
+estimates a range of 56 to 65 cubic feet per acre per year of wood fiber.
+Mapping Unit 6J. This soil type includes 70 percent or more of Landtype 6J soils and may
+have inclusions of Landtypes 15, 63, 64, and 41. Vegetation is composed primarily of
+ponderosa pine and lodgepole pine trees and native shrubs and grasses. According to the
+soils characteristics data for this mapping unit, the productivity is Site Class 5, which
+estimates a range of 56 to 65 cubic feet per acre per year of wood fiber.
+E.      Surrounding Zoning and Land Uses: The area surrounding the subject property
+consists of large forest- zoned parcels in private and public ownership as well as the
+Sunriver resort zoned Urban Unincorporated Community ( UUC). Adjacent to the subject
+property on the west is a long narrow parcel owned by Sunriver Environmental, LLC,
+which abuts the Great Northern Railroad ( Burlington Northern- Santa Fe or BNSF) right-
+of- way.  Farther west are residential properties within the Sunriver community.
+Cottonwood Road abuts the northern property boundary. Farther to the north as well as
+to the south and east are public forest lands managed by the USFS. Approximately 600
+feet south of the subject property is land owned by Sunriver Water, LLC zoned Sunriver
+Utility District ( SUU)  and developed with three water reservoirs,  small accessory
+structures, and a manufactured home.
+F.      Land Use History: Duringthe 1997comprehensiveplan updatethe county includedthe
+subject property within the boundaries of the Sunriver UUC for the storage and disposal
+of sewage effluent through ground application. The property subsequently received
+several land use approvals. On April 11, 2001, the county approved an accessory
+structure  ( AD- 01- 3).  On December 9,  2002,  the county approved a commercial
+composting facility ( CU- 02- 98, SP- 02- 48). In February 2008, the county approved a
+wireless telecommunications facility ( CU- 06- 101). However, the staff report states this
+approved facility was never established. In May of 2009, the county approved another
+wireless telecommunications facility that was constructed( CU-09- 15).
+G.      Procedural History: In July 2011 the applicant requestedconditional use approval to
+establish a fire training facility on a lot zoned Rural Residential (RR-10) and located in
+the Deschutes River Recreation Homesites Subdivision  ( CU- 11- 24).  The record
+indicates the applicant withdrew that application in December of 2011. The subject plan
+amendment, zone change and goal exception applications were submitted on February
+20, 2014 and were accepted as complete on March 20, 2014. A public hearing on the
+Sunriver Service District
+PAGE 3 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+applicationswas held on April 22, 2014. At the hearing, the HearingsOfficer received
+testimonyandevidence, leftthewrittenevidentiaryrecordopenthroughMay13, 2014,
+and allowed the applicant through May 20, 2014 to submit final argument pursuantto
+ORS 197.763. The applicantsubmittedits final evidenceand argumenton May 6, 2014.
+The record closed on May 13, 2014. Becausethis request includesa plan amendment,
+the 150-dayperiodfor issuanceof a finallocallandusedecisionunderORS215.427is
+not applicable.
+H.      Proposal: The applicantrequestsapprovalof a plan amendmentandzone changefrom
+SUF to SUU, and an exception to Goal 4, Forest Lands, for a 4.28-acre site on the
+subject property ( hereafter " site'). The applicant intends to develop the site with a fire
+trainingfacilityfor theSunriverFireDepartment. Theapplicantdidsubmita concurrent
+requestfor approvalof the fire training facility. However, the applicant's burdenof proof
+and supplemental materials describe the proposed use and facility as follows. The
+physicalfacility would consist of a prefabricatedstructurecalled a fire simulator
+comprised of a 21'  by 14' 6"  one- story component and a 21'  by 25' 4" two- story
+component with features including windows, doors, a "live burn" room, a temperature
+monitoringsystem, interiorstairsandan exteriorladderwith a roofhatch. Thefacility
+would includea vehicle parkingand maneuveringarea aroundthe structureand a larger
+surrounding area cleared of vegetation.
+Thefacilitywouldbeusedfor routineweeklytrainingdrillsandquarterlylivefiretraining
+exercises, and structural search and rescue and vertical ventilation training. The routine
+trainingwouldoccurbetween9:00a.m. and5:00p.m. andwouldlastfornomorethan3
+hours. There would be 3-4 routine evening or night training drills per quarter concluding
+nolaterthan10:00 p.m. Nomorethantwoemergencyandtwoutilityvehicleswouldbe
+located on the site at any one time. The training facility would not house staff offices.
+The trainingwould allowfire departmentpersonnelto maintainrequiredcertifications.
+Public/PrivateAgencyComments: ThePlanningDivisionsentnoticeoftheapplicant's
+proposalto a number of public and private agencies and received responsesfrom: the
+DeschutesCountySeniorTransportationPlanner; and the SunriverOwnersAssociation.
+These comments are set forth verbatim at pages 3-4 of the staff report and are included
+in the record. The following agencies did not respond or had no comments: the
+DeschutesCountyAssessorand RoadDepartment; the OregonDepartmentsof Fish
+and Wildlife ( ODFW) and Land Conservation and Development ( DLCD);  and the
+Sunriver Fire Department, Sunriver Resort, and Sunriver Utilities.
+J.      Public Notice and Comments: The PlanningDivisionmailed individualwritten noticeof
+the applicant' s proposal and the public hearing to the owners of record of all property
+located within 750 feet of the subject property. In addition, notice of the public hearing
+was published in the Bend Bulletin newspaper, and the subject property was posted with
+a notice of proposed land use action sign. As of the date the record in this matter closed
+the countyhad receivedtwo lettersfromthe publicand one letterfromthe Sunriver
+Owners Association in response to these notices. No members of the public testified at
+the public hearing. Publiccommentsare addressedin the findings below_
+K.      Lot of Record: The staff report states the county recognizes the subject property as a
+legal lot of record based on previouslyissued land use approvalsand buildingpermits.
+Sunriver Service District
+PAGE 4 OF 34 — EXHIBIT " F" TO ORDINANCE 2014- 021
+III.      CONCLUSIONS OF LAW:
+GOAL EXCEPTION
+A.      Oregon Administrative Rules, Chapter 660
+1.       Division 4, Interpretation of Goal 2 Exception Process
+a.      OAR 660-004-0018, Planning and Zoning for Exception Areas
+1)     Purpose. This rule explains the requirements for adoption of
+plan and zone designations for exceptions. Exceptions to one
+goal or a portion of one goal do not relieve a jurisdiction from
+remaining goal requirements and do not authorize uses,
+densities, public facilities and services, or activities other
+than those recognized or justified by the applicable
+exception...
+4)     " Reasons" Exceptions:
+a)     When a local government takes an exception under the
+Reasons" section of ORS 197. 732( 1)( c) and OAR 660-
+004- 0020 through 660- 004- 0022,   plan and zone
+designations must limit the uses,  density,  public
+facilities and services, and activities to only those that
+are justified in the exception.
+b)     When a local government changes the types or
+intensities of uses or public facilities and services
+within an area approved as a " Reasons" exception, a
+new" Reasons" exception is required.
+c)     When a local government includes land within an
+unincorporated community for which an exception
+under the " Reasons" section of ORS 197. 732( 1)( c) and
+OAR 660- 004- 0020 through 660- 004- 0022 was
+previously adopted, plan and zone designations must
+limit the uses, density, public facilities and services,
+and activities to only those that were justified in the
+exception or OAR 660- 022- 0030, whichever is more
+stringent.
+FINDINGS: The applicant requests approval of a " reasons" exception to Goal 4 to allow a
+change in the comprehensive plan designation and zoning of the 4. 28- acre subject site from
+Sunriver Urban Unincorporated Community Forest ( SUF) to Sunriver Urban Unincorporated
+CommunityUtility District (SUU). This rule limits any approved "reasons" exceptionto the uses,
+density, public facilities and services, and activities that are justified in the exception. As
+discussed in the findings below, such limitations are established through the adoption of a
+Limited Use( LU) Combining Zone.
+Sunriver Service District
+PAGE 5 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+The existing SUF Zone includes a tract of land approximately 366 acres in size located east of
+the BNSF railroad tracks and the Sunriver resort. This property originally was planned for forest
+uses and zoned F- 1. However, in 1997 the Sunriver UUC boundary was expanded to include
+this land in order to provide a site for sewage effluent storage and disposal for the Sunriver
+resort( Ordinance 97-076). The county did not adopt an exception to Goal 4 for this amendment
+because the only uses proposed for the UUC expansion area were uses permitted in the SUF
+Zone. For this reason, the Hearings Officer finds Subsections ( 4)( b) and ( c) of this rule do not
+apply as the original UUC amendment was not approved through a" reasons" exception.
+b.      OAR 660- 004- 0020, Goal 2, Part II( c), Exception Requirements
+1)     If a jurisdiction determines there are reasons consistent with
+OAR 660- 004- 0022 to use resource lands for uses not allowed
+by the applicable Goal or to allow public facilities or services
+not allowed by the applicable Goal, the justification shall be
+set forth in the comprehensive plan as an exception. As
+provided in OAR 660- 004- 0000( 1), rules in other divisions may
+also apply.
+FINDINGS: As addressed in the findings below, incorporated by reference herein, the Hearings
+Officer has found the applicant' s proposal satisfies the requirements for a " reasons" exception
+under OAR 660- 04- 0022. I also have found the justification for the exception will be included in
+the comprehensive plan.
+2)     The four standards in Goal 2 Part II( c)  required to be
+addressed when taking an exception to a goal are described in
+subsections ( a) through ( d) of this section, including general
+requirements applicable to each of the factors:
+a)     " Reasons justify why the state policy embodied in the
+applicable goals should not apply."  The exception
+shall set forth the facts and assumptions used as the
+basis for determining that a state policy embodied in a
+goal should not apply to specific properties or
+situations, including the amount of land for the use
+being planned and why the use requires a location on
+resource land;
+FINDINGS:
+Basis for Determining State Policy Embodied in the Goals Should Not Apply. The state
+policy embodied in Goal 4 is to conserve forest lands for forest use as well as to protect soil, air
+and water quality, fish and wildlife resources and recreational opportunities. The subject
+property was included in the Sunriver UUC boundary for the purpose of siting sewage effluent
+storage and disposal facilities for the Sunriver community. No exception to Goal 4 was taken,
+and no exception analysis was done, since these uses were permitted in the SUF Zone.
+The applicant proposes to utilize the 4. 28- acre subject site for a fire training facility, a use not
+permitted in the SUF Zone. Therefore, the applicant requests approval to re- designate and re-
+zone the site to SUU where the proposed fire training facility would be an allowed use. The
+applicant also proposes establishment of an LU Zone to limit uses on the subject site to a fire
+Sunriver Service District
+PAGE 6 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+trainingfacilityandanaccessroad. Therestofthesubjectpropertywouldremaininitscurrent
+SUF zoning and uses that are primarily utility uses — i. e., sewage effluent and disposal, wood
+anddebrisrecycling,anda wirelesstelecommunicationsfacility.
+The proposeduse for the subjectsite wouldbe a fire trainingfacilityfor the SunriverFire
+Department ( hereafter" department" or " fire department"). The record indicates the department
+employs 11 career staff and up to 20 reserve firefighters. The department's service area
+encompasses 322 square miles including the Sunriver UUC and surrounding areas through
+mutualaid agreementswith the La Pine RuralFire ProtectionDistrict. The servicearea includes
+largeforested areasas well as hundredsof rural residences.The applicantarguesthe proposed
+facilityis necessaryto providea locationfor emergencypersonnelto practicefirefighting
+techniquesin a settingthat is both closeto the department's officeand primaryservice area and
+is far enough from residences to assure no risk of fire thereto. At the public hearing, the
+department's chief Art Hatch testified the proposed training facility would be used for both
+structuralandwildlandfirefightingtraining. ChiefHatchstatedtheproposedfacilitysiteis in an
+areaalreadyclearedof trees,  is not utilizedor plannedfor treeharvesting,  andwill be
+surroundedbylandplannedandusedforsewageeffluentstorageanddisposal.
+The staff report states staff believes the applicant's proposal is consistent with the policy
+embodiedby Goal 4. However, the HearingsOfficerfinds that sincethe proposalwould change
+theplandesignationandzoningof thesubjectsiteto a non-resourcedesignationandzone, it is
+not consistentwith Goal4. Nevertheless, I find the applicanthas demonstratedthe policy
+embodied in Goal 4 should not apply to the proposedsite for several reasons. First, the site
+representsaverysmallportionofthesubjectproperty(approximately1.2 percent). Second, the
+siteisin anareathatalreadyhasbeenclearedoftreesandis notplannedfortimberharvesting.
+The record includes three aerial photographsof the subject property showing the amount of
+landclearedfor sewageeffluentstorageandlandapplicationincreasedsignificantlyfrom2000
+to 2012.
+1
+Finally, thesubjectpropertyhasbeenplannedfor, andlargelyconvertedto, non-
+resource uses.
+The Amount of Land Required for the Use Being Planned. The 4.28-acre subjectsite consists
+of a 1.87-acreroadeasementthat providesaccessroadto thewirelesstelecommunicationsfacility
+and a 2.41-acre square area on which the fire trainingfacilitywould be located. The applicant's
+burden of proof states the 2.41-acre area is the size neededto accommodatethe fire training
+facility, associatedvehicleparkingandmaneuveringareas, andanadequatebufferareaaround
+the structure that is cleared of vegetation.
+Whythe UseRequiresa Locationon ResourceLand. Thestaffreportstatesstaffcouldnot
+find that the applicant had adequately addressedthis exceptionfactor because the applicant
+had not submitted an alternative sites analysis. The applicant submitted such an analysis at and
+followingthe publichearing. As discussedin detailin the findingsbelow, incorporatedby
+reference herein, the Hearings Officer has found from the alternative sites analysis that the
+applicant has demonstrated the proposed use requires a location on resource land.
+b)     " Areas that do not require a new exception cannot
+reasonably accommodate the use".  The exception
+must meet the following requirements:
+1Thesephotosareattachedas exhibitsto planningstaffs May6, 2014memorandumto the Hearings
+Officer.
+Sunriver Service District
+PAGE 7 OF 34 — EXHIBIT " F" TO ORDINANCE 2014- 021
+A)     The exception shall indicate on a map or
+otherwise describe the location of possible
+alternative areas considered for the use that do
+not require a new exception. The area for which
+the exception is taken shall be Identified;
+FINDINGS: The applicant' s burden of proof stated the fire department searched for several
+years for a suitable fire training facility site and considered several alternative sites. The
+applicant submitted an alternative sites analyses at and following the public hearing in
+memoranda dated April 22, 2014(" April 22 memo") and May 6, 2014(" May 6 memo"). Exhibit A
+to the April 22 memo includes a map generally showing the location of possible alternative sites
+that do not require a new exception within three miles of the subject site.
+B)     To show why the particular site is justified, it is
+necessary to discuss why other areas that do
+not require a new exception cannot reasonably
+accommodate the proposed use.  Economic
+factors may be considered along with other
+relevant factors in determining that the use
+cannot reasonably be accommodated in other
+areas.  Under this test the following questions
+shall be addressed:
+I)      Can the proposed use be reasonably
+accommodated on nonresource land that
+would not require an exception,
+including increasing the density of uses
+on nonresource land? If not, why not?
+FINDINGS: In its May 6 memo, the applicant stated its parametersfor identifying potential
+alternative sites for the proposed fire training facility as follows:
+a location within three miles of the fire department' s fire station;
+a minimum size of 2 to 2. 75 acres;
+a minimum distance of 300 feet from the nearest adjacent uses, preferably with dense
+intervening vegetation for buffering and screening;
+good all- weather road access with at least a 22- foot- wide improved surface;
+sufficient area for fire engines and emergency vehicles to turn around;
+land zoned for industrial uses or public facilities and not residential areas;
+low improvement costs; and
+minimal to no public opposition.
+The Hearings Officer finds that with the exception of the last factor, these parameters are
+reasonable and appropriate considering the nature of the proposed use for the subject site. In
+particular, I find the three- mile radius for the search area properly reflects the applicant' s need
+to train staff within reasonably close proximity to the department' s fire station and service area
+so that staff can promptly respond to emergencies that may occur during training exercises.
+However, I find the presence or lack of public opposition, while of concern to the applicant, is
+not a relevant factor in determining the appropriate search area for the alternative sites analysis.
+Nevertheless, as discussed in the findings below concerning the ESEE ( environmental, social,
+economic and energy) consequences analysis, I have found it is relevant when considering the
+Sunriver Service District
+PAGE 8 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+social consequences of selecting the subject property over other potential sites.
+Theapplicant's April22 andMay6 memosstatelandwithinthethree-milesearchradiusthat
+does not require a goal exception includes land within the Sunriver UCC (except the subject
+property), land zoned RR-10 located outside the Sunriver UUC to the south and southwest
+withina ruralsubdivisionandwithin the Calderaand Crosswaterdestinationresorts.
+Withrespectto landwithintheSunriverUUC, the memosstatetheproposedfirestationuseis
+permittedconditionallyin severalzoningdistrictswithinthe SunriverUCCand is permitted
+outrightsubjectto site plan reviewin the SUA district. However, the memosstateall landswithin
+thesezoningdistrictsnot requiringa goalexceptionare "committedanddeveloped" with
+existingSuniverresort-relateduses. Inaddition, thememosnotelandwithintheSunriverUUC
+is developedat urbanand/or suburbandensitiesthat would make difficultmitigationof potential
+negativeimpactsfrom the fire trainingfacilitysuch as smokefrom live-firetrainingexercises.
+With respectto land outsidethe Sunriver UUCzoned RR-10, the applicant's memosstatethese
+landsare privatelyownedandaredevelopedwith residentialand/or otheruseswithwhichthe
+proposedfiretrainingfacilitylikelywouldbeincompatibleduetoimpactsfromsmokeandnoise.
+The memos note one of these RR-10 zoned sites is the parcel for which the applicantsought
+conditionaluse approvalfor a fire trainingfacility in 2011 (CU-11-24), and which ultimatelywas
+rejectedbytheapplicantbecauseof significantneighborhoodoppositiondueto concernsabout
+smoke and uncontrolled fires moving off the training facility site.
+Finally, withrespectto landoutsidetheSunriverUUCandwithintheCalderaandCrosswater
+destination resorts, the applicant's May 6 memo states the proposedfire training facility could
+not be sited in those resorts for the following reasons:
+Al! uses approved within a destination resort must be integral to the operation of
+the resort, a part of and intended to serve persons at the resort. The proposed
+fire trainingfacilityservesthe SunriverFireDepartment, the responseareafor
+which encompasses 322 square miles from north of Lava Butte and south to
+Vandevert Road, east to the high lakes and west to USFS Road 45. It would not
+be allowedwithin the destinationresortsof Crosswateror Caldera. Furthermore,
+any areaswithin these resortsnot approvedfor resort relatedfacilitiesand
+structures are committed and devoted to open space uses.  Open space
+designations within the resort specifically prohibit permanent, non- recreational
+related structures."
+The Hearings Officer understands these comments reflect the applicant' s belief that the
+Crosswater and Caldera destination resorts, although located within the fire department' s
+service area, do not have land that is suitable to accommodate the proposed fire training facility.
+Copies of the county's decisionsapprovingthe Crosswaterand Calderadestinationresorts are
+included in this record as Exhibit " B" to planning staff' s May 6, 2014 memorandum to the
+Hearings Officer ( Crosswater) and Exhibits PH- 1 and PH-2 attached to the applicant' s May 6,
+2014 memorandum. Those decisions indicate no fire station or similar facility was included in
+either approval and that the resorts would be served by the Sunriver fire department.  I
+understand that land within these two destination resorts already has been committed to and/or
+developed with uses that are not compatible with the proposed fire training facility.
+InitsMay6 memo,theapplicantstatedthelandsnotrequiringa goalexceptionwithinthethree-
+mile-radiussearcharea alsowere not of sufficientsize to accommodatethe proposedfire
+Sunriver Service District
+PAGE 9 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+trainingfacilityanddidnothavesignificantinterveningvegetationbetweenthetrainingsiteand
+adjacentuses. Finally, the memostatedthe subjectsite would be less costlyto develop
+becauseit alreadyhasroadaccessandis fenced, andnotedthe proposedsite "receivedlittle
+publicopposition" consistingof lettersfromtwoSunriverlot ownerswhosepropertyis located
+approximately3,000feet from the subject site.
+Based on the applicant's April 22 and May 6 memos and the information and argument
+contained therein, the Hearings Officer finds the applicant has demonstrated the proposed use
+cannotreasonablybe accommodatedon nonresourcelandwithinthethree-mile-radiussearch
+area that would not require an exception,  including increasing the density of uses on
+nonresource land.
+ii)     Can the proposed use be reasonably
+accommodated on resource land that is
+already irrevocably committed to
+nonresource uses not allowed by the
+applicable Goal, including resource land
+in existing unincorporated communities,
+or by increasing the density of uses on
+committed lands? If not, why not?
+FINDINGS: The subject property is located within the Sunriver UUC on land zoned SUF— i. e.,
+resource land included within the UUC boundaries. The subject property was brought into the
+UUC for the purposeof providinga site for the effluentstorageand land application. Therefore,
+the subjectpropertyis resourceland in an existingunincorporatedcommunity. The record
+indicates there is no other resource land in the Sunriver UUC, and none that is irrevocably
+committed to nonresource uses not allowed by Goal 4. The applicant is proposing the subject
+site be zoned SUU which would not increase the density of uses allowed. For these reasons,
+the Hearings Officerfinds the applicant has demonstratedthat the proposedfire trainingfacility
+cannotreasonablybe accommodatedon resourcelandthatis alreadyirrevocablycommittedto
+nonresource uses not allowed by Goal 4, including resource land in existing unincorporated
+communities, or by increasingthe densityof useson committedlands_
+iii)     Can the proposed use be reasonably
+accommodated inside an urban growth
+boundary? If not, why not?
+FINDINGS: The record indicates the nearest urban growth boundary ( UGB) is the Bend UGB
+located approximately 10 miles north of the subject property. The applicant's burden of proof
+states, and the Hearings Officer agrees, that the proposed fire training facility must be near the
+department' s offices and its service area to allow the department' s staff to promptly respond to
+emergencies that should arise during training exercises. Moreover, due to the nature of the
+proposedtrainingfacility, whichwouldincludelivefireexercises, thefacilityneedsto belocated
+an adequate distance from residential properties to mitigate potential impacts. Location within a
+UGBlikelywouldincreasethelikelihoodof negativeimpacts. Therefore, Ifindtheproposedfire
+trainingfacilitycannotreasonablybeaccommodatedonlandinsideanurbangrowthboundary.
+iv)     Can the proposed use be reasonably
+accommodated without the provision of a
+proposed public facility or service?   If
+not, why not?
+Sunriver Service District
+PAGE 10 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+FINDINGS: The applicant's burden of proof states the proposedfacility will not require public
+facilitiesand services. Therefore,the HearingsOfficerfinds this factoris not applicable.
+C)     The" alternative areas" standard in paragraph B
+may be met by a broad review of similar types
+of areas rather than a review of specific
+alternative sites.  Initially, a local government
+adopting an exception need assess only
+whether those similar types of areas in the
+vicinity could not reasonably accommodate the
+proposed use. Site specific comparisons are
+not required of a local government taking an
+exception unless another party to the local
+proceeding describes specific sites that can
+more reasonably accommodate the proposed
+use. A detailed evaluation of specific alternative
+sites is thus not required unless such sites are
+specifically described, with facts to support the
+assertion that the sites are more reasonable, by
+another party during the local exceptions
+proceeding.
+FINDINGS: As discussed above, the applicant submitted an alternative sites map and analyses
+in its April 22 and May6 memos. The applicant's analysiscontainsa broad reviewof land within
+three miles of the fire department's fire station. The onlysite-specificcomparisonincludedin the
+analyses involves the RR-10 zoned parcel'proposed in 2011 for the fire training facility and
+ultimatelyrejectedby the applicantdue to neighborhoodopposition. No other partyto this
+application clearly identified an alternative site or sites that could more reasonably
+accommodate the proposed use. Opponents Jean and John Rudnicki made a general reference
+toafacility"withinashortdistanceintheCityofBend" butdidnotidentifyitsspecificlocationor
+characteristicsor howtheycomparewith the subjectsite. OpponentDianaEagenstatedher
+beliefthat "there is so muchpropertyout there" that couldbe usedfor the proposedfacility
+withoutaffectingherpropertybutdid not identifyany specificalternativesites. The Hearings
+Officer finds these comments are not sufficient to identify "specific alternative sites" the
+applicant and the county must analyze. Therefore, I find the requirementfor an alternativesite
+analysishas been met by a broadreviewof similartypes of areasand a determinationof
+whether those areas reasonably could accommodate the proposed use.
+c)     " The long- term environmental, economic, social and
+energy consequences resulting from the use at the
+proposed site with measures designed to reduce
+adverse impacts are not significantly more adverse
+than would typically result from the same proposal
+being located in areas requiring a goal exception other
+than the proposed site." The exception shall describe:
+the characteristics of each alternative area considered
+by the jurisdiction in which an exception might be
+taken, the typical advantages and disadvantages of
+using the area for a use not allowed by the Goal, and
+the typical positive and negative consequences
+Sunriver Service District
+PAGE 11 OF 34 — EXHIBIT " F" TO ORDINANCE 2014- 021
+resulting from the use at the proposed site with
+measures designed to reduce adverse impacts.  A
+detailed evaluation of specific alternative sites is not
+required unless such sites are specifically described
+with facts to support the assertion that the sites have
+significantly fewer adverse impacts during the local
+exceptions proceeding. The exception shall include
+the reasons why the consequences of the use at the
+chosen site are not significantly more adverse than
+would typically result from the same proposal being
+located in areas requiring a goal exception other than
+the proposed site. Such reasons shall include but are
+not limited to a description of: the facts used to
+determine which resource land is least productive, the
+ability to sustain resource uses near the proposed
+use,  and the long- term economic impact on the
+general area caused by irreversible removal of the land
+from the resource base. Other possible impacts to be
+addressed include the effects of the proposed use on
+the water table, on the costs of improving roads and
+on the costs to special service districts ( underscored
+emphasis added);
+FINDINGS: This standard requires the Hearings Officer to identify and analyze the long-term
+environmental, economic, social and energy consequencesresulting from the proposed fire
+trainingfacility on the subjectsite to determinewhetheror not they are significantlymore
+adverse than would typically result from the proposal use occurringin other areas requiring a
+goal exception. The applicant' s burden of proof states:
+These criteria do not apply, as they relate to alternative sites requiring an
+exception to Goal 4. As described under [ OAR] 660- 004- 0020( 1) above, the
+alternative considered for the Fire Training Facility was zoned RR- 10. Since the
+site in this matter is within the Urban Unincorporated Community of Sunriver an
+ESEE analysis is not required."
+As discussed in the findings above, the applicant' s burden of proof did not include an alternative
+sites analysis but rather identified only the RR- 10 zoned parcel the applicant previously
+consideredfor siting the fire training facility. The above-quoted statementis consistentwith the
+applicant's very limited initial approach to the Goal 4 exception process.  However,  the
+applicant's April 22 and May 6, 2014 memorandaaddressthe ESEEgoal exceptioncriteria in a
+more comprehensive manner. The April 22 memo states in relevant part:
+Environmental.
+The long-term environmentalconsequencesof locating the proposed use on the
+subject property could conceivably include impacts to water quality,  wildlife
+habitat and degradation of the resource. There are no bodies or water courses
+on the subject property which could be impacted by the use.  The applicant
+proposes to bring all water to the site and contain all surface water with catch
+basis or drainage swales in conformance with DEQ requirements.  These
+protective mitigation measures can be designed,  required,  monitored and
+Sunriver Service District
+PAGE 12 OF 34-- EXHIBIT " F" TO ORDINANCE 2014- 021
+regulated through site plan review to ensure no adverse impacts to water quality.
+Therecould be some minimaldisturbanceto wildlifehabitat; howeverthe
+propertyis not withina designatedwildlifeprotectionareaor knownmigration
+corridor. Environmental impacts to the site will be minimal as only a small portion
+of the site, 2.41 acres of the 4.28 acres subject to the amendment, will be
+occupiedby thefire trainingfacility.  Thepropertyis not beingmanagedfor
+resourceuse but insteadis alreadydevelopedwith utility usesto serve the resort
+community.
+Economic.
+Theeconomicimpactsof the proposeduse on the site are minimalas thereis no
+need for extensions of public infrastructure or the expenditure of public money or
+services to support the use. The access is via an existing road used to serve the
+cel [ sic] tower and the subject property is already supporting public utility uses
+includingthe cal [sic] towerandsewagetreatmentfacility. Thecostsavingsto
+the community from having fire personnel train in- service exceeds $ 40, 000
+annually. Locatingthe use on an alternativesite requiringa goal exceptionwould
+meanconvertingresourcepropertyto a non-resourceuse. Thiswouldhavea
+much greater potential impact on the resource itself and surrounding property
+values, particularlyupon resourcemanagementand recreationaluses.  The
+remote location ensures little to no economic impacts to surrounding property
+values.
+Social.
+Thesocial consequencesof locatingthe proposed use on the site are minimalin
+that the remote location ensures the resort owners and visitors will experience
+little to no impact to recreation, aesthetics or other social interests from the noise,
+odor and smoke that could be association with the use.
+Energy.
+Theenergyconsequencesof locatingtheproposeduseonthesitearepositivein
+that it allows for efficient use of limited public funds, location in close proximity to
+the department facilitates in-service training thereby preserving limited public
+fundsand utilityservices. Thetransportationinfrastructureto servethe useis
+already in place and no new roads or services are necessary.
+These above- described consequences of locating the use on the proposed site
+are not significantlymore adverse, and in fact are substantiallyless adversethan
+locatingthe use on a site where a goal exceptionwouldbe required. As
+discussed, the only sites also requiring a goal exception which could meet the
+Fire Department locational needs for this use are surrounding federal lands
+zoned Forest and managed by the USFS. Since these lands are in public
+ownership, mostly vacant, undevelopedand in managementfor resource and/or
+recreation, open space use, and impacts to them from the proposed use will be
+more detrimental, more adverse to the resource than locating the use on the
+subjectproperty which, despite its zoning, is within the Sunriver UUCboundary,
+inprivateownership, andis notbeingmanagedfor a resourceusebutinsteadis
+already being used for utility purposes to serve the resort community.
+Sunriver Service District
+PAGE 13 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+The applicant's May 6, 2014 memo addressesthe ESEE consequencesanalysis specifically
+with respectto the Calderaand Crosswaterdestinationresorts, statingin relevantpart:
+At the hearing,  it was pointed out by Staff that Crosswaterand Caldera
+destinationresorts are located within the 3-mile radius and zoned F-2 with a DR
+destinationresort] overlay, thus falling underthe ESEE analysis. . . .
+Locatingthis use withinthe destinationresortareas, even if allowed, would
+require some expenditure of public monies to acquire a site and improve it to
+accommodate the use. . . . Any location within the destination resort areas would
+be significantly closer to adjacent uses causing more adverse social
+consequences. . . . Any less remote location[ than the subject site] would require
+expenditures to minimize impacts such as introduced landscaping, screening and
+possible site clearing and improvements."
+The Hearings Officer notes that contrary to the applicant's statement above, the subject
+propertyis locatedwithin "a designatedwildlifeprotectionareaor knownmigrationcorridor"
+because it is zoned WA due to its location within inventoried significant elk habitat.
+Nevertheless, I agree with the applicant' s ESEE analysis and conclusion that the consequences
+of locating the proposed fire training facility at the subject site are not significantly more adverse
+than would typically result from the same proposalbeing locatedin other areas requiringa goal
+exception. In particular, I find that because the subject property already is developed with utility
+uses and is not in resource management, the siting of the proposed facility on other forest-
+zoned lands in the surrounding area would have significantly more consequences — whether
+that land is federal forest land or located within a destination resort.
+For the foregoingreasons, the HearingsOfficerfindsthe applicant's proposalsatisfiesthis
+administrative rule.
+d)     " The proposed uses are compatible with other adjacent
+uses or will be so rendered through measures designed
+to reduce adverse impacts."  The exception shall
+describe how the proposed use will be rendered
+compatible with adjacent land uses. The exception shall
+demonstrate that the proposed use is situated in such a
+manner as to be compatible with surrounding natural
+resources and resource management or production
+practices. " Compatible" is not intended as an absolute
+term meaning no interference or adverse impacts of any
+type with adjacent uses.
+FINDINGS: The Hearings Officer finds this rule requires me to find that the proposed fire
+trainingfacilityis compatiblewithotheradjacentusesor will be so renderedthroughmeasures
+designedto reduceadverseimpacts, andthe facilityalso is situatedin sucha mannerthat it will be
+compatible with surrounding natural resources and resource management or production practices.
+As discussed in the Findings of Fact above, the area surrounding the subject property consists
+of large forest- zoned parcels in public and private ownership and the Sunriver, Crosswater and
+Caldera resort communities. To the west is the BNSF railroad right-of-way and beyond the
+Sunriver Service District
+PAGE 14 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+railroad tracks are Sunriver residential properties.
+With respectto compatibilitywith surroundingnaturalresources, the staff reportstates, and
+basedon thisrecordtheHearingsOfficeragrees, thatthereis noevidenceforestlandson the
+subjectpropertyhavebeenor areactivelybeingmanagedfortimberproductionorharvest. A
+largeportionofthesubjectpropertyisdevelopedwithsewageeffluentstorageanddisposaland
+a woodanddebriscompostingfacility. In addition, the propertyis developedwitha wireless
+telecommunicationstowerfacility. Withrespectto surroundingfederalforestlands, I findthere
+also is no evidence in this record that these lands are actively engaged in timber production,
+althoughtheylikelyarebeingmanagedfor the timberresource. Therefore, the proposed
+trainingfacilitywillbelocatednearpotentiallycombustibletimber. Nevertheless, althoughthe
+USFS was sent notice of the applicant' s proposal, it did not submit comments, strongly
+suggestingithasnoconcernsabouttheproposedfacility. Theapplicant'sburdenofproofstates
+thefiredepartmentwillimplementsafetyprecautionsto ensurethesurroundinglandswillnotbe
+negativelyimpactedbytheactivitiesof theproposeduse. Andasdiscussedthroughoutthis
+decision, the applicant cannot establish the training facility without first obtaining county site
+planreviewandapprovalthroughwhichthefacilitiesdesignandoperatingcharacteristicswillbe
+reviewed, and conditions of approval imposed, to assure the proposed use is compatiblewith
+adjacent resource uses.
+With respect to adjacent public service and utility uses, the Hearings Officer finds the proposed
+firetrainingfacilitywillbecompatiblewiththesewageeffluentstorageandlandapplicationuse
+on the subjectpropertyas well as the wood and debrisrecyclingfacilityand the wireless
+telecommunicationsfacility. I findtheproposedtrainingfacilitywillbesimilartotheseutilityuses
+onthesubjectproperty, aswellasto theutilityusesonlandto thesouthownedbytheSunriver
+Water District.
+With respectto adjacentresidentialuses, the HearingsOfficer has foundthe closest residences
+are locatedwithin the Sunriverresort and approximately3,000feet to the west. As discussedin
+the findings above,  I have found this distance, coupled with intervening topography and
+vegetation and the BNSF railroad track berm, will serve as a significant buffer between the
+subject site and the nearestresidentialuses. As also discussedabove, the record indicatesthe
+prevailingwindsarefromthenorthwest, westandsouthwest, resultinginanysmokecreatedby
+live fire exercises at the proposed fire training facility being blown away from residential
+development.
+Forthe foregoingreasons, the HearingsOfficerfindsthe proposedfiretrainingfacilityis
+compatiblewith otheradjacentuses or will be so renderedthroughmeasuresdesignedto reduce
+adverseimpacts, the proposedfacilityis situatedin such a mannerthat it will be compatiblewith
+surrounding natural resources and resource management or production practices.
+3)     If the exception involves more than one area for which the
+reasons and circumstances are the same, the areas may be
+considered as a group. Each of the areas shall be identified
+on a map, or their location otherwise described, and keyed to
+the appropriate findings.
+FINDINGS: The Hearings Officer finds this criterion is not applicable as the proposed goal
+exception involves only one area.
+4)     For the expansion of an unincorporated community
+Sunriver Service District
+PAGE 15 OF 34-- EXHIBIT " F" TO ORDINANCE 2014- 021
+described under OAR 660- 022- 0010,  including an urban
+unincorporated community pursuant to OAR 660-022-0040(2),
+the reasons exception requirements necessary to address
+standards 2 through 4 of Goal 2, Part II(c), as described in of
+subsections( 2)( b),( c) and( d) of this rule, are modified to also
+include the following:
+FINDINGS: The Hearings Officer finds this criterion is not applicable to the applicant' s proposal
+because it does not include an expansion of the Sunriver UUC boundaries.
+c.      OAR 660-004-0022, Reasons Necessary to Justify and Exception
+Under Goal 2, Part II( c)
+An exception under Goal 2, Part II(c) may be taken for any use not
+allowed by the applicable goal(s) or for a use authorized by a
+statewide planning goal that cannot comply with the approval
+standards for that type of use. The types of reasons that may or may
+not be used to justify certain types of uses not allowed on resource
+lands are set forth in the following sections of this rule. Reasons that
+may allow an exception to Goal 11 to provide sewer service to rural
+lands are described in OAR 660-011-0060. Reasons that may allow
+transportation facilities and improvements that do not meet the
+requirements of OAR 660- 012- 0065 are provided in OAR 660- 012- 0070.
+Reasons that rural lands are irrevocably committed to urban levels of
+development are provided in OAR 660- 014- 0030. Reasons that may
+justify the establishment of new urban development on undeveloped
+rural land are provided in OAR 660- 014- 0040.
+1)     For uses not specifically provided for in this division, or in
+OAR 660- 011- 0060, 660- 012- 0070, 660- 014- 0030 or 660- 014-
+0040, the reasons shall justify why the state policy embodied
+in the applicable goals should not apply.  Such reasons
+include but are not limited to the following:
+a)     There is a demonstrated need for the proposed use or
+activity, based on one or more of the requirements of
+Goals 3 to 19; and either
+A)     A resource upon which the proposed use or
+activity is dependent can be reasonably
+obtained only at the proposed exception site
+and the use or activity requires a location near
+the resource.  An exception based on this
+paragraph must include an analysis of the
+market area to be served by the proposed use
+or activity. That analysis must demonstrate that
+the proposed exception site is the only one
+within that market area at which the resource
+depended upon can reasonably be obtained; or
+FINDINGS: The Hearings Officer finds this rule is not applicable because the proposed fire
+Sunriver Service District
+PAGE 16 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+training facility is not dependent upon a resource.
+B)     The proposed use or activity has special
+features or qualities that necessitate its location
+on or near the proposed exception site.
+FINDINGS: As discussed in the findings above, the applicant proposes to site the fire training
+facilityon the subjectsite becauseit wouldbe closeto the SunriverFire Department's fire
+station and would be within the department' s service area. As a result, fire department
+personnelinvolvedin trainingexerciseswould be able promptlyto respondto emergenciesthat
+mayoccurwithintheservicedistrictduringtraining. Forthisreason, theHearingsOfficerfinds
+the proposedfire trainingfacility has specialfeaturesor qualitiesthat necessitateits locationon
+the proposed 4. 28- acre exception site.
+For the foregoing reasons, the Hearings Officer finds the applicant' s proposal satisfies all
+applicable administrative rule requirements for taking an exception to Goal 4.
+PLAN AMENDMENT AND ZONE CHANGE
+TRANSPORTATION PLANNING RULE
+2.      Division 12, Transportation Planning( OAR 660- 012)
+a.      OAR 660- 012- 0060, Plan and Land Use Regulation Amendments
+1)     If an amendment to a functional plan,  an acknowledged
+comprehensive plan, or a land use regulation ( including a
+zoning map) would significantly affect an existing or planned
+transportation facility, then the local government must put in
+place measures as provided in section ( 2) of this rule, unless
+the amendment is allowed under section( 3), ( 9) or( 10) of this
+rule. A plan or land use regulation amendment significantly
+affects a transportation facility if it would:
+a)     Change the functional classification of an existing or
+planned transportation facility ( exclusive of correction
+of map errors in an adopted plan);
+b)     Change standards implementing a functional
+classification system; or
+c)     Result in any of the effects listed in paragraphs ( A)
+through ( C) of this subsection _ based on projected
+conditions measured at the end of the planning period
+identified in the adopted TSP. As part of evaluating
+projected conditions, the amount of traffic projected to
+be generated within the area of the amendment may be
+reduced if the amendment includes an enforceable,
+ongoing requirement that would demonstrably limit
+traffic generation,  including,  but not limited to,
+transportation demand management. This reduction
+Sunriver Service District
+PAGE 17 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+may diminish or completely eliminate the significant
+effect of the amendment.
+A)     Types or levels of travel or access that are
+inconsistent with the functional classification of
+an existing or planned transportation facility;
+B)     Degrade the performance of an existing or
+planned transportation facility such that it
+would not meet the performance standards
+identified in the TSP or comprehensive plan; or
+C)     Degrade the performance of an existing or
+planned transportation facility that is otherwise
+projected to not meet the performance
+standards Identified in the TSP or
+comprehensive plan.
+FINDINGS: The Hearings Officer finds the Transportation Planning Rule ( TPR) applies to the
+applicant' s proposal because it involves an amendment to an acknowledged comprehensive
+plan. The applicant did not provide a traffic study with its application. In his March 24, 2014
+comments on the applicant' s proposal, the county' s Senior Transportation Planner Peter Russell
+stated in relevant part:
+The applicant has quoted my commentsfor a similar facility under a previous
+land use application ( CU- 11-24) where I stated the site would generate less than
+new 50 new weekday trips and thus under Deschutes County Code (DCC)
+17. 16. 115( C)( 4)  no traffic analysis was required.  There are two distinct
+differences, however, between these two land use applications. First, in CU- 11-
+24 the site was zoned for the proposed use whereas the site for PA- 14-1/ZC- 14-
+1 requires both a plan amendment and a zone change. Also, the affected roads
+under CU- 11- 24 were different than those that will provide access to PA- 14-
+1/ZC- 14-1.  The applicant indicates the site will be accessed via Cottonwood
+Road, although it appears South Century Drive is closer to the site. Second, the
+time horizon required for a traffic study for a conditionally allowed or outright
+permitted use is much shorter than that for a plan amendment/ zone change.
+DCC 17. 16. 115( E)( 3) for outright and permitted uses bases the analysis horizon
+year on buildout. DCC 17.16.115(E)(4) requires a 20-year study horizon for zone
+changes.
+Regardless of how the site is accessed, the applicant will need to provide
+numeric analysis that no facility will be adversely affected. Staff believes that will
+be the case, but the applicant needs to provide sufficient findings to demonstrate
+that conclusion and comply with 660-012-0060."
+In response to Mr. Russell' s comments, the applicant submitted a memorandum dated April 15,
+2014 prepared by Casey Bergh, PE, of Kittelson & Associates, Inc., addressing the proposal' s
+compliance with the TPR. The memorandum predicts vehicle trips generated by the proposed
+firetrainingfacilitywoulduseSouthCenturyDriveandits interchangewith U.S. Highway97.
+The memorandum predicts that because of the intermittent nature of the proposed training
+facility use, and the relativelysmall number of people who would use the facility at any given
+Sunriver Service District
+PAGE 18 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+time,theproposedfacilitywouldgenerateonlyeightaveragedailyvehicletrips(ADTs), ofwhich
+amaximumoffourtripswouldoccurduringtheweekdayp.m. peakhour(4:30to6:30p.m.)The
+memorandumstatestheadditionof thisverysmallnumberof vehicletripswillhavea negligible
+effectonthefunctionofaffectedtransportationfacilities. Byanelectronicmailmessagedated
+April15, 2014, Mr. Russellstatedheagreedwiththe Kittelsontrafficreport's methodologiesand
+conclusions.
+Fortheforegoingreasons, the HearingsOfficerfindstheapplicanthasdemonstratedits
+proposedplan amendmentand zone change will not significantlyaffect an existing or planned
+transportationfacility,therebycomplyingwiththeTPR.
+4)     Determinations under sections ( 1)—( 3) of this rule shall be
+coordinated with affected transportation facility and service
+providers and other affected local governments.
+FINDINGS: Therecordindicatesnoticeof the applicant's proposalwassentto the Deschutes
+CountyRoadDepartmentandcounty'sSeniorTransportationPlannerPeterRussell, aswellas
+the SunriverFire Departmentand UtilitiesDistrictand the SunriverOwnersAssociation.
+Commentsfromtheseagencies, if any, areincludedinthisrecord.As discussedinthefindings
+above, theapplicantsubmitteda trafficanalysisin responseto commentssubmittedbyPeter
+Russell, andMr. Russellfoundthetrafficanalysisto be appropriateandcorrect. Forthese
+reasons,the HearingsOfficerfinds the applicant's proposalsatisfiesthis criterion.
+Basedontheforegoingfindings,theHearingsOfficerfindstheproposalsatisfiestheTPR.
+STATEWIDE LAND USE PLANNING GOALS AND GUIDELINES
+3.      Division 15, Statewide Planning Goals( OAR 660-015)
+a.      OAR 660-015-0000,Statewide Planning Goals and Guidelines 1-14
+Goal 1: Citizen Involvement
+Todevelopacitizeninvolvementprogramthatinsurestheopportunityforcitizensto be
+involved in all phases of the planning process.
+FINDINGS: As discussedin the Findings of Fact above, notice of the applicant's proposaland
+thepublichearingwasprovidedto interestedpublicandprivateagenciesandtotheownersof
+recordofallpropertylocatedwithin750feetofthesubjectproperty. Inaddition, noticeofthe
+publichearingwaspublishedin the BendBulletinandthe subjectpropertywaspostedwitha
+noticeof proposedlanduseactionsign. A publichearingwasheldbeforetheHearingsOfficer,
+andbeforethe proposedplanamendment, zonechangeandgoalexceptioncanbe approved
+theapplicant's proposalwillbeconsideredata publicmeetingoftheDeschutesCountyBoard
+of Commissioners ( hereafter" board"). For these reasons, the Hearings Officer finds the process
+for considerationof the applicant's proposalmeets Goal 1.
+Goal 2: Land Use Planning
+Toestablishalanduseplanningprocessandpolicyframeworkasabasisforalldecision
+and actions related to use of land and to assure an adequatefactual base for such
+decisions and actions.
+Sunriver Service District
+PAGE 19 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+FINDINGS: The applicant submitted applications for the proposed plan amendment, zone
+change and goal exception. The applications have been reviewed by Planning Division staff and
+the HearingsOfficer pursuantto the county's code, and the applicationsalso will be reviewedby
+the board prior to final approval. Therefore, I find the applicant' s proposal satisfies Goal 2.
+Goal 3: Agricultural Lands
+To preserve and maintain agricultural lands.
+FINDINGS: The Hearings Officer finds Goal 3 is not applicable because the subject property is
+not designated or zoned for agriculture.
+Goal 4: Forest Lands
+To conserve forest lands by maintaining the forest land base and to protect the state' s
+forest economy by making possible economically efficient forest practices that assure
+the continuous growing and harvesting of forest tree species as the leading use on
+forest land consistent with sound management of soil, air, water, and fish and wildlife
+resources and to provide for recreational opportunities and agriculture.
+FINDINGS: The subject property is designated and zoned Sunriver Urban Unincorporated
+Community Forest on the comprehensiveplan map and therefore Goal 4 is applicable. The
+applicant has requested an exception to Goal 4 to remove the forest designation and zoning for
+approximately 4.28 acres of the subject property.  As discussed in the findings above,
+incorporated by reference herein,  the Hearings Officer has found the applicant has
+demonstrated it has met the criteria for a" reasons" exception to Goal 4.
+Goal 5: Natural Resources, Scenic and Historic Areas, and Open Spaces
+To protect natural resources and conserve scenic and historic areas and open spaces.
+FINDINGS: The comprehensive plan inventory of Goal 5 resources identifies elk habitat as a
+significant Goal 5 resource on the subject property. The property is zoned WA to protect this
+resource. The applicant' s proposal would redesignate and rezone 4. 28 acres of the subject
+property for a public use — i.e., a fire training facility and access road. The WA Zone does not
+prohibit or restrict public uses or buildings in significant elk habitat. ODFW was notified of the
+applicant' s proposal and did not submit comments,  indicating the agency does not have
+concerns about the effect of the applicant' s proposal on the elk habitat.
+The record indicates the subject property has no identified mineral and aggregate resources,
+energy sources, ecologically and scientifically significant natural areas, outstanding scenic
+views, water areas, wetlands, watersheds, or groundwater resources, wilderness areas, historic
+areas, sites, structures or objects, or cultural areas. 2
+Forthe foregoingreasons, the HearingsOfficerfinds the applicant's proposalsatisfiesGoal 5.
+Goal 6: Air, Water and Land Resources Quality
+2 The record indicates the closest inventoried historically significant site, Camp Abbot Hall, is located
+within the Sunriver resort but approximately 1.5 miles west- southwest of the subject property.
+Sunriver Service District
+PAGE 20 OF 34 -- EXHIBIT " F" TO ORDINANCE 2014- 021
+To maintainandimprovethe quality of the air,waterand landresourcesof thestate.
+FINDINGS: The applicant has requested approval of the proposed plan amendment, zone
+changeandgoalexceptioninorderto developthesubjectsitewitha firetrainingfacilityfor the
+firedepartment. Thestaffreportstates, andtheHearingsOfficeragrees, thatsuchafacilityhas
+the potentialto generatesmoke, andthereforeto affectair quality, duringlivefiretraining
+exercises. However, as discussedin thefindingsabove, the livefiretrainingwouldoccuronly
+onceperquarter. In addition, therecordindicatestheclosestresidenceto thesubjectsiteis
+approximately3,000feetto thewest, andtheprevailingwindtypicallyisfromthenorthwest,
+north-northwest, and southwest, thereforelikely to blowany smoke awayfrom residenceswithin
+theSunriverresort. In addition, thestaffreportnotesthatbeforetheapplicantcanconstructthe
+firetrainingfacilityit mustobtaincountysiteplanreviewandapprovalwhichwillconsiderthe
+impactsof smokeand can assureprotectionof air qualitythroughconditionsfor site plan
+approval. For these reasons, I find the applicant' s proposed plan amendment, zone change and
+goal exception are consistent with Goal 6.
+Goal 7: Areas Subject to Natural Hazards
+To protect people and property from natural hazards.
+FINDINGS: TheHearingsOfficerfindstheonlynaturalhazardidentifiedwiththesubjectsiteis
+the potentialfor wildfirewhichpresentlyis the sameas thatfor all otherpropertiesin the
+surroundingarea. Futuredevelopmentof thesubjectsitewitha firetrainingfacilityhasthe
+potential to increase the hazard from fire during live fire training exercise, but also may
+decreasethe riskof wildfirein the communitythroughincreasedandmorerealisticfirefighter
+training. Inanyevent, asdiscussedinthefindingsabove, beforethefiretrainingfacilitycanbe
+constructedthe applicantmustobtaincountysite planreviewandapproval, andthroughthat
+processrequirementscanbe imposedto minimizefire risk, suchas minimumclearancefrom
+vegetationand minimumamountsof wateravailableon site. Forthese reasons, I find the
+applicant' s proposal is consistent with Goal 7.
+Goal 8: Recreational Needs
+To satisfy the recreationalneedsof the citizensof the stateand visitors and, here
+appropriate, to provide for the siting of necessary recreational facilities including
+destination resorts.
+FINDINGS: The Hearings Officer finds Goal 8 is not applicable because the applicant' s proposal
+does not propose or eliminate any opportunitiesfor recreationalfacilities either on the subject
+property or in the area.
+Goal 9: Economic Development
+To provide adequate opportunities throughout the state for a variety of economic
+activities vital to the health, welfare, and prosperity of Oregon' s citizens.
+FINDINGS:  The applicantargues its proposalwill provideindirecteconomicbenefitsby
+facilitatingthe developmentof a trainingfacilitythatwill helpthefire departmentsavemoney
+and protect property over time. In addition, the applicantargues developmentand construction
+ofthetrainingfacilitywillprovidedirecteconomicbenefitsthroughthetemporaryemploymentof
+construction contractors. The Hearings Officer finds that to the extent Goal 9 applies to the
+Sunriver Service District
+PAGE 21 OF 34 -- EXHIBIT " F" TO ORDINANCE 2014- 021
+applicant' s proposal, it is satisfied.
+Goal10: Housing
+To provide for the housing needs of citizens of the state.
+FINDINGS: The Hearings Officer finds Goal 10 is not applicableto the applicant's proposal
+because it will not affect opportunities for housing on the subject property or surrounding area.
+Goal 11: Public Facilities and Services
+To plan and develop a timely, orderly and efficient arrangement of public facilities and
+services to serve as a framework for urban and rural development.
+FINDINGS: The record indicates the applicant's proposal will not require or result in the
+extension of urban services to the subject site. The proposed fire training facility will not require
+sewer or water service. As discussedin the findings above, the HearingsOfficer has found the
+proposedfire trainingfacilitywouldnot significantlyaffecta transportationfacility. Forthese
+reasons, I find the applicant' s proposal satisfies Goal 11.
+Goal12: Transportation
+To provide and encourage a safe, convenient and economic transportation system.
+FINDINGS: As discussedin the findings above, incorporatedby referenceherein, the Hearings
+Officer has found the applicant' s proposal is consistent with the TPR.  Because the TPR
+implements Goal 12, I find the applicant' s proposal also satisfies Goal 12.
+Goal 13: Energy Conservation
+To conserve energy.
+FINDINGS: The applicant argues,  and the Hearings Officer agrees,  that its proposal is
+consistent with Goal 13 because the plan amendment, zone change and goal exception will
+allow the subject site to be developed with a fire trainingfacility in close proximityto the fire
+department' s fire station and response area, thus conserving energy through reduction in the
+number and length of vehicle trips to and from the site.
+Goal14: Urbanization
+To provide for orderly and efficient transition from rural to urban use, to accommodate
+urban population and urban employment inside urban growth boundaries, to ensure
+efficient use of land, and to provide for livable communities.
+FINDINGS: The Hearings Officer finds Goal 14 is not applicable to the applicant' s proposal
+because the subject property is located within an urban area— i. e., the Sunriver UUC -- and the
+proposalwould not changethe types or intensityof uses allowedin the UUCor its boundaries.
+b.      OAR 660-015-0005, Statewide Planning Goals and Guidelines 15
+Goal 15: Willamette River Greenway
+Sunriver Service District
+PAGE 22 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+c.      OAR 660-015-0010,Statewide Planning Goals and Guidelines 16-19
+Goal 16: Estuarine Resources
+Goal 17: Coastal Shorelands
+Goal 18: Beaches and Dunes
+Goal 19: Ocean Resources
+FINDINGS: The Hearing Officer finds Goals 15 through 19 are not applicable to the applicant' s
+proposalbecausethe subject site is not withinthe WillametteGreenwayand does not have any
+estuarine areas, coastal shorelands, beaches and dunes, or ocean resources.
+Based on the foregoing findings, the Hearings Officer finds the applicant' s proposal satisfies all
+applicable statewide land use planning goals.
+COMPREHENSIVE PLAN
+B.      Deschutes County Comprehensive Plan
+FINDINGS: In Save Our Skyline v. City of Bend, 48 Or LUBA 192 ( 2004), LUBA held a
+comprehensive plan is a potential source of approval standards for quasi-judicial land use
+permit applications.  However,  LUBA stated local code provisions requiring that land use
+decisions be " consistent" with the comprehensive plan " do not mean that all parts of the
+comprehensive plan necessarily are approval standards." LUBA described the proper analysis
+of the effect of plan provisions as follows:
+Local governments and this Board have frequently considered the text and
+context of cited parts of comprehensive plans and concluded that the alleged
+comprehensive plan standard was not an applicable approval standard. Stewart
+v. City of Brookings, 31 Or LUBA 325, 328 ( 1996); Friends of Indian Ford v.
+Deschutes County, 31 Or LUBA 248 258( 1996); Wissusikv. YamhillCounty, 20
+Or LUBA 246,  254- 55  ( 1990).  Even if the comprehensive plan includes
+provisions that can operate as approval standards, those standards are not
+necessarilyrelevant to all quasi-judicial land use permit applications. Bennett v.
+City of Dallas,  17 Or LUBA at 456. Moreover, even if a plan provision is a
+relevant standard that must be considered,  the plan provision might not
+constitute a separate mandatoryapproval criterion, in the sense that it must be
+separatelysatisfied, along with any other mandatoryapprovalcriteria, before the
+application can be approved. Instead, that plan provision, even if it constitutes a
+relevantstandard, may representa required considerationthat must be balanced
+with other relevant considerations. See Waker Associates, Inc. v. Clackamas
+County, 111 Or App 189, 194, 826 P2d 20 ( 1992) (' a balancing process that
+takes account of relative impacts of particular uses on particular( comprehensive
+plan] goals and of the logical relevancy of particulargoals to particular uses is a
+decisional necessity').
+Before considering whether particular plan provisions must be applied as
+approvalstandardswhen consideringindividualland usepermit applications, it is
+appropriate, as the hearings officer did in this case, to consider first whether the
+Sunriver Service District
+PAGE 23 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+comprehensiveplan itself expresslyassignsa particularrole to some or all of the
+plan' s goals and policies. Downtown Comm. Assoc. v. City of Portland, 80 Or
+App336, 339, 722P2d1258(1986); Eskadarianv. Cityof Portland, 26OrLUBA
+98, 103( 1993); Schellenberg v. Polk County, 21 Or LUBA 425, 429( 1991); Miller
+v. City of Ashland, 17 Or LUBA 147, 167- 69 ( 1988). We review the hearings
+officer interpretation of the BAGP [ Bend Area General Plan] to determine if her
+interpretationis correct. McCoyv. Linn County, 90 Or App 271, 275-76, 752P2d
+323( 1988)."
+The staff report and the applicant' s burden of proof identify and address a number of plan
+provisions. Based on LUBA's analysis in Save Our Skyline, the HearingsOfficer finds I must
+examine the text and context of these provisions to determine if any of them applies to the
+applicant' s quasi- judicial applications for a plan amendment and zone change.
+1.      Chapter 4, Urban Growth Management
+a.      Section 4. 1 Introduction
+Purpose
+The Urban Growth Management chapter, in concert with the other
+chapters of this Plan, specifies how Deschutes County will work
+with cities and unincorporated communities to accommodate
+growth while preserving rural character and resource lands.
+b.      Section 4. 4 Sunriver
+Community Boundary
+2010 County GIS data showed Sunriver had approximately 3,745
+acres of land inside the community boundary. Within this area, there
+were 4,447 total tax lots, including common areas. The community
+boundary is generally formed by the Deschutes River on the west,
+Spring River Road/South Century Drive on the south and the
+Deschutes National Forest on the north and east.
+During the 1997 update,  the Sunriver Urban Unincorporated
+Community boundary was amended to add 375-acres along the
+eastern boundary of the Sunriver Urban Unincorporated Community
+to be used for sewage effluent storage and disposal.
+This area, once part of the Deschutes National Forest, was changed
+from a comprehensive plan designation of Forest to a
+comprehensive plan designation of Urban Unincorporated
+Community Forest.  It was added per Oregon Department of
+Environmental Quality requirements.  The effluent and storage
+capabilities of the existing sewage system were at or near capacity
+seasonally at that time. Thus, this expansion of the community
+boundary was necessary to provide adequate sewage disposal
+services to the existing communities being served at their build-
+outs.
+Sunriver Service District
+PAGE 24 OF 34 — EXHIBIT " F" TO ORDINANCE 2014- 021
+Comprehensive Plan Designations
+9.      Forest District.  The previous boundary for Sunriver was
+expandedin 1997by approximately366-acresto include land
+alongthe easternboundarythat has historically beenzoned
+for forest uses and within the Deschutes National Forest. A
+recent decision by the U.S.  Forest Service to permit an
+effluent storage pond and effluent irrigation site on
+approximately50 acres and a potential land transfer to the
+Sunriver Utilities Company    ( now Sunriver Water
+LLC/ Environmental LLC)  prompted inclusion of this area
+within the communityboundary. By includingthis area,future
+expansion of the sewage disposal system would permit the
+application of biosolids with the effluent irrigation site and
+storage pond. This will enable Sunriver to meet Oregon
+Department of Environmental Quality regulations for treated
+wastewater storage and disposal stemming from build- out
+within the community. An exception to Goal 4 was not taken
+because the only uses allowed in the expansion area are
+permitted in the Forest zone.
+FINDINGS: The HearingsOfficerfindsthese provisionsare merelyintroductoryand do not
+establish any approval criteria for the applicant' s proposal.
+c.      Section 4. 4, Sunriver Policies
+Goals and Policies
+No goals have been defined for the Sunriver Urban Unincorporated
+Community.
+Policy4.4.1. Landuseregulationsshall conformto the requirements
+of OAR 660 Division 22 or any successor.
+Policy 4.4.2. County comprehensiveplan policies and land use
+regulations shall ensure that new uses authorized within the
+Sunriver Urban Unincorporated Community do not adversely affect
+forest uses in the surrounding Forest Use Zones.
+Policy4.4.3. Toprotectscenicviewsandriparianhabitatwithinthe
+community, appropriatesetbacksshall be requiredfor all structures
+built on properties with frontage along the Deschutes River.
+Policy 4. 4. 5.  Public access to the Deschutes River shall be
+preserved.
+FINDINGS: Although these policies are written in mandatory terms — i.e., using the word " shall"
+theHearingsOfficerfindstheyaredirectedatactionbythecountyandnotbyanapplicantfor
+a quasi- judicial land use permit or approval.
+Sunriver Service District
+PAGE 25 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+Policy4.4.4. Openspaceand commonarea, unlessotherwisezoned
+for development, shall remain undeveloped except for community
+amenities such as bike and pedestrian paths, and parks and picnic
+areas.
+FINDINGS: TheHearingsOfficerfindsthispolicyalsoiswritteninmandatorytermsbutis not
+expresslydirectedat thecounty. It couldbereadto applyto anyquasi-judiciallanduseapplicationinvolvingopenspaceand/orcommonareas. However, I findthispolicyis not
+applicableto theapplicant's proposalbecausenosuchareasareincludedonthesubjectsite.
+Policy 4.4.6. The County supports the design review standards
+administered by the Sunriver Owners Association.
+FINDINGS: The HearingsOfficerfinds this policy is merelya statementof county practice and
+does not establishany approvalcriteriafor the applicant's proposal.
+Utility District Policies
+Policy4.4.24. Landsdesignatedutilityshallallowfordevelopmentof
+administrative offices, substations, storage/ repair yards, distribution
+lines and similar amenities for services such as water,  sewer,
+telephone, cable television and wireless telecommunications.
+FINDINGS: Theapplicantproposesto changethe plandesignationandzoningof the subject
+site from SUFto SUU, thus placingthe propertywithina "utility" designation. This policyis
+writteninmandatorytermsbutis notexpresslydirectedatthecounty. Therefore, theHearings
+Officerfindsit is reasonableto concludethispolicywasintendedto applyto quasi-judicialland
+use applications involving lands in the Sunriver UCC designated " utility." The applicant' s
+proposal, if approved, wouldfacilitatedevelopmentof thesubjectsitewitha firetrainingfacility
+for the fire department. Althoughthe proposedfire trainingfacility is not one of the uses
+specificallylistedin this policy, the staffreportstates, andI agree, thatit is similarto a
+substation" or is an "accessory use" for the fire department. Therefore, I find the applicant's
+proposal satisfies this policy.
+Forest District Policies
+Policy 4.4.25. Usesand developmenton propertydesignatedforest
+that are within the Sunriver Urban Unincorporated Community
+boundary shall be consistent with uses and development of other
+lands outside of the community boundary which are also designated
+forest on the Deschutes County comprehensive plan map.
+Policy4.4.26. Forestdistrict propertyshall be usedprimarilyfor
+effluent storage ponds,  spray irrigation of effluent,  biosolids
+application and ancillary facilities necessary to meet Oregon
+Department of Environmental Quality sewage disposal regulations.
+Policy4.4.27. Thedevelopmentof resort, residentialor non-forest
+commercial activities on Forest district lands shall be prohibited
+unless an exception to Goal 14 is taken.
+Sunriver Service District
+PAGE 26 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+FINDINGS: These policies are written in mandatory terms and are not expressly directed at the
+county. Therefore, the HearingsOfficerfindsit is reasonableto concludethesepolicieswere
+intended to apply to quasi-judicial land use applications affecting property within the SUF
+includingthesubjectsite. Theapplicantproposesto removethe4.28-acresubjectsitefromthe
+SUF Zone in order to develop it with a fire training facility, a use not permitted in the SUF Zone.
+The rest of the large subject property would remain in the SUF. Because the remaining SUF-
+zoned property would continue to be used primarily for effluent storage and disposal, and
+because the applicant does not propose to develop the subject site with resort, residential or
+non- forest commercial activities, I find the applicant' s proposal satisfies these policies.
+General Public Facility Policies
+Policy 4.4.28. Residential minimum lot sizes and densities shall be
+determined by the capacity of the water and sewer facilities to
+accommodate existing and future development and growth.
+FINDINGS: This policyis written in mandatoryterms. Nevertheless, the HearingsOfficerfinds it
+is not applicable because the applicant' s proposal does not involve residential development.
+Policy 4.4.29. New uses or expansion of existing uses within the
+Sunriver Urban Unincorporated Community which require land use
+approval shall be approved only upon confirmation from the
+Sunriver Utility Company that water and sewer service for such uses
+can be provided.
+FINDINGS: This policy also is written in mandatory terms and is applicable to any new uses
+within the Sunriver UCC requiring land use approval. As discussed in the findings above, the
+Planning Division sent notice of the applicant' s proposal to Sunriver Utilities but did not receive
+any comments from it. That is likely because the proposed fire training facility would not require
+any water or sewer service. For these reasons, the HearingsOfficerfinds the proposalsatisfies
+this plan policy.
+Policy 4. 4. 30.     Expansion of the Sunriver Water
+LLC/ Environmental/ LLC Water and Sewer District outside of the
+historic Sunriver boundaries shall adequately address the impacts
+to services provided to existing property owners.
+FINDINGS: This policy is written in mandatory terms. However, the Hearings Officer finds it is
+not applicable to the applicant' s proposal because the applicant is not requesting approval to
+expand the water and sewer district, and the applicant' s proposal will not have any impact on
+services to existing property owners.
+Water Facility Policies
+Policy 4.4.31. Water service shall continue to be provided by the
+Sunriver Utilities Company.
+Sewer Facility Policies
+Policy 4.4.32. Sewer service shall continue to be provided by the
+Sunriver Utilities Company.
+FINDINGS: These policies are written in mandatory terms. However, the Hearings Officer finds
+Sunriver Service District
+PAGE 27 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+they are not applicable to the applicant's proposed fire training facility because it does not
+involve or require water or sewer service.
+Transportation System Maintenance Policies
+Policy 4.4.33. Privately- maintained roads within the Sunriver Urban
+Unincorporated Community boundary shall continue to be
+maintained by the Sunriver Owners Association.
+Policy 4.4.34. The bicycle/ pedestrian path system in Sunriver shall
+continue to be maintained by the Sunriver Owners Association or as
+otherwise provided by a maintenance agreement.
+Policy 4.4.35. The County will encourage the future expansion of
+bicycle/ pedestrian paths within the Sunriver Urban Unincorporated
+Community boundary in an effort to provide an alternative to
+vehicular travel.
+Policy 4.4.36. All public roads maintained by the County shall
+continue to be maintained by the County.  Improvements to County
+maintained public roads shall occur as described the County
+Transportation System Plan.
+FINDINGS: These policies are written in mandatory terms. However, the Hearings Officer finds
+they are not applicable because the applicant' s proposal does not affect the privately-
+maintained roads or the bicycle/ pedestrian path system within the Sunriver UUC boundaries. As
+discussed in the findings above, access to the subject site will be primarily from South Century
+Drive via a USFS road. And in any event, the record indicates South Century Drive is a county-
+maintained public road that will continue to be maintained by the county.
+For the foregoing reasons, the Hearings Officer finds the proposed plan amendment, zone
+change and goal exception are consistent with comprehensive plan policies to the extent they
+are applicable.
+ZONING ORDINANCE STANDARDS FOR PLAN AMENDMENTS AND ZONE CHANGES
+C.      Title 18 of the Deschutes County Code, the Deschutes County Zoning Ordinance
+1.      Chapter 18. 136, Amendments
+a.      Section 18. 136. 010, Amendments
+DCC Title 18 may be amended as set forth in DCC 18.136. The
+procedures for text or legislative map changes shall be as set forth
+in DCC 22.12. A request by a property owner for a quasi- judicial map
+amendment shall be accomplished by filing an application on forms
+provided by the Planning Department and shall be subject to
+applicable procedures of DCC Title 22.
+FINDINGS: The applicant has requested a quasi- judicial plan amendment and zone change to
+change the plan designation and zoning of the subject site from SUF to SUU. The applicant
+Sunriver Service District
+PAGE 28 OF 34 — EXHIBIT " F" TO ORDINANCE 2014- 021
+submitted applicationson forms provided by the county. The applicationsare being reviewed
+under the procedures of Title 22 of the Deschutes County Code.
+b.      Section 18.136.020, Rezoning Standards
+The applicant for a quasi- judicial rezoning must establish that the
+public interest is best served by rezoning the property. Factors to be
+demonstrated by the applicant are:
+A.      That the change conforms with the Comprehensive Plan, and
+the change is consistent with the plan' s introductory
+statement and goals.
+FINDINGS: The applicant's proposal to rezone the subject site from SUF to SUU is not
+consistent with the site's comprehensive plan forest designation. For that reason the applicant
+has requestedan amendmentto the comprehensiveplan mapto changethe plandesignationof
+the subject sitefrom SUFto SUU.The staff reportcorrectlynotes comprehensiveplan no longer
+contains an " introductory statement and goals," provisions which were present in the prior
+comprehensive plan, and therefore the Hearings Officer finds that ordinance language no longer
+is applicable.
+B.      That the change in classification for the subject property is
+consistent with the purpose and intent of the proposed zone
+classification.
+FINDINGS: Chapter 18.108 establishesthe Sunriver UUCZone. Section 18.108.010 states the
+purpose of the Sunriver UUC Zone as follows:
+The purpose of the Urban Unincorporated Community( UUC) Zone- Sunriver is to
+provide standards and review procedures for the future development of the urban
+unincorporated community of Sunriver. The UUC Zone- Sunriver is composed of
+17 separatezoning districts and one combiningzone district, eachwith its own
+set of allowed uses and distinct regulations, as further set forth in DCC 18.108.
+Section 18.108.170 governs the SUU but does not include a purpose statement for that district.
+Rather, it describes the uses permitted outright and conditionally, height regulations and lot
+requirements. Nevertheless, the HearingsOfficerfinds the applicant's proposedzone changeis
+consistent with the overall purpose of the Sunriver UUC Zone because it would facilitate
+development of a use permitted in the SUU and which, as discussed in findings throughout this
+decision, is anintegralpartofthedeliveryof fireserviceswithintheSunriverUUC. Therefore, I
+find the applicant' s proposal satisfies this criterion.
+C.      That changing the zoning will presently serve the public
+health, safety and welfare considering the following factors:
+1.      The availability and efficiency of providing necessary
+public services and facilities.
+FINDINGS: The applicant' s proposed plan amendment, zone change and goal exception, in and
+of themselves, will not require water or sewer service or have impacts on public facilities and
+services. In addition, the record indicates the proposed fire training facility will not require water
+Sunriver Service District
+PAGE 29 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+or sewer service and will have access to South Century Drive, a county- maintained road, from
+an existing USFS road. The Hearings Officer has found the additional vehicle traffic that would
+be generated by use of the fire training facility will have minimal if any impact on affected
+transportation facilities. The applicant argues, and I agree, that the fire training facility will serve
+the public health, safety and welfare by providing a location for necessary firefighting training for
+fire department staff. Therefore, I find the applicant' s proposal satisfies this criterion.
+2.      The impacts on surrounding land use will be
+consistent with the specific goals and policies
+contained within the Comprehensive Plan.
+FINDINGS: As discussed in the findings above, the Hearings Officer has found the applicant' s
+proposal is consistent with the plan' s goals and policies to the extent they are applicable. I find
+there will be no Impacts on surrounding land use" from the proposed plan amendment, zone
+change and goal exception themselves. The applicant proposes to develop the subject site with
+a fire training facility. I have found traffic impacts from such a facility would have minimal if any
+impact on affected transportation facilities. However, the applicant has stated use of the
+proposed facility would include quarterly live fire training exercises that will produce smoke. The
+applicant' s burden of proof and May 6, 2014 memorandum state the effects from this smoke on
+nearby residential properties within the Sunriver community will be minimal because of
+prevailing winds blowing smoke from west to east and away from the residences, because of
+intervening topography, and because of the 3,000-foot distance and significant vegetative buffer
+between the subject site and the nearest residences.
+As discussed in the findings above, the Planning Division received letters from the owners of
+two dwellings on Sequoia Lane in Sunriver, located approximately 3, 000 feet west of the subject
+site and across the BNSF railroad tracks. These owners expressed concern about potential
+negative impacts from the fire training facility. In particular, they stated their belief that the facility
+would devalue their properties because of past and future removal of trees from the subject
+property, visibility of the training facility structure from their residences, and disruption caused by
+fire training activities. The record indicates that in the past the subject property was cleared of
+trees to facilitate storage and land application of sewage effluent. However, at the public hearing
+Sunriver Fire Chief Art Hatch testified that no trees would be cut on the subject site in order to
+establish the training facility.
+With respect to visual impacts from the fire training structure, the Hearings Officer finds it is
+highly unlikely the structure will be visible from dwellings on Sequoia Lane. That is because of
+the relatively low height of the structure ( approximately 26 feet), the 3, 000- foot distance
+between the subject site and the nearest residence, the presence of the seven- to eight- foot- tall
+BNSF railroad track berm between the subject site and the nearest dwellings, and significant
+tree cover on the intervening land as evidenced by aerial photos of the subject property included
+in this record. I am aware that additional vegetation could be removed from the portion of the
+subject property between the subject site and the nearest residences in order to increase the
+available land for ground application of sewage effluent. Nevertheless, I find the remaining
+features — i. e., distance, topography and BNSF railroad berm — would continue to provide a
+significant buffer between the proposed fire station and the nearest residences. Finally, with
+respect to operational impacts, I find the significant distance between the subject site and the
+nearest residence will mitigate any noise from training activities, and the distance and prevailing
+winds, coupled with the quarterly timing of the live fire training exercises, will minimize any
+impacts from smoke on dwellings within the Sunriver community.
+Sunriver Service District
+PAGE 30 OF 34 — EXHIBIT " F" TO ORDINANCE 2014- 021
+In his comments on the applicant' s proposal, Hugh Palcic, General Manager of the Sunriver
+Owners' Association, requested that the Hearings Officer consider including in my decision
+provisions requiring that a " substantial area surrounding the subject site . . . receive treatment
+for ladder fuels reduction," and that provisions be made for a secondary access for the
+proposed fire training facility. The Hearings Officer finds these are reasonable requests but that
+the appropriate time to consider them is during site plan review for the proposed fire training
+facility.
+For the foregoing reasons, the Hearings Officer finds the proposal satisfies this criterion.
+D.      That there has been a change in circumstances since the
+property was last zoned, or a mistake was made in the zoning
+of the property in question.
+FINDINGS:
+Mistake in Zoning. As discussed in the findings above, the Sunriver UUC boundary was
+expanded in 1997 to include the subject property for the purpose of providing a location for
+sewage effluent storage and disposal for the Sunriver community. The property previously was
+zoned F- 1. The Hearings Officer finds there was no mistake in that redesignation and rezoning.
+Change in Circumstances Since Property Was Last Zoned. The applicant' s burden of proof
+states there has been a change in circumstances justifying the proposed redesignation and
+rezoning of the subject property as follows:
+The primary change is that the utility needs of the community have expanded
+beyond the available acreage to site utility uses. Specifically, the Sunriver Fire
+Department ( SFD) has no method to regularly and predictably train personnel
+and there is no other suitable property within or surrounding Sunriver to
+accommodate the facility. The facility must be sited as close as possible to
+Sunriver,  but distant enough to alleviate potential impacts to surrounding
+properties. The subject site places the facility in reasonably close proximity to
+Sunriver which is important because personnel being trained may need to
+respond in the event of a fire and must comply with SFD' s Standards of Cover
+deployment plan) which stipulates that total response times for structure fires
+within the district be as follows:
+The SFD' s Standards of Cover document calls for total response times for
+structure fires within the district to be as follows:
+For 80 percent of all fire incidents within the district, the first unit will arrive on
+scene with a response time ( turnout time + travel time) of 8 minutes and 30
+seconds. On-scene staffing shall be sufficient to initiate a basic single- line interior
+attack.
+Similarly, for emergency medical service responses it requires:
+For 90 percent of all medical incidents within the fire district, SFD will arrive on
+scene with a response time ( turnout time + travel time) of 8 minutes and 20
+seconds.
+Sunriver Service District
+PAGE 31 OF 34— EXHIBIT " F" TO ORDINANCE 2014- 021
+These performance measures were developed using the following factors:
+Historical performance
+Current capabilities/ critical tasking
+Risk analysis/ risk exposure
+System demand
+Community expectations
+The subject site is in an ideal location to accommodate these needs. The site is
+also large enough to accommodate the facility. Another change in circumstances
+pertains to economics. Facing the reality of a limited budget, the SFD must take
+measures to keep costs down. It is estimated that sending SFD personnel to
+existing training facilities outside of the Sunriver Service District ( SSD) with the
+frequency required to maintain current service levels would cost the SSD
+approximately $ 40,000 the first year ( including overtime, travel, lodging, meals,
+etc.) and increasing each year afterward. This is an unsustainable cost. This
+means that personnel must be able to engage in these training activities while ' in-
+service' and able to discontinue training activities and respond to actual calls for
+service. The subject site fulfills these requirements." ( Underscored emphasis
+added.)
+The Hearings Officer finds the fire department' s needs to train its staff and operate within its
+budget are not changed circumstances that have occurred since the subject property was
+redesignated and rezoned in 1997.  Neither can it be said there has been a change in
+circumstancebased on the fire department's need to locate a fire trainingfacility in proximityto
+the fire department' s service area and a safe distance from residential and other uses. These
+are factors that have influenced the fire department' s operations on a regular basis since 1997.
+The staff report concludes the change in use of the property" is a change in circumstances. The
+Hearings Officer assume staff' s statement refers to the change in use of the overall subject
+property from forest uses to utility uses— i.e., sewage effluent storage and disposal, wood and
+debris recycling, and a wirelesstelecommunicationsfacility. Expansionof the Sunriver UUCto
+includethe subject propertywas for the specific purposeof providinga site for the storage and
+disposal of effluent from the Sunriver community. However, I agree with staff that the addition of
+wood/debris recycling and telecommunications facilities on the subject property reflects a
+greater change in the character of the subject property.
+Although the recycling and telecommunications facilities are uses permitted in the SUF Zone,
+they represent a broadening of utility uses on the subject property, and a greater transition to
+general utility uses, than what appears to have been contemplated when the Sunriver UUC
+boundary was expanded in 1997, Attached as Exhibit B to planning staff's May 6, 2014
+memorandum to the Hearings Officer are copies of the staff report and board findings and
+decision approving the 1997 Sunriver UUC expansion. These documents make clear the
+approved expansion was approved in order to permit the Sunriver community to meet the
+sewage treatment requirements of the Department of Environmental Quality ( DEQ) and not to
+create a location for a broad array of utility uses. Although i find this is a close question, I agree
+with staff that the broader change in use of the overall subject property is a change of
+circumstance since the subject property was designated Sunriver UUC and zoned SUF.
+The remaining question is whether this change in circumstance justifies the applicant' s proposal
+i.e., whether the proposedplan amendmentand zone changewill "presentlyserve the public
+Sunriver Service District
+PAGE 32 OF 34 — EXHIBIT " F" TO ORDINANCE 2014- 021
+health, safetyandwelfareconsidering" the changein circumstance. TheHearingsOfficerfinds
+the applicant has demonstratedthe need to locate a new fire trainingfacility in proximityto the
+fire department's service area and a safe distance from residential and other uses. As
+discussedin the findings above, I havefound the subject site will assuretherewill be minimalif
+anynegativeimpactsontherestoftheSunrivercommunityfromthefiretrainingfacility. Finally,
+as discussedin the goal exceptionfindings above, I also havefound the subject propertyis the
+most suitable location for the proposed facility.  For these reasons,  I find the change in
+circumstances identified by staff justifies the applicant' s proposed plan amendment and zone
+change from SUF to SUU.
+LIMITED USE COMBINING ZONE
+2.      Chapter 18. 112, Limited Use Combining Zone- LU
+a.      Section 18. 112. 010, Purpose
+A.      The purpose of the LU Zone is to limit the list of permitted
+uses and general activities allowed in the underlying zone,
+when a plan amendment and zone change rezones a parcel to
+that underlying zone through the taking of an exception to a
+statewide land use planning goal under ORS 197.732.
+B.      The LU Zone is an overlay zone which may be applied, where
+appropriate, to plan amendments/ zone changes effected by
+either a  " physically developed"  exception under ORS
+197. 732( 1)( a),  an " irrevocably committed" exception under
+ORS 197. 732( 1)( b),  or a  " reasons"  exception under ORS
+197. 732( 1)( c).
+C.      The LU Zone, when adopted, shall carry out the requirement
+of Oregon Administrative Rule 660- 04- 018 that where a goal
+exception is taken, permitted uses shall be limited to those
+uses justified by the exception statement.
+FINDINGS: The applicant has requested approval of a plan amendment and zone change from
+SUF to SUU, and a" reasons" exception to Goal 4, to facilitate the development of a fire training
+facilityonthe subjectsite. Therefore, the HearingsOfficerfindsan LUZoneis an appropriate
+means to limit uses on the subject site to those found to justify the" reasons" exception.
+b.      Section 18.112.020, Combining Zone Requirements
+When the LU Zone is applied, the uses permitted in the underlying
+zone shall be limited to those uses and general activities specifically
+set forth in the ordinance adopting the underlying zone and the LU
+Zone. Any change in those uses and general activities must be
+made through the plan/ land use regulation amendment process.
+FINDINGS: The applicant requests approval of a " reasons" exception to Goal 4 to redesignate
+and rezone the 4.28-acre subject site from SUF to SUU.  The applicant has proposed
+establishment of an LU Zone to limit uses permitted on the subject site. Specifically, the
+applicant has proposed that the following language be included in the comprehensive plan as
+Sunriver Service District
+PAGE 33 OF 34-- EXHIBIT " F" TO ORDINANCE 2014- 021
+justification for the requested exception.
+To ensure that the uses in the Sunriver Utility District Zone on an approximate
+4.28 acre portion of Tax Lot 102 on Deschutes County Tax Map 19-11-00 are
+limited in nature and scope, the Sunriver Forest ( SUF) zoning on the subject
+parcel shall be subjectto a LimitedUse CombiningZone, which willlimit the uses
+to a fire training facility for the Sunriver Service District, in particular the Sunriver
+Fire Department."
+The Hearings Officer finds that with the addition of language including the access road in the fire
+training facility, the proposed language is appropriate for inclusion in the comprehensive plan.
+IV.     DECISION:
+Based on the foregoing Findingsof Fact and Conclusionsof Law, the HearingsOfficer hereby
+RECOMMENDS APPROVAL of the applicant' s proposed plan amendment to change the
+designation of the subject site from Sunriver Urban Unincorporated Community Forest to
+Sunriver Urban Unincorporated Community Utilities, the applicant' s proposed zone change to
+change the zoning of the subject site from SUF to SUU, and " reasons" exception to Goal 4,
+SUBJECT TO THE FOLLOWING CONDITIONS OF APPROVAL:
+1.      This approval is based on the applicant' s application,  burden of proof statement,
+supplemental materials, and written and oral testimony. Any substantial change to the
+approved use will require a new land use application and approval.
+2.      The applicant/ owner shall submit to the Planning Division a written metes- and-bounds
+description of all property subject to the approved plan amendment, zone change and
+goal exception.
+3.      The comprehensive plan shall be amended to include the following findings justifying the
+exception to Goal 4:
+To ensure that the uses in the Sunriver Utility District Zone on the
+approximately 4.28 acre site on Tax Lot 102 on Deschutes County
+Assessor' s Map 19-11-00 are limited in nature and scope to those
+justifying the exception to Goal 4 for the site, the Sunriver Forest
+SUF) zoning on the subject site shall be subject to a Limited Use
+Combining Zone which will limit the uses on the subject site to a fire
+training facility and access road for the Sunriver Service District and
+Sunriver Fire Department.
+DatedthislZ dayofJune, 2014
+Mailed this
+f dayof June, 2014
+r
+Ai_
+aren H. Gr- en, Hearings Officer
+Sunriver Service District
+PAGE 34 OF 34-- EXHIBIT " F" TO ORDINANCE 2014- 021

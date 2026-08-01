@@ -1,0 +1,242 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2016-018
+title: 'Ordinance No. 2016-018'
+doc_type: ordinance
+citation: 'Ordinance No. 2016-018'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617127886_2016-206-Ordinance%20No.%202016-018%20Recorded%206_3_2016.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: c7a2f2db043cfee7cbf8017431fdcaa9c38cc55a65514f6d6a4f0f0f0c597058
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 30.395
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2016-018 (Ordinance No. 2016-018)
+
+## At a glance
+
+Ordinance No. 2016-018 — orders of Deschutes County. 6 pages.
+
+## Full text
+
+REVIEWED
+06' 01/
+LEGAL COUNSEL
+DESCHUTESCOUNTYOFFICIAL RECORDS CJ2016406
+NANCY BLANKENSHIP, COUNTY CLERK v
+COMMISSIONERS' JOURNAL
+061031201602:3015PM
+I IIII III IIIIIIIII III I
+2016- 206
+For Recording Stamp Only
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending DCC Title 21 to
+Define, Permit, and Establish Standards for
+Marijuana Related Businesses in Conjunction
+With State Law and Declaring an Emergency.
+ORDINANCE NO. 2016- 018
+WHEREAS, the DeschutesCounty Community DevelopmentDepartment (CDD) initiated amendments
+PlanningDivision File No. 247 -15 -000253 -TA) to the DeschutesCounty Code (DCC) Title 21, Chapter21.04,
+Introductory Provisions and Chapter 21.60, Provisions Applying to SpecialUsesto incorporatechangesthat
+define, permit and establish standards for marijuana related businesses; and
+WHEREAS, the DeschutesCounty Planning Commissionheld public hearingsonNovember5 and 12
+2015, to review the amendments and recommended adoption; and
+WHEREAS, the Board of County Commissionersconsideredthis matter after a duly noticed public
+hearingson December2, 2015, andMay 2, 2016, andconcludedthat the public will benefitfrom the changesto
+Title 21; and
+WHEREAS, the Board finds it in the public interest to adopt amendments to the DCC to define permit,
+and establish standards for Marijuana Related Businesses in conjunction with Deschutes County Code (Title 21)
+and state law ( including HB 3400, SB 1598, and ORS 30.395); now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 21. 04. 020, Purpose, and DCC 21. 04. 040, Definitions, are amended
+to read as described in Exhibit " A," attached and incorporated by reference herein, with new language
+underlined and deleted language set forth in trike ugh.
+Section 2. AMENDMENT. DCC 21. 60.010, Provisions Applying to Special Uses, are amended to
+read as described in Exhibit " B," attached and incorporated by reference herein, with new language underlined
+and deleted language set forth in strikethrough.
+Section 3. FINDINGS. The Board adopts as its findings in support of this decision attached to
+Ordinance 2016- 015 as Exhibit " K" and incorporated by reference herein.
+Section 4. EMERGENCY. This Ordinance being necessary for the public peace, health and safety, an
+emergencyis declaredto exist andthis Ordinancetakeseffect on its passage.
+PAGE 1 OF 2 - ORDINANCE NO. 2016- 018
+Dated this / of, _ J1tih 2, , 2016 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+ATTEST.
+cording Secretary
+Date of lst Reading: / day of J114.'11.. , 2016.
+Date of 2ndReading: / dayofJ u.+ v.. , 2016.
+ALAN UNGER, Chair
+TAMMY BANEY, Vice ir
+ANTHONY DeBONE, Commissioner
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Alan Unger 1
+Tammy Baney
+Anthony DeBone —
+Effective date: / day of , 2016.
+PAGE 2 OF 2 - ORDINANCE NO. 2016- 018
+Denotesportionsof this Sectionnot amendedby Ordinance2016-018.
+21. 04. 020. Purpose.
+A. DCC Title 21 has beendesignedto be consistentwith the goals, policies, prograins, elements, and
+statements of intent of the Sisters Urban Area Comprehensive Plan, the officially adopted
+comprehensiveplanfortheCityof Sistersanditssurroundingurbanizingarea. Thegeneralpurposeof
+DCCTitle 21 is to providefor one principalmeansfor implementationof the SistersUrbanArea
+Comprehensive Plan,
+B. DCCTitle 21 is designedto classify, designateandregulatetheuseof landwithintheSistersUrban
+AreaGrowthBoundaryoutsidetheCityof SistersCityLimits. To achievethispurpose, DCCTitle 21
+dividestheSistersUnincorporatedUrbanAreaintoappropriatezoningdistrictsassetforthin the
+policies and elements of the Sisters Urban Area Comprehensive Plan,
+C. The furtherpurposeof DCC Title 21 policies andelementsof the SistersArea ComprehensivePlan, is
+to encourage the most appropriate use of land; to conserve and preserve natural resources and the
+qualitythatisuniqueto Sisters, includingopenspacefor light, air, fireprevention, andfor sanitary
+purposes; to prevent undue or uncharacteristic concentrations of population; to lessen congestion of
+streets; to facilitateadequateprovisionsfor communityutilitiessuchastransportation, water, sewage,
+schools, parksother public requirements; to promotethe public health, safety, generalwelfareandto
+protect and enhance the visual quality of the Sisters area.
+D. Mariivanaprocessing. production. retailing, andwholesaling, areprohibitedon propertiessubiectto the
+provisions of Title 21. Existing lawfully established medical marijuana production ( grow sites) are
+allowed to continue operating subiect to the provisions of DCC 21. 60, 010( C).
+Ord. 2016-018 1. 2016; Ord. 2004- 004 §2, 2004; Ord. PL -17 §2, 1979)
+21. 04. 040. Definitions.
+Cannabinoid" meansany of thechemicalcompoundsthat aretheactiveconstituentsof
+mariivana.
+Cannabinoidconcentrate" meansa substanceobtainedby separatingcannabinoidsfrom
+mariivana by a mechanical extraction process: a chemical extraction process using a
+nonhydrocarbon- bascd or other solvent. such as water, vegetable 21yecrin. vegetable oils. animal
+fats, isopropyl alcohol, or ethanol: a chemicalextractionprocessusingthehydrocarbon -based
+solvent carbon dioxide, provided that theprocess does not involve the useof high heat or
+pressure: or any other process identified by the Oregon Liquor Control Commission, in
+consultation with the Oregon llealth Authority. by rule.
+Cannabinoid edible" means food or potable liquid into which a cannabinoid concentrate.,
+cannabinoid extract. or dried mariivana leaves or flowers have been incorporated,
+Cannabinoidextract" meansa substanceobtainedbv separatingcannabinoidsfrom marijuana
+by a chemicalextractionprocessusinga hydrocarbon -basedsolvent, suchasbutane. hexaneor,
+propane; a chemical extraction process using the lwdrocarbon- based solvent carbon dioxide. if,
+theprocessuseshigh heator pressure: or anyother processidentified by the OregonLiquor
+Control Commission. in consultation with the ) regon Health Authority. hy rule.
+Page oc2.- EXHIBITA OFORDINANCENO. 20f - ott
+Cannabinoid product" means a cannabinoid edible and any other product intended for human
+consumption or use. including a product intended to be applied to the skin or hair, that contains
+cannabinoids or dried marijuana leaves or flowers. Cannabinoid product does not include usable
+marijuana by itself. a cannabinoid concentrate by itself. a cannabinoid extract by itself. or
+industrial hemp as defined in Oregon Revised Statutes 571.300.
+Marijuana" meansthe plant Cannabis family Cannabaceae. any part of the plant Cannabis family
+Cannabaceae, and the seedsof the plant Cannabis family Cannabaceae. Marijuana does not include
+industrial hemp as defined in Oregon Revised Statutes 571. 300.
+Marijuana items" means marijuana, cannabinoid products cannabinoid concentrates, and cannabinoid
+extracts.
+Marijuana Processing" means the nrocessing, compounding. or conversion of marijuana into
+cannabinoid products, cannabinoid concentrates, or cannabinoid extracts, provided that the
+marijuana processor is licensed by the Oregon Liquor Control Commission or registered with the
+Oregon Health Authority."
+Marijuana production" means the manufacture. planting, cultivation. growing. trimming, harvesting. or
+drying of marijuana. provided that the marijuana producer is licensedby the Oregon Liquor Control
+Commission. or registered with the Oregon i Icalth Authority and a "person designated to produce marijuana
+by a registry identification cardholder."
+Marijuana retailing" means the sale of marijuana items to a consumer, provided that the marijuana retailer
+is licensed by the Oregon Liquor Control Commission for recreational marijuana salesor registered with the
+Oregon Health Authority for medical marijuana sales.
+Marijuana wholesaling" means the purchase of marijuana items for resale to a person other than
+consumer, provided that the marijuana Nvholesaleris licensed by the Oregon Liouor Control Commission.
+Persondesignatedto producemarijuanaby a registry identificationcardholder` means persondesi:,'nated
+to produce marijuana by a registry identification cardholder under Oregon Revised Statutes 475.304 who
+produces marijuana for a registry identification cardholder at an address other than the address where the
+registry identification cardholder resides or at an address where more than 12 mature marijuana plants are
+produced.
+Ord. 2016- 018 § l , 2016; Ord. 2004- 004, § 2, 2004; Ord. 97- 048 § 1, 1997; Ord. 88- 038 § 1, 1988; Ord. 80-
+225 § 1, 1980; Ord. PL - 17 § 4( 1)-( 108), 1979)
+a,
+Pagel -4 2- - EXHIBITAOFORDINANCENO. 20I6 - og
+Denotes portions of this Section not amended by Ordinance 2016- 018.
+21. 60. 010. Provisions ApplvinE to Special Uses.
+C. All marijuana production registered by the Oregon Health Authority ( OHM prior to June 1, 2016 shall
+comply with the following standards by September 15, 2016:
+1. Lighting. Lighting shall be regulated as follows:
+a. Inside building lighting, including greenhouses, hoop houses, and similar structures, used for.
+marijuana production shall not be visible outside the building from 7:00 p.m. to 7:00 a.m. on.
+the following day.
+b. Lighting fixtures shall be fully shielded in such a manner that all light emitted directly by the
+lamp or a diffusing element. or indirectly by reflection or refraction. is proiected below the
+horizontal plane through the lowest light - emitting part.
+c. Light cast by exterior Tight fixtures other than marijuana grow lights shall comply with DCC
+15. 10. Outdoor Lighting Control.
+D. All marijuana production registered by OHA prior to June I. 2016 shall comply with the following
+standards by December 15, 2016:
+1. Odor. As used in DCC 18. 116. 330( B)( 10), building means the building, including greenhouses,
+hoop houses, and other similar structures, used for marijuana production or marijuana processing.
+a. The building shall be equipped with an effective odor control system which must at all times
+prevent unreasonable interference of neighbors' use and enjoyment of their property.
+b. An odor control system is deemed permitted only after the applicant submits a report by a
+mechanical engineer licensed in the State of Oregon demonstrating that the system will control
+odor so as not to unreasonably interfere with neighbors' use and enjoyment of their property.
+c. Private actions alleging nuisance or trespassassociated with odor impacts arc authorized, if at
+all, as provided in applicable state statute.
+d. The odor control system shall:
+i. Consist of one or more fans. The fan( s) shall be sized for cubic feet per minute ( CFM)
+equivalent to the volume of the building ( length multiplied by width multiplied by height),
+divided by three. The filter( s) shall be rated for the required CFM; or
+ii. Utilize an alternative method or technology to achieve equal to or greater odor mitigation
+than provided by i. above.
+e. The system shall be maintained in working order and shall be in use.
+2. Noise. Noise produced by marijuana production and marijuana processing shall comply with the
+following:
+a. Sustained noise from mechanical equipment used for heating. ventilation, air condition, odor
+control, fans and similar functions shall not exceed 30 dB(A) measured at any property line,
+between 10:00 p.m. and 7: 00 a.m. the following day.
+b. Sustained noise from marijuana production is not subiect to the Right to Farm protections in
+DCC 9.12 and ORS 30.395. Intermittent noise for accepted farming practices is however
+Permitted.
+Page I of2 - EXHIBIT B OF ORDINANCE NO. 2016- 018
+3. ScreeningandFencing. Thefollowing screeningstandardsshallapplyto greenhouses, hoop
+houses, and similar non -rigid structures and land areas used for mariivana production and
+processing:
+a. Subject to DCC 18.84. Landscape Management Combining Zone approval, ifanplicable.
+b. Fencing shall be finished in a nutted earth tone that blends with the surrounding natural
+landscapeand shall not be constructed of temporary materials such as plastic sheeting, hav
+bales, tarps, etc., andshallbesubjectto DCC 18.88, Wildlife AreaCombiningZone, if
+applicable.
+c. Razor wire, or similar, shall be obscured from view or colored a muted earth tone that blends,
+with the surrounding natural landscape.
+d. The existing tree and shrub cover screening the development from the public right- of- way or.
+adiacent properties shall be retained to the maximum extent possible. This provision does not
+prohibit maintenance of existing lawns, removal of dead, diseased or hazardous vegetation: the
+commercial harvest of forest products in accordance with the Oregon Forest Practices Act: or
+agricultural use of the land.
+4. Water. The applicant shall provide:
+a. A copy of a water right permit, certificate. or other water use authorization from the Oregon,
+Water Resource Department: or
+b. A statement that water is supplied from a public or private water provider, along with the name
+and contact information of the water provider: or
+c. Proof from the Oregon Water Resources Department that the water to be used is from a source
+that does not require a water right.
+5. Security Cameras. If security cameras are used, they shall be directed to record only the subiect
+propertyandpublic rights-of-way. exceptasreouiredto complywith requirementsof theOLCC or
+the OHA.
+6. Secure Waste Disposal. Mariivana waste shall be stored in a secured waste receptacle in the,
+possession of and under the control of the OLCC licensee or OHA Person Responsible for the Grow
+Site ( PRMG).
+Ord. 2016- 018 X2. 2016)
+Page 2 of 2 - EXHIBIT B OF ORDINANCE NO. 2016- 018

@@ -1,0 +1,839 @@
+i
+Lane Code is undergoing a modernization process; during this process, the reader may view chapters in different formats.  Where a
+chapter has been renumbered, a renumbering reference to locate former citations in the new form is provided online under each
+chapter, along with a redline copy of the changes made to the old format.
+
+GENERAL TABLE OF CONTENTS
+
+Chapter 1 – GENERAL 1
+1.005 – LANE CODE GENERAL 1
+1.005.001 – Renumbering of Lane Code and Lane Manual 1
+1.005.005 – Code Designated. 1
+1.005.010 – Definitions and Rules of Construction. 1
+1.005.015 – Continuation of Existing Ordinances. 3
+1.005.020 – Effect of Repeal of Ordinances. 3
+1.005.025 – Severability of Parts of Code. 3
+1.005.030 – Titles of Sections. 3
+
+Chapter 2 – ADMINISTRATION 1
+2.005 – GENERALLY 1
+2.005.005 - Board Action. 1
+2.005.010 - Creation of Boards, Commissions, etc. 1
+2.010.015 - County Community Corrections Agency. 1
+2.005.020 - Maintenance of the Code. 1
+2.005.025 - Ordinances Amending Code Provisions. 2
+2.005.030 - Failure to Comply. 4
+2.005.040 - Contracts Pursuant to Bid. 4
+2.005.050 - Long-Term Purchase Agreements for Personal Property. 4
+2.005.060 - Contract Review Board (CRB). 4
+2.005.070 - Subdivision Plat Approval. 4
+2.010 – COUNTY ADMINISTRATOR 5
+2.010.005 - County Administrator. 5
+2.010.010 - Additional Functions of the Office of County Administration. 5
+2.010.015 - County Community Corrections Agency. 6
+2.015 – COUNTY PERFORMANCE AUDITOR 6
+2.015.005 - County Performance Auditor. 6
+2.020 – MERIT SYSTEM 7
+2.020.005 - Merit System. 7
+2.020.010 - Application. 7
+2.020.015 - Administration. 7
+2.020.020 - Rules. 8
+2.020.025 - Classification Plan. 8
+2.020.030 - Compensation Plan. 8
+2.020.035 - Applications; Appointments and Promotions. 9
+2.020.040 - Probationary Period. 9
+2.020.045 - Tenure. 10
+2.020.050 - Suspension. 10
+2.025 – TAX/FEE RECOVERY 10
+2.025.005 - County Recovery of Costs for Fees/Taxes. 10
+2.030 – FAIR BOARD 11
+2.030.005 - Removal of Fair Board Members. 11
+
+ii
+2.035 – SELF-INSURANCE FUND RESTRICTIONS 11
+2.035.005 - Dedication of the Self-Insurance Fund. 11
+2.035.010 - Risk Management Program. 12
+2.035.015 - Self-Insurance Fund. 12
+2.035.020 - Delegation. 13
+2.040 – RETIREE MEDICAL BENEFIT TRUST FUND 13
+2.040.005 - Dedication of the Retiree Medical Benefit Trust Fund. 13
+2.040.010 - Health Plan Self-Insurance Sub-Fund. 14
+2.040.015 - Delegation. 15
+2.045 – ELECTIONS/INITIATIVE AND REFERENDUM 15
+2.045.005 - Definitions. 16
+2.045.010 - Incorporation of State Law. 16
+2.045.015 - Voters’ Pamphlet. 16
+2.045.020 - Initiative. 17
+2.045.025 - Referendum. 17
+2.045.030 - Revision of Charter. 18
+2.045.035 - Board Referral of Charter Revision. 18
+2.045.040 - Inclusion in the Voters' Pamphlet. 19
+2.045.045 - Board Referral of a Measure. 19
+2.045.050 - Board Referral of Advisory Questions. 19
+2.050 – SERVICE DISTRICTS 20
+2.050.005 - Establishment of Local Service District. 20
+2.050.010 - Referendum in Local Service District. 20
+2.055 – REAL PROPERTY COMPENSATION/REGULATION APPLICATION PROCESS 20
+2.055.005 - Findings and Purpose. 20
+2.055.010 - Definitions. 21
+2.055.015 - Application for Claim. 22
+2.055.020 - Completeness Review. 23
+2.055.025 - Application Review and Recommendation. 23
+2.055.030 - Application Notice. 24
+2.055.035 - Board Consideration and Decision. 25
+2.055.040 - Board Decision Effect. 25
+2.060 – COUNTY LANDS AND BUILDINGS 26
+2.060.005 - Parking. 26
+2.065 – FEES AND ASSESSMENTS 27
+2.065.005 - Fees to be Charged by the County Clerk for Recording and Other Services. 27
+2.065.010 - Law Enforcement Medical Liability Account Assessment. 27
+2.065.015 - Forfeiture Assets. 27
+2.070 – ACCELERATION OF REDEMPTION FOR WASTE OR ABANDONMENT 27
+2.070.930 – Definitions. 27
+2.070.935 – Authority. 28
+2.070.940 – Allegation of Waste or Abandonment. 28
+2.070.945 – Hearing Required. 29
+2.070.950 – Hearing Notice Requirements. 29
+2.070.955 – Conduct of Hearing. 30
+2.070.960 – Decision. 30
+2.070.965 – Appeal. 30
+
+iii
+Chapter 3 - LICENSES AND PERMITS 1
+3.005 – TOWING OPERATIONS 1
+3.005.005 - General. 1
+3.005.010 - Regulation. 1
+3.100 – EMERGENCY REPORTING EQUIPMENT ORDINANCE 1
+3.100.005 - Definitions. 1
+3.100.010 - Authority. 2
+3.100.015 - Exclusion. 2
+3.100.050 - Alarm Systems - Cessation of Transmission. 2
+3.200 – USED MERCHANDISE DEALERS 3
+3.200.005 - Definitions. 3
+3.200.010 - Used Merchandise Business Limitations. 4
+3.200.015 - Recording Requirements. 4
+3.200.020 - Reporting Requirements. 5
+3.200.025 - Reporting Fees. 5
+3.200.030 - Limitations on the Purchase of Regulated Property. 5
+3.200.035 - Limitations on the Sale of Regulated Property. 6
+3.200.040 - Inspection of Used Merchandise Dealers and Regulated Property. 6
+3.200.045 - Administrative Rules. 6
+3.300 - ENFORCEMENT 7
+3.300.005 - Enforcement. 7
+3.300.010 - Violation. 7
+3.300.015 - Outdoor Assembly License Review Procedures 8
+
+Chapter 4 – TAXES 1
+4.005 – LANE COUNTY TRANSIENT LODGING TAX 1
+4.005.100 - Title. 1
+4.005.105 - Definitions. 1
+4.005.110 - Tax Imposed. 2
+4.005.111 - Local Revenue Sharing. 3
+4.005.115 - Collection of Tax by Transient Lodging Tax Collector. 3
+4.005.120 - Short-Term Rental Hosting Platform Fees. 3
+4.005.123 - Liability for Tax 4
+4.005.125 - Exemptions. 4
+4.005.130 - Registration of Transient Lodging Provider; Form and Contents; Execution; Certification of Authority. 4
+4.005.135 - Due Date:  Returns and Payments. 5
+4.005.140 - Penalties and Interest. 6
+4.005.145 - Deficiency Determinations, Fraud, Evasion, Operator Delay. 6
+4.005.150 - Redeterminations. 7
+4.005.155 - Security for Collection of Tax. 7
+4.005.160 - Lien. 7
+4.005.165 - Refunds. 7
+4.005.175 - Administration. 8
+4.005.190 - Appeals to County. 10
+4.010 – LANE COUNTY CAR RENTAL TAX 10
+4.010.005 - Title. 10
+4.010.010 - Definitions. 10
+4.010.015 - Imposition of Tax. 11
+4.010.020- Collection of Tax, Remittance, Tax as Debt, Records. 11
+4.010.025 - Extensions, Penalties and Interest. 12
+
+iv
+4.010.030 - Deficiency Determinations, Fraud, Evasion, Operator Delay. 13
+4.010.035 - Redeterminations. 14
+4.010.040 - Security for Collection of Tax. 15
+4.010.045 - Lien. 15
+4.010.050 - Refunds. 16
+4.010.055 - Use of Tax by County. 16
+4.010.060 - Exemption. 16
+4.010.065 - Registration Required Form and Contents; Execution, Certification of Authority. 17
+4.010.070- County Treasurer Rules. 17
+4.010.075 - Appeals to County Treasurer. 17
+4.010.080 - Operative Date. 18
+4.015 – METROPOLITAN WASTEWATER MANAGEMENT COMMISSION IN LIEU OF BOND RETIREMENT FEE 18
+4.015.005 - Title. 18
+4.015.010 - Definitions. 18
+4.015.015 - Policy. 18
+4.015.020 - In Lieu of Bond Retirement Fee. 19
+4.015.025 - Collection. 19
+4.015.030 - Use of Proceeds. 19
+4.015.035 - List of Property Subject to Fee. 19
+4.015.040 - Classification and Notice. 19
+4.015.045 - Termination of Fee. 20
+4.020 – LANE COUNTY REAL PROPERTY TAX EXEMPTION FOR THE SURVIVING SPOUSES
+ OF CERTAIN EMERGENCY SERVICE PERSONNEL 20
+4.020.005 - Title. 20
+4.020.010 - Definitions. 20
+4.020.015 - Policy. 20
+4.020.020 - Application. 20
+4.025 – DIFFERENTIAL TAXES 21
+4.025.005 - Definitions. 21
+4.025.010 - Geographic Tax Classification. 22
+4.025.015 - Required Findings. 22
+4.030 – PARKS AND RECREATION SYSTEM DEVELOPMENT CHARGE 22
+4.030.005 - Scope and Purposes. 22
+4.030.010 - Definitions. 23
+4.030.015 - Rules of Construction. 25
+4.030.020 - Application. 26
+4.030.025 - Partial and Full Exemptions. 26
+4.030.030 - SDC Credits. 27
+4.030.035 - Alternative Calculation for SDC Rate, Credit, or Exemption. 28
+4.030.040 - Application. 30
+4.030.045 - Refunds. 30
+4.030.050 - Dedicated Accounts and Appropriate Use of Accounts. 30
+4.030.055 - Challenges and Appeals. 31
+4.030.060 - County Review SDC. 32
+4.030.065 - Time Limit on Expenditure of SDC's. 32
+4.030.070 - Implementing Regulations; Amendments. 32
+4.030.075 - Adoption and Amendment of the Parks and Recreation Capital Improvement Plan (CIP). 33
+4.035 – LANE COUNTY RECREATIONAL MARIJUANA TAX 33
+4.035.005 - Title. 33
+4.035.010 - Definitions. 33
+4.035.015 - Policy. 33
+
+v
+4.035.020 - Collection and Distribution. 33
+4.035.025 - Interest and Penalty. 34
+4.040 – LIMITATION ON GENERAL BOND ISSUANCES FOR THE LANE COUNTY
+ COURTHOUSE REPLACEMENT PROJECT 34
+4.040.005 - Title 34
+4.040.010 - Definitions 35
+4.040.015 - Policy 35
+4.040.020 - Action Allowed 35
+4.045 - PENALTY 36
+4.045.005 - Penalties - Lane County Transient Room Tax. 36
+4.045.010 - Penalties - Lane County Car Rental Tax. 36
+
+Chapter 5 – ADMINISTRATIVE ENFORCEMENT 1
+5.015 See 6.225 – PROHIBITED NOISE 1
+5.020 See 9.570 – NUISANCE 1
+5.020.045 See 9.021 – ILLICIT DISCHARGE 1
+5.025 – GENERALLY 1
+5.025.005 – Definitions. 1
+5.025.010 – Applicability. 3
+5.025.015 – Authority. 3
+5.025.020 – Inspection Warrant. 3
+5.025.025 – Administrative Remedies. 4
+5.025.030 – Administrative Civil Penalties. 7
+5.025.035 – Appeal. 8
+5.025.040 – Collection of Civil Penalties and Related Costs. 10
+
+Chapter 6 – OFFENSES 1
+6.050 – PUBLIC PROPERTY 1
+6.050.025 - Trespass on Public Property. 1
+6.100 – POSTED LIMITS OF USE 1
+6.100.030 - Violation of Posted Limits of Use. 2
+6.100.040 - Violation of Posted Restrictions of Use (Other Public Land). 2
+6.150 – PROPERTY OF ANOTHER 3
+6.150.005 - Definitions. 3
+6.150.050 - Entering or Remaining Unlawfully on the Property of Another. 3
+6.200 – PROHIBITED NUDITY 3
+6.200.100 - Prohibited Nudity and Penalty. 3
+6.225 – PROHIBITED NOISE 4
+6.225.005 - Prohibited Noise Definitions 4
+6.225.010 - Prohibitions 4
+6.225.013 - Liability of Person in Control of Property 5
+6.225.015 - Exemptions 5
+6.225.020 - Variances 6
+6.225.025 - Sound Measurement 7
+6.225.030 - Remedies 8
+6.250 - LITTERING 8
+6.250.200 - Littering and Penalty. 8
+6.300 – DISCHARGE OF A WEAPON 8
+6.300.250 - Discharging Weapon at Trees on Public or Private Timber Lands. 8
+
+vi
+6.300.255 - Unsafe Discharge of a Weapon. 9
+6.350 – METHODS OF KILLING ANIMALS IN SHELTERS 9
+6.350.300 - Methods of Killing Animals in Shelters. 9
+6.400 – TRAFFIC AND PARKING 10
+6.400.400 - Traffic Regulations Definitions. 10
+6.400.405 - Emergency Authority. 11
+6.400.420 - Storing Personal Property on Streets. 11
+6.400.425 - Method of Parking. 11
+6.400.430 - Prohibited Parking or Standing. 12
+6.400.435 - Prohibited Practices. 12
+6.400.440 - Use of Loading Zone. 12
+6.400.445 - Lights on Parked Vehicle. 13
+6.400.450 - Exemptions. 13
+6.400.460 - Owner Responsibility. 13
+6.400.465 - Registered Owner Presumption. 13
+6.400.475 - Impoundment of Vehicles. 13
+6.400.480 - Non-Motorized Traffic Prohibitions. 14
+6.450 - PARKS 15
+6.450.500 - Definitions. 15
+6.450.505 - Fires. 15
+6.450.510 - Weapons. 16
+6.450.515 - Hunting and Fishing. 16
+6.450.520 - Destruction of Property. 16
+6.450.525 - Sales. 17
+6.450.530 - Vehicle Operation and Parking. 17
+6.450.535 - Household Garbage. 17
+6.450.540 - Dogs and Other Pets. 17
+6.450.545 - Horses and Riding Animals. 18
+6.450.550 - Creating a Disturbance. 18
+6.450.555 - Swimming. 18
+6.450.560 - Closed Areas. 18
+6.450.565 - Camping. 19
+6.450.570 - After Hours. 19
+6.450.573 - Interference with Official Duties. 19
+6.450.575 - Failure to Identify. 20
+6.450.578 - False Information. 20
+6.450.580 - Non-Payment of Fees. 20
+6.450.585 - Dog Waste Matter. 20
+6.450.590 - Exclusion. 20
+6.450.595 - Fees. 21
+6.450.597 - Smoke-free County Parks 21
+6.500 – IMPROPER USE OF EMERGENCY TELEPHONE SYSTEM 21
+6.500.600 - Findings and Intent. 22
+6.500.605 - Definitions. 22
+6.500.610 - Improper Use. 22
+6.550 – UNPERMITTED TAKING 23
+6.550.650 - Unpermitted Taking or Transport of Special Forest Products. 23
+6.600 – TAKING OF WHALES, DOLPHINS, AND PORPOISES 25
+6.600.700 - Findings and Intent. 25
+6.600.705 - Definitions. 25
+6.600.710 - Prohibition on Taking. 26
+
+vii
+6.600.715 - Prohibition on Sale of Cetacean Products. 26
+6.600.720 - Preemption. 26
+6.650 – UNLAWFUL PUBLIC ACCOMODATIONS PRACTICE 26
+6.650.800 - Unlawful Public Accommodations Practice. 26
+6.700 – SOCIAL HOST ORDINANCE 27
+6.700.900 - Social Host Ordinance. 27
+6.750 - PENALTIES 29
+6.750.995 - Penalties. 29
+6.800 - REWARDS 29
+6.800.997 - Rewards. 29
+
+Chapter 7 – ANIMAL CONTROL
+7.005 Animal Services- Definitions.
+7.010 Animal Services Code Supersedes State Law.
+7.015 Animal Services Authority Powers and Duties.
+7.020 Receipts.
+7.025 Violation, Nuisance.
+7.035 Entry onto Private Land.
+7.040 Care of Stray Dogs.
+7.045 Impoundment of Animals.
+7.050 Failure to Surrender Animal.
+7.051 Initiating a False Report to an Animal Services Employee.
+7.055 Resisting or Eluding an Animal Welfare Officer or Peace Officer.
+7.060 Impounding Regulations and Disposition of Impounded Animals.
+7.065 Redemption and Adoption.
+7.070 Dog Licenses.
+7.075 License and Other Fees.
+7.080 Uses of Watchdog.
+7.085 Kennel License.
+7.088 Filing of Rabies Vaccination Certificate, Issuance of Tag.
+7.090 Reporting of Biting Animals.
+7.095 Biting Rabid Animals - Quarantine.
+7.100 Sick or Injured Animals.
+7.105 Animal Abandonment.
+7.110 Dogs at Large Prohibited.
+7.115 Continuous Annoyance.
+7.120 Animal Abuse.
+7.121 Possession of Fighting Animals.
+7.122 Capturing and Killing of Dog or Cat.
+7.125 Animal Neglect.
+7.129 Possession of a Stolen Animal.
+7.130 Dangerous Behavior.
+7.135 Dangerous Behavior Restrictions.
+7.140 Dog Waste Matter.
+7.150 Right to Kill a Dog Chasing, Killing or Injuring Livestock.
+7.151 Right to Kill a Dog Killing or Injury Humans or Domestic Animals.
+7.155 Reporting of Gunshot Wound.
+7.160 Selling, Trading, Bartering or Giving Away Animals in Certain Locations Prohibited.
+7.161 Illegal Sale or Gifting of Unhealthy Animals.
+7.164 Pet Dealer Requirement.
+7.170 Dogs in Season (Estrus).
+
+viii
+
+Chapter 8 – COMMUNICATIONS 1
+8.100 – CABLE FRANCHISE 1
+8.100.005 - Metropolitan Area Cable Television Franchise. 1
+8.100.010 - Falcon Cable Systems Television Franchise. 1
+8.300 – COUNTY CABLE COMMUNICATIONS 1
+8.300.005 - Title. 1
+8.300.010 - Purpose and Intent. 1
+8.300.015 - Definitions. 1
+8.300.020 - Authority. 2
+8.300.025 - Franchise Requirements. 3
+8.300.030 - Intergovernmental Agreements. 3
+8.500 – COMMUNICATIONS FIBER CONSORTIUM AGREEMENT 3
+8.500.005 - Regional Fiber Consortium. 3
+
+Chapter 9 – ENVIRONMENT AND HEALTH 1
+9.005 – SOLID WASTE POLICY AND AUTHORITY 1
+9.005.005 - Purpose and Authority. 1
+9.005.010 - Definitions. 1
+9.010 – REGULATIONS AND ENFORCEMENT 3
+9.010.005 - Illegal Dumping and Penalty 3
+9.010.007 - Illicit Discharge 3
+9.010.010 - Violation of Posted Restrictions of Use. 7
+9.010.015 - Non-Payment of Fees. 7
+9.010.020 - Destruction of Public Property. 7
+9.010.025 - Interference with Official Duties. 8
+9.010.030 - Failure to Identify. 8
+9.010.035 - False Information. 8
+9.010.040 - Disposal - Public Place; Private Property. 8
+9.010.045 - Solid Waste Hauling. 9
+9.010.050 - Deposits Prohibited. 9
+9.010.055 - Salvage and Other Orders by Manager. 9
+9.010.060 - Failure to Comply. 9
+9.015 – URBAN GROWTH AREA RECYCLING REGULATIONS 10
+9.015.005 - Urban Growth Area Recycling Regulations. 10
+9.020 – SOLID WASTE SYSTEM BENEFIT FEE 10
+9.020.005 - Solid Waste System Benefit Fee. 11
+9.020.010 - Solid Waste System Benefit Fee Collection, Remittance, and Reporting. 11
+9.020.015 - Calculation of Solid Waste System Benefit Fee. 11
+9.020.020 - Examination of Records. 12
+9.020.025 - Confidential Character of Information Obtained. 12
+9.020.030 - Collection Actions. 13
+9.020.035 - Failure to Comply. 13
+9.020.040 - Injunctive Relief. 13
+9.025 – RESTRICTION OF USE OF SOLID FUEL SPACE HEATING DEVICES 13
+9.025.005 - Purpose and Findings. 13
+9.025.010 - Definitions. 14
+9.025.015 - Area of Applicability. 15
+9.025.020 - Prohibitions. 15
+9.025.025 - Exemption for Economic Need. 16
+
+ix
+9.025.030 - Enforcement. 16
+9.025.035 - Penalties. 16
+9.030 – REGULATIONS OF TRAVELERS’ ACCOMODATIONS, RECREATION PARKS, ORGANIZATIONAL
+ CAMPS, PUBLIC SWIMMING POOLS AND BATHHOUSES, RESTAURANTS, COMMISSARIES,
+ MOBILE UNITS AND VENDING MACHINES 17
+9.030.005 - Purpose. 17
+9.030.010 - Definitions. 17
+9.030.015 - Adoption of the Rules of the Oregon State Health Division. 17
+9.030.020 - Enforcement of Rules of the Oregon State Health Division. 17
+9.035 – MINIMUM STANDARDS OF FITNESS FOR RENTAL OCCUPANCY 18
+9.035.005 - Purpose and Scope. 18
+9.035.010 - Definitions. 18
+9.035.015 - Water. 19
+9.035.020 - Sanitary Plumbing Fixtures. 19
+9.035.025 - Kitchen Sink. 20
+9.035.030 - Plumbing Fixtures. 20
+9.035.035 - Heating Facilities. 20
+9.035.040 - Electric Service. 20
+9.035.045 - Lighting, Ventilation and Egress. 20
+9.035.050 - Rubbish and Garbage. 21
+9.035.055 - Structure. 21
+9.035.060 - Continuation of Services. 21
+9.035.065 - Responsibilities of Owners and Occupants. 21
+9.035.070 - Lease of Dwellings. 22
+9.035.075 - Inspection. 22
+9.035.080 - Request for Inspection. 22
+9.035.085 - Actions by County. 22
+9.035.090 - Entry into Dwellings by Inspector. 23
+9.035.095 - Exemptions. 23
+9.040 – SEWER CONNECTION 23
+9.040.005 - Purpose. 23
+9.040.010 - Definitions. 24
+9.040.015 - Local Government Actions. 24
+9.040.020 - Connection. 24
+9.040.025 - Exception. 24
+9.040.030 - Notice. 25
+9.040.035 - Administration. 25
+9.040.040 - Nuisance. 25
+9.040.045 - Enforcement. 25
+9.045 – PUBLIC HEALTH 26
+9.045.005 - Public Health 26
+9.050 – DECLARATION OF DANGER TO PUBLIC HEALTH 26
+9.050.005 - Definitions. 26
+9.050.010 - Purpose. 27
+9.050.015 - Declaration of Danger to Public Health. 27
+9.055 – SAFE DRINKING WATER PROGRAM 27
+9.055.005 - Purpose. 27
+9.055.010 - Definitions. 27
+9.055.015 - County Drinking Water Program. 28
+9.055.020 - Program Elements. 28
+9.055.025 - Licenses. 29
+
+x
+9.057 – NUISANCE 29
+9.057.570 - Purpose. 29
+9.057.572 - Exemptions. 29
+9.057.574 - Definitions. 30
+9.057.576 - Nuisance Vegetation. 33
+9.057.580 - Nuisance Storage of Tires. 33
+9.057.582 - Nuisance Vehicle Storage. 34
+9.057.584 - Accumulation, Collection, Storage, or Disposal of Solid Waste or Waste. 34
+9.057.586 - An Abandoned, Discarded, or Unattended Icebox, Refrigerator, or
+ Other Container with a Compartment. 34
+9.057.588 - Derelict Structure. 35
+9.057.590 - Properties Declared "Unfit for Use" Due to Illegal Drug Manufacturing Contamination. 35
+9.057.592 - Enforcement 35
+9.060 – FOOD HANDLER CERTIFICATE 38
+9.060.005 - Definitions. 38
+9.060.010 - Purpose and Authority. 39
+9.060.015 - Adoption of the State Division of Health Rules, Regulations and Statutes. 40
+9.060.020 - Notification by Restaurant. 40
+9.060.025 - Time in Which to Acquire Permit. 40
+9.060.030 - Time in Which to Acquire Certification of Training in Anti-Choking Maneuvers. 40
+9.060.035 - Examination. 40
+9.060.040 - Notification of Temporary Restaurants. 41
+9.060.045 - Examination for Temporary Restaurant. 41
+9.060.050 - Fees. 41
+9.060.055 - Revocation of Permit. 41
+9.060.060 - Review. 42
+9.060.065 - Food Handler Certificates. 42
+9.060.070 - Diseased Persons May Not Work. 42
+9.060.075 - Certificate Exclusive and Valid Throughout Lane County and the State of Oregon. 42
+9.060.080 - Effective Date. 42
+9.065 – TOBACCO REGULATIONS 43
+9.065.005 - Definitions. 43
+9.070 – RETAIL SALE OF TOBACCO PRODUCTS AND INHALENT DELIVERY SYSTEM 44
+9.070.005 - Purpose and Findings. 44
+9.070.010 - Administration. 44
+9.070.015 - Licensure Requirements. 44
+9.070.020 - Adoption of the Oregon Health Authority Rules, Regulations and Statutes. 44
+9.075 – TOBACCO RETAIL LICENSING AND SALE REGULATIONS ORDINANCE 44
+9.075.010 - Limits on Eligibility for a Tobacco Retailer License. 45
+9.075.065 - Smoke and Tobacco-free Facilities and Grounds 45
+9.080 – SEWAGE FACILITIES MANAGEMENT REGULATIONS 45
+9.080.005 - Authority, Intent and Purpose. 45
+9.080.010 - Definitions. 46
+9.080.015 - Scope and Applicability. 46
+9.080.020 - Rules and Fees. 47
+9.080.025 - DEQ Compliance. 47
+9.080.030 - Management Corporation Provisions. 47
+9.080.035 - Existing Statutes, Rules and Regulations - Conflicts. 48
+9.080.040 - Management Corporation Contract. 48
+9.080.045 - Management Corporation Contract Enforcement. 49
+9.080.050 - Financial Solvency. 49
+
+xi
+9.080.055 - Maintenance and Operation - Management and Purchaser. 50
+9.080.060 - Right to Enter on Purchaser's Property. 51
+9.080.065 - Restoration. 51
+9.080.070 - Purchaser's Right to Perform Work. 51
+9.080.075 - Approval of Management Corporations. 51
+9.080.080 - Annual Review. 52
+9.085 – TREE CONSERVATION AND PROTECTION 52
+9.085.005 - Description and Purpose. 52
+9.085.010 - Definitions. 52
+9.085.015 - Permit Required. 54
+9.085.020 - Exemptions. 54
+9.085.025 - Application Review Criteria. 55
+9.085.030 - Permit Process. 56
+9.085.035 - Permit Requirements. 57
+9.085.040 - Tree Removal Standards. 57
+9.085.045 - Enforcement. 59
+9.090 – EROSION PREVENTION 64
+9.090.005 - Applicable Erosion Control Prevention Regulations. 64
+9.090.010 - Applicable Erosion Control Prevention Regulations, City of Springfield UTZ 64
+9.095 – CLEAR LAKE WATERSHED BOATING REGULATIONS 64
+9.095.005 - Clear Lake Watershed Boating Regulations. 64
+9.100 – ENFORCEMENT 65
+9.100.005 - Failure to Comply. 65
+
+Chapter 10 – ZONING
+Click Here for Link to Chapter 10 Zoning Table of Contents
+
+Chapter 11 – BUILDINGS
+BUILDINGS
+11.005 Authority for Enactment.
+11.010 Building Codes.
+11.015 Permits, Fees and Refunds.
+11.020 Designation of Building Official.
+11.025 Springfield Urban Growth Boundary.
+11.026 Eugene Urban Growth Boundary.
+11.035 Definitions.
+11.040 Permit Denial Standards - Water Supplies.
+MANUFACTURED HOME, RECREATIONAL VEHICLE, AND TENT SITING
+11.105 Purpose.
+11.110 Permits.
+11.115 Application.
+11.120 Criteria for Issuance.
+11.130 Appeal Procedures.
+11.150 Prior Approvals.
+11.155 Cessation of Hardship.
+11.180 Enforcement.
+11.185 Fees.
+HISTORIC STRUCTURES OR SITES
+11.305 Purpose.
+
+xii
+11.310 Definitions.
+11.315 Permit Required.
+11.320 Issuance of Permits.
+11.325 Planning Director Review.
+11.330 Criteria.
+11.335 Development (Alteration) Guidelines.
+RECREATION PARKS
+11.403 Purpose.
+11.406 Conflict with State Statutes.
+11.409 Compliance with State Statutes and Rules.
+11.415 Effective Date.
+11.418 Permits Required.
+11.421 Applications.
+11.424 Plans and Specifications.
+11.427 Buildings and Structures.
+11.430 Special Rules for Campgrounds.
+11.433 Water Supply.
+11.436 Sewage and Liquid Water Disposal.
+11.439 Camping and Related Facilities.
+11.442 Signs.
+11.443  Special Rules for Temporary Campgrounds.
+11.444  Areas Within Temporary Campgrounds.
+11.445  Water Supply in Temporary Campgrounds.
+11.446  Required Facilities in Temporary Campgrounds
+11.450 Variances.
+ENFORCEMENT, FAILURE TO COMPLY
+11.990 Enforcement, Failure to Comply.
+
+Chapter 12 – COMPREHENSIVE PLAN 1
+12.100 - Comprehensive Plan – General 1
+12.100.005 - Purpose. 1
+12.100.010 - Scope and Elements. 1
+12.100.015 - Adoption of Applicable Law. 2
+12.100.020 - Referral to Planning Commission. 2
+12.100.025 - Planning Commission - Hearing and Notice. 2
+12.100.030 - Planning Commission - Consideration for Other Agencies. 2
+12.100.035 - Planning Commission - Recommendation and Record. 3
+12.100.040 - Board Action - Hearing and Notice. 3
+12.100.045- Board Referral. 3
+12.100.050 - Method of Adoption and Amendment. 4
+12.100.055 - Validation of Prior Action. 4
+12.100.060 - Eugene-Springfield Metropolitan Area General Plan Element. 4
+12.200 - Implementation of the Comprehensive Plan 4
+12.200.005 - Planning Commission Action. 4
+12.200.010 - Form of Action. 5
+12.200.015 - Procedure for Making Recommendation. 5
+12.200.020 - Board Action. 5
+12.200.025 - Board Referral. 5
+12.200.030 - Validation of Existing Ordinances. 6
+12.300 - Eugene-Springfield Metropolitan Area General Plan Element 6
+
+xiii
+12.300.005 - Purpose. 6
+12.300.010 - Metro Plan Amendment Classifications. 6
+12.300.015 - Initiation of Metro Plan Amendments. 7
+12.300.020 -Metro Plan Amendment Property Owner-Initiated 7
+12.300.025 - Metro Plan Amendment Approval Process. 8
+12.300.030 - Metro Plan Amendment Criteria. 10
+12.300.035 - Metro Plan Amendment Appeals. 10
+
+Chapter 13 – LAND DIVISIONS AND PROPERTY LINE ADJUSTMENTS
+13.010. Purpose
+13.020. General Informational Provisions
+13.030. Definitions
+13.040. Partition and Subdivision Procedure
+13.050. Tentative Partition Plan Submittal Requirements
+13.060. Tentative Partition Plan Application Review Criteria
+13.070. Tentative Subdivision and Series Partition Plan Submittal Requirements
+13.080. Tentative Subdivision and Series Partition Plan Application Review Criteria
+13.090. Final Plat Application Submittal Requirements
+13.100. Final Plat Application Criteria
+13.110. Revisions to Tentative Approved Plans
+13.120. Replatting and Vacations
+13.130. Property Line Adjustments
+13.140. Legal Lot Verification
+13.150. Validation of a Unit of Land
+13.160. Variances
+13.170. Enforcement
+
+Chapter 14 – APPLICATION REVIEW AND APPEAL PROCEDURES
+14.010 Purpose
+14.015 Definitions
+14.020  General Provisions
+14.030  Procedural Types and Application Processing
+14.040  Application Requirements
+14.050  Completeness Review and Time Limits
+14.060  Notice Requirements
+14.070  Public Hearings Process
+14.080  Appeals
+14.090  Limitations on Approved and Denied Applications
+14.100  LUBA Remands
+
+Chapter 15 – ROADS
+ROADS
+15.005 General Purpose.
+DEFINITIONS
+15.010  Definitions.
+FUNCTIONAL CLASSIFICATIONS AND RIGHT-OF-WAY WIDTH
+15.020  County Road Functional Classifications.
+15.030 Urban and Rural Roads.
+15.035 Additions and Changes to County Road Functional Classifications.
+
+xiv
+MINIMUM ROAD REQUIREMENTS
+15.045  Minimum Requirements for Public Roads and Local Access Roads.
+15.053  Recording Requirements for Properties Served by Local Access Roads
+15.055  Minimum Requirements for Private Access Easements.
+SETBACK REQUIREMENTS
+15.065  Purpose.
+15.070  Building Setback Requirements for Local Access Roads, Public Roads, County Roads, and State Highways.
+15.075 State Highway Setbacks.
+15.080  Building Setback Requirements From Interior Property Lines.
+15.083 Additional Setback Requirements.
+15.085  Variance to Setback Requirements.
+15.090  Right to Require Removal of Structures.
+15.095  Building Setback Chart.
+DEDICATION AND IMPROVEMENT REQUIREMENTS
+15.100  Purpose.
+15.105 Dedication and Improvement Requirements.
+15.110  Variance to Dedication and Improvement Requirements.
+FRONTAGE
+15.115  Purpose.
+15.120 Frontage Requirements.
+15.125  Variances to Frontage Requirements.
+ACCESS
+15.130  Purpose.
+15.135  General Access Requirements.
+15.137   Access Management Requirements.
+15.138 Road and Driveway Approach Spacing Standards.
+15.139 Standards for Culverts and Private Approaches on County Roads.
+15.140  Variance to Access Requirements.
+ROAD AND RIGHT-OF-WAY REGULATIONS
+15.200 Use of Public Roads, Local Access Roads and County Roads.
+15.205 Facility Permits.
+15.207  Special Transportation Permits.
+15.210  Permit Procedure.
+15.215  Road and Bridge Prohibited Activities and Restrictions.
+15.220  Temporary Road Closures.
+15.225  Unopened Established County Rights-of-Way.
+15.230  Lengths of Vehicles, Combinations of Vehicles, and Weight Limits.
+RURAL ADDRESSING/ROAD NAMING
+15.305  Purpose.
+15.310  Authority for Enactment.
+15.312 Road Naming.
+15.315  Assignment of Address.
+15.320 Correction or Removal of Address.
+15.325 Exceptions.
+15.330 Responsibility.
+15.335 Fees.
+ROADSIDE INTEGRATED VEGETATION MANAGEMENT POLICY
+15.500 Purpose.
+15.501  Environment.
+15.502  Data Collection and Analysis.
+15.510 Roadside Vegetation Management Plan.
+
+xv
+15.511 Application Methods and Buffers.
+15.515 Training, Education, and Implementation.
+15.520 Public Notification.
+15.525 Record Keeping.
+15.530 Annual Report (Reporting).
+LEVYING, COLLECTING AND ENFORCING SPECIAL ASSESSMENTS
+15.600  Authority.
+15.605  Purpose.
+15.610 Application.
+15.620  Initiation of Improvements.
+15.625  Procedures.
+15.630  Priority System.
+15.636  Assessments.
+15.640 Intersections.
+15.645  Foreclosure.
+ROAD SYSTEM DEVELOPMENT
+15.695  Specific Road Improvements.
+15.696  Roadway Performance Standards.
+15.697  Traffic Impact Analysis Requirements.
+ROAD DESIGN STANDARDS
+15.700  Purpose.
+15.701  General Provisions.
+15.702  Urban Arterial And Collector Standards.
+15.703   Rural Arterial And Collector Standards.
+15.704 Urban Local Street Standards.
+15.705 Rural Local Road Standards.
+15.706 Public Road, Local Access Road, and Private Access Easement (Private Road) Standards.
+15.707  Pavement Structure.
+15.708  Turnaround Areas.
+15.709 Deviations From Design Standards and Facility Permit Requirements.
+15.710  Road Design Standard Diagrams.
+SIDEWALKS
+15.715  Sidewalk Maintenance and Liability.
+15.720  Prohibited Activities and Uses.
+15.730  Sidewalk Design and Construction Specifications.
+STATUTORY WAYS OF NECESSITY
+15.800  Jurisdiction.
+GENERAL VARIANCE PROVISIONS
+15.900  General Variance Provisions.
+ENFORCEMENT
+15.950  Enforcement Requirements.
+15.955  Failure to Comply.
+
+Chapter 16  – LAND USE AND DEVELOPMENT CODE
+Click Here for Chapter 16 Land Use and Development Code Table of Contents
+
+Chapter 17 – LANE COUNTY NUCLEAR FREE ZONE 1
+17.100 – NUCLEAR FREE ZONE 1
+17.100.005 - Title. 1
+
+xvi
+17.100.105 - Purpose and Findings. 1
+17.100.110 - Definitions. 1
+17.100.115 - Prohibition of Nuclear Weapons Work. 1
+17.100.125 - Enforcement. 2
+
+Chapter 18 - LANE COUNTY AMBULANCE SERVICE AREA PLAN 1
+18.100 – AMBULANCE SERVICE AREA PLAN - GENERAL 1
+18.100.005 - Purpose. 1
+18.100.010 - Overview of Lane County. 1
+18.100.015 - Definitions. 1
+18.100.016 - Exemptions. 5
+18.100.020 - Ambulance Services Area Boundaries. 5
+18.100.025 - 9-1-1 Fire Protection Providers and Incorporated Cities Map. 8
+18.100.030 - Alternatives to Reduce Response Times. 8
+18.100.040 - System Elements. 9
+18.100.041 - Designations. 13
+18.100.045 - Authority for Ambulance Service Area Assignments. 14
+18.100.050 - Coordination. 15
+18.100.060 - Personnel and Equipment Resources. 16
+18.100.070 - Application for New Assignment or Reassignment. 19
+18.100.075 - Review of Application for New Assignment or Reassignment. 21
+18.100.080 - Board Action on Application for New Assignment or Reassignment. 21
+18.100.090 - Notification of Vacating an ASA. 22
+18.100.095 - Maintenance of Level of Service. 22
+18.100.100 - Transfer of Assignments. 22
+18.100.110 - Preventing Interruption of Service. 22
+18.100.115 - Appeals, Abatement and Penalties. 23
+18.100.120 - Duties of Ambulance Service Providers. 23
+18.100.130 - Classification of Failure to Comply. 24
+APPENDIX 1 to LC 18.100.020 25
+APPENDIX 2 to LC 18.100.025 26
+
+Chapter 19 – LANE COUNTY DESIGNATED FREE SPEECH AREA TIME, MANNER AND PLACE PROVISIONS 1
+19.100 – FREE SPEECH AREA PROVISIONS 1
+19.100.005 - Purpose and Findings. 1
+19.100.110 - Definitions. 1
+19.100.115 - Limits on Use. 1
+19.100.120 - Permitted Use Required. 1
+19.100.125 - Enforcement. 2
+
+Chapter 20 – EXERCISING EMERGENCY POWERS DURING A DISASTER 1
+20.100 – EMERGENCY POWERS DURING A DISASTER 1
+20.100.005 - General. 1
+20.100.010 - Definitions and Rules of Construction. 1
+20.100.015 - Authorization to Issue a Declaration of Disaster. 1
+20.100.020 - Filing of Declaration. 2
+20.100.025 - Term of Declaration. 2
+20.100.030 - Succession of Authority. 2
+
+xvii
+20.100.035 - Powers. 2
+20.100.040 - Enforcement of Orders. 3
+20.100.045 - Authority to Enter Property. 3
+20.100.050 - Location of Governing Body Meetings and Departments. 3
+20.100.055 - Mutual Aid Agreements. 3
+20.100.060 - Constitutionality/Review. 3
+
+Chapter 21 – REDISTRICTING 1
+21.001 – INDEPENDENT REDISTRICTING COMMITTEE 1
+21.001.001 – Description 1

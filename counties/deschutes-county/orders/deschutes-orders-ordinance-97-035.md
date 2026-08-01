@@ -1,0 +1,163 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-97-035
+title: 'Ordinance No. 97-035'
+doc_type: ordinance
+citation: 'Ordinance No. 97-035'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616785380_1997-22799-Ordinance%20No.%2097-035%20Recorded%206_26_1997.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: b3e2b1906d1f8b2acb4bfad83f3fc96a3afd3d1f8a15fab1c99def0e4453fda4
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 97-035 (Ordinance No. 97-035)
+
+## At a glance
+
+Ordinance No. 97-035 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+REVIEWID
+9' 7-' 2' 799
+of 62-:-0516
+LEGALCOUNSEL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COON I Y,
+An Ordinance Amending DeschutesCounty * -
+97
+8
+Code Title 17 section 17.48. 175, and Declaring
+an Emergency.
+ORDINANCE NO. 97- 035
+f_
+WHEREAS, The Board of County Commissioners has determined that to comply with Periodic
+Review and OAR Chapter 660-22, amendmentsto the DeschutesCounty Comprehensive Plan are
+required; and
+WHEREAS, after notice and hearing as required by law, the Board of County Commissioners
+hasconsidered the recommendation of the Planning Commission, now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+ORDAINS as follows:
+Section 1. ADOPTION OF AMENDMENTS TO CHAPTER 17. 48. 175 OF COUNTY CODE. Section
+17.48. 175, of the County Code, " Road Development Requriements - Standards," is amended to read as
+shown in Exhibit " A" attached hereto and by this reference incorporated herein, with new languageset
+forth as underlined type and deleted language in strikeout.
+Section 2. FINDINGS. Findings to support this ordinance are set forth in the findings supporting
+Ordinance No. 97-031 and attachedthereto as Exhibit " C" which findings are incorporated by reference
+herein.
+Section 3. CODIFICATION. Legal Counsel or the Code Book Review Committee shall have the
+authority to format the provisions contained herein in a mannerthat will integrate them into County Code
+consistent with the prescribed form and style for ordinance codification. Such codification shall include
+the authority to make format changes, to make changesto numbering systemsand to make such
+numbering changeswith interrelated code sections. In addition, aspart of codification of these
+ordinances, Legal Counsel or the Code Book Review Committee may insert appropriate legislative
+history references. Any legislative history references included herein are not adopted as part of the
+substance of this ordinance, but are included for administrative convenience and as a reference. They
+maybechangedto correcterrorsandto conformto properstylewithout actionof theBoardof County
+Commissioners.
+Section 4. CORRECTIONS. This ordinance may be corrected by order of the Board of County
+Commissioners to cure editorial and clerical errors and to insert appropriate legislative history
+references.
+Section 5. REPEAL OF ORDINANCES AFFECTING EXISTING LIABILITIES. The repeal express or
+implied, of any ordinance, ordinance provision, code section or any map or line on a map by this
+ordinance shall not releaseor extinguish any duty, condition, penalty, forfeiture, or liability incurred
+under such ordinance, unless a provision of this ordinance shall so expressly provide, and such ordinance
+repealed shall be treated as still remaining in force for the purpose of sustaining any proper action or
+prosecution for the enforcement of such duty, condition, penalty, forfeiture, or liability, for the EC
+JUN ` 1997
+l' Y ` .
+PAGE 1 OF 2 - ORDINANCE No. 97- 035 ( 6/ 25/ 97)
+0162- 051' 7
+of authorizing the prosecution, conviction and punishment of the person or persons who violated the
+repealed ordinance.
+Section 6. SEVERABILITY. The provision of this ordinance are severable. If any section,
+sentence, clause or phraseof this ordinance or any exhibit or any exhibit thereto is found to be invalid by
+a court of competentjurisdiction that decisions shall not affect the validity of the remaining portions of
+this ordinance.
+Section 7. EMERGENCY. This ordinance being necessaryfor the immediate preservation of the
+public peace, health and safety, an emergency is declared to exist, and the this ordinance takes effect on
+this passage.
+Dated this day of , 1997.
+BOARD OF COUNTY COMMISSIONERS
+OF DESC1 UTES COUNTY, OREGON
+NANCY P(VE SCHLANGEN, Chair
+NIPPER, Comm
+A SWEARIWEN,
+ST:
+yl_ . M,
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE No. 97- 035 ( 6/ 25/ 97)
+Exhibit " A"
+to Ordinance 97- 035
+17. 48. 175. Road development requirements -
+Unincorporated communities.
+A. Standards.
+1. In the areas zoned Urban Unincorporated
+Community -Commercial or Rural Service Center
+in La Pine, and - r: male, all roads shall be
+improved with curbs and sidewalks and to the
+width specified for the applicable urban
+classification in Table A of this title.
+2. For areas zoned Urban Unincorporated
+Community -Industrial or Rural Industrial (RI) all
+roads shall be improved to the width specified for
+the applicable urban classification in Table A; no
+curbs or sidewalks are required.
+3. For the areas designated residential
+within Urban Unincorporated Communities or
+zoned Rural Service Residential ( RSR - M and
+RSR - 5), all roads shall be improved with curbs
+and sidewalks if the density of development is
+greater than 2.2 dwelling units per acre. If the
+density is 2.2 dwelling units per acre or less, the
+adjacent roads shall be improved with curbs and
+to the width, without sidewalks, specified for the
+applicable urban classification in Table A of the
+title.
+4. In the Terrebonne Rural Community, all
+improvements to the public road rights- of- way
+shall conform to the road development standards
+contained in Title 18, section 18.66. 070 of this
+code, except for improvements to roads servicing
+mss - parcels of 10 acres or greater
+createdby a partition.
+5. In the Tumalo Rural Community, all
+improvements to the public rits- of- wa shall
+conform to the road development standards
+contained in Title 18, section 18. 67. 080 of this
+code, except for improvements to roads servicing
+parcels of 10 acres or greater created by a
+partition.
+0162' 0518
+63. No curbs or sidewalks are required in the
+rural service centers of Alfalfa, Brothers,
+Hampton, Millican, WhistleStop, Wickiup
+Junction, Wild Hunt, Deschutes River Woods and
+Spring River.
+B. All required road improvements shall be
+located on the applicant' s side of the street, unless
+the subject property lies on both sides of the
+street. ( Ord. 96- 003 § 12, 1996; Ord. 93- 057 § 1,
+1993; Ord. 93- 012 § 52, 1993)
+PAGE 1 OF 1 - ExHmrr " A" TO ORDINANCE 97- 035 ( 6/ 25/ 97)

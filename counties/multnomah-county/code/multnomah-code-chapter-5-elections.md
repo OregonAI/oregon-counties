@@ -1,0 +1,1523 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-code-chapter-5-elections
+title: 'Chapter 5: Elections'
+doc_type: ordinance
+citation: 'Chapter 5: Elections'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://multco.us/file/chapter_5:_elections/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 2743d0b4b644a07cd54321eb0302ae20768ff4f330ab1b146aff2a81f632ee97
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter 5: Elections (Chapter 5: Elections)
+
+## At a glance
+
+Chapter 5: Elections — code of Multnomah County. 16 pages.
+
+## Full text
+
+CHAPTER 5: ELECTIONS
+
+VACANCIES IN OFFICE
+
+§ 5.000 Definitions.
+§ 5.001 Vacancy In Office.
+§ 5.002 Filling Of Vacancy.
+§ 5.003 Designation Of Interim
+Elective Officers.
+§ 5.004 Appointment By Board.
+§ 5.005 Election To Fill Vacancy.
+§ 5.006 Nomination To Fill Vacancy.
+
+INITIATIVE AND REFERENDUM
+
+§ 5.100- Prospective Petition.
+§ 5.101 Ballot Title, Appeal.
+§ 5.102 Petition and Circulation
+Requirements.
+§ 5.103 Filing and Percentage Requirements;
+Verifications.
+§ 5.104 Measures Referred By Board.
+§ 5.105 Adoption or Election.
+§ 5.106 Election Notice And Procedure.
+§ 5.107 State Law Applies.
+
+CAMPAIGN FINANCE
+
+§ 5.200- Definitions.
+
+§ 5.201 Contributions in Multnomah County
+Candidate Elections.
+§ 5.202 Expenditures in Multnomah County
+Candidate Elections.
+§ 5.203 Timely Disclosure of Large
+Contributions and Expenditures.
+§ 5.204 Implementation and Enforcement.
+§ 5.205 Adjustments.
+§ 5.206 Severability.
+
+RANK CHOICE VOTING
+
+§ 5.300 Definitions.
+
+§ 5.301 Ranked Choice Voting.
+
+§ 5.302 Number of Rankings.
+
+§ 5.303 Candidacy by Certification as Write-Ins.
+
+§ 5.304 Elector Intent.
+
+§ 5.305 Tie Vote.
+
+§ 5.306 Tabulation.
+
+§ 5.307 Results Reporting.
+
+Cross-reference:
+ Elections, see Charter §§ 11.10  through 11.50
+
+Statutory reference:
+Conduct of elections, see ORS, Ch. 254
+2 Multnomah County - Elections
+(S-1 2017)
+VACANCIES IN OFFICE
+
+§ 5.000 DEFINITIONS.
+
+For the purpose of this subchapter, the
+following definitions shall apply unless the context
+requires a different meaning.
+
+COUNTY LEGISLATION.  Any
+ordinance that has been or lawfully may be enacted
+by the County, and any proposed amendment,
+revision or repeal of the Charter.  It does not include
+any property tax or bond measure, any emergency
+ordinance or any part of an ordinance that deals with
+purely administrative matters.
+
+DIRECTOR. The Director of the Division
+of Elections of the County, or authorized
+representative.
+
+ELECTIVE OFFICE.
+
+(1) Chair;
+
+(2) Auditor;
+
+(3) Commissioner; and
+
+(4) Sheriff.
+
+ELECTOR.  Any person eligible under
+state law to vote in the County.
+
+MEASURE.  Any County legislation, or
+property tax or bond measure proposed for
+adoption, amendment, revision, repeal or referral
+through the initiative or referendum procedures
+prescribed by this subchapter.
+
+REGULAR ELECTION.  Any election on
+a biennial primary or general election date.
+
+SPECIAL ELECTION.  Any election date
+established by State law on a date other than a
+regular election date.
+
+TERM OF OFFICE. The term of office
+of the last person elected to the office that is
+vacant.
+(Ord. 1215, Amended, 03/19/2015, Ord. 965, Amended,
+09/13/2001; ‘ 90 Code, § 4.30.010, 07/01/1998; Ord. 478,
+passed, 09/20/1985; Ord. 211, passed, 11/29/1979; Ord. 68,
+passed, 03/29/1973)
+
+§ 5.001 VACANCY IN OFFICE.
+
+A county elective office becomes vacant:
+
+(A) Upon the incumbent's:
+
+(1) Death;
+
+(2) Adjudicated incompetence;
+
+(3) Conviction of a felony,
+other offense pertinent to the office, or unlawful
+destruction of public records;
+
+(4) Resignation from office;
+
+(5) Recall from the office; or
+
+(6) Ceasing to reside within the
+county or if a commissioner, within the
+commissioner district , or inability to obtain a
+corporate surety bond as required under Charter §
+4.10(2);
+
+(B) Upon the failure of the person
+elected or appointed to the office to qualify for it
+within ten days after the time for the term of office
+to commence;
+
+(C) In the case of a member of the Board,
+upon absence:
+
+(1) From the county for 30
+consecutive days without the consent of the Board; or
+(2) From Board meetings for 60
+consecutive days without like consent; or
+
+(D) In the case of the Chair, upon
+absence fr om the coun ty for 30 consecutive da ys
+without consent of the Board.
+
+Cross-reference:
+Board of County Commissioners, see Chapter
+3
+(Ord. 1215, Amended, 03/19/2015, Ord. 965, Amended,
+09/13/2001; ‘ 90 Code, § 4.30.020, 07/01/1998; Ord. 478, passed,
+09/20/1985; Ord. 211, passed, 11/29/1979; Ord. 68, passed,
+03/29/1973)
+    CHAPTER 5: ELECTIONS             3
+
+(S-1 2017)
+§ 5.002 FILLING OF VACANCY.
+
+(A) Upon becoming aware of a vacancy
+in an elective office, the Board must promptly
+determine and declare the date of vacancy.
+
+(B) If a vacancy occurs in an elective
+office of the county and the term of office expires
+one year or more after the vacancy occurs, then a
+person will be elected at the next May or November
+election for which the state law filing requirement
+can be met to fill the vacancy for the remainder of
+the term of office.
+
+(C) If a vacancy occurs in an elective
+office of the county and the term of office expires
+less than one year but 90 days or more after the
+vacancy occurs, then the Board shall appoint a
+person to fill the vacancy for the remainder of the
+term of office.
+
+(D) If a vacancy occurs in an elective
+office of the county and the term of office expires
+less than 90 days after the vacancy occurs, the
+vacancy shall not be filled.
+(Ord. 1215, Amended, 03/19/2015, Ord. 965, Amended,
+09/13/2001; ‘ 90 Code, § 4.30.030, 07/01/1998; Ord. 478,
+passed, 09/20/1985; Ord. 211, passed, 11/29/1979; Ord. 68,
+passed, 03/29/1973)
+
+§ 5.003 DESIGNATION OF
+INTERIM ELECTIVE
+OFFICERS.
+
+(A) Purpose.
+
+(1) When a vacancy occurs in
+elective county offices, vacancies must be filled by
+election or appointment, depending on the time
+remaining before expiration of the affected terms
+of office.
+
+(2) If there is a vacancy in an
+elective office, an interim occupant of the office will
+serve until the vacancy is filled by election or
+appointment. The Charter requires that the Board
+prescribe procedures to designate interim
+occupants of elective offices.
+
+(B) Interim Officer Designation.
+
+(1) County elected officials
+must each designate a person to perform their
+responsibilities. The designation must be in writing
+and filed with the clerk of the Board. If the Board
+does not confirm the designated person by a majority
+vote within 60 days of filing, the designating
+elected official must designate another person for
+Board confirmation.
+
+(2) When there is a vacancy,
+the designated person shall serve as acting Chair,
+Commissioner, Auditor, or Sheriff until the vacancy
+is filled by election or appointment, as appropriate
+under the Charter.
+
+(3) If a person for an elective
+office has not been designated, or if the designated
+person is unable to immediately serve, the Board
+must promptly meet to fill the vacancy on an interim
+basis. The appointment must be in writing and filed
+with the clerk of the Board.
+
+(4) All persons designated to
+fill elective offices on an interim basis must meet
+the Charter qualifications for appointees to such
+offices.
+(Ord. 1215, Amended, 03/19/2015, Ord. 965, Amended,
+09/13/2001; Ord. 923, passed, 01/14/1999; ‘ 90 Code, §
+4.30.035, 07/01/1998; Ord. 716,
+passed, 03/26/1992)
+
+§ 5.004 APPOINTMENT BY BOARD.
+
+(A) In filling a vacancy, the Board may
+make such inquiries and interviews as it considers
+necessary to select the appointment. The
+appointment must be made at a regular or special
+Board meeting.
+
+(B) The Board will use the following
+procedures in the appointment process:
+
+(1) Public notice must be given
+to appropriate neighborhood organizations, cities,
+civic groups, a newspaper of general circulation and
+other recognized groups.
+4 Multnomah County - Elections
+(2) A deadline must be
+established for submitting  applications at least  two
+weeks after such notice.
+
+(3) The person to fill the
+vacancy must be appointed from those applicants
+nominated and seconded for consideration by
+members of the Board. The Board clerk will
+announce the results of each ballot and will record
+each commissioner's ballot. An applicant who
+receives a majority of the votes by the current
+Board members will be appointed to the vacant
+position. If no applicant receives a majority vote on
+the first ballot, the Board shall continue to vote on
+the two applicants who receive the most votes until
+an applicant receives a majority vote of the Board.
+(Ord. 1215, Amended, 03/19/2015, Ord. 965, Amended,
+09/13/2001; ‘ 90 Code, § 4.30.045, 07/01/1998; Ord.
+478, passed, 09/20/1985)
+
+§ 5.005 ELECTION TO FILL VACANCY.
+
+(A) If an election is required to fill a
+vacancy, the Board must call such an election on
+the next May or November election date for which
+the state law filing requirements can be met.
+
+(B) The Board may call an emergency
+election if it has been demonstrated that the public
+interest would be harmed by waiting. The date of
+the emergency election must allow sufficient time to
+meet the requirements of § 5.006.
+(Ord. 1215, Amended, 03/19/2015, Ord. 965, Amended,
+09/13/2001; ‘ 90 Code, § 4.30.055, 07/01/1998; Ord. 881,
+passed, 06/26/1997; Ord. 478, passed, 09/20/1985)
+
+§ 5.006 NOMINATION TO
+FILL VACANCY.
+
+(A) Nomination for election to fill a
+vacancy must be made by the petition or
+declaration method established by state law for the
+selection of candidates for nomination at a primary
+election. The Board must set a filing deadline at
+the time it calls an election. The filing deadline
+must not be later than the 70th day before the May
+election, or the 61st day before a November election.
+(Ord. 1215, Amended, 03/19/2015, Ord. 965, Amended,
+09/13/2001; ‘ 90 Code, § 4.30.065, 07/01/1998; Ord. 881,
+passed, 06/26/1997; Ord. 478, passed, 09/20/1985)
+§ 5.007
+(Ord. 1337, Deleted, 07/24/2025; Ord. 1215, Amended,
+03/19/2015, Ord. 965, Amended, 09/13/2001; ‘ 90 Code, §
+4.30.080, 07/01/1998; Ord. 881, passed, 06/26/1997; Ord. 616,
+passed, 04/27/1989)
+
+INITIATIVE AND REFERENDUM
+
+§ 5.100 PROSPECTIVE PETITION.
+
+(A) Before circulating among the
+electors a petition proposing an initiative or
+referendum for county legislation, the chief
+petitioners must file a prospective petition with the
+director. The prospective petition must contain each
+of the following:
+
+(1) The signatures,  printed
+names and mailing addresses of not less than one
+and not more than three chief petitioners, all of whom
+must be electors of the county;
+
+(2) In the case of initiative
+petitions, the text of the county legislation proposed
+for adoption, amendment, revision or repeal, and,
+where applicable, the title, ordinance number, and
+charter or code section numbers proposed for
+amendment, revision or repeal;
+
+(3) In the case of referendum
+petitions, the text of the county legislation proposed
+for referral, and where applicable, the title,
+ordinance number or code section numbers of the
+county legislation proposed for referral; and
+
+(4) Whether one or more per-
+sons will be paid for obtaining signatures on the
+petition.
+
+(B) The director must inscribe the date
+of filing upon any prospective petition filed in the
+director's office.
+    CHAPTER 5: ELECTIONS             5
+
+(C) Prior to the conclusion of the fifth
+business day after a prospective petition for
+referendum or initiative is filed and complies with
+the requirements of this subchapter and other
+applicable law, the director will review the text of
+the proposed initiative or referendum to determine
+whether it complies with the single subject
+requirement and determine if the initiative or
+referendum proposes “county legislation.”
+(Ord. 1215, Amended, 03/19/2015, Ord. 965, Amended,
+09/13/2001; ‘ 90 Code, § 4.51.020, 07/01/1998; Ord. 881,
+passed, 06/26/1997; Ord. 212, passed, 11/29/1979; Ord. 167,
+passed, 07/06/1978)
+
+§ 5.101 BALLOT TITLE; APPEAL.
+
+ (A) (1)  If the proposed petition
+meets the requirements of § 5.100(C), the director
+will transmit two copies of the prospective
+petition to the county attorney. The county
+attorney has five business days after receiving the
+prospective petition to prepare a ballot title for the
+proposed measure and an explanatory statement for
+the voter's pamphlet. The ballot title must
+conform to the requirements of state law.
+
+(2) The explanatory statement
+must consist of an impartial, simple and understand-
+able statement explaining the measure and its effect.
+The explanatory statement shall not exceed 500
+words.
+
+(3) After preparing the ballot
+title and explanatory statement, the county attorney
+will immediately return one copy of the prospective
+petition, ballot title and explanatory statement to the
+director and one copy to one of the chief petitioners.
+
+ (B) After receiving a ballot title and
+explanatory statement for a county measure to be
+referred or initiated from the county attorney, the
+director must publish in the next available edition of
+a newspaper of general circulation in the county a
+notice of receipt of the ballot title and
+explanatory statement. The notice must state that an
+elector may file a petition for review of the ballot
+title or explanatory statement not later than the date
+referred to in subsection (C).
+
+ (C) After receiving the prospective
+petition, ballot title and explanatory statement from
+the county attorney, the director must inscribe the
+date of receipt on it. Within seven business days
+after that date, any elector may petition the circuit
+court for the county to challenge the ballot title or
+explanatory statement prepared by the county attorney.
+After the seven-day period, or following the final
+adjudication of any challenge, the director must certify
+the ballot title as prepared by the county attorney or
+as prescribed by the court to one of the chief
+petitioners.
+
+ (D) Any person filing a petition to
+challenge a ballot title or explanatory statement with
+the circuit court must file a copy of the challenge
+with the director not later than the end of the business
+day next following the date the petition is filed with
+the circuit court. This requirement does not invalidate
+a petition that is timely filed with the circuit court.
+
+ (E) The procedures set forth in
+subsections (A) through (D) for preparation of, and
+challenges to, ballot titles and explanatory statements
+are not a prerequisite to the circulation of petitions
+for referendum measures under § 5.102. Ballot titles
+need not be stated on petitions circulated to propose
+referendum measures.
+(Ord. 1215, Amended, 03/19/2015, Ord. 965, Amended,
+09/13/2001; ‘ 90 Code, § 4.51.030, 07/01/1998; Ord. 881,
+passed, 06/26/1997; Ord. 601, passed, 12/27/1988; Ord. 212,
+passed, 11/29/1979; Ord. 167, passed, 07/06/1978)
+
+§ 5.102 PETITION AND CIRCULATION
+REQUIREMENTS.
+
+(A) After the requirements of §
+5.100(C) are met for referendum petitions, and after
+the requirements of § 5.101(C) are met for initiative
+petitions, the chief petitioners may circulate a petition
+for the measure among the electors. The petition
+(cover sheet and signature sheet) must conform to the
+requirements of state law.
+
+(B) The petition identification number
+will be assigned by the director.
+
+(C) Each signature sheet of a
+referendum petition must contain the title, ordinance
+number or code section numbers of the county
+legislation proposed by referral and the date it was
+adopted by the Board.
+6 Multnomah County - Elections
+(D) No signature sheet  may be
+circulated by more than one person. Each signature
+sheet must contain a statement signed by the
+circulator that each elector who signed the sheet did
+so in the circulator's presence, and, to the best of the
+circulator's knowledge, each such elector is a legal
+voter of the county and that the information placed
+on the sheet by each such elector is correct.
+(Ord. 1215, Amended, 03/19/2015, Ord. 965, Amended,
+09/13/2001; ‘ 90 Code, § 4.51.040, 07/01/1998; Ord. 881,
+passed, 06/26/1997; Ord. 601, passed, 12/27/1988; Ord. 298,
+passed, 02/25/1982; Ord. 167, passed, 07/06/1978)
+
+§ 5.103 FILING AND PERCENTAGE
+REQUIREMENT;
+VERIFICATION.
+
+(A) The director will accept for
+signature verification in accordance with this
+subchapter only petitions that comply with the
+requirements of this subchapter and other applicable
+law.
+
+(B) No petition may be accepted for filing
+unless it contains at least  the required number of
+verified signatures to submit the measure to the
+electors, as prescribed by subsections (G), (H) or (I).
+
+(C) No initiative petition may be accepted
+for signature verification more than six months after
+the date of the director's certification under §
+5.101(C).
+
+(D) Any petition to refer legislation
+adopted by the Board must be submitted for signature
+verification not more than 90 days after the Board's
+adoption of such legislation.
+
+(E) An initiative or referendum petition
+may not be accepted for signature verification if it
+contains less than 100% of the required number of
+signatures.
+
+(F) Upon the acceptance of a petition,
+the director must verify the signatures thereon. Such
+verification may be performed by random sampling in
+a manner approved by the Secretary of State.
+Within 30 days after the director's acceptance of a
+petition, the director must certify to the Board
+whether the petition contains a sufficient number of
+qualified signatures to require the submission of the
+proposed measure to the electors, and also state in
+the certificate the nu mber of qualified  signatures
+prescribed by subsections (G), (H) or (I) to require the
+proposed county legislation to be submitted to the
+electors. The petition will be considered filed as of the
+date of the director's certification.
+
+(G) An initiative measure proposing the
+amendment, revision or repeal of the Charter, or
+parts thereof, will be submitted to the electors if the
+number of qualified signatures on the petition equals or
+exceeds 8% of the total number of votes cast in the
+county for all candidates for governor of Oregon at the
+last general election at which the office of governor
+was filled for a four-year term.
+
+(H) An initiative measure proposing the
+adoption, amendment or repeal of any other county
+legislation, or parts thereof, will be submitted to the
+electors if the number of qualified signatures on the
+petition equals or exceeds 6% of the  total nu mber of
+votes cast in the county for all candidates for governor
+at the last general election at which the office of
+governor was filled for a four-year term.
+
+(I) A referendum measure will be
+submitted to the electors if the number of qualified
+signatures on the petition equals or exceeds 4% of
+the total number of votes cast in the county for all
+candidates for governor at the last general election at
+which the office of governor was filled for a four- year
+term.
+(Ord. 1215, Amended, 03/19/2015, Ord. 965, Amended,
+09/13/2001; ‘ 90 Code, § 4.51.050, 07/01/1998; Ord. 881,
+passed, 06/26/1997; Ord. 601, passed, 12/27/1988; Ord. 167,
+passed, 07/06/1978)
+
+§ 5.104 MEASURES REFERRED BY
+BOARD.
+
+(A) The Board may directly refer to the
+electors any county legislation adopted by it and any
+proposed property tax or bond measure, and may
+directly refer to the electors proposed amendments, or
+revisions or the repeal of the Charter or parts
+thereof. The Board must refer all amendments pro-
+posed by the Charter Review Committee.
+
+(B) The county attorney will prepare a
+ballot title and explanatory statement that conforms to
+the requirements of state law. The Board will certify
+and file the ballot title and explanatory statement,
+and file them with the director.
+    CHAPTER 5: ELECTIONS             7
+
+(C) The director will publish in the next
+available edition of a newspaper of gen eral
+circulation in the county a notice of  receipt of the
+ballot title and explanatory statement, notice that any
+elector may file a petition for review of the ballot
+title or explanatory statement, the deadline for filing
+the petition and notifying the director, and
+information on how to obtain a copy of the ballot title.
+
+(D) Any elector may petition the circuit
+court to challenge the ballot title or explanatory
+statement certified by the Board. Such petition must
+be filed with the circuit court within seven (7)
+business days of the Board's filing of the ballot title
+with the director. Any person filing a petition must
+submit a copy of the petition to the director not later
+than the end of the business day following the date
+the petition is filed with the circuit court. This
+requirement does not invalidate a petition that is
+timely filed with the circuit court.
+
+(E) If no  petition is timely filed under
+section (D), the Board may certify the ballot title and
+explanatory statement as specified by state law.
+(Ord. 1215, Amended, 03/19/2015, Ord. 965, Amended,
+09/13/2001; ‘ 90 Code, § 4.51.060, 07/01/1998; Ord. 881, passed,
+06/26/1997; Ord. 626, passed, 08/10/1989; Ord. 601, passed,
+12/27/1988; Ord. 212, passed, 11/29/1979; Ord. 167, passed,
+07/06/1978)
+
+§ 5.105 ADOPTION OR ELECTION.
+
+(A) Upon receiving the director's
+certification that a petition has been filed with
+sufficient qualified signatures to require the proposed
+county legislation to be submitted to the electors
+under § 5.103(F), the Board may either by ordinance
+adopt the proposed legislation or call an election for
+submission of the legislation to the  electors. The
+Board may also call an election to submit county
+legislation to the electors upon referral under § 5.104.
+
+(B) The Board must call the election on
+the next election date available under state law that is
+not sooner than the 90th day after the date of the
+director's certificate of sufficient signatures. For a
+Board referral, the election on the referendum of
+county legislation must be held on the next election
+date available under state law.
+(Ord. 1215, Amended, 03/19/2015, Ord. 965, Amended,
+09/13/2001; ‘ 90 Code, § 4.51.070, 07/01/1998; Ord. 881, passed,
+06/26/1997; Ord. 626, passed, 08/10/1989; Ord. 601, passed,
+12/27/1988; Ord. 298, passed, 02/25/1982; Ord. 167, passed,
+07/06/1978)
+
+§ 5.106 ELECTION NOTICE AND
+PROCEDURE.
+
+(A) Notice of elections on measures to be
+submitted to the electors on regular or special election
+dates must be given in accordance with state law.
+
+(B) Measures referred by the Board will be
+designated on the ballot: “Referred to the People by the
+Board of County Commissioners.”
+
+(C) Measures proposed by referendum
+petition will be designated on the ballot: “Referred by
+Petition of the People.”
+
+(D) Measures proposed by initiative
+petition will be designated on the ballot: “Proposed by
+Initiative Petition.”
+
+(E) Within 20 days following any election,
+the director must certify the election results to the
+Board. The Board must canvass the vote and enter its
+proclamation of the results in its minutes.
+
+(F) A measure adopted by the electors
+takes effect 30 days after the election, unless such
+measure expressly provides a later effective date.
+(Ord. 1215, Amended, 03/19/2015, Ord. 965, Amended,
+09/13/2001; ‘ 90  Code, § 4.51.080, 07/01/1998; Ord. 88 1, passed,
+06/26/1997; Or d. 601, passe d, 12/27/1988; Ord. 16 7, passe d,
+07/06/1978)
+
+§ 5.107 STATE LAW APPLIES.
+
+Applicable provisions of state elections law
+dealing with matters not regulated by this subchapter
+apply to initiative and referendum procedures on
+county legislation, together with this subchapter. The
+provisions of this subchapter prevail over any
+conflicting provisions of state law.
+(Ord. 1215, Amended, 03/19/2015, Ord. 965, Amended,
+09/13/2001; ‘ 90 Code, § 4.51.090, 07/01/1998; Ord. 881, passed,
+06/26/1997; Ord. 167, passed, 07/06/1978)
+8 Multnomah County - Elections
+CAMPAIGN FINANCE
+
+§ 5.200- DEFINITIONS.
+
+Unless otherwise indicated by the text or context
+of MCC 5.200 through MCC 5.206 , the following
+terms used in MCC 5.200 through MCC 5.206 shall
+have the definitions below or set forth in the
+Contribution Limit and Disclosure Administrative
+Rules (CLDR).  Terms defined below and in CLDR
+are capitalized in MCC 5.200 through MCC 5.206.
+
+CANDIDATE.  Has the meaning set forth in
+CLDR.
+
+CANDIDATE COMMITTEE. Has the
+meaning set forth in CLDR.
+
+CLDR.  Means Contribution Limit and
+Disclosure Administrative Rules.
+
+CLEARLY IDENTIFIED. Means (i) the name
+of the Candidate involved appears; (ii) a photograph or
+drawing of the Candidate appears; or (iii) the identity
+of the C andidate is apparent by unambiguous
+reference.
+
+COMMUNICATION.
+
+(A) Means any written, printed, digital,
+electronic or broadcast communications in support of
+or opposition to a C learly Identified Candidate in a
+Multnomah County Candidate Election but does not
+include communication:
+
+(1) that is funded using a total of $366 or less;
+
+(2) by means of small items worn or carried
+by Individuals;
+
+(3) bumper stickers;
+
+(4) Small Signs; or
+
+(5) a distribution of five hundred (500) or
+fewer substantially similar pieces of literature
+within any 10 business-day period.
+(B) For purposes of this definition, written,
+printed, digital, electronic or broadcast
+communications include but are not limited to
+text messages; videos; websites; Social Media
+posts; emails; graphics with interchanging
+formats or photos; still photos trans mitted
+electronically; and automated or autogenerated
+communications prepared by an Individual or
+Entity and distributed by volunteers using their
+own devices in support of or opposition to a
+Clearly Identified Candidate in a Multnomah
+County Candidate Election.
+
+CONTRIBUTION. Has the meaning set forth in
+CLDR.
+
+CREDIT UNION.  Has the meaning set forth in
+CLDR.
+
+DIRECTOR.  Means the Multnomah County
+Director of Elections or their designee.
+
+DOMINANT CONTRIBUTO R.  Means any
+Individual or Entity which contributes more than $1,223
+during an Election Cycle to the Candidate Committee,
+Political Committee, or nonprofit.
+
+DOMINANT INDEPENDENT SPENDER.
+Means any Individual or Entit y which expends more
+than $1,223  during an Election Cycle to support or
+oppose a particular Multnomah County Candidate.
+
+ELECTION CYCLE.
+
+(A) Generally, the period between an election at
+which a candidate is elected and the next election for
+that same office, disregarding any intervening pri mary
+or nominating election, any recall election, or any
+special election called to fill a vacancy.
+
+(B) For any recall election: the period beginning the
+day that the recall election is called or declared and
+ending at midnight of the day of the recall election.
+    CHAPTER 5: ELECTIONS             9
+
+(C) For any special election called to fill a
+vacancy: the period beginning the day that the special
+election is called or declared and ending at midnight of
+the day of the election.
+
+(1) The Election Cycle for a special election
+is inclusive of a special runoff election if
+no Candidate receives 50% plus one vote
+of votes case at an election to fill a
+vacancy.
+
+ENTITY. Means any corporation, partnership,
+limited liability company, proprietorship, or other
+form of organization which creates an entity which is
+legally separate from an Individual , including
+Candidate Committees, Political Committees, and
+Small Donor Committees.
+
+EXPENDITURE. Has the meaning set forth in
+CLDR.
+
+EXTRANATIONAL INSTITUTION.   Has the
+meaning set forth in CLDR.
+
+FINANCIAL INSTIUTION.  Has the meaning
+set forth in CLDR.
+
+INDEPENDENT EXPENDITURE.   Has the
+meaning set forth in CLDR.
+
+INDIVIDUAL. Means a citizen or resident
+alien of the United States entitled to vote in federal
+elections; however, when this Amendment expresses a
+limitation or prohibition, “Individual” means any
+human being.
+
+INSURED INSTITUTION.  Has the meaning set
+forth in CLDR.
+
+MEMBERSHIP ORGANIZATION.  Means an
+incorporated or unincorporated nonprofit organization
+having members who pay dues or otherwise
+affirmatively join and support the organization.
+
+MULTNOMAH COUNTY CANDIDATE
+ELECTION. Means an election, including a
+primary election, to select persons to serve (or cease
+serving) in public offices of Multnomah County.
+POLITICAL COMMITTEE.  Has the meaning set
+forth in CLDR.
+
+PROMINENTLY DISCLOSE.  Means that the
+disclosure will be readily comprehensible to a person
+with average reading, vision, and hearing faculties,
+with:
+
+(A)  any printed disclosure appearing in a type of
+contrasting color and in the same or larger font size as
+used for the majority of text in the printed material;
+
+(B)  any video disclosure remaining reading on the
+regular screen (not closed captioning) for not less than
+4 seconds;
+
+(C) any auditory disclosure spoken at a maximum
+rate of 5 words per second;
+
+(D)  any electronic message in type of a
+contrasting color in the same or larger font size as used
+for the majority of text in the message;
+
+(E)  any billboard or sign other than a Small Sign:
+in type of a contrasting color and not smaller than 10
+percent of the height of the billboard or sign.
+
+SMALL DONOR COMMITTEE. Means a
+Political Committee which has never accepted
+Contributions in amounts exceeding the Small Donor
+Committee qualifying amount in effect when the
+Contribution is accepted.  The current Small Donor
+Committee qualifying amount is one hundred twenty-
+two dollars ($122) per Individual contributor per
+calendar year.
+
+SMALL SIGNS.  Means a sign smaller than 6
+square feet.
+
+SOCIAL MEDIA.  Has the meaning set forth in
+CLDR.
+(Ord. 1319, Amended, 12/14/2023; Ord. 1289, Amended,
+12/17/20; Ord. 1276, Amended, 11/07/2019; Ord. 1243, Added,
+09/01/2017)
+10 Multnomah County - Elections
+§ 5.201 CONTRIBUTIONS IN
+MULTNOMAH COUNTY
+CANDIDATE ELECTIONS.
+
+ (A) An Individual or Entity may make
+Contributions only as specifically allowed to be
+received in this Section.
+
+ (B) A Candidate or Candidate Committee
+may receive only the following contributions during
+any Election Cycle:
+
+(1) Not more than six hundred three
+dollars ($603) from an Individual
+or Political Committee other than
+a Small Donor Committee;
+
+(2) Any amount from a Small Donor
+Committee; and
+
+(3) No amount from any other
+Entity.
+
+(C) For purposes of subsection (A) and
+(B), a Contribution is not considered to have been
+made or received if refunded or declined:
+
+(1) Except as provided in subsection
+(C)(2), within 30 calendar days
+of the date of receipt by the
+Candidate or their Candidate
+Committee;
+
+(2) For a Contribution received
+during the period beginning 42
+calendar days before a primary,
+general, recall, or special
+election, within seven calendar
+days of the date of receipt by the
+Candidate or their Candidate
+Committee.
+
+(D) Individuals shall have the right to
+make Contributions by payroll deduction by any
+private or public employer upon the employer’s
+agreement or if such deduction is available to the
+employees for any other purpose.
+(Ord. 1319, Amended, 12/14/2023; Ord. 1243, Added,
+09/01/2017)
+§ 5.202 EXPENDITURES IN
+MULTNOMAH COUNTY
+CANDIDATE ELECTIONS.
+
+An Entity shall register as a Political Committee
+within three (3) business days of making aggregate
+Independent Expenditures exceeding $919 in any
+Election Cycle to support or oppose one or more
+Candidates in any Multnomah County Candidate
+Election.
+(Ord. 1319, Amended, 12/14/2023; Ord. 1289, Amended,
+12/17/2020; Ord. 1243, Added, 09/01/2017; MCC 5.202(A) and
+MCC 5.202(C) were held to be invalid in Multnomah County v.
+Mehrwein, 366 Or 295, 462 P3d 706 (2020))
+
+§ 5.203 TIMELY DISCLOSURE OF
+LARGE CONTRIBUTIONS AND
+EXPENDITURES.
+
+(A)  Each Communication to voters related to a
+Multnomah County Candidate Election will
+Prominently Disclose the true original sources of the
+Contributions and/or Independent Expenditures used to
+fund the Communication, including:
+
+(1) The names of any Political Committees
+and other Entities that have paid to
+provide or present it; and
+
+(a) For each of the five Dominant
+Contributors  providing the largest
+amounts of funding to each such
+Political Committee or Entity in the
+current Election Cycle:
+
+(i) The name of the Individual or
+Entity providing the
+Contribution.
+
+(ii) The types of businesses from
+which the Entity has obtained a
+majority of income over the
+previous 5 years, with each
+business identified by the name
+associated with its 6-digit code
+of the North American Industry
+Classification System
+(NAICS).
+    CHAPTER 5: ELECTIONS             11
+
+(2) For each of the largest five Dominant
+Independent Spenders that have paid to
+provide or present it:
+
+(a) The name of the Individual or
+Entity providing the Independent
+Expenditure.
+
+(b) The types of businesses from
+which the Entity making the
+Independent Expenditure has
+obtained a majority of income over
+the previous 5 years, with each
+business identified by the name
+associated with its 6-digit code of
+the NAICS.
+
+(B)  If any of the five largest Dominant
+Contributors or Dominant Independent Spenders is a
+Political Committee (other than a Small Donor
+Committee) or nonprofit organization, the prominent
+disclosure will include each of the three Dominant
+Contributors providing the largest amounts of
+funding to that Political Committee or nonprofit
+during the current Election Cycle.
+
+(C)  For purposes of MCC 5.203(A), if more than
+five Individuals or Entities qualify as the largest
+Dominant Contributors or Dominant Independent
+Spenders, the disclosure will disclose the five
+applicable Individuals or Entities whose
+Contributions, Expenditures, or Independent
+Expenditures were made closest to the date of initial
+printing or transmission of the Communication.
+
+(D)  For purposes of MCC 5.203(B), if more
+than three Individuals or Entities qualify as the
+Dominant Contributors providing the largest amounts
+of funding during the current Election Cycle, the
+disclosure will disclose the three applicable
+Individuals or Entities whose Contributions or
+donations were made closest to the date of initial
+printing or transmission of the Communication.
+
+(E)  The disclosure will be current to within 10
+business days of the printing of printed material or
+within 5 business days of the transmitting of a video
+or audio communication.
+(Ord. 1276, Amended, 11/07/2019; Ord. 1243, Added,
+09/01/2017)
+
+§ 5.204 IMPLEMENTATION AND
+ENFORCEMENT.
+
+(A)  A violation occurs when an Individual or
+Entity fails to comply with any provision of MCC
+5.200 through MCC 5.203.
+
+(B)  Each violation of any provision in this
+Section will be punishable by imposition of a civil
+fine, which is not less than two or more than twenty
+times the amount of the unlawful Contribution or
+Expenditure or Independent Expenditure.
+
+(1) For purposes of MCC 5.203, the amount
+of an unlawful Contribution,
+Expenditure, or Independent
+Expenditure is the amount that each
+Individual or Entity uses to fund a
+Communication that does not comply
+with MCC 5.203.
+
+(2) Civil fines will be issued to each
+Individual or Entity that funds a
+Communication that does not comply
+with MCC 5.203, based on the amount
+that each Individual or Entity paid to
+fund the noncompliant Communication.
+
+(C)  The Director will promulgate administrative
+rules to carry out and enforce MCC 5.200 through
+MCC 5.204.  The Director will enforce the provisions
+of MCC 5.200 through MCC 5.204 and the
+administrative rules adopted pursuant to this Section.
+
+(D)  Any person may file a written complaint of a
+violation of MCC 5.200 to MCC 5.203 with the
+Director.
+
+(E)  The Director, otherwise having reason to
+believe that a violation of any provision has occurred,
+will issue a complaint regarding such violation.
+
+(F) Upon receipt or issuance of a complaint, the
+Director will examine the complaint to determine
+whether a violation has occurred and will make any
+investigation necessary.
+12 Multnomah County - Elections
+(G)  The Director may issue subpoenas to compel
+the production of records, documents, books, papers,
+memoranda or other information necessary to
+determine compliance with the provisions of MCC
+5.200 to 5.203.
+
+(H)  The Director will find a violation occurred if
+the Director determines that there is sufficient
+evidence to show that it is more likely than not that
+an Individual or Entity violated MCC 5.200 through
+MCC 5.203.
+
+(I) Upon finding a violation of the requirement
+for timely disclosure set forth in MCC 5.203, the
+Director:
+
+(1) Will undertake an investigation to
+determine the true original sources of
+the Contributions and/or Independent
+Expenditures used to fund the
+Communication at issue; and
+
+(2) Will issue a statement containing the
+available information about the involved
+donor(s) required by MCC 5.203 to:
+
+(a) The complainant, if any;
+
+(b) Each Individual and Entity who is
+the subject of the complaint; and
+
+(c) Any Individual or Entity, including
+a news organization, who has
+requested in writing to receive such
+statements.
+
+(3) May issue a civil penalty of not less than
+two or more than twenty times the
+amount of the unlawful Contribution or
+Expenditure or Independent
+Expenditure.
+
+(J) The County’s decision in the matter is final
+upon issuance.  Such decision will be enforced by
+Multnomah County.  If a civil penalty is not paid
+within 30 days of the date of the County’s final
+decision or completion of any judicial review,
+whichever is later, the fine then due will be increased
+by 25% of the original amount; if the civil penalty is
+not paid within 60 days of the date of the County’s
+final decision or completion of judicial review,
+whichever is later, the fine then due will be increased
+by 50% of the original amount.  At the discretion of
+the Director, any civil penalty not paid within 60 days
+from the date of the final decision or completion of
+judicial review, which is later, may be assigned to a
+collection agency for collection on behalf of
+Multnomah County.
+(Ord. 1319, Amended, 12/14/2023; Ord. 1276, Amended,
+11/07/2019; Ord. 1243, Added, 09/01/2017)
+
+§ 5.205  ADJUSTMENTS.
+
+      (A) All dollar amounts shall be adjusted on
+January 1 of each odd-numbered year using the
+November West Region-Size Class A Consumer Price
+Index All Urban Consumers (CPI-U), Not Seasonally
+Adjusted, for the preceding even-numbered year
+rounded to the nearest dollar.
+
+(B)  Using the November West Region-Size Class
+A Consumer Price Index All Urban Consumers (CPU-
+U), Not Seasonally Adjusted, for the even-numbered
+year, the County Chief Operating Officer shall
+determine the adjustments for all dollar amounts in
+Multnomah County Code Chapter 5 and provide that
+information in writing to the County Attorney by
+December 15 of each even-numbered year.
+
+(C)  Based on the information provided by the
+County Chief Operating Officer in subsection (B), the
+County Attorney shall update Multnomah County
+Code Chapter 5 on January 1 of each odd-numbered
+year to reflect all adjusted dollar amounts.
+(Ord. 1289, Amended, 12/17/2020; Ord. 1243, Added, 09/01/2017)
+
+§ 5.206  SEVERABILITY.
+
+     For the purpose of determining constitutionality,
+every subsection, and subdivision thereof this Section,
+at any level of subdivision, shall be evaluated
+separately.  If any section, subsection or subdivision at
+any level is held invalid, the remaining sections,
+subsections and subdivisions shall not be affected and
+shall remain in full force and effect.  The courts shall
+sever those sections, subsection, and subdivisions
+necessary to render this Section consistent with the
+United States Constitution and with the Oregon
+Constitution.  Each section, subsection, and subdivision
+thereof, at any level of subdivision, shall be considered
+severable, individually or in any combination.
+(Ord. 1243, Added, 09/01/2017)
+
+    CHAPTER 5: ELECTIONS             13
+
+RANK CHOICE VOTING
+
+§ 5.300  DEFINITIONS
+
+For purposes of MCC 5.300 through MCC 5.307,
+the following definitions shall apply unless the
+context requires a different meaning.
+
+(A) ACTIVE BALLOT.  Any ballot that is
+not an inactive ballot.
+
+(B) ACTIVE CANDIDATE.  Any
+candidate who has not been defeated or
+elected.
+
+(C) BATCH ELIMINATION.  The
+simultaneous defeat of multiple active
+candidates for whom it is
+mathematically impossible to be
+elected.  For purposes of this definition,
+write-in votes tallied together may be
+defeated as a single candidate for
+whom it is mathematically impossible
+to be elected.
+
+(D) CANDIDATE HAVING THE
+FEWEST VOTES.  The active
+candidate who has the fewest votes in
+the round but for whom it is not
+mathematically impossible to be
+elected in the round.  For purposes of
+this definition, write-in votes tallied
+together may be a single “candidate
+having the fewest votes.”
+
+(E) DIRECTOR.  The Director of the
+Division of Elections of the County or
+authorized representative.
+
+(F) HIGHEST-RANKED ACTIVE
+CANDIDATE.  The active candidate
+an elector has assigned to a higher
+ranking than any other active candidate
+in the contest being tallied, excluding
+overvotes.  Overvotes do not indicate a
+clear and unmistakable ranking for any
+particular candidate.  Therefore, an
+overvote may not be interpreted as a
+ranking of any of the overvoted
+candidates.
+
+(G) INACTIVE BALLOT.  A ballot that, in
+any round of tabulation, does not count
+for any candidate.  A ballot becomes
+inactive for the contest being tallied at
+the point any one of the following is
+true:
+
+(1) In any round after the first round,
+the ballot no longer contains any
+votes for any active candidates for
+the contest being tallied.
+
+(2) In any round, the ballot has reached
+an overvote for the contest being
+tallied and there are no lower-
+ranked active candidates on the
+ballot that are not also overvotes.
+
+(H) MAJORITY OF VOTES.  For each
+round being tabulated, more than 50
+percent of votes cast on active ballots
+for active candidates in that round.
+
+(I) MATHEMATICALLY IMPOSSIBLE
+TO BE ELECTED.  An active
+candidate cannot be elected because
+that candidate’s vote total in a round,
+plus all votes that could possibly be
+transferred to that candidate in future
+rounds from active candidates who
+received an equal or fewer number of
+votes, would not be enough to surpass
+that of the active candidate with the
+next highest vote total in such round.
+For purposes of this definition, write-in
+votes tallied together may be
+considered a single candidate.
+
+(J) OVERVOTE.  An elector ranks more
+than one candidate at the same ranking
+in the same contest.  For example, a
+ballot has an overvote if an elector
+assigns two candidates the number 1
+ranking in the same contest.
+14 Multnomah County - Elections
+
+(K) RANKED CHOICE VOTING.  When
+two or more candidates have filed for a
+county elective office, an election
+method in which electors may rank
+candidates for an office on order of
+electors’ preferences and ballots may
+be counted in rounds.
+
+(L) RANKING.  The number available to
+be assigned by an elector to a candidate
+to express the elector’s choice for that
+candidate. The number 1 is the highest
+available ranking, followed by 2, and
+then 3 and so on.
+
+(M) REPEAT RANKING.  An elector
+assigns more than one ranking to the
+same candidate in a contest.  For
+example, a ballot has a repeat ranking
+if an elector assigns the same candidate
+the number 1 ranking and the number 2
+ranking.
+
+(N) SKIPPED RANKING.  An elector has
+left a ranking or multiple consecutive
+rankings unassigned in a contest but
+ranked a candidate at a subsequent
+ranking in that contest.  For example, a
+ballot has a skipped ranking if a voter
+assigns a candidate the number 1
+ranking, skips the number 2 ranking,
+and assigns a candidate the number 3
+ranking.  A ballot also has a skipped
+ranking if a voter assigns a candidate
+the number 1 ranking, skips the number
+2 and number 3 rankings, and assigns a
+candidate the number 4 ranking.
+
+(O) UNDERVOTE.  A ballot that does not
+contain a marking for any candidate at
+any ranking in a contest.  For example,
+a ballot has an undervote for a
+commissioner contest if an elector does
+not rank any candidate for
+commissioner.
+(Ord. 1337, Added, 07/24/2025)
+
+§ 5.301 RANKED CHOICE VOTING.
+
+(A) When there are two or more filed
+candidates for a county elective office,
+the office will be elected using instant
+runoff ranked choice voting.
+
+(B) When there is only one filed candidate
+for a county elective office, the office
+will be elected using plurality voting,
+where the candidate that receives the
+highest number of votes cast for the
+office shall be elected to the office.
+(Ord. 1337, Added, 07/24/2025)
+
+§ 5.302 NUMBER OF RANKINGS.
+
+(A) Except as otherwise provided in this
+section, electors may rank up to six
+candidates for each county elective
+office.  Electors may rank write-in
+candidates.  Electors are not required to
+use all available rankings on a ballot.
+
+(B) When the total number of filed
+candidates plus one write-in line for a
+contest is less than six, the number of
+available rankings will equal the
+number of filed candidates plus one.
+For example, in a commissioner contest
+with three filed candidates, an elector
+may rank up to four candidates (three
+filed candidates plus one write-in
+candidate).
+(Ord. 1337, Added, 07/24/2025)
+
+§ 5.303 CANDIDACY BY
+CERTIFICATION AS WRITE-IN.
+
+(A) At least seven calendar days before the
+date of an election, a person who wants
+write-in votes for them to show as
+votes for them as a write-in candidate
+must submit to the director, on a form
+provided by the director, a certification
+that the candidate meets the necessary
+qualifications for the county office and
+will serve if elected.
+    CHAPTER 5: ELECTIONS             15
+
+(B) In the event that write-in votes are
+tallied to show the total number of
+votes cast for each write-in candidate:
+
+(1) Uncertified write-in candidates
+will be considered a single
+candidate; and
+
+(2) Uncertified write-in candidates
+will be defeated.
+
+(C) Individual write-in votes will be tallied
+for each certified write-in candidate.
+(Ord. 1337, Added, 07/24/2025)
+
+§ 5.304 ELECTOR INTENT.
+
+(A) In the event that tabulation reaches a
+skipped ranking, the elector’s vote is
+transferred to the next highest-ranked
+active candidate on the elector’s ballot
+after the skipped ranking, if any.
+
+(B) In the event that tabulation reaches an
+overvote, the elector’s vote is
+transferred to the next highest-ranked
+active candidate on the elector’s ballot,
+if any.
+
+(C) In the event that tabulation reaches a
+repeat ranking, the elector’s highest
+ranking of the candidate that is not an
+overvote will be the elector’s ranking
+for that candidate, and the elector’s
+lower ranking of that same candidate
+will be treated as skipped rankings.
+(Ord. 1337, Added, 07/24/2025)
+
+§ 5.305 TIE VOTE.
+
+If two or more active candidates are tied as the
+candidate having the fewest votes in the round,
+and tabulation cannot continue until the candidate
+having the fewest votes is defeated, then the
+candidate to be defeated is determined by lot by
+the director.  The result of the tie resolution must
+be recorded and reused in the event of a recount.
+(Ord. 1337, Added, 07/24/2025)
+§ 5.306 TABULATION.
+
+(A) Each active ballot counts as one vote
+for the highest-ranked active candidate.
+
+(B) If a candidate receives a majority of
+votes in the initial round of tabulation,
+that candidate is declared elected.
+
+(C) If no candidate receives a majority of
+votes in the initial round of tabulation,
+votes in the initial round and in
+subsequent rounds are tabulated as
+follows:
+
+(1) Active candidates retain the
+number of votes counted for
+them in the first and any
+subsequent rounds that already
+occurred.
+
+(2) If no candidate has a majority of
+votes, the active candidate
+having the fewest votes is
+defeated and each vote on a
+ballot that had been counted as a
+vote for the defeated candidate is
+transferred to the next highest-
+ranked active candidate on that
+ballot that is not an overvote, if
+any.
+
+(3) At the same time that the active
+candidate having the fewest votes
+is defeated, all active candidates
+for whom it is mathematically
+impossible to be elected must be
+defeated simultaneously, unless
+the batch elimination shall occur.
+Each vote on a ballot that had
+been counted as a vote for a
+candidate defeated by batch
+elimination is transferred to the
+next highest-ranked active
+candidate on that ballot that is
+not an overvote, if any.
+16 Multnomah County - Elections
+
+(4) If, after the transfer of votes, any
+candidate has a majority of votes,
+that candidate is declared elected.
+If no candidate has a majority of
+votes, the round ends and a new
+round begins with subsection
+(C)(1).
+
+(D) In any round of tabulation, an inactive
+ballot does not count for any candidate.
+An undervote does not count as an
+active or inactive ballot in any round of
+tabulation.
+(Ord. 1337, Added, 07/24/2025)
+
+§ 5.307 RESULTS REPORTING.
+
+The design and format of preliminary and final
+results reports is at the discretion of the director.
+Results reports may include:
+
+(A)  Total votes cast;
+
+(B) Election threshold;
+
+(C) Total first round rankings for all filed
+candidates;
+
+(D) The complete round-by-round tabulation
+results, including defeated candidate
+transfers; and
+
+(E) Other information identified by the
+director.
+(Ord. 1337, Added, 07/24/2025)

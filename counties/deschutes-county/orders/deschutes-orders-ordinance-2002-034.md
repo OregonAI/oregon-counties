@@ -1,0 +1,1634 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2002-034
+title: 'Ordinance No. 2002-034'
+doc_type: ordinance
+citation: 'Ordinance No. 2002-034'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616818418_2002-1231-Ordinance%20No.%202002-034%20Recorded%2010_4_2002.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 27c08540f6e67f92bec60f4d5cb656421ae4037d5138d5be40ce14fe93f26fa8
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2002-034 (Ordinance No. 2002-034)
+
+## At a glance
+
+Ordinance No. 2002-034 — orders of Deschutes County. 33 pages.
+
+## Full text
+
+REVIEWED
+LEGAL COUNSEL
+REV D
+CODE RE MMITTEE
+DESCHUTES RECORDS
+MARYSUE PENHOLLOW, COUNTY CLERK CJLUY- 1131
+COMMISSIONERS' JOURNAL ,
+101041240208,38,09 AM
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County Code
+2.60, Ratifying an Intergovernmental Agreement * ORDINANCE NO. 2002- 034
+Establishing the Bend Metropolitan Planning
+Organization asan Intergovernmental Entity and
+Declaring an Emergency.
+WHEREAS, becausethe population of the City of Bend exceeds 50,000 people according to the 2000
+Census, 49 U. S.C. 5303 and Oregon Transportation Plan Policy 4J require the formation of a Metropolitan
+Planning Organization (" MPO") to coordinate transportation decision-making processes for the Bend
+Metropolitan Area ( See Exhibit A, attached and incorporated by reference); and,
+WHEREAS, the formation of the MPO is required in order for the City of Bend (" City") and Deschutes
+County (" County") to receive federal and statehighway funds for the Bend Metropolitan Area; and,
+WHEREAS, representativesof the affected jurisdictions of the City, County and Oregon Department of
+Transportation (" ODOT") have met regularly for nine months as a committee to discuss formation issues and
+draft the intergovernmental agreement (" IGA") between these jurisdictions which will form the Bend
+Metropolitan Planning Organization; and,
+WHEREAS, the Board of County Commissioners (" Board") agrees that the IGA drafted by the
+committee is in the best interest of the County; and,
+WHEREAS, ORS 190. 085 requires local governments to ratify the creation of
+intergovernmental entities through intergovernmental agreements via ordinances prior to the effective
+date of such agreements; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. The Board hereby declares an intent to create an intergovernmental entity by
+intergovernmental agreementwith the City and ODOT.
+Section 2. The intergovernmental entity shall be known as the Bend Metropolitan Planning
+Organization (` BMPO").
+Section 3. The IGA, attachedas Exhibit B and incorporated by reference, which describesthe powers,
+duties and functions of the BMPO, is hereby ratified.
+Section 4. According to the terms of the IGA, the BMPO shall be formed and the IGA
+effective upon the ratification of that IGA by the Board, the Bend City Council, and ODOT.
+PAGE 1 OF 2 - ORDINANCE NO. 2002- 034 ( 10/ 02/ 2002)
+Section 5. AMENDMENT. DCC 2. 60 is amended to read as described in Exhibit " C," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+stt4ket4eugl3.
+Section 6. EMERGENCY. This Ordinance being necessary for the immediate preservation of the
+public peace, health and safety, an emergencyis declaredto exist, and this Ordinance takes effect on its passage.
+DATED this ' day of 0&61321 12002.
+BOARD OF COUNTY COMMISSI NERS
+OF DESCHUTES COUNTY, O N
+TOM EWOLF, Chair
+DENNIS R. LUKE, Commissioner
+MI HAEL M. DALY, ommissioner
+Date of
+1St
+Reading: (--W day of ()(! h e/1, 2002.
+Dateof2ndReading: P
+J! J
+day of C&ft& 42002.
+Record of Adoption Vote
+Commissioner Yes No
+Tom DeWolf
+Dennis R. Luke
+Michael M. Daly
+Abstained Excused
+Effective date: t''- y day of MC6V`& L-, L002.
+ATTEST:
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. 2002- 034 ( 10/ 02/ 2002)
+FORMATION OF THE BEND AREA
+METROPOLITAN PLANNING ORGANIZATION
+A Report to Stakeholders and Other Interested Parties
+1. Introduction
+On May 1, 2002, the United States Census Bureau released its list of newly designated
+urbanized areas. In Oregon, the Bend area and the Corvallis area were identified as newly
+designated urbanized areas. As such, these communities will be required by federal
+regulations to form Metropolitan Planning Organizations ( MPOs) to coordinate regional
+transportation planning.
+This report has been prepared by the City of Bend to provide local elected officials, staff and
+other interested parties with information related to the roles and responsibilities of a MPO
+and the issues associated with the formation and operation of a MPO. The City of Bend has
+been working closely with the City of Corvallis in examining and planning for the MPO
+formation process, and Bend and Corvallis area officials have met with representatives from
+ODOT, federal agencies, and the Governor' s office to discuss the MPO process. Other
+sources of information for this report include previous analyses conducted by the cities of
+Bend and Corvallis regarding MPOs, review of federal and state regulations and
+publications, discussions with state and federal agency staff, and consultation with existing
+and emerging MPOs from the region and across the nation.
+2. Overview of a Metropolitan Planning Organization
+A Metropolitan Planning Organization (MPO) is a planning and policy-making agency
+responsible for regional transportation planning. MPOs receive and administer
+transportation planning funds from the Federal Highway Administration ( FHWA) and the
+Federal Transit Administration ( FTA). The MPO system was created to ensure that
+expenditures for transportation projects in metropolitan areas are based on a
+Comprehensive, Cooperative and Continuing planning process. This is known as the 3-C
+planning process.
+Federal legislation requires that a MPO be formed for any urbanized area with a population
+of at least 50, 000 and densities of at least 1, 000 people per square mile in contiguous
+census blocks. Federal regulations also require that MPOs include representatives from
+local governments and t"ranspiration: agencies within the urbanized area.
+3. MPO Boundaries
+MPO boundaries are based on urbanized area boundaries. A MPO must include the
+urbanized area ( as designated by the Census Bureau) and the contiguous area expected to
+become urbanized within the next 20 years. On May 1, 2002, the Bend area was officially
+designated as an urbanized area by the Census Bureau. ODOT has prepared a map
+MPO Report 1 Ex. A to Ordinance - June 13, 2002
+2002-034, Pg. 1of 11
+showing the boundaries of the Bend urbanized area which includes most of the City of Bend,
+plus Deschutes River Woods and a few other areas outside of Bend. The local jurisdictions
+that will be included in the Bend area MPO will be the City of Bend and Deschutes County.
+4. Key Areas of Responsibility
+MPO responsibilities and work programs are directed by a myriad of federal and state
+legislation and regulations which change over time. However, the U. S. Department of
+Transportation has identified five core functions of a MPO. These five functions are
+summarized below:
+To establish a setting in which to undertake effective decision- making processes
+regarding transportation in the metropolitan area.
+To evaluate transportation alternatives that are realistic and scaled to address the
+needs of the metropolitan area.
+To develop and maintain a long range transportation plan for the metropolitan area
+which covers a twenty ( 20) year planning horizon.
+To develop a Transportation Improvement Program ( TIP) which establishes a
+blueprint for the use of transportation resources to meet the capital and operating
+needs of the MPO.
+To involve the public in the transportation planning process for the MPO.
+The State of Oregon has also established requirements pertaining to the responsibilities of
+MPOs. Most significant is the requirement that a Transportation System Plan ( TSP) address
+the reduction of vehicle miles traveled ( VMT) and the number of parking spaces within the
+MPO. -
+Finally, many MPOs are designated as air quality non -attainment areas, which creates
+additional requirements for transportation planning. The operating assumption is that the
+Bend area is an attainment area and therefore, not subject to the additional requirements.
+5. MPO Designation Process
+Once a community is designated by the Census as an urbanized area, the Governor and
+local officials have twelve ( 12) months to establish a MPO. The Oregon Department of
+Transportation ( ODOT) has identified the following major steps in the MPO designation
+process.
+The cities of Bend and Corvallis receive official designation as urbanized areas based
+on the 2000 census [ the new urbanized area designations were released by the
+Census on May 1, 2002]. ? .
+A Coordinating Committee is formed which includes local governments representing at
+least 75% of the population of the urbanized area [ the Bend area MPO Coordinating
+Committee was formed on April 12, 2002].
+The Coordinating Committee works with the State of Oregon to establish:
+o the specific boundaries of the MPO,
+MPO Report 2 Ex. A to Ordinance June 13, 2002
+2002-034, Pg. 2 of 11
+o the MPOs organizational structure and associated agreements and bylaws, and
+o the agency designated to staff the MPO and receive the MPO funds.
+The Governor designates new MPO( s) and submits a letter to the Federal Highway
+Administration ( FHWA) and Federal Transit Administration ( FTA) for acceptance.
+The MPO develops a United Planning Work Program ( UPWP), as described in
+Section 5 of this report.
+FHWA, FTA and ODOT review the draft UPWP.
+Oregon Transportation Commission ( OTC) approves MPO funding.
+ODOT/ MPO funding agreements are executed.
+ODOT has also provided a timeline for the transition process which targets November 2002
+as the time when the Governor will officially designate new MPOs in the state of Oregon,
+and July 2003 as the time when new MPOs receive approval to spend federal dollars.
+ODOT staff has indicated that this timeframe may be accelerated if requested by an
+emerging MPO.
+6. Required MPO Work Products
+Federal MPO requirements identify three major work products that must be completed as
+part of the MPO planning process. These are described below:
+Unified Planning Work Program ( UPWP)
+The UPWP is a one- year plan that identifies transportation studies and other work tasks
+that will be undertaken in the annual work program. This document includes:
+all federally funded studies as well as relevant state and locally funded planning
+activities,
+estimated costs of each task and funding sources, and
+a work program schedule and identification of responsibility for each task.
+Long Range Transportation Plan
+The Long Range Plan is a 20 -year plan that addresses how the metropolitan area plans
+to invest in an integrated transportation system. The Plan must be updated on a
+regular basis. Required elements of the plan include:
+a determination of transportation needs for a 20 year planning horizon,
+a focus on an integrated transportation system including roads, transit systems,
+bicycle and pedestrian movement and intermodal connections,
+identification of policies, strategies and prgjects for the future, and
+a financial plan that estimates costs and iddhtifies resource needs to carry out
+the plan.
+Transportation Improvement Program ( TIP)
+The TIP is a project priority list for a two- year timeframe. Once approved, the TIP is
+forwarded to ODOT for inclusion in the State TIP ( STIP). The TIP must:
+MPO Report 3 Ex. A to Ordinance June 13, 2002
+2002- 034, Pg. 3 of 11
+include project descriptions, estimated costs and sources of funding. The State
+must provide the MPO with estimates of available federal and state funds,
+be realistic and not a " wish list" of projects, and
+be updated every two years:
+In addition to the above requirements, the MPO is also required to ensure that all activities
+include a public involvement process that encourages the participation of transportation
+stakeholders and the general public.
+Additional work required by federal and state regulations will be undertaken as necessary
+and identified in the annual UPWP. In particular, the MPO requirements outlined in the
+Oregon Transportation Rule ( TPR) will have a significant impact on the MPO work program
+as outlined below).
+Oregon Transportation Planning Rule ( TPR)
+The Oregon TPR was enacted to implement Statewide Planning Goal 12 (Oregon' s
+statewide transportation planning goal). A major thrust of the TPR is to reduce
+reliance on the automobile, thereby addressing air pollution and traffic congestion.
+The TPR has several provisions which pertain to MPOs, including the requirement that
+each MPO enact programs and regulations, through the direction of a TSP, that result
+in a 5% reduction in Vehicle Miles Traveled ( VMT) and a 10% reduction in the number
+of parking spaces per capita ( over a 20 year period).
+The TPR requires that within each - MPO, a regional TSP be completed first, followed --
+by the development of local TSPs ( which must be consistent with the regional TSP)
+and implementing measures. The TPR also requires newly formed MPOs to complete
+a regional plan within three ( 3) years of designation as a MPO.
+Deschutes County currently has a locally approved TSP and the City of Bend will have
+a locally approved TSP by the end of 2002.
+7. MPO Funding
+MPO funding is somewhat complex. The following summarizes the ways in which FHWA
+and FTA funds are allocated to MPOs, the estimated amount the Bend area MPO can
+expect to receive in the upcoming federal fiscal year, and the responsibilities of MPOs with
+regard to the development of TIPs.
+MPO Planning Funds t
+Federal MPO funding comes from theFederal Highway .Administration (FHWA) and Federal
+Transit Administration ( FTA). FWHA and FTA allocate the MPO funds to ODOT, which then
+distributes the funds to the individual MPOs. The amount of funds each MPO receives is
+determined by federal formulas and by agreement among the state's MPOs and ODOT. For
+both FHWA Planning (Pt_) funds and FTA (Section 5303) funds, the funding amount is
+established by determining a base amount and then applying and adjustment factor.
+Ex. A to OrdinanceMPO Report 4 June 13, 2002
+2002- 034, Pg. 4 of 11
+The FHWA requires a 10. 27% match for PL funding. In the past, ODOT has provided the
+match for areas outside the Portland Metro area, and it has indicated that it will continue to
+provide the PL funding match for FY 2003. FTA planning funds require a 20% match that
+must be provided by the local MPO.
+ODOT has provided an estimate of PL and FTA planning allocations for existing and
+emerging Oregon MPOs for FY 2003. The estimate is based on current formulas and on the
+FY 2002 statewide MPO funding allocation of $ 1,635, 927. The information indicates that
+Bend and Corvallis areas, as emerging MPOs with similar populations, would each receive
+the following funds:
+It should be noted that these projected funding amounts are estimates and that they may
+change based on the amount of federal funds available to Oregon and the distribution
+formula that is developed by ODOT and Oregon MPOs. It is safe to assume, however, that
+the MPO work program should be designed around an annual budget of approximately
+140, 000 in federal funds and matching dollars.
+This amount could be supplemented through the successful pursuit of state or federal
+discretionary grants, or through local contributions by member agencies. For example, the
+Rogue Valley MPOs work program for FY 2002- 03 shows about $ 19,000 in MPO dues from
+members. The emerging Wenatchee, Washington area MPO is planning on generating
+about $ 75, 000 in dues from its member. jurisdictions.
+Funding for Transit Operations
+Transit funding in Bend will change with the urbanized area designation and MPO formation.
+The City currently receives federal grant funding for capital and operating expenses through
+the FTA Sections 5310 and 5311 grants.
+As a MPO, the urban area will become eligible to receive FTA Section 5307 funds, which are
+intended to assist transit providers in urban areas, and` will no longer be eligible for Section
+5311 funds, which assist transit providers in non - urban. and rural areas. The Section 5307
+grant may provide increased funding, but it will also require greater administration costs.
+Transportation Project Funding
+Through the development of the Long Range Transportation Plan and TIP, MPOs are
+required to realistically assess financial resources available for transportation programs.
+This is referred to as a "financially constrained" TIP.
+Ex A of Ordinance
+MPO Report 5 5 of 11
+June 13, 2002
+2002- 034, Pg.
+Federal $ State Match Local Match Total
+PL Funds 105, 156 12, 036 0 117, 192
+FTA Planning 20, 000 0 5, 000 25, 000
+Totals 125, 156 12, 036 5, 000 142, 192
+It shouldbe notedthat these projected funding amountsare estimatesand that they may
+change based on the amountof federal funds availableto Oregon and the distribution
+formulathatis developedby ODOTand Oregon MPOs. It is safe to assume, however, that
+the MPO work program shouldbe designedaroundan annual budgetof approximately
+140, 000in federal fundsand matchingdollars.
+This amount could be supplemented through the successful pursuitof state or federal
+discretionarygrants, or throughlocal contributionsby member agencies. For example, the
+Rogue Valley MPOs work programfor FY 2002-03 shows about $19, 000in MPO dues from
+members. The emerging Wenatchee, Washingtonarea MPOis planningon generating
+about $ 75, 000 in dues from its member. jurisdictions.
+Fundingfor Transit Operations
+Transit fundingin Bendwill changewith the urbanizedarea designationand MPO formation.
+The City currently receives federal grant fundingfor capitaland operating expenses through
+the FTA Sections 5310 and 5311 grants.
+As a MPO, the urban area will become eligibleto receive FTA Section 5307 funds, which are
+intendedto assist transit providersin urban areas, and` will no longer be eligible for Section
+5311 funds, which assist transit providersin non - urban. and rural areas. The Section 5307
+grant may provide increasedfunding, butit will also require greater administrationcosts.
+TransportationProject Funding
+Throughthe developmentof the Long Range TransportationPlan and TIP, MPOsare
+requiredto realisticallyassess financial resources availablefor transportationprograms.
+Thisis referredto as a " financially constrained" TIP.
+Ex A ofOrdinance
+MPO Report 5 5 of 11
+June 13, 2002
+2002-034, Pg.
+Federal regulations require that MPOs and the State cooperatively develop an estimate of
+funds available for plan implementation. In Oregon, this has been done through a joint MPO
+and ODOT committee which publishes a document that contains estimates of revenue from
+stateandfederalresourcesincludingStateHighwayRevenues, Federal -Aid Highway
+Reserve and various FTA funding sources. MPOs are responsible for developing
+assumptions about the availability of local revenues to support transportation projects.
+To be determined:
+Will local member jurisdictions be asked to contribute dues?
+If so, how will the amount be determined? Will the City and County
+contribute equal amounts? Will the apportionment be linked to the make-
+up of the Policy Committee? Some other arrangement?
+8. Transportation Planning Coordination
+The MPO planning process is based on the coordination of local government and major
+transportation providers within the urbanized area, and on a close working relationship with
+state and federal transportation agencies.
+Area Commissions on Transportation ( ACTs) are relatively new entities in Oregon
+transportation planning. The Central Oregon ACT is responsible for coordinating
+transportation programs in the three -county region of Crook County, Deschutes County, and
+Jefferson County, a much larger area than the emerging Bend area MPO. The ACT is
+staffed by the Central Oregon Intergovernmental Council, and includes elected officials and
+staff representing a broad range of rural and urban interests characteristic of the region.
+Although the geographic areas and planning requirements differ, it will be important for the
+MPO and the ACT to communicate, cooperate and coordinate activities as appropriate to
+ensure the integration and optimum efficiency of the metropolitan and regional transportation
+planning programs.
+9. Financial Management, Certifications/ Assurances
+The State of Oregon, as grantee of federal funds, is responsible for certifying that each MPO
+has the capacity from a legal, financial and technical standpoint to carry out the MPO work
+program. MPOs must provide annual self - certification statements which address a series of
+items ranging from the organization framework to compliance with federal laws such as the
+Civil Rights Act and the Americans with Disabilities Act.
+The MPO is responsible for maintenance of all financial records, supporting documentation
+and other records. The MPO also has the responsibility of procurement and management of
+all contracts associated with the MPO work program.
+10. MPO Organizational Structure
+While federal guidelines do not specifically regulate the structure or membership
+composition of MPOs, they do set forth certain minimum requirements. The following
+MPO Report 6 Ex -. A to Ordinance June 13, 2002
+2002- 034, Pg. 6 of 11
+outlines the proposed structure and membership composition for the Bend area MPO, based
+on federal requirements and recommendations from ODOT.
+Creating the MPO Entity
+While MPO entities can be formed a number of ways, the most common approach is through
+the establishment of an intergovernmental agreement ( IGA) among the participating
+agencies. The State of Oregon has established regulations pertaining to the powers and
+responsibilities of entities formed through IGAs. According to these regulations,
+intergovernmental agreements must address shared responsibilities ( such as financial
+resources, real and personal property, personnel management, and term of the agreement),
+and entities formed through IGAs can employ agents and employees, enter into contracts,
+administer grants, own facilities and equipment, and incur debt including the issuance of
+revenue bonds.
+The MPO Coordinating Committee has authorized City of Bend staff to
+move forward with the creation of an intergovernmental agreement for
+the Bend area MPO. The MPO will be formed through agreement
+between the City of Bend, Deschutes County and the Governor.
+Governance of a MPO
+Federal regulations require that each MPO form a Metropolitan Planning Policy Committee
+which fulfills the governance and policy- making role for the MPO. The Policy Committee
+must include — at a minimum — an elected official from each local government, an official
+from the local transit agency, and an official from the local ODOT region. ODOT has also
+identified several other optional Policy Committee members which may or may not have
+voting privileges.
+While some policy committees have equal local government representation regardless of the
+size of each jurisdiction' s population, others have representation that is weighted according
+to the local government' s relative share of the urbanized area' s population.
+The Policy Committee structure approved by the MPO Coordinating
+Committee is based on weighted representation. Each jurisdiction will
+have one representative on the MPO Policy Committee for each 15,000
+people that live within the MPO boundary. The Policy Committee will
+be structured as follows:
+3 elected officials from the City of Bend ( one of whom sits on
+the board of COACT) "
+1 elected official from Deschutes County
+1 representative from ODOT (Region ;'4)
+Tied to issue of Policy Committee representation is the issue of financial responsibility. If a
+local match and/ or local dues are necessary to support the MPO, it is logical to assume that
+this apportionment would be linked to the make- up of the Policy Committee.
+MPO Report 7
+Ex. A to Ordinance
+June 13, 2002
+2002- 034, Pg. 7 of 11
+Although a Technical Advisory Committee ( TAC) is not required by federal MPO regulations,
+ODOT strongly recommends that a TAC be formed to advise MPO staff and the Policy
+Committee in the preparation of transportation plans and programs. ODOT recommends
+that the TAC include, at a minimum, -, a technical staff person from each local government, a
+technical staff person from the local or regional transit provider, and a staff person from the
+local ODOT region. Other interests that may be represented on the TAC include as bicycle
+and pedestrian advocacy groups, freight and rail providers, airports, universities and school
+districts, regional groups such as the Area Commission on Transportation ( ACT), and the
+state.
+The Coordinating Committee, in conjunction with City of Bend staff, has
+developed the following structure for the Technical Advisory Committee:
+Members
+City of Bend Public Transit Manager, City of Bend
+2 additional City staff members
+1 County staff member
+1 staff person from ODOT ( Region 4)
+1 staff person from Central Oregon Community College
+1 staff person from Bend- LaPine School District
+1 staff person from Central Oregon Intergovernmental Council
+preferably the person who staffs COACT)
+1 representative from Commute Options for Central Oregon
+1 representative from the Deschutes County Bicycle/ Pedestrian
+Advisory Committee
+Ex - officio members to include officials from:
+Federal Highway Administration
+9 Oregon Department of Land Conservation and Development
+Oregon Department of Environmental Quality
+Finally, as previously noted, public participation is a key responsibility of a MPO. Some
+MPOs have formed standing citizen advisory committees ( CAC) which represent a broad
+range of citizen interests as well as more specific stakeholders. Others engage the public
+through direct community outreach and through interaction with established citizen bodies
+such as planning commissions, bicycle/ pedestrian committees, and business groups. The
+decision as to whether to form a standing CAC should be based on a review of the public
+involvement alternatives and the staff capacity to support a third MPO standing committee.
+The ways in which the Bend area MPO will engage the public in its planning
+processes ( i. e., whether a CAC will be formed and how other citizen bodies
+will be involved) will be decided by the Policy Committee once this body is
+formed.
+Ex. A to Ordinance
+MPO Report 8 2002- 034, Pg. 8 of 11 June 13, 2002
+11. MPO Staffing
+There are several options for providing staff support to a MPO. These include:
+The MPO hires staff directly.
+The MPO contracts with a member agency ( the City of Bend or Deschutes County) to
+provide staff support.
+The MPO contracts with a non- member agency ( e.g., the Central Oregon
+Intergovernmental Council) to provide staff support.
+While all of these options are widely used across the nation, MPOs with smaller populations
+and fewer federal resources) tend to either secure staffing services from a member agency
+or to contract with a council of governments ( COG) or a regional planning agency. Larger
+MPOs are more likely to be independent agencies with staff dedicated exclusively to the
+MPO. The regional COGs are the designated MPO staffing entities in the Medford, Salem
+and Eugene - Springfield areas in Oregon. Metro is the designated MPO for the Oregon
+portion of the Portland - Vancouver urbanized area.
+Because the City of Bend will form the large majority of the Bend area MPO, the
+City of Bend will staff the MPO.
+Staffing levels will need to be planned so as not to exceed available resources. Assuming
+that PL and FTA planning funds, along with the local and state match, amount to
+approximately $ 140, 000, staff resources will be limited. Many MPOs with limited resources
+contract for some project related services and/ or have one or more staff designated as part
+time. - -_
+To be determined:
+How many full and/ or part- time positions will be created to staff the
+MPO?
+Or will MPO planning be absorbed by existing staff?
+How will these positions be funded? Will these expenditures be applied
+as a local match? As an additional local contribution? Will the County
+contribute any of the staff costs?
+12. Key Observations
+Based on the research to date and discussions with the City of Corvallis, state, and federal
+officials, the following factors have been and will continue to be considered as the City of
+Bend and Deschutes County proceed with the formation of the Bend area MPO.
+Resources will be limited
+Projected federal and state funding amounts will dictate that MPO activities will
+need to be limited in scope and focused on ensuring that the basic federal and state
+planning requirements are met. This means limited staffing, efficient operating
+budgets and strategic work programs.
+Ex. A to Ordinance
+MPO Report 9
+2002-034, Pg. 9 of 11
+June 13, 2002
+Interim planning funds are not available.
+There will be costs incurred in the formation of the Bend area MPO. This includes
+staff time of the member jurisdictions and the legal costs associated with forming
+the MPO entity. Based on discussions with ODOT, FHWA, and FTA staff, there is
+no state or federal funding available to assist with this process.
+Existing local transportation planning efforts can be built upon.
+With the existence of the TPR, Oregon has been ahead of many other states in
+requiring transportation plans at the local level. The City of Bend is nearing
+completion of its TSP, and Deschutes County has had a TSP in place since 1997.
+These previous efforts will provide a good foundation for the MPO work program.
+Existing staff capacity can be built upon.
+The Bend area MPO also has the opportunity to take advantage of existing staff
+resources. This includes planning and transportation engineering staff at both the
+City of Bend and Deschutes County.
+The MPO process should be kept simple.
+Because of the financial and staffing constraints that will be faced by the Bend area
+MPO, the structure and work programs of the MPO should be kept simple and
+streamlined to the greatest extent possible. For example, federal representatives
+have indicated that an incremental approach to the completion of the MPOs
+Transportation Plan ( e.g., packaging the current TSPs) is acceptable in the short
+term. In addition, the decisions regarding the number and scope of advisory
+committees should -be made with sensitivity'to the budget and staffing constraints.
+Organizational flexibility should be built into the MPO structure and by-laws.
+It would be appropriate, especially after the formation of a new MPO, to formally
+evaluate the program after a period of time. The organizational structure should be
+designed to allow for future adjustments in areas such as committee representation
+and staffing resources.
+Opportunities for coordination in the MPO process should be pursued.
+In addition to the local jurisdictions that make up the MPO, local institutions and
+business interests should be invited to participate. Coordination on a regional scale
+is also important and should be pursued through cooperation and communication
+with regional agencies that engage in transportation planning.
+MPO Report 10
+Ex. A to Ordinance
+June 13, 2002
+2002- 034, Pg. 10 of 11
+Bend Urban Area
+1 0. 5 0 1 Miles
+I_R OOOT TPAU 05/ 31/ 02
+N
+A
+Highways
+City Limits
+V= Rend UA
+Ex. A to Ordinance
+2002-034, Pg. 11of 11
+REVIEWED
+LEGAL COUNSEL For Recording Stamp Only
+INTERGOVERNMENTAL COOPERATIVE AGREEMENT ESTABLISHING THE
+BEND METROPOLITAN PLANNING ORGANIZATION
+This agreement is between the. City of Bend (" City"), Deschutes County (" County"),
+and the Oregon Department of Transportation, by and through the Oregon transportation
+Commission (" ODOT"). City, County and ODOT may be referred to in this
+intergovernmental agreement (" IGA") as " member units."
+Introduction By the authority granted in ORS 190. 110 and 283. 110, state agencies
+may enter into agreements with units of local government or other state agencies for
+the performance of any or all functions and activities that parties to the agreement,
+its officers, or agents have the authority to perform. Pursuant to this statute, an
+intergovernmental entity is hereby created by this agreement, to be called the Bend
+Metropolitan Planning Organization (" BMPO") located at 710 NW Wall Street, Bend,
+Oregon 97701. This agreement shall be governed and construed in accordance with
+the laws of the State of Oregon. " Exhibit A" outlines and further describes the
+governance structure of the BMPO.
+2. Purpose
+2. 1 The purpose of the BMPO is to carry out planning, coordination and
+integration of activities necessary to maintain a comprehensive, cooperative,
+and continuing multi - agency transportation planning program; and further,
+as specified by the Policy Board of the BMPO, carry out other related specific
+tasks including implementation thereof.
+2. 2 The BMPO will establish a setting in which to undertake effective decision-
+making processes regarding transportation in the metropolitan area; evaluate
+transportation alternatives that are realistic and scaled to address the needs
+of the metropolitan area; develop and maintain a long range transportation
+plan for the metropolitan area which covers a 20 year planning horizon; and
+develop a Transportation Improvement Program (" TIP") which establishes a
+blueprint for the use of transportation resources to meet the capital and
+operating needs of the BMPO.
+2. 3 TheBMPOwill promotepublic participation in the decisionmaking process
+through public meetings. The BMPO will exercise leadership and initiative in
+planning and assisting development of efficient, integrated transportation
+system facilities in the Bend area.
+Ex. B to Ordinance
+2002- 034, Pg. 1 of 19
+3.
+2. 4 The area within the BMPO includes the urban area as defined by the 2000
+U. S. census plus all area within the Urban Growth Boundary and other
+additional areas that may be annexed to accommodate expected growth and
+anticipated development for the next twenty years. The areas included outside
+of the Urban Growth Boundary can be described as Deschutes River Woods to
+the South, the Woodside Ranch area, an area East of the UGB from Stevens
+Road to Hwy 20, an area East of the UGB from Neff to Butler Market Road,
+the Bend Pine nursery area, an area along Hwy 97 north of the UGB and the
+area located NE of the UGB that the City is considering annexing. Based
+upon the 2000 census count, this area qualifies as a U. S. Census designated
+Urban Area.
+Governing Body of BMPO
+3. 1 Policy Board The Policy Board of BMPO shall consist of representatives
+appointed by the governing body of each member agency to this
+Intergovernmental Agreement based upon a formula of one ( 1) representative
+per each 15, 000 people with a minimum of 1 representative for each agency.
+The three agencies represented on the Policy Board are the three major
+transportation providers within the geographical boundaries that form the
+BMPO. As future major transportation providers form, such as a Transit
+District, they shall be added to the Policy Board. Based on this formula, the
+representatives are as follows:
+Jurisdiction Policy Board Members
+City of Bend 3 ( 1ofwhomis a CityCouncilmemberappointedto COACT)
+Deschutes County 1 (a CountyCommissionerappointedto COACT)
+ODOT 1
+Total 5
+3. 2 Appointment of each Policy Board Member shall be for a period of one year.
+Each member of the Policy Board shall hold office until the member unit he or
+she represents appoints a successor. Policy Board members may be re-
+appointed by the governing body of the member unit that appointed that
+Policy Board Member. A Policy Board Member need not be a member of the
+governing body of the member unit that appointed the Policy Board Member.
+Policy Board Members, Terms of Office, Officers and Meetings
+4. 1 The Policy Board of the BMPO shall elect the following officers at its first
+meeting of the calendar year to serve for that year: Chair and Vice Chair. In
+the absence of the Chair, or upon her/ his inability to act or serve, the Vice
+Chair shall have the powers of the Chair. The Chair and Vice Chair will serve
+without compensation and shall serve for a period of one year, renewable.
+Drafted 07/ 02/ 02
+Page 2 ti. - B to Ordinance
+2002-034, Pg. 2 of
+4. 2 The Policy Board shall be responsible for the management, supervision, policy
+and direction of all programs, functions and activities established and
+operated under BMPO. Also at the first meeting of each calendar year, the
+Policy Board shall designate an Administrative Officer who shall account for
+the financial matters of BMPO and handle other necessary administrative
+functions.
+4. 3 Any member who has three ( 3) consecutively unexcused absences from Policy
+Board meetings may be removed by the member unit appointing such
+member.
+4. 4 A vacancy on the Policy Board shall be filled by the member unit that
+appointed the member who created the vacancy.
+4. 5 The first meeting of the Policy Board shall be on the first Monday following the
+effective date of approval of this agreement by all member units. Thereafter,
+regular meetings of the Policy Board shall be held at such time and place as
+shall be determined by the Policy Board. Special meetings of the Policy Board
+may be called by the Chair. All Policy Board members are entitled to notice.
+No action may be taken unless all Policy Board members are given notice.
+Notice of meetings may be given telephonically or by other means of electronic
+communication.
+4. 6 The Policy Board may meet telephonically or by other means of electronic
+communication.
+4. 7 The Policy Board shall follow the Public Meeting Laws of Oregon.
+4. 8 BMPO business may not be conducted without representation at the Policy
+Board meeting by at least one Policy Board Member from each of the three
+BMPO member units.
+4. 9 Any conflict of interest must be stated prior to discussion of that particular
+agenda item.
+4. 10 A consensus of all three agencies will constitute passage. This means that a
+majority of the three Bend representatives must support any given decision
+item, as well as each of the other agencies.
+4. 11 The Administrative Officer shall provide a financial report at each monthly
+meeting and an annual report at the August meeting for the previous fiscal
+year. The monthly report shall include a list of expenditures the payment of
+which shall be approved by the Policy Board, and the balance of all depository
+accounts.
+4. 12 The decision making process outlined in this IGA has been designed to be
+consistent in structure with those of the City of Bend and Deschutes County.
+Drafted 07/ 02/ 02
+Page 3 Ex. B to Ordinance
+2002-034, Pg. 3 of 19
+5. Bylaws The Policy Board may adopt bylaws to establish procedures for
+management of the BMPO, if the Policy Board finds that bylaws would be conducive
+towards the furtherance of BMPO business.
+6. Powers and Responsibilities of BMPO
+6. 1 The BMPO Policy Board is responsible for all actions, agreements, and
+functions to be carried out by the Bend Metropolitan Planning Organization.
+To this end, the BMPO may:
+6. 1. 1 Serve in a review capacity to insure that all federal and state assisted
+development projects are consistent with integrated regional
+transportation plans and programs;
+6. 1. 2 Accept contributions and grants- in- aid;
+6. 1.3 Contract with the Federal Government for planning assistance and
+other transportation - related planning projects, products, and services;
+6. 1.4 Contract for the provision and receipt of planning or associated
+products or services;
+6. 1.5 Administer grants, Planning Funds ( Federal Highway Administration
+FHWA" funds) and Section 5303 Funds ( Federal Transit
+Administration " FTA" funds);
+6. 1.6 Own property, facilities and equipment;
+6. 1. 7 Incur debt, subject to Oregon Constitution Article II, Sections 9 and 10;
+6. 1. 8 Issue bonds;
+6. 1.9 Maintain financial records, supporting documentation for financial
+records and records relating to procurement and management of
+contracts for implementation of its work plan;
+6. 1. 10Take such other and further actions as are reasonably necessary to
+carry out its responsibilities.
+6. 2 The BMPO is responsible for development of the following essential products:
+6. 2. 1 Regional Transportation Plan;
+6. 2. 2 Transportation System Plan;
+6. 2. 3 Long Range Transportation Plan;
+6. 2. 4 Transportation Improvement Program, fiscally constrained;
+6. 2. 5 Title VI Civil Rights Review;
+Drafted 07/ 02/ 02
+Page 4 Ex. B to Ordinance
+2002- 034, Pg. 4 of 19
+6. 2. 6 Unified Planning Work Program (" UPWP") / Budget;
+6. 2. 7 Transportation Improvement Program (" TIP") the program that
+establishes a blueprint for the use of transportation resources to meet
+the capital and operating needs of the BMPO;
+6. 2. 8 Audit of BMPO activities; and
+6. 2.9 Other products deemed essential may be authorized by the Policy Board
+as specified in the UPWP.
+7. Technical Advisory Committee (" TAC")
+7. 1 The BMPO shall have a Technical Advisory Committee (" TAC"). The
+membership of the TAC has been selected to include agencies within the
+BMPO that are impacted by the decisions and that have significant
+contributions to the BMPO. The TAC is composed of technical and/ or
+managerial staff representatives from each of the participating agencies. In
+addition, there may be one or more ex -officio non- voting representative each
+from the FHWA and the FTA. Each ex -officio non- voting member must be
+approved by the agency he/ she represents.
+7. 2 As future major transportation providers form, such as a Transit District, they
+shall be added to the TAC. In addition, a representative from any technical
+subcommittee or advisory group that is formed shall have a seat on the TAC.
+Policy Board directive may also add additional positions ( as members or as ex -
+officio members) to the TAC, such as a citizen representative, a business
+representative, a freight stakeholder, and/ or citizen groups.
+7. 3 The TAC has authority and primary responsibility to conduct technical
+reviews and analyses regarding all work activities of the UPWP, and any
+related issues as specified by the BMPO Policy Board and to so advise the
+Policy Board on appropriate actions to be taken. The TAC works closely with
+the BMPO staff, providing guidance and direction for development of the
+annual UPWP/ Budget and work activities defined therein.
+Drafted 07/ 02/ 02 —
+Page 5 Ex. B to Ordinance
+2002-034, Pg. 5 of 19
+7. 4 TAC Membership
+7. 4. 1 Voting membership on the BMPO TAC shall be as follows:
+City of Bend - Three ( 3) positions: ( to be named by City Council)
+Deschutes County - One ( 1) position ( to be named by County Board of
+Commissioners):
+ODOT - One ( 1) position: Region 4 Coordinator or designee
+COIC - One ( 1) position: ( to be named by governing body)
+COACT - One ( 1) position: ( to be named by governing body)
+COCC - One ( 1) position: ( to be named by governing body)
+Commute Options - One ( 1) position: ( to be named by governing body)
+Deschutes County Bike/ Pedestrian Advisory Committee - One ( 1)
+position: ( to be named by governing body)
+Bend- LaPine School District - One ( 1) position: ( to be named by
+governing body)
+7. 4. 2 Ex - Officio Members on the BMPO TAC shall be as follows:
+Federal Highway Administration
+Federal Transit Administration
+Oregon Department of Land Conservation and Development
+Oregon Department of Environmental Quality
+The person in each of the positions under Section 7.4.2 may, by a
+written statement to the Chairs of the Policy Board and the TAC,
+designate a regular alternate. Non - regular alternates ( i. e. for a
+particular meeting) must be declared when the meeting is called to
+order.
+7. 4. 3 Organization of management of the TAC shall be according to bylaws
+adopted by the TAC and approved by the BMPO Policy Board.
+Drafted 07/ 02/ 02 _
+Page 6 Ex B to Ordinance
+2002-034, Pg. 6 of 19
+8. BMPO Finances
+8. 1 The fiscal year for the BMPO shall commence on July 1 of each year.
+8. 2 The BMPO shall have the power to receive funds from any public or private
+source including, but not limited to, the federal, state and local governments,
+voluntary associations, non- profit corporations, firms, partnerships, or person
+or any combination thereof, bequests, donations, devices, grants and gifts of
+all kinds of property.
+8. 3 The BMPO Policy Board Chair shall call for an annual audit of the financial
+affairs of the BMPO to be made by a certified public accountant selected by
+the members of the BMPO Policy Board at the end of each federal fiscal year.
+The audit is a public record, and shall be made available to all BMPO
+members.
+9. Formation of Committees
+9. 1 The BMPO Policy Board, as deemed necessary, may create special BMPO
+committees. A special committee may be either an ad hoc committee for a
+specific work task or a standing committee for one or more work tasks. Any
+such special committee will be responsible to the BMPO Policy Board.
+9. 2 At the direction of respectively the Chairs of the Policy Board and the TAC,
+subcommittees may be formed to investigate a particular work task or issues
+relevant to the BMPO.
+9. 3 The BMPO Policy Board shall define the duties, and authorize the power of all
+special committees. Special committees shall follow parliamentary procedures
+as defined in this agreement for the Policy Board and TAC. Special
+committees, unless membership consists exclusively of employees of the
+member jurisdictions, shall observe the Public Meeting Laws of Oregon.
+9. 4 The BMPO Policy Board and/ or the TAC shall determine membership on a
+special committee. The BMPO Policy Board and/ or the TAC may appoint, at
+its discretion, any individual it deems qualified to serve on a special
+committee.
+Drafted 07/ 02/ 02
+Page 7 ExB of Ordinance
+2002-034, Pg. 7 of 19
+10. BMPO Staff
+10. 1 The BMPO will remain a separate entity from its member units with a
+separate budget, its own governing body and separate operating principles as
+outlined in this IGA.
+10. 2 The BMPO may contract for support staff or hire staff as necessary, including
+legal counsel. The BMPO staff consists of an Executive Director and
+supporting staff personnel. The Executive Director of the BMPO shall report
+directly to and take direction from the BMPO Policy Board. Supporting staff
+personnel shall report directly to and take direction from the Executive
+Director.
+10. 3 The BMPO Policy Board will be responsible for preparing a Request for
+Proposals for staffing of the MPO. The Policy Board will also be responsible
+for developing the evaluation criteria for the proposals, rating the proposals,
+selecting the successful candidate, and awarding the contract. The RFP shall
+request, and the successful proposal must include, a description of how
+autonomy will be retained, including descriptions of where the agency will be
+housed, who will staff the agency, and whether there will be any overlap with
+member jurisdictions regarding employee responsibilities. The RFP and
+selection process shall begin after the Policy Board is formed in January 2003
+and shall be completed prior to the start of the BMPO' s first fiscal year on
+July 1, 2003.
+10. 4 BMPO member units may donate personnel to serve as staff to the BMPO,
+subject to the provisions of Section 12.
+11. No Joint and Several Liability
+11. 1 Member units are not jointly and severally liable with other member units for
+any tort ( as defined by ORS 30. 260( 8)) committed by an elected or appointed
+official, employee or agent of such unit acting in connection with this
+agreement.
+11. 2 Nothing in this agreement shall be construed to increase tort liability that any
+member unit would otherwise have under Oregon Law.
+11. 3 Obligations of BMPO arising from contractor quasi contract shall be the
+obligations of BMPO alone, and member units are not jointly and severally
+liable for such obligations, unless one or more of the member units agree( s),
+in writing, to individually guarantee performance of a specific obligation.
+Drafted 07/ 02/ 02
+Page 8 Ex. B to Ordinance
+2002-034, Pg. 9 of
+12. Employment Liabilities. Each member unit shall be responsible for any and all
+claims arising from its respective employer/ employee relationships with respect to
+any donated employee of the member unit during any time that the employee of the
+member unit is working on BMPO matters. For the purpose of this agreement,
+elected and appointed public officials are included in the employer/ employee
+relationship. Examples of the employer/ employee relationship include selection,
+termination, discipline, benefits and equal employment opportunity issues. Each
+member unit shall provide its own Workers' Compensation coverage as provided by
+law with respect to any employee of the member unit during any time that the
+employee of the member unit is working on BMPO matters.
+13. Effectiveness. Duration. Termination and Withdrawal
+13. 1 This agreement and the formation of BMPO shall be effective upon the
+adoption by ordinance of this agreement by the City and County, and by
+ODOT upon adoption by the Oregon Transportation Commission.
+13. 2 This agreement shall be perpetual unless terminated by agreement of the
+member units.
+Drafted 07/ 02/ 02
+Page 9 Ex. B to Ordinance
+2002-034, Pg. 9 of 19
+On the Oregon Transportation Commission approved this
+agreement. At that time they authorized the Deputy director, Transportation Development
+Division to execute this agreement.
+Dated:
+CITY OF BEND
+By:
+Title: Bill Friedman, Mayor
+For Recommended Approval:
+By:
+Title: Mark Devoney, ODOT Region 4
+DESCHUTES COUNTY
+By:
+Title: Dennis Luke, County Commissioner
+By:
+Title: Mike Daly, County Commissioner
+By:
+Title: Tom DeWolf, County Commissioner
+STATE OF OREGON,
+By and through its Department of Transportation
+Title: Deputy Director, Transportation Development
+Approved for ODOT for Legal Sufficiency
+Bv:
+Assistant Attorney General
+Drafted 07/ 02/ 02 _
+Page 10 Ex. B to Ordinance
+2002-034, Pg. 10of 19
+Exhibit A September 21, 2002
+Governance and Structure of the
+Bend Metropolitan Planning Organization
+The following outlines the governance, structure, and membership composition of the BMPO.
+The structure of the BMPO has been designed by the BMPO Coordinating Committee
+according to federal requirements and recommendations from ODOT.
+Maintaining Autonomy
+The structure of the BMPO has been designed so that it operates as a separate entity from any
+of its member agencies and so that no single member agency dominates the organization' s
+decision- making processes. The Intergovernmental Agreement ( IGA) explicitly states that the
+BMPO will remain a separate entity from its member units with a separate budget, its own
+governing body, and separate operating principles. The IGA also specifies that the Policy
+Board will make all decisions by consensus of the participating agencies, and that no decisions
+will be made without representation from all member agencies.
+Decision - Making
+The decision- making process outlined in the IGA has been designed to foster consensus and
+cooperation among member units. The BMPO' s IGA specifies that no decisions shall be made
+by the Policy Board without representation from all member jurisdictions. In addition, all
+decisions by the Board shall be made by consensus of the participating agencies. Consensus
+of the participating agencies refers to consensus among the ODOT representative, the County
+representative, and at least two of the three Bend representatives.
+Governance
+The BMPO Policy Board will fulfill the governance and policy- making function for the
+organization. Representation on the Policy Board will be based on population. Each local
+jurisdiction will have one representative on the Policy Board for every 15,000 people that live
+within the portion of its land use planning jurisdiction that falls within the BMPO boundary, with
+a minimum of one representative per jurisdiction. ( The City of Bend has approximately 55, 000
+people living within the portion of its land use planning jurisdiction that falls within the BMPO
+boundary; Deschutes County has less than 10,000 people living within the portion of its land
+use planning jurisdiction that falls within the BMPO boundary). ODOT will have one
+representative on the Policy Board. As future major transportation providers form, such as a
+Transit District, they will be added to the Policy Board as well.
+Based on the above formula, the Policy Board will be structured as follows:
+3 elected officials from the City of Bend ( one of whom sits on the board of COACT)
+1 elected official from Deschutes County ( who sits on the board of COACT)
+1 representative from ODOT ( Region 4)
+Committee Structure
+The BMPO will be assisted by a Technical Advisory Committee ( TAC) which will advise BMPO
+staff and the Policy Board in the preparation of transportation plans and programs. The TAC
+will have authority and primary responsibility to conduct technical reviews and analysis
+Ex. B to Ordinance
+2002-034, Pg. 11of 19
+Exhibit A September 21, 2002
+regarding all work activities of the BMPO and to advise the Board on appropriate actions to be
+taken, working closely with BMPO staff, and providing guidance and direction in the
+development of BMPO work products.
+The TAC will be composed of technical and/ or managerial staff representatives from each of
+the participating agencies. The TAC will also include representation from other agencies and
+organizations that deal with transportation issues ( such as education providers, regional
+government, state government, and non- profit organizations), as well as agencies that have
+expertise in the areas of economic development, land use, and environmental issues.
+The TAC will be structured as follows:
+Members
+City of Bend - Public Transit Manager
+City of Bend - two additional positions
+Deschutes County — one position
+ODOT ( Region 4) — one position
+Central Oregon Intergovernmental Council — one position
+Central Oregon Area Commission on Transportation — one position
+Central Oregon Community College — one position
+Commute Options for Central Oregon — one position
+Deschutes Bicycle/ Pedestrian Advisory Committee — one position
+Bend- LaPine School District — one position
+Ex - officio members
+Federal Highway Administration — one position
+Federal Transit Administration — one position
+Oregon Department of Land Conservation and Development — one position
+Oregon Department of Environmental Quality — one position
+As future major transportation providers form, such as a Transit District, they shall be added to
+the TAC. In addition, a representative from any technical subcommittee or advisory group that
+is formed shall have a seat on the TAC. Policy Board directive may also add additional
+positions ( as members or as ex - officio members) to the TAC, such as a citizen representative,
+a business representative, a freight stakeholder, and/ or citizen groups.
+Technical Subcommittees
+The Deschutes County Bicycle/Pedestrian Advisory Committee will function as a technical
+subcommittee to the TAC, advising and reporting to the Committee on bicycle and pedestrian
+issues in the MPO area. Due to staffing and budget constraints in the first year, no additional
+technical subcommittees will be formed. After the first year of operation, the Policy Board will
+determine if additional technical subcommittees are needed and if the resources exist to staff
+these additional committees.
+A diagram and a table representing the BMPO committee structure, a table representing the
+required and optional stakeholders ( prepared by ODOT), and a proposed committee structures
+table ( prepared by ODOT) are attached.
+Relationship with COACT
+The BMPO Coordinating Committee has determined that coordinating and cooperating with
+COACT will be a key component to effective transportation planning by the BMPO. Formal
+Ex. B to Ordinance
+2002-034, Pg. 12 of 19
+Exhibit A September 21, 2002
+links with COACT will be established through representation on the Policy Board and the TAC.
+The BMPO IGA specifies that one of the elected officials representing the City of Bend on the
+BMPO Policy Board, and the Deschutes County representative on the BMPO Policy Board,
+shall also sit on the COACT Board. The Coordinating Committee has also resolved to request
+that the COIC seat on the TAC be filled by the person serving as staff support to COACT. In
+addition, the Coordinating Committee has resolved that the BMPO will keep COACT fully
+informedaboutits activities (by providingCOACTwithall PolicyBoardandTACmeeting
+agendas and minutes), will allow COACT to comment on key planning documents, and will
+coordinate with COACT in the development of priority transportation projects for submission to
+the STIP.
+Boundaries
+The boundaries of the BMPO have been determined by consensus by the members of the
+CoordinatingCommittee. The areawithinthe BMPOincludesthe urbanizedareaas definedby
+the 2000 US census, all of the area within the Urban Growth Boundary (UGB), the area north of
+town that the City intends to annex, and areas along the eastern edge of the UGB. In addition
+to the urbanized area, the BMPO encompass the land that will be available for development
+over the next 20 years, as well as some areas along the eastern edge of the UBG that have
+been included in order to smooth the boundary.
+Staffing
+The BMPOstaffwill consistof an ExecutiveDirectorandsupportingstaffpersonnel. In the first
+year of operation, the BMPO will plan for 1.5 FTEs. Based on examination of other MPOs of
+similar size, this appears to be the minimum number of staff needed to operate the MPO and to
+complete the required planning products. The IGA specifies that the BMPO may contract for
+staff services and participating agencies may donate personnel to serve as staff to the BMPO.
+BMPOpersonnelpolicieswill beoutlinedinthe bylawsadoptedby the BMPOPolicyBoard.
+Adoption Process for Transportation Planning Products
+The BMPOCoordinatingCommitteedesignedthe adoptionprocessfor transportationplanning
+productsto beconsistentwithmemberagencies' processesfor adoptingkeywork products.
+The process involves the following: staff prepares a document, the TAC reviews the draft and
+provides comments, the Policy Board reviews the document and provides comments, and the
+Policy Board holds a hearing to receive public comment. The document is then sent to the
+FHWA, the FTA, and ODOT for review and comments, before being adopted by the BMPO
+Policy Board. After each review and comment period, staff will revise the document where
+appropriate and necessary.
+This process is consistent with the practices of both the City of Bend and Deschutes County,
+and offers opportunities for individuals and agencies that are involved with the BMPO, as well
+as the public, to provide input into the development of key plans and other work products. This
+process pertains to the development of Regional Transportation Plans, Transportation System
+Plans, Long Range Transportation Plans, Transportation Improvement Programs, Title VI Civil
+Rights Reviews, Unified Planning Work Programs, Budgets, Audits of BMPO Activities, and
+other products authorized by the Policy Board and specified in the UPWPs.
+A diagram representing the BMPO's adoption process for transportation planning products is
+attached.
+Ex. B to Ordinance
+2002-034, Pg. 13 of 19
+Exhibit A September 21, 2002
+Committee Structure Diagram for the
+Bend Metropolitan Planning Organization
+MPO Policy
+Committee
+Technical
+Advisory
+Committee ( TAC)
+Technical
+Subcommittees*
+Bike/ Ped Advisory Committee
+Goods Movement Advisory Committee**
+Others as needed ( to be determined by
+Policy Board)
+Chairs to serve as reps on TAC)
+Technical Subcommittees other than the Bike/Ped Advisory Committee to be determined by the
+Policy Board.
+A Goods Movement Advisory Committee ( GMAC) would include representatives of freight
+carriers, airports, ports and also local businesses that ship and/or receive freight.
+Ex. B to Ordinance
+2002-034, Pg. 14 of 19
+Ex. B to Ordinance
+2002-034, Pg. 15 of 19
+oU
+a-0 m
+o
+Cu
+om Cho
+N
+da) o
+a)
+mCu
+Cl) a) - O
+C_
+m a)
+a)
+m
+a E -0( D cv> 0)
+41
+t4
+C
+w
+00
+E a) cO
+cn
+O
+CV a) E 0
+N O N O
+C
+O E
+E
+cnEo
+2 E V
+0Cn
+O a) 0 0
+LoE
+0c
+c U
+v AVN 0 mCo m
+L
+V Cu Co
+n 0LcC NCrn 3 -
+r -t - c
+c
+0
+U
+C7
+O
+U f- m ° o
+m U
+Q
+N O
+O C
+CC
+p
+C C
+o
+O OU
+0
+O • C in
+Qo •>
+oo 0 00E- oma0
+V U
+nQ> o
+2rn( ( E3= 3J
+E( -u
+c o c c E E c o E c•- O J W n a) +- a) a) 0 0 0 Y O
+U) LLDccU s0C> C> UUooUoOC)
+Q
+v L
+c
+3
+r d' aU
+V O c y
+a0 m
+R Ov H-
+N yOp
+IL) a0
+O 0
+Q a)
+oY
+cC U)
+0
+m
+v N c•
+O
+CL
+L
+a0
+dU
+to
+Cr
+r Ou H
+UGO
+0O
+a
+m
+Ex. B to Ordinance
+2002-034, Pg. 15 of 19
+r
+O
+O
+L
+a
+L
+CL
+N
+O
+a
+N
+O
+N C
+N
+W
+L
+a) O
+U
+A+ W
+ii
+L
+O
+Cn
+0
+O
+10C
+Cr
+W
+0
+NC
+O
+CU
+Q 0O
+O C)
+cu E
+7 E
+r- U ~
+N L O
+Nt ;
+O
+L
+Q
+d
+Q
+O
+a.
+2
+L/
+E
+W
+L
+4
+W
+L
+f+
+L
+Cn
+1
+1
+Leoj
+ca
+Q
+L
+N _N
+O: 5
+N
+cnC
+CD N
+r 7
+E
+O O
+U O
+Cu
+C
+0 c6
+co N
+0 0
+a) o_
+CL
+N 0E d
+O m
+1) N
+N
+a) O Cu
+CL
+O7
+c w
+O 0
+N Cl)
+L
+ff
+CLE
+0(-)- aO
+c
+co o .E
+E
+CUt75
+p
+Q O O
+3
+m
+LL C _(1)
+cuo
+E
+J 000
+CDU
+Do
+0
+J >, -
+0
+p0Q
+0 a) C
+W ' 0 a)
+o( DE
+i > E O
+02
+NUQ) cn
+NO)
+0
+N c
+O O 0
+U H C;)
+N M w
+Ex. B to Ordinance
+2002- 034, Pg. 17 of 19
+ai
+Cu
+L_ L
+a) 3
+aa))
+a) 0 3
+A N O ' O *: E C " O O E N EO
+E
+E
+LID
+C " O m E
+U Q E
+U E N C O U 0) Q E U S N C4 O
+Co r
+a'0I (LO E O) w C U
+CC,
+E U fn
+N
+L
+C
+C C a)
+3; a E
+N Cu0 a)
+N C L
+rnw C
+C
+3w°
+a) L N CU + C t
+C' ' C' Gi O N >
+N
+m
+o
+Q C)
+m n
+N C O Nm N
+N p
+Q
+C c
+mea 0O
+0
+d
+E
+N 0
+c f00>
+N
+a)m
+o
+C
+o
+m0> aNi@
+c m
+CO
+ate)
+a E
+0)
+m 3 E C 0 c o L
+ami
+d E
+D
+m 3 E C' 000)
+p 3
+00
+a)—
+Y o a oU o 0'> 3Z 00 a) E aoU o o.>
+m U m U a mQ w m m EU O m° o mQ > m
+m E
+Q
+Co fA
+L O ° a
+Cu m N Q m
+m
+N0.
+N
+C L
+m
+OD
+m E
+Q
+L O ° m NCu Cu 7
+N
+a. O m . 0`
+m N N m OC L Cu 70 C
+m
+L L C
+O
+o : E
+Cm+ L
+0 a)
+v N-0
+C a)
+0 N L' f
+N 0 1 E
+Z
+L V E n FEE oN m
+W> w E
+0
+U
+W
+C
+Cu
+ca
+Ua
+Co a)
+W> w NW E
+m+
+N U
+W
+uC O Q U
+Cu
+0y
+Q S N U M m N Q NU M m 4 Cu t[') 'a'O .L..,
+C
+N Z
+N
+UO n o UU Q 0 QU Q y Q
+N c>
+a oaimo 0Oa
+Q 3: EQ—° a) o
+oo
+3
+O mai 0
+w te
+a) a) ou0 0o
+Qom'
+a)
+aim-
+o Q
+i 0- 0mm
+a) O Cl.
+m
+Uc
+U) mQ
+V O
+O' N Y
+5 m
+N N O N Y
+m
+N
+C c 0 j E
+OE
+U U
+O
+mE 0o a)
+C O 0 0
+a0U
+O mOw4)
+C
+Uw a) UwN
+C7
+mEE ENJ
+O O O 4) 0p w
+OHOzQHO O OO
+QoBUm vm
+E U)
+E Eao Qui E E m
+Q
+C= J W OU OU 0 T2_ jwU), OU OU OmQ' Q'
+ODUJIippO Q U U, , ULEDCO Q U U —
+m
+V
+N
+Q)
+F- L E C
+C. 4)
+tm3
+O s O C
+dadUa= U an ..
+d -- k Z > r 3
+c O O OI- LH
+O0
+N w n d p
+00
+w d C
+UUQm0 UGO
+L
+OO
+O a N
+OCa
+iY)
+O
+V L rL
+E OL C
+CLrr d 0:2.5 0
+H
+dYUa=
+co r- w > c mwo
+y O O a. O H O
+00
+mo0 C w 0 G
+UUQmO Ono
+N
+ca ma
+O L m
+C) a
+ca
+Q
+L
+N _N
+O: 5
+N
+cnC
+CD N
+r 7
+E
+O O
+U O
+Cu
+C
+0 c6
+co N
+0 0
+a) o_
+CL
+N 0E d
+O m
+1) N
+N
+a) O Cu
+CL
+O7
+c w
+O 0
+N Cl)
+L
+ff
+CLE
+0(-)- aO
+c
+co o .E
+E
+CUt75
+p
+Q O O
+3
+m
+LL C _(1)
+cuo
+E
+J 000
+CDU
+Do
+0
+J >, -
+0
+p0Q
+0 a) C
+W ' 0 a)
+o( DE
+i > E O
+02
+NUQ) cn
+NO)
+0
+N c
+O O 0
+U H C;)
+N M w
+Ex. B to Ordinance
+2002-034, Pg. 17 of 19
+Exhibit A September 21, 2002
+Bend Metropolitan Planning Organization
+Adoption Process for Transportation Planning Documents
+BMPO staff drafts
+document
+BMPO Technical Advisory
+Committee reviews draft
+document
+BMPO Policy Board reviews
+document
+BMPO Policy Board holds
+public hearing on draft
+document
+FHWA & FTA & ODOT review
+draft document
+BMPO Policy Board adopts
+document
+Theaboveprocessappliesto the adoptionbythe BMPOof thefollowingplanningdocuments:
+Regional Transportation Plan, Transportation System Plan, Long Range Transportation Plan,
+TransportationImprovementPrograms, TitleVI CivilRightsReview, UnifiedPlanningWorkProgram,
+Budget, Auditof BMPOActivities, otherproductsauthorizedbythe PolicyBoardandspecifiedin the
+Unified Planning Work Program.
+Ex. B to Ordinance
+2002-034, Pg. 18 of 19
+September 24, 2002
+Office of the Governor
+State of Oregon
+State Capitol Building
+900 Court Street NE
+Salem, OR 97301- 4047
+To the Office of the Governor:
+Please find enclosed the application materials for the Governor' s designation of the Bend Metropolitan
+Planning Organization ( BMPO). We are pleased to have the opportunity to embark upon this exciting venture,
+and we look forward to getting the BMPO up and running.
+Planning for the formation of the BMPO has been carried out by the BMPO Coordinating Committee, a
+committee composed of elected officials and staff from the participating agencies.
+The formation process has been a highly successful inter -agency planning effort. Throughout the process, the
+goal of the Coordinating Committee has been inclusiveness, communication, coordination, and cooperation.
+Member agencies have worked exceedingly well together, jointly planning the entire process and making all
+decisions by consensus. The legal counsels of both the City and the County have assisted with the
+preparation and review of the IGA, and staff from both organizations have contributed time and energy into
+research and development of all documents.
+In addition, in order to foster regional coordination, the elected officials on the Committee have also
+represented their jurisdictions on the Central Oregon Area Commission on Transportation ( COACT), and the
+consensus - based decision- making process outlined in the IGA is modeled after that of COACT.
+The members of the Coordinating Committee are identified below:
+City of Bend Deschutes Countv
+Bill Friedman, Mayor ( COACT representative) Dennis Luke, Commissioner ( COACT representative)
+David Hales, City Manager Catherine Morrow, Principal Planner
+Deborah McMahon, Community Development Dir. Laurie Craghead, Legal Counsel
+Rick Root, Transportation Planner
+Jim Forbes, Legal Counsel
+Staff to the Coordinating Committee
+Oregon Department of Transportation Rima Wilson, City of Bend
+Mark DeVoney, Region 4 Deb Walker, City of Bend
+The Coordinating Committees' priority on cooperation and consensus is reflected in the content of the
+enclosed BMPO documents. The Policy Board, the Technical Advisory Committee, and the Intergovernmental
+Agreement have all been designed to retain the autonomy of the BMPO, and to facilitate coordination and
+cooperation among its member agencies. Formal links with COACT have been established, and a broad
+diversity of agencies have been encouraged to participate.
+We in Central Oregon have a history of successful consensus -based decision-making. The member agencies
+of the BMPO look forward to the operation of the BMPO as an opportunity to further this tradition and to
+advance comprehensive transportation planning in the region.
+Sincerely,
+Ex. B to Ordinance
+2002-034, Pg. 19of 19
+Rima Wilson Deb Walker
+Staff to the BMPO Coordinating Committee Staff to the BMPO Coordinating Committee
+EXHIBIT C
+Chapter 2. 60. INTERGOVERNMENTAL
+ENTITIES
+2. 60. 010. Purpose.
+2. 60. 020. Definition - Intergovernmental
+entity.
+2. 60. 030. Accountable Behavioral Health
+Alliance.
+2. 60. 040. Central Oregon Law
+Enforcement Services.
+2. 60. 010. Purpose.
+The purpose of DCC 2.60 is to ratify the creation
+of intergovernmental entities through
+intergovernmental agreements pursuant to ORS
+190. 085.
+Ord. 97- 039 § 1, 1997)
+2. 60. 020. Definition - Intergovernmental
+entity.
+For purposes of DCC 2. 60, " intergovernmental
+entity" shall mean an entity created through an
+intergovernmental agreement pursuant to ORS
+190 governed by a board or commission
+appointed by, responsible to, and acting on behalf
+of the parties to the intergovernmental agreement.
+Ord. 97- 039 § 1, 1997)
+2. 60. 030. Accountable Behavioral Health
+Alliance.
+A. DeschutesCounty ratifies the creation of the
+Accountable Behavioral Health Alliance
+Alliance).
+B. The Alliance shall have the power to enter
+into contracts, provide mental health services
+under the Oregon Health Plan, provide
+behavioral health servicesas a unified entity,
+and provide all administrative services
+necessary for the provision of these services.
+Ord. 97- 039 § 1, 1997)
+2. 60. 040. Central Oregon Law
+Enforcement Services.
+A. Deschutes County ratifies the creation of
+Central Oregon Law Enforcement Services
+COLES).
+B. COLES shall have the power to enter into
+contracts, provide agreed upon law
+enforcement services as a unified entity and
+provide all administrative and support
+servicesnecessaryfor the provision of these
+services.
+Ord. 99- 002 § 1, 1999)
+2. 60. 050. Bend Metropolian Planning
+Organization.
+A. Deschutes County ratifies the creation of the
+Bend Metropolitan Planning Organization
+BMPO .
+B. The BMPO shall have the power to enter into
+contract, incur debt, own property and
+provide all administrative and support
+services necessary for the provision of
+transportation planning servicesfor the Bend
+Metropolitan Area.
+Ord. 2002- 034 § 5, 2002)
+Chapter 2. 60 1 ( 10/ 2001)
+Page 1 of 1 - EXHIBIT C to ORDINANCE 2002- 034

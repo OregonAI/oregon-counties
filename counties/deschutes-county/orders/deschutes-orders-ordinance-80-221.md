@@ -1,0 +1,294 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-80-221
+title: 'Ordinance No. 80-221'
+doc_type: ordinance
+citation: 'Ordinance No. 80-221'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616608768_36-834-Ordinance%20No.%2080-221%20Recorded%201_8_1981.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 13c52ef202239e9e024d6011010a1d8416e417525e03990279eec77451a8c17e
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 80-221 (Ordinance No. 80-221)
+
+## At a glance
+
+Ordinance No. 80-221 — orders of Deschutes County. 7 pages.
+
+## Full text
+
+VOL 36PAGE814
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Section 4. 160,
+Airport Development ( A- D) Zone,
+Ordinance No. PL- 15, Deschutes County
+Zoning Ordinance of 1979, Providing
+for Uses Permitted Outright and
+Conditional Uses, Use Limitations,
+Dimensional Standards, Stream Setback,
+Off- Street Parking and Loading,
+Design and Use Criteria, and Additional
+Requirements; and Repealing Section
+4. 160 of Ordinance No. PL- 15, Deschutes
+County Zoning Ordinance of 1979,
+Adopted on November 1, 1979
+ORDINANCE NO. 80- 221
+F/ LE D
+air
+1981
+RQS~
+3' CSCHOESRCQPATTjRS0jVNTy QE,oK
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. That Section 4. 160, Airport Development ( A- D)
+Zone, as set forth herein, is added to and made a part of Ordinance
+No. PL- 15, Deschutes County Zoning Ordinance of 1979.
+ORDINANCE NO. 80- 221, PAGE 1
+W
+vol. 36PAGESnO
+SECTION 4. 160 AIRPORT DEVELOPMENT ZONE, A- D. In an A- D zone, the
+following regulations shall apply:
+1) Purpose: The purpose of the Airport Development Zone is to
+allow for development compatible with ongoing
+airport use and consistent with the Deschutes
+County Year 2000 Comprehensive Plan, while pro-
+viding for public review of proposed development
+likely to have significant impact on surrounding
+lands.
+2) Uses Permitted Outright.
+A) Airport and non- structural uses such as fuel storage,
+tie- down areas and parking facilities.
+B) Hangars, aircraft site, sale and repair facilities and
+related offices.
+3) Conditional Uses.
+A) Farm use.
+B) Farm accessory buildings and uses, excluding residential
+uses.
+C) Utility facility necessary for public service except
+landfills.
+D) Golf course.
+E) Park, playground, other public recreation site or
+facility or community service facility owned and
+operated by a governmental agency or nonprofit
+community organization.
+F) Restaurant, which may include a bar or cocktail lounge
+as an accessory use; one restaurant per airport;
+restaurant and accessory use to be 2, 500 square feet
+or less in size.
+G) Small- scale aviation related storage.
+H) Permitted industrial uses, excluding planned unit
+developments for other than permitted industrial uses,
+as described in Sections 20 and 21 of Ordinance No.
+PL- 11, as amended, provided that any such use is
+compatible with airport uses.
+4) Use Limitations. In an A- D zone, the following limitations
+and standar s shall apply to all uses:
+A) The height of any structure or part of a structure
+such as chimneys, towers, antennas, etc., shall not
+exceed 35 feet.
+ORDINANCE NO. 80- 221, PAGE 2
+a
+5)
+VOL WwE C'6
+B) In approach zones beyond the clear zone areas, no
+meeting place designed to accommodate more than 25
+persons for public or private purposes shall be permitted.
+C) All parking demand created by any use permitted by this
+section shall be accommodated on the subject premises
+entirely off- street.
+D) No use permitted by this section shall require the
+backing of traffic onto a public or private street or
+road right- of-way.
+E) There shall be only one ingress and one egress from
+uses permitted by this section per each 800 feet of
+frontage on an arterial or per each 300 feet of
+frontage or collector. If necessary to meet this
+requirement, permitted uses shall provide for shared
+ingress and egress.
+F) No use permitted by this section that generates more
+than 30 truck- trailer or other heavy equipment trips
+per day to and from a subject use shall be permitted
+to locate on a lot adjacent to or across a street from
+a residential use or lot in a duly platted subdivision,
+nor shall a residential use or lot be permitted
+adjacent to or across the street from an existing or
+planned use that is expected to generate such traffic.
+G) No use likely to generate more than 20 auto or truck
+trips during the busiest hour of the day to and from
+the premises shall be permitted unless served directly
+by an arterial or collector, or other improved street
+or road designed to serve such traffic. In no case
+shall such traffic be permitted to utilize a street
+or road which passes through a residential area.
+H) No power lines shall be located in clear zones and
+any power line located within an approach zone shall
+be in conformance with designated approach slope ratios
+contained in Section 4. 170(6)( B)(a), of this Ordinance.
+I) No use shall be allowed which is likely to attract an
+unusual quantity of birds, particularly birds which
+normally fly at high altitudes.
+Dimensional Standards. In an A- D zone, the following
+dimensional standards shall apply:
+A) The minimum lot size not in a planned unit development
+or subdivision shall be 5 acres, except that in conjunction
+with a specific use application, a lot size of not less
+than 22 acres may be approved where there is a showing
+that the lot requested is the maximum necessary for the
+use and reasonably expected future expansion of the use.
+ORDINANCE NO. 80- 221, PAGE 3
+VOL c~r'AGE S7
+The lot size in a planned unit developnent or sub-
+division shall average at least 2z acres.
+B) Lot coverage shall not exceed 70% by all buildings,
+storage areas and facilities and required off- street
+parking and loading areas.
+C) The minimum setback between any structure and an
+arterial right- of-way shall be 100 feet. The minimum
+setback of a non- residential structure from a collector
+right- of-way shall be 50 feet, and from all local streets
+the minimum setback shall be 20 feet.
+D) The minimum lot frontage shall be 330 feet, except that
+the minimum lot frontage in a planned unit development
+or subdivision shall be 100 feet.
+E) The minimum side and rear setback between any structure
+and a property line shall be 50 feet.
+6) Stream Setback. To permit better light, air, vision, stream
+or pollution control, protect fish and wildlife areas and
+preserve natural scenic amenities and vistas along the streams
+and lakes, all structures, buildings or similar permanent fixtures
+shall be set back from the high- water line or mark along all
+streams or lakes a minimum of 100 feet measured at right angles
+to the high- water line or mark.
+7) Off- Street Parkin and Loading. Off- street parking and loading
+shall be provided in accordance with the provisions of this
+section and Article 5.
+8) Design and Use Criteria. The Hearings Officer shall take into
+account the impact o the proposed conditional use on nearby
+residential and commercial uses, on resource carrying capacities
+and on the capacity of transportation and other public facilities
+and services. In approving a proposed conditonal use, the
+Hearings Officer shall find that:
+A) The proposed use is in compliance with the Comprehensive
+Plan.
+B) The proposed use is in compliance with the intent and
+provisions of this Ordinance.
+C) That any adverse social, economical, physical or
+environmental impacts are minimized.
+D) That the proposed use is not sensitive to noise of
+the character anticipated by the current and expected
+noise level contours of the airport.
+ORDINANCE NO. 80- 221, PAGE 4
+VOL 36p4GE838
+E) That the proposed use is compatible with adjacent
+agricultural and residential uses.
+F) That there are sufficient public facilities and
+services to support the proposed use.
+G) That the location and site design of the proposed
+facility will not be hazardous to the safety and general
+welfare of surrounding properties, and that the
+location will not unnecessarily restrict existing and
+future development of surrounding lands as indicated
+in the comprehensive plan.
+H) That the use shall make the most effective use reason-
+ably possible of the site topography, existing land-
+scaping and building placement so as to preserve existing
+trees and natural features, preserve vistas and other
+views from public ways, minimize visibility of parking,
+loading and storage areas from public ways and neighbor-
+ing residential uses, and minimize intrusion into the
+character of existing developments and land uses in
+the immediate vicinity of the proposed use.
+9) Additional Requirements. As a condition of approval of any
+conditional use proposed within an A- D zone, the Hearings
+Officer may require:
+A) An increase in required setbacks.
+B) Additional off- street parking and loading facilities
+and building standards.
+C) Limitations on signs or lighting, hours of operation,
+points of ingress and egress and building heights.
+D) Additional landscaping, screening and other improvements.
+E) Glare- resistant materials in construction or other
+methods likely to reduce operating hazards.
+F) Other conditions considered necessary to achieve
+compliance and policies of the comprehensive plan.
+Section 2. Section 4. 160, Airport Development ( A- D) Zone,
+Ordinance No. PL- 15, Deschutes County Zoning Ordinance of 1979, as
+adopted on November 1, 1979, is hereby repealed.
+DATED this day of ra, 1-,U. 0,r- V , 1980.
+BOARD OF COUNTY COMMISSIONERS
+OF UTES
+CO2
+OREGON
+ATTEST:
+C-2
+It/24rldd7't ROBE PA ON,•~ C N
+TAMMY CHARD N
+Recording Secretary C HEPARD, issioner
+ALBERT A. Y ° G, Commissioner
+ORDINANCE NO. 80- 221, PAGE 5
+FINDINGS OF FACT
+AIRPORT DEVELOPMENT ( A- D) ZONE
+VOL 6MESIN
+F' L E
+J/ I1987
+E
+RSO,vDESHUT,ES PATr
+CUNTY Q&,
+1. The Deschutes County Comprehensive Plan amendments
+are written to provide that the Airport Development ( A- D) Zone be
+established in areas where airport noise conflicts are to be moderate
+Ldn 65) or greater.
+2. Industrial and some commercial uses are recognized as
+compatible with moderate airport noise levels in Bend Municipal
+Airport Master Plan Technical Report and the Oregon Department
+of Transportation publication, " Airport Compatibility Planning."
+3. The industrial uses and lot sizes in the Airport
+Development ( A- D) Zone are compatible with the Light Industrial and
+Industrial Park Zones in the Bend Urban Area Zoning Ordinance, as
+well as being compatible with the Rural Industrial Zone and Research
+and Development Zone lot size dimensions in the Deschutes County
+Zoning Ordinance of 1979.
+4. Lot size, setback and coverage in the Airport Development
+A- D) Zone provide sufficient buffers between uses within the Air-
+port Development ( A- D) Zone and adjacent residential and agricultural
+uses.
+5. Uses within the Airport Development ( A- D) Zone that
+are not compatible with expected airport noise levels and adjacent
+residential and agricultural uses are not allowed.
+6. Compatibility with adjacent properties can be assured
+in the Airport Development ( A- D) Zone through the allowed uses,
+FINDINGS OF FACT, AIRPORT DEVELOPMENT ( A- D) ZONE, PAGE 1
+VOL Mau 840
+use limitations and through the site plan review process.
+ADOPTED this day of , 1981.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+ROBERT C. PAULSON, JR., Chai
+1. 11-100,
+ATTEST:
+TAMMY CHARDSON
+Recording Secretary
+FINDINGS OF FACT, AIRPORT DEVELOPMENT ( A- D) ZONE, PAGE 2

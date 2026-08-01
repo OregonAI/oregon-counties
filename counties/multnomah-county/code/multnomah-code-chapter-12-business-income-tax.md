@@ -1,0 +1,2222 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-code-chapter-12-business-income-tax
+title: 'Chapter 12: Business Income Tax'
+doc_type: ordinance
+citation: 'Chapter 12: Business Income Tax'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://multco.us/file/chapter_12:_business_income_tax/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 2c5a1d66c020adea381ab06259c66c869609b7ac88b8a1edeca17cbdd88c63e8
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 192.610
+    - ORS 192.660
+    - ORS 305.193
+    - ORS 305.239
+    - ORS 314.410
+    - ORS 314.610
+    - ORS 314.835
+    - ORS 317.080
+    - ORS 317.920
+  related: []
+  supersedes: []
+tags: [multnomah-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter 12: Business Income Tax (Chapter 12: Business Income Tax)
+
+## At a glance
+
+Chapter 12: Business Income Tax — code of Multnomah County. 22 pages.
+
+## Full text
+
+Chapter 12:  Business Income Tax
+
+12.005 Title.
+12.010 Taxes For Revenue.
+12.020 Conformity To State Income Tax
+Laws.
+12.100 Definitions.
+12.110 Repealed by Ord. 1142
+12.200 Administration.
+12.210 Administrative Authority.
+12.220 Presumption Of Doing Business.
+12.225 Ownership Of Taxfiler
+Information.
+12.230 Confidentiality.
+12.240 Persons To Whom Information
+May Be Furnished.
+12.250 Taxfiler Representation.
+12.255 Representation Restrictions.
+12.260 Information Request,
+Examination Of Books, Records
+Or Persons.
+12.270 Records.
+12.280 Deficiencies And Refunds.
+12.290 Protests And Appeals.
+12.400 Exemptions.
+12.500 Imposition And Rate Of Tax.
+12.510 Return Due Date.
+12.520 Quarterly Estimates.
+12.530 Schedule For Payment Of
+Estimated Tax.
+12.545 Tax Return.
+12.550 Presumptive Tax.
+12.560 Payment Plan Fee.
+12.600 Income Determinations.
+12.610 Apportionment Of Income.
+12.615 Business Retention Credit for
+Investment Management Firms.
+12.620 Changes To Federal Or State
+Tax Returns.
+12.700 Penalty.
+12.710 Interest.
+12.715 Payments Applied.
+12.720 Interest On Refunds.
+12.730 Criminal Penalties.
+12.805 Severability.
+12.815 Operative Date.
+12.840 Frivolous Filing.
+12.850 Hacking.
+12.990 Participation Of Cities.
+12.995 Former Regulations Superseded
+By This Subchapter; Exceptions.
+
+§ 12.005 TITLE.
+
+ This chapter is known and cited as the
+Multnomah County Business Income Tax Law.
+(Ord. 1142, Amended, 07/16/2009; Ord. 1046, Renum. 11.500
+& Amd., 08/19/2004; ‘ 90 Code, § 5.60.005, 07/01/1998; Ord.
+768, passed, 06/24/1993)
+
+§ 12.010 TAXES FOR REVENUE.
+
+ The Board of the County Commissioners finds it
+is necessary to raise additional revenues to provide
+those county services required for the health, safety
+and welfare of the people of the county. The purpose
+of the taxes imposed by this chapter is to raise funds
+to provide those services within t he county. All pro-
+ceeds collected under this chapter are general fund
+revenue. This chapter is intended to establish a uni-
+fied system for collection and allocation of taxes
+based upon business net income by the county and by
+cities within the county.
+(Ord. 1142, Amended, 07/16/2009; Ord. 1046, Renum. 11.501
+& Amd., 08/19/2004; ‘ 90 Code, § 5.60.010, 07/01/1998; Ord.
+779, passed, 12/09/1993; Ord. 768, passed, 06/24/1993)
+
+§ 12.020 CONFORMITY TO STATE
+INCOME TAX LAWS.
+
+ The Business Income Tax Law is construe d in
+conformity with the laws and regulations of the state
+imposing taxes on or measured by net income as
+those laws existed for that particular tax year. The
+Administrator has the authority by written policy, to
+connect to or disconnect from any legislati ve enact-
+ment that deals with income or excise taxation or the
+definition of income. Should a question arise under
+the Business Income Tax Law on which this chapter
+is silent, the Administrator may look to the laws of
+the state of Oregon  for guidance in resolving the
+question, provided that the determination under state
+law is not in conflict with any provision of this chap-
+ter or the state law is otherwise inapplicable.
+(Ord. 1142, Amended, 07/16/2009; Ord. 1104, Amended,
+12/20/2007; Ord. 1046, Renum. 11.502 & Amd., 08/19/2004;
+‘ 90 Code, § 5.60.020, 07/01/1998; Ord. 897, passed,
+01/08/1998; Ord. 768, passed, 06/24/1993)
+ 2    Chapter 12:  Business Income Tax
+(S-1 2021)
+§ 12.100 DEFINITIONS.
+
+ The terms used in this chapter are defined as pro-
+vided in this chapter or in Administrative Rules,
+adopted under § 12.210 of this chapter, unless the
+context requires otherwise.
+
+ ADMINISTRATOR. The Bureau or Division of
+the City of Portland that is responsible for adminis-
+tering the Portland Business License Law, and its
+duly appointed employees and agents.
+
+ APPEALS BOARD. The hearings body desig-
+nated by the Board to review taxfiler appeals from
+final determinations by the Administrator.
+
+ BUSINESS. An enterprise, activity, profession
+or undertaking of any nature, whether related or un-
+related, by a person in the pursuit of profit, gain or
+the production of income, including services per-
+formed by an indi vidual for remuneration, but does
+not include wages earned as an employee.
+
+ BUSINESS INCOME. Has the same meaning as
+“apportionable income” defined in ORS 314.610.
+
+ CONTROLLING SHAREHOLDER. Any per-
+son, alone or together with that person’s spouse, par-
+ents, and/or children, who, directly or indirectly,
+owns more than 5% of any class of outstanding stock
+or securities of the taxfiler. The term CONTROL-
+LING SHAREHOLDER may mean the controlling
+shareholder individually or in the aggregate.
+
+ DAY.  A calendar day unless otherwise noted.
+
+ DIRECTOR. Multnomah County Chief Finan-
+cial Officer and their designee(s).
+
+ DIVISION. The Finance and Risk Management
+Division of Multnomah County.
+
+ DOING BUSINESS. To engage in any activity
+in pursuit of profit or gain, inclu ding but not limited
+to, any transaction involving the holding, sale, rental
+or lease of property, the manufacture or sale of goods
+or the sale or rendering of services other than as an
+employee. Doing business includes activities carried
+on by a person through officers, agents or employees
+as well as activities carried on by a person on their
+own behalf.
+
+ EMPLOYEE. Any individual who performs ser-
+vices for another individual or organization and
+whose compensation is reported by an IRS Form W-
+2.
+
+ INCOME. The net income arising from any busi-
+ness, as reportable to the state of Oregon (State) for
+personal income, corporation excise, or income tax
+purposes, before any allocation or apportionment for
+operation out of state, or deduction for a net operating
+loss carry-forward or carry-back.
+
+ (A) Partnerships, S corporations, limited liability
+companies, limited liability partnerships, family lim-
+ited partnerships, estates, and trusts are liable for the
+business tax and not the individual partners, share-
+holders, members, beneficiaries or owners. The in-
+come of these entities must include all income re-
+ceived by the entity including ordinary income, inter-
+est and dividend income, income from sales of busi-
+ness assets and other income attributable to the entity.
+For income purposes, a limited liability company is
+deemed to be the tax entity that includes the income
+of the limited liability company in its federal tax re-
+turn if the limited liability company will be disre-
+garded as a separate tax entity.
+
+ (B) If one or more  persons are required or elect
+to report their income to the State for corporation ex-
+cise or income tax purposes or personal income tax
+purposes in a consolidated, combined or joint return,
+a single return must be filed by the person filing such
+return. In  such cases, INCOME means the net in-
+come of the consolidated, combined or joint group of
+taxfilers before any allocation or apportionment for
+operation out of the state, or deduction for a net op-
+erating loss carrying-forward or carry-back.
+
+ (C) The absence of reporting income to the Inter-
+nal Revenue Service or the State of Oregon does not
+limit the ability of the Administrator to determine the
+correct income of the taxfiler through examination
+under § 12.260 of this chapter.
+
+ INDIVIDUAL. A natural person, including nat-
+ural persons who report their income to the State of
+Oregon in a joint personal state income tax return. In
+such case, INDIVIDUAL shall refer to the joint
+taxfiler.
+    Chapter 12:  Business Income Tax                                                                          3
+(S-1 2022)
+ INVESTMENT MANAGEMENT FIRM. A
+taxpayer that satisfies each of the followin g require-
+ments during the tax year that the credit is sought pur-
+suant to § 12.615:
+
+(A) At least 90% of the firm’s gross income for
+the tax year consists of fees that are:
+
+(1)  Received from a Diversified Investing
+Fund, as such term is defined by administrative rules
+adopted in accordance with § 12.210, or from persons
+unrelated to the firm, and
+
+(2) Determined as a percentage of the value
+of assets managed by the firm (including payments to
+the firm from third parties if the payments are cred-
+ited against or offset such fees in whole or in part).
+
+(B) At least 90 % of the assets managed by the
+firm consist of Qualifying Investment Securities, as
+such term is defined by administrative rules adopted
+in accordance with § 12.210.
+
+(C) A majority of the voting interests in the firm
+are owned by persons who receive compensation
+from the firm that is subject to the Owners Compen-
+sation Deduction in § 12.600.
+
+(D) The firm was physically located within the
+Multnomah County boundaries at the en d of the tax
+year.
+
+ NET OPERATING LOSS. The negative taxable
+income that may result after the deductions allowed
+by the Business Income Tax Law in determining net
+income for the tax year.
+
+ NONBUSINESS INCOME.  Has the same
+meaning as “nonapportionable income” defined in
+ORS 314.610.
+
+ NOTICE. A written document mailed first class
+by the Administrator or D ivision to the last known
+address of a taxfiler as provided to the Administrator
+or Division in the latest tax return on file with the Ad-
+ministrator. Alternatively, notice may be delivered in
+person, by facsimile, email, or other means with
+taxfiler consent.
+ OWNERSHIP OF OUTSTANDING STOCK
+OR SECURITIES.  The incidents of ownership
+which include the power to vote on the corporation’s
+business affairs or the power to vote for the directors,
+officers, operators or other managers of the taxfiler.
+
+ PERSON. Includes, but is not limited to an indi-
+vidual, a natural person, proprietorship, partnership,
+limited partnership, family limited partnerships, as-
+sociation, cooperative, trust, estate, corporation, per-
+sonal holding company, limited liability company,
+limited liability partnership or any other form of or-
+ganization for doing business.
+
+ RECEIVED. The postmark date affixed by the
+United States postal servic e if mailed or the date
+stamp if delivered by hand or sent by facsimile or the
+receipt date from the online file and pay application
+confirmation notice.
+
+ TAX YEAR. The taxable year of a person for fed-
+eral or state income tax purposes.
+
+ TAXFILER. A pers on doing business in the
+county and required to file a return under the Busi-
+ness Income Tax Law.
+(Ord. 1310, Amended, 10/13/22; Ord. 1299, Amended,
+08/26/21; Ord. 1272, Amended, 06/06/2019, Ord. 1226,
+Amended, 11/12/15; Ord. 1154, Amended, 02/11/2010; Ord.
+1142, Amended, 07/16/2009; Ord. 1104, Amended, 12/20/2007;
+Ord. 1068, Amended, 10/13/2005; Ord. 1046, Renum. 11.504 &
+Amd., 08/19/2004; ‘ 90 Code, § 5.60.100, 07/01/1998; Ord.
+897, passed, 01/08/1998; Ord. 768, passed, 06/24/1993)
+
+§ 12.200 ADMINISTRATION.
+
+ (A) The Administrator is the administrator of
+record and has the authority to administer and enforce
+this chapter effective January 1, 1994, to include, but
+not limited to, administrative return processing, au-
+diting, and determinations, collection of taxes, penal-
+ties and interest (including instituting legal action in
+any court of competent jurisdiction by or on behalf of
+the Division or Administrator); and  protests and ap-
+peals that occur on or after January 1, 1994.
+
+ (B) The Administrator has access to and main-
+tains all tax filings and records, under this chapter, on
+behalf of the county. The Administrator may, upon
+request, interpret how this chapter applies, in general
+or for a certain set of circumstances. Nothing in this
+chapter precludes the informal disposition of contro-
+versy by stipulation or agreed settlement, through
+4    Chapter 12:  Business Income Tax
+correspondence or a conference with the Administra-
+tor.
+(Ord. 1226, Amended, 11/12/15; Ord. 1142, Amended,
+07/16/2009; Ord. 1104, Amended, 12/20/2007; Ord. 1072,
+Amended, 03/30/2006; Ord. 1046, Renum. 11.506 & Amd.,
+08/19/2004; ‘ 90 Code, § 5.60.200, 07/01/1998; Ord. 897,
+passed, 01/08/1998; Ord. 779, passed, 12/09/1993; Ord. 768,
+passed, 06/24/1993)
+
+§ 12.210 ADMINISTRATIVE
+AUTHORITY.
+
+ (A) The Administrator may implement proce-
+dures, forms, and written policies for ad ministering
+the provisions of the Business Income Tax Law.
+
+ (B) The Administrator may adopt rules relating
+to matters within the scope of this chapter to admin-
+ister compliance with the Business Income Tax Law.
+
+ (C) Before adopting a new rule, the Administra-
+tor must hold a public hearing. Prior to the hearing,
+the Administrator will publish a notice in a newspa-
+per of general circulation in the county. The notice
+must be published not less than ten nor more than 30
+days before the hearing; and it must include the place,
+time and purpose of the public hearing, a brief de-
+scription of the subjects covered by the proposed
+rule, and the location where copies of the full text of
+the proposed rule may be obtained.
+
+ (D) At the public hearing, the Administrator, or
+designee, will receive oral and written testimony con-
+cerning the proposed rule. The Administrator will ei-
+ther adopt the proposed rule, modify it, or reject it,
+taking into consideration the testimony received dur-
+ing the public hearing. If a substantial modification is
+made, additional public review will be conducted, but
+no additional public notice is required if an an-
+nouncement is made at the hearing of a future hearing
+for a date, time and place certain at which the modi-
+fication will be discussed. Unless otherwise stated,
+all rules are effective upon adoption by the Adminis-
+trator. All rules adopted by the Administrator will be
+filed in the D ivision’s office. Copies of all current
+rules will be made available to the public upon re-
+quest.
+
+ (E) Notwithstanding subsections (C) and (D),
+the Administrator may adopt an interim rule without
+prior public notice upon a finding that failure to act
+promptly will result in serious prejudice to the public
+interest or the interest of the affected parties, stating
+the specific reasons for such prejudice. Any interim
+rule adopted pursuant to this subsection is effective
+for a period of not longer than 180 days.
+(Ord. 1226, Amended, 11/12/15; Ord. 1142, Amended,
+07/16/2009; Ord. 1046, Renum. 11.507 & Amd., 08/19/2004;
+‘ 90 Code, § 5.60.210, 07/01/1998; Ord. 779, passed,
+12/09/1993; Ord. 768, passed, 06/24/1993)
+
+§ 12.220 PRESUMPTION OF DOING
+BUSINESS.
+
+ A person is presumed to be doing business in the
+county and subject to this chapter if engaged in any
+of the following activities:
+
+ (A) Advertising or otherwise professing to be do-
+ing business within the county;
+
+ (B) Delivering goods or providing services to
+customers within the county;
+
+ (C) Owning, leasing or renting personal or real
+property within the county;
+
+ (D) Engaging in any transaction involving the
+production of income from holding property or the
+gain from the sale of property, which is not otherwise
+exempted in this chapter. Property may be personal,
+including intangible, or real in nature; or
+
+ (E) Engaging in any activity in pursuit of gain
+which is not otherwise exempted in this chapter.
+(Ord. 1226, Amended, 11/12/15; Ord. 1046, Renum. 11.503 &
+Amd., 08/19/2004; ‘ 90 Code, § 5.60.030, 07/01/1998; Ord.
+897, passed, 01/08/1998; Ord. 768, passed, 06/24/1993)
+
+§ 12.225 OWNERSHIP OF TAXFILER
+INFORMATION.
+
+ The county is the sole owner of all filer infor-
+mation under the authority of this chapter. The Direc-
+tor and anyone designated by the Director has access
+to all taxfiler information at all times.
+(Ord. 1226, Amended, 11/12/15; Ord. 1142, Amended,
+07/16/2009; Ord. 1046, Renum. 11.508 & Amd., 08/19/2004;
+‘ 90 Code, § 5.60.220, 07/01/1998; Ord. 768, passed,
+06/24/1993)
+
+§ 12.230 CONFIDENTIALITY.
+
+ (A) In accordance with ORS 314.835, except as
+otherwise specifically by provided by Oregon law or
+this chapter, it is unlawful for the Adm inistrator or
+any County officer, employee or agent to divulge or
+make known in any manner the amount of income,
+     Chapter 12:  Business Income Tax                                              5
+expense, deduction, exclusion or credit or any partic-
+ulars set forth or disclosed in any report or return re-
+quired in the administration of any tax imposed under
+the Business Income Tax Law.
+
+ (B) It is unlawful for the Administrator or any
+County officer, employee or agent, or elected official,
+or for any person who has acquired information pur-
+suant to § 12.240 (B) to divulge, release or make
+known in any manner any information submitted or
+disclosed to the Administrator or County under the
+terms of the Business Income Tax Law for any pur-
+pose other than that specified in the provisions of law
+authorizing the use or disclosure.
+
+ (C) No subpoena or judicial order shall be issued
+compelling the Administrator or any County officers,
+employee, or agent, or any person who has acquired
+information pursuant to § 12.240 (B) or any other
+provision of state or County law, to divulge or make
+known the amount of income, expense, deduction,
+exclusion or credit or any particulars set forth or dis-
+closed in any report or return except where the
+taxfiler’s liability for any tax imposed under the Busi-
+ness Income Tax Law is to be adjudicated by the
+court from which such process issues.
+
+ (D) As used in this section:
+
+  (1) “Officer,” “employee” or “person” in-
+cludes an authorized representative of the officer,
+employee or person, or any former officer, employee
+or person, or an authorized representative of such for-
+mer officer, employee or person.
+
+  (2) “Particulars” includes, but is not limited to,
+a taxfiler’s name, address, telephone number, Social
+Security number, employer identification number or
+other taxpayer identification number, the amount of
+refund claimed by or granted to a taxpayer, and
+whether a report or return has been filed.
+(Ord. 1327, Amended, 10/17/24; Ord. 1226, Amended,
+11/12/15; Ord. 1191, Amended, 05/10/2012; Ord. 1142,
+Amended, 07/16/2009; Ord. 1104, Amended, 12/20/2007; Ord.
+1072, Amended, 03/30/2006; Ord. 1046, Renum. 11.509 &
+Amd., 08/19/2004; ‘ 90 Code, § 5.60.230, 07/01/1998; Ord.
+779, passed, 12/09/1993; Ord. 768, passed, 06/24/1993)
+
+§ 12.240 PERSONS TO WHOM
+INFORMATION MAY BE
+FURNISHED.
+
+(A)  The Administrator or the Director may:
+
+(1) Furnish any taxfiler, representat ive au-
+thorized to represent the taxfiler under ORS 305.239
+or person designated by the taxfiler under ORS
+305.193, upon request of the taxfiler, representative
+or designee, with a copy of the taxfiler’s tax return
+filed with the division for any year, or with a copy of
+any report filed by the taxfiler in connection with the
+return, or with any other information the division
+considers necessary.
+
+(2) Publish lists of taxfilers who are entitled
+to unclaimed tax refunds.
+
+(3) Publish statistics so classified  as to pre-
+vent the identification of income or any particulars
+contained in any report or return.
+
+(4) Disclose a taxfiler’s name, address, tele-
+phone number, refund amount, amount due, Social
+Security number, employer identification number or
+other taxfiler identification number to the extent nec-
+essary in connection with collection activities or the
+processing and mailing of correspondence or of
+forms for any report or return required in the admin-
+istration of any local tax.
+
+(B)  The Administrator or the Director also may
+disclose and give access to information described in
+§ 12.230 to:
+
+(1) The Commissioner of Internal Revenue
+or authorized representative, for tax administration
+and compliance purposes only.
+
+(2) The Oregon Department of Revenue or
+authorized representative, for tax administration and
+compliance purposes only.
+6     Chapter 12:  Business Income Tax
+(3) For tax administration and compliance
+purposes, the proper officer or authorized representa-
+tive of any of the following entities that has or is gov-
+erned by a provision of law that meets the require-
+ments of any applicable provision of the Internal
+Revenue Code as to confidentiality:
+
+(a) A state;
+(b) A city, county or other political sub-
+division of a state;
+(c) The District of Columbia; or
+(d) An association established exclu-
+sively to provide services to federal,
+state or local taxing authorities.
+
+(4) The Multnomah County Attorney, the At-
+torney’s assistants and employees, or other legal rep-
+resentatives of the County, to the extent the Admin-
+istrator or Director deems disclosure or access neces-
+sary for the performance of the duties of advising or
+representing the Administrator or the Director, in-
+cluding but not limited to instituting legal actions on
+unpaid accounts.
+
+(5) The Administrator’s attorney, the attor-
+ney’s assistants and employees, or other legal repre-
+sentatives of the Administrator, to the extent the Ad-
+ministrator deems disclosure or access necessary for
+the performance of the duties of advising or repre-
+senting the Administrator, including but not limited
+to instituting legal actions on unpaid accounts.
+
+(6) The proper officer or authori zed repre-
+sentative of a city, county, or other subdivision of this
+state, to the extent the Administrator or Director
+deems disclosure or access necessary for purposes of
+mutual tax administration of city, county, or other
+subdivision taxes. Any disclosure  under this para-
+graph may be made only pursuant to a written agree-
+ment between the division and the city, county, or
+other subdivision that ensures the confidentiality of
+the information disclosed.
+
+(7) Other employees, agents and officials of
+the Administrator or the County, to the extent the Ad-
+ministrator or the Director deems disclosure or access
+necessary for such employees, agents or officials to:
+
+(a) aid in any legal collection effort on
+unpaid accounts,
+(b) perform their duties under contracts
+or agreements between the Adminis-
+trator or the County and any other
+department, bureau, agency or sub-
+division of the Administrator or the
+County relating to the administration
+of the Business Income Tax Law, or
+(c) aid in determining whether a taxfiler
+is in compliance with all County,
+City of Portland, Metro, State and
+Federal laws or policies.
+
+(8) Other persons, partnerships, corporations
+and other legal entities, and their employees, to
+the extent the Administrator deems disclosure or
+access necessary for the performance of such oth-
+ers’ duties under contracts or agreements be-
+tween the Administrator and such legal entities,
+in the Administrator’s administration of the tax
+laws.
+
+(9) The Administrator’s appeals board, per §
+12.290, is authorized to receive r elevant tax in-
+formation for the purpose of considering and is-
+suing decisions with respect to appeals of taxfil-
+ers to the Administrator’s actions increasing tax
+due or reducing a refund of taxes paid. The ap-
+peals board is a public body subject to Oregon
+public meeting laws in ORS 192.610 to 192.705.
+ORS 192.660(2)(f) authorizes an executive ses-
+sion meeting to privately consider records or in-
+formation that are exempt by law from public
+disclosure. Tax information is exempt from pub-
+lic disclosure.
+
+(C)  Each officer or employee of the Administrator or
+the County and each person described or referred to
+in subsection (B) (4) to (9) of this section to whom
+disclosure or access to the tax information is given
+under subsection (B) of this section or any other pro-
+vision of law, prior to beginning employment or the
+performance of duties involving such disclosure or
+access, shall be advised in writing of the provisions
+of §§ 12.230, 12.255, and 12.730, relating to penal-
+ties for the violation of § 12.230, and shall as a con-
+dition of employment or performance of duties exe-
+cute a certificate for the Administrator or the County,
+in a form prescribed by the Administrator or the
+County, stating in substance that the person has
+    Chapter 12:  Business Income Tax                                                                            7
+read these provisions of law, that the person has had
+them explained and that the person is aware of the
+penalties for the violation of § 12.230.
+(Ord. 1327, Amended, 10/17/24; Ord. 1272, Amended,
+06/06/2019, Ord. 1226, Amended, 11/12/15; Ord. 1142,
+Amended, 07/16/2009; Ord. 1104, Amended, 12/20/2007; Ord.
+1046, Renum. 11.510 & Amd, 08/19/2004; ‘ 90 Code, §
+5.60.240, 07/01/1998; Ord. 768, passed, 06/24/1993)
+
+§ 12.250 TAXFILER REPRESENTATION.
+
+ No person will be recognized as representing any
+taxfiler in regard to any matter relating to the tax of
+such taxfiler without written authorization of the
+taxfiler or unless the Administrator determines from
+other available information the person has authority
+to represent the taxfiler.
+(Ord. 1142, Amended, 07/16/2009; Ord. 1046, Renum. 11.511
+& Amd., 08/19/2004; ‘ 90 Code, § 5.60.250, 07/01/1998; Ord.
+768, passed, 06/24/1993)
+
+§ 12.255 REPRESENTATION
+RESTRICTIONS.
+
+ (A) No employee or official of the county, the
+Administrator, any public agency authorized to col-
+lect taxes imposed by this chapter, may represent any
+taxfiler in any matter before the Administrator. This
+restriction against taxfiler representation will con-
+tinue for two years after termination of employment
+or official status.
+
+ (B) Members of the appeals board must not rep-
+resent a taxfiler before the appeals board. No member
+of the appeals board may participate in any matter be-
+fore the board if the appellant is a client of the mem-
+ber or the member’s firm.
+(Ord. 1142, Amended, 07/16/2009; Ord. 1046, Renum. 11.512
+& Amd., 08/19/2004; ‘ 90 Code, § 5.60.255, 07/01/1998; Ord.
+779, passed, 12/09/1993; Ord. 768, passed, 06/24/1993)
+
+§ 12.260 INFORMATION REQUEST,
+EXAMINATION OF BOOKS,
+RECORDS OR PERSONS.
+
+ (A) The Administrator may request information
+or examine any books,  papers, records, or memo-
+randa, including state and federal income or excise
+tax returns, to ascertain the correctness of any tax re-
+turn or to make an estimate of any tax. The Adminis-
+trator has the authority, after notice, to:
+
+  (1) Require the attendance of any person re-
+quired to file a tax return under the Business Income
+Tax Law, or officers, agents, or other persons with
+knowledge of the person ’s business operations, at
+any reasonable time and place the Administrator may
+designate;
+
+  (2) Take testimon y, with or without the
+power to administer oaths to any person required to
+be in attendance;
+
+  (3) Require proof for the information
+sought, necessary to carry out the provisions of this
+chapter; and
+
+  (4) Require the property manager of a ten-
+ants-in-common arrangement to provide financial in-
+formation related to the arrangement as well as infor-
+mation regarding the owners, including, but not lim-
+ited to, the name and last known addresses of the
+owners.
+
+ (B) The Administrator will designate the em-
+ployees who will have the power to administer oaths
+hereunder. Such employees must be notaries public
+of the state of Oregon.
+(Ord. 1142, Amended, 07/16/2009; Ord. 1104, Amended,
+12/20/2007; Ord. 1046, Renum. 11.513 & Amd., 08/19/2004;
+‘ 90 Code, § 5.60.260, 07/01/1998; Ord. 768, passed,
+06/24/1993)
+
+§ 12.270 RECORDS.
+
+ Every person required to file a return under the
+Business Income Tax Law must keep and preserve
+for not less than seven years such documents and rec-
+ords, including state and federal income and excise
+tax returns, accurately supporting the information re-
+ported on the taxfiler ’s return and calculation of tax
+for each year.
+(Ord. 1142, Amended, 07/16/2009; Ord. 1046, Renum. 11.514
+& Amd., 08/19/2004; ‘ 90 Code, § 5.60.270, 07/01/1998; Ord.
+768, passed, 06/24/1993)
+
+§ 12.280 DEFICIENCIES AND REFUNDS.
+
+ (A) Deficiencies may be assessed and refunds
+granted any time within the period provided under
+ORS 314.410, 314.415, and 317.950. The Adminis-
+trator may by agreement with the taxfiler extend such
+time periods to the same extent as provided by stat-
+ute.
+
+ (B) Consistent with ORS  314.410(4), in cases
+where no tax return has been filed, there is no time
+limit for a notice of deficiency and/or the assessment
+of taxes, penalty and interest due.
+8     Chapter 12:  Business Income Tax
+ (C) Notwithstanding subsections (A) and (B),
+the Administrator is not required to accept any tax re-
+turn from a taxfiler if:
+
+  (1) The Administrator obtains a money
+judgment against the taxfiler for failure to pay an un-
+paid account balance due; and
+  (2) The Administrator or its designee law-
+fully served the taxfiler with the lawsuit pursuant to
+the Oregon Rules of Civil Procedure; and
+
+  (3) The tax return is for a taxable year that is
+the subject of the general money judgment; and
+
+  (4) The Administrator gave written notice
+stating that the taxfiler had an outstanding balance
+due at least 30 days before the Administrator (or its
+designee) filed a lawsuit for t hose particular taxable
+years.
+(Ord. 1226, Amended, 11/12/15; Ord. 1142, Amended,
+07/16/2009; Ord. 1104, Amended, 12/20/2007; Ord. 1046, Re-
+num. 11.515 & Amd., 08/19/2004; ‘ 90 Code, § 5.60.280,
+07/01/1998; Ord. 897, passed, 01/08/1998; Ord. 779, passed,
+12/09/1993; Ord. 768, passed, 06/24/1993)
+
+§ 12.290 PROTESTS AND APPEALS.
+
+ (A) Taxfiler may protest a ny determination by
+the Administrator. Written notice of the protest must
+be received by the Administrator within 30 days after
+the Administrator mailed or delivered the  initial no-
+tice of determination to the taxfiler. The protest must
+state the name and address of the taxfiler and an ex-
+planation of the grounds for the protest . The time to
+file a protest may be extended by the Administrator
+for good cause.  Requests for extensions of time must
+be received prior to the expiration of the original 30-
+day protest deadline.  Failure to file a written notice
+within the time permitted will be deemed a waiver of
+any objections and the appeal will be dismissed.
+
+(B) The Administrator must respond within 180
+days after the protest is filed with a final determina-
+tion. The Administrator ’s final determination must
+include the reasons for the determination and state the
+time and manner for appealing the final determina-
+tion. The time for the Administrator ’s response may
+be extended by the Administrator, for good cause.
+Written notice will be given to the taxfiler if the Ad-
+ministrator’s deadline is extended.  Failure to issue a
+final determination within the time permitted will not
+invalidate any deficiency but will invalidate the im-
+position of interest and penalties attributable to the
+deficiency.
+
+ (C) Any final determination by the Adminis tra-
+tor may be appealed by the taxfiler to the appeals
+board. Written notice of the appeal must be received
+by the Administrator within 30 days after the Admin-
+istrator mailed or delivered the final determination to
+the appellant. The notice of appeal must s tate the
+name and address of the appellant and include a copy
+of the final determination.
+
+ (D) Within 90 days after the Administrator mails
+or delivers the final determination to the appellant,
+the appellant must file with the appeals board a writ-
+ten statement containing:
+
+  (1) The reasons the Administrator ’s deter-
+mination is incorrect; and
+
+  (2) What the correct determination should
+be.
+
+  Failure to file such a written statement within
+the time permitted will be deemed a waiver of any
+objections, and the appeal will be dismissed.
+
+ (E) Within 150 days after the Administrator
+mails or delivers the final determination to the appel-
+lant, the Administrator will file with the appeals
+board a written response to the appellant’s statement.
+A copy of the Admi nistrator’s response must be
+mailed to the address provided by the appellant
+within 10 days.
+
+ (F) The appeals board must provide the appel-
+lant written notice of the hearing date and location at
+least 14 days prior to the hearing. The appellant and
+the Adm inistrator may present relevant testimony
+and oral argument at the hearing. The appeals board
+may request such additional written comment and
+documents as it deems appropriate.
+
+ (G) Decisions of the appeals board must be in
+writing, state the basis for the decision and be signed
+by the appeals board chair.
+
+ (H) The decision of the appeals board is final as
+of the issue date and no further administrative appeal
+will be provided.
+    Chapter 12:  Business Income Tax                                                                          9
+ (I) The filing of an appeal with the appeals
+board temporarily suspends the obligation to pay any
+tax that is the subject of the appeal pending a final
+decision by the appeals board.
+
+ (J) Penalty waiver and/or reduction requests are
+not subject to the protest/appeal process or timeline
+outlined in §§ 12.290(A) through 12.290(I ). The
+taxfiler must file a written request with the Adminis-
+trator detailing why a penalty should be waived
+within 30 days of receipt of a billing notice that as-
+sesses a penalty. The Administrator must respond to
+requests to reduce and/or waive penalties within 180
+days from the date the written request is received. As
+provided in § 12.700(G), the Administrator m ay
+waive or reduce penalties in certain situations. If the
+taxfiler has requested that penalties be waived and the
+Administrator denies the taxfiler ’s request for this
+discretionary waiver of penalties, the taxfiler may re-
+quest a conference with the Admini strator (or Ad-
+ministrator’s designee) within 30 days of the date of
+the Administrator ’s notice of denial. If the confer-
+ence with the Administrator results in a denial of the
+penalty waiver request, that decision is final and may
+not be appealed to the Appeals Board.
+(Ord. 1327, Amended, 10/17/24; Ord. 1310, Amended
+10/13/22; Ord. 1226, Amended, 11/12/15; Ord. 1142,
+Amended, 07/16/2009; Ord. 1104, Amended, 12/20/2007; Ord.
+1046, Renum. 11.516 & Amd., 08/19/2004; ‘ 90 Code, §
+5.60.290, 07/01/1998; Ord. 768, passed, 06/24/1993)
+
+§ 12.400 EXEMPTIONS.
+
+ The Administrator may require the filings of tax
+returns or other documentary verification of any ex-
+emption claimed under this section. To the extent set
+forth below, the following persons or incomes are ex-
+empt from payment of the business income tax:
+
+ (A) Persons whom the county is prohibited from
+taxing under the Constitution or laws of the United
+States or the Constitution or laws of the state of Ore-
+gon or County Charter.
+
+ (B) Income arising from transactions which the
+county is prohibited from taxing under the Constitu-
+tion or the laws of the United States or the Constitu-
+tion or laws of the state of Oregon or County Charter.
+
+ (C) Persons whose gross receipts from all b usi-
+ness, both within and without the county, amount to
+less than $100,000 ($50,000 for tax years that begin
+prior to January  1, 2020, $25,000 for tax years that
+begin prior to January 1, 2008).
+
+ (D) Corporations exempt from the State of Ore-
+gon Corporatio n Excise Tax under ORS  317.080,
+provided that any such corporation subject to the tax
+on unrelated business income under ORS 317.920 to
+317.930 must pay a tax based solely on such income.
+
+ (E) Trusts exempt from federal income tax under
+Internal Revenue Code Section 501, provided that
+any exempt trust subject to tax on unrelated business
+income and certain other activities under Internal
+Revenue Code Section 501(b) are subject to the tax
+under this chapter based solely on that income.
+
+ (F) Any individual whose only business transac-
+tions are exclusively limited to the renting or leasing
+of residential real property dwelling units provided
+that the beneficial owner rents or leases less than ten
+total units, regardless of whether the units are located
+inside or outside of the County. For purposes of this
+subsection, payments to foster care and other service
+providers are considered payments for “services” and
+not for “rent”. If a building contains m ore than one
+residential living quarter, the term “dwelling unit” re-
+fers to each separate living quarter. This exemption
+does not apply if any income is recognized from the
+sale of residential property.
+
+ (G) The following incomes of an individual and
+any individual whose only business income is from
+the following:
+
+  (1) Sales, exchanges or involuntary conver-
+sions of a primary residence;
+
+  (2) Sale of personal property acquired for
+household or other personal use by the seller;
+
+  (3) Interest and dividend income earned
+from investments, if the income is not created in  the
+course of or related to the taxfiler ’s business activi-
+ties; and
+
+  (4) Gains and losses incurred from the sale
+of investments (other than real property) that are not
+a part of a business.
+10    Chapter 12:  Business Income Tax
+ (H) Any person whose only business transactions
+are exclusively limited to the following activities:
+
+  (1) Raising, harvesting and selling of the
+person’s own crops, or the feeding, breeding, man-
+agement and sale of the person’s own livestock, poul-
+try, furbearing animals or h oneybees, or sale of the
+produce thereof, or any other agricultural, horticul-
+tural or animal husbandry activity carried on by any
+person on the person’s own behalf and not for others,
+or dairying and the sale of dairy products to proces-
+sors. This exemption does not apply if, in addition to
+the farm activities described in this subsection, the
+person does any processing of the person’s own farm
+products which changes their character or form, or
+the person’s business includes the handling, prepara-
+tion, storage, processing or marketing of farm prod-
+ucts raised or produced by others; or the processing
+of milk or milk products whether produced by said
+person or by others for retail or wholesale distribu-
+tion.
+
+  (2) Operating within a permanent structure a
+display space, booth or table for selling or displaying
+merchandise by an affiliated participant at any trade
+show, convention, festival, fair, circus, market, flea
+market, swap meet or similar event for less than 14
+days in any tax year.
+(Ord. 1283, Amended, 03/19/2020; Ord. 1226, Amended,
+11/12/15; Ord. 1142, Amended, 07/16/2009; Ord. 1104,
+Amended, 12/20/2007; Ord. 1046, Renum. 11.517 & Amd.,
+08/19/2004; ‘ 90 Code, § 5.60.400, 07/01/1998; Ord. 901,
+passed, 02/19/1998; Ord. 897, passed, 01/08/1998; Ord. 779,
+passed, 12/09/1993; Ord. 768, passed, 06/24/1993)
+
+§ 12.500 IMPOSITION AND RATE OF
+TAX.
+
+ (A) Except as otherwise provided in this chapter,
+a tax is imposed upon each person doing business
+within the county equal to 2.00% of the net income
+from the business within the county effective with tax
+years beginning on or after January  1, 2020 (for tax
+years that begin prior to January 1, 2020, the tax im-
+posed will be equal to 1.45%) . For tax years begin-
+ning on or after January 1, 2008 each taxfiler not oth-
+erwise exempt must determine their tax at the rate es-
+tablished in this section, provided that each must pay
+at least a minimum tax of $100.00.
+
+ (B) The payment of a tax required hereunder and
+the acceptance of such tax does not entitle a taxfiler
+to carry on any business not in compliance with all
+the requirements of this code and all other applicable
+laws.
+(Ord. 1283, Amended, 03/19/2020; Ord. 1142, Amended,
+07/16/2009; Ord. 1104, Amended, 12/20/2007; Ord. 1046, Re-
+num. 11.518 & Amd., 08/19/2004; ‘ 90 Code, § 5.60.500,
+07/01/1998; Ord. 779, passed, 12/09/1993; Ord. 768, passed,
+06/24/1993)
+
+§ 12.510 RETURN DUE DATE.
+
+ (A) Tax returns must be on forms provided or ap-
+proved by the Administrator. All tax returns must be
+filed, together with the specified tax by the fifteenth
+day of the fourth month following the end of the tax
+year. For cooperatives and non -profit corporations
+that have later due dates under Oregon tax law, the
+due date for filing tax returns with the Administrator
+must conform to the due date under Oregon tax law.
+
+ (B) The Administrator may, for good cause,
+grant extensions for filing returns, except that no ex-
+tension may be granted for more than six months be-
+yond the initial due date. This extension does not ex-
+tend the time to pay the tax.
+
+ (C) The tax return must contain a written decla-
+ration, verified by the taxfiler, to the effect that the
+statements made therein are true.
+
+ (D) The Administrator will prepare blank tax re-
+turns and make them available upon request. Failure
+to receive or secure a form does not relieve any per-
+son from the obligation to pay a tax under the Busi-
+ness Income Tax Law.
+
+ (E) Authority to require filing of returns by Elec-
+tronic Means.
+
+  (1) As used in this section:
+
+   (a) ELECTRONIC MEANS  includes
+computer-generated electronic or magnetic media,
+internet-based applications or similar computer -
+based methods or applications.
+
+   (b) PAID TAX PREPARER  means a
+person who prepares a Tax Return for another or ad-
+vises or assists in the preparation of a Tax Return for
+another, or who employs or authorizes another to do
+the same, for valuable consideration.
+
+   (c) TAX RETURN means a return filed
+under the Business Income Tax Law.
+    Chapter 12:  Business Income Tax                                               11
+  (2) The Administrator may by rule require a
+Paid Tax Preparer to file tax returns by Electronic
+Means if the Paid Tax Preparer is required to file fed-
+eral tax returns by Electronic Means.
+
+  (3) The Administrator may require by rule
+that a business subject to the Business Income Tax
+Law file tax re turns by Electronic Means if it is re-
+quired to file, or voluntarily files, federal tax returns
+by Electronic Means.
+
+  (4) The Administrator may by rule establish
+exceptions to the electronic filing requirements of
+this section.
+(Ord. 1322, Amended, 1/18/24; Ord. 1226, Amended, 11/12/15;
+Ord. 1142, Amended, 07/16/2009; Ord. 1046, Renum. 11.519 &
+Amd., 08/19/2004; ‘ 90 Code, § 5.60.510, 07/01/1998; Ord.
+779, passed, 12/09/1993; Ord. 768, passed, 06/24/1993)
+
+§ 12.520 QUARTERLY ESTIMATES.
+
+ For tax years beginning on or after January 1,
+1993, every taxfiler who incurred a tax liability, un-
+der § 12.500(A) of $1,000 or greater must estimate
+the taxfiler’s tax liability for the current tax year un-
+der this chapter and pay the amount of tax determined
+as provided in § 12.530.
+(Ord. 1226, Amended, 11/12/15; Ord. 1142, Amended,
+07/16/2009; Ord. 1046, Renum. 11.520 & Amd., 08/19/2004;
+‘ 90 Code, § 5.60.520, 07/01/1998; Ord. 768, passed,
+06/24/1993)
+
+§ 12.530 SCHEDULE FOR PAYMENT OF
+ESTIMATED TAX.
+
+ A taxfiler required under § 12.520 of this chapter
+to make payments of estimated tax must make the
+payments in installments as follows:
+
+ (A) One quarter or more of the estimated tax on
+or before the fifteenth day of the fourth month of the
+tax year;
+
+ (B) One quarter or more of the estimated tax on
+or before the fifteenth day of the sixth month of the
+tax year;
+
+ (C) One quarter or more of th e estimated tax on
+or before the fifteenth day of the ninth month of the
+tax year; and
+
+ (D) The balance of the estimated tax must be paid
+on or before the fifteenth day of the twelfth month of
+the tax year.
+ (E) Any payment of the estimated tax received
+by the Administrator for which the taxfiler has made
+no designation of the quarterly installment to which
+the payment is to be applied, will first be applied to
+underpayments of estimated tax due for any prior
+quarter of the tax year. Any excess amount will  be
+applied to the installment that next becomes due after
+the payment was received.
+(Ord. 1142, Amended, 07/16/2009; Ord. 1046, Renum. 11.521
+& Amd., 08/19/2004; ‘ 90 Code, § 5.60.530, 07/01/1998; Ord.
+768, passed, 06/24/1993)
+
+§ 12.545 TAX RETURN.
+
+Each tax return must be accompanied by a tax pay-
+ment at the rate established in § 12.500, provided that
+each such tax return must be accompanied by a min-
+imum tax of $100. The minimum payment may have
+previously been paid by quarterly payments, an ex-
+tension payment, or credit available from a prior tax
+year.
+(Ord. 1142, passed, 07/16/2009)
+
+§ 12.550 PRESUMPTIVE TAX.
+
+ (A) If a person fails to file a return, a rebuttable
+presumption exists that the tax payable amounts to
+$500 for every tax year for which a return  has not
+been filed.
+
+ (B) Nothing in this section prevents the Admin-
+istrator from assessing a tax due which is less than or
+greater than $500 per tax year.
+
+ (C) Taxes determined under this section are sub-
+ject to penalties and interest from the date the t axes
+should have been paid as provided in § 12.510 in ac-
+cordance with §§ 12.700 and 12.710. The Adminis-
+trator will send notice of the determination and as-
+sessment to the taxfiler.
+(Ord. 1310, Amended, 10/13/2022; Ord. 1226, Amended,
+11/12/15; Ord. 1142, Amended, 07/16/2009; Ord. 1104,
+Amended, 12/20/2007; Ord. 1046, Renum. 11.522 & Amd.,
+08/19/2004; ‘ 90 Code, § 5.60.550, 07/01/1998; Ord. 897,
+passed, 01/08/1998; Ord. 779, passed, 12/09/1993; Ord. 768,
+passed, 06/24/1993)
+12    Chapter 12:  Business Income Tax
+§ 12.560 PAYMENT PLAN FEE.
+
+ If a person fails to pay the Mu ltnomah County
+Business Income T ax when due, the Administrator
+may establish a payment plan pursuant to written pol-
+icy. The Administrator may charge a setup fee for
+each payment plan established.
+(Ord. 1226, Amended, 11/12/15; Ord. 1046, Add, 08/19/2004)
+
+§ 12.600 INCOME DETERMINATIONS
+FOR TAX YEARS BEFORE
+JANUARY 2023.
+
+This section applies to tax years beginning prior to
+January 1, 2023. For Tax years beginning on or after
+January 1, 2023, see § 12.601.
+
+ (A) Owners compensation deduction. OWNERS
+COMPENSATION DEDUCTION is defined as the
+additional deduction allowed in subsections (B), (C)
+and (D) below.
+
+  (1) For tax years beginning on or after Janu-
+ary 1, 1999, the owners compensat ion deduction is
+indexed by the Consumer Price Index - All Urban
+Consumers (CPI-U) U.S. City Average as published
+by the U.S. Department of Labor, Bureau of Labor
+Statistics, using the September to September index,
+not seasonally adjusted (unadjusted index). The Ad-
+ministrator determines the exact deduction amount
+and publishes the amount on forms. Any increase or
+decrease under this subsection which is not a multiple
+of $500 will be rounded up or down to the next mul-
+tiple of $500 at the Administrator’s discretion.
+
+  (2) For tax years beginning on or after Janu-
+ary 1, 2008, the owners compensation deduction can-
+not exceed $80,000 plus CPI -U for September 2007
+to September 2008 per owner as defined in subs ec-
+tions (B), (C) and (D) below.
+
+  (3) For tax years beginning on or after Janu-
+ary 1, 2009, the owners compensation deduction will
+be indexed as described in (1) above.
+
+  (4) For tax years beginning on or after Janu-
+ary 1, 2013, the owners compensation deduction can-
+not exceed $90,500 per owner as defined in s ubsec-
+tions (B), (C), and (D) below.
+
+  (5) For tax years beginning on or after Janu-
+ary 1, 2015, the owners compensation deduction can-
+not exceed $100,000 increased or decreased, as ap-
+plicable, by the change in CPI-U for September 2014
+to September 2015 pe r owner as defined in subsec-
+tions (B), (C) and (D) below.  For tax years beginning
+on or after January 1, 2016, the owners compensation
+deduction will be indexed as described in subsection
+(A)(1) above.
+
+  (6) For tax years beginning on or after Janu-
+ary 1, 2020, the owner compensation deduction can-
+not exceed $127,000 per owner as defined in subsec-
+tions (B), (C), and (D) below. For tax years beginning
+on or after January 1, 2021, the owners compensation
+deduction will be indexed as described in subsection
+(A)(1) above.
+
+ (B) Sole proprietorship. In determining income,
+no deductions is allowed for any compensation for
+services rendered by, or interest paid to, owners.
+However, 75% of income determined without such
+deductions is allowed as an additional deduction, not
+to exceed the amount per owner as determined in sub-
+section (A) above.
+
+ (C) Partnerships. In determining income, no de-
+duction is allowed for any compensation for services
+rendered by, or interest paid to, owners of partner-
+ships, limited partnerships, limited liability compa-
+nies, limited liability partnerships or family limited
+partnerships. Guaranteed payments to partners or
+members are deemed compensation paid to owners
+for services rendered. However:
+
+  (1) For general partners or members, 75% of
+income determined without such deductions is al-
+lowed as an additional deduction, not to exceed the
+amount as determined in subsection (A) above per
+general partner or member.
+
+  (2) For limited partners or members of lim-
+ited liability corporations who are deemed partners
+by administrative rule or policy, 75% of income de-
+termined without such deductions is allowed as an
+additional deduction, not to exceed the lesser of ac-
+tual compensation and interest paid or the amount de-
+termined in sub section (A) above per compensated
+limited partner.
+    Chapter 12:  Business Income Tax                                                                         13
+ (D) Corporations. In determining income, no de-
+duction is allowed for any compensation for services
+rendered by, or interest paid to, controlling share-
+holders of any corporation, including, but not limited
+to C and S corporations and any other entity electing
+treatment as a corporation, either C or S. However,
+75% of the corporation’s income, determined without
+deduction of compensation or interest, is allowed as
+a deduction in addition to any other allowable deduc-
+tions, not to exceed the lesser of the actual compen-
+sation and interest paid or the amount for each con-
+trolling shareholder as determined in subsection (A)
+above.
+
+  (1) For purposes of this subsection, to calcu-
+late the compensation for services rendered by or in-
+terest paid to controlling shareholders that must be
+added back to income, wages, salaries, fees, or inter-
+est paid to all persons meeting the definition of a con-
+trolling shareholder, must be included.
+
+  (2) For purposes of this subsection, in deter-
+mining the number of controlling shareholders, a
+controlling shareholder and that person’s spouse, par-
+ents and children count as one owner, unless such
+spouse, parent or child individually own more than
+5% ownership of outstanding stock or securities in
+their own name. In that case, each spouse, parent or
+child who owns more than 5% of stock is deemed to
+be an additional controlling shareholder.
+
+  (3) For purposes of this subsection , joint
+ownership of outstanding stock or securities is not to
+be considered separate ownership.
+
+ (E) Estates and trusts. In determining income for
+estates and trusts, i ncome is measured before distri-
+bution of profits to beneficiaries. No additional de-
+duction is allowed.
+
+ (F) Nonbusiness income. In determining income
+under this section, an allocation is allowed for non-
+business income as reported to the State of Oregon.
+However, income treated as nonbusiness income for
+State of Oregon tax purposes may not necessarily be
+defined as nonbusiness income under the Business
+Income Tax Law. Interest and dividend income,
+rental income or losses from real and personal busi-
+ness property, and gains or losses on sales of property
+or investments owned by a trade or business are
+treated as business income for purposes of the Busi-
+ness Income Tax Law. Income derived from non-uni-
+tary business functions reported at the state level may
+be considered nonbusiness income. Non -unitary in-
+come will not be recognized at an intrastate level. The
+taxfiler has the burden of showing that income is non-
+business income.
+
+ (G) Tax based on or measured by net income. In
+determining income, no deduction is all owed for
+taxes based on or measured by net income. No de-
+duction is allowed for the federal built -in gains tax.
+No deduction is allowed for the Clean Energy Sur-
+charge.
+
+ (H) Ordinary gain or loss.  In determining in-
+come, gain or loss from the sale, exchange  or invol-
+untary conversion of real property or tangible and in-
+tangible personal property not exempt under
+§§ 12.400(G) and 12.400(H) must be included as or-
+dinary gain or loss.
+
+ (I) Net operating loss. In determining income, a
+deduction is allowed equal to the aggregate of the net
+operating losses incurred in prior years, not to exceed
+75% of the income determined for the cur rent tax
+year before this deduction but after all other deduc-
+tions from income allowed by this section and appor-
+tioned for business ac tivity both within and without
+the county.
+
+  (1) When the operations of the taxfiler from
+doing business both within and without the county
+result in a net operating loss, such loss will be appor-
+tioned in the same manner as the net income under
+§ 12.600. A net operating loss be carried forward
+from any tax year during which the taxfiler conducted
+no business within the county or the taxfiler was oth-
+erwise exempt from payment of the Business Income
+Tax unless specifically provided for by administra-
+tive rule or written policy.
+
+  (2) In computing the net operating loss for
+any tax year, the net operating loss of a prior tax year
+is not allowed as a deduction.
+
+  (3) In computing the net operating loss for
+any tax year, no owners compensation deduction is
+allowed to increase the net operating loss. OWNERS
+COMPENSATION DEDUCTION is defined as the
+deduction allowed by subsection (A).
+14    Chapter 12:  Business Income Tax
+  (4) The net operating loss of the earliest tax
+year available must be exhausted before a net operat-
+ing loss from a later tax year may be deducted.
+
+  (5) The net operating loss in any tax year is
+allowed as a deduction in any of the five succeeding
+tax years until used or expired. Any partial tax year
+will be treated the same as a full tax year in determin-
+ing the appropriate carry-forward period.
+(Ord. 1299, Amended, 08/26/2021; Ord. 1283, Amended,
+03/19/2020; Ord. 1279, Amended, 02/06/2020; Ord. 1226,
+Amended, 11/12/15; Ord. 1142, Amended, 07/16/2009; Ord.
+1104, Amended, 12/20/2007; Ord. 1046, Renum. 11.523 &
+Amd., 08/19/2004; ‘ 90 Code, § 5.60.600, 07/01/1998; Ord.
+901, passed, 02/19/1998; Ord. 897, passed, 01/08/1998; Ord.
+779, passed, 12/09/1993; Ord. 768, passed, 06/24/1993)
+
+§ 12.601 INCOME DETERMINATIONS
+FOR TAX YEARS AFTER
+JANUARY 2023.
+
+This section applies to tax years beginning on or after
+January 1, 2023.
+
+ (A) Owners Compensation Deduction . Owners
+Compensation Deduction is defined as the additional
+deduction allowed in subsections (B), (C) and (D) be-
+low.
+
+  (1) For tax years beginning on or after Janu-
+ary 1, 1999, the owners compensation deduction is
+indexed by the Consumers Price Index - All Urban
+Consumers (CPI-U) U.S. City Average as published
+by the U.S. Department of Labor, Bureau of Labor
+Statistics, using the September t o September index,
+not seasonally adjusted (unadjusted index). The Ad-
+ministrator determines the exact deduction amount
+and publishes the amount on forms. Any increase or
+decrease under this paragraph that is not a multiple of
+$500 will be rounded up or down to the next multiple
+of $500 at the Administrator’s discretion.
+
+  (2) For tax years beginning on or after Janu-
+ary 1, 2008, the owners compensation deduction can-
+not exceed $80,000 plus CPI -U for September 2007
+to September 2008 per owner as defined in subsec-
+tions (B), (C) and (D) below.
+
+  (3) For tax years beginning on or after Janu-
+ary 1, 2009, the owners compensation deduction will
+be indexed as described in (1) above.
+
+  (4) For tax years beginning on or after Janu-
+ary 1, 2013, the owners compensation deduction can-
+not exceed $90,500 per owner as defined in subsec-
+tions (B), (C) and (D) below.
+
+  (5) For tax years beginning on or after Janu-
+ary 1, 2015, the owners compensation deduction can-
+not exceed $100,000 increased or decreased, as ap-
+plicable, by the change in CPI-U for September 2014
+to September 2015 per owner as defined  in subsec-
+tions (B), (C) and (D) below. For tax years beginning
+on or after January 1, 2016, the owners compensation
+deduction will be indexed as described in (1) above.
+
+  (6) For tax years beginning on or after Janu-
+ary 1, 2020, the owners compensation deduction can-
+not exceed $127,000 per owner as defined in subsec-
+tions (B), (C) and (D) below. For tax years beginning
+on or after January 1, 2021, the owner ’s compensa-
+tion deduction will be indexed as described in (A)(1)
+above.
+
+ (B) Sole Proprietorship. In determining income,
+no deduction is allowed for any compensation for ser-
+vices rendered by, or interest paid to, owner s. How-
+ever, 75% of income determined without such deduc-
+tions is allowed as an additional deduction, not to ex-
+ceed the amount per owner as determined in subsec-
+tion (A) above.
+
+ (C) Partnerships. In determining income, no de-
+ductions are allowed for any compensation for ser-
+vices rendered by, or interest paid to, owners of part-
+nerships, limited partnerships, limited liabi lity com-
+panies, limited liability partnerships, or family lim-
+ited partnerships. Guaranteed payments to partners or
+members are deemed compensation paid to owners
+for services rendered. However:
+
+  (1) For general partners or members, 75% of
+income determi ned without such deductions is al-
+lowed as an additional deduction, not to exceed the
+amount as determined in subsection (A) above per
+general partner or member.
+
+  (2) For limited partners or members of lim-
+ited liability corporations who are deemed partne rs
+by administrative rule or policy, 75% of income de-
+termined without such deductions is allowed as an
+    Chapter 12:  Business Income Tax                                                                         15
+additional deduction, not to exceed the lesser of ac-
+tual compensation and interest paid or the amount de-
+termined in subsection (A) above per compensated
+limited partner.
+
+ (D) Corporations. In determining income, no de-
+duction is allowed for any compensation for services
+rendered by, or interest paid to, controlling share-
+holders of any corporation, including but not limited
+to C and S corporations and any other entity electing
+treatment as a corporation, either C or S. However,
+75% of the corporation’s income, determined without
+deduction of compensation or interest, is allowed as
+a deduction in addition to any other allowable deduc-
+tions, not to exceed the l esser of the actual compen-
+sation and interest paid or the amount determined in
+subsection (A)(1) above.
+
+  (1) For purposes of this subsection, to calcu-
+late the compensation for services rendered by or in-
+terest paid to controlling shareholders that must b e
+added back to income, wages, salaries, fees or inter-
+est paid to all persons meeting the definition of a con-
+trolling shareholder must be included.
+
+  (2) For purposes of this subsection, in deter-
+mining the number of controlling shareholders, a
+controlling shareholder and that person’s spouse, par-
+ents and children count as one owner, unless such
+spouse, parent or child individually control more than
+5% ownership of outstanding stock or securities in
+their own name. In that case, each spouse, parent or
+child who owns more than 5% of stock is deemed to
+be an additional controlling shareholder.
+
+  (3) For purposes of this subsection, joint
+ownership of outstandi ng stock or securities is not
+considered separate ownership.
+
+ (E) Estates and Trusts . In determining income
+for estates and trusts, income is measured before dis-
+tribution of profits to beneficiaries. No additional de-
+duction is allowed.
+
+ (F) Tax based on or measured by net income. In
+determining income, no deduction is allowed for
+taxes based on or measured by net income. No de-
+duction is allowed for the federal built -in gains tax.
+No deduction is allowed for the Clean Energy Sur-
+charge.
+
+ (G) Ordinary gain or loss . In determining in-
+come, gain or loss from the sale, exchange or invol-
+untary conversion of real property or tangible and in-
+tangible personal property not exempt under
+§ 12.400(G) and § 12.400(H) must be included as or-
+dinary gain or loss.
+
+ (H) Net operating loss. In determining income, a
+deduction is allowed equal to the aggregate of the net
+operating losses incurred in prior years, not to exceed
+75% of the income determined for the current tax
+year before this deduction, but after all oth er deduc-
+tions from income allowed by this section and appor-
+tioned for business activity both within and without
+the county.
+
+  (1) When the operations of the taxfiler from
+doing business both within and without the county
+result in a net operating loss, such loss will be appor-
+tioned in the same manner as the net income under
+§ 12.611. A net operating loss may not be carried for-
+ward from any tax year during which the taxfiler con-
+ducted no business within the county or the taxfiler
+was otherwise exempt from payment of the Business
+Income Tax unless specifically provided for by ad-
+ministrative rule or written policy.
+
+  (2) In computing the net operating loss for
+any tax year, the net operating loss of a prior tax year
+is not allowed as a deduction.
+
+  (3) In computing the net operating loss for
+any tax year, no compensation allowance deduction
+is allowed to increase the net operating loss. Owners
+Compensation Deduction is defined as the deduction
+allowed by subsection (A).
+
+  (4) The net operating loss of the earliest tax
+year available must be exhausted before a net operat-
+ing loss from a later tax year may be deducted.
+
+  (5) The net operating loss in any tax year is
+allowed as a deduction in the five succeeding tax
+years until used or expired. Any partial tax year will
+be treated the same as a full tax year in determining
+the appropriate carry-forward period.
+(Ord. 1310, Amended, 10/13/2022)
+16    Chapter 12:  Business Income Tax
+§ 12.610 APPORTIONMENT OF INCOME
+FOR TAX YEARS BEFORE
+JANUARY 2023.
+
+This section applies to tax years beginning prior to
+January 1, 2023. For Tax years beginning on or after
+January 1, 2023, see § 12.611.
+
+ (A) “Jurisdiction to tax ” occurs when a person
+engages in business activities in a jurisdiction that are
+not protect ed from taxation by Public Law 86-272
+(15 U.S.C. §§ 381 -384). Public Law 86-272 applies
+to interstate sales of tangible personal property.  For
+purposes of the Business Income Tax Law, the limits
+imposed by Public Law 86-272 for interstate jurisdic-
+tion to tax shall also be presumed to apply on an in-
+trastate basis. If a taxpayer ’s business is based in
+Multnomah County, a taxpayer must have business
+activity outside the county that results in a jurisdic-
+tion to tax outside Multnomah County to apportion
+the income of the business. Without jurisdiction to
+tax outside the county, all income of a business is tax-
+able by Multnomah County.
+
+(B) Business activity means any of the elements
+of doing business. The income reportable as income
+earned from business activity  within Multnomah
+County will include all business income from sources
+within the county that is taxable income under Ore-
+gon tax laws and regulations unless otherwise ex-
+empted or excluded in this Chapter 12.
+
+ (C) In computing the tax, taxfilers that have in-
+come from business activity both within and without
+the county must determine the income apportioned to
+the county by multiplying the total net income from
+the taxfiler’s business by a fraction, the numerator of
+which is the total gross income of th e taxfiler from
+business activity in the county during the tax year,
+and the denominator of which is the total gross in-
+come of the taxfiler from business activity every-
+where during the tax year.
+
+ (D) In determining the apportionment of gross
+income within the county under subsection (B):
+
+  (1) Sales of tangible personal property are
+deemed to take place in the county if the property is
+delivered or shipped to a purchaser within the county
+regardless of the f.o.b. point or other conditions of
+sale. If sales of tangible personal property are shipped
+from the County to a purchaser located where the
+taxfiler is not taxable, those sales are not apportioned
+to the County.
+
+  (2) Sales other than sales of tangible per-
+sonal property are deemed to take place in the county,
+if the income producing activity is performed in the
+county.
+
+ (E) Certain industries or incomes are subject to
+specific apportionment methodologies. Such meth-
+odologies are described in administrative rules
+adopted in accordance with §  12.210. Industry spe-
+cific or income specific apportionment methodolo-
+gies required by Oregon Revised Statutes for appor-
+tionment of gross sales will be used in cases where
+no rule has been adopted by the Administrator re-
+garding the apportionment of such industry or i n-
+come. When gross sales as reported to Oregon are
+used for apportionment purposes, such gross sales
+will be defined as gross income for apportionment
+purposes herein. All apportionment methodologies
+directed under this subsection will be a single factor
+gross income apportionme nt as directed under
+§§ 12.210(C) and 12.210(D). In those specific cases
+where the state has directed allocation of income,
+such income will be apportioned for purposes of this
+chapter, unless allocation is otherwise allowed in this
+chapter.
+
+ (F) If the apportionment provisions of subsec-
+tion (C ) do not fairly represent the extent of the
+taxfiler’s business activity in the county and result in
+the violation of the taxfiler’s rights under the Consti-
+tution of this state or the United States, the taxfiler
+may petition the Administrator to permit the taxfiler
+to:
+
+  (1) Utilize the method of apportionment
+used by the taxfiler under the applicable laws of the
+state imposing taxes upon or measured by net in-
+come; or
+
+  (2) Utilize any other method to effectuate an
+equitable apportionment of the taxfiler’s income.
+(Ord. 1310, Amended, 10/13/2022; Ord. 1226, Amended,
+11/12/15; Ord. 1142, Amended, 07/16/2009; Ord. 1046, Re-
+num. 11.524 & Amd., 08/19/2004; ‘ 90 Code, § 5.60.610,
+07/01/1998; Ord. 897, passed, 01/08/1998; Ord. 779, passed,
+12/09/1993; Ord. 768, passed, 06/24/1993)
+    Chapter 12:  Business Income Tax                                                                         17
+§ 12.611 APPORTIONMENT OF INCOME
+FOR TAX YEARS AFTER
+JANUARY 2023.
+
+This section applies to tax years beginning on or after
+January 1, 2023.
+
+ (A) “Jurisdiction to tax” occurs when a person
+engages in business activities in a jurisdiction that are
+not protected from taxation by Public Law 86 -272
+(15 U.S.C. §§ 381 -384). The County’s standard for
+jurisdiction to tax, or nexus, is the same as the state
+of Oregon’s found in the Oregon Revised Statutes
+and Oregon Administrative Rules related to taxation.
+If a taxpayer’s business is based in Multnomah
+County, a taxpayer must have business activity out-
+side the county that results in a jurisdiction to tax out-
+side Multnomah County to apportion the income of
+the business. Without jurisdiction to tax out side the
+county, all income of a business is taxable by
+Multnomah County.
+
+ (B) Business activity means any of the elements
+of doing business. The income reportable as income
+earned from business activity within Multnomah
+County will include all business incomes from
+sources within the county that is taxable income un-
+der Oregon tax laws and regulations unless otherwise
+exempted or excluded in this Chapter 12.
+
+ (C) The County adopts the apportionment and al-
+location provisions found in the Oregon Revised
+Statutes, Chapters 314, 317, and 318 and related Or-
+egon Administrative Rules unless otherwise provided
+in this chapter or by administrative rule. All refer-
+ences to Oregon or the state should be read as refer-
+ring to the county. All business income must be ap-
+portioned to the county by multiplying business in-
+come by the sales factor only.
+
+ (D) In determining the sales factor numerator un-
+der subsection 12.611(C): sales of tangible personal
+property are deemed to take place in the county if the
+property is delivered or shipped to a purchaser within
+the county regardless of the f.o.b. point or other con-
+ditions of sale. If sales of tangible personal property
+are shipped from the county to a purchaser located
+where the taxfiler is not taxable, those sales are not
+apportioned to the county.
+
+ (E) Certain industries or incomes are subject to
+specific apportionment methodologies. Such meth-
+odologies are described in administrative rules
+adopted in accordance with §  12.210. Industry spe-
+cific or income specific apportionment methodolo-
+gies required by Oregon Revised Statutes and Oregon
+Administrative Rules for the sales factor, will be used
+in cases where no rule has been adopted by the Ad-
+ministrator regarding the apportionment of such in-
+dustry or income. All apportionment methodologies
+directed under this subchapter will be a single factor
+sales apportionment as directed under §§  12.611(C)
+and 12.611(D).
+(Ord. 1310, Amended, 10/13/2022)
+
+§ 12.615 BUSINESS RETENTION CREDIT
+FOR INVESTMENT
+MANAGEMENT FIRMS.
+
+ (A) An Investment Management Firm is entitled
+to a credit against the total amount of its business in-
+come tax due. The business retention credit is deter-
+mined by subtracting from the business income tax
+due the greater of:
+
+  (1) $4,000 times the number of owne rs, not
+including limited partners, subject to the Owner ’s
+Compensation Deduction allowed in § 12.600 or
+
+  (2) 30% of the total business income tax oth-
+erwise due. If the resulting difference is a negative
+number, the amount of the credit will be zero. Any
+allowed credit not used in a particular year will not
+be refunded and will not be carried forward to a suc-
+ceeding tax year, except as provided in subsection
+(B).
+
+ (B) For purposes of this credit, the “first tax
+year” would be a tax year in which the Investment
+Management Firm is doing business in Multnomah
+County and either;
+
+  (l) The Investment Management Fi rm was
+not doing business in Multnomah County in the prior
+tax year or
+
+  (2) The prior tax year began prior to Janu-
+ary 1, 2009.
+18    Chapter 12:  Business Income Tax
+ (C) This credit may be claimed as follows:
+
+  (1) In the first tax year, the credit is limited
+to 50% of the amount calculated in subsection (A).
+The remaining 50% shall be deferred and can only be
+claimed in the third of three consecutive tax years (in
+which the Investment Management Firm is doing
+business in Multnomah County) starting with the first
+tax year as defined above.
+
+  (2) In the second consecutive tax year that
+the Investment Management Firm is doing business
+in Multnomah County, the credit is limited to 50% of
+the amount calculated in subsection (A) The remain-
+ing 50% shall be deferred and can only be claimed in
+the fourth of four consecutive tax years (in which the
+Investment Management Firm is doing business in
+Multnomah County) starting with the first tax year as
+defined above.
+
+  (3) In the third consecutive tax year that the
+Investment Management Firm is doing business in
+Multnomah County, the Investment Management
+Firm, in addition to the full credit calculated in sub-
+section (A), can claim the 50 % deferred credit that
+was calculated in subsection (1) above.
+
+  (4) In the fourth consecutive tax year that the
+Investment Management Firm is doing business in
+Multnomah County, the Investment Management
+Firm, in addition to the full credit calculated in sub-
+section (A), can claim the 50 % deferred credit that
+was calculated in subsection (2) above.
+
+ (D) This credit is available for tax years begin-
+ning on or after January 1, 2009.
+(Ord. 1226, Amended, 11/12/15; Ord. 1154, passed,
+02/11/2010)
+
+§ 12.620 CHANGES TO FEDERAL OR
+STATE TAX RETURNS.
+
+ (A) If a taxfiler’s reported net income under ap-
+plicable state laws imposing a tax on or measured by
+income is changed by the Federal Internal Revenue
+Service or the state Department of Revenue, or
+amended by the taxfiler to correct an error in the orig-
+inal federal or state return, a report of such change
+must be filed with the Administrator within 60 days
+after the date of the notice of the final determination
+of change or after an amended return is filed with the
+federal or state agencies. The report must be accom-
+panied by an amended tax return with respect to such
+income and by any additional tax, penalty, and inter-
+est due.
+
+ (B) The Administrator may assess deficiencies
+and grant funds resulting from changes to federal,
+state or business income tax retu rns within the time
+periods provided for in § 12.280 of this chapter, treat-
+ing the report of change in federal, state or business
+income tax returns as the filing of an amended tax
+return.
+
+ (C) The Administrator may assess penalties and
+interest on the ad ditional tax due as provided in
+§§ 12.700(A) and 12.710 or may refuse to grant a re-
+fund of taxes as a result of the amended return if the
+amended return is not filed with the Administrator
+within the time limits set forth in subsection (A).
+(Ord. 1142, Amended, 07/16/2009; Ord. 1046, Renum. 11.525
+& Amd., 08/19/2004; ‘ 90 Code, § 5.60.620, 07/01/1998; Ord.
+897, passed, 01/08/1998; Ord. 779, passed, 12/09/1993; Ord.
+768, passed, 06/24/1993)
+
+§ 12.700 PENALTY.
+
+ (A) (1) A penalty will be assessed if a person:
+
+   (a) Fails to file a tax return or extension
+request at the time required under §§ 12.510(A) or
+12.620(A); or
+
+   (b) Fails to pay a tax when due.
+
+  (2) The penalty under subsection (A) is:
+
+   (a) 5% of the total tax liability if the fail-
+ure is for a period less than four months;
+
+   (b) An additional penalty of 20% of the
+total tax liability if the failure is for a period of four
+months or more; and
+
+   (c) An additional penalty of 100% of the
+total tax liability of all tax years if the failure to file
+is for three or more consecutive tax years.
+
+ (B) (1) A penalty will be assessed if a person
+who has filed an extension request:
+
+   (a) Fails to file a tax return by the ex-
+tended due date; or
+
+   (b) Fails to pay the tax liability by the
+extended due date.
+    Chapter 12:  Business Income Tax                                                                         19
+  (2) The penalty under subsection (B) is:
+
+   (a) 5% of the total tax liability if the fail-
+ure is for a period of less than four months; and
+
+   (b) An additional penalty of 20% of the
+total tax liability if the failure is for a period of four
+months or more.
+
+ (C) (1) A penalty will be assessed if a person:
+
+   (a) Fails to pay at least 90% of the total
+tax liability by the original due date; or
+
+   (b) Fails to pay at least 100% of the prior
+year’s total tax liability by the original due date.
+
+  (2) The penalty under subsection (C) is 5%
+of the tax underpayment, but not less than $5.
+
+ (D) The Administrator may impose a civil pen-
+alty of up to $500 for each of the following violations
+of this chapter:
+
+  (1) Failure to file any tax return within 60
+days of the Administrator’s original written notice to
+file; or
+
+  (2) Failure to pay any tax within 60 days of
+the Administrator’s original written notice for pay-
+ment; or
+
+  (3) Failure to provide e ither documents or
+information as required by §  12.260 within 60 days
+of the Administrator’s original written notice to pro-
+vide the documents or information; or
+
+  (4) Failure to fully complete any form re-
+quired under this chapter; or
+
+  (5) Failure to fully comply with the require-
+ments of any section of this Chapter 12 unless such
+section has a separate penalty calculation.
+
+ (E) The Administrator may impose a civil pen-
+alty under subsection (D) only if the Administrator
+gave notice of the potential for a ssessment of civil
+penalties for failure to comply or respond in the orig-
+inal written notice.
+
+ (F) The Administrator may waive or reduce any
+penalty determined under subsections (A) through
+(D) for good cause, according to and consistent with
+written policies.
+(Ord. 1279, Amended, 02/06/2020; Ord. 1142, Amended,
+07/16/2009; Ord. 1104, Amended, 12/20/2007; Ord. 1046, Re-
+num. 11.599 & Amd., 08/19/2004; ‘ 90 Code, § 5.60.700,
+07/01/1998; Ord. 897, passed, 01/08/1998; Ord. 779, passed,
+12/09/1993; Ord. 768, passed, 06/24/1993)
+
+§ 12.710 INTEREST.
+
+ (A) Interest will be assessed on any unpaid tax at
+the rate of .833% simple interest per month or frac-
+tion thereof (10% per annum), computed from the
+original due date of the tax to the fifteenth day of the
+month following the date of payment.
+
+ (B) Interest will be assessed on any unpaid or un-
+derpaid quarterly estimated payment required by
+§§ 12.520 and 12.530 at the rate of .833% simple in-
+terest per month or fraction thereof (10% per annum),
+computed from the due date of each quarterly esti-
+mated payment to the original due date of the tax re-
+turn to which the estimated payments apply.
+
+ (C) Notwithstanding subsection (B), there is no
+interest on underpayment of quarterly estimated pay-
+ments if:
+
+  (1) The total tax liability of the prior tax year
+was less than $1,000;
+
+  (2) An amount equal to at least 90% of the
+total tax liability for the current tax year was paid in
+accordance with § 12.530; or
+
+  (3) An amount equal to at least 100% of the
+prior year’s total tax liability was paid in accordance
+with § 12.530.
+
+ (D) For purposes of subsection (B), the amount
+of underpayment is determined by comparing 90% of
+the current total tax liability amount to quarterly esti-
+mated payments made prior to the original due date
+of the tax return.  However, if 100% of the prior
+year’s total tax liability is paid to the Administrator
+by the due date of the fourth quarterly payment, the
+Administrator may use the prior year’s tax liability if
+doing so will reduce the amount of interest owed.
+20    Chapter 12:  Business Income Tax
+ (E) For purposes of subsection (A), the amount
+of tax due on the tax return will be reduced by t he
+amount of any tax payment made on or before the
+date for payment of the tax in accordance with
+§§ 12.510(A) or 12.530.
+
+ (F) Interest at the rate specified in subsection (A)
+accrues from the original due date without regard to
+any extension of the filing date.
+
+ (G) Any interest amounts properly assessed in
+accordance with this section may not be waived or
+reduced by the Administrator, unless specifically
+provided for by written policy.
+(Ord. 1142, Amended, 07/16/2009; Ord. 1104, Amended,
+12/20/2007; Ord. 1046, Renum. 11.526 & Amd., 08/19/2004;
+‘ 90 Code, § 5.60.710, 07/01/1998; Ord. 897, passed,
+01/08/1998; Ord. 779, passed, 12/09/1993; Ord. 768, passed,
+06/24/1993)
+
+§ 12.715 PAYMENTS APPLIED.
+
+ Taxes received will be applied first to any pen-
+alty accrued, then to interest accrued, then to taxes
+due, unless the Administrator determines in accord-
+ance with its written policies that a more equitable
+method exists for a particular taxfiler’s account.
+(Ord. 1142, Amended, 07/16/2009; Ord. 1104, Amended,
+12/20/2007; Ord. 1046, Renum. 11.527 & Amd., 08/19/2004;
+‘ 90 Code, § 5.60.715, 07/01/1998; Ord. 768, passed,
+06/24/1993)
+
+§ 12.720 INTEREST ON REFUNDS.
+
+ When, under a provision of the Business Income
+Tax Law, taxfilers are entitled to a refund of a portion
+or all of a tax paid to the Administrator, they will re-
+ceive simple interest on such amount at the rate spec-
+ified in § 12.710(A), subject to the following:
+
+ (A) Any overpayments will be refunded with in-
+terest for each month or fraction thereof for a pe riod
+beginning four months after the later of:
+
+  (1) the due date of the tax return;
+
+  (2) the date the tax return was filed or the re-
+fund was otherwise requested; or
+
+  (3) the date the tax was paid, to the date of
+the refund; and
+
+ (B) Any overpayments of taxes that are the result
+of an amended return being filed will be refunded
+with interest for each month or fraction thereof for
+the period beginning four months after the date the
+taxfiler filed the amended return. This subsection ap-
+plies to tax returns that are amended due to a change
+to the federal, state or business income tax return.
+(Ord. 1142, Amended, 07/16/2009; Ord. 1104, Amended,
+12/20/2007; Ord. 1046, Renum. 11.528 & Amd., 08/19/2004;
+‘ 90 Code, § 5.60.720, 07/01/1998; Ord. 897, passed,
+01/08/1998; Ord. 768, passed, 06/24/1993)
+
+§ 12.730 CRIMINAL PENALTIES.
+
+ Violation of §§  12.230 or 12.240 is punishable
+by a fine not exceeding $500. In addition, any county
+employee convicted for violation of §§  12.230 or
+12.240 will be dismissed from employment and will
+be barred from employment for a period of five years
+thereafter. Any agent of the county who is convicted
+is ineligible for participation in any county contract
+for a period of five years thereafter.
+(Ord. 1142, Amended, 07/16/2009; Ord. 1104, Amended,
+12/20/2007; Ord. 1046, Renum. 11.599(G), 08/19/2004)
+
+§ 12.805 SEVERABILITY.
+
+ If any section, subsection, paragraph, sentence,
+clause or phrase of this chapter is for any reason held
+to be unconstitutional or otherwise invalid, that deci-
+sion will not affect the validity of the remaining por-
+tions of this chapter. The Board of County Commis-
+sioners hereby declares that it would have passed
+each section, subsection, paragraph, sentence, clause
+or phrase regardless of the fact that any one  or more
+sections, subsections, paragraphs, sentences, clauses
+or phrases be declared unconstitutional or otherwise
+invalid.
+(Ord. 1142, Renum. 12.800 & Amd., 07/16/2009; Ord. 1046,
+Renum. 11.599(G), 08/19/2004)
+
+§ 12.815 OPERATIVE DATE.
+
+ This chapter applies to tax years beginning on or
+after January 1, 1993. For tax years ending on or be-
+fore December 31, 1992, this chapter applies to any
+administrative determination made on or after Janu-
+ary 1, 1994.
+(Ord. 1142, Renum. 12.820 & Amd., 07/16/2009; Ord. 1046,
+Renum. 11.599(G), 08/19/2004)
+    Chapter 12:  Business Income Tax                                                                         21
+§ 12.840 FRIVOLOUS FILING.
+
+ A $500.00 penalty will be assessed if a taxfiler
+takes a “frivolous position” in respect to preparing
+the taxfiler ’s tax return. A tax return is considered
+frivolous if a taxfiler does not provide information on
+which the substantial correctness of the self -assess-
+ment may be judged or if the tax return contains in-
+formation that on its face indicates that the self -as-
+sessment is substantially incorrect. Examples of
+“frivolous positions” as provided in Oregon Admin-
+istrative Rule 150-316-0652 are adopted by direct
+reference.
+(Ord. 1310, Amended, 10/13/2022; Ord. 1299, Amended,
+08/26/2021; Ord. 1142, Renum. 12.845 & Amd., 07/16/2009;
+Ord. 1104, passed, 12/20/2007)
+
+§ 12.850 HACKING.
+
+ (A) Definitions. As used in this section, the fol-
+lowing definitions apply:
+
+ COMPUTER DATABASE. Computer applica-
+tion(s) used by the Division or the Administrator to
+calculate or store business and financial data col-
+lected under the authority granted by the Business In-
+come Tax Law.
+
+ LOSS. Any reasonable cost incurred by the
+County or the Administrator , including but not lim-
+ited to the cost of responding to an offense, conduct-
+ing a damage assessment, and restoring the data, pro-
+gram, system, or information to its condition prior to
+the offense, and any revenue lost, cost incurred, or
+other consequential damages incurred because of in-
+terruption of service.
+
+ DAMAGE. Any impairment to the integrity or
+availability of data, a program, a system, or infor-
+mation.
+
+ (B) Any individual who intentionally accesses
+the Computer Database without authorization will be
+fined:
+
+  (1) $10,000 if the individual acquires any in-
+formation regarding any business account found in
+the Computer Database;
+
+  (2) $10,000 or the cost of the loss (which-
+ever is greater) if the individual uses or attempts to
+use the acquired information for financial gain of any
+kind; or
+  (3) $10,000 or the cost of the loss (which-
+ever is greater) if the individual causes the transmis-
+sion of a program, information, code, or command to
+the Computer Database, and, as a result of such con-
+duct, causes damage to the Computer Database.
+(Ord. 1279, Amended, 02/06/2020; Ord. 1226, Amended,
+11/12/15; Ord. 1142, Renum. 12.855 & Amd., 07/16/2009; Ord.
+1104, passed, 12/20/2007)
+
+§ 12.990 PARTICIPATION OF CITIES.
+
+ To facilitate a unified system of collection and
+allocation of all county and municipal taxes upon
+business net income within the county, any city the
+territory of which is i n whole or in part within the
+county may, if authorized by its governing body, par-
+ticipate under and share in the revenue derived from
+this chapter, upon such terms and conditions as the
+county and city may agree by written contract.
+(Ord. 1104, Renum. 12.840, 12/20/2007; Ord. 1046, Renum.
+11.529 & Amd., 08/19/2004; ‘ 90 Code, § 5.60.840,
+07/01/1998; Ord. 779, passed, 12/09/1993; Ord. 768, passed,
+06/24/1993)
+
+§ 12.995 FORMER REGULATIONS
+SUPERSEDED BY THIS
+SUBCHAPTER; EXCEPTIONS.
+
+ Effective for tax years beginning on or after Jan-
+uary 1, 1993, ‘90 MCC Chapter 5.70 is superseded
+and given no effect until this chapter is repealed or
+otherwise ceases to be effective. For tax years ending
+on or before December 31, 1992, all determinations
+of obligations and responsibilities required of any
+persons under ‘90 MCC Chapter 5.70, made on or be-
+fore December 31, 1993, remains binding upon those
+persons. However, on and after January 1, 1994, this
+chapter [formerly §§ 11.500 et seq.] applies to all de-
+terminations of obligations and responsibilities for
+tax ye ars ending on or before December 31, 1992 ,
+with the exceptions of:
+
+ (A) Determination of income under ‘90 MCC
+5.70.015;
+
+ (B) Treatment of payments to owners or control-
+ling shareholders under ‘90 MCC 5.70.025;
+
+ (C) Net operating loss deduction under ‘90 MCC
+5.70.030;
+
+ (D) Ordinary gain or loss under ‘90 MCC
+5.70.035;
+22    Chapter 12:  Business Income Tax
+ (E) Rate of tax under ‘ 90 MCC 5.70.045;
+
+ (F) Apportionment of income under ‘90 MCC
+5.70.050;
+
+ (G) Partnerships, S corporations, estates and
+trusts under ‘90 MCC 5.70.055;
+
+ (H) Exemptions under ‘90 MCC 5.70.060;
+
+ (I) State laws incorporated by reference under
+‘90 MCC 5.70.075 (except that the City of Portland,
+Bureau of Licenses will replace any references to the
+state Department of Revenue as the Administrator of
+the Tax.);
+
+ (J) Amendments under ‘90 MCC 5.70.110.
+(Ord. 1142, Amended, 07/16/2009; Ord. 1104, Renum. 12.850,
+12/20/2007; Ord. 1046, Renum. 11.530 & Amd., 08/19/2004;
+‘ 90 Code, § 5.60.850, 07/01/1998; Ord. 779, passed,
+12/09/1993; Ord. 768, passed, 06/24/1993)

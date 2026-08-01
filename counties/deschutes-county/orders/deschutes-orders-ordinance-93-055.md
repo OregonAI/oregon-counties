@@ -1,0 +1,131 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-93-055
+title: 'Ordinance No. 93-055'
+doc_type: ordinance
+citation: 'Ordinance No. 93-055'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616697253_1993-40252-Ordinance%20No.%2093-055%20Recorded%2011_4_1993.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 69bd2119f3ee8d739faca8d03169dae06026809451cb597e4b98ee093af82c26
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 93-055 (Ordinance No. 93-055)
+
+## At a glance
+
+Ordinance No. 93-055 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+93- 40252
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF
+An Ordinance Amending
+Deschutes County Code
+Chapter 2. 12 Defining the
+Usual Business Days and
+Hours of Operation of
+Deschutes County; Providing
+for Exceptions; Providing
+for the Posting of Signs;
+and Declaring an Emergency.
+ORDINANCE NO. 93- 055
+REVIEWED
+LE COUNSEL
+DESCHUTES COUNTY, OREGON
+0128- 0403
+WHEREAS, Deschutes County will have insufficient general fund
+revenue in the 1993- 94 fiscal year to operate general fund
+supported operations on a full- time basis; and
+WHEREAS, sufficient revenues will be available for the
+operation of general fund departments on 7. 5 hours, five - days - a -
+week basis; and
+WHEREAS, in order to balance the 1993- 94 fiscal budget, as
+adopted, hours of operation must be reduced; and
+WHEREAS, the Board of County Commissioners of Deschutes
+County, Oregon, declares a fiscal emergency for the 1993- 943 fiscal
+year; and
+WHEREAS, ORS 203. 035 allows the county to exercise authority
+within the county over matters of county concern, to the fullest
+extent allowed by constitutions and laws of the United States and
+of the State of Oregon; and
+WHEREAS, ORS 205. 242 provides that the County Clerk shall not
+be reduced to any extent greater than the reductions for other non-
+emergency county services housed within the same building; now,
+therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+ORDAINS as follows:
+Section 1. That from October 4, 1993, until June 30, 1994,
+Deschutes County Code Section 2. 12. 010 is amended to read as set
+forth in Exhibit " A," attached hereto and by this reference
+incorporated herein.
+Section 2. That Deschutes County Code Section 2. 12. 020 is
+amended to read as set forth in Exhibit " A," attached hereto and by
+this reference incorporated herein.
+1 - ORDINANCE NO. 93- 055 ( 11/ 3/ 93)
+a
+D J8' 9.?
+s
+0128- 0404
+Section 3. That Deschutes County Code Section 2. 12. 030 is
+amended to read as set forth in Exhibit " A," attached hereto and by
+this reference incorporated herein.
+Section 4. That this Ordinance being necessary for the
+immediate preservation of public peace, health and safety, an
+emergency is declared to exist, and this Ordinance takes effect on
+passage.
+DATED this 3n,,4L day of 1993.
+AT
+Recording Sec etary
+BOARD Of COUNTY COMMISSIONERS
+OF DES UTES COUNTY, OREGON
+TO THROOPI CPair
+NAN Y POPE SC G N, Commissner
+BARRY H. SLAUGHTE , Commissioner
+2 - ORDINANCE NO. 93- 055 ( 11/ 3/ 93)
+0128- 0405
+CHAPTER 2. 12
+2. 12. 010 Regular business days and hours.
+The regular business days for the county shall be Monday
+through Friday of each week from 8: 00 a. m. to 4: 30 p. m. each
+business day, except legal holidays, [ and] except as provided in
+Section 2. 12. 020 of this chapter. ( Ord. 93- 055 S 1, 1993; Ord. 92-
+073 S 1 & 2; 1993; Ord. 92- 054 § 1, 1992; Ord. 91- 040 § 1, 1991;
+Ord. 86- 029 5 1, 1985; Ord. 83- 050 S 1, 1983)
+2. 12. 020 Departments - Different days and hours authorized.
+The board of county commissioners may establish days and hours
+of operation for any county department different from the regular
+business days and hours described in Section 2. 12. 010 of this
+chapter to meet legal or operational needs of the county. The
+establishment of hours and days of operation under this section
+shall be in compliance with ORS 205. 242. ( Ord. 93- 055 9 2, 1993;
+Ord. 92- 073 § 1 & 2; 1993; Ord. 92- 054 § 2, 1992; Ord. 91- 040 § 2,
+1991; Ord. 83- 050 S 2, 1983)
+2. 12. 030 Signs required stating business days and hours.
+Signs shall be posted at or near all entryways to Deschutes
+County buildings, setting forth the regular business days and hours
+of the county. ( Ord. 93- 055 S 3, 1993; Ord. 92- 054 § 3, 1992; Ord.
+91- 040 S 3, 1991; Ord. 83- 050 S 3, 1983)
+1 - EXHIBIT " A" TO ORDINANCE 93- 055 ( 11/ 3/ 93)

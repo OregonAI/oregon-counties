@@ -1,0 +1,330 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch1432
+title: 'Ch1432'
+doc_type: ordinance
+citation: 'Ch1432'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/14%20Building/Ch1432.pdf?t=202406171542140
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a6ea9dbe238bee45155c9c10a74f424a685a5fc2231b8749519aed4b74a8b0f0
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 455.020
+    - ORS 455.070
+    - ORS 455.330
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch1432 (Ch1432)
+
+## At a glance
+
+Ch1432 — code of Jackson County. 7 pages.
+
+## Full text
+
+CHAPTER 1432
+Dangerous Buildings
+
+1432.01 Purpose
+.
+1432.02 Repealed.
+1432.03 Dangerous Building Defined.
+1432.04 Enforcement and Interpretation.
+1432.05 Dangerous Building Declared Violation and Nuisance Subject to Abatement
+1432.06 Notice, Citation, and Order to Immediately Vacate.
+1432.07 Order to Immediately Vacate Dangerous Building; Order to Demolish or
+Remove Building
+1432.08 Hearings Procedure and Penalties.
+
+CROSS REFERENCES
+
+Adoption and amendment of State Building Code - see ORS 455.020, 455.030,
+455.110, 455.675
+Building officials and inspectors - see ORS 455.020, 455.150
+Fees - see ORS 455.020, 455.210, 455.220; B. & H. Ch. 1448
+Permits - see O RS 455.050, 455.150, 455.210, 455.685, 455.700; B. & H.
+1428.03, Ch. 1448
+Complaints; suspected violations - see ORS 455.070
+Rural area owner-built dwellings; county exemptions - see ORS 455.330 et seq.
+Oregon State Structural Specialty Code, Mechanical Specialty Code,
+Electrical Specialty Code, Plumbing Specialty Code and Oregon and Residential
+Specialty Code, Oregon Energy Efficiency Specialty Code, International Code
+Council A117.1 as Amended by the Oregon State Structural Specialty Code
+
+1432.01 PURPOSE.
+
+It is the purpose of this Chapter to provide a just, equitable and practicable method, to be
+cumulative with and in addition to any other remedy provided by these Codified
+Ordinances or otherwise available by law, whereby buildings or structures which
+endanger the life, limb, health, property, safety or welfare of the general public or their
+occupants may be required to be repaired, vacated or demolished.  The purpose of this
+Chapter is not to create or otherwise establish or designate any particular class or group
+of persons who will or should be especially protected, benefited, or targeted by the terms
+of this Chapter.
+
+(E. Ord. 91-8. Passed 1-30-91; P. Ord. 91-9. Passed 2-13-91; Ord. 2003-1. Passed 1-8-03;
+Ord. 2017-23. Passed 11-08-17.)
+
+1432.02 (E. Ord. 91-8. Passed 1-30-91; P. Ord. 91-9. Passed 2-13-91; REPEALED by
+Ord. 2017-23. Passed 11-08-17.)
+1432.03 Dangerous Buildings 14
+
+1432.03 DANGEROUS BUILDING DEFINED.
+
+For the purpose of this Chapter, any building or structure which has any or all of the
+conditions or defects hereinafter described shall be deemed to be a dangerous building,
+provided that such conditions or defects endanger the life, health, property or safety of its
+occupants or the public.
+
+(a) Whenever any door, aisle, passageway, stairway or other means of exit is not of
+sufficient width or size or is not so arranged as to provide safe and adequate means of
+exit in case of fire or panic.
+
+(b) Whenever the walking surface of any aisle, stairway or other means of exit is so
+warped, worn, loose, torn or otherwise unsafe as to not provide safe and adequate means
+of exit in case of fire or panic.
+
+(c) Whenever the stress in any materials, member or portion thereof, due to all dead and
+live loads, is more than one and one half times the working stress or stresses allowed  in
+the Oregon State Structural Specialty Code (“OSSSC”) for new buildings of similar
+structure, purpose or location.
+
+(d) Whenever any portion thereof has been damaged by fire, earthquake, wind, flood, or
+by any other cause, to such an extent that the structural strength or stability thereof is
+materially less than it was before such catastrophe and is less than the minimum
+requirements of the OSSSC for new buildings of similar structure, purpose or location.
+
+(e) Whenever any portion or member or appurtenance thereof likely to fail, or to
+become detached or dislodged, or to collapse and hereby injure persons or damage
+property.
+
+(f) Whenever any portion of a building, or any member, appurtenance or ornamentation
+on the exterior thereof is not of sufficient strength or stability, or is not so anchored,
+attached or fastened in place so as to be capable of resisting a wind pressure of one half
+of that specified in the OSSSC for new buildings of similar structure, purpose or location
+without exceeding the work stresses permitted in the OSSSC for such buildings.
+
+(g) Whenever any portion thereof has wracked, warped, buckled or settled to such an
+extent that walls or other structural portions have materially less resistance to winds or
+earthquakes than is required in the case of similar new construction.
+
+(h) Whenever the building or structure, or any portion thereof, because of (i)
+dilapidation, deterioration or decay; (ii) faulty construction; (iii) the removal, movement
+or instability of any portion of the ground necessary for the purpose of supporting such
+building; (iv) the deterioration, decay or inadequacy of its foundation; or (v) any other
+cause, is likely to partially or completely collapse.
+15 Dangerous Buildings 1432.03
+
+(i) Whenever, for any reason, the building or structure, or portion thereof, is manifestly
+unsafe for the purpose for which it is being used.
+
+(j) Whenever the exterior walls or other vertical structural members list, lean or buckle
+to such an extent  that a plumb line passing through the center of gravity does not fall
+inside the middle one third of the base.
+
+(k) Whenever the building or structure, exclusive of the foundation, shows 33 percent
+or more damage or deterioration of its supporting member or members, or 50 percent
+damage or deterioration of its non-supporting members, enclosing or outside walls or
+coverings.
+
+(l) Whenever the building or structure has been so damaged, or has become so
+dilapidated or deteriorated, or has been vacated and unsecured a s to become (i) an
+attractive nuisance to children; (ii) a harbor for squatters or criminal activity; or as to (iii)
+enable persons to resort thereto for the purpose of committing unlawful acts.
+
+(m) Whenever any building or structure has been constructed, exists or is maintained in
+violation of any specific requirement or prohibition applicable to such building or
+structure provided by the building regulations of this jurisdiction, as specified in the
+OSSSC or Housing Code, or of any law or ordinance of this S tate or jurisdiction relating
+to the condition, location or structure of buildings.
+
+(n) Whenever any building or structure which, whether or not erected in accordance
+with all applicable laws and ordinances, has in any non-supporting part, member or
+portion less than 50 percent, or in any supporting part, member or portion less than 66
+percent of the (i) strength, (ii) fire-resisting qualities or characteristics, or (iii) weather-
+resisting qualities or characteristics required by law in the case of a newly constructed
+building of like area, height and occupancy in the same location.
+
+(o) Whenever a building or structure, used or intended to be used for dwelling purposes,
+because of inadequate maintenance, dilapidation, decay, damage, faulty construction or
+arrangement, inadequate light, air or sanitation facilities, or otherwise, is determined by
+the County’s Health and Human Services Department, the Oregon Department of
+Environmental Quality, or the Building Official, to be unsanitary, unfit for human
+habitation or in such a condition that is likely to cause sickness or disease.
+
+(p) Whenever any building or structure, because of obsolescence, dilapidated condition,
+deterioration, damage, inadequate exits, lack of sufficient fire resistant construction,
+faulty or inadequate electric wiring or equipment, gas connections or heating apparatus,
+chimneys or other cause, is determined by a fire marshal, fire district, or Building Official
+to be a fire hazard.
+1432.05 Dangerous Buildings 16
+
+(q) Whenever any portion of a building or structure remains on a site after the
+demolition or destruction of the building or structure or whenever any building or
+structure is abandoned and unsecured for a period in excess of six months so as to
+constitute such building or portion thereof an attractive nuisance or hazard to the public.
+
+(Ord. 2017-23. Passed 11-08-17.)
+
+1432.04 ENFORCEMENT AND INTERPRETATION.
+
+(a) The County Building Official and the Building Official’s designees are authorized
+to enforce the provisions of this Chapter.  Subject to the procedures provided in this
+Chapter for review by Hearings Officers, and on appeal by any court, the County
+Building Official shall have the power to render interpretations of this Chapter and adopt
+and enforce policies in order to carry out its provisions.
+
+(b) Right of Entry. When it is necessary to make an inspection to enforce the provisions
+of this Chapter, or when the Building Official or the Building Official's designee has
+reasonable cause to believe that a building is a dangerous building as defined in this
+Chapter, the Building Official may enter the building or premises at reasonable times to
+inspect or to perform the duties imposed by this Chapter, provided that if such building or
+premises be occupied that credentials be presented to the occupant and entry requested. If
+such building or premises be unoccupied, the Building Official shall first make a
+reasonable effort to locate the owner or other persons having charge or control of the
+building or premises by attempting to identify the owner through the County’s tax
+records and request entry. If entry is refused, the Building Official shall have recourse to
+the remedies provided by law to secure entry.
+
+(Ord. 2017-23. Passed 11-08-17.)
+
+1432.05 DANGEROUS BUILDING DECLARED VIOLATION AND NUISANCE
+SUBJECT TO ABATEMENT.
+
+(a) It shall be a violation for any person to erect, construct, enlarge, alter, repair, move,
+improve, convert, equip, use, occupy, or maintain a dangerous building or cause or permit
+the same to be done.
+
+(b) All buildings or portions thereof which are determined after inspection by the
+Building Official to be dangerous as defined in this Chapter are hereby declared to be
+public nuisances and shall be abated by repair, rehabilitation, demolition, or removal in
+accordance with the procedures specified in this Chapter.
+17 Dangerous Buildings 1432.06
+
+1432.06 NOTICE, CITATION, AND ORDER TO IMMEDIATELY VACATE.
+
+(a) Except as provided in subsection (c) of this Section, all notices for a violation of this
+Chapter shall be issued in accordance with Section 203.03 of these Codified Ordinances
+and shall be served on the owner of the building in accordance with Section 203.05 of
+these Codified Ordinances.  A copy of the notice described in subsection (b) of this
+Section shall be attached to the citation.
+
+(b) In addition to a citation served in accordance with subsections (a)  and (d) of this
+Section, the Building Official shall cause a notice to be posted in a conspicuous location
+on the building or structure that contains:
+
+(1) A statement that the Building Official has found the building to be a dangerous
+building with a brief and concise description of the conditions found to render
+the building dangerous.
+
+(2) The information required to be placed in citations by subsection 203.03(c) of
+these Codified Ordinances.
+
+(3) A statement that the b uilding or structure must be immediately vacated and
+secured against entry immediately and that it is a Class A Violation to enter or
+occupy the building if the Building Official makes such a determination in
+accordance with Section 1432.07 of this Chapter.
+
+(4) A statement that the building or structure may be demolished or removed if the
+Building Official has made such a determination in accordance with S ection
+1432.07 of this Chapter.
+
+(c) When the Building Official cannot locate the owner of a building with reasonable
+diligence by examining the County’s tax records, a Hearings Officer shall not find service
+to be deficient provided that notice has been posted in accordance with subsection (b) of
+this Section.
+
+(d) In addition to the service required in subsection (a) of this Section, a citation for a
+violation of this Chapter shall be served on all persons with a recorded interest in the real
+property, as reflected in the County’s Recording Office records, if the Building Official
+has determined that the building or structure should be demolished or removed.  Such
+service shall be provided in accordance with Section 203.05 of these Codified
+Ordinances.
+
+(Ord. 2017-23. Passed 11-08-17.)
+1432.08 Dangerous Buildings 18
+
+1432.07 ORDER TO IMMEDIATELY VACATE DANGEROUS BUILDING;
+ORDER TO DEMOLISH OR REMOVE BUILDING.
+
+(a) If, due to the condition of the building or structure, the Building Official determines
+that occupation or entry into a dangerous building constitutes an immediate threat to the
+life, limb, or safety of an individual, the Building Official may order that the building be
+immediately vacated and secured against entry.  Such an order shall remain in place until
+the building has received a certificate of occupancy or until a Hearings Officer has
+dissolved such an order.
+
+(b) If the Building Official has determined that a dangerous building should be
+immediately vacated and secured against entry and has posted notice in accordance with
+subsection 1432.06(b) (3) of this Chapter, it shall be a Class A Violation for any person
+to enter the building except for an individual licensed to engage in the work necessary to
+remediate the dangerous condition(s).  It shall be a Class A Violation f or any person to
+remove or destroy the notice posted in accordance with subsection 1432.06(b)(3) of this
+Chapter until the building has been demolished, removed, or a certificate of occupancy
+has been issued for the building.
+
+(c) If, due to the condition of the building or structure, the Building Official determines
+that the existence of the building constitutes an immediate threat to human life, limb,
+safety, or health, or if the building constitutes an immediate threat to adjacent property,
+the Building Off icial may order that the building be demolished or removed in a time
+period not longer than 60 days from the date of citation and posting of notice in
+accordance with subsection 1432.06(b) (4) of this Chapter.
+
+1432.08 HEARINGS PROCEDURE AND PENALTIES.
+
+(a) Except as provided in this Section, all hearings on citations for violations of Section
+1432.05 of this Chapter shall be conducted before a Hearings Officer in accordance with
+the procedures set forth in Chapter 294 of these Codified Ordinances.
+
+(b) If the Building Official has determined that the building should be immediately
+vacated in accordance with section 1432.07(a) of this Chapter or demolished or removed
+in accordance with subsection 1432.07(c) of this Chapter, any person provided with
+service of the citation or notice may request that a hearing take place on a date sooner
+than the time set for a hearing on the citation and notice. Upon such a request, the hearing
+shall take place as soon as practicable.
+19 Dangerous Buildings 1432.08
+
+(c) In addition to the penalties provided for in Section 202.99 of these Codified
+Ordinances, upon a finding by the Hearings Officer that the building is dangerous the
+Hearings Officer must order that the dangerous building be remediated within a
+reasonable time.  Unless the Hearings Officer orders that the dangerous building be
+demolished or removed upon a finding upholding the Building Official’s determination
+under subsection 1432.07(c) of this Chapter, a dangerous building may be remediated by
+repair, rehabilitation, demolition, removal, or by vacating and securing the building
+against entry.  If the Hearings Officer orders that the dangerous building be demolished
+or removed, the Hearings Officer must explain the basis for the determination.  If the
+Building Official has ordered that the dangerous building be immediately vacated in
+accordance with subsection 1432.07 (a) of this Chapter, the Hearings Officer must make
+written findings upholding or dissolving such an order.
+
+(d) If a dangerous building remains unremediated following the expiration of the time
+set for remediation by the Hearings Officer, the defendant may be cited for a continuing
+violation and the Building Official may remediate the building without further hearing
+and the actual costs of such remedia tion shall be charged to the building’s owner(s) and
+may become a lien against the subject property.
+
+(e) Nothing in this Chapter should be construed to eliminate the need for any permit(s)
+required to remediate a dangerous building.
+
+(Ord. 2017-23. Passed 11-08-17.)

@@ -1,0 +1,776 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lane-county
+id: lane-land-use-lc16-235-237
+title: 'LC16.235 237'
+doc_type: ordinance
+citation: 'LC16.235 237'
+authority_level: county_ordinance
+issuing_body: 'Lane County Board of Commissioners'
+source_url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.235_237.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a16fb3aae1767b9e37dc2ee826c1ef914ade7597ddb455e56093682fdb2cb107
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 390.605
+    - ORS 390.770
+    - ORS 541.605
+  related: []
+  supersedes: []
+tags: [lane-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lane County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# LC16.235 237 (LC16.235 237)
+
+## At a glance
+
+LC16.235 237 — land use of Lane County. 16 pages.
+
+## Full text
+
+Lane Code
+CHAPTER 16 CONTENTS
+
+May 2026 16-i
+CONSERVATION ESTUARY ZONE (CE-RCP) RURAL COMPREHENSIVE
+PLAN
+16.235 Conservation Estuary Zone (CE-RCP).
+16.236 Development Estuary Zone (DE-RCP).
+16.237 Significant Natural Shorelands Combining Zone (/SN-RCP).
+16.235 Lane Code 16.235
+
+May 2026 16-376 LC16.235_237
+CONSERVATION ESTUARY ZONE (CE-RCP)
+RURAL COMPREHENSIVE PLAN
+
+16.235 Conservation Estuary Zone (CE-RCP).
+ (1) Purpose.  The purpose of the Conservation Estuary Zone CE -RCP is to
+provide for the long-term use of the estuary’s renewable resources in ways which do not
+require major alteration of the estuary.  Providing for recreational and aesthetic uses of
+the estuarine resources as well as maintenance and restoration of biological productivity
+are primary objectives in this zone.
+ (2) Permitted Uses .  In the CE -RCP Zone, the following types of uses are
+permitted as hereinafter specifically provided for by this section, subject to the general
+provisions and exceptions set forth in this Chapter.
+  (a)  Low-intensity, undeveloped recreation which is water dependent.
+  (b) Scientific and educational observation.
+  (c) Navigational aids, such as beacons and buoys.
+  (d) Passive estuarine restoration measures.
+  (e) Dredging necessary for on-site maintenance of existing functional
+tidegates and associated drainage channels and bridge crossing support structures.
+  (f) Natural resource preservation, including protection of habitat,
+nutrient, fish, wildlife and aesthetic resources.
+  (g) Rip-rap for protection of uses existing as of October 7, 1977, unique
+natural resources, historical and archeological values and public facilities.
+  (h) Bridge crossings.
+  (i) Aquaculture which does not involve dredge or fill or other estuarine
+alteration other than incidental dredging for harvest of benthic species or removable in-
+water structures such as stakes or racks.
+  (j) Communication facilities.
+  (k) Active restoration of fish and wildlife habitat or water quality and
+estuarine enhancement.
+  (l) Boat ramps for public use where no dredging or fill for navigational
+access is needed.
+  (m) Pipelines, cables and utility crossings, including incidental dredging
+necessary for their installation.
+  (n) Installation of tidegates in existing functional dikes.
+  (o) Bridge crossing support structures and dredging necessary for their
+installation.
+  (p) Noncommercial clamming and fishing.
+  (q) Low-intensity grazing; provided the area is a high salt marsh and has
+been so used within the 10 years prior to July 24, 1980.
+  (r) Log storage; provided the storage occurs at sites under lease from
+Division of State Lands on July 24, 1980 and provided all state and federal agency
+requirements are met.
+  (s)  The following transportation facilities and uses, provided no filling
+or dredging is required:
+   (i) Operations, maintenance, and repair as defined in LC 15.010
+of existing transportation facilities, services, and improvements, including road, bicycle,
+pedestrian, port, airport and rail facilities, and major regional pipelines and terminals.
+   (ii) Preservation as defined in  LC 15.010, and rehabilitation
+activities and projects as defined in LC 15.010 for existing transportation facilities,
+services, and improvements, including road, bicycle, pedestrian, port, airport and rail
+facilities, and major regional pipelines and terminals.
+16.235 Lane Code 16.235
+
+May 2026 16-377 LC16.235_237
+ (3)  Special Uses Approved by the Director .  The following specified uses and
+no others are permitted, subject to prior submittal and approval of an application pursuant
+to Type II procedures of LC Chapter 14.  A Resource Capability Determin ation is
+required as set forth in LC 16.248, except for major projects requiring an impact
+assessment as set forth in LC 16.249.
+  (a) (i) Uses.  Private single-family, single-purpose piers or docks.
+   (ii) Criteria and Conditions.
+    (aa) The use will have minimal adverse impact on natural
+resources in the area affected by the proposed use.  The resources are as identified in the
+Lane County Rural Comprehensive Plan.
+    (bb) The use is compatible with requirements of adjacent
+shorelands’ Rural Comprehensive Plan designation.
+    (cc) The applicant attests in writing on a form provided by
+the Planning Director that no alternatives to the proposed structure are feasible.
+    (dd) The size and design of the structure is limited to that
+required for the intended use.
+  (b) (i) Uses.  New or expanded log storage sites not otherwise
+provided for in LC 16.235(2)(r) above.
+   (ii) Criteria and Conditions.
+    (aa) Water storage is integral to continued operation of the
+associated wood processing facility.
+    (bb) There are no feasible upland alternatives.
+    (cc) The log storage operation meets Department of
+Environmental Quality Standards for log storage.
+    (dd) The use is not proposed at sites which have long -
+established use for public recreation such as a boat launching site or a marina site.
+    (ee) Public need is demonstrated.
+  (c) (i) Uses.
+    (aa) Public docks and piers.
+    (bb) Private multifamily docks and piers.
+    (cc) Mooring buoys which are permanently anchored to
+estuary floor.
+    (dd) Dolphins.
+   (ii) Criteria and Conditions.  The use will have minimal impact on
+natural and recreational resources in the area affected by the proposed use.  The resources
+are as identified in the Lane County Rural Comprehensive Plan.
+  (d) (i) Uses.
+    (aa) Boat launching ramps.
+    (bb) Public beaches requiring estuarine modification.
+    (cc) Minor dredging to improve navigability.
+   (ii) Criteria and Conditions.
+    (aa) An estuarine location is required.
+    (bb) No alternative locations exist which are designated as
+Development in the Lane County Rural Comprehensive Plan.
+    (cc) Adverse impacts on resources are minimized.  These
+resources are as identified in the Lane County Rural Comprehensive Plan.
+    (dd) No alternative shoreland locations exist for the portions
+of the use requiring fill.
+    (ee) Public need is demonstrated.
+  (e) (i) Uses.  Erosion control structure, in cluding, but not necessarily
+limited to, seawalls, bulkheads, groins and jetties.
+16.235 Lane Code 16.235
+
+May 2026 16-378 LC16.235_237
+   (ii) Criteria.
+    (aa) The criteria and conditions specified under Special Uses,
+LC 16.235(3)(d)(ii)(aa)-(ee) above are met.
+    (bb) The use being protected is water dependent.
+    (cc) Adverse impacts on water currents, erosion and
+accretion patterns are minimized as much as feasible.
+    (dd) Nonstructural solutions are inadequate to protect the use.
+  (f) (i) Uses.  Active estuarine restoration involving dredge or fill.
+   (ii) Criteria.
+    (aa) Public need is demonstrated.
+    (bb) The location and actions proposed for restoration
+measures are adequate to achieve the stated restoration objective.  Restoration objectives
+shall set forth the original conditions to be restored and the cause of the loss or
+degradation.
+    (cc) Any restoration action related to the distribution and
+abundance of relevant amenities and attributes (e.g., long -term environmental, social or
+economic values) that have been lost or diminished shall be consistent with the original
+Conditions.
+  (g) (i) Uses  Riprap and associated minor fills to protect preexisting
+structures or specified values.
+   (ii) Criteria.
+    (aa) The use is required to protect human-made structures
+existing prior to October 7, 1977 or critical wildlife habitat in adjacent shorelands as
+identified in the Lane County Rural Comprehensive Plan.
+    (bb) Natural bank stabilization measures are inadequate.
+  (h) (i) Uses.
+    (aa) High-intensity water -dependent recreation, including
+boat ramps, marinas and new dredging for boat ramps and marinas.
+    (bb) Aquaculture requiring dredge and/or fill or other
+alteration of the estuary.
+    (cc) Minor navigational improvements.
+    (dd) Mining and mineral extraction, including dredging
+necessary for mineral extraction.
+    (ee) Other water -dependent uses requi ring occupation of
+water surface area by means other than dredge or fill.
+   (ii) Criteria and Conditions.
+    (aa) The criteria and conditions listed under Special Uses LC
+16.235(3)(d)(ii)(aa)-(ee)above are met.
+    (bb) The use is consistent with the resource capabilities of the
+area as measured by the following definition:  a use or activity is consistent with the
+resource capabilities of the area when either the impacts of the use on estuarine species,
+habitats, biological productivity and water quality are not significant, or it is documented
+that the resources of the area are able to assimilate the use and activity and their effects
+and continue to function in a manner which conserves long-term renewable resources,
+natural biological productivity, recreational and aesthetic values and aquaculture.
+    (cc) Associated land uses, if any, on adjacent shorelands
+comply with applicable Lane County land use and zoning regulations.
+  (i) (i) Uses.  Temporary alterations.
+   (ii) Criteria.  A resource capabilities test shall be applied to
+temporary alteration proposals to ensure:
+16.235 Lane Code 16.235
+
+May 2026 16-379 LC16.235_237
+    (aa) That the short -term damage to re source is consistent
+with resource capabilities of the area; and
+    (bb) That the area and affected resources can be restored to
+their original condition.
+    (cc) The proposed alteration is other wise in compliance with
+and in support of uses allowed by the CE-RCP zone.
+ (4) Applicable Natural Features.  The boundaries of the CE -RCP Zone are
+defined by natural features.  The CE -RCP Zone includes minor tracts of salt marsh,
+tideflats, eelgrass and algae beds; those not included in the Natural Estuary Zone (NE -
+RCP).  This zone also includes oyster and clam beds and areas immediately adjacent to
+developed estuarine areas.  These are as defined on the Lane County zoning maps as
+specified by LC 16.252(9).
+ (5) Uses Subject to State and Federal Permits.
+  (a) When State or Federal permits, leases, ease ments or similar types of
+authorization are also required for a use, subject to special use approval, information
+required as part of the State or Federal permit process may be required to be made
+available to the County for the determination that applicable criteria are satisfied.
+  (b) Applicants shall make application for all requisite State and/or
+Federal permits, leases, easements or similar type of authorization within 10 days
+following application for a special use approval in order to avoid unnecessary delays
+caused by the unavailability of State or Federal processing information which may be
+deemed necessary for special use review.
+  (c) Any use authorized by the provisions of this zone shall also require
+the securing of any necessary State or Federal Permit, lease, easement or similar type of
+authorization.
+ (6) Additional Criteria Required for Projects Involving Dredge or Fill . Any
+use or activity permitted above which requires dredging or filling of the estuary must
+meet the following criteria:
+  (a) The use is required for navigation or is other wise water dependent
+and requires an estuarine location, or is specifically allowed by the CE-RCP zone; and
+  (b) A need (i.e., a substantial public benefit) is dem onstrated and the use
+or alteration does not unreasonably interfere with public trust rights; and
+  (c) No feasible alternative upland locations exist; and
+  (d) Adverse impacts on identified estuarine values are minimized.
+  (e)  Mitigation requirements of ORS 541.605 to 541.695 are met.
+ Other uses and activities which could alter the estuary shall only be allowed if the
+requirements in LC 16.235(6)(b), (c) and (d) above are met.
+ (7) Telecommunication Towers.  Notwithstanding LC 16.235(2) above,
+telecommunication facilities are allowed subject to compliance with the requirements of
+LC 16.264, LC 16.235 and with applicable requirements elsewhere in LC Chapter 16
+including but not necessarily limited to: the riparian vegetation protection standards in
+LC 16.253; Floodplain Combining Zone (LC 16.244); Willamette Greenway
+Development Permits (LC 16.254); the Coastal Resource Management Combining Zones
+(LC 16.234, 16.235, 16.236, 16.237, 16.238, 16.239, 16.240, 16.241, 16.242, or 16.243);
+Federal or State of Oregon inventories and regulations applicable to delineated wetlands
+and waters of the nation or state; the Commercial Airport Safety Combining Zone (LC
+16.245) and the Airport Safety Combining Zone (LC 16.246); and the Sensitive Bird
+Habitat protection Standards and Criteria in LC 16.005(4).
+ (Revised by Ordinance No. 7-87,
+Effective 6.17.87; 7-91, 6.5.91; 5-96, 11.29.96; 4-02, 4.10.02; 10-04, 6.4.04; 20-05, 6.16.20)
+
+16.236 Lane Code 16.236
+
+May 2026 16-380 LC16.235_237
+DEVELOPMENT ESTUARY ZONE (DE-RCP)
+RURAL COMPREHENSIVE PLAN
+
+16.236 Development Estuary Zone (DE-RCP).
+ (1) Purpose.  The primary purpose of the Development Estuary Zone DE -RCP
+is to provide for navigational needs and public, commercial and industrial water
+dependent uses which require an estuarine location.  Uses which are water related or non -
+water dependent, non-related which do not damage the overall integrity of estuarine
+resources and values should be considered; provided they do not conflict with the
+primary purpose of the zone.
+ (2) Permitted Uses .  In the DE -RCP Zone, the following types of uses are
+permitted as hereinafter specifically provided for by this section, subject to the general
+provisions and exception set forth in this Chapter; provided that no such use may be
+permitted which involves dredging or filling of the estuary.
+  (a)  The following waterborne transportation and associated water
+dependent activities and uses:
+   (i) Navigational aides.
+   (ii) Maintenance dredging of navigation channel.
+  (b) The following commercial activities and uses which are water
+dependent:
+   (i) Marine fueling facilities.
+   (ii) Marinas.
+   (iii) Loading and unloading facilities such as piers or docks.
+  (c) The following industrial activities and uses which are water
+dependent:
+   (i) Marine construction and repair facilities.
+   (ii) Log storage.
+  (d) The following public facilities which are water dependent.
+   (i) Marinas.
+   (ii) Docks and piers and other moorages.
+   (iii) Boat launching ramps.
+  (e)  The following transportation facilities and uses, provided no filling
+or dredging is required:
+   (i) Operations, maintenance, and repair as defined in LC 15.010
+of existing transportation facilities, services, and improvements, including road, bicycle,
+pedestrian, port, airport and rail facilities, and major regional pipelines and terminals.
+   (ii) Preservation as defined in LC 15.010, and rehabilitation
+activities and projects as defined in LC 15.010 for existing transportation facilities,
+services, and improvements, including road, bicycle, pedestrian, port, airport and rail
+facilities, and major regional pipelines and terminals.
+ (3) Special Uses Approved by the Planning Director .  The following specified
+uses and no others are permitted, subject to prior submittal and ap proval of an application
+pursuant to Type II procedures of LC Chapter 14 and  upon satisfaction of the applicable
+criteria.  A Resource Capability Deter mination is required as set forth in LC 16.248,
+except for major projects requiring an Impact Assessment as set forth in LC 16.249.
+  (a) (i) Uses.  Any water dependent use not specifically auth orized in
+LC 16.236(2) above; provided that no such use may be permitted which involves
+dredging or filling of the estuary.
+   (ii) Criteria. The use is water dependent.
+  (b) (i) Uses.  Flow-lane disposal of dredged material.
+16.236 Lane Code 16.236
+
+May 2026 16-381 LC16.235_237
+   (ii) Criteria.  Such action shall be monitored to assure that
+estuarine sedimentation is con sistent with the resource capabilities and purposes of
+affected natural and conservation management units.
+  (c) (i) Uses.  Flood and erosion control structures, including, but not
+necessarily limited to, jetties, seawalls, groins and bulkheads.
+   (ii) Criteria and Conditions.
+    (aa) The criteria specified in LC 16.236(4) below are met.
+    (bb) The structures are designed and sited to minimize
+erosion and human-induced sedimentation in adjacent areas.
+    (cc) The structures are designed and sited to minimize
+adverse impacts on water currents, water quality and fish and wildlife habitat.
+    (dd) The use or uses to be protected by the proposed
+structures are water dependent.
+  (d) (i) Uses.  Riprap and associated minor fills to protect human -
+made structures existing prior to October 7, 1977.
+   (ii) Criteria and Conditions.  Natural bank stabilization measures
+are inadequate.
+  (e) (i) Uses.  All other uses; provided no dredging or filling is
+required.
+   (ii) Criteria.
+    (aa) A public need is demonstrated.
+    (bb) The use will not irrevocably limit future use of the area
+for water dependent commercial or industrial facilities.
+    (cc) The use will have minimal impact on resources, as
+identified in the Lane County Rural Comprehensive Plan, in the area affected by the
+proposed use.
+  (f) (i) Uses.
+    (aa) Low-intensity recreation which is water dependent.
+    (bb) Scientific and educational observation.
+    (cc) Active estuarine restoration.
+    (dd) Aquaculture.
+    (ee) Communication facilities.
+    (ff) Bridge crossing support structures.
+   (ii) Criteria and Conditions .
+    (aa) The criteria specified in LC 16.236(4) below are met for
+any use or activity requiring dredge or fill.
+    (bb) The use or activity will not irrevocably limit the future
+or present use of the area for water dependent commercial or industrial facilities.
+    (cc) The location and actions proposed for restoration
+measures are adequate to achieve the stated restoration objective.  Restoration objectives
+shall set forth the original conditions to be restored and the cause of the loss or
+degradation.
+    (dd) Any restoration action related to the distribution and
+abundance of relevant amenities and attributes (e.g., long -term environmental, social or
+economic values) that have been lost or diminished shall be consistent with the original
+conditions.
+  (g) (i) Uses.  Any uses specified in LC 16.236(2) above which
+involve dredging or filling of the estuary.
+   (ii) Criteria.  The criteria specified in LC 16.236(4) below.
+  (h) (i) Uses.  Temporary alterations.
+16.236 Lane Code 16.236
+
+May 2026 16-382 LC16.235_237
+   (ii) Criteria.  A resource capabilities test shall be applied to
+temporary alteration proposals to ensure:
+    (aa) That the short -term damage to re source is consistent
+with resource capabilities of the area; and
+    (bb) That the area and affected resources can be restored to
+their original condition.
+    (cc) The proposed alteration is other wise in compliance with
+and in support of uses allowed by the DE-RCP zone.
+ (4) Additional Criteria Required for Projects Involving Dredge or Fill .  Any
+use or activity permitted above which requires dredging or filling of the estuary must
+meet the following criteria:
+  (a) The use is required for navigation or is other wise water dependent,
+and requires an estuarine location, or is specifically allowed by the DE-RCP zone; and
+  (b) A need (i.e., a substantial public benefit) is demonstrated and the use
+or alteration does not unreasonably interfere with public trust rights; and
+  (c) No feasible alternative upland locations exist; and
+  (d) Adverse impacts on identified estuarine values are minimized.
+  (e) Mitigation requirements of ORS 541.605 to 541.695 are met.
+Other uses and activities which could alter the estuary shall only be allowed if the
+requirements of LC 16.236(4)(b), (c) and (d) above are met.
+ (5)  Applicable Physical, Geographical or Natural Features.  The DE-RCP
+Zone is designed to apply to navigation channels, subtidal areas for in -water disposal of
+dredged material, major navigational appurtenances, deep water areas adjacent to the
+shoreline and areas of minimal biological significance needed for uses requiring
+alteration of the estuary.  These are as defined on the Lane County zoning maps as
+specified by LC 16.252(9).
+ (6)  Uses Subject to State and Federal Permits.
+  (a) When State or Federal permits, leases, easements or similar types of
+authorization are also required for a use, subject to special use approval, information
+required as part of the State or Federal permit process may be required to be made
+available to the County for the determination that applicable criteria are satisfied.
+  (b) Applicants shall make application for all requisite State and/or
+Federal permits, leases, easements or similar type of authorization within 10 days
+following application for a special use approval in order to avoid unnecessary delays
+caused by the unavailability of State or Federal processing information which may be
+deemed necessary for special use review.
+  (c) Any use authorized by the provisions of this zone shall also require
+the securing of any necessary State or Federal permit, lease, easement or similar type of
+authorization.
+ (7) Telecommunication Towers.  Notwithstanding LC 16.236(2) -(3) above,
+telecommunication facilities are allowed subject to compliance with the requirements of
+LC 16.264, LC 16.236 and with applicable requirements elsewhere in LC Chapter 16
+including but not necessarily limited to: the riparian vegetation protection standards in
+LC 16.253; Floodplain Combining Zone (LC 16.244); Willamette Greenway
+Development Permits (LC 16.254); the Coastal Resource Management Combining Zones
+(LC 16.234, 16.235, 16.236, 16.237, 16. 238, 16.239, 16.240, 16.241, 16.242, or 16.243);
+Federal or State of Oregon inventories and regulations applicable to delineated wetlands
+and waters of the nation or state; the Commercial Airport Safety Combining Zone (LC
+16.245) and the Airport Safety Combining Zone (LC 16.246); and the Sensitive Bird
+Habitat protection Standards and Criteria in LC 16.005(4).
+(Revised by Ordinance No. 7-87,
+Effective 6.17.87; 7-91, 6.5.91; 5-96, 11.29.96; 4-02, 4.10.02; 10-04, 6.4.04; 20-05, 6.16.20)
+16.237 Lane Code 16.237
+
+May 2026 16-383 LC16.235_237
+
+SIGNIFICANT NATURAL SHORELANDS COMBINING ZONE (/SN-RCP)
+RURAL COMPREHENSIVE PLAN
+
+16.237 Significant Natural Shorelands Combining Zone (/SN-RCP).
+ (1) Purpose.  The Significant Natural Shorelands Combining Zone /SN -RCP is
+applied to those coastal shorelands identified in inventory information and designated
+generally in the Lane County Rural Comprehensive Plan as possessing a combination of
+unique physical, social or biological characteristics requiring protection from intensive
+human disturbances.  Those areas serve multiple purposes, among which are education,
+preservation of habitat diversity, water quality maintenance and provision of intangible
+aesthetic benefits.  The /SN-RCP Zone is applied to prominent aesthetic features, such as
+coastal headlands and open sand expanses in proximity to coastal waters, sensitive
+municipal watersheds and significant freshwater marsh areas.
+ The /SN -RCP Zone provides a procedure by which to define the exact
+geographical boundaries of the shorelands within the /SN -RCP Zone that require
+protection beyond that provided by the zone or zones with which the /SN -RCP Zone is
+combined and imposes additional development requirements within these boundaries.
+ (2) Intent.  The requirements imposed by the /SN -RCP Zone are in addition to
+those imposed by the respective zone or zones with which the /SN-RCP Zone is
+combined.  Where the requirements of the /SN -RCP Zone conflict with the requirements
+of the zone or zones with which it is combined, the more restrictive requirements shall
+apply.
+ (3) Preliminary Investigation . Prior to commencement of any development
+within the /SN -RCP Zone, the development must be reviewed through a Preliminary
+Investigation Application to determine the specific area to which the requirements of the
+/SN-RCP Zone apply.  The purpose of the Preliminary Investigation is to determine
+applicability and existence of characteristics provi ded by LC 16.237(3) (a) through (g) ,
+and to determine the ordinary high water line and setback areas as provided in either LC
+16.237(7)(h) or (10). The requirements of the /SN-RCP Zone apply in an area in which
+the Planning Director determines that one or more of the following apply.
+  (a) Lands which limit control or are directly affected by the hydraulic
+action of the coastal waterways.  These lands are composed of the following:
+   (i) Floodways and floodway fringe.
+   (ii) Land lying between the mean high water and mean low
+watermark of the coastal water bodies.
+   (iii) Dikes, dams, levees or steep embankments which control the
+coastal water body.
+   (iv) Lands along the ocean coast at or below the 26 -foot elevation
+line.
+  (b) Adjacent areas of geologic instability which are composed of:
+   (i) Areas of geologic instability in which the instability is
+attributable to the hydraulic action of the water body.
+   (ii) Areas of geologic instability which have a direct impact on
+water quality, water temperature or on shoreline stability.
+   (iii) Shorelands in dunal areas in which the enforcement of the use
+restrictions of the /BD -RCP Zone would be inadequate to protect water quality, water
+temperature or shoreline stability.
+  (c) Natural or human -made riparian resources. These lands are as
+follows:
+16.237 Lane Code 16.237
+
+May 2026 16-384 LC16.235_237
+   (i) Extend from 10 to 65 feet landward from the mean high water,
+within which area the existing vegetation serves one or more of the following functions:
+    (aa) Shading of coastal water body.
+    (bb) Stabilization of shoreline.
+    (cc) Habitat for rare or endangered wildlife species.
+    (dd) Significant riparian vegetation areas as identified in the
+Lane County Coastal Inventory.
+  (d)  Areas of significant shoreland and wetland biological habitat
+composed of:
+   (i) Freshwater marshes identified in the Lane County Rural
+Comprehensive Plan.
+   (ii) Areas currently identified by Nature Conservancy and
+included in the Lane County Coastal Inventory as significant natural areas or other areas
+which the Lane County Board of Commissioners may deem significant natural areas
+based on new inventory information.
+   (iii) Habitat.  Other than that listed in LC 16.237( 3)(c)(i)(cc),
+which supports rare or endangered species.
+  (e) Areas necessary for water dependent and water related uses,
+including areas of recreational importance which utilize coastal water or riparian
+resources, areas appropriate for navigation and port facilities and areas having
+characteristics suitable for aquaculture.  These are as identified in the Lane County Rural
+Comprehensive Plan.
+  (f) Areas identified in the Lane County Rural Comprehensive Plan as
+having exceptional aesthetic or scenic quality derived from or related to the association
+with coastal water areas.
+  (g) Coastal headlands, identified in the Lane County Coastal Inventory.
+ (4) Fees for Preliminary Investigation .  To partially defray the expense in
+performing the Preliminary Investigation, a fee to be based on the scale of development
+proposal must be charged to the applicant.  Such fees will be as established by order of
+the Board of County Commissioners.
+ (5) Notification of Preliminary Investigation Determination .  The Planning
+Director must notify the applicant of the determination of the Preliminary Investigation
+by mail within 10 days of completion of the Preliminary Investigation.  The notification
+must include a site plan  delineating the portions of the parcel or parcels subject to the
+requirements of the /SN -RCP Zone, and must  set forth the basis for the determination
+based on the criteria specified in LC 16.237(3).
+ (6) Appeal to Hearings Official .  Notwithstanding LC 14.080(1)(a)(i), a n
+applicant may appeal to the Hearings Official the determination of the Preliminary
+Investigation, and the manner for such appeal must be as provided by LC 14.080.
+
+ (7) Permitted Uses.  In areas found subject to the requirements of the /SN-RCP
+Zone by the Preliminary Investigation specified in LC 16.237( 3), the following structures
+and uses and no others are permitted as hereinafter specifically provided for by this
+section, subject to the general provisions  and exceptions set forth in this section.  The
+Forest Practices Act requirements for the maintenance of riparian vegetation will be
+enforced to provide shading and filtration and protect wildlife habitat at those sites
+indicated in the Lane County Coastal Resources Inventory as "riparian vegetation" or
+"significant wildlife habitat". These areas will be specially evaluated prior to approval of
+timber harvest plans to ensure the habitat has been adequately considered.
+16.237 Lane Code 16.237
+
+May 2026 16-385 LC16.235_237
+  (a) Propagation and harvesting of forest products consistent with the
+Oregon Forest Practices Act as permitted by the zone or zones with which the /SN-RCP
+Zone is combined.
+  (b) Low-intensity grazing.
+  (c) Harvesting of wild crops.
+  (d) Low-intensity recreation.
+  (e) Shore-secured floating moorage facilities in adjacent water areas.
+  (f) Dredged material disposal when the /SN-RCP Zone is used in
+conjunction with the /DMS-RCP Zone.
+  (g) Mooring buoys, multipurpose -multifamily piling docks and piers,
+dolphins and other moorage facilities in adjacent lakes or a Development Estuary Zone
+(DE-RCP).
+  (h) Housing as defined in LC 16.090. An application for the
+development of housing must satisfy the following standards, unless an applicant seeks
+approval under the criteria set forth in LC 16.237(8)(a)(i) or (b)(i).
+   (i) Removal of vegetation is limited to an area within 40 feet of the
+center of a dwelling, not including vegetation removal for up to a 16-foot wide area for
+driveway access extending from a property boundary to a dwelling.  The center of the
+dwelling is measured from the geographic center of a rectangle that encompasses the
+entirety of the roofline of the structure  and that is not larger than the full extent of the
+roofline.
+   (ii) Except as provided in LC 16.237(7)(h)(iii), all structures must be
+set back 100 feet from the ordinary high water line of lakes and estuaries.
+   (iii) On oceanfront properties, adjacent to the vegetation line
+described in ORS 390.770, all structures must be set back 200 -feet from the same
+vegetation line.
+   (iv) No vegetation removal is permitted within 100 feet of the
+ordinary high water line of a lake, estuary, or from the vegetation line described in ORS
+390.770.
+   (v) Cornices, canopies, and eaves may extend two feet into the
+setback area specified by LC 16.237(10)(g).
+   (vi) Decks, uncovered porches, and stairways may extend a
+maximum distance of 10 feet into the setback area as specified by LC 16.237(10)(h).
+   (vii) Structures must not exceed 30 feet in total height as measured
+by the vertical distance from the highest adjacent grade surrounding the building prior to
+the start of construction to the highest pitched point of a roof.
+
+ (8) Special Uses Approved by the Planning Director .  If found subject to the
+requirements of the /SN-RCP Zone, based on the results of the Preliminary Investigation
+specified by LC 16.237( 3), the following specified uses and no others are permitted,
+subject to prior submittal and approval of an application pursuant to Type II procedures
+of LC Chapter 14  upon satisfaction of the applicable criteria and determination that the
+use is consistent with protection of natural values specified in the Coastal Resources
+Management Plan.
+  (a) (i) Uses.  Single-family homes, mobile homes and such accessory
+buildings as allowed in the underlying zones.  Unless an applicant seeks approval under
+LC 16.237(7)(h), the following criteria apply to the use.
+   (ii) Criteria.  All requirements set forth in LC 16.237( 10) and (11)
+are met.
+  (b) (i) Uses.  Single-family dwelling units and mobile homes as
+allowed in the zone or zones with which the /SN-RCP Zone is combined where existing
+16.237 Lane Code 16.237
+
+May 2026 16-386 LC16.235_237
+parcel size is insufficient for the development to meet the development, setback and area
+requirements set forth in LC 16.237( 10) and ( 11). Unless the applicant seeks approval
+under LC 16.237(7)(h), the following criteria apply to the use.
+   (ii) Criteria and Conditions.
+    (aa) The said parcel existed prior to July 24, 1980.
+    (bb) The structures must not occupy more than 30 percent of
+the lot area.
+    (cc) All applicable height restrictions are observed.
+    (dd) The parcel is of sufficient size to meet all applicable
+standards for subsurface sewage disposal.
+    (ee) Clearance of vegetation on the remainder of the lot area,
+including that portion in the setback area otherwise permitted for vegetation clearance, is
+minimized.
+    (ff) All otherwise applicable requirements of this section are
+met.
+  (c) (i) Uses.  The following moorage facilities attached or connected
+to the shorelands and located in the estuary:
+    (aa) Public or commercial piling-type docks or piers.
+    (bb) Private, multifamily or multi-use piling -type docks or
+piers.
+    (cc) Mooring buoys which are permanently anchored to the
+estuary floor.
+    (dd) Dolphins.
+   (ii) Criteria.
+    (aa) The moorage facility is located within a Conservation
+Estuary Zone (CE-RCP).
+    (bb) The use is not in violation of the purposes of the
+respective zone or zones with which the /SN-RCP Zone is combined.
+    (cc) The use meets all criteria and conditions of the
+appropriate estuary zone.
+  (d) (i) Uses.  All buildings and uses allowed as permitted uses,
+special uses or conditional uses in the respective zone or zones with which the /SN-RCP
+Zone is combined, subject to the development, setback and area  requirements of this
+section, except as expressly prohibited by LC 16.237( 9), and except for the development
+of housing permitted by LC 16.237(7)(h).
+   (ii) Criteria.
+    (aa) All applicable criteria provided within the respective zone
+with which the /SN-RCP Zone is combined are met.
+    (bb) The use will not adversely affect the aesthetic and
+biological characteristics of the site, as identified in the Rural Comprehensive Plan.
+    (cc) Surface, subsurface and aquifer waters are protected
+from pollution and sedimentation. The Lane County Department of Public Works, Land
+Management Division, is the proper consulting agency in this regard.
+    (dd) All requirements set forth in LC 16.237( 10) and (11) are
+met.
+  (e) (i) Uses.  Artificial bank stabilization adjacent to estuaries and
+lakes.
+   (ii) Criteria.
+    (aa) The stabilization is necessary to protect structures existing
+on or before October 7, 1977.
+16.237 Lane Code 16.237
+
+May 2026 16-387 LC16.235_237
+    (bb) Natural bank stabilization methods are unfeasible or less
+appropriate.
+  (f) (i) Uses.  Single-family, single -purpose, piling-type docks and
+piers.
+   (ii) Criteria.
+    (aa) No reasonable alternatives exist to the construction of a
+single-family, single-use pier.  Alternatives  include mooring buoys, public piers within a
+reasonable distance from the proposed use, cooperative use of existing private piers
+located within a reasonable distance or non-piling-type floating piers.
+    (bb) The dock or pier must  not be located within a Natural
+Estuary Zone (NE-RCP).
+    (cc) If located within the estuary, the use must meet all
+criteria and conditions of the appropriate estuary zone.
+ (9) Prohibited Uses .  If found subject to the requirements of the /SN -RCP
+Zone, based on the results of the Preliminary Investigation specified by LC 16.237(3), the
+following uses are specially prohibited:
+  (a) Fill in coastal lakes.
+  (b) Fill in freshwater marsh areas as identified in the Lane County Rural
+Comprehensive Plan.
+ (10) Site and Development Requirements .  If found subject to the requirements
+of the /SN -RCP Zone, based on the results of the Preliminary Investigation specified by
+LC 16.237( 3), the development requirements  of LC 16.237(10) (a) through (n)  are in
+addition to those provided by the respective zone or zones with which the /SN -RCP Zone
+is combined.  These requirements do not apply to timber harvesting activities. Timber
+harvesting activities, where permitted by the respective zone with which the /SN-RCP
+Zone is combined, must  conform to Oregon Forest Practices Act rules.  These
+requirements do not apply to housing as permitted by LC 16.237(7)(h).
+  (a) No more of a parcel’s existing vegetation may  be cleared than is
+necessary for the permitted use, accessory buildings, necessary access, septic
+requirements and fire safety requirements.
+  (b) To the maximum degree possible, building sites must  be located on
+portions of the site which exhibit the least vegetative cover.
+  (c) Construction activities occur in such a manner so as to avoid
+unnecessary excavation and/or removal of existing vegetation beyond that area required
+for the facilities indicated in LC 16.237( 10)(a).  Where vegetation removal beyond that
+allowed in LC 16.237( 10)(a) cannot be avoided, the site must  be replanted during the
+next replanting season to avoid sedimentation of coastal waters.  The vegetation must  be
+of indigenous species in order to maintain the natural character of the area.
+  (d) The requirements for parking and vision clearance must be as
+provided by the respective zone or zones with which the /SN-RCP Zone is combined.
+  (e) No topographic modification is permitted within the 100-foot
+setback area specified by LC 16.237(10)(m) and (n).
+  (f) The shoreward half of the setback area specified by LC
+16.237(10)(m) and (n) must be left in indigenous vegetation, except where un-surfaced
+trails are provided.
+  (g) Cornices, canopies and eaves may extend two feet into the setback
+area specified by LC 16.237(10)(m) and (n).
+  (h) Decks, uncovered porches, stairways and fire escapes may extend a
+maximum distance of 10 feet into the setback area specified by LC 16.237(10)(m) and (n)
+16.237 Lane Code 16.237
+
+May 2026 16-388 LC16.235_237
+  (i) All mature trees must be retained within the setback area specified
+by LC 16.237( 10)(m) and (n) , except where removal is subject to requirements of the
+Oregon Forest Practices Act.
+  (j) Structures must be sited and/or screened with natural vegetation so
+as not to impair the aesthetic quality of the site.
+  (k) The exterior building materials must  blend in color, hue and texture
+to the maximum amount feasible with the surrounding vegetation and landscape.
+ (l) Where public ownerships in the form of existing rights -of-way which
+provide access to coastal waters are involved in development subject to the regulations of
+this section, those ownerships must  be retained where possible, or replaced where not
+possible, upon the sale or disposal of the rights-of-way.  Rights-of-way may be vacated to
+permit redevelopment of shoreland areas provided public access across the affected site is
+retained.
+  (m) Structures must be setback 100 feet from coastal lakes and the estuary
+measured at right angles to the high water line. Use of this 100 feet must be as specified
+in LC 16.237(10)(e)-(h).
+  (n) Building setbacks on oceanfront parcels are determined in accordance
+with the rate of erosion in the area to provide reasonable protection to the site through the
+expected lifetime of the structure. Setbacks must be determined by doubling the
+estimated average annual erosion rate and multiplying that by the expected life of the
+structure.
+
+ (11) Special Land Division Requirements.  The following criteria must  be met
+for land divisions on property within the /SN.  RCP Zone, based on the Preliminary
+Investigation in LC 16.237( 3).  These criteria are in addition to minimum area
+requirements of any zone combined with the /SN-RCP Zone.
+  (a) For lands within urban or urbanizable areas or lands developed or
+committed to development:
+   (i) Land divisions must be consistent with shoreland values as
+identified in the Coastal Resources Management Plan, not adversely impact quality, and
+not increase hazard to life or property.
+  (b) For lands not within urban or urbanizable areas or lands developed or
+committed to development:
+   (i) There is a lack of suitable shoreland areas within urban or
+urbanizable areas or within areas developed or committed to development.
+  (c) Land divisions meeting LC 16.237(11) (a) or (b) are permitted
+subject to the minimum area requirements of the respective zone or zones with which the
+/SN-RCP Zone is combined or 10 acres, whichever is greater.
+
+ (12) Exceptions to Nonconforming Uses .  If damaged or destroyed, piling-type
+docks or piers may be rebuilt, but not expanded, notwithstanding the provisions of LC
+16.251.
+ (13) Application of Zone to Federal Lands. The application of the /SN -RCP
+Zone must be held in abeyance until such a time as these lands or portions of these lands
+may pass into private, State, or County ownership. The Rural Comprehensive Plan
+Designation must provide appropriate Federal agencies with local recommendation for
+proper use of these lands. Uses requiring State and Federal permits are subject to the
+following:
+  (a) When State or Federal permits, leases, easements or similar types of
+authorization are also required for a use, subject to special use approval, information
+16.237 Lane Code 16.237
+
+May 2026 16-389 LC16.235_237
+required as part of the State or Federal permit process may be required to be made
+available to the County for the determination that applicable criteria are satisfied.
+  (b) Applicants must make application for all requisite State and/or
+Federal permits, leases, easements or similar type of authorization within 10 days
+following application for a special use approval in order to avoid unnecessary delays
+caused by the unavailability of State or Federal processing information which may be
+deemed necessary for special use review.
+  (c) Any use authorized by the provisions of this zone must  also require
+the securing of any necessary State or Federal permit, lease, easement or similar type of
+authorization.
+  (d) Proposals subject to special use approval or for building permits for
+uses otherwise allowed must be forwarded in writing to the Oregon State Department of
+Fish and Wildlife within 14 days of final action to evaluate the impact upon habitats and
+to make recommendations concerning ways to avoid adverse impacts.
+  (e) Improvements to ocean shore areas (as defined in ORS 390.605) are
+subject to a permit from the Oregon Department of Transportation.
+ (Revised by Ordinance No.
+7-87, Effective 6.17.87; 7 -91, 6.5.91; 5-96, 11.29.96; 7-10, 11.25.10; 7-12, 12.28.12; 20-05, 6.16.20; 25-07,
+5.5.26)
+
+16.237 Lane Code 16.237
+
+May 2026 16-390 LC16.235_237
+
+PAGES 16-389 THROUGH 16-400
+ARE RESERVED FOR FUTURE EXPANSION

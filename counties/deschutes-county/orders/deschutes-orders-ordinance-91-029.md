@@ -1,0 +1,393 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-91-029
+title: 'Ordinance No. 91-029'
+doc_type: ordinance
+citation: 'Ordinance No. 91-029'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616691394_1991-24840-Ordinance%20No.%2091-029%20Recorded%208_9_1991.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8d3f636090727eeaa456c11ec63a8ce5197e19b1db89ffb1930027747dd068d9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 91-029 (Ordinance No. 91-029)
+
+## At a glance
+
+Ordinance No. 91-029 — orders of Deschutes County. 9 pages.
+
+## Full text
+
+REVIEWED
+X ivJ
+91- 24840
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF . bESCHUTES COUNTY ORAMK COUNSEL
+ORDINANCE NO. 91- 029
+WHEREAS, the City of Bend proposed a zone text amendment for
+outdoor promotional events and for revisions to the definitions listed
+above, and Title 19 needs to be consistent with the Bend City Code; and
+WHEREAS, notice of hearing was given in accordance with law; and
+WHEREAS, the Bend Urban Area Planning Commission ( Planning
+Commission) held a hearing on the zone text amendments on June 24,
+1991; and
+WHEREAS, the Planning Commission recommended that the zone text
+amendments be approved; therefore
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. Section 19. 04. 040, Definitions, of Title 19 of the
+Deschutes County Code, the Bend Urban Growth Boundary Zoning Ordinance,
+as amended, is further amended to add the following definition:
+Outdoor Promotional Event. An on- site outdoor sales or
+promotional event conducted in the parking lot or other outdoor
+area relating to a retail store or shopping mall. Such events are
+allowed only in the CH, CL, and CG zones and are subject to
+conditions under those zones.
+Section 2. Section 19. 44. 020, " Permitted uses", is amended to read as
+follows:
+The following uses are permitted in the CL Zone, subject to the
+provisions of Chapter 19. 76 ( unless otherwise noted):
+A. Existing residential uses without any increase in density.
+B. Ambulance service.
+Ktr
+CHER
+g91
+1 - ORDINANCE NO. 91- 029
+0107 0635
+An Ordinance Amending Title 19 of the
+Deschutes County Code, Bend Urban
+Growth Boundary Zoning Ordinance, as
+Amended, a Zone Text Amendment to
+establish provisions for outdoor
+promotional events within the CL
+Limited Commercial, CH, Highway
+Commercial, and CG, General Commercial
+Zones, and to amend the definitions of
+street, frontage, and lot line front,
+and Declaring an Emergency.
+ORDINANCE NO. 91- 029
+WHEREAS, the City of Bend proposeda zone text amendmentfor
+outdoor promotional events and for revisions to the definitions listed
+above, and Title 19 needs to be consistent with the Bend City Code; and
+WHEREAS, notice of hearing was given in accordance with law; and
+WHEREAS, the Bend Urban Area Planning Commission ( Planning
+Commission) held a hearing on the zone text amendmentson June 24,
+1991; and
+WHEREAS, the Planning Commission recommended that the zone text
+amendments be approved; therefore
+THE BOARD OF COUNTY COMMISSIONERSOF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. Section 19. 04. 040, Definitions, of Title 19 of the
+Deschutes County Code, the Bend Urban Growth Boundary Zoning Ordinance,
+as amended, is further amended to add the following definition:
+Outdoor Promotional Event. An on- site outdoor sales or
+promotional event conductedin the parking lot or other outdoor
+area relating to a retail store or shopping mall. Such events are
+allowed only in the CH, CL, and CG zones and are subject to
+conditions under those zones.
+Section 2. Section 19. 44. 020, " Permitted uses", is amended to read as
+follows:
+The following uses are permitted in the CL Zone, subject to the
+provisions of Chapter 19. 76 ( unless otherwise noted):
+A. Existing residential uses without any increase in density.
+B. Ambulance service.
+Ktr
+CHER
+g91
+1 - ORDINANCE NO. 91- 029
+C. Antique shop. 0107 0636
+D. Appliance sales ( household) including minor repairs.
+E. Art galleries, libraries and reading rooms.
+F. Artist supplies and picture framing.
+G. Auto parts sales ( new).
+H. Automobile sales ( new).
+I. Bakery, retail.
+J. Beauty shop.
+K. Bank or other financial institution.
+L. Barber shop.
+M. Book or stationery store.
+N. Clothing store or tailor shop.
+O. Clothes cleaning pick- up agency, laundry or dry cleaning or
+self- service laundry.
+P. Confectionery or delicatessen.
+Q. Dairy products, sales only.
+R. Drug store, including soda fountain.
+S. Dry goods store, millinery shop or dress shop.
+T. Florist shop.
+U. Food store, health food store.
+V. Frozen food locker, excluding wholesale storage.
+W. Furniture store, home furnishings store.
+X. Garden supply store.
+Y. Gift shop, notion or variety store.
+Z. Hardware store or paint store. ( Ord. 88- 042 S 13, 1988).
+aa. Hobby shop, toy store.
+bb. Jewelry store.
+CC. Leather goods and luggage.
+dd. Musical instruments.
+2 - ORDINANCE NO. 91- 029
+0107 0637
+ee. Medical and dental clinic and office.
+ff. Motel or hotel.
+gg. Office, business or professional.
+hh. Pet shop.
+ii. Photographic supplies and studio.
+jj. Printer.
+kk. Radio and television sales and service.
+11. Radio and television broadcasting studios and facilities.
+mm. Restaurant, bar and cocktail lounge, including entertainment.
+nn. Shoe store, shoe repair shop.
+oo. Service station.
+pp. Upholstery shop.
+qq. Planned unit development subject to the provisions of Chapter
+19. 104.
+rr. Technical and business schools.
+ss. Accessory buildings customarily appurtenant to a permitted
+use.
+tt. Day care center facilities.
+uu. Business terminal. ( Ord. 88- 042 S 14, 1988).
+vv. Outdoor promotional event, subject to Section 19. 44. 070( D),
+but not subject to the provisions of Chapter 19. 76.
+Section 3. Section 19. 44. 070, " Other Required Conditions", is amended
+to read as follows:
+A. All uses shall be conducted wholly within an enclosed
+building, except for off- street parking and loading facilities,
+automobile service stations, automobile sales and drive - up
+windows.
+B. Items produced or wares and merchandise handled shall be
+limited to those sold at retail on the premises.
+C. In any CL Zone directly across the street from an R Zone, the
+parking and loading shall be set back at least 10 feet from the
+street right- of- way and said area shall be appropriately
+landscaped along the residential street frontage to protect the
+character of the adjoining residential property. Such landscaping
+3 - ORDINANCE NO. 91- 029
+shall be maintained. 6167 0638
+D. outdoor promotional events are subject to the following
+conditions.
+1. Outdoor promotional events may include tent sales and parking
+lot sales limited to merchandise sold retail on- site.
+2. The area covered by the promotional event shall not exceed
+10% of the required paved parking area.
+3. An outdoor promotional event shall not exceed seven days in
+length and no more than 6 events shall be held during the
+calendar year, at any site or parcel.
+4. Signs and displays shall meet the current sign ordinance.
+Section 4. Section 19. 52. 020, " Permitted Uses", is amended to read as
+follows:
+The following uses are permitted, subject to the provisions of
+Chapter 19. 76 ( unless otherwise noted):
+A. Existing residential uses, without any increase in density.
+B. Ambulance service.
+C. Any permitted uses in the CL Zone.
+D. Bank, office and financial institution.
+E. Auto sale lot ( including truck sales as part of a car
+agency), provided all repair work is within an enclosed building.
+F. Automobile parts sales, automobile repair ( major), tire sales
+including recapping), battery sale and repair, all to be
+conducted within an enclosed building.
+G. Automobile service station subject to standards of Chapter
+19. 88.
+H. Carwash facilities.
+I. Carpenter, electrical, plumbing, sheet metal, welding,
+electroplating, heating and sign shops, auto and furniture
+upholstery shops, printing, publishing and lithography shops and
+paint shops operated entirely within an enclosed building.
+J. Commercial recreation facilities such as bowling alley,
+skating rink, dance hall, but not including golf driving range or
+drive- in theater.
+K. Equipment sales, service, rental and repair.
+L. Grocery store, gift store or souvenir shop.
+4 - ORDINANCE NO. 91- 029
+0107 0639
+M. Hotel and motel.
+N. Manufactured home, trailer and recreational vehicle sales and
+service.
+O. Motorcycle sales, service and repair.
+P. Restaurant, cafe, refreshment stand, drive- in restaurant,
+bar, tavern, club and lodge.
+Q. Retail business and service establishment providing home
+furnishing, supplies and service for home improvements, including
+garden supplies, nurseries, greenhouses, retail lumber yards,
+paint and wallpaper, plumbing, heating and electrical sales and
+service, drapery, floor covering and tile.
+R. Veterinary clinic operated entirely within an enclosed
+building.
+S. Second- hand store operated within an enclosed building.
+T. Places for public assembly, such as churches, meeting halls,
+auditoriums, lodges, clubs, fraternal organizations and
+mortuaries.
+U. Public buildings and public utility structures as may be
+appropriate to the CH Zone.
+V. Commercial off- street parking lot.
+W. Planned unit development subject to Chapter 19. 104.
+X. Radio and television broadcasting studios and facilities.
+Y. Laundry and dry cleaning establishment.
+Z. Monument sales, retail.
+aa. Accessory uses and buildings customarily appurtenant to a
+permitted use.
+bb. Technical and business schools.
+CC. Day care center facilities.
+dd. Bus terminal. ( Ord. 88- 042 S 21, 1988).
+ee. outdoor promotional event, subject to Section 19. 52. 070( C) or
+D) of this Code, but not subject of the provisions of Chapter
+19. 76.
+Section 5. Section 19. 52. 070, " Other Required Conditions", is amended
+to read as follows:
+A. All business, service, repair, processing, storage or
+5 - ORDINANCE NO. 91- 029
+0107 0640
+merchandise display on property abutting or across the street from
+a lot in an R Zone, shall be conducted wholly within an enclosed
+building unless screened from the R Zone by a site - obscuring fence
+or wall not less than 6 feet, nor more than 8 feet in height.
+Said fence or wall shall not extend into a required front yard
+area.
+B. Motor vehicle, boat or trailer rental, sales or storage lot
+shall be drained and surfaced with pavement, except in those
+portions of the lot maintained as landscaped areas.
+C. Any outdoor promotional event at enclosed shopping malls of
+200, 000 square feet or more retail space is subject to the
+following conditions:
+1. outdoor promotional events may include a circus,
+carnival or display of large specialty items such as:
+cars, boats, recreational vehicles, manufactured homes,
+or similar items not for sale at the shopping mall.
+2. outdoor promotional events shall not exceed seven days
+in length per event. A shopping mall shall not have
+more than 10 such promotional events per year.
+3. The area used for outside promotional events shall not
+exceed 10$ of the required paved parking area plus 10$
+of any extra parking spaces.
+4. Itinerant merchants are subject to Section 19. 88. 270 of
+the County Code.
+5. Signs and displays shall meet the current sign
+ordinance.
+D. Any outdoor promotional event at sites other than enclosed
+shopping malls are subject to the following conditions:
+1. outdoor promotional events may include tent sales and
+parking lot sales for merchandise not sold retail
+on- site.
+2. outdoor promotional events shall not exceed seven days
+in length.
+3. No more than 10 such events may occur in a calendar
+year, at any site or parcel.
+4. The promotional event shall not exceed 10% of the
+required paved parking area.
+5. Signs and displays shall meet the current sign
+ordinance.
+6. Itinerant merchants are subject to Section 19. 88. 270 of
+the County Code.
+6 - ORDINANCE NO. 91- 029
+0107 0641
+Section 6. Section 19. 56. 020 is amended to read as follows:
+The following uses are permitted in the CG Zone subject to the
+provisions of Chapter 19. 76:
+A. Any use permitted in the CL Zone.
+B. Wholesale business, storage, warehousing, transfer company
+and trucking company.
+C. Truck sales, service and repair.
+D. Public buildings and public utility structures and service
+yards.
+E. Contractor' s office and equipment storage yard and rental of
+equipment commonly used by contractors.
+F. Major automotive repair and towing services, provided all
+storage is conducted within a building or within a sight - obscuring
+fence.
+G. Carpenter, electrical, plumbing, sheet metal, welding,
+electroplating, heating and sign shops, auto and furniture
+upholstery shops, printing, publishing and lithographing shops and
+paint shops operated entirely within an enclosed building.
+H. Cold storage plant, including storage and offices.
+I. Bakery, creamery, soft drink bottling plant, laundry, dry
+cleaning, dying or rug cleaning.
+J. Feed, seed and fuel stores conducted wholly within a
+completely enclosed building.
+K. Secondhand store.
+L. Planned unit development subject to the provisions of Chapter
+19. 104.
+M. Accessory uses and buildings customarily appurtenant to a
+permitted use, such as incidental storage, are permitted.
+N. Bus terminal. ( Ord. 88- 042 S 24, 1988).
+O. Outdoor promotional event, subject to Section 19. 56. 070( C),
+but not subject to the provisions of Chapter 19. 76.
+Section 7. Section 19. 56. 070, " Other Required Conditions", is amended
+to read as follows:
+A. All business, service, repair, processing, storage or
+merchandise display on property abutting or across the street from
+a lot in an R Zone, shall be conducted wholly within an enclosed
+building unless screened from the R Zone by a site - obscuring fence
+7 - ORDINANCE NO. 91- 029
+0107 0642
+or wall not less than 6 feet, nor more than 8 feet in height.
+Said fence or wall shall not extend into a required front yard
+area.
+B. Motor vehicle, boat or trailer rental, sales or storage lot
+shall be drained and surfaced with pavement, except in those
+portions of the lot maintained as landscaped areas.
+C. Any outdoor promotional event is subject to the following
+conditions:
+1. outdoor promotional events may include tent sales and
+parking lot sales for merchandise not sold retail
+on- site.
+2. Promotional events shall not exceed seven days in
+length.
+3. No more than 10 such events may occur in a calendar
+year, at any site or parcel.
+4. The promotional event shall not exceed 10% of the
+required paved parking area.
+5. Signs and displays shall meet the current sign
+ordinance.
+6. Itinerant merchants are subject to Section 19. 88. 270 of
+the County Code.
+Section 8. Section 19. 04. 040, " Definitions", is amended to revise the
+definition of " Street" as follows:
+Street: A public thoroughfare or right of way other than an
+alley, dedicated, deeded or condemned for such use and private
+thoroughfare or access easements which are used for vehicle travel
+other than an alley, which affords the principal means of access
+to abutting property] including avenue, place, way, drive, lane,
+boulevard, highway, road and any other thoroughfare.
+Section 9. Section 19. 04. 040, " Definitions", is amended to revise the
+definition of " Frontage" as follows:
+Frontage: That portion of a parcel of property which abuts a
+dedicated public street or highway or an approved private [ way]
+street.
+Section 10. Section 19. 04. 040, " Definitions", is amended to revise the
+definition of " Lot Line, Front", as follows:
+Lot Line, Front: The property line abutting a street. Corner
+lots and thorough lots may have two or more front lot lines.
+Section 11. This Ordinance being necessary for the immediate
+preservation of the public peace, health and safety, an emergency is
+declared to exist, and this Ordinance takes effect on its passage.
+8 - ORDINANCE NO. 91- 029
+0107 0643
+DATED this ` day of , 1991.
+BOARD OF COUNTY COMMISSIONERS OF
+D7ESCH1
+UTE COUNTY, OREGON
+TO TH P, mmiss' ne
+ATTE Yom/ k--,
+NANCY P GES, Commiss oner
+Recording Secretary DI LIN, Ch irman
+9 - ORDINANCE NO. 91- 029

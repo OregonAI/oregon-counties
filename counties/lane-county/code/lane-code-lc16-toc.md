@@ -1,0 +1,215 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lane-county
+id: lane-code-lc16-toc
+title: 'LC16 TOC'
+doc_type: ordinance
+citation: 'LC16 TOC'
+authority_level: county_ordinance
+issuing_body: 'Lane County Board of Commissioners'
+source_url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16_TOC.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 7364506eeb9327c9e514905adeefea09e5f6e72472a3a3fff52eef03a0b18a66
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [lane-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lane County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# LC16 TOC (LC16 TOC)
+
+## At a glance
+
+LC16 TOC — code of Lane County. 4 pages.
+
+## Full text
+
+November 2024 16-i
+This Table of Contents is
+for reference only; it does
+not contain any links.
+LANE COUNTY LAND USE AND DEVELOPMENT CODE
+INTRODUCTORY AND GENERAL PROVISIONS
+16.001 Authority.
+16.002 Title and Legislative History.
+16.003 Purpose.
+16.004 Scope and Compliance.
+16.005 Use of a Development.
+16.006 Compliance Required.
+16.007 Compliance With Rural Comprehensive Plan.
+16.008 Interpretation.
+16.009 Restrictiveness.
+16.010 Severability.
+16.011 Introductory Provisions.
+16.012 Zone Classifications.
+16.013 Location of Zones.
+16.014 Plan Designation and Zoning Maps.
+16.015 Amendments to the Lane County Plan Designation and Zoning Maps.
+16.090 Definitions.
+16.095 Compliance with LC Chapter 15, Roads.
+16.096 Compliance with Erosion Prevention Code.
+
+DEVELOPMENTAL APPROVAL PROCEDURES
+16.100 Development.  Approval Procedures Relationship of Lane Code Chapter 14 into Lane Code Chapter 16.
+NONIMPACTED FOREST LANDS ZONE (F-1, RCP)
+16.210 Nonimpacted Forest Lands Zone (F-1, RCP).
+IMPACTED FOREST LANDS ZONE (F-2, RCP) RURAL COMPREHENSIVE PLAN
+16.211 Impacted Forest Lands Zone (F-2, RCP).
+EXCLUSIVE FARM USE ZONE (E-RCP) RURAL COMPREHENSIVE PLAN
+16.212 Exclusive Farm Use Zone (E-RCP).
+NATURAL RESOURCE ZONE (NR-RCP) RURAL COMPREHENSIVE PLAN
+16.213 Natural Resource Zone (NR-RCP).
+16.214 Marginal Lands Zone (ML-RCP).
+16.215 Park and Recreation Zone (PR-RCP).
+16.216 Quarry and Mine Operations Zone (QM-RCP).
+SAND, GRAVEL & ROCK PRODUCTS ZONE (SG-RCP)
+16.217 Sand, Gravel & Rock Products Zone (SG-RCP).
+SAND, GRAVEL & ROCK PRODUCTS-CONTROLLED PROCESSING ZONE (SG-CP-RCP)
+16.218 Sand, Gravel & Rock Products-Controlled Processing Zone (SG-CP-RCP).
+PUBLIC FACILITIES ZONE (PF/RCP)
+16.219 Public Facilities Zone (PF-RCP).
+LIMITED COMMERCIAL ZONE (C-1, RCP)
+16.220 Limited Commercial Zone (C-1, RCP).
+NEIGHBORHOOD COMMERCIAL ZONE (C-2, RCP)
+16.221  Neighborhood Commercial Zone (C-2, RCP).
+COMMERCIAL ZONE (C-3, RCP)
+16.222 Commercial Zone (C-3, RCP).
+RURAL COMMERCIAL ZONE (C-R, RCP)
+
+November 2024 16-ii
+This Table of Contents is
+for reference only; it does
+not contain any links.
+16.223 Rural Commercial Zone (C-R, RCP).
+LIMITED INDUSTRIAL ZONE (M-1, RCP)
+16.224 Limited Industrial Zone (M-1, RCP).
+LIGHT INDUSTRIAL ZONE (M-2, RCP)
+16.225 Light Industrial Zone (M-2, RCP).
+HEAVY INDUSTRIAL ZONE (M-3, RCP)
+16.226 Heavy Industrial Zone (M-3, RCP).
+INMATE WORK CAMP ZONE (IWC/RCP)
+16.227 Inmate Work Camp Zone (IWP/RCP).
+SUBURBAN RESIDENTIAL ZONE (RA-RCP)
+16.229 Suburban Residential Zone (RA-RCP).
+GARDEN APARTMENT RESIDENTIAL ZONE (RG-RCP)
+16.230 Garden Apartment Residential Zone (RG-RCP).
+RURAL RESIDENTIAL LANDS ZONE (RR-RCP)
+16.231 Rural Residential Lands Zone (RR-RCP).
+DESTINATION RESORT ZONE (DR-RCP)
+16.232 Destination Resort Zone (DR-RCP).
+HISTORIC STRUCTURES OR SITES COMBINING ZONE (/H-RCP)
+16.233 Historic Structures or Sites Combining Zone (/H-RCP).
+NATURAL ESTUARY ZONE (NE-RCP)
+16.234 Natural Estuary Zone (NE-RCP).
+CONSERVATION ESTUARY ZONE (CE-RCP) RURAL COMPREHENSIVE PLAN
+16.235 Conservation Estuary Zone (CE-RCP).
+16.236 Development Estuary Zone (DE-RCP).
+16.237 Significant Natural Shorelands Combining Zone (/SN-RCP).
+PRIME WILDLIFE SHORELANDS COMBINING ZONE (/PW-RCP)
+RURAL COMPREHENSIVE PLAN
+16.238 Prime Wildlife Shorelands Combining Zone (/PW-RCP).
+16.239 Natural Resources Conservation Combining Zone (/NRC-RCP).
+16.240  Residential Development Shorelands Combining Zone (/RD-RCP).
+SHORELANDS MIXED DEVELOPMENT COMBINING ZONE (/MD-RCP)
+16.241 Shorelands Mixed Development Combining Zone (/MD-RCP).
+DREDGE MATERIAL/MITIGATION SITE COMBINING ZONE (/DMS-RCP)
+16.242 Dredge Material Mitigation Site Combining Zone (/DMS-RCP).
+BEACHES AND DUNES COMBINING ZONE (/BD-RCP)
+16.243 Beaches and Dunes Combining Zone (/BD-RCP).
+FLOODPLAIN COMBINING ZONE (/FP-RCP)
+16.244 Floodplain Combining Zone (/FP-RCP).
+COMMERCIAL AIRPORT SAFETY COMBINING ZONE (/CAS-RCP)
+16.245 Commercial Airport Safety Combining Zone (/CAS-RCP).
+AIRPORT SAFETY COMBINING ZONE (/AS-RCP)
+16.246 Airport Safety Combining Zone (/AS-RCP).
+16.247 Airport Operations Zone (AO-RCP).
+
+November 2024 16-iii
+This Table of Contents is
+for reference only; it does
+not contain any links.
+
+RESOURCE CAPABILITY DETERMINATION
+16.248 Resource Capability Determination.
+ESTUARINE IMPACT ASSESSMENT
+16.249 Estuarine Impact Assessment.
+PARKING SPACE, HEIGHT, AREA, GENERAL BUILDING AND GENERAL LOT AREA AND WIDTH SETBACK
+REQUIREMENTS RURAL COMPREHENSIVE PLAN
+16.250 Parking Areas.
+NONCONFORMING USES RURAL COMPREHENSIVE PLAN
+16.251 Nonconforming Uses.
+PROCEDURES FOR ZONING, REZONING AND AMENDMENTS TO REQUIREMENTS RURAL COMPREHENSIVE
+PLAN
+16.252 Procedures for Zoning, Rezoning and Amendments to Requirements.
+16.253 Riparian Regulations.
+GREENWAY DEVELOPMENT PERMIT RURAL COMPREHENSIVE PLAN
+16.254 Greenway Development Permit.
+16.255  Temporary Permits.
+16.256 Variances.
+16.257 Site Review Procedures.
+16.258 Clear Lake Watershed Protection Zone (CLWP-RCP).
+SUBDIVISION AND DIRECTION SIGNS RURAL COMPREHENSIVE PLAN
+16.259 Subdivision and Direction Signs.
+CLUSTER SUBDIVISIONS RURAL COMPREHENSIVE PLAN
+16.260 Cluster Subdivisions.
+AUTHORITY TO CHARGE FEES RURAL COMPREHENSIVE PLAN
+16.261 Authority to Charge Fees.
+ENFORCEMENT REQUIREMENTS RURAL COMPREHENSIVE PLAN
+16.262 Enforcement Requirements.
+ENFORCEMENT RURAL COMPREHENSIVE PLAN
+16.263 Failure to Comply.
+TELECOMMUNICATION TOWER STANDARDS RURAL COMPREHENSIVE PLAN
+16.264 Telecommunication Tower Standards.
+TRANSPORTATION FACILITIES AND USES RURAL COMPREHENSIVE PLAN
+16.265 Transportation Facilities and Uses.
+GOSHEN INDUSTRIAL ZONES (GI, LI) RURAL COMPREHENSIVE PLAN (RCP)
+ 16.280 Goshen Industrial Zones (GI, LI)
+
+COMMUNITY RESIDENTIAL ZONE (CR) RURAL COMPREHENSIVE PLAN
+16.285  Community Residential (CR-RCP)
+16.286  Community Flex Use (CFU-RCP)
+16.287  Blue River Drive Overlay (BRDO)
+
+RURAL RESIDENTIAL ZONE (RR) RURAL COMPREHENSIVE PLAN
+16.290 Residential Zone (RR).
+
+RURAL COMMERCIAL ZONE (RC, RCP)
+
+November 2024 16-iv
+This Table of Contents is
+for reference only; it does
+not contain any links.
+16.291   Rural Commercial Zone (RC, RCP). RURAL INDUSTRIAL ZONE (RI, RCP)
+
+RURAL COMPREHENSIVE PLAN
+16.292 Rural Industrial Zone (RI, RCP).
+RURAL PUBLIC FACILITY ZONE (RPF, RCP) RURAL COMPREHENSIVE PLAN
+16.294 Rural Public Facility Zone (RPF, RCP).
+RURAL PARK AND RECREATION ZONE (RPR, RCP) RURAL COMPREHENSIVE PLAN
+16.295 Rural Park and Recreation Zone (RPR, RCP).
+PRIVATE USE AIRPORT OVERLAY ZONE (/PUAO, RCP) RURAL COMPREHENSIVE PLAN
+16.296 Private Use Airport Overlay Zone (PUAO, RCP)
+INTERCHANGE AREA MANAGEMENT PLAN COMBINING ZONE (/IAMP-RCP) RURAL COMPREHENSIVE PLAN
+16.297 Interchange Area Management Plan Combining Zone (/IAMP-RCP).
+LAND DIVISIONS RURAL COMPREHENSIVE PLAN
+16.300 Land Divisions.
+RURAL COMPREHENSIVE PLAN AMENDMENTS RURAL COMPREHENSIVE PLAN
+16.400 Rural Comprehensive Plan Amendments.
+RECREATIONAL MARIJUANA USE STANDARDS
+16.420 Recreational Marijuana Use Standards

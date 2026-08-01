@@ -1,0 +1,261 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-94-048
+title: 'Ordinance No. 94-048'
+doc_type: ordinance
+citation: 'Ordinance No. 94-048'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616699168_1994-44379-Ordinance%20No.%2094-048%20Recorded%2011_3_1994.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 4f063070f4d9705117e413a752009574471f736103f3a89e300826516a71614f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 94-048 (Ordinance No. 94-048)
+
+## At a glance
+
+Ordinance No. 94-048 — orders of Deschutes County. 6 pages.
+
+## Full text
+
+94- 44379
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF
+An Ordinance Repealing PL - 1, as Amended,
+and Adding a New Chapter 2. 52 to the County
+Code Concerning the County Planning
+Commission and Declaring an Emergency.
+ORDINANCE NO. 94- 048
+REVIEWED
+w
+DESCHUTE
+0137- 12L
+WHEREAS, the Board of County Commissioners adopted Ordinance No.
+PL - 1 concerning the County Planning Commission, effective January 1,
+1968; and
+WHEREAS, PL - 1 as it has been amended from time to time remains the
+authority under which the Planning Commission operates; and
+WHEREAS, it is desirable to update the Planning Commission' s
+authority to be consistent with current practice and the Bend Urban
+Area Planning Commission ordinance and to reformulate such authority
+for codification in the County Code; and
+WHEREAS, hearings with notice as required by law have been held
+before the Planning Commission and the Board of County Commissioners on
+this ordinance; now, therefore
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+ORDAINS as follows:
+Section 1. Repeal of PL - 1. Deschutes County Ordinance PL - 1, as
+amended, concerning the Deschutes County Planning Commission, is hereby
+repealed.
+Section 2. Adoption of Chapter 2. 52. A new chapter, Chapter
+2. 52, " Deschutes County Planning Commission," as set forth in Exhibit
+A attached hereto and by this reference incorporated herein, is added
+to and made a part of the Deschutes County Code, to replace PL - 1, as
+amended.
+Section 3. Existing Planning Commission Retained. Nothing in
+this ordinance shall alter the terms of office of the existing Planning
+Commission members, appointed under PL - 1, as amended. Consistent with
+their appointment under PL - 1, and as validated by this enactment, the
+terms of the existing Planning Commission members or Planning
+Commission seats are as follows:
+Ted Schassberger
+Elwin Ross
+Meaghan Dobert
+Everett Turner
+June 30, 1995)
+June 30, 1995)
+June 30, 1996)
+June 30, 1996)
+KE
+NCHED
+N01y94
+N.
+lCROFLIQED1 - ORDINANCE NO. 94- 048 ( November 9, 1994)
+NOV1619,94
+Beverly Toney
+Eric Dolson
+Andy Tillman
+013' 7. 1214
+June 30, 1997)
+June 30, 1998)
+June 30, 1998)
+Section 4. Authority for Previous Actions Retained. Nothing in
+this enactment shall affect the continuing authority of the Planning
+Commission concerning any matter that the Planning Commission currently
+has before it or on which it has taken action under pre- existing
+ordinance authority. Nothing in this ordinance shall affect the
+liability or rights of any person under any action taken by the
+Planning Commission under pre- existing ordinance authority.
+Section 5. Codification. County Legal Counsel shall have the
+authority to format the provisions contained herein in a manner that
+will integrate them into the County Code consistent with Legal
+Counsel' s form and style for ordinance codification. Such codification
+shall include the authority to make format changes, to make changes in
+numbering systems and to make such numbering changes consistent with
+interrelated code sections. In addition, as part of codification of
+these ordinances, County Counsel may insert appropriate legislative
+history references. Any legislative history references included herein
+are not adopted as part of the substance of this ordinance, but are
+included for administrative convenience and as a reference. They may
+be changed to correct errors and to conform to proper style without
+action of the Board of County Commissioners.
+Section 6. Emergency. This Ordinance being necessary for the
+immediate preservation of the public peace, health and safety, an
+emergency is declared to exist, and this Ordinance takes effect on its
+passage.
+y
+DATED this day ofd, 1994.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY,, bREGON
+ATT -;,,,
+6 LL,,
+P
+Recording Secretary
+611
+NANCY PQ4E SCHa,ANGEN, C
+two
+TO. O THROO , Commissioner
+BARRY H. SLAUGHTER, Commissioner
+2 - ORDINANCE NO. 94- 048 ( November
+c,
+1994)
+Exhibit A to 0137- 121.5
+Ordinance 94- 048
+CHAPTER 2. 52
+DESCHUTES COUNTY PLANNING COMMISSION
+2. 52. 010 Created - Jurisdiction.
+There shall be a Deschutes County Planning Commission
+commission"). It shall be the Planning Commission for the
+unincorporated area of the county outside the adopted Urban Growth
+Boundaries of the Bend, Redmond and Sisters Urban Areas.
+2. 52. 020 Membership - Qualifications.
+A. The commission shall be composed of seven members,
+appointed by the Board of County Commissioners, who reside within
+the County.
+B. No more than two members may be engaged in the same kind of
+occupation, business, trade or profession, or be members, officers
+or employees of any partnership or corporation that engages
+principally in the buying, selling or developing of real estate for
+profit.
+C. No commission member shall serve more than two full terms
+or ten years, whichever is greater, except that the Board of County
+Commissioners may extend the term of a planning commission member to
+complete a project which commenced prior to expiration of the term.
+In no case shall such extension exceed six months.
+D. The membership of the commission shall, as much as
+possible, be representative of the various geographic areas of the
+county. This should generally consist of the following: One member
+from the South County area of LaPine and Sunriver ( Townships 19- 22) ;
+two members from the Bend area ( Townships 17 and 18) ; one member
+from the Tumalo area ( Townships 16, Ranges 11 or 12) ; one member
+from the Sisters area ( Townships 14 or 15, Ranges 9, 10 and 11); one
+member from the Redmond area ( Townships 14 or 15, Ranges 12 or 13);
+and one member at large. Failure to achieve such geographic
+representation shall not affect the validity of any action taken by
+the Planning Commission.
+2. 52. 030 Expense reimbursement.
+Commission members shall receive no compensation, but shall be
+reimbursed for authorized expenses.
+Page 3 - Exhibit A to 94- 048 ( November, 1994)
+2. 52. 040 Removal from office - Conditions. 013'-- 1216
+A member of the commission may be removed by the Board of
+County Commissioners for findings of misconduct, non- performance of
+duty, or three consecutive unexcused absences from regular meetings.
+2. 52. 050 Vacancy filling.
+Vacancies on the commission shall be filled by the Board of
+County Commissioners for the unexpired term of the predecessor in
+office. Vacancies in the commission created by the expiration of a
+member' s term shall be filled by the Board of County Commissioners
+for a term of four years. The terms of office shall start on
+July 1.
+2. 52. 060 Chair and Vice - Chair.
+At its first meeting in January of each year, the commission
+shall elect from among its membership a chair and a vice - chair. No
+commissioner shall be chair for more than two consecutive years.
+2. 52. 070 Meeting schedule.
+The commission shall hold at least one regular meeting each
+month at a time and place fixed by it.
+2. 52. 080 Quorum, rules and procedures.
+A majority of the members of the commission shall constitute a
+quorum. The commission may establish rules, regulations and
+procedures for its operation consistent with applicable laws of the
+state and the county.
+2. 52. 090 Conflicts of interest.
+A member of the commission shall not participate in any
+commission proceeding or action in which any of the following have
+a direct, substantial financial interest: the member or his or her
+spouse, brother, sister, child, parent, father- in- law, mother- in- law
+or any business which he or she is negotiating for or has an
+arrangement or understanding concerning prospective investment or
+employment. Any actual or potential interest shall be disclosed at
+the meeting of the commission where the matter is being considered.
+Page 4 - Exhibit A to 94- 048 ( November ,, 9', 1994)
+2. 52. 100 Powers and duties.
+A. The commission shall have the following duties.
+1. To carry out a comprehensive planning program, using
+citizen input and public hearings when appropriate, within its area
+of jurisdiction and to coordinate its activities with other
+jurisdictions, planning bodies and districts;
+2. To review at its discretion land use decisions of the
+Hearings Officer within its jurisdiction under Deschutes County
+ordinances;
+3. To act as the citizen involvement committee under the
+Deschutes County Comprehensive Plan, PL - 20 and advise the Board of
+County Commissioners on citizen involvement programs; to study and
+propose such measures as are advisable for promotion of the public
+interest, health, safety, comfort, convenience and welfare within
+the geographic area of the Commissions, jurisdiction.
+2. 52. 110 Advisory duties.
+The commission may:
+A. Recommend and make suggestions to the Board of County
+Commissioners and other public authorities concerning the laying
+out, widening, extending and locating of public thoroughfares,
+parking of vehicles, relief of traffic congestion, betterment of
+housing and sanitation conditions, and establishment of districts
+for limiting the use, height, area, bulk and other characteristics
+of buildings and structures related to land development within the
+county.
+B. Recommend to the Board of County Commissioners, and other
+public authorities, plans for regulating the future growth,
+development and beautification of the county, and development within
+the county of proper sanitation, public utilities, transportation
+facilities and appropriate incentives for overall energy
+conservation;
+C. Recommend to the Board of County Commissioners, and other
+public authorities, plans for the promotion, development and
+regulation of the economic needs of the community.
+D. Evaluate and make recommendations to the Board of County
+Commissioners, and other public authorities, on the regulation,
+conservation and use of natural resources.
+Page 5 - Exhibit A to 94- 048 ( November f4, 1994)
+0137- 1218
+2. 52. 120 Staff services.
+The County Planning Staff is responsible for preparing staff
+reports and submitting them to the commission. The staff shall
+prepare public notices and set agendas for the Planning Commission.
+The staff shall keep minutes, findings and reports of the Planning
+Commission as public records. The County Planning Director and
+County Legal Counsel or their respective designees may serve as ex -
+officio, non- voting members of the Planning Commission.
+Page 6 - Exhibit A to 94- 048 ( November J9', 1994)

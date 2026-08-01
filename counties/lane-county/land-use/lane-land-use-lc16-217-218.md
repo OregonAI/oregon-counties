@@ -1,0 +1,508 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lane-county
+id: lane-land-use-lc16-217-218
+title: 'LC16.217 218'
+doc_type: ordinance
+citation: 'LC16.217 218'
+authority_level: county_ordinance
+issuing_body: 'Lane County Board of Commissioners'
+source_url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.217_218.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 372fdcffbbfd7515095ed20728f5d32b0f6ed9c8df4fb8911fea47e8702cafc5
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [lane-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lane County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# LC16.217 218 (LC16.217 218)
+
+## At a glance
+
+LC16.217 218 — land use of Lane County. 12 pages.
+
+## Full text
+
+Lane Code
+CHAPTER 16 CONTENTS
+
+January 2013 16-i
+SAND, GRAVEL & ROCK PRODUCTS ZONE (SG-RCP)
+16.217 Sand, Gravel & Rock Products Zone (SG-RCP).
+SAND, GRAVEL & ROCK PRODUCTS-CONTROLLED PROCESSING ZONE (SG-CP-RCP)
+16.218 Sand, Gravel & Rock Products-Controlled Processing Zone (SG-CP-RCP).
+
+January 2013 16-251 LC16.217_218
+SAND, GRAVEL & ROCK PRODUCTS ZONE (SG-RCP)
+RURAL COMPREHENSIVE PLAN
+
+16.217 Sand, Gravel & Rock Products Zone (SG-RCP).
+ (1) Purpose.  The intent of the Sand, Gravel and Rock Products Zone (SG-RCP) is to:
+  (a) Recognize that sand and gravel deposits within the County are an unrenewable
+natural resource and beneficial to the economy of the County and the welfare of its people.
+  (b) Identify and zone under this zone major deposits of sand and gravel, rock and related
+material resources.
+  (c) Provide for the utilization of this resource in a manner compatible with other land
+uses in the area.
+  (d) Encourage the regular, systematic and uninterrupted extraction and processing of
+such resources.
+  (e) Establish procedures for assuring protection of public health and safety on and
+adjacent to land used for extraction and processing.
+  (f) Prevent irresponsible extraction of material resources, to the detriment of the public.
+  (g) Provide standards to be observ ed during the extraction process with a view to
+ultimate utilization of the site.
+  (h) Carry out these purposes with the recognition of a need for said resources and the
+right of each property owner to make a reasonable use of his or her land.
+  (i) Implement the policies of the Lane County Rural Comprehensive Plan.
+  (j) Be applied only to those sites which have been evaluated consistently with the
+Statewide Planning Goal #5 Administrative Rule conflict resolution process.
+ (2) Definitions.  Where confli cting, for the purposes of this section only, the following
+definitions supersede definitions otherwise provided in this Code:
+  Director.  The Director of the Department of Public Works of Lane County.
+  Overburden. All materials lying on top of valuable sand and gravel deposits which must be
+moved in order to extract those valuable sand and gravel deposits.
+  Review Committee.  The Sand and Gravel Review Committee authorized to administrate
+the provisions of this section.
+ (3) Permitted Uses.  In the SG -RCP zone, the following uses are permitted subsequent to the
+following restriction:  For any property designated in the Eugene -Springfield Metropolitan Plan as
+significant in terms of OAR.660- 16.000/025 and designated as '1B', a Goal 5 ESEE consequences
+analysis per the Goal #5 Administrative Rule must first be completed.  If the landowner and County do
+not agree on the method to achieve the Goal, the matter shall be forwarded to the Hearings Official for
+processing consistent with LC 16.100.
+  (a) Sand and gravel operations which entail the extraction, stockpiling and processing of
+sand, gravel, overburden and topsoil shall be permitted, subject to the requirements of the subsections of
+this section, but quarrying, smelting, ore reduction and other similar uses shall be excluded.
+  (b) The following uses shall be permitted, subject to the requirements of the subsections
+of this section, when conducted in conjunction with a sand and gravel operation as defined in LC
+16.217(3)(a) above, on the same parcel or contiguous parcels of land on which the operation is being
+conducted.
+   (i) Asphalt paving-mix plant.
+   (ii) Cement concrete batching plant.
+   (iii) Aggregate products fabrication and sale.
+   (iv) Sand and gravel resource-related contractor's equipment storage yard.
+   (v) Sand and gravel resource-related contractor maintenance and storage buildings.
+   (vi) Offices and warehouses appropriate to the uses permitted in this zone.
+   (vii) Retail or wholesale sales of products related to the use of sand, gravel and
+related products.
+
+January 2013 16-252 LC16.217_218
+  (c) Other uses permitted:
+   (i) Agriculture, grazing or timber raising.
+   (ii) Dwellings for owners, operators or help required to carry out LC
+16.217(3)(b)(i) above.
+   (iii) Accessory buildings normally required in LC 16.217(3)(b)(i) above.
+   (iv) Extraction of sand, gravel and overburden, any combination of which does not
+exceed 1,000 cubic yards in any calendar year.
+   (v) Electrical facilities providing only direct service to a use authorized in this
+zone.
+   (vi) Transportation facilities and uses as specified in LC 16.265(3)(a) through (q).
+  (d) Signs to be used in connection with sand and gravel operations:
+   (i) Identification signs (exterior) shall be limited to two per business
+establishment, and shall be designed as part of the building.
+ (4) Site Improvement Standards.
+  (a) General.  Site improvement standards hereunder are minimum standards to be
+observed during extraction processes to assure that the site shall be clean and orderly and left in a
+condition conducive to appropriate uses after extraction has been completed.  Improvement of the site
+shall be a continuing process of planning, so that the ultimate redevelopment will be assisted by the
+extractive process.
+  (b) Minimum Site Improvement Standards.  The following mini mum standards of site
+improvements shall be met during the extraction process.
+   (i) Slopes and Grading.
+    (aa) Excavations made to any setback lines shall meet the following
+requirements:
+     (A) Excavations not made to water-producing depth.
+      (i-i) All banks will be left with slopes no steeper than the
+natural contours of the immediately surrounding area, except that steeper slopes will be permitted if the
+slopes are designed to be stable by a soils engineer licensed in the State of Oregon.  If slopes are steeper
+than one vertical to one and one -half horizontal, provisions will be made so that a person can find safe
+egress from any point on the shoreline of the excavation.
+      (ii-ii) The bottom of any excavation s hall be gradually sloped
+and graded so that surface water shall drain into one low area of the excavation.  If normal natural
+drainage is practicable, the excavated areas shall be graded to drain surface waters.
+     (B) Excavations made to water -producing depth which are not
+subject to periodic redepositing of extractive material by inundation of stream or river.
+      (i-i) The minimum depth of excavation must be not less than
+eight feet below low watermark measured in the year of excavation, provided that if subsurface conditions
+shall prevent excavation to such depth the depth may be less, if an administrative variance is granted or
+the operator has provided a reasonable alternative which will substantially prevent stagnation of water and
+growth of water vegetation.
+      (ii-ii) All banks shall be sloped at a ratio no steeper than one
+vertical to two horizontal (1:2) to a water depth of three feet, measured from low watermark.
+    (bb) The operator shall not be required to comply with the standards of LC
+16.217(4)(b)(i)(aa) above in areas currently under excavation which are not adjacent to setback lines,
+provided that such area shall remain bonded until the standards of LC 16.217(4)(b)(i)(aa) above are met.
+   (ii) Drainage.  Upon completion of operations, the condition of the land shall allow
+sufficient drainage to prevent water pockets or undue erosion.  Natural and storm water drainage shall be
+maintained so as to prevent harmful effects on surrounding property.
+   (iii) Topsoil.  Topsoil removed shall be retained on property in sufficient quantities
+to restore all grade or backfilled areas and on bank slopes above high water level.  Such areas shall be
+covered with four inches of topsoil of at least equal quality to that removed; provided that, if the  average
+
+January 2013 16-253 LC16.217_218
+depth of topsoil prior to excavation was less than four inches, then the depth required shall be such lesser
+average.
+   (iv) Cover and Planting.  Upon replacement of topsoil, the operator shall provide
+ground cover of his or her own selection adequate to control erosion.
+   (v) Setbacks for Excavation.  Excavation shall not be conducted closer than 150
+feet to any property boundary, except as herein provided.
+    (aa) The Director may grant an administrative variance to decrease the
+setback upon s howing that the eventual utilization of the site is compatible with a smaller setback up to
+the following minimums:
+     (A) Fifty feet from the boundary of any nonresidential zone, or the
+right-of-way of an existing street or road.
+     (B) One hundred feet from the boundary of a residential zone.
+    (bb) The Director may grant an administrative variance to waive the setback
+from adjoining property in a Sand, Gravel and Rock Products Zone, if no flood hazard will result.
+    (cc) The setback area may be excavated to reduce the elevation thereof to the
+grade of an adjoining public street or road.
+    (dd) Excavation may be conducted within the setback area under a plan
+approved by the Director through an administrative variance whereby the excavated area wi ll be refilled
+with other materials which will neither decompose nor pollute underground waters.
+    (ee) When excavation is completed adjoining a setback, the setback area shall
+be smoothed, all excavation debris removed, and all trees which are in an uns afe condition removed.
+However, such setback areas may be used for permitted uses under LC 16.217(3)(b) and (c) above,
+subject to other provisions of this Chapter.
+   (vi) Cleanup and Removal of Structures.
+    (aa) During operations, the site shall be ke pt free of debris.  All overburden
+shall be stockpiled or disposed of and all stumps, brush or other debris resulting from cleaning or
+excavating shall be burned or otherwise disposed of.
+    (bb) Within three years after the termination of an operation as  defined in LC
+16.217(3)(a) above, all buildings, structures or plants which were used incidental to the operation and
+were abandoned with the termination of the operation shall be dismantled and removed.
+   (vii) Site Improvements for Nonconforming Pre-existing Uses.
+    (aa) To the extent to which operations upon property have been completed
+when said property is included within the Sand, Gravel and Rock Product Zone, the provisions of the
+zone shall not be applicable.
+    (bb) If the operator shall resum e excavations on property which had been
+excavated when it was included in the Sand, Gravel and Rock Products Zone, then:
+     (A) If banks cannot be sloped to the ratios required because the same
+are within minimum setback areas,  or if the excavation is within the minimum setback areas, the operator
+shall either:
+      (i-i) Obtain an administrative variance from the minimum
+setback in order to accomplish such sloping; or
+      (ii-ii) Erect a fence along such nonconforming banks according
+to specifications ordered by the Director.
+     (B) Grading shall not be required after securing an administrative
+variance if such area has been covered by brush or vegetation which would make such work burdensome
+and uneconomic.
+     (C) Additional depth of excavation shall not be mandatory to
+conform to minimum depth standards.
+     (D) The operator shall not be required to change nonconforming
+setback areas.
+
+January 2013 16-254 LC16.217_218
+ (5) Operation Standards.  All facilities shall be constructed, maintai ned and operated, and all
+operations shall be conducted in the zone in accordance with the standards set forth in this section.
+  (a) Setbacks.
+   (i) All equipment for processing operations shall not be built, erected or located
+closer than 50 feet to the  perimeter boundary line of the property under the ownership or control of the
+operator or the right -of-way of an existing road, except when said boundary adjoins a residence or
+residential (R) zone, in which case no equipment shall be located within 150 f eet of said residence or
+zone.
+   (ii) Stockpiling of sand and gravel and sedimentation ponds shall not be located
+closer than 25 feet to the perimeter boundary line or the right-of-way of an existing road.
+   (iii) If provisions of Chapter 11 of this Code  as existing or hereinafter amended
+shall require greater setbacks than provided herein, then such Chapter shall apply.
+   (iv) The Director may allow smaller setbacks after following administrative
+variance procedure.
+  (b) Frontage and Access.  Each tra ct of land used for uses permitted in LC 16.217(3)(a)
+and (b) above shall have 60- foot frontage on a public road or easement of  access to a public road
+connecting with the public road system of Lane County.
+  (c) Screen Landscape.  Existing trees and natu ral vegetation along a public park or
+public road, or adjoining a residential (R) zone, shall be preserved for a width of 25 feet or within the
+minimum setback, whichever is less.
+  (d) Signs.
+   (i) Business and Directional Signs.  See LC 16.217(3)(d) above.
+   (ii) SG.RCP Zone Identification.  The County, at its expense, shall have the right
+to put signs on the boundaries of any active operation which read:
+    THIS PROPERTY MAY BE USED FOR SAND AND GRAVEL
+EXTRACTION PROCESSING.
+  (e) Road Condition.  All  private access and service roads shall be maintained in a dust -
+free condition during intensive operations.
+  (f) Off Street Parking - Parking Areas.  All parking facilities for employees and
+customers shall be located within the boundaries of the property under the control of the operator.
+  (g) Safety Fencing.  During operations when any open excavation will have a depth of 10
+feet or more, and will create a slope steeper than one vertical to two horizontal (1:2) for a period of more
+than 120 days, and is located within 200 feet of residentially occupied structures or a public road, a fence
+shall be erected at least 10 feet outside the edge of such excavation at least four feet in height, to control
+access to such excavation.
+  (h) Stream Operations.  Oper ations in or adjacent to streams shall conform to the
+following standards:
+   (i) The turbidity of the stream adjacent to the operations shall not be increased by
+more than five Jackson Turbidity Units.
+   (ii) There shall be no direct discharge of gravel -washing waters into an adjacent
+stream
+   (iii) Operators shall work behind dikes which are of sufficient height to control
+turbidity during low water seasons.  Where the dike forms the permanent river bank according to a river
+plan which may be adopted by  the Board, the berm of the dike shall be of sufficient width and height to
+contain annual high water.
+   (iv) Equipment shall not be operated in the flowing streams, except to construct or
+maintain berms or to make channel improve ments according to a river plan that may be adopted by the
+Board.
+   (v) After a river plan is adopted, the river channel shall not be diverted from its
+normal course unless a permanent river channel is developed.
+
+January 2013 16-255 LC16.217_218
+   (vi) The Director may waive the requirements of LC 16.217(5)(h)(iv) and (v) above
+for limited periods of time.
+ (6) Performance Bond.
+  (a) Except during the 60- day period provided for by LC 16.217(9)(a)(i) below, no
+excavation shall be permitted within this zone in areas which are not covered by a performance bon d in
+the amount of $500 per acre, and any additional dollar amounts determined by the Director to be
+necessary for side restoration, which has been submitted to the Director and accepted by the Board.  The
+amount of acreage to be bonded shall be left to the choice of the operator, but no excavation shall be
+permitted within this zone in areas which are not covered by a performance bond in the amount of $500
+per acre, and any additional dollar amounts determined by the Director to be necessary for site restoration,
+which has been submitted to the Director and accepted by the Board.  The amount of acreage to be
+bonded shall be left to the choice of the operator, but no excavation shall be permitted in any area which
+has not been bonded.
+   (i) The performance bond shall be issued by a corporate surety licensed to issue
+surety bonds in the State of Oregon, or shall be in another form approved by the Director.
+   (ii) The bond shall guarantee the faithful performance of all applicable site
+improvement standards specified in LC 16.217(4) above for all areas excavated after the land is zoned
+hereunder.
+  (b) The operator may at any time make application to the Board for release of any bond
+as to specified acreage which either has not been excavated or has been excavated and restored to the
+standards contained herein.  Within 30 days after the date of such application, the Board shall consider the
+application and, if the Board shall determine that the site improvement standards have been performed on
+specified acreage, then the bond shall be released as to such acreage.
+  (c) If acreage excavated is not restored according to the applicable site improvement
+standards, the County, or its designated representative, may enter upon such property, make the required
+improvements and present the operator and the corporate surety with a statement of expenses.  The surety
+bond shall guarantee payment to the County for its expenses incurred, not to exceed $500 per acre, and
+any additional dollar amount determined by the Director to be necessary for site restoration.
+ (7) Administration.
+  (a) Sand and Gravel Review Committee.  A Sand and Gravel Review Committee,
+hereinafter designated the Review Committee, is hereby established and authorized to determine if
+operating plans or revised plans comply with the requirements of this Chapter and with a river plan which
+may be adopted by the Board.
+   (i) Membership. The Review Committee shall consist of the following members:
+    (aa) The Planning Director, who shall act as Review Committee Secretary.
+    (bb) The Public Works Director.
+    (cc) The Parks and Recreation Director.
+    (dd) The Director of Building and Sanitation Department (Chief Sanitarian)
+    (ee) The County Hydrogeologist.
+    (ff) The County Floodplain Specialist.
+   (ii) Advisory Board.  The Review Committee may appoint an advisory board of at
+least five members.  Meetings of the advisory board shall be called by the Review Committee for the
+purpose of assisting in the development of a river plan, and in particular to make recommendations
+regarding operations along rivers and streams.
+     The advisory board shall include:
+    (aa) A member of the Soil Conservation Service.
+    (bb) A member from a local conservation group.
+    (cc) A member of the general public.
+    (dd) A member from the sand and gravel industry and an alternate, in case
+this member's firm is being considered by the Review Committee.
+    (ee) A member of a Lane County farm organization.
+
+January 2013 16-256 LC16.217_218
+    (ff) Any other appropriate person.
+   (iii) Written Records.  The Review Committee and advisory board shall keep
+written records of all their deliberations.
+   (iv) Referrals.  Upon receiving the operating plan or revised plan, the Director shall
+immediately forward, together with notification of s cheduled meeting time and place of the Review
+Committee, eight copies to the clerk of the Oregon State Land Board, two copies to the US Corps of
+Engineers or other appropriate hydrologic agency, and one copy to the State Water Resources Board.
+One copy of the plan, or a summary thereof, shall also be referred to each member of the advisory board.
+   (v) After obtaining the necessary permits of the Oregon State Land Board or the
+US Corps of Engineers or other appropriate hydrologic agency, the Review Committee shall, within seven
+days, approve the plans or require modification in the plans to conform with the requirements of this
+Chapter and with a river design plan which may be adopted by the Board.
+   (vi) The operator shall be allowed to proceed in accord ance with the approved or
+modified plans.  The Director of Public Works shall be charged with the duty of determining if there has
+been compliance with the plans through inspection of the property and examination of the aerial
+photographs submitted.  When an operator fails to proceed in accordance with the plans, the operation
+shall be treated as an unauthorized use, and the Director may proceed under the authority of LC 16.262 of
+this Chapter.  The operator shall then be subject to the penalties of LC 16.2 63 of this Chapter, and the
+continuation or the expansion of the operation may be enjoined to the extent permitted by law.
+   (vii) Decisions by the Review Committee pursuant to LC 16.217(7)(a)(v) above
+may be appealed in the same manner as provided for in LC 14.500 for appeals of decisions by the
+Director.
+  (b) Variances.  Variances to dimensional standards such as setbacks and slope ratios
+within this zone are subject to approval by the Director pursuant to LC 14.100 and must conform to the
+following criteria:
+   (i) The variance is not in conflict with the general purpose and intent of the zone.
+   (ii) There are exceptional or extraordinary circumstances applicable to the property
+involved.
+   (iii) The denial of the request would result in undue and un reasonable property loss
+to the applicant.
+   (iv) The variance will not be detrimental to the public welfare or convenience, nor
+injurious to the property or improvements of other owners of other property.
+ (8) Materials to be Filed .  The following materi als must be filed with the Director by any
+person conducting the use specified in LC 16.217(3) above within a Sand, Gravel and Rock Products
+Zone:
+  (a) Vertical aerial photograph of all land included in the plan of operations required in
+LC 16.217(8)(e) below enlarged to a scale no smaller than one inch to 200 feet, which is certified by the
+photographer to have been photographed not more than one year prior to submission.
+   Photographs taken prior to one year from the date of submission may be submitted, if
+accompanied by a signed declaration of the owner that there have been no substantial changes in land
+form.
+  (b) A legal description of the property described above.
+  (c) A general boundary map, in reproducible form, of the property under the applicant's
+control, drawn on assessor's maps or the equivalent, or an overlay for the aerial photograph showing
+boundaries of the property.
+  (d) Identification of public roads providing direct access to the property.
+  (e) A general plan of operation in transpar ent overlay form shall be filed with the
+Director, containing the following information:
+   (i) Areas of existing and proposed settling ponds and washing plant facilities.
+   (ii) Areas of existing and proposed processing facilities and stockpiles.
+   (iii) Areas of existing and proposed facilities for resource-related operations.
+
+January 2013 16-257 LC16.217_218
+   (iv) Areas proposed for excavation, showing adjacent setback areas.
+   (v) A statement on the transparent overlay, or in text form, specifying the
+approximate acreage for each of said areas and the average thickness of overburden and topsoil in the
+areas proposed for excavation.
+   (vi) A series of typical cross sections of excavated areas and areas proposed for
+excavation which are related directly to the aerial photograph of the area, for the purpose of evaluating the
+possible flood and erosion hazards of the proposed operations, and of determining compliance with
+provisions of a river plan which may be adopted by the Board.
+   (vii) Approximate locations of the areas specified  in LC 16.217(8)(e) (i) through
+(iv) above, and of the typical cross sections, shall be identified on either the boundary map of the area of
+the aerial photograph. Approximate acreage for each of the said areas shall be specified.
+  (f) If an operation sh all have facilities or stockpiles which existed prior to enactment of
+this zone for any specific area which do not conform to the setback or other standards set forth herein and
+which are not required to conform, the operator or owner shall also submit spe cific information as to the
+location of such nonconforming facilities or stockpiles with identifying maps showing actual locations
+and distances from property lines.
+ (9) Filing Procedures.
+  (a) The materials required to be filed by LC 16.217(8) above shall be filed with the
+Director:
+   (i) Within 60 days after an area in which the sand and gravel operation is being
+conducted is zoned as a Sand and Gravel Zone.
+   (ii) Prior to the commencement of excavation of sand and gravel in an area zoned
+as a Sand and Gravel Zone.
+  (b) Whenever any person conducting the use specified in LC 16.217(3)(a) above plans
+any operation or facility in conflict with or not covered by the plan of operation which was required to be
+filed by LC 16.217(8)(e) above, the operator shall file with the Director, for evaluation, a revised plan of
+operation and aerial  photograph meeting the requirements of LC 16.217(8)(a) and (d) above.
+ (10) Uses Subject to Hearings Official Approval .  The following uses are permitted subject to
+submittal of an application pursuant to LC 14.040, review of the application by the Hearings Official
+pursuant to LC 14.300 and subject to compliance with this criteria and standards specified in this chapter
+of Lane Code:
+  (a) Facilities transmitting electrical current in any single cable or group of cables or lines
+through the Sand and Gravel Zone.
+ (11) Special Use Approval Criteria.  Uses specified under LC 16.217(10) above shall comply
+with the following criteria:
+  (a) Conformity with the Rural Comprehensive Plan for Lane County.
+  (b) The location, size, design and operating characteristics of the proposed use:
+   (i) Will be compatible with and will not adversely affect the livability or
+appropriate development of abutting properties and the surrounding vicinity, and
+   (ii) Will not be adversely affected by the development of abutting properties and
+the surrounding vicinity. (Consideration may be given to harmony in scale, bulk, coverage and density; to
+the availability of public facilities and utilities; to the harmful effect, if any, upon desirable neighborhood
+character, to the generation of traffic and the capacity of surrounding streets and roads; and to any other
+relevant impact of the use.)
+   (iii) Will not be adversely affected by known natural hazards, such as floods, slides,
+erosion.
+   (iv) Will not create a hazardous natural condition such as erosion, landslide,
+flooding. (Revised by Ordinance No. 7-87, Effective 6.17.87; 10-04, 6.4.04)
+
+SAND, GRAVEL & ROCK PRODUCTS-CONTROLLED PROCESSING ZONE (SG-CP-RCP)
+RURAL COMPREHENSIVE PLAN
+16.218 Lane Code 16.218
+
+January 2013 16-258 LC16.217_218
+
+16.218 Sand, Gravel & Rock Products-Controlled Processing Zone (SG-CP-RCP).
+ (1) Purpose.  The provisions of the Sand, Gravel &  Rock Products-Controlled Zone (SG -CP-
+RCP) are intended to provide more restrictive control of processing activities than the Sand, Gravel &
+Rock Products Zone (SG-RCP), for the purpose of encouraging the preservation and orderly extraction of
+sand and gravel deposits and for the protection of surrounding properties by the exercise of greater control
+over the location and operation of sand and gravel extraction processing activities.  It is further intended
+by the establishment of the SG -CR-RCP Zone that the Comprehensive Plan for Lane County and any
+pertinent special studies shall be used as a basis to determine where this zone would be more appropriate
+than the SG-RCP Zone.
+  The SG -CP-RCP zone shall only be applied to those sites which have been evaluated
+consistently with the Statewide Planning Goal #5 Administrative Rule conflict resolution process.
+ (2) Regulations.  The requirements of the SG.CP.RCP Zone shall be the same as provided in
+the SG.RCP Zone (LC 16.217), except as expressly provided in this section.
+  (a) Land Use Compatibility as Operation Standard.  The Sand and Gravel Review
+Committee shall evaluate, in its consideration of operational plans as provided in LC 16.217(7), the
+location for the erection or enlargement of all processing equipme nt and activities, including, but not
+limited to, asphalt paving -mix and cement concrete batching plants, by the criteria set forth in LC
+16.218(3) below.  In addition to these criteria, the Review Committee shall consider compliance with the
+adopted Comprehensive Plan of Lane County and shall further consider special studies which have been
+developed for the subject area.  Notwithstanding the provisions of 16.217(a)(v), the Committee shall
+disapprove all or a part of any portion of any operations plan involving such processing equipment or
+activities which, in the Committee's judgment, do not conform to the above -described criteria, plans or
+studies.
+  (b) Administration.
+   (i) In addition to the same administrative procedures as pro vided in LC
+16.217(7)(a)(i) through (iv), the following procedures shall apply for (1) processing equipment and
+activities, including, but not limited to, asphalt paving -mix and cement concrete batching plants, and for
+(2) operations plans which include a request to vary the mi nimum setback dimen sions provided in LC
+16.217(5)(a) from an SG-CP-RCP Zone boundary.
+    (aa) Review Committee Action. Within seven days after obtaining the
+necessary recommendations of the Oregon State Lane Board or the US Corps of Engineers or other
+appropriate hydrologic agency, the Review Committee shall (a) approve the plans or require modification
+in the plans to conform with the requirements of this Chapter and with a river design plan which may be
+adopted by the Board, or (b) disapprove the plans as authorized in LC 16.218(2)(a) above. The Review
+Committee shall follow LC 14.100 when approving, modifying or denying plans. Decisions by the
+Review Committee pursuant to LC 14.100 may be appealed in the same manner as provided for in LC
+14.500 for appeals of decisions by the Director.
+    (bb) Approved Plans.  The operator shall be allowed to proceed in accordance
+with the plans as finally approved by the Sand and Gravel Review Committee, or Board of Commis -
+sioners in the event of appeal.  The Director of Public Works shall be charged with the duty of
+determining if there has been compliance with the plans through inspection of the property and
+examination of the aerial photographs submitted.  When an operator fails to proceed in accordance with
+the plans, the operation shall be treated as an unauthorized use, and the Director may proceed under the
+authority of LC 16.262 of this Chapter or other applicable laws.  The operator shall then be subject to the
+penalties of LC 16.263 of this Chapter or other app licable law, and the continuation or the expansion of
+the operation may be enjoined to the extent permitted by law.  Variances to dimensional standards
+provided in LC 16.217(5) shall be considered by the Review Committee as a part of the consideration of
+operational plans and are subject to the same standards and criteria contained in LC 16.217(7)(b).
+ (3) Operational Plan Approval Criteria .  Compliance to the following criteria is required as
+provided in LC 16.218(2)(a) above:
+16.218 Lane Code 16.218
+
+January 2013 16-259 LC16.217_218
+  (a) Conformity with the Rural Comprehensive Plan for Lane County.
+  (b) The location, size, design and operating characteristics of the proposed use:
+   (i) Will be compatible with and will not adversely affect the livability or
+appropriate development of abutting properties and the surrounding vicinity., and
+   (ii) Will not be adversely affected by the development of abutting properties and
+the surrounding vicinity. (Consideration may be given to harmony in scale, bulk, coverage and density; to
+the availability of public facilities and utilities; to the harmful effect, if any, upon desirable neighborhood
+character, to the generation of traffic and the capacity of surrounding streets and roads; and to any other
+relevant impact of the use.)
+   (iii) Will not be adversely affected by known natural hazards, such as floods, slides,
+erosion.
+   (iv) Will not create a hazardous natural condition such as erosion, landslide,
+flooding.
+ (4) Permitted Uses.  In the SG -CP-RCP zone, the following uses are per mitted subject to the
+following restriction:  For any property designated in the Eugene -Springfield Metropolitan Plan as
+significant in terms of OAR 660 -16-000/025 and designated as '1B', a Goal #5 ESEE consequences
+analysis per the Goal #5 Administrative Rule must first be completed.  If the landowner and County do
+not agree on the method to achieve the Goal, the matter shall be forwarded to the Hearings Official for
+processing consistent with LC 16.100. (Revised by Ordinance No. 7-87, Effective 6.17.87; 7-12, 12.28.12)
+
+16.218 Lane Code 16.218
+
+January 2013 16-260 LC16.217_218
+
+THIS PAGE INTENTIONALLY LEFT BLANK
+
+16.218 Lane Code 16.218
+
+January 2013 16-261 LC16.217_218
+
+PAGES 16-262 THROUGH 16-280
+ARE RESERVED FOR FUTURE EXPANSION

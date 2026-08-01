@@ -1,0 +1,4725 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2023-014
+title: 'Ordinance No. 2023-014'
+doc_type: ordinance
+citation: 'Ordinance No. 2023-014'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1701445875_2023-354-Ordinance%20No.%202023-014%20Recorded%201162023.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 4dc112c5a8c9ad21f394efd659c53352c4d6ac8f735a2692b0b88b209d069b16
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 105.550
+    - ORS 181A.410
+    - ORS 195.060
+    - ORS 195.137
+    - ORS 197.405
+    - ORS 197.416
+    - ORS 197.610
+    - ORS 203.045
+    - ORS 215.501
+    - ORS 215.503
+    - ORS 476.392
+    - ORS 477.490
+    - ORS 537.545
+    - ORS 90.100
+    - ORS 92.176
+    - OAR 660-012-0060
+    - OAR 660-023-0040
+    - OAR 660-023-0250
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2023-014 (Ordinance No. 2023-014)
+
+## At a glance
+
+Ordinance No. 2023-014 — orders of Deschutes County. 158 pages.
+
+## Full text
+
+REVIEWED
+r··
+LE�UNSEL
+Recorded in Deschutes County
+Steve Dennison, County Clerk
+Commissioners' Journal
+CJ2023-354
+11/06/2023 11 :52:35 AM
+II I I I 111111111111111111 11111111 2023-354
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County Code
+Title 18, Zoning Ordinance, Title 19, Bend Urban
+Area Zoning Ordinance, and Title 22, Procedures
+Ordinance, to Adopt Provisions for Rural Accessory
+Dwelling Units.
+*
+*
+*
+*
+*
+ORDINANCE NO. 2023-014
+WHEREAS, the Board of County Commissioners directed Deschutes County Community Development
+Department staff to initiate amendments (Planning Division File No. 247-22-000671-TA) to Deschutes County
+Code ("DCC"), Chapter 18.32 -Multiple Use Agricultural Zone, Chapter 18.60-Rural Residential Zone, Chapter
+18.116 - Supplementary Provisions, Chapter 18.132 - Variances, Chapter 19.12 - Urban Area Reserve Zone,
+Chapter 19 .20 -Suburban Low Density Residential Zone, Chapter 19 .22 -Westside Transect Zone, Chapter 19. 76
+-Site Plan Review, Chapter 19.92-Interpretations and Exceptions, Chapter 19.108 -Variances, Chapter 22.04
+-Introductions and Definitions; and
+WHEREAS, the Deschutes County Planning Commission reviewed the proposed changes on September
+22, 2022 and forwarded to the Deschutes County Board of County Commissioners ("Board") a 4-2
+recommendation of approval; and
+WHEREAS, the Deschutes County Planning Commission reviewed new edits to the proposed changes on
+and July 13, 2023, and forwarded to the Deschutes County Board of County Commissioners ("Board") a 5-0
+recommendation of approval; and
+WHEREAS, the Board considered this matter after a duly noticed public hearing on July 26, 2023 and
+concluded that the public will benefit from the proposed changes to the Deschutes County Code Titles 18, 19, and
+22; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. Deschutes County Code Chapter 18.32, Multiple Use Agricultural Zone, is
+amended to read as described in Exhibit "A", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 2. AMENDMENT. Deschutes County Code Chapter 18.60, Rural Residential Zone, is amended
+to read as described in Exhibit "B", attached hereto and by this reference incorporated herein, with new language
+underlined and language to be deleted in strikethrough.
+PAGE 1 OF 3 - ORDINANCE NO. 2023-014
+Section 3. AMENDMENT. Deschutes County Code Chapter 18.116, Supplementary Provisions, is
+amended to read as described in Exhibit "C", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 4. AMENDMENT. Deschutes County Code Chapter 18.132, Variances, is amended to read as
+described in Exhibit "D", attached hereto and by this reference incorporated herein, with new language underlined
+and language to be deleted in strikethrough.
+Section 5. AMENDMENT. Deschutes County Code Chapter 19.12, Urban Area Reserve Zone, is
+amended to read as described in Exhibit "E", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 6. AMENDMENT. Deschutes County Code Chapter 19.20, Suburban Low Density Residential
+Zone, is amended to read as described in Exhibit "F", attached hereto and by this reference incorporated herein,
+with new language underlined and language to be deleted in strikethrough.
+Section 7. AMENDMENT. Deschutes County Code Chapter 19.22, Westside Transect Zone, is
+amended to read as described in Exhibit "G", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 8. AMENDMENT. Deschutes County Code Chapter 19.76, Site Plan Review, is amended to
+read as described in Exhibit "H", attached hereto and by this reference incorporated herein, with new language
+underlined and language to be deleted in strikethrough.
+Section 9. AMENDMENT. Deschutes County Code Chapter 19.92, Interpretations and Exceptions, is
+amended to read as described in Exhibit "I", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 10. AMENDMENT. Deschutes County Code Chapter 19.108, Variances, is amended to read as
+described in Exhibit "J", attached hereto and by this reference incorporated herein, with new language underlined
+and language to be deleted in strikethrough.
+Section 11. AMENDMENT. Deschutes County Code Chapter 22.04, Introductions and Definitions, is
+amended to read as described in Exhibit "K", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 12. FINDINGS. The Board adopts as its findings Exhibit "L", attached and incorporated by
+reference herein.
+Section 13. EMERGENCY. This Ordinance being necessary for the public peace, health, and safety, an
+emergency is declared to exist, and this Ordinance becomes effective thirty (30) days after adoption and after final
+acknowledgement by the Oregon Department of Land Conservation and Development, unless this Ordinance is
+appealed.
+PAGE 2 OF 3 - ORDINANCE NO. 2023-014
+Dated this / J.f-of /JOV- , 2023 BOARD OF COUNTY COMMISSIONERS
+OFDESCHUTES COUNTY,OREGON
+�i�;-
+PAT���
+1:�':tntw� Recording Secretary
+Date of 1 st Reading: / i �y of_O_e;,{-__ • _, 2023.
+Date of 2nd Reading: I $,f day of _Jj_o_v_. _, 2023.
+Record of Adoption Vote:
+Commissioner Yes
+Anthony DeBonc Y
+Patti Adair /\
+Philip Chang X
+No Abstained
+Effective date: ) S,. i day of �L)l,, __ e.,_, _, 2023.
+PAGE 3 OF 3 - ORDINANCE NO. 2023-014
+Excused
+Exhibit A
+CHAPTER 18.32 MULTIPLE USE AGRICULTURAL ZONE; MUA
+18.32.020 Uses Permitted Outright
+* * *
+18.32.020 Uses Permitted Outright
+The following uses and their accessory uses are permitted outright:
+A. Agricultural uses as defined in DCC Title 18.
+B. A single family dwelling, or a manufactured home subject to DCC 18.116.070.
+C. Propagation or harvesting of a forest product.
+D. Class I and II road or street project subject to approval as part of a land partition, subdivision or
+subject to the standards and criteria established by DCC 18.116.230.
+E. Class Ill road or street project.
+F. Noncommercial horse stables, excluding horse events.
+G. Horse events, including associated structures, involving:
+1. Fewer than 10 riders;
+2. Ten to 25 riders, no more than two times per month on nonconsecutive days; or
+3. More than 25 riders, no more than two times per year on nonconsecutive days.
+Incidental musical programs are not included in this definition. Overnight stays by
+participants, trainers or spectators in RVs on the premises is not an incident of such
+horse events.
+H. Operation, maintenance, and piping of existing irrigation systems operated by an Irrigation
+District except as provided in DCC 18.120.050.
+I. Type 1 Home Occupation, subject to DCC 18.116.280.
+J. Historic Home Accessory Dwelling Units, subject to DCC 18.116.350.
+K. Residential Accessory Dwelling Units, subject to DCC 18.116.355.
+HISTORY
+Adopted by Ord. PL-15 on 11/1/1979
+Amended by Ord. 91-002 §6 on 2/6/1991
+Amended by Ord. 91-005 §18 on 3/4/1991
+Amended by Ord. 91-020 §1 on 5/29/1991
+Amended by Ord. 91-038 §1 on 9/30/1991
+Amended by Ord. 93-001 §1 on 1/27/1993
+Amended by Ord. 93-043 §4 on 8/25/1993
+Amended by Ord. 94-008 §10 on 6/8/1994
+Amended by Ord. 2001-016 §2 on 3/28/2001
+Amended by Ord. 2001-039 §2 on 12/12/2001
+Amended by Ord. 2004-002 §3 on 4/28/2004
+Amended by Ord. 2019-009 §1 on 9/3/2019
+Recorded by Ord. 2019-009 §1 on 9/3/2019
+Amended by Ord. 2023-014 §1 on 11/1/2023
+CHAPTER 18.60 RURAL RESIDENTIAL ZONE; RR-10
+18.60.020 Uses Permitted Outright
+* * *
+18.60.020 Uses Permitted Outright
+Exhibit B
+The following uses and their accessory uses are permitted outright.
+A. A single-family dwelling, or a manufactured home subject to DCC 18.116.070.
+B. Utility facilities necessary to serve the area including energy facilities, water supply and
+treatment and sewage disposal and treatment.
+C. Community center, if shown and approved on the original plan or plat of the development.
+D. Agricultural use as defined in DCC Title 18.
+E. Class I and II road or street project subject to approval as part of a land partition, subdivision or
+subject to the standards and criteria established by DCC 18.116.230.
+F. Class Ill road or street project.
+r 1\.1.,... ..... ,..,.,, ................ ,.. ... ,..j .... J .... ,.,, ...... ,..,, ... +..,,hln.r- '"H" ,-.1,...fi ........... rl ja-, nrr Ti+ln 1 0 nvrl1 ,rlinn- hrH"l"'rt. r'\\ln.t"t.+r \J, 1'4UII\..UIIIIIIC:I\..IQI IIVl.:>C: .:>LOIJIC:.:, a.:, uc:111 1c:;u 111 lJ'-,.'-,., llll'C; .1.u, C:A\.,IUU1115 IIVl.:)C: C:VC:lll.:>,
+H. Horse events, including associated structures, involving:
+1. Fewer than 10 riders;
+2. Ten to 25 riders, no more than two times per month on nonconsecutive days; or
+3. More than 25 riders, no more than two times per year on nonconsecutive days.
+Incidental musical programs are not included in this definition. Overnight stays by
+participants, trainers or spectators in RVs on the premises is not an incident of such
+horse events.
+I. Operation, maintenance, and piping of existing irrigation systems operated by an Irrigation
+District except as provided in DCC 18.120.050.
+J. Type 1 Home Occupation, subject to DCC 18.116.280.
+K. Historic Home Accessory Dwelling Units, subject to DCC 18.116.350.
+L. Residential Accessory Dwelling Units, subject to DCC 18.116.355.
+HISTORY
+Adopted by Ord. PL-15 on 11/1/1979
+Amended by Ord. 91-005 §§30 & 31 on 3/4/1991
+Amended by Ord. 91-020 §1 on 5/29/1991
+Amended by Ord. 93-043 §8 on 8/25/.1993
+Amended by Ord. 94-008 §12 on 6/8/1994
+Amended by Ord. 2001-016 §2 on 3/28/2001
+Amended by Ord. 2001-039 §5 on 12/12/2001
+Amended by Ord. 2004-002 § 7 on 4/28/2004
+Amended by Ord. 2019-009 §2 on 9/3/2019
+Recorded by Ord. 2019-009 §2 on 9/3/2019
+Amended bv Ord. 2023-014 §2 on 11/1/2023
+Exhibit C
+CHAPTER 18.116 SUPPLEMENTARY PROVISIONS
+18.116.350 Historic Home Accessory Dwelling Units In The RR-10 And MUA Zones
+18.116.355 Residential Accessory Dwelling Units In The RR-10 And MUA Zones
+* * *
+18.116.350 Historic Home Accessory Dwelling Units In The RR-10 And MUA Zones
+A. As used in this section:
+1. "Historic /\ccessory accessory dwelling unit" means a residential structure that is used in
+connection with or that is auxiliary to a single-family dwelling. For the purposes of this
+section, "auxiliary" means a use or structure incidental and subordinate to the single­
+family dwelling on the property, and located on the same lot as the single-family
+dwelling.
+2. "Area zoned for rural residential use" means land that is not located inside an urban
+growth boundary as defined in ORS 195.060 and that is subject to an acknowledged
+exception to a statewide land use planning goal relating to farmland or forestland and
+planned and zoned by the county to allow residential use as a primary use.
+3. "Historic home" means a single-family dwelling constructed between 1850 and 1945.
+4. "New" means that the dwelling being constructed did not previously exist in residential
+or nonresidential form. "New" does not include the acquisition, alteration, renovation
+or remodeling of an existing structure.
+5. "Place a manufactured home" means the placement of a manufactured home that did
+not previously exist on the subject lot of record; it may include the placement of a
+manufactured home that was previously used as a dwelling on another lot and moved
+to the subject lot of record.
+6. "Single-family dwelling" means a residential structure designed as a residence for one
+family and sharing no common wall with another residence of any type.
+B. An owner of a lot or parcel within an area zoned for rural residential use (RR:10 and MUA
+�Zones) may construct a new single-family dwelling or place a manufactured home on the
+lot or parcel, provided:
+1. The lot or parcel is not located in an area designated as an urban reserve as defined in
+ORS 195.137;
+2. The lot or parcel is at least two acres in size;
+3. A historic home is sited on the lot or parcel;
+4. The owner converts the historic home to afl- historic accessory dwelling unit upon
+completion of the new single-family dwelling or placement of a manufactured home;
+and
+5. The historic accessory dwelling unit may be required to comply with all applicable laws
+and regulations relating to sanitation and wastewater disposal and treatment.
+C. The construction of afl- historic accessory dwelling unit under subsection (B) of this section is a
+land use action subject to DCC 22.20.
+D. An owner that constructs a new single-family dwelling or places a manufactured home under
+subsection (B) of this section may not:
+1. Subdivide, partition or otherwise divide the lot or parcel so that the new single-family
+dwelling or manufactured home is situated on a different lot or parcel from the historic
+accessory dwelling unit.
+2. Alter, renovate or remodel the historic accessory dwelling unit so that the square
+footage of the historic accessory dwelling unit is more than 120 percent of the historic
+home's square footage at the time construction of the new single-family dwelling
+commenced.
+3. Rebuild the historic accessory dwelling unit if the structure is deemed a dangerous
+building due to fire or other natural disaster, pursuant to the Uniform Code for the
+Abatement of Dangerous Buildings, which defines "dangerous building" as "Whenever
+any portion thereof has been damaged by fire, earthquake, wind, flood or by any other
+cause, to such an extent that the structural strength or stability thereof is materially less
+than it was before such catastrophe and is less than the minimum requirements of the
+Building Code for new buildings of similar structure, purpose or location."
+4. Construct an additional accessory dwelling unit on the same lot or parcel.
+E. A new single-family dwelling constructed or a manufactured home placed under this section
+may be required to be served by the same water supply source as the historic accessory
+dwelling unit.
+F. Owner occupancy of either the historic accessory dwelling unit or the new single-family dwelling
+is not required. However, the historic accessory dwelling unit and the new single-family dwelling
+placed under this section and the accessory dwelling unit may not be used simultaneously for
+short-term rentals of thirty (30) consecutive days or less.
+HISTORY
+Adopted by Ord. 2019-009 §3 on 9/3/2019
+Recorded by Ord. 2019-009 §3 on 9/3/2019
+Amended by Ord. 2023-014 §3 on 11/1/2023
+18.116.355 Residential Accessory Dwelling Units In The RR-10 And MUA Zones
+A. As used in this section:
+1. "Accessory dwelling unit" means a residential structure that is used in connection with
+or that is auxiliary to a single-family dwelling. For the purposes of this section.
+"auxiliary'' means a use or structure incidental and subordinate to the single-family
+dwelling on the property. and located on the same lot as the single-family dwelling.
+2. "Accessory dwelling unit structure" means all areas of an accessory dwelling unit
+inclusive of garages. carports. decks. and porch covers.
+3. "Rural residential use" means a lot or parcel located in the RR-10 or MUA-10 Zones.
+consistent with the definition in ORS 215.501.
+4. "Safe evacuation plan" means an identifiable route on a right(s)-of-way and any onsite
+driveways from the accessory dwelling unit to a staged evacuation area.
+5. "Single-family dwelling" means a residential structure designed as a residence for one
+family and sharing no common wall with another residence of any type.
+6. "Staged evacuation area" means a public or private location that occupants of the
+accessory dwelling unit may evacuate to reorganize.
+7. "Useable floor area" means all areas of an accessory dwelling unit included within the
+surrounding exterior walls, exclusive of garages, carports, decks, and porch covers.
+8. "Vacation occupancy" means occupancy in a dwelling unit. not including transient
+occupancy in a hotel or motel, that has all of the following characteristics:
+a. The occupant rents the unit for vacation purposes onlv, not as a principal residence;
+and
+b. The occupant has a principal residence other than at the unit; and
+c. The period of authorized occupancy does not exceed 45 days.
+B. One accessory dwelling unit is permitted outright on a lot or parcel zoned RR-10 or MUA-10,
+provided all of the following standards are met:
+1. One single-family dwelling is sited on the lot or parcel:
+a. As used in this section, "sited" means established onsite or applied for prior to
+issuance of any building or land use permits for an accessory dwelling unit.
+b. An existing single-family dwelling meeting all other criteria in this section may be
+converted to an accessory dwelling unit during construction of a new primary single­
+family dwelling.
+2. There is no guest house, temporary residence as identified in DCC 18.116.090, or
+additional dwelling units except the primary single-family dwelling established on the
+subject property.
+a. An existing lawfully established guest house. temporary residence as identified in
+DCC 18.116.090, or an additional dwelling unit meeting all other criteria in this
+section may be converted to an accessory dwelling unit.
+3. The lot or parcel is not located within an Urban Reserve Area, consistent with ORS
+195.137.
+4. No portion of the lot or parcel is within the Metolius Area of Critical State Concern. as
+defined in ORS 197.416.
+5. The lot area is at least two acres in size. with the exception of those unsewered areas
+between Sun river and the Klamath County border, defined as those unincorporated
+portions of Deschutes County contained in Townships 195, 205, 215, and 225 and
+Ranges 9E, l0E and 11E. Within these exception areas, the lot area is at least five acres
+in size.
+6. The accessory dwelling unit structure will have a minimum setback of 100 feet from
+adjacent properties zoned F-1. F-2, or EFU and meet any other minimum setback
+requirements of the underlying zone and combining zones.
+7. The accessory dwelling unit will not include more than 900 square feet of useable floor
+area.
+8. The accessory dwelling unit will be located no farther than 100 feet from the existing
+single-family dwelling, measured from a wall of the existing single-family dwelling to the
+nearest part of the useable floor area of the accessory dwelling unit.
+a. An existing structure converted to an accessory dwelling unit must be located no
+farther than 100 feet from the existing single-family dwelling, measured from the
+existing single-family dwelling to the nearest part of the accessory dwelling unit
+structure. For the purposes of this section, "existing" means the structure was
+lawfully established on or before November 1, 2023.
+9. Prior to application, the accessory dwelling unit receives approval from a sewer
+authority or the Deschutes County Onsite Wastewater Division for onsite wastewater
+disposal and treatment.
+10. The lot or parcel is served by a fire protection service provider with professionals who
+have received training or certification described in ORS 181A.410.
+11. The accessory dwelling unit provides for all of the following:
+a. Adequate access connecting an accessory dwelling unit with a fire protection service
+provider with professionals who have received training or certification described in
+ORS 181A.410. Adequate access is met by demonstrating compliance with section
+ll{a)i and ll{a){ii), or section ll(a)(iii):
+i. A continuous, minimum 20-foot width right(s)-of-way with an unobstructed
+vertical clearance of not less than 13.5 feet. For the purposes of this section,
+right{s)-of-way are defined as:
+1. Public roads with maintenance responsibility accepted by a unit of local
+or state government or assigned to landowners or homeowners
+association by covenant or agreement; or
+2. Private roads, as permitted by DCC Title 18, with maintenance
+responsibility assigned to landowners or homeowners associations by
+covenant or agreement pursuant to ORS 105; and
+ii. A continuous, minimum 12-foot width onsite driveway with an unobstructed
+horizontal clearance of not less than 20 feet and an unobstructed vertical
+clearance of not less than 13.5 feet, designed and maintained as follows:
+1. Composed of an all-weather surface including asphalt or concrete; or
+2. Designed and maintained to support a minimum gross vehicle weight
+(GVW) of 75,000 lbs as certified by a Professional Engineer, registered in
+Oregon;
+iii. Written confirmation from a fire protection service provider with professionals
+who have received training or certification described in ORS 181A.410, on a
+form prepared by Deschutes County, that access to the property meets
+minimum fire district requirements to provide emergency services to the
+property;
+b. A safe evacuation plan; and
+c. For private properties utilized as staged evacuation areas, written authorization
+from the property owner(s) of the staged evacuation area that the occupants of the
+accessory dwelling unit may evacuate to the staged evacuation area.
+12. Wildfire Hazard Mitigation Building Code Standards:
+a. If the Statewide Wildfire Hazard Map described in ORS 477.490 has been approved,
+the following requirements shall apply to the accessory dwelling unit structure:
+i. For areas designated as high wildfire hazard that are identified pursuant to ORS
+477.490:
+1. The Wildfire Hazard Mitigation building code standards as described in
+section R327 of the Oregon Residential Specialty Code.
+b. If the Statewide Wildfire Hazard Map described in ORS 477.490 has not been
+approved, the following requirements shall apply to the accessory dwelling unit
+structure:
+i. The Wildfire Hazard Mitigation building code standards as described in section
+R327 of the Oregon Residential Specialty Code.
+13. Wildfire Hazard Mitigation Defensible Space Standards:
+a. If the Statewide Wildfire Hazard Map described in ORS 477.490 has been approved,
+the following requirements shall apply:
+i. For all wildfire hazard designations in the wildland-urban interface that are
+identified pursuant to ORS 477.490:
+1. The minimum defensible space rules established by the State Fire
+Marshal as described in ORS 476.392.
+b. If the Statewide Wildfire Hazard Map described in ORS 477.490 has not been
+approved, then either the section 13(b)(i) or 13(b)(ii) requirements shall apply:
+i. Prior to issuance of building permits, the property owner(s) shall construct and
+maintain the following firebreaks on land surrounding the accessory dwelling
+unit that is owned or controlled by the owner:
+1. Primary Firebreak. A primary firebreak, not less than 10 feet wide, shall
+be constructed containing nonflammable materials. This may include
+lawn, walkways, driveways, gravel borders or other similar materials;
+and
+2. Secondary Firebreak. A secondary firebreak of not less than 20 feet
+wide shall be constructed outside the primary firebreak. This firebreak
+need not be bare ground, but can include a lawn, ornamental shrubbery
+or individual or groups of trees separated by a distance equal to the
+diameter of the crowns adjacent to each other, or 15 feet, whichever is
+greater. All trees shall be pruned to at least eight feet in height. Dead
+fuels shall be removed; and
+3. Fuel Break. A fuel break shall be maintained, extending a minimum of
+100 feet in all directions around the secondary firebreak. Individual and
+groups of trees within the fuel break shall be separated by a distance
+equal to the diameter of the crowns adjacent to each other, or 15 feet,
+whichever is greater. Small trees and brush growing underneath larger
+trees shall be removed to prevent spread of fire up into the crowns of
+the larger trees. All trees shall be pruned to at least eight feet in height.
+Dead fuels shall be removed; and
+4. No portion of a tree or any other vegetation shall extend to within 15
+feet of the outlet of a stovepipe or chimney.
+hii. Prior to issuance of building permits, the property owner(s) shall construct and
+maintain defensible space and fuel breaks as developed in consultation with
+local fire protection service providers who have received training or certification
+described in ORS 181A.410. Applicable defensible space and fuel breaks shall be
+on land surrounding the accessory dwelling unit on land that is owned or
+controlled by the owner.
+14. The existing single-family dwelling property on the lot or parcel is not subject to an
+order declaring it a nuisance or subject to any pending action under ORS 105.550 to
+105.600.
+HISTORY
+15. A lot or parcel with an accessory dwelling unit approved under this section is ineligible
+for:
+a. A subdivision, partition, other division of the lot or parcel, or a property line
+adjustment where the result of such application would be to situate the existing
+single-family dwelling on a different lot or parcel than the accessory dwelling unit;
+and
+b. Placement or construction of any additional dwelling unit, guest house, or any other
+temporary residence as identified in DCC 18.116.090.
+16. If the accessory dwelling unit is served by a well, the construction of the accessory
+dwelling unit shall maintain all setbacks from the well required by the Water Resources
+Commission or Water Resources Department.
+17. At the time of application, a letter confirming that the supplier of water is "Willing and
+Able to Serve" the accessory dwelling unit shall be provided if the accessory dwelling
+unit is to be served by any water source other than an onsite domestic well.
+18. An existing single-family dwelling and an accessory dwelling unit allowed under this
+section are considered a single unit for the purposes of calculating ground water right
+exemptions under ORS 537.545(1).
+19. If the water supply source for the accessory dwelling unit or associated lands or gardens
+will be a well using water under ORS 537.545 (l)(b) or (d). no portion of the lot or parcel
+is within an area in which new or existing ground water uses under ORS 537.545 (l)(b)
+or (d) have been restricted by the Water Resources Commission.
+20. Prior to issuance of building permits, the applicant shall sign and record with the County
+Clerk, a restrictive covenant stating an accessory dwelling unit allowed under this
+section and the primary single-family dwelling cannot be used for vacation occupancy,
+as defined in DCC 18.116.355(A)(8) and consistent with ORS 90.100.
+Adopted bv Ord. 2023-014 §3 on 11/1/2023
+Exhibit D
+CHAPTER 18.132 VARIANCES
+18.132.020 Authority Of Hearings Body
+18.132.025 Minor Variances
+***
+18.132.020 Authority Of Hearings Body
+A variance may be granted unqualifiedly or may be granted subject to prescribed conditions, provided
+that the Planning Director or Hearings Body shall make all of the following findings:
+A. Area variance.
+1. That the literal application of the ordinance would create practical difficulties resulting in
+greater private expense than public benefit.
+2. That the condition creating the difficulty is not general throughout the surrounding area
+but is unique to the applicant's site.
+3. That the condition was not created by the applicant. A self-created difficulty will be
+found if the applicant knew or should have known of the restriction at the time the site
+was purchased.
+4. That the variance conforms to the Comprehensive Plan and the intent of the ordinance
+being varied.
+B. Use variance.
+1. That the literal application of the ordinance would result in unnecessary hardship to the
+applicant. An unnecessary hardship will be found when the site cannot be put to any
+beneficial use under the terms of the applicable ordinance.
+2. Each of the findings listed in DCC 18.132.020(A)(l), (2) and (4).
+C. Statutory Provisions.
+1. Notwithstanding the provisions of this section, a variance may not be granted which
+amends any standards mandated by the Oregon Revised Statues (ORS) or Oregon Administrative
+Rules (OAR).
+HISTORY
+Adopted by Ord. PL-15 on 11/1/1979
+Repealed & Reenacted by Ord. 91-020 §1 on 5/29/1991
+Amended by Ord. 93-043 §24 on 8/25/1993
+Amended bv Ord. 2023-014 §4 on 11/1/2023
+18.132.025 Minor Variances
+A variance seeking to depart from on-site requirements of DCC Title 18, such as setbacks and area
+requirements, by no greater than 10 percent of the required distance or area may be granted by the
+Planning Director or Hearings Body in conformance with DCC 18.132.025.
+A. In the case of a setback or size variance, the applicant shall show that the approval will result in:
+1. More efficient use of the site;
+2. Preservation of natural features where appropriate;
+3. Adequate provision of light and privacy to adjoining properties; and
+4. Preservation of topographic, vegetative and drainage features which would be adversely
+affected by application of the standards otherwise required by DCC Title 18.
+B. A parcel that is smaller than the minimum lot size at the time of application may not be reduced
+by more than 10 percent from its current size without a variance.
+C. Notwithstanding B, above, a property may be reduced by more than 10 percent of its current
+size without a variance if:
+1. The property is located outside of a Farm (EFU) or Forest (F) zone;
+2. The long-standing occupation area is different than the legal description in the deed for
+the subject property;
+3. The purpose of the property line adjustment is to correct the deed description to match
+the long-standing occupation lines of the properties; and
+4. The discrepancy between the deed lines and the occupation lines is documented by
+submittal of a narrative and maps prepared by an Oregon Licensed Professional
+Surveyor.
+5. As used in this sub-section, "long-standing" means in excess of ten (10) years.
+D. Statutory Provisions.
+1. Notwithstanding the provisions of this section, a variance may not be granted which
+amends any standards mandated by the Oregon Revised Statues (ORS) or Oregon Administrative
+Rules (OAR).
+HISTORY
+Adopted by Ord. 91-038 §3 on 9/30/1991
+Amended by Ord. 2004-013 §15 on 9/21/2004
+Amended by Ord. 2010-003 §1 on 7/6/2010
+Amended by Ord. 2023-014 §4 on 11/1/2023
+Exhibit E
+CHAPTER 19.12 URBAN AREA RESERVE ZONE UAR-10
+19.12.020 Permitted Uses
+* * *
+19.12.020 Permitted Uses
+The following uses are permitted:
+A. Farm uses as defined in DCC Title 19.
+B. Single-family dwelling.
+C. Home occupation subject to DCC 19.88.140.
+D. Other accessory uses and accessory buildings and structures customarily appurtenant to a
+permitted use subject to DCC 19.92.020.
+E. Day care center facilities subject to site review, DCC 19.76 and DCC 19.88.160.
+F. Farm stands subject to DCC 19.76 and DCC 19.88.290.
+G. Historic Home Accessory Dwelling Units, subject to DCC 19.92.150.
+LI o,... .... irln. ..... +:-.1 l\rrnrr,...r"\I l""\u,allinn I lni+c Cl ,hiar+- +n. nrr 1 Q Q"') 1 e::.n I 1. nc:,;,1uc:11\.101 1""\\.,\..C:,J<>VI Y IJVVC:111116 VI 111...;,, ,;H.AJ.Jf\,..\,.,\. \.V '-'"-'"-' ..LJ.J""-•J.VV
+HISTORY
+Adopted by Ord. PL-11 on 7/11/1979
+Amended by Ord. 88-042 §4 on 12/19/1988
+Repealed & Reenacted by Ord. 90-038 §1,2 on 10/3/1990
+Amended by Ord. 91-001 §2 on 1/28/1991
+Amended by Ord. 2008-014 §3 on 3/31/2008
+Repealed & Reenacted by Ord. 2009-002 §1,2 on 2/11/2009
+Amended by Ord. 2019-009 §4 on 9/3/2019
+Recorded by Ord. 2019-009 §4 on 9/3/2019
+Amended bv Ord. 2023-014 §5 on 11/1/2023
+Exhibit F
+CHAPTER 19.20 SUBURBAN LOW DENSITY RESIDENTIAL ZONE; SR 2 1/2
+19.20.020 Permitted Uses
+* * *
+19.20.020 Permitted Uses
+The following uses are permitted:
+A. Single-family dwelling.
+B. Agriculture, excluding the keeping of livestock.
+C. Home occupations subject to DCC 19.88.140.
+D. Other accessory uses and accessory buildings and structures customarily appurtenant to a
+permitted use subject to DCC 19.92.020.
+E. Historic Home Accessory Dwelling Units, subject to DCC 19.92.150.
+f.:._Child care facility and/or preschool�
+G. Residential Accessory Dwelling Units, subject to DCC 19.92.160.
+HISTORY
+Adopted by Ord. PL-11 on 7/11/1979
+Amended by Ord. 88-042 §6 on 12/19/1988
+Repealed & Reenacted by Ord. 90-038 §1,2 on 10/3/1990
+Amended by Ord. 91-001 §4 on 1/28/1991
+Amended by Ord. 93-018 §3 on 5/19/1993
+Repealed & Reenacted by Ord. 2009-002 §1,2 on 2/11/2009
+Amended by Ord. 2019-009 §5 on 9/3/2019
+Recorded by Ord. 2019-009 §5 on 9/3/2019
+Amended by Ord. 2020-001 §20 on 4/21/2020
+Amended by Ord. 2020-010 §9 on 7/3/2020
+Amended by Ord. 2023-014 §6 on 11/1/2023
+CHAPTER 19.22 WESTSIDE TRANSECT ZONE; WTZ
+19.22.020 Permitted Uses
+* * *
+19.22.020 Permitted Uses
+Exhibit G
+The following uses and their accessory uses are permitted outright:
+A. Single-family dwelling.
+B. Home occupation subject to DCC 19.88.140.
+LOther accessory uses and accessory buildings and structures customarily appurtenant to a
+permitted use subject to DCC 19.92.020.
+D. Residential Accessory Dwelling Units, subject to DCC 19.92.160.
+HISTORY
+Adopted by Ord. 2019-001 §8 on 4/16/2019
+Amended by Ord. 2023-014 §7 on 11/1/2023
+Exhibit H
+CHAPTER 19.76 SITE PLAN REVIEW
+19.76.070 Site Plan Criteria
+***
+19.76.020 Site Plan Requirements
+In all zones, except for a single-family, duplex or triplex unit, or an accessory dwelling unit, on one lot, all
+new uses, buildings, outdoor storage or sales areas and parking lots or alterations thereof shall be
+subject to the provisions of DCC 19.76.020. Site plan approval shall not be required where a proposed
+alteration of an existing building does not exceed 25 percent of the size of the original structure unless
+the Planning Director finds the original structure or proposed alteration does not meet the requirements
+of DCC Title 19 or other ordinances of the County.
+HISTORY
+Adopted by Ord. PL-11 on 7/11/1979
+Repealed & Reenacted by Ord. 90-038 §1 on 10/3/1990
+Amended by Ord. 2023-014 §8 on 11/1/2023
+Exhibit I
+CHAPTER 19.92 INTERPRETATIONS AND EXCEPTIONS
+19.92.150 Historic Home Accessory Dwelling Units In The UAR-10 And SR-2 1/2 Zones
+19.92.160 Residential Accessory Dwelling Units In The UAR-10, SR-2 ½, And WTZ Zones
+* * *
+19.92.150 Historic Home Accessory Dwelling Units In The UAR-10 And SR-2 1/2 Zones
+A. As used in this section:
+1. "Historic Accessory ;:iccessory dwelling unit" means a residential structure that is used in
+connection with or that is auxiliary to a single-family dwelling. For the purposes of this
+section, "auxiliary" means a use or structure incidental and subordinate to the single­
+family dwelling on the property, and located on the same lot as the single-family
+dwelling.
+2. "Area zoned for rural residential use" means land that is not located inside an urban
+growth boundary as defined in ORS 195.060 and that is subject to an acknowledged
+exception to a statewide land use planning goal relating to farmland or forestland and
+planned and zoned by the county to allow residential use as a primary use.
+3. "Historic home" means a single-family dwelling constructed between 1850 and 1945.
+4. "New" means that the dwelling being constructed did not previously exist in residential
+or nonresidential form. "New" does not include the acquisition, alteration, renovation
+or remodeling of an existing structure.
+5. "Single-family dwelling" means a residential structure designed as a residence for one
+family and sharing no common wall with another residence of any type.
+B. An owner of a lot or parcel within an area zoned for rural residential use (UAR-10 and SR-2 1/2
+t9R€5Zones) may construct a new single-family dwelling on the lot or parcel, provided:
+1. The lot or parcel is not located in an area designated as an urban reserve as defined in
+ORS 195.137;
+2. The lot or parcel is at least two acres in size;
+3. A historic home is sited on the lot or parcel;
+4. The owner converts the historic home to afl- historic -accessory dwelling unit upon
+completion of the new single-family dwelling; and
+5. The historic accessory dwelling unit may be required to comply with all applicable laws
+and regulations relating to sanitation and wastewater disposal and treatment.
+C. The construction of afl- historic accessory dwelling unit under subsection (B) of this section is a
+land use action subject to DCC 22.20.
+D. An owner that constructs a new single-family dwelling under subsection (B) of this section may
+not:
+1. Subdivide, partition or otherwise divide the lot or parcel so that the new single-family
+dwelling is situated on a different lot or parcel from the historic accessory dwelling unit.
+2. Alter, renovate or remodel the historic accessory dwelling unit so that the square
+footage of the historic accessory dwelling unit is more than 120 percent of the historic
+home's square footage at the time construction of the new single-family dwelling
+commenced.
+3. Rebuild the historic accessory dwelling unit if the structure is deemed a dangerous
+building due to fire or other natural disaster, pursuant to the Uniform Code for the
+Abatement of Dangerous Buildings, which defines "dangerous building" as "Whenever
+any portion thereof has been damaged by fire, earthquake, wind, flood or by any other
+cause, to such an extent that the structural strength or stability thereof is materially less
+than it was before such catastrophe and is less than the minimum requirements of the
+Building Code for new buildings of similar structure, purpose or location."
+4. Construct an additional accessory dwelling unit on the same lot or parcel.
+E. A new single-family dwelling constructed under this section may be required to be served by the
+same water supply source as the historic accessory dwelling unit.
+F. Owner occupancy of either the historic accessory dwelling unit or the new single-family dwelling
+is not required. However, the historic accessory dwelling unit and the new single-family dwelling
+placed under this section the ne'N single family dwelling and the accessory dwelling unit may
+not be used simultaneously for short-term rentals of thirty (30) consecutive days or less.
+HISTORY
+Adopted by Ord. 2019-009 §6 on 9/3/2019
+Recorded by Ord. 2019-009 §6 on 9/3/2019
+Amended bv Ord. 2023-014 §9 on 11/1/2023
+19.92.160 Residential Accessory Dwelling Units In The UAR-10, SR-2 ½, And WTZ Zones
+A. As used in this section:
+1. "Accessory dwelling unit" means a residential structure that is used in connection with
+or that is auxiliary to a single-family dwelling. For the purposes of this section,
+"auxiliary" means a use or structure incidental and subordinate to the single-family
+dwelling on the property, and located on the same lot as the single-family dwelling.
+2. "Accessory dwelling unit structure" means all areas of an accessory dwelling unit
+inclusive of garages, carports, decks, and porch covers.
+3. "Rural residential use" means a lot or parcel located in the UAR-10. SR-2 ½, or WTZ
+Zones. consistent with the definition in ORS 215.501.
+4. "Safe evacuation plan" means an identifiable route on a right(s)-of-way and any onsite
+driveways from the accessory dwelling unit to a staged evacuation area.
+5. "Single-family dwelling" means a residential structure designed as a residence for one
+family and sharing no common wall with another residence of any type.
+6. "Staged evacuation area" means a public or private location that occupants of the
+accessory dwelling unit may evacuate to reorganize.
+7. "Useable floor area" means all areas of an accessory dwelling unit included within the
+surrounding exterior walls, exclusive of garages, carports, decks, and porch covers.
+8. "Vacation occupancy" means occupancy in a dwelling unit, not including transient
+occupancy in a hotel or motel. that has all of the following characteristics:
+a. The occupant rents the unit for vacation purposes only, not as a principal residence;
+and
+b. The occupant has a principal residence other than at the unit; and
+c. The period of authorized occupancy does not exceed 45 days.
+B. One accessory dwe!!ing unlt is permitted outright on a !ot or parce! zoned UAR-10. SR-? ½, or
+WTZ, provided all of the following standards are met:
+1. One single-family dwelling is sited on the lot or parcel:
+a. As used in this section, "sited" means established onsite or applied for prior to
+issuance of any building or land use permits for an accessory dwelling unit.
+b. An existing single-family dwelling meeting all other criteria in this section may be
+converted to an accessory dwelling unit during construction of a new primary single­
+family dwelling.
+2. There is no guest house, temporary residence as identified in DCC 19.88.090, or
+additional dwelling units except the primary single-family dwelling established on the
+subject property.
+a. An existing lawfully established guest house, temporary residence as identified in
+DCC 19.88.090, or an additional dwelling unit meeting all other criteria in this
+section may be converted to an accessory dwelling unit.
+3. The lot or parcel is not located within an Urban Reserve Area, consistent with ORS
+195.137.
+4. No portion of the lot or parcel is within the Metolius Area of Critical State Concern, as
+defined in ORS 197.416.
+5. The lot area is at least two acres in size, with the exception of those unsewered areas
+between Sunriver and the Klamath County border, defined as those unincorporated
+portions of Deschutes County contained in Townships 19S, 20S, 21S, and 22S and
+Ranges 9E, 10E and 11E. Within these exception areas, the lot area is at least five acres
+in size.
+6. The accessory dwelling unit structure will have a minimum setback of 100 feet from
+adjacent properties zoned F-1, F-2, or EFU and meet any other minimum setback
+requirements of the underlying zone and combining zones.
+7. The accessory dwelling unit will not include more than 900 square feet of useable floor
+area.
+8. The accessory dwelling unit will be located no farther than 100 feet from the existing
+single-family dwelling, measured from a wall of the existing single-family dwelling to the
+nearest part of the useable floor area of the accessory dwelling unit.
+a. An existing structure converted to an accessory dwelling unit must be located no
+farther than 100 feet from the existing single-family dwelling, measured from the
+existing single-family dwelling to the nearest part of the accessory dwelling unit
+structure. For the purposes of this section, "existing" means the structure was
+lawfully established on or before November 1, 2023.
+9. Prior to application, the accessory dwelling unit receives approval from a sewer
+authority or the Deschutes County Onsite Wastewater Division for onsite wastewater
+disposal and treatment.
+10. The lot or parcel is served by a fire protection service provider with professionals who
+have received training or certification described in ORS 181A.410.
+11. The accessory dwelling unit provides for all of the following:
+a. Adequate access connecting an accessory dwelling unit with a fire protection service
+provider with professionals who have received training or certification described in
+ORS 181A.410. Adequate access is met by demonstrating compliance with section
+11(a)i and 11(a)(ii), or section ll(a)(iii):
+i. A continuous, minimum 20-foot width right(s)-of-way with an unobstructed
+vertical clearance of not less than 13.5 feet. For the purposes of this section,
+right(s)-of-way are defined as:
+1. Public roads with maintenance responsibility accepted by a unit of local
+or state government or assigned to landowners or homeowners
+association by covenant or agreement; or
+2. Private roads, as permitted by DCC Title 19, with maintenance
+responsibility assigned to landowners or homeowners associations by
+covenant or agreement pursuant to ORS 105; and
+ii. A continuous, minimum 12-foot width onsite driveway with an unobstructed
+horizontal clearance of not less than 20 feet and an unobstructed vertical
+clearance of not less than 13.5 feet. designed and maintained as follows:
+1. Composed of an all-weather surface including asphalt or concrete; or
+2. Designed and maintained to support a minimum gross vehicle weight
+(GVW) of 75,000 lbs as certified by a Professional Engineer, registered in
+Oregon;
+iii. Written confirmation from a fire protection service provider with professionals
+who have received training or certification described in ORS 181A.410, on a
+form prepared by Deschutes County, that access to the property meets
+minimum fire district requirements to provide emergency services to the
+property;
+b. A safe evacuation plan; and
+c. For private properties utilized as staged evacuation areas, written authorization
+from the property owner(s) of the staged evacuation area that the occupants of the
+accessory dwelling unit may evacuate to the staged evacuation area.
+12. Wildfire Hazard Mitigation Building Code Standards:
+a. If the Statewide Wildfire Hazard Map described in ORS 477.490 has been approved,
+the following requirements shall apply to the accessory dwelling unit structure:
+i. For areas designated as high wildfire hazard that are identified pursuant to ORS
+A-,-, Ar'\I"'\_
+'+//.'+::IV:
+1. The Wildfire Hazard Mitigation building code standards as described in
+section R327 of the Oregon Residential Specialty Code.
+b. If the Statewide Wildfire Hazard Map described in ORS 477.490 has not been
+approved, the following requirements shall apply to the accessory dwelling unit
+structure:
+i. The Wildfire Hazard Mitigation building code standards as described in section
+R327 of the Oregon Residential Specialty Code.
+13. Wildfire Hazard Mitigation Defensible Space Standards:
+a. If the Statewide Wildfire Hazard Map described in ORS 477.490 has been approved,
+the following requirements shall apply:
+i. For all wildfire hazard designations in the wildland-urban interface that are
+identified pursuant to ORS 477.490:
+1. The minimum defensible space rules established by the State Fire
+Marshal as described in ORS 476.392.
+b. If the Statewide Wildfire Hazard Map described in ORS 477.490 has not been
+approved, then either the section 13(b)(i) or 13(b)(ii) requirements shall apply:
+i. Prior to issuance of building permits, the property owner(sl shall construct and
+maintain the following firebreaks on land surrounding the accessory dwelling
+unit on land that is owned or controlled by the owner:
+1. Primary Firebreak. A primary firebreak, not less than 10 feet wide, shall
+be constructed containing nonflammable materials. This may include
+lawn, walkways, driveways, gravel borders or other similar materials;
+and
+2. Secondary Firebreak. A secondary firebreak of not less than 20 feet
+wide shall be constructed outside the primary firebreak. This firebreak
+need not be bare ground, but can include a lawn, ornamental shrubbery
+or individual or groups of trees separated by a distance equal to the
+diameter of the crowns adjacent to each other, or 15 feet, whichever is
+greater. All trees shall be pruned to at least eight feet in height. Dead
+fuels shall be removed; and
+3. Fuel Break. A fuel break shall be maintained, extending a minimum of
+100 feet in all directions around the secondary firebreak. Individual and
+groups of trees within the fuel break shall be separated by a distance
+equal to the diameter of the crowns adjacent to each other, or 15 feet,
+whichever is greater. Small trees and brush growing underneath larger
+trees shall be removed to prevent spread of fire up into the crowns of
+the larger trees. All trees shall be pruned to at least eight feet in height.
+Dead fuels shall be removed; and
+4. No portion of a tree or any other vegetation shall extend to within 15
+feet of the outlet of a stovepipe or chimney.
+ii. Prior to issuance of building permits, the property owner(s) shall construct and
+maintain defensible space and fuel breaks as developed in consultation with
+local fire protection service providers who have received training or certification
+described in ORS 181A.410. Applicable defensible space and fuel breaks shall be
+on land surrounding the accessory dwelling unit that is owned or controlled by
+the owner.
+14. The existing single-family dwelling property on the lot or parcel is not subject to an
+order declaring it a nuisance or subject to any pending action under ORS 105.550 to
+105.600.
+15. A lot or parcel with an accessory dwelling unit approved under this section is ineligible
+for:
+a. A subdivision, partition, other division of the lot or parcel, or a property line
+adjustment where the result of such application would be to situate the existing
+single-family dwelling on a different lot or parcel than the accessory dwelling unit;
+and
+HISTORY
+b. Placement or construction of any additional dwelling unit. guest house, or any other
+temporary residence as identified in DCC 19.88.090.
+16. If the accessory dwelling unit is served by a well. the construction of the accessory
+dwelling unit shall maintain all setbacks from the well required by the Water Resources
+Commission or Water Resources Department.
+17. At the time of application, a letter confirming that the supplier of water is "Willing and
+Able to Serve" the accessory dwelling unit shall be provided if the accessory dwelling
+unit is to be served by any water source other than an onsite domestic well.
+18. An existing single-family dwelling and an accessory dwelling unit allowed under this
+section are considered a single unit for the purposes of calculating ground water right
+exemptions under ORS 537.545(1).
+19. If the water supply source for the accessory dwelling unit or associated lands or gardens
+will be a well using water under ORS 537.545 (l)(b) or (d). no portion of the lot or parcel
+is within an area in which new or existing ground water uses under ORS 537.545 (l)(b)
+or (d) have been restricted by the Water Resources Commission.
+20. Prior to issuance of building permits. the applicant shall sign and record with the County
+Clerk, a restrictive covenant stating an accessory dwelling unit allowed under this
+section and the primary single-family dwelling cannot be used for vacation occupancy.
+as defined in DCC 19.92.160(A)(8) and consistent with ORS 90.100.
+Adopted by Ord. 2023-014 §9 on 11/1/2023
+Exhibit J
+CHAPTER 19.108 VARIANCES
+19.108.020 Criteria
+***
+19.108.020 Criteria
+No variance shall be granted pursuant to the provisions of DCC 19.108.010 unless the applicant can
+establish:
+A. That special conditions exist which are peculiar to the land, structure or building involved and
+which are not applicable to other lands, buildings or structures in the same zone; and
+B. That strict interpretation of the provisions of DCC Title 19 would deprive the applicant of rights
+commonly enjoyed by other properties in the same zone under the terms of DCC Title 19; and
+C. That the special conditions and circumstances do not result from the actions of the applicant
+and such conditions and circumstances do not merely constitute pecuniary hardship or
+inconvenience; and
+Q_,_ That granting the variance will be in harmony with the objectives of DCC Title 19 and not
+injurious to the neighborhood or otherwise detrimental to the public welfare.
+9-:-E.Notwithstanding the provisions of this section, a variance may not be granted which amends any
+standards mandated bv the Oregon Revised Statues (ORS) or Oregon Administrative Rules (OAR).
+HISTORY
+Adopted by Ord. PL-11 on 7/11/1979
+Repealed & Reenacted by Ord. 90-038 §1 on 10/3/1990
+Amended by Ord. 2023-014 §10 on 11/1/2023
+Exhibit K
+CHAPTER 22.04 INTRODUCTION AND DEFINITl9NS
+22.04.040 Verifying Lots of Record
+* * *
+22.04.040 Verifying Lots of Record
+A. Purpose; scope. Concurrent with or prior to the issuance of certain permits, a lot or parcel shall
+be verified pursuant to this section to reasonably ensure compliance with the zoning and land
+division laws in effect on the date the lot or parcel was created. Not all permits require
+verification. If required, verifying that the lot or parcel was lawfully created is a threshold issue
+that should be addressed before the permit may be issued, but does not supersede or nullify
+other permit requirements. This section 22.04.040 provides an applicant the option to
+concurrently verify a lot or parcel as part of applying for a permit that requires verification, or
+preliminarily apply for a declaratory ruling to thereby determine the scope of available permits.
+B. Permits Requiring Verification.
+1. Unless an exception applies pursuant to subsection (8)(2) below, verifying a lot or parcel
+pursuant to subsection (C) shall be required prior to the issuance of the following
+permits:
+a. Any land use permit for a unit of land in the Exclusive Farm Use Zones (DCC
+Chapter 18.16), Forest Use Zone- Fl (DCC Chapter 18.36), or Forest Use Zone -
+F2 (DCC Chapter 18.40);
+b. Any permit for a lot or parcel that includes wetlands as shown on the Statewide
+Wetlands Inventory;
+c. Any permit for a lot or parcel subject to wildlife habitat special assessment;
+d. In all zones, a land use permit relocating property lines that reduces in size a lot
+or parcel;
+g,__ln all zones, a land use, structural, or non-emergency on-site sewage disposal
+system permit if the lot or parcel is smaller than the minimum area required in
+the applicable zone;
+f. In all zones, a permit for a Historic Home Accessory Dwelling Unit as defined in
+DCC 18.116.350 or 19.92.150;
+e-:-g. In all zones, a permit for a Residential Accessory Dwelling Unit as defined in DCC
+18.116.355 or 19.92.160.
+2. Exceptions. Verification shall not be required if one of the following exceptions apply:
+a. The lot or parcel was created by a subdivision plat, partition plat, condominium
+plat, or town plat so long as the plat was recorded and approved by the County,
+another political subdivision of the State of Oregon, or the State of Oregon;
+b. The lot or parcel vvas previously validated by the County and an applicable
+partition plat was subsequently recorded within 365 days as required by ORS
+92.176(5);
+c. The lot or parcel was previously determined to be a lot of record in a formal
+decision issued by the County or a finding in a land use action prior to
+November 1, 2017;
+d. The lot or parcel was previously verified pursuant to subsection (C) and a finding
+was issued to that effect in a land use action or declaratory ruling; or
+e. For permits listed in subsection (8)(1)(e) only, the lot or parcel previously
+received a land use or building permit prior to November 1, 2017, a structural
+permit after November 1, 2017, or a non-emergency on-site sewage disposal
+permit.
+f. Notwithstanding DCC 22.04.040(8)(2)(b), if a unit of land has been validated by
+a city or county under ORS 92.176 before January 1, 2022, such unit of land
+becomes a lawfully established parcel, provided that the owner of the unit of
+land caused a partition plat to be recorded on or before December 31, 2022.
+C. Verified Lots of Record. Permits that require verification shall only be issued to lots or parcels
+that meet the "lot of record" definition in 18.04.030.
+D. Findings; Declaratory Ruling. If an applicant is applying for a land use permit listed in subsection
+(8)(1), the County shall include a finding verifying that the lot or parcel meets the "lot of record"
+definition in 18.04.030, a finding noting that the lot or parcel does not meet the "lot of record"
+definition in 18.04.030, or a finding noting that verification was not required because the lot or
+parcel qualified for an exception pursuant to subsection (8)(2). If an applicant is applying for a
+permit listed in subsection (8)(1) that does not require public notice, or prior to applying for any
+permit, an applicant may request a declaratory ruling pursuant to DCC Chapter 22.40. If the lot
+or parcel meets the "lot of record" definition in 18.04.030, the County shall issue the declaratory
+ruling determining that the lot or parcel qualifies for all permits listed in subsection (8)(1). If the
+lot or parcel does not meet the "lot of record" definition in 18.04.030, the County shall not issue
+the declaratory ruling and instead shall provide the applicant information on permit options that
+do not require verification and information on verification exceptions that may apply pursuant
+to subsections (8)(2).
+HISTORY
+Adopted by Ord. 2017-015 §3 on 11/1/1979
+Amended by Ord. 2023-014 §11 on 11/1/2023
+FILE NUMBER:
+APPLICANT:
+PROPERTY
+OWNER:
+REQUEST:
+Exhibit L
+STAFF REPORT
+247-22-000671-TA
+Deschutes County Community Development
+117 NW Lafayette Avenue
+Bend, Oregon 97703
+N/A
+COMMUNITY DEVELOPMENT
+Pursuant to Senate Bills (SB) 391 and 644, Text Amendments to allow an owner
+of a lot or parcel within a rural residential exception area to construct one
+accessory dwelling unit (ADU) subject to certain restrictions and limitations.
+STAFF CONTACT: Kyle Collins, Associate Planner
+I. APPLICABLE CRITERIA:
+Deschutes County lacks specific criteria in DCC Titles 18, 19, 22, or 23 for reviewing a legislative text
+amendment. Nonetheless, since Deschutes County is initiating a legislative text amendment, the
+County bears the responsibility for justifying that the amendments are consistent with Statewide
+Planning Goals and its existing Comprehensive Plan
+11.
+A.
+BASIC FINDINGS:
+Senate Bill 391
+On June 23, 2021, the Oregon Legislature adopted Senate Bill (SB) 391, which authorizes counties to
+allow an owner of a lot or parcel within a rural residential exception area to construct one accessory
+dwelling unit (ADU) subject to certain restrictions and limitations.1 SB 391 does not obligate a county
+to allow ADUs, nor does it prohibit a county from imposing any additional restrictions beyond what
+is mandated in state law.
+Rural residential exception areas and their corresponding zones exist throughout Oregon. By
+definition, rural residential zones exist outside urban growth boundaries (UGBs), but are excluded
+1 https:/ /olis.oregon legislature .gov/liz/2021 R 1 /Down loa ds/MeasureDocu ment/SB391
+11 7 NW Lafayette Avenue, Bend, Oregon 97703 P.O. Box 6005, Bend, OR 97708-6005
+� (541) 388-6575 @cdd@deschutes.org @ www.deschutes.org/cd
+from the state's resource land (farm and forest zone) protections. While the protections afforded to
+resource lands allow residential uses only in conjunction with a farm or forest use, rural residential
+zones allow a dwelling as a primary use of the land. Prior to the adoption of SB 391, state law allowed
+counties to permit an additional dwelling on a property containing a house built prior to 1945. 2
+However, unlike urban zones, rural residential zones did not have other by-right accessory dwelling
+options, making inter-generational and alternative housing options difficult to achieve.
+SB 391 only authorizes ADUs on lands zoned for rural residential use. Areas zoned for rural
+residential use are defined by ORS 215.501 to mean "land that is not located inside a UGB as defined
+in ORS 195.060 (Definitions) and that is subject to an acknowledged exception to a statewide land
+use planning goal relating to farmland or forestland and planned and zoned by the county to allow
+residential use as a primary use." The applicable zoning designations in Deschutes County for these
+lands are Multiple Use Agricultural (MUA-10), Rural Residential (RR-10), Suburban Low Density
+Residential (SR 2.5), Urban Area Reserve (UAR-10), and Westside Transect Zone (WTZ).
+B. Senate Bill 644
+On May 8, 2023, the Oregon Legislature adopted Senate Bill (SB) 644, which amends requirements
+relating to wildfire hazard mitigation for development of accessory dwelling units on lands zoned
+for rural residential use. 3 Prior to adoption of SB 644, counties were required to wait for final
+adoption of the Statewide Map of Wildfire Risk (Statewide Wildfire Hazard Map) from the Oregon
+Department of Forestry (ODF) as identified in SB 7624 prior to adoption of any local administering
+rural ADU standards. SB 644 decouples adoption of the Statewide Map of Wildfire Risk (Statewide
+1/1/ilrlfi..-,-, Ucn::,rrl 1\11::in) frr,rn tho ::irlr,ntir,n r,f :::in\/ lr,r:::il n doc :::illrnMina n 1r:::1I Anl le n, 1rina :::1n11 inti:,rim V V IIU 111 '- I IUL..U I \,A IVIU fJJ 11 VI I I \..I l'I,,., \.A:UV f"'\..l\,JI I - I _, 'J ,_...__, I ............... ....... _ V" II 'b I ...... -· , u .... _ _,_ - -· II 'O ..... I 'J "' ......... "'.
+period where a local jurisdiction has adopted rules allowing ADUs and prior to the release of the
+final map, any constructed ADUs will be subject to the home hardening building codes as described
+in section R327 of the Oregon Residential Specialty Code.
+C. Deschutes County Rural ADU Ordinance
+In addition to only applying to lands recognized as rural residential exception areas, SB 391 also
+contains minimum criteria that must be met for a lot or parcel to qualify for an ADU. Many of those
+criteria are general in nature and therefore require counties to provide their own interpretations or
+definitions. At the same time, SB 391 contains several provisions related to wildfire hazard
+mitigation, which relied on and referred to actions at the state level as directed by the passage of
+SB 762, a comprehensive wildfire hazard mitigation bill. 5 While wildfire requirements were being
+created at the state level, staff worked with the Board of County Commissioners to "translate" the
+language of SB 391 into the local code presented in these amendments.
+2 House Bill 3012 (2017).
+3 https:/ / olis.oregonlegislatu re.gov/liz/2023 R 1 /Down loads/Measu reDocument/SB644/Enro I led
+4 https:/ / olis.oregonlegislatu re.gov/I iz/2021 R 1 /Down loads/Measu reDocu ment/SB762/Enrol led
+5 SB 1533 (2022) corrected broken links in SB 762 related to wildfire mapping.
+247-22-000671-TA Page 2 of 43
+Ill. PROPOSAL:
+This is a legislative text amendment to Deschutes County Code (DCC), Title 18, County Zoning, and
+Title 19, Bend Urban Growth Boundary Zoning Ordinance. The primary purpose of the amendments
+is to allow rural ADUs per the adoption of SB 391 and SB 644. The proposal creates two new
+subsections (effectively the same, but pertaining to different zones in Titles 18 and 19) that govern
+the criteria for rural ADUs. Table 1 provides a summary of each provision of the amendments.
+Table 1 - SB 391 & SB 644 Requirements
+Topic SB 391/SB 644 Requirements Comment
+SB 644 Section 1 (2)(c} requires one single-family DCC 18.116.355(6)(1) and DCC
+Single Family Dwelling dwelling to be located on the lot or parcel. 19. 92.160(8)(1) are consistent with
+SB 391/SB 644.
+SB 644 Section 1 {2){a) requires that the lot or
+parcel is not located within an area designated as DCC 18.116.355{8)(2) and DCC an urban reserve as defined in ORS 195.137. In Urban Reserve Area Deschutes County, the Redmond Urban Reserve 19.92.160(8){2) are consistent with
+Area is the only urban reserve that meets this SB 391 /SB 644.
+definition.
+SB 644 Section 1 (1 )(b) requires that "Area zoned
+for rural residential use" has the meaning given
+that term in ORS 215.501.
+ORS 215.501 (1 )(b}, "Area zoned for rural Pursuant to DLCD, Acknowledged
+residential use" means land that is not located nonresource plan amendments
+Nonresource Lands inside an urban growth boundary as defined in and zone changes from Exclusive
+ORS 195.060 (Definitions) and that is subject to an Farm Use (EFU) to RR-10 or MUA-
+acknowledged exception to a statewide land use 10 are eligible for an ADU.
+planning goal relating to farmland or forestland
+and planned and zoned by the county to allow
+residential use as a primary use.
+SB 644 Section 1 (2){i) requires that no portion of
+the lot or parcel is within a designated area of DCC 18.116.355(8)(4) and DCC Areas of Critical State critical state concern. Areas of critical state
+Concern concern are generally defined in ORS 197.405 and 19.92.160(8)(4) are consistent with
+apply to the Metolius Area of Critical State SB 391/S8 644.
+Concern in ORS 197.416.
+DCC 18.11 6.355(8)(5) and DCC
+19.92.160(8)(5) are consistent with
+SB 391/SB 644.
+SB 644 Section 1 (2)(b) requires the subject lot or DCC 18.116.355(6)(5) and DCC
+Minimum Lot Size parcel be at least two acres in size. 19.92.160(8)(5) also require a
+minimum lot or parcel to be at
+least 5 acres in size south of
+Sunriver due to groundwater
+protection.
+247-22-000671-TA Page 3 of 43
+Topic SB 391/SB 644 Requirements Comment
+DCC 18.116.355(8)(6) and DCC
+19.92.160(B)(6) are consistent with
+SB 644 Section 1 (2)(m)(A) requires that the ADU SB 391/644. Both require a
+Setbacks has adequate setbacks from adjacent lands minimum setback of 100 feet
+zoned for resource use. between the ADU and adjacent
+EFU and Forest Use zoned (F-1, F-
+2) properties.
+DCC 18.116.355(B)(7) and DCC
+19.92.160(B)(7) are consistent with
+SB 391/SB 644.
+SB 644 Section 1 (2)(f) limits the size of the ADU to Usable floor area is defined as,
+ADU Size 900 square feet of useable floor area. "the area of the accessory dwelling
+unit included within the
+surrounding insulated exterior
+walls, exclusive of garages,
+carports, decks and porch covers."
+DCC 18.116.355(8)(8) and DCC
+19.92.160(B)(8) are consistent with
+SB 391/SB 644.
+Both require the ADU be located
+no farther than 100 feet from the
+existing single-family dwelling,
+SB 644 Section 1 (2)(g) requires the ADU to be measured from a wall of the
+Distance from Dwelling located no farther than 100 feet from the single- single-family dwelling to the
+family dwelling. 6 nearest part of the useable floor
+area of the ADU. An exception to
+this standard has been provided
+for pre-existing structures
+converted to ADUs by allowing
+measurements to be taken from
+non-useable floor area portions of
+the ADU.
+Sanitation and SB 644 Section 1 (2)(e) requires the ADU to comply DCC 18.116.355(B)(9) and DCC
+Wastewater with applicable sanitation and wastewater 19.92.160(B)(9) are consistent with
+regulations. SB 391/SB 644.
+SB 644 Section 1 (2)0) requires the lot or parcel be DCC 18.116.355(B)(10) and DCC Fire Protection District served by a fire protection service provider with
+Service professionals who have received training or 19.92.160(B)(10) are consistent
+certification described in ORS 181A.410. with SB 391 /SB 644.
+6 The bill language and legislative history are unclear if the entire ADU must be entirely within 100 feet of the dwelling or
+just a portion. Local governments are therefore granted deference to interpret this provision.
+247-22-000671-TA Page 4 of 43
+Topic SB 391/SB 644 Requirements Comment
+DCC ·18.1 , 6.355(8)( 11) and DCC
+19.92.160(8)(11) are consistent
+with SB 391 /SB 644.
+SB 644 Section 1 (2)(m)(B) requires that the ADU As an alternative standard, both
+Access and Evacuation has adequate access for firefighting equipment sections allow certification of
+and safe evacuation and staged evacuation areas. access by the applicable fire
+protection district and that there
+are evacuation plans and staged
+evacuation areas.
+SB 644 Section 1 (2)(k) requires that if the lot or DCC 18.116.355(6)(13) and DCC
+parcel is in an area identified on the statewide 19.92.160(6)(13) are consistent
+map of wildfire risk described in ORS 477.490 as with SB 391 /SB 644.
+within the wildland-urban interface, the lot or Consistent with SB 644, the code Wildland Urban Interface parcel and accessory dwelling unit comply with sections identify alternatives for (WUI) Defensible Space any applicable minimum defensible space properties wishing to develop Requirements requirements for wildfire risk reduction rural AD Us prior to and after the established by the State Fire Marshal under ORS adoption of the Statewide Wildfire 476.392 and any applicable local requirements Hazard Map identified in SB for defensible space established by a local 762/SB 80. government pursuant to ORS 476.392
+SB 644 Section 1 (2)(I)(A) requires that if the lot or
+parcel is in an area identified on the statewide DCC 18.116.355(8)(12) and DCC
+map of wildfire risk described in ORS 477.490, the 19.92.160(8)(12) are consistent
+ADU must comply with R327 (fire hardening with SB 391/SB 644.
+standards) in the Oregon Residential Specialty Consistent with SB 644, the code
+Wildland Urban Interface Code. sections identify alternatives for
+(WUI) Fire Hardening properties wishing to develop
+SB 644 Section 1 (2)(1)(8) requires that if no rural ADUs prior to and after the
+statewide map of wildfire risk has been adopted, adoption of the Statewide Wildfire
+the ADU must comply with R327 (fire hardening Hazard Map identified in SB
+standards) in the Oregon Residential Specialty 762/SB 80.
+Code
+SB 644 Section 1 (2)(d) requires the existing single-
+family dwelling property on the lot or parcel is not DCC 18.116.355(6)(14) and DCC
+Nuisance subject to an order declaring it a nuisance or 19.92.160(6)(14) are consistent
+subject to any pending action under ORS 105.550 with SB 391/SB 644.
+to 105.600.
+SB 644 Section 1(2)(m)(C)(4)(a) and (b) preclude a
+Subdivision and Other subdivision, partition or other division of the lot DCC 18.116.355(8)(15) and DCC
+Accessory Dwelling or parcel so that the existing single-family 19.92.160(6)(15) are consistent dwelling is situated on a different lot or parcel Unit Limitations than the ADU; and precludes construction of an with SB 391 /SB 644.
+additional ADU on the same lot or parcel.
+247-22-000671-TA Page 5 of 43
+Topic
+Water Supply
+Water Right Exempt Use
+Water Right Restrictions
+Vacation Occupancy
+IV. FINDINGS:
+SB 391/SB 644 Requirements
+SB 644 Section 1 (2)(m)(C)(5) allows a county to
+require that the ADU be served by the same
+water source or water supply system as the
+existing single-family dwelling. If the ADU is
+served by a well, the construction of the ADU
+shall maintain all setbacks from the well required
+by the Water Resources Commission or Water
+Resources Department.
+SB 644 Section 1 (2)(m)(C)(6) recognizes that a
+single-family dwelling and an ADU are considered
+a single unit and therefore do not require a
+groundwater permit from the Oregon Water
+Resources Department.
+SB 644 Section 1 (2)(h) requires that no AD Us be
+permitted in areas if the water supply source for
+the accessory dwelling unit or associated lands or
+gardens will be a well using water under ORS
+537.545 (1 )(b) or {d), no portion of the lot or
+parcel is within an area in which new or existing
+ground water uses under ORS 537.545 (1 )(b) or
+{d) have been restricted by the Water Resources
+Commission 7.
+SB 644 Section 1 {2){m)(C)(3) prevents an ADU
+from being used for vacation occupancy as
+defined in ORS 90.100.
+CHAPTER 22.12, LEGISLATIVE PROCEDURES
+Section 22.12.010.
+Hearing Required
+Comment
+DCC 18.116.355(8)(16) and DCC
+19.92.160(B){16) are consistent
+with SB 391/SB 644.
+While not requiring the same
+water source, DCC
+18.116.355(6)(16) and DCC
+19.92.160{B){16) require setbacks
+from the well to be maintained
+from an ADU.
+DCC 18.116.355(B)(18) and DCC
+19.92.160(B)(18) are consistent
+with SB 391 /SB 644.
+DCC 18.116.355(B)(18) and DCC
+19.92.160{B){18) are consistent
+with SB 391 /SB 644.
+DCC 18.116.355{B){20) and DCC
+19.92.160{B){20) are consistent
+with SB 391/SB 644. Additional
+standards prohibit the primary
+single-family dwelling onsite from
+use as a vacation rental after
+construction of a lawful ADU
+Both require a restrictive covenant
+be recorded to ensure compliance.
+FINDING: This criterion will be met because a public hearing was held before the Deschutes
+County Planning Commission and Board of County Commissioners.
+7 Deschutes County does not contain any critical groundwater areas as defined by the Water Resources Commission.
+247-22-000671-TA Page 6 of 43
+Section 22.12.020. Notice
+Notice
+A. Published Notice
+1. Notice of a legislative change shall be published in a newspaper of general
+circulation in the county at least 10 days prior to each public hearing.
+2. The notice shall state the time and place of the hearing and contain a statement
+describing the general subject matter of the ordinance under consideration.
+FINDING: This criterion will be met as notice was published in the Bend Bulletin newspaper for the
+Planning Commission public hearing, and the Board of County Commissioners' public hearing.
+8. Posted Notice. Notice shall be posted at the discretion of the Planning Director and
+where necessary to comply with ORS 203.045.
+FINDING: Posted notice was determined by the Planning Director not to be necessary.
+C. Individual notice. Individual notice to property owners, as defined in DCC
+22.08.010(A), shall be provided at the discretion of the Planning Director, except as
+required by ORS 215.503.
+Fii'1Dii'1G: Given the proposed legislative amendments do not apply to any specific property, no
+individual notices were sent.
+D. Media notice. Copies of the notice of hearing shall be transmitted to other
+newspapers published in Deschutes County.
+FINDING: Notice was provided to the County public information official for wider media
+distribution. This criterion is met.
+Section 22.12.030 Initiation of Legislative Changes.
+A legislative change may be initiated by application of individuals upon payment of
+required fees as well as by the Board of County Commissioners.
+FINDING: The application was initiated by the Deschutes County Planning Division at the direction
+of the Board of County Commissioners, and has received a fee waiver. This criterion is met.
+Section 22.12.040. Hearings Body
+A. The following shall serve as hearings or review body for legislative changes in this
+order:
+1. The Planning Commission.
+247-22-000671-TA Page 7 of 43
+2. The Board of County Commissioners.
+B. Any legislative change initiated by the Board a/ County Commissioners shall be
+reviewed by the Planning Commission prior to action being taken by the Board of
+Commissioners.
+FINDING: The Deschutes County Planning Commission held the initial public hearing on September
+22, 2022 and subsequently reviewed the proposed amendments on July 13, 2023. The Board then
+held a public hearing on July 26, 2023. These criteria are met.
+Section 22.12.050 Final Decision
+All legislative changes shall be adopted by ordinance
+FINDING: The proposed legislative changes will be implemented by Ordinance No. 2023-014 upon
+approval and adoption by the Board of County Commissioners. This criterion will be met.
+B. Statewide Planning Goals and Guidelines
+Goal 1: Citizen Involvement: The amendments do not propose to change the structure of the
+County's citizen involvement program. Notice of the proposed amendments was provided to the
+Bulletin for the Board public hearing.
+Goal 2: Land Use Planning: This goal is met because ORS 197.610 allows local governments to initiate
+post acknowledgments plan amendments (PAPA). An Oregon Land Conservation and Development
+Department 35-day notice was initiated on August 17, 2022. An Oregon Land Conservation and
+Development Department 35-day notice was reinitiated on June 7, 2023 to capture amendments
+required by state legislative action. The Planning Commission held a public hearing on September
+22, 2022 and the Board of County Commissioners held a public hearing on July 26, 2023. The
+Findings document provides the adequate factual basis for the amendments.
+Goal 3: Agricultural Lands: No changes related to agricultural lands are proposed as part of the text
+amendments. This goal does not apply.
+Goal 4: Forest Lands: No changes related to forest lands are proposed as part of the text
+amendments. This goal does not apply.
+Goal 5: Open Spaces, Scenic and Historic Areas, and Natural Resources: By adopting SB 391 in 2021
+and SB 644 in 2023, the Oregon Legislature added a new use, Accessory Dwelling Units (ADUs), to
+rural residential exception areas. Local governments can choose to allow this use by: 1) amending
+their zoning codes and complying with SB 391/SB 644's development standards. Goal 5 does not
+apply.
+247-22-000671-TA Page 8 of 43
+However, to the extent that it does, lc,cai governments apply Goal 5 to a PAPA when the amendment
+allows a new use and the new use "could be" a conflicting use vvith a particular Goal 5 resource site
+on an acknowledged resource list. Certain areas in rurai Deschutes County, zoned MUA-10 and RR-
+10 contain Goal 5 resources because they are overlaid with a Wildlife Area Combining Zone. Two
+zoning codes are being amended to allow Rural ADUs and are therefore subject to an ESEE Analysis.
+No other changes to the code warrant specific ESEE Analysis as they are not adding new uses that
+conflict with Goal 5 resources. The ESEE analysis is included in Appendix A which is attached to this
+document.
+Goal 6: Air, Water and Land Resources Quality: The proposed text amendments do not propose
+changes to the County's Comprehensive Plan policies or implementing regulations for compliance
+with Goal 6, and therefore are in compliance. However, it is worth noting that the amendments
+preclude citing an ADU south of Sunriver on lots or parcels less than 5 acres. In the eligible zones
+south of Sunriver, there are 1,129 tax lots between 2 acres or larger, and 319 tax lots 5 acres or
+larger.
+Goal 7: Areas Subject to Natural Disasters and Hazards: The proposed text amendments do not
+propose to changes the County's Comprehensive Plan or implementing regulations regarding
+natural disasters and hazards; therefore, they are in compliance. Eligible properties subject to SB
+762/SB 644 and those constructed prior to adoption of the Statewide Wildfire Hazard Map, will be
+required to comply with Oregon Residential Specialty Code (R327) to fire harden the ADU and
+coordinate with the Oregon State Fire Marshal or local fire protection districts to ensure the
+property has defensible space.
+Goal 8: Recreational Needs: Accessory Dwelling Units are not a recreational use or need. This goal
+does not apply.
+Goal 9: Economic Development: Accessory Dwelling Units are not primarily economic in nature. This
+goal does not apply.
+Goal 1 O: Housing: This goal is not applicable because unlike municipalities, unincorporated areas
+are not obligated to fulfill certain housing requirements.
+Goal 11: Public Facilities and Services: Accessory Dwelling Units in the rural county typically rely on
+domestic wells and onsite wastewater treatment systems. A Goal 11 exception would be required
+for a centralized sewer system and would need to be applied on a property specific, needs related
+basis. This goal does not apply.
+Goal 12: Transportation: By adopting SB 391 in 2021 and SB 644 in 2023, the Oregon Legislature
+added a new use, Accessory Dwelling Units (ADUs), to rural residential exception areas. Local
+governments can choose to allow this use by amending their zoning codes and complying with SB
+391 /SB 644's development standards. ADUs will still be subject to Transportation System
+Development Charges (SDCs) prior to the issuance of a building permit.
+247-22-000671-TA Page 9 of 43
+To the extent that the TranspoI tation Planning Ruie at OAR 660-0i 2-0060 does apply, staff notes
+the following comments from ti"1e County's Senior Transportation Planner:
+The Transportation Planning Rule (TPR) at OAR 660--012-0060 requires a determination if a
+new land use regulation will significantly affect a transportation facility. Approximately 9,831
+lots could be eligible for a rural accessory dwelling unit (ADU) based on zoning and size of
+the tax lot with roughly 3,000 tax lots being eligible immediately. The remaining roughly
+6,000 tax lots' eligibility will need to be determined based on the wildfire rules and
+requirements in development based on Senate Bill (SB) 763 [sic].
+The potential lots for a rural ADU are geographically spread out:
+• Bend area: 3,876 lots
+• Redmond area: 2,886 lots
+• Sisters area: 1,576 lots
+• South County: 1,123 lots
+The County is currently updating its 2010-2030 Transportation System Plan (TSP) to 2020-
+2040. The analysis of future traffic volumes only indicated a few intersections that would not
+meet County performance standards. Both were tied to the Deschutes Junction interchange
+at US 97 /Deschutes Market Road-Tuma lo. The TSP has planned improvements to mitigate
+the deficiencies at those intersections.
+The geographic distribution of the lots, the adequate reserve capacity on the County system,
+the low trip generation of each home, an average of nine daily trips, including one p.m. peak
+hour trip, and the fact the lots will develop over years and years, means the road system is
+adequate to handle the traffic volumes generated by rural ADUs.
+The rural ADUs do not result in any changes to the County's functional classifications or
+access management policies. The County collects transportation system development
+charges (SDCs) for all new developments, including single-family homes. The SOC rate is
+indexed to construction costs and resets every July 1. As a rural ADU is essentially a second
+home on the property, the County would collect SDCs as each rural ADU develops. The
+current SOC rate for a single-family home is $4,115. If the SOC rate remained unchanged,
+which is highly unlikely, the 9,831 lots would generate $38.6 million dollars in SDCs.
+The addition of a second rural ADU on approximately 9,381 lots will not create a significant
+nor adverse effect to the County transportation system and thus complies with the TPR.
+Goal 13: Energy Conservation: Any future site-specific application for an ADU will be required to
+incorporate energy conservation measures through the Oregon Building Code. This goal does not
+apply.
+247-22-000671-TA Page 10 of 43
+Goal 14: Urbanization: The purpose of Goal 14 is to direct urban uses to areas inside UGBs. As the
+proposed amendments do not seek to allow urban uses on rural land, nor do they seek to expand
+an existing urban growth boundary, this goal does not apply.
+Goals 15 through 19: Deschutes County does not contain any of the relevant land types included in
+Goals 15-19. Therefore these goals do not apply.
+C. Deschutes County Comprehensive Plan
+Chapter 3, Rural Growth
+Section 3.3, Rural Housing
+3.3.5 Maintain the rural character of the County while ensuring a diversity of housing opportunities,
+including initiating discussions to amend State Statute and/or Oregon Administrative Rules to
+permit accessory dwelling units in Exclusive Farm Use, Forest and Rural Residential zones.
+FINDING: Implementing SB 391 and SB 644, which allows ADUs to be sited in rural residential
+exception areas, is consistent with Policy 3.3.5.
+V. CONCLUSION:
+Based on the information provided herein, the staff recommends the Board of County
+Commissioners approve the proposed text amendments to allow an owner of a lot or parcel within
+a rural residential exception area to construct one accessory dwelling unit (ADU) subject to certain
+restrictions and limitations.
+247-22-000671-TA Page 11 of 43
+Rural Accessory Dwelling Unit Text
+Amendment
+Appendix A: ESEE Analysis Document to
+File No. 247-22-000671-TA
+247-22-000671-TA Page 12 of 43
+247-22-000671-TA
+Deschutes County Community Development
+September 27, 2023
+Table of Contents
+Chapter 1: Overview of Goal 5 and ESEE Analyses ........................................................... 11
+Chapter 2: Deschutes County Goal 5 Inventory and Methodology .................................. 14
+Chapter 3: Conflicting Use Analysis ..................................................................................... 16
+Chapter 4: Impact Areas ...................................................................................................... 19
+Chapter 5: ESEE Analysis ...................................................................................................... 20
+Chapter 6: ESEE Decision ..................................................................................................... 27
+Chapter 7: Program to Achieve Goal 5 ................................................................................ 28
+References
+Attachment 1 - Deschutes County Goal 5 Inventory Summary Table
+Attachment 2 - Inventory Site Maps
+247-22-000671-TA Page 14 of 43
+Chapter 1: Overview of Goal 5 and ESEE Analyses
+Introduction
+This appendix report was prepared to supplement the findings document associated with File No.
+247-22-000671-TA. Deschutes County is amending Deschutes County Code (DCC), Titles 18 and 19
+to allow Rural Accessory Dwelling units (AD Us) consistent with Senate Bill (SB) 391 (2021) and SB
+644 (2023) in Multiple Use Agricultural (MUA-10), Rural Residential (RR-10), Suburban Low Density
+Residential (SR 2.5), Urban Area Reserve (UAR-10), and Westside Transect Zones (WTZ). DCC Chapter
+18.88 is the Wildlife Area (WA) Combining Zone, which recognizes four Goal 5 inventories: Antelope
+Range, Deer Migration Corridor, Deer Winter Range, and Significant Elk Habitat. Certain areas in
+rural Deschutes County, zoned MUA-10 and RR-10, are overlaid with a Deer Migration Corridor, Deer
+Winter Range, and/or Significant Elk Habitat.
+In addition, there are some areas zoned MUA-10 and RR-10 that contain Goal 5 riparian resources
+and their associated fish, furbearer, waterfowl, and upland game bird habitat. Recognizing that an
+ADU is a new conflicting use in the WA Combining Zone, Deschutes County is applying Goal 5 in
+consideration of this Post Acknowledgment Plan Amendment (PAPA). The full findings document
+provides additional detail and background information regarding the intent of the amendments and
+compliance with other applicable local and state regulations outside of Statewide Land Use Planning
+Goal 5 - Natural Resources, Scenic and Historic Areas, and Open Spaces .
+..... - - _, ___ .,,_ __ ,,. _____ .._ __ ,. __ .,. n-------UeSCnU"CeS \..OUniy UUdl ::J r-ru�IC:1111
+The purpose of Goal 5 is "to protect natural resources and conserve scenic and historic areas and
+open spaces." Local governments, as part of the Comprehensive Planning process, are required to
+inventory the extent, location, quality, and quantity of significant natural resources within their
+jurisdictional boundaries. Following this inventory, local governments then conduct an economic,
+social, environmental, and energy (ESEE) analysis to determine the extent to which land uses should
+be limited in order to adequately protect significant resources. Following an ESEE analysis,
+governments then establish a program to protect significant natural resources. Deschutes County
+established its initial Goal 5 natural resource inventory, ESEE analyses, and protection programs
+between the years of 1988-1994, as part of periodic review.
+In reviewing this document, it is important to acknowledge there are six policies and development
+standards within the Deschutes County Comprehensive Plan and DCC that were established
+through ESEEs over time that could still limit the development of ADUs near inventoried Goal 5
+resources. Deschutes County finds the proposed amendments do not alter the following existing
+protections.
+1. Setback Protections: 100-foot structural setback from the ordinary high water mark
+(OHWM) of rivers and streams.
+247-22-000671-TA Page 15 of 43
+2. Scenic Protections: Development near rivers in the Landscape Management
+Combining Zone must be revievved for aesthetic compatibility.
+3. Wetland Protections: Prohibition of fill or removal of any material or wetland
+vegetation, regardless of the amount, within the bed and banks of any stream or
+river or in any wetland unless approved as a conditional use.
+4. Mitigation Protections: Impacts to any wetland or riverbank impacts to be fully
+mitigated, as evaluated by Oregon Department of Fish and Wildlife (ODFW).
+5. Flood Plain Protections: All new construction, expansion or substantial improvement
+of an existing dwelling, an agricultural related structure, a commercial, industrial or
+other non-residential structure, or an accessory building in a designated Flood Plain
+must obtain a conditional use permit.
+6. Combining Zone Requirements: Deer Migration Corridor, Deer Winter Range, Elk
+Habitat, and Sensitive Bird and Mammal Habitat have site specific requirements
+including development setbacks and/or seasonal construction requirements to
+prevent impacts to sensitive species and habitat.
+Required Steps and Discretionary Review
+Local governments are required to comply with Goal 5 when a PAPA allows a new use and the new
+use "could be" a conflicting use with a particular Goal 5 resource site on an acknowledged resource
+list.8 Deschutes County is amending the MUA-10, RR-10, SR 2.5, UAR-10 and WTZ zoning chapters
+to allow AD Us consistent with SB 391 (2021) and SB 644 (2023).
+ADUs have the potential to generate a certain level of noise and habitat alteration. As this new use
+could potentially impact Goal 5 resources, Deschutes County is conducting an ESEE Analysis to
+identify potential consequences and protections related to the amendments. ADUs will be added
+as a new permitted use in the MUA-10, RR-10, SR 2.5, UAR-10 and WTZ zones. As shown below, only
+two of those zones, MUA-1 O and RR-10 contain Goal 5 resources and are being reviewed as part of
+this ESEE analysis.
+Table 2: Zones Containing Goal 5 Resources
+• DCC Chapter 18.32, Multiple Use Agricultural
+Zone
+• DCC Chapter 18.60, Rural Residential Zone
+8 OAR 660-023-0250(3)(b)
+247-22-000671-TA
+• DCC Chapter 19.12, Urban Area Reserve Zone
+• DCC Chapter 19.20, Suburban Low Density
+Residential Zone
+• DCC Chapter 19.22, Westside Transect Zone
+ESE Es are meant to be analytical tools. The conte:nt of the ESEE is discretionary and is intended to
+be conducted by planning staff using existing information. An ESEE is not meant to focus exclusively
+on environmental impacts such as an Environmental impact Statement (E!S) under the National
+Environmental Policy Act (NEPA). Additionally, Goal 5 explains "the ESEE analysis need not be lengthy
+or complex, but should enable reviewers to gain a clear understanding of the conflicts and the
+consequences to be expected." 9 In utilizing this analytical tool, there are a few steps jurisdictions
+must include and address in accordance with OAR 660-023 - Procedures and Requirements for
+Complying with Goal 5:
+1. Identify Conflicting Uses - Does the land use or activity negatively impact natural resources?
+2. Determine Impact Area - What is the geographic extent to which land uses or activities
+adjacent to natural resources could negatively impact those resources?
+3. Analyze ESEE Consequences - What are the positive and negative consequences (both for
+development and natural resources) of a decision to fully protect natural resources, fully
+allow conflicting uses, or limit conflicting uses?
+4. Develop a program - How and to what extent will the natural resources be protected based
+on the ESEE analysis?
+A response to each of these steps is included throughout this report. The relevant page and chapter
+can be found in the table of contents.
+9 OAR 660-023-0040(1)
+247-22-000671-TA Page 17 of 43
+Chapter 2: Deschutes County Goal 5 Inventory and Methodology
+660-23-0030 - Inventory Goal 5 Res·ources
+Stemming from periodic review, Deschutes County adopted inventories for a variety of Goal 5
+natural resources (Attachment 1 ). Some of these resources have mapped geographic boundaries
+such as Deer Winter Range, whereas others are described as being located in general areas - such
+as furbearer habitat in riparian corridors. The inventories were produced at a countywide scale,
+with additional detail for the Deschutes River and its tributaries through the Deschutes County/City
+of Bend River Study. County staff digitized these habitat boundaries into Geographic Information
+Systems (GIS) shape files in the 2000s for public awareness. The shape files were created from hard
+copy maps and descriptions found in the ordinances establishing the County's Goal 5 program, in
+consultation with the Oregon Department of Fish and Wildlife (ODFW).
+Maps provided in this document include inventoried habitat that spatially overlaps with the MUA-
+10 and RR-10 zones impacted by the proposed text amendments (Attachment 2). The habitat areas
+include: deer migration corridor, deer winter range, elk habitat, flood plain, and wetlands. Staff
+utilized the County's WA Combining Zone layers to determine the general extent of habitat for big
+game species as the Combining Zone was designed to cover a larger area than the habitat itself
+(Ordinance 92-046). Inventoried streams and rivers are shown on the map, as well as wetlands and
+flood plains. Goal 5 Riparian areas (flood plain, wetlands and 100 feet measured from ordinary high
+water mark) associated with these water bodies is also the habitat area for fish, furbearers,
+waterfowl, and upland game birds (Ordinance 92-041, 94-007). As the proposed text amendments
+are legislative and do not impact any specific properties, staff did not review Goal 5 impacts on an
+individual parcel level basis. Instead staff identified the following potential resource sites in which
+the allowance of ADUs could potentially intersect with Goal 5 resources:
+Riverine Resources: Some properties in the MUA-1 O and RR-1 O zones are located in relative
+proximity to the Deschutes River, Little Deschutes River, Paulina Creek, and Whychus Creek and its
+associated Goal 5 Riparian Area.10 Ordinance 92-041 stated the following additional Goal 5
+resources depend on riparian corridors for habitat: furbearer, waterfowl, and upland game bird
+habitat. As the extent of the habitat locations for these species are not detailed in a boundary
+description or on a map, staff assumes the species habitat is found entirely inside the Riparian Area
+boundary shown in Attachment 2.
+Wildlife Area Combining Zone: The WA Combining Zone was adopted as a protection measure for
+antelope, deer, and elk in Deschutes County. As an overlay zone, the mapped area conservatively
+identified typical habitat and migration areas and provided additional development requirements
+to ensure impacts to wildlife are properly mitigated alongside the underlying base zone regulations.
+The zone encompasses the previously inventoried area for Antelope Range, Deer Migration
+10 There are 386 RR-10 tax lots, two acres or greater that abut the Little Deschutes River or Deschutes River and 505 tax
+lots that are split-zoned RR-10 or MUA-10 with the Flood Plain Zone. The Flood Plain Zone is not recognized as a rural
+residential exception area. RR-10 and MUA-1 O split zoned properties will be required to contain the minimum lot or parcel
+area to qualify for an ADU.
+247-22-000671-TA Page 18 of 43
+Corridor, Deer Winter Range, and Significant E!k Habitat. The proposed amendments add a
+conflicting use, ADUs which affect three habitat ranges in MUA-10 and RR-10: Deer Migration
+Corridor, Deer Winter Range, and Significant Eik Habitat. These habitat ranges are shown in
+Attachment 2. The maps include federal land. However, these properties are not subject to
+Deschutes County land use regulations.
+The Deschutes County Goal 5 inventory also includes scenic and open space sites such as Landscape
+Management Rivers and Streams, State Scenic Waterways and Federal Wild and Scenic Rivers, and
+Ecologically and Scientifically Significant Natural Areas - Little Deschutes River / Deschutes
+Confluence (Attachment 1 ). As these are resources associated with mitigating visual impacts and do
+not impact development potential, they are not impacted by the proposed amendments and
+therefore are not reviewed in this document.
+247-22-000671-TA Page 19 of 43
+Chapter 3: Conflicting Use Analysis
+660-023-0040(2): Identify conflicting uses. Local governments shall identify conflicting uses that
+exist, or could occur, with regard to significant Goal 5 resource sites. To identify these uses, local
+governments shall examine land uses allowed outright or conditionally within the zones applied
+to the resource site and in its impact area. Local governments are not required to consider allowed
+uses that would be unlikely to occur in the impact area because existing permanent uses occupy
+the site.
+Deschutes County is proposing to add AD Us in the MUA-10 and RR-10 zones in the WA Combining
+Zone. ADUs could be a conflicting use to significant Goal 5 resources as they generate vehicle trips,
+buildable footprints, and noise. Other uses that are allowed in the two zones are shown below.
+Table 3: Allowed Uses
+Zoning Outright Uses Conditional Uses
+Public use
+Semipublic use
+Dude ranch
+Kennel and/or veterinary clinic
+Guest house
+Manufactured home as a secondary accessory
+farm dwelling
+Exploration for minerals
+Private parks
+Agricultural uses Personal use airstrip
+Golf course Single family dwelling or Type 2 or 3 Home occupation manufactured home
+Harvesting a forest product Destination resorts
+Class I and II road or street projects Planned developments
+subject to land division standards Cluster developments
+Landfills MUA-10 Class Ill road or street project Timeshare Noncommercial horse stables Hydroelectric facility Horse events
+Operation, maintenance and piping of Storage, crushing and processing of minerals
+Bed and breakfast inn canals Excavation, grading and fill Type I Home occupation Religious institutions Historic accessory dwelling units Private or public schools
+Utility facility
+Cemetery
+Commercial horse stables
+Horse events
+Manufactured home park or RV park
+Wireless telecommunication facilities
+Guest lodge
+Surface mining in conjunction with operation and
+maintenance of irrigation system
+247-22-000671-TA Page 20 of 43
+Zoning Outright Uses Conditional Uses
+Public park
+Dude ranch
+Personal use airstrip
+Planned developments
+Single family dwelling or Cluster developments
+manufactured home Recreation-oriented facility
+Utility facility Landfills
+Community center Cemetery
+Agricultural use Timeshare
+Class I and II road or street projects Hydroelectric facility
+RR-10 subject to land division standards Bed and breakfast inn
+Class Ill road or street project Golf course
+Noncommercial horse stables Excavation, grading and fill
+Horse events Religious institutions
+Operation, maintenance and piping of Public use
+canals Semipublic use
+Type I Home occupation Commercial horse stables
+Historic accessory dwelling units Private or public schools
+Manufactured home park or RV park
+Wireless telecommunication facilities
+Surface mining in conjunction with operation and
+maintenance of irrigation system
+General Impacts of Conflicting Uses
+The proposed amendments would allow ADUs in inventoried Goal 5 resources. As part of the ESEE
+review "a local government may conduct a single analysis for two or more resource sites that are
+within the same area or that are similarly situated and subject to the same zoning". 11 In reviewing
+the proposed amendments, Deschutes County finds that the impacts from ADUs in the MUA-10 and
+RR-1 O zones as they relate to Deer Migration Corridor, Deer Winter Range, and Significant Elk
+Habitat are of such a similar nature that the impacts for these areas may be reviewed together via
+the general impacts described below.
+• Noise and Light
+ADUs as a secondary dwelling may distress inventoried wildlife, as they seek to avoid noise
+and light.
+• Habitat Removal
+ADUs would likely require removal of upland vegetation, grading, and soil compaction that
+could alter drainage and runoff patterns. This could increase peak runoff, cause bank
+erosion, flooding, or increase the flow of sediment into water bodies. The removal of upland
+vegetation could also reduce tree canopy and understory vegetation which could be utilized
+by wildlife, outside of their primary habitat.
+11 OAR 660-023-0040(4)
+247-22-000671-TA Page 21 of 43
+• Introduction of Invasive, Nonnative Plants
+ADUs may contribute to the spread of invasive, nonnative plants which could replace and
+degrade native vegetation of which many species depend.
+• Habitat Fragmentation
+Additional human development may result in fences, roads, traffic and other barriers to the
+movement of terrestrial wildlife that is critical to their survival.
+Greater detail on these potential conflicts and their consequences are provided below.
+247-22-000671-TA Page 22 of 43
+Chapter 4: Impact Areas
+660-023-0040(3): Determine the impact area. Local governments shall determine an impact area
+for each significant resource site. The impact area shall be drawn to include only the area in which
+allowed uses could adversely affect the identified resource. The impact area defines the
+geographic limits within which to conduct an ESEE analysis for the identified significant resource
+site.
+This step is discretionary and allows for the local jurisdiction to define which areas are the most
+vulnerable and/or most likely to be affected by the proposed amendments. The impact area for this
+ESEE analysis are properties that are within the Deer Migration Corridor, Deer Winter Range, and
+Significant Elk Habitat in the MUA-1 O and RR-10 zones. As this ESEE is not for any specific property,
+but instead reflects changes to the code generally, there is no individual property specific data.
+Properties in this impact area can be found in Attachment 2 - Impact Area Maps
+Impact Area Methodology
+To understand the impact of the proposed amendments, an estimate of the number of parcels is
+shown in Table 4 below.
+Table 4: Number of Affected Non-Federal Properties in Impact Area 12
+Zone
+Multiple Use Agricultural Zone
+Rural Residential Zone
+Total
+12 See footnote #8.
+Deer �i!igration Deer \A/inter
+0 9
+1,293 446
+1,293 455
+Elk
+0
+247-22-000671-TA Page 23 of 43
+Chapter 5: ESEE Analysis
+660-023-0040(4): Analyze the ESEE consequences. Local governments shall analyze the £SEE
+consequences that could result from decisions to allow, limit, or prohibit a conflicting use. The
+analysis may address each of the identified conflicting uses, or it may address a group of similar
+conflicting uses. A local government may conduct a single analysis for two or more resource sites
+that are within the same area or that are similarly situated and subject to the same zoning. The
+local government may establish a matrix of commonly occurring conflicting uses and apply the
+matrix to particular resource sites in order to facilitate the analysis. A local government may
+conduct a single analysis for a site containing more than one significant Goal 5 resource. The ESE£
+analysis must consider any applicable statewide goal or acknowledged plan requirements,
+including the requirements of Goal 5. The analyses of the £SEE consequences shall be adopted
+either as part of the plan or as a land use regulation.
+Background
+Deschutes County is choosing to conduct a single analysis for all resource sites as the impacts from
+ADUs could have very similar impacts to both riparian areas and fish and wildlife that depend on
+the riparian for their habitat, and for big game including deer and elk.
+As described above, the potential impacts fall into four general areas:
+• Noise and Light
+ADUs as a secondary dwelling may distress inventoried wildlife, as they seek to avoid noise
+and light.
+• Habitat Removal
+ADUs would likely require removal of upland vegetation, grading, and soil compaction that
+could alter drainage and runoff patterns. This could increase peak runoff, cause bank
+erosion, flooding, or increase the flow of sediment into water bodies. The removal of upland
+vegetation could also reduce tree canopy and understory vegetation which could be utilized
+by wildlife, outside of their primary habitat.
+• Introduction of Invasive, Nonnative Plants
+ADUs may the spread of invasive, nonnative plants which could replace and degrade native
+vegetation of which many species depend.
+• Habitat Fragmentation
+Additional human development may result in fences, roads, traffic and other barriers to the
+movement of terrestrial wildlife that is critical to their survival.
+247-22-000671-TA Page 24 of 43
+This step is discretionary. The purpose of an ESEE analysis is to provide a qualitative exercise for
+local governments to weigh the positive and negative consequences of three scenarios in order to
+determine a preferred outcome. Governments may choose to use quantitative data as necessary,
+but are not required to gather new information or hire wildlife biologists, economists, sociologists,
+or energy consultants.
+ESEE Scenario Descriptions
+Scenario (A) - Allow the Conflicting Use
+In this scenario, the local government may decide that a conflicting use should be allowed fully,
+without any restrictions, no matter the potential impacts on the inventory site(s). In this instance,
+the Goal 5 rule would require the government to determine the conflicting use is of such importance
+compared to the site that the use should be allowed without any protections or limitations. In
+choosing this scenario, the local government could still use other tools to protect the inventories
+that are currently in place.
+Scenario (BJ - Prohibit the Conflicting Use
+In this scenario, the local government may decide that the inventory site is of such importance or
+the conflicting use has the potential to be so detrimental to the inventory site(s), that the conflicting
+use should be entirely prohibited.
+Scenario (CJ - Limit the Conflicting Use
+In this scenario, the local government may decide that the inventory site and the conflicting use are
+both irnportant vvhen compared to each other, and the use should be allovved vvith !imitations to
+balance the impacts to the inventory site(s).
+Accessory Dwelling Unit ESEE Analysis
+Scenario (A) Allow the Conflicting Use
+In this scenario, Deschutes County would allow AD Us in MUA-10 and RR-10 zones without any
+additional requirements to protect the inventoried resources.
+Economic Consequences:
+Permitting ADUs would have positive consequences by allowing a second dwelling on a property.
+Deschutes County is experiencing a housing shortage. Allowing ADUs, which are limited to 900-
+square-feet of useable floor area and cannot be used as vacation rentals, could help address work
+force housing shortages in the region. It could reduce commuting costs for those workers that live
+in adjoining Crook, Jefferson and Klamath counties, and coupled with other work force housing
+strategies, attract businesses and employment opportunities in Central Oregon.
+Allowing ADUs could also have negative consequences. The development of ADUs in MUA-10 and
+RR-1 Ozones could significantly increase land value, which could price out low and middle-income
+residents from the opportunity to own a home. Previous testimony from ODFW estimates that
+hunting and wildlife viewing contributed more than $50 million to the Deschutes County economy
+annually. Deschutes County is proposing to allow ADUs in some areas that contain riparian areas
+247-22-000671-TA Page 25 of 43
+and species that rely on the riparian area for habitat including fish, furbearers, upland game birds,
+and waterfowl. Allowing for ADUs near these areas could reduce income associated with wildlife
+viewing and hunting of these species.
+In some parts of the county, mule deer populations have declined up to 70% since 2000 as a result
+of human caused habitat reduction, fragmentation, and disturbance on winter range. By allowing
+ADUs in Deer Migration Corridor, Deer Winter Range, and Significant Elk Habitat, there is the
+potential for greater disturbance of deer and elk populations that could reduce hunting and viewing
+opportunities.
+Social Consequences:
+Permitting ADUs could have positive consequences by allowing property owners with an existing
+single-family dwelling to build an ADU that accommodates aging parents or family members, farm
+help for those that are working on MUA-1 O zoned agricultural properties or nearby Exclusive Farm
+Use zoned properties. By providing affordable housing, it could help lift people out of poverty and
+increase economic mobility. It could bring a positive impact on the surrounding community,
+encouraging social connections and lowering crime rates.
+It could also have negative consequences by allowing ADUs in rural areas with inadequate access
+to employment, schools, food markets, medical facilities and parks. This could lead to higher
+automobile-dependence and vehicle emissions caused by more people driving to and from rural
+areas. Based on previous testimony from ODFW, there could also be negative impacts due to the
+potential loss of wildlife habitat. Many residents, advocacy organizations, and wildlife agencies
+continue to express concerns regarding the loss of fish and wildlife habitat due to the region's rapid
+growth and development. There is a recognition that increases in human activity, especially in rural
+areas, displace habitat and diminish, incrementally, Deschutes County's rural character and quality
+of life. The proposed amendments could have negative consequences due to increased human
+presence and infrastructure near the inventoried Goal 5 resources, which could lead to a reduced
+level of access and enjoyment for recreationalists.
+Environmental Consequences:
+In this scenario, ADUs would be permitted outright. As stated previously, ADUs could present
+negative impacts as they have the potential to increase noise and light near fish and wildlife habitats,
+and in turn cause distress to inventoried Goal 5 species.
+Developing an ADU would likely require removal of upland vegetation, grading, and soil compaction
+that could alter drainage and runoff patterns. This could increase peak runoff, cause bank erosion,
+flooding, or increase the flow of sediment into water bodies. The removal of upland vegetation could
+also reduce tree canopy and understory vegetation which could be utilized by wildlife, outside of
+their primary habitat. Permitting AD Us could create negative impacts to designated habitat for Deer
+Migration Corridor, Deer Winter Range, and Significant Elk Habitat. Based on previous testimony
+from ODFW, mule deer populations have declined up to 70% since 2000. Their testimony identified
+other elements contributing to reductions in mule deer populations tied to human caused habitat
+reduction, fragmentation, and disturbance on winter range.
+247--22-000671-TA Page 26 of 43
+As previously stated, the following Goal 5 protections established during the creation of the initial
+inventory would remain in place:
+1. Setback Protections: 100-foot structural setback from the ordinary high water mark of
+rivers or streams.
+2. Scenic Protections: Development near rivers in the Landscape Management Combining
+Zone must be reviewed for aesthetic compatibility.
+3. Wetland Protections: Prohibition of fill or removal of any material or wetland vegetation,
+regardless of the amount, within the bed and banks of any stream or river or in any
+wetland unless approved as a conditional use.
+4. Mitigation Protections: Impacts to any wetland or riverbank impacts to be fully mitigated,
+as evaluated by ODFW.
+5. Flood Plain Protections: All new construction, expansion or substantial improvement of an
+existing dwelling, an agricultural related structure, a commercial, industrial or other non­
+residential structure, or an accessory building in a designated Flood Plain shall obtain a
+conditional use permit.
+6. Combining Zone Requirements: Deer Migration Corridor, Deer Winter Range, Significant Elk
+Habitat and Sensitive Bird and Mammal Habitat have site specific requirements including
+development setbacks and seasonal construction requirements to prevent impact to
+sensitive species and habitat.
+Existing protections would prevent riparian areas from being developed with ADUs established near
+them. As the existing Goal 5 measures in place today protect riparian areas and the fish and wildlife
+within that habitat area, the addition of ADUs near these areas will be neutral.
+Energy Consequences:
+AD Us are unlikely to cause any major energy consequences. Per SB 391 and SB 644, the ADU must
+be within 100 feet of the existing dwelling. It must utilize the existing onsite system or an upgraded
+onsite system if there is no pre-existing centralized wastewater treatment system. It can also rely
+on an existing domestic well.
+A potential negative consequence of the proposed amendments could be additional development
+in rural Deschutes County. Depending on the location of the ADU, it could lead to additional Vehicle
+Miles Traveled and greater congestion on county owned roads for employment, education, and
+basic services.
+247-22-000671-TA Page 27 of 43
+Scenario (BJ Prohibit the Conflicting Usf#..
+In this scenario, Deschutes County would not allow /\DUs in the MUA-'10 and RR,.10 zones associated
+with the WA Combining Zone and Deer Migration Corridor, Deer Winter Range, and Significant Elk
+Habitat.
+Economic Consequences:
+Prohibiting ADUs could have negative economic consequences, as it prevents certain property
+owners from using their land and building a secondary dwelling unit. This could contribute to work
+force housing deficiencies in the region and compel residents to commute from adjoining areas in
+Crook, Jefferson, and Klamath counties.
+It could also have neutral consequences based on previous testimony from ODFW. Prohibiting ADUs
+could contribute to stabilizing mule deer populations, thereby maintaining economic benefits from
+wildlife viewing or hunting. Wildlife viewing, hunting, and fishing experiences in Deschutes County
+is a major economic asset to the region. Continuing with the current regulations could minimize
+further habitat fragmentation and help maintain wildlife viewing, hunting, and fishing revenues in
+Deschutes County.
+Social Consequences:
+Prohibiting ADUs could have negative consequences. Many residents and multi-generational
+families in Deschutes County need affordable housing and are rent-burdened. Limiting the potential
+supply of ADUs could exacerbate Central Oregon's housing crisis by forcing some residents to pay
+higher rents, commute longer distances for basic services, or relocate. Those circumstances could
+lead to further mental and physical stress.
+It could also have positive consequences. Many residents express their appreciation for
+undisturbed landscapes because they contribute to Deschutes County's rural character and quality
+of life. Prohibiting ADUs, which generate noise and light would continue to limit disturbance to
+existing fish and wildlife habitats.
+Environmental Consequences:
+There are 386 RR-1 O tax lots, two acres or greater that abut the Little Deschutes River or Deschutes
+River and 505 tax lots that are split-zoned RR-10 or MUA-10 with Flood Plain. These properties
+contain a Goal 5 Riparian Area which is also the habitat for Goal 5 inventoried waterfowl, upland
+game bird, furbearers, and fish. The WA Combining Zone contains Deer Migration Corridor, Deer
+Winter Range, and Significant Elk Habitat. By prohibiting AD Us and maintaining the status quo, these
+species will continue to be protected against habitat fragmentation and distress from second
+dwellings. The environmental consequences are therefore neutral.
+Energy Consequences:
+Energy consumption would have neutral consequences as this scenario maintains the status quo.
+Development associated with ADUs may be displaced to other areas of rural Deschutes County,
+which could still have demands on utilities.
+247-22-000671-TA Page 28 of 43
+Scenario (CJ Limit the Conflicting.!)_se
+In this scenario, Deschutes County would allow ADUs in the r✓lUA-10 and RR-10 zones, with
+additional limitations to protect the inventoried resources, outside of existing protections. For
+example, a limitation requiring the entire ADU to be within a 100 feet of the existing dwelling.
+Economic Consequences:
+Permitting ADUs would have positive consequences by allowing a second dwelling on a property.
+Deschutes County is experiencing a housing shortage. Allowing ADUs, which are limited to 900-
+square-feet of livable floor area and cannot be used as vacation rentals, could help address work
+force housing shortages in the region. It could reduce commuting costs for those workers that live
+in adjoining Crook, Jefferson and Klamath counties and coupled with other work force housing
+strategies, attract businesses and employment opportunities in Central Oregon.
+Compared to scenario (a) in which only a portion of the ADU must be within a 100 feet of the existing
+dwelling, the addition of limitations could lessen the impact by minimizing the buildable footprint
+and ultimately, the number of eligible properties, recognizing that some may not have enough area
+to accommodate an ADU. This could positively impact the hunting and wildlife viewing economy in
+Central Oregon, valued at $50 million annually. While such measures could lessen impacts, the
+overall burden caused by allowing ADUs nevertheless may still overall impact wildlife and thereby
+impact revenue generated from the recreation economy.
+In comparison to scenario (a), which would allow the use outright, Deschutes County finds that this
+scenario would provide a limitation to reduce the amount of impacts, even if those impacts still
+exist.
+Social Consequences:
+The positive social consequences in this scenario are very similar to scenario (a). Permitting ADUs
+could have positive consequences by allowing property owners with an existing single family
+dwelling to build an ADU that accommodates aging parents or family members, farm help for those
+that are working on MUA-10 zoned agricultural properties or nearby Exclusive Farm Use zoned
+properties. By providing affordable housing, it could help lift people out of poverty and increase
+economic mobility. It could bring a positive impact on the surrounding community, encouraging
+social connections and lowering crime rates.
+Adding a limitation requiring the entire ADU to be within a 100 feet of the existing dwelling (or
+others), could establish a negative consequence of ADUs in rural areas with inadequate access to
+employment, schools, food markets, medical facilities and parks. This could lead to higher
+automobile-dependence and vehicle emissions caused by more people driving to and from rural
+areas. Based on previous testimony from ODFW, there could also be negative impacts due to the
+potential loss of wildlife habitat stemming from the possible removal of habitat areas and
+construction of structures and their associated human presence. Many residents, advocacy
+organizations, and wildlife agencies continue to express concerns regarding the loss of fish and
+wildlife habitat due to the region's rapid growth and development. There is a recognition that
+increases in human activity, especially in rural areas, displace habitat and diminish, incrementally,
+Deschutes County's rural character and quality of life. The proposed amendments could have
+247-22-000671-TA Page 29 of 43
+negative consequences due to increased hu:nan presence and inft astructure near or within the
+inventoried Goal 5 resources, which could learl to a reduced levei of access and enjoyment for
+recreationalists.
+Environmental Consequences:
+ADUs could present negative consequences as they have the potential to increase activity, noise,
+and light near fish and wildlife habitats, and in turn cause distress to inventoried Deer Migration
+Corridor, Deer Winter Range, and Significant Elk Habitat.
+Development of an ADU would likely require removal of upland vegetation, grading, and soil
+compaction that could alter drainage and runoff patterns. This could increase peak runoff, cause
+bank erosion, flooding, or increase the flow of sediment into water bodies. The removal of upland
+vegetation could also reduce tree canopy and understory vegetation which could be utilized by fish
+and wildlife species, outside of their primary habitat. Permitting ADUs could result in further
+negative impacts to the Deer Migration Corridor, Deer Winter Range, and Significant Elk Habitat.
+Based on recent testimony from ODFW, mule deer populations have declined up to 70% since 2000.
+Their testimony identified other elements contributing to reductions in mule deer populations tied
+to human caused habitat reduction, fragmentation, and disturbance on winter range.
+Existing protections in place today (discussed above) would prevent Goal 5 riparian areas from
+being developed when ADUs are nearby. The establishment of ADUs in these areas would likely be
+neutral.
+n., 1: .......... :-4-: ..... - +-1.-. ...... ,...........,-4-;.,.,.... A r'\l I u,:+-hi- ...,, 1 nn .fr.n.f- ,...+ +-hi""\ r,.,,ir-t-inrT rJu,nllit'"\l"T t-hl""\ Y"\l""\t'T'""'lt-h,n l"'\Y"\\li V'Ann""lf"\nt- 1 1 oy llll llllll):, LIit: t:lllllt: /"\UU VVllllll l a IUU IC:Cl UI lll C CAl.::>llll5 uvvc:1111 15, lllC 11 c5allVC CI IVIIUIIIIIClllOI
+consequences associated with ADU could be mitigated to a certain extent.
+Energy Consequences:
+The energy consequences in this scenario are the same as in scenario (a). Limiting the entire ADU
+to within a 100 feet of the existing dwelling could decrease the amount of energy used to operate
+the ADU.
+247-22-000671-TA Page 30 of 43
+Chapter 6: ESEE Decision
+660-023-0040(5): Develop a program to achieve Goal 5. Local governments shall determine whether
+to allow, limit, or prohibit identified conflicting uses for significant resource sites. This decision
+shall be based upon and supported by the ESEE analysis. A decision to prohibit or limit conflicting
+uses protects a resource site. A decision to allow some or all conflicting uses for a particular site
+may also be consistent with Goal 5, provided it is supported by the ESEE analysis. One of the
+following determinations shall be reached with regard to conflicting uses for a significant resource
+site:
+(c) A local government may decide that the conflicting use should be allowed fully,
+notwithstanding the possible impacts on the resource site. The ESEE analysis must demonstrate
+that the conflicting use is of sufficient importance relative to the resource site, and must indicate
+why measures to protect the resource to some extent should not be provided, as per subsection
+(b) of this section.
+The graphic below is meant to be a simplified representation to balance each of the ESEE factors.
+As stated in the ESEE analysis, there are a variety of positive, negative, and neutral consequences
+associated with each scenario. Deschutes County finds that the issue of allowing an ADU in MUA-1 0
+and RR-10 zones are both a social and economic issue that outweighs the other ESEE consequences.
+The County considered allowing the use with limitations by limiting the entire ADU within a 100 feet
+of the existing dwelling, but this practice could limit the number of affordable housing
+opportunities. Therefore the County is choosing scenario (a) which will allow the use fully
+notwithstanding the possible impacts on the resource sites.
+Table 5: ESEE Factors
+Support habitat Support Support Preserves Rural functions Affordable Recreational Character Transportation ESEE Factors (Environmental, Housing Economy
+economic, (Social, (Economic, (Social, (Energy)
+social) economic) Social) economic)
+Prohibit conflict 0 0 0 0 (No code change) -
+Allow conflict
+Allow ADUs with + no additional - - - -
+requirements
+Limit conflict
+Allow ADUs with + additional - - - -
+limitation
+247-22-000671-TA Page 31 of 43
+Chapter 7: Program to Achieve Goal 5
+660-023-0050(1): For each resource site, local governments shall adopt comprehensive plan
+provisions and land use regulations to implement the decisions made pursuant to OAR 660-023-
+0040(5). The plan shall describe the degree of protection intended for each significant resource
+site. The plan and implementing ordinances shall clearly identify those conflicting uses that are
+allowed and the specific standards or limitations that apply to the allowed uses. A program to
+achieve Goal 5 may include zoning measures that partially or fully allow conflicting uses (see OAR
+660-023-0040(5)(b) and (C)).
+660-023-0050(2): When a local government has decided to protect a resource site under OAR 660-
+023-0040(5)(b), implementing measures applied to conflicting uses on the resource site and within
+its impact area shall contain clear and objective standards. For purposes of this division, a
+standard shall be considered clear and objective if it meets any one of the following criteria:
+(a) It is a fixed numerical standard, such as a height limitation of 35 feet or a setback of 50 feet;
+(b) It is a nondiscretionary requirement, such as a requirement that grading not occur beneath
+the dripline of a protected tree; or ...
+Deschutes County has determined that allowing ADUs within the MUA-10 and RR-10 zones and
+within the Deer Migration Corridor, Deer Winter Range, and Significant Elk Habitat should be
+allowed fully, notwithstanding the possible impacts on the inventoried resources. The implementing
+measures do not include alternative, discretionary procedures for compliance.
+247-22-000671-TA Page 32 of 43
+Attachment 1 - Deschutes County Significant Goal 5 Resources
+Inventoried Flood Plain Conflicts Comments Relevant
+Resource Relationship Ordinances
+Major conflicts are Floodplain zone recognized as
+program to achieve the goal to removal of riparian conserve fish habitat (Ordinance vegetation, fill and Nos. 88-030, 88-031, 89-009). Ordinance Nos. Fish Habitat removal activities
+(Inventory - Ord. within the bed and 86-018, 86-053,
+Others include: fill and removal 86-054, 86-056,No. 92-041, page Yes banks of streams or permits, wetland removal 88-030, 88-031,18; creeks, rivers wetlands, regulations, hydro prohibitions, 89-009, 92-040,and lakes) hydroelectric, rural rimrock setbacks, 100' setback 92-041residential from OHW, conservation development and easements and restrictions on water regulation boats and docks.
+Floodplain zone recognized as a
+program to achieve the goal to
+protect deer winter range
+Major conflicts are (Ordinance Nos. 88-030, 88-031,
+Deer Winter Range dwellings, roads, and 89-009).
+(Inventory - Ord. dogs. Activities which Ordinance Nos. No. 92-041, page cause deterioration of Others include Wildlife Area 88-030, 88-031,22; Metolius, Yes forage quality and Combining Zone. Requires 40-acre 89-009, 92-040,Tumalo, North quantity or cover are minimum lot size for all new 92-041, 92-042,Paulina, and Grizzly conflicting uses. residential land divisions. 92-046ranges identified by Fences which impede Underlying zoning in most of the
+ODFW safe passage are also deer winter range is: EFU, Forest,
+a conflicting use. and Floodplain. These zones
+provide for large lot sizes and limit
+uses that are not compatible with
+farm or forest zones.
+Wildlife Area Combining Zone was
+recognized as the only program to
+achieve the goal to protect the
+deer migration corridor. Underlying
+zoning is RR-10. It was amended to
+require cluster development for all
+Deer Migration Major conflicts are land divisions in the RR-10 zone in
+Corridor dwellings, roads, and the Bend/La Pine migration
+(Inventory - Ord. dogs. Fences which corridor (92-042). A 20-acre parcel Ordinance Nos.
+No. 92-041, page Yes impede safe passage is the minimum size required for a 92-040, 92-041,
+26; Bend-La Pine are also a conflicting cluster development. Siting and 92-042, 92-046
+migration corridor fencing standards also apply in the
+identified by ODFW) use. deer migration corridor. Migration
+corridor includes some EFU, Forest,
+and Floodplain zoned land. These
+resource zones provide for large lot
+sizes and limit uses that are not
+compatible with farm or forest
+zones.
+247-22-000671-TA Page 33 of 43
+Inventoried Flood Plain Conflicts Comments Relevant
+Resource Relationship Ordinances
+Wildlife Area Combining Zone was
+recognized as the only program to
+achieve the goal to protect the elk
+habitat.
+Major conflict is the It was amended to require a 160-
+loss of habitat due to acre minimum lot size for areas
+increased residential identified as significant elk habitat.
+densities in the Siting standards are required to
+habitat areas. minimize conflicts of residences
+Elk Habitat Increased human with habitat protection. Ordinance Nos.
+(Inventory - Ord. disturbance can cause 88-030, 88-031,
+No. 92-041- page Yes conflict with elk. The Underlying zoning in the elk habitat 89-009, 92-040,
+32; identified by use of land which areas is either Floodplain, Forest, or 92-041, 92-042,
+USFS and ODFW) necessitates the Open Space and Conservation. 92-046
+removal of large These resource zones restrict high
+amounts of vegetative density residential development
+cover can also alter and prohibit industrial and
+the quality of elk commercial uses.
+habitat.
+* Some lands are zoned RR10,
+including lots that are split zoned
+with flood plain. They are already
+parcelized, preventing future land
+divisions.
+Land use or To achieve the goal to conserve development
+Antelope Habitat activities which would antelope habitat, uses conflicting
+with antelope habitat are limited to (Inventory - Ord. result in the loss of the Wildlife Area Combining Zone. Ordinance Nos.
+No. 92-041 - page No habitat, and animal In antelope range, the minimum lot 92-040, 92-041,
+38; identified by harassment and 92-042, 92-046
+ODFW) disturbance size is 320 acres. Except for rural
+associated with service centers, the antelope
+human activity. habitat is zoned EFU or Fl.
+Nest sites are found in
+Forest, EFU and Open
+Habitat for Space and
+Sensitive Birds Conservation zones.
+Uses that could (Inventory - Ord. conflict with the No. 92-041- page habitat site are 41 and Table 5; surface mining, identified by ODFW, residential use, The Sensitive Bird and Mammal Ordinance Nos. ODF, OSU, Oregon No recreation facilities, Combining Zone achieves the goal 92-040, 92-041,Natural Heritage roads, logging, and air to protect sensitive bird sites. 92-042, 92-046Data Bases). strips.
+The area required Any activity which for each nest site
+varies between would disturb the
+nesting birds, species. including intensive
+recreational use or
+removal of trees or
+247-22-000671-TA Page 34 of 43
+Flood Plain Relevant Inventoried Conflicts Comments Ordinances Resource Relationship
+vegetation could
+confiict with the
+habitat site.
+Habitat areas for sensitive birds of
+the Fish and Wildlife Element,
+adopted in No. 92-041 is repealed
+and replaced by inventories in
+Exhibit 1. Area required around
+each nest site needed to protect (UPDATE- the nest from conflict varies Inventory- Ord. No. between species. It's called 94-004-pages 3 to "sensitive habitat area." Ordinance Nos. 140 Site specific No See above. 94-004, 94-005ESEE analysis and Note: Northern bald eagle, osprey, and 94-021decisions follow golden eagle, prairie falcon, and each site. great blue heron rookeries are
+located on federal land. Classified
+as "2A"Goal 5 Resources. Great
+Grey owl site no longer exists.
+Some bald eagle, golden eagle sites
+are controlled by the Sensitive Bird
+and Mammal Combining Zone.
+Floodplain zone recognized as
+program to achieve the goal to Waterfowl Habitat Future resort and conserve waterfowl habitat (Inventory- Ord. vacation home (Ordinance Nos. 88-030, 88-031, No. 92-041 - page development, human 89-009).56; includes all activity associated rivers, streams, with recreation along Others include: fill and removal Ordinance Nos. lakes and perennial rivers and lakes, permits, wetland removal 86-018, 86-054,wetlands and ponds timber-cutting around regulations, rimrock setbacks, 100' 86-056, 88-030,identified on the sensitive habitats, fill setback from OHW, conservation 88-031, 89-009,1990 US Fish and Yes and removal of easements, restrictions on boats 92-040, 92-041,Wildlife Wetland material in wetlands and docks, landscape management, 92-042- 92-045,Inventory Maps; and within the bed state and federal scenic water 92-046ODFW provided lists and banks of rivers regulations. In addition, the Forest of all bird species; and streams, and and EFU zones require large Co/City of Bend removal of riparian minimum lot size which limits the River Study vegetation are potential density of development in provides additional conflicting uses. the areas adjacent to many of the information) rivers, streams, wetlands, and
+ponds used for waterfowl habitat.
+247-22-000671-TA Page 35 of 43
+Inventoried Flood Plain Conflicts Comments Relevant
+Resource Relationship Ordinances
+Pheasant and quail
+are affected
+whenever agricultural For all of the upland game birds land is taken out of
+production through except sage grouse, the habitat is
+adequately protected by the Upland Game Bird urban sprawl, road existing EFU and Forest zoning and Habitat construction,
+(Inventory- Ord. industrial the provisions to protect wetlands
+and riparian areas to achieve the No. 92-041- page development and goal of protecting upland game 60; ODFW did not other land clearing birds. identify critical activities. Ordinance Nos. habitat for any of County provisions to protect 86-018, 86-the upland game Farming practices on riparian areas and wetlands protect 053,86-054, 86-species except for Yes existing agricultural one of the most significant 056, 88-030, 88-the sage grouse; lands also have an components of upland game 031, 89-009, 92-habitat for upland impact. Fence row, habitat. 040, 92-041, 92-game birds is woodlots, and riparian 042, 92-046dispersed vegetation are Note: conflicts with sage grouse are throughout the constantly being limited by EFU zoning with a 320 county in riparian, removed at the acre minimum parcel size. forest, agricultural, expense of upland Sensitive Bird and Mammal and rangeland bird use. Combining Zone pertaining to sage areas) grouse and leks have been Chapter 6 of repealed due to LCDC enacted rules County/City of Bend
+River Study identifies in OAR 660, Division 23.
+conflicting uses with
+upland bird habitat.
+Habitat areas for Upland Game Bird
+Habitat, adopted in No. 92-041 is
+repealed and replaced and further
+amended in Exhibit 4 with the ESEE
+Analysis and inventory for upland
+game bird habitat.
+Conflicts with sage grouse are
+reduced by the limitations on uses
+UPDATE - Inventory in the EFU and Floodplain zone, by Ordinance Nos.
+- Ord. No. 94-004 - Yes See above. the 320 acre minimum lot size and 94-004 and 94-
+pages 156-201. predominance of BLM lands. 021
+Note: conflicts with sage grouse are
+limited by EFU zoning with a 320
+acre minimum parcel size.
+Sensitive Bird and Mammal
+Combining Zone pertaining to sage
+grouse and leks have been
+repealed due to LCDC enacted rules
+in OAR 660, Division 23.
+247-22-000671-TA Page 36 of 43
+Inventoried Flood Plain Conflicts +: Comments Relevant
+Resource Relationship Ordinances
+bearer habitat is adequately
+protected by the existing EFU and
+The conflicting uses Forest zoning and the provisions to
+Furbearer Habitat are those activities or protect farm use and forest zoning,
+(Inventory - Ord. development which and the provisions to protect
+would degrade or wetlands and riparian areas to No. 92-041 - page destroy habitat, or achieve the goal to protect Ordinance Nos.
+65; ODFW has not disturb the animals furbearers. 86-018, 86-
+identified any Yes causing them to 053,86-054, 86-
+specific habitat sites relocate. The farm and forest zones require 056, 88-030, 88-
+other than riparian large minimum lot sizes and many 031, 89-009, 92-
+and wetland areas Conflicts between uses are permitted only as 040, 92-041
+that are critical for
+the listed species. furbearers and other conditional uses. The measures to
+land uses are minimal protect riparian and wetland
+in the county. habitat are detailed in this plan in
+the Riparian and Wetland Habitat
+section.
+Habitat Areas for Caves located in EFU
+zones. Uses permitted Townsend's Big- in those zones that Eared Bats could conflict with the (Inventory - Ord. habitat site are Program to achieve the goal is No. 92-041- page No surface mining, Sensitive Bird and Mammal Ordinance No.
+69; identified by recreation facilities Combining Zone 92-041 and 042
+ODFW, ODF, OSU, including golf courses Oregon Natural and destination Heritage Data resorts, roads, Bases) logging, and air strips.
+UPDATE - Inventory Habitat areas for Townsend Bats,
+-Ord. No. 94-004- adopted in No. 92-041 is repealed
+pages 140 to 155 and replaced and further amended Ordinance Nos.
+Site specific ESEE No See above. in Exhibit 2. The ESEE for 94-004 and 94-
+analysis and Townsend's big-eared bats is 021
+decisions follow amended for additional bat sites in
+each site. Exhibit 3.
+247-22-000671-TA Page 37 of 43
+--·-··
+Inventoried Flood Plain Conflicts Comments Relevant
+Resource Relationship Ordinances
+Conflicting uses
+include fill and
+removal of material,
+including vegetation
+which could cause a
+reduction in the size
+or quality or function
+of a wetland, or cause
+destruction or
+degradation of the
+riparian habitat and
+vegetation. Floodplain zone recognized as
+program to achieve the goal to
+Structural conserve wetland and riparian
+Wetlands and development in habitat (Ordinance Nos. 88-030, 88- Ordinance Nos.
+Riparian Areas wetlands or riparian 031, 89-009). 86-018, 86-054,areas would reduce (Inventory- Ord. Yes the habitat and the Others include: fill and removal 86-056, 88-030,
+No. 92-041 - page use of the structure permits, wetland removal 88-031, 89-009,
+73; identified on could cause conflicts regulations, hydro prohibitions, 92-040, 92-041,
+USFWS NWI) such as harassment or 100' setback from OHW, 92-045
+disturbance or wildlife conservation easements,
+dependent on the restrictions on boats and docks,
+habitat. Cutting of and landscape management.
+riparian vegetation
+can remove important
+shade for streams,
+eliminate habitat for
+various waterfowl,
+furbearers, and
+nongame bird species,
+and can increase the
+potential for erosion
+or bank instability in
+riparian areas.
+247-22-000671-TA Page 38 of 43
+·-
+Relevant Inventoried Flood Plain Conflicts Comments Ordinances Resource Relationship
+Conflicting uses:
+Locating septic
+systems in riparian Riparian Areas inventory and ESEE area could cause analysis adopted by Ordinance No. UPDATE - Riparian pollution of ground 92_041 is deleted and replaced by inventory- Ord. and surface water an inventory and ESEE contained in No. 94-007; systems. The potential Exhibit A. Significant riparian for this conflict habitat is located in depends on the New parcels meeting the minimum three areas: characteristics of the lot size in the resource zones (EFU, soil. Forest, non-exception flood plain) Area within 100' of
+will not cause an increase in OHW of an Locating structural residential density that would inventoried stream development in conflict with riparian habitat or river; riparian areas can values. reduce the habitat Area adjacent to an and the use of In RRl0, MUA-10, and Floodplain inventoried river or structures could cause zones found adjacent to stream and located conflicts such as inventoried riparian areas, the Ordinance Nos. within a flood plain harassment or creation of new 10 acre parcels 94-007mapped by FEMA Yes disturbance of wildlife would not significantly increase the and zoned dependent on habitat. overall density of residential use Floodplain by the
+adjacent to riparian areas because county (Deschutes Recreational use of the areas where new parcels could River, Little the riparian area hP rrP:atPrl, with the exception of Deschutes River, including boat landing Tumalo Creek, are already divided Paulina Creek, Fall areas, formal and into lots considerably smaller than River, Indian Ford informal trails, and 10 acres. Creek, Tumalo camping areas can Creek, Squaw alter soil composition Program to achieve Goal 5 for (Whychus) Creek, and cause destruction Riparian Habitat: fill and removal and Crooked River of vegetation. regulations to protect wetlands,
+100' setback from OHW, Floodplain Area adjacent to a Increase in density of zone (regulates docks too), river or stream and residential lots in or Landscape Management zone, inventoried as a adjacent to riparian Conservation easements, State wetland on the NWI areas could result in a Scenic Waterway decrease of habitat
+effectiveness because
+of disturbance to
+wildlife.
+247-22-000671-TA Page 39 of 43
+Inventoried Flood Plain
+I
+Conflicts
+I
+Comments Relevant
+Resource Relationship Ordinances
+.1
+Conflicting uses I I
+include fi!I and I I I removal of material,
+including vegetation,
+which could cause
+reduction in the size,
+quality or function of
+a wetland.
+Locating structural
+development in
+wetlands could
+reduce the habitat
+and the use of the
+structure could cause Wetlands Inventory and ESEE
+conflicts such as analysis adopted by Ordinance No.
+harassment or 92-041 is deleted and replaced by
+disturbance of wildlife an inventory and ESEE contained in
+dependent on the Exhibit B, Wetlands.
+UPDATE -Wetland habitat.
+Inventory- Ord. Program to achieve Goal 5 for
+Draining wetlands for Wetland Habitat: Ordinance Nos. No. 94-007, Exhibit Yes agriculture of other 94-007B - inventory is NWI
+(Ord. No. 92-045) development • Fill and removal
+purposes destroys the regulations to protect
+hydrological function wetlands
+of the wetland and • 100' setback from OHW
+alters the habitat • Flood plain zone (regulates
+qualities that certain docks too)
+wildlife depend on. • DSL Removal / Fill law
+Cutting wetland
+vegetation adjacent to
+streams can remove
+important shade for
+streams, eliminate
+habitat for various
+waterfowl, furbearers,
+and nongame bird
+species, and can also
+increase the potential
+for erosion or bank
+instability in riparian
+areas.
+247-22-000671-TA Page 40 of 43
+Inventoried Flood Plain Conflicts Comments Relevant
+Resource Relationship Ordinances
+Ecologically and
+Scientifically
+Significant Natural Programs for resource protection
+Areas * Little include the zoning of the property,
+Deschutes River/ the provisions of the flood plain,
+Deschutes River wetlands and the river corridor.
+Confluence
+(Inventory - Ord. The implementing measures which
+No. 92-052, Exhibit Resort and vacation protect and regulate development
+B, Page 1; home development, in the confluence area are: EFU Ordinance Nos.
+identified by recreational uses, zoning, Floodplain zoning, 86-018, 86-054,
+Oregon Natural Yes livestock grazing, and conservation easements, and fill 86-056, 88-030,
+Heritage Program); fill and removal in and removal permits. 88-031, 89-009,
+Analysis of Pringle wetlands are 92-040, 92-041,
+Falls and Horse conflicting uses. The confluence area is located in 92-045
+Ridge Research the undeveloped open space area
+Areas, West of the Sun river development
+Hampton Butte and (Crosswater). 80% of the property
+Davis Lakes is retained as open space.
+excluded b/c
+they're on federal Today, zoning is Floodplain and
+land and/or not Forest Use.
+related to flood
+plains.
+Landscape
+Management Uses conflicting with
+Rivers and Streams open space and scenic
+(Inventory - Ord. resources along the
+No. 92-052, Exhibit designated Landscape
+C, Page 3; Management rivers
+identified by state and streams include
+and federal wild land management Program for resource protection
+and scenic activities that result in includes: Floodplain zone and Ordinance Nos. corridors; and habitat loss or restrictions, fill and removal
+within 660' of OHW development within permits, wetland removal 86-018, 86-053,
+of portions of Yes river or stream regulations, hydro prohibitions, 86-054, 86-056,
+Deschutes River, corridors which would rimrock setbacks, conservation 88-030, 88-031,
+Little Deschutes excessively interfere easements, restrictions on boats 89-009, 92-033,
+River, Paulina with the scenic or and docks, and landscape 93-034
+Creek, Fall River, natural appearance of management.
+Spring river, Tumalo the landscape as seen
+Creek, Squaw from the river or
+(Whychus) Creek, stream or alteration
+and Crooked River of existing natural
+not on the state or landscape by removal
+federal scenic of vegetative cover.
+designations)
+247-22-000671-TA Page 41 of 43
+Inventoried Flood Plain Conflicts Comments Relevant
+Resource Relationship Ordinances
+Conflicting uses with
+the open space and
+scenic values of the
+land adjacent to the
+Lakes and inventoried lakes
+Reservoirs include development
+(Inventory - Ord. which would cause a Conflicting uses around Tumalo
+loss of open space or Reservoir are specifically limited by No. 92-052, Exhibit a decrease in the Title 18.48, Open Space Ordinance No. C, Page 10; includes No aesthetic and scenic Conservation Zone and a 100' 91-020Upper Tumalo resources, and land setback for any structure from Reservoir; management OHW. remaining are on activities resulting in federal land the removal of natural
+vegetation which
+provides wildlife
+habitat and scenic
+value.
+State Scenic Program for resource protection
+Waterways and See County / City of includes: Ordinance Nos. Floodplain zone and restrictions, fill Federal Wild and Bend River Study and and removal permits, wetland 86-018, 86-053,
+Scenic Rivers 1986 River Study Staff 86-054, 86-056,
+(Inventory - Ord. Yes Report. Both removal regulations, hydro 88-030, 88-031,
+No. 92-052, Exhibit referenced in Ord. 92- prohibitions, rim rock setbacks, 89-009, 92-033,
+E, Page 1; 005, Exhibit E. conservation easements, 93-034restrictions on boats and docks,
+and landscape management.
+Wilderness Areas,
+Areas of Special
+Concern, Energy
+Sources (Ord. No
+92-052), and
+Groundwater No N/A N/A N/A Resources (Ord. No.
+94-003) not
+analyzed because
+they're on federal
+land or don't relate
+to flood plains.
+247-22-000671-TA Page 42 of 43
+Attachment 2 - Inventory Site Maps
+247-22-000671-TA Page 43 of 43
+® Exception Area Taxlots Meeting ADU Criteria - Deer Migration Range 1" = 10,000'
+,--...,....;;.._;_;__-------------------,-,�,-------�-------------
+Legend
+Wildlife Area - Deer Migration Range
+Exception Area Taxlots Meeting Criteria
+Flood Plain
+Wetland
+November 4, 2022
+N :\Cu storn \Cou nty\C D D\P Ianni ng\PeterG\Goal5Resources\2022
+/ ',,,, __ ·r--- -----·-�," _________ -----�----­"",..., ... ,
+Exception Area TaxJots Meeting ADU Criteria � Deer Winter Range
+1" = 6 mi.
+,-------------------�---------�------------========================-------,
+0
+N:\Custom\County\CDD\Planning\PeterG\Goa!SResources\2022
+Legend
+� Wildlife Area - Deer Winter Range
+Exception Area Taxlots Meeting Criteria
+Flood Plain
+Wetland
+November 4, 2022
+® Exception Area Ta:xh';ts Meet;ng ADU Criteria � Elk Range
+1" =4 mi.
+,,
+,,
+?, \
+N:\Custom\County\CDD\Planning\PeterG\Goal5Resources\2022
+Legend
+Wildlife Area - Elk Range
+Exception Area Taxlots Meeting Criteria
+Flood Plain
+Wetland
+November 4, 2022
+REVIEWED
+LEGAL COUNSEL
+For Recording Stamp Only
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County Code
+Title 18, Zoning Ordinance, Title 19, Bend Urban
+Area Zoning Ordinance, and Title 22, Procedures
+Ordinance, to Adopt Provisions for Rural Accessory
+Dwelling Units.
+*
+*
+*
+*
+*
+ORDINANCE NO. 2023-014
+WHEREAS, the Board of County Commissioners directed Deschutes County Community Development
+Department staff to initiate amendments (Planning Division File No. 247-22-000671-TA) to Deschutes County
+Code ("DCC"), Chapter 18.32 - Multiple Use Agricultural Zone, Chapter 18.60 - Rural Residential Zone, Chapter
+18.116 - Supplementary Provisions, Chapter 18.132 - Variances, Chapter 19.12 - Urban Area Reserve Zone,
+Chapter 19 .20 Suburban Low Density Residential Zone, Chapter 19 .22 - Westside Transect Zone, Chapter 19. 76
+- Site Plan Review, Chapter 19.92- Interpretations and Exceptions, Chapter 19.108 - Variances, Chapter 22.04
+- Introductions and Definitions; and
+WHEREAS, the Deschutes County Planning Commission reviewed the proposed changes on September
+22, 2022 and forwarded to the Deschutes County Board of County Commissioners ("Board") a 4-2
+recommendation of approval; and
+WHEREAS, the Deschutes County Planning Commission reviewed new edits to the proposed changes on
+and July 13, 2023, and forwarded to the Deschutes County Board of County Commissioners ("Board") a 5-0
+recommendation of approval; and
+WHEREAS, the Board considered this matter after a duly noticed public hearing on July 26, 2023 and
+concluded that the public will benefit from the proposed changes to the Deschutes County Code Titles 18, 19, and
+22; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. Deschutes County Code Chapter 18.32, Multiple Use Agricultural Zone, is
+amended to read as described in Exhibit "A", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 2. AMENDMENT. Deschutes County Code Chapter 18.60, Rural Residential Zone, is amended
+to read as described in Exhibit "B", attached hereto and by this reference incorporated herein, with new language
+underlined and language to be deleted in strikethrough.
+PAGE 1 OF 3 - ORDINANCE NO. 2023-014
+Section 3. AMENDMENT. Deschutes County Code Chapter 18.116, Supplementary Provisions, is
+amended to read as described in Exhibit "C", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 4. AMENDMENT. Deschutes County Code Chapter 18.132, Variances, is amended to read as
+described in Exhibit "D", attached hereto and by this reference incorporated herein, with new language underlined
+and language to be deleted in strikethrough.
+Section 5. AMENDMENT. Deschutes County Code Chapter 19.12, Urban Area Reserve Zone, is
+amended to read as described in Exhibit "E", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 6. AMENDMENT. Deschutes County Code Chapter 19 .20, Suburban Low Density Residential
+Zone, is amended to read as described in Exhibit "F", attached hereto and by this reference incorporated herein,
+with new language underlined and language to be deleted in strikethrough.
+Section 7. AMENDMENT. Deschutes County Code Chapter 19.22, Westside Transect Zone, is
+amended to read as described in Exhibit "G", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 8. AMENDMENT. Deschutes County Code Chapter 19.76, Site Plan Review, is amended to
+read as described in Exhibit "H", attached hereto and by this reference incorporated herein, with new language
+underlined and language to be deleted in strikethrough.
+Section 9. AMENDMENT. Deschutes County Code Chapter 19.92, Interpretations and Exceptions, is
+amended to read as described in Exhibit "I", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 10. AMENDMENT. Deschutes County Code Chapter 19.108, Variances, is amended to read as
+described in Exhibit "J", attached hereto and by this reference incorporated herein, with new language underlined
+and language to be deleted in strikethrough.
+Section 11. AMENDMENT. Deschutes County Code Chapter 22.04, Introductions and Definitions, is
+amended to read as described in Exhibit "K", attached hereto and by this reference incorporated herein, with new
+language underlined and language to be deleted in strikethrough.
+Section 12. FINDINGS. The Board adopts as its findings Exhibit "L", attached and incorporated by
+reference herein.
+PAGE 2 OF 3 - ORDINANCE NO. 2023-014
+Dated this ___ of __ _ , 2023
+ATTEST:
+Recording Secretary
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+ANTHONY DEBONE, Chair
+PATTI ADAIR, Vice Chair
+PHILIP CHANG
+Date of 1st Reading: __ day of _____ , 2023.
+Date of 2nd Reading: __ day of _____ , 2023.
+Commissioner
+Anthony DeBone
+Patti Adair
+Philip Chang
+Record of Adoption Vote:
+Yes No Abstained Excused
+Effective date: __ day of _____ , 2023.
+PAGE 3 OF 3 - ORDINANCE NO. 2023-014
+Exhibit A
+CHAPTER 18.32 MULTIPLE USE AGRICULTURAL ZONE; MUA
+18.32.020 Uses Permitted Outright
+* * *
+18.32.020 Uses Permitted Outright
+The following uses and their accessory uses are permitted outright:
+A. Agricultural uses as defined in DCC Title 18.
+B. A single family dwelling, or a manufactured home subject to DCC 18.116.070.
+C. Propagation or harvesting of a forest product.
+D. Class I and II road or street project subject to approval as part of a land partition, subdivision or
+subject to the standards and criteria established by DCC 18.116.230.
+E. Class Ill road or street project.
+F. Noncommercial horse stables, excluding horse events.
+G. Horse events, including associated structures, involving:
+1. Fewer than 10 riders;
+2. Ten to 25 riders, no more than two times per month on nonconsecutive days; or
+3. More than 25 riders, no more than two times per year on nonconsecutive days.
+Incidental musical programs are not included in this definition. Overnight stays by
+participants, trainers or spectators in RVs on the premises is not an incident of such
+horse events.
+H. Operation, maintenance, and piping of existing irrigation systems operated by an Irrigation
+District except as provided in DCC 18.120.050.
+I. Type 1 Home Occupation, subject to DCC 18.116.280.
+J. Historic Home Accessory Dwelling Units, subject to DCC 18.116.350.
+K. Residential Accessory Dwelling Units, subject to DCC 18.116.355.
+HISTORY
+Adopted by Ord. PL-15 on 11/1/1979
+Amended by Ord. 91-002 §6 on 2/6/1991
+Amended by Ord. 91-005 §18 on 3/4/1991
+Amended by Ord. 91-020 §1 on 5/29/1991
+Amended by Ord. 91-038 §1 on 9/30/1991
+Amended by Ord. 93-001 §1 on I/27/.7.9.93
+Amended by Ord. 93 .. 043 §4 on 8/25/1993
+Amended by Ord. 94-008 §10 on 6/8/1994
+Amended by Ord. 2001-016 §2 on 3/28/2001
+Amended by Ord. 2001-039 §2 on 12/12/2001
+Amended by Ord. 2004-002 §3 on 4/28/2004
+Amended by Ord. 2019-009 §1 on 9/3/2019
+Recorded by Ord. 2019-009 §1 on 9/3/2019
+Amended by Ord. 2023-014 §1 on 11/1/2023
+CHAPTER 18.60 RURAL RESIDENTIAL ZONE; RR-10
+18.60.020 Uses Permitted Outright
+* * *
+18.60.020 Uses Permitted Outright
+Exhibit B
+The following uses and their accessory uses are permitted outright.
+A. A single-family dwelling, or a manufactured home subject to DCC 18.116.070.
+B. Utility facilities necessary to serve the area including energy facilities, water supply and
+treatment and sewage disposal and treatment.
+C. Community center, if shown and approved on the original plan or plat of the development.
+D. Agricultural use as defined in DCC Title 18.
+E. Class I and II road or street project subject to approval as part of a land partition, subdivision or
+subject to the standards and criteria established by DCC 18.116.230.
+F. Class Ill road or street project.
+,-. f\1- .............. .,...,.. ........ ,...,. .... :..,, I 1,..,. ,... .,.,...,... ,..f- ..,,l,..I ,...,.. ..,,,.. ,..,1 ,.,,,1:; .,.. ,..,.J ; .,.. nrr Ti+I ,... 10 ,.,.u,-.1 1 .,.,1: ...... ,.,. 1,.. ,.... ..,,..,.. ,....,,,....,..,._,.
+\J. l'JUlll,Ullllllt::ll.ldl 11u1:,c :,tcOJIC.::, a.::, UCIIIIC:U Ill LI\..,\.., I lllC .Lo, CA\..IUUlll5 11u1.::,c cvc,11..::,,
+H. Horse events, including associated structures, involving:
+1. Fewer than 10 riders;
+2. Ten to 25 riders, no more than two times per month on nonconsecutive days; or
+3. More than 25 riders, no more than two times per year on nonconsecutive days.
+Incidental musical programs are not included in this definition. Overnight stays by
+participants, trainers or spectators in RVs on the premises is not an incident of such
+horse events.
+I. Operation, maintenance, and piping of existing irrigation systems operated by an Irrigation
+District except as provided in DCC 18.120.050.
+J. Type 1 Home Occupation, subject to DCC 18.116.280.
+K. Historic Home Accessory Dwelling Units, subject to DCC 18.116.350.
+L. Residential Accessory Dwelling Units, subject to DCC 18.116.355.
+HISTORY
+Adopted by Ord. PL-15 on 11/1/1979
+Amended by Ord. 91-005 §§30 & 31 on 3/4/1991
+Amended by Ord. 91-020 §1 on 5/29/1991
+Amended by Ord. 93-043 §8 ou 3/25/1993
+Amended by Ord. 94-008 §12 on 6/8/1994
+Amended by Ord. 2001-016 §2 on 3/28/2001
+Amended by Ord. 2001-039 §5 on 12/12/2001
+Amended by Ord. 2004-002 §7 on 4/28/2004
+Amended by Ord. 2019-009 §2 on 9/3/2019
+Recorded by Ord. 2019-009 §2 on 9/3/2019
+Amended by Ord. 2023-014 §2 on 11/1/2023
+Exhibit C
+CHAPTER 18.116 SUPPLEMENTARY PROVISIONS
+18.116.350 Historic Home Accessory Dwelling Units In The RR-10 And MUA Zones
+18.116.355 Residential Accessory Dwelling Units In The RR-10 And MUA Zones
+* * *
+18.116.350 Historic Home Accessory Dwelling Units In The RR-10 And MUA Zones
+A. As used in this section:
+1. "Historic /\ccessory accessory dwelling unit" means a residential structure that is used in
+connection with or that is auxiliary to a single-family dwelling. For the purposes of this
+section, "auxiliary" means a use or structure incidental and subordinate to the single­
+family dwelling on the property, and located on the same lot as the single-family
+dwelling.
+2. "Area zoned for rural residential use" means land that is not located inside an urban
+growth boundary as defined in ORS 195.060 and that is subject to an acknowledged
+exception to a statewide land use planning goal relating to farmland or forestland and
+planned and zoned by the county to allow residential use as a primary use.
+3. "Historic home" means a single-family dwelling constructed between 1850 and 1945.
+4. "New" means that the dwelling being constructed did not previously exist in residential
+or nonresidential form. "New" does not include the acquisition, alteration, renovation
+or remodeling of an existing structure.
+5. "Place a manufactured home" means the placement of a manufactured home that did
+not previously exist on the subject lot of record; it may include the placement of a
+manufactured home that was previously used as a dwelling on another lot and moved
+to the subject lot of record.
+6. "Single-family dwelling" means a residential structure designed as a residence for one
+family and sharing no common wall with another residence of any type.
+B. An owner of a lot or parcel within an area zoned for rural residential use (RR:10 and MUA
+�Zones) may construct a new single-family dwelling or place a manufactured home on the
+lot or parcel, provided:
+1. The lot or parcel is not located in an area designated as an urban reserve as defined in
+ORS 195.137;
+2. The lot or parcel is at least two acres in size;
+3. A historic home is sited on the lot or parcel;
+4. The owner converts the historic horne to afl- historic accessory dwelling L!nit upon
+completion of the new sing!e-famiiy dwelling or placement of a manufactured home;
+and
+5. The historic accessory dwelling unit may be required to comply with all applicable laws
+and regulations relating to sanitation and wastewater disposal and treatment.
+C. The construction of afl- historic accessory dwelling unit under subsection (B) of this section is a
+land use action subject to DCC 22.20.
+D. An owner that constructs a new single-family dwelling or places a manufactured home under
+subsection (B) of this section may not:
+1. Subdivide, partition or otherwise divide the lot or parcel so that the new single-family
+dwelling or manufactured home is situated on a different lot or parcel from the historic
+accessory dwelling unit.
+2. Alter, renovate or remodel the historic accessory dwelling unit so that the square
+footage of the historic accessory dwelling unit is more than 120 percent of the historic
+home's square footage at the time construction of the new single-family dwelling
+commenced.
+3. Rebuild the historic accessory dwelling unit if the structure is deemed a dangerous
+building due to fire or other natural disaster, pursuant to the Uniform Code for the
+Abatement of Dangerous Buildings, which defines "dangerous building" as "Whenever
+any portion thereof has been damaged by fire, earthquake, wind, flood or by any other
+cause, to such an extent that the structural strength or stability thereof is materially less
+than it was before such catastrophe and is less than the minimum requirements of the
+Building Code for new buildings of similar structure, purpose or location."
+4. Construct an additional accessory dwelling unit on the same lot or parcel.
+E. A new single-family dwelling constructed or a manufactured home placed under this section
+may be required to be served by the same water supply source as the historic accessory
+dwelling unit.
+F. Owner occupancy of either the historic accessory dwelling unit or the new single-family dwelling
+is not required. However, the historic accessory dwelling unit and the new single-family dwelling
+placed under this section and the accessory dwelling unit may not be used simultaneously for
+short-term rentals of thirty (30) consecutive days or less.
+HISTORY
+Adopted by Ord. 2019-009 §3 on 9/3/2019
+Recorded by Ord. 2019-009 §3 on 9/3/2019
+Amended by Ord. 2023-014 §3 on 11/1/2023
+18.116.355 Residential Accessory Dwelling Units In The RR-10 And MUA Zones
+A. As used in this section:
+1. "Accessory dwelling unit" means a residential structure that is used in connection with
+or that is auxiliary to a single-family dwelling. For the purposes of this section.
+"auxiliary" means a use or structure incidental and subordinate to the single-family
+dwelling on the property, and located on the same lot as the single-family dwelling.
+2. "Accessory dwelling unit structure" means all areas of an accessory dwelling unit
+inclusive of garages. carports. decks. and porch covers.
+3. "Rural residential use" means a lot or parcel located in the RR-10 or MUA-10 Zones.
+consistent with the definition in ORS 215.501.
+4. "Safe evacuation plan" means an identifiable route on a right(s)-of-way and any onsite
+driveways from the accessory dwelling unit to a staged evacuation area.
+5. "Single-family dwelling" means a residential structure designed as a residence for one
+family and sharing no common wall with another residence of any type.
+6. "Staged evacuation area" means a public or private location that occupants of the
+accessory dwelling unit may evacuate to reorganize.
+7. "Useable floor area" means all areas of an accessory dwelling unit included within the
+surrounding exterior walls, exclusive of garages. carports, decks, and porch covers.
+8. "Vacation occupancy" means occupancy in a dwelling unit, not including transient
+occupancy in a hotel or motel. that has all of the following characteristics:
+a. ThP nccuoant rents thi> unit for vacation ourooses onlv. not as a orincioal residence:
+and
+b. The occupant has a principal residence other than at the unit; and
+c. The period of authorized occupancy does not exceed 45 days.
+B. One accessory dwelling unit is permitted outright on a lot or parcel zoned RR-10 or MUA-10,
+provided all of the following standards are met:
+1. One single-family dwelling is sited on the lot or parcel:
+a. As used in this section, "sited" means established onsite or applied for prior to
+issuance of any building or land use permits for an accessory dwelling unit.
+b. An existing single-family dwelling meeting all other criteria in this section may be
+converted to an accessory dwelling unit during construction of a new primary single­
+family dwelling.
+2. There is no guest house, temporary residence as identified in DCC 18.116.090, or
+additional dwelling units except the primary single-family dwelling established on the
+subject property.
+a. An existing lawfully established guest house. temporary residence as identified in
+DCC 18.116.090, or an additional dwelling unit meeting all other criteria in this
+section may be converted to an accessory dwelling unit.
+3. The lot or parcel is not located within an Urban Reserve Area, consistent with ORS
+195.137.
+4. No portion of the lot or parcel is within the Metolius Area of Critical State Concern. as
+defined in ORS 197.416.
+5. The lot area is at least two acres in size. with the exception of those unsewered areas
+between Sun river and the Klamath County border. defined as those unincorporated
+portions of Deschutes County contained in Townships 195, 205, 215, and 225 and
+Ranges 9E, l0E and 11E. Within these exception areas, the lot area is at least five acres
+in size.
+6. The accessory dwelling unit structure will have a minimum setback of 100 feet from
+adjacent properties zoned F-1, F-2. or EFU and meet any other minimum setback
+requirements of the underlying zone and combining zones.
+7. The accessory dwelling unit will not include more than 900 square feet of useable floor
+area.
+8. The accessory dwelling unit will be located no farther than 100 feet from the existing
+single-family dwelling. measured from a wall of the existing single-family dwelling to the
+nearest part of the useab!e floor arPa of the accessory dwelling unit.
+a. An existing structure converted to an accessory dwelling unit must be located no
+farther than 100 feet from the existing single-family dwelling, measured from the
+existing single-family dwelling to the nearest part of the accessory dwelling unit
+structure. For the purposes of this section, "existing" means the structure was
+lawfully established on or before November 11 2023.
+9. Prior to application. the accessory dwelling unit receives approval from a sewer
+authority or the Deschutes County Onsite Wastewater Division for onsite wastewater
+disposal and treatment.
+10. The lot or parcel is served by a fire protection service provider with professionals who
+have received training or certification described in ORS 181A.410.
+11. The accessory dwelling unit provides for all of the following:
+a. Adequate access connecting an accessory dwelling unit with a fire protection service
+provider with professionals who have received training or certification described in
+ORS 181A.410. Adequate access is met by demonstrating compliance with section
+ll(a)i and ll(a)(ii). or section ll(a)(iii):
+i. A continuous. minimum 20-foot width right(s)-of-way with an unobstructed
+vertical clearance of not less than 13.5 feet. For the purposes of this section,
+right(s)-of-way are defined as:
+1. Public roads with maintenance responsibility accepted by a unit of local
+or state government or assigned to landowners or homeowners
+association by covenant or agreement; or
+2. Private roads, as permitted by DCC Title 18, with maintenance
+responsibility assigned to landowners or homeowners associations by
+covenant or agreement pursuant to ORS 105; and
+ii. A continuous, minimum 12-foot width onsite driveway with an unobstructed
+horizontal clearance of not less than 20 feet and an unobstructed vertical
+clearance of not less than 13.5 feet, designed and maintained as follows:
+1. Composed of an all-weather surface including asphalt or concrete: or
+2. Designed and maintained to support a minimum gross vehicle weight
+(GVW) of 75,000 lbs as certified by a Professional Engineer, registered in
+Oregon;
+iii. Written confirmation from a fire protection service provider with professionals
+who have received training or certification described in ORS 181A.410, on a
+form prepared by Deschutes County, that access to the property meets
+minimum fire district requirements to provide emergency services to the
+property;
+b. A safe evacuation plan; and
+c. For private properties utilized as staged evacuation areas, written authorization
+from the property owner(s) of the staged evacuation area that the occupants of the
+accessory dwelling unit may evacuate to the staged evacuation area.
+12. Wildfire Hazard Mitigation Building Code Standards:
+a. If the Statewide Wildfire Hazard Map described in ORS 477.490 has been approved,
+the following requirements shall apply to the accessory dwelling unit structure:
+i. For areas designated as high wildfire hazard that are identified pursuant to ORS
+477.490:
+1. The Wildfire Hazard Mitigation building code standards as described in
+section R327 of the Oregon Residential Specialty Code.
+b. If the Statewide Wildfire Hazard Map described in ORS 477.490 has not been
+approved, the following requirements shall apply to the accessory dwelling unit
+structure:
+i. The Wildfire Hazard Mitigation building code standards as described in section
+R327 of the Oregon Residential Specialty Code.
+13. Wildfire Hazard Mitigation Defensible Space Standards:
+a. If the Statewide Wildfire Hazard Map described in ORS 477.490 has been approved,
+the following requirements shall apply:
+i. For all wildfire hazard designations in the wildland-urban interface that are
+identified pursuant to ORS 477.490:
+1. The minimum defensible space rules established by the State Fire
+Marshal as described in ORS 476.392.
+b. If the Statewide Wildfire Hazard Map described in ORS 477.490 has not been
+approved, then either the section 13(b)(i) or 13(b)(ji) requirements shall apply:
+i. Prior to issuance of building permits, the property owner(s) shall construct and
+maintain the following firebreaks on land surrounding the accessory dwelling
+unit that is owned or controlled by the owner:
+1. Primary Firebreak. A primary firebreak, not less than 10 feet wide, shall
+be constructed containing nonflammable materials. This may include
+lawn, walkways, driveways, gravel borders or other similar materials;
+and
+2. Secondary Firebreak. A secondary firebreak of not less than 20 feet
+wide shall be constructed outside the primary firebreak. This firebreak
+need not be bare ground, but can include a lawn, ornamental shrubbery
+or individual or groups of trees separated by a distance equal to the
+diameter of the crowns adjacent to each other, or 15 feet, whichever is
+greater. All trees shall be pruned to at least eight feet in height. Dead
+fuels shall be removed; and
+3. Fuel Break. A fuel break shall be maintained, extending a minimum of
+100 feet in all directions around the secondary firebreak. Individual and
+groups of trees within the fuel break shall be separated by a distance
+equal to the diameter of the crowns adjacent to each other, or 15 feet,
+whichever is greater. Small trees and brush growing underneath larger
+trees shall be removed to prevent spread of fire up into the crowns of
+the larger trees. All trees shall be pruned to at least eight feet in height.
+Dead fuels shall be removed; and
+4. No portion of a tree or any other vegetation shall extend to within 15
+feet of the outlet of a stovepipe or chimney.
+hii. Prior to issuance of building permits, the property owner(s) shall construct and
+maintain defensible space and fuel breaks as developed in consultation with
+local fire protection service providers who have received training or certification
+described in ORS 181A.410. Applicable defensible space and fuel breaks shall be
+on land surrounding the accessory dwelling unit on land that is owned or
+controlled by the owner.
+14. The existing single-family dwelling property on the lot or parcel is not subject to an
+order declaring it a nuisance or subject to any pending action under ORS 105.550 to
+105.600.
+HISTORY
+15. A lot or parcel with an accessory dwelling unit approved under this section is ineligible
+for:
+a. A subdivision, partition, other division of the lot or parcel, or a property line
+adjustment where the result of such application would be to situate the existing
+single-family dwelling on a different lot or parcel than the accessory dwelling unit;
+and
+b. Placement or construction of any additional dwelling unit, guest house, or any other
+temporary residence as identified in DCC 18.116.090.
+16. If the accessory dwelling unit is served by a well. the construction of the accessory
+dwelling unit shall maintain all setbacks from the well required by the Water Resources
+Commission or Water Resources Department.
+17. At the time of application, a letter confirming that the supplier of water is "Willing and
+Able to Serve" the accessory dwelling unit shall be provided if the accessory dwelling
+unit is to be served by any water source other than an onsite domestic well.
+18. An existing single-family dwelling and an accessory dwelling unit allowed under this
+section are considered a single unit for the purposes of calculating ground water right
+exemptions under ORS 537.545(1}.
+19. If the water supply source for the accessory dwelling unit or associated lands or gardens
+will be a well using water under ORS 537.545 (1}(b} or {d), no portion of the lot or parcel
+is within an area in which new or existing ground water uses under ORS 537.545 (1)(b)
+or (d) have been restricted by the Water Resources Commission.
+20. Prior to issuance of building permits, the applicant shall sign and record with the County
+Clerk. a restrictive covenant stating an accessory dwelling unit allowed under this
+section and the primary single-family dwelling cannot be used for vacation occupancy,
+as defined in DCC 18.116.355(A}(8} and consistent with ORS 90.100.
+Adopted by Ord. 2023-014 §3 on 11/1/2023
+Exhibit D
+CHAPTER 18.132 VARIANCES
+18.132.020 Authority Of Hearings Body
+18.132.025 Minor Variances
+***
+18.132.020 Authority Of Hearings Body
+A variance may be granted unqualifiedly or may be granted subject to prescribed conditions, provided
+that the Planning Director or Hearings Body shall make all of the following findings:
+A. Area variance.
+1. That the literal application of the ordinance would create practical difficulties resulting in
+greater private expense than public benefit.
+2. That the condition creating the difficulty is not general throughout the surrounding area
+but is unique to the applicant's site.
+3. That the condition was not created by the applicant. A self-created difficulty will be
+found if the applicant knew or should have known of the restriction at the time the site
+was purchased.
+4. That the variance conforms to the Comprehensive Plan and the intent of the ordinance
+being varied.
+B. Use variance.
+1. That the literal application of the ordinance would result in unnecessary hardship to the
+applicant. An unnecessary hardship will be found when the site cannot be put to any
+beneficial use under the terms of the applicable ordinance.
+2. Each of the findings listed in DCC 18.132.020(A)(1), (2) and (4).
+C. Statutory Provisions.
+1. Notwithstanding the provisions of this section, a variance may not be granted which
+amends any standards mandated by the Oregon Revised Statues (ORS) or Oregon Administrative
+Rules (OAR).
+HISTORY
+Adopted by Ord. PL-15 on 11/1/1979
+Repealed & Reenacted by Ord. 91-020 §1 on 5/29/1991
+Amended by Ord. 93-043 §24 on 8/25/1993
+Amended by Ord. 2023-014 §4 on 11/1/2023
+18.132.025 Minor Variances
+A variance seeking to depart from on-site requirements of DCC Title 18, such as setbacks and area
+requirements, by no greater than 10 percent of the required distance or area may be granted by the
+Planning Director or Hearings Body in conformance with DCC 18.132.025.
+A. In the case of a setback or size variance, the applicant shall show that the approval will result in:
+1. More efficient use of the site;
+2. Preservation of natural features where appropriate;
+3. Adequate provision of light and privacy to adjoining properties; and
+4. Preservation of topographic, vegetative and drainage features which would be adversely
+affected by application of the standards otherwise required by DCC Title 18.
+B. A parcel that is smaller than the minimum lot size at the time of application may not be reduced
+by more than 10 percent from its current size without a variance.
+C. Notwithstanding B, above, a property may be reduced by more than 10 percent of its current
+size without a variance if :
+1. The property is located outside of a Farm (EFU) or Forest (F) zone;
+2. The long-standing occupation area is different than the legal description in the deed for
+the subject property;
+3. The purpose of the property line adjustment is to correct the deed description to match
+the long-standing occupation lines of the properties; and
+4. The discrepancy between the deed lines and the occupation lines is documented by
+submittal of a narrative and maps prepared by an Oregon Licensed Professional
+Surveyor.
+5. As used in this sub-section, "long-standing" means in excess of ten (10) years.
+D. Statutory Provisions.
+1. Notwithstanding the provisions of this section, a variance may not be granted which
+amends any standards mandated by the Oregon Revised Statues (ORS) or Oregon Administrative
+Rules (OAR).
+HISTORY
+Adopted by Ord. 91-038 §3 on 9/30/1991
+Amended by Ord. 2004-013 §15 on 9/21/2004
+Amended by Ord. 2010-003 §1 on 7/6/2010
+Amended by Ord. 2023-014 §4 on 11/1/2023
+Exhibit E
+CHAPTER 19.12 URBAN AREA RESERVE ZONE UAR-10
+19.12.020 Permitted Uses
+* * *
+19.12.020 Permitted Uses
+The following uses are permitted:
+A. Farm uses as defined in DCC Title 19.
+B. Single-family dwelling.
+C. Home occupation subject to DCC 19.88.140.
+D. Other accessory uses and accessory buildings and structures customarily appurtenant to a
+permitted use subject to DCC 19.92.020.
+E. Day care center facilities subject to site review, DCC 19.76 and DCC 19.88.160.
+F. Farm stands subject to DCC 19.76 and DCC 19.88.290.
+G. Historic Home Accessory Dwelling Units, subject to DCC 19.92.150.
+H. Residential Accessoiy Dvvelling Units, subject to DCC 19.92.160
+HISTORY
+Adopted by Ord. PL-11 on 7/11/1979
+Amended by Ord. 88-042 §4 on 12/19/1988
+Repealed & Reenacted by Ord. 90-038 §1,2 on 10/3/1990
+Amended by Ord. 91-001 §2 on 1/28/1991
+Amended by Ord. 2008-014 §3 on 3/31/2008
+Repealed & Reenacted by Ord. 2009-002 §1,2 on 2/11/2009
+Amended by Ord. 2019-009 §4 on 9/3/2019
+Recorded by Ord. 2019-009 §4 on 9/3/2019
+Amended by Ord. 2023-014 §5 on 11/1/2023
+Exhibit F
+CHAPTER 19.20 SUBURBAN LOW DENSITY RESIDENTIAL ZONE; SR 2 1/2
+19.20.020 Permitted Uses
+* * *
+19.20.020 Permitted Uses
+The following uses are permitted:
+A. Single-family dwelling.
+B. Agriculture, excluding the keeping of livestock.
+C. Home occupations subject to DCC 19.88.140.
+D. Other accessory uses and accessory buildings and structures customarily appurtenant to a
+permitted use subject to DCC 19.92.020.
+E. Historic Home Accessory Dwelling Units, subject to DCC 19.92.150.
+L_Child care facility and/or preschool�
+G. Residential Accessory Dwelling Units, subject to DCC 19.92.160.
+HISTORY
+Adopted by Ord. PL-11 on 7/11/1979
+Amended by Ord. 88-042 §6 on 12/19/1988
+Repealed & Reenacted by Ord. 90-038 §1,2 on 10/3/1990
+Amended by Ord. 91-001 §4 on 1/28/1991
+Amended by Ord. 93-018 §3 on 5/19/1993
+Repealed & Reenacted by Ord. 2009-002 §1,2 on 2/11/2009
+Amended by Ord. 2019-009 §5 on 9/3/2019
+Recorded by Ord. 2019-009 §5 on 9/3/2019
+Amended by Ord. 2020-001 §20 on 4/21/2020
+Amended by Ord. 2020-010 §9 on 7/3/2020
+Amended by Ord. 2023-014 §6 on 11/1/2023
+CHAPTER 19.22 WESTSIDE TRANSECT ZONE; WTZ
+19.22.020 Permitted Uses
+* * *
+19.22.020 Permitted Uses
+Exhibit G
+The following uses and their accessory uses are permitted outright:
+A. Single-family dwelling.
+B. Home occupation subject to DCC 19.88.140.
+LOther accessory uses and accessory buildings and structures customarily appurtenant to a
+permitted use subject to DCC 19.92.020.
+D. Residential Accessory Dwelling Units, subject to DCC 19.92.160.
+HISTORY
+Adopted by Ord. 2019-001 §8 on 4/16/2019
+Amended bv Ord. 2023-014 §7 on 11/1/2023
+Exhibit H
+CHAPTER 19.76 SITE PLAN REVIEW
+19.76.070 Site Plan Criteria
+***
+19.76.020 Site Plan Requirements
+In all zones, except for a single-family, duplex or triplex unit, or an accessory dwelling unit, on one lot, all
+new uses, buildings, outdoor storage or sales areas and parking lots or alterations thereof shall be
+subject to the provisions of DCC 19.76.020. Site plan approval shall not be required where a proposed
+alteration of an existing building does not exceed 25 percent of the size of the original structure unless
+the Planning Director finds the original structure or proposed alteration does not meet the requirements
+of DCC Title 19 or other ordinances of the County.
+HISTORY
+Adopted by Ord. PL-11 on 7/11/1979
+Repealed & Reenacted by Ord. 90-038 §1 on 10/3/1990
+Amended by Ord. 2023-014 §8 on 11/1/2023
+Exhibit I
+CHAPTER 19.92 INTERPRETATIONS AND EXCEPTIONS
+19.92.150 Historic Home Accessory Dwelling Units In The UAR-10 And SR-2 1/2 Zones
+19.92.160 Residential Accessory Dwelling Units In The UAR-10, SR-2 ½, And WTZ Zones
+* * *
+19.92.150 Historic Home Accessory Dwelling Units In The UAR-10 And SR-2 1/2 Zones
+A. As used in this section:
+1. "Historic Accessory accessory dwelling unit" means a residential structure that is used in
+connection with or that is auxiliary to a single-family dwelling. For the purposes of this
+section, "auxiliary" means a use or structure incidental and subordinate to the single­
+family dwelling on the property, and located on the same lot as the single-family
+dwelling.
+2. "Area zoned for rural residential use" means land that is not located inside an urban
+growth boundary as defined in ORS 195.060 and that is subject to an acknowledged
+exception to a statewide land use planning goal relating to farmland or forestland and
+planned and zoned by the county to allow residential use as a primary use.
+3. "Historic home" means a single-family dwelling constructed between 1850 and 1945.
+4. "New" means that the dwelling being constructed did not previously exist in residential
+or nonresidential form. "New" does not include the acquisition, alteration, renovation
+or remodeling of an existing structure.
+5. "Single-family dwelling" means a residential structure designed as a residence for one
+family and sharing no common wall with another residence of any type.
+B. An owner of a lot or parcel within an area zoned for rural residential use (UAR-10 and SR-2 1/2
+�Zones) may construct a new single-family dwelling on the lot or parcel, provided:
+1. The lot or parcel is not located in an area designated as an urban reserve as defined in
+ORS 195.137;
+2. The lot or parcel is at least two acres in size;
+3. A historic home is sited on the lot or parcel;
+4. The owner converts the historic home to ai:. historic -accessory dwelling unit upon
+completion of the new single-family dwelling; and
+5. The historic accessory dwelling unit may be required to comply with all applicable laws
+and regulations relating to sanitation and wastewater disposal and treatment.
+C. The construction of a� historic accessory dwelling unit under subsection (B) of this section is a
+land use action subject to DCC 22.20.
+D. An owner that constructs a new single-family dwelling under subsection (B) of this section may
+not:
+1. Subdivide, partition or otherwise divide the lot or parcel so that the new single-family
+dwelling is situated on a different lot or parcel from the historic accessory dwelling unit.
+2. Alter, renovate or remodel the historic accessory dwelling unit so that the square
+footage of the historic accessory dwelling unit is more than 120 percent of the historic
+home's square footage at the time construction of the new single-family dwelling
+commenced.
+3. Rebuild the historic accessory dwelling unit if the structure is deemed a dangerous
+building due to fire or other natural disaster, pursuant to the Uniform Code for the
+Abatement of Dangerous Buildings, which defines "dangerous building" as "Whenever
+any portion thereof has been damaged by fire, earthquake, wind, flood or by any other
+cause, to such an extent that the structural strength or stability thereof is materially less
+than it was before such catastrophe and is less than the minimum requirements of the
+Building Code for new buildings of similar structure, purpose or location."
+4. Construct an additional accessory dwelling unit on the same lot or parcel.
+E. A new single-family dwelling constructed under this section may be required to be served by the
+same water supply source as the historic accessory dwelling unit.
+F. Owner occupancy of either the historic accessory dwelling unit or the new single-family dwelling
+is not required. However, the historic accessory dwelling unit and the new single-family dwelling
+placed under this section the new single family d•Nelling and the accessory d1Nelling unit may
+not be used simultaneously for short-term rentals of thirty (30) consecutive days or less.
+HISTORY
+Adopted by Ord. 2019-009 §6 on 9/3/2019
+Recorded by Ord. 2019-009 §6 on 9/3/2019
+Amended by Ord. 2023-014 §9 on 11/1/2023
+19.92.160 Residential Accessory Dwelling Units In The UAR-10, SR-2 ½, And WTZ Zones
+A. As used in this section:
+1. "Accessory dwelling unit" means a residential structure that is used in connection with
+or that is auxiliary to a single-family dwelling. For the purposes of this section.
+"auxiliary" means a use or structure incidental and subordinate to the single-family
+dwelling on the property. and located on the same lot as the single-family dwelling.
+2. "Accessory dwelling unit structure" means all areas of an accessory dwelling unit
+inclusive of garages, carports, decks, and porch covers.
+3. "Rural residential use" means a lot or parcel located in the UAR-10, SR-2 ½. or WTZ
+Zones. consistent with the definition in ORS 215.501.
+4. "Safe evacuation plan" means an identifiable route on a right(s)-of-way and any onsite
+driveways from the accessory dwelling unit to a staged evacuation area.
+5. "Single-family dwelling" means a residential structure designed as a residence for one
+family and sharing no common wall with another residence of any type.
+6. "Staged evacuation area" means a public or private location that occupants of the
+accessory dwelling unit may evacuate to reorganize.
+7. "Useable floor area" means all areas of an accessory dwelling unit included within the
+surrounding exterior walls, exclusive of garages, carports. decks. and porch covers.
+8. "Vacation occupancy" means occupancy in a dwelling unit, not including transient
+occupancy in a hotel or motel. that has all of the following characteristics:
+a. The occupant rents the unit for vacation purposes only, not as a principal residence;
+and
+b. The occupant has a principal residence other than at the unit; and
+c. The period of authorized occupancy does not exceed 45 days.
+B. One accessory d\ve!!ing unit is permitted outright on a lot or parcel zoned U.�.R-10, SR-?½, or
+WTZ, provided all of the following standards are met:
+1. One single-family dwelling is sited on the lot or parcel:
+a. As used in this section, "sited" means established onsite or applied for prior to
+issuance of any building or land use permits for an accessory dwelling unit.
+b. An existing single-family dwelling meeting all other criteria in this section may be
+converted to an accessory dwelling unit during construction of a new primary single­
+family dwelling.
+2. There is no guest house, temporary residence as identified in DCC 19.88.090, or
+additional dwelling units except the primary single-family dwelling established on the
+subject property.
+a. An existing lawfully established guest house, temporary residence as identified in
+DCC 19.88.090, or an additional dwelling unit meeting all other criteria in this
+section may be converted to an accessory dwelling unit.
+3. The lot or parcel is not located within an Urban Reserve Area, consistent with ORS
+195.137.
+4. No portion of the lot or parcel is within the Metolius Area of Critical State Concern, as
+defined in ORS 197.416.
+5. The lot area is at least two acres in size, with the exception of those unsewered areas
+between Sunriver and the Klamath County border, defined as those unincorporated
+portions of Deschutes County contained in Townships 19S, 20S, 21S, and 22S and
+Ranges 9E, 10E and 11E. Within these exception areas, the lot area is at least five acres
+in size.
+6. The accessory dwelling unit structure will have a minimum setback of 100 feet from
+adjacent properties zoned F-1, F-2, or EFU and meet any other minimum setback
+requirements of the underlying zone and combining zones.
+7. The accessory dwelling unit will not include more than 900 square feet of useable floor
+area.
+8. The accessory dwelling unit will be located no farther than 100 feet from the existing
+single-family dwelling, measured from a wall of the existing single-family dwelling to the
+nearest part of the useable floor area of the accessory dwelling unit.
+a. An existing structure converted to an accessory dwelling unit must be located no
+farther than 100 feet from the existing single-family dwelling, measured from the
+existing single-family dwelling to the nearest part of the accessory dwelling unit
+structure. For the purposes of this section, "existing" means the structure was
+lawfully established on or before November 1, 2023.
+9. Prior to application, the accessory dwelling unit receives approval from a sewer
+authority or the Deschutes County Onsite Wastewater Division for onsite wastewater
+disposal and treatment.
+10. The lot or parcel is served by a fire protection service provider with professionals who
+have received training or certification described in ORS 181A.410.
+11. The accessory dwelling unit provides for all of the following:
+a. Adequate access connecting an accessory dwelling unit with a fire protection service
+provider with professionals who have received training or certification described in
+ORS 181A.410. Adequate access is met by demonstrating compliance with section
+ll(a)i and ll(a)(ii), or section ll(a)(iii):
+i. A continuous, minimum 20-foot width right(s)-of-way with an unobstructed
+vertical clearance of not less than 13.5 feet. For the purposes of this section,
+right(s)-of-way are defined as:
+1. Public roads with maintenance responsibility accepted by a unit of local
+or state government or assigned to landowners or homeowners
+association by covenant or agreement; or
+2. Private roads, as permitted by DCC Title 19, with maintenance
+responsibility assigned to landowners or homeowners associations by
+covenant or agreement pursuant to ORS 105; and
+ii. A continuous, minimum 12-foot width onsite driveway with an unobstructed
+horizontal clearance of not less than 20 feet and an unobstructed vertical
+clearance of not less than 13.5 feet, designed and maintained as follows:
+1. Composed of an all-weather surface including asphalt or concrete; or
+2. Designed and maintained to support a minimum gross vehicle weight
+(GVW) of 75,000 lbs as certified by a Professional Engineer, registered in
+Oregon;
+iii. Written confirmation from a fire protection service provider with professionals
+who have received training or certification described in ORS 181A.410, on a
+form prepared by Deschutes County, that access to the property meets
+minimum fire district requirements to provide emergency services to the
+property;
+b. A safe evacuation plan; and
+c. For private properties utilized as staged evacuation areas, written authorization
+from the property owner(s) of the staged evacuation area that the occupants of the
+accessory dwelling unit may evacuate to the staged evacuation area.
+12. Wildfire Hazard Mitigation Building Code Standards:
+a. If the Statewide Wildfire Hazard Map described in ORS 477.490 has been approved,
+the following requirements shall apply to the accessory dwelling unit structure:
+i. For areas designated as high wildfire hazard that are identified pursuant to ORS
+477.490:
+1. The Wildfire Hazard Mitigation building code standards as described in
+section R327 of the Oregon Residential Specialty Code.
+b. If the Statewide Wildfire Hazard Map described in ORS 477.490 has not been
+approved, the following requirements shall apply to the accessory dwelling unit
+structure:
+i. The Wildfire Hazard Mitigation building code standards as described in section
+R327 of the Oregon Residential Specialty Code.
+13. Wildfire Hazard Mitigation Defensible Space Standards:
+a. If the Statewide Wildfire Hazard Map described in ORS 477.490 has been approved,
+the following requirements shall apply:
+i. For all wildfire hazard designations in the wild land-urban interface that are
+identified pursuant to ORS 477.490:
+1. The minimum defensible space rules established by the State Fire
+Marshal as described in ORS 476.392.
+b. If the Statewide Wildfire Hazard Map described in ORS 477.490 has not been
+approved, then either the section 13(b)(i) or 13(b)(ii) requirements shall apply:
+i. Prior to issuance of building permits. the property owner(s) shall construct and
+maintain the following firebreaks on land surrounding the accessory dwelling
+unit on land that is owned or controlled by the owner:
+1. Primary Firebreak. A primary firebreak, not less than 10 feet wide, shall
+be constructed containing nonflammable materials. This may include
+lawn, walkways, driveways, gravel borders or other similar materials;
+and
+2. Secondary Firebreak. A secondary firebreak of not less than 20 feet
+wide shall be constructed outside the primary firebreak. This firebreak
+need not be bare ground, but can include a lawn, ornamental shrubbery
+or individual or groups of trees separated by a distance equal to the
+diameter of the crowns adjacent to each other, or 15 feet, whichever is
+greater. All trees shall be pruned to at least eight feet in height. Dead
+fuels shall be removed; and
+3. Fuel Break. A fuel break shall be maintained, extending a minimum of
+100 feet in all directions around the secondary firebreak. Individual and
+groups of trees within the fuel break shall be separated by a distance
+equal to the diameter of the crowns adjacent to each other, or 15 feet,
+whichever is greater. Small trees and brush growing underneath larger
+trees shall be removed to prevent spread of fire up into the crowns of
+the larger trees. All trees shall be pruned to at least eight feet in height.
+Dead fuels shall be removed; and
+4. No portion of a tree or any other vegetation shall extend to within 15
+feet of the outlet of a stovepipe or chimney.
+ii. Prior to issuance of building permits, the property owner(s) shall construct and
+maintain defensible space and fuel breaks as developed in consultation with
+local fire protection service providers who have received training or certification
+described in ORS 181A.410. Applicable defensible space and fuel breaks shall be
+on land surrounding the accessory dwelling unit that is owned or controlled by
+the owner.
+14. The existing single-family dwelling property on the lot or parcel is not subject to an
+order declaring it a nuisance or subject to any pending action under ORS 105.550 to
+105.600.
+15. A lot or parcel with an accessory dwelling unit approved under this section is ineligible
+for:
+a. A subdivision, partition, other division of the lot or parcel, or a property line
+adjustment where the result of such application would be to situate the existing
+single-family dwelling on a different lot or parcel than the accessory dwelling unit;
+and
+HISTORY
+b. Placement or construction of any additional dwelling unit. guest house, or any other
+temporary residence as identified in DCC 19.88.090.
+16. If the accessory dwelling unit is served by a well, the construction of the accessory
+dwelling unit shall maintain all setbacks from the well required by the Water Resources
+Commission or Water Resources Department.
+17. At the time of application, a letter confirming that the supplier of water is "Willing and
+Able to Serve" the accessory dwelling unit shall be provided if the accessory dwelling
+unit is to be served by any water source other than an onsite domestic well.
+18. An existing single-family dwelling and an accessory dwelling unit allowed under this
+section are considered a single unit for the purposes of calculating ground water right
+exemptions under ORS 537.545(1).
+19. If the water supply source for the accessory dwelling unit or associated lands or gardens
+will be a well using water under ORS 537.545 (l)(b) or (d), no portion of the lot or parcel
+is within an area in which new or existing ground water uses under ORS 537.545 (l)(b)
+or (d) have been restricted by the Water Resources Commission.
+20. Prior to issuance of building permits, the applicant shall sign and record with the County
+Clerk, a restrictive covenant stating an accessory dwelling unit allowed under this
+section and the primary single-family dwelling cannot be used for vacation occupancy,
+as defined in DCC 19.92.160(A)(8) and consistent with ORS 90.100.
+Adopted bv Ord. 2023-014 §9 on 11/1/2023
+Exhibit J
+CHAPTER 19.108 VARIANCES
+19.108.020 Criteria
+***
+19.108.020 Criteria
+No variance shall be granted pursuant to the provisions of DCC 19.108.010 unless the applicant can
+establish:
+A. That special conditions exist which are peculiar to the land, structure or building involved and
+which are not applicable to other lands, buildings or structures in the same zone; and
+B. That strict interpretation of the provisions of DCC Title 19 would deprive the applicant of rights
+commonly enjoyed by other properties in the same zone under the terms of DCC Title 19; and
+C. That the special conditions and circumstances do not result from the actions of the applicant
+and such conditions and circumstances do not merely constitute pecuniary hardship or
+inconvenience; and
+!1.__That granting the variance will be in harmony with the objectives of DCC Title 19 and not
+injurious to the neighborhood or otherwise detrimental to the public welfare.
+G-:-E. Notwithstanding the provisions of this section, a variance may not be granted which amends any
+standards mandated bv the Oregon Revised Statues (ORS) or OrPgon AdministrativP Rules (OAR),
+HISTORY
+Adopted by Ord. PL-11 on 7/11/1979
+Repealed & Reenacted by Ord. 90-038 §1 on 10/3/1990
+Amended by Ord. 2023-014 §10 on 11/1/2023
+Exhibit K
+CHAPTER 22.04 INTRODUCTION AND DEFINITIONS
+22.04.040 Verifying Lots of Record
+* * *
+22.04.040 Verifying Lots of Record
+A. Purpose; scope. Concurrent with or prior to the issuance of certain permits, a lot or parcel shall
+be verified pursuant to this section to reasonably ensure compliance with the zoning and land
+division laws in effect on the date the lot or parcel was created. Not all permits require
+verification. If required, verifying that the lot or parcel was lawfully created is a threshold issue
+that should be addressed before the permit may be issued, but does not supersede or nullify
+other permit requirements. This section 22.04.040 provides an applicant the option to
+concurrently verify a lot or parcel as part of applying for a permit that requires verification, or
+preliminarily apply for a declaratory ruling to thereby determine the scope of available permits.
+B. Permits Requiring Verification.
+1. Unless an exception applies pursuant to subsection (8)(2) below, verifying a lot or parcel
+pursuant to subsection (C) shall be required prior to the issuance of the following
+permits:
+a. Any land use permit for a unit of land in the Exclusive Farm Use Zones (DCC
+Chapter 18.16), Forest Use Zone - Fl (DCC Chapter 18.36), or Forest Use Zone -
+F2 (DCC Chapter 18.40);
+b. Any permit for a lot or parcel that includes wetlands as shown on the Statewide
+Wetlands Inventory;
+c. Any permit for a lot or parcel subject to wildlife habitat special assessment;
+d. In all zones, a land use permit relocating property lines that reduces in size a lot
+or parcel;
+g_,__ln all zones, a land use, structural, or non-emergency on-site sewage disposal
+system permit if the lot or parcel is smaller than the minimum area required in
+the applicable zone;
+f. In all zones, a permit for a Historic Home Accessory Dwelling Unit as defined in
+DCC 18.116.350 or 19.92.150;
+e,.g. In all zones, a permit for a Residential Accessory Dwelling Unit as defined in DCC
+18.116.355 or 19.92.160.
+2. Exceptions. Verification shall not be required if one of the following exceptions apply:
+a. The lot or parcel was created by a subdivision plat, partition plat, condominium
+plat, or town plat so long as the plat was recorded and approved by the County,
+another political subdivision of the State of Oregon, or the State of Oregon;
+b. The lot or parcel was previously va!idated by the County and an applicable
+partition plat was subsequently recorded within 365 days as required by ORS
+92.176(5};
+c. The lot or parcel was previously determined to be a lot of record in a formal
+decision issued by the County or a finding in a land use action prior to
+November 1, 2017;
+d. The lot or parcel was previously verified pursuant to subsection (C) and a finding
+was issued to that effect in a land use action or declaratory ruling; or
+e. For permits listed in subsection (8}(1}(e) only, the lot or parcel previously
+received a land use or building permit prior to November 1, 2017, a structural
+permit after November 1, 2017, or a non-emergency on-site sewage disposal
+permit.
+f. Notwithstanding DCC 22.04.040{8}(2)(b), if a unit of land has been validated by
+a city or county under ORS 92.176 before January 1, 2022, such unit of land
+becomes a lawfully established parcel, provided that the owner of the unit of
+land caused a partition plat to be recorded on or before December 31, 2022.
+C. Verified Lots of Record. Permits that require verification shall only be issued to lots or parcels
+that meet the "lot of record" definition in 18.04.030.
+D. Findings; Declaratory Ruling. If an applicant is applying for a land use permit listed in subsection
+(B}(1), the County shall include a finding verifying that the lot or parcel meets the "lot of record"
+definition in 18.04.030, a finding noting that the lot or parcel does not meet the "lot of record"
+definition in 18.04.030, or a finding noting that verification was not required because the lot or
+parcel qualified for an exception pursuant to subsection (B)(2). If an applicant is applying for a
+permit listed in subsection (8)(1) that does not require public notice, or prior to applying for any
+permit, an applicant may request a declaratory ruling pursuant to DCC Chapter 22.40. If the lot
+or parcel meets the "lot of record" definition in 18.04.030, the County shall issue the declaratory
+ruling determining that the lot or parcel qualifies for all permits listed in subsection (8)(1). If the
+lot or parcel does not meet the "lot of record" definition in 18.04.030, the County shall not issue
+the declaratory ruling and instead shall provide the applicant information on permit options that
+do not require verification and information on verification exceptions that may apply pursuant
+to subsections (8)(2).
+HISTORY
+Adopted by Ord. 2017-015 §3 on 11/1/1979
+Amended by Ord. 2023-014 §11 on 11/1/2023
+FILE NUMBER:
+APPLICANT:
+PROPERTY
+OWNER:
+EY.hibit L
+STAFF REPORT
+247-22-000671-TA
+Deschutes County Community Development
+117 NW Lafayette Avenue
+Bend, Oregon 97703
+N/A
+COMMUNITY DEVELOPMENT
+REQUEST: Pursuant to Senate Bills (SB) 391 and 644, Text Amendments to allow an owner
+of a lot or parcel within a rural residential exception area to construct one
+accessory dwelling unit (ADU) subject to certain restrictions and limitations.
+STAFF CONTACT: Kyle Collins, Associate Planner
+I. APPLICABLE CRITERIA:
+Deschutes County lacks specific criteria in DCC Titles 18, 19, 22, or 23 for reviewing a legislative text
+amendment. Nonetheless, since Deschutes County is initiating a legislative text amendment, the
+County bears the responsibility for justifying that the amendments are consistent with Statewide
+Planning Goals and its existing Comprehensive Plan
+11. BASIC FINDINGS:
+A. Senate Bill 391
+On June 23, 2021, the Oregon Legislature adopted Senate Bill (SB) 391, which authorizes counties to
+allow an owner of a lot or parcel within a rural residential exception area to construct one accessory
+dwelling unit (ADU) subject to certain restrictions and limitations. 1 SB 391 does not obligate a county
+to allow ADUs, nor does it prohibit a county from imposing any additional restrictions beyond what
+is mandated in state law.
+Rural residential exception areas and their corresponding zones exist throughout Oregon. By
+definition, rural residential zones exist outside urban growth boundaries (UGBs), but are excluded
+1 https:/ /ol is.oregonlegislatu re .gov/liz/2021 R 1 /Down loads/Measu reDocu ment/5B391
+11 7 NW Lafayette Avenue, Bend, Oregon 97703 P.O. Box 6005, Bend, OR 97708-6005
+� (541) 388-6575 @cdd@deschutes.org @www.deschutes.org/cd
+from the state's resource land (farm and forest zone) protections. While the protections afforded to
+resource lands allow residential uses only in conjunction with a farm or forest use, rural residential
+zones allow a dwelling as a primary use of the land. Prior to the adoption of SB 391, state law allowed
+counties to permit an additional dwelling on a property containing a house built prior to 1945.2
+However, unlike urban zones, rural residential zones did not have other by-right accessory dwelling
+options, making inter-generational and alternative housing options difficult to achieve.
+SB 391 only authorizes ADUs on lands zoned for rural residential use. Areas zoned for rural
+residential use are defined by ORS 215.501 to mean "land that is not located inside a UGB as defined
+in ORS 195.060 (Definitions) and that is subject to an acknowledged exception to a statewide land
+use planning goal relating to farmland or forestland and planned and zoned by the county to allow
+residential use as a primary use." The applicable zoning designations in Deschutes County for these
+lands are Multiple Use Agricultural (MUA-10), Rural Residential (RR-10), Suburban Low Density
+Residential (SR 2.5), Urban Area Reserve (UAR-10), and Westside Transect Zone (WTZ).
+B. Senate Bill 644
+On May 8, 2023, the Oregon Legislature adopted Senate Bill (SB) 644, which amends requirements
+relating to wildfire hazard mitigation for development of accessory dwelling units on lands zoned
+for rural residential use.3 Prior to adoption of SB 644, counties were required to wait for final
+adoption of the Statewide Map of Wildfire Risk (Statewide Wildfire Hazard Map) from the Oregon
+Department of Forestry (ODF) as identified in SB 7624 prior to adoption of any local administering
+rural ADU standards. SB 644 decouples adoption of the Statewide Map of Wildfire Risk (Statewide
+\Nildfire Hazard Map) from the adoption of any local rules allovving rural ADUs. During any interim
+period where a local jurisdiction has adopted rules allowing ADUs and prior to the release of the
+final map, any constructed ADUs will be subject to the home hardening building codes as described
+in section R327 of the Oregon Residential Specialty Code.
+C. Deschutes County Rural ADU Ordinance
+In addition to only applying to lands recognized as rural residential exception areas, SB 391 also
+contains minimum criteria that must be met for a lot or parcel to qualify for an ADU. Many of those
+criteria are general in nature and therefore require counties to provide their own interpretations or
+definitions. At the same time, SB 391 contains several provisions related to wildfire hazard
+mitigation, which relied on and referred to actions at the state level as directed by the passage of
+SB 762, a comprehensive wildfire hazard mitigation bill.5 While wildfire requirements were being
+created at the state level, staff worked with the Board of County Commissioners to "translate" the
+language of SB 391 into the local code presented in these amendments.
+2 House Bill 3012 (2017).
+3 https :/ / o I is .oregon I egi slatu re .gov /I iz/2023 R 1 /Down loa ds/M easu re Doc um e nt/SB644/En ro I led
+4 https://olis.o regonlegislature.gov/liz/2021 R1/Downloads/MeasureDocument/SB762/Enrolled
+5 SB 1533 (2022) corrected broken links in SB 762 related to wildfire mapping.
+247-22-000671-TA Page 2 of 43
+Ill. PROPOSAL:
+This is a legislative text amendment to Deschutes County Code (DCC}, Title ·18, County Zoning, and
+Title 19, Bend Urban Growth Boundary Zoning Ordinance. The primary purpose of the amendments
+is to allow rural ADUs per the adoption of SB 391 and SB 644. The proposal creates two new
+subsections (effectively the same, but pertaining to different zones in Titles 18 and 19} that govern
+the criteria for rural ADUs. Table 1 provides a summary of each provision of the amendments.
+Table 1 - SB 391 & SB 644 Requirements
+Topic SB 391/SB 644 Requirements Comment
+SB 644 Section 1(2)(c) requires one single-family DCC 18.116.355(B)(1) and DCC
+Single Family Dwelling dwelling to be located on the lot or parcel. 19. 92.160(B)(1) are consistent with
+SB 391/SB 644.
+SB 644 Section 1 (2)(a) requires that the lot or
+parcel is not located within an area designated as DCC 18.116.355(B)(2) and DCC an urban reserve as defined in ORS 195.137. In Urban Reserve Area Deschutes County, the Redmond Urban Reserve 19.92.160(B)(2) are consistent with
+Area is the only urban reserve that meets this SB 391/SB 644.
+definition.
+SB 644 Section 1 (1 )(b) requires that "Area zoned
+for rural residential use" has the meaning given
+that term in ORS 215.501.
+ORS 215.501 (1 )(b), "Area zoned for rural Pursuant to DLCD, Acknowledged
+residential use" means land that is not located nonresource plan amendments
+Nonresource Lands inside an urban growth boundary as defined in and zone changes from Exclusive
+ORS 195.060 (Definitions) and that is subject to an Farm Use (EFU) to RR-10 or MUA-
+acknowledged exception to a statewide land use 10 are eligible for an ADU.
+planning goal relating to farmland or forestland
+and planned and zoned by the county to allow
+residential use as a primary use.
+SB 644 Section 1 (2)(i) requires that no portion of
+the lot or parcel is within a designated area of DCC 18.116.355(8)(4) and DCC Areas of Critical State critical state concern. Areas of critical state
+Concern concern are generally defined in ORS 197.405 and 19.92.160(B)(4) are consistent with
+apply to the Metolius Area of Critical State SB 391/SB 644.
+Concern in ORS 197.416.
+DCC 18.116.355(8)(5) and DCC
+19.92.160(8)(5) are consistent with
+SB 391 /SB 644.
+SB 644 Section 1 (2)(b) requires the subject lot or DCC 18.116.355(B)(5) and DCC
+Minimum Lot Size parcel be at least two acres in size. 19.92.160(B)(5) also require a
+minimum lot or parcel to be at
+least 5 acres in size south of
+Sunriver due to groundwater
+protection.
+247-22-000671-TA Page 3 of 43
+Topic SB 391/SB 644 Requirements Comment
+DCC 18.116.355(8)(6) and DCC
+19.92.160(8)(6) are consistent with
+SB 644 Section 1 (2)(m)(A) requires that the ADU SB 391/644. Both require a
+Setbacks has adequate setbacks from adjacent lands minimum setback of 100 feet
+zoned for resource use. between the ADU and adjacent
+EFU and Forest Use zoned (F-1, F-
+2) properties.
+DCC 18.116.355(8)(7) and DCC
+19.92.160(8)(7) are consistent with
+SB 391/SB 644.
+SB 644 Section 1 (2)(f) limits the size of the ADU to Usable floor area is defined as,
+ADU Size 900 square feet of useable floor area. "the area of the accessory dwelling
+unit included within the
+surrounding insulated exterior
+walls, exclusive of garages,
+carports, decks and porch covers."
+DCC 18.116.355(8)(8) and DCC
+19.92.160(8)(8) are consistent with
+SB 391/SB 644.
+Both require the ADU be located
+no farther than 100 feet from the
+existing single-family dwelling,
+SB 644 Section 1 (2)(g) requires the ADU to be measured from a wall of the
+Distance from Dwelling located no farther than 100 feet from the single- single-family dwelling to the
+family dwelling.6 nearest part of the useable floor
+area of the ADU. An exception to
+this standard has been provided
+for pre-existing structures
+converted to ADUs by allowing
+measurements to be taken from
+non-useable floor area portions of
+the ADU.
+Sanitation and SB 644 Section 1 (2)(e) requires the ADU to comply DCC 18.116.355(8)(9) and DCC
+Wastewater with applicable sanitation and wastewater 19.92.160(8)(9) are consistent with
+regulations. SB 391/SB 644.
+SB 644 Section 1 (2)U) requires the lot or parcel be DCC 18.116.355(8)(10) and DCC Fire Protection District served by a fire protection service provider with
+Service professionals who have received training or 19.92.160(8)(10) are consistent
+certification described in ORS 181 A.41 O. with SB 391 /SB 644.
+6 The bill language and legislative history are unclear if the entire ADU must be entirely within 100 feet of the dwelling or
+just a portion. Local governments are therefore granted deference to interpret this provision.
+247-22-000671-TA Page 4 of 43
+Topic SB 391/SB 644 Requirements Comment
+DCC 18.116.355(8)(11) and DCC
+19.92.160(8)(11) are consistent
+with SB 391 /SB 644.
+SB 644 Section 1 (2)(m)(B) requires that the ADU As an alternative standard, both
+Access and Evacuation has adequate access for firefighting equipment sections allow certification of
+and safe evacuation and staged evacuation areas. access by the applicable fire
+protection district and that there
+are evacuation plans and staged
+evacuation areas.
+SB 644 Section 1 (2)(k) requires that if the lot or DCC 18.116.355(8)(13) and DCC
+parcel is in an area identified on the statewide 19.92.160(8)(13) are consistent
+map of wildfire risk described in ORS 477.490 as with SB 391/SB 644.
+within the wildland-urban interface, the lot or Consistent with SB 644, the code Wildland Urban Interface parcel and accessory dwelling unit comply with sections identify alternatives for (WUI} Defensible Space any applicable minimum defensible space properties wishing to develop Requirements requirements for wildfire risk reduction rural ADUs prior to and after the established by the State Fire Marshal under ORS adoption of the Statewide Wildfire 476.392 and any applicable local requirements
+for defensible space established by a local Hazard Map identified in SB
+government pursuant to ORS 476.392 762/SB 80.
+SB 644 Section 1 (2)(1)(A) requires that if the lot or
+parcel is in an area identified on the statewide DCC 18.116.355(8)(12) and DCC
+map of wildfire risk described in ORS 477.490, the 19.92.160(8)(12) are consistent
+ADU must compiy with R327 (fire hardening vvith SB 391 /SB 544.
+standards) in the Oregon Residential Specialty Consistent with SB 644, the code
+Wildland Urban Interface Code. sections identify alternatives for
+(WUI) Fire Hardening properties wishing to develop
+SB 644 Section 1 (2)(1)(8) requires that if no rural ADUs prior to and after the
+statewide map of wildfire risk has been adopted, adoption of the Statewide Wildfire
+the ADU must comply with R327 (fire hardening Hazard Map identified in SB
+standards) in the Oregon Residential Specialty 762/SB 80.
+Code
+SB 644 Section 1 (2)(d) requires the existing single-
+family dwelling property on the lot or parcel is not DCC 18.116.355(8)(14) and DCC
+Nuisance subject to an order declaring it a nuisance or 19.92.160(8)(14) are consistent
+subject to any pending action under ORS 105.550 with SB 391 /SB 644.
+to 105.600.
+SB 644 Section 1 (2)(m)(C)(4)(a) and (b) preclude a
+Subdivision and Other subdivision, partition or other division of the lot DCC 18.116.355(8)(15) and DCC
+Accessory Dwelling or parcel so that the existing single-family 19.92.160(8)(15) are consistent dwelling is situated on a different lot or parcel Unit Limitations than the ADU; and precludes construction of an with SB 391 /SB 644.
+additional ADU on the same lot or parcel.
+247-22-000671-TA Page 5 of 43
+Topic SB 391/SB 644 Requirements Comment
+SB 644 Section 1(2)(m)(C)(5) allows a county to
+DCC 18.116.355(6)(16) and DCC
+19.92.160(6)(16) are consistent
+require that the ADU be served by the same with SB 391 /SB 644.
+water source or water supply system as the
+existing single-family dwelling. If the ADU is While not requiring the same
+Water Supply served by a well, the construction of the ADU water source, DCC
+shall maintain all setbacks from the well required 18.116.355(6)(16) and DCC
+by the Water Resources Commission or Water 19.92.160(6)(16) require setbacks
+Resources Department. from the well to be maintained
+from an ADU.
+SB 644 Section 1 (2)(m)(C)(6) recognizes that a
+single-family dwelling and an ADU are considered DCC 18.116.355(6)(18) and DCC
+Water Right Exempt Use a single unit and therefore do not require a 19.92.160(6)(18) are consistent
+groundwater permit from the Oregon Water with SB 391 /SB 644.
+Resources Department.
+SB 644 Section 1 (2)(h) requires that no ADUs be
+permitted in areas if the water supply source for
+the accessory dwelling unit or associated lands or
+gardens will be a well using water under ORS DCC 18.116.355(6)(18) and DCC
+Water Right Restrictions 537.545 (1 )(b) or (d), no portion of the lot or 19.92.160(6)(18) are consistent
+parcel is within an area in which new or existing with SB 391 /SB 644.
+ground water uses under ORS 537.545 (1){b) or
+(d) have been restricted by the Water Resources
+Commission 7.
+DCC 18.116.355(6)(20) and DCC
+19.92.160(6)(20) are consistent
+with SB 391 /5B 644. Additional
+SB 644 Section 1 (2)(m)(C)(3) prevents an ADU standards prohibit the primary
+Vacation Occupancy from being used for vacation occupancy as single-family dwelling onsite from
+defined in ORS 90.100. use as a vacation rental after
+construction of a lawful ADU
+Both require a restrictive covenant
+be recorded to ensure compliance.
+IV. FINDINGS:
+CHAPTER 22.12, LEGISLATIVE PROCEDURES
+Section 22.12.010.
+Hearing Required
+FINDING: This criterion will be met because a public hearing was held before the Deschutes
+County Planning Commission and Board of County Commissioners.
+7 Deschutes County does not contain any critical groundwater areas as defined by the Water Resources Commission.
+247-22-000671-TA Page 6 of 43
+Section 22.12.020. Notice
+Notice
+A. Published Notice
+1. Notice of a legislative change shall be published in a newspaper of general
+circulation in the county at least 10 days prior to each public hearing.
+2. The notice shall state the time and place of the hearing and contain a statement
+describing the general subject matter of the ordinance under consideration.
+FINDING: This criterion will be met as notice was published in the Bend Bulletin newspaper for the
+Planning Commission public hearing, and the Board of County Commissioners' public hearing.
+B. Posted Notice. Notice shall be posted at the discretion of the Planning Director and
+where necessary to comply with ORS 203.045.
+FINDING: Posted notice was determined by the Planning Director not to be necessary.
+C. Individual notice. Individual notice to property owners, as defined in DCC
+22.08.010(A), shall be provided at the discretion of the Planning Director, except as
+required by ORS 215.503.
+Fll"JDll"JG: Given the proposed legislative amendments do not apply to any specific property, no
+individual notices were sent.
+D. Media notice. Copies of the notice of hearing shall be transmitted to other
+newspapers published in Deschutes County.
+FINDING: Notice was provided to the County public information official for wider media
+distribution. This criterion is met.
+Section 22.12.030 Initiation of Legislative Changes.
+A legislative change may be initiated by application of individuals upon payment of
+required fees as well as by the Board of County Commissioners.
+FINDING: The application was initiated by the Deschutes County Planning Division at the direction
+of the Board of County Commissioners, and has received a fee waiver. This criterion is met.
+Section 22.12.040. Hearings Body
+A. The following shall serve as hearings or review body for legislative changes in this
+order:
+1. The Planning Commission.
+247-22-000671-TA Page 7 of 43
+2. The Board of County Commissioners.
+B. Any legislative change initiated by the Board of County Commissioners shall be
+reviewed by the Planning Commission prior to action being taken by the Board of
+Commissioners.
+FINDING: The Deschutes County Planning Commission held the initial public hearing on September
+22, 2022 and subsequently reviewed the proposed amendments on July 13, 2023. The Board then
+held a public hearing on July 26, 2023. These criteria are met.
+Section 22.12.050 Final Decision
+All legislative changes shall be adopted by ordinance
+FINDING: The proposed legislative changes will be implemented by Ordinance No. 2023-014 upon
+approval and adoption by the Board of County Commissioners. This criterion will be met.
+B. Statewide Planning Goals and Guidelines
+Goal 1: Citizen Involvement: The amendments do not propose to change the structure of the
+County's citizen involvement program. Notice of the proposed amendments was provided to the
+Bulletin for the Board public hearing.
+Goal 2: Land Use Planning: This goal is met because ORS 197.610 allows local governments to initiate
+post acknowledgments plan amendments (PAPA). An Oregon Land Conservation and Development
+Department 35-day notice was initiated on August 17, 2022. An Oregon Land Conservation and
+Development Department 35-day notice was reinitiated on June 7, 2023 to capture amendments
+required by state legislative action. The Planning Commission held a public hearing on September
+22, 2022 and the Board of County Commissioners held a public hearing on July 26, 2023. The
+Findings document provides the adequate factual basis for the amendments.
+Goal 3: Agricultural Lands: No changes related to agricultural lands are proposed as part of the text
+amendments. This goal does not apply.
+Goal 4: Forest Lands: No changes related to forest lands are proposed as part of the text
+amendments. This goal does not apply.
+Goal 5: Open Spaces, Scenic and Historic Areas, and Natural Resources: By adopting SB 391 in 2021
+and SB 644 in 2023, the Oregon Legislature added a new use, Accessory Dwelling Units (ADUs), to
+rural residential exception areas. Local governments can choose to allow this use by: 1) amending
+their zoning codes and complying with SB 391/SB 644's development standards. Goal 5 does not
+apply.
+247-22-000671-TA Page 8 of 43
+However, to the extent that it does, local governments apply Goal 5 to a PAPA when the amendment
+allows a new use and the new use "could be" a conflicting use with a particular Goal 5 resource site
+on an acknowledged resource list. Certain areas in rural Deschutes County, zoned MUA-10 and RR-
+10 contain Goal 5 resources because they are overlaid with a Wildlife Area Combining Zone. Two
+zoning codes are being amended to allow Rural ADUs and are therefore subject to an ESEE Analysis.
+No other changes to the code warrant specific ESEE Analysis as they are not adding new uses that
+conflict with Goal 5 resources. The ESEE analysis is included in Appendix A which is attached to this
+document.
+Goal 6: Air. Water and Land Resources Quality: The proposed text amendments do not propose
+changes to the County's Comprehensive Plan policies or implementing regulations for compliance
+with Goal 6, and therefore are in compliance. However, it is worth noting that the amendments
+preclude citing an ADU south of Sunriver on lots or parcels less than 5 acres. In the eligible zones
+south of Sun river, there are 1,129 tax lots between 2 acres or larger, and 319 'tax lots 5 acres or
+larger.
+Goal 7: Areas Subject to Natural Disasters and Hazards: The proposed text amendments do not
+propose to changes the County's Comprehensive Plan or implementing regulations regarding
+natural disasters and hazards; therefore, they are in compliance. Eligible properties subject to SB
+762/SB 644 and those constructed prior to adoption of the Statewide Wildfire Hazard Map, will be
+required to comply with Oregon Residential Specialty Code (R327) to fire harden the ADU and
+coordinate with the Oregon State Fire Marshal or local fire protection districts to ensure the
+property has defensible space.
+Goal 8: Recreational Needs: Accessory Dwelling Units are not a recreational use or need. This goal
+does not apply.
+Goal 9: Economic Development: Accessory Dwelling Units are not primarily economic in nature. This
+goal does not apply.
+Goal 1 O: Housing: This goal is not applicable because unlike municipalities, unincorporated areas
+are not obligated to fulfill certain housing requirements.
+Goal 11: Public Facilities and Services: Accessory Dwelling Units in the rural county typically rely on
+domestic wells and onsite wastewater treatment systems. A Goal 11 exception would be required
+for a centralized sewer system and would need to be applied on a property specific, needs related
+basis. This goal does not apply.
+Goal 12: Transportation: By adopting SB 391 in 2021 and SB 644 in 2023, the Oregon Legislature
+added a new use, Accessory Dwelling Units (ADUs), to rural residential exception areas. Local
+governments can choose to allow this use by amending their zoning codes and complying with SB
+391 /SB 644's development standards. ADUs will still be subject to Transportation System
+Development Charges (SDCs) prior to the issuance of a building permit.
+247-22-000671-TA Page 9 of 43
+To the extent that the Transportation Planning Rule at OAR 660-012-0060 does apply, staff notes
+the following comments from the County's Senior Transportation Planner:
+The Transportation Planning Rule (TPR) at OAR 660-012-0060 requires a determination if a
+new land use regulation will significantly affect a transportation facility. Approximately 9,831
+lots could be eligible for a rural accessory dwelling unit (ADU) based on zoning and size of
+the tax lot with roughly 3,000 tax lots being eligible immediately. The remaining roughly
+6,000 tax lots' eligibility will need to be determined based on the wildfire rules and
+requirements in development based on Senate Bill (SB) 763 [sic].
+The potential lots for a rural ADU are geographically spread out:
+• Bend area: 3,876 lots
+• Redmond area: 2,886 lots
+• Sisters area: 1,576 lots
+• South County: 1,123 lots
+The County is currently updating its 2010-2030 Transportation System Plan (TSP) to 2020-
+2040. The analysis of future traffic volumes only indicated a few intersections that would not
+meet County performance standards. Both were tied to the Deschutes Junction interchange
+at US 97/Deschutes Market Road-Tumalo. The TSP has planned improvements to mitigate
+the deficiencies at those intersections.
+The geographic distribution of the lots, the adequate reserve capacity on the County system,
+the low trip generation of each home, an average of nine daily trips, including one p.m. peak
+hour trip, and the fact the lots will develop over years and years, means the road system is
+adequate to handle the traffic volumes generated by rural ADUs.
+The rural ADUs do not result in any changes to the County's functional classifications or
+access management policies. The County collects transportation system development
+charges (SDCs) for all new developments, including single-family homes. The SDC rate is
+indexed to construction costs and resets every July 1. As a rural ADU is essentially a second
+home on the property, the County would collect SDCs as each rural ADU develops. The
+current SDC rate for a single-family home is $4,115. If the SDC rate remained unchanged,
+which is highly unlikely, the 9,831 lots would generate $38.6 million dollars in SDCs.
+The addition of a second rural ADU on approximately 9,381 lots will not create a significant
+nor adverse effect to the County transportation system and thus complies with the TPR.
+Goal 13: Energy Conservation: Any future site-specific application for an ADU will be required to
+incorporate energy conservation measures through the Oregon Building Code. This goal does not
+apply.
+247-22-000671-TA Page 10 of 43
+Goal 14: Urbanization: The purpose of Goal 111 is to direct urban uses to areas inside UGBs. As the
+proposed amendments do not seek to allow urban uses on rural land, nor do they seek to expand
+an existing urban growth boundary, this goal does not apply.
+Goals 15 through 19: Deschutes County does not contain any of the relevant land types included in
+Goals 15-19. Therefore these goals do not apply.
+C. Deschutes County Comprehensive Plan
+Chapter 3, Rural Growth
+Section 3.3, Rural Housing
+3.3.5 Maintain the rural character of the County while ensuring a diversity of housing opportunities,
+including initiating discussions to amend State Statute and/or Oregon Administrative Rules to
+permit accessory dwelling units in Exclusive Farm Use, Forest and Rural Residential zones.
+FINDING: Implementing SB 391 and SB 644, which allows ADUs to be sited in rural residential
+exception areas, is consistent with Policy 3.3.5.
+V. CONCLUSION:
+Based on the information provided herein, the staff recommends the Board of County
+Commissioners approve the proposed text amendments to aiiow an owner of a iot or parcel within
+a rural residential exception area to construct one accessory dwelling unit (ADU) subject to certain
+restrictions and limitations.
+247-22-000671-TA Page 11 of 43
+Rural Accessory Dwelling Unit Text
+Amendment
+Appendix A: ESEE Analysis Document to
+File No. 247-22-000671-TA
+247-22-000671-TA Page 12 of 43
+247-22-000671-TA
+Deschutes County Community Development
+September 27, 2023
+Table of Contents
+Chapter 1: Overview of Goal 5 and ESEE Analyses ........................................................... 11
+Chapter 2: Deschutes County Goal 5 Inventory and Methodology .................................. 14
+Chapter 3: Conflicting Use Analysis ..................................................................................... 16
+Chapter 4: Impact Areas ...................................................................................................... 19
+Chapter 5: ESEE Analysis ...................................................................................................... 20
+Chapter 6: ESEE Decision ..................................................................................................... 27
+Chapter 7: Program to Achieve Goal 5 ................................................................................ 28
+References
+Attachment 1 - Deschutes County Goal 5 Inventory Summary Table
+Attachment 2 - Inventory Site Maps
+247-22-000671-TA Page 14 of 43
+Chapter 1: Overview of Goal 5 and ESEE Analyses
+Introduction
+This appendix report was prepared to supplement the findings document associated with File No.
+247-2 2-000671-TA. Deschutes County is amending Deschutes County Code (DCC), Titles 18 and 19
+to allow Rural Accessory Dwelling units (ADUs) consistent with Senate Bill (SB) 391 (2021) and SB
+644 (2023) in Multiple Use Agricultural (MUA-10), Rural Residential (RR-10), Suburban Low Density
+Residential (SR 2.5), Urban Area Reserve (UAR-10), and Westside Transect Zones (WTZ). DCC Chapter
+18.88 is the Wildlife Area (WA) Combining Zone, which recognizes four Goal 5 inventories: Antelope
+Range, Deer Migration Corridor, Deer Winter Range, and Significant Elk Habitat. Certain areas in
+rural Deschutes County, zoned MUA-10 and RR-10, are overlaid with a Deer Migration Corridor, Deer
+Winter Range, and/or Significant Elk Habitat.
+In addition, there are some areas zoned MUA-10 and RR-10 that contain Goal 5 riparian resources
+and their associated fish, furbearer, waterfowl, and upland game bird habitat. Recognizing that an
+ADU is a new conflicting use in the WA Combining Zone, Deschutes County is applying Goal 5 in
+consideration of this Post Acknowledgment Plan Amendment (PAPA). The full findings document
+provides additional detail and background information regarding the intent of the amendments and
+compliance with other applicable local and state regulations outside of Statewide Land Use Planning
+Goal 5 - Natural Resources, Scenic and Historic Areas, and Open Spaces.
+"---'-••""-- rou-""•• r-:-.-1 C D"""g""._....,. ut:::,IL,IIUl,t:::, \.. 111.y UUC:11 Jr, U I QIII
+The purpose of Goal 5 is "to protect natural resources and conserve scenic and historic areas and
+open spaces." Local governments, as part of the Comprehensive Planning process, are required to
+inventory the extent, location, quality, and quantity of significant natural resources within their
+jurisdictional boundaries. Following this inventory, local governments then conduct an economic,
+social, environmental, and energy (ESEE) analysis to determine the extent to which land uses should
+be limited in order to adequately protect significant resources. Following an ESEE analysis,
+governments then establish a program to protect significant natural resources. Deschutes County
+established its initial Goal 5 natural resource inventory, ESEE analyses, and protection programs
+between the years of 1988-1994, as part of periodic review.
+In reviewing this document, it is important to acknowledge there are six policies and development
+standards within the Deschutes County Comprehensive Plan and DCC that were established
+through ESEEs over time that could still limit the development of ADUs near inventoried Goal 5
+resources. Deschutes County finds the proposed amendments do not alter the following existing
+protections.
+1. Setback Protections: 100-foot structural setback from the ordinary high water mark
+(OHWM) of rivers and streams.
+247-22-000671-TA Page 15 of 43
+2. Scenic Protections: Development near rivers in the Landscape Management
+Combining Zone must be reviewed for aesthetic compatibility.
+3. Wetland Protections: Prohibition of fill or removal of any material or wetland
+vegetation, regardless of the amount, within the bed and banks of any stream or
+river or in any wetland unless approved as a conditional use.
+4. Mitigation Protections: Impacts to any wetland or riverbank impacts to be fully
+mitigated, as evaluated by Oregon Department of Fish and Wildlife (ODFW).
+5. Flood Plain Protections: All new construction, expansion or substantial improvement
+of an existing dwelling, an agricultural related structure, a commercial, industrial or
+other non-residential structure, or an accessory building in a designated Flood Plain
+must obtain a conditional use permit.
+6. Combining Zone Requirements: Deer Migration Corridor, Deer Winter Range, Elk
+Habitat, and Sensitive Bird and Mammal Habitat have site specific requirements
+including development setbacks and/or seasonal construction requirements to
+prevent impacts to sensitive species and habitat.
+Required Steps and Discretionary Review
+Local governments are required to comply with Goal 5 when a PAPA allows a new use and the new
+use "could be" a conflicting use with a particular Goal 5 resource site on an acknowledged resource
+list. 8 Deschutes County is amending the MUA-10, RR-10, SR 2.5, UAR-1 O and WTZ zoning chapters
+to allow ADUs consistent with SB 391 (2021) and SB 644 (2023).
+ADUs have the potential to generate a certain level of noise and habitat alteration. As this new use
+could potentially impact Goal 5 resources, Deschutes County is conducting an ESEE Analysis to
+identify potential consequences and protections related to the amendments. ADUs will be added
+as a new permitted use in the MUA-10, RR-10, SR 2.5, UAR-10 and WTZ zones. As shown below, only
+two of those zones, MUA-1 O and RR-1 O contain Goal 5 resources and are being reviewed as part of
+this ESEE analysis.
+Table 2: Zones Containing Goal 5 Resources
+• DCC Chapter 18.32, Multiple Use Agricultural
+Zone
+• DCC Chapter 18.60, Rural Residential Zone
+8 OAR 660-023-0250(3)(b)
+247-22-000671-TA
+• DCC Chapter 19.12, Urban Area Reserve Zone
+• DCC Chapter 19.20, Suburban Low Density
+Residential Zone
+• DCC Chapter 19.22, Westside Transect Zone
+ESE Es are meant to be analytical tools. The content of the ESEE is discretionary and is intended to
+be conducted by planning staff using existing information. An ESEE is not meant to focus exclusively
+on environmental impacts such as an Environmental Impact Statement (EIS) under the National
+Environmental Policy Act (NEPA). Additionally, Goal 5 explains "the ESEE analysis need not be lengthy
+or complex, but should enable reviewers to gain a clear understanding of the conflicts and the
+consequences to be expected." 9 In utilizing this analytical tool, there are a few steps jurisdictions
+must include and address in accordance with OAR 660-023 - Procedures and Requirements for
+Complying with Goal 5:
+1. Identify Conflicting Uses - Does the land use or activity negatively impact natural resources?
+2. Determine Impact Area - What is the geographic extent to which land uses or activities
+adjacent to natural resources could negatively impact those resources?
+3. Analyze ESEE Consequences - What are the positive and negative consequences (both for
+development and natural resources) of a decision to fully protect natural resources, fully
+allow conflicting uses, or limit conflicting uses?
+4. Develop a program - How and to what extent will the natural resources be protected based
+on the ESEE analysis?
+A response to each of these steps is included throughout this report. The relevant page and chapter
+can be found in the table of contents.
+9 OAR 660-023-0040(1)
+247-22-000671-TA Page 17 of 43
+Chapter 2: Deschutes County Goal 5 Inventory and Methodology
+660-23-0030 - Inventory Goal 5 Resources
+Stemming from periodic review, Deschutes County adopted inventories for a variety of Goal 5
+natural resources (Attachment 1 ). Some of these resources have mapped geographic boundaries
+such as Deer Winter Range, whereas others are described as being located in general areas - such
+as furbearer habitat in riparian corridors. The inventories were produced at a countywide scale,
+with additional detail for the Deschutes River and its tributaries through the Deschutes County/City
+of Bend River Study. County staff digitized these habitat boundaries into Geographic Information
+Systems (GIS) shape files in the 2000s for public awareness. The shape files were created from hard
+copy maps and descriptions found in the ordinances establishing the County's Goal 5 program, in
+consultation with the Oregon Department of Fish and Wildlife (ODFW).
+Maps provided in this document include inventoried habitat that spatially overlaps with the MUA-
+10 and RR-10 zones impacted by the proposed text amendments (Attachment 2). The habitat areas
+include: deer migration corridor, deer winter range, elk habitat, flood plain, and wetlands. Staff
+utilized the County's WA Combining Zone layers to determine the general extent of habitat for big
+game species as the Combining Zone was designed to cover a larger area than the habitat itself
+(Ordinance 92-046). Inventoried streams and rivers are shown on the map, as well as wetlands and
+flood plains. Goal 5 Riparian areas (flood plain, wetlands and 100 feet measured from ordinary high
+water mark) associated with these water bodies is also the habitat area for fish, furbearers,
+waterfowl, and upland game birds (Ordinance 92-041, 94-007). As the proposed text amendments
+are legislative and do not impact any specific properties, staff did not review Goal 5 impacts on an
+individual parcel level basis. Instead staff identified the following potential resource sites in which
+the allowance of ADUs could potentially intersect with Goal 5 resources:
+Riverine Resources: Some properties in the MUA-1 O and RR-1 O zones are located in relative
+proximity to the Deschutes River, Little Deschutes River, Paulina Creek, and Whychus Creek and its
+associated Goal 5 Riparian Area.10 Ordinance 92-041 stated the following additional Goal 5
+resources depend on riparian corridors for habitat: furbearer, waterfowl, and upland game bird
+habitat. As the extent of the habitat locations for these species are not detailed in a boundary
+description or on a map, staff assumes the species habitat is found entirely inside the Riparian Area
+boundary shown in Attachment 2.
+Wildlife Area Combining Zone: The WA Combining Zone was adopted as a protection measure for
+antelope, deer, and elk in Deschutes County. As an overlay zone, the mapped area conservatively
+identified typical habitat and migration areas and provided additional development requirements
+to ensure impacts to wildlife are properly mitigated alongside the underlying base zone regulations.
+The zone encompasses the previously inventoried area for Antelope Range, Deer Migration
+10 There are 386 RR-1 O tax lots, two acres or greater that abut the Little Deschutes River or Deschutes River and 505 tax
+lots that are split-zoned RR-10 or MUA-10 with the Flood Plain Zone. The Flood Plain Zone is not recognized as a rural
+residential exception area. RR-1 O and MUA-10 split zoned properties will be required to contain the minimum lot or parcel
+area to qualify for an ADU.
+247-22-000671-TA Page 18 of 43
+Corridor, Deer Winter Range, and Significant Elk Habitat. The proposed amendments add a
+conflicting use, ADUs which affect three habitat ranges in MUA-10 and RR-'IO: Deer Migration
+Corridor, Deer Winter Range, and Significant Elk Habitat. These habitat ranges are shown in
+Attachment 2. The maps include federal land. However, these properties are not subject to
+Deschutes County land use regulations.
+The Deschutes County Goal 5 inventory also includes scenic and open space sites such as Landscape
+Management Rivers and Streams, State Scenic Waterways and Federal Wild and Scenic Rivers, and
+Ecologically and Scientifically Significant Natural Areas - Little Deschutes River / Deschutes
+Confluence (Attachment 1 ). As these are resources associated with mitigating visual impacts and do
+not impact development potential, they are not impacted by the proposed amendments and
+therefore are not reviewed in this document.
+247-22-000671-TA Page 19 of 43
+Chapter 3: Conflicting Use Analysis
+660-023-0040(2): Identify conflicting uses. Local governments shall identify conflicting uses that
+exist, or could occur, with regard to significant Goal 5 resource sites. To identify these uses, local
+governments shall examine land uses allowed outright or conditionally within the zones applied
+to the resource site and in its impact area. Local governments are not required to consider allowed
+uses that would be unlikely to occur in the impact area because existing permanent uses occupy
+the site.
+Deschutes County is proposing to add ADUs in the MUA-10 and RR-10 zones in the WA Combining
+Zone. ADUs could be a conflicting use to significant Goal 5 resources as they generate vehicle trips,
+buildable footprints, and noise. Other uses that are allowed in the two zones are shown below.
+Table 3: Allowed Uses
+Zoning Outright Uses Conditional Uses
+Public use
+Semipublic use
+Dude ranch
+Kennel and/or veterinary clinic
+Guest house
+Manufactured home as a secondary accessory
+farm dwelling
+Exploration for minerals
+Private parks
+Agricultural uses Personal use airstrip
+Golf course Single family dwelling or Type 2 or 3 Home occupation manufactured home
+Harvesting a forest product Destination resorts
+Planned developments Class I and II road or street projects Cluster developments subject to land division standards Landfills MUA-10 Class Ill road or street project Timeshare Noncommercial horse stables Hydroelectric facility Horse events
+Operation, maintenance and piping of Storage, crushing and processing of minerals
+Bed and breakfast inn canals Excavation, grading and fill Type I Home occupation Religious institutions Historic accessory dwelling units Private or public schools
+Utility facility
+Cemetery
+Commercial horse stables
+Horse events
+Manufactured home park or RV park
+Wireless telecommunication facilities
+Guest lodge
+Surface mining in conjunction with operation and
+maintenance of irrigation system
+247-22-000671-TA Page 20 of 43
+Zoning Outright Uses Conditional Uses
+Public park
+Dude ranch
+Personal use airstrip
+Planned developments
+Single family dwelling or Cluster developments
+manufactured home Recreation-oriented facility
+Utility facility Landfills
+Community center Cemetery
+Agricultural use Timeshare
+Class I and II road or street projects Hydroelectric facility
+subject to land division standards Bed and breakfast inn
+RR-10 Class Ill road or street project Golf course
+Noncommercial horse stables Excavation, grading and fill
+Horse events Religious institutions
+Operation, maintenance and piping of Public use
+canals Semipublic use
+Type I Home occupation Commercial horse stables
+Historic accessory dwelling units Private or public schools
+Manufactured home park or RV park
+Wireless telecommunication facilities
+Surface mining in conjunction with operation and
+maintenance of irrigation system
+General Impacts of Conflicting Uses
+The proposed amendments would allow AD Us in inventoried Goal 5 resources. As part of the ESEE
+review "a local government may conduct a single analysis for two or more resource sites that are
+within the same area or that are similarly situated and subject to the same zoning".11 In reviewing
+the proposed amendments, Deschutes County finds that the impacts from AD Us in the MUA-1 O and
+RR-1 O zones as they relate to Deer Migration Corridor, Deer Winter Range, and Significant Elk
+Habitat are of such a similar nature that the impacts for these areas may be reviewed together via
+the general impacts described below.
+• Noise and Light
+ADUs as a secondary dwelling may distress inventoried wildlife, as they seek to avoid noise
+and light.
+• Habitat Removal
+ADUs would likely require removal of upland vegetation, grading, and soil compaction that
+could alter drainage and runoff patterns. This could increase peak runoff, cause bank
+erosion, flooding, or increase the flow of sediment into water bodies. The removal of upland
+vegetation could also reduce tree canopy and understory vegetation which could be utilized
+by wildlife, outside of their primary habitat.
+11 OAR 660-023-0040(4)
+247-22-000671-TA Page 21 of 43
+• Introduction of Invasive, Nonnative Plants
+ADUs may contribute to the spread of invasive, nonnative plants which could replace and
+degrade native vegetation of which many species depend.
+• Habitat Fragmentation
+Additional human development may result in fences, roads, traffic and other barriers to the
+movement of terrestrial wildlife that is critical to their survival.
+Greater detail on these potential conflicts and their consequences are provided below.
+247-22-000671-TA Page 22 of 43
+Chapter 4: Impact Areas
+660-023-0040(3): Determine the impact area. Local governments shall determine an impact area
+for each significant resource site. The impact area shall be drawn to include only the area in which
+allowed uses could adversely affect the identified resource. The impact area defines the
+geographic limits within which to conduct an ESEE analysis for the identified significant resource
+site.
+This step is discretionary and allows for the local jurisdiction to define which areas are the most
+vulnerable and/or most likely to be affected by the proposed amendments. The impact area for this
+ESEE analysis are properties that are within the Deer Migration Corridor, Deer Winter Range, and
+Significant Elk Habitat in the M UA-1 O and RR-1 O zones. As this ESEE is not for any specific property,
+but instead reflects changes to the code generally, there is no individual property specific data.
+Properties in this impact area can be found in Attachment 2 - Impact Area Maps
+Impact Area Methodology
+To understand the impact of the proposed amendments, an estimate of the number of parcels is
+shown in Table 4 below.
+Table 4: Number of Affected Non-Federal Properties in Impact Area 12
+Zone
+Multiple Use Agricultural Zone
+Rural Residential Zone
+Total
+12 See footnote #8.
+Deer !V!igration Deer Winter
+0 9
+1,293 446
+1,293 455
+Elk
+0
+247-22-000671-TA Page 23 of 43
+Chapter 5: ESEE Analysis
+660-023-0040(4): Analyze the ESEE consequences. Local governments shall analyze the ESEE
+consequences that could result from decisions to allow, limit, or prohibit a conflicting use. The
+analysis may address each of the identified conflicting uses, or it may address a group of similar
+conflicting uses. A local government may conduct a single analysis for two or more resource sites
+that are within the same area or that are similarly situated and subject to the same zoning. The
+local government may establish a matrix of commonly occurring conflicting uses and apply the
+matrix to particular resource sites in order to facilitate the analysis. A local government may
+conduct a single analysis for a site containing more than one significant Goal 5 resource. The ESEE
+analysis must consider any applicable statewide goal or acknowledged plan requirements,
+including the requirements of Goal 5. The analyses of the ESEE consequences shall be adopted
+either as part of the plan or as a land use regulation.
+Background
+Deschutes County is choosing to conduct a single analysis for all resource sites as the impacts from
+ADUs could have very similar impacts to both riparian areas and fish and wildlife that depend on
+the riparian for their habitat, and for big game including deer and elk.
+As described above, the potential impacts fall into four general areas:
+• Noise and Light
+ADUs as a secondary dwelling may distress inventoried wildlife, as they seek to avoid noise
+and light.
+• Habitat Removal
+ADUs would likely require removal of upland vegetation, grading, and soil compaction that
+could alter drainage and runoff patterns. This could increase peak runoff, cause bank
+erosion, flooding, or increase the flow of sediment into water bodies. The removal of upland
+vegetation could also reduce tree canopy and understory vegetation which could be utilized
+by wildlife, outside of their primary habitat.
+• Introduction of Invasive, Nonnative Plants
+ADUs may the spread of invasive, nonnative plants which could replace and degrade native
+vegetation of which many species depend.
+• Habitat Fragmentation
+Additional human development may result in fences, roads, traffic and other barriers to the
+movement of terrestrial wildlife that is critical to their survival.
+247-22-000671-TA Page 24 of 43
+This step is discretionary. The purpose of an ESEE analysis is to provide a qualitative exercise for
+local governments to weigh the positive and negative consequences of three scenarios in order to
+determine a preferred outcome. Governments may choose to use quantitative data as necessary,
+but are not required to gather new information or hire wildlife biologists, economists, sociologists,
+or energy consultants.
+ESEE Scenario Descriptions
+Scenario (A) - Allow the Conflicting Use
+In this scenario, the local government may decide that a conflicting use should be allowed fully,
+without any restrictions, no matter the potential impacts on the inventory site(s). In this instance,
+the Goal 5 rule would require the government to determine the conflicting use is of such importance
+compared to the site that the use should be allowed without any protections or limitations. In
+choosing this scenario, the local government could still use other tools to protect the inventories
+that are currently in place.
+Scenario (BJ - Prohibit the Conflicting Use
+In this scenario, the local government may decide that the inventory site is of such importance or
+the conflicting use has the potential to be so detrimental to the inventory site(s), that the conflicting
+use should be entirely prohibited.
+Scenario (C) - Limit the Conflicting Use
+In this scenario, the local government may decide that the inventory site and the conflicting use are
+h.,...+-h j_...._.,....,.f-"'"'1...-,,t- ,11.,hnn rr'"\YY'H"'\-,,rnrl t-n n,"")rh nt-hot"' '"lnrl -tho I IC"l'.'l c--hl""\11lrl ha "llll"'\1A1arl 111,it-h limit'"ltinnc- tn UULI I 111 It-JUI LOI IL VVI IC::11 \..VI I II.JOI c:u LV \..CI\ .. I I V\..11\,,..I I UI IU '-11\.. u . .:n ... ..:>1 IVUIU "'-''- UIIVVV\...U VVILI I 111111\.C..H.IVI I..J LV
+balance the impacts to the inventory site(s).
+Accessory Dwelling Unit ESEE Analysis
+Scenario {A) Allow the Conflicting Use
+In this scenario, Deschutes County would allow AD Us in MUA-1 O and RR-1 O zones without any
+additional requirements to protect the inventoried resources.
+Economic Consequences:
+Permitting ADUs would have positive consequences by allowing a second dwelling on a property.
+Deschutes County is experiencing a housing shortage. Allowing ADUs, which are limited to 900-
+square-feet of useable floor area and cannot be used as vacation rentals, could help address work
+force housing shortages in the region. It could reduce commuting costs for those workers that live
+in adjoining Crook, Jefferson and Klamath counties, and coupled with other work force housing
+strategies, attract businesses and employment opportunities in Central Oregon.
+Allowing ADUs could also have negative consequences. The development of ADUs in MUA-10 and
+RR-10 zones could significantly increase land value, which could price out low and middle-income
+residents from the opportunity to own a home. Previous testimony from ODFW estimates that
+hunting and wildlife viewing contributed more than $50 million to the Deschutes County economy
+annually. Deschutes County is proposing to allow ADUs in some areas that contain riparian areas
+247-22-000671-TA Page 25 of 43
+and species that rely on the riparian area for habitat including fish, furbearers, upland game birds,
+and waterfowl. Allowing for ADUs near these areas could reduce income associated with wildlife
+viewing and hunting of these species.
+In some parts of the county, mule deer populations have declined up to 70% since 2000 as a result
+of human caused habitat reduction, fragmentation, and disturbance on winter range. By allowing
+ADUs in Deer Migration Corridor, Deer Winter Range, and Significant Elk Habitat, there is the
+potential for greater disturbance of deer and elk populations that could reduce hunting and viewing
+opportunities.
+Social Consequences:
+Permitting ADUs could have positive consequences by allowing property owners with an existing
+single-family dwelling to build an ADU that accommodates aging parents or family members, farm
+help for those that are working on MUA-1 O zoned agricultural properties or nearby Exclusive Farm
+Use zoned properties. By providing affordable housing, it could help lift people out of poverty and
+increase economic mobility. It could bring a positive impact on the surrounding community,
+encouraging social connections and lowering crime rates.
+It could also have negative consequences by allowing ADUs in rural areas with inadequate access
+to employment, schools, food markets, medical facilities and parks. This could lead to higher
+automobile-dependence and vehicle emissions caused by more people driving to and from rural
+areas. Based on previous testimony from ODFW, there could also be negative impacts due to the
+potential loss of wildlife habitat. Many residents, advocacy organizations, and wildlife agencies
+_,....,...4,-: ...... ..... .f-,- .... ,,_,.__,...s ,.,..._,.._.,._,.. .,.l"'\,.,.., ... ,-.1j....,,l"T +-hn lorr ri.f firh -,nr-1 ,1i,ilrllifn h -,hit-at- rl i Ir\ t-n t-h n. rnrTinn'c-- ..-�nirl LUI ILII IUt:: LU t::At,-JI e:::, LUI ILC:I I 1.:::, I c:501 UII 15 LI IC: I ..::,.::, VI 11.:,11 01 IU VVIIUIIIC: I IOUI\. \. uuc lV \.I IC: I c51v1 I.:, I UtJIU
+growth and development. There is a recognition that increases in human activity, especially in rural
+areas, displace habitat and diminish, incrementally, Deschutes County's rural character and quality
+of life. The proposed amendments could have negative consequences due to increased human
+presence and infrastructure near the inventoried Goal 5 resources, which could lead to a reduced
+level of access and enjoyment for recreationalists.
+Environmental Consequences:
+In this scenario, ADUs would be permitted outright. As stated previously, ADUs could present
+negative impacts as they have the potential to increase noise and light near fish and wildlife habitats,
+and in turn cause distress to inventoried Goal 5 species.
+Developing an ADU would likely require removal of upland vegetation, grading, and soil compaction
+that could alter drainage and runoff patterns. This could increase peak runoff, cause bank erosion,
+flooding, or increase the flow of sediment into water bodies. The removal of upland vegetation could
+also reduce tree canopy and understory vegetation which could be utilized by wildlife, outside of
+their primary habitat. Permitting AD Us could create negative impacts to designated habitat for Deer
+Migration Corridor, Deer Winter Range, and Significant Elk Habitat. Based on previous testimony
+from ODFW, mule deer populations have declined up to 70% since 2000. Their testimony identified
+other elements contributing to reductions in mule deer populations tied to human caused habitat
+reduction, fragmentation, and disturbance on winter range.
+247-22-000671-TA Page 26 of 43
+As previously stated, the following Goal 5 protections established during the creation of the initial
+inventory would remain in place:
+1. Setback Protections: 1 DO-foot structural setback from the ordinary high water mark of
+rivers or streams.
+2. Scenic Protections: Development near rivers in the Landscape Management Combining
+Zone must be reviewed for aesthetic compatibility.
+3. Wetland Protections: Prohibition of fill or removal of any material or wetland vegetation,
+regardless of the amount, within the bed and banks of any stream or river or in any
+wetland unless approved as a conditional use.
+4. Mitigation Protections: Impacts to any wetland or riverbank impacts to be fully mitigated,
+as evaluated by ODFW.
+5. Flood Plain Protections: All new construction, expansion or substantial improvement of an
+existing dwelling, an agricultural related structure, a commercial, industrial or other non­
+residential structure, or an accessory building in a designated Flood Plain shall obtain a
+conditional use permit.
+6. Combining Zone Requirements: Deer Migration Corridor, Deer Winter Range, Significant Elk
+Habitat and Sensitive Bird and MaiT1mal Habitat have site specific requirements including
+development setbacks and seasonal construction requirements to prevent impact to
+sensitive species and habitat.
+Existing protections would prevent riparian areas from being developed with ADUs established near
+them. As the existing Goal 5 measures in place today protect riparian areas and the fish and wildlife
+within that habitat area, the addition of AD Us near these areas will be neutral.
+Energy Consequences:
+AD Us are unlikely to cause any major energy consequences. Per SB 391 and SB 644, the ADU must
+be within 100 feet of the existing dwelling. It must utilize the existing onsite system or an upgraded
+onsite system if there is no pre-existing centralized wastewater treatment system. It can also rely
+on an existing domestic well.
+A potential negative consequence of the proposed amendments could be additional development
+in rural Deschutes County. Depending on the location of the ADU, it could lead to additional Vehicle
+Miles Traveled and greater congestion on county owned roads for employment, education, and
+basic services.
+247-22-000671-TA Page 27 of 43
+Scenario (BJ Prohibit the Conflicting Use,_
+In this scenario, Deschutes County would not allow AD Us in the MUA-10 and RR-1 Ozones associated
+with the WA Combining Zone and Deer Migration Corridor, Deer Winter Range, and Significant Elk
+Habitat.
+Economic Consequences:
+Prohibiting ADUs could have negative economic consequences, as it prevents certain property
+owners from using their land and building a secondary dwelling unit. This could contribute to work
+force housing deficiencies in the region and compel residents to commute from adjoining areas in
+Crook, Jefferson, and Klamath counties.
+It could also have neutral consequences based on previous testimony from ODFW. Prohibiting AD Us
+could contribute to stabilizing mule deer populations, thereby maintaining economic benefits from
+wildlife viewing or hunting. Wildlife viewing, hunting, and fishing experiences in Deschutes County
+is a major economic asset to the region. Continuing with the current regulations could minimize
+further habitat fragmentation and help maintain wildlife viewing, hunting, and fishing revenues in
+Deschutes County.
+Social Consequences:
+Prohibiting ADUs could have negative consequences. Many residents and multi-generational
+families in Deschutes County need affordable housing and are rent-burdened. Limiting the potential
+supply of ADUs could exacerbate Central Oregon's housing crisis by forcing some residents to pay
+higher rents, commute longer distances for basic services, or relocate. Those circumstances could
+It could also have positive consequences. Many residents express their appreciation for
+undisturbed landscapes because they contribute to Deschutes County's rural character and quality
+of life. Prohibiting ADUs, which generate noise and light would continue to limit disturbance to
+existing fish and wildlife habitats.
+Environmental Consequences:
+There are 386 RR-1 0 tax lots, two acres or greater that abut the Little Deschutes River or Deschutes
+River and 505 tax lots that are split-zoned RR-10 or MUA-10 with Flood Plain. These properties
+contain a Goal 5 Riparian Area which is also the habitat for Goal 5 inventoried waterfowl, upland
+game bird, furbearers, and fish. The WA Combining Zone contains Deer Migration Corridor, Deer
+Winter Range, and Significant Elk Habitat. By prohibiting AD Us and maintaining the status quo, these
+species will continue to be protected against habitat fragmentation and distress from second
+dwellings. The environmental consequences are therefore neutral.
+Energy Consequences:
+Energy consumption would have neutral consequences as this scenario maintains the status quo.
+Development associated with ADUs may be displaced to other areas of rural Deschutes County,
+which could still have demands on utilities.
+247-22-000671-TA Page 28 of 43
+Scenario (CJ Limit the Conflicting Use
+In this scenario, Deschutes County would allow ADUs in the MUA-10 and RR-10 zones, with
+additional limitations to protect the inventoried resources, outside of existing protections. For
+example, a limitation requiring the entire ADU to be within a 100 feet of the existing dwelling.
+Economic Consequences:
+Permitting ADUs would have positive consequences by allowing a second dwelling on a property.
+Deschutes County is experiencing a housing shortage. Allowing ADUs, which are limited to 900-
+square-feet of livable floor area and cannot be used as vacation rentals, could help address work
+force housing shortages in the region. It could reduce commuting costs for those workers that live
+in adjoining Crook, Jefferson and Klamath counties and coupled with other work force housing
+strategies, attract businesses and employment opportunities in Central Oregon.
+Compared to scenario (a) in which only a portion of the ADU must be within a 100 feet of the existing
+dwelling, the addition of limitations could lessen the impact by minimizing the buildable footprint
+and ultimately, the number of eligible properties, recognizing that some may not have enough area
+to accommodate an ADU. This could positively impact the hunting and wildlife viewing economy in
+Central Oregon, valued at $50 million annually. While such measures could lessen impacts, the
+overall burden caused by allowing ADUs nevertheless may still overall impact wildlife and thereby
+impact revenue generated from the recreation economy.
+In comparison to scenario (a), which would allow the use outright, Deschutes County finds that this
+scenario would provide a limitation to reduce the amount of impacts, even if those impacts still
+exist.
+Social Consequences:
+The positive social consequences in this scenario are very similar to scenario (a). Permitting ADUs
+could have positive consequences by allowing property owners with an existing single family
+dwelling to build an ADU that accommodates aging parents or family members, farm help for those
+that are working on MUA-1 O zoned agricultural properties or nearby Exclusive Farm Use zoned
+properties. By providing affordable housing, it could help lift people out of poverty and increase
+economic mobility. It could bring a positive impact on the surrounding community, encouraging
+social connections and lowering crime rates.
+Adding a limitation requiring the entire ADU to be within a 100 feet of the existing dwelling (or
+others), could establish a negative consequence of ADUs in rural areas with inadequate access to
+employment, schools, food markets, medical facilities and parks. This could lead to higher
+automobile-dependence and vehicle emissions caused by more people driving to and from rural
+areas. Based on previous testimony from ODFW, there could also be negative impacts due to the
+potential loss of wildlife habitat stemming from the possible removal of habitat areas and
+construction of structures and their associated human presence. Many residents, advocacy
+organizations, and wildlife agencies continue to express concerns regarding the loss of fish and
+wildlife habitat due to the region's rapid growth and development. There is a recognition that
+increases in human activity, especially in rural areas, displace habitat and diminish, incrementally,
+Deschutes County's rural character and quality of life. The proposed amendments could have
+247-22-000671-TA Page 29 of 43
+negative consequences due to increased human presence and infrastructure near or within the
+inventoried Goal 5 resources, which could lead to a reduced level of access and enjoyment for
+recreation a Ii sts.
+Environmental Consequences:
+ADUs could present negative consequences as they have the potential to increase activity, noise,
+and light near fish and wildlife habitats, and in turn cause distress to inventoried Deer Migration
+Corridor, Deer Winter Range, and Significant Elk Habitat.
+Development of an ADU would likely require removal of upland vegetation, grading, and soil
+compaction that could alter drainage and runoff patterns. This could increase peak runoff, cause
+bank erosion, flooding, or increase the flow of sediment into water bodies. The removal of upland
+vegetation could also reduce tree canopy and understory vegetation which could be utilized by fish
+and wildlife species, outside of their primary habitat. Permitting ADUs could result in further
+negative impacts to the Deer Migration Corridor, Deer Winter Range, and Significant Elk Habitat.
+Based on recent testimony from ODFW, mule deer populations have declined up to 70% since 2000.
+Their testimony identified other elements contributing to reductions in mule deer populations tied
+to human caused habitat reduction, fragmentation, and disturbance on winter range.
+Existing protections in place today (discussed above) would prevent Goal 5 riparian areas from
+being developed when ADUs are nearby. The establishment of ADUs in these areas would likely be
+neutral.
+By limiting the entire ADU vvithin a 100 feet of the existing dvvel!ing, the negative environmental
+consequences associated with ADU could be mitigated to a certain extent.
+Energy Consequences:
+The energy consequences in this scenario are the same as in scenario (a). Limiting the entire ADU
+to within a 100 feet of the existing dwelling could decrease the amount of energy used to operate
+the ADU.
+247-22-000671-TA Page 30 of 43
+Chapter 6: ESEE Decision
+660-023-0040(5): Develop a program to achieve Goal 5. Local governments shall determine whether
+to allow, limit, or prohibit identified conflicting uses for significant resource sites. This decision
+shall be based upon and supported by the ESEE analysis. A decision to prohibit or limit conflicting
+uses protects a resource site. A decision to allow some or all conflicting uses for a particular site
+may also be consistent with Goal 5, provided it is supported by the ESEE analysis. One of the
+following determinations shall be reached with regard to conflicting uses for a significant resource
+site:
+(c) A local government may decide that the conflicting use should be allowed fully,
+notwithstanding the possible impacts on the resource site. The ESEE analysis must demonstrate
+that the conflicting use is of sufficient importance relative to the resource site, and must indicate
+why measures to protect the resource to some extent should not be provided, as per subsection
+(b) of this section.
+The graphic below is meant to be a simplified representation to balance each of the ESEE factors.
+As stated in the ESEE analysis, there are a variety of positive, negative, and neutral consequences
+associated with each scenario. Deschutes County finds that the issue of allowing an ADU in MUA-10
+and RR-1 Ozones are both a social and economic issue that outweighs the other ESEE consequences.
+The County considered allowing the use with limitations by limiting the entire ADU within a 100 feet
+of the existing dwelling, but this practice could limit the number of affordable housing
+opportunities. Therefore the County is choosing scenario (a) which will allow the use fully
+notwithstanding the possible impacts on the resource sites.
+Table 5: ESEE Factors
+Support habitat Support Support Preserves Rural functions Affordable Recreational Character Transportation ESEE Factors (Environmental, Housing Economy
+economic, (Social, (Economic, (Social, (Energy)
+social) economic) Social) economic)
+Prohibit conflict 0 0 0 0 (No code change) -
+Allow conflict
+Allow ADUs with + no additional - - - -
+requirements
+Limit conflict
+Allow ADUs with + additional - - - -
+limitation
+247-22-000671-TA Page 31 of 43
+Chapter 7: Program to Achieve Goal 5
+660-023-0050(1): For each resource site, local governments shall adopt comprehensive plan
+provisions and land use regulations to implement the decisions made pursuant to OAR 660-023-
+0040(5). The plan shall describe the degree of protection intended for each significant resource
+site. The plan and implementing ordinances shall clearly identify those conflicting uses that are
+allowed and the specific standards or limitations that apply to the allowed uses. A program to
+achieve Goal 5 may include zoning measures that partially or fully allow conflicting uses (see OAR
+660-023-0040(5)(b) and (C)).
+660-023-0050(2): When a local government has decided to protect a resource site under OAR 660-
+023-0040(5)(b), implementing measures applied to conflicting uses on the resource site and within
+its impact area shall contain clear and objective standards. For purposes of this division, a
+standard shall be considered clear and objective if it meets any one of the following criteria:
+(a) It is a fixed numerical standard, such as a height limitation of 35 feet or a setback of 50 feet;
+(b) It is a nondiscretionary requirement, such as a requirement that grading not occur beneath
+the dripline of a protected tree; or ...
+Deschutes County has determined that allowing AD Us within the MUA-10 and RR-10 zones and
+within the Deer Migration Corridor, Deer Winter Range, and Significant Elk Habitat should be
+allowed fully, notwithstanding the possible impacts on the inventoried resources. The implementing
+measures do not include alternative, discretionary procedures for compliance.
+247-22-000671-TA Page 32 of 43
+Attachment 1 ~ Deschutes County Significant Goal 5 Resources
+Inventoried Flood Plain Conflicts Comments Relevant
+Resource Relationship Ordinances
+Major contlicts are Floodplain zone recognized as
+removal of riparian program to achieve the goal to
+vegetation, fill and conserve fish habitat (Ordinance
+Fish Habitat removal activities Nos. 88-030, 88-031, 89-009). Ordinance Nos.
+(Inventory- Ord. within the bed and 86-018, 86-053,
+Others include: fill and removal 86-054, 86-056,No. 92-041, page Yes banks of streams or permits, wetland removal 88-030, 88-031,18; creeks, rivers wetlands, regulations, hydro prohibitions, 89-009, 92-040,and lakes) hydroelectric, rural rimrock setbacks, 100' setback 92-041residential from OHW, conservation development and easements and restrictions on water regulation boats and docks.
+Floodplain zone recognized as a
+program to achieve the goal to
+protect deer winter range
+Major conflicts are (Ordinance Nos. 88-030, 88-031,
+Deer Winter Range dwellings, roads, and 89-009).
+(Inventory- Ord. dogs. Activities which Ordinance Nos. No. 92-041, page cause deterioration of Others include Wildlife Area 88-030, 88-031,22; Metolius, forage quality and Combining Zone. Requires 40-acre
+Tumalo, North Yes quantity or cover are minimum lot size for all new 89-009, 92-040,
+Paulina, and Grizzly conflicting uses. residential land divisions. 92-041, 92-042,
+ranges identified by Fences which impede Underlying zoning in most of the 92-046
+ODFW safe passage are also deer winter range is: EFU, Forest,
+a conflicting use. and Floodplain. These zones
+provide for large lot sizes and limit
+uses that are not compatible with
+farm or forest zones.
+Wildlife Area Combining Zone was
+recognized as the only program to
+achieve the goal to protect the
+deer migration corridor. Underlying
+zoning is RR-10. It was amended to
+require cluster development for all
+Deer Migration Major conflicts are land divisions in the RR-10 zone in
+Corridor dwellings, roads, and the Bend/La Pine migration
+(Inventory- Ord. dogs. Fences which corridor (92-042). A 20-acre parcel Ordinance Nos.
+No. 92-041, page Yes impede safe passage is the minimum size required for a 92-040, 92-041,
+26; Bend-La Pine are also a conflicting cluster development. Siting and 92-042, 92-046
+migration corridor fencing standards also apply in the
+identified by ODFW) use. deer migration corridor. Migration
+corridor includes some EFU, Forest,
+and Floodplain zoned land. These
+resource zones provide for large lot
+sizes and limit uses that are not
+compatible with farm or forest
+zones.
+247-22-000671-TA Page 33 of 43
+Inventoried Flood Plain Conflicts Comments Relevant
+Resource Relationship Ordinances
+Wildlife Area Combining Zone was
+recognized as the only program to
+achieve the goal to protect the elk
+habitat.
+Major conflict is the It was amended to require a 160-
+loss of habitat due to acre minimum lot size for areas
+increased residential identified as significant elk habitat.
+densities in the Siting standards are required to
+habitat areas. minimize conflicts of residences
+Elk Habitat Increased human with habitat protection. Ordinance Nos.
+(Inventory- Ord. disturbance can cause 88-030, 88-031,
+No. 92-041- page Yes conflict with elk. The Underlying zoning in the elk habitat 89-009, 92-040,
+32; identified by use of land which areas is either Floodplain, Forest, or 92-041, 92-042,
+USFS and ODFW) necessitates the Open Space and Conservation. 92-046
+removal of large These resource zones restrict high
+amounts of vegetative density residential development
+cover can also alter and prohibit industrial and
+the quality of elk commercial uses.
+habitat.
+* Some lands are zoned RRlO,
+including lots that are split zoned
+with flood plain. They are already
+parcelized, preventing future land
+divisions.
+Land use or To achieve the goal to conserve development
+Antelope Habitat activities which would antelope habitat, uses conflicting
+with antelope habitat are limited to (Inventory - Ord. result in the loss of the Wildlife Area Combining Zone. Ordinance Nos.
+No. 92-041 - page No habitat, and animal In antelope range, the minimum lot 92-040, 92-041,
+38; identified by harassment and 92-042, 92-046
+ODFW) disturbance size is 320 acres. Except for rural
+associated with service centers, the antelope
+human activity. habitat is zoned EFU or Fl.
+Nest sites are found in
+Forest, EFU and Open
+Habitat for Space and
+Sensitive Birds Conservation zones.
+Uses that could (Inventory- Ord. conflict with the No. 92-041- page habitat site are 41 and Table S; surface mining, identified by ODFW, residential use, The Sensitive Bird and Mammal Ordinance Nos. ODF, OSU, Oregon No recreation facilities, Combining Zone achieves the goal 92-040, 92-041,Natural Heritage roads, logging, and air to protect sensitive bird sites. 92-042, 92-046Data Bases). strips.
+The area required Any activity which for each nest site
+varies between would disturb the
+nesting birds, species. including intensive
+recreational use or
+removal of trees or
+247-22-000671-TA Page 34 of 43
+Flood Plain Relevant Inventoried Conflicts Comments Ordinances Resource Relationship
+vegetation could
+conflict with the
+habitat site.
+Habitat areas for sensitive birds of
+the Fish and Wildlife Element,
+adopted in No. 92-041 is repealed
+and replaced by inventories in
+Exhibit 1. Area required around
+each nest site needed to protect (UPDATE- the nest from conflict varies Inventory - Ord. No. between species. It's called 94-004 -pages 3 to "sensitive habitat area." Ordinance Nos. 140 Site specific No See above. 94-004, 94-005ESEE analysis and Note: Northern bald eagle, osprey, and 94-021decisions follow golden eagle, prairie falcon, and each site. great blue heron rookeries are
+located on federal land. Classified
+as "2A"Goal 5 Resources. Great
+Grey owl site no longer exists.
+Some bald eagle, golden eagle sites
+are controlled by the Sensitive Bird
+and Mammal Combining Zone.
+Floodplain zone recognized as
+program to achieve the goal to Waterfowl Habitat Future resort and conserve waterfowl habitat (Inventory - Ord. vcu .... at;u, I hvmc (Ordinance Nos. 88-030, 88-031, No. 92-041 - page development, human 89-009).56; includes all activity associated rivers, streams, with recreation along Others include: fill and removal Ordinance Nos. lakes and perennial rivers and lakes, permits, wetland removal 86-018, 86-054,wetlands and ponds timber-cutting around regulations, rim rock setbacks, 100' 86-056, 88-030,identified on the sensitive habitats, fill setback from OHW, conservation 88-031, 89-009,1990 US Fish and Yes and removal of easements, restrictions on boats 92-040, 92-041,Wildlife Wetland material in wetlands and docks, landscape management, 92-042- 92-045,Inventory Maps; and within the bed state and federal scenic water 92-046ODFW provided lists and banks of rivers regulations. In addition, the Forest of all bird species; and streams, and and EFU zones require large Co/City of Bend removal of riparian minimum lot size which limits the River Study vegetation are potential density of development in provides additional conflicting uses. the areas adjacent to many of the information) rivers, streams, wetlands, and
+ponds used for waterfowl habitat.
+247-22-000671-TA Page 35 of 43
+Inventoried Flood Plain Conflicts Comments Relevant
+Resource Relationship Ordinances
+Pheasant and quail
+are affected
+whenever agricultural For all of the upland game birds land is taken out of
+production through except sage grouse, the habitat is
+Upland Game Bird urban sprawl, road adequately protected by the
+existing EFU and Forest zoning and Habitat construction, the provisions to protect wetlands (Inventory - Ord. industrial and riparian areas to achieve the No. 92-041- page development and goal of protecting upland game 60; ODFW did not other land clearing birds. identify critical activities. Ordinance Nos. habitat for any of County provisions to protect 86-018, 86-the upland game Farming practices on riparian areas and wetlands protect 053,86-054, 86-species except for Yes existing agricultural one of the most significant 056, 88-030, 88-the sage grouse; lands also have an components of upland game 031, 89-009, 92-habitat for upland impact. Fence row, habitat. 040, 92-041, 92-game birds is woodlots, and riparian 042, 92-046dispersed vegetation are Note: conflicts with sage grouse are throughout the constantly being limited by EFU zoning with a 320 county in riparian, removed at the
+forest, agricultural, expense of upland acre minimum parcel size.
+Sensitive Bird and Mammal and rangeland bird use. Combining Zone pertaining to sage areas) grouse and leks have been Chapter 6 of repealed due to LCDC enacted rules County/City of Bend
+River Study identifies in OAR 660, Division 23.
+conflicting uses with
+upland bird habitat.
+Habitat areas for Upland Game Bird
+Habitat, adopted in No. 92-041 is
+repealed and replaced and further
+amended in Exhibit 4 with the ESEE
+Analysis and inventory for upland
+game bird habitat.
+Conflicts with sage grouse are
+reduced by the limitations on uses
+UPDATE - Inventory in the EFU and Floodplain zone, by Ordinance Nos.
+- Ord. No. 94-004 - Yes See above. the 320 acre minimum lot size and 94-004 and 94-
+pages 156-201. predominance of BLM lands. 021
+Note: conflicts with sage grouse are
+limited by EFU zoning with a 320
+acre minimum parcel size.
+Sensitive Bird and Mammal
+Combining Zone pertaining to sage
+grouse and leks have been
+repealed due to LCDC enacted rules
+in OAR 660, Division 23.
+247-22-000671-TA Page 36 of 43
+Inventoried Flood Plain Conflicts Comments Relevant
+Resource Relationship Ordinances
+Furbearer habitat is adequately
+protected by the existing EFU and
+The conflicting uses Forest zoning and the provisions to
+Furbearer Habitat are those activities or protect farm use and forest zoning,
+(Inventory - Ord. development which and the provisions to protect
+would degrade or wetlands and riparian areas to No. 92-041 - page destroy habitat, or achieve the goal to protect Ordinance Nos.
+65; ODFW has not disturb the animals fu rbea rers. 86-018, 86-
+identified any Yes causing them to 053,86-054, 86-
+specific habitat sites relocate. The farm and forest zones require 056, 88-030, 88-
+other than riparian large minimum lot sizes and many 031, 89-009, 92-
+and wetland areas Conflicts between uses are permitted only as 040, 92-041
+that are critical for
+the listed species. furbearers and other conditional uses. The measures to
+land uses are minimal protect riparian and wetland
+in the county. habitat are detailed in this plan in
+the Riparian and Wetland Habitat
+section.
+Habitat Areas for Caves located in EFU
+zones. Uses permitted Townsend's Big- in those zones that Eared Bats could conflict with the (Inventory- Ord. habitat site are Program to achieve the goal is No. 92-041- page No surface mining, Sensitive Bird and Mammal Ordinance No.
+69; identified by recreation facilities Combining Zone 92-041 and 042
+ODFW, ODF, OSU, including golf courses Oregon Natural and destination Heritage Data resorts, roads, Bases) logging, and air strips.
+UPDATE - Inventory Habitat areas for Townsend Bats,
+- Ord. No. 94-004 - adopted in No. 92-041 is repealed
+pages 140 to 155 and replaced and further amended Ordinance Nos.
+Site specific ESEE No See above. in Exhibit 2. The ESEE for 94-004 and 94-
+analysis and Townsend's big-eared bats is 021
+decisions follow amended for additional bat sites in
+each site. Exhibit 3.
+247-22-000671-TA Page 37 of 43
+Inventoried Flood Plain Conflicts Comments Relevant
+Resource Relationship Ordinances
+Conflicting uses
+include fill and
+removal of material,
+including vegetation
+which could cause a
+reduction in the size
+or quality or function
+of a wetland, or cause
+destruction or
+degradation of the
+riparian habitat and
+vegetation. Floodplain zone recognized as
+program to achieve the goal to
+Structural conserve wetland and riparian
+Wetlands and development in habitat (Ordinance Nos. 88-030, 88- Ordinance Nos.
+Riparian Areas wetlands or riparian 031, 89-009). 86-018, 86-054,areas would reduce (Inventory - Ord. Yes the habitat and the Others include: fill and removal 86-056, 88-030,
+No. 92-041- page use of the structure permits, wetland removal 88-031, 89-009,
+73; identified on could cause conflicts regulations, hydro prohibitions, 92-040, 92-041,
+USFWS NWI) such as harassment or 100' setback from OHW, 92-045
+disturbance or wildlife conservation easements,
+dependent on the restrictions on boats and docks,
+habitat. Cutting of and landscape management.
+riparian vegetation
+can remove important
+shade for streams,
+eliminate habitat for
+various waterfowl,
+furbearers, and
+nongame bird species,
+and can increase the
+potential for erosion
+or bank instability in
+riparian areas.
+247-22-000671-TA Page 38 of 43
+Relevant Inventoried Flood Plain Conflicts Comments Ordinances Resource Relationship
+Conflicting uses:
+Locating septic
+systems in riparian Riparian Areas inventory and ESEE area could cause analysis adopted by Ordinance No. UPDATE - Riparian pollution of ground 92-041 is deleted and replaced byinventory- Ord. and surface water an inventory and ESEE contained inNo. 94-007; systems. The potential Exhibit A.Significant riparian for this conflict habitat is located in depends on the New parcels meeting the minimum three areas: characteristics of the lot size in the resource zones (EFU, soil. Forest, non-exception flood plain) Area within 100' of
+will not cause an increase in OHW of an Locating structural residential density that would inventoried stream development in conflict with riparian habitat or river; riparian areas can values. reduce the habitat Area adjacent to an and the use of In RRlO, MUA-10, and Floodplain inventoried river or structures could cause zones found adjacent to stream and located conflicts such as inventoried riparian areas, the Ordinance Nos. within a flood plain harassment or creation of new 10 acre parcels 94-007mapped by FEMA Yes disturbance of wildlife would not significantly increase the and zoned dependent on habitat. overall density of residential use Floodplain by the
+adjacent to riparian areas because county (Deschutes Recreational use of the areas where new parcels could River, Little the riparian area be created, with the exception of Deschutes River, including boat landing Tuma lo Creek, are already divided Paulina Creek, Fall areas, formal and into lots considerably smaller than River, Indian Ford informal trails, and 10 acres. Creek, Tumalo camping areas can Creek, Squaw alter soil composition Program to achieve Goal 5 for (Whychus) Creek, and cause destruction Riparian Habitat: fill and removal and Crooked River of vegetation. regulations to protect wetlands,
+Increase in density of 100' setback from OHW, Floodplain Area adjacent to a
+zone (regulates docks too), river or stream and residential lots in or Landscape Management zone, inventoried as a adjacent to riparian Conservation easements, State wetland on the NWI areas could result in a Scenic Waterway decrease of habitat
+effectiveness because
+of disturbance to
+wildlife.
+247-22-000671-TA Page 39 of 43
+Inventoried Flood Plain Conflicts Comments Relevant
+Resource Relationship Ordinances
+Conflicting uses
+include fill and
+removal of material,
+including vegetation,
+which could cause
+reduction in the size,
+quality or function of
+a wetland.
+Locating structural
+development in
+wetlands could
+reduce the habitat
+and the use of the
+structure could cause Wetlands Inventory and ESEE
+conflicts such as analysis adopted by Ordinance No.
+harassment or 92-041 is deleted and replaced by
+disturbance of wildlife an inventory and ESEE contained in
+dependent on the Exhibit B, Wetlands.
+UPDATE - Wetland habitat.
+Inventory- Ord. Program to achieve Goal 5 for
+Draining wetlands for Wetland Habitat: Ordinance Nos. No. 94-007, Exhibit Yes agriculture of other 94-007B -inventory is NWI development Fill and removal (Ord. No. 92-045) •
+purposes destroys the regulations to protect
+hydrological function wetlands
+of the wetland and • 100' setback from OHW
+alters the habitat • Flood plain zone (regulates
+qualities that certain docks too)
+wildlife depend on. • DSL Removal / Fill law
+Cutting wetland
+vegetation adjacent to
+streams can remove
+important shade for
+streams, eliminate
+habitat for various
+waterfowl, furbearers,
+and nongame bird
+species, and can also
+increase the potential
+for erosion or bank
+instability in riparian
+areas.
+247-22-000671-TA Page 40 of 43
+Inventoried Flood Plain Conflicts Comments Relevant
+Resource Relationship Ordinances
+Ecologically and
+Scientifically
+Significant Natural Programs for resource protection
+Areas * little include the zoning of the property,
+Deschutes River/ the provisions of the flood plain,
+Deschutes River wetlands and the river corridor.
+Confluence
+(Inventory- Ord. The implementing measures which
+No. 92-052, Exhibit Resort and vacation protect and regulate development
+B, Page 1; home development, in the confluence area are: EFU Ordinance Nos.
+identified by recreational uses, zoning, Floodplain zoning, 86-018, 86-054,
+Oregon Natural Yes livestock grazing, and conservation easements, and fill 86-056, 88-030,
+Heritage Program); fill and removal in and removal permits. 88-031, 89-009,
+Analysis of Pringle wetlands are 92-040, 92-041,
+Falls and Horse conflicting uses. The confluence area is located in 92-045
+Ridge Research the undeveloped open space area
+Areas, West of the Sunriver development
+Hampton Butte and (Crosswater). 80% of the property
+Davis Lakes is retained as open space.
+excluded b/c
+they're on federal Today, zoning is Floodplain and
+land and/or not Forest Use.
+related to flood
+plains.
+Landscape
+Management Uses conflicting with
+Rivers and Streams open space and scenic
+(Inventory- Ord. resources along the
+No. 92-052, Exhibit designated Landscape
+C, Page 3; Management rivers
+identified by state and streams include
+and federal wild land management Program for resource protection
+and scenic activities that result in includes: Floodplain zone and Ordinance Nos. corridors; and habitat loss or restrictions, fill and removal 86-018, 86-053,within 660' of OHW development within permits, wetland removal
+of portions of Yes river or stream regulations, hydro prohibitions, 86-054, 86-056,
+Deschutes River, corridors which would rim rock setbacks, conservation 88-030, 88-031,
+Little Deschutes excessively interfere easements, restrictions on boats 89-009, 92-033,
+River, Paulina with the scenic or and docks, and landscape 93-034
+Creek, Fall River, natural appearance of management.
+Spring river, Tumalo the landscape as seen
+Creek, Squaw from the river or
+(Whychus) Creek, stream or alteration
+and Crooked River of existing natural
+not on the state or landscape by removal
+federal scenic of vegetative cover.
+designations)
+247-22-000671-TA Page 41 of 43
+Inventoried Flood Plain Conflicts Comments Relevant
+Resource Relationship Ordinances
+Conflicting uses with
+the open space and
+scenic values of the
+land adjacent to the
+Lakes and inventoried lakes
+Reservoirs include development
+(Inventory - Ord. which would cause a Conflicting uses around Tumalo
+loss of open space or Reservoir are specifically limited by No. 92-052, Exhibit a decrease in the Title 18.48, Open Space Ordinance No. C, Page 10; includes No aesthetic and scenic Conservation Zone and a 100' 91-020Upper Tuma lo resources, and land setback for any structure from Reservoir; management OHW. remaining are on activities resulting in federal land the removal of natural
+vegetation which
+provides wildlife
+habitat and scenic
+value.
+State Scenic Program for resource protection
+Waterways and See County/ City of includes: Ordinance Nos. Floodplain zone and restrictions, fill Federal Wild and Bend River Study and and removal permits, wetland 86-018, 86-053,
+Scenic Rivers Yes 1986 River Study Staff removal regulations, hydro 86-054, 86-056,
+(Inventory - Ord. Report. Both prohibitions, rim rock setbacks, 88-030, 88-031,
+No. 92-052, Exhibit referenced in Ord. 92- 89-009, 92-033,
+E, Page 1; 005, Exhibit E. conservation easements, 93-034restrictions on boats and docks,
+and landscape management.
+Wilderness Areas,
+Areas of Special
+Concern, Energy
+Sources (Ord. No
+92-052), and
+Groundwater No N/A N/A N/A Resources (Ord. No.
+94-003) not
+analyzed because
+they're on federal
+land or don't relate
+to flood plains.
+247-22-000671-TA Page 42 of 43
+Attachment 2 - Inventory Slte Maps
+247-22-000671-TA Page 43 of 43
+® Exception Area Taxlots Meeting ADU Criteria - Deer Migration Range 1"::: 10,000'
+·-r� ,-1----------------·---- ; '·, - � - ·- .. --�-"- -- -- ---Legend
+� Wildlife Area - Deer Migration Range
+Exception Area Taxlots Meeting Criteria
+Flood Plain
+Wetland
+November 4, 2022
+N:\Custom\County\CDD\Planning\PelerG\Goa15Resources\2022
+---...,,,� "-
+Exception Area Taxlots Meeting ADU Criteria - Deer Winter Range 1" = 6 mi.
+D
+N:\Custom\County\CDD\Planning\PeterG\Goal5Resources\2022
+Legend
+� Wildlife Area - Deer Winter Range
+Exception Area Taxlots Meeting Criteria
+Flood Plain
+Wetland
+November 4, 2022
+® Exception Area Taxlots Meeting ADU Criteria - Elk Range
+1" = 4 mi.
+·- "'
+,,
+?, '
+,·.,
+N:\Custom\County\CDD\Planning\PeterG\GoalSResources\2022
+Wildlife Area - Elk Range
+Exception Area Taxlots Meeting Criteria
+Flood Plain
+Wetland
+November 4, 2022
+BOARD OF
+COMMISSIONERS
+AGENDA REQUEST & STAFF REPORT
+MEETING DATE: November 1, 2023
+SUB!ECT: Ordinance No. 2023-014 - Rural Accessory Dwelling Unit Text Amendments
+RECOMMENDED MOTIONS:
+Staff recommends the Board conduct second reading of Ordinance No. 2023-014. With a
+unanimous vote, the Board can adopt the proposed amendments by emergency, with an
+effective date of 30 days after adoption. Should the Board choose to identify a different
+emergency adoption timeline, staff can modify the proposed ordinance based on Board
+direction. Alternatively, the Board can choose to follow standard procedure with an
+effective date of 90 days after adoption.
+BACKGROUND AND POLICY IMPLICATIONS:
+The Board held first reading of Ordinance 2023-014 on October 18, 2023. If adopted by
+emergency with a 30-day effective date, the new amendments would become effective
+December 1, 2023. If adopted by standard procedure with a 90-day effective date, the new
+amendments would become effective January 30, 2024.
+BUDGET IMPACTS:
+None
+ATTENDANCE:
+Will Groves, Planning Manager
+Kyle Collins, Associate Planner
+TO:
+FROM:
+DATE:
+SUBJECT:
+MEMORANDUM
+Deschutes County Board of Commissioners
+Kyle Collins, Associate Planner
+October 24, 2023
+COMMUNITY DEVELOPMENT
+Consideration of Second Reading - Rural Accessory Dwelling Unit (ADU) Amendments
+On November 1, 2023, staff will present Ordinance No. 2023-014 to the Board of County Commissioners
+(Board) for consideration of second reading. The Board conducted first reading on October 18, 20231
+following deliberations on August 9, 20232• Ordinance No. 2023-014 outlines legislative text amendments
+concerning local provisions for rural accessory dwelling units (ADUs) as identified in Senate Bills (SBs)
+3913 and 6444 (file no. 247-22-000671-TA). The ordinance provided here reflects the decisions made
+during the Board's deliberations and subsequent work sessions.
+Staff submitted an initial 35-day Post-Acknowledgement Plan Amendment (PAPA) notice to the
+Department of Land Conservation and Development (DLCD) on August 17, 2022. A public hearing was
+held with the Deschutes County Planning Commission (Commission) on September 22, 20225• The
+Commission held deliberations and provided recommendations on October 27, 20226•
+Subsequently, legislation was passed by the Oregon Legislature which required several changes to the
+original proposed amendments to maintain compliance with state standards. Specifically, SB 644 was
+passed in May 2023 and provides direction to local jurisdictions looking to adopt rural ADU standards
+prior to formal release of the Statewide Wildfire Hazard Map required by SBs 762 and 80. Additionally,
+SB 807 was passed which alters the original standards and terminology used within the forthcoming
+Statewide Wildfire Hazard Map. Per Board direction, staff submitted a revised 35-day PAPA notice to
+DLCD on June 7, 2023 and held a new work session with the Commission on July 13, 20238•
+1 See Deschutes County Planning Commission October 18, 2023 Agenda for more information:
+https://www.deschutes.org/bcc/page/boa rd-county-commissioners-meeti ng-132
+2 See Deschutes County Planning Commission August 9, 2023 Agenda for more information:
+https://www.deschutes.org/bcc/page/boa rd-county-commissioners-meeti ng-11 8
+3 https:/ /olis.oregonlegislature.gov/liz/2021 R1 /Downloads/MeasureDocument/SB0391 / A-Engrossed
+4 https://olis.oregonlegislature.gov/liz/2023R1/Downloads/MeasureDocument/SB644/Enrolled
+5 https:/ / ol is.oregon legislature .gov/liz/2023 R 1 /Down loads/MeasureDocu ment/SB80/En rolled
+6 See Deschutes County Planning Commission October 27, 2022 Agenda for more information: https://www.deschutes.org/bc­
+pc/page/planning-commission-21
+7 https:/ / o Ii s. orego n I egi s la tu re. gov/ I iz/2023 R 1 /Download s/M ea sure Docu ment/SB80/E n rol I ed
+8 See Deschutes County Planning Commission July 13, 2023 Agenda for more information: https://www.deschutes.org/bc­
+pc/page/planning-commission-29
+Following a Board work session on July 24, 20239 and public hearing on July 26, 202310, the Board voted
+to keep the written record open until Wednesday August 9th, 2023 with deliberations scheduled for the
+same day.
+I. RECORD
+The record, which contains all memoranda, notices, and written testimony received, is available at the
+following website: https://www.deschutes.org/adu
+11. OVERVIEW OF ORDINANCE
+During deliberations, staff presented several decision points for Board consideration. A brief summary
+of the Board decisions and subsequent modifications to the draft amendments is provided below. For a
+more in-depth overview of each of these issues, please refer to the staff memorandum from
+deliberations on August 9, 2023.11
+Primary Modifications
+1. How should "Useable Floor Area" be defined?
+• "Useable floor area" is defined as "the area of the accessory dwelling unit included within the
+surrounding exterior walls, exclusive of garages, carports, decks and porch covers."
+• Based on staff's understanding of the Board's legislative intent and discussions during
+deliberations, language has been removed from the "useable floor area" definition to clarify that
+accessory components of ADUs such as garages can also be insulated without counting towards
+the 900 square-foot size limitation.
+2. How should the 100-Foot Siting Distance requirement be interpreted?
+• A unit must be located no farther than 100 feet from the existing single-family dwelling, measured
+from a wall of the single-family dwelling to the nearest part of the "useable floor area" of the
+accessory dwelling unit.
+• Based on Board direction, staff has added the following exception language to the siting
+distance standard: "An existing structure converted to an accessory dwelling unit must be
+located no farther than 100 feet from the existing single-family dwelling, measured from existing
+single-family dwelling to the nearest part of the accessory dwelling unit structure. For the
+purposes of this section, "existing" means the structure was lawfully established on or before
+9 See Board of County Commissioners July 24, 2023 Agenda for more information: https://www.deschutes.org/bcc /page/board­
+county-commissioners-meeting-115
+10 See Board of County Commissioners July 26, 2023 Agenda for more information:
+https://www.desch utes.org/bcc/page/boa rd-county-com missioners-meeti ng-11 6
+11 See Board of County Commissioners August 9, 2023 Agenda for more information:
+https://www.desch utes.org/bcc/page/boa rd-county-com missioners-meeting-118
+-2-
+November 1, 2023." As currently defined, the "accessory dwelling unit structure" can include any
+portion of an ADU, including garages and any other components not included in the "useable
+floor area" definition.
+3. To maintain Southern Deschutes County Groundwater Protection efforts, should rural ADUs
+in Southern Deschutes County be limited to properties 5 acres or larger?
+• Based on Board direction during first reading of the proposed Ordinance, staff has modified the
+code to only allow ADU development on qualifying properties 5 acres or larger in Southern
+Deschutes County. All remaining qualifying properties must be 2 acres or larger based on state
+statue.
+4. Should rural ADU development be allowed in designated Goal 5 areas such as the Wildlife Area
+Combining Zone, subject to existing standards and requirements?
+• The code allows ADU development in designated Goal 5 areas subject to existing standards and
+requirements.
+s. Do the current amendments adequately address Senate Bill 762, Senate Bill 80, and Wildfire
+Mitigation?
+• Based on concerns from Community Development staff and local fire protection officials, certain
+features of the wildfire mitie:ation standards have been slightlv modified. These modifications do� � �
+not appreciably alter the original proposal, but rather provide greater direction and clarity for
+implementation purposes.
+• For example, the dimensional standards for adequate access and onsite driveways have been
+modified from requiring a "20-foot minimum width, with minimum vertical clearance of 13.5 feet"
+to a "12-foot minimum width, a minimum horizontal clearance of 20 feet, and a minimum vertical
+clearance of 13.5 feet." These standards align with best practices from other jurisdictions and
+minimum standards from several fire protection districts. All other components of the adequate
+access standards remain unchanged from the original proposal.
+• Additionally, based on further discussion with Community Development staff, it has been
+concluded that "staged evacuation areas" are formally determined during specific emergency
+situations and thus it may be unnecessary or misleading to have potential future applicants
+identify specific evacuation sites prior to development of an ADU. Based on this interpretation and
+nuance, the code has been modified to only require formal "written authorization from the
+property owner(s) of the staged evacuation area" in the event that property owners would rather
+identify private parcels as staged evacuation areas instead of formal sites identified during a
+specific emergency event. All other applicants will be notified at the time of application that staged
+evacuation areas will be identified by emergency services personnel during an evacuation event
+-3-
+and applicants will be directed to emergency notification networks in Deschutes County such as
+Deschutes Alerts 12•
+6. Should ADUs be allowed in the Westside Transect Zone?
+• Based on Board direction, staff has modified the amendments to allow ADU development within
+the Westside Transect Zone.
+7. Should Vacation Occupancy be prohibited in the existing residence, as well as the ADU?
+• Based on Board direction, staff has modified the amendments to prohibit vacation occupancy
+within the ADU as well as the primary dwelling.
+Secondary Modifications
+After discussions with Community Development staff, a number of minor modifications have been made
+to the previous amendments which are intended to facilitate implementation of the ADU program and
+provide clear direction for both staff and applicants. These minor modifications do not change the
+legislative intent of the previous amendments, but add clarifying standards or new definitions when
+previous language may have offered competing interpretations. These changes can be summarized as
+follows:
+• Several amendments have been modified to clarify when application or verification materials are
+required during a formal ADU application process. For example, language has been included to
+require applicants to receive approval from a sewer authority or the Deschutes County Onsite
+Wastewater Division for onsite wastewater disposal and treatment, prior to an application for an
+ADU.
+• A new definition for "accessory dwelling unit structure" has been added to provide guidance for
+standards which may affect areas of a proposed ADU outside of the "useable floor area," such as
+setbacks or wildfire mitigation building standards. This new definition is as follows: "Accessory
+dwelling unit structure" means all areas of an accessory dwelling unit inclusive of garages,
+carports, decks, and porch covers.
+• A clarification has been added to ensure that all structures which serve a primarily residential
+dwelling use, such as additional ADUs, guest houses, or temporary residences such as medical
+hardship dwellings will be disallowed on properties containing an approved ADU.
+11. NEXT STEPS & STAFF RECOMMENDATION
+Staff has prepared two versions of Ordinance No. 2023-014. The first version would allow the Board to
+adopt the ordinance by emergency, with an effective date of 30 days and after final acknowledgement
+12 https://www.deschutes.org/911 /page/sign-deschutes-a lerts
+-4-
+by the Department of Land Conservation and Development (DLCD), on December 1, 2023. The second
+version would follow standard adoption procedure, rather than by emergency. This means that the
+ordinance will be effective 90 days after the date of adoption and after final acknowledgement by the
+Department of Land Conservation and Development (DLCD), on January 30, 2024.
+Attachments:
+1. Ordinance No. 2023-014 and Corresponding Exhibits - Emergency
+2. Ordinance No. 2023-014 and Corresponding Exhibits - Non-Emergency
+-5-

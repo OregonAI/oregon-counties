@@ -1,0 +1,657 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-81-015
+title: 'Ordinance No. 81-015'
+doc_type: ordinance
+citation: 'Ordinance No. 81-015'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616609454_37-712-Ordinance%20No.%2081-015%20Recorded%204_15_1981.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 0b968f88d083ae40b572ed6401a0759cbb0b1987ed08152f8e143d1bfb2fc2dd
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 81-015 (Ordinance No. 81-015)
+
+## At a glance
+
+Ordinance No. 81-015 — orders of Deschutes County. 21 pages.
+
+## Full text
+
+FINDINGS OF FACT
+ORDINANCE NO. 81- 015
+A. FINDINGS.
+VOL ~ 1 PAGE7'
+F~
+APRY,51981
+DES UFSRYPATTE
+coUNi,R ON
+1. The authority to impose increased setbacks on existing lots
+adjacent to SM and SMR Zones is necessary to balance the
+interest between such lot and the aggregate and mineral
+resources on the SM and SMR zoned property.
+2. Increased setbacks on existing lots abutting SM and SMR Zones
+are needed to protect the mining resource.
+3. The Oregon Land Use Board of Appeals, in its proposed
+Opinion and Order in LUBA No. 80- 143 and LUBA No. 80- 144,
+indicates that the County needs to have clear authority
+to impose necessary restrictions on lands adjoining SM and
+SMR Zones, so as to balance the interests where a conflict
+is present or is expected to occur.
+4. The Deschutes County Planning Commission recommends adoption
+of the amendment.
+5. The meeting between the Planning Director, applicant and
+property owner of land zoned SM or SMR, will mitigate future
+conflict and will be useful in reaching reasonable setback
+requirements to maximize resource utilization when balanced
+with the development rights on abutting property.
+B. EVIDENCE.
+1. The evidence upon which this decision was made is summarized
+in the record of the hearing, attached hereto and by this
+reference incorporated herein.
+ADOPTED this day of AAOt-111 , 1981
+1
+IV
+BOARD OF COUNTY COMMISSIONERS
+ATTEST:
+1e, n~, J
+SUSAN STONEMAN'
+Recording Secretary
+FINDINGS OF FACT, ORDINANCE NO. 81- 015, PAGE 1
+VOL 37PAGE713
+DAILY AGENDA
+DESCHUTES COUNTY BOARD OF COMMISSIONERS
+MEETING
+MARCH 31, 1981
+10: 00 A. M. CALL TO ORDER
+1. Amendment to the Agenda
+2. Public Hearing regarding Amendment to PL- 15
+Section 5. 250 - Setbacks adjoining SM and
+SMR Zones
+3. Discussion regarding Surface Mining Reclamation
+Authority - John Andersen
+4. Discussion regarding Expenditure for Services
+of Keep Oregon Green - Clay Shepard
+5. Discussion regarding Selection of Financial Con-
+sultant - Bob Paulson
+6. Other Staff/ Public Concerns
+7. For Signature:
+1: 30 P. M. Reconvene with Chairman Brad Fancher and
+Co- Chairman Dick Carlson of the Public Advisory
+Team for Recommendation
+NEXT MEETING: WEDNESDAY, APRIL 1, 1981
+COURTDAY - ROOM A.
+VOL 37PACE714
+The following is a transcript of that portion of the Board of County
+Commissioners' meeting of March 31, 1981, relating to Ordinance
+No. 81- 015, amendment to Section 5. 250 of Ordinance No. PL- 15.
+CHAIRMAN PAULSON: The first item is public hearing
+regarding amendment to PL- 15, Section 5. 250, setbacks adjoining SM
+and SMR zones. I have no documents here, John, do you have them?
+JOHN ANDERSEN: The-- don't you have a copy of the proposed
+amendment?
+CHAIRMAN PAULSON: I haven' t seen it yet. Let me read it
+and then I' ll open the hearing and have a hearing on it-- or we' ll
+do it the other way around. Open the hearing. First I will read
+the order-- ordinance: " Before the Board of County Commissioners of
+Deschutes County, Oregon. An Ordinance Amending Deschutes County
+Ordinance No. PL- 15, Deschutes County Zoning Ordinance of 1979, as
+Amended, by Amending Section 5. 250 Relating to Setbacks on Lands
+Adjoining SM or SMR Zone. Ordinance No. 81- 015. The Board of County
+Commissioners of Deschutes County, Oregon, ordains as follows:
+Section 1. That Section 5. 250, Lands Adjoining SM or SMR Zones, is
+amended to read as follows: Section 5. 250: Lands Adjoining SM or
+SMR Zones. Lots or parcels which abut an SM or SMR Zone may be
+required to establish setbacks in excess of those required in the
+zone in which the lot or parcel is located. The required setback
+shall be determined by the Planning Director after meeting with the
+applicant and the owner of adjoining SM or SMR zoned land to insure
+site and sound screening between the present and future uses on the
+properties. In no event shall the setback exceed 100 yards." That's
+it.
+COMMISSIONER YOUNG: It was a first reading?
+1-
+voC 37PAGE715
+CHAIRMAN PAULSON: This is-- was a first reading. This is
+the hearing. Okay, John do you have any comments?
+JOHN ANDERSEN: Okay. What generated this. request for an
+amendment was the recent LUBA recommendation, Land Use Board of
+Appeals, to LCDC. And, as a result of that, Rick Isham and I
+reported back to the Planning Commission basically what the LUBA
+decision-- recommendation is-- stated. As a result of that, we looked
+at our existing policies on setbacks for adjoining lands and dis-
+covered that some language had been inserted stating that-- or restricting
+our authority to set those setbacks to lands that were transferred
+or created after the effective date of the amendment, giving it-- the
+amendment was the amendment that gave us the authority to put those
+setbacks on. I' m not exactly sure the history of how that language
+got in there, but nevertheless it is in there. After discussion, the
+Planning Commission chose to make the following recommendation:
+Deschutes County Planning Commission has reviewed the recent Land
+Use Board of Appeals recommendation to the Land Conservation and
+o Development Commission. The primary concern to LUBA was the County's
+lack of authority to mitigate conflicts on existing lots adjoining
+SM or SMR zones. We believe this lack of authority can be most easily
+remedied by excluding the words, transferred or created after the
+effective date of this amendment, in Section 5. 250 of the County
+Zoning Ordinance. It is the Commission's unanimous recommendation
+this amendment be made by the Board as quickly as possible." Now,
+as a result, an amendment has been drafted up, and I will mention that
+when Rick rewrote it he decided that the language in here was a little
+inappropriate, that better language would clarify the situation, and
+so it' s more than just removing those words " transferred or created
+2-
+voL 37PAGE716
+after the effective date of the amendment." He has clarified the
+language, giving us authority to set those setbacks. He has also
+placed in there , a requirement that we have a meeting, so that this
+is between the people on both sides of that property line and the
+Planning Department so that we can set it in sort of a mutually
+acceptable situation rather than just arbitrarily setting it. So,
+that is the proposal now. Certainly, the Planning Department supports
+making that amendment. I think it' s important that we do it as quickly
+as possible so that this kind of change can be communicated to LCDC
+while they are in the process of doing their review on our ordinances.
+CHAIRMAN PAULSON: Do you feel that the Planning Commission
+would be in support of this as it' s worded now?
+JOHN ANDERSEN: Yes, I' m confident they would be. It' s
+certainly consistent with what they said that night.
+COMMISSIONER YOUNG: We are assuming, then, that if an
+applicant puts in an application for development of an area near an
+SM or SMR zone, that then all the parties are going to get together
+and decide how far this is going to be set back. We are assuming,
+then, that one, then when that-- when the miner decides to mine his
+property there' s going to be no argument, right? Is that--
+JOHN ANDERSEN: Well, we' re trying to eliminate that kind
+of argument.
+COMMISSIONER YOUNG: Okay. We' re--but supposing, now, that
+somebody goes in there and you get the setback and everything and
+they build it, they build their home in compliance with what's all
+agreed, and then at a later date they sell the home. The new owner
+might not want that guy to mine his property. Is he going to be
+bound by the original agreement? Or is he going to be--
+3-
+VOL 37PdGE71
+JOHN ANDERSEN: Well, if the house--
+COMMISSIONER YOUNG: Or is he going to be able to bring
+action?
+JOHN ANDERSEN: No, the, you mean-- this would occur at the
+time the house is being constructed.
+COMMISSIONER YOUNG: Yeah, but the house may change hands
+before the guy decides to mine.
+JOHN ANDERSEN: Right, but we wouldn'w allow-- well, he' s
+bound by it, for sure. The house is already there.
+COMMISSIONER YOUNG: Would he be not permitted, then, to
+start action? Would he be-- he would have no recourse, in other words?
+JOHN ANDERSEN: Well, not to come to the County. I mean--
+COMMISSIONER YOUNG: The new owner. Okay.
+JOHN ANDERSEN: If he, if the surface miner was to do some-
+thing that damaged his property- or something like that we couldn' t
+stop them from taking civil action.
+COMMISSIONER YOUNG: Well, we' re assuming that this setback
+is going to prevent the miner doing anything that' s going to damage
+his property.
+JOHN ANDERSEN: That' s right, that' s what we' re trying
+to do.
+COMMISSIONER YOUNG: And that' s what I' m getting at. Would
+the new owner, then, would he e bound by law, would he have-- in
+other words, he couldn' t objec: in any way, shape or form if that
+property--if the miner decides to mine his property. He would be
+bound by the original agreemen:? You can see what I' m getting at.
+JOHN ANDERSEN: Ye- h, he couldn' t come to the County and
+say the County-- County stop this guy from doing this, because we' ve
+4-
+VOL 37PAGE718
+JOHN ANDERSEN: Well, if the house--
+COMMISSIONER YOUNG: Or is he going to be able to bring
+action?
+JOHN ANDERSEN: No, the, you mean-- this would occur at the
+time the house is being constructed.
+COMMISSIONER YOUNG: Yeah, but the house may change hands
+before the guy decides to mine.
+JOHN ANDERSEN: Right, but we wouldn'w allow-- well, he' s
+bound by it, for sure. The house is already there.
+COMMISSIONER YOUNG: Would he be not permitted, then, to
+start action? Would he be-- he would have no recourse, in other words?
+JOHN ANDERSEN: Well, not to come to the County. I mean--
+COMMISSIONER YOUNG: The new owner. Okay.
+JOHN ANDERSEN: If he, if the surface miner was to do some-
+thing that damaged his property or something like that we couldn' t
+stop them from taking civil action.
+COMMISSIONER YOUNG: Well, we' re assuming that this setback
+is going to prevent the miner doing anything that' s going to damage
+his property.
+JOHN ANDERSEN: That' s right, that' s what we' re trying
+to do.
+COMMISSIONER YOUNG: And that' s what I' m getting at. Would
+the new owner, then, would he be bound by law, would he have-- in
+other words, he couldn' t object in any way, shape or form if that
+property--if the miner decides to mine his property. He would be
+bound by the original agreement? You can see what I' m getting at.
+JOHN ANDERSEN: Yeah, he couldn't come to the County and
+say the County-- County stop this guy from doing this, because we' ve
+4-
+voL 37PAcE719
+already resolved our situation. What he~, you know, but we can' t stop
+somebody from undertaking civil action, I mean, that' s their right.
+COMMISSIONER YOUNG: In other words, the miner isn' t really
+protected.
+JOHN ANDERSEN: Well, I think he' s got more protection
+this way than he has right now.
+COMMISSIONER YOUNG: Well, he has more, but really he' s
+not-- I mean, if the new owner decides, hey, I don't want that guy
+to mine that, then he has the right to bring action to try and stop
+it.
+CHAIRMAN PAULSON: I think we' re confusing two things. A
+person can always object. The question is whether or not they're
+going to prevail. The odds of their prevailing are slim, though they
+could objecto the County and to anybody they wanted to, and they may
+well do that, but this reduces the odds of their prevailing.
+JOHN ANDERSEN: Right. What we' re trying to do is eliminate
+the problem before it' s created.
+COMMISSIONER YOUNG: Well, yeah, ( unintelligible), but
+the point is, the original owner he' s evidently going to be happy
+because he' s going to agree to everything, we assume--
+CHAIRMAN PAULSON: Not necessarily.
+COMMISSIONER YOUNG: Well, either that or he is going--
+he' s going to start action immediately.
+JOHN ANDERSEN: He may be happy enough not to start action,
+is what we' re hoping.
+COMMISSIONER YOUNG: Well, that' s what I' m getting at.
+COMMISSIONER SHEPARD: He may not avoid it, I mean, if
+you buy a house on a busy street and you decide you don' t like the
+5-
+VOL 3 I PAGE720
+street noises, nobody's saying you can' t start action to try to get
+the street closed. Nobody can take that right away from you. Whether
+you win in court or not is beyond our control. We have no control
+over that.
+JOHN ANDERSEN: Yeah, I would say that-- that's-- I'm, you
+know, Rick is not here, and certainly this is more in his province
+than mine, but I would say that once the County has set a standard,
+you know, saying this is, you know, what is going to be, it' s more
+difficult for them to prevail on some kind of legal action than it
+was before.
+COMMISSIONER YOUNG: Okay, I guess we got one of the miners
+here. Maybe he' s got a comment on what I, what I' m talking about.
+You understand what I' m talking about, don't you?
+UNIDENTIFIED SURFACE MINER: Yeah, sure.
+COMMISSIONER YOUNG: A new owner. ( unintelligible) a new
+owner might have a different opinion of the situation than the
+original owner.
+UNIDENTIFIED SURFACE MINER: Yeah, that' s correct. I don' t
+know how we'd address that ( unintelligible).
+COMMISSIONER YOUNG: Well, the thing is, I guess that both
+sides would be equally protected by the original agreement. If you
+went into, before a Board or something and they look at it and they
+say, you know, you bought it knowing the circumstances, maybe then--
+maybe I' m barking up the wrong tree or trying to create something,
+but I just, I' m just trying to be ( unintelligible).
+JOHN ANDERSEN: Well, I don' t think there' s any way to
+resolve all of the potential problems that could come up. We' re
+just trying to--
+6-
+VOL 37PAGE721
+COMMISSIONER YOUNG: Okay. But we would say each side
+would be equally protected.
+JOHN ANDERSEN: Yeah. We' re trying to, you know. eliminate
+the problem before its created.
+CHAIRMAN PAULSON: John, this as it' s written right here,
+refers to the " setbacks shall be determined by the Planning Director."
+Am I correct in assuming that any party has the right to appeal that
+if they wish?
+JOHN ANDERSEN: Yes, everybody's got-- everybody's got
+authority to appeal my decisions.
+COMMISSIONER YOUNG: You don' t feel you' re going to have the
+last word, either, John.
+JOHN ANDERSEN: I can' t remember the last time I had the
+last word on something.
+COMMISSIONER YOUNG: It' s never happened, has it? It' s
+never happened.
+CHAIRMAN PAULSON: The fact that that' s not stated in
+there has no bearing on it, though.
+JOHN ANDERSEN: No, there are separate sections for appeals
+of Planning Director' s decisions.
+MIKE KMENT: I' ve got two questions. There--
+CHAIRMAN PAULSON: Would you give your name for the record?
+MIKE KMENT: Oh, Mike Kment, Central Oregon Builders
+Association. Two-- one--there was a committee set up, wouldn't that
+be a normal place to resolve, or begin resolution of setbacks that
+involve reclamation?
+JOHN ANDERSEN: Well, as part of the-- you're talking about
+the Surface Mining Committee, I think, right? For the site plan,
+7-
+Vag 37paa722
+that' s--they would have the authority to do that.
+MIKE KMENT: Wouldn't that be, also be a normal, couldn't
+that be a normal function in terms of setback requirements on
+adjacent property, as well?
+JOHN ANDERSEN: Well, we could. I was' ju8t thinking this
+was simpler, you know, that we' d only have three people getting
+together and it would just go a little faster than having to have
+a committee meeting.
+UNIDENTIFIED SPEAKER: Since the-- have you had any public
+or neighbors object already to use-- I'm wondering how well disclosure
+is working on adjacent properties so far. Have you had any new--
+JOHN ANDERSEN: New subdivisions next to surface mines?
+We haven' t had any here lately.
+CHAIRMAN PAULSON: It' s my understanding--
+UNIDENTIFIED SPEAKER: No, have you had any objections
+to neighbors--of neighbors who perhaps were not aware of the fact
+that land was in fact zoned SM or SMR?
+JOHN ANDERSEN: Oh, when they moved in and didn' t know
+that it was mine land, I, see. Yes, one.
+UNIDENTIFIED SPEAKER: How was that resolved?
+JOHN ANDERSEN: I' m afraid it wasn't resolved other than
+we informed them that they, yes, they were next to a potential mining
+site and that yes, there was an extremely high probability that that
+site was going to be mined and that we would make every effort to
+have a site plan that would make it compatible as possible with their
+living in that home, but that they should anticipate mining occurring
+next door and that was a reality. We don' t have anything that goes
+back in existing subdivisions to inform people unless they come in
+8-
+von 37eAcE723
+and check the zoning, which they didn' t in this case, they didn' t
+come in and check on either their property or adjoining property.
+In fact, as I understand it, they took the word of the realtor who
+told them that ( unintelligible).
+UNIDENTIFIED SPEAKER: I' m just concerned again, you know,
+not to rehash an old issue, but you know, I think part of the-- SM is
+a clear indicate of what' s going to happen on the land, obviously,
+and I' m--SMR isn' t, even though I think the Plan attempts to address
+that issue, I' m not certain that either neighbors or anybody else
+are-- really believe that on some SMR sites that in fact that will
+be mined. I' m not certain exactly the message that you got from LUBA
+or from LCDC's, you know, request back to LUBA on their decision, but
+it seems to me that th eproblem hasn' t exactly got resolved yet, that
+there' s still a feeling of, on the part of neighbors and some uncertainty
+on the part of miners, uncertainty on our part, that in fact all lands
+so designated: that'sgot at least two of those initials, SM or SMR
+that it' s going to be mined, I mean--
+JOHN ANDERSEN: Well, I guess, judging from the reaction of
+the neighbors who live next to SMR and their objections during the
+planning process and their objections now to LCDC about approving our
+Plan, I suspect that even though it' s SMR they think it' s going to
+be mined, and certainly if they come and ask us that' s what we tell
+them is going to happen. So, I guess I would disagree.
+UNIDENTIFIED SPEAKER: I guess I' m just suggesting that the
+amendment probably could have gone perhaps further and straighten
+that out one, you know, just get rid of that SMR designation.
+COMMISSIONER YOUNG: That' s what we gotta do.
+9-
+vpl. Wpm724
+JERRY CURL: Mr. Chairman?
+CHAIRMAN PAULSON: Yes?
+JERRY CURL: Jerry Curl. I' d like to ask John a question.
+I' m not too familiar with the amendment or what proceeded beforehand,
+so I' d like to get it clear in my mind by giving an example and
+asking how it would be handled. Say we have some lots surrounding
+an SM parcel of land, say it was converted from SMR to SM., and we
+have three lots that aren' t built upon at that time. What's the
+procedure to determine the setback from those three lots that are
+adjacent to the SM property? Now, if this amendment is approved?
+JOHN ANDERSEN: We would have a meeting between the person
+who bought the lot and wanted to build on it, the miner who was
+adjoining their property, and myself or my representative. At that
+time we would reach a mutually agreed upon decision as to what
+increased setback-- the setback would probably only be something like
+20 feet normally-- under this amendment it could be up to 300 feet.
+JERRY CURL: Okay. Would that-- are we talking about whose
+property-- the lot that the person's building upon or the surface
+mining operation?
+JOHN ANDERSEN: The lot that' s being built upon. A
+residential lot.
+JERRY CURL: The lot that' s being built upon. So the
+setback will apply to that property, regardless of what' s decided.
+JOHN ANDERSEN: Right. Not on the mine.
+JERRY CURL: Okay. I just wanted to get that--
+CHAIRMAN PAULSON: John, I' m confused by your use-- I
+think you've said it a couple three times-- of " mutually agreed upon."
+The ordinance says, the amendment proposed says the Planning
+Director' s decision. I can well envision that there will be no
+10-
+v0L 37pacF725
+mutually agreed upon solution.
+JOHN ANDERSEN: That' s true. I was being optimistic, I,
+sorry.
+COMMISSIONER SHEPARD: Why'd you have to bring that up?
+CHAIRMAN PAULSON: I just want to be sure there' s--
+JOHN ANDERSEN: There probably will be times when the
+Planning Department will say " this is what it' s going to be," and
+it may not be mutually agreed upon.
+COMMISSIONER YOUNG: And then if it' s not mutually agreed
+on they'll probably wind in here in front of us and we' ve got to make
+the decision.
+JOHN ANDERSEN: Yeah, right.
+COMMISSIONER YOUNG: That's all right, I like making
+decisions.
+JERRY CURL: Would that appeal go to the Hearings Officer,
+Planning Commission and Commissioners, or directly to the Commissioners?
+JOHN ANDERSEN: Right now, the process has been it goes
+right to the Board.
+COMMISSIONER YOUNG: I would prefer that. It costs a lot
+less.
+CHAIRMAN PAULSON: That's what's stated in the appeal
+section in the Plan?
+JOHN ANDERSEN: Well, I thought it was that it went to the
+Hearings Officer, but we went and checked the other day and apparently
+that was in the amended PL- 9 and never, which we have never adopted.
+So, the procedure now is just to go to the Board.
+CHAIRMAN PAULSON: Only for site plans, or what are you
+talking about?
+11-
+voL 37PAGE726
+JOHN ANDERSEN: Well, all, you know, there has to be an
+appeal for anything the Planning Department decides. When somebody
+comes up to the front counter here and we say you know, farm use
+means this and they don't like that, then they have--
+COMMISSIONER YOUNG: They come to the Board.
+JOHN ANDERSEN: Right.
+CHAIRMAN PAULSON: I need that back. Any other questions
+or discussion--
+JOHN ANDERSEN: Well, there' s more out in the, out here,
+I didn' t bring any in because I thought you had them.
+CHAIRMAN PAULSON: Any other questions or discussion?
+COMMISSIONER YOUNG: Well, I would say that I think it' s
+a reasonable approach to the thing. You know, before they was trying
+to make the miners set back everything and losing part of his product,
+and now, I think it' s a good approach, and the fact that, you know,
+that the Department's going to try to come to agreement, if they
+can' t the Commissioners will make the decision, and I personally think
+it' s a pretty good idea.
+CHAIRMAN PAULSON: Depends on which side of the fence you're
+looking from.
+COMMISSIONER YOUNG: Well, you know, if you--
+CHAIRMAN PAULSON: I think it' s necessary.
+COMMISSIONER YOUNG: It isn' t set, it' s something that' s
+going to be negotiated. That' s the part I like about it. Because
+if it' s next to Jim' s here, why he' s going to be called in, and
+the guy that' s going to build a home's going to be called in, and
+they're going to sit down and they're going to, with John or somebody,
+and they're going to work it out, and I think that' s a good idea.
+12-
+31a 727
+CHAIRMAN PAULSON: They're going to sit down and they're
+going to work him over. ( laughter)
+UNIDENTIFIED SPEAKER: Well, Mr. Chairman, I' d just like
+to comment that I think it' s about-- something like this is about
+ten years overdue, and, at the very least, and it' s much easier
+to move a dwelling than it is a sand and gravel deposit, so I think
+we' re on the right track.
+JOHN ANDERSEN: That was Jim Curl, for the record.
+CHAIRMAN PAULSON: John, in response to Jerry's question,
+in addition, am I correct that this does not apply only to new sub-
+divisions that are being laid- out, and laying out setbacks on those,
+but existing ones that are even partially built out and vacant lots
+would--
+JOHN ANDERSEN: Yeah. We have even more authority for
+new subdivisions in things that we already have in effect, but this
+is for the ones that are already in existence.
+UNIDENTIFIED SPEAKER: I have one question. Does that--
+does it-- both setback and screening? Does that give you the authority
+on screening on the adjacent property as well?
+JOHN ANDERSEN: Well, it' s for the purposes of screening,
+but it doesn't specifically say we could impose additional screening.
+CHAIRMAN PAULSON: It could be negotiated. 100 yards, or
+75 foot screening.
+JOHN ANDERSEN: We have a Plan policy that gives us some
+authority to do that. But the ordinance authority is a little
+weaker yet, so it is right now more negotiable type of thing than
+a mandate.
+CHAIRMAN PAULSON: Is it possible to act on this after
+13-
+vrn. Went728
+the second reading in the same meeting, or do we need to have a
+second reading at a--
+COMMISSIONER PAULSON: To read it in its entirety at the
+same meeting and the vote is unanimous it can be adopted.
+JOHN ANDERSEN: Right. If it' s unanimous you can do it
+at one, but if it' s not unanimous it' d have to be--
+CHAIRMAN PAULSON: Any further discussion? Yes, sir.
+ROB BAXTER: My name's Rob Baxter--
+COMMISSIONER SHEPARD: What's the name, again?
+ROB BAXTER: Rob Baxter. I' m wondering what the difference
+is between SMR and SM. What process you have to go through to change
+it.
+CHAIRMAN PAULSON: John, do you want to answer that?
+JOHN ANDERSEN: It' s a zone change process where there' s a
+public hearing held before the County Hearings Officer, and evidence
+is submitted as to whether the site is needed, you know, at this time,
+and if a finding-- well, I' m really simplifying this a lot-- but, if
+the finding is that it' s needed at this time at that site, then the
+change is made to surface mining, and at that time mining is a per-
+mitted use subject only to approved site plan.
+COMMISSIONER YOUNG: Basically what. it requires is a zone
+change.
+ROB BAXTER: Okay. Now, you' ve been talking about sub-
+divisions all along. What about larger parcels ( unintelligible),
+say 25 acres adjacent to the SMR?
+JOHN ANDERSEN: You mean as far as the setback?
+ROB BAXTER: Yes ( unintelligible).
+JOHN ANDERSEN: It would be the same. We would have that
+14-
+VOL 37PACE729
+authority on, for an increased setback on that property. Usually
+it doesn't turn out to be a problem, except in a subdivision, because
+usually there' s enough land on 25 acres and if people know there' s
+going to be a mine next door they're not going to build next to it
+anyway. But you do get into a problem sometimes on subdivisions
+where it' s a much shorter distance and people might prefer to be up
+unintelligible).
+CHAIRMAN PAULSON: Any other questions?
+COMMISSIONER YOUNG: : I move we have the second reading.
+COMMISSIONER SHEPARD: Second.
+CHAIRMAN PAULSON: We have to close the hearing, first,
+before we get mixed up here. I' ll close the hearing, there being no
+further questions. It' s been moved and seconded that we have the
+second reading. Any call for question?
+COMMISSIONER SHEPARD: Question.
+CHAIRMAN PAULSON: Question called for. Commissioner
+Shepard?
+COMMISSIONER SHEPARD: Aye.
+CHAIRMAN PAULSON: Commissioner Young?
+COMMISSIONER YOUNG: Aye.
+CHAIRMAN PAULSON: Chair votes aye, motion carried.
+COMMISSIONER SHEPARD: Has to be read in its entirety?
+COMMISSIONER YOUNG: Yes.
+CHAIRMAN PAULSON: Second reading of Ordinance No. 81- 015.
+At this point, Chairman Paulson proceeded to read the entire ordinance
+in full into the record.] That' s the second reading.
+COMMISSIONER YOUNG: I move the ordinance be adopted.
+COMMISSIONER SHEPARD: Second the motion.
+15-
+I
+finVOL J jPAGE7tm.1
+CHAIRMAN PAULSON: It' s moved and seconded that the
+ordinance be adopted. Discussion. I' m just curious if this is
+worded correctly, here. " Required setbacks shall be determined by
+the Planning Director after meeting, with the applicant and the
+owner of the adjoining SM or SMR zone." Aren,'t there times when
+that could be reversed? Where the area would be mined or be about
+to be mined and it' d be determir.ng the setback prior to the mining?
+JOHN ANDERSEN: Well, we don't have authority to do that.
+The only time we get authority is when somebody comes in and asks
+us for a permit. So,--
+CHAIRMAN PAULSON: But it' s assumed by this that the only
+one that' s going to be asking and initiating that action would be
+the person that owns the land not SM or SMR.
+JOHN ANDERSEN:- Right.
+COMMISSIONER YOUNG: That' s the only one that needs to.
+JOHN ANDERSEN: Right. It' s the only that-- it's the one
+that gets the regulation imposed on it.
+COMMISSIONER YOUNG: It' s the only one affected.
+JOHN ANDERSEN: Right.
+CHAIRMAN PAULSON: So, if you've got a vacant parcel and
+someone starts to mine the SMR or the SM that' s adjacent to it, there
+would be no statement as to what the setback would be on that adjacent
+until such time as the owner of that applied for it.
+JOHN ANDERSEN: Right.
+CHAIRMAN PAULSON: Any further discussion?
+COMMISSIONER SHEPARD: Question.
+CHAIRMAN PAULSON: Question called for. Commissioner
+Shepard?
+16-
+voL Mew 731
+COMMISSIONER SHEPARD: Aye.
+CHAIRMAN PAULSON: Commissioner Young?
+COMMISSINER YOUNG: Aye.
+CHAIRMAN PAULSON: Chair votes aye, motion carried.
+JOHN ANDERSEN: I don't know if you should sign that one,
+I' m not sure that' s the original. Rick, I think, has the original.
+He' s not here today.
+COMMISSIONER YOUNG: With such a good copy machine as we
+got, how do you tell which is the original?
+JOHN ANDERSEN: Well, that' s true. Maybe that is the
+original, I don' t know. It' s the one he sent me.
+COMMISSIONER SHEPARD: Is it working today?
+CHAIRMAN PAULSON: Why don't we sign it, if it' s not
+correct, you can bring the other one to us and we' ll sign that.
+JOHN ANDERSEN: Okay, fine.
+END OF HEARING
+17-
+March 12, 1981
+voL 37PAgE732
+leQUl~ _ 9elwlw~~
+COURTHOUSE ANNEX, ROOM 102 * PHONE 388. 6556
+BEND, OREGON 97701
+TO: Board of County Commissioners
+FROM: County Planning Commission
+RE: SETBACKS ABUTTING S. M. AND S. M.R. ZONES
+The Deschutes County Planning Commission has reviewed the
+recent Land Use Board of Appeals recommendation to the Land
+Conservation and Development Commission. A primary concern
+to LUBA was the County's lack of authority to mitigate
+conflicts on existing lots adjoining SM or SMR zones. We
+believe this lack of authority can be most easily remedied
+by excluding the words "... transferred or created after the
+effective date of this amendment..." in Section 5. 250 of
+the County Zoning Ordinance. It is the Commission's unan-
+imous recommendation this amendment be made by the Board as
+quickly as possible.
+sp94t tted,
+John E . kii6 ~ sen, Secretary
+Mzsrffftes County Planning Commission
+JEA: ss

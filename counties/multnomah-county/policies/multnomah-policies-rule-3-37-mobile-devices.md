@@ -1,0 +1,306 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-policies-rule-3-37-mobile-devices
+title: 'Rule 3-37:  Mobile Devices'
+doc_type: policy
+citation: 'Rule 3-37:  Mobile Devices'
+authority_level: county_policy
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://multco.us/file/rule_3-37:__mobile_devices/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: cd031f8206cee66226f42af8e2bc0d9cd5684aca1586b102838277c511288025
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Rule 3-37:  Mobile Devices (Rule 3-37:  Mobile Devices)
+
+## At a glance
+
+Rule 3-37:  Mobile Devices — policies of Multnomah County. 8 pages.
+
+## Full text
+
+Rule 3-37
+Mobile Devices
+§§:
+3-37-010  Purpose
+3-37-015  Definitions
+3-37-020  Policy
+3-37-025  Applicability
+3-37-030  Mobile Device Guidelines
+3-37-035  Oversight and Authorization of Mobile Device Usage
+3-37-040  Limiting or Revoking Access
+3-37-045  No Responsibility to Repair or Replace Mobile Devices
+3-37-050  Permissible and Prohibited Uses of County-Owned Mobile Devices
+3-37-055  Confidentiality of Systems and Information
+3-37-060  Employee Privacy Expectations
+3-37-065  Electronic Records Retention and Access
+§ 3-37-010 Purpose
+The purpose of this Mobile Devices policy is to provide guidelines for usage of county and
+personally owned mobile devices for County related work.
+§ 3-37-015 Definitions
+● Allowance: Considered additional employee compensation subject to applicable payroll
+taxes. See Administrative Procedure, FIN-18.
+● County-owned Mobile Device: A mobile device and the associated monthly services
+that are acquired by and paid for by Multnomah County and issued to employees to
+conduct county business.
+● Mobile Device: A mobile device is an electronic device used for mobile
+communications including mobile telephone, email, text messaging or data
+transmission, over a mobile or Wi-Fi network. In addition to the standard voice function,
+mobile devices known as smartphones and/or tablets may support many additional
+services and accessories, such as application software (third-party “apps”), text
+messaging, email, internet access, camera and GPS. Additionally, cards for the purpose
+of providing mobile network access (this type of card requires some type of monthly
+service plan) for mobile computing devices such as a laptop are also considered a
+mobile device.
+● Personal Mobile Device: A mobile device and the associated monthly or prepaid
+services that are acquired by and paid for by the employee.
+§ 3-37-020 Policy
+A. The county authorizes certain employees to utilize county-owned mobile devices when
+such usage is required by the employees’ job duties. Employees utilizing county-owned
+mobile devices must use the devices for authorized county business except as
+otherwise provided in this policy. The county will also authorize certain employees, on a
+voluntary basis, to use their personal mobile devices for work purposes when required
+by their job duties, with payment of an allowance under the terms of this policy and
+Administrative Procedure FIN-18. The allowance is considered additional compensation
+and will be subject to all applicable taxes and withholdings.  When appropriate, the
+Department Director will provide the choice to the employee to either be issued a
+county-owned mobile device or to use their personal mobile device and receive an
+allowance pursuant to this policy. Any and all usage of mobile devices for work
+purposes must comply with all federal, state, and county laws, rules including MCPR §
+3-35-050, regulations and procedures established by county departments and work
+units.  Decisions by Department Directors about mobile device usage should reflect
+considerations of cost effectiveness.
+B. County-owned mobile devices may be taken home or to other locations for work
+purposes by employees with prior approval of their manager. All equipment shall be
+returned upon separation from employment with the County.
+§ 3-37-025 Applicability
+This rule applies to employees’ use of mobile devices for work purposes. This rule covers both
+county-owned mobile devices and personal mobile devices used for work purposes whether or
+not the employee is compensated for its use.
+§ 3-37-030  Mobile Device Guidelines
+It is the county’s preference to authorize an allowance for the use of personal mobile devices
+rather than provide county-owned mobile devices. The following are the scenarios by which a
+county employee may, if approved, utilize mobile devices for work purposes.
+A. Business use of personal mobile devices: Department Directors may authorize
+employees to utilize their personal mobile devices for work purposes on a voluntary
+basis, under the terms and guidelines of this policy.
+1. Compensation
+a. A monthly allowance may be issued to those employees who are
+authorized by their Department Directors to utilize voice, text, and/or data
+services on personal mobile devices for work purposes. The county will
+pay an allowance as designated in Multnomah County Administrative
+Procedure FIN-18 for use of a mobile device for voice, text, and/or data
+services.
+b. The allowance will be paid to employees in whole monthly increments
+rather than prorated for partial beginning and ending months of approved
+allowance period.
+c. Amounts different than those outlined in Multnomah County Administrative
+Procedure FIN-18, require approval from the Chief Financial Officer
+d. The mobile device allowance is considered additional compensation and
+as such is a taxable item that will be added to the employee’s monthly
+paycheck. The employee is responsible for submitting to the Department
+Director the pages of his/her wireless service bill verifying the charges.
+The Department Director is responsible for notifying Central Payroll of
+which employees have been approved to use personal mobile devices
+under this policy, of all allowance amounts, and changes in allowance
+amounts or eligibility.
+e. The allowance will begin the month following the date of the Department
+Director’s signature on the authorization form. A request for
+reimbursement of prior months must have a written justification signed by
+the Department Director attached to the form, and is subject to the
+approval of the County Chief Financial Officer. In no event shall
+reimbursement of prior months cross fiscal years.
+f. The employee is responsible for submitting to the Department Director, on
+an annual basis, the pages of his/her most current wireless service bill
+verifying the charges and confirming that the employee continues to have
+the service. Documentation is to be received by January 15th to continue
+the employee allowance.
+g. The employee’s manager and the employee are both responsible for
+notifying the Department Director and Central Payroll, in writing, within ten
+(10) days, if the employee is no longer required to use a personal mobile
+device for job related tasks, if the personal mobile device has become
+disabled and not usable, or if there is a change to the monthly charges for
+the mobile device that would affect the amount of the allowance.
+h. The Department Director is responsible for notifying Central Payroll, in
+writing, if the employee terminates their employment with the County, if
+the employee transfers to a new unit, or if the Department Director
+revokes personal mobile authorization.
+i. If an employee loses their personal mobile device and the device contains
+county information such as e-mails, calendar notations, and texts:
+i. The employee is responsible for immediately notifying their
+manager and the Help Desk; and
+ii. The County has the right to destroy any data on the personal
+mobile device or take any other action to ensure the confidentiality
+of county information on the mobile device, without regard to
+potential loss of the employee’s personal data or information.
+B. County-issued mobile devices.
+1. If it is determined that the use of a personal mobile device does not meet the
+business needs or the employee does not wish to utilize that alternative, a
+Department Director may authorize an employee to use a county-owned mobile
+device for business purposes under these rules.
+2. If an employee receives a mobile allowance, they typically do not have a need for
+a county issued mobile device. The exceptions would be county issued mobile
+device that is shared by and rotated among multiple employees (including those
+that receive an allowance) for essential service coverage such as, but not limited
+to, Emergency Management Duty Officer or Call Center employees. Exceptions
+require Department Director approval.
+§ 3-37-035 Oversight and Authorization of Mobile Device Usage
+A. Oversight: Department Directors shall be responsible for oversight and approval of each
+employee’s request for a county-owned mobile device, or to utilize their personal mobile
+device for business purposes. Requests are made on the basis of a genuine business
+need, not by the requestor’s job classification alone.  The Department Director shall
+review mobile device usage annually, or on a more suitable frequency as may be
+requested by IT, to ensure that the use is appropriate and that prudent fiscal
+management guidelines are followed. This periodic review shall include an assessment
+of each authorized employee’s need to use a mobile device for a business purpose.
+B. Authorization
+1. The county must authorize the employee to use a personal mobile device or a
+county-owned mobile device for county business.  Authorization forms shall be
+signed by the employee and the employee’s manager, and then submitted to the
+Department Director for approval and authorization to be indicated by the
+Director’s signature. A copy of the authorization form will be retained by both the
+employee and the department. A copy of the forms are available on Multco
+Commons: Authorization to Use a County Issued Cell Phone or Mobile Device
+and Multnomah County Administrative Procedure FIN-18 - Allowance for
+Business Use of Personal Mobile Devices Application / Approval Form.
+2. The Department Director is responsible for authorizing an employee to use a
+personal mobile device for business purposes or to use a county-owned mobile
+device, based on the following factors:
+a. Departmental requirements indicate utilizing a mobile device is an integral
+part of performing duties of the job description;
+b. More than 50% of the employee’s job duties are performed in the field;
+c. The employee is required to be contacted for business reasons on a
+regular basis;
+d. The employee is required to be on call outside of normal work hours as a
+job requirement; or
+e. The employee is a critical decision maker.
+3. The Department Director is responsible upon approval of an allowance for
+business use of a personal mobile device, or upon authorization for an employee
+to use a county-owned mobile device, to approve the plan that is the “least-cost”
+to the county for employee usage, and to review that plan annually or anytime
+charges greater than the base plan costs are experienced. IT may assist in
+identifying the plan with the lowest overall cost to the county, considering usage
+patterns experienced.  Employees utilizing personal mobile devices for business
+purposes must provide the Department Director and their manager with their
+current telephone number.
+§ 3-37-040 Limiting or Revoking Access
+The county may revoke or limit permission for use of mobile devices for work purposes at any
+time without cause or explanation. Department Directors may issue department specific
+limitations on use of mobile devices that are more restrictive than this rule.
+§ 3-37-045 No Responsibility to Repair or Replace Mobile Devices
+A. Under no circumstances will an employee be authorized to personally seek to repair a
+county-owned mobile device on their own.  For employees who continue to utilize
+county-owned mobile devices, the county will continue to provide support and repair
+services for those devices.
+B. The county has no responsibility for repair or replacement of personal mobile devices
+used for work purposes.
+§ 3-37-050 Permissible and Prohibited Uses of County-Owned Mobile Devices
+A. Usage of county-owned mobile devices is restricted to county business, except as
+allowed in these guidelines.
+B. Limited personal use of county-owned mobile devices is permissible, and must always
+be on the employee’s own time, at virtually no cost to the county, and be brief and
+infrequent.  In addition to uses which may have a direct cost, such as making toll calls,
+personal uses which have an indirect cost are also prohibited. Personal use of county-
+owned mobile devices, consistent with these rules, is considered an incidental benefit
+under MCPR § 4-20-110 (C).
+C. Permissible personal uses of county-owned mobile devices include:
+1. A brief email;
+2. A brief text message;
+3. A brief and infrequent telephone call;
+4. A brief and infrequent toll call that is not charged to the county;
+5. Brief and infrequent internet access or web searches for personal research, or
+self-study;
+6. Brief and infrequent postings using social media if the content or purpose is
+personal;
+7. Storage of limited copies of personal electronic files, e.g., photographs,
+documents, and digital music, so long as they have been virus scanned with any
+software the County has made available for that purpose;
+8. Data streaming provided the mobile device is using a Wi-Fi connection and not
+the county’s mobile data plan, and there is no interference with county business;
+and
+9. If the employee is not assigned a county desk phone the employee may use a
+county-owned mobile device in the same manner as a desk phone so long as it
+amounts to virtually no cost to the county, or if it results in additional cost for the
+county, the employee will reimburse the county for the added cost.
+D. Prohibited personal uses of county-owned mobile devices, except as provided above in
+MCPR § 3-37-050 (C), include but are not limited to:
+1. Making toll calls;
+2. Sending or knowingly receiving personal emails or texts with large file
+attachments (more than 500 megabytes) e.g., graphics, photos or sound files;
+3. Uses which require significant data storage or data transmission (bandwidth)
+capacity; and
+4. Data streaming while using its mobile data plan.
+E. The following additional guidelines apply to employees’ usage of county-owned mobile
+devices:
+1. Employees will not use county-owned mobile devices if regular telephone service
+is available.
+2. Employees will avoid lengthy conversations on county-owned mobile devices.  If
+an employee anticipates that a call will last more than a few minutes, the
+employee will arrange to call the person back from a regular telephone, to the
+extent possible.
+3. Employees will minimize use of county-owned mobile devices outside the home
+service area, to the extent possible.
+§ 3-37-055 Confidentiality of Systems and Information
+A. Various county, state and federal laws, rules, regulations and policies restrict access
+to and disclosure of confidential and sensitive data and information, such as
+Personally Identifiable Information (PII). Employees will not disclose or allow access to
+such sensitive and confidential information or data, except in accordance with county
+or departmental rules, practices or procedures. Employees with such access are
+responsible for the safekeeping and handling of their mobile devices to prevent
+unauthorized disclosure of financial, medical, and other personal client or employee
+information, or any confidential information contained in a system or on their personal
+mobile devices. The storing of PII (including but not limited to Personal Health
+Information (PHI)) on personal mobile devices is not allowed. Employees must
+immediately notify their manager and the IT Help Desk of any potential
+breach/unauthorized access to their mobile devices used for work purposes in
+accordance with Multnomah County Administrative Procedure PR 3-10-020 (Q).
+B. Electronic data should be transported or stored on mobile devices only as necessary
+to conduct County business. Employees are required to ensure that mobile devices
+are properly secured via password protection. This includes both personal mobile
+devices used for business purposes and county-owned mobile devices.
+§ 3-37-060 Employee Privacy Expectations
+A. Privacy expectations for use of county systems and work records on mobile devices
+used for work purposes are stated at MCPR § 3-35-045.
+B. Department Human Resources Units, Central Human Resources, and the County
+Attorney’s Office may request reports detailing employee mobile device usage for
+county-owned mobile devices. These reports include information that specifies internet
+sites employees accessed or attempted to access, how long employees spent on
+internet sites, and copies of emails or similar messages sent and received, and phone
+numbers called or from which the employee received calls.  Managers who believe they
+need access to usage reports shall contact their Department Human Resources Unit for
+approval to access such reports.
+C. Upon request, employees will provide to the County any work records on personal
+mobile devices and third party websites, including but not limited to emails, electronic
+documents, texts, chats, voice mails, and social media posts, whether or not the
+employee is compensated for its use per this rule, to the extent required by public
+records laws and other legal requirements.  The county may use this information in
+disciplinary or other legal proceedings.
+§ 3-37-065 Electronic Records Retention and Access
+Work-related electronic records existing on mobile devices used for work purposes, including
+personal mobile devices, are public records. As such, they are subject to the same laws and
+rules for public inspection and retention that apply to all other county records, including but not
+limited to the state public records laws and rules, County Executive Rules 300 and 301 and
+Multnomah County Administrative Procedure REC-1. Employees should refer to the retention
+schedules for their Department to determine what must be retained and what can be
+destroyed. Retention schedules are at http://web.multco.us/records/retention-schedules.

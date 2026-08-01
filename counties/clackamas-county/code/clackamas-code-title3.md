@@ -1,0 +1,485 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clackamas-county
+id: clackamas-code-title3
+title: 'Title3'
+doc_type: ordinance
+citation: 'Title3'
+authority_level: county_ordinance
+issuing_body: 'Clackamas County Board of Commissioners'
+source_url: https://www.clackamas.us/code/title3
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: a20ebf1ab79d3247d153b0ac73aa9ff98554051c7502577b0567e74ff26770ef
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 198.775
+    - ORS 222.040
+    - ORS 246.245
+    - ORS 255.045
+    - ORS 51.020
+  related: []
+  supersedes: []
+tags: [clackamas-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clackamas County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Title3 (Title3)
+
+## At a glance
+
+Title3 — code of Clackamas County. 11041 characters.
+
+## Full text
+
+Title 3: Elections | Clackamas County 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Translate 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Jobs 
+ Events 
+ News 
+ Contact Us 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+
+ 
+ 
+ 
+ Community 
+ 
+ 
+ Business 
+ 
+ 
+ Departments 
+ 
+ 
+ Our County 
+ 
+ 
+ I want to... 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Code 
+ Title 3: Elections 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Title 3: Elections 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 3.01 State Voters Pamphlet for Initiative and Referendum Measures 3.02 Special District Elections Security Deposit  3.03 Voter Approval of Urban Renewal  3.04 Notification of Boundary Changes to the County Clerk/Elections  3.05 Special Qualification to File for Election to and to Hold the Office of Justice of the Peace In Clackamas County   Chapter 3.01 3.01 State Voters Pamphlet for Initiative and Referendum Measures REPEALED BY ORD. 03-2017 (5/4/17) Chapter 3.02 3.02 Special District Elections Security Deposit 3.02.010 Authority ORS 198.775 provides that the County Board shall set the amount of a bond, cash deposit, or other security deposit to accompany any petition for formation, annexation, withdrawal, or dissolution of a special district to guarantee payment of the costs of the election.  [Codified by Ord. 05-2000, 7/13/00] 3.02.020 Bond or Deposit Amount A bond, cash deposit, or other security deposit, in the amount of $100 shall accompany any petition filed with the County Clerk for the formation, annexation, withdrawal, or dissolution of a special district, for each precinct in the affected district, and any territory to be included in the district, up to a maximum of $10,000. [Codified by Ord. 05-2000, 7/13/00] 3.02.030 Approval of Bond or Other Security Deposit If a bond is submitted, the Office of County Counsel must approve it. The Board of County Commissioners must approve any security deposit other than a bond or cash deposit. [Codified by Ord. 05-2000, 7/13/00] Chapter 3.03 3.03 Voter Approval of Urban Renewal 3.03.010 A county urban renewal agency shall not be activated or authorized to exercise additional powers without the approval of county electors at a general election. (BM 3-386 approved by the voters on 11/8/11) 3.03.020 Definitions As used in this Chapter: A. SUBSTANTIAL CHANGE means any change proposed to be made to an existing urban renewal plan that: 1. Expands the boundary, duration or borrowing authority of any plan; or, 2. Alters the basic purpose, engineering or financing principles of a voter-approved plan. B. URBAN RENEWAL INDEBTEDNESS (URI) means debt incurred pursuant to an urban renewal plan where repayment is pledged from ad valorem taxes assessed within the County. C. URBAN RENEWAL PLAN (PLAN) has the meaning given those terms in ORS Chapter 457 as it now exists or may hereafter be amended, or a similar plan adopted under any other provision of law. (BM 3-386 approved by the voters on 11/8/11) 3.03.030 Every new urban renewal plan, or substantial change to an existing plan, shall be referred to county electors for their approval at a primary or general election. (BM 3-386 approved by the voters on 11/8/11) 3.03.040 Whenever an election required by Chapter 3.03.020 will authorize new Urban Renewal Indebtedness, the county shall determine the information required to complete the public notice statements in subsections A-D of this section. Public Notice Statements shall be posted on the County website at least 45 days in advance of the election and mailed to County electors no more than ten days in advance of distributing ballots. A. "ATTENTION VOTER: IMPORTANT INFORMATION ABOUT [insert local measure number]." B. "If approved, this measure will authorize new Urban Renewal Indebtedness. Repayment of such debt may significantly reduce the amount of property tax revenues that would be otherwise available for public schools, police, fire, library and other public services within Clackamas County for [insert maximum duration of URI, listed in years and months]." C. "The maximum amount of new Urban Renewal Indebtedness permitted by this measure is [insert maximum new URI permitted by proposed plan or amendment]." D. "The maximum amount of interest payable for this debt is [insert maximum amount of interest payments for new URI over lifespan of debt]. Public Notice Statements do not need to be mailed to County Electors if included within the beginning of the explanatory statement of the proposed measure within the County Voter's Pamphlet. (BM 3-386 approved by the voters on 11/8/11) 3.03.050 The County shall not approve or amend a plan by any means other than by ordinance. Non-substantial changes to any plan may be approved by non-emergency ordinance of the Board of Commissioners. (BM 3-386 approved by the voters on 11/8/11) 3.03.060 Upon the retirement of all urban renewal indebtedness authorized by county urban renewal plans, the purpose for a County urban renewal agency will cease and it shall be terminated. Any continuing obligations or rights of a terminated agency shall be assumed by the County. (BM 3-386 approved by the voters on 11/8/11) 3.03.070 Miscellaneous provisions This Chapter shall become immediately effective upon passage by the electors. If any provision of this Chapter is barred from operation by superior law, the other provisions shall remain unaffected. Prior to any public hearing to consider legislation that would conflict with provisions of this Chapter or prevent them from operating, the County must provide notice of the proposed legislation and hearing date to all county electors by mail at least two weeks prior to the hearing. Any legislation passed in violation of this provision shall be void. (BM 3-386 approved by the voters on 11/8/11)   Chapter 3.04 3.04 Notification of Boundary Changes to the County Clerk/Elections 3.04.010 Purpose The purpose of this section is to clarify the application of Oregon State Law concerning changes in the boundaries of cities, special districts and other units of local governments for which the County Clerk conducts elections. (Added by Ord. 03-2017, 5/4/17) 3.04.020 Notification of Boundary Change to County Clerk If the boundary of a city, special district or a unit of local government is changed, the city governing body immediately shall send a certified copy of the ordinance, order, resolution or other action changing the boundary to the county clerk of each county in which the city is located. The order, resolution or other action shall be accompanied by a legal description of the revised boundary, a list of the affected tax lots and a map showing the boundary in the area of the change with territory added indicated by shading and territory removed shown by cross hatching. Dwellings shall be indicated when present and street addresses associated with the occupied parcels shall be provided cross indexed to the tax lot numbers of the affected tax lots. The notice shall specify the effective date of the boundary change as a specific calendar date. (Added by Ord. 03-2017, 5/4/17) 3.04.030 Time for Providing Notice The notice required above shall be provided within ten days of the adoption of the ordinance, order, resolution or other action. Cities shall specify the effect of ORS 222.040 in writing and shall document any claimed exception to its application. (Added by Ord. 03-2017, 5/4/17) 3.04.040 Exclusive Process for Notification of Boundary Changes The Notice Procedure described above shall be the exclusive procedure for notification of boundary changes for the purposes of elections. The duty to provide the notification required is not a delegable duty and may not be transferred to or vested in another governmental body. See ORS 246.245 and ORS 255.045. (Added by Ord. 03-2017, 5/4/17) Chapter 3.05 3.05 Special Qualification to File for Election to and to Hold the Office of Justice of the Peace in Clackamas County 3.05.010 Purpose The purpose of this section is to codify the election of Clackamas County to require any person who wishes to run for the office of Justice of the Peace or to hold the office to be a member in good standing of the Oregon State Bar licensed to practice law in the State of Oregon. ORS 51.020(2). It is the judgment of the County that the complexity of modern civil and criminal law makes formal legal training a mandatory qualification to serve in the office of Justice of the Peace. (Added by Ord. 03-2017, 5/4/17) 3.05.020 Additional Qualifications for the Office of Justice of the Peace A candidate for the Office of Justice of the Peace shall be a member in good standing of the Oregon State Bar at the time of filing for the office and continuously thereafter. A person not so qualified is ineligible to be a candidate for the office. A person whose qualification lapses or who is no longer a member in good standing of the Oregon State Bar is ineligible for election. (Added by Ord. 03-2017, 5/4/17) 3.05.030 Justice of the Peace to be a Member of the Oregon State Bar A person holding office as a Justice of the Peace in Clackamas County must continuously be a member of the Oregon State Bar during the term of office. Loss of membership, lapse of membership or suspension of membership shall cause the office to be forfeited and to be vacant. The filing of a complaint with the Oregon State Bar, the pendency of disciplinary action, the conduct of an investigation or the issuing of a reprimand to the incumbent by the Bar shall not forfeit the office. (Added by Ord. 03-2017, 5/4/17) 3.05.040 Other Qualifications Other qualifications for the Office of Justice of the Peace shall be as set out in the statutes governing the office. (Added by Ord. 03-2017, 5/4/17)   
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ SHORTCUTS 
+ 
+ 
+ 
+ Jobs Procurement Process, Contracts and Grants Pay Online CMap Contact the County Report a Hazard County Code Public Records Request HIPAA/Privacy Concerns Civil Rights ACA Complaint Form Accessibility Statement Title VI Compliance Plan Website Privacy Media Contacts 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ELECTED OFFICIALS 
+ 
+ 
+ 
+ Chair Craig Roberts Commissioner Diana Helm Commissioner Paul Savas Commissioner Martha Schrader Commissioner Ben West   County Assessor/Tax Collector Bronson Rueda County Clerk Catherine McMullen District Attorney John Wentworth Justice of the Peace Kathleen Rastetter Sheriff Angela Brandenburg Treasurer Brian Nava 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can’t find what you're looking for? 
+ 
+ 
+ 
+ 
+ Search Box 
+ 
+
+ 
+ enter your search here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2026 Clackamas County

@@ -1,0 +1,5205 @@
+Appendix B Existing and Future
+  Conditions Memo
+
+FILENAME: H:\PROJFILE\17944 - MULTNOMAH COUNTY COMPREHENSIVE PLAN\MEMOS\EXIST AND FUTURE CONDITIONS\EXIST
+AND FUTURE MEMO 060915.DOCX
+354 SW Upper Terrace Drive, Suite 101, Bend, Oregon 97702 PF541.312.8300 541.312.4585
+Kittelson Associates, Inc.&
+TRANSPORTATION ENGINEERING PLANNING /
+
+TECHNICAL MEMORANDUM #2
+Multnomah County Comprehensive Plan Update
+Existing and Future Transportation Conditions
+
+Date:  June 9, 2015  Project #: 17944
+To:  Joanna Valencia, Multnomah County
+From:  Susan Wright, PE, and Jenny Miner
+cc:  Matt Hastie, Angelo Planning Group
+
+Multnomah  County  is  currently  updating  their  Comprehensive  Plan,  including  the  transportation
+element  for  rural  areas.  Today,  the  Comprehensive  Plan  is  supported  by  separate  Transportation
+System Plans (TSPs) for the Rural Westside, and West of Sandy River areas (taking into account the
+West Hills, Sauvie Island, and West of Sandy River Area Plans) an d,  the transportation components of
+the East of Sandy River Area Plan and the Columbia River Gorge Scenic Area Management Plan.  The
+updated Multnomah County TSP will incorporate relevant elements from all of these plans into one
+document.
+This  memorandum  provides  an  inventory  and  assessment  of  existing  and  future  conditions  of  the
+transportation system in the uni
+ncorporated rural areas of Multnomah County. This information can
+provide a baseline for the TSP update, and was assembled using Geographic Information System (GIS)
+files,  data  provided  by  Multnomah  County,  inventory  conducted  using  Google  Earth  aerial  images,
+field  observations,  and  studies  provided  or  produced  by  Multnomah  County  and  the  Oregon
+Departm
+ent of Transportation (ODOT).
+The information contained in this memorandum is organized into a series of sections, listed below.
+STUDY AREA ................................................................................................................................................................................  2
+POPULATION AND DEMOGRAPHICS ............................................................................................................................................  2
+LAND USE AND ZONING ..............................................................................................................................................................  6
+HISTORIC CRASH ANALYSIS ........................................................................................................................................................  11
+BRIDGES .....................................................................................................................................................................................  17
+RAIL ...........................................................................................................................................................................................  18
+BICYCLE SYSTEM ........................................................................................................................................................................  19
+PUBLIC TRANSPORTATION SYSTEM ...........................................................................................................................................  20
+TRUCK FREIGHT ROUTES ...........................................................................................................................................................  20
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 2
+Kittelson & Associates, Inc.   Portland, Oregon
+AIR TRANSPORTATION SYSTEM .................................................................................................................................................  21
+FUNDING ANALYSIS ...................................................................................................................................................................  21
+FUTURE CONDITIONS .......................................................................................................................... 25
+EMPLOYMENT AND HOUSEHOLD PROJECTIONS .......................................................................................................................  25
+FUTURE TRAFFIC VOLUMES .......................................................................................................................................................  25
+FUTURE CONDITIONS SUMMARY ..............................................................................................................................................  32
+NEXT STEPS ................................................................................................................................................................................  32
+REFERENCES ..............................................................................................................................................................................  32
+MAP ATLAS ................................................................................................................................................................................  33
+The  majority  of  the  inventory  and  analysis  results  are  presented  in  figures  and  tabular  form  with
+supplemental text provided, as needed, to further explain the illustrated information. The identified
+transportation  needs  contained  herein  are  based  on  the  County  and  ODOT’s  adopted  performance
+measures.  Based  on  information  summarized  in  this  memorandum,  a  ser ies   of  policies,  projects,
+programs,  pilot  projects  and  refinement  studies  will  be  identified  to  support  the  transportation
+system over the next twenty years.
+EXISTING CONDITIONS
+The  following  section  describes  the population, demographics,  and  land  uses  within  the  rural  areas
+(herein  referred  to  as  the  “study  area”),  and  provides  an  overview  of  the  existing  inventory  and
+conditions  (if  applicable)  for  all  transportation  modes  and  major  elements  of  the  transportation
+system.
+STUDY AREA
+The  Transportation  System  Plan  (TSP)  focuses  on  the  five  rural  areas  of  the  county,  including  West
+Hills,  Sauvie  Island,  West  of  Sandy  River,  East  of  Sandy  River,  and  Columbia  River  Gorge  National
+Scenic Area. The study area for the TSP is illustrated in Figures 1A and 1B.
+The  Sauvie  Island  and  Multnomah  Channel  (SIMC)  TSP  is  being  completed  separately  and  in
+congruenc
+e with this TSP update. The SIMC area will still be included in this evaluation.
+POPULATION AND DEMOGRAPHICS
+Information about the rural area population and demographics was gathered to support the existing
+and future conditions analysis, particularly as the project team works with the community to develop
+future alternative scenarios that capture the County’s vision. This data presented is based on the best
+available information that can be obtained from US Census, given that the Census Block boundari es
+don’t  perfectly  align  with  the  study  areas  and  some  information  is  not  available.  Given  these
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 3
+Kittelson & Associates, Inc.   Portland, Oregon
+inconsistencies,  this  memo  refers  to  the  study  areas  as  West  Multnomah  County  and  Eastern
+Multnomah County in some sections. West Multnomah County consists of Census Tracts 70 and 71
+and  the  areas  of  Sauvie  Island  and  West  Hills.  East  Multnomah  County  consists  of  Census  Tracts
+104.02  and  105  and  the  areas  of  Ea st   of  Sandy  River  and  West  of  Sandy  River.  Exhibit  1  shows  the
+study area census tracts.
+Exhibit 1 Study Area Census Tracts (70, 71, 104.02, and 105)
+
+For  further  information  on  land  use  and  population,  please  see  the  “Population  Demographics,
+Zoning,  and  Development”  section  of  the  Baseline  Report  memo  prepared  for  the  Comprehensive
+Plan Update by Angelo Planning Group dated December, 2014.
+Population and Growth
+Table  1  reports  the  population  of  Multnomah  County  and  its  sub‐areas.  Multnomah  County’s
+population in 2010 was just over 735,000 whereas the 2000 Census figure was 660,446. The county
+grew by 11.3%, or about 1.08% per year, from 2000 to 2010. This growth follows a similar trend to
+that  experienced  by  the  overall  Stat e  of  Oregon,  which  grew  by  11.97%,  or  about  1.14%  per  year,
+during the same period.
+Table 1 Year 2010 Area Populations
+Area  2010 Census
+Multnomah County  735,334
+  East of Sandy River  3,926
+  West of Sandy River  10,184
+  West Hills  10,052
+  Sauvie Island  888
+Source: 2010 Census Block Group Data
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 4
+Kittelson & Associates, Inc.   Portland, Oregon
+Table 2 reports the population growth in the rural areas of the County. In comparison to the County
+as a whole, the rural areas grew at a higher rate from 2000 to 2010. While the growth in the rural
+areas do not represent a significant change in total population of the County as a whole, the rate of
+growth is rel
+atively high for a rural area in Oregon, particularly compared to other rural parts of the
+state.
+Table 2 Change in Population from 2000 to 2010 Census
+Area  2000  2010  % Change  Average Annual
+Growth
+Population
+Density***
+Multnomah County  660,486  735,334 11.3% 1.08%  2.47 People/Acre
+  West Multnomah County*  7,963  10,940 37% 3.2%  0.25 People/Acre
+  East Multnomah County**  8,668  10,061 16% 1.5%  0.11 People/Acre
+State of Oregon  3,421,399  3,831,074 11.9% 1.14% ‐ ‐
+*Includes Sauvie Island and West Hills subareas
+**Includes East of Sandy River and West of Sandy River subareas
+***Calculated as 2010 population / total acres within Census Block Groups
+Source: 2000 and 2010 Census Tract Level Data
+
+In  addition  to  growth  rates,  Table  2  also  reflects  the  2010  estimates  of  people  per  acre  within  the
+County. This information is graphically represented in Exhibit 2 and Figures 2A and 2B by Census Block
+group.
+Exhibit 2 Population Density Map
+
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 5
+Kittelson & Associates, Inc.   Portland, Oregon
+Family and Household Data
+Table 3 reports the number and type of households by area. A family household is defined by the US
+Census Bureau as “a group of two or more people related by birth, marriage, or adoption and residing
+together.”  Approximately  53%  of  households  meet  this  definition  within  Multnomah  County.  With
+the exception of Sauvie Island, which has about 57% family hou seholds, the rural areas of Multnomah
+County have higher than a 70% family household rate. The state as a whole has a family household
+rate of about 63%.
+Multnomah  County  and  the  State  of  Oregon  have  similar  median  ages  within  the  households  with
+35.7 and 38.4, respectively. The rural areas re
+port a higher median age, in the range of 40 to 45, with
+the exception of Sauvie Island that has a median age of 50.
+Table 3 Household Demographics
+  East of Sandy
+River
+West of Sandy
+River  West Hills  Sauvie Island  Multnomah
+County  State of Oregon
+Number of
+Households  1,433 (100%)  3,573 (100%)  3,938 (100%)  410 (100%)  304,540 (100%)  1,518,938 (100%)
+Family
+Households  1,063 (74.2%)  2831 (79.2%)  2,832 (71.9%)  233 (56.8%)  163,539 (53.7%)  963,467 (63.4%)
+Nonfamily
+Households  370 (25.8%)  742 (20.8%)  1,106 (28.1%)  177 (43.2%)  141,001 (46.3%)  555,471 (36.6%)
+Mean Household
+Size  2.65  2.85  2.56  2.14  2.35  2.47
+Median Age  44.8  40.1  43.9 50 35.7  38.4
+
+Economic Characteristics
+Table 4 describes selected economic characteristics of the study area. The rural areas of the county
+have  a  higher  median  household  income  than  the  county  as  a  whole.  West  County  generally  has  a
+higher  income,  lower  unemployment  rate,  and  lower  poverty  rate  than  East  County  or  Multnomah
+County as a whole, parti cularly  Tract 70, which approximates the West Hills rural plan area. Due to
+the small sample size, however, margins of error are fairly high.
+Table 4 Economic Characteristics
+  West County  East County  Multnomah County
+Tract 70  Tract 71  Tract 104.2  Tract 105  ‐‐
+Median Household
+Income
+$148,832
+(+/‐ $19,429)
+$78,894
+(+/‐$14,306)
+$76,630
+(+/‐$9,464)
+$65,938
+(+/‐$10,090)
+$51,582
+(+/‐$739)
+Unemployed  7.4%
+(+/‐2.8%)
+6.1%
++/‐4.3%)
+14.8%
+(+/‐6.5% )
+12.1%
+(+/‐6.1%)
+10.4%
+(+/‐0.4%)
+Individuals below
+poverty level in past
+12 months
+4.5%
+(+/‐3.8%)
+3.4%
+(+/‐2.8%)
+9.7%
+(+/‐2.8%)
+13.4%
+(+/‐%7.3%)
+17.1%
+(+/‐0.6%)
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 6
+Kittelson & Associates, Inc.   Portland, Oregon
+LAND USE AND ZONING
+This section describes the zoning designations, land use, parcel size, and vacancy status in each of the
+plan subareas. Figures 3A and 3B depict the zoning designations.
+As shown, the majority of the rural areas of Multnomah County are zoned for agricultural and forest
+uses. Rural residential and single family residential make up most of the rest of the lands with little
+commercial and industri
+al development in the rural areas.
+The  East  of  Sandy  River  Rural  Area  is  generally  characterized  by  natural  and  commercial  timber
+forests, much of which is within the Mt. Hood National Forest. The western‐most portion of this Rur al
+Area  contains  the  most  of  the  non‐forest  uses  in  the  area,  mainly  consisting  of  agricultural,  rural
+residential and rural service development.
+The  West  of  Sandy  River  Rural  Area’s  predominant  land  uses  in  the  plan  area  are  nurseries,  berry
+farms, and pastures, consistent with the agricultural zoning. The area is located in two ma jor drainage
+basins,  the  Sandy  River  and  the  Willamette  River  via  Johnson  Creek.  The  area  is  open  to  urban
+influence to a greater degree than the other plan areas due to a lack of physical barriers, such as the
+steeper topography of West Hills, and the limited access to Sauvie Island an d the East of Sandy River
+area.
+Pleasant Valley and Interlachen are small unincorporated areas located due west of Columbia River
+Gorge  National  Scenic  Area  and  West  of  Sandy  River  study  areas,  respectively.  The  Pleasant  Valley
+subarea is under County zoning but lies within the urban growth bounda ry and is being planned by
+Gresham  for  eventual  annexation  into  the  City.  The  majority  of  the  land  in  this  area  is  currently
+zoned for rural residential use.
+Interlachen  is  a  small  residential  community  located  between  Fairview  Lake  and  Blue  Lake  and  is
+surrounded  by  the  City  of  Fairview.  It  is  zoned  entir ely  Urban  Low  Density  Residential  and  largely
+built out.
+The Columbia River Gorge National Scenic Area is zoned primarily for forest uses.
+The West Hills Rural Area Plan is zoned for commercial forest use or exclusive farm use; lands zoned
+for rural residential use represents about a tenth of the total.
+The  Sauvie  Island  and  Multnomah  Channel  Rural  Area  is  zoned  primarily  for  agricultural  uses.  Land
+Uses on the Island are predominantly farming‐related (due to the fine soils on the island protected by
+the levees of the Sauvie Island Drainage District) as well as the wildlife refuge, various water‐re lated
+uses  on  and  along  Multnomah  Channel,  ranging  from  protected  wetlands  to  marinas,  and
+recreational uses (due to proximity to the Portland Metropolitan Area). The rural area encompasses
+approximately  15,400  acres  of  land  and  several  thousand  additional  acres  of  water.  Approximately
+11,800 of the 15,400 acres are designated in the Comprehensive Fram ework Plan as Exclusive Farm
+Use, with the remainder designated as Multiple Use Agriculture.
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 7
+Kittelson & Associates, Inc.   Portland, Oregon
+Key Destinations and Community Centers
+Figures 4A and 4B show the key destinations and community centers in the rural areas that are likely
+origins  and  destinations  for  pedestrian,  bicycle,  and  vehicle  trips.  As  shown,  many  of  the  key
+destinations and community centers in the rural areas are schools. Others which are more likely to be
+accessed  via  ve hicle   include  National  Parks  and  public  recreational  areas.  Sauvie  Island  has  public
+beaches  as  well  as  farm  lands  that  attract  visitors  with  corn  mazes,  pumpkin  patches,  and  fresh
+produce  for  sale.  East  County  has  a  number  of  key  destinations  in  National  Forest,  National  Scenic
+Area and State parks including but no t  limited to recreation areas in the Mount Hood National Forest,
+Sandy  River  Delta  Park,  Multnomah  Falls,  Mt.  Hood  National  Forest,  and  the  Columbia  River  Gorge
+Scenic Area.
+ STREET SYSTEM AND TRAFFIC ANALYSIS
+Primary  roadway  facilities,  their  characteristics,  and  existing  operational  performance  are
+summarized below for each of the study areas.
+Street System Overview
+The following sections describe the key attributes of the roadways within the study area.
+Roadway Jurisdiction
+As shown in Figures 5A and 5B, the majority of the roads in the rural areas are under the County’s or
+local  jurisdiction.  The  state  facilities  within  Multnomah  County  provide  interstate,  statewide,  and
+regional connectivity. These facilities include Interstate 84 (I‐84), Oregon Highway 30 (US 30), and a
+small section of Oregon Highway 26 (US 26). Highway 30 pro vides access to both the west and east
+sides of the county. I‐84 serves the east area of the county.
+Pavement Conditions
+Figures 6A and B illustrate the pavement condition ratings for each of the roadways in the study area.
+The  roadways  are  rated  are  based  on  a  pavement  conditions  index  from  0  and  100,  with  100
+representing  the  best  possible  condition  and  0  representing  the  worst  possible  condition.  The
+County’s goal is to maint ain  pavement conditions at 70 or above but accepts 50 and above for rural
+roadways. As shown in the figures, the majority of the roadways in the study area are rated at 50 or
+above. The areas not meeting the standard of 50 or above are primarily located in the West of Sandy
+River ar
+ea as well as the West Hills.
+Functional Classification
+Functional classification systems are used to establish a hierarchy of roadways based on their primary
+function  (e.g.,  moving  people  across  regions  or  providing  access  to  local  destinations).  These
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 8
+Kittelson & Associates, Inc.   Portland, Oregon
+classification  levels  are  identified  by  ODOT  for  state  facilities,  the  County  for  County  facilities,  and
+local agencies for their own classification levels within their community. The classification levels also
+determine  the  recommended  roadway  cross‐section  for  different  facilities.  The  functional
+classification of roadways that Multnomah County established is based on the following hiera rchy:
+Minor  Arterials  represent  the  lowest  order  arterial  facility  in  the  regional  street
+network.   They  typically  carry  less  traffic  volume  then  principal  and  major  arterials,  but
+have  a  high  degree  of  connectivity  between  communities.   Access  management  may  be
+implemented to preserve traffic capacity.  Land uses along the corridor are a mixture of
+community  and  regiona
+l  activities.   Minor  arterial  streets  provide  major  links  in  the
+regional road and bikeway networks; provide for truck mobility and transit corridors; and
+are significant links in the local pedestrian system.1
+Rural  Arterials  are  the  primary  means  of  access  into  the  County’s  large  rural  districts,  and
+often  connect  between  counties  to  accommodate  through  movements.   Rural  arterials
+connect to freeways or highways, and link rural collector and local roads to the urban area
+and  other  regions.   Rural  arterial  roads carry  greater traffic  volumes  then  rural  collect or
+roads, including commuters and other home‐based trips, natural resource trips involving
+trucks, and recreational trips involving autos, bicycles and equestrians.1
+Major  Collectors  serve  several  purposes  including  linking  neighborhoods  to  the  regional
+system  of  bicycle  and  automobile  streets,  and  basic  transit  services.   They  typically
+provide  direct  access  between  residential  and  commercial  developments,  schools  and
+parks  and  carry  higher  volumes  of  traffic  then  neighborhood  streets.   Major  collector
+streets  area also  utilized  to  access  industrial  and employm ent  areas  and  other  locations
+with large truck and over‐sized load volumes.1
+Neighborhood  Collectors  provide  access  primarily  to  residential  land  uses  and  link
+neighborhoods  to  higher  order  roads.   They  generally  have  higher  traffic  volumes  than
+local streets.1
+Local  Urban  and  Rural  provide  access  to  abutting  land  uses  on  low  traffic  volume  and  low
+speed facilities.  Their primary purpose is to serve local pedestrian, bicycle and automobile
+trips  and  limited  public  transportation  use  in  urban  areas;  and  auto  and  farm  vehicle
+circulation with local pedestrian, bicycle and equestrian use in ru ral  areas.1
+Figures 7A and 7B depict the functional classifications of the roadways in the five rural study areas. As
+shown, the areas are mostly served by collectors and local roadways. Key arterials and state facilities
+that  connect  the  rural  areas  to  the  regional  system  include  I‐84,  Highway  30,  Cornelius  Pass  Road,
+Orient Drive, Stark Street, Corbett Hill Road, and Tr
+outdale Road.
+
+1  Multnomah  County  Functional  Classification  (Policy  34).  https://multco.us/transportation‐planning/multnomah‐
+county‐functional‐classification‐policy‐34. Accessed May 2015.
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 9
+Kittelson & Associates, Inc.   Portland, Oregon
+Expectations  about  speed  limits  generally  correspond  with  the  functional  classification  of  the
+roadway with higher classification (e.g. arterials) having greater speeds and lower classifications (e.g.
+locals) having lesser speeds. Figures 8A and 8B show the speed limits on roadways within the study
+area.
+Roadway Cross‐Section Standards
+Expectations  about  roadway  cross‐sections  are  provided  for  each  of  the  County’s  functional
+classifications.  These  cross‐sections  identify  the  required  width  for  pedestrian  facilities,  bicycle
+facilities,  landscaping/drainage,  and  number  and  width  of  vehicular  travel  lanes.  The  cross‐section
+standards  typically  inform  new  roadways  or  roadway  modification  projects.  Older  roadways  are
+typically upg raded  to current standards when modified or reconstructed.
+The  County’s current  Design  and  Construction  Manual2  identifies  rural  roadway  design  standards.
+These standards are summarized below in Table 5.
+As shown in the table, rural roadways in the County are not currently required to have bike lanes or
+marked  bicycle  facilities.  The  roadway  design  standards  indicate  that  bicyclists  shall  be
+accommodated on the shoulder, when appropriate, based on the facility’s t raffic volumes. The Design
+and  Construction  Manual indicates  that  shoulders  on  collectors  and  arterials  should  be  paved for  a
+minimum  of  five  feet.  Rural  roadways  are  also  not  required  to  have  separate  pedestrian  facilities.
+Instead, rural roadway shoulders are typically used by pedestrians, bicycles, oversized vehicles, and
+for eme
+rgency pull‐off purposes.
+Table 5 Multnomah County Standards for Typical Rural Sections
+Classification
+Right‐of‐
+Way
+Width (ft)
+Paved
+Width (ft)
+Number of
+Lanes
+Shoulder Width
+(ft)
+Travel
+Lane
+Width (ft)
+Arterial   60‐90   20‐55  2‐4  6‐8
+(min. 5 ft. paved)  10‐14
+Collector  50‐80  20‐24  2  5‐8
+(5 ft. paved)  10‐12
+Local  50‐60  20‐24 2 5‐6 10‐12
+  Paved Width refers to the travel way and does not include shoulders
+Figures  9A  and  9B  show the  current width  of  roadways  in  the study area  including both  travel  way
+and  paved  shoulders.  As  shown,  most  roads  are  28  feet  or  less  with  many  23  feet  or  less.  This
+indicates that many of the rural roadways have narrow or no paved shoulders.
+
+2 Multnomah County Design and Construction Manual. https://multco.us/file/16499/download.
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 10
+Kittelson & Associates, Inc.   Portland, Oregon
+Rural Intersections
+Figures 10A and 10B show the location of the all of the intersections within the study areas. Most of
+these  locations  are  stop‐controlled  with  the  exception  of  two  locations  on  the  Westside.  These
+include: Highway 30 and Sauvie Island Road, and Highway 30 and Cornelius Pass Road. Intersection
+operations and safety analyses will be conducted at key int ersections serving the rural areas as part of
+the forthcoming Alternatives Analysis Memo.
+Traffic Volumes
+Average  annual  daily  traffic  on  roadway  segments  throughout  the  study  area  are  shown  in  Figures
+11A  and  11B.  As  shown,  the  majority  of  the  roadways  carry  less  than  1,000  vehicles  per  day  on
+average.  As  expected,  the  arterial  roadways,  such  as  Cornelius  Pass  Road,  SE  Foster  Road  and
+Troutdale Road carry high er  volumes of traffic.
+From the Sauvie Island and Multnomah Channel TSP update, average daily traffic volumes on most of
+the  roadways  throughout  Sauvie  Island  are  less  than  3,000  vehicles  per  day  serving  residents  and
+daily  business  operations.  The  popularity  of  the  beaches,  hunting  and  fishing  areas,  recreational
+cycling opportunities, seasonal festivals, and agri‐tourism activities le ad to significant fluctuations in
+average  daily  traffic  volumes  during  the  peak  seasons,  summer  and  fall.  During  these  times,  the
+Sauvie  Island  Road  can  have  as  many  as  17,000  vehicles  per  day.  The  peak  traffic  conditions  are  a
+result of both seasonal all‐day events (such as acc ess to public beaches and pumpkin patches) as well
+as limited duration events (such as concerts and farm‐to‐table dinners).
+ODOT  records  annual  average  daily  traffic  (AADT)  volumes  on  all  state  highways.  depicts  the
+historical  AADTs,  as  well  as  trendlines,  for  the  state  facilities  in  the  study  area.  Tabl e   7  provides  a
+summary  of  historical  AADTs  for  the  state  facilities  in  the  study  area.  As  shown  in  Exhibit  3,  traffic
+volumes generally followed the overall state trends related to decreases during the recession and an
+increase since 2011. Volumes on the Lower Columbia River (US 30) have gone down since 2006 and is
+refl
+ected  in  the  trendline.  Overall  growth  between  2003  and  2013  has  averaged  to  less  than  one
+percent  per  year  on  US  26  and  US  30  in  East  County.  Volumes  on  US  30  (Lower  Columbia  River
+Highway) in West County are still at levels lower than recorded in 2007. Ap pendix 3 provides a table
+with more details on the historical AADT.
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 11
+Kittelson & Associates, Inc.   Portland, Oregon
+
+LCR – Lower Columbia River (US 30); No counts were recorded on LCR for 2003, 2004, and 2005
+Exhibit 3 Historical AADT on State Highways in Rural Multnomah County
+HISTORIC CRASH ANALYSIS
+Crash data from the latest five years (January 1, 2009 through December 31, 2013) was obtained from
+ODOT for all State and County roadways within the study areas.
+County Crash Patterns
+A total of 1,403 crashes were reported in in the study areas between 2009 and 2013. Of the 1,403
+crashes, 401 were reported on I‐84. Table 6 summarizes the reported crashes by severity. Half of the
+reported crashes involved an injury, and 24 crashes involved a fatality. Of the fatal crashes, 14 we re
+reported  as  a  fixed  object  crash.  The   second  most  common  crash  type  reported  for  fatalities  was
+head‐on collisions. One fatality was the result of a collision between a pedestrian and motor vehicle.
+This crash occurred under dark light and wet road conditions. The report states the pedestrian was in
+the roa
+dway illegally and wearing non‐visible clothing. The majority of the fatal crashes occurred in
+clear weather, on dry roads, and in the daylight. Excessive speed was reported in 10 of the 24 fatal
+crashes.
+Figures  12A  and  12B  provide  the  location  of  each  of  the  recorded  crashes  in  the  st udy  areas.  As
+shown, many of the recorded crashes occurred along I‐84 and US 30, as well as key arterials such as
+Cornelius Pass Road, Skyline Boulevard, Germantown Road, and Corbett Hill Road.
+15000
+17000
+19000
+21000
+23000
+25000
+27000
+29000
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+AADT
+Year
+Historical AADT
+US 30 ‐ MP 18.12
+US 30 ‐ MP 22.40
+US 30 ‐ MP 25.19
+US 30 ‐ MP 28.16
+US 30 ‐ MP 31.89
+US 30 ‐ MP 35.73
+US 26 ‐ MP 14.80
+US 26 ‐ MP 18.30
+LCR ‐ MP 10.75
+LCR ‐ MP 10.95
+LCR ‐ MP 13.12
+LCR ‐ MP 17.34
+US 30 Trendline
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 12
+Kittelson & Associates, Inc.   Portland, Oregon
+Table 6 Reported Crashes by Severity in Multnomah County Rural Areas (2009 – 2013)
+
+Crash Severity
+Total Fatal  Injury  Property
+Damage Only
+Number of
+Reported
+Crashes
+24  511  467  1,002
+Percentage of
+Total Crashes  2%  51%  47%  100%
+Seasonal Trends
+To understand any possible weather and/or seasonal trends, Exhibit 4 shows the number of crashes
+reported by month over the five year period.
+
+Exhibit 4 Reported Crashes by Month (2009‐2013)
+As  shown  in  Exhibit  4,  the  highest  crash  frequency  occurred  during  late  fall  winter  months,  from
+October  through  January.  Winter  months  in  Multnomah  County  can  include  inclement  weather
+conditions  producing  wet,  icy,  and/or  snowy  conditions.  Further  review  of  crashes  in  October,
+November,  December,  and  January  (382  crashes)  indicate  that  60%  (228  crashes)  occurred  on
+roadway  surfaces  that  were  we
+t,  icy,  or  snow‐covered.  Additionally,  55%  (210  crashes)  occurred  in
+dark, dawn, or dusk lighting conditions.
+97
+64
+70
+76
+89
+67
+87
+79
+88
+100
+79
+106
+0
+20
+40
+60
+80
+120Number of Reported Crashes
+Month
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 13
+Kittelson & Associates, Inc.   Portland, Oregon
+Crash Type Analysis
+Over the study period, 54% of crashes (537 crashes) were single vehicle crashes including fixed object,
+overturn, and non‐collision crashes. Speed was a contributing factor in one‐third (327 crashes) of all
+crashes. Over 40% (409 crashes) occurred on roadway surfaces that were wet, icy, or snow‐covered.
+Forty‐two percent (417 crashes) occurred in dark , dawn, or dusk lighting conditions.
+Four pedestrian crashes were reported in the study period with one resulting in a fatality. The fatality
+occurred in dark, rainy conditions. The report states the pedestrian was in the roadway illegally and
+wearing non‐visible clothing. The pedestrian crashes occurred at the following locations:
+ US 30 – 2,00
+0 feet south of Watson Road
+ Lusted Rd – 3,300 feet from Cottrell Road
+ Hurlburt Rd – 260 feet east of Kimbley Rd (west access)
+ Haines Road and Thompson Mill Road
+Eleven bicycle crashes were reported in the study period all resulting in non‐fatal injuri es. All but one
+crash  occurred  under  clear  weather  conditions,  dry  road  surface,  and  in  the  daylight.  The  majority
+(seven)  of  the  crashes  were  attributed  to  not  yielding  to  the  right‐of‐way.  The  other  causes  were
+following too closely, non‐motorist illegally in the roadway, an d other improper driving. The bicycle
+crashes occurred at the following locations:
+ Skyline Boulevard and Brooks Road
+ Laidlaw Road and Thompson Road – two crashes occurred here
+ HCRH and Crown Point Highway – two crashes occurred here
+ Foster Road and Richey Road
+ Lusted Road 2,000 ft north of Dodge Park Boulevard
+ Lusted Road at Sam Barlo
+w High School
+ HCRH –  400 feet west of Lucas Road
+ Dodge Park Boulevard and Short Road
+ HCRH and Evans Road
+Intersection and Segment Crash Analysis
+In addition to the countywide data, ten locations, four intersections and six segments within the study
+areas, were analyzed and compared to statewide averages for similar facilities, when possible.
+Intersection Crash Rates
+Reported  crashes  at  four  key  intersections  are  summarized  in  Table  7.  Intersection  exposure  was
+measured in terms of total entering vehicles (TEV), derived from the link volumes data. To provide a
+basis  of  comparison,  ODOT  identifies  90th  percentile  crash  rates  for  similar  facilities  in  the  Analysis
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 14
+Kittelson & Associates, Inc.   Portland, Oregon
+Procedures Manual, Exhibit 4‐1 (Reference 1). As shown, all of the study intersections reported higher
+crash rates than ODOT’s 90th percentile crash rates for the respective intersection type.
+Table 7 Reported Crashes at Study Intersections
+Intersection
+ID and Name
+ # of
+Crashes
+TEV (in
+millions)
+Crash
+Rate
+90
+th
+
+Percentile
+Crash Rates
+Crash Type  Severity
+Angle
+Rear‐End
+Turning
+Ped/Bike
+Fixed‐Object
+Other
+PDO
+Injury
+Fatality
+A ‐ Reeder
+Road/Sauvie
+Island Road
+6  4.95  1.21  0.475  0  0  2  0  4  0  3  2  1
+B ‐ Foster
+Road/172
+nd
+
+Avenue
+25  17.82  1.40  0.475  0  14  8  0  2  1  6  19  0
+C ‐ Foster
+Road/Richey
+Road
+10  17.82  0.56  0.475  1  2  1  0  4  2  5  5  0
+D ‐ Orient
+Drive/282
+nd
+
+Avenue
+17  13.78  1.23  0.579  3  6  6  0  2  0  9  8  0
+1
+TEV = Total entering vehicles
+2
+PDO = Property damage only
+3
+Crash Rate = Crashes per million entering vehicles
+One fatality occurred at the study intersections above. It was a single‐vehicle, fixed‐object crash that
+occurred at the Reeder Road/Sauvie Island Road intersection. It occurred in the rain, with wet road
+surface, and in the dark. Speeds too fast for conditions was a contributing factor.
+Segment Crash Rates
+Reported  crashes  along  study  roadway  segments  are  summarized  in  Table  8.  Exposure  on  the
+segments  was  measured  based  on  average  daily  traffic  (ADT)  volumes  from  available  link  volume
+data.  ODOT  publishes  statewide  average  roadway  segment  crash  rates  for  the  past  five  years  for
+urban  and  rural  areas,  by  functional  classification.  The  stat ewide  average  roadway  segment  crash
+rates for rural minor collectors are provided in Table 8 for comparison to calculated crash rates for
+highways in the study areas. As shown, all of the study segments reported higher crash rate than the
+state average crash rates for the respective functional classification.
+
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 15
+Kittelson & Associates, Inc.   Portland, Oregon
+Table 8 Reported Crashes at Study Roadway Segments
+ID  Segment Name
+Segment
+Boundaries
+Segment
+Length
+(miles)
+Number
+of
+Crashes  ADT
+Crash
+Rate
+(2009 –
+2013
+average)
+State
+Average
+Crash Type  Severity
+Fixed‐Object
+Other
+PDO
+Injury
+Fatality
+E  Germantown
+Road
+Between
+Skyline Road
+and Old
+Germantown
+Road
+2.0  25  4800  2.85  1.30  14  11  12  11  2
+F  Skyline
+Boulevard
+From ½ miles
+north of Rock
+Creek Road to
+¾ miles south
+of Rock Creek
+Road
+1.25  8  1340  3.27  1.30  6  2  1  7  0
+G  Corbett Hill
+Road
+Between I‐84
+and Historic
+Columbia
+River Highway
+1.4  29  2520  6.32  0.71  6  23  12  17  0
+H  Lusted Road
+¼ of a mile
+east starting
+1/3 of a mile
+east of
+Cottrell Road
+0.25  7  650  5.90  1.30  4  3  3  3  1
+I  Hurlburt Road
+From
+Springdale
+School to
+Kimbley Road
+(East)
+1.5  11  1490  4.05  1.30  5  6  4  7  0
+J  Stark Street
+Between 36
+th
+
+Street and
+Historic
+Columbia
+River Highway
+1.3  21  5410  2.13  0.71  12  9  8  11  2
+
+Findings from the study intersection and segment crash analysis indicate the following:
+ Corbett Hill Road, which is an arterial connecting to I‐84, has the highest crash frequency
+among the study segments.
+ The intersection of Reeder Road and Sauvie Island Road has the highest crash frequency
+among the study intersect ion.
+ Over  46%  of  reported  crashes  along  the  studied  intersections  and  segments  areas
+occurred on a wet, icy, or snowy roadway.
+ Over a third (52 crashes) of the crashes recorded at the study intersections and segments
+indicated speeding or speed too fast for conditions as a contributing cause.
+ Of the six fatal crashes on the st
+udy segments, five were fixed object crashes with four of
+attributing  speed  too  fast  for  conditions  or  speeding  as  a  contributing  factor.  The  other
+fatal crash involved a pedestrian who was in the roadway illegally.
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 16
+Kittelson & Associates, Inc.   Portland, Oregon
+ Four  pedestrian  and  bicycle  crashes  were  reported  at  the  study  intersections  and
+segments throughout the five year analysis period, one of which was fatal and described
+above.  Three  of  the  four  crashes  occurred  with  clear  weather  conditions,  on  dry
+roadways, in the daylight. The two reported causes were “did not yi eld  right‐of‐way” and
+“non‐motorist illegally in roadway.”
+ Among  the  injury  crashes,  the  majority  were  single‐vehicle  crashes.  Speed  was  a
+contributing factor in approximately half of the reported injury crashes. Over half of the
+injury crashes occurred with some sort of precipitation on the roadway.
+Potential Countermeasures
+Given  that  many  of  the  recorded  crashes  are  single  vehicle,  low‐cost  systemic  treatments  such  as
+shoulder  widening  and  installation  of  centerline  and  shoulder  rumble  strips  may  be  effective  in
+helping  to  reduce  the  severity  and  frequency  of  crashes  on  rural  roadways  in  the  study  area.
+Treatments addressing speed as well as informing drivers of in clement roadway conditions may also
+be effective measures.  A summary of potential countermeasures is provided below.
+Shoulder Widening
+Wider  paved  shoulders  could  provide  drivers  more  opportunity  to  recover  before  departing  the
+roadway and/or to slow their vehicles to a controlled stop, thereby reducing single vehicle crashes.
+Shoulder Rumble Strips
+Installing  shoulder  rumble  strips  on  both  sides  of  the  roadway  has  the  potential  to  reduce  vehicles
+inadvertently “running off the road.” Although shoulder rumble strips for rural two‐lane roads are not
+currently included in the Highway Safety Manual (HSM) (Reference 2), NCHRP Report 641 Guidance
+for the Design and Application of Sh oulder  and Centerline Rumble Strips evaluated their effectiveness
+in a rural two‐lane road setting (Reference 3). NCHRP Report 641 indicates shoulder rumble strips on
+rural  two‐lane  roads  can  reduce  run  off  the  road  crashes  by  15  percent.  The  report  also  indicates
+shoulder rumble strips on rural two‐lane ro ads  can reduce fatal and injury run off the road crashes by
+29 percent.
+NCHRP  Report  641  indicates  shoulder  rumble  strips  are  more  effective  when  placed  close  to  the
+edgeline  than  when  they  are  placed  further  from  the  edgeline.  The  report  also  stated  shoulder
+rumble strips appear to have a positive safety ben efit in low‐light conditions.
+Centerline Rumble Strips
+Research has shown centerline rumble strips can help reduce rural roadway crashes. NCHRP Report
+641 indicates the presence of centerline rumble strips can result in a nine percent reduction in total
+crashes  and  12  percent  reduction  in  fatal/injury  crashes.  The  largest  crash  reduction  for  centerline
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 17
+Kittelson & Associates, Inc.   Portland, Oregon
+rumble  strips  is  realized  for  targeted  crashes  which  are  defined  as  head‐on  and  opposite‐direction
+sideswipe crashes. On low volume roads, crashes involving a vehicle crossing the centerline end up
+recorded as single‐vehicle run off the road crash. Research shows the combination of centerline and
+shoulder  rumble  strips  could  potentially  reduce  the  total  nu mber  of  crashes  along  a  corridor;
+including fatal and injury crashes.
+Speed Treatments
+Speed Feedback Signs
+Electronic signs can measure and dynamically display the speed of approaching vehicles. Certain signs
+may  also  be  accompanied  by  a  “SLOW  DOWN”  or  similar  message.  Average  speed  reductions  of
+approximately 6 miles per hour have been observed with installation of the feedback signs.
+Optical Speed Bars
+Transverse markings placed in and across travel lanes with the intent of increasing the optical flow of
+information  and  creating  a  sense  of  increasing  speed  could  be  installed  leading  up  to  horizontal
+curves and intersections. Studies have shown speed reductions of 1 to 9.5 mph.
+High Friction Surface Treatment
+To  address  weather‐related  crashes,  the  County  and  ODOT  could  consider  installing  high  friction
+surface  treatment  (HFST)  to  increase  traction  for  vehicles.  HFST  maintains  pavement  friction  by
+applying  durable  aggregates  using  a  polymer  binder  to  a  specific  area.  The  Federal  Highway
+Administration (FHWA) has tested HFST in a number of types of applications. HFST may be applied on
+areas  where  high  friction  or  an
+ti‐skidding  properties  are  particularly  desired.  This  could  include
+segments having horizontal curves or pavement surfaces susceptible to icing like bridges.
+BRIDGES
+Within the study areas, the County owns 26 bridges and associated supporting structures. With the
+exception of the Willamette River bridges, the majority of the County’s bridges are in the rural areas.
+The locations of the County bridges are shown Figures 13A and 13B as well as Table 11. The table als o
+provides  information  about  the  structural  sufficiency  rating  for  each  bridge.  ODOT  maintains  an
+inventory  of  bridge  conditions  within  Multnomah  County.  State,  County,  and  City  owned  facilities
+over  20‐feet  in  length  are  assigned  a  sufficiency  rating  based  on  inspections  conducted  at  regular
+intervals, usually every two years. The sufficiency rating is a measure be tween 0 and 100 calculated
+by the Federal Highway Administration (FHWA), based  on factors such as condition, materials, load
+capacity, and geometry (i.e., dimensions). FHWA uses the rating as a tool to prioritize the allocation of
+funds for bridge repairs. In general, bridges with a sufficiency rating of less than 50 are given priorit y.
+The sufficiency rating is used to identify deficiencies, which may include structural issues or functional
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 18
+Kittelson & Associates, Inc.   Portland, Oregon
+issues.  For  example,  older  bridges  may  be  narrow  and  not  designed  to  the  same  width  or  height
+clearance  of  today’s  standards.  Therefore,  a  sufficiency  rating  does  not  necessarily  indicate  a
+structural  issue.  Structural  sufficiency  rating  data  was  limited  for  the  study  areas;  information  was
+provided for four of the 26 bridges. Th e  Latourell Falls Road Bridge is currently considered structurally
+deficient.
+Table 9 Multnomah County Bridges
+Map ID  County Bridge ID  Name  Sufficiency Rating  Sufficiency
+1  511  Burnside Bridge  N/A  N/A
+2  2757  Hawthorne Bridge  N/A  N/A
+3  2758  Morrison Bridge  N/A  N/A
+4  4522  Beaver Creek Bridge  N/A  N/A
+5  6757  Broadway Bridge  N/A  N/A
+6  6879  Sellwood Bridge  N/A  N/A
+7  9321  223rd/Marine Drive Overpass  N/A  N/A
+8  11112  Stark Street Bridge  N/A  N/A
+9  11113  Stark Street Viaduct  N/A  N/A
+10  17211  207th Ave over UPRR  N/A  N/A
+11  17356  238th Ave over UPRR  N/A  N/A
+12  18206  207th over Fairview Creek  N/A  N/A
+13  20136  Sauvie Island Bridge  N/A  N/A
+14  20722  282nd over Johnson Creek  N/A  N/A
+15  25T05  Halsey Street Box Culvert  N/A  N/A
+16  25T08  252nd Avenue Bridge  N/A  N/A
+17  25T16  Jenne Road/174th Av  Bridge  N/A  N/A
+18  51B002  Highland Drive over Johnson Creek  N/A  N/A
+19  51C09  Littlepage Rd Box Culvert  N/A  N/A
+20  51C10  Latourell Falls Road Bridge  32.9  Structurally Deficient
+21  51C12  Smith Road Bridge  91  Not Deficient
+22  51C13  Gordon Creek Road Viaduct  59.7  Not Deficient
+23  51C14  Gordon Creek Bridge  57  Not Deficient
+24  51C15  Circle Avenue Bridge #1  N/A  N/A
+25  51C34  Circle Avenue Bridge #2  N/A  N/A
+26  6967A  257th over UPRR  N/A  N/A
+RAIL
+Figures  14A  and  14B  depict  the  railroads  traversing  Multnomah  County  as  well  as  the  locations  of
+public  and  private  railroad  crossings  in  the  rural  areas.  The  Portland  and  Western  railroad  has  two
+routes through the west side of the County, one going up the West Hills and the other along Highway
+30.  Union  Pac
+ific  has  a  route  on  the  east  side  of  the  County  that  follows  I‐84.  The  majority  of  the
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 19
+Kittelson & Associates, Inc.   Portland, Oregon
+railroad  crossings  throughout  the  rural  areas  are  private  crossings  (crossings  of  private  roads,
+driveways, and accesses). There are two public County owned crossings in the Multnomah Channel
+area; one at‐grace crossing located on Lower Rocky Point Road on the east side of Highway 30 and
+one grade‐separated crossing on NW McNamee Road.
+BICYCLE SYSTEM
+Figures 15A and 15B depict the bicycle system in the study area. As shown, only three facilities have
+on‐street bike facilities, including Highway 30 (ODOT facility) in West County, and Highway 26 (ODOT
+facility) and Stark Street in East County. Figures 15A and 15B identify three design treatments used to
+accommodate bicycle travel on ro
+adways and four design treatments used to accommodate bicycle
+travel that is separated from the roadway. These design treatments are described below.
+Bike  Lane  —   Some  roadways  dedicate  a  portion  of  the  roadway  for  preferential  use  by
+bicyclists.  Bike  lanes  are  appropriate  on  urban  arterials  and  major  collec tors  where  motor
+vehicle  speeds  are  significantly  higher  than  bicycle  speeds.  Bike  lanes  on  local  streets  are
+appropriate where bicycle volumes are high, vehicle speeds are higher than 25 miles per hour,
+and/or poor sight distance exists. Bike lanes must always be well‐marked to call attention to
+their preferential use by bicyclists.
+Shoulder Bik
+eways – In rural areas, paved shoulders that are a minimum of 4 feet wide, are
+commonly considered shoulder bikeways. These facilities are not shown on the map as paved
+shoulder  width  data  is  not  currently  available.  However,  Figures  9A  and  9B  show  paved
+widths. Two‐lane roadwa ys with a paved width of 28 – 31 may have 4 foot paved shoulders.
+Two‐lane  roadways  with  a  paved  of  32  feet  or  greater  are  likely  to  include  4  foot  paved
+shoulders  on  each  side  of  the  roadway.  As  shown  in  Figures  9A  and  9B,  very  few  rural
+facilities ha
+ve a 28 foot or greater paved width.
+Bicycle Boulevard – The bicycle boulevard is a refinement of the shared roadway treatment.
+On  bicycle  boulevards,  the  typical  operation  of  a  local  street  is  modified  to  function  as  a
+through street for bicyclist while maintaining local access for motor vehicles. Traffic calming
+devic
+es reduce motor vehicle speeds and through trips and traffic controls limit the potential
+for conflicts between bicyclists and motorists.
+Low  Traffic  Through  Street  (Shared  Roadway)  —   On  a  shared  roadway,  bicyclists  and
+motorists  share  the  same  travel  lanes.  A  motorist  will  usually  have  to  cross  over  into  the
+adjacent  travel  lane  to  pass  a  bicyclist.  Shared  roadways  ar
+e  common  on  neighborhood
+streets and on low volume rural roads and highways and may, or may not, include “sharrows”
+(pavement  marking  that  indicate  the  shared  use  of  the  roadway).  Allowing  bicycle  traffic  to
+mix with automobile traffic is acceptable where the average daily traffic (ADT) on a roadway is
+less than 3,000 vehicles per day. Generally, most collectors in the rural parts of Multnomah
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 20
+Kittelson & Associates, Inc.   Portland, Oregon
+County carry less than 3,000 ADT, but most arterials, and some collectors within UGBs, carry
+more than 3,000 ADT.
+Regional, Community, and Local Multi‐Use Trails —  Multi‐use trails are separated from the
+roadway  by  an  open  space  or  barrier.  Multi‐use  trails  are  typically  used  by  pedestrians  and
+bicyclists  as  two‐way  faci lities.  Multi‐use  trails  are  appropriate  in  corridors  with  high  traffic
+volumes  not  well  served  by  the  street  system.  Such  paths  can  also  be  used  to  create
+pedestrian and bicycle short cuts and can serve as elements of a community recreational trail
+system. They can be used for regional tr avel as well as within a community and locally.
+Despite  the  lack  of  bike  lanes  and  shoulder  bikeways,  many  of  the  County’s rural  roadways  are
+popular cycling routes.
+PUBLIC TRANSPORTATION SYSTEM
+Three  transit  agencies  serve  Multnomah  County’s  rural  areas,  including  TriMet,  Columbia  County
+Rider, and Sandy Area Metro. The highlights of this service include:
+ TriMet primarily serves Portland Metro urban areas but has transit stops located near the
+perimeter  of  several  of  the  County’s rural  areas  including  the  West  Hills,  Sauvie  Island,
+Troutdal
+e and Gresham.
+ TriMet  has  a  Park‐and‐Ride  located  on  Sauvie  Island  and  several  in  Gresham  that  could
+serve residents of East County.
+ Columbia  County  Rider  has  a  route  along  Highway  30  but  it  does  not  currently  stop  on
+Sauvie Island but may in the future.
+ Sandy Area Metro has a route along Highway 26 in the We st of Sandy River area.
+Figures 16A and 16B show the transit routes, stops, centers, and park n’ ride locations in and near the
+rural areas. As shown in Figures 16A and 16B, the County’s rural areas are not served by fixed ro ute
+transit; however, fixed route transit and park‐and‐ride facilities are provided at the urban fringes to
+help provide access to commuters from rural areas.
+TRUCK FREIGHT ROUTES
+Figures 17A and 17B show the freight routes in the study areas. ODOT has two freight routes through
+the rural areas: Highway 30 in West County and on Interstate 84 in East County. Multnomah County
+has a number of freight routes extending into the rural areas from the ODOT freight routes.
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 21
+Kittelson & Associates, Inc.   Portland, Oregon
+AIR TRANSPORTATION SYSTEM
+The  Sandy  River  Airport  is  the  only  public  airport  located  in  the  study  areas.  In  addition,  Lehman
+Airport  is  a  private  airport  located  three  miles  southeast  of  Corbett.  Portland  International  Airport
+serves most air passenger and freight transportation needs for Multnomah County.
+FUNDING ANALYSIS
+This  section  summarizes  the  historical  transportation  funding  sources  for  Multnomah  County.   The
+information summarized below will be used to assist in identifying potential funding gaps associated
+with future county projects and programs.
+Historically,  transportation  funds  have  been  collected  through  local  sources,  private  contributions,
+state government, federal government, and non‐jurisdiction work which incl udes  non‐road and street
+work  and  work  for  other  jurisdictions.  Local  sources  include,  but  are  not  limited  to,  fuel  taxes  and
+local  governments  such  as  cities.  Motor  vehicle  registration  fees  were  introduced  and  collected
+starting in the year 2011 and are a part of the funds from local sources. Federal stimulus funds (ARRA)
+dedicat
+ed  to  transportation  projects  represent  a  new  federal  funding  source  for  2010.  The
+transportation program includes streets, sidewalks, bike paths, railroad crossings, and transit.
+Exhibit 5 reports the total transportation funding for Multnomah County for the year 2005 through
+2014.  Table  12  details  the  County’s  transportation  fundi ng   by  source.  As  shown,  2013  and  2014
+received the most funding over the last decade with over double the funding of prior years. In 2013,
+funding from local sources spiked due to sales of bonds totaling $128,000,000. Funds from fuel tax
+have  remained  fairly  consistent  over  the  last  decade  contributing  between  $6,500,000  and
+$7,400,000  each  ye
+ar.  Like  fuel  tax,  state  funds  have  remained  within  a  relatively  narrow  range,
+between $29,000,000 and $39,000,000, with the exception of 2005 which saw a contribution of about
+$55,600,000. State funding is the biggest funding source throughout the past ten years, excluding the
+2013 sale of bonds as pr eviously mentioned.
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 22
+Kittelson & Associates, Inc.   Portland, Oregon
+
+Exhibit 5 Multnomah County Funding for Transportation (2005‐2014)
+
+Table 10 Multnomah County Funding for Transportation Years 2005‐2014
+Year
+Source
+Total
+Fuel Tax  Local Sources  Private
+Contributions  State Funding  Federal Funding
+Non‐
+Jurisdictional
+Work
+2005  $6,744,233  $2,037,616  $0  $55,586,395  $1,869,318  $837,315  $67,074,877
+2006  $7,114,721  $2,337,147  $213,243  $31,040,765  $1,417,995  $943,352  $43,067,223
+2007  $7,110,272  $1,567,375  $130,880  $32,385,736  $1,105,605  $2,963,682  $45,263,550
+2008  $7,356,083  $1,339,539  $0  $29,298,036  $3,418,294  $2,681,591  $44,093,543
+2009  $6,878,197  $2,569,042  $0  $30,370,214  $2,884,584  $2,179,068  $44,881,105
+2010  $6,982,150  $1,311,827  $0  $29,004,662  $4,363,057  $2,121,595  $43,783,291
+2011  $7,052,045  $17,519,052  $0  $33,561,224  $9,883,713  $2,856,357  $70,872,391
+2012  $6,811,257  $26,294,096  $0  $36,227,457  $12,990,232  $2,222,274  $84,545,316
+2013  $6,573,115  $188,254,386  $0  $38,972,767  $2,399,555  $1,992,451  $238,192,274
+2014  $6,627,984  $61,920,847  $0  $38,527,230  $26,201,381  $2,059,726  $135,337,168
+
+Exhibit  6  reports  the  total  expenditures  of  Multnomah  County  for  transportation  in  the  years  2005
+through 2014. Table 11 summarizes the County’s transportation expenditures by source. Years 2013
+and 2014 had the most spending with over double what the majority of the other years spent. Those
+years also saw additional local fundi ng  from bonds as discussed above. Spending on Capital Projects
+$0.00
+$50.00
+$100.00
+$150.00
+$200.00
+$250.00
+$300.00
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+Funding in Millions
+Year
+Multnomah County Transportation Funding (2005‐2014)
+Total Funds
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 23
+Kittelson & Associates, Inc.   Portland, Oregon
+and  Payments  to  other  Governments/Jurisdictions were  the two largest  expenditures  over  the  past
+decade. Payments to other governments and jurisdictions included payments to counties, cities, other
+local agencies, and state and state highway projects.
+Spending  on  capital  projects  increased  significantly  starting  in  2012.  The  majority  of  the  spike  in
+spending  went  to  system  pres ervation.  The  year  2012  increase  was  almost  evenly  split  between
+project  engineering  and  system  preservation,  each  with  approximately  $21  million,  but  2013  and
+2014 spent about $56 million and $73 million, respectively, on system preservation alone. Prior to the
+bond  funds,  average  annual  spending  on  capital  projects  was  approximately  $13  million  includi ng
+both engineering and preservation projects.
+
+Exhibit 6 Multnomah County Expenditures for Transportation (2005‐2014)
+
+$0.00
+$20.00
+$40.00
+$60.00
+$80.00
+$100.00
+$120.00
+$140.00
+$160.00
+$180.00
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+Expenditures in Millions
+Year
+Multnomah County Transportation Expenditures (2005‐2014)
+Total Expenditures
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 24
+Kittelson & Associates, Inc.   Portland, Oregon
+Table 11 Multnomah County Expenditures for Transportation Years 2005‐2014
+Year
+Source
+Total Capital
+Projects
+Operations &
+Maintenance
+Administration
+& General
+Engineering
+Match
+Payments
+for Local
+Agency
+Projects
+Debt Service
+on Local
+Obligations
+Payments to
+Other
+Governments
+/Jurisdictions
+Reimburse
+‐ments
+1
+2005  $8,822,124  $7,403,780  $3,423,016  $0  $288,022  $21,349,429  $942,708  $42,229,079
+2006  $7,788,562  $7,164,162  $3,943,756  $0  $291,289  $35,333,705  $1,440,134  $55,661,608
+2007  $21,856,624  $5,821,601  $4,080,165  $14,534,934  $287,996  $23,493,283  $2,513,914  $72,588,517
+2008  $18,669,634  $5,942,808  $3,931,355  $3,065,694  $287,996  $22,903,091  $2,508,531  $57,309,109
+2009  $11,156,600  $7,797,336  $4,318,754  $1,356,283  $288,000  $20,885,234  $2,179,068  $47,981,275
+2010  $8,481,991  $9,107,884  $3,126,007  $1,458,258  $288,000  $20,008,305  $2,432,796  $46,903,241
+2011  $15,646,108  $8,445,260  $2,828,115  $1,487,761  $288,000  $24,673,775  $2,263,774  $55,632,793
+2012  $54,067,309  $9,061,593  $3,215,765  $780,522  $701,151  $27,415,906  $2,222,275  $97,464,521
+2013  $69,568,440  $8,075,180  $4,563,300  $0  $52,495,665  $27,523,385  $1,990,000  $164,215,970
+2014  $85,669,337  $7,554,458  $4,582,540  $0  $9,929,719  $28,793,395  $2,109,428  $138,638,877
+1
+Expenditures that are reimbursed for work done on others’ roads/streets
+EXISTING CONDITIONS SUMMARY
+The key highlights of the existing conditions are summarized below.
+ The  primary  transportation  issue  in  Multnomah  County’s rural  areas  is  safety.  Identifying  and
+prioritizing safety improvements will be a primary objective of the TSP Update.
+ General  County‐wide  trends  indicate  that  some  low‐cost  systemic  treatments  such  as  shoulder
+wideni
+ng  and  installation  of  centerline  and  shoulder  rumble  strips  may  be  effective  on  County
+facilities  in  addition  to  treatments  addressing  speed  and  improving  intersections  with  poor
+geometry.
+ Paved shoulders serve multiple functions in rural areas. They increase safety for vehicles, provide
+space  for  farm  equipment  and  emergency  pull‐offs,  but  they  also  act  as  pe destrian  and  bicycle
+facilities.  The  needs  and  priorities  for  shoulder  improvements  for  vehicle  safety  should  also  be
+coordinated with additional considerations below.
+ Despite the lack of shoulder bikeways, many of the County’s rural roadways are popular cycling
+routes.  A  desired  network  and  priorities  of  shoulder  bik eway  facilities  for  the  purpose  of
+transportation and tourism should be included in the TSP Update.
+ County’s rural areas are not served by fixed route transit; however, fixed route transit and park‐
+and‐ride  facilities  are  provided  at  the  urban  fringes  to  help  provide  access  to  commuters  from
+rural areas. Access to these park‐and‐rides for pe destrians and bicycles should be considered in
+the TSP Update.
+ Multnomah County has a number of designated freight routes extending into the rural areas from
+the  ODOT  freight  routes.  These  should  be  considered  in  the  prioritization  of  shoulder
+improvements.
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 25
+Kittelson & Associates, Inc.   Portland, Oregon
+FUTURE CONDITIONS
+The  following  describes  future  projections  for  population  and  employment  in  unincorporated
+Multnomah  County,  projected  traffic  volumes  on  ODOT  facilities,  and  an  overview  of  currently
+planned projects to address existing and future needs.
+EMPLOYMENT AND HOUSEHOLD PROJECTIONS
+Metro  provided  information  about  anticipated  employee  and  household  growth  in  Multnomah
+County’s unincorporated areas. This information is summarized in Table 12. Employment is projected
+to grow at approximately 3.5 percent per year from 2010 to 2040. Households are projected to grow
+at about 3.2 percent per year from 2010 to 2040. However, these proje ctions include both the urban
+and rural areas of unincorporated Multnomah County.
+Table 12 Employee and Household Projections for Unincorporated Areas in Multnomah County
+Year
+2010  2025  2035  2040
+2010‐2040
+Growth
+Annual %
+Growth
+Employees  3,961  5,866  7,170 8,100 4,139  3.48%
+Households  4,911  6,555  7,092 9,579 4,668  3.16%
+
+Figures 18A and 18B and 19A and 19B depict the projected changes in employees and households by
+TAZ from 2010 to 2040, respectively. As shown, minimal increases in jobs and housing are projected
+for the majority of the East County rural areas with the exception of moderate projected growth in
+households  and  emplo yment  in  the  western  portions  of  the  West  of  Sandy  River  area.  In  West
+County, Sauvie Island is projected to have moderate growth in employment and the northern portion
+of  the  West  Hills  Rural  Area  is  projected  to  have  moderate  growth  in  both  employment  and
+households.
+FUTURE TRAFFIC VOLUMES
+As discussed in the existing conditions, ODOT collects traffic volumes on all state facilities. They also
+provide  information  about  future  anticipated  growth  on  these  same  facilities.  Table  13  provides
+estimates of future traffic volumes at the state facilities in the rural areas.
+
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 26
+Kittelson & Associates, Inc.   Portland, Oregon
+Table 13 Projected Future State Highway Traffic Volumes
+Primary Road HWY MP Description
+Future Year
+Annual
+Growth Rate
+(from 2013
+to 2033)
+2033 Source
+Columbia River Highway
+(US 30)
+002 18.12 0.30 mile east of Jordan
+Interchange 31,900 Historic
+Growth 1.09
+002 22.40 0.30 mile east of Corbett
+Interchange 30,200 Historic
+Growth 1.24
+002 25.19 0.20 mile east of Rooster
+Rock State Park Interchange 30,400 Historic
+Growth 1.36
+002 28.16 0.30 mile east of Bridal Veil
+connection 28,400 Historic
+Growth 1.40
+002 31.89 0.50 mile east of Multnomah
+Falls Interchange 27,400 Historic
+Growth 1.37
+002 35.73 0.10 mile east of Historic
+Columbia Highway (US30) 27,500 Historic
+Growth 1.40
+Mt. Hood Highway (US
+26)
+026 14.80 0.05 mile south of S.E.
+Palmquist Road 32,500 Model 0.89
+026 18.30 0.05 mile northwest of S.E.
+Haley Road 33,300 Model 1.82
+Lower Columbia River
+(US 30)
+092 10.75 0.08 mile south of Sauvie
+Island Road 23,300 Model 1.93
+092 10.95 0.12 mile north of Sauvie
+Island Road 23,800 Model 2.04
+092 13.12 0.10 mile south of Cornelius
+Pass Road 24,200 Model 2.03
+092 17.34 0.05 mile south of Rocky
+Point Road 30,300 Model 1.64
+
+PLANNED PROJECTS
+Multnomah  County  has  several  different  plans  that  identify  transportation  improvements  in  the
+County’s rural  unincorporated  areas.  These  projects  will  be  evaluated  in  the  Alternatives  Analysis
+phase of this project to determine if they are still warranted, how they should be prioritized, and if
+there  are  additional  needs  that  require  additional  projects,  programs,  or  policies  to  ad dress  them.
+Table  14  provides  a  summary  of  the  currently  planned  projects  by  area  in  the  County’s Capital
+Improvement Plan (CIP) and in each of the Rural Area Plans and TSPs (if applicable). The multimodal
+project locations are shown in Figures 20A, 20B, 21A and 21B.
+
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 27
+Kittelson & Associates, Inc.   Portland, Oregon
+Table 14 Planned Projects
+Document Project Number Project Name Project Description
+Sauvie Island/Multnomah Channel
+Westside Rural
+TSP
+1 Sauvie Island Road
+Safety improvement – Add to shoulders (4 ft) and add
+guardrail from Gillihan Road to Reeder Road. Replace
+culverts. $3,675,000
+2 US 30
+Commuter rail study – Conduct study to determine
+feasibility of commuter rail from Portland to Astoria.
+$100,000
+3 Gillihan Road  Safety improvement – Add to shoulders (4 ft). $2,055,000
+4 Reeder Road Safety improvement – Add to shoulders (4 ft). $5,925,000
+5 US 30  Ride share parking – Provide parking for 100 spaces next
+to truck scale near county line. $325,000
+6 US 30  Speed zone study – Conduct speed zone study to
+determine safe speed zone from Linnton north. $5,000
+7 US 30/Cornelius Pass
+Road
+Public transportation – Provide commuter transit service
+from Columbia County over Cornelius Pass Road to
+Washington County. $78,000/year
+8 Reeder Road  Improve parking and intersection safety with Sauvie Island
+Road. $250,000
+9 US 30  RAZ service expansion – Expand assuming 20 hours of
+additional service per work day for one bus. $78,000/year
+10 Sauvie Island Wildlife
+Refuge
+Recreational bike path – Conduct study to determine
+feasibility of a bike path north of Reeder Road for
+recreational purposes only, followed by implementation of
+the findings. $1,060,000
+11 Sauvie Island Road  Improve park and ride – Delineate parking and traffic
+circulation. $300,000
+12 US 30
+Exclusive car pool lane study – Conduct study to
+determine feasibility and cost of adding a reversible
+exclusive car pool lane on US 30. $100,000
+13 US 30  Harborton sign installation – Provide signing for Harborton.
+$ 1,000
+14 US 30
+Scenic viewing opportunities – Access provided across
+railroad tracks adjacent to Burlington Bottoms using
+existing road approaches (per location). Exact locations to
+be determined. Providing pull outs of widening along US
+30 will not be acceptable on the basis of safety. $350,000
+Multnomah County
+CIPP
+15
+Sauvie Island Road:
+Bridge to Reeder Road
+(PN 159)
+Reconstruct road to rural collector standards with 2 travel
+lanes. Requires working on dike. $8,275,636
+16
+Sauvie Island Road:
+Gillihan Road to Reeder
+Road
+Bike path. $2,114,214
+17 Sauvie Island: Reeder to
+Ferry Road  Shoulder bikeway. $535,851
+Sauvie
+Island/Multnomah
+Channel Rural
+Area Plan
+18 Multnomah
+Channel/U.S. 30
+Ride share parking – Provide parking for 100 spaces next
+to truck scale near county line. Project to be coordinated
+with ODOT, Multnomah, and Columbia Counties.
+19 U.S. 30/Cornelius Pass
+Road
+Public transportation – Provide commuter van pool or
+transit service from Columbia County over Cornelius Pass
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 28
+Kittelson & Associates, Inc.   Portland, Oregon
+Road to Washington County.
+21 U.S. 30
+Scenic viewing opportunities – Access provided across
+railroad tracks adjacent to Burlington Bottoms using
+existing road approaches (per location).Exact locations to
+be determined. Providing linear pull outs or widening
+adjacent to U.S. 30 will not be acceptable on the basis of
+safety and access management standards.
+21 Cornelius Pass Road  U.S. 30 intersection improvements – Include a northbound
+turn lane and shared northbound left-turn/right-turn lane.
+22 Gillihan Loop Road  Safety improvement – Add to 6. 13 miles of shoulders (4
+ft).
+23 Reeder Road Safety improvement – Add to 4.33 miles of shoulders (4 ft).
+24 Reeder Road  Safety improvements – Improve intersection sight distance
+with Sauvie Island Road.
+25 Sauvie Island Road
+Safety improvement – Add to 2.15 miles of shoulders (4 ft)
+and add guardrail from Gillihan Road to Reeder Road.
+Replace culverts.
+26 Sauvie Island Road  Create park and ride – Delineate parking and traffic
+circulation. (Completed since 1998 TSP)
+West Hills
+Westside Rural
+TSP
+27 Cornelius Pass Road  Safety improvement – Find ways to enforce posted speed
+limits and safe travel speeds. Install photo radar. $20,000
+28 Cornelius Pass Road  Safety improvement – Install reflectors, delineators, and
+traffic striping. $200,000
+29 Newberry Road
+Safety spot improvement – Install guardrail ¼ mile south of
+US 30 and install speed hump 1.2 miles from US 30.
+$450,000
+30 Cornelius Pass Road
+Speed Zone Study – Conduct speed zone study to
+determine average running speed, safe operating speed,
+and needs for enforcement. $5,000
+31 Germantown Road  Safety improvement – Add to 2.22 miles of shoulders (4 ft).
+$6,744,000
+32 Skyline Boulevard  Safety improvement – Add to shoulders from UGB to
+Cornelius Pass Road (1.49 miles). $ 2,039,000
+33 Skyline Boulevard  Safety improvement – Add to shoulders from Cornelius
+Pass Road to Rocky Point Road (4 ft). $ 11,153,000
+34 Skyline Boulevard
+Cornelius Pass Road intersection improvements – install
+signal, provide westbound left-turn lane and through/right
+lane on Skyline Boulevard. $695,000
+35 Cornelius Pass Road
+Safety and capacity needs – Study to look at climbing
+lanes, guardrail, drainage, addition of shoulders, and
+alternate routes. $180,000
+36 Germantown Road
+Safety spot improvements – Widen lanes on curves only,
+install center skip like reflective markers, and install mirror
+at intersection with Old Germantown Road. $750,000
+37 Cornelius Pass Road
+Safety Improvement – contract with the City of Portland for
+speed enforcement. Assume 0.25 staff per year including
+equipment and overhead. $50,000/year
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 29
+Kittelson & Associates, Inc.   Portland, Oregon
+38 Skyline Boulevard
+Speed zone study – Conduct speed study to determine
+appropriate speed limit for Skyline Boulevard from
+Cornelius Pass Road east to city limits of Portland. $5,000
+39 Springville Road  Safety improvement – Add to shoulders (4 ft). $3,160,000
+40 Laidlaw Road  Safety improvement – Add to shoulders (4 ft). $643,000
+41 Thompson Road  Safety improvement – Add to shoulders (4 ft). $100,000
+42 Cornelius Pass Road
+Realignment – Recuce curvature and eliminate switchback
+while minimizing grade increase of 1,500-foor section
+(assume average cut of 60 feet). $2,020,000
+43 Skyline Boulevard
+Safety improvement – Install traffic calming devices such
+as speed humps to reduce speeds from UGB to Cornelius
+Pass Road. $485,000
+44 Skyline Boulevard
+Scenic viewing opportunities – Acquire property through
+fee or donation for development of parking area adjacent
+to roadway. $350,000
+45 Cornelius Pass Road  Safety improvement – Construct pullouts at a number of
+locations for the purposes of speed enforcement. $750,000
+46 Germantown Road  Safety improvement – Install traffic calming devices such
+as speed humps to reduce speeds. $887,000
+Multnomah County
+CIPP
+47
+Cornelius Pass Road:
+MP 3.0 to MP 3.5 (PN
+103a)
+Realign and widen Cornelius Pass Road to provide
+southbound passing lane. $35,135,976
+48
+Cornelius Pass Road:
+MUS 30 to MP 2 (PN
+389)
+Reconstruct Cornelius Pass Road including passing lane,
+safety, shoulder and drainage improvements. $54,159,714
+49 Cornelius Pass Road:
+MP 2 to MP 3 (PN 103)
+Widen Cornelius Pass Road, including new box culvert
+and passing lane. $21,893,536
+50
+Germantown Road/Old
+Germantown Road (PN
+726)
+Widen Germantown Road to create left turn pocket and
+improve sight distance. $780,835
+51
+Skyline Boulevard:
+McNamee to Cornelius
+Pass
+Shoulder bikeway. $2,629,164
+52
+Skyline Boulevard:
+Cornelius Pass to Rocky
+Point
+Shoulder bikeway. $15,153,851
+53
+Springville Road: Skyline
+Boulevard to County
+Line
+Shoulder bikeway. $4,254,950
+54
+Cornelius Pass Road:
+(old) St. Helens Road to
+MP 2
+Shoulder bikeway. $3,684,602
+East of Sandy River
+Multnomah County
+CIPP
+55 Ogden Road: Mershon
+to Woodard  Shoulder bikeway. $463,789
+56 Larch Mt. Road: HCRH
+to End of Road  Shoulder bikeway. $26,341,706
+57
+Knieriem Road:
+Littlepage Road to
+HCRH
+Shoulder bikeway. $3,122,720
+58 Hurlburt Road: HCRH to
+Littlepage Road  Shoulder bikeway. $4,344,240
+59 Evan Road: Hurlburt
+Road to HCRH  Shoulder bikeway. $4,463,908
+60 Woodard Road: HCRH
+to Ogden Road  Shoulder bikeway. $2,338,065
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 30
+Kittelson & Associates, Inc.   Portland, Oregon
+61 Mershon Road: Ogden
+to HCRH  Shoulder bikeway. $4,009,646
+East of Sandy River Rural Area Plan
+No major capital improvement improvements are proposed within the study area
+West of Sandy River
+West of Sandy
+River Rural Area
+Plan
+62 Orient Road/Dodge Park
+Boulevard Realignment
+Realign the intersection to create a more perpendicular
+angle. Driveway modifications would be required to serve
+the autobody shop in the northwest quadrant of the
+intersection.
+63 Division Drive/Troutdale
+Road Realignment
+Eliminate the northeast leg of the intersection between SE
+Division Drive and SE Troutdale Road to create one
+intersection. Realign each end of the segment proposed
+for closure. While projected 2020 PM peak hour traffic
+volumes satisfy signal warrants, signalization is not
+recommended until additional warrants are satisfied. All-
+way stop control would provide LOS D with projected 2020
+PM peak hour traffic volumes, while adding an eastbound
+right turn lane would provide LOS C.
+64
+302
+nd
+ Avenue/Orient
+Drive/Bluff Road
+Realignment
+Potential options include realigning SE Orient Drive to
+intersect SE Bluff at a more perpendicular angle or
+creating a left turn lane for eastbound traffic on SE Orient
+Drive. Either option may require realignment of SE Teton
+Drive. Further engineering analysis will be necessary to
+determine a preferred alignment. Signalize realigned
+intersection when warranted.
+65 Oxbow Drive/327
+th
+
+Avenue Realignment
+Channelizing the broad paved area on SE 327
+th
+ Avenue at
+the approach to SE Oxbow Drive to create a more
+perpendicular intersection is recommended to improve
+sight distance and reduce the potential for conflict between
+westbound left turns and northbound left turns.
+66
+Lusted Road/302
+nd
+
+Avenue/Pipeline Road
+Realignment/Intersection
+Consolidation
+Further engineering analysis is recommended to determine
+if intersection consolidation is feasible fiven the
+surrounding vertical grades and the location of a sewage
+holding tank in the center of the intersection. Recent
+parking restrictions enacted by the County may be
+adequate for the near term.
+67
+Lusted Road/Powell
+Valley Road/282
+nd
+
+Avenue Consolidation
+Realignment to connect SE Lusted Road directly with SE
+Powell Valley Road is included in the County’s Capital
+Improvement Plan and Program. The project would require
+further engineering analysis and coordination with the City
+of Gresham to develop a recommend alignment. A traffic
+signal is warranted based on projected 2020 PM peak hour
+volumes, and would provide LOS B operations.
+68 282
+nd
+ Avenue/Stone
+Road Turn Lanes
+The addition of turn lanes in the northbound and
+southbound direction on 282
+nd
+ would reduce the high
+incidence of rear end crashes at this location. Some
+roadway widening would be necessary.
+69
+Shoulder Widening to
+Meet Updated
+Standards
+Prioritization for shoulder improvements within the West of
+Sandy River rural area should be given to roadways
+connecting to school sites, especially Barlow High School.
+Proposed shoulder widening should be evaluated based
+on potential impacts on drainage and adjacent productive
+lands. For shoulders wider than 1.8 meters, the adopted
+County standards require paved width of 1.5 meters. The
+remaining 0.3 meters may be unpaved. Shoulder widening
+should be incorporated into routine roadway maintenance
+wherever possible.
+Multnomah County
+CIPP 70
+Cochran Drive:
+Troutdale Road to
+westerly 2175’ (PN 145)
+Reconstruct to major collector standards: 2 travel lanes,
+center lane/median, sidewalks, bike lanes, and culvert
+replacement. $7,442,765
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 31
+Kittelson & Associates, Inc.   Portland, Oregon
+71
+Troutdale Road: Stark St
+to Division Drive (PN
+TBD)
+Reconstruct with 2 travel lanes; construct center turn
+lane/median, sidewalks, bicycle lanes between Stark and
+Strebin. Reconstruct Troutdale Road/Division Drive
+intersection including new fish culverts. $8,297,000
+72
+Sweetbriar Road:
+Troutdale Road to E City
+Limit (PN 149)
+Widen to neighborhood collector standards with 2 travel
+lanes, sidewalk and bike lanes. $2,740,748
+73 Orient Drive/Bluff Road
+(PN 706)
+Widen Orient Drive to create eastbound left turn lane to
+Bluff Road, realign Bluff and Teton to create perpendicular
+intersection. $685,247
+74 Orient Drive/Dodge Park
+Boulevard (PN 703)
+Widen Orient Drive to create eastbound left turn lane.
+$373,616
+75 Oxbow Drive/Altman
+Road (PN 707)
+Widen Oxbow Drive to create westbound left turn lane to
+Altman Road, realign intersection to a 5 perpendicular
+intersection. $ 790,693
+76 302
+nd
+ Avenue/Lusted
+Road (PN 704)
+Realign Lusted Road and Pipeline Road to create
+perpendicular intersection at 302
+nd
+, add left turn lane to
+each leg of intersection. $5,613,717
+77
+Division Drive/Troutdale
+Road (Included in
+Collector project above)
+(PN 186)
+Realign intersection, eliminating NE leg, producing a 4-way
+intersection. Replace 3 existing culverts identified as fish
+barriers. $ -
+78 Dodge Park Boulevard:
+302
+nd
+ to County Line  Shoulder bikeway. $7,592,686
+79 302
+nd
+ Avenue: Division
+to Bluff  Shoulder bikeway. $3,878,852
+80
+Orient Drive: Welch
+Road to Dodge Park
+Boulevard
+Shoulder bikeway. $1,523,441
+81
+Oxbow Park Road:
+Oxbow Drive to Road
+End
+Shoulder bikeway. $1,834,695
+82 Oxbow Drive: Division
+Drive to Hosner Road  Shoulder bikeway. $5,393,681
+83
+Oxbow Drive: Hosner
+Terrace to Oxbow Park
+Road SE
+Shoulder bikeway. $1,259,838
+84 SE Division Drive: UGB
+to Troutdale Road  Bike lanes. $945,518
+85 Troutdale Road: Strebin
+Road to 282 Avenue  Bike lanes. $3,292,979
+86
+SE Division Drive:
+Troutdale to Oxbow
+Parkway
+Bike lanes. $3,371,407
+Pedestrian Master
+Plan 87 Stark St: Eavans Ave to
+35th St Add sidewalk to south side
+Columbia River Gorge National Scenic Area
+Multnomah County
+CIPP
+88
+Historic Columbia River
+Highway RR
+Overcrossing: Half miles
+east of 244
+th
+ Avenue
+(PN 199)
+Reconstruct railroad bridge to accommodate wider travel
+lanes, sidewalks, and bike lanes. $9,314,500
+89
+Corbett Hill
+Road/Historic Columbia
+River Highway (PN 147)
+Improve intersection alignment by making stops at right
+angle. $3,770,920
+Other Plans and Projects
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 32
+Kittelson & Associates, Inc.   Portland, Oregon
+East Metro
+Connections Plan
+90
+Sandy River to
+Springwater multi-modal
+connection
+Projects to provide mutli-modal connections from
+Downtown Troutdale to Mt. Hood Community College and
+the Springwater Corridor Trail. CATALYST PROJECTS:
+Master plan for new multi-modal corridor.
+91 Pleasant Valley
+Projects develop the necessary public infrastructure for
+development of Pleasant Valley Community Plan.
+CATALYST PROJECTS: Improvements to 174
+th
+ and
+Foster.
+92 Catalyst for Springwater
+District
+Projects help develop the necessary public infrastructure
+for private investment and jobs in this regionally significant
+employment area. Projects include a new interchange on
+US 26 and an extension of Rugg Road to connect US 26
+and Hogan, as well as collector street improvements to
+provide needed access for future jobs and employment.
+CATALYST PROJECTS: New interchange on US 26 and
+arterial connections.
+Pedestrian Master
+Plan 93 Interlachen Lane: Marine
+Dr to Blue Lake Rd Add sidewalks to both sides
+FUTURE CONDITIONS SUMMARY
+The following highlights key information that can be used as part of future alternatives analyses tasks.
+ Population and employment in the rural areas is expected to grow at approximately 3 –
+3.5  percent  per  year.  Although  not  projected  to  result  in  traffic  congestion  in  the  rural
+areas, this growth will continue to ha ve impacts on safety and conflicts between different
+modes.
+ Multnomah County has several different plans that identify transportation improvements
+in  the  County’s  rural  unincorporated  areas.  These  projects  will  be  evaluated  in  the
+Alternatives  Analysis  phase  of  this  project  to  determine  if  they  are  still  warranted,  how
+they  should  be  prioritiz ed,  and  if  there  are  additional  needs  that  require  additional
+projects, programs, or policies to address them.
+NEXT STEPS
+The  information  in  this  memorandum  will  be  reviewed  by  County  staff  and  shared  with  the
+Transportation  Subcommittee  of  the  County’s  Comprehensive  Plan  Update  Project  Advisory
+Committee.  Input  will  be  requested  on  the  existing  and  future  conditions  and  currently  planned
+project list to provide direction for the alternatives analysis.
+REFERENCES
+1. ODOT Analysis Procedures Manual
+2. Highway Safety Manual
+3. NCHRP  Report  641  Guidance  for  the  Design  and  Application  of  Shoulder  and  Centerline
+Rumble Strips
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 33
+Kittelson & Associates, Inc.   Portland, Oregon
+MAP ATLAS
+Figure 1  Study Area
+Figure 2  Existing Housing Density
+Figure 3  Existing Zoning
+Figure 4  Activity Centers
+Figure 5  Roadway Jurisdiction
+Figure 6  Roadway Pavement Conditions
+Figure 7  Roadway Functional Classification
+Figure 8  Speed Limits
+Figure 9  Pavement Width
+Figure 10  Roadway Intersections
+Figure 11  Existing Traffic Volumes
+Figure 12  Crash Report s  by Severity
+Figure 13  Bridge Locations
+Figure 14  Railroad Crossings
+Figure 15  Bicycle Facilities
+Figure 16  Transit Facilities
+Figure 17  Truck Routes
+Figure 18  Change in Employees by TAZ – 2010 to 2040
+Figure 19  Change in Households by TAZ – 2010 to 2040
+Figure 20  Planned Projects
+Figure 21  Bicycle Master Plan
+
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 34
+Kittelson & Associates, Inc.   Portland, Oregon
+Appendix 1 Map Atlas
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRoad
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+West Hills
+Rural
+Sauvie Island
+and Multnomah
+Channel Rural
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Plan Areas
+Sauvie Island and Multnomah
+Channel Rural
+West Hills Rural
+County Boundaries
+Figure 1A
+Study Area
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\01 Study Area.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+OxbowDrive
+Hurlburt Road
+302nd Avenue
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+West of
+the Sandy
+River Rural
+Springwater
+East of
+the Sandy
+Rural Area
+Interlachen
+Urban
+Columbia RIver
+Gorge National
+Scenic Rural
+Troutdale
+UPA
+Government
+Island
+Pleasant
+Valley
+Urban
+Bonneville
+Dam
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Plan Areas
+Bonneville Dam
+Columbia River Gorge National
+Scenic Rural Area
+East of Sandy Rural Area
+Government Island
+Interlachen Urban
+Pleasant Valley Urban
+Springwater
+Troutdale UPA
+West of the Sandy River Rural
+County Boundaries
+Figure 1B
+Study Area
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\01 Study Area.mxd
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+CorneliusPassRoad
+CornellRoad
+SauvieIsland
+Road
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Existing Housing Density /
+Housholds per Acre by TAZ
+0.00 - 0.07
+0.08 - 0.16
+0.17 - 0.60
+0.61 - 2.03
+2.04 - 4.52
+Plan Areas
+County Boundaries
+Figure 2A
+Existing Household
+Density
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\02 Existing Housing Density.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Existing Housing Density /
+Housholds per Acre by TAZ
+0.00 - 0.07
+0.08 - 0.16
+0.17 - 0.60
+0.61 - 2.03
+2.04 - 4.52
+Plan Areas
+County Boundaries
+Figure 2B
+Existing Household
+Density
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\02 Existing Housing Density.mxd
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIsland
+Road
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Zoning
+Rural Residential
+Rural Center Residential
+Farm Use Areas
+Forest Use Areas
+Portland Zoning Management
+Rural Plan Areas
+County Boundaries
+Figure 3A
+Existing Zoning
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\03 Existing Zoning.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Zoning
+Urban Future District
+Rural Residential
+Retail Commercial
+Rural Center Residential
+Industrial, Manufacturing
+Farm Use Areas
+Forest Use Areas
+Columbia River Gorge NSA General
+Management Area
+Gresham Zoning Management
+Rural Plan Areas
+County Boundaries
+Figure 3B
+Existing Zoning
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\03 Existing Zoning.mxd
+IIIü
+ÃÃ
+ÃÃ
+ÃÃ
+ÂK
+ÂK
+¨¨"¨!ðF
+¨¨"¨!ðF
+¨¨"¨!ðF
+¨¨"¨!ðF
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+ß/30
+ß/26
+CornellRoad
+SauvieIslandRoad
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Activity Centers
+ÂK Hospital
+ÃÃ School
+IIIü Park N' Ride
+¨¨"¨!ðF Fire Station
+Public Lands
+Plan Areas
+County Boundaries
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\04 Activity Centers.mxd
+Figure 4A
+Activity Centers
+ÃÃ
+ÃÃÃÃ
+ÃÃ ÃÃ
+ÃÃÃÃ
+ÃÃ
+ÃÃ
+ÃÃ
+ÃÃ
+ÂK
+¨¨"¨!ðF
+¨¨"¨!ðF
+¨¨"¨!ðF
+¨¨"¨!ðF
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+ß/30
+ß/26
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+EvansRoad
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Activity Centers
+ÂK Hospital
+ÃÃ School
+IIIü Park N' Ride
+¨¨"¨!ðF Fire Station
+Public Lands
+Plan Areas
+County Boundaries
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\04 Activity Centers.mxd
+Figure 4B
+Activity Centers
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+Reeder Road
+Gillihan Road
+SkylineBoulevard
+CornellRoad
+SauvieIsland
+Road
+Springville Road
+Germantown Road
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Multnomah County Roadways
+ODOT Roadways
+Local Roads (not maintained by
+county)
+Plan Areas
+County Boundaries
+Figure 5A
+Roadway Jurisdiction
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\05 Roadway Jurisdiction.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Telford Road
+MarineDrive
+Troutdale Road
+Division Drive
+223rd
+Avenue
+Dodge Park Boulevard
+Lusted Road
+Gordon Creek Road
+Bluff Road
+Evans Road
+Woodard Road
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+BrowerR
+oad
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Multnomah County Roadways
+ODOT Roadways
+Local Roads (not maintained by
+county)
+Plan Areas
+County Boundaries
+Figure 5B
+Roadway Jurisdiction
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\05 Roadway Jurisdiction.mxd
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRoad
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Current Pavement Conditions
+Index
+<50 (does not meet county
+standard)
+50 - 70 (acceptable for rural roads)
+>70 (meets county standard)
+Plan Areas
+County Boundaries
+Figure 6A
+Roadway Pavement
+Conditions
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\06 Roadway Pavement Conditions.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Current Pavement Conditions
+Index
+<50 (does not meet county
+standard)
+50 - 70 (acceptable for rural roads)
+>70 (meets county standard)
+Plan Areas
+County Boundaries
+Figure 6B
+Roadway Pavement
+Conditions
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\06 Roadway Pavement Conditions.mxd
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIsland
+Road
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Roadway Functional
+Classification (MultCo)
+Intersate / Expressway
+Arterials
+Collectors
+Local
+Local (not maintained by county)
+Railroad (ODOT)
+Plan Areas
+County Boundaries
+Figure 7A
+Roadway Functional
+Classifications
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\07 Roadway Functional Classifications.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Roadway Functional
+Classification (MultCo)
+Intersate / Expressway
+Arterials
+Collectors
+Local
+Local (not maintained by county)
+Railroad (ODOT)
+Plan Areas
+County Boundaries
+Figure 7B
+Roadway Functional
+Classifications
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\07 Roadway Functional Classifications.mxd
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRoad
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Speed Zones MPH
+20
+25
+30
+35
+40
+45
+55
+Plan Areas
+County Boundaries
+Figure 8A
+Speed Zones
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\08 Speed Zones.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Speed Zones MPH
+20
+25
+30
+35
+40
+45
+55
+Plan Areas
+County Boundaries
+Figure 8B
+Speed Zones
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\08 Speed Zones.mxd
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRoad
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Pavement Widths
+10 - 17 ft
+18 - 21 ft
+22 - 23 ft
+24 - 25 ft
+26 - 28 ft
+30 - 38 ft
+Plan
+County Boundaries
+Figure 9A
+Pavement Width
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\09 Pavement Width.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Pavement Widths
+10 - 17 ft
+18 - 21 ft
+22 - 23 ft
+24 - 25 ft
+26 - 28 ft
+30 - 38 ft
+>39 ft
+Plan
+County Boundaries
+Figure 9B
+Pavement Width
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\09 Pavement Width.mxd
+!!èéëìí
+!!èéëìí
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRoad
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+!!èéëìí Signalized Intersection
+Non-Signalized Intersection
+Rural Plan Areas
+County Boundaries
+Figure 10A
+Roadway
+Intersections
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\10 Roadway Intersections.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Non-Signalized Intersection
+Rural Plan Areas
+County Boundaries
+Figure 10B
+Roadway
+Intersections
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\10 Roadway Intersections.mxd
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRoad
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Average Daliy Traffic
+(records from 2006 to 2014)
+<1,5000
+1,500 - 3,000
+3,001 - 5,000
+5,001 - 10,000
+>10,000
+Plan Areas
+County Boundaries
+Figure 11A
+Average Daily Traffic
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\11 Average Daily Traffic.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Average Daliy Traffic
+(records from 2006 to 2014)
+<1,5000
+1,500 - 3,000
+3,001 - 5,000
+5,001 - 10,000
+>10,000
+Plan Areas
+County Boundaries
+Figure 11B
+Average Daily Traffic
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\11 Average Daily Traffic.mxd
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRoad
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+A
+E
+F
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Reported Crashes by Severity
+from 1/1/2009 thru 1/3/2014
+lll¬¬ Fatal crash
+Non-fatal injury crash
+Property damage only crash (PDO)
+Crash Analysis
+Plan Areas
+County Boundaries
+Figure 12A
+Crash Reports by
+Severity
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\12 Crash Reports by Severity.mxd
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+l
+ll
+l l
+l l
+l
+l
+l
+l
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+¬
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+Lusted Road
+Woodard Road
+BrowerRoad
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+J
+G
+BC H
+D
+I
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Reported Crashes by Severity
+from 1/1/2009 thru 1/3/2014
+lll¬¬ Fatal crash
+Non-fatal injury crash
+Property damage only crash (PDO)
+Crash Analysis
+Plan Areas
+County Boundaries
+Figure 12B
+Crash Reports by
+Severity
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\12 Crash Reports by Severity.mxd
+CorneliusPassRoad
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CornellRoad
+SauvieIslandRoad
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+13
+1
+5
+3
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Bridge Locations
+Plan Areas
+County Boundaries
+Figure 13A
+Bridge Locations
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\13 Bridge Locations.mxd
+Stark Street
+Halsey Street
+Sandy Boulevard
+257th/KaneDrive
+Glisan Street
+Orient Drive
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+Bluff Road
+MarineDrive
+Evans Road
+Division Drive
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+4
+8
+9 19
+20
+22
+23
+10
+7
+24
+25
+15
+17
+16
+21
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Bridge Locations
+Plan Areas
+County Boundaries
+Figure 13B
+Bridge Locations
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\13 Bridge Locations.mxd
+º»¼
+º»¼
+º»¼º»¼
+º»¼
+º»¼
+º»¼
+º»¼
+º»¼
+º»¼
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRoad
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26
+vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Edit, Crossing
+º»¼ Private At-Grade RR Crossing
+º»¼ Private Grade-Seperated RR
+Crossing
+º»¼ Public At-Grade RR Crossing
+º»¼ Public Grade-Seperated RR
+Crossing
+Railroad Lines
+Portland and Western
+Union Pacific
+Other Railroad Lines
+Plan Areas
+County Boundaries
+Figure 14A
+Railroad Crossings
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\14 Railroad Crossings.mxd
+º»¼º»¼ º»¼ º»¼
+º»¼
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+Telford Road
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Edit, Crossing
+º»¼ Private At-Grade RR Crossing
+º»¼ Private Grade-Seperated RR
+Crossing
+º»¼ Public At-Grade RR Crossing
+º»¼ Public Grade-Seperated RR
+Crossing
+Railroad Lines
+Portland and Western
+Union Pacific
+Other Railroad Lines
+Plan Areas
+County Boundaries
+Figure 14B
+Railroad Crossings
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\14 Railroad Crossings.mxd
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRoad
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Bike Routes
+Established bikeway
+Bike friendly street
+Dedicated bike lane
+Helpful connection
+County Boundaries
+Plan Areas
+Figure 15A
+Bicycle Facilities
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\15 Bicycle Facilities.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Bike Routes
+Established bikeway
+Bike friendly street
+Dedicated bike lane
+Helpful connection
+Local trail
+Bike with caution
+County Boundaries
+Plan Areas
+Figure 15B
+Bicycle Facilities
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\15 Bicycle Facilities.mxd
+IIIü
+®¯U
+®¯U
+®¯U
+®¯U
+®¯U
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRoad
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+!!!!
+TriMet Stops
+!!!!
+Columbia County Rider Stops
+®¯U Transit Centers
+IIIü Park N' Ride
+TriMet Routes
+Columbia County Rider Routes
+Plan Areas
+County Boundaries
+Figure 16A
+Transit Facilities
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\16 Transit Facilities.mxd
+®¯U
+!!!!
+!!!!
+!!!!
+!!!!!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!!!!!
+!!!!
+!!!!
+!!!!!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+!!!!
+TriMet Stops
+!!!!
+Sandy Area Metro Stops
+®¯U Transit Centers
+TriMet Routes
+Sandy Area Metro Routes
+Plan Areas
+County Boundaries
+Figure 16B
+Transit Facilities
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\16 Transit Facilities.mxd
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRoad
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Multnomah Co. Truck Routes
+ODOT Freight Routes
+Plan Areas
+County Boundaries
+Figure 17A
+Freight Routes
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\17 Freight Routes.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Multnomah Co. Truck Routes
+ODOT Freight Routes
+Plan Areas
+County Boundaries
+Figure 17B
+Freight Routes
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\17 Freight Routes.mxd
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+Sauvie
+Island
+Road
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84125
+79
+88
+8
+81
+15
+7
+835
+113
+84
+177
+115
+520
+610
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Change in Empolyees by TAZ
+from 2010 to 2040
+6 - 40
+41 - 88
+89 - 177
+178 - 610
+611 - 1094
+Rural Plan Areas
+County Boundaries
+Figure 18A
+Employment Change
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\18 Employment Change from 2010 to 2040.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Halsey Street
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+600
+6
+10
+34 101
+330
+856
+1094
+66158
+643003054
+117
+27
+10
+52
+1003 20 70
+428
+17
+47
+66
+86
+40
+326
+32
+16
+33
+85
+39
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Change in Empolyees by TAZ
+from 2010 to 2040
+6 - 40
+41 - 88
+89 - 177
+178 - 610
+611 - 1094
+Rural Plan Areas
+County Boundaries
+Figure 18B
+Employment Change
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\18 Employment Change from 2010 to 2040.mxd
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+Sauvie
+Island
+Road
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+36
+59
+87
+131
+123
+132
+224
+8
+199
+293
+15
+176
+30
+406
+237
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Change in Households by TAZ
+from 2010 to 2040
+-32 - 67
+68 - 151
+152 - 293
+294 - 751
+752 - 1319
+Rural Plan Areas
+County Boundaries
+Figure 19A
+Houshold Change
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\19 Housing Change from 2010 to 2040.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Halsey Street
+257th/KaneDrive
+Glisan Street
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+409
+172
+130
+270
+171 1319 447
+82
+456
+389
+99
+751
+372
+190
+151
+4067365
+533
+108
+258
+53
+7 63
+0
+0
+0
+20
+122
+6
+-32
+12
+215
+47
+412
+1
+871
+1226
+8
+4
+30
+16
+56
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Change in Households by TAZ
+from 2010 to 2040
+-32 - 67
+68 - 151
+152 - 293
+294 - 751
+752 - 1319
+Rural Plan Areas
+County Boundaries
+Figure 19B
+Houshold Change
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\19 Housing Change from 2010 to 2040.mxd
+!!!! !!!!
+!!!!
+!!!!
+!!!! !!!!
+!!!!
+!!!!
+!!!!
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+8
+13
+21
+23
+29
+34
+50
+17
+41
+40
+43 38 3251
+25
+16
+1
+15
+31
+5339
+46 36
+35
+30
+28
+27
+22
+3
+23
+4
+52
+44
+33
+6
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+!!!!
+Project Points
+Project Segments
+Plan Areas
+County Boundaries
+Figure 20A
+Planned and
+Programmed Projects
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\20 Planned and Programmed Projects.mxd
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+!!!!
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Halsey Street
+257th/KaneDrive
+Glisan Street
+LustedRoad
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+223rd Avenue
+OxbowDrive
+Hurlburt Road
+302nd Avenue
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+62
+63
+64
+65
+6667
+68
+73
+74
+75
+76
+77
+8960
+87
+55
+70
+85
+80
+72
+93
+86
+71
+57
+59
+61
+82
+58
+81
+78
+56
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+!!!!
+Project Points
+Project Segments
+Plan Areas
+County Boundaries
+Figure 20B
+Planned and
+Programmed Projects
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\20 Planned and Programmed Projects.mxd
+ÃÃ
+ÃÃ
+ÃÃ
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRoad
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+ÃÃ Schools
+Bikeways Plan
+Plan Areas
+County Boundaries
+Figure 21A
+Master Bike Plan
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\21 Bike Master Plan.mxd
+ÃÃ
+ÃÃÃÃ
+ÃÃ ÃÃ
+ÃÃÃÃ
+ÃÃ
+ÃÃ
+ÃÃ
+ÃÃ
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+EvansRoad
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+6/8/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+ÃÃ Schools
+Bikeways Plan
+Plan Areas
+County Boundaries
+Figure 21B
+Master Bike Plan
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\21 Bike Master Plan.mxd
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 35
+Kittelson & Associates, Inc.   Portland, Oregon
+Appendix 2 TAZ Map and Data
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+30
+26 120
+219
+99E
+8
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRoad
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+5
+405
+84
+0 1 20.5
+Miles
+Date:
+1/22/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Existing Housing Density /
+Housholds per Acre by TAZ
+0.00 - 0.07
+0.08 - 0.16
+0.17 - 0.60
+0.61 - 2.03
+2.04 - 4.52
+Plan Areas
+County Boundaries
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+30
+26
+212
+211
+224
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+84
+0 2 41
+Miles
+Date:
+1/22/2015
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Existing Housing Density /
+Housholds per Acre by TAZ
+0.00 - 0.07
+0.08 - 0.16
+0.17 - 0.60
+0.61 - 2.03
+2.04 - 4.52
+Plan Areas
+County Boundaries
+HouseholdsTAZ
+TAZ COUNTY CITYNAME HH_Est Acres HH_Est_Per_Acres Study_Area HH_2010 HH_2025 HH_2035 HH_2040
+41 Multnomah Unincorporated Multnomah County 230 677.2785034 0.339594424 Inside 230 280 285 289
+42 Multnomah Unincorporated Multnomah County 88 553.7416992 0.158918858 Inside 88 190 173 175
+46 Multnomah Unincorporated Multnomah County 87 565.5050049 0.153844789 Inside 87 294 310 311
+47 Multnomah Unincorporated Multnomah County 69 994.6202393 0.069373213 Inside 69 76 77 77
+50 Multnomah Unincorporated Multnomah County 112 1617.817871 0.069229051 Inside 112 127 127 127
+51 Multnomah Unincorporated Multnomah County 806 18539.10156 0.043475676 Inside 806 1011 982 982
+52 Multnomah Unincorporated Multnomah County 410 16136.27832 0.025408585 Inside 410 444 440 440
+418 Multnomah Unincorporated Multnomah County 404 133.4250183 3.027917862 Inside 404 573 686 813
+469 Multnomah Unincorporated Multnomah County 78 350.3316345 0.222646177 Inside 78 303 346 348
+470 Multnomah Unincorporated Multnomah County 29 186.9356232 0.15513362 Inside 29 95 157 200
+474 Multnomah Unincorporated Multnomah County 25 480.1582336 0.05206617 Inside 25 264 431 481
+475 Multnomah Unincorporated Multnomah County 72 553.6829224 0.130038321 Inside 72 201 393 461
+476 Multnomah Unincorporated Multnomah County 113 451.9336243 0.250036716 Inside 113 119 119 212
+651 Multnomah Unincorporated Multnomah County 815 9016.890625 0.090385929 Inside 815 860 861 862
+652 Multnomah Unincorporated Multnomah County 88 1261.890503 0.069736637 Inside 88 91 91 92
+653 Multnomah Unincorporated Multnomah County 7 93.94351959 0.074512854 Inside 7 17 19 19
+654 Multnomah Unincorporated Multnomah County 17 105.3690109 0.161337763 Inside 17 18 18 18
+655 Multnomah Unincorporated Multnomah County 102 511.5376892 0.199398801 Inside 102 115 115 973
+656 Multnomah Unincorporated Multnomah County 154 623.8569336 0.246851474 Inside 154 164 164 1380
+657 Multnomah Unincorporated Multnomah County 241 781.2597046 0.30847618 Inside 241 244 244 249
+658 Multnomah Unincorporated Multnomah County 94 790.3630371 0.118932687 Inside 94 97 97 98
+659 Multnomah Unincorporated Multnomah County 124 1600.389038 0.077481158 Inside 124 150 145 154
+660 Multnomah Unincorporated Multnomah County 173 2797.650635 0.061837599 Inside 173 187 184 189
+661 Multnomah Unincorporated Multnomah County 573 107817.2188 0.00531455 Inside 573 635 628 629
+HouseholdsTAZ
+Cap_2045 Shape_Length_1 Shape_Area_1 HH_2040_Per_Acres Shape_Length Shape_Area Density_Change_2010_to_2040 Change_2010_to_2040
+807.5496574 22432.13611 29502251.09 0.426707774 22432.13618 29502251.16 0.087113351 59
+110.5336193 23742.24967 24120988.16 0.316031814 23742.2497 24120987.93 0.157112956 87
+450.1998185 21678.52347 24633397.65 0.549950898 21678.52366 24633397.68 0.396106124 224
+7.683710195 34505.87115 43325657.24 0.07741648 34505.87127 43325657.58 0.008043267 8
+14.95114286 44901.1205 70472146.59 0.0785008 44901.12047 70472146.72 0.009271748 15
+246.4731367 139550.758 807563234.2 0.052969124 139550.7577 807563233.7 0.009493448 176
+37.33714286 121123.7036 702896270.2 0.02726775 121123.7036 702896270.1 0.001859166 30
+880.2769016 12212.47969 5811993.681 6.093309879 12212.47961 5811993.725 3.065392017 409
+2640.625923 17335.98278 15260446.56 0.993344486 17335.98288 15260446.62 0.770698309 270
+522.726764 14258.03617 8142915.997 1.069887042 14258.03614 8142915.969 0.914753437 171
+683.7998921 18443.27774 20915692.49 1.001753092 18443.27774 20915692.69 0.949686944 456
+567.7335666 21441.52407 24118429.07 0.832606494 21441.52405 24118428.98 0.702568173 389
+391.3412871 19991.55884 19686228.06 0.469095439 19991.55866 19686228.11 0.219058722 99
+48.38599821 124070.4482 392775774.6 0.095598362 124070.4485 392775774.5 0.005212434 47
+3.75 37855.62758 54967948.97 0.072906487 37855.62792 54967949.34 0.00316985 4
+13.75 10735.86522 4092179.686 0.202249184 10735.86531 4092179.719 0.12773633 12
+1.25 12503.17729 4589874.28 0.170828208 12503.17731 4589874.269 0.009490445 1
+3068.393684 22708.55299 22282581.36 1.902108192 22708.55296 22282581.15 1.702709436 871
+4365.113408 23509.83166 27175208.35 2.21204567 23509.8316 27175208.05 1.965194225 1226
+11.11995929 23909.05521 34031673.28 0.318716049 23909.05541 34031673.17 0.010239869 8
+3.733714286 24616.25592 34428213.35 0.12399365 24616.2561 34428213.45 0.005060963 4
+29.96742857 52040.796 69712947.35 0.096226603 52040.79599 69712946.81 0.018745445 30
+16.20114286 57555.82094 121865664.1 0.067556687 57555.82099 121865664.6 0.005719088 16
+67.386 354248.7535 4696531192 0.005833931 353002.7351 4696518028 0.000519381 56
+EmployeesTAZ
+TAZ COUNTY CITYNAME EMP_Total Acres
+Total_2010_
+Per_Acres COUNTY_1 Total_2025 Total_2035 Total_2040
+41 Multnomah Unincorporated Multnomah County 160 677.2784932 0.236239597 Multnomah 236 271 285
+42 Multnomah Unincorporated Multnomah County 8 553.7416879 0.014447169 Multnomah 49 75 87
+46 Multnomah Unincorporated Multnomah County 15 565.5049972 0.026524965 Multnomah 25 29 30
+47 Multnomah Unincorporated Multnomah County 13 994.6202384 0.013070315 Multnomah 16 19 20
+50 Multnomah Unincorporated Multnomah County 130 1617.817877 0.080355152 Multnomah 182 204 214
+51 Multnomah Unincorporated Multnomah County 174 18539.10087 0.009385568 Multnomah 276 322 351
+52 Multnomah Unincorporated Multnomah County 401 16136.27801 0.024850836 Multnomah 455 487 516
+418 Multnomah Unincorporated Multnomah County 233 133.4250166 1.746299148 Multnomah 583 752 833
+469 Multnomah Unincorporated Multnomah County 350.3316488 Multnomah 457 682 764
+470 Multnomah Unincorporated Multnomah County 186.9356283 Multnomah 121 155 176
+474 Multnomah Unincorporated Multnomah County 29 480.1582343 0.060396757 Multnomah 232 320 359
+475 Multnomah Unincorporated Multnomah County 28 553.6829426 0.050570458 Multnomah 558 774 884
+476 Multnomah Unincorporated Multnomah County 42 451.9336112 0.092934005 Multnomah 707 982 1136
+651 Multnomah Unincorporated Multnomah County 361 9016.891058 0.040035971 Multnomah 410 433 447
+652 Multnomah Unincorporated Multnomah County 145 1261.890481 0.114906959 Multnomah 172 180 185
+653 Multnomah Unincorporated Multnomah County 93.94351973 Multnomah 0 0 0
+654 Multnomah Unincorporated Multnomah County 105.3690144 Multnomah 6 7 7
+655 Multnomah Unincorporated Multnomah County 511.5376756 Multnomah 176 187 315
+656 Multnomah Unincorporated Multnomah County 241 623.856934 0.386306524 Multnomah 346 391 567
+657 Multnomah Unincorporated Multnomah County 45 781.2597146 0.057599284 Multnomah 66 73 77
+658 Multnomah Unincorporated Multnomah County 37 790.3630268 0.046813931 Multnomah 51 52 53
+659 Multnomah Unincorporated Multnomah County 95 1600.389045 0.059360567 Multnomah 117 124 128
+660 Multnomah Unincorporated Multnomah County 261 2797.650702 0.093292564 Multnomah 325 338 346
+661 Multnomah Unincorporated Multnomah County 281 107817.2183 0.002606263 Multnomah 300 313 320
+EmployeesTAZ
+Shape_Length_1 Shape_Area_1
+Total_2040_
+Per_Acres Study_Area Shape_Length Shape_Area
+Density_Change_
+From_2010_to_2040
+Change_From_
+2010_to_2040
+22432.13611 29502251.09 0.420801789 Inside 22432.13618 29502251.16 0.184562191 125
+23742.24967 24120988.16 0.157112971 Inside 23742.2497 24120987.93 0.142665803 79
+21678.52347 24633397.65 0.053049929 Inside 21678.52366 24633397.68 0.026524965 15
+34505.87115 43325657.24 0.020108176 Inside 34505.87127 43325657.58 0.007037861 7
+44901.1205 70472146.59 0.132276937 Inside 44901.12047 70472146.72 0.051921785 84
+139550.758 807563234.2 0.018932957 Inside 139550.7577 807563233.7 0.009547389 177
+121123.7036 702896270.2 0.031977635 Inside 121123.7036 702896270.1 0.007126799 115
+12212.47969 5811993.681 6.243206978 Inside 12212.47961 5811993.725 4.496907711 600
+17335.98278 15260446.56 2.180790901 Inside 17335.98288 15260446.62
+14258.03617 8142915.997 0.941500604 Inside 14258.03614 8142915.969
+18443.27774 20915692.49 0.747670174 Inside 18443.27774 20915692.69 0.687273443 330
+21441.52407 24118429.07 1.596581697 Inside 21441.52405 24118428.98 1.546011209 856
+19991.55884 19686228.06 2.513643503 Inside 19991.55866 19686228.11 2.42070961 1094
+124070.4482 392775774.6 0.04957363 Inside 124070.4485 392775774.5 0.00953766 86
+37855.62758 54967948.97 0.146605432 Inside 37855.62792 54967949.34 0.031698473 40
+10735.86522 4092179.686 0 Inside 10735.86531 4092179.719
+12503.17729 4589874.28 0.066433191 Inside 12503.17731 4589874.269
+22708.55299 22282581.36 0.615790427 Inside 22708.55296 22282581.15
+23509.83166 27175208.35 0.908862233 Inside 23509.8316 27175208.05 0.522555709 326
+23909.05521 34031673.28 0.098558776 Inside 23909.05541 34031673.17 0.040959492 32
+24616.25592 34428213.35 0.067057788 Inside 24616.2561 34428213.45 0.020243857 16
+52040.796 69712947.35 0.079980552 Inside 52040.79599 69712946.81 0.020619985 33
+57555.82094 121865664.1 0.123675197 Inside 57555.82099 121865664.6 0.030382633 85
+354248.7535 4696531192 0.002967978 Inside 353002.7351 4696518028 0.000361715 39
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 36
+Kittelson & Associates, Inc.   Portland, Oregon
+Appendix 3 Historical AADT
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 37
+Kittelson & Associates, Inc.   Portland, Oregon
+Table 15 Historical AADT on State Highways in Rural Multnomah County
+Primary
+Road
+HW
+Y MP Descript
+ion
+AADT by Year
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+Columbia
+River
+Highway
+(US 30)
+002 18.
+12
+0.30 mile
+east of
+Jordan
+Intercha
+nge
+25,10
+0
+24,80
+0
+26,10
+0
+26,60
+0
+26,70
+0
+26,3
+00
+28,0
+00
+28,1
+00
+25,3
+00
+25,7
+00
+26,2
+00
+002 22.
+40
+0.30 mile
+east of
+Corbett
+Intercha
+nge
+22,40
+0
+22,10
+0
+24,30
+0
+24,70
+0
+24,90
+0
+24,6
+00
+26,3
+00
+26,4
+00
+23,5
+00
+23,7
+00
+24,2
+00
+002 25.
+19
+0.20 mile
+east of
+Rooster
+Rock
+State
+Park
+Intercha
+nge
+22,20
+0
+21,90
+0
+24,40
+0
+24,80
+0
+25,00
+0
+24,5
+00
+26,1
+00
+26,3
+00
+23,3
+00
+23,5
+00
+23,9
+00
+002 28.
+16
+0.30 mile
+east of
+Bridal
+Veil
+connecti
+on
+21,40
+0*
+21,10
+0*
+23,50
+0*
+23,90
+0*
+24,00
+0
+23,5
+00
+25,1
+00
+25,3
+00
+21,7
+00
+21,8
+00
+22,2
+00
+002 31.
+89
+0.50 mile
+east of
+Multnom
+ah Falls
+Intercha
+nge
+21,20
+0
+20,90
+0
+23,20
+0
+23,60
+0
+23,80
+0
+23,1
+00
+24,8
+00
+24,9
+00
+21,1
+00
+21,1
+00
+21,5
+00
+002 35.
+73
+0.10 mile
+east of
+Historic
+Columbi
+a
+Highway
+(US30)
+21,00
+0*
+20,70
+0*
+23,30
+0*
+23,70
+0*
+23,80
+0
+23,3
+00
+25,0
+00
+24,9
+00
+21,1
+00
+21,1
+00
+21,5
+00
+Mt. Hood
+Highway
+(US 26)
+026 14.
+80
+0.05 mile
+south of
+S.E.
+Palmquis
+t Road
+26,70
+0*
+25,70
+0*
+26,20
+0*
+27,20
+0*
+27,00
+0*
+25,8
+00
+26,6
+00
+26,6
+00
+25,2
+00
+27,3
+00
+27,6
+00
+026 18.
+30
+0.05 mile
+northwes
+t of S.E.
+Haley
+Road
+22,80
+0*
+21,90
+0*
+22,30
+0*
+24,60
+0*
+24,40
+0*
+23,3
+00
+22,9
+00
+22,9
+00
+21,7
+00
+24,1
+00
+24,4
+00
+Lower
+Columbia
+River (US
+30)
+092 10.
+75
+0.08 mile
+south of
+Sauvie
+Island
+Road
+-** -** -** 23,40
+0
+21,40
+0
+20,6
+00
+20,9
+00
+17,0
+00
+16,7
+00
+16,5
+00
+16,8
+00
+092 10.
+95
+0.12 mile
+north of
+Sauvie
+Island
+Road
+-** -** -** 21,60
+0
+22,10
+0
+20,4
+00
+20,7
+00
+17,1
+00
+16,8
+00
+16,6
+00
+16,9
+00
+092 13.
+12
+0.10 mile
+south of
+Corneliu
+s Pass
+Road
+-** -** -** 20,80
+0
+22,00
+0
+20,3
+00
+20,5
+00
+17,4
+00
+17,1
+00
+16,9
+17,2
+Multnomah County Comprehensive Plan Update  Project #: 17944
+September 29, 2016  Page 38
+Kittelson & Associates, Inc.   Portland, Oregon
+092 17.
+34
+0.05 mile
+south of
+Rocky
+Point
+Road
+-** -** -** 25,10
+0
+27,80
+0
+25,6
+00
+26,0
+00
+23,1
+00
+22,7
+00
+22,5
+00
+22,8
+00
+*Count location shifted 0.1 mile or less from where counts are recorded currently; no major intersections were included or excluded with the
+shift
+**No counts were recorded on the segment for the year reported

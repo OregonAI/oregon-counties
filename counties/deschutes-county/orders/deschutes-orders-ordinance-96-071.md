@@ -1,0 +1,1773 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-96-071
+title: 'Ordinance No. 96-071'
+doc_type: ordinance
+citation: 'Ordinance No. 96-071'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616777425_1996-47616-Ordinance%20No.%2096-071%20Recorded%2012_30_1996.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 879ae0344a2ecae89bd545b09183b7463b1253dfac0d3a8d21fc6c5704ff96e1
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.035
+    - ORS 215.418
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 96-071 (Ordinance No. 96-071)
+
+## At a glance
+
+Ordinance No. 96-071 — orders of Deschutes County. 28 pages.
+
+## Full text
+
+sF" iisis a
+IITMISEL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTYt OREGON
+n
+An Ordinance Amending Title 22, Development
+Procedures Ordinance of the Deschutes *
+County Code, to Address the Requirements
+of the 120 - day Time Limit, Declaring an
+Emergency and Setting an Effective Date. *
+ORDINANCE NO. 96- 071
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. Amendments to Title 22.
+A. Chapter 22. 04 is amended to add new definitions, as Sections
+22. 04. 022, " Argument," 22. 04. 32, " Evidence," and 22. 04. 048
+Modification of application," as set forth in Exhibit A, and by this
+reference incorporated herein, with new language set out in red - line
+and language to be deleted in strike - out.
+B. Chapter 22. 08 is amended to add new Section 22. 08. 090,
+Submissions of documents," and to amend Section 22. 08. 010,
+Application requirements," as set forth in Exhibit B, attached hereto
+and by this reference incorporated herein, with new language set out in
+red - line and language to be deleted in strike - out.
+C. Chapter 22. 20 is amended to change Sections 22. 20. 010,
+Action on land use action applications," 22. 20. 20, " Administrative
+land use decisions with prior notice," 22. 20. 030, " Administrative
+decision without prior notice," 22. 20. 040, " Final Action in land use
+actions," 22. 20. 050, " Temporary approval," to delete Section 22. 20. 060,
+Application and supporting documents," and to add new Sections
+22. 20. 052, " Supplementation of application within first 30 days of
+submittal," and 22. 20. 055, " Modification of application," as set forth
+in Exhibit C, attached hereto and by this reference incorporated
+herein, with new language set out in red - line and language to be
+deleted in strike - out.
+D. Chapter 22. 24 is amended to change Sections 22. 24. 010,
+Filing of staff report for hearing," 22. 24. 020, " Hearings body,"
+22. 24. 030, " Notice of hearing or administrative action," 22. 24. 040,
+Contents of notice," 22. 24. 080, " Standing," 22. 24. 125, " Setting the
+hearing," and 22. 24. 160, " Reopening the record," to delete 22. 24. 130,
+Continuances," and replace it with a new Section 22. 24. 140,
+Continuances or record extensions," and to delete Section 22. 24. 140,
+Close of the record," and replace it with a new Section 22. 24. 130,
+Close of the record," as set forth in Exhibit D, attached hereto and
+by this reference incorporated herein, with new language set out in
+red - line and language to be deleted in strike - out.
+KEY
+1 - ORDINANCE N0. 96- 071 ( 12- 30- 96)
+ED
+E. Chapter 22. 28 is amended to change 22. 28. 050, " Review by
+planning commission and board," and to add a new Section 22. 28. 015,
+Findings as to 120 - day time limit," as set forth in Exhibit E,
+attached hereto and by this reference incorporated herein, with new
+language set out in red - line and language to be deleted in strike - out.
+F. Chapter 22. 30 is amended to change 22. 30. 010,
+Reconsideration," as set forth in Exhibit F, attached hereto and by
+this reference incorporated herein, with new language set out in
+red - line and language to be deleted in strike - out.
+G. Chapter 22. 32 is amended to change Sections 22. 32. 015,
+Filing appeals," 22. 32. 022, " Determination of jurisdictional defects,"
+22. 32. 025, " Consolidation of multiple appeals," 22. 32. 030, " Hearing on
+appeal," and 22. 32. 035, " Declining review," and adding new Sections
+22. 32. 024, " Transcript requirement" and 22. 32. 027, " Scope of review,"
+as set forth in Exhibit G, attached hereto and by this reference
+incorporated herein, with new language set out in red - line and language
+to be deleted in strike - out.
+H. Chapter 22. 34 is amended to change Section 22. 34. 020,
+Hearings body," as set forth in Exhibit H, attached hereto and by this
+reference incorporated herein, with new language set out in red - line
+and language to be deleted in strike - out.
+Section 2. Severability. The provisions of this ordinance are
+severable. If any section, sentence, clause or phrase of this
+ordinance is adjudged to be invalid by a court of competent
+jurisdiction, that decision shall not affect the validity of the
+remaining portions of this ordinance.
+Section 3. Codification. County Legal Counsel shall have the
+authority to format the provisions contained herein in a manner that
+will integrate them into the County Code consistent with the Deschutes
+County Form and Style Manual for Board Documents. Such codification
+shall include the authority to make such changes, to make changes in
+numbering systems and to make such numbering changes consistent with
+interrelated code sections. In addition, as part of codification of
+these ordinances, County Legal Counsel may insert appropriate
+legislative history reference. Any legislative history references
+included herein are not adopted as part of the substance of this
+ordinance, but are included for administrative convenience and as a
+reference. They may be changed to correct errors and to conform to
+proper style without action of the Board of County Commissioners.
+Section 4. Repeal of Ordinances as Affecting Existing
+Liabilities. The repeal, express or implied, of any ordinance,
+ordinance provision, code section, or any map or any line on a map
+incorporated therein by reference, by this amending ordinance shall not
+release or extinguish any duty, condition, penalty, forfeiture, or
+liability previously incurred or that may hereafter be incurred under
+such ordinance, unless a provision of this amending ordinance shall so
+2 - ORDINANCE NO. 96- 071 ( 12- 30- 96)
+p. 15p= pj9
+expressly provide, and such ordinance repealed shall be treated as
+still remaining in force for the purpose of sustaining any proper
+action or prosecution for the enforcement of such duty,
+condition,
+penalty, forfeiture, or liability, and for the purpose of authorizing
+the prosecution, conviction and punishment of the person or persons who
+previously violated the repealed ordinance.
+Section 5. Applicability. Except as otherwise stated herein, the
+procedures set forth in this ordinance shall as of the effective date
+apply to all procedural steps not then taken or finalized as to future
+and existing applications not yet final. The changes in Section
+22. 08. 010 shall apply only to applications submitted on or after the
+effective date. The changes in Section 22. 20. 20( A) shall apply only to
+applications submitted on or after the effective date. Section
+22. 20. 52 shall not apply to applications already submitted as of this
+date. Section 22. 20. 55 shall not apply to applications already
+accepted or deemed accepted as complete as of the effective date.
+Section 6. Emergency. This ordinance being necessary for the
+immediate preservation of the public peace, health and safety, an
+emergency is declared to exist, and this ordinance shall take effect
+immediately on passage.
+DATED this 30th day of December, 1996.
+OF COUNTY CO ISSIONERS
+CHUT S UNT , OREGON
+Chair
+ATT T: BARRY SLAUGHTER, Commissioner
+Recording Secretary ROB T L. NIPPER, Commissioner
+3 - ORDINANCE NO. 96- 071 ( 12- 30- 96)
+EXHIBIT A
+Chapter 22. 04. INTRODUCTION AND
+DEFINITIONS
+22. 04. 010. Introduction and application.
+22. 04. 020. Definitions.
+22. 04. 025. Definition - De novo review.
+22. 04. 030. Definition - Development action.
+22.04.035. Definition - Land use action.
+22. 04. 040. Definition - Land use permit.
+22. 04. 045. Definition - Legislative changes.
+ii:. i:. i:.:....
+22.04. 050. Definition - Quasi- judicial.
+22.04.055. Definition -Planning director.
+22. 04. 010. Introduction and application.
+A. This title is enacted to provide a
+uniform procedure for the grant or denial and
+processing of applications, approvals and
+determinationsby PlanningDivision of the
+Deschutes County Community Development
+Department under the applicable County
+comprehensive plan, land use regulations,
+subdivision and partition ordinance, and other
+ordinances which by their terms incorporate
+by reference the procedures in this title. This
+title shall be known as the DeschutesCounty
+Development Procedures Ordinance.
+B. The provisions of this title do not
+apply to the issuance, suspension, or
+revocation of any on-site sewage disposal,
+building, electricalorplumbingpermitsexcept
+as they relate to Planning Division
+consideration of permitted uses. ( Ord. 90- 007
+1, 1990)
+22. 04. 020. Definitions.
+The following definitions apply to this
+title:
+Y';:;:;T,.4 :j'` .':.... ' .::::::::::i: 7v :.' Fi: l+'.
+x: :::.;:
+y: l:::: i:: Q1ii. O7.' 1J:GAYk: l .. : i: i: '
+is % ..,:
+ft :.;::: ': ,.>':.,:.' ': `: .:..,.;':::.;•.:, .:.;»'' :': <
+a; i::<:.;:.:<,,:.,:
+i>:>' 71<>: <::><:<:.:
+0156- 0179898
+i::?' iv: 4ii:;::: :.:.?:.. ;
+i} r}; i' iii:: iiii: i' i::. X:ii:. i:.: ii:• i' . i: ^:;::•::: J, y, ii:; ii}'{: i:: ii:. '' ilii:• Xi: { 5'i:. ii:•:
+22. 04. 025. Definition - De novo review.
+De novo review" meansa hearing by the
+reviewbodyasif the action had not previously
+been heard and as if no decision had been
+rendered, except that all testimony, evidence
+and other material from the record of the
+previous consideration will be considered a
+part of the record on review. ( Ord. 95- 045 § 1,
+1995)
+22. 04. 030. Definition - Development action.
+Development action" means the review of
+any permit, authorization or determination
+that the Deschutes County Community
+Development Department is requested to
+issue, give or make that either:
+A. Involves the application of a County
+zoning ordinance or the County subdivision
+and partition ordinance and is not a land use
+action as defined below; or
+B. Involves the application of standards
+other than those referred to in subsection A,
+such as the sign ordinance.
+For illustrative purposes, the term
+development action" includes review of any
+condominium plat, permit extension, road
+name change, sidewalk permit, sign permit,
+setback determination, and lot coverage
+determination. ( Ord. 95- 045 § 1, 1995; Ord.
+90- 007 § 1, 1990)
+22. 04. 035. Definition - Land use action.
+Land use action" includes any
+consideration for approval of a quasi- judicial
+plan amendment or zone change, any
+consideration for approval of a land use
+EXHIBIT A TO ORDINANCE NO. 96-071 ( 12-30-96)
+permit, and anyconsideration of a requestfor
+a declaratory ruling ( including resolution of
+any procedural questions raised in any of
+these actions). ( Ord. 95- 045 § 1, 1995; Ord.
+90- 007 § 1, 1990)
+22. 04. 040. Definition - Land use permit.
+Land use permit" includes any approval of
+a proposed development of land under the
+standards in the County zoning ordinances or
+subdivision or partition ordinances involving
+the exercise of significant discretion in
+applying those standards.
+By way of illustration, " land use permit"
+includes review of conditional use permits,
+landscape management plans, farm or
+nonfarm dwellings, forest management plans,
+partition, master plan, river setback exception,
+riverfront design review, site plan, site plan
+change of use, modification of approval, solar
+access, solar shade exception, subdivision, and
+subdivision variance and variance. ( Ord.
+95- 045 § 1, 1995; Ord. 90- 007 § 1, 1990)
+22. 04. 045. Definition - Legislative changes.
+Legislative changes" generally involve
+broad public policy decisions that apply to
+other than an individual property owner.
+These include, without limitation, amendments
+to the text of the comprehensive plans, zoning
+ordinances, or the subdivision or partition
+ordinance and changes in zoning maps not
+directed at a small number of property
+owners. ( Ord. 95- 045 § 1, 1995; Ord. 90- 007 §
+1, 1990)
+0156_ 07 9
+22. 04.050. Definition - Quasi- judicial.
+Quasi- judicial" zone change or plan
+amendment generally refers to a plan
+amendment or zone change affecting a single
+or limited group of property owners and that
+involves the application of existing policy to a
+specific factual setting. ( The distinction
+between legislative and quasi- judicial changes
+must ultimately be made on a case-by-case
+basis with reference to caselaw on the
+subject.) ( Ord. 95- 045 § 1, 1995; Ord. 90- 007
+1, 1990)
+22. 04.055. Definition - Planning director.
+PlanningDirector," asusedin this chapter
+and in titles 17, 18, 19 and 20 and PL - 17 ( or
+its codified version) shall refer to the
+Community Development Director or his or
+her designee. ( Ord. 95- 045 § 1, 1995)
+2 - EXHIBIT A TO ORDINANCE NO. 96- 071 ( 12-30- 96)
+EXHIBIT B
+Chapter 22. 08. GENERAL PROVISIONS
+22. 08. 005. Preapplication conference.
+22. 08. 010. Application requirements.
+22. 08. 020. Acceptance of application.
+22. 08. 030. Incomplete applications.
+22. 08.035. False statements on application
+and supporting documents.
+22. 08. 037. Withdrawal of application.
+22. 08. 040. Applicable standards.
+22. 08. 050. Notice to Division of State
+Lands.
+22.08.060. Conflicting procedures.
+22. 08. 070. Time computation.
+22.08.080. Mailing list.
+s> tsdi
+22. 08. 005. Preapplication conference.
+A pre - application conference is
+encouraged for complex applications or for
+applicants who are unfamiliar with the land
+use process. The purpose of the conference
+shall be to acquaint the applicant with the
+substantive and procedural requirements of
+the applicable land use ordinances, to provide
+for an exchangeof information regarding
+applicable requirements of the comprehensive
+plan, zoning ordinance or land division
+ordinance and to identify issueslikely to arise
+in processingan application. (Ord. 95-045 § 2,
+1995)
+22. 08.010. Application requirements.
+A. Property Owner. For the purposesof
+this section, the term " property owner" shall
+mean the owner of record or the contract
+purchaser and does not include a person or
+organization that holds a security interest.
+B. Applications for development or land
+use actions shall:
+1. Be submitted bythe property owneror
+a person who has written authorization from
+the property owner as defined herein to make
+the application;
+2. Becompletedon a formprescribedby
+0136. 0800
+the Planning Director;
+3. Include supporting information
+required by the zoning ordinance and that
+information necessary to demonstrate
+compliance with applicable criteria; and
+4. Be accompanied by the appropriate
+filing fee, unless suchfees are waived by the
+Board of County Commissioners.
+1daa ; fit?€:€ a
+C. The following applications are not
+subjectto the ownershiprequirement setforth
+in subsection B. 1. of this section:
+1. Applications submitted by or on behalf
+of a public entity or public utility having the
+power of eminent domain with respect to the
+property subject to the application; or
+2. Applications for development
+proposals sited on lands owned by the state or
+the federal government. ( Ord. 96- 071 § 1B,
+1996; Ord. 95- 045 § 3, 1995; Ord. 90- 077 § 1,
+1990)
+22. 08. 020. Acceptance of application.
+A. Development action and land use
+action applications shall not be accepted until
+the Planning Director has determined that ( 1)
+the requirements of Section 22. 08. 010 have
+been met and ( 2) the application is complete
+or the application is deemed to be complete
+under state law.
+B. An application is complete when in the
+judgment of the Planning Director all
+applicable issues have been adequately
+addressed in the application.
+C. Acceptance of an application as
+complete shall not preclude a determination at
+a later date that additional criteria need to be
+addressed or a later determination that
+additional information is needed to adequately
+address applicable criteria. ( Ord. 90- 007 § 1,
+1990)
+22. 08. 030. Incomplete applications.
+1 - EXHIBIT B TO ORDINANCE NO. 96- 071 ( 12-30- 96)
+A. If an application is incomplete, the
+Planning Director shall, within thirty (30) days
+of receipt of the application, notify the
+applicant in writing of exactly what
+information is missing. The applicant may
+amend his application or submit a new
+application supplyingthe missinginformation.
+B. The applicant shall have thirty ( 30)
+days from the date of notice from the
+Planning Director to supply the missing
+information.
+C. If the applicant submits the missing
+information within the 30 -day period specified
+in subsection B of this section, the application
+shall be deemed complete upon receipt of the
+missing information.
+D. If an applicant does not submit the
+missing information within the 30 -day period
+specified in subsection B of this section, the
+application may be processedin accordance
+with section 22. 20. 040 of this title. ( Ord.
+95- 045 § 4, 1995; Ord. 90- 007 § 1, 1990)
+22. 08. 035. False statements on application
+and supporting documents.
+If the applicant or the applicant' s
+representative or apparent representative
+makes a misstatement of fact on the
+application regarding property ownership,
+authority to submit the application, acreage,
+or any other fact material to the acceptance or
+approval of the application, and such
+misstatement is relied upon by the Planning
+Director or Hearings Body in making a
+decision whether to accept or approve the
+application, the Planning Director may upon
+notice to the applicant and subject to an
+applicant's right to a hearing declare the
+application void. ( Ord. 91- 013 § 1, 1991)
+22. 08. 037. Withdrawal of application.
+An applicant may withdraw an application
+in writing at any time prior to the time a land
+use action decision becomes final. If the land
+owner is not the applicant, no consent to
+withdraw the application is needed from the
+land owner. ( Ord. 95- 045 § 5, 1995)
+013-6- 0801
+22. 08. 040. Applicable standards.
+With respect to the acknowledged portions
+of the County's Comprehensive Plan, the
+standards and criteria applicable to an
+application shall be the standards and criteria
+applicable at the time the application was first
+submitted if the application and requested
+information, if any, are received within one
+hundred eighty ( 180) days of the time the
+application was first submitted. ( Ord. 90- 007
+1, 1990)
+22. 08. 050. Notice to Division of State
+Lands.
+In addition to any notice required by this
+Title, the County shall provide the notices
+required by ORS 215. 418 concerning
+state -identified wetlands within 5 days of the
+acceptance of an application as complete.
+This section shall not become operative until
+the Division of State Lands has provided to
+the County a copy of applicable portions of
+the Statewide Wetlands Inventory. ( Ord.
+90- 007 § 1, 1990)
+22.08. 060. Conflicting procedures.
+Except as set forth in this section, where
+other provisions of the Deschutes County
+Codeor DeschutesCounty ordinancesspecify
+procedures with greater opportunity for public
+notice and comment, those procedures shall
+apply. Notice procedures for abbreviated
+Surface Mining Impact Area review under
+Section 4.110(11)( C) of the Deschutes County
+Zoning Ordinance shall be asset forth in that
+section. ( Ord. 90- 007 § 1, 1990)
+22. 08. 070. Time computation.
+Except when otherwise provided, the time
+within which an act is required to be done
+shall be computed by excluding the first day
+andincludingthe lastday, unlessthe lastday
+is a Saturday, Sunday, legal holiday or anyday
+on which the county is not open for business
+pursuant to a county ordinance, in which case
+it shall also be excluded. ( Ord. 90- 007 § 1,
+1990)
+2 - EXHIBIT B TO ORDINANCE NO. 96- 071 ( 12-30- 96)
+22. 08.080. Mailing list.
+Any personmay, uponpaymentof a fee
+set by the Planning Director, request to
+receive the Planning Division' s weekly media
+update packet, which may include a list of
+accepted applications, Planning Commission
+agendas and Hearings Body notices. ( Ord.
+90- 007 § 1, 1990)
+3 - EXHIBIT B TO ORDINANCE NO. 96-071 ( 12-30-96)
+0156- 0802
+EXHIBIT C
+Chapter 22. 20. REVIEW OF LAND USE
+ACTION
+APPLICATIONS
+22. 20. 005. Effect of determinations made
+outside of established processes.
+22. 20. 010. Action on land use action
+applications.
+22. 20. 020. Administrative land use
+decisions with prior notice.
+22. 20. 030. Administrative decision without
+22. 20. 005. Effect of determinations made
+outside of established processes.
+Any informal interpretation or
+determination, or anystatementdescribingthe
+uses to which a property may be put, made
+outside the declaratory ruling process (DCC
+Chapter 22. 40) or outside the process for
+approval or denial of a land use permit ( DCC
+Chapters 22. 20 - 28) shall be deemed to be a
+supposition only. Such informal
+interpretations, determinations, or statements
+shall not be deemedto constitute final County
+action effecting a change in the status of a
+person' s property or conferring any rights,
+includinganyreliancerights, on anyperson.
+Ord. 95- 045 § 5A, 1995)
+22. 20. 010. Action on land use action
+applications.
+A. Except for comprehensive plan
+amendments and zone changes and other
+instanceswherea hearing requireduired b stateq Y
+law or by other ordinance provision, the
+0156- 0803
+PlanningDirector may decideupon a land use
+action application administratively either with
+prior notice, as prescribed under Section
+22. 20. 020 or without prior notice, as
+prescribed under Section 22.20.030 or he may
+refer the application to the Hearings Body for
+hearing. The Planning Director shall take
+such action within 30 days of the date the
+application is accepted as
+complete. This time limit maybe ­waived at
+the option of the applicant.
+B. The Planning Director' s choice
+between or among administrative or hearing
+procedures to apply to a particular application
+or determination shall not be an appealable
+decision.
+C. Zone change and plan amendment
+applications shall be referred to a hearing
+before the Hearings Body. ( Ord. 95- 045 § 6,
+1995; Ord. 91- 013 § 2, 1991; Ord. 90- 007 § 1,
+1990)
+22. 20. 020. Administrative land use
+decisions with prior notice.
+A. Notice of the application shall be sent
+within ten ( 10) days of ftwof
+the application to persons entitled to notice
+under Section 22. 24. 030. Such notice shall
+include all the information specified under
+Section 22. 24. 040 except for the ids
+f specified in subsections 10.
+B:.,.Anypersonmaycommentin writing
+on the application within ten ( 10) days from
+the date notice was mailed or a longer period
+as specified in the notice.
+C. The Planning Director' s decision to
+approve, deny or send to a hearing shall be
+made within thirty ( 30) days after an
+application is accepted as complete. This time
+limit may be waived by the written consent of
+the Applicant.
+D. Notice of the Planning Director' s
+decision and the appeal period shall be sent to
+all ';°:': # C -0-J" i Es::::::::::::::::::::::::::::.::::::::::::.:::::::::::::::::::::::::::::::::::
+ii1 and to all members of the
+1 - EXHIBIT C TO ORDINANCE NO. 96-071 ( 12-30-96)
+planning commission.
+persons .........co.mmenting as provided in this
+section constitute parties to the administrative
+decision. Anypartycanappealthedecisionin
+accordance with chapter 22. 32, " Appeals," of
+this title. ( Ord. 96- 071 § 1C, 1996; Ord.
+95- 045 § 7, 1995; Ord. 91- 013 § 3, 1991; Ord.
+90- 007 § 1990)
+22. 20. 030. Administrative decision without
+prior notice.
+The procedures for administrative
+decisions without prior notice shall be the
+same as those set forth in Section 22. 20.020 of
+this chapter, except that( 4) no prior notice
+shall be given
+shalleeRt- Ai - the ap^plirable. of ,..,,
+a*:,,,,
+Ord. 96- 071 § 1C, 1996; Ord. 90- 007 § 1,
+1990)
+22. 20. 040. Final action in land use actions.
+A. Except as otherwise provided, the
+County shall take final action':' including
+consideration of appeals to the board, in land
+use actionswithin one hundred twenty ( 120)
+days after the application is deemed complete.
+B. If the applicant refuses or fails to
+submit missinginformation within the 30days
+specified in section 22. 08. 030 of this title, the
+application shall be deemed complete, for
+purposes of processing the application, on the
+31st day after the application was first
+submitted¢ and final action of the Board of
+County Commissioners, if required, shall be
+taken within one hundred fifty- one (151) days
+after the application was first received.
+C. The periods set forth in this section
+during which afinal decisionon an application
+must be made may be extended for a
+reasonable period of time at the written
+request of the applicant.
+D. Applications for the following
+determinations or approvals are exempt from
+0156- 0804
+the 120 -day time limit establishedby this
+section:
+1. Quasi- judicial comprehensive plan
+amendments;
+2. Revocation proceedings;
+3. Verification of nonconforming uses;
+4. Lot of record determinations;
+5. Initiation of approval determinations;
+and
+6. Consideration of remanded
+applications. ( Ord. 96- 071 § 1C, 1996; Ord.
+95- 045 § 8, 1995; Ord. 90- 007 § 1, 1990)
+22. 20.050. Temporary approval.
+A. The purpose of temporary land use
+approval is to allow an applicant in certain
+hardship or emergencysituations to proceed
+without notice to those ordinarily entitled to
+notice with a land use action proposed in an
+application made to the Planning Division
+before the Division completes its review of the
+proposed use. In all cases, an applicant
+receivingtemporaryapprovalmustobtainfinal
+approval on the submitted application
+pursuant to the procedures specified in this
+title.
+B. Subject to subsection ( E) of this
+section, the Board of County Commissioners
+or the Planning Director may authorize a
+temporary land use approval, provided:
+1. An application for the land use
+approval has been accepted as complete.
+2. A fee for review of the temporary
+approval has been paid.
+3. The applicant has demonstrated good
+and sufficient cause for such a temporary
+approval.
+4. It appears that the application will be
+given final approval in substantially the form
+submitted by the applicant.
+5. The applicant accepts each and every
+risk of loss and damagethat may result if the
+application is denied, and further agrees in
+writing to hold County, its officers, agentsand
+employees harmless from such loss and
+damage.
+6. Applicant agrees in writing to restore
+the site to its original condition if the
+2 - EXHIBIT C TO ORDINANCE NO. 96-071 ( 12-30-96)
+application for the land use approval is
+denied.
+C. For the purposes of this section, " good
+cause" shall include only hardship or
+emergencysituationsarising due to factors
+that, through the exercise of ordinary
+diligence, the applicant could not have
+foreseen. " Good cause" does not include an
+applicant'srequest for a temporary permit for
+reasons of convenience only.
+D. A temporary useapproval shall not be
+granted for variances, zone changes or plan
+amendments.
+E. The scope of the temporary approval
+shall be limited to allow the applicant to
+proceed only with that portion of the
+proposed usejustifying the applicant' sclaim of
+hardship or emergency.
+F. A temporary use approval shall expire
+as follows:
+1. Six months from the date of approval,
+if no decision has been reached on the
+underlying application.
+2. On the date the appeal period runs on
+the decision on the underlying application.
+3. On the date all appeals of the
+decision on the underlying application are
+decided and final.
+F. A decision to approve a temporary use
+application is not appealable. ( Ord. 96- 071 §
+1C, 1996; Ord. 95- 045 § 9, 1995; Ord. 91- 013
+4- 6, 1991; 90- 007 § 1, 1990)
+0156- 0805
+MM
+I Vjlrprr, Pwrom U1 In
+011.
+3 - EXHIBIT C TO ORDINANCE NO. 96-071 ( 12-30-96)
+0156- 0806
+22. 20. 070. Availability of administrative
+decisions.
+All administrative decisions for the
+precedingmonthshallbe madeavailablefor
+public review at a location to be designated by
+the Planning Director. In addition, the
+Planning Director shall maintain for public
+inspection a registry of administrative
+decisions for the previous 12 -month period.
+Ord. 90- 007 § 1, 1990)
+4 - EXHIBIT C TO ORDINANCE NO. 96-071 (12-30-96)
+1: f
+Chapter 22. 24. LAND USE ACTION
+HEARINGS
+22.24.010. Filing of staff report for hearing.
+22.24.020. Hearings body.
+22.24.030. Notice of hearing or
+22. 24. 120.
+administrative action.
+22. 24. 040. Contents of notice.
+22. 24. 050. Burden of proof.
+22. 24. 060. Nature of evidence.
+22. 24. 070. Limitation on oral presentations.
+22.24.080. Standing.
+22. 24. 090. Record.
+22. 24. 100. Disclosure of ex parte contacts.
+22. 24. 105. Disclosure of personal
+22.24.010. Filing of staff report for hearing.
+A. At the time an application that in the
+judgmentof thePlanningDirector requiresa
+hearing is complete, a hearing date
+shall be set.
+B. A staff report shall be completed seven
+7) daysprior to hearing. If the report is not
+completed by suchtime, the hearing shall be
+held as scheduled, but anyparty ir, entitled;
+open Foquest made at the m;
+rs' acontinuanceofthehearingtoadate
+that is at least sevendaysafter the datethe
+initial staff report is complete. W
+xx
+0 S++N4k MKi W V
+C. A copy of the staff report shall be
+mailed to the applicant, shall be made
+available to such other persons who request a
+copy and shall be filed with the Hearings
+Body.
+D. Oral or written modifications and
+additions to the staff report shall be allowed
+prior to or at the hearing. (Ord. 96-071 § 1D,
+1996; Ord. 95- 045 § 11, 1995; Ord. 90- 007 § 1,
+1990)
+22.24.020. Hearings body.
+A. The following shall serve as the
+Hearings Body in this order:
+1. Hearings Officer.
+2. Planning Commission, where the
+Planning Commission initiates a review of an
+administrative action or Hearings Officer' s
+decision pursuant to Section 22. 28. 050 of this
+title€
+ij
+dt`?': I` I#> st€ t` iiII::.,
+Agog:; r : >: tt t.
+3 Board" of CountyCommissioners.
+B. Where the Hearings Officer declines
+to hear a matter on the grounds of a conflict
+of interest, the Planning Commission shall
+substitute for the Hearings Officer. In the
+Redmond Urban Area, the initial Hearings
+Body for a quasi-judicial plan amendment or
+zone change may at the discretion of the
+Planning Director be either the Planning
+Commission or the Hearings Officer. ( Ord.
+96- 071 § 1D, 1996; Ord. 95- 045 § 11A, 1995;
+Ord. 90- 007 § 1, 1990)
+22.24.030. Notice of hearing or
+administrative action.
+A. Individual Mailed Notice.
+1. Except as otherwise provided for
+herein, notice of a land use application shall
+be mailed at least twenty ( 20) days prior to
+the hearing for those matters set for hearing,
+or within ten ( 10) days after receipt of ani
+eempletg application for those matters to be
+processed administratively with notice.
+1 - EXHIBIT D TO ORDINANCE NO. 96-071 ( 12-30-96)
+knowledge.
+22. 24. 110. Challenge for bias, prejudgment
+of personal interest.
+22. 24. 120. Hearings procedure.
+22. 24. 125. Setting the hearing.
+22. 24. 140 Qnrw nt the reeeFdo
+4.. r....Slil•;
+C3C SIili
+22.24.150. Objections to jurisdiction,
+procedure, notice or
+qualifications.
+22.24.160. Reopeningthe record.
+22.24.010. Filingof staff reportfor hearing.
+A. At the time an applicationthat in the
+judgmentof the PlanningDirectorrequiresa
+hearingis complete, a hearingdate
+shall be set.
+B. A staff report shallbe completedseven
+7) days priorto hearing. If the reportis not
+completedby suchtime, the hearingshallbe
+heldas scheduled, but any partyir, entitled;
+open Foquest made at the m;
+rs' a continuanceof the hearingtoa date
+thatis at least sevendaysafterthe datethe
+initial staff reportis complete. W
+xx
+0 S++ N4k MKi W V
+C. A copyof the staff reportshallbe
+mailed to the applicant, shall be made
+available to such other persons who request a
+copy and shallbe filed with the Hearings
+Body.
+D. Oral or written modifications and
+additionsto the staff report shall be allowed
+priorto or at the hearing. (Ord. 96-071 § 1D,
+1996; Ord. 95- 045 § 11, 1995; Ord. 90- 007 § 1,
+1990)
+22.24. 020. Hearingsbody.
+A. The followingshall serveas the
+HearingsBodyin this order:
+1. Hearings Officer.
+2. Planning Commission, where the
+Planning Commissioninitiatesa reviewof an
+administrative action or Hearings Officer's
+decision pursuant to Section 22. 28. 050 of this
+title€
+ij
+dt`?': I` I#> st€ t` iiII::.,
+Agog:; r : >: tt t.
+3 Board" of County Commissioners.
+B. Where the Hearings Officer declines
+to heara matter on the groundsof a conflict
+of interest, the Planning Commissionshall
+substitute for the Hearings Officer. In the
+Redmond Urban Area, the initial Hearings
+Bodyfor a quasi- judicialplan amendmentor
+zone changemay at the discretionof the
+Planning Directorbe either the Planning
+Commissionor the Hearings Officer. ( Ord.
+96- 071 § 1D, 1996; Ord. 95- 045 § 11A, 1995;
+Ord. 90- 007 § 1, 1990)
+22.24. 030. Noticeof hearingor
+administrative action.
+A. Individual Mailed Notice.
+1. Except as otherwise provided for
+herein, notice of a land use application shall
+be mailedat least twenty (20) days priorto
+the hearingfor those mattersset for hearing,
+or within ten ( 10) days after receipt of ani
+eempletg applicationfor those mattersto be
+processed administratively with notice.
+1 - EXHIBITD TO ORDINANCENO. 96- 071 (12-30-96)
+Written notice shall be sent by mail to the
+following persons:
+a. The applicant.
+b. Owners of record of property as shown
+on the most recent property tax assessment
+roll of property located:
+1. Within one hundred ( 100) feet of the
+property that is the subject of the notice
+where any part of the subject property is
+within an urban growth boundary;
+2. Within two hundred fifty ( 250) feet of
+the property that is the subject of the notice
+where the subject property is outside an urban
+growth boundary and not within a farm or
+forest zone; or
+3. Within five hundred ( 500) feet of the
+property that is the subject of the notice
+where the subject property is within a farm or
+forest zone.
+c. For a solar access or solar shade
+exception application, only those owners of
+record identified in the application as being
+burdened by the approval of such an
+application.
+d. The owner of a public use airport if
+the airport is located within 10, 000 feet of the
+subject property.
+e. The tenants of a mobile home park
+when the application is for the rezoning of any
+part or all of a mobile home park.
+f. The planning commission.
+g. Any neighborhood or community
+organization formally recognized by the board
+under criteria established by the board whose
+boundaries include the site.
+2. Notwithstanding subsection A. La. Lof
+this section, all ownersof property within 250
+feet of property that is the subject of a plan
+amendment application or zone change
+application shall receive notice.
+3. The failure of a property owner to
+receive mailed notice shall not invalidate any
+land use approval if the Planning Division can
+show by affidavit that such notice was given.
+B. Posted Notice.
+1. Notice of a land use action application
+for which prior notice procedures are chosen
+shall be posted on the subject property for at
+0156- 4808
+least 10 continuous days prior to any lig
+e+ date set for receipt of comments. Such
+notice shall, where practicable, be visible from
+any adjacent public way.
+2. Posted notice of an application for a
+utility facilityline approvalshallbebyposting
+the proposed route at intervals of not less
+than one- half mile. The notice shall be posted
+as close as practicable to, and be visible from,
+anypublic way in the vicinity of the proposed
+route.
+3. Notice of a solar access application
+shall be posted as near as practicable to each
+lot identified in the application.
+C. Published Notice. In addition to
+notice by mail and posting, notice of a ` t t ..;I
+hearingshallbepublishedin anewspaperof
+general circulation in the County at least
+twenty (20) daysprior to the hearing.
+D. Media Notice. Copies of the notice of
+hearing shall be transmitted to other
+newspapers published in Deschutes County.
+Ord. 96- 071 § 1D, 1996; Ord. 95- 071 § 1,
+1995; Ord. 95- 045 § 12, 1995; Ord. 91- 013 §
+7- 8, 1991; Ord. 90- 007 § 1, 1990)
+22. 24. 040. Contents of notice.
+A. All mailed notices of a land use action
+hearing ,. use, aetio ppli,. ati@R
+subjest to administrative doeision shall:
+1. Describe the nature of the applicant' s
+request and the nature of the proposed uses
+that could be authorized.
+2. List the criteria from the zoning
+ordinance and the plan applicable to the
+application at issue.
+3. Set forth the street address or easily
+understood geographical reference to the
+subject property.
+2 - EXHIBIT D TO ORDINANCE NO. 96- 071 ( 12-30- 96)
+4. State the date, time and location of
+any hearing or date by which written
+comments must be received.
+5. Statethat anypersonmaycomment in
+writing and include a general explanation of
+the requirements for submissionof testimony
+and the procedures for conduct of testimony,
+6. If a hearing is to be held, state that
+any interested person may appear.
+7. State that failure to raise an issue in
+person at a hearing or in writing precludes
+appeal by that person to the Land Use Board
+of Appeals ( LUBA), and that failure to
+provides sufficient
+speei€iGky to afford the decision -maker an
+opportunity to respond to the issue precludes
+appeal to LUBA based on that issue.
+8. State the name of a county
+representative to contact and the telephone
+number where additional information maybe
+obtained.
+9. Statethat a copyof the application, all
+documents and evidence rid— pen
+skt by ?' f the applicant and
+applicable criteria are available for inspection
+at no cost and will be provided at reasonable
+cost.
+10. State that a copy of the staff report
+will be available for inspection at no cost at
+least seven (7) daysprior to the hearing and
+will be provided at reasonable cost.
+11. All mailed notices shall contain the
+following statement: NOTICE TO
+MORTGAGEE, LIENHOLDER, VENDOR
+OR SELLER: ORS CHAPTER 215
+REQUIRES THAT IF YOU RECEIVE
+THIS NOTICE, IT MUST PROMPTLY BE
+FORWARDED TO THE PURCHASER.
+B. All mailed and published notices for
+hearings shall contain a statement that
+recipients may request a copy of the staff
+report.
+C. All mailed and published notices
+concerning applications necessitating an
+exception to one of the statewide land use
+II1tJ- 0809
+planning goals shall state that a goal exception
+is proposed and shall summarize the issues in
+an understandable manner. ( Ord. 96- 071 §
+1D, 1996; Ord. 95- 045 § 13, 1995; Ord. 90- 007
+1, 1990)
+22. 24. 050. Burden of proof.
+Throughout all local land use proceedings,
+the burden of proof rests on the applicant.
+Ord. 95- 045 § 14, 1995; Ord. 90- 007 § 1,
+1990)
+22. 24. 060. Nature of evidence.
+All relevant evidence shall be received.
+Ord. 90- 007 § 1, 1990)
+22. 24. 070. Limitation on oral presentations.
+The Hearings Body may set reasonable
+time limits on oral testimony. ( Ord. 90- 007 §
+1, 1990)
+C. Additionally, any owner of property to
+be burdenedby a solar accesspermit shall be
+considered a party at every stage of the solar
+access permit decision process. ( Ord. 96- 071
+1D, 1996; Ord. 95- 045 § 15, 1995; Ord.
+90- 007 § 1, 1990)
+22. 24. 090. Record.
+A. A magnetic tape record of the hearing
+shall be made.
+B. All exhibits presented shall be marked
+to show the identity of the person offering the
+3 - EXHIBIT D TO ORDINANCE NO. 96-071 ( 12-30-96)
+exhibit.
+C. Exhibits shall be numbered in the
+order presented in two categories, proponents
+and opponents, and shall be dated.
+D. When exhibits are introduced, the
+proponent or opponent exhibit number or
+letter shall be read into the record. ( Ord.
+90- 007 § 1, 1990)
+22. 24. 100. Disclosure of ex parte contacts.
+Prior to making a decision, the Hearings
+Body or any member thereof shall not
+communicate directly or indirectly with any
+party or his representative in connectionwith
+any issue involved in a pending hearing except
+upon notice and opportunity for all parties to
+participate. Should such communication -
+whether written or oral - occur, the Hearings
+Body member shall:
+A. Publicly announce for the record the
+substance of such communication; and
+B. Announce the parties' right to rebut
+the substance of the ex parte communication
+during the hearing.
+Communication between County staff and
+the Hearings Body shall not be consideredto
+be an ex parte contact. ( Ord. 90- 007 § 1,
+1990)
+22. 24. 105. Disclosure of personal
+knowledge.
+A. If the Hearings Body or any member
+thereof uses personal knowledge acquired
+outside of the hearing process in rendering a
+decision, the Hearings Body or member
+thereof shall state the substance of that
+knowledge on the record and allow all parties
+the opportunity to rebut such statement on
+the record.
+B. For the purposes of this section, a site
+visit by the Hearings Body shall be deemed to
+fall within this rule. After the site visit has
+concluded, the Hearings Body must disclose
+its observations and conclusions gained from
+the site visit in order to allow for rebuttal by
+the parties. ( Ord. 95- 045 § 16, 1995)
+0156- 0810
+22. 24. 110. Challenge for bias, prejudgment
+or personal interest.
+Prior to or at the commencement of a
+hearing, any party may challenge the
+qualification of the Hearings Body, or a
+member thereof, for bias, prejudgment or
+personal interest. The challenge shall be
+made on the record and be documented with
+specific reasonssupported by facts. Should
+qualifications be challenged, the Hearings
+Body or the membershall disqualifyitself,
+withdraw or make a statement on the record
+of its capacity to hear. A Planning
+Commission member with a conflict identified
+under ORS 215.035 must disqualify him or
+herself after disclosure. ( Ord. 90- 007 § 1,
+1990)
+22. 24. 120. Hearings procedure.
+A hearingshallbeconductedasfollows:
+A. The Hearings Body shall explain the
+purpose of the hearing and announce the
+order of proceedings, including reasonable
+time limits on presentations by parties.
+B. A statement by the Hearings Body
+regardingpre -hearingcontacts, bias, prejudice
+or personal interest shall be made.
+C. Any facts received, noticed or
+recognized outside of the hearing shall be
+stated for the record.
+D. Challenges to the Hearings Body' s
+qualifications to hear the matter shall be
+stated and challenges entertained.
+E. The Hearings Body shall list applicable
+substantive criteria, explain that testimony and
+evidence must be directed toward that criteria
+or other criteria in the comprehensive plan or
+land use regulations that the person believes
+to apply to the decision, and that failure to
+address an issue with sufficient specificity to
+afford the decision - maker and the parties an
+opportunity to respond precludes appeal to
+LUBA based on that issue.
+F. Order of presentation:
+1. Open the hearing.
+2. Staff report.
+3. Proponents' presentation.
+4. Opponents' presentation.
+4 - EXHIBIT D TO ORDINANCE NO. 96- 071 ( 12-30- 96)
+5. Proponents' rebuttal.
+6. Opponents' rebuttal maybe allowed at
+the Hearings Body' s discretion.
+7. Staff comment.
+8. Questions from or to the chair may be
+entertained at any time at the Hearings Body' s
+discretion.
+9. Close the hearing.
+G. The record shall be available for public
+review at the hearing.
+H. A form of preliminary statement
+incorporating the provisions of this section is
+set forth as Appendix A to this title for use by
+the Board of County Commissioners. (Ord.
+90- 007 § 1, 1990)
+22. 24. 125. Setting the hearing.
+A.
+hearingdatemaybechangedbythe County
+staff, t' the Hearings Body up
+untilthetimenoticeof thehearingismailed.
+Once the notice of hearing is mailed
+hearing J—ate is get any changes in the
+hearing date shall be processed as a
+continuance in accordance with section
+22. 24. 439. of this title.
+B. If an applicant requeststhat a hearing
+date be changed, such request shall be granted
+only if the applicant agreesthat the extended
+time period for the hearing shall not count
+against the 120 -day time limit set forth in
+Section 22. 20. 040. ( Ord. 96- 071 § 1D, 1996;
+Ord. 95- 045 § 17, 1995)
+5 - EXHIBIT D TO ORDINANCE NO. 96- 071 ( 12-30- 96)
+MOVE Fl. " TrMIM
+MIEFT
+Y.
+5 - EXHIBITD TO ORDINANCENO. 96- 071 ( 12-30- 96)
+1995; Ord. 91- 013 § 9, 1991; Ord. 90- 007 § 1,
+1990)
+6 - EXHIBIT D TO ORDINANCE NO. 96- 071 ( 12-30- 96)
+22. 24. 150. Objections to jurisdiction,
+procedure, notice or
+qualifications.
+Any objections not raised prior to the
+close of oral testimony are waived. Parties
+alleging procedural error shall have the
+burden of proof at LUBA as to whether the
+error occurred and whether the error has
+prejudiced the party' s substantial rights. ( Ord.
+95- 045 § 20, 1995; Ord. 90- 007 § 1, 1990)
+h tud Anl<, The Planning pirwnter shall
+efir. 0'ar-aged- to 4A.xA__Ak_ eat a mutually agreeable
+ties — any - susl
+hit to be a Part Af the reV(4; d.
+B. g Dnnerii as n Matte
+Dissratie4r
+A Vn- e Hearings Body may at its
+discretion olest to reopen the record,
+event,an the uoi. i++. 1Qo.i., tel,; ll state the
+fif>> t3 the manner of testimony
+whether oral or written) and time limits for
+testimony to be offered upon reopening of the
+record shall be at the discretion at the
+Hearings Body.
+7 - EXHIBIT D TO ORDINANCE NO. 96-071 ( 12-30-96)
+22. 24. 150. Objectionsto jurisdiction,
+procedure, notice or
+qualifications.
+Any objectionsnot raised prior to the
+close of oral testimonyare waived. Parties
+alleging proceduralerror shall have the
+burdenof proofat LUBAas to whetherthe
+error occurred and whether the error has
+prejudicedthe party's substantialrights. (Ord.
+95- 045 § 20, 1995; Ord. 90- 007 § 1, 1990)
+h tud Anl<, The Planning pirwnter shall
+efir.0' ar- aged- to 4A.xA__Ak_ eat a mutually agreeable
+ties — any - susl
+hit to be a Part Af the reV(4; d.
+B. g Dnneriias n Matte
+Dissratie4r
+A Vn- e Hearings Body may at its
+discretion olest to reopen the record,
+event,an the uoi. i++. 1Qo.i., tel,; ll state the
+fif>> t3 the mannerof testimony
+whether oral or written) and time limits for
+testimonyto be offeredupon reopeningof the
+record shall be at the discretion at the
+HearingsBody.
+7 - EXHIBITD TO ORDINANCENO. 96- 071 (12-30-96)
+EXHIBIT E
+Chapter 22. 28. LAND USE ACTION
+DECISIONS
+22. 28. 010. Decision.
+22. 28. 020. Notice of decision.
+22. 28. 030. Decision on plan amendments
+and zone changes.
+22. 28. 040. Reapplication limited.
+22.28.050. Review by planning commission
+and board.
+22. 28. 060. Proposed order.
+22. 28. 070. Compliance with ORS 215. 418.
+22. 28. 080. Correction of clerical errors.
+22. 28. 010. Decision.
+A. Approval or denial of a land use
+action shall be based upon and accompanied
+by a brief statement that explains the criteria
+and standards considered relevant to the
+decision, states the facts relied upon in
+rendering the decision and explains the
+justification for the decision based upon the
+criteria standards and facts set forth.
+B. Any portion of an application not
+addressed in a Hearings Body' s decision shall
+be deemed to have been denied.
+C. A decision on a land use action is not
+final until the Planning Director or Hearings
+Body issues a written decision, the decision or
+notice of the decision has been mailed and the
+appeal period to the next higher Hearings
+Body within the County has run.
+D. Unless a temporary use permit has
+been issued, no building permit shall issue
+until a decision is final. Appeal of a final
+decision to LUBA doesnot affect the finality
+of a decision for purposesof issuingbuilding
+permits. ( Ord. 95- 045 § 22, 1995; Ord. 90- 007
+1, 1990)
+22. 28. 020. Notice of decision.
+A Hearings Body's decision shall be in
+writing andmailed to all parties; however, one
+person may be designated by the Hearings
+Body to be the recipient of the decision for a
+group, organization, group of petitioners or
+similar collection of individual participants.
+Ord. 90- 007 § 1, 1990)
+22. 28. 030. Decision on plan amendments
+and zone changes.
+A. Except as set forth herein, the
+Hearings Officer or the Planning Commission
+when acting as the Hearings Body shall have
+authority to make decisions on all
+quasi- judicial zone changes and plan
+amendments. Prior to becoming effective, all
+quasi- judicial plan amendments and zone
+changes shall be adopted by the Board of
+County Commissioners.
+B. In considering all quasi-judicial zone
+changes and those quasi- judicial plan
+amendments on which the Hearings Officer
+hasauthority to make a decision, the Board of
+County Commissioners shall, in the absence of
+an appeal or review initiated by the board,
+adopt the Hearings Officer' s decision. No
+argumentor further testimonywill be takenby
+the board.
+C. Plan amendments and zone changes
+requiring an exception to the goals or
+concerning lands designated for forest or
+agricultural use shall be heard de novo before
+the Board of County Commissionerswithout
+the necessityof filing an appeal, regardlessof
+the determination of the Hearings Officer or
+Planning Commission. Such hearing before
+the board shall otherwise be subject to the
+1 - EXHIBIT E TO ORDINANCE NO. 96- 071 ( 12-30- 96)
+same procedures as an appeal to the board
+under this title.
+D. Notwithstanding subsection C of this
+section, when a plan amendment subject to a
+subsection C hearing before the Board of
+County Commissionershasbeenconsolidated
+for hearing before the Hearings Officer with
+a zone change or other permit application not
+requiring a hearing before the board under
+subsection C, any party wishing to obtain
+review of the Hearings Officer' s decision on
+any of those other applications shall file an
+appeal. The plan amendment shall be heard
+by the board consolidated with the appeal of
+those other applications. ( Ord. 95- 045 § 23,
+1995; Ord. 90- 007 § 1, 1990)
+22. 28. 040. Reapplication limited.
+A. If a specific application is denied on
+the merits, no reapplication for substantially
+the same proposal may be made for six (6)
+months following the date of the final
+decision.
+B. Notwithstanding subsectionA of this
+section, a final decision bars any reapplication
+for a nonconforming use verification or for a
+determination on whether an approval has
+been initiated. A lot of record determination
+shall be subject to reapplication under
+subsection A only if the applicant presents
+new factual evidence not submitted with the
+prior application. ( Ord. 95- 045 § 24, 1995;
+Ord. 90- 007 § 1, 1990)
+22.28.050. Review by planning commission
+and board.
+A. Review of an administrative action or
+a Hearings Body'sdecisionmaybe initiated by
+not less than two members of either the
+Planning Commissionor the Board of County
+Commissioners. Ts
+B. The review shall be initiated in writing
+within ten ( 10) days of the date of the mailing
+of the final written decision of the Planning
+Director or lower Hearings Body.
+6r r a/ -
+g6P-
+V g u `
+C. Review shall be conducted in the same
+manner provided for in appeals, except that an
+appeal fee and transcript shall not be
+required. Any board order calling up for
+review a decision shall specify whether the
+board will review the decision called up on the
+record or de novo and whether it intends to
+limit the issues on review to certain specified
+issues. ( Ord. 96- 071 § 1E, 1996; Ord. 95- 045
+25, 1995; Ord. 90- 007 § 1, 1990)
+22. 28. 060. Proposed order.
+The Hearings Body may request that any
+prevailing party draft a set of proposed
+findings and conclusions. ( Ord. 95- 045 § 26,
+1995; Ord. 90- 007 § 1, 1990)
+22.28. 070. Compliance with ORS 215. 418.
+A. Final approval of any activity referred
+to in ORS 215. 418( 1) regarding
+state -identified wetlands must include the
+notice statements required by ORS
+215. 418( 3).
+B. Individual notice to the applicant and
+the owner of record consistent with ORS
+215.418(5) shall be provided, unless notice in
+the written decision notice satisfies that
+requirement.
+C. Failure of the County to provide
+notice as required in this section shall not
+invalidate County approval.
+D. This section shall not become
+operative until the Division of State Lands
+makes available to the County a copy of the
+applicable portion of the Statewide Wetland
+Inventory. ( Ord. 90- 007 § 1, 1990)
+22. 28. 080. Correction of clerical errors.
+A. Upon its own motion or the motion of
+a party, the Boardof CountyCommissioners
+may, subject to any applicable public notice
+and hearing requirements, enact an ordinance
+correctingclericalor typographicalerrors in
+plan amendment or zone change ordinances
+andanymapsappendedthereto implementing
+decisions of the Hearings Body. Such changes
+shall be entered only if the board is able to
+make a finding that the decision of the
+2 - EXHIBIT E TO ORDINANCE NO. 96-071 ( 12-30- 96)
+01a' Q16
+Hearings Body, including appendices, is not
+accurately reflected in the implementing
+ordinances.
+B. Any corrections under this section
+shall be made only within 6 months of the
+enactment of the ordinance to be corrected.
+Ord. 91- 049 § 1, 1991)
+3 - EXHIBIT E TO ORDINANCE NO. 96- 071 ( 12-30- 96)
+IW14aI1.) 10t
+Chapter 22. 30. RECONSIDERATION
+2230. 010. Reconsideration.
+2230. 020. Procedure.
+2230. 030. Limitation on reconsideration.
+2230. 010. Reconsideration.
+A. An applicant may request that the
+Hearing Officer' s decision be reconsidered as
+set forth herein. By requesting
+to have Suspendedthe Funnifigef the 120 d
+d-ev-i-s-ion time, period- fer. the, time pefied of t
+A request for
+reconsideration shall be accompanied by a fee
+establishedby the county 14'&
+C''y.;;'. k4...:. ..:....:::. i':. :.
+t........ 31
+caT. l.
+B. Grounds for reconsideration are
+limited to the following instances where an
+alleged error substantially affects the rights of
+the applicant:
+1. Correction of an error in a condition
+establishedby the Hearing Officer where the
+condition is not supported by the record or is
+not supported by law;
+2. Correction of errors that are technical
+or clerical in nature. ( Ord. 96- 071 § 1F, 1996;
+Ord. 95- 045 §§ 27 and 28, 1995)
+2230. 020. Procedure.
+A. A request for reconsideration shall be
+filed with the Planning Director within ten
+10) days of the date the decision was mailed.
+The request shall identify the allegederror in
+the Hearings Officer' s decision and shall
+specifyhow the applicant would be adversely
+affected if the alleged error were to remain
+uncorrected.
+B. Upon receipt of a request for
+reconsideration, the Planning Director shall
+forward the request for reconsideration to the
+Hearings Officer and notify the other parties
+to the proceedingof the requestand allow for
+a ten-daycomment period on the request. At
+the end of the comment period, the Hearings
+Officer shall determine whether the request
+for reconsideration has merit.
+C. The Hearings Officer shall modify the
+decision upon a determination that the
+request has merit and the alleged error
+substantially affects the applicant. Notice of
+the modification shall be sent to all parties to
+the proceeding. If the Hearings Officer
+determines that no modification is warranted,
+a determination shall issue to that effect.
+D. Filing a request for a reconsideration
+shall not be a precondition for appealing a
+decision.
+E. Filing a request for reconsideration
+stays the deadline for any party to file an
+appeal of the Hearings Officer' s decision. The
+appeal period for all parties to the proceeding
+shall commence upon mailing of a
+modification or upon mailing a determination
+that a modification is not warranted. If an
+opponent files an appeal and an applicant has
+requested reconsideration, the opponent' s
+appeal shall be stayedpending disposition of
+the request for modification. If the decision
+is not modified, the appeal will be processed
+in accordance with the procedures set forth in
+Chapter 22. 32. If the decision is modified, the
+appellant must within 10 days of the mailing
+of the modified decision file in writing a
+statement requesting that its appeal be
+activated. ( Ord. 95- 045 §§ 27 and 29, 1995)
+2230. 030. Limitation on reconsideration.
+No decision shall be reconsidered more
+than once. ( Ord. 95-045 H 27 and 30, 1995)
+1 - EXHIBIT F TO ORDINANCE NO. 96- 071 ( 12-30- 96)
+EXHIBIT G
+Chapter 2232. APPEALS
+2232. 010. Who may appeal.
+2232. 015. Filing appeals.
+2232. 020. Notice of appeal.
+2232. 022. Determination of jurisdictional
+defects.
+P::.:::::::
+22. 32. 025. Consolidation of multiple
+appeals.
+2232. 030. Hearing on appeal.
+2232. 035. Declining review.
+2232. 040. Land use action hearings on
+appeal from the hearings officer.
+2232. 050. Development action appeals.
+2232.060. Rehearing.
+2232. 070. Remands.
+2232. 080. Withdrawal of an appeal.
+2232. 010. Who may appeal.
+A. The following may file an appeal:
+1. A party;
+2. In the case of an appeal of an
+administrative decision without prior notice, a
+person entitled to notice, a person adversely
+affected or aggrieved by the administrative
+decision, or any other person who has filed
+comments on the application with the
+Planning Division; and
+3. A person entitled to notice and to
+whom no notice was mailed. A person who,
+after such notices were mailed, purchases
+property to be burdened by a solar access
+permit shall be considered a person to whom
+notice was to have been mailed; and
+4. A city, concerning an application
+within the urban area for that city, whether or
+not the city achieved party status during the
+proceeding.
+B. A person to whom notice is mailed is
+deemed notified even if notice is not received.
+Ord. 95- 071 § 2, 1995; Ord. 95- 045 § 31,
+1995; Ord. 90- 007 § 1, 1990)
+2232. 015. Filing appeals.
+A. To file an appeal, an appellant must
+file a completed notice of appeal on a form
+prescribed by the Planning Division # an
+appeal fee,
+appealed & 9M.
+B. Unless a request for reconsideration
+has been filed, the notice of appeal and
+appeal fee must be received at the offices of
+the Deschutes County Community
+Development Department no later than 5: 00
+PM on the tenth day following mailing of the
+decision. If a decision has been modified on
+reconsideration, an appeal must be filed no
+later than 5:00 PM on the tenth dayfollowing
+mailing of the decision as modified. Notices
+of Appeals may not be received by facsimile
+machine.
+G. The transer-ipt of the hearing may -W.,
+1;uh—m-itted to the, Gemmunity Development
+Depaftmeat ; A44 -h-40 45 days after. the date,
+fiefiGe of appeal is filed.
+B. If the Board of County
+Commissionersis the Hearings Body and the
+board declines review, a portion of the appeal
+fee may be refunded. The amount of any
+refund will depend upon the actual costs
+incurred by the County in reviewing the
+appeal. ( Ord. 96- 071 § 1G, 1996; Ord. 95- 045
+32, 1995; Ord. 94- 042 § 2, 1994; Ord.
+91- 013 § 11, 1991; Ord 90- 007 § 1 1990)
+2232. 020. Notice of appeal.
+Every notice of appeal shall include:
+A. A statement raising any issue relied
+upon for appeal with sufficient specificity to
+afford the Hearings Body an adequate
+opportunity to respond to and resolve each
+issue in dispute.
+B. If the Board of County Commissioners
+is the Hearings Body, a request for review by
+the board stating the reasonswhy the board
+should review the lower Hearings Body' s
+decision.
+C. If the Board of County Commissioners
+is the Hearings Body and de novo review is
+1 - EXHIBIT G TO ORDINANCE NO. 96- 071 ( 12-30- 96)
+desired, a request for de novo review by the
+board stating the reasons why the board
+should provide de novo review as provided in
+section 22. 32. 030 of this title. ( Ord. 95- 045 §
+35, 1995; Ord. 94- 042 § 3, 1994; Ord. 91- 013
+11, 1991; Ord. 90- 007 § 1, 1990)
+22. 32. 022. Determination of jurisdictional
+defects.
+A. Any failure to conform to the
+requirements of Sections 22. 32. 015 and
+22. 32. 020 shall constitute a jurisdictional
+defect.
+B. Determination of jurisdictional defects
+in an appeal shall be made by the Hearings
+Body to which an appeal has been made.
+Ord. 96- 071 § 1G, 1996; Ord. 95- 045 § 33,
+1995)
+aim
+22. 32. 025. Consolidation of multiple
+appeals.
+A. If more than one party files a notice of
+appeal on a land use action decision, the
+appeals shall be consolidated and noticed and
+heard as one proceeding.
+B. To the extent its an6eipate costs are
+more than se by the duplicate
+appeal fees received when multiple appeals
+are filed, the Planning Division may refund a
+portion of the appeal fees to the appellants in
+an equitable manner.
+C. In instances of multiple appeals where
+separate appellants have asked for a differing
+scopeof review, any grant of de novo review
+shall control over a separate request for a
+more limited review on appeal. ( Ord. 96- 071
+1G, 1996; Ord. 95-045 § 34, 1995)
+2 - EXHIBIT G TO ORDINANCE NO. 96- 071 ( 12-30- 96)
+hearing
+eOF a POF60H th@FOOfi,
+dWifig that i OF
+2. Thu ouh-st ntia4 r;nhtn Of thn P
+rt; nn
+a
+i
+1 ;
+to 6910 ;,.
+dgMNA a dO HOW hOaFiff .
+signifir. ant— poliq issoe F-@ vat- to— ale
+PEOPesed Wad ase - aeti- A-R,
+M. Except as otherwise provided in
+this chapter, the appeal shall be heard as
+provided in Chapter 22. 24, " Land Use Action
+Hearing."
+allow'?, he applicant shall proceed first in
+all appeals.
+The order of Hearings Body shall
+be as provided in Section 22. 24.020 of this
+title.
+DQ. The record of the proceedingfrom
+which appeal is taken shall be a part of the
+record on appeal.
+EH. The record for a review on the
+record shall consist of the following:
+1. A written transcript of any prior
+hearing;
+2. All written and graphic materials that
+were part of the record below;
+3. The Hearings Body decision appealed
+from;
+4. Written arguments, based upon the
+record developed below, submitted by any
+parry to the decision; and
+report st€ lu
+test - H -A.9" other than staff comment based on
+the record shallms 04
+tbetaken.
+h> ` .:.;;:;:.:.:;.................;.;;.:::;.:;;;;;:.::.
+3 - EXHIBIT G TO ORDINANCE NO. 96-071 ( 12-30- 96)
+xi The board shall not consider
+any new factual information
+pa+ty. ( Ord. 96- 071 § 1G, 1996; Ord. 95- 045 §
+36, 1995; Ord. 90- 007 § 1, 1990)
+22.32.035. Declining review.
+Except as set forth in 22. 28. 030, when
+there is an appeal of a land use action and the
+Board of County Commissioners is the
+Hearings Body:
+A. The board may on a case-by-casebasis
+or by standingorder for a classof casesdecide
+at a public meeting that the decision of the
+lower Hearings Body of an individual land use
+action or a class of land use action decisions
+shall be the final decision of the County.
+B. If the Board of CountyCommissioners
+decides that the lower Hearings Body decision
+shall be the final decision of the County, then
+the board shall not hear the appeal and the
+party appealing may continue the appeal as
+provided by law. In such a case, the County
+shall provide written notice of its decision to
+all parties. The decision on the land use
+application becomesfinal upon mailing of the
+board' s decision to decline review.
+C. The decision of the Board of County
+Commissioners not to hear a land use action
+appeal is entirely discretionary.
+D. In determining whether to hear an
+appeal, the Board of County Commissioners
+mayconsiderft:
+1. The record developed before the lower
+Hearings Body;
+2. The notice of appeal; and
+3. Recommendations of staff. ( Ord.
+96- 071 § 1G, 1996; Ord. 95- 045 § 37, 1995;
+Ord. 94- 042 § 1, 1994)
+2232. 040. Land use action hearings on
+appeal from the hearings officer.
+Redundant testimony shall not be allowed.
+Ord. 90- 007 § 1, 1990)
+015-6, 0821
+22. 32. 050. Development action appeals.
+Notice of the hearing date set for appeal
+shall be sent only to the applicant. Only the
+applicant, his or her representatives, and his
+or her witnesses shall be entitled to
+participate. Continuances shall be at the
+discretion of the Hearings Body, and the
+record shall close at the end of the hearing.
+Ord. 90- 007 § 1, 1990)
+2232. 060. Rehearing.
+Rehearings shall not be allowed. ( Ord.
+90- 007 § 1, 1990)
+2232. 070. Remands.
+Applications shall not be remanded to a
+lower level Hearings Body after appeal. ( Ord.
+90- 007 § 1, 1990)
+2232. 080. Withdrawal of an appeal.
+An appealmaybewithdrawn in writing by
+an appellant at any time prior to the rendering
+of a final decision. Subject to the existence of
+other appeals on the same application, in such
+event the appeal proceedings shall terminate
+as of the date the withdrawal is received. An
+appeal may be withdrawn under this section
+regardless of whether other non -filing parties
+have relied upon the appeal filed by the
+appellant. ( Ord. 95- 045 § 38, 1995)
+4 - EXHIBIT G TO ORDINANCE NO. 96- 071 ( 12- 30- 96)
+EXHIBIT H
+Chapter 22. 34. PROCEEDINGS ON
+REMAND
+22. 34. 010. Purpose.
+22.34.020. Hearings body.
+2234. 030. Notice and hearings
+requirements.
+2234. 040. Scope of proceeding.
+2234. 050. Effect of reversal.
+2234. 010. Purpose.
+This chapter shall govern the procedures
+to be followed where a decisionof the County
+hasbeenremandedby LUBA or the appellate
+courts or a decision has been withdrawn by
+the County following an appeal to LUBA.
+Ord. 95- 045 §§ 39 and 40, 1995)
+2234.020. Hearings body.
+The hearings body for a remanded or
+withdrawn decision shall be the hearings body
+from which the appeal to LUBA was taken.
+l> 111€ a. it the remana is to the
+Hearings Officer, the Hearings Officer' s
+decision may be appealed under this title to
+the board, subject to the limitations set forth
+herein. ( Ord. 95- 045 §§ 39 and 41, 1995)
+2234. 030. Notice and hearings
+requirements.
+A. The County shall conduct a hearingon
+any remanded or withdrawn decision, the
+scope of which shall be determined in
+accordance with the applicable provisions of
+this Chapter and state law. Unless state law
+requires otherwise, only those persons who
+were parties to the proceedings before the
+County shall be entitled to notice and be
+entitled to participate in any hearing on
+remand.
+B. The hearing procedures shall comply
+with the minimum requirements of state law
+and due process for hearings on remand and
+io- 6- 6 22
+needcomplywith the requirementsof Chapter
+22.24 only to the extent that suchprocedures
+are applicable to remand proceedings under
+state law. ( Ord. 95- 045 §§ 39 and 41A)
+2234. 040. Scope of proceeding.
+A. On remand, the Hearings Body shall
+review those issues that LUBA or the Court
+of Appeals required to be addressed. In
+addition, the board shall have the discretion to
+reopen the record in instances in which it
+deems it to be appropriate.
+B. At the board' s discretion, a remanded
+application for a land use permit may be
+modified to address issues involved in the
+remand or withdrawal to the extent that such
+modifications would not substantially alter the
+proposal and would not have a significantly
+greater impact on surrounding neighbors.
+Any greater modification would require a new
+application.
+C. If additional testimony is required to
+comply with the remand, parties may raise
+new, unresolved issues that relate to new
+evidence directed toward the issue on remand.
+Other issues that were resolved by the LUBA
+appeal or that were not appealed shall be
+deemed to be waived and may not be
+reopened. ( Ord. 95- 045 §§ 39 and 42, 1995)
+2234. 050. Effect of reversal.
+A land use decision reversed by LUBA or
+the Court of Appeals that results in a final
+appellate judgment or order of reversal cannot
+be further heard by the Countyin the absence
+of an amended or a new application.
+Submission of a revised application shall be
+governedby the time limit set forth in Section
+22. 28. 040. ( Ord. 95-045 H 39 and 43, 1995)
+1 - EXHIBIT H TO ORDINANCE NO. 96-071 ( 12-30- 96)

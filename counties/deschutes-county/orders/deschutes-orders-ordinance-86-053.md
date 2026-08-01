@@ -1,0 +1,233 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-86-053
+title: 'Ordinance No. 86-053'
+doc_type: ordinance
+citation: 'Ordinance No. 86-053'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616613833_1986-12415-Ordinance%20No.%2086-053%20Recorded%206_30_1986.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 46e85f52a2f1128f0ba03ee0134252cd42c4c75b923c9e1c53c7c43d81d167dc
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 86-053 (Ordinance No. 86-053)
+
+## At a glance
+
+Ordinance No. 86-053 — orders of Deschutes County. 5 pages.
+
+## Full text
+
+REVIEWED
+Y
+V
+86- 12415
+LEGAL COUNSEL1
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Ordi-
+nance No. PL - 15, Deschutes
+County Zoning Ordinance of
+1979, As Amended, To Amend
+Definition of Rimrock, To
+Amend Rimrock Setback Require-*
+ments, To Create Exceptions, *
+Adopting Findings and Conclu- *
+sions, and Declaring An Emer- *
+gency.
+ORDINANCE NO. 86- 053
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. Section 1. 030( 105A), Ordinance No. PL - 15, is
+amended to read as follows:
+105A) Rimrock. Any ledge, outcropping or top or
+overlying stratum of rock, which forms a face
+in excess of 45 degrees, and which creates or
+is within the canyon of the following rivers
+and streams:
+1) Deschutes River;
+2) Crooked River;
+3) Fall River;
+4) Little Deschutes River;
+5) Spring River;
+6) Paulina Creek;
+7) Squaw Creek; and
+8) Tumalo Creek.
+For the purpose of this Ordinance, the edge of
+the rimrock is the uppermost rock ledge or
+outcrop of rimrock."
+Section 2. Section 4. 010, Exclusive Farm Use - EFU 320,
+1 - ORDINANCE NO. 86- 053
+vot 72
+Ordinance No. PL - 15, Deschutes County Zoning Ordinance of 1979,
+as amended, is further amended to add the following:
+8) Rimrock Setback. Setbacks from rimrock shall be
+as provided in Section 5. 240 of this Ordinance."
+Section 3. Section 4. 020, Exclusive Farb Use - EFU 80,
+Ordinance No. PL - 15, Deschutes County Zoning Ordinance of 1979,
+as amended, is further amended to add the following:
+8) Rimrock Setback. Setbacks from rimrock shall be
+as provided in Section 5. 240 of this Ordinance."
+Section 4. Section 4. 030, Exclusive Farm Use - EFU- 40,
+Ordinance No. PL - 15, Deschutes County Zoning Ordinance of 1979,
+as amended, is further amended to add the following:
+8) Rimrock Setback. Setbacks from rimrock shall be
+as provided in Section 5. 240 of this Ordinance."
+Section 5. Section 4. 040, Exclusive Farm Use, EFU- 20,
+Ordinance No. PL - 15, Deschutes County Zoning Ordinance of 1979,
+as amended, is further amended to add the following:
+9) Rimrock Setback. Setbacks from rimrock shall be
+as provided in Section 5. 240 of this Ordinance."
+Section 6. Section 4. 060, Multiple Use Agricultural Zone,
+MUA, Ordinance No. PL - 15, Deschutes County Zoning Ordinance of
+1979, as amended, is further amended to add the following:
+8) Rimrock Setback. Setbacks from rimrock shall be
+as provided in Section 5. 240 of this Ordinance."
+Section 7. Section 4. 070, Forest Use, F- 1, Ordinance No.
+PL - 15, Deschutes County Zoning Ordinance of 1979, as amended, is
+further amended to add the following:
+7) Rimrock Setback. Setbacks from rimrock shall be
+as provided in Section 5. 240 of this Ordinance."
+Section 8. Section 4. 080, Forest Use, F- 2, Ordinance No.
+PL - 15, Deschutes County Zoning Ordinance of 1979, as amended, is
+further amended to add the following:
+10) Rimrock Setback. Setbacks from rimrock shall be
+as provided in Section 5. 240 of this Ordinance."
+Section 9. Section 4. 085, Forest Use, F- 3, Ordinance No.
+PL - 15, Deschutes County Zoning Ordinance of 1979, as amended, is
+further amended to add the following:
+2 - ORDINANCE NO. 86- 053
+VOL " 72 PAF 383
+10) Rimrock Setback. Setbacks from rimrock shall be
+as provided in Section 5. 240 of this Ordinance."
+Section 10. Section 4. 090( 5), Open Space and Conservation
+Zone, OS& C, Ordinance No. PL - 151 Deschutes County Zoning Ordi-
+nance 01979, as amended, is further amended to add the follow-
+ing:
+5)( E) Setbacks from rimrock shall be as provided in
+Section 5. 240 of this Ordinance."
+Section 11. Section 4. 100( 5), Surface Mining Zone, SM,
+Ordinance No. PL - 15, Deschutes County Zoning Ordinance of 1979,
+as amended, is further amended to add the following:
+5)( 0) Setbacks from rimrock shall be as provided in
+Section 5. 240 of this Ordinance."
+Section 12. Section 4. 110( 5), Surface Mining Reserve Zone,
+SMR, Ordinance No. PL - 15, Deschutes County Zoning Ordinance of
+1979, as amended, is further amended to add the following:
+5)( F) Setbacks from rimrock shall be as provided in
+Section 5. 240 of this Ordinance."
+Section 13. Section 4. 120, Rural Residential, RR - 10, Ordi-
+nance No. PL - 15, Deschutes County Zoning Ordinance of 1979, as
+amended, is further amended to add the following:
+8) Rimrock Setback. Setbacks from rimrock shall be
+as provided in Section 5. 240 of this Ordinance."
+Section 14. Section 4. 130, Rural Service Center Zone, RSC,
+Ordinance No. PL - 151 Deschutes County Zoning Ordinance of 1979,
+as amended, is further amended to add the following:
+11) Rimrock Setback. Setbacks from rimrock shall be
+as provided in Section 5. 240 of this Ordinance."
+Section 15. Section 4. 140, Rural Service Residential - M,
+RSR - M, Ordinance No. PL - 15, Deschutes County Zoning Ordinance of
+1979, as amended, is further amended to add the following:
+10) Rimrock Setback. Setbacks from rimrock shall be
+as provided in Section 5. 240 of this Ordinance."
+Section 16. Section 4. 150( 6), Rural Service Residential -
+RSR - 5, Ordinance No. PL - 15, Deschutes County Zoning Ordinance of
+1979, as amended, is further amended to read as follows:
+6) Other Standards. The conditions contained in
+3 - ORDINANCE NO. 86- 053
+VOL 72 PAGE384
+subsections 4. 140( 6), ( 7), ( 8), ( 9) and ( 10) shall
+apply in the RSR - 5 zone."
+Section 17. Section 4. 160, Airport Development Zone, A - D,
+Ordinance No. PL - 15, Deschutes County Zoning Ordinance of 1979,
+as amended, is further amended to add the following:
+10) Rimrock Setback. Setbacks from rimrock shall be
+as provided in Section 5. 240 of this Ordinance."
+Section 18. Section 4. 220, Rural Industrial Zone, R- 1,
+Ordinance No. PL - 15, Deschutes County Zoning Ordinance of 1979,
+as amended, is further amended to add the following:
+11) Rimrock Setback. Setbacks from rimrock shall be
+as provided in Section 5. 240 of this Ordinance."
+Section 19. Section 4. 230, Research and Development Zone,
+R& D, Ordinance No. PL - 15, Deschutes County Zoning Ordinance of
+1979, as amended, is further amended to add the following:
+11) Rimrock Setback. Setbacks from rimrock shall be
+as provided in Section 5. 240 of this Ordinance."
+Section 20. Paragraphs ( A)( 5), ( B)( 6), ( C)( 7), ( D)( 5),
+E)( 67 ( F)( 3), and ( G)( 5) of subsection 2 of Section 4. 240,
+Planned Community Zone, PC, Ordinance No. PL - 15, Deschutes County
+Zoning Ordinance of 1979, as amended, are further amended to add
+the following:
+Rimrock Setback. Setbacks from rimrock shall be
+as provided in Section 5. 240 of this Ordinance."
+Section 21. Section 5. 240, Ordinance No. PL - 15, Deschutes
+County Zoning Ordinance of 1979, as amended, is further amended
+to read as follows:
+Section 5. 240. Rimrock Setbacks.
+1) All structures shall be set back a minimum of
+20 feet from the edge of the rimrock, as
+defined in Section 1. 030( 105A) of this Ordi-
+nance.
+2) The 20 - foot rimrock setback shall not apply
+to decks so long as the railing or other man-
+made border around the deck does not exceed 4
+feet in height and is not of solid construc-
+tion. However, no deck shall be set back
+less than 3 feet from any rimrock.
+4 - ORDINANCE NO. 86- 053
+y
+VOL 72 ?A.CE385
+3) If there is more than one rimrock ledge or
+outcrop within the river or stream canyon,
+the 20 - foot setback requirement shall be
+measured from the rimrock which is furthest
+from the river or stream.
+4) If the 20 foot setback is within 100 feet of
+the mean high water mark of the river or
+stream, the structure may be granted an
+exception to the 100 - foot river or stream
+setback, as provided under Section 6. 040 of
+this Ordinance, if it meets the criteria
+under subsection ( 5)( B)( 2) of that Section.
+However, under no circumstances shall the
+structure be set back less than 20 feet from
+the rimrock."
+Section 22. The Board of County Commissioners adopts as its
+findings and conclusions supporting the amendments in Sections 1
+through 21 of this Ordinance the Staff Report, dated May 21,
+1986, relating to the Deschutes River Corridor.
+Section 23. This Ordinance being necessary for the imme-
+diate preservation of the public peace, health and safety, an
+emergency is declared to exist, and this Ordinance takes effect
+on its passage.
+6DATED this ay of , 1986.
+a0ARDOF COUNTY COMMISSIONERS
+OF Q CHUTW COUNTY, QRIE_ GON
+LO -VV BRISTOW, PRANTE, Chair
+ATTEST:
+LAUR E LE, Commissioner
+1'al JDA& 499Q, ti (—
+Recording Secretary D K MAUDLI , Co missioner
+5 - ORDINANCE NO. 86- 053

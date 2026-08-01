@@ -1,86 +1,90 @@
 # Corpus configuration — the single source of truth the toolkit reads.
 corpus:
-  id: "{{CORPUS_ID}}"                # = repo name, e.g. oregon-records-retention
-  name: "{{CORPUS_NAME}}"            # display name
-  jurisdiction: "{{JURISDICTION}}"   # e.g. oregon | oregon/marion-county | oregon/salem
-  archetype: "{{ARCHETYPE}}"         # document | api | hybrid
-  # Where the OFFICIAL text lives — the ORS/OAR landing page, the SoS Archives
-  # schedules page, the legislature's bill site. Emitted on every MCP response
-  # (interface contract, response convention 1). Not optional in practice: the
-  # disclaimer on every response tells an agent this copy is non-authoritative and to
-  # "verify at source", and without this it is never told WHERE the source is. All four
-  # corpora that predate this key shipped without one, and every agent asking them
-  # `corpus_overview` was given that dead end. Requires corpus-toolkit >= 1.7.0;
-  # corpus-validate-frontmatter warns while it is unset.
-  authoritative_source: "{{AUTHORITATIVE_SOURCE_URL}}"
+  id: "oregon-counties"
+  name: "Oregon Counties — Code, Ordinances, Policy and Land Use"
+  jurisdiction: "oregon"             # corpus-level. Each DOCUMENT carries
+                                     # oregon/<slug>-county; the frontmatter pattern
+                                     # ^[a-z0-9-]+(/[a-z0-9-]+)*$ already permits it, so
+                                     # this corpus needs no schema change anywhere.
+  archetype: "document"
+  # There is no single official source for 36 counties — each publishes its own law, and
+  # naming any one of them here would be wrong for the other 35. The Oregon Association of
+  # Counties directory is the closest thing to an authoritative ROSTER, and it is a roster,
+  # not a repository: it holds no county law. `_meta/counties.yml` carries the per-county
+  # official URL, which is what an agent actually needs to verify a document at source.
+  authoritative_source: "https://oregoncounties.org/counties/"
   schema_version: 1
   contract_version: 1
 
-content_roots:                       # where document files live (document/hybrid).
-                                     # jurisdiction-wide root: one doc_type for the
-                                     # whole directory —
-  - path: "documents"
-    doc_type: "{{DOC_TYPE}}"
-                                     # issuing-body-scoped root: <path>/<slug>/<subdir> —
-  # - path: "agencies"
-  #   scoped: true
-  #   subdirs:
-  #     policies: policy
-  #     procedures: procedure
+# Issuing-body-scoped: counties/<county-slug>/<subdir>/<doc>.md
+#
+# WHY SCOPED. It buys two things no flat layout gives: every path segment is validated
+# against the 36-county registry below (a typo'd slug is a build error, not a new county),
+# and `issuing_body_slug` is populated in the FTS index from the PATH, so
+# search_corpus(issuing_body="lane-county") and issuing_body_profile work with no extra code.
+#
+# The four subdirs map 1:1 onto the four document families the 36-county survey measured, so
+# discovery output drops straight in without a translation step.
+#
+# THREE SUBDIRS SHARE doc_type: ordinance, and that is legal — ContentRoot.doc_type_for()
+# resolves per LOCATION, and expected_root_for() is only consulted for a document sitting
+# outside every root. Verified against corpus_toolkit/config.py:18 before committing to it.
+#
+# `land-use` is `ordinance` rather than `policy` because in Oregon a comprehensive plan and a
+# development code are ADOPTED BY ORDINANCE and are binding land-use law under ORS 197 — they
+# are not statements of intent, and typing them as policy would understate them.
+content_roots:
+  - path: "counties"
+    scoped: true
+    subdirs:
+      code: ordinance            # the codified county code
+      orders: ordinance          # board orders, court orders, resolutions as adopted
+      policies: policy           # HR, purchasing, public records, IT, travel
+      land-use: ordinance        # comprehensive plan, zoning, development code
 
 plugins:
-  # citation_module: "src.citation_schemes"    # calls mcp.framework.register_scheme()
-  # snapshot_slice_module: "src.slicing:slice" # (doc_id, snapshot_id, raw_text) -> str
-  # semantic_search_module: "src.semantic_search"  # module exposing available() -> bool
-  #                                                # and rank(query, want) -> [doc_id]
-  # issuing_body_registry: "_meta/catalog/issuing-bodies.yml"
-  # issuing_body_registry_key: "entries"       # the TOP-LEVEL KEY inside that file.
-  #                                            # Defaults to "entries"; if your registry
-  #                                            # is keyed differently (e.g. "organizations")
-  #                                            # and you omit this, the toolkit reads an
-  #                                            # EMPTY registry and silently enforces no
-  #                                            # slug validation at all.
-  # issuing_body_profiles: "_meta/issuing-body-profiles.yml"    # {profiles: {slug: {...}}}
-  extra_schema_checks: []            # [{path: "...", schema: "..."}, ...]
+  citation_module: "src.citation_schemes"
+  issuing_body_registry: "_meta/counties.yml"
+  # The registry's top-level key is `counties`, not the default `entries`. Getting this
+  # wrong does not error — the toolkit reads an EMPTY registry and silently enforces no slug
+  # validation at all, which is the whole reason the scoped root was chosen.
+  issuing_body_registry_key: "counties"
+  extra_schema_checks:
+    - path: "_meta/sources/*.yml"
+      schema: "_meta/schema/source-group.schema.json"
 
-# Sibling corpora this one resolves citations INTO (toolkit >= 1.1.0). Optional;
-# omit entirely and resolution stays purely local, exactly as before v1.1.0.
+# ERF holds the ORS and OAR that county instruments implement. This is the edge that makes
+# the corpus more than a document dump: a county ordinance should walk up to the state law it
+# implements. Land use is the densest case — ORS 197 and the OAR 660 statewide planning goals
+# bind county comprehensive plans directly.
 #
-# Use this instead of copying documents across corpora. A citation that resolves
-# next door stays one source of truth; a copied document becomes a second one that
-# drifts. `index_url` should point at an index the sibling PUBLISHES (e.g. from its
-# Pages build) rather than a committed file — a committed index can fall behind its
-# own corpus, and the damage lands here, as a resolution returning a stale title.
-#
-# Mark the matching citation schemes with register_scheme(..., corpus="<sibling id>").
-# siblings:
-#   - id: "sibling-corpus-name"
-#     index_url: "https://ORG.github.io/sibling-corpus-name/corpus-index.json"
-#     web_base:  "https://github.com/ORG/sibling-corpus-name/blob/main/"
+# NOT declared: oregon-audits. Measured first, and it does not earn a sibling entry — 70 of
+# 242 audit reports name an Oregon county and ZERO cite a county code, ordinance, charter or
+# board order. Counties appear there as subjects and grant recipients, not as law the auditor
+# construes. Declaring it would promise a resolution that has nothing to resolve.
+siblings:
+  - id: "executive-regulatory-frameworks"
+    index_url: "https://oregonai.github.io/executive-regulatory-frameworks/corpus-index.json"
+    web_base:  "https://github.com/OregonAI/executive-regulatory-frameworks/blob/main/"
 
 disclaimer_marker: "NON-AUTHORITATIVE"
 graph_path: "_meta/graph.json"
-source_manifest_path: "_meta/source-manifest.yml"
+# Directory mode: one group file per county. 36 counties on 6+ platforms update at
+# unrelated rates, and a single manifest would make every county's drift one county's
+# problem. Note the loader reads *.yml ONLY — a .yaml file here is silently invisible.
+source_manifest_path: "_meta/sources"
 snapshot_dir: "_meta/snapshots"
+
+mcp:
+  server_name: "oregon-counties"
+  # Surfaced on get_document so an agent can see the county's own governance form and
+  # authority basis without a second lookup — the two facts that make "what does this
+  # ordinance mean" answerable differently for a charter county and a general-law one.
+  extra_document_fields: ["authority_level", "effective_date", "source_version"]
+
+status:
+  reverify_days: 180                 # county code moves far more slowly than state rule
 
 provenance:
   coverage_fail_threshold: 0.70
   coverage_warn_threshold: 0.90
-
-# api: DELETE THIS BLOCK for archetype: document. The loader ignores it, so an
-#      orphaned api: block is silently inert — it misleads a reader into thinking
-#      live endpoints are configured when nothing reads them.
-# api:                               # api/hybrid only
-#   endpoints: []
-#   - name: "example"
-#     base_url: ""
-#     protocol: odata | soda | rest
-#     read_only: true
-#     max_results: 1000
-
-mcp:
-  server_name: "{{CORPUS_ID}}"
-  transports: [stdio, http]
-
-status:
-  reverify_days: 90                  # quarterly re-verification SLA

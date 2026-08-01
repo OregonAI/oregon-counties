@@ -1,0 +1,538 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-95-030
+title: 'Ordinance No. 95-030'
+doc_type: ordinance
+citation: 'Ordinance No. 95-030'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616709461_1995-17137-Ordinance%20No.%2095-030%20Recorded%205_18_1995.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d26ed04b76e6c048e5e5d3a0c0fbab6ba815994d2f13abeac53c2d11d9f7ffc0
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 95-030 (Ordinance No. 95-030)
+
+## At a glance
+
+Ordinance No. 95-030 — orders of Deschutes County. 10 pages.
+
+## Full text
+
+95- 1' 713' 7
+REVIEWED
+LEGAL COUNSEL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 5,
+Business Licenses and Regulations,
+of the Deschutes County Code and
+Declaring an Emergency.
+ORDINANCE NO. 95- 030
+0146- 0983
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. Amendment. Title 5, " Business Licenses and
+Regulations," as amended and as presented here in its codified form is
+further amended to read as set forth in Exhibit " A," attached hereto
+and by this reference incorporated herein, with new language in bold
+type and deletions noted in brackets.
+Section 2. Severability. The provisions of this ordinance are
+severable. If any section, sentence, clause or phrase of this
+ordinance is adjudged to be invalid by a court of competent
+jurisdiction, that decision shall not affect the validity of the
+remaining portions of this ordinance.
+Section 3. Codification. County Legal Counsel shall have the
+authority to format the provisions contained herein in a manner that
+will integrate them into the County Code consistent with the Deschutes
+County Form and Style Manual for Board Documents. Such codification
+shall include the authority to make such changes, to make changes in
+numbering systems and to make such numbering changes consistent with
+interrelated code sections. In addition, as part of codification of
+these ordinances, County Legal Counsel may insert appropriate
+legislative history reference. Any legislative history references
+included herein are not adopted as part of the substance of this
+ordinance, but are included for administrative convenience and as a
+reference. They may be changed to correct errors and to conform to
+proper style without action of the Board of County Commissioners.
+Section 4. Repeal of Ordinances as Affecting Existing
+Liabilities. The repeal, express or implied, of any ordinance,
+ordinance provision, code section, or any map or any line on a map
+incorporated therein by reference, by this amending ordinance shall not
+release or extinguish any duty, condition, penalty, forfeiture, or
+liability previously incurred or that may hereafter be incurred under
+such ordinance, unless a provision of this amending ordinance shall so
+expressly provide, and such ordinance repealed shall be treated as
+still remaining in force for the purpose of sustaining any proper
+action or prosecution for the enforcement of such duty, condition,
+penalty, forfeiture, or liability, and for the purpose of authorizing
+the prosecution, conviction and punishment of the person or persons who
+previously violated the repealed ordinance.
+EYrt :_
+riiNF1 MED
+M Y
+PAGE 1 - ORDINANCE NO. 95- 030 ( 5/ 17/ 95) 19995 915
+M
+t
+0146. 0984
+Section 5. Emergency. This ordinance being necessary for the
+immediate preservation of the public peace, health and safety, an
+emergency is declared to exist, and this ordinance takes effect on its
+passage.
+DATED this 17th day of May, 1995.
+BOARD OF COUNTY COMMISSIONERS
+OF ESCHUT S TY, OREGON
+BARRI H. SLAU TE , Ch, 4irman
+AT NA9CY OPE CHL# NGEN, Commissioner
+Recording Secretdry ROB RT L. NIPPER, Cohkalssioner
+PAGE 2 - ORDINANCE NO. 95- 030 ( 5/ 17/ 95)
+0146- 0980
+EXHIBIT " A"
+Title 5
+BUSINESS LICENSES AND REGULATIONS
+Chapters:
+5. 04 Business Licenses ( Repealed by Ord. 91-047 § 1, 1991)
+5. 08 Antique, Secondhand and Junk Dealers
+5. 12 Occupancy Regulations
+Chapter 5. 08
+ANTIQUE, SECONDHAND AND JUNK
+DEALERS
+Sections:
+5. 08. 010 Definitions.
+5. 08. 015 Definition - Antique,
+secondhand or junk dealer.
+5. 08. 020 Definition - Daily ledger.
+5. 08. 025 Definition - Dealer.
+5. 08. 030 Definition - Purchase.
+5. 08. 040 License required - Fee.
+5. 08. 050 Exemptions.
+5. 08. 060 Application for license.
+5. 08. 070 License revocation conditions.
+5. 08. 080 Regulation of premises.
+5. 08. 090 Records required.
+5. 08. 100 Retention of articles.
+5. 08. 110 Purchases from minors.
+5. 08. 120 Nuisance operations.
+5. 08. 130 Violation - Infraction.
+5. 08. 010 Definitions.
+For the purposes of this chapter, unless the
+context indicates otherwise, certain words and
+phrases used in this chapter are defined as
+follows:] set forth in 5. 08. 015- 030. ( Ord. 95-
+030 § 1, 1995; Ord. 85- 006 § 1, 1985)
+5. 08. 015 Definition - Antique,
+secondhand or junk dealer.
+Antique, secondhand or junk dealer" means
+a person engaged in the purchase, sale, trade,
+barter or exchange of antique or secondhand
+goods, including, but not limited to, precious
+metals, jewelry, coins, firearms, appliances,
+hand and power tools, sporting goods,
+binoculars, cameras, watches, televisions,
+radios, recording devices, furniture,
+calculators, electronic devices, bicycles and
+similar items, for private gain, or who have in
+their possession any junk, including, but not
+limited to, old machinery, machinery parts,
+appliance parts, metal, glass, lumber, wood
+and discarded material acquired for the
+purpose of resale. ( Ord. 85- 006 § 1, 1985)
+5. 08. 020 Definition - Daily ledger.
+Daily ledger" means a prenumbered,
+permanently bound book that contains all of
+the original entry pages in the book that were
+originally bound into the book and in which
+all entries are kept in chronological order.
+Ord. 85- 006 § 1, 1985)
+5. 08. 025 Definition - Dealer.
+Dealer" means an antique, secondhand or
+junk dealer. ( Ord. 85- 006 § 1, 1985)
+5. 08. 030 Definition - Purchase.
+Purchase" means, in addition to its
+commonly accepted meaning, acquisition of
+personal property for the purpose of resale or
+consignment. ( Ord. 85- 006 § 1, 1985)
+5. 08. [ 020] 040 License required - Fee.
+A. No person shall engage in business as a
+dealer without obtaining a license from the
+County Clerk. A license shall be valid for a
+period of one year, commencing on July 1st
+and terminating on June 30th. The initial
+annual license fee shall be $ 50. 00 for each
+place of business maintained by a dealer
+within the unincorporated areas of the county.
+The initial license fee shall not be prorated for
+a license purchased after January 1st of the
+initial year. A license, which has not been
+permanently revoked, maybe renewedfor an
+annual fee of $ 25. 00.
+B. Any dealer engaged in business as a
+dealer on the effective date of the ordinance
+codified in this chapter who makes application
+for a license prior to September 15, 1985, shall
+be exempt from the regulations adopted under
+this chapter for a period of 30 days after the
+date of such application. ( Ord. 95- 030 § 1,
+1995; Ord. 85- 030 § 1, 1985; Ord. 85- 006 § 2,
+1985)
+5. 08.[ 030] 050 Exemptions.
+The provisions of this chapter shall not
+apply to:
+A. Any bona fide secondhand automobile
+establishmentused exclusivelyfor the sale of
+Chapter 5. 08 1 ( 5/ 95)
+used automobiles;
+B. An automobile wrecking yard;
+C. A bona fide recycling center;
+D. Any charitable, religious or nonprofit
+organization;
+E. Any person holding two or fewer yard,
+garage, moving or similar sales annually;
+provided, that such person does not offer for
+sale goods acquired solely for the purpose of
+resale; and
+F. Any person offering antique,
+secondhand or junk goods for sale at a flea
+market or similar organized sales event two or
+fewer times annually; however, any exempt
+person or entity which engages in a regulated
+activity by contract with another shall comply
+with the provisions of this chapter. ( Ord. 95-
+030 § 1, 1995; Ord. 85- 006 § 4, 1985)
+5. 08. [ 040] 060 Application for license.
+A. A license shall be issued only upon the
+signed, written application of the dealer and
+shall contain such information respecting the
+owner of the business as the County Clerk
+shall determine. Upon receipt of the
+application and the fee, the County Clerk
+shall make such investigation, with the
+assistanceof the sheriff, as the County Clerk
+shall deem adequate to determine the
+financial responsibility of the applicant. The
+County Clerk shall issue a license to the
+applicant within 30 days of the date of receipt
+of the application, unless the investigation
+shows that the applicant is unfit. In the event
+the County Clerk denies an application,
+appeal shall be in accordance with Oregon
+Revised Statutes 34. 010 through 34. 100.
+Grounds for denial of an application for a
+license shall include, but not be limited to:
+1. A false statement in the license
+application;
+2. Conviction of a crime in the nature of
+theft, deception or moral turpitude;
+3. Inability to demonstrate to the clerk' s
+satisfaction an ability to comply with the terms
+of this chapter; or
+4. Failure to have obtained all necessary
+Chapter 5. 08
+zoning, planning, building and sanitation
+permits.
+B. No dealer engaged in business as a
+dealer on the effective date of the ordinance
+codified in this chapter who makes application
+for a license prior to September 15, 1985, shall
+have his application denied under this section
+on the grounds set forth in this section.
+Nothing in the chapter shall prohibit the
+county from taking enforcement action against
+any dealer found to have failed to comply with
+this or any other applicable county ordinances.
+Ord. 95- 030 § 1, 1995; Ord. 85- 030 § 2, 1985;
+Ord. 85- 006 § 3, 1985)
+5. 08. [ 050] 070 License revocation conditions.
+Upon a finding that any person licensed
+under this chapter has violated any of the
+terms of this chapter, made a false statement
+on his license application, or operated a
+licensed business in violation of any other
+ordinance or law, the license granted under
+this chapter shall be revoked for a period of
+30 days. Upon a finding that any person
+licensed under this chapter has violated any of
+the terms of this chapter, made a false
+statement on his license application, or
+operated a licensed business in violation of
+any other ordinance or law, and the license
+has been previously revoked, the license
+granted under this chapter shall be
+permanently revoked. ( Ord. 95- 030 § 1, 1995;
+Ord. 85- 006 § 10, 1985)
+5. 08.[ 060] 080 Regulation of premises.
+A. The premises and structures of a dealer
+shall be kept in a sanitary manner.
+B. The sheriffs department officers may go
+upon and inspect the premises of a dealer at
+all reasonable times. If any stolen property is
+found, the sheriffs department may remove
+the property and return it to its rightful
+owner.
+C. If there is anyoutside storageor display
+of any materials, the premises upon which the
+business of a dealer is carried on shall be
+enclosedby a proper fence or other structure
+2 ( 5/ 95)
+a
+not less than six feet high above the street
+level, constructed so that no dust or other
+material may pass through, and kept properly
+painted and in good repair. No material or
+article shall be piled so as to protrude above
+the fence.
+D. No street, sidewalk, public right of way
+or portion thereof may be used by a dealer to
+store, pile or maintain any antique, junk or
+secondhand material, except as necessary in
+the actual moving of such material. ( Ord. 95-
+030 § 1, 1995; Ord. 85- 006 § 6, 1985)
+5. 08. [ 070] 090 Records required.
+A. Every dealer conducting business at an
+establishment, and every itinerant dealer, shall
+keep a daily ledger, written in ink, in the
+English language, of all old machinery,
+machinery parts, appliance parts, metal, glass,
+lumber, wood and discarded material acquired
+for the purpose of resale, and precious metal,
+jewelry, coins, firearms, appliances, tools,
+sporting goods, binoculars, cameras, watches,
+televisions, radios, recording devices, furniture,
+calculators, electronic devices, hand and power
+tools and bicyclespurchasedby the dealer or
+his agent, including an accurate and
+sufficiently detailed description thereof, name,
+address, race, sex and date of birth of the
+personfrom whom purchasedor acquired, day
+and hour of purchase and price paid, including
+all serial numbers and required seller' s
+identification. The copy of the completed
+daily ledger sheets shall be mailed or delivered
+to the sheriff weekly.
+1. Required identification will be one of
+the following:
+a. A valid driver' s license;
+b. A valid state identification card;
+c. A valid military identification card;
+d. A valid passport, visa or alien
+registration card with photo.
+B. A daily ledger shall be sodesignedasto
+serveasboth the required daily ledger and to
+generate the required copy. The daily ledger
+shall be in the form approvedby the sheriff.
+C. All recordsrequired bythis sectionshall
+Chapter 5. 08
+be maintained by the dealer for a period of
+two years from the date of the latest
+transaction recorded therein.
+D. All records required by this section shall
+be open for inspection by any sheriff' s
+department officer at all reasonable times.
+No original entry pagesin a daily ledger shall
+be removed, detached or separated from the
+daily ledger. No entry in suchrecordsmaybe
+changed, erased, obliterated or defaced. ( Ord.
+95- 030 § 1, 1995; Ord. 85- 006 § 5, 1985)
+5. 08. [ 080] 100 Retention of articles.
+A. All items must be recorded on a daily
+ledger sheet as required by section
+5. 08. 070( A)] 5. 08. 090( A) of this chapter, and
+the items shall be retained by the dealer for a
+period of 10 days from the date that the daily
+ledger sheet copy for the item purchasedby
+the dealer is received by the county sheriffs
+department. If daily ledger sheet copies are
+mailed in the county, the 10 -day period will be
+calculated from the date the envelope
+containing the daily ledger sheet copies is
+postmarked.
+B. Whenever any dealer is notified by a
+sheriff' s department officer to retain any
+article purchasedby suchdealer to enablethe
+sheriff' s department to ascertain whether the
+article is stolen, the dealer, upon receipt of
+the notice, shall retain in his place of business
+such articles for 15 days after receipt of the
+notice. ( Ord. 95- 030 § 1, 1995; Ord. 85- 006 §
+8, 1985)
+5. 08.[ 090] 110 Purchases from minors.
+No dealer may purchaseor acquire from a
+person under 18 years of age any antique,
+junk or secondhand merchandise, or other
+article, except rags and paper. ( Ord. 95- 030 §
+1, 1995; Ord. 85- 006 § 7, 1985)
+5. 08. [ 100] 120 Nuisance operations.
+The operation, maintenance, use or location
+of an antique, secondhand or junk business by
+a dealer in violation of this chapter is declared
+3 ( 5/ 95)
+to be a nuisance. ( Ord. 95- 030 § 1, 1995; Ord.
+85- 006 § 11, 1985)
+5. 08. [ 110] 130 Violation - Infraction.
+Violation of this chapter constitutes a Class
+A infraction. ( Ord. 95- 030 § 1, 1995; Ord. 85-
+006 § 9, 1985)
+Chapter 5. 08 4 5/ 95)
+a
+Chapter 5. 12
+OCCUPANCY REGULATIONS
+Sections:
+5. 12. 010 Definitions.
+5. 12. 015 Definition - Dwelling unit.
+5. 12. 020 Definition - Overnight.
+5. 12. 025 Definition - Owner.
+5. 12. 030 Definition - Person.
+5. 12. 035 Definition - Rental occupant.
+5. 12. 040 Definition - Rents
+5. 12. 045 Definition - Sleeping area.
+5. 12. 050 Occupancy limitations.
+5. 12. 060 Posting occupancy limitations.
+5. 12. 070 Notification.
+5. 12. 080 Violation - Infraction.
+5. 12. 010 Definitions.
+As used in this chapter, unless the context
+indicates otherwise, certain words and phrases
+used in this chapter are defined as [ follows:]
+set forth in 5. 12. 015- 045. ( Ord. 95- 030 § 1,
+1995; Ord. 91- 044 § 1, 1991)
+5. 12. 015 Definition - Dwelling unit.
+Dwelling unit" means any building or
+portion thereof which contains separate living
+facilities, including provisions for sleeping,
+eating, cooking and sanitation. ( Ord. 91-044 §
+1, 1991)
+5. 12. 020 Definition - Overnight.
+Overnight" means anytime between the
+hours from 10:00 p.m. and 7:00 a.m. on the
+following day. (Ord. 91- 044 § 1, 1991)
+5. 12. 025 Definition - Owner.
+Owner" means any fee title owner, any
+person having a purchasers equitable interest
+in the property, or any personwho acts as an
+agent for such person, who rents a dwelling
+unit. ( Ord. 91- 044 § 1, 1991)
+5. 12. 030 Definition - Person.
+Person" means an individual or other legal
+entity, including a corporation, association,
+Chapter 5. 12
+0146- 0100
+firm, partnership, joint stock company, trust
+and estate. ( Ord. 91- 044 § 1, 1991)
+5. 12. 035 Definition - Rental occupant.
+Rental occupant" means a person over the
+age of four years who occupies a rented
+dwelling unit. ( Ord. 91- 044 § 1, 1991)
+5. 12. 040 Definition - Rents.
+Rents" means the granting of a right or
+licenseto usea dwelling unit in exchangefor
+money, goods or services, or combination
+thereof, or by gift, when the owner is not
+present and in charge of the dwelling unit.
+Ord. 91- 044 § 1, 1991)
+5. 12. 045 Definition - Sleeping area.
+Sleeping area" means a bedroom or loft
+within a dwelling unit which meets the
+requirements of the Uniform Building Code,
+Structural SpecialtyCode, or the CABO One
+and Two Family Dwelling Specialty Code, as
+adopted by the State of Oregon, Building
+Codes Agency. ( Ord. 91- 044 § 1, 1991)
+5.12. [020] 050 Occupancy limitations.
+Each dwelling unit in the PC Zone which
+the owner rents to an overnight rental
+occupant shall have a maximum allowable
+number of overnight rental occupants of two
+persons per sleeping area plus two additional
+persons. ( Ord. 95- 030 § 1, 1995; Ord. 91- 044
+1, 1991)
+5.12.[030] 060 Posting occupancy limitation.
+There shall be posted conspicuously on or
+near the front entrance door of each dwelling
+unit regulated by this chapter a notice
+specifying the maximum allowable number of
+overnight rental occupants that may occupy
+the dwelling unit overnight. The format of
+notices of the maximum allowable number of
+overnight occupants that may occupy the
+dwelling unit shall be as shown in Exhibit " 1",
+attached hereto and by this reference
+incorporated herein. ( Ord. 95- 030 § 1, 1995;
+Ord. 91- 044 § 1, 1991)
+5/ 95)
+0146- 9991
+5. 12. [ 040] 070 Notification.
+Any person who rents or offers for rent a
+dwelling unit for overnight rental occupancyin
+the PC Zone shall inform the prospective
+overnight rental occupant of the maximum
+allowable overnight occupancy. ( Ord. 95- 030
+1, 1995; Ord. 91- 044 § 1, 1991)
+5. 12. [ 060] 080 Violation - Infraction.
+Violation of any provision of this chapter
+constitutes an infraction as follows:
+A. Any person who rents or offers for rent
+a dwelling unit in the PC Zone without
+posting the maximum allowable overnight
+occupancy commits a class B infraction.
+B. Any person who rents for money a
+dwelling unit in the PC Zone without
+informing, in writing, in the rental agreement
+or by separate document, the prospective
+rental occupant of the maximum allowable
+overnight occupancy commits a class B
+infraction.
+C. Each and every rental occupant
+occupying a dwelling unit in which the
+maximum overnight occupancy has been
+exceeded as provided by this chapter commits
+a class B infraction.
+D. Any person who offers for rent or rents
+a dwelling unit for overnight occupancyto a
+person with actual knowledge that the person
+intends to exceed the maximum allowable
+overnight rental occupancy of the dwelling
+unit commits a class A infraction. ( Ord. 95-
+030 § 1, 1995; Ord. 91- 044 § 1, 1991)
+Chapter 5. 12 2 ( 5/ 95)
+EXHIBIT " 1"
+o
+A
+UZ
+W
+W
+W
+W
+O
+W0A
+H U
+u
+W
+rE O
+az
+o
+WW
+0
+U
+OO
+W
+H

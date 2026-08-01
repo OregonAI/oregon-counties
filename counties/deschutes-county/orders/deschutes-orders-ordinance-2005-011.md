@@ -1,0 +1,488 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2005-011
+title: 'Ordinance No. 2005-011'
+doc_type: ordinance
+citation: 'Ordinance No. 2005-011'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616978908_2005-623-Ordinance%20No.%202005-011%20Recorded%204_13_2005.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d8f3bd32823ef89d840c9955945118b3b44a40615806c18424f47e05213c2e88
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2005-011 (Ordinance No. 2005-011)
+
+## At a glance
+
+Ordinance No. 2005-011 — orders of Deschutes County. 9 pages.
+
+## Full text
+
+REVIEWED
+A --
+LEGAL 60TNSEL
+REVIEWED
+WID-It AfVIEW COMMITTEE
+DESCHUTESCOUNTYOFFICIAL RECORDS
+CJNANCY BLANKENSHIP, COUNTY CLERK VV623
+COMMISSIONERS' JOURNAL
+04/13/200504:10:01PM
+11111[ 1111111111111111111111
+For Recording Stamp Only
+BEFORETHE BOARD OFCOUNTY COMMISSIONERSOFDESCHUTESCOUNTY, OREGON
+An OrdinanceAmendingChapter18.32of Title 18of
+theDeschutesCountyCodeandDeclaringan ORDINANCE NO. 2005- 011
+Emergency
+WHEREAS, the County PlanningDivision initiated an amendmentto Chapter18.32, Multiple Use
+Agricultural ( MUA- 10) Zone; and
+WHEREAS, thePlanningDivision'sFebruary24, 2005memorandumto thePlanningCommissionsets
+forth the findings for the proposed changes; and
+WHEREAS, the CountyPlanningCommissionheld a public hearingon March 10, 2005, and
+recommended approval of the proposed amendment; and
+WHEREAS, the Board of County Commissioners ("Board") held a public hearingon the proposed
+amendment on April 13, 2005; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERSOFDESCHUTESCOUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC Chapter 18.32.050, Yards, is amended to read as described in
+Exhibit " A," attachedhereto and by this referenceincorporatedherein, with new languageunderlinedand
+language to be deleted in stfikethf: etigh.
+Section 2. FINDINGS. The Board adopts as its findings the Staff Report attached as Exhibit " B,"
+attachedand incorporated by reference.
+PAGE I OF 2 - ORDINANCE NO. 2005- 011 ( 04/ 13/05)
+Section 3. EMERGENCY. This Ordinance being necessary for the immediate preservation of the
+public peace, health and safety, an emergency is declaredto exist, and this Ordinance takes effect on its passage.
+DATED this day of 2005.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCI1_ LJTES COUNTY, 0 GON
+TOM EWOLF, Chair
+r - - , t
+C::, -
+DENNIS R. LUKE, Commissioner
+MICHAEL M. DALY, Commissioner
+Date of I" Reading: '- day of " 2005.
+Dateof 2ndReading: day of 2005.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Tom DeWolf
+Dennis R. Luke
+Michael M. Daly
+Effective date:
+e57
+day of OLVI , 2005.
+ATTEST:
+1 7 rf6
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. 2005- 011 ( 04/ 13/ 05)
+Chapter 18. 32. MULTIPLE USE
+AGRICULTURAL ZONE
+MUA
+18. 32. 010. Purpose.
+18. 32. 020. Uses permitted outright.
+18. 32. 030. Conditional uses permitted.
+18. 32. 035. Destination resorts.
+18. 32. 040. Dimension standards.
+18. 32. 050. Yards.
+18. 32. 060. Stream setbacks.
+18. 32. 070. Rimrock setback.
+18. 32. 010. Purpose.
+The purposes of the Multiple Use Agricultural
+Zone are to preserve the rural character of various
+areas of the County while permitting
+development consistent with that character and
+with the capacity of the natural resources of the
+area; to preserve and maintain agricultural lands
+not suited to full- time commercial farming for
+diversified or part- time agricultural uses; to
+conserve forest lands for forest uses; to conserve
+open spaces and protect natural and scenic
+resources; to maintain and improve the quality of
+the air, water and land resourcesof the County; to
+establish standards and procedures for the use of
+those lands designated unsuitable for intense
+development by the ComprehensivePlan, and to
+provide for an orderly and efficient transition
+from rural to urban land use.
+Ord. 95- 075 § 1, 1995)
+18. 32. 020. Uses permitted outright.
+The following uses and their accessoryuses are
+permitted outright:
+A. Agricultural uses as defined in DCC Title 18.
+B. A single family dwelling, or a manufactured
+home subject to DCC 18. 116. 070.
+C. Propagationor harvestingof a forest product.
+D. Class I and H road or street project subject to
+approval as part of a land partition,
+subdivision or subject to the standards and
+criteria establishedby DCC 18.116.230.
+E. Class III road or street project.
+F. Noncommercial horse stables, excluding
+horse events.
+G. Horse events, including associatedstructures,
+involving:
+1. Fewer than 10 riders;
+2. Ten to 25 riders, no more than two times
+per month on nonconsecutive days; or
+3. More than 25 riders, no more than two
+times per year on nonconsecutive days.
+Incidental musical programs are not included
+in this definition. Overnight stays by
+participants, trainers or spectators in RVs on
+the premises is not an incident of such horse
+events.
+H. Operation, maintenance, and piping of
+existing irrigation systems operated by an
+Irrigation District except as provided in DCC
+18. 120. 050.
+1. Type I Home Occupation, subject to DCC
+18. 116. 280.
+Ord. 2004- 002 § 3, 2004; Ord. 2001- 039 § 2,
+200 1; Ord. 2001- 016 § 2, 200 1; Ord. 94- 008 § 10,
+1994; Ord. 93- 043 § 4, 1993; Ord. 93- 001 § 1,
+1993; Ord. 91- 038 § 1, 1991; Ord. 91- 020 § 1,
+1991; Ord. 91- 005 § 18, 1991; Ord. 91- 002 § 6,
+1991)
+18. 32. 030. Conditional uses permitted.
+The following uses may be allowed subject to
+DCC 18. 128:
+A. Public use.
+B. Semipublic use.
+C. Commercial activities in con unction with
+farm use. The commercial activity shall be
+associatedwith a farm use occurring on the
+parcel where the commercial use is proposed.
+The commercial activity may use, process,
+store or market farm products produced in
+DeschutesCounty or an adjoining County.
+D. Dude ranch.
+E. Kennel and/or veterinary clinic.
+F. Guest house.
+PAGE I OF 4 — EXHIBIT " A" TO ORDINANCE NO. 2005- 011 ( 04/ 13/ 05)
+G. Manufactured home as a secondary accessory
+farm dwelling, subject to the requirementsset
+forth in DCC 18. 116. 070.
+H. Exploration for minerals.
+1. Private parks, playgrounds, hunting and
+fishing preserves, campgrounds, motorcycle
+tracks and other recreational uses.
+J. Personal use landing strip for airplanes and
+helicopter pads, including associatedhangar,
+maintenance and service facilities. No
+aircraft may be based on a personal -use
+landing strip other than those owned or
+controlled by the owner of the airstrip.
+Exceptions to the activities permitted under
+this definition may be grantedthrough waiver
+action by the Aeronautics Division in specific
+instances. A personal use landing strip
+lawftilly existing as of September 1, 1975,
+shall continue to be permitted subject to any
+applicable regulations of the Aeronautics
+Division.
+K. Golf courses.
+L. Type 2 or Type 3 Home Occupation, subject
+to DCC 18. 116. 280.
+M. A facility for primary processing of forest
+products, provided that such facility is found
+to not seriously interfere with accepted
+fanning practices and is compatible with
+farm uses described in ORS 215. 203( 2).
+Such a facility may be approved for a
+one- year period which is renewable. These
+facilities are intended to be only portable or
+temporary in nature. The primary processing
+of a forest product, as used in DCC
+18. 32. 030, means the use of a portable
+chipper or stud mill or other similar method
+of initial treatment of a forest product in
+order to enable its shipment to market. Forest
+products, as used in DCC 18. 32. 030, means
+timber gown upon a parcel of land or
+contiguous land where the primary
+processingfacility is located.
+N. Destination resorts.
+0. Planned developments.
+P. Cluster developments.
+Q. Landfills when a written tentative approval
+by the Department of Environmental Quality
+DEQ) of the site is submitted with the
+conditional use application.
+R. Time- share unit or the creation thereof.
+S. Hydroelectric facility, subject to DCC
+18. 116. 130 and 18. 128. 260.
+T. Storage, crushing and processing of minerals,
+including the processing of aggregate into
+asphaltic concrete or portland cement
+concrete, when such uses are in conjunction
+with the maintenance or construction of
+public roads or highways.
+U. Bed. and breakfast inn.
+V. Excavation, grading and fill and removal
+within the bed and banks of a stream or river
+or in a wetland subject to DCC 18. 120. 050
+and 18. 128. 270.
+W. Churches, subject to DCC 18. 124 and
+18. 128. 080.
+X. Private or public schools, including all
+buildings essential to the operation of such a
+school.
+Y. Utility facility necessary to serve the area
+sub ect to the provisions of DCC 18. 124. j
+Z. Cemetery, mausoleumor crematorium.
+AA. Commercial horse stables.
+BB. Horse events, including associatedstructures,
+not allowed as a permitted use in this zone.
+CC. Manufactured home park on a parcel in use
+as a manufactured home park prior to the
+adoption of PL - 15 in 1979 and being
+operated as of June 12, 1996, as a
+manufactured home park, including any
+expansion of such uses on the same parcel, as
+configured on June 12, 1996.
+DD. Wireless telecommunications facilities,
+except those facilities meeting the
+requirements of DCC 18. 116. 250( A) or ( B).
+EE. Guest lodge.
+FF. Surface mining of mineral and aggregate
+resources in conjunction with the operation
+and maintenance of irrigation systems
+PAGE 2 OF 4 — EXHIBIT " A" TO ORDINANCE NO. 2005- 011. ( 04/ 13/ 05)
+operated by an Irrigation District, including
+the excavation and mining for facilities,
+ponds, reservoirs, and the off- site use,
+storage, and sale of excavated material.
+Ord. 2004- 002 § 4, 2004; Ord. 2001- 039 § 2,
+2001; Ord. 2001- 016 § 2, 2001; Ord. 97- 063 § 3,
+1997; Ord. 97- 029 § 2, 1997; Ord. 97- 017 § 2,
+1997; Ord. 96- 038 § 1, 1996; Ord. 94- 053 § 2,
+1994; Ord. 94- 008 § 11, 1994; Ord. 93- 043 §§ 4A
+and B, 1993; Ord. 92- 055 § 2, 1992; Ord. 91- 038
+1, 1991; Ord. 91- 020 § 1, 1991; Ord. 90- 014 §§
+27 and 35, 1990; Ord. 91- 005 §§ 19 and 20, 1991;
+Ord. 91- 002 § 7, 1991; Ord. 86- 018 § 7, 1986;
+Ord. 83- 033 § 2, 1983; Ord. 80- 206 § 3, 1980)
+18. 32. 035. Destination resorts.
+Destination resorts may be allowed as a
+conditional use, subject to all applicable
+standards of the DR Zone.
+Ord. 92- 004 § 4, 1992)
+18. 32. 040. Dimension standards.
+In an WA Zone, the following dimensional
+standards shall apply:
+A. The minimum lot size shall be 10 acres,
+except planned and cluster developments
+shall be allowed an equivalent density of one
+unit per seven and one- half acres and planned
+and cluster developments within one mile of
+an acknowledged urban growth boundary
+shall be allowed a five acre minimum lot size
+or equivalent density.
+B. The minimum average lot width shall be 100
+feet and the minimum street frontage 50 feet.
+C. The minimum average lot depth shall be 150
+feet.
+D. Building height. No building or structure
+shall be erected or enlarged to exceed 30 feet
+in height, except as allowed by DCC
+18. 120. 040.
+Ord. 92- 055 § 3, 1992; Ord. 91- 020 § 1, 1991)
+18. 32. 050. Yards.
+A. The front yard setbackfrom the property line
+shall be a minimum of 100 feet if sueh line is
+adiaeefft te an intensive agr-ietiltidfal
+ethei- A'ise, the 4ent yafd shall be 20 feet for
+property fronting on a local street right of
+way, 30 feetfrom a propertyline frontingon
+a collector right of way, and 80 feet from an
+arterial right of way unless other provisions
+for combining accesses are provided and
+approvedby the County.
+B. Each side yard shall be a minimum of 20 feetT
+eiie pt en the street side, " ieh shall be a
+minimum of 90 feet. For parcels or lots
+created before November 1, 1979, which are
+one- half acre or less in size, the side yard
+setback may be reduced to a minimum of 10
+feet. For parcels or lots adjacent to prope
+receiving special assessment for farm use a*
+Weasive agr4euktir- al use the adjacent side
+yard for a dwelling shall be a minimum of
+100 feet.
+C. Rear yards shall be a minimum of 25 feetF.
+eieept wheft For parcels or lots with hiwe
+rear yards adjacent to propeqy receiving
+sl2ecial assessment for farm use an ifAensive
+l4waluse therearyardsfor a dwelling
+LI Ibeaminimumof100feet.
+D. The setback from the north lot line shall meet
+the solar setback requirements in DCC
+18. 116. 180.
+E. In addition to the setbacks set forth herein,
+any greater setbacks required by applicable
+building or structuralcodesadoptedby the
+State of Oregon and/or the County under
+DCC 15. 04 shall be met.
+Ord. 2005- 011 § 1, 2005; Ord. 94- 008 § 17,
+1994; Ord. 91- 020 § 1, 1991; Ord. 88- 021 § 1,
+1988; Ord. 83- 037 § 9, 1983)
+18. 32. 060. Stream setbacks.
+To permit better light, air, vision, stream
+pollution control, fish and wildlife areas and to
+preserve the natural scenic amenities and vistas
+along the streams and lakes, the following
+setbacks shall apply:
+A. All sewage disposal installations, such as
+septic tanks and septic drainfields, shall be
+set back from the ordinary high water mark
+along all streams or lakes a minimum of 100
+PAGE 3 OF 4 — EXHIBIT " A" TO ORDINANCE NO. 2005- 011 ( 04/ 13/ 05)
+feet, measured at right angles to the ordinary
+high water mark. In those cases where
+practical difficulties preclude the location of
+the facilities at a distance of 100 feet and the
+County Sanitarian finds that a closer location
+will not endanger health, the Planning
+Director or Hearings Body may permit the
+location of these facilities closer to the stream
+or lake, but in no case closer than 25 feet.
+B. All structures, buildings or similar permanent
+fixtures shall be set back from the ordinary
+high water mark along all streamsor lakes a
+minimum of 100 feet measured at right
+angles to the ordinary high water mark.
+Ord. 91- 020 § 1, 1991)
+18. 32. 070. Rimrock setback.
+Setbacks from rimrock shall be as provided in
+DCC 18. 116. 160.
+Ord. 86- 053 § 6, 1986)
+PAGE 4 OF 4 — EXHIBIT " A" TO ORDINANCE NO. 2005- 011 ( 04/ 13/ 05)
+r1 0014
+W A W. IWA
+DATE:
+TO:
+FROM:
+RE:
+February 24, 2005
+Community Development Department
+Planning Division Building Safety Division Environmental Health Division
+117 NVV Lafayette Avenue Bend Oregon 97701- 1925
+541) 388- 6575 FAX ( 541) 385- 1764
+http:// www. co. deschutes. or. us/ cdd/
+MEMORANDUM
+Deschutes County Planning Commission
+Paul Blikstad, Associate Planner
+Amendments to setbacks in the MUA- 1 0 Zone
+INTRODUCTION:
+The Planning Division is proposing to amend the setback standards in the Multiple Use
+Agricultural ( MUA- 10) zone. The MUA- 10 zone has been in place since the adoption of PL -15,
+the Deschutes County Zoning Ordinance, on November 1, 1979.
+BACKGROUND:
+The MUA-10 zone is a rural residential zone, consisting primarily of land not included in the
+Exclusive Farm Use zone, based mainly on existing lot sizes and development patterns. This
+zone was originally listed in the County Comprehensive Plan ( 1979 version) under the
+Agricultural Lands section as land that was designated " Marginal Farm Land — Developed." The
+one and only Plan policy that related to the MUA- 10 zone was listed as follows:
+9. The Multiple Use Agricultural Zone shall allow planned developments, destination
+resorts, planned communities and cluster development as conditional uses where
+it can be shown these uses would be consistent with or beneficial to the
+maintenance of agricultural uses in that area. Except for Destination Resorts no
+overall densities in excess of the underlying minimum lot sizes will be permitted.
+In 1992, the County updated the Exclusive Farm Use Zone regulations and Comprehensive
+Plan to make them consistent with changes to State Law. As part of this update, the references
+to the MUA- 10 zoned lands in the Agricultural Lands section of the Comprehensive Plan were
+removed because the zone does not qualify under state law as an exclusive farm use/resource
+land zone. The MUA- 10 zone is no longer considered a part of the resource zone or agricultural
+lands designation.
+PAGE 1 OF 3 — EXHIBIT " B" TO ORDINANCE NO. 2005- 011 ( 04/ 13- 05)
+Quality Services Perfonned zvith Pride
+PROBLEM STATEMENT:
+The majority of existing lots or parcels in the MUA- 10 zone are less than 10 acres in size; the
+10 -acre minimum lot size was placed on these lands to prevent further divisions of them.
+Additionally, many of the MUA-10 zoned lots or parcels are relatively narrow (300 feet or less),
+and the 100 -foot setback from " intensive agricultural use" can and does cause structures to be
+placed in the middle of land, including land that may be irrigated. " Intensive agricultural use"
+can be any kindof agriculturaluse, whetherit's pastureor dry groundgrazing, or cropssuchas
+hay. It has been staff' s experience in the field, that if there is farm use in the MUA- 10 zoned
+areas, it is generallysmall pasture areas, with some livestockgrazing. The pasture and/ or
+livestock areas are somewhat limited due mainly to the smaller lot or parcel sizes, and/or the
+topography, such as rockoutcrops, and poor soils, as well as the availabilityof irrigationwater
+rights.
+Onevery importantadditionalproblemencounteredby staff is whenbuildingpermitapplications
+are taken in for dwellings or other structures in the MUA­ 10 zone. Since dwellings and other
+structures are uses permitted outright in the MUA- 10 zone, a call must be made at the counter
+as to whether the adjacent land is in " intensive agricultural use." This can be difficult without a
+site visit to the area. Manytimes staff has to rely on aerial photosfrom 1996in determining
+whether adjacent land is in " intensive agricultural use." Staff does not have the time to drive out
+to each and every parcel that is zoned MUA- 10 in cases where permits are applied for.
+The ordinance defines " intensive agricultural use" as any agricultural use where accepted
+farming practice may produce noise, dust, chemical application or other potential nuisance at
+any time during the year. Thus, while the reference is to an intensive use, the definition
+includesvirtuallyall agriculturaluses, includingsomethingas minoras drylandgrazing.
+Existing Sietbacks Proposed- Setbacks
+Front Yard Front Yard
+20 feet — local road 20 feet — local road
+30 feet — collector road 30 feet — collector road
+80 feet — arterial road 80 feet — arterial road
+100 feet- property adjacent to intensive
+agricultural use
+Side Yard Side Yard
+20 feet 20 feet
+30 feet street side 10 feet foi- parcels created prior to 11/ 1 /79 and
+110feet for parcels created prior to 11/ 1 /79 and 1/ 2 acre or less in size
+1/ 2 acre or less in size 100 feet for dwellings adjacent to property
+100 feet — property adjacent to intensive receiving special assessment for farm use
+agricultural use
+Rear Yard Rear Yard
+25 feet 25 feet
+100 feet — property adjacent to intensive 100 feet for dwellings adjacent to property
+agricultural use receiving special assessment for farm use
+PAGE 2 OF 3 — EXHIBIT " B" TO ORDINANCE NO. 2005- 011 ( 04/ 13/ 05)
+For the front setback standards, Staff is proposing to amend the code to remove the 100 -foot
+setback from " intensive agricultural use," to make it consistent with the EFU zone front
+setbacks, which do not differentiate a setback whether adjacent land is farmed or not. The
+setbacks would be measured from road rights of way, or if a property is not adjacent to a road, a
+front lot line as defined under section 18.04. 030, Definitions. With a standard road right of way
+of 60 feet, this creates a minimum separation between farm use and any structure of 80 feet.
+For the side setback, Staff is proposing to remove the " street side" language, since any
+property line adjacent to a street is considered a front lot line, which requires that the front
+setback be applied ( i.e. a parcel that abuts more than one road or street has more than one
+front setback). Additionally, staff is proposing to remove the intensive agricultural use language
+and replace it with " property that is receiving special assessment for farm use," and have the
+100 -foot setback only apply to dwellings, which is how structures are regulated in the EFU zone.
+If the idea of special setbacks is to mitigate conflicting uses, then it makes sense to try to
+provide the buffer between residential use and farm use.
+For the rear setback, Staff is proposing to remove the intensive agricutural use language and
+replace it with the same language as above, which only applies to dwellings. This is how
+structures are regulated in the EFU zone, with the 100 - foot setback for nonfarm dwellings
+adjacent to properties in farm use.
+CONCLUSION:
+This proposed change in the setbacks for the MUA- 10 zone has been contemplated by staff for
+a number of years. It is our belief that the existing setbacks are too restrictive. They are in fact
+more restrictive than the required setbacks in the EFU zone, which is intended for and has most
+of, actual farm use in the County. Staff would characterize most of the farming that does occur
+on MUA- 10 zoned land as hobby farming.
+Attached is a draft of the proposed changes. We have scheduled a public hearing before the
+Planning Commission on Thursday, March 10, 2005. If you should have any comments or
+questions, please direct them to me. ( Phone: 388- 6554; email: paulb@co. deschutes. or. us)
+PAGE 3 OF 3 — EXHIBIT " B" TO ORDINANCE NO. 2005- 011 ( 04/ 13/ 05)

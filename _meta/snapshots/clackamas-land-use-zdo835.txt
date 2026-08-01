@@ -1,0 +1,560 @@
+ZDO 835: Wireless Telecommunication Facilities | Clackamas County 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Translate 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Jobs 
+ Events 
+ News 
+ Contact Us 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+
+ 
+ 
+ 
+ Community 
+ 
+ 
+ Business 
+ 
+ 
+ Departments 
+ 
+ 
+ Our County 
+ 
+ 
+ I want to... 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ ZDO 835: Wireless Telecommunication Facilities 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ZDO 835: Wireless Telecommunication Facilities 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 835.01 Definitions The following definitions apply to Section 835: Antenna: A transmitting or receiving device used in telecommunications that radiates or captures electromagnetic waves, including, but not limited to, directional antennas, such as panel and microwave dish antennas, and omni-directional antennas, such as whip antennas. Collocation: The use of a single support structure by more than one wireless telecommunications provider. Essential Public Communication Services: Police, fire, and other emergency communications networks. Equipment Shelter:  A structure that houses power lines, cable, connectors, and other equipment ancillary to the transmission and reception of telecommunications. Existing Wireless Telecommunication Facility: A wireless telecommunication facility that received land use approval prior to March 14, 2002. Small Wireless Facility: A wireless telecommunication facility that enables provision of wireless services and meets the conditions in Subsections 835.02(A)(1) through (4). Support Structure: A wireless telecommunication tower, building, or other structure that supports an antenna used for wireless telecommunications. Wireless Telecommunication Facility: An unmanned facility for the transmission of radio frequency (RF) signals, consisting of an equipment shelter, cabinet, or other enclosed structure containing electronic equipment, a support structure, antennas or other transmission and reception devices. Freestanding point-to-point microwave dishes, high-power television and FM transmission facilities, AM facilities, amateur (Ham) radio antennas and towers, and citizen band transmitters and antennas are not wireless telecommunication facilities. Wireless Telecommunication Tower: A freestanding support structure, including monopole and lattice tower, designed and constructed primarily to support antennas and transmitting and receiving equipment. Wireless telecommunication towers include: Lattice tower: A tower characterized by an open framework of lateral cross members that stabilize the tower; and Monopole: A single upright pole, engineered to be self-supporting, that does not require guy wires or lateral cross supports. Wireless Telecommunication Tower Height: The distance from the finished grade at the antenna tower base to the highest point of the tower, including the base pad, mounting structures, and panel antennas, but not including lightning rods and whip antennas. 835.02 Small Wireless Facilities Small wireless facilities, consistent with 47 CFR 1.6002(l)(1), are facilities that meet each of the following conditions: The facilities: Are mounted on structures 50 feet or less in height including their antennas as defined in 47 CFR 1.1320(d); or Are mounted on a structure no more than 10 percent taller than other adjacent structures; or Do not extend existing structures on which they are located to a height of more than 50 feet or by more than 10 percent, whichever is greater; Each antenna associated with the deployment, excluding associated antenna equipment, is no more than three cubic feet in volume; All other wireless equipment associated with the structure, including the wireless equipment associated with the antenna and any pre-existing associated equipment on the structure, is no more than 28 cubic feet in volume; and The facilities comply with Federal Communications Commission (FCC) requirements for registration, as well as FCC radio frequency emissions standards specified in 47 CFR 1.1307(b) and other applicable standards in 36 CFR 800.16(x) related to location on Tribal Lands. Notwithstanding any otherwise applicable definition in Section 202, Definitions, or Subsection 835.01, terms used in Subsection 835.02 have the meanings provided in 47 CFR 1.6002, which includes the following definitions: Antenna: Consistent with 47 CFR 1.1320(d), an apparatus designed for the purpose of emitting radiofrequency (RF) radiation, to be operated or operating from a fixed location pursuant to FCC authorization, for the provision of personal wireless service and any commingled information services. For purposes of this definition, the term antenna does not include an unintentional radiator, mobile station, or device authorized under Part 15, Radio Frequency Devices of CFR Title 47, Telecommunication. Antenna equipment: Consistent with 47 CFR 1.1320(d), equipment, switches, wiring, cabling, power sources, shelters, or cabinets associated with an antenna, located at the same fixed location as the antenna, and, when collocated on a structure, is mounted or installed at the same time as such antenna. Deployment: Placement, construction, or modification of a personal wireless service facility. Structure: A pole, tower, base station, or other building, whether or not it has an existing antenna facility, that is used or to be used for the provision of personal wireless service (whether on its own or comingled with other types of services). 835.03 Exemptions Wireless telecommunication facilities are exempt from section 1102, Design Review, except that Section 1102 applies to essential public communication services in zoning districts listed in Subsections 1102.01(A) through (C), if such essential public communication services are not small wireless facilities.    Small wireless facilities in public rights-of-way or in easements under Clackamas County jurisdiction are exempt from Section 835. 835.04   Submittal Requirements An application for a Type I permit for a wireless telecommunication facility shall include the submittal requirements identified in Subsection 1307.07(C). In addition to the submittal requirements identified in Subsections 1203.02 (for conditional uses only) and 1307.07(C), an application for a Type II or conditional use permit for a wireless telecommunication facility, or for an adjustment pursuant to Subsection 835.07, shall include: A site plan, drawn to scale, that includes: Existing and proposed improvements; Adjacent roads; Parking, circulation, and access; Areas of vegetation to be added, retained, replaced, or removed; Setbacks of all existing and proposed structures; and If an adjustment is proposed pursuant to Subsection 835.06, the distance from the proposed location of the wireless telecommunication tower to off-site structures that are closer to the proposed location than a distance equal to the height of the proposed tower. A vicinity map showing lots, land uses, zoning, and roadways within 500 feet of the proposed antenna site; Elevations showing antennas, wireless telecommunication towers, equipment shelters, area enclosure, and other improvements related to the proposed facility; For all new antennas, color simulations of the site after construction; A map of existing wireless telecommunication facilities within one mile of the subject property; and An alternatives analysis demonstrating compliance with Subsection 835.06(D)(1)(a). 835.05 Uses Permitted The types of wireless telecommunication facilities permitted in each zoning district are listed in Table 835-1, Permitted Wireless Telecommunication Facilities. Except for essential public communication services and small wireless facilities, wireless telecommunication facilities are classified as level one or two.  As used in Table 835-1: "P" means the classification of wireless telecommunication facility is a primary use. "C" means the classification of wireless telecommunication facility is a conditional use, approval of which is subject to Section 1203, Conditional Uses. "X" means the classification of wireless telecommunication facility is prohibited. Numbers in superscript correspond to the note that follows Table 835-1. Wireless telecommunication facilities, except small wireless facilities, are subject to the applicable provisions of Subsections 835.06(A through D) and 835.08, and an adjustment may be approved pursuant to Subsection 835.07. Small wireless facilities are subject only to Subsection 835.06(E) and are not eligible for an adjustment pursuant to Subsection 835.07.   Table 835-1: Permitted Wireless Telecommunication Facilities Use Review Process pursuant to Section 1307 Zoning District: FU-10, HR, MRR, and Zoning Districts Regulated by Section 315 Zoning District: AG/F, EFU, FF-10, NC, RA-1, RA-2, RR, RRFF-5, TBR, and VCS Zoning District: Commercial and Industrial Zoning Districts except NC, VCS, and SCMU Zoning District: SCMU Essential Public Communication Services P P 1 P P Type I 2 Level One Collocation X P P P Type I 3 Level One Placement on a Utility Pole P P P P Type I 3 Level Two Collocation P P P X Type II 3 Level Two Placement on a Utility Pole P P P X Type II 3 Level Two Wireless Telecommunication Facilities not included in any other category C C 1 P X Type II if use is P 3 , Type III if use is C Small Wireless Facilities P P P P Type I 1 In the AG/F and TBR Districts, the use is subject to Subsection 406.05(A)(1). 2 In the AG/F, EFU, and TBR Districts, essential public communication services require review as a Type II application pursuant to Section 1307.   3 If an adjustment is proposed pursuant to Subsection 835.07, the wireless telecommunication facility requires review as a Type III application pursuant to Section 1307, Procedures. 835.06 Standards Level One Collocation: A level one collocation of antennas on a previously approved wireless telecommunication facility shall be subject to the following standards: Collocation proposals involving an existing wireless telecommunication facility must have an approved and implemented landscaping plan that complies with Subsection 835.06(D)(5). There shall be no increase in the height of the existing wireless telecommunication support structure. The proposed collocated antennas shall be no more than 20 feet higher than the existing support structure. All collocation improvements shall be located within a previously approved fenced lease area. The collocation shall not involve the removal of any previously approved landscaping or buffering.  Level One Placement on a Utility Pole: Level one placements of wireless telecommunication facilities on utility poles (electric, cable, telephone, etc.) shall be subject to the following standards:   The wireless telecommunication facility shall be placed on an existing utility pole or, if it is necessary to replace the existing pole with a pole that is suitable for wireless telecommunication, the new pole shall be no taller than the pole that is being replaced. The existing utility pole shall be within a public right-of-way, and, if the pole is to be replaced pursuant to Subsection 835.06(B)(1), the replacement pole shall remain within the public-right-of-way. Any equipment shelters for the wireless telecommunication facility shall be located on the utility pole and within the public right-of-way. Level Two Placement on a Utility Pole: Level two placements of wireless telecommunication facilities on replacement utility poles (electric, cable, telephone, etc.) shall be subject to the following standards: The height of the replacement utility pole shall not exceed the height of the pole being replaced by more than 20 feet. The existing utility pole shall be within a public right-of-way, and the replacement pole shall remain within the public-right-of-way. Wireless Telecommunication Facilities: A level two wireless telecommunication facility (including a level two collocation or placement on a utility pole) shall be subject to the following standards: New Towers: If a new wireless telecommunication tower is proposed: No new tower will be permitted unless no existing support structure can accommodate the proposed antenna. All proposals for new wireless telecommunication facilities must be accompanied by a statement from a qualified person that the necessary telecommunication service cannot be provided by collocation for one or more of the following reasons: No existing support structures, or approved but not yet constructed support structures, are located within the geographic area required to meet the applicant's engineering requirements; Existing support structures are not of sufficient height to meet the applicant's engineering requirements; Existing support structures do not have sufficient structural strength to support the applicant's proposed antenna and related equipment; The applicant's proposed antenna would cause electromagnetic interference with the antenna on the existing support structure, or the existing antenna would cause interference with the applicant's proposed antenna; or The applicant demonstrates that there are other limiting factors that render existing support structures unsuitable. If the tower is inside the Portland Metropolitan Urban Growth Boundary, it shall be a monopole. The tower shall be designed and built to accommodate collocation or additional loading. This means that the tower shall be designed specifically to accommodate no less than the following equipment, in addition to the applicant's proposed equipment: Twelve antennas with a float plate wind-loading of not less than four square feet per antenna; A standard mounting structure, standoff arms, platform, or other similar structure designed to hold the antennas; Cable ports at the base and antenna levels of the tower; and Sufficient room within or on the tower for 12 runs of 7/8-inch coaxial cable from the base of the tower to the antennas. The tower shall be painted or coated in a manner that blends with the surrounding area. The finished coloring shall result in a non-reflective surface that makes the tower as visually unobtrusive as possible unless state or federal regulations require different colors.  If the proposed wireless telecommunication facility requires approval of a conditional use permit, placement of the tower in an alternate location on the tract may be required, if the alternate location would result in greater compliance with the criteria in Section 1203, Conditional Uses, than the proposed location. In order to avoid relocating the proposed tower, the applicant shall demonstrate that the necessary wireless telecommunication service cannot reasonably be provided from the alternate location. Equipment shelters shall be entirely enclosed. They may be painted or coated with a finish that best suits the operational needs of the facility, including the ability to reflect heat and to resist accumulations of dirt. If there is a conflict between acceptable colors and the operational needs of the facility, the use of architectural screen panels may be required. No lighting shall be permitted on a wireless telecommunication tower, except as required by state or federal regulations. If lighting is required, the light shall be shielded or deflected from the ground, public rights-of-way, and other lots, to the extent practicable. Unless the wireless telecommunication facility is located entirely on a utility pole, it shall be located within an area that is enclosed on all sides. The enclosure shall be a minimum of six feet tall and sight-obscuring. Landscaping shall be placed outside of the enclosed area required pursuant to Subsection 835.06(D)(4) and shall include ground cover, shrubs, and trees that are reflective of the natural surrounding vegetation in the area. However, if a portion of the wireless telecommunication facility is screened from points off-site by a building with a height of at least eight feet, landscaping is not required for the screened area. In addition, Subsection 1009.10 applies. Noise generated by the wireless telecommunication facility shall not exceed the maximum levels established by the Oregon Department of Environmental Quality (DEQ). If lots adjacent to the subject property have a lower DEQ noise standard than the subject property, the lower standard shall be applicable. Dimensional Standards: Dimensional standards applicable to wireless telecommunication towers are listed in Table 835-2, Dimensional Standards for Wireless Telecommunication Towers. Small Wireless Facilities: Small wireless facilities, including all related equipment and appurtenances, shall: Not be affixed to trees, shrubs, or other vegetation; If attached to or mounted on a building, be the same or substantially similar color or colors as the portions of the building they are attached to or mounted on; Use only non-reflective materials on their exterior; and Have all of their lights shrouded from view from adjacent residential properties. Table 835-2: Dimensional Standards for Wireless Telecommunication Towers Zoning District Maximum Height Minimum Tower Separation Minimum Front, Side, and Rear Setbacks All zoning districts inside the Portland Metropolitan Urban Growth Boundary (UGB), HR, MRR, RR, and RTC 100 feet 1000 feet The minimum setbacks generally applicable in the subject zoning district, or a distance equal to the height of the tower, whichever is greater FF-10, RA-1, RA-2, RC, RI, and RRFF-5, provided that the tower is outside the UGB 150 feet 2000 feet The minimum setbacks generally applicable in the subject zoning district, or a distance equal to the height of the tower, whichever is greater AG/F, EFU, and TBR, provided that the tower is outside the UGB 250 feet 2,640 feet The minimum setbacks generally applicable in the subject zoning district, or a distance equal to the height of the tower, whichever is greater 835.07 Adjustments Adjustments to the standards of Section 835 may be granted under either of the following circumstances: A gap in the applicant's service exists and that gap can only be alleviated through the adjustment of one or more of the standards of this section. If an adjustment is to be approved, the applicant must demonstrate the following: A gap in coverage or capacity exists in the wireless telecommunication provider's service network that results in network users being regularly unable to connect, or maintain connection, with the provider's network; The proposed wireless telecommunication facility will fill the existing service gap. Filled means the proposed facility would substantially reduce the frequency with which users of the network are unable to connect, or maintain connection, with the provider's network; and The gap cannot be filled through collocation on existing facilities, or establishment of facilities that are consistent with the standards of this section on properties other than the proposed site or on the proposed site in a manner which does not require an adjustment. The proposed adjustment would utilize existing site characteristics to minimize demonstrated or potential impacts on the use of surrounding lots. Site characteristics include, but need not be limited to, those identified in Subsection 1203.03(B). The adjustment must result in a lower level of impact on surrounding lots than would result if the standard were not adjusted. In considering the requested adjustment, the following may be considered: Visual impacts; Impacts on view; Impacts on property values; and Other impacts that can be mitigated by an adjustment so that greater compliance with Subsection 1203.03(D) occurs. 835.08 Abandonment Wireless telecommunication facilities will be considered abandoned when there has not been a provider licensed or recognized by the Federal Communications Commission operating on the facility for a period of 365 consecutive days. Determination of abandonment will be made by the Planning Director, who shall have the right to demand documentation from the facility owner regarding the tower or antenna use. Upon determination of abandonment, the facility owner shall have 60 calendar days to reuse the facility or transfer the facility to another owner who will reuse it within 60 calendar days of the determination of abandonment. If the facility is not reused within 60 calendar days of the determination of abandonment, county authorization for the use shall expire. Once authorization for the use has expired, the facility operator shall remove the facility from the property within 90 calendar days. If the facility operator does not remove the facility within 90 calendar days, the county may remove the facility at the expense of the facility operator, or, in the alternative, at the property owner's expense. [Amended by Ord. ZDO-224, 5/31/11; Amended by Ord. ZDO-248, 10/13/14; Amended by Ord. ZDO-268, 10/2/18; Amended by Ord. ZDO-276, 10/1/20; Amended by Ord. ZDO-280, 10/23/21] Return to the Zoning and Development Ordinance main page. Contact zoninginfo@clackamas.us for additional information. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Phone: 503-742-4500 
+ Email: zoninginfo@clackamas.us 
+ 
+ 
+ 
+ 150 Beavercreek Road Room #225 Oregon City, OR 97045 
+ 
+ 
+ Office Hours: Monday to Thursday  8 a.m. to 4 p.m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's My Zoning? 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Related Events 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Related Events
+ 
+ 
+ 
+ 
+ Board of County Commissioners, Planning and Zoning 
+ 
+ 
+ Aug 
+ 04 
+ 
+ 
+ 11:00 am 
+ - 11:30 am 
+ 
+ 
+ Land Use Hearing: Z0437-25 and Z0438-25 - Aug. 4, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Aug 
+ 20 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0096-26 - Aug. 20, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Sep 
+ 03 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0207-26 - Sept. 3, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ more events 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ SHORTCUTS 
+ 
+ 
+ 
+ Jobs Procurement Process, Contracts and Grants Pay Online CMap Contact the County Report a Hazard County Code Public Records Request HIPAA/Privacy Concerns Civil Rights ACA Complaint Form Accessibility Statement Title VI Compliance Plan Website Privacy Media Contacts 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ELECTED OFFICIALS 
+ 
+ 
+ 
+ Chair Craig Roberts Commissioner Diana Helm Commissioner Paul Savas Commissioner Martha Schrader Commissioner Ben West   County Assessor/Tax Collector Bronson Rueda County Clerk Catherine McMullen District Attorney John Wentworth Justice of the Peace Kathleen Rastetter Sheriff Angela Brandenburg Treasurer Brian Nava 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can’t find what you're looking for? 
+ 
+ 
+ 
+ 
+ Search Box 
+ 
+
+ 
+ enter your search here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2026 Clackamas County

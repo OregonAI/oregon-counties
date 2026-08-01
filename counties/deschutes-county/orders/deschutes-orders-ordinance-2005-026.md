@@ -1,0 +1,368 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2005-026
+title: 'Ordinance No. 2005-026'
+doc_type: ordinance
+citation: 'Ordinance No. 2005-026'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616979654_2005-741-Ordinance%20No.%202005-026%20Recorded%205_26_2005.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 7d73c82cc40d803d3e17383b7f3a90d2f3c39845eeb2fe8aa01e3e42acca1c9b
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2005-026 (Ordinance No. 2005-026)
+
+## At a glance
+
+Ordinance No. 2005-026 — orders of Deschutes County. 8 pages.
+
+## Full text
+
+REVIEWED
+LEGA1 COUNSEL
+REVIEWED
+6 1
+CODE REVIEW COMMITrEE
+DESCHUTES COUNTY OFFICIAL
+NANCY BLANKENSHIP, COUNTY
+COMMISSIONERS' JOURNAL
+ILI1)[11111111111111111111111
+RECORDS
+CLERK U UPC
+05/26/200503:57:02 PM
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 18, the Deschutes
+County Zoning Ordinance, and Declaring an
+Emergency.
+ORDINANCE NO. 2005- 026
+WHEREAS, on February 10, 2005 Elk Horn Development submitted application for a text amendment
+to the DeschutesCounty Code (DCQ, File No. TA -05-2, to amend DCC Section 18.61.050(D), the Residential
+Center District of the New Neighborhood Planing Area of the Urban Unincorporated Community ( UUC) of La
+Pine and Table 2 of Chapter 18. 61; and
+WHEREAS, on March 28, 2005, the Planning Commission held a duly noticed public hearing on the
+application; and
+WHEREAS, the Planning Commission voted to recommend to the Board of County Commissioners
+Board") approval of the proposed amendments; and
+WHEREAS, on May 25, 2005, the Board of County Commissioners (BOCC) held a public hearing on
+the proposed amendments to Section 18. 61. 050( D) and Table 2 of Chapter 18. 61; and
+WHEREAS, the BOCC recognizes the urgency of these changes in order to allow development of the
+Residential Center District of the Neighborhood Planning Area to commence; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC Section 18. 61. 050 ( D) is amended to read as described in Exhibit
+A", attached hereto and by this reference incorporated herein, with new language underlined and language to
+be deleted in str-ikethfoug .
+Section 2. AMENDMENT. Table 2 of DCC Chapter 18.61 is hereby amended to read as described in
+Exhibit 111111, attached hereto and by this reference incorporated herein, with new language underlined and
+language to be deleted in s4ikethfeti .
+PAGE I OF 2 - ORDINANCE NO. 2005- 026 ( 5/ 25/ 05)
+DocumentReproducesPoorly
+Archived)
+Section 3. EMERGENCY. This Ordinance being necessary for the immediate preservation of the
+public peace, health and safety, an emergency is declaredto exist, and this Ordinance takeseffect on its passage.
+DATED this a 6 day of 2005.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY OREGON
+Tom bfWOLF, Chair
+Dateof 0 Reading: —,–e— day of 2005.
+Date of 2ndReading: day of 2005.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Tom DeWolf L ---
+Michael M. Daly
+t.-- —
+Dennis R. Luke
+Effective date: dS% ay of 2005.
+ATTEST:
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. 2005- 026 ( 5/ 25/ 05)
+Exhibit " A"
+18. 61. 050. Neighborhood Planning Area.
+D. Residential Center District. Purpose: The
+Residential Center District is a location for
+social activities and small mixed- use
+residential/ commercial businesses. It is
+located near the geographical center of each
+Neighborhood. This district is the location
+for more compact housing types such as
+townhomes and apartment buildings that
+activate the center and allow a greater
+number of people the option to walk for their
+daily needs.
+1. Uses permitted outright.
+a. Single Family Dwelling.
+b.a-. Single Family Dwelling — Zero Lot
+Line
+c. 4Tewn home, duplex or triplex.
+d.b. Accessory dwelling.
+e.. e-. Live/ work unit.
+f. d-. Multi - use path.
+g. e. -Open space.
+h. f -.Home occupation that:
+1. Is carried on within a dwelling
+only by members of the family
+who residein the dwelling;
+2. Does not serve clients or
+customers on- site;
+3. Does not produce odor, dust,
+glare, flashing lights or noise;
+4. Does not occupy more than 25
+percent of the floor area of the
+dwelling; and
+5. Does not include the on -
+premises display or sale of stock
+in trade; and,
+6. Does not have any outdoor
+storage of materials used in the
+home occupation.
+2. Uses Permitted Subject to Site Plan
+Review. The following uses and their
+accessory uses are permitted subject to
+applicable provisions of DCC 18. 61 and
+DCC 18.116, Supplementary Provisions,
+and DCC 18. 124, Site Plan Review:
+a. Community center up to 4, 000
+square feet in floor area.
+a. Neighborhood commercial building
+as defined in DCC 18. 04.
+b. Multi - family dwelling.
+c. Bed and Breakfast Inn.
+d. Church.
+e. Park or playground.
+3. Conditional uses permitted. The
+following uses and their accessory uses
+are permitted subject to applicable
+provisions of DCC 18. 61 and DCC
+18.116, Supplementary Provisions, DCC
+18. 124, Site Plan Review, and DCC
+18. 128, Conditional Use:
+a. Single family dwelling, ineluding
+Class A" manufaetured home,
+exeept 1-- tted if
+b-.a. Residential facility or residential
+home.
+ez.b. Home occupation as defined in DCC
+18. 04.
+4. Dimensional standards. The lot size, lot
+coverage block length, block perimeter
+and building height standardsshown in
+Table 2 shall apply to the Residential
+Center District.
+5. Yard and setback requirements. The
+front, side and rear yard requirements in
+Table 2 shall apply to uses in the
+Residential Center District.
+6. Residential density. The residential
+density requirements in Tables 1 and 2
+shall apply to the Residential Center
+District.
+PAGE I of 1 — EXHIBIT " A" TO ORDINANCE No. 2005- 026 ( 5/ 25/ 05)
+EXHIBIT " B"
+TABLE 2. La Pine Neighborhood Planning Area Zoning Standards
+PAGE I of 2 — EXHIBIT " B" TO ORDINANCE No. 2005- 026 ( 5/ 25/ 05)
+RESIDENTIAL RESIDENTIAL CENTER COMMUNITY COMMUNITY NEIGHBORHOOD
+GENERAL FACILITY FACILITY COMMERCIAL
+LIMITED
+LO SIZE Single- family
+NEI HBORHOOD 1
+M$ ximum square feet 7, 00 10 4, 500 N/ A N/ A N/ A
+Mi imum square feet 4, 000 2, 400 N/ A N/ A N/ A
+NEI HBORHOOD 2
+M ximum square feet 15, 000 7_1
+N/ A N/ A N/ A
+t 5 O00
+Mikimum square feet 7, 000 3, 500 N/ A N/ A N/ A
+LOI SIZE Townhome
+Mijimum square feet N/ A 2, 400 2, 400 N/ A N/ A
+LOM SIZE Duplex Triplex
+Mi4imum square feet 8, 000 8, 000 8, 000 N/ A N/ A
+LOISIIzEuu- lti-fa mily
+V ­ t
+M$ ximum square feet no maximum no maximum no maximum N/ A N/ A
+Milnimum square feet 15, 000 10, 000 10, 000 N/ A N/ A
+LOAS' IZE Other uses
+M ximum square feet no maximum no maximum no maximum no maximum
+22, 000
+Mi imum square feet 7, 000 4, 500 none none 7, 000
+LQI,. VTH`
+1_.
+Mi imum ( feet) 50' for detached 4040F detaGhed 50 50 50
+dwellings 24' for 35' for detanh
+attached developmen detatched
+townhome single- family dwelling
+24' for attached townhome
+lor zero lot line development 1
+L DEPTH
+174
+7
+mi mum ( feet) 100 100 150 150 150
+R., 5
+N'
+t
+NE13HBORHOOD 1
+Wximum 8. 0 12. 0 12. 0 N/ A N/ A
+Wimum 3. 0 8. 0 N/ A N/ A N/ A
+NE14HBORHOODS 2, 3 & 4
+m4ximum 6. 0 12. N/ A N/ A N/ A
+Wimum 2. 0 6.
+00
+NRP
+Primkry Building
+Fr4nt 15' min. 1 O' min. 10' min 10' min 1 O' min.
+1 O' min. 5' Fn"A. OF 0 19t 1 5' min. or 0 lot 5' plus 1/ 2 foot 5' plus 1/ 2 foot for
+None line for each ft. each ft. buildingSije
+building height exceeds 20' height
+exceeds 20'
+Side at corner ( 2) 10 feet 5 ' or 0 lot line 5 feet 5 feet 5 feet
+10 feet None except abutting None except 5' plus 1/ 2 foot 5 feet
+R+ r
+Residential General 5' abutting for each ft.
+Residential building height
+General 5' exceeds 20'
+PAGE I of 2 — EXHIBIT "B" TO ORDINANCENo. 2005- 026 (5/ 25/ 05)
+EXHIBIT " B"
+TABLE 2. La Pine Neighborhood Planning Area Zoning Standards ( continued)
+RESIDENTIAL RESIDENTIAL COMMUNITY COMMUNITY INEIGHBORHOOD
+GENERAL CENTER FACILITY FACILITY COMMERCIAL
+LIMITED
+GARAGE SETBACKS -
+Min. from front of building 5 feet 5 feet feet IN/Al
+N/ A
+SPECIAL SETBACKS
+Percentage of the front side N/ A 50% min.( 2) N/ A N/ A N/ A
+of the structure that shall be
+sited at the minimum front
+yard setback.
+LOT COVERAGE
+Maximum 35 percent 50 percent 60 percent 60 percent 50 percent
+Maximum Perimeter 2, 000 1, 600 1, 200 N/ A 1, 200 feet
+Maximum block length without 600 feet 600 feet 400 feet 800 600 feet
+pedestrian connection
+191) 1L 0 1ING HE- ld _14f
+Primary 30' 40' except Res. 45' except 45' 30'
+General Res. General
+standards apply standards
+to single family. apply to single
+Townhomes 35 family.
+ft. max. Townhomes 35
+ft. max.
+Accessory Dwelling or
+20' 25' 30' 30' 25'
+Building
+Higher with Conditional Use NO YES up to 40 YES YES NO
+Permit feet
+IWA frorn eF;t ef building 5 fee 6 fee 5 fwl
+I NIA NIA
+MINIMUM ONSITE DCC 18. 116 DCC 18. 116 DCC 18. 116 DCC 18. 116 DCC 18. 116
+PARKING
+of the StFUGtUFe
+that q -h -All -he sited at the
+wd- setbaGk-.
+NAA 50% fflin.( 2) NAA N/ A
+NOTES:
+1) Gross acres, excluding collector street right of way
+2) Must meet clear vision requirements of DCC 18. 116. 020
+3) The block requirements not applicable to review and approval of quadrant plans.
+Ord. 2004- 013 § 6, 2004; Ordinance 2004- 06 § 2, 2004; Ord. 2003- 077 § 1, 2003; Ord. 2003 - 005 § 1,
+2003; Ord. 2001- 044 § 3, 2001; Ord. 2001- 037 § 2, 2001; Ord. 2000- 015 § 2, 2000)
+PAGE 2 of 2 - EXHIBIT " B" TO ORDINANCE No. 2005- 026 ( 5/ 25/ 05)
+X3 0 ZQeJ - 5F
+PROPOSED TEXT AMENDMENTS
+Chapter 18.61.050. La Pine Neighborhood Planning Area —
+Section D. 1. a Uses Permitted Outright
+Section D. 3. a Conditional Uses
+Table 2: Zoning Standards — Residential Center maximum lot size, lot
+widths and side yard setbacks
+Purpose and Background: Subsequent to our Quadrant Plan Approval for
+Neighborhood 2 and Tentative Subdivision Plat approval for Phase 2c, we
+learned of some requirement differences between the Zoning Code and the
+Building Code which results in either increased housing costs or the prohibition of
+building the types of homes we would like to build in the Neighborhood Planning
+Area.
+Our original intention was to build 0 -lot line homes that have a usable side yard
+for each homeowner. While the Zoning Code allows 0 -lot line homes, the
+Building Code requires any home within 3 feet of the property line to be
+constructed with 1 -hour fire rated walls, regardless of how close to the property
+line the house on the adjoining lot is built. This results in a cost increase in the
+price of each home, which is ultimately passed on to the homeowner. Our goal
+in this neighborhood is to provide quality, affordable homes and this cost
+increase works against that goal.
+The Deschutes County Comprehensive Plan Chapter 23.40. 020.A.A. 3 The
+Urban Unincorporated Community - La Pine states as follows:
+The plan policies and zoning standards adopted in August 2000 and
+amended in 2001 are also intended to ensure that residential
+development in the Neighborhood Planning Area will include mixed
+housing types, provide affordable housing opportunities and require
+participation in a Transferable Development Credit Program."
+Furthermore, Comprehensive Plan Chapter 23.56.020. Housing Goals are as
+follows:
+1. To provide adequate number of housing units at price ranges and rent levels
+commensurate with the financial capabilities of local households.
+2. To allow flexibility of housing location, type and density in Deschutes County.
+Toward that end, we would like to pursue a series of text amendments that would
+allow us to construct a detached townhomes on the lots, maintain the intended
+density of the zone, and specify lot sizes, widths and setbacks that are consistent
+with the purpose and intent of the Residential Center district.
+Request: In order to achieve the above described housing type, we respectfully
+request approval of the following text amendments:
+A FL,( CAPJ— J5; ek
+pf) 6 C_ or 2
+1. Add single family dwelling as a Permitted Use in Chapter 18.61.050. D.l. a
+2. Delete single family dwellings as a Conditional Use in Chapter
+18. 61. 050. D. 3. a.
+3. Amend Table 2 La Pine Neighborhood Planning Area Zoning Standards of
+the Residential Center as follows:
+Reduce maximum lot size from 7,000 to 5,000 square feet and specify
+it is for Single Family, detached;
+Add " Single Family" to minimum lot width requirement for 35 feet, and
+specify the 0 -lot line housing type is required to have a minimum lot
+width of 24';
+Reduce the required side yard setback from 5 feet minimum or 0 lot
+line to " None."
+To ensure that density is achieved in the Residential Center, as originally
+intended, the proposed amendment to Table 2 Residential Lot Size Maximum to
+be reduced from 7,000 to 5,000 square feet ensures that lots are smaller, thereby
+encouraging smaller homes7and greater density. Allowing single family detached
+homes in the Residential Center district and specifying minimum lot widths of 35
+feet ensures that the homes will be on lots of sufficient width to accommodate the
+housing type while providing for useable yard area. The reduction in the side
+yard from 5 foot minimum to " None" provides the greatest amount of flexibility in
+the zone given the different housing types allowed.
+Summary and Conclusions: The proposed text amendments allow for:
+Allows single family detached homes to be constructed within the
+Residential Center zone;
+Provides lots size maximums commensurate with the housing types
+proposed;
+Ensures setbacks that allow for the greatest flexibility given the variety of
+housing and lots sizes allowed with the zone;
+Ensures density is achieved consistent with the purpose and intent of the
+Residential Center zone and the La Pine Neighborhood Planning Area;
+Facilitates residential development that is consistent with the Housing
+goals and policies of the Comprehensive Plan.
+Therefore, we respectfully request APPROVAL of the proposed Text
+Amendments. Additionally, given the construction season and timing of the
+proposed text amendments
+PAC e -
+0 ? R-

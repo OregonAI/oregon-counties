@@ -1,0 +1,547 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-93-018
+title: 'Ordinance No. 93-018'
+doc_type: ordinance
+citation: 'Ordinance No. 93-018'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616696271_1993-16770-Ordinance%20No.%2093-018%20Recorded%205_20_1993.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e5bfc7070f358547aaa1009e116ed566723c72bb60ef3028ac633c4ac8fec760
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 93-018 (Ordinance No. 93-018)
+
+## At a glance
+
+Ordinance No. 93-018 — orders of Deschutes County. 12 pages.
+
+## Full text
+
+93- 16770
+BEFORE THE BOARD OF COUNTY COMMISSIONERS FOR DESCHUTES
+An Ordinance Amending Title 19 of
+the Deschutes County Code, the
+Bend Urban Growth Boundary Zoning
+Ordinance, Adding Standards to
+Implement the Deschutes County
+Bicycle Master Plan and Aspects of*
+the State Transportation Planning *
+Rule, and Declaring an Emergency. *
+NO. 93- 018
+fFE- Sl' -_. J
+i
+0126- 1048
+WHEREAS, the Deschutes County Bicycle Master Plan was adopted
+as a Resource Element of the Deschutes County Comprehensive Plan on
+December 5, 1990 ( Ordinance No. 92- 023).
+WHEREAS, the State of Oregon has required that certain
+ordinances be adopted by local jurisdictions to implement Statewide
+Planning Goal 12, the Transportation Planning Rule, in particular
+OAR 660 - 12 - 045( 3)( a - d).
+WHEREAS, the Bend Urban Area Planning Commission, after review
+conducted in accordance with applicalbe law, has recommended
+approval of the proposed Text Amendments to Title 19.
+WHEREAS, after notice was given and hearing conducted in
+accordance with applicable law, the Board of County Commissioners
+has considered the Planning Commission' s recommendation; now,
+therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. Chapter 19. 04. 040 of Title 19 is amended to include
+the following definitions:
+Access Corridor. A separate travel way for pedestrians and
+bicyclists to minimize travel distances within and between
+subdivisions, planned unit developments, residential areas and
+commercial centers, major employment areas, transit stops, or within
+and between nearbv neighborhood activity centers such as schools,
+arks, and convenience shoppin
+Bikeway. Any road, path or way open to bicycle travel regardless of
+whether such facilities are designated for the preferential use of
+bicycles or are to be shared with other transportation modes.
+Bicycle Facility. Any public or private improvements to accommodate
+and encourage bicycling, including bikeways and bike parking racks,
+spaces, and structures.
+Pedestrian Facility. Any public or private improvement that
+1 - ORDINANCE NO. 93- 018 KgYir L MICROFILMED
+j r
+t 51993 NIA1261993
+0126- 1049
+on- site walkways, crosswalks, access corridors and may include other
+improvements such as lighting benches and fences which make it safe
+or convenient to walk.
+Shopving Center. A retail store or combination of stores usually
+including a grocery store which provides goods for sale to the
+general public and with a combined leasable area in excess of 30, 000
+square feet.
+Transit Route. An existing or planned route for public intra - city
+or intraurban transit service in the local or regional
+transportation plan Does not include temvorary routes or routes
+which are planned to be replaced.
+Transit Facility. Public or private improvements at selected Mints
+along transit routes for Rassenger pickup drop off and waiting.
+Imvrovements may include pullouts shelters waiting areas, benches.
+information and directional signs or structures and lighting.
+Section 2. Section 19. 40. 070 of Title 19 is amended as
+follows:
+19. 40. 070 Other Required Conditions.
+A. All uses shall be conducted wholly within an enclosed building,
+except for off- street parking and loading facilities.
+B. Items produced or wares and merchandise handled shall be
+limited to those sold at retail on the premises.
+C. In a CN zone, directly across the street from any RS, RM or RH
+zone, the parking and loading area shall be set back at least 10
+feet from the street right of way and said areas shall be
+appropriately landscaped along the residential street frontage to
+protect the character of adjoining and adjacent residential
+property. Such landscaping shall be maintained.
+D. See Chapter 19. 88 applying to Special Uses where applicable.
+E. Solar setbacks shall be as prescribed in Section 19. 88. 210.
+F. The front of new buildings shall be sited at the front yard
+setback line with a pedestrian walkway between the sidewalk and an
+entrance to the building. The building and any eaves, overhangs or
+awnings shall not interfere with the required clear vision area at
+corners or driveways.
+G Motor vehicle parking shall be located at the side or behind
+the building.
+Section 3. Section 19. 48. 070 of Title 19 is amended as
+follows:
+19. 48. 070 Other Required Conditions.
+2 - ORDINANCE NO. 93- 018
+0126- 1050
+A. All uses shall be conducted wholly within an enclosed building,
+except for off- street parking and loading facilities, automobile
+service stations and drive - up windows.
+B. Items produced or wares and merchandise handled shall be
+limited to those sold at retail on the premises.
+C. In any CC zone directly across the street from any R zone, the
+parking and loading shall be set back at least 10 feet from the
+street right of way and said area shall be appropriately landscaped
+along the residential street frontage to protect the character of
+the adjoining residential property. Such landscaping shall be
+maintained.
+D. See Chapter 19. 88, Provisions Applying to Special Uses, where
+applicable.
+E. New buildincts shall be sited at the front yard setback line for
+lots with one frontacte and at both yard setback lines for corner
+lots. For lots with more than two front yards. the building( s)
+shall be oriented to the two busiest streets. The building and any
+eaves overhangs. or awnings shall not interfere with the required
+clear vision area at corners or driveways.
+F. Motor vehicle parking shall be located at the side or behind
+the buildinct.
+G. At least one pedestrian walkway of concrete, paving block, or
+similar hard surface material shall be provided between the sidewalk
+and an entrance to the building.
+Section 4. Section 19. 76. 050 of Title 19 is amended as
+follows:
+19. 76. 050 Other Conditions.
+The Planning Director or Hearings Body may require the following in
+addition to the minimum standards of this Ordinance as a condition
+for site plan approval.
+A. An increase in the required yards.
+B. Additional off- street parking.
+C. Screening of the proposed use by a fence or landscaping or
+combination thereof.
+D. Limitations on the size, location and number of lights.
+E. Limitations on the number and location of curb cuts.
+F. Dedication of land for the creation or enlargement of streets
+where the existing street system will be impacted by or inadequate
+to handle the additional burden caused by the proposed use.
+G. Dedication of land or an easement for the creation or extension
+of Access Corridors for pedestrian and bicycle travel.
+G]
+H. Improvement, including, but not limited to, paving, curbing,
+installation of traffice signals, [ and] constructing sidewalks,
+3 - ORDINANCE NO. 93- 018
+0126- 1051
+striping bike lanes, or other improvements to the street system
+which serves the proposed use where the existing street system will
+be burdened by the proposed use.
+H]
+I. Improvement or enlargement of utilities serving the proposed
+use where the existing utilities system will be burdened by the
+proposed use. Improvements may include, but shall not be limited
+to, extension of utility facilities to serve the proposed use and
+installation of fire hydrants.
+I]
+J. Landscaping of the site.
+J]
+K. Transit Facility or an easement for bus pullout if on a mass
+transit route.
+L. Location or orientation of buildings and entrances closer to
+street to serve pedestrians, bicyclists and/ or mass transit use.
+M. Any other limitations or conditions which it considers
+necessary to achieve the purposes of this Ordinance.
+Section 5. Section 19. 76. 080 of Title 19 is amended to add the
+following:
+E. Bicycle Parking. The development shall provide the number and
+type of bicycle parking facility as required in Sections 19. 80. 080
+and 19. 80. 090 of this Ordinance. The location and design of bicycle
+parking facilities shall be shown on the site plan.
+F. Internal Pedestrian Circulation. Internal pedestrian
+circulation shall be provided in new office parks and commercial
+developments through the clustering of buildings, construction of
+hardsurface pedestrian walkway, and similar techniques.
+Walkways shall connect building entrances to one another and
+from building entrances to public street and existing or planned
+transit stops. On- site walkways shall connect with walkways,
+sidewalks, bikeways, and other pedestrian or bicycle connection on
+adiacent DroDerties Manned or used for commercial, multi - family,
+institutional or park use.
+G Public Transit Orientation. New retail office and
+institutional buildings on parcels within 600 feet of existing or
+planned transit routes shall provide preferential access to transit
+through the following measures:
+1. Orienting building entrances to a transit facility; or
+2. Locating buildings as close as possible to the transit
+route street.
+Section 6. Section 19. 80. 050 is amended as follows:
+19. 80. 050 General Provisions - Off - Street Parking.
+4 - ORDINANCE NO. 93- 018
+0126- 1052
+A. More Than One Use on One or More Parcels. In the event several
+uses occupy a single structure or parcel of land, the total
+requirement for off- street parking shall be the sum of the
+requirements of the several uses computed separately.
+B. Joint Use of Facilities. The off- street parking requirements
+of two or more uses, structures or parcels of land may be satisfied
+by the same parking or loading space used jointly to the extent that
+it can be shown by the owners or operators of the uses, structures
+or parcels that their operations and parking needs do not overlap in
+point of time. If the uses, structures or parcels are under
+separate ownership, the right to joint use of the parking space must
+be evidenced by a deed, lease, contract or other appropriate written
+document to establish the joint use.
+C. Location of Parking Facilities. Off- street parking spaces for
+dwellings shall be located on the same lot with the dwellings. All
+other off- street parking shall be located on the lot with the use
+or, if not located on the same lot, shall be first approved as a
+conditional use. The applicant must prove that the parking located
+on another parcel is functionally located and that there is safe
+vehicular and pedestrian access to and from the use. The burden of
+proving the existence of such off - premises parking arrangements
+rests upon the person who has the responsibility of providing
+parking.
+D. Use of Parking Facilities. Required parking space shall be
+available for the parking of operable passenger automobiles of
+residents, customers, patrons and employees only, and shall not be
+used for the storage of vehicles or materials or for the parking of
+trucks used in conducting the business or used in conducting the
+business or use.
+E. Parking, Front Yard. Unless otherwise provided, required
+parking and loading spaces for multi - family dwellings, commercial
+and industrial use shall not be located in a required front yard,
+but such space may be located within a required side or rear yard.
+F Handicapped Parking. The number, location and design of
+handicapped parking spaces shall be as required by the building
+code Buildings and uses in existence on April 30, 1993 that are
+retroactively required to provide handicapped parking facilities may
+place the handicapped spaces in the front yard setback area if it is
+not possible to locate the parking elsewhere on the site.
+G Shopping Center Parking The motor vehicle parking areas shall
+be located and designed to facilitate safe and convenient pedestrian
+and bicycle movement to and from public sidewalks, streets. or
+transit stops Ways to achieve this standard may include, but are
+not limited to•
+1 Location and orientation of buildings closer to the street
+to minimize pedestrian and bicycle travel through a
+parking area;
+5 - ORDINANCE NO. 93- 018
+0126- 1053
+2. Providing one or more raised walkways through the parking
+areas;
+3. Providing one or more walkways protected by landscaping
+and parking bumpers with areas across vehicle aisles
+delineated by non - asphaltic material in a different color
+or texture than the parking areas;
+4. Connecting on- site pedestrian walkways and bikeways to
+other existing pedestrian and bicycle circulation systems
+that serve adjacent commercial uses or residential areas.
+H. Maximum parking. The maximum number of parking spaces for a
+shopping center shall not exceed 150 percent of the required
+parking.
+I. Reduction In Required Parking. The total number of required
+motor vehicle parking spaces for an industrial, commercial, and
+office use may be reduced by 5 percent for each of the activities
+listed below provided by the owners or operators, up to a maximum 10
+percent reduction in the total number of motor vehicle spaces.
+1. Participation in an area wide carpool/ vanpool ride
+matching program for employees;
+2. Designating at least 10 percent of the employee motor
+vehicle parking spaces as carpool/ vanpool parking and
+placing such spaces closer to the building than other
+employee parking;
+3 Providing showers and lockers for employees who commute by
+bicycle;
+4. Providing twice as many covered, secured bicycle parking
+racks or facilities as required by this ordinance;
+5. Providing a transit facility that is approved by the local
+transit authority and related amenities. Related
+amenities include, but are not limited to, a public plaza,
+pedestrian sitting areas, and additional landscaping.
+Section 7. Section 19. 80. 060 of Title 19 is amended as
+follows:
+19. 80. 060 Development and Maintenance Standards for Off - Street
+Parking Areas.
+Every parcel of land hereafter used as a public or private area,
+including commercial parking lots, shall be developed as follows:
+A. An off- street parking area for more than five vehicles shall be
+effectively screened by a site - obscuring fence, hedge or planting on
+each side which adjoins a residential use or property situated in a
+residential zone or the premises of any school or like institution.
+B. Any lighting used to illuminate the off- street parking areas
+6 - ORDINANCE NO. 93- 018
+0126- 1054
+shall be so arranged that it will not project light rays directly
+upon any adjoining property in an R zone.
+C. Except for single- family and duplex dwellings, groups of more
+than two parking spaces shall be so located and served by a driveway
+that their use will require no backing movements or other
+maneuvering within a street or right of way other than an alley.
+D. Areas used for standing and maneuvering of vehicles shall be
+paved surfaces maintained adequately for all- weather use and so
+drained as to contain any flow of water on the site.
+E. Except for parking to serve residential uses, parking and
+loading areas adjacent to or within residential zones or adjacent to
+residential uses shall be designed to minimize disturbance of
+residents.
+F. Access aisles shall be of sufficient width for all vehicular
+turning and maneuvering.
+G. Service drives to off- street parking areas shall be designed
+and constructed to facilitate the flow of traffic, provide maximum
+safety of traffic access and egress and maximum safety of
+pedestrians and vehicular traffic on the site. The number of
+service drives shall be limited to the minimum that will accommodate
+and serve the traffic anticipated. Service drives shall be clearly
+and permanently marked and defined throughout by the use of rails,
+fences, walls or other barriers or markers. Service drives to
+drive- in establishments shall be designed to avoid backing movements
+or other maneuvering within a street other than an alley.
+H. Service drives shall have a minimum vision clearance area
+formed by the intersection of the driveway centerline, the street
+right of way line and a straight line joining said lines through
+points 30 feet from their intersection.
+I. Parking spaces along the outer boundaries of a parking area
+shall be contained by a curb or bumper rail so placed to prevent a
+motor vehicle from extending over an adjacent property line,
+pedestrian walkway, bikeway, or a street right of way.
+Section 8. Chapter 19. 80 of Title 19 is amended to add the
+following section:
+19. 80. 080 Required Bicycle Parking.
+A. on- site bicycle parking shall be provided as listed below.
+Fractional spaces shall be rounded to the next highest number.
+Bicycle parking for multiple uses or large commercial developments
+may be provided in one or more locations.
+Use
+Multi - family dweliLag
+with 4 units or more
+7 - ORDINANCE NO. 93- 018
+Requirement
+1 covered space per unit
+0126- 1055
+Retirement home or 2 covered spaces or 1
+covered
+assisted living complex space for every 10 employees
+whichever is greater
+Retail sales and service 1 covered space for every 10
+employees plus 1 space for
+every 20 motor vehicle
+spaces
+Street vendors, itinerant No bicycle spaces required
+merchants, and similar
+temporary sales operations
+Restaurants, cafes and 1 covered space for every 10
+taverns employees plus 1 space for
+every 20 motor vehicle
+spaces
+Professional Office 1 covered space for every 10
+employees plus 1 space for
+every 20 motor vehicle
+spaces
+Medical or dental office 1 space for every 10
+or clinic or hospital employees plus 1 space for
+every 20 motor vehicle
+Stadium, arena, theater
+or similar public use
+Elementary School
+Junior High or Middle
+School
+spaces
+1 space for every 20 seats
+1 covered space for every 10
+students in grades 2 through
+5
+1 covered space for every 10
+students
+College 1 space for every 10 motor
+vehicle spaces plus 1
+covered space for every
+dormitory unit
+Public or private
+recreational facility
+Industrial uses without
+retail trade or service
+1 space for every 10
+employees plus 1 space for
+every 20 motor vehicle
+Maces
+1 space for every 20
+20 employees
+Industrial uses with 1 covered space for every 20
+retail trade or service employees plus 1 space for
+every 20 motor vehicle
+spaces
+8 - ORDINANCE NO. 93- 018
+0126- 1056
+Section 9. Chapter 19. 80 is amended to add the following
+section:
+19. 80. 090 Bicyle Parking Location and Design: Other Required
+Conditions.
+A. Each required bicycle parking space shall be on asphaltic
+concrete, Portland cement, or similar hard surface material
+and each space shall be at least 2 feet wide by 6 feet long
+with a minimum vertical clearance of 7 feet. An access
+aisle at least 5 feet wide shall be provided and maintained
+beside or between each row of bicycle parking.
+B. Bicycle parkin facilities shall offer securitv in the form
+of either a lockable enclosure in which the bicycle can be
+stored or a stationary rack upon which the bicycle can be
+locked. Bicycle rack design must accommodate both U shaped
+locks and cables and include but are not limited to such
+shapes as an inverted " II" design or a " ribbon". Racks
+shall be securely anchored to a walkway, parking lot,
+building, or other approved structure.
+C. Where required, covered bicycle parking may be provided
+underneath an awning, eave, or other structural overhang,
+inside the main building or an accessory narking structure,
+or other facility as determined by the Site Plan Review
+that protects the bicycle from direct exposure to the
+elements.
+D. Except as noted below, all required bicycle parking shall
+be located on- site within 50 feet of well - used entrances
+and not farther than the closest motor vehicle parking
+space. Bicycle parking for multiple uses such as a
+commercial center or college may be clustered in one or
+more locations that are convenient for bicyclists but must
+meet all requirements for bicycle parking.
+E. Lighting shall be provided in a bicycle parking area so
+that all facilities are thoroughly illuminated and visible
+from adjacent sidewalks or motor vehicle parking lots.
+Bicycle parking shall be at least as well - lit as motor
+vehicle parking.
+F. New commercial developments and public buildings in which
+25 or more persons will be employed, shall provide changing
+room( s) and shower( s) for employees who bicycle to work.
+Such facilities may be incorporated into restrooms,
+exercise rooms or similar facilities in the building.
+Section 10. Section 19. 104. 080 of Title 19 is amended as
+follows:
+19. 104. 080 Standards and Requirements.
+Approval of a request for a planned unit development is
+9 - ORDINANCE NO. 93- 018
+0126- 105' 7
+dependent upon the submission of an acceptable plan and
+satisfactory assurance that it will be carried out. The
+following minimum standards and requirements shall apply:
+A. A dwelling use permitted in any zone may be permitted in a
+planned unit development.
+B. A manufactured home may be permitted in a planned unit
+development. However, manufactured home parks shall not be
+allowed in any commercial or industrial zone.
+C. Developments which either provide for or contemplate
+private streets and ways and common areas which will be or
+are proposed to be maintained by the owners of units or
+lots within a development must organize and maintain an
+owners' association. The owners' association shall consist
+of all the owners of units or lots within the development
+and membership in the association must be required of all
+owners; adopt and record bylaws as provided by ORS 91. 555;
+adopt bylaws that contain the provisions required by ORS
+91. 560; and have the power to create a lien upon the unit
+or lot for services, labor or material lawfully chargeable
+as common expenses as provided in ORS 91. 580. The
+association' s power to create such a lien shall exist
+whether or not the property is subject to the Oregon Unit
+Ownership Law ( ORS 91. 505 - 91. 675.)
+D. If the property is not subject to the Unit Ownership Law,
+the association shall also create, by contract, the right
+to claim a lien upon any unit or lot for services, labor or
+material chargeable as common expenses. This lien may be
+created by covenants between the association and the
+property owners and shall supplement the lien created by
+C) above and require all owners of units or lots within
+the development to consent to and pay the reasonable value
+of services, labor or material expended by the County for
+common expenses where such County expenditures are made
+because the owners or the owners' association does not
+provide the necessary services, labor or material for
+common expenses.
+E. Streets and roads in planned unit development designated
+developments shall be public roads and ways developed to
+County standards or be private roads of a minimum 14 feet
+wide paved surface for one- way traffic; minimum 20 feet
+wide paved surface for two- way traffic; parallel parking as
+permitted shall require minimum additional 8 feet of width
+for each side of parking. If pedestrian walkways or
+bikeways are included in the road. an additional 5 feet of
+pavement width on each side of the roadway shall be
+provided and striped to separate such use from motor
+vehicle traffic and parking. In addition to these
+requirements, the Planning Director or Hearings Body may
+specify other requirements including, but not limited to,
+increased or decreased pavement width.
+10 - ORDINANCE NO. 93- 018
+0126- 1058
+F. Pedestrian walkways and bikeways shall be provided for
+adequate internal pedestrian and bicycle traffic, and shall
+connect to any adjacent existing or planned sidewalks,
+bikeways. access corridors, or public trails. Off- street
+pedestrian walkways and bikeways shall be at least 10 feet
+in width to accommodate two- way traffice and shall be
+constructed with Portland cement or asphaltic concrete to
+County standards, except as varied by the provisions of
+this section or by the Planning Director or Hearings Body.
+G. All utility facilities shall be installed underground and
+in accordance with County standards.
+H. The design of all planned unit development projects shall
+provide direct access for all units and lots to open space
+areas and facilities. Open space areas and facilities
+include such things as landscaped areas, natural areas,
+ciolf courses, and other recreational faclities. but do not
+include streets, sidewalks, bikeways, access corridors or
+trails.
+I. A statement must be submitted relative to the solar access
+to be provided by the planned unit development.
+11 - ORDINANCE NO. 93- 018
+0126- 1059
+DATED this l97VI day of , 1993.
+BOARDOF COUNTY COMMISSIONERS
+OF DES UTES COUNTY, OREGON
+ATTEST:
+Recording Secretary
+12 - ORDINANCE NO. 93- 018
+NANCY PO SLANGEN,- COiinilssione
+BARRY . SLAUGHTER, Commissioner

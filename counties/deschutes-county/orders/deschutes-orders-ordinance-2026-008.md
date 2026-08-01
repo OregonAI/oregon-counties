@@ -1,0 +1,217 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2026-008
+title: 'Ordinance No. 2026-008'
+doc_type: ordinance
+citation: 'Ordinance No. 2026-008'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1774450605_2026-84-Ordinance%20No.%202026-008%20Recorded%203242026.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 959762fe21e4c2fe7faf4d173c48d55c94df1be58b818d5bc88861ac03efb315
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2026-008 (Ordinance No. 2026-008)
+
+## At a glance
+
+Ordinance No. 2026-008 — orders of Deschutes County. 7 pages.
+
+## Full text
+
+REVI
+�
+LEG&OUNSEL
+I
+Recorded in Deschutes County
+Steve Dennison, County Clerk
+Comrnissioners' Journal
+CJ2026-84
+03/24/2026 4:23:30 PM
+1111\ 11 \ 1\11\ 111111\ 111111\1
+2026-84
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Adopting Chapter 2.35, Contested
+Case Procedures, to Title 2 of the Deschutes County
+Code.
+*
+*
+* ORDINANCE NO. 2026-008
+WHEREAS, the Deschutes County Code (DCC) contains rules and regulations duly enacted through
+ordinance by Deschutes County and the Deschutes County Board of Commissioners; and
+WHEREAS, from time-to-time the need arises to make amendments, including new enactments to the
+DCC; and
+WHEREAS, staff from the Health Department have identified a need to adopt DCC 2.35 to provide
+contested case procedures and an administrative hearing process to facilitate enforcement of public health
+violations; and
+WHEREAS, the Board of County Commissioners of Deschutes County considered this matter at a duly
+noticed public hearing on March 18, 2026, and determined that DCC 2.35 should be adopted; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. ADOPTION. DCC 2.35 is adopted to read as described in Exhibit "A," attached hereto and
+by this reference incorporated herein.
+Section 2. EMERGENCY. An emergency is declared, and this Ordinance takes effect on
+March 18, 2026.
+Ill
+PAGE 1 OF 2 - ORDINANCE NO. 2026-008
+Dated this
+-f'-,
+11 of j\J\J}J, �' 2026
+ATTEST:
+1u � � fitvllel
+Recording Secretary
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+PID:::G�
+PA TIADMR, 7Commfs�oner
+Date of 1st Reading: 3 , \ )? , 2-o-z__"° .
+Date of 2nd Reading: _..c.._.3_1_1_9_, 2-_0_1-------'-�-
+Commissioner
+Patti Adair
+Phil Chang
+Anthony DeBone
+Effective date: March 18, 2026.
+PAGE 2 OF 2 - ORDINANCE NO. 2026-008
+No
+Record of Adoption Vote
+Abstained Excused
+EXHIBIT A
+{To Ordinance #2026-008)
+CHAPTER 2.35 CONTESTED CASE PROCEDURES
+2.35.01 o Purpose; Statutory Authority
+2.35.020 Contested Case Procedures
+2.35.030 Civil Penalties
+2.35.01 O Purpose; Statutory Authority
+The purpose of DCC 2.35 is to implement an administrative hearing process, compliant
+with applicable provisions in ORS Chp. 183 and OAR Chp. 333-157, to facilitate
+enforcement of public health violations, including those identified in ORS Chp.624, ORS
+Chp. 448, and ORS Chp. 446. This chapter shall be known as the Deschutes County
+Contested Case Procedures Code and may be referred to herein as "this chapter."
+HISTORY
+Adopted by Ord. 2026-008 §1 on 3/18/2026
+2.35.020 Contested Case Procedures
+A. Any operator of a facility or water system licensed by the County alleged to be in
+violation of applicable provisions of ORS Chp. 624, ORS Chp. 448, or ORS Chp. 446 and
+against whom Deschutes County Public Health seeks to impose civil penalties, may
+request an administrative hearing pursuant to this chapter.
+B. "Hearings Officer" means the person designed by the County to preside over
+administrative hearings conducted pursuant to this chapter. The person so designated
+may not have any direct personal or financial interest in the contested matter.
+C. For purposes of this section, "Operator of a Licensed Facility or System" means:
+1. Each person entitled as of right to a hearing before the Board;
+2. Each person named by the County to be the owner or operator of a licensed facility
+or system; or
+3. Any person or entity requesting to participate in the administrative hearing as a party
+or in a limited party status and the County determines either has an interest in the outcome
+of the County's administrative hearing or represents a public interest in such result.
+D. Filing Request for Administrative Hearing. The operator of the licensed facility or
+system must file and the County must receive a written (hard copy, not fax or electronic)
+Request for Administrative Hearing no later than twenty-one (21) days after receipt of the
+County's Notice of Intent to: deny, revoke, or suspend a license, or to levy civil penalties
+due to operation of a facility or drinking water system without required permit and
+inspections. If the twenty-first day falls on a Saturday, Sunday or legal holiday, the
+deadline shall be extended to the next regular business day. The Notice of Intent shall be
+deemed received no later than three (3) days after issuance of same.
+E. Parties may elect to be represented by counsel and to respond and present
+evidence and argument on all issues involved.
+F. Unless precluded by law, informal disposition may be made of any case by
+stipulation, agreed settlement, consent order, default or written agreement.
+G. The assigned Hearings Officer shall place on the record a statement of the
+substance of any written or oral ex pa rte communications, if any, on a fact in issue made to
+the Hearings Officer during the pendency of the proceeding and notify the parties of the
+communication and of their right to rebut such communications.
+H. The record in support of a decision shall be made at the time set for hearing or any
+extension thereof approved by the Hearings Officer. Testimony may be given without oath
+or affirmation. Cross-examination of witnesses by parties shall not be allowed. Provided
+however, the Hearings Officer may question any witness appearing before him/her. A
+verbatim oral, written or mechanical record shall be made of all motions, rulings and
+testimony. The Hearings Officer shall ensure that the record developed at the hearing
+shows a full and fair inquiry into the facts necessary for consideration of all issues properly
+before the Hearings Officer. The record need not be transcribed unless requested for
+purposes of court review. The party requesting transcription shall pay the cost thereof.
+I. Evidence in contested cases. In contested cases:
+1. Irrelevant, immaterial or unduly repetitious evidence shall be excluded but
+erroneous rulings on evidence shall not preclude action on the record if shown to have
+substantially prejudiced the rights of a party. All other evidence of a type commonly relied
+upon by reasonably prudent persons in the conduct of their serious affairs shall be
+admissible. The Hearings Officer shall give effect to the rules of privilege recognized by law.
+Objections to evidentiary offers may be made and shall be noted in the record. Any part of
+the evidence may be received in written form.
+2. All evidence shall be offered and made a part of the record in the case, and except
+for matters stipulated to and except as provided in paragraph (4) of this subsection, no
+other factual information or evidence shall be considered in the determination of the case.
+Documentary evidence may be received in the form of copies or excerpts, or by
+incorporation by reference. The burden of presenting evidence to support a fact or position
+in a case rests on the proponent of the fact or position.
+3. Every party shall have the right to submit rebuttal evidence.
+4. The Hearings Officer may take notice of judicially cognizable facts. Parties shall be
+notified at any time during the proceeding but in any event prior to the final decision of
+material officially noticed and they shall be afforded an opportunity to contest the facts so
+noticed.
+5. Cross-examination of witnesses is not allowed, however, questions may be
+tendered to the Hearings Officer who may then direct all or some of such questions to a
+witness.
+J. Costs. The Hearings Officer may allocate the County's costs for the hearing between
+the operator of the licensed facility or system and the County. The allocation shall be
+based upon facts found by the Hearings Officer and stated in the Hearing Officer's decision
+that, in the Hearings Officer's opinion, warrant such allocation of costs. If the Hearings
+Officer does not allocate costs, the costs shall be paid in full by the operator of the
+licensed facility or system.
+K. The Hearings Officer shall issue a written, proposed final order, including findings of
+fact, conclusions of law, and imposition of civil penalty, if any, and furnish a copy thereof
+on all parties. The proposed order shall become final no later than seven (7) days following
+the date of the proposed order, unless the Hearings Officer within that period issues an
+amended order.
+HISTORY
+Adopted by Ord. 2026-008 §1 on 3/18/2026
+2.35.030 Civil Penalties
+The Hearings Officer is authorized to impose civil penalties as allowed by ORS Chp. 183
+and OAR Chp. 333.
+HISTORY
+Adopted by Ord. 2026-008 §1 on 3/18/2026
+BOARD OF
+COMMISSIONERS
+AGENDA REQUEST & STAFF REPORT
+MEETING DATE: March 18, 2026
+SUB!ECT: Public Hearing: Ordinance No. 2026-008, adopting Chapter 2.35 to Title 2 of the
+Deschutes County Code
+RECOMMENDED ACTIONS:
+Open the public hearing; receive testimony; close the public hearing; deliberate.
+1. Move first and second reading, by title only, of Ordinance No. 2026-008, adopting
+Chapter 2.35 to Title 2 of the Deschutes County Code.
+2. Move emergency adoption of Ordinance No. 2026-008 to take effect immediately.
+BACKGROUND AND POLICY IMPLICATIONS:
+Applicable provisions in State law authorize the Oregon Health Authority to enter into
+interlocal agreements (IGAs) with local governments providing for licensing, inspection and
+enforcement of State public and environmental health laws. ORS and OHA's IGA with
+Deschutes County obligate the County to have an administrative hearings process. The County
+has relied on provisions in DCC 2.37 to meet this requirement, however, DCC 2.37 is specific to
+contracting and procurement and is not a good fit for contested public and environmental
+health hearings. The proposed section 2.35 will provide a clear and compliant process for
+processing contested matters.
+BUDGET IMPACTS:
+None
+ATTENDANCE:
+H ea Ith staff
+Legal

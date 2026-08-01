@@ -1,0 +1,407 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch244
+title: 'Ch244'
+doc_type: ordinance
+citation: 'Ch244'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/Administrative%20Code/Ch244.pdf?t=202406251612080
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 0500411500fbf02bd7942c48449e8a130c32c7bc74b0542dab538be9dcec1fb2
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 401.025
+    - ORS 401.270
+    - ORS 401.305
+    - ORS 401.480
+    - ORS 466.605
+    - ORS 469.535
+    - ORS 682.205
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch244 (Ch244)
+
+## At a glance
+
+Ch244 — code of Jackson County. 8 pages.
+
+## Full text
+
+CHAPTER 244
+Organization for Emergency Management
+
+244.01 Repealed.
+244.02 Repealed.
+244.03 Repealed.
+244.04 Repealed.
+244.05 Repealed.
+244.06 Repealed.
+244.07 Repealed.
+244.08 Repealed.
+244.09 Repealed.
+244.10 Repealed.
+244.11  Repealed.
+244.12 Repealed.
+244.13 S
+tatement of Purpose and Authority.
+244.14 Definitions.
+244.15 Declaration of State of Emergency.
+244.16 Authority, Control, and Management of Resources during State of Emergency.
+244.17 Scope and Effect of Rules and Orders during a State of Emergency.
+244.18 Responsibility for Emergency Management within Jackson County.
+244.19 Jackson County Emergency Operations Plan.
+244.20 Emergency Operations Center.
+244.21 Termination of State of Emergency.
+244.22 Penalties.
+244.23 Separability.
+
+CROSS REFERENCES
+
+State emergency operations center - see ORS 401.270
+Local government emergency services - see ORS 401.305 et seq.
+Reciprocal emergency aid and resources, State, counties and cities - see ORS
+401.480
+Nuclear accidents and catastrophes - see ORS 469.535
+Emergency medical services plans - see ORS 682.205
+Ambulance Service Advisory Committee - see ADM. Ch. 253
+Mass gatherings - see GEN. OFF. Ch. 620
+Emergency medical care for prisoners - see S.U. & P.S. 1072.01
+Ambulance service areas - see S.U. & P.S. Ch. 1075
+
+244.01 (Ord. 84-13. Passed 5-30-84; REPEALED by E. Ord. 86-28. Passed 11-17-86;
+P. Ord. 86-3. Passed 11-17-86.)
+
+104 Organization for Emergency Management 244.13
+
+244.02 (Ord. 84-13. Passed 5- 30-84; REPEALED by E. Ord. 86-28. Passed 11-17-86;
+P. Ord. 86-3. Passed 11-17-86.)
+
+244.03 (Ord. 84-13. Passed 5- 30-84; REPEALED by E. Ord. 86-28. Passed 11-17-86;
+P. Ord. 86-3. Passed 11-17-86.)
+
+244.04 (Ord. 84-13. Passed 5- 30-84; REPEALED by E. Ord. 86-28. Passed 11-17-86;
+P. Ord. 86-3. Passed 11-17-86.)
+
+244.05 (E. Ord. 86-28. Passed 11-17-86; P. Ord. 86- 3. Passed 11-17-86; REPEALED
+by E. Ord. 92-12. Passed 7-1-92; P. Ord. 92-11. Passed 7-15-92.)
+
+244.06 (E. Ord. 86-28. Passed 11-17-86; P. Ord. 86- 3. Passed 11-17-86; REPEALED
+by E. Ord. 92-12. Passed 7-1-92; P. Ord. 92-11. Passed 7-15-92.)
+
+244.07 (E. Ord. 86-28. Passed 11-17-86; P. Ord. 86- 3. Passed 11-17-86; REPEALED
+by E. Ord. 92-12. Passed 7-1-92; P. Ord. 92-11. Passed 7-15-92.)
+
+244.08 (E. Ord. 86-28. Passed 11-17-86; P. Ord. 86- 3. Passed 11-17-86; REPEALED
+by E. Ord. 92-12. Passed 7-1-92; P. Ord. 92-11. Passed 7-15-92.)
+
+244.09 (E. Ord. 86-28. Passed 11-17-86; P. Ord. 86- 3. Passed 11-17-86; REPEALED
+by E. Ord. 92-12. Passed 7-1-92; P. Ord. 92-11. Passed 7-15-92.)
+
+244.10 (E. Ord. 86-28. Passed 11-17-86; P. Ord. 86- 3. Passed 11-17-86; REPEALED
+by E. Ord. 92-12. Passed 7-1-92; P. Ord. 92-11. Passed 7-15-92.)
+
+244.11 (E. Ord. 86-28. Passed 11-17-86; P. Ord. 86- 3. Passed 11-17-8 6; REPEALED
+by E. Ord. 92-12. Passed 7-1-92; P. Ord. 92-11. Passed 7-15-92.)
+
+244.12 (E. Ord. 86-28. Passed 11-17-86; P. Ord. 86- 3. Passed 11-17-86; REPEALED
+by E. Ord. 92-12. Passed 7-1-92; P. Ord. 92-11. Passed 7-15-92.)
+
+244.13 STATEMENT OF PURPOSE AND AUTHORITY.
+
+It is the policy of the State of Oregon that preparations for emergencies and governmental
+responsibility for responding to emergencies be placed at the local government level.
+Pursuant to State statute, the executive officer or governing body of each county or city is
+responsible for the emergency services system within the respective jurisdiction. It is the
+purpose of this ordinance to comply with these State requirements and to set out
+procedures for emergency response so that the County is better able to protect the health
+and welfare of its citizens.
+
+(E. Ord. 94-1. Passed 1-12-94; P. Ord. 94-2. Passed 1-26-94.)
+244.14 Organization for Emergency Management  105
+
+244.14 DEFINITIONS.
+
+As used in Sections 244.13 to 244.22:
+
+(a) Board means the Jackson County Board of Commissioners.
+
+(b) Disaster means an actual or potential emergency that exceeds the capacity of either
+local government or the emergency services system to effectively respond and that
+requires immediate action in order to protect life and property.
+
+(c) Disaster Response means a response by organizational units of local government
+exceeding mutual aid directed toward any emergency in an attempt to mitigate the effects
+of the emergency upon the public welfare. The effects of the emergency, either actual or
+potential, must be of such magnitude that available resources must be directed to the
+response effort.
+
+(d) Emergency means any manmade or natural event or circumstances causing or
+threatening loss of life, injury to person or property, human suffering, or financial loss
+and includes, but is not limited to, fire, explosion, flood, severe weather, drought,
+earthquake, volcanic activity, spills or releases of oil or hazardous material as defined in
+ORS 466.605, contamination, utility or transportation emergencies, disease, blight,
+infestation, civil disturbance, riot, sabotage, and war.
+
+(e) Emergency Response means prompt action directed at safeguarding the public's
+welfare through procedures designed to minimize danger to life, health, property loss, or
+related impacts. The level of response is a function of the severity of the emergency, the
+impact or potential impact upon persons or property, and the ability of government to
+respond given limitations of budget, personnel, and equipment.
+
+(f) Emergency Service Agency  means an organization within a local government that
+performs essential services for the public's benefit prior to, during, or following an
+emergency. Emergency service agencies include:
+
+(1) Primary response organizations which are organizations within local
+governments that provide law enforcement, fire suppression, responses to spills
+or releases of oil or hazardous material as defined in ORS 466.605, medical
+treatment, and medical transportation; and
+
+(2) Secondary response organizations which are organizations within local
+governments that provide for public works, road engineering and repair, and
+public health.
+106 Organization for Emergency Management 244.15
+
+(g) Incident Command System (ICS) means an all risk system enabling emergency
+organizations to function in a multi-agency environment through the use of standardized
+organization, terminology, procedures, and communications. It provides a generic
+organizational structure with the five functional areas of command, operations, planning,
+logistics and finance.
+
+(h) Mutual Aid is a concept that allows resource sharing between two or more response
+organizations that are separately funded and whose jurisdictional areas do not overlap.
+Use of the resources is based upon written operational agreements (Mutual Aid
+Agreements) between two or more response organizations through which resources are
+shared and the functions of command and control have been agreed upon beforehand.
+
+(i) State of Emergency  is an operational condition of government declared pursuant to
+Section 244.15 wherein the  usual and customary procedures of government may be
+suspended to enable immediate resource deployment to safeguard life and property in
+accordance with the Jackson County Emergency Operations Plan.
+
+(j) Unified Command Concept means the method by which local, State, and Federal
+agencies will work with the incident commander to:
+
+(1) Determine their roles and responsibilities for a given incident.
+
+(2) Determine their overall objectives for management of an incident.
+
+(3) Select a strategy to achieve agreed upon objectives.
+
+(4) Deploy resources to achieve agreed upon objectives.
+
+(E. Ord. 94-1. Passed 1-12-94; P. Ord. 94-2. Passed 1-26-94.)
+
+244.15 DECLARATION OF STATE OF EMERGENCY.
+
+(a) The authority to declare a state of emergency rests with the Board of County
+Commissioners. If the chairman of the Board finds that circumstances prohibit timely
+action of the Board, the chairman of the Board is empowered to declare a state of
+emergency. In the event the chairman of the Board is unavailable or unable to perform
+his/her duties under this section, the duties shall be performed by the following
+individuals in the order listed: the vice-chair of the Board, the third member of the Board,
+or the County Administrator or the County Administrator's designee as set out in writing
+and filed with the Jackson County Emergency Operations Plan.
+
+(b) A declaration of a state of emergency made other than by majority vote of the Board
+shall be deemed to be affirmed by the Board unless the Board, by majority vote, sets
+aside the declaration within forty-eight hours after the declaration was made.
+244.16 Organization for Emergency Management  107
+
+(c) When, in the judgment of the person or persons authorized under subsection (a)
+hereof, a state of em ergency exists, or when a state of emergency has been declared by
+the President of the United States or the Governor of Oregon, the person or persons thus
+authorized may declare and publicize the existence of such state of emergency by any
+means that are deemed appropriate and will achieve notice throughout the County.
+
+(d) Any declaration of a state of emergency must specify the geographical area covered
+by the declaration and shall state the factors that necessitate such action.
+
+(E. Ord. 94-1. Passed 1-12-94; P. Ord. 94-2. Passed 1-26-94.)
+
+244.16 AUTHORITY, CONTROL, AND MANAGEMENT OF RESOURCES
+DURING STATE OF EMERGENCY.
+
+When a state of emergency has been declared, the Board or those persons then in the
+position of authority under Section 244.15(a) are empowered, to the extent otherwise
+authorized by statute, to order and enforce emergency measures, including, but not
+limited to, the power to:
+
+(a) Redirect County funds for emergency use;
+
+(b) Suspend standard County procurement procedures;
+
+(c) Extend governmental authority to nonpublic resources (i.e. personnel and
+equipment) required to support regular County resources. When property is taken under
+such power, the owner of the property is entitled to reasonable compensation.
+
+(d) Enter into mutual aid agreements and agreements with other public and private
+agencies for use of resources, including police and law enforcement;
+
+(e) Establish a curfew for the emergency area;
+
+(f) Evacuate persons from the emergency area;
+
+(g) Limit the number of persons who may congregate in public within the emergency
+area;
+
+(h) Restrict and regulate vehicular and pedestrian traffic to, from, and within the
+emergency area;
+
+(i) Curtail or suspend commercial activity within the emergency area;
+
+(j) Direct all rescue and salvage work, and do all things deemed advisable and
+necessary to alleviate the immediate condition;
+108 Organization for Emergency Management  244.17
+
+(k) Designate persons to coordinate the work of public and private relief agencies
+operating in such area and exclude from such area any person or agency refusing to
+cooperate with and work under such coordinator or to cooperate with other agencies
+engaged in emergency work;
+
+(l) Control, restrict, and regulate the distribution and use of food, feed, fuel, clothing,
+other commodities, materials, goods, and services by rationing, freezing, use of quotas,
+prohibitions on shipments, price fixing, allocation, or other means;
+
+(m) Direct activities in connection with the use, conservation, and salvage of essential
+materials, services, and facilities. These materials, services, and facilities may include
+production, transportation, power and/or communication facilities, the training and
+supply of labor, health and medical care, housing, rehabilitation, education, child care,
+recreation, and consumer protection; and
+
+(n) Take any other action that may be necessary for the management of resources
+following an emergency.
+
+(E. Ord. 94-1. Passed 1-12-94; P. Ord. 94-2. Passed 1-26-94.)
+
+244.17 SCOPE AND EFFECT OF RULES AND ORDERS DURING A STATE
+OF EMERGENCY.
+
+(a) The authority to issue or promulgate rules and orders under this chapter may be
+exercised with respect to the entire area over which the Board has jurisdiction or to any
+specified part thereof.
+
+(b) All rules and orders issued under authority conferred by this chapter shall have the
+full force and effect of law during a declared state of emergency. All previously existing
+ordinances, rules, and orders inconsistent with this chapter shall be inoperative during the
+period of time and to the extent such inconsistencies exist.
+
+(c) The County Administrator, on behalf of the County, shall have the authority to enter
+into mutual aid agreements between the County and cities within the County or
+neighboring counties. These agreements may provide for the support of the activities of
+these other jurisdictions during a state of emergency but may not provide for the
+assumption of control over non-Jackson County personnel, equipment, or resources.
+
+(E. Ord. 94-1. Passed 1-12-94; P. Ord. 94-2. Passed 1-26-94.)
+244.20 Organization for Emergency Management   109
+
+244.18 RESPONSIBILITY FOR EMERGENCY MANAGEMENT WITHIN
+JACKSON COUNTY.
+
+There is hereby formed in Jackson County an Emergency Management Program. The
+County Administrator has responsibility for the organization, administration, and
+operation of the Jackson County Emergency Management Program, subject to the
+direction and control of the County governing body (ORS 401.305), and this chapter.
+
+The County Administrator shall appoint a Manager to administer the Emergency
+Management Program. The appointed manager shall be responsible for day -to-day
+operations defined in ORS 401.025(6).
+
+(E. Ord. 94-1. Passed 1-12-94; P. Ord. 94-2. Passed 1-26-94.)
+
+244.19 JACKSON COUNTY EMERGENCY OPERATIONS PLAN.
+
+The Emergency Management Program shall be responsible for the preparation of an
+emergency operations plan, hereinafter referred to as "plan." This plan shall be a written
+document detailing mitigation, preparedness, response, and recovery processes for use in
+dealing with actual or potential disasters, and shall provide a framework within which
+emergency response agencies may function to safeguard life and property. The plan is
+intended to be used only as a guide and does not carry the force of law. All County
+departments are authorized to take immediate action outside of the plan when human life
+is threatened. Nothing within this section requires the County to provide services to a city
+exceeding provisions of the Emergency Operations Plan.
+
+(E. Ord. 94-1. Passed 1-12-94; P. Ord. 94-2. Passed 1-26-94.)
+
+244.20 EMERGENCY OPERATIONS CENTER.
+
+(a) To facilitate emergency response, an Emergency Operations Center (EOC) may be
+established as needed. The EOC will be staffed and equipped to enable radio
+communications with field units and on -site command posts, and with the State of
+Oregon Emergency Operations Center, the State of Oregon Emergency Management
+(OEM), and Emergency Management Program.
+
+(b) The EOC shall be established in one of the following locations:
+
+(1) Jackson County Emergency Communications Center located at 400 Pech Road,
+Medford, Oregon whose mailing address is 400 Pech Road, Central Point
+Oregon 97502;
+
+(2) Community Justice Building 2 nd floor, located at 1101 W. Main Street,
+Medford Oregon 97501.
+110 Organization for Emergency Management  244.23
+
+(c) A mobile EOC will be deployed to field locations as needed.  The Sheriff’s
+Department shall be responsible for the deployment of the mobile EOC.
+
+(d) The EOC shall be operated pursuant to the Incident Command System. The County
+Administrator or his/her designee appointed pursuant to Section 244.15(a) shall perform
+the duty of incident commander and shall make all personnel assignments according to
+need. Whenever an emergency affects two or more political subdivisions, the concept of
+Unified Command shall be put into effect.
+
+(e) The EOC will be staffed by personnel from County government and other public
+and private entities as needed.
+
+(f) The Emergency Management Program Manager will schedule quarterly training for
+EOC personnel.
+
+(E. Ord. 94-1. Passed 1-12-94; P. Ord. 94- 2. Passed 1- 26-94; Ord. 2011-1. Passed 2-16-
+11.)
+
+244.21 TERMINATION OF STATE OF EMERGENCY.
+
+The Board shall declare the termination of the existence of a state of emergency. A state
+of emergency shall be terminated at the earliest date conditions warrant. The Board shall
+publicize said termination throughout the County. Upon such declaration of termination,
+all emergency rules and orders and extraordinary authority and controls allowed by this
+chapter shall have no further force or effect and shall cease to exist.
+
+(E. Ord. 94-1. Passed 1-12-94; P. Ord. 94-2. Passed 1-26-94.)
+
+244.22 PENALTIES.
+
+Any person, firm, corporation, association or entity that violates any emergency measure
+taken under authority of this ordinance shall be subject to all of the penalties and
+provisions of Section 202.99 of these Codified Ordinances.
+
+(E. Ord. 94-1. Passed 1-12-94; P. Ord. 94-2. Passed 1-26-94.)
+
+244.23 SEPARABILITY.
+
+If any section, subsection, sentence, clause, phrase or portion of this ordinance is, for any
+reason, held invalid or unconstitutional by a court of competent jurisdiction, such portion
+shall be deemed a separate, distinct, and independent provision, and such holding shall
+not affect the validity of the remaining portions of this ordinance.
+
+(E. Ord. 94-1. Passed 1-12-94; P. Ord. 94-2. Passed 1-26-94.)

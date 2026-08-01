@@ -1,0 +1,3444 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2023-001
+title: 'Ordinance No. 2023-001'
+doc_type: ordinance
+citation: 'Ordinance No. 2023-001'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1685542647_2023-74-Ordinance%20No.%202023-001%20Recorded%203_3_2023.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: ee2f313156ba1e1a12732e4a6a25be8700b25a094ab9cf901b969247c171706e
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.493
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2023-001 (Ordinance No. 2023-001)
+
+## At a glance
+
+Ordinance No. 2023-001 — orders of Deschutes County. 106 pages.
+
+## Full text
+
+Recorded in Deschutes County C J2023- 74
+Steve Dennison, County Clerk
+REVIEWED Commissioners' Journal 03/ 03/ 2023 1: 30: 08 PM
+LEGAL COUNSEL
+F°
+II' II "III"II' IIIII'IIIIIII
+2023- 74
+For Recording Stamp Only
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 17, Subdivision and
+Partition Ordinance, Title 18, Zoning Ordinance, * ORDINANCE NO. 2023- 001
+Title 22, Procedures Ordinance of the Deschutes
+County Code, andTitle 23, DeschutesCounty
+Comprehensive Plan to Incorporate Changes to State
+Law, and Provide Clarification of Existing
+Regulations, Procedures, and Policies.
+WHEREAS, the DeschutesCounty Community DevelopmentDepartment (CDD) initiated amendments
+Planning Division File No. 247- 22- 000922- TA) to the Deschutes County Code (" DCC"), Chapter 17. 24 — Final
+Plat, Chapter 18. 04 — Purpose and Definitions, Chapter 18. 16 — Exclusive Farm Use Zones, Chapter 18. 32 —
+Multiple Use Agricultural Zone MUA, Chapter 18. 36 — Forest Use Zone F1, Chapter 18. 40 — Forest Use Zone F2,
+Chapter 18. 48 — Open Space and Conservation Zone OS& C, Chapter 18. 60 — Rural Residential Zone RR- 10,
+Chapter 18. 61 — Urban Unincorporated Community Zone La Pine, Chapter 18. 65 — Rural Service Center
+Unincorporated Community Zone, Chapter 18. 76 — Airport Development Zone A- D, Chapter 18. 80 — Airport
+Safety Combining Zone AS, Chapter 18. 96 — Flood Plain Zone FP, Chapter 18. 100 — Rural Industrial Zone R- 1,
+Chapter 18. 108 — Urban Unincorporated Community Zone Sunriver, Chapter 18. 116 — Supplementary Provisions,
+Chapter 18. 124 — Site Plan Review, Chapter 22. 04 — Introductions and Definitions, and Title 23 — Deschutes
+County ComprehensivePlanChapter5; and
+WHEREAS, theDeschutesCounty Planning Commissionreviewedtheproposedamendmentson January
+26, 2023, and subsequentlyforwarded a recommendationof Approval to the DeschutesCounty Board of County
+Commissioners (" Board"); and
+WHEREAS, the Board considered this matter after a duly noticed public hearing on February 15, 2023,
+and concluded that the public will benefit from the proposedchangesto the DeschutesCounty Comprehensive
+PlanTitle 23 and DeschutesCounty CodeChapterTitles 17, 18, and22; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 17. 24 is amended to read as described in Exhibit " A," attached hereto
+and by this referenceincorporatedherein, with new languageunderlinedand languageto be deletedin
+Section 2. AMENDMENT. DCC 18. 04 is amended to read as described in Exhibit " B," attached hereto
+and by this referenceincorporatedherein, with new languageunderlinedand languageto be deletedin
+PAGE 1 OF 4 - ORDINANCE NO. 2023- 001
+Section 3. AMENDMENT. DCC 18. 16 is amended to read as described in Exhibit " C," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+strikethr- eugh.
+Section 4. AMENDMENT. DCC 18. 32 is amended to read as described in Exhibit " D," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+Section 5. AMENDMENT. DCC 18. 36 is amended to read as described in Exhibit " E," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+str-ikethr- ough.
+Section 6. AMENDMENT. DCC 18. 40 is amended to read as described in Exhibit " F," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+Section 7. AMENDMENT. DCC 18. 48 is amended to read as described in Exhibit " G," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+Section 8. AMENDMENT. DCC 18. 60 is amended to read as described in Exhibit " H," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+Section 9. AMENDMENT. DCC 18. 61 is amended to read as described in Exhibit " I," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+str-ilk.
+Section 10. AMENDMENT. DCC 18. 65 is amended to read as described in Exhibit " J," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+Section 11. AMENDMENT. DCC 18. 76 is amended to read as described in Exhibit " K," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+Section 12. AMENDMENT. DCC 18. 80 is amended to read as described in Exhibit " L," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+st .iketthr-o gh.
+Section 13. AMENDMENT. DCC 18. 96 is amended to read as described in Exhibit " M," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+Section 14. AMENDMENT. DCC 18. 100 is amended to read as described in Exhibit " N," attached
+hereto and by this reference incorporatedherein, with new languageunderlined and languageto be deleted in
+PAGE 2 OF 4 - ORDINANCE NO. 2023- 001
+Section 15. AMENDMENT. DCC 18. 108 is amended to read as described in Exhibit " O," attached
+hereto and by this referenceincorporated herein, with new languageunderlined and languageto be deleted in
+Section 16. AMENDMENT. DCC 18. 116 is amended to read as described in Exhibit " P," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+str-ikethr- ough.
+Section 17. AMENDMENT. DCC 18. 124 is amended to read as described in Exhibit " Q," attached
+hereto and by this referenceincorporated herein, with new languageunderlined and languageto be deleted in
+strikethr- ough.
+Section 18. AMENDMENT. DCC 22. 04 is amended to read as described in Exhibit " R," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+Section 19. AMENDMENT. DCC 23. 01 is amended to read as described in Exhibit " S," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+Section 20. AMENDMENT. Deschutes County Comprehensive Plan, Section 5.9, Cultural and Historic
+Resources, is amended to read as described in Exhibit " T," attached hereto and by this reference incorporated
+herein, with new language underlined and language to be deleted in stri.
+Section 20. AMENDMENT. Deschutes County Comprehensive Plan, Section 5.12, Legislative History,
+is amended to read as described in Exhibit " U," attached hereto and by this reference incorporated herein, with
+new language underlined and language to be deleted in stFik
+Section 21. FINDINGS. The Board adopts as its findings Exhibit " V", attached and incorporated by
+reference herein.
+PAGE 3 OF 4 - ORDINANCE NO. 2023- 001
+s-
+Dated this of d
+V t 6r` 20 2"3 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+7 / , ')
+ANTHONY DeBONE, Chair
+I
+PA TI ADAIR, Vice Chair
+ATTEST:
+11 P d  o P 14V
+Recording Secretary PHIL CHANG, Commissioner
+Date of I
+S`
+Reading: day of 2023.
+Date of 2"
+d
+Reading: 154' day of 2023.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Anthony DeBone
+Phil Chang
+Patti Adair
+Effective date: dayof 2023.
+117
+ATTEST
+Recording Secretary
+PAGE 4 OF 4 - ORDINANCE NO. 2023- 001
+Exhibit A, - 4: rdina lice 2023- 001
+CHAPTER 17. 24 FINAL PLAT
+17, 24. 010 Applicability
+17. 24. 020 Submission• Extensions
+17. 24. 030 Submission For Phased Development
+17. 24. 040 Form
+17. 24. 050 Requirements Of Survey And Plat
+17. 24. 060 Required Information
+17. 24. 070 Supplemental Information
+17. 24. 080 ( Repealed)
+17. 24. 090 Approval By Irrigation Districts
+17. 24. 100 Technical Review
+17. 24. 105 Final Plat Review
+17. 24. 110 Conditions Of Approval
+17. 24. 120 Improvement Agreement
+17. 24. 130 Security
+17. 24. 140 Approval
+17. 24. 150 Recording
+17. 24. 160 Approval And Recordation Of Subdivision Interior Monuments
+17. 24. 170 Correction Of Errors
+17. 24. 060 Required Information
+In addition to that required for the tentative plan or otherwise specified by law, the following
+information shall be shown on the submitted plat:
+A. Name of subdivision and plat number for a final subdivision plat, or the partition application
+number and space for the partition plat number for a final partition plat.
+B. Name of owner, applicant and surveyor.
+C. The date, scale, true north, key to symbols, controlling topography such as bluffs, creeks and
+other bodies of water, and existing highways and railroads.
+D. Legal description of the tract boundaries.
+E. The exact location and width of streets and easements intercepting the boundary of the tract.
+F. Tract, lot or parcel boundary lines and street rights of way and centerlines, with dimensions,
+bearing or deflection angles, radii, arcs, points of curvature and tangent bearings. Normal high
+water lines for any creek, bay or other body of water. Tract boundaries and street bearings shall
+be shown to the nearest second with the basis of bearings. Distances shall be shown to the
+nearest 0. 01 feet.
+G. Streets. The width of the streets being dedicated and the curve data shall be based on the street
+centerline. In addition to the centerline dimensions, the radius and central angle shall be
+indicated, together with the long chord distance and bearing.
+H. Easements. The location, dimensions and purpose of all recorded and proposed public
+easements shall be shown on the plat along with the County Clerk' s recording reference if the
+easement has been recorded with the County Clerk. All such easements shall be denoted by fine
+dotted lines and clearly identified. If an easement is not of record, a statement of the grant of
+easement shall be given. If the easement is being dedicated by the plat, it shall be properly
+referenced in the owner' s certificate of dedication. .
+I. Southern Building Line. The southern building line shall be shown on each lot or parcel which is
+benefited by solar height restrictions on burdened lots within the subdivision or partition.
+J. Bicycle and Pedestrian Facilities. The location, width and type ( i.e., route, lane or path) of all
+bicycle and pedestrian facilities, including access corridors.
+K. Lot or Parcel Numbers. Lot or parcel numbers beginning with the number one and numbered
+consecutively.
+L. Block Numbers. Block numbers shall not be allowed for any subdivision application submitted
+for tentative approval after January 1, 1992, unless such subdivision is a continued phase of a
+previously recorded subdivision, bearing the same name, that has previously used block
+numbers or letters. The numbers shall begin with the number one and continue consecutively
+without omission or duplication throughout the subdivision. The numbers shall be placed so as
+not to obliterate any figure. Block numbers in an addition to a subdivision of the same name
+shall be a continuation of the numbering in the original subdivision.
+M. Public Lands. Public lands, including strips and easements, shall be clearly marked to distinguish
+them from lots or parcels intended for sale.
+N. Access Restrictions. Limitations on rights of access to and from streets, lots or parcels and other
+tracts of land.
+O. Area. The area of each lot or parcel, if larger than one acre, to the nearest hundredth of an acre;
+and the area of each lot or parcel less than one acre, to the nearest square foot.
+P. Statement of Water Rights.
+1. Each subdivision or partition plat shall include a statement of water rights on the plat.
+The statement shall indicate whether a water right or permit is appurtenant to the
+subject property. If a water right is appurtenant, the certificate number must appear
+with the statement. If a water permit rather than a perfected water right is
+appurtenant, the permit number shall be included on the plat.
+2. If a water right is appurtenant, the applicant shall submit a copy of the final plat to the
+State Water Resources Department, except for those plats with lots or parcels served by
+irrigation districts.
+3. All final plats for parcels within an irrigation district shall be signed by an authorized
+person from the district.
+Q. Statements. The following statements are required:
+1. Land Divider' s Declaration.
+a. An acknowledged affidavit of the person proposing the land division ( declarant)
+stating that he has caused the plat to be prepared in accordance with the
+provisions of ORS92 and dedicating any common improvements, such as
+streets, bike paths or walkways, parks or open space, sewage disposal or water
+supply systems, required under DCC17.24.060 or as a condition of approval of
+the tentative plan or plat. The declaration shall also include the creation of any
+other public or private easements.
+b. If the declarant is not the fee owner of the property, the fee owner and the
+vendor under any instrument of sale shall also execute the declaration for the
+purpose of consenting to the property being divided and to any dedication or
+creation of an easement or other restriction. Likewise, the holder of any
+mortgage or trust deed shall also execute the declaration for purposes of
+consenting to the property being divided and for the purpose of assenting to
+any dedication or creation of an easement or other restriction.
+c. In lieu of signing the declaration on the plat, any required signatory to the
+declaration other than the declarant may record an acknowledged affidavit
+consenting to the declaration and to any dedication or donation of property for
+public purposes or creation of an easement or other restriction.
+2. A certificate certifying preparation of the plat in conformance with the provisions of
+state law signed by the surveyor responsible for the survey and final plat and stamped
+with his seal.
+3. Any other affidavit required by state regulations.
+Signature Lines. Unless otherwise stated herein, signature lines for the following officials
+signifying their approval:
+1. County Surveyor.
+2. Road Department Director.
+3. County Environmental Wealth r, *^
+Soils Division, unless the property is to be
+connected to a municipal sewer system.
+4. County Assessor (subdivisions and nonfarm partitions only).
+5. County Tax Collector ( subdivisions only).
+6. Authorized agent for any irrigation district servicing the subdivision or partition.
+7. County Planning Director.
+8. County Commissioners.
+9. Any other signature required by state regulation.
+S. The plat shall contain a statement located directly beneath the signatures of the County
+Commissioners stating as follows: " Signature by the Board of Commissioners constitutes
+acceptance by the County of any dedication made herein to the public."
+T. Adjacent SM Zone. Any plat of a subdivision or partition adjoining an SM zone must clearly show
+where such zone is located in relation to the subdivision or partition boundaries.
+HISTORY
+Adopted by Ord. PL-14 §4.050 on 111111979
+Repealed & Reenacted by Ord. 81- 043 §§ 1, 3, 4. 030 on 1213111981
+Amended by Ord. 83-039 § 6 on 61111983
+Renumbered by Ord. 90- 003 § 1 on 11811990
+Amended by Ord. 90-015 § 1 on 212111990
+Amended by Ord. 93-012 §26 on 81411993
+Amended by Ord. 2006- 007 § 4 on 812912006
+Amended by Ord. 2023- 001 § 1 on X/ XX/ 2023
+Exhibit B - Ordhiance 2023- 001
+CHAPTER 18. 04 TITLE PURPOSE AND DEFINITIONS
+18. 04. 010 Title
+18. 04. 020 Purpose
+18. 04. 030 Definitions
+18. 04. 030 Definitions
+As used in DCCTitle 18, the following words and phrases shall mean as set forth in DCC18.04.030.
+Community service use" means any public or semi- public uses, such as Jand#ifk land disposal sites,
+schools, utility facilities, churches, community buildings, fire stations, cemeteries, mausoleums,
+crematories, airports and private uses which attract significant numbers of people, such as airports,
+livestock sales yards and other similar uses.
+Public use" means a use owned or operated by a public agency for the benefit of the public generally.
+This does not include fill -land disposal sites, garbage dumps or utility facilities.
+Utility facility" means any major structures, excluding hydroelectric facilities, owned or operated by a
+public, private or cooperative electric, fuel, communications, sewage or water company for the
+generation, transmission, distribution or processing of its products or for the disposal of cooling water,
+waste or by-products, and including power transmission lines, major trunk pipelines, power substations,
+telecommunications facilities, water towers, sewage lagoons, SaRitaFyIandf4I&Ianc1_chsposaIsites and
+similar facilities, but excluding local sewer, water, gas, telephone and power distribution lines, and
+similar minor facilities allowed in any zone. This definition shall not include wireless telecommunication
+facilities where such facilities are listed as a separate use in a zone.
+HISTORY
+Adopted by Ord. PL-15 on 111111979
+Amended by Ord. 82-013 §1 on 512511982
+Amended by Ord. 83-037 §2 on 61111983
+Amended by Ord. 83-033 §1 on 611511983
+Amended by Ord. 84-023 §1 on 81111984
+Amended by Ord. 85-002 §2 on 211311985
+Amended by Ord. 86-032 §1 on 41211986
+Amended by Ord. 86-018 §1 on 613011986
+Amended by Ord. 86-054 §1 on 613011986
+Amended by Ord. 86-056 §2 on 613011986
+Amended by Ord. 87-015 §1 on 611011987
+Amended by Ord. 88-009 §1 on 313011988
+Amended by Ord. 88-030 §3 on 811711988
+Amended by Ord. 88-030 §4 on 811711988
+Amended by Ord. 89-004 §1 on 312411989
+Amended by Ord. 89-009 §2 on 1112911989
+Amended by Ord. 90-014 §2 on 711211990
+Amended by Ord. 91-002 §11 on 21611991
+Amended by Ord. 91- 005 § 1 on 31411991
+Amended by Ord. 92- 025 § 1 on 411511991
+Amended by Ord. 91- 020 § 1 on 512911991
+Amended by Ord. 91- 038 §§ 3 and 4 on 913011991
+Amended by Ord. 92- 004 §§ 1 and 2 on 21711992
+Amended by Ord. 92- 034 § 1 on 41811992
+Amended by Ord. 92- 065 §§ 1 and 2 on 1112511992
+Amended by Ord. 92- 066 § 1 on 1112511992
+Amended by Ord. 93- 002 §§ 1, 2 and 3 on 21311993
+Amended by Ord. 93- 005 §§ 1 and 2 on 412111993
+Amended by Ord. 93- 038 § 1 on 712811993
+Amended by Ord. 93- 043 §§ 1, 1A and 1B on 812511993
+Amended by Ord. 94- 001 §§ 1, 2, and 3 on 311611994
+Amended by Ord. 94- 008 §§ 1, 2, 3, 4, 5, 6, 7 and 8 on 61811994
+Amended by Ord. 94- 041 §§ 2 and 3 on 911411994
+Amended by Ord. 94- 038 § 3 on 101511994
+Amended by Ord. 94- 053 § 1 on 121711994
+Amended by Ord. 95- 007 § 1 on 31111995
+Amended by Ord. 95- 001 § 1 on 312911995
+Amended by Ord. 95- 075 § 1 on 1112911995
+Amended by Ord. 95- 077 §2 on 1212011995
+Amended by Ord. 96- 003 §2 on 312711996
+Amended by Ord. 96- 082 § 1 on 1111311996
+Amended by Ord. 97- 017 § 1 on 311211997
+Amended by Ord. 97- 003 §1 on 61411997
+Amended by Ord. 97- 078 § 5 on 1213111997
+Amended by Ord. 2001- 037 § 1 on 912612001
+Amended by Ord. 2001- 044 §2 on 1011012001
+Amended by Ord. 2001- 033 §2 on 1011012001
+Amended by Ord. 2001- 048 § 1 on 1211012001
+Amended by Ord. 2003- 028 § 1 on 912412003
+Amended by Ord. 2004- 001 § 1 on 711412004
+Amended by Ord. 2004- 024 § 1 on 1212012004
+Amended by Ord. 2005- 041 § 1 on 812412005
+Amended by Ord. 2006- 008 § 1 on 812912006
+Amended by Ord. 2007- 019 § 1 on 912812007
+Amended by Ord. 2007- 020 § 1 on 21612008
+Amended by Ord. 2007- 005 § 1 on 212812008
+Amended by Ord. 2008- 015 § 1 on 613012008
+Amended by Ord. 2008- 007 § 1 on 811812008
+Amended by Ord. 2010- 018 §3 on 612812010
+Amended by Ord. 2010- 022 § 1 on 711912010
+Amended by Ord. 2011- 009 § 1 on 10/ 1712011
+Amended by Ord. 2012- 004 § 1 on 411612012
+Amended by Ord. 2012- 007 § 1 on 51212012
+Amended by Ord. 2013- 008 § 1 on 71512013
+Amended by Ord. 2014- 009 § 1 on 81612014
+Amended by Ord. 2015- 004 § 1 on 412212015
+Amended by Ord. 2016- 015 § 1 on 71112016
+Amended by Ord. 2016- 026 § 1 on 111912016
+Amended by Ord. 2016- 006 § 1 on 212712017Amendedby Ord.
+2017- 015 §1 on 111112017Repealedby Ord.
+2018- 005 §8 on 1011012018Amendedby Ord.
+2018- 006 §4 on 1112012018Amendedby Ord.
+2019- 010 §1 on 51812019Amendedby Ord.
+2019- 016 §1 on 212412020Amendedby Ord.
+2020- 001 §1 on 412112020Amendedby Ord.
+2020- 010 §1 on 71312020Amendedby Ord.
+2020- 007 §7 on 1012712020Amendedby Ord.
+2021- 013 §3 on 41512022Amendedby Ord.
+2023- 001 §2 on XIXXI2023
+Exhibit C - Ordinance 2023- 001
+CHAPTER 18. 16 EXCLUSIVE FARM USE ZONES
+18. 16. 010 Purpose
+18. 16. 020 Uses Permitted Outright
+18. 16. 023 Lawfully Established Dwelling Replacement
+18. 16. 025 Uses Permitted Subiect To The Special Provisions Under DCC Section 18. 16. 038 Or DCC
+Section 18. 16. 042 And A Review Under DCC Chapter 18. 124 Where Applicable
+18. 16. 030 Conditional Uses Permitted; High Value And Non - High Value Farmland
+18. 16. 031 Conditional Uses On Non - High Value Farmland Only
+18. 16. 033 Conditional Uses On High Value Farmland Only
+18. 16. 035 Destination Resorts
+18. 16. 037 Guest Ranch
+18. 16. 038 Special Conditions For Certain Uses Listed Under DCC 18. 16. 025
+18. 16. 040 Limitations On Conditional Uses
+18. 16. 042 Agri - Tourism And Other Commercial Events Or Activities Limited Use Permit
+18. 16. 043 Single Permit
+18. 16. 050 Standards For Dwellings In The EFU Zones
+18. 16. 055 Land Divisions
+18. 16. 060 Dimensional Standards
+18. 16. 065 Subzones
+18. 16. 067 Farm Management Plans
+18. 16. 070 Yards
+18. 16. 080 Stream Setbacks
+18. 16. 090 Rimrock Setback
+18. 16. 070 Yards
+A. The front yard shall be a minimum of: 40 feet from a property line fronting on a local street, 60
+feet from a property line fronting on a collector street, and 100 feet from a property line
+fronting on an arterial street.
+B. Each side yard shall be a minimum of 25 feet, except that for a nonfarm dwelling proposed on
+property with side yards adjacent to property currently employed in farm use, and receiving
+special assessment for farm use, the side yard shall be a minimum of 100 feet.
+C. Rear yards shall be a minimum of 25 feet, except that for a nonfarm dwelling proposed on
+property with a rear yard adjacent to property currently employed in farm use, and receiving
+special assessment for farm use, the rear yard shall be a minimum of 100 feet.
+D. The setback from the north lot line shall meet the solar setback requirements in Section
+18. 116. 180.
+P-.E.In addition to the setbacks set forth herein, any greater setbacks required by applicable building
+or structural codes adopted by the State of Oregon and/ or the County under DCC15.04 shall be
+met.
+HISTORY
+Adopted by Ord. PL- 15 on 111111979
+Amended by Ord. 83- 037 § 8 on 61111983
+Amended by Ord. 91- 038 §§ 1 and 2 on 913011991
+Amended by Ord. 92- 065 §3 on 1112511992
+Amended by Ord. 93- 004 §3 on 313111993
+Amended by Ord. 94- 008 § 16 on 61811994
+Amended by Ord. 2009- 014 § 1 on 612212009
+Amended by Ord. 2023- 001 § 3 on XIXXI2023
+Exhibit D - Orelinance 2023- 001
+CHAPTER 18. 32 MULTIPLE USE AGRICULTURAL ZONE; MUA
+18. 32. 010 Purpose
+18. 32. 020 Uses Permitted Outright
+18. 32. 030 Conditional Uses Permitted
+18. 32. 035 Destination Resorts
+18. 32. 040 Dimensional Standards
+18. 32. 050 Yards
+18. 32. 060 Stream Setbacks
+18. 32. 070 Rimrock Setback
+18. 32. 030 Conditional Uses Permitted
+The following uses may be allowed subject to DCC 18.128:
+A. Public use.
+B. Semipublic use.
+C. Commercial activities in conjunction with farm use. The commercial activity shall be associated
+with a farm use occurring on the parcel where the commercial use is proposed. The commercial
+activity may use, process, store or market farm products produced in Deschutes County or an
+adjoining County.
+D. Dude ranch.
+E. Kennel and/ or veterinary clinic.
+F. Guest house.
+G. Manufactured home as a secondary accessory farm dwelling, subject to the requirements set
+forth in DCC 18. 116. 070.
+H. Exploration for minerals.
+I. Private parks, playgrounds, hunting and fishing preserves, campgrounds, motorcycle tracks and
+other recreational uses.
+J. Personal use landing strip for airplanes and helicopter pads, including associated hangar,
+maintenance. and service facilities. No aircraft may be based on a personal use landing strip
+other than those owned or controlled by the owner of the airstrip. Exceptions to the activities
+permitted under this definition may be granted through waiver action by the Aeronautics
+Division in specific instances. A personal use landing strip lawfully existing as of September 1,
+1975, shall continue to be permitted subject to any applicable regulations of the Aeronautics
+Division.
+K. Golf courses.
+L. Type 2 or Type 3 Home Occupation, subject to DCC 18. 116. 280.
+M. A facility for primary processing of forest products, provided that such facility is found to not
+seriously interfere with accepted farming practices and is compatible with farm uses described
+in ORS 215. 203(2). Such a facility may be approved for a one year period which is renewable.
+These facilities are intended to be only portable or temporary in nature. The primary processing
+of a forest product, as used in DCC18.32.030, means the use of a portable chipper or stud mill
+or other similar method of initial treatment of a forest product in order to enable its shipment
+to market. Forest products, as used in DCC 18.32.030, means timber grown upon a parcel of
+land or contiguous land where the primary processing facility is located.
+N. Destination resorts.
+O. Planned developments.
+P. Cluster developments.
+Q. _ A disposal site which includes a land disposal site for which the Department of Environmental
+Quality has granted a permit under ORS459. 245, together with equipment, facilities or buildings
+necessary for its operation.
+R. Time share unit or the creation thereof.
+S. Hydroelectric facility, subject to DCC 18.116. 130 and 18.128.260.
+T. Storage, crushing and processing of minerals, including the processing of aggregate into
+asphaltic concrete or Portland cement concrete, when such uses are in conjunction with the
+maintenance or construction of public roads or highways.
+U. Bed and breakfast inn.
+V. Excavation, grading and fill and removal within the bed and banks of a stream or river or in a
+wetland subject to DCC 18. 120. 050 and 18. 128. 270.
+W. Religious institutions or assemblies, subject to DCC 18. 124 and 18. 128. 080.
+X. Private or public schools, including all buildings essential to the operation of such a school.
+Y. Utility facility necessary to serve the area subject to the provisions of DCC18.124.
+Z. Cemetery, mausoleum or crematorium.
+AA. Commercial horse stables.
+AB. Horse events, including associated structures, not allowed as a permitted use in this zone.
+AC. Manufactured home park or recreational vehicle park on a parcel in use as a manufactured
+home park or recreational vehicle park prior to the adoption of PL15 in 1979 and being
+operated as of June 12, 1996, as a manufactured home park or recreational vehicle park,
+including any expansion of such uses on the same parcel, as configured on June 12, 1996.
+AD. A new manufactured home/ recreational vehicle park, subject to Oregon Administrative Rules
+660- 004- 0040( 8)( g) that:
+1. Is on property adjacent to an existing manufactured home/ recreational vehicle park;
+2. Is adjacent to the City of Bend Urban Growth Boundary; and
+3. Has no more than 10 dwelling units.
+AE. The full or partial conversion from a manufactured home park or recreational vehicle park
+described in DCC18.32.030 ( CC) to a manufactured home park or recreational vehicle park on
+the same parcel, as configured on June 12 1996.
+AF. Wireless telecommunications facilities, except those facilities meeting the requirements of DCC
+18. 116. 250( A) or ( B).
+AG. Guest lodge.
+AH. Surface mining of mineral and aggregate resources in conjunction with the operation and
+maintenance of irrigation systems operated by an Irrigation District, including the excavation
+and mining for facilities, ponds, reservoirs, and the off -site use, storage, and sale of excavated
+material.
+HISTORY
+Adopted by Ord. PL-15 on 111111979
+Amended by Ord. 80-206 § 3 on 1011311980
+Amended by Ord. 83-033 § 2 on 611511983
+Amended by Ord. 86- 018 § 7 on 613011986
+Amended by Ord. 90- 014 §§ 27 and 35 on 711211990
+Amended by Ord. 91- 002 § 7 on 21611991
+Amended by Ord. 91- 005 §§ 19 and 20 on 31411991
+Amended by Ord. 91- 020 § 1 on 512911991
+Amended by Ord. 91- 038 § 1 on 913011991
+Amended by Ord. 92-055 § 2 on 811711992
+Amended by Ord. 93- 043 §§ 4A and 8 on 812511993
+Amended by Ord. 94-008 § 11 on 61811994
+Amended by Ord. 94-053 § 2 on 121711994
+Amended by Ord. 96-038 § 1 on 611211996
+Amended by Ord. 97-017 § 2 on 311211997
+Amended by Ord. 97- 029 §2 on 511411997
+Amended by Ord. 97- 063 §3 on 1111211997
+Amended by Ord. 2001- 016 § 2 on 312812001
+Amended by Ord. 2001- 039 § 2 on 1211212001
+Amended by Ord. 2004- 002 § 4 on 412812004
+Amended by Ord. 2009- 018 § 1 on 111512009
+Amended by Ord. 2015- 002 § 1 on 71812015
+Amended by Ord. 2015- 002 § 1 on 71812015
+Amended by Ord. 2016- 015 § 3 on 71112016
+Amended by Ord. 2020- 001 § 4 on 412112020
+Amended by Ord. 2021-004 §2 on 51271 02.1
+Amended by Ord. 2021- 013 § 5 on 41512022
+Amended by Ord. 2023- 001 § 4 on XIXX/ 2023
+Ex-hibiit F - Ordinance 20213. 00 t
+CHAPTER 18. 36 FOREST USE ZONE; F- 1
+18. 36. 010 Purpose
+18. 36. 020 Uses Permitted Outright
+18. 36. 030 Conditional Uses Permitted
+18. 36. 040 Limitations On Conditional Uses
+18. 36. 050 Standards For Single - Family Dwellings
+18. 36. 060 Siting Of Dwellings And Structures
+18. 36. 070 Fire Siting Standards For Dwellings And Structures
+18. 36. 080 Fire Safety Design Standards For Roads
+18. 36. 085 Stocking Requirement
+18. 36. 090 Dimensional Standards
+18. 36. 100 Yards And Setbacks
+18. 36. 110 Stream Setbacks
+18. 36. 120 State Law Controls
+18. 36. 130 Rimrock Setbacks
+18. 36. 140 Restrictive Covenants
+18. 36. 020 Uses Permitted Outright
+Thefollowing usesandtheir accessoryusesare permitted outright, subject to applicable siting criteria
+set forth in DCC 18.36 and any other applicable provisions of DCCTitle 18.
+A. Forest operations or forest practices including, but not limited to, reforestation of forest land,
+road construction and maintenance, harvesting of a forest tree species, application of chemicals
+and disposal of slash, subject to the Forest Practices Act ( ORS Chapter 527) and Goal 4.
+B. Temporary on -site structures, that are auxiliary to and used during the term of a particular
+forest operation, subject to the Forest Practices Act ( ORS Chapter 527) and Goal 4. As used here,
+temporary structures are those which are portable and/ or not placed on a permanent
+foundation, and which are removed at the conclusion of the forest operation requiring its use.
+For the purposes of this section, including DCC 18. 36. 020( B) and ( C) " auxiliary" means a use or
+alteration of a structure or land, that provides help or is directly associated with the conduct of
+a particular forest practice. An auxiliary structure is located on site, temporary in nature, and is
+not designed to remain for the forest' s entire growth cycle from planting to harvesting. An
+auxiliary use is removed when a particular forest practice has concluded.
+C. Physical alterations to the land auxiliary to forest practices including, but not limited to, those
+made for purposes of exploration, mining, commercial gravel extraction and processing,
+landfilisland disposal sites, dams, reservoirs, road construction or recreational facilities, subject
+to the Forest Practices Act ( ORSChapter 527) and Goal 4). Gravel extraction and processing not
+covered by DCC18.36.020 is governed by DCC18.52.
+D. Uses to conserve soil, air and water quality and to provide for wildlife and fisheries resources.
+E. Farm use as defined in ORS 215. 203.
+F. Local distribution lines (e.g., electric, telephone, natural gas, etc.) and accessory equipment
+e.g., electric distribution transformers; poles, meter cabinets; terminal boxes, pedestals), or
+equipment that provides ser ice hookups, including water service hookups.
+G. Temporary portable facility for the primary processingof forest products. The facility shall not
+be placed on a permanent foundation and shall be removed at the conclusionof the forest
+operation requiring its use.
+H. Exploration for mineral and aggregate resources as defined in ORS 517.
+I. Towers and fire stations for forest fire protection.
+J. Widening of roadswithin existing rights of way in conformance with the transportation element
+of the comprehensive plan including public road and highway projects as described in ORS
+215. 283( 1).
+K. Water intake facilities, canals and distribution lines for farm irrigation and ponds.
+L. Uninhabitable structures accessory to fish and wildlife enhancement.
+M. Alteration, restoration or replacement of a lawfully established dwelling that:
+1. Has intact exterior walls and roof structure;
+2. Has indoor plumbing consisting of a kitchen sink, toilet and bathing facilities connected
+to a sanitary waste disposal system;
+3. Has interior wiring for interior lights;
+4. Has a heating system; and
+5. In the case of replacement, is removed, demolished or converted to an allowable use
+within three months of completion of the replacement dwelling.
+N. An outdoor mass gathering as defined in ORS433. 735 or other gathering of fewer than 3,000
+personsthat is not anticipated to continue for more than 120 hours in any three-month period
+is not a " land use decision" as defined in ORS 197. 015( 10) or subject to review under OAR 660-
+006.
+HISTORY
+Adopted by Ord. PL-15 on 111111979
+Amended by Ord. 91- 002 §8 on 21611991
+Amended by Ord. 92- 025 §2 on 411511991
+Amended by Ord. 91- 020 §1 on 512911991
+Amended by Ord. 94- 038 § 1 on 101511994
+Amended by Ord. 2003- 007 § 1 on 312612003
+Amended by Ord. 2012- 007 §3 on 51212012
+Amended by Ord. 2023- 001 § 5 on XIXXI2023
+Exhibit k - Ordinance 2023- 001
+CHAPTER 18. 40 FOREST USE ZONE; F- 2
+18. 40. 010 Purpose
+18. 40. 020 Uses Permitted Outright
+18. 40. 030 Conditional Uses Permitted
+18. 40. 040 Limitations On Conditional Uses
+18. 40. 050 Standards For Single - Family Dwellings
+18. 40. 060 Siting Of Dwellings And Structures
+18. 40. 070 Fire Siting Standards For Dwellings And Structures
+18. 40. 080 Fire Safety Design Standards For Roads
+18. 40. 085 Stocking Requirement
+18. 40. 090 Dimensional Standards
+18. 40. 100 Yards And Setbacks
+18. 40. 110 Stream Setbacks
+18. 40. 120 State Law Controls
+18. 40. 130 Rimrock Setback
+18. 40. 020 Uses Permitted Outright
+The following uses and their accessory uses are permitted outright, subject to applicable siting criteria
+set forth in DCC18.40 and any other applicable provisions of DCCTitle 18:
+A. Forest operations or forest practices including, but not limited to, reforestation of forest land,
+road construction and maintenance, harvesting of a forest tree species, application of chemicals
+and disposal of slash, subject to the Forest Practices Act ( ORS Chapter 527) and Goal 4.
+B. Temporary on -site structures that are auxiliary to and used during the term of a particular forest
+operation, subject to the Forest Practices Act ( ORS Chapter 527) and Goal 4. As used here,
+temporary structures are those which are portable and/ or not placed on a permanent
+foundation, and which are removed at the conclusion of the forest operation requiring its use.
+For the purposes of this section, including DCC 18. 36. 020( B) and ( C) " auxiliary" means a use or
+alteration of a structure or land that provides help or is directly associated with the conduct of a
+particular forest practice. An auxiliary structure is located on site, temporary in nature, and is
+not designed to remain for the forest' s entire growth cycle from planting to harvesting. An
+auxiliary use is removed when a particular forest practice has concluded.
+C. Physical alterations to the land auxiliary to forest practices including, but not limited to, those
+made for purposes of exploration, mining, commercial gravel extraction and processing,
+iandfiilsland disposal sites, dams, reservoirs, road construction or recreational facilities, subject
+to the Forest Practices Act ( ORS Chapter 527 and Goal 4). Gravel extraction and processing not
+covered by DCC18.40.020 is governed by DCC18.52.
+D. Uses to conserve soil, air and water quality and to provide for wildlife and fisheries resources.
+E. Farm use as defined in ORS 215. 203.
+F. Local distribution lines ( e.g., electric, telephone, natural gas, etc.) and accessory equipment
+e.g., electric distribution transformers, poles, meter cabinets, terminal boxes, pedestals), or
+equipment that provides service hookups, including water service hookups.
+G. Temporary portable facility for the primary processing of forest products. The facility shall not
+be placed on a permanent foundation and shall be removed at the conclusion of the forest
+operation requiring its use.
+H. Exploration for mineral and aggregate resources as defined in ORS 517.
+I. Towers and fire stations for forest fire protection.
+J. Widening of roads within existing rights of way in conformance with the transportation element
+of the comprehensive plan including public road and highway projects as described in ORS
+215. 283( 1).
+K. Water intake facilities, canals and distribution lines for farm irrigation and ponds.
+L. Uninhabitable structures accessory to fish and wildlife enhancement.
+M. Alteration, restoration or replacement of a lawfully established dwelling that:
+1. Has intact exterior walls and roof structure;
+2. Has indoor plumbing consisting of a kitchen sink, toilet and bathing facilities connected
+to a sanitary waste disposal system;
+3. Has interior wiring for interior lights;
+4. Has a heating system; and
+5. In the case of replacement, is removed, demolished or converted to an allowable use
+within three months of completion of the replacement dwelling.
+N. An outdoor mass gathering as defined in ORS433. 735 or other gathering of fewer than 3,000
+persons that is not anticipated to continue for more than 120 hours in any three- month period
+is not a " land use decision" as defined in ORS 197. 015( 10) or subject to review under OAR 660-
+006.
+HISTORY
+Adopted by Ord. PL-15 on 111111979
+Amended by Ord. 91- 002 §9 on 21611991
+Amended by Ord. 91- 005 §21 on 31411991
+Amended by Ord. 92- 025 §3 on 411511991
+Amended by Ord. 91- 020 §1 on 512911991
+Amended by Ord. 94- 038 §2 on 101511994
+Amended by Ord. 2003- 007 §2 on 312612003
+Amended by Ord. 2012- 007 §4 on 51212012
+Amended by Ord. 2023- 001 § 6 on XIXX/ 2023
+Exhibit G - Ordinance 2023- 001
+CHAPTER 18. 48 OPEN SPACE AND CONSERVATION ZONE; OS AND C
+18. 48. 010 Purpose
+18. 48. 020 Uses Permitted Outright
+18. 48. 030 Conditional Uses Permitted
+18. 48. 040 Dimensional Standards
+18. 48. 050 Setbacks
+18. 48. 060 Limitations On Conditional Uses
+18. 48. 070 Limitations On Small Hydroelectric Facilities
+18. 48. 030 Conditional Uses Permitted
+The following uses may be allowed subject to DCC18.128:
+A. Private parks, picnic areas or hunting and fishing preserves.
+B. Public parks and recreational areas owned and operated by a governmental agency or nonprofit
+community organization.
+C. Utility facility except fandf+Elslanddisposal sites.
+D. Water supply and treatment facility.
+E. Excavation, grading and fill and removal within the bed and banks of a stream or river or in a
+wetland subject to DCC 18. 120. 050 and DCC 18. 128. 270.
+F. Campground.
+G. Wireless telecommunications facilities, except those facilities meeting the requirements of DCC
+18. 116. 250( A) or ( B).
+H. Surface mining of mineral and aggregate resources in conjunction with the operation and
+maintenance of irrigation systems operated by an Irrigation District, including the excavation
+and mining for facilities, ponds, reservoirs, and the off -site use, storage, and sale of excavated
+material.
+HISTORY
+Adopted by Ord. PL-15 §4.090(3) on 111111979
+Amended by Ord. 91-038 § 1 on 913011991
+Amended by Ord. 92-004 §9 on 21711992
+Amended by Ord. 94-041 § 1 on 911411994
+Amended by Ord. 97-063 §3 on 1111211997
+Amended by Ord. 2001- 016 §2 on 312812001
+Amended by Ord. 2001- 039 §3 on 1211212001
+Amended by Ord. 2023- 001 § 7 on XIXXI2023
+Exhibit H - Ordinance 2023- 001
+CHAPTER 18.60 RURAL RESIDENTIALZONE RR-10
+18. 60. 010 Purposes
+18. 60. 020 Uses Permitted Outright
+18. 60. 030 Conditional Uses Permitted
+18. 60. 035 Destination Resorts
+18. 60. 040 Yard And Setback Requirements
+18. 60. 050 Stream Setback
+18. 60. 060 Dimensional Standards
+18. 60. 070 Limitations On Conditional Uses
+18. 60. 080 Rimrock Setback
+18. 60. 090 Oregon Water Wonderland Unit 2 Sewer District Limited Use Combining Zone
+18. 60. 030 Conditional Uses Permitted
+The following uses may be allowed subject to DCC18.128:
+A. Publicpark, playground, recreation facility or community center owned and operated by a
+government agency or nonprofit community organization.
+B. Dude ranch.
+C. Type 2 or Type 3 Home Occupation, subject to DCC 18. 116. 280.
+D. Personal use landing strip for airplanes and helicopter pads, including associated hangar,
+maintenance and service facilities. A personal use landing strip as used in DCC18.60.030 means
+an airstrip restricted, except for aircraft emergencies, to useby the owner and, on an infrequent
+and occasional basis, by invited guests. No aircraft may be based on a personal -use landing strip
+other than those owned or controlled by the owner of the airstrip. Exceptions to the activities
+permitted under this definition may be granted through waiver action by the Aeronautics
+Division in specific instances. A personal -use landing strip lawfully existing as of September 1,
+1975, shallcontinue to be permitted subject to any applicable regulations of the Aeronautics
+Division.
+E. Planned development.
+F. Cluster development.
+G. Recreation -oriented facility requiring large acreagesuch asoff -road vehicle track or racetrack,
+but not including a rodeo grounds.
+H. A disposal site which includes a land disposal site for which the Department of Environmental
+Quality has granted a permit under ORS459. 245 together with equipment, facilities or buildings
+necessary for its operation.
+l
+andfill when a Fitten tentative appFeval by Dee +
+w,
+e f
+I. Cemetery.
+J. Time- share unit or the creation thereof.
+K. Hydroelectric facility, subject to DCC 18. 116. 130 and 18. 128. 260.
+L. Bed and breakfast inn.
+M. Golf course.
+N. Excavation, grading and fill and removal within the bed and banks of a stream or river or in a
+wetland subject to DCC 18. 120. 050 and 18. 128. 270.
+O. Religious institutions or assemblies.
+P. Public Uses.
+Q. Semipublic Uses.
+R. Commercial horse stables.
+S. Private or public school, including all buildings essential to the operation of such a school.
+T. Manufactured home park or recreational vehicle park on a parcel in use as a manufactured
+home park or recreational vehicle park prior to the adoption of PL-15 in 1979 and being
+operated as of June 12, 1996 as a manufactured home park or recreational vehicle park,
+including expansion, conversion and combination of such uses on the same parcel, as configured
+on June 12, 1996.
+U. The full or partial conversionfrom a manufactured home park or recreational vehicle park
+described in DCC18.60.030 (T) to a manufactured home park or recreational vehicle park on the
+same parcel, as configured on June 12, 1996.
+V. Wireless telecommunications facilities, except those facilities meeting the requirements of DCC
+18. 116. 250( A) or ( B).
+W. Surface mining of mineral and aggregate resources in conjunction with the operation and
+maintenance of irrigation systems operated by an Irrigation District, including the excavation
+and mining for facilities, ponds, reservoirs, and the off -site use, storage, and sale of excavated
+material.
+HISTORY
+Adopted by Ord. PL-15 on 111111979
+Amended by Ord. 83- 033 §5 on 611511983
+Amended by Ord. 86-018 §13 on 613011986
+Amended by Ord. 90- 014 §22 on 711211990
+Amended by Ord. 91- 005 §32 on 31411991
+Amended by Ord. 91- 020 §1 on 512911991
+Amended by Ord. 92- 004 §10 on 21711992
+Amended by Ord. 93- 043 §§ 8A and 88 on 812511993
+Amended by Ord. 94- 008 §13 on 61811994
+Amended by Ord. 96- 021 §1 on 212811996
+Amended by Ord. 96- 038 §2 on 611211996
+Amended by Ord. 97- 017 §3 on 311211997
+Amended by Ord. 97- 063 §3 on 1111211997
+Amended by Ord. 2001- 016 § 2 on 312812001
+Amended by Ord. 2001- 039 § 5 on .12/ 1.2/2001
+Amended by Ord. 2004- 002 § 8 on 4/ 28/ 2004
+Amended by Ord. 2009- 018 § 2 on 111512009
+Amended by Ord. 2020- 001 § 5 on 412112020
+Amended by Ord. 2023- 001 § 8 on XIXXI2023
+Exhibit I - Ordinwice 2023- 001
+CHAPTER 18. 61 URBAN UNINCORPORATED COMMUNITY ZONE; LA FINE
+18. 61. 010 Purpose
+18. 61. 020 Standards In All Districts
+18. 61. 030 La Pine Planning Area
+18. 61. 040 Wickiup Junction Planning Area
+18. 61. 050 Neighborhood Planning Area
+18. 61 Table 1 La Pine Neighborhood Planning Area Density Standards
+18. 61 Table 2 La Pine Neighborhood Planning Area Zoning Standards
+18. 61. 030 La Pine Planning Area
+The LaPinePlanningArea is composed of eight zoning districts, eachwith its own set of allowed uses
+and regulations, as further set forth in DCC 18. 61. 030.
+A. La Pine Residential District.
+1. Uses Permitted Outright. The following uses and their accessory uses are permitted
+outright:
+a. Single-family dwelling.
+b. Manufactured home subject to DCC 18. 116. 070.
+c. Two- family dwelling or duplex.
+d. Agricultural use as defined in DCCTitle 18, subject to the following limitations:
+1. Cows, horses, goats or sheep shall not be kept on lots having an area
+less than 20, 000 square feet. The total number of all such animals over
+the age of six months shall be limited to the square footage of the lot
+divided by 20, 000.
+2. The number of chickens, fowl or rabbits over the age of six months shall
+not exceed one for each 500 square feet of land.
+e. Class II road or street project subject to approval as part of a land partition,
+subdivision or subject to the standards and criteria established by DCC
+18. 116. 230.
+f. Class III road and street project.
+g. Excavation, grading or fill and removal activities involved in creation of a
+wetland in areas not requiring a conditional use permit for fill or removal.
+h. Forest operation and forest practice including, but not limited to, reforestation
+of forest land, road construction and maintenance, harvesting of a forest tree
+species, application of chemicals and disposal of slash.
+2. Conditional Uses Permitted. The following uses may be allowed subject to applicable
+provisions of DCC18.61 and DCC18. 116, Supplementary Provisions, DCC18.124, Site
+Plan Review, and DCC 1.8. 128, Conditional Use:
+a. Multi - family dwelling with three or more units.
+b. Park, playground and community building.
+c. Utility facility, except fad# island disposal sites.
+d. Excavation, grading and fill and removal within the bed and banks of a stream or
+river or in a wetland.
+e. Home occupation.
+f. Church.
+g. School.
+h. Manufactured home park.
+i. Multi - family dwelling complex.
+j. Cluster development.
+k. Nursery school, kindergarten and day care facility.
+J. Nursing home.
+m. Public use.
+n. Residential care facility for more than 15 people.
+o. Wireless telecommunications facilities, except those facilities meeting the
+requirements of DCC 18. 116. 250( A) or ( B).
+3. lot Sizes.
+a. Partitions:
+1. Parcels served by an approved community, municipal or public water
+system and an approved community or public sewage system shall have
+a minimum width of 50 feet and a minimum area of 5, 000 square feet.
+2. Parcels served by an approved community, non -community, municipal
+or public water system, but not by sewer, shall have a minimum width
+of 100 feet and a minimum area of 22, 000 square feet.
+3. Parcels not served by either an approved community, municipal or
+public water system or an approved community or public sewage
+system shall have a minimum width of 150 feet with a minimum area of
+one acre. In addition, all lots must meet Oregon Department of
+Environmental Quality ( DEQ) on - site sewage disposal rules.
+b. Subdivisions: For subdivisions, cluster developments or manufactured home
+parks, the following standards shall apply:
+1. All new lots shall be connected to a DEQ permitted community or
+municipal sewer system.
+2. Minimum lot size for a residential subdivision shall be 5, 000 square feet.
+Maximum residential lot size for a subdivision shall be 15, 000 square
+feet.
+4. Dimensional Standards. The following dimensional standards shall apply:
+a. Lot Coverage. The main building and accessory buildings located on any building
+site or lot shall not cover more than 35 percent of the total lot area.
+b. Building Height. No building or structure shall be erected or enlarged to exceed
+30 feet in height, except as approved under DCC 18. 120. 040.
+5. Yard and Setback Requirements.
+a. Front Yard. The minimum front yard shall be 20 feet, or 10 feet if a garage or
+carport is located a minimum of 20 feet from the front property line, and the lot
+fronts on a public or private street.
+b. Side Yard. A side yard shall be a minimum of five feet and the sum of the two
+side yards shall be a minimum of 15 feet. A street side yard shall be a minimum
+of 10 feet. A parcel or lot with a side yard adjacent to zoned forest land shall
+have a minimum side yard of 100 feet.
+c. Rear Yard. The minimum rear yard shall be 10 feet, or 5 feet if there is vehicular
+access to the rear property line. A parcel or lot with a rear yard adjacent to
+zoned forest land shall have a minimum rear yard of 100 feet.
+B. La Pine Commercial District.
+1. Uses Permitted Outright. The following uses and their accessory uses are permitted
+outright:
+a. Single-family dwelling on a lot existing on March 27, 1996.
+b. Manufactured home, on a lot existing on March 27, 1996, subject to DCC
+18. 116. 070.
+c. Class I and II road or street project subject to approval as part of a land
+partition, subdivision or subject to the standards and criteria established by DCC
+18. 116. 230.
+d. Class III road and street project.
+e. Excavation, grading or fill and removal activities involved in creation of a
+wetland in areas not requiring a conditional use permit for fill or removal.
+2. Uses Permitted Subject to Site Plan Review. The following uses and their accessory uses
+are permitted subject to the applicable provisions of DCC 18.61, DCC18.116,
+Supplementary Provisions and DCC18.124, Site Plan Review:
+a. Park, playground and community building.
+b. Public use.
+c. A building or buildings not exceeding 8,000 square feet of floor space housing
+any combination of:
+1. Retail store, office and service establishment.
+2. Residential use in the same building as a permitted use.
+3. Art studio in conjunction with retail sales.
+4. Medical clinic.
+5. Automobile service station.
+6. Car wash.
+7. Day care facility.
+8. Restaurant and cocktail lounge.
+9. Club and fraternal lodge.
+10. Automobile and trailer sales.
+11. Uses accessory to the uses identified in DCC 18. 61. 030.
+d. Any of the uses allowed under DCC18.61.030( B)(2)(c) housed in a building or
+buildings exceeding 8,000 square feet, subject to the provisions of DCC
+18. 61. 030( B)( 4).
+3. Conditional Uses Permitted. The following uses and their accessory uses are permitted
+subject to applicable provisions of DCC18.61 and DCC18.116, Supplementary
+Provisions, DCC 18. 124, Site Plan Review and DCC 18. 128, Conditional Use:
+a. Multi - family dwelling on a lot existing on March 27, 1996.
+b. Tourist and travelers' accommodation of up to 100 units, provided the use is
+served by a community water system as that term is defined in OAR 660- 22-
+010( 2).
+c. Manufactured home park and travel trailer park.
+d. Church.
+e. School.
+f. Excavation, grading and fill and removal within the bed and banks of a stream or
+river or in a wetland, subject to DCC 18. 120. 050 and 18. 128. 270.
+g. Water supply and treatment facility.
+h. Utility facility, except fi' lland disposal sites.
+i. Television and radio station with or without a transmitter tower.
+j. Nursing home.
+k. Residential care facility for more than 15 people.
+I. A building or buildings not exceeding 8,000 square feet of floor space housing
+any combination of:
+1. Veterinary clinic including enclosed kennel.
+2. Automobile repair garage.
+3. Commercial amusement and recreation establishment.
+4. Shopping complex subject to a master plan.
+5. Mini - storage facility.
+6. Uses accessory to the uses identified in DCC18.61.030.
+m. Any of the uses allowed under DCC18.61.030( B)(3)(1) housed in a building or
+buildings exceeding 8,000 square feet subject to the provisions of DCC
+18. 61. 030( B)( 4).
+n. Wireless telecommunications facilities, except those facilities meeting the
+requirements of DCC 18. 116. 250( A) or ( B).
+4. Special Requirements for Large Scale Uses. Any of the uses listed in DCC
+18.61. 030( B)(2)(d) and 18.61.030( B)(3)(m) may be allowed in a building or buildings
+exceeding 8,000 square feet of floor space if the Planning Director or Hearings Body
+finds:
+a. That the intended customers for the proposed use will come from the
+community and surrounding rural area, or the use will meet the travel needs of
+the people passing through the area;
+b. The use will primarily employ a work force from the community and
+surrounding rural area; and
+c. That it is not practical to locate the use in a building or buildings under 8,000
+square feet of floor space.
+Forthe purposesof DCC18.61.030, the surrounding rural area shall be that area
+identified in the map depicted as Figure 5 in the La Pine Urban Unincorporated
+Community section of the Comprehensive Plan.
+5. Lot Size and Dimensional Standards.
+a. Lot Size. New commercial lots shall be served by an approved community or
+public sewage system and shall have a minimum width of 50 feet and a
+minimum area of 5, 000 square feet.
+b. Lot Coverage. No requirements.
+c. Building Height. No building or structure shall be erected or enlarged to exceed
+30 feet in height, except as approved under DCC 18. 120. 040.
+6. Yard and Setback Requirements.
+a. Front Yard. The front yard shall be no more than 15 feet, except as otherwise
+allowed by DCC 18.124.070( D)(3) and except when abutting a lot in a Residential
+District, in which case the front yard shall be the front yard required in the
+abutting Residential District. All buildings shall be set at the front yard setback
+line.
+b. Side Yard. None required, except when a parcel or lot with a side yard adjacent
+to zoned forest land shall have a minimum side yard of 100 feet.
+c. Rear Yard. None required, except when abutting a yard in a Residential District,
+and then the rear yard shall be a minimum of 20 feet. A parcel or lot with a rear
+yard adjacent to zoned forest land shall have a minimum rear yard of 100 feet.
+C. La Pine Industrial District.
+1. Uses Permitted Outright. The following uses and their accessory uses are permitted
+outright:
+a. Agricultural use as defined in DCC Title 18.
+b. Excavation, grading or fill and removal activities involved in creation of a
+wetland in areas not requiring a conditional use permit for fill or removal.
+c. Class I and II road or street project subject to approval as part of a land
+partition, subdivision or subject to the standards and criteria established by DCC
+18. 116. 230.
+d. Class III road or street project.
+e. Forest operation and forest practice including, but not limited to, reforestation
+of forest land, road construction and maintenance, harvesting of a forest tree
+species, application of chemicals and disposal of slash.
+2. Uses Permitted Subject to Site Plan Review. The following uses and their accessory uses
+are permitted subject to DCC18.61.030( C)(4)(c)(2) and other applicable provisions of
+DCC18.61 and DCC18. 116, Supplementary Provisions, and DCC18.124, Site Plan
+Review:
+a. Expansion of a valid use existing on December 5, 1994.
+b. Public use compatible with industrial uses.
+c. Uses that require proximity to rural resources, as defined in OAR 660-04-
+022( 3)( a).
+d. Scientific research or experimental development of materials, methods or
+products, including engineering and laboratory research.
+e. Light manufacturing, assembly, fabricating or packaging and wholesale
+distribution.
+f. Cold storage plant, including storage and office.
+g. Kennel or veterinary clinic operated entirely within an enclosed building.
+h. Processing use such as bottling plant, creamery, laboratory, blueprinting and
+photocopying, laundry, carpet and rug cleaning plant, cleaning and dyeing plant
+and tire retreading, recapping and rebuilding.
+i. Contractor' s equipment storage or sale yard, house mover, delivery vehicles,
+transit storage, trucking terminal and used equipment in operable condition.
+j. Manufacture of concrete products and ceramic products using only previously
+comminuted raw materials.
+k. All types of automobile, motorcycle, boat, trailer and truck sales, service, repair,
+storage and rental.
+I. Retail or combination retail/ wholesale lumber and building materials yard, not
+including concrete mixing.
+m. Manufactured home sales and service.
+n. Plant nursery and greenhouse.
+3. Conditional Uses Permitted. The following uses may be allowed subject to the applicable
+provisions of DCC18.61 and DCC18.124, Site Plan Review, and DCC18.128, Conditional
+Use:
+a. Mini -storage facility.
+b. Hydroelectric facility, subject to DCC18.116. 130 and 18. 128.260.
+c. Asphalt plant.
+d. Lumber manufacturing and wood processing including pulp and paper
+manufacturing.
+e. Electrical substation.
+f. Concrete, asphalt and ready - mix plant.
+g. Petroleum products storage and distribution.
+h. Storage, crushing and processing of minerals, including the processing of
+aggregate into asphaltic concrete or Portland cement concrete.
+i. Commercial feedlot, stockyard, sales yard, slaughterhouse and rendering plant.
+j. Railroad track, freight depot and related facilities.
+k. Agricultural products storage and processing plant.
+I. Transfer station.
+m. Automotive wrecking yard totally enclosed by a sight -obscuring fence.
+n. Any use permitted by DCC18.61.030( C)(2) that is expected to:
+1. Require lot coverage in excess of 70 percent;
+2. Require more than one acre of land; or
+3. Generate any odor, dust, fumes, glare, flashing lights or noise that
+would be perceptible without instruments 500 feet from the property
+line of the subject use.
+o. Service commercial use, such as office, restaurant, cafe, refreshment stand, bar
+and tavern, whose primary purposes is to serve industrial uses in the
+surrounding area, provided that such use is allowed as part of an Industrial Park
+Master Plan.
+p. Wireless telecommunications facilities, except those facilities meeting the
+requirements of DCC 18. 116. 250( A) or ( B).
+q. Utility facilities
+4. Use Limits. The following limitations and standards shall apply to uses listed in DCC
+18. 61. 030( C)( 2) and ( 3):
+a. Sewer and Water Requirements:
+1. New uses that require DEQ Water Pollution Control Facility ( WPCF)
+permits shall be required to connect to the La Pine Sewer Treatment
+Facility in lieu of obtaining a WPCF permit.
+2. Uses that do not require a WPCF permit shall demonstrate the ability to
+obtain approval for an on -site sewage disposal system either before
+approval of the land use permit or as a condition of permit approval.
+3. If a use requires more than 5, 000 gallons of water per day, an
+application shall be made to the Oregon Water Resources Department
+for a water rights permit or the usemust be connected to a municipal,
+community or public water system.
+b. Compatibility:
+1. A use that requires a lot area exceeding 9,000 square feet shall not be
+permitted to locate adjacent to a lot in a residential district.
+2. A use expected to generate more than 30 truck trailer or other heavy
+equipment trips per day to and from the subject property shall not be
+permitted to locate on a lot adjacent to or across a street from a lot in a
+residential district.
+3. Any use on a lot adjacent to or across the street from a lot in a
+residential district shall not emit odor, dust, fumes, glare, flashing lights,
+noise or similar disturbances perceptible without instruments more
+than 200 feet in the direction of the affected residential use or lot.
+4. Storage, loading and parking areas for uses permitted by DCC
+18. 61.030(C)(2) and (3) shall be screened from residential zones using
+trees, vegetation, and topography to the maximum extent practicable
+to screen the area from view of nearby residences.
+5. No use requiring air contaminant discharge permits shall be approved
+by the Planning Director or Hearings Body prior to review by the
+applicable state or federal permit reviewing authority, nor shall such
+uses be permitted adjacent to or across a street from a residential lot.
+6. A property hosting a service commercial use shall be subject to a waiver
+of remonstrance recorded in the Deschutes County Book of Records
+declaring that the operator and his or her successors will not now or in
+the future file a complaint aimed at curtailing industrial activities on
+adjacent properties conducted in conformance with DCC18.61.
+7. Exhaust stacks shall be screened from residential zones using trees,
+vegetation, and topography to the maximum extent practicable to
+screen the stack from view of nearby residences.
+c. Traffic/ Parking.
+1. A use that generates more than 20 auto or truck trips during the busiest
+hour of the day to and from the premises shall be served directly by an
+arterial or collector.
+2. An applicant must demonstrate that affected transportation facilities
+are adequate to serve the proposed use, considering the functional
+classification, capacity and the level of service of such facilities.
+3. All parking demand created by any use permitted by DCC18.61.030( C)
+shall be accommodated on the applicant' s premises entirely off- street.
+4. There shall be only one ingress and one egress from properties
+accommodating uses covered by DCC 18. 61. 030( C) per each 300 feet or
+fraction thereof of street frontage. If necessary to meet this
+requirement, uses shall provide for shared ingress and egress.
+d. Requirements for Large Scale Uses. Any industrial use listed in DCC
+18.61.030( C)(2) and ( 3) may be allowed in a building or buildings exceeding
+20,000 square feet of floor space if the Planning Director or Hearings Body finds:
+1. That such uses are necessary to provide employment that does not
+exceed the total projected work force within the community and the
+surrounding rural area;
+2. That such uses would not rely upon a work force served by uses within
+urban growth boundaries; and
+3. That the determination of the workforce of the community and
+surrounding rural area considers the total industrial and commercial
+employment in the community and is coordinated with employment
+projections for nearby urban growth boundaries.
+5. Additional Requirements. As a condition of approval of any use proposed, the Planning
+Director or Hearings Body may require:
+a. An increase in required setbacks.
+b. Additional off- street parking and loading facilities.
+c. Limitations on signs or lighting, hours of operation and points of ingress and
+egress.
+d. Additional landscaping, screening and other improvements.
+6. Dimensional Standards. The following dimensional standards shall apply:
+a. Minimum Lot Size. The minimum lot size shall be determined subject to the
+provisions of DCC18.61.030( C) concerning setback requirements, off- street
+parking and loading.
+b. Lot Coverage. Notwithstanding DCC 18. 61. 030( C)( 3)( n), a use permitted by DCC
+18. 61. 030( C) is located adjacent to or across the street from a lot in a residential
+district shall not exceed 70 percent lot coverage by all buildings, storage areas
+or facilities and required off- street parking and loading area.
+c. Setbacks.
+1. The minimum building setback between a nonrailroad related structure
+and a street, road or railroad right of way line shall be 50 feet unless a
+greater setback is required for compliance with Comprehensive Plan
+policies.
+2. The minimum setback between a structure and a property line adjoining
+a residential district shall be 50 feet.
+3. The minimum setback between a structure and an existing use shall be
+three feet from the property line and at least six feet from a structure
+on the adjoining property.
+d. Building Heights. The maximum building height for any structure shall be 30 feet
+on any lot adjacent to a residential district and 45 feet on any lot not adjacent to
+a residential district or that is separated from a residential district by a street or
+road. The following exceptions apply:
+1. If a building on a lot adjacent to a residential district, but not separated
+by a street or road, is set back 100feet or more from the residential
+district, the maximum height shall be 45 feet; and
+2. The maximum height for utility facility structures shall be 100 feet
+provided:
+A. The structure is located on a lot that is not adjacent to a
+residential district;
+B. The structure is the minimum height necessary to
+accommodate machinery and equipment;
+C. The structure is equipped with fire sprinkler protection in
+accordance with current adopted editions of the Oregon
+Structural Specialty Code, Oregon Fire Code, and National Fire
+Protection Association 13; and
+D. The structure is at least 500 feet from the nearest residential
+district.
+e. Utility facility exhaust stacks shall meet the DEQ air quality permit
+requirements, but shall not exceed DEQ permit minimum height requirements
+or 150 feet in height, whichever is less.
+f. Minimum Lot Frontage. The minimum lot frontage shall be 50 feet.
+g. Side Yard. None required, except when a parcel or lot with a side yard adjacent
+to zoned forest land shall have a minimum side yard of 100 feet.
+h. Rear Yard. None required, except when abutting a yard in a Residential District,
+and then the rear yard shall be a minimum of 20 feet. A parcel or lot with a rear
+yard adjacent to zonedforest land shall havea minimum rear yard of 100feet.
+D. La Pine Business Park District.
+1. Uses Permitted Subject to Site Plan Review. The following uses and their accessory uses
+are permitted subject to the applicable provisions of DCC18.61 and 18.116,
+Supplementary Provisions, and DCC18.124, Site Plan Review:
+a. Commercial use, as defined in DCC18.04, in a building or buildings each not
+exceeding 8, 000 square feet of floor space.
+b. Industrial use, as defined in DCC 18. 04, in a building or buildings not exceeding
+20, 000 square feet of floor space.
+2. Conditional Uses Permitted. Notwithstanding the uses allowed under DCC
+18.61.030( D)(1), the following uses may be allowed subject to the applicable provisions
+of DCC 18. 61 and DCC 18. 124, Site Plan Review, and DCC 18. 128, Conditional Use:
+a. Mini - storage facility.
+b. Processing use such as bottling plant, creamery, laboratory, blueprinting and
+photocopying, laundry, carpet and rug cleaning plant, cleaning and dyeing plant
+and tire retreading, recapping and rebuilding.
+c. Contractor' s equipment storage or sale yard, house mover, delivery vehicles,
+transit storage, trucking terminal and used equipment in operable condition.
+d. Manufacture of concrete products and ceramic products using only previously
+comminuted raw materials.
+e. Manufactured home sales and service.
+f. Lumber manufacturing and wood processing.
+g. Electrical substation.
+h. Agricultural products storage and processing plant.
+i. Any use permitted by DCC18.61.030( D) that is expected to:
+1. Require lot coverage in excess of 70 percent;
+2. Require more than one acre of land; or
+3. Generate any odor, dust, fumes, glare, flashing lights or noise that
+would be perceptible without instruments 500 feet from the property
+line of the subject use.
+j. Wireless telecommunications facilities, except those facilities meeting the
+requirements of DCC 18. 116. 250( A) or ( B).
+3. Additional Requirements for Large Scale Uses. A commercial use in the Business Park
+District may be allowed in a building or buildings exceeding 8,000 square feet of floor
+space if the Planning Director or Hearings Body finds:
+a. That the intended customers for the proposed use will come from the
+community and surrounding rural area, or the use will meet the travel needs of
+the people passing through the area, for the purposes of DCC18.61. 030( D), the
+surrounding rural area shall be that area identified in the map depicted as
+Figure 5 in the La Pine Urban Unincorporated Community section of the
+Comprehensive Plan;
+b. The use will primarily employ a workforce from the community and
+surrounding rural area; and
+c. That it is not practical to locate the use in a building or buildings under 8,000
+square feet of floor space.
+4. Use Limits. The following limitations and standards shall apply to all uses:
+a. Sewer and Water Requirements:
+1. New uses shall be required to connect to the La Pine Sewer Treatment
+Facility.
+2. New uses must be connected to a municipal, community or public water
+system.
+b. Compatibility:
+1. A use that requires a lot area exceeding 9,000 square feet shall not be
+permitted to locate adjacent to a lot in a residential district.
+2. A use expected to generate more than 30 truck -trailer or other heavy
+equipment trips per day to and from the subject property shall not be
+permitted to locate on a lot adjacent to or across a street from a lot in a
+residential district.
+3. Any use on a lot adjacent to or across the street from a lot in a
+residential district shall not emit odor, dust, fumes, glare, flashing lights,
+noise, or similar disturbances perceptible without instruments more
+than 200 feet in the direction of the affected residential use or lot.
+4. Storage, loading and parking areas for all uses shall be screened from
+residential zones.
+5. No use requiring air contaminant discharge permits shall be approved
+by the Planning Director or Hearings Body prior to review by the
+applicable state or federal permit reviewing authority, nor shall such
+uses be permitted adjacent to or across a street from a residential lot.
+6. A property hosting a service commercial use shall be subject to a waiver
+of remonstrance recorded in the Deschutes County Book of Records
+declaring that the operator and his or her successors will not now or in
+the future file a complaint aimed at curtailing industrial activities on
+adjacent properties conducted in conformance with DCC18.61.
+c. Traffic/ Parking
+1. A use that generates more than 20 auto or truck trips during the busiest
+hour of the day to and from the premises shall be served directly by an
+arterial or collector.
+2. An applicant must demonstrate that affected transportation facilities
+are adequate to serve the proposed use, considering the functional
+classification, capacity and the level of service of such facilities.
+3. All parking demand created by any use permitted by DCC18.61.030( D)
+shall be accommodated on the applicant' s premises entirely off- street.
+4. Parking may be allowed within the front yard building setback area
+except that no parking shall be allowed within 10 feet of any street.
+5. There shall be only one ingress and one egress from properties
+accommodating uses permitted by DCC18.61.030( D) per each 300 feet
+or fraction thereof of street frontage. If necessary to meet this
+requirement, uses shall provide for shared ingress and egress.
+5. Additional Requirements. As a condition of approval of any use proposed, the Planning
+Director or Hearings Body may require:
+a. An increase in required setbacks.
+b. Additional off- street parking and loading facilities.
+c. Limitations on signs or lighting, hours of operation and points of ingress and
+egress.
+d. Additional landscaping, screening and other improvements.
+6. Dimensional Standards. The following dimensional standards shall apply:
+a. Minimum Lot Size. The minimum lot size shall be determined subject to the
+provisions of DCC18.61.030( D) concerning setback requirements, off- street
+parking and loading.
+b. Minimum Lot Frontage. The minimum lot frontage shall be 50 feet.
+c. Lot Coverage. A use permitted by DCC18.61.030( D), which is located adjacent
+to or across the street from a lot in a residential district shall not exceed 70
+percent lot coverage by all buildings, storage areasor facilities and required off-
+street parking and loading area.
+7. Setbacks.
+a. Front Yard. The minimum setback between a building and the street that
+provides ingress and egress to that building shall be 30 feet unless a greater
+setback is required for compliance with Comprehensive Plan policies.
+b. Side Yard. None required, a structure and a property line adjoining a street shall
+be 10 feet.
+c. Rear Yard. None required, except the minimum setback between a structure
+and a property line adjoining a street or a residential district shall be 20 feet. A
+parcel or lot with a rear yard adjacent to zoned forestland shall have a minimum
+rear yard of 100 feet.
+d. The minimum setback between a structure and an existing use shall be three
+feet from the property line and six feet from a structure on the adjoining
+property.
+8. Building Height. The maximum building height for any structure shall be 30 feet on any
+lot adjacent to a residential district and 45 feet on any lot not adjacent to a residential
+district or that is separated from a residential district by a street or road. However, if a
+building on a lot adjacent to a residential district, but not separatedby a street or road,
+is set back 100 feet or more from the residential district, the maximum height shall be
+45 feet.
+E. La Pine Sewer Treatment District.
+1. Uses Permitted Outright. The following uses and their accessory uses are permitted
+outright:
+a. Any usethat isallowed by ORS215.283(1), including utility facility necessaryfor
+public service, except commercial facilities for the purposeof generating power
+for public use by sale and transmission towers over 200 feet in height.
+2. Conditional Uses Permitted. The following uses may be allowed subject to applicable
+provisions of DCC18.61 and DCC 18.116, Supplementary Provisions, DCC18.124, Site
+Plan Review, and DCC 18. 128, Conditional Use and DCC 18. 16. 040( A):
+a. Parks, playground or community centers owned and operated by a
+governmental agency or a nonprofit community organization.
+3. Dimensional Standards. The following dimensional standards shall apply:
+a. Lot Coverage. No requirements.
+b. Building Height. No building or structure shall be erected or enlarged to exceed
+30 feet in height, except as approved under DCC 18. 120. 040.
+4. Yard and Setback Requirements.
+a. Front Yard. The minimum front yard shall be 20 feet.
+b. Side Yard. A side yard shall be a minimum of five feet and the sum of the two
+side yards shall be a minimum of 15 feet.
+c. Rear Yard. The minimum rear yard shall be 20 feet.
+F. La Pine Flood Plain District. All uses proposed within this district shall be subject to the
+provisions in DCC18.96, Flood Plain Zone.
+G. La Pine Community Facility District.
+1. Uses Permitted Subject to Site Plan Review. The following uses and their accessory uses
+are permitted subject to the applicable provisions of DCC18.61, DCC18.116,
+Supplementary Provisions and DCC18.124, Site Plan Review:
+a. Performing arts center.
+b. Swimming pool.
+c. Community center.
+d. Public use.
+e. School.
+f. Theater.
+2. Yard and Setback Requirements.
+a. Front Yard. The front yard shall be no more than 15 feet, except as otherwise
+allowed by DCC18.124.070( D)(2) and except when abutting a lot in a Residential
+District, in which case the front yard shall be the front yard required in the
+abutting Residential District. All buildings shall be set at the front yard setback
+line. A parcel or lot with a front yard adjacent to zoned forest land shall have a
+minimum front yard of 100 feet.
+b. Side Yard. None required, except when abutting a lot in a Residential District in
+which case the side yard shall be the side yard required in the abutting
+Residential District. A parcel or lot with a side yard adjacent to zoned forest land
+shall have a minimum side yard of 100 feet.
+c. Rear Yard. None required, except when abutting a yard in a Residential District,
+and then the rear yard shall be a minimum of 20 feet. A parcel or lot with a rear
+yard adjacent to zoned forest land shall havea minimum rear yard of 100feet.
+3. Dimensional Standards. The following dimensional standards shall apply:
+a. Lot Coverage. No requirements.
+b. Building Height. No building or structure shall be erected or enlarged to exceed
+30 feet in height, except as approved under DCC 18. 120. 040.
+4. Lot Size.
+a. Lot Size. New lots shall have a minimum width of 50 feet and a minimum area of
+5, 000 square feet.
+b. Lot Coverage. No requirements.
+c. Building Height. No building or structure shall be erected or enlargedto exceed
+30 feet in height, except as approved under DCC 18. 120. 040.
+5. Additional Requirements. As a condition of approval of any use proposed, the Planning
+Director or Hearings Body may require:
+a. An increase in required setbacks.
+b. Additional off- street parking and loading facilities.
+c. Limitations on signs or lighting, hours of operation and points of ingress and
+egress.
+d. Additional landscaping, screening and other improvements.
+H. La Pine Community Facility Limited District.
+1. Uses Permitted Outright.
+a. Multi - use path.
+2. Uses Permitted Subject to Site Plan Review. The following uses and their accessory uses
+are permitted subject to applicable provisionsof DCC18.61 and DCC18.116,
+Supplementary Provisions, and DCC18.124, Site Plan Review:
+a. School.
+b. Park or playground.
+HISTORY
+Adopted by Ord. 96- 003 § 1 on 312711996
+Amended by Ord. 97- 017 §4 on 311211997
+Amended by Ord. 97- 041 §1 on 511411997
+Amended by Ord. 97- 063 §3 on 1111211997
+Amended by Ord. 2000- 015 §2 on 81912000
+Amended by Ord. 2001- 044 §3 on 1011012001
+Amended by Ord. 2002- 033 § 1 on 912512002
+Amended by Ord. 2003- 002 § 1 on 41812003
+Amended by Ord. 2009- 025 § 1 on 1113012009
+Amended by Ord. 2010- 029 § 1 on 91812010
+Repealed by Ord. 2018- 005 § 10 on 1011012018
+Amended by Ord. 2019- 010 § 1 on 51812019
+Amended by Ord. 2023- 001 § 9 on XIXXI2023
+18. 61. 040 Wickiup Junction Planning Area
+TheWickiup Junction PlanningArea is composed of one Commercial/Residentialzoning district with its
+own set of allowed uses and regulations, as further set forth in DCC 18. 61. 040.
+A. Uses Permitted Outright. The following uses and their accessory uses are permitted outright:
+1. Single-family dwelling.
+2. Manufactured home subject to DCC 18. 116. 070.
+3. Two- family dwelling or duplex.
+4. Class I and II road or street project subject to approval as part of a land partition,
+subdivision or subject to the standards and criteria established by DCC 18. 116. 230.
+5. Class III road and street project.
+6. Excavation, grading or fill and removal activities involved in creation of a wetland in
+areas not requiring a conditional use permit for fill or removal.
+B. Uses Permitted Subject to Site Plan Review. The following uses and their accessory uses are
+permitted subject to applicable provisions of DCC18.61 and DCC18.116, Supplementary
+Provisions, and DCC 18. 124, Site Plan Review:
+1. Park, playground and community building.
+2. Public Use.
+3. A building or buildings not exceeding 8,000 square feet of floor space housing any
+combination of:
+a. Retail store, office and service establishment.
+b. Residential use in conjunction with a permitted use.
+c. Art studio in conjunction with a permitted use.
+d. Medical clinic.
+e. Automobile service station.
+f. Car wash.
+g. Day care facility.
+h. Restaurant and cocktail lounge.
+i. Club and fraternal lodge.
+j. Automobile and trailer sales.
+k. Any new use, or the expansion of an existing use, allowed under DCC
+18.61.040( B)(3) housed in a building or buildings exceeding 8,000 square feet of
+floor space, but not greater than 12,000 square feet of floor space, subject to
+the provisions of DCC18.61.040 ( D).
+C. Conditional Uses Permitted. The following uses and their accessory uses are permitted subject
+to applicable provisions of DCC18.61 and DCC18.116, Supplementary Provisions, DCC18.124,
+Site Plan Review, and DCC 18. 128, Conditional Uses:
+1. Multi -family dwelling with three or more units.
+2. Tourist and travelers' accommodations of up to 100 units, provided the use is served by
+a community sewer system as that term is defined in OAR 660- 22- 010 ( 2).
+3. Manufactured home park.
+4. Travel trailer park.
+5. Cluster development.
+6. Church.
+7. School.
+8. Excavation, grading and fill and removal within the bed and banks of a stream or river or
+in a wetland subject to DCC 18. 120. 050 and DCC 18. 128. 270.
+9. Water supply and treatment facility.
+10. Utility facility, except # island disposal sites.
+11. Television and radio station with or without a transmitter tower.
+12. Nursing home.
+13. Residential care facility for more than 15 people.
+14. A building or buildings not exceeding 8,000 square feet of floor space housing any
+combination of:
+a. Veterinary clinic including enclosed kennel.
+b. Automobile repair garage.
+c. Commercial amusement and recreation establishment.
+d. Shopping complex subject to a master plan.
+e. Mini -storage facility.
+f. Uses accessory to the uses identified in DCC18.61.040.
+15. Any new use, or the expansion of an existing use, allowed under DCC18.61.040(C)(14)
+housed in a building or buildings exceeding 8,000 square feet, but not greater than
+12,000 square feet, subject to the provisions of DCC18.61.040 ( D).
+16. Wireless telecommunications facilities, except those facilities meeting the requirements
+of DCC 18. 116. 250( A) or ( B).
+D. Special Requirements for Large Scale uses. Any of the uses listed in DCC18.61.040( B)(3) and
+18.61.040( C)(14) may be allowed in a building or buildings exceeding 8,000 square feet of floor
+space but not greater than 12,000 square feet of floor space if the Planning Director or Hearings
+Body finds, based on evidence submitted by the applicant:
+1. That the intended customers for the proposed use will come from the community and
+surrounding rural area, or the use will meet the travel needs of the people passing
+through the area;
+2. The use will primarily employ a workforce from the community and surrounding rural
+area; and
+3. That it is not practical to locate the use in a building or buildings under 8,000 square feet
+of floor space but could locate the use in a building not exceeding 12,000 square feet of
+floor space.
+E. For the purposes of DCC18.61.040, the surrounding rural area shall be that area identified in the
+map depicted as Figure 5 in the La Pine Urban Unincorporated Community section of the
+Comprehensive Plan.
+F. Lot Size.
+1. New lots or parcels served by an approved community, municipal or public water
+system and an approved community or public sewage system shall have a minimum
+width of 50 feet and a minimum area of 6, 000 square feet. Maximum lot size for
+residential subdivisions shall be 15, 000 square feet.
+2. New lots or parcels served by either an approved community, non -community,
+municipal or public water system shall have a minimum width of 100 feet and a
+minimum area of 22, 000 square feet.
+3. New lots or parcels not served by either an approved community, municipal or public
+water system or an approved community or public sewer system shall have a minimum
+width of 150 feet with a minimum are of one acre. In addition, an applicant shall
+demonstrate that:
+a. The lot or parcel can meet DEQ on -site sewage disposal rules then in effect,
+which can be demonstrated either prior to land division approval or as a
+condition of such approval;
+b. Residential subdivision will be served by either a municipal or community water
+system or a non - community public water system.
+G. Dimensional Standards. The following dimensional standards shall apply:
+1. Lot Coverage. No requirements.
+2. Building Height. No building or structure shall be erected or enlarged to exceed thirty
+30) feet in height, except as approved under DCC 18. 120. 040.
+H. Yards.
+1. Front Yard. The front yard shall be no more than 20 feet, except as otherwise allowed by
+DCC 18.124.070( D)(2). All buildings shall be set at the front yard setback line.
+2. Side Yard. None required, except when a parcel or lot with a side yard adjacent to zoned
+forest land shall have a minimum side yard of 100 feet.
+3. Rear Yard. None required, except when a parcel or lot with a rear yard adjacent to
+zoned forest land shall have a minimum rear yard of 100 feet.
+HISTORY
+Adopted by Ord. 96- 003 § 1 on 312711996
+Amended by Ord. 97- 063 § 3 on 1111211997
+Amended by Ord. 2000- 015 § 2 on 81912000
+Amended by Ord. 2002- 015 § 1 on 611912002
+Amended by Ord. 2003- 008 § 1 on 212612003
+Amended by Ord. 2004- 013 § 6 on 912112004
+Amended by Ord. 2023- 001 § 9 on XIXXI2023
+E-diibit J - Ordinance. 2023- 001.
+CHAPTER 18. 65 RURAL SERVICE CENTER; UNINCORPORATED COMMUNITY ZONE
+18. 65. 010 Purpose
+18. 65. 020 RSC; Commercial/ Mixed Use District ( Brothers, Hampton, Millican, Whistlestop And Wildhunt)
+18. 65. 021 Alfalfa RSC; Commercial/ Mixed Use District
+18. 65. 022 Alfalfa RSC; Residential District
+18. 65. 023 RSC; Open Space District
+18. 65. 030 Standards For All Districts
+18. 65. 023 RSC; Open Space District
+A. Uses Permitted Outright. The following uses and their accessory uses are permitted outright,
+subject to applicable provisions of this chapter:
+1. Agricultural uses, as defined in Title 18, and excluding livestock feed lot sales yard, and
+hog or mink farms.
+2. Public and nonprofit agencies, museums and exhibits on lands where an exception has
+been granted in accordance with Oregon Administrative Rules chapter 660, Division 022.
+3. Public wildlife reserve or management area, not including structures.
+4. Class I and II road or street project subject to approval as part of a land partition,
+subdivision or subject to the standards and criteria established by DCC18.116.230.
+5. Class III road or street project.
+6. Operation, maintenance, and piping of existing irrigation systems operated by an
+Irrigation District except as provided in DCC18.120.050.
+Conditional Uses Permitted. The following uses and their accessory uses are permitted, subject
+to the applicable provisions of this chapter, DCC18.116, Supplementary Provisions, DCC18.124,
+Site Plan Review, and DCC 18. 128, Conditional Use, of this title:
+1. Private parks, picnic areas or hunting and fishing preserves.
+2. Public parks and recreational areas owned and operated by a governmental agency or
+nonprofit community organization.
+3. Campground.
+4. Utility facility except landfillslancl disposal sites.
+5. Wireless telecommunications facilities, except those facilities meeting the requirements
+of DCC 18. 116. 250( A) or ( B).
+C. Yard and Setback Requirements.
+1. The front yard setback shall be a minimum of 20 feet from a property line fronting on a
+local street right of way and 50 feet from an arterial right of way.
+2. The minimum side yard setback shall be 10 feet.
+3. The minimum rear yard setback shall be 20 feet.
+4. The minimum side and rear yard setbacks for property that is adjacent to land zoned
+exclusive farm use shall be 50 feet.
+D. Lot Requirements. The minimum lot size shall be determined by the site plan requirements for a
+proposed public use.
+HISTORY
+Adopted by Ord. 2002- 002 §2 on 61512002
+Amended by Ord. 2023- 001 § 10 on XIXXI2023
+Exhibit K - O rdiiiance 2023- 001
+CHAPTER 18. 76 AIRPORT DEVELOPMENT ZONE; A- D
+18. 76. 010 Purpose
+18. 76. 015 Definitions
+18. 76. 020 Standards In All Districts
+18. 76. 030 Uses Permitted Outright
+18. 76. 040 Conditional Uses
+18. 76. 050 Use Limitations
+18. 76. 060 Dimensional Standards
+18. 76. 070 Airfield Operations District ( AOD)
+18. 76. 080 Aviation Support District ( ASD)
+18. 76. 090 Aviation - Related Industrial District ( ARID)
+18. 76. 100 Design And Use Criteria
+18. 76. 105 Hangars
+18. 76. 110 Additional Requirements
+18. 76. 040 Conditional Uses
+The following uses may be allowed in all of the Airport Districts subject to DCC18.128.
+A. Farm accessory buildings and uses, excluding residential uses.
+B. Utility facility necessary for public service except land#+Ilsland disposal sites.
+C. Excavation, grading and fill and removal within the bed and banks of a stream or river or in a
+wetland subject to DCC 18. 120. 050 and/ or DCC 18. 128. 270.
+HISTORY
+Adopted by Ord. PL-15 §4.160( 3) on 111111979
+Amended by Ord. 91- 038 § 1 on 913011991
+Amended by Ord. 2001- 016 § 2 on 312812001
+Amended by Ord. 2001- 039 § 10 on 1211212001
+Repealed & Reenacted by Ord. 2003- 036 § 2 on 111512003
+Amended by Ord. 2023- 001 § 11 on XIXXI2023
+Exhibit E - Ordinance• 2023- 001
+CHAPTER 18. 80 AIRPORT SAFETY COMBINING ZONE; A- S
+18. 80. 010 Purpose
+18. 80. 020 Application Of Provisions
+18. 80. 022 Definitions
+18. 80. 024 Imaginary Surface And Noise Impact Boundaries
+18. 80. 026 Notice Of Land Use And Permit Applications
+18. 80. 028 Height Limitations
+18. 80. 030 Redmond Municipal Airport
+18. 80. 032 Bend Municipal Airport
+18. 80. 034 Sunriver Airport
+18. 80. 036 Sisters Eagle Air Airport
+18. 80. 038 Cline Falls Airpark
+18. 80. 040 Juniper Airpark
+18. 80. 044 Land Use Compatibility
+18. 80. 050 Uses Permitted Outright
+18. 80. 054 Conditional Uses
+18. 80. 056 Additional Requirements
+18. 80. 058 Non - Conforming Uses
+18. 80. 060 Variances
+18. 80. 062 Dimensional Standards
+18. 80. 064 Procedures
+18. 80. 072 Water Impoundments
+18. 80. 074 Wetland Mitigation, Creation, Enhancement And Restoration
+18. 80. 076 Water Impoundment Notification
+18. 80. 078 FAA Notification ( Form 7460- 1)
+18. 80 Table 1 Land Use Compatibility
+18. 80 Table 2 Noise Compatibility
+18. 80 Declaration Of Anticipated Noise
+18. 80. 026 Notice Of Land Use And Permit Applications
+Except as otherwise provided herein, written notice of applications for land use or limited land use
+decisions, including comprehensive plan or zoning amendments, in an area within this overlay zone,
+shall be provided to the airport sponsor and the Department of Aviation in the same manner as notice is
+provided to property owners entitled by law to written notice of land useor limited land use
+applications. [ ORS 836. 623( 1); OAR 738- 100- 010; ORS 215. 416( 6); ORS 227. 175( 6)]
+For the Redmond, Bend, Sunriver, and Sisters airports:
+A. Notice shall be provided to the airport sponsor and the Department of Aviation when the
+property, or a portion thereof, that is subject to the land use or limited land use application is
+located within 10,000 feet of the sides or ends of a runway:
+B. Notice of land use and limited land use applications shall be provided within the following
+timelines.
+1. Notice of land use or limited land use applications involving public hearings shall be
+provided prior to the public hearing at the same time that written notice of such
+applications is provided to property owners entitled to such notice.
+2. Notice of land use or limited land use applications not involving public hearings shall be
+provided at least 20 days prior to entry of the initial decision on the land use or limited
+land use application.
+3. Notice of the decision on a land use or limited land use application shall be provided to
+the airport sponsor and the Department of Aviation within the same timelines that such
+notice is provided to parties to a land use or limited land use proceeding.
+4. Notices required under DCC 18. 80. 026( B)( 1-3) need not be provided to the airport
+sponsor or the Department of Aviation where the land use or limited land use
+application meets all of the following criteria:
+a. Would only allow structures of less than 35 feet in height;
+b. Involves property located entirely outside the approach surface;
+c. Does not involve industrial, mining or similar uses that emit smoke, dust or
+steam; saeitar- y landfiland disposalsites or waterimpoundments; or radio, radiotelephone,
+television or similartransmissionfacilities or electricaltransmission
+lines; and d.
+Does not involvewetland mitigation, enhancement, restoration or creation. For the
+Cline Falls and Juniperairports: C.
+Writtennotice of applicationsfor landuse or limitedland use decisions, including comprehensive
+plan or zoningamendments, shall be providedto theairportsponsorand the Department
+of Aviationin thesamemannerand withinthe sametimelinesas noticeis providedto
+propertyowners entitled by lawto writtennotice of landuse or limitedland use applications. Where
+the applicationdoes not involvea publichearing, such noticeshall be providedat least20
+daysprior to entryof theinitialdecisionon the landuse or limitedland use application. [ORS 215.
+416( 6); ORS227. 175( 6); OAR738- 100- 010] D.
+Noticeof thedecisionon a landuse or limitedland use applicationshall be providedto theairport
+sponsor and the Departmentof Aviationwithin the sametimelinesthat such notice is provided
+to partiesto a landuse or limitedland use proceeding. HISTORY
+Adopted
+by Ord. PL- 15 on 111111979Repealed &
+Reenacted by Ord. 91- 020 §1 on512911991Amended
+by Ord. 2001-001 § 2 on112212001Amended
+by Ord. 2023-001 § 12 on XIXX/2023 18.
+80 Table1 LandUse Compatibility
+Location:
+Use: RPZ(1)
+Transitional
+Surface
+Approach
+Surface( 8)
+Direct Impact
+Area
+Secondary
+Impact Area
+Public Airport 02) P 09) P P
+Residential N N 010) P P
+Commercial N 014) 09) P P
+Industrial N P 09) P P
+Institutional N L(14) 09) P P
+Farm Use P(3) p(3) p(3) p(3) p(3)
+Road/ Parking L(4) P P P P
+Utility L(5) L(5) L(5) L(5) L(5)
+Parks/ Open Space L(6) P P P P
+Golf Course ( 17) L(7) L(7) L(7,9) L(7) L(7)
+Athletic Field N N 09) P P
+SaAitar„ L .,,, 4f, nLand
+Disposal Site
+N N N N N( 1e)
+Waste Water Treatment
+Plant
+N N N N 015)
+Mining N N 011) 011) 011)
+Water Impoundment N N N, L(12) L(12) L(12)
+Wetland Mitigation N 013) 013) 013)
+Key to Table:
+P = Use is Permitted.
+L = Use is Allowed Under Limited Circumstances ( see notes). N = Use is Not Allowed.
+Numbers in parentheses refer to notes on next page.
+Notes for Table 1: 1. No structures shall be allowed within the Runway Protection Zone. Exceptions shall be made only for structures accessory to airport operations
+whose location within the RPZhas been approved by the Federal Aviation Administration. 2. In the RPZ, public airport uses are restricted to those usesand facilities
+that require location in the RPZ. 3. Farming practices that minimize wildlife attractants are encouraged. 4. Roads and parking areas are permitted in the RPZ only
+upon demonstration that there are no practicable alternatives. Lights, guardrails and related accessorystructures are prohibited. Cost may be considered in
+determining whether practicable alternatives exist. 5. In the RPZ, utilities, power lines and pipelines must be underground. In approach surfaces and in airport direct
+and secondary impact areas, the proposed height of utilities shall be coordinated with the airport sponsor and the Department of Aviation. 6. Public assembly
+facilities are prohibited within the RPZ. 7. Golf courses may be permitted only upon demonstration, supported by substantial evidence, that management
+techniques will be utilized to reduce existing wildlife attractants and avoid the creation of new wildlife attractants. Such techniques shall be required as conditions
+of approval. Structures are not permitted within the RPZ. For purposes of DCC18.80, tee markers, tee signs, pin cups and pins are not considered to be structures. 8.
+Within 10,000 feet from the end of the primary surface of a non -precision instrument runway, and within 50,000 feet from the end of the primary surface of a
+precisioninstrumentrunway. 9. Publicassemblyfacilitiesmaybeallowedin anapproachsurfaceonlyif the potentialdangerto publicsafetyisminimal. In
+determining whether a proposed use is appropriate, consideration shall be given to: proximity to the RPZ; density of people per acre; frequency of use; level of
+activity at the airport; and other factors relevant to public safety. In general, high -density usesshould not be permitted within airport approach surfaces, and non-
+residential structures should be located outside approach surfaces unless no practicable alternatives exist. 10. Residential densities within approach surfaces should
+not exceed the following densities: ( 1) within 500 feet of the outer edge of the RPZ, 1 unit/ acre; (2) within 500 to 1,500 feet of the outer edge of the RPZ, 2
+units/ acre; ( 3) within 1, 500 to 3, 000 feet of the outer edge of the RPZ, 4 units/ acre. 11. Mining operations involving the creation or expansion of water
+impoundments shall comply with the requirements of OCC18.80 regulating water impoundments. 12. See DCC18.80.072 regulating water impoundments. 13. See
+requirements in DCC18.80.074, 14. Overnight accommodations, such as hotels, motels, hospitals and dormitories, are not permitted. 15. Due to land availability
+constraints, limited wastewater treatment plants within the Secondary Impact Area are permitted on lands owned or managed by the Sunriver Resort or Sunriver
+utilities. 16. Organic composting facility is permitted. 17. Since Sunriver Resort owns and controls the Sunriver Airport, golf courses operated as part of the Sunriver
+Resort, Crosswater and their affiliates are exempted.
+Exhibit M - Ordinance 2023- 001
+CHAPTER 18. 96 FLOOD PLAIN ZONE; FP
+18. 96. 010 Purposes
+18. 96. 020 Designated Areas
+18. 96. 030 Uses Permitted Outright
+18. 96. 040 Conditional Uses Permitted
+18. 96. 050 Prohibited Uses
+18. 96. 060 Limitations On Conditional Uses
+18. 96. 070 Application For Conditional Use
+18. 96. 080 Criteria To Evaluate Conditional Uses
+18. 96. 085 Elevation Certification
+18. 96. 090 Yard And Setback Requirements
+18. 96. 100 Stream Setback
+18. 96. 110 Dimensional Standards
+18. 96. 120 Warning And Disclaimer Of Liability
+18. 96. 130 Interpretation Of FIRM Boundaries
+18. 96. 140 Use Variances
+18. 96. 150 Acreage Calculation For Partition Or Subdivision Of Certain Properties Containing Flood Plain
+Zoned Lands
+18. 96. 030 Uses Permitted Outright
+The following uses and their accessory uses are permitted outright
+A. Agricultural use conducted without establishing or utilizing a structure. For purposes of DCC
+18.96.030( A), a " structure" does not include a boundary fence as long as such fence is designed
+to impede as little as possible the movement of floodwaters and flood carried material.
+B. Management, propagation and harvesting of a forest product.
+C. Open space.
+D. Portions of a residential use that do not contain structures, such as lawn, garden or play areas.
+E. Class I and II road or street project subject to approval as part of a land partition, subdivision or
+subject to the standards and criteria established by DCC18.116.230 that do not involve
+Floodplain development.
+F. Class III road or street project that does not constitute Floodplain development as defined in
+DCC 18. 04. 030.
+G. Excavation, grading and fill for the routine maintenance and repair of existing roads and
+roadway drainage within the road right- of- way that will have not adverse effect on flood waters.
+H. Operation, maintenance, and piping of existing irrigation systems operated by an Irrigation
+District except as provided in DCC18.120.050.
+I. Recreational vehicles on an individual lot for a period not to exceed 180 consecutive days,- as
+allowed pursuant to DCC 18. 116. 080, 18. 116. 090, or 18. 116. 095.
+rr^ '^'^^' + ti^„ ^^++ ti^
+standards and
+Gr*
+teFi established by
+nor 18. 116. 995.
+HISTORY
+Adopted by Ord. PL-15 on 111111979
+Amended by Ord. 88- 030 § 4 on 811711988
+Amended by Ord. 91- 020 § 1 on 512911991
+Amended by Ord. 93- 043 § 15 on 812511993
+Amended by Ord. 2007- 019 § 2 on 912812007
+Repealed by Ord. 2018- 005 § 11 on 1011012018
+Amended by Ord. 2019- 010 § 1 on 51812019
+Amended by Ord. 2023- 001 § 13 on X/ XX/ 2023
+18. 96. 040 Conditional Uses Permitted
+The following uses and their accessory uses may be allowed subject to applicable sections of this title:
+A. A roadway, bridge or utility structure, except a laed#+Illand disposal site, that will not impede the
+waters of a base flood subject to DCC 18. 128.
+B. Incidental storage of material or equipment that is either not subject to damage by flood, or is
+mobile and readily removable from the area within time available after flood warning. If such
+material is not readily removable, it shall be anchored to prevent flotation and shall not obstruct
+water flow. Material or equipment stored shall include only items which will not create a hazard
+to the health or safety of persons, property, animals or plant life should the storage area be
+inundated.
+C. Single-family dwelling, or a manufactured home subject to DCC18.116.070, on an individual lot.
+In addition to the other requirements of DCC18.96, single- family dwellings proposed to be sited
+in areas of the Flood Plain Zone designated " Agriculture" on the Comprehensive Plan Map may
+be approved only as uses identified by DCC 18. 16. 030( A), ( B), ( D) or ( E) and subject to the
+applicable provisions of DCC18.96 governing those uses. In addition to the other requirements
+of DCC18.96, single- family dwellings proposed to be sited in areas of the Flood Plain Zone
+designated " Forest" on the Comprehensive Plan Map may be approved only as uses identified
+by DCC18.36.030(Y), 18.40. 030( X) or 18.40.030(Y) and subject to the applicable provision of
+DCC18.36 and 18.40 governing those uses.
+D. Agricultural accessory buildings.
+E. Hydroelectric facilities subject to DCC 18. 116. 130 and 18. 128. 260.
+F. Excavation, grading and fill and removal within the bed and banks of a stream or river or in a
+wetland, subject to DCC18.120.050 and 18.128.270. Excavation, grading and fill within any area
+of special flood hazard identified in DCC 18. 96. 020.
+G. Recreational uses requiring only structures having an insignificant effect on flood waters outside
+the Floodway, such as golf courses, tennis courts, driving ranges, archery ranges, picnic grounds,
+boat launching ramps, swimming areas, wildlife or nature preserves, game farms, fish
+hatcheries, shooting preserves and hunting or fishing areas subject to DCC18.128, except in
+areas designated " Forest" or " Agriculture" on the Comprehensive Plan Map.
+H. Subdividing or partitioning of land, any portion of which is located in a flood plain, subject to the
+provisions of DCCTitle 18 and DCCTitle 17, the Subdivision/ Partition Ordinance.
+All new construction expansion or substantial improvement of an existing dwelling, an
+agricultural related structure, a commercial, industrial or other non- residential structure, or an
+accessory building.
+J. A boat dock or pier, either individual or community, on private property which lies in the
+following areas:
+1. On the Deschutes River between river miles 226. 4 and 224. 5. This area is identified in
+the Scenic Waterway Management Plan as the Wickiup River Community Area;
+On the Deschutes River between river miles 217. 5 and 216. 5. This area is identified in
+the Scenic Waterway Management Plan as the Pringle Falls River Community Area; and
+3. On the Deschutes River between river miles 207 and 192. This area is identified in the
+Scenic Waterway Management Plan as River Community Areas and Recreational River
+Area respectively.
+K. Those recreational uses described in DCC 18. 36. 030, " F- 1 - Conditional Uses," having an
+insignificant effect on flood waters where the subject Flood Plain - zoned site is designated by the
+Comprehensive Plan Map as "Forest" and is adjacent to land zoned F-1.
+L. Those recreational uses described in DCC 18. 40. 030, " F- 2 - Conditional Uses," having an
+insignificant effect on flood waters where the subject Flood Plain -zoned site is designated by the
+Comprehensive Plan Map as "Forest" and is adjacent to land zoned F-2.
+M. Wireless telecommunications facilities, except those facilities meeting the requirements of DCC
+18. 116. 250( A) or ( B).
+N_ Surface mining of mineral and aggregate resources in conjunction with the operation and
+maintenance of irrigation systems operated by an Irrigation District, including the excavation
+and mining for facilities, ponds, reservoirs, and the off -site use, storage, and sale of excavated
+material.
+O. Recreational vehicles on an individual lot for a period in excess of 180 consecutive days, as
+allowed pursuant to DCC18. 116.080, 18. 116.090, or 18.116.095( C), provided they meet the
+following standards and criteria:
+1. Placement of a recreational vehicle within a special flood hazard area for a period of
+time exceeding 180 days requires a conditional use permit subject to the standards and
+criteria established by DCC 18. 96 and a Floodplain Permit as required by the National
+Flood Insurance Program.
+HISTORY
+Adopted by Ord. PL-15 on 111111979
+Amended by Ord. 88-030 §4 on 811711988
+Amended by Ord. 89-009 §4 on 1112911989
+Amended by Ord. 91- 005 § 37 on 31411991
+Amendedby Ord. 91-038 §1 on 91..3011991
+Amended by Ord. 93- 002 § 4 on 21311993
+Amended by Ord. 93- 045 § 1 on 811811993
+Amended by Ord. 95- 022 § 1,2 on 41511995
+Amended by Ord. 95- 075 § 1 on 1112911995
+Amended by Ord. 96- 032 § 1 on 51111996
+Amended by Ord. 97- 063 §3 on 1111211997
+Amended by Ord. 2001- 016 § 2 on 312812001
+Amended by Ord. 2001- 039 § 11 on 1211212001
+Amended by Ord. 2007- 019 § 2 on 912812007
+Repealed by Ord. 2018- 005 § 11 on 1011012018
+Amended by Ord. 2019- 010 § 1 on 51812019
+Amended by Ord. 2023- 001 § 13 on X/ XX/ 2023
+Exhibit N - Ordinaiwe 2023- 001
+CHAPTER 18. 100 RURAL INDUSTRIAL ZONE; R- I
+18. 100. 010 Uses Permitted Outright
+18. 100. 020 Conditional Uses
+18. 100. 030 Use Limitations
+18. 100. 040 Dimensional Standards
+18. 100. 050 Off -Street Parking And Loading
+18. 100. 060 Site Design
+18. 100. 070 Additional Requirements
+18. 100. 080 Solar Setback
+18. 100. 090 Limited Use Combining Zone; Deschutes Junction
+18. 100. 020 Conditional Uses
+The following uses may be allowed subject to DCC18.128:
+A. Any use permitted by DCC18. 100.010, which is located within 600 feet of a residential dwelling,
+a lot within a platted subdivision or a residential zone.
+B. Any use permitted by DCC18. 100.010, which involves open storage.
+C. Concrete or ready - mix plant.
+D. Petroleum products storage and distribution.
+E. Storage, crushing and processing of minerals, including the processing of aggregate into
+asphaltic concrete or Portland Cement Concrete.
+F. Commercial feedlot, stockyard, sales yard, slaughterhouse and rendering plant.
+G. Railroad trackage and related facilities.
+H. Pulp and paper manufacturing.
+I. Any use permitted by DCC18. 100.010, which is expected to exceed the following standards:
+1. Lot coverage in excess of 70 percent.
+2. Generation of any odor, dust, fumes, glare, flashing lights or noise that is perceptible
+without instruments 500 feet from the property line of the subject use.
+J. Manufacture, repair or storage of articles manufactured from bone, cellophane, cloth, cork,
+feathers, felt, fiber, glass, stone, paper, plastic, precious or semiprecious stones or metal, wax,
+wire, wood, rubber, yarn or similar materials, provided such uses do not create a disturbance
+because of odor, noise, dust, smoke, gas, traffic or other factors.
+K. Processing, packaging and storage of food and beverages including those requiring distillation
+and fermentation.
+L. Public I andf+u-Land Disposal Site Transfer Station, including recycling and other related
+activities.
+M. Mini -storage facility.
+N. Automotive wrecking yard totally enclosed by a sight - obscuring fence.
+O. Wireless telecommunications facilities, except those facilities meeting the requirements of DCC
+18. 116. 250( A) or ( B).
+P. Utility facility.
+Q. Manufacturing, storage, sales, rental, repair and servicing of equipment and materials
+associated with farm and forest uses, logging, road maintenance, mineral extraction,
+construction or similar rural activities.
+R. Electrical substations.
+S. Marijuana retailing, subject to the provisions of DCC18.116.330.
+HISTORY
+Adopted by Ord. PL-15 on 111111979
+Amended by Ord. 86-018 § 15 on 613011986
+Amended by Ord. 90-014 §38 on 711211990
+Amended by Ord. 91-020 § 1 on 512911991
+Amended by Ord. 91-038 § 1 on 913011991
+Amended by Ord. 97-063 §3 on 1111211997
+Amended by Ord. 2001- 016 § 2 on 312812001
+Amended by Ord. 2001- 039 § 12 on 1211212001
+Amended by Ord. 2002- 126 § 1 on 1211112002
+Amended by Ord. 2004- 013 § 10 on 912112004
+Amended by Ord. 2016- 015 § 8 on 71112016
+Amended by Ord. 2018- 006 § 12 on 1112012018
+Amended by Ord. 2021- 004 §5 on 512712021
+Amended by Ord. 2023- 001 § 14 on XIXXI2023
+rx; ribit 0 - Ordinance 2023410).
+CHAPTER 18. 108 URBAN UNINCORPORATED COMMUNITY ZONE; SUNRIVER
+18. 108. 010 Purpose
+18. 108. 020 Standards For All Districts
+18. 108. 030 Single Family Residential; RS District
+18. 108. 040 Multiple Family Residential; RM District
+18. 108. 050 Commercial; C District
+18. 108. 055 Town Center; TC District
+18. 108. 060 Resort; R District
+18. 108. 070 Resort Marina; RA District
+18. 108. 080 Resort Golf Course; RG District
+18. 108. 090 Resort Equestrian; RE District
+18 108. 100 Resort Nature Center• RN District
+18. 108. 110 Business Park; BP District
+18. 108. 120 Community General; CG District
+18. 108. 130 Community Recreation; CR District
+18. 108. 140 Community Limited; CL District
+18. 108. 150 Community Neighborhood; CN District
+18. 108. 160 Airport; A District
+18. 108. 170 Utility; U District
+18. 108. 175 Utility• U District/ Limited Use Combining District
+18. 108. 180 Forest; F District
+18. 108. 190 Flood Plain; FP Combining District
+18. 108. 160 Airport; A District
+A. Uses Permitted Outright. The following uses and their accessory uses are permitted outright:
+1. Runway, fuel storage and sales and emergency repair.
+2. Facilities approved or mandated by the FAA or Oregon State Aeronautics Division.
+3. Farm use as defined in DCC Title 18.
+4. Related uses which are customarily appurtenant to airports, including but not limited to
+hangars, tie - down areas and parking facilities.
+B. Conditional Uses Permitted. The following conditional uses may be permitted subject to DCC
+18.128 and a conditional use permit:
+1. Farm accessory buildings and uses.
+2. Utility facility necessaryfor public service, except fandfifkland disposa sites.
+3. Golf course.
+4. Park, playground, other recreational site or facility or community service facility.
+S. Excavation, grading and fill and removal within the bed and banks of a stream or river or
+in a wetland subject to DCC 18. 120. 050 and/ or DCC 18. 128. 270.
+C. Use Limitations. In an A District, the following limitations and standards shall apply to all uses
+permitted:
+1. The height of any plant growth or structure or part of a structure such as chimneys,
+towers, antennas, powerlines, etc., shall not exceed 35 feet.
+2. In approach zones beyond the clear zone areas, no meeting place designed to
+accommodate more than 25 persons for public or private purposes shall be permitted.
+3. All parking demand created by any use permitted by DCC18.108.160 shall be
+accommodated on the subject premises entirely off- street.
+4. No use permitted by DCC18.108.160 shall require the backing of traffic onto a public or
+private street or road right of way.
+5. No power lines shall be located in clear zones.
+6. No use shall be allowed which is likely to attract a large quantity of birds, particularly
+birds which normally fly at high altitudes.
+D. Dimensional Standards. In an A District, the following dimensional standards shall apply:
+1. The minimum lot size shall be determined subject to the provisions of DCC18. 108.160
+relative to setback requirements, off- street parking and loading requirements, lot
+coverage limitations or as deemed necessary by the Planning Director or Hearings Body
+to maintain air, land and water resource quality, protect adjoining and area land uses
+and to ensure resource carrying capacities are not exceeded.
+2. An airport related use or structure located adjacent to or across the street from an
+existing residential use or platted residential lot shall not exceed 70 percent lot
+coverage and shall require off street parking and loading areas.
+3. The minimum setback between any structure and an arterial right of way shall be 100
+feet. The minimum setback between any structure and a collector right of way shall be
+50 feet. The minimum setback between any structure and all local streets shall be 20
+feet.
+4. The minimum setback between any structure and a property line adjoining a residential
+use or lot shall be 50 feet.
+5. The minimum lot frontage shall be 50 feet.
+6. The minimum side setback between any structure and a property line shall be three
+feet, and the minimum total of both side setbacks shall be 12 feet.
+7. The minimum rear setback between any structure and a rear property line shall be 25
+feet.
+8. Utility Runway Visual Approach Zone. Slopes 20 feet outward for each foot upward
+beginning at the end of and at the same elevation as the primary runway surface and
+extending to a horizontal distance of 5, 000 feet along the extended runway centerline.
+9. Runway Larger than Utility with a Visibility Minimum Greater than Three -Fourths Mile
+Nonprecision Instrument Approach Zone. Slopes 34 feet outward for each foot upward
+beginning at the end of and at the same elevation as the primary runway surface and
+extending to a horizontal distance of 10,000 feet along the extended runway centerline.
+10. Transitional Zones. Slopes seven feet outward for each foot upward beginning at the
+side of and at the same elevation as the primary runway surface and approach surface,
+and extending to a height of 150 feet above the airport elevation. In addition to the
+foregoing, there are established height limits beginning at the sides of and at the same
+elevation as they approach surface and extending to where they intersect the conical
+surface.
+11. Horizontal Zone. Established at 150 feet above the airport elevation.
+12. Conical Zone. Slopes 20 feet outward for each foot upward beginning at the periphery of
+the horizontal zone and at 150 feet above the airport elevation and extending to a
+height of 350 feet above the airport elevation.
+HISTORY
+Repealed & Reenacted by Ord. 97-078 § 2 on 1213111997
+Amended by Ord. 2023- 001 § 15 on XIXXI2023
+18. 108. 180 Forest; F District
+A. Uses permitted outright. The following uses and their accessory uses are permitted outright,
+subject to applicable provisions of DCC 18.36, Forest Use-F1 Zone, and to applicable provisions
+of the comprehensive plan:
+1. Forest operations or forest practices including, but not limited to, reforestation of forest
+land, road construction and maintenance, harvesting of a forest tree species, application
+of chemicals and disposal of slash.
+2. Temporary on -site structures which are auxiliary to and used during the term of a
+particular forest operation. As used here, temporary structures are those which are
+portable and/ or not placed on a permanent foundation, and which are removed at the
+conclusion of the forest operation requiring its use.
+3. Physical alterations to commercial forest land auxiliary to forest practices including, but
+not limited to, those made for purposes of exploration, mining, commercial gravel
+extraction and processing, la land disposal sites, dams, reservoirs, road
+construction or recreational facilities. Gravel extraction and processing not covered by
+DCC18.108. 180 is governed by DCC18.52.
+4. Uses to conserve soil, air and water quality and to provide for wildlife and fisheries
+resources.
+5. Farm use as defined in ORS 215. 203.
+6. Local distribution lines (e.g., electric, telephone, natural gas, etc.) and accessory
+equipment ( e. g., electric distribution transformers, poles, meter cabinets, terminal
+boxes, pedestals), or equipment which provides service hookups, including water
+service hookups.
+7. Temporary portable facility for the primary processing of forest products. The facility
+shall not be placed on a permanent foundation and shall be removed at the conclusion
+of the forest operation requiring its use.
+8. Exploration for mineral and aggregate resources as defined in ORS 517.
+9. Towers and fire stations for forest fire protection.
+10. Widening of roads within existing rights of way in conformance with the transportation
+element of the comprehensive plan including public road and highway projects as
+described in ORS 215. 283( 1)( k) through ( n).
+11. Water intake facilities, canals and distribution lines for farm irrigation and ponds.
+12. Uninhabitable structures accessory to fish and wildlife enhancement.
+B. Conditional uses permitted. The following uses and their accessory uses may be allowed in the
+Forest District, subject to applicable provisions of DCC18.36, Forest Use-F1 Zone, and to
+applicable provisions of the comprehensive plan:
+1. Television, microwave and radio communication facilities and transmission towers.
+2. Water intake facilities, related treatment facilities, pumping stations and distribution
+lines.
+3. Reservoirs and water impoundments.
+4. New electric transmission lines with right- of- way widths of up to 100 feet as specified in
+ORS772. 210. New distribution lines ( e.g. electrical, gas, oil, geothermal) with rights of
+way 50 feet or less in width.
+5. Forest management research and experimentation facilities as defined by ORS 526. 215
+or where accessory to forest operations.
+6. Commercial composting for which the Oregon Department of Environmental Quality has
+granted a permit or a similar approval, together with equipment, facilities or buildings
+necessary for operation, subject to DCC 18.128.015 and 18.128.120.
+HISTORY
+Repealed & Reenacted by Ord. 97- 078 §2 on 1213111997
+Amended by Ord. 98-016 §2 on 311111998
+Amended by Ord. 2001- 040 § 1 on 121512001
+Amended by Ord. 2020- 007 § 15 on 1012712020
+Amended by Ord. 2023- 001 § 15 on XIXXI2023
+Exhibit E - Ordinance 2023- 001
+CHAPTER 18. 116 SUPPLEMENTARY PROVISIONS
+18. 116. 010 Authorization Of Similar Uses
+18. 116. 020 Clear Vision Areas
+18. 116. 030 Off - Street Parking And Loading
+18. 116. 031 Bicycle Parking
+18. 116. 035 Bicycle Commuter Facilities
+18. 116. 036 Special Parking Provisions For The Sunriver Town Center ( TC) District
+18. 116. 040 Accessory Uses
+18. 116. 050 Manufactured Homes
+18. 116. 070 Placement Standards For Manufactured Homes
+18. 116. 080 Manufactured Home Or RV as Temporary Residence on An Individual Lot During
+Construction
+18. 116. 090 A Manufactured Home Or Recreational Vehicle As A Temporary Residence For Medical
+Condition
+18. 116. 095 Recreational Vehicle As Amy Residence On An Individual Lot
+18. 116. 100 Building Projections
+18. 116. 120 Fences
+18. 116. 130 Hydroelectric Facilities
+18. 116. 140 Electrical Substations
+18. 116. 150 Endangered Species
+18. 116. 160 Rimrock Setbacks Outside Of LM Combining Zone
+18. 116. 170 Solar Height Restrictions
+18. 116. 180 Building Setbacks For The Protection Of Solar Access
+18. 116. 190 Solar Access Permit
+18. 116. 200 ( Repealed)
+18. 116. 210 Residential Homes And Residential Facilities
+18. 116. 215 Family Child Care Provider
+18. 116. 220 Conservation Easements On Property Adiacent To Rivers And Streams; Prohibitions
+18. 116. 230 Standards For Class I And II Road Proiects
+18. 116. 240 Protection Of Historic Sites
+18. 116. 250 Wireless Telecommunications Facilities
+18. 116. 260 Rock Crushing Outside The SM Zone
+18. 116. 270 Conducting Filming Activities In All Zones
+18. 116. 280 Home Occupations
+18. 116. 290 Amateur Radio Facilities
+18. 116. 300 Wind Energy Systems That Generate Less Than 100 KW
+18. 116. 310 Traffic Impact Studies
+18. 116. 320 Medical Marijuana Dispensary
+18. 116. 330 Mariivana Production, Processing, Retailing, And Wholesaling
+18. 116. 340 Mariivana Production Registered By The Oregon Health Authority ( OHA)
+18. 116. 350 Accessory Dwelling Units In RR10 And MUA Zones
+18. 116. 360 Nursery Schools
+18. 116. 080 Manufactured Home Or RV as Temporary Residence on An Individual Lot During
+Construction
+A manufactured home of any class or a recreational vehicle may be authorized as a temporary residence
+on an individual lot and shall comply with the following additional provisions:
+A. The manufactured home or recreational vehicle shall be placed upon a lot for which a building
+permit for a housing unit has been obtained.
+B. The manufactured home or recreational vehicle shall be occupied only during a period in which
+satisfactory progress is being made toward the completion of the housing unit on the same site.
+C. Electric, water and sewer utility connections shall be made to the manufactured home or
+recreational vehicle.
+D. The manufactured home shall be removed from the lot not later than 18 months following the
+date on which the building permit for the housing unit is issued or not later than two months
+following the date of final building inspection of the housing unit, whichever occurs first. The
+habitation of the recreational vehicle must cease, and its connection to all utilities other than
+electric must be discontinued not later than 18 months following the date on which the building
+permit for the housingunit is issuedor not later than two months following the completion of
+the housing unit, whichever occurs first.
+E. All evidence that the manufactured home has been on the lot shall be removed within the 30
+days following the removal of the manufactured home.
+F. A recreational vehicle used as a temporary dwelling unit shall meet the same setbacks required
+of a manufactured dwelling or single- family dwelling on the subject lot.
+G. A recreational vehicle shall be fully licensed and ready for highway use, on its wheels or jacking
+system, shall be attached to the site only by quick disconnect type utilities and security devices,
+and shall have no permanently attached additions.
+H.As identified in this section, a single recreational vehicle located within a special flood hazard
+area is subject to the standards and criteria established by DCC 18. 96.
+HISTORY
+Adopted by Ord. PL-15 on 111111979
+Amended by Ord. 89- 004 §4 on 312411989
+Amended by Ord. 91- 005 §44 on 31411991
+Amended by Ord. 93- 043 §19F on 812511993
+Amended by Ord. 2023- 001 § 16 on XIXXI2023
+18. 116. 090 A Manufactured Home Or Recreational Vehicle As A Temporary Residence For Medical
+Condition
+A. Unless otherwise allowed pursuant to DCC18.116.095( C), Ara temporary use permit for one
+manufactured home of any class or one recreational vehicle on a lot or parcel in addition to an
+existing dwelling may be granted when a medical condition exists. In the Exclusive Farm Use and
+Forest zones only, an existing building may be used as a temporary dwelling. For the purposes of
+this section, " existing" means the building was in existence on or before March 29, 2017.
+B. The person with a medical condition must be either one of the property owners or a relative of
+one of the property owners.
+C. For the purposes of this section, a relative is defined as a grandparent, step -grandparent,
+grandchild, parent, step- parent, child, step -child, brother, sister, sibling, step -sibling, either
+blood or legal relationship, niece, nephew, uncle, aunt or first cousin.
+D. Such medical condition must be verified by a doctor' s written statement, which shall accompany
+the permit application.
+E. The temporary use permit shall be reviewed annually for compliance with the terms of DCC
+18. 116. 090.
+F. The manufactured home shall be removed or the recreational vehicle shall be vacated, and
+disconnected from any electric, water or sewer facility connection for which a permit has been
+issued not later than 90 days following the date the medical condition requiring the temporary
+use permit ceases to exist. In the Exclusive Farm Use and Forest zones the existing building will
+be converted to a permitted non- residential use within 90 days following the date the medical
+condition requiring the temporary use permit ceases to exist.
+G. If a recreational vehicle is used as a medical hardship dwelling, it shall have a bathroom, and
+shall meet the minimum setbacks for the zone in which it is located.
+H_ The applicant shall obtain all necessary permits from the County Building and Environmental
+Health Divisions prior to initiating the use.
+I. A recreational vehicle shall be fully licensed and ready for highway use, on its wheels or jacking
+system, shall be attached to the site only by quick disconnect type utilities and security devices,
+and shall have no permanently attached additions.
+44J. As identified in this section, a single recreational vehicle located within a special flood hazard
+area is subject to the standards and criteria established by DCC 18. 96.
+HISTORY
+Adopted by Ord. PL-15 on 111111979
+Amended by Ord. 89- 004 §5 on 312411989
+Amended by Ord. 91- 005 §45 on 31411991
+Amended by Ord. 2008- 022 § 2 on 1111012008
+Amended by Ord. 2012- 007 § 5 on 51212012
+Amended by Ord. 2017- 001 § 1 on 212712017
+Amended by Ord. 2023- 001 § 16 on XIXXI2023
+18. 116. 095 Recreational Vehicle As A Te+ Residence On An Individual Lot
+A. A single recreational vehicle, as defined in DCC Title 18, maybe located on a lot or parcel in a
+manufactured dwelling park, mobile home park or recreational vehicle park, consistent with
+ORS 197. 493( 1), provided that:
+1. The recreational vehicle is occupied as a residential dwelling; and
+2. The recreational vehicle is lawfully connected to water and electrical supply systems and
+a sewage disposal system.
+A76. A single recreational vehicle, as defined in DCC Title 18, may be located on a lot or parcel not
+containing a dwelling unit and not within in a manufactured dwelling park, mobile home park or
+recreational vehicle park and used as a temporary dwelling unit:^ 4^^'^^^'^ ^
+c
+1. For a period totaling not more than 30 days in any consecutive 60-day period without
+obtaining a land use permit from the Deschutes County Planning Division; or
+2. For a total period not to exceed six months in a calendar year by obtaining a temporary
+use permit under the terms of DCC18.116.095 from the Deschutes County Planning
+Division. A temporary use permit may be renewed annually for use of a recreational
+vehicle under the terms of DCC 18. 116. 095 on the same lot or parcel.
+C. A single recreational vehicle, as defined in DCC Title 18, may be located on a lot or parcel
+containing a manufactured dwelling or single- family dwelling, where such dwelling is
+uninhabitable due to damages from natural disasters, including wildfires, earthquakes, flooding
+or storms until no later than the date:
+1. The dwelling has been repaired or replaced and an occupancy permit has been issued;
+2. The local government makes a determination that the owner of the dwelling is
+unreasonably delaying in completing repairs or replacing the dwelling; or
+3. Twenty- four months after the date the dwelline first became uninhabitable.
+9-. D. All necessary permits shall be obtained from the Deschutes County Building Safety
+Division before connecting a recreational vehicle to sewer, water and/ or electric utility services.
+CL.E_A permit shall be obtained from the Deschutes County Environmental Health Division before
+disposing any wastewater or sewage on -site.
+PFJA recreational vehicle used as a residential dwelling unit or temporary dwelling unit shall meet
+the same setbacks required of a manufactured dwelling or single- family dwelling on the subject
+lot.
+G_ A recreational vehicle shall be fully licensed and ready for highway use, on its wheels or jacking
+system, shall be attached to the site only by quick disconnect type utilities and security devices,
+and shall have no permanently attached additions.
+identified in this section, a sinele recreational vehicle located within a saecial flood hazard
+area is subiect to the standards and criteria established by DCC 18. 96.
+HISTORY
+Amended by Ord. 91-038 §3 on 913011991
+Amended by Ord. 95- 075 § 1 on 1112911995
+Amended by Ord. 98- 062 § 1 on 121911998
+Amended by Ord. 2007- 019 § 4 on .9/ 28/ 2007
+Amended by Ord. 2023- 001_§ 16 o_n__XIXXI2023
+E,xhibit Q - Ordinance, 2023. 00I
+CHAPTER 18. 124 SITE PLAN REVIEW
+18. 124. 010 Purpose
+18. 124. 020 Elements Of Site Plan
+18. 124. 030 Approval Required
+18. 124. 040 Contents And Procedure
+18. 124. 050 Decision On Site Plan
+18. 124. 060 Approval Criteria
+18. 124. 070 Required Minimum Standards
+18. 124. 080 Other Conditions
+18. 124. 090 Right Of Way Improvement Standards
+18. 124. 030 Approval Required
+A. No building, grading, parking, land use, sign or other required permit shall be issued for a use
+subject to DCC 18. 124. 030, nor shall such a use be commenced, enlarged, altered or changed
+until a final site plan is approved according to DCCTitle 22, the Uniform Development
+Procedures Ordinance.
+B. The provisions of DCC18. 124.030 shall apply to the following:
+1. All conditional use permits where a site plan is a condition of approval;
+2. Multiple - family dwellings with more than three units;
+3. All commercial uses that require parking facilities;
+4. All industrial uses;
+5. All other uses that serve the general public or that otherwise require parking facilities,
+including, but not limited to, landfilisland disposal sites, schools, utility facilities,
+religious institutions or assemblies, community buildings, cemeteries, mausoleums,
+crematories, airports, parks and recreation facilities and livestock sales yards; and
+6. As specified for Flood Plain Zones (FP) and Surface Mining Impact Area Combining Zones
+SMIA).
+7. Non-commercial wind energy system generating greater than 15 to 100 kW of
+electricity.
+C. The provisions of DCC18. 124.030 shall not apply to uses involving the stabling and training of
+equine in the EFUzone, noncommercial stables and horse events not requiring a conditional use
+permit.
+D. Noncompliance with a final approved site plan shall be a zoning ordinance violation.
+E. As a condition of approval of any action not included in DCC 18.124.030(B), the Planning
+Director or Hearings Body may require site plan approval prior to the issuance of any permits.
+HISTORY
+Adopted by Ord. PL- 15 on 111111979
+Amended by Ord. 86-032 § 1 on 41211986
+Amended by Ord. 91-020 § 1 on 5/ 2.911991
+Amended by Ord. 91-038 § 1 on 913011991
+Amended by Ord. 94- 008 § 14 on 61811994
+Amended by Ord. 2003- 034 § 2 on 1012912003
+Amended by Ord. 2011- 009 § 1 on 10/ 1712011
+Repealed by Ord. 2018- 005 § 14 on 1011012018
+Amended by Ord. 2019- 010 § 1 on 51812019
+Amended by Ord. 2020- 001 § 15 on 412112020
+Amended by Ord. 2023- 001 § 17 on XIXXI2023
+Exhibit R - Ordinance 2023- 001
+CHAPTER 22. 04 INTRODUCTION AND DEFINITIONS
+22. 04. 010 Introduction And Application
+22. 04. 020 Definitions
+22. 04. 030 Definition- 120- Day ( Repealed)
+22. 04. 040 Verifying Lots Of Record
+22. 04. 040 Verifying Lots Of Record
+A. Purpose; scope. Concurrent with or prior to the issuance of certain permits, a lot or parcel shall
+be verified pursuant to this section to reasonably ensure compliance with the zoning and land
+division laws in effect on the date the lot or parcel was created. Not all permits require
+verification. If required, verifying that the lot or parcel was lawfully created is a threshold issue
+that should be addressed before the permit may be issued, but does not supersede or nullify
+other permit requirements. This section 22.04. 040 provides an applicant the option to
+concurrently verify a lot or parcel as part of applying for a permit that requires verification, or
+preliminarily apply for a declaratory ruling to thereby determine the scope of available permits.
+B. Permits Requiring Verification.
+1. Unless an exception applies pursuant to subsection ( 13)(2) below, verifying a lot or parcel
+pursuant to subsection ( C) shall be required prior to the issuance of the following
+permits:
+a. Any land use permit for a unit of land in the Exclusive Farm Use Zones ( DCC
+Chapter 18. 16), Forest Use Zone — F1 ( DCC Chapter 18. 36), or Forest Use Zone —
+F2 ( DCC Chapter 18. 40);
+b. Any permit for a lot or parcel that includes wetlands as shown on the Statewide
+Wetlands inventory;
+c. Any permit for a lot or parcel subject to wildlife habitat special assessment;
+d. In all zones, a land use permit relocating property lines that reduces in size a lot
+or parcel;
+e. In all zones, a land use, structural, or non -emergency on -site sewage disposal
+system permit if the lot or parcel is smaller than the minimum area required in
+the applicable zone;
+2. Exceptions. Verification shall not be required if one of the following exceptions apply:
+a. The lot or parcel was created by a subdivision plat, partition plat, condominium
+plat, or town plat so long as the plat was recorded and approved by the County,
+another political subdivision of the State of Oregon, or the State of Oregon;
+b. The lot or parcel was previously validated by the County and an applicable
+partition plat was subsequently recorded within 99-365 days as required by ORS
+92. 176AR
+c. The lot or parcel was previously determined to be a lot of record in a formal
+decision issued by the County or a finding in a land use action prior to
+November 1, 2017;
+d. The lot or parcel was previouslyverified pursuant to subsection (C) and a finding
+was issued to that effect in a land use action or declaratory ruling; or
+e_ For permits listed in subsection (13)(1)(e) only, the lot or parcel previously
+received a land use or building permit prior to November 1, 2017, a structural
+permit after November 1, 2017, or a non -emergencyon -site sewagedisposal
+permit.
+eJ. Notwithstanding DCC22.04.040( B)(2)(b), if a unit of land has been validated by
+a city or county under ORS92. 176 before January 1, 2022, such unit of land
+becomes a lawfully established parcel, provided that the owner of the unit of
+land caused a partition plat to be recorded on or before December 31, 2022.
+C. Verified Lots of Record. Permits that require verification shall only be issued to lots or parcels
+that meet the " lot of record" definition in 18. 04. 030.
+D. Findings; Declaratory Ruling. If an applicant is applying for a land use permit listed in subsection
+13)(1), the County shall include a finding verifying that the lot or parcel meetsthe " lot of record"
+definition in 18.04. 030, a finding noting that the lot or parcel does not meet the " lot of record"
+definition in 18.04.030, or a finding noting that verification was not required because the lot or
+parcel qualified for an exception pursuantto subsection (13)(2). If an applicant isapplyingfor a
+permit listed in subsection (13)(1) that doesnot require public notice, or prior to applying for any
+permit, an applicant may request a declaratory ruling pursuant to DCCChapter22.40. If the lot
+or parcelmeetsthe " lot of record" definition in 18.04.030, the County shallissuethe declaratory
+ruling determining that the lot or parcelqualifies for all permits listed in subsection (13)(1). if the
+lot or parceldoes not meet the " lot of record" definition in 18.04.030, the Countyshall not issue
+the declaratory ruling and instead shall provide the applicant information on permit options that
+do not require verification and information on verification exceptions that may apply pursuant
+to subsections ( 13)(2).
+HISTORY
+Adopted by Ord. 2017- 015 § 3 on 111112017
+Amended by Ord. 2023- 001 § 18 on XIXXI2023
+Exhibit S - Ordinance 2023 - 001
+TITLE 23 COMPREHENSIVE PLAN
+CHAPTER 23. 01 COMPREHENSIVE PLAN
+A. The Deschutes County Comprehensive Plan, adopted by the Board in Ordinance 2011- 003 and
+found on the Deschutes County Community Development Department website, is incorporated
+by reference herein.
+B. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2011- 027, are incorporated by reference herein.
+C. [ Repealed by Ordinance 2013- 001, § 1]
+D. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2012- 005, are incorporated by reference herein.
+E. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2012- 012, are incorporated by reference herein.
+F. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2012- 016, are incorporated by reference herein.
+G. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2013- 002, are incorporated by reference herein.
+H. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2013- 009, are incorporated by reference herein.
+I. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2013- 012, are incorporated by reference herein.
+J. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2013- 007, are incorporated by reference herein.
+K. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014- 005, are incorporated by reference herein.
+L. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014- 006, are incorporated by reference herein.
+M. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014- 012, are incorporated by reference herein.
+N. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014- 021, are incorporated by reference herein.
+O. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2014- 027, are incorporated by reference herein.
+P. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2015- 021, are incorporated by reference herein.
+Q. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2015- 029, are incorporated by reference herein.
+R. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2015- 018, are incorporated by reference herein.
+S. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2015-010, are incorporated by reference herein.
+T. [ Repealed by Ordinance 2016- 027"§ 11
+U. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2016-022, are incorporated by reference herein.
+V. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2016- 005, are incorporated by reference herein.
+W. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2016- 027, are incorporated by reference herein.
+X. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2016- 029, are incorporated by reference herein.
+Y. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2017- 007, are incorporated by reference herein.
+Z. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2018- 002, are incorporated by reference herein.
+AA. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2018- 006, are incorporated by reference herein.
+AB. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2018- 011, are incorporated by reference herein.
+AC. [repealed by Ord. 2019- 010 § 1, 2019]
+AD. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2018-008, are incorporated by reference herein.
+AE. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019-002, are incorporated by reference herein.
+AF. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019-001, are incorporated by reference herein.
+AG. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019-003, are incorporated by reference herein.
+AH. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019- 004, are incorporated by reference herein.
+Al. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019- 011, are incorporated by reference herein.
+AJ. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019- 006, are incorporated by reference herein.
+AK. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019- 019, are incorporated by reference herein.
+AL. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2019- 016, are incorporated by reference herein.
+AM. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020- 001, are incorporated by reference herein.
+AN. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020- 002, are incorporated by reference herein.
+AO. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020-003, are incorporated by reference herein.
+AP. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020- 008, are incorporated by reference herein.
+AQ. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020- 007, are incorporated by reference herein.
+AR. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020-006, are incorporated by reference herein.
+AS. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020-009, are incorporated by reference herein.
+AT. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2020- 013, are incorporated by reference herein.
+ALI. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2021-002, are incorporated by reference herein.
+AV. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2021- 005, are incorporated by reference herein.
+AW. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2021-008, are incorporated by reference herein.
+AX. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2022- 001, are incorporated by reference herein.
+AY. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2022- 003, are incorporated by reference herein.
+AZ. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2022- 006, are incorporated by reference herein.
+BA. The Deschutes County Comprehensive Plan amendments, adopted by the Board in Ordinance
+2023- 001, are incorporated by reference herein.
+Click here to be directed to the Comprehensive Plan ( http:// www. deschutes. org/ compplan)
+HISTORY
+Amended by Ord. 2011- 027 § 10 on 111912011
+Adopted by Ord. 2011- 003 §2 on 111912011
+Amended by Ord. 2011- 017 §5 on 1113012011
+Amended by Ord. 2012- 012 § 1, 2, 3, 4 on 812012012
+Amended by Ord. 2012- 005 § 1 on 1111912012
+Amended by Ord. 2013- 002 § 1 on 11712013
+Repealed by Ord. 2013- 001 § 1 on 11712013
+Amended by Ord. 2013- 005 § 1 on 112312013
+Amended by Ord. 2012- 016 § 1 on 31412013
+Amended by Ord. 2013- 009 § 1 on 51812013
+Amended by Ord. 2013- 012 § 1 on 81812013
+Amended by Ord. 2013- 007 §1 on 812812013
+Amended by Ord. 2014- 005 §2 on 212612014
+Amended by Ord. 2014- 006 §2 on 311512014
+Amended by Ord. 2014- 012 § 1 on 81612014
+Amended by Ord. 2014- 021 § 1 on 1112612014
+Amended by Ord. 2015- 029 § 1 on 1113012015
+Amended by Ord. 2015- 010 § 1 on 1212112015
+Amended by Ord. 2015- 021 § 1 on 212212016
+Amended by Ord. 2015- 018 §1 on 312812016Amendedby Ord.
+2016- 001 §1 on 41512016Amendedby Ord.
+2016- 022 §1 on 912812016Repealed & Reenactedby
+Ord. 2016- 027 §1, 2 on 1212812016Amendedby Ord.
+2016- 005 §1 on 212712017Amendedby Ord. 2016-029 §1
+on 312812017Amendedby Ord. 2017-007 §1
+on 111112017Amendedby Ord. 2018-002 §1
+on 112512018Amendedby Ord. 2018-005 §2
+on 1011012018Amendedby Ord. 2018-008 §1
+on 1012612018Amendedby Ord. 2018-008 §1
+on 1012612018Amendedby Ord. 2018-008 §1
+on 1012612018Amendedby Ord. 2018-006 §1
+on 1112012018Amendedby Ord. 2018-011 §1
+on 1211112018Amendedby Ord. 2019-004 §1
+on 311412019Amendedby Ord. 2019-003 §1
+on 311412019
+Amended by Ord. 2019- 002 § 1 or, 4/ 2/ 2019
+Amended by Ord. 2019- 001 § 1 on 411612019
+Amended by Ord. 2019- 010 § 1 on 5/ 8/ 2019
+Amended by Ord. 2019- 011 § 1 on 511712019
+Amended by Ord. 2019- 006 § 1 on 611112019Amendedby Ord.
+2019- 019 §2 on 1211112019Amendedby Ord.
+2020- 001 §26 on 412112020Amendedby Ord.
+2020- 003 §1 on 512612020Amendedby Ord.
+2020- 002 §1 on 512612020Amendedby Ord.
+2020- 008 §5 on 912212020Amendedby Ord.
+2020- 007 §1 on 1012712020Amendedby Ord.
+2020- 006 §1 on 1111012020Amendedby Ord.
+2020- 009 §4 on 11/ 1712020Amendedby Ord.
+2020- 013 §1 on 1112412020Amendedby Ord.
+2021- 002 §3 on 412712021Amendedby Ord.
+2021- 005 §1 on 611612021Amendedby Ord. 2021-008 §1
+on 613012021Amendedby Ord. 2022-001 §2
+on 711212022Amendedby Ord. 2022-003 §2
+on 711912022Amendedby Ord. 2022-006 §2
+on 712212022Amendedby Ord. 2023-001 §19
+on X/ XX/ 2023
+suppLevu. ewtaL
+chapter s
+Sect' ov, s
+5ect% ow 6. 9 foal, 5" Iwvewtevu
+cultural, 01A.01ffistor% c tzesou. rces
+Background
+This section lists Locally Significant Historic Resources and National Register Resources in rural
+DeschutesCounty. These inventories are acknowledgedby the Department of Land
+Conservation and Development. In 2020, Deschutes County' s inventories were updated to
+comply with Oregon Administrative Rule (OAR) 660-023-0200, Historic Resources. OAR 660-
+023- 0200 was amended in 2017.
+LocallySignificantHistoricResoruces
+I. Alfalfa Grange: Grange building and community center, built in 1930, located on Willard
+Road, Alfalfa. 17- 14- 26 TL 400.
+2. Allen RanchCemetery: Oldest cemetery in DeschutesCounty. 30' by 40' fenced cemetery
+plot. Situated 100 yards west of South Century Drive, one- half mile south of Road 42.
+Two marble gravestones, two wooden markers. 20- 11-7 TL 1700.
+Fall River Fish Hatchery " Ice House": The hatchery "Ice House" datesfrom the beginning
+of fishery management in Oregon, circa 1920. It is an 18foot by 18 foot improvement, the
+only original building remaining on the property, and the only significant building or
+structure on the site. Locatedat 15055S. Century Drive, E/2; NE'A; Section32, Township
+20S, Range 10 E, Tax Lot 100. ( Ordinance 94- 006 § I, 1994).
+4. Long Hollow Ranch — Black Butte: Headquarters complex of historic ranch, located on
+Holmes Road in Lower Bridge area, including headquarters house, ranch commissary,
+equipment shed, barn and bunkhouse. 14- 1 1- 1 TL 101.
+5. Swamp Ranch — Black Butte: The present day site of the Black Butte Ranch was part of the
+vast holdings of the Black Butte Land and Livestock Company in 1904. No buildings from
+the period exist. 14-9- 1OA, IOB, 15B, 15C, 16A, 21A, 21B, 21C, 22A, 22B.
+6. Brothers School: Only one -room schoolhousecurrently in usein DeschutesCounty,
+located on Highway 20 in Brothers. 20- 18-00 TL 3200.
+7. Bull Creek Dam: The Bull Creek Dam, a component of the Tumalo Irrigation Project was
+constructed in 1914 to form a water storage reservoir to increase the amount of irrigated
+acreage at Tumalo. It is a gravity type of overflow dam. Two cut off walls are extended
+into solid formation, one at the upper toe and the other at the lower toes of the concrete
+dam. The dam proper is about 17 feet high from the foundation, although the completed
+structure is about 25 feet. Located on Tumalo Reservoir - Market Road. 16- 1 1-33 TL 2700
+SW-'/ 4; SW-'/ 4.
+8. Bull Creek Dam Bridge ( Tumalo Irrigation Ditch Bridge): Built in 1914, the bridge, which
+spans the dam, consists of five continuous filled spandrel, barrel - type concrete deck arch
+spans, each 25 feet long. The concrete piers are keyed into notches in the arch structure.
+The structure is the oldest bridge in Deschutes County. On Tumalo Reserve -market
+Road. 16- 1 1- 33 TL 2700/ SW-'/ 4; SW-'/ 4.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 9 CULTURAL AND HISTORIC INVENTORIES
+9. Camp Abbot Site, Officers' Club: Officers' Club for former military camp, currently
+identified as Great Hall in Sunriver and used as a meeting hall. 20- 11-513TL 112.
+10. Camp Polk Cemetery: One of the last remainingpioneer cemeteries, located off Camp
+Polk Road near Sisters. The site is composed of a tract of land, including gravestones and
+memorials, containing 2. 112 acres in the Southwest Quarter of the Southeast Quarter of
+Section27, Township 14South, Range10E.W. M., TL 2100, describedasfollows:
+Beginning at a point North 20 degrees 06' 20" West 751 feet from the corner common
+to Sections26, 27, 34 and 35 in Township 14South Range10E.W. M. and running thence
+South 88 degrees 30' West 460 feet; thence North I degree 30' East 460 feet; thence
+South I degree 30' 200 feet to the point of beginning.
+11. Camp Polk Military Post Site: One of the oldest military sites in Deschutes County.
+Located on Camp Polk Cemetery Road. Site includes entire tax lots, listed as follows 14-
+10- 00 TL 2805 & 14- 10- 34 TL 100, 300.
+12. Cloverdale School: School building in Cloverdale, located near 68515 George Cyrus
+Road. First building built in Cloverdale. IS- 11-7 TL 600.
+13. EasternStar Grange: Grangehallfor earliestgrangeorganizedin DeschutesCounty,
+located at 62850 Powell Butte Road. 17- 13- 19 TL 1900.
+14. Enoch Cyrus Homestead Hay Station and Blacksmith Shop: The Enoch Cyrus Homestead
+was the original homesteadof Oscar Maxwell, built in 1892andpurchasedin 1900by
+Enoch Cyrus. Important stage/store stop for early travelers. The homestead house,
+including a back porch and cistern, and the Blacksmith Shop are designated. 15-11-10TL
+700.
+IS. Fremont Meadow: A smallnaturalmeadow on Tumalo Creek in Section34, Township 17
+South, Range I I East, lying within Shevlin Park. TL 5900. Campsite for 1843 Fremont
+expedition. 17- 1 1-34 TL 5900.
+16. Harper School: One -room schoolhouse, located west of South Century Drive, south of
+Sunriver, moved halfway between the Allen Ranch and the Vandevert Ranch from the
+former townsite of Harper. 20- 1 1- 17 TL 1200.
+17. Improved Order of RedmondCemetery: Historic cemetery usedby residentsof La
+Pine/Rosland area. Located on Forest Road 4270, east of Highway 97. A 40-acre parcel
+described as: The Southwest one - quarter of the Southeast one - quarter ( SW-'/ 4; SE-'/ 4)
+Section 7, Township 22 south, Range 11, East of the Willamette Meridian, Deschutes
+County, Oregon.
+18. Laidlaw Bank and Trust: One of the few remaining commercial buildings from the
+community of Laidlaw, located at 64697 Cook Avenue, Tumalo. 16-12-31A TL 2900.
+19. La PineCommercial Club: Buildingwas built in 1912as a community center, servingasa
+regular meeting place for civic organizations and occasionally served as a church. One of
+the oldest and continuously used buildings in La Pine. Located at 5 1518 Morrison Street,
+La Pine. 22- 10- 15AA TL 4600.
+20. Lynch and Roberts Store Advertisement: Ad advertising sign painted on a soft volcanic ash
+surface. Only areaexampleof early advertisingon natural material. Lynchand Roberts
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011 3
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 9 CULTURAL AND HISTORIC INVENTORIES
+established mercantile in Redmond in 1913. Roberts Field near Redmond was named for J
+R. Roberts. Site includes the bluff. 14- 12- 00 TL 4-50- 1- 1505.
+21. MastonCemetery: One of the oldest cemeteriesin County. Oldest gravemarker is 1901.
+About one- half mile from site of Maston Sawmill and Homestead. Site includes the
+gravestonesand memorialsand the entire tax lot, identified as 22-09-00 TL 1800.
+22. George Millican Ranch and Mill Site: Ranch established in 1886. Well dug at or near that
+date. Remains of vast cattle ranching empire. 19-15-33 TLs 100, 300.
+23. George Millican Townsite: Town established 1913. Site includes store and garage
+buildings, which retain none of the architectural integrity from era. 19-15-33 TL 500.
+24. Petersen Rock Gardens: The Petersen Rock Gardens consist of stone replicas and
+structures erected by Rasmus Petersen. A residence house and museum are part of the
+site. The site has been a tourist attraction for over 60 years. Located at 7930 SW 77th,
+Redmond. Site includes entire tax lot. 16- 12- 11 TL 400.
+25. Pickett's Island: After originally settling in Crook County, MarshAwbrey moved to Bend
+and then homesteaded on this island in the Deschutes River south of Tumalo. The site
+was an early ford for pioneers. Located in Deschutes River near Tumalo State Park. 17-
+12- 6 NE- 1/4TL100. Portionbetween Deschutes River and Old Bend Road is designated. 26.
+Rease (PaulinaPrairie) Cemetery: Historic cemeteryon ElizabethVictoria Castle Rease and
+DenisonRease' s homestead. Earliest known grave is of theirson, GeorgeGuy Rease, born
+in 1879, who was also a homesteaderon PaulinaPrairie. George Guy Reasedied of smallpox
+on theCaldwellRanch on May2, 1903. Other known burials are WilliamHenry Caldwell,
+1841- October15, 1910, died on the CaldwellRanch of injuriessustained on a cattle
+drive; Melvin Raper, 1892- 1914, died in a tentof tuberculosis; Addie Laura Caldwell,
+1909- November16, 1918, died of theSpanishinfluenza epidemic; and EmmaNimtz
+Deedon, 1886- April 15, 1915, died of complicationsfrom a pregnancy. There are several
+unmarkedgraves. The cemeteryis a county -owned one - acreparcelon thenorthedge
+of PaulinaPrairie, two miles east of Highway97. 210- 1 1-29, SE-'/ 4; NW-'/4 TL99. 27.
+TerrebonneLadies PioneerClub: The Clubwas organizedin 1910. The buildinghas beena
+community -meeting place since 1911. Locatedat 833411 thStreet, Terrebonne. 14- 13- 16DC
+TL 700. 28.
+TetherowHouse and Crossing: Site is anexcellentexample of an earlyDeschutesRiver crossing.
+Major route from SantiamWagon Road to Prineville. Tetherow House was builtin
+1878. The Tetherowsoperated a tollbridge, store and liverystable for travelers. Oldest
+house in County. Site includeshouse and entiretax lot. 14- 12-36ATL 4500. 29.
+TumaloCreek - Diversion Dam The originalheadgate and diversiondam for the feed canal
+was constructedin 1914. The feed canal's purposewas to conveywater from Tumalo
+Creek to the reservoir. The originalheadworkswere replacedand the original94.
+2 ft lowoverflowweir dam was partiallyremovedin 2009/2010 to accommodatea new
+fish screenand fish ladder. The remainingoriginal structureis a 90foot (crest length)
+section of damof reinforcedconcrete. Tax Map 17- 1 1-23, Tax Lot 800 & 1600. 4
+DESCHUTES COUNTY COMPREHENSIVEPLAN - 2011 CHAPTER
+5 SUPPLEMENTALSECTIONS SECTION 5. 9 CULTURALAND HISTORICINVENTORIES
+30. Tumalo Community Church: The building is the oldest church in the County, built in
+1905. It stands in the former town of Laidlaw, laid out in 1904. Located at 64671 Bruce
+Avenue, Tumalo. 16- 12- 31A TL 3900.
+31. Tumalo Project Dam: Concrete core, earth -filled dam75 feet high. First project by State
+of Oregon to use State monies for reclamation project. On Tumalo Creek. 16-11-29.
+32. William P. Vandevert Ranch Homestead House: The Vandevert Ranch House stands on
+the east bank of the Little Deschutes River at 17600 Vandevert Road near Sunriver. The
+homestead was established in 1892, and has been recently relocated and renovated.
+Vandevert family history in the area spans 100 years. 20- 11-18D TL 13800.
+33. Kathryn Grace Clark Vandevert Grave: Kathryn Grace Vandevert, daughter of William P.
+Vandevert, died of influenza during the epidemic of 1918. Her grave is located across a
+pasture due south of the Vandevert House, 50 feet eastof the Little DeschutesRiver. Site
+includesgravestoneandfencedgravesitemeasuringis approximately 15feet by 25 feet.
+20- 1 1-00 TL 1900.
+34. Young School: Built in 1928, it is an excellent example of a rural " one -room" school
+which served homesteaders of the 1920s. Located on Butler Market Road. 17- 13- 19 TL
+400.
+35. Agnes Mae Allen Sottong and Henry J. Sottong House and Barn: House and barn are
+constructed with lumber milled on the property in a portable sawmill run by the Pine
+Forest Lumber Company in 1911. Henry was awarded homestead patent 7364 issued at
+The Dalles on Dec I, 1904. Henry was president of the Mountain States Fox Farm. A
+flume on the Arnold Irrigation District is named the Sottong Flume. The structures are
+also associated with William Kuhn, a president of the Arnold Irrigation District; Edward
+and Margaret Uffelman, who were part of the group that privatized and developed the
+Hoo Doo Ski Resort; and Frank Rust Gilchrist, son of the founder of the town of
+Gilchrist and Gilchrist Mill and president of the Gilchrist Timber Company from the time
+of his father' s death in 1956 to 1988. Frank R. Gilchrist served on the Oregon Board of
+Forestry under four governors andwas appointed by the governors to serve asa member
+of the Oregon Parks and Recreation Advisory Committee. He served on the Oregon
+State University' s Forest Products Research Lab and was a director and president of the
+National Forest Products Association. T 18 R 12 Section 22, 00 Tax lot 01600.
+Inventory note: Unless otherwise indicated the inventoried site includes only the designated
+structure. No impact areas have been designated for any inventoried site or structure.
+National Register Resources listed before February 23, 2017
+36. Pilot Butte Canal: A gravity -flow irrigation canal constructed in 1904 that diverts 400
+cubic feet of Deschutes River water per second. The canal conveys water through a 225-
+miles- long distribution system of successively narrower and shallower laterals and ditches
+on its way to those who hold water rights, serving about 20,711 acres by 1922. The canal
+was built in an area that had a population of 81 people when it was constructed. The
+historic district measures 7,435 feet long and encompasses 50 feet on either side of the
+canalcenterline to create a 100-foot corridor. The district hasa character -definingrocky,
+uneven bed, and highly irregular slopes, angles, cuts, and embankments.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 9 CULTURAL AND HISTORIC INVENTORIES
+37. Elk Lake Guard Station: A wagon road built in 1920 between Elk Lake and Bend sparked a
+wave of tourism around the scenic waterfront. To protect natural resources of the
+Deschutes National Forest and provide visitor information to guests, the Elk Lake Guard
+Station was constructed in 1929 to house a forest guard.
+38. Deedon ( Ed and Genvieve) Homestead: The homestead is located between the
+Deschutes River and the Little Deschutes River. All of the buildings were constructed
+between 1914 and 1915.
+39. Gerking, Jonathan N. B. Homestead: Jonathan N. 8. Gerking, " Father of the Tumalo
+Irrigation Project," played a crucial role in getting the project recognized and funded.
+40. McKenzieHighway: The McKenzieSaltSpringsand DeschutesWagon Road, a
+predecessorto the modern McKenzieHighway, was constructed in the 1860sand 1870s.
+41. Paulina Lake Guard Station: The station typifies the construction projects undertaken by
+the Civilian Conservation Corps and signifies the aid to the local community provided by
+the emergency work - relief program through employment of youth and experienced
+craftsmen, purchaseof building materialsand camp supplies, and personalexpenditures of
+enrollees.
+42. Paulina Lake I.O. O. F Organization Camp: The Paulina Lake I.0 .0 .F. Organization camp
+was constructed during the depression era and are the result of cooperative efforts by
+nonprofessional builders. Such camp buildings are important in Oregon' s recreational
+history as an unusual expression of both its rustic style and its vernacular traditions.
+43. Petersen Rock Gardens: The Petersen Rock Gardens consist of stone replicas and
+structures erected by Rasmus Petersen. The site has been a tourist attraction for over 60
+years.
+44. Rock O' the Range Bridge: Rock O' The Range is the only covered span east of the
+Cascades in Oregon. To gain accessto his property, William Bowen instructed Maurice
+Olson — a local contractor — to build a bridge inspired by Lane County' s Goodpasture
+Bridge.
+45. Skyliners Lodge: The Skyliners are a Bend -based mountaineering club organized in 1927.
+In 1935, the group started buildingthe SkylinersLodgewith helpfrom the Deschutes
+National Forest, the Economic Recovery Act and the City of Bend.
+46. Santiam Wagon Road: The Santiam Wagon Road went from Sweet Home to Cache
+Creek Toll Station. The road was conceived of in 1859 to create a route across the
+Cascades. By the 1890s, the road had become a major trade route.
+47. Wilson, William T. E. Homestead: This homestead house was built in 1903 and has an
+American Foursquare" architectural style.
+National Register Resources listed on / after February 23, 2017
+48. Central Oregon Canal: A gravity -flow irrigation canal constructed in 1905 and enlarged in
+1907 and 1913. The canal retains its impressive historic open, trapezoidal shape,
+dimensions and characteristics. It is characterized by the volcanic rock flows, native
+materials, rocky bed and sides, and its hurried hand-hewn workmanship. The historic
+district is 3.4 miles long, crossing rural land between the Ward Road Bridge on the
+DESCHUTES COUNTY COMPREHENSIVE PLAN — 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 9 CULTURAL AND HISTORIC INVENTORIES
+western edgeandthe Gosney RoadBridge on the eastern edge. In the historic district,
+the canalrangesin width from 34' to 78', averagingaround 50', and its depthvariesfrom
+I' to 9', averagingaround 4' deep, dependingon the arnount of volcaniclavaflows
+encountered, the terrain, and slope. The canal through the historic district carries nearly
+the full amount of water diverted from the Deschutes River, 530 cubic feet per second
+duringthe irrigationseason, April throughOctober. Thehistoricdistrictencompasses50'
+on either side of the canal centerline to create a 100' corridor that includes the whole of
+the easement held by COID, and all the contributing resources. ( Date listed: 03/ 18/
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011 7
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 9 CULTURAL AND HISTORIC INVENTORIES
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 12LEGISLATIVE HISTORY
+Exhibit U - Ordinance 2023- 001
+S eotLo v, , 5.: L2 Leg LsLatWe Wsto rru
+Background
+This section contains the legislative history of this Comprehensive Plan.
+Table S. 12. 1 Comprehensive Plan Ordinance History
+Ordinance
+Date Adopted/
+Chapter/ Section Amendment
+Effective
+All, except
+Transportation, Tumalo
+and Terrebonne
+201 1-003 8- 10- 1 1/ 1 1-9- 1 1 Community Plans, Comprehensive Plan update
+Deschutes Junction,
+Destination Resorts and
+ordinances adopted in
+2011
+2. 5, 2. 6, 3. 4, 3. 10, 3. 5,
+Housekeeping amendments to
+201 1-027 10- 31- 1 1 / 1 1-9- 1 1
+4. 6, 5. 3, 5. 8, 5. 1 1,
+23. 40A, 23. 40B,
+ensure a smooth transition to
+23. 40. 065, 23. 01. 010
+the updated Plan
+23. 60, 23. 64 ( repealed),
+Updated Transportation
+2012- 005 8- 20- 12/ 1 1- 19- 12 3.7 ( revised), Appendix C
+System Plan
+added)
+2012- 012 8- 20- 12/ 8- 20- 12 4. 1, 4. 2
+La Pine Urban Growth
+Boundary
+2012- 016 12- 3- 12/ 3- 4- 13 3. 9 Housekeeping amendments to
+Destination Resort Chapter
+Central Oregon Regional
+2013- 002 1-7- 13/ 1-7- 13 4. 2 Large - lot Employment Land
+Need Analysis
+Comprehensive Plan Map
+Amendment, changing
+2013- 009 2- 6- 13/ 5- 8- 13 1.3
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+ComprehensivePlanMap
+2013- 012 5- 8- 13/ 8- 6- 13 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+Newberry Country: A Plan
+2013- 007 5- 29- 13/ 8- 27- 13 3. 10, 3. 1 1 for Southern Deschutes
+County
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 12 LEGISLATIVE HISTORY
+EXHIBIT U, ORD. 2023- 001
+TComprehensivePlanMap
+2013- 016 10- 21- 13/ 10- 21- 13 23. 01. 010 Amendment, including certain
+property within City of Sisters
+Urban Growth Boundary
+Comprehensive Plan Map
+2014- 005 2- 26- 14/ 2- 26- 14 23. 01. 010 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+2014- 012 4- 2- 14/ 7- 1- 14 3. 10, 3. 1 1 Housekeeping amendments to
+Title 23.
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+2014- 021 8- 27- 14/ 1 1-25- 14 23. 01. 010, 5. 10 property from Sunriver Urban
+Unincorporated Community
+Forest to Sunriver Urban
+Unincorporated Community
+Utility
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+2014- 021 8- 27- 14/ 1 1-25- 14 23. 01. 010, 5. 10 property from Sunriver Urban
+Unincorporated Community
+Forest to Sunriver Urban
+Unincorporated Community
+Utility
+Comprehensive Plan Map
+Amendment, changing
+2014- 027 12- 15- 14/ 3- 31- 15 23. 01. 010, 5. 10 designation of certain
+property from Agriculture to
+Rural Industrial
+ComprehensivePlanMap
+Amendment, changing
+2015- 021 1 1-9- 15/ 2- 22- 16 23. 01. 010 designation of certain
+property from Agriculture to
+Surface Mining.
+Comprehensive Plan Map
+Amendment, changing
+2015- 029 1 1-23- 15/ 1 1-30- 15 23. 01. 010
+designation of certain
+property from Tumalo
+Residential 5- Acre Minimum
+to Tumalo Industrial
+2015- 018 12- 9- 15/ 3- 27- 16 23. 01. 010, 2. 2, 4. 3 Housekeeping Amendments
+to Title 23.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTALSECTIONS SECTION 5. 12 LEGISLATIVE HISTORY
+EXHIBIT U, ORD. 2023- 001
+Comprehensive Plan Text and
+2015- 010 12- 2- 15/ 12- 2- 15 2. 6 Map Amendment recognizing
+Greater Sage - Grouse Habitat
+Inventories
+Comprehensive Plan Map
+Amendment, changing
+2016- 001 12- 21- 15/ 04- 5- 16 23. 01. 010; 5. 10
+designation of certain
+property from, Agriculture to
+Rural Industrial ( exception
+area)
+Comprehensive Plan
+Amendment to add an
+exception to Statewide
+2016- 007 2- 10- 16/ 5- 10- 16 23. 01. 010; 5. 10 Planning Goal I I to allow
+sewers in unincorporated
+lands in Southern Deschutes
+County
+Comprehensive Plan
+Amendment recognizing non-
+2016- 005 1 1-28- 16/ 2- 16- 17 23. 01. 010, 2. 2, 3. 3 resource lands process
+allowed under State law to
+change EFU zoning
+Comprehensive plan
+2016- 022 9- 28- 16/ 1 1- 14- 16 23. 01. 010, 1.3, 4. 2 Amendment, including certain
+property within City of Bend
+Urban Growth Boundary
+Comprehensive Plan Map
+Amendment, changing
+2016- 029 12- 14- 16/ 12/ 28/ 16 23. 01. 010 designation of certain
+property from, Agriculture to
+Rural Industrial
+Comprehensive Plan Map
+Amendment, changing
+2017- 007 10- 30- 17/ 10- 30- 17 23. 01. 010
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan
+2018- 002 1-3- 18/ 1-25- 18 23. 01, 2. 6 Amendment permitting
+churches in the Wildlife Area
+Combining Zone
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 12 LEGISLATIVE HISTORY
+EXHIBIT U, ORS. 2023- 001
+Housekeeping Amendments
+correcting tax lot numbers in
+Non -Significant Mining Mineral
+2018- 006 8- 22- 18/ 1 1-20- 18 23. 01. 010, 5. 8, 5. 9 and Aggregate Inventory;
+modifying Goal 5 Inventory of
+Cultural and Historic
+Resources
+Comprehensive Plan Map
+Amendment, changing
+2018- 01 1 9- 12- 18/ 12- 1 1- 18 23. 01. 010
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan Map
+Amendment, removing Flood
+23. 01. 010, 2. 5, Tumalo Plain Comprehensive Plan
+2018- 005 9- 19- 18/ 10- 10- 18 Community Plan, Designation; Comprehensive
+Newberry Country Plan Plan Amendment adding Flood
+Plain Combining Zone
+purpose statement.
+Comprehensive Plan
+Amendment allowing for the
+2018- 008 9- 26- 18/ 10- 26- 18 23. 01. 010, 3.4 potential of new properties to
+be designated as Rural
+Commercial or Rural
+Industrial
+Comprehensive Plan Map
+Amendment changing
+designation of certain
+property from Surface Mining
+2019- 002 1-2- 19/ 4- 2- 19 23. 01. 010, 5. 8
+to Rural Residential Exception
+Area; Modifying Goal 5
+Mineral and Aggregate
+Inventory; Modifying Non -
+Significant Mining Mineral and
+Aggregate Inventory
+Comprehensive Plan and Text
+2019- 001 1- 16- 19/ 4- 16- 19 1.3, 3. 3, 4. 2, 5. 10, 23. 01
+Amendment to add a new
+zone to Title 19: Westside
+Transect Zone.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTALSECTIONS SECTION 5. 12 LEGISLATIVE HISTORY
+EXHIBIT U, ORS. 2023- 001
+Comprehensive Plan Map
+Amendment changing
+designation of certain
+2019- 003 02- 12- 19/ 03- 12- 19 23. 01. 010, 4. 2 property from Agriculture to
+Redmond Urban Growth
+Area for the Large Lot
+Industrial Program
+Comprehensive Plan Map
+Amendment changing
+designation of certain
+property from Agriculture to
+2019- 004 02- 12- 19/ 03- 12- 19 23. 01. 010, 4. 2
+Redmond Urban Growth
+Area for the expansion of the
+Deschutes County
+Fairgrounds and relocation of
+Oregon Military Department
+National Guard Armory.
+Comprehensive Plan Map
+Amendment to adjust the
+Bend Urban Growth
+Boundary to accommodate
+the refinement of the Skyline
+Ranch Road alignment and the
+2019- 01 1 05- 01- 19/ 05- 16/ 19 23. 01. 010, 4. 2 refinement of the West Area
+Master Plan Area I boundary.
+The ordinance also amends
+the Comprehensive Plan
+designation of Urban Area
+Reserve for those lands
+leaving the UGB.
+Comprehensive Plan Map
+Amendment, changing
+2019- 006 03- 13- 19/ 06- 1 1- 19 23. 01. 010,
+designation of certain
+property from Agriculture to
+Rural Residential Exception
+Area
+Comprehensive Plan and Text
+amendments incorporating
+language from DLCD' s 2014
+2019- 016 1 1-25- 19/ 02- 24- 20 23. 01. 01, 2. 5 Model Flood Ordinance and
+Establishing a purpose
+statement for the Flood Plain
+Zone.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 12 LEGISLATIVE HISTORY
+EXHIBIT U, ORD. 2023- 001
+Comprehensive Plan and Text
+amendments to provide
+procedures related to the
+2019- 019 12- 1 1- 19/ 12- 1 1- 19 23. 01. 01, 2. 5
+division of certain split zoned
+properties containing Flood
+Plain zoning and involving a
+former or piped irrigation
+canal.
+Comprehensive Plan and Text
+amendments to provide
+procedures related to the
+2020- 001 12- 1 1- 19/ 12- 11- 19 23. 01. 01, 2. 5
+division of certain split zoned
+properties containing Flood
+Plain zoning and involving a
+former or piped irrigation
+canal.
+Comprehensive Plan Map
+Amendment to adjust the
+Redmond Urban Growth
+Boundary through an equal
+exchange of land to/ from the
+Redmond UGB. The exchange
+property is being offered to
+better achieve land needs that
+2020- 002 2- 26- 20/ 5- 26- 20 23. 01. 01, 4. 2, 5. 2 were detailed in the 2012 SB
+1544 by providing more
+development ready land
+within the Redmond UGB.
+The ordinance also amends
+the Comprehensive Plan
+designation of Urban Area
+Reserve for those lands
+leaving the UGB.
+Comprehensive Plan
+Amendment with exception
+to Statewide Planning Goal 11
+2020- 003 02- 26- 20/ 05- 26- 20 23. 01. 01, 5. 10 Public Facilities and Services)
+to allow sewer on rural lands
+to serve the City of Bend
+Outback Water Facility.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 12 LEGISLATIVE HISTORY
+EXHIBIT U, ORD. 2023- 001
+Comprehensive Plan
+Transportation System Plan
+Amendment to add
+roundabouts at US 20/ Cook-
+2020- 008 06- 24- 20/ 09- 22- 20 23. 01. 010, Appendix C O.B. Rileyand US20/Old
+Bend -Redmond Hwy
+intersections; amend Tables
+5. 33 1 and 5. 332 and amend
+TSP text.
+Housekeeping Amendments
+2020- 007 07- 29- 20/ 10- 27- 20 23. 01. 010, 2. 6 correcting references to two
+Sage Grouse ordinances.
+Comprehensive Plan and Text
+amendments to update the
+County' s Resource List and
+2020- 006 08- 12- 20/ 1 1- 10- 20 23. 01. 01, 2. 1 1, 5. 9 Historic Preservation
+Ordinance to comply with the
+State Historic Preservation
+Rule.
+Comprehensive Plan
+Transportation System Plan
+Amendment to add reference
+2020- 009 08- 19- 20/ 11- 17- 20 23. 01. 010, Appendix C to J turns on US 97 raised
+median between Bend and
+Redmond; delete language
+about disconnecting
+Vandevert Road from US 97.
+Comprehensive Plan Text
+And Map Designation for
+Certain Properties from
+Surface Mine ( SM) and
+Agriculture ( AG) To Rural
+2020- 013 08- 26- 20/ 1 1 /24/ 20 23. 01. 01, 5.8 Residential Exception Area
+RREA) and Remove Surface
+Mining Site 461 from the
+County' s Goal 5 Inventory of
+Significant Mineral and
+Aggregate Resource Sites.
+ComprehensivePlanMap
+2021- 002 01- 27- 21 / 04- 27- 21 23. 01. 01
+Designation for Certain
+Property from Agriculture
+AG) To Rural Industrial ( RI)
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 12 LEGISLATIVE HISTORY
+EXHIBIT U, ORD. 2023- 001
+Comprehensive Plan Map
+Amendment Designation for
+Certain Property from
+2021- 005 06- 16- 21 / 06- 16- 21 23. 01. 01, 4. 2 Agriculture ( AG) To
+Redmond Urban Growth
+Area ( RUGA) and text
+amendment
+ComprehensivePlanMap
+Amendment Designation for
+Certain Property Adding
+2021- 008 06- 30- 21/ 09- 28- 21 23. 01. 01 Redmond Urban Growth
+Area ( RUGA) and Fixing
+Scrivener' s Error in Ord.
+2020- 022
+Comprehensive Plan Map
+Amendment, changing
+2022- 001 04- 13- 22/ 07- 12- 22 23. 01. 010
+designation of certain
+property from Agriculture
+AG) to Rural Residential
+Exception Area ( RREA)
+ComprehensivePlanMap
+Amendment, changing
+2022- 003 04- 20- 22/ 07- 19- 22 23. 01. 010
+designation of certain
+property from Agriculture
+AG) to Rural Residential
+Exception Area ( RREA)
+Comprehensive Plan Map
+Amendment, changing
+designation of certain
+2022- 006 06- 22- 22/ 08- 19- 22 23. 01. 010 property from Rural
+Residential Exception Area
+RREA) to Bend Urban
+Growth Area
+Comprehensive Plan Map
+2022- 010 07- 27- 22/ 10- 25- 22 23. 01. 010
+Designation for Certain
+Property from Agriculture
+AG) To Rural Industrial ( RI)
+Housekeeping Amendments
+correcting the location for the
+Lynch and Roberts Store
+2023- 001
+XX- XX- 23/ XX- 23. 01. 010, 5. 9
+XX- 23 Advertisement, a designated
+Cultural and Historic
+Resource
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTALSECTIONS SECTION 5. 12 LEGISLATIVE HISTORY
+EXHIBIT U, ORD. 2023- 001
+FINDINGS
+HOUSEKEEPING TEXT AMENDMENTS
+I. APPLICABLE CRITERIA:
+Title 22, Deschutes County Development Procedures Ordinance
+II. BACKGROUND:
+The Planning Division regularly amends Deschutes County Code (DCC) and the Comprehensive Plan
+to correct minor errors identified by staff, other County departments, and the public. This process,
+commonly referred to as housekeeping, also incorporates updates from rulemaking at the state
+level through amendments to Oregon Revised Statutes ( ORS) and Oregon Administrative Rules
+OAR), and allows for less substantive code changes to continue efficient County operations.
+The last time Deschutes County adopted housekeeping amendments occurred in December 2021
+and January 2022.'
+111. BASIC FINDINGS:
+The Planning Division determined minor changes were necessary to clarify existing standards and
+procedural requirements, include less substantive code alterations, incorporate changes to state
+and federal law, and correct errors found in various sections of the Deschutes County Code ( DCC).
+Staff initiated the proposed changes and notified the Oregon Department of Land Conservation and
+Development on December 2, 2022 ( File no. 247- 22- 000922- TA). As demonstrated in the findings
+below, the amendments remain consistent with Deschutes County Code, the Deschutes County
+Comprehensive Plan, and the Statewide Planning Goals.
+IV. FINDINGS:
+CHAPTER 22. 12, LEGISLATIVE PROCEDURES
+Section 22. 12. 010.
+Hearing Required
+1 Ordinances 2021- 013 and 2021- 014.
+117 NW Lafayette Avenue, Bend, Oregon 97703 1 P.O. Box 6005, Bend, OR 97708- 6005
+12,( 541) 388- 6575 @cdd@deschutes. org ® www. deschutes. org/ cd
+No legislative change shall be adopted without review by the Planning Commission and a
+public hearing before the Board of County Commissioners. Public hearings before the
+Planning Commission shall be set at the discretion of the Planning Director, unless
+otherwise required by state law.
+FINDING: This criterion will be met because a public hearing was held before the Deschutes
+County PlanningCommission (Commission) on January26, 2023 and a public hearingwas held
+before the Board of County Commissioners ( Board) on February 15, 2023.
+Section 22. 12. 020, Notice
+Notice
+A. Published Notice
+1. Notice of a legislative change shall be published in a newspaper of general
+circulation in the county at least 10 days prior to each public hearing.
+2. The notice shall state the time and place of the hearing and contain a
+statement describing the general subject matter of the ordinance under
+consideration.
+FINDING: This criterion is met as notice was published in TheBulletin newspaper on January 8, 2023
+for the Commission public hearing and on February 4, 2023 for the Board public hearing.
+B. Posted Notice. Notice shall be posted at the discretion of the Planning Director and
+where necessary to comply with ORS203.045.
+FINDING: Posted notice was determined by the Planning Director not to be necessary.
+C. Individual notice. Individual notice to property owners, as defined in DCC
+22. 08. 010( A), shall be provided at the discretion of the Planning Director, except as
+required by ORS215. 503.
+FINDING: The proposed amendments are legislative and do not apply to any specific property.
+Therefore, individual notice is not required.
+D. Media notice. Copies of the notice of hearing shall be transmitted to other
+newspapers published in Deschutes County.
+FINDING: Notice was provided to the County public information official for wider media
+distribution. This criterion has been met.
+Section 22. 12. 030 Initiation of Legislative Changes.
+A legislative change may be initiated by application of individuals upon payment of
+required fees as well as by the Board of County Commissioners.
+EXHIBIT V - Ordinance No. 2023- 001 Page 2 of 9
+FINDING: The application was initiated by the Deschutes County Planning Division at the direction
+of the Board and has received a fee ,.,vaiver. This criterion has been rnet.
+Section 22. 12.040. Hearings Body
+A. Thefollowing shall serve as hearings or review body for legislative changes in this
+order.
+1. The Planning Commission.
+2. The Board of County Commissioners.
+B. Any legislative change initiated by the Board of County Commissioners shall be
+reviewed by the Planning Commission prior to action being taken by the Board of
+Commissioners.
+FINDING: This criterion is met as the Commission held a public hearing on January 26, 2023. The
+Board held a public hearing on February 15, 2023.
+Section 22. 12. 050 Final Decision
+All legislative changes shall be adopted by ordinance
+FINDING: The proposed legislative changes included in file no. 247- 22- 000922- TA will be
+implemented by ordinances upon approval and adoption by the Board.
+V. PROPOSED TEXT AMENDMENTS:
+The proposed text amendments are detailed in the referencedordinance with additional text
+identified by underline and deleted text by strikethro gh. Below are summary explanations of the
+proposed changes.
+Title 17, Subdivisions:
+Chapter 17. 24. FINAL PLAT
+Section 17. 24. 060. Required Information - ( See Exhibit A)
+DCC 17.24.060( R)(3) states a signature line for the " County Environmental Health Director, unless
+the property isto beconnectedto a municipalsewersystem" signifyingtheir approvalmust be
+included on all subdivision or partition plats. However, in practice the actual review standard for
+final plats related to wastewater management is reviewed by the supervisor for the Deschutes
+County Environmental Soils Division. The proposed changes reflect the contemporary review
+and signature standards.
+EXHIBIT V - Ordinance No. 2023- 001 Page 3 of 9
+Title 18, County Zoning:
+Chapter 18. 04. TITLE, PURPOSE, AND DEFINITION - ( See Exhibit B)
+Section 18. 04. 030. Definitions
+A previous set of housekeepingamendments' altered severalterms related to solid waste
+disposal/ recovery including " land disposal site," " disposal site," and " solid waste," among others.
+These alterations were undertaken to align County definitions with ORS459 which sets specific
+definitions for " disposal site" and " land disposal site." To maintain consistency throughout the
+Deschutes County Code, several terms related to solid waste disposal/ recovery are being
+amended to align with the ORS definitions of " disposal site" and " land disposal site." Amended
+terms include: " Community service use," " Public Use," and " Utility facility." In each of these cases,
+references to "landfills" or "sanitary landfills" are being replaced with the ORSderived term " land
+disposal sites."
+Chapter 18. 16. EXCLUSIVE FARM USE ZONES - ( See Exhibit C)
+Section 18. 16. 070. Yards
+A previousset of housekeepingamendments' appearsto haveerroneouslyremovedsection
+18.16.070(D), which contains language regarding setbacks from the north lot line as identified in
+section 18.116. 180, otherwise known as solar setbacks. The drafter of the previous amendments
+appears to have added what would have been the new section 18. 16. 070( E), while
+unintentionally bracketing section 18.16.070(D) for deletion as is done in the rest of the
+ordinance. Staff notes that an internal copy of the County Code usedfor administrative purposes
+contains the following note:
+Ord. 94- 008 § 16, 1994 NOTE. This ordinance inadvertently dropped the previous Section D in
+adding a new section E.
+Staff understands the removal of the solar setback standards for DCC 18. 16. 070 was not the
+legislative intent of the Board of County Commissioners and further notes that the current
+pattern of practice for development within the Exclusive Farm Use Zone continues to
+acknowledge solar setback standards. The current amendment clarifies the legislative history
+for this chapter and continues to acknowledge that within the Exclusive Farm Use Zone setbacks
+from the north lot line shall meet the solar setback requirements in Section 18. 116. 180.
+z Ordinance 2020- 007
+3 Ordinance 94- 008
+EXHIBIT V - Ordinance No. 2023- 001 Page 4 of 9
+Chapter 18. 32. MULTIPLE USE , AGRICUiL.` rURAL ZONE; MUA -( See Exhibit A)
+Section 18. 32. 030. Conditional Uses Permitted
+DCC18.32.030(Q) references "Landfills when a written tentative approval by the Department of
+Environmental Quality ( DEQ) of the site is submitted with the conditional use application." To
+align with the amended definitions in DCC 18.04.030 and general conformance with the
+standards of ORS459, this section is being altered to state "A disposal site which includes a land
+disposal site for which the Department of Environmental Quality has granted a permit under
+ORS 459. 245, together with equipment, facilities or buildings necessary for its operation."
+Chapter 18. 36. FOREST USE ZONE; F- 1 -( See Exhibit E)
+Section 18. 36. 020. Uses Permitted Outright
+DCC 18. 36. 020( C) references " Physical alterations to the land auxiliary to forest practices
+including, but not limitedto, those madefor purposesof exploration, mining, commercialgravel
+extraction and processing, landfills, dams, reservoirs, road construction or recreational facilities,
+subject to the Forest Practices Act ( ORS Chapter 527) and Goal 4). Gravel extraction and
+processingnot coveredby DCC18.36.020isgovernedby DCC18.52." Toalignwith the amended
+definitions in DCC 18.04,030 and general conformance with the standards of ORS459, the
+reference to "landfills" is being replaced by a reference to "land disposal sites."
+Chapter 18. 40. FOREST USE ZONE; F- 2 -( See Exhibit F)
+Section 18. 40. 020. Uses Permitted Outright
+DCC 18. 40. 020( C) references " Physical alterations to the land auxiliary to forest practices
+including, but not limitedto, thosemadefor purposesof exploration, mining, commercialgravel
+extraction and processing, landfills, dams, reservoirs, road construction or recreational facilities,
+subject to the Forest Practices Act ( ORS Chapter 527) and Goal 4). Gravel extraction and
+processingnot coveredby DCC18.40.020isgovernedby DCC18.52." Toalignwith the amended
+definitions in DCC 18.04.030 and general conformance with the standards of ORS459, the
+reference to " landfills" is being replaced by a reference to "land disposal sites."
+Chapter 18. 48. OPEN SPACE AND CONSERVATION ZONE; OS AND C -( See Exhibit G)
+Section 18. 48. 030. Conditional Uses Permitted
+DCC 18. 48. 030( C) references " Utility facility except landfills." To align with the amended
+definitions in DCC 18.04.030 and general conformance with the standards of ORS459, the
+reference to "landfills" is being replaced by a reference to "land disposal sites."
+EXHIBIT V - Ordinance No. 2023- 001 Page 5 of 9
+Chapter 18. 60. RURAL RESIDENTIAL ZONE; RR- 10 - ( See Exhibit,)
+Section 18. 60. 030. Conditional Uses Permitted
+DCC 18.60.030( H) references " Landfills when a written tentative approval by the Department of
+Environmental Quality ( DEQ) of the site is submitted with the conditional use application." To
+align with the amended definitions in DCC 18.04.030 and general conformance with the
+standards of ORS459, this section is being altered to state " A disposal site which includes a land
+disposal site for which the Department of Environmental Quality has granted a permit under
+ORS 459. 245, together with equipment, facilities or buildings necessary for its operation."
+Chapter 18. 61. URBAN UNICORPORATED COMMUNITY ZONE; LA PINE - ( See Exhibit 1)
+Section 18.61. 030. La Pine Planning Area
+Section 18.61.040. Wickiup Junction Planning Area
+DCC 18. 61. 030( A)( 2)( c), 18. 61. 030( B)( 3)( h), and 18.61.040(C)(10) all contain references to " Utility
+facility, except landfill." To align with the amended definitions in DCC 18.04. 030 and general
+conformance with the standards of ORS 459, the references to " landfill" are being replaced by
+references to " land disposal sites."
+Chapter 18. 65. RURAL SERVICE CENTER; UNINCOPORATED COMMUNITY ZONE - ( See Exhibitj)
+Section 18. 65. 023. RSC; Open Space District
+DCC i 8. 65. 023( B)( 4) references " Utility facility except landfills." To align with the amended
+definitions in DCC 18.04.030 and general conformance with the standards of ORS 459, the
+reference to " landfills" is being replaced by a reference to " land disposal sites."
+Chapter 18. 76. AIRPORT DEVELOPMENT ZONE; A- D - ( See Exhibit K)
+Section 18. 76. 040. Conditional Uses
+DCC 18.76.040( B) references " Utility facility necessary for public service except landfills." To
+align with the amended definitions in DCC 18.04.030 and general conformance with the
+standards of ORS459, the reference to " landfills" is being replaced by a reference to " land
+disposal sites."
+Chapter 18. 80. AIRPORT SAFETY COMBINING ZONE; A- S - ( See Exhibit L)
+Section 18. 80. 026. Notice Of Land Use And Permit Applications
+DCC 18. 80. 026( B)( 4)( c) and 18. 80 Table 1 - Land UseCompatibility contain references to "sanitary
+landfills." To align with the amended definitions in DCC 18.04.030 and general conformance with
+EXHIBIT V - Ordinance No. 2023- 001 Page 6 of 9
+the standards of ORS459, the references to "sanitary landfills" is being replaced by references
+to " land disposal sites."
+Chapter 18. 96. FLOOD PLAIN ZONE; FP - ( See Exhibit M)
+Section 18. 96. 040. Conditional Uses Permitted
+DCC 18.96.040(A) references " A roadway, bridge or utility structure, except a landfill, that will not
+impede the waters of a base flood subject to DCC 18. 128." To align with the amended definitions
+in DCC 18.04.030 and general conformance with the standards of ORS459, the reference to
+landfill" is being replaced by a reference to "land disposal site."
+Chapter 18. 100. RURAL INDUSTRIAL ZONE; R- I - ( See Exhibit N)
+Section 18. 100. 020. Conditional Uses
+DCC 18. 100.020( L) references " Public Landfill Disposal Site Transfer Station, including recycling
+and other related activities." To align with the amended definitions in DCC18.04.030 and general
+conformance with the standards of ORS 459, the reference to " Landfill' is being replaced by a
+reference to " Land Disposal Site."
+Chapter 18. 108. URBAN UNINCOPORATED COMMUNITY ZONE; SUNRIVER - ( See Exhibit 0)
+Section 18. 108. 160. Airport District; A District
+Section 18. 108. 180. Forest District; F District
+DCC 18. 108. 160( B)( 2) and 18. 108. 180( A)( 3) reference " landfills." To align with the amended
+definitions in DCC 18.04.030 and general conformance with the standards of ORS459, the
+reference to " landfills" is being replaced by references to " land disposal sites."
+Chapter 18. 116. SUPPLEMENTARY PROVISIONS - ( See Exhibit P)
+Section 18. 116.080. Manufactured Home Or RV As A Temporary Residence On An
+Individual Lot
+Section 18.116.090. A Manufactured Home Or Recreational Vehicle As A Temporary
+Residence For Medical Condition
+Section 18.116.095. Recreational Vehicle As A Temporary Residence On An Individual Lot
+In conformance with House Bill 2809 and ORS 197.493, the amendment notes that a state agency
+or local government is prohibited from disallowing the use of a recreational vehicle as a residential
+dwelling on a lot with a manufactured or single-family dwelling damaged by natural disasters until
+no later than the date the dwelling has received an occupancy permit, the local government
+EXHIBIT V - Ordinance No. 2023- 001 Page 7 of 9
+determines the owner is unreasonably delaying repairs, or 24 months after the dwelling was
+deemed uninhabitable. The proposed amendments add a new subsection, DCC 18.116.095(C),
+outlining the standards of House Bill 2809 and ORS 197.493. Additional edits remove inconsistent
+or conflicting language from other sections of DCC18.116 dealing with recreational vehicles being
+utilized for residential dwellings.
+Chapter 18. 124. SITE PLAN REVIEW - ( See Exhibit Q)
+Section 18. 124. 030. Approval Required
+DCC 18. 124. 030( B)( 5) references " landfills." To align with the amended definitions in DCC 18. 04. 030
+and general conformance with the standards of ORS 459, the reference to " landfills" is being
+replaced by a reference to " land disposal sites."
+Title 22 DESCHUTES COUNTY DEVELOPMENT PROCEDURES ORDINANCE:
+Chapter 22. 04. INTRODUCTION AND DEFINITIONS - ( See Exhibit R)
+Section 22.04.040. Verifying Lots Of Record
+In conformance with House Bill 2884 and ORS 92. 176, the amendment notes that a unit of land
+becomes a lawfully established parcel when the county or city validates the unit of land, and the
+owner records the partition plat within 365 days. The amendment alters DCC22.04.040(B)(2)(b) to
+extend the time for a property owner to record the partition plat from 90 to 365 days and adds a
+new subsection, DCC 22.04.040( B)(2)(f), which allows all existing validated permits to become
+lawfully established parcels if recorded by December 31, 2022.
+DESCHUTES COUNTY COMPREHENSIVE PLAN:
+Chapter 5. SUPPLEMENTAL SECTIONS - ( See Exhibit S)
+Section 5.9 Goal 5 Inventory - Cultural and Historic Resources
+One of the identified Cultural and Historic Resource sites in the Deschutes County Goal 5
+inventory, the Lynch and Roberts Store Advertisement, is currently identified as being located on
+the incorrect taxlot. The proposed amendments alter the designated Goal 5 resource list to
+identify the correct site for the Lynch and Roberts Store Advertisement. The correct site for the
+Lynch and Roberts Store Advertisement is Deschutes County Map 14-12-00, Taxlot 1505.
+EXHIBIT V - Ordinance No. 2023- 001 Page 8 of 9
+VI. CONCLUSION:
+Based on the information provided herein, the staff recommends the Board of County
+Commissioners approve the proposed text amendments that make minor changes necessary to
+clarify existing standards and procedural requirements, incorporate changes to state and federal
+law, and to correct errors in the Deschutes County Code.
+EXHIBIT V - Ordinance No. 2023- 001 Page 9 of 9
+E S
+CO
+G2,
+A
+0 <
+MEETING DATE: March 1, 2023
+SUBJECT: Second reading of Ordinance No. 2023-001, 2023 Housekeeping Amendments to
+the Comprehensive Plan
+MOTIONS:
+1. Move approval of second reading of Ordinance No. 2023-001 by title only
+2. Move adoption of Ordinance No. 2023- 001.
+BACKGROUND AND POLICY IMPLICATIONS:
+The Planning Division regularly amends Deschutes County Code ( DCC) and the
+Comprehensive Plan to correct minor errors identified by staff, other County departments,
+and the public. This process, commonly referred to as "housekeeping;" also incorporates
+updates from rulemaking at the state level through amendments to Oregon Revised
+Statutes ( ORS) and Oregon Administrative Rules ( OAR), and allows for less substantive code
+changes to continue efficient County operations.
+The Board of County Commissioners (Board) conducted a public hearing on February 15,
+2023 to consider staff -initiated housekeeping amendments ( file no. 247- 22-000922- TA).
+Following the conclusion of the hearing, the Board voted in favor of approving the
+proposed amendments as drafted and conducted first reading of Ordinance 2023-001.
+Second reading of Ordinance 2023-001 is scheduled for Wednesday, March 1, 2023. The
+proposed housekeeping amendments will take effect on May 30, 2023, if approved on
+March 1, 2023.
+BUDGET IMPACTS:
+None
+ATTENDANCE:
+Kyle Collins, Associate Planner
+r
+IIT,14 Alus] I B1lLTil
+TO: Deschutes County Board of County Commissioners
+FROM: Kyle Collins, Associate Planner
+DATE: February 22, 2023
+SUBJECT: 2023 Housekeeping Amendments - Second Reading
+The Board of County Commissioners (Board) will hold second reading on March 1, 2023 at 9:00 A.M.
+at the Deschutes Services Center, 1300 Wall Street, Barnes and Sawyer rooms for housekeeping
+amendments ( file no. 247-22-000922-TA). Attached to this memorandum are the proposed text
+amendments and a staff report summarizing the changes. Within the proposed amendments,
+added language is shown underlined and deleted shown as strikethro gh.
+I. BACKGROUND
+The Planning Division regularly amends the Deschutes County Code (DCC) and the Comprehensive
+Plan to correct minor errors identified by staff, other County departments, and the public. This
+process, commonly referred to as housekeeping, also incorporates updates from rulemaking at the
+state level through amendments to Oregon Revised Statutes ( ORS) and Oregon Administrative Rules
+OAR). The last time Deschutes County adopted housekeeping amendments occurred in December
+2021 and January 2022.'
+The record is available for inspection at the Planning Division and at the following website:
+https:// www. deschutes. org/ cd/ page/ 2023- housekeeping- text- amendments.
+11. OVERVIEW OF AMENDMENTS
+The proposed text amendments will affect the following chapters of the Deschutes County Code
+and the Comprehensive Plan:
+Title 17, Subdivisions
+Chapter 17. 24. FINAL PLAT
+Ordinances 2021- 013 and 2021- 014.
+117 NW Lafayette Avenue, Bend, Oregon 97703 1 P.O. Box 6005, Bend, OR 97708- 6005
+Q( 541) 388- 6575 @cdd@deschutes. org @www. deschutes. org/ cd
+Title 18, County Zoning
+Chapter 18. 04. TITLE, PURPOSE AND DEFINITIONS
+Chapter 18. 16. EXCLUSIVE FARM USE ZONES
+Chapter 18. 32. MULTIPLE USE AGRICULTURAL ZONE; MUA
+Chapter 18. 36. FOREST USE ZONE; F- 1
+Chapter 18. 40. FOREST USE ZONE; F- 2
+Chapter 18. 48. OPEN SPACE AND CONSERVATION ZONE; OS AND C
+Chapter 18. 60. RURAL RESIDENTIAL ZONE; RR- 10
+Chapter 18. 61. URBAN UNICORPORATED COMMUNITY ZONE; LA PINE
+Chapter 18. 65. RURAL SERVICE CENTER; UNINCOPORATED COMMUNITY ZONE
+Chapter 18, 76. AIRPORT DEVELOPMENT ZONE; A- D
+Chapter 18. 80. AIRPORT SAFETY COMBINING ZONE; A- S
+Chapter 18. 96. FLOOD PLAIN ZONE; FP
+Chapter 18. 100. RURAL INDUSTRIAL ZONE; R- 1
+Chapter 18. 108. URBAN UNINCORPORATED COMMUNITY ZONE; SUNRIVER
+Chapter 18. 116. SUPPLEMENTARY PROVISIONS
+Chapter 18. 124. SITE PLAN REVIEW
+Title 22, Deschutes County Development Procedures Ordinances
+Chapter 22. 04. INTRODUCTION AND DEFINITIONS
+Title 23, Deschutes County Comprehensive Plan
+Chapter 23. 01. COMPREHENSIVE PLAN
+Deschutes County Comprehensive Plan
+Chapter 5. SUPPLEMENTAL SECTIONS
+III. PLANNING COMMISSION REVIEW
+The Planning Commission held a work session on this item on January 12, 2023, followed by a public
+hearingon January26, 20232. No written commentswere receivedand no partiestestified during
+the hearing. The Planning Commission closed the oral and written portions of the hearing on
+January 26, 2023 and voted to unanimously to recommend approval of the proposed amendments
+during the same meeting.
+IV. BOARD REVIEW
+TheBoardof CountyCommissioners (Board) heldapublichearingon February15, 20233concerning
+the proposed amendments to the Deschutes County Code and the Deschutes County
+Comprehensive Plan. The proposed amendments are described in Ordinance 2023- 001.
+2 See Planning Commission January 26, 2023 Agenda for more information: https:// www. deschutes. org/ bc-
+pc/ page/ planning- commission- 32
+3 See Board February 15, 2023 Agenda for more information: https:// www. deschutes. org/ bcc/ page/ board- county-
+commissioners- meeting- 80
+Followingthe conclusion of the hearing, the Board voted in favor of approving the proposed
+amendments as drafted and conducted first reading of Ordinance 2023-001. The amendments will
+take effect on May 30, 2023, if approved on March 1, 2023.
+Attachment
+Ordinance 2023- 001 with Exhibits

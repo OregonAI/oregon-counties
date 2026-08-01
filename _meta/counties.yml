@@ -1,0 +1,387 @@
+# Canonical registry of Oregon's 36 counties. This is the ROSTER and the slug validator,
+# not a build list — every county is present, `built:` says which have documents yet.
+# `plugins.issuing_body_registry_key` in corpus.yml must stay `counties`.
+#
+# WHY THESE FIELDS. Three of them are read by src/check_guardrails.py, because they are the
+# facts that make identical-looking county documents mean different things:
+#
+#   governing_body  6 of 36 counties are governed by a COUNTY COURT (a county judge sitting
+#                   with two commissioners), not a Board of Commissioners. Their instruments
+#                   are court orders and journal entries. Naming a Board in those counties is
+#                   simply wrong, and CI rejects it.
+#   home_rule       8 are home-rule charter counties, 28 operate under general law. An
+#                   ordinance does not carry the same authority in both, which is why no
+#                   document here may claim county_charter authority in a general-law county.
+#   population      Build order. Census POPESTIMATE2024, carried here rather than recalled,
+#                   because it is the denominator of every coverage claim this corpus makes.
+#
+# Ordered by population descending, which is also the build order.
+#
+# Sources: US Census co-est2024-alldata.csv (population, FIPS); the 36-county source survey
+# at corpus-seeds/oregon-counties.survey.yml (governing_body, home_rule, domains), which
+# verified every URL by fetching it.
+note: 'Oregon counties. governing_body and home_rule are load-bearing for CI guardrails, not
+  decoration — see src/check_guardrails.py.'
+source_url: https://oregoncounties.org/counties/
+retrieved: '2026-07-31'
+counties:
+- slug: multnomah-county
+  name: Multnomah County
+  short_name: Multnomah
+  fips: '41051'
+  population: 795897
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: charter
+  source_url: https://www.multco.us
+  built: true
+- slug: washington-county
+  name: Washington County
+  short_name: Washington
+  fips: '41067'
+  population: 611272
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: charter
+  source_url: https://www.washingtoncountyor.gov
+  built: true
+- slug: clackamas-county
+  name: Clackamas County
+  short_name: Clackamas
+  fips: '41005'
+  population: 425857
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.clackamas.us
+  built: true
+- slug: lane-county
+  name: Lane County
+  short_name: Lane
+  fips: '41039'
+  population: 382396
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: charter
+  source_url: https://lanecountyor.gov
+  built: true
+- slug: marion-county
+  name: Marion County
+  short_name: Marion
+  fips: '41047'
+  population: 352867
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.co.marion.or.us
+  built: true
+- slug: jackson-county
+  name: Jackson County
+  short_name: Jackson
+  fips: '41029'
+  population: 221331
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: charter
+  source_url: https://jacksoncountyor.gov
+  built: true
+- slug: deschutes-county
+  name: Deschutes County
+  short_name: Deschutes
+  fips: '41017'
+  population: 211535
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.deschutescounty.gov
+  built: true
+- slug: linn-county
+  name: Linn County
+  short_name: Linn
+  fips: '41043'
+  population: 132474
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.linncountyor.gov
+  built: false
+- slug: douglas-county
+  name: Douglas County
+  short_name: Douglas
+  fips: '41019'
+  population: 112255
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.douglascountyor.gov
+  built: false
+- slug: yamhill-county
+  name: Yamhill County
+  short_name: Yamhill
+  fips: '41071'
+  population: 110886
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.yamhillcounty.gov
+  built: false
+- slug: benton-county
+  name: Benton County
+  short_name: Benton
+  fips: '41003'
+  population: 98899
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: charter
+  source_url: https://www.bentoncountyor.gov
+  built: false
+- slug: polk-county
+  name: Polk County
+  short_name: Polk
+  fips: '41053'
+  population: 90549
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.polkcountyor.gov
+  built: false
+- slug: josephine-county
+  name: Josephine County
+  short_name: Josephine
+  fips: '41033'
+  population: 88276
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: charter
+  source_url: https://www.josephinecounty.gov
+  built: false
+- slug: umatilla-county
+  name: Umatilla County
+  short_name: Umatilla
+  fips: '41059'
+  population: 80491
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://umatillacounty.gov
+  built: false
+- slug: klamath-county
+  name: Klamath County
+  short_name: Klamath
+  fips: '41035'
+  population: 70438
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.klamathcounty.org
+  built: false
+- slug: coos-county
+  name: Coos County
+  short_name: Coos
+  fips: '41011'
+  population: 64326
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://co.coos.or.us
+  built: false
+- slug: columbia-county
+  name: Columbia County
+  short_name: Columbia
+  fips: '41009'
+  population: 54063
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.columbiacountyor.gov
+  built: false
+- slug: lincoln-county
+  name: Lincoln County
+  short_name: Lincoln
+  fips: '41041'
+  population: 51212
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.co.lincoln.or.us
+  built: false
+- slug: clatsop-county
+  name: Clatsop County
+  short_name: Clatsop
+  fips: '41007'
+  population: 41043
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: charter
+  source_url: https://clatsopcounty.gov
+  built: false
+- slug: malheur-county
+  name: Malheur County
+  short_name: Malheur
+  fips: '41045'
+  population: 32315
+  population_source: US Census POPESTIMATE2024
+  governing_body: county-court
+  home_rule: general-law
+  source_url: https://www.malheurco.org
+  built: false
+- slug: crook-county
+  name: Crook County
+  short_name: Crook
+  fips: '41013'
+  population: 27336
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://crookcountyor.gov
+  built: false
+- slug: tillamook-county
+  name: Tillamook County
+  short_name: Tillamook
+  fips: '41057'
+  population: 27264
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.tillamookcounty.gov
+  built: false
+- slug: wasco-county
+  name: Wasco County
+  short_name: Wasco
+  fips: '41065'
+  population: 26507
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.wascocountyor.gov
+  built: false
+- slug: union-county
+  name: Union County
+  short_name: Union
+  fips: '41061'
+  population: 26058
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://unioncountyor.gov
+  built: false
+- slug: jefferson-county
+  name: Jefferson County
+  short_name: Jefferson
+  fips: '41031'
+  population: 25536
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.jeffersoncountyor.gov
+  built: false
+- slug: hood-river-county
+  name: Hood River County
+  short_name: Hood River
+  fips: '41027'
+  population: 23764
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: charter
+  source_url: https://www.hoodrivercounty.gov
+  built: false
+- slug: curry-county
+  name: Curry County
+  short_name: Curry
+  fips: '41015'
+  population: 22774
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.currycountyor.gov
+  built: false
+- slug: baker-county
+  name: Baker County
+  short_name: Baker
+  fips: '41001'
+  population: 16750
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.bakercountyor.gov
+  built: false
+- slug: morrow-county
+  name: Morrow County
+  short_name: Morrow
+  fips: '41049'
+  population: 12360
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.morrowcountyor.gov
+  built: false
+- slug: lake-county
+  name: Lake County
+  short_name: Lake
+  fips: '41037'
+  population: 8194
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.lakecountyor.org
+  built: false
+- slug: wallowa-county
+  name: Wallowa County
+  short_name: Wallowa
+  fips: '41063'
+  population: 7522
+  population_source: US Census POPESTIMATE2024
+  governing_body: board
+  home_rule: general-law
+  source_url: https://www.co.wallowa.or.us
+  built: false
+- slug: harney-county
+  name: Harney County
+  short_name: Harney
+  fips: '41025'
+  population: 7402
+  population_source: US Census POPESTIMATE2024
+  governing_body: county-court
+  home_rule: general-law
+  source_url: https://harneycountyor.gov
+  built: false
+- slug: grant-county
+  name: Grant County
+  short_name: Grant
+  fips: '41023'
+  population: 7093
+  population_source: US Census POPESTIMATE2024
+  governing_body: county-court
+  home_rule: general-law
+  source_url: https://grantcountyoregon.net
+  built: false
+- slug: sherman-county
+  name: Sherman County
+  short_name: Sherman
+  fips: '41055'
+  population: 2002
+  population_source: US Census POPESTIMATE2024
+  governing_body: county-court
+  home_rule: general-law
+  source_url: https://www.shermancountyor.gov
+  built: false
+- slug: gilliam-county
+  name: Gilliam County
+  short_name: Gilliam
+  fips: '41021'
+  population: 1971
+  population_source: US Census POPESTIMATE2024
+  governing_body: county-court
+  home_rule: general-law
+  source_url: https://www.gilliamcountyor.gov
+  built: false
+- slug: wheeler-county
+  name: Wheeler County
+  short_name: Wheeler
+  fips: '41069'
+  population: 1456
+  population_source: US Census POPESTIMATE2024
+  governing_body: county-court
+  home_rule: general-law
+  source_url: https://www.wheelercountyoregon.com
+  built: false

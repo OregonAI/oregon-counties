@@ -1,0 +1,719 @@
+group: multnomah
+title: Multnomah County sources
+county: multnomah-county
+crawl:
+  decision: proceed
+  checked: '2026-07-31'
+  basis: Stock Drupal robots.txt naming no AI agent and disallowing only framework paths (/core/, /profiles/,
+    /README.md). Nothing blocks /file/, /board/ or /info/, which is where every document here lives. No
+    determination to make.
+  hosts:
+  - host: multco.us
+    robots_url: https://multco.us/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: 'Disallow: /core/ /profiles/ /README.md only. Sitemap index at /sitemap.xml, 5 sub-sitemaps.'
+  - host: www.multco.us
+    robots_url: https://www.multco.us/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: Same site; www redirects to the bare host, which is canonical.
+last_checked: '2026-07-31'
+upstream_signal: No feed. The code index page is edited when a chapter is amended, and the chapter slugs
+  are stable, so re-fetching the index and diffing the link set detects a new or renamed chapter; content
+  drift is caught by re-hashing each PDF.
+sources:
+- id: multnomah-code-chapter-1-general-provisions
+  url: https://multco.us/file/chapter_1:_general_provisions/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 1: General Provisions'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-3-board-of-commissioners
+  url: https://multco.us/file/chapter_3:_board_of_commissioners/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 3: Board Of Commissioners'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-5-elections
+  url: https://multco.us/file/chapter_5:_elections/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 5: Elections'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-7-county-management
+  url: https://multco.us/file/chapter_7:_county_management/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 7: County Management'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-8-county-assets
+  url: https://multco.us/file/chapter_8:_county_assets/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 8: County Assets'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-9-county-employment
+  url: https://multco.us/file/chapter_9:_county_employment/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 9: County Employment'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-11-revenue-and-taxation
+  url: https://multco.us/file/chapter_11:_revenue_and_taxation/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 11: Revenue And Taxation'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-12-business-income-tax
+  url: https://multco.us/file/chapter_12:_business_income_tax/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 12: Business Income Tax'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-13-animal-services
+  url: https://multco.us/file/chapter_13:_animal_services/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 13: Animal Services'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-15-sheriff
+  url: https://multco.us/file/chapter_15:_sheriff/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 15: Sheriff'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-17-community-justice
+  url: https://multco.us/file/chapter_17:_community_justice/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 17: Community Justice'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-19-library
+  url: https://multco.us/file/chapter_19:_library/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 19: Library'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-21-health
+  url: https://multco.us/file/chapter_21:_health/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 21: Health'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-22-homeless-services-department
+  url: https://multco.us/file/chapter_22:_homeless_services_department/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 22: Homeless Services Department'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-23-county-human-services
+  url: https://multco.us/file/chapter_23:_county_human_services/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 23: County Human Services'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-25-non-departmental
+  url: https://multco.us/file/chapter_25:_non-departmental/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 25: Non-Departmental'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-27-community-services
+  url: https://multco.us/file/chapter_27:_community_services/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 27: Community Services'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-29-building-regulations
+  url: https://multco.us/file/chapter_29:_building_regulations/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 29: Building Regulations'
+  last_checked: '2026-07-31'
+- id: multnomah-code-chapter-29a-references-to-ors-1990-code-ordinances
+  url: https://multco.us/file/chapter_29a:_references_to_ors,_1990_code_&_ordinances/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: 'Chapter 29A: References To Ors, 1990 Code & Ordinances'
+  last_checked: '2026-07-31'
+- id: multnomah-code-home-rule-charter-2022
+  url: https://multco.us/file/home_rule_charter_2022/download
+  family: code
+  format: pdf
+  sha256: ''
+  title: Home Rule Charter 2022
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-multnomah-county-comprehensive-plan
+  url: https://multco.us/file/multnomah_county_comprehensive_plan/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Multnomah County Comprehensive Plan
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-cover-page-table-of-contents
+  url: https://multco.us/file/cover_page,_table_of_contents/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Cover Page, Table Of Contents
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-chapter-1-introduction-and-citizen-involvement
+  url: https://multco.us/file/chapter_1_-_introduction_and_citizen_involvement/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 1 - Introduction And Citizen Involvement
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-chapter-2-land-use
+  url: https://multco.us/file/chapter_2_-_land_use/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 2 - Land Use
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-chapter-3-farm-land
+  url: https://multco.us/file/chapter_3_-_farm_land/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 3 - Farm Land
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-chapter-4-forest-land
+  url: https://multco.us/file/chapter_4_-_forest_land/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 4 - Forest Land
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-chapter-5-natural-resources
+  url: https://multco.us/file/chapter_5_-_natural_resources/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 5 - Natural Resources
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-chapter-6-historic-and-cultural-resources
+  url: https://multco.us/file/chapter_6_-_historic_and_cultural_resources/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 6 - Historic And Cultural Resources
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-chapter-7-natural-hazards-0
+  url: https://multco.us/file/chapter_7_-_natural_hazards-0/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 7 - Natural Hazards-0
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-chapter-8-parks-and-recreation
+  url: https://multco.us/file/chapter_8_-_parks_and_recreation/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 8 - Parks And Recreation
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-chapter-9-rural-economy
+  url: https://multco.us/file/chapter_9_-_rural_economy/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 9 - Rural Economy
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-chapter-10-housing
+  url: https://multco.us/file/chapter_10_-_housing/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 10 - Housing
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-chapter-11-public-facilities
+  url: https://multco.us/file/chapter_11_-_public_facilities/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 11 - Public Facilities
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-chapter-12-transportation
+  url: https://multco.us/file/chapter_12_-_transportation/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Chapter 12 - Transportation
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-appendix-a-comprehensive-plan-and-zoning-map-cover-page
+  url: https://multco.us/file/appendix_a:_comprehensive_plan_and_zoning_map_-_cover_page/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: 'Appendix A: Comprehensive Plan And Zoning Map - Cover Page'
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-appendix-b-glossary-of-terms
+  url: https://multco.us/file/appendix_b:_glossary_of_terms/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: 'Appendix B: Glossary Of Terms'
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-appendix-1-simc-rap-scoping-report
+  url: https://multco.us/file/appendix_1_-_simc_rap_scoping_report/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Appendix 1 - Simc Rap Scoping Report
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-appendix-2-agriculture-agri-tourism
+  url: https://multco.us/file/appendix_2_-_agriculture_&_agri-tourism/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Appendix 2 - Agriculture & Agri-Tourism
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-appendix-3-marinas-floating-homes
+  url: https://multco.us/file/appendix_3_-_marinas_&_floating_homes/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Appendix 3 - Marinas & Floating Homes
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-appendix-4-natural-cultural-resources
+  url: https://multco.us/file/appendix_4_-_natural_&_cultural_resources/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Appendix 4 - Natural & Cultural Resources
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-appendix-5-public-semi-public-facilities
+  url: https://multco.us/file/appendix_5_-_public_&_semi-public_facilities/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Appendix 5 - Public & Semi-Public Facilities
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-appendix-6-transportation
+  url: https://multco.us/file/appendix_6_-_transportation/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Appendix 6 - Transportation
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-appendix-7-consistency-with-statewide-planning-goals
+  url: https://multco.us/file/appendix_7_-_consistency_with_statewide_planning_goals/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Appendix 7 - Consistency With Statewide Planning Goals
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-appendix-d-columbia-river-gorge-national-scenic-area-rural-a
+  url: https://multco.us/file/appendix_d:_columbia_river_gorge_national_scenic_area_rural_area_plan_policy_-_cover_page/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: 'Appendix D: Columbia River Gorge National Scenic Area Rural Area Plan Policy - Cover Page'
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-columbia-river-gorge-national-scenic-area-rural-area-plan-po
+  url: https://multco.us/file/columbia_river_gorge_national_scenic_area_rural_area_plan_policy/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Columbia River Gorge National Scenic Area Rural Area Plan Policy
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-appendix-e-multnomah-county-transportation-system-plan-cover
+  url: https://multco.us/file/appendix_e:_multnomah_county_transportation_system_plan_-_cover_page/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: 'Appendix E: Multnomah County Transportation System Plan - Cover Page'
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-multnomah-county-transportation-system-plan-0
+  url: https://multco.us/file/multnomah_county_transportation_system_plan-0/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Multnomah County Transportation System Plan-0
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-appendix-a-baseline-report-memo
+  url: https://multco.us/file/appendix_a_-_baseline_report_memo/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Appendix A - Baseline Report Memo
+  last_checked: '2026-07-31'
+- id: multnomah-land-use-appendix-b-existing-and-future-conditions-memo
+  url: https://multco.us/file/appendix_b_-_existing_and_future_conditions_memo/download
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Appendix B - Existing And Future Conditions Memo
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-1-10-general-provisions
+  url: https://multco.us/file/rule_1-10:_general_provisions/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 1-10: General Provisions'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-2-15-employee-status
+  url: https://multco.us/file/rule_2-15:_employee_status/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 2-15: Employee Status'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-2-20-merit-system-civil-service-council
+  url: https://multco.us/file/rule_2-20:_merit_system_civil_service_council/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 2-20: Merit System Civil Service Council'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-2-40-pay-administration
+  url: https://multco.us/file/rule_2-40:__pay_administration/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 2-40:  Pay Administration'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-2-45-sick-leave
+  url: https://multco.us/file/rule_2-45:_sick_leave/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 2-45: Sick Leave'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-2-50-leaves-military-and-others
+  url: https://multco.us/file/rule_2-50:_leaves_(military_and_others)/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 2-50: Leaves (Military And Others)'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-2-55-leave-donations
+  url: https://multco.us/file/rule_2-55:__leave_donations/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 2-55:  Leave Donations'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-2-57-paid-parental-leave
+  url: https://multco.us/file/rule_2-57:_paid_parental_leave/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 2-57: Paid Parental Leave'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-2-60-family-medical-leave-0
+  url: https://multco.us/file/rule_2-60:__family_&_medical_leave-0/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 2-60:  Family & Medical Leave-0'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-2-65-leave-and-reasonable-safety-accommodation-to-addre
+  url: https://multco.us/file/rule_2-65:_leave_and_reasonable_safety_accommodation_to_address_domestic_violence,_sexual_assault_or_stalking/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 2-65: Leave And Reasonable Safety Accommodation To Address Domestic Violence, Sexual Assault
+    Or Stalking'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-2-70-reasonable-accommodation
+  url: https://multco.us/file/rule_2-70:__reasonable_accommodation/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 2-70:  Reasonable Accommodation'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-2-75-rest-periods-for-expression-of-breast-milk
+  url: https://multco.us/file/rule_2-75:__rest_periods_for_expression_of_breast_milk/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 2-75:  Rest Periods For Expression Of Breast Milk'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-2-80-reduction-in-workforce
+  url: https://multco.us/file/rule_2-80:_reduction_in_workforce/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 2-80: Reduction In Workforce'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-10-employee-responsibilities
+  url: https://multco.us/file/rule_3-10:__employee_responsibilities/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-10:  Employee Responsibilities'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-12-timekeeping
+  url: https://multco.us/file/rule_3-12:_timekeeping/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-12: Timekeeping'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-15-inclement-weather-and-administrative-closures
+  url: https://multco.us/file/rule_3-15:_inclement_weather_and_administrative_closures/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-15: Inclement Weather And Administrative Closures'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-20-political-activity
+  url: https://multco.us/file/rule_3-20:__political_activity/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-20:  Political Activity'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-30-code-of-ethics
+  url: https://multco.us/file/rule_3-30:__code_of_ethics/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-30:  Code Of Ethics'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-32-reporting-improper-governmental-conduct
+  url: https://multco.us/file/rule_3-32:_reporting_improper_governmental_conduct/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-32: Reporting Improper Governmental Conduct'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-35-use-of-information-technology-1
+  url: https://multco.us/file/rule_3-35:__use_of_information_technology-1/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-35:  Use Of Information Technology-1'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-36-social-media
+  url: https://multco.us/file/rule_3-36:_social_media/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-36: Social Media'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-37-mobile-devices
+  url: https://multco.us/file/rule_3-37:__mobile_devices/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-37:  Mobile Devices'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-40-discrimination-and-harassment-free-workplace
+  url: https://multco.us/file/rule_3-40:__discrimination_and_harassment-free_workplace/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-40:  Discrimination And Harassment-Free Workplace'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-42-gender-identity-and-gender-expression-harassment-a
+  url: https://multco.us/file/rule_3-42:_gender_identity_and_gender_expression_harassment_and_discrimination-free_workplace/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-42: Gender Identity And Gender Expression Harassment And Discrimination-Free Workplace'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-45-violence-free-workplace
+  url: https://multco.us/file/rule_3-45:__violence-free_workplace/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-45:  Violence-Free Workplace'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-47-maintaining-a-professional-and-respectful-workplac
+  url: https://multco.us/file/rule_3-47:_maintaining_a_professional_and_respectful_workplace/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-47: Maintaining A Professional And Respectful Workplace'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-50-outside-employment
+  url: https://multco.us/file/rule_3-50:__outside_employment/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-50:  Outside Employment'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-55-use-and-misuse-of-leave-for-sick-purposes
+  url: https://multco.us/file/rule_3-55:_use_and_misuse_of_leave_for_sick_purposes/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-55: Use And Misuse Of Leave For Sick Purposes'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-60-discipline-and-dismissal
+  url: https://multco.us/file/rule_3-60:_discipline_and_dismissal/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-60: Discipline And Dismissal'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-65-telework
+  url: https://multco.us/file/rule_3-65:_telework/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-65: Telework'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-70-employee-recognition-awards
+  url: https://multco.us/file/rule_3-70:__employee_recognition_awards/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-70:  Employee Recognition Awards'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-75-employee-resource-groups
+  url: https://multco.us/file/rule_3-75:_employee_resource_groups/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-75: Employee Resource Groups'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-3-80-job-share
+  url: https://multco.us/file/rule_3-80:_job_share/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 3-80: Job Share'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-4-10-compensation
+  url: https://multco.us/file/rule_4-10:_compensation/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 4-10: Compensation'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-4-20-benefits
+  url: https://multco.us/file/rule_4-20:__benefits/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 4-20:  Benefits'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-4-30-leaves
+  url: https://multco.us/file/rule_4-30:_leaves/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 4-30: Leaves'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-4-40-worker-s-compensation
+  url: https://multco.us/file/rule_4-40:__worker's_compensation/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 4-40:  Worker''S Compensation'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-4-50-drug-and-alcohol-use-and-testing-0
+  url: https://multco.us/file/rule_4-50:__drug_and_alcohol_use_and_testing-0/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 4-50:  Drug And Alcohol Use And Testing-0'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-4-60-performance
+  url: https://multco.us/file/rule_4-60:_performance/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 4-60: Performance'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-4-70-disciplinary-action
+  url: https://multco.us/file/rule_4-70:_disciplinary_action/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 4-70: Disciplinary Action'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-4-80-reduction-in-management-work-force
+  url: https://multco.us/file/rule_4-80:_reduction_in_management_work_force/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 4-80: Reduction In Management Work Force'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-5-10-human-resources-administration
+  url: https://multco.us/file/rule_5-10:_human_resources_administration/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 5-10: Human Resources Administration'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-5-20-recruitment-and-examination
+  url: https://multco.us/file/rule_5-20:_recruitment_and_examination/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 5-20: Recruitment And Examination'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-5-30-appointments
+  url: https://multco.us/file/rule_5-30:__appointments/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 5-30:  Appointments'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-5-40-appointment-procedures
+  url: https://multco.us/file/rule_5-40:_appointment_procedures/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 5-40: Appointment Procedures'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-5-45-compensation
+  url: https://multco.us/file/rule_5-45:_compensation/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 5-45: Compensation'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-5-50-classification
+  url: https://multco.us/file/rule_5-50:_classification/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 5-50: Classification'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-5-55-classification-of-positions-affected-by-reorganiza
+  url: https://multco.us/file/rule_5-55:_classification_of_positions_affected_by_reorganization/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 5-55: Classification Of Positions Affected By Reorganization'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-5-60-family-friendly-policies
+  url: https://multco.us/file/rule_5-60:_family_friendly_policies/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 5-60: Family Friendly Policies'
+  last_checked: '2026-07-31'
+- id: multnomah-policies-rule-5-65-records-management
+  url: https://multco.us/file/rule_5-65:__records_management/download
+  family: policies
+  format: pdf
+  sha256: ''
+  title: 'Rule 5-65:  Records Management'
+  last_checked: '2026-07-31'

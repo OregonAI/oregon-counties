@@ -1,0 +1,585 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/washington-county
+id: washington-code-cocotadili
+title: 'CODE COMPARATIVE TABLE AND DISPOSITION LIST'
+doc_type: ordinance
+citation: 'CODE COMPARATIVE TABLE AND DISPOSITION LIST'
+authority_level: county_ordinance
+issuing_body: 'Washington County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=436713&nodeId=COCOTADILI&productId=16681
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: 9179544eb4e4919eef1b79dcc1689b1951edfcff6386bc70cbb830ca2f1c580f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [washington-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Washington County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# CODE COMPARATIVE TABLE AND DISPOSITION LIST (CODE COMPARATIVE TABLE AND DISPOSITION LIST)
+
+## At a glance
+
+CODE COMPARATIVE TABLE AND DISPOSITION LIST — code of Washington County. 1 sections.
+
+## Full text
+
+ ### CODE COMPARATIVE TABLE AND DISPOSITION LIST
+
+This is a chronological listing of the ordinances of Washington County, Oregon beginning
+with Supplement No. 7, included in this Code.
+Ordinance
+Number
+Date
+Description
+Section
+Section
+this Code
+691
+9- 2-2008
+Amending Title 3 , Ch. 3.17
+2
+3.17.010 — 3.17.160
+700
+11- 4-2008
+Repealing Ordinance 622 to effect dissolution of the Intergovernmental Entity know
+as the "Tri-County Health Care Safety Net Enterprise"
+Omitted
+710
+3- 24-2009
+Amending Title 8 , Ch. 8.04
+3
+8.04.060
+714
+6- 2-009
+Amending Title 15 , Ch. 15.08
+3
+15.08.126
+715
+6-16-2009
+Amending Title 2 , Chs. 2.13 and 2.26
+2
+Rpld
+2.13.010—2.13.060
+Rpld
+2.26.010 — 2.26.090
+2
+Added
+2.26.010 — 2.26.200
+727
+10-20-2009
+Amending Title 8 , Ch. 8.04
+Exh. A
+8.04.020 — 8.04.040
+8.04.060
+8.04.110
+8.04.130
+8.04.150
+8.04.170 — 8.04.200
+Dltd
+8.04.220
+8.04.250
+Dltd
+8.04.260
+8.04.270
+Added
+8.04.275
+8.04.290
+8.04.344
+8.04.370
+8.04.430
+8.04.440
+8.04.665
+Dltd
+App. to Ch. 8.04
+728
+10-20-2009
+Amending Title 8 , Ch. 8.08
+3
+8.08.020 — 8.08.070
+8.08.100
+Dltd
+8.08.110
+8.08.120
+8.08.130
+8.08.160
+Dltd
+8.08.170
+8.08.190
+8.08.210
+8.08.230
+8.08.240
+8.08.260
+Dltd
+8.08.270
+8.08.280
+8.08.290
+8.08.380
+8.08.410
+8.08.420
+8.08.440
+8.08.520
+8.08.580
+8.08.590
+Dltd
+8.08.600
+Dltd
+8.08.620
+8.08.630
+Dltd
+8.08.650
+8.08.680
+Dltd
+8.08.720
+8.08.740
+8.08.765
+729
+10-20-2009
+Amending Title 3 , Ch. 3.17
+1
+3.17.080
+2
+Added
+3.17.115
+3, 4
+Added
+3.17.170 , 3.17.180
+731
+2-16-2010
+Amending Title 8 , Ch. 8.04
+3
+Added
+8.04.055
+737
+10-26-2010
+Amending Title 8 , Ch. 8.16
+2(Exh. A)
+8.16.010 —
+8.16.050
+Added
+8.16.055
+8.16.060 —
+8.16.110
+738
+2-15-2011
+Amending Title 15 , Ch. 15.08
+Exh. A
+Rpld
+15.08.010—
+15.08.273
+Added
+15.08.110 —
+15.08.410.030
+741
+7-26-2011
+Amending Title 3 , Ch. 3.17
+2
+3.17.030.AA
+746
+1-17-2012
+Amending Title 3 , Ch. 3.17
+2(Exh. A, § 1)
+3.17.050.F
+(Exh. A, § 2)
+Added
+3.17.050.G
+Rnbd
+3.17.050.G, H
+as
+3.17.050.H, I
+(Exh. A, § 3 )
+Added
+3.17.060.D
+(Exh. A, § 4)
+Added
+3.17.130.E
+(Exh. A, § 5)
+Added
+3.17.175
+Tit. 3, App. A
+747
+5- 1-2012
+Amending Title 8 , Ch. 8.08
+3(Exh. A)
+8.08.240
+8.08.660.A
+751
+6-19-2012
+Amending Title 3 , Ch. 3.17
+2(Exh.)
+Added
+3.17.190
+761
+3-26-2013
+Amending Title 3 , Ch. 3.48
+2(Exh. A)
+Added
+3.48.010 —
+3.48.060
+778
+7- 1-2014
+Amending Title 3
+2(Exh. 1)
+Added
+3.14.010 —
+3.14.080
+779
+1-21-2014
+Amending Title 9 , Ch. 9.12
+2(Exh. A)
+9.12.010
+9.12.020
+Added
+9.12.025
+9.12.030
+9.12.040
+781
+4-22-2014
+Prohibiting any business or sale of medical marijuana
+Omitted
+14-82(Res.)
+7-22-2014
+Amending Charter Ch. VIII
+Chrt., § 84
+793
+8- 5-2014
+Amending Title 3 , Ch. 3.17
+2(Exh. A, 1.)
+3.17.040 (B)
+(Exh. A, 2.)
+3.17.050
+(Exh. A, 3.)
+3.17.060
+(Exh. A, 4.)
+Dltd
+3.17.115
+(Exh. A, 5.)
+3.17.160
+(Exh. A, 6.)
+3.17.170
+(Exh. A, 7.)
+Dltd
+3.17.175
+(Exh. A, 8.)
+Dltd
+3.17.180
+(Exh. A, 9.)
+3.17.190
+3(Exh. A)
+Ch. 3.17 ,
+Apps. A, B
+Charter Revision
+11- 4-2014
+Revising the Charter
+Chs. I—XI
+794
+1-20-2015
+Amending Title 6 , Ch. 6.04
+2(Exh. A)
+Rpld
+6.04.010 —
+6.04.600
+Added
+6.04.010 —
+6.04.320
+795
+1-20-2015
+Amending Title 1 , Ch. 1.12
+2(Exh. A)
+Rpld
+1.12.010 —
+1.12.110
+Added
+1.12.010 —
+1.12.250
+807
+10- 6-2015
+Amending Title 8
+1(Exh. 1, §§ 1—9)
+Added
+8.56.010 —
+8.56.090
+808
+10-20-2015
+Amending Title 8 , Ch. 8.32
+1(Exh. 1)
+8.32.030
+8.32.210 —
+8.32.230
+8.32.270
+8.32.290
+8.32.300
+8.32.350
+8.32.380
+812
+7-19-2016
+Amending the transient room tax, Title 3 , Ch. 3.08
+2(Exh. A)
+3.08.010
+3.08.300
+2
+Added
+3.08.305
+2
+3.08.310 —
+3.08.480
+817
+9-20-2016
+Amending Title 3 , Ch. 3.14 , Revenue and Finance, imposing a vehicle registration fee
+2
+3.14.010 —
+3.14.080
+818
+12- 6-2016
+Amending Ch. 8.04 , Solid Waste Control
+3(Exh. A)
+Added
+8.04.130 I., 8.04.170 A.3., B.3.
+819
+12- 6-2016
+Amending Ch. 8.08 , Solid Waste Disposal Sites
+3(Exh. A)
+Added
+8.08.040 E.
+825
+8-15-2017
+Amending Title 11 , Ch. 11.08
+2(Exh. A)
+11.08.020
+ESPD Ord. No. 1
+9-19-2017
+Regulating Enhanced Chronic Nuisance Property in ESPD Areas
+2(Exh. A)
+Added
+App. A, Ord. No. 1
+ESPD Ord. No. 2
+9-19-2017
+Regulating Enhanced Parking and Towing in ESPD Areas
+2(Exh. A)
+Added
+App. A, Ord. No. 2
+830
+6-19-2018
+Adding Ch. 6.08 regarding prohibiting the keeping of exotic animals
+4(Exh. A)
+Added
+6.08.010 —
+6.08.090
+848
+5- 7-2019
+Adding App. B regarding Requiring Drug Manufacturers to Takeback Unwanted Drugs
+3(Exh. A)
+Added
+App. B, 1.010 — 1.200
+861
+3-17-2020
+Amending Ch. 3.08 relating to Transient Lodging Tax
+2(Exh. A)
+3.08.020
+Added
+3.08.030E.
+3.08.070
+3.08.100
+3.08.120
+3.08.190
+3.08.200
+3.08.210
+3.08.240
+3.08.260 —
+3.08.310
+3.08.330
+3.08.340
+3.08.430
+3.08.440
+862
+12-17-2019
+Amending Ch. 14.04 to continue county permit requirements in response to changes to the State Building
+Code and declaring an emergency
+3(Exh. 1)
+Added
+14.04.260D., E.
+14.04.300
+863
+5- 5-2020
+An emergency ordinance amending the Emergency Service Ch. 8.36.030 to allow extending an emergency declaration for 30 days
+1(Exh. A)
+8.36.030
+870
+10-20-2020
+An ordinance amending Ch. 8.32 relating to Emergency Medical Services (EMS)
+2(Exh. A)
+8.32.030
+8.32.210 —
+8.32.230
+8.32.250
+8.32.270
+8.32.290
+8.32.300
+8.32.350
+Rpld
+8.32.360—
+8.32.380
+Rpld
+8.32.430 —
+8.32.450
+Added
+8.32.460 —
+8.32.490
+871
+3- 2-2021
+An ordinance amending Ch. 8.04 Solid Waste Control, relating to the Solid Waste and Recycling Advisory Committee
+3(Exh. A)
+8.04.020A.
+Rpld
+8.04.060 —
+8.04.110
+Added
+8.04.060 —
+8.04.110
+8.04.180 —
+8.04.200
+8.04.430C.
+8.04.490 , 8.04.500
+8.04.520
+8.04.540
+8.04.590
+8.04.610C.
+872
+2-16-2021
+An ordinance amending Ch. 8.08 Solid Waste Disposal Sites, relating to the Solid Waste and Recycling Advisory Committee
+3(Exh. A)
+8.08.030 4.
+Added
+8.08.125 , 8.08.130
+Rnbd
+8.08.130
+as
+8.08.135
+874
+3- 2-2021
+An emergency ordinance amending the Emergency Service Ch. 8.36.030 to allow extending an emergency declaration for 90 days
+1(Exh. A)
+8.36.030B.3.
+875
+6-22-2021
+An ordinance amending the Exotic Animal Code (WCC Chapter 6.08
+2(Exh. A)
+6.08.020
+Rpld
+6.08.040 (2)
+Rnbd
+6.08.040
+(3)—(5)
+as
+6.08.040
+(2)—(4)
+878
+11- 2-2021
+An ordinance to prohibit flavored tobacco and flavored synthetic nicotine, prohibiting
+coupon and price promotions and repealing Ordinance 599
+3
+Rpld
+8.48.010—
+8.48.080
+4(Exh. A)
+Added
+App. B, 2.010 — 2.080
+884
+11- 2-2021
+An ordinance amending Chapter 6.04 (Animal Services) to clarify provisions and to comport with changes in state law
+2(Exh. A)
+6.04.020
+Rpld
+6.04.150 (7)
+Rnbd
+6.04.150 (8)
+as
+6.04.150 (7)
+6.04.175 (1), (5)
+6.04225(3)
+6.04.235 (3)
+6.04.310 (2), (3)
+6.04.320
+(2)—(4)
+Added
+6.04.320 (8)
+Rnbd
+6.04.320 (8)
+as
+6.04.150 (9)
+887
+2-15-2022
+An ordinance amending Chapter 8.32 to update Code as recommended by EMS Alliance
+3A(Exh. 1)
+8.32.010 —
+8.32.190
+8.32.210 —
+8.32.290
+8.32.340 ,
+8.32.350
+8.32.390 —
+8.32.460
+891
+10-18-2022
+An ordinance adopting Chapter 3.27 establishing a Commercial Property Assesses Clean Energy (CPACE) Program
+2(Exh. 1)
+Added
+3.27.010 —
+3.27.060
+892
+11- 8-2022
+An ordinance amending Chapter 3.27 , Commercial Property Assesses Clean Energy (CPACE) Program
+2(Exh. 1)
+Added
+3.27.070 , 3.27.080
+894
+8- 1-2023
+Adopting Chapter 2.38 establishing procedures for Management and Use of the County Lien Docket
+2(Exh. A)
+Added
+2.38.010 — 2.38.070
+895
+8- 1-2023
+Amending the Code relating to instruments authorized for recording and amending the
+Code to reflect other minor changes
+2(Exh. A, § 1)
+Added
+2.40.010 20.
+2(Exh. A, § 2)
+3.20.200
+2(Exh. A, § § 3 , 4)
+3.20.240 , 3.20.250
+2(Exh. A, § 5)
+3.20.260 B.
+2(Exh. A, § 6 )
+3.28.010 A.
+2(Exh. A, § 8 )
+3.28.080
+896
+7-18-2023
+Adopting Chapter 8.54 regulating Public Property with Respect to Camps and Camping
+2(Exh. 1)
+Added
+8.54.010 — 8.54.070
+898
+8-15-2023
+Adopting Chapter 2.05 related to County Counsel
+2(Exh. A)
+Added
+2.05.010 — 2.05.050

@@ -1,0 +1,243 @@
+group: washington
+title: Washington County sources
+county: washington-county
+crawl:
+  decision: proceed
+  checked: '2026-07-31'
+  basis: 'library.municode.com names ClaudeBot and disallows it, and sets Content-Signal: ai-train=no.
+    The operator''s decision (PLAN.md Phase 12) is that the text of county law is authored by the county
+    and the vendor is a host, so this directive is not treated as binding for that text. The line held:
+    we do not evade technical access controls. api.municode.com serves HTTP 200 to the honest, self-identifying
+    User-Agent in src/fetch.py, so nothing here impersonates a browser. Fetched once, cached, rate-limited.'
+  hosts:
+  - host: library.municode.com
+    robots_url: https://library.municode.com/robots.txt
+    ai_block: true
+    content_signal: search=yes, ai-train=no, use=reference
+    notes: 'Cloudflare-managed AI block naming ClaudeBot, CCBot, GPTBot, Amazonbot, Applebot-Extended,
+      Bytespider and Google-Extended, each with Disallow: /. Framed as an EU DSM Art. 4 rights reservation.
+      This host is the human-facing JS shell and is NOT fetched by this profile; the API below is.'
+  - host: api.municode.com
+    robots_url: null
+    ai_block: false
+    content_signal: null
+    notes: Open JSON API, no robots.txt served. Returns 200 to the honest agent.
+  - host: www.washingtoncountyor.gov
+    robots_url: https://www.washingtoncountyor.gov/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: Stock Drupal, byte-identical to Multnomah's. No AI agent named.
+last_checked: '2026-07-31'
+upstream_signal: Jobs/latest/<productId> names the current supplement and its publish date, so the supplement
+  number is a real change signal — the only vendor in this build that exposes one.
+sources:
+- id: washington-code-waco
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=WACO&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: WASHINGTON COUNTY
+  last_checked: '2026-07-31'
+- id: washington-code-ch
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=CH&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: CHARTER
+  last_checked: '2026-07-31'
+- id: washington-code-ch01
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=CH01&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: Charter
+  last_checked: '2026-07-31'
+- id: washington-code-tit1gepr
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=TIT1GEPR&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: Title 1 - GENERAL PROVISIONS
+  last_checked: '2026-07-31'
+- id: washington-code-tit2adpe
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=TIT2ADPE&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: Title 2 - ADMINISTRATION AND PERSONNEL
+  last_checked: '2026-07-31'
+- id: washington-code-tit3refi
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=TIT3REFI&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: Title 3 - REVENUE AND FINANCE
+  last_checked: '2026-07-31'
+- id: washington-code-tit5bulire
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=TIT5BULIRE&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: Title 5 - BUSINESS LICENSES AND REGULATIONS
+  last_checked: '2026-07-31'
+- id: washington-code-tit6an
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=TIT6AN&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: Title 6 - ANIMALS
+  last_checked: '2026-07-31'
+- id: washington-code-tit8hesa
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=TIT8HESA&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: Title 8 - HEALTH AND SAFETY
+  last_checked: '2026-07-31'
+- id: washington-code-tit9pupemowe
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=TIT9PUPEMOWE&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: Title 9 - PUBLIC PEACE, MORALS AND WELFARE
+  last_checked: '2026-07-31'
+- id: washington-code-tit11paotpupl
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=TIT11PAOTPUPL&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: Title 11 - PARKS AND OTHER PUBLIC PLACES
+  last_checked: '2026-07-31'
+- id: washington-code-tit12puse
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=TIT12PUSE&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: Title 12 - PUBLIC SERVICES
+  last_checked: '2026-07-31'
+- id: washington-code-tit14buco
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=TIT14BUCO&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: Title 14 - BUILDINGS AND CONSTRUCTION
+  last_checked: '2026-07-31'
+- id: washington-code-tit15coplro
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=TIT15COPLRO&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: Title 15 - COMMUNITY PLANNING AND ROADS
+  last_checked: '2026-07-31'
+- id: washington-code-apxaenshpadior
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=APXAENSHPADIOR&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: Appendix A - ENHANCED SHERIFF'S PATROL DISTRICT ORDINANCES
+  last_checked: '2026-07-31'
+- id: washington-code-apxblopuheauco
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=APXBLOPUHEAUCO&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: Appendix B - LOCAL PUBLIC HEALTH AUTHORITY CODE
+  last_checked: '2026-07-31'
+- id: washington-code-streorco
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=STREORCO&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: STATUTORY REFERENCES FOR OREGON COUNTIES
+  last_checked: '2026-07-31'
+- id: washington-code-orlidita
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=ORLIDITA&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: ORDINANCE LIST AND DISPOSITION TABLE
+  last_checked: '2026-07-31'
+- id: washington-code-cocotadili
+  url: https://api.municode.com/CodesContent?jobId=436713&nodeId=COCOTADILI&productId=16681
+  family: code
+  format: json
+  sha256: ''
+  title: CODE COMPARATIVE TABLE AND DISPOSITION LIST
+  last_checked: '2026-07-31'
+- id: washington-land-use-codecowacoor
+  url: https://api.municode.com/CodesContent?jobId=465373&nodeId=CODECOWACOOR&productId=15510
+  family: land-use
+  format: json
+  sha256: ''
+  title: COMMUNITY DEVELOPMENT CODE OF WASHINGTON COUNTY, OREGON
+  last_checked: '2026-07-31'
+- id: washington-land-use-artiingepr
+  url: https://api.municode.com/CodesContent?jobId=465373&nodeId=ARTIINGEPR&productId=15510
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE I - INTRODUCTION AND GENERAL PROVISIONS
+  last_checked: '2026-07-31'
+- id: washington-land-use-artiipr
+  url: https://api.municode.com/CodesContent?jobId=465373&nodeId=ARTIIPR&productId=15510
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE II - PROCEDURES
+  last_checked: '2026-07-31'
+- id: washington-land-use-artiiilausdi
+  url: https://api.municode.com/CodesContent?jobId=465373&nodeId=ARTIIILAUSDI&productId=15510
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE III - LAND USE DISTRICTS
+  last_checked: '2026-07-31'
+- id: washington-land-use-artivdest
+  url: https://api.municode.com/CodesContent?jobId=465373&nodeId=ARTIVDEST&productId=15510
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE IV - DEVELOPMENT STANDARDS
+  last_checked: '2026-07-31'
+- id: washington-land-use-artvpufase
+  url: https://api.municode.com/CodesContent?jobId=465373&nodeId=ARTVPUFASE&productId=15510
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE V - PUBLIC FACILITIES AND SERVICES
+  last_checked: '2026-07-31'
+- id: washington-land-use-artviladiprliad
+  url: https://api.municode.com/CodesContent?jobId=465373&nodeId=ARTVILADIPRLIAD&productId=15510
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE VI - LAND DIVISIONS AND PROPERTY LINE ADJUSTMENTS
+  last_checked: '2026-07-31'
+- id: washington-land-use-artviiputrfa
+  url: https://api.municode.com/CodesContent?jobId=465373&nodeId=ARTVIIPUTRFA&productId=15510
+  family: land-use
+  format: json
+  sha256: ''
+  title: ARTICLE VII - PUBLIC TRANSPORTATION FACILITIES
+  last_checked: '2026-07-31'
+- id: washington-land-use-oramcodecoadafno241989
+  url: https://api.municode.com/CodesContent?jobId=465373&nodeId=ORAMCODECOADAFNO241989&productId=15510
+  family: land-use
+  format: json
+  sha256: ''
+  title: ORDINANCES AMENDING THE COMMUNITY DEVELOPMENT CODE ADOPTED AFTER NOVEMBER 24, 1989
+  last_checked: '2026-07-31'
+- id: washington-land-use-codecoseamorafno241989
+  url: https://api.municode.com/CodesContent?jobId=465373&nodeId=CODECOSEAMORAFNO241989&productId=15510
+  family: land-use
+  format: json
+  sha256: ''
+  title: COMMUNITY DEVELOPMENT CODE SECTIONS AMENDED BY ORDINANCES AFTER NOVEMBER 24, 1989
+  last_checked: '2026-07-31'
+- id: washington-land-use-cd_comparative_tableor
+  url: https://api.municode.com/CodesContent?jobId=465373&nodeId=CD_COMPARATIVE_TABLEOR&productId=15510
+  family: land-use
+  format: json
+  sha256: ''
+  title: CODE COMPARATIVE TABLE - ORDINANCES
+  last_checked: '2026-07-31'

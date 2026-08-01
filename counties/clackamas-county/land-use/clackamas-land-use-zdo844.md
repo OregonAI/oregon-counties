@@ -1,0 +1,602 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clackamas-county
+id: clackamas-land-use-zdo844
+title: 'Zdo844'
+doc_type: ordinance
+citation: 'Zdo844'
+authority_level: county_ordinance
+issuing_body: 'Clackamas County Board of Commissioners'
+source_url: https://www.clackamas.us/planning/zdo844
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: a95a7ec99c76b9173d0df5b37efa412467d582c530f3923f70db041ce3fd7dcf
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [clackamas-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clackamas County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zdo844 (Zdo844)
+
+## At a glance
+
+Zdo844 — land use of Clackamas County. 24132 characters.
+
+## Full text
+
+ZDO 844: Multi-Use Developments | Clackamas County 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Translate 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Jobs 
+ Events 
+ News 
+ Contact Us 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+
+ 
+ 
+ 
+ Community 
+ 
+ 
+ Business 
+ 
+ 
+ Departments 
+ 
+ 
+ Our County 
+ 
+ 
+ I want to... 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ ZDO 844: Multi-Use Developments 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ZDO 844: Multi-Use Developments 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 844.01 Determination of Uses Uses included in a multi-use development shall be determined pursuant to the following standards: Use Selection: Uses shall be selected from those categories (or subcategories) of uses which are required, permitted, or limited in the subject zoning district, as specified in Table 844-1, Determination of Uses. Required Uses: Required uses shall be included at the minimum percent of floor area or land area specified in Table 844-1. Limited Uses: The total area occupied by limited uses shall not exceed the maximum percent of floor area or land area specified in Table 844-1. Permitted Uses: Permitted uses may occupy the floor area or land area that remains after subtracting the required and limited use area. Residential District Limited Uses: In the HR and Urban Low Density Residential Districts, a minimum of one-half of the proposed dwelling units shall be constructed prior to the introduction of limited uses into the development. In the HDR, MR-1, MRR, and SHD Districts, limited uses located within the same building as dwelling units may be developed concurrently provided the maximum allowed percent of developed floor area for limited uses is not exceeded at any time. Residential District Required Uses: In residential zoning districts, the total land area may be used to calculate the base density pursuant to Section 1012, Lot Size and Density. A minimum of 80 percent of the base density in the HDR and MR-1 Districts and a minimum of 50 percent of the base density in the SHD District shall be provided in the development. Dwelling units may be clustered to provide for limited uses and preserve natural features or protect restricted areas. However, the density on any acre of land shall not exceed that allowed in the next highest residential Comprehensive Plan category. Commercial and Industrial District Phased Developments: In phased developments in the C-3, CI, and OC Districts, the floor area/land area developed for limited uses in each phase shall not exceed the floor area/land area developed for other uses in that phase. An increase in the ratio of limited to other uses may be proposed and approved for any phase when other protection measures are used, such as binding development agreements, bonding, or other suitable controls over the total development percentages. Minimum Mix: In the C-3, CI, and OC Districts, the multi-use development shall include uses from at least three of the primary use categories under Subsection 844.02 Use Categories Uses listed under the following use categories may be included in a multi-use development when allowed in the subject zoning district pursuant to Table 844-1, Determination of Uses, subject to Subsection 844.01. Office/Manufacturing: Business and professional offices, including legal, financial, architectural, engineering, governmental, manufacturers' representatives, corporate facilities; medical and dental, chiropractic, counseling, and other similar services and clinics; insurance, real estate, travel agencies and membership organization headquarters; studios for artists, photographers, writers, radio and television broadcasting (but not transmission towers). Research and development operations and testing laboratories; manufacturing and assembly of medical equipment, communications equipment, electronic components, measuring and analyzing instruments; printing, publishing, bookbinding, graphic or photographic reproduction, blueprinting and photo finishing; and similar uses, except those prohibited under Subsection 844.04, provided that no operation shall be conducted or equipment or chemicals used which would create a hazard or offensive noise, odor, vibration, smoke, dust, or other similar condition. Hospitality/Public Use: Hotels, motels, guest lodges and associated convention facilities; gift shops, newsstands and eating and drinking establishments located within the same building with a motel, hotel, or public use facility; tourist facilities and information services. Health, recreation and exercise facilities, including health clubs, swimming pools, spas, tennis, racquetball, handball courts, golf courses and driving ranges and similar uses. Large-scale public use facilities such as auditoriums for live entertainment, operas, concerts, and plays; convention facilities not part of a hotel or motel; indoor or outdoor stadia and arenas, spectator sport and multi-use facilities, such as coliseums or domes; exhibition halls, galleries, and museums; movie theaters; other public use gathering places of similar nature. A destination restaurant may be allowed as a hospitality use in the CI and OC Districts. A destination restaurant is a full menu establishment (as defined by the U.S. Census Bureau) with no drive-thru service, which satisfies five of the criteria listed below. On sites 40 acres or larger, up to two restaurants meeting four of the seven criteria listed below may be allowed as a hospitality use. Has a minimum seating capacity of 75; Specializes in gourmet, ethnic, or specialty cuisine; Includes banquet facilities and services; Provides live entertainment at least two nights a week; Utilizes custom architectural design or collections of artistic, cultural, or historic items to produce a distinctive thematic decor or atmosphere; Has an Oregon Liquor Control Commission license to serve beer and wine; and Employs only chefs who have graduated from a recognized culinary institute, or who have outstanding qualifications or reputations for their culinary skills. Commercial: The following neighborhood retail and service commercial uses which primarily serve the tenants or residents of the multi-use development and the immediate surrounding area: Apparel stores and dressmaking shops; Bakery shops; Catering establishments; Confectionery stores; Delicatessen shops and restaurants, but not drive-in restaurants or drive-thru service; Drug stores; Fabric and dry goods stores; Florist and gift shops; Grocery and produce stores; Hardware and garden supplies; Meat and fish markets; Barber and beauty shops; Clothes pressing, alterations, and tailoring shops; Child care facilities and adult daycare facilities; Dry cleaners; laundry agencies; self-service laundromats and dry cleaning facilities; Exercise and tanning studios; Offices for doctors, dentists, chiropractors, naturopathic treatment personnel, and other health service personnel; small clinics or community health care programs; Photo finishing; Shoe repair; Veterinarian services and pet supplies; Video rental stores; Bed and breakfast residences and inns, subject to Section 832, Bed and Breakfast Residences and Inns; The following types of wireless telecommunication facilities, subject to Section 835, Wireless Telecommunication Facilities: level one collocations, level one placements on utility poles, and essential public communication services; and Mobile vending units, subject to Section 837, Mobile Vending Units. Commercial amusement uses such as bowling alleys, game rooms, billiard and pool halls, miniature golf, roller or ice skating rinks, and similar uses, but not those included in Category B, or prohibited under Subsection 844.04. All retail and service commercial uses except those included under Subsection (C)(4); eating and drinking establishments except those qualifying as hospitality uses under Subsection (B); banks, credit unions, and financial institutions. Sales lots and repair services for automobiles, trucks, boats, motorcycles, recreational vehicles, trailers, manufactured dwellings, farm or construction equipment and other heavy machinery; lumber yards, fuel yards, carpentry or sheet metal shops; mini-storage and vehicle storage facilities, moving equipment rental; funeral parlors; gasoline service stations. Residential: Low density residential zoning district primary uses, as specified in the underlying zoning district (i.e., R-5 through R-30 Districts and HR District). MR-1 District primary uses, subject to Section 315. HDR District primary uses, subject to Section 315. SHD District primary uses, subject to Section 315. MRR District primary uses, subject to Section 317. Educational: Colleges, universities, and graduate centers; business, trade, and craft schools; specialty schools in the arts, music, counseling, etc.; and rehabilitation and worker training/retraining centers and facilities. 844.03 Accessory Uses The following uses may be provided in conjunction with any category of use, or uses, approved for the multi-use development: Temporary buildings for uses incidental to construction work, which buildings shall be removed upon completion or abandonment of the construction work; Transit stations, bus shelters, bike racks, pedestrian amenities, and transit amenities; Parking structures; Utility carrier cabinets, subject to Section 830, Utility Carrier Cabinets. Solar energy systems; Cogeneration facilities; Radio and television earth stations and dishes; Child care facilities associated with a principal use; Cafeterias, delicatessens, and other such facilities provided for employees of a principal use; Recycling collection containers, provided all materials are presorted, no processing occurs on-site, and all materials are stored within an enclosed structure or area between pickup days; Private recreational facilities as part of a multifamily residential complex; Helistops; Rainwater collection systems; Electric vehicle charging stations; and Other uses and structures customarily accessory and incidental to a primary use. 844.04 Prohibited Uses The following uses shall be prohibited in a multi-use development: New dwellings, manufactured dwellings, and manufactured dwelling parks, except as permitted within low density or medium density residential districts; Outdoor storage of materials or products; Drive-thru window service, except those associated with a bank, credit union, or other financial institution, subject to Section 827, Drive-Thru Window Services; and Industrial uses listed in Table 602-1, Permitted Uses in the BP, LI, and GI Districts, as conditional uses in the GI District, except as specifically allowed under Subsection . 844.05 Dimensional Standards Purpose: The dimensional standards are intended to: Provide for and encourage coordinated development and the most efficient use of property within a multi-use development; Ensure adequate structure separation for light, air, fire safety and protection of all uses and structures within the development, and between the development and uses and structures on adjacent properties; Protect adjacent properties and uses from incompatible uses, and provide adequate buffering and transitioning between different uses within the development; Ensure an attractive appearance through the use of open spaces, setbacks, landscaping and pedestrian amenities, plazas, buffering, and retention of significant natural features; and Ensure adequate access to property and minimum traffic conflicts and impacts. Standards: A multi-use development shall comply with the following dimensional standards: Minimum Site Area: The minimum site area is one acre in the C-3 District, five acres in the HDR and SHD Districts, 10 acres in the MR-1, MRR, and OC Districts, 20 acres in the CI District, and 30 acres in the HR and R-5 through R-30 Districts. A site area less than the above requirements may be allowed when such site is physically separated from all other undeveloped or underdeveloped properties in the subject zoning district. Minimum site area means minimum gross site area, including land dedicated for roadway purposes. Site area means a single tax lot, or two or more contiguous tax lots under the same ownership; or site area means two or more contiguous tax lots under separate ownership, provided that All individual property owners are members of a group formed for the purpose of developing the properties as a single planned development; and All individual tax lot ownerships are converted into development shares prior to any building permit being issued for the project; or the group shall record, in the office of the County Clerk, a contract and associated deed restrictions, in which all members agree to subject the use and development of individual tax lots or ownerships to the development plan for the site area as approved by the County. No permit shall be issued on any separate tax lot or ownership for any structure or use not indicated on the County-approved development plan for the site area. Minimum front setbacks: From major periphery roads: 25 feet. From interior access driveways and circulation roads: 10 feet. Minimum side and rear setbacks: 15 feet. Minimum building separation: The minimum separation between a multifamily dwelling located in a separate building on the same site, or on an adjacent site, and any building housing another category of use shall be 50 feet. However, this shall not preclude the mixing of multifamily dwellings with other categories of use within one building. Minimum street frontage: 200 feet, except in the C-3 District, where the minimum street frontage shall be 100 feet. Minimum landscaping/open space area: The minimum landscaped area standards under Table 1009-1, Minimum Landscaped Area, shall be modified as follows: In the C-3 District, a minimum of 20 percent of the net site area shall be utilized for landscaping and open space. In phased developments, landscaped areas may be reduced to a minimum of 15 percent for any phase when the applicant demonstrates how the minimum 20-percent requirement will be satisfied. In the R-7 through R-30, MR-1, HDR, SHD, MRR, HR, CI, and OC Districts, a minimum of 25 percent of the net site area shall be utilized for landscaping and open space. In phased developments, landscaped areas may be reduced to a minimum of 20 percent for any phase when the applicant demonstrates how the minimum 25-percent requirement will be satisfied. Exceptions: The standards of Subsection 844.05 are not subject to modification pursuant to Section 903, Setback Exceptions. However, except for the minimum landscaping/open space area standard, these standards may be reduced up to 20 percent pursuant to Section 1102, Design Review, when such modification is consistent with the purposes under Subsection 844.05(A). The effect of the proposed modification on the natural features of the site and on the use and preservation of solar access shall be considered when applicable. 844.06 Development Standards The following development standards shall apply: Site Planning and Design: The overall site plan and siting of individual uses and buildings within a multi-use development shall address the following objectives: Identity: To create a stimulating environment through the siting of various uses, the use and articulation of open spaces, structure scale, design and texture, and the provision of pedestrian level amenities to produce a strong sense of place. Pedestrian Circulation: To provide pedestrian access and movement through the site in a manner that maximizes foot traffic exposure to goods and services and minimizes conflicts with vehicle circulation areas. Transit: To maximize the use of mass transit services through the provision of transit and pedestrian facilities and amenities in cooperation with the regional transit provider. Parking: To minimize the visual impact of parking areas. This may be accomplished through the use of: landscaping techniques; the incorporation of parking structures, as provided under Subsection 844.06(D); the siting of uses to maximize the shared parking provisions of Section 1015, Parking and Loading; or a combination of these methods. Access/Circulation: To minimize the number of access points onto the site from adjacent roads and provide for traffic circulation between on-site uses, as appropriate. Visual Access/Traffic Impacts: To maximize visibility and access for uses most dependent upon impulse shopping, or off-the-street business, while minimizing traffic impacts on other uses within the development. Natural Features: To protect the aesthetic and location advantages provided by the terrain and natural features of the site and minimize the alteration thereof as far as practicable. Impacts: To minimize negative impacts of proposed uses on adjacent properties and uses and ensure the livability of residential areas of the site, when applicable. Building Design: In addition to the provisions of Section 1005, Site and Building Design: Buildings and structures shall be designed using materials, architectural styling and features, pedestrian plazas and amenities, and color, texture and scale of architectural elements to produce a mix of complementary styles which are in scale with each other and demonstrate comparable excellence in design and implementation. Buildings housing retail commercial uses shall provide ample window area oriented toward pedestrian walkways or plazas, and, when single-story construction is used, shall incorporate design techniques and elements to enhance the scale of the buildings. Landscaping/Open Space: The minimum percent of landscaping/open space required shall be as specified under Subsection 844.05(B)(7). In addition to the requirements under Section 1009, Landscaping, the design and development of open space and landscaping in a multi-use development shall: Include street trees and parking area trees which are in scale with the development. Provide a cohesive open space and pedestrian network within the development, with appropriate connections to surrounding properties and uses. Provide pleasing transitions between uses, soften and buffer utility and loading areas, visually break up parking areas into identifiable subareas, and provide pleasing textures and variety, particularly next to buildings, along walkways, and within plazas. Include open spaces and plazas which are in scale with the development, invite activity appropriate to adjoining uses, and incorporate plant materials, seating, waste receptacles, lighting, and a focal element such as a fountain, sculpture, mural, or other visual art object. Parking and Circulation: In addition to the standards of Section 1015, Parking and Loading, the County may require parking structures to serve intensive uses. Factors to be considered include: Topography and other physical characteristics of the site; Effects on distinctive natural features of the site; Effects on surface drainage and associated facilities; Effect on the capacity of the site to absorb the parking and traffic impacts of the intensive use; Effects on the quality of the overall site design in addressing the objectives under Subsection 844.06(A); and The benefits associated with structure parking, such as the increase in development intensity and provision of open space amenities, and the ability or inability of such benefits to recoup the added expense associated with such facilities. Management Association/Easements: The County may require the formation of a management association or other suitable mechanism approved by the County to assure that the following maintenance and liability duties are adequately addressed: To improve, operate, and maintain common facilities, including open space, landscaping, parking and service areas, streets, recreation areas, signing, and lighting; To provide and maintain cross-easements between uses and parcels within the development for parking, circulation, drainage facilities, utilities, and similar elements shared in common; To adopt and enforce restrictions on the use of open space, landscaping, plazas, and service areas, malls, and other public access areas of the site; To maintain liability insurance and pay local taxes, unless other legally binding mechanism is provided; To assess and collect from members their pro rata share of the cost associated with the responsibilities herein described. The association shall be able to adjust the assessment to meet changes as needed; and To make revisions to the bylaws as necessary, subject to County review and approval, when the County determines that such changes protect the intent and purpose of this Ordinance and are in the public's interest. Table 844-1: Determination of Uses Zoning District HR and R-5 – R-30 MR-1 HDR SHD MRR C-3 OC CI Minimum % R la or fa required 80% la 70% fa 50% fa 50% fa 70% fa N/A N/A 60% fa Maximum % (L) la or fa allowed 20% la 15% fa 20% fa 25% fa 20% fa N/A 35% fa 35% fa Category A Zoning District HR and R-5 – R-30 MR-1 HDR SHD MRR C-3 OC CI 1. Offices (L) P P P P P P R 2. High Tech X X X X X P P R Category B Zoning District HR and R-5 – R-30 MR-1 HDR SHD MRR C-3 OC CI 1. Hospitality X P P P P P P P 2. Health/Recreation (L) P P P P P P P 3. Public Use/Cultural X P P P P P P P Category C Zoning District HR and R-5 – R-30 MR-1 HDR SHD MRR C-3 OC CI 1. Neighborhood Commercial (L) (L) (L) (L) (L) P (L) (L) 2. Commercial Amusement X X (L) (L) (L) P (L) (L) 3. Retail/Service X X X X X P X X 4. Strip/Auto X X X X X P X X Category D Zoning District HR and R-5 – R-30 MR-1 HDR SHD MRR C-3 OC CI 1. Residential (District Density) R R R R R MR-1 to HDR HDR HDR Category E Zoning District HR and R-5 – R-30 MR-1 HDR SHD MRR C-3 OC CI 1. Education (L) P P P P P P P Symbol Key P = Permitted Use R = Required Use La = Land Area (L) = Limited Use X = Prohibited Use fa = Floor Area Return to the Zoning and Development Ordinance main page. Contact zoninginfo@clackamas.us for additional information. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Phone: 503-742-4500 
+ Email: zoninginfo@clackamas.us 
+ 
+ 
+ 
+ 150 Beavercreek Road Room #225 Oregon City, OR 97045 
+ 
+ 
+ Office Hours: Monday to Thursday  8 a.m. to 4 p.m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's My Zoning? 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Related Events 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Related Events
+ 
+ 
+ 
+ 
+ Board of County Commissioners, Planning and Zoning 
+ 
+ 
+ Aug 
+ 04 
+ 
+ 
+ 11:00 am 
+ - 11:30 am 
+ 
+ 
+ Land Use Hearing: Z0437-25 and Z0438-25 - Aug. 4, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Aug 
+ 20 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0096-26 - Aug. 20, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Sep 
+ 03 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0207-26 - Sept. 3, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ more events 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ SHORTCUTS 
+ 
+ 
+ 
+ Jobs Procurement Process, Contracts and Grants Pay Online CMap Contact the County Report a Hazard County Code Public Records Request HIPAA/Privacy Concerns Civil Rights ACA Complaint Form Accessibility Statement Title VI Compliance Plan Website Privacy Media Contacts 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ELECTED OFFICIALS 
+ 
+ 
+ 
+ Chair Craig Roberts Commissioner Diana Helm Commissioner Paul Savas Commissioner Martha Schrader Commissioner Ben West   County Assessor/Tax Collector Bronson Rueda County Clerk Catherine McMullen District Attorney John Wentworth Justice of the Peace Kathleen Rastetter Sheriff Angela Brandenburg Treasurer Brian Nava 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can’t find what you're looking for? 
+ 
+ 
+ 
+ 
+ Search Box 
+ 
+
+ 
+ enter your search here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2026 Clackamas County

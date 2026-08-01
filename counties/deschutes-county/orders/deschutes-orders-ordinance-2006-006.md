@@ -1,0 +1,3774 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2006-006
+title: 'Ordinance No. 2006-006'
+doc_type: ordinance
+citation: 'Ordinance No. 2006-006'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616980595_2006-536-Ordinance%20No.%202006-006%20Recorded%205_31_2006.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: afb9c5784172ff2f9bd2c18d66929c7a9be84d61e74ba39f4206d8145b25ad14
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2006-006 (Ordinance No. 2006-006)
+
+## At a glance
+
+Ordinance No. 2006-006 — orders of Deschutes County. 34 pages.
+
+## Full text
+
+REVIEWED
+LEGAL COUNSEL
+REVIEWED
+CODE REVIEW COMMITTEE
+DESCHUTES COUNTY OFFICIAL
+NANCY BLANKENSHIP, COUNTY
+COMMISSIONERS' JOURNAL
+II IIIlilllllillIIIIII
+RECORDS
+C~I ~0U6'S39
+05/ 31/2006 03: 34:25 PM
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 15, of the Deschutes
+County Code, making technical changes. ORDINANCE NO. 2006- 006
+WHEREAS, the Deschutes County Planning Division has proposed a Text Amendment to Title 15, the
+Deschutes County Sign Ordinance, to make minor changes that will correct errors, omissions, inconsistencies,
+and clarify awkward text; and
+WHEREAS, the Deschutes County Planning Commission held a duly noticed pubic hearing on
+February 09, 2006, and recommended to the Board the proposed changes to Title 15 as described in Exhibit
+A," and
+WHEREAS, the Board of County Commissioners held duly noticed public hearing on May 10, 2006;
+now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 15.08, Signs, is amended to read as described in Exhibit " A,"
+attached hereto and by this reference incorporated herein, with new language underlined and language to be
+deleted in str- ikethfeugh.
+PAGE 1 OF 2 - ORDINANCE NO. 2006- 006 ( 05/ 10/2006)
+Section 2. FINDINGS. The board adopts the staff report adopted as Exhibit " B" to Ordinance 2006-
+006, and incorporated herein by this reference, as it findings to support this Ordinance.
+DATED this z dayof , 2006.
+BOARD OF COUNTY COMMISSIONERS
+OF DESC1 U S COUNTY, OREGON
+DE IS R. LUKE, CfiAIR
+BEV CLARNO, VICE CHAIR
+MICHAEL M. DALY, COMMISSIONER
+Date of I" Reading:
+Date of 2"d Reading:
+Recon
+Commissioner
+Dennis R. Luke
+Bev Clarno
+Michael M. Daly
+Z day of , 2006.
+day of , 2006.
+1 of Adoption Vote
+Yes No Abstained Excused
+Effective date: Adayof , 2006.
+ATTEST:
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. 2006- 006 ( 05/ 10/2006)
+Chapter 15. 08. SIGNS
+15. 08.010. Short title.
+15. 08.015. Bend urban area sign code.
+15. 08.020. Purpose.
+15. 08.030. General definitions.
+15. 08.040. Specific definitions.
+15. 08.050. Interpretation.
+15. 08.050. Sign permit.
+15. 08.070. Administration.
+15. 08.080. Exceptions.
+15. 08.090. Repealed.
+15. 08.100. Exempt signs.
+15. 08.110. Temporary signs.
+15. 08.120. Prohibited signs.
+15. 08.130. Wall signs.
+15. 08.140. Freestanding signs.
+15. 08.150. Ground- mounted signs.
+15. 08.160. Monument signs.
+15. 08.170. Outdoor advertising signs.
+15. 08.180. Awnings and canopy signs.
+15. 08.190. Marquee signs.
+15. 08.200. Resource zones.
+15. 08.210. Residential zones.
+15. 08.220. Resort facilities and destination
+resorts.
+15. 08.230. Restricted commercial zones.
+15. 08.240. General commercial zones.
+15. 08.250. Businesses not classified in a
+shopping center or business
+complex.
+15. 08.260. Shopping center complexes.
+15. 08.270. Business complexes.
+15. 08.280. Unincorporated community
+15. 08.290.
+15. 08.300.
+15. 08.310.
+15. 08.320.
+15. 08.330.
+15. 08.340.
+15. 08.350.
+15. 08.360.
+15. 08.370.
+15. 08.380.
+15. 08.390.
+15. 08.400.
+15. 08.410.
+15. 08.420.
+zones.
+Industrial zones.
+Airport development zone.
+Existing signs- Conformance
+required.
+Special requirements.
+Compliance.
+Repealed.
+Abandoned signs.
+Removal of unsafe signs.
+Sign measurement.
+Permitted materials.
+Illumination standards.
+Maintenance.
+Design.
+Wind loads.
+15. 08.430. Seismic loads.
+15. 08.440. Combined loads.
+15. 08.450. Allowable stresses.
+15. 08.460. Anchorage and supports.
+15. 08.470. Electric sign construction.
+15. 08.480. Clearance from high voltage
+power lines.
+15. 08.490. Clearance from fire escapes, exits
+or standpipes.
+15. 08.500. Variance.
+15. 08.510. Repealed.
+15. 08.520. Conditions.
+15. 08.530. Inspection.
+15. 08.540. Enforcement.
+15. 08.550. Violation declared a nuisance.
+15. 08.560. Violation.
+15. 08.010. Short title.
+DCC 15. 08 shall be known as the " County Sign
+Ordinance No. 81- 009," and may be cited and
+pleaded.
+Ord. 81- 009 § 1, Exhibit A, § 1. 010, 1981)
+15. 08.015. Bend urban area sign code.
+Notwithstanding any other provision of DCC
+15.08, this chapter shall not apply to those lands
+lying outside the City limits of Bend and within
+the Bend Urban Growth Boundary, as that term is
+defined in that certain intergovernmental
+agreement entered into between the City of Bend
+and the County dated February 18, 1998. The
+City of Bend Sign Code Ordinance, No. NS-
+1495, as adopted by the Board as DCC 15. 08A,
+and as may be amended from time to time, shall
+apply in that geographic area instead.
+Ord. 98- 052 § 1, 1998)
+15. 08.020. Purpose.
+The purpose of DCC 15. 08 is to provide
+reasonable and necessary regulations for the
+erection and maintenance of signs in order to:
+A. Protect the health, safety, property and
+welfare of the public;
+B. Promote a neat, clean, orderly and attractive
+appearance within the County;
+PAGE 1 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006- 006 ( 05/ 10/2006)
+C. Improve the effectiveness of signs in
+identifying and advertising businesses and
+facilities;
+D. Eliminate signs that demand, rather than
+invite public attention;
+E. Provide for reasonable, orderly and effective
+display of outdoor advertising compatible
+with their surroundings;
+F. Preserve, protect and enhance the economic,
+scenic, historic and aesthetic values and
+objectives of the County and its citizens;
+G. Provide effective signing to meet the
+anticipateddiffering needs of various areas in
+the County.
+Ord. 81- 009 § 1, Exhibit A, § 1. 020, 1981)
+15. 08.030. General definitions.
+For the purposes of DCC 15.08, words used in
+the present tense include the future, the singular
+includes the plural, the word " shall" is mandatory
+and the word " building" includes structure other
+than sign structure.
+Ord. 81- 009 § 1, Exhibit A, § 1. 040, 1981)
+Board" means the Board of County
+Commissioners of the County.
+Business" means all of the activities carried on
+by the same legal entity on the same premisesand
+shall include, but not be limited to, service,
+commercial and industrial uses and fraternal,
+benevolent, educational and social organizations.
+Business complex" means one property
+ownershipwith the property owner and one or
+more business tenants as occupants or two or
+more business tenants as occupants of the
+property. In a business complex, business tenants
+include executive or administrative services
+including medical clinics and accessory
+pharmacies, professional offices and personal
+service establishments which perform personal
+services on the premisesand similar uses.
+Canopy" means a permanent roofed structure
+which may be freestanding or partially attached to
+a building for the purpose of providing shelter to
+patrons in automobiles, and patrons on foot, but
+shall not mean completed enclosed structure.
+15. 08.040. Specific definitions.
+For the purposes of DCC 15.08, unless otherwise
+apparent from the context, certain words and
+phrases used in DCC 15. 08 are defined as set
+forth in DCC 15. 08.040.
+Animation" means any form of movement by
+electric, mechanical or kinetic means including,
+but not limited to, rotation, revolving or wind
+activation of all or a portion of a sign, or
+incorporating flashing or intermittent light for
+sign illumination.
+Arterial" means a restricted access street of
+substantial continuity which is primarily a traffic
+artery for intercommunication and so designated
+on the County Roadway Network Plan.
+Awning" means a structure made of cloth, metal
+or similar material with rigid frames attached to a
+building, projecting over a thoroughfare or
+entrance when the same is so erected as to permit
+its being raised to a position flat against the
+building when not in use.
+Clear vision area" means a triangular area two
+sides of which are measured from the corner
+intersection of the street right of way for a
+distance of 30 feet, or where lot lines have
+rounded corners, the lot lines extended in a
+straight line to a point of intersection and so
+measured, the third side of which is a line across
+the corner of the lot adjoining the nonintersection
+ends of the other two sides.
+County" means the County of Deschutes, State
+of Oregon.
+Cutout" means a display in the form of letters,
+figures, characters or other representations in
+cutout or irregular form attached to or
+superimposedupon an advertising sign.
+Display surface" means the area made available
+by the sign structure for the purpose of displaying
+a message thereon.
+Erect" means to construct, paint, place, affix or
+otherwise bring into being.
+PAGE 2 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006- 006 ( 05/ 10/2006)
+Frontage, building" means that facade of a
+building which faces and is parallel to, or most
+nearly parallel to the public street which provides
+the primary direct vehicular access to the
+building.
+Frontage, street" means a lot line fronting on a
+public street. Unless the premises has only one
+such frontage, the width along such lot line must
+be at least 50 feet to qualify as a frontage. An
+access easement shall not qualify as a frontage.
+Incombustible material" means a material that
+will not ignite at or below a temperature of 1, 200
+degrees Fahrenheit during an exposure of five
+minutes and which will not continue to burn or
+glow at that temperature. The test for an
+incombustible material shall be conducted as
+specified in the Uniform Building Code.
+Sign" means any identification, display,
+description or illustration which is affixed to or
+otherwise representeddirectly or indirectly upon
+a building or outdoor surface or piece of land and
+which is used or intended to direct attention to an
+object, product, place, activity, person, institution
+or business and includes, where applicable, the
+sign structures, display surface and all other
+components of the sign.
+A. " Building directory sign" means a sign giving
+the name, address number or location of the
+occupants of a building or buildings.
+B. " Directional sign" means an on- premisesign
+designed to be read by a person already on
+the premises and used only to identify and
+locate an office, entrance, exit, motor vehicle
+route, telephone or similar place, service or
+route.
+Maintain" means to allow to exist or continue
+Marquee" means a permanent roofed structure
+attached to or supported by a building, but does
+not mean a canopy as defined in DCC 15. 08.040.
+Nonstructural trim" means a molding, batten,
+cap, nailing strip or stringer, lattice, cutout, letter
+or walkway attached to a sign structure.
+Person" means an individual, corporation,
+partnership, association, joint venture or other
+legal entity.
+Planning Director" and "Building Official" mean
+the Planning Director and Building Official,
+respectively, of the County.
+Roof line" means the line which marks the
+highest point of the vertical front of a building in
+the case of a false front, or the line where the roof
+is joined to the vertical front wall of the building
+in other cases.
+Shopping center" means a premisesplanned and
+developed as a unit with an undivided,
+nonsegregatedparking area and is advertised as a
+center or mall and has multiple occupancy by
+business or service firms.
+C. " Freestanding sign" means a sign supported
+by one or more uprights or braces and not
+attached or only incidentally attached to any
+building or structure but does not include
+ground-mountedsigns.
+D. " Ground- mounted sign" means a sign which
+is not attached to any structure or building,
+and has a support which places the bottom
+thereof less than four feet from the ground.
+E. " Internally illuminated sign" means a sign
+which is wholly or partially illuminated by an
+internal light source from which source light
+passes through the display surface to the
+exterior of the sign.
+F. " Motor vehicle directional sign" means a sign
+identifying motor vehicle entrances or exits
+to or from the premises on which the sign is
+located.
+G. " Nonconforming sign" means a sign erected
+prior to the adoption of the ordinance
+codified in DCC 15. 08 which does not
+conform to the provisions contained in DCC
+15. 08.
+H. " Outdoor advertising sign" means a sign
+which advertises goods, products or services
+which are not sold, manufactured or
+PAGE 3 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006- 006 ( 05/ 10/2006)
+distributed on or from the premises or
+facilities on which the sign is located.
+1. " Projecting sign" means a sign which extends
+perpendicular or nearly perpendicular from
+the building face to which it is attached.
+J. " Roof sign" means a sign located on or above
+the roof of any building, not including a false
+mansard roof or other fascia.
+K. " Temporary sign" means a banner, pennant,
+poster or advertising display constructed of
+cloth, canvas, plastic sheet, cardboard,
+wallboard, sheet metal, plywood or similar
+materials and intended to be displayed for a
+limited period of time.
+L. " Wall sign" means a sign painted or
+otherwise affixed to the face of a building,
+marquee or roof overhangin a plane parallel
+to such face and extending not more than 18
+inches therefrom.
+M. " Monument sign" means a sign which has its
+base affixed to or set on the ground with no
+other visible means of support.
+15. 08.060. Sign permit.
+Except as provided in DCC 15. 08.070, no sign
+shall be erected, structurally altered or relocated
+until a sign permit has been issued.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 070, 1981)
+15. 08.070. Administration.
+A.
+Uniform Building Code" means the Uniform
+Building Code published by the International
+Conference of Building Officials, as adopted by
+the County and which is referred to as " Uniform B
+Building Code" in DCC 15. 08.
+Uniform Sign Code" means the Uniform Sign
+Code published by the International Conference
+of Building Officials.
+Zone" means a zoning district established
+pursuant to the zoning ordinance.
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, 1. 030 and 1. 050,
+1981)
+15. 08.050. Interpretation.
+Where conditions imposed by the provisions of
+DCC 15. 08 are less restrictive than comparable
+conditions imposed by any other provisions
+which are more restrictive, the more restrictive
+shall govern.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 470, 1981)
+Applications for a sign permit shall be made
+in writing upon forms furnished by the
+Planning Director. Such application shall
+include a scale drawing of the sign including
+dimensions, height and materials and
+showing its relationship to the ground or to
+any building or structure to which the sign is
+proposed to be installed or affixed. When
+appropriate, a plot plan drawn to scale shall
+be submitted which indicates the location of
+proposed signing relative to street and
+property lines. Prior to the issuance of a sign
+permit, the Building Official may review the
+construction aspects of the proposed sign.
+The Planning Director or Building Official
+may require other pertinent information
+where in their opinion, such information is
+necessary to determine compliance with the
+provisions of DCC 15. 08.
+The PlanningDirector shall issue a permit for
+a sign covered by application duly made
+unless the sign is in violation of the
+provisions of DCC 15. 08. Sign permits
+mistakenly issued in violation of DCC 15. 08
+are void.
+C. A sign permit may be revoked if the Planning
+Director finds that there was a material and
+misleading false statement of fact in the
+application for the permit.
+D. A sign permit shall be null and void if work
+for which the permit was issued has not been
+completed within a period of one year of the
+date of issuance of the permit.
+E. Where an electrical permit for a sign
+installation is required, it shall be obtained
+from the community development
+department, prior to making the final
+electrical connection from the sign to the
+electrical power source.
+PAGE 4 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006-006 ( 05/ 10/2006)
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 95- 062 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 0801, 1981)
+15. 08.080. Exceptions.
+The following signs or procedures shall not
+require a sign permit but are subject to all other
+applicable requirementsof DCC 15. 08:
+A. Exempt signs listed in DCC 15. 08.100.
+B. Temporary signs listed in DCC 15. 08.110.
+nonilluminated and announcing only the
+name and occupation of the building tenant.
+F. Interior signsdesignedprimarily to be viewed
+from a sidewalk or street when maintained
+inside a building, including but not limited to,
+signs attached to or painted on the inside of a
+window; provided, however, the permitted
+area for such signs shall be subject to the area
+requirements for wall signs and that such
+signs conform to the illumination
+requirementsof DCC 15. 08.
+C. The changing of advertising or message on an
+approved painted or printed sign or sign
+specifically designed for the use of
+replaceable copy, except for changing the
+name of the business or use advertised.
+D. The painting, repainting, cleaning and normal
+maintenance and repair of an existing sign
+unless a substantial structural change is
+made.
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 090, 1981)
+15. 08.090. ( Repealed by Ord. 97- 067, 1997.)
+15. 08.100. Exempt signs.
+The following types of signs are exempted from
+the provisions of DCC 15. 08 except as
+specifically noted:
+A. Public signs of a noncommercial nature
+erected by a public authority including, but
+not limited to, safety signs, trespassingsigns,
+memorial plaques and historical markers.
+B. House or building numbers limited to eight
+inches in height for dwellings of three or less
+families and one foot in height for other
+buildings.
+C. Christmas or seasonal decorations as
+customarily used.
+D. Nonilluminated directional and motor vehicle
+directional signs painted on paving or
+otherwise limited to a maximum dimension
+of four feet and a sign area of eight feet.
+E. Small signs not exceeding three square feet in
+area, attached flat against a building,
+G. Garage sale signs posted on the premises of
+which the sale is to be held, limited in size to
+eight square feet in area, and removed at the
+end of the sale.
+Ord. 97- 067 § 1, 1997; Ord 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 110, 1981)
+15. 08.110. Temporary signs.
+The following signs shall be allowed as
+temporary signs and shall be subject to the
+provisions of DCC 15.08, except as specifically
+noted:
+A. Construction signs which identify the
+architects, engineers, contractors and other
+individuals or firms involved with
+construction or renovation of a building.
+Such sign shall be located on the site of
+construction, shall not exceed 32 square feet
+in area and shall be removed within 14 days
+of the beginning of the intended use of the
+project;
+B. Real estate firm or owner- erected signs
+advertising the sale, rental or lease of the
+premises or part of the premises on which the
+signs are displayed, up to a total area of 32
+square feet. Such signs shall be at least 10
+feet from a property line and shall be
+removed within 14 days of the sale, rental or
+lease;
+C. Open house directional signs for the purpose
+of directing the public to open house events
+providing for sale, rental or lease of the
+premises other than upon which the sign is
+located, provided such signs shall be erected
+only during daylight hours and shall be
+removed the same day they are erected. The
+PAGE 5 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006- 006 ( 05/ 10/2006)
+signs shall not be located in such a manner as
+to cause a public safety hazard or nuisance,
+and shall not exceed an area of eight square
+feet;
+D. Political campaign signs, if located on private
+property with the consent of the legal
+possessor of the premises and not located on
+utility poles, trees or rocks. Political signs
+shall not exceed a sign area of 32 square feet
+and may be displayed for 30 days before and
+five days after the election for which they are
+used. The provisions of DCC 15. 08.110 are
+not intended to apply to outdoor advertising
+signs;
+E. Signs identifying or advertising a nonprofit
+civic, charitable or benevolent event. Such
+signs shall be removed within five days after
+the event;
+F. Street banners advertising a public event.
+Street banners may be displayed during and
+for 14 days before and five days after an
+event;
+G. Farm products signs in agricultural zones
+which refer to agricultural products grown on
+the farm where the sign is located. Signs
+shall be confined to the farm or residential
+premises, shall not exceed 16 square feet and
+shall be removed within five days of the
+termination of sale activities;
+H. Land development project signs pertaining to
+the sale, lease, rent or development of a
+subdivision, office complex, shopping center,
+industrial park or similar use are allowed for
+a period of one year upon issuance of a
+permit by the PlanningDirector. The size of
+signs shall be controlled by the following
+schedule:
+Maximum
+Total Number Area Per Sign
+Project Size of Signs S uare Feet
+4 acres or less 1 32
+Over 4 acres 1 96
+15. 08.120. Prohibited signs.
+No sign shall be constructed, erected or
+maintained which:
+A. Uses pennants, streamers, valances,
+propellers or similar wind- activated or
+attention-attracting devices;
+B. Advertises an activity, business, product or
+service which is no longer provided, sold,
+manufactured or distributed on or from the
+premises or facilities on which the sign is
+located;
+C. Contains or includes or is illuminated by any
+flashing, intermittent, revolving, rotating or
+moving lights, or moves, or has any animated
+moving parts; however, this does not apply to
+traffic- control signs or signs providing public
+service information such as time, date,
+temperature, weather or similar information;
+D. Extends or is erected ( such as a roof sign)
+above the roof line of the building to which it
+is attached;
+E. Creates confusion with, or interferes with the
+effectiveness of traffic signs or signals;
+F. Is placed on, affixed to or painted on a motor
+vehicle, vehicle or trailer and placed on
+public or private property for the primary
+purpose of providing a sign not otherwise
+permitted by DCC 15.08;
+G. Is not supported by a sign structure in the
+ground, nor attached to or erected against a
+building or structure, and is capable of being
+moved about the premises;
+H. Is placed on, painted on or affixed to any
+utility pole, tree or rock;
+1. Benches with advertising thereon;
+J. Is a projecting sign as defined in DCC 15.08;
+K. Is not otherwise in conformance with the
+provisions of DCC 15. 08.
+Ord. 97- 067 § 1, 1997; 95- 063 § 1, 1995; Ord.
+81- 009 § 1, Exhibit A, § 1. 130, 1981)
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 120, 1981)
+PAGE 6 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006- 006 ( 05/ 10/2006)
+15. 08.130. Wall signs.
+Unless otherwise specified in DCC 15.08, the
+following criteria shall be applicable for attached
+wall signs:
+A. Wall signs shall not project more than 18
+inches from the wall to which they are
+attached. A wall sign located on an alley
+frontage may not project from the face of the
+building below a clearance of 12 feet.
+B. Wall signs shall not project above the eave
+line, roof line or top of a parapet wall.
+C. Wall signs attached to the end of the face of a
+marquee shall not exceed a height of 30
+inches. The lower edge of such sign shall not
+extend below the marquee.
+D. A wall sign shall not project beyond the ends
+of the wall to which it is attached.
+rear yard. A freestanding sign may extend to
+the street right of way within a front yard
+subject to a minimum clearance of eight feet.
+In the case of a double-frontage lot, a
+freestandingsign shall be located only on that
+frontage which provides direct vehicular
+access to the site.
+C. No freestanding sign shall project or extend
+into any clear vision area. One or two sign
+poles supporting a freestanding sign may be
+located within a clear vision area if they are
+necessary for the support of the sign,
+provided they do not exceed a combined total
+width of 12 inches and provided no other
+portion of the sign is located within the clear
+vision area beneath eight feet in height.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 210, 1981)
+E. Except as provided elsewhere in DCC 15.08,
+wall signsshall not be located on a building
+aseia facade which faces a street frontage
+that does not provide direct vehicular access
+to the building the sign identifies.
+F. Wall signs shall be located on that building
+aseia- facade which is used for determining
+sign area.
+Ord. 2006-006 § 1, 2006; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 200, 1981)
+15. 08.140. Freestanding signs.
+Unless otherwise specified in DCC 15.08, the
+following criteria shall be applicable to all free
+standing signs:
+A. Freestanding signs may be 16 feet in height
+plus one additional foot for each 20 feet of
+street frontage over 100 feet which abut the
+project, not to exceed a maximum height of
+24 feet. Such signs may contain one square
+foot of sign area for each one lineal foot of
+street frontage which abuts the project for the
+first 100 feet, plus one- half square foot of
+sign area for each two lineal feet of street
+frontage which abut the project over 100 feet,
+not to exceed a maximum area of 150 square
+feet.
+B. Freestanding signs shall not be located in a
+side yard common to another lot or within a
+15. 08.150. Ground- mounted signs.
+The following criteria shall be applicable for a
+ground- mounted sign:
+A. A ground-mounted sign shall not be located
+within 10 feet of any other sign or side lot
+line, within five feet of any street right of
+way or within any clear vision area.
+B. No more than one ground-mountedsign shall
+be permitted for each individual structure.
+Unless otherwise specified in DCC 15.08,
+ground-mounted signs shall have maximum
+overall dimensions and area not exceeding
+any of the following:
+1. A maximum height of 10 feet;
+2. Fifty square feet of area;
+3. A maximum width of 16 feet.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Ex A,
+1981)
+15. 08.160. Monument signs.
+The following criteria shall be applicable to all
+monument signs:
+A. A monument sign shall not be located within
+10 feet of any street right of way, any other
+sign or side lot line, or within any clear vision
+area.
+PAGE 7 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006- 006 ( 05/ 10/2006)
+B. A monument sign shall have maximum
+overall dimensions and area not exceeding
+any of the following:
+1. A maximum height of 12 feet;
+2. A maximum width of 30 feet at the base;
+3. A maximum area of 150 square feet.
+When two monument signs are located at
+the same entry the total area of both signs
+added together shall not exceed 150
+square feet.
+Ord. 98- 061 § 1, 1998; Ord. 97- 067 § 2, 1997)
+Ord. 97- 067 § 1, 1997; Ord. 96- 003 § 13, 1996;
+Ord. 95- 065 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 230, 1981)
+15. 08.180. Awnings and canopy signs.
+The following shall be applicable for signs on
+awnings and canopies:
+A. No advertisingshall be placed on any awning
+or canopy, except the name of the owner,
+business or industry conducted within the
+premises.
+15. 08.170. Outdoor advertising signs.
+The following criteria shall be applicablefor all
+outdoor advertising signs:
+A. Outdoor advertising signs shall only be
+permitted in the following locations:
+1. On property zoned commercial or
+industrial which adjoins a roadway
+designated as a principal arterial within
+the urban growth boundaries of Bend and
+Redmond;
+2. On property zoned commercial which
+adjoins a roadway designated as a
+principal arterial within the La Pine
+Urban Unincorporated Community.
+B. All such signs shall be spaceda minimum of
+500 feet apart. Outdoor advertising signs in
+existence on the date of adoption of the
+ordinance codified in DCC 15.08 shall not be
+considered as nonconforming signs and are
+not subject to the provisions of DCC
+15. 08.310.
+C. No outdoor advertising sign shall exceed a
+maximum height of 30 feet.
+D. The face size of any outdoor advertising sign
+shall not exceed 12 feet in vertical height or
+24 feet in horizontal length.
+E. All outdoor advertising signs shall be
+installed outside of the highway right of way.
+F. All structural supports for outdoor
+advertising signs shall be constructed of steel.
+G. Evidence must be provided showing the
+obtaining of a state permit in compliance
+with the Oregon Motorist's Information Act
+of 1971, where applicable.
+B. The area of a sign on an awning or canopy
+shall be deducted from the wall sign
+permitted within the respective zone in which
+the building is located.
+C. Posts or columns beyond the building line
+will not be permitted for awnings.
+D. Lettering shall be painted or otherwise
+permanently placed in a space not exceeding
+16 inches in height on the front and sides of
+the awning.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 240, 1981)
+15. 08.190. Marquee signs.
+The following criteria shall be applicable for
+signs under marquees:
+A. Signs may be located under a marquee if a
+vertical clearance of seven feet is maintained
+between the bottom of the sign and the grade
+below.
+B. Vertical height of signs shall not exceed 18
+inches and shall not exceed a sign area of
+eight square feet.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 250, 1981)
+15. 08.200. Resource zones.
+DCC 15. 08.200 applies to all signs in the
+following zones: exclusive farm use ( EFU),
+forest use ( F), open space and conservation
+OS&C), research and development (R& D),
+floodplain (FP) and surface mining (SM) in DCC
+Title 18; surface mining (SM) in DCC Title 19;
+and park reserve-open space ( OSPR) in DCC
+Title 20. No signs shall be permitted in these
+zones except as provided in DCC 15. 08.200.
+PAGE 8 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006- 006 ( 05/ 10/2006)
+A. Sign Area. One sign shall be permitted, not
+to exceed 32 square feet in area and 10 feet in
+height, for a use not in a platted subdivision
+or in a platted subdivision in which the
+average lot size is greater than three acres.
+For a use within a platted subdivision in
+which the average lot size is less than three
+acres, one sign shall be permitted not to
+exceed three square feet in area and four feet
+in height.
+B. Context. Signs in these zones shall be
+identity signs only, containing information
+directly pertaining to the permitted use.
+C. Location. Signs shall be erected no closer
+than five feet from a street right of way, shall
+be a minimum of 25 feet from an adjacent lot
+and shall be placed on the property upon
+which the use is located.
+D. Illumination. No sign permitted in DCC
+E
+15. 08.200 shall be illuminated, except that
+any illuminated sign existing on the effective
+date of the ordinance codified in DCC 15. 08
+may continue to be illuminated.
+E. Exempt and Temporary Signs. Exempt and
+temporary signs shall be as provided in DCC
+15. 08. 100 and 15. 08.110.
+F
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 140, 1981)
+15. 08.210. Residential zones.
+DCC 15. 08.0210 applies to all signs in
+unincorporatedcommunities as specified in DCC
+15. 08.280 and to all signs in the following zones:
+rural residential ( RR) and multiple use
+agriculture (MUA) in DCC Title 18; suburban
+low density residential ( SR), suburban high
+density residential ( RL), urban standard
+residential ( RS), urban medium density
+residential ( RM), urban high density residential
+RH) and urban area reserve ( UAR) in DCC Title
+19; and limited residential ( R- 1), limited
+residential-planned ( R-2 and R-3), general
+residential ( R- 4) and urban high density
+residential ( R- 5) in DCC Title 20. No signs shall
+be permitted in these zones except as provided in
+DCC 15. 08.210.
+A. Individual Dwelling Units and Home
+Occupations. One nameplate or home
+occupation sign for each dwelling unit. Such
+signs shall not exceed three square feet in
+area and shall be a flat wall sign.
+B. Multiple-family Dwellings. For
+multiple-family dwellings, one sign not to
+exceed 32 square feet in area shall be
+permitted per project. Such signs shall be a
+wall or ground-mountedtype.
+C. Subdivisions and Mobile Home Parks. For
+subdivisions and mobile home parks, one
+ground-mountedsign not to exceed 50 square
+feet in area shall be permitted.
+D. Buildings and Uses Other Than Dwellings.
+For a building other than a dwelling one wall
+or ground-mounted sign with a maximum
+sign area of 20 feet shall be permitted.
+Medical and Dental Clinic. A medical or
+dental clinic in a residential zone may have
+one sign not to exceed 75 square feet in area
+and may have a building directory sign,
+provided the area of such sign does not
+exceed one square foot per occupant of the
+building.
+Illumination. No sign in a residential zone
+shall be illuminated, except that any
+illuminated sign existing on the date of the
+ordinance codified in DCC 15. 08 may
+continue to be illuminated.
+G. Location. Signs shall be no closer than five
+feet from a street right of way and shall be
+placedon the property upon which the use is
+located.
+H. Exempt and Temporary Signs. Exempt and
+temporary signs shall be as provided in DCC
+15. 08. 100 and 15. 08.110.
+Ord. 2006- 006 § 1, 2006; Ord. 97- 067 § 1, 1997;
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 150, 1981)
+15. 08.220. Resort facilities and destination
+resorts.
+DCC 15. 08.220 applies to all signs for resort
+facilities, including resort, community and
+PAGE 9 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006-006 ( 05/ 10/2006)
+recreation buildings and uses, and destination
+resorts.
+the total square footage of the front building
+fascia, whichever is greater.
+A. Entry sign. One monument, ground-mounted
+or freestandingsign at each primary entrance
+from a public road shall be allowed. A
+second monument sign shall be allowed as
+long as the total area of both signstogether is
+no more than 150 square feet.
+B. Directional signs. Directional signs, as
+defined in DCC 15. 08.040 shall be a
+monument or ground-mounted type with a
+maximum sign area of 20 square feet.
+C. Motor vehicle directional signs. Motor
+vehicle directional signs shall be allowed for
+resorts with more than one primary entrance
+from a public road to direct visitors to resort
+facilities. The following criteria shall be
+applicable:
+1. A maximum of two signs for each
+primary entrance shall be allowed.
+2. A motor vehicle directional sign shall be
+a monument or ground-mounted type
+located on- premise, at least five feet from
+any street right of way and outside any
+clear vision area.
+3. Each sign shall not exceed 32 square feet
+in area or eight feet in height.
+D. On- premisesigns. On- premisesigns not
+visible from a public right of way or adjacent
+properties shall not require a sign permit but
+are subject to all other applicable
+requirementsof DCC 15. 08.
+E. Illumination. All signs may be illuminated,
+subject to the requirements of DCC
+15. 08.390 and DCC 15. 10.
+Ord. 98- 061 § 1, 1998; Ord. 97- 067 § 2, 1997)
+15. 08.230. Restricted commercial zones.
+DCC 15. 08.230 applies to all signs in
+unincorporated communities as specified in DCC
+15. 08.280 and to all signs in the following zones:
+neighborhood commercial ( CN) in DCC Title 19
+and special-service commercial ( C-3) in DCC
+Title 20. No signs shall be permitted in these
+zones except as provided in DCC 15. 08.230.
+A. Wall Signs. A business may have a sign area
+not to exceed 32 square feet or two percent of
+B. Freestanding Signs. No freestanding signs
+shall be permitted in these zones.
+C. Ground- mounted Signs. In addition to the
+allowable sign area provided in DCC
+15. 08.230( A), one ground-mountedsign with
+a maximum area 32 square feet shall be
+permitted for each building.
+D. Residential Use. Signs for residential use
+within these zones shall be subject to the
+provisions of DCC 15. 08.210.
+E. Exempt and Temporary Signs. Exempt and
+temporary signs shall be permitted as
+provided in DCC 15. 08. 100 and 15. 08.110.
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 160, 1981)
+15. 08.240. General commercial zones.
+DCC 15. 08.240 applies to all signs in
+unincorporated communities as specified in DCC
+15. 08.280 and to all signs in the following zones:
+limited commercial ( CL), convenience
+commercial ( CC), general commercial ( CG) and
+highway commercial ( CH) in DCC Title 19 and
+zones designatedstrip service commercial ( C- 1),
+central business district commercial ( C- 4) and
+tourist commercial ( C- 5) in DCC Title 20. No
+signs shall be permitted in these zones except as
+provided in DCC 15. 08.240 and DCC 15. 08.250,
+15. 08.260 and 15. 08.270.
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 170 (part), 1981)
+15. 08.250. Businesses not classified in a
+shopping center or business
+complex.
+Signs for businesses not in a shopping center or
+business complex shall be subject to the
+following requirements:
+A. Wall Signs. The maximum sign area
+permitted on a building shall not exceed six
+percent of the area of the front building
+facade if such facade is located less than 250
+feet from the street right of way. The
+permitted area may be increased by 40
+percent provided no freestanding signs are
+PAGE 10 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006-006 ( 05/ 10/2006)
+utilized on the property. The maximum sign
+area permitted shall not exceed 10 percent of
+the area of the front building facade if such
+facade is located 250 feet or more from the
+street right of way. In no case shall the
+maximum permitted area exceed 500 square
+feet.
+B. Secondary Signs. A business may have a
+secondary wall sign where the facade of a
+business has frontage on a second street
+which provides vehicular access to the site.
+The additional area for a secondarysign shall
+not exceed 25 percent of the total sign area
+permitted under DCC 15. 08.250( A) and shall
+be located on that building facade which
+faces the second street.
+C. Freestandingand Ground- mounted Signs. In
+addition to the requirements of DCC
+15. 08.250( A), one freestanding or ground-
+mounted sign shall be permitted per lot
+subject to the requirements of DCC
+15. 08.140 and 15. 08.150 respectively.
+D. Directional Signs. On- premisesdirectional
+signs designed to be read by a person on the
+premises on which the sign is located and
+used to identify or locate an entrance, exit or
+drive-up window, limited to four square feet
+in area and four feet in height.
+15. 08.260. Shopping center complexes.
+Signs permitted in DCC 15. 08.260 shall be the
+only signs permitted in a shopping center
+complex.
+A. Wall Signs. The maximum area permitted
+for a business having a public entrance on a
+street or parking area shall not exceed six
+percent of the area of that portion of the front
+building facade which adjoins the floor area
+of the business, provided such building
+facade is located less than 250 feet from the
+street right of way. The maximum area
+permitted for a business having a public
+entrance on a street or parking area shall not
+exceed 10 percent of the area as specified in
+DCC 15.08, provided such building facade is
+located 250 feet or more from the street right
+of way. In either case, the permitted sign
+area shall not exceed a maximum of 500
+square feet.
+B. Secondary Signs. A business may have a
+secondarywall sign where the business has a
+public entrance on a second street or parking
+area. The additional area for a secondary
+sign shall not exceed 25 percent of the sign
+area permitted under DCC 15. 08.260( A) and
+shall be located on that building facade where
+the secondarypublic entrance is provided.
+E. Motor Vehicle Service or Drive-up Window
+Signs. For a motor vehicle service or
+drive-up window, sign area shall be limited to
+one ground-mounted sign not to exceed 12
+square feet.
+F. Building Directory Signs. Building directory
+signs not to exceed three square feet per
+occupant.
+G. Alley Signs. An alley sign limited to six
+square feet used to identify the business.
+Such sign shall be located at the service
+entrance of the business and shall not be
+located on the same facade as any other sign.
+H. Exempt and Temporary Signs. Exempt and
+temporary signs shall be as provided in DCC
+15. 08. 100 and 15. 08.110.
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 170(1), 1981)
+C. Freestandingand Ground- mounted Signs. In
+addition to the requirements in DCC
+15. 08.260( A), one freestanding or
+ground-mounted sign shall be permitted for
+each street frontage providing direct
+vehicular access into the complex. Such sign
+shall identify the name of the shopping center
+complex and may identify specific businesses
+within the center. Such signs shall be subject
+to the requirements of DCC 15. 08.140 and
+DCC 15. 08.150 respectively.
+D. Directional Signs. On- premisesdirectional
+signs not to exceed four square feet in area
+and four feet in height used to identify or
+locate an entrance, exit or drive-up service
+window.
+E. Motor Vehicle Service Entrance or Drive-up
+Window Signs. For a motor vehicle service
+PAGE 11 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006- 006 ( 05/ 10/2006)
+entrance or a drive-up window, limited to one
+ground-mountedsign not to exceed 12 square
+feet in area.
+F. Building Directory Signs. A building
+directory sign shall be limited to three square
+feet per occupant.
+G. Alley Signs. An alley sign shall be limited to
+six square feet used to identify the business.
+Such sign shall be located at the service
+entrance of the business and shall not be
+located on the same facade as any other sign
+used to identify the business.
+H. Exempt and Temporary Signs. Exempt and
+temporary signs shall be as provided in DCC
+15. 08. 100 and DCC 15. 08.110.
+Ord. 98- 061 § 1, 1998; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 170(2), 1981)
+4. Exempt and Temporary Signs. Exempt
+and temporary signs shall be as provided
+in DCC 15. 08. 100 and 15. 08.110.
+B. Signs for residential and institutional uses
+shall be subject to the requirements of DCC
+15. 08.210.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 170(3), 1981)
+15. 08.280. Unincorporated community
+zones.
+DCC 15. 08.280 applies to all signs within the
+unincorporated community zones, including
+urban unincorporated communities, rural
+communities, rural service centers and resort
+communities as identified within DCC Title 18.
+No sign shall be permitted in these zones except
+as provided in DCC 15. 08.280.
+15. 08.270. Business complexes.
+A. Signs permitted in DCC 15. 08.270 shall be
+the only signs permitted in a business
+complex.
+1. Ground- mounted Signs. A business
+complex may have one ground-mounted
+sign for each street frontage which
+provides direct vehicular access into the
+complex. Such sign shall be used to
+identify the name of the complex. In lieu
+of a ground-mounted sign, the business
+complex may have a wall sign not to
+exceed 40 square feet for each street
+frontage which provides direct vehicular
+access into the complex.
+2. Wall Signs. An individual business
+within a business complex which is
+located on the ground floor of the
+business complex and has direct
+pedestrian access to a street or parking
+area shall be permitted one sign with a
+maximum sign area not to exceed 10
+percent of the area of the facade of the
+individual business which faces such
+street or parking area.
+3. Building Directory Signs. A building
+directory sign shall be limited to three
+square feet per occupant.
+A. For those retail businesses or service
+establishments with a street frontage
+providing vehicular access to a roadway
+designated as an arterial on the County
+Roadway Network Plan, the requirements of
+DCC 15. 08.240 through 15. 08.270 shall
+apply.
+B. For those retail businesses or service
+establishments without direct vehicular
+access to a roadway designated as an arterial
+on the County Roadway Network Plan, the
+requirementsof DCC 15. 08.230 shall apply.
+C. All signs for agricultural or forest uses shall
+be subject to the requirementsof DCC
+15. 08.210.
+D. All signs for residential uses shall be subject
+to the requirementsof DCC 15. 08.210.
+E. All signs for resort, community and
+recreation uses shall be subject to the
+requirementsof DCC 15. 08.220.
+F. All signs for industrial uses shall be subject
+to the requirementsof DCC 15. 08.290.
+G. All signs for airport uses shall be subject to
+the requirementsof DCC 15. 08.230.
+H. All signs for utility uses shall be subject to
+the requirementsof DCC 15. 08.230.
+PAGE 12 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006- 006 ( 05/ 10/2006)
+Ord. 97- 067 § 1, 1997; Ord. 96- 003 § 14, 1996;
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 180, 1981)
+15. 08.290. Industrial zones.
+DCC 15. 08.290 applies to all signs in
+unincorporated communities as specified in DCC
+15. 08.280 and to all signs in the following zones:
+rural industrial ( RI) in DCC Title 18; industrial
+park ( IP), light industrial ( IL) and general
+industrial ( IG) in DCC Title 19; and zones
+designated light industrial ( M- 1) and heavy
+industrial ( M-2) in DCC Title 20. No signs shall
+be permitted in these zones except as provided in
+DCC 15. 08.290.
+A. Wall Signs. For each permitted or
+conditional use in an industrial zone, the
+maximum permitted sign area on a building
+shall not exceed five percent of the area of
+the front building facade; provided, however,
+such sign does not exceed a maximum area of
+500 square feet. The signing shall only be
+located on that facade which faces the street
+where access is obtained.
+B. Ground- mounted Signs. In addition to the
+provisions of DCC 15. 08.290( A), one
+ground-mounted sign shall be permitted for
+each street frontage which provides direct
+vehicular access into the site, subject to the
+requirementsof DCC 15. 08.150.
+C. Freestanding Signs. In lieu of a
+ground-mounted sign as permitted in DCC
+15. 08.290( B), an industrial building may
+have one freestanding sign not to exceed 50
+square feet in area and shall be located
+adjacent to the street frontage providing
+direct vehicular access into the project. The
+maximum height of a freestandingsign shall
+not exceed 20 feet.
+D. Directory Signs. A building directory sign
+limited to three square feet per occupant.
+E. Exempt and Temporary Signs. Exempt and
+temporary signs shall be as provided in DCC
+15. 08. 100 and 15. 08.110.
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 190, 1981)
+15. 08.300. Airport development zone.
+DCC 15. 08.300 applies to all signs within the
+airport development (A- D) zone as identified in
+DCC Title 18. No signs shall be permitted in this
+zone except as set forth in DCC 15. 08.300. For
+signs identifying uses within the A- D zone, the
+requirementsof DCC 15. 08.230 shall apply.
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 195, 1981)
+15. 08.310. Existing signs- Conformance
+required.
+Except as provided in DCC 15. 08.310, signs in
+existence on the date of enactment of the
+ordinance codified in DCC 15. 08 which are not in
+conformance with the provisions of DCC 15. 08
+shall be regarded as nonconforming signs and
+must be removed, altered or replaced so as to
+conform within five years of said date. Signs in
+violation of any prior code or requirement must
+conform immediately.
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 260, 1981)
+15. 08.320. Special requirements.
+A nonconforming sign which is structurally
+altered, relocated or replaced shall immediately
+conform to the requirements of DCC 15. 08
+except that:
+A. A sign may be removed from its sign
+structure for the purpose of repair,
+maintenance or a change of copy within the
+dimensions of the existing sign.
+B. Signs may be structurally altered where such
+alteration is necessary for the public safety.
+C. Such signs may be reconstructed if they are
+moved for construction or repair of public
+works or public facilities and such
+reconstruction is completed within one year.
+D. Such signs may be reconstructed if they are
+damaged by fire, natural disaster or other
+casualty, provided such damage does not
+F. Content. Signs permitted in this zone shall be
+identity signsonly.
+exceed 50 percent of the cost of
+reconstruction of the entire sign, and
+provided that such sign is reconstructed
+PAGE 13 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006- 006 ( 05/ 10/2006)
+within 90 days of the date the sign is
+damaged.
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 270, 1981)
+15. 08.330. Compliance.
+A change in use or occupation of a site shall
+require full compliance with the provisions of
+DCC 15. 08.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 280, 1981)
+15. 08.340. ( Repealed by Ord. 97- 067, 1997.)
+15. 08.350. Abandoned signs.
+A. A sign shall be removed within 30 days by
+the owner or lessee of the premises upon
+which the sign is located when the advertised
+business is no longer conducted on the
+premises. Abandoned signs may be removed
+and costs may be collected as provided in
+DCC 15. 08.350.
+B. Outdoor advertising signs where a person has
+merely leased or contracted advertising space
+need not be moved in accordance with DCC
+15. 08.350.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 300, 1981)
+15. 08.360. Removal of unsafe signs.
+If the Building Official determines that the
+supports, braces, grip anchors, etc. are not kept in
+good repair or safe condition, or if the sign
+presents an immediate and serious danger to the
+public, he may, without prior written notice, order
+its immediate removal or repair within a period of
+time he may specify. The Building Official may
+authorize the removal of such signs in the event
+that the person responsible for such sign cannot
+be found, or after notification, such person fails to
+repair or remove it. The owner of the sign and
+the owner of the building, structure or premises
+upon which the sign is located are jointly and
+severably liable for its removal or repair as
+provided in DCC 15. 08.330.
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 310, 1981)
+15. 08.370. Sign measurement.
+A. Measurement Specifications. The following
+criteria shall be used in measuring a sign to
+determine compliance with DCC 15. 08:
+1. Area or Sign Area. The area of a sign
+shall be measured within lines drawn
+between the outermost edges of a sign
+including nonstructural trim, facing,
+announcement and display, but exclusive
+of essential structural supports. Where a
+sign is of three- dimensional shape, the
+largest cross- section shall be used in a
+flat projection for the purpose of
+determining sign area. Where open area
+is employed between sections, modules,
+characters or words forming the display
+surface, sign area shall be the smallest
+outline which encloses the entire group.
+For a two- faced sign with sign faces
+parallel and not more than three feet
+apart, only one face is measured for
+determining sign area. For a V- typesign
+with not more than three feet between
+display surfaces at the farthest point, only
+one face is measured for determining
+sign area.
+2. Clearance. Clearance of a sign is
+measured from the average grade at the
+base of the sign to the lowest point of the
+sign.
+3. Height. Height is measured from the
+average level of the existing grade at the
+base of the sign to the highest point of
+the sign.
+B. Area of Front Building Facade. When the
+area of the front building facade is used to
+determine sign area, such area shall be
+computed by multiplying the width of the
+building frontage or portion thereof by the
+height of the building or portion thereof
+which is devoted to the particular business.
+False fronts and mansard roofs may be
+included when calculating the area of the
+building facade.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 060, 1981)
+PAGE 14 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006- 006 ( 05/ 10/2006)
+15. 08.380. Permitted materials.
+A. Materials for construction of signs and sign
+structures shall be the quality and grade as
+specified for buildings in the Uniform
+Building Code.
+B. In all sign and sign structures, the material
+and details of construction shall, in the
+absence of specified requirements, conform
+to the following:
+1. Structural steel shall be of such quality as
+to conform with the Uniform Building
+Code Standard. Secondary members in
+contact with or directly supporting the
+display surface may be forged of light
+gauge steel, provided such members are
+designed in accordance with the
+specifications of the design of light gauge
+steel as specified in the Uniform Building
+Code Standard and in addition shall be
+galvanized. Secondary members, when
+formed integrally with the display
+surface, shall not be less than No. 24
+thickness. When not formed integrally
+with the display surface, the minimum
+thickness of the secondarymembers shall
+be No. 12 gauge. Minimum thickness of
+hot- rolled steel members furnishing
+structural support for signs shall be
+one- fourth inch except that if galvanized,
+such members shall not be less than
+one- eighth inch thick. Steel pipes shall
+be of such quality as to conform with the
+Uniform Building Code Standard. Steel
+members may be connected with one
+galvanized bolt provided the connection
+is adequateto transfer the stresses in the
+members.
+2. Wood anchors and supports, when
+embedded in the soil, shall be
+pressure-treated with an approved
+preservative. Such members shall be
+marked and branded by an approved
+agency recognized by the Uniform
+Building Code.
+3. Nonstructural trims, signs under
+marquees and portable display surfaces
+may be of wood, metal, approvedplastics
+or any combination thereof.
+4. Display surface may be of any approved
+material except glass. Glass may be used
+in any neon tubing and incandescent
+lamp and tube.
+5. The Planning Director may require that
+sufficient technical data be submitted to
+substantiate the proposed use of any
+plastic material and, if it is determined
+that the evidence submitted is
+satisfactory for the use intended, he may
+approve its use.
+6. No combustible material other than
+approved plastics shall be used in the
+construction of any electric sign.
+7. Wood may be used in signssubject to the
+requirements of the County's building
+and fire codes.
+8. Wood signs shall be supported by a
+minimum four- inch by four- inch nominal
+post.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 420, 1981)
+15. 08.390. Illumination standards.
+Illuminated signs shall meet the applicable
+provisions of DCC 15. 10, Outdoor Lighting
+Control. In addition:
+A. No sign shall be erected or maintained which,
+by use of lights or illumination, creates an
+undulydistracting and hazardous condition to
+a motorist, pedestrian or the general public.
+In addition:
+B. No exposed reflective type bulb, or
+incandescent lamp, which exceeds 25 watts,
+shall be exposedto direct view from a public
+street or highway, but may be used for
+indirect light illumination of the display
+surface of a sign.
+C. When neon tubing is employed on the
+exterior or interior of a sign, the capacity of
+such tubing shall not exceed 300
+milliamperes rating for white tubing nor 100
+milliamperes rating for any colored tubing.
+D. When fluorescent tubes are used for the
+internal illumination of a sign, illumination
+shall not exceed illumination equivalent to
+800 milliamperes rating tubing behind a
+PAGE 15 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006-006 ( 05/ 10/2006)
+plexiglass-faced space at least nine inches,
+center to center.
+E. No sign may be internally illuminated if the
+wall of the building on which the sign is
+displayed directly abuts a residential zone.
+F. No colored lights shall be used at any
+location or in any manner so as to be
+confused with or construed as traffic- control
+devices.
+G. No sign may be erected or maintained if it
+contains, includes or is illuminated by any
+flashing, intermittent, revolving, rotating or
+moving light or lights, or moves, or has any
+animated or moving parts; however, this does
+not apply to a traffic- control sign or portions
+thereof providing only public service
+information such as time, date, temperature,
+weather or similar information.
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 430, 1981)
+15. 08.410. Design.
+A. All bracing systems shall be designed and
+constructed to transfer lateral forces to the
+foundations. For signs on buildings, the dead
+and lateral loads shall be transmitted through
+the structural frame of the building to the
+ground in such a manner as not to over stress
+any of the elements thereof.
+B. The overturning moment produced from
+lateral forces shall in no case exceed
+two- thirds of the dead-load resisting moment.
+Uplift due to overturning shall be adequately
+resisted by proper anchorageto the ground or
+to the structural frame of the building. The
+weight of earth superimposed over footings
+may be used in determiningthe dead-load
+resisting moment. Such earth shall be
+carefully placed and thoroughly compacted.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 352, 1981)
+15. 08.400. Maintenance.
+A. All signs together with all of their supports,
+braces, guys and anchors shall be kept in
+good repair and be maintained in a safe
+condition. All signs and the site on which
+they are located shall be maintained in a neat,
+clean and attractive condition. Signs shall be
+kept free from excessive rust, corrosion,
+peeling paint or other surface deterioration.
+The display surfaces, trims, frames and
+supports of all signs shall be kept neatly
+painted or otherwise neatly maintained, as
+applicable.
+B. No person shall scatter, daub or leave any
+paint, paste or glue or other substances used
+for painting or affixing a message to the
+display surface of any sign or throw or permit
+to be scattered or thrown any bills, waste
+matter, paper, cloth or materials of
+whatsoever kind removed from a sign on any
+public street, sidewalk or private property.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 340., 1981)
+15. 08.420. Wind loads.
+Signs shall be designed and constructed to
+withstand wind loads as set forth in the Uniform
+Building Code.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 350, 1981)
+15. 08.430. Seismic loads.
+Signs shall be designed and constructed to resist
+seismic forces as specified in chapter 23 of the
+Uniform Building Code.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 360, 1981)
+15. 08.440. Combined loads.
+A. Wind and seismic loads need not be
+combined in the design of signs and only that
+load producing the larger stresses need be
+used.
+B. Vertical design loads, except roof live loads,
+shall be assumed to be acting simultaneously
+with the wind or seismic loads.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 370, 1981)
+PAGE 16 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006- 006 ( 05/ 10/2006)
+15. 08.450. Allowable stresses.
+A. The design of wood, concrete, steel or
+aluminum members shall conform to the
+requirements of chapters25, 26, 27 and 28 of
+the Uniform Building Code. Loads, both
+vertical and horizontal, exerted on the soil
+shall not produce stresses exceeding those
+specified in chapter 29 of the Uniform
+Building Code.
+15. 08.470. Electric sign construction.
+A. The enclosed shell of electric signs shall be
+weather-tight, excepting that service holes
+fitted with tight covers shall be provided for
+each compartment of such sign.
+B. All electrical equipment used in connection
+with such signs shall be installed in
+accordance with the Uniform Electrical
+Code, with state amendments.
+B. The working stresses of wire rope and its
+fastenings shall not exceed 25 percent of the
+ultimate strength of the rope or fasteners.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 372, 1981)
+15. 08.460. Anchorage and supports.
+A. Members supporting unbraced signs shall be
+so proportioned that the bearing loads
+imposed on the soil in either direction,
+horizontal or vertical, shall not exceed safe
+values. Braced ground signs shall be
+anchored to resist the specified wind or
+seismic load acting in any direction. Anchors
+and supports shall be designed for safe
+bearing loads on the soil and for an effective
+resistance to pull-out amounting to a force of
+25 percent greater than the required
+resistance to overturning. Anchors and
+supports shall penetrate to a depth below
+ground greater than the frost line.
+B. Signs attached to masonry, concrete or steel
+shall be safely and securely fastened thereto
+by means of metal anchors, bolts or approved
+expansion screws of sufficient size and
+anchorageto support safely the loads applied.
+C. Unless such wall is designed in accordance
+with the requirements specified in chapter 23
+of the Uniform Building Code, no anchor or
+support of any sign or wall facade for signs
+shall be connected to, or supported by an
+unbraced parapet wall.
+D. No wooden blocks or plugs or anchors with
+wood used in connection with screws or nails
+shall be considered proper anchorage, except
+in the case of signs attached to wood framing.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 380, 1981)
+C. Every electric sign shall have painted on the
+surface of the sign the name of the erector
+and the date the sign was erected. Such name
+and date shall be of sufficient size and
+contrast to be visible from a reasonable
+distance.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 410, 1981)
+15. 08.480. Clearance from high voltage
+power lines.
+A. Signs shall be located not less than eight feet
+horizontally and 12 feet vertically from
+overhead electrical conductors which are
+energized in excess of standard service load
+as determined by the utility company
+providing the service.
+B. The term " overhead conductors" as used in
+DCC 15. 08.480 means any electrical
+conductor, either bare or insulated, installed
+above the ground except such conductors as
+are enclosed in iron pipe or other material
+covering of equal strength.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 390, 1981)
+15. 08.490. Clearance from fire escapes, exits
+or standpipes.
+No sign or sign structure shall be erected in such
+a manner that any portion of its surface or
+supports will interfere in any way with the free
+use of any fire escape, exit or standpipe. Signs
+erected within five feet of an exterior wall in
+which there are openings within the area of the
+sign shall be constructed of incombustible
+material or approvedplastics.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 400, 1981)
+PAGE 17 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006-006 ( 05/ 10/2006)
+15. 08.500. Variances.
+An applicant for a sign permit may seek a
+variance to the provisions of DCC 15. 08. A
+variance may be granted upon a finding by the
+appropriate review body that all of the following
+criteria are satisfied:
+A. The request is not contrary to the public
+interest or the intent and purpose of DCC
+15. 08 and particularly the zone involved.
+B. The variance will not cause a substantial
+adverse effect upon property values or
+environmental conditions in the immediate
+vicinity or in the zone in which the property
+of the applicant is located.
+C. The variance relates only to property that is
+under control of the applicant.
+D. Circumstances or conditions for which the
+variance is requested shall not have resulted
+from any act of the applicant, or his or her
+predecessors or agents, subsequent to the
+adoption of the particular zoning regulations
+from which relief is sought, and thereby be
+used as justification of issuance of a variance.
+E. The request is the minimum variance
+necessary to alleviate the hardships or
+practical difficulties.
+F. There are exceptional or extraordinary
+circumstances or physical conditions such as
+narrowness, shallowness, shape or
+topography of the property that do not
+generally apply to either properties or uses in
+the same zoning district.
+G. The variance is necessary for the preservation
+of a substantial property right possessedby
+other properties in the same zoning district
+and where such variation would result in
+comparatively trivial detriment to the
+neighborhood, and such variation of DCC
+15. 08 is clearly outweighed by benefits to the
+neighborhood or to the public safety,
+convenience or general welfare.
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 86- 028 § 1, 1986; Ord. 81- 009 § 1, Exhibit
+A, § 1. 440, 1981)
+15. 08.510. ( Repealed by Ord. 97- 067,1997.)
+15. 08.520. Conditions.
+In determininga variance, the review body may
+approve all or a portion of a variance request and
+may attach such conditions as are necessary to
+achieve the purposes of DCC 15. 08.
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 440 (part), 1981)
+15. 08.530. Inspection.
+The Planning Director and Building Official may
+inspect signs periodically to determine their
+conformance with DCC 15. 08.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 320, 1981)
+15. 08.540. Enforcement.
+The Planning Director is authorized and directed
+to enforce the provisions of DCC 15. 08.
+A. Removal of illegal signs. The Planning
+Director may order the removal of any sign
+erected without a sign permit or otherwise in
+violation of DCC 15. 08. Except as provided
+in DCC 15. 08.360, the Planning Director
+shall give 30-day written notice to the owner
+of the sign or the owner of the building,
+structure or premises upon which the sign is
+located to remove the sign or bring it in
+compliance with the provisions of DCC
+15. 08.
+B. If the owner of the sign, building, structure or
+premises upon which the sign is located has
+been notified pursuant to DCC 15. 08.540 and
+fails to comply or remove the sign, the
+PlanningDirector may order the removal of
+such sign at the expense of the owner of the
+sign, building, structure or premiseson which
+the sign is located and such costs and
+expenses including, but not limited to, the
+notification, efforts to secure compliance,
+sign removal, storage and transportation, may
+be a lien against the land or premises on
+which the sign is located and may be
+collected or foreclosed in the same manner as
+liens are entered in the lien docket of the
+County.
+C. Any sign removed by the Planning Director
+shall be stored for a period of 30 days from
+the time the person responsible for the sign is
+PAGE 18 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006-006 ( 05/ 10/2006)
+notified as provided in DCC 15. 08. At the
+expiration of the specified time, if the person
+responsible for the sign has not reclaimed the
+sign as provided for in DCC 15. 08.540( D),
+the Planning Director may destroy the sign or
+disposeof it.
+D. To reclaim a sign removed by the Planning
+Director, the person shall pay to the County
+as directed, an amount equal to the entire cost
+incurred by the Director as provided for in
+DCC 15. 08.540( B).
+Ord. 97- 067 § 1, 1997; Ord. 95- 063 § 1, 1995;
+Ord. 81- 009 § 1, Exhibit A, § 1. 330, 1981)
+15. 08.550. Violation declared a nuisance.
+The location, erection, construction, maintenance,
+repair, alteration or use of a sign in violation of
+DCC 15. 08 is declared a nuisance.
+Ord. 95- 063 § 1, 1995; Ord. 81- 009 § 1, Exhibit
+A, § 1. 480, 1981)
+15. 08.560. Violation.
+Violation of any provision of DCC 15. 08 is a
+Class A violation.
+Ord. 2003- 021 § 32, 2003; Ord. 95- 063 § 1,
+1995; Ord. 83- 025 § 1, 1983; Ord. 81- 009 § 1,
+Exhibit A, § 1. 460, 1981)
+PAGE 19 of 19 - EXHIBIT " A" TO ORDINANCE NO. 2006- 006 ( 05/ 10/2006)
+110
+O
+O
+N
+W
+U
+Q
+z
+O
+I-W
+H
+W
+O
+U
+N
+N
+O
+O
+U 0.6
+V)
+Q)
+U ~
+Q y
+bA ~
+ii
+U
+n
+O
+H
+b
+iG
+b o 3
+rib
+5
+a~
+3 o ~
+v
+0 3
+00
+O
+CU
+cd
+F c Go
+U
+h
+0 y o
+o
+3 v a a
+C U
+a oQy
+2 AC14
+ro-
+C;
+N
+toy
+ew ° a
+RS
+3a w 00
+o
+W w
+U
+t 0 w
+O
+Rt t3 U O h
+p
+U
+V N `ti
+ti
+O
+a k
+i
+O v"t~ 4:
+p Ci t3 ' v
+p v ON
+W
+p h
+V
+O
+in
+a
+F'' ~ 0 0
+A o o
+w
+v
+b A
+9
+ova
+w co,
+o o F" 7a
+Im
+v
+0-OA
+nc' s1
+3 op
+Ro.
+M
+L, U
+xA
+O Ly ~ ~ . ~ G
+b
+c,O., 4.4
+O N
+C) ro,
+rr+ '
+Oy «3 Ox
+W ' tj 7. U
+C
+unda°O
+c
+ono
+p y O
+N
+a d x o
+O pp y fi
+0
+d v
+Q
+v
+h O
+y
+s
+O Ti ~ y O 'ZS
+co~
+O ~ U U E^. Cf
+O
+H ~
+as
+0 0
+U ~ o 0
+A o 0
+0
+0
+N
+0
+O
+0
+0
+0
+O
+N
+O
+7-
+w
+u
+z
+Q
+0
+rx
+O
+O
+CO
+z
+X
+w
+c:.
+O
+w
+C7
+Q
+a,
+I' D
+0
+0
+N
+W
+U
+z
+Q
+z
+0
+0
+H~
+JC
+c oo o o 3. d
+a w cd b4
+o IU
+w
+3 E 2
+a s o
+o
+oc
+4
+o
+w
+v
+0
+0
+3 c
+L.
+w v
+Ln
+o
+m
+V)
+0 0
+o
+w 43
+co 0 L1
+c
+4)
+o
+v
+ed o
+o
+o
+o v
+c ;
+q w o
+o
+o a
+o"
+o U o c o
+a c
+0. 0
+Q
+w
+x
+y o o
+c 3 eO
+a b~U V > U -
+p N a~~ «i
+y
+i
+Q
+ctl vpi C c~0 p r
+C o y
+C m Old
+U Vi
+yy
+0
+N O
+c~
+C
+Qf~ a~
+Q. RI
+U
+J~ ti
+a~ 3
+cd a
+y o a a a, E A
+E VI C~ 'N
+o
+U
+C
+5
+r~
+a
+3 c 3 o,o
+U0
+a
+y v
+N RI
+Qb aa
+3
+Ln.
+ado
+4A
+u
+Ud Ccd
+p
+N
+1
+a p x a
+C O
+c
+p
+o " o - O
+N 1 p v O,
+N
+Cv
+S
+O
+N
+o
+V 0
+a a ap o 1n y y
+En
+C
+c
+30 N
+U
+H cn o To o Qcn
+V cd N M N C~ W N OOI
+W C7U
+4
+CZ
+H
+Z
+v
+rs
+o b9
+h
+a r
+y
+cc
+o h eo o
+o
+4
+d
+fi
+3h o
+y
+Q
+h
+C O
+a' ~
+O fi U U
+CS d
+O
+Q
+r
+h
+O
+b
+fi
+y Q y
+a o 'ra s a o 0
+C
+j
+h ec
+zi ;
+Q a' ti o0 0 o
+v
+y O
+fi U fi fi zs SZ
+i! U 4 p
+d
+Oki U U
+13
+O rz
+O y C O O O mo
+U cy
+yU Zs
+s t
+U h 3 U U
+ZS o,
+Cs
+r4
+u CQ c nG W
+U o o 0 0
+Q
+00
+O O O N N
+0
+a
+N
+Cl
+O
+0
+0
+0
+0
+O
+z
+w
+U
+z
+Q
+Z
+C
+nG
+O
+Cq
+x
+w
+i
+u.
+O
+N
+W
+Q
+a
+0
+0
+N
+W
+z
+Q
+z_
+0
+Ln
+H
+GQ
+x
+w
+Nao U.~c 3C cw4)
+E
+ou = 0 c
+y
+O
+o oc
+6.
+v U y a~ c~ ~ u. a
+w
+o
+y
+N
+C13U U
+cc
+a y `O ° ° c
+0
+U
+o
+d N
+y .
+DQj 0 E
+c 0
+y
+91-
+0
+0 o y i
+S a
+oE4 Z
+E
+ca.
+b a v 8
+wca c4
+O "0 p CO
+c O C
+V R, vay R
+q
+c&- C
+O cd
+w°. a82 y o
+2
+a~
+p
+H
+Eb
+cd
+y
+a
+O °O
+o
+c
+a y a Cy o v. c
+N. y o O E
+ma
+o
+C
+N
+Z M
+y
+0
+Os w OoC, .
+G
+O eUq «
+f > C
+p
+r V Z7
+4
+G. p. Z O v i W ct En C% U c~ N O~
+A d Q
+cl
+y
+O
+i
+q3b d
+ao
+a y
+o
+o
+14)
+a o 1
+i
+i fi o a
+V V v U JC v U
+v
+F'' ~ d0 0 o
+A N N M
+N
+M
+0
+0
+N
+O
+O_
+0
+0
+0
+0
+N
+W
+U
+z
+a
+z
+Q
+O
+O
+o~
+ao
+z
+X
+w
+m
+W.
+O
+f~
+W
+Q
+a
+0
+0
+N
+w
+u
+Q
+O
+W
+F'^
+CQ
+X
+w
+C *O UC
+I
+sU.
+O
+10,
+bq
+y t b
+o
+b G> Cn
+rw.
+p C
+N
+C rn
+o p p C R7 O O
+C C
+y
+o a v 3 E o
+a
+0 a n b a E0 H
+U E y
+d 3 0
+ai o en v
+a a 0n W o U
+00 k
+r, . 5
+C
+p
+N E O U• E b 4r 3
+b
+a to z
+A U S a oo [b
+vim,
+v
+u
+3
+q• ti
+E w
+O te D '
+0- 0 3 s v
+0
+c 510-00 rW. ow
+Ln 2'
+0 C 4, O
+a
+C O O
+C y i. to 2 ° C
+gob)
+0
+F~+y y or 0. C U b
+2
+1
+L y~ y 5 3
+EJ
+14 EN
+a i o° v 0 0 oE0
+TJ
+NC
+F^
+t5
+v1 off o
+6
+U•5
+0 tw" a 2.2
+M=in
+C C
+0 " a
+L40 ow m ., 0.
+a
+O lz
+t
+U
+b
+N O-0
+d O17 7L
+C O O
+o
+y h
+o o ao ti oo o
+c
+ti
+22
+fi fi 0
+A Co
+C O
+OVip V fi
+v ~
+p
+fi
+ti V U°•r° UO
+00
+r,
+o
+F, ~ Q
+V y O O O O
+j 00
+o 0 0 0
+A d O O
+N
+o0 00 00 00 06
+CD
+0
+0
+N
+O
+kn
+O_
+O
+O
+O
+N
+O
+z
+w
+U
+z
+a
+O
+W
+00
+2
+X
+w
+M
+w
+O
+LL)
+C7
+E
+a
+0
+N
+w
+U
+Q
+z
+O
+AO
+ryC
+w
+td O dA 0Y " d O
+y.° 3
+V 0 +
+O
+V ^
+p pWes'.,
+l7
+p $i p
+o~Oa Vw
+NN V a~ E QC6 a
+V)
+c
+o i t cd
+co
+Vj 0 CA
+CO O O V
+O
+Gp V O q
+c0
+cd
+y
+c
+O
+p, a w- E
+o
+a
+4a;
+G o c oA
+C: N°
+d oy
+Ey o
+z 00
+is
+to p
+y
+cC
+c
+U y
+c
+U td b y.
+U 00 U
+U
+o
+o p v o°'n c co a v
+V c) a c 1 O ( n
+co 13
+U U V1 D
+N . y a N O
+y
+U4,
+G> Q a C co
+s
+a~ 00 H^
+L.
+V a y
+00 0 i' 7
+p
+3 U co C tS:/J
+o
+ca 6 o cd w w 3
+yC y
+y
+y V?
+N O G C _ CO O N bN O o= c
+0 to W)
+wa -P. ~y a
+V p
+0
+p M
+i eq pv I
+U.
+0
+1
+y
+al Q!
+cd
+b - v w p 9
+c
+0
+C c
+y obQ c
+ti
+U A
+O
+N O>
+In id C
+yb
+E Z3
+E
+N"
+0. 0 . 0 rwV . c cd rn a E vi O N z
+U~~ 0 r,-r m~ U
+O z p ei
+cc
+V
+Z
+U
+O U O
+N U
+b
+bq
+O Q o p Ct
+0 o
+O
+n
+d Op
+40 q
+o
+06
+ea
+n~
+V V ti bo ti y Q
+W o6
+QV V CS V ~
+W
+00
+V., C
+b
+c
+td
+d AV
+V V2 vo
+0 0 0
+Q D N
+M
+00 00 00
+0
+0
+N
+O
+O_
+0
+O
+0
+0
+N
+O
+z
+w
+U
+z
+a
+z
+O
+MO
+W
+W
+X
+w
+M
+W.
+O
+v,
+W4
+L)
+d
+a
+N
+w
+u
+Q
+z
+0
+0
+H
+f-~
+w
+w
+uo
+A why E on
+cd - r7
+U~a~i
+i NC>,
+C: c U
+4) cdtn '
+A
+xcrd
+t
+y
+o
+V CO
+b O N 4+
+y300 oo 0~ Cd
+L. G wa
+o~
+n
+w
+r
+o
+10 111UO
+O
+n ~ ~
+y $ O ~
+O
+cn C3.. y 6J O ~ c~ bX y
+O O S
+y
+CF vi
+d
+vi v-
+h
+Np
+O
+y
+a i
+a+
+v 3
+vi
+C
+Q bAC O
+bA ed oo
+0
+4~ ~
+r
+a
+U_
+vc c v o
+4~ 0
+4zo h A U
+O'^ U Ca OQ
+o
+tz 4
+0 q 72 7s ' E
+C
+06 0
+Ey d O~ C h N
+I.
+pO
+Uy y
+O
+C o
+wO •
+4
+2
+4~
+L
+y y • b
+O a
+o0 l
+y ° O
+cd
+p
+C3 C
+b
+2
+o '
+C
+c
+U Q
+G i
+4,
+tw
+f~
+M
+E
+A
+t= v, o a
+C C U c•+d ' C -
+rn
+cat 2 C
+c o0 00
+y
+M
+a U GOo W 'voi b e
+o o
+O
+w y ~
+fi
+v 0
+bo o v
+V C
+l
+V'~ V
+b I
+n
+u GU
+U
+U
+O
+A
+o
+M
+06 o
+OC
+0
+0
+N
+O
+O_
+O
+O
+O
+O
+O
+z_
+w
+U
+z
+Q
+z
+0
+0
+as
+E-
+aq
+z
+X
+w
+r')
+w
+O
+w
+V
+n.
+0
+N
+W
+U
+d
+z
+O
+O
+H
+as
+H
+J.l
+knU ~ d.- c o c
+4• R
+d U
+y
+00
+0
+00 ( A
+tQ
+7S
+o bU
+E-A
+y v
+co
+o
+U c
+0-- E N C4 p>
+a
+l
+c
+7;>
+co
+c c
+2E
+o o
+1
+3a.c
+R
+o
+cil 30
+pQ -- d A Xia b
+0
+Q
+oQ
+C; 2 C) ti
+i
+o
+a
+E
+c* m
+U
+CD
+v a> a 2
+b °
+E
+E
+0 p v o ai
+cn a ° ' c
+a
+4
+r y ' x'J
+in N O
+at TJ E - O y N cd a~
+00 0
+0. 0 U v uMUcw A O O
+V)
+ro b w aXiQ cdI 8, N'I d tAI ti oyl a ac i c
+cV 7"
+w
+o 0
+fA)
+h
+o~i n~i O O O
+w oVi oVi
+C
+d o 0 10 ia yo
+E E
+d o o 0 0 0
+h
+V
+y
+v
+k
+W
+v o i
+o
+e i v v
+o
+U ° a, U a,
+o
+U
+o
+U
+o
+U
+y cd D V ti
+N
+M
+c7 x A w
+V O o o a
+0 0 0 0 0
+9z G G 10
+00 00 00
+a,
+oo o
+0
+N
+O
+V\1
+O
+0
+0
+0
+0
+N
+O
+z
+W
+U
+d
+Qz
+a
+O
+O
+F-
+W
+F-
+m
+z
+X
+w
+M
+W.
+O
+w
+V
+Q
+a
+C?
+0
+O
+N
+w
+U
+Q
+z
+O
+0
+00
+E•~
+w
+O O >
+a•
+C >
+4 a•
+N C: O a~i
+a~ cd
+j o v; i
+w
+C
+a
+oon'`2 0
+c~ C
+v
+N
+N
+f
+a C a a ~°Oa. o_bo~lAx
+0as
+U N
+5U
+g~ u V Up Ca U
+U O O
+za.~ ~ a
+O O c~ . V
+w
+O C
+c
+O O C
+ev
+O p C
+vi u
+0C
+w '
+pb O c... - O
+L U
+p 0
+3
+Nj
+40 a4 0
+z
+a~ o
+a 3
+a ob
+Ln
+M
+c
+v z
+U 7
+y
+v o cn
+v c
+b y
+d-
+N
+y
+z rn a H
+S Uaj Ez yv ~ 3 0
+O
+a.
+NI O I C
+co
+I '
+th
+I. C
+a
+N N O 1
+cq 0
+U U C cOd X O a. v' N
+U v 0
+a ado °
+cl 0
+n
+cL~
+2:
+a,
+a a~c> o
+O 40.O U~ V
+O
+o -
+C v~ y ~ l
+V
+V
+Q O p
+U E , QyQ
+wA
+y t
+OR yc~A0
+TV
+O ~, cd
+ob
+s
+O o C
+M.
+o a W
+r~a~
+o° U i o o v U
+o E- a.i~. a 3cn UU ° Oa, za. CVO' E No. Ny
+l a~ oO)
+p j ~OOa
+kn ozvE E>
+O
+v
+t3 t3
+b O O O d fi d
+O of
+fi d
+O N
+I
+O
+y h h h
+O O
+13
+a t3 CS C3
+fi
+06o
+O
+ti
+v v
+o g a
+r
+V V V V
+u
+U Q
+W
+U °v V °v U° U v V° v
+00
+V O O O O O O
+j
+Ca
+o 0 0 0 0 0
+o o o, o o
+06 00 00 06 00 00
+0
+0
+N
+O
+0
+0
+0
+0
+O
+N
+z
+W
+U
+z
+Q
+z_
+0
+aq
+X
+w
+i
+w
+O
+00
+w
+v
+Q
+a,
+C>
+0
+0
+N
+W
+U
+Q
+z
+H
+W
+E-y
+W
+x
+W
+a`di o
+0
+V) w w w
+a w cd C Q ~ ~ ca o
+54 5 + t ca
+o o
+o6 v U
+G
+w. o~w
+o.--- s
+4
+v
+U
+a
+U.
+to
+0 3
+cd to cd rn
+E o
+N
+F,
+vA i 5 o CD ob v
+N
+v o
+Ecw v C v ` 0b
+v
+ti ~ O
+v
+y
+u 79b '
+J 4)
+000z C ` ca
+e o
+x
+0 rc+b5 o 0
+00 n
+oar G 0 = 3
+h
+03 t
+o
+v nj
+C
+75
+C W CO
+Vi
+MEC
+i y y 4)
+C1 •
+cd
+O1
+O C
+y
+cd ,
+o
+o ILI,
+U fit. o
+Q
+o
+u
+i v
+o o
+CO
+cd
+3 v
+G
+cn
+X
+Vl
+cd o bo d o
+14
+y
+b o b
+D
+N
+0
+o > o ° n v N ai c= i
+cigW
+0q Cd
+45
+as e~ U
+a d
+a a
+cd C.
+a c r i ° c
+H
+X c u. 5 5S o a~ c
+c' o
+a i c a c
+o 9 E bn o3c
+o
+C Q
+ti U U cd
+n
+c
+i v o a?
+o v
+a
+y c
+e EL
+y c v
+a
+y y c v cs s ai ai rv ° El)
+y a rj j N .~ Uc
+ca
+Q CD
+V
+v
+O bQ s
+Nv
+C
+v
+y SZ h
+v
+r
+Nt O
+O U _ y
+O OU
+h q' Q-V00
+4z
+h O
+C~
+ti S R Q b
+CVv ~ 4 ° U° V ~
+G N
+r . r X GQ QfiF
+V1 00
+U
+vA
+o o 06
+Q rl
+N_
+00 00 00 00
+0
+0
+N
+O
+Lr)
+0
+0
+0
+o
+0
+0
+N
+O
+z
+W
+U
+z
+Cz
+a
+F-
+m
+X
+W
+M
+LY
+0
+o.
+W
+V
+Q
+a
+C)
+O
+O
+N
+W
+U
+z
+z
+Q
+LLB
+O
+H
+C~
+x
+W
+a, a
+rs
+U. j
+u
+V cd~ o
+O
+l
+G
+U 8 N
+C b
+G
+O
+o rs
+y
+O G
+Vl C n
+l
+T7
+ti
+J O
+G~ c O 6b 5
+v
+d fn
+3 U
+C z
+G ii
+co
+W
+o
+a 0tn
+p bC
+a
+J O I7 c0 va i
+C D pp
+v o a V
+V
+w 0 C U . La.
+l
+O
+i
+E
+y y O Q'b
+p
+t0 U
+4.
+U~
+O
+00 > >
+2 2
+06
+V" O 00 Q
+4
+4i U a 00 N Oa,.
+r r a . Rf . ~ ctf C2. CCf
+U N M
+Q
+w S
+V
+w
+o
+o
+40
+O Z
+L7 tl
+O
+W
+U
+M
+00 0~
+O p
+N
+U
+U
+ci o
+A
+06
+N
+06
+a
+v
+C O O
+cadco
+v + 9 co
+O
+00
+c 0
+N
+O y
+vu,
+c
+v
+3
+x
+ti o CASo
+sI 4. O d U a:
+w O co
+n c
+y
+b y _
+6 O
+U
+S1 C ^ 1) Co
+y
+7U., frV Y
+H
+j
+U IV E
+E S
+a
+U t-~
+cC C ~ n
+R1
+o
+0>
+cz 60
+dsz
+O p .p p
+a1 of
+zs
+v
+Rao
+o ~ fi
+v o 4. o
+O
+oCy p. st
+i 3
+ti
+Z3
+Od a •S
+N
+b
+Q D
+u
+o
+0
+U
+A N N
+N
+N
+N
+N
+0
+N
+O
+O_
+O
+0
+0
+0
+N
+O
+z
+W
+U
+Q
+qz_
+CMG
+O
+O
+cq
+G~
+x
+x
+W
+w
+O
+0
+W
+V
+Q
+a
+C>
+N
+W
+V
+Q
+z
+W
+O
+H
+x
+cv~ 'C7 ,
+ca t0
+Q
+ca p ~ U O e~V
+E 0. 5 C~c C
+2 O LUG
+v O
+01 y a~i O m o w
+l
+r- to
+bc v
+N
+0.
+U a~0
+U 0 ~
+OO
+O E
+U
+0- y
+co O
+y j ~ Cu p
+p> O
+O r.. O CO lV G -
+0-
+r
+c4; v) rn N
+1
+L7 C d
+r
+t
+J " p Ll. O,
+O
+N' bQ N
+W
+tq ' C
+OF-so
+O
+p
+c
+7 c~V i of
+r
+C) O N
+W
+N N U
+0
+co to u o0r
+rp CC r N
+a~
+r,
+N 4N •
+5 N
+L
+i+
+O
+a r+ G r r '-
+o
+8. 0
+O r
+a o
+p cd
+d ~ b
+b
+v 3
+LO) 0
+4 0 8- UO
+a~ G a> >
+to O O
+C
+a. c~w°
+w
+y o
+y
+L:. y wV
+J. 0
+C° cl v
+U a
+o •
+U
+v v
+ti0 p fi
+C1
+Ci t3
+S Q
+y a
+1
+v
+Ct
+c tz
+U v U v
+U D
+0
+et
+0
+v
+v
+N
+r
+N
+N
+N
+N
+N
+0
+0
+N
+O
+0
+o
+0
+O
+O
+O
+N
+O
+z
+w
+u
+Q
+z
+Q
+O
+O
+Cn
+F-
+Y
+X
+W
+M
+w
+O
+W
+a
+a
+C)
+1O
+O
+O
+N
+W
+U
+Q
+z
+X
+W
+b
+u ' cd
+O
+3 o
+U ~ U U
+O CA~ ~
+b . v b
+O
+s O A
+O
+r O a
+0 G
+LY r`ri
+G ~ 4 OA r ' 3 O
+N
+v y C O b O Vj y 4: a, N
+r
+O t b p Fn U C U cJaj
+0.8 o a
+UU
+3A
+of
+3 ~=~~~v
+v c v c o o
+yi v
+o E
+o
+o 0 0 o
+r~
+c d v o r,
+d d" ec
+N Sfy1y w O o
+e
+0
+U n
+C
+G
+UI
+CL v
+J
+5 n x
+cd
+no c r e~ a' o ppy
+1010 (
+4 o oW
+SE
+a
+a~.
+o =
+a
+O
+G
+N b
+GCpl ~
+d ' b
+id
+o G
+y C c
+p. M 4.
+y
+G
+h a 1-.2
+o 3c-
+3 a ° T w
+I
+n
+g o
+o
+0. L-I
+1 o~ . G
+u o
+N
+Q
+O A cV y
+G
+G
+U y OU
+U
+I
+C
+C y
+O
+p
+c U
+G td
+c
+j y
+n G
+Q Q O o w o. j O Cd cvl
+Q tW
+C
+ti
+IZ,
+O O
+iO
+0
+a d
+0
+4~ o
+V
+t~m
+7
+v u Q
+b h b
+aC i v
+Q W
+O
+O
+O
+O
+0
+M
+0
+M
+N
+N
+N
+N
+0
+0
+N
+O
+O
+O
+O
+O
+0
+N
+W
+U
+z
+z
+0
+x
+0
+W
+M~
+W
+T
+C
+W
+I
+M
+Cz.
+O
+N
+W
+C7
+O
+N
+W
+U
+z
+Q
+z9
+W
+r
+W
+ic1 U. G
+U
+U
+J J
+G U
+C
+cd
+C} V A E
+O
+yID
+O U
+b
+U
+G C
+n
+C
+iJ d Gb
+o ar
+c
+C-1
+y is
+C: 0 b 0 z 3
+C C
+E
+1 cJ O
+CA
+Ca
+E M
+1
+J
+ar
+p
+U o
+G
+c
+U
+Cl O
+C t U u
+E
+i
+A c~ C l' v
+0
+0
+N
+O
+O
+O
+O
+O
+O
+N
+W
+U
+Q
+z
+0
+0
+i~
+as
+x
+w
+i
+M
+u.
+O
+M
+W
+Q
+a

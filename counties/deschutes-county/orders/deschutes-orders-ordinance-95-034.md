@@ -1,0 +1,784 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-95-034
+title: 'Ordinance No. 95-034'
+doc_type: ordinance
+citation: 'Ordinance No. 95-034'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616728175_1995-17141-Ordinance%20No.%2095-034%20Recorded%205_18_1995.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 16426072bb588a85c9d5e64f9ff8cd5ed4ea0add92d6f0dbc605cc084906b6f1
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 95-034 (Ordinance No. 95-034)
+
+## At a glance
+
+Ordinance No. 95-034 — orders of Deschutes County. 13 pages.
+
+## Full text
+
+REVIE D
+55" 17141
+LEGAL COUNSEL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 10, *
+t ,_ ; U,
+Vehicles and Traffic, of the
+Deschutes County Code and
+Declaring an Emergency. * - A
+ORDINANCE NO. 95- 034 0146- 1039
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. Amendment. Title 10, " Vehicles and Traffic," as
+amended and as presented here in its codified form is further amended
+to read as set forth in Exhibit " A," attached hereto and by this
+reference incorporated herein, with new language in bold type and
+deletions noted in brackets.
+Section 2. Severability. The provisions of this ordinance are
+severable. If any section, sentence, clause or phrase of this
+ordinance is adjudged to be invalid by a court of competent
+jurisdiction, that decision shall not affect the validity of the
+remaining portions of this ordinance.
+Section 3. Codification. County Legal Counsel shall have the
+authority to format the provisions contained herein in a manner that
+will integrate them into the County Code consistent with the Deschutes
+County Form and Style Manual for Board Documents. Such codification
+shall include the authority to make such changes, to make changes in
+numbering systems and to make such numbering changes consistent with
+interrelated code sections. In addition, as part of codification of
+these ordinances, County Legal Counsel may insert appropriate
+legislative history reference. Any legislative history references
+included herein are not adopted as part of the substance of this
+ordinance, but are included for administrative convenience and as a
+reference. They may be changed to correct errors and to conform to
+proper style without action of the Board of County Commissioners.
+Section 4. Repeal of Ordinances as Affecting Existing
+Liabilities. The repeal, express or implied, of any ordinance,
+ordinance provision, code section, or any map or any line on a map
+incorporated therein by reference, by this amending ordinance shall not
+release or extinguish any duty, condition, penalty, forfeiture, or
+liability previously incurred or that may hereafter be incurred under
+such ordinance, unless a provision of this amending ordinance shall so
+expressly provide, and such ordinance repealed shall be treated as
+still remaining in force for the purpose of sustaining any proper
+action or prosecution for the enforcement of such duty, condition,
+penalty, forfeiture, or liability, and for the purpose of authorizing
+the prosecution, conviction and punishment of the person or persons who
+previously violated the repealed ordinance.
+ff
+PAGE 1 - ORDINANCE NO. 95- 034 ( 5/ 17/ 95)
+IWAYI 1; `
+0146- 1040
+Section 5. Emergency. This ordinance being necessary for the
+immediate preservation of the public peace, health and safety, an
+emergency is declared to exist, and this ordinance takes effect on its
+passage.
+DATED this 17th day of May, 1995.
+BOARD OF COUNTY COMMISSIONERS
+O DESCHUTE COUNTY, OREGON
+BARWf H. SLAUGHTER, Ch4irman
+ATTEST: NANCY POPE SCH GEN, Commissioor
+Recording Secre ary RO RT L. NIPPER, CoAmissioner
+PAGE 2 - ORDINANCE NO. 95- 034 ( 5/ 17/ 95)
+v
+EXHIBIT " A"
+Title 10
+VEHICLES AND TRAFFIC
+Chapters:
+0146-- 1041
+10. 04 Traffic - control Devices
+10. 05 Right of Way Signs
+10. 08 Repealed by Ord. 94-058 § 1, 1994)
+10. 12 Vehicle Size Restrictions
+10. 16 Parades and Processions
+10. 20 Inventory of Impounded Vehicles
+0146- 1042
+Chapter 10. 04
+TRAFFIC - CONTROL DEVICES
+Sections:
+10. 04. 010 Barriers and gates -
+Designated -Statutory
+authority.
+10. 04. 020 Barriers and gates - Installation
+conditions.
+10. 04. 010 Barriers and gates - Designated -
+Statutory authority.
+Barriers and gates on and across roads and
+highwaysunder the jurisdiction of the county
+shall constitute " official traffic - control devices"
+within the meaning of Oregon Revised Statues
+section 487. 005. ( Ord. 81- 054 § 1, 1981)
+10. 04. 020 Barriers and gates - Installation
+conditions.
+Official traffic -control devicesconsistingof
+barriers and gates on and across roads and
+highwaysmay be establishedby resolution of
+the Board of CountyCommissionersupon and
+across any road or highway under the
+jurisdiction of the county for the purpose of
+prohibiting motor vehicle traffic on the road
+or highway beyond the barrier or gate so
+established. ( Ord. 81- 054 § 2, 1981)
+Chapter 10. 04 1 ( 5/ 95)
+Chapter 10. 05
+RIGHT OF WAY SIGNS
+Sections:
+10. 05. 010 Introduction.
+10. 05. 020 Definitions.
+10. 05. 025 Definition - Administrator.
+10. 05. 030 Definition - Applicant.
+10. 05. 035 Definition - Business sign ( logo).
+10. 05. 040 Definition - Directional
+information.
+10. 05. 045 Definition - Directional sign.
+10. 05. 050 Definition - Erect or construct.
+10. 05. 055 Definition - Maintain.
+10. 05. 060 Definition- MUTCD.
+10. 05. 065 Definition - Qualified motorist
+business.
+10. 05. 070 Definition - Reconstruction.
+10. 05. 075 Definition - Responsible
+operator or owner.
+10. 05. 080 Definition - Sign panel.
+10. 05. 085 Definition - Tourist - oriented
+directional sign.
+10. 05. 090 Definition - Trailblazer.
+10. 05. 100 Prohibited uses.
+10. 05. 110 Exemptions.
+10. 05. 120 Sign types.
+10. 05. 130 Application process.
+10. 05. 140 Composition.
+10. 05. 150 Fees - Installation and
+maintenance.
+10. 05. 160 Criteria for specific
+information panels.
+10. 05. 170 Spacing of signs and panels.
+10. 05. 180 Violation - Penalty.
+10. 05. 190 Nuisance declared - Removal.
+10. 05. 010 Introduction.
+This [ ordinance] title is enacted to establish
+standards and procedures for signs to be
+installed and maintained within public rights
+of way which fall under the jurisdiction of the
+Board of County Commissioners, and which
+are necessary to meet the needs of the
+motorist in locating public recreational
+facilities and services open to the general
+Chapter 10.05
+0146- 1043
+public. This [ ordinance] title shall be known
+as the DeschutesCounty Road Right of Way
+Sign Ordinance. ( Ord. 95- 034 § 1, 1995; Ord.
+90- 011 § 1 ( part) 1990)
+10. 05. 020 Definitions.
+The following definitions apply to this
+ordinance:] chapter as set forth in 10. 05. 025-
+090. ( Ord. 95- 034 § 1, 1995; Ord. 90- 011 § 1
+part), 1990)
+10. 05. 025 Definition - Administrator.
+Administrator" means the Public Works
+Director or his designee for Deschutes
+County, Oregon. ( Ord. 90- 011 § 1 ( part),
+1990)
+10. 05. 030 Definition - Applicant.
+Applicant" means a person or entity
+applying for a permit to place signs, logos or
+sign panels or supplemental sign panels within
+the right of way. ( Ord. 90- 011 § 1 ( part),
+1990)
+10. 05. 035 Definition - Business sign
+logo).
+Business Sign ( Logo)" means a separately
+attached sign mounted on the sign panel to
+show the brand, symbol, trademark or name,
+or combination thereof, of services available.
+Ord. 90- 011 § 1 ( part), 1990)
+10. 05. 040 Definition - Directional
+information.
+Directional Information" means the name
+of the business, service or activity, qualified
+historical feature or qualified cultural feature
+and other necessaryinformation to direct the
+motoring public to the business, service or
+activity, placed on a tourist - oriented
+directional sign. ( Ord. 90- 011 § 1 ( part), 1990)
+10. 05. 045 Definition - Directional sign.
+Directional Sign" means a sign identifying
+and containing directional information to one
+or more public services, to natural phenomena
+or historic, cultural, scientific, educational or
+religious sites or facilities, or to recreational
+5/ 95)
+facilities open to the general public, including
+marinas, boat ramps, camping facilities and
+day recreation facilities. ( Ord. 90- 011 § 1
+part), 1990)
+10. 05. 050 Definition - Erect or construct.
+Erect or construct" means to construct,
+build, assemble, place, affix, attach, create,
+paint, draw or in any way bring into being or
+establish. ( Ord. 90- 011 § 1 ( part), 1990)
+10. 05. 055 Definition - Maintain.
+Maintain" includes painting or routine
+repairs necessary to maintain the sign in a
+neat, clean, attractive and safe condition, and
+the term includes allowing to exist. (Ord. 90-
+011 § 1 ( part), 1990)
+10. 05. 060 Definition- MUTCD.
+MUTCD" means the Manual on Uniform
+Traffic Control Devices. ( Ord. 90- 011 § 1
+part), 1990)
+10. 05. 065 Definition - Qualified motorist
+business.
+Qualified Motorist Business" means a
+business furnishing gas, food, lodging or
+camping which has met the requirements of
+these regulations for the placement of a logo
+on a sign panel or supplemental sign panel.
+Ord. 90- 011 § 1 ( part), 1990)
+10. 05. 070 Definition - Reconstruction.
+Reconstruction" means replacing a sign
+totally or partially to increase its size or
+performing any work, except maintenance
+work, that alters or changes a sign. ( Ord. 90-
+011 § 1 ( part), 1990)
+10. 05. 075 Definition - Responsible
+operator or owner.
+Responsible operator or owner" means the
+owner in fee simple or a personor entity who
+operates a motorist business and who has
+authority to enter into an agreement relative
+to matters covered by this [ ordinance] title.
+Ord. 95- 034 § 1, 1995; Ord. 90- 011 § 1 ( part),
+1990)
+0146- 1044
+10. 05. 080 Definition - Sign panel.
+Sign panel" includes " motorist informational
+signs," " specific informational panel' and " logo
+signs." ( Ord. 90- 011 § 1 ( part), 1990)
+10. 05. 085 Definition - Tourist - oriented
+directional sign.
+Tourist - oriented directional sign" means a
+sign panel with the name of a qualified
+tourist - oriented business, service or activity, or
+qualified historical feature or qualified cultural
+feature together with directional information
+erected in advance of or at an intersection.
+Ord. 90- 011 § 1 ( part), 1990)
+10. 05. 090 Definition - Trailblazer.
+Trailblazer" means a small sign panel with
+the type of motorist service offered and the
+name, direction and distance to the qualified
+motorist business. ( Ord. 90- 011 § 1 ( part),
+1990)
+10. 05. [ 030] 100 Prohibited Uses.
+A sign or sign panel may not be erected or
+maintained if it:
+A. Interferes with, imitates or resembles
+any official traffic control sign, signal or
+device, or attempts or appears to attempt to
+direct the movement of traffic.
+B. Prevents the driver of a motor vehicle
+from having a clear and unobstructed view of
+official traffic control signs and approaching
+or merging traffic.
+C. Contains, includes or is illuminated by
+any flashing, intermittent, revolving, rotating
+or moving lights, or moves or has any
+animated or moving parts.
+D. Has any lighting, unlesssuchlighting is
+so effectively shielded asto prevent beamsor
+rays of light from being directed at any
+portion of the main traveled way of a road, or
+is of such low intensity as not to cause glare
+or to impair the vision of the driver or
+otherwise to interfere with the operation
+thereof.
+E. Is located upon a tree or painted or
+drawn upon a rock or other natural feature.
+F. Advertises or calls attention to an
+Chapter 10. 05 2 ( 5/ 95)
+activity or attraction no longer carried on.
+G. Advertises activities that are illegal
+under any state, federal or local law applicable
+at the location of the sign or of the activities.
+H. Is not maintained in a neat, clean and
+attractive condition and in good repair as
+determined by the public works director or his
+designee.
+I. Is not able to withstand a wind pressure
+of 20 pounds per square foot of exposed
+surface.
+J. Does not meet the requirements of this
+ordinance] title or the MUTCD. ( Ord. 95- 034
+1, 1995; Ord. 90- 011 § 1 ( part), 1990)
+10. 05. [ 040] 110 Exemptions.
+The following signsare exemptedunder this
+ordinance] title:
+A. Those traffic signs that are required for
+traffic control and safety included in the
+MUTCD.
+B. Those portions of sign that intrude into
+the public right of way that were granted a
+permit under the Deschutes County Sign
+Ordinance.
+C. Temporary activity signs that are
+granted a permit lasting less than 90 days
+which otherwise are in compliance with the
+terms of this ordinance, including parades, fun
+runs, bicycle or pedestrian contests, political
+signs or special public functions. ( Ord. 95- 034
+1, 1995; Ord. 90- 011 § 1 ( part), 1990)
+10. 05.[ 050] 120 Sign types.
+The following types of signs are allowed
+under the terms of this [ ordinance] title:
+A. Type I - Qualified Motorist Business.
+Tour route signs; tourist information signs;
+public facility and service signs; commercial
+businesses offering food, gas, lodging or
+camping services; historic location signs;
+federal, state and local recreational and
+facility signs; and non- profit institutions,
+including churchesand civic organizations.
+B. Type II - Qualified Tourist - oriented
+Business. Any legal, cultural, historical,
+recreational, educational or entertaining
+activity or a unique or unusual commercial or
+Chapter 10. 05
+0146- 1045
+non- profit activity the major portion of whose
+income or visitors are derived during its
+normal business season from motorists not
+residing in the immediate area of the activity.
+Ord. 95- 034 § 1, 1995; Ord. 90- 011 § 1( part),
+1990)
+10. 05. [ 060] 130 Application process.
+A. Application for a Type I or Type II sign
+shall be made in writing addressed to the
+Public Works Director for Deschutes County,
+Oregon. It may be in letter form or on a
+form prepared for such purpose by the
+department. Information contained shall
+include the following: the name, address and
+telephone number of the owner or operator of
+the business or service for which the sign is
+intended; the reason for the sign; a description
+of the location( s) for the sign; a description of
+the information requested on the sign; and be
+accompanied by the appropriate application
+fee. Each business applicant shall also submit
+a copy of the business' land use permit. The
+administrator shall notify the appropriate
+planning director of the application and
+request review and comment on the
+application.
+B. Within 30working daysfrom the dateof
+receipt of the request for a sign, the
+administrator shall respond in writing to the
+applicant as to the adequacy of the
+information received. Requests for signs that
+do not comply with the provisions of this
+chapter shall be denied by the administrator.
+If the application is denied, the administrator
+shall cite the appropriate section of the
+ordinance or MUTCD pertinent to the
+application.
+C. Each application shall be accompanied
+with the appropriate fee for processing. If the
+application is approved, the applicant shall
+make arrangements to have the Department
+install the sign and pay the required costs for
+materials, labor and travel. Payment of such
+costs and execution of a maintenance
+agreement, alongwith not lessthan two year's
+maintenance fees, shall be made in advance.
+D. If the application is denied, the
+5/ 95)
+applicant may appeal the decision as provided
+in Title 22 of the Deschutes County Code.
+Ord. 95- 034 § 1, 1995; Ord. 90- 011 § 1 ( part),
+1990)
+10. 05.[ 070] 140 Composition.
+All signs installed under the terms of this
+ordinance] title shall be in compliance with
+the MUTCD;
+A. Sign panels shall have a blue
+background with a white reflectorized border
+for all signs, except historical, cultural and
+recreational which shall have a brown
+background.
+B. Logos shall have a blue background with
+a white legend and border. The principal
+legend should be at least equal in height to
+the directional legend on the sign panel.
+Where business identification symbols or
+trademarks are used alone for a logo, the
+border may be omitted, the symbol or
+trademark shall be reproduced in the colors
+and general shape consistent with customary
+use and any integral legend shall be in
+proportionate size. Messages, symbols and
+trademarks which resemble any official traffic
+control device are prohibited. The vertical
+and horizontal spacingbetweenlogos on sign
+panels shall not exceed eight inches and 12
+inches respectively.
+C. All directional arrows and all letters and
+numbers used in the name of the type of
+service and directional legend shall be white
+and reflectorized.
+D. Each logo shall be contained within a
+24 - inch wide and 18 -inch high rectangular
+background area, including border.
+E. All letters used in the name of the type
+of service on the sign panel shall be 4 -inch
+capital letters.
+F. Tourist - oriented directional signs shall
+have a blue reflectorized background with a
+white reflectorized border and message. The
+intersection sign shall not exceed 18 inches in
+height and 72 inches in length, and shall have
+not more than two lines of legend, including a
+separate direction arrow and the distance to
+the facility to the nearest one-quarter mile.
+0146- 1046
+The content of the legend shall be limited to
+the identification of the business and shall not
+include promotional advertising asdetermined
+by the administrator.
+A six- inch letter height shall be used.
+Advance tourist - oriented directional signs
+shall be the same as intersection tourist -
+oriented directional signs, except that in lieu
+of the directional arrow and mileage, the sign
+shall include the directional word information
+ahead" or " next left" etc. as may be required.
+G. All directional arrows, letters and
+numbers used in the name of the type of
+service and the directional legend shall be
+white and reflectorized.
+H. Tourist - oriented directional signs are to
+be located at intersections.
+I. Notwithstanding the fact that a tourist -
+oriented business meets all of the eligibility
+requirements of this ordinance and applicable
+provisions of the Deschutes County Code, an
+application maybe denied if it is determined,
+after investigation by the administrator, that
+adequate direction to the business cannot be
+given by a reasonable number of allowable
+tourist information directional signs. ( Ord. 95-
+034 § 1, 1995; Ord. 90- 011 § 1 ( part), 1990)
+10. 05. [ 080] 150 Fees - Installation and
+maintenance.
+A. All Type I and Type II signs, except
+city, county, state and federal directional and
+information signs, shall be required to
+reimburse the county for the actual costs of
+processing the application and the material
+and labor required to construct, purchase,
+locate, install and maintain a sign for an
+applicant. A fee schedule shall be adopted
+each budget year which sets forth the
+department' s fees which shall apply until
+replaced by a new fee schedule.
+B. All Type I and Type II signs shall be
+installed, maintained and removed by the
+county in accordancewith the MUTCD and
+this [ ordinance] title. ( Ord. 95- 034 § 1, 1995;
+Ord. 90- 011 § 1 ( part), 1990)
+Chapter 10. 05 4 ( 5/ 95)
+10. 05. [ 090] 160 Criteria for specific
+information panels.
+A. Each qualified motorist business
+identified on a sign panel shall have given
+written assurance to the administrator of its
+conformity with all applicable laws concerning
+the provisions of public accommodations
+without regard to race, religion, color, sex or
+national origin, and shall not be in breach of
+the assurance.
+B. The types of service permitted shall be
+limited to: " Gas," which shall include fuel, oil,
+tire repair, air and water, restroom facilities,
+drinking water and telephone, with continuous
+operations for a minimum of 12 hours a day,
+six days a week. " Food" shall include,
+continuous operations for a minimum of 12
+hours a day, six days a week, restroom
+facilities and telephone, with the primary
+businessof providing meals. " Lodging" shall
+include, adequate sleeping accommodations,
+modern sanitary facilities and drinking water.
+Camping" shall include, adequate parking
+accommodations, modern sanitary facilities
+and drinking water.
+C. Panels shall be in the direction of
+traffic. Successive sign panels shall be those
+for " camping," "lodging," "food," and " gas," in
+that order.
+D. Riders with the words " diesel' or " LP
+gas" or a rider containing both may be placed
+on a sign panel underneath any gas logo if the
+qualified motorist service business has diesel
+or LP gas available during its hours of
+operation. Such rider shall be 35 inches long
+and seven inches high with six- inch letters.
+The color shall be blue with white letters.
+The combination rider shall be 52incheslong
+and seven inches high with five - inch high
+letters.
+E. Each qualified tourist - oriented business
+identified on a tourist - oriented directional sign
+shall have given written assurance to the
+administrator of its conformity with all
+applicable laws concerning the provisions of
+public accommodations without regard to
+race, religion, color, sex or national origin,
+and shall not be in breach of that assurance.
+0146- 1047
+F. Except for undeveloped cultural and
+historic features, a qualified tourist - oriented
+business shall have restroom facilities and
+drinkingwater available; continuous operation
+at least six hours per day, six days a week
+during its normal businessseason; a license
+where required; and adequate parking
+accommodations. ( Ord. 95- 034 § 1, 1995; Ord.
+90- 011 § 1 ( part), 1990)
+10. 05. [ 100] 170 Spacing of signs and panels.
+Spacingof signpanelsand the placementof
+directional signs shall be in accordance with
+the MUTCD and in the judgment of the
+administrator. In any case, the number of
+signs, including directional signs, shall be the
+minimum necessary to enable a motorist to
+locate the tourist - oriented business or to
+locate the public service. ( Ord. 95- 034 § 1,
+1995; Ord. 90- 011 § 1 ( part), 1990)
+10. 05. [ 110] 180 Violation - Penalty.
+A. Any person, firm or corporation
+erecting, constructing, reconstructing or
+maintaining a businesssign, directional sign,
+tourist - oriented directional sign, trailblazer or
+temporary activity sign in violation of the
+provisions of this title constitutes a Class A
+infraction and shall be punishable upon
+conviction by a fine of not more than $500.00.
+B. Each day of a violation described in
+subsection A of this section constitutes a
+separate offense and is punishable as a
+continuing infraction under chapter 1.16 of
+this code. ( Ord. 95- 034 § 1, 1995; Ord. 90- 011
+1 ( part), 1990)
+10. 05. [ 120] 190 Nuisance Declared - Removal.
+A. Any sign maintained in violation of this
+Ordinance] title constitutes a nuisance.
+B. Nothing in this chapter shall be
+construed to limit the authority of the County
+Road Official pursuant to Oregon Revised
+Statutes 368. 945. ( Ord. 95- 034 § 1, 1995; Ord.
+90- 011 § 1 ( part), 1990)
+Chapter 10. 05 5 ( 5/ 95)
+0146- 1048
+Chapter 10. 12
+VEHICLE SIZE RESTRICTIONS
+Sections:
+10. 12. 010 No restrictions on certain
+vehicles.
+10. 12. 020 Restricted use ofcertainroads.
+10. 12. 010 No restrictions on certain
+vehicles.
+Any combination of vehicles with an overall
+length not exceeding60 feet and an overall
+width of eight feet six inches shall be
+permitted continuous operation on all county
+and local access roads. ( Ord. 84- 022 § 1, 1984)
+10. 12. 020 Restricted use ofcertainroads.
+If it is determined, following an engineering
+study, that safe and efficient operations are
+reduced, or movement of combination vehicles
+permitted in section 10. 12. 010 presents
+hazards on specific roads, the subject roadway
+or sections thereof be listed as restricted by
+order of the Board of County Commissioners,
+and such list shall be filed with the county
+clerk. ( Ord. 84- 022 § 2, 1984)
+Chapter 10. 12 5/ 95)
+Chapter 10. 16
+PARADES AND PROCESSIONS
+Sections:
+10. 16. 010 Permit - Required for certain
+activities.
+10. 16. 020 Permit - Application -
+Information required.
+10. 16. 030 Permit - Issuance and route
+approval conditions.
+10. 16. 040 Appeal procedure.
+10. 16. 050 Permit - Revocation conditions.
+10. 16. 060 Offenses against parade
+activities.
+10. 16. 070 Funeral processions.
+10. 16. 080 Violation - Penalty.
+10. 16. 010 Permit - Required for certain
+activities.
+No person shall organize or participate in a
+parade which may disrupt or interfere with
+traffic without obtaining a permit. A permit
+shall always be required of a procession of
+people utilizing the public right of way and
+consisting of 15 or more persons or five or
+more vehicles. ( Ord. 86- 069 § 1, 1986)
+10. 16. 020 Permit - Application -
+Information required.
+A. Applications for parade permits shall be
+made to the county sheriff at least 15 days
+prior to the intended date of the parade,
+unless the time limit is waived.
+B. Applications shall include the following
+information:
+1. The name and address of the person
+responsible for the proposed parade;
+2. The date of the proposed parade;
+3. The desiredroute, including assembling
+points;
+4. The number of persons, vehicles and
+animals which will be participating in the
+parade;
+5. The proposedstarting and ending time.
+C. The application shall be signedby the
+Chapter 10. 16
+0146- 1049
+person designated as chairman. ( Ord. 86- 069
+2 ( A), ( B), 1986)
+10. 16. 030 Permit - Issuance and route
+approval conditions.
+A. If the sheriff, upon receipt of the
+application, determines that the parade can be
+conducted without endangering public safety
+and without seriously inconveniencing the
+general public, he shall approve the route and
+issue the permit.
+B. If the sheriff determines that the parade
+cannot be conducted without endangering
+public safety or seriously inconveniencing the
+general public, he may:
+1. Propose an alternate route;
+2. Propose an alternate date;
+3. Refuse to issue a parade permit.
+C. The sheriff shall notify the applicant of
+his decision within five days of receipt of the
+application.
+D. If the sheriff proposes alternatives or
+refuses to issue a permit, the applicant shall
+have the right to appeal its decision to the
+Board of CountyCommissioners. (Ord. 86-069
+2 ( C) -( F), 1986)
+10. 16. 040 Appeal procedure.
+A. An applicant may appeal the decision of
+the sheriff by filing a written appeal with the
+Board of County Commissioners within five
+days after the sheriff has proposed alternatives
+or refused to issue a permit.
+B. The Board of County Commissioners
+shall schedule a hearing date following the
+filing of the written appeal, and shall notify
+the applicant of the date and time that he may
+appear, either in person or by representative.
+Ord. 86- 069 § 3, 1986)
+10. 16. 050 Permit - Revocation
+conditions.
+The sheriff may revoke a parade permit if
+circumstances clearly show that the parade can
+no longer be conducted consistent with public
+safety. ( Ord. 86- 069 § 5, 1986)
+5/ 95)
+0146- 1050
+10. 16. 060 Offenses against parade
+activities.
+A. No person shall unreasonably interfere
+with a parade or parade participant.
+B. No person shall operate a vehicle that is
+not part of a parade between the vehicles or
+persons comprising a parade. ( Ord. 86- 069 §
+4, 1986)
+10. 16. 070 Funeral processions.
+A. A permit shall not be required to
+conduct a funeral procession.
+B. The procession shall proceed to the
+place of internment by the most direct route
+which is both legal and practicable.
+C. The procession shall be accompanied
+by adequate escort vehicles for traffic -control
+purposes.
+D. All motor vehicles in the procession
+shall be operated with their lights turned on.
+E. No person shall unreasonably interfere
+with a funeral procession.
+F. No person shall operate a vehicle that is
+not part of the procession between the
+vehicles of a funeral procession. ( Ord. 86- 069
+6, 1986)
+10. 16. 080 Violation - Penalty.
+Violation of any provision of this chapter is
+a Class B infraction. ( Ord. 86- 069 § 7, 1986)
+Chapter 10. 16 2 ( 5/ 95)
+0146- 1051
+Chapter 10. 20
+INVENTORY OF IMPOUNDED
+VEHICLES
+Sections:
+10. 20. 010 Purpose
+10. 20. 020 Definitions
+10. 20. 030 Inventories
+10. 20. 010 Purpose
+The purpose of this ordinance is to provide
+authority for peace officers to conduct
+inventories of impounded vehicles. Such
+inventories are necessaryto protect private
+property while in police custody, to reduce or
+prevent the assertion of false claims for lost or
+stolen property, and to protect people and
+property from any hazardous condition or
+instrumentality that may be associatedwith
+the vehicle. ( Ord. 94- 054 § 1, 1994)
+10. 20. 020 Definitions
+Impounded vehicle" means any motor
+vehicle that is taken into custodyby a peace
+officer for noninvestigatory reasons ( e. g.,
+abandoned or unlawfully parked vehicles,
+etc.). This division shall not apply to vehicles
+seized as evidence or seized for forfeiture
+purposes. ( Ord. 94- 054 § 1, 1994)
+10. 20. 030 Inventories
+Any peace officer who impounds a motor
+vehicle shall conduct an inventory of said
+motor vehicle as soon as practical.
+Inventories of impounded vehicles under this
+division shall be conducted according to the
+policies and procedures of the law
+enforcement agency. ( Ord. 94- 054 § 1, 1994)
+Chapter 10. 20 1 ( 5/ 95)

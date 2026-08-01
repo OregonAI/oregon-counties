@@ -1,0 +1,296 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2002-032
+title: 'Ordinance No. 2002-032'
+doc_type: ordinance
+citation: 'Ordinance No. 2002-032'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616818241_2002-1192-Ordinance%20No.%202002-032%20Recorded%209_25_2002.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e799832a7cb646bccc9a5e6d83d7108ec7bf9e5af965719428324c28ff0646ed
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2002-032 (Ordinance No. 2002-032)
+
+## At a glance
+
+Ordinance No. 2002-032 — orders of Deschutes County. 5 pages.
+
+## Full text
+
+REVI
+WEDS46 j TT. s
+dAL COUNSEL
+CODE REVIEW
+COUNTY OFFICIAL
+MARYHSUE SPENHOLLOW,
+COUNTYRCLERKS
+Ind 200201+92
+COMMISSIONERS' JOURNAL
+208200 2925
+09/15/100104;18;01 PM
+For Recording Stamp Only
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Chapter 1. 16, Code
+Violations and Enforcement, of the Deschutes
+County Code, and Declaring an Emergency.
+ORDINANCE NO. 2002- 032
+WHEREAS, the Oregon Revised Statutes infraction procedures have been amended since the adoption
+of Chapter 1. 16; and
+WHEREAS, the Oregon SupremeCourt has set basefine amounts (previously referred to as bail
+amounts) which supercedesthepreviousDeschutesCountybail schedulesfor infractionsor violationssetby the
+then -Presiding Judge Mosgrove in 1992; and
+WHEREAS, it is necessaryto amend Chapter 1.16 to conform to the Oregon Revised Statutes and the
+Oregon Supreme Court base fine amounts; and
+WHEREAS, ORS 153. 142 allows political subdivisions to establish base fine amounts for violations of
+ordinances of the political subdivision that are less than or greater than the statutory basefine amounts and low
+basefine amountsmay impedethe County's ability to obtaincompliancewith the County's building codeand
+land useregulations from violating land owners; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. Chapter 1.16, Deschutes County Code Violations and Enforcement,
+DeschutesCountyCode, is amendedassetoutin Exhibit "A" attachedheretoandby this referenceincorporated
+herein, with new language underlined and language to be deleted in stfil eugh .
+PAGE 1 OF 2 - ORDINANCE NO. ( 08/ 28/ 2002)
+Section 2. EMERGENCY. This Ordinance being necessary for the immediate preservation of the
+public peace, health, and safety, an emergency is declared to exist, and this Ordinance takes effect on its
+passage.
+DATED thi day ofXledU; J WL %2002.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+TOM DEWO , Chair
+ENNIS R. LUKE, o issioner
+MICAAL M. DALY;," Imissioner
+Date of I" Reading: e-- dayiday of  , 2002.
+Dateof2ndReading: Ze— dayof ., 2002.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Tom DeWolf
+Dennis R. Luke e–
+Michael M. Daly
+Effective date: day of , 2002.
+ATTEST:
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. ( 08/ 28/ 2002)
+Chapter 1. 16. CODE VIOLATIONS AND
+ENFORCEMENT
+1. 16. 010. Violations deemed Class A or B
+infractions - Classification -
+Penalties.
+1. 16. 020. Continuing violationsinfractinms.
+1. 16. 030. Infraction procedures -Statutory
+provisions adopted.
+1. 16. 035. Search warrants - Statutory
+provisions adopted.
+1. 16. 040. Other remedies not precluded.
+1. 16. 045. Private right of action.
+1. 16. 050. Stop work or use tag violations.
+1. 16. 060. Continuation of certain liabilities.
+1. 16. 070. Code enforcement
+officials -Designation by Board.
+1. 16. 080. Code enforcement
+officials - Appointment status.
+1. 16. 090. Penalty for false information on
+noise or animal control violation.
+1. 16. 010. Violations deemed Class A or B
+infractions - Classification -
+Penalties.
+A. Violation of a county ordinance shall be
+punishable, upon conviction, by fine only.
+Violations.. tions of county ordinances
+shall be classified as Class A infractions or
+Class B infractions. Each county ordinance
+specifying a county offense shall classify the
+ordinance violation as a Class A or Class B
+infraction.
+B. A sentenceto pay a fine for a violation an
+infraction of a county ordinance shall be a
+sentence to pay an amount not exceeding:
+1. Six - Five hundred dollars for a Class A
+infraction; or
+2. Throe_- E)nc hundred dollars for a Class B
+infraction.
+C. A sentence to pay a fine for a continuing
+violations irffractmn of a county ordinance
+shall not exceed $ 1,000. 00.
+Ord. 2002- 016 § 9, 2002; 86- 076 § 1, 1986)
+1. 16. 020. Continuing viol ationsfirfractimn.
+When an viola ionsinfractiot is of a continuing
+nature, a separate violationinfractien will be
+deemed to occur on each calendar day the
+infraction continues, and a separate summons and
+complaint may be filed for each such
+1. 16. 030. Infraction procedures -Statutory
+provisions adopted.
+The infraction procedures as set forth in ORS
+8. 665, 153- 030 to 153 145 and
+153.990 shall be the procedures for county
+ordinance infractions, and are adopted hereby by
+reference.
+Ord. 2002- 032 § 1, 2002- 2002- 016 § 9, 2002,
+86- 076 § 3, 1986)
+T• • 1 1 • • . •• •
+1' 1: 1' iW. 1 •
+1. 16. 035. Search warrants - Statutory
+provisions adopted.
+A. The definition of " offense" as set forth in
+ORS 161. 505 is adopted: An offense is
+conduct for which a sentence to a term of
+imprisonment or to a fine is provided by any
+law of this stateor by any law or ordinanceof
+a political subdivision of this state. An
+offense is a crime or a violation or an
+infraction.
+B. ORS 133. 535 ( 3), which allows for property
+that has been used, or is possessed for the
+purpose of being used, to commit or conceal
+the commission of an offense to be the
+Chapter 1. 16 1 ( 10/ 2001)
+subject of search and seizure is adopted
+herebyby reference.
+C. The procedure established for obtaining
+search warrants as set forth in ORS 133. 545
+through 133. 703 is adopted hereby by
+reference.
+Ord. 96- 025 § 1, 1996)
+1. 16. 040. Other remedies not precluded.
+The procedure established by DCC 1.16.010
+through DCC 1. 16. 060 shall be the exclusive
+procedure for imposing a fine; provided,
+however, suchsectionsshallnot prohibit, in any
+manner, alternative remedies, including but not
+limited to injunction, nor shall the County be
+prohibited from recovering any expenseincurred
+in any injunction action.
+Ord. 86- 076 § 4, 1986)
+1. 16. 045. Private right of action.
+A. Any person, whether acting as principal,
+agent or employee, whose interest is or may
+be affected by any violation of a Deschutes
+County ordinance may, in addition to the
+other remedies provided by law, file an
+violationinfiartion complaint in the following
+manner:
+1. The private citizen shall prepare and
+present the violati. ninfraction complaint
+to the appropriate enforcement officer. If
+the enforcement officer fails to act upon
+the violationinfraction complaint within
+30 days, the citizen may submit the
+violationinfi- actitm complaint to
+Deschutes County Legal Counsel (legal
+counsel). Legal counsel shall investigate
+the alleged violation of a county
+ordinance and, after consultation with the
+appropriate department head, shall either
+1) have the violationinfraction complaint
+served and prosecute, or ( 2) decline to
+have the violati minfraction complaint
+served or to prosecute. Legal counsel
+shall notify the private citizen of said
+action within ten days from the date the
+violation rrfra on complaint is presented
+to legal counsel.
+2. The private citizen, following notice by
+legal counsel of legal counsel' s decision
+not to prosecute, may, within 60 days of
+such notice, bring an action under the
+authority granted by DCC 1.16.045, in
+the citizen' s name against the alleged
+violator in the same manner and form as
+provided by a civil violatiannrfraction
+complaint. Should the private citizen
+prevail against the violator, any fine
+imposed and special costs shall be
+awarded to the plaintiff private citizen.
+B. A decision by legal counselnot to prosecutea
+zoning ordinance violation shall not be
+deemed to constitute a land use decision.
+Ord. 2002- 016 § 91 97- 058 § 1, 1997)
+1. 16. 050. Stop work or use tag violations.
+After a stopwork or usetagis posted, anyperson
+continuing work or use commits a separate
+viol itinninfraction. Violation of a stop work or
+use notice constitutes a Class A
+W,1111YA13C. . 11 :• 1 • . •:.,
+1. 16. 060. Continuation of certain liabilities.
+The repeal of Ordinances 82-012 and 86-027 by
+the ordinance codified in DCC 1. 16. 010 through
+1. 16. 060 shall not extinguish any penalty,
+forfeiture or judgment imposed or liability
+incurred under Ordinance 82-012, as amendedby
+Ordinance 86- 027. Ordinances 82- 012 and
+86- 027 shall remain in full force and effect for the
+purposeof enforcement of any penalty, forfeiture
+or judgment imposed thereunderor liability
+incurred thereunder.
+Ord. 86- 076 § 6, 1986)
+1. 16. 070. Code enforcement officials -
+Designation by board.
+A. The Board, by order, shall designate
+individuals, in addition to peace officers, who
+are employees or agents of the county, to
+enforce violations infiactions— of county
+ordinances.
+B. A private person may commence an action
+for a noise offense under DCC 8.08, or an
+animal control violation under DCC 6.08 by
+certifying to the complaint before a
+magistrate, clerk or deputy clerk of the court.
+Chapter 1. 16 2 ( 10/ 2001)
+This action will be entered in the court
+record.
+C. A complaint under DCC 1. 16. 070( B) shall
+contain a statement that the complainant shall
+certify, under the penalties provided in DCC
+1.16.090, that the complainant has reasonable
+grounds to believe, and does believe, that the
+person cited committed the offense contrary
+to law. A certificate conforming to DCC
+1. 16.090 shall be deemed equivalent to a
+sworn complaint.
+D. Whenthe complaintis certifiedby a private
+person, the court shall cause the summons to
+bedeliveredto thedefendant. Thecourtmay
+require the County Sheriff' s Office to serve
+the summons as provided in ORS 153. 535( 1).
+Ord. 2002- 016 § 9, 2002- § 1, 1998; Ord.
+87- 005 § 1, 1987)
+1. 16. 080. Code enforcement officials -
+Appointment status.
+The appointment of a county officer to enforce
+violationsinftactions of county ordinances shall
+be continuous until such appointment is revoked
+by the Board.
+Ord. 2002- 016S 9, 87- 005 § 2, 1987)
+1. 16. 090. Penalty for false information on
+noise or animal control violation.
+Any person who, in connection with the issuance
+of a complaint for a noise or animal control
+violation as defined in DCC 8.08 or DCC 6.08
+respectively, knowingly certifies falsely in the
+matters set forth therein, commits a Class A
+Dirs 11 1 • • 11 •:; gmjjjjgm
+Chapter 1. 16 3 ( 10/ 2001)

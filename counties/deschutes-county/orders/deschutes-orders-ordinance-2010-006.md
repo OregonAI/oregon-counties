@@ -1,0 +1,106 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2010-006
+title: 'Ordinance No. 2010-006'
+doc_type: ordinance
+citation: 'Ordinance No. 2010-006'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617038376_2010-182-Ordinance%20No.%202010-006%20Recorded%203_31_2010.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: efd47f338d9e5bf1ccbaf717fed9adc4c26ea5ccae8cb865d871281fa17d3a1a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2010-006 (Ordinance No. 2010-006)
+
+## At a glance
+
+Ordinance No. 2010-006 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+REVIEWED
+LEGAL COUNSEL
+DESCHUTES COUNTY OFFICIAL
+NANCY BLANKENSHIP, COUNTY
+COMMISSIONERS' JOURNAL
+ITIII III
+2010- 182
+CLERKDSLJ 2010.182
+03/ 31/2010 08: 13:06 AM
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County Code
+2. 04.060 to Authorize Any Deschutes County Board * ORDINANCE NO. 2010- 006
+of Commissioners Member Signature on Partition
+and Subdivision Final Plats and Declaring an
+Emergency
+WHEREAS, the Board of County Commissioners (" Board") requestedthat Deschutes County Legal
+Counsel staff initiate a text amendment to Deschutes County Code ("DCC") 2. 04.060, Board Signatures, in
+order to formally authorize any County Commissioner to sign partition and subdivision final plats; and
+WHEREAS, the Board considered this matter on March 24, 2010 and concluded that the public will
+benefit from changesto the land use regulations; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 2. 04.060 is amended to read as described in Exhibit " A" attached
+hereto and by this reference incorporated herein, with new language underlined and language to be deleted in
+stfileffifetig .
+Section 2. FINDINGS. The Board adopts as its findings in support of this decision, the findings
+attached as Exhibit " B" to Ordinance 2010- 005 and incorporated by reference herein.
+Section 3. EMERGENCY. This Ordinance being necessary for the immediate preservation of the
+public peace, health and safety, an emergency is declared to exist, and this Ordinance takes effect on its passage.
+Dated this of ~ l 52010 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+DENNIS R. LUKE, Chair
+ATTEST:
+Recording Secretary
+ALAN UNGER, Vice Chair
+T AN , Commiss' er
+PAGE 1 OF 2 - ORDINANCE NO. 2010- 006
+Date of 1" Reading: day of 2009.
+Date of 2°d Reading: day of d/l Q' 2009.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+Dennis R. Luke
+Alan Unger
+Tammy Baney
+Effective date: day of 2009.
+PAGE 2 OF 2 - ORDINANCE NO. 2010- 006
+2. 04.060. Board Signatures.
+A. Each document approved by a majority of the board at a public meeting shall be dated and signed by a
+quorum of the Board, and each ordinance, order and resolution shall be attested to by the Board's
+recording secretary.
+B. Any ordinance, order, resolution, contract, plat, deed or other similar document may be signed by the
+board chair or a designeeof the bBoard chair under the following circumstances;:
+1. The motion approving the document provides for chair signature.,
+2. Only one bBoard member is physically present at the meeting site and at least one other bBoard
+member has attended the meeting electronically:; or
+3. The document is a plat-,--deed, contract, or similar document whieh- that was approved by bBoard
+majority.
+C. A partition and subdivision final plat may be signed by any Board member.
+ED._ If an ordinance, order or resolution is signed by a single bBoard member, the document shall set
+forth the vote of each board member in attendance expressed as a yes, no or abstention.
+E. The recording secretary shall attest the signature and the vote.
+Ord. 2010-006, § 1, 2010; Ord. 98- 088 § 1, 1998)
+Chapter 17. 24 ( 03- 5/20107)
+Page 1 of 1 - Exhibit A to Ordinance 2010- 006

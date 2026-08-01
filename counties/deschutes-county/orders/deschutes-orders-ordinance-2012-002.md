@@ -1,0 +1,362 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2012-002
+title: 'Ordinance No. 2012-002'
+doc_type: ordinance
+citation: 'Ordinance No. 2012-002'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617040679_2012-87-Ordinance%20No.%202012-002%20Recorded%202_29_2012.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: cfe6ccd1b2272aacb57fa0aaae764c93e2c331c21ff36f700baca84e5b33eb79
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2012-002 (Ordinance No. 2012-002)
+
+## At a glance
+
+Ordinance No. 2012-002 — orders of Deschutes County. 9 pages.
+
+## Full text
+
+REVIEWED
+LEGAL OUNSEL
+it
+DESCHUTES COUNTY OFFICIAL RECORDS r} ~
+0~~~~tNANCY BLANKENSHIP, COUNTY CLERK IiJ
+COMMISSIONERS' JOURNAL
+1111111111111111111111111111
+21012-87
+041401014W av: a PM
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County
+Code Chapter 18. 108 to Permit Churches in the
+Sunriver Urban Unincorporated Community
+Zone, Business Park District, and Declaring an
+Emergency.
+ORDINANCE NO. 2012- 002
+WHEREAS, on October 13, 2011, The Door at Three Rivers Church submitted an application to amend
+the Deschutes County Code (" DCC") Chapter 18. 108, to allow for churches in a building or buildings not
+exceeding 5, 000 square feet of floor area to be permitted outright in the Sunriver Urban Unincorporated
+Community Zone, Business Park District; and
+WHEREAS, the Planning Commission held a public hearing on January 12, 2012, and forward to the
+Board of County Commissioners (" Board") a recommendation of approval as proposed; and
+WHEREAS, the Board considered this matter after a public hearing on February 27, 2012 and
+concluded that the public will benefit from changes to Sunriver Urban Unincorporated Community Zone,
+Business Park District; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 18. 108.110, Sunriver Urban Unincorporated Community Zone,
+Business Park District, Uses Permitted Outright is amended to read as described in Exhibit " A," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+strikethr-ougk.
+Section 2. FINDINGS. The Board adopts as its findings Exhibit " B", attached and incorporated by
+reference herein.
+PAGE 1 OF 2 - ORDINANCE NO. 2012 - 002
+Section 5. EMERGENCY. This Ordinance being necessary for the immediate preservation of the
+public peace,
+health~pd
+safety, an emergency is declared to exist, and this Ordinance takes effect on its passage.
+Dated this - 2170f -~2"
+2012 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+zot -6 < ~)2
+ANTHONY DEBONE, Chair
+ALAN UNGER, Vice Chair
+ATTEST:
+Nwu-L 61AVX~~ ovxv~
+Recording Secretary TAMMY BANEY, Commis i er
+J' f-
+Date of 1stReading: day of , 2012.
+Date of 2°d Reading:~~ " day of , , 2012.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Anthony DeBone
+Alan Unger
+Tammy Baney
+J-1-
+Effective date: =may of 22,b, , 2012.
+ATTEST
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. 2012 - 002
+Denotes portions of the code not amended by Ordinance 2012- 002.
+Chapter 18. 108. URBAN UNINCORPORATED COMMUNITY ZONE - SUNRIVER
+18. 108.110. Business Park- BP District.
+18. 108.110. Business Park - BP District.
+A. Uses Permitted Outright. The following uses and their accessory uses are permitted outright:
+1. Residential uses existing as of March 31, 1997.
+2. Administrative, educational and other related facilities in conjunction with a use permitted outright.
+3. Library.
+4. Recreational path.
+5. Post office.
+6. Church in building or buildings not exceeding5, 000 square feet of floor area.
+67. A building or buildings each not exceeding 8, 000 square feet of floor space housing any
+combination of-
+Retail/ rental store, office and service establishment, including but not limited to the following:
+a. Automobile, motorcycle, boat, recreational vehicle, trailer or truck sales, rental, repair or
+maintenance business, including tire stores and parts stores.
+b. Agricultural equipment and supplies.
+c. Car wash.
+d. Contractor's office, including but not limited to, building, electrical, plumbing, heating and air
+conditioning, painter, etc..
+e. Construction equipment sales, rental and/or service.
+f. Exterminator services.
+g. Golf cart sales and service.
+h. Lumber yard, home improvement or building materials store.
+i. Housekeepingand janitorial service.
+j. Dry cleaner and/or self- service laundry facility.
+k. Marine/ boat sales and service.
+1. Restaurant, bar and cocktail lounge including entertainment.
+78. A building or buildings each not exceeding 20, 000 square feet of floor space housing any
+combination of
+a. Scientific research or experimental development of materials, methods or products, including
+engineering and laboratory research.
+b. Light manufacturing, assembly, fabricating or packaging of products from previously prepared
+materials, including but not limited to cloth, paper, leather, precious or semi- preciousmetals or
+stones, etc.
+c. Manufacture of food products, pharmaceuticalsand the like, but not including the production of
+fish or meat products, or the rendering of fats and oils.
+d. Warehouse and distribution uses in a building or buildings each less than 10, 000 square feet of
+floor area.
+B. Conditional Uses Permitted. The following conditional uses may be permitted subject to DCC 18. 128
+and a conditional use permit:
+1. Public buildings and public utility structures and yards, including railroad yards.
+PAGE 1 OF 3 - EXHIBIT " A" TO ORDINANCE 2012- 002 ( 2/ 27/2012)
+2. A dwelling unit for a caretaker or watchman working on a developedproperty.
+3. Law enforcement detention facility.
+4. Parking lot.
+5. Radio and television broadcast facilities.
+6. A building or buildings each not exceeding 8, 000 square feet of floor space housing any
+combination of
+a. Bowling alley.
+b. Theater.
+c. Veterinary clinic and/or kennel.
+7. A building or buildings each not exceeding 20, 000 square feet of floor space housing any
+combination of:
+a. Warehouses and distribution uses in a building or buildings exceeding 10, 000 square feet of
+floor area.
+b. Distillery and beer/ale brewing facility, including wholesale sales thereof.
+c. Self/ mini storage.
+d. Trucking company dispatch/terminal.
+e. Solid waste/ garbageoperator, not including solid waste disposal or other forms of solid waste
+storage or transfer station.
+C. Use Limits. The following limitations and standards shall apply to uses listed in DCC 18. 108.110( A) or
+B):
+1. A use expectedto generate more than 30 truck- trailer or other heavy equipment trips per day to and
+from the subject property shall not be permitted to locate on a lot adjacent to or across the street
+from a lot in a residential district.
+2. Storage, loading and parking areas shall be screened from residential zones.
+3. No use requiring air contaminant dischargepermits shall be approvedby the Planning Director or
+Hearings Body prior to review by the applicable state or federal permit reviewing authority, nor
+shall such uses be permitted adjacent to or across the street from a residential lot.
+D. Special Requirementsfor Large Scale Uses.
+Any of the uses listed in DCC 18. 108.110( A)(6) or ( B)(6) may be allowed in a building or buildings
+each exceeding8, 000square feet of floor space if the Planning Director or Hearings Body finds:
+1. That the intended customers for the proposed use will come from the community and surrounding
+rural area, or the use will meet the needs of the people passing through the area. For the purposes of
+DCC 18. 108.110, the surrounding rural area shall be that area identified as all property within five
+miles of the boundary of the Sunriver Urban Unincorporated Community;
+2. The use will primarily employ a work force from the community and surrounding rural area; and
+3. That it is not practical to locate the use in a building or buildings under 8, 000square feet of floor
+space.
+E. Height Regulations. No building or structure shall be hereafter erected, enlarged or structurally altered
+to exceed 45 feet in height.
+F. Lot Requirements. The following lot requirements shall be observed:
+1. Lot Area. No requirements.
+2. Lot Width. No requirements.
+3. Lot Depth. Each lot shall have a minimum depth of 100 feet.
+4. Front Yard. The front yard shall be a minimum of 25 feet.
+5. Side Yard. No side yard required, except when adjoining a lot in an RS or RM District and then the
+required side yard shall be 50 feet. No side yards are required on the side of a building adjoining a
+railroad right of way.
+6. Rear Yard. No rear yard required, except when adjoining a lot in an RS or RM District and then the
+rear yard shall be 50 feet. No rear yard is required on the side of a building adjoining a railroad
+right of way.
+PAGE 2 OF 3 - EXHIBIT " A" TO ORDINANCE 2012- 002 ( 2/ 27/2012)
+7. Lot Coverage. The maximum lot coverage by buildings and structures shall be 50 percent of the
+total lot area.
+Ord. 2012- 002 41, 2012, Ord. 97- 078 § 2, 1997)
+PAGE 3 OF 3 - EXHIBIT " A" TO ORDINANCE 2012- 002 ( 2/ 27/2012)
+FINDINGS
+The Deschutes County Board of Commissioners ( Board) held a public hearing on February 27,
+2012 on Ordinance 2012-002, amending the County's Sunriver Urban Unincorporated
+Community Zone, Business Park District ( SUBP), regulations. The Board closed the hearing on
+February 27. On February 27, 2012, the Board chair conducted the first and second reading by
+title only and adopted the ordinance, declaring it an emergency.
+BACKGROUND
+The Door at Three Rivers Church has proposed an amendment to the Deschutes County Code
+that would permit churches in the Business Park zoning district of the Urban Unincorporated
+Community Zone ( UUC) of Sunriver. Currently, churches are not a use permitted in the SUBP
+Zone. The Sunriver Business Park includes a mix of uses permitted outright or conditionally
+that are commercial and light industrial in nature. However, there are other uses ( e. g. library)
+not necessarily considered commercial or industrial in nature, as called for in the
+Comprehensive Plan policies, that are permitted. The applicant indicates that a church exhibits
+similar characteristics to those uses already permitted in the zone. The Planning Commission
+held a work session and public hearing on the proposed text amendment. There were no public
+comments at the hearing; however, the applicant did submit additional written comments. The
+Planning Commission has recommended, by a six to one majority vote, that the amendment be
+approved.
+The Sunriver Resort includes a mixture of residential, commercial, and industrial uses within its
+boundaries. The Sunriver Business Park District is one ( 1) of 18 zoning districts included in the
+Sunriver UUC. The County Comprehensive Plan indicates the Sunriver Business Park " was
+originally established to accommodate light industrial development to support the employment
+needs of the community and surrounding area." However, through the formation of the current
+zoning regulations in the area, it was determined that the Business Park was " primarily
+commercial in nature" and less industrial. Therefore, the County zoning ordinance reflects the
+progression from industrial to commercial, while still allowing light industrial development. The
+Comprehensive Plan provides three policies related to the Business Park District. The policies
+are as follows:
+A variety of commercial uses which support the needs of the community and surrounding
+rural area, and not uses solely intended to attract resort visitors, should be encouraged.
+Allow small- scale, low- impactcommercial uses in conformance with the requirements of
+OAR Chapter 660, Division 22. Larger more intense commercial uses shall be permitted
+if they are intended to serve the community, the surrounding rural area and the travel
+needs of people passing through the area.
+Small-scale, low- impact industrial uses should be allowed in conformance with the
+requirements of OAR Chapter 660, Division 22.
+Although the Comprehensive Plan accommodates both commercial and light industrial uses in
+the Business Park District, as indicated above, the zoning ordinance includes uses that may not
+be considered commercial or industrial in nature. These include uses such as a library and post
+office, which are permitted outright and a law enforcement detention facility, which is permitted
+conditionally. Furthermore, there are some commercial uses permitted conditionally in the
+Business Park District that could be considered comparable to churches in the sense that they
+PAGE 1 OF 4 - EXHIBIT " B" TO ORDINANCE 2012- 002 ( 2/ 27/2012)
+bring together people in one place for an event. These uses include theaters and bowling
+alleys. As indicated in the submitted application, the applicant requests that churches be
+included as a use permitted outright in the Business Park District. For reference, the Sunriver
+UUC allows churches in six ( 6) of its 18 zoning districts. Of the six zoning districts, churches
+are allowed with a conditional use permit in residential zoning districts and allowed outright in
+commercial and community related zoning districts.
+STATEWIDE PLANNING GOALS
+The proposed amendment would revise Deschutes County Code, Title 18, to permit churches
+as a use permitted outright in the SUBP Zone. The following findings demonstrate compliance
+with applicable statewide planning goals and state law.
+Goal 1, Citizen Involvement, will be satisfied through our County text amendment process
+that includes public hearings with the County Planning Commission and with the Board.
+Goal 2, Land Use Planning, was reviewed by staff for compliance. Staff determined the
+proposed amendment satisfies the intent of the goal to assure an adequate factual base
+and be in accordance with the County's Comprehensive Plan Urban Growth
+Management Chapter. In addition, this specific text amendment takes into account
+federal conformance with the Religious Land Use and Institutionalization Persons Act
+RLUIPA), 42 U. S.C. § 2000cc-1 et seq. Based on a Land Use Board of Appeals
+LUBA) case, 1000 Friends of Oregon v. Clackamas County, 46 Or LUBA 375 ( 2004), it
+is staff's understanding that RLUIPA does not require local governments to provide for
+churches in all zones within its jurisdiction or prohibit local governments from excluding
+churches from some zoning districts. Although the Sunriver UUC provides for churches
+in six of its 18 zoning districts, staff believes that allowing churches in the Business Park
+zoning district will continue to provide a mixture of land uses in Sunriver. For reference,
+the general rule of RLUIPA indicates the following:
+a) General rule
+No government shall impose a substantial burden on the religious exercise of a
+person residing in or confined to an institution, as defined in section 1997 of this title,
+even if the burden results from a rule of general applicability, unless the government
+demonstrates that imposition of the burden on that person-
+1) is in furtherance of a compelling governmental interest, and
+2) is the least restrictive means of furthering that compelling governmental interest
+Goal 3 and 4, Agricultural and Forest Lands, was reviewed by staff and determined that
+amending DCC Chapter 18. 108 to allow church use in an urban unincorporated
+community would not adversely affect agricultural and forest lands.
+Goal 5, Natural Resources, Scenic and Historic Areas, and Open Spaces, is met through
+existing County policy and regulations.
+Goal 6, Air, Water and Land Resources Quality, is not applicable because the
+amendment to DCC Chapter 18. 108 will allow church use in an urban unincorporated
+community and not affect air, water, and land resource quality already allocated for
+commercial and light industrial use.
+Goal 7 and 8, Natural Hazards and Recreational Needs, are satisfied through existing
+County policy and regulations.
+PAGE 2 OF 4 - EXHIBIT " B" TO ORDINANCE 2012- 002 ( 2/ 27/2012)
+Goal 9 and 10, Economic Development and Housing, are satisfied through existing
+County policy and regulations.
+Goal 11, Public Facilities and Services, is not applicable because the amendment to
+allow churches in an urban unincorporated community will not impact the public facilities
+and services already established for the community.
+Goal 12, Transportation, provides and encourages a safe, convenient, and economic
+system of moving people and goods. The applicant submitted a Trip Generation Report
+to illustrate that the addition of church use to the Business Park District would " create a
+minimal amount of weekday traffic" when compared to other commercial and light
+industrial uses currently permitted in the zone. Senior Transportation Planner, Peter
+Russell, reviewed the Trip Generation Report submitted by the applicant and, based on
+three factors, initially determined that the applicant needed to demonstrate compliance
+with the Transportation Planning Rule ( TPR), Section 0060 of OAR Chapter 660,
+Division 12. Specifically, the trip generation report does not adequately conclude
+whether there is a significant effect on the affected roads based on the intended change
+to the zone. Mr. Russell indicated in his December 21, 2011 memorandum, "[ t] he
+applicant has only submitted an inventory of the number of lanes, posted speed, and
+functional classification, etc...." but had not provided an evaluation of the performance
+standards of the intersection of South Century Drive and Venture Lane ( affected roads).
+Therefore, Planning staff initially required the applicant to provide a detailed traffic study
+analyzing the level of service for affected roads to a planning horizon year. The resulting
+data would have determined whether there would be significant effect as defined by the
+TPR. The applicant indicated that the submitted " trip generation report satisfies all
+applicable requirements" and the proposed text amendment will not result in greater
+impact to the affected roads. In addition, the applicant submitted legal interpretation by
+two land use attorneys, Bruce W. White and Liz Fancher, regarding whether the
+proposed text amendment necessitates a detailed traffic study as required by staff. The
+Planning Commission recommended approval of the proposed text amendment without
+a detailed traffic study. Moreover, after further review, Planning staff finds no additional
+transportation analysis required based on the fact the proposed church will generate less
+traffic than other outright permitted uses in the zone.
+Goal 13, Energy Conservation, is satisfied through existing County policy and regulations.
+Goal 14, Urbanization, was reviewed by staff and determined that by amending DCC
+Chapter 18. 108 to allow church use in the urban unincorporated community of Sunriver
+would not adversely affect agricultural and forest operations in the surrounding area.
+Furthermore, the proposed amendment would not interfere with the efficient functioning of
+the closest urban growth boundaries associated with the cities of Bend and La Pine.
+In addition, staff reviewed the Oregon Administrative Rules for unincorporated
+communities, OAR 660, Division 22. Staff determined the proposed amendment to allow
+churches in the Sunriver Business Park District will coincide with the requirement to
+provide a mixture of land uses within the UUC. Furthermore, the proposed land use is
+intended to serve the community and surrounding rural area. The proposed amendment
+limits building size to a. maximum 5, 000 square feet. The applicant states, " Churches
+are not included in the definitions nor considered ' commercial' or ' industrial' under the
+rule, and thus is not subject to the rules' building size limitations." Staff believes the
+proposed size limitation is a reasonable request. This amendment does not propose
+enlargement of the UUC boundaries. As indicated above, the proposal would not
+PAGE 3 OF 4 - EXHIBIT " B" TO ORDINANCE 2012- 002 ( 2/ 27/2012)
+adversely affect agricultural and forest uses. Transportation planning related to the
+amendment is addressed above under Goal 12.
+Goals 15 through 19, Willamette River Greenway, Estuarine Resources, Coastal
+Shore/ ands, Beaches and Dunes, and Ocean Resources, were reviewed and found not
+applicable to this proposal.
+DESCHUTES COUNTY COMPREHENSIVE PLAN
+The Deschutes County Comprehensive Plan contains policies that address urban growth
+management. Staff determined the proposed amendment would be consistent with the County's
+Urban Growth Management purpose and policies for the Sunriver UUC. The Sunriver Business
+Park District is one ( 1) of 18 zoning districts included in the resort. Although six ( 6) of the 18
+zoning districts allow for churches, adding the church use to the Business Park will continue to
+provide a mixture of land uses in the Sunriver UUC. As indicated previously, the Comprehensive
+Plan includes three policies accommodating commercial and light industrial uses in the Business
+Park District. Other uses permitted in the zoning district that are not commercial or industrial in
+nature ( e. g. library) and those commercial uses that have similar operational characteristics to a
+church ( e. g. theater) illustrate that adding churches to the zone would not significantly affect the
+area. Amending the SUBP zone to allow churches in the SUBP zone would coincide with the
+theme of providing the " greatest practical degree of flexibility for future growth and development in
+Sunriver," as agreed upon when first establishing the Sunriver Resort as a UUC. As indicated
+above, six of the 18 zoning districts allow churches. For purposes of comparison, churches are
+permitted outright in three Sunriver zoning districts including Commercial, Community General,
+and Community Neighborhood Districts. Three residential zones allow churches with a
+conditional use permit. To provide consistency, staff concurs with the applicant regarding allowing
+churches outright in the SUBP zone. Lastly, staff believes the proposed church use will support
+the needs of the community and surrounding rural area.
+PAGE 4 OF 4 - EXHIBIT " B" TO ORDINANCE 2012- 002 ( 2/ 27/2012)

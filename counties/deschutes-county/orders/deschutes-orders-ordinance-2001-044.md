@@ -1,0 +1,966 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2001-044
+title: 'Ordinance No. 2001-044'
+doc_type: ordinance
+citation: 'Ordinance No. 2001-044'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616807231_2001-768-Ordinance%20No.%202001-044%20Recorded%2010_11_2001.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: aa36b5182ce836d69c2758615fcfab6ede436eaed8e913113ad4d8dd4a500e79
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2001-044 (Ordinance No. 2001-044)
+
+## At a glance
+
+Ordinance No. 2001-044 — orders of Deschutes County. 18 pages.
+
+## Full text
+
+REVIEWED
+LEGAL OLMSEL
+REVIEWED
+CODE REVIEW COMMITTEE
+COUNTY OFFICIAL
+MARYHSUESPENHOLLOW,
+COUNTYRCLERKS
+U 2001'768
+COMMISSIONERS' JOURNAL
+10/11/200103:54:42PM
+BEFORETHEBOARDOFCOUNTYCOMMISSIONERSOFDESCHUTESCOUNTY, OREGON
+AnOrdinanceAmendingTitle18, DeschutesCounty
+ZoningOrdinance, of theDeschutesCountyCode
+EstablishingtheLa PineBusinessParkDistrict and
+DeclaringanEmergency.
+ORDINANCE NO. 2001- 044
+WHEREAS, DeschutesCountyhasinitiatedanamendmenttoTitle23, DeschutesCountyComprehensivePlanandTitle18, DeschutesCountyZoningOrdinance, oftheDeschutesCountyCodeFileNumbersPA -01-5; TAO1-5; ZC-01-7) toestablishaBusinessParkDistrictintheLaPineUrban
+UnincorporatedCommunity; and,
+WHEREAS, theDeschutesCountyPlanningCommissionconductedapublichearingonthe
+proposedamendments, andforwardedtheproposedamendmentstotheBoardofCountyCommissioners
+with a recommendation that said amendments be adopted; and,
+WHEREAS, thisordinanceisnecessaryfortheimmediateimplementationoftheLaPine
+BusinessParkZoningDistrict; therefore, anemergencyisdeclaredtoexist, sothatthisordinancecantake
+effect on its passage; and
+WHEREAS, afternoticewasgivenandhearingconductedonOctober10, 2001beforethe
+DeschutesCountyCommissionersinaccordancewithapplicablelaw, theBoardofCountyCommissionershasconsideredtheproposedamendments; now, therefore,
+THEBOARDOFCOUNTYCOMMISSIONERSOFDESCHUTESCOUNTY, OREGON,
+ORDAINS as follows:
+Section1. AMENDMENT. Chapter18.04, Title, PurposeandDefinitions, oftheDeschutes
+CountyCodeis amendedto addthedefinitionsas set forth in Exhibit " A," attachedhereto and by thisreference incorporated herein.
+Section2. AMENDMENT. Paragraph18.12.010(D)(1), LaPineUnincorporatedCommunity, oftheDeschutesCountyCodeis amendedto readas set forth in Exhibit ` B," attachedhereto and by thisreference incorporated herein, with new languageunderlined.
+Section3. AMENDMENT. Section18.61.030, LaPinePlanningArea, oftheDeschutesCountyCodeis amendedto readassetforth in Exhibit "C," attachedhereto and by this reference incorporated
+herein, withnewlanguageunderlinedanddeletedlanguageshowninFi ed+Feugh.
+PAGE 1 of 2 - ORDINANCENO. 2001-044 (10/10/2001)
+Section 4. AMENDMENT. Subsection 18. 116.030( E)( 5), General Provisions — Off- street
+Parking, of the DeschutesCounty Code is amendedto read as setforth in Exhibit " D," attached hereto
+and by this reference incorporated herein, with new languageunderlinded and deleted language shown in
+Section 5. AMENDMENT. Subsection 18.124.070(D), Commercial Development Standards,
+of the Deschutes Code Ordinance is amended to read as set forth in Exhibit " E," attachedhereto and by
+this reference incorporated herein, with new languageunderlined and deleted language shown in
+strip.
+Section6. AMENDMENT. Pursuantto Chapter18.12of Title 18of theDeschutesCounty
+Code, theDeschutesCountyZoningMap is herebyamendedto addaBusinessParkDistrict to theLa
+PineUrbanUnincorporatedCommunity (UUC) asshownin Exhibit "F," attachedhereto and by this
+reference incorporated herein.
+Section7. EMERGENCY. ThisOrdinancebeingnecessaryfor theimmediatepreservationof
+the public peace, health and safety, an emergency is declaredto exist, and this Ordinance takes effect on
+its passage.
+Section8. FINDINGS. TheBoardof CountyCommissionersadoptsasits findingsin support
+of this ordinance the Staff Report and Exhibits attached hereto as Exhibits " A -F", and by this reference
+incorporated herein.
+DATEDthiVQqdayof - 2001.
+ATTEST:
+Recording Secretary
+BOARD OF COUNTY COMMISSIONERS OF
+DESCHUTES CWJNTY. ORE(A) N
+Tom
+R. Luke, Commissioner
+Mi a 1M. aly, Com ssioner
+PAGE 2 of 2 - ORDINANCE NO. 2001- 044 ( 10/ 10/2001)
+EXHIBIT " A"
+3, 1994; Ord. 94- 008 §§ 1, 2, 3, 4, 5, 6, 7 and 8,
+1994; Ord. 94- 001 §§ 1, 2, and 3, 1994; Ord.
+93- 043 §§ 1, IA and 113, 1993; Ord. 93- 038 § 1,
+18. 04. 010. Title.
+DCC Title 18 shall be known as the Deschutes
+County Zoning Ordinanceof 1979.
+Ord. 2001- 016 § 2, 2001; Ord. 91- 020 § 1, 1991)
+18. 04. 020. Purpose.
+A. The intent or purpose of DCC Title 18 is to
+promote the public health, safety and general
+welfare and to carry out the Deschutes
+County Comprehensive Plan, the provisions
+of ORS 215 and the StatewidePlanning
+Goals adopted pursuant to ORS 197. DCC
+Title 18 is to establish zoning districts and
+regulations governing the development and
+use of land within portions of Deschutes
+County, Oregon;
+18. 04. 030. Definitions.
+As used in DCC Title 18, the following words
+and phrases shall mean as set forth in DCC
+18. 04. 030.
+Commercial Use" means the use of land
+primarily for the retail sale of products or
+services, including offices. It does not include
+factories, warehouses, freight terminals, or
+wholesale distribution centers.
+Industrial Use" meansthe use of land primarily
+for the manufacture, processing, storage, or
+wholesale distribution of products, goods, or
+materials. It does not include commercial uses.
+Ord. 2001- 044 § 1, 2001; Ord. 2001- 016 § 2,
+2001; Ord. 97- 078 § 5, 1997; Ord. 97- 017 § 1,
+1997; Ord. 97- 003 § 1, 1997; Ord. 96- 082 § 1,
+1996; Ord. 96- 003 § 2, 1996; Ord. 95- 077 § 2,
+1995; Ord. 95- 075 § 1, 1975; Ord. 95- 007 § 1,
+1995; Ord. 95- 001 § 1, 1995; Ord. 94- 053 § 1,
+1994; Ord. 94- 041 §§ 2 and 3, 1994; Ord. 94- 038
+1993; Ord. 93- 005 §§ 1 and 2, 1993; Ord. 93- 002
+1, 2 and 3, 1993; Ord. 92- 066 § 1, 1992; Ord.
+92- 065 §§ 1 and 2, 1992; Ord. 92- 034 § 1, 1992;
+Ord. 92- 025 § 1, 1992; Ord. 92- 004 §§ 1 and 2,
+1992; Ord. 91- 038 §§ 3 and 4, 1991; Ord. 91- 020
+1, 1991; Ord. 91- 005 § 1, 1991; Ord. 91- 002 §
+11, 1991; Ord. 90- 014 § 2, 1990; Ord.. 89- 009 § 2,
+1989; Ord. 89- 004 § 1, 1989; Ord. 88- 050 § 3,
+1988; Ord. 88- 030 § 3, 1988; Ord. 88- 009 § 1,
+1988; Ord. 87- 015 § 1, 1987; Ord. 86- 056 § 2,
+1986; Ord. 86- 054 § 1, 1986; Ord. 86- 032 § 1,
+1986; Ord. 86- 018 § 1, 1986; Ord. 85= 002 § 2,
+1985; Ord. 84- 023 § 1, 1984; Ord. 83- 037 § 2,
+1983; Ord. 83- 033 § 1, 1983; Ord. 82- 013 § 1,
+1982)
+PAGE 1 of 1- EXHIBIT " A" TO ORDINANCE NO. 2001- 044 ( 10/ 10/2001)
+18. 12. 10. Establishment of zones.
+D. Urban Unincorporated Community Zones
+UUC).
+1. La Pine Urban Unincorporated
+Communitv.
+La Pine Planning Area Abbreviations
+Commercial District LPC
+Community Facility District LPCF
+Community Facility Limited District LPCFL
+Flood Plain District LPFP
+Industrial District
+Rnsiness Park District
+LPI
+Residential District
+LPRP
+LPR
+Sewer Treatment District LPST
+Neijzhborhood Planning Area Abbreviations
+Neighborhood Community Facility LPNCF
+Neighborhood Community Facility LPNCFL
+Limited
+Neighborhood Commercial LPNC
+Neighborhood Park/ Open Space LPNPO
+Neighborhood Residential Center LPNRC
+Neighborhood Residential General LPNRG
+Wickiul2 Planning Area Abbreviations
+Wickiup Commercial/ Residential LPWJ
+Ord. 2001- 044 § 2, 2001; 2001- 016 § 2, 2001;
+Ord. No. 98- 063 § 2, 1998; Ord. No. 96- 003 § 4,
+1996; Ord. No. 92- 025 § 5, 1992)
+PAGE 1 of 1 — EXHIBIT " B" TO ORDINANCE NO. 2001- 044 ( 10/ 10/2001)
+EXHIBIT " C"
+application of chemicals and disposal
+PAGE 1 of 11 — EXHIBIT " C" TO ORDINANCE NO. 2001- 044 ( 10/ 17/2001)
+of slash.
+18.61.030. La Pine Planning Area. 2. Conditional Uses Permitted. The
+The La Pine Planning Area is composedof seven following usesmay be allowed subjectto
+eight zoning districts, each with its own set of applicable provisions of DCC 18. 61 and
+allowed uses and regulations, as further set forth DCC 18.116, Supplementary Provisions,
+in DCC 18. 61. 030. DCC 18. 124, Site Plan Review, and DCC
+A. La Pine Residential District. 18. 128, Conditional Use:
+1. Uses Permitted Outright. The following
+a. Multi -family dwelling with three or
+uses and their accessory uses are
+permitted outright:
+more units.
+b. Park, playground and community
+a. Single-family dwelling. building.
+b. Manufactured home subject to DCC
+c. Utility facility, except landfill.
+18. 116. 070. d. Excavation, grading and fill and
+c. Two-family dwelling or duplex. removal within the bed and banks of
+d. Agricultural use as defined in DCC a stream or river or in a wetland.
+Title 18, subject to the following
+e. Home occupation.
+limitations: f. Church.
+1. Cows, horses, goats or sheep g• School.
+shall not be kept on lots having
+h. Manufactured home park.
+an area less than 20, 000 square i. Multi -family dwelling complex.
+feet. The total number of all j• Cluster development.
+such animals over the age of six
+k. Nursery school, kindergarten and day
+months shall be limited to the carefacility.
+square footage of the lot divided 1. Nursing home.
+by 20,000.
+m. Public use.
+2. The number of chickens, fowl or
+n. Residential care facility for more
+rabbits over the age of six than 15 people.
+months shall not exceed one for
+o. Wireless telecommunications
+each 500 square feet of land. facilities, except those facilities
+e. Class I and II road or street project meeting the requirements of DCC
+subject to approval as part of a land 18. 116. 250( A) or ( B).
+partition, subdivision or subject to
+3. Lot Sizes.
+the standards and criteria established
+a. Partitions:
+by DCC 18. 116.230. 1. Parcels served by an approved
+f. Class III road and street project. community, municipal or public
+g. Excavation, grading or fill and
+water system and an approved
+removal activities involved in community or public sewage
+creation of a wetland in areas not system shall have a minimum
+requiring a conditional use permit for width of 50 feet and a minimum
+fill or removal. area of 5, 000 square feet.
+h. Forest operation and forest practice 2. Parcels served by an approved
+including, but not limited to, community, non - community,
+reforestation of forest land, road
+municipal or public water
+construction and maintenance, system, but not by sewer, shall
+harvesting of a forest tree species, have a minimum width of
+100feetand a minimum area of
+22, 000 square feet.
+PAGE1 of 11 — EXHIBIT "C" TO ORDINANCENO. 2001-044 (10/ 17/ 2001)
+4.
+E
+3. Parcels not served by either an B. La Pine Commercial District.
+approved community, municipal 1. Uses Permitted Outright. The following
+or public water system or an uses and their accessory uses are
+approved community or public permitted outright:
+sewage system shall have a a. Single-family dwelling on a lot
+minimum width of 150 feet with existing on March 27, 1996.
+a minimum area of one acre. In b. Manufacturedhome, ona lot existing
+addition, all lots must meet DEQ on March 27, 1996, subject to DCC
+on- site sewage disposal rules. 18. 116. 070.
+b. Subdivisions: For subdivisions, c. Class I and II road or street project
+cluster developments or subject to approval as part of a land
+manufactured home parks, the partition, subdivision or subject to
+following standardsshallapply: the standards and criteria established
+1. All new lots shall be connected by DCC 18.116.230.
+to a Department of d. Class III road and street project.
+Environmental Quality permitted e. Excavation, grading or fill and
+community or municipal sewer removal activities involved in
+system. creation of a wetland in areas not
+2. Minimum lot size for a requiring a conditional use permit for
+residential subdivision shall be fill or removal.
+5, 000 square feet. Maximum 2. Uses Permitted Subject to Site Plan
+residential lot size for a Review. The following uses and their
+subdivision shall be 15, 000 accessory uses are permitted subject to
+square feet. the applicable provisions of DCC 18. 61,
+Dimensional Standards. The following DCC 18.116, Supplementary Provisions
+dimensional standardsshall apply: and DCC 18. 124, Site Plan Review:
+a. Lot Coverage. The main building a. Park, playground and community
+and accessory buildings located on building.
+any building site or lot shall not b. Public use.
+cover more than thirty percent of the c. A building or buildings not
+total lot area. exceeding 8,000 square feet of floor
+b. Building Height. No building or spacehousing any combination of:
+structure shall be erected or enlarged 1. Retail store, office and service
+to exceed 30 feet in height, except as establishment.
+approved under DCC 18. 120. 040. 2. Residential use in the same
+Yard and Setback Requirements. building asa permitted use.
+a. Front Yard. The minimum front 3. Art studio in conjunction with
+yard shall be 20 feet. retail sales.
+b. Side Yard. A side yard shall be a 4. Medical clinic.
+minimum of five feet and the sum of 5. Automobile service station.
+the two side yards shall be a 6. Car wash.
+minimum of 15 feet. A parcel or lot 7. Day care facility.
+with a side yard adjacent to zoned 8. Restaurant and cocktail lounge.
+forest land shall have a minimum 9. Club and fraternal lodge.
+side yard of 100 feet. 10. Automobile and trailer sales.
+c. Rear Yard. The minimum rear yard 11. Uses accessory to the uses
+shall be 20 feet, except a parcel or lot identified in DCC 18. 61. 030.
+with a side yard adjacent to zoned d. Any of the uses allowed under DCC
+forest land shall have a minimum 18. 61. 030( B)( 2)( c) housed in a
+rear yard of 100 feet. building or buildings exceeding
+PAGE 2 of 11 — EXHIBIT " C" TO ORDINANCE NO. 2001- 044 ( 10/ 17/ 2001)
+8, 000 square feet, subject to the
+provisions of DCC 18. 61. 030( B)( 4).
+3. Conditional Uses Permitted. The
+following uses and their accessory uses
+are permitted subject to applicable
+provisions of DCC 18. 61 and DCC
+18.116, Supplementary Provisions, DCC
+18. 124, Site Plan Review and DCC
+18. 128, Conditional Use:
+a. Multi -family dwelling on a lot
+existing on March 27, 1996.
+b. Tourist and travelers'
+accommodation of up to 100 units,
+provided the use is served by a
+community water system as that term
+is defined in OAR 660- 22- 010( 2).
+c. Manufactured home park and travel
+trailer park.
+d. Church.
+e. School.
+f. Excavation, grading and fill and
+removal within the bed and banks of
+a stream or river or in a wetland,
+subject to DCC 18. 120. 050 and
+18. 128. 270.
+g. Water supply andtreatmentfacility.
+h. Utility facility, except landfill.
+i. Television and radio station with or
+without a transmitter tower.
+j. Nursing home.
+k. Residential care facility for more
+than 15 people.
+1. A building or buildings not
+exceeding 8,000 square feet of floor
+spacehousing any combination of:
+1. Veterinary clinic including
+enclosed kennel.
+2 Automobile repair garage.
+3 Commercial amusement and
+recreation establishment.
+4. Shopping complex subject to a
+master plan.
+5. Mini -storagefacility.
+6. Uses accessory to the uses
+identified in DCC 18. 61. 030.
+in. Any of the uses allowed under DCC
+18. 61. 030( B)( 3)( 1) housed in a
+building or buildings exceeding
+8,000 square feet subject to the
+provisions of DCC 18. 61. 030( B)( 4).
+n. Wireless telecommunications
+facilities, except those facilities
+meeting the requirements of DCC
+18. 116. 250( A) or ( B).
+4. Special Requirements for Large Scale
+Uses. Any of the uses listed in DCC
+18. 61. 030( B)( 2)( d) and DCC
+18. 61. 030( B)( 3)( m) above may be
+allowed in a building or buildings
+exceeding 8,000 square feet of floor
+space if the Planning Director or
+Hearings Body finds:
+a. That the intended customers for the
+proposed use will come from the
+community and surrounding rural
+area, or the use will meet the travel
+needs of the people passing through
+the area,
+b. The use will primarily employ a
+work force from the community and
+surrounding rural area, and
+c. That it is not practical to locate the
+use in a building or buildings under
+8,000 square feet of floor space.
+For the purposes of DCC 18. 61. 030,
+the surrounding rural area shall be
+that area identified in the map
+depicted as Figure 5 in the La Pine
+Urban UnincorporatedCommunity
+section of the Comprehensive Plan.
+5. Lot Size and Dimensional Standards.
+a. Lot Size. New commercial lots shall
+beservedby anapprovedcommunity
+or public sewage system and shall
+have a minimum width of 50 feet and
+a minimum area of 5, 000 square feet.
+b. Lot Coverage. No requirements.
+c. Building Height. No building or
+structure shall be erected or enlarged
+to exceed 30 feet in height, except as
+approved under DCC 18. 120. 040.
+6. Yard and Setback Requirements.
+a. Front Yard. The front yard shall be
+no more than 15 feet, except as
+otherwise allowed by DCC
+18. 124. 070( D)( 2) and except when
+abutting a lot in a Residential
+District, in which case the front yard
+shall be the front yard required in the
+abutting Residential District. All
+PAGE 3 of 11 — EXHIBIT " C" TO ORDINANCE NO. 2001- 044 ( 10/ 17/2001)
+buildings shall be set at the front
+yard setback line.
+b. Side Yard. None required, except
+when a parcel or lot with a side yard
+adjacent to zoned forest land shall
+have a minimum side yard of 100
+feet.
+c. Rear Yard. None required, except
+when abutting a yard in a Residential
+District, and then the rear yard shall
+be a minimum of 20 feet. A parcel
+or lot with a rear yard adjacent to
+zoned forest land shall have a
+minimum rear yard of 100 feet.
+C. La Pine Industrial District.
+1. Uses Permitted Outright. The following
+uses and their accessory uses are
+permitted outright:
+a. Agricultural use as defined in DCC
+Title 18.
+b. Excavation, grading or fill and
+removal activities involved in
+creation of a wetland in areas not
+requiring a conditional use permit for
+fill or removal.
+c. Class I and 1I road or street project
+subject to approval as part of a land
+partition, subdivision or subject to
+the standards and criteria established
+by DCC 18.116.230.
+d. Class III road or street project.
+e. Forest operation and forest practice
+including, but not limited to,
+reforestation of forest land, road
+construction and maintenance,
+harvesting of a forest tree species,
+application of chemicals and disposal
+of slash.
+2. Uses Permitted Subject to Site Plan
+Review. The following uses and their
+accessory uses are permitted subject to
+DCC 18. 61. 030( C)( 4)( c)( 2) and other
+applicable provisions of DCC 18. 61 and
+DCC 18.116, SupplementaryProvisions,
+and DCC 18. 124, Site Plan Review:
+a. Expansion of a valid use existing on
+December 5, 1994.
+b. Public use compatible with industrial
+uses.
+c. Uses that require proximity to rural
+resources, as defined in OAR 660-
+04- 022( 3)( x).
+d. Scientific research or experimental
+development of materials, methods
+or products, including engineering
+and laboratory research.
+e. Light manufacturing, assembly,
+fabricating or packaging, and
+wholesale distribution.
+f. Cold storageplant, including storage
+and office.
+g. Kennel or veterinary clinic operated
+entirely within an enclosedbuilding.
+h. Processinguse such asbottling plant,
+creamery, laboratory, blueprinting
+and photocopying, laundry, carpet
+and rug cleaning plant, cleaning and
+dyeing plant, tire retreading,
+recapping and rebuilding.
+i. Contractor' s equipment storage or
+sale yard, house mover, delivery
+vehicles, transit storage, trucking
+terminal and used equipment in
+operable condition.
+j. Manufacture of concrete products
+and ceramic products using only
+previously comminuted raw
+materials.
+k. All types of automobile, motorcycle,
+boat, trailer and truck sales, service,
+repair, storage and rental.
+1. Retail or combination
+retail/wholesale lumber and building
+materials yard, not including
+concrete mixing.
+in. Manufactured home sales and
+service.
+n. Plant nursery and greenhouse.
+3. Conditional Uses Permitted. The
+following usesmay be allowed subjectto
+the applicable provisions of DCC 18. 61
+and DCC 18. 124, Site Plan Review, and
+DCC 18. 128, Conditional Use:
+a. Mini -storagefacility.
+b. Hydroelectric facility, subject to
+DCC 18. 116. 130 and 18. 128. 260.
+c. Asphalt plant.
+PAGE 4 of 11 — EXHIBIT " C" TO ORDINANCE NO. 2001- 044 ( 10/ 17/ 200 1)
+d. Lumber manufacturing and wood
+processing including pulp and paper
+manufacturing.
+e. Electrical substation.
+f. Concrete, asphalt and ready - mix
+plant.
+g. Petroleum products storage and
+distribution.
+h. Storage, crushingand processingof
+minerals, includingtheprocessingof
+aggregate into asphaltic concrete or
+portland cement concrete.
+i. Commercial feedlot, stockyard, sales
+yard, slaughterhouse and rendering
+plant.
+j. Railroad track, freight depot and
+related facilities.
+k. Agricultural products storage and
+processing plant.
+1. Transfer station.
+in. Automotive wrecking yard totally
+enclosedby a sight -obscuring fence.
+n. Any use permitted by DCC
+18. 61. 030( C)( 2) that is expected to:
+1. Require lot coverage in excess of
+70 per cent;
+2. Require more than one acre of
+land; or
+3. Generate any odor, dust, fumes,
+glare, flashing lights or noisethat
+would be perceptible without
+instruments 500 feet from the
+property line of the subject use.
+o. Service commercial use, such as
+office, restaurant, cafe, refreshment
+stand, barandtavern, whoseprimary
+purposes is to serve industrial uses in
+the surrounding area, provided that
+such use is allowed as part of an
+Industrial Park Master Plan.
+p. Wireless telecommunications
+facilities, except those facilities
+meeting the requirements of DCC
+18. 116. 250( A) or ( B).
+4. Use Limits. The following limitations
+and standards shall apply to uses listed in
+DCC 18.61. 030( C)( 2) and ( 3):
+a. Sewer and Water Requirements:
+1. New uses that require Oregon
+Department of Environmental
+PAGE 5 of 11 — EXHIBIT " C" TO ORDINANCE NO. 2001- 044 ( 10/ 17/200 1)
+Quality ( DEQ) Water Pollution
+Control Facility ( WPCF) permits
+shall be required to connect to
+the La Pine Sewer Treatment
+Facility in lieu of obtaining a
+WPCF permit.
+2. Uses that do not require a WPCF
+permit shall demonstrate the
+ability to obtain approval for an
+on- site sewage disposal system
+either before approval of the land
+use permit or as a condition of
+permit approval.
+3. If a use requires more than 5, 000
+gallons of water per day, an
+application shall be made to the
+Oregon Water Resources
+Department for a water rights
+permit or the use must be
+connected to a municipal,
+community or public water
+system.
+b. Compatibility:
+1. A use that requires a lot area
+exceeding9,000 squarefeet shall
+not be permitted to locate
+adjacent to a lot in a residential
+district.
+2. A use expected to generate more
+than 30 truck - trailer or other
+heavyequipmenttrips per dayto
+and from the subject property
+shall not be permitted to locate
+on a lot adjacent to or across a
+street from a lot in a residential
+district.
+3. Any use on a lot adjacent to or
+across the street from a lot in a
+residential district shall not emit
+odor, dust, fumes, glare, flashing
+lights, noise, or similar
+disturbances perceptible without
+instruments more than 200 feet
+in the direction of the affected
+residential use or lot.
+4. Storage, loading and parking
+areasfor usespermitted by DCC
+18. 61. 030( C)( 2) and ( 3) shall be
+screened from residential zones.
+PAGE5 of 11 — EXHIBIT "C" TO ORDINANCENO. 2001-044 (10/ 17/ 2001)
+5. No use requiring air contaminant d_ Requirements for Large Scale Tices,
+discharge permits shall be Any industrial use listed above in
+approved by the Planning DCC 18_61. 030( C)( 2,) and ( 3) may
+Director or Hearings Body prior he allowed in a building or hnildinuS
+to review by the applicable state exceeding 20, 000 square feet of floor
+or federal permit- reviewing space if the Planning Director or
+authority, nor shall such uses be Hearings Body finds-
+permitted adjacent to or across a 1 _ That such uses are necessaijyto
+street from a residential lot. provide employment that d0& 1;
+6. A property hosting a service not exceed th . ental iected
+commercial use shall be subject work force within the
+to a waiver of remonstrance community and the surrounding
+recorded in the Deschutes rural area;
+County Book of Records I That such uses would not rely
+declaring that the operator and upon a work force servedby ids
+his or her successors will not within urban growth boundaries- oundari s•
+nownowor in the future file a and
+a
+complaint aimed at curtailing 3 That the determination of the
+industrial activities on adjacent work force of the communitT
+properties conducted in and
+surrounding rural area
+conformance with DCC 18. 61. considers the total industrial and
+c. Traffic/ Parking commercial employment in the
+1. A use that generates more than community and is coordinated
+20 auto or truck trips during the with employment projections for
+busiesthour of the day to and nearby urban growth boundaries
+from the premises shall be 5. Additional Requirements. As a condition
+served directly by an arterial or of approval of any use proposed, the
+collector.
+Planning Director or Hearings body may
+2. An applicant must demonstrate require:
+that affected transportation a. An increase in required setbacks.
+facilities are adequate to serve b. Additional off- street parking and
+the proposeduse, considering the loading facilities.
+functional classification, c. Limitations on signs or lighting,
+capacity and the level of service hours of operation and points of
+of such facilities. ingress and egress.
+3. All parking demandcreatedby d. Additional landscaping, screening
+any use permitted by DCC and other improvements.
+18. 61. 030( C) shall be 6. Dimensional Standards. The following
+accommodated on the applicant' s dimensionalstandardsshallapply:
+premises entirely off- street. a. Minimum Lot Size. The minimum
+4. There shall be only one ingress lot size shall be determined subject
+and one egress from properties to the provisions of DCC
+accommodating usescovered by 18. 61. 030( C) concerning setback
+DCC 18. 61. 030( C) per each 300 requirements, off- street parking and
+feet or fraction thereof of street loading.
+frontage. If necessary to meet b. Lot Coverage. Notwithstanding
+this requirement, uses shall DCC 18. 61. 030( C)( 3)( n), a use
+provide for shared ingress and permitted by DCC 18.61.030( C) is
+egress. located adjacent to or across the
+street from a lot in a residential
+PAGE 6 of 11 — EXHIBIT " C" TO ORDINANCE NO. 2001- 044 ( 10/ 17/200 1)
+district shall not exceed 70 percent
+lot coverageby all buildings, storage
+areas or facilities and required off-
+streetparking and loading area.
+c. Setbacks.
+1. The minimum building setback
+between a non -railroad related
+structure and a street, road or
+railroad right- of- way line shall
+be 50 feet unless a greater
+setback is required for
+compliance with Comprehensive
+Plan policies.
+2. The minimum setback between a
+structure and a property line
+adjoining a residential district
+shall be 50 feet.
+3. The minimum setback between a
+structure and an existing use
+shall be three feet from the
+property line and at least six feet
+from a structureontheadjoining
+property.
+d. Building Heights. The maximum
+building height for any structure
+shall be 25 feet on any lot adjacentto
+or across a street from a residential
+district and45 feet on any other lot.
+e. Minimum Lot Frontage. The
+minimum lot frontage shall be 50
+feet.
+f. Side Yard. None required, except
+when a parcel or lot with a side yard
+adjacent to zoned forestland shall
+have a minimum side yard of 100
+feet.
+g. Rear Yard. None required, except
+when abutting a yard in a Residential
+District, and then the rear yard shall
+be a minimum of 20 feet. A parcel
+or lot with a rear yard adjacent to
+zoned forest land shall have a
+minimum rear yard of 100 feet.
+D_ La Pine Business Park District
+1 _ Uses Permitted Subject to Site Plan
+Review. The following uses and their
+accessory uses are permitted subject to
+theapplicahle provisions of DCC 18- 61
+and DCC 19- 116, Si pplementar;
+PAGE 7 of 11 — EXHIBIT " C" TO ORDINANCE NO. 2001- 044 ( 10/ 17/ 200 1)
+to a municipal, commun4
+or public
+m•. .
+that requires•
+exceeding• 111 square
+shall•• • e peri• itted to
+locateadincent to q lot
+residentialdistrict
+PAGE 8 of 11 — EXHIBIT " C" TO ORDINANCE NO. 2001- 044 ( 10/ 17/2001)
+1 1 • 1 . • 1 • • 1 • • •
+6161410111triTip1r; r$ ffwllgil7qF•• . 1 • • 1' 1J . 1• '! J • 1.
+1 " 11 1 • • • 1 • 1 . • " 1 1
+1 " • 1 • • • 1 • • . • 11 • . 1 1 • 11 • 1 " 1
+157.974 K AM 17MI
+11 • • 1- r 1-
+1 1 -• 1 • 1 - 1 - . • • 1 1 • . 1 . 1 - 1
+11 11 • • . 1 _ • ' YII 1 " 1 1 ' 11 1 11 11 • . / ' \• ' ' 1
+11 • • 1 1. -• • . 1 • 1 1 • /- 1
+11 - 1 - 1 - 11 - 1 1 . • • 1 . 1 " 1 • • 1 - •
+1 - • 1 . - • 1 - . 1 1 • - . 1 • 1 . 1 . 11 1 11 11
+1. : - 1 . 11 - 1 • 11 • 1 • 1" 11 1 11 11 •. •- \. -• 1
+its Is-
+u 11 1-
+WHY mil slicallild
+1 1 • 1 . • • . • . 1 1 : Umfirrarl . - • 1 1 - 11 .. 11 11 • • 1
+4. 1 1• PM1111MR1111111- • 1 • 1 r 1 1. /.
+11. 1114111 1111 • 1 • • 1 1 • 1 . 1 • . 1 . - 1 • • •
+1 • • • KOMI arellaw. 11rome 1 1 • • 11 . 1MoMM 1 . I 1 1IWOUS- • 1
+1- . 11 - a- • 1- •
+1 1 • 11 1 • - 11 - 1
+11. 1 • 1 . 1 1 . • 1 - • • . 1
+I u u • •" u 1 u u
+1. •- 1" 11 1. 1 1 -
+1 1  • 1 1 1 • - • .
+1 1I 1 11 • • 1 •- 1-
+of
+COMM. ru 1 1 •
+PAGE 9 of 11 — EXHIBIT " C" TO ORDINANCE NO. 2001- 044 ( 10/ 17/2001)
+DCC 18. 124, Site Plan Review, and DCC
+18. 128, Conditional Use and DCC
+18. 16. 040( A):
+a. Parks, playground or community
+centers owned and operated by a
+governmental agency or a nonprofit
+community organization.
+3. Dimensional Standards. The following
+dimensionalstandardsshallapply:
+a. Lot Coverage. No requirements.
+b. Building Height. No building or
+structure shall be erected or enlarged
+to exceed 30 feet in height, except as
+approved under DCC 18. 120. 040.
+4. Yard and Setback Requirements.
+a. Front Yard. The minimum front
+yard shall be 20 feet.
+b. Side Yard. A side yard shall be a
+minimum of five feet and the sum of
+the two side yards shall be a
+minimum of 15 feet.
+c. Rear Yard. The minimum rear yard
+shall be 20 feet.
+E -E La Pine Flood Plain District.
+All uses proposed within this district shall be
+subject to the provisions in DCC 18. 96, Flood
+Plain Zone.
+Fa LaPineCommunityFacilityDistrict.
+1. Uses Permitted Subject to Site Plan
+Review. The following uses and their
+accessory uses are permitted subject to
+the applicable provisions of DCC 18.61,
+DCC 18.116, SupplementaryProvisions
+and DCC 18. 124, Site Plan Review:
+a. Performing artscenter.
+b. Swimming pool.
+c. Community center.
+d. Public use.
+e. School.
+f. Theater.
+2. Yard and Setback Requirements.
+a. Front Yard. The front yard shall be
+no more than 15 feet, except as
+otherwise allowed by DCC
+18. 124. 070( D)( 2) and except when
+abutting a lot in a Residential
+District, in which case the front yard
+shall be the front yard required in the
+abutting Residential District. All
+buildings shall be set at the front
+yard setback line. A parcel or lot
+with a front yard adjacent to zoned
+forest land shall have a minimum
+front yard of 100 feet.
+b. Side Yard. None required, except
+when abutting a lot in a Residential
+District in which case the side yard
+shall be the side yard required in the
+abutting Residential District. A
+parcel or lot with a side yard adjacent
+to zoned forest land shall have a
+minimum side yard of 100 feet.
+c. Rear Yard. None required, except
+when abutting a yard in a Residential
+District, and then the rear yard shall
+be a minimum of 20 feet. A parcel
+or lot with a rear yard adjacent to
+zoned forest land shall have a
+minimum rear yard of 100 feet.
+3. Dimensional Standards. The following
+dimensionalstandardsshallapply:
+a. Lot Coverage. No requirements.
+b. Building Height. No building or
+structure shall be erected or enlarged
+to exceed 30 feet in height, except as
+approved under DCC 18. 120. 040.
+4. Lot Size.
+a. Lot Size. New lots shall have a
+minimum width of 50 feet and a
+minimum area of 5, 000 square feet.
+b. Lot Coverage. No requirements.
+c. Building Height. No building or
+structure shall be erected or enlarged
+to exceed 30 feet in height, except as
+approved under DCC 18. 120. 040.
+5. Additional Requirements. As a condition
+of approval of any use proposed, the
+PlanningDirectoror HearingsBody may
+require:
+a. An increase in required setbacks.
+b. Additional off- street parking and
+loading facilities.
+c.
+Limitations on signs or lighting,
+hours of operation and points of
+ingress and egress.
+d. Additional landscaping, screening
+and other improvements.
+PAGE 10 of 11 — EXHIBIT " C" TO ORDINANCE NO. 2001- 044 ( 10/ 17/200 1)
+61:1La Pine Community Facility Limited
+District.
+1. Uses Permitted Outright.
+a. Multi - use path.
+2. Uses Permitted Subject to Site Plan
+Review. The following uses and their
+accessory uses are permitted subject to
+applicable provisions of DCC 18. 61 and
+DCC 18.116, Supplementary Provisions,
+and DCC 18. 124, Site Plan Review:
+a. School.
+b. Park or playground.
+Ord. 2001- 044 § 3, 2001; 2001- 016 § 2, 2001;
+Ord. 2000- 015 § 2, 2000; Ord. 97- 063 § 3, 1997;
+Ord. 97- 041 § 1, 1997; Ord. 97- 017 § 4, 1997;
+Ord. 96- 003 § 1, 1996)
+PAGE 11 of 11 — EXHIBIT " C" TO ORDINANCE NO. 2001- 044 ( 10/ 17/ 200 1)
+EXMIT " D"
+18.116.030. Off-streetparking and
+loading.
+E. General Provisions — Off StreetParking
+5. Parking, Front Yard. Required
+parking and loading spaces for
+multi -family dwellings or
+commercial and industrial uses shall
+not be located in a required front
+yard, except in the Sunriver UUC
+Business Park ( BP) District, and the
+La Pine UUC Business Park ( LPBP)
+District, but such space may be
+located within a required side or rear
+yard.
+Ord. 2001- 044 § 4, 2001; 2001- 016 § 2,
+2001; Ord. 97- 078 § 6, 1997; Ord. 96-
+003 § 7, 1996; Ord. 93- 063 § 2, 1993;
+Ord. 93- 043 § 19, 1993; Ord. 91- 038 §
+1, 1991; Ord. 91- 020 § 1, 1991; Ord.
+90- 017 § 1, 1990)
+PAGE 1 or I — EXHIBIT " D" TO ORDINANCE NO. 2001- 044 ( 10/ 10/ 2001)
+EXHIBIT " E"
+93- 063 § 3, 1993; Ord. 93- 043 § 22B,
+1993; Ord. 93- 005 § 8, 1993)
+18. 124. 070. Required minimum
+standards.
+D. Commercial Development Standards:
+1. New commercial buildings shall be
+sited at the front yard setback line for
+lots with one frontage, and at both
+front yard setback lines for corner
+lots, except in the Sunriver UUC
+Business Park ( BP) District: and the
+La Pine UUC Business Park ( LPBP)
+District. For lots with more than two
+front yards, the building( s) shall be
+oriented to the two busiest streets.
+The building( s) and any eaves,
+overhangs or awnings shall not
+interfere with the required clear
+vision area at corners or driveways.
+2. An increase in the front yard setback
+may be allowed where the applicant
+can demonstrate that one or more of
+the following factors makes it
+impracticable to site the new
+building at the minimum street
+setback:
+a. Existing development on the site;
+b. Lot configuration;
+c. Topography of the lot;
+d. Significant trees or other
+vegetative features that could be
+retained by allowing a greater
+setback;
+e. Location of driveway access.
+Such an increase in the front
+yard shall be the minimum
+necessary to accommodate the
+reason for the increase.
+3. Off- street motor vehicle parking for
+new commercial developments in
+excess of 10, 000 square feet shall be
+located at the side or behind the
+building( s), except in the Sunriver
+UUC Business Park ( BP) District.
+Ord. 2001- 044 § 5, 2001; 2001- 016 § 2,
+2001; Ord. 97- 078 § 7, 1997; Ord.
+PAGE 1 of 1 — EXHIBIT " E" TO ORDINANCE NO. 2001- 044 ( 10/ 10/ 2001)
+N
+Q TAXLOTS
+N LAPINEPLANNINGAREABOUNDARY
+PROPOSED ZONE CHANGE
+LA PINE ZONING AREAS
+BUSINESS PARK DISTRICT
+COMMUNITY FACILITY DISTRICT
+Q COMMUNITYFACILITYLIMITEDDISTRICT
+COMMERCIAL DISTRICT
+FLOOD PLAIN DISTRICT
+INDUSTRIAL DISTRICT
+Q RESIDENTIALDISTRICT
+SEW ER TREATMENT PLANT DISTRICT
+FUTURE COMMERCIAL EXPANSION AREA
+EXHIBIT " F"
+Zone Change from
+La Pine Industrial District ( LPID) to
+La Pine Business Park District ( LPBP)
+Exhibit " F" to Ordinance 2001- 044
+October 10, 2001
+N
+W E
+S
+0. 25 0 0. 25 0. 5
+Emommod
+Map Scale in Miles
+Map Prepared By.
+De hu, es County
+G unllY eaebpment . t}.
+gSgAIME0.:
+GISGwabkeninM. ae.4onddMuriepWiq pw4.Eo'. 0
+iWtlig ee xee. ry of n- UeroW% a ET-. b. v. rnn+ r ww+... cmnn. mbn

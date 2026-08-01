@@ -1,0 +1,330 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-land-use-ch1230
+title: 'Ch1230'
+doc_type: ordinance
+citation: 'Ch1230'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/12%20Planning/Ch1230.pdf?t=202310092231000
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 34555e2cd2979c82c0987d7407c8bee79d0cbdcafb95c1c9f4ea0682b1c724cd
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 174.120
+    - ORS 197.352
+    - ORS 34.030
+  related: []
+  supersedes: []
+tags: [jackson-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch1230 (Ch1230)
+
+## At a glance
+
+Ch1230 — land use of Jackson County. 7 pages.
+
+## Full text
+
+CHAPTER 1230
+MEASURE 49 VESTED RIGHTS
+
+1230.01 Definitions.
+1230.02 Determination of Vested Rights under HB 3540, Section 5(3).
+1230.03 Comments by Persons Other than the Applicant.
+1230.04 Factors Considered to Determine Common Law Vested Right.
+1230.05 Notice of the Application; Notice of the Final Decision on Application.
+1230.06 Date Final County Vesting Decision Deemed Complete.
+1230.07 Judicial Review of Final County Vesting Decision.
+1230.08 Effect of Vesting Rights Determination on Subsequent Owners.
+1230.09 Rules for Computing Time.
+
+1230.01 DEFINITIONS.
+
+For purposes of this ordinance, the following definitions apply.
+
+(a) Applicant - means a person who has obtained Measure 37 relief from the Board and
+the State of Oregon, where applicable, and has applied to Jackson County Development
+Services for a Final County Vesting Decision.
+
+(b) Application - means an application form created by the Jackson County
+Development Services Director or designee and filed with Jackson County Development
+Services by an Applicant for a Final County Vesting Decision.
+
+(c) Argument - means assertions and analysis regarding the satisfaction or violation of
+legal standards or policy believed relevant by the proponent to a decision. Argument does
+not include facts.
+
+(d) Board - means the Jackson County Board of Commissioners.
+
+(e) Completed Application - means an Application deemed complete by the Review
+Authority.
+
+(f) County Counsel - means the Jackson County Counsel, or with the County Counsel’s
+consent, the Senior Assistant Jackson County Counsel, or Jackson County Counsel
+designee.
+
+(g) Development Services - means Jackson County Development Services.
+
+(h) Evidence - means facts, documents, data or other information offered to demonstrate
+compliance or noncompliance with the standards believed by the proponent to be relevant
+to the decision.
+35 Measure 49 Vested Rights 1230.02
+
+(i) Final County Vesting Decision - means a final written decision by the Review
+Authority on an Application that the Applicant does or does not have a vested right to
+continue and complete a use allowed under a Board Order granting the Applicant
+Measure 37 relief.
+
+(j) Independent Vesting Officer - means an attorney admitted to practice law in the
+State of Oregon who was hired by the Jackson County Administrator at the request and
+with the consent of the Jackson County Development Services Director.
+
+(k) Measure 37 - means Ballot Measure 37 approved by the voters in November, 2004
+and codified as ORS 197.352, 2005 replacement part.
+
+(l) Director - means the Jackson County Development Services Director, or with the
+Director’s consent, the Planning Director or designee.
+
+(m) Review Authority - is the Jackson County Development Services Director, or with
+the Director’s consent the Independent Vesting Officer; a Jackson County Hearings
+Officer; or other designee.
+
+(n) Working Days - means any day other than a federal or state of Oregon legal holiday
+or a day on which offices of Jackson County are otherwise authorized by law to remain
+closed.
+
+1230.02 DETERMINATION OF VESTED RIGHTS UNDER HB 3540, SECTION
+5(3).
+
+(a) Review Authority to Make Determination.  In accordance with the process
+described in Section 2.05, the Review Authority shall determine vested rights under HB
+3540, Section 5(3) pursuant to the test established by common law as reflected in Section
+4.
+
+(b) Delegation of Authority.  The Board hereby delegates authority to the Review
+Authority to make a Final County Vesting Decision on vested rights under HB 3540,
+Section 5(3) pursuant to the test established by common law.
+
+(c) Determination Subject to Judicial Review.  The Final County Vesting Decision is
+subject to Judicial Review as provided in Section 6 of this ordinance.
+
+(d) Basis of Determination.  The Review Authority must base its Final County Vesting
+Decision on whether the applicant’s use of the property complies with a Board Order, and
+a State DLCD Order, granting Measure 37 relief, and whether the applicant has a
+common law vested right as of December 6, 2007, to the relief granted in the waiver.
+1230.02 Measure 49 Vested Rights 36
+
+(e) Process.  The Review Authority shall make a Final County Vesting Decision under
+this ordinance in accordance with the process described in this subsection.
+
+(1) An Applicant who obtained an order from the Board, and the State DLCD,
+granting Measure 37 relief and who desires the County to make a vested rights
+determination under HB 3540, Section 5(3) shall submit an Application to
+Jackson County Development Services with information necessary to address
+the factors to establish a common law vested right.  The Review Authority is
+empowered to determine when the Application becomes a Completed
+Application and may require additional information beyond that originally
+submitted where necessary to address the factors to establish a common law
+vested right. All requested additional information shall be provided within
+thirty (30) calendar days of the date of the Review Authority=s request in order
+to be considered in the vesting analysis. The Applicant is responsible for the
+completeness, accuracy, and timeliness of all information submitted with the
+Application and all of the supporting documentation, including any additional
+information requested by the Review Authority.
+
+(2) The Review Authority will exercise its best efforts to make a timely decision
+on a Completed Application.
+
+(3) If no comments from persons other than the Applicant are received by 4:00
+p.m. on the 21st calendar day following issuance of notice under Section 5.01,
+the record shall be closed and the Review Authority shall make a Final County
+Vesting Decision on the record as it exists at that time.
+
+(4) If comments from persons other than the Applicant are received by 4:00 p.m.
+on the 21st calendar day following issuance of notice under Section 5.01, the
+record before the Review Authority shall be closed except for rebuttal
+comments by the applicant. Rebuttal arguments and/or evidence from the
+Applicant will thereafter be received by the Review Authority until the record
+is closed on the earlier of (a) the date the applicant notifies the Review
+Authority in writing that it desires the record closed; or (b) the 35th calendar
+day following issuance of notice under Section 5.01.
+
+(f) Application Materials.  An Applicant shall submit an Application to Jackson County
+Development Services.
+
+(1) The Application shall include the following:
+
+A. The name, mailing address, and phone number of the applicant and agent,
+if any.
+
+B. A legal description and tax lot number of the subject property as well as a
+street address for the property, if any.
+37 Measure 49 Vested Rights 1230.02
+
+C. Plot plan drawn to scale and pursuant to County instructions on a 8.5' x
+11' paper.
+
+D. A copy of the State of Oregon order granting the applicant Measure 37
+relief for the subject property.
+
+E. A copy of the Jackson County Board Order granting the applicant
+Measure 37 relief for the subject property.
+
+F. A description of the nature of the right claimed Avested@ and a
+description of how it this is consistent with the State and County M37
+final orders. A description in chronological order of actions, construction
+and/or physical improvements that support the vesting claim. (Please give
+specific dates if possible).
+
+G. A description of why improvements for the use could, or could not be
+used for purposes allowed by the current zoning of the property.
+
+H. Provide a time line describing the sequence of establishing the proposed
+use or improvements including when certain improvements or other work
+were committed, began, and when such work was completed.
+
+I. Copies of utility records, dated photographs, county property tax appraisal
+information, dated aerial photographs, tax records.
+
+J. Copies of receipts, licenses, bills of sale, contracts, notarized affidavits,
+etc. to document the date of establishment of the proposed use,
+structure(s) and/or physical improvement(s), and the continuity of any
+portions of the use since established.
+
+K. A description of the expenditures for work (if any) and why it was
+initiated, continued or completed after M49 was approved by the voters
+on November 6, 2007.
+
+L. Copies of permit information regarding land use, building, septic, or other
+permit documents.
+
+M. Additional information deemed appropriate by the Applicant to enable the
+Review Authority to make a Final County Vesting Decision.
+1230.04 Measure 49 Vested Rights 38
+
+1230.03 COMMENTS BY PERSONS OTHER THAN THE APPLICANT.
+
+(a) A person may submit written evidence, arguments or comments to Jackson County
+Development Services for consideration by the Review Authority until 4:00 p.m. on the
+21st calendar day following issuance of notice under Section 5.01.  No evidence,
+arguments or comments from persons other than the Applicant will be received by
+Jackson County Development Services for consideration by the Review Authority after
+4:00 p.m. on the 21st calendar day following issuance of notice under Section 5.01.
+
+1230.04 FACTORS CONSIDERED TO DETERMINE COMMON LAW VESTED
+RIGHT.
+
+(a) In determining whether the applicant has a vested right to continue and complete a
+use allowed under a Board Order granting Measure 37 relief, the Review Authority must
+consider the following factors based on the evidence submitted in the application:
+
+(1) The amount of money spent or committed by contract on developing the use in
+relation to the total cost of establishing the use.
+
+(2) The good faith of the property owner including the date’s money was spent or
+committed by contract.
+
+(3) Whether and/or when the property owner had notice of the proposed change in
+law before beginning development and/or improvement(s).
+
+(4) Whether the improvements could be used for other uses that are allowed under
+the new law.
+
+(5) The type of use, location and ultimate total cost of the
+development/improvement(s).
+
+(6) Whether the owner’s acts rise beyond mere contemplated use or preparation,
+such as the leveling of land, boring test holes, or preliminary negotiations with
+contractors or architects.
+
+(7) Other relevant factors as determined by the Review Authority.
+39 Measure 49 Vested Rights 1230.07
+
+1230.05 NOTICE OF THE APPLICATION; NOTICE OF THE FINAL
+DECISION ON APPLICATION.
+
+(a) Notice of the Application.  Not later than 5 (five)  working days after the Review
+Authority’s determination that an Applicant has submitted a Completed Application,
+Jackson County Development Services shall provide notice of the Completed Application
+by first-class U. S. mail, postage prepaid.  The date of mailing shall be included in the
+notice.  The notice shall include the name of the Applicant and the location of the subject
+property.  Notice shall be issued pursuant to Jackson County Land Development
+Ordinance 2.7.5 (B) and Department of Land Conservation and Development Rules.
+
+(b) Notice of the Final County Vesting Decision.  Not later than 5 (five) working days
+after the Review Authority has made and signed a Final County Vesting Decision,
+Jackson County Development Services shall provide notice of the decision by first class
+U. S. mail, postage prepaid.  The date of mailing shall be included in the notice.  Notice
+shall be issued to pursuant to Jackson County Land Development Ordinance 2.7.5 (B)
+and the Department of Land Conservation and Development Rules.
+
+1230.06 DATE FINAL COUNTY VESTING DECISION DEEMED COMPLETE.
+
+The Final County Vesting Decision is deemed complete at the time the Review Authority
+has made and signed a Final County Vesting Decision. The Final County Vesting
+Decision constitutes a final county decision that is subject to Judicial Review as provided
+in Section 7, below.
+
+1230.07 JUDICIAL REVIEW OF FINAL COUNTY VESTING DECISION.
+
+(a) A Final County Vesting Decision of the Review Authority made under this
+ordinance is not a land-use decision subject to review by the Land Use Board of Appeals.
+
+(b) A Final County Vesting Decision of the Review Authority made under this
+ordinance is subject to review by the Jackson County Circuit Court in a Writ of Review
+proceeding filed under Oregon Revised Statutes Chapter 34 by an Applicant or a person
+who is adversely affected by a Final County Vesting Decision.  A person is adversely
+affected for purposes of this section if the person is a person who submitted written
+evidence, arguments or comments to Jackson County Development Services before 4:00
+p.m. on the 21st calendar day following issuance of notice under Section 5.01.
+
+(c) Judicial review of a Final County Vesting Decision of the Review Authority is:
+
+(1) Limited to the evidence in the record before the Review Authority at the time
+the record is closed in accordance with Section 2.05(2) and (3).
+1230.09 Measure 49 Vested Rights 40
+
+(2) Available only for issues that are raised before the Review Authority with
+sufficient specificity to afford the Review Authority and Applicant an
+opportunity to respond.
+
+(d) For purposes of ORS 34.030, the Adate of the decision or determination sought to be
+reviewed@ is the date notice was issued under Section 5.02.
+
+1230.08 EFFECT OF VESTING RIGHTS DETERMINATION ON
+SUBSEQUENT OWNERS.
+
+(a) A Final County Vesting Decision by the Review Authority under this ordinance
+shall apply to a future owner or otherwise run with the land to the fullest extent allowed
+by law when the Final County Vesting Decision determines that:
+
+(1) An applicant’s use of the property complies with the Measure 37 waiver issued
+by the Board; and
+
+(2) The applicant has a common law vested right as of December 6, 2007, to
+complete and continue the use described in the waiver.
+
+1230.09 RULES FOR COMPUTING TIME.
+
+ORS 174.120, 2007 Edition, applies for purposes of computing time and deadlines under
+this ordinance.
+
+(E.Ord. 2008-2. Passed 3-12-08. P.Ord. 2008-3. Passed 3-12-08.)

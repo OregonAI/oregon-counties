@@ -1,0 +1,705 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-92-042
+title: 'Ordinance No. 92-042'
+doc_type: ordinance
+citation: 'Ordinance No. 92-042'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616695078_1992-26470-Ordinance%20No.%2092-042%20Recorded%208_6_1992.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 651d23a9733f19acc5e4e1215e0baff2b152541df0eb141e84dc2dda9a493e81
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 92-042 (Ordinance No. 92-042)
+
+## At a glance
+
+Ordinance No. 92-042 — orders of Deschutes County. 17 pages.
+
+## Full text
+
+92- 264' 70
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF
+REVIEWED
+t t L'i
+LEGAL COUNSEL
+DESCHUTES COUNTY, OREGON
+7- 7 , F t s' Cf d n
+An Ordinance Amending Title 18, * '
+Deschutes County Zoning Ordinance,
+of the Deschutes County Code,
+Concerning Wildlife Protection .,
+and Declaring and Emergency. * `
+F ' "`°"
+e
+8
+ORDINANCE NO. 92- 042
+WHEREAS, pursuant to the requirements of the Oregon Department
+of Land Conservation and Development ( LCDC) the County has been
+required to review and update its Comprehensive Land Use Plan and
+implementing ordinances, including for fish and wildlife resources,
+to assure continuing compliance with Statewide Land Use Planning
+Goals; and
+WHEREAS, it is necessary to amend certain provisions of Title
+18 of the Deschutes County Code, known as the Deschutes County
+Zoning Ordinance No. PL - 20, relating to fish and wildlife in order
+to complete periodic review;
+WHEREAS, public hearings have been held in furtherance of this
+objective in conformance with state law before the Deschutes County
+Planning Commission and the Board of County Commissioners for
+Deschutes County; and
+WHEREAS, the Board of County Commissioners has considered the
+recommendations of the Planning Commission and the public; now
+therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY ORDAINS
+as follows:
+Section 1. ADOPTION OF AMENDMENTS TO CHAPTER 18. 88. Chapter
+18. 88, Wildlife Area Combining Zone, of the Deschutes County Code,
+as amended, known as the Deschutes County Zoning Ordinance, is
+further amended to read as set forth in Exhibit " A" attached hereto
+and by this reference attached herein.
+Section 2. ADOPTION OF CHAPTER 18. 90. Title 18 of the
+Deschutes County Code, known as the Deschutes County Zoning
+Ordinance, as amended, is further amended to adopt a new Chapter
+18. 90, Sensitive Bird and Mammal Habitat Combining Zone, as set
+forth in Exhibit " B," attached hereto and by this reference
+incorporated herein.
+1 - ORDINANCE NO. 92- 042 ( 8/ 5/ 92 )
+C
+u. fCROFIL SEC
+r
+Section 3. ADOPTION OF AMENDMENT TO CHAPTER 18. 116. Chapter
+18. 116 of the Deschutes County Code, as amended, known as the
+Deschutes County Zoning Ordinance, is amended to replace Section
+18. 116. 120, Fences, to read as follows:
+18. 116. 120 Fences.
+A. Fences which form a solid barrier or are sight
+obstructive shall not exceed 3. 5 feet in height when
+located in a required front yard or in a clear vision
+area.
+B. Fences in Wildlife Area Combining Zones shall be
+to design standards that provide for safe migration of
+protected animals] designed in conformance with the
+requirements of Chapter 18. 88.
+C. All fences shall comply with the requirements of
+the State of Oregon Building Code."
+Section 4. FINDINGS. The Board of County Commissioners
+adopts as its findings and conclusions in support of this ordinance
+the findings attached as Exhibit " C" by this reference incorporated
+herein.
+Section 5. REPEAL OF ORDINANCES AS AFFECTING EXISTING
+LIABILITIES. The repeal, express or implied, of any ordinance,
+ordinance provision, or code section by this ordinance shall not
+release or extinguish any duty, condition, penalty, forfeiture, or
+liability incurred under such ordinance, unless a provision of this
+ordinance shall so expressly provide, and such ordinance repealed
+shall be treated as still remaining in force for the purpose of
+sustaining any proper action or prosecution for the enforcement of
+such duty, condition, penalty, forfeiture, or liability, and for
+the purpose of authorizing the prosecution, conviction and
+punishment of the person or persons who violated the repealed
+ordinance.
+Section 6. SEVERABILITY. The provisions of this ordinance
+are severable. If any section, sentence, clause, or phrase of this
+ordinance or any exhibit thereto is adjudged to be invalid by a
+court of competent jurisdiction that decision shall not affect the
+validity of the remaining portions of this ordinance or exhibit
+thereto.
+Section 7. CORRECTIONS. This ordinance may be corrected by
+order of the Board of County Commissioners to cure editorial and
+clerical errors and to insert appropriate legislative history
+references.
+2 - ORDINANCE NO. 92- 042 ( 8/ 5/ 92)
+01.10- 0288
+Section 8. EMERGENCY. This Ordinance being necessary for the
+immediate preservation of the public peace, health and safety, an
+emergency is declared to exist, and this Ordinance takes effect on
+its passage.
+DATED this
+61P
+day of August, 19 1.
+BOARD O COUNTY COMMISSIONERS
+OF QWWJTES COUNTY, OREGON
+s
+Y, PjOPP%\; C44ANGEN, ' Cbmmi ioner
+Dreg MAUDLIN, Chairman
+3 - ORDINANCE NO. 92- 042 ( 8/ 5/ 92)
+EXHIBIT " A"
+0:119--,0289
+Note: Deleted wording is in brackets [ ]; new wording is
+underlined and bold.
+CHAPTER 18. 88
+WILDLIFE AREA COMBINING ( WA) ZONE
+Sections:
+18. 11. 010 Purpose
+18. 88. 020 Application of Provisions
+18. 88. 030 Uses Permitted Outright
+18. 88. 040 Uses Permitted Conditionally
+18. 88. 050 Use Limitations]
+18. 88. 0[ 6] 50 Dimensional Standards
+18. 88. 0[ 7] 60 Siting Standards
+18. 88. 070 Fencing Standards
+In any zone which is a Wildlife Area Combining Zone ( WA), the
+requirements and standards of this chapter shall apply in
+addition to those specified in this title for the [ such]
+underlying zone. If a conflict in regulations or standards
+occurs, the provisions of this section shall govern except
+that the larger minimum lot size shall always apply.
+18. 88. 010 Purpose
+The purpose of the Wildlife Area Combining Zone is to
+conserve important wildlife areas in Deschutes County; to
+protect an important environmental, social, and economic
+element of the area; and to permit development compatible
+with the protection of the wildlife resource.
+18. 88. 020 Application of Provisions
+The provisions of this section shall apply to all areas
+identified in the Comprehensive Plan as a winter deer range,
+significant elk habitat, antelope range or deer migration
+corridor [ or riparian area]. Rural Service Centers are
+exempt from the provisions of this title.
+18. 88. 030 Uses Permitted Outright
+In a zone with which the WA Zone is combined, the uses
+permitted outright shall be those permitted outright by the
+underlying zone [ with which the WA Zone is combined].
+ORDINANCE NO. 92- 042
+Exhibit " A"
+18. 88. 040 Uses Permitted Conditionaliv 01-19- 0290
+A. Except as provided in Section B, [ I] in a zone with
+which the WA Zone is combined, the conditional uses
+permitted shall be those permitted conditionally by the
+underlying zone subject to the provisions of the
+Comprehensive Plan, Section 18. 128 of this title and
+other applicable sections of this title. [ with which
+the WA Zone is combined].
+B. The following uses are not permitted in the WA zone as
+conditional uses:
+1. Golf course. not included in a destination
+resort;
+2. Commercial docs kennel;
+3. Church;
+4. Public or private school;
+5. Bed and breakfast inn;
+6. Dude ranch;
+7. Playground. recreation facility or community
+center owned and operated by a government agency
+or a nonprofit community organization;
+8. Timeshare unit;
+9. Animal hospital;
+10. Fishing lodge.
+C. An application for a destination resort. or any portion
+thereof, in a wildlife area combining zone shall not be
+accepted pending completion of the County' s Goal 8
+destination resort mapping process.
+18. 88. 050 Use Limitations]
+All residential, commercial or industrial developments
+within the WA Zone shall be a cluster development
+residential only), a planned development, or a destination
+resort and shall conform to the provisions of sections
+18. 128. 040( P), ( Q) or ( R).]
+18. 88. 050 Dimensional Standards
+In a WA Zone, the following dimensional standards shall
+apply:
+A. In the Tumalo, Metolius. North Paulina and Grizzly
+deer winter ranges designated in the Comprehensive
+Plan Resource Element the minimum lot size for new
+parcels shall be 40 acres except as provided in
+section " D". [ Minimum lot size shall be 40 acres in
+the Metolius, and North Paulina and Tumalo deer winter
+ranges, except that planned developments in these
+areas shall be allowed to conform to the density of
+the underlying zone.]
+ORDINANCE NO. 92- 042
+Exhibit " A"
+0. 19- 0291
+B. Planned or cluster developments shall have a minimum
+area of 160 acres. Parcels existing under single
+ownership at the time of adoption of this title that
+are at least 40 acres [ in size which] may also be
+considered for planned or cluster development status.]
+C. In the Tumalo deer winter range, the minimum acreage
+shall be as designated in the Tumalo winter range
+study. Planned or cluster developments in this area
+shall be at least 160 acres in size unless a 40 acre
+or larger parcel existed under single ownership at the
+time of the adoption of this ordinance, in which case
+the parcel may be considered for planned or cluster
+development status.]
+B. In areas designated as significant elk habitat in the
+Comprehensive Plan Resource Element, the minimum lot
+size for new Rarcels shall be 160 acres.
+C[ D]. In areas designated as [ the] antelope range in the
+Comprehensive Plan Resource Element, the minimum lot
+size for new parcels shall be 320 acres. [ Planned or
+cluster developments shall be 320 acres unless a 40
+acre or larger parcel existed under single ownership
+at the time of the adoption of this ordinance, in
+which case the parcel may be eligible for planned or
+cluster development status.]
+D. Residential land divisions, including vartitions, in
+deer winter range where the underlying zone is RR - 10
+or NUA- 10, shall not be permitted except as a planned
+development or cluster development conforming to the
+following standards:
+1. The minimum area for a planned or cluster
+development shall be at least 40 acres.
+2. The Rlanned or cluster development shall retain a
+minimum of 80 percent open space and conform with
+the provisions of Sections 18. 128. 040( P) or ( 0).
+3. Notwithstanding the provisions of Title
+18. 128. 040 ( P) or ( 0). or Title 18. 060( C). the
+total number of residences in a cluster
+development may not exceed the density permitted
+in the underlying zone.
+E. Residential land divisions, including partitions, in
+the Bend/ La Pine Deer Migration Corridor where the
+underlying zone is RR - 10 shall not be permitted except
+as a cluster development conforming to the following
+standards:
+ORDINANCE NO. 92- 042
+Exhibit " A"
+0119= 0292
+1. The minimum area for a cluster development shall
+be at least 20 acres.
+2. The cluster development shall retain a minimum of
+80 percent open space and conform with the
+provisions of Section 18. 128. 040 ( P) or( Q).
+3. Notwithstanding the provisions of Title
+18. 128. 040 ( P). or Title 18. 6O. O6O( C). the total
+number of residences in the cluster development
+may not exceed the density permitted in the
+underlying zone.
+E. In riparian areas, the minimum parcel size shall be
+that determined by the County Sanitarian and Planning
+Director or Hearings Body, with advice from the Oregon
+Fish & Wildlife Department, necessary to protect the
+health and safety of the public as well as fish and
+wildlife resources. ( ORD 91- 020 1, 1991)]
+18. 88. 060 Siting Standards
+A. Setbacks shall be [ as] those described in the underlying
+zone with which the WA Zone is combined.
+B. New dwellings shall be located within 300 feet of public
+roads or easements or private roads or easements
+existing as of August S. 1992 unless it can be found
+that:
+1. Habitat values ( i. e. browse, forage, cover. access
+to water) and migration corridors are afforded
+equal or greater protection through a different
+development pattern; or,
+2. The siting within 300 feet of such roads or
+easements would force the dwelling to be located on
+irrigated land. in which case, the dwelling shall
+be located to provide the least impact on wildlife
+habitat possible considering browse, forage, cover,
+access to water, migration corridors, and
+minimizing length of new access roads.
+18. 88. 070 Fence Standards
+The following fencing provisions shall apply as a condition
+of approval for any new fences constructed as a part of
+development of a property in conjunction with a conditional
+use permit or site plan review.
+ORDINANCE NO. 92- 042
+Exhibit " A"
+A. New fences in the Wildlife Area Combining Zone shall be
+designed to permit wildlife passage. The following
+standards and guidelines shall apply unless an
+alternative fence design which provides equivalent
+wildlife passage is approved by the County after
+consultation with the Oregon Department of Fish and
+Wildlife:
+1. The distance between the ground and the bottom
+strand or board of the fence shall be at least 15
+inches.
+2. The height of the fence shall not exceed 48 inches
+above ground level.
+3. Smooth wire and wooden fences that allow passage of
+wildlife are preferred. Woven wire fences are
+discouraged.
+B. Exemptions:
+1. Fences encompassing less than 10. 000 square feet
+which surround or are adjacent to residences or
+structures are exempt from the above fencing
+standards.
+2. Corrals used for working livestock.
+ORDINANCE NO. 92- 042
+Exhibit " A"
+EXHIBIT " B"
+0-1.19- 0294
+Section 18. 90. 00 Sensitive Bird & mammal Habitat Combining
+Zone - SBMH
+Section 18. 90. 010 Purpose
+1. The purpose of the Sensitive Bird and Mammal Combining
+Zone is to insure that habitat areas identified in the
+County' s Goal 5 sensitive bird and mammal inventory as
+critical for the survival of. - the northern - bald eagle,
+great blue heron, golden eagle, prairie falcon, osprey,
+great grey owl, sage grouse, and the Townsend' s
+big - eared bat are protected from the effects of
+conflicting uses or activities which are not subject to
+the Forest Practices Act. This objective shall be
+achieved through the establishment of site specific
+management plans that are developed to insure that
+proposed uses and activities will neither destroy or
+result in the abandonment of sensitive bird or mammal
+habitat areas.
+Section 18. 90. 020 Definition of Habitat Sites
+1. The sensitive habitat site to be protected by the
+provisions of this chapter is defined as the area:
+1. Within a radius of 1320 feet of a golden
+eagle, bald eagle, prairie falcon nest, osprey
+nest, sage grouse lek, or a Townsend' s
+big - eared bat hibernating or nursery site.
+2. Within a radius of 300 feet of a great blue
+heron rookery.
+3. Within a radius of 900 feet of a great grey
+owl nest site.
+For purposes of triggering the review process set forth
+in this Chapter, where the precise location of the nest,
+hibernation or nursery site or rookery can be located
+only to the nearest quarter section, the nest, lek,
+hibernation or nursery site or rookery shall be deemed
+to take up the entire quarter section.
+2. Habitat sites located on
+the provisions of this
+identified in Section
+non- federal land.
+ORDINANCE 92- 042
+Exhibit " B"
+Page 1
+federal land are not subject to
+chapter unless the habitat area
+00. 00. 020 ( 1) extends onto
+Section 18. 90. 030 Development and Uses Permitted 0119- 0295
+1. Uses permitted in the underlying zone( s) are permitted
+or conditionally permitted in the Sensitive Bird and
+Mammal Combining Zone subject to the additional
+procedure and requirements of Section 00. 00. 040. The
+Sensitive Bird and Mammal Habitat Combining Zone does
+not regulate forest practices subject to the Forest
+Practices Act.
+Section 18. 90. 040 Applicability
+A. Review under this Chapter shall be triggered by the
+following proposals occurring within a wildlife
+habitat
+site, as defined in Section 18. 90. 020 of this Chapter:
+1) An application for a building permit for a new
+structure;
+2) Land divisions;
+3) An application for a conditional use; or
+4) An application for site plan.
+B. Site- specific determination of applicability:
+1. In instances where the precise location of the
+habitat site has not been identified in the
+County' s Goal 5 inventory of sensitive birds and
+mammals, the County shall prior to acceptance of an
+application seek a determination from ODFW pursuant
+to a determination of whether any part of
+applicant' s lot or parcel falls within the habitat
+site.
+2. If ODFW finds that applicant' s lot or parcel or a
+portion thereof does lie within the habitat site,
+applicant shall be required to proceed in
+accordance with Section 18. 090. 060. If ODFW finds
+the applicant' s lot or parcel does not fall within
+the habitat site, applicant' s proposal shall not be
+governed by this Chapter.
+3. If ODFW fails to respond with the 20 - day time
+period, it shall be presumed that applicant' s
+property does not lie within the habitat site.
+Section 18. 90. 050 Preapplication Consultation with ODFW
+A. Prior to acceptance of an application involving a lot or
+parcel lying in whole or in part within a habitat site
+ORDINANCE 92- 042
+Exhibit " B"
+01.19- 0296
+as defined in Section 18. 90. 020, applicant shall submit
+sufficient information to the County about its proposal
+so that the County, in consultation with ODFW, can
+determine whether applicant' s property falls within the
+habitat site and if so what impacts the proposal may
+have on the habitat site.
+B. Upon notification, ODFW shall have 20 days to respond to
+the County, identifying the precise location of the
+sensitive bird or mammal site, determining whether the
+wildlife site is active or abandoned, and determining
+whether the proposal will destroy a nesting,
+hibernating, nursery, lek or rookery site or to a
+reasonable certainty cause the site to be abandoned.
+Section 18. 90. 0601 Management Plan Requirement
+For those proposal proposed for a lot or parcel lying within
+a habitat site, as defined under Section 18. 90. 020 and a
+verified by ODFW under Section 18. 90. 040, a management plan
+shall be prepared in accordance with the requirements of this
+section prior to acceptance of an application subject to this
+Chapter.
+A. Notwithstanding the remainder of this section, if the
+habitat site covers only a portion of applicant' s lot or
+parcel and applicant proposes to locate the proposed use
+outside of the habitat site, the management plan shall
+consist of a plot plan detailing the location of the
+proposed use in relation to the habitat site as it falls
+on the lot or parcel. Said plot plan shall be approved
+as a management plan under this section if it shows the
+subject use to be located outside the habitat site.
+Approval of the use shall be conditioned upon location
+the use in accordance with the approved plan plan.
+B. A management plan shall consider the biology of the
+identified sensitive species, nesting trees, critical
+nesting periods, roosting sites and buffer areas. Where
+appropriate, the plan shall specify timeframes for
+implementation. The plan may dictate placement of the
+proposed use within the habitat site and place
+restrictions upon the manner and time period of
+operations.
+C. The County shall submit a copy of the management plan to
+ODFW for comment. ODFW shall have 20 days from the date
+of the management plan is mailed to submit written
+comments to the County.
+D. Based upon the record, the County shall approve or
+reject the management plan based upon whether the
+protection proposed in the plan would avoid destruction
+ORDINANCE 92- 042
+Exhibit " B"
+QX 9- 0297
+of the subject nesting site, lek, hibernation or nursery
+site or rookery or would to a reasonable certainty avoid
+causing such a site to be abandoned. In lieu of
+rejection of the management plan, the County may allow
+the applicant to revise the management plan if applicant
+has not met the standard for approval. Applicant shall
+waive the 120 - day time limit if it chooses to revise the
+management plan.
+E. In lieu of a management plan, if applicant believes that
+its proposal would not destroy a nesting site, lek,
+hibernation or nursery site or rookery or would not with
+a reasonable certainty cause such a site to be
+abandoned, applicant shall provide justification for
+such an exception and County shall after consultation
+with ODFW either approve or deny the exception request.
+F. Approval of a management plan under this section shall
+be conditioned upon applicant' s implementation of the
+plan.
+CDM/ mjz
+ORDINANCE 92- 042
+Exhibit " B"
+EXHIBIT " C"
+13- 038
+FINDINGS OF BOARD OF COUNTY COMMISSIONERS
+SUPPORTING ADOPTION OF RESOURCE ELEMENT OF THE COMPREHENSIVE PLAN,
+AMENDMENTS TO TITLE 18. 88 OF THE DESCHUTES COUNTY CODE.
+Purpose
+1. The purpose of these findings is to support the adoption by
+the Board of County Commissioners ( Board) of : 1) a new Fish
+and Wildlife Chapter to the Resource Element of the Deschutes
+County Year 2000 Comprehensive Plan including the inventory,
+conflicts analysis and the analysis of the economic, social,
+environmental and energy ( ESEE) consequences of protecting or
+not protecting County fish and wildlife resources; 2)
+amendments to the Goals and Policies in the Fish and Wildlife
+Chapter of the Deschutes County Year 2000 Comprehensive Plan;
+3) amendments to Title 18. 88 Wildlife Area Combining Zone of
+the Deschutes County Code; 4) Title 18. 90 Sensitive Bird and
+Mammal Combining Zone; 5) the National Wetland Inventory Maps
+for the Wildlife Area Combining Zone and the Sensitive Bird
+and Mammal Combining Zone.
+2. The wildlife inventory, and ESEEs are required to comply with
+Statewide Planning Goal 5 and its implementing administrative
+rule OAR 660- 16- 000. The adoption of the inventories and
+amendments to the Comprehensive Plan and Title 18 have been
+conducted pursuant to the periodic review of the County' s
+comprehensive plan and implementing ordinances required by ORS
+Chapter 197 and OAR 660- 19- 000.
+Procedural Background
+3. On November 1, 1979, the Board of County Commissioners adopted
+its County Comprehensive Plan, including goals and policies
+for protection of fish and wildlife resources. The Fish and
+Wildlife chapter of the Resource Element of the Comprehensive
+Plan contains inventories and discussion of fish and wildlife
+resources in the county. On November 1, 1979, the Board
+adopted PL - 15 which containing the provisions for the Wildlife
+Area Combining Zone.
+4. On June 30, 1986, the Board adopted the Deschutes County/ City
+of Bend River Study as an amendment to the Deschutes County
+Year 2000 Comprehensive Plan. The River Study contains
+inventories of fish and wildlife resources and ESEEs analyzing
+the uses conflicting with the fish and wildlife resources in
+the Deschutes River corridor and its tributaries. On the same
+date, the Board adopted amendments to the Comprehensive Plan
+regarding fish and wildlife resources in the river corridor
+and implementing ordinances to implement programs to protect
+the river corridor and its fish and wildlife resources.
+1 - EXHIBIT " C" FOR ORDINANCE NO. 92- 042 ( 8/ 5/ 92)
+1119- 00299
+5. The County submitted a draft periodic review order to the
+Department of Land Conservation and Development ( DLCD) in
+1989. The draft periodic review order contained fish and
+wildlife inventories and ESEEs. On August 27, 1990, DLCD
+submitted comments to the County on the draft periodic review
+order. The comments identified deficiencies in the ESEE
+analysis, conclusions and program to implement Goal 5, and
+also, identified criteria in the Wildlife Area Combining Zone
+that were not clear and objective as required by OAR
+660- 16- 010( 3).
+6. The Deschutes County Planning Commission conducted two public
+hearings on March 11 and April 22, 1992, to take testimony on
+the draft fish and wildlife element of the Comprehensive Plan
+and draft amendments to Title 18 and the Deschutes County
+Zoning map for the Wildlife Area Combining Zone and Sensitive
+Bird and Mammal Combining Zone. The Planning Commission
+conducted work sessions on the Goal 5 wildlife amendments on
+February 12 and March 25, 1992. On May 13, 1992, the Planning
+Commission recommended approval of the proposed fish and
+wildlife changes to the Deschutes County Year 2000
+Comprehensive Plan and Title 18 to the Board of County
+Commissioners.
+7. The Board of County Commissioners held a public hearing on May
+26, 1992, to consider testimony on the recommendation of the
+Planning Commission on the proposed amendments to the
+Comprehensive Plan and Title 18.
+Compliance with Goal 5.
+8. Goal 5 is met through ( a) the adoption of Goals and Policies
+in Ordinance 92- 040 reflecting Goal 5 requirements; ( b) the
+adoption of Ordinance 92- 041, which pursuant to the Goal 5
+rule amends the comprehensive plan to inventory each Goal 5
+resource, analyze conflicting uses, and analyze the ESEE
+consequences of protecting or not protecting inventoried fish
+and wildlife resources, ( c) the adoption of zoning ordinance
+provisions in Ordinance 92- 042, as applied to inventoried
+sites by the map adopted by Ordinance 92- 046, which together
+constitute the County' s program to meet the Goal, and ( d) the
+adoption of specific timelines in Ordinance 92- 040 for
+revisiting resource sites inventoried as so- called " 1B" sites
+under the Goal 5 rule.
+9. To comply with the requirements of Goal 5 and OAR 660- 16- 000,
+the County worked with the Oregon Department of Fish and
+Wildlife to obtain the most recent inventory information on
+fish and wildlife resources in the county and to identify uses
+conflicting with the fish and wildlife resources. This
+inventory information was used to update the inventories in
+the draft periodic review order and amend the draft ESEE
+2 - EXHIBIT " C" FOR ORDINANCE NO. 92- 042 ( 8/ 5/ 92)
+01Z. -1g. 0
+analyses. In addition, ODFW provided information to support
+zoning ordinance provisions to resolve conflicts between fish
+and wildlife resource protection and development.
+10. The Board finds that the Goal 5 analysis contained in
+Ordinance 92- 041 for each resource is sufficient to meet the
+Goal 5 requirements without requiring additional findings
+here.
+Compliance with Other Goals
+11. GOAL 1 - CITIZEN INVOLVEMENT. The Board finds that Goal 1 is
+complied with by the notice given and public hearings, as
+detailed in the findings set forth herein, held both before
+the Commission and before the Board during this Goal 5 process
+and by the provisions for citizen participation under the
+County' s Development Procedures Ordinance, codified at Title
+22 of the Deschutes County Code.
+12. GOAL 2 - LAND USE PLANNING. The purpose of Statewide Planning
+Goal 2 is the establish a land use planning process and to
+assure an adequate factual base for land use decision- making.
+The goal is satisfied in this case by: ( a) the adoption of an
+inventory of fish and wildlife resources as part of the
+County' s comprehensive plan; ( b) the conflicts and ESEE
+analysis for each resource; ( c) the existence of a zoning
+ordinance that, as amended, will implement the ESEE decisions
+through clear and objective standards; ( d) by the adoption of
+maps showing wildlife areas; and ( e) by the extensive factual
+record generated by the inventory and ESEE process and the
+site specific treatment of each site.
+13. GOAL 3 - AGRICULTURAL LANDS. This ordinance does not conflict
+with Goal 3. It does not promote new non- farm uses on farm
+lands. Where there have been conflicts identified with farm
+uses, such as with the fencing standards found in Chapter
+18. 88 or the siting standards of Chapter 18. 88, those
+conflicts have been recognized and accommodated. It does not
+preclude continuation of any existing farming practices.
+Consequently, adoption of the County' s historic resources
+package does not conflict with Goal 3.
+14. GOAL 4 - FOREST LANDS. The Goal 4 analysis with respect to
+forest lands is the same as that set forth under Goal 3 with
+respect to farm lands.
+15. GOAL 6 - AIR, LAND, AND WATER RESOURCES. Preservation of
+inventoried fish and wildlife resources does not conflict with
+Goal 6, since protection of such resources does not promote
+additional development.
+3 - EXHIBIT " C" FOR ORDINANCE NO. 92- 042 ( 8/ 5/ 92)
+16. GOAL 7 - AREAS SUBJECT TO NATURAL DISASTERS AND HAZARDS. Not
+applicable.
+17. GOAL 8 - RECREATION NEEDS. Providing for recreational needs
+is important to the Deschutes County economy. Enjoyment of
+fish and wildlife resources is an integral part of outdoor
+recreational experiences.
+With respect to destination resorts, the Board finds that the
+decision on the siting of destination resorts in the Wildlife
+Area Combining Zone should be delayed and be considered at the
+time the Board completes the Goal 8 destination resort mapping
+for irrigated agricultural lands. Goal 8 prohibits siting of
+destination resorts in areas identified as " especially
+sensitive big game habitat". The County has inventoried and
+mapped significant big game habitat as a Goal 5 resource; and
+to specifically limit conflicting uses on this identified
+habitat. Under this package, such inventoried lands are zoned
+with the Wildlife Area Combining Zone ( Title 18. 88).
+The County inventoried big game habitat is more extensive than
+the area identified as " especially sensitive big game
+habitat". Until the Board reconciles the difference between
+the Goal 8 " especially sensitive big game habitat" and the
+Goal 5 inventoried significant big game habitat, no
+applications will be accepted for any part of a destination
+resort in the Wildlife Area Combining Zone. The Goal 8
+requirement precluding siting of destination resorts in the
+especially sensitive big game habitat is met by this interim
+bar to applications in all the County' s wildlife areas.
+18. GOAL 9 - ECONOMY OF THE STATE. Preservation of fish and
+wildlife resources contributes to Oregon' s increasingly
+important tourism industry. The Board finds that the
+restrictions set forth in the wildlife provisions in the
+zoning ordinance will further the preservation of fish and
+wildlife resources by providing for a review of proposed
+alterations and demolitions of historic structures. The
+restrictions on siting of structures does not prevent
+structures from being built on any lot or parcel.
+19. GOAL 10 - HOUSING. This Goal is not implicated by the fish
+and wildlife policies adopted as part of this package. The
+Plan to implement the Goal applies wildlife restrictions in
+designated Wildlife Area overlays. These overlays apply only
+outside Urban Growth Boundaries. Under the Goals, housing
+needs are to be addressed chiefly by measures taken inside the
+urban growth boundary.
+4 - EXHIBIT " C" FOR ORDINANCE NO. 92- 042 ( 8/ 5/ 92)
+20. GOAL 11 - PUBLIC FACILITIES. Not particularly applicable, as
+the proposal does not propose new development. The provisions
+encourage clustering, which can make the delivery of public
+services more efficient.
+21. GOAL 12 - TRANSPORTATION. Not particularly applicable, as the
+wildlife package does not propose new development. The
+provisions encourage clustering, which can make for more
+efficient transportation.
+22. GOAL 13 - ENERGY CONSERVATION. Not applicable, as no new
+development is proposed by the package. The promotion of
+clustering and siting of development close to existing roads
+will result in energy conservation.
+23. GOALS 14 - 19. Not applicable.
+ordina\ 92- 040. exb
+5 - EXHIBIT " C" FOR ORDINANCE NO. 92- 042 ( 8/ 5/ 92)

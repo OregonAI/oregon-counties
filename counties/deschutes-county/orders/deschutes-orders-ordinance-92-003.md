@@ -1,0 +1,194 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-92-003
+title: 'Ordinance No. 92-003'
+doc_type: ordinance
+citation: 'Ordinance No. 92-003'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616692380_1992-05047-Ordinance%20No.%2092-003%20Recorded%202_10_1992.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9b2f90aac8d1124a7b9eae8d7f7bf82a59bca1da6d66aefce96912bc1a6246f8
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 92-003 (Ordinance No. 92-003)
+
+## At a glance
+
+Ordinance No. 92-003 — orders of Deschutes County. 5 pages.
+
+## Full text
+
+REVIEWED
+I_ EC l Cot) NSEL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 18 of *
+010 Z the Deschutes County Code to Adopt * 9
+Maps Zoning for Destination Resorts
+and Declaring an Emergency.
+82- 05047
+ORDINANCE NO. 92- 003
+WHEREAS, Deschutes County has determined to implt aCDC
+Statewide Planning Goal 8; and cn
+WHEREAS, Goal 8 requires the County to adopt a zoning map
+showing where Destination Resorts can be sited in the County; and
+WHEREAS, public hearings have been held in conformance with
+state law to implement the Goal 8 mapping requirement; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+ORDAINS AS FOLLOWS:
+Section 1. Title 18 of the Deschutes County Code, the County
+Zoning Ordinance, as amended, is further amended to map as an overlay
+zone entitled the " Destination Resort Zone" ( DR) those areas so
+denoted on ( 1) the county - wide map labelled " Deschutes County
+Comprehensive Plan Destination Resort Map and Destination Resort
+Combining Zone Map", separately signed by the Board of County
+Commissioners on this date, and by this reference incoporated herein,
+and ( 2) the series of 8 maps showing portions of the above - reference
+county - wide map in greater detail, each of which have been separately
+signed by the Board of County Commissioners on this date and each of
+which have by this reference been incorporated herein.
+Section 2. The Board of County Commissioners adopts as its
+findings and conclusions in support of this amendment the findings
+attached as Exhibit " A" to Ordinance 92- 002, adopted on this date,
+and the findings attached hereto as Exhibit " A" and by this reference
+incorporated herein.
+I' ll
+HE
+FEB
+11992
+PAGE 1 - ORDINANCE NO. 92- 003
+M!.'' MRLMED
+MAR
+0108 1410
+Section 3. This Ordinance being necessary for the immediate
+preservation of the public peace, health and safety, an emergency is
+declared to exist, and this Ordinance takes effect on its passage.
+DATED this ', day of February, 1992.
+BOARD OF OUNTY COMMISSIONERS
+OF DES HU ES COUNTY, OREGON
+M r.VHRUUY ommis ion r
+T T NANC POP C LANGEN, Commis Toner
+Recording Secretary 15,fCT MAUDLI , Chairman
+PAGE 2 - ORDINANCE NO. 92- 003
+0108 1411
+Exhibit B
+FINDINGS IN SUPPORT OF DESTINATION RESORT
+ORDINANCES 92- 001, 92- 002, 92- 003, and 92- 004
+1. On April 19, 1991, the County accepted an application from Eagle
+Crest Partners, Ltd. for a legislative amendment to the
+Deschutes County Comprehensive Plan and the Deschutes County
+Zoning Ordinance to implement the provisions of LCDC Statewide
+Planning Goal 8 relating to destination resort siting on
+resource lands.
+2. Goal 8 sets forth two components for Counties seeking to
+implement the Goal' s destination resort siting program. First,
+the County must identify those areas in the County available for
+destination resort siting after identifying and excluding
+certain farm and forest resource lands, wildlife habitat areas,
+and areas including inventoried Goal 5 resources fully protected
+under the County' s acknowledged comprehensive plan. The second
+component is to implement regulations that will at a minimum ( 1)
+maintain identified natural features, such as threatened or
+endamgered species, streams, river and significant wetlands; ( 2)
+provide buffers and setbacks between improvements and activities
+taking place within destination resorts in order to avoid or
+minimize adverse effects of destination resorts on surrounding
+lands; ( 3) limit uses occurring within the destination resort to
+those permitted by Goal 8; and ( 4) provide assurance that the
+required developed recreational facilities, visitor - oriented
+accommodations, and other key facilities are physically provided
+or are guaranteed through surety bonding or other substantially
+equivalent financial assurances prior to closure of sale of
+individual lots or units.
+3. The Planning Commission held several public hearings and
+worksession at which destination resorts and their impacts were
+generally reviewed; policies were reviewed for determining which
+of the resource lands in the County should be made available for
+destination resort siting; data concerning certain classes of
+resource lands required to be excluded from destination resort
+siting was reviewed; and a proposed ordinance regulating siting
+of destination resorts was reviewed.
+4. Based upon their extensive review of the issues and the data,
+the Planning Commission issued a report recommending a
+destination resort package to the Board of County Commissioners,
+which included a proposed map for siting destination resorts, a
+proposed zoning ordinance regulating destination resort siting,
+and certain policy recommendations.
+5. The Board of County Commissioners held a public hearing on the
+Planning Commission' s recommendations on January 8, 1992.
+PAGE 3 - ORDINANCE NO. 92- 003
+0108 1412
+6. Based upon its extensive review of the record, including the
+record developed before the Planning Commission, the Board made
+a tentative decision on a destination resort map and ordinance
+provisions governing the siting of destination resorts.
+7. Based upon the Board' s tentative decision, County staff
+assembled a package of ordinances to implement the Board' s
+decision. Those ordinances are as follows: Ordinance 92- 001,
+amending the Comprehensive Plan to adopt Goals and Policies
+regarding development of the County' s destination resort map and
+the County' s zoning ordinance regulating destination resort
+siting; Ordinance 92- 002, amending the Comprehensive Plan to
+adopt a countywide destination resort siting map and amendments
+to the resource element of the Comprehensive Plan describing the
+mapping process; Ordinance 92- 003, amending the County zoning
+ordinance to adopt zoning maps to show which County lands are
+available for destination resort siting; and Ordinance 92- 004,
+amending the text of the County zoning ordinance to adopt new
+provisions regulating the siting of destination resorts on lands
+identified on the destination resort map as available for
+destination resort siting ( hereinafter collectively referred to
+as " destination resort siting package").
+8. The Board finds that other than the process Goals set forth in
+LCDC Statewide Planning Goals 1 and 2, Statewide Planning Goal
+8 ( and its associated codification in state statute -
+hereinafter collectively referred to as Goal 8) provide the the
+only criteria for reviewing the County' s destination resort
+package.
+9. The Board finds that the County' s destination resort package
+meets the requirements of Goal 8 for the following reasons:
+a) The County has adopted as part of its comprehensive
+plan a county - wide destination resort map and a series of large
+scale enlargements of that map ( hereinafter collectively
+referred to as " destination resort map" or simply " the map")
+indicating where destination resorts may occur in the County on
+certain EFU- 20 and EFU- 40 lands as well as certain exception
+areas. The County finds from the discussion set forth in
+Exhibit B to Ordinance 92- 002, which discussion is incorporated
+herein by reference, that the map meets Goal 8' s requirement
+that areas available for destination resorts be mapped and that
+certain resource areas not be included on such a map. That map
+has been adopted as part of the County' s zoning maps by
+Ordinance 92- 003.
+b) The County has adopted by Ordinance 92- 001 amendments
+to the text of its Comprehensive Plan Goals and Policies
+designed to provide for the implementation of Goal 8, including
+a recitation of Goal 8 requirements. This ensures that County
+ordinances drawn to implement Goal 8 will comply with Goal 8 and
+PAGE 4 - ORDINANCE NO. 92- 003
+0108 1414
+setting forth the factual base for its decision. The Board has
+provided an extensive discussion of the process by which its
+destination resort map was produced.
+PAGE 6 - ORDINANCE NO. 92- 003

@@ -1,0 +1,196 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2011-006
+title: 'Ordinance No. 2011-006'
+doc_type: ordinance
+citation: 'Ordinance No. 2011-006'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617039115_2011-61-Ordinance%20No.%202011-006%20Recorded%202_25_2011.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 4df8e9d5b7369f4283823a4d25b082a1f61dcb1975b4956e0d26e6de5b2ffce9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2011-006 (Ordinance No. 2011-006)
+
+## At a glance
+
+Ordinance No. 2011-006 — orders of Deschutes County. 5 pages.
+
+## Full text
+
+REVIE, D
+jLEGALCOUNSEL
+DESCHUTES COUNTY OFFICIAL RECORDS
+NANCY BLANKENSHIP, COUNTY CLERK yJ
+COMMISSIONERS' JOURNAL
+201 62
+02101201108 ;10 ;13 AM
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Title 3, Chapters 3. 08 and
+3. 16 of the Deschutes County Code, relating to * ORDINANCE NO. 2011- 006
+Personnel Rules
+WHEREAS, Deschutes County receives grants to fund positions for a limited duration; and
+WHEREAS, the County's past practice has been to terminate the employment of the employee hired
+into a grand funded position when the grant expires; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. The addition of a new type of position called a " limited duration position" in the County's
+Personnel Rules, Deschutes County Code Title 3.
+Section 2. Deschutes County Code Title 3, Chapters 3. 08 and 3. 16 is amended to read as described in
+Exhibit " A," attached hereto and by this reference incorporated herein, with new language underlined.
+Section 3. EFFECTIVE DATE. This Ordinance takes effect ninety (90) days after adoption.
+PAGE 1 OF 2 - ORDINANCE NO. 2011- 006
+Dated this Z: V'"of 2011 BOARD OF COUNTY COMMISSIONERS
+OF DESC1 UTES COUNTY, OREGON
+TAMMY BANEY, Chair
+ANTHONY 15EBONE, Vice Chair
+ATTEST:
+Recording Secretary ALAN UNGER, Commissioner
+Date of 1StReading: Ii day of 2011.
+Date of 2°d Reading:z day of lkv-, 4~~,2011.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Tammy Baney
+Tony DeBone
+Alan Unger
+Effective date: day of 2011.
+ATTEST
+fk~
+Recording Secretary
+PAGE 2 OF 2 - ORDINANCE NO. 2011- 006
+Exhibit A"
+Title 3. DESCHUTES COUNTY PERSONNEL RULES
+Chapter 3. 08. DEFINITIONS
+Grieve" means to initiate a grievance.
+Hourly Employee" is an employee who works less than half time on a year- round basis.
+Job- Share Employees" are employees who job- share are part-time employees who share a full- time
+position normally held by one employee, on an equal basis. It is not two separate half- time positions.
+Lead worker" is an employeedelegatedlimited supervisoryduties in writing by the employee's department
+head. Limited supervisory duties include distribution of work assignments, oversight of work performed,
+maintaining a balanced workload among a group of employees, reviewing completed work, and
+maintenance of records of work production and attendance by employees. Lead workers do not impose
+discipline or conduct performanceevaluations.
+Limited Duration Position" is a position funded by a discrete revenue source with a known expiration
+date. An employee in a limited duration position may be terminated on the date the funding expires and
+such termination shall be considered a voluntary termination Based upon the terms of the funding
+source, the conditions of compensation and benefits may differ from the compensationand benefits
+payable to regular Coun employees performing substantially similar work. The term of employment of
+an individual in a limited duration position may exceed 18 months without conferring with the individual
+The County may, in its sole discretion and based upon additional discrete revenue extend the term of
+employment past the initial funding expiration date and such extension shall not changethe limited
+duration status of the employee.
+Length of Service" is an employee's continuous full- time or part-time service with a County department.
+Longevity" is an employee's continuous full- time or part-time service as a County employee.
+Merit Step Increase" is an increase in an employee's pay from one step of the pay gradefor the employee's
+position to a higher step of the pay grade for the employee's position.
+Non- ExemptEmployee" is an employee subject to the overtime provisions of the Fair Labor Standards Act
+and/or State of Oregonovertime laws.
+Non- RepresentedEmployees:" All employeeswho are not representedmembers of a bargaining unit.
+On- Call Employee" is an employee who does not have regular hours of work or a regularly assignedwork
+schedule and who is available to work on an as- neededbases. There is no guarantee of any hours of work
+for any on- call employee.
+Part- time Employee" is an employee who works at least one- half ( 1/ 2) time.
+Pay grade" is the range of pay assignedto a Position Description on the salary schedule.
+Pay step" is one of the established levels of pay within a pay grade.
+Personal Services Contract" is a contract between the County and an independent contractor to perform
+personalservices for the County.
+Personnel Department" is the County departmentdesignatedby the County Administrator to administer the
+Personnel Rules and all other human resource matters for the County.
+Page 1 of 3 DRAFT UPDATE - December 10, 2010
+Personnel File" is any file maintained by the County which contains employment records of an employee.
+Personnel Rules" are the rules, policies, and proceduresset forth in Deschutes County Code, Title 3.
+Personnel Services Manager" is the person chargedby the County Administrator with the responsibility of
+coordinating and overseeingall personnelmanagement for the County.
+Position" is two or more descriptions groupedby an occupation, discipline, or type of work.
+Position Authorization" is authorization for a specific position as approved in the adoptedCounty budget.
+Position Description" is a written statement of the nature of the work to be performed, indicating duties and
+responsibilities, representativeexamples of work and general minimum recruiting qualifications. This is
+also referred to as a " Job Description." The Position Description may also be referred to by Position Title.
+Position Title" is the name assignedto a Position Description.
+Probation" or " Probationary Period" is a period of trial service during which an employee's work
+performance and standing to become a regular employeeis evaluated by the County.
+Regular employee" is a full- time or part-time employee who has successfully completed probation and
+who works on a year round basis.
+Regular full- time employee" is a regular employee who is scheduled to work the established hours for a
+full- time position on a regular year-round basis.
+Regular part-time employee" is a regular employee who is scheduled to work at least one- half of the
+established full- time work schedule for the particular position on a regular, year-round basis.
+Represented Employees" are employeeswho are members of a recognizedbargaining unit.
+Retiree" is an individual who has retired from County service.
+Seniority" is an employee's continuous full- time or part-time service in a particular position with the
+County.
+Supervisor" is defined as an employee who has authority over hiring, salary administration, evaluation,
+transfer, promotion, demotion, discipline, grievance adjustment, or recommendations on any personnel
+action, as well as day- today supervisory responsibilities.
+Temporary employee" is a person who has been hired by the County to work for a period not to exceed 18
+months. Some temporary positions may also be limited duration positions.
+Volunteers" are persons who perform services for the County and do not receive from the County salary,
+wages or any other form of remuneration for services performed.
+Ord. 2007-017, §2, 2007; Ord. 86- 011, §1, 1986; Ord. 81- 053, §1, 1981)
+Page 2 of 3 DRAFT UPDATE - December 10, 2010
+Chapter 3. 16. RECRUITMENT AND APPOINTMENT OF EMPLOYEES
+3. 16.010. Recruitment of Employees.
+3. 16.020. Probationary Period.
+3. 16.030. Hiring Former Employees.
+3. 16.040. Hiring Relatives, Domestic Partners and Personal Acquaintances of Employees.
+3. 16.010. Recruitment of Employees.
+It is the policy of Deschutes County to recruit and select the most qualified individuals for employment with
+Deschutes County. Recruitment and selection shall be conducted to ensure open competition, provide equal
+employment opportunity, and to prohibit discrimination because of race, color, national origin, sex, religion,
+age, marital status, family relationship, sexual orientation, physical or mental disability (provided reasonable
+accommodation can be made for any such disability), political affiliation, or any other classification
+protected by Oregon or Federal law. The Personnel Department is responsible for overseeing and
+administering the recruitment and selection of County employees in accordance with the County's
+Recruitment and Selection Policy.
+Ord. 2007-017, §2, 2007; Ord. 86- 011, §1, 1986; Ord. 81- 053, §1, 1981)
+3. 16.020. Probationary Period.
+A. Representedemployees. For employees who are covered by a collective bargaining agreement, the
+length and conditions of probationary (trial service) periods are provided in and governed by the
+applicable collective bargaining agreement.
+B. Non- representedemployees. All newly hired and newly promoted non- representedemployeesshall be
+on probationary (trial service) status until the employee completes at least twelve ( 12) full months of
+continuous employment with the County and has received from his or her and department head or
+supervisora written one- year performance evaluation for which the employee is given an overall rating
+of meets or exceeds standards. An employee on probationary status is not eligible to be removed from
+probation and assignedregular employee status if the employee does not receive an overall rating of
+meets or exceeds standards on the employee's one- year performanceevaluation.
+1. Each probationary employee shall be given a written performance evaluation at approximately two
+2) and six (6) months into the employee's probationary period. Each probationary employee shall
+also receive a performance evaluation at twelve ( 12) months. The probationary evaluation
+schedule may not be modified except by mutual agreement between the employee and his or her
+departmenthead.
+2. An employee on probationary status is an at- will employee and as such, may resign from his or her
+position at any time, with or without cause and with or without notice, and may have his or her
+employment terminated by the County at any time, with or without cause and with or without
+notice. Discipline of or the termination of employment of a probationary employee may not be
+grieved.
+3. If a department seeks to extend the probationary period for an employee on probationary status, a
+request for extension of probation shall be made by the department head to the County
+Administrator and may only be grantedby the County Administrator. Extensions of probation will
+only be granted in unusual circumstances, and shall be in 30-day increments, not to exceed a
+maximum of 90 days.
+4. Employees in limited duration positions whose positions are extended for subsequentlimited
+duration time periods shall not by the virtue of the extension serve another probationary _period.
+Page 3 of 3 DRAFT UPDATE - December 10, 2010

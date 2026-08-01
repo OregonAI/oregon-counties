@@ -1,0 +1,240 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-91-012
+title: 'Ordinance No. 91-012'
+doc_type: ordinance
+citation: 'Ordinance No. 91-012'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616679572_1991-07430-Ordinance%20No.%2091-012%20Recorded%203_14_1991.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 75dae1d7f386f5ce67f7e6fcb057486d24a71813e5e3aa84011f3fcd3b474f50
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 91-012 (Ordinance No. 91-012)
+
+## At a glance
+
+Ordinance No. 91-012 — orders of Deschutes County. 5 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Ordinance *
+p. ps 0449No. 80- 201, the Redmond Urban Area
+Zoning Ordinance, as Amended,
+Revising Requirements for Manufac-
+tured Housing, Allowing a Night-
+watchman' s Residence in the C- 1
+and C- 4 Zones, Providing for a
+f'`' fit +' r
+Sunset Clause and Declaring an
+Emergency. * MAR2 6 199 t•>, '
+jai
+0 r.
+0 INANCE NO. 91- 012 c;
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUN L'-:; " O
+OREGON, ORDAINS as follows:
+Section 1. Section 1. 050, Definitions, is amended bf" the
+addition of the following:
+Manufactured Home. A structure constructed for move-
+ment on the public highways that has sleeping, cooking
+and plumbing facilities, that is intended for human
+occupancy, and that is being used for residential
+purposes. It does not include any building or struc-
+ture subject to the structural specialty code adopted
+pursuant to ORS 455. 100 to 455. 450 or any unit iden-
+tified as a recreational vehicle by the manufacturer."
+Section 2. Section 3. 010( 2)( A), Limited Residential R- 1,
+Uses Permitted Outright, is amended to read as follows:
+A. Single- family dwellings, excluding mobile homes
+and manufactured homes."
+Section 3. Section 3. 020( 2)( A), Limited Residential R- 2,
+Uses Permitted Outright, is amended to read as follows:
+A. Single- family dwellings, excluding mobile homes
+and manufactured homes."
+Section 4. Section 3. 030( 2)( A), Limited Residential R- 3,
+Uses Permitted Outright, is amended to read as follows:
+A. Single- family dwellings, excluding mobile homes
+and manufactured homes."
+Section 5. Section 3. 040( 2)( D), General Residential R- 4,
+Uses Permitted Outright, is amended to read as follows:
+D. Manufactured home subject to Section 4. 060.
+Mobile home, but only on a lot in
+a7PT1.
+R
+tfed
+i tU
+1 - ORDINANCE NO. 91- 012 ( 3/ 8/ 91)
+1 +..r+
+0106 0450
+and approved mobile home subdivision or planned
+unit development and subject to Section 4. 060.]"
+Section 6. Section 3. 040( 3)( H), General Residential, Condi-
+tional Uses Permitted, is repealed and the section re - lettered
+accordingly.
+H. Mobile home not on a lot in a duly platted and
+approved mobile home subdivision or planned unit
+development, subject to Section 4. 070."]
+Section 7. Section 3. 045( 2)( A), Urban High Density Residen-
+tial, Uses Permitted Outright, is amended to read as follows:
+A. Single- family dwelling, excluding mobile homes and
+manufactured homes."
+Section 8. Section 4. 060, Standards for Mobile Homes, is
+repealed and replaced with the following:
+Standards for Manufactured [ Mobile] Homes.
+1. The manufactured home shall be multi - sectional and
+enclose at least 1, 000 square feet;
+2. The manufactured home shall be located not more
+than 12 inches above grade on an excavated and
+back- filled foundation that is enclosed at the
+perimeter;
+3. The manufactured home shall have a pitched roof,
+with a minimum pitch of 3/ 12;
+4. Exterior siding
+color, material
+dwellings in the
+dwellings;
+and roofing shall be similar in
+and appearance to that used on
+community or on surrounding
+S. The manufactured home shall be certified by the
+manufacturer to have an exterior thermal envelope
+meeting performance standards equivalent to those
+required for single- family dwellings under the
+state building code as defined in ORS 455. 010;
+6. A garage or carport shall be constructed in con-
+junction with the placement of the manufactured
+home."
+1. The mobile home shall be a double - wide or wider
+unit and shall contain a minimum of 950 square
+feet of living space, except that mobile homes
+located on interior lots of a duly platted and
+2 - ORDINANCE NO. 91- 012 ( 3/ 8/ 91)
+0106 0451
+approved mobile home subdivision or planned unit
+development may be single - wide units with a mini-
+mum of 750 square feet; said standard does not
+apply to units within an approved mobile home
+park.
+2. The mobile home shall be placed on a foundation
+having permanence and strength equal to that
+provided by a concrete or masonry block founda-
+tion, and such foundation shall be installed
+according to manufacturer' s instructions approved
+by the State Department of Commerce, and all road
+and transient lights, wheels and hitch shall be
+removed.
+113. All plumbing, electric and gas service connections
+shall be made according to instruction approved by
+the State Department of Commerce.
+114. The mobile home shall have a continuous perimeter
+of skirting that shall be composed of non- flam-
+mable material and finish compatible with the
+exterior of the mobile home. Such skirting shall
+be secure against the entrance of animals, but
+there shall be provisions for ventilation and
+access to the space under the unit. Unless the
+mobile home is placed on a basement foundation,
+any variations to skirting construction shall be
+approved by the Building Officer prior to con-
+struction.
+115. The mobile home unit shall be manufactured after
+June 15, 1976, and bear the Department of Housing
+and Urban Development Insignia of Compliance. All
+pre - occupied units ( i. e. used) shall be inspected
+by the Building Officer prior to installation and
+occupance to insure compliance with applicable
+standards required for the " Insignia of Compli-
+ance" and to insure that such units are in such a
+condition as to not be detrimental to the public
+health, safety and general welfare to adjoining
+properties.
+6. All mobile home accessory buildings and structures
+shall comply with state and local construction and
+installation standards. Mobile home accessory
+structures include porches and steps, awnings,
+cabanas, carports or any other structural support
+or in any manner is immediately adjacent to or
+attached to the mobile home. Such structures or
+additions shall not total more than 30 percent of
+the total living space of the mobile home and such
+3 - ORDINANCE NO. 91- 012 ( 3/ 8/ 91)
+0106 ® 4W
+structures or additions combined. Roofing and
+siding materials shall be of similar material and
+color and complimentary to the existing mobile
+home unit. Ramadas shall not be permitted.
+117. The roof shall have a minimum slope of 16 percent
+2: 12) and be complimentary to the mobile home
+unit.
+8. The mobile home shall be installed within 180 days
+after issuance of a permit."]
+Section 9. Section 3. 050( 3), Strip Service Commercial Zone,
+Conditional Uses Permitted, is amended by the addition of the
+following:
+J. Living quarters necessary to the operation of a
+commercial enterprise or for custodians of commer-
+cially used properties requiring extensive outdoor
+storage."
+Section 10. Section 3. 080( 3), Limited Service Commercial,
+Conditional Uses Permitted, is amended by the addition of the
+following:
+O. Living quarters necessary to the operation of a
+commercial enterprise or for custodians of commer-
+cially used properties requiring extensive outdoor
+storage."
+Section 11. Section 7. 040, Standards Governing Conditional
+Uses, is amended by the addition of the following:
+15. Living quarters necessary to the operation of a
+commercial enterprise or for custodians of commer-
+cially used properties requiring extensive outdoor
+storage.
+A. Such residential facilities shall be allowed
+only when the applicant can show a legitimate
+need for night security for the premises.
+B. Such residential facilities shall be subject
+to site and design review and shall meet all
+applicable criteria of the site and design
+review ordinance.
+C. Such residential facilities shall be
+limited to site - built structures only."
+Section 12. EMERGENCY CLAUSE. This Ordinance being neces-
+sary for the immediate preservation of the public peace, health
+4 - ORDINANCE NO. 91- 012 ( 3/ 8/ 91)
+0106 0453
+and safety, an emergency is declared to exist, and this Ordinance
+takes effect on its passage.
+Section 13. SUNSET CLAUSE. Section 5 of this Ordinance is
+repealed June 30, 1992.
+DATED this [-  day of 1991.
+BOARD
+OFFTESNTCOUNTY,
+Y COMMISSIONERS
+OF DE OREGON
+v
+Vecodr4ingqSe- Zc—retary
+ST: CY P S G , Commis:
+D UDLIN, Chdirman
+5 - ORDINANCE NO. 91- 012 ( 3/ 8/ 91)

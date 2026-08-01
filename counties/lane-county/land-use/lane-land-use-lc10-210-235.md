@@ -1,0 +1,740 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lane-county
+id: lane-land-use-lc10-210-235
+title: 'LC10.210 235'
+doc_type: ordinance
+citation: 'LC10.210 235'
+authority_level: county_ordinance
+issuing_body: 'Lane County Board of Commissioners'
+source_url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.210_235%20.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 7f158d028fe82706f39a9304b96b9a71f1910e37bb99deb072ed07251b7d3401
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 517.790
+  related: []
+  supersedes: []
+tags: [lane-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lane County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# LC10.210 235 (LC10.210 235)
+
+## At a glance
+
+LC10.210 235 — land use of Lane County. 15 pages.
+
+## Full text
+
+Lane Code
+CHAPTER 10 CONTENTS
+
+June 2020 10-i
+SAND, GRAVEL & ROCK PRODUCTS—CONTROLLED PROCESSING
+DISTRICT (SG/CP)
+10.210-05 Purpose.
+10.210-20 Regulations.
+QUARRY AND MINE OPERATIONS COMBINING DISTRICT (/QM)
+10.220-05 Purpose.
+10.220-06 Intent.
+10.220-07 Definitions.
+10.220-10 Permitted Buildings and Uses.
+10.220-50 Permits for Quarry and Mine Extraction.
+10.220-60 Blasting Notice and Records.
+10.220-75 Severability.
+ESTUARY DISTRICT ADMINISTRATION (FCP)
+10.225-05 Applicability.
+10.225-10 Resource Capability Assessment.
+10.225-20 Consultant's Reports.
+10.225-25 Uses Subject to State and Federal Permits.
+10.225-30 Emergencies.
+NATURAL ESTUARY ZONE (NE-FCP)
+10.230-05 Purpose.
+10.230-10 Permitted Uses.
+10.230-15 Special Uses Approved by Planning Director.
+10.230-20 Conditional Uses.
+CONSERVATION ESTUARY ZONE (CE-FCP)
+10.235-05 Purpose.
+10.235-10 Permitted Uses.
+10.235-15 Special Uses Approved by the Planning Director.
+10.235-20 Conditional Uses.
+10.210-05 Lane Code 10.210-20
+June 16, 2020 10-556 LC10.210_235
+SAND, GRAVEL & ROCK PRODUCTS—
+CONTROLLED PROCESSING DISTRICT (SG/CP)
+
+10.210-05 Purpose.
+The provisions of the Sand, Gravel & Rock Products -  Controlled Processing District
+(SG/CP) are intended to provide more restrictive control of processing activities than the
+Sand, Gravel & Rock Products District (S -G), for the purpose of encouraging the
+preservation and orderly extraction of sand and gravel deposits and for the protection of
+surrounding properties by the exercise of greater control over the location and operation
+of sand and gravel extraction processing activities.  It is further intended by the
+establishment of the SG/CP District that the Comprehensive P lan for Lane County and
+any pertinent special studies shall be used as a basis to determine where this district
+would be more appropriate than the S -G District. (Revised by Ordinance No. 13- 72, Effective
+7.21.72)
+
+10.210-20 Regulations.
+The requirements of the SG/CP District shall be the same as provided in the S -G District
+(LC 10.205), except as expressly provided in this Section.
+ (1) Land Use Compatibility as Operation Standard.  The Sand and Gravel
+Review Committee shall evaluate, in its consideration of operational plans as provided in
+LC 10.205-81, the location for the erection or enlargement of all processing equipment
+and activities, including but not limited to asphalt paving -mix and cement concrete
+batching plants, by the criteria set forth for conditional use permits in this chapter (LC
+10.320-20).  In addition to these criteria, the Review Committee shall consider
+compliance with the adopted Comprehensive Plan of Lane County and shall further
+consider special studies which have been developed for  the subject area.
+Notwithstanding the provisions of LC 10.205- 81(1)(e), the Committee shall disapprove
+all or a part of any portion of any operations plan involving such processing equipment or
+activities which, in the Committee's judgment, do not confor m to the above -described
+criteria, plans, or studies.
+ (2) Administration.
+  (a) In addition to the same administrative procedures as provided in LC
+10.205-81(1)(a) through (d), the following procedures shall apply for (1) processing
+equipment and activiti es, including, but not limited to, asphalt paving -mix and cement
+concrete batching plants, and for (2) operations plans which include a request to vary the
+minimum setback dimensions provided in LC 10.205- 21(1) from an SG/CP district
+boundary.
+   (i) Review Committee Action.  Within seven days after obtaining
+the necessary recommendations of the Oregon State Land Board or the US Corps of
+Engineers or other appropriate hydrologic agency, the Review Committee shall (a)
+approve the plans or require modification in the plans to conform with the requirements
+of this chapter and with a river design plan which may be adopted by the Board, or (b)
+disapprove the plans as authorized in LC 10.210-20(1), above.
+   The Review Committee shall follow LC Chapter 14 when approving,
+modifying or denying plans.  Decisions by the Review Committee may be appealed in the
+same manner as provided for in LC Chapter 14 for appeals of decisions by the Director.
+   (ii) Approved Plans.  The operator shall be allowed to proceed in
+accordance with the plans as finally approved by the Sand and Gravel Review
+Committee, or Board of Commissioners in the event of appeal.  The Director of Public
+Works shall be charged with the duty of determining if there has been compliance with
+the plans through inspection of the property and examination of the aerial photographs
+10.220-05 Lane Code 10.220-06
+June 16, 2020 10-557 LC10.210_235
+submitted.  When an operator fails to proceed in accordance with the plans, the operation
+shall be treated as an unauthorized use, and the Director may proceed under the authority
+of LC 10.400 of this chapter or other applicable laws.  The operator shall then be subject
+to the penalties of LC 10.990 of this chapter or other applicable law, and the continuation
+or the expansion of the operation may be enjoined to the extent permitted by law.
+   Variances to dimensional standards provided in LC 10.205- 21 shall
+be considered by the Review Committee as a part of the consideration of operational
+plans and are subject to the same standards and criteria contained in LC 10.205- 81(2).
+(Revised by Ordinance No. 13-72, Effective 7.21.72; 16-83, 9.14.83; 20-05, 6.16.20)
+
+QUARRY AND MINE OPERATIONS COMBINING DISTRICT (/QM)
+
+10.220-05 Purpose.
+The purpose of the Quarry and Mine Operations Combining District is to:
+ (1) Recognize that minerals and mater ials within the County are an
+unrenewable resource, and that extraction and processing are beneficial to the economy
+of the County and the welfare of its people.
+ (2) Protect major deposits of minerals, rock and related material resources with
+appropriate zoning.
+ (3) Establish procedures for the protection of public health and safety on and
+adjacent to land where quarry and mine blasting operations are occurring.
+ (4) Establish County standards in Chapter 10 of the Lane Manual to be used in
+reviewing referrals from State and Federal Agencies of Operation and Reclamation Plans,
+pollution control permits and similar permits.
+ (5) Provide for cooperation between private and governmental entities in
+carrying out the purposes of this chapter. (Revised by Ordinance No. 26-78, Effective 3.16.79; 7-79,
+7.11.79)
+
+10.220-06 Intent.
+The Quarry and Mine Operations Combining District shall be available for consideration
+and use by the County for new or existing operations when requests are received as part
+of an area-wide or legislative rezoning, or a specific property or quasi-judicial rezoning.
+  The Approved Authority for such rezonings, shall apply site review
+procedures as provided in LC 10.335-15(5) as part of the rezoning of a property to ensure
+that the purpose and requirements of this section are met.  In addition to the standard site
+review criteria (LC 10.335-20), the Approved Authority may, at the time of such zoning,
+establish other specific site review considerations for a property rezoned under the
+Quarry and Mine Operations (/QM) Combining District.
+  When property under consideration for /QM zoning is in close proximity to
+existing and planned uses potentially incompatible with /QM uses, the application of the
+Quarry and Mine Operations Combining District may be limited to a specific portion of a
+property in order to encourage the compatibility and proper management of land uses.
+  The Quarry and Mine Operations Combining District is intended to be
+applied only to those operations which will be in operation for 10 years or more and will
+have an average annual extraction of 30,000 cubic yards or more.  Smaller, less intense
+operations of short term or intermittent duration should be provided pursuant to the
+Conditional Use provisions of this chapter or, where appropriate, the Forest Management
+zone which provides for quarrying and mining under certain circumstances.
+  The Quarry and Mine Operations Combining District may be applied to
+specific operation sites when it has been determined that the establishment o f this district
+will meet the purposes of the Lane County Comprehensive Plan when combined with the
+10.220-07 Lane Code 10.220-10
+June 16, 2020 10-558 LC10.210_235
+Exclusive Farm Use 20 (EFU 20), Farm-Forestry 20 (F-F 20); Forest Management (FM);
+and General Rural (GR 10) zones. (Revised by Ordinance No. 26 -78, Effective 3.16.79; 16- 83,
+9.14.83)
+
+10.220-07 Definitions.
+For the purposes of this section only, the following words, terms and phrases are defined
+and supersede definitions otherwise provided in this Code:
+  Director.  The Director of the Lane County Department  of Environmental
+Management.
+  Minerals.  Includes soil, coal, clay, stone, crushed hard rock quarry
+products, metallic ore and any other solid material or substance excavated for
+commercial, industrial, or construction use from natural deposits.  "Minera ls" do not
+include loam, sand, gravel or other aggregate materials created and/or deposited by water
+movement.
+  Mining Refuse.  All waste materials, soil, rock, mineral, liquid, vegetation
+and other materials resulting from, or displaced by quarry and mining extraction
+operations within the operating permit area, including all waste materials deposited in or
+upon lands within such operating permit area.
+  Operations Plan.  A written proposal submitted to the State Department of
+Geology and Mineral Industries under the requirements of ORS 517.790.
+  Operator.  Any individual, public or private corporation, political
+subdivision, agency, board or department of this State, any municipality, partnership,
+association, firm, trust, estate or any other legal entit y whatsoever that is engaged in
+quarry and extraction operations.
+  Overburden.  The soil, rock and similar materials that lie above natural
+deposits of minerals.
+  Owner.  The person possessing legal rights to the mineral deposit being
+mined.
+  Quarry and Mine Extraction.  All or any part of the process of removing
+mineral deposits exposed by any method, including open- pit mining operations, auger
+mining operations, shaft mining, the construction of borrow pits, processing of extracted
+minerals and exploration activities.
+  Reclamation.  The employment of procedures in a quarry and mining
+extraction operation designed to minimize as much as practicable the impact such
+operations have on the environment, and to provide for the rehabilitation of land affected
+by such operations.  Reclamation includes the rehabilitation of plant cover, soil
+stabilization, water resource protection and other measure appropriate to the subsequent
+beneficial use of such mined and reclaimed lands.
+  Reclamation Plan.  A written proposal of the reclamation of the land area
+affected by a quarry and mine extraction operation submitted to the State Department of
+Geology and Mineral Industries. (Revised by Ordinance No. 26-78, Effective 3.16.79; 7-78, 7.11.79)
+
+10.220-10 Permitted Buildings and Uses.
+In the Quarry and Mine Operations Combining District, the following types of buildings
+and uses are permitted as hereafter specifically provided for by this section, subject to the
+provisions of the Quarry and Mining Operations Reclamation Pe rmit and exceptions set
+forth in this chapter.
+ (1) Uses permitted in the parent zone with which the /QM zone is combined.
+ (2) Extracting and storing of minerals, including equipment and materials
+necessary to carry out these functions.
+10.220-50 Lane Code 10.220-75
+June 16, 2020 10-559 LC10.210_235
+ (3) Plants for th e processing of minerals from quarry and mine extraction
+operations.
+ (4) Sale of products generated from the quarrying and mining operation.
+ (5) Activities permitted as part of the reclamation process provided for in the
+Reclamation Plan.
+ (6) Structures and buildings used in conjunction with the extracting and
+storing of minerals. (Revised by Ordinance No. 26-78, Effective 3.16.79)
+
+10.220-50 Permits for Quarry and Mine Extraction.
+ (1) General.  No quarry or mining extraction or related operations may be
+initiated on land zoned as Quarry and mine Operations Combining District (/QM) until a
+surface mining permit has been issued by the Oregon Department of Geology and
+Mineral Industries.
+  (a) Each permit application, Operation and Reclamation plan referre d to
+the Director shall be reviewed following the Operation Standards and Reclamation
+Standards set forth in LM 10.040 through 10- 045. (Revised by Ordinance No. 26- 78, Effective
+3.16.79; 7-79, 7.11.79)
+
+10.220-60 Blasting Notice and Records.
+Operators using explosives for quarry and mine extraction shall follow explosive
+regulations and use commonly acceptable engineering standards based on physical
+conditions and atmospheric conditions of the site so as to prevent injury to persons and
+damage to public and private property.  Except for small blasts in underground mining in
+remote mining districts [FM Zoning], the following conditions apply.
+ (1) Notice of Blasting.  When blasting is to be done within 500 feet of an
+occupied building, the operator, or an aut horized agent, shall notify all occupants that a
+blast is to be initiated.  Such notice shall be given not more than six hours nor less than
+30 minutes prior to detonation and shall include the approximate time of the blast.
+ (2) Blasting Records.  Each op erator shall maintain a record of each blast for
+at least two years.  These records shall be available to the County, the State Department
+of Geology and Mineral Industries and other governmental agencies with appropriate
+jurisdiction upon request.  Such records shall show the following for each blast:
+  (a) Name of quarry or mine.
+  (b) Date, time and location of blast.
+  (c) Description of type of explosives and accessories used.
+  (d) Time interval of delay in milliseconds.
+  (e) Number of different delays.
+  (f) Number of holes per delay.
+  (g) Nominal explosive weight per hole.
+  (h) Total explosive weight per delay.
+  (i) Total weight of explosives per blast.
+  (j) Blast hole diameter, depth, spacing and stemming height. (Revised by
+Ordinance No. 26-78, Effective 3.16.79)
+
+10.220-75 Severability.
+The provisions of this section are severable.  If any subsection, sentence, clause or phrase
+of this section is adjudged by a court of competent jurisdiction to be invalid, the decision
+shall not affec t the validity of the remaining portions of this section. (Revised by Ordinance
+No. 26-78, Effective 3.16.79; 7-79; 7.11.79)
+
+10.225-05 Lane Code 10.225-10
+June 16, 2020 10-560 LC10.210_235
+ESTUARY DISTRICT ADMINISTRATION (FCP)
+
+10.225-05 Applicability.
+ (1) The following two Estuary Zones apply to the Siuslaw River Es tuary
+within the Florence Urban Growth Boundary outside of the city limits: Natural Estuary
+(NE-FCP) and Conservation Estuary (CE -FCP). These zoning districts implement the
+requirements of Statewide Planning Goal 16 and policies in the Florence Comprehensi ve
+Plan and corresponding “management units.”
+ (2) Estuary Zoning Districts are applied to portions of the estuary within the
+Florence Urban Growth Boundary as classified on the Lane County Zoning Map. (Revised
+by Ordinance No. 16-11, Effective 2.9.17)
+
+10.225-10 Resource Capability Assessment.
+ (1) Purpose: Uses Requiring a Special Use Permit or Conditional Use Permit
+in the Natural Estuary (NE-FCP) and Conservation Estuary (CE-FCP) Zones are allowed
+only if determined to be consistent with the Resource Ca pabilities of the area and the
+purpose of the management unit in which the use or activity occurs. The purpose of this
+subsection is to establish a procedure for making a Resource Capabilities Assessment.
+Major activities or uses in the estuary may require  an Estuarine Impact Assessment.
+Those uses do not also require this Resource Capability Assessment.
+ (2) Definition of Resource Capability Assessment: An assessment used to
+determine if a use or activity is consistent with the resource capabilities of an area.
+Definitions specific to Estuary Management Units (MUs) are as follows:
+  (a) In the Natural Estuary Zone, a use or activity is consistent with the
+resource capabilities when it is able to assimilate the use or activity and its effects and
+continue to function in a manner to protect significant wildlife habitats, natural biological
+productivity, and values for scientific research and education.
+  (b) In the Conservation Estuary Zone, a use or activity is consistent with
+the resource capabilities when it is able to assimilate the use or activity and its effects and
+continue to function in a manner which conserves long-term renewable resources, natural
+biologic productivity, recreational and aesthetic values and aquaculture.
+ (3) Identification of Resources and Impacts: The required assessment need not
+be lengthy or complex, but it should enable reviewers to gain a clear understanding of the
+impacts to be expected. The application for a proposed use or activity in which a resource
+capability determination must be made must  include information on the following. The
+Planning Director may waive inapplicable items for any particular use or project.
+  (a) The type and extent of alterations expected.
+  (b) The type of resources affected. The type of resources likely to be
+affected by the proposed action must be inventoried. The County must assist the applicant
+in locating sources of information. Sources which can be used include: Lane County
+Coastal Resources Inventory, environmental impact statements for the Siuslaw River, or
+other published information concerning the Siuslaw estuary, or more current resource
+information from federal or state agencies, the Confederated Tribes of Coos, Lower
+Umpqua and Siuslaw Indians or other public sources.
+  (c) The expect ed extent of impacts of the proposed alteration on water
+quality and other physical characteristics of the estuary, living resources, recreation and
+aesthetic use, navigation and other existing and potential uses of the estuary.
+  (d) The methods which co uld be employed to avoid or minimize adverse
+impacts. Where adverse impacts have been or can be identified, information must be
+provided on reasonable methods which could be employed to avoid or minimize adverse
+impacts.
+10.225-15 Lane Code 10.225-15
+June 16, 2020 10-561 LC10.210_235
+ (4) Resource Capability Assessment : Information on resources present and
+impacts to be expected will be evaluated as part of the Special Use Permit or Conditional
+Use Permit  procedure, based on the requirement that the estuary can still function to
+achieve the purpose of the zone in which the activity will be located. Information
+developed by resource agencies and information submitted by the applicant may be used
+in the determination, and will be used whenever possible to reduce duplication of effort
+between agencies.
+ (5) Resource Capabil ity Findings: Unless fully addressed during the
+development and adoption of the Florence Comprehensive Plan, actions which would
+potentially alter the estuarine ecosystem must be preceded by a clear presentation of the
+impacts of the proposed alteration. S uch activities include dredging, fill, in- water
+structures, riprap, application of pesticides and herbicides, water intake or withdrawal and
+effluent discharge, flow -lane disposal of dredged material, and other activities which
+could affect the estuary’s p hysical processes or biological resources. Based on the
+analysis of resources and impacts, one of the following findings must  be made in
+approving the use permit, otherwise the permit must be denied:
+  (a) The specific use was fully addressed during the d evelopment and
+adoption of the Comprehensive Plan and the use is allowed; or
+  (b) The impacts of the use or activity will not have a significant impact
+on estuarine species, habitats, biological productivity or water quality; or
+  (c) In the Natural Estuary Zone, that the resources of the area are able to
+assimilate the use and activity and their effects and continue to function in a manner to
+protect significant wildlife habitats, natural biological productivity, and values for
+scientific research and education; or
+  (d) In the Conservation Estuary Zone, that the resources of the area are
+able to assimilate the use and activity and their effects and continue to function in a
+manner which conserves long- term renewable resources, natural biologic producti vity,
+recreational and aesthetic values and aquaculture.
+ (6) Notification of Agencies: Any application that is subject to the provisions
+of this section must, at a minimum, be referred to the following:
+  (a) U.S. Fish and Wildlife Service
+  (b) U.S. Environmental Protection Agency
+  (c) U.S. Army Corps of Engineers
+  (d) National Marine Fisheries
+  (e) Oregon Dept. of Fish and Wildlife
+  (f) Oregon Dept. of Land Conservation and Development
+  (g) Oregon Department of State Lands
+  (h) Confederated Tribes of the Coos, Lower Umpqua and Siuslaw Indians.
+(Revised by Ordinance No. 16-11, Effective 2.9.17)
+
+10.225-15 Estuarine Impact Assessment.
+ (1) Purpose: The purpose of this subsection is to provide a procedure for
+evaluation of uses or activities wh ich are major in nature and which could potentially
+alter the integrity of the estuarine ecosystem. Activities which require an Estuarine
+Impact Assessment do not also require a Resource Capability  Assessment. Uses which
+are permitted outright do not requi re an Estuarine Impact Assessment. Uses in Estuary
+Zones requiring a Special Use Permit or a Conditional Use Permit will require an
+Estuarine Impact Assessment only when an Environmental Impact Statement (EIS) is
+required through the Corps of Engineers Section 10/404 permit process.
+  (2) Information to be presented in the Estuarine Impact Assessment:
+Information contained in an Estuarine Impact Assessment must be used in the evaluation
+10.225-15 Lane Code 10.225-15
+June 16, 2020 10-562 LC10.210_235
+of a use or activity during a Special Use Permit or Conditional Use Per mit procedure. As
+part of the permit review, information developed by resource agencies may be requested
+and used in the determination. Any possibilities of reducing duplication of effort by the
+County and other agencies will be utilized so long as necessary information is adequately
+analyzed. Information contained in the Estuarine Impact Assessment may be drawn from
+available data and analysis contained in the Lane County Coastal Resources Inventory,
+environmental impact statements and assessments for proj ects in the Siuslaw River
+estuary, other published studies pertaining to the Siuslaw River estuary or more current
+information provided by applicant.
+The Estuarine Impact Assessment must apply available information to the
+following general areas of analysis: the type and extent of alterations expected; the type
+of resources affected; the expected extent of the impact of the proposed alteration on
+water quality and other physical characteristics of the estuary, living resources, recreation
+and aesthetic use, navigation and other existing and potential uses of the estuary; and the
+methods which could be employed to avoid or minimize adverse impacts, and as
+specifically detailed below. The Planning Director may waive inapplicable items for any
+particular use or project.
+  (a) Aquatic life forms and habitat, including information on: habitat
+type and use (e.g., rearing, spawning, feeding/resting, migration), species present,
+seasonal abundance, sediment type and characteristics and vegetation present. The type
+ofalteration, including information detailing the extent of alteration (e.g., area
+measurement, depths to which alteration will extend, volumes of materials removed
+and/or placed as fill), impacted species (including threatened and endangered species),
+life stages and life cycles affected with regard to timing of the proposed alteration,
+percent of total available habitat type subjected to alteration.
+  (b) Shoreland life forms and habitat, including information on:
+habitat type and use (e.g., feeding, resting or watering areas, flyways), species present,
+seasonal abundance, soil types and characteristics, and vegetation present. Impacted
+species (including threatened and endangered species), life stages and life cycles affected
+with regard to timing of the proposed alteration, percent of total available habitat type
+subjected to alteration.
+  (c) Water quality, including information on: increases in
+sedimentation and turbidity, decreases in dissolved oxygen concentration, changes in
+biological and chemical oxygen demand, contaminated sediments, alteration of salinity
+regime, disruption of naturally occurring water temperatures, changes due to reduction,
+diversion or impoundment of water.
+  (d) Hydraulic characteristics, including information on: changes in
+water circulation patterns, shoaling patterns, potential of erosion or accretion in adjacent
+areas, changes in the floodplain, decreases in flushing capacity or decreases in rate of
+water flow from reduction, diversion or impoundment of water resources.
+  (e) Air quality, including information on: quantities of emissions of
+particulates, expected inorganic and organic airborne pollutants.
+  (f) Impact of the proposed project on navigation and public access
+to the shoreline and aquatic areas.
+  (g) Demonstration of public need to warrant such a modification to
+the estuary.
+  (h) Demonstration that non-water-dependent uses will not preempt
+existing or future water-dependent use of the area.
+  (i) Determination of the potential cumulative impact of the
+proposed development, including alteration of adjacent significant fish and wildlife
+habitat and essential properties of the estuary.
+10.225-20 Lane Code 10.225-25
+June 16, 2020 10-563 LC10.210_235
+  (j) Presentation of upland alternatives and methods to minimize
+preventable adverse impacts.
+  (k) Determination of need for mitigation.
+ (3) Estuarine Impact Assessment Findings: Unless fully addressed during the
+development and adoption of the Florence Comprehensive Plan, actions which would
+potentially alter the estuarine ecosystem must be preceded by a clear presentation of the
+impacts of the proposed alteration. Such activities include dredging, fill, in- water
+structures, riprap, application of pesticides and herbicides, water intake or withdrawal and
+effluent discharge, flow -lane disposal of dredged material, and other a ctivities which
+could affect the estuary’s physical processes or biological resources. Based on the
+analysis of resources and impacts, one of the following findings must be made  in
+approving the use permit, otherwise the permit must be denied:
+  (a) The s pecific use was fully addressed during the development and
+adoption of the Comprehensive Plan and the use is allowed; or
+  (b) The use or activity will not have a significant impact on estuarine
+species, habitats, biological productivity or water quality; or
+  (c) In the Natural Estuary Zone, that the resources of the area are able to
+assimilate the use and activity and their effects and continue to function in a manner to
+protect significant wildlife habitats, natural biological productivity, and values f or
+scientific research and education; or
+  (d) In the Conservation Estuary Zone, that the resources of the area are
+able to assimilate the use and activity and their effects and continue to function in a
+manner which conserves long- term renewable resources, natural biologic productivity,
+recreational and aesthetic values and aquaculture.
+ (4) Notification of Agencies: Any application that is subject to the provisions
+of this section must, at a minimum, be referred to the following:
+  (a) U.S. Fish and Wildlife Service
+  (b) U.S. Environmental Protection Agency
+  (c) U.S. Army Corps of Engineers
+  (d) National Marine Fisheries
+  (e) Oregon Dept. of Fish and Wildlife
+  (f) Oregon Dept. of Land Conservation and Development
+  (g) Oregon Department of State Lands
+  (h) Confederated Tribes of the Coos, Lower Umpqua, and Siuslaw
+Indians. (Revised by Ordinance No. 16-11, Effective 2.9.17)
+
+10.225-20 Consultant's Reports.
+Should it be determined by the Planning Director that additional information is required
+on any of the criteria specified herein; the applicant may be required to submit a
+supplementary report containing findings prepared by an environmental scientist,
+hydrologist, engineer, geologist, biologist, or other qualified consultant. (Revised by
+Ordinance No. 16-11, Effective 2.9.17)
+
+10.225-25 Uses Subject to State and Federal Permits.
+ (1) When State or Federal permits, leases, easements or similar types of
+authorization are also required for use, information required as part of the State or
+Federal permit process may be required to be made available to the County for the
+determination that applicable criteria are satisfied.
+ (2) Applicants shall provide proof of application for all requisite State and/or
+Federal permits, leases, or similar type of  authorization as part of any application for to
+10.225-30 Lane Code 10.230-15
+June 16, 2020 10-564 LC10.210_235
+the city in order to avoid unnecessary delays caused by the unavailability of State or
+Federal processing information which may be deemed necessary.
+ (3) Any authorization for a use allowed within this  District must also require
+the securing of any necessary State or Federal permit, lease, easement or similar type of
+authorization. (Revised by Ordinance No. 16-11, Effective 2.9.17)
+
+10.225-30 Emergencies.
+Estuarine alterations performed under emergency conditions for which the Department of
+State Lands or other agency with such authority has issued an emergency permit, does
+not violate this Chapter. The party performing work must submit a copy of  written
+confirmation of such an emergency permit to the County. (Revised by Ordinance No. 16 -11,
+Effective 2.9.17)
+
+NATURAL ESTUARY ZONE (NE-FCP)
+
+10.230-05 Purpose.
+The purpose of the Natural Estuary Zone (NE -FCP) is to assure the protection of
+significant fish and wildlife habitats and the continued biological productivity of the
+estuary and to accommodate the uses which are consistent with these objectives.  The
+boundaries of the NE -FCP zone are determined by the natural estuarine features.  The
+NE-FCP Zone includes all major tracts of salt marsh, tideflats, eelgrass and algae beds.
+These are as identified on the official Lane County Coastal Zoning Maps. (Revised by
+Ordinance No. 12-80, Effective 7.24.80; 17-80, 8.6.80; 16-11, 2.9.17)
+
+10.230-10 Permitted Uses.
+The following uses and no others are permitted outright , provided that no such use
+involves dredge or fill:
+ (1) Undeveloped low-intensity water-dependent recreation.
+ (2) Research and educational observations.
+ (3) Navigational aids, such as beacons and buoys.
+ (4) Protection of habitat, nutrient, fish, wildlife and aesthetic resources.
+ (5) Passive restoration measures.
+ (6) Maintenance of riprap for protection of uses existing as of October 7, 1977,
+unique natural resources, historical and archeological values, and public facilities.  The
+riprap must be currently serviceable and previously installed in accordance with all local,
+state, and federal regulations and permits; and such maintenance must  not increase the
+size, extent, or scope of the riprap or otherwise alter the estuary.
+ (7) Bridge crossings.
+(Revised by Ordinance No. 12- 80, Effective 7.24.80; 17- 80, 8.6.80; 13- 82, 7.9.82; 7- 91, 6.5.91; 10-04,
+6.4.04; 16-11, 2.9.17)
+
+10.230-15 Special Uses Approved by Planning Director.
+The following specified uses and no others are permitted only with a Special  Use Permit.
+A Special Use Permit may be approved according to Type II limited land use procedures
+set forth in LC Chapter 14 upon affirmative findings that the use is consistent with the
+resource capabilities of the area, as defined in LC 230-25, and the purpose of the NE-FCP
+Zone; and upon satisfaction of the applicable criteria in LC 10.230- 30.  A Resource
+Capability Assessment is required as set forth in LC 10.225- 10 except for major projects
+requiring an Estuarine Impact Assessment as set forth in LC 10.225-15.
+10.230-20 Conditional Uses.
+ Lane Code 10.230-30
+June 16, 2020 10-565 LC10.210_235
+ (1) Bridge crossing support structures and dredging necessary for their
+installation; and dredging necessary for on- site maintenance of existing functional
+tidegates and associated drainage channels.
+ (2) Expansion of existing riprap for protection of uses existing as of October 7,
+1977, unique natural resources, historical and archaeological values; and public facilities.
+The riprap must be currently serviceable and previously installed in accordance with all
+local, state, and federal regulatio ns and permits. (Revised by Ordinance No. 12 -80, Effective
+7.24.80; 17-80, 8.6.80; 5-81, 4.8.81; 6-83, 4.15.83; 7-91, 6.5.91; 16-11, 2.9.17; 20-05, 6.16.20)
+
+10.230-20 Conditional Uses.
+The Hearings Official, subject to  Type III procedures of LC Chapter 14 , may grant a
+Conditional Use Permit for the following uses, upon affirmative findings that the use is
+consistent with the resource capabilities of the area, as defined in LC 10.230- 25, and the
+purpose of the NE-FCP Zone, and upon satisfaction of the all of the applicabl e criteria in
+LC 10.230-30 and below.  A Resource Capability Assessment is required as set forth in
+LC 10.225-10, except for major projects requiring an Estuarine Impact Assessment as set
+forth in LC 10.225-15.
+ (1) Aquaculture which does not involve dredg e or fill or other estuarine
+alteration other than incidental dredging for harvest of benthic species or removable in-
+water structures such as stakes or racks.
+ (2) Communication facilities.
+ (3) Active restoration of fish and wildlife habitat or water quality and estuarine
+management.
+ (4) Boat ramps for public use where no dredging or fill for navigational access
+is needed.
+ (5) Pipelines, cables and utility crossings, including incidental dredging
+necessary for their installation.
+ (6) Temporary alterati ons, subject to the requirements in the introduction to
+Conditional Uses and the following additional criteria: the alteration must support a use
+expressly allowed in this Management Unit in the Florence Comprehensive Plan; it must
+be for a specified short  period of time, not to exceed three years, and the area and
+affected resources can be restored to their original condition.
+ (7) Short-term fills for temporary alterations provided the estuarine areas
+impacted must be restored following removal of the fil l.  All other fills, regardless of
+volume, are prohibited in this Management Unit.
+ (8) Installation of new riprap for protection of uses existing as of October 7,
+1977, unique natural resource, historical and archaeological values; and public facilities.
+(Revised by Ordinance No. 12- 80, Effective 7.24.80; 17- 80, 8.6.80; 5- 81, 4-8 -81; 6 -83, 4.15.83; 16- 83;
+9.14.83; 7-91, 6.5.91; 16-11, 2.9.17; 20-05, 6.16.20)
+
+10.230-25 Consistency with Resource Capabilities.
+A use or activity is consistent with the resource capabilities o f the Natural Estuary Zone
+when either the impacts of the use on estuarine species, habitats, biological productivity
+and water quality are not significant or the resources of the area are able to assimilate the
+use and activity and their effects and conti nue to function in a manner to protect
+significant wildlife habitats, natural biological productivity, and values for scientific
+research and education. (Revised by Ordinance No. 16-11, Effective 2.9.17)
+
+10.230-30 Alterations to Estuary.
+Dredging and fill  and other activities which could potentially alter the estuary are
+prohibited in this Zone except as expressly permitted through a Special Use Permit or
+10.235-05 Lane Code 10.235-15
+June 16, 2020 10-566 LC10.210_235
+Conditional Use Permit in LC 10.230- 15 or -20. When allowed in LC 10.230- 15 or -20,
+these uses or activities must meet all of the following criteria:
+ (1) No feasible alternative upland locations exist;
+ (2) The activity minimizes impacts on water quality and other physical
+characteristics of the estuary, living resources, recreation and aesthetic use, an d other
+uses of the estuary allowed in LC 10.230-10, -15 and-20;
+ (3) Land use management practices and non -structural solutions to problems
+of erosion and flooding are preferred to structural solutions. Where shown to be
+necessary and as allowed in LC 10 .230-15 or - 20, dredging and fill (whether located in
+the waterways or on shorelands above ordinary high water mark) must be designed to
+minimize adverse impacts on water currents, erosion, and accretion patterns.
+ (4) Dredge or fill activities, found to be subject to state mitigation
+requirements, must be mitigated, if found to be subject to the mitigation requirement in
+state law, by creation, restoration or enhancement of an estuarine area to maintain the
+functional characteristics and processes of the estuary such as its natural biological
+productivity, habitats and species diversity, unique features and water quality; and
+ (5) All federal and state requirements, including mitigation requirements, are
+met as a condition of approval. (Revised by Ordinance No. 16-11, Effective 2.9.17)
+
+CONSERVATION ESTUARY ZONE (CE-FCP)
+
+10.235-05 Purpose.
+The purpose of the Conservation Estuary Zone (CE -FCP) is to provide for the long- term
+use of the estuary's renewable resources in ways which do no t require major alteration of
+the estuary.  Providing for recreational and aesthetic uses of the estuarine resources as
+well as maintenance and restoration of biological productivity are primary objectives in
+this District. The boundaries of the CE -FCP Zone are defined by natural features. The
+CE-FCP Zone includes minor tracts of salt marsh, tideflats, eelgrass and algae beds; and
+those not included in the Natural Estuary Zone (NE-FCP). This Zone also includes oyster
+and clam beds and areas immediately adja cent to developed estuarine areas. These are as
+identified on the official Lane County Coastal Zoning Maps.  (Revised by Ordinance No. 12-80,
+Effective 7.24.80; 17-80, 8.6.80; 16-11, 2.9.17)
+
+10.235-10 Permitted Uses.
+The following us es and no others are  permitted outright, provided that no such use
+involves dredge or fill:
+ (1) All uses permitted outright in the Natural Estuary Zone, LC 10.230-10.
+ (2) Maintenance of existing riprap which is currently serviceable and was
+previously installed in accordance with all local, state, and federal regulations and
+permits. Such maintenance must  not increase the size, extent, or scope of the riprap, or
+otherwise alter the estuary.
+ (3) Maintenance and repair of existing, functional, public and private docks
+and piers, provided that the activity: does not require dredging or fill of the estuary;
+minimizes adverse impacts on estuarine resources; and does not alter the size, shape, or
+design of the existing structure, or otherwise alter the estua ry.  (Revised by Ordinance No. 12-
+80, Effective 7.24.80; 17-80, 8.6.80; 7-91, 6.5.91; 10-04, 6.4.04; 16-11, 2.9.17)
+
+10.235-15 Special Uses Approved by the Planning Director.
+The following specified uses and no others are permitted only with a Special Use Permit.
+A Special Use Permit may be approved according to Type II limited land use procedures
+set forth in LC  Chapter 14 upon affirmative findings that the use is consistent with the
+10.235-20 Lane Code 10.235-30
+June 16, 2020 10-567 LC10.210_235
+resource capabilities of the area, as defined in LC 10.235- 25, and the purpose of the CE -
+FCP Zone; and upon satisfaction of the applicable criteria in LC 10.235- 30.A Resource
+Capability Assessment is required as set forth in LC 10.225- 10 except for major projects
+requiring an Estuarine Impact Assessment as set forth in LC 10.225-15.
+ (1) All uses permitted through a Special Use Permit in the Natural Estuary
+Zone in LC 10.230-15.
+ (2) Expansion of existing riprap, provided the riprap is  necessary to protect an
+existing use or a use that  is permitted outright or with Special Use Permit approval. The
+existing riprap must be currently serviceable and previously installed in accordance with
+all local, state, and fe deral regulations and permits.   (Revised by Ordinance No. 12 -80, Effective
+7.24.80; 6-83, 4.15.83; 16-83, 9.14.83; 16-11, 2.9.17; 20-05, 6.16.20)
+
+10.235-20 Conditional Uses.
+The Hearings Official, subject to the Type III procedures of LC Chapter 14, may grant a
+Conditional Use Permit for the following uses, upon affirmative findings that the use is
+consistent with the resource capabilities of the area, as defined in 10.235 -25, and the
+purpose of the CE-FCP Zone, and upon satisfaction of all of the applicable criteria in LC
+10.235-30 and -35. A Resource Capability Assessment i s required as set forth in10.225-
+10, except for major projects requiring an Estuarine Impact Assessment as set forth in
+10.225-15.
+ (1) All Conditional Uses in the Natural Estuary Zone in LC 10-230-20.
+ (2) Water-dependent uses requiring occupation of water surface area by means
+other than dredge or fill (e.g., on pilings or floating), including mooring buoys which are
+permanently anchored to estuary floor, dolphins, docks and piers, and other such uses.
+ (3) High-intensity water-dependent recreation, inc luding public beaches, boat
+ramps, marinas and new dredging for boat ramps and marinas.
+ (4) Minor navigational improvements.
+ (5) Aquaculture requiring dredge or fill or other alteration of the estuary.
+ (6) Active restoration for purposes other than those listed above.
+ (7) Installation of new riprap, provided the riprap is  necessary to protect an
+existing use or a use that is permitted outright or with Special Use Permit or Conditional
+Use Permit approval. (Revised by Ordinance No. 16-11, Effective 2.9.17; 20-05, 6.16.20)
+
+10.235-25 Consistency with Resource Capabilities.
+A use or activity is consistent with the resource capabilities of the Conservation Estuary
+Zone when either the impacts of the use on estuarine species, habitats, biological
+productivity and water quality are not significant or the resources of the area are able to
+assimilate the use or activity and its effects and continue to function in a manner which
+conserves long-term renewable resources, natural biologic productivity, recreational and
+aesthetic values and aquaculture. (Revised by Ordinance No. 16-11, Effective 2.9.17)
+
+10.235-30 Alterations to Estuary.
+Dredging and fill and other activities which could potentially alter the estuary are
+prohibited in this Zone except as expressly permitted throug h a Special Use Permit or
+Conditional Use Permit in LC 10.235- 15 or -20. When allowed in LC 10- 235.15 or -20,
+these uses or activities must meet all of the following criteria:
+ (1) No feasible alternative upland locations exist;
+ (2) The activity minimiz es impacts on water quality and other physical
+characteristics of the estuary, living resources, recreation and aesthetic use, and other
+uses of the estuary allowed in LC 10.235-10, -15, and -20;
+10.235-35 Lane Code 10.235-35
+June 16, 2020 10-568 LC10.210_235
+ (3) Land use management practices and non -structural solutions to problems
+of erosion and flooding are preferred to structural solutions. Where shown to be
+necessary and as allowed in LC 10.235- 15 or -20, dredge and fill, whether located in the
+waterways or on shorelands above ordinary high water mark, must be de signed to
+minimize adverse impacts on water currents, erosion, and accretion patterns.
+ (4) Dredge or fill activities must be mitigated, if found to be subject to the
+mitigation requirement in state law, by creation, restoration or enhancement of an
+estuarine area to maintain the functional characteristics and processes of the estuary such
+as its natural biological productivity, habitats and species diversity, unique features and
+water quality; and
+ (5) All federal and state permit requirements, including  mitigation
+requirements, are met as a condition of approval. (Revised by Ordinance No. 16-11, Effective
+2.9.17)
+
+10.235-35 Public and private piers and docks.
+Public and private piers and docks must meet the following additional criteria:
+ (1) The size and shape is limited to that required for the intended use.
+ (2) The applicant attests in writing (and provides analysis to support that
+conclusion) that alternatives to docks and piers, such as mooring buoys, dryland storage,
+and launching ramps, have bee n investigated and considered and no alternatives are
+feasible.
+ (3) For private, individual, single -purpose docks and piers, the applicant must
+attest in writing (and provide the documentation to support that conclusion) that it is not
+possible to use an existing public pier or dock or to work with other property owners to
+establish or use a joint-use facility. (Revised by Ordinance No. 16-11, Effective 2.9.17)
+
+THIS SPACE INTENTIONALLY LEFT BLANK
+10.235-35 Lane Code 10.235-35
+June 16, 2020 10-569 LC10.210_235
+
+PAGES 10-569 THROUGH 10-590
+ARE RESERVED FOR FUTURE EXPANSION

@@ -1,0 +1,652 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2001-048
+title: 'Ordinance No. 2001-048'
+doc_type: ordinance
+citation: 'Ordinance No. 2001-048'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616817577_2001-884-Ordinance%20No.%202001-048%20Recorded%2012_13_2001.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a0fa378dd19ad19e28af94505be8628bf6ac221c9219e96e52cd540880c02c44
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2001-048 (Ordinance No. 2001-048)
+
+## At a glance
+
+Ordinance No. 2001-048 — orders of Deschutes County. 14 pages.
+
+## Full text
+
+REVIEWED
+LEGAL COUNSEL
+REVIEWED
+1
+CODE REVIEW COMMITTEE
+DESCHUTESCOUNTY OFFICIAL
+COUNTYCLERKCJ 10010884
+COMMISSIONERS' JOURNAL
+12/13/200101:14:35PM
+BEFORETHEBOARDOFCOUNTYCOMMISSIONERSOFDESCHUTESCOUNTY, OREGON
+An OrdinanceAmendingTitle 18, ZoningOrdinance,
+OftheDeschutesCountyCode, andPrescribingan
+Effective Date of March 13, 2002.
+ORDINANCE NO. 2001- 048
+WHEREAS, theBoardof CountyCommissionershasdeterminedthatto complywith
+PeriodicReviewandOAR660-22, amendmentstotheDeschutesCountyZoningOrdinanceare
+required; and
+WHEREAS, after notice and hearing as required by law, the Board of CountyCommissioners has considered the recommendation of the Planning Commission, now,
+therefore,
+THE BOARD OFCOUNTY COMMISSIONERSOFDESCHUTESCOUNTY,
+OREGON, ORDAINS as follows:
+Section 1.
+AMENDMENT. Section18.04.030, Definitions, oftheDeschutesCounty
+Code is amendedto include the definitions describedin Exhibit " A," attachedhereto and by this
+referenceincorporated herein, with new languageunderlined.
+Section 2. ADDING. Title 18of theDeschutesCountyCodeisamendedbythe
+additionof anewchapter, Chapter18.110, ResortCommunityZone, asdescribedin Exhibit `B,"
+attachedhereto and by this referenceincorporated herein.
+Section 3. AMENDMENT. PursuanttoSection18.12.030of theCountyCode, the
+zoning map is amendedas shown in Exhibits " C," " D," and " E," attached hereto and
+incorporated herein by this reference.
+Section 4. AMENDMENT. Section 18.12.010, Establishment of zones, of the
+DeschutesCounty Code, is amendedto read as shown in Exhibit " F," attached hereto and
+incorporatedhereinby this reference, with newlanguageunderlined.
+Section 5. FINDINGS. Findings to support this ordinance are setforth in the staff
+report, attachedasExhibit "H" to OrdinanceNo. 2001-047andby thisreferenceincorporated
+herein.
+PAGE 1 of 2 - ORDINANCE NO. 2001-048 (11/28/2001)
+Section 6. EFFECTIVE DATE. This Ordinance takes effect on March 13, 2002.
+DATEDthisJE!— day of December, 2001.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTE COUNTY, O1ZEGON
+Tom DgWo) f, Chair
+ATTEST: Denflis R. Luke, Com
+Recording Secretary Mica M. aly, toi
+PAGE 2 of 2 - ORDINANCE NO. 2001- 048 ( 11/28/2001)
+EXHIBIT " A"
+18. 04. 030. Definitions.
+Resort utility facilities" means buildings,
+structures and uses, not includinglivingiving quarters,
+that provide or are used in connection with
+activities of a service or infrastructure nature for
+the operation and maintenance of a resort
+community. Such facilities include, but are not
+limited to: sewage treatment plant, water
+treatment, transmission lines, wells and pumping
+equipment, substation or pump station, irrigation
+systems, equipment storage, repair yard or
+building, facilities mandated by the Oregon
+Department of Environmental Quality, cable
+television facility, and administrative offices.
+Resort recreation facilities" means any
+combination of the following recreational
+amenities and their accessory uses: health and
+fitness facility, golf course includin
+development such as executive, Par 3 and pitch
+and putt golf course), golf course accessory uses,
+tennis court, park, playground, picnic and
+barbecue area, in-line skating area, recreational
+path, miniature golf facility, nature center,
+equestrian facility, swimming pool, basketball
+and volleyball court, running track, ball fields, ice
+skating rink, or similar use intended for sport or
+play, and community center.
+Ord 2001- 048 § 1, 2001; Ord. 97- 078 § 5; 1997)
+PAGE 1 of 1 - EXHIBIT " A" TO ORDINANCE NO. 2001- 048 ( 11/ 28/ 01)
+EXHIBIT ` B"
+Chapter 18. 110. RESORT COMMUNITY B. Uses permitted subject to site plan review.
+ZONE The following usesandtheir accessoryuses
+are permitted subject to applicable provisions
+18. 110. 010. Purpose. of this chapter and chapters 18. 116,
+18. 110. 020. Resort District. Supplementary Provisions, and 18.124, Site
+18. 110. 030. Widgi Creek Residential Plan Review, of this title:
+District. 1. Resort facility, as that term is defined in
+18. 110. 40. Black Butte Ranch Surface this title.
+Mining / Limited Use 2. Resort recreation facilities, as that term is
+Combining District. defined in this title, except those uses
+18. 110. 045. Black Butte Ranch Utility listed in DCC 18. 110. 020( A)( 6).
+Limited Use Combining 3. Resort utility facilities, as that term is
+District. defined in this title.
+18. 110. 050. Development Standards. 4. Property sales and rental office.
+5. Hotel or motel.
+6. Daycare facility.
+18. 110. 010. Purpose. 7. Fire station.
+Thepurposeof theResortCommunityZoneis to 8. Post office.
+provide standards and review procedures for 9. Multiple -family dwellings.
+development in the communities of Black Butte 10. Employee housing.
+Ranch and The Inn of the Seventh
+Mountain/ Widgi Creek. The provisions of this
+C. Conditional uses permitted. The following
+chapter shall apply to any Resort Community that uses and their accessory uses are permitted
+is planned pursuant to OAR 660 Division 22. subject to the applicable provisions of this
+Ord. 2001- 048 § 2, 2001) chapter and chapters 18.116, Supplementary
+Provisions, 18. 124, Site Plan Review, and
+18. 110. 020. Resort District. 18. 128, Conditional Use, of this title:
+1. Church.
+A. Uses permitted outright. The following uses 2. Wireless telecommunicationsfacility.
+and their accessory uses are permitted Ord. 2001- 048 § 2, 2001)
+subject to the applicable provisions of
+section 18. 110. 050 of this chapter: 18. 110. 030. Widgi Creek Residential
+1. Single-family dwelling. District.
+2. Residential home. Thefollowing usesandtheir accessoryusesare
+3. Residential facility. permitted subject to the applicable provisions of
+4. Timeshareunitsexistingasof January1, section 18. 110. 050 of this chapter:
+1984 at Black Butte Ranch.
+5. Timeshare units at the Inn of the Seventh
+A. Single-family dwelling.
+Mountain. B. Residential home.
+6. The following resort recreational
+C. Residential facility.
+facilities: Recreational path, picnic and
+D. Timeshare units.
+barbecue area, park, playground, and
+Ord. 2001- 048 § 2, 2001)
+sport courts for basketball, volleyball,
+and similar small- scale recreation
+activities.
+7. Livestock and horse grazing on common
+area in Black Butte Ranch.
+8. Police or security facility.
+PAGE I of 4 - EXHIBIT ` B" TO ORDINANCE NO. 2001-048 (11/28/01)
+EXHIBIT ` B"
+18. 110. 040. Black Butte Ranch Surface
+Mining / Limited Use Combining
+District.
+A. Outright Permitted Uses. The following
+uses are allowed outright:
+1. Mining, processing and storage of
+aggregate within the the 8. 6 -acre area
+which has a valid Oregon Department of
+Geology and Mineral Industries
+DOGAMI) exemption.
+2. Outdoor equipment storage.
+3. Effluent/ sludge storage and disposal.
+4. Composting activities.
+5. Forest uses including woody debris
+disposal.
+B Site Plan. The following use is permitted
+subject to DCC 18. 52:
+1. Mining, processing and storage of
+aggregate once mining mining affects
+more than five acres outside the 8. 6 -acre
+area with a valid DOGAMI exemption.
+C. Uses Permitted Subject to Site Plan Review.
+The following uses are permitted in an area
+reclaimed after mining, subject to DCC
+18. 124:
+1. Solid waste transfer station.
+2. Equipment repair shop or other
+maintenance facilities.
+Ord. 2001- 048 § 2, 200 1)
+18. 110. 045. Black Butte Ranch -Utility /
+Limited Use Combining
+District.
+A. UsesPermitted Outright. The following uses
+are permitted outright:
+1. Outdoor or enclosed storage, large
+equipment or general.
+2. Effluent/ sludge storage and disposal.
+3. Composting activities.
+4. Forest uses including woody debris
+disposal.
+5. Recreational vehicle or other outdoor
+equipment storage for resort property
+owners or visitors.
+B. Uses Permitted Subject to Site Plan. The
+following usesare permitted west of McCallister
+Road, subject to DCC 18. 124:
+1. Telephone communications facility or
+other utility uses, also subject to DCC
+18. 128 if applicable.
+2. Equipment repair shop or other
+maintenance facilities.
+3. Housekeeping facility.
+4. Employeehousing, subject to a minimum
+250' setback from the surface mining
+limited use combining district and DCC
+18. 56.
+5. Administration offices.
+Ord. 2001- 048 § 2, 2001)
+18. 110. 050. Development standards.
+A. Setbacks.
+1. Single -Family Dwelling. The following
+setbacks shall be maintained for single-
+family dwellingsand accessoryuseson
+residential parcels:
+a. Front Yard. The front yard shall be
+a minimum of 20 feet at Black Butte
+Ranch and The Inn of the Seventh
+Mountain, and 30 feet at Widgi
+Creek.
+b. Side Yard. The side yard shall be a
+minimum of 10 feet, except on the
+street side of a corner lot the side
+yard shall be a minimum of 20 feet.
+c. Rear Yard. The rear yard shall be a
+minimum of 20 feet.
+d. In Black Butte Ranch a lesser
+setback shall be approved based on
+written approval from the Black
+Butte Ranch Architectural Review
+Committee ( ARC) or its successor.
+The granting of a lesser setback
+based on documented ARC approval
+does not constitute a land use
+decision by the County.
+2. All Other Uses. The following setbacks
+shall be maintained for buildings and
+structures used for purposes other than a
+single-family dwelling and residential
+PAGE 2 of 4 - EXHIBIT " B" TO ORDINANCE NO. 2001- 048 ( 11/ 2 8/ 0 1)
+EXHIBIT ` B"
+accessory uses, unless a greater setback
+is required pursuant to site plan review or
+other applicable provisions of this title:
+a. Front Yard. The front yard shall be a
+minimum of 10 feet.
+b. Side Yard. Zero ( 0) feet except that,
+when a side lot line is adjoining a lot
+used for single-family residential
+purposes, the side yard shall be a
+minimum of 10 feet and shall be
+increasedby one-half foot for each foot
+by which the building height exceeds20
+feet.
+c. Rear Yard. Zero ( 0) feet except that,
+when a rear lot line is adjoining a lot
+used for residential purposes, the rear
+yard shall be a minimum of 10 feet and
+shall be increased by one-half foot for
+eachfoot by which the building height
+exceeds 20 feet.
+d. Perimeter Setback. All uses in the Black
+Butte Ranch SurfaceMining or Utility
+Limited Use Combining Districts shall
+maintain a minimum setback of 50' from
+a perimeter boundary adjacent to land
+zoned for forest uses.
+e. Forest Zone Setback. New uses adjacent
+to land zoned Forest shall have a
+minimum setback of 20 feet from the
+Forestzoneboundary.
+B. Other Setbacks. The following setbacks
+shall be maintained for buildings and
+structures, based on the applicable
+provision( s) of this title or code:
+1. Solar Setback. The setback from the
+north lot line shall meet the solar access
+setback requirements in DCC 18. 116. 180
+for south roof protection.
+2. Waterway Setback. All structures,
+buildings or similar permanent fixtures
+shallbe setbackfrom the ordinaryhigh
+water mark along all streams and lakes a
+minimum of 100 feet measured at right
+anglesto the ordinary high water mark.
+3. Building Code Setbacks. In addition
+to the setbacks set forth herein, any
+greater setbacks required by applicable
+building or structuralcodesadoptedby
+the State of Oregon and/ or Deschutes
+County under DCC 15.04 shall be met.
+4. Rimrock Setbacks. Setbacks from
+rimrocks shall be maintained as provided
+in DCC 18. 84 or DCC 18. 116. 160,
+whichever is applicable.
+5. ScenicWaterway. The applicable
+provisions in DCC 18. 84 shall be met.
+6. Floodplain. The applicable provisions in
+DCC 18. 96 shall be met.
+C. Building Height.
+1. Resort Facility and Resort Utility
+Building. No resort facility or
+resort utility building or structure shall be
+erected or enlarged to exceed forty ( 40)
+feet, or thirty ( 30) feet when the
+provisions in DCC 18. 84. 080 are
+applicable, unless a variance for a greater
+height is approved. For the purposes of
+this paragraph an application for a height
+variance may be granted provided the
+Planning Director or Hearings Body
+makesonly the following findings:
+a. The proposed height does not exceed the
+height limitation of the appropriate fire
+agency' s (either Black Butte Ranch Rural
+Protection Fire District or City of Bend
+Fire Department) fire fighting equipment,
+considering the evacuation of the
+building's occupantsandthefire fighting
+requirements of the agency; and
+b. The proposed additional height will not
+adversely impact scenic views from
+adjoining residences or adjoining
+residential building sites.
+c. Approval of a height variance in a state
+scenic waterway shall be conditioned
+upon receipt of approval from the Oregon
+Parks and Recreation Department.
+2. All Other Buildings. No building or
+structure used for purposes other than a
+resortfacility or resortutility, includinga
+single-family dwelling, shall be erected
+or enlarged to exceed thirty ( 30) feet in
+height, except as provided by DCC
+18. 120. 040.
+PAGE 3 of 4 - EXHIBIT ` B" TO ORDINANCE NO. 2001- 048 ( 11/28/ 01)
+EXHIBIT ` B"
+3. ScenicWaterway. The applicable
+provisions in DCC 18. 84 shall be met.
+D. Lot Coverage.
+1. Single-family dwelling. The maximum
+lot coverage by a single-family dwelling
+and accessory structures shall be forty
+40) percent of the total lot. In Black
+Butte Ranch a greater lot coverage shall
+be approved based on documentation of
+written approval from the Black Butte
+Ranch Architectural Review Committee
+ARC) or its successor. The grantingof
+greater lot coverage based on
+documented ARC approval does not
+constitute a land use decision by the
+County
+2. All Other Buildings. The maximum lot
+coverage by buildings and structures
+used for purposes other than a single-
+family dwelling shall be determined by
+the spatial requirements for yard
+setbacks, landscaping, parking and
+utilities.
+E. Off -StreetParking andLoading.
+1. Single -Family Dwelling. Off- street
+parking shall be provided for a minimum
+of two motor vehicles per dwelling.
+2. All Other Uses. Off- street parking and
+loading shall be provided subject to the
+requirements of DCC 18. 116.
+F. Outdoor Lighting. All outdoor lighting
+shall be installed in conformance with DCC
+15. 10.
+G. Excavation, Grading and Fill and Removal.
+Excavation, grading and fill and removal
+within the bed and banks of a stream or lake,
+or in a wetland shall be subject to section
+DCC 18. 128. 040( W), unless the activity
+meets the exception provisions in DCC
+18. 120. 050.
+H. Signs. All signs shall be constructed in
+accordance with the provisions of DCC
+15. 08.
+I. Lot Requirements.
+1. Single -Family Dwelling. A new lot for a
+single-family dwelling served by a
+community or public sewerage system
+shall have a minimum area of 6,000
+square feet and a minimum average
+width of 60 feet, except that a corner lot
+shall have a minimum average width of
+70 feet. A new lot for a single-family
+dwelling served by an on-site septic
+system shall have a minimum area of
+22, 000 square feet and a minimum
+average width of 100 feet. Any new
+residential lot shall have a minimum
+width at the street of 50 feet, except for a
+lot on a cul- de- sac, in which case the
+minimum width shall be 30 feet.
+2. All Other Uses. Every lot created for
+purposes other than residential use shall
+have dimensions for lot area, width And
+depth necessary for yard setbacks,
+landscaping, parking and utilities for the
+proposed use.
+Ord. 2001- 048 § 2, 2001)
+PAGE 4 of 4 - EXHIBIT ` B" TO ORDINANCE NO. 2001- 048 ( 11/28/ 01)
+EXHIBIT " C"
+BLACK BUTTE RANCH RESORT COMMUNITY
+N Ruc
+Q BLnCXBUTTERUJCNRESORTCOWUNiTTBOUNOMv ZONING MAP
+BUTTE R - Cl RESORT
+oRESORT — TY--
+CTNT.
+N
+Exhibit " C to Ordinance 2001- 048
+OE— BUTTE B— CN UTILITY - iN— a TRi T
+O Buts BUTTE — SU— E 11— U1UE1 USE cc - 1— aSTRICT
+N
+W+ E
+DeaAncMCounty, s
+2000 0 2000 Feet
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+Tom De Wolf, Chair
+Dennis R. Luke, Commissioner
+Michael M. Daly, Commissioner
+ATTEST: Recording Secretary
+Dated this day of December, 2001
+Effective Date: March . 2002
+V - ELS
+DESCHUTES RNER
+O INNOFTHETDIM%IWIDGICREEKRESORTCOMMUNITYBOUNDRRY
+NNOF THE TTHM IWIDGI CRE EK RESORT COMMUNITY MNING
+RESORT COMMUNITY DISTRICT
+E= 3 WIDGI CREEK RESIDENTIRL DISTRICT
+oe. UMees coon
+EXHIBIT " D"
+INN OF THE 7TH MOUNTAIN / WIDGI CREEK
+RESORT COMMUNITY
+ZONING MAP
+Exhibit " D" to Ordinance 2001- 048
+N
+w+ E
+S
+1000 0 1000 Feet
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+Tom DBWOIf, Chair
+Dennis R. Luke, Commissioner
+Michael M. Daly, Commissioner
+ATTEST: Recording Secretary
+Dated this day of December 2001.
+Effecti Data: March 2002.
+EXHIBIT " E"
+i
+i
+INN OF THE 7TH MOUNTAIN / WIDGI CREEK
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+Tom DeWoff, Chair
+Dennis R. Luke, Commissioner
+Michael M. Daly, Commissioner
+ATTEST: Recording Secretary
+Dated this _ day of December, 2001.
+Effective Date: March 2002.
+RESORT COMMUNITY
+PARCELS
+DESCHUTES RIVER
+P -- SINN OF THE 7TH MTN I WILDLIFE AREA COMBINING ZONE MAP
+WIDGI CREEK RESORT COMMUNITY BOUNDARY
+L7 WILDLIFE AREA COMBINING ZONE
+CZIAREA WITHIN RESORT COMMUNITY BOUNDARY TO BE EXCLUDED
+Exhibit " E" to Ordinance 2001- 048FROM WILDLIFE AREA COMBINING ZONE
+Deschutes County / 2
+N
+WE
+Cammuri ty DwelopmeM
+o......... s..-. 0- n. i.. 5
+1000 0 1000 Feet
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+Tom DeWoff, Chair
+Dennis R. Luke, Commissioner
+MichaelM. Daly, Commissioner
+ATTEST: Recording Secretary
+Dated this _ day of December, 2001.
+Effective Date: March 2002.
+EXHIBIT " F"
+18. 12. 010. Establishment of zones.
+For the purpose of DCC Title 18, the following
+primary zones, combining zones, subzones and
+zonedistricts are herebyestablished:
+A. Primary zones.
+Airport Development AD
+Exclusive Farm Use Zones EFU
+Flood Plain FP
+Forest Use F 1
+Forest Use F2
+Multiple Use Agriculture MUA10
+Open Space and Conservation OS& C
+Rural Industrial RI
+Rural Residential RR10
+Rural Service Center RSC
+Rural Service
+LPNCFL
+Residential - M RSRM
+Rural Service
+LPNC
+Residential - 5 RSR5
+Surface Mining SM
+Terrebonne Rural Community TE
+Tumalo Rural Community TU
+La Pine Urban Unincorporated
+Community LP
+Sunriver Urban Unincorporated
+Community SU
+Combinina Zones Abbreviations
+Airport Height AH
+Conventional Housing CH
+Destination Resort DR
+Landscape Management LM
+Limited Use LU
+Sensitive Bird & Mammal Habitat SBM
+SurfaceMining Impact Area SMIA
+Wildlife Area WA
+Alfalfa EFUAL
+Horse Ridge East EFUHR
+La Pine EFULA
+Lower Bridge EFULB
+Sisters/ Cloverdale EFUSC
+Terrebonne EFUTE
+Tumalo/ Redmond/ Bend EFUTRB
+D. Unincorporated Community Zones.
+1. La Pine Urban Unincorporated
+nmmimihi
+La Pine Planning Area Abbreviations
+Commercial District LPC
+Community Facility District LPCF
+Community Facility Limited District LPCFL
+Flood Plain District LPFP
+Industrial District LPI
+Business Park District LPBP
+Residential District LPR
+Sewer Treatment District LPST
+Neighborhood Planning Area Abbreviations
+Neighborhood Community Facility LPNCF
+Neighborhood Community Facility LPNCFL
+Limited
+Neighborhood Commercial LPNC
+Neighborhood . Park/ Open Space LPNPO
+Neighborhood Residential Center LPNRC
+Neighborhood Residential General LPNRG
+Wickiup Planning Area Abbreviations
+Wickiup Commercial/ Residential LPWJ
+2. Sunriver Urban Unincorporated
+Airport District SUA
+Business Park District SUBP
+Commercial District SUC
+Community General District SUCG
+Community Limited District SUCL
+Community Neighborhood District SUCN
+Community RecreationDistrict SUCR
+Flood Plain Combining District SUFP
+Forest District SUF
+Multiple Family Residential District SURM
+Resort District SUR
+PAGE 1 of - EXHIBIT " F" TO ORDINANCE NO. 2001- 048( 11/ 28/ 01)
+EXHIBIT " F"
+Resort Equestrian District SURE
+Resort Golf Course District SURG
+Resort Marina District SURA
+Resort Nature Center District SURN
+Single Family Residential District SURS
+Utility District SUU
+Terrebonne RC Districts Abbreviations
+Commercial District TERC
+Commercial - Rural District TECR
+Residential District TER
+Residential - 5 acre minimum
+District TER5
+Commercial District TUC
+Residential District TUR
+Residential - 5 acre minimum
+District TUR5
+Research & Development District TURE
+r r u
+a= I :::
+EMNOW1 = 1 Wt. Me
+r I11 ,
+Ord. 2001- 048 § 5, 2001, Ord. 2001- 044 § 2,
+2001; Ord. 98- 063 § 2, 1998; Ord. 96- 003 § 4,
+1996; Ord. 92- 025 § 5, 1992)
+PAGE 2 of 2 - EXHIBIT " F" TO ORDINANCE NO. 2001- 048( 11/ 28/ 01)
+FIGURE ' T'
+BLACK BUTTE RANCH RESORT COMMUNITY
+PARCELS
+O BLACKBUTTERANCHRESORTCOMMUNITYBOUNDARY
+BLACK BUTTE RANCH SURFACE MINING -
+LIMITED USE COMBINING DISTRICT
+BLACK BUTTE RANCH UTILITY -
+LIMITED USE COMBINING DISTRICT
+C] LANDSCAPE MANAGEMENT - ROAD
+SURFACE MINING IMPACT AREA
+COMBINING ZONE MAP
+N
+w + e
+s
+2000 0 2000 Feet
+uewwm county . .
+c< nvn oa. abp+ M . c.
+FIGURE " 2"
+INN OF THE 7TH MOUNTAIN / WIDGI CREEK
+RESORT COMMUNITY
+V PARCELS
+DESCHUTES RIVER
+O INNOFTHE7THMTN / WIDGICREEKRESORTCOMMUNITYBOUNDARY
+LANDSCAPE MANAGEMENT ZONING
+0 LANDSCAPE MANAGEMENT - ROAD
+LANDSCAPE MANAGEMENT - RIVER
+LANDSCAPE MANAGEMENT - ROAD & RIVER
+LANDSCAPE MANAGEMENT
+COMBINING ZONE MAP
+N
+W+ E
+S
+1000 0 1000 Feet
+DeschutesCounty a= -
+Community Dwelopmant ;
+r
+w. yyum.. a... ry. rm

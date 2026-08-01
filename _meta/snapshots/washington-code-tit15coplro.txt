@@ -1,0 +1,299 @@
+ ### Title 15 - COMMUNITY PLANNING AND ROADS
+
+ ### Chapter 15.04 - FAIRGROUNDS MASTER PLAN
+
+ ### 15.04.010 - Short title.
+
+ ### 15.04.020 - Purpose.
+
+ ### 15.04.030 - Definitions.
+
+ ### 15.04.040 - Adoption.
+
+ ### 15.04.050 - Dedicated fund establishment.
+
+ ### 15.04.060 - Review.
+
+ ### Chapter 15.08 - ROAD DESIGN AND CONSTRUCTION STANDARDS*
+
+ ### ARTICLE 1. - GENERAL
+
+ ### 15.08.110 - Definitions.
+
+ ### 15.08.120 - General requirements.
+
+ ### 15.08.120.010 - Design standards.
+
+ ### 15.08.120.020 - Construction specifications.
+
+ ### 15.08.120.020.1 - Scope.
+
+ ### 15.08.130 - Road requirements.
+
+ ### 15.08.130.010 - Functional classification.
+
+ ### 15.08.130.020 - Accesses.
+
+ ### 15.08.130.030 - Half-street improvements.
+
+ ### 15.08.130.040 - Width.
+
+ ### 15.08.130.050 - Number of lanes.
+
+ ### 15.08.130.060 - Design speed.
+
+ ### 15.08.130.070 - Easements.
+
+ ### 15.08.130.080 - Sight distance.
+
+ ### 15.08.130.090 - Lane restrictions during construction.
+
+ ### 15.08.130.100 - Road restoration.
+
+ ### ARTICLE 2. - SUBMITTAL, REVIEW AND ROAD STANDARDS EXCEPTIONS PROCEDURES
+
+ ### 15.08.210 - Submittal requirements.
+
+ ### 15.08.210.010 - General.
+
+ ### 15.08.210.020 - Review procedure.
+
+ ### 15.08.210.030 - Design plan format.
+
+ ### 15.08.210.030.1 - Plan view.
+
+ ### 15.08.210.030.2 - Profile view.
+
+ ### 15.08.210.030.3 - Landscape.
+
+ ### 15.08.210.030.4 - Other plan sheets.
+
+ ### 15.08.210.040 - Other requirements.
+
+ ### 15.08.210.050 - Drainage calculations.
+
+ ### 15.08.210.060 - As-built plans.
+
+ ### 15.08.210.070 - Revocation of approval.
+
+ ### 15.08.220 - Design exceptions.
+
+ ### 15.08.220.010 - General.
+
+ ### 15.08.220.020 - Exception process.
+
+ ### 15.08.220.020.1 - Criteria for exception.
+
+ ### 15.08.220.020.2 - Submittal.
+
+ ### 15.08.220.020.3 - Review.
+
+ ### 15.08.220.020.4 - Appeal.
+
+ ### 15.08.220.030 - Responsibility for exceptions.
+
+ ### 15.08.230 - Revocation of design approval.
+
+ ### 15.08.230.010 - General.
+
+ ### 15.08.230.020 - County actions.
+
+ ### 15.08.240 - Violation.
+
+ ### 15.08.240.010 - General.
+
+ ### 15.08.240.020 - Responsibility.
+
+ ### 15.08.240.030 - Penalty.
+
+ ### ARTICLE 3. - TECHNICAL
+
+ ### 15.08.310 - Surveying.
+
+ ### 15.08.310.010 - General.
+
+ ### 15.08.310.020 - Existing survey monuments.
+
+ ### 15.08.310.030 - New survey monuments.
+
+ ### 15.08.320 - Road design.
+
+ ### 15.08.320.010 - Subgrade evaluation.
+
+ ### 15.08.320.020 - Structural design.
+
+ ### 15.08.320.020.1 - General.
+
+ ### 15.08.320.020.2 - Structural section.
+
+ ### 15.08.320.020.3 - Asphalt pavement design.
+
+ ### 15.08.320.020.4 - Portland Cement Concrete pavement design.
+
+ ### 15.08.320.020.5 - Nonstructural concrete.
+
+ ### 15.08.320.030 - Vertical alignment.
+
+ ### 15.08.320.030.1 - Superelevations.
+
+ ### 15.08.320.030.2 - Vertical clearance to overhead structures.
+
+ ### 15.08.320.040 - Horizontal alignment.
+
+ ### 15.08.320.050 - Transitions.
+
+ ### 15.08.320.060 - Intersections.
+
+ ### 15.08.320.070 - Clear zones.
+
+ ### 15.08.330 - Drainage design.
+
+ ### 15.08.330.010 - General.
+
+ ### 15.08.330.020 - System Components.
+
+ ### 15.08.330.030 - Ditches and culverts.
+
+ ### 15.08.330.040 - Standard drawings.
+
+ ### 15.08.340 - Ancillary facilities.
+
+ ### 15.08.340.010 - Bikeways.
+
+ ### 15.08.340.020 - Cul-de-sacs, eyebrows and turnarounds.
+
+ ### 15.08.340.030 - Private roads.
+
+ ### 15.08.340.040 - Stub roads.
+
+ ### 15.08.340.050 - Curbs and grading.
+
+ ### 15.08.340.060 - Sidewalks.
+
+ ### 15.08.340.070 - Driveways.
+
+ ### 15.08.340.080 - Raised medians, islands and traffic separators.
+
+ ### 15.08.340.090 - Fences.
+
+ ### 15.08.340.100 - Guardrails.
+
+ ### 15.08.340.110 - Retaining walls.
+
+ ### 15.08.340.120 - Subgrade drainage.
+
+ ### 15.08.340.130 - Landscape.
+
+ ### 15.08.340.130.1 - General.
+
+ ### 15.08.340.130.2 - Locations.
+
+ ### 15.08.340.130.3 - Materials and installation.
+
+ ### 15.08.340.140 - Traffic management devices.
+
+ ### 15.08.340.150 - Traffic calming.
+
+ ### 15.08.340.160 - Utilities.
+
+ ### 15.08.340.160.1 - Dry utilities.
+
+ ### 15.08.340.160.2 - Wet utilities.
+
+ ### 15.08.350 - Roadway illumination.
+
+ ### 15.08.350.010 - General.
+
+ ### 15.08.350.020 - Plan submittal.
+
+ ### 15.08.350.030 - Design standards.
+
+ ### 15.08.350.030.1 - Luminaires, luminaire poles and mast arms.
+
+ ### 15.08.350.030.2 - Pedestrian conflict area classifications.
+
+ ### 15.08.350.030.3 - Roadways.
+
+ ### 15.08.350.030.4 - Intersections.
+
+ ### 15.08.350.030.5 - Other conflict points.
+
+ ### 15.08.350.030.6 - Pedestrian lighting.
+
+ ### 15.08.350.040 - Design exceptions.
+
+ ### 15.08.360 - Alternate local and special area roads.
+
+ ### 15.08.360.010 - Alternate local roads.
+
+ ### 15.08.360.020 - Special area roads.
+
+ ### 15.08.360.020.1 - General.
+
+ ### 15.08.360.020.2 - Application.
+
+ ### 15.08.360.020.3 - Right-of-way.
+
+ ### 15.08.360.020.4 - Paved width.
+
+ ### 15.08.360.020.5 - Sidewalk and utility easements.
+
+ ### 15.08.360.030 - Specific requirements by road classification.
+
+ ### 15.08.360.030.1 - Special area collectors.
+
+ ### 15.08.360.030.2 - Special area neighborhood routes.
+
+ ### 15.08.360.030.3 - Special area commercial roads.
+
+ ### 15.08.360.030.4 - Special area local roads.
+
+ ### 15.08.360.040 - Neighborhood traffic management.
+
+ ### 15.08.360.050 - Traffic calming.
+
+ ### ARTICLE 4. - CONSTRUCTION SPECIFICATIONS
+
+ ### 15.08.410 - Construction inspection.
+
+ ### 15.08.410.010 - General.
+
+ ### 15.08.410.020 - County responsibilities.
+
+ ### 15.08.410.030 - Inspecting engineer's responsibilities.
+
+ ### ARTICLE V. - STANDARD DRAWINGS
+
+ ### APPENDICES
+
+ ### APPENDIX G
+
+ ### Chapter 15.12 - DEDICATION OF INTERESTS IN REAL PROPERTY
+
+ ### 15.12.010 - Delegation.
+
+ ### Chapter 15.16 - MEASURE 49 IMPLEMENTATION
+
+ ### 15.16.010 - Purpose.
+
+ ### 15.16.020 - Definitions.
+
+ ### 15.16.030 - Determination of compensation and delegation of authority.
+
+ ### 15.16.040 - Claim for compensation.
+
+ ### 15.16.050 - Director review and decision.
+
+ ### 15.16.060 - Board review and decision.
+
+ ### 15.16.070 - Burden of proof and record.
+
+ ### 15.16.080 - Effect of waiver.
+
+ ### 15.16.090 - Procedural error.
+
+ ### 15.16.100 - Recording of waiver.
+
+ ### 15.16.110 - Reconsideration of waiver.
+
+ ### 15.16.120 - Appeals.

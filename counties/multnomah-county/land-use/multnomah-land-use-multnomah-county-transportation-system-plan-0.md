@@ -1,0 +1,10876 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-land-use-multnomah-county-transportation-system-plan-0
+title: 'Multnomah County Transportation System Plan-0'
+doc_type: ordinance
+citation: 'Multnomah County Transportation System Plan-0'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://multco.us/file/multnomah_county_transportation_system_plan-0/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 1bb2aeea2491a6cb617891aedd01fe68f33ba7acc10df7d2ab4d1cc729b65dd0
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 368.031
+  related: []
+  supersedes: []
+tags: [multnomah-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Multnomah County Transportation System Plan-0 (Multnomah County Transportation System Plan-0)
+
+## At a glance
+
+Multnomah County Transportation System Plan-0 — land use of Multnomah County. 137 pages.
+
+## Full text
+
+Transportation System Plan
+Multnomah County, Oregon
+MULTNOMAH COUNTY TRANSPORTATION SYSTEM PLAN
+August 2016
+Prepared for:
+Multnomah County
+1600 SE 190th Avenue
+Portland, Oregon 97233
+(503) 823-4000
+Prepared by:
+Kittelson & Associates, Inc.
+610 SW Alder Street, Suite 700
+Portland, Oregon 97205
+(503) 228-5230
+In coordination with:
+Angelo Planning Group
+
+Transportation System Plan
+Multnomah County Transportation
+System Plan
+Multnomah County, Oregon
+August 2016
+
+Adopted: September 1, 2016
+by Ordinance No. 1235
+
+Effective: October 1, 2016
+
+Transportation System Plan
+Multnomah County TSP
+Multnomah County, Oregon
+Prepared For:
+Multnomah County
+1600 SE 190th Avenue
+Portland, OR 97233
+(503) 823‐4000
+Prepared By:
+Kittelson & Associates, Inc.
+610 SW Alder, Suite 700
+Portland, OR 97205
+(503) 228‐5230
+Project Manager: Susan Wright, P.E.
+Project Analyst: Molly McCormick, EI
+Project Principal: Julia Kuhn, P.E.
+Project No. 17944
+August 2016
+
+  Introduction
+   iii
+TABLE OF CONTENTS
+Preface .......................................................................................................................................................................... xiii
+Section 1 Introduction ...............................................................................................................................................  2
+Transportation System Plan Goal ..................................................................................................................................... 2
+Key Transportation Issues ................................................................................................................................................ 3
+TSP Update Process .......................................................................................................................................................... 4
+Plan Organization ............................................................................................................................................................. 4
+Section 2 Existing And Future Conditions ...................................................................................................................  7
+Study Area ........................................................................................................................................................................ 7
+Plans and Policies ............................................................................................................................................................. 7
+Key Transportation Issues .............................................................................................................................................. 10
+Population and Demographics ....................................................................................................................................... 15
+Street System and Traffic Analysis ................................................................................................................................. 19
+Historic Crash Analysis ................................................................................................................................................... 25
+Public Transportation System ........................................................................................................................................ 33
+Rail ................................................................................................................................................................................. 33
+Air Transportation System ............................................................................................................................................. 34
+Water ............................................................................................................................................................................. 34
+Existing Conditions and Future Needs Summary ............................................................................................................ 34
+Section 3 Range of Solutions ...................................................................................................................................  37
+Section 4 Goals and Policies ....................................................................................................................................  69
+Transportation Goal ....................................................................................................................................................... 69
+Transportation Policies................................................................................................................................................... 69
+Sauvie Island and Multnomah Channel Rural Area TSP Policies .................................................................................... 81
+Section 5 Transportation System Plan .....................................................................................................................  85
+Roadway functional Classification and Standards ......................................................................................................... 85
+Bridges ........................................................................................................................................................................... 91
+Freight Element .............................................................................................................................................................. 95
+Pedestrian and Bicycle Element ..................................................................................................................................... 98
+  Introduction
+   iv
+Improvement Projects .................................................................................................................................................. 103
+Key Code Amendments ................................................................................................................................................ 114
+Funding Analysis .......................................................................................................................................................... 115
+
+  Introduction
+   v
+LIST OF FIGURES
+FIGURE 1 STUDY AREA ....................................................................................................................................... 8
+FIGURE 2 EXISTING HOUSEHOLD DENSITY ............................................................................................................. 17
+FIGURE 3 ROADWAY JURISDICTION ..................................................................................................................... 21
+FIGURE 4 AVERAGE DAILY TRAFFIC ...................................................................................................................... 23
+FIGURE 5 CRASH REPORTS BY TYPE ..................................................................................................................... 25
+FIGURE 6 FUNCTIONAL CLASSIFICATION................................................................................................................ 87
+FIGURE 7 SPEED ZONES .................................................................................................................................... 89
+FIGURE 8 PAVEMENT WIDTH ............................................................................................................................. 93
+FIGURE 9 FREIGHT ROUTES ................................................................................................................................ 96
+FIGURE 10 ROADWAY BICYCLE DESIGNATION MAP .............................................................................................. 101
+FIGURE 11 PLANNED AND PROGRAMMED PROJECTS ............................................................................................. 104
+
+  Introduction
+   vi
+LIST OF TABLES
+TABLE 1 YEAR 2010 AREA POPULATIONS ............................................................................................................. 16
+TABLE 2 EMPLOYEE AND HOUSEHOLD PROJECTIONS FOR UNINCORPORATED AREAS IN MULTNOMAH COUNTY ................... 16
+TABLE 3 REPORTED CRASHES BY SEVERITY IN MULTNOMAH COUNTY RURAL AREAS (2009 – 2013) ............................... 25
+TABLE 4 REPORTED CRASHES AT STUDY INTERSECTIONS ........................................................................................... 30
+TABLE 5 REPORTED CRASHES AT STUDY ROADWAY SEGMENTS.................................................................................. 31
+TABLE 6 POTENTIAL SOLUTIONS SUMMARY TABLE ................................................................................................. 37
+TABLE 7 MULTNOMAH COUNTY STANDARDS FOR TYPICAL RURAL SECTIONS ................................................................ 91
+TABLE 8 MULTNOMAH COUNTY BRIDGES ............................................................................................................. 92
+TABLE 9 PLANNED AND PROGRAMMED PROJECTS ................................................................................................ 106
+TABLE 10 PLANNED AND PROGRAMMED STUDY PROJECTS ..................................................................................... 112
+TABLE 11 MULTNOMAH COUNTY FUNDING FOR TRANSPORTATION YEARS 2005‐2014 .............................................. 116
+TABLE 12 MULTNOMAH COUNTY EXPENDITURES FOR TRANSPORTATION YEARS 2005‐2014 ....................................... 118
+
+  Introduction
+   vii
+VOLUME II
+Appendix A   Baseline Report Memo
+Appendix B  Existing and Future Conditions Memo
+Appendix C  Sauvie Island and Multnomah Channel Rural Area Transportation System Plan
+  Introduction
+   viii
+GLOSSARY OF TERMS
+The following terms are applicable only to the Multnomah County Transportation System Plan and are
+used in this document as defined below:
+Access Management: Refers to measures regulating access to streets, roads and highways from public
+roads and private driveways. Measures may include but are not limited to restrictions on the type and
+amount of access to roa
+dways, and use of physical controls such as signals and channelization including
+raised medians, to reduce impacts of approach road traffic on the main facility.
+Americans with Disabilities Act (ADA): A civil rights law that prohibits discrimination against individuals
+with  disabilities  in  all  areas  of  publ ic  life,  including  jobs,  schools,  transportation,  and  all  public  and
+private places that are open to the general public.
+Arterial (Street): County roads that comprise the regional transportation network and provide for travel
+between  communities  within  the  County  as  well  as  between  counties.  Arterials  are  typically  three  to
+five lanes in width and serve a high volume of through traffic. Minor, Majo r, Principal and Rural are sub‐
+categories of the Arterial Classification..
+Average  Annual  Daily  Traffic  (AADT):  A  measure  used  primarily  in  transportation  planning  and  traffic
+engineering  that  represents  the  total  volume  of  vehicular  traffic  on  a  highway  or  roadway  for  a  year
+divid
+ed by 365 days.
+Average  Daily  Traffic  (ADT):  This  is  the  measurement  of  the  average  number  of  vehicles  passing  a
+certain point each day on a highway, road or street.
+Bicycle  Facility:  Any  facility  provided  for  the  benefit  of  bicycle  travel,  including  bikeways  and  parking
+facilities.
+Bicycle  Ne
+twork:  A  system  of  connected  bikeways that  provide  access  to  and  from  local  and  regional
+destinations.
+Bike  Lane:  Area  within  street  right‐of‐way  designated  specifically  for  bicycle  use.  Typically  delineated
+from the vehicular travel lane by an 8 inch white stripe.
+Bikeway: Area within street right‐of‐way for bicyclists as well as other uses such as walking. Typic ally
+delineated from the vehicular travel lane by a 4 inch white stripe.
+Capital Improvement Plan (CIP): A community planning and fiscal management tool used to coordinate
+the location, timing and financing of capital improvements over a multi‐yea r  period.
+Capacity:  The  maximum  number  of  vehicles  or  individuals  that  can  traverse  a  given  segment  of  a
+transportation facility with prevailing roadway and traffic conditions.
+  Introduction
+   ix
+Collector  (Street):  County  roads  that  distribute  traffic  between  local  streets  and  the  Arterial  network.
+Collectors are typically two to three lanes in width, and serve more local trips and fewer through trips
+than Arterials. Neighborhood, Major, and Rural are sub‐categories of the Collector classification.
+Comprehensive  Plan  Advisory  Committee  (CAC):  An  advisory  committee  consisti ng  of  volunteer
+community  members  from  the  community  they  represent.  CAC  members  reviewed,  discussed,  and
+recommended  approval  of  all  of  the  policies  and  strategies  identified  in  the  Comprehensive  Plan,
+including  new  policies  and  those  retained  from  earlier  editions  of  the  Comprehensive  Plan  and  Rural
+Area Plans. Members of the CAC also served on fo ur subcommittees, transportation and public facilities
+being one, where they engaged in more in‐depth discussion of policy issues and recommendations.
+Context Sensitive Design: Roadway standards and development practices that are flexible and sensitive
+to  community  values.  Context  sensitive  design  allows  roadway  design  decisions  to  bett er   balance
+economic, social and environmental objectives.
+Department of Environmental Quality (DEQ): A regulatory agency whose job is to protect the quality of
+Oregon's environment.
+Department  of  Land  Conservation  and  Development  (DLCD):  A  public  agency  that  helps  communities
+and citizens plan for, protect and improve the built and natural systems that provide a high quality of
+life.
+Drivew
+ay (DWY): A private means of access, connecting one or more properties to the local public road
+system.  A  private  driveway  may  be  a  private  access  easement  that  connects  properties  to  the  local
+public road system.
+Eastbound (EB): Traveling toward the east.
+Fiscal Year (FY): A year as reckoned for taxing or accounting purposes.
+Geogra
+phic  Information  Systems  (GIS):  A  system  designed  to  capture,  store,  manipulate,  analyze,
+manage, and present all types of spatial or geographical data.
+Grade:  A  measure  of  the  steepness  of  a  roadway,  bikeway  or  walkway,  usually  expressed  in  a
+perc
+entage form of the ratio between vertical rise to horizontal distance, (e.g. a 5% grade means that
+the facility rises 5 feet in height over a 100 feet in length.)
+Impervious  Surfaces:  Hard  surfaces  that  do  not  allow  water  to  soak  into  the  ground,  increasing  the
+amount of stormwater ru nning  into the drainage system.
+Level of Service (LOS): A qualitative measure describing the perception of operation conditions within a
+traffic steam by motorists and or passengers. An LOS rating of "A” to “F” describes the traffic flow on
+streets  and  at  intersections,  ranging  from  LOS  A,  representing  virtually  free  flow  co nditions   and  no
+impedance to LOS F representing forced flow conditions and congestion.
+  Introduction
+   x
+Local  (Street):  A  public  road  under  Multnomah  County  jurisdiction  that  is  outside  a  city  and  is  not  a
+county  road,  state  highway  or  federal  road.  The  County  is  not  responsible  to  maintain,  repair  or
+improve a local access road unless the Board finds an emergency or public need as required under ORS
+368.031
+.
+Manual  on  Uniform  Traffic  Control  Devices  (MUTCD):  A  document  issued  by  the  Federal  Highway
+Administration  (FHWA)  of  the  United  States  Department  of  Transportation  (USDOT)  to  specify  the
+standards by which traffic signs, road surface markings, and signals are designed, installed, and used.
+Metropolitan  Planning  Organization  (MPO):  An  organization  in  each  federally  recog nized  urbanized
+area (population over 50,000), as designated by the Governor, which has the responsibility for planning,
+programming and coordinating the distribution of federal transportation resources.
+Multi‐Modal: Involving several modes of transportation including bus, rail, bicycle, motor vehicle, etc.
+Multi‐Use  Path:  Off‐street  route  (typically  rec reationally  focused)  that  can  be  used  by  several
+transportation  modes,  including  bicycles,  pedestrians  and  other  non‐motorized  modes  (i.e.
+skateboards, roller blades, horses, etc.)
+Neighborhood  Route  (Street):  A  street  that  provide  access  primarily  to  residential  land  uses  and  link
+neighborhoods to higher order roads.  They generally have higher traffic vol umes  than local streets.
+Northbound (NB): Traveling toward the north.
+Oregon Administrative Rules (OAR): The official compilation of rules and regulations having the force of
+law  in  the  U.S.  state  of  Oregon.  It  is  the  regulatory  and  administrative  corollary  to  Oregon  Revised
+Statutes, and is published pursuant to ORS 183 .360  (3).
+Oregon  Department  of  Transportation  (ODOT):  A  public  agency  that  helps  provide  a  safe,  efficient
+transportation  system  that  supports  economic  opportunity  and  livable  communities  throughout
+Oregon.
+Oregon Revised Statutes (ORS): The codified body of statutory law governing the U.S. state of Oregon,
+as enacted by the Oregon Legislative Assembly, an d occasionally by citizen initiative. The statutes are
+subordinate to the Oregon Constitution.
+Peak Period or Peak Hour: The period of the day with the highest number of travelers. This is normally
+between 7:00 to 9:00 AM or 4:00 to 6:00 PM on weekdays.
+Pedestrian  Facility:  A  facility  provided  for  the  benefit  of  ped estrian  travel,  including  walkways,
+crosswalks, signs, signals and benches.
+Right‐Of‐Way  (ROW  or  R/W):  Property  that  the  public  has  a  right  to  use  for  transportation  and
+transportation related purposes.
+  Introduction
+   xi
+Safety Priority Index System (SPIS): An indexing system used by Oregon Department of Transportation
+to prioritize safety improvements based on crash frequency and severity on state facilities.
+Safe Routes to School (SRTS): Federal, state, and local programs that create safe, convenient, and fun
+opportunities for children to bicycle and walk to and from schools.
+Shared Roadway: Roadw
+ays where bicyclists and autos share the same travel lane. May include a wider
+travel lane and/or bicycle boulevard treatment (priority to through bikes on local streets).
+Southbound (SB): Traveling toward the south.
+Statewide  Transportation  Improvement  Plan  (STIP):  The  capital  improvement  program  that  identi fies
+funding and schedule of statewide projects.
+Technical Advisory Committee (TAC): An advisory committee consisting of state, county, and city staff
+that  review  and  provide  feedback  on  technical  memorandums  for  the  Comprehensive  Plan  and
+Transportation System Plan Update.
+Technical Memorandum (TM): A document that is specifically targeted to technically‐trained perso ns,
+such  as  practicing  engineers,  engineering  managers,  or  planners,  who  are  interested  in  the  technical
+details of the project or task.
+Traffic  Control  Devices:  Signs,  signals  or  other  fixtures  placed  on  or  adjacent  to  a  travelway  that
+regulates, warns or guides traffic. Can be either permanent or temporary.
+Transportation Analysis Zo ne  (TAZ): A geographic sub‐area used to assess travel demands using a travel
+demand forecasting model. Often defined by the transportation network and US Census blocks.
+Transportation Demand Management (TDM): A policy tool as  well as any action that seeks to reduce
+single‐occupant vehicle trips, especially during pe ak  travel demand periods. Refers to actions which are
+designed to change travel behavior in order to improve performance of transportation facilities and to
+reduce  need  for  additional  road  capacity.  Methods  may  include  subsidizing  transit  for  the  journey  to
+work trip, charging for parking, starting a van or car pool system, or instituting flexibl e work hours.
+Transportation  and  Growth  Management  (TGM):  A  program  of  the  Oregon  Department  of
+Transportation  (ODOT)  that  supports  community  efforts  to  expand  transportation  choices.  By  linking
+land  use  and  transportation  planning,  TGM  works  in  partnership  with  local  governments  to  create
+vibrant, livable places in which people can walk, bike , take transit or drive where they want to go.
+Transportation  Planning  Rule  (TPR):  A  series  of  Oregon  Administrative  Rules  intended  to  coordinate
+land use and transportation planning efforts to ensure that the planned transportation system supports
+a  pattern  of  travel  and  land  use  in  urban  areas  that  will  avoi d   the  air  pollution,  traffic  and  livability
+problems  faced  by  other  large  urban  areas  of  the  country  through  measures  designed  to  increase
+transportation choices and make more efficient use of the existing transportation system.
+  Introduction
+   xii
+Transportation System Plan (TSP): Is a comprehensive plan that is developed to provide a coordinated,
+seamless  integration  of  continuity  between  modes  at  the  local  level  as  well  as  integration  with  the
+regional transportation system.
+Two‐Way Stop Control (TWSC): An intersection, where one or more approaches is stop controlled and
+must yield the right‐of‐way to one or more approa
+ches that are not stop controlled.
+Urban  Growth  Boundary  (UGB):  A  regional  boundary,  set  in  an  attempt  to  control  urban  sprawl  by
+mandating  that  the  area  inside  the  boundary  be  used  for  higher  density  urban  development  and  the
+area outside be us ed  for lower density development.
+Vehicle  Miles  Traveled  (VMT):  The  cumulative  distance  a  vehicle  travels,  regardless  of  number  of
+occupants.
+Volume to Capacity Ratio (V/C): A measure that reflects mobility and quality of travel of a roadways or a
+section of a roadways. It compares roadway demand (vehicle volumes) wit h roadway supply (carrying
+capacity).
+Westbound (WB): Traveling toward the west.
+
+  Introduction
+   xiii
+PREFACE
+The  development  of  this  plan  was  guided  by  the  Project  Management  Team  (PMT)  and  the
+Comprehensive  Plan  Community  Advisory  Committee  (CAC)  and  their  Transportation  Subcommittee.
+The  PMT  and  CAC  Transportation  Subcommittee  rosters  are  below,  along  with  members  of  the
+consultant  team.  The  CAC  Transportation  Subcommittee  members  devoted  a  substantial  amount  of
+time and effort and their participation was instrumental in the develo
+pment of the Multnomah County
+Transportation  System  Plan  (TSP).  Multnomah  County’s  future  transportation  system  has  been
+enhanced because of their commitment.
+Project Team
+Joanna Valencia
+Multnomah County
+Susan Wright, P.E.
+Kittelson & Associates, Inc.
+Rich Faith
+Multnomah County
+Julia Kuhn, P.E.
+Kittelson & Associates, Inc.
+Jessica Berry
+Multnomah County
+Molly McCormick
+Kittelson & Associates, Inc.
+Katherine McQuillan
+Multnomah County
+Matt Hastie
+Angelo Planning Group
+Rithy Khut
+Multnomah County
+Jon Sommerville
+Kittelson & Associates, Inc.
+Kevin Cook
+Multnomah County
+
+Comprehensive  Plan  Community  Advisory  Committee  Transportation
+Subcom
+mittee
+Aaron Blake
+East of Sandy River
+Martha Berndt
+Sauvie Island
+Andrew Holtz
+Portland Resident
+Paula Sauvageau
+West Hills
+Catherine Dishion
+East of Sandy River
+Rayford Davenport
+East of Sandy River
+George Sowder
+West Hills
+Sara Grigsby
+East of Sandy River
+Jerry Grossnickle
+West Hills
+Stephanie Nystrom
+East of Sandy River
+Karen Nashiwa
+Portland Resident
+Tim Larson
+Sauvie Island/Multnomah
+Channel
+Kathy Taggart
+West of Sand y River
+Will Rasmussen
+West Hills
+Linden Burk
+East of Sandy River
+Chris Foster
+Planning Commission
+Member
+Marcy Cottrell Houle
+Sauvie Island/Multnomah Channel & West
+Hills
+John Ingle
+Planning Commission
+Member
+
+Section 1
+Introduction
+
+  Introduction
+INTRODUCTION
+Transportation  is  the  movement  of  people  and  goods  from  one  place  to  another.  Our  transportation
+systems affect nearly every aspect of life. We import the basic necessities of life – food, clothing, and
+building materials – to our homes. A constant flow of freight supplies our lives. We travel to work and
+school, and move about to socialize and play. Streets create the fram
+ework around which our cities and
+counties  are  built.  Personal  choices  about  how  we  travel  affect  our  daily  lives  and  our  physical  and
+mental well‐being. Transportation is the backbone that supports a community as it grows and evolves.
+The  Multnomah  County  Transportation  System  Plan  (TSP)  forms  the  transportation  element  of  the
+Multnomah  County  Comprehensive  Plan.  Prior  to  this  update  to  TSP,  the  Comprehensive  Plan  was
+supported  by  separate  Transportation  System  Plans  (TSPs) for  the  Rural  Westside and  West of Sandy
+River  areas  (covering  the  West  Hills,  Sauvie  Island,  and  West  of  Sandy  River  Area  Plans)  and,  the
+transportation components of the Ea
+st of Sandy River Area Plan and the Columbia River Gorge Scenic
+Area Management Plans. The updated Multnomah County TSP incorporates relevant elements from all
+of these plans into this one document.
+The TSP is the master plan for how the County’s ru ral transportation system will evolve and develop for
+the next 20 years. The plan’s primary focus is on enhancing the safety of the transportation system and
+balancing  the  needs  of  agricultural,  visitor,  residential,  bicycle,  pedestrian,  and  freight  travel  to  and
+from the rural areas. The TSP supports economically vital and he althy communities.
+This  TSP  provides  Multnomah  County  with  guidance  for  operating  and  improving  the  multimodal
+transportation system. The TSP includes transportation policies and priorities for projects and programs
+to  implement  over  the  next  20  years.  It  also  provides  a  vision  for  longer  term  projects  that  could  be
+implemented, should add itional funding become available. The TSP is intended to be flexible to respond
+to  changing  community  needs  and  revenue  sources  over  the  next  20  years  and  will  be  updated
+approximately  every  5  to  10  years.  The  TSP  builds  consensus  among  the  County,  state,  and  other
+agencies on area transportation need s  and priority projects and informs local citizens on the projects
+that will be carried forward for funding from local, state, and federal sources.
+TRANSPORTATION SYSTEM PLAN GOAL
+Review  of  the  County’s  previous  TSPs  and  Area  Plans  and  input  from  the  Project  Management  Team
+(PMT) and Comprehensive Plan Community Advisory Committee (CAC) provided the base for which the
+goal for this plan was developed. The goal provides a clear vision of what Multnomah County aims to
+achieve.
+GOAL:   To pr ovide  a safe and efficient transportation network for all modes of
+travel  that  serves  the  rural  areas  of  the  County  and  achieves  the  following
+objectives:
+  Introduction
+1. Implement a transportation system that is safe and efficient in meeting the
+needs of area residents.
+2. Implement a balanced transportation system that supports all modes of
+travel.
+3. Develop a transportation system that supports the rural character of
+unincorporated Multnomah County.
+4. Develop a transportation system the supports a healthy econo my.
+5. Provide transportation improvements in a timely manner according to
+funding capability.
+6. Reduce vehicle traffic on rural County roadways caused by those traveling
+through the area.
+The CAC also provided direction on policies to guide Multnomah County and assist with achieving the
+goals outlined above. These are included in Section 4.
+KEY TRANSPORTATION ISSUES
+The plan focuses on addressing both current as well as year 2035 needs of the transportation system.
+The central needs identified as part of this process are:
+ Reduce Modal Conflicts– Most of Multnomah County’s rural areas are served by two‐lane
+narrow rural roadways. A variety of users with diverse nee ds  and varying speeds (e.g., farm
+equipment,  an  active  cycling  community,  pedestrians,  and  motorists)  use  the  roadway,
+which can result in conflicts between modes.
+ Enhance  Safety  for  All  System  Users  –  Recent  crash  history  reflects  a  tendency  toward
+single vehicle crashes with fixed objects after leaving the roadway.
+ Manage Travel Dem and– Peak traffic conditions, resulting from commuter traffic, seasonal
+events  (such  as  access  to  public  beaches,  recreational  areas  and  pumpkin  patches)  and
+limited  duration  events  (such  as  concerts  and  farm‐to‐table  dinners),  result  in  traffic
+congestion  and  long  vehicle  queues.  In  addition  to  causing  delays,  highly  congested
+roadways can have a potential impact on emerge
+ncy response times.
+ Address Increasing Traffic and Safety Issues While Maintaining Rural Character – Although
+there  are  an  increasing  number  of  vehicles  on  the  roads,  residents  are  concerned
+transportation  improvements  and  roadway  widening  will  affect  the  rural  character  of  the
+area. The County will have to a ddress the issues caused by this increase through planning of
+safety and other improvements that do not change the character of the area. Improvements
+and solutions should include context sensitive design.
+ Reduce Traffic Pressure on County Roads– County rural roads are increasingly used as an
+alternative  rou te  to  State  highways,  creating  heavy  traffic  flows  and  congestion  during
+commute  hours  and  increasing  safety  concerns.  Examples  include  the  use  of  West  Hills
+Roads  to  connect  US‐30  and  US‐26.  Solutions   for  these  roads  are  needed  that  increase
+  Introduction
+safety  and  traffic  flow  without  encouraging  more  traffic,  building  more  roadways,  or
+widening roadways and impacting wildlife and their habitat.
+ Bicycle  Infrastructure  –  Traveling  and  commuting  by  bicycle  has  become  increasingly
+popular in Multnomah County, but most bicycle network improvements have been focused
+in the urban areas. As the number of bicyclists continues to grow, investm ent also needs to
+be made in the rural areas of the County. Some types of bicycle infrastructure can also serve
+pedestrians in rural areas, such as providing for shoulders.
+ Better  Road  Maintenance  –  The  County’s  rural  roads  are  experiencing  increased  traveler
+use,  creating  a  need  fo r   better  road  maintenance.  State  and  local  gas  tax  have  been  the
+primary funding in the past but are not keeping pace to needs.
+ Health and Equity – Recent research has shown that transportation has a significant impact
+on health and the well‐being of members of the community.  Transportation can also ca use
+or  support  health  inequities  between  different  sub‐groups  within  the  community.  The
+benefits  and  burdens  of  the  transportation  system  should  be  equitably  distributed
+throughout the County.
+ Water Transport – Due to the Willamette River and the freight transportation it supports,
+water transport is important to the County’s econo my and transportation system.
+ Wildlife Crossings – Transportation improvements often negatively impact wildlife and their
+habitats, especially roadway widening. Further partnerships and research can be examined
+to create design treatments that minimize these negative impacts.
+TSP UPDATE PROCESS
+The TSP Update process included a series of technical memoranda, meetings with the Comprehensive
+Plan  Community  Advisory  Committee  (CAC)  and  Transportation  Subcommittee  to  review  policies,
+projects,  and  priorities,  two  public  workshops,  meetings  with  the  Bicycle  and  Pedestrian  Advisory
+Committee,  and  meetings  with  other  stakeholders  and  interested  parties.  The  technical  memoranda
+included a re view  of existing plans and policies, memos on existing and proposed policies, a review of
+the  existing  transportation  network,  and  draft  plan  elements  including  maps,  projects,  and  priorities.
+Regular meetings with the PMT allowed for effective coordination throughout the project. All technical
+memoranda can be found in the Technical Appendices.
+PLAN ORGANIZATION
+Sections  2  through  5  comprise  Volume  1  of  the  TSP  and  provide  the  main  substance  of  the  plan.
+Technical Appendices in Volume 2, which contains the technical memoranda, supplement Volume 1.
+Section 2 describes the transportation system existing and future conditions and needs.
+Section 3 presents an overview of potential solutions and treat ments  included in the TSP.
+  Introduction
+Sections 4 and 5 will form the Transportation Element of the Comprehensive Plan and include goals and
+policies (Section 4) and transportation projects, studies, and programs to implement over the next 20
+years (Section 5).
+
+Section 2
+Existing and Future
+Conditions
+
+  Existing And Future Conditions
+
+EXISTING AND FUTURE CONDITIONS
+The following section describes the existing plans, policies, and transportation system needs within five
+rural  areas  of  Multnomah  County.  Additionally,  this  section  describes  the  existing  population,
+demographics,  and  land uses  within the  rural areas.  This  section  also describes  future projections  for
+population and employment in unincorporated Multnomah County, projected traffic volumes on OD OT
+facilities, and an overview of currently planned projects to address existing and future needs.
+STUDY AREA
+The Transportation System Plan (TSP) focuses on the five rural areas of the county, including West Hills,
+Sauvie Island, West of Sandy River, East of Sandy River, and Columbia River Gorge National Scenic Area.
+These areas are illustrated in Figures 1A and 1B.
+PLANS AND POLICIES
+Plans  and  documents  that  include  policies  and  projects  relevant  to  the  Transportation  System  Plan
+include:
+ Multnomah County Comprehensive Framework Plan [Policies 33 – 36]
+ Rural Area Plans
+o Columbia River Gorge NSA Rural Area Plan Policy Document (2005)
+ Columbia River Gorge National Scenic Area Management Plan (2011)
+o East of Sandy River Rural Area Plan (1 997) [Transportation Section]
+o West of Sandy River Rural Area Plan (2005) [Transportation Section]
+o West Hills Rural Area Plan (1996) [Transportation Section]
+o Sauvie Island/Multnomah Channel Rural Area Plan (2015)
+ Transportation Plans
+o Westside Rural Area Transportation System Plan (1998)
+o Sauvie Island/Multnomah Channel Transportation System Plan (2015)
+o Functional  Classification  of  Tra
+fficways  Findings  and  Recommendations  Technical
+Report (2003)
+o Pedestrian Master Plan (1996)
+o Bicycle Master Plan (1990)
+ Transportation Capital Improvement Plan and Program Fiscal Years 2014‐2018 (2014)
+The Baseline Report Memo dated November 2014 in Volume II, Appendix A, contains the descript ion of
+these documents and policies.
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRd
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+West Hills
+Rural
+Sauvie Island
+and Multnomah
+Channel Rural
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Plan Areas
+Sauvie Island and Multnomah
+Channel Rural
+West Hills Rural
+County Boundaries
+Figure 1A
+Study Area
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\01 Study Area.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+OxbowDrive
+Hurlburt Road
+302nd Avenue
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+West of
+the Sandy
+River Rural
+Springwater
+East of
+the Sandy
+Rural Area
+Interlachen
+Urban
+Columbia RIver
+Gorge National
+Scenic Rural
+Troutdale
+UPA
+Government
+Island
+Pleasant
+Valley
+Urban
+Bonneville
+Dam
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Plan Areas
+Bonneville Dam
+Columbia River Gorge National
+Scenic Rural Area
+East of Sandy Rural Area
+Government Island
+Interlachen Urban
+Pleasant Valley Urban
+Springwater
+Troutdale UPA
+West of the Sandy River Rural
+County Boundaries
+Figure 1B
+Study Area
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\01 Study Area.mxd
+  Existing And Future Conditions
+
+KEY TRANSPORTATION ISSUES
+This TSP addresses current and future transportation needs, particularly related to the increasing traffic
+on  rural  roads,  increasing  modal  conflicts,  and  the  need  for  increased  safety,  bicycle  and  pedestrian
+infrastructure,  and  better  road  maintenance.  The  TSP  also  considers  transportation  needs  related  to
+community health,  equity,  and  the potential  for wildlife  impacts.  A  key  co mponent  of the  plan  is  the
+identification  of  a  range  of  potential  programs,  policies,  and  projects  that  the  County  can  implement
+over the next 20 years.
+The following sources provided insights on existing transportation needs:
+ public outreach related to the Sauvie Island & Multnomah Channel Rural Area Plan Update in
+2013;
+ revi
+ew of relevant plans and policies;
+ a review of the existing transportation system inventory, traffic data and crash data;
+ needs identified through Sauvie Island and Multnomah Channel stakeholder interviews
+conducted from November 2014 through February 2015 by the project team;
+ feedback from the public on transport ation issues and project maps at TSP public meetings
+including 14 CAC meetings and four transportation subcommittee meetings;  and,
+ implementation needs for transportation related policies in the Sauvie Island & Multnomah
+Channel Rural Area Plan and the on‐going countywide Comprehensive Plan Update.
+
+Based on information from the above efforts, the transportation needs generally fall into the following
+categories:
+ Reduc
+e Modal Conflicts
+ Enhance Safety
+ Manage Travel Demand
+ Address Increasing Traffic and Safety Issues While Maintaining Rural Character
+ Reduce Traffic Pressure on Westside Roads
+ Bicycle Infrastructure
+ Better Road Maintenance
+ Health and Equity
+ Water Trans
+port
+ Wildlife Crossings
+The following sections outline the relevant needs to consider for each of these categories.
+Reduce Modal Conflicts
+The majority of Multnomah County rural areas are served by two‐lane narrow rural roadways. A variety
+of  users  with  diverse  needs  and  varying  speeds  (e.g.,  an  active  cycling  community,  pedestrians  and
+  Existing And Future Conditions
+
+motorists, farm equipment) share the roadway, which can result in conflicts between modes. Some of
+the issues related to these potential conflicts are discussed below.
+In  the  West  Hills  and  Sauvie  Island,  there  are  no  dedicated  pedestrian  or  bicycle  facilities  along
+roadways  today,  and  roadway  shoulders  are  narrow  or  non‐existent  in  most  places.  Ther e  are  short
+segments of dedicated bicycle facilities in East County, including parts of Highway 26, Telford Road, and
+Stark Street. The 1998 Transportation System Plan, focused on the west side of Multnomah County and
+identified  the  need  for  four  foot  shoulders  along  major  segments  of  Skyline  Boulevar d,   Germantown
+Road, Springville Road, Laidlaw Road, Thompson Road, Sauvie Island Road, Reeder Road, and Gillihan
+Road, but the County has not yet implemented these projects. Constraints on most of these roadways
+include  limited  right‐of‐way  to  provide  wider  shoulders  or  a  parallel  multi‐use  path  and  potential
+improvement  costs  and  construction  constraints  near  the  lev ees  on  Sauvie  Island  create  significant
+barriers to implementation. A complete list of the study area projects included in the County’s 2014‐
+2018  Capital  Improvement  Program  (CIP)  is  provided  in  the  Existing  and  Future  Conditions  Memo  in
+Appendix 2.
+In  addition  to  safer  facilities,  stakeholders  id entified   the  need  to  provide  wayfinding  and  information
+related to restrooms, water, and parking locations as well as education and outreach for all road users
+on sharing and obeying the rules of the road. Within Multnomah County, East County and Sauvie Island
+are popular destinations for recreational cyclists, particularly on weekends
+Th
+ere  are  constraints  throughout  the  County  to  constructing  wider  shoulders  for  bicycles  including
+right‐of‐way, drainage, grades, and wildlife crossings. A unique situation on Sauvie Island is that many
+areas  along  Sauvie  Island  Road  and  Reeder  Road  are  within  the  Sauvie  Island  Drainage  Improvement
+Company  (SIDIC)  levee  right‐of‐way  and  set  ba ck  area.  Construction  along  these  sections  of  the
+roadways require  special  permitting from the  Army  Corps  of  Engineers and  can  only be  considered  if
+they will enhance the structural integrity of the levee. The County or Corps of Engineers would need to
+determine if construction of a multi‐use pat h parallel to the loop roadways, on the island side of the
+levee could enhance the structural integrity of the levee and be approved by the Corps.
+Enhance Safety
+Both the County’s policies and stakeholder feedback identify the importance of improving safety for all
+transportation system users in Multnomah County.
+Crash  data  was  obtained  from  ODOT  and  reviewed  to  establish  a  baseline  for  identifying  potential
+safety‐related improvements. This review revealed the following areas with a pattern of crashes:
+ I‐84
+ US 30
+ Cornelius Pass Road
+  Existing And Future Conditions
+
+ Skyline Boulevard
+ Germantown Road
+ Corbett Hill Road
+ Reeder Road/Sauvie Island Road intersection
+Manage Travel Demand
+The  majority  of  the  year the  transportation  network  primarily  serves  residents,  agricultural  uses,  and
+daily  business operations  in  Multnomah  County  rural  areas.  Average daily traffic  volumes  on  most  of
+the  roadways  throughout  the  county  are  typically  less  than  3,000  vehicles  per  day.  The  West  Hills
+experience high levels of commuting traffic duri ng  peak hours. Local and collector roadways are used to
+cross through the West Hills in addition to Cornelius Pass Road, an arterial.
+Additionally, the popularity of the trails and recreational areas in East County and beaches, hunting and
+fishing areas, recreational cycling opportunities, seasonal festivals, and agri‐tourism activities on Sauvie
+Island, lead to significant fluctuations in daily tra
+ffic volumes during the summer and fall peak seasons.
+During these times for example, Sauvie Island Road can serve as many as 17,000 vehicles per day and
+1,800  cyclists  per  month.  These  higher  demand  periods  result  in  traffic  congestion  and  long  vehicle
+queues  at  access  poi
+nts  to  key  visitor  destinations.  In  addition  to  causing  delays,  highly  congested
+roadways concern residents because of the potential impact on emergency response times.
+This  TSP  includes  solutions  for  managing  traffic  in  Multnomah  County  during  peak  hour,  events,  and
+seasons  to  ensure  safe  multimodal  travel  while  supporting  a  vibr ant   economical,  agricultural,  and
+recreational  economy  over  the  next  20  years.  This  TSP  also  recognizes  that  efforts  to  reduce  travel
+demand  will  have  to  happen  in  coordination  with  other  cities  and  counties  because  the  traffic
+generators are not always located within rural Multnomah County.
+Address Increasing Traffic and Safety Issues While Maintaining Rural Character
+Although  rural  County  residents  recognize  the  need  for  improving  the  local  road  system,  they  also
+cherish the rural character of the areas they live in and prefer not to have more roads built or existing
+roads widened to a significant degree in order to accommodate increased traffic and to provide greater
+travel safety. Many of the comments from the pub
+lic recognize the traffic problems caused by growing
+population  and  commute  patterns,  but  seek  solutions  that  will  not  result  in  more  road  construction.
+Although traffic continues to grow, rural County roads are not meant to handle regional through traffic.
+Residents value the trees, wildlife, and the pastoral countrysid e characteristic of Multnomah County’s
+rural areas and do not want to see the landscape and habitat diminished by construction of new and
+expanded roads, particularly in areas of steep slopes where large retaining walls would be necessary.
+Rural residents will see even greater demands placed on the local road system as nea rby urban lands
+are  developed.  Possible  solutions  for  addressing  increasing  traffic  and  safety  concerns  might  include
+  Existing And Future Conditions
+
+traffic signal timing plan updates, dedicated bike facilities, sidewalks or wider shoulders in appropriate
+places, and travel demand management.
+Context Sensitive Design
+Context  sensitive  design  is  an  important  strategy  to  maintain  the  rural  character  of  roadways  in
+unincorporated  Multnomah  County.  It  allows  for  minimal  changes  to  the  system,  right‐of‐way,  and
+character of the roadways while improving service to roadway users. As seen below through the range
+of  solutions  in  Section  3  and  in  the  plann ed  projects  listed  in  Section  5,  there  are  context  sensitive
+options  for  addressing  transportation  issues,  especially  in  terms  of  providing  bicycle  and  pedestrian
+facilities. These options include intermittent shoulders, bicycle pull outs, climbing lanes, and others that
+would create less impact than full shoulder improvements or bicycle lanes.
+Reduce Traffic Pressure on County Roads
+Many  of  the  comments  from  the  public  identify  the  need  to  reduce  traffic  pressure  on  roads  in
+unincorporated Multnomah County. These issues are related to increased volumes of both vehicles and
+bicyclists on fairly, narrow two lane roadways. Many of these roadways have little to no shoulders and
+do not have any facilities for ped estrians and runners. The West Hills roads serve both recreational and
+regional  commute  needs,  which  create  inherent  conflicts. Additionally,  in  East  County,  some  conflicts
+arise  from  traffic  resulting  from  visitors  and  truck  traffic  travelling  through  the  area.  The  County  has
+begun  to  address  some  of  these  issues  through  planning  fo r  safety  improvements  to  Cornelius  Pass
+Road and other improvements identified in Rural Area Plan transportation system plans.
+Bicycle Infrastructure
+Bicycle  use  has  become  increasingly  popular  in  the  Portland  Metropolitan  Region  as  a  desirable
+commuter alternative as well as for recreational activity. Within Multnomah County’s heavily populated
+urban areas, significant investment is being made to improve the transportation system for the safety
+of  bicycles  now  sharing  the  roads  with  vehicles.  For  the  more  scarc ely  populated  rural  areas,  less
+investment has been made in improving the road system to accommodate bicycles and to reduce road
+sharing conflicts with vehicles. Promotion of bike touring as an economic engine will likely draw an even
+greater number of bicyclists in the future to our rural roadways and bik e paths. Community members
+also indicated some desire for bicycle facilities that can also serve pedestrians, such as shoulders along
+the roadway.
+Better Road Maintenance
+With  increased  use  of  the  County’s rural  roads  comes  the  need  for  more  road  maintenance.  Rural
+residents have cited the need for more frequent road maintenance as a major concern. For the County,
+the key to sustaining an effective, ongoing maintenance program is a stable funding source. Typically,
+  Existing And Future Conditions
+
+state and local gas tax money is used for local road maintenance. However, the state gas tax revenues
+have been diminishing revenues associated with improved fuel efficiency and have not been adjusted
+accordingly to keep pace with the growing maintenance need. Deferred roadway maintenance activities
+in turn increase the overall cost of road maintenance. Th e County has a local gas tax which similarly has
+not been adjusted to reflect cost increases.
+Health and Equity
+An increasingly large body of research now shows that transportation decisions directly and indirectly
+impact human health by influencing a wide range of “health determinants”. Health determinants—also
+referred  to  as  “social  determinants  of  health”  or  “risk  factors”—are   features  of  the  built,  social,  and
+natural  environment  that  are  known  to  impact  an  indi vidual’s   risk  of  experiencing  negative  health
+outcomes such as injury or illness. According to the American Public Health Association, “fifty percent
+of the leading causes of death and illness in the United States—traffic  injuries, heart disease, cancer,
+diabetes,  and  respiratory  illness—are   preventable”  because  “these  diseases  have  several  risk  factors
+that can be mitigated by transportation policies.”1 The Baseline Report in Appendix A that was prepared
+for  the  Comprehensive  Plan  update  contains  existing  conditions  information  about  planning  related
+health determinants and outcomes in different parts of Multnomah County.
+The  majority  of  this  research  has  also  highlighted  that  the  benefits  and  burdens  of  transportation
+decisions  have  fallen  unequally  on  diff erent   sub‐groups  within  communities.  As  a  result,  many
+transportation decisions to date have inadvertently supported or exacerbated health inequities.
+As a result of the increasing awareness of the connections between transportation systems, health, and
+equity, transportation plans must provide an opportunity to address historical inequities and improve
+the health an d  well‐being of all its community members. An increasing number of state, regional, and
+local  transportation  plans  are  acknowledging  these  connections  by  including  goals  and  metrics  that
+mention  both  health  and  equity.  Locally,  this  trend  is  evident  in  the  inclusion  of  health  and  equity
+policies and goals in Metro’s Regional Transportation Plan and in Clackamas County’s recently upd ated
+TSP. In Multnomah County, the cities of Portland and Gresham are working on including similar policies
+and  goals  into  their  Comprehensive  Plan  and  TSP  updates.  Multnomah  County  itself  has  addressed
+equity and health, by including criteria in the County’s Capital Improvement Plan and Program.
+Water Transport
+Water transport is a significant freight resource in Multnomah County due to the Willamette River and
+the ports along its length. This additional option for transporting freight reduces the number of trucks
+
+1 American Public Health Association. (2009). At the Intersection Of Public Health And Transportation. Washington, DC:
+American Public Health Association.
+  Existing And Future Conditions
+
+and  trains  needed  on  land  to  support  the  county’s  economy  and  has  a  significant  impact  on  the
+transportation  system.  Future  projects  and  policies  looking  forward  must  work  together  with  water
+transport to not interfere with this important mode of freight transportation.
+Wildlife Crossings
+There  are  concerns  from  the  County  and  its  residents  about  the  impacts  to  wildlife  due  to
+transportation  improvements,  specifically  due  to  widening  of  roadways.  Road  and  shoulder  widening
+projects can disturb wildlife habitat, widen wildlife crossing distances, and increase vehicle volumes and
+speeds on the roadway further increasing the challenge of crossing roadways for wil dlife. The County,
+as part of this process, has started collaborating with Metro and other agencies to identify key wildlife
+corridors  and  select  studies  and  data  that  can  lead  to  developing  design  standards  in  the  future  that
+minimize impacts of transportation improvements on wildlife.
+Metro has a literature review on wildlife corri dors and permeability, specifically addressing trail effects
+and road effects, including noise and artificial light. These issues are described in more detail in Metro’s
+Wildlife Crossings Guidebook. The Portland‐Vancouver Regional Conservation Strategy can help identify
+fish, wildlife, and habitat locations and provide information about natural resources. Additionally, lo cal
+and  state  development  regulations  can  be  examined  including  Clean  Water  Services, City  of  Portland
+Bureau  of  Environmental  Services,  Clackamas  County  Water  Environment  Services,  Division  of  State
+Lands, and city tree regulations.
+POPULATION AND DEMOGRAPHICS
+Information  about  the  rural  area  population  and  demographics  was  gathered  to  support  the  existing
+and  future  conditions  analysis,  particularly  in  working  with  the  public  to  develop  and  evaluate
+transportation scenarios that capture the County’s vision.
+For further information on land use and population, please see the “Population Demographics, Zoning,
+and Development” sectio n  of the Baseline Report memo, Appendix B, prepared for the Comprehensive
+Plan Update by Angelo Planning Group dated December, 2014.
+Population and Growth
+As  shown  in  Table  1  reports  the  population  of  Multnomah  County  and  its  sub‐areas.  Multnomah
+County’s population in 2010 was just over 735,000 whereas the 2000 Census figure was 660,446. The
+county grew by 11.3%, or about 1.08% per year, from 2000 to 2010. This growth follows a similar trend
+to  that  exp
+erienced  by  the  overall  State  of  Oregon,  which  grew by  11.97%,  or  about 1.14% per  year,
+during the same period. Appendix B provides more details on population and growth.
+  Existing And Future Conditions
+
+Table 1 Year 2010 Area Populations
+Area  2010 Census
+Multnomah County  735,334
+  East of Sandy River  3,926
+  West of Sandy River  10,184
+  West Hills  10,052
+  Sauvie Island  888
+Source: 2010 Census Block Group Data
+Family and Household Data
+Figures 2A and 2B show the existing household density represented by households per acre. Additional
+information can be found in Appendix B.
+Future Employment and Household Projections
+Metro  provided  information  about  anticipated  employee  and  household  growth  in  Multnomah
+County’s unincorporated areas. This information is summarized in Table 2. Employment is projected to
+grow at approximately 3.5 percent per year from 2010 to 2040. Households are projected to grow at
+about 3.2 percent per year from 2010 to 2040. However, these projections include both the ur ban and
+rural areas of unincorporated Multnomah County.
+Table 2 Employee and Household Projections for Unincorporated Areas in Multnomah County
+Year  2010  2025  2035  2040  2010‐2040 Growth  Annual % Growth
+Employees  3,961  5,866  7,170 8,100 4,139  3.48%
+Households  4,911  6,555  7,092 9,579 4,668  3.16%
+
+Minimal increases in jobs and housing are projected for the majority of the East County rural areas with
+the exception of moderate projected growth in households and employment in the western portions of
+the West of Sandy River area. In West County, Sauvie Island is projected to have moderate growth in
+employm
+ent  and  the  northern  portion  of  the  West  Hills  Rural  Area  is  projected  to  have  moderate
+growth in both employment and households.
+
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRd
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Existing Housing Density /
+Housholds per Acre by TAZ
+0.00 - 0.07
+0.08 - 0.16
+0.17 - 0.60
+0.61 - 2.03
+2.04 - 4.52
+Plan Areas
+County Boundaries
+Figure 2A
+Existing Household
+Density
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\02 Existing Housing Density.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Existing Housing Density /
+Housholds per Acre by TAZ
+0.00 - 0.07
+0.08 - 0.16
+0.17 - 0.60
+0.61 - 2.03
+2.04 - 4.52
+Plan Areas
+County Boundaries
+Figure 2B
+Existing Household
+Density
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\02 Existing Housing Density.mxd
+  Existing And Future Conditions
+
+Land Use and Zoning
+The majority of the rural areas of Multnomah County are zoned for agricultural and forest uses. Rural
+residential and single family residential makes up most of the rest of the lands with little commercial
+and industrial development in the rural areas. For further information see Appendix B.
+Key Destinations and Community Centers
+Many of the key destinations and community centers in the rural areas are schools. Sauvie Island has
+public beaches as well as farm lands that attract visitors with corn mazes, pumpkin patches, and fresh
+produce for sale. East County has a number of key destinations in National Forest, National Scenic Area
+and State pa
+rks including but not limited to recreation areas in the Mount Hood National Forest, Sandy
+River  Delta  Park,  Multnomah  Falls,  Mt.  Hood  National  Forest,  and  the  Columbia  River  Gorge  Scenic
+Area.  Figures  in  Appendix  B  (4A  and  4B)  show  key  destinations  and  community  centers  in  the  study
+area.
+STREET SYSTEM AND TRAFFIC ANALYSIS
+Primary roadway facilities, their characteristics, and existing operational performance are summarized
+below for each of the study areas.
+Roadway Jurisdiction
+As shown in Figures 3A and 3B, all roadways in rural Multnomah County, except interstates, highways
+and  the  Historic  Columbia  River  Highway,  are  operated  and  maintained  by  the  county..  The  state
+facilities  within  Multnomah  County  provide  interstate,  statewide,  and  regional  connectivity.  These
+facilities  include  Interstate  84  (I‐84),  Oregon  Highway  30  (U S  30),  Historic  Columbia  River  Highway
+through  the  Columbia  River  Gorge  (travelling  east  from  Sandy  River),  and  a  small  section  of  Oregon
+Highway  26 (US  26).  Highway  30  provides  access  to  both  the  west  and  east  sides  of  the  county.  I‐84
+serves the east area of the county.
+Existing Traffic Volumes
+Average annual daily traffic on roadway segments throughout the study area are shown in Figures 4A
+and 4B. As shown, the majority of the roadways carry less than 1,000 vehicles per day on average. As
+expected, the arterial roadways, such as Cornelius Pass Road, SE Foster Road and Troutdale Road carry
+higher vol
+umes of traffic.
+From the Sauvie Island and Multnomah Channel TSP update, average daily traffic volumes on most of
+the  roadways  throughout  Sauvie  Island  are  less  than  3,000  vehicles  per  =.  The  popularity  of  the
+beaches,  hunting  and  fishing  areas,  recreational  cycling  opportunities,  seasonal  festivals,  and  agri‐
+tourism  activities  lead  to  significant  fluctuations  in  averag e  daily  traffic  volumes  during  the  peak
+  Existing And Future Conditions
+
+seasons, typically occurring in the summer and fall. During these times, the Sauvie Island Road can have
+as  many  as  17,000  vehicles  per  day.  The  peak  traffic  conditions  are  a  result  of  both  seasonal  all‐day
+events (such as access to public beaches and pumpkin patches) as well as limited duration eve nts (such
+as concerts and farm‐to‐table dinners).
+ODOT  records  annual  average  daily  traffic  (AADT)  volumes  on  all  state  highways.  Traffic  volumes  on
+ODOT  facilities  in  Multnomah  County  have  generally  followed  the  overall  state  trends  related  to
+decreases during the recession and an increase since 2011. Volumes on US 30/St. Hel ens  Road through
+West  County have  gone  down  since  2006  and  are  still  at  levels  lower  than  recorded  in  2007.  Overall
+growth between 2003 and 2013 has averaged to less than one percent per year on US 26 and I‐84 in
+East County. Appendix B provides a table with more details on th e historical AADT.
+Future Traffic Volumes
+ODOT  provides  information  about  future  anticipated  growth  on  all  state  facilities.  A  discussion  of  the
+future  traffic  volumes  can  be  found  in  Appendix  B.  Due  to  regional  population  growth  and  continued
+housing development in adjacent urban areas, traffic volumes on rural County roads are anticipated to
+continue to increase.
+
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+SauvieIslandRd
+Reeder Road
+Gillihan Road
+SkylineBoulevard
+CornellRoad
+Springville Road
+Germantown Road
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Multnomah County Roadways
+ODOT Roadways
+Local Roads (not maintained by
+county)
+Plan Areas
+County Boundaries
+Figure 3A
+Roadway Jurisdiction
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\03 Roadway Jurisdiction.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Telford Road
+MarineDrive
+Troutdale Road
+Division Drive
+223rdAvenue
+Dodge Park Boulevard
+Lusted Road
+Gordon Creek Road
+Bluff Road
+Evans Road
+Woodard Road
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+BrowerRoad
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Multnomah County Roadways
+ODOT Roadways
+Local Roads (not maintained by
+county)
+Plan Areas
+County Boundaries
+Figure 3B
+Roadway Jurisdiction
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\03 Roadway Jurisdiction.mxd
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRd
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Average Daliy Traffic
+(records from 2006 to 2014)
+<1,5000
+1,500 - 3,000
+3,001 - 5,000
+5,001 - 10,000
+>10,000
+Plan Areas
+County Boundaries
+Figure 4A
+Average Daily Traffic
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\04 Average Daily Traffic.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Average Daliy Traffic
+(records from 2006 to 2014)
+<1,5000
+1,500 - 3,000
+3,001 - 5,000
+5,001 - 10,000
+>10,000
+Plan Areas
+County Boundaries
+Figure 4B
+Average Daily Traffic
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\04 Average Daily Traffic.mxd
+  Existing And Future Conditions
+
+HISTORIC CRASH ANALYSIS
+Crash data from the latest five years (January 1, 2009 through December 31, 2013) was obtained from
+ODOT for all State and County roadways within the study areas.
+County Crash Patterns
+A  total  of  1,403  crashes  were  reported  in  in  the  study  areas  between  2009  and  2013.  Of  the  1,403
+crashes, 401 were reported on I‐84.
+Table 3 summarizes the reported crashes by severity. Half of the reported crashes involved an injury,
+and 24 crashes involved a fatality. Of the fatal crashes, 14 we re reported as a fixed object crash. The
+second  most  common  crash  type  reported  for  fatalities  was  head‐on  collisions.  One  fatality  was  the
+result of a collision between a pedestrian and motor vehicle. This crash occurred under dark light and
+wet  road  conditions.  The  report  states  the  pedestrian  was  in  the  roa dway  illegally  and  wearing  non‐
+visible  clothing.  The  majority  of  the  fatal  crashes  occurred  in  clear  weather,  on  dry  roads,  and  in  the
+daylight. Excessive speed was reported in 10 of the 24 fatal crashes.
+Figures 5A and 5B provide the location of each of the recorded crashes in the study ar eas. As shown,
+many of the recorded crashes occurred along I‐84 and US 30, as well as key arterials such as Cornelius
+Pass Road, Skyline Boulevard, Germantown Road, and Corbett Hill Road.
+Table 3 Reported Crashes by Severity in Multnomah County Rural Areas (2009 – 2013)
+
+Crash Severity
+Total Fatal  Injury  Property Damage
+Only
+Number of
+Reported Crashes  24  511  467  1,002
+Percentage of
+Total Crashes  2%  51%  47%  100%
+Seasonal Trends
+To  understand  any  possible  weather  and/or  seasonal  trends,  Exhibit  1  shows  the  number  of  crashes
+reported by month over the five year period.
+
+  Existing And Future Conditions
+
+ Exhibit 1 Reported Crashes by Month (2009‐2013)
+
+As  shown  in  Exhibit  1,  the  highest  crash  frequency  occurred  during  late  fall  winter  months,  from
+October  through  January.  Winter  months  in  Multnomah  County  can  include  inclement  weather
+conditions  producing  wet,  icy,  and/or  snowy  conditions.  Further  review  of  crashes  in  October,
+November, December, and January (382 crashes) indicate that 60% (228 crashes) occurred on roadway
+surfac
+es that were wet, icy, or snow‐covered. Additionally, 55% (210 crashes) occurred in dark, dawn,
+or dusk lighting conditions.
+Crash Type Analysis
+Over the study period, 54% of crashes (537 crashes) were single vehicle crashes including fixed object,
+overturn,  and  non‐collision  crashes.  Speed  was  a  contributing  factor  in  one‐third  (327  crashes)  of  all
+crashes.  Over  40%  (409  crashes)  occurred  on  roadway  surfaces  that  were  wet,  icy,  or  snow‐covered.
+Forty‐two percent (417 crashes) occurred in dark , dawn, or dusk lighting conditions.
+Four pedestrian crashes were reported in the study period with one resulting in a fatality. The fatality
+occurred  in  dark,  rainy  conditions.  The  report  states  the  pedestrian  was  in  the  roadway  illegally  and
+wearing non‐visible clothing. The pedestrian crashes occurred at the following locations:
+ US 30 – 2,00
+0 feet south of Watson Road
+ Lusted Rd – 3,300 feet from Cottrell Road
+ Hurlburt Rd – 260 feet east of Kimbley Rd (west access)
+ Haines Road and Thompson Mill Road
+
+97
+64 70 76
+89
+67
+87
+79
+88
+100
+79
+106
+0
+20
+40
+60
+80
+120Number of Reported Crashes
+Month
+  Existing And Future Conditions
+
+Eleven bicycle crashes were reported in the study period all resulting in non‐fatal injuries. All but one
+crash  occurred  under  clear  weather  conditions,  dry  road  surface,  and  in  the  daylight.  The  majority
+(seven)  of  the  crashes  were  attributed  to  not  yielding  to  the  right‐of‐way.  The  other  causes  were
+following  too  closely,  non‐motorist  illegally  in  the  roadway,  and  other  imp
+roper  driving.  The  bicycle
+crashes occurred at the following locations:
+ Skyline Boulevard and Brooks Road
+ Laidlaw Road and Thompson Road – two crashes occurred here
+ HCRH and Crown Point Highway – two crashes occurred here
+ Foster Road and Richey Road
+ Lusted Road 2,000 ft north of Dodge Park Boulevard
+ Lusted Road at Sam Barlo
+w High School
+ HCRH – 400 feet west of Lucas Road
+ Dodge Park Boulevard and Short Road
+ HCRH and Evans Road
+
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!!!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!!!
+!
+!
+!
+!
+! !
+!
+! !
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+! !
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ ##
+ # #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ ##
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ #
+ ##
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ ##
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRd
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Crash Type
+ # Animal
+ # Bicycle
+ # Pedestrian
+ # Fixed Object
+! Head-On
+! Angle
+! Rear-End
+! Run Off The Road
+! Sideswipe
+! Turning
+! Other
+Plan Areas
+County Boundaries
+Figure 5A
+Crash Reports by
+Type
+(Jan 2009 to
+March 2014)
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\05 Crash Reports by Type.mxd
+Source: Oregon Department of Transportation Crash Reports from January 2009 to March 2014
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+! !!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!!
+!!
+!
+!
+!
+!
+!
+!
+!
+!!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+! !
+!!
+!
+!! !
+!
+!
+!
+!
+!!
+!
+!
+!
+! !
+!
+!
+!
+! ! !
+!
+!
+!
+!
+!
+!
+! !!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!!
+!
+!
+!
+!
+! !!
+!
+! !
+!
+!
+!
+! !
+! !!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!
+!
+!!
+!
+! !
+!! !! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+! !
+!
+!
+!!
+!!!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+! !
+!! !
+!
+!
+!
+!
+!
+! ! !
+!
+!
+!! !
+!
+!
+!!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! ! !
+! !!
+!
+! !! ! ! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!!
+!
+!!
+!
+!
+!
+!
+!
+! !
+!
+!
+!
+!
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ # #
+ ###
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ ###
+ ##
+ #
+ ###
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ # ### ##
+ #
+ # #
+ # ##
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ ####
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ ##
+ # #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ ##
+ #
+ ##
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ # ##
+ # #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ ##
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ ## #
+ ##
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ # ##
+ #
+ #
+ #
+ #
+ #
+ #
+ # ##
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ ##
+ #
+ #
+ ##
+ #
+ #
+ #
+ #
+ #
+ #
+ #
+ # #
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Crash Type
+ # Animal
+ # Bicycle
+ # Pedestrian
+ # Fixed Object
+! Head-On
+! Angle
+! Rear-End
+! Run Off The Road
+! Sideswipe
+! Turning
+! Other
+Plan Areas
+County Boundaries
+Figure 5B
+Crash Reports by
+Type
+(Jan 2009 to
+March 2014)
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\05 Crash Reports by Type.mxd
+Source: Oregon Department of Transportation Crash Reports from January 2009 to March 2014
+  Existing And Future Conditions
+
+Intersection and Segment Crash Analysis
+In addition to the countywide data, ten locations, four intersections and six segments within the study
+areas, were analyzed and compared to statewide averages for similar facilities, when possible.
+Intersection Crash Rates
+Reported  crashes  at  four  key  intersections  are  summarized  in  Table  4.  Intersection  exposure  was
+measured  in  terms  of  total  entering  vehicles  (TEV),  derived  from  the  link  volumes  data.  To  provide  a
+basis  of  comparison,  ODOT  identifies  90th  percentile  crash  rates  for  similar  facilities  in  the  Analysis
+Procedures Manual, (Reference 1). As shown, all of the study intersections reported higher crash rates
+than ODOT’s 90th percentile crash rates for the respective intersection type.
+Table 4 Reported Crashes at Study Intersections
+Intersection
+ID and Name
+ # of
+Crashes
+TEV (in
+millions)
+Crash
+Rate
+90
+th
+
+Percentile
+Crash Rates
+Crash Type  Severity
+Angle
+Rear‐End
+Turning
+Ped/Bike
+Fixed‐Object
+Other
+PDO
+Injury
+Fatality
+A ‐ Reeder
+Road/Sauvie
+Island Road
+6  4.95  1.21  0.475  0  0  2  0  4  0  3  2  1
+B ‐ Foster
+Road/172
+nd
+
+Avenue
+25  17.82  1.40  0.475  0  14  8  0  2  1  6  19  0
+C ‐ Foster
+Road/Richey
+Road
+10  17.82  0.56  0.475  1  2  1  0  4  2  5  5  0
+D ‐ Orient
+Drive/282
+nd
+
+Avenue
+17  13.78  1.23  0.579  3  6  6  0  2  0  9  8  0
+1
+TEV = Total entering vehicles
+2
+PDO = Property damage only
+3
+Crash Rate = Crashes per million entering vehicles
+One  fatality occurred  at the  study  intersections above.  It was  a  single‐vehicle,  fixed‐object crash  that
+occurred  at  the  Reeder  Road/Sauvie  Island  Road  intersection.  It  occurred  in  the  rain,  with  wet  road
+surface, and in the dark. Speeds too fast for conditions were a contributing factor.
+Segment Crash Rates
+Reported crashes along study roadway segments are summarized in Table 5. Exposure on the segments
+was  measured  based  on  average  daily  traffic  (ADT)  volumes  from  available  link  volume  data.  ODOT
+publishes  statewide  average  roadway  segment  crash  rates  for  the  past  five  years  for urban  and  rural
+areas, by functional classification. The statewide aver age roadway segment crash rates for rural minor
+collectors  are  provided  in  Table  5  for  comparison  to  calculated  crash  rates  for  highways  in  the  study
+areas. As shown, all of the study segments reported higher crash rate than the state average crash rates
+for the respective functional classification.
+  Existing And Future Conditions
+
+Table 5 Reported Crashes at Study Roadway Segments
+ID  Segment Name
+Segment
+Boundaries
+Segment
+Length
+(miles)
+Number
+of
+Crashes  ADT
+Crash
+Rate
+(2009 –
+2013
+average)
+State
+Average
+Crash Type  Severity
+Fixed‐Object
+Other
+PDO
+Injury
+Fatality
+E  Germantown
+Road
+Between
+Skyline Road
+and Old
+Germantown
+Road
+2.0  25  4800  2.85  1.30  14  11  12  11  2
+F  Skyline
+Boulevard
+From ½ miles
+north of Rock
+Creek Road to
+¾ miles south
+of Rock Creek
+Road
+1.25  8  1340  3.27  1.30  6  2  1  7  0
+G  Corbett Hill
+Road
+Between I‐84
+and Historic
+Columbia
+River Highway
+1.4  29  2520  6.32  0.71  6  23  12  17  0
+H  Lusted Road
+¼ of a mile
+east starting
+1/3 of a mile
+east of
+Cottrell Road
+0.25  7  650  5.90  1.30  4  3  3  3  1
+I  Hurlburt Road
+From
+Springdale
+School to
+Kimbley Road
+(East)
+1.5  11  1490  4.05  1.30  5  6  4  7  0
+J  Stark Street
+Between 36
+th
+
+Street and
+Historic
+Columbia
+River Highway
+1.3  21  5410  2.13  0.71  12  9  8  11  2
+
+Findings from the study intersection and segment crash analysis indicate the following:
+ Corbett  Hill  Road,  which  is  an  arterial  connecting  to  I‐84,  has  the  highest  crash  frequency
+among the study segments.
+ The  intersection  of  Reeder  Road  and  Sauvie  Island  Road  has  the  highest  crash  frequency
+among the study intersect ion.
+ Over 46% of reported crashes along the studied intersections and segments areas occurred
+on a wet, icy, or snowy roadway.
+ Over a third (52 crashes) of the crashes recorded at the study intersections and segments
+indicated speeding or speed too fast for conditions as a contributing cause.
+ Of the six fa
+tal crashes on the study segments, five were fixed object crashes with four of
+attributing speed too fast for conditions or speeding as a contributing factor. The other fatal
+crash involved a pedestrian who was in the roadway illegally.
+  Existing And Future Conditions
+
+ Four pedestrian and bicycle crashes were reported at the study intersections and segments
+throughout the five year analysis period, one of which was fatal and described above. Three
+of the four crashes occurred with clear weather conditions, on dry roadways, in the daylight.
+The  two  reported  causes  were  “did  not  yield  right‐of‐way”  and  “non‐motorist  illegally  in
+roadway.”
+ Among  the  injury  crashes,  the  majority  were  single‐ve
+hicle  crashes.  Speed  was  a
+contributing  factor  in  approximately  half  of  the  reported  injury  crashes.  Over  half  of  the
+injury crashes occurred with some sort of precipitation on the roadway.
+Both the County’s polici es and stakeholder feedback identify the importance of improving safety for all
+transportation system users in Multnomah County.
+Crash data from 2007 through 2013 was obtained from ODOT and reviewed to establish a baseline for
+identifying potential safety‐related improvements. This review revealed the following:
+ There  were  four  pe destrian   crashes  reported  in  the  study  area.  One  of  these  crashes
+resulted in a fatality.
+ There  were  eleven  bicycle  crashes  reported  in  the  study  area.  All  resulted  in  non‐fatal
+injuries.
+ 54%  of  crashes  =were  reported  as  fixed  object/run  off  the  road/overturn  single  vehicle
+crashes.
+ There were 24 recorded fatal crashes.
+o 14 of these cr
+ashes were reported as a fixed object crash.
+o The second most common crash type reported for fatalities was head‐on collisions.
+o Excessive speed was reported for 10 of the fatality crashes.
+ Areas with a pattern of crashes include:
+o I‐84
+o US 30
+o Cornelius Pass Road
+o Skyline Boulevard
+o Germantow
+n Road
+o Corbett Hill Road
+o Reeder Road/Sauvie Island Road intersection
+
+Stakeholder  interviews  and  reviewed  documents  identified  other  safety  concerns  related  to  the
+multiple crossings of the railroad that runs north‐south between US 30 and the Mu ltnomah  Channel on
+Sauvie Island. These concerns primarily relate to the lack of active crossing measures, such as gates and
+flashing  lights  at  these  crossings.  These  interviews  also  identified  “perceived  safety”  as  an  issue  that
+  Existing And Future Conditions
+
+concern  community  members.  The  discussion  revolved  around  near  misses,  perceived  unsafe  driving
+conditions and behavior, and other factors that cannot be recorded in crash reports and statistics.
+Additional road segments and intersections were identified as areas that could benefit from a separate
+safety study. These areas include:
+ US 30
+ Skyline Boulevard
+ Lusted Road
+ Corbett Hill Road
+ Hurlburt Road
+ Gillihan Road/Reeder Road intersection
+ Sauvie Island Road/Reeder Road intersection
+PUBLIC TRANSPORTATION SYSTEM
+Three transit agencies serve Multnomah County’s rural areas, including TriMet, Columbia County Rider,
+and Sandy Area Metro. The highlights of this service include:
+ TriMet primarily serves Portland Metro urban areas but has transit stops located near the
+perimeter  of  several  of  the  County’s  rural  areas  including  the  West  Hills,  Sauvie  Island,
+Troutdal
+e and Gresham.
+ TriMet  has  a  Park‐and‐Ride  located  on  Sauvie  Island  and  several  in  Gresham  that  could
+serve residents of East County.
+ Columbia  County  Rider  has  a  route  along  Highway  30  but  it  does  not  currently  stop  on
+Sauvie Island but may in the future.
+ Sandy Area Metro has a route along Highway 26 in the We st of Sandy River area.
+The  County’s  rural  areas  are  not  served by  fixed  route  transit; however, fixed  route  transit  and park‐
+and‐ride  facilities  are  provided  at  the  urban  fringes  to  help  provide  access  to  commuters  from  rural
+areas.
+Figures in Appendix B (16 A and 16B) show the transit routes, stop
+s, centers, and park n’ ride locations
+in and near the rural areas.
+RAIL
+The Portland and Western railroad has two routes through the west side of the County, one going up
+the West Hills and the other along Highway 30. Union Pacific has a route on the east side of the County
+that follows I‐84. The majority of the railroad crossings throughout the rur al  areas are private crossings
+  Existing And Future Conditions
+
+(crossings of private roads, driveways, and accesses). There are two public County owned crossings in
+the  Multnomah  Channel  area;  one  at‐grade  crossing  located  on  Lower  Rocky  Point  Road  on  the  east
+side  of  Highway  30  and  one  grade‐separated  crossing  on  NW  McNamee  Road.  Figures  in  Appendix  2
+(14A and 14 B)  depict the railroads traversing Multnomah County as well as the locations of public and
+private railroad crossings in the rural areas.
+AIR TRANSPORTATION SYSTEM
+The Sandy River Airport is the only public airport located in the study areas. In addition, Lehman Airport
+is a private airport located three miles southeast of Corbett. Troutdale Airport also provides service in
+the  area  located  ten  miles  east  of  the  central  business  district  of  Portland.  Portland  International
+Airport serves most air passenger and freight transportation needs for Mult nomah County.
+WATER
+The  Columbia  River  and  Willamette  River  are  both  used  currently  to  transport  goods  locally  and
+internationally.  Water  transport  remains  is  a  significant  resource  in  Multnomah  County  due  to  the
+number of existing and potential ports along its length. This option for transporting freight reduces the
+number  of  trucks  and  trains  needed  on  land  to  support  the  county’s  eco nomy  and  has  a  significant
+impact on the transportation system.
+EXISTING CONDITIONS AND FUTURE NEEDS SUMMARY
+The key highlights of the existing and future conditions are summarized below.
+ The  primary  transportation  issue  in  Multnomah  County’s rural  areas  is  safety.  Identifying  and
+prioritizing safety improvements will be a primary objective of the TSP Update.
+ General  County‐wide  trends  indicate  that  some  low‐cost  systemic  treatments  such  as  shoulder
+wideni
+ng  in  select  locations  and  installation  of  centerline  and  shoulder  rumble  strips  may  be
+effective  on  County  facilities  in  addition  to  treatments  addressing  speed  and  improving
+intersections with poor geometry.
+ Paved shoulders serve multiple functions in rural areas. They increase safety for vehicles, provide
+space  for  farm  equipment  and  eme rgency  pull‐offs,  but  they  also  act  as  pedestrian  and  bicycle
+facilities.  The  needs  and  priorities  for  shoulder  improvements  for  vehicle  safety  should  also  be
+coordinated with additional considerations below and balanced with potential environmental and
+wildlife impacts.
+ Despite  the  lack  of  shoulder  bikeways,  many  of  the  County’s  rural  roadw ays  are  popular  cycling
+routes.  A  desired  network  and  priorities  of  shoulder  bikeway  facilities  for  the  purpose  of
+transportation and tourism should be included in the TSP Update.
+ The County’s rural areas are not served by fixed route transit; however, fixed route transit and park‐
+and‐ride facilities are pro vided  at the urban fringes to help provide access to commuters from rural
+  Existing And Future Conditions
+
+areas. Access to these park‐and‐rides for pedestrians and bicycles should be considered in the TSP
+Update.
+ Multnomah County has a number of designated freight routes extending into the rural areas from
+the  ODOT  freight  routes.  These  should  be  considered  in  the  prioritization  of  shoulder
+improvements.
+ Multnomah  County  should  continue  to  support  th e  movement  of  freight  via  air,  rail,  and  water
+through ensuring access to intermodal facilities to reduce the number of trucks on the roadways.
+ Population and employment in the rural areas is expected to grow at approximately 3 – 3.5 percent
+per year.  Although  not proje cted   to  result in  traffic  congestion  in  the  rural  areas, concerns about
+increasing  traffic  volumes  on  rural  road  remains.  Additionally,  this  growth  will  continue  to  have
+impacts on safety and conflicts between different modes.
+
+Section 3
+Range of
+Solutions
+
+  Range of Solutions
+
+RANGE OF SOLUTIONS
+Solutions  to  address  the  primary  existing  and  future  Multnomah  County  transportation  issues  and
+needs in the rural areas fall into four general categories: bicycle and pedestrian facilities, safety, signage
+and signal treatments, and transportation demand management.
+Table 6 summarizes the solutions that are included in the TSP. The following pages provide additional
+information on each of th
+e solutions.
+Table 6 Potential Solutions Summary Table
+Reference Number  Potential Solutions
+Bicycle and Pedestrian Facilities
+BPF‐1  Multi‐use path
+BPF‐2  Advisory bike lane
+BPF‐3  Buffered shoulder bikeway
+BPF‐4  Shoulder bikeway
+BPF‐5
+BPF‐6
+BPF‐7
+BPF‐8
+BPF‐9
+BPF‐10
+BPF‐11
+Shared lane roadways
+Bicycle pullout
+Bicycle climbing lane
+Bike map
+Pedestrian shoulder
+Pedestrian path (sidepath)
+Gravel shoulder
+Safety
+SA‐1
+SA‐2
+Rumble strips
+Increased shoulder width
+SA‐3  Curve improvements
+SA‐4  Rural intersection improvements
+SA‐5  Railroad crossing improvements
+Signage and Signal Treatments
+SI‐1  Wayfinding signage
+SI‐2  Warning/advisory signs
+SI‐3  Speed limit signs
+SI‐4  Signal Controller/Timing Plans
+Transportation Demand Management
+D‐1  User‐generated parking information
+D‐2  Real‐time parking information
+D‐3  Pricing parking permit
+D‐4  Parking enforcement
+D‐5  Park‐n‐ride lots
+D‐6  Shuttle service
+D‐7  Event permit calendar
+D‐8
+D‐9
+D‐10
+Event‐based “TDM” plan
+User fees/congestion pricing
+Flexible work time/telecommuting
+The  following  pages  serve  as  a  toolbox  of  information  on  the  four  categories  of  solutions  in  Table  6.
+Each solution has one page describing the solution, pros, cons, applicability to the TSP area, and other
+information.
+
+Content
+
+M
+t tailored to Multnom
+ULTI‐
+Springw
+mah County TSP,  Aug
+Bicy
+USE P
+
+water Trail, Portlan
+Orlan
+gust 2016.
+ycle a
+PATH
+Multi‐
+both p
+of the
+to the
+TSP A
+Severa
+Burling
+consist
+improv
+cyclists
+Pros
+ Pr
+an
+se
+ Pr
+ve
+cy
+ W
+re
+us
+Desig
+ Be
+ba
+vis
+ Ca
+ A
+an
+co
+th
+ Pa
+tra
+ M
+ Pe
+w
+Com
+ Bi
+nd, OR
+do, FL
+and P
+‐use paths are
+pedestrians a
+e user. They pl
+eir appeal to u
+Area Appli
+al roadways in
+gton Northern
+ts of Sauvie Isl
+ve accessibility
+s.
+rovides facility
+nd bicyclists in
+eparated facilit
+roviding separa
+ehicles can attr
+yclists of all age
+Would improve
+esidents and in
+sers including r
+gn Conside
+est suited in ar
+arriers such as
+sibility treatme
+an be parallel t
+minimum widt
+nd would be ap
+onsidered in ar
+he Sauvie Island
+avement mark
+avel.
+May need right‐
+ermeable pavin
+ith the rural ch
+plementar
+ke map, Wayfi
+BPF‐1
+Pedes
+e paved, bi‐di
+nd bicyclists.
+lay an integra
+users of all ag
+cability
+Multnomah Co
+Trial in the We
+and Road, Ree
+y for residents
+for both pede
+less space tha
+ties.
+ation from mot
+ract pedestrian
+es and abilities
+accessibility fo
+crease safety f
+recreational cy
+erations
+reas where roa
+highways, rail
+ents are neede
+to a roadway o
+th of 10 feet is
+ppropriate for
+reas with mode
+d loop.
+ings can be use
+of‐way acquisi
+ng options cou
+haracter of the
+ry Strategie
+inding signage
+1
+strian
+irectional trai
+ Multi‐use pa
+al role in recr
+ges and skill le
+ounty could be
+est Hills and th
+eder Road, and
+and increase s
+estrians
+n
+tor
+ns and
+s.
+or
+for all
+yclists.
+Co
+
+
+
+
+adway crossing
+road tracks, riv
+ed at path cros
+or on its own ri
+s recommende
+some areas of
+erate to high le
+ed to indicate
+ition and levee
+uld help minim
+e area.
+es
+n Fac
+ils separated
+aths increase
+reation, comm
+evels.
+enefit from a m
+he main loop ro
+d Gillihan Loop
+safety for all us
+ons
+May result in
+areas with fr
+May result in
+and pedestri
+When paralle
+be buffered f
+substantial ri
+Speed differe
+experienced
+pedestrians c
+facility.
+gs can be minim
+vers, shoreline
+ssings.
+ight‐of‐way.
+ed for low‐pede
+f the county; 12
+evels of bicycle
+separate space
+e restrictions m
+ize surface wa
+ilities
+from roadwa
+the safety an
+muting, and a
+multi‐use path
+oad on Sauvie
+Road. Multi‐u
+sers including r
+n conflicts betw
+equent crossin
+n conflicts betw
+ans.
+el to roadways
+from motorists
+ight‐of‐way.
+entials betwee
+cyclists and slo
+can cause conf
+mized (such as
+es, natural area
+estrian/bicycle
+2 to 20 feet sh
+e and pedestria
+e for pedestria
+may alter desig
+ter runoff and
+s
+ays that serve
+nd comfort le
+accessibility du
+including
+Island that
+se paths would
+recreational
+ween modes in
+ngs or driveway
+ween bicyclists
+s, the path mus
+s which require
+en more
+ower cyclists a
+flicts on a shar
+parallel to trav
+as, etc.). High‐
+e‐traffic contex
+ould be
+an traffic such
+an and bicycle
+gn and alignme
+ be compatible
+
+e
+vel
+ue
+d
+n
+ys.
+
+st
+es
+nd
+ed
+vel
+xts
+as
+nt.
+e
+
+Content
+
+AD
+t tailored to Multnom
+DVISO
+mah County TSP,  Aug
+Bicy
+ORY BI
+
+Pho
+T
+Numa
+gust 2016.
+ycle a
+KE LA
+Hanover, NH
+to: Danny Kim,
+The Dartmouth
+ansdorp, The Nethe
+Hano
+Photo: Dan
+The Dar
+Hanov
+Photo: Dann
+The Dart
+and P
+NE
+
+Adv
+lane
+afte
+com
+dire
+TSP
+This
+mot
+bicy
+Cou
+road
+con
+sea
+s
+on S
+Islan
+rela
+Pro
+
+
+
+De
+
+
+Co
+
+
+
+erlands
+over, NH
+nny Kim,
+rtmouth
+ver, NH
+ny Kim,
+tmouth
+BPF‐2
+Pedes
+visory bike lan
+es that motor
+er yielding to
+mbination wit
+ectional moto
+P Area App
+s treatment is a
+torized traffic (
+ycle‐only facilit
+nty have annu
+dways such as
+siderations sho
+sonal traffic pe
+Sauvie Island R
+nd roads as we
+tively low traff
+os
+Provides strip
+facility on roa
+very limited r
+or pavement
+Encourages sl
+vehicle speed
+motorists yiel
+bicyclists.
+Inexpensive t
+consisting of o
+and striping.
+sign Consi
+Advisory bike
+center motor
+Explanatory s
+to motorists t
+oncoming veh
+mplement
+Bike map
+Wayfinding
+Speed limit sig
+2
+strian
+nes, also know
+r vehicles can
+bicyclists. Ad
+th a single cen
+or vehicle trav
+plicability
+applicable to s
+(ADT) that do n
+ties. Most road
+ual average AD
+Cornelius Pass
+ould be made
+eaks which res
+Road. This treat
+ell as other roa
+fic volumes an
+ped bicycle
+adways with
+ight‐of‐way
+width.
+lower motor
+ds and
+lding to
+reatment
+only signing
+derations
+ lanes can be s
+ized vehicle la
+signage may be
+that they must
+hicles.
+tary Strate
+gns
+n Fac
+wn as “sugge
+n use to pass o
+dvisory bicycle
+nter lane (wit
+vel on relative
+treets with les
+not have suffic
+dways in the ru
+T below 3,000
+s Road and Ge
+for roadways o
+ult in ADT up t
+tment could be
+ads in east and
+nd that are pop
+Cons
+ Motoris
+underst
+limited
+date; e
+require
+ Does no
+protect
+not attr
+ Does no
+environ
+ No US d
+striped as 5‐7 f
+ne of 10 to 18
+e helpful in US
+t yield to bicycl
+gies
+ilities
+estion lanes,”
+oncoming mo
+e lanes are us
+thout a center
+ely low‐volum
+ss than 6,000 a
+cient width for
+ural areas of M
+0 with exceptio
+rmantown Roa
+on Sauvie Islan
+to 17,000 vehic
+e suitable on s
+ west county t
+pular cycling ro
+sts may not ini
+tand advisory
+applications in
+ducation woul
+ed.
+ot provide phy
+tion from vehic
+ract bicyclists o
+ot improve ped
+nment.
+design guidelin
+foot lanes with
+feet.
+contexts to co
+lists before pas
+s
+are bicycle
+otor vehicles
+sed in
+rline) for bi‐
+me streets.
+average daily
+dedicated
+ultnomah
+ons for major
+ad. Special
+nd due to
+cles in a day
+some Sauvie
+hat have
+outes.
+itially
+lanes due to
+n the US to
+d be
+ysical
+cles and may
+of all levels.
+destrian
+nes available.
+h a single
+ommunicate
+ssing
+
+Content
+
+B
+
+t tailored to Multnom
+UFFER
+mah County TSP,  Aug
+Bicy
+RED SH
+http://brisb
+/2008_12_0
+gust 2016.
+ycle a
+HOUL
+baneca.blogspot.c
+01_archive.html
+Brisbane,
+Riverside Boule
+Bend
+and P
+LDER B
+Buff
+lane
+bet
+bet
+TSP
+This
+and
+mod
+prov
+Pro
+
+
+De
+
+
+
+Co
+
+
+
+
+om
+, CA
+evard
+d, OR
+BPF‐3
+Pedes
+BIKEW
+ffered bicycle
+es that includ
+ween the bicy
+ween the bicy
+P Area App
+s treatment is a
+ between com
+derate vehicle
+vide a buffer c
+os
+A parking‐edg
+streets with o
+parking can re
+likelihood of “
+Increased sep
+motor vehicle
+standard bicy
+increase bicyc
+sign Consi
+Typical buffer
+width of 5‐6 f
+Green pavem
+awareness in
+vehicle travel
+Buffer space c
+from traveling
+mplement
+Bike map
+Wayfinding
+Speed limit sig
+3
+strian
+WAY
+lanes or buff
+de an addition
+ycle lane and
+ycle lane and
+plicability
+applicable to s
+mmunities. Any
+speeds or volu
+an be consider
+ge buffer on
+on‐street
+educe the
+“dooring.”
+paration from
+es (over
+ycle lanes) can
+clist comfort.
+derations
+r width is 2‐3 fe
+feet, but a com
+ment markings o
+“conflict areas
+ paths cross.
+can have mark
+g or parking in
+tary Strate
+gns
+n Fac
+fered shoulde
+nal striped bu
+d the vehicle tr
+d the vehicle p
+treets that are
+segment of th
+umes and suffi
+red within the
+Cons
+ Does no
+protect
+attract
+ The add
+the buf
+illegally
+adequa
+eet, in addition
+mbined width o
+or striping can
+s” or intersecti
+kings or rumble
+ the space.
+gies
+ilities
+r bikeways ar
+uffer of typica
+ravel lane an
+parking lane.
+e long‐distance
+he bicycle netw
+cient pavemen
+study area.
+ot provide phy
+tion and theref
+bicyclists of al
+ditional width
+ffer may invite
+y park in the la
+ately signed an
+n to standard b
+of 6 feet is acce
+add visibility a
+ions where bic
+e strips to dete
+s
+re on‐street
+ally 2‐3 feet
+d/or
+e links within
+work with
+nt width to
+ysical
+fore may not
+l levels.
+provided by
+motorists to
+ne if not
+d enforced.
+bicycle lane
+eptable.
+and
+cycle and
+er vehicles
+
+Content
+
+SH
+
+t tailored to Multnom
+HOUL
+mah County TSP,  Aug
+Bicy
+DER B
+
+gust 2016.
+ycle a
+BIKEW
+
+and P
+WAY
+Tucson, AZ
+Boise, ID
+Tucson, AZ
+BPF‐4
+Pedes
+A shoulder
+facility that
+traffic in rur
+TSP Area
+Shoulders bi
+County’s rur
+constructed
+Pros
+ Provides
+from mo
+ Require
+than a s
+path.
+ Standar
+Multnom
+equipme
+mainten
+Design Co
+ A 6‐foot
+pedestri
+Greater
+ Rumble
+and min
+without
+ May req
+ On Sauv
+construc
+Complem
+ Bike ma
+ Wayfind
+4
+strian
+bikeway can
+t provides spa
+ral areas.
+ Applicabi
+keways could
+ral roadways bu
+on roadways o
+s a space sepa
+otorists.
+s less right‐of‐
+eparated mult
+d treatment fo
+mah County an
+ent for
+nance available
+onsideratio
+t width is prefe
+ian travel, with
+widths can be
+strips or profi
+nimize motorist
+t significant agr
+quire right‐of‐w
+vie Island, leve
+ction.
+mentary St
+ap
+ding
+n Fac
+serve as a bic
+ace separated
+lity
+be applied to m
+ut would requ
+on the levee.
+rated
+way
+ti‐use
+or
+nd
+e.
+Cons
+ D
+p
+r
+m
+al
+ Sh
+su
+fa
+pe
+bi
+us
+ Po
+cr
+ons
+erred to accom
+h a 3‐foot mini
+e used in highe
+led striping can
+ts encroaching
+ricultural activ
+way acquisition
+e restrictions m
+rategies
+ilities
+cycle and ped
+d from motor
+most of Multn
+ire special perm
+s
+oes not provid
+rotection from
+may not be com
+ll users.
+houlders servin
+uch as disabled
+arm equipment
+edestrians may
+icyclists and pe
+se travel lanes
+otential impac
+rossings and ru
+mmodate bicyc
+imum in constr
+r‐speed locatio
+n be used to e
+g on the should
+ity.
+n.
+may alter desig
+s
+destrian
+vehicle
+omah
+mits to be
+de physical
+m vehicles and
+mfortable for
+ng other uses,
+d vehicles,
+t, or
+y require
+edestrians to
+.
+cts to wildlife
+ural character.
+le and
+rained areas.
+ons.
+nhance safety
+der in areas
+gn or prohibit
+
+Content
+
+SH
+
+t tailored to Multnom
+HARED
+mah County TSP,  Aug
+Bicy
+D LAN
+
+gust 2016.
+ycle a
+E ROA
+
+Co
+Po
+Clackamas C
+and P
+ADWA
+
+rnell Road,
+ortland, OR
+County, OR
+BPF‐5
+Pedes
+AYS
+Shared lane
+share the sa
+part of a de
+markings (“
+presence of
+TSP Area
+A majority o
+currently sha
+indicate to ro
+roadway.
+Pros
+ Allows f
+when ot
+not feas
+ Low‐ to
+Design Co
+ Provide
+See war
+ Educate
+ Increase
+Complem
+ Pedestri
+ Bike ma
+ Bicycle p
+ Bicycle c
+5
+strian
+e roadways a
+ame travel la
+esignated bicy
+“sharrows”) o
+f bicyclists in
+ Applicabi
+f the roadways
+ared facilities.
+oad users that
+for bicycle trav
+ther treatment
+sible.
+no‐cost.
+onsideratio
+guidance sign
+rning/advisory
+e drivers on the
+e signage and p
+mentary St
+ian path
+ap
+pullouts
+climbing lanes
+n Fac
+re those whe
+anes. Shared l
+ycle network
+or signage to
+the travel lan
+lity
+s in rural Mult
+Posting “Bikes
+t bicyclists may
+vel
+ts are
+Co
+
+
+
+ons
+age to alert dr
+signs section.
+e rules of shari
+pavement mar
+rategies
+ilities
+re motorists a
+ane roadway
+may include s
+indicate the l
+ne.
+nomah County
+s on Roadway”
+y be present an
+ns
+Does not prov
+separation fro
+Without addit
+calming treat
+likely to only a
+confident bicy
+Does not imp
+pedestrian en
+rivers of the sh
+ing the road.
+rkings.
+s
+and cyclists
+ys that are
+shared lane
+legal
+y are
+” signs would
+nd are on the
+vide any
+om vehicles.
+tional traffic‐
+ments, it is
+attract
+yclists.
+rove
+nvironment.
+ared road.
+
+Content
+
+B
+
+t tailored to Multnom
+ICYCL
+mah County TSP,  Aug
+Bicy
+E PUL
+
+gust 2016.
+ycle a
+LLOUT
+Bo
+and P
+TS
+
+Bicy
+allo
+fast
+pro
+cycl
+TSP
+Bicy
+bike
+on d
+sho
+uph
+opp
+Pro
+
+
+
+De
+
+
+
+
+
+Co
+
+
+
+
+oise, ID
+BPF‐6
+Pedes
+ycle pullouts a
+ow cyclists to
+ter‐moving ve
+vide cyclists a
+lists to keep t
+P Area App
+ycle pullouts ca
+eways or other
+designated bike
+ulder bikeways
+ill roadways or
+portunities for v
+os
+Provides a spa
+motorists.
+Creates oppo
+vehicles to pa
+roadway.
+Minimizes im
+wildlife, and r
+roadway.
+sign Consi
+A 6‐foot width
+foot minimum
+higher‐speed
+May require r
+Signage need
+Pavement has
+to ensure usa
+Should be a su
+feet or more)
+location.
+mplement
+Paved Should
+Shared lane ro
+Bike map
+Wayfinding
+6
+strian
+are areas pro
+move out of t
+ehicles to pas
+a place to sto
+traveling whil
+plicability
+an be applied t
+r bicycle treatm
+eways as lowe
+s in constraine
+r long stretche
+vehicles.
+ace separated
+rtunities for
+ass bicyclists on
+pacts to prope
+rural character
+derations
+h is preferred t
+m in constraine
+locations.
+right‐of‐way ac
+ed to require b
+s to be smooth
+age.
+uitable length
+ if designed as
+tary Strate
+der
+oadways
+n Fac
+ovided along s
+the vehicle tr
+ss. They includ
+op and long pu
+le allowing ve
+to any roadway
+ments. They ar
+er impact altern
+ed areas. They
+es of roadways
+from
+n the
+erty,
+r of
+Cons
+ Re
+ D
+co
+to accommoda
+ed areas. Great
+cquisition.
+bicyclists to us
+h and maintain
+to provide tim
+s a passing area
+gies
+ilities
+shared lane ro
+ravel lane to s
+de short pullo
+ullouts that w
+ehilces to pass
+y without shou
+e intended to
+native to conti
+are most appli
+s without passi
+s
+equires right o
+oes not provid
+ontinuous bike
+ate bicycle trav
+ter widths can
+e pullouts.
+ned and/or swe
+me for vehicles
+a rather than s
+s
+oadways to
+stop or allow
+outs to
+would allow
+s.
+ulder
+be provided
+nuous
+icable on
+ng
+of way.
+de a
+eway.
+vel, with a 4‐
+be used in
+ept regularly
+to pass (200
+stopping
+
+Content
+
+BI
+
+t tailored to Multnom
+CYCLE
+mah County TSP,  Aug
+Bicy
+E CLIM
+
+Source: Jonathan
+gust 2016.
+ycle a
+MBING
+
+n Maus/BikePortla
+and P
+G LANE
+
+and.org
+BPF‐7
+Pedes
+ES
+A bicycle cli
+a roadway
+downhill sid
+when going
+TSP Area
+Bicycle climb
+and should b
+alternative t
+areas.
+Pros
+ Provides
+from mo
+bicyclist
+uphill.
+ The pav
+help ind
+bicycle d
+sides of
+ Require
+than pro
+lane or s
+on both
+Design Co
+ May req
+ Provide
+See war
+ Educate
+ Increase
+ Typical s
+constrai
+constrai
+ Green p
+awarene
+and veh
+Complem
+ Shared l
+ Bicycle P
+ Bike ma
+ Rumble
+7
+strian
+imbing lane c
+in the uphill d
+de.  It allows b
+g uphill witho
+ Applicabi
+bing lanes can
+be considered
+o shoulder bik
+s a space sepa
+otorists for
+ts traveling slow
+vement markin
+dicate proper
+direction on bo
+the street.
+s less right of w
+oviding a bicyc
+shoulder bikew
+ sides of the st
+onsideratio
+quire right‐of‐w
+guidance sign
+rning/advisory
+e drivers on the
+e signage and p
+shoulder bikew
+ined locations.
+ined segments
+pavement mark
+ess in “conflict
+hicle travel path
+mentary St
+lane roadways
+Pullouts
+ap, Wayfinding
+strips
+n Fac
+consists of a b
+direction and
+bicyclists to t
+ut interfering
+lity
+be applied to a
+on designated
+keways in both
+rated
+wer
+gs
+oth
+way
+cle
+way
+treet.
+Cons
+D
+pr
+m
+al
+si
+ons
+way acquisition
+age to alert dr
+signs section.
+e rules of shari
+pavement mar
+way width is 6
+. A minimum 3
+s that are not p
+kings or stripin
+t areas” or inte
+hs cross.
+rategies
+s
+
+ilities
+bicycle lane on
+a shared lan
+ravel at slowe
+g with vehicle
+any roadway in
+ as a lower im
+ directions in c
+s
+oes not provid
+rotection from
+may not be com
+ll users on the
+de.
+n.
+rivers of the sh
+ing the road.
+rkings.
+feet, with 4‐5 f
+3‐foot width ca
+principal arteria
+ng can add visib
+ersections whe
+s
+n one side of
+e on the
+er speeds
+e travel.
+n the study
+pact
+constrained
+de physical
+m vehicles and
+mfortable for
+downhill
+ared road.
+feet in
+n be used on
+als.
+bility and
+ere bicycle
+
+Content
+
+BI
+
+Sou
+
+t tailored to Multnom
+KE MA
+
+urce: FMATS
+mah County TSP,  Aug
+Bicy
+AP
+Bike Map
+gust 2016.
+ycle a
+Por
+and P
+Bik
+as
+def
+TS
+
+
+Pr
+
+
+
+Co
+
+
+
+
+
+
+
+
+tland, OR
+BPF‐8
+Pedes
+ke maps gene
+well as destin
+fined area.
+SP Area Ap
+Bike maps ca
+potential are
+recreational
+to drinking w
+Could be priv
+ros
+Provides valu
+information
+Reduces tres
+Map is porta
+also be avail
+electronically
+omplemen
+Multi‐use pa
+Advisory bike
+Buffered sho
+Paved should
+Shared lane
+Bicycle pullo
+Bicycle climb
+Park‐N‐Ride
+8
+strian
+erally include
+nations and o
+pplicability
+an provide guid
+eas of interest
+activities, bike
+water.
+vately funded
+uable
+to bicyclists.
+spassing.
+able and could
+able
+y.
+ntary Strate
+aths
+e lanes
+oulder bikeway
+der
+roadways
+outs
+bing lanes
+Lots
+n Fac
+the type of b
+other useful in
+dance to infreq
+such as types
+e parking locat
+by bike friendl
+Cons
+ Cost
+upd
+rem
+
+egies
+ys
+ilities
+bicycle facilitie
+nformation w
+quent cyclists r
+and locations
+tions, restroom
+ly businesses.
+t of production
+ates to ensure
+mains relevant.
+s
+es available
+within a
+regarding
+of
+ms, and access
+n and regular
+e information
+
+Content
+
+PE
+
+t tailored to Multnom
+EDEST
+mah County TSP,  Aug
+Bicy
+TRIAN
+
+gust 2016.
+ycle a
+SHOU
+
+SE
+ P
+and P
+ULDER
+
+ Powell Blvd
+Portland, OR
+Fern Street
+Tigard, OR
+BPF‐9
+Pedes
+R
+A pedestria
+on a hard s
+present.
+TSP Area
+Paved should
+but is most s
+pedestrian d
+Pros
+ Provides
+from mo
+ Require
+than a s
+path.
+ More co
+installin
+Design Co
+ A 6‐foot
+pedestri
+Greater
+ Rumble
+and min
+ May req
+Complem
+ Rumble
+
+9
+strian
+an shoulder fa
+urface in rura
+ Applicabi
+ders can be ap
+suited to roadw
+demand.
+s a space sepa
+otorists.
+s less right‐of‐
+eparated mult
+ost‐effective th
+g sidewalks.
+onsideratio
+t width is prefe
+ian travel, with
+widths can be
+strips or profi
+nimize motorist
+quire right‐of‐w
+mentary St
+Strips
+n Fac
+acility provide
+al areas wher
+lity
+pplied to any ro
+ways with low
+rated
+way
+ti‐use
+han
+Cons
+ D
+pr
+m
+al
+ M
+bo
+w
+ Sh
+su
+fa
+bi
+us
+ons
+erred to accom
+h a 4‐foot mini
+e used in highe
+led striping can
+ts encroaching
+way acquisition
+rategies
+ilities
+es access for p
+re sidewalks a
+oadway in the
+volumes but t
+s
+oes not provid
+rotection from
+may not be com
+ll users.
+May be used by
+oth directions
+with pedestrian
+houlders servin
+uch as disabled
+arm equipment
+icyclists and pe
+se travel lanes
+mmodate bicyc
+imum in constr
+r‐speed locatio
+n be used to e
+g on the should
+n.
+s
+pedestrians
+are not
+study area
+hat have
+de physical
+m vehicles and
+mfortable for
+y cyclists in
+and conflict
+s.
+ng other uses,
+d vehicles or
+t may require
+edestrians to
+.
+le and
+rained areas.
+ons.
+nhance safety
+der.
+
+Content
+
+PE
+
+t tailored to Multnom
+EDEST
+mah County TSP,  Aug
+Bicy
+TRIAN
+
+gust 2016.
+ycle a
+ PATH
+
+Sk
+Sk
+and P
+H (SID
+kyline Boulevard
+ Portland, OR
+yline Boulevard
+ Portland, OR
+SW 121
+st
+Ave
+ Tigard, OR
+BPF‐1
+Pedes
+EPATH
+
+A pedestria
+roadway in
+facilities ex
+a multi‐use
+generally d
+TSP Area
+Pedestrian
+the study a
+paths canno
+Pros
+ Provide
+for ped
+from th
+ Require
+than a
+ Lower
+constru
+sidewa
+gutter.
+Design C
+ Typical
+ Pedest
+a grave
+ Should
+ Though
+attract
+Complem
+ Should
+ Bicycle
+ Bicycle
+10
+strian
+H)
+an path is a h
+n lieu of a sid
+xist or bicylist
+e path, pedes
+do not invite
+a Applicab
+paths can be a
+rea where side
+ot be accomm
+es a hard surfa
+destrians buffe
+he roadway.
+es less right‐of
+multi‐use path
+cost than
+uction of a full
+alk with curb an
+
+Considerat
+lly 5‐ to 8‐foot
+trian paths are
+el or vegetated
+d follow ADA st
+h not intended
+t bicyclists if a s
+mentary St
+der Bikeways
+e Pullouts
+e Climbing Lane
+n Fac
+hard‐surface p
+dewalk in area
+ts share the r
+strian paths a
+bicycle travel
+ility
+applied to any
+ewalks are not
+odated.
+ace
+ered
+f‐way
+h.
+nd
+Cons
+ M
+cr
+co
+pe
+ Re
+tions
+wide asphalt s
+typically sepa
+d buffer instead
+tandards to allo
+d for bicyclists,
+separate bicyc
+trategies
+es
+ilities
+path adjacen
+as where othe
+roadway. Whi
+are narrower
+l.
+constrained ro
+t present and m
+s
+May also attract
+reating the pot
+onflicts betwee
+edestrians and
+equires right‐o
+surface.
+rated from the
+d of a curb and
+ow for univers
+pedestrian pa
+le facility is no
+s
+t to the
+er bicycle
+ile similar to
+in width and
+oadways in
+multi‐use
+t bicyclists,
+tential for
+en
+d bicyclists.
+of‐way.
+e roadway by
+d gutter.
+sal access.
+ths may
+ot provided.
+
+Content
+
+GR
+
+t tailored to Multnom
+RAVEL
+mah County TSP,  Aug
+Bicy
+L SHO
+
+gust 2016.
+ycle a
+ULDE
+
+and P
+R
+
+KAI
+ Carlton, OR
+BPF‐1
+Pedes
+A gravel sho
+walk on a s
+in areas wh
+TSP Area
+Gravel shoul
+They are mo
+that have pe
+Pros
+ Provides
+from mo
+ Require
+than a s
+path.
+ More co
+installin
+pedestr
+i
+Design Co
+ A 6‐foot
+with a 4
+can be u
+ Rumble
+and min
+ May req
+Complem
+ Rumble
+
+11
+strian
+oulder facility
+oft surface, w
+here sidewalk
+ Applicabi
+lders can be ap
+ost suited to ro
+edestrian dema
+s a space sepa
+otorists.
+s less right‐of‐
+eparated mult
+ost‐effective th
+g sidewalks or
+ian shoulders.
+onsideratio
+t width is prefe
+4‐foot minimum
+used in higher‐
+strips or profi
+nimize motorist
+quire right‐of‐w
+mentary St
+Strips
+n Fac
+y can provide
+with some sep
+ks are not pres
+lity
+pplied to any ro
+oadways with lo
+and.
+rated
+way
+ti‐use
+han
+r
+Cons
+ D
+pr
+ N
+w
+su
+bi
+ Sh
+su
+pa
+m
+us
+ons
+erred to accom
+m in constraine
+‐speed location
+led striping can
+ts encroaching
+way acquisition
+rategies
+ilities
+e space for a p
+paration from
+sent.
+oadway in the
+ow vehicle volu
+s
+oes not provid
+rotection from
+ot accessable f
+with disabilities
+uitable for stro
+icycles.
+houlders servin
+uch as disabled
+arking, or farm
+may require ped
+se travel lanes
+mmodate pede
+ed areas. Great
+ns.
+n be used to e
+g on the should
+n.
+s
+pedestrian to
+m motorists,
+study area.
+umes but
+de physical
+m vehicles.
+for people
+ and not
+ollers or
+ng other uses,
+d vehicles,
+m equipment
+destrians to
+.
+strian travel,
+ter widths
+nhance safety
+der.
+
+Content
+
+RU
+
+t tailored to Multnom
+UMBL
+http://brisbanec
+mah County TSP,  Aug
+E STR
+ca.blogspot.com/2
+gust 2016.
+IPS
+A
+Libs
+Brisb
+2008_12_01_arch
+Saf
+
+R
+c
+t
+a
+c
+o
+T
+D
+c
+s
+a
+i
+P
+
+
+
+D
+
+
+
+Austin, TX
+son, MD
+bane, CA
+ive.html
+SA‐1
+fety
+Rumble strips
+cause drivers
+to slow down
+across the roa
+centerline. Ru
+other traffic c
+TSP Area A
+During the pas
+crashes in Mult
+strips could be
+alerting drivers
+ntended for us
+Pros
+ Low cost.
+ Speed red
+increase in
+ Increased
+pedestrian
+the should
+adequate.
+
+Design Con
+ All road us
+Bicycles ne
+to use the
+ There are
+application
+appropriat
+ May not b
+
+Complem
+ Shoulde
+ Bicycle
+ Pedestr
+y Tre
+s are paveme
+to experience
+n. Rumble strip
+adway or gro
+umble strips a
+calming treat
+Applicabilit
+st five years, m
+tnomah Count
+e effective at re
+s that they are
+se.
+uction and
+n driver aware
+sense of safet
+ns and bicyclist
+der width is
+
+nsideration
+sers need to be
+eed particular
+ roadway or sh
+a variety of ty
+n should be co
+te design.
+be suitable in a
+mentary St
+er Bikeways
+Climing Lanes
+rian Shoulder
+atm
+nt surface tre
+e vehicular vi
+ps can be rais
+ooves along th
+are best used
+tments.
+ty
+more than 50 pe
+ty were single
+educing these t
+e entering a pa
+ness.
+y for
+ts if
+Cons
+ V
+be
+re
+ Im
+co
+ag
+ Po
+pa
+ba
+an
+ns
+e considered a
+attention, esp
+houlders.
+pes of rumble
+onsidered to de
+reas with signi
+trategies
+ments
+eatments inte
+ibrations sign
+sed pavemen
+he shoulder o
+in conjunctio
+ercent of the r
+vehicle crashe
+types of crashe
+rt of the roadw
+s
+ibration noise
+e inappropriat
+esidential area
+mpact the com
+ontrol of bicyc
+gricultural equ
+otential impac
+avement deter
+ased on pavem
+nd placement.
+and accommod
+pecially if they a
+strips, so the s
+etermine the m
+ificant agricult
+s
+ended to
+naling them
+t markers
+or
+on with
+eported
+s. Rumble
+es by
+way not
+created may
+e in
+s.
+fort and
+lists and
+uipment.
+cts on
+rioration
+ment quality
+dated.
+are expected
+site
+most
+ural activity.
+
+Content
+
+IN
+
+t tailored to Multnom
+NCREA
+mah County TSP,  Aug
+ASED S
+
+gust 2016.
+SHOUL
+
+Saf
+LDER W
+A
+Boise, ID
+ Tucson, AZ
+SA‐2
+fety
+WIDT
+A wide should
+cyclists and p
+driver inatten
+emergency si
+slow moving
+TSP Area A
+During the pas
+in Multnomah
+shoulders cou
+providing spac
+Germantown R
+Gillihan Road
+Pros
+ Provides d
+opportun
+departing
+their vehi
+ Wider sho
+pedestria
+other faci
+ Widening
+allow for s
+ As a curre
+standard,
+equipmen
+available.
+Design Co
+ Adequate
+ On Sauvie
+construct
+Compleme
+ Curve imp
+ Rumble St
+
+y Tre
+H
+der can be us
+pedestrians, a
+ntiveness, ass
+ituations, and
+vehicles such
+Applicabilit
+st five years, m
+h County were
+ld be effective
+ce for recovery
+Road, Skyline B
+drivers more
+ity to recover b
+g the roadway o
+cle to a contro
+oulders may be
+n and bicyclist
+lities are not p
+g the shoulder c
+shoulder rumb
+ent Multnomah
+knowledge an
+nt for maintena
+nsideratio
+e right‐of‐way i
+e Island, levee
+ion.
+entary Stra
+provements
+trips
+atm
+sed to provide
+assist with veh
+sist with incid
+d provide spa
+h as farm equ
+ty
+more than 50 p
+single vehicle
+e at reducing th
+y along more n
+Boulevard, Ree
+before
+or slow
+olled stop.
+e used by
+s when
+present.
+could
+ble strips.
+h County
+nd
+ance is
+C
+
+
+
+ns
+is necessary.
+restrictions ma
+ategies
+ments
+e a separated
+hicular recove
+dent response
+ace for motori
+uipment.
+ercent of the r
+crashes. Wide
+hese types of c
+narrow roads, e
+eder Road, Sau
+Cons
+Additional r
+be required
+Potential im
+crossings an
+character.
+Potential in
+speed due t
+cross‐sectio
+ay alter design
+s
+d space for
+ery during
+e and
+ists to bypass
+reported crash
+ning the
+crashes by
+especially
+uvie Island Roa
+right‐of‐way m
+d.
+mpacts to wildl
+nd rural
+ncrease in vehi
+to wider street
+on.
+n or prohibit
+
+es
+d,
+may
+ife
+cle
+t
+
+Content
+
+CU
+
+t tailored to Multnom
+URVE
+mah County TSP,  Aug
+IMPR
+
+gust 2016.
+ROVEM
+
+ Source: M
+Saf
+MENTS
+MUTCD
+MUTCD
+KAI
+SA‐3
+fety
+S
+Curve impro
+to inform th
+curves. Trea
+warning sig
+and illumin
+TSP Area
+Curve impro
+roads in Mul
+drivers of the
+crashes in M
+Providing cu
+reduce crash
+Pass Road, G
+Pros
+ Provides
+notificat
+location
+of poten
+curves.
+ May hel
+crashes
+Complem
+ Increase
+y Tre
+ovements inc
+he driver of th
+atments inclu
+gns, decrease
+ation.
+ Applicabi
+ovements can b
+ltnomah Count
+e impending c
+Multnomah Cou
+rve warning si
+hes along coun
+Germantown R
+s advanced
+tion to road us
+n and character
+ntially unexpec
+lp to decrease
+on curves.
+mentary St
+ed shoulder wi
+atm
+clude a variety
+he presence a
+ude, but are n
+d speed signs
+lity
+be applied cou
+ty are winding
+urves. In addit
+unty occur on o
+gns and deline
+nty roadways.,
+Road, Gillihan R
+sers of
+ristics
+cted
+Con
+ C
+ R
+a
+rategies
+dth
+ments
+y of treatmen
+and character
+not limited to,
+s, curve deline
+nty‐wide. Man
+g with limited w
+tion, many of t
+or around road
+eation posts m
+especially alon
+Road, and Luste
+ns
+Contributes to
+Requires addit
+and maintenan
+s
+nts that help
+ristics of
+, curve
+eation posts,
+ny of the rural
+warning to
+he reported
+dway curves.
+ay help to
+ng Cornealius
+ed Road.
+sign clutter.
+ional cost
+nce
+
+Content
+
+R
+
+t tailored to Multnom
+URAL
+mah County TSP,  Aug
+INTER
+
+gust 2016.
+RSECT
+Anchorag
+Saf
+TION I
+
+Inte
+mod
+incl
+cha
+mar
+roa
+TSP
+Man
+ben
+and
+to p
+
+Pro
+
+
+Co
+
+
+
+ge, AK
+SA‐4
+fety
+MPRO
+ersection imp
+des efficiently
+lude, but are n
+anging the sto
+rked or active
+dway illumina
+P Area App
+ny locations in
+efit from inter
+ efficiently on
+provide recomm
+os
+Lighting incre
+visibility of ro
+animals and s
+roadway user
+Possible impr
+the intersecti
+mplement
+Shoulder wide
+Rumble strips
+Wayfinding si
+y Tre
+OVEM
+rovements in
+y and safely t
+not limited to
+op‐controlled
+e crossing tre
+ation.
+plicability
+the West Hills
+rsection improv
+the roadway s
+mendations on
+eases night‐tim
+oadway users a
+sense of securi
+rs.
+roved operatio
+on.
+tary Strate
+ening
+s
+ignage
+atm
+ENTS
+nclude a varie
+travel through
+o changing in
+approaches,
+atments, and
+s, Sauvie Island
+vements that h
+system. More i
+n specific treat
+me
+and
+ty for all
+ns of
+Co
+
+
+
+gies
+ments
+ty of treatme
+h intersection
+tersection co
+adding turn l
+d providing ad
+d, and East Cou
+help all modes
+n depth analys
+ments to the i
+ons
+Cost of desig
+construction
+Potential rig
+acquisition.
+Increased m
+costs with sig
+illumination
+s
+ents to help al
+ns. Treatment
+ntrol type or
+lanes, adding
+dequate
+unty would
+s move safely
+sis is necessary
+ntersections.
+gn and
+n.
+ht‐of‐way
+aintenance
+gnals and
+
+ll
+ts
+g
+y
+
+Content
+
+RA
+
+Sourc
+ Sour
+t tailored to Multnom
+AILRO
+
+ce: www.iqtraffico
+rce: urbanpostmor
+mah County TSP, Aug
+OAD CR
+ontrol.com
+rtem.wordpress.co
+gust 2016.
+ROSSIN
+om
+Saf
+NG IM
+
+Railroa
+locatio
+active
+the app
+arms).
+but pro
+Desig
+For priv
+the cro
+and a c
+in Oreg
+Oregon
+federal
+directio
+new cro
+Upgrad
+$200,00
+owners
+fees  to
+require
+When
+and  the
+The roa
+inch  ris
+standar
+approa
+TSP A
+There a
+and the
+to get p
+crossing
+public o
+with fla
+Pros
+ Pro
+com
+bic
+cro
+Comp
+ Wa
+SA‐5
+fety
+MPROV
+ad crossings c
+on of a crossin
+control (devic
+proach or pre
+Active crossi
+ovide increase
+gn Conside
+vate railroad c
+ssing from pas
+contract betwe
+gon (generally
+n Department
+  mandate  to
+on has resulted
+ossing is const
+ding  crossings
+00 ‐ $500,000.
+s to pay $5,00
+o  compensate
+ed over the life
+railroad  crossi
+e  road  bed  ty
+ad grade at the
+se  or  fall  wit
+rds. This can re
+ches to the cro
+Area Applic
+are several pas
+e Historic Colum
+permission to u
+g upgrades wil
+or private cros
+at crossings wit
+ovide active co
+mmunicates to
+cyclists the nee
+ossing.
+plementary
+arning/advisor
+y Tre
+VEMEN
+can have pass
+ng such as cro
+ces that mark
+esence of a tr
+ings are relati
+ed safety com
+erations
+crossings (thos
+ssive control to
+een the prope
+those at a cro
+of Transportat
+o  consolidate
+d in a requirem
+ructed or an e
+to  active  co
+. In addition, r
+0 ‐  $10,000 pe
+e  for  addition
+e of the crossin
+ings  are  upgra
+ypically  also  re
+e crossing mus
+thin  30  feet
+esult in the nee
+ossing.
+cability
+ssive railroad c
+mbia River Hig
+upgrade crossi
+ll require a pla
+sings. The best
+th good visual
+ontrol and effe
+o vehicles, ped
+ed to stop at th
+y Strategie
+ry signs
+atm
+NTS
+sive control (d
+oss‐bucks and
+k the location
+rain such as fl
+ively expensiv
+mpared to a p
+se at a drivewa
+o active contro
+rty owner and
+ossing of a pub
+tion (ODOT). O
+at‐grade  rail
+ment to close o
+xisting crossing
+ntrol  in  rural
+railroad compa
+er year per cro
+nal  weekly  in
+g.
+aded  to  active
+equire  reconst
+st have no mo
+of  either  side
+ed to re‐grade
+rossings in the
+ghway. Private
+ngs from the r
+n to consolida
+t candidates fo
+clearance.
+ctively
+destrians, and
+he railroad
+es
+ments
+devices that m
+d yield or stop
+n of a crossing
+lashing lights
+ve to install a
+passive crossin
+ay or private r
+ol requires rail
+d the railroad.
+blic road) are r
+ODOT’s Rail Di
+lroad  crossing
+one or more c
+g is upgraded.
+areas  typical
+anies typically
+ossing in annu
+nspections  an
+e  crossings  the
+truction  to  cur
+re than approx
+e  of  the  trac
+e the roadway
+e study area alo
+property own
+railroad; howev
+te and close o
+or crossing upg
+Cons
+ Costly
+require
+other c
+
+s
+mark the
+p signs) or
+g and indicate
+and gate
+and maintain
+ng.
+road), improvin
+road permissio
+Public crossing
+regulated by th
+ivision follows
+gs.  The  feder
+rossings when
+
+lly  ranges  fro
+require crossin
+ual maintenanc
+d  maintenanc
+e  railroad  trac
+rrent  standard
+ximately a thre
+ks  per  nation
+or railroad trac
+ong Highway 3
+ers may be ab
+ver, public
+ne to two othe
+grades are thos
+and likely to
+e closure of
+crossings.
+
+e
+ng
+on
+gs
+he
+a
+ral
+ a
+m
+ng
+ce
+ce
+ks
+ds.
+ee
+al
+ck
+0
+le
+er
+se
+
+Content
+
+W
+
+t tailored to Multnom
+Sign
+WAYFIN
+
+Sou
+mah County TSP,  Aug
+nage
+NDING
+
+urce: Andy Daleide
+gust 2016.
+e an
+G SIGN
+
+en, KAI
+d Sig
+NAGE
+Sig
+dis
+can
+pa
+TS
+Pro
+int
+des
+Pr
+
+De
+
+Co
+
+
+
+
+SI‐1
+gnal
+gnage indicat
+stance to poin
+n also be use
+arking, etc.
+SP Area Ap
+ovide guidance
+erest such as t
+stinations.
+ros
+Encourages w
+biking by pro
+information
+attractions.
+esign Cons
+Place in key
+omplemen
+Multi‐use pa
+Bike lanes
+Pedestrian p
+Bike map
+ Tre
+ting to bicyclis
+nts of interest
+d to inform d
+pplicability
+e to motorized
+types and locat
+walking and
+oviding access
+to major
+siderations
+locations/deci
+ntary Strate
+aths
+paths
+atm
+sts and pedes
+t along a corr
+drivers of key
+ and non‐moto
+tion of recreat
+Cons
+ Add
+mai
+ Pote
+s
+ision points suc
+egies
+ments
+strians the dir
+ridor. Wayfind
+recreational d
+orized users to
+tion, parking, a
+ditional cost an
+ntenance.
+ential for sign c
+ch as intersect
+s
+rection and
+ding signs
+destinations,
+o areas of
+and other key
+nd
+clutter.
+tions.
+
+Content
+
+W
+
+t tailored to Multnom
+Sign
+WARNI
+
+http
+mah County TSP,  Aug
+nage
+ING/A
+p://msue.anr.msu.
+gust 2016.
+e an
+ADVISO
+
+KAI
+edu/
+d Sig
+ORY S
+
+Sig
+con
+TS
+Sig
+sha
+roa
+roa
+vis
+Pr
+
+
+Co
+
+
+SI‐2
+gnal
+IGNS
+gnage providi
+nditions for a
+SP Area Ap
+gns can be used
+aring the road,
+adway curvatu
+adways that re
+ibilities of road
+ros
+Provides adv
+notification t
+unexpected
+pedestrians
+roadway, cu
+Creates mor
+motorists of
+and to look f
+omplemen
+Curve impro
+Shared lane
+ Tre
+ing guidance
+all users of the
+pplicability
+d on county ro
+, locations of fr
+ure. Signage ma
+emain “shared
+dway curvatur
+vanced
+to road users o
+conditions; i.e
+entering the
+rves, etc.
+re awareness b
+the shared us
+for bicyclists.
+ntary Strate
+ovements
+roadways
+atm
+or warning a
+e roadway.
+oadways to info
+requent pedes
+ay be particula
+use” as well as
+e and upcomin
+of
+e.
+by
+e
+Cons
+ Con
+ Add
+mai
+egies
+ments
+about unexpec
+orm motorists
+strian crossings
+arly helpful alo
+s areas with lim
+ng intersection
+ntributes to sig
+ditional cost an
+ntenance.
+s
+cted
+of bicycles
+s, and
+ng those
+mited
+ns.
+n clutter.
+nd
+
+Content
+
+SP
+
+t tailored to Multnom
+Sign
+PEED
+
+mah County TSP,  Aug
+nage
+LIMIT
+
+gust 2016.
+e an
+T SIGN
+
+K
+d Sig
+S
+
+Sig
+the
+TS
+Spe
+rur
+Pr
+
+
+Co
+
+KAI
+SI‐3
+gnal
+gnage providi
+e roadway.
+SP Area Ap
+eed limit signs
+ral Multnomah
+ros
+Alerts the dr
+appropriate
+Informs pede
+bicyclists abo
+suitability of
+their comfor
+
+omplemen
+Shoulder bik
+ Tre
+ing guidance
+pplicability
+ can be applied
+h County, inclu
+river to speeds
+for the roadw
+estrians and
+out the
+f the road for
+rt level.
+ntary Strate
+keways and sha
+atm
+on appropria
+d at any un‐sig
+ding Gillihan R
+s
+ay.
+Cons
+ Con
+ Add
+mai
+egies
+ared lane road
+ments
+ate speeds for
+gned roadways
+Road.
+ntributes to sig
+ditional cost an
+ntenance.
+ways
+s
+r traveling
+s throughout
+n clutter.
+nd
+
+Content
+
+SI
+
+t tailored to Multnom
+Sign
+IGNAL
+
+mah County TSP,  Aug
+nage
+L CON
+
+gust 2016.
+e an
+TROL
+
+d Sig
+LER/T
+
+A t
+a g
+diff
+an
+TS
+The
+im
+exi
+30
+cl
+o
+a n
+
+Pr
+
+
+Co
+
+
+SI‐4
+gnal
+TIMING
+traffic signal c
+given traffic s
+fferent times
+d special eve
+SP Area Ap
+ere are opport
+prove/install s
+isting controlle
+is programme
+ock that contro
+newer version c
+ros
+Effective mo
+vehicles thro
+intersection.
+Better efficie
+congestion w
+safety benef
+
+omplemen
+Event permit
+Event‐based
+ Tre
+G PLA
+controller run
+signal. Variou
+of day (e.g. p
+nts.
+pplicability
+tunities to at in
+signal controlle
+er at the inters
+ed but operatio
+ols the timing p
+could provide
+ovement of
+ough an
+.
+ency reduces
+which can lead
+fits.
+ntary Strate
+t calendar
+ TDM plans
+atm
+ANS
+ns the signal t
+us timing plan
+peak and off p
+ntersections th
+ers or timing pl
+section of Sauv
+on has degrade
+plans is faulty.
+more effective
+ to
+Cons
+ Con
+expe
+egies
+ments
+timing and ph
+ns can be used
+peak hour), tim
+hroughout the
+lans. In particu
+vie Island Road
+ed with age. Th
+Upgrading the
+e signal operat
+ntroller upgrad
+ensive.
+s
+hase plan for
+d for
+me of years,
+County to
+ular, the
+ and Highway
+he internal
+e controller to
+tions.
+es can be
+
+Content
+
+Tr
+U
+
+t tailored to Multnom
+ransp
+SER‐G
+mah County TSP,  Aug
+porta
+GENER
+
+gust 2016.
+ation
+RATED
+Portland, OR
+Portland, OR
+ Dem
+D PARK
+
+User‐g
+event
+parkin
+users
+strate
+gener
+can re
+TSP A
+This st
+phone
+locatio
+ V
+be
+th
+ Pr
+av
+ B
+vi
+Pros
+ Ca
+tr
+av
+ Af
+ap
+si
+a
+d
+in
+Desi
+ Si
+ A
+c
+o
+on
+Com
+ Pa
+ Pa
+D‐1
+mand
+KING I
+generated pa
+t participants
+ng availability
+through “app
+egy has been
+rated traffic in
+eport incident
+Area Appli
+trategy could b
+e app and corre
+ons in the coun
+isitors arriving
+eaches and Go
+he app and rep
+rovide users tr
+vailability and
+usiness owner
+sitors to come
+s
+an help avoid u
+rips when no p
+vailable.
+fter the develo
+pp and installa
+gnage, does no
+dditional staffi
+nvestment.
+gn Conside
+ignage should
+pp could be de
+onsistent users
+n permits.
+mplementa
+arking permit p
+ark‐N‐Ride lots
+d Man
+INFOR
+arking inform
+with informa
+y. This inform
+ps” and other
+implemented
+nformation b
+ts or other te
+icability
+be implemente
+esponding inst
+nty. These sign
+ at popular loc
+orge area touri
+port on the cur
+raveling to the
+traffic congest
+rs and event or
+e later or park a
+unnecessary
+arking is
+opment of the
+ation of the
+ot require
+ng or
+erations
+be visible and
+esigned with a
+s that report p
+ry Strategi
+pricing
+s
+nage
+RMAT
+ation would p
+ation about p
+mation is “sha
+r electronic m
+d successfully
+by apps such a
+mporary issu
+ed through the
+tallation of rea
+ns could be use
+cations, such a
+st areas, are e
+rrent availabilit
+county with in
+tion.
+rganizers that c
+at alternate lo
+Cons
+ Relies o
+informa
+inconsi
+update
+ Limite
+d
+parts of
+Only us
+and cel
+easy to unders
+“points” syste
+arking informa
+ies
+men
+TION
+provide visito
+ublic or priva
+ared” amongs
+means. This ty
+for real‐time
+as Waze, whe
+ues affecting t
+e development
+l‐time signage
+eful to:
+s the Sauvie Is
+ncouraged to l
+ty of parking.
+nformation abo
+can advise pot
+cations.
+on users to gen
+ation, which m
+stent or infreq
+s.
+d cell phone co
+f Multnomah C
+sers with smart
+l service can a
+stand
+em and reward
+ation, such as d
+t
+ors and/or
+ately‐held
+st system
+ype of
+e user‐
+ere users
+traffic.
+t of a smart‐
+ at key
+land
+log‐in to
+out parking
+ential
+nerate
+may result in
+quent
+overage in
+County.
+tphones
+ccess.
+ds for
+discounts
+
+Content
+
+Tr
+R
+
+t tailored to Multnom
+ransp
+EAL‐T
+mah County TSP,  Aug
+porta
+IME P
+
+gust 2016.
+ation
+PARKIN
+ Dem
+NG IN
+Real‐tim
+letting v
+Digital d
+automa
+possible
+informa
+of parki
+parking
+TSP Ar
+Due to t
+recreatio
+detectio
+impleme
+ Info
+visit
+easy
+ On S
+atte
+Crac
+show
+ In ca
+cou
+ Vide
+com
+adva
+Pros
+ Can
+whe
+ Prov
+prov
+Design
+ Sign
+be p
+ente
+Comp
+ Park
+ Park
+D‐2
+mand
+FORM
+me parking inf
+visitors know
+displays are f
+ated counting
+e that rely upo
+ation is provid
+ing sensors or
+g availability t
+rea Applica
+he predomina
+onal areas thro
+on or sensor on
+ented through
+ormational map
+tors and touris
+y “real‐time” in
+Sauvie Island, o
+endants, or vol
+cker Barrel sto
+wn on the map
+ases where po
+ld suggest alte
+eo cameras co
+mplementary d
+ance informati
+help avoid unn
+en no parking is
+vides a low‐tech
+vide informatio
+n Consider
+nage with infor
+positioned so t
+ering Sauvie Is
+lementary
+king permit Pri
+k‐N‐Ride lots
+d Man
+MATIO
+formation ca
+when and wh
+frequently use
+g or sensing is
+on a person t
+ded by a desig
+r video, rathe
+to other users
+ability
+nce of gravele
+oughout the Co
+n most parking
+lower‐tech me
+ps of all parkin
+ts, with variou
+nformation com
+on the busiest
+unteers at bus
+re, where info
+p would be pos
+opular parking
+ernate parking
+uld be installed
+isplays posted
+ion areas, and
+necessary trips
+s available.
+h way to
+on to all visitors
+rations
+rmation about
+that it is easily
+land.
+y Strategies
+icing
+nage
+ON
+n help avoid
+here parking
+ed in parking
+s installed. Lo
+to update the
+gnated staff p
+er than relying
+s.
+d parking on S
+ounty, it is not
+ locations. Inst
+ethods such as
+ng locations can
+us locations nu
+mmunication
+ weekends, pa
+sy locations co
+ormation about
+sted for visitor
+locations are f
+locations.
+d at key parkin
+ near the entra
+online.
+Cons
+ May re
+people
+and a d
+camer
+ Video
+concer
+parking locatio
+understood an
+s
+men
+unnecessary
+is already ful
+garages, whe
+wer‐tech opti
+e sign messag
+person or thro
+g on users to
+auvie Island an
+ currently feas
+tead, this strat
+s:
+n be readily av
+mbered or col
+atrol officers, O
+uld relay inform
+t the parking lo
+rs arriving to th
+full, an informa
+ng areas with
+ance to the Isla
+equire manual u
+e at the location
+display board, u
+as are installed
+cameras may r
+rns
+ons and availa
+nd visible to vis
+t
+trips by
+lly occupied.
+ere
+ions are also
+ge. This
+ough the use
+report
+nd other
+sible to install
+tegy could be
+vailable for
+or‐coded for
+ODF&W, paid
+mation to the
+ocations
+he Island.
+ation board
+and, other
+updates from
+ns of parking
+unless video
+d.
+aise privacy
+bility should
+sitors
+
+Content
+
+Tr
+O
+
+t tailored to Multnom
+ransp
+PTIM
+mah County TSP,  Aug
+porta
+IZE PA
+
+Photo: Statesm
+gust 2016.
+ation
+ARKIN
+
+an Journal, Sauvie
+ Dem
+G PER
+Pricing pa
+Requiring
+carpool o
+TSP Are
+Visitors to
+hourly par
+daily perm
+$22. Perm
+recreation
+considerat
+ Permit
+times,
+times,
+with t
+ Annua
+permit
+ Requir
+Sauvie
+only p
+ Additi
+locati
+o
+Pros
+ Can ge
+as long
+admin
+not su
+ Is dem
+help m
+since p
+sensit
+Design C
+ Any in
+accom
+be use
+of the
+increa
+Comple
+ Park‐N
+e Island, OR
+D‐3
+mand
+RMIT P
+arking is a po
+g payment fo
+or use other m
+ea Applicab
+specifc locatio
+king.  For exam
+mit to park in w
+iting could also
+areas includin
+tion include:
+t pricing could
+, such as prime
+, such as week
+he amount of v
+al permit costs
+ts, with winter
+ring permits fo
+e Island. Reside
+permit administ
+onal fees for p
+ons, such as th
+enerate revenu
+g as
+nistrative costs
+ubstantial.
+monstrated to
+manage deman
+people are pric
+ive.
+Considerat
+ncreases or cha
+mpanied by an
+ed.  In example
+parking reven
+ased costs.
+ementary S
+N‐Ride lots
+d Man
+PRICIN
+owerful tool f
+or parking can
+modes.
+bility
+ons within Mul
+mple, Sauvie Is
+ildlife areas on
+o be considere
+ng in the Gorge
+ be implement
+e weekends, an
+days or winte
+visitors.
+ could be incre
+r season having
+or all vehicles e
+ent parking cou
+tration.
+parking could b
+he beaches.
+ue
+s are
+nd,
+ce‐
+Cons
+ Ma
+bus
+all v
+per
+des
+are
+Isla
+ Cos
+tions
+anges to the pr
+explanation of
+es where peop
+nue, they are m
+Strategies
+nage
+NG
+for managin
+n influence t
+tnomah Count
+land visitors cu
+n the island, an
+ed for additiona
+e. Additional st
+ted or increase
+nd decreased d
+r months, to h
+eased or split i
+g a much lowe
+entering high‐d
+uld be free or a
+be collected in
+ay be perceived
+siness by some
+visitors are req
+rmits. Today, o
+siring to use a
+e required to b
+and.
+st of enforcem
+ricing structure
+f where the ad
+ple are able to s
+much more like
+men
+g demand.
+travelers’ cho
+ty pay for daily
+urrently pay $7
+ndannual perm
+al tourist and
+trategies for
+ed during high‐
+during lower‐tr
+elp address co
+nto two “seaso
+er cost.
+demand areas,
+at a low cost c
+popular or con
+d as unfair or b
+e county busine
+quired to obtai
+only those visit
+public parking
+uy permits for
+ment.
+e could be
+ditional reven
+see the local b
+ely to support t
+t
+oice to
+y or
+7 for a
+mits cost
+‐traffic
+raffic
+oncerns
+on”
+ such as
+overing
+ngested
+bad for
+esses if
+in
+ors
+facility
+Sauvie
+ue will
+enefit
+the
+
+Content
+
+Tr
+PA
+
+t tailored to Multnom
+ransp
+ARKIN
+mah County TSP,  Aug
+porta
+NG EN
+
+gust 2016.
+ation
+FORC
+
+P
+ Dem
+EMEN
+Photo: BlogTO
+D‐4
+mand
+NT
+Regular enf
+improve co
+improper p
+options.
+TSP Area
+Enforcement
+ticketing on
+trailhead par
+Communicat
+visitors to fo
+Depending o
+specific time
+investment.
+Pros
+ Provides
+incentiv
+on parki
+people f
+ Can gen
+revenue
+Complem
+ Parking
+ Park‐N‐R
+d Man
+forcement of
+ompliance. If
+parking, they
+ Applicabi
+t officers could
+peak weekend
+rking areas or
+tion about the
+ollow parking re
+on results, enfo
+es or days to m
+s an economic
+ve to follow the
+ing locations b
+for breaking th
+nerate addition
+e.
+mentary St
+Information
+Ride lots
+nage
+f existing par
+f people expe
+y are more lik
+lity
+d increase the
+ds during the s
+in areas not de
+ increased enf
+egulations bef
+orcement effor
+minimize the ad
+c
+e rules
+by fining
+hem.
+nal
+Co
+
+
+rategies
+men
+rking regulat
+ect to receive
+kely to seek o
+amount of pat
+ummer in wild
+esignated for p
+forcement cou
+fore getting tic
+rts could be lim
+dditional staffin
+ns
+Requires park
+enforcement
+May raise con
+visitors or res
+have been acc
+more relaxed
+enforcement.
+t
+tions can
+ a ticket for
+other
+trolling and
+dlife or
+parking.
+ld motivate
+kets.
+mited to
+ng
+king
+staff.
+ncerns from
+sidents that
+customed to
+parking
+.
+
+Content
+
+Tr
+PA
+
+t tailored to Multnom
+ransp
+ARK‐N
+mah County TSP,  Aug
+porta
+N‐RIDE
+
+Portland, OR
+Photo: Statesm
+gust 2016.
+ation
+E LOTS
+
+R, Google Earth
+an Journal, Sauvie
+ Dem
+S
+
+Park‐n‐r
+transferr
+person, b
+TSP Are
+Due to hig
+increased
+addition o
+along Hig
+shared pa
+primarily
+ Beac
+touri
+locat
+ Bicyc
+on H
+ Provi
+traffi
+
+Pros
+ Facili
+carpo
+reduc
+on th
+touri
+ Can m
+utiliz
+that
+a
+prima
+week
+Design
+ Signa
+need
+they
+Comple
+ Shutt
+ Parki
+ Even
+e Island, OR
+D‐5
+mand
+ride lots offer
+ring to a diff
+bicycling, or
+ea Applica
+gh visitor dem
+d Gorge tourism
+of a park‐n‐ride
+hway 30 south
+arking could be
+during the we
+h‐goers and Go
+st and recreati
+ions.
+clists to leave t
+ighway 30 or n
+ision of shuttle
+c weekends.
+itates use of
+ooling and can
+ce need for pa
+he island and a
+st destinations
+more effective
+e parking spac
+are normally u
+arily during the
+k.
+ Considera
+age and online
+d to be promine
+can use it.
+ementary
+tle service
+ng pricing
+t TDM strategi
+d Man
+r people a pla
+ferent mode,
+taking trans
+bility
+and during pea
+m, several area
+e service. An o
+h of Sauvie Isla
+e established fo
+eek. This could
+orge visitors to
+ional areas, lea
+heir cars and r
+near the HCRH
+e service from
+
+arking
+t key
+s.
+ly
+ces
+used
+e
+Con
+ W
+e
+ M
+a
+d
+r
+ M
+a
+ations
+information to
+ent to ensure t
+Strategies
+ies
+nage
+ace to park t
+such as carp
+it.
+ak seasons on
+as in the Count
+off‐island park‐
+and in an indus
+or existing priv
+enable:
+o form carpool
+aving other ve
+ride their bicyc
+.
+the park‐n‐ride
+ns
+Would need to
+existing parking
+More distant p
+appeal to bicyc
+destination is n
+riders.
+May raise liabil
+arrangements o
+o promote the
+that visitors kn
+men
+their cars whe
+pooling with
+Sauvie Island a
+ty could benef
+‐n‐ride could b
+strial area. Part
+vate parking th
+ls to go to the
+hicles at the pa
+cles from parki
+es during even
+o negotiate pub
+g locations.
+ark‐n‐ride lots
+clists if bike rou
+not comfortabl
+lity issues for p
+on private pro
+e park‐n‐ride lo
+now its location
+t
+en
+another
+and
+it from the
+e located
+tnerships for
+hat is used
+island or key
+ark‐n‐ride
+ng locations
+nts or high‐
+blic access to
+ may not
+ute to the
+e for many
+parking
+perties.
+ot would
+n and that
+
+Content
+
+Tr
+SH
+
+t tailored to Multnom
+ransp
+HUTTL
+mah County TSP,  Aug
+porta
+LE SER
+
+gust 2016.
+ation
+RVICE
+
+P
+ Dem
+Portland, OR
+D‐6
+mand
+A shuttle ci
+county loca
+summer.
+TSP Area
+A service for
+circulator du
+and then tra
+this shuttle c
+beach during
+chartered fo
+serve specia
+to and from
+Pros
+ Could pr
+to drivin
+Sauvie Is
+tourist d
+ If effect
+allow fo
+fewer tr
+impacts
+Design Co
+ Signage
+would n
+location
+Complem
+ Parking
+ Event pe
+ Park‐n‐r
+d Man
+irculator serv
+ations during
+ Applicabi
+r Sauvie Island
+uring peak wee
+avel in the shut
+could run betw
+g the peak sum
+or particular ev
+l event visitors
+off‐island park
+rovide an alter
+ng and parking
+sland and othe
+destinations.
+ively utilized, c
+or more visitors
+raffic and parki
+.
+onsideratio
+and online inf
+need to be prom
+n and how they
+mentary St
+pricing
+ermits / calend
+ride lots
+nage
+vice could pro
+g peak weeke
+lity
+or the Gorge c
+ekend days, all
+ttle to popular
+ween the Crack
+mmer days. In a
+vent weekends
+s. In these case
+k‐n‐ride locatio
+rnative
+g on
+er key
+could
+s with
+ing
+Co
+
+
+ons
+formation to p
+minent to ensu
+y should use it.
+rategies
+dar
+men
+ovide access
+end days dur
+could operate
+owing people t
+locations. On
+ker Barrel store
+addition, shutt
+, or by large ev
+es, shuttles cou
+ons.
+ns
+Funding shutt
+may be difficu
+Without cons
+service, peop
+able to rely on
+being availabl
+romote the sh
+ure that visitor
+.
+t
+to popular
+ring the
+as a
+to park once
+Sauvie Island,
+e and the
+tles could be
+vents, to
+uld also travel
+tle service
+ult to sustain.
+sistent
+le may not be
+n the shuttle
+le.
+uttle service
+rs know its
+
+Content
+
+Tr
+EV
+
+t tailored to Multnom
+ransp
+VENT
+mah County TSP,  Aug
+porta
+PERM
+gust 2016.
+ation
+MITS /
+ Dem
+CALE
+A
+r
+i
+w
+T
+T
+t
+b
+S
+c
+c
+P
+
+
+
+C
+
+
+
+D‐7
+mand
+NDAR
+A system of e
+register even
+issued for ea
+would have t
+TSP Area A
+This system co
+throughout Mu
+builds on the e
+Sauvie Island C
+could be admin
+could include:
+ Events ove
+transporta
+which wou
+different T
+ Provision o
+costs, for e
+mode shar
+ For Sauvie
+total numb
+vehicles, in
+congestion
+four smalle
+all five wo
+Pros
+ Allows for
+heavy traff
+ By capping
+event atten
+events can
+evenly thro
+ Provides a
+coordinatio
+among eve
+Compleme
+ Park‐n‐ride
+ Event‐base
+ Modified s
+d Man
+R
+event permit
+nts through a
+ch event stat
+to meet.
+Applicabilit
+ould allow for c
+ultnomah Coun
+existing volunta
+Community Ass
+nistered by a lo
+er a certain size
+ation demand m
+uld outline how
+TDM strategies
+of incentives, s
+events demons
+re.
+e Island, provis
+ber of event at
+n order to help
+n.  For example
+er events may
+uld not be able
+anticipation of
+fic days.
+g total anticipat
+ndance per day
+n be spread mor
+oughout the ye
+mechanism for
+on TDM strateg
+ent planners.
+entary Stra
+e lots
+ed shuttle syst
+signal timing
+nage
+ts requires ev
+a central cale
+tes the requi
+ty
+coordination be
+nty or in small
+ary event perm
+sociation and c
+ocal TMA or by
+e limit could be
+management (
+w the event wi
+s to reduce traf
+such as partial
+strating a certa
+ion of a daily “
+ttendees arrivi
+p avoid days w
+e, under the sa
+be able to occ
+e to be held co
+ted
+y,
+re
+ar.
+r
+gies
+Cons
+ Adm
+syst
+addi
+ Even
+com
+than
+ Cou
+even
+busi
+pop
+ategies
+tem
+men
+vent organize
+endar system
+irements tha
+etween same d
+er sub‐areas. T
+mit system thro
+could remain in
+y the County. T
+e required to i
+(TDM) plan for
+ll utilize any nu
+ffic impacts.
+reimbursemen
+ain level of non
+“cap,” if necess
+ng to the islan
+ith the highest
+ame cap, one la
+cur on the sam
+oncurrently.
+ministration of t
+em and calenda
+itional staff tim
+nt planners may
+mmit to certain d
+n they would ot
+ld result in conf
+nt organizers/lo
+inesses in the c
+ular dates.
+t
+ers to
+m. A permit
+t each
+day events
+This idea
+ough the
+nformal or
+This system
+mplement a
+r the event
+umber of
+nt for shuttle
+n‐drive‐alone
+sary, on the
+nd in private
+t levels of
+arge event or
+me day – but
+the permit
+ar may require
+me.
+y have to
+dates earlier
+therwise.
+flicts between
+ocal
+ompetition for
+
+Content
+
+Tr
+EV
+t tailored to Multnom
+ransp
+VENT‐
+mah County TSP,  Aug
+porta
+‐BASE
+Photo: Thom
+gust 2016.
+ation
+D “TD
+mas Cobb, Travel Po
+ Dem
+DM” P
+
+Even
+tran
+an a
+TSP
+Orga
+mana
+Trans
+
+
+Pro
+ R
+ A
+ W
+h
+ C
+r
+Com
+ P
+ E
+ S
+ V
+ M
+ortland
+D‐8
+mand
+LANS
+nts of a certa
+sportation de
+approved eve
+P Area App
+nizers of large
+agement plan t
+sportation dem
+ Traffic ma
+would ma
+including:
+o p
+o e
+o a
+n
+o co
+fr
+ Demand m
+of demand
+o C
+o P
+o
+o P
+o
+C
+s
+Reduces conge
+Adds accounta
+Will encourage
+help mitigate i
+Can be tied to
+requirements f
+mplementa
+Park‐n‐ride lot
+Event permit /
+Shuttle service
+Valet bike park
+Modified signa
+d Man
+ain size would
+demand mana
+ent permit.
+licability
+ events would
+to demonstrat
+mand managem
+nagement plan
+nage the arriva
+
+providing adequ
+mploying flagg
+rranging for ov
+eeded
+oordinating wi
+rame.
+management st
+d management
+Carpool/ride‐m
+Promotion of p
+other recreatio
+Provide shuttle
+Charging fees fo
+estion on roadw
+ability for even
+e thorough pla
+mpacts of larg
+development
+for agri‐toursim
+ary Strateg
+s
+/ calendar
+e
+king
+al timing
+nage
+d be required
+agement (TD
+need to provid
+te ways that th
+ment plans cou
+n – organizers
+als and parking
+uate parking to
+gers, if needed
+verflow parkin
+ith other event
+trategies – org
+t strategies to
+matching for ev
+ark‐n‐ride loca
+nal visitors
+ or van service
+or event parkin
+ways
+ts .
+nning and
+ger events.
+code
+m activities.
+gies
+men
+d to submit a
+DM) plan in o
+de a transport
+hey will manag
+uld include:
+must demonst
+g for attendees
+o accommodat
+d
+g in alternate
+ts occurring in
+ganizers can dr
+reduce vehicle
+ent attendees
+ation for carpo
+e from a park‐n
+ng
+Cons
+ Increases
+organizat
+event pla
+ Requires
+review TD
+work with
+t
+a
+order to recei
+ation demand
+e impacts.
+trate how they
+s of the event,
+te attendees
+locations, if
+ the same time
+raw on a numb
+e trips:
+ols, bicyclists,
+n‐ride location
+s the
+tional burden f
+anners.
+staff time to
+DM plans and
+h event planne
+
+ive
+y
+e‐
+er
+or
+for
+ers.
+
+Content
+
+Tr
+U
+t tailored to Multnom
+ransp
+SER F
+mah County TSP,  Aug
+porta
+EES/C
+gust 2016.
+ation
+CONGE
+ Cedar Cre
+ Dem
+ESTIO
+
+Us
+sp
+roa
+TS
+Us
+fac
+OD
+mo
+sys
+sys
+Pr
+
+
+
+
+
+Co
+
+
+KAI
+eek, TX
+D‐9
+mand
+N PRI
+ser fees, also
+ecific facilitie
+adway in   re
+SP Area Ap
+er fees and/or
+cilities that pro
+DOT is currently
+otorists pay for
+stem is further
+stem‐wide bas
+ros
+Reduces con
+roadways.
+Encourages m
+to a differen
+including car
+biking, or tra
+Depending o
+structure, ca
+motorists to
+peak hours a
+congestion is
+Provides rev
+transportatio
+infrastructur
+Charges road
+public faciliti
+omplemen
+Flexible wor
+d Man
+CING
+known as to
+es.These fees
+elationship to
+pplicability
+r congestion pr
+ovide key conn
+y piloting a roa
+r miles traveled
+r tested, it may
+is.
+ngestion on
+motorists to sw
+nent mode
+r‐sharing, walk
+ansit.
+on pricing
+an encourage
+ travel during
+and when
+s not severe.
+venue for
+on and
+re projects.
+d users for use
+ies.
+ntary Strate
+k time/telecom
+nage
+olls, establish
+s could rise o
+o the severity
+ricing are most
+ections that ar
+ad usage charg
+d instead of pa
+y have applicab
+witch
+king,
+non‐
+e of
+Cons
+ Ju
+up
+in
+fe
+ Ca
+no
+ D
+pr
+di
+ac
+su
+fa
+ch
+lik
+th
+po
+ To
+im
+fa
+im
+egies
+mmuting
+men
+h fees for mot
+on a portion o
+y of congestio
+t applicable to
+re currently ov
+ge (RUC) system
+aying the gas ta
+bility to the cou
+s
+urisdictions wo
+p a payment sy
+nfrastructure to
+ees.
+an shift vehicle
+on‐priced facil
+ifferent types
+ricing, includin
+ifferent levels
+cceptance. Obt
+upport for fees
+acilities can be
+hallenge. The p
+kely to support
+he results are p
+ositive (e.g. les
+olls are not gen
+mplemented on
+acilities withou
+mprovements.
+t
+torists using
+or all of a
+on.
+roadways or
+verburdened.
+m, in which
+ax. As this pilo
+unty on a
+ould need to se
+ystem and
+o collect the
+e traffic to othe
+ities.
+of tolls and
+ng pricing, have
+of public
+taining public
+s on existing
+a significant
+public is most
+t pricing when
+perceived as as
+ss congestion).
+nerally
+n existing
+ut additional
+
+t
+et
+er
+e
+s
+
+Content
+
+Tr
+FL
+
+t tailored to Multnom
+ransp
+LEXIBL
+mah County TSP,  Aug
+porta
+LE WO
+gust 2016.
+ation
+ORK TI
+ Dem
+ME/T
+Flexible
+work ho
+standar
+stagger
+TSP Ar
+Employe
+strategy
+manage
+Pros
+ Can
+pea
+ Pro
+v
+tran
+com
+day
+ Red
+ Can
+off
+e
+hou
+Comp
+ Use
+D‐10
+mand
+ELECO
+e work time a
+ours and wor
+rdized and re
+red shifts.
+rea Applica
+ers would need
+. It can be part
+ment plan.
+ reduce deman
+k commute ho
+vides flexibility
+nsit, participate
+mmute during o
+.
+uces number o
+ be viewed as
+ering them mor
+rs.
+lementary
+r fees/congest
+d Man
+OMMU
+and telecomm
+rk from hom
+esult in comp
+ability
+d to provide th
+t of the County
+nd on roadway
+ours.
+y for employee
+e in rideshares
+off‐peak times
+of commute tr
+a benefit to em
+re flexibility in
+y Strategies
+tion pricing
+nage
+UTING
+muting allow
+e. Modified w
+pressed work
+hese options to
+y’s or employe
+ys during
+es to take
+s, or
+of the
+rips.
+mployees,
+their work
+C
+
+
+
+s
+men
+G
+ws employees
+work hours c
+k schedules a
+o employees to
+r’s transportat
+Cons
+ Increases
+burden fo
+ May reduc
+interaction
+employees
+ Can make
+difficult to
+t
+s to modify
+could be
+nd/or
+o implement th
+tion demand
+organizational
+r employers.
+ce staff
+ns between
+s.
+meetings mor
+o schedule.
+
+his
+re
+
+Section 4
+Goals and Policies
+  Goals and Policies
+
+GOALS AND POLICIES
+This  section  details  the  transportation  goal  and  policies  that  guide  the  following  Multnomah  County
+Transportation System Plan. They represent the culmination of the existing needs and guidance from
+the CAC, citizens, business owners, the PMT and governmental agencies within Multnomah County.
+TRANSPORTATION GOAL
+GOAL:  To provide a safe and efficient transportation network for all modes of travel that serves the
+rural areas of the County and achieves the following objectives:
+
+1. Implement  a  transportation  system  that  is  safe  and  efficient  in  meeting  the  needs  of  area
+residents.
+2. Implement a balanced transportation system that supports all modes of travel.
+3. Develop  a  transportation  system  that  suppor
+ts  the  rural  character  of  unincorporated
+Multnomah County.
+4. Develop a transportation system the supports a healthy economy.
+5. Provide transportation improvements in a timely manner according to funding capability.
+6. Reduce vehicle traffic on rural County roadways caused by those traveling through the ar ea.
+TRANSPORTATION POLICIES
+Policy 1: Overall Transportation System
+Maintain  and  improve  the  transportation  system  for  all  modes  of  travel with  the  following  goals:
+reducing vehicle miles travelled, minimizing carbon emissions, reducing conflict between travel modes,
+and  improving  the  natural  environment  by  minimizing  stormwater  runoff  and  facilitating  wildlife
+movement. Ensure  that  the  transportation  system reflects  the  community’s  rural  character  while
+ensuri
+ng efficiency and local connectivity.
+Strategies
+a) Explore implementing measures for traffic calming, traffic diversion, and speed enforcement.
+b) Address  climate  change  impacts  and  the  Climate  Action  Plan’s  recommended  actions  when
+planning transportation investments and service delivery strategies.
+
+  Goals and Policies
+
+Policy 2: Overall Transportation System
+Develop and implement effective use of signage designed to educate the public about farm equipment
+using  roads,  wildlife  crossings  and  bicycle  and  pedestrian  safety,  as  well  as  additional  way  finding
+signage.
+Policy 3: Overall Transportation System
+Promote a transportation system that prioritizes and supports the efficient and safe movement of farm
+and forest vehicles and equipment.
+Policy 4: Overall Transportation System
+Coordinate with public service providers and private utility suppliers to maximize the efficient delivery
+of both public and private utilities and facilities in County Right of way.
+Strategies
+a. Work with utility companies that own transmission and distribution lines to strive to  bury
+the  power  lines  to  provide  more  secure  power  service  during  emergency  situations  and
+improve scenic qualities.
+b. Coordinate utility and road work whenever possible.
+Policy 5: Overall Transportation System
+Implement  and  maintain  a  balanced,  safe,  and  efficient  transportation  system  using  the  existing
+roadway network.
+Strategies
+a) Review  and  maintain  a  trafficway  classification  system  integrated  with  land  uses  and  travel
+needs.  The  hierarchy  of  functional  classifications  should  be  based  on  trip  types  and  length,
+traffic volume and travel modes, and access to adjacent land uses.
+b) For  capital  projects,  improve  streets  to  the  standards  established  by  the  classification  sy stem
+and  the  Multnomah  County  Design  and  Construction  Manual  while  maintaining  context
+sensitivity.
+c) Implement  access  management  standards  established  in  the  Multnomah  County  Road  Rules
+and  the  Multnomah  County  Design  and  Construction  Manual  while  maintaining  context
+sensitivity.
+d) Place priority on maintaining the existing trafficways.
+e) Review  land  use  develo pment   and  condition  improvements  on  County  Roads  based  on
+functional  classification  and  standards  set  forth  in  the  Multnomah  County  Design  and
+  Goals and Policies
+
+Construction  Manual  to  mitigate  impacts.  Transportation  and  land  use  development  review
+should be coordinated.
+f) Implement the land development process adopted in the Multnomah County Road Rules where
+half‐street  improvements  or  dedication  of  a  right‐of‐way  or  easements  can  be  required  as
+conditions of a permit for land development abutting a County road.
+g) Maintain inventory of current an
+d projected deficiencies on the County’s road network as the
+basis  for  Capital  Improvement  Plan  and  Program,  including  general  roadway  improvements,
+bicycle improvements, pedestrian improvements, and wildlife crossing improvements.
+h) Coordinate  policy  and  development  review  work  with  Multnomah  County  Land  Use  Planning
+program  which  regulat
+es  off‐street  parking  and  loading  areas,  including  parking  for  vehicles,
+trucks, and bicycles through Multnomah County Code.
+Policy 6: Active Transportation
+Identify,  prioritize,  and  implement  short‐  and  long‐  term  solutions  to  safely  accommodate  multiple
+modes of travel on County roads including on‐road bikeways, separated multi‐use paths, and explore
+funding options.
+Strategy
+a) Apply context sensitive roadway improvements and evaluation of projects.
+Policy 7: Active Transportation
+Implement  context  sensitive  design  when  reviewing  rural  road  standards  to  determine  appropriate
+paved shoulder widths to preserve the rural character of roads, while supporting all modes of travel.
+Strategies:
+a) Explore options for bike pull outs and passing lanes to allow for resting and passing
+b) Consider bike‐friendly road treatments, especially in regards to maintenance of the road
+c) Consider bike and environment friendly materials and treatments such as pervious asphalt
+d) When widening, shoulders should aim to achieve a minimum 3 foot paved wi dth.
+e) Explore services and facilities to support multimodal uses that reflect rural character and reduce
+impacts on surrounding land uses and wildlife connectivity.
+f) Prioritize  use  of  centerline  rumble  strips  for  the  purpose  of  supporting  efficient  and  safe
+movement of vehicles and avoid the use of fog li ne  rumble strips which endanger bicyclists. If
+fog  line  rumble  strips  are  used,  safe  facilities  should  be designed  that  allows  for  bikes  to  ride
+safely, such as the application of adequate shoulders.
+g) In areas with steep slopes, landslide hazards, or wildlife habitat, first consider alternatives such
+as signage an d  TDM strategies that do not require additional impervious surfaces.
+  Goals and Policies
+
+Policy 8: Active Transportation
+Develop  and  support  programs  and  projects  that  educate  and  increase  the  safety  of  non‐motorized
+transportation options in the County, and reduce dependency on automobile use and to reduce vehicle
+miles traveled (VMT) by:
+a) Promoting bicycling and walking as vital transportation choices.
+b) Assuring  that  future  street  improvement  projects  on  a  designated  bikeway  and  walkways  are
+design
+ed to accommodate and improve safety for bicyclists, pedestrians and transit users.
+c) Striving to use federal, state, and local best design practices for bicycle and pedestrian facilities
+when improving County roadways while maintaining context sensitivity.
+d) Providing for bicycle and pedestrian travel through the develo pment  and adoption of a County‐
+wide  Transportation  Capital  Improvements  Program  (CIP)  that  includes  all  the  bikeways  and
+walkways identified in the Multnomah County Bikeway and Pedestrian System Maps.
+e) Placing  priority  on  transportation  system  improvements  in  the  Capital  Improvement  Plan  that
+reduce  the  number  of  crashes  involving  bicyclists  and  pe destrians,  the  roadway’s  most
+vulnerable users.
+f) Supporting  transportation  options  programs  in  the  region  including  Safe  Routes  to  School,
+bicycle  tourism  initiatives  (where  appropriate),  the  development  of  future  Transportation
+Management  Associations  (TMAs),  and  other  programs  funded  through  the  Regional  Travel
+Options program.
+g) Supporting  programs  and  policies  that  increase  awareness  of  transportation  opt ions  and
+education about safety on the transportation system for all modes and users.
+h) Supporting the conversion of railroad lines to multi‐use paths, such as the Burlington Northern
+Cornelius Pass Road rail line.
+Strategies
+The following strategies should be used to implement the County’s bicycle and pedestrian system:
+a) Identify  a  connected  network  of  pedestrian  and  bicycle  facilities  and  access  to  transit,  which
+provides the framework for future walkway and bikeway projects.
+b) Periodically  review  and  update  the  Multnomah  County  Design  and  Construction  Manual  to
+include the most up‐to‐date nationa
+l, state, and local best practice for the design of bicycle and
+pedestrian facilities.
+c) Coordinate  with  Metro  to  implement  bicycle  and  pedestrian  networks  in  the  Regional
+Transportation  Plan  (RTP,  the  Regional  Transportation  Functional  Plan  (RTFP),  and  other  local
+transportation system plans. Participate in updates to regiona l and local transportation plans.
+d) Continue  to  support  and  coordinate  with  Metro  and  other  partner  agencies  in  regional  trails
+projects that may affect rural Multnomah County, recognizing trails as a vital component to the
+regional active transportation network while protecting natural resources and habitat.
+  Goals and Policies
+
+e) Continue to seek funding for identified bicycle and pedestrian improvements, such as but not
+limited to state and regional grant sources.
+f) Maintain  the  Bicycle  and  Pedestrian  Citizen  Advisory  Committee  to  provide  input  on
+Multnomah County Transportation Division projects and programs, including proposed bicycle
+and pedestrian project criteria and project design.
+g) Ensur
+e there is a comment, review, and public involvement process for planning, engineering,
+operations and maintenance projects for the appropriate neighborhood groups and cities within
+Multnomah County.
+Policy 9: Active Transportation
+Support and promote bicycle and pedestrian safety and education in County Schools
+Strategies
+a) Develop  and  maintain  an  active  program  in  schools,  consistent  with  the  federally  recognized
+program  utilizing  the  five  Es:  education,  encouragement,  enforcement,  engineering,  and
+evaluation.
+b) Continue  to  identify  and  fund  bicycle  and  pedestrian  infrastructure  to  increase  safety  around
+schools the through Capital Improvement Program
+Policy 10: Mobility and Freight
+Consider regional mobility and freight, and study alternative routes and modes for mobility and freight
+through unincorporated Multnomah County, including addressing community needs.
+Strategies
+a) Study alternatives to routes through the West Hills.
+b) Participate  in  Regional  Overdimensional  Truck  Routes  Study  and  other  regional  studies  as
+applicable.
+c) Examine the suitability of use of County roads as truck routes.
+d) Coordinate with other jurisdictions on truck impacts and ensure proper mitigation.
+e) Promote transportation alternatives for the movement of fr eight
+f) Review and implement weight and length limitations for County roads.
+Policy 11: Safety
+Reduce  travel  conflicts  by  providing  appropriate  facilities,  signs,  and  traffic  marking  based  upon  user
+type and travel mode.
+  Goals and Policies
+
+Policy 12: Mobility and Freight
+Discourage  through  traffic  on  trafficways  with  a  functional  classification  of  rural  local  road  or  rural
+collector.
+Policy 13: TDM, Outreach, and Transit
+Implement  a  range  of  Transportation  Demand  Management  (TDM)  policies  encouraging  existing
+businesses and requiring new development (beyond single family residential use and agricultural uses)
+to  help  reduce  vehicle  miles  traveled  (VMT), and  alleviate  congestion  on  county  roads  caused  by
+seasonal and special event traffic, as well as through commuter traffic.
+Strategies
+a) Develop a Countywide TDM program. Program concepts could include strategies such as shuttle
+buses, ride sharing, work‐from‐home, flex time, improved transit and access to transit, user fees
+or congestion pricing.
+b) Seek  funding  opportunities,  such  as  Metro’s  Travel  Options  grant  program,  to  support  TDM
+programming.
+Policy 14: TDM, Outreach, and Transit
+Coordinate and work with transit agencies and service providers (including, but not limited to, TriMet,
+CC  Rider,  and  C‐Tran)  to  identify  existing  transit  deficiencies  and  the  improvements  necessary  to
+increase access to transit services by potential users.
+Policy 15: Safety
+Work with the Oregon Office of Emergency Management, Multnomah County Emergency Management
+and Multnomah County rural fire protection districts to ensure that the transportation system supports
+effective responses to emergencies and disasters.
+
+  Goals and Policies
+
+Policy 16: Funding and Maintenance
+Explore  alternative  supplemental  funding  sources  to  improve  County’s  road  maintenance,  safety
+projects, and other improvements.
+Strategies
+a) Consider long term maintenance costs with development of capital projects.
+b) Review and update the County’s Road Maintenance Program to implement applicable policies
+and strategies of the Comprehensive Plan and SIMC Rural Area Plan.
+c) Review  internal  protocols  related  to  road  and  right‐of‐way  maintenance,  including  roadside
+hedgerow trimming and weed er adication. Work with the Soil & Water Conservation Districts,
+ODFW  and  wildlife  conservation  organizations  to  protect  wildlife  and  manage  invasive  plant
+species  to  ensure  that  habitat  and  water  resource  restoration  projects  are  coordinated  with
+County road maintenance and drainage control programs.
+d) Ensure that non‐profit organizations and property owners ar e aware of County programs that
+may limit wildlife habitat restoration projects, and that County road staff are aware of existing
+and completed habitat restoration projects when they conduct their operations.
+e) To  implement  this  policy,  the  County  Road  Maintenance  program  will  review  the  following
+recommendations:
+a. Except in eme rgency  situations, County road mowing should be done between August
+15 and March 15 to minimize impact to nesting birds, and workers should avoid mowing
+at  identified  turtle,  frog  and  salamander  crossings  during  nesting  season  (May  and
+September).
+b.  Culverts under county roads should be surveyed, then repaired and replaced as need ed
+to limit barriers to fish and wildlife passage.
+c.  County staff should work with ODFW and wildlife conservation organizations to identify
+and mitigate in areas where wildlife corridors cross county roads.
+d.  Mowing equipment should be regularly cleaned so that seeds of invasive plants are not
+spread into areas where they ha ve not yet been introduced. Incorporate erosion control
+best practices for mowing and other maintenance activities.
+e.  County  staff  should  confer  with  the  Soil  &  Water  Conservation  Districts  on  best
+management practices for mowing operations and removing invasive weeds along road
+right‐of‐way.
+f.  County staff should be trained to rec ognize invasive and desirable native plant species;
+Multnomah County should prioritize plant species for control.
+g.  County  staff  should  inform  property  owners  of  the  existing  Owner  Vegetation
+Maintenance  Agreement,  which  allows  abutting  property  owners  to  maintain  right‐of‐
+way vegetation.
+  Goals and Policies
+
+Policy 17: Funding
+Maximize  cost‐effectiveness  of  transportation  improvements  using  the  Capital  Improvement  Plan
+process and maintenance program.
+Strategies
+a) Coordinate  intersection  improvements  as  appropriate  through  the  County's  Capital
+Improvement Plan and the County's maintenance program.
+b) Provide minor improvements during maintenance projects where possible.
+c) Ensure the Capital Improvement Plan evaluation criteria adequately evaluates rural needs:
+a. Maintenance
+b. Cost effective improvements
+c. Safety
+d. Bicycle and pedestrian improvements
+e. Wildlife
+f. Equity
+g. Healt
+h
+h. Climate change
+Policy 18: Safety
+Provide a transportation system that functions at appropriate safety levels for all motorized and non‐
+motorized traffic.
+Strategies
+a) Consider  recorded  accident  rates  and  documented  perceived  risks  (smart  phone  applications,
+websites,  reported  near  misses,  etc.)  for  all  modes  of  transportation  and  recommend
+implementation  of  low‐cost  operational  improvements  within  budgetary  limits.  Target
+resources to reduce accident potential in the top 10 percent of accident locations
+b) Continue to monitor high accident location sites fo r all modes of transportation.
+c) Implement  access  management  standards  to  reduce  vehicle  conflicts  and  maintain  the  rural
+character of the area.
+d) Perform  safety  audits  to  identify  locations  where  roadway  characteristics  increase  risks  and
+work to reduce those risks.
+
+  Goals and Policies
+
+Policy 19: Safety
+Support safe travel speeds on the transportation system.
+Strategies
+a) Support speed limit enforcement through a variety of available techniques.
+b) Apply design standards that encourage appropriate motor vehicle and truck speeds.
+Policy 20: Environment
+Avoid  and  minimize  impacts  to  the  natural  environment,  fish,  and  wildlife  habitat  when  applying
+roadway design standards.
+Strategies
+a) Implement  standards  and  best  practices  for  all  transportation  projects  with  regard  to  water
+quality treatment ‐ the reduction, detention and infiltration of stormwater runoff from existing
+and  new  impervious surfaces ‐   to   improve  water  quality  as  well  as  fish  and  wildlife  habitats,
+consistent  with  requirements  of  the  National  Pollutant  Discharge  Elimination  System ‐
+Municipal Separate Storm Sewer System Phase I Permit and the Water Pollution Control Facility
+‐  Underground  Injection  Control  Permit,  issued  by  the  Oregon  Department  of  Environmental
+Quality under the Federal Clean Water Act and Safe Drinking Water Act.
+b) Implement standards and best practices for all transportation projects with regard to protection
+restoration  of  existing  ri
+parian  buffers  where  waters  of  the  state  border  current  and  future
+rights of way.
+c) Implement  a  program  for  the  assessment  and  prioritization  of  fish  passage  barriers  at  stream
+crossings following the Oregon Department of Fish and Wildlife (ODFW) Fish Passage Rules.
+d) Secure funding for the restoration of existing fish passage ba rriers at stream crossings to meet
+ODFW Fish Passage Rules.
+e) Identify  and  protect  critical  fish  and  wildlife  migration  corridors  to  prevent  the  further
+fragmentation of existing habitats by future project alignments.
+Policy 21: Environment
+Work  with  ODFW  and  other  partners  to  identify  wildlife  corridors  and  wildlife  crossings  on  County
+roads, and ensure that project design is wildlife friendly.
+  Goals and Policies
+
+Strategies
+a) Review  and  update  Multnomah  County  Design  and  Construction  Manual  to  include  wildlife
+friendly  design  and  construction  options  in  the  Zoning  Ordinance  and  Transportation  System
+Plan.
+b) Implement project prioritization criteria that address wildlife and climate change in the Capital
+Improvement Plan and Program.
+c) Improve  identified  wildlife  crossings  through  the  developm ent   and  adoption  of  a  countywide
+Transportation Capital Improvement Program (CIP) that includes projects that address deficient
+fish passage barriers and wildlife crossings.
+Policy 22: Transportation Health
+Ensure  that  the  transportation  system  is  designed  to  minimize  negative  health  impacts  and  promote
+healthy behaviors and environments by:
+
+A. Improving safety for all modes
+Strategies
+a) Lowering traffic speeds through speed limits, enforcement, and roadway design.
+b) Minimizing  modal  conflict  by  planning  and  building  bicycle  and  pedestrian  networks  that
+encourage travel on low‐traffic streets or off‐street trails.
+c) Identifying and addressing real and perceived high crash corridors or hot spots with high crash
+rates.
+d) Incorporating  safety‐rel
+ated  features  and  best  practices  when  designing  new  facilities  or
+renovating existing facilities.
+e) Ensuring that vulnerable groups such as youth, elderly, low‐income and disabled are engaged in
+planning and design efforts.
+f) Supporting Safe Routes to School and other education and encouragement programs that teach
+peopl
+e how to safely use the transportation system
+g) Developing a transportation safety action plan.
+h) Coordinating with land use planning for safe traffic control and parking at events and other peak
+use generators.
+i) Coordinating with other agencies such as ODOT when appropriate.
+
+B.   Increasing opportunities for physical activity by promoting active transportation modes
+(walking, bicycling, transit, and equestrian) and multimodal access to parks, trails, open
+space, and other recreational facilities and employment centers.
+  Goals and Policies
+
+Strategies
+a) Building out multimodal transportation networks.
+b) Ensuring safe, convenient, multimodal access to parks, trails, open space and other recreational
+facilities and employment centers.
+c) Supporting Safe Routes to School and other education and encouragement programs that teach
+and encourage people to safely use active transportation modes.
+d) Partnering  with  the  Mult nomah   County  Health  Department  on  health  promotion  and  chronic
+disease prevention programs and initiatives that focus on increasing physical activity.
+C.   Ensuring  multimodal  access  to  health  supportive  resources  such  as  healthy  food
+retail, employment, affordable housing, and parks and recreation facilities.
+Strategies
+a) Coordinating land use planning to ensure that such resources are easily accessible by multiple
+modes.
+b) Working with transit providers to ensure that service plans are coordinated with development.
+c) Working  with  transit  providers  to  ensure  that  bicycle  and  pedestrian  improvements  support
+transit use.
+d) Ensuring site design guidelines and r equirements  provide and promote multimodal site access
+and circulation, and appropriate connections.
+D.   Reducing exposure to air, light, and noise pollutants
+Strategies
+a) Encouraging programs that reduce dependence on single occupant vehicle miles travelled and
+increasing use of electric and low emission vehicles.
+b) Encouraging bicyclists and pedestrians to use parallel low traffic streets where possible instead
+of high traffic roadways.
+c) Coordinating  transportation  and  land  use  planning  to  avoid  locating  sensitive  land  us es   near
+high traffic roadways. Sensitive land uses include schools, parks and playfields, community and
+senior  centers,  affordable  housing,  and  other  places  where  vulnerable  groups  such  as  youth,
+seniors, and people with low incomes spend significant amounts of time.
+d) Establishing  vegetative  buffers  (trees  and  shrubs)  along  roadways  to  filter  and  re duce   the  air
+and light pollutants.
+e) Implementing anti‐idling campaigns around schools, road construction zones, and other places
+where drivers tend to idle.
+f) Using paving materials that are designed to minimize the production of road noise.
+
+  Goals and Policies
+
+ E.   Working with Multnomah County Health Department staff to ensure that the TSP and
+related planning documents incorporate the findings and recommendations from the
+most recent versions of their Community Health Assessment and Community Health
+Improvement Plan.
+Strategies
+a) Having  relevant  health  department  staff  serve  on  planning  related  technical  and  advisory
+committees.
+b) Having  relevant  planning  staff  participate  in  the  development  of  the  community  health
+assessments and community health improvement plans.
+Policy 23: Transportation Equity
+Ensure that transportation system plans and investments not only equitably distribute the benefits and
+burdens  of  the  system  improvements,  but  also  prioritize  and  support  programs  and  projects  that
+eliminate transportation‐related disparities faced by groups that have historically had significant unmet
+transportation  needs  or  who  have  experienced  disproportionate  negative  impacts  from  the  exi sting
+transportation system.
+Strategies
+a) Incorporation of project prioritization criteria that address equity in the County Capital
+improvement Plan and Program to address investments in road, bicycle, and pedestrian
+programs and infrastructure in order to improve mobility and access for people who don’t have
+access to a personal vehicle.
+b) Investments in areas with relatively hi gh  concentrations of people that have historically
+received relatively little benefit from transportation system investments should be considered.
+These people include:
+a. People who cannot drive.  People in this category include many older adults, children,
+and persons with disabilities.
+b. People experiencing poverty, including those who do not have access to a car, are
+struggling with the high costs of car ownership, m
+aintenance, and operation, or are
+struggling with the cost of transit.  People in this category include many people with low
+incomes, people of color, older adults, persons with disabilities, people who are
+geographically isolated, and people who experience language barriers.
+c. People with li
+mited mobility.  People in this category include many older adults and
+persons with disabilities.
+d. Isolated individuals living far from community centers and lacking direct routes for
+accessing goods and services.
+e. Communities experiencing racism and discrimination.
+  Goals and Policies
+
+c) Coordinating transportation planning with land use and development to avoid locating sensitive
+land uses near high traffic roadways. Sensitive land uses include schools, parks and playfields,
+community and senior centers, affordable housing, and other places where vulnerable groups
+such as youth, seniors, and people with low incomes spend significant amounts of time.
+d) Coordinating transportation planning with land us
+e and development to ensure that new
+development is well connected with existing development and provides convenient multi‐modal
+access to health supportive resources such as schools, healthy food retail, employment,
+affordable housing, parks and recreation facilities, and medical and social services.
+e) Ensur
+e that public participation includes outreach to equity focused or population specific
+organizations or culturally specific organizations and explore partnerships with these groups to
+develop the capacity to effectively participate in planning processes.
+f) Working with the Multnomah County Office of Diversity and Equity to use their Equity and
+Empowerment Lens tool to ensur e that county planning staff and project stakeholders are
+prepared to engage in internal and external conversations about equity and use this input to
+inform plans, policies and projects.
+g) Conducting equity analyses that identify existing disparities as a part of county planning
+processes.
+h) Gathering available data and public in put useful for understanding equity issues, impacts and
+opportunities.
+Policy 24: TDM, Outreach and Transit
+On  rural  roads  with  heavy  through  traffic,  consider  implementing  appropriate  measures  such  as
+Transportation Demand Management (TDM) to reduce such traffic.
+
+  Goals and Policies
+
+SAUVIE ISLAND AND MULTNOMAH CHANNEL RURAL AREA TSP POLICIES
+Policy 5.1
+The  Multnomah  County  Bicycle  and  Pedestrian  Advisory  Committee  should  maintain  continuous
+Sauvie Island representation to the extent possible.
+Policy 5.5
+Coordinate with ODOT Rail and Public Transit Division to promote appropriate safety devices at
+crossings.
+Policy 5.6
+Coordinate  with  the  Oregon  Department  of  Fish  and  Wildlife  (ODFW)  and  Columbia  County  to
+manage and reduce demand on the Sauvie Island transportation system, especially during peak use
+periods,  by  making  more  efficient  use  of  capacity  on  the  system  through  strategies  such  as  user
+fees, shuttles, and parking management programs. Strategies may inclu de,  but are not limited to:
+a) Encourage and support action by the Oregon Fish and Wildlife Commission to increase daily
+fees during peak use periods to an amount that will effectively reduce the traffic burden on
+Sauvie Island roads and reduce adverse wildlife impacts resulting from heavy traffic, noise
+and dust.
+b) Encourage Columbia County and the Columbia County Sheriff to prohibit parking on county
+roads outside designated parking areas and to po
+st and enforce its parking restrictions.
+c) Encourage the use of ride sharing, and support safe and convenient park‐and‐ride facilities
+for carpools and transit service in convenient and appropriate off‐island lo cations.
+d) Explore options for shuttle support and traffic reduction strategies such as traffic fees and
+parking management programs.
+e) Coordinate  with  transit  agencies  and  service  providers  to  identify  existing  transit
+deficiencies and the improvements necessary to increase accessibility to transit service by
+potential users.
+  Goals and Policies
+
+Policy 5.13
+Encourage the Multnomah County Sheriff’s Office to explore increased patrols and service to the
+island and keep the Sherriff’s Office apprised of identified peak periods (days and seasons).
+Policy 5.14
+Maintain updated traffic counts for the plan area capturing peak season volumes.
+Policy 5.15
+Explore opportunities to connect Marina Way to Larson Road and extend Larson Road north of the
+Sauvie Island Bridge to provide safer and more convenient access for marina residents and patrons
+along Multnomah Channel.
+Policy 5.16
+Explore opportunities to provide public restroom facilities for Sauvie Island visitors.
+
+Section 5 Transportation
+System Plan
+  Transportation System Plan
+
+TRANSPORTATION SYSTEM PLAN
+This section details the projects and programs needed to serve Multnomah County through 2035. They
+represent the culmination of the existing needs and guidance from the CAC, citizens, business owners,
+the  PMT,  and  governmental  agencies  within  Multnomah  County.  The  projects  and  programs  help  to
+ensure and support the efficient and safe multim odal  movement of people and goods throughout the
+county.
+ROADWAY FUNCTIONAL CLASSIFICATION AND STANDARDS
+Functional classification systems are used to establish a hierarchy of roadways based on their primary
+function  (e.g.,  moving  people  across  regions  or  providing  access  to  local  destinations).  These
+classification levels are identified by ODOT for state facilities, the County for County facilities, and local
+agencies  for  their  own  classification  levels  within  their  community.  The  classification  levels  also
+determine the recommended roadw
+ay cross‐sections for different facilities. The functional classification
+of roadways that Multnomah County established is based on the following hierarchy:
+ Minor Arterials represent the lowest order arterial facility in the regional street network. They
+typically carry less traffic volume then principal and major art erials, but have a high degree of
+connectivity  between  communities.  Access  management  may  be  implemented  to  preserve
+traffic capacity. Land uses along the corridor are a mixture of community and regional activities.
+Minor arterial streets provide major links in the regional road and bikeway networks; provide
+for truck mobility and transit corridor s; and are significant links in the local pedestrian system.2
+ Rural Arterials are the primary means of access into the County’s large rural districts, and often
+connect  between  counties  to  accommodate  through  movements.  Rural  arterials  connect  to
+freeways  or  highways,  and  link  rural  collector  and  local  roads  to  the  urban  area  and  other
+regions.  Rural  arterial  roads  carry  greater  traffic  volumes  then  rur al  collector  roads,  including
+commuters  and  other  home‐based  trips,  truck  trips  related  to  farm,  forest, and  other  natural
+resource products, and recreational trips involving autos, bicycles and equestrians.3
+ Major Collectors serve several purposes including linking neighborhoods to the regional system
+of bicycle and automobile streets, and basic transit services. They typically provide direct access
+between residential and commercial developments, schools and parks and carry higher volumes
+of traffic then neighborhood streets. Major collector streets are also utilized to access i ndustrial
+and employment areas and other locations with large truck and over‐sized load volumes.3
+
+2  Multnomah  County  Functional  Classification  (Policy  34).  https://multco.us/transportation‐planning/multnomah‐
+county‐functional‐classification‐policy‐34. Accessed May 2015.
+  Transportation System Plan
+
+ Neighborhood  Collectors  provide  access  primarily  to  residential  land  uses  and  link
+neighborhoods  to  higher  order  roads.  They  generally  have  higher  traffic  volumes  than  local
+streets.3
+ Local Urban and Rural provide access to abutting land uses on low traffic volume and low speed
+facilities.  Their  primary  purpose  is  to  serve  local  pedestrian,  bicycle  and  automobile  trips  and
+limited public transportation use in urban areas; and auto and farm vehicle circulation with local
+pedestrian, bicycle and equestrian us e in rural areas.3
+Figures 6A and 6B depict the functional classifications of the roadways in the five rural study areas. As
+shown, the areas are mostly served by collectors and local roadways. Key arterials and state facilities
+that  connect  the  rural  areas  to  the  regional  system  include  I‐84,  Highway  30,  Cornelius  Pass  Road,
+Orient Drive, Stark Street, Corbett Hill Road, and Tr
+outdale Road.
+Expectations about speed limits generally correspond with the functional classification of the roadway
+with  higher  classification  (e.g.  arterials)  having  greater  speeds  and  lower  classifications  (e.g.  locals)
+having lesser speeds. Figures 7A and 7B show the speed limits on roadways within the study ar ea.
+Roadway Cross‐Section Standards
+Expectations  about  roadway  cross‐sections  are  provided  for  each  of  the  County’s  functional
+classifications. These cross‐sections identify the required width for pedestrian facilities, bicycle facilities,
+landscaping/drainage,  and  number  and  width  of  vehicular  travel  lanes.  The  cross‐section  standards
+typically  inform  new  construction  of  roadways  or  roadway  modification  and  modernization  projects.
+Older roa
+dways are typically upgraded to current standards when modified or reconstructed.
+The County’s current Design and Construction Manual3 identifies rural roadway design standards. These
+standards  are  summarized  below  in  Table  7.  The  County  is  in  the  process  of  revising  these  to
+incorporate context sensitive standards.
+As shown in the Table 7, rural roadways in the County are not currently required to have bike lanes or
+marked bicycle facilities. The roadway design standards indic ate that bicyclists shall be accommodated
+on the shoulder, when appropriate, based on the facility’s traffic volumes. The Design and Construction
+Manual indicates that shoulders on collectors and arterials should be paved for a minimum of five feet.
+Rural  roadways  are  also  not  required  to  have  separate  ped estrian   facilities.  Instead,  rural  roadway
+shoulders  are  typically  used  by  pedestrians,  bicycles,  oversized  vehicles,  and  for  emergency  pull‐off
+purposes.
+
+3 Multnomah County Design and Construction Manual. https://multco.us/file/16499/download.
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRd
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Roadway Functional
+Classification (MultCo)
+Intersate / Expressway
+Arterials
+Collectors
+Local
+Local (not maintained by county)
+Railroad (ODOT)
+Plan Areas
+County Boundaries
+Figure 6A
+Roadway Functional
+Classifications
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\06 Roadway Functional Classifications.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Roadway Functional
+Classification (MultCo)
+Intersate / Expressway
+Arterials
+Collectors
+Local
+Local (not maintained by county)
+Railroad (ODOT)
+Plan Areas
+County Boundaries
+Figure 6B
+Roadway Functional
+Classifications
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\06 Roadway Functional Classifications.mxd
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRd
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Speed Zones MPH
+20
+25
+30
+35
+40
+45
+55
+Plan Areas
+County Boundaries
+Figure 7A
+Speed Zones
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\07 Speed Zones.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Speed Zones MPH
+20
+25
+30
+35
+40
+45
+55
+Plan Areas
+County Boundaries
+Figure 7B
+Speed Zones
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\07 Speed Zones.mxd
+  Transportation System Plan
+
+Table 7 Multnomah County Standards for Typical Rural Sections
+Classification
+Right‐of‐
+Way Width
+(ft)
+Paved Width
+(ft)  Number of Lanes   Shoulder Width (ft)  Travel Lane
+Width (ft)
+Arterial   60‐90   20‐55  2‐4  6‐8
+(min. 5 ft. paved)  10‐14
+Collector  50‐80  20‐24  2  5‐8
+(5 ft. paved)  10‐12
+Local  50‐60  20‐24  2  5‐6  10‐12
+  Paved Width refers to the travel way and does not include shoulders
+Figures 8A and 8B show the current width of roadways in the study area including both travel ways and
+paved shoulders. As shown, most roads are 28 feet or less with many 23 feet or less. This indicates that
+many of the rural roadways have narrow or no paved shoulders.
+BRIDGES
+Within the study areas, the County owns 25 bridges and associated ramps and supporting structures.
+With the exception of the Willamette River bridges, the majority of the County’s bridges are in the rural
+areas. The locations of the County bridges are shown in Appendix B (Figures 13A and 13B). The County’s
+Capital Improvem
+ent Plan identifies the needs for these bridges.  The County’s Willamette River Bridges
+are further addressed in detail as part of the Willamette River Bridges Capital Improvement Plan and
+Program updated in 2015.
+ODOT maintains an inventory of bridge conditions within Multnomah County. State, County, and City
+owned facilities over 20‐f eet  in length are assigned a sufficiency rating based on inspections conducted
+at  regular  intervals,  usually  every  two  years.  The  sufficiency  rating  is  a  measure  between  0  and  100
+calculated  by  the  Federal  Highway  Administration  (FHWA),  based  on  factors  such  as  condition,
+materials,  load  capacity,  and  geometry  (i.e.,  dimensions).  Structural  sufficiency  rating  data  for
+Multnomah County bridg
+es is summarized in Table 8. Bridge IDs that include letters at the end signify
+that they are a ramp associated with the main structure. As seen in Table 8, the NW Broadway Ramp
+over the Broadway Street connection, the Stark Street Bridge, and the Lat ourell  Falls Road Bridge are
+currently considered structurally deficient.
+
+  Transportation System Plan
+
+Table 8 Multnomah County Bridges
+Map ID  County Bridge ID  Name  Sufficiency Rating  Sufficiency
+1  511  Burnside Bridge  69.1  Not Deficient
+1a  511A  West Burnside Approach  40.1  Not Deficient
+1b  511B  East Burnside Approach  44.0  Not Deficient
+2  2757  Hawthorne Bridge  55.9  Not Deficient
+2a  2757A  Hawthorne Blvd Ramp to Hwy 1E SB  58.0  Not Deficient
+2b  2757B  SE Madison St Ramp over Hwy 1E SB  61.7  Not Deficient
+2c  2757D  Willamette River, SW Hawthorne Blvd  47.6  Not Deficient
+2d  2757F  SE Hawthorne Blvd over SE Water Ave  56.9  Not Deficient
+3  2758  Morrison Bridge  53.5  Not Deficient
+3a  2758A  SE Belmont St over Hwy 1 & Conns  71.7  Not Deficient
+3b  2758B  W Morrison Br Conn over Hwy 1W & Park  64.5  Not Deficient
+3c  8589 (with 2758)  Willamette R & Hwy 1, SE Morrison St  61.7  Not Deficient
+3d  8589Y (with 2758)  SE Yamhill St Ramp over Hwy 1 & Conn  70.0  Not Deficient
+4  4522  Beaver Creek Bridge  48.8  Not Deficient
+5  6757  Broadway Bridge  58.4  Not Deficient
+5a  6757A  NW Broadway Ramp over Broadway St Conn  48.7  Structurally Deficient
+5b  6757C  N Broadway St over N Interstate Ave  70.8  Not Deficient
+6  21493 (formerly 6879)  Sellwood Bridge  82.0  Not Deficient
+7  9321  223rd/Marine Drive Overpass  78.1  Not Deficient
+8  11112  Stark Street Bridge  47.9  Structurally Deficient
+9  11113  Stark Street Viaduct  86.6  Not Deficient
+10  17211  207th Ave over UPRR  98.0  Not Deficient
+11  17356  238th Ave over UPRR  91.6  Not Deficient
+12  18206  207th over Fairview Creek  97.7  Not Deficient
+13  20136  Sauvie Island Bridge  68.0  Not Deficient
+14  20722  282nd over Johnson Creek  98.3  Not Deficient
+15  25T05  Halsey Street Box Culvert  76.7  Not Deficient
+16  25T08  252nd Avenue Bridge  56.2  Not Deficient
+17  25T16  Jenne Road/174th Av  Bridge  58.9  Not Deficient
+18  51C09  Littlepage Rd Box Culvert  71.4  Not Deficient
+19  51C10  Latourell Falls Road Bridge  37.0  Structurally Deficient
+20  51C12  Smith Road Bridge  96.0  Not Deficient
+21  51C13  Gordon Creek Road Viaduct  78.7  Not Deficient
+22  51C14  Gordon Creek Bridge  57.0  Not Deficient
+23  51C15  Circle Avenue Bridge #1  67.2  Not Deficient
+24  51C34  Circle Avenue Bridge #2  69.6  Not Deficient
+25  6967A  257th over UPRR  88.9  Not Deficient
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRd
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Pavement Widths
+10 - 17 ft
+18 - 21 ft
+22 - 23 ft
+24 - 25 ft
+26 - 28 ft
+30 - 38 ft
+Plan Areas
+County Boundaries
+Figure 8A
+Pavement Width
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\08 Pavement Width.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Pavement Widths
+10 - 17 ft
+18 - 21 ft
+22 - 23 ft
+24 - 25 ft
+26 - 28 ft
+30 - 38 ft
+>39 ft
+Plan Areas
+County Boundaries
+Figure 8B
+Pavement Width
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\08 Pavement Width.mxd
+  Transportation System Plan
+
+FREIGHT ELEMENT
+The freight plan includes a countywide Freight Map that identifies the freight needs in the rural areas
+and  urban  areas  of  Multnomah  County.  Figures  9A  and  9B  show  County‐designated  freight  routes,
+including  ODOT  freight  routes  and  roadways  under  freight  restrictions.  Restrictions  include  roadways
+limited  to  40‐foot‐long  vehicles,  to  50‐foot‐long  vehicl es,  and  to  local  deliveries  only.  Appendix  2
+describes the existing rail and freight system conditions and inventory.
+
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+SauvieIslandRd
+Springville Road
+Germantown Road
+Reeder Road
+Gillihan Road
+Skyline
+Boulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+[0 1 20.5
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+No Additional Restrictions
+Limited to 40 ft. Overall Length
+Limited to 50 ft. Overall Length
+Through Trucks Prohibited, Local
+Deliveries Only
+ODOT Freight Routes
+Plan Areas
+County Boundaries
+Figure 9A
+Freight Routes
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\09 Freight Routes.mxd
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+Stark Street
+Halsey Street
+257th/KaneDrive
+Glisan Street
+Orient Drive
+LustedRoad
+Woodard Road
+BrowerRoad
+Troutdale
+Road
+TelfordRoad
+Bluff Road
+Marine Drive
+Evans Road
+Division Drive
+223rd Avenue
+Oxbow Drive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+LarchMountain Road
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+§¨¦
+84
+[0 2 41
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+No Additional Restrictions
+Limited to 40 ft. Overall Length
+Limited to 50 ft. Overall Length
+Through Trucks Prohibited, Local
+Deliveries Only
+ODOT Freight Routes
+Plan Areas
+County Boundaries
+Figure 9B
+Freight Routes
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\09 Freight Routes.mxd
+  Transportation System Plan
+
+PEDESTRIAN AND BICYCLE ELEMENT
+The  pedestrian  and  bicycle  plan  includes  a  countywide  Roadway  Bicycle  Designation  map  as  well  as
+projects to address the needs of bicycles and pedestrians in the rural areas (see Figures 10A and 10B).
+Pedestrian needs within the rural areas are primarily addressed through the addition of shoulders that
+serve  pedestrians  and  bicyclists  or  through  shared  us e  paths.  In  rural  areas,  the  shoulders  are  the
+primary facility available to pedestrians.
+The  Roadway  Bicycle  Designation  map  illustrates the  roadway  bicycle designations  for all  County  and
+ODOT facilities. The designations help define the type of bicycle facility planned for each roadway. The
+three designations are describ ed  below.
+Non‐Designated Routes
+Non‐Designated  Routes  are  roads  without  bicycle  facilities  that  are  not  signed  or  designated  bicycle
+routes; however, bicycles may still use these routes.
+Shared Roadway
+Shared  Roadways  are  roads  without  bicycle  facilities  that  are  designated  bicycle  routes.  This
+designation  may  influence  how  the  County  signs,  maintains,  or  makes  other  decisions  with  regard  to
+these facilities.
+Shared Roadways could have signage indicating a bike route. Bicyclists share the lane with vehicles on
+shared roadways. Shared roadways are common on low volume rural roa ds and highways and may, or
+may not, include “sharrows” (pavement marking that indicate the shared use of the roadway).
+
+  Transportation System Plan
+
+Bikeway
+Multnomah County’s current roadway standards require 5‐8 foot shoulders depending on the roadway
+functional classification with a minimum of 5‐feet paved shoulders on all roadways. Shoulder bikeway
+designated  routes  should  provide  space  for  cyclists to  travel  outside  of  the  vehicle  travel  lane  where
+warranted  by  prevailing  conditions  and  traffic  volumes.  Th is  could  be  accomplished  by  including
+continuous  shoulder  bikeways  on  both  sides  of  the  roadway  ranging  from  3‐foot  to  6‐foot  wide,
+depending  upon  the  rural  character  of  the  area,  but  could  also  include  uphill  climbing  lanes  only,
+intermittent shoulders in low visibility areas, or bike pull‐out areas. Shoulder bikeway design ated routes
+typically  have  higher  vehicular  speeds  and  traffic  volumes  than  routes  where  a  shared  roadway
+designation  would  be  appropriate  in  both  directions  for  the  entire  length  of  the  roadway.  Shoulder
+facilities also benefit pedestrians in rural areas.
+
+  Transportation System Plan
+
+Shared‐use paths are separated from the roadway by an open space or barrier. Shared‐use paths are
+typically used by pedestrians and bicyclists as two‐way facilities. Such paths can also be constructed on
+alignments separate from roadways to create more direct routes between destinations and also serve
+as elem ents  of a recreational trail system.
+
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+ß/30
+ß/26
+vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+ C o r n e l i u s P a s s R o a d
+ C o r n e l l R o a d
+ S a u v i e I s l a n d R d
+ S p r i n g v i l l e R o a d
+ G e r m a n t o w n R o a d
+ R e e d e r R o a d
+ G  i l  l  i h  a n   R  o  a d
+ S k y l i n e B o u l e v a r d
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+ E l l i o t t R o a d
+ B  r  o  o  k  s   R  o  a d
+ W a t  s o  n   R  o  a d
+ M o r e l a n d R o a d
+ L u c y R e e d e r R o a d
+ M o r g a n R o a d
+ T h o m p s o n R o a d
+ G i l k i s o n R o a d
+ N e w b e r r y R o a d
+ O l d G e r m a n t o w n R o a d
+ J o h n s o n R o a d
+ K a i s e r R o a d
+ L o g i e T r a i l R o a d
+ B e c k R o a d
+ O a k I s l a n d R o a d
+ R o c k y P o i n t R o a d
+ M  c  N  a m  e  e    R  o  a d
+ R o c k C r e e k R o a d
+ S a u v i e
+ I s l a n d R o a d
+[ 0  1  2 0  .  5
+ M  i l  e  s
+Date:
+ 8  /  2  9  /  2  0  1  6
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+ P  r  e  p  a r  e  d    B  y  :
+ K  i t  t  e  l  s o  n   &    A  s s o  c  i a t  e  s ,    I  n c  .
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+ E  x  i s t  i n g    O  n -  S  t  r  e  e  t    B  i k  e    F  a c  i l  i t  y
+ M  u l  t  i -  U  s e    P  a t  h  s
+ P  r  o  p  o  s e  d    B  i k  e  w  a y  s
+ P  r  o  p  o  s e  d    S  h  a r  e  d    R  o  a d  w  a y  s
+ P  r  o  p  o  s e  d    O  f  f  -  S  t  r  e  e  t    B  i k  e  w  a y  s
+ C  o  u n t  y    B  o  u n d  a r  i e  s
+ P  l  a n   A  r  e  a s
+Figure 10A
+ R  o  a d  w  a y    B  i c  y  c  l  e
+ D  e  s i g  n a t  i o  n s
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\10 Roadway Bicycle Designations.mxd
+ B  i k  e  w  a y  s   (  i n   l  i g  h  t    o  r  a n g  e  )    a r  e    d  e  s i g  n a t  e  d    b  i k  e    r  o  u t  e  s   t  h  a t    m  a y    h  a v e    b  i k  e    l  a n e  s ,    s h  o  u l  d  e  r
+ b  i k  e  w  a y  s ,    o  r    u p  h  i l  l    c  l  i m  b  i n g    l  a n e  s ,    i n t  e  r  m  i t  t  e  n t    s h  o  u l  d  e  r  s   i n   l  o  w    v i s i b  i l  i t  y    a r  e  a s ,    o  r    b  i k  e
+ p  u l  l  -  o  u t    a r  e  a s .    B  i k  e  w  a y  s   t  e  n d    t  o    b  e    o  n   r  o  a d  w  a y  s   w  i t  h    h  i g  h  e  r    s p  e  e  d  s   a n d    t  r  a f  f  i c    v o  l  u m  e  s
+ w  h  e  r  e    a   s h  a r  e  d    r  o  a d  w  a y    w  o  u l  d    b  e    i n a p  p  r  o  p  r  i a t  e    i n   b  o  t  h    d  i r  e  c  t  i o  n s   f  o  r    t  h  e    e  n t  i r  e    l  e  n g  t  h    o  f
+ t  h  e    r  o  a d  w  a y  .
+ S  h  a r  e  d    R  o  a d  w  a y  s   (  i n   l  i g  h  t    g  r  e  e  n )    a r  e    d  e  s i g  n a t  e  d    b  i k  e    r  o  u t  e  s   t  h  a t    c  o  u l  d    h  a v e    s i g  n a g  e
+ i n d  i c  a t  i n g    a   b  i k  e    r  o  u t  e  ;    b  i c  y  c  l  i s t    s h  a r  e    t  h  e    l  a n e    w  i t  h    v e  h  i c  l  e  s   o  n   s h  a r  e  d    r  o  a d  w  a y  s .    S  h  a r  e  d
+ r  o  a d  w  a y  s   a r  e    c  o  m  m  o  n   o  n   l  o  w    v o  l  u m  e    r  u r  a l    r  o  a d  s   a n d    h  i g  h  w  a y  s   a n d    m  a y  ,    o  r    m  a y    n o  t  ,
+ i n c  l  u d  e  
+  s h  a r  r  o  w  s
+    (  p  a v e  m  e  n t    m  a r  k  i n g    t  h  a t    i n d  i c  a t  e    t  h  e    s h  a r  e  d    u s e    o  f    t  h  e    r  o  a d  w  a y  )  .
+C l a c k a m a s
+C o u n t y
+H o o d  R i v e r
+C o u n t y
+S k a m a n i a
+C o u n t y
+C l a r k
+C o u n t y
+ß/30
+ß/26
+vÍÎ212
+vÍÎ211
+vÍÎ224
+ S t a r k S t r e e t
+ H  a  l  s e  y    S  t  r  e  e  t
+ 2 5 7 t h / K a n e D r i v e
+ G  l  i s a  n   S  t  r  e  e  t
+ O r i e n t D r i v e
+ L u s t e d R o a d
+ B r o w e r R o a d
+ T r o u t d a l e
+ R o a d
+ T  e  l  f o r  d    R  o a  d
+ B l u f f R o a d
+ M a r i n e D r i v e
+ E  v  a  n s   R  o a  d
+ D  i v  i s i o n   D  r  i v  e
+ 2  2  3  r  d    A  v  e  n u e
+ O x b o w D r i v e
+ H  u r  l  b  u r  t    R  o a  d
+ 3  0  2  n d    A  v  e  n u e
+ D o d g e P a r k B o u l e v a r d
+ G o r d o n C r e e k R o a d
+ L a r c h M o u n t a i n R o a d
+§¨¦
+84
+ S  e  i d  l    R  o a  d
+ B  e  l  l    R  o a  d
+ P  i p e  l  i n e    R  o a  d
+ 3  2  7  t  h    A  v  e  n u e
+ K n i e r i e m R o a d
+ L i t t l e p a g e R o a d
+ D  e  v  e  r  e  l  l    R  o a  d
+ M e r s h o n R o a d
+ C  h  a  m  b  e  r  l  a  i n   R  o a  d
+ T r o u t C r e e k R o a d
+ H a i n e s R o a d
+ L o u d e n R o a d
+[ 0  2  4 1
+ M  i l  e  s
+Date:
+ 8  /  2  9  /  2  0  1  6
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+ P  r  e  p a  r  e  d    B  y  :
+ K  i t  t  e  l  s o n   &    A  s s o c  i a  t  e  s ,    I  n c  .
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+ E  x  i s t  i n g    O  n -  S  t  r  e  e  t    B  i k e    F  a  c  i l  i t  y
+ M  u l  t  i -  U s e    P  a  t  h  s
+ P  r  o p o s e  d    B  i k e  w  a  y  s
+ P  r  o p o s e  d    S  h  a  r  e  d    R  o a  d  w  a  y  s
+ P  r  o p o s e  d    O  f f -  S  t  r  e  e  t    B  i k e  w  a  y  s
+ H  i s t  o r  i c    C  o l  u m  b  i a    R  i v  e  r    H  i g  h  w  a  y
+ C  o u n t  y    B  o u n d  a  r  i e  s
+ P  l  a  n   A  r  e  a  s
+Figure 10B
+ R  o a  d  w  a  y    B  i c  y  c  l  e
+ D  e  s i g  n a  t  i o n s
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\10 Roadway Bicycle Designations.mxd
+ B  i k e  w  a  y  s   (  i n   l  i g  h  t    o r  a  n g  e  )    a  r  e    d  e  s i g  n a  t  e  d    b  i k e    r  o u t  e  s   t  h  a  t    m  a  y    h  a  v  e    b  i k e    l  a  n e  s ,    s h  o u l  d  e  r
+ b  i k e  w  a  y  s ,    o r    u p h  i l  l    c  l  i m  b  i n g    l  a  n e  s ,    i n t  e  r  m  i t  t  e  n t    s h  o u l  d  e  r  s   i n   l  o w    v  i s i b  i l  i t  y    a  r  e  a  s ,    o r    b  i k e
+ p u l  l  -  o u t    a  r  e  a  s .    B  i k e  w  a  y  s   t  e  n d    t  o   b  e    o n   r  o a  d  w  a  y  s   w  i t  h    h  i g  h  e  r    s p e  e  d  s   a  n d    t  r  a  f f i c    v  o l  u m  e  s
+ w  h  e  r  e    a    s h  a  r  e  d    r  o a  d  w  a  y    w  o u l  d    b  e    i n a  p p r  o p r  i a  t  e    i n   b  o t  h    d  i r  e  c  t  i o n s   f o r    t  h  e    e  n t  i r  e    l  e  n g  t  h    o f
+ t  h  e    r  o a  d  w  a  y  .
+ S  h  a  r  e  d    R  o a  d  w  a  y  s   (  i n   l  i g  h  t    g  r  e  e  n )    a  r  e    d  e  s i g  n a  t  e  d    b  i k e    r  o u t  e  s   t  h  a  t    c  o u l  d    h  a  v  e    s i g  n a  g  e
+ i n d  i c  a  t  i n g    a    b  i k e    r  o u t  e  ;    b  i c  y  c  l  i s t    s h  a  r  e    t  h  e    l  a  n e    w  i t  h    v  e  h  i c  l  e  s   o n   s h  a  r  e  d    r  o a  d  w  a  y  s .    S  h  a  r  e  d
+ r  o a  d  w  a  y  s   a  r  e    c  o m  m  o n   o n   l  o w    v  o l  u m  e    r  u r  a  l    r  o a  d  s   a  n d    h  i g  h  w  a  y  s   a  n d    m  a  y  ,    o r    m  a  y    n o t  ,
+ i n c  l  u d  e  
+  s h  a  r  r  o w  s
+    (  p a  v  e  m  e  n t    m  a  r  k i n g    t  h  a  t    i n d  i c  a  t  e    t  h  e    s h  a  r  e  d    u s e    o f   t  h  e    r  o a  d  w  a  y  )  .
+  Transportation System Plan
+
+IMPROVEMENT PROJECTS
+Two  community  workshops  and  multiple  CAC  subcommittee  meetings  provided  feedback  on  the
+potential range of solutions in Section 3 and informed a 20‐year list of programs and policies for TSP
+implementation.  The  resulting  set  of  solutions  intends  to  help  manage  traffic  and  ensure  safe
+multimodal travel in the rural areas of Mult nomah  County during the next 20 years. The projects are
+categorized  into  one  of  three  groups:  high,  medium,  and  low  priority.  High  priority  projects  include
+those  to  be  addressed  within  the  next  five  years  or  as  funding  allows.  Mid‐term  projects  could  be
+addressed within the next six to ten yea rs,  depending on funding and local priorities. Long‐term could
+be addressed within 11 to 20 years; however, the County’s current funding sources will only allow for
+funding of the high‐priority projects over the next 20 years. Figure 11A and 11B and Tables 9 and 10
+illustrate the project list.
+Project prioritie
+s were developed through an iterative process. Every project was first ranked in several
+different  categories  including  safety  and  crash  history,  bicycle  route  designation,  roadway  functional
+classification, average daily traffic, proximity to activity centers and destinations, pavement condition,
+and  project  cost.  These  rankings  were  combined  to  find  a  project  priorit y  score,  which  was  used  to
+group the projects into the three priority categories (high, medium, low). These initial project priorities
+were  then  adjusted  based  on  committee  and  public  input. The  project  priorities  shown  below  reflect
+current sentiment of the CAC but are not binding. The priorities may vary over time and are dynamic .
+
+C o l u m b i a
+C o u n t y
+C l a r k
+C o u n t y
+W a s h i n g t o n
+C o u n t y
+CorneliusPassRoad
+CornellRoad
+Sauvie
+IslandRd
+Springville Road
+ReederRoad
+Gillihan Road
+SkylineBoulevard
+ß/30
+ß/26 vÍÎ120
+vÍÎ219
+vÍÎ99E
+vÍÎ8
+§¨¦
+5
+§¨¦
+405
+§¨¦
+84
+W20
+S2
+W9
+W5
+W18
+S4
+S5
+W24
+W15
+W7
+W4
+W8
+W2
+W6
+W14
+W21
+W16
+W23
+W22W11
+W10
+W19
+W13 W12
+W1
+W17
+W3
+[0 1 20.5
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Intersections
+High Priority Project
+Medium Priority Project
+Low Priority Project
+High Priority Study
+Medium Priority Study
+Segments
+High Priority Project
+Medium Priority Project
+Low Priority Project
+Medium Priority Study
+Low Priority Study
+Plan Areas
+County Boundaries
+Figure 11A
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\11 Planned and Programmed Projects.mxd
+Planned and
+Programmed Projects
+C l a c k a m a s
+C o u n t y
+S k a m a n i a
+C o u n t yC l a r k
+C o u n t y
+238th
+Drive
+Foster Road
+Stark Street
+Halsey Street
+Sandy Boulevard
+257th/KaneDrive
+Glisan Street
+Lusted Road
+Woodard Road
+BrowerRoad
+Arata Road
+Troutdale
+Road
+SundialRoad
+Telford Road
+Bluff Road
+MarineDrive
+Historic Columbia River Hwy.
+EvansRoad
+Division Drive
+223rd Avenue
+OxbowDrive
+Hurlburt Road
+302nd Avenue
+Dodge Park Boulevard
+Gordon Creek Road
+Larch Mountain Road
+ß/26
+vÍÎ212
+§¨¦
+84
+E28
+E29
+E1
+E25
+E26
+E8
+E6
+S16
+E20
+E3
+E24
+S13
+S14
+E23
+E18
+E33
+E13
+E34
+E2
+E7
+E16
+E5
+E15
+E22
+E31
+E12
+E17
+S15
+S17
+E35
+E27
+E19
+E37
+E38
+E36
+E32
+E30
+E14
+E4
+E9 E21E11
+[0 1.5 30.75
+Miles
+Date:
+8/29/2016
+Disclaimer:
+This map is intended for informational purposes only.
+While this map represents the best data available at
+the time of publication, Multnomah County makes no
+claims, representations, or warranties as to its
+accuracy or completeness. Metadata available upon
+request.
+Prepared By:
+Kittelson & Associates, Inc.
+Coordinate System:
+NAD 1983 HARN State Plane Oregon North FIPS 3601
+Intersections
+High Priority Project
+Medium Priority Project
+Low Priority Project
+High Priority Study
+Medium Priority Study
+Segments
+High Priority Project
+Medium Priority Project
+Low Priority Project
+Medium Priority Study
+Low Priority Study
+Plan Areas
+County Boundaries
+Figure 11B
+H:\projfile\17944 - Multnomah County Comprehensive Plan\gis\Final TSP document\11 Planned and Programmed Projects.mxd
+Planned and
+Programmed Projects
+  Transportation System Plan
+
+Table 9 Planned and Programmed Projects
+Project
+Number  Project Location  Project Description  Priority  Cost
+West County: West Hills
+W1
+Burlington Northern Trail:
+Cornelius Pass Rd to McNamee
+Rd
+County does not manage or develop trails. Work with
+partners to study the conversion of Burlington Northern
+railroad corridor parallel to Cornelius pass Road to a
+mixed‐use trail.
+high  $$$
+W2  Cornelius Pass Road: (old) St.
+Helens Road to MP 2
+This project is only to be pursued if the Burlington
+Northern Trail does not move forward.
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or coul
+d include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs.
+low  $$$
+W3  Cornelius Pass Road: US 30 to
+County Line
+Safety improvements ‐ 8th Avenue; S curves; Boyd's lower
+driveway; curves south of Plainview; Kaiser Road signage,
+clearing, and flashing beacons; corridor signage; vehicle
+pullouts; barrier and guardrail upgrades; reduce pavement
+drop offs; variable message signs. If applicable, tie into
+wayfinding signage that lets bi cyclists  know that  Old
+Cornelius Pass Rd is a lower volume option.
+high  $$$
+W4  Cornell Road: UGB TO UGB
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders).
+low  $$$
+W5  Germantown Road/Old
+Germantown Road
+Widen Germantown Road to create southwest bound left
+turn pocket and improve sight distance.   medium  $$$
+W6  Germantown Road: Skyline
+Boulevard to County Line
+Provide safety improvements such as augmenting
+shoulders in a context‐sensitive manner.  low  $$$
+W7  Germantown Road: Skyline
+Boulevard to County Line
+Safety spot improvements – Widen lanes on curves only,
+install center skip like reflective markers, and install mirror
+at intersection with Old Germantown Road. Install
+Dynamic Curve Speed Warning System.  Two flashing
+speed signs each direction on Germantown Rd west of
+Skyline Blvd between mileposts 2.5‐3.5. Install traffic
+calming devices to reduce speeds.
+low  $$
+W8  Laidlaw Road: McDaniel Rd to
+Saltzman Rd
+Provide safety improvements such as augmenting
+shoulders in a context‐sensitive manner.  low  $$$
+W20  Newberry Road
+Safety spot improvement – Install guardrail ¼ mile south of
+US 30 and identify if there is a speeding concern and if so,
+install countermeasures 1.2 miles from US 30.
+low  $
+W9  Skyline Boulevard/Cornelius
+Pass Road
+Cornelius Pass Road intersection improvements – install
+signal, provide westbound left‐turn lane and through/right
+lane on Skyline Boulevard.
+medium  $$
+W10  Skyline Boulevard:  Beck Road
+to Rocky Point Road
+Provide safety improvements such as augmenting
+shoulders in a context‐sensitive manner.  medium  $$$
+W11  Skyline Boulevard:  Cornelius
+Pass Road to Beck Road
+Provide safety improvements such as augmenting
+shoulders in a context‐sensitive manner.  medium  $$$
+W12  Skyline Boulevard: UGB to
+Cornelius Pass Road
+Provide safety improvements such as augmenting
+shoulders in a context‐sensitive manner.  high  $$$
+  Transportation System Plan
+
+W13  Skyline Boulevard: UGB to
+Cornelius Pass Road
+Safety improvement – Install traffic calming devices to
+reduce speeds to be consistent with outcome of future
+speed zone study (Project S1) from UGB to Cornelius Pass
+Road.
+high  $$
+W14  Springville Road: UGB to
+County Line
+Provide safety improvements such as augmenting
+shoulders in a context‐sensitive manner. Also consistent
+with on‐street bike/ped option in the Westside Trail
+Master Plan
+low  $$$
+W15  Thompson Road: 53rd Dr to
+UGB
+Provide safety improvements such as augmenting
+shoulders in a context‐sensitive manner.  low  $$$
+West County: SIMC
+W16
+Gillihan Road Curve
+Improvements: Sauvie Island
+Rd to Reeder Rd
+Provide warning signs and delineation posts on curves
+along the loop roads.  high  $
+W17
+Gillihan Road Signage
+Improvements: Sauvie Island
+Rd to Reeder Rd
+Install speed limit signs on unsigned sections of Gillihan
+Road.  high  $
+W18  Gillihan Road/Reeder Road
+Intersection Upgrades
+Implement a three‐way stop control at the intersection of
+Gillihan Road and Reeder Road to be consistent with
+outcome of future intersection study (Project S2).
+medium  $
+W19  Loop Road Shoulder
+Improvements
+Provide 3‐4 foot paved shoulders on the loop roads
+including Reeder Road, Sauvie Island Road, and Gillihan
+Road.
+medium  $$$
+  Line intentionally left blank.
+W21
+Reeder Road Shoulder
+Improvements: Gillihan Rd to
+County Line
+Provide separation for bicycles where warranted and/or
+feasible on Reeder Road from Gillihan Road to the
+Columbia County line. Improvements could include narrow
+shoulders (3‐4 feet) to full width shoulders (6 feet) in one
+or both directions or could include minim al  improvements
+such as uphill bicycle climbing lanes or intermittent bicycle
+pull‐outs. Solutions can be used for pedestrian use (i.e.
+shoulders).
+low  $$$
+W22  Sauvie Island Road Multi‐Use
+Path
+Construct multi‐use path parallel to sections of Sauvie
+Island Road located on the levee.  medium  $$$
+W23
+Sauvie Island Road Shoulder
+Improvements: Reeder Rd to
+County Line
+Provide separation for bicycles where warranted and/or
+feasible on Sauvie Island Road from Reeder Road to the
+Columbia County line. Improvements could include narrow
+shoulders (3‐4 feet) to full width shoulders (6 feet) in one
+or both directions or co uld  include minimal improvements
+such as uphill bicycle climbing lanes or intermittent bicycle
+pull‐outs. Solutions can be used for pedestrian use (i.e.
+shoulders).
+low  $$$
+W24  US 30/Sauvie Island Road
+Intersection Upgrades
+Upgrade the traffic signal controller at the intersection of
+US 30 and Sauvie Island Road to be consistent with
+outcome of future intersection upgrade study (Project S5).
+high  $
+W25  Advisory Bike Lane Pilot
+Project
+Implement advisory lane pilot test project to be consistent
+with outcome of future advisory lane test study (Project
+S6). The project will temporarily implement an advisory
+lane and be monitored for compliance and use.
+low  $
+W26  Event Permit Calendar  Develop event permit calendar and implement use. high  $
+W27  Sauvie Island and Multnomah
+Channel (SIMC) Bike Map
+Work with Sauvie Island Community Association (SICA) and
+other Sauvie Island stakeholders to develop a bike map
+that includes wayfinding and education
+high  $
+W28  Sauvie Island Mobile Speed
+Radar Implementation
+Obtain a mobile speed radar unit for Sauvie Island that can
+be relocated at regular intervals.  low  $
+W29  Sauvie Island Speed Photo
+Radar Implementation
+Implement permanent speed photo radar signs at several
+locations on Sauvie Island.  low  $
+  Transportation System Plan
+
+W30
+Sauvie Island Speed Photo
+Radar Ticketing
+Implementation
+Implement photo radar ticketing at several locations on
+Sauvie Island  low  $$$
+W31  Share the Road Improvements
+Install warning/advisory signs are to inform motorists of
+bicycles and farm equipment sharing the road along
+facilities (all roads under existing conditions)
+high  $
+W32  SIMC Travel Demand
+Management Plan
+Develop a Travel Demand Management Plan for the island
+that further explores each of the potential TDM strategies
+and explores and identifies a potential Transportation
+Management Association (TMA) for Sauvie Island.
+Elements of the TDM plan should include input from study
+projects S3, S7‐S10, and S12 ).
+high  $
+W33  SIMC Wayfinding Upgrades
+Install additional wayfinding to provide guidance to
+motorized and non‐motorized users to areas of interest
+such as types and location of recreation, parking, and other
+key destinations.
+high  $
+East County
+E1  282
+nd
+ Avenue/Stone Road Turn
+Lanes
+The addition of right turn channelization lanes in the
+northbound and southbound direction on 282
+nd
+ would
+reduce the high incidence of rear end crashes at this
+location. Some roadway widening would be necessary.
+low  $$
+E2  282nd Avenue: Orient to
+County Line
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders).
+low  $$$
+E3  302
+nd
+ Avenue/Lusted Road
+Realign Lusted Road and Pipeline Road to create
+perpendicular intersection at 302
+nd
+, add left turn lane to
+each leg of intersection.
+medium  $$$
+E4  302
+nd
+ Avenue: Kerslake to Bluff
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders).
+medium  $$$
+E5  Corbett Hill Road Safety
+Improvements
+Implement safety improvements from future Corbett Hill
+Road Safety Study (Project S13).  low  $$$
+E6  Corbett Hill Road/Historic
+Columbia River Highway
+Improve intersection alignment by making stops at right
+angle.  low  $$$
+E7  Corbett Hill Road: I‐84 to HCRH
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders).
+low  $$$
+E8  Division Drive/Troutdale Road
+Realign intersection, eliminating NE leg, producing a 4‐way
+intersection. Replace 3 existing culverts identified as fish
+barriers.
+low  $$$
+E9  Dodge Park Boulevard: Orient
+to County Line
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders).
+medium  $$$
+E10  Line intentionally left blank.
+  Transportation System Plan
+
+E11  Foster Road: Jenne to County
+Line
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders). See also Springwater Master Plan
+Transportation System Plan (September 2005, Gresham).
+high  $$$
+E12  Gordon Creek Road
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian  use (i.e.
+shoulders).
+low  $$$
+E13  Hosner Road: Hosner Terrace
+to Oxbow Park Road SE
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped
+estrian use (i.e.
+shoulders).
+low  $$$
+E14  Hurlburt Road: HCRH to
+Littlepage Road
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders).
+medium  $$$
+E15  Interlachen Lane: Marine Dr to
+Blue Lake Rd  Add sidewalks to both sides  low  $$$
+E16  Kerslake Road: Wilson to 302
+nd
+
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for pedestrian use (i.e.
+shoulders
+).
+low  $$$
+E17  Larch Mt. Road: HCRH to end
+of county road
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped
+estrian use (i.e.
+shoulders).
+low  $$$
+E18  Littlepage Road: Hurlburt to
+Knieriem
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders).
+low  $$$
+E19  Lusted Road Safety
+Improvements
+Implement safety improvements from future Lusted Road
+Safety Study (Project S15).  medium  $$$
+E20
+Lusted Road/Powell Valley
+Road/282
+nd
+ Avenue
+Consolidation
+Realignment to connect SE Lusted Road directly with SE
+Powell Valley Road is included in the County’s Capital
+Improvement Plan and Program. The project would require
+further engineering analysis and coordination with the City
+of Gresham to develop a recommend alignment. A traffic
+signal is warranted based on projected 20 20 PM peak hour
+volumes, and would provide LOS B operations.
+medium  $$$
+  Transportation System Plan
+
+E21  Lusted Road: 282nd to County
+line
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders).
+medium  $$$
+E22  Mershon Road: Ogden to
+HCRH
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders).
+low  $$$
+E23  Ogden Road: Mershon to
+Woodard
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders).
+low  $$$
+E24  Orient Drive/282nd Avenue
+Safety Improvements
+Implement safety improvements from future Orient
+Drive/282nd Avenue Safety Study (Project S16).  medium  $$$
+E25  Orient Drive/Bluff Road
+Widen Orient Drive to create eastbound left turn lane to
+Bluff Road, realign Bluff and Teton to create perpendicular
+intersection.
+low  $$$
+E26  Orient Drive/Dodge Park
+Boulevard   Widen Orient Drive to create eastbound left turn lane.   low  $$
+E27  Orient Drive: Welch Road to
+Dodge Park Boulevard
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped
+estrian use (i.e.
+shoulders).
+medium  $$$
+E28  Orient Drive/Dodge Park
+Boulevard Realignment
+Realign the intersection to create a more perpendicular
+angle. Driveway modifications would be required to serve
+the auto body shop in the northwest quadrant of the
+intersection.
+low  $$$
+E29
+Oxbow Drive/327th
+Avenue/Altman Road
+Realignment
+Channelizing the broad paved area on SE 327
+th
+Avenue at
+the approach to SE Oxbow Drive to create a more
+perpendicular intersection is recommended to improve
+sight distance and reduce the potential for conflict
+between westbound left turns and northbound left turns.
+Widen Oxbow Drive to create westbound left turn lane to
+Altman Road/327th Avenue.
+low  $$$
+E30  Oxbow Drive: Division Drive to
+Hosner Road
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders).
+medium  $$$
+E31  Oxbow Parkway: Hosner Road
+to Road End
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders).
+low  $$$
+  Transportation System Plan
+
+E32  SE Division Drive: Troutdale to
+Oxbow Parkway
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders).
+medium  $$$
+E33  SE Division Drive: UGB to
+Troutdale Road
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders).
+low  $$$
+E34
+SE Nielson Road ‐ SE
+Woodward Road Bicycle
+Detour
+Install signage to encourage cyclists to use SE Nielson Road
+‐ SE Woodard Road as a detour to the adjacent segment of
+Historic Columbia River Highway with curves and no
+shoulders.
+low  $
+E35  Stark St: City Limit to 35th St
+Add pedestrian improvement to south side from City limits
+to 35th Street.  Pedestrian facility type and width may vary
+throughout the corridor depending upon the context
+available, ROW, and context.
+high  $
+E36  Stark Street Safety
+Improvements
+Implement safety improvements from future Stark Street
+Safety Study (Project S17).  medium  $$$
+E37  Troutdale Road: Strebin Road
+to 282 Avenue
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders).
+medium  $$$
+E38  Woodard Road: HCRH to
+Ogden Road
+Provide separation for bicycles where warranted and/or
+feasible. Improvements could include narrow shoulders (3‐
+4 feet) to full width shoulders (6 feet) in one or both
+directions or could include minimal improvements such as
+uphill bicycle climbing lanes or intermittent bicycle pull‐
+outs. Solutions can be used for ped estrian use (i.e.
+shoulders).
+medium  $$$
+E39  Sandy River to Springwater
+multi‐modal connection
+Partner with City of Gresham, Metro and other regional
+partners to construct the Sandy to Springwater Multi‐
+modal Corridor according to the Master Plan to be
+developed in 2016
+low  $$$
+  Line intentionally left blank.
+County‐wide
+C1  Wayfinding Upgrades
+Install additional wayfinding to provide guidance to
+motorized and non‐motorized users to areas of interest
+such as types and location of recreation, parking, and other
+key destinations.
+medium  $
+
+  Transportation System Plan
+
+Table 10 Planned and Programmed Study Projects
+Project
+Number  Project Location  Project Description  Priority  Cost
+West County: West Hills
+S1  Skyline Boulevard: UGB to
+Cornelius Pass Road
+Speed zone study – Conduct speed study to determine
+appropriate speed limit for Skyline Boulevard from
+Cornelius Pass Road east to city limits of Portland.
+high  $
+S20  West Hills Transportation
+Demand Management Study
+Conduct a study to determine the best TDM practices to
+implement in the West Hills.  high  $
+West County: SIMC
+S2
+Gillihan Road/Reeder Road
+Intersection Improvement
+Study
+Conduct an engineering/safety study to determine impacts
+and safety considerations for implementing three‐way
+stop‐control at the intersection of Gillihan Road and
+Reeder Road.
+medium  $
+S3  Sauvie Island Bridge Toll Study  Study the implications of a Sauvie Island Bridge toll for
+non‐residents.  low  $
+S4
+Sauvie Island Road/Reeder
+Road Intersection
+Improvement Study
+Conduct an engineering/safety study to determine impacts
+and safety considerations for implementing three‐way
+stop‐control and channelized right‐turn for northbound
+traffic at the intersection of Sauvie Island Road and Reeder
+Road.
+high  $
+S5  US 30/Sauvie Island Road
+Intersection Signal Study
+Conduct study of signal timing at the intersection of US 30
+and Sauvie Island Road for possible truck extensions,
+westbound detection issues, and optimization of green and
+red time.
+high  $
+S6  Advisory Bike Lane Study
+Conduct engineering study to identify potential locations
+for an advisory bike lane pilot test and verify adequate
+sight distance.
+low  $
+S7  Daily Trip Study  Study to explore a daily trip cap. low  $
+S8  Parking Information
+Distribution Study
+Study to determine the most effective and feasible method
+to implement distribution of parking information.  low  $
+S9  Permitting Study
+Work with ODF&W to implement an increased parking
+permit fee and/or limit number of permits. Include bicycle
+permitting.
+low  $
+S10  Sauvie Island Park‐n‐Ride and
+Shuttle Service Study
+Study to determine location of off‐island park‐n‐ride lots
+and plan for on‐island shuttle service for events.  low  $
+S11  SIMC Rail Study
+Conduct rail corridor study to identify feasible local street
+connections and railroad crossing consolidation and
+upgrades. Project will include coordinate with owners of
+the private rail crossings.
+low  $
+S12  Ticket and Permit Enforcement
+Study
+Study the implementation of increased permits and
+enforcement of permits; including illegally parked vehicles,
+beach day use permits, and existing permit compliance.
+high  $
+East County
+S13  Corbett Hill Road Safety Study
+Study Corbett Hill Road between I‐84 and Historic
+Columbia River Highway for potential safety improvements
+including curve warning signs, delineation, and shoulder
+widening.
+low  $
+S14  Hurlburt Road Safety Study  Study the need for further safety measures after the
+implementation of Project E14.  low  $
+S15  Lusted Road Safety Study
+Study Lusted Road for 1/4 of a mile in the east direction
+starting 1/3 of a mile east of Cottrell Road for potential
+safety improvements including curve warning signs,
+delineation, and shoulder widening.
+medium  $
+  Transportation System Plan
+
+S16  Orient Drive/282nd Avenue
+Safety Study
+Study Orient Drive/282nd Avenue for potential safety
+improvements including advanced warning signs and signal
+modifications (timing, phasing, controller).
+medium  $
+S17  Stark Street Safety Study
+Study Stark Street between 36th Street and Historic
+Columbia River Highway for potential safety improvements
+including advanced warning signs and signal modifications
+(timing, phasing, controller).
+high  $
+S18  East County Transportation
+Demand Management Study
+Conduct a study to determine the best TDM practices to
+implement in East County.  low  $
+County‐wide
+S19  Shared Bikeways Signage Study  Study all shared bikeways designated on the Bicycle Map
+for potential signage needed.  low  $
+
+  Transportation System Plan
+
+KEY CODE AMENDMENTS
+The  Transportation  Planning  Rule  (TPR),  as  codified  in  Oregon  Administrative  Rules  (OAR)  660‐012‐
+0020(2)(h), requires that local jurisdictions identify land use regulations and code amendments needed
+to implement the TSP, and include them as the implementation element.
+Multnomah County’s TSP will be implemented through a variety of activities, including:
+Planning,  d esigning   and  constructing  proposed  projects.   The  County  plans  for  and  builds  capital
+projects through its Transportation Capital Improvement Plan and Program (CIPP).  The CIPP is updated
+every five years and is reviewed biennially for programming corrections.  The Capital Improvement Plan
+identifies and ranks transportation improvement needs on county roadways and brid ges  over the next
+20 years, drawing in large part from projects identified in the TSP.  County staff uses objective criteria to
+evaluate  and  score  potential  projects.  Criteria  include  safety,  health,  equity,  access  to  transit,
+congestion  relief,  support  of  regional  land  use  goals,  and  community  support.   The  Capital
+Improvement  Program  assigns  anticipated  revenues  to  the  highest  priority  proj ects  for  a  five‐year
+period.  The  program  is  reviewed  by  the  County  Transportation  Division  annually  for  programming
+updates.  Detailed  design  and  public  outreach  is  conducted  for  projects  that  are  funded  through  the
+CIPP process, prior to construction.
+Updating  applicable  development  code  standards.  As  pa rt   of  the  TSP  process,  the  project  team
+evaluated  the  County’s  Zoning  Ordinance  for  consistency  with  Oregon  Transportation  Planning  Rule
+(TPR)  requirements,  as  well  as  for  its  consistency  with  the  TSP  generally.  Potential   updates  to  the
+zoning ordinance have been identified and will be adopted subsequent to the adoption of the TSP.
+Updating oth
+er design standards.  Additional  road design standards also may need to be updated to
+implement  specific  recommendations  in  the  TSP  Range  of  Solutions  Toolkit.   Some  updated  design
+standards  may  be  incorporated  in  revisions  to  the  County’s  Transportation  Design  and  Construction
+Manual  in  the  very  near  term.  Others   will  r equire   a  follow‐up  effort  to  prepare  and  appprove
+additional revisions to the manual.
+Transportation  facility  review  and  permitting.   The  County  reviews  proposed  improvements  or
+projects to provide access to County roads on an ongoing basis, including driveways, drainage facilities,
+intersection or crossing improvements necessitated by nearby development or other si milar  projects.
+Ensuring consistency with the goals, policies and strategies in the TSP will be an essential element of
+those processes.
+
+  Transportation System Plan
+
+FUNDING ANALYSIS
+The  following  provides  an  overview  of  Multnomah  County’s  historical  and  existing  transportation
+funding, a projection of future funding based on historical information, and an overview of additional
+potential funding sources.
+Historical and Existing Funding
+This  section  summarizes  the  historical  transportation  funding  sources  for  Multnomah  County.  The
+information  summarized  below  will  be  used  to  assist  in  identifying  potential  funding  gaps  associated
+with future county projects and programs.
+Historically, transportation funds have been collected through local sources, private contributions, state
+government, federal government, and non‐jurisdiction work. Local sourc es  include, but are not limited
+to, fuel taxes and local governments such as cities. Motor vehicle registration fees were introduced and
+collected starting in the year 2011 and are a part of the funds from local sources. Federal stimulus funds
+(ARRA)  dedicated  to  transportation  projects  represent  a  new  federal  fu nding   source  for  2010.  The
+transportation program includes streets, sidewalks, bike paths, railroad crossings, and transit.
+Exhibit  2  reports  the  total  transportation  funding  for  Multnomah  County  for  the  year  2005  through
+2014.  Table  11  details  the  County’s transportation  funding  by  source.  As  shown,  2013  and  2014
+received the most funding over the last decad e with over double the funding of prior years. In 2013,
+funding from local sources spiked due to sales of bonds totaling $128,000,000. Funds from fuel tax have
+remained fairly consistent over the last decade contributing between $6,500,000 and $7,400,000 each
+year. Like fuel tax, state funds have re mained  within a relatively narrow range, between $29,000,000
+and  $39,000,000,  with  the  exception  of  2005  which  saw  a  contribution  of  about  $55,600,000.  State
+funding is the biggest funding source throughout the past ten years, excluding the 2013 sale of bonds as
+previously mentioned.
+Other  funding  options  are  being  explored  such  as  user  f ees,   congestion  pricing,  and  mileage‐based
+registration fees. For example, the State of Oregon set up the Road Usage Charge Program in 2015, with
+a pilot study in 2012, that charges volunteer users based on vehicle‐miles‐traveled. There is a set charge
+rate per mile, and credits are given for state tax paid on fuel pu rchased.
+  Transportation System Plan
+
+Exhibit 2 Multnomah County Funding for Transportation (2005‐2014)
+
+Table 11 Multnomah County Funding for Transportation Years 2005‐2014
+Year
+Source
+Total
+Fuel Tax  Local Sources  Private
+Contributions  State Funding  Federal Funding
+Non‐
+Jurisdictional
+Work
+2005  $6,744,233  $2,037,616  $0  $55,586,395  $1,869,318  $837,315  $67,074,877
+2006  $7,114,721  $2,337,147  $213,243  $31,040,765  $1,417,995  $943,352  $43,067,223
+2007  $7,110,272  $1,567,375  $130,880  $32,385,736  $1,105,605  $2,963,682  $45,263,550
+2008  $7,356,083  $1,339,539  $0  $29,298,036  $3,418,294  $2,681,591  $44,093,543
+2009  $6,878,197  $2,569,042  $0  $30,370,214  $2,884,584  $2,179,068  $44,881,105
+2010  $6,982,150  $1,311,827  $0  $29,004,662  $4,363,057  $2,121,595  $43,783,291
+2011  $7,052,045  $17,519,052  $0  $33,561,224  $9,883,713  $2,856,357  $70,872,391
+2012  $6,811,257  $26,294,096  $0  $36,227,457  $12,990,232  $2,222,274  $84,545,316
+2013  $6,573,115  $188,254,386  $0  $38,972,767  $2,399,555  $1,992,451  $238,192,274
+2014  $6,627,984  $61,920,847  $0  $38,527,230  $26,201,381  $2,059,726  $135,337,168
+
+Exhibit  3  reports  the  total  expenditures  of  Multnomah  County  for  transportation  in  the  years  2005
+through  2014.  Table  12  summarizes  the  County’s  transportation  expenditures  by  source.  Years  2013
+and 2014 had the most spending with over double what the majority of the other years spent. Those
+$0.00
+$50.00
+$100.00
+$150.00
+$200.00
+$250.00
+$300.00
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+Funding in Millions
+Year
+Total Funds
+  Transportation System Plan
+
+years also saw additional local funding from bonds as discussed above. Spending on Capital Projects and
+Payments to other Governments/Jurisdictions were the two largest expenditures over the past decade.
+Payments  to  other  governments  and  jurisdictions  included  payments  to  counties,  cities,  other  local
+agencies, and state and state highway projects.
+Spending  on  capital  projects  increas ed  significantly  starting  in  2012.  The  majority  of  the  spike  in
+spending  went  to  system  preservation  for  the  Sellwood  Bridge  Project.  The  year  2012  increase  was
+almost evenly split between project engineering and system preservation, each with approximately $21
+million,  but  2013  and  2014  spent  about  $56  million  and  $73  milli on,  respectively,  on  system
+preservation alone.
+Exhibit 3 Multnomah County Expenditures for Transportation (2005‐2014)
+
+$0.00
+$20.00
+$40.00
+$60.00
+$80.00
+$100.00
+$120.00
+$140.00
+$160.00
+$180.00
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+Expenditures in Millions
+Year
+Total Expenditures
+  Transportation System Plan
+
+Table 12 Multnomah County Expenditures for Transportation Years 2005‐2014
+Year
+Source
+Total
+Capital
+Projects
+(Improvements
+and
+Preservation)
+Operations &
+Maintenance
+Administration
+& General
+Engineering
+Match
+Payments for
+Local Agency
+Projects
+Debt Service
+on Local
+Obligations
+Payments to
+Other
+Governments/J
+urisdictions
+Reimburse‐
+ments
+1
+2005  $8,822,124  $7,403,780  $3,423,016  $0  $288,022  $21,349,429  $942,708  $42,229,079
+2006  $7,788,562  $7,164,162  $3,943,756  $0  $291,289  $35,333,705  $1,440,134  $55,661,608
+2007  $21,856,624  $5,821,601  $4,080,165  $14,534,934  $287,996  $23,493,283  $2,513,914  $72,588,517
+2008  $18,669,634  $5,942,808  $3,931,355  $3,065,694  $287,996  $22,903,091  $2,508,531  $57,309,109
+2009  $11,156,600  $7,797,336  $4,318,754  $1,356,283  $288,000  $20,885,234  $2,179,068  $47,981,275
+2010  $8,481,991  $9,107,884  $3,126,007  $1,458,258  $288,000  $20,008,305  $2,432,796  $46,903,241
+2011  $15,646,108  $8,445,260  $2,828,115  $1,487,761  $288,000  $24,673,775  $2,263,774  $55,632,793
+2012  $54,067,309  $9,061,593  $3,215,765  $780,522  $701,151  $27,415,906  $2,222,275  $97,464,521
+2013  $69,568,440  $8,075,180  $4,563,300  $0  $52,495,665  $27,523,385  $1,990,000  $164,215,970
+2014  $85,669,337  $7,554,458  $4,582,540  $0  $9,929,719  $28,793,395  $2,109,428  $138,638,877
+1
+Expenditures that are reimbursed for work done on others’ roads/streets
+Projected Funding and Funding Needs
+Prior to the bond funds in 2012, average annual spending on capital projects from 2005 through 2011
+was  approximately  $13  million  per  year  including  both  engineering  and  preservation  projects.  This
+equates to approximately $260 million over the next 20 years.
+Potential Funding Sources List
+The County has three basic categories of funding to draw from to fund transportation projects in the
+unincorporated areas. A brief description of each category is below.
+ Federal Sources
+o Congestion Mitigation and Air Quality (CMAQ)
+o Highway Safety Improvement Program (HSIP)
+o Fixing America’s Surface Transportation Act (FAST Act)
+
+ State Sources
+o Road Fund (also referr
+ed to as the Oregon State Highway Trust Fund)
+o Surface Transportation Program
+o All Roads Transportation Safety (ARTS)
+o ConnectOregon
+  Transportation System Plan
+
+o Statewide Transportation Improvement Program (STIP ‐Fix‐It)
+o Statewide Transportation Improvement Program (STIP ‐ Enhance)
+o Transportation and Growth Management Grants (TGM)
+
+ Local Sources
+o Economic Improvement Districts (EID)
+o Bond Measure
+o Fuel Tax/Registration Fee
+o Local Improvement Districts (LID)
+o Road District
+Federal Sources
+Congestion Mitigation and Air Quality (CMAQ)
+The  Congestion  Mitigation  and  Air  Quality  (CMAQ)  program  provides  funding  for  projects  that  help
+reduce emissions and meet national air quality standards, such as transportation demand management
+programs, bicycle and pedestrian improvements, transit projects, diesel retrofits, and vehicle emissions
+reductions programs.
+More Information: http://www.fhwa.dot.gov/environment/air_quality/cmaq/.
+Highway Safety Improvement Program (HSIP)
+The  Highway  Safety  Improvement  Program  (HSIP)  provides  funding  for  infrastructure  and  non‐
+infrastructure projects that improve safety on all public roads, including non‐State‐owned public roads
+and  roads  on  tribal  lands.  The  HSIP  requires  a  data‐driven,  strategic  approach  to  improving  highway
+safety on all public roads that focuses on performa nce.  ODOT administers HSIP funding through the All
+Roads Transportation Safety (ARTS) program described below.
+More information: http://safety.fhwa.dot.gov/hsip/.
+Fixing America’s Surface Transportation Act (FAST Act)
+The Fixing America’s Surface Transportation Act (FAST Act)provides funding for programs and projects
+defined  as  transportation  alternatives,  including  on‐  and  off‐road  pedestrian  and  bicycle  facilities,
+infrastructure projects for improving non‐driver access to public transportation and enhanced mobility,
+community improvement activities, and environmental mitigation; recreational trail program projects;
+safe  routes  to  school  projects;  and  projects  for  planning,  designing,  or  constructing  boulevards  and
+  Transportation System Plan
+
+other  roadways  largely  in  the  right‐of‐way  of  former  Interstate  System  routes  or  other  divided
+highways.
+More Information: http://www.fhwa.dot.gov/map21/guidance/guidetap.cfm.
+State Sources
+Surface Transportation Program (STP)
+The  Surface  Transportation  Program  (STP)  provides  flexible  funding  that  may  be  used  by  states  and
+localities,  such  as  Multnomah  County,  for  projects  to  preserve  and  improve  the  conditions  and
+performance on any Federal‐aid highway, bridge and tunnel projects on any public road, pedestrian and
+bicycle infrastructure, and transit capital projects, i ncluding  intercity bus terminals.
+Road Fund (Oregon State Highway Trust Fund)
+The  expenditures  of  the  Road  Fund  are  restricted  for  construction,  reconstruction,  improvement,
+repair,  maintenance,  operation,  use  and  policing  of  public  highways,  roads  and  streets  within  the
+County. The funding stream is considered stable but is anticipated to decrease as vehicle fuel efficiency
+increases. The cost of maintaining roadways and building new ones is also in creasing, which means the
+purchasing  power  of  these  funds  will  not  provide  the  same  level  of  maintenance  or  as  many  capital
+projects as in the past. There is potential in the future for a mileage‐based fee to replace the gas tax.
+All Roads Transportation Safety (ARTS)
+The  All  Roads  Transportation  Safety  (ARTS)  program  (formerly  known  as  Jurisdictionally  Blind  Safety
+Program) is intended to address safety needs on all public roads in Oregon. By working collaboratively
+with local road jurisdictions (cities, counties, MPO’s and tribes) ODOT expects to increase awareness of
+safety  on  all  roads,  promote  best  practices  for  infrastructure  safety,  co mpliment  behavioral  safety
+efforts and focus limited resources to reduce fatal and serious injury crashes in the state of Oregon. The
+program  is  data  driven  to  achieve  the  greatest  benefits  in  crash  reduction  and  should  be  blind  to
+jurisdiction. The ARTS program primarily uses federal funds from the HSIP.
+More Inform
+ation: http://www.oregon.gov/ODOT/HWY/TRAFFIC‐ROADWAY/Pages/ARTS.aspx.
+ConnectOregon
+ConnectOregon  is  a  lottery  bond  based  initiative  to  invest  in  air,  rail,  marine,  transit,  and
+bicycle/pedestrian  infrastructure  to  ensure  Oregon’s  transportation  system  is  strong,  diverse,  and
+efficient.  ConnectOregon  projects  are  eligible  for  up  to  80%  of  project  costs  for  grants  and  100%  for
+loans. A minimum 20% cash match is required fro m  the recipient for all grant funded projects. Projects
+  Transportation System Plan
+
+eligible for funding from state fuel tax revenues (section 3a, Article IX of the Oregon Constitution, the
+Highway Trust Fund), are not eligible for ConnectOregon funding. If a highway or public road element is
+essential to the complete functioning of the proposed project, applicants are encouraged to work with
+their ODOT region, city, or county to ident ify the necessary funding sources.
+More Information: http://www.oregon.gov/ODOT/TD/TP/pages/connector.aspx.
+Statewide Transportation Improvement Program (STIP)
+The Statewide Transportation Improvement Program (STIP) is ODOT’s four‐year transportation capital
+improvement  program.  It  is  the  document  that  identifies  the  funding  for,  and  scheduling  of,
+transportation  projects  and  programs.  It  includes  projects  on  the  federal,  state,  city,  and  county
+transportation systems, multimodal projects (highway, passenger rail, freight, public transit, bicycle and
+ped
+estrian),  and  projects  in  the  National  Parks,  National  Forests,  and  Indian  tribal  lands.  STIP  project
+lists  are  developed  through  the  coordinated  efforts  of  ODOT,  federal  and  local  governments,  Area
+Commissions on Transportation, tribal governments, and the public.
+The STIP is divided into two broad categories: Fix‐It and Enhance. The En hance  category funds activities
+that  enhance,  expand,  or  improve  the  transportation  system.  The  project  selection  process  for  the
+Enhance category has undergone significant changes in the last few years and reflects ODOT's goal to
+become  a  more  multimodal  agency  and  make  investment  decisions  based  on  the  system  as  a  whole,
+not for each mode or project type separately. ODO
+T has requested assistance from its local partners in
+developing Enhance projects that assist in moving people and goods through the transportation system.
+The projects are selected through a competitive application process. The Fix‐it category funds activities
+that  fix  or  preserve  the  transportation  system.  Thes e  projects  are  developed  mainly  from  ODOT
+management systems that help identify needs based on technical information for things like pavement
+and bridges.
+More information: http://www.oregon.gov/ODOT/TD/STIP/Pages/default.aspx.
+Transportation and Growth Management Grants (TGM)
+The  Transportation  Growth  Management  (TGM)  program  supports  community  efforts  to  expand
+transportation  choices  for  people.  By  linking  land  use  and  transportation  planning,  TGM  works  in
+partnership with local governments to create vibrant, livable places in which people can walk, bike, take
+transit  or  drive  where  they  want  to  go.  TGM  is  partnership  betw een  the  Oregon  Department  of
+Transportation  and  the  Oregon  Department  of  Land  Conservation  and  Development.  The  program
+receives  support  from  the  State  of  Oregon  and  the  Federal  Highway  Administration  of  the  U.S.
+Department  of  Transportation.  TGM  grants  are  awarded  on  an  annual  basis  in  two  categories:
+transportation system planning and in tegrated  land use & transportation planning.
+More Information: http://www.oregon.gov/LCD/TGM/pages/index.aspx.
+  Transportation System Plan
+
+Local Sources
+The  following  section  describes  local  funding  options  available  to  implement  the  projects  contained
+within  the  TSP  Update.  Each  description  includes  the  potential  funding  level,  the  action  needed  to
+implement the option, the administrative cost of implementation, anticipated community acceptance
+of  the  action,  and  the  types  of  projects  that  could  be  implemented  through  the  option.  All  options
+discussed ar
+e allowable and commonly used in other Oregon communities. Some require specific action
+in order to establish the program for the first time.
+Economic Improvement Districts (EIDs)
+Transportation  improvements  can  often  be  included  as  part  of  larger  efforts  aimed  at  business
+improvement and retail district beautification. Economic Improvement Districts collect assessments or
+fees  on  businesses  in  order  to  fund  improvements  that  benefit  businesses  and  improve  customer
+access  within  the  district.  Adoption  of  a  mutually  agreed  upon  ordinance  establishing  guidelines  and
+setting nec
+essary assessments or fees to be collected from property owners is essential to ensuring a
+successful EID.
+Local Bond Measures
+Local  bond  measures,  or  levies,  are  usually  initiated  by  voter‐approved  general  obligation  bonds  for
+specific  projects.  Bond  measures  are  typically  limited  by  time,  based  on  the  debt  load  of  the  local
+government  or  the  project  under  focus.  Funding  from  bond  measures  can  be  used  for  right‐of‐way
+acquisition,  engineering,  design,  and  construction  of  transportation  facili ties.  Transportation‐specific
+bond  measures  have  passed  in  other  communities  throughout Oregon.  Though  this  funding  source  is
+one that can be used to finance a multitude of project types, although the accompanying administrative
+costs are high and voter approval must be gained.
+Local Fuel Tax, Fuel Efficiency Charge and/or Registration Fee
+Every state collects an excise tax on fuel, and this includes diesel and biodiesel. Only nine states permit
+cities or counties to impose a local fuel tax, and Oregon is one of those states. Many Oregon counties
+and cities, have chosen to implement this mechanism in order to pay for street operatio n,  maintenance
+and preservation activities.
+Local Improvement Districts (LIDs)
+Local Improvement Districts (LIDs) are most often used by Countys to construct localized projects such
+as  streets,  sidewalks,  or  bikeways.  Through  the  LID  process,  the  costs  of  local  improvements  are
+generally  spread  out  among  a  group  of  property  owners  within  a  specified  area.  The  cost  can  be
+allocated based on property frontag e  or other methods such as trip generation. Though the costs of an
+  Transportation System Plan
+
+LID  project  are  borne  primarily  by  the  property  owners,  moderate  administrative  costs  must  be
+factored in, and the public involvement process must still be followed.
+Road District
+Road  districting  is  a  technique  used  to  localize  road  construction  or  maintenance  to  a  portion  of  a
+county  and  to  place  financial  responsibility  within  the  localized  area.  Typically  this  tool  is  used  to
+facilitate  the  improvement  of  local  access  or  unimproved  roads  and  is  not  used  on  roads  already
+maintained by the count y.  Attachment “C” includes additional information on Road Districts.
+Additional information: http://www.oregonlaws.org/ors/chapter/371
+Urban Growth Management Agreement
+An  Urban  Growth  Management  Agreement  (UGMA)  is  an  intergovernmental  agreement  that  outlines
+how  facilities  are  managed  in  the  area  outside  the  City  limits,  but  inside  the  City’s  Urban  Growth
+Boundary (UGB).
+Urban Renewal District/Tax Increment Financing
+Urban  Renewal  Districts  are  separate  taxing  districts  created  to  remove  blight  within  a  District  as
+defined by State statute and local Urban Renewal Plans. Each Urban Renewal Plan has identified actions
+that will remove the blight within the District. Those actions are funded by debt financing (e.g., bonds)
+using the incremental tax revenue generated fro m improvements on private property that increase the
+tax assessable value of that property that then create additional property tax revenue. The additional
+tax  revenue  (i.e.,  tax  increment)  is  then  directed  to  the  Urban  Renewal  District  to  be  used  for  blight
+removal.  This  public  finance  method  is  referred  to  as  Tax  Increment  Financing  (TIF)  and  is  limited  to
+Urban Renewal in the State.

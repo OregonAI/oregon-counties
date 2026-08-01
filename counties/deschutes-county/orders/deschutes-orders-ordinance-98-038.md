@@ -1,0 +1,203 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-98-038
+title: 'Ordinance No. 98-038'
+doc_type: ordinance
+citation: 'Ordinance No. 98-038'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616798977_1998-27178-Ordinance%20No.%2098-038%20Recorded%206_11_1998.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 44e0b3828dab1e34464a6369c0bc22b7685cf88260f43178ef85a3d5da0b030a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 98-038 (Ordinance No. 98-038)
+
+## At a glance
+
+Ordinance No. 98-038 — orders of Deschutes County. 4 pages.
+
+## Full text
+
+REVIEWED AS TO FORM 168 °' 0277 REVIEWED
+EODE REVIEWCOMM. LEGAL COUNS L
+98- 2' 71' 7$
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESC1 UTES COUNTY, OREGON
+An Ordinance Amending Title 18, Deschutes 9$ AN I ( PH 3: 56
+County Zoning Ordinance, of the Deschutes * `
+d
+CountyCode, andDeclaringanEmergency.  '  PI- d ; ULLG
+COUNTYCLERA
+ORDINANCE NO. 98- 038
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section1. ADDING. Chapter18.52, SurfaceMining - SM Zone, of the Deschutes County Code
+is amendedby theadditionof section18.52.115, Extendedoperatinghours, asdescribedin Exhibit "A,"
+attachedhereto and by this reference incorporated herein.
+Section 2. FINDINGS. Findings to support this ordinance are set forth in the staff report for File
+No. TA - 98- 10, attached as Exhibit " B," and incorporated herein by this reference.
+Section3. EFFECTIVEDATE. This Ordinancebeingnecessaryfor the immediatepreservation
+of the public peace, health and safety, an emergency is declared to exist and this Ordinance takes effect
+on its passage.
+DATED this _/ day of June, 1998.
+ATTEST:
+Recording Secretary
+PAGE I OF l - ORDINANCE No. 98- 038 ( 6/ 10/ 98)
+BOARD OF COUNTY COMMISSIONERS OF
+DESCHUTES COUNTY, OREGON
+NANCY PE SCHLANGEN, Chair
+T L. NIPPER,
+L. SWEARINGEN, Commissioner
+MICRO Il E®
+KEYP' i HEj)
+JUL 0 1 199
+ju2 199
+168 - 0278
+EXHIBIT " A"
+18. 52. 115. Extended operating hours.
+Notwithstanding the limitations set forth in
+an approved site plan for surface mining or the
+limitation on hours of operation set forth in
+subsection 18. 52. 110( I) of this chapter, a special
+operating permit for extended hours of operations
+at a mining site may be approved when the
+Planning Director or Hearings Body finds that an
+applicant demonstrates that:
+A. Project Necessity. Extended hours of
+operation are necessary to construct capital
+improvementsandotherspecificpublic roadway
+improvements, including but not limited to road
+widening, paving, surfacing and realigning,
+where practical difficulties not created by the
+applicant such as transportation management
+requirements necessitate project construction
+outside the hours specified in subsection
+18.52. 110(I) of this chapter or otherwise set forth
+in a surfacemining site plan;
+B. Equipment Limitation. During the
+extended hours of activity, operations at the
+mining site shall include only those usesallowed
+under section 18. 52. 040 of this chapter and, when
+already approved as a conditional use, those uses
+listed in section 18. 52. 050 of this chapter,
+including vehicular traffic, and shall be limited to
+the minimum necessary to complete the project;
+and
+C. Time Limitation. Activities approved
+under subsection ( B) of this section shall not
+exceeda period of 14 days but may be renewed
+for successiveperiodsnot exceedingthreedays
+each if the extension is necessaryto complete
+the roadway or capital improvement project; and
+transportation management concerns or unique
+project characteristicsjustify the extension.
+D. Noise Control. Activities permitted
+under this section are subject to subsection
+8. 08. 090( D) of chapter 8. 08 of the Deschutes
+County Code. ( Ord. 98- 038 § 1, 1998)
+Page 1 of 1 - EXHIBIT" A" TO ORDINANCENo. 98- 038 ( 6/ 10/98)
+EXHIBIT " B"
+168 - 0279
+MEMORANDUM
+DATE: June 2, 1998
+TO: Board of County Commissioners
+FROM: Barbara Rich, Planning Staff
+RE: TA -98-10, Extended Hours of Operation in Surface Mining Zone
+Hap Taylor & Sons, Inc., has submitted an application for a text amendment to Title 18 to allow
+extended hours of operation for mining activities when necessary to complete public works
+projects, such as highway road construction. Nighttime construction is often required on
+roadway projects, requiring hot asphalt preparation and delivery from a mining site outside the
+standard operating hours at mining sites. The amendment as drafted by staff following
+discussions with legal counsel and the Planning Commission is attached. The applicant
+anticipates working on a construction project on Highway 20, northwest of Sisters, as early as
+the second half of June.
+Summary of Proposed Text Amendment
+The proposedamendmentwill allow equipmentto be operatedat permittedmining sites for
+extended hours, i.e., " outside" the general operating hours allowed in the SM zone or hours
+specified in an existing site plan. Extended operating hours would only be allowed when a
+public roadway improvement project is identified and traffic concerns dictate that nighttime work
+must occur.
+For example, an operator meeting these provisions could prepare hot asphalt in a batch plant at
+a mining site where an asphalt batch plant is already permitted and deliver it to a construction
+area for paving at night. Extended operations require a special operating permit. An applicant
+must demonstrate that: 1) the project necessitates nighttime work, 2) only the minimal
+equipment required will be operated during the nighttime, and 3) equipment will be operated for
+as little time as necessary on both a daily basis and for the overall duration of the project.
+Reasons Justifying Proposed Amendment
+Due to high traffic volumes, ODOT frequently requires contractors to work on road construction
+projects at night ( or 24 hours/ day) to minimize adverse impacts to motorists that occur due to
+lane closures. These projects cannot be conducted during winter when traffic volumes might be
+lower because temperatures are too low to meet construction specifications. Roadway
+construction and maintenance projects are of obvious benefit to the general public and the
+overall duration of these projects is less when nighttime construction activity occurs. The overall
+duration of most projects of this nature is one to two weeks.
+PAGE 1 OF 2 — EXHIBIT " B" TO ORDINANCE NO. 98- 038 ( 6/ 10/ 98)
+r '•
+16S © 0280
+EXHIBIT " B"
+Extended hours of operation will result in additional nighttime noise at a mining site due to
+equipment and additional truck traffic. However, given the overall transportation needs of the
+public, the occasional operation of minimal equipment at mining sites, is necessary to complete
+roadway projects in a timely manner.
+Planning Commission discussion
+The Planning Commission met on May 28th to discuss this issue. The vote on the
+recommendation to the Board resulted in a 2- 2 split. Comments and suggestions generated
+during the discussion included:
+The balance achieved during the 200+ hours of Planning Commission hearings and
+80+ hours of County Commissioner hearings on surface mining in the county will be
+negated.
+The county made promises to the public regarding the scope of surface mining
+activities and these promises are embodied in the criteria contained in the Surface
+Mining zoning code, including hours of operation
+If the impacts of overnight or extended hours of operation were examined through an
+ESEE process, the concerns could be addressed because that is a public process
+and approval is not granted " wholesale."
+The occasional overnight operation is reasonable, but how can the county put a limit
+on the amount of overnight operation that occurs on any given site during a given
+paving season?
+Staff Recommendation
+Given boththe PlanningCommission's concernsabout length of work and circumventingthe
+public process embodied in the site specific ESEE analyses for each site and the Surface
+MiningZonecodeitselfstaff proposesa specificmaximumlimiton the specialoperatingpermit
+that can be obtained through this text amendment. Staff has recommended a two- week
+durationfor the operatingpermitbecausemostpavingprojectsappearto needsomethingless
+than that for completion. If a mine operator wishes to pursue more frequent or more extensive
+overnight operations, the operator/owner has the opportunity with the proposed language to
+pursue a plan amendment and follow the Goal 5 process to examine and balance the impacts
+on the uses that may conflict with a longer period of extended operating hours.
+The applicant has recommendedlanguage for the text amendmentthat would classify all
+roadway improvement projects requiring extended hours of operation as " emergencies." The
+Planning Commission and county staff do not agree that these types of projects can be
+classified as emergencies because the road agency responsible for the project (typically ODOT
+or County Road Department) has scheduled these projects months or years in advance as
+routine maintenance to existing roadways. These paving projects typically are not the result of
+landslides, road washouts, or bridge collapses, circumstancesthat any reasonableperson
+would consider an emergency. Chapter 8. 08, Noise Control, provides three avenues for
+activities that create noise outside of normal operating hours: 1) the applicant can show that the
+activity will not create " unreasonably loud or raucous noise" as defined in section 8.08. 060, 2)
+the applicantcanapplyundersection8.08.090(D) in the eventof a true emergency, or 3) apply
+for a variance under section 8. 08. 100 for all other circumstances. Subsection 18. 52. 115 has
+beenwrittento allowthe applicantto applyfor the specialoperatingpermitfor one of the three
+options described above depending on the specific circumstances of the work required.
+PAGE 2 of 2 — EXHIBIT " B" TO ORDINANCE NO. 98- 038 ( 6/ 10/ 98)

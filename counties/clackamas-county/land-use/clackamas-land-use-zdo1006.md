@@ -1,0 +1,604 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clackamas-county
+id: clackamas-land-use-zdo1006
+title: 'Zdo1006'
+doc_type: ordinance
+citation: 'Zdo1006'
+authority_level: county_ordinance
+issuing_body: 'Clackamas County Board of Commissioners'
+source_url: https://www.clackamas.us/planning/zdo1006
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: 3586d34dd2bd1ee9687a5f6a8f47f77d8c576bb1a510f29e4a620e793c64b057
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 92.090
+    - OAR 340-071-0160
+  related: []
+  supersedes: []
+tags: [clackamas-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clackamas County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zdo1006 (Zdo1006)
+
+## At a glance
+
+Zdo1006 — land use of Clackamas County. 22023 characters.
+
+## Full text
+
+ZDO 1006: Utilities, Street Lights, Water Supply, Sewage Disposal, Surface Water Management, and Erosion Control | Clackamas County 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Translate 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Jobs 
+ Events 
+ News 
+ Contact Us 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+
+ 
+ 
+ 
+ Community 
+ 
+ 
+ Business 
+ 
+ 
+ Departments 
+ 
+ 
+ Our County 
+ 
+ 
+ I want to... 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ ZDO 1006: Utilities, Street Lights, Water Supply, Sewage Disposal, Surface Water Management, and Erosion Control 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ZDO 1006: Utilities, Street Lights, Water Supply, Sewage Disposal, Surface Water Management, and Erosion Control 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 1006.01 General Standards The location, design, installation, and maintenance of all utility lines and facilities shall be carried out with minimum feasible disturbance of soil and site consistent with the rules and regulations of the surface water management regulatory authority. All development that has a need for electricity, natural gas, and communications services shall install them pursuant to the requirements of the utility district or company serving the development. Except where otherwise prohibited by the utility district or company, utility service lines shall be installed underground. Coordinated installation of necessary water, sanitary sewer, and surface water management and conveyance facilities is required.   Easements shall be provided along lot lines as deemed necessary by the County, special districts, and utility companies. Easements for special purpose uses shall be of a width deemed appropriate by the responsible agency.  1006.02 Street Lights Street lights are required for all development inside the Portland Metropolitan Urban Growth Boundary. The following standards apply: Street lighting shall be installed pursuant to the requirements of Clackamas County Service District No. 5 and the electric company serving the development. A street light shall be installed where a new road intersects a County road right-of-way and, in the case of subdivisions, at every intersection within the subdivision. Areas outside Clackamas County Service District No. 5 shall annex to the district through petition to the district. 1006.03 Water Supply Development which has a need for, or will be provided with, public or community water service shall install water service facilities and grant necessary easements pursuant to the requirements of the district or company serving the development. Approval of a development that requires public or community water service shall be granted only if the applicant provides a preliminary statement of feasibility from the water system service provider.  The statement shall verify that water service, including fire flows, is available in levels appropriate for the development and that adequate water system capacity is available in source, supply, treatment, transmission, storage and distribution. Alternatively, the statement shall verify that such levels and capacity can be made available through improvements completed by the developer or the system owner. If the statement indicates that water service is adequate with the exception of fire flows, the applicant shall provide a statement from the fire district serving the subject property that states that an alternate method of fire protection, such as an on-site water source or a sprinkler system, is acceptable.  The statement shall be dated no more than one year prior to the date a complete land use application is filed and need not reserve water system capacity for the development.   Prior to final approval of a partition or subdivision, the applicant shall provide evidence that any wells in the tract subject to temporary or permanent abandonment under Oregon Revised Statutes (ORS) 537.665 have been properly abandoned.  The following standards apply inside the Portland Metropolitan Urban Growth Boundary, Government Camp, Rhododendron, Wemme/Welches, Wildwood/Timberline, and Zigzag Village: Land divisions or other development requiring water service shall not be approved, except as provided in Subsection 1006.03(D)(4), unless they can be served by a public water system in compliance with drinking water standards as determined by the Oregon Health Authority. Development requiring water service within the boundaries of a water service system, created pursuant to ORS chapters 264, 450, or 451, shall receive service from this system. New public water systems shall not be created unless formed pursuant to ORS chapters 264, 450, or 451. A lot of record not located within the approved boundaries of a public water system may be served by an alternative water source. The following standards apply outside the Portland Metropolitan Urban Growth Boundary, Government Camp, Rhododendron, Wemme/Welches, Wildwood/Timberline, and Zigzag Village: Applicants shall specify a lawful water source for the proposed development, such as a public or community water system, certificated water right, or exempt-use well. If use of an exempt-use well is proposed, subdivisions—as well as the following types of development in a sensitive groundwater area: partitions, Type II replats, and industrial, commercial, or institutional development—must affirmatively demonstrate that: The subject aquifer is capable of sustaining the proposed development with sufficient potable water.  The proposed development is not likely to unreasonably interfere with existing wells. "Unreasonably interfere" means that a proposed development will result in one or more senior groundwater appropriators being unable to obtain either the permitted or the customary quantity of groundwater, whichever is less, from a reasonably efficient well that fully penetrates the aquifer where the aquifer is relatively uniformly permeable. However, in aquifers where flow is predominantly through fractures, full penetration may not be required as a condition of finding substantial or undue interference. The proposed development is not likely to contribute to the overdraft of the affected aquifer.  Except for land divisions in which all proposed lots are already developed with the maximum number of dwelling units that would be allowable following the land division (excluding potential temporary dwellings for care), and except for  industrial, commercial, and institutional development demonstrated to have no statistical increase in water usage, an applicant for any proposed development subject to Subsection 1006.03(E)(2) shall submit a hydrogeologic review with the subject application. The purposes of a hydrogeologic review are to provide information and professional analysis regarding the geology and hydrogeology of the area in the immediate vicinity of the proposed development for the County to determine compliance with Subsection 1006.03(E)(2). Study findings, maps, and conclusions shall be presented in a clear and understandable report.  A hydrogeologic review report shall include sufficient evidence and analysis to demonstrate compliance with Subsection 1006.03(E)(2), and at a minimum, shall include the following information:  A map showing all lots and parcels within at least one-quarter mile of the proposed development;  The location, as determined by publicly available information, of all known wells on all lots or parcels within at least one-quarter mile of the proposed development, and the quantity of water permitted to be used;  The estimated use of groundwater within at least one-quarter mile of the proposed development, including but not limited to, 400 gallons per day of household use for each lot and parcel, 2,000 gallons per day for lawn and landscape irrigation from June through September, and water use from permitted wells. The estimated use of groundwater shall include any development or tentative land division which has been approved by the county, and shall assume development of a single-family residence on each undeveloped lot or parcel;    The quantity of water the proposed land use will utilize. If the proposal is for residential use, water use shall be calculated as 400 gallons per day per household and 2000 gallons per day for lawn and landscape irrigation from June through September. If the proposal is for a land division for residential purposes, all proposed lots or parcels shall be included in the calculation, and the calculation shall assume that the remainder of the tract will be developed at its allowed density;  Identification of aquifers in the area of the subject property; Compilation and review of available geologic and hydrogeologic studies of the review area; Compilation and evaluation of available well deepening and replacement well information in the review area;  Compilation and analysis of existing geologic information, including representative well logs, physical location of representative wells, and an evaluation of the local stratigraphy and geologic structure in the review area;  Compilation and analysis of existing and available water level and pump test information including evaluation of long-term stability and sustainability of groundwater levels (heads); and Interpretation of the information gathered for Subsections 1006.03(E)(3)(a)(i) through (ix), including preparation of geologic and hydrogeologic maps and cross sections necessary to support and/or illustrate the interpretation. A hydrogeologic review shall conclude that there is sufficient information to demonstrate compliance with Subsection 1006.03(E)(2), and may need to be based on draw down tests or other physical measurements where necessary.  The Planning Director may, at the Director's discretion, allow an applicant to modify the water use assumptions used in the hydrogeologic review where an applicant proposes enforceable water conservation and/or reuse measures, including but not limited to: Gray water use;  Water conserving appliances and fixtures; Landscaping with drought resistant plants; or Rainwater harvest and/or the use of cisterns.  To be deemed enforceable, any conservation or reuse measure must be approved by County Counsel. All reviews and plans required by Subsection 1006.03(E) shall be reviewed by a qualified professional of the County's choice during the development review process.  Such review shall include examination to ensure required elements have been completed, study procedures and assumptions are generally accepted, and all conclusions and recommendations are supported and reasonable. Outside of sensitive groundwater areas, the Planning Director may, at the Director's discretion, waive some or all of the requirements for a hydrogeologic review where an applicant demonstrates through well logs or other evidence that the specified information is not necessary to determine compliance with Subsection 1006.03(E)(2).    Water service for partitions and subdivisions shall be provided according to the provisions of ORS 92.090. When no water is to be provided by a public or community water system, there shall be a note on the final plat indicating that no public water service is being provided, in addition to the filing and disclosure requirements of ORS 92.090.  Approved land divisions at densities requiring public water service shall include a note on the final plat indicating public water service is required for development.   For a major subdivision, all lots shall be served by a single public or community water source.  1006.04 Sanitary Sewer Service   All development that has a need for sanitary sewers shall install the facilities pursuant to the requirements of the district or company serving the development.  Approval of a development that requires sanitary sewer service shall be granted only if the applicant provides a preliminary statement of feasibility from the sanitary sewage treatment service provider and the collection system service provider. The statement shall verify that sanitary sewer capacity in the wastewater treatment system and the sanitary sewage collection system is available to serve the development or can be made available through improvements completed by the developer or the system owner. The service provider may require preliminary sanitary sewer system plans and calculations for the proposed development prior to signing a preliminary statement of feasibility.  The statement shall be dated no more than one year prior to the date a complete land use application is filed and need not reserve sanitary sewer system capacity for the development. Hotels and motels are permitted in unincorporated communities only if served by a community sewer system as defined by Oregon Administrative Rules 660-022-0010(2). 1006.05 Onsite Wastewater Treatment  All development that requires onsite wastewater treatment shall receive approval for the system from the County prior to submittal of a land use application for development. Onsite wastewater treatment systems shall be installed pursuant to: Oregon Revised Statutes 454.605 through 454.745; Oregon Administrative Rules chapter 340, divisions 71 and 73; and the policies of the County.  Inside the Portland Metropolitan Urban Growth Boundary (UGB), Government Camp, Rhododendron, Wemme/Welches, Wildwood/Timberline, and Zigzag Village, all land divisions or other development that requires onsite wastewater treatment shall be prohibited except for:    A lot of record that is outside of a sewage service district and was created: Prior to January 31, 1980; or On or after January 31, 1980, and prior to inclusion in the UGB; Lots of 10 acres or larger in the FU-10 District; Lots that do not have a sanitary sewerage system that is legally and physically available as defined in OAR 340-071-0160(4)(f)(A) and (B), including lots that have unique topographic or other natural features that make sewer extension impractical as determined on a case-by-case basis by the sewer service provider; and Areas under a sewer moratorium with sewer services five years or more away if the area is annexed into a city or district that can assure that future delivery of sewerage services is planned. Notwithstanding Subsection 1006.05(B), development of triplexes, quadplexes, townhouses, or cottage clusters in the VR-4/5, VR-5/7, R-5, R-7, R-8.5, R-10, R-15, R-20, or R-30 Districts and development of affordable housing subject to Section 846, Affordable Housing, is prohibited if the development requires onsite wastewater treatment. 1006.06 Surface Water Management And Erosion Control  The following surface water management and erosion control standards apply: Positive drainage and adequate conveyance of surface water shall be provided from roofs, footings, foundations, and other impervious or near-impervious surfaces to an appropriate discharge point.  The requirements of the surface water management regulatory authority apply. If the County is the surface water management regulatory authority, the surface water management requirements of the Clackamas County Roadway Standards apply. Approval of a development shall be granted only if the applicant provides a preliminary statement of feasibility from the surface water management regulatory authority. The statement shall verify that adequate surface water management, treatment and conveyance is available to serve the development or can be made available through improvements completed by the developer or the system owner. The surface water management regulatory authority may require a preliminary surface water management plan and report, natural resource assessment, and buffer analysis prior to signing the preliminary statement of feasibility. The statement shall be dated no more than one year prior to the date a complete land use application is filed and need not reserve surface water treatment and conveyance system capacity for the development. Development shall be planned, designed, constructed, and maintained to: Protect and preserve existing natural drainage channels to the maximum practicable extent; Protect development from flood hazards; Provide a system by which water within the development will be controlled without causing damage or harm to the natural environment, or to property or persons within the drainage basin; Ensure that waters drained from the development are substantially free of pollutants, including sedimentary materials, through such construction and drainage techniques as sedimentation ponds, reseeding, and phasing of grading; and Ensure that waters are drained from the development in such a manner that will not cause erosion to any greater extent than would occur in the absence of development. Where culverts cannot provide sufficient capacity without significant environmental degradation, the County may require the watercourse to be bridged or spanned. If a development, or any part thereof, is traversed by any watercourse, channel, stream, creek, gulch, or other natural drainage channel, adequate easements for surface water management purposes shall be provided to the surface water management regulatory authority. Channel obstructions are not allowed, except as approved for the creation of detention, retention, or hydropower facilities approved under this Ordinance. Fences with swing gates may be utilized. The natural drainage pattern shall not be substantially altered at the periphery of the subject property. Greatly accelerated release of stored water is prohibited.  Flow shall not be diverted to lands that have not previously encountered overland flow from the same upland source unless adjacent downstream owners agree. A surface water management and erosion control plan is required for significant residential, commercial, industrial, and institutional development. The plan shall include: The methods to be used to minimize the amount of runoff siltation and pollution created from the development both during and after construction; and Other elements required by the surface water management authority. 1006.07 Preliminary Statements Of Feasibility Exceptions A land use application shall be deemed complete and may be approved without the submittal of one or more of the preliminary statements of feasibility required by Subsections 1006.03, 1006.04, and 1006.06 if the applicant demonstrates that a good faith attempt has been made to obtain the statement(s). At a minimum, demonstration of a good faith attempt shall require the applicant to submit the following:    A statement signed by the applicant indicating that the service provider or surface water management authority has not responded to a request for a preliminary statement of feasibility or has refused to issue one. When the refusal to issue a preliminary statement of feasibility is based upon a finding that adequate service cannot be provided, such refusal shall not qualify for an exception under this subsection; and A copy of a letter delivered to the service provider or surface water management authority clearly requesting a preliminary statement of feasibility. The letter shall be dated no less than 30 days prior to the submittal of the land use application.  In the absence of evidence in the record to the contrary, it shall be presumed that the failure of a service provider or surface water management authority to respond to a request for a preliminary statement of feasibility constitutes a finding of adequacy of service. This presumption shall be for the purposes of land use application approval only and does not guarantee that service can be provided. [Amended by Ord. ZDO-252, 6/1/2015; Amended by Ord. ZDO-266, 5/23/2018; Amended by Ord. ZDO-282, 7/1/2022; Amended by Ord. ZDO-283, 9/5/2023; Amended by Ord. ZDO-285, 9/3/2024; Amended by Ord. ZDO-288, 9/9/2024] Return to the Zoning and Development Ordinance main page. Contact zoninginfo@clackamas.us for additional information. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Phone: 503-742-4500 
+ Email: zoninginfo@clackamas.us 
+ 
+ 
+ 
+ 150 Beavercreek Road Room #225 Oregon City, OR 97045 
+ 
+ 
+ Office Hours: Monday to Thursday  8 a.m. to 4 p.m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's My Zoning? 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Related Events 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Related Events
+ 
+ 
+ 
+ 
+ Board of County Commissioners, Planning and Zoning 
+ 
+ 
+ Aug 
+ 04 
+ 
+ 
+ 11:00 am 
+ - 11:30 am 
+ 
+ 
+ Land Use Hearing: Z0437-25 and Z0438-25 - Aug. 4, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Aug 
+ 20 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0096-26 - Aug. 20, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Sep 
+ 03 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0207-26 - Sept. 3, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ more events 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ SHORTCUTS 
+ 
+ 
+ 
+ Jobs Procurement Process, Contracts and Grants Pay Online CMap Contact the County Report a Hazard County Code Public Records Request HIPAA/Privacy Concerns Civil Rights ACA Complaint Form Accessibility Statement Title VI Compliance Plan Website Privacy Media Contacts 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ELECTED OFFICIALS 
+ 
+ 
+ 
+ Chair Craig Roberts Commissioner Diana Helm Commissioner Paul Savas Commissioner Martha Schrader Commissioner Ben West   County Assessor/Tax Collector Bronson Rueda County Clerk Catherine McMullen District Attorney John Wentworth Justice of the Peace Kathleen Rastetter Sheriff Angela Brandenburg Treasurer Brian Nava 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can’t find what you're looking for? 
+ 
+ 
+ 
+ 
+ Search Box 
+ 
+
+ 
+ enter your search here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2026 Clackamas County

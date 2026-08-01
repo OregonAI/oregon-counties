@@ -1,0 +1,1438 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2011-026
+title: 'Ordinance No. 2011-026'
+doc_type: ordinance
+citation: 'Ordinance No. 2011-026'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617040083_2011-3079-Ordinance%20No.%202011-026%20Recorded%2011_4_2011.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9972a7c5de8dbe7cc1b3f11d1b1c2cb87678d3525acc81abbc7354c14baf66bc
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2011-026 (Ordinance No. 2011-026)
+
+## At a glance
+
+Ordinance No. 2011-026 — orders of Deschutes County. 40 pages.
+
+## Full text
+
+REVIEW DESCNUTES COUNTY OFFICIAL RECORDS 01
+NANCY BLANKENSNIP, COUNTY CLERK w 2011.3079
+L GAL COUNSEL
+COMMISSIONERS' JOURNAL
+11/ 04/201109:28:24 AM
+1111111111111111111111111111111
+2011- 3079
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCNUTES COUNTY, OREGON
+An Ordinance Amending Title 12, of the Deschutes
+County Code, To Make Minor Technical Changes * ORDINANCE NO. 2011-026
+WHEREAS, the Deschutes County Road Department has proposed a Text Amendment to Title 12,
+Roads, Sidewalks and Public Places Ordinance, to make minor changes that will correct errors, omissions,
+inconsistencies, and clarify awkward text; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCNUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDMENT. DCC 12.04, General Provisions and Definitions is amended to read as
+described in Exhibit " A," attached hereto and by this reference incorporated herein, with new language
+underlined and language to be deleted in strikethFettgh.
+Section 2. AMENDMENT. DCC 12.08, Permit Procedures is amended to read as described in Exhibit
+B," attached hereto and by this reference incorporatedherein, with new language underlined and languageto be
+deleted in strettgh.
+Section 3. AMENDMENT. DCC 12.20, Specifications for Location, Construction, Operation,
+Maintenance, Repair, Relocation and Removal is amended to read as described in Exhibit " C," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+stAkethreugh.
+Section 4. AMENDMENT. DCC 12.28, Driveway and Street Improvements is amended to read as
+described in Exhibit " D," attached hereto and by this reference incorporated herein, with new language
+underlined and language to be deleted in stfiketlreugh,
+Section 5. AMENDMENT. DCC 12.35, Sidewalks is amended to read as described in Exhibit " E,"
+attached hereto and by this reference incorporated herein, with new language underlined and language to be
+deleted in strip.
+Section 6. AMENDMENT. DCC 12.52, Construction of Public Improvements is amended to read as
+described in Exhibit " F," attached hereto and by this reference incorporated herein, with new language
+underlined and language to be deleted in striketlr-eagkt.
+Section 7. REPEAL AND REPLACE. Chapter 12. 08 Form, Utility Permit, located in Title 12, Roads,
+Sidewalks and Public Places, of the Deschutes County Code is hereby repealed and replaced by the revised
+Utility Permit as set forth in Exhibit " G," attached hereto and by this reference incorporated herein.
+PAGE I OF 2 - ORDINANCE NO. 2011- 026
+Section 8. REPEAL. Chapter 12.08 Form, Application to Operate and Maintain a Utility, located in
+I itle 1?, Roads, Sidewalks and Public Places, of the Deschutes County Code is hereby repealed in its entirety.
+Section 9. FINDINGS. The Hoard adopts as its findings for this ordinance the Staff Report attached as
+Exhibit ' 11" to Ordinance 2011- 026 and incorporated herein by this reference as its findings to support this
+Ordinance
+Dated this of 201 1
+ATTEST:
+RecordingSecretary
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+I
+air -ChTAMMY B QL'
+G%
+ANTI TONY DeBONE, Vice Chair
+ALAN UNG€ER, Commi ioner
+Gate cif I" Reading: t 7
+day of , 201 1
+Date of 2"d Rcading: 1 '---day of _ , 2011.
+Record of Adoption Vote:
+Commissioner Yes No Abstained Excused
+TammyBaney
+AnthonyDeBone
+Alan Unger sr
+h
+Effective date n'b day of v ~ , 28l i
+E
+ls
+PAGE 2 OF 2 - ORDINANCE NO. 201 1- 026
+Chapter 12. 04. GENERAL PROVISIONS AND DEFINITIONS
+12. 04.010. Short Title.
+12. 04.020. Purpose.
+12. 04.030. Statutory Authority.
+12. 04.040. Editorial Revision.
+12. 04.050. Interpretation Of Provisions.
+12. 04.060. Definitions.
+12. 04.010. Short Title.
+This title and amendments thereto may be collectively known as the " Deschutes County Road Utility Permit
+Ordinance."
+Ord. 203-7 § 1. 010, 1976)
+12. 04.020. Purpose.
+It is considered in the public interest for utility facilities to be accommodated on the rights of way of all
+County roads and dedicated public roads when such use and occupancy of the right of way do not interfere
+with the free and safe flow of traffic or otherwise impair the highway or its visual quality. fn accordance
+with that determination and the provisions set forth in DCC 12. 04.030, DCC 12.04 is adopted to provide a
+policy and procedure for such accommodation.
+Ord. 203-7 § 1. 020, 1976)
+12. 04.030. Statutory Authority.
+The Board is authorized by ORS 374. 305 through 374. 330, 758. 010 and 758. 020 to adopt reasonable rules
+and regulations and to issue permits for the use of all County road and dedicated public road rights of way
+bye utility facilities, including privately owned lines. The United States Department of
+Transportation, Federal Highway Administration Regulationsrequire regulation of such utility facilities
+occupying federal aid highway projects on County roads constructed after October 1, 1969, on a continuous
+basis in accordance with a satisfactory utility accommodation policy for the type of highway involved.
+Ord. 201 1- 026 ~ 1 2011; Ord. 203-7 § 1. 025, 1976)
+12. 04.040. Editorial Revision.
+The DistriCount~ Legal Counsel may at any time direct such changes regarding currently
+maintained copies of DCC 12 and amendments as the legislative counsel is authorized to perform regarding
+acts of the Legislature, pursuant to ORS 173. 160; provided, that such editorial revision be directed by
+written memorandum filed with the County Clerk, but subject to disapproval by the Board at its next regular
+meeting thereafter.
+thd. 20. 11-02(..§_ 1=2 , ! J.: Ord. 203-7 § 1. 060, 1976)
+12. 04.050. Interpretation of Provisions.
+A. The provisions of DCC 12 shall be liberally construed to effect the purposes set forth in DCC 12. 04.
+Each provision requiring an applicant to furnish information shall be construed as intended to provide
+the County with all information which may be of assistance in evaluating the safety, utility,
+convenience, necessity and reliability of the applicant and its proposed facility.
+Chapter 12. 04 1 ( 1W2001 09{ ;2011
+Page I of 4 - Exhibit A to Ordinance 2011- 026
+B. The provisions of DCC 12 are declared to be minimum requirements fulfilling the applicant's
+obligations and where any provisionsof DCC 12 may be less restrictive than conditions imposed by any
+other provision of DCC 12, by and other law, rule or regulationof the County or another governmental
+unit, then the more restrictive shall apply.
+C. DCC 12 shall at all times be interpreted to be consistent with the County Comprehensive Plan.
+Ord. 203-7 § 1. 030, 1976)
+12. 04.060. Definitions.
+The following definitions apply whenever the indicated term is used in DCC 12. Words used in the present
+tense include the future. Words used in the singular number include the plural and words used in the plural
+include the singular. The word " shall" is mandatoryand not directory.
+Administrator" means the
+EAgine+ w- County-1 oadmasterRoad llepartment Director orhi~-the Director's authorized representative.
+Applicant" means a corporation, company, firm, business, municipal corporation, partnership, individual or
+individuals named as such in the permit, together with their agents, employees, representatives, contractors,
+heirs and assigns.
+Auxiliary lanes" means the portion of the roadway adjoining the traveled way for parking, speed change.
+turning, storage for turning, weaving, truck climbing, and other purposes supplementary to through-traffic
+movement.
+Backfill" means replacementof soil around and over a pipe.
+Bedding" means organization of soil to support a pipe.
+Board" means the Deschutes County Board of Commissioners.
+Buried cable" means any and all cables, wires, conduits, pedestals or related fixtures authorized in the
+permit.
+Bury" means the depthof the top of the pipe below grade of roadway or diteh.
+Cap" means rigid structural element surmounting a pipe.
+Carrier" means pipe directly enclosing a transmitted fluid, liquid or gas.
+Casing" means a larger pipe enclosing a carrier.
+Clear roadside policy" means the policy employed by a highway authority to increase safety, improve
+traffic operation and enhance the appearance of highways by designing, constructing and maintaining
+highway roadsides as wide, flat and rounded, as practical and as free as practical from physical obstructions
+above the ground, such as trees, drainage structures, massive sign supports, utility poles and other
+ground- mounted obstructions.
+Coating" means material applied to or wrapped around a pipe.
+Conduit" means an enclosed tubular runway for protectingwires or cables.
+County" means Deschutes County, a political subdivision of the State of Oregon.
+County road" means any public road maintained by the County.
+Cradle" means rigid structural element below and supporting a pipe.
+Chapter 12. 04 2 { 10/ 200 ) t09t 01 I
+Page 2 of4 - Exhibit A to Ordinance 2011- 026
+Direct burial" means installing a utility facility undergroundwithout encasement, by plowing.
+District Attorney" means the District Attorney of the State of Oregon for Deschutes County.
+Drain" means an appurtenance to dischargeliquid contaminants from casings.
+Duct" means a conduit as defined in DCC 12. 04.060.
+Encasement" means the structural element surrounding a pipe.
+Encroachment" means unauthorized use of highway rights of way or easements as for signs, fences,
+buildings, etc.
+I' an'' means_.the p ublic or rivate utiltthat is installed within the public ri hg_ t-cif- wad.
+Flexible pipe" means a plastic, fiberglassor metallic pipe having large ratio of diameter to wail thickness
+which can be deformed without undue stress.
+Gallery" means an underpass for two or more pipelines.
+Grounded" means connected to earth or to some extended conducting body which serves instead of the
+earth whether the connection is intentional or accidental.
+Grout" means cement and sand mortar.
+Highway" means a public way for purposes of vehicular travel, including the entire area within the right of
+way,
+Jacket" means an encasement by concrete poured around a pipe.
+Local Access Road" means anv public street or road which is not maintained by the County but over which
+the Count- has iurisdictional authorio,,.
+Manhole" means an opening in an underground system which workmen or others may enter for the purpose
+of makinginstallations, inspections, repairs, connections and tests.
+New utility installations" means both the initial installation and replacementof existing facilities with those
+of a different type or the replacementat a new location. Any replacement of an existing facility or portion
+thereof with another of the same type at the same location shall be considered maintenance rather than new
+utility installation.
+Normal" means crossing at a right angle.
+Oblique" means crossing at an acute angle.
+Overfill" means backfill above a pipe.
+Pavement structure" means the combination of subbase, base course and surface course placed on a
+subgrade to support the traffic load and distribute it to the roadbed,
+Pipe" means a tubular product made as a production item for sale as such. Cylinders formed from plate in
+the course of the fabrication of auxiliary equipmentare not pipe as defined in DCC 12. 04.
+Pipeline" means any and all pipelines, hydrants, valve boxes, manholes, conduits or related fixtures
+authorized in the permit.
+Pole line" means any and all poles, wires, guys, anchors or related fixtures authorized in the permit.
+Pressure" means relative internal pressure in prig (pounds per square inch gauge).
+Right of way" means land, property or interest therein, usually in a strip, acquired for or devoted to
+transportation purposes.
+Chapter 12. 04 3 ( 19 2001)( 0912011
+Page 3 of4 - Exhibit A to Ordinance 2011- 026
+Rigid pipe" means a welded or bolted metallic pipe or reinforced, prestressed or pretensioned concrete
+pressure pipe designed for diametric deflection of less than one percent.
+Road" means a highway as defined in DCC 12. 04.060.
+Roadside" means the area adjoining the outer edge of the roadway. Extensive areas between the roadways
+of a divided highway may also be considered roadside.
+Roadway" means the portion of a highway, including shoulders, for vehicular use. A divided highway has
+two or more roadways.
+Road construction project limits" means the entire construction area, whether inside or outside the right of
+way.
+ir+ g1{1Semi riYid pipe" means a large diameter concrete or metallic pipe designed to tolerate diametric
+deflection up to three percent.
+Sidefill" means backfill alongside a pipe.
+Slab ( floating)" means a slab between but not contacting pipe or pavement.
+Sleeve" means short casing through pier or abutment of highway structure.
+Special provisions" means those provisions shown under the heading "Special Provisions" in the permit.
+In all cases of conflict between the specialprovisions and general provisions, the special provisionsshall
+have precedence.
+Street" means a highway as defined in DCC 12. 04.060.
+Structure" means any bridge, box culvert, culvert pipe, storm sewer pipe, catchbasin or manhole.
+Traveled way" means the portion of the roadway for the movement of vehicles, inclusive of shoulders and
+auxiliary lanes.
+Trenched" means installed in a narrow open excavation.
+Untrenched" means installed without breaking ground or pavement surface, such as by jacking or boring.
+Use and occupancy agreement" means the document by which the highway authority regulates and/or gives
+approval of the use and occupancy of highwayrights of way by utility facilities or private lines.
+Ut31itY.'..' means a public utility, as defined in ORS 757. 005 or a telecommunications utility or competitive
+telecommunications provider, as those terms are defined in ORS 757. 005.
+Vent" means an appurtenance to discharge gaseous contaminants from casings.
+Walled" means partially encased by concrete pouredalongsidethe pipe.
+i {Ord. 2011-026 § 1, 2011- Ord. 95- 035 §1, 1995; Ord. 203-7 §§ 1. 500-1. 950,1976)
+Chapter 12. 04 4 ( 10/ 2001) f O 2011)
+Page 4 of 4 - Exhibit A to Ordinance 2011- 026
+Chapter 12. 08. PERMIT PROCEDURES
+12. 08.010. Permit- ApplicationRequired.
+12. 08.020. Application-Exhibit Maps.
+12. 08.030. Permit- Approval and Issuance.
+12. 08.040. Board Review.
+12. 08.050. Permit- Termination Conditions.
+12. 08.060. Civil Rights Act Provisions.
+12. 08.070. Permit- Rights Granted.
+12. 08.080. Permit and Application Forms.
+12. 08.090. Limited Permit and Application Form.
+12. 08.100. Annual Permit and Application Form.
+12. 08.010. Permit- Application Required.
+Application for a permit under DCC 12 shall be made to the Office of " dministfatoWoad Department,
+usingthe "'
+r
+ilit~' °°Frn;{ to n° F4"Fffi AW014- ; ^ 42uhlie right of W.,.. LPermit far Working in a Public Rit?ht-
+of- Wav form set forth in DCC 12. 08.090. " of flie
+U- 1ky W_ iii Desehu~es County Right of Way" f0F14) Set f0i'th ill DCC 12. 0&100. "
+HI- S
+One covv of the form shall be submitted and the Administrator may require
+additional information wh.~ 41 ^ . a ; ; °, r•,. e deeffis . when the Administrator deems it necessary or
+convenient to a decision upon the permit.
+Ord. 2011- 0262, 2011: Ord, 95- 035 §1, 1995; Ord. 203-7 § 5. 510, 1976)
+12. 08.020. Application-Exhibit Maps.
+E' iaehCopy 4 the limited applie"lion fenm. '1• lteapplicationform shall be accompanied by an exhibit map
+unless waived by the Administrator.
+A i 0f. The exhibit maps shall be done in accordance with DCC 1116. 150.
+C)rd. 2( l 026..§ 2201 Ord. 203-7 § 5. 520, 1976)
+12. 08.030. Permit- Approval and Issuance.
+The Administrator shall review the application for conformance with DCC 12.08, shall add any special
+provisions considered necessary or appropriate, and if it complies with the provisions of DCC 12.08,
+includingthe policy considerations set forth in DCC 12.20, may approve and issue the completedpermit.
+Ord. 203-7 § 5. 530, 1976)
+12. 08.040. Board Review.
+If the permit is denied by the Administrator or if the special provisions imposed are unsatisfactory to the
+applicant, or in any case referred by the Administrator, at the request of applicant or Administrator the
+Board may review the application for permit. The Board's decision thereon shall be final and subject only to
+review , • pursuant to ORS 34.O 10.
+Ord. 2011- 026.§2, 2011; Ord. 203-7 § 5. 540, 1976)
+Chapter 12. 08 1 ( 10,' 2001)(09/ 2011)
+Page I of 2 - Exhibit B to Ordinance 2011- 026
+12. 08.050. Permit- Termination Conditions.
+A permit once issued shall terminate as follows;
+of the
+r
+oa ffI the
+Wei- milt
+shall be
+a .
+f- etiew fi)f 10 Year- pefieds ifidefiftitely t1iijess wfitioeii fioll- e of is duly giveii at least three
+t' or unless sooner fevoked by operationof law, or ujiless the ittiiio,' hor y-' hieh tile pe!.mit is issued
+Ceases epeFatioff:
+XA_ Failure of the applicant within a reasonable time after written notice from the Board- Administrator
+to comply with any of the terms and conditions of the permit shall be sufficient cause for immediate
+cancellation of the permit.
+G: K The permit and privileges granted and the obligation of the permittee created thereby shall be
+binding upon the successors and assigns of the permittee. The permittee shall give the BOW
+Adininistrator written notice of any such assignment or transfer within a reasonable time thereafter.
+C. If the applicant fails to commence installation work on the
+project covered by the permit within 94- 30 days from the date the permit is issued, such permit shall be
+deemed null and void and all privileges thereunder forfeited, unless a written extension of time is obtained
+from the administration.
+Ord. 2011- 026J2.2011; Ord. 203-7 § 5. 550, 1976)
+12. 08.060. Civil Rights Act Provisions.
+In those instances where the section of County road covered by the pert-nit is part of a federally assisted
+highway and the permit covers utilities which do not come under the provisions of ORS 758. 010 and
+758. 020, the applicant and his contractors shall agree to comply with the provisions of Title VI of the Civil
+Rights Act of 1964.
+Ord. 203-7 § 5. 570, 1976)
+12. 08.070. Permit- Rights Granted,
+Nothing in the permit is intended to grant rights or imply approval in areas not falling within the authority
+and jurisdiction of the BearCoun It is the responsibilityof the applicantto determine the need for and to
+obtain such licenses, permits or other forms of approval which may be required by state agencies, federal
+agencies, cities, municipal corporations, utility companies, railroads or private property owners.
+Ord. 2011- 026 § 2, 2011, Ord. 203-7 § 5. 580,-1976)-
+12. 08.080. Permit and Application Forms.
+All applicationsmade and permits issued under DCC 12.08 shall be in substantially the following form, as
+set out in DCC 12. 08.090 and DCC 12. 08.100.
+Ord. 203-7 § 5. 590,1976)
+12, 08.090. Limited Permit and Application Form.
+The contents of the limited permit and application form are set out at the end of DCC 12. 08.
+Ord. 203-7 § 5. 591, 1976)
+Chapter 12. 08 2 ( I9P- Q91 )09( 12011
+Page 2of 2 - Exhibit B to Ordinance 2011- 026
+Chapter 12. 20. SPECIFICATIONS FOR LOCATION, CONSTRUCTION, OPERATION,
+MAINTENANCE, REPAIR, RELOCATION AND REMOVAL
+12. 20.010. Maps and Drawings.
+12. 20.020. Standards of Work.
+12. 20.030. Depth.
+12. 20.040. AC- Transite Pipe.
+12. 20.050. Corrugated Metal Pipe and Concrete Pipe.
+12. 20.060. Plastic Pipe.
+12. 20.070. Locator Wire for Nonmetallic Pipe.
+12. 20.080. Trench Width.
+12. 20.090. Backfilling.
+12. 20.100. Crossing Under Surface.
+12. 20.110. Open Cutting- Backfill, Resurfacing.
+12. 20.120. Burying of Cable.
+12. 20.130. Pedestals and Meters.
+12. 20.140. Cleanup.
+12. 20.150. Restoration of Surface- Repairs.
+12. 20.160. Maintenance and Operation.
+12. 20.170. Warning Signs.
+12, 20.180. Trees and Shrubs.
+12. 20.190. Removal, Relocation or Repair- Required When.
+12. 20.200. Removal, Relocation or Repair- Notice.
+12. 20.210. Removal, Relocation or Repair-Bond.
+12. 20.220. County Removal, Relocation or Repair- Conditions And Costs.
+12. 20.230. Removal, Relocation or Repair- Recovery of Attorney's Fees.
+12. 20.010. Maps and Drawings.
+The applicant's completed facility shall be in substantial conformance with permit exhibit maps or drawings
+unless special permission is obtained from the Administrator to vary from the same during installation.
+When such permission is obtained, the applicant shall furnish the Administrator a set of " as constructed"
+maps or drawings detailing any such variance within 30 days of completion of the installation.
+Ord. 201 1- 026 §3, 201 1; Ord. 2001- 016 § 2, 2001; Ord. 203-7 § 3. 050, 1976)
+12. 20.020. Standards of Work.
+All work in connection with the facility authorized by the permit shall be done in a neat and workmanlike
+manner to the entire satisfaction of the Administrator, and the details of construction of the same shall
+conform to the established rules and regulationsnow in effect or which may hereafter be put in effect by the
+Public Utility Commissioner of the state, the Oregon State Board of Health, or other governmental agencies
+having regulatory authority over such facility.
+Ord. 203-7 § 3. 100, 1976)
+12. 20.030. Depth.
+The buried cable or pipe depth shown on the permit form represents the distance from the top of the surface
+or ground line to the top of the cable or pipe.
+Ord. 203-7 § 3. 630, 1976)
+Chapter 12. 20 1 ( W2001) 09/ 2011
+Page 1 of 6 Exhibit C to Ordinance 2011- 026
+12. 20.040. AC- Transite Pipe.
+AC- transite pipe, fittings and components shall conform to the appropriateand current ASTM or AWWA
+Specifications written for the specific type of usage that the pipe will receive. Nonpressure pipe crossing a
+roadway will be a Class 2400 minimum. Pressure pipes crossing a roadway will be enclosed in an approved
+casing pipe.
+Ord. 203-7 § 3. 170, 1976)
+12. 20.050. Corrugated Metal Pipe and Concrete Pipe.
+Corrugated metal pipe and concrete pipe used as a conduit or casing pipe or a gravity flow carrier pipe shall,
+as a minimum, conform to the requirementsof the current issue of State of Oregon Standard Specifications
+for Highway Construction. Smooth iron or steel pipe used as a conduit or casing pipe shall conform to the
+appropriate and current ASTM Specifications used for pressure pipe.
+Ord. 203-7 § 3. 150, 1976)
+12. 20.060. Plastic Pipe.
+Plastic pipe, fittings and components shall conform to the appropriate and current ASTM or AWWA
+Specifications written for the specific type of usage that the pipe will receive.
+Ord. 243-7 § 1160, 1976)
+12. 20.070. Locator Wire for Nonmetallic Pipe.
+On all installations of plastic, AC- transite or clay carriers of water, gas or sewage, an insulated copper wire
+shall be buried with and in close proximity to the carrier. Wire shall be No. 16 or larger. The wire shall be
+buried the entire length of all such carriers and shall be brought to the surface and connected to ground rods
+or other suitable grounding devices at sufficient locations to make it possible to connect toning devices to
+the system for locating.
+Ord. 203-7 § 3. 180, 1976)
+12. 20.080. Trench Width.
+No trench shall be excavated with a top width in excess of 24 inches more than the outside diameter of the
+pipe, conduit or cable to be installed unless permissionis first obtained from the Administrator.
+Ord. 203-7 § 3. 200, 1976)
+12. 20.090. Backfilling.
+The backfilling of all trenches and tunnels must be accomplished immediately after the facility authorized
+by the permit has been placed therein and must be well tamped and fully compacted so as to allow the least
+possibleamount of subsequentsettlement. Compactiverequirements within the roadway prism shall be
+those required by County specifications outlined in DCC 12. 20.110.
+Ord. 203-7 § 3. 210, 1976)
+12. 20.100. Crossing Under Surface.
+Unless specialpermissionis first obtained from the Administrator to open cut. the roadway surface, pipeline
+or conduit which crosses under the surfaced portion of the highway, including shoulders, road or street
+connections, or road approachesor driveways, shall either be tunneled, jacked or driven, or placedin a hole
+bored under the surface for that purpose in accordance with the following provisions:
+Chapter 12. 20 2 ( IOP- 881) 09/ 2011
+Page 2 of 6 - Exhibit C to Ordinance 2011- 026
+A. Trenching in connection with any of these methods shall be no nearer the toe of the fill slope in fill
+sections or the point where the outer edges of the surfacing meets the subgradein other sections than
+two feet or as specifiedin the special provisions, whichever is greater.
+B. If the tunneling method is used, it shall be by an approved method which supports the surrounding
+materials so as to prevent caving or settlement. Areas around the installed pipe or conduit shall be
+backfilled with moist sand, granular material or cement grout, filling all voids and packed in placewith
+mechanical tampers or other approved devices. Lagging, bulkheading and timbering shall be removed
+as the backfilling progresses.
+C. When the jacking, driving or boring method is used, it shall be by approved means which will hold
+disturbances of surrounding material to a minimum. Sluicing and jetting is not permitted. Voids or
+displacementoutside the outside perimeterof the pipe, conduit or cable where greater than 0.1 foot,
+shall be filled with sand or cement grout packed in place.
+l Road cuts will not be permitted on anv pavements. that are Lindel_5_years old unless special approval is
+obtained from the Administrator. Unless the Administrator . approves the road cut, ( he Contractor will
+be re aired to bore and jack the installation,
+Ord._20)1 1- 026 §3, 2011. Ord. 203-7 § 3. 400, 1976)
+12. 20.110. Open Cutting- Backfill, Resurfacing.
+A. When special permission is granted to open cut the surfaced portion of the highway, the following
+provisions shall be adhered to:
+I. Trenches shall be cut to have vertical faces, where soil and depth conditions permit, and shall be
+shapedwhere necessary.
+2. The trench edges in paved areas shall be sawed or cut to neat lines by methods satisfactory to the
+Administrator to a depthsufficient to permit removal of pavement without damage to the pavement
+to be left in place. Pavement within the cutting limits together with all other excavated material
+shall be removed and disposed of outside the County road right of way.
+3. In trenching across the County road, no more than one- half of the traveled way is to be openedat
+one time. The opened half shall be completely backfilled before openingthe other half.
+4. Closure of intersectingstreets, road approachesor other access points will not be permitted. Upon
+trenching across such facilities, steel running plates, planks or other satisfactorymethods shall be
+used to provide for traffic to enter or leave the highway or adjacentproperty.
+5. No more than three hundred feet of trench longitudinally along the highway shall be open at one
+time and no trench shall be left in an open condition overnight, unless properly lighted and
+protected in an approvedmanner.
+6. Immediately after the facility authorized by the permit has been placed in the trench, the trench shall
+be backfilled.
+B. The trench shall be backfilled as follows, unless otherwise specifiedby the permit:
+I. Beddingshall be provided to a minimum depth of six- four inches below the pipe and s+ i 2 inches
+above the pipe. Bedding shall consist of granular material, free of lumps, clods, stones and frozen
+materials and shall be graded to a firm but yielding surface without abrupt change in bearing value.
+Unstable soils and rock ledges shall be subexcavated from the bedding zone and replaced by
+suitable material. The bottom of the trench shall be prepared to provide the pipe with uniform
+bedding throughout the length of the installation.
+2. Trenches shall be backfilled as outlined in DCC 17. 48.270.
+C. Wearing surface and foundation material shall be as follows:
+1. Where original surface was asphaltconcrete or bituminous treatment or mix replace according to
+DCC 17. 48.270.
+2. Where original surface was portlandcement concrete:
+Chapter 12. 20 3 ( 10/ 2001) 09.1 /2011)
+Page 3 of 6 - Exhibit C to Ordinance 2011- 026
+a. Wearing surface, either Portland cement or asphaltconcrete placed to a thickness of six inches
+or the thickness of the removed pavement, whichever is greater;
+b. Foundation material, same as for asphalticconcrete.
+3. Where original surface was crushed rock or gravelreplaceaccordingto DCC 17. 48.270.
+4. All materials in DCC 12. 20.110 and DCC 12. 20.110( B), and their placement, shall conform to the
+requirements of the current
+0DOT/ A?WA Oregon Standard Specifications for Construction
+Ord. 2t1 l 1- 026 /3." 011- Ord. 2001- 016 § 1, 2001; Ord. 203-7 § 3. 500, 1976)
+12. 20.120. Burying of Cable.
+Unless special permission is first obtained from the Administrator, direct burial of cable placed by the
+ploughing method shall be limited to areas outside the surfaced portion of the highway.
+Ord. 203-7 § 3. 600, 1976)
+12. 20.130. Pedestals and Meters.
+Pedestals and meters installed as part of a buried cable, water or gas installation are to be located one foot
+from the right of way line unless special permission is obtained from the County engineer to locate
+elsewhere. In no case shall the pedestalsand/or meters be located within the County road maintenance
+operating area, including mowing operations, or nearer the pavement edge than any official road sign in the
+same general location.
+Amendment to Ord. 203-7, dated 10/ 30179; Ord. 203-7 § 3. 620, 1976)
+12. 20.140. Cleanup.
+All debris, refuse and waste of al I kinds which may have accumulated upon the County road right of way by
+reason of the operations of the applicant, shall be removed immediately upon completion of the operations,
+and the County road right of way must be restored to at least as good condition as it was prior to such
+operations.
+Ord. 203-7 § 3300, 1976)
+12. 20.150. Restoration of Surface- Repairs.
+A. All roadbed surfaces disturbed by utility installations, adjustmentsor repairscovered by permit, will be
+repairedor replacedwithin 24 hours after completion of backfilling of the final phase of the roadway
+cut, except if specifically allowed for by specialprovisionslisted in the permit.
+B. All roadbed surfaces disturbed by utility installation, adjustments or repairs covered by permit that
+result in hazards to the traveling public will be either replaced or repaired immediately or adequately
+barricaded and signed to warn the public that a hazard exists. When such a hazard exists and is suitably
+barricaded and signed, repair or replacement will be accomplishedwithin one week, or as permitted in
+DCC 12. 20.150( A).
+C. Any replacementor repair not accomplished by the applicant under DCC 12. 20.150( A) or DCC
+12. 20.150( B), within the specified time will be done undertaken by the County with newithout prior
+notice to the applicant and at the expense of the applicant. The County will also make any immediate
+repairs, alterations or additions to any barricading, signing or warning for a hazardous area when such
+barricading, signing or warning is found to be inadequate, inappropriate or ineffective without prior
+notice to the applicant.
+D. The applicant will reimburse the County for the actual cost of materials, labor, equipment and overhead.
+E. For a period of one year following the patchingof any pavedsurface, the applicant shall be responsible
+for the condition of such pavement patches, and during that time shall, upon request from the
+Chapter 12. 20 4 ( 10420444_(Q2201-11
+Page4 of 6 - Exhibit C to Ordinance 2011- 026
+Administrator, repair to the County's satisfaction any of the patches which become settled, cracked,
+broken or otherwise faulty.
+Ord. 201 1- 026 '-32011;_(Part) of amendment to Ord. 203-7, dated 11119179; Ord. 203-7 § 3. 550, 1976)
+12. 20.160. Maintenance and Operation.
+The applicant shall at all times keep facilities authorized by the permit in a good state of repair.
+Ord. 203-7 § 3300, 1976)
+12. 20.170. Warning Signs.
+Standard warning signs for buried power or communication cable and for pipelines carrying gas or
+flammable liquids shall be placedat each crossing under the County road and at intervals alonglongitudinal
+installations as required by current State Public Utility Commissioner order or as specified by the
+Administrator;
+A. Signs shall be offset as near the right of way line as practical.
+B. Signsfor installations located within the County road roadbed may be placedbehind existingguardrail.
+Ord. 203-7 § 3. 610, 1976)
+12. 20.180. Trees and Shrubs.
+Except in case of an emergency no trees or branches larger than six inches in diameter shall be cut without
+previous permission from the Administrator.
+Ord. 203-7 § 3. 710, 1976)
+12. 20.190. Removal, Relocation or Repair- Required When.
+The permit is issued pursuant to the laws of the state which authorizes the Board to subsequently requirethe
+applicantto remove, relocate or repair the pole line, buried cable or pipeline covered by the permit at the
+sole cost of the applicant and by applying, the applicantconsents and agrees to such condition.
+Ord. 203-7 § 3. 900, 1976)
+12. 20.200. Removal, Relocation or Repair- Notice.
+Upon receiving written notice from the Board to remove, relocate or repair the pole line, buried cable or
+pipeline, the applicant shall within 60 days remove, relocate or repair same, at his sole cost, in accordance
+with the written notice. Under unusual circumstances the Administrator may grant a written extension in
+time if the applicant can show the need for an extension.
+Ord. 203-7 § 3. 905, 1976)
+12. 20.210. Removal, Relocation or Repair- Bond.
+Before commencing such removal, relocation or repair, the applicant shall furnish such insurance and post
+such bond as the Board may consider necessary at that time in the manner provided for in DCC 12. 24.100.
+Ord. 203-7 § 3910, 1976)
+12. 20.220. County Removal, Relocation or Repair- Conditions and Costs.
+Should the applicant fail to remove, relocate or repairthe pole line, buried cable or pipeline, as provided in
+DCC 12. 24.190 and DCC 12. 24.200, the County may remove, relocate or repair the same and submit a
+statement of total costs for the work to the applicant. The applicant upon receiving such statement will
+immediately, or within a period of time agreed upon between the applicant and the Board, pay to the County
+the full amount of such removal, relocation or repair costs.
+Chapter12. 20 5 ( 4014 09i( 201 Il
+Page 5 of 6 - Exhibit C to Ordinance 201 1- 026
+Ord. 203-7 § 3. 915, 1976)
+12. 20.230. Removal, Relocation or Repair- Recovery of Attorney's Fees.
+The applicantagrees that, in the event he fails, as provided in DCC 12.20, to pay the costs incurred by the
+County for the removal, relocation or repair of the pole line, buried cable or pipeline, and it becomes
+necessary for the County to commence an action or proceeding in a court of competent jurisdiction to
+recover the removal, relocation or repair costs that the County shall be entitled to recover in addition to the
+statutory court costs and disbursements, such additional sum as the court may adjudge reasonable for
+attorney's fees to be allowed in such action or proceeding.
+Ord. 203-7 § 3. 920, 1976)
+Chapter 12. 20 6 {}` 9{ l } 09I.. 201 1)
+Page 6 of 6 - Exhibit C to Ordinance 2011- 026
+Chapter 12. 28. DRIVEWAYS AND STREET IMPROVEMENTS
+12. 28.010. Definitions.
+12. 28.015. Definition-Apron.
+12. 28.020. Definition- Curbline.
+12. 28.025. Definition- Curb Return.
+12. 28.030. Definition- Driveway.
+12. 28.035. Definition- Driveway Approach.
+12. 28.040. Definition- End Slopes.
+12. 28.045. Definition- Sidewalk Section.
+12. 28.050. Permit- Required.
+12. 28.060. Permit- Application.
+12. 28.070. Permit- Approval and Issuance.
+12. 28.080. Public Property Use Restrictions.
+12. 28.090. Prohibited Locations.
+12. 28.100. Width of Driveway Approach Apron.
+1. 2.28. 110. Driveway Approaches Near Alleys.
+12. 28.120. Driveways in Areas of Limited Street Improvements.
+12. 28.130. Construction Details.
+12. 28.140. Variances Permitted When.
+12. 28.150. Violation- Civil Remedies.
+12. 28.160. Violation.
+12. 28.010. Definitions.
+For the purposes of DCC 12.28, unless otherwise apparent from the context, certain words and phrasesused
+in DCC. 12. 28 are defined as set forth in DCC. 12. 28.015- 045.
+Ord. 95- 035 § 1, 1995; Ord. 203-6 § 1, 1975)
+12. 28.015. Definition-Apron.
+Apron" means the portion of the driveway approach extending from the property side of the curb to the
+sidewalk section and lying between the end slopes of the drivewayapproach.
+Ord. 203-6 § l, 1975)
+12. 28.020. Definition- Curbline.
+Curbline" means the inside edge of the top of the curb. In areas where no curb is required, it is the edge of
+the pavement.
+Ord. 203-5 § 1, 1975)
+1. 2.28. 025. Definition- Curb Return.
+Curb return" means the curved portion of a street curb at street intersections or the curved portion of a curb
+in the end slopes of a driveway approach.
+Ord. 203-6 § 1, 1975)
+12. 28.030. Definition- Driveway.
+Driveway" means an area on private property where automobiles and other vehicles are operated or
+allowed to stand.
+Chapter 12. 28 1 ( 04Q00) 09l( 2011)
+Page 1 of 5 - Exhibit D to Ordinance 2011- 026
+Ord. 203-6 § 1, 1975)
+12. 28.035. Definition- Driveway Approach.
+Driveway approach" means an area, construction or improvementbetween the roadway of a public street
+and private property intended to previde s ~-at least seven feet wide,.. intended and used f' or ingress
+and egress of vehicles from the roadway of a public street to a definite area of the private property, such as
+a parking area, a driveway or a door, at least seven etwide, iMeoded aRd used for- the egressand
+vehie-1et,-. The component parts of the driveway approachare termed the apron, the end slopesor the curb
+return, and the sidewalk section.
+Ord. 2011- 02614-201 I Ord. 203-6 § 1, 1975)
+12. 28.040. Definition- End Slopes.
+End slopes" means the portions of the driveway approach which provide a transition from the normal curb
+and sidewalk elevations to the grade of the apron, either by means of a sloping surface or by means of a curb
+return togetherwith the area between the projectedtangents of the curb return.
+Ord. 203-6 § 1, 1975)
+12. 28.045. Definition- Sidewalk Section.
+Sidewalk section" means the portion of the driveway approach lying between the back, or property edge of
+the sidewalk and the end slopes measured at the front, or street, edge of the sidewalk.
+Ord. 203-6 § 1, 1975)
+12. 28.050. Permit- Required.
+No person, firm or corporation shall remove, alter or construct any curb, sidewalk, driveway approach,
+gutter, pavement or other improvement in any public street, alley or other property owned by or dedicated to
+or used by the County and over which it has jurisdiction to regulate the matters covered by DCC 12.28,
+without first obtaining a permit from the County Road Department, and no permit shall be granted until the
+applicant files with the County Road Departmentfor its approval two copies of a drawing showing the
+location and size of all such proposed improvementsto serve the property affected.
+Ord. 95- 035 §1, 1995; Ord. 203-6 § 2, 1975)
+12. 28.060. Permit- Application.
+Application for permits to construct such improvements shall be made to the County Road Department on
+forms provided for that purpose.
+Ord. 95- 035 § 1, 1995; Ord. 203-6 § 3, 1975)
+12. 28.070. Permit- Approval and Issuance.
+Before approvingthe drawing of such improvementand issuing the permit, the County Road Department
+shall establish that the proposed improvement is in conformance with the provisions and standards
+hereinafter set forth.
+Ord. 95- 035 §1, 1995; Ord. 203-6 § 4, 1975)
+12. 28.080. Public Property Use Restrictions.
+County road rights of way may not be used for private commercial purposes. A permit for the construction
+of driveway approaches shall not be issued unless vehicles to be served or serviced can be parkedentirely
+within the private property lines.
+Chapter 12. 28 2 ( 04 203 92a0l 1
+Page 2 of 5 - Exhibit D to Ordinance 2011- 026
+Ord. 95- 035 § 1, 1995; Ord. 203-6 § 10, 1975)
+12. 28.090. Prohibited Locations.
+A. No driveway approach shall be permitted to eneampass-interfere with any public utility facilities.
+Under the permit required by DCC 12.28, the applicant may be authorized to relocate any such utility,
+upon application to the subject utility provider and upon making suitable arrangements for financial
+reimbursement to the utility provider.
+B. At street intersections no portion of any driveway approach, including end slopes, shall be permitted
+within the intersection curb return.
+C. At street intersections in noncommercial or residential and rural areas, no portion of any driveway
+approach, including end slopes, shall be permittedwithin 50 feet of the intersection curb return.
+Ord, 2011-026 ~ 2011 Ord. 95- 035 §1, 1995; Ord. 203-6 § 5, 1975)
+12. 28.100. Width of Driveway Approach Apron.
+The width of driveway approach aprons shall not exceed the following dimensions:
+A. For residential driveways, 14 feet for single driveways and 20 feet for double driveways and not more
+than one driveway approach shall be permitted per lot when such lot is 50 feet or less in width fronting
+on any street or avenue.
+1. An additional driveway approach will be allowed when any particular lot has 50 feet or more of
+frontage on any street or avenue and the driveways can meet., the sfacing requirements listed in
+DCC 17. 48.090 B(J.:
+2. Sidelines of lots may also have driveway approachesin conformity with the provisions of DCC
+12. 28.100( A); notwithstanding that such lots have driveway approaches on their frontage area.
+B. For commercial driveways, when one or more driveway approachesserve a given property frontage, no
+single apron shall exceed 35 feet in width, but when such establishment controls 50 feet or more of
+street frontage the number of driveway aprons shall be limited to two for the first 100 feet or part
+thereof and not more than 35 percent of the frontageexceedingthe initial 100 feet thereafter. A safety
+island of not less than 16 feet of full height curb shall in all cases be provided between driveway
+approaches serving any one- propertyfrontage.
+C. Property frontage referred to in DCC 12.28 includes approach areas directly in front of property owned
+or under the control of the applicant, and such area as may be directly in front of adjoining property
+which is used for approachpurposes by right of easement or agreement with the adjoining property
+owner.
+Ord. 20l 1- 026 §4, 2011 ;-Ord. 95- 03 5 §1, 1995; Ord. 203-6 § 6, 1975)
+12. 28.110. Driveway Approaches Near Alleys.
+Driveway approaches located within five feet of the existing curb return at an alley intersection may be
+merged with the alley intersection pavement, thus requiring the removal of the existing curb return: the total
+apron length plus the alley width, measured at the curbline of the apron to the opposite alien line, shall not
+exceed 40 feet, except when there is a driveway approachon both sides of an alley, then the maximum
+apron length plus alley, width shall not exceed 60 feet.
+Ord, 95- 035 §1, 1995; Ord. 203-6 § 8, 1975)
+12. 28.120. Driveways in Areas of Limited Street Improvements.
+A. Where standard gutters and curbs have been installed but concrete sidewalks have not been, the permit
+may authorize the applicant to construct the driveway approach from the curbline to the applicant's
+premisesof the same materials as those used for paving the applicant's premisesdriveway, or of any
+other material satisfactory to the County Road Department. Such driveway approach shall be
+Chapter 12. 28 3 ( 04Q083) 09/ 2011
+Page 3 of 5 - Exhibit D to Ordinance 2011- 026
+constructed to established gradeand shall be adequateand suitable for the traffic to be carried by it. The
+pen-nit shall provide, and the applicant shall agree, that if and when thereafter concrete sidewalks are
+constructed, the applicant or his successor shall install concrete driveway approaches.
+B. Where standard gutters and curbs have not been installed, the apron widths set forth in DCC 12. 28, 100
+shall be measured along the property line and there shall be not less than 16 feet of frontagebetween
+driveway approaches serving any one property.
+C. In areas designated on the comprehensive plan for urban growth, permits shall not be issued for any
+surface improvement or paving on the street right of way between driveway approachesunless a
+concrete curb or other physical obstruction, of a design satisfactoryto the County Road Department, is
+constructed and maintained by the applicant along his property line, so that the entrance and exit of
+vehicles to and from the applicant's property will be restricted to the established driveway approaches.
+Pursuant to the permit provided for in DCC 12.28, the applicant may surface the driveway approaches
+or other areas within the right of way by extending the same type of paving used on the applicant's
+premises so that it merges with the street pavement, provided the applicant's paving is adequate and
+suitable for the traffic to be carried; such extended paving between the property line and the street
+pavement shall be to established grade or other slope fixed by the County Road Department to provide
+for proper runoff. Such paving between the property line and the street pavement may meet the street
+pavement at a point ahead of the curb opening in order to provide for safe deceleration of vehicles
+turning into the applicant's premises. If the applicant's paving is extended beyond the property line into
+a street right of way at an intersection or crossroad, the County Road Department may requireapplicant
+to construct a suitable tragic island or curb to provide for the protection of such County facilities as
+may be necessary.
+Ord. 201. 1-42- 6-A. 2011_;...Ord. 95- 035 §1, 1995; Ord. 203-6 § 9, 1975)
+12. 28.130. Construction Details.
+A. All driveway approachesbetween the curbline and the property line shall be constructed of Portland
+cement concrete proportioned to the satisfaction of the County Road Department, except as provided in
+DCC 12. 28.120. The concrete of the driveway approach, including the sidewalk section, shall be at
+least four inches thick for residential approachesand at least six inches thick for commercial
+approaches.
+B. The sidewalk section of the driveway approach shall be finished and scored as specified by the County
+Road Department, except as provided in DCC 12. 28.120. Apron and end-slopeareas of the driveway
+approach shall be finished, after troweling smooth and scoring, with a fiber push- broom drawn over the
+surface parallel to the curbline.
+Ord. 95- 035 §1, 1995; Ord. 203-6 § 7, 1975)
+12. 28.140. Variances Permitted When.
+The County Road Department is authorized to grant, in writing, variances from the regulations and
+requirements of DCC 12.28, provided it first determines that the following conditions are present:
+A. The variance requested arises from peculiar physical conditions not ordinarily existing in similar
+districts in the County, or is due to the nature of the business or operation upon the applicant`s property;
+B. That the variance requestedis not against the public interest, particularly safety, convenience and
+general welfare;
+C. That the granting of the permit for the variance will not adversely affect the rights of adjacent property
+owners or tenants, and
+D. That the terms of DCC 12.28 will work unnecessary hardship upon the applicant, property owner or
+tenant.
+Ord. 95- 035 §1, 1995; Ord. 203-6 § 11, 1975)
+Chapter 12. 28 4 ( 0412003) 09' 2011
+Page4 of 5 - Exhibit D to Ordinance 2011- 026
+12. 28.150. Violation- Civil Remedies.
+In case a driveway or driveway approach is constructed or proposed to be constructed, maintained, repaired,
+altered or used in violation of DCC 12.28, such violation shall constitute a nuisance and the County may
+institute legal proceedings to prevent, enjoin, temporarily or permanently abate, remove or correct the
+nuisance.
+Ord. 95- 035 §1, 1995; Ord. 203-6 § 14, 1975)
+12. 28.160. Violation.
+Violation of any provision of DCC 12.28 is a Class B violation.
+Ord. 2003-021 § 26, 2003; Ord. 95- 035 §1, 1995; Ord. 83- 015 §1, 1983; Ord. 203-6 § 13, 1975)
+Chapter 12. 28 5 ( 0 4,- 2093409( f201 t
+Page 5 of 5 - Exhibit D to Ordinance 2011- 026
+Chapter 12. 35. SIDEWALKS
+12. 35.010. Title for Citation.
+12. 35.020. Purpose of Provisions.
+12. 35.030. Definitions.
+12. 35.035. Definition- Property Owner.
+12. 35.040. Definition- Sidewalk.
+12. 35.050. Sidewalk Standards.
+12. 35.060. Repairs.
+12. 35.070. Sidewalk Permit.
+12. 35.080. Sidewalk Requirements for New Building Construction.
+12. 35.090. Land Division Sidewalk Requirements.
+12. 35.100. Developed Area Sidewalk.
+12. 35.110. Prohibited Activities and Uses.
+12. 35.120. Owners to Pill Ground Between Curb and Sidewalk.
+12. 35.130. Liability for Sidewalk Injuries.
+12. 35.140. Access During Construction.
+12. 35.150. Variance Conditions.
+12. 35.160. Violation- Nuisance.
+12. 35.170. Violation.
+12. 35.010. Title for Citation.
+DCC 12.35 and the amendments thereto shall be collectively known as the " Deschutes County Sidewalk
+Ordinance," and may be so cited.
+Ord. 88- 014 § 1, 1988)
+12. 35.020. Purpose of Provisions.
+It is the purpose of DCC 12.35 to provide uniform standards for the construction and placement of
+sidewalks within each urban growth boundary and unincorporated community within the County, and to
+require all new developmentto ensure construction of sidewalks.
+Ord. 2011- 026 § 5, 2011; Ord. 88- 014 §1, 1988)
+12. 35.030. Definitions.
+As used in DCC 12.35 certain words and phrases are defined as set forth in DCC 12. 35.035- 040.
+Ord. 95- 035 §1, 1995; Ord. 88- 014 §l, 1988)
+1. 2.35. 035. Definition- Property Owner.
+Property owner" means " owner" as defined in ORS 368. 001(4). Where an owner has property frontage on
+two roads not including corner lots, and the County has denied the owner access to a County arterial or
+collector, the County shall be deemed the owner of that portion of the arterial or collector where access has
+been denied for the purposes of DCC 12. 35.
+Ord. 88- 014 §1, 1988)
+Chapter 12. 35 1 f88# t3} p9120 t t
+Page 1of 4 - Exhibit E to Ordinance 2011- 026
+12. 35.040. Definition- Sidewalk.
+Sidewalk" means a concrete walkway which meets the designand construction standards set forth in DCC
+12. 35.050, and is used primarily by pedestriansas a means of foot travel.
+Ord. 88- 014 § 1, 1988)
+12. 35.050. Sidewalk Standards.
+All sidewalks shall be constructed in accordance with DCC 17. 48.440, and to the line and grade specified
+by the County. Temporary walkways shall be constructed as directed by the County.
+Ord. 95-035 § 1, 1995; Ord. 88- 014 §1, 1988)
+12. 35.060. Repairs.
+A. All property owners shall maintain sidewalks within public right of way or on public easements
+adjacent to their property in good repair. If any such sidewalk is not maintained in good repair, the
+Board may send a notice by certified mail to the owner, requiring the owner to repair the sidewalk,
+setting forth the nature and extent of repairs, and the time, not less than 30 days after the date of the
+notice, within which the owner must make the specified repairs.
+B. If the owner does not make the repairswithin the time allowed, the Board may order the repairsto be
+made. The Board shall file the order, including a description of the abutting property, with the County
+Clerk. The recorded order is notice that the described property is subjectto a lien for the cost of the
+sidewalk repairs, in an amount to be determined later by order of the Board. The County may seek
+payment, reimbursement and enforcement of the lien in accordance with ORS 368. 910 to and including
+ORS 368. 925.
+Ord. 95- 035 § 1, 1995; Ord. 88- 014 § 1, 1988)
+12. 35.070. Sidewalk Permit.
+of eefistruraieffi of a sidewalk. hi additieii, wheFO a sidewalk is to be eenstfueted subsequent to
+obtaining a building peFmit, !be sidewalk peffflit is requiredpt: ieFtiatlie issuanee .
+B Sides alk permit fees and inspeetion fees shall be established in aecordanee with DCC 4. 12. A sideAull
+ffient shall be feasonablydesignedto assur-e the proper perfoffnancein aeeer- danee with these
+regulatiens.
+G. The sidewalk pemit shall be issued pursuant 4e the pr- eeedureset fet4b in XG , PeMit
+lures.
+Repealed Ord. 2011- 026 § 5, 2011; Ord. 95- 035 § 1, 1995; Ord. 88- 014 § 1, 1988)
+12. 35.080. Sidewalk Requirements for New Building Construction.
+When a sidewalk in ped repair- does net exist and the land tise appfaval felating to the use of the propeft)
+obtainingthe building pef:mit, obtain a sidewalk peFfflit for- the sideWalk FOqUiFedto be eeas# ue4ed uodeF the
+land ose appal.
+Repealed Ord. 2011- 026 § 5. 2011; Ord. 95- 035 § 1, 1995; Ord. 88- 033 § 1, 1988; Ord. 88- 014 § 1, 1988)
+Chapter 12. 35 2 ( 04E2003) 090- 011
+Page 2of 4 - Exhibit E to Ordinance 2011- 026
+12. 35.090. Land Division Sidewalk Requirements.
+A. Sidewalk requirementsimposedupon an applicant by DCC 12.35 shall be met and ensured as provided
+under DCC 12. 35.070, and the sidewalk shall be constructed in conjunction with the construction of any
+requiredroad or street.
+B. For those subdivisions or major partitionswhere new roads are constructed to County specifications, the
+lack of completedsidewalks shall precludethe establishment of such roads as County roads.
+Ord. 95- 035 §1, 1995; Ord. 88- 014 §1, 1988)
+12. 35.100. Developed Area Sidewalk.
+The County shall develop a comprehensive urban pedestrian walkway system to achieve the land use and
+transportation plans. DCC 12. 35.100 will enable sidewalks to be constructed adjacent to existing
+development, which is essential to achieving the objectives of the transportation plan.
+A. Whenever the Board deems it necessary, upon its own motion, the Board may initiate proceedingsto
+consider a local improvement district for the construction, alteration, repair and/or maintenance of
+sidewalks. The Board shall initiate such proceedingsupon its own motion, or the Board may initiate
+proceedingsupon receipt of a petition from at least 60 percent of the property owners within the
+proposed local improvement district, provided the petitioners also represent a majority of the foot
+frontageabuttingthe public right of way within the proposedarea.
+B. The Pk~ead Depaftinerit, in eensulwion with the planning depaFtment, shall pfopose and Submit to the
+through DGG 12. 35.060-.
+B Notwithstanding DCC 12. 35.100( B), Where an existing pedestriansidewalk is incompletedue to
+missing segments which are no longer in length than the frontage of three parcelsor lots, the County may
+direct such segments be constructed through a local improvement district or in accordance with the
+procedures of DCC 12. 35.060.
+Ord. 2011- 026 15, 2011; Ord. 95- 035 §1, 1995; Ord. 88- 014 §1, 1988)
+12. 35.110. Prohibited Activities and Uses.
+A. Any activity or use which might obstruct or otherwise impedethe normal passage of pedestriansand
+bicycles on sidewalks shall be prohibited. Such activities or uses shall include, but not be limited to, the
+following:
+1. The parking of a motor vehicle, except emergency vehicles, on or over any portion of a sidewalk;
+2. The dumping, depositing or placing of refuse or leaves upon a sidewalk;
+3. Allowing an accumulation of snow or ice to remain upon the sidewalk;
+4. The sale or display of merchandise on or near a sidewalk in such a way that the merchandise or
+prospective buyers of it might impedeor obstruct the passage of pedestrians or bicyclists; and
+5. The growth of trees, bushes or other plants in such a way that any part of the plant growing on or
+over a sidewalk might impede or obstruct the passage of pedestrians or bicyclists or create a sight
+distance hazard for users of the right of way.
+B. The use of motorized vehicles, horse- drawn vehicles, or horses on any sidewalk is prohibited, except
+where sidewalks must be crossed in order to gain access to a driveway, road, street, alley or parking
+area. Nonmotorized vehicles such as bicycles may be used on sidewalks for normal passage. The users
+of such vehicles shall not operate them in such a manner to impede, hazard or prevent the normal
+passage of pedestrians.
+Ord. 95- 035 §1, 1995; Ord. 88- 014 §1, 1988)
+Chapter 12. 35 3 f04Q0034 09/ 20 1 1
+Page 3of 4 - Exhibit E to Ordinance 2011- 026
+i
+12. 35.120. Owners to Fill Ground Between Curb and Sidewalk.
+It shall be the duty of all property owners to fill with earth, river rock, brick, gravel, loam, cinders, mulching
+materials or portland cement concrete any space between a curb and sidewalk in front of their property, and
+to the curbline of the street at the intersections, to a level grade with the curb and sidewalk. A groundcover,
+flowers, or trees may be used in compliance with DCC 12. 35.120.
+Ord. 95- 035 § 1, 1995; Ord. 88- 014 § 1, 1988)
+12. 35.130. Liability for Sidewalk Injuries.
+A. The property owner is responsiblefor constructing, maintaining and removing obstructions from a
+sidewalk adjacent to the property and shall be liable for all personalinjury or property damage arising
+from the property owner's fault or negligence in failing to keep clear, maintain or construct an abutting
+sidewalk.
+B. If the County is required to pay damages for an injury to persons or property owners caused by the
+failure of a person to perform the duty which DCC 12. 35.130 imposes, the person failing to perform the
+duty shall compensate the County for the amount of the damagesthus paid. The County may maintain
+an action in a court of competent jurisdiction to enforce the provisions of DCC 12. 35.130.
+Ord. 95- 035 § 1, 1995; Ord. 88- 014 § 1, 1988)
+12. 35.140. Access During Construction.
+During the construction of walks, it shall be the permit holder's responsibility to afford and assure
+reasonable access to private property by the property owner and invitees. This shall include the placing of
+planks, gravelor crushed rock on walkways and driveway approaches.
+Ord. 95- 035 § 1, 1995; Ord. 88- 014 § 1, 1988)
+12. 35.150. Variance Conditions.
+Variances to the provisions of DCC 12.35 may be granted in accordance with DCC 17.56 if any of the
+following criteria exist:
+A. Topographic or environmental features make construction physically impossible;
+B. The street ends in a cul- de-sac;
+C. In industrial areas where access to schools, residences, employment or shoppingcenters, recreation or
+transit facilities is not necessary;
+D. Adequateright of way cannot be obtained, or line and grade cannot be established or met, in which case
+a temporary walkway may be required as directed by the Road Department Director; or
+E. Upon findings that a pedestrianwalkway is not requiredto meet land use or transportationplangoals.
+Ord. 95- 035 §1, 1995; Ord. 88- 014 §1, 1988)
+12. 35.160. Violation- Nuisance.
+Any violation of DCC 12.35 is declared a nuisance.
+Ord. 95- 035 § 1, 1995; Ord. 88- 014 § 1, 1988)
+12. 35.170. Violation.
+Violation of any provision of DCC 12.35 is a Class B violation.
+Ord. 2003-021 § 28, 2003; Ord. 95- 035 § 1, 1995; Ord. 88- 014 §1, 1988)
+Chapter 12. 35 4 ( 04Q003) 0912011
+Page 4of 4 - Exhibit E to Ordinance 2011- 026
+Chapter 12. 52. CONSTRUCTION OF PUBLIC IMPROVEMENTS
+12. 52.010. Adoption of Transportation Project List.
+12. 52.010. Adoption of Transportation Project List.
+The County shall maintain a list of transportation projects for capital construction in public right- of-way
+segmentsfor which the Countyis the road authority. That list shall serve as a guide to the County in making
+expenditures for capital construction in the public right- of-way and in applying for grant funding to make
+such improvements. The initial list shall be that list adopted as part of the County's Transportation System
+Plan, adopted in 1998. The Board shall thereafter on a yearly basis, upon the recommendation of the Road
+Department, update that list by resolution.
+Ord. 98- 049 § 1, 1998)
+Chapter 12. 52 ( 09/ 2011)
+Page I of 1 - Exhibit F to Ordinance 2011- 026
+Permit for Workin,2 in a Public Right of Way
+Also available at http:// avenue.deschutes. org/utilityfrontendi
+REQUIRED INFORMATION:
+ROAD NAME: - CITY:
+t
+Nearest Intersecting Road
+APPLICANT: TELEPHONE:-
+FAX NUMBER:
+COMPLETE MAILING ADDRESS:
+CITY STATE ZIP
+CONTRACTOR: LICENSE #
+TELEPHONE NUMBER: FAX NUMBER:
+JOB SUPERVISOR: MOBILE NO.
+COMPLETE MAILING ADDRESS:
+CITY STATE ZIP
+E- MAIL: TYPE OF FACILITY:
+PROPOSED STARTING DATE: COMPLETION DATE:
+Road Cuts will NOT be permitted on any pavements under 5 years of age.
+1. A bond or cash deposit.
+Oregon Construction Contractor's Board:
+License Number: Expiration Date:
+Name: Bond Company:
+Address: Bond Amount: $
+License Status: Active Nonactive ( circle one)
+Bond Effective to:
+A claim may be filed by the Deschutes County Road Department alleging breach of contract, negligent or
+improper work, or unsatisfactory work, not meeting county standards.
+Cash deposit required as follows if not licensed and bonded:
+Going under a paved road/ cutting a paved road 750.00
+Cuts or ditches across unpaved or dirt roads $ 2. 00/L. F.
+Going along the right of way line of a road $ 2. 00/L. F.
+Grading of unpaved or dirt roads 500. 00
+2. Certificate of Insurance. A certificate of insurance, of not less than $1, 000,000 combined single limit, is
+required on file in our office with " Deschutes County, it' s Officers, Agents, Employees, and Volunteers"
+listed as additional insured on a separate endorsement.
+Additional Stipulations:
+3. One Call Center Ticket Number This permit is not valid unless the One Call Center has been
+notified. Oregon law requires you to follow rules adopted by the Oregon Utility Center. Those rules are set
+Page 1 of I 1 -EXHIBIT G to Ordinance 2011-026
+forth in OAR 952- 001-0010 through 952- 001-0090. You may obtain a copy of the rules by calling the
+Oregon Utility Center at 1- 800-332- 2344. The Oregon Utility Center also has a utility locate program,
+which must be notified 48 hours before any excavation takes place. The utility locate number is 1- 800-332-
+2344.
+4. Replacement /Repair of Survey Monuments and Markers Pursuant to ORS 209. 150. The undersigned shall
+have a land surveyor licensed in the State Oregon replace and/or repair (at the discretion of the County
+Surveyor) any and all survey monuments, pins, or markers of record which are destroyed or damaged as a
+result, directly or indirectly, of work resulting from, arising out of, or relating to, the activities, actions, or
+inaction's, of the undersigned, or its officer's, employees, subcontractors, or agents within any public right of
+way.
+The applicantaccepts and approves the terms and provisions contained and attached hereto, including the
+specialprovisionsand Deschutes Counties adoptedDesign standards.
+5. Notice to Property Owners, In cases where work in the County right- of-way may affect property owners;
+those property owners will be notified of the work being done before the work is started. Proof of this
+notification is required prior to starting work i. e. copy of notification letter. In some instances construction of
+a new road or improving or partially relocating an existing access road may constitute a land use action. The
+determination of whether or not this action is considered a land use action is the responsibility of the
+Deschutes County Community Development Department. You will need to meet with a CDD planner to
+discuss this mater before a permit to perform work within the right- of-way will be granted.
+6. New Construction Pre-job Conference. All new construction requires a pre job conference. This involves
+plans, safety, backfill, clean up and notifying One- Call.
+7. Other Permits - Separate permits may be required from federal, state or local agencies that have enacted
+regulations of ordinances regarding protection of the environment and preservation of natural resources, The
+Permittee is solely responsible for complying with said regulations or ordinances, if applicable. Issuance
+of a Facility Permit does not ensure that the applicant's proposed actions comply with the Federal
+Endangered Species Act, 16 U. S.C. 1531 et seq. ( ESA), nor release the applicant from responsibilities or
+requirements under any other federal, state or local environmental stature, regulation or permit. In the event
+of differences of conflicts between the conditions of the Facility Permit and any such laws, rules or
+regulations, the more restrictive shall apply.
+8. Hours of work. No work shall be done outside the hours of 7: 00 a. m. to 5: 00 p. m. Monday through Friday.
+9. Traffic control. As is requiredby Deschutes County Ordinance ( DCO) 17. 48.380, " Construction -
+Temporary Traffic Control." ( attached)
+10. Do not remove any traffic control devices! ( SIGNS) Traffic Control Devices must be installed according
+to Federal or State standards. Notify the Deschutes County Road Department before commencing any job
+where a sign or other traffic control device must be moved. Road Department employees will temporarily
+relocate the device, Upon completion of the project, again notify the Road Department and Road
+Department emlloyces will reinstall the device.
+11. Original condition. Work must be completed and pavement area left in original condition. All pavement
+cuts shall be guaranteed against settlement for I year.
+12. Cutting and repair. All crossings shall be saw cut. All patch work must be inspected by, and approved by,
+a Deschutes County inspector upon completion. The final patch must be constructed with hot mix; however,
+cold mix may be used as a temporary patch but must be replaced with hot mix when the asphalt plants are
+operating. Page 2 of 11 - EXHIBIT G to Ordinance 2011- 026
+13. Unsatisfactory work. If work DOES NOT meet County requirementsand patchwork must be completedby
+County forces the cost of such work will billed to the contractor,
+14. Hold harmless. Contractor shall be responsiblefor any and all injury to any and all persons or property
+caused directly or indirectly by reason of any and all activities by Contractor in the performance of this
+permit, and further agrees to indemnify, save harmless and defend the County, it' s officers, agents, and
+employees from and against all claims, suits, actions, damages, costs, losses and expenses in any manner
+resulting from, arising out of or connected with any such injury.
+15, Compliance with State and County. Excavators must comply with the provisions of ORS 757, 557(3). All
+work performed under this permit shall be in accordance with Deschutes County Code Chapter 12. 12 and
+12, 20.
+16. Permit at jab site. An approvedcopy of this permit must be kept on the job site at all times.
+17. Call for Inspection. Applicant agrees to call the Deschutes County Road Department when the work is
+completed and ready to be inspected.
+lpplicant agrees and understands that this permit does not constitute a land use permit. Any development of
+property connected with this permit must comply with all applicable land use regulations.
+APPLICANT'S SIGNATURE:
+TITLE: DATE:
+AMOUNT RECEIVED $
+AMOUNT RECEIVED FROM:
+CHECK NO./ CASH: DATE:
+i urrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr rrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+or Official Use Only: This Permit is issued and accepted by the Deschutes County Road Department, subject to
+the terms and provisions contained herein. Permit must be signed to be valid.
+APPROVED BY:
+TITLE:
+DATE:
+COMPLETED DATE: INSPECTED DATE:
+REMARKS:
+Page 3 of I1 - EXHIBIT G to Ordinance 2011- 026
+TES
+Road Department
+61150 SE 27th St. • Bend, Oregon 97702
+541) 388- 6581 * FAX ( 5411388- 2719
+To: Utility Operators Completing Work on County Right- of=Ways and Receiving
+Utility Permits
+From: Deschutes County Road Department
+Re: Restoration of Right- of=Ways
+The Deschutes County Road Department is implementing a new policy for the re-
+vegetation of County right- of-ways. This procedure has been developed due to the
+increasinggermination of noxious weeds when soil has been disturbed during
+utility/ constructionwork on the right- of-way. The use of dryland grass seed will
+stimulate competition and will help deter the germination of weeds such as Spotted
+Knapweed, Dalmatian Toadflax, Russian Thistle and Kochia.
+Utility Operators will be responsibleto complete this task usnign guidelines available
+from the County Road Department, WeedNegetation Division.
+Guidelines will include:
+Use of approved dryland seed mixture
+Approved seeding methods.
+Approved seeding period - October 0 to April 30`h. Construction between May
+1$t and September 30`h will not receive final inspectionapproval until seeding is
+completed during the proper seeding period.
+Utility Operators will be responsible for providing proof of seeding by submitting
+a receipt or invoice. Determination of proper proof will be at the discretion of the
+County Vegetation Manager.
+Deschutes County Vegetation Department is also available to perform re- seedingin the
+right- of-way. If you would like a price quote or have any questions, please feel free to
+call Dan Sherwin at 541- 322-7135.
+Page 4 of 11 - EXHIBIT G to Ordinance 2011- 026
+Quality Services Performedwith Pride
+SPECIAL PROVISION
+WORK IN RIGHT- OF-WAY
+IDENTIFICATION SIGN REQUIREMENT
+This provision shall apply to all agencies; utilities, corporations (public or private), or individuals engaging in work
+activities in the public right- of-way which are under the jurisdiction of Deschutes County, Oregon. This provision
+applies to all work activities regardlessof whether they are considered to be routine maintenance of existing facilitie,,
+or are beingperformed under a separate permit to construct new facilities,
+The entity for whom the work is being performed, or subcontractor acting on behalf of this entity, shall display signs
+stating the entity or contractor's name, and a phone number where questions may be directed. The signs shall be a
+minimum of 2 feet by 2 feet with 2 inch high BLUE letters on a white background conforming to the following
+outline:
+PROJECT BY
+John J. Smith Contracting
+Phone 123- 4567
+The above mentioned sign shall be required for any activity which will occupy the same general location for a
+duration of one hour or more. These activities will include long-term, intermediate-term, and short- term stationary
+work zones as defined by the current edition of PART VI of the MANUAL ON UNIFORM TRAFFIC CONTROL
+DEVICES ( MUTCD).
+The signsmay be post mounted or mounted on a Type II barricade ( minimum 2 feet wide by 3 feet high). The signs
+shall be located in a prominent location adjacentto the work and shall be visible to both directions of oncoming
+traffic.
+Logos or lettering on the side of fleet or construction vehicles stating the contractor's name and phone number will
+not be permitted as a substitute for the signs required herein.
+i. Where prime contractors, developers, or owners, have posted signs which meet the requirements contained herein,
+subcontractors will not be required to post additional signs,
+The signs shall be at the project site at all times during the course of the project. Absence of the signs will be
+grounds of suspension of all work covered under the permit.
+s. Sign suppliers may be found in the yellow pages under " Traffic Signs, Signals & Equipment," "Barricades," and
+Signs."
+The purpose of this provision is to positively identify those working in the public right- of-way, for the public who
+may have questions or concerns.
+0. Property owners performing their own work adjacentto their owner- occupiedproperty are exempt from the above
+requirements.
+Page 5 of 11 - EXHIBIT G to Ordinance 2011- 026
+DESCHUTES COUNTY CODE
+For Utility Permits
+17. 48.340 Construction - Temporary Traffic Control.
+A. Temporary protective and directional measures for traffic control shall be in
+conformance with the Federal Highway Administration's current Manual on
+Uniform Traffic Control Devices.
+B. The contractor shall be required to allow one- way traffic through the project
+during working hours. However, one- way traffic operation will not be
+permitted until such time as the contractor has labor, equipment and materials
+on the project necessary to proceed without delaying the work. Once one-
+way traffic is established, the contractor shall perform the construction work
+in a continuous and efficient manner.
+C. The contractor shall have a person on the job during working hours and on
+call at all other times, who shall have the responsibility to maintain all
+directional and warning devices in proper position. The county will be
+provided with the name and telephone number of such person.
+Page 6 of 11 - EXHIBIT G to Ordinance 2011- 026
+RECONSTRUCT EXISTING PAVING
+SECTION, BUT NOT LESS THAN
+CURRENT STANDARD 2" MAXIMUM
+LIFTS, MINIMUM 2 LIFTS
+SAWCUT OR GRIND JOINTS
+SAWCUT FULL DEPTH OR GRIND 2" DEPTH
+6" WIDER THAN TRENCH
+EXISTING PAVEMENT
+4" MIN.
+t
+18" MIN.
+VARIES
+12"
+LEVEL 3, 1/2" DENSE
+ASPHALTIC CONCRETE
+TRENCH BACKFILL
+CTB - TRENCH WIDTH>12"
+SCS - TRENCH WIDTH<12"
+CLASS " B" OR"C"- TRENCH WIDTH>12"
+COMPACT TO 95% OF MAXIMUM DENSITY
+SCS - TRENCH WIDTH<12"
+PIPE ZQN; & QQDING
+CLASS B OR C BACKFILL
+COMPACTTO 957 OF MAXIMUM DENSITY
+6 MAXIMUM LIFTS
+PIPE DIA. - - - -
+BACKFILL FIRST PIPE
+4" MIN. ZONE LIFT TO SPRINGLINE
+TRENCH WIDTH
+AS SHOWN
+BELOW
+Pipe Size 1. D.Max. Width Min. Width Class " B" Backfili: 3/ 4"-0 aggregate base. Reject base material may be used
+less than 6 30" 24"
+on approval by the Engineer.
+36" 25"
+Class " C" Backfdl: Clean sand with no particles size larger than 1/4" and no
+more than 10X by weight of material passing a 200 sieve
+36' 27" Cement Treated get ( M): Shall conform to the requirement of ODOT. R
+10" 42" 30"
+shall contain 4. 57 to 5. 5% cement by weight (i to 2 socks cement/ton)
+12" 42" 3Q"
+Sand Cement Slurro ( SCS . Shall conform to the requirements of ODOT
+specification for Class 6 bedding. It shall consist of at least 3/4 sack of
+15" 44" 36" portlond cement/cubic yard of send plus water, with a 7- inch slump plus or
+18" 48" 3$" minus 1- 1/2 inches.
+xluntrm} Wsyoc s st1- f.as
+1/' 10/2010 NONE UTILITY TRENCH DESCHUTES COUNT
+N EXISTINGDROM NO APFRM & I
+PAVEMENT
+ROAD DEPARThfENT
+1- 1 G. KOLe z'~ j~g1~
+Page 7 of 11 - Exhibit G to Ordinance 2011- 026
+Deschutes County
+O U N C REQUIREMENT
+Some time in the past Deschutes County Road Department has granted you the right to construct and
+operate a private utility facility which crosses in the public right- of-way. Periodically, various entities
+such as pubic utilities, private contractors, or even the Deschutes County Road Department may be
+doing underground work in this area. There exists the possibility that your facility could be damaged
+or it could cause problems for others working in the area. These potential problems are liabilities for
+you.
+To reduce potential liabilities for everyone involved, a notification system has been developed which
+identifies facilities in the public right- of-way before work begins in the area. With these existing
+facilities identified, there is a much less chance of accidents and of damages to the facilities. 1995
+Senate Bill 559, section 4, paragraph3 details the largeliability assumed by facility owner/ operatorsif
+they are not a part of this notification system. The Oregon Utility Notification Center ( OUNC)
+operates this notification system in Oregon.
+The OUNC has developed various zones in Oregon which maintain maps of all facilities in the zone.
+Deschutes County is in the OUNC Zone # IV. When the OUNC receives a request by someone about
+to excavate in an area, the OUNC researches its maps and calls all the facility owners in that area. The
+owners are then required to mark where the facilities are located. This marking is done with various
+colored paintson the ground over the facilities. The color of the paint is an indicator of the type of
+utility to be found there.
+Should a company damage your system after you have properly identified it, the company then
+becomes liable for damages, injuries, and business disruptions. If you have not registered with the
+OUNC and your system is damaged, you will be liable for any damages done by the other party.
+In order to prevent injuries and reduce preventable damages to underground facilities, Deschutes
+County is requiring all permitted "utility" operators to provide proof of being a subscriber ( member) to
+the OUNC with your facility included on the OUNC maps.
+As a subscriber to the OUNC, the first fifty locates requested of you each year by the OUNC are at no
+cost. Most small operationsrarely reach this fifty per year point. Requests above the fifty are
+currently billed at the cost of . 90 cents per request.
+As one with a permitted system in Deschutes County public right- of-way, you are required to complete
+the attached membership application to the OUNC. The completed application is to be submitted to
+the OUNC which will then send you a package detailing your requirements with them. The OUNC
+package will go into much more detail about this whole issue. After you become a subscriber with the
+OUNC, send a copy of your OUNC " welcome fax" to Deschutes County to verify membership. This
+verification of membership is essential for you to continue operation of your facility in the public right-
+of- way. If you have any questions about this Deschutes County requirement, please call Paul
+Richardson at ( 541) 322- 7123.
+Page 8 of 11 - EXHIBIT G to Ordinance 2011- 026
+REQUEST TO BECOME A SUBSCRIBING MEMBER
+OF THE
+OREGON UTILITY NOTIFICATION CENTER
+Company Name:
+Address:
+Mailing Address:
+Phone Number: Fax Number:
+Contact Person: Title:
+Phone Number:
+Type of Underground Faciliti
+General Road Locations of Underground Facilities: ( Roads with nearest cross streets)
+Authorized by Title Date
+SEND TO: Oregon Utility Notification Center
+Attn: Database Administrator
+1415 SE Ankeny Street
+Portland OR 97214- 1417
+Page 9 of 11 - EXHIBIT G to Ordinance 2011-026
+Additional Stipulations for Working in the Public Right of Way
+Construction Pre- Con Conference - will be held prior to the start of construction.
+811 Oregon Utility Notification Center - Utility locates must be obtained prior to
+start of construction, and all work performed in accordance with the rules adopted
+by the OUNC
+Notice to property owners - In cases where work in the County right- of-way may
+affect property owners; such as the trimming or removal of trees, moving fences,
+or any other removal that will directly affect the property owner, those property
+owners shall be notified before any work is started. Proof of this notification is
+required prior to the beginning of work. Any trees greater than 6" in diameter
+shall be offered to the property owner adjoining that removal.
+NO REMOVAL of Traffic Control Signs! Notify the Deschutes County Sign
+Department for relocation of any signs, they will also reinstall same signs.
+Traffic Control - No work will be performed without proper signs and flaggers.
+All traffic control will be according the "MUTCD" Traffic Specifications. Traffic
+control plans must be submitted and approved by the County before construction
+begins. Traffic interruption shall not exceed 20 minutes.
+Certified Flaggers - Only certified flaggers may be used in the public right-of-
+way.
+Hours of Work - No work shall be done outside the hours of 7: 00 am to 5: 00 pm,
+Monday - Friday.
+Excavation work from existing pavement - only rubber tired equipment shall be
+used when working from existing pavement.
+No work after dark without approval by the Deschutes County Road Department
+and pre- approvedlighting stations are used.
+Ice or snow - If pavement is covered with ice or snow, no work in the right-of-
+way will be allowed that would require the traveling public to alter their driving
+or stop in a work zone. Steel plates may be restricted during this time.
+CTB ( Cement Treated Base) shall be used under any cuts or trenches under
+existing pavement. Pavement depth not be less than four inches, saw cut will be
+24 inches wider than trench. ( See Permit to Work in Public Right of Way for
+specs).
+Page 10 of 11 - EXHIBIT G to Ordinance 2011- 026
+Compaction - Backfill shall be placed in six inch lifts and shall be 95% of
+maximum density per AASHTO standards in the ditch where the utility is being
+installed. Deschutes County reserves the right to require density testing by an
+independentcompany to insure that compaction requirements are being met. This
+testing will be done at the expense of the contractor.
+Manhole covers/ Access Vaults shall not exceed the height of existing pavement.
+Dust Abatement - Any work that is done on a non- pavedroad will require dust
+abatement while the work in is progress. All dust complaints will be handled in a
+2 hr. period. Because of freezing conditions, no water will be put on gravel roads
+until weather and temperature permit.
+Restoring of right- of-way - For reseeding information, contact Dan Sherwin,
+Deschutes County Vegetation Manager at 541- 322-7135
+Identification Sign Requirement - Contractor shall display signs stating their
+name and project manager/ foreman's phone number where questions may be
+directed,
+Parking idle equipment at night & weekends - Equipment will be parked at least
+10 feet off of the fog line or edge of pavement and illuminated with barricades.
+Closure of paved roads - No paved Deschutes County Road shall be totally closed
+during construction, one lane must remain open at all times,
+Open ditches - All open ditches or dig outs for hydrant installations will be
+fenced off with orange fabric fencing. If left overnight they need to be
+illuminated with flashing barricades.
+Clean-up - All refuse, including pipe strapping, rock piles, excess backfill,
+stockpiles, gravel or any other materials brought onto the jobsite will be totally
+cleaned up by the end of each regular workweek ( Friday).
+Citizen complaints - all citizen complaintswill be handled in a courteous
+professional manner. All complaints will be addressed within 24 hours in order to
+satisfy the citizens' concerns. Complaints received shall be passed on to the
+County inspector.
+Page 1 I of 11 - EXHIBIT G to Ordinance 2011-026
+T
+Road
+61150 6E 27th 8t. - Bend, Oregon 87702
+541) 388- 6581 - FAX ( 541) 388- 2719
+STAFF REPORT
+DESCHUTES COUNTY BOARD OF COMMISSIONERS
+09/ 2011
+Staff: George Kolb, PE, County Engineer
+Subject: Ordinance 2011-029, amending Title 12, Roads, Sidewalks and Public
+Places.
+INTRODUCTION
+Title 12 - Road, Sidewalks and Public Places, deals with construction that occurs within
+the public right- of-way throughoutDeschutes County. This Title was originally adopted
+by the Board of County Commissioners via Ordinance No. 203-7 in February of 1976.
+Since that time, there have been several Ordinances ( 87- 007; 88- 014; 93- 023; 94- 025;
+and 98- 049) that added Chapters to the Title and other Ordinances ( 95- 035; 2001- 016 and
+2003-021) that made corrections to certain Chapters. The last change to this Title was in
+2003 and since that time, the Road Department has changed the way it processes the
+permits to work in the public right- of-way and also the standards referenced in the code
+have been updated.
+DISCUSSION
+There are basically four main changes that will occur as a result of this Ordinance
+DCC 12.08 and 12.20 are revised concerning the permit to work in the public
+right- of-way. The original code had a " Utility Permit to Perform Work in a
+Public Right- of-Way" along with an " Annual Application and Permit to Operate
+and Maintain a Utility within Deschutes County Right- of-Way". This is being
+revised to having only one permit titled, "Permit for Working in a Public Right-
+of- Way". This permit is required for any work that is being done in the right-of-
+way versus being limited to utility work and is required when any work in the
+public right- of-way occurs by a utility company, contractor or private citizen.
+Prior to this, if a utility had an annual permit, we would not be notified of when
+Page 1 of 2 EXHIBIT H to Ordinance 2011- 026
+Quality Services Performedwith Pride
+work was occurring in the public right- of-way. We have also added a
+requirement to the code that new pavement cannot be cut by anyone until after a
+period of five ( 5) years. The Road Department notifies all utilities of upcoming
+road projects early in the year to allow them to install conduit where needed. If
+they have to cross the road, they are required to bore and jack the installation.
+2. DCC 12.08 Form, Utility Permit: The permit shown in the existing code will be
+repealed and replaced with the permit form that has all the changes that have
+occurred to the Permit for Working in the Public Right- of-Way.
+3. DCC12.35 is revised to remove the reference to the requirement to obtain a
+Sidewalk permit. The Road. Department does not issue sidewalk permits and
+construction and review of sidewalks will be covered under development plan
+review and the Permit for Working in a Public Right- of-Way.
+4. DCC 12.52 has a new section added concerning prequalification necessary to bid
+on Road Department projects. Prior to this revision, a company could apply
+directly to the Road Department for prequalification even if the Oregon
+Department of Transportation (ODOT) would not qualify them to work on their
+projects. This addition clarifies that the Contractor bidding on Road Department
+projects has to be prequalified with ODOT.
+Please reference Exhibit " 1" attached to this Staff Report which is a detailed summary of
+the changes in Ordinance 2011- 026
+Page 2 of 2 EXHIBIT H to Ordinance 2011- 026
+EXHIBIT " 1"
+F
+E
+Summary of Changes - Title 12 I
+DCC 12. 04 General Provisions and Definitions:
+1. 12. 04.040 Editorial Revisions: Replaced "District Attorney" with " County Legal
+Counsel"
+2. 12. 04.060 Definitions: revised the following definitions:
+a. Administrator - Changed to read " Road Department Director or the
+Director's authorized representative"
+b. Dedicated Public Road - deleted this definition and replaced it with the
+definition, " Local Access Road"
+c. Added definition for "Facility"
+d. Added definition for " Utility"
+DCC 12.08 Permit Procedures:
+12. 08.0 10 Permit - Application Required:
+a. Changed "Utility Permit to Perform Work in a Public Right- of-Way" to
+read " Permit for Working in a Public Right- of=Way" to match the wording
+on our current permit.
+b. Deleted reference to " Annual Application and Permit to Operate and
+Maintain a Utility within Deschutes County Right- of-Way" as we do not
+use that permit anymore
+c. Last sentence: Delete the requirement to submit two copies and just
+require the submittal of one copy.
+2. 12, 08.020 Application-Exhibition Maw
+a. Deleted reference to annual permit.
+3. 12. 08.040 Board Review:
+a. Added, " pursuant to ORS 34. 010" to the last sentence.
+4. 12. 08.050 Permit- Termination Conditions:
+a. A. - Removed this section as it deals with permits remaining in effect for
+20 years and that is not done anymore.
+b. B. - Changedto A and substituted " Administrator" for " Board"
+c. C. - Changed this to " B" and replaced "Board" with " Administrator"
+d. Added " C" to state " project" versus " pole line, buried cable or pipeline"
+and change "90 days" to " 30 days"
+5. 12. 08.070 permit - Rights Granted:
+a. Changed "Board" to " County" in the first sentence.
+6. 12. 08. 100 Annual Permit and Application Form:
+a. Deleted this section as we do not do Annual Permits anymore.
+Page I of 3
+EXHIBIT " 1"
+7. 12.08 Form, Utilily Permit
+a. The permit shown in the Code is out of date and will be replaced with the
+new updated, "Permit for Working in a Public Right- of-Way"
+DCC 12. 20 Specifications for Location, Construction, Operation, Maintenance,
+Repair, Relocation and Removal:
+12. 20.0 10 Maps and Drawings:
+a. Added " within 30 days of completion of the installation" to the last
+sentence
+2. 12. 20.100 Crossing Under Surface:
+a. Added " the roadway surface" to the first sentence
+b. Added paragraph D which states that road cuts will not be allowed on
+pavement that are under 5 years of age unless special approval is obtained
+from the Administrator. The Contractor will be required to bore and jack
+the installation versus open cut the road. This is something we have been
+requiring in the last several years but want to have it in the code.
+3. 12. 20.110 Open Cutting- Backfill, Resurfacing:
+a. B. 1.: Changed bedding depth to four inches below pipe (versus six) and
+twelve inches above pipe (versus six)
+b. C. 4.: Referenced " Oregon Standard Specificationsfor Construction"
+versus " Oregon State Highway Standard Specifications for Highway
+Construction" which is not used anymore.
+DCC 12.28 Driveways and Street Improvements:
+1. 12. 28.035 Definition - Driveway Approach:
+a. Revised the wording in this section.
+2. 12. 28.100 Width of Driveway Approach Apron:
+a. A. 1.: added the following to the end of this section,".. and the driveway
+can meet the spacing requirements listed in DCC 17. 48.090 ( B)". This is
+added to prevent additional driveways on Collectors and Arterials.
+DCC 12. 35 Sidewalks:
+1. 12. 35.070 Sidewalk Permit:
+a. Deleted this section as the County does not have a sidewalk permit process
+in place. This work would be covered under the "Permit to Work in the
+Public Right- of-Way.
+EXHIBIT " 1"
+2. 12. 35.080 Sidewalk Requirements for New Building Construction:
+a. Deleted this section as the County does not have a sidewalk permit process
+in place. This work would be covered under the " Permit to Work in the
+Public Right- of-Way".
+3. 12. 35.100 Developed Area Sidewalk:
+a. Deleted section B.
+DCC 12.52 Construction of Public Improvements:
+1. 12. 52.020 Preq_ ualificationof Bidders:
+a. Added this section to clear up the prequalification's necessary to work on
+County projects. It states a contractor has to be prequalified by ODOT to
+be able to work on County projects and removes the ability of the County
+to separately prequalify a contractor not on ODOT's list.
+Page3 of 3

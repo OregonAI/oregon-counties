@@ -1,0 +1,166 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2013-006
+title: 'Ordinance No. 2013-006'
+doc_type: ordinance
+citation: 'Ordinance No. 2013-006'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1620340382_2013-2-Ordinance%20No.%202013-006%20Recorded%201_4_2013.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 994f45ae50f6c078ce3ba4507b8aebace106bb205a234425a6308ba3098ea0bc
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 137.124
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2013-006 (Ordinance No. 2013-006)
+
+## At a glance
+
+Ordinance No. 2013-006 — orders of Deschutes County. 4 pages.
+
+## Full text
+
+REVIEWED ~ f
+LEG COUNSEL
+DESCHUTES COUNTY OFFICIAL RECORDS
+NANCY BLANKENSHIP, COUNTY CLERK Q) ( X
+COMMISSIONERS' JOURNAL
+01~ O~~~Q1~ 11; 33;36 AM11M11111u111luuu w u
+2033-
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County Code
+Chapter 2. 54 Deschutes County Corrections
+Supervisory Authority Board and Declaring an
+Emergency.
+ORDINANCE NO. 2013- 006
+Deschutes County Code ( DCC) 2. 54 sets policy and procedure for the County to operate corrections
+supervision services and custodial facilities within Deschutes County pursuant to ORS 144. 087. The current
+version of DCC 2. 54.30 does not specify terms of service or length of service for elector members; and
+This Ordinance will amend DCC 2. 54.30 to specify terms of service and length of service for elector
+members; and
+The amendment is needed for the Deschutes County Sheriff's Office to manage the Supervisory
+Authority Board; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, HEREBY
+ORDAINS as follows:
+Section 1. AMENDMENT. DCC Chapter 2. 54, Deschutes County Corrections Supervisory Authority
+Board, is amended to read as described in Exhibit " A", attached and incorporated by reference
+herein, with new language underlined.
+PAGE 1 OF 2- ORDiNANCF No. 2013- 006
+Section 2. EMERGENCY. This Ordinance being necessary for the public peace, health and safety, an
+emergency is declared to exist and this Ordinance takes effect on its passage.
+DATED this day of , 2013.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+ALAN UNGER, CHAIR
+r-.
+0 23~
+TAMMY BANEY, VICE-C . IR
+2~-
+ANTHONY DEBONE, COMMISSIONER
+Date of 1StReading: e day of 2013.
+Date of 2°d Readingday of , 2013.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Alan Unger
+Tammy Baney c~
+Anthony DeBone
+Effective Date: day of 2013
+ATTEST:
+Recording Secretary
+PAGE 2 OF 2- ORDINANCE No. 2013- 006
+EXHIBIT A
+Chapter 2. 54. DESCHUTES COUNTY CORRECTIONS SUPERVISORY AUTHORITY
+BOARD
+2. 54.010. Board Name.
+2. 54.020. Purpose.
+2. 54.030. Board Membership.
+2. 54.040. Compensation; Expense Reimbursement.
+2. 54.050. Meetings, Attendance and Quorum.
+2. 54.060. Powers and Duties.
+2. 54.070. Conflicts of Interest.
+2. 54.090. Discretionary Authority.
+2. 54.010. Board Name.
+The name of the board shall be the Deschutes. County Corrections Supervisory Authority Board, hereinafter
+referred to as " the SAB."
+Ord. 2002- 021 § 1, 2002; Ord. 97- 009 §1, 1997)
+2. 54.020. Purpose.
+The purpose of the SAB is to set policy for the Administrative Committee to operate corrections supervision
+services and custodial facilities within Deschutes County pursuant to ORS 144. 087.
+Ord. 2002- 021 § 1, 2002; Ord. 97- 009 §1, 1997)
+2. 54.030. Board Membership.
+A. The membership of the SAB shall consist of.
+1. The County Sheriff,
+2. The Corrections Captain;
+3. The Community Justice Director or the Director's designee;
+4. Two electors of Deschutes County to be appointed by the Sheriff and shall not be paid law
+enforcement personnel. Elector members will serve a term of two years. The Sheriff may extend
+the term based on the needs of the Sheriff's Office and SAB. Electors may apple to serve an
+additional term after two years have passedsince the completion of their service. The Sheriffhas
+the discretion to remove an elector member at any time if removal of the elector member is in the
+interest of the Sheriff's Office and SAB.
+Ord. 2013-006 1, 2013)
+B. The chair of the SAB shall be the Sheriff of Deschutes County.
+C. Members of the SAB Administrative Committee consists of
+1. Two Parole and Probation Supervisors;
+2. Work Center Designee;
+3. Correction Program Deputy;
+4. Corrections Lieutenant;
+The Administrative Committee shall implement the policies of the SAB and report its monthly activities to
+the SAB.
+The Corrections Lieutenant shall be the chair of the Administrative Committee.
+Ord. 2008- 034 § 1, 2008; Ord. 2002- 021 § 1, 2002; Ord. 97- 044 § 1, 1997; Ord. 97- 009 § 1, 1997)
+Chapter 2. 54 1 ( 01/ 2013)
+2. 54.040. Compensation; Expense Reimbursement.
+No SAB member shall receive compensation, but shall be reimbursed for authorized expenses.
+Ord. 2002- 021 § 1, 2002; Ord. 97- 009 §1, 1997)
+2. 54.050. Meetings, Attendance and Quorum.
+A. The SAB shall hold at least one regular meeting each quarter at a time and place fixed by it.
+B. A majority of the SAB shall constitute a quorum.
+C. The SAB shall comply with all appropriate provisions of the Public Meetings Act as set forth in ORS
+192, as amended from time to time by the Oregon Legislature.
+Ord. 2002- 021 § 1, 2002; Ord. 2000- 031 § 1, 2000; Ord. 97- 044 § 1, 1997; Ord. 97- 009 § 1, 1997)
+2. 54.060. Powers and Duties.
+A. The SAB shall be responsible for inmate sanctions and supervision, and policies and procedures for
+correction supervision services and custodial facilities within Deschutes County.
+B. All terms of imprisonment or incarceration of 12 months or less ordered by Deschutes County Courts
+must be served at the direction of the SAB, except as provided in ORS 137.124, 137. 593(2)( d) and
+423. 478.
+Ord. 2002- 021 § 1, 2002; Ord. 97- 009 §1, 1997)
+2. 54.070. Conflicts of Interest.
+A member of the SAB or its Administrative Committee shall not participate in any board proceeding or
+action in which any of the following have a direct, substantial financial interest: the member or his spouse,
+brother, sister, child, parent, father- in-law, mother-in-law, or any business with which he is negotiating for
+or has an arrangement or understanding concerning prospective investment or employment. Any actual or
+potential interest shall be disclosed at the meeting of the board where the matter is being considered.
+Ord. 2002- 021 § 1, 2002; Ord. 97- 009 §1, 1997)
+2. 54.090. Discretionary Authority.
+All decisions of the Deschutes County Corrections Supervisory Authority Board and the Administrative
+Committee are discretionary. DCC 2. 54 is intended to carry out the provisions and intent of the Oregon
+Legislature as adopted in Senate Bill 1145, Chapter 423, Oregon Laws ( 1995). The implementation of SB
+1145 by the Deschutes County Board of Commissioners, under Ordinance No. 97- 009 and this ordinance, is
+to provide the greatest scope of delegation and discretion to the Deschutes County Corrections Supervisory
+Authority Board and Administrative Committee to meet the needs of the community and to join with the
+State of Oregon to implement the partnership as outlined by SB 1145.
+Ord. 2002- 021 § 1, 2002; Ord. 97- 044 §1, 1997)
+Chapter 2. 54 2 ( 01/ 2013)

@@ -1,11 +1,11 @@
-# AGENTS.md — {{CORPUS_NAME}}
+# AGENTS.md — Oregon Counties — Code, Ordinances, Policy and Land Use
 
-Corpus of the OregonAI civic corpus platform. Archetype: {{ARCHETYPE}}.
+Corpus of the OregonAI civic corpus platform. Archetype: document.
 Read `_meta/corpus.yml` for configuration; the platform rules live in
 OregonAI/corpus-toolkit `docs/`.
 
 ## Purpose
-Non-authoritative, AI-friendly mirror of {{CORPUS_SCOPE_DESCRIPTION}}.
+Non-authoritative, AI-friendly mirror of policy instruments of Oregon's 36 counties — codified county code and ordinances, board and county-court orders, administrative policy (HR, purchasing, public records, IT), and land use (comprehensive plans, zoning, development codes).
 Never a source of truth — every answer must cite and link the
 authoritative source.
 
@@ -73,43 +73,47 @@ outcome that is never acceptable.
 Discovery → human-approved source manifest → ingestion → human-reviewed
 PR. See toolkit `docs/replication-guide.md`.
 
-## Setting up this corpus (delete this section once done)
 
-1. **Fill every placeholder.** `grep -rno '{{[A-Z_]*}}' .` must come back empty.
-2. **Name the content root.** Rename `documents/` to whatever this corpus holds
-   and make `content_roots` in `_meta/corpus.yml` agree. A `doc_type` may only
-   live in the directory routed to it — the validator fails both ways (wrong
-   type under a root, and a type placed outside its root).
-3. **Set a real CODEOWNER.** `.github/CODEOWNERS` ships a placeholder. GitHub
-   silently ignores an owner it cannot resolve — AND a path that does not exist —
-   so a wrong entry enforces nothing while looking like it does. Both are checked
-   by `codeowners-validate.yml` on every PR; run the path half locally with
-   `python3 .github/scripts/check-codeowners-paths.py`.
-4. **Write an ingester** under `src/`. It must satisfy the hashing contract in
-   `_meta/templates/document.md` — call `corpus_toolkit.repo.hash_snapshot`
-   rather than hashing anything yourself.
-5. **Build the graph**: `python3 src/build_graph.py`. Nothing in the toolkit
-   writes `_meta/graph.json`; without it citation resolution silently returns
-   nothing. The `generated` CI job keeps it honest.
-6. **Regenerate `STATUS.md`**: `corpus-generate-status --config _meta/corpus.yml
-   --output STATUS.md`. The committed file is a placeholder and says so. This
-   cannot be caught by CI: `--check` strips every line matching `generated|last
-   updated|as of` before comparing — deliberately, so the date does not make the
-   file perpetually stale — which means the one field it can never gate is the
-   date. `oregon-audits` shipped carrying the template's authoring date, three
-   days stale on day one, with the gate green.
-7. **Add a `--check` CI step for every generated file you commit.** A gate that
-   exists but is not wired is worse than no gate: it reads as covered.
-8. **Declare siblings** in `_meta/corpus.yml` if this corpus cites documents in
-   another one, and mark those citation schemes with
-   `register_scheme(..., corpus="<sibling id>")`. Reference across corpora;
-   never copy documents between them.
+## County rules — enforced, not honour-system
+
+`src/check_guardrails.py` runs on every PR. Five rules, each about MEANING rather than
+schema, which is why the toolkit's validators cannot see them:
+
+| rule | fails the build when |
+|---|---|
+| governing body | a document in one of the 6 County Court counties names a Board of Commissioners, or the reverse |
+| authority basis | a general-law county claims `authority_level: county_charter` (8 of 36 are charter; 28 are not) |
+| absence is measured | `## At a glance` asserts a county publishes none of something without a matching `none-found` in the survey |
+| no silent truncation | a line starts `## ` at column zero after `## Full text` — everything past the first is invisible to provenance, search and extract_fulltext |
+| no drafts as law | a filename or source_url matches a redline/proposed pattern while `status: current` |
+
+**Absence is the rule that matters most.** A county with no document here may publish none,
+may not publish it online, or may sit behind a wall we could not pass. This corpus is least
+entitled to infer the first from an empty directory. The claim must rest on
+`corpus-seeds/oregon-counties.survey.yml`, which measured it.
+
+## Access, and the line this corpus holds
+
+Five source hosts serve `User-agent: ClaudeBot` / `Disallow: /`. The operator's decision
+(PLAN.md Phase 12) is that such a directive is not binding for the TEXT OF COUNTY LAW, since
+the county authors its law and the vendor hosts it.
+
+That is not a licence to get in by any means. **Declining to honour a stated preference is
+not the same act as disguising identity to defeat a technical access control.** `src/fetch.py`
+sends an honest, self-identifying User-Agent and never a browser string. A host that refuses
+it makes that source `unavailable` — recorded as a fact about our access, never as an absence
+at the county. See `src/profiles/marion.py` for the case where that cost us a whole county,
+and `src/profiles/washington.py` for the case where it cost nothing.
+
+Every determination is recorded per host in `_meta/sources/<county>.yml` under `crawl:`, so
+it is reviewable in a PR rather than buried in a fetcher.
 
 ## Generated files — never hand-edit
 
 | file | generated by | gate |
 |---|---|---|
 | `_meta/graph.json` | `src/build_graph.py` | `generated` job, every PR |
+| `relationships.references_external` | `src/link_citations.py` | `generated` job, every PR |
 | `STATUS.md` | `corpus-generate-status` | `generated` job, every PR (plus a weekly repair in the `drift` job) |
 
 Regenerate at the source and commit the result.

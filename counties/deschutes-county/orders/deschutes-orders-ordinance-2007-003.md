@@ -1,0 +1,331 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2007-003
+title: 'Ordinance No. 2007-003'
+doc_type: ordinance
+citation: 'Ordinance No. 2007-003'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616981570_2007-44-Ordinance%20No.%202007-003%20Recorded%201_25_2007.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: dfc83516ca95a07a93cbe5ee88f78391dc48b51f8d8e5db08978bc095609451a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2007-003 (Ordinance No. 2007-003)
+
+## At a glance
+
+Ordinance No. 2007-003 — orders of Deschutes County. 5 pages.
+
+## Full text
+
+REVIEW
+DESCHUTES COUNTY OFFICIAL RECORDS
+CJ2401'44NANCY BLANKENSHIP, COUNTY CLERK
+COMMISSIONERS' JOURNAL
+01/ 25/2007 04; 06;27 PM
+L COUNSELJIIIIIIIIIIIIIIIIIIIIIIIIIIII
+2007-44
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Chapter 2. 05, County
+Administrator, of the Deschutes County Code and * ORDINANCE NO. 2007- 003
+Declaring an Emergency
+WHEREAS, the Board of County Commissioners has determined it is necessary to amend Deschutes
+County Code Chapter 2. 05, County Administrator, to clarify language in the Ordinance related to the authority
+of the County Administrator to oversee County personnel and administer personnel rules and policies; now,
+therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, HEREBY
+ORDERS as follows:
+Section 1. AMENDMENT. Deschutes County Code Chapter 2. 05, County Administrator, is amended
+to read as described in Exhibit " A," attached hereto and by this reference incorporated herein, with new
+languageunderlined and language to be deleted in StAket#feug#.
+Section 2. EFFECTIVE DATE. This Ordinance being necessary for the immediate preservation of the
+public peace, health and safety, an emergency is declared to exist and this Ordinance takes effect on its passage.
+DATED this>U`( day of _ , 2007.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+PAGE 1 OF 2- ORDINANCE No. 2007- 003 ( 1/ 24/07)
+Date of 1" Reading: ~ day of , 2007.
+44,
+Date of 2°d Readinggq 'day of ga, 2007.
+Record of Adoption Vote
+Commissioner Yes No Abstained Excused
+Dennis R. Luke r/
+Michael M. Daly V
+Tammy Baney
+c' Y~
+Effective Date: ~ l day of , 2007
+ATTEST:
+Recording Secretary
+PAGE 2 OF 2- ORDINANCE N0. 2007-003 ( 1/ 24/07)
+Chapter 2. 05 COUNTY
+ADMINISTRATOR
+2. 05.010 Purpose
+2. 05.020 Definitions
+2. 05.030 Office of County
+Administrator Created
+2. 05.040 Appointment/Removal
+2. 05.050 Vacancy
+2. 05.060 Authority
+2. 05.070 Delegation
+2. 05.080 Interaction with County
+Administrator,
+Employees
+2. 05.010. Purpose.
+The Board of County Commissioners finds
+and determines that the interests of the
+County will be best served by delegating
+certain administrative authority of the Board
+to a county administrator who shall be
+responsible to the Board for the manner of
+the County Administrator's administration.
+2. 05.020 Definitions
+The following terms used in this Chapter
+shall have the meanings set forth below:
+A. Elected County Official means and
+includes the following Deschutes
+County elected officials: the Sheriff, the
+Clerk, the Assessor, the Treasurer, the
+District Attorney, and the Justice of the
+Peace.
+B. Liaison means the member of the Board
+of County Commissioners assigned by
+the Board to one or more county
+departments, committees or agenciesfor
+purposes of being informed about issues
+pertinent to the department, committee
+or agency and not for administrative
+purposes. It is the responsibility of the
+Liaison to communicate information to
+the Board.
+2. 05.030. Office of County
+Administrator Created.
+The Office of County Administrator is
+created, and the person holding that office
+shall act as the head of administration for the
+County and, if delegated by the district
+governing body, county service districts.
+2. 05.040 Appointment/ Removal
+A. The County Administrator shall be
+appointed by the Board of County
+Commissioners for an indefinite term.
+The County Administrator is an at- will
+employee and may be removed at the
+pleasure of the Board, consistent with
+any applicable employment agreement
+and this Chapter.
+B. The County Administrator may be
+removed by a majority vote of the Board
+of County Commissioners.
+Upon such a majority vote, the Board
+shall adopt a preliminary resolution
+setting forth the reasons for the County
+Administrator's removal. The County
+Administrator may reply, in writing, and
+may request an opportunity to be heard
+at a meeting of the Board, which shall
+be an executive session, unless the
+County Administrator requests the
+matter be conducted in open session.
+After such hearing of the Board, if one
+is requested, and after full consideration,
+the Board may adopt a final resolution
+of removal. By the preliminary
+resolution, the Board may suspend the
+County Administrator from duty, but
+shall, during the term of such
+suspension, cause the County
+Administrator to be paid any salary and
+fringe benefit amounts due the County
+Administrator as the result of the duly
+executed employment agreement in
+effect at the time of the preliminary
+resolution. No such payment shall be
+made if the County Administrator's
+removal is for any reason involving
+moral turpitude or lack of integrity
+pursuant to the employment agreement.
+C. Nothing contained herein shall be
+construed as prohibiting the Board and
+the County Administrator from
+negotiating and entering into a
+separation agreement.
+Page I of 3 - Exhibit A, Ordinance 2007- 003 ( 01/ 24/07)
+2. 05.050 Vacancy, Absence or
+Disability.
+A. When a permanent vacancy occurs in
+the Office of County Administrator, the
+Board of County Commissioners shall
+designate an Acting County
+Administrator until such time as a
+County Administrator is appointed. The
+Acting County Administrator shall have
+all powers and duties conferred on the
+County Administrator by this Chapter.
+B. The County Administrator may
+designate in writing an administrative
+officer of the County to exercise and
+perform the County Administrator's
+powers and duties during the County
+Administrator's temporary absence or
+disability. Where the Administrator has
+not designated someone to act on behalf
+of the Administrator and due to
+temporary incapacity the Administrator
+is incapable of making such designation,
+the Board may designate an acting
+Adminstrator to serve until such time as
+the Adminstrator is capable of making a
+designation or has resumed
+responsibilities.
+2. 05.060 Authority.
+A. The County Administrator shall be the
+Chief Administrative Officer of the
+County and all County service districts,
+if that authority is delegated by the
+governing body of the district. The
+County Administrator shall be
+responsible to the Board of County
+Commissioners for the administration
+and management of the County and its
+service districts and shall have control
+and supervision of all administrative
+departments, divisions, offices, districts
+and agencies subject to the County
+Administrator's jurisdiction, except as
+otherwise provided by law.
+The County Administrator shall exercise
+no authority over the actions of elected
+County officials. or- their- depaAments
+while they 4 "°v- jvifervrmizrg thcnv
+a
+cccccic^s-iTi
+B. The Board of County Commissioners
+hereby delegates to the County
+Administrator broad authority to
+perform the County Administrator's job
+functions. The County Administrator is
+responsible to the Board for the manner
+of the County Administrator's
+administration. The Board reserves to
+itself all of its legislative and judicial or
+quasi- judicial authority, unless expressly
+delegated.
+C. The County Administrator shall have the
+specific authority, to perform all day-to-
+day functions necessary for the
+administration and management of
+County affairs and, if delegated, the
+affairs of County service districts. Such
+authority includes, but is not limited to,
+the following:
+1. Direct and coordinate the overall
+management of County government
+in accordance with policies set by the
+Board of County Commissioners and
+applicable laws.
+2. Consistent with any applicable
+collective bargaining agreement,
+transfer employees from one office
+or department to another when the
+workload requires such action.
+3. Provide the proper administration of
+all ordinances, orders and resolutions
+of the Board, all contracts entered
+into by the County, and provide for
+the enforcement of all policies, rules,
+procedures, orders and regulations
+duly adoptedby the Board.
+4. After consultation with members of
+the Board of County Commissioners
+select, appoint and dismiss all heads
+of departments, except elected
+County officials and County Legal
+Counsel, and their- appeiRted
+p ae~-in accordance with federal
+and state laws and guidelines,
+applicable contracts and policies
+adopted by the Board; supervise and
+discipline all heads of departments,
+except elected County officials and
+County Legal Counsel,
+a
+in accordance
+with federal and state laws, and
+Page 2 of 3 - Exhibit A, Ordinance 2007- 003 ( 01/ 24/07)
+applicable contracts and county
+policies; and advise the Board of the
+reasons and process used in such
+action.
+5. Coordinate the work of all offices,
+departments and agencies, and devise
+ways and means whereby efficiency
+and economy may be secured in the
+operation of all offices, departments
+and agencies.
+6. Prepare and submit to the Board and
+budget committee an annual budget
+and a long range capital
+improvement and expenditure
+program, along with a financial plan
+for raising revenue, covering a period
+of not less than the five ensuing
+years, and administer the provisions
+of the budget as adopted by the
+Board.
+7. Direct the use, maintenance and
+custody of all county property,
+buildings, works and improvements
+according to policies promulgated by
+the Board.
+of committees or agencies to which they are
+assigned concerning day- to-day conduct of
+County affairs.
+Ord. 2007-003, § 1, 2007; Ord. 2005- 053
+1, 2005)
+2. 05.070 Delegation
+The County Administrator may delegate any
+authority to County department heads or
+other County or district staff, in a manner
+consistent with the provisions of the County
+Code, County policies or district operating
+agreements.
+2. 05.080 Interaction with County
+Administrator,
+Employees
+In the exercise of their authority as members
+of the governing body of the County, Board
+members may individually, or as a group in
+a public meeting, discuss fully and freely
+with the County Administrator any matter
+pertaining to County affairs or the interest of
+the County. Board members may not direct
+any County employee, other than the County
+Administrator, in the performance of their
+duties. This section shall not be construed to
+prohibit a Board member from performing
+the Board member's role as liaison in
+making inquiries of County employees
+within particular departments, or members
+Page 3 of 3 - Exhibit A, Ordinance 2007- 003 ( 01/ 24/07)

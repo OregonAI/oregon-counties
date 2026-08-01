@@ -1,0 +1,515 @@
+group: lane
+title: Lane County sources
+county: lane-county
+crawl:
+  decision: proceed
+  checked: '2026-07-31'
+  basis: robots.txt names no AI agent. It disallows the site's own API surface (/Search/, /WebApi/, /WebServices/,
+    /portal/svc/, several .asmx endpoints) and leaves the PDF tree open. Those disallows are honoured
+    — nothing here touches them; every document is fetched from the static file tree.
+  hosts:
+  - host: lanecountyor.gov
+    robots_url: https://lanecountyor.gov/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: Disallow /Search/ /WebApi/ /WebServices/ /portal/svc/ *.asmx. No sitemap declared. PDF tree
+      open.
+  - host: cdnsm5-hosted.civiclive.com
+    robots_url: null
+    ai_block: false
+    content_signal: null
+    notes: CDN origin the PDFs are actually served from; same content, no separate directives found.
+last_checked: '2026-07-31'
+upstream_signal: No feed. Lane Code chapters are re-published as whole PDFs when amended, so a re-hash
+  of each chapter detects an amendment; a new chapter appears as a new link in the code index.
+sources:
+- id: lane-code-lc01
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC01.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC01
+  last_checked: '2026-07-31'
+- id: lane-code-lc02
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC02.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC02
+  last_checked: '2026-07-31'
+- id: lane-code-lc03
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC03.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC03
+  last_checked: '2026-07-31'
+- id: lane-code-lc04
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC04.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC04
+  last_checked: '2026-07-31'
+- id: lane-code-lc05
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC05.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC05
+  last_checked: '2026-07-31'
+- id: lane-code-lc06
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC06.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC06
+  last_checked: '2026-07-31'
+- id: lane-code-lc07
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC07.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC07
+  last_checked: '2026-07-31'
+- id: lane-code-lc08
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC08.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC08
+  last_checked: '2026-07-31'
+- id: lane-code-lc09
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC09.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC09
+  last_checked: '2026-07-31'
+- id: lane-code-lc10-toc
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10_TOC.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC10 TOC
+  last_checked: '2026-07-31'
+- id: lane-code-lc11
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC11.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC11
+  last_checked: '2026-07-31'
+- id: lane-code-lc14
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC14.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC14
+  last_checked: '2026-07-31'
+- id: lane-code-lc15
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC15.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC15
+  last_checked: '2026-07-31'
+- id: lane-code-lc16-toc
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16_TOC.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC16 TOC
+  last_checked: '2026-07-31'
+- id: lane-code-lc17
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC17.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC17
+  last_checked: '2026-07-31'
+- id: lane-code-lc18
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC18.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC18
+  last_checked: '2026-07-31'
+- id: lane-code-lc19
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC19.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC19
+  last_checked: '2026-07-31'
+- id: lane-code-lc20-eviction
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC20%20%20eviction.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC20  eviction
+  last_checked: '2026-07-31'
+- id: lane-code-lc21
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC21.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: LC21
+  last_checked: '2026-07-31'
+- id: lane-code-toc-code
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/TOC%20CODE.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: TOC CODE
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-toc
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10_TOC.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10 TOC
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-005-020
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.005_020.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.005 020
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-025-100
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.025_100.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.025 100
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-101-103
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.101_103.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.101 103
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-104-105
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.104_105.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.104 105
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-106
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.106.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.106
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-107
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.107.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.107
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-108-110
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.108_110.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.108 110
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-112-113
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.112_113.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.112 113
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-115-130
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.115_130.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.115 130
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-135-140
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.135_140.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.135 140
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-145-165
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.145_165.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.145 165
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-166-181
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.166_181.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.166 181
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-182-190
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.182_190.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.182 190
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-200-205
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.200_205.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.200 205
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-210-235
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.210_235%20.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.210 235
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-240-245
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.240_245.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.240 245
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-250-255
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.250_255..pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.250 255.
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-260-270
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.260_270.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.260 270
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-271
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.271.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.271
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-275-300
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.275_300.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.275 300
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-305-320
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.305_320.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.305 320
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-322-342
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.322_342.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.322 342
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-345-650
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.345_650.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.345 650
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc10-700-990
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC10.700_990.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC10.700 990
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc12
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC12.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC12
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc13
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC13.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC13
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-toc
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16_TOC.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16 TOC
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-001-015
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.001_015.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.001 015
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-090-100
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.090_100.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.090 100
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-210
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.210.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.210
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-211
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.211.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.211
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-212
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.212.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.212
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-213
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.213.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.213
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-214
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.214.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.214
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-215-216
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.215_216.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.215 216
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-217-218
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.217_218.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.217 218
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-219-227
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.219_227.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.219 227
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-229-234
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.229_234.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.229 234
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-235-237
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.235_237.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.235 237
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-238-240
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.238_240.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.238 240
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-241-243
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.241_243.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.241 243
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-244
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.244.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.244
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-245-249
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.245_249.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.245 249
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-250-253
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.250_253.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.250 253
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-254-258
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.254._258.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.254. 258
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-259-280
+  url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.259_280.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.259 280
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-285-287
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.285-287.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.285-287
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-290-291
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.290_291.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.290 291
+  last_checked: '2026-07-31'
+- id: lane-land-use-lc16-292-420
+  url: https://www.lanecounty.org/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC16.292_420.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: LC16.292 420
+  last_checked: '2026-07-31'

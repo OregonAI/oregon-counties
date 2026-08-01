@@ -1,0 +1,350 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-2012-016
+title: 'Ordinance No. 2012-016'
+doc_type: ordinance
+citation: 'Ordinance No. 2012-016'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1625592798_2012-1866-Ordinance%20No.%202012-016%20Recorded%2012_6_2012.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 78aacb6cc11683387d8ee71e77fe1c5cde9d8171889f4302a162b471f4436281
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 2012-016 (Ordinance No. 2012-016)
+
+## At a glance
+
+Ordinance No. 2012-016 — orders of Deschutes County. 9 pages.
+
+## Full text
+
+REVIE7D
+LEGAL COUNSEL
+COUNTY OFFICIAL
+NANCYUBLANKENSHIP, COUNTY CLERK°$ U NINE
+COMMISSIONERS' JOURNAL
+1111111111111111
+2012
+1ZI06I201Z08, 14,36 AM
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Certain Sections of the
+Deschutes County Comprehensive Plan, and * ORDINANCE NO. 2012- 016
+Repealing Certain Sections of Title 23.
+WHEREAS, on August 10, 2011, the Board of County Commissioners (" Board") adopted Ordinance
+2011- 003 to adopt the updated Comprehensive Plan in Title 23; and
+WHEREAS, Deschutes County Code (" DCC") Chapter 23.84, Destination Resorts remained as a
+separate chapter in Title 23 to await a final opinion and order from the Land Use Board of Appeals ("LUBA")
+on Ordinance Nos. 2011- 001 and 2011-002; and
+WHEREAS, on September 6, 2012, LUBA's issued a final opinion and order in Case Nos. 2011-
+115/ 116 affirming the Board's adoption of Ordinance Nos. 2011- 001 and 2011- 002; and
+WHEREAS, the Community Development Department planning staff initiated a Comprehensive Plan
+amendment in order to incorporate housekeeping changes to the updated Comprehensive Plan; and
+WHEREAS, because no wording is being changed, merely moving the provisions in DCC Chapter
+23. 84 into the new format of the Comprehensive Plan does not require any findings regarding compliance with
+the statewide planning goals, state statutes or administrative rules or regarding consistency with other
+Comprehensive Plan provisions; and
+WHEREAS, the amendments were reviewed by the Planning Commission on October 25, 2012; and
+WHEREAS, a public hearing was held before the Board of County Commissioners on November 19,
+2012, and the Board concluded that the public will benefit from changes to the Comprehensive Plan; now,
+therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON, ORDAINS
+as follows:
+Section 1. AMENDING. DCC 23. 01 is amended to read as described in Exhibit " A," attached hereto
+and by this reference incorporated herein, with new language underlined and language to be deleted in
+ugh.
+Section 2. The Deschutes County Comprehensive Plan Chapter 3, Rural Growth Management, is
+amended to read as described in Exhibit " B," attached hereto and by this reference incorporated herein, with
+new language underlined and languageto be deleted in strikethrough.
+Section 3. AMENDMENT. The Deschutes County Comprehensive Plan Chapter 5, Supplemental
+Sections, is amended to read as described in Exhibit " C," attached hereto and by this reference incorporated
+herein, with new languageunderlined and language to be deleted in strikethrough.
+Section 4. REPEALING. Deschutes County Code Chapter 23.84, Destination Resorts is repealed.
+PAGE 1 OF 2 - ORDINANCE NO. 2012- 016
+d
+Dated this of 012 BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+0- 99~~
+ATTEST:
+Recording Secretary
+ANTHONY DeBONE, Chair
+a/ a,4, t_ &$4~
+ALAN UNGER, Vice Chair
+TAMMY B EY, Commis ' ner
+Date of 1" Reading: / % _ day of U V ~ , 2012.
+Date of 2°d Reading: Dr~ day of )e e~- ' 2012.I-)
+Commissioner
+Anthony DeBone
+Alan Unger
+Tammy Baney
+Record of Adoption Vote
+Yes No Abstained Excused
+r
+201T Zb / 3,Effective date: ~ day of MIA C
+PAGE 2 OF 2 - ORDINANCE NO. 2012-01 b
+Chapter 23. 01 COMPREHENSIVE PLAN
+23. 01.010. Introduction.
+A. The Deschutes County Comprehensive Plan, adoptedby the Board in Ordinance 2011- 003 and
+found on the Deschutes County Community Development Department website, is incorporated by
+reference herein.
+B. The Deschutes County Comprehensive Plan amendments, adoptedby the Board in Ordinance
+2011-027, are incorporated by reference herein.
+C. The Deschutes County Comprehensive Plan amendments, adoptedby the Board in Ordinance
+2012- 005, are incorporated by reference herein.
+D. The Deschutes County Comprehensive Plan amendments, adoptedby the Board in Ordinance
+2012-012, are incorporated by reference herein.
+E. The Deschutes County Comprehensive Plan amendments, adoptedby the Board in Ordinance
+2012- 016, are incorporated by reference herein.
+Ord. 2012- 016 § 1, 2012; Ord. 2012- 013 § 1, 2012; Ord. 2012- 005 § 1, 2012; Ord. 2011- 027 § 1 through
+12, 2011; Ord. 2011-003 § 3, 2011)
+Page 1 of 1 EXHIBIT A TO ORDINANCE 2012- 016
+sect%ow s9 Destiwat~ow P,. esorts
+Background
+Since 1979 destination resorts have increased in importance to the economy of Deschutes
+County In 1989, recognizing the importance of tourism to the economy of the State of Oregon,
+the state, legislature and the Land Conservation and Development Commission (" LCDC") took
+s_ teasto make it easier to establish destination resorts on rural lands in the state. Statewide
+Planning,Goal 8. the recreation goal, was amended to specify a process for locating destination
+resorts on rural land without taking an exception to Goals 3 4 11 and 14, which govern
+development in rural resource lands. This was followed b legislation incorporating Goal 8 into
+Oregon's land use statutes. By thes actions, the State of Oregon recognized destination resorts
+as a legitimate rural land use. Under these changes, destination resorts may be sited in_ EFU
+zones where they weren't allowed before.
+Following the changesto the state regulations, because implementation of destination resort
+siting under Goal 8 was optional and the county had not undertaken that implementation, the
+developers of EagleCrest applied for legislativechangesin the County's comprehensive plan and
+implementing land use ordinances. The Eagle Crest developers wished to expand their current
+destination resort onto ad'a ent lands and wished to do so without going through the
+exceptions process. They were able to do so when the County adopted a destination resort
+overlaymap. In order, Pronghorn, Caldera Springs, and Tetherow resorts have been sited since
+that time. Resorts existing prior to the legislativechange, such as Black Butte, Sunriver and the
+Inn of the Seventh Mountain have also expanded and been rezoned _ to_ Urban Unincorporated
+Community and Resort Community, respectively.
+In March 1990, LCDC adopted the " forest rule." This rule allows destination resorts to be sited
+on forest lands pursuant to Goal 8. The county adopted this rule for land zoned Forest lase-2.
+Additionally, the legislature, in 2003, amended the state statutes, adding new languageallowing
+counties to remap eligible lands for destination resorts not more frequently than once eve! ~
+thirty (30) months. Remapping is now dependent on creating a process for collecting and
+processing all proposed map amendments submitted to the county within that thirty (30) month
+planningperiod.
+In order to allow destination resorts within the county, Goal 8 requires that Deschutes-County
+adopt a map showing which lands are available for destination resort development. The purpose
+of them is to provide greater certain concernin destination resort siting than is available
+under the exceptions process. To protect forest and farm resources, Goal 8 prescribes that
+certain classes of lands are off limits to destination resort development. The final map must
+reflect exclusion of such areas. However. although a property is mappedas eligible for a
+destination resort a destination resort may not be permitted outright in that location. In order
+to be approved, a proposal for a resort must be processed as a conditional use and must comply
+with the -specific standards and criteria established b the coun for destination resorts.
+Goal 8 and the state statute also recognize that destination resorts can have- negativeimpacts on
+neighborhoods, transportation facilities and the rural quality of life. Thes impacts can however
+DESCHUTES COUNTY COMPREHENSIVE PLAN 2011
+PAGE I OF 5 EXHIBIT " B" TO ORDINANCE 2012- 016
+be substantially mitigated. The_ Countyrecognizes the importance. of balancing protection
+mechanisms for resource lands and rural land uses with the economic benefits destination
+resorts Provide_._The_County further recognizes that this balance can be struck by the manner in
+which areas are desiznated as being-, availablefor destination resort. develonment_and.by
+establishi thorough siting criteria. In establishing these thorough siting criteria. the County
+recognlzes_that it has the otion_ to be more- restrictive than state law in the areas it chooses to
+exclude from destination resort siting through the m_a ptng..~ cess..
+Documnt Reproiiwe Poorly
+Archived)
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 201 1
+PAGE 2 OF 5 EXHIBIT " B" TO ORDINANCE 2012- 016
+sect%ovv 3. DestLv c( t'ov', Resort POLLotts
+Goals and Policies
+Goal I To provide for development of destination resorts in the County
+consistent with Statewide Planning Goal 8 in a manner that will be
+compatible with farm and forest uses existing rural development, and
+in a manner that will maintain important natural features, such as
+habitat of threatened or endangered species, streams rivers and
+significant wetlands.
+Goal 2 To provide a process for the siting of destination resorts on rural lands
+that have been mapped by Deschutes County as eligible for this
+purpose.
+Goal 3 To provide for the siting of destination resort facilities that enhances
+and diversifies he recreational opportunities and economy of
+Deschutes County.
+Goal 4 To provide for development of destination resorts consistent with
+Statewide Planning Goal 12 in a manner that will ensure the resorts
+are supported by adequate transportation facilities.
+Policy 3. 9.1 Destination resorts shall only be allowed within areas shown on the " Deschutes
+County Destination Resort Map" and when the resort complies with the
+requirements of Goal 8 ORS 197. 435 to 197. 467 and Deschutes County Code
+18. 113.
+Policy 3. 9.2 Applications to amend the ma will be collected and will be processed
+concurrently no sooner than 30 months from the date the map was previously
+adopted or amended.
+Polite 3. 9.3 Mappingfor destination resort siting.
+a. To assure that resort development does not conflict with the objectives of
+other Statewide PlanningGoals, destination resorts shall pursuant to Goal 8
+not be sited in Deschutes County in the following areas:
+1. Within 24 air miles of an urban growth boundary with an existing
+population of 100, 000 or more unless residential uses are limited to those
+necessary for the staff and management of the resort
+2. On a site with 50 or more contiguous acres of unique or prime farm land
+identified and mapped by the Soil Conservation Service or within three
+miles of farm land within a High-Value Crop Area:
+3. On predominantly Cubic Foot Site Class I or 2 forest lands which are not
+subject to an approved Goal exception:
+4. On areas protected as Goal 5 resources in an acknowledged
+comprehensive plan where all conflicting uses have been prohibited to
+protect the Goal 5 resource:
+5. Especiallysensitive big game habits and as listed below, as enerall
+mapped by the Oregon Department of Fish and Wildlife in July 1984 and
+DESCHUTES COUNTY COMPREHENSIVE PLAN 2011
+PAGE 3 OF 5 EXHIBIT " B" TO ORDINANCE 2012- 016
+as further refined through development of commhensiv_e_plan provisions
+implementing this requirement.
+i. Tumalo deer winter range:
+ii. Portion of the Metolius deer winter range:
+iii. Antelope winter range east of Bend near Horse Ridgeand_ Millican:
+6. Sites less than 160 acres.
+b To assure that resort development does not conflict with Oregon Revised
+Statute, destination resorts shall not be sited in Deschutes County in Areas of
+Critical State Concern.
+c. To assure that resort development does not conflict with the objectives of
+Deschutes County, destination resorts shall also not be located in the
+following areas:
+1. Sites listed below that are inventoried Goal 5 resources, shown on the
+Wildlife Combining Zone, that the County has chosen to protect:
+i. Antelope Range near Horse Ride and Millican•
+ii. Elk Habitat Area: and
+iii. Deer Winter Range:
+2. Wildlife Priority Area, identified on the 1999 ODFW map submitted to
+the South County Regional Problem Solving Group;
+3. Lands zoned Open Spaceand Conservation ( OS&Q:
+4. Lands zoned Forest Use I (F- I
+5. Irrigated lands zoned Exclusive Farm Use ( EFU) having40 or greater
+contiguous acres in irrigation:
+6. Non- contiguousEFU acres in the same ownership having60 or greater
+irrigated acres:
+7. Farm or forest land within one mile outside of urban growth boundaries:
+8. Lands designated Urban Re- serveArea under ORS 195. 145:
+9. Platted subdivisions;
+d. For those lands not located in any of the areas designated in Policy_ 3. 9.3E
+though c destination resorts may, pursuant to Goal $ Oregon Revised
+Statute and Deschutes County zoning code, be sited in-- the-following areas:
+1. Forest Use 2 (FF=2), Multiple Use Agriculture ( MUA-10). and Rural
+Residential ( RR-10) zones:
+2. Unirrigated Exclusive Farm Use ( EFU) land;
+3. Irrigated lands zoned EFU havingless than 40 contiguous acres in
+irrigation
+4. Non- contiguousirrigated EFU acres in the same ownership having less
+than 60 irri ted acres;
+5. All Drooerty within a subdivision for which cluster development approval
+was obtained prior to 1990, for which the original cluster development
+approval designatedat least 50 percent of the development as open space
+and which was within the destination resort zone rior to the effective
+date of Ordinance 2010- 024 shall remain on the eligibility ma
+6. Minimum site of 160 contiguous acres or greater under one or multiple
+ownerships;
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+PAGE 4 OF 5 EXHIBIT " B" TO ORDINANCE 2012- 016
+e. The County shall adopt a map showing where destination resorts can be
+located in the Count'. Such map shall become part of the Comprehensive
+Plan and Zoning Ordinance and shall be an overlay zone designated
+Destination Resort (, D 1
+Policy 3. 9.4 Ordinance provisions.
+a The County shall ensure that destination resorts are compatible with the site
+and adjacent land uses through enactment of land use_ reyiationsthat at a
+minimum provide for the followLng:
+I . Maintenance of important natural features including habitat of threatened
+or endangered species, streams, rivers, and significantwedlands:
+maintenance of riparian vegetation within 100 feet of streams, rivers and
+significantwetlands; and
+2. Location and design of improvements and activities in a manner that will
+avoid or minimize adverse effects of the resort on uses- on surrounding
+lands, particularly effects on intensive farming operations in the area and
+on the rural transportation system. In order to adequately assess the
+effect on th transportation system, notice and the opportunity far
+comment shall be provided to the relevant road authority.
+3. Such regulations may allow for alterations to important natural features
+including placement of structures, provided that the overall values of the
+feature are maintained.
+b. Minimum measures to assure that designand Riacementof improvements and
+activities will avoid or minimize the adverse effects noted in Policy 3. 9.4( a)
+shall include:
+1. The establishment and maintenance of buffers between the resort and
+adjacent land uses including natural vegetation and where appropriate,
+fenced berms landscapedareas and other similar types of buffers.
+2. Setbacks of structures and other improvements from adjacent land uses.
+c. The County may adopt additional land use restrictions to ensure that
+ro osed destination resorts are compatible with the environmental
+capabilitiesof the site and surrounding land uses.
+d. Uses in destination resorts shall be limited to visitor- oriented
+accommodations, overnight lodgings. developed recreational facilities,
+commercial uses limited to types and levels necessary to meet the needs of
+visitors to the resort, and uses consistent with preservation and maintenance
+of open space.
+e. The zoning ordinance shall include measures that assure that developed
+recreational facilities, visitor- oriented accommodations and key facilities
+intended to serve the entire development are physicallyprovided or are
+guaranteedthrough surety bonding or substantiallyequivalent financial
+assurances prior to closure of sale of individual lots or units. In phased
+developments, developed recreational facilities and other key facilitated
+intended to serve a articular hale shall be constructed prior to sales in that
+phaseor guaranteed through surety bonding.
+DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+PAGE 5 OF 5 EXHIBIT " B" TO ORDINANCE 2012- 016
+Seet%ow 5. 12 (- egisl,Git%vC ttistor~
+Background
+This section contains the legislativehistory of this Comprehensive Plan.
+Table 5. 11.1 Comprehensive Plan Ordinance History
+Ordinance
+Date Adopted/
+Effective Chapter/ Section Amendment
+01 1- 003 10- 11/11- 9-11
+All, except
+Transportation, Tumalo
+and Terrebonne
+Community Plans,
+Deschutes Junction,
+Destination Resorts and
+ordinances adopted in
+2011
+omprehensive Plan update
+201 1- 027 10- 31-11/ 11-9- 11
+2.5, 2.6, 3.4, 3. 10, 3.5,
+4.6, 5.3, 5.8, 5.1 1,
+23. 40A, 23. 40B,
+23. 40.065, 23. 01.010
+Housekeeping amendments to
+ensure a smooth transition to
+the updated Plan
+2012- 005 8- 20-12/ 11-19- 12
+23. 60, 23. 64 ( repealed),
+3.7 ( revised), Appendix C
+added)
+Updated Transportation
+System Plan
+2012-012 8- 20-12/ 8-20- 12 4. 1,4. 2
+La Pine Urban Growth
+Boundary
+Housekeeping amendments to
+2012- 016 11- 14-12/ 3-2- 13 3.9
+Destination Resort Chapter
+44 DESCHUTES COUNTY COMPREHENSIVE PLAN - 2011
+CHAPTER 5 SUPPLEMENTAL SECTIONS SECTION 5. 12LEGISLATIVEHISTORY
+PAGE I OF I - EXHIBIT " C" TO ORDINANCE 2012-016

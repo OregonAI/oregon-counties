@@ -1,0 +1,7228 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-91-043
+title: 'Ordinance No. 91-043'
+doc_type: ordinance
+citation: 'Ordinance No. 91-043'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616691622_1991-32099-Ordinance%20No.%2091-043%20Recorded%2010_24_1991.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: bd4c82e07456c9f3aee482727080a7a53646f70b62582a2067d11c3278a506f9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 91-043 (Ordinance No. 91-043)
+
+## At a glance
+
+Ordinance No. 91-043 — orders of Deschutes County. 205 pages.
+
+## Full text
+
+RWVi. VD
+1.846
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Chapter * '
+13. 08 of the Deschutes County
+Code, Relating to On Site Sewage * c='cn
+Disposal and Declaring An
+Emergency. * t;
+ORDINANCE NO. 91- 043
+co
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, 6REGON,
+ORDAINS as follows:
+Section 1. ADOPTION. That the Oregon Administrative Rules
+adopted by the Department of Environmental Quality pertaining to
+on- site sewage disposal ( OAR Chapter 340 - Divisions 71, 72 and
+73), dated September 16, 1986, as amended on March 11, 1988, and as
+further amended on June 14, 1991, all as attached hereto as Exhibit
+A and by this reference incorporated herein are hereby adopted by
+the County as its rules pertaining to on- site sewage disposal.
+Section 2. REPEAL. That the Oregon Administrative Rules
+pertaining to on- site sewage adopted by Ordinance 83- 057 and found
+at volume 48 pages 429 to 613 of the Deschutes County
+Commissioner' s Journal are hereby repealed and superseded by the
+rules adopted pursuant to Section 1 of this Ordinance.
+Section 3. CODE AMENDMENT. That Section 13. 08. 010 be
+amended to read as follows:
+13. 08. 010 Document adopted by reference.
+A certain book or publication, a copy of which is on file
+with the county clerk, marked and entitled On - Site Sewage
+Disposal Rules ( dated September 16, 1986, as amended by
+enactments dated March 11, 1988 and June 14, 1991),
+hereinafter referred to as " sewage disposal rules" is adopted
+in its entirety as the sewage disposal rules for the
+unincorporated areas of the county, for regulating and
+controlling the construction, alteration, repair, operation
+and maintenance of on- site sewage disposal systems in the
+unincorporated areas of the county. The sewage disposal rules
+so adopted and on file in the office of the county clerk are
+referred to and by this reference made a part of this chapter
+as though fully set out in the chapter."
+Section 4. CONTINUING LIABILITIES. The repeal of any
+Ordinance or other provision of law by this Ordinance shall not
+release or extinguish any penalty, forfeiture, nuisance, obligation
+or liability incurred under such Ordinance, unless a provision of
+this Ordinance shall so expressly provide, and such Ordinances or
+other provisions repealed shall be treated as still remaining in
+1 - ORDINANCE NO. 91- 043 ( 10/ 9/ 91)
+N10V 1991
+0167 1847
+force for the purpose of sustaining any proper action or
+prosecution for the enforcement of such penalty, forfeiture,
+nuisance, obligation, or liability.
+Section 5. EMERGENCY. This Ordinance being necessary for
+the immediate preservation of the public peace, health and safety,
+an emergency is declared to exist, and this Ordinance takes effect
+on its passage.
+DATED this J, Jdayof October, 1991.
+AT T:
+ecording Secretary
+BOARD OF COUNTY COMMISSIONERS
+OF DESSCCH U ES COUNTY, OREGON
+TrOM( THIMP, Commissioner
+NANCY POPE SCHLANGEN, Commissioner
+DIM 61arLrDLIN, Chairman
+2 - ORDINANCE NO. 91- 043 ( 10/ 9/ 91)
+01%'7 1848
+O
+a0o
+STATE OF OREGON
+DEPARTMENT OF
+ENVIRONMENTAL QUALITY
+RULES CURRENT
+AS OF
+MARCH 11, 1988
+CoRR r , s ox'
+OREGON ADMINISTRATIVE RULES
+CHAPTER 340 - DIVISIONS 71, 72 & 73
+EXHIBIT " A"
+CONTENTS ,*
+dry
+DIVISION 71 ® 1 V 1 1849
+OAR NUMBER TITLE Page
+340- 71- 100 Definitions . . . . . . . . . . . . . . . . . . . . 71- 1
+340- 71- 110 Purpose . . . . . . . . . . . . . . . . . . . . . . 71- 17
+340- 71- 120 Jurisdiction and Policy . . . . . . . . . . . . . . 71- 18
+340- 71- 130 General Standards, Prohibitions and Requirements. . 71- 19
+340- 71- 140 Fees - General . . . . . . . . . . . . . . . . . . 71- 21
+340- 71- 150 Site Evaluation Procedures . . . . . . . . . . . . 71- 27
+340- 71- 155 Existing System Evaluation Report . . . . . . . . . 71- 30
+340- 71- 160 Permit Application Procedures, General Requirements 71- 31
+340- 71- 165 Permit Denial Review . . . . . . . . . . . . . . . 71- 34
+340- 71- 170 Pre - cover Inspections . . . . . . . . . . . . . . . 71- 35
+340- 71- 175 Certificate of Satisfactory Completion . . . . . . 71- 36
+340- 71- 185 Abandonment of Systems . . . . . . . . . . . . . . 71- 38
+340- 71- 195 Upgrading Disposal Systems . . . . . . . . . . . . 71- 39
+340- 71- 200 Prior Construction Permits or Approvals . . . . . . 71- 40
+340- 71- 205 Authorization To Use Existing Systems . . . . . . . 71- 41
+340- 71- 210 Alteration of Existing On -Site Sewage
+Disposal Systems . . . . . . . . . . . . . . . . 71- 44
+340- 71- 215 Repair of Existing Systems . . . . . . . . . . . . 71- 46
+340- 71- 220 Standard Subsurface Systems . . . . . . . . . . . . 71- 47
+340- 71- 260 Alternative Systems, General . . . . . . . . . . . 71- 57
+340- 71- 265 Capping Fills . . . . . . .. . . . . . . . 71- 58
+340- 71- 270 Evapotranspiration - Absorption ( ETA) Systems . . . . 71- 60
+340- 71- 275 Pressurized Distribution Systems . . . . . . . . . 71- 61
+340- 71- 280 Seepage Trench System . . . . . . . . . . . . . . . 71- 65
+340- 71- 285 Redundant Systems . . . . . . . . . . . . . . . . . 71- 66
+340- 71- 290 Conventional Sand Filter Systems . . . . . . . . . 71- 67
+340- 71- 295 Conventional Sand Filter Design and Construction. . 71- 71
+340- 71- 300 Other Sand Filter Designs . . . . . . . . . . . . . 71- 73
+340- 71- 305 Sand Filter System Operation & Maintenance . . . . 71- 75
+340- 71- 310 Steep Slope Systems . . . . . . . . . . . . . . . . 71- 76
+340- 71- 315 Tile Dewatering Systems . . . . . . . . . . . . . . 71- 77
+340- 71- 320 Split Waste Systems . . . . . . . . . . . . . . . . 71- 79
+340- 71- 325 Gray Water Waste Disposal Sumps . . . . . . . . . . 71- 80
+340- 71- 330 Nonwater- Carried Systems . . . . . . . . . . . 71- 81
+340- 71- 335 Cesspools and Seepage Pits . . . . . . . . . . . . 71- 83
+340- 71- 340 Holding Tanks . . . . . . . . . . . . . . . . . . . 71- 84
+340- 71- 345 Aerobic Systems . . . . . . . . . . . . . . . . . 71- 87
+340- 71- 350 Low - Flush Toilets . . . . . . . . . . . . . . . . . 71- 90
+340- 71- 355 Gravel - Less Disposal Trench Systems . . . . . . . . 71- 91
+340- 71- 360 Disposal Trenches in Saprolite. . . . . . . . . . . 71- 92
+340- 71- 400 Geographic Area Special Considerations . . . . . . 71- 94
+340- 71- 401 Mid - Multnomah County Cesspool and Seepage Pit Use . 71- 101
+340- 71- 410 Rural Area Variances . . . . ... . . . . . . . . . 71- 104
+340- 71- 415 Formal Variances . . . . . . . . . . . . . . . . . 71- 105
+340- 71- 420 Hardship Variances . . . . . . . . . . . . . . . 71- 107
+340- 71- 425 Variance Officers . . . . . . . . . . . . . . . . . 71- 108
+340- 71- 430 Variance Hearings . . . . . . . . . . . . . . . 71- 109
+340- 71- 435 Variance Permit Issuance, Inspections,
+Certificate of Satisfactory Completion . . . 71- 110
+340- 71- 440 Variance Appeals . . . . . . . . . . . . . . . . 71- 111
+I
+CONTENTS 0107 1850
+OAR NUMBER TITLE Page
+340- 71- 445 Variance Administrative Review . . . . . . . . . . . 71- 112
+340- 71- 450 Experimental Systems . . . . . . . . . . . . . . . . 71- 113
+340- 71- 460 Moratorium Areas . . . . . . . . . . . . . . . . . . 71- 116
+340- 71- 500 Community Systems . . . . . . . . . . . . . . . . .
+71- 118
+340- 71- 520 Large Systems . . . . . . . . . . . . . . . . . . . 71- 119
+340- 71- 600 Sewage Disposal Service . . . . . . . . . . . . . . 71- 120
+TABLES
+340 - 71 - TABLE 1 Minimum Separation Distances . . . . . . . . . . TABLES - 1
+340 - 71 - TABLE 2 Quantities of Sewage Flows. . . . . TABLES - 2
+340 - 71 - TABLE 3 Slope, Effective Soil Depth Relationship. . . . . . TABLES - 3
+340 - 71 - TABLE 4 Minimum Trench Length - Effective Soil Depth. . . . . TABLES - 4
+340 - 71 - TABLE 5 Minimum Trench Length - Temporary
+DIAGRAMS - 3
+340 - 71 - DIAGRAM 4
+Groundwater Depth . . . . . . . . . . . . . . . . TABLES - 5
+340 - 71 - TABLE 6 Soil Textural Classification Chart . . . . . . . . TABLES - 6
+340 - 71 - TABLE
+rs .
+7 USDA Soil Classification Sizes of Soil Separator TABLES - 7
+340 - 71 - TABLE 8 Minimum Separation Distances for Nonwater
+TABLES - 8
+340 - 71 - DIAGRAM 8
+Carried Facilities . . . . . . . . . . . . . . .
+DIAGRAMS - 8
+DIAGRAMS
+340 - 71 - DIAGRAM 1 Typical Serial Distribution System
+With Drop Boxes) . . . . . . . .
+DI AG RAMS-
+340 - 71 - DIAGRAM 2 Typical Serial Distribution System
+Without Drop Boxes) . . . . . . . . . . . . .
+DIAGRAMS - 2
+340 - 71 - DIAGRAM 3 Typical Equal Distribution System ( With Box). . . DIAGRAMS -3
+340 - 71 - DIAGRAM4 Typical Equal Distribution System ( Without Box) . DIAGRAMS - 4
+340 - 71 - DIAGRAM 5 Typical Loop Distribution System . . . . . . . . DIAGRAMS - 5
+340 - 71 - DIAGRAM 6 ETA Bed on Gently Sloping Site . . . . . . . . . DIAGRAMS - 6
+340 - 71 - DIAGRAM 7 ETA Bed on Sloping Site . . . . . . . . . . . . . DIAGRAMS - 7
+340 - 71 - DIAGRAM8 Reinforced Concrete Sand Filter Container . . . . DIAGRAMS -8
+340 - 71 - DIAGRAM 9 Reinforced Concrete Sand Filter Container . . . . DIAGRAMS - 9
+340 - 71 - DIAGRAM 10 Capping Fill . . . . . . . . . . . . . . . . . .
+DIAGRAMS - 10
+340 - 71 - DIAGRAM 11 Redundant System . . . . . . . . . . . . . . . . DIAGRAMS - 11
+340 - 71 - DIAGRAM 12 Disposal Trench Cross Sections . . . . . . . . . DIAGRAMS - 12
+340 - 71 - DIAGRAM 13 Typical Curtain Drain . . . . . . . . . . . . . DIAGRAMS - 13
+340 - 71 - DIAGRAM 14 Typical Gray Water Waste Disposal Sump .
+DIAGRAMS - 14
+using seepage chamber)
+340 - 71 - DIAGRAM 15 Typical Gray Water Waste Disposal Sump . . . . . DIAGRAMS - 15
+340 - 71 - DIAGRAM 16 Pre - Cast Concrete Liner Details . . . . . . . . . DIAGRAMS - 16
+340 - 71 - DIAGRAM 17 Typical Cross Section - Parallel Pits . . . . . . . DIAGRAMS - 17
+340 - 71 - DIAGRAM 18 Idealized Cross - Section of Escarpment . . . . . DIAGRAMS - 18
+340 - 71 - DIAGRAM 19 Idealized Cross - Section of Escarpment . . . . . . DIAGRAMS -19
+340 - 71 - DIAGRAM 20 Idealized Cross - Section of Soil Column . . . . . DIAGRAMS - 20
+340 - 71 - DIAGRAM 21 Idealized Illustration of Unstable Landforms . . DIAGRAMS - 21
+340 - 71 - DIAGRAM 22 Idealized Cross Section of Unstable Landform . . DIAGRAMS - 22
+340 - 71 - DIAGRAM 23 Idealized Cross Section of Unstable Landform . . DIAGRAMS - 23
+ii
+CONTENTS
+1 R
+DIVISION 72 0107 1851
+OAR NUMBER TITLE Page
+340- 72- 070 Multnomah County Fee Schedule . . . . . . . . . . . . 72- 1
+340- 72- 080 Jackson County Fee Schedule . . . . . . . . . . . . . 72- 3
+340- 72- 090 Linn County. Fee Schedule . . . . . . . . . . . . . . 72- 6
+DIVISION 73
+OAR NUMBER TITLE Page
+340- 73- 025 Septic Tank Construction . . . . . . . . . . 73- 1
+340- 73- 030 Dosing Septic Tank Assemblies . . . . . . . . 73- 5
+340- 73- 035 Distribution Boxes . . . . . . . . . . . . . 73- 8
+340- 73- 040 Drop Boxes . . . . . . . . . . . . . . . . . 73- 9
+340- 73- 041 Filter Fabric . . . . . . . . . . . . . . . . 73- 11
+340- 73- 045 Diversion Valves . . . . . . . . . . . . . . 73- 12
+340- 73- 050 Dosing Tank Construction . . . . . . . . . . 73- 13
+340- 73- 055 Effluent Pumps, Controls & Alarms, and
+Dosing Siphons.. . . . . . . . . . . . . 73- 16
+340- 73- 060 Pipe Materials andConstruction . . . . . . 73- 17
+340- 73- 065 Privies and Portable Toilet Shelters . . . . 73- 21
+340- 73- 070 Unsealed Earth Pits for Privies . . . . . . 73- 23
+340- 73- 075 Self - Contained Nonwater- Carried
+Toilet Facilities . . . . . ... . . . . . . 73- 24
+340- 73- 080 Gray Water Waste Disposal Sumps . . . . . . . 73- 26
+340- 73- 085 Flexible Membrane Liners for Sand
+Filters Treating Septic Tank Effluent . . . 73- 27
+WH1816
+Revised 9/ 16/ 86
+iii
+INDEX
+By Subject)
+f i
+7
+TITLE
+V
+tPPage1852'
+Abandonment of Systems . . . . . . . . . . . . . 71 38, 46 )
+Aerobic Systems . . . . . . . . . . . . . . . . 71
+73
+87)
+15 ) Alarms & Controls. . . . . . . . . . . . . . .
+Alsea Dunal Aquifer . . . . . . . . . . . . . . 71 95 )
+Alteration Permit . . . . . . . . . . . . . . . 71 44 )
+Alternative Systems:
+General Requirements . . . . . . . . . . . 71 57 )
+Aerobic Systems . . . . . . . . . . . . . . 71 87)
+Capping Fill . . . . . . . . . . . . . . .
+71 58 )
+Cesspools . . . . . . . . . . . . . . . . . 71 83 )
+Disposal' Trenches in Saprolite . . . . 71 92)
+Evapotranspiration - Absorption . . . . . . . 71 60 )
+Gravel - less Disposal Trench System . . . . 71.( 91)
+Gray Water Waste Disposal Sump . . . . . . 71 80), 73 ( 26)
+Holding Tank . . . . . . . . . . . . . . . 71 84 )
+Land Irrigation . . . . . . . . . . . . . . 71 57 )
+Low Flush Toilet . . . . . . . . . . . . . 71 90 )
+Nonwater- Carried System . . . . . . . . . 71 81), 73 ( 21- 25)
+Pressurized Distribution System . . . . . 71 61)
+Redundant System . . . . . . . . . . . . . 71 66)
+Sand Filter System . . . . . . . . . . . 71 67)
+Seepage Pit . . . . . . . . . . . . . . . . 71 83 )
+Seepage Trench System . . . . . . . . . . . 71 65 )
+Sewage Stabilization Pond . . . . . . . . . 71 57)
+Split Waste System . . . . . . . . . . . 71 79)
+Steep Slope System . . . . . . . . . . . 71 76)
+Tile Dewatering System . . . . . . . . . . 71 77)
+Applications . . . . . . . . . . . . . . . 71 31 )
+Alteration Permit . . . . . . . . . . . . . 71 44 )
+Existing System . . . . . . . . . . . . . . 71 30)
+Experimental System . . . . . . . . . . . 71 113)
+Permit . . . . . . . . . . . . . . . . . 71 31, 44 )
+Sand Filter . . . . . . . . . . . . . . . . 71 73 )
+Sewage Disposal License . . . . . . . . . . 71 120 )
+Site Evaluation . . . . . . . . . . . . . . 71 27)
+Variance . . . . . . . . . . . . . . . . . 71 105 )
+Authorization Notice . . . . . . . . . . . . . 71 37, 41 )
+Personal Hardship . . . . . . . . . . . . 71 42 )
+Temporary Mobile Home Placement . . . . . 71 43)
+Backfill of System . . . . . . . . . . . . . . . . . . . 71 ( 36, 55 )
+Bond . . . . . . . . . . . . . . . . . . . . . . . . . . 71 ( 121 )
+Capping Fill . . . . . . . . . . . . . . . . . . . . . . 71 ( 58)
+Certificate of Satisfactory Completion . . . . . . . . . 71 ( 36, 44, 46, 110)
+Cesspools . . . . . . . . . . . . . . . . . . . . . . . 71 ( 83, 101 )
+Chemical Toilets . . . . . . . . . . . . . . . . . . . . 71 ( 74), 73 ( 21, 22, 24 )
+Christmas Valley Townsite . . . . . . . . . . . . . . . 71 ( 98)
+Cl atsop Plains . . . . . . . . . . . . . . . . . . 71 ( 98 )
+iv
+INDEX
+0167 1853
+TITLE Page
+Commercial Facility . . . . . . . . . . . . . . . 71 34, 118, 119 )
+Permit . Denial . . . . . . . . . . . . . . . . 71 34)
+County, General . . . . . . . . . . 71
+Plan Review . . . . . . . . . . . . . . . . . 71 22, 118, 119)
+Community System . . . . . . . . . . . . . . . 71 118)
+25) , 72 1 )
+Controls & Alarms . . . . . . . . . . . . . . . . 73 15 )
+6 )
+Filter Fabric . . . . . . . . . . . . . .
+County Ordinances . . . . . . . . . . . . . . . . 71 18 )
+Flexible Membrane Liner . . . . . . . . 71
+Definitions . . . . . . . . . . . . . . . . . . . 71 1- 16)
+Delegation of Responsibility . . . . . . . . . . . 71 18)
+Denial Review
+Authorization Notice . . . . . . . . . . . .. 71 43 )
+Certification of Satisfactory Completion . . 71 37, 44)
+Permit . . . . . . ... . . . . . . . . . . . 71 34 )
+Site Evaluation . . . . . . . . . . . . . . 71 29 )
+Disposal of Pumpings . . . . . . . . . . . . . . .. 71 126 )
+Disposal Sumps . . . . . . . . . . . . . . . . . . 71 80) , 73 26 )
+Disposal Trenches . . . . . . . . . . . . . . . . 71 54, 62, 92 )
+Distribution Box . . . . . . . . . . . . . . . . . 71 53) 9 73 8)
+Distribution Pipe . . . . . . 71 55) , 73 17 )
+Distribution Technique . . . . 71 52)
+Diversion Valves . . . . . . . . . . 73 12 )
+Dosing Septic Tank Assemblies. . . . 73 5)
+Dosing Siphon . . . . . . . . . . . . . . . . . .. 73 16 )
+Dosing Tank . . . . . . . . . . . . . . . . . . . 71 53) , 73 13 )
+Drop Box . . . . . . . . . . . . . . . . . . . . . 71 53), 73 9)
+East of Cascade Range . . . . . . . . . . . . . . . . . 71 ( 99 )
+Effluent Sewer . . . . . . . . . . . . . . . . . . . . . 71 ( 55) , 73 ( 17 )
+Encumbrances . . . . . . . . . . . . . . . 71 ( 19 )
+Evaluation Report, Existing System . . . . . . . . . . . 71 ( 30)
+Evapotranspiration - Absorption Systems . . . . . .. . . 71 ( 60)
+Existing Systems, Authorization To Use . . . . . . . . . 71 ( 41 )
+Existing System Evaluation Report . . . . . . 71 ( 30)
+Experimental Systems . . . . . . . . . . . . . . . . . . 71 ( 113)
+Failing Systems . . . . . . . . . . . . 71 46 )
+Fees . . . . . . . . . . . . . . . . . . 71 21- 26), 72 ( 1- 6)
+County, General . . . . . . . . . . 71 21- 25)
+Jackson County . . . . . . . . . . 71 25) , 72 3 )
+Multnomah County . . . . . . . . . 71 25) , 72 1 )
+Linn County . . . . . . . . . . . . 71 25) , 72 6 )
+Filter Fabric . . . . . . . . . . . . . . 71 54, 63 )
+Flexible Membrane Liner . . . . . . . . 71 72), 73 27)
+General Standards, Prohibitions, Requirements . . . . . 71 ( 19)
+V
+INDEX
+0107 1854.
+TITLE
+71
+Geographic Areas . . . . . . . . . . . . . 71 43, 94- 100)
+Alsea Dunal Aquifer 71
+71
+95 )
+98)
+Clatsop Plains Aquifer
+116 )
+Christmas Valley Townsite . . . . . . . . .
+71 98)
+East of Cascade Range . . . . . . . . . . . 71 99 )
+Mid - Multnomah County . . . . . . . . . . .
+71 101)
+North Florence Dunal Aquifer . . . . . . . 71 95)
+River Road - Santa Clara ..
+71 110 )
+Gravel - less Disposal Trench Sys ems . . . . . . 71 91)
+Gray Water Waste Disposal Sumps . . . . . . . . 71 80), 73 ( 26)
+Groundwater Interceptor . . . . . . . . . . . . 71 48)
+Hardship . . . . . . . . . . . . . . . . . . . . . . . . 71 ( 42, 107 )
+Header Pipe . . . . . . . . . . . . . . . . . . . . . . 71 ( 55) , 73 ( 17 )
+Holding Tank . . . . . . . . . . . . . . . . . . . . . .
+71 ( 84 )
+Increased Flows . . . . . . . . . . . . . . . . . . . . 71 ( 19, 44 )
+Jackson County Fee Schedule . . . . . . . . . . . . . . .
+72 ( 3)
+Jurisdiction and Policy . . . . . . . . . . . . . . . . .
+71 ( 18 )
+Land Irrigation of Sewage . . . . . . . . . . . . . . 71 ( 57 )
+Large Systems . . . . . . . . . . . . . . . . . . . . . 71 ( 18, 56, 119 )
+License, Sewage Disposal Service . . . . . . . . . . . . 71 ( 120)
+License, Suspension or Revocation . . . . . . . . . . . 71 ( 123)
+Linn County Fee Schedule . . . . . . . . . . . . . . . . 72 ( 6 )
+Low - Flush Toilets . . . . . . . . . . . . . . . . . . . 71 ( 90 )
+Manhole Riser . . . . . . . . . . . . . . . . . . 71 52, 53) , 73 ( 14 )
+Material Standards . . . . . . . . . . . . . . . . 71 19) , 73 ( 1- 31)
+Mid - Multnomah County . . . . . . . . . . . . . . .
+71 101 )
+Mobile Home Placement . . . . . . . . . . . . . . 71 43 )
+Moratorium Areas . . . . . . . . . . . . . . . . . 71 116 )
+Multnomah County Fee Schedule . . . . . . . .
+72 1)
+Nonwater- Carried Systems, Toilet Facilities . . . 71 81), 73 ( 21- 25)
+North Florence Dunal Aquifer . . . . . . . . . . . 71 95 )
+Notice of Intent to Deny Permit . . . . . . . . . 71 34)
+Operation and Maintenance . . . . . . . . . . . . . . . 71 ( 18, 20, 75, 85, 86,
+118, 125), 73 ( 31)
+Permit Procedures - General Requirements
+Application . . . . . . . . . . . . . . .. 71 31- 33)
+Denial . 71 31 )
+Experimental System . . 71 113)
+Issue to . . . . . . . . . . . . . . . 71 32 )
+Moratorium Areas . . . . . . . . . . . . . 71 94- 100)
+Notice of Intent to Deny . . . . . . . 71 34)
+Not Transferable . . . . . . . . . . . . 71. 33)
+Renewal . . .. . . . . . . . . . . . 71 23, 33)
+Variance . . . . . . . . . . . . . . . . . 71 110 )
+Vi
+INDEX,
+0107 1855
+TITLE Page
+Personal Hardship . . . . . . . . . . . 71 42 )
+Pipe
+71 26 )
+Distribution . . . . . . . . . . . . 71 55) , 73 17- 20)
+Effluent Sewer . . . . . . . . . . . . 71 55) , 73 17 )
+Header . . . . . . . . . . . . . . . . 71 55) , 73 17- 20)
+Pressurized . . . . . . . . . . . . . . 71 62- 64) , 73 ( 19 )
+Pit Privy . . . . . . . . . . . . . . . . . 71 81, 82) , 73 ( 21 , 23 )
+Plan Review . . . . . . . . . . . . . . . 71 18, 118, 119)
+Plumbing Fixtures . . . . . . . . . . . . . 71 19- 20)
+Policy . . . . . . . . . . . . . . . . . . . 71 18, 113 )
+73 ( 27)
+Portable Toilet Shelters . . . . . . . . . . 71 81, 82) , 73 ( 21, 22,
+Seepage Bed . . . . . . . . . . . . . 71
+24)
+Pre - cover Inspection . . . . . . . . . . . . 71 35 )
+Pressurized Distribution . . . . . . . . . . 71 61)
+Prior Approvals . . . . . . . . . . . . . . 71 40 )
+21- 25)
+Privy & Portable Toilet Shelters . . . . . . 73 21, 23 )
+73 ( 1)
+Property Line Crossed . . . . . . . . . . . 71 20 )
+Property Owner Responsibility . . . . . . . 71 18)
+Public Health Hazard . . . . . . . . . . . . 71 19 )
+Public Waters . . . . . . . . . . . . . . 71 19 )
+27- 29)
+Pumping Equipment . . . . . . . . . . . . . 71. 123- 125)
+Pumps 73 15 )
+Purpose of Rules . . 71 17 )
+Redundant Systems . . . . . . . . . . . . . . . 71 66)
+Refunds . . . . . . . . . . . . . . . . . . . . 71 26 )
+Repair of Existing Systems
+Permit . . . . . . . . . . . . . . . . . . 71 31, 46 )
+Emergency Repair . . . . . . . . . . . . . 71 46 )
+Replacement Area . . . . . . . . . . . . . . . . 71 20, 28 )
+Report Review . . . . . . . . . . . . . . . . . 71 29 )
+River Road - Santa Clara . . . . . . . . . . . . . 71 94 )
+Rural Area Variances . . . . . . . . . . . . . . 71 1o4)
+Sand Filter . . . . . . . . . . . . . 71 67- 75), 73 ( 27)
+Saprolite System . . . . . . . . . . . 71 92)
+Seepage Bed . . . . . . . . . . . . . 71 63 )
+Seepage Pit . . . . . . . . . . . . . 71 83, 101 )
+Seepage Trench . . . . . . . . . . . . 71 65 )
+Self Contained Nonwater- Carried Facilities . . . 71 81), 73 21- 25)
+Septic Tanks . . . . . . . . . . . . . . . . . . 71 51, 52) , 73 ( 1)
+Sewage Disposal Service . . . . . . . . . . . . 71 120 )
+Sewage Disposal Service License . . . . . . . . 71 120)
+Sewage Stabilization Pond . . . . . . . . . . . 71 57)
+Site Evaluation - Procedures . . . . . . . . . . 71 21, 214, 27- 29)
+Split Waste Systems . . . . . . . . . . . . . . 71 79)
+Standard Subsurface System . . . . . . . . . . . 71 47 )
+Groundwater Interceptor . . . . . . . . . . 71 48)
+System Sizing . . . . . . . . . . . . . . . 71 50 )
+Water Tables . . . . . . . . . . . . . . . 71 47 )
+Steep Slope System . . . . . ... . . . . . . . . 71 76)
+Strength of Wastewater . . . . . . . . . . . . . 71 50, 63, 71 )
+Vii
+INDEX
+0167 1856.
+TITLE Page
+Subdivisions . . . . . . . . . . . . . . . . 71 28 )
+Sumps . . . . . . . . . . . . . . . . 71 8o), 73 ( 26 )
+Surcharge . . . . . . . . . . . . . . 71 25 )
+Temporary Mobile Home Placement . . . . . .
+71 43)
+Tile Dewatering System . . . . . . . . . . . 71
+71
+77)
+81, 90) , 73 ( 21- 25) Toilets . . . . . . . . . . . . . . . . . .
+109 )
+Trenches
+71 35, 55 ) Backfill . . . . . . . . . . . . . . .
+110)
+Pressurized . . . . . . . . . . . . . . 71 62 )
+Seepage . . . . . . . . . . . . . . . . 71 65 )
+Standard Disposal . . . . . . . . . . . 71 54)
+Steep Slope . . . . . . . . . . ... . . 71 76)
+Upgrading Disposal Systems . . . . . . . . . . . . . . . 71 ( 39)
+Unsealed Earth Pits for Privies . . . . . . . . . . . . 71 ( 81, 82), 73 ( 211 23)
+Variances . . . . . . . . . . . . . . . . . . . . . . . . 71 ( 1o4- 112)
+Appeals . . . . . . . . . . . . . . . . . . . 71 111 )
+Applications . . . . . . . . . . . . . . . .. 71 105 )
+Administrative Review . . . . . . . . . . . . 71 112)
+Formal . . . . . . . . . . . . . . . . . . . 71 105 )
+Hardship . . . . . . . . . . . . . . . . . .. 71 107 )
+Hearings . . . . . . . . . . . . . . . . . . 71 109 )
+Officers . . . . . . . . . . . . . . . . . . 71 108 )
+Permit Issuance, Inspections, Certificate . .. 71 110)
+Rural Area . . . . . . . . . . . . . . . . . 71 104 )
+Waiver of Fees . . . . . . . . . . . . . . . 71 105 )
+Vault Toilets . . . . . . . . . . . . . . . . . . 71 81), 73 ( 21, 24)
+Waste Strength . . . . . . . . . . . . . . . . . 71 ( 50, 63, 71 )
+Water Pollution Control Facilities ( WPCF) Permit . . . . 71 ( 18, 20, 57)
+WH1816. 1
+Revised 9/ 16/ 86
+0167 1857
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+OREGON ADMINISTRATIVE RULES FOR
+OM - SITE SEWAGE DISPOSAL.
+CHAPTER 340, DIVISION 71
+Rules pertaining to Subsurface Sewage and Alternative Disposal contained
+in OAR 340- 71- 005 thru 71- 045, OAR 340- 72- 005 thru 72- 030, OAR 340- 74- 004
+thru 74- 025 and OAR 340- 75- 010 thru 75- 060 are repealed effective upon
+filing with the Secretary of State of the rules which follow ( OAR 71- 100
+thru 71- 600, 72- 050 thru 72- 080, and 73- 025 thru 73- 085).
+TABLES, DIAGRAMS AND APPENDICES
+All tables, diagrams and appendices referred to in the text of
+Division 71 may be found in numerical order following the text of these
+rules.
+INDIVIDUAL ON- SITE SYSTEMS
+340- 71- 100 DEFINITIONS.
+As used in OAR 340, Divisions 71, 72, and 73, unless otherwise specified:
+1) " Absorption Facility" means a system of open - jointed or
+perforated piping, alternative distribution units, or other
+seepage systems for receiving the flow from septic tanks or other
+treatment facilities and designed to distribute effluent for
+oxidation and absorption by the soil within the zone of aeration.
+See Diagrams 1 through 7 and 14 through 17)
+2) " Active Sand Dune" means wind drifted ridges and intervening
+valleys, pockets, and swales of sand adjacent to the beach. The
+sand is grayish - brown ( color value of four ( 4) or more), with
+little or no horizon, color, or textured differences. Active
+dunes are either bare of vegetation or lack sufficient vegetation
+to prevent blowing of sand.
+3) " Aerobic Sewage Treatment Facility" means a sewage treatment
+plant which incorporates a means of introducing air and oxygen
+into the sewage so as to provide aerobic biochemical
+stabilization during a detention period.
+4) " Agent" means the Director or that person' s authorized
+representative.
+5) " Alteration" means expansion and/ or change in location of an
+existing system, or any part thereof.
+SSRULE ( 9- 16- 86) 71- 1 On -- Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+010" 1 1858
+6) " Alternative System" means any Commission approved on- site sewage
+disposal system used in lieu of the standard subsurface system.
+7) " Authorization Notice" means a written document issued by the
+Agent which establishes that an existing on- site sewage disposal
+system appears adequate to serve the purpose for which a
+particular application is made.
+8) " Authorized Representative" means the staff of the Department of
+Environmental Quality or staff of the local governmental unit
+performing duties for and under agreement with the Department of
+Environmental Quality.
+9) " Automatic Siphon" means a hydraulic device designed to rapidly
+discharge the contents of a dosing tank between predetermined
+water or sewage levels.
+10) " Bedroom" means any room within a dwelling which is accepted as
+such by the State of Oregon Department of Commercebuilding codes
+representative or the local authorized building official having
+jurisdiction.
+11) " Black Waste" means human body wastes including feces, urine,
+other extraneous substances of body origin and toilet paper.
+12) ' Building Sewer" means that part of the system of drainage piping
+which conveys sewage into a septic tank, cesspool or other
+treatment facility that begins five feet ( 5) outside the building
+or structure within which the sewage originates. ( See Diagrams
+1, 2, 3, and 16)
+13) " Cesspool" means a lined pit which receives raw sewage, allows
+separation of solids and liquids, retains the solids and allows
+liquids to seep into the surrounding soil through perforations in
+the lining. ( See Diagram 16)
+14) " Chemical Recirculating Toilet Facility" means a toilet facility
+wherein black wastes are deposited and carried from the bowl by a
+combination of liquid waste and water which has been chemically
+treated and filtered.
+15 ) " Chemical Toilet Facility" means a non - flushing. non -
+recirculating toilet facility wherein black wastes are deposited
+directly into a chamber containing a solution of water and
+chemical.
+16) " Clayey Soil" means mineral soil that is over forty ( 40) percent
+clay that shrinks and develops wide cracks when dry and swells
+and shears when rewet forming slickensides and wedge- shaped
+SSRULE ( 9- 16- 86) 71- 2 On -- Site Sewage Disposal
+0107 1859
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+structure. Clayey soil is very hard or extremely hard when dry,
+very firm when moist, and very sticky and very plastic when wet.
+17) " Claypan" means a dense, compact clay layer in the subsoil. It
+has a much higher clay content than the overlying soil horizon
+from which it is separated by an abrupt boundary. Claypans are
+hard when dry and very sticky and very plastic when wet. They
+impede movement of water and air and growth of plant roots..
+18) " Combustion Toilet Facility" means a toilet facility wherein
+black wastes are deposited directly into a combination chamber
+for incineration.
+19) " Commercial Facility" means any structure or building, or any
+portion thereof, other than a single— family dwelling.
+20) " Commission" means the Environmental Quality Commission.
+21) " Community System" means an on— site system which will serve more
+than one ( 1) lot or parcel or more than one ( 1) condominium unit
+or more than one ( 1) unit of a planned unit development.
+22) " Completed Application" means one in which the application form
+is completed in full, is signed by the owner or that person' s
+authorized representative, is accompanied by all required
+exhibits and required fee.
+23) " Conditions Associated With Saturation" means:
+a) Reddish brown or brown soil horizons with gray ( chromas
+of two ( 2) or less) and red or yellowish red mottles; or
+b) Gray soil horizons, or gray soil horizons with red,
+yellowish red, or brown mottles; or
+c) Dark colored highly organic soil horizons; or
+d) Soil profiles with concentrations of soluble salt at or
+near the ground surface.
+24) " Confining Layer" means a layer associated with an aquifer that
+because of its low permeability does not allow water to move
+through it perceptibly under head differences occuring in the
+groundwater system.
+25) " Construction" means installation of a new system or part
+thereof, or the alternation or repair of an existing system.
+26) " Conventional Sand Filter" means a filter with two ( 2) feet or
+more of medium sand designed to filter and biologically treat
+SSRULE ( 9- 16- 86) 71- 3 On— Site Sewage Disposal
+0107 1860
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+septic tank or other treatment unit effluent from a pressure
+distribution system at an application rate not to exceed one and
+twenty- three hundredths ( 1. 23) gallons per square foot sand
+surface area per day applied at a dose not to exceed twenty ( 20)
+percent of the projected daily sewage flow per cycle.
+27) " Curtain Drain" means a groundwater interceptor.
+28) " Cut - Manmade" means a land surface resulting from mechanical land
+shaping operations where the modified slope is greater than fifty
+50) percent, and the depth of cut exceeds thirty ( 30) inches.
+29) " Department" means the Department of Environmental Quality.
+30) " Director" means the Director of the Department of Environmental
+Quality.
+31) " Disposal Area" means the entire area used for underground
+dispersion of the liquid portion of sewage including the area
+designated for the future replacement system. It may consist of
+a seepage pit or of a disposal field or of a combination of the
+two. It may also consist of a cesspool,
+seepage bed, bottomless
+sand filter, or evapotranspiration- absorption system.
+32) " Disposal Field" means a system of disposal trenches or a seepage
+trench or system of seepage trenches.
+33) " Disposal Trench" means a ditch or trench with vertical sides and
+substantially flat bottom with a minimum of twelve ( 12) inches of
+clean, coarse filter material into which a single distribution
+pipe has been laid, the trench then being backfilled with a
+minimum of six ( 6) inches of soil. ( See Diagram 12)
+34) " Distribution Boa" means a watertight structure which receives
+septic tank or other treatment facility effluent and distributes
+it concurrently into two ( 2) or more header pipes leading to the
+disposal area. ( See Rule 340- 73- 035.)
+35) " Distribution Pipe" means an open - jointed or perforated pipe used
+in the dispersion of septic tank or other treatment facility
+effluent into disposal trenches, seepage trenches, or seepage
+beds. ( See Diagrams 1 through 7 and 11)
+36) " Distribution Unit" means a distribution box, dosing tank,
+diversion valve or box, header pipe, or other means of
+transmitting septic tank or other treatment unit effluent from
+the effluent sewer to the distribution pipes. ( See Diagrams 1
+through 7 and 11)
+SSRULE ( 9- 16- 86) 71- 4. On -- Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+37) " Diversion Valve" means a watertight structure which receives
+septic tank or other treatment facility effluent through one ( 1)
+inlet, distributes it to two ( 2) outlets, only one ( 1) of which
+is utilized at a given time ( See Diagram 11 and Rule
+340- 73- 045.)
+38) " Dosing Tank" means a watertight receptacle placed after a septic
+tank or other treatment facility equipped with an automatic
+siphon or pump designed to discharge treated effluent at a rate
+not to exceed twenty ( 20) percent of the projected daily sewage
+flow.
+39) " Dosing Septic Tank" means a unitized device performing functions
+of both a septic tank and a dosing tank.
+40) " Dwelling" means any structure or building, or any portion
+thereof which is used, intended, or designed to be occupied for
+human living purposes including, but not limited to: houses,
+houseboats, boathouses, mobile homes, travel trailers, hotels,
+motels, and apartments.
+41) " Effective Seepage Area" means the sidewall area within a
+disposal trench or a seepage trench from the bottom of the trench
+to a level two ( 2) inches above the distribution pipes, or the
+sidewall area of any cesspool, seepage pit, unsealed earth pit
+privy, or gray water waste disposal sump seepage chamber;
+or the
+bottom area of a pressurized soil absorption facility installed
+in soil as defined in section ( 114) of this rule. ( See Diagrams
+12, 14, 15, 16, and. 17)
+42) " Effective Soil Depth" means the depth of soil material above a
+layer that impedes movement of water, air, and growth of plant
+roots. Layers that differ from overlying soil material enough to
+limit effective soil depth are hardpans, claypans, fragipans,
+compacted soil, bedrock, saprolite, and clayey soil.
+43) " Effluent Lift Pump" means a pump used to lift septic tank or
+other treatment facility effluent to a higher elevation. ( See
+Rule 340- 73- 055)
+44) " Effluent Sewer" means that part of the system of drainage piping
+that conveys partially treated sewage from a septic tank or other
+treatment facility into a distribution unit or an absorption
+facility. ( See Diagrams 1 through 7, 11, and 17, and Rule
+340- 73- 060)
+45) " Emergency Repair" means repair of a failing system where
+immediate action is necessary to relieve a situation in which
+SSRULE ( 9- 16- 86) 71- 5 On - Site - Sewage Disposai
+0107 1862
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+sewageis backing up into a dwelling or building,
+or repair of a
+broken pressure sewer pipe.
+46) " Escarpment" means any naturally occurring slope greater than
+fifty ( 50) percent which extends vertically six ( 6) feet or more
+as measured from toe to top, and which is characterized by a long
+cliff or steep slope which separates two ( 2) or more
+comparatively level or gently sloping surfaces, and may intercept
+one ( 1) or more layers that limit effective soil depth. ( See
+Diagrams 18 and 19)
+47) " Evapotranspiration - Absorption ( ETA) System" means an alternative
+system consisting of a septic tank or other treatment facility,
+effluent sewer and a disposal bed or disposal trenches,
+designed
+to distribute effluent for evaporation, transpiration by plants,
+and by absorption into the underlying soil. (
+See Diagrams 6
+and 7)
+48) " Existing On -Site Sewage Disposal System" means any installed on-
+site sewage disposal system constructed in conformance with the
+rules, laws and local ordinances in effect at the time of
+construction. or which would have conformed substantially with
+system design _ provided for in Commission. State Board of Health
+or State Health Division rules.
+49) " Existing System" means " Existing On -Site Sewage Disposal
+System".
+50) " Failing System" means any system which discharges untreated or
+incompletely treated sewageor septic tank effluent directly or
+indirectly onto the ground surface or into public waters.
+51) " Family Member" means any one ( 1) of two ( 2) or more persons
+related by blood or marriage.
+52) " Filter Fabric" means a woven or spun - bonded sheet material used
+to impede or prevent the movement of sand, silt and clay into
+filter material. A specification for filter fabric is found in
+OAR 340- 73- 041.
+53) " Filter Material" means clean, washed gravel ranging from three
+quarters ( 3/ 4) to two and one- half ( 2- 1/ 2) inches in size, or
+clean crushed rock ranging in size from one and one- half (
+1- 1/ 2)
+to two and one- half ( 2- 1/ 2) inches. ( See Diagrams 6, 7, 9, 12,
+14, 15, 16, and 17)
+54) " Five - Day Biochemical Oxygen Demand" ( BODS) means the. quantity of
+oxygen used in the biochemical oxidation of organic matter in
+five days at twenty ( 20) degrees centigrade under specified
+conditions and reported as milligrams per liter ( mg/ L).
+SSRULE ( 9- 16- 86) 71- 6 On - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+55) " Fragipan" means a loamy subsurface horizon with high bulk
+density relative to the horizon above, seemingly cemented when
+dry, and weakly to moderately brittle when moist.
+Fragipans are
+mottled and low in organic matter. They impede movement of
+water, air,. and growth of plant roots.
+56) " Governmental Unit" means the state or any county, municipality,
+or political subdivision, or any agency thereof.
+57) " Grade" means the rate of fall or drop in inches per foot or
+percentage of fall of a pipe.
+58) " Gray Water" means household sewage other than " black wastes",
+such as bath water, kitchen waste water and laundry wastes.
+59) " Groundwater Interceptor" means any natural or artificial
+groundwater or surface water drainage system including
+agricultural drain tile, cut banks, and ditches which intercept
+and divert groundwater or surface water from the area of the
+absorption facility. ( See Diagram 13)
+60) " Hardpan" means a hardened layer in soil caused by cementation of
+soil particles with either silica, calcium carbonate, magnesium
+carbonate, or iron and/ or organic matter. The hardness does not
+change appreciably with changes in moisture content. Hardpans
+impede movement of water and air and growth of plant roots.
+61) " Header Pipe" means a tight jointed part of the sewage drainage
+conduit which receives septic tank effluent from the distribution
+box, or drop - box, or effluent sewer and conveys it to the
+disposal area. ( See Diagrams 1 through 5. 7, 11, and 17)
+62) " Headwall" means a steep slope at the head or upper end of a land
+slump block or. unstable landform. ( See Diagrams 22 and 23)
+63) " Holding Tank" means a watertight receptacle designed to receive
+and store sewage to facilitate disposal at another location.
+64) " Incinerator Toilet Facility" means " Combustion Toilet
+Facility".
+65) " Individual SysteoL" means a system that is not a community
+system.
+66) " Individual Water Supply" means a source of water and a
+distribution system which serves a residence or user for the
+purpose of supplying water for drinking, culinary, or household
+uses and which is not a public water supply system.
+SSRULE ( 9- 16- 86) 71- 7 on— Site Sewage Disposal
+0107 1804
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+67) " Industrial Waste" means any liquid,
+gaseous, radioactive, or
+solid waste substance or a combination thereof resulting from any
+process of industry, manufacturing, trade, or business, or from
+the development or recovery of any natural resources.
+68) " Intermittent Stream" means any surface public water or
+groundwater interceptor that continuously flows water for a
+period of greater than two months in any one year, but not
+continuously for that year.
+69) " Invert" is the lowest portion of the internal cross section of a
+pipe or fitting. ( See Diagram 12)
+70) " Large System" means any onsite system with a projected daily
+sewage flow greater than two thousand five hundred ( 2, 500)
+gallons.
+71) " Lateral Pipe" means " Distribution Pipe".
+72) " Mechanical Oxidation Sewage Treatment Facility" means an aerobic
+sewage treatment facility.
+73) " Medium Sand" means a mixture of sand with 100 percent passing
+the 3/ 8 inch sieve, 90 percent to 100 percent passing the No. 4
+sieve, 62 percent to 100 percent passing the No. 10 sieve, 45
+percent to 82 percent passing the No. 16 sieve, 25 percent to 55
+percent passing the No. 30 sieve, 5 percent to 20 percent passing
+the No. 50 sieve, 10 percent or less passing the No. 60 sieve,
+and 4 percent or less passing the No. 100 sieve.
+74) " Nonwater- Carried Waste Disposal Facility" means any toilet
+facility which has no direct water connection, including pit
+privies, vault privies and portable toilets.
+75) " Occupant" means any person living or sleeping in a dwelling.
+76) " Om - Site Sewage Disposal System" means any existing or proposed
+on- site sewage disposal system including, but not limited to a
+standard subsurface, alternative, experimental or non - water
+carried sewage disposal system, installed or proposed to be
+installed on land of the owner of the system or on other land as
+to which the owner of the system has the legal right to install
+the system.
+77) " Owner" means any person who alone, or jointly, or severally with
+others:
+a) Has legal title to any single lot, dwelling, dwelling unit,
+or commercial facility; or
+SSRULE ( 9- 16- 86) 71- 8 On - Site Sewage Disposal
+0107 1865
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+b) Has care, charge, or control of any real property as agent,
+executor, executrix, administrator, administratrix. trustee,
+commercial lessee, or guardian of the estate of the holder
+of legal title; or
+c) Is the contract purchaser of real property.
+NOTE: Each such person as described in subsections
+b) and ( c), thus representing the legal title
+holder, is bound to comply with the provisions of
+these rules as if he were the legal title holder.
+78) " Permanent Groundwater Table" means the upper surface of a
+saturated zone that exists year- round. The thickness of the
+saturated zone, and, as a result, the elevation of the permanent
+groundwater table may fluctuate as much as twenty ( 20) feet or
+more annually; but the saturated zone and associated permanent
+groundwater table will be present at some depth beneath land
+surface throughout the year.
+79) " Permit" means the written document issued and signed by the
+Agent which authorizes the permittee to install a system or any
+part thereof, which may also require operation and maintenance of
+the system.
+80) " Person" includes individuals, corporations, associations, firms,
+partnerships, joint stock companies, public and municipal
+corporations, political subdivisions, the state and any agencies
+thereof, and the federal government and any agencies thereof.
+81) " Pollution" or " Water Pollution" means such alteration of the
+physical, chemical or biological properties of any waters of the
+state, including change in temperature, taste, color, turbidity,
+silt or odor of the waters, or such discharge of any liquid,
+gaseous, solid, radioactive or other substance into any waters of
+the state, which will or tends to, either by itself or in
+connection with any other substance, create a public nuisance or
+which will or tends to render such waters ha= ful, detrimental or
+injurious to public health, safety or welfare, or to domestic,
+commercial, industrial, agricultural, recreational or other
+legitimate beneficial uses or to livestock, wildlife, fish or.
+other aquatic life or the habitat thereof.
+82) " Portable Toilet Shelter" means any readily relocatable structure
+built to house a toilet facility.
+83) " Pressure Distribution Lateral" means piping and fittings in
+pressure distribution systems which distribute septic tank or
+SSRULE ( 9- 16- 86) 71- 9 On - Site Sewage Disposal
+6167 1866.
+Water Quality Program '
+other treatment unit effluent to filter material through small
+diameter orifices. ( See Diagrams 8, 9, and 12)
+84) " Pressure Distribution Manifold" means piping and fittings in a
+pressure distribution system which supply effluent from pressure
+transport piping to pressure distribution laterals. ( See Diagrams
+8and 9)
+85) " Pressure Distribution Systea" means any system designed to
+uniformly distribute septic tank or other treatment unit effluent
+under pressure in an absorption facility or sand filter. ( See
+Diagrams 8 and 9)
+86) " Pressure Transport Piping" means piping which conveys septic
+tank or other treatment unit effluent to a pressure distribution
+manifold by means of a pump. ( See Diagrams 8 and 9)
+87) " Prior Approval" means a written approval for on- site sewage
+disposal, for a specific lot, issued prior to January 1, 1974.
+88) " Prior Construction Permit" means a subsurface sewage disposal
+system construction permit issued prior to January 1, 1974, by a
+county that had an ordinance requiring construction permits for
+subsurface sewage disposal systems.
+89) " Privy" means a structure used for disposal of human waste
+without the aid of water. It consists of a shelter built above a
+pit or vault in the ground into which human waste falls.
+90) " Public Health Hazard" means a condition whereby there are
+sufficient types and amounts of biological, chemical or physical,
+including radiological, agents relating to water or sewage which
+are likely to cause human illness, disorders or disability.
+These include, but are not limited to, pathogenic viruses,
+bacteria, parasites, toxic chemicals, and radioactive isotopes.
+91) " Public Waters" means lakes, bays, ponds, impounding reservoirs,
+springs, wells, rivers, streams, creeks, estuaries, marshes,
+inlets, canals, the Pacific Ocean within the territorial limits
+of the State of Oregon, and all other bodies of surface or
+underground waters, natural or artificial, inland or coastal,
+fresh or salt, public or private ( except those private waters
+which do not combine or effect a junction with natural surface or
+underground waters), which are wholly or partially within or
+bordering the state or within its jurisdiction.
+92) " Redundant Disposal Field Syste=" means a system in which two
+complete disposal systems are installed, the disposal trenches of
+each system alternate with each other and only one system
+operates at a given time. ( See Diagram 11)
+SSRULE ( 9- 16- 86) 71- 10 On - Site Sewage Disposal
+0107 1807
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality rogram
+93) " Repair" means installation of all portions of a system necessary
+to eliminate a public health hazard or pollution of public waters
+created by a failing system. Major repair is defined as the
+replacement of the soil absorption system. Minor repair is
+defined as the replacement of a septic tank, broken pipe, or any
+part of the on- site sewage disposal system except the soil
+absorption system.
+94) " Sand Filter Surface Area" means the area of the level plane
+section in the medium sand horizon of a conventional sand filter
+located two ( 2) feet below the bottom of the filter material
+containing the pressurized distribution piping.
+95) " Sand Filter System" means the combination of septic tank or
+other treatment unit, dosing system with effluent pump and
+controls, or dosing siphon, piping and fittings, sand filter, and
+absorption facility used to treat and dispose of sewage.
+96) " Sanitary Drainage System" means that part of the system of
+drainage piping that conveys untreated sewage from a building or
+structure to a septic tank or other treatment facility, service
+lateral at the curb or in the street or alley, or other disposal
+terminal holding human or domestic sewage. The sanitary drainage
+system consists of a building drain or building drain and
+building sewer. ( See Diagrams 1, 2, 3, and 16)
+97) " Saprolite" means weathered material underlying the soil that
+grades from soft thoroughly decomposed rock to rock that has been
+weathered sufficiently so that it can be broken in the hands or
+cut with a knife. It does not include hard bedrock or hard
+fractured bedrock. It has rock structure instead of soil
+structure.
+98) " Saturated Zone" means a three ( 3) dimensional layer, lens, or
+other section of the subsurface in which all open spaces
+including joints, fractures, interstitial voids, pores, etc. are
+filled with groundwater. The thickness and extent of a saturated
+zone may vary seasonally or periodically in response to changes in
+the rate or amount of groundwater recharge or discharge. ( See
+Diagram 20)
+99) " Scum" means a mass of sewage solids floating at the surface of
+sewage which is buoyed up by entrained gas, grease, or other
+substances._.
+100) " Seepage Area" means " Effective Seepage Area."
+101) " Seepage Bed" means an absorption system having disposal trenches
+wider than three ( 3) feet.
+SSRULE ( 3/ 11/ 88) 71- 11 On - Site Sewage Disposal
+11'H980
+0107 1868
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+102) " Seepage Pit" means a " cesspool" which has a treatment facility
+such as a septic tank ahead of it. ( See Diagram 17)
+103) " Seepage Trench System" means a system with disposal trenches with
+more than six ( 6) inches of filter material below the distribution
+pipe.
+104) " Self - Contained Nonwater- Carried Waste Disposal Facility"
+includes, but is not limited to, vault privies, chemical toilets,
+combustion toilets, recirculating toilets, and portable toilets,
+in which all waste is contained in a watertight receptacle.
+105) " Septic Tank" means a watertight receptacle which receives sewage
+from a sanitary drainage system, is designed to separate solids
+from liquids, digest organic matter during a period of detention,
+and allow the liquids to discharge to a second treatment unit or
+to a soil absorption facility. ( See Rules 340- 73- 025 and
+340- 73- 030.)
+106) " Septic Tank Effluent" means partially treated sewage which is
+discharged from a septic tank.
+107) " Sewage" means water - carried human wastes, including kitchen,
+bath, and laundry wastes from residences, buildings, industrial
+establishments, or other places, together with such groundwater
+infiltration, surface waters, or industrial waste as may be
+present.
+108) " Sewage Disposal Service" means:
+a) The installation of on- site sewage disposal systems
+including the placement of portable toilets), or any part
+thereof; or
+b) The pumping out or cleaning of on- site sewage disposal
+systems ( including portable toilets), or any part thereof:
+or
+c) The disposal of material derived from the pumping out or
+cleaning of on- site sewage disposal systems ( including
+portable toilets); or
+d) Grading, excavating, and earth - moving work connected with
+the operations described in subsection ( a) of this section,
+except streets, highways, dams, airports or other heavy
+construction projects and except earth - moving work performed
+under the supervision of a builder or contractor in
+connection with and at the time of the construction of a
+building or structure; or
+SSRULE ( 3/ 11/ 88) 71- 12 On - Site Sewage Disposal
+71H980
+0107 1869
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+e) The construction of drain and sewage lines from five ( S)
+feet outside a building or structure to the service lateral
+at the curb or in the street or alley or other disposal
+terminal holding human or domestic sewage.
+109) " Sewage Stabilization Pond" means a pond designed to receive the
+raw sewage flow from a dwelling or other building and retain that
+flow for treatment without discharge.
+110) " Slope" means the rate of fall or drop in feet per one hundred
+100) feet of the ground surface. It is expressed as percent of
+grade.
+111) " Soil Permeability Rating" refers to that quality of the soil
+that enables it to transmit water or air, as outlined in the
+United States Department of Agriculture Handbook, Number 18,
+entitled Soil Survey Manual.
+112) " Soil Separate" means the size of soil particles according to
+Table 7.
+113) " Soil Texture" means the amount of each soil separate in a soil
+mixture. Field methods for judging the texture of a soil consist
+of forming a cast of soil, both dry and moist, in the hand and
+pressing a ball of moist soil between thumb and finger.
+a) The major textural classifications are defined as follows:
+See Table 6.)
+A) Sand: Individual grains can be seen and felt readily.
+Squeezed in the hand when dry, this soil will fall
+apart when the pressure is released. Squeezed when
+moist, it will form a cast that will hold its shape
+when the pressure is released, but will crumble when
+touched.
+B) Sandy loam: Consists largely of sand, but has enough
+silt and clay present to give it a small amount of
+stability. Individual sand grains can be readily seen
+and felt. Squeezed in the hand when dry, this soil
+will readily fall apart when the pressure is released.
+Squeezed when moist, it forms a cast that will not only
+hold its shape when the pressure is released, but will
+withstand careful handling without breaking. The
+stability of the moist cast differentiates this soil
+from sand.
+C) Loam: Consists of an even mixture of the different
+sizes of sand and of silt and clay. It is easily
+SSRULE ( 3/ 11/ 88) 1.- 13 On - Site Sewage Disposal
+H980
+0107 1870
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+crumble. d when dry and has a slightly gritty, yet fairly
+smooth feel. It is slightly plastic. Squeezed in the
+hand when dry, it will form a cast that will withstand
+careful handling. The cast formed of moist soil can be
+handled freely without breaking.
+D) Silt loam: Consists of a moderate amount of fine
+grades of sand, a small amount of clay, and a large
+quantity of silt particles. Lumps in a dry,
+undisturbed state appear quite cloddy, but they can be
+pulverized readily; the soil then feels soft and
+floury. When wet, silt loam runs together in puddles.
+Either dry or moist, casts can be handled freely
+without breaking. When a ball of moist soil is pressed
+between thumb and finger, it will not press out into
+smooth, unbroken ribbon, but will have a broken
+appearance.
+E) Clay loam: Consists of an even mixture of sand, silt,
+and clay, which breaks into clods or lumps when dry.
+When a ball of moist soil is pressed between the thumb
+and finger, it will form a thin ribbon that will
+readily break, barely sustaining its own weight. The
+moist soil is plastic and will form a cast that will
+withstand considerable handling.
+F) Silty clay loam: Consists of a moderate amount of
+clay, a large amount of silt, and a small amount of
+sand. It breaks into moderately hard clods or lumps
+when dry. When moist, a thin ribbon or one- eighth
+1/ 8) inch wire can be formed between thumb and finger
+that will sustain its weight and will withstand gentle
+movement.
+G) Silty clay: Consists of even amounts of silt and clay
+and very small amounts of sand. It breaks into hard
+clods or lumps when dry. When moist, a thin ribbon or
+one- eighth ( 1/ 8) inch or less sized wire formed between
+thumb and finger will withstand considerable movement
+and deformation.
+H) Clay: Consists of large amounts of clay and moderate tc
+small amounts of sand. It breaks into very hard clods
+or lumps when dry. When moist, a thin, long ribbon or
+one - sixteenth ( 1/ 16) inch wire can be molded with ease.
+Fingerprints will show on the soil, and a dull to
+bright polish is made on the soil by a shovel.
+SSRULE ( 3/ 11/ 88) 71- 14 On - Site Sewage Disposal
+H98O
+0107 1871
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+b) These and other soil textural characteristics are also
+defined as shown in the United States Department of
+Agriculture Textural Classification Chart which is hereby
+adopted as part of these rules. This textural
+classification chart is based on the Standard Pipette
+Analysis as defined in the United States Department of
+Agriculture, Soil Conservation Service Soil Survey
+Investigations Report No. 1. ( See Table 6)
+114) " Soil With Rapid or Very Rapid Permeability" means:
+a) Soil which contains thirty- five ( 35) percent or more of
+coarse fragments two ( 2) millimeters in diameter or larger
+by volume with intersticial soil of sandy loam texture or
+coarser as defined in subsection ( 113) ( a) of this rule and
+as classified in Soil - Textural Classification Chart, Table
+6; or
+b) Coarse textured soil ( loamy sand or sand as defined in
+section ( 113) of this rule and as classified in Soil
+Textural Classification Chart, Table 6); or
+c) Stones, cobbles, gravel, and rock fragments with too little
+soil material to fill interstices larger than one ( 1)
+millimeter in diameter.
+115) " Stabilized Dune" means a sand dune that is similar to an active
+dune except vegetative growth is dense enough to prevent blowing
+of sand. The surface horizon is either covered by a mat of
+undecomposed and partially decomposed leaves, needles, roots,
+twigs, and moss, etc., or to a depth of at least six ( 6) inches
+contains roots and has a color value of three ( 3) or less.
+116) " Standard Subsurface System" means an on- site sewage disposal
+system consisting of a septic tank, distribution unit and
+gravity - fed absorption facility constructed in accordance with
+OAR 340- 71- 220( 2), using six ( 6) inches of filter material below
+the distribution pipe, and maintaining not less than eight ( 8)
+feet of undisturbed earth between disposal trenches.
+117) " Strength of Wastewater" means the concentration of pollutants
+in wastewater as measured by BODSand TSS.
+118) " Subsurface Sewage Disposal" means the physical, chemical or
+bacteriologiQal breakdown and aerobic treatment of sewage in the
+unsaturated zone of the soil above any temporarily perched
+groundwater body.
+SSRULE ( 3/ 11/ 88) 71- 15 On - Site Sewage Disposal
+NH980
+0107 18' 72 .
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+119) " Subsurface Disposal System" means a cesspool or the combination
+of a septic tank or other treatment unit and effluent sewer and
+absorption facility. ( See Diagrams 1, through 6, 11, 16, and
+17)
+120) " System" means " On - Site Sewage Disposal System."
+121) " Temporary Groundwater Table" means the upper surface of a
+saturated zone that exists only on a seasonal or periodic basis.
+Like a permanent groundwater table, the elevation of a temporary
+groundwater table may fluctuate. However, a temporary
+groundwater table and associated saturated zone will dissipate
+dry up) for a period of time each year.
+122) " Test Pit" means an open pit dug to sufficient size and depth to
+permit thorough examination of the soil to evaluate its
+suitability for subsurface sewage disposal.
+123) " Toilet Facility" means a fixture housed within a toilet room or
+shelter for the purpose of receiving black waste.
+124) " Total Suspended Solids" ( TSS) means solids in sewage that can be
+removed readily by standard filtering procedures in a laboratory
+and reported as milligrams per liter ( mg/ L).
+125) " Unstable Landforms" means areas showing evidence of mass
+downslope movement such as debris flow, landslides, rockfalls,
+and hummocky hillslopes with undrained depressions upslope.
+Unstable landforms may exhibit slip surfaces roughly parallel to
+the hillside; landslide scars and curving debris ridges; fences,
+trees, and telephone poles which appear tilted; or tree trunks
+which bend uniformly as they enter the ground. Active sand dunes
+are unstable landforms. ( See Diagrams 21, 22, and 23)
+126) " Water Pollution" means " Pollution".
+127) " Zone of Aeration" means the unsaturated zone that occurs below
+the ground surface and above the point at which the upper limit
+of the water table exists. ( See Diagram 20)
+SSRULE ( 3/ 11/ 88) 71- 16 On - Site Sewage Disposal
+tM o
+0107 1873
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 110 PURPOSE.
+These rules, adopted pursuant to ORS 454. 625, prescribe the requirements
+for the construction, alteration, repair, operation, and maintenance of on-
+site sewage disposal systems. Their purpose is to restore and maintain the
+quality of public waters and to protect the public health and general
+welfare of the people of the. State of Oregon.
+SSRULE 9- 16- 86 71- 17 On - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+0107 1874
+340- 71- 120 JURISDICTION AND POLICY.
+1) Prior to July 1, 1981, unless otherwise required within these
+rules, county agreements with the Department under ORS454.725
+shall be renegotiated to provide for county responsibility for
+receiving and processing applications, issuing permits and
+performing required inspections for all on- site
+systems. The
+Department shall assume those responsibilities in nonagreement
+counties. The division of responsibilities, by projected daily
+sewage flow, is set forth as follows:
+a) Systems of twenty five hundred ( 2500) gallons or less shall
+have site evaluations, plan review, permits and inspections
+conducted or processed by the Agent, unless otherwise
+required within these rules. Plan review may be done by the
+Department at Agent' s request.
+b) Systems of twenty five hundred and one ( 2501) gallons to
+five thousand ( 5000) gallons shall have site evaluations,
+plan review, permits and inspections conducted or processed
+by the Department. Site evaluations, permit issuance and
+inspections may be delegated to the Agent.
+c) Systems of five thousand and one ( 5001) gallons or larger
+shall have site evaluations, plan review, permits and
+inspection conducted or processed by the Department. The
+permit shall be a Water Pollution Control Facilities ( WPCF)
+permit. For systems of this size, periodic inspections
+may be delegated to the Agent.
+2) Each and every owner of real property is jointly and severally
+responsible for:
+a) Disposing of sewage on that property in conformance with
+the rules of this Division; and
+b) Connecting all plumbing fixtures on that property,
+from
+which sewage is or may be discharged, to a sewerage or on-
+site sewage disposal system approved by the Department;
+and
+c) Maintaining, repairing, and/ or replacing the system as
+necessary to assure proper operation of the system.
+3) Agreement counties may, by ordinance, adopt requirements for
+operation and maintenance of systems within that county. Such
+requirements must be approved by the Director.
+4) The Commission may, by rule impose operation and maintenance
+requirements on specified types and/ or sizes of systems.
+SSRULE ( 9- 16- 86) 71- 18 Orr. - Site Sewage Disposal
+0107 1875
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 130 GENERAL STANDARDS. PROHIBITIONS AND REQUIREMENTS.
+1) Public Waters or Public Health Hazards. If. in the judgment
+of the Agent, proposed operation of a system would cause
+pollution of public waters or create a public health hazard,
+system installation or use shall not be authorized.
+2) Approved Disposal Required. All sewage shall be treated and
+disposed of in a manner approved by the Department.
+3) Discharge of Sewage Prohibited. Discharge of untreated or
+partially treated sewage or septic tank effluent directly or
+indirectly onto the ground surface or into public waters
+constitutes a public health hazard and is prohibited.
+4) Discharges Prohibited. No cooling water, air conditioning water,
+water softener brine, ground water, oil, hazardous materials or
+roof drainage shall be discharged into any system.
+5) Increased Flows Prohibited. Except where specifically allowed
+within this - Division, no person shall connect a dwelling or
+commercial facility to a system if the total projected sewage
+flow would be greater than that allowed under the original system
+construction permit.
+6) System Capacity. Each system shall have adequate capacity to
+properly treat and dispose of the maximum projected daily sewage
+flow. The quantity of sewage shall be determined from Table
+2 or other information the Agent determines to be valid that
+may show different flows.
+7) Material Standards. All materials used in on- site systems shall
+comply with standards set forth in these rules.
+8) Encumbrances. A permit to install a new system can be issued
+only if each site has received an approved site evaluation ( OAR
+340- 71- 150) and is free of encumbrances ( i. e.. easements, deed
+restrictions, etc.) which could prevent the installation or
+operation of the system from being in conformance with the rules
+of this Division.
+9) Future Connection to Sewerage System. In areas where a district
+has been formed to provide sewerage facilities placement of house
+plumbing to facilitate connection to the sewerage system shall
+be encouraged.
+10) Plumbing Fixtures Shall be Connected. All plumbing fixtures in
+dwellings and commercial facilities from which sewage is or may
+be discharged, shall be connected to, and shall discharge into an
+SSRULE ( 9- 16- 86) 71- 19 On - Site Sewage Disposal
+0167 1S76,
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+approved areawide sewerage system, or an approved on— site system
+which is not failing.
+11) Property Line Crossed.
+a) A recorded utility easement and covenant against conflicting
+uses, on a form approved by the Department, is required
+whenever a system crosses a property line separating
+properties under different ownership. The easement must
+accommodate that part of the system, including setbacks,
+which lies beyond the property line, and must allow entry to
+install, maintain and repair the system.
+b) Whenever an on— site system is located on one lot or parcel
+and the facility it serves is on another lot or parcel under
+the same ownership. the owner shall execute and record in
+the county land title records, on a form approved by the
+Department, an easement and a covenant in favor of the State
+of Oregon:
+A) Allowing its officers,
+agents, employees and
+representatives to enter and inspect, including by
+excavation. that portion of the system, including
+setbacks, on the other lot or parcel; and
+B) Agreeing not to put that portion of the other lot or
+parcel to a conflicting use; and
+C) Agreeing that upon severance of the lots or
+parcels, to
+grant or reserve and record a utility easement, in a
+form approved by the Department, in favor of the owner
+of the lot or parcel served by the system.
+12) Replacement Area. Except as provided in specific rules,
+system
+replacement area shall be kept vacant, free of vehicular traffic
+and soil modification.
+13) Operation and Maintenance. All systems shall be operated and
+maintained so as not to create a public health hazard or cause
+water pollution.
+14) Operating Permit Requirements. Systems with a projected daily
+sewage flow greater than five thousand ( 5, 000) gallons shall be
+constructed and operated under a Water Pollution Control
+Facilities ( WPCF) Permit.
+15) No person shall dispose of sewage or septage (
+septic tank
+pumpings) in any location not authorized by the Department under
+applicable laws and rules for such disposal.
+SSRIILE( 9- 16- 861- 71- 20 On -- Site Sewage Disposal
+0107 1877
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Ouality Proeraa
+340- 71- 140 FEES -- GENERAL.
+1) Except as provided in section ( 5) of this rule, the following
+nonrefundable fees are required to accompany applications for
+site evaluations, permits, licenses and services provided by the
+Department.
+ON- SITE MAXIMUM
+SEWAGE DISPOSAL SYSTEMS FEE
+a) New Site Evaluation:
+A) Single Family Dwelling:
+i) First Lot ............................... $ 245
+ii) Each Additional Lot Evaluated During
+Initial Visit .......................... $ 205
+B) Commercial Facility System:
+i) For First One Thousand ( 1000) Gallons
+Projected Daily Sewage Flow ........... $ 245
+ii) Plus For Each Five Hundred ( 500)
+Gallons or Part Thereof Above One
+Thousand ( 1000) Gallons, for Projected
+Daily Sewage Flows up to Five Thousand
+5, 000) Gallons ........................ $ 75
+C) Site Evaluation Report Review ................ $ 200
+D) Fees for site evaluation applications made to an
+agreement county shall be in accordance with that
+county' s fee schedule..
+E) Each fee paid for a site evaluation report entitles
+the applicant to as many site inspections on a single
+parcel or lot as are necessary to determine site
+suitability for a single system. The applicant may
+request additional site inspections within ninety ( 90)
+days of the initial site evaluation, at no extra cost.
+F) Separate fees shall be required if site inspections are
+to determine site suitability for more than one ( 1)
+system on a single parcel of land.
+b) Construction - Installation Permit:
+SSRULE. 1 ( 6- 14- 91 71- 21 On - Site Sewage Disposal
+0107 X8"78
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+A) For First One Thousand ( 1000) Gallons Projected Daily
+Sewage Flow:
+i) Standard On - Site System ............... $ 245
+ii) Alternative System:
+I) Aerobic System ................. 245
+II) Capping Fill ................... 415
+III) Cesspool ....................... 245
+IV) Disposal Trenches in Saprolite... 245
+V) Evapotranspiration - Absorption... 245
+VI) Gray Water Waste Disposal Sump.. 120
+VII) Holding Tank ................... 245
+VIII) Pressure Distribution .......... 350
+IX) Redundant ....................... 245
+X) Sand Filter .................... 445
+XI) Seepage Pit .................... 245
+XII) Seepage Trench ................. 245
+XIII) Steep Slope .................... 245
+XIV) Tile Dewatering ................ 350
+iii) At the discretion of the Agent, the
+permittee may be assessed a reinspection
+fee, not to exceed $ 25, when a- precover
+inspection correction notice requires
+correction of improper construction and, at
+a subsequent inspection, the Agent finds
+system construction deficiencies have not
+been corrected. The Agent may elect not to
+make further precover inspections until the
+reinspection fee is paid.
+iv) With the exceptions of sand filter and
+pressure distribution systems, a $ 25 fee may
+be added to all permits that specify the use
+of a pump or dosing siphon.
+B) For systems with projected daily sewage flows
+greater than one thousand ( 1, 000) gallons, the
+Construction - Installation permit fee shall be
+equal to the fee required in OAR 340- 71- 140
+1)( b)( A) plus $ 15 for each five hundred ( 500)
+gallons or part thereof above one thousand ( 1, 000)
+gallons.
+NOTE: Fees for construction permits for
+systems with projected daily sewage
+flows greater than five thousand ( 5, 000)
+SSRULE J ( 6- 14- 91 71- 22 On - Site Sewage Disposal
+0107 1879
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+gallons shall be in accordance with the
+fee schedule for WPCF permits.
+C) Commercial Facility System, Plan Review:
+i) For a system with a projected daily sewage
+flow of less than six hundred ( 600)
+gallons, the cost of plan review is
+included in the permit application fee.
+ii) For a system with a projected daily sewage
+flow of six hundred ( 600) gallons, but not
+more than one thousand ( 1, 000) gallons
+projected daily sewage flow .......... $ 100
+iii) Plus for each five hundred ( 500) gallons or
+part thereof above one thousand ( 1, 000)
+gallons, to a maximum sewage flow limit of
+five thousand ( 5, 000) gallons
+perday ............................... $ 25
+iv) Plan review for systems with projected
+sewage flows greater than five thousand
+5, 000) gallons per day shall be pursuant to
+OAR 340, Division 52.
+D) Permit Renewal:
+i) If Field Visit Required ............... $ 150
+ii) No Field Visit Required ................ $ 85
+NOTE: Renewal of a permit may be granted
+to the original permittee if an
+application for permit renewal is filed
+prior to the original permit expiration
+date. Refer to OAR 340- 71- 160( 10)..
+E) Alteration Permit ............................ $ 245
+F) Repair Permit:
+i) Single Family Dwelling:
+I) Major ........................... $ 115
+II) Minor ........................... $ 75
+ii) Commercial Facility:
+SSRULE. 1 ( 6- 14- 91 71- 23 On - Site Sewage Disposal
+0107 1880
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Proeraa
+r_
+I) Major -- The appropriate fees identified in
+paragraphs ( 1)( b)( A), ( B), and ( C) of
+this rule apply.
+SSRULE. 1 ( 6- 14- 91 71- 24 On - Site Sewage Disposal
+II) Minor ........................... 75
+G) Permit Denial Review ......................... 200
+c) Authorization Notice:
+A) If Field Visit Required ...................... 150
+B) No Field Visit Required ...................... 85
+C) Authorization Notice Denial Review ........... 200
+d) Annual Evaluation of Alternative System
+Where Required) .................................. 150
+e) Annual Evaluation of Large System ( 2501 to
+5000 GPD) ......................................... 150
+f) Annual Evaluation of Temporary or Hardship
+MobileHome .....................................:.. 90
+g) Variance to On - Site System Rules .................. 225
+NOTE: The variance application fee may be
+waived if the applicant meets the requirements
+of OAR 340- 71- 415( 5).
+h) Rural Area Variance to Standard Subsurface Rules:
+A) Site Evaluation .............................. 245
+NOTE: In the event there is on file a site
+evaluation report for that parcel that is
+less than ninety ( 90) days old, the site
+evaluation fee shall be waived.
+B) Construction - Installation Permit -- The appropriate
+fee identified in subsection ( 1)( b) of this rule
+applies.
+i) Sewage Disposal Service:
+A) Annual Business License ...................... 175
+SSRULE.1 ( 6- 14- 91 71- 24 On - Site Sewage Disposal
+107 1881
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+B) Transfer of or Amendments to License ......... $ 100
+C) Reinstatement of Suspended License ........... $ 125
+D) Pumper Truck Inspection, First Vehicle:
+i) Each Inspection ........................ $ 50
+ii) Each Additional Vehicle, Each
+Inspection...... ...................... $ 35
+j) Experimental Systems: Permit ...................... $ 1, 000
+k) Existing System Evaluation Report ................. $
+150
+NOTE: The fee shall not be charged for an
+evaluation report on any proposed repair,
+alteration or extension of an existing system.
+2) Contract County Fee Schedules. Pursuant to ORS 454. 745( 4), fee
+schedules which exceed maximum fees in ORS 454. 745( 1), and
+section ( 1) of this rule, are established for contract counties as
+follows:
+a) Multnomah County: See OAR 340- 72- 070.
+b) Jackson County: See OAR 340- 72- 080.
+c) Linn County: See OAR 340- 72- 090.
+3) Contract County Fee Schedules, General:
+a.) Each county having an agreement with the Department under
+ORS 454. 725 shall adopt a fee schedule for services rendered
+and permits to be issued.
+b) A copy of the fee schedule and any subsequent amendments to
+the schedule shall be forwarded to the Department.
+c) Fees shall not:
+A) Exceed actual costs for efficiently conducted services;
+or
+B) Exceed the maximum established in section ( 1) of this
+rule, unless approved by the Commission pursuant to ORS
+454. 745( 4).
+4) Surcharge. In order to offset a portion of the administrative
+costs of the statewide on- site sewage disposal program, a
+SSRULE. 1 ( 6- 14- 91 71- 25 On - Site Sewage Disposal
+0107 1882
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+surcharge for each activity, as set forth in the following
+schedule, shall be levied by the Department and by each Agreement
+County. Proceeds from surcharges collected by the Department and
+Agreement Counties shall be accounted for separately. Each
+Agreement County shall forward the proceeds to the Department as
+negotiated in the memorandum of agreement ( contract) between the
+county and the Department.
+Activity
+Surcharge
+a) Site evaluation, for each site examined,
+based on a projected flow of:
+A. 1, 000 gallons or less .................... 20
+B. 1, 001 gallons to 2, 000 gallons ........... 40
+C. 2, 001 gallons to 3, 000 gallons ........... 60
+D. 3, 001 gallons to 4, 000 gallons ....... 80
+E. 4, 001 gallons or more .................... 100
+b) Construction - Installation Permit ............. 10
+c) Repair Permit ................................ 10
+d) Alteration Permit ............................ 10
+e) Authorization Notice 10
+f) Existing System Evaluation Report ............. $
+10
+5) Refunds.. The Agent may refund a fee accompanying an application
+if the applicant withdraws the application before the Agent has
+done any field work or other substantial review of the
+application.
+SSRULE. 1 ( 6- 14- 91 71- 26 On - Site Sewage Disposal
+OF ENVIRONMENTAL QUALITY _ Water Qu a iy P
+340- 71- 150 SITE EVALUATION PROCEDURES.
+1) A site evaluation is the first step in the process of obtaining a
+construction permit for an on- site system. Except as otherwise
+allowed in these rules, any person who wishes to install a new
+on- site sewage system shall first obtain a site evaluation
+report.
+2) Applications for site evaluations shall be made to the Agent, on
+forms approved by the Department. Each application must be
+completed in full, signed by the owner or his legally authorized
+representative, and be accompanied by all required exhibits and
+appropriate fee. Incomplete applications shall be returned to
+the applicant to be completed. Unless other procedures approved
+by the Department are provided within a contract county,
+applicants shall provide at least two ( 2) test pits with
+dimensions of at least two ( 2) feet wide by four ( 4) feet long by
+five ( 5) feet deep, and located approximately seventy- five ( 75)
+feet apart and within the area of the proposed system.
+3) Site Evaluation Report:
+a) The Agent shall evaluate the site of the proposed system,
+shall consider all system options, and shall provide a
+report of such evaluation.
+b) The site evaluation report shall be on a form approved by
+the Department.
+c) The report shall contain, at a minimum, a site diagram and
+observations of the following site characteristics, if
+present:
+A) Parcel size;
+B) Slope— in disposal field and replacement areas ( percent
+and direction);
+C) Surface streams— springs— other bodies of water;
+D) Existing and proposed wells;
+E) Escarpments;
+F) Cuts and fills;
+G) Unstable landforms;
+H) Soil profiles— determined from test pits provided by
+applicant;
+SSRULE. 1 ( 9- 16- 86) 71- 27 On - Site Sewage Disposal
+DEPARMENT OF ENVI Water
+I) Water table levels ( as indicated by conditions
+associated with saturation);
+J) Useable area for initial and replacement disposal
+areas;
+K) Encumbrances ( applicant list on application);
+L) Sewerage availability;
+M) Other observations as appropriate.
+d) Site evaluation reports for subdivisions or other land
+divisions shall be based upon an evaluation of each lot.
+e) Specific conditions or limitations imposed on an approved
+site shall be listed on the evaluation report.
+f) An approved site evaluation report assures that the property
+owner will receive a permit to construct a system on that
+property provided procedures and conditions for permit
+issuance found in Rule 340- 71- 160 are met.
+4) Approval or Denial:
+a) In order to obtain a favorable site - evaluation report the
+following conditions shall be met:
+A) All criteria for approval of a specific type or types
+of system, as outlined in OAR 340, Division 71 shall be
+met.
+B) Each lot or parcel must have sufficient usable area
+available to accommodate an initial and replacement
+system. The usable area may be located within the lot
+or parcel, or within the bounds of another lot or
+parcel if secured pursuant to OAR 340- 71- 130( 11).
+Sites may be approved where the initial and replacement
+systems would be of different types, e. g., a standard
+subsurface system as the initial system and an
+alternative system as the replacement system. The site
+evaluation report shall indicate the type of the
+initial and type of replacement system for which the
+site is approved.
+EXCEPTION: A replacement area is not
+required in areas under control of a legal
+entity such as a city, county. or sanitary
+district. provided the legal entity gives a
+SSRULE. 1 ( 9- 16- 86) 71- 28 Ov- Site Sewage Disposal
+010"7 1885
+DEPARTIILW OF ENVIRONMENTAL QUALITY Water Quality Program
+written commitment that sewerage service will
+be provided within five ( 5) years.
+b) A site evaluation shall be denied where the conditions
+identified in subsection ( 4)( a) of this rule are not met.
+c) Technical rule changes shall not invalidate a favorable site
+evaluation, but may require use of a different kind of
+system.
+5) Site Evaluation Report Review. A site evaluation report issued
+by the Agent shall be reviewed at the request of the applicant.
+The application for review shall be submitted to the Department
+in writing, within thirty ( 30) days of the site evaluation report
+issue date, and be accompanied by the review fee. The review
+shall be conducted and a report prepared by the Department.
+SSRULE. 1 ( 9- 16- 86) 71- 29 On - Site Sewage Disposal.
+16'7 1886
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 155 EXISTING SYSTEM EVALUATION REPORT.
+1) Any person, upon application, may request an evaluation report on
+an existing on— site sewage disposal system. The application
+shall be on a form provided by the Agent and approved by the
+Department.
+2) The application is complete only when the form, on its face, is
+completed in full, signed by the owner or the owner' s legally
+authorized representative, and is accompanied by all necessary
+exhibits including the fee. A fee shall not be charged for an
+evaluation report on any proposed repair, alteration or extension
+of an existing system.
+3) The Agent shall:
+a) Examine the records, if available, on the existing system;
+and
+b) Conduct a field evaluation of the existing system; and
+c) Issue a report of findings to the applicant.
+SSRULE. 1 ( 9- 16- 86) 71- 30 On— Site Sewage Disposal
+0107 188' 7
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 160 PERMIT APPLICATION PROCEDURES - GENERAL REQUIREMENTS.
+1) No person shall cause or allow construction, alteration, or
+repair of a system, or any part thereof, without first applying
+for and obtaining a permit.
+EXCEPTION: Emergency repairs as set forth in Rule
+340- 71- 215.
+2) Applications for permits shall be made on forms provided by the
+Agent and approved by the Department.
+3) An application is complete only when the form, on its face, is
+completed in full, is signed by the owner or the owner' s legally
+authorized representative, and is accompanied by all required
+exhibits and fee. Except as otherwise allowed in OAR 340- 71-
+400( 6), the exhibits shall include:
+a) Favorable site evaluation report.
+b) Favorable land use compatibility statement from the
+appropriate land use authority signifying that the proposed
+land use is compatible with the Land Conservation and
+Development Commission acknowledged comprehensive plan or
+complies with the statewide planning goals.
+c) Plans and specifications for the on- site system proposed for
+installation within the area identified in the favorable
+site evaluation report. The Agent shall determine and
+request the minimum level of detail necessary to insure
+proper system construction.
+d) Any other information the Agent finds is necessary to
+complete the permit application.
+4) The application form shall be received by the Agent only when
+the form is complete, as detailed in section ( 3) of this rule.
+5) Upon receipt of a completed application the Agent shall deny
+the permit if:
+a) The application contains false information;
+b) The application was wrongfully received by the Agent;
+c) The proposed system would not comply with these rules;
+d) The proposed system, if constructed, would violate a
+Commission moratorium as described in rule 340- 71- 460;
+SSRULE. 1 ( 9- 16- 86) 71- 31 On - Site Sewage Disposal
+010' 7 1888
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+e) The proposed system location is encumbered as described
+in section 340- 71- 130 ( 8) ;
+f) A sewerage system which can serve the proposed sewageflow
+is both legally and physically available,
+as described
+below:
+A) Physical Availability. A sewerage system shall be
+deemed physically available if its nearest connection
+point from the property to be served is:
+i) For a single family dwelling,
+or other
+establishment with a maximum projected daily
+sewage flow of not more than four hundred fifty
+450) gallons, within three hundred ( 300) feet;
+ii) For a proposed subdivision or group of two ( 2)
+to five ( 5) single family dwellings,
+or
+equivalent projected daily sewage flow,
+not
+further than two hundred ( 200) feet multiplied
+by the number of dwellings or dwelling
+equivalents.
+iii) For proposed subdivisions or other developments
+with more than five ( 5) single family dwellings,
+or equivalents, the Agent shall make a case- by-
+case determination of sewerage availability.
+EXCEPTION: A sewerage system shall
+not be considered available if
+topographic or man- made features make
+connection physically impractical.
+B) Legal Availability. A sewerage system shall be deemed
+legally available if the system is not under a
+Department connection permit moratorium, and the
+sewerage system owner is willing or obligated to
+provide sewer service.
+6) A permit shall be issued only to a person licensed under ORS
+454. 695, or to the owner or easement holder of the land on which
+the system is to be installed.
+7) No person shall construct, alter or repair a system, or any part
+thereof, unless that person is licensed under ORS 454. 695, or is
+the permittee.
+8) The Agent shall either issue or deny the permit within twenty
+20) days after receipt of the completed application.
+SSRULE. 1 ( 9- 16- 86) , 71- 32 O: r Site Sewage Disposal
+010' 7 1889
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+EXCEPTION: If weather conditions or distance and
+unavailability of transportation. prevent the Agent from
+acting to either issue or deny the permit within twenty
+20) days. the applicant shall be notified in writing.
+The notification shall state the reason for delay. The
+Agent shall either issue or deny the permit within
+sixty ( 60) days after the mailing date of such
+notification.
+9) A permit issued pursuant to these rules shall be effective for
+one ( 1) year from the date of issuance for construction of the
+system. The construction— installation permit is not
+transferable. Once a system is installed pursuant to the permit.
+and a Certificate of Satisfactory Completion has been issued for
+the installation. conditions imposed as requirements for permit
+issuance shall continue in force as long as the system is in use.
+10) Renewal of a permit may be granted to the original permittee if
+an application for permit renewal is filed prior to the original
+permit expiration date. Application for permit renewal shall
+conform to the requirements of sections ( 2) and ( 4) of this
+rule. The permit shall be issued or denied consistent with
+sections ( 5). ( 6). ( 8). and ( 9) of this rule.
+SSRULE. 1 ( 9- 16- 86) 71- 33 On— Site Sewage Disposal
+DEPARTMENT
+340- 71- 165 PERMIT DENIAL REVIEW.
+Ola? X890
+Water Quality r gr
+1) A permit denied by the Agent shall be reviewed at the request of
+the applicant. The application for review shall be submitted to
+the Department in writing. within thirty ( 30) days of the permit
+denial notice from the Agent, and be accompanied by the denial
+review fee. The denial review shall be conducted and a report
+prepared by the Department.
+2) Permit denials for systems proposed to serve a commercial
+facility, intended to be used in a commercial activity, trade,
+occupation or profession, may be appealed through the contested
+case hearing procedure set forth in ORS183 and OARChapter340,
+Division 11.
+3) If the Agent intends to deny a permit for a parcel of ten (
+10)
+acres or larger in size, the Agent shall:
+a) Provide the applicant with a Notice of Intent to Deny;
+b) Specify reasons for the intended denial;
+and
+c) Offer a contested case hearing in accordance with ORS183
+and OAR Chapter 340, Division 11.
+SSRULE. 1 ( 9- 16- 86) 71- 34 On - Site Sewage Disposal
+0107 1891
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 170 PRE - COVER INSPECTIONS.
+1) When construction, alteration or repair of a system for which
+a permit has been issued is complete, except for backfill
+cover), or as required by permit, the system installer shall
+notify the Agent. The Agent shall inspect the installation to
+determine if it complies with the rules of the Commission,
+unless
+the inspection is waived by the Agent in accordance with section
+2) of this rule or in accordance with the provisions of OAR
+340- 71- 400( 6).
+2) The Agent may, at his own election, waive the pre - cover
+inspection provided:
+a) The installation is a standard subsurface system installed
+by a sewage disposal service licensed pursuant to ORS
+454. 695; and
+b) The inspecting jurisdiction and the Department have
+developed an impartial method of identifying those
+installers -- who have a history of proper installations
+without excessive numbers of corrections; and
+c) Inspections waived are for installations made by installers
+identified as having a good history of proper installation;
+and
+d) A list of installers whose inspections may be waived is
+available to the public and the Department; and
+e) A representative number of each installer' s systems has
+been inspected, regardless of installation history; and
+f) After system completion the installer certifies in writing
+that the system complies with the rules of the Commission,
+and provides the Agent with a detailed as - built plan ( drawn
+to scale) of the installation.
+3) Precover inspection details shall be recorded on a form approved
+by the Department.
+SSRULE. 1 ( 9- 16- 86) 71- 35 On - Site Sewage Disposal
+0107 1892
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 175 CERTIFICATE OF SATISFACTORY COMPLETION.
+1) The Agent shall issue a Certificate of Satisfactory Completion,
+if, upon inspection of installation, the system complies with
+the rules of the Commission and the conditions of the permit.
+2) If inspected installation does not comply with the rules of the
+Commission and the conditions of the permit, the permittee shall
+be notified in writing or a Correction Notice shall be posted
+on the site. System deficiencies shall be explained and
+satisfactory completion required.. Follow- up inspections may
+be waived by the Agent. After satisfactory completion a
+Certificate shall be issued.
+3 ) If the inspection is not made within seven ( 7 ) days after
+notification of completion, or the inspection is waived, a
+Certificate of Satisfactory Completion shall be deemed to have
+been issued by operation of law. In such cases, a modified
+Certificate shall be issued to the owner.
+4) A system, once installed, shall be backfilled ( covered) only
+when:
+a) The permittee is notified by the Agent that inspection has
+been waived; or
+b) The inspection has been conducted by the Agent and a
+Certificate of Satisfactory Completion has been issued;
+or
+c) A Certificate of Satisfactory Completion has been issued
+by operation of law where the inspection has not been
+conducted within seven ( 7) days of notification of completed
+installation.
+5) Failure to meet requirements for satisfactory completion within
+thirty ( 30) days after written notification or posting of a
+Correction Notice on the site, constitutes a violation of ORS
+454. 605 to 454. 745 and these rules.
+6) No person shall connect to or use any system. completed on or
+after January 1, 1974, unless a Certificate of Satisfactory
+Completion has been issued for the installation, or deemed issued
+by operation of law as provided in ORS 454. 665( 2).
+7) Unless otherwise required by the Agent the system installer shall
+backfill ( cover) a system within ten ( 10) days after issuance
+of a Certificate of Satisfactory Completion for that system.
+SSRULE. 1 ( 9- 16- 86) 71- 36 On - Site Sewage Disposal
+010' 7 1893
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+8) A Certificate of Satisfactory Completion shall be valid for a
+period of one ( 1) year, for connection of the system to the
+facility for which it was constructed. After the one ( 1) year
+period, rules for Authorization Notices or Alteration Permits
+apply, as outlined in rules 340- 71- 205 and 340- 71- 210.
+9) Denial of a Certificate of Satisfactory Completion may be
+appealed in accordance with ORS 183. 310 and OAR Chapter 340,
+Division 11.
+SSRULE. 1 ( 9- 16- 86) 71- 37 On - Site Savage Disposal
+0107 1894
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 185 ABANDONMENT OF SYSTEMS.
+1) The owner shall abandon a system when:
+a) A sewerage system becomes available and the building sewer
+has been connected thereto; or
+b) The source of sewage has been permanently eliminated;
+or
+c) The system has been operated in violation of OAR 340- 71-
+130( 13), unless and until a repair permit and Certificate of
+Satisfactory Completion are subsequently issued therefor;
+or
+d) The system has been constructed, installed, altered, or
+repaired without a required permit authorizing same, unless
+and until a permit is subsequently issued therefor;
+or
+e) The system has been operated or used without a required
+Certificate of Satisfactory Completion or Authorization
+Notice authorizing same, unless and until a Certificate of
+Satisfactory Completion or Authorization Notice is
+subsequently issued therefor.
+2) Procedures for Abandonment:
+a) The septic tank, cesspool or seepage pit shall be pumped
+by a licensed sewage disposal service to remove all sludge;
+b) The septic tank, cesspool or seepage pit shall be filled
+with reject sand, bar run gravel, or other material approved
+by the Agent;
+c) The system building sewer shall be permanently capped.
+d) If. in the judgment of the Agent, it is not reasonably
+possible or necessary. to comply with subsections ( 2)( a) and
+2)( b) of this rule, the Agent may waive either or both of
+these requirements provided such action does not constitute
+a menace to public health, welfare or safety.
+SSRULE. 1 ( 9- 16- 86) 71- 38 On - Site Sewage Disposal
+0. 0'7 1895
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 195 UPGRADING DISPOSAL SYSTEMS.
+When upgrading systems which approximate a pit privy and gray water
+discharge to the surface or to a pit, system repair rules ( 340- 71- 215)
+shall apply, provided:
+1) The system serves an occupied dwelling; and
+2) The system and dwelling were constructed prior to
+January 1, 1974.
+SSRULE. 1 ( 9- 16- 86) 71- 39 On— Site Sewage Disposal
+DEPARTMENT OF
+340- 71- 200 PRIOR CONSTRUCTION PERKITS OR APPROVALS.
+1) All construction permits and written approvals issued prior to
+January 1, 1974, expired by rule of the Commission on
+July 1, 1976, unless they met all requirements of OAR340- 71-
+015( 8) and were converted to Department construction permits
+prior to that date.
+2) Converted permits required system construction prior to
+July 1, 1980. Any prior approvals or prior permits failing to
+meet the two ( 2) deadline dates above are void.
+3) All sites now proposed for on— site systems must meet appropriate
+requirements of these rules.
+SSRULE. 1 ( 9- 16- 86) 71- 40 Oa -- Site Sewage Disposal
+IANT OF ENVIR
+340- 71- 205 AUTHORIZATION TO USE EXISTING SYSTEMS.
+Water
+1) For the purpose of these rules, " Authorization Notice" means a
+written document issued by the Agent which establishes that an
+existing on-site sewagedisposal system appears adequate to serve
+the purpose for which a particular application is made.
+Applications for Authorization Notices shall conform to
+requirements of OAR 340- 71- 160( 2) and ( 4).
+2) Authorization Notice Required. No Person shall place into
+service, change the use of, or increase the projected daily
+sewage flow into an existing on- site sewage disposal system
+without obtaining an Authorization Notice, Construction -
+Installation Permit or Alteration Permit as appropriate.
+EXCEPTIONS:
+a- An Authorization Notice is not required when there is a
+change in use ( replacement of mobile homes or recreational
+vehicles with similar units) in mobile home parks or
+recreational vehicle facilities.
+b- An Authorization Notice is not required for placing into
+service a previously unused system for which a Certificate
+of Satisfactory Completion has been issued within one (
+1)
+year of the date such system is placed into service,
+providing the projected daily sewage flow does not exceed
+the design flow.
+3) For placing into service or for changes in the use of an existing
+on- site sewage disposal system where no increase in sewage flow
+is projected, or where the design flow is not exceeded;
+an
+Authorization Notice valid for a period not to exceed one ( 1)
+year shall be issued if:
+a) The existing system is not failing;
+and
+b) All set - backs between the existing system and the structure
+can be maintained; and
+c) In the opinion of the Agent the proposed use would not
+create a public health hazard on the ground surface or in
+surface public waters.
+4) If the conditions of section ( 3) of this rule cannot be met, an
+Authorization Notice shall be withheld until such time as the
+necessary alterations and/ or repairs to the system are made.
+5) For changes in the use of a system where projected daily sewage
+flow would be increased by not more than three hundred ( 300)
+SSRULE. 1 ( 9- 16- 86) 71- 41 Orr Site Sewage Disposal
+gallons beyond the design capacity or by not more than fifty ( 50)
+percent of the design capacity for the system, whichever is less;
+an Authorization Notice valid for a period not to exceed one ( 1)
+year shall be issued if:
+a) The existing system is shown not to be failing;
+and
+b) All set - backs between the existing system and the structure
+can be maintained; and
+c) Sufficient area exists so that a complete replacement area
+meeting all requirements of these rules ( except those
+portions relating to soil conditions and groundwater) is
+available; and
+d) In the opinion of the Agent the proposed increase would not
+create a public health hazard or water pollution.
+6) Only one ( 1) Authorization Notice for an increase up to three
+hundred ( 300) gallons beyond the design capacity, or increased by
+not more than fifty ( 50) percent of the design capacity,
+whichever is less, will be allowed per system.
+7) For changes in the use of a system where projected daily sewage
+flows would be increased by more than three hundred ( 300) gallons
+beyond the design capacity, or increased by more than fifty ( 50)
+percent of the design capacity of the system, whichever is less,
+a Construction - Installation Permit shall be obtained. Refer to
+rule 340- 71- 210.
+8) Personal Hardship:
+a) The Agent may allow a mobile home to use an existing system
+serving another dwelling, in order to provide housing for a
+person suffering hardship, or for an individual providing
+care for such a person, by issuing an Authorization Notice, if:
+A) The Agent receives satisfactory evidence which
+indicates that a person is suffering physical or mental
+impairment, infirmity, or is otherwise disabled ( a
+hardship approval issued under local planning
+ordinances shall be accepted as satisfactory
+evidence); and
+B) The system is not failing; and
+C) The application is for a mobile home;. and
+D) Evidence is provided that a hardship mobile home
+placement is allowed on the subject property by the
+SSRULE. 1 ( 6- 14- 91) 71- 42 On - Site Sewage Disposal
+919' 7 1899
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+governmental agency that regulates zoning, land use
+planning, and/ or building.
+b) The Authorization Notice shall remain in effect for a
+specified period, not to exceed cessation of the hardship.
+The Authorization Notice is renewable on an annual or
+biennial basis. The Agent shall impose conditions in the
+Authorization Notice which are necessary to assure
+protection of public health.
+9) Temporary Placement:
+a) The Agent may allow a mobile home to use an existing system
+serving another dwelling in order to provide temporary
+housing for a family member in need, and may issue an
+Authorization Notice provided:
+A) The Agent receives evidence that the family member is
+in need of temporary housing; and
+B) The system is not failing; and
+C) A full system replacement area is available; and
+D) Evidence is provided that a temporary mobile home
+placement is allowed on the subject property by the
+governmental agency that regulates zoning, land use
+planning, and/ or building.
+b) The Authorization Notice shall authorize use for no more
+than two ( 2) years and is not renewable. The Agent shall
+impose conditions in the Authorization Notice necessary to
+assure protection of public health. If the system fails
+during the temporary placement and additional replacement
+area is no longer available, the mobile home shall be
+removed from the property.
+10) An Authorization Notice denied by the Agent shall be reviewed at
+the request of the applicant. The application for review shall
+be submitted to the Department in writing within thirty ( 30) days
+of the authorization notice denial, and be accompanied by the
+denial review fee. The denial review shall be conducted and a
+report prepared by the Department.
+SSRULE. 1 ( 9- 16- 86) 71- 43 On— Site Sewage Disposal
+0167 x.900
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 210 ALTERATIONOF EXISTING ON-SITE SEWAGEDISPOSALSYSTEMS.
+1) Permit Required:
+a) No person shall alter, or increase the design capacity of,
+an existing on-site sewagedisposal systemwithout first
+obtaining an Alteration Permit or Construction - Installation
+Permit, as appropriate. Refer to rule 340- 71- 160.
+b) No person shall increase the projected daily sewage flow
+into an existing on-site sewagedisposal system by more than
+three hundred ( 300) gallons beyond the design capacity or
+increase by more than fifty ( 50) percent of the design
+capacity of the system, whichever is less, until a
+Construction - Installation Permit is obtained. Refer to rule
+340- 71- 160.
+2) An application for an Alteration Permit shall be submitted to the
+Agent for proposed alterations to an existing system that do not
+increase the existing system' s design capacity, or do not exceed
+the existing system's design capacity by more than three hundred
+300) gallons per day or fifty ( 50) percent, whichever is less.
+The permit may be issued if:
+a) The existing system is not failing;
+and
+b) The setbacks in Table 1 can be met; and
+c) In the opinion of the Agent, use of the on- site system would
+not create a public health hazard or water pollution.
+3) An application for a Construction - Installation Permit shall be
+submitted to the Agent when the existing system' s design capacity
+is proposed to be exceeded by greater than three hundred ( 300)
+gallons per day or greater than fifty ( 50) percent, whichever is
+less. The permit may be issued if:
+a) The existing system is not failing;
+and
+b) A favorable site evaluation report has been obtained
+from the Agent ( refer to rule 340- 71- 150); and
+c) The proposed installation will be in full compliance with
+these rules.
+4) Certificate of. Satisfactory Completion Required. Upon completion
+of installation of that part of a system for which an Alteration
+Permit or Construction - Installation Permit has been issued,
+the
+permittee shall obtain a Certificate of Satisfactory Completion
+from the Agent pursuant to rule 340- 71- 175. An increase in the
+SSRULE. 1 ( 9- 16- 86) 71- 44 Oir- Site Sewage Disposal
+0107 I' 01
+DEPARTMENT OF ENVIRONMENTAL QUALITY water Quality Program
+projected daily sewage flow into the system shall be prohibited
+until the Certificate is issued.
+SSRULE. 1 ( 9- 16- 86) 71- 45 Oa— Site Sewage Disposal
+0107 1902,
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 215 REPAIR OF EXISTING SYSTEMS.
+1) For the purpose of these rules, " Emergency Repair" means the
+repair of a system where sewage is backing up into a dwelling
+or commercial facility, or there is a broken pressure sewer pipe
+and immediate action is necessary to correct the situation.
+2) A failing system shall be immediately repaired.
+EXCEPTION: If in the opinion of the Agent adverse soil
+conditions exist due to climatic conditions that would
+likely preclude a successful repair, the Agent may
+allow a delay in commencing repairs until the soil
+conditions improve. If this exception is exercised, a
+compliance date shall be specified in a Notice of
+Violation to the system owner.
+3) No person shall repair a failing system without first obtaining
+a Repair Permit. See OAR 340- 71- 160.
+EXCEPTION: Emergency repairs may be made without first
+obtaining a permit provided that a repair permit
+application is submitted to the Agent within three ( 3)
+working days after the emergency repairs are begun.
+4) Certificate of Satisfactory Completion. Upon completion of
+installation of that part of a system for which a repair permit
+has been issued, the permittee shall obtain a Certificate of
+Satisfactory Completion from the Agent pursuant to Rule
+340- 71- 175.
+5) Criteria for Permit Issuance:
+a) If the site characteristics and standards described in Rule
+340- 71- 220 can be met, then the repair installation shall
+conform with them.
+b) If the site characteristics or standards described in Rule
+340- 71- 220 cannot be met, the Agent may allow a reasonable
+repair installation in order to eliminate a public health
+hazard. Reasonable repairs may require the installation
+of an alternative system in order to eliminate a public
+health hazard.
+6) Failing systems which cannot be repaired shall be abandoned in
+accordance with Rule 340- 71- 185.
+SSRULE. 1 ( 9- 16- 86) 71- 46 On - Site Sewage Disposal
+DEPARTMENT
+340- 71- 220 STANDARD SUBSURFACE SYSTE S.
+1) For they purpose of these rules:
+Water litAioZ. 1903
+a) " Standard Subsurface System" means an on— site sewage
+disposal system consisting of a septic tank, distribution
+unit and gravity— fed absorption facility constructed in
+accordance with section ( 2) of this rule, using six ( 6)
+inches of filter material below the distribution pipe, and
+maintaining not less than eight ( 8) feet of undisturbed
+earth between disposal - trenches.
+b) " Effective Soil Depth" means the depth of soil material
+above a layer that impedes movement of water, air, or growth
+of plant roots. Layers that differ from overlying soil
+material enough to limit effective soil depths are hardpans,
+claypans, fragipans, compacted soil, bedrock, saprolite and
+clayey soil.
+c) " Large System" means any on— site system with a daily sewage
+flow greater than two thousand five hundred ( 2, 500) gallons.
+d) " Conditions Associated with Saturation" means:
+A) Reddish brown or brown soil horizons with gray ( chromas
+of two ( 2) or less) and red or yellowish red mottles;
+or
+B) Gray soil horizons, or gray soil horizons with red,
+yellowish red or brown mottles; or
+C) Dark colored highly organic soil horizons; or
+D) Soil profiles with concentrations of soluable salts at
+or near the ground surface.
+2) Criteria For Standard Subsurface System Approval. In order to be
+approved for a standard subsurface system each site must meet all
+the following conditions:
+a) Effective soil depth shall extend thirty ( 30) inches or more
+from the ground surface as shown in Table 3. A minimum six
+6) inch separation shall be maintained between the layer
+that limits effective soil depth and the bottom of the
+absorption facility.
+b) Water table levels shall be predicted using " conditions
+associated with saturation." If conditions associated with
+saturation do not occur in soil with rapid or very rapid
+permeability, predictions of the highest level of the water
+SSRULE. 1 ( 9- 16- 86) 71- 47 On— Site Sewage Disposal
+0107 1904
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+table shall be baseu on past recorded observations of the
+Agent. If such nbservations have not been made, or are
+inconclusive, the application shall be denied until
+observations can be made. Groundwater leve determinations
+shall be made during the period of the year in which high
+groundwater normally occurs in that area.
+A) A permanent water table shall be four ( 4) feet or more
+from the bottom of the absorption facility.
+EXCEPTION: In defined geographic areas where
+the Department has determined through a
+groundwater study that degradation of
+groundwater would not be caused nor public
+health hazards created. In the event this
+exception is allowed, the rule pertaining to
+a temporary water table shall apply.
+B) A temporary water table shall be twenty- four ( 24)
+inches or more below the ground surface. An absorption
+facility shall not be installed deeper than the level
+of the temporary water table.
+C) Groundwater Interceptors. ( Diagram 13) A groundwater
+interceptor may be used to intercept and/ or drain
+temporary water from a disposal area; however, it may
+be required to demonstrate that the site can be de -
+watered prior to issuing a Construction - Installation
+permit. Groundwater interceptors may be used only on
+sites with adequate slope to permit proper drainage.
+Each outlet shall be protected by a short section of
+Schedule 40 PVC or ABS plastic pipe and a grill to
+exclude rodents. Where required, groundwater
+interceptors are an integral part of the system, but do
+not need to meet setback requirements to property
+lines, streams, lakes, ponds or other surface water
+bodies.
+c) Soil with rapid or very rapid permeability shall be thirty
+six ( 36) inches or more below the ground surface. A minimum
+eighteen ( 18) inch separation shall be maintained between
+soil with rapid or very rapid permeability and the bottom of
+disposal trenches.
+EXCEPTION: Sites may be approved with no
+separation between the bottom of disposal trenches
+and soil as defined in OAR 340- 71- 100( 114)( a)
+and ( b), with rapid or very rapid permeability,
+and disposal trenches may be placed into soil as
+defined in OAR 340- 71- 100( 114)( a) and ( b), with
+SSRULE. 1 ( 9- 16- 86) 71- 48 On - Site Sewage Disposal
+0107 1905
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+rapid or very rapid permeability if any of the
+following conditions occur:
+a- A confining layer occurs between the bottom
+of disposal trenches and the groundwater
+table. A minimum six ( 6) inch separation
+shall be maintained between the bottom of
+disposal trenches and the top of the
+confining layer; or
+b- A layer of non - gravelly ( less than 15%
+gravel) soil with sandy loam texture or finer
+at least eighteen ( 18) inches thick occurs
+between the bottom of the disposal trenches
+and the groundwater table; or
+c- The projected daily sewage flow does not
+exceed a loading rate of four hundred fifty
+450) gallons per acre per day.
+d) Slopes shall not exceed thirty ( 30) percent and the
+slope/ depth relationship set forth in Table 3.
+e) The site has not been filled or the soil has not been
+modified in a way that would, in the opinion of the Agent,
+adversely affect functioning of the system.
+f) The site shall not be on an unstable land form, where
+operation of the system may be adversely affected.
+g) The site of the initial and replacement absorption facility
+shall not be covered by asphalt or concrete,
+or
+on
+to
+vehicular traffic, livestock, or other activity which would
+adversely affect the soil.
+h) The site of the initial and replacement absorption facility
+will not be subjected to excessive saturation due to, but
+not limited to, artificial drainage of ground surfaces,
+driveways, roads, and roof drains.
+i) Setbacks in Table 1 can be met.
+A) Stream Setbacks. Setback from streams shall be
+measured from bank drop- off or mean yearly highwater
+mark, whichever provides the greatest separation
+distance.
+B) Lots Created Prior to May 1, 1973. For lots or parcels
+legally created prior to May 1, 1973, the Agent may
+approve installation of a standard or alternative
+SS& ULE. 1 ( 9- 16- 86) 71- 49 Oa - Site Sewage Disposal
+167 1906
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+system with a setback from surface public waters of
+less than one hundred ( 100) feet but not less than
+fifty ( 50) feet, provided all other provisions of these
+rules can be met.
+C) Water Lines and Sewer Lines Cross. Where water lines
+and building or effluent sewer lines cross,
+separation
+distances shall be as required in the State Plumbing
+Code.
+D) Septic Tank Setbacks. The Agent shall encourage the
+placement of septic tanks and other treatment units as
+close as feasible to the minimum separation from the
+building foundation in order to minimize clogging of
+the building sewer.
+3) Criteria For System Sizing:
+Disposal Fields. Disposal fields shall be designed and
+sized on the basis of:
+a) Table 2 - Quantities of Sewage Flows; or other information
+determined by the Agent to be reliable.
+EXCEPTIONS: Systems shall be sized on the basis
+of three hundred ( 300) gallons sewage flow per
+day, plus seventy five ( 75) gallons per day for
+the third bedroom when:
+a- Systems to serve single family dwellings on
+lots of record prior to March 1, 1978, which
+are inadequate in size to accommodate a
+system sized for a daily sewage flow of four
+hundred fifty ( 450) gallons.
+b- Systems for specifically planned
+developments, with living units of three ( 3)
+or fewer bedrooms, where deed restrictions
+prohibit an increase in the number of
+bedrooms.
+b) Table 4, Minimum Length of Disposal Trench Required, Soil
+Texture Versus Effective Soil Depth.
+c) Table 5, Minimum Length of Disposal Trench Required, Soil
+Texture Versus Depth to Temporary Water.
+d) Strength of the Wastewater. The minimum length of disposal
+trench shall be determined by using the following equation:
+SSRULE. 1 ( 9- 16- 86) 71- 50 On - Site Sewage Disposal
+0107 1007
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+Length = ( P) x ( Q) x ( R),
+where: P = Trench length from Tables 4 or 5, whichever is
+larger.
+Q = Design peak daily sewage flow divided by 150.
+R =
+BOD5of Wastewater divided by 200 mg/ L, or
+TSS of Wastewater divided by 150 mg/ L, whichever
+has the higher value. In no case, however, may
+the value of R be less than 1. For a single
+family dwelling, assume a value of 200 mg/L BOD5
+and 150 mg/ L TSS.
+4) Septic Tanks:
+a) For the purpose of these rules, " Septic Tank" means a
+watertight receptacle which receives sewage from a sanitary
+drainage system, is designed to separate solids from
+liquids, digest organic matter during a period of detention,
+and allow the liquids to discharge to a second treatment
+unit or to a soil absorption facility.
+b) Liquid Capacity.
+A) For projected daily sewage flows up to fifteen hundred
+1, 500) gallons the septic tank shall have a liquid
+capacity equal to at least one and one- half ( 1- 1/ 2)
+days sewage flow, or one thousand ( 1, 000) gallons,
+whichever is greater.
+B) For projected daily sewage flows greater than fifteen
+hundred ( 1, 500) gallons, the septic tank shall have
+a liquid capacity equal to eleven hundred twenty- five
+1, 125) gallons plus seventy- five ( 75) percent of the
+projected daily sewage flow.
+C) Additional volume may be required by the Agent for
+industrial or other special wastes.
+D) The quantity of daily sewage flow shall be estimated
+from Table 2. For structures not listed in Table 2,
+the Agent shall determine the projected daily sewage
+flow.
+E) Single Family Dwelling. Septic tanks to serve single
+family dwellings shall be sized on the number of
+bedrooms in the dwelling, as follows:
+i) 1 to 4 bedrooms ........... 1, 000 gallons
+i
+SSRULE. 1 ( 9- 16- 86) 71- 51 Oa -- Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+ii) 5 bedrooms ................ 1, 250 gallons
+iii) More than 5 bedrooms ....... 1, 500 gallons
+c) Installation Requirements:
+A) Septic tanks shall be installed on a level,
+stable
+base that will not settle.
+B) Septic tanks located in high groundwater areas shall
+be weighted or provided with an antibuoyancy device
+to prevent flotation.
+C) All septic tanks installed with the manhole access
+deeper than eighteen ( 18) inches, or when used within a
+sand filter system, commercial system, or pressurized
+system shall be provided with a watertight manhole
+riser extending to the ground surface or above. The
+riser shall have a minimum inside dimension equal to or
+greater than that of the tank manhole. A cover shall
+be provided and securely fastened or weighted to
+prevent easy removal.
+D) Septic tanks shall be installed in a location that
+provides access for servicing and pumping.
+E) Where practicable, the sewage flow from any
+establishment shall be consolidated into one septic
+tank.
+F) At the discretion of the Agent, a removable plug may be
+placed in the top of the septic tank' s inlet sanitary
+tee if the septic tank discharges directly into a
+gravity - fed absorption facility.
+d) Construction. Septic tank construction shall comply with
+minimum standards set forth in Rules 340- 73- 025 and
+340- 73- 030, unless otherwise authorized in writing by the
+Department.
+5) Distribution Techniques. Disposal trenches shall be constructed
+according to one of the following methods:
+a) : Gravity Fed Equal Distribution ( including Loop) System.
+Diagrams 3, 4 and 5)
+The equal distribution system shall be used on generally
+level ground. All trenches and piping shall be level
+within a tolerance of plus or minus one ( 1) inch. All
+lateral piping shall be at the same elevation.
+SSRULE. 1 ( 9- 16- 86) 71- 52 Oir- Site Sewage Disposal
+0107 1909
+DEPARTMENT OF ENVIRONKENTAL QUALITY Water Quality Program
+b) Serial Distribution System. ( Diagrams 1 and 2)
+The serial distribution system is generally used on sloping
+ground. Each trench shall be level within a tolerance of
+plus or minus one ( 1) inch.
+c) Pressurized Distribution Systems. See Rule 340- 71- 275.
+for pressurized distribution requirements.
+6) Distribution Boxes and Drop Boxes:
+a) Construction. Construction of distribution boxes and drop
+boxes shall comply with minimum standards in rules
+340- 73- 035 through 340- 73- 045.
+b) Foundation. All distribution boxes and drop boxes shall
+be bedded on a stable, level base.
+7) Dosing Tanks:
+a) Construction of dosing tanks shall comply with the minimum
+standards in Rule 340- 73- 050, unless otherwise authorized
+in writing by the Department on a case- by- case basis.
+b) Each dosing tank shall be installed on a stable level base.
+c) Each dosing tank shall be provided with a watertight riser
+and manhole cover, extending to the ground surface or above.
+Provision shall be made for securely fastening the manhole
+cover.
+d) At the discretion of the Agent, a removable plug may be
+placed in the top of the septic tank' s inlet sanitary tee,
+and a trench ten ( 10) feet long and otherwise constructed
+the same as a standard disposal trench may be used to
+provide air and gas exchange from the dosing tank,
+providing:
+A) Ground and surface water will not infiltrate through the
+gravel - filled trench into the dosing tank; and
+B) The invert elevation of the perforated pipe in the ten
+10) foot trench is one ( 1) foot higher than the invert
+elevation of - the septic tank' s inlet sanitary tee; and
+C) The design flow for the system does not exceed six
+hundred ( 600) gallons per day.
+SSRULE. 1 ( 9- 16- 86) 71- 53 On - Site Sewage Disposal
+0107 1010
+DEPARTMENT OF ENVIRONiMENTAL QUALITY Water Quality Program
+e) Dosing tanks located in high groundwater areas shall be
+weighted or provided with an antibuoyancy device to prevent
+flotation.
+8) Disposal Trenches. ( Diagrams 1, 2, 3, 4, 5, 11, and 12)
+a) Disposal trenches shall be constructed in accordance with
+the standards contained in the following table, unless
+otherwise allowed or required within a specific rule of
+this division:
+A) Maximum length of trench ................. 125 feet
+B) Minimum bottom width of trench ........... 24 inches
+C) Minimum depth of trench, using:
+i) Equal or loop distribution ........ 18 inches
+ii) Serial distribution ................ 24 inches
+iii) Pressure Distribution ............. 18 inches
+D) Maximum depth of trench .................. 36 inches
+E) Minimum distance of undisturbed earth
+between disposal trenches ................ 8 feet
+b) The bottom of the disposal trench shall be level within
+a tolerance of plus or minus one ( 1) inch.
+c) When the sidewall within the disposal trench has been
+smeared or compacted, sidewalls shall be raked to insure
+permeability.
+d) Trenches shall not be constructed in a manner that would
+allow septic tank effluent to flow backwards from the
+distribution pipe to undermine the distribution box, the
+septic tank, or any portion of the distribution unit.
+e) Filter material shall extend the full width and length of
+the disposal trench to a depth of not less than twelve ( 12)
+inches. There shall be at least six ( 6) inches of filter
+material under the distribution pipe and at least two ( 2)
+inches over the distribution pipe.
+f) Prior to backfilling the trench, the filter material shall
+be covered with filter fabric, untreated building paper,
+or other material approved by the Agent.
+g) Where trenches are installed in loamy sand or coarser soils,
+filter fabric or other non - degradable material approved by
+SSRULE. 1 ( 9- 16- 86) I1- 54 Osr- Site Sewage Disposal
+0107 1911
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+the Agent shall be used to line the trench sidewall and
+cover the filter material.
+9) Trench Backfill:
+a) The installer shall assume responsibility for backfilling
+the system. Backfill shall be carefully placed to prevent
+damage to the system.
+b) A minimum of six ( 6) inches of backfill is required, except
+in serial systems where twelve ( 12) inches is required.
+c) Backfill shall be free of large stones, frozen clumps of
+earth, masonry, stumps, or waste construction materials,
+or other materials that could damage the system.
+10) Header Pipe. ( Rule 340- 73- 060) Header pipe shall be watertight,
+have a minimum diameter of four ( 4) inches, and be bedded on
+undisturbed earth. Where distribution boxes or drop boxes are
+used, header pipe shall be at least four ( 4) feet in length.
+11) Distribution Pipe ( Rule 340- 73- 060):
+a) Distribution pipes shall have a minimum diameter of four
+4) inches.
+b) Each disposal trench shall have distribution piping that
+is centered in the trench and laid level within a tolerance
+of plus or minus one ( 1) inch.
+c) Distribution piping, which complies with standards in Rule
+340- 73- 060, may consist of perforated bituminized fiber,
+perforated plastic, clay tile or concrete tile.
+d) All perforated pipe shall be installed with centerline
+markings up.
+e) Concrete tile and clay tile shall be laid with grade boards
+and with one- quarter ( 1/ 4) inch open joints. The top one-
+half ( 1/ 2) of the joints shall be covered with strips of
+treated building paper, tar paper, tile connectors, spacers,
+collars or clips, or other materials approved by the Agent.
+12) Effluent Sewer. ( Rule 340- 73- 060) The effluent sewer shall
+extend at least five ( 5) feet beyond the septic tank before
+connecting to the distribution unit. It shall be installed with
+a minimum fall of four ( 4) inches per one hundred ( 100) feet, but
+in no instance shall there be less than two ( 2) inches of fall
+from one end of the pipe to the other.
+SSRULE. 1 ( 9- 16- 86) 71- 55 On - Site Sewage Disposal
+nIRPARTMFW nF ENVIRONMENTAL Wa
+0.107 1.912.
+13) Large Systems. Systems with a projected daily sewage flow `
+greater than two thousand five hundred ( 2, 500) gallons shall
+be designed in accordance with requirements set forth in Rule
+340- 71- 520.
+SSRULE. 1 ( 9- 16- 86) 71- 56 On— Site Sewage Disposal
+0107 1913
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 260 ALTERNATIVE SYSTEMS, GENERAL.
+1) For the purpose of these rules " Alternative System" means any
+Commission approved on --site sewage disposal system used in lieu
+of the standard subsurface system.
+2) " Sewage Stabilization Ponds" and " Land Irrigation of Sewage" are
+alternative systems available through the Water Pollution Control
+Facilities ( WPCF) permit program.
+3) Unless otherwise noted, all rules pertaining to the siting,
+construction, and maintenance of standard subsurface systems
+shall apply to alternative systems.
+4) General Requirements:
+a) Periodic Inspection of Installed Systems. Where required by
+rule of the Commission, periodic inspections of installed
+alternative systems shall be performed by the Agent. An
+inspection fee may be charged.
+b) A report of each inspection shall be prepared by the Agent.
+The report shall list system deficiencies and correction
+requirements and timetables for correction. A copy of the
+report shall be provided promptly to the system owner.
+Necessary follow— up inspections shall be scheduled.
+SSRULE. 1 ( 9- 16- 86) 71- 57 Ow - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+im
+340- 71- 265 CAPPING FILLS. ( Diagrm 10)
+0107 1914
+1) For the purposes of this rule, " Capping Fill" means a system
+where the disposal trench effective sidewall is installed a
+minimum of twelve ( 12) inches into natural soil below a soil cap
+of specified depth and texture.
+2) Criteria for Approval. In order to be approved for a capping
+fill system, each site must meet all the following conditions:
+a) Slope does not exceed twelve ( 12) percent.
+b) Temporary water table is not closer than eighteen (
+18)
+inches to the ground surface at anytime during the year.
+A
+six ( 6) inch minimum separation must be maintained between
+the bottom of the disposal trench and the temporary water
+table.
+c) Where a permanent water table is present, a minimum four
+4) feet separation shall be maintained between the bottom
+of the disposal trench and the water table.
+d) Where material with rapid or very rapid permeability is
+present, a minimum eighteen ( 18) inches separation shall
+be maintained between the bottom of the disposal trench
+and soil with rapid or very rapid permeability.
+e) Effective soil depth is eighteen ( 18) inches or more below
+the natural soil surface.
+f) Soil texture from the ground surface to the layer that
+limits effective soil depth is no finer than silty clay
+1 oam .
+g) A minimum six ( 6) inch separation shall be maintained
+between the bottom of the disposal trench and the layer
+that limits effective soil depth.
+h) The system can be sized according to effective soil depth
+in Table 4.
+3) Installation Requirements. The cap shall be constructed pursuant
+to permit requirements. Unless otherwise required by the Agent,
+construction sequence shall be as follows:
+a) The soil shall be examined and approved by the Agent prior
+to placement. The texture of the soil used for the cap
+shall be of the same textural class, or of one textural
+class finer, as the natural topsoil.
+SSRULE. 1 ( 9- 16- 86) . 71- 58 On --Site Sewage Disposal
+9107 1915.
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+b) Construction of capping fills shall occur between June 1
+and October 1 unless otherwise allowed by the Agent. The
+upper eighteen ( 18) inches of natural soil must not be
+saturated or at a moisture content which causes loss of
+soil structure and porosity when worked.
+c) The disposal area and the borrow site shall be scarified to
+destroy the vegetative mat.
+d) The system shall be installed as specified in the
+construction permit. There shall be a minimum ten ( 10) feet
+of separation between the edge of the fill and the
+absorption facility.
+e) Fill shall be applied to the fill site and worked in so that
+the two ( 2) contact layers ( native soil and fill) are mixed.
+Fill material shall be evenly graded to a final depth of
+sixteen ( 16) inches over the gravel. Both initial cap and
+repair cap may be constructed at the same time.
+f) The site shall be landscaped according to permit conditions
+and be protected from livestock, automotive traffic or other
+activity that could damage the system.
+4) Required Inspections. The following minimum inspections shall be
+performed for each capping fill installed:
+a) Both the disposal area and borrow material must be inspected
+for scarification, soil texture, and moisture content, prior
+to cap construction.
+b) Pre— cover inspection of the installed absorption facility.
+c) After cap is placed, to determine that there is good contact
+between fill material and native soil ( no obvious contact
+zone visible), adequate depth of material, and uniform
+distribution of fill material.
+d) Final inspection, after Landscaping. A Certificate of
+Satisfactory Completion may be issued at this point.
+SSRULE. 1 ( 9- 16- 86) 71- 59 Oir Site Sewage Disposal
+0107 1916
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340= 71- 270 EVAPOTRANSPIRATION - ABSORPTION ( ETA) SYSTEMS. ( Diagram 6 & 7)
+1) For the purpose of these rules " Evapotranspiration - Absorption
+System" means an alternative system consisting of a septic tank
+or other treatment facility, effluent sewer and a disposal bed or
+disposal trenches, designed to distribute effluent for
+evaporation, transpiration by plants, and by absorption into the
+underlying soil.
+2) Criteria for Approval. Installation permits may be issued for
+evapotranspiration - absorption ( ETA) systems on sites that meet
+all of the following conditions:
+a) Mean annual precipitation does not exceed twenty- five ( 25)
+inches.
+b) There exists a minimum of thirty ( 30) inches of moderately -
+well to well drained soil. The subsoil at a depth of twelve
+12) inches and below shall be fine textured.
+c) Slope does not exceed fifteen ( 15) percent. Exposure may be
+taken into consideration.
+3) Criteria for System Design. ETA beds shall be designed under the
+following criteria: -
+a) Beds shall be sized using a minimum eight hundred fifty
+850) square feet of bottom surface area per one hundred
+fifty ( 150) gallons of projected daily sewage flow in areas
+where annual precipitation is fifteen ( 15) to twenty- five
+25) inches, or six hundred ( 600) square feet of bottom
+surface area per one hundred fifty ( 150) gallons of
+projected daily sewage flow in areas where annual
+precipitation is less than fifteen ( 15) inches.
+b) Beds shall be installed not less than twelve ( 12) inches nor
+deeper than twenty- four ( 24) inches into natural fine
+textured soil on the downhill side and not more than thirty-
+six ( 36) inches deep on the uphill side.
+c) A minimum of one ( 1) distribution pipe shall be placed in
+each bed.
+d) The surface shall to be seeded according to permit
+conditions.
+e) Other bed construction standards contained in Diagrams 6
+and 7 shall apply.
+SSRIILE. 1 ( 9- 16- 86) 71- 60 Oa -- Site Sewage Disposal
+0107 1917
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 275 PRESSURIZED DISTRIBUTION SYSTEMS.
+1) Pressurized distribution systems may be permitted on any site
+meeting requirements for: installation of standard subsurface
+sewage disposal systems, or other sites where this method of
+effluent distribution is desired.
+2) Except as provided in OAR 340- 71- 220( 2)( c), pressurized
+distribution systems shall be used where depth to soil as defined
+in OAR 340- 71- 100( 114) ( a) and ( b) is less than thirty- six ( 36)
+inches and the minimum separation distance between the bottom of
+the disposal trench and soil as defined in OAR 340- 71- 100( 114)
+a) and ( b) is less than eighteen ( 18) inches.
+3) Pressurized distribution systems installed in soil as defined in
+OAR 340- 71- 100( 114)( a) and ( b) in areas with permanent water
+tables shall not discharge more than four hundred fifty ( 450)
+gallons of effluent per one- half ( 1/ 2) acre per day except where:
+a) A split waste system is proposed to serve a single family
+dwelling on ' -a lot of record existing prior to
+January 1, 1974, which has sufficient area to accommodate a
+gray water pressurized distribution split waste system;
+or
+b) Groundwater is degraded and designated as a nondevelopable
+resource by the State Department of Water Resources;
+or
+c) A detailed hydrogeological study discloses loading rates
+exceeding four hundred fifty ( 450) gallons per one- half
+1/ 2) acre per day would not increase the nitrate - nitrogen
+concentration in the groundwater beneath the site, or at
+any down gradient location, above five ( 5) milligrams per
+liter.
+4) Materials and Construction:
+a) General:
+A) All materials used in pressurized systems shall be
+structurally sound, durable, and capable of withstanding
+normal stresses incidental to installation and operation.
+B) Nothing in these rules shall be construed to set aside
+applicable building, electrical, or other codes. An
+electrical permit and inspection from the Department
+of Commerce or the municipality with jurisdiction (
+as
+defined in ORS 456. 750( 5)) is required for pump wiring
+installation.
+SSRULE. 2 ( 9- 16- 86) 71- 61 On - Site Sewage Disposal
+0107 1918
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+b) Pressurized Distribution Piping. Piping, valves and
+fittings for pressurized systems shall meet the following
+minimum requirements:
+A) All pressure transport, manifold, lateral piping, and
+fittings shall meet or exceed the requirements for
+Class 160 PVC 1120 pressure pipe as identified in ASTM
+Specification D2241.
+B) Pressure transport piping shall be uniformly supported
+along the trench bottom, and at the discretion of the
+Agent, it shall be bedded in sand or other material
+approved by the Agent. A fourteen ( 14) gauge tracer
+wire shall be placed above piping when crossing property
+lines or entering public property or right of way.
+C) Orifices shall be located on top of the pipe,
+except
+in areas of extended frozen soil conditions in which
+case the Agent may specify orifice orientation.
+D) The ends of lateral piping shall be provided with
+threaded plugs or caps.
+E) All joints in the manifold, lateral piping, and fittings
+shall be solvent welded, using the appropriate joint
+compound for the pipe material. Pressure transport
+piping may be solvent welded or rubber ring jointed.
+F) A gate valve shall be placed on the pressure transport
+pipe, in or near the dosing tank, when appropriate.
+G) A check valve shall be placed between the pump and
+the gate valve, when appropriate.
+c) Disposal Trench Sizing and Construction:
+A) A system using disposal trenches shall be designed and
+sized in accordance with the requirements of OAR
+340- 71- 220( 3).
+B) Disposal trenches shall be constructed using the speci-
+fications for the standard disposal trench unless other-
+wise allowed by the Department on a case- by- case basis.
+C) Pressure lateral piping shall have not less than six
+6) inches of filter material below, nor less than
+four ( 4) inches of filter material above the piping.
+D) The sides of the trench and top of the filter material
+shall be lined or covered with filter fabric, or other,
+SSRDLE. 2 ( 9- 16- 86) 71- 62 On - Site Sewage Disposal
+0107 1919
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+1' nondegradable material permeable to fluids that will
+not allow passage of soil particles coarser than very
+fine sand. In soils finer textured than loamy sand,
+lining the sidewall may not be required.
+d) Seepage Bed Construction:
+A) Seepagebeds may only be used in soil as defined in OAR
+340- 71- 100( 114)( a) and ( b) as an alternative to the
+use of disposal trenches.
+B) The effective seepage area shall be based on the bottom
+area of the seepage bed. The minimum area shall be
+determined as follows:
+Seepage Bed Area = R x F x S
+Where:
+R =
+BOD5of Wastewater divided by 200 mg/ L, or TSS of
+Wastewater divided by 150 mg/ L, whichever has the
+higher value. In no case, however, may the value
+of R be less than 1.
+F = Design Peak Daily SewageFlow in gallons divided by
+150 gallons.
+S = Size factor. Seepage beds shall use a factor of
+200 square feet.
+C) Beds shall be installed not less than eighteen ( 18)
+inches ( twelve ( 12) inches with a capping fill) nor
+deeper than thirty- six ( 36) inches into the natural
+soil. The seepage bed bottom shall be level.
+D) The top of the filter material shall be lined or
+covered with filter fabric, or other nondegradable
+material that is permeable to fluids but will not allow
+passage of soil particles coarser than very fine sand.
+E) Pressurized distribution piping shall have not less than
+six ( 6) inches of filter material below, nor less than
+four ( 4) inches of filter material above the piping.
+F) Pressurized distribution piping shall be horizontally
+spaced not more than four ( 4) feet apart, and not more
+than two ( 2) feet away from the seepage bed sidewall.
+At least two ( 2) parallel pressurized distribution
+pipes shall be placed in the seepage bed.
+SSRULE. 2 ( 9- 16- 86) 71- 63 on - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+G) A minimum of ten ( 10) feet of undisturbed earth shall
+be maintained between seepage beds.
+e) Notwithstanding other requirements of this rule,
+when the
+projected daily sewage flow is greater than two thousand
+five hundred ( 2500) gallons the Department may approve other
+design criteria and standards it deems appropriate.
+5) Hydraulic Design Criteria. Pressurized distribution systems
+shall be designed for appropriate head and capacity:
+a) Head calculations shall include maximum static lift,
+pipe
+friction and orifice head requirements:
+A) Static lift where pumps are used shall be measured from
+the minimum dosing tank level to the level of the
+perforated distribution piping.
+B) Pipe friction shall be based upon a Hazen Williams
+coefficient of smoothness of 150. All pressure lateral
+piping and fittings shall have a minimum diameter of
+two ( 2) inches unless submitted plans and specifica-
+tions show a smaller diameter pipe is adequate. The
+head loss across a lateral with multiple evenly spaced
+orifices may be considered equal to one- third ( 1/ 3) of
+the head loss that would result if the entrance flow
+were to pass through the length of the lateral.
+C) There shall be a minimum head of five ( 5) feet at the
+remotest orifice and no more than a fifteen ( 15)
+percent head variation between nearest and remotest
+orifice in an individual unit.
+b) The capacity of a pressurized distribution system refers to
+the rate of flow given in gallons per minute (
+gpm):
+A) Lateral piping shall have discharge orifices drilled a
+minimum diameter of one- eighth ( 1/ 8) inch, and evenly
+spaced at a distance not greater than twenty- four ( 24)
+inches in coarse textured soils or greater than four
+4) feet in finer textured soils.
+B) The system shall be dosed at a rate not to exceed
+twenty ( 20) percent of the projected daily sewage flow.
+C) The affect of back drainage of the total volume of
+effluent within the pressure distribution system shall
+be evaluated for its impact upon the dosing tank and
+system operation.
+SSRIILE. 2 ( 9- 16- 86) 71- 64 On - Site Sewage Disposal
+0107 1921;
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 280 SEEPAGE TRENCH SYSTEM.
+1) For the purpose of these rules " Seepage Trench System" means a
+system with disposal trenches with more than six ( 6) inches of
+filter material below the distribution pipe.
+2) Criteria for Approval. Contruction permits may be issued by
+the Agent for seepage trench systems on lots created prior to
+January 1, 1974, for sites that meet all the following
+conditions:
+a) Groundwater degradation would not result.
+b) Lot or parcel is inadequate in size to accommodate standard
+subsurface system disposal trenches with a projected flow
+of four hundred fifty ( 450) gallons per day.
+c) All other requirements for standard subsurface systems can
+be met.
+3) Design Criteria:
+a) The seepage trench may have a maximum depth of forty- two
+42) inches;
+b) The seepage trench system shall be sized according to the
+following formula:
+Length of seepage trench = ( 4) x ( length of standard
+disposal trench) divided by ( 3 + 2D). where D = depth of
+filter material below distribution pipe in feet. Maximum
+depth of filter material ( D) shall be two ( 2) feet.
+c) The projected daily sewage flow shall be limited to a
+maximum of four hundred fifty ( 450) gallons.
+SSRULE. 2 ( 9- 16- 86) 71- 65 On - Site Sewage Disposal
+0107 192
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 285 REDUNDANT SYSTEMS. ( Diagraa 11)
+1) For the purpose of these rules " Redundant Disposal Field System"
+means a system in which two ( 2) complete disposal systems are
+installed, the disposal trenches of each system alternate with
+each other and only one system operates at any given time.
+2) Criteria for Approval. Construction installation permits may
+be issued by the Agent for redundantdisposal field systemsto
+serve single family dwellings on sites that meet all the
+following conditions:
+a) The lot or parcel was created prior to January 1,
+1974,
+and
+b) There is insufficient area to accommodate a standard
+system.
+3) Design Criteria:
+a) Each redundant disposal system shall contain two (
+2)
+complete disposal fields.
+b) Each disposal field shall be adequate in size to accommodate
+the projected daily sewage flow from the dwelling.
+c) A minimum separation of ten ( 10) feet ( twelve ( 12) feet
+on centers) shall be maintained between disposal trenches
+designed to operate simultaneously, and a minimum separation
+of four ( 4) feet ( six ( 6) feet on centers) shall be
+maintained between adjacent disposal trenches.
+SSRULE. 2 ( 9- 16- 86) 71- 66 Olt - Site Sewage Disposal
+9197 1923
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+T
+340- 71- 290 CONVENTIONAL SAND FILTER SYSTEMS.
+1) For the purpose of these rules:
+a) " Conventional sand filter" means a filter with two ( 2) feet
+or more of medium sand designed to filter and biologically
+treat septic tank or other treatment unit effluent from a
+pressure distribution system at an application rate not to
+exceed one and twenty- three hundredths ( 1. 23) gallons per
+square foot sand surface area per day, applied at a dose not
+to exceed twenty ( 20) percent of the projected daily sewage
+flow.
+b) " Medium sand" means a mixture of sand with 100 percent
+passing the 3/ 8 inch sieve, 90 percent to 100 percent
+passing the No. 4 sieve, 62 percent to 100 percent passing
+the No. 10 sieve, 45 percent to 82 percent passing the No.
+16 sieve, 25 percent to 55 percent passing the No. 30 sieve,
+5 percent to 20 percent passing the No. 50 sieve, 10 percent
+or less passing the No. 60 sieve, 4 percent or less passing
+the No. 100 sieve.
+c) " Sand filter system" means the combination of septic tank
+or other treatment unit, a dosing system with effluent
+pump and controls, or dosing siphon, piping and fittings,
+sand filter, and absorption facility used to treat and
+dispose of sewage.
+2) Inspection Requirements. Each sand filter system installed under
+this rule, and those filters installed under OAP. 340- 71- 038,
+may be inspected annually. The Agent may waive the annual
+evaluation fee during years when sand filter field evaluation
+work is not performed.
+3) Sites Approved for Sand Filter Systems. Sand filters may be
+permitted on any site meeting requirements for standard
+subsurface sewage disposal systems contained under OAR
+340- 71- 220, or where standard or pressurized disposal trenches
+would be used, and all the following minimum site conditions can
+be met:
+a) The highest level attained by temporary water would be:
+A) Twelve ( 12) inches or more below ground surface where
+gravity equal distribution trenches are used.
+Pressurized distribution trenches may be used to
+achieve equal distribution on slopes up to twelve ( 12)
+percent; or
+SSRULE. 2 ( 9- 16- 86) 71- 67 On - Site Sewage Disposal
+DEPARTMENT NVIRONMENTAL QUALITY Water Quality Yrograt
+B) Twelve ( 12) inches or more below ground surface on
+sites requiring serial distribution where disposal
+trenches are covered by a capping fill,
+provided:
+trenches are excavated twelve ( 12) inches into the
+original soil profile, slopes are twelve ( 12) percent
+or less, and the capping fill is constructed according
+to provisions under OAR 340- 71- 265( 3) and 340- 71-
+265( 4)( a) through ( c); or
+C) Eighteen ( 18) inches or more below ground surface
+on sites requiring serial distribution where standard
+serial distribution trenches are used..
+b) The highest level attained by a permanent water table would
+be equal to or more than distances specified as follows:
+Minimum Separation
+Distance from Bottom
+Soil Groups Effective Seepage Area
+A) Gravel, sand, loamy sand, sandy 24 inches
+loam
+B) Loam, silt loam, sandy 18 inches
+clay loam, clay loam
+C) Silty clay loam, silty 12 inches
+clay, clay, sandy clay
+NOTE: Shallow disposal trenches ( placed not
+less than twelve ( 12) inches into the original
+soil profile) may be used with a capping fill
+to achieve separation distances from permanent
+groundwater. The fill shall be placed in
+accordance to the provisions of OAR 340- 71-
+265( 3) and 340- 71- 265( 4)( a) through ( c) .
+c) Permanent water table levels shall be determined in
+accordance with methods contained in subsection
+340- 71- 220( 1)( d). Sand filters installed in soils as
+defined in OAR 340- 71- 100( 114), in areas with permanent
+water tables shall not discharge more than four hundred
+fifty ( 450) gallons of effluent per one- half ( 1/ 2) acre per
+day except where:
+A) A split waste system is proposed to serve a single
+family dwelling on a lot of record existing prior to
+January 1, 1974, which has sufficient area to
+SSRULE. 2 ( 9- 16- 86) 71- 68 On - Site Sewage Disposal
+01.07 1925
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+accommodate a gray water sand filter split waste
+system, or
+B) Groundwater is degraded and designated as a
+non - developable resource by the State Department of
+Water Resources, or
+C) A detailed hydrogeological study discloses loading
+rates exceeding four hundred fifty ( 450) gallons per
+one- half ( 1/ 2) acre per day would not increase nitrate -
+nitrogen concentration in the groundwater beneath the
+site, or any down gradient location, above five ( 5)
+milligrams per liter.
+d) Soils, fractured bedrock or saprolite diggable with a
+backhoe occur such that a standard twenty- four ( 24) inch
+deep trench can be installed.
+e) Where slope is thirty ( 30) percent or less.
+f) Setbacks in Table 1 can be met, except the minimum
+separation distance between the sewage disposal area and
+surface public waters shall be no less than fifty ( 50) feet.
+4) The minimum length of standard disposal trench per one hundred
+fifty ( 150) gallons projected daily sewage flow required for a
+sand filter absorption facility is indicated in the following
+table:
+Soil Groups Linear Feet
+a) Gravel, sand, loamy sand, sandy loam ........ 35
+b) Loam, silt loam, sandy clay loam,
+clay loam ................................... 45
+c) Silty clay loam, silty clay,
+sandy clay, clay ............................ 50
+d) Saprolite or fractured bedrock .............. 50
+e) High shrink - swell clays ( Vertisols) ......... 75
+NOTE: - a- Disposal trenches in Vertisols shall
+contain twenty- four ( 24) inches of
+filter material and twenty- four ( 24)
+inches of - soil backfill.
+b- On lots created prior to January 1, 1974,
+that have insufficient suitable area
+within which to install an absorption
+SSRULE. 2 ( 9- 16- 86) 71- 69 Oa - Site Sewage Disposal
+01m 1926'
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality_ Program
+facility sized in accordance with this
+table, may at the Agent' s -discretion
+utilize seepage trenches, providing:
+the design criteria and limitations
+contained in OAR 340- 71- 280( 3) are met;
+the soil is not a high shrink - swell
+clay; and all other provisions of this
+rule are met except that a temporary
+water table shall be thirty ( 30) inches
+or more below the ground surface.
+5) Sites with saprolite, fractured bedrock. gravel or soil textures
+of sand, loamy sand, or sandy loam in a continuous section at
+least two ( 2) feet thick in contact with and below the bottom of
+the sand filter, that meet all other requirements of section
+340- 71- 290( 3), mayutilize either a conventional sand filter
+without a bottom or a sand filter in a trench that discharges
+biologically treated effluent directly into those
+materials. The
+application rate shall be based on the design sewageflow in OAR
+340- 71- 295( 1) and the basal area of the sand in either type of
+sand filter. A minimum twenty- four ( 24) inch separation shall be
+maintained between a water table and the bottom of the sand
+filter.
+6) Materials and Construction:
+a) All materials used in sand filter system construction shall
+be structurally sound, durable and capable of withstanding
+normal installation and operation stresses. Component parts
+subject to malfunction or excessive wear shall be readily
+accessible for repair and replacement.
+b) All filter containers shall be placed over a stable level
+base.
+c) In areas of temporary groundwater at least twelve ( 12)
+inches of unsaturated soil shall be maintained between the
+bottom of the sand filter and top of the disposal trench.
+d) Piping and fittings for the sand filter distribution system
+shall be as required under pressure distribution systems,
+OAR 340- 71- 275.
+e) The specific requirements for septic tanks, dosing tanks,
+etc. are found in OAR 340- 71- 220.
+f) The requirements in OAR 340- 71- 295 shall be met.
+SSRULE. 2 ( 9- 16- 86) 71- 70 Ott - Site Sewage Disposal
+0107 1927
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 295 CONVENTIONAL SAND FILTER DESIGN AND CONSTRUCTION.
+Diagrams 8 and 9)
+1) Sewage Flows:
+a) Design sewage flows for a system proposed to serve a
+commercial facility shall be limited to six hundred ( 600)
+gallons or less, with a wastewater strength not to exceed a
+BODSof two
+hundred ( 200) mg/L and a TSS of one hundred
+fifty ( 150) mg/L per day unless otherwise authorized in
+writing by the Department.
+b) Design sewage flows for a system proposed to serve a single
+family dwelling shall be in accordance with the provisions
+of OAR ' 340- 71- 220( 3)( a).
+2) Minimum Filter Area.
+a) A sand filter proposed to serve a single family dwelling
+shall have an effective medium sand surface area of not less
+than three hundred sixty- six ( 366) square feet. If the
+design sewage flow exceeds four - hundred fifty ( 450) gallons
+per day, the medium sand surface area shall be determined
+with the following equation:
+Area = ( projected daily sewage flow) divided by ( 1. 23)
+b) A sand filter proposed to serve a commercial facility shall
+be sized on the basis of projected peak daily sewage flow
+and the strength of the wastewater,. using the following
+equation:
+Area = ( projected peak daily sewage flow)
+x ( R) divided by
+1. 23)
+where R = BODSof Wastewater divided by 200 mg/ L, or TSS of
+Wastewater divided by 150 mg/ L, whichever has the higher
+value. In no case, however, may the value of R be less than
+one ( 1).
+3) Sand filter container, piping, medium sand, gravel, gravel cover,
+and soil crown material for a sand filter system discharging to
+disposal trenches shall meet minimum specifications indicated in
+Diagrams 8 and 9 unless otherwise authorized in writing by the
+Department.
+4) Container Design . and Construction:
+a) A reinforced concrete container consisting of floor and
+walls as shown in Diagrams 8 and 9 is required where water
+SSRULE. 2 ( 9- 16- 86) 71- 71 On - Site Sewage Disposal
+0107 1.928
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+tightness is necessary to prevent groundwater from
+infiltrating into the filter..
+b) Container may be constructed of materials other than
+concrete where equivalent function, workmanship,
+watertightness and at least a twenty ( 20) year service life
+can be documented:
+A) Flexible membrane liner ( FML) materials must have
+properties which are at least equivalent to thirty ( 30)
+mil unreinforced polyvinyl chloride ( PVC) described in
+OAR 340- 73- 085. To be approved for filter installa-
+tion. FML materials must:
+i) Have field repair instructions and materials which
+are provided to the purchaser with the liner;
+and
+ii) Have factory fabricated " boots" suitable for field
+bonding onto the liner to facilitate the passage
+of piping through the liner in a waterproof
+manner.
+B) Where accepted for use, flexible sheet membrane liners
+shall be placed against relatively smooth,
+regular
+surfaces. Surfaces shall be free of sharp edges,
+corners, roots, nails, wire, splinters and other
+projections which might puncture, tear, or cut the
+liner. Where a smooth, uniform surface cannot be
+assured in the field, filter system plans must include
+specifications for liner protection. A four ( 4) inch
+bed of clean sand or a non -degradable filter fabric
+acceptable to the Agent, shall be used to provide liner
+protection.
+SSRULE. 2 ( 9- 16- 86) 71- 72 Otr• Site. Sewage Disposal
+010' 7 1929
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 300 OTHER SAND FILTER DESIGNS.
+1) Other sand filters which vary in design from the conventional
+sand filter may be authorized by the Department if they can be
+demonstrated to produce comparable effluent quality.
+2) Pre - Application Submittal. Prior to applying for a construction
+permit for a variation to the conventional sand filter the
+Department must approve the design. To receive approval the
+applicant shall submit the following required information to
+the Department:
+a) Effluent quality data. Filter effluent quality samples
+shall be collected and analyzed by a testing agency
+acceptable to the Department using procedures identified
+in the latest edition of " Standard Methods for the
+Examination of Wastewater," published by the American Public
+Health Association, Inc. The duration of filter effluent
+testing shall be sufficient to ensure results are reliable
+and applicable to anticipated field operating conditions.
+The length of the evaluation period and number of data
+points shall be specified in the test report. The following
+parameters shall be addressed:
+A) BODS;
+B) TSS;
+C) Fecal coliform;
+D) Nitrogen ( Ammonia, Nitrate and Total Kjeldahl Nitrogen).
+b) A description of unique technical features and process
+advantages.
+c) Design criteria, loading rates, etc.
+d) Filter media characteristics.
+e) A description of operation and maintenance details and
+requirements.
+f)' Any additional information specifically requested by the
+Department.
+3) Construction Procedure. Following pre - application approval,
+a permit application shall be submitted in the usual manner.
+Applications shall include applicable drawings, details and
+written specifications to fully describe proposed construction
+and allow system construction by contractors. Included must
+SSRULE. 2 ( 9- 16- 86) 71- 73 Oa -- Site Sewage Disposal
+0167 1930
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program `
+be the specific site details peculiar to that application,
+including soils data, groundwater type and depth, slope,
+setbacks, existing structures, wells, roads, streams, etc.
+Applications shall include a manual for homeowner operation and
+maintenance of the system.
+SSRULE. 2 ( 9- 16- 86) 71- 74 Orr - Site Sewage Disposal
+0107 1931'
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 305 SAND FILTER SYSTEM OPERATION AND MAINTENANCE -
+1) Sand filter operation and maintenance tasks and requirements
+shall be as specified on the Certificate of Satisfactory
+Completion. Where a conventional sand filter system or other
+sand filter system with comparable operation and maintenance
+requirements is used, the system owner shall be responsible for
+the continuous operation and maintenance of the system.
+2) The owner of any sand filter system shall provide the Agent
+written verification that the system' s septic tank has been
+pumped at least once each forty- eight ( 48) months by a licensed
+sewage disposal service business. Service start date shall be
+assumed to be the date of issuance of the Certificate of
+Satisfactory Completion. The owner shall provide the Agent
+certification of tank pumping within two ( 2) months of the date
+required for pumping.
+3) No permit shall be issued for the installation of any other sand
+filter which in the judgment of the Department would require
+operation and maintenance significantly greater than the
+conventional sand filter unless arrangements for system operation
+and maintenance meeting the approval of the Director have been
+made which will ensure adequate operation and maintenance of the
+system. Each permitted installation may be inspected by the
+Agent at least every twelve ( 12) months and checked for necessary
+corrective maintenance. The Agent may waive the annual system
+evaluation fee during years when the field evaluation work is not
+performed.
+SSRULE. 2 ( 9- 16- 86) 71- 75 On - Site Sewage Disposal
+0107 1932
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 310 STEEP SLOPE SYSTEMS.
+1) General conditions for approval. An on -- site system construction
+permit may be issued by the Agent for a steep slope system to
+serve a single- family dwelling on slopes in excess of thirty ( 30)
+percent provided all the following requirements can be met:
+a) Slope does not exceed forty- five ( 45) percent.
+b) The soil is well drained with no evidence of saturation.
+c) The soil has a minimum effective soil depth of sixty ( 60)
+inches.
+2) Construction Requirements:
+a) Seepage trenches shall be installed at a minimum depth of
+thirty ( 30) inches and at a maximum depth of thirty- six ( 36)
+inches below the natural soil surface on the downhill side
+of the trench, and contain a minimum of eighteen ( 18) inches
+of filter material and twelve ( 12) inches of native soil
+backfill.
+b) The system shall be sized at a minimum of seventy- five ( 75)
+linear feet per one hundred fifty ( 150) gallons projected
+daily sewage flow.
+SSRULE. 2 ( 9- 16- 86) 71- 76 Oa - Site Sewage Disposal
+0197 1.933
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 315 TILE DEWATERING SYSTEM.
+1) General conditions for approval. On- site system construction
+permits may be issued by the Agent for tile dewatering systems.
+provided the following requirements can be met:
+a) The site has a natural outlet that will allow a field tile
+installed on a proper grade around the proposed absorption
+facility to daylight above annual high water.
+b) Soils must be silty clay loam or coarser textured and be
+drainable, with a minimum effective soil depth of at least
+thirty ( 30) inches in soils with temporary groundwater,
+and
+at least seventy- two ( 72) inches in soils with permanent
+groundwater.
+c) Slope does not exceed three ( 3) percent.
+d) All other requirements for the system, except depth to
+groundwater, can be met. However, after the field
+collection drainage tile is installed, the groundwater
+levels shall conform to the requirements of OAR
+340- 71- 220( 2) or 340- 71- 290( 3).
+2) Construction Requirements:
+a) Field collection drainage tile shall be installed on a
+uniform grade of two- tenths to four - tenths ( 0. 2- 0. 4) feet of
+fall per one hundred ( 100) feet, and either
+A) A minimum of thirty- six ( 36) inches deep in soils with
+temporary groundwater, or
+B) A minimum of sixty- six ( 66) inches deep in soils with
+permanent groundwater.
+b) Maximum drainage tile spacing shall be seventy ( 70) feet
+center to center.
+c) Minimum horizontal separation distance between the drainage
+tile and absorption facility shall be twenty ( 20) feet.
+d) Field collection drainage tile shall be rigid smooth wall
+perforated pipe with a minimum diameter of four ( 4) inches.
+e) Field collection drainage tile shall be enveloped in clean
+filter material to within thirty ( 30) inches of the soil
+surface in soils with permanent groundwater, or to within
+twelve ( 12) inches of the soil surface in soils with
+temporary groundwater. Filter material shall be covered
+SSRULE. 2 ( 9- 16- 86) 71- 77 Ow - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL Water Qua, 0
+g194
+with filter fabric, treated building paper or other
+nondegradable material approved by the Agent.
+f) Outlet tile shall be rigid smooth wall solid PVC pipe with a
+minimum diameter of four ( 4) inches. The outlet end shall
+be protected by a short section of Schedule 80 PVC or ABS or
+metal pipe, and a flap gate or grill to exclude rodents.
+g) A silt trap with a thirty ( 30) inch minimum diameter shall
+be installed between the field collection drainage the and
+the outlet pipe unless otherwise authorized by the
+Department. The bottom of the silt trap shall be a minimum
+twelve ( 12) inches below the invert of the drainage pipe
+outlet.
+h) The discharge pipe and tile drainage system are integral
+parts of the system, but do not need to meet setback
+requirements to property lines.
+streams, lakes, ponds or
+other surface water bodies.
+i) The Agent has the discretion of requiring demonstration that
+a proposed tile dewatering site can be drained prior to
+issuing a Construction— Installation permit.
+j) The absorption facility shall use equal or pressurized
+distribution.
+SSRULE. 2 ( 9- 16- 86) 71- 78 Oa -- Site Sewage Disposal
+DEP. OF ENV
+340- 71- 320 SPLIT WASTE SYSTEMS. .
+Water ualit ` P rim 193
+1) - For the purpose of these rules:
+a) " Split waste system" means a system where " black waste"
+sewage and " gray water" sewage from the same dwelling or
+building are disposed of by separate methods.
+b) ' Black waste" means human body wastes including feces,
+urine, other extraneous substances of body origin and toilet
+paper.
+c) " Gray water" means household sewage other than " black
+wastes", such as bath water, kitchen waste water and laundry
+wastes.
+2) Criteria for Approval. In split waste systems wastes may be
+disposed of as follows:
+a) Black wastes may be disposed of by the use of State
+Department of Commerce approved nonwater- carried plumbing
+units such as recirculating oil flush toilets or compost
+toilets.
+b) Gray water may be disposed of by discharge to:
+A) An existing on- site system which is not failing;
+or
+B) A new on- site system with a soil absorption facility
+two- thirds ( 2/ 3) normal size. A full size initial
+disposal area and replacement disposal area of equal
+size are required; or
+C) A public sewerage system.
+SSRULE. 2 ( 9- 16- 86) 71- 79 On - Site Sewage Disposal
+0107 1936.
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 325 GRAY WATER. WASTE DISPOSAL SUMPS. ( Diagrams 14 and 15)
+1) For the purpose of these rules " gray water waste disposai' sump"
+means a series of receptacles designed to receive hand - carried
+gray water for disposal into the soil.
+2) Criteria for Approval:
+a) Hand -carried gray water may be disposed of in gray water
+waste disposal sumps which serve facilities such as
+recreation parks, camp sites, seasonal dwellings, or
+construction sites where the projected daily gray water flow
+does not exceed ten ( 10) gallons per unit. Gray water or
+other sewage shall not be piped to the gray water waste
+disposal sump. Where projected daily sewage flow exceeds
+ten ( 10) gallons per unit, gray water shall be disposed of
+in facilities meeting requirements of OAR340- 71- 320( 2)( b).
+b) Gray water sumps may be used only where soil conditions are
+approved for such use by the Agent.
+3) In campgrounds or other public use areas, gray water waste
+disposal sumps shall be identified as " sink waste disposal" by
+placard or sign in letters not less than three ( 3) inches in
+height and in a color contrasting with the background.
+SSRULE. 2 ( 9- 16- 86) 71- 80 Oa - Site Sewage Disposal
+0107 1937
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+a
+340- 71- 330 NONWATER- CARRIED SYSTEMS.
+1) For the purpose of these rules:
+a) Nonwater- carried waste disposal facility" means any toilet
+facility which has no direct water connection, including pit
+privies, vault privies and portable toilets.
+b) " Privy" means a structure used for disposal of human waste
+without the aid of water. It consists of a shelter built
+above a pit or vault in the ground into which human waste
+falls.
+c) " Portable toilet" means any self- contained chemical toilet
+facility that is housed within a portable toilet shelter,
+and includes but is not limited to construction - type
+chemical toilets.
+2) No person shall cause or allow the installation or use of a '
+nonwater- carried waste disposal facility without prior written
+approval of the Agent.
+EXCEPTIONS:
+a- Temporary use pit privies used on farms for farm labor shall
+be exempt from approval requirements.
+b- Sewage Disposal Service business licensed pursuant to OAR
+340- 71- 600 may install portable toilets without written
+approval of the Agent, providing all other requirements of
+this rule are met.
+3) Non -water carried waste disposal facilities may be approved for
+temporary or limited use areas, such as recreation parks, camp
+sites, seasonal dwellings, farm labor camps, or construction
+sites, provided all liquid wastes can be handled in a manner to
+prevent a public health hazard and to protect public waters,
+provided further that the separation distances in Table 8 can be
+met.
+EXCEPTION: The use of portable toilets shall not be
+allowed for seasonal dwellings.
+4) Construction. Nonwater- carried waste disposal facilities shall
+be constructed in accordance with requirements contained in Rules
+340- 73- 065 through 340- 73- 075.
+5) Maintenance. Nonwater- carried waste disposal facilities shall be
+maintained to prevent health hazards and pollution of public
+waters.
+SSRULE. 2 ( 9- 16- 86) 71- 81 Or - Site Sewage Disposal
+010' 103 8.
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+6) General. No water - carried sewage shall be placed in nonwatex-,
+carried waste disposal facilities. Contents of nonwater- carried
+waste disposal facilities shall not be discharged into storm
+sewers, on the surface of the ground or into public waters.
+7 ) Pit Privy:
+a) Unsealed earth pit type privies may be approved where the
+highest level attained by groundwater shall not be closer
+than four ( 4) feet to the bottom of the privy pit.
+b) The privy shall be constructed to prevent surface water from
+running into the pit.
+c) When the pit becomes filled to within sixteen ( 16) inches of
+the ground surface, a new pit shall be excavated and the old
+pit shall be backfilled with at least two ( 2) feet of earth.
+8) No person shall cause or allow the installation or use of a
+portable toilet unless the pumping or cleaning of the portable
+toilet is covered by a valid and effective contract with a person
+licensed pursuant to ORS 454. 695. Each portable toilet shall
+display the business name of the sewage disposal service that is
+responsible for servicing it.
+SSRULE. 2 ( 9- 16- 86) 71- 82 Otr- Site Sewage Disposal
+UIU 7 (;, Jj
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 335 CESSPOOLS AND SEEPAGE PITS. ( Diagrams 16 and 17)
+1) For the purpose of these rules:
+a) " Cesspool" means a lined pit which receives raw sewage,
+allows separation of solids and liquids, retains the solids
+and allows liquids to seep into the surrounding soil through
+perforations in the lining.
+b) " Seepage Pit" means a " cesspool" which has a treatment
+facility such as a septic tank ahead of it.
+2) Except as provided in OAR 340- 71- 401, construction of new
+cesspool sewage disposal systems in Oregon is prohibited.
+3) Seepage pit sewage disposal systems may be used only to serve
+existing sewage loads and replace existing failing seepage pit
+and cesspool systems on lots that are inadequate in size to
+accommodate a standard system or other alternative on -- site sewage
+systems. A construction - installation permit allowing replacement
+of the failing system shall not be issued if a sewerage system is
+both legally and physically available, as described in OAR
+340- 71- 160( 5)( f).
+4) Construction Requirements:
+a) Each seepage pit shall be installed in a location to
+facilitate future connection to a sewerage system when such
+facilities become available.
+b) Maximum depth of seepage pits shall be thirty- five ( 35) feet
+below ground surface.
+c) The seepage pit depth shall terminate at least four ( 4) feet
+above the water table.
+d) Other standards for seepage pit construction are as shown in
+diagrams 16 and 17.
+5) Notwithstanding the permit duration specified in section
+340- 71- 160( 9), a permit issued pursuant to this rule may be
+effective for a period of less than one ( 1) year from the date of
+issue if specified by the Agent.
+SSRULE. 2 ( 9- 16- 86) 71- 83 Ozr- Site Sewage Disposal
+0107 1940
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 340 HOLDIM TANKS.
+1) For the purpose of these rules " Holding Tank" means a watertight
+receptacle designed to receive and store sewage to facilitate
+disposal at another location.
+2) Criteria for Approval. Installation permits may be issued by the
+Agent for holding tanks on sites that meet all the following
+conditions:
+a) Permanent Use:
+A) The site is not approvable for installation of a
+standard subsurface system; and
+B) No community or area - wide sewerage system is available
+or expected to be available within five ( 5) years; and
+C) The tank is intended to serve a small industrial or
+commercial building, or an occasional use facility such
+as a county fair or a rodeo;
+and
+D) Unless otherwise allowed by the Department, the
+projected daily sewage flow is not more than two
+hundred ( 200) gallons; and
+E) Setbacks as required for septic tanks can be met.
+b) Temporary Use:
+A) In an area under the control of a city or other legal
+entity authorized to construct, operate, and maintain a
+community or area7- wide sewerage system, a holding tank
+may be installed provided the application for permit
+includes a copy of a legal commitment from the legal
+entity that within five ( 5) years from the date of the
+application the legal entity will extend to the
+property covered by the application a community or
+area - wide sewerage system meeting the requirements of
+the Commission, and provided further that the proposed
+holding tank will otherwise comply with the
+requirements of these rules; or
+B) Installation of an approved on- site system has been
+delayed by weather conditions; or
+C) The tank is to serve a temporary construction site.
+SSRULE. 2 ( 9- 16- 86) 71- 84 On - Site Sewage Disposal
+019' 7 1941
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+3) Generali
+a) No building may be served by more than one ( 1) holding tank.
+b) A single tax lot may be served by no more than one ( 1)
+holding tank unless the holding tanks are under control of a
+municipality as defined in ORS454. 010( 3).
+4) Design and Construction Requirements:
+a) Plans and specifications for each holding tank proposed to
+be installed shall be submitted to the Agent for review and
+approval.
+b) Each tank shall have a minimum liquid capacity of fifteen
+hundred ( 1, 500) gallons.
+c) Each tank shall:
+A) Comply with standards for septic tanks contained in
+Rules 340- 73- 025 and 340- 73- 030.
+B) Be located and designed to facilitate removal of
+contents by pumping.
+C) Be equipped with both an audible and visual alarm,
+placed in a location acceptable to the Agent, to
+indicate when the tank is seventy- five ( 75) percent of
+full. The audible alarm only may be user cancelable.
+D) Have no overflow vent at an elevation lower than the
+overflow level of the lowest fixture served.
+E) Be designed for antibuoyancy if test hole examination
+or other observations inidicate seasonally high
+groundwater may float the tank when empty.
+5) Special Requirements. The application for an installation permit
+shall contain:
+a) A copy of a contract with a licensed sewage disposal service
+company which shows the tank will be pumped periodically,
+at
+regular intervals or as needed, and the contents disposed of
+in a manner and at a facility approved by the Department.
+b) Evidence that the owner or operator of the proposed disposal
+facility will accept the pumpings for treatment and
+disposal.
+SSRULE. 2 ( 9- 16- 86) 71- 85 Oo- Site Sewage Disposal.
+010' 7 1942,
+DEPARTMENT OF ENVIROHIMENTAL QUALITY Water Quality Program
+c) A record of pumping dates and amounts pumped shall be
+maintained by both the treatment facility owner and the
+sewage disposal service, and upon request, made available to
+the Agent.
+6) Inspection Requirements. Each holding tank installed under this
+rule, and those tanks installed under OAR 340- 71- 037( 3), shall be
+inspected annually. An alternative system evaluation fee shall
+be charged for each annual inspection.
+SSRULE. 2 ( 9- 16- 86) 71- 86 Ott - Site Sewage Disposal
+0. 07 1943
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 345 AEROBIC SYSTEMS.
+1) For the purpose of these rules:
+a) " Aerobic Sewage Treatment Facility" means a sewage treatment
+plant which incorporates a means. of introducing air (
+oxygen)
+into the sewage so as to provide aerobic biochemical
+stabilization during a detention period.
+b) " Mechanical Oxidation Sewage Treatment Facility" means an
+aerobic sewage treatment facility.
+2) Criteria for Approval. Aerobic sewage treatment facilities may
+be approved for a construction - installation permit provided all
+the following criteria are met:
+a) The daily sewageflow to be treated is less than five
+thousand ( 5000) gallons.
+b) The aerobic sewage treatment facility ( plant) is part of an
+approved on- site sewage disposal system.
+c) The plant has been tested pursuant to the current version of
+the National Sanitation Foundation ( NSE) Standard No. 40,
+relating to Individual Aerobic Wastewater Treatment Plants,
+and been found to conform with Class I or Class II and other
+requirements of the standard. In lieu of NSE testing, the
+Department may accept testing by another agency which it
+considers to be equivalent.
+d) The property owner records in the county land title records,
+in a form approved by the Department, an easement and a
+covenant in favor of the State of Oregon.
+A) Allowing its officers,
+agents, employees and
+representatives to enter and inspect, including by
+excavation, the aerobic sewage treatment facility; and
+B) Acknowledging that proper operation and maintenance of
+the plant is essential to prevent failure of the entire
+on- site sewage disposal system; and
+C) Agreeing for himself and his heirs,
+successors and
+assigns, to hold harmless, indemnify and defend the
+State of Oregon, its officers, representatives,
+employees and agents for any and all loss and damage
+caused by installation or operation of the system;
+and
+D) Agreeing not to put the land to any conflicting use.
+SSRULE. 2 ( 9- 16- 86) 71- 87 Otr- Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+3) The plant shall:
+a) Have a visual and audible alarm, placed at a location
+acceptable to the Agent, which are activated upon an
+electrical or mechanical malfunction.
+b) Have a minimum rated hydraulic capacity equal to the daily
+sewage flow or five hundred ( 500) gallons per day, whichever
+is greater.
+c) Have aeration and settling compartments constructed of
+durable material not subject to excessive corrosion or
+decay.
+d) Have raw sewage screening or its equivalent.
+e) Have provisions to prevent surging of flow through the
+aeration and settling compartments.
+f) Have access to each compartment for inspection and
+maintenance.
+g) Have provisions for convenient removal of solids.
+h) Be designed to prevent:
+A) Short circuiting of flow.
+B) Deposition of sludge in the aeration compartment.
+C) Excessive accumulation of scum in the settling
+compartment.
+4) Disposal Field Sizing. Disposal fields serving systems employing
+aerobic sewage treatment facilities shall be sized according to
+Tables 4 and 5 of these rules. Where a NSF Class I plant is
+installed, the linear footage of disposal trench installed may be
+reduced by twenty ( 20) percent, provided a full sized standard
+system replacement area is available.
+5) Operation and Maintenance:
+a) The supply of parts must by locally available for the
+expected life of the unit.
+b) The supplier of the plant shall be responsible for providing
+operation training to the owner.
+SSMME. 2 ( 9- 16- 86) 71- 88 On - Site Savage Disposal
+DEPARMENT OF ENVIRONKM AL QUALITY water tjual3. ry rro
+c) The supplier of the plant shall provide the owner with an
+operation and maintenance ( 0 & M) manual for the specific
+plant installed.
+d) The owner shall remove excess solids from the plant at least
+once per year, or more frequently if recommended by the 0 &
+M manual.
+6) Inspection Requirements. Each aerobic sewage treatment facility
+installed under this rule shall be inspected by the Agent at
+least once per year ( See OAR 340- 71- 260( 4)( a)).
+SSRULE. 2 ( 9- 16- 86) 71- 89 On - Site Sewage Disposal
+W
+0107 1946
+DEPARMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 350 LOW - FLUSH TOILETS.
+Permits issued for installation of an on- site system shall allow a
+reduction of twenty- five ( 25) percent in the seepage area provided:
+1) The single family dwelling or commercial facility utilizes two
+2) quarts or less low volume flush toilets approved by the State
+Department of Commerce; and
+2) A full sized initial and replacement drainfield area is
+available.
+SSRULE. 2 ( 9- 16- 86) 71- 90 On - Site Sewage Disposal
+0107 1947
+DEPARTMENT OF ENVIRONMENTAL QUALITY Watei Quality Program
+340- 71- 355 GRAVEL - LESS DISPOSAL TRENCH SYSTMIS.
+1) Gravel - less disr^ ral trench systems may be permitted on any site
+providing:
+a) The site fully complies with the criteria for installation
+of a standard subsurface sewage disposal system,
+as
+identified in OAR 340- 71- 220( 2) and
+b) The site has sandy loam, loamy sand, or sand soil textures;
+and
+c) It serves a single family dwelling.
+2) Distribution pipes for gravel - less disposal trench systems shall
+conform to the requirements in OAR 340- 73- 060( 2)( f).
+3) Gravel - less disposal trench systems shall be constructed pursuant
+to the standards identified in OAR 340- 71- 220.
+EXCEPTIONS:
+a- The bottom trench width shall not be less than eighteen ( 18)
+inches wide; and
+b- The provisions of OAR 340- 71- 220( 8)( e), ( f), and ( g) are not
+applicable.
+SSRULE. 2 ( 9- 16- 86) 71- 91 Oa - Site Savage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 360 DISPOSAL TRENCHES IN SAPRCLITE. 010 7 1948
+1) General Conditions for Approval. An onsite system constructz. on-
+installation permit may be issued for a system to serve a single
+family dwelling on a site with soil shallow to saprolite
+provided requirements in either subsection ( a) or ( b) of this
+section can be met.
+a) Slope does not exceed thirty ( 30) percent:
+A) The saprolite is sufficiently weathered so that it can
+be textured, crushed, or broken with hand pressure to a
+depth of twenty- four ( 24) inches and can be dug from a
+test pit wall with a spade or other hand tool to a
+depth of forty- eight ( 48) inches; and
+B) Clay films or iron coatings with moist values of five
+5) or less and moist chromas of four ( 4) or more
+and/ or organic coatings with moist values of three ( 3)
+or less and moist chromas of two ( 2) or more occur on
+fracture surfaces of the saprolite to a depth of forty-
+eight ( 48) inches.
+b) Slope is in excess of thirty ( 30) percent but does not
+exceed forty- five ( 45) percent:
+A) - The saprolite is sufficiently weathered so that it can
+be textured, crushed, or broken with hand pressure to a
+depth of twenty- four ( 24) inches and can be dug from a
+test pit wall with a spade or other hand tool to a
+depth of sixty ( 60) inches; and
+B) Clay films or iron coatings with moist values of five
+5) or less and moist chromas of four ( 4) or more
+and/ or organic coatings with moist values of three ( 3)
+or less and moist chromas of two ( 2) or more occur on
+fracture surfaces of the saprolite to a depth of sixty
+60) inches.
+2) Construction Requirements.
+a) Standard disposal trenches shall be installed where slope
+does not exceed thirty ( 30) percent.
+A) Standard disposal trenches shall be installed at a
+minimum depth of twenty- four ( 24) inches and a maximum
+depth of thirty ( 30) inches below the natural soil
+surface and contain twelve ( 12) inches of filter
+material and a minimum of twelve ( 12) inches of native
+soil backfill.
+SSRULE. 2 ( 9- 16- 86) 71- 92 Ow. - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+B) Standard disposal trenches shall be sized at' a minimum
+of one hundred ( 100) linear feet per one hundred fifty
+150) gallons projected daily sewage flow.
+b) Seepage trenches shall be installed where slope is in excess
+of thirty ( 30) percent but does not exceed forty- five ( 45)
+percent.
+A) Seepage trenches shall be installed at a minimum depth
+of thirty ( 30) inches and at a maximum depth of thirty-
+six ( 36) inches below the natural soil surface and
+contain a minimum of eighteen ( 18) inches of filter
+material and twelve ( 12) inches of - native soil
+backfill.
+B) Seepage trenches shall be sized at a minimum of
+seventy- five ( 75) linear feet per one hundred fifty
+150) gallons of projected daily sewage flow.
+SSRULE. 2 ( 9- 16- 66) 71- 93 O= - Site Sewage Disposal
+0107 1.950
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 400 GEOGRAPHIC AREA SPECIAL CONSIDERATIONS.
+1) River Road - Santa Clara Area, Lane County:
+a) Within the areas set forth in subsection ( b) of this section
+the Agent may issue either construction permits for new
+subsurface sewage disposal systems or favorable reports
+of evaluation of site suitability to construct systems under
+the following circumstances:
+A) The system complies with all rules in effect at the
+time the permit is issued; and
+B) The system will not in itself contribute, or in
+combination with other new sources after
+April 18, 1980, contribute more than sixteen and seven
+tenths ( 16. 7) pounds nitrate - nitrogen per acre per year
+to the local groundwater. The applicant shall assure
+compliance with this condition by showing his ownership
+or control of adequate land through easements or
+equivalent.
+b) Subsection ( a) of this section shall apply to all of the
+following area generally known as River Road/ Santa Clara,
+and defined by the boundary submitted by the Board of County
+Commissioners for Lane County, which is bounded on the south
+by the city of Eugene, on the west by the Southern Pacific
+Railroad, on the north by Beacon Drive, and on the east
+by the Willamette River, and containing all or portions
+of T16S, R4W, sections 33. 34, 35, 36; T17S, R4W,
+sections 1, 2, 3, 4, 10, 11, 12, 13, 14, 15, 22, 23, 24,
+25; and T17S. R1E, sections 6. 7, 18, Willamette
+Meridian.
+c) This rule is subject to modification or repeal by the
+Commission on an area - by -area basis upon petition by the
+appropriate local agency or agencies. Such petition either
+shall provide reasonable evidence that development using
+subsurface sewage disposal systems will not cause
+unacceptable degradation of groundwater quality or surface
+water quality or shall provide equally adequate evidence
+that degradation of groundwater or surface water quality
+will not occur as a result of such modification or repeal.
+d) Subsections ( a) and ( b) of this section shall
+not apply to any construction permit application based on
+a favorable report of evaluation of site suitability issued
+by the Agent pursuant to ORS454. 755( 1)( b), where such
+report was issued prior to the effective date of this rule.
+SSRULE. 2 ( 9- 16- 86) 71- 94 On - Site Sewage Disposal
+0107 1951
+DEPARTMENT OF ENVIRON[ ENTAL QUALITY Water Quality Program
+2) General North Florence Aquifer, North Florence Dunal Aquifer
+Area, Lane County:
+a) Within the area set forth in subsection ( 2)( b) of this rule,
+the agent may issue construction permits f or new on- site
+sewage disposal systems or favorable reports of evaluation
+of site suitability to construct individual or community on-
+site sewage disposal systems under the following
+circumstances:
+A) The lot and proposed system shall comply with all rules
+in effect at the time the permit or favorable report of
+site suitability is issued; or
+B) The lot and proposed system complies with paragraph
+2( a)( A) of this rule, except for the projected daily
+sewage loading rates, and the system in combination
+with all other previously approved systems owned or
+legally controlled by the applicant shall be projected
+by the Department to contribute to the local
+groundwater not more than fifty- eight ( 58) pounds
+nitrate - nitrogen NO3-Nper year per acre owned or
+controlled by the applicant.
+b) Subsection ( 2)( a) of this rule shall apply to all of the
+following area hereby known as the General North Florence
+Aquifer of the North Florence Dunal Area and is defined by
+the hydrologic boundaries identified in the June 1982, 208
+North Florence Dunal Aquifer Study, which is the area
+bounded on the west by the Pacific Ocean; on the southwest
+and south by the Siuslaw River; on the east by the North
+Fork of the Siuslaw River and the ridge line at the
+approximate elevation of four hundred ( 400) feet above mean
+sea level directly east of Munsel Lake, Clear Lake and
+Collard Lake; and on the north by Mercer Lake, Mercer Creek,
+Sutton Lake and Sutton Creek; and containing all or portions
+of T17 S, R12W, sections 27, 28, 33, 34, 35, 36, and T18S,
+T12 W. sections 1, 2, 3, 4, 9, 10, 11, 12. 13, 14, 15, 16,
+22. 23, 24, 25. 26, 27; W. M. , . Lane County. except that
+portion defined as the Clear Lake Watershed more
+particularly described by OAR 340- 71- 460( 6)( f).
+3) Lands Overlaying the Alsea Dunal Aquifer:
+a) Within the area set forth in subsection ( 3) ( c) of this rule,
+the Agent may issue a construction permit for a new on- site
+sewage disposal system or a favorable report of evaluation
+of site suitability to construct a single on- site system on
+lots that were lots of record prior to January 1, 1981; or
+on lots in partitions or subdivisions that have received
+SSRULE. 2 ( 9- 16- 86) 71- 95 Oir- Site Sewage Disposal
+0107 1952
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+preliminary planning, zoning, and on- site sewage disposal
+approval prior to January 1, 1981, providing one of the
+following can be met:
+A) At the time the permit or favorable report of site
+suitability is issued the lot complies with OAR
+340- 71- 100 through OAR340- 71- 350 and OAR340- 71- 410
+through OAR 340- 71- 520; or
+B) The lot is found through site evaluation not to comply
+with OAR 340- 71- 100 through OAR 340- 71- 350 and OAR
+340- 71- 410 through OAR 340- 71- 520, but does meet all of
+the following conditions when a pressurized seepage bed
+is utilized:
+i) Groundwater levels shall not be closer than four
+4) feet from the ground surface or closer than
+three ( 3) feet from the bottom of the seepage
+bed.
+ii) The seepage bed shall be constructed in
+accordance with OAR 340- 71- 275( 4) and ( 5).
+iii) The seepage bed shall be sized on the basis of
+two hundred ( 200) square feet of bottom area per
+one hundred fifty ( 150) gallons projected daily
+sewage flow.
+iv) Projected daily sewage flows shall be limited to
+not more than three hundred seventy- five ( 375)
+gallons per lot, except those lots which have a
+certificate of favorable site evaluation which
+provides for a larger flow.
+v) All setbacks identified in Table 1 can be met,
+except that lots of record prior to May 1, 1973,
+shall maintain a minimum fifty ( 50) feet
+separation to surface public waters.
+vi) Sufficient area exists on the lot to install a
+seepage bed and a replacement seepage bed. The
+area reserved for replacement may be waived
+pursuant to the exception in OAR 340- 71- 150( 4)
+a)( B)•
+C) The lot is found through site evaluation not to comply
+with OAR 340- 71- 100 through OAR 340- 71- 350 and OAR
+340- 71- 410 through OAR 340- 71- 520, but does meet all of
+the following conditions when a conventional sand
+filter without a bottom is utilized:
+SSRULE. 2 ( 9- 16- 86) 71- 96 On - Site Sewage Disposal
+0107 1.953
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+i) Groundwater levels shat not be closer than one
+1) foot from the ground surface and not closer
+than one ( 1) foot from the bottom of the sand
+filter.
+ii) Sewage flows shall be limited to not more than
+three hundred seventy- five ( 375) gallons per day
+per lot. except those lots which have a
+certificate of favorable site evaluation which
+provides for a larger flow.
+iii) The sand filter shall be sized at one ( 1) square
+foot of bottom area for each gallon of projected
+daily sewage flow.
+iv) The conventional sand filter without a bottom
+shall be constructed in accordance with OAR
+340- 71- 295( 3).
+v) All setbacks identified in Table 1 can be met,
+except that lots of record prior to May 1, 1973.
+shall maintain -- a minimum fifty ( 50) feet
+separation to surface public waters.
+vi) Sufficient area exists on the lot to install a
+bottomless conventional sand filter and a
+replacement bottomless conventional sand filter.
+The area for replacement may be be waived
+pursuant to the exception contained in OAR
+340- 71- 150 ( 4) ( a) ( B) .
+b) Within the area set forth in subsection ( 3)( c) of this rule,
+for lots created on or after January 1, 1981, and/ or when
+the on- site system will serve a commercial facility, the
+Agent may issue a construction permit for a new on- site
+sewage disposal system or a favorable report of evaluation
+of site suitability if it is determined that all rules of
+the Commission can be met.
+c) The Alsea Dunal Aquifer is defined as all the land bounded
+on the East by Highway 101, the Pacif is Ocean on the West.
+and from Drift - wood Beach Wayside South to the southern tip
+of the Alsea Bay Spit. .
+d) If the results of groundwater monitoring in the Alsea Dunal
+Aquifer indicate unacceptable levels of degradation or if it
+appears necessary or desirable to pursue development of the
+aquifer as a source of drinking water, sewage collection and
+off- site treatment and disposal facilities shall be
+installed unless further study demonstrates that such
+SSRULE. 2 ( 9- 16- 86) 71- 97 O= - Site Sewage Disposal
+0107 1954
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+facilities are not necessary or effective to protect the
+beneficial use.
+4) Christmas Valley Townsite, Lake County:
+a) Within the area set forth in subsection ( 4)( b) of this rule,
+the agent may consider the shallow groundwater
+table, if
+present, in the same manner as a temporary water table when
+preparing and/ or issuing site evaluation reports and
+construction - installation permits.
+b) The Christmas Valley Townsite is defined as all land within
+the Christmas Valley Townsite plat located within section 9.
+10, 11, 14, 15 and 16 of Township 27 South, Range 17 East,
+Willamette Meridian, in Lake County.
+5) Clatsop Plains Aquifer, Clatsop County:
+The Clatsop Plains Groundwater Protection Plan, prepared by R. W.
+Beck and Associates and adopted by Clatsop County,
+provides a
+basis for continued use of on- site sewage disposal systems whil e
+protecting the quality of groundwater for future water supplies.
+For the plan to be successful, the following components must be
+accomplished:
+a) By not later than January 1,
+1983, Clatsop County shall
+identify and set aside aquifer reserve areas for future
+water supply development containing a minimum of two and one
+half ( 2- 1/ 2) square miles- The reserve areas shall be
+controlled so that the potential for groundwater
+contamination from nitrogen and other possible pollutants is
+kept to a minimum.
+b) The Agent may issue construction installation permits for
+new on- site sewage disposal systems or favorable reports of
+site evaluation to construct orr site systems, within the
+area generally known as the Clatsop Plains, which is bounded
+by the Columbia River to the North; the Pacific Ocean to the
+west; the Necanicum River, Neawanna Creek, and County Road
+157 on the south; and the Carnahan Ditch- Ski. panon River and
+the foothills of the Coast Range to the east, providing:
+A) The lot or parcel was created in compliance with the
+appropriate comprehensive plan for Gearhart ( adopted by
+County Ordinance 80- 3). Seaside ( adopted by County
+Ordinance 80- 10). Warrenton ( adopted by County
+Ordinance 82- 15), or the Clatsop County plan adopted
+through Ordinance No. 79- 10; and either
+SSRULE. 2 ( 9- 16- 86) 71- 98 Orr - Site Sewage Disposal
+0107 1955
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+B) The lot or parcel does not violate any rule of this
+Division; or
+C) Lot or parcel does' not violate the Department' s Water
+Quality Management Plan or any rule of this Division,
+except the projected maximum sewage loading rate would
+exceed the ratio of four hundred fifty ( 450) gallons
+per one- half ( 1/ 2) acre per day. The on- site system
+shall be either a sand filter system or a pressurized
+distribution system with a design sewage flow not to
+exceed four hundred fifty ( 450) gallons per day; or
+D) The Department may approve the use of standard on- site
+systems to serve single family dwellings within planned
+developments or clustered - lot subdivisions providing:
+i) The planned development or clustered - lot
+subdivision is not located within Gearhart,
+Seaside, Warrenton, or their urban growth
+boundaries; and
+ii) The lots do not violate any rule of this
+Division. except the projected maximum sewage
+loading rate may exceed the ratio of four hundred
+fifty ( 450) gallons per acre per day; and
+iii) The Department is provided satisfactory evidence
+through a detailed groundwater study that the use
+of standard systems will not constitute a greater
+threat to groundwater quality than would occur
+with the use of sand filter systems or
+pressurized distribution systems.
+6) Within areas east of the Cascade Range where the annual
+precipitation does not exceed twenty ( 20) inches, and after
+evaluating the site, the Agent may issue a construction -
+installation permit authorizing installation of a standard system
+to serve a single family dwelling, provided the requirements in
+subsections ( 6)( a) and ( b) of this rule are met.
+a) Minimum Site Criteria:
+A) The property is twenty ( 20) acres or larger in size,
+with planning restrictions that prohibit division of
+the property into parcels containing less than twenty
+20) acres;
+B) The property is not within an Urban Growth Boundary;
+SSRULE. 2 ( 9- 16- 86) 71- 99 On - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program .
+OA
+7 - x,95%
+C) The slope gradient does not exceed thirty ( 30)
+percent;
+D) The soils are diggable with a backhoe to a depth of at
+least twenty- four ( 24) inches;
+E) The site is found to comply with the provisions of OAR
+340- 71- 220( 2)( b, e, f, g. h, and i).
+b) Minimum Construction Requirements:
+A) The system shall contain not less than two hundred
+twenty- five ( 225) linear feet of disposal trench for
+projected sewage flows not exceeding four hundred fifty
+450) gallons per day. Larger sewage flows shall be
+sized on the basis of seventy- five ( 75) linear feet per
+each one hundred fifty ( 150) gallons of projected
+flow.
+B) The system shall be constructed and backfilled in
+compliance with OAR 340- 71- 220: sections ( 4), ( 5).
+6). ( 8). ( 9). ( 10). ( 11), and ( 12).
+c) At the discretion and request of the owner or the owner' s
+authorized representative, a single application may be
+submitted to the Agent for both a site evaluation report and
+a construction - installation permit. The application would
+include the sum of the fees for both activities,
+pursuant to
+OAR 340- 71- 140( 1)( a)( A) and OAR 340- 71- 140( 1)( b)( A)( iii), as
+well as the following:
+A) Favorable land use compatibility statement from the
+appropriate land use authority signifying that the
+proposed land use is compatible with the Land
+Conservation and Development Commission acknowledged
+comprehensive plan or complies with the statewide
+planning goals.
+B) Property development plan acceptable to the Agent
+showing the location of existing and proposed
+improvements, including the locations of the dwelling
+and sewage disposal system.
+C) All other exhibits the Agent finds are necessary to
+complete the application.
+d) The Agent may waive the pre -cover inspection for a system
+installed pursuant to this section, provided the system
+installer certifies in writing that the system was installed
+in accordance with the permit plans and conditions.
+SSRULE. 2 ( 9- 16- 86) 71- 100 Os- Site Sewage Disposal
+DEP
+r 340- 71- 401 MID- MULTNCmAH COUNTY, CESSPOOL AMD SEEPAGE PIT USE.
+1) This rule shall be applicable only within the area def ined in
+Appendix B of the document entitled Evaluation of Hearing Record
+for Proposal to Declare a Threat to Drinking Water in a
+Specifically Defined Area of Mid -Multnomah County Pursuant to ORS
+454. 275 et. seq.. February 6, 1986.
+2) Favorable site evaluation reports and new construction -
+installation permits for cesspool and seepage pit sewage disposal
+systems may be issued within the area defined in section (
+1) of
+this rule, provided all of the following conditions are met:
+a) Construction of sewers and connection thereto is on schedule
+as defined in the Mid - Multnomah County Sewer Implementation
+Plan, September 1985.
+b) The total waste load discharged into cesspool and seepage
+pit sewage disposal systems within the affected area at any
+time does not exceed that indicated by the EQC Bencb= ark
+Removal Rate line in Figure 4- 1, of Mid - Multnomah County
+Sewer Implementation Plan, September 1985, based on the
+assumption that fifty- six thousand ( 56, 000) single family
+dwelling unit equivalent cesspool and seepage pit systems
+existed in the affected area at the beginning of 1985.
+c) Sewers are not available to serve the proposed development.
+Connection to sewers shall be made whenever practicable.
+Connection will be deemed practicable if sewers are
+physically available as defined in OAR 340- 71- 160( 5) ( f)
+unless otherwise allowed by the Agent.
+d) Any land division or subdivision development that involves
+construction of streets shall construct dry sewers at the
+time of development to minimize costs and disruption when
+connection to a sewer becomes possible. If in the judgment
+of the Agent construction of dry sewers is not practicable,
+the land division or subdivision may be approved for
+cesspools and seepage pits if funds in the amount of the
+cost of the needed dry sewer construction is placed in an
+interest bearing escrow account to be applied to
+construction of the sewers when appropriat4. under the
+schedule for sewer construction by the local. governments.
+e) Cesspool or seepage pit systems shall not be authorized on
+any lot that is large enough to install a standard or other
+alternative on- site system.
+f) Site Criteria:
+SSRULE. 2 ( 9- 16- 86) 71- 101 Ow - Sita Sewage Disposal
+DEPARTMENT OF
+A) The permanent water table is sixteen ( 16) feet or
+greater from the surface.
+B) Gravelly sand, gravelly loamy sand, or other equally
+porous material occurs in a continuous five ( 5) foot
+deep stratum within twelve ( 12) feet of the ground
+surface.
+C) A layer that limits effective soil depth does not
+overlay the gravel stratum.
+D) The site is found to comply with the provisions of OAR
+340- 71- 220( 2)( e, f, and i).
+3) Construction Requirements:
+a) Each cesspool and seepage pit shall be installed in a
+location to facilitate future connection to a sewerage
+system when such facilities become available.
+b) Maximum depth of cesspools and seepage pits shall be thirty-
+five ( 35) feet below ground surface.
+c) The cesspool or seepage pit depth shall terminate at least
+four ( 4) feet above the water table.
+d) Cesspool and seepage pit structures shall be of a design to
+assure that collapse or cave- in will not occur. Diagrams 16
+and 17, which show seepage pit designs, reflect an
+acceptable design for cesspools.
+e) The provisions of OAR 340- 71- 220( 2)( i) are met.
+4) Permits to repair or replace failing cesspool or seepage pit
+systems may be issued if sewers are not available.
+Connection to
+sewers shall be made whenever practicable.- Connection will be
+deemed practicable if sewers are physically available as defined
+in OAR 340- 71- 160( 5)( f) unless otherwise allowed by the Agent.
+The Agent may exercise judgment in determining whether strict
+compliance with the requirements identified in section 3 of this
+rule are reasonable.
+5) Notwithstanding the permit duration specified in section
+340- 71- 160( 9), a permit issued pursuafit to this rule may be
+effective for a period of less - than one ( 1) year from the date of
+issue if specified by the Agent.
+6) The Agent shall report to the Department of Environmental Quality
+at the end of each calendar year on the number of cesspools and
+seepage pits removed, the number of repair and replacement
+SSRULE. 2 ( 9- 16- 36) 71- 102 On - Site Sewage Disposal
+0107 1959
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+systems authorized, and the number of new interim cesspool and
+seepage pit systems approved through on- site system and WPCF
+permit issuance. The calculated number of single family dwelling
+unit equivalent cesspools remaining in service shall at all times
+be less than or equal to the number derived for that point in
+time based on fifty- six thousand ( 56, 000) units in existence at
+the beginning of 1985, and the target percent removed based on
+the benchmark removal rate as shown in Figure 4- 1 of " Mid -
+Multnomah County Sewer Implementation Plan", September 1985.
+7) For proposed new sewage loads in excess of five thousand ( 5000)
+gallons per day, applications for site evaluation reports and
+construction permits must be submitted to the Department of
+Environmental Quality. The permits shall be issued pursuant to
+OAR 340, Divisions 14 and 45 only after the Agent and the
+Department concur the provisions of subsection ( 2)( b) of this
+rule not are violated.
+SSRULE. 2 ( 9- 16- 86) 71- 103 On - Site Sewage Disposal
+DEPARTMENT OF EWIROID714 AL QUALITY Water Quality Program
+0107 1950
+340- 71- 410 RURAL AREA VARIANCES -
+1) Variances from any standard contained in Subsections340-71-
+220( 2)( a) through ( h) maybe granted by the Agent in certain
+rural zones provided:
+a) The County designates and the Department accepts specific
+rural zoning classifications for purposes of this rule.
+b) The minimumparcel size considered under this rule is
+designated by the County, but in no event shall it be less
+than ten ( 10) acres.
+c) The parcel is an existing parcel that does not have an
+accessible area approvable for a standard on- site system.
+d) The permit is for an on- site system designed to serve a
+single family dwelling, or for a commercial facility with an
+equivalent or less sewage flow permitted by the zone.
+e) The on- site sewage disposal system will function in a
+satisfactory mannerso as not to create a public health
+hazard, or cause pollution of public waters.
+f) Requiring strict compliancewith the standards contained in
+subsections 340- 71- 220( 2)( a) through ( h), would in the
+judgment of the Agent, be unreasonable, burdensome, or
+impractical due to special physical conditions or cause.
+2) The conditions for rural area variances shall be set forth in an
+addendum to the memorandum of agreement (
+contract) between the
+County and the Department.
+SSRULE. 2 ( 9- 16- 86) 71- 104 on - Site Sewage Disposal
+0107 1961
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 415 FORMAL VARIANCES.
+1) Variances from any rule or standard for on- site sewage systems,
+contained in these rules. may be granted to applicants for
+permits by the Commission after a hearing before a special
+variance officer. The variance officer shall make a
+recommendation to the Commission for or against the variance.
+2) Variances from any rule contained in OAR340, Division 71 may be
+granted to applicants for permits by special variance officers
+appointed by the Director.
+3) No variance may be granted unless the Commission or a special
+variance officer finds that:
+a) Strict compliance with the rule or standard is inappropriate
+for cause; or
+b) Special physical conditions render strict compliance
+unreasonable, burdensome, or impractical.
+4) Applications.
+a) Applications shall be made to the Department or Agreement
+County as appropriate. A separate application must be filed
+for each site considered for a variance.
+b) Each application shall by accompanied by:
+A), A site evaluation report, unless waived by the variance
+officer; and
+B) Plans and specifications for the proposed system; and
+C) The appropriate fee; and
+D) Other information necessary for rendering a proper
+decision; and
+E) The application shall be signed by the property owner.
+5) An applicant for a variance under this rule is not required to
+pay the application fee, if at the time of filing. the applicant:
+a) Is sixty- five ( 65) years of age or older; and
+b) Is a resident of the State of Oregon; and
+c) Has an annual household income, as defined in ORS 310. 030,
+of $ 15, 000 or less; and
+SSRULE. 2 ( 9- 16- 86) 71- 105 Oa - Site Sewage Disposal
+0107 196
+DEPARTMENT OF ENVIRODIl MAL QUALITY Water Quality Program
+d) Has not previously applied under the provisions of this
+section.
+SSRULE. 2 ( 9- 16- 86) 71- 106 On -- Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL. QUALITY Water
+340- 71- 420 HARDSHIP VARIMCSS.
+1) The Commission may grant variances from rules or standards
+pertaining to on—site sewagedisposal systems in cases of extreme
+and unusual hardship.
+2) The Commissionmay consider the following factors in reviewing an
+application for a variance based on hardship:
+a) Advanced age or bad health of applicant.
+b) Need of applicant to care for aged, incapacitated or
+disabled relatives.
+c) Relative insignificance of the environmental impact of
+granting a variance.
+3) Hardship variances granted by the Commission may contain
+conditions such as:
+a) Permits for the life of the applicant.
+b) Limiting the number of permanent residents using the
+system.
+c) Use of experimental systems for specified periods of time.
+4) Before an application is considered for a hardship variance it
+must be denied for a standard variance on the basis of technical
+rule considerations. At the time of application, the applicant
+must designate on the application whether it is to be considered
+for a hardship variance.
+5) Documentation of hardship must be provided before the application
+is referred to the Commission for action.
+6) Department personnel shall strive to aid and accommodate the
+needs of applicants for variances due to hardship.
+SSRULE. 2 ( 9- 16- 86)' 71- 107 Ott— Site Sewage Disposal
+0107 1964.
+DEPAR724M OF ENVIRONMENTAL QU41TY Water Quality Program
+340- 71- 425 VARIANCE OFFICERS.
+1) To qualify for appointment as a special variance officer after
+the effective date of these rules an individual must:
+a) Have three ( 3) years full time experience in subsurface
+sewage disposal methods since January 1, 1974; one ( 1) year
+of which shall have been in Oregon; and
+b) Have attended one ( 1) or more seminars, workshops, or short
+courses pertaining soils and their relationship to
+subsurface sewage disposal.
+2) Agreement ( contract) counties may request that a county staff
+member, meeting the above qualifications, be appointed special
+variance officer. That staff member, if appointed, would perform
+the Department' s variance duties within that county.
+SSRULE. 2 ( 9- 16- 86) 71- 108 Oa - Sita Sewage Disposal
+0107 1.965
+DEP"= MT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 430 VARIANCE HEARINGS.
+1) The variance officer shall hold a public information type hearing
+on each variance application.
+2) - The hearing shall be held in the county where the property
+described in the application is located.
+3) Each variance shall be heard within thirty ( 30) days after
+receipt of a completed application.
+4) A decision to grant or deny the variance shall be made in writing
+within thirty ( 30) days after completion of the hearing. If the
+variance is granted. the variance officer shall set forth in
+writing the specifications, conditions and location of the
+system.
+S) The burden of presenting the supportive facts shall be the
+responsibility of the applicant.
+6) The variance officer shall visit the site of the proposed system
+prior to conducting the hearing.
+7) Except for hardship variances, granted variances shall run with
+the land.
+SSRULE. 2 ( 9- 16- 86) 71- 109 Oa - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program .
+0107 196-6
+340- 71- 435 VARIANCE PERMIT ISSUANCE. INSPECTIONS. CERTIFICATE OF
+SATISFACTORY COMPLETION.
+1) After a variance is granted the appropriate Agent shall be
+notified in writing.
+2) In nonagreement counties the Department shall issue system
+construction installation permits, perform necessary inspections
+and issue Certificates of Satisfactory Completion.
+3) In agreement counties, the county shall issue system construction
+installation permits, perform necessary inspections and issue
+Certificates of Satisfactory Completion.
+SSRULE. 2 ( 9- 16- 86) 71- 110 Ow - Site Sewage Disposal
+DEPARIMMT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 440 VARIANCE APPEALS. 0107 1,` 7
+Decisions of variance officers to grant or deny a variance may be appealed
+to the Commission.
+SSRULE. 2 ( 9- 16- 86) 71- 111 Ow - Site Sewage Disposal.
+DEPARTMENT OF ENVIRONMENTAL QUALITY- Water Quality Program
+340- 71- 445 VARIANCE ADMINISTRATIVE REVIEW-
+The Department may review all records and files of variance officers to
+determine compliance or noncompliance with these rules.
+SSRULE. 2 ( 9- 16- 86) 71- 112 On7--Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 450 EBPSRIMLNTAL SYSTEMS.+
+1) Policy. Alternative technologies to standard on- site sewage
+systems are needed in areas planned for rural or low density
+development. It is the policy of the' Commission to allow the
+Department to pursue a program of experimentation for the purpose
+of obtaining sufficient data for the development of alternative
+sewage disposal systems, which may benefit significant numbers
+of people within Oregon.
+2) Permit Required. Without first obtaining a permit from the
+Department, no person shall construct an experimental on- site
+sewage treatment and disposal system.
+3) Application Procedures:
+a) Application for experimental systems shall be made on
+Department forms.
+b) The application shall be complete, signed by the owner and
+be accompanied by the required fee.
+c) The application shall include detailed system design
+specifications and plans and any additional information the
+Department considers necessary.
+d) The owner shall agree, in writing, to hold the State of
+Oregon, its officers, employes, and agents haiml ess of any
+and all loss and damage caused by defective installation or
+operation of the proposed system.
+4) Criteria For Approval. Sites may be considered for experimental
+system permits where:
+a) Soils, climate, groundwater, or topographical conditions are
+common enough to benefit large numbers of people.
+b) A specific acceptable backup alternative is available in the
+event of system failure.
+c) For absorption systems, soils. in both original and system
+replacement areas are similar.
+d) Installation of a particular system is necessary to provide
+a sufficient data sampling base.
+e) Zoning, planning, and building requirements allow system
+installation.
+f) A single family dwelling will be. served.
+SSRULE. 3 ( 9- 16- 86) 71- 113 Otr- Site Sewage Disposal
+0107 1970 .
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+g) The system will be used on a continuous basis during the
+life of the test project.
+h) Resources for monitoring, sample collection, and laboratory
+testing are available.
+i) Legal and physical access by easement for construction
+inspections and monitoring are available.
+j) The property owner records a Department approved affidavit
+which notifies prospective property purchasers. of the
+existence of an experimental system.
+k) The parcel size is at least one ( 1) acre.
+S) Permit Conditions. The system installation permit shall:
+a) Specify method and manner. of system
+installation. operation,
+and maintenance;
+b) Specify method,
+manner, and duration of system testing and
+monitoring;
+c) Identify when and where system is to be inspected;
+d) Require that permit not be transferable; -
+e) Require system construction and use within one (
+1) year
+of permit issuance.
+6) Denial Appeal. The decision of staff to either issue or deny a
+permit may be reviewed by the Director. The Director may affirm
+or reverse the decision.
+7) Inspection of Installed System:
+a) Upon completing construction for each inspection phase
+required ander the permit, the permit holder shall notify
+the Department.
+b) The Department shall inspect construction to determine
+whether it complies with permit conditions and requirements.
+c) After system installation is complete and complies with
+permit conditions, a Certificate of Satisfactory Completion
+shall be issued.
+8) Repair or Replacement of System. If the Department finds the
+operation of the system is unsatisfactory, the owner upon written
+notification. shall promptly repair or modify the system,
+replace
+SSRDLE. 3 ( 9- 16- 86) 71- 114 Oa— Site Sewage Disposal
+OF Wa
+it with another acceptable system, or as a last resort, abandon
+the system.
+9) System Monitoring. The system shall be - monitored by the
+Department in accordance with a schedule contained in the permit.
+SSRULE. 3 ( 9- 16- 86) 71- 115 On - Site Sewage Disposal
+DEPARTMENT
+340- 71- 460 MORATORIUM AREAS.
+Proaram '
+0107 1972
+1) Whenever the Commission finds that construction of subsurface or
+alternative sewage disposal systems should be limited or
+prohibited in an area, it shall issue an order limiting or
+prohibiting such construction.
+2) The order shall be issued only after public hearing for which
+more than thirty ( 30) days notice is given.
+3) The order shall be a rule of this division which contains a
+general description of the moratorium area. A more detailed
+description of the area, if needed, shall be an appendix to these
+rules.
+4) No permit or site evaluation report shall be issued for
+construction of a new or expanded system which would violate any
+order of the Commissionissued pursuant to ORS454.685.
+5) Criteria For Establishing Moratoriums. In issuing an order under
+this section the Commission shall consider the factors contained
+in ORS 454. 685( 2).
+6) Specific Moratorium Areas. Pursuant to ORS 454. 685, the Agent
+shall not issue sewage system construction installation permits
+or approved site evaluation reports within the boundaries of the
+following areas of the state:
+a) Benton County Kingston Heights Subdivision;
+b) Benton County Kingston Heights Subdivision. First
+Addition;
+c) Benton County Princeton Heights Subdivision;
+d) Benton County Princeton Heights Subdivision, First
+Addition;
+e) Lane County — Community of Dexter, as follows:
+The area generally know as Dexter, and defined by the
+Boundary submitted by the Board of County Commissioners for
+Lane, which is bounded on the Northeast by Willamette
+Highway No. 58, and contains those properties Southwesterly
+of Highway No. 58 in the following tax assessment maps of
+Lane County: T 19 S, R 1 W. Section 16. 2. T 19 S. R 1 W.
+Section 16. 32, T 19 S. R 1 W. Section 16. 31, T 19 S, R 1. W.
+Section 16. 42, and T 19 S, R 1 W. Section 16 and index
+located totally within Lane County.
+SSRIILE. 3 ( 9- 16- 86) 71- 116 On - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL Water ity Program
+7 1973
+f) Lane County Clear Lake Watershed of the North Florence
+Dunal Aquifer Area, as follows: The area hereby known as
+the Clear Lake Watershed of the North Florence Dunal Aquifer
+Area defined by the hydrologic boundaries identified in the
+June 1982, 208 North Florence Dunal Aquifer Study which is
+the area beginning at a point known as Tank One, located in
+Section One, Township 18 South, Range 12 West, of the
+Willamette Meridian, Lane County, Oregon:
+Run thence S. 670 50' 51. 51- E. 97. 80 ft. to the True Point
+of Beginning;
+Run thence S. 050 40' 43. 0" W. 1960. 62 ft. to a point,
+Run thence S. 040 58' 45. 4" W. 1301. 91 ft. to a point,
+Run thence S. 520 44' 01. 0" W. 231. 21 ft. to a point.
+Run thence S. 150 20' 45. 4" W. 774. 62 ft. to a point,
+Run thence S. 310 44' 14. 0" W. 520. 89 ft. to a point.
+Run thence S. 000 24' 43. 9" W. 834. 02 ft. to a point.
+Run thence S. 070 49' 01. 8" W. 1191. 07 ft. to a point,
+Run thence S. 500 26' 06. 3" W. 731. 61 ft. to a point,
+Run thence S. 020 51' 10. 511 W. 301. 37 ft. to a point,
+Run thence S. 360 37' 58. 2" W. 918. 41 ft. to a point,
+Run thence S. 470 12' 26. 3" W. 1321. 86 ft. to a point,
+Run thence S. 720 58' 54. 2" W. 498. 84 ft. to a point.
+Run thence S. 850 44' 21. 3" W. 955. 64 ft. to a point,
+Which is N. 110 39' 16. 9" W. 5434. 90 ft. from a point known as
+Green Two ( located in Section 13 in said Township and Range);.
+Run thence N. 580 09' 44. 1" W. 1630. 28 ft. to a point,
+Run thence N. 250 231- 10. 1" W. 1978. 00 ft. to a point.
+Run thence N. 160 34' 21. 0" W. 1731. 95 ft. to a point,
+Run thence N. 060 13' 18. 0" W. 747. 40 ft. to a point.
+Run thence N. 030 50' 32. 8" E. 671. 51 ft. to a point,
+Run thence N. 590 33' 18. 9" E. 1117. 02 ft. to a point.
+Run thence N. 590 50' 06. 0" E. 2894. 56 ft. to a point,
+Run thence N. 480 28' 40. 0" E. 897. 56 ft. to a point.
+Run thence N. 310 29' 50. 7" E. 920. 64 ft. to a point,
+Run thence N. 190 46' 39. 6" E. 1524. 95 ft. to a point.
+Run thence S. 760 05' 37. 1" E. 748. 95 ft. to a point,
+Run thence S. 570 33' 30. 2" E. 445. 53 ft. to a point.
+Run thence S. 780 27' 44. 9" E. 394. 98 ft. to a point.
+Run thence S. 610 55' 39. 0" E. 323. 00 ft. to a point,
+Run thence N. 890 04' 46. 8" E. 249. 03 ft. to a point,
+Run thence S. 670 43' 17. 4" E. 245. 31 ft. to a point,
+Run thence S. 790 55' 09. 8" E. 45. 71 ft. to a point,
+Run thence S. 830 59' 27. 6" E. 95. 52 ft. to a point,
+Run thence N. 420 02' 57. 2" E. 68. 68 ft. to a point,
+Run thence S. 800 41' 24. 2" E. 61. 81 ft. to a point.
+Run thence S. 10047' 03. 5" E. 128. 27 ft. to the True Point of
+Beginning; and containing all or portions of T17 S. R12W,
+Section 35 and 36, and T18S. R12W, Sections 1, 2. 11 and 12;
+W. M., Lane County.
+SSRULE. 3 ( 9- 16- 86) 71- 117 On - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 71- 500 COMMUNITY SYSTEMS.
+1) For the purpose of these rules:
+Q1 o e 10074
+a) " Community System" means an onsite system which will serve
+more than one ( 1) lot or parcel; or more than one ( 1)
+condominium unit; or more than one ( 1) unit of a planned
+unit development.
+b) " Person" means individuals, corporations, associations,
+firms, partnerships, joint stock companies, public and
+municipal corporations, political subdivisions, the State
+and any agencies thereof, and the federal government and any
+agencies thereof.
+2) Without first applying for and obtaining a construction
+installation permit, no person shall install a community on- site
+system.
+3) Proposed community systems with projected sewage flcws greater
+than two thousand five hundred ( 2, 500) gallons per day shall have
+plans reviewed and approved by the Department prior to
+construction permit issuance.
+4) Plans for all community systems shall include operation and
+maintenance details including details for financing system
+operation and maintenance.
+5) The site criteria for approval of community systems shall be the
+same as required for standard subsurface systems contained in
+section 340- 71- 220( 2), or in the case of community alternative
+systems, the specific site conditions for that system contained
+in rules: 340- 71- 260 through 340- 71- 275; 340- 71- 290 through
+340- 71- 305; 340- 71- 315; and 340- 71- 345.
+6) Operation Responsibility.
+a) Responsibility for operation and maintenance of community
+systems shall be vested in a municipality as defined in ORS
+454. 010( 3), or an Association of Unit Owners. as defined in
+ORS 94. 004 and ORS 94. 146.
+b) Unless otherwise required by permit, community systems shall
+be inspected at least annually by the responsible entity.
+SSRULE. 3 ( 9- 16- 86) 71- 118 On - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+0107 19
+340- 71- 520 LARGE SYSTEMS.
+75
+1) For the purpose of these rules " large system" means any system
+with a projected daily sewageflow greater than two thousand five
+hundred ( 2, 500) gallons.
+2) Special Design Requirements. Unless otherwise authorized by the
+Department, large systems shall comply with the following
+requirements:
+a) Large system absorption facilities shall be designed with
+pressure distribution.
+b) The disposal area shall be divided into relatively equal
+units. Each unit shall receive no more than thirteen
+hundred ( 1300) gallons of effluent per day.
+c) The replacement ( repair) disposal area shall be dividedinto
+relatively equal units, with a replacement disposal area
+unit located adjacent to an initial disposal area unit.
+d) Effluent distribution shall alternate between the disposal
+area units.
+e) Each system shall have at least two ( 2) pumps or siphons.
+f) , The applicant shall provide a written assessment of the
+impact of the proposed system upon the quality of public
+waters and public health.
+3) Plans and specifications for large systems shall be prepared by
+any competentprofessional with education or experience in the
+specific technical field involved. The professional may accept
+an assignment requiring education or experience outside of
+his/ her own field of competence provided he/ she retains competent
+and legally qualified services to perform that - part of the
+assignment outside his/ her own field of competence, his/ her
+client or employer approves this procedure, and he/ she retains
+responsibility to his/ her client or employer for the competent
+performance of the whole assignment.
+4) Construction Requirements:
+a) Construction shall be in substantial' conformance with
+approved plans and specifications and any terms of the
+permit issued by the Agent.
+b) After completion of the system the professional shall
+certify that the system was installed in accordance with
+approved plans and specifications.
+SSRULE. 3 ( 9- 16- 86) 71- 119 On -- Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+010 ' 15-76
+340- 71- 600 SEWAGE DISPOSAL SERVICE.
+1) For the purpose of these rules " Sewage Disposal Service" means:
+a) The installation of on- site sewage disposal systems
+including the placement of portable toilets),
+or
+any part thereof;
+or
+Cb) The pumping out or cleaning of on-site sewagedisposal
+systems ( including portable toilets), or any part thereof;
+or
+c) The disposal of material derived from the pumping out or
+cleaning of on. -site sewage disposal systems ( including
+portable toilets); or
+d) Grading. excavating. and earth - moving work connected with
+the operations described in subsection ( 1) ( a) of this rule,
+except streets, highways, dams, airports or other heavy
+construction projects and except earth - moving work performed
+under the supervision of a builder or contractor in
+connection with and at the time of the construction of a
+building or structure; or
+e) The construction of drain and sewage lines from five ( 5)
+feet outside a building or structure to the service lateral
+at the curb or in the street or alley or other disposal
+terminal holding human or domestic sewage.
+2) No person shall perform sewage disposal services or advertise
+or represent himself/ herself as being in the business of
+performing such services without first obtaining a license from
+the Department. Unless suspended or revoked at an earlier date,
+a Sewage Disposal Service license. issued pursuant to this rule
+expires on July 1 neat following the date of issuance.
+3) Those persons making application for a sewage disposal service
+license shall:
+a) Submit a complete license application form to the Department
+for each business; and
+b) File and maintain with the. Department original evidence of
+surety bond, or other approved equivalent security, in the
+penal sum of two thousand five hundred dollars ($ 2, 500)
+for each business; and
+c) Shall have pumping equipment inspected by the Agent annually
+if intending to pump out or clean systems and shall complete
+the " Sewage Pumping Equipment Description/ Inspection" form
+SSRULE. 3 ( 9- 16- 86) 71- 120 On - Site Sewage Disposal
+0107 1977
+DEPARTMENT OF ENVIRONMENTAL QUALITY water Quality Program
+supplied by the Department. An inspection performed after
+January lst shall be accepted for licensing the following
+July 1st; and
+d) Submit the appropriate fee as set forth in subsection
+340- 71- 140( 1)( i) for each business.
+4) A Sewage Disposal Service license may be transferred or amended
+during the license period to reflect changes in business name,
+ownership, or entity ( i. e. individual, partnership, or
+corporation), providing:
+a) A complete application to transfer or amend the license is
+submitted to the Department with the appropriate fee as set
+forth in subsection 340- 71- 140( 1)( i); and
+b) The Department is provided with a rider to the surety, or a
+new form of security as required in subsection ( 3)( b) of
+this rule; and
+c) A valid Sewage Disposal Service license ( not suspended,
+revoked, or expired) is returned to the Department; and
+d) If there is a change in the business name, a new " Sewage
+Pumping Equipment Description/ Inspection" form for each
+vehicle is submitted to the Department.
+5) The type of security to be furnished pursuant to OAR340- 71-
+600( 3) ( b) may be:
+a) Surety bond executed in favor of the State of Oregon on a
+form approved by the Attorney General and provided by the
+Department. The bond shall be issued by a surety company
+licensed by the Insurance Commissioner of Oregon. Any
+surety bond shall be so conditioned that it may be cancelled
+only after forty five ( 45) days notice to the Department,
+and to otherwise remain in effect for not less than two ( 2)
+years following termination of the sewage disposal service
+license, except as provided in subsection ( e) of this
+section; or
+b) Insured savings account irrevocably assigned to the
+Department, with interest earned by such account made
+payable to the depositor; or
+c) Negotiable securities of a character approved by the State
+Treasurer, irrevocably assigned to the Department,
+with
+interest earned on deposited securities made payable to the
+depositor.
+SSRULE. 3 ( 9- 16- 86) 71- 121 Os - Site Sewage Disposal
+0107 1978
+DEPARIT4ENT OF ENVIRONMENTAL QUALITY Water Quality Program
+d) Anydeposit of cashor negotiable securities underORS
+454. 705 shall remain in effect for not less
+than two ( 2)
+years following termination of the sewagedisposal service'
+license except as provided in subsection (
+e) of this
+section. A claim against such security deposits must be
+submitted in writing to the Department,
+together with an
+authenticated copy of:
+A) The court judgment or order requiring payment of the
+claim; or
+B) Written authority by the depositor for the Department
+to pay the claim.
+e) Whenproceedings under ORS454. 705 have been commencedwhile
+the security required is in effect, such security shall be
+held until final disposition of the proceedings is made. At
+that time claims will be referred for consideration of
+payment from the security so held.
+6) Each licensee shall:
+a) Be responsible for any violation of any statute,
+rule, or
+order of the Commission or Department pertaining to his
+licensed business.
+b) Be responsible for any act or omission of any servant,
+agent, employee, or representative of such licensee in
+violation of any statute,
+rule, or order pertaining to his
+license privileges.
+c) Deliver to each person for whom be performs services
+requiring such license, prior to completion of services,
+a written notice which contains:
+A) A list of rights of the recipient of such services
+which are contained in ORS 454. 705( 2);
+and
+B) Name and address of the surety company which has
+executed the bond required by ORS 454. 705( 1);
+or
+C) A statement that the licensee has deposited cash or
+negotiable securities for the benefit of the Department
+in compensating any person injured by failure of the
+licensee to comply with ORS454. 605. to 454. 745 and with
+rules of the Environmental Quality Commission
+d) Keep the Department informed on companychanges that affect
+the license, such as business name change, change from
+SSRULE. 3 ( 9- 16- 86) 71- 122 Otr- Site Sewage Disposal
+DEPAR== OF ENVIROMWM QUALITY Water Quality Program
+o7 1979
+individual to partnership, change from Partnershioo
+corporati. on,• change in ownership, etc.
+7) Misuse of License:
+a) No licensee shall permit anyone to operate under his
+license, except a person who is working under supervision
+of the licensee.
+b) No person shall:
+A) Display or cause or permit to be displayed, or have in
+his possession any license, knowing it to be fictitious,
+revoked, suspended or fraudulently altered.
+B) Fail or refuse to surrender to the Department any license
+which has been suspended or revoked.
+C) Give false or fictitious information or knowingly
+conceal a material fact or otherwise commit a fraud
+in any license application.
+8) Pumping and Cleaning Responsibilities:
+a) Persons performing the service of pumping or cleaning of
+sewage disposal facilities shall avoid spilling of sewage
+while pumping or while in transport for disposal.
+b) Any spillage of sewageshall be immediately cleaned up by
+the operator and the spill area shall be disinfected.
+9) License Suspension or Revocation:
+a) The Department may suspend, revoke, or refuse to grant, or
+refuse to renew, any sewage disposal service license if it
+finds:
+A) A material misrepresentation or false statement in
+connection with a license application; or
+B) Failure to comply with any provisions of ORS454. 605
+through 454. 785, the rules of the Environmental
+Quality Commission or an order of the Commission or
+Department; or
+C) Failure to maintain in effect at all times the required
+bond or other approved equivalent security, in the
+full amount specified in ORS 454. 705; or
+SSRULE. 3 ( 9- 16- 86) 71- 123 On - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QU4ITY Water Quality Program
+0107 1%VQV
+D) Nonpaymentby draweeof any instrument tendered by
+applicant as payment of license fee.
+b) Whenever a license is suspended,
+revoked or expires. the
+licensee shall remove the license from display and remove all
+Department identifying labels from equipment. The licensee
+shall surrender the suspended or revoked license, and certify
+in writing to the Department within
+fourteen ( 14) days after
+suspension or revocation that all Department identification
+labels have been removed from all equipment.
+c) A sewage disposal service may not be considered for re -
+licensure for a period of at least one ( 1) - year after
+revocation of its license.
+d) A suspended license may be reinstated. providing:
+A) A complete application for reinstatement of license is
+submitted to the Department, accompanied by the
+appropriate fee as set forth in Subsection 340- 71-
+140( 1) ( i); and
+B) The grounds for suspension have been corrected;
+and
+C) The original license would not have otherwise expired.
+10) Equipment Minimum Specifications:
+a) Tanks for pumping out of sewage disposal facilities shall
+comply with the following:
+A) Have a liquid capacity of at least five hundred fifty
+550) gallons.
+EXCEPTION: Tanks for equipment used exclusively for
+pumping chemical toilets not exceeding fifty ( 50)
+gallons capacity, shall have a liquid capacity of at
+least one hundred fifty ( 150) gallons.
+B) Be of watertight metal construction;
+C) Be fully enclosed;
+D) Have suitable covers to prevent spillage.
+b) The vehicle shall be equipped with either a vacuum or other
+type pumpwhich will not allow seepage from the diaphragm
+or other. packing glands and which is self priming.
+SSRIILE. 3 ( 9- 16- 86) 71- 124 Oa - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL' QUALITY Water Quality Program
+c) The sewage hose on vehicles shall be drained, capped, and
+stored in a manner that will not create a public health
+hazard or nuisance.
+d) The discharge nozzle shall be:
+A) Provided with either a camlock quick coupling or
+threaded screw cap.
+B) Sealed by threaded cap or quick coupling when not in
+use.
+C) Located so that there is no flow or drip onto any
+portion of the vehicle.
+D) Protected from accidental damage or. breakage.
+e) No pumping equipment shall have spreader gates.
+f) Each vehicle shall at all times be supplied with a
+pressurized wash water tank, disinfectant, and implements
+for cleanup.
+g) Pumping equipment shall be used for pumping sewage disposal
+facilities exclusively unless otherwise authorized in
+writing by the Agent.
+h) Chemical toilet cleaning equipment shall not be used for
+any other purpose.
+11) Equipment Operation and Maintenance:
+a) When in use, . pumping equipment shall be operated in a manner
+so as not to create public health hazards or nuisances.
+b) Equipment shall be maintained in a reasonably clean
+condition at all times.
+12) Vehicles shall be identified as follows:
+a) Display the name or assumed business name on each vehicle
+cab and on each side of a tank trailer:
+A) In letters at least three ( 3) inches in height; and
+B) In a color contrasting with the background.
+b) Tank capacity shall be printed on both sides of the tank:
+A) In letters at least three ( 3) inches in height; and
+SSRULE. 3 ( 9- 16- 86) 71- 125 Oa - Site Sewage Disaosail
+DEPARTMENT OF' ENVIRODIIMTAL QUALITY Water Quality Program .
+0107 1982
+B) In a color contrasting with the background.
+c) Labels issued by the Department for each current license
+period shall be displayed at all times at the front,
+rear,
+and on each side of the " motor vehicle" as defined by United
+States Department of Transportation Regulations, Title 49
+U. S. C.
+13) Disposal of Pumpings. Each licensee shall:
+a) Discharge no part of the pumpings upon the surface of the
+ground unless approved by the Department in writing.
+b) Dispose of pumpings only in disposal facilities approved by
+the Department.
+c) Possess at all times during pumping, transport or disposal
+of pumpings, origin - destination records for sewage disposal
+services rendered.
+d) Maintain. on file complete origin - destination records for
+sewage disposal services rendered. Origin - Destination
+records shall . include:
+A) Source of pumpings on each occurrence, including name
+and address.
+B) Specific type of material pumped on each occurrence.
+C) Quantity of material pumped on each occurrence.
+D) Name and location of authorized disposal site,
+where pumpings were deposited on each
+occurrence.
+E) Quantity of material deposited on each
+occurrence.
+e) Transport pumpings in a manner that will not create
+a public health hazard or nuisance.
+SSRULE. 3 ( 9- 16- 86) 71- 126 On - Site Sewage Disposal
+TABLE 1
+0107 1983
+Mi ni zz- Separatim Distances
+r0 t= TaZJJL an
+Sewage Disposal Other Treatment Units.
+Area _ urLo Eiflueat- Sewer and
+Items ReQuiring Setback
+geplacement Area Distribution Uritis
+1. Groundwater Supplies
+100'
+501
+2. Temporarily Abandoned Wells
+100' 50'
+3. Springs: — upgradient
+501
+100
+50
+50'
+downgradient
+4. Surface Public Waters: — year round 00'
+150'
+50'
+S0'
+seasonal
+5. Intermittent Streams:
+Piped ( watertight not less than 25' from 20'
+201
+any part of the on --site system) 501
+Unpiped
+501
+6. Groundwater Interceptors:
+20' 20'
+On a slope of 3% of less
+On a slope greater than 3% 10'
+Upgradient 10,
+S01 251
+Downgradient
+7. Irrigation Canals:
+25 '
+251
+Limed ( watertight canal)
+Unlined
+251 251
+Upgradient
+50' 50'
+Dowagradient
+8. Cuts Manmade in Excess of 30 Inches
+Top of Downslope Cut):
+Which Intersect Layers that Limit
+Effective Soil Depth Within 48
+50' 25'
+Inches of Surface
+Which Do Not Intersect Layers That
+Limit Effective Soil Depth
+25110'
+9. Escarpments:
+Which Intersect Layers that Limit 10'
+Effective Soil Depth
+501
+Which Do Not Intersect Layers 10'
+That Limit Effective Soil Depth
+251
+10. Property Lines
+10' 10'
+11. Water Lines + 10' 10'
+12. Eouadation Lines of any Building. 51
+Including Garages and Out Buildings
+10'
+This does not prevent stream crossings of pressure effluent sewers.
+S00: h
+12/ 31/ 85
+Table - _
+TABLE 2 •
+Quantities of Sewage Flows 010' 7 1984
+Column 1 Column 2
+Minimum Gallons
+per Establishment
+Type of Establishment
+Gallons Per Day Per Day
+Airports
+Bathhouses and swimming pools
+Cams: ( 4 persons per campsite, where applicable)
+Campground with central comfort stations
+With flush toilets, no showers
+canstructicn cams ( semi- permanent)
+Day cams ( no meals served)
+Resort ( night and day) with limited
+plumbing
+Luxury camps
+Churches
+Country clubs
+country clubs
+Dwellings:
+Boarding rouses
+Additional for non- residental boarders
+Rc= rV houses
+Condominiums, Multiple family dwellings
+Including apartments)
+Single family dwellings
+With more than 2 bedrooms
+Factories ( exclusive of industrial wastes,
+with shower facilities)
+Factories ( exclusive of industrial wastes,
+without shower facilities
+Hospitals
+hotels with private baths
+Hotels without private baths
+institutions other than hospitals
+Laundries, self- service
+bile r=te par ks
+Motels ( with bath, toilet, and kitchen . asses)
+Motels ( without kitchens)
+Picnic Panics ( toilet wastes only)
+Picnic Parks ( with bathhouses, showers and
+lush toilets)
+Restaurants
+Restaurants ( single - service)
+Restaurants ( wit' s bars and/ or lounges)
+Schools:
+Boarding
+Day, without gyms, cafeterias or showers
+Day, with gyms, cafeterias and showers
+Day, with cafeteria, but without gyros or showers
+Service Stations
+Swimming pools and bathhouses
+heaters :
+Movie
+Drive - In i
+T -- ave! ; railer parks ( without individual water
+and sewer hookups)
+ravel trailer parks ( with individual water
+and sewer hookups)
+Workers:
+Constructian ( as semi- permanent camQs)
+Day, at schools and offices
+Except as otherwise provided in these rules.
+5 per passenger)
+150
+10 per person) 300
+35 per person) 700
+50025 Par person)
+1000
+50 per person)
+300
+15 per person)
+750
+50 per person) 1000
+2000100 per person)
+1505
+100
+per seat)
+per resident member) 2000
+25 per non- resident member present)
+150 per bedroom) 600
+10 per person)
+50080 per person)
+900300 per unit)
+3000
+300 ( not exceeding 2 bedrooms) 450*
+75 ( for third & each succeeding bedroom) 450
+35 ( per person per shift) 300
+15 per• perscn per shift) 150
+250 per bed space) 2500
+120 per room) 600
+500100
+125
+per roam)
+per bed space) 1250
+500 per machine) 2500
+250 per space) 750
+100 per bedroom) 500
+80 per bedroom) 400
+5 per picnicker) SO
+10 per picnicker) 300
+40 per seat) 800
+2 per customer) 300
+50 per seat) 1000
+100 per person) 3000
+15 per person) 450
+25 per person) 150
+20 per person) 600
+10 per vehicle served) 500
+10 per person) 300
+5 per seat) 300
+20 per car space) 1000
+50 ( per space) 300
+100 ( per space) 500
+50 ( per person) 1000
+15 ( per shift) SO
+0= 4 11) Tables - 2
+50" —
+48" —
+45„ —
+F—T=
+SOIL
+DEPTH 40" -
+IN
+HES
+35" —
+30" —
+0. 0'7 1985
+TABLE 3
+SLOPE, EFFECTIVE SOIL DEPTH RELATIONSHIP
+Sys 12% 15% 20% 25 30%*
+PERCENT SLOPE
+men slope exceeds 30 percent, rules on steep slope systems apply.
+Refer to OAR 340- 71- 310)
+abies -
+mss
+0
+FA
+s
+Sys 12% 15% 20% 25 30%*
+PERCENT SLOPE
+men slope exceeds 30 percent, rules on steep slope systems apply.
+Refer to OAR 340- 71- 310)
+abies -
+TABLE 4 0107 198E
+Minimum length of disposal trench ( linear feet) required per one hundred
+fifty ( 150) gallons projected daily sewage flow determined from soil
+texture versus effective soil depth.
+18" to Less . than 24" 125 150 175
+EFFECTIVE
+24" to Less than 36" 100 125 150
+SOIL
+36" to less than 48" 75 100 125
+DEPTH
+43" or more 50 75 125
+A B C
+SOIL GFZUP
+Soil Group A Sand, Loamy Sand, Sandy Loam
+Soil Group B Sandy Clay Loam, Loam, Silt Loam, Silt, Clay Loam
+Soil Group C Silty Clay Loam, Sandy Clay, Silty Clav, Clay
+Tables - 4 - `-'% 3
+7, 3LE 5
+Minimum length of dispc- al trench ( linear feet) required per one hundred
+fifty ( 150) gallons projected daily sewage flow determined from soil
+texture versus depth to temporary groundwater.
+DEPTH 24' 1
+To Less 100 125 150
+TO Than 48"
+TEMPORARY
+4811 1,
+GROUNDWATER or 50 75 125
+More
+A B C
+SOIL GROUP
+Soil Group A Sand, Loamy Sand, Sandy Loam
+Soil Group B Sandy Clay Loam, Loam, Silt Loam, Silt, Clay Loam
+Soil Group C Silty Clay Loam, Sandy Clay, Silty Clay, Clay
+T ables - 5 7,127,/ 3
+TABLE 7
+0197 1989
+Sieve
+Sizes Millimeters
+Clay
+vv
+Silt
+Very fine sand
+200 . 075
+Ne
+Fine sand
+66
+Medium sand
+35 55
+Coarse
+sandto _
+Very coarse sand ,^ ^^
+Fine gravel 4 4. 75
+3/ 8" 9. 5
+17'2
+r .
+Coarse gravel
+Cobbles
+USDA SOM CLASSIFICATICM SIZES OF SOIL SEPARATES
+OAL24 ( 1) Tables - 7
+TABLE 8
+SEPARATION DISTANCES 0107 1990.
+FOR
+NONWATM-CARRIEDWASTEDISPOSALFAC JTIES
+Unsealed Earth Type Privies,
+Self - Contained Nonwater- Carried Gray Water Waste Disposal
+Waste Disposal Facility Sump and Seepage Chambers
+Groundwater
+supplies including 100'
+springs and cisterns 50'
+Surface public
+waters, excluding
+50, 100'
+intermittent streams
+Intermittent streams
+Property
+OAL24 ( 1) Tables - 8
+DIAGRAM 1
+TYPICAL SER= DISTRIBUTION SYSTEM
+With Drop Boxes)
+0107 1991
+Structure
+Building Drain
+b
+C
+Building Sewer v
+7 10,
+0
+4
+Septic Tank
+i
+y
+toZ.
+Drop Box Effluent Sewer '
+I
+Future I eader Piping A \-- Lateral Piping -
+Replacement i
+Area
+Disposal Trenches
+i L
+Plan View
+S
+jOAe
+J-
+4" to 36"
+12- 1 -
+1
+10' Min.
+c-- ion A - -,
+itAGi, L1I•: S -:
+TYPICAL SERIAL DISTRIBUTION SYSTEM
+Building (
+Without Drop Boxes)
+Drain _
+Building Sewer
+S 010 7 1992
+7 -Septic Tank
+Y
+Qj Min. ,
+o Min.
+o
+S4 _
+rn Effluent-
+SewerffluentSewer Disposal Trenches 01
+14=
+Watertight
+Joints
+Lateral Piping
+Zi
+1
+i
+Future
+i Replacement
+i•
+Area
+Watertight Joints—
+v Slope
+691WA
+12" to 24"
+Undisturbed
+j Earth 44s: i
+Ls. 7._..,: s
+10' Min -
+1 G-L.AMS-
+DIAGRAM 3
+TYPICAL EQUAL DISTRIBUTION SYSTEM
+With Distribution Box)
+0107 1993
+Effluent
+Sewer
+Structure Septic
+51
+Tank
+Box
+EHeadereader Pipes
+LA
+Building Future
+Drain
+Replacement
+Building Area
+Sewer
+10' Min.
+18"
+Lateral Piping at the
+to 36" Same Elevation
+24"
+Section A - A
+TYPICAL EQUAL DISTRIBUTION SYSTEM
+Effluent Sewer Pipe
+0107 1994 •
+Distribution
+Box - — :._ •
+S
+I
+Header piping 8• 10'
+I ;
+i
+Lateral Piping--\ 8' 10'
+I
+Y
+Disposal Trenches 8'
+With Distribution Box
+Effluent Sewer Pipe
+Disposal Trenches -- 8' 10'
+I +
+1
+1
+j
+8' 10'
+Lateral Piping -- 8'' 10'
+Without Distribution Box
+DLAGIW- 1S- 4
+DIAGRAM 5
+TYPICAL LOOP EQUAL DISTRIBUTION SYSTEMS
+01017 1995
+Effluent Sewer
+Distribution
+Box
+T  !
+4' Header Piping +
+Disposal Trench 8'
+I j 10'
+1+
+10'
+1{
+10'
+Lateral Piping-
+8
+ISI
+i
+0
+Effluent Sewer
+Disposal Trench 8' i 10'
+7. l
+8' 10'
+I
+Lateral Piping --- S 10'
+U
+F
+H
+N
+c
+0107 1996
+1- 4
+1- 4
+14
+w
+0
+1- 4
+n. 1 i
+1-
+4
+44
+x N
+ito ...
+Oa
+4 r
+1 ai
+JUll m
+J
+W
+0
+En
+G W
+m O G
+m
+o E
+04 r i
+a4
+c
+w
+tn
+14
+0
+I
+i C
+V L
+V
+m to
+v
+U p L 1a
+O X
+JI J
+w m i
+J O
+cn
+L
+a
+C
+r
+0 1 vl w u
+C C y y
+J
+0+
+a)
+0107 199'7
+a
+0,
+4
+a
+C
+O
+t0 ?
+4
+4
+4
+N E
+1
+c 0a \
+1
+41 x
+C O
+J
+a y
+w ro Q
+W U Sr
+a  D
+Luarms -
+0107 199'7 N >: 0, 0 - f
+E ° 4 2:
+t0 ?
+4
+1
+i al
+W >
+a c°v 1
+41 to 41 °
+U • rl 4
+41 a)
+O 41 4
+a41 O
+a >
+E.. - 4
+i-
+1
+W
+0
+w
+I
+a) 1N
+c
+O 1 }
+ON W
+J
+c
+3
+a)
+i
+C
+E
+ji
+y
+y J
+zri
+Q' J
+1 .- 1 $ 4 a)
+O ( n O
+41
+L Er (; j ff
+4 - 4
+O 4+ 44
+G U al • f; v "" r
+I
+J
+J
+Luarms -
+DIAGRAM 8
+REINFORCED CONCRETE SAND FILTER CONTAINER
+2' 4' I 4' 4' I 4' 2'
+Max. I Max. Max. l i Max. I Max. IMax.
+J
+lis" 0 ( min)
+Pressure
+istributioi
+Pipe
+See
+I
+Diagram 9 11
+Detail 1 11
+C
+l
+i12" 0 ( Mir
+Pressure
+0107 1998
+2" A ( Min) Pressure
+Transport Pipe
+l
+r
+o" ( Min) Reinforced
+Concrete Wall
+4" 0 Solid Smooth Wallr{,,, 4" q1 Perforated Under - Drain
+Under - Drain to Disposal — Piping ( Note 2)
+Trench
+NOTE: 1. Refer to_ Diagram 9 for Section Details.
+2. The Invert Elevation of the Perforated Under - Drain Piping Must Be
+at least twelve inches ( 12) above the Disposal Trench Filter Material.
+3. A Thirty ( 30) Mil. ( Minimum Thickness) PVC Sheet Membrane Liner or
+Other Material Approved by the Department May Be Used in Place of
+Concrete. Use of a Sand Filter Container is Required where there is
+Likelihood of Groundwater Infiltration.
+evised '_/ 20/ 83
+REINFORCED CONCRETE SAND FILTER CONTAINER
+4 7
+Shaped Soil Backfill
+L' Min Overfill 25% to Shed Rainfall
+L'' Min - G'
+p< Ja p;' ovp00-
+Ue 0 VC7 0 0 0 000
+Medium Sand.
+Z" Min
+a c '
+Discharge)
+4" 0 Smooth Wall ,
+Under - Drain to
+Disposal Trench
+0107 1999
+a
+acs C? j o 0 vv
+00
+Pressure:-*.".'.
+Transport :.... ' ' : •'
+Pipe'
+J -' F1ter Material, ^ v
+Sand
+Leveling
+Base
+SECTION A - A
+E
+1' min Filter Fabric —
+r teinfcrced
+1' Min - _
+v
+Concreze
+1P' ressure d= ManifolFiltr eMaterial
+CC7C^,. _. J .. - -.-, = ^ - _ ' Container
+2' Kin :. _ .: : - Medium Sand .
+1
+Filter Fabric— : • ' : - -
+Pressure
+i -.. , •• - ;.' ." " : - ... -
+Transport —
+Pipe
+6"' Min ^ 4" 0 Perforated Under - Drain Piping (
+Collection) j_ <
+P .. < - •. ,
+Water Stop
+10.
+SECTIOU B - B Filter Fabric
+DETAIL 1
+2' 2' 2'
+74
+Max Max ! Max
+A o v o
+0 ( Min) Pressure Dist. Pip
+J "-! in) ?- ensure '- lsnifold
+4" Min
+Pressure Dist. Pipe
+6" min Filter - -
+Pipe material
+dium Sand
+N
+N
+r1 U
+H
+N
+E
+N . a
+t
+y '
+Na
+oo° a o
+ij I OCc
+I I n
+opeoC
+1
+C0Doe
+W
+i
+E
+U + Co
+ato
+m
+I
+I  I
+1
+r- 1 U
+WC
+4
+i N
+a40ce
+4
+I
+i
+E
+O
+I
+I  I
+1
+a40ce
+I
+4 p
+C
+0
+rl E E
+04
+y O
+C
+onOWN
+a-°
+IZ -
+C4 3°
+W , d W O4 '
+a
+O I 0 0 \
+C 4j Oo C
+04 I N =
+p
+O
+C N f2. N o o
+ma_.
+o
+a ° -
+ro
+N
+u o
+E4
+a),\
+CAN (
+o or. ' o
+I
+U
+C O oo I
+E 0` pC
+o0
+t°A 00
+p0 ,
+a
+flO00 > N
+OO c
+J
+1
+rl \
+W
+1
+I
+3 ec
+oa a o
+H
+1
+t   , 0 •.- I  o.
+JJ
+1
+ul
+f
+o
+i , N
+t
+Irl
+1 U N (D ras
+U
+ro o
+C W \ ? I C W -
+4 ) 4 \ _ f •••
+1 Sa
+N ! 1
+Effluent
+DIAGRAM 11
+REDUNDANT SYSTEM
+Diversion Valve -
+0107 2001
+Disposal Field No. 2 Disposal Field No. 1
+Header
+Pipe
+Header - -
+Disposal Trench
+Pipe -
+Lateral Piping ' s
+C
+d' I •.1
+DIAGRAM 12
+DISPOSAL TRENCH CROSS- SECTIONS
+Native Soil
+Back -". ill
+y, Filter
+Material ,
+Protection \{
+010' 7 2002
+f
+6" min.
+GRAVITY - FED 12" Min.; l
+TRENCH 36" Max.
+G od
+6" Min
+g
+Filter Material
+24" Min.
+Native Soil
+Backf ill
+Filter Fabric
+1
+6" M=
+or Equal.
+rPFWSSURIS:: D
+14" in:; ..- l 2ter ..
+TRE< IC` i
+Material...,
+QC '
+36" Max Q ` 1> -, "^ - 1i12" 24in.
+1
+Pressurized 1 \ 1
+r D istributicn ,^
+I
+24" ' Ain.
+I '
+Native Soil'- .
+l/ 6" in.
+Backf ill
+GRAVE L- LEESS
+104.
+Sidewall
+Seepage
+Area
+Botts Sides)
+DIAGRAM 13
+TYPICAL CURTAIN DRAIN
+Berm
+to eS 1
+Undisturbed Soil)
+10'
+c`,------- Trench Sidewall
+er Layer That Limits__
+ia, erial Effective Soil
+Depth24
+010' 7 2003
+Soil
+1 ' - Filter Fabric
+or Othef
+Non - biodegrad-
+able Material
+Filter z 7,
+Material
+F--
+Min.
+DIAGRAM 14
+TYPICAL GRAY WATERWASTEDISPOSAL SUMP
+Using Seepage Chamber)
+Cedar or
+Equivalent
+4 x 4See Detail A
+Was" 2
+aftPosai
+7
+Detail A
+0107 X004
+1/ 4" Hardware Cloth
+Weld to Band
+1- 2" Bar " - , M 1A
+Grate 4J
+Concrete r- 4 - 4
+Slab
+2-- concrete
+Slab Poured
+in Place Settling 181, Min.
+Chamber
+undisturbe
+Soil
+Concrete Lid
+DlFilter
+Filter
+Material
+N
+Seepage Chamber
+A!
+Grouna
+Line
+Filter
+Fabric 0-
+7aual
+Receiv
+ino
+g CO
+I,. - Chamber . 1
+I. D. 12" r* 1
+Min.
+aj
+4ja n.
+n - W
+oc.
+a
+U14
+7
+Detail A
+0107 X004
+1/ 4" Hardware Cloth
+Weld to Band
+1- 2" Bar " - , M1A
+Grate 4J
+Concrete r- 4 - 4
+Slab
+2-- concrete
+Slab Poured
+in Place Settling 181, Min.
+Chamber
+undisturbe
+Soil
+Concrete Lid
+DlFilter
+Filter
+Material
+N
+Seepage Chamber
+A!
+Grouna
+Line
+Filter
+Fabric 0-
+7aual
+Sink
+Wssts
+Ditp l
+DIAGRAM 15
+TYPICAL GREY WATER WASTE DISPOSAL SUMP
+Using Disposal Trench)
+Filter Fabric
+or Equal
+0167 2005
+s
+overfill
+allow for
+Settlement
+ri
+j
+E 8
+VV
+2„ Bar o
+c SGrate
+Concrete-
+im
+Slab
+18"
+Min.
+Settling
+Chamber
+IAGR MS- Lc
+Disposal Trench
+DIAGRAM 16
+t A.
+a
+i
+Uo. / c wire
+10P.yinI/ IG W ±
+Lid
+Filter
+Material
+1-- 3000 / b. G., rr cre st ve
+ma. 10 wf*
+3C.' on7 cx7G^ et2
+141a i
+3h '
+z a 1 C  GTS Q t;01'_i
+i a 0
+C3"
+G Q a Vii:?,
+c a ar> t
+76 or // 4 . veea •Ja/d der Diner•
+2x 2 inside ami 2 X6 cu=lce
+CROSS SECTC1V
+Ol6' 7 2006
+0
+Effluent Sewer or
+Building Sewer
+T.,•. c aaaau
+1 12. 1 aA
+c f T a o
+ac J t 7 a a Ca
+4 c t t J • t : .
+21
+Y
+Cespool or
+Seepage Pit
+R` - CAST CONCRETE LINER CETAILS
+0/ S3 1,7, G R11f•1S -'_
+Imp--- tian
+Fort - 7.,-
+75-17,k
+6ffluerA4, sewer
+ReaderApe,
+0107 2007
+6" Min. Separation
+Between Pit Wall
+and Pit Ring
+Filter Material
+YPICAL 70PVIEW PARALLEL SEEPAGE P17SI i
+L
+Filter ala. -- Yc -//) C
+ground - acer Material
+7
+Weader Pit"
+Pere
+Sepj7e tW7K)
+Refer to Diaaram 16
+Concretefor Pre - Cast
+Liner Details
+A
+in
+L
+Filter ala. -- Yc -//) C
+ground - acer Material
+IDEALIZED CROSS- SECTION OF ESCARPM& IT
+without a Layer That Limits Effective Soil Depth)
+0107 2008
+ge
+tem
+DIAGRAM 19
+IDEALIZED CROSS SECTION OF ESCARPMENT
+With a Layer That Limits Effective Soil Depth)
+010' 7 2009
+72"
+or
+Greater
+Greater Than
+50 Percent Slope
+50' Min.
+On - Site Sewage
+Disposal System
+Layer That Limits
+Effective Soil
+Depth
+l
+DIAGRAM 20
+IDEALIZED CROSS SECTION OF A SOIL COLUMN
+0107 2010
+fi •., rsw sof,. :
+q it
+Se:
+t f'•` J
+Zone of Aeration " fit " '-^-'
+Temporarj
+Nater Table
+Temporary Groundwater
+layer that 1 its - Soil Depth. ef_ f
+A J :•' u
+May or may not be Preseta. Unsaturated Zone
+Water Table
+Saturated Zone . •  • '
+Bedrock w Ti.: r .: ,. • i
+I: G RAi• IS - 0
+DIAGRAM 21
+IDEALIZED ILLUSTRATION OF UNSTABLE LANDFORMS
+Process Definition and Characteristics
+Rock fall The rapid descent of a rock mass,
+vert -
+and ically from a cliff or by leaps down a
+debris fall slope. The chief means by which taluses
+are maintained.
+Rocks l i de The rapid, sliding descent of a rock '
+and
+I
+mass down a slope. Commonly forms
+i debris sl ide I `reaps
+and confused, i rregui• ar masses or
+i ruob le.
+I i
+i
+i
+1 Slump I The downward slipping of a conerent body
+I of rock or regolith along a curved sur -
+ace of the slumped mass, and any flat -
+lying planes in it, become rotated as i
+they slide downward. The movement creates)
+a sharp facing downslope.
+I
+Debris = low
+I
+Variety:
+Mudflow
+The raoid downslope plastic flow of a
+mass of debris. Ccmmoniv forms an
+apron - like or tongue - like area, with a
+very irregular surface. In some cases,
+begins with slump at head, and con-
+centric ridges and transverse furrows
+in surface of the tonguelike part.
+1 debris flow in which the consistency
+f the substance is that of mud;
+general-
+ly contains a large proportion of fine
+articles, and a large amount of Nater.
+0107 2011
+Illustration
+IDEALIZED CROSS SECTION Of\ UNSTABLE LANDFORM
+Headwall
+SO' Kin. /
+rte '
+Slump Toe
+on - Site
+Sewage
+Disposal
+Svstem
+0107 2012 .
+50' Kin.
+r
+I
+M
+On- site Sewace
+Disposal Svstem;
+Unstable Landform
+DIAGRAM 23 0107 2013
+IDEALIZED CROSS SECTION OF UNSTABLE LANDFORM
+Trees Appear Tilted.
+Tree Trunks Bend Uniformly
+as They Enter the Ground.
+411
+Telephone Poles
+Appear Tilted
+Fences Acnear
+Tilted or
+tea• .. •
+Nei -
+Displaced
+IAC AMS
+DEPARTMENT OF ENVIRORMCAL QUALITY Water Quality Program
+SSRULE. 3 ( 9- 16- 66) 72- 1 On - Site Sewage Disposal
+DIVISION 72
+107 2014
+FEE SCHEDULES
+340- 72- 070 MULTNOMAH COUNTY FEE SCHEDULE
+1) Septic Tank and Disposal Fields:
+a) New site evaluation, 1st lot . . . . . . . 120. 00
+b) Each additional lot evaluation while
+on site . . . . . . . . . . . . . . . . . .
+120. 00
+2) Seepage Pits, Cesspools or Holding Tanks
+New Site Evaluation)
+a) Commercial site . . . . . . . . . . . . . 120. 00
+b) Industrial site . . . . . . . . . . . . . . 120. 00
+c) ( A) Multiple residential site, 1st system . . 70. 00- 0. 00(
+B) B) Each additional system . . . . . . . . . . 50. 00
+d) Single family residential site . . . . . .
+70. 00
+3) Construction Installation Permit:
+a) Standard septic tank/ drainfield,
+with daily flow of 450 gallons
+per day maximum . . . . . . . . . . . . . . 65. 00
+b) Septic tank capping fill on disposal
+area . . . . . . . . . . . . . . . . . . 75. 00
+c) Sand filter system . . . . . . . ... . . . . 100. 00
+d) Septic tank/ drainfield system in excess of
+450 gallons per day . . . . . . . . . . . . 65. 00
+Plus $ 20. 00 for - each increment of 450 gal/ day
+e) Septic tank/ drainfield lift pump
+system . . . . . . . . . . . . . . . . . . . 85. 00
+f) All alternative systems other than .
+capping fill and sand filter systemg . . . . 100. 00
+g) Cesspool . . . . . . . . . . . . . . . . . . 65. 00
+SSRULE.3 ( 9- 16- 66) 72- 1 On - Site Sewage Disposal
+DEPARTMENT OF ENVIROHIMENTAL QUALITY Water Quality Program
+010' 7 2015
+h) Cesspool excess of 20' of rings . . . 100. 00
+i) Septic tank ( maximum capacity 2500
+gallons) and one 15' or 20' seepage
+pit . . . . . . . . . . . . . . . . . . . . . .
+65. 00
+j) Septic tank ( maximum capacity 2500
+gallons) and two 15' x 20' seepage
+pits . . . . . . . . . . . . . . . . . . . . .
+100. 00
+k) System with septic tank larger than
+3000 gallons shall be prorated at
+increments of $ 50. 00/ 1000 gallon
+capacity. $ 50. 00 for each increment
+of 1000 gallons of capacity . . . . . . . . .
+100. 00
+1) Holding tank permits . . . . . . . . . . .
+iOG. 00
+4) Replacement of Cesspool . . . . . . . . . . . . . . 65. 00
+5) Alteration of septic tank and drainfield . . . . . 40. 00
+6) Extension of septic tank and drainfield . . . . . .
+40. 00
+7) Repair of septic tank and drainfield . . . . . . . 40. 00
+8) Repair of Septic tank/ drainfield with lift
+55. 00
+pump . . . . . . . . . . . . . . . . . . . . .
+9) a) Inspection of sewage disposal pump truck 25. 00
+b) Each additional licensed truck on premises
+premises . . . . . . . . . . . . . . . . .
+10. 00
+10) Evaluation of existing system adequacy . . . . 30. 00
+11) Annual evaluation of alternative system . . . . 40. 00
+When required including holding tank)
+12) Annual evaluation of temporary mobile homes 25. 00
+13) Abandonment of subsurface system . . . . . . . 35. 00
+14) Any person commencingwork without having first
+been issued a permit, as required in section
+340- 71- 160( 1), if subsequently permitted to obtain
+a permit, shall pay double the fee established in
+this rule.
+3SRULE. 3 9- 16- 36 72- 2 Ozr- Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program . '
+0107 4016340- 72- 080 JACKSON COUNTY FEE SCHEDULE ,
+ON- SITE SEWAGE DISPOSAL SYSTEMS
+1) New Site Evaluation:
+a) Single Family Dwelling:
+A) First Lot . . . . . . . . . . . . . 175
+B) Each Additional Lot Evaluated During Initial
+visit . . . . . . . . . . . . . . . . . . . 160
+b) Commercial Facility System:
+A) For First 1, 000 Gallons Projected Daily Sewage
+Flow . . . . . . . . . . . . . . . . . . . . 175
+B) Plus For Each 500 Gallons or Part Thereof
+Above 1, 000 Gallons . . . . . . . . . . . . . 40
+2) Preliminary Site Inspection . . . . . . . . . . . . .
+75
+This fee will be credited to the site evaluation fee if
+application for a site evaluation on the same property is made
+within 90 days.
+3) Construction Installation Permit:
+a) For First 1. 000 Gallons Projected Daily Sewage Flow:
+A) Standard On - Site System . . . . . . . . . . . 80
+B) Alternative System:
+Aerobic System . . . . . . . . . . . . . . . . 130
+Capping Fill . . . . . . . . . . . . . . . . . 130
+Evapotranspiration - Absorption . . . . . . . . 130
+Gray Water Waste Disposal Sump . . . . . . . .
+80
+Holding Tank . . . . . . . . . . . . . . . . .
+100
+Pressure Distribution . . . . . . . . . . . . . 130
+Redundant . . . . . . . . . . . . . . . . . . 110
+Sand Filter . . . . . . . . . . . . ... . . 150
+Seepage Trench . . . . . . . . . . . . . . . . SO
+Steep Slope . . . . . . . . . . . . . . . . .
+80
+Tile Dewatering ... . . . . . . . . . . . 130
+b) For systems with projected daily sewage flows greater than
+1, 000 gallons, the construction installation permit fee
+shall be equal to the fee required in subsection ( 3)( a) of
+SSRUL?.. 3 ( 9- 16- 86) 72- 3 On - Site Sewage Disposal
+0107 2017
+DEPARITENT OF ENVIRONKENTAL QUALITY Water Quality Program
+this rule, plus $ 10 for each 500 gallons or part thereof
+above 1. 000 gallons.
+NOTE: Fees for construction permits for systems
+with projected daily sewage flaws greater than
+5, 000 gallons shall be in accordance with the fee
+schedule for WPCF permits.
+c) Construction - Installation Permit Renewal:
+A) If Field Visit Required . . . . . . . . . . . $ 50
+B) No Field Visit Required . . . . . . . . . . . . $ 10
+NOTE: Renewal of a permit may be granted
+to the original permittee if an applica-
+tion for permit renewal is filed prior to
+the original permit expiration date.
+4) Alteration Permit . . . . . . . . . . . . . . . . . . . . $ 50
+5) Repair Permit:
+a) Single Family Dwelling . . . . . . . . . . . . . . . $ 40
+b) Commercial Facility . . . The appropriate fee
+identified in subsections ( 3)( a) and ( b) of this rule
+apply-
+6)
+pply.
+6) Authorization Notice:
+a) If Field Visit Required . . . . . . . . . . . . . . $ 40
+b) No Field Visit Required . . . . . . . . . . . . . . $ 0
+7) Annual Evaluation of Alternative System
+Where Required) . . . . . . . . . . . . . . . . . . $ 25
+S) Annual Evaluation of Large System ( 2, 501 to 5. 000 GPD) $ 50
+9) Annual Evaluation of Temporary Mobile Home . . . . . . . . $ 25
+10) Rural Area Variance to Standard Subsurface Rules:
+t ( a) Site Evaluation . . . . . . . . . . . . . . . . . . . $ 175
+NOTE: In the event there is on file a site
+evaluation report for that parcel that is less
+than ninety days old, the site evaluation fee
+shall be waived.
+SSRULE. 3 ( 9- 16- 86) 12- 4 On - Site Sewage Disvosai
+DEPARTMENT OF ENVIRODIlENTAL QUALITY Water Quality Program .
+0107 2018
+b) Construction Installation Permit The appropriate
+fee identified in Section ( 3) of this rule applies.
+11) Sewage Disposal Service:
+Pumper Truck Inspection. Each Business Licensed . . . . . $ 25
+SSRUL3. 3 ( 9- 16- 66) 72- 5 Oa - Site Sewage Disposal
+DEPARI4CNT OF ENVIRONKMITAL QIIALITY Water Quality. Program
+340- 72- 090 LIMN COU= Y SEE scgEDULE.
+0107 2019
+Linn County
+340- 72- 090 Linn County is authorized to establish fees for permits to
+repair failing on --site sewage disposal systems in amounts not to exceed the
+following:
+1) System serving a single family dwelling $ 163.
+2) System serving a commercial facility . . . The appropriate fee
+identified in OAR 340- 71- 140 ( 1) ( b) ( A) and ( B) .
+SSRULZ-. 3 ( 9- 16- 86) 72- 5 On - Site Savage Disposal
+DEPARTMENT OF ENVIRODIIU; NTAL QUALITY Water Quality Program
+340- 73- 025 SEPTIC TANK CONSTRUCTION.
+0107 2020,
+Thefollowing requirementsshall arply to all septic tanksmanufacturedfor
+use in Oregon unless specifically exemptedby other portions of these
+rules:
+1) Compartments: Septic tanks shall have single or multiple
+compartments. Multiple compartment tanks shall comply with the
+f oll owing:
+a) The first compartment shall have a minimum liquid capacity
+of at least two- thirds ( 2/ 3) of the total required liquid
+capacity, as measured from the invert of the outlet
+fitting.
+b) The second and succeeding compartments shall each have a
+minimum liquid capacity equal to or greater than one -calf
+1/ 2) of the liquid capacity of the first compartment.
+c) Each compartment shall have access provided by a manhole
+having not less than eighteen ( 18) inches across its
+shortest dimension unless otherwise approved by the
+Department. The manhole cover shall not weigh more than
+seventy- five ( 75) pounds.
+d) No compartment shall have an inside horizontal dimension of
+less than twenty- four ( 24) inches.
+2) Liquid Depth: The liquid depth. of any compartment shall be at
+least thirty ( 3.0) inches. Liquid depths greater than seventy- two
+72) inches,. shall not be considered in determining the working
+liquid capacity.
+3) Septic tanks shall be watertight.
+4) Septic tanks shall be capable of supporting an earth load of at
+least three hundred ( 300) pounds per square foot when the maximum
+coverage does not exceed three ( 3) feet. Tanks installed with
+more than three ( 3) feet of cover shall be reinforced to support
+the additional load.
+5) The inlet and outlet fittings shall be of cast iron, Schedule 40
+P. V. C. plastic. Schedule 40 ABS plastic, or other materials
+approved by the Department, with a minimum diameter of four ( 4)
+inches:
+a) The distance between - the inlet and outlet fittings shall be
+equal to; or greater than, the liquid depth of the tank.
+SSRULE. 3 ( 9- 16- 36) 73- 1 0; - Site Sewage Disposal'
+DEPARTMENT OF ENVIRODIIMM QUALITY Water Quality Program
+010' 7 2021
+b) The inlet and outlet fittings shall be located at opposite
+ends of the tank. They shall be attached in a watertight
+manner approved by the Department.
+c) The inlet fitting shall be a " sanitary tee"' extending at
+least six ( 6) inches above and below the liquid level.
+d) The outlet fitting shall - be a " tee" extending below liquid
+level a distance equal to not less than thirty- five ( 35)
+percent nor greater then fifty ( 50) percent of the liquid
+depth, and at least six ( 6) inches above the liquid depth in
+order to provide scum storage. When the tank is used as a
+holding tank, the outlet fitting shall be provided with a
+watertight plug.
+e) Ventilation shall be provided through the fittings by means
+of a two ( 2) inch minimum space between the underside of the
+top of the tank and the top of the " tee" fitting.
+f) The invert of the inlet fitting shall be not less than one
+1) inch and preferably three ( 3) inches above the invert
+of the outlet fitting.
+g) The septic tank manufacturer shall provide with each fitting
+a rubber or neoprene rubber gasket meeting ASTM
+Specification C- 564, or an appropriate coupler which the
+Department determines will provide a watertight connection
+between the fittings and the building and effluent sewer
+pipes.
+h) An access cover of not less than six ( 6) inches across
+shall be provided above each fitting.
+6) At least ten ( 10) percent of the inside volume of the tank
+shall be above liquid level to provide scum storage.
+7) In tanks with more than one ( 1) compartment, a four ( 4) inch
+diameter ( minimum) " tee" fitting shall be placed in each common
+compartment wall, using the same specifications as required for
+the outlet fitting. The invert of this " tee" fitting shall be at
+the same elevation as the outlet " tee."
+8) Septic tanks shall be constructed of concrete, not less than
+twelve ( 12) gauge or thicker steel, or other materials approved
+by the Department:.
+a) Steel tanks shall be coated inside and out with asphalt or
+other protective coatings, meeting the most current American
+National Standards Institute UL 70 standard, Sections 25
+SSMME. 3 ( 9- 16- 86) 73- 2 On - Site Sewage Disposal
+DEPARTMENT OF ENQIRONiKENTAL QUALITY Water Quality Program
+through 43, or other coatings of equal or better performance
+approved by the Department.
+0 2
+b) Precast concrete tanks shall have a mini. mum' wall.
+10'7
+compartment, and bottom thickness of two and one- half
+2 1/ 2) inches, and shall be adequately reinforced. The top
+shall be at least four ( 4) inches thick.
+c) Where concrete block tanks are permitted by the Agent,
+the
+tanks shall be constructed of heavyweight concrete block,
+eight ( 8) inch minimum thickness, laid on a six ( 6) inch
+minimum) poured foundation slab. The mortared joints shall
+be well filled. All block holes or cells shall be filled
+with mortar or concrete. " k" webbing shall be installed at
+every third row of block. Number three ( 3) re - bar shall be
+installed vertically in every block. Tank interiors shall
+be surfaced with at least two ( 2) one- quarter ( 1/ 4) inch
+thick coats of corrosion resistant water - proof sealant.
+The
+first row of blocks shall be keyed or doweled to the
+concrete foundation.
+d) Cast - in- place concrete tanks shall be constructed using the
+minimum sidewall thickness, bottom thickness, top thickness,
+and reinforcing shown in Diagram 1. All other requirements
+contained herein shall also be met. A structural permit is
+required from the Department of Commerce or the municipality
+with jurisdiction as defined in ORS 456. 750( 5). ( See
+Diagram 1.)
+e) For cast - in- place septic tanks with dimensions different
+from those shown in Diagram 1, or when the septic tank is
+to be located under a road or driveway, two ( 2) copies of
+detailed plans and specifications, prepared by a registered
+professional engineer licensed to practice in Oregon shall
+be provided to the Agent for review and approval.
+9) All prefabricated septic tanks shall be marked on the uppermost
+tank surface with the liquid capacity of the tank and either the
+manufacturers full business name or the number assigned by the
+Department.
+10) Each commercial; manufacturer of prefabricated septic tanks shall
+provide two ( 2), complete sets - of plans and specifications,
+prepared by a registered professional engineer licensed to
+practice in Oregon, to the Department for review and approval.
+11) Each commercial manufacturer of prefabricated septic tanks shall
+provide the Department with written certification that septic
+tanks for use in on- site sewage disposal systems in the State of
+Oregon will comply with all requirements of this Rule.
+SSRDLB. 3 9- 16- 86 73- 3 On - Site Sewage Disposal '
+DEPARTMDIT OF MWIRON O:NTAL QII Ty Water Quality Program
+tou
+1. Kix shall 5e at least 5 1/2 sacks crmeat
+ler Cubic Yard. ill
+Kis shat : be vssraud or ta= POd
+all. acids. :
+ret
+Work shall be cantisuc' uslY
+Or seven days after PlAce mnc.
+A" rS= forc:. a4 steel = acs shal.1 be
+centered : a raspec-.: Ve slabs and aal: s-
+S. aiator-: a4 steel shall he LM -ed 17.
+rhes .. i^, m at & jl cc=&= and splices-
+gar shat; be cold - bent jtth not less than.
+a : 1/ 4 inch radius. %
+Q. ! Rob"
+ac i• O. C. .. eY
+f—..•
+r at C" c"
+1 \ .
+t sl• s
+c
+J. ciac
+I Lul.c
+ota crJU4 1
+340- 73- 025 Te„
+L C
+010' 7 2023TYPICAL C.aST- M-,STCNG E' S= S '^ ZC _ I1C 5?_+ r'= T: C. f5
+lam
+wig
+111C
+vie
+Cel
+C
+cityI
+aci_ 7 I
+Cepth
+ccrbic
+gaucsisl
+I
+feet)
+j
+i
+v 9 -.
+7 -
+4 l e
+A
+moi
+1i
+y 03
+Cj-
+I
+I
+I
+1 J0011017 I L' 6
+i
+4'- 3• ; 9' 18'
+I----------------------
+5'
+yf
+5f- 11'" 4'- 1" .
+i
+Lt73
+I
+I GO:.
+I I
+f • f w 3w. ? w
+j• w
+tou
+1. Kix shall5e at least5 1/2 sacks crmeat
+ler Cubic Yard. ill
+Kis shat : be vssraud or ta= POd
+all. acids. :
+ret
+Work shall be cantisuc' uslY
+Or seven days after PlAce mnc.
+A" rS= forc:.a4 steel =acs shal.1 be
+centered :a raspec-.:Ve slabs and aal:s-
+S. aiator-:a4 steel shallhe LM -ed 17.
+rhes .. i^, m at & jl cc=&= and splices-
+gar shat; be cold - bent jtth not less than.
+a : 1/ 4 inch radius. %
+Q. ! Rob"
+ac i• O. C. .. eY
+f—..•
+r at C" c"
+1 \ .
+t sl• s
+c
+cwi s.+• a
+IJ'-
+I
+iawa C, CYI ;
+Sa• acac ..
+w  '
+S
+L
+oL rR' 1 s
+3SRUL-. 3 ( 9- 16— a6) 73- 4 on - Site Sewage Disposal
+J. ciac
+I Lul.c
+wen••
+acC.. a
+wa• t. —
+cwi s.+• a
+IJ'-
+I
+iawa C, CYI ;
+Sa• acac ..
+w  '
+S
+L
+oL rR' 1 s
+3SRUL-. 3 ( 9- 16— a6) 73- 4 on - Site Sewage Disposal
+DEPARTMENT OF ENVIRONKENTAL QUALITY Water Quality Program
+340- 73- 030 DOSING SEPTIC TANK ASSEMLIES. ®
+107 2024
+1) Introduction:
+A dosing septic tank combinesthe functions of a septic tank and
+dosingtank into oneunitized assemblyby.withdrawingseptic tank
+effluent with a pumpor dosing siphon from the clear zone at the
+outlet end of the tank. These may be considered by the
+Department for equipment approval for installations where the
+design flow does not exceed 450 gallons per day.
+2) Structural:
+Dosingseptic tanksshall complywith applicablestandardsfor
+septic tanks and for dosing tanks. Each tank shall be water
+tested by filling to the soffit for a
+period of one hour. During
+the test there shall be no measurable drop in water
+level, and no
+visible leakage. Each tank shall be certified watertight.
+3) Configuration:
+a) A typical design is shown in Diagram 2-
+b) The minimumtotal volume of the tank shall be 1, 100
+gallons.
+c) The minimumsubmergedvolume at the lowest operating liquid
+level shall be 900 gallons.
+d) Unless otherwise authorized by the Department, liquid levels
+shall be controlled so that twenty ( 20) percent of the
+projected daily sewage flow is discharged each cycle.
+e) The invert of the inlet tee shall be not less than one inch
+above the high operating liquid level.
+f) Ports, or holes provided in a vault or outlet device shall
+be located to withdraw effluent horizontally at an elevation
+measured from the inside bottom of the tank of 65 to 75
+percent of the lowest operating liquid depth. The net area
+of the ports shall be not less than 20 square inches.
+g) A convenient means of monitoring sludge and scum
+accumulation shall be provided, with access extending to
+ground level.:
+4) Features:
+a) Design and equipment shalf emphasize ease of maintenance and
+longevity and reliability of components,
+and shall be proven
+SSRULE. 3 ( 9- 16- 86) 73- 5 On - Site Sewage Disposal-
+DEPAMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+suitable by opreational experience,
+test, or anal y s
+suitable to the Department. % _ 07 2025
+b) An easy meansof electrical and plumbingdisconnect shall be
+provided. preventing the need for a repairman to be more
+than briefly exposed to the sewerage atmosphere.
+c) Component materials shall be durable and corrosion resistant
+such as Type 316 stainless steel, suitable plastics. or
+85- 5- 5- 5 bronze.
+5) Approvals:
+Each commercial manufacturer of prefabricated dosing septic tanks
+shall provide two ( 2) complete sets of plans and specifications,
+prepared by a registered professional engineer licensed to
+practice in Oregon, to the Department for review and approval.
+Each manufacturer must also provide written certification to the
+Department that such assemblies distributed for use in onsite
+sewage disposal systems in Oregon will comply with all
+requirements of this Rule.
+SSRULE. 3 ( 9- 16- 36) 73- 6 On— Site Sewage Disposal
+DEPARTMENT OF MWERORMCAL QUALITY Water Quality Program
+DIAGRAM 2
+340- 73- 0$ 0 ( 3))
+TYPICAL DOSING TANK
+01up"
+7 2®26
+I 1
+Acc- ass
+forsiudaeand
+scim
+PUN
+s
+n- n
+rau i -c
+Sc T1C1V'
+DIAGRAMS
+SBIII.-. 1 ?— ib- 36 73— J iSita Sewage Jisnosz
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 73- 035, DISTRIBUTION BOXES.
+0107 Z®
+spry
+1) Distribution Boxes shall be constructed of concrete, fiberglass.
+GGrr//
+or' other materials acceptable to the Department.
+2) Distribution boxes shall be watertight, and designed to
+accommodate the necessary distribution laterals. ( See Diagram 3
+for detail.) The top, walls. and bottom of concrete distribution
+boxes shall be at least one and one— half ( 1 1/ 2) inches thick.
+3) The invert elevation of all outlets shall be the same, and shall
+be at least two ( 2) inches below the inlet invert.
+4) Each distribution box shall be provided with * a sump extending at
+least two ( 2) inches below the invert of the outlets.
+5) The minimum inside horizontal dimension measured at the bottom
+shall be eight ( 8) inches, with a minimum bottom inside surface
+area of one hundred sixty ( 160) square inches. The bottom
+outside surface area shall be equal to or greater than the top
+outside surface area.
+6) Distribution box covers shall be marked with the manufacturer' s
+full business name, or number assigned by the Department.
+7) Each manufacturer shall provide the Department with complete,
+detailed plans and specifications of the distribution box,
+and
+shall certify. in writing. that distribution boxes manufactured
+for use in on— site sewage systems in Oregon will comply with all
+requirements of this Rule.
+SSRULE. 3 ( 9- 16- 86) 73- 8 On - Site Sewage Disposal '
+DEPAR= IENT OF ENQIRONHENTAL QUALITY Water Quality Program
+340- 73- 040 DROP BOXES. 0107 2028
+1) Drop boxes shall be constructed of
+concrete, fiberglass, or other
+materials acceptable to the Department.
+2) Drop boxes -shall be watertight, and designed to accommodate the
+necessary piping. ( See Diagram 3 for detail.) The top, walls,
+and bottom of concrete drop boxes shall be at least one and one-
+half ( 1 1/ 2) inches thick.
+3) The inverts of the inlet and overflow port shall be at the same
+elevation. The invert of the header pipe port( s) leading to the
+disposal trench( es) shall be six ( 6) inches below the inlet
+invert.
+4) Dropboxcoversshall be markedwith the manufacturer's full
+business name, or number assigned . by the Department.
+5) Each manufacturer shall provide the Department with complete,
+detailed plans and specifications of the drop box,
+and shall
+certify, in writing, that drop boxes manufactured for use in on-
+site sewage disposal systems in Oregon will comply will all
+requirements of this Rule.
+SSP=. 3 ( 9- 16- 66) 73- 9 On - Site Sewage Disposal
+QUALITY Wates Quality ProgramDzPARMMT OF ENVIRONMENTAL
+a.
+0107 2029
+OIAGPAM 3
+PRE- AST CONCRETE DISTRIBUTION BOX DETAIL
+OAR 340- 73- 035)
+1 1/ 2*
+Effluent
+HeaderSewer
+inlet
+I Header Outlet
+p rza:, w I- — " u Pipe LL
+2-
+arth
+Stable Level Base
+Undisturbed Earth
+or Bedded In Sand)
+PRE - CAST COZICVZ". m- DROP BOX DETAIL
+OAR 340- 73- 040)
+sight Tjcht
+Joint
+CdV—
+Outlar
+Ituat Header
+p4 pe
+14-
+V
+eon I
+Stable Lava Bass
+Undisturbed Earth
+or Bedded in Sand)
+3 - DIAGRAMS
+9- 16- 10 - 1- 10 om- iita Savage Disacea,
+DEPARTMENT OF ENVIRONMENTAL QII4ITY
+Water Quality Program
+340- 73- 041 FILTER FABRIC
+0107 2030
+Filter Fabric
+340- 73- 041 ExceptasotherwiseallowedbytheDepartmentona case-by-case
+basis, filter fabric usedwithin on-site systemsin Oregonshall meetthe
+following specifications:
+1) Material synthetic fabric, either spunbonded or woven.
+2) Burst Strength, psi — not less than 25 psi.
+3) Air Permeability, cfm per sq. ft. — not less than 500.
+4) Water Flow Rate — not less than 500 gpm per sq. ft. at 3 inches
+of head.
+5) Surface Reaction to Water —
+Hydrophilic.
+6) Equivalent Opening Size — 70 to 100 sieve.
+7) Chemical Properties:
+a) Nov - biodegradable.
+b) Resistantto acids andalkalies within a pHrangeof 4
+to 10.
+c) Resistant to common solvents.
+SS8IIL8. 3 ( 9- 16- 86) 73- 11 Oa - Site Sevage Disposal
+DEPARIENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 73- 045 DIVERSION VALVES.
+0107 2031
+1) Diversion valves shall be constructed of durable material and be
+of a design approved by the Department. They shall be corrosion -
+resistant, watertight, and designed to accomodate the inlet and
+outlet pipes.
+2) The manufacturer' s name or number assigned by the Department
+shall be marked on the cover.
+3) Each manufacturer shall provide the Department with complete,
+detailed plans and specifications of the diversion valve,
+and
+shall certify, in writing, that diversion valves manufacuted for
+use in on- site sewage disposal systems in Oregon will comply with
+all requirements of this Rule.
+SSRULE. 3 ( 9- 16- 86) 73- 12 Oa - Site Sewage Disposal
+DEPARTMENT OF ENPIROD4IENTAL QIIALITY Water Quality Program
+340- 73- 050 DOSING TANK CONSTRUCTION. 010" 2
+1) Dosingtanks usedin on-site sewagedisposal systemsin Oregonshall
+be watertight. They may be constructed of
+concrete, fiberglass, or
+other noncorrosive materials approved by the Department:
+a) Fiberglass dosing tanks shall be a minimum three sixteenths
+3/ 16) inch thick and constructed with a glass fiber content of
+40 percent and a resin content of 60 percent,
+with no exposed
+non - resin - covered glass fibers.
+b) Precast concrete dosing tanks shall have a minimum wall and
+bottom thickness of two and one- half ( 2 1/ 2) inches. The top
+shall be not less than four ( 4) inches thick. There shall be no
+seams in the walls or bottom.
+c) Cast -in- place concrete dosing tanks shall have a minimumwall,
+top, and bottom thickness of six ( 6) inches when the liquid
+capacity is twelve hundred ( 1200) gallons or less. A structural
+permit from the Department of Commerce or the municipality with
+jurisdiction ( as defined in ORS 456. 750( 5)) is required when
+cast - in- place concrete dosing tanks are used. Cast - in- place
+concrete dosing tanks with a liquid capacity greater than twelve
+hundred ( 1200) gallons shall require sub mit tal of detailed plans
+and specifications, prepared by a registered professional
+engineer licensed to practice in Oregon.
+2) Each dosing tank shall be constructed and reinforced to withstand the
+loads imposed upon the top, walls and bottom.
+3) Each dosing tank employing one ( 1) or more pumps shall have a minimum
+liquid capacity equal to the projected daily sewageflcw for flcws up
+to twelve hundred ( 1200) gallons per day. The Department may use its
+discretion in sizing dosing tanks whenthe projected daily sewageflcw
+is greater than twelve hundred ( 1200) gallons per day. The liquid
+capacity shall be as measuredfrom the invert elevation of the inlet
+fitting.
+4) The inlet fitting shall be of hubbed cast iron soil pipe or other
+materials approved by the Department, with a minimum diameter of four
+4) inches. The dosing tank manufacturer shall supply a rubber or
+neoprene rubber compression gasket meeting the minimum requirements of
+ASTM specification C- 564 with each fitting, or an appropriate coupler
+which the Department determines will provide for a watertight
+connection.
+5) Each dosing tank proposed to serve a commercial facility with a
+maximum projected daily sewage flcw of twenty- five ( 2500) gallons, or
+proposed to serve a single family dwelling, shall be provided with an
+SSRULE. 3 ( 9- 16- 86) 73- 13 On - Site Sewage Disposal.
+DEPARTMENT OF EN71RONMENTAL QUALITY Water Quality Program
+access manhole and a manhole cover, both having a minimum 0107 2A33
+horizontal measurement of eighteen ( 18) inches.
+6) Each dosing tank proposed to serve a commercial facility with a
+projected daily sewage flow greater than twenty- five (
+2500) gallons or
+when containing more than one ( 1) pump or siphon shall be provided
+with a manhole access that conforms to the following minimum
+horizontal dimensions:
+a) Opening at tank soffit— thirty ( 30) inches;
+b) Inside of manway— forty- two ( 42) inches;
+c) Manhole cover opening— twenty- three ( 23) inches.
+7) Each prefabricated dosing tank shall be marked on the uppermost
+surface with the liquid capacity and the manufacturer' s full business
+name or number assigned by the Department.
+8) Each commerical manufacturer of prefabricated dosing tanks shall
+provide two ( 2) complete sets of plans and specifications, prepared by
+a registered professional engineer, licensed to practice in Oregon. to
+the Department for review and approval. Each manufacturer must also
+provide written certification to the Department that such tanks
+distributed for use in on- site sewage disposal systems in Oregon will
+comply with all requirements of this Rule.
+9) Dosing tanks with siphons shall be designed and sized for each
+specific project and shall allow sufficient clearance above the siphon
+dome to allow removal of the dome.
+SSRULE. 3 ( 9- 16- 86) 73- 14 On - Site Sewage Disposal
+DEPAR= V= OF ENVIRONMENTAL QUALITY Water Quality Program
+010' 7 2,034
+340- 73- 055 EFFLUENT PUMPS, CONTROLS &' ALARMS, AND DOSING SIPHONS.
+1) Pumps, Controls, and Alarms: Electrical components used in on-
+site sewage disposal systems shall comply with State of Oregon
+Electrical Code, and the following provisions:
+a) Motors shall be continuous— duty, with overload protection.
+b) Pumps shall have durable impellers of bronze, cast iron, or
+other materials approved by the Department.
+c) Submersible pumps shall be provided with an easy, readily
+accessible means of electrical and plumbing disconnect,
+and
+a noncorrosive lifting device as a means of removal for
+servicing.
+d) Except where specifically authorized in writing by the
+Director, the pump shall be placed within a corrosion-
+resistant screen that extends above the maximum effluent
+level within the pump chamber. The screen shall have at
+least twelve ( 12) square feet of surface area, with one—
+eighth ( 1/ 8) inch openings. The use of a screen is not
+required if the pump does not discharge into a pressurized
+distribution system, and the pump has a nonclog impeller
+capable of passing a 3/ 4 inch diameter solid sphere.
+e) Pumps shall be automatically controlled by sealed mercury
+float switches with a minimum mercury tube rating of twelve
+12) amps at one hundred fifteen ( 115) volts A. C. or by a
+Department approved equivalently reliable switching
+mechanism. The switches shall be installed so that
+approximately twenty ( 20) percent of the projected daily
+sewage flow is discharged each cycle.
+f) An audible and visual high water level alarm with manual
+silence switch shall be located in or near the building
+served by the pump. The audible alarm only may be user
+cancelable. The switching mechanism controlling the high
+water level alarm shall be located so that at time of
+activation the dosing tank has at least one— third ( 1/ 3) of
+its capacity remaining for effluent storage.
+g) When a system has more than one ( 1) pump, the Department may
+require they be wired into the electrical control panel to
+function alternately after each pumping cycle. If either
+pump should fail the other pump will continue to function.
+while an audible ( user cancelable) and visual ala = ( not
+user cancelable) indicating pump malfunction will activate.
+A cycle counter shall be installed in the electrical control
+panel for each pump.
+SSRULE. 3 ( 9- 16- 66) 73- 15 On— Site Sewage Disposal
+010' 2035
+DEPARTMM OF ENV RONKMAL QUALITY pater Quality Program
+2) Dosing Siphons. Dosing s4_Yhons used in ocr-site sewage disposal
+systems shall comply with all of the following minimum
+requirements
+a) Shall be constructed of corrosionresistant materials.
+b) Shall be installed in accordance with the - manufacturer' s
+recommendations.
+3SRDLE.'. ( 9 - i6 - 6) -? 6 7a - Site Sewage Disposal
+DEPARM4M OF ENVIROnmzNTAL QUALITY
+Water Quality Program,
+340- 73- 060 p1p% MATERIALS AICD CONSTRUCTION.
+0107 2036
+1) Effluent C,. wer Pipe:
+Theeffluent sewershall be constructedwith materials in
+conformance to building sewer standards, as identified in the
+Oregon State Plumbing Laws and Administrative
+Rules. The
+effluent sewer pipe shall have a minimum diameter of
+three ( 3)
+inches.
+2) Distribution and Header Pipe and Fittings:
+a) Plastic Pipe and Fittings:
+A) Styrene - rubber plastic distribution and header pipe and
+fittings shall meet the most current ASTM (
+American
+Society for Testing and Materials)
+Specification D 2852
+and Sections 5. 5 and 7. 8 of Commercial Standard 228,
+published by the U. S. Department of Commerce. Pipe
+and fittings shall also pass a deflection test
+withstanding three hundred - fifty ( 350) pounds/ foot
+without cracking by using the method found in ASTM
+2412. In addition to the markings required by ASTM
+2852, each manufacturer of styrene - rubber plastic pipe
+shall certify, in writing to the Department. that the
+pipe to be distributed for use in absorption facilities
+within the State of Oregon will comply with all
+requirements of this section.
+B) Polyethylene distribution pipe in ten ( 10) foot lengths
+and header pipe in lengths of ten ( 10) feet or greater
+of which pipe and fitting shall meet the current ASTM
+Specification F405. Pipe and fittings shall also pass
+a deflection test withstanding three hundred - fifty
+350) pounds per foot without cracking or collapsing by
+using the method found in ASTM2412.
+Pipe used in
+absorption facilities shall be heavy duty. In addition
+to the markings required by ASTM F405. each
+manufacturer of polyethylene pipe shall certify, in
+writing to the Departmentthat the pipe to be
+distributed for use in absorption facilities within the
+State of Oregon will comply with all requirements of
+this section.
+C) Polyvinyl chloride ( PVC) distribution and header pipe
+and fittings shall meet the most current ASTM
+Specification D- 2729. Pipe and fittings shall pass a
+deflection test withstanding three hundred - fifty ( 350).
+pounds per foot without cracking or collapsing by using
+the method found in ASTM 2412. Markings shall meet
+SSRUL=. L k9-: 6- 86) ' 3-: 7 O= - Site Barrage Disposal
+DEPARTMENT OF ENVIRAHI NTAL IIALITY water,, < &
+UIU7 Z037
+requirements established in ASTM Specification D- 2729.
+subsections 9. 1. 1., 9. 1. 2 and 9. 1. 4. Each manufacturer
+of polyvinyl chloride pipe shall certify, in writing to
+the Department, that pipe and fittings to be
+distributed for use in absorption facilities within the
+State of Oregon will comply with all requirements of
+this section.
+D) Polyethylene smooth wall distribution and header pipe
+ten ( 10) foot lengths) and fittings shall meet the
+most current ASTM specification F 810. Pipe and
+fittings shall also pass a deflection test of three
+hundred fifty ( 350) pounds per foot without cracking or
+collapsing by - using the method found in ASTM2412.
+Markings shall meet the requirements established in
+ASTM specification F 810. Section 9. Each manufacturer
+of polyethylene smooth wall pipe shall certify, in
+writing to the Department that the pipe to be
+distributed for use in absorption facilities within the
+State of Oregon will comply with all requirements of
+this Rule.
+E) The four types of plastic pipe described above shall
+have two ( 2) rows of holes spaced one hundred - twenty
+120) degrees apart and sixty ( 60) degrees on either
+side of a center line. For distribution pipe, a line
+of contrasting color shall be provided on the outside
+of the pipe along the line furthest away and parallel
+to the two ( 2) rows of perforations. Markings,
+consisting of durable ink, shall cover at least fifty
+50) percent of the pipe. Markings may consist of a
+solid line, letters, or a combination of the two.
+Intervals between markings shall not exceed twelve ( 12).
+inches. The holes of each row shall be not more than
+five ( 5) inches on center and shall have a minimum
+diameter of one- half ( 1/ 2) inch.
+b) Concrete tile in twelve ( 12) inch lengths shall meet the
+current ASTM Specification C 412. Each manufacturer of
+concrete the shall certify. in writing to the Department,
+that the pipe to be distributed for use in absorption
+facilities within the State of Oregon will comply with all
+of the requirements of this section.
+c) Clay drain tile in twelve ( 12) inch lengths shall meet the
+current ASTM Specification C 4. Tile used as part of an .
+absorption facility shall bear the ASTM number above and
+some identification as to which quality standard it meets
+Standard, Extra - Quality. Heavy - Duty). In addition to the
+markings required above. each manufacturer of clay tile
+SSRULE. 3 ( 9- 16- 86) 73- 18 On - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+shall certify. in writing to the Department, that the pipe
+to be distributed for use in absorption facilities within .
+the State of Oregon shall comply with all of the r
+2038
+Q
+requirements of this section. Q10 ( 2038
+d) Bituminized fiber solid pipe and fittings shall meet the
+current ASTM Specification D 1861. Perforated bituminized
+fiber pipe shall meet the cusent ASTMSpecification D 2312.
+Each length of pipe and each fitting shall be marked with
+the nominal size, the manufacturer' s name or trademark, or
+other symbol which clearly identifies the manufacturer and
+the appropriate ASTM specification number above. Markings
+on pipe shall be spaced at intervals not greater than two
+2) feet. In addition to the markings required above,
+each
+manufacturer of bituminized pipe shall certify. in writing
+to the Department. that the pipe to be distributed for use
+in absorption facilities within the State of Oregon shall
+comply with all requirements of this section.
+In addition.
+all bituminized pipe that is to be installed as part of an
+absorption facility shall comply with the following
+requirements. The pipe shall have two rows of holes spaced
+one hundred - twenty ( 120) degrees apart and sixty ( 60 )
+degrees on either side of a center line. For distribution
+pipe, a line of contrasting color shall be provided on the
+outside of the pipe along the line furthest away and
+parallel to the two ( 2) rows of perforations. Markings,
+consisting of durable ink, shall cover at least fifty ( 50)
+percent of the pipe. Markings may consist of a solid line,
+letters, or a combination of the two. Intervals between
+markings shall not exceed twelve ( 12) inches. The holes of
+each row shall not be more than five ( 5) inches on center
+and shall have a minimum diameter of one- half ( 1/ 2) inch.
+e) Polyvinyl chloride ( PVC) pressure transport pipe, pressure
+manifolds. and pressure lateral pipe and fittings shall meet
+the current requirements for Class 160 PVC 1120 pressure
+pipe as identified in ASTM Specification D- 2241. The pipe
+and fittings shall marked be as required by ASTM
+Specification D- 2241.
+f) Gravel - less disposal trench systems shall be constructed
+using corrugated polyethylene pipe. fittings and couplings
+that comply with the requirements of ASTM F 667. The pipe
+shall have two rows of holes spaced approximately one
+hundred twenty ( 120) degrees apart, and approximately one
+hundred twenty ( 120) degrees apart each from the locaticn
+stripe which shall be a contrasting color. The drain holes
+shall be a minimum of one- half ( 1/ 2) inch diameter. The
+minimum outlet area shall be one ( 1) square inch per - lineal
+foot of pipe. There shall be at least one ( 1) drain hole
+SSRULE. 3 ( 9- 16- 66) 73- 19 Oa - Site Sewage Disposal
+0107 2039
+DEPARZMENT OF ENVIRONMITAL QUALITY Water Quality Program
+present in the valley of each corrugation. The gravel - less
+disposal trench pipe shall have a minimum inside diameter of
+ten ( 10) inches. and be encased in a factory - installed
+filter fabric wrap acceptable to the Department. Each
+manufacturer of this pipe shall certify in writing to the
+Department that the pipe and fittings to be distributed for
+use in absorption facilities within the State of Oregon will
+comply with all requirements of this subsection.
+SSR =. 3 19- 16- 86) 73- 20 On - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+NONWATER- CARRIED WASTE DISPOSAL FACILITIES,
+MATERIALS. AND CONSTRUCTION.
+340- 73- 065 PRIMRTAB ES AND POLE TOILET SHELTERS. 0107 2040
+1) Privies and portable toilet shelters shall comply with the
+following general requirements:
+a) Structures shall be free of hostile surface features,
+such
+as exposed nail points, sharp edges, and rough or broken
+boards, and shall provide privacy and protection from the
+elements.
+b) Building ventilation shall be equally divided betweenthe
+bottom and top halves of the room. All vents shall be
+screened with sixteen ( 16) mesh screen of durable material.
+c) Buildings shall be of fly - tight construction and shall have
+self- closing doors with an inside latch.
+d) Pits. tanks or vaults shall be vented to the outside
+atmosphereby a flue or vent stack having a minimuminside
+diameter of four ( 4) inches. Vents shall extend not less
+than twelve ( 12) inches above the roof.
+e) Interior floors, walls, ceilings, partitions, and doors
+shall be finished with readily cleanable impervious
+materials resistant to wastes, cleansers and chemicals.
+Floors and risers shall be constructed of impervious
+material and in a manner which will prevent entry of vermin.
+f) Seat tops shall be not less than twelve ( 12) inches nor more
+than sixteen ( 16) inches above the floor. The seat openings
+shall be covered with attached. open - front toilet seats wit:
+lids, both of which can be raised to allow use as a urinal.
+g) The distance between the front of the riser and the building
+wall shall not be less than twenty- one ( 21) inches.
+2) Privies. In addition to complying with the requirements
+specified in Section 1 of this Rule, privies shall be provided
+with:
+a) Vents equal in area to not less than one- fifth ( 1/ 5) the
+floor area or a minimum of three ( 3) square feet, whichever
+is greater.
+b) A minimum clear space of twenty- four ( 24) inches betweeen
+seats in multiple - unit installations and a clear space of
+twelve ( 12) inches from the seat opening to the building
+wall in both single and multiple units.
+SSR ULE . 3 ( 9- 16- 86) 73- 21 On - Site Sewage Disposal
+DEPARTMENT OF MWIRONKENTAL QUALITY Water Quality Program
+0107 2041
+3) Portable Toilet Shelters. Portable toilet shelters may be
+prefabricated, skid mounted, or mobile. In addition to complying
+with the requirements specified in Section 1 of this Rule.
+portable toilet shelters. shall:
+a) Provide screened ventilation to the outside atmosphere
+having a minimum area of one ( 1) square foot per seat.
+b) Provide a minimum floor space outside of the riser of nine
+9) square feet per seat.
+c) Be furnished with a toilet tissue holder for each seat.
+d) Be located in areas readily accessible to users and to
+pumping/ cleaning services.
+e) Provide separate compartments with doors and partitions or
+walls of sufficient height to insure privacy in multiple -
+unit shelters except that separate compartments are not
+required for urinals.
+SSRULE. 3 ( 9- 16- 86) 73- 22 Oa - Site Sewage Disposal
+DEPARMENT OF ENVIROHI= AL Q94ITY Water Quality_ Program
+340- 73- 070 UNSEAI. F.D ' FARTS PITS FOR PRIVIES. 0107 2042
+1) The pit shall be constructed of such material and in such a
+manner as to prevent rapid deterioration,
+provide adequate
+capacity, and facilitate maintenance in a satisfactory manner
+under ordinary conditions of usage.
+2) The pit shall provide a capacity of fifty ( 50) cubic feet for
+each seat installed in the privy building and shall be at least
+five ( 5) feet deep. The area within sixteen ( 16) inches of the
+surface grade shall not be counted as part of the fifty ( 50)
+cubic— foot capacity.
+3_) Pit cribbing shall fit final. y and be in uniform contact with the
+earth walls on all sides, and shall rise at least six ( 6) inches
+above the original ground line and descend to the full depth of
+the pit. However, pit cribbing below the soil line may be
+omitted in rock formations.
+SSRULE. 3 ( 9- 16- 66) 73- 23 0t - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALM Water Quality Program
+340- 73- 075 SELF- CONTAINED NONWATER-CARRIED TO= T FACILITIES 07 043
+1) General Standards. All self- contained nonwater- carried toilet
+facilities shall comply with the following requirements:
+a)' They shall have water - tight chambers constructed of
+reinforced concrete, plastic, fiberglass, metal, or of other
+material of acceptable durability and corrosion resistance,
+approved by the Department, and designed to facilitate the
+removal of the wastes.
+b) Black wastes shall be stored in an appropriate chamber until
+removal for final disposal elsewhere. Wastes shall be
+removed from the chamber whenever necessary to prevent
+overf 1 ow .
+c) Chemicals containing heavy metals, including but not limited
+to copper. cadmium and - zinc. shall not be used in self-
+contained toilet facilities.
+d) All surfaces subject to soiling shall be impervious, easily
+cleanable, and readily accessible.
+2) Vault Toilet Facilities:
+a) The minimumcapacity of vaults shall be three hundred -fifty
+350) gallons or, in places of employment, one hundred ( 100 )
+gallons per seat.
+b) Caustic shall be added routinely to vault chambers to
+control odors.
+3) Chemical Toilet Facilities:
+a) Toilet bowls shall be constructed of stainless steel,
+plastic, fiberglass, ceramic or of other material approved
+by the Department.
+b) Waste passages shall have smooth surfaces and be free of
+obstructions, recesses or cross braces which would restrict
+or interfere with flow of black wastes.
+c) Biocides and oxidants shall be added to waste detention
+chambers at rates and intervals recommended by the chemical
+manufacturer and approved by the Department.
+d) Chambers and receptacles shall provide a minimum storage
+capacity of fifty ( 50) gallons per seat.
+SSRULE. 3 ( 9- 16- 86) 73- 24 on - Site Sewage Disposal
+OF ENVIRONIENTAI. QUALITY
+WaterPro ram
+7 .
+e) Portable shelters housing chemical toilets shall display the
+business name of the licensed sewage disposal service that
+is responsible for servicing them.
+SSRULE. 3 ( 9- 16- 86) 73- 25 On - Site Sewage Disposal
+DEPARIIENT OF ENVIRONKMAL QUALITY Water Quality Program
+340- 73- 080 CONSTIMCTIONOF GW WATERWASTEDISPOSAL. SM4PS0100 2045
+A gray water waste disposal sump shall consist of a receiving chamber,
+settling chamber, and either a seepage chamber or disposal trench. An
+acceptable design for gray water waste disposal sumpsis shownin OAR340,
+Division 71, Diagrams 14 and 15..
+SSRULE. 3 ( 9- 16- 86) 73- 26 On - Site Sewage Disposal
+DEPARTMENT OF ENVIRONMENTAL QUALITY Water Quality Program
+340- 73- 085 FLEXIBLEMEMBRANELINERSFORSAHDFILTERSTREATINGSEPTICTANK
+EFFLUENT.
+1) Unsupported polyvinyl chloride ( PVC) shall have the fol
+properties: 0 11F77 2VA46
+owi/ ng__
+Property
+Test Method
+a) Thickness ASTM D15 93 30 mil, minimum
+Para 8. 1. 3
+b) Specific Gravity ASTM D792
+minimum) Method A
+c) Minimum Tensile Properties ASTM D882
+each direction)
+A) Breaking Factor
+pounds/ inch width)
+B) Elongation at Break
+percent)
+C) Modulus ( force) at
+100% Elongation
+pounds/ inch width)
+d) Tear Resistance ( pounds,
+minimum)
+e) Low Temperature
+f) Dimensional Stability
+each direction, percent
+change maximum)
+g) Water Extraction
+h) Volatile Loss
+i) Resistance to Soil Burial
+percent chatge maximum
+in original value)
+A) Breaking Factor
+B) Elongation at Break
+Method A or B 69
+1 inch wide)
+Method A or B 300
+Method A or B 27
+ASTM D1004 8
+Die C
+ASTM D1790 - 20 of
+ASTM D1204 f5
+2120F, 15 min.
+ASTM D1239 - 0. 35% max.
+ASTM D1203 0. 7% mag.
+Method A
+ASTM D3083
+SSRULE. 3 ( 9- 16- 86) 73- 27 Oo- Site Savage Disposal,
+DEPARTMENT OF MWIRON19WAL QUALITY Water. Quality Program
+0107 2047
+C) Modulus at 100% Elongation + 10
+j) Bonded Seam Strength
+factory seam, breaking
+factor, ppi width)
+k) Hydrostatic Resistance
+2) Installation Standards:
+ASTM D3083 55. 2
+ASTM D751 82
+Method A
+a) Patches, repairs and seams shall have the same physical
+properties as the parent material.
+b) Site considerations and preparation:
+A) The supporting surface slopes and foundation to accept
+the liner shall be stable and structurally sound
+including appropriate compaction. Particular attention
+shall be paid to the potential of sink hole development
+and differential settlement.
+B) Soil stabilizers such as cementations or chemical
+binding agents shall not adversely affect the membrane;
+cementations and chemical binding agents may be
+potentially abrasive agents.
+c) Only fully buried membraneliner installation shall be
+considered to avoid weathering.
+d) Unreinforced liners have high elongation and can conform to
+irregular surfaces and follow settlements within limits.
+Unreasonable strain reduces effective thickness and may
+reduce life expectancy by. lessening the chemical resistance
+of the thinner ( stretched) material. Every effort shall be
+made to minimize the strain ( or elongation) anywhere in the
+flexible membrane liner.
+e) Construction of site:
+A) Surface condition:
+i) Preparation of earth subgrade. The prepared
+subgrade shall be of soil types no larger than
+Unified Soil Classification System ( USCS) sand
+SP) to a minimum of four ( 4) inches below the
+surface and free from loose earth, rock,
+fractured stone, debris, cobbles, rubbish and
+roots. The surface of the completed subgrade
+shall be properly compacted,
+smooth, uniform and
+SSRULE. 3 ( 9- 16- 86) 73- 28 Oa - Site Sewage Disposal
+DEPARMUM OF ENVIRONMENTAL QUALITY Water Quality Program,
+0107 2048
+free from sudden changes in grade. Importing
+suitable soil may be required.
+ii) Maintenance of subgrade. The earth subgrade
+shall be maintained in a smooth,
+uniform and
+compacted condition during installation of the
+lining.
+B) Climatic conditions:
+i) Temperature. The desirable temperature range for
+membrane installation is 42OF to 780F. Lower or
+higher temperatures may have an adverse effect on
+transportation, storage, field. handling and
+placement, seaming and backfilling and attaching
+boots and patches may be difficult. Placing
+liner outside the desirable temperature range
+shall be avoided.
+ii) Wind. Wind may have an adverse effect on liner
+installation such as interfering with liner
+placement. Mechanical damage may result.
+Cleanliness of areas for boot connection and
+patching may not be possible.
+Alignment of seams
+and cleanliness may not be possible. Placing the
+liner in high wind shall be avoided.
+iii) Precipitation. When field seaming is adversely
+affected by moisture,
+portable protective
+structures and/ or other methods shall be used to
+maintain a dry sealing surface. _ Proper surface
+preparation for bonding boots and patches may not
+be possible. Seaming. patching and attaching
+boots' shall be done under dry conditions.
+C) Structures. Penetration of a flexible liner by any
+designed means shall be avoided. Where penetrations
+are necessary, such as horizontal ' and vertical pipes,
+it is essential to obtain a secure, liquid - tight seal
+between the pipes and the flexible liner. Liners shall
+be attached to pipes with a mechanical type seal
+supplemented by a chemically compatible caulking or
+adhesives to effect a liquid - tight seal. The highest
+order of compaction shall be provided in the area
+adjacent to pipes to compensate for any settlement.
+D) Liner Placement:
+i) Size. The final cut size of the liner shall be
+carefully determined and ordered to generously
+SSRDLE. 3 ( 9- 16- 86) 73- 29 On, - Site Sewage Disposal
+DEPARITMNT OF EMRODIIMENTAL QUALITY Water Quality Program
+0107- 2Meldfit the container geometry without semi: g
+or excess straining of the liner material.
+ii) Transportation, handling and storage. Trans-
+portation, handling and storage procedures shall
+be planned to prevent material damage. Material
+shall be stored in a secured area and protected
+from adverse weather.
+iii) Site inspection. A site inspection shall be
+carried out by the Agent and the installer prior
+to liner installation to verify surface
+conditions, etc.
+iv) Deployment. Panels shall be positioned to
+minimize handling. Seaming should, not be
+necessary. Bridging or stressed conditions
+shall be avoided with proper slack allowances
+for shrinkage. The liner shall be secured to
+prevent movement and promptly backfilled.
+v) Anchoring trenches. The liner edges should be
+secured frequently in a backfilled trench.
+vi) Field seaming. Field seaming, if absolutely
+necessary, shall only be attempted when weather
+conditions are favorable. The contact surfaces
+of the materials should be clean of dirt, dust.
+moisture, or other foreign materials. The
+contact surfaces shall be aligned with
+sufficient overlap and bonded in accordance with
+the suppliers recommended procedures. Wrinkles
+shall be smoothed out and seams should be
+inspected by nondestructive testing techniques
+to verify their integrity. As seaming occurs
+during installation, the field seams shall be
+inspected continuously and any faulty area
+repaired immediately.
+vii) Field repairs. It is important that traffic on
+the lined area be minimized. Any necessary
+repairs to the liner shall be patched using the
+same lining material and following. the
+recommended procedure of the supplier.
+viii) Final inspection and acceptance. Completed
+liner installations shall be visually checked
+for punctures, rips, tears and seam
+discontinuities before placement of any
+backfill. At this time the installer shall also
+SSP=. 3 ( 9- 16- 36) 73- 30 Oct - Site Sewage Disaosal
+DEPARTMENT OF IIALITY Water9W1jWZ- 9rURiL
+ulul. 4K
+manually check all factory and f: ald seams with
+an appropriate tool. In lieu of or in addition
+to manual checking of seamy y the installer,
+either of the following tests may be performed:
+I) Wet Test: The lined basin shall be flooded
+to the four ( 4) foot level with water after
+inlets and outlets have been plugged.
+Workmanship shall be accepted if leakage
+rate in a 24- hour period is no greater than
+0. 25 inches.
+II) Air Lance' Test: Inspect all seams ( factory
+and field) for unbonded areas using an air
+nozzle directed on the upper seam edge and
+surface to detect loose edges. Riffles
+indicate unbonded areas within the seam,
+or
+other undesirable seam constructicn. Check
+all bonded seams using a minimum 50 PSI
+gauge) air supply directed through a 3/ 16
+inch ( typical) nozzle, held not more than 2
+inches from the seam edge and directed at
+the seam edge.
+3) Operation and Maintenance Standards. The owner/ purchaser of a
+sand filter system must recognize that he assumes the continuous
+responsibility to preserve the installation as near as practical
+in its " as built" state. This responsibility includes the
+control or erosion of any "
+mound," the control and removal of
+large perennial plants, the fencing out of livestock and the
+control of burrowing animals.
+SZMnZ. 3 ( 3-: 6- 36) - 3- 31 On - Site Sewage Disposal

@@ -1,0 +1,143 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-97-062
+title: 'Ordinance No. 97-062'
+doc_type: ordinance
+citation: 'Ordinance No. 97-062'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616785691_1997-29271-Ordinance%20No.%2097-062%20Recorded%208_14_1997.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 607fdf3af2dd65527e2127842fe0d7a68c5b2c49b10d31a88e56d64d813b2b67
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 97-062 (Ordinance No. 97-062)
+
+## At a glance
+
+Ordinance No. 97-062 — orders of Deschutes County. 2 pages.
+
+## Full text
+
+REVIEWED
+REVIEWED AS TO FORM
+gyp T •- r- a
+CODE REVIEW COMM.
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Deschutes County Code * 97ALIC, 14 PH2: 24
+Chapter 2.04, Board of County Commissioners,
+and Declaring an Emergency. ni ?_, i I ti F ` fie _, .
+ORDINANCE NO. 97- 062 01
+UUcP_ P
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. AMENDMENT. Deschutes County Code Chapter 2.04, Board of County
+Commissioners, is amended to read as described in Exhibit " A," attached hereto and by this
+reference incorporated herein, with new language underlined and language to be deleted in
+s C_- eat -h -r- a tigh
+Section2. EMERGENCY. This ordinancebeing necessaryfor the immediate preservation
+of the public peace, health and safety, an emergencyis declaredto exist, and this ordinance takes
+effect on its passage.
+DATED this 13thday of August, 1997.
+ATTEST:
+Recording Secretary
+PAGE 1 of 1 - ORDINANCE NO. 97- 062 ( 8/ 13/ 97)
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON
+0— " T.`TVj'.'ii/_' aa" a
+U
+r
+INDA L. SWEARINGE , Commissioner
+KEYPTJNiJ
+EXHIBIT " A"
+Chapter 2. 04. BOARD OF COUNTY
+COMMISSIONERS
+2. 04. 010. Regular meetings.
+2. 04. 020. Work sessions and department
+head meetings.
+2. 04. 030. Special meetings - Authorized
+when.
+2. 04. 040. Special meetings - Notice.
+2. 04. 050 Chairperson.
+2. 04. 010. Regular meetings.
+The Board of County Commissioners shall
+meet for the transaction of county business on
+each the first, second and fourth Wednesday of
+each month at 10: 00 a.m. in the Pos,....+
+r,..
+my Getwtheuse m ex at a locationto beset
+by the board. Such meetings shall constitute the
+regular meetings of the Board of County
+Commissioners. ( Ord. 97- 062 § 1, 1997; Ord.
+86- 012 § 1, 1986; Ord. 85- 004 § 1, 1985)
+2. 04. 020. Work sessions and department
+head meetings.
+A. The Board of County Commissioners
+shall meet in work session on eaeh the first,
+second and fourth Monday of each month at
+10: 00 a. m., and an the first through the f u -th
+Desshotes County GeuFt"^ Anne" nne" at a
+location to be set by the board.
+B. Wednesday and Monday afternoons
+wefk sessiens shall be reserved for department
+head meetings:, as fel; ews: at a location to be set
+by the board.
+1-s`c xroii
+2n„cra Wed211d Wed
+i
+Ira We
+4h WeaTcr,--..- oQ
+0162- 29-57
+I - U Open
+n- — open
+3:i6 open
+5:66 open
+Ord. 97- 062 § 1, 1997; Ord. 95- 027 § 1, 1995;
+Ord. 85- 004 § 2, 1985)
+2. 04. 030. Special meetings - Authorized
+when.
+The Board of County Commissioners may
+meet at other times and places as may be called
+by the chairmanor two membersof the board.
+Ord. 85- 004 § 3, 1985)
+2. 04. 040. Special meetings - Notice.
+Unless notice is waived by all members of
+the board, no meetingof the boardshallbe held
+unless notice of the time and place of the meeting
+is given at least twelve hours in advance of the
+meeting. Nothing in this section shall be
+construed to conflict with Oregon Revised
+Statutes 192.610 to 192.690 relating to the
+required notice for public meetings. ( Ord. 85- 004
+4, 1985)
+2. 04. 050. Chairperson.
+At the first meeting in January of each year,
+the board shall appoint a chairperson. If two
+commissioners are unable to agree upon a
+chairperson, then the commissioner with the
+longest length of service will act as chairperson.
+The chairperson shall appoint a commissioner to
+act as vice chairperson in the absence of the
+chairperson. ( Ord. 97- 047 § 1, 1997)
+Page 1 of 1 - EXHIBIT " A" to ORDINANCE 97- 062 ( 8/ 13/ 97)

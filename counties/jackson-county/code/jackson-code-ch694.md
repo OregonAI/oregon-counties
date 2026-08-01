@@ -1,0 +1,179 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch694
+title: 'Ch694'
+doc_type: ordinance
+citation: 'Ch694'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/General%20Offenses/Ch694.pdf?t=202406181546250
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e1de59ba88fe0c375f9dae7a7fdfafc4c34d68376ff4ceb6fbebcf365f930fff
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 146.710
+    - ORS 161.219
+    - ORS 166.210
+    - ORS 166.240
+    - ORS 166.370
+    - ORS 166.410
+    - ORS 166.490
+    - ORS 480.210
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch694 (Ch694)
+
+## At a glance
+
+Ch694 — code of Jackson County. 4 pages.
+
+## Full text
+
+CHAPTER 694
+Weapons and Explosives
+
+694.01 Concealed Weapon Permits; Fee.
+694.02 Firearms in County Gravel Pit.
+694.03 Security in Transfer of Funds.
+694.04 Unlawful use of Weapons in White City.
+694.99 Penalty.
+
+CROSS REFERENCES
+
+Injury investigations - see ORS 146.710 et seq.
+Firearm defined - see ORS 166.210
+Possession of and carrying a concealed weapon - see ORS 166.240 et seq.
+Sale or transfer - see ORS 166.410 et seq.
+Gun Control Act of 1968 - see ORS 166.490
+Dealers in and manufacturers of explosives - see ORS 480.210 et seq.
+Weapons and explosives at Airport - see S.U. & P.S. 1062.41, 1062.45
+Weapons and explosives in parks - see S.U. & P.S. 1064.08
+Weapons and explosives in County Fairgrounds and Exposition Park - see S.U. &
+P.S. 1066.12.
+
+694.01 CONCEALED WEAPON PERMITS; FEE.
+
+The Sheriff of the County shall collect fees for the issuance of a concealed weapon
+permit, and for the annual renewal permit to carry a concealed weapon, as established
+from time to time by the Board of County Commissioners.
+
+(Order 95-73. Passed 11-13-73.)
+
+694.02 FIREARMS IN COUNTY GRAVEL PIT.
+
+Except for law enforcement officers while in the performance of their official duty:
+
+(a) The discharge of firearms of any kind in the County gravel pits located on Dead
+Indian Highway is prohibited.
+
+(b) No person shall carry a loaded firearm of any kind onto, or be in possession of
+such a firearm in, the County gravel pits on Dead Indian Highway.
+
+(c) Whoever violates this section shall be deemed a trespasser and shall be subject to
+prosecution under the Criminal Code of the State.
+
+(Ord. 214-74. Passed 10-9-74.)
+694.04 Weapons and Explosives  48
+
+694.03 SECURITY IN TRANSFER OF FUNDS.
+
+(a) Security for the transportation of cash and other items deposited periodically in
+various financial institutions requires that such transportation and delivery be conducted
+by armed guards employed by an armored car service.
+
+(b) The carrying of firearms within a public building, unless specifically authorized
+pursuant to ORS 166.370, is a crime.
+
+(c) Such statute authorizes the Board of County Commissioners to consent to the
+carrying of firearms within a County building. Therefore, those employees of Secured
+Armored Car Services or any other armored car service authorized by the County to
+transfer County deposits to financial institutions are hereby authorized to carry, within
+the County Courthouse, such firearms as are normally employed in providing such
+service.
+
+(Order 142-82. Passed 4-7-82.)
+
+694.04 UNLAWFUL USE OF WEAPONS IN WHITE CITY.
+
+(a) Violation - A person commits the violation of unlawful use of a weapon if the
+person intentionally discharges a firearm, blowgun, bow and arrow, crossbow, air rifle or
+explosive device within the White City Urban Unincorporated Community Boundary
+within 500 feet of any residence without having legal authority for such discharge.
+
+(b) Exceptions - This section does not apply to:
+
+(1) Police officers or military personnel in the lawful performance of their official
+duties;
+
+(2) Persons lawfully defending life or property as provided in ORS 161.219;
+
+(3) Persons discharging firearms, blowguns, bows and arrows, crossbows, air rifles
+or explosive devices upon public or private shooting ranges, shooting galleries
+or other areas designated and built for the purpose of target shooting;
+
+(4) Persons lawfully engaged in hunting game birds within the Ken Denman
+Wildlife Management Area in compliance with rules and regulations adopted
+by the State Department of Fish and Wildlife;
+
+(5) Construction or industrial devices or explosives used in conjunction with their
+intended purpose, and in a lawful manner; or
+49 Weapons and Explosives  694.99
+
+(6) Killing an animal for agricultural or humanitarian reasons as long as it is done
+in a manner that does not endanger human lives or any other animals, and is
+not done within 500 feet of an occupied dwelling owned by another.
+
+(c) Definitions - As used in this section:
+
+(1) Explosive Device - means a grenade or bomb or like device containing a
+chemical compound or mixture that is commonly used or intended for the
+purpose of producing a chemical reaction resulting in a substantially
+instantaneous release of gas and heat, such as dynamite, blasting powder,
+nitroglycerin, blasting caps or nitrojelly, with force or projectiles sufficient to
+cause damage or injury.
+
+(2) Firearm - means a rifle, handgun, shotgun or other like weapon designed and
+equipped to fire bullets, shot or like material.
+
+(3) White City Urban Unincorporated Community Boundary - means the
+Unincorporated Community Boundary Line for White City adopted by the
+Board of Commissioners pursuant to Ordinance No. 98-18 on September 2,
+1998, acknowledged by the Oregon Land Conservation and Development
+Commission on October 22, 1998, pursuant to Work Order No. 00992, and
+effective on November 1, 1998.  A map of the White City Urban
+Unincorporated Community Boundary, as adopted pursuant to Ordinance No.
+98-18, is included as Exhibit 1 to this section.
+
+(E. Ord. 93-32. Passed 10-13-93; P. Ord. 93-33. Passed 10-27-93; Ord. 95-34.  Passed 6-
+28-95; Ord. 2013-4. Passed 07-10-13.)
+
+694.99 PENALTY.
+
+Violation of Section 694.04 is subject, upon conviction, to a fine of not more than two
+hundred fifty dollars ($250.00) for a first violation, and a fine of not more than five
+hundred dollars ($500.00) or imprisonment for not more than thirty days or both for a
+second violation and for each violation thereafter.
+
+(E. Ord. 93-32. Passed 10-13-93; P. Ord. 93-33. Passed 10-27-93; E. Ord 2003-29.
+Passed 10-15-03; P. Ord. 2003-28. Passed 10-29-03.)
+
+Exhibit 1 Weapons and Explosives  50

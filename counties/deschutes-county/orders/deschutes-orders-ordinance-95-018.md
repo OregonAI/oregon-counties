@@ -1,0 +1,539 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-95-018
+title: 'Ordinance No. 95-018'
+doc_type: ordinance
+citation: 'Ordinance No. 95-018'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616707901_1995-13795-Ordinance%20No.%2095-018%20Recorded%204_27_1995.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 60854e6975ea6b14746c1a8b63fa1a1ff5461776fddf006af91620d5be0dc891
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 95-018 (Ordinance No. 95-018)
+
+## At a glance
+
+Ordinance No. 95-018 — orders of Deschutes County. 12 pages.
+
+## Full text
+
+0145- 0012
+REVIEWED
+95- 13795
+La0
+LEGAL COUNSEL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending Chapter 22. 36
+of the Deschutes County Code, the
+County Procedures Ordinance, the
+Various Zoning Ordinances and the
+Subdivision Ordinance Regarding
+Expiration of Land Use Approvals and * "--:
+Declaring an Emergency.
+ORDINANCE NO. 95- 018
+WHEREAS, standards included in OAR 660- 33- 140, Permit Expiration
+Dates, for land use permits granted in conjunction with development of
+farm or forest lands do not correspond with the Limitations on
+Approvals for land use permits in Chapter 22. 36 of the Deschutes County
+Procedures Ordinance; and
+WHEREAS, the the standards for Limitations on Approvals of land
+use approvals included in Chapter 22. 36 of the County Code should
+correspond with the State Rule; and
+WHEREAS, it is appropriate that all land use approvals granted by
+the County be subject to the same standards for expiration; and
+WHEREAS, public hearings have been held on the proposed amendments
+consistent with state and county law; and
+WHEREAS, the Deschutes County Planning Commission recommended that
+the proposed amendments be adopted by the Board of County
+Commissioners; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY ORDAINS as
+follows:
+Amendments to Title 22 ( Procedures Ordinance)
+Section 1. Section 22. 36. 010 of Title 22 is repealed and replaced
+with the following new provision, as follows:
+22. 36. 010 Expiration of Approval
+A. Scope
+1. Except as otherwise provided herein, this
+section shall apply to and describe the
+duration of all approvals of land use permits
+provided for under the Deschutes County Land
+Use Procedures Ordinance, the various zoning
+ordinances administered by Deschutes County and
+the subdivision/ partition ordinance.
+ORDINANCE NO. 95- 018 1 " KE'Yf,
+1PU4/ (
+04/ 19/ 95)
+5 1j;; tOFI' ED
+ViEel' ?, 1`'
+0145- 0043
+2. This section does not apply to:
+a. Those determinations, such as
+verifications of non - conforming uses, lot
+of record determinations and expiration
+determinations, that involve a
+determination of the legal status of a
+property, land use or land use permit
+rather than whether a particular
+application for a specific land use meets
+the applicable standards of the zoning
+ordinance. Such determinations, whether
+favorable or not to the applicant or land
+owner, shall be final, unless appealed,
+and shall not be subject to any time
+limits.
+b. Temporary use permits of all kinds, which
+shall be governed by applicable ordinance
+provisions specifying the duration of such
+permits; and
+C. Quasi- judicial map changes.
+B. Duration of Approvals
+1. Except as otherwise provided under this section
+or under applicable zoning ordinance
+provisions, a land use permit is void two years
+after the date the discretionary decision
+becomes final if the use approved in the permit
+is not initiated within that time period.
+2. Except as otherwise provided under applicable
+ordinance provisions, preliminary approval of
+plats or master plans shall be void after two
+years from the date of preliminary approval,
+unless the final plat has been submitted to the
+Planning Division for final approval within
+that time period, an extension is sought under
+this section or the preliminary plat or master
+plan approval has been initiated as defined
+herein.
+3. In cases of a land use approval authorized
+under applicable approval criteria to be
+completed in phases, each phase must be
+initiated within the time specified in the
+approval, or initiated within two ( 2) years of
+completion of the prior phase if no timetable
+is specified.
+ORDINANCE NO. 95- 018 2 ( 04/ 19/ 95)
+0145=onI4
+C. Extensions
+1. The Planning Director may grant one extension of up
+to one year for a land use approval or a phase of a
+land use approval, regardless of whether the
+applicable criteria have changed, if:
+a. An applicant makes a written request
+for an extension of the development
+approval period;
+b. The request, along with the
+appropriate fee, is submitted to the
+county prior to the expiration of
+the approval period;
+C. The applicant states reasons that
+prevented the applicant from
+beginning or continuing development
+or meeting conditions of approval
+within the approval period; and
+d. The county determines that the
+applicant was unable to begin or
+continue development or meet
+conditions of approval during the
+approval period for reasons for
+which the applicant was not
+responsible, including, but not
+limited to, delay by a state or
+federal agency in issuing a required
+permit.
+2. Up to two additional one- year extensions may be
+granted under the above criteria by the
+Planning Director or his designees where
+applicable criteria for the decision have not
+changed.
+D. Procedures
+1. Any holder of a permit may apply for a
+determination of whether a land use has been
+initiated. In addition, the Planning Director
+may cause such a review to be initiated without
+receipt of an application from the permit
+holder. Such determinations, if they involve
+discretion, shall be treated under this chapter
+as a land use action.
+2. Approval of an extension granted under this
+rule is an administrative decision, is not a
+ORDINANCE NO. 95- 018 3 ( 04/ 19/ 95)
+land use decision
+this title and is
+land use decision.
+E. Effect of Appeals
+described in ORS 197. 015 or
+not subject to appeal as a
+The time period set forth in subsection B of this section
+shall be tolled upon filing of an appeal to LUBA until all
+appeals are resolved."
+Section 2. Section 22. 36. 020 of Title 22 is repealed and replaced
+with the following new provision, as follows:
+22. 36. 020 Initiation of Use
+A. For the purposes of this Chapter, development action
+undertaken under a land use approval described in Section
+22. 36. 010, has been " initiated" if it is determined that:
+1. The proposed use has lawfully occurred;
+2. Substantial construction toward completion of the
+land use approval has taken place; or
+3. Where construction is not required by the approval,
+the conditions of a permit or approval have been
+substantially exercised and any failure to fully
+comply with the conditions is not the fault of the
+applicant.
+B. For the purposes of this section, " substantial
+construction" has occurred when the holder of a land use
+approval has physically altered the land or structure or
+changed the use thereof and such alteration or change is
+directed toward the completion and is sufficient in terms of
+time, labor or meny spent to demonstrate a good faith effort
+to complete the development."
+Section 2A. A new provision is added to Chapter 22. 36 of Title 22
+of the Deschutes County Code as Section 22. 36. 025, as follows:
+22. 36. 025 Transition Rules - Applicability
+A. The two- year duration period set forth in section
+22. 36. 010( B) shall be applied only to land use approvals
+issued after the effective date of Ordinance 95- 018.
+B. Notwithstanding any condition to the contrary in an
+individual approval, a determination may be made for any land
+use approval described in Section 22. 36. 010( B) whether or not
+issued prior to the effective date of Ordinance 95- 018, under
+Section 22. 36. 010( D)( 1) as to whether a use was " initiated"
+ORDINANCE NO. 95- 018 4 ( 04/ 19/ 95)
+0145- 0016
+within the duration of the land use approval. If it is
+determined that the use was " initiated" during the life of the
+permit, the permit will be considered to be a valid
+subsisting permit and any land use described in the permit
+will be deemed to be authorized under the County' s ordinances,
+subject to any applicable revocation provisions.
+C. For any land use approvals whose initial term had not
+expired as of the effective date of this ordinance, extensions
+may be granted under Section 22. 36. 010( C) or, except for
+permits in the farm zones, as a matter of discretion by the
+Planning Director as set forth under former DCC Section
+22. 36. 020 otherwise repealed by Ordinance 95- 018."
+Amendments to Title 18 ( County Zoning_ Ordinance)
+Section 3. Section 18. 128. 040( T), " Conditional Uses - Specific Use
+Standards - Shopping Complex," of Title 18 is amended to read as
+follows:
+T. Shopping Complex.
+1. Such uses may be authorized as a conditional use
+only after a determination is made by the Planning Director or
+Hearings Body.
+a. That the public interest will be served by approval
+of the proposal based on analysis of environmental, social and
+economic and energy impacts likely to result from the
+development. Analysis may include, but not be limited to,
+consideration of impacts on public facilities such as roads,
+water supplies, sewer systems and police and fire protection.
+b. That the entire complex shall be completed within
+one year] two years or a master plan shall be submitted that
+explains the phased development of the project. The master
+plan shall specify a timetable of completion for all phases of
+the project. The master plan shall be fully implemented
+within five years or [ extended] an extension shall be sought
+subject to the terms of Deschutes County Code Title 22, the
+Uniform Development Procedures Ordinance.
+C. That there is adequate area for the buildings,
+landscaping, parking, septic systems and access to serve the
+proposed development.
+d. That the use is consistent with the character of the
+area and is not detrimental to the land use pattern of the
+area.
+e. That the proposed shopping complex is to be
+ORDINANCE NO. 95- 018 5 ( 04/ 19/ 95)
+0145- 0017
+developed and managed as a total entity, with a plan for
+maintenance of all elements of the site plan.
+f. The proposed shopping complex is appropriate for
+serving the needs of rural residents in the area.
+g. The proposed shopping complex will not attract
+residents outside the rural area to be serviced."
+Section 4. Section 18. 128. 060, " Conditional Uses - Time Limits on
+a Permit for a Conditional Use," of Title 18 is repealed and replaced
+with the following provisions:
+18. 128. 060 Time Limits on a Permit for a Conditional Use
+Duration of permits issued under this chapter shall be as
+set forth in chapter 22. 36 of the Deschutes County Code."
+Section 5. Section 18. 140. 080, " Revocation," of Title 18 is
+amended to read as follows:
+1118. 140. 080 Revocation.
+The Planning Director or Hearings Body may revoke or modify
+any permit granted under the provisions of this title on one
+or more of the following grounds:
+A. A permit may be revoked on the basis of fraud,
+concealment, misrepresentation or inaccurate information
+supplied on the application or offered by the applicant or his
+representative at a public hearing.
+B. A permit may be revoked on the basis that the use
+for which such permit was granted is not being exercised
+within the time limit set for the by the Planning Director or
+Hearings Body or this title.]
+B[ C]. A permit may be revoked on the basis that the use
+for which such permit was granted has ceased to exist or has
+been suspended for one year or more.
+C[ D]. A permit may be revoked or modified on the basis
+that the use for which the permit was granted was so exercised
+as to be detrimental to the public health, safety or welfare,
+or in such a manner as to constitute a nuisance.
+D[ E]. Any permit granted pursuant to this title shall
+become null and void if not exercised within the time period
+specified in such permit or, if no time period is specified in
+the permit, within [ one year] two years from the date of
+approval of said permit. The Planning Director or Hearings
+Body shall hold a public hearing on any proposed revocation
+ORDINANCE NO. 95- 018 6 ( 04/ 19/ 95)
+0145- 0018
+after giving written notice to the permittee and other
+affected persons as set forth in Deschutes County Code Title
+22, the Uniform Development Procedures Ordinance. The
+Planning Director or Hearings Body shall render his decision
+within 45 days after the conclusion of the hearing. Appeals
+from the action of the Planning Director or Hearings Body
+shall be filed in the manner provided in Deschutes County Code
+Title 22, the Uniform Development Procedures Ordinance."
+Amendments to Title 19 ( Bend Urban Area Zoning Ordinance)
+Section 6. Section 19. 100. 060, " Conditional Use Permits - Action
+on Application," of Title 19 is amended to read as follows:
+19. 100. 060 Action on Application
+The Planning Director or Hearings Body may approve, approve
+with conditions or disapprove the application for a
+conditional use permit subject to the land use procedures
+ordinance. In permitting a conditional use, the Planning
+Director or Hearings Body may impose, in addition to the
+regulations and standards expressly specified in this
+Ordinance, other conditions found necessary to protect the
+best interests of the surrounding property or neighborhood or
+the urban area as a whole. Any future enlargement or
+alteration of the use shall be reviewed by the County and new
+conditions may be imposed.
+A. In order to grant any conditional use, the Planning
+Director or Hearings Body must find that the establishment,
+maintenance or operation of the use applied for will not,
+under the circumstances of the particular case, be detrimental
+to the health, safety or general welfare of persons residing
+or working in the neighborhood of such proposed uses, or be
+detrimental or injurious to the property and improvements in
+the neighborhood or the the general welfare of the urban area.
+B. A conditional use permit shall become void one year after
+approval, or after such greater or lesser time as may be
+specified as a condition of approval, unless within that time
+the required building construction, alteration, or enlargement
+has been commenced and diligently pursued or, if no such
+construction, alteration, or enlargement is required, unless
+the permitted activity is being regularly conducted in the
+premises. Upon request, the Planning Director or Hearings
+Body may extend the permit for a period of one year.]
+B. Duration of permits issued under this chapter shall be
+as set forth in chapter 22. 36 of the Deschutes County Code."
+ORDINANCE NO. 95- 018 7 ( 04/ 19/ 95)
+01.45-[- fll
+Section 7. Section 19. 104. 090, " Planned Unit Development Approval
+Hearings Body Action," of Title 19 is amended to read as follows:
+19. 104. 090 Hearings Body Action
+In taking action, the Planning Director or Hearings Body may
+approve, approve with conditions or deny an application as
+submitted. Any planned unit development as authorized shall
+be subject to all conditions imposed and shall be excepted
+from other provisions of this Ordinance only to the extent
+specified in said authorization. Any approval of a planned
+unit development granted hereunder shall lapse and become void
+within [ 12 months] two years after the final granting of
+approval or within such other period of time as may be
+stipulated by the Hearings Body or Planning Director as a
+condition of such approval, construction of the buildings or
+structure involved in the development has begun and been
+diligently pursued. The Planning Director or Hearings Body
+may further impoe other conditions limiting the time within
+which the development of partions thereof must be completed.
+The decision of the Planning Director or Hearings Body shall
+be final unless appealed in accordance with the procedures set
+forth in the land use procedures ordinance."
+Amendments to Title 20 ( Redmond Urban Area Zoning Ordinance)
+Section 8. Section 20. 96. 010, " Final Development Plan and Program
+P. U. D. District) - Time Limit for Filing," of Title 20 is amended to
+read as follows:
+20. 96. 010 Time Limit for Filing
+Upon acceptance in principle by the Hearings Body or
+acceptance in principle with modifications required by the
+Hearings Body of planned unit development, the owner - applicant
+shall file with the Hearings Body within [ one year] two years
+of the preliminary approval of the Hearings Body, a final
+develdopment plan and program. The Hearings Body may grant an
+extension for filing an additional [ 180 days] one year upon
+request by the owner - applicant. In addition, the developer
+may submit such additional data as may be required by the
+subdivision code of the county seeking contemporaneous
+approval of the subdivision plat with approval of the final
+plan and program."
+Section 9. Section 20. 116. 080, " Conditional Use - Time Limit," of
+Title 20 is repealed and replaced to read as follows:
+20. 116. 080 Time Limit on a Permit for a Conditional Use
+Duration of permits issued under this chapter shall be as
+set forth in chapter 22. 36 of the Deschutes County Code."
+ORDINANCE NO. 95- 018 8 ( 04/ 19/ 95)
+0145- po2(
+Section 10. Section 20. 124. 060, " Time Limits on Approval of a
+Variance," of Title 20 is repealed and replaced to read as follows:
+20. 124. 060 Time Limits on Approval of a Variance
+Duration of variances issued under this chapter shall be as
+set forth in chapter 22. 36 of the Deschutes County Code."
+Amendments to PL - 17 ( Sisters Urban Area Zoning Ordinance)
+Section 11. Paragraph 6( B) of Section 20, " Conditional Use
+Permits," of PL - 17 is repealed and replaced to read as follows:
+B. Duration of permits issued under this chapter shall be as
+set forth in chapter 22. 36 of the Deschutes County Code."
+Section 12. Paragraph 7 of Section 21, " Variances," of PL - 17 is
+repealed and replaced to read as follows:
+7. Time Limit on Approval of a Variance. Duration of
+variances issued under this chapter shall be as set forth
+in chapter 22. 36 of the Deschutes County Code."
+Section 13. Paragraph 1 of Section 22, " Revocation of Permits or
+Variances," of PL - 17 is repealed:
+1. Revocation of Permits Automatic if Not Used. Any
+conditional use permit or variance granted in accordance
+with the terms of this Ordinance shall be deemed revoked
+if not used within one year from the date of approval or
+such time as specified by the Planning Commission. Said
+permit shall not be deemed used until the applicant has
+actually obtained a building permit and commenced
+construction thereunder, or has actually commenced the
+permitted use on the premises.]"
+Section 14. Paragraph 9 of Section 30, " Planned Unit Development
+Approval," of PL - 17 is amended to read as follows:
+119. Hearings Body Action. In taking action, the hearings
+body may approve, approve with conditions or deny an
+application as submitted. Any planned unit development as
+authorized shall be subject to all conditions imposed and
+shall be excepted from other provisions of this Ordinance only
+to the extent specified in said authorization. Any approval
+of a planned unit development granted hereunder shall lapse
+and become void within [ 12 months] two years after the final
+granting of approval or within such other period of time as
+may be stipulated by the Hearings Body or Planning Director as
+a condition of such approval, construction of the buildings or
+structure involved in the development has begun and been
+ORDINANCE NO. 95- 018 9 ( 04/ 19/ 95)
+0145- Qo21
+diligently pursued. The Hearings Body may further impose
+other conditions limiting the time within which the
+development of partions thereof must be completed. The
+decision of the Planning Director or Hearings Body shall be
+final unless appealed to a higher hearings body according to
+the procedures set forth in [ Section 35] title 22."
+Amendments to Title 17 ( Subdivision/ Partition Ordinance)
+Section 15. Section 17. 24. 020, " Final Plat - Submission -
+Extension," of Title 17 is amended to read as follows:
+17. 24. 020 Submission - Extension.
+A. Filing Time Period Requirements. Except as provided for
+in Section 17. 24. 030 of the chapter, the applicant shall
+prepare and submit to the planning department a final plat
+that is in conformance with the tentative plan as approved.
+Within [ one year] two years of the approval date for the
+tentative plan for a subdivision or partition, the applicant
+shall submit an original drawing, a filing fee NS ny
+supplementary information required by this title and the
+hearings body. If the applicant fails to proceed with a
+submission before the expiration of the [ one- year] two- year
+period following the approval of the tentative plan, the plan
+approval shall be void. The applicant may, however, submit a
+new tentative plan together with the appropriate filing fee.
+B. Extension
+1. If it appears the applicant will not be able to comply
+with the filing time requirements of this title, he may submit
+a written application to the planning director or his designee
+requesting an extension of the filing time requirement. The
+application shall be filed no earlier than sixty days and no
+later than ten days prior to the date the one- year period
+expires. It shall also be accompanied by the appropriate
+fee.]
+2.] An extension may only be granted in conformance with the
+applicable provisions of the Deschutes County Development
+Procedures Ordinance."
+Section 16. Section 17. 24. 030, " Final Plat - Submission for Phased
+Development," of Title 17 is amended to read as follows:
+17. 24. 030 Submission for Phased Development
+A. If a tentative plan is approved for phased development,
+the final plat for the first phase shall be filed within [ one
+year] two years of the approval date for the tentative plan.
+ORDINANCE NO. 95- 018 10 ( 04/ 19/ 95)
+B. The final plats for any subsequent phase shall be filed
+within three years of the [ approved] recording date [ for] of
+the [ tentative plan] final plat for the first phase.
+C. The applicant may request an extension for any final
+plat under this section in the manner provided for in Section
+17. 24. 020( B) of this chapter.
+D. If the applicant fails to file a final plat, the
+tentative plan for those phases shall become null and void."
+Section 17. CODIFICATION. County Legal Counsel shall have the
+authority to format the provisions contained herein in a manner that
+will integrate them into the County Code consistent with the County
+Legal Counsel form and style for ordinance codification. Such
+codification shall include the authority to make format changes, to
+make changes in numbering systems and to make such numbering changes
+consistent with interrelated code sections. In addition, as part of
+codification of these ordinances, County Legal Counsel may insert
+appropriate legislative history reference. Any legislative history
+references included herein are not adopted as part of the substance of
+this ordinance, but are included for administrative convenience and as
+a reference. They may be changed to correct errors and to conform to
+proper style without action of the Board of County Commissioners.
+Section 18. REPEAL OF ORDINANCES AS AFFECTING EXISTING
+LIABILITIES. The repeal, express or implied, of any ordinance,
+ordinance provision, code section, or any map or any line on a map
+incorporated therein by reference, by this amending ordinance shall not
+release or extinguish any duty, condition, penalty, forfeiture, or
+liability previously incurred or that may hereafter be incurred under
+such ordinance, unless a provision of this amending ordinance shall so
+expressly provide, and such ordinance repealed shall be treated as
+still remaining in force for the purpose of sustaining any proper
+action or prosecution for the enforcement of such duty, condition,
+penalty, forfeiture, or liability, and for the purpose of authorizing
+the prosecution, conviction and punishment of the person or persons who
+previously violated the repealed ordinance.
+Section 19. SEVERABILITY. The provisions of this ordinance are
+severable. If any sentence, clause, or phrase of this ordinance is
+found to be invalid by a court of competent jurisdiction that decision
+shall not affect the validity of the remaining portions of this
+ordinance.
+Section 20. CORRECTIONS. This ordinance may be corrected by order
+of the Board of County Commissioners to cure editorial and clerical
+errors and to insert appropriate legislative history references.
+ORDINANCE NO. 95- 018 11 ( 04/ 19/ 95)
+0145- 00,40
+Section 21. EMERGENCY. This Ordinance being necessary for the
+immediate preservation of the public peace, health and safety, an
+emergency is declared to exist, and this Ordinance takes effect on its
+passage.
+DATED this day of April, 1995.
+BOARD OF COUNTY COMMISSIONERS OF
+DESCHUTES CO TY, OREGON
+BARRY H. SLAWGqTEft, Ctiairman
+A: nES"
+Recording Secre ary
+ERVAS
+age,
+L. NIPPER, ssioner
+ORDINANCE NO. 95- 018 12 ( 04/ 19/ 95)

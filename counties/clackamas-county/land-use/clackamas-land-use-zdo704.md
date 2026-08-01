@@ -1,0 +1,602 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clackamas-county
+id: clackamas-land-use-zdo704
+title: 'Zdo704'
+doc_type: ordinance
+citation: 'Zdo704'
+authority_level: county_ordinance
+issuing_body: 'Clackamas County Board of Commissioners'
+source_url: https://www.clackamas.us/planning/zdo704
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: 4dfa22d4e83954ca4f3d4098449aceedfa96fb554958ce12d21497e8f39ca7be
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [clackamas-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clackamas County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zdo704 (Zdo704)
+
+## At a glance
+
+Zdo704 — land use of Clackamas County. 15003 characters.
+
+## Full text
+
+ZDO 704: River and Stream Conservation Area (RSCA) | Clackamas County 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Translate 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Jobs 
+ Events 
+ News 
+ Contact Us 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+
+ 
+ 
+ 
+ Community 
+ 
+ 
+ Business 
+ 
+ 
+ Departments 
+ 
+ 
+ Our County 
+ 
+ 
+ I want to... 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ ZDO 704: River and Stream Conservation Area (RSCA) 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ZDO 704: River and Stream Conservation Area (RSCA) 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 704.01 Purpose Section 704 is adopted to: Maintain the integrity of the rivers and streams in the County by minimizing erosion, promoting bank stability, maintaining and enhancing water quality and fish and wildlife habitat, and preserving scenic quality and recreational potential; Maintain rivers in their natural state to the maximum extent practicable, thereby recognizing their natural, scenic, historic, economic, cultural, and recreational qualities; and Implement the River Design Plans set forth in Chapter 3 of the Comprehensive Plan. 704.02 Definitions Unless specifically defined in Subsection 704.02, words or phrases used in Section 704 shall be interpreted to give them the same meaning as they have in common usage and to give Section 704 its most reasonable application. Composite Bank Stabilization : A combination of structural and nonstructural bank stabilization methods that includes a revetment of rock with a natural vegetation cover or overlay. Development : Any manmade change to improved or unimproved real estate, including but not limited to buildings or other structures, mining, dredging, filling, grading, paving, excavation, or any other activity which results in the removal of substantial amounts of vegetation or in the alteration of natural site characteristics. Mean High Water Line : The bank of any river or stream established by the annual fluctuations of water generally indicated by physical characteristics such as a line on the bank, changes in soil conditions, or vegetation line. Nonstructural Bank Stabilization : The placement of natural vegetation—to include a filter fabric if desired—along a shoreline for the primary purpose of bank stabilization. Structural Bank Stabilization : The placement of a manmade, concrete wall or revetment of rock along a shoreline for the primary purpose of bank stabilization. 704.03 Area of Application Section 704 applies to land that is generally within a quarter mile of the mean high water line of the Clackamas, Sandy/Salmon, Molalla/Pudding, Roaring, Tualatin, and Zig Zag Rivers. These lands are classified as Principal River Conservation Areas and are identified on Comprehensive Plan Maps III-1a, Principal River Conservation Area Clackamas River Design Plan, III-1b, Principal River Conservation Area Sandy-Salmon River Design Plan, III-1c, Principal River Conservation Area Molalla River Design Plan, III-1d, Principal River Conservation Area Tualatin River Design Plan, and III-2, Scenic & Distinctive Resource Areas. The location of these rivers may vary from these maps, if more specific information is provided. Section 704 also applies to land that is located within 100 feet of the mean high water line of large Type F streams, except principal rivers identified in Subsection 704.03(A), identified on Water Protection Rule Classification (WPRC) Maps compiled pursuant to OAR 629-635-000 and adopted as part of the Comprehensive Plan. The location of these streams may vary from these maps if more specific information is provided. Classified as Stream Conservation Areas (SCAs), these large streams are designated in the Comprehensive Plan as those that generally have annual average flows of 10 cubic feet per second or greater. Section 704 also applies to land that is located within 70 feet of the mean high water line of medium Type F streams, identified on the WPRC Maps. The location of these streams may vary from these maps if more specific information is provided. Classified as SCAs, these medium streams are designated in the Comprehensive Plan as those that generally have annual average flows of greater than two cubic feet per second and less than 10 cubic feet per second. Section 704 also applies to land that is located within 50 feet of the mean high water line of small Type F streams, identified on the WPRC Maps. The location of these streams may vary from these maps if more specific information is provided. Classified as SCAs, these small streams are designated in the Comprehensive Plan as those that generally have annual average flows of less than two cubic feet per second. The provisions of Section 704 are in addition to those requirements of the State Scenic Waterways Act, Omnibus Oregon Wild and Scenic Rivers Act of 1988, and the Federal Wild and Scenic Rivers Act of 1968. In those areas so designated, the requirements of the County shall be administered subject to the application requirements of Subsection 704.08 and prevail when they are more restrictive than state and federal standards. Notwithstanding Subsections 704.03(A) through (E), Section 704 does not apply to land that is inside the Metropolitan Service District Boundary or the Portland Metropolitan Urban Growth Boundary, nor does it apply to Oregon Department of Fish and Wildlife, or other state or federally approved, fish enhancement projects. 704.04 River and Stream Setbacks The following minimum setbacks shall apply to structures exceeding 120 square feet or 10 feet in height: Structures shall be located a minimum of 100 feet from the mean high water line of a principal river. This minimum setback may be increased up to 150 feet from the mean high water line to lessen the impact of development. In determining the minimum setback, the following shall be considered: The size and design of any proposed structures; The width of the river; The topography of the land between the site and the river; The type and stability of the soils; The type and density of existing vegetation between the site and the river; Established recreation areas or areas of public access; and Visual impact of any structures. Structures shall be located a minimum of 100 feet from the mean high water line of a large stream. Structures shall be located a minimum of 70 feet from the mean high water line of a medium stream. Structures shall be located a minimum of 50 feet from the mean high water line of a small stream. 704.05 Setback Exceptions The following uses are exempt from the minimum setback standards of Subsection 704.04: Residential lots of record where lot depth precludes compliance with the setback standards of Subsection 704.04, provided that: Structures shall be sited the maximum distance from the mean high water line which meets the setback and other standards of the underlying zoning district; and The footprint of structures shall not exceed 25 percent of the lot area; Repairs, additions, alterations to, or replacement of structures, roadways, driveways, or other development, which is located closer to a river or stream than permitted by the setback requirements of Subsection 704.04, provided that such development does not encroach into the setback any more than the existing structures, roadways, driveways, or other development; Water dependent uses such as private boat docks, marinas, or boat ramps, provided that structures shall be muted earth tones and any structure shall be the minimum size necessary to accommodate the use; Uses such as roads, bridges, culverts, pipes, and power lines that are necessary for crossing streams, provided they do not create barriers to fish movement and that adverse impacts are mitigated; Water impoundments, diversions, detention and retention facilities, and hydroelectric facilities; and Structural, nonstructural, and composite bank stabilization, provided that structural bank stabilization shall only be approved if: Structural bank stabilization is required to protect existing structures; Nonstructural bank stabilization will be insufficient to adequately protect existing structures; and The structural bank stabilization will utilize composite bank stabilization. In addition to the exemptions listed in Subsection 704.05(A), the minimum setback standards of Section 704 may be modified for purposes consistent with the adopted Economic, Social, Environmental, and Energy analyses for the applicable watershed. 704.06 Development Standards The maximum height of a dwelling or a structure accessory to a dwelling shall be 35 feet, if the dwelling or accessory structure can be seen from a principal river. Commercial or industrial facilities, such as structures, parking areas, and storage areas shall comply with Subsection 704.04, and signs shall be screened from view of the Principal River or Stream Conservation Area by an opaque vegetation buffer. These facilities shall be subject to design review, pursuant to Section 1102. Subdivisions and partitions shall be designed, where possible, to allow compliance with Section 704. 704.07 Vegetation Preservation Requirements A minimum of 75 percent of the setback area (distance) shall be preserved with native vegetation. Tree cutting and grading shall be prohibited within the buffer or filter strip, with the following exceptions: Trees that endanger life or structures may be removed. Tree cutting and grading may be permitted in conjunction with those uses listed in Subsections 704.05 and 704.06, to the extent necessary to accommodate those uses. Disturbed areas that are outside the footprint of structures and other improvements shall be restored with native vegetation. Vegetation removal may occur when approved by the Oregon Department of Fish and Wildlife, upon written notification that such removal is required as part of a river or stream enhancement project. Commercial forest activities and harvesting practices outside an urban growth boundary shall be subject to the Oregon Forest Practices Act. Commercial forest harvesting activities inside an urban growth boundary shall be reviewed pursuant to the Forest Policies of the Comprehensive Plan. 704.08 Submittal Requirements In addition to the submittal requirements identified in Subsection 1307.07(C), an application filed pursuant to Subsection 704.09 shall include: A site plan showing existing vegetation and development, and locations of proposed development or tree-cutting activity; Elevations of any proposed structures; Exterior materials list for any proposed structures, including type and colors of siding and roofing; Cross-section of any area within the vegetative buffer or filter strip where grading, filling, or excavating will occur; and A stream buffer restoration plan showing the location, number, and species of native trees and vegetation to be planted. 704.09 Administration of Section 704 Development and tree-cutting activities controlled by Section 704 in a Principal River Conservation Area (PRCA) shall be reviewed to ensure consistency with Section 704. Proposed developments on lands within 150 feet of the mean high water line shall be reviewed through a Type II application pursuant to Section 1307. For lands beyond 150 feet of the mean high water line, notice shall be sent to the U.S. Forest Service and Bureau of Land Management. Development and grading permits in a Stream Conservation Area (SCA) shall be reviewed through a Type II application pursuant to Section 1307. Approval of a PRCA or SCA permit is valid for four years from the date of the final written decision. If the County's final written decision is appealed, the approval period shall commence on the date of the final appellate decision. During this four-year period, the approval shall be implemented, or the approval will become void. "Implemented" means all major development permits shall be obtained and maintained, or if no major development permits are required to complete the development contemplated by the approved PRCA or SCA permit, "implemented" means all other necessary County development permits (e.g. grading permit, building permit for an accessory structure) shall be obtained and maintained. A "major development permit" is: A building or manufactured dwelling placement permit for a new primary structure that was part of the PRCA or SCA permit approval; or A permit issued by the County Engineering Division for parking lot or oad improvements that were part of the PRCA or SCA permit approval. If the approval of a PRCA permit is not implemented within the initial approval period established by Subsection 704.09(C), a two-year time extension may be approved pursuant to Section 1310. [Amended by Ord. ZDO-230, 9/26/11; Amended by Ord. ZDO-248, 10/13/14] Return to the Zoning and Development Ordinance main page. Contact zoninginfo@clackamas.us for additional information. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Phone: 503-742-4500 
+ Email: zoninginfo@clackamas.us 
+ 
+ 
+ 
+ 150 Beavercreek Road Room #225 Oregon City, OR 97045 
+ 
+ 
+ Office Hours: Monday to Thursday  8 a.m. to 4 p.m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's My Zoning? 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Related Events 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Related Events
+ 
+ 
+ 
+ 
+ Board of County Commissioners, Planning and Zoning 
+ 
+ 
+ Aug 
+ 04 
+ 
+ 
+ 11:00 am 
+ - 11:30 am 
+ 
+ 
+ Land Use Hearing: Z0437-25 and Z0438-25 - Aug. 4, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Aug 
+ 20 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0096-26 - Aug. 20, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Sep 
+ 03 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0207-26 - Sept. 3, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ more events 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ SHORTCUTS 
+ 
+ 
+ 
+ Jobs Procurement Process, Contracts and Grants Pay Online CMap Contact the County Report a Hazard County Code Public Records Request HIPAA/Privacy Concerns Civil Rights ACA Complaint Form Accessibility Statement Title VI Compliance Plan Website Privacy Media Contacts 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ELECTED OFFICIALS 
+ 
+ 
+ 
+ Chair Craig Roberts Commissioner Diana Helm Commissioner Paul Savas Commissioner Martha Schrader Commissioner Ben West   County Assessor/Tax Collector Bronson Rueda County Clerk Catherine McMullen District Attorney John Wentworth Justice of the Peace Kathleen Rastetter Sheriff Angela Brandenburg Treasurer Brian Nava 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can’t find what you're looking for? 
+ 
+ 
+ 
+ 
+ Search Box 
+ 
+
+ 
+ enter your search here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2026 Clackamas County

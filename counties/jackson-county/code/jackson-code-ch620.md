@@ -1,0 +1,244 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch620
+title: 'Ch620'
+doc_type: ordinance
+citation: 'Ch620'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/General%20Offenses/Ch620.pdf?t=202406181525540
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9ab60d0afd6a2d75a1920e940262d480e92fdb2423a66867c6c8c83cead523f7
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 433.735
+    - ORS 433.745
+    - ORS 433.763
+    - ORS 433.770
+    - ORS 433.990
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch620 (Ch620)
+
+## At a glance
+
+Ch620 — code of Jackson County. 7 pages.
+
+## Full text
+
+CHAPTER 620
+Mass Gatherings
+620.01 Purpose; Authority.
+620.02 Definitions.
+620.03 Permit Required.
+620.04 Permit Application for Outdoor Mass Gathering; Procedure for Issuance of
+Permit; Fee; Fee Amount Limitation.
+620.05 Conditions of Permit.
+620.06 Compliance with Land Use Regulations; Criteria for Approval.
+620.07 Enforcement.
+620.08 Repealed.
+620.09 Severability.
+620.99 Penalty.
+CROSS REFERENCES
+Organization for Emergency Management - see ADM. Ch. 244
+Demonstrations and parades at Airport - see S.U. & P.S. 1062.08
+620.01 PURPOS E; AUTHORITY
+The Board of Commissioners takes public notice that outdoor mass gatherings can create
+hazardous conditions which could adversely impact the citizens of Jackson County.  The
+Board finds and determines that this chapter, which prescribes the procedure, rules and
+regulations for conducting outdoor mass gatherings, is necessary to protect the health,
+safety, and welfare of the citizens of Jackson County.  This chapter shall be liberally
+construed to accomplish this purpose.  Except in cases for which this chapter provides a
+different standard, procedure, or definition, the Board shall issue permits for outdoor
+mass gatherings in accordance with the procedures and regulations established by ORS
+433.735 through 433.770.
+(Ord. 94-21. Passed 6-6-94; Ord. 2018-9. Passed 10-10-18.)
+620.02 DEFINITIONS.
+(a) “Organizer” includes any person who holds, stages, or sponsors an outdoor mass
+gathering and the owner, lessee, or possessor of the real property upon which the outdoor
+mass gathering is to take place.
+(b) “Outdoor Mass Gathering” means an actual or reasonably anticipated assembly of
+more than 3,000 persons which continues or can reasonably be expected to continue for
+more than 24 consecutive hours but less than 120 hours within any three-month period
+and which is held primarily in open spaces and not in any permanent structure.
+
+12 620.04 Mass Gatherings
+(c) “Permanent Structure” includes a stadium, an arena, an auditorium, a coliseum, a
+fairgrounds, or other similar established places for assemblies.
+(d) “Permit holder” is the person to whom a permit is issued for an outdoor mass
+gathering. If a corporation applies for the permit, the corporation must designate one or
+more individuals who will be the County's point of contact.
+(e) “Temporary Structure” includes tents, trailers, chemical toilet facilities, potable
+water systems, and other structures customarily erected or sited for temporary use.
+(Ord. 94-21. Passed 6-6-94; Ord. 2018-9. Passed 10-10-18.)
+620.03 PERMIT REQUIRED.
+No organizer shall hold, conduct, stage, sponsor, advertise, or otherwise promote an
+outdoor mass gathering or allow an outdoor mass gathering to be held on real property
+the organizer owns, leases, or possesses within Jackson County unless the organizer first
+obtains a permit to hold the outdoor mass gathering.
+(Ord. 94-21. Passed 6-6-94; Ord. 2018-9. Passed 10-10-18)
+620.04 PERMIT APPLICATION FOR OUTDOOR MASS GATHERING;
+PROCEDURE FOR ISSUANCE OF PERMIT; FEE; FEE AMOUNT
+LIMITATION.
+(a) The Board of Commissioners shall issue a permit for an outdoor mass gathering
+upon application when the permit applicant demonstrates compliance with or the ability
+to comply with all health and safety laws adopted by the Oregon Health Authority, this
+chapter, and all applicable building codes, zoning regulations, and safety rules.
+(b) Permit applicants shall be charged a fee to reimburse Jackson County for its
+reasonable and necessary costs in receiving, processing, and reviewing applications. The
+total fee shall not exceed five thousand dollars ($5,000). If, after the event, the actual cost
+of County services provided was less than the application fee paid, the difference will be
+refunded to the applicant. However, a fee sh all not be charged when the Board finds, by
+a preponderance of the evidence, that the applicant is unable to reimburse the County.
+The applicant may include with the application a statement that the applicant is unable to
+pay the application fee and request that the fee be waived.  The burden of proof lies with
+the applicant, and the Board will review the request based upon a standard of whether the
+applicant has shown, by a preponderance of the evidence, that the applicant is unable to
+pay the fee but nevertheless has the means, ability, financial resources, and other
+capacities necessary to successfully conduct the outdoor mass gathering.
+
+13 Mass Gatherings 620.04
+(c) The application shall include all of the following and shall be filed at least 60 days
+before the proposed outdoor mass gathering:
+(1) Name, address, and date of birth of the permit applicant or, if a corporation, the
+name, address, and date(s) of birth of the individual(s) who will represent the
+corporation as the point of contact and permit holder;
+(2) Legal description and zoning designation of the place of the proposed outdoor
+mass gathering. An outdoor mass gathering must be a permitted use for the
+proposed site;
+(3) Date of the proposed outdoor mass gathering, including set-up and clean-up;
+(4) Estimated attendance at the proposed outdoor mass gathering;
+(5) Nature of the proposed outdoor mass gathering; and
+(6) Such other appropriate information as the County Administrator shall require
+in order to insure compliance with this chapter.
+(d) Incomplete applications shall be denied.
+(e) The County Administrator shall send notice of the application to the Sheriff and
+other interested law enforcement agencies, the County Health and Human Services
+Director, the County Building Official, the Roads and Parks Director, and the Chief of
+the Fire District in which the outdoor mass gathering is to be held. The County
+Administrator may request such cooperation and assistance from other State and local
+agencies as deemed necessary.
+(Ord. 2003-4. Passed 1-22-03; Ord. 2007-2. Passed 1-31-07.)
+(f) Each officer receiving notice of the application under subsection (e) hereof should
+attempt to submit comments in writing, if any, to the County Administrator within 14
+days after the date the notice was mailed, but in any event shall submit comments no later
+than the hearing date. The comments may include recommendations as to granting the
+permit and recommended conditions that should be imposed.
+(g) The County Administrator shall make a recommendation on the application to the
+Board of Commissioners.
+
+14 620.99 Mass Gatherings
+(h) The Board of Commissioners shall hold a public hearing on the issue of the
+application's compliance with all of the requirements of this chapter.  Notice of the time
+and place of such hearing, including a general explanation of the matter to be considered,
+shall be published at least ten calendar days before the hearing in a newspaper of general
+circulation.
+(Ord. 94-21. Passed 6-6-94; Ord. 2003-4. Passed 1-22-03; Ord. 2007-2. Passed 1-31-07;
+Ord. 2018-9. Passed 10-10-18.)
+620.05 CONDITIONS OF PERMIT.
+(a) The Board of Commissioners may, as conditions of the permit, require:
+(1) Twice-daily inspection by County officers of the temporary structures of the
+outdoor mass gathering for compliance with County code, State law, and
+applicable Oregon Administrative Rules. Applicable rules include the State
+Electrical Code, Sanitation Code, and rules for mass gatherings, including
+OAR Chapter 333, Division 39;
+(2) Twice-daily inspection by the Fire Chief, or designee of the fire district in
+which the outdoor mass gathering site is located, for compliance with fire
+safety regulations;
+(3) Twice-daily inspection of the outdoor mass gathering site by the County
+Sheriff, or other law enforcement designee, for compliance with conditions of
+the permit concerning crowd control, traffic management and compliance with
+State and local laws, including criminal laws;
+(4) If the inspections described above reveal deficiencies in compliance with State
+or local law, the inspectors may return as often as needed until the deficiencies
+are cured. If the deficiencies are not cured or cannot be cured, the County
+Sheriff may terminate the outdoor mass gathering as provided in subsection (b)
+hereof;
+
+15 Mass Gatherings 620.99
+(5) The permit holder, or any organizer, to obtain an insurance policy with limits
+commensurate with the risk, but not more than one million dollars
+($1,000,000) per occurrence. The insurance policy may not be cancelable, and
+shall provide coverage against liability for death, injury, or disability of any
+human, or for damage to property arising out of the outdoor mass gathering.
+The insurance policy must be an "occurrence" policy, or its equivalent which
+provides for payment of claims made during the 180-day period after the
+scheduled termination of the event. Jackson County shall be named as an
+additional insured under the policy. The permit for the outdoor mass gathering
+shall be voided by the County Administrator if the permit holder does not file
+proof of the non-cancelable insurance required by this section with the County
+Administrator at least 30 days before the first day of the event;
+(6) The permit holder to keep an accurate count of persons and vehicles entering
+and leaving the outdoor mass gathering site;
+(7) The permit holder to designate a contact person who shall be easily identified
+and who shall remain at the outdoor mass gathering site at all times; and
+(8) The permit holder to maintain order, require compliance with all State and
+local laws, and provide for the orderly dispersal of those in attendance if State
+and local laws are not observed.
+(b) For an outdoor mass gathering held under a valid permit, the County Sheriff has the
+authority to order the crowd to disperse and leave the outdoor mass gathering site if the
+permit holder cannot maintain order and compliance with all applicable State and local
+laws or refuses to maintain order and compliance with State and local laws.
+(c) If at any time during the outdoor mass gathering held under a valid permit, the
+number of individuals or vehicles attending the gathering exceeds 110 percent of the
+number of individuals or vehicles estimated in the permit application, the County Sheriff
+has the authority to require the permit holder to limit further admissions until a sufficient
+number of individuals or vehicles have left the site to bring the actual attendance down to
+the number estimated by the permit holder.
+(Ord. 94-21. Passed 6-6-94; Ord. 2018-9. Passed 10-10-18)
+
+16 620.99 Mass Gatherings
+620.06 COMPLIANCE WITH LAND USE REGULATIONS; CRITERIA FOR
+APPROVAL.
+Any gathering of more than 3,000 persons which continues or can reasonably be expected
+to continue for more than 120 hours within any three-month period and any part of which
+is held in open spaces within the County may only be allowed as a conditional use in
+designated zoning districts as provided in the Jackson County Land Development
+Ordinance. The review of any such app lication will be as required for a land use
+approval and will be subject to the provisions of ORS 433.763.
+(Ord. 94-21. Passed 6-6-94; Ord. 2018-9. Passed 10-10-18.)
+620.07 ENFORCEMENT.
+In addition to State law provisions in ORS Chapter 433, including ORS 433.990(7), the
+County Counsel or District Attorney for Jackson County may maintain an action in any
+court of general jurisdiction to prevent, restrain, or enjoin any violation of ORS 433.745
+or this chapter. Cases filed in Jackson County under this section or under ORS 433.770 or
+this chapter shall be given preference on the docket to all other civil cases except those
+given equal preference by statute.
+(a) If persons remain on the outdoor mass gathering site after the scheduled end of the
+gathering or fail to remove all debris or residue by the end of the 120 hours permitted for
+the gathering, County code enforcement officers may issue citations to the landowner, all
+persons remaining at the event site, and to all persons who have left debris behind.
+(b) In addition to any other remedies provided, if the outdoor mass gathering site is not
+restored to its previous condition, the County may arrange for cleanup of the site, and
+then file an action for damages against the organizers, including the landowner or
+successor landowner and the permit holder.
+(Ord. 94-21. Passed 6-6-94.)
+620.08 (Ord. 94-21. Passed 6-6-94; REPEALED by Ord. 2018-9. Passed 10-10-18.)
+620.09 SEVERABILITY.
+Invalidity of any section or part of this chapter shall not affect the validity of the
+remaining sections or parts of sections.
+(Ord. 94-21. Passed 6-6-94; Ord. 2018-9. Passed 10-10-18.)
+
+16A Mass Gatherings 620.99
+620.99 PENALTY.
+EDITOR'S NOTE:  See Section 202.99 for general Code penalty if no specific penalty is
+provided.

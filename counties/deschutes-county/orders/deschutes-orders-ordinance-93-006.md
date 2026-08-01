@@ -1,0 +1,544 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-93-006
+title: 'Ordinance No. 93-006'
+doc_type: ordinance
+citation: 'Ordinance No. 93-006'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616695998_1993-07125-Ordinance%20No.%2093-006%20Recorded%203_3_1993.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9e9ca0deb1490ee8ec09ca0e8570d38b84e261be616f2f43975d07965d3c9f26
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 93-006 (Ordinance No. 93-006)
+
+## At a glance
+
+Ordinance No. 93-006 — orders of Deschutes County. 7 pages.
+
+## Full text
+
+93- 07125
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES
+REVIEWED
+i
+LEGCCG?.:NSEL
+COUNTY, OREGON
+An Ordinance Amending Chapter 15. 04 of * 0120- 1128the Deschutes County Code, Adopting the
+Uniform Fire Code, 1992 Amendments, 1993 * ,
+Edition of the Structural Specialty Code *,
+of the Uniform Building Code 1991 Edition,
+and 1993 Edition of the Mechanical Specialty ` per
+Code of the Uniform Mechanical Code, 1991
+Edition Amending Text and Declaring anEdition, g r 9
+Emergency and Prescribing an Effective Date.
+ORDINANCE NO. 93- 006
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+ORDAINS AS FOLLOWS:
+Section 1. Chapter 15. 04, Building and Construction Codes
+and Regulations, of the Deschutes County Code is amended to read as
+described in Exhibit " A," attached hereto and by this reference
+incorporated herein.
+Section 2. This Ordinance being necessary for the immediate
+preservation of the public peace, health and safety, an emergency
+is declared to exist, and this Ordinance takes effect on its
+passage.
+DATED this day of March, 1993.
+BOARD OFUNTY COMMISSIONERS
+OF DESCHU ES COUNTY, OREGON
+urhair
+ATTEST: NANCY POPE) GCFLANGEN-, Commissioner
+Recording Secretary B. H. SLAUGHTER, Commissioner
+PAGE 1 - ORDINANCE NO. 93- 006 ( 3/ 4/ 93)
+KEY C11 I:i
+f'' (
+EXHIBIT " A"
+0120- 1129
+Title 15
+BUILDINGS AND CONSTRUCTION
+Chapters:
+15. 04 Building and Construction Codes and Regulations
+15. 08 Signs
+2/ 17/ 93)
+Chapter 15. 04
+BUILDING AND CONSTRUCTION
+CODES AND REGULATIONS
+Sections:
+15. 04. 010 Documents adopted with
+amendments - Enforcement.
+15. 04. 020 Applicability.
+15. 04. 030 Structural code - Adopted.
+15. 04. 035 Dwelling code - Adopted.
+15. 04. 040 Plumbing code - Adopted.
+15. 04. 050 Mechanical code - Adopted.
+15. 04. 060 Electrical code - Adopted.
+15. 04. 070 Building abatement code -
+Adopted.
+15. 04. 080 Fire code - Adopted.
+15. 04. 090 Definitions.
+15. 04. 100 Mobile homes - Placement permit
+Inspection.
+15. 04. 105 Expedited Construction Start
+15. 04. 110 Mobile homes - State certification
+required.
+15. 04. 120 Building permit issuance -
+Zoning conformance - Planning
+department approval.
+15. 04. 130 Building or mobile home
+placement permit issuance -
+Zoning and subdivision
+conformance.
+15. 04. 140 Permit fees - Adjustments.
+15. 04. 150 Numbers for addresses -
+Placement.
+15. 04. 160 Administration - Enforcement.
+15. 04. 170 Conditions deemed a public
+nuisance.
+15. 04. 180 Violation - Penalty.
+15. 04. 010 Documents adopted with
+amendments - Enforcement.
+The codes, laws and rules adopted by this
+chapter as the county building codes, are adopted
+as constituted on August 1, 1983, and as thereafter
+constituted. The regularly adopted amendments to
+the codes, laws and rules by the state, the State
+Department of Commerce and the State Fire
+Marshal shall be effective as of the effective date
+of the change, and shall be enforceable by the
+county as of such date. ( Ord. 83-056 § 14, 1983)
+0120- 1130
+15. 04. 020 Applicability.
+The provisions of the codes, laws, rules and
+regulations adopted by this chapter apply to all
+buildings, structures and mobile homes in the
+unincorporated areasof the county. (Ord. 83-056
+16, 1983)
+15. 04. 030 Structural code - Adopted.
+A certain book or publication, a copy of which
+is on file with the county clerk, marked and
+entitled Uniform Building Code, [ 1988] 1991
+Edition, Stateof Oregon Structural SpecialtyCode,
+1990]1993 Edition, effectiveJanuary 1, [1990]1993,
+hereinafter referred to as the " structural code," is
+adopted in its entirety as the structural code for
+the unincorporated areas of the county, for
+regulating and controlling the construction,
+reconstruction, remodeling, enlargement,
+alteration, repair, moving, removal, conversion,
+demolition, occupancy, equipment, use, height,
+area and maintenance of buildings or structures in
+the unincorporated areas of the county. The
+structural code adopted and on file in the county
+clerk' s office is referred to and by this reference
+made a part of this chapter as though fully set out
+in this chapter. ( Ord. 93- 006 § 1, 1993; Ord. 90- 005
+1, 1990; Ord. 87- 017 § 1, 1987; Ord. 86- 075 § 1,
+1986; Ord. 86- 048 § 1 ( part), 1986; Ord. 83- 056 §
+1, 1983)
+15. 04. 035 Dwelling code - Adopted.
+A certain book or publication, a copy of which
+is on file with the county clerk, marked and
+entitled, CABO One & Two Family Dwelling
+Code, 1989 Edition and 1990 Oregon One & Two
+Family Dwelling SpecialtyCode, effective April 1,
+1990, hereby is adopted as the code for one- and
+two-family dwellingsin unincorporated Deschutes
+County; and such dwelling code, so adopted and
+on file in the office of the clerk is referred to and
+by this reference made a part of this chapter as
+though fully set out herein. ( Ord. 90-030 § 1, 1990;
+Ord. 87- 020 § 1, 1987; Ord. 86- 073 § 1, 1986)
+15. 04. 040 Plumbing code - Adopted.
+A [ C] certain book[ s] or publication[ s], [ copies] a
+copy of which [ are] is on file with the county clerk,
+marked and entitled, [ Oregon] State of Oregon
+Plumbing SpecialtyCode, 1992Edition, basedon
+the Uniform Plumbing Code, 1991 Edition, as
+amended by the State of Oregon, effective
+2 ( 2/ 17/ 93)
+January 1, 1992, hereinafter referred to as the
+plumbing code," [ are] is adopted in [ their its
+entirety as the plumbing code for the
+unincorporated county for regulating and
+controlling the erection, installation, alteration,
+addition, repair, relocation, replacement,
+maintenance or use of plumbing systems in the
+unincorporated areas of the county. The plumbing
+code adopted and on file in the county clerk' s
+office is referred to and by this reference made a
+part of this chapter as though fully set out in this
+chapter. ( Ord. 93- 006 § 1, 1993; Ord. 92- 035 § 1,
+1992; Ord. 90- 005 § 1, 1990; Ord. 87- 025 § 1, 1987;
+Ord. 87- 022 § 1, 1987; Ord. 87- 001 § 2, 1987; Ord.
+83- 056 § 2, 1983)
+15. 04. 050 Mechanical code - Adopted.
+A certain book or publication, a copy of which
+is on file with the county clerk, marked and
+entitled, Uniform Mechanical Code, [ 1988] 1991
+Edition, State of Oregon Mechanical Specialty
+Code, [ 1990]1993 Edition, effective January 1,
+1990] 1993, hereinafter referred to as the
+mechanical code," is adopted in its entirety as the
+mechanical code for the county for regulating and
+controlling the design, construction, installation,
+quality of materials, locations, operation and
+maintenance of heating, ventilating, cooling,
+refrigeration systems, incinerators and heat
+producing application, except boilers and pressure
+vesselsregulated by State Boiler PressureVessel
+Law, in the unincorporated areas of the county.
+The mechanical code so adopted and on file in the
+county clerk' s office is referred to and by this
+reference made a part of this chapter as though
+fully set out in this chapter. ( Ord. 93-006 § 1, 1993;
+Ord. 90- 005 § 3, 1990; Ord. 87- 018 § 1, 1987; Ord.
+86- 048 § 1 ( part), 1986; Ord. 83- 056 § 1, 1983)
+15. 04. 060 Electrical code - Adopted.
+A certain book or publication, a copy of which
+is on file with the county clerk, marked and
+entitled, Stateof Oregon Electrical SpecialtyCode,
+and National Electrical Code, 1990 Edition,
+hereinafter referred to as the " electrical code" is
+adoptedin its entirety asthe electricalcodefor the
+unincorporated areas of the county, for regulating
+and controlling the design, construction,
+installation, quality of materials, location,
+operation, erection, addition, repair, relocation,
+replacement and maintenance of electrical service,
+0120- 1131
+wiring, equipment, special occupancies, conditions,
+communications systems and other specified
+electrical application. The electrical code adopted
+and on file in the county clerk's office is referred
+to and by this reference made apart of this chapter
+asthough fully setout in this chapter. (Ord. 90-030
+2, 1990; Ord. 87- 019 § 1, 1987; Ord. 84- 028 § 1,
+1984; Ord. 83- 056 § 4, 1983)
+15. 04. 070 Building abatement code -
+Adopted.
+A. Except as provided in subsection B of this
+section, a certain book or publication, a copy of
+which is on file with the county clerk, marked and
+entitled, Uniform Code for the Abatement of
+Dangerous Buildings, 1991 Edition, hereinafter
+referred to as " building abatement code," is
+adopted in its entirety as the building abatement
+code for the unincorporated areas of the county
+for regulating and controlling the repair, vacation,
+demolition and abatement of dangerous buildings
+in the unincorporated areas of the county. The
+Building Abatement Code adopted and on file in
+the county clerk's office is referred to and by this
+reference made a part of this chapter as though
+fully set out in this chapter.
+B. Chapter 9 of the Building Abatement Code,
+Recovery of Cost of Repair or Demolition," is
+adopted as amended below:
+Section 901. Account of Expense, Filing of
+Report: Contents. The director of the
+community develpment department shall keep
+an itemized account of the expense incurred by
+the County in the repair or demolition of any
+building done pursuant to the provisions of
+Section 701( C) 3 of this code. Upon the
+completion of the work of repair or demolition,
+said director shall prepare and file with the
+Board of County Commissioners a report
+specifying the work done, the itemized and
+total cost of the work, a description of the real
+property upon which the building or structure
+is or was located, and the names and addresses
+of the persons entitled to notice pursuant to
+Subsection ( c) of Section 401.
+Section 902. Report Transmitted to Board -
+Set for Hearing. Upon receipt of said report,
+the Board shall fix a time, date and place for
+hearing said report and any protests or
+3 ( 2/ 17/ 93)
+objections thereto. The Board shall cause
+notice of said hearing to be posted upon the
+property involved, published once in a
+newspaper of general circulation in this
+jurisdiction, and served by certified mail,
+postage prepaid, addressed to the owner of the
+property as the owner' s name and address
+appear on the last assessment roll of the
+county. Such notice shall be given at least 10
+days prior to the date set for hearing and shall
+specifythe day, hour andplacewhen the Board
+will hear and pass upon the director' s report,
+together with any objections or protests which
+may be filed as hereinafter provided by any
+person interested in or affected by the
+proposed charge.
+Section 903. Protests and Objections - How
+Made. Any person interested in or affectedby
+the proposed charge may file written protests
+or objections with the Board at any time prior
+to the time set for the hearing on the report of
+the director. Each such protest or objection
+must contain a description of the property in
+which the signer thereof is interested and the
+grounds of such protest or objection.
+Section 904. Hearing of Protests. Upon
+the day and hour fixed for the hearing, the
+Board shall hear and pass upon the report of
+the director together with any objections or
+protests. The Board may make such revision,
+correction or modification in the report or the
+charge as it may deem just; and when the
+Board is satisfied with the correctness of the
+charge, the report ( as submitted or as revised,
+corrected or modified) together with the
+charge, shall be confirmed or rejected. The
+decision of the Board on the report and the
+charge, and on all protests or objections, shall
+be final and conclusive.
+Section 905. Personal Obligation and Lien
+Against Property.
+a) General. The Board may thereupon order
+that said charge may be made a personal
+obligation of the property owner and/ or assess
+said charge as a lien against the property
+involved.
+b) Personal Obligation. If the Board orders
+that the charge shall be a personal obligation of
+0120- 1132
+the property owner, it shall direct County Legal
+Counsel to collect the same on behalf of the
+County by use of all appropriate legal
+remedies.
+c) Lien. If the Board orders that the charge
+shall be assessedas a lien against the property,
+it shall direct County Legal Counselto take all
+necessaryaction to perfect the lien under the
+provisions of ORS Chapter 87.
+Section 906. Lien.
+a) Priority. Any lien filed pursuant to this
+Chapter shall have the priority establishedin
+ORS Chapter 87 for construction liens. The
+Hen shall continue until the principle and all
+interest due and payable thereon are paid.
+b) Interest. Any such lien filed shall bear
+interest at the then legal rate.
+Section 907. Foreclosure of Lien. The lien
+filed pursuant to Section 905 of this Chapter
+shall be foreclosed as provided in ORS Chapter
+87.
+Section 908. Disbursement of Lien. All
+money recoveredfrom the saleof the property
+through lien foreclosure proceedings under
+ORS Chapter 87 shall be paid to the County
+Treasurer, who shall credit the same to the
+County General Fund.
+Ord. 88- 027 § 1, 1988; Ord. 83- 056 § 5, 1983)
+15. 04. 080 Fire code - Adopted.
+A certain book or publication, a copy of which
+is on file with the county clerk, marked and
+entitled, Uniform Fire Code, [ 1988] 1991 Edition,
+State of Oregon [ Fire Code, 1989 Edition] 1992
+Amendments, effective July 15, 1992, hereinafter
+referred to as "fire code," hereby is adopted in its
+entirety as the fire code of the county for
+regulating the hazardsfrom storage, handling and
+use of hazardous substances, materials and devices,
+and from conditions or premises in unincorporated
+DeschutesCounty; and the fire code so adopted
+and on file in the office of the county clerk is
+referred to and by this reference made a part of
+this chapter as though fully set out herein. ( Ord.
+93- 006 § 1, 1993; Ord. 90- 005 § 4, 1990; Ord. 86-
+068 § 1, 1986; Ord. 83- 056 § 6, 1983)
+4 ( 2/ 17/ 93)
+15. 04. 090 Definitions.
+Whenever appropriate in applying the
+provisions of this chapter, the following definitions
+apply:
+A. " Appointing authority" means the board of
+county commissioners.
+B. " Building department" means the office of
+the county building official or his designee.
+C. " Building official" means the person
+designated by the board as the building
+administrator.
+D. " County" means Deschutes County, a
+political subdivision of the State of Oregon.
+E. " Fire chief' means the applicable chief of
+any rural fire protection district.
+F. " Mobile home" hasthe meaningprovided in
+Title 18 of this code.
+G. "Modular or factory -built home" means a
+factory -built dwelling unit designed to be
+transported to a site and the construction meets
+the standards of the Oregon Prefabricated
+Structures Code, and is a structure for the
+purposes of this chapter. ( Ord. 83- 056 § 12, 1983)
+15. 04. 100 Mobile homes - Placement permit
+Inspection.
+No mobile home shall be occupied within the
+unincorporated areas of the county without first
+obtaining a placement permit and satisfactory
+inspection of placement on the site, electrical
+connections and plumbing connections. ( Ord.
+83- 056 § 7, 1983)
+15. 04. 105 Expedited Construction Start.
+A. Notwithstanding any other provision set
+forth in this Chapter, the Deschutes County
+Community Development Department is
+authorized to allow the commencement and
+undertaking of certain construction work for
+certain types of single- family residences served by
+sewer and certain types of garages prior to the
+issuance of building permits. The Building Safety
+Director shall have the discretion to limit the kind
+of construction project to which this section applies
+and the extent to which such construction can
+proceed before building permits must be issued.
+Such discretion shall be exercised in a manner
+calculated to protect public safety and to limit
+applicability to projects with avery high probability
+of gaining ultimate approval under applicable land
+use and building codes.
+0120- 1133
+B. In all cases, owners or their authorized
+representatives shall have applied for required
+building permits. Before commencing construction
+under this section, owners and any general
+contractor employed by the owner shall be
+required to sign a form of agreement with the
+County, acting by and through the Building
+Official or the Director of the Community
+Development Department or such other persons as
+the Board of County Commissioners may
+designate, by which the owner and any general
+contractor agree at a minimum to assume all risks
+associatedwith proceedingbefore building permits
+are issued, agree to call for required inspections
+under the applicable Building Code and to correct
+any construction deficiencies noted, agree to take
+remedial action, including but not limited to
+removal of construction work, in the event that the
+plans submitted for approval are ultimately not
+approved by the Community Development
+Department, and to indemnify the County for any
+damage suffered by reason of commencing and
+undertaking construction under this section.
+C. Any owner wishing to proceed with
+construction under this section shall apply to the
+Community DevelopmentDepartmentfor approval
+and pay an application fee in an amount
+determined by the Board of Commissioners.
+D. For purposes of enforcement, violation of
+anyprovision of the agreementauthorized by this
+sectionby any owner or contractor who is a party
+to such an agreement shall be treated as if it were
+a violation of a provision of this Chapter.
+Enforcement under this chapter shall be in
+addition to any remedies set forth under the
+Agreement. ( Ord. 91- 046 § 1, 1991)
+15. 04. 110 Mobile homes - State
+certification required.
+No modular or factory -built home shall be
+located in the unincorporated areas of the county
+until suchmodular or factory -built home hasbeen
+certified by the state as meeting all state
+requirements. ( Ord. 83- 056 § 8, 1983)
+15. 04. 120 Building permit issuance -
+Zoning conformance -
+Planning department
+approval.
+No building permit shall be issued for the
+construction, reconstruction, remodeling,
+5 ( 2/ 17/ 93)
+enlargement, alteration, repair or conversion of
+any dwelling unit containing two or more dwelling
+units, commercial or industrial structure, or public
+use structure until plans therefor, including plot
+plan, are submitted to the planning department
+and approved by it as conforming to the zoning
+ordinances of the county ( Ord. 83-056 § 10, 1983)
+15. 04. 130 Building or mobile home
+placement permit issuance -
+Zoning and subdivision
+conformance.
+No building permit or mobile home placement
+permit shall be issued if the parcel of land upon
+which the building or mobile home is to be erected
+or located on, or is located on, would be in
+violation of Title 17 of this code or the zoning
+ordinance. A subdivision shall be deemed to be in
+violation of the zoning ordinance for the purpose
+of issuing building permits so long as roads and
+other improvements remain uncompleted in
+accordance with the applicable subdivision
+provisions. ( Ord. 83- 056 § 11, 1983)
+15. 04. 140 Permit fees - Adjustments.
+The fees for permits under this chapter shall be
+the fees prescribed by the State [Department of
+Commerce] Building Codes Agency. The county
+may set any permit fee at any amount lower than
+the fees adopted by the state, or set a fee for a
+permit for which the state has failed to set a fee by
+proper resolution. ( Ord. 93- 006 § 1, 1993; Ord. 83-
+056 § 15, 1983)
+15. 04. 150 Numbers for addresses -
+Placement.
+Numbers for addresses shall be placed on all
+new and existing buildings in such a position as to
+be plainly visible and legible from a distance of
+fifty feet. Such numbers or addresses shall
+contrast with their background and shall be the
+official address number as assigned the property by
+the county, the city of Bend, the Redmond Fire
+District or the city of Sisters. (Ord. 83- 056 § 9,
+1983)
+15. 04. 160 Administration - Enforcement.
+The building official as defined in this chapter
+shall administer and enforce this chapter, except
+that the provisions of the fire code shall be
+administered and enforced by the applicable fire
+0120- 1134
+chief. ( Ord. 83- 056 § 13, 1983)
+15. 04. 170 Conditions deemed a public
+nuisance.
+Any act or condition which is in violation of
+any of the provisions of this chapter, which is
+committed, continued or permitted, is declared to
+be a public nuisance, and the county may, in
+addition to any other remediesprovided by law,
+institute the proceedings for the enforcement of
+this chapter. ( Ord. 83- 056 § 18, 1983)
+15. 04. 180 Violation - Penalty.
+A. It is unlawful for any person, firm or
+corporation to erect, construct, enlarge, alter,
+repair, move, improve, convert, demolish, equip,
+use, occupyor maintain any building, structure or
+mobile home in the unincorporated areas of the
+county, or cause the same to be done, contrary to
+or in violation of any of the provisions of this
+chapter.
+B. Violation of any provision of this chapter is
+a class A infraction. ( Ord. 83- 056 § 17, 1983)
+6 ( 2/ 17/ 93)

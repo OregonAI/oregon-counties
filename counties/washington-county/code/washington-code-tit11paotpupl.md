@@ -1,0 +1,715 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/washington-county
+id: washington-code-tit11paotpupl
+title: 'Title 11 - PARKS AND OTHER PUBLIC PLACES'
+doc_type: ordinance
+citation: 'Title 11 - PARKS AND OTHER PUBLIC PLACES'
+authority_level: county_ordinance
+issuing_body: 'Washington County Board of Commissioners'
+source_url: https://api.municode.com/CodesContent?jobId=436713&nodeId=TIT11PAOTPUPL&productId=16681
+source_format: json
+retrieved: '2026-07-31'
+source_sha256: 61875d30afb88d93911df38969f9b93fefc1902f6703f34764dc32db3cae03bd
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [washington-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Washington County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Title 11 - PARKS AND OTHER PUBLIC PLACES (Title 11 - PARKS AND OTHER PUBLIC PLACES)
+
+## At a glance
+
+Title 11 - PARKS AND OTHER PUBLIC PLACES — code of Washington County. 29 sections.
+
+## Full text
+
+ ### Title 11 - PARKS AND OTHER PUBLIC PLACES
+
+ ### Chapter 11.04 - HOUSE NUMBERING AND STREET IDENTIFICATION SYSTEM
+
+ ### 11.04.010 - Purpose, title.
+
+A.
+The board of county commissioners of Washington County, Oregon, recognizes the need
+to adopt a uniform house numbering and street identification system for the unincorporated
+areas of Washington County and the need to update the existing provisions of Ordinance
+No. 287, relating to house numbering and street identification
+(amended by Ordinance No. 582).
+B.
+This chapter, as it may be subsequently amended, may be referred to and pled as the
+"Washington County Uniform House Numbering and Street Identification Regulations."
+(Ord. 640 § 1, 2006)
+
+ ### 11.04.020 - Adoption of uniform system.
+
+The uniform house numbering and street naming system, originally adopted in 1984 as
+Ordinance No. 287 and amended by Ordinance No. 582, is repealed and replaced by the
+provisions of this Ordinance No. 640; said ordinance to be administered by the county
+surveyor's office.
+Any incorporated city in Washington County may be bound by the uniform house numbering
+and street naming system. Said city shall execute a formal order and notify the county
+surveyor of its intent to adopt the provisions of this chapter.
+A.
+The city of Portland and the Multnomah County house numbering and street identification
+system shall be extended to cover unincorporated Washington County.
+1.
+The house numbering system shall be based on:
+a.
+Two thousand numbers to the mile;
+b.
+Even numbers on the east and south sides of the streets;
+c.
+The base line to be the division between the northwest and southwest sections; and
+d.
+The numbers to be an extension of the present Portland numbers.
+2.
+The street identification system to be based on:
+a.
+The north/south streets to be numbered as an extension of the present Portland numbered
+north/south streets;
+b.
+The east/west streets to be named in conformance with the names of the Portland east/west
+streets (when practicable).
+B.
+The adoption of the system shall be universal over the unincorporated areas of Washington
+County.
+C.
+Notwithstanding any other provision, upon written request, and justification by a
+city, the county surveyor may approve the addressing by a city on the city addressing
+grid, within areas of unincorporated Washington County.
+(Ord. 640 § 2, 2006)
+
+ ### 11.04.030 - New streets.
+
+A.
+All new streets, including private streets, created by the subdivision or partitioning
+process shall be approved by the county surveyor in accordance with the standards
+of this chapter and shall become effective on recording of the final plat.
+B.
+Any new street created by a public dedication may be named prior to or by the deed
+of dedication, and shall become effective upon acceptance by the county surveyor in
+accordance with the standards of this chapter.
+C.
+All streets named shall conform to the general requirements as outlined in Section
+11.04.050 of this chapter.
+D.
+Private streets, at the request of at least sixty percent of the land owner(s) using
+the street for access, may be named or renamed and addresses issued with the approval
+of the county surveyor. Private streets are subject to the same street name standards
+as are public streets. All private street signs will be provided at the owner(s) expense.
+(Ord. 640 § 3, 2006)
+
+ ### 11.04.040 - Naming process—Existing streets.
+
+A.
+An action to name a new street or rename an existing public street in Washington County
+may be initiated by the board of county commissioners:
+1.
+On its own action; or
+2.
+If a person files a petition as described in this section accompanied by a fee reasonably
+related to the costs of the process as required by resolution and order of the board.
+B.
+A petition for naming or renaming a public street shall include the following:
+1.
+A statement of the reason(s) for the proposed street name or street name change;
+2.
+The names and addresses of all persons owning any real property currently addressed
+from, or having the potential of being addressed from, the street proposed to be named
+or renamed;
+3.
+Signatures of seventy percent of the owners of land currently addressed from, or having
+the potential of being addressed from, the subject street.
+4.
+If one hundred percent of the persons defined in paragraph 2 of this subsection sign
+the petition, the notice and public hearing provided for in subsection C below may
+be waived by the county surveyor.
+5.
+For the purposes of this Section, "owner" is defined as the record holder of legal
+title to the land, except that, if there is a purchaser of the land according to a
+recorded land sale contract, the purchaser is the owner. If there are multiple owners,
+all owners must sign the petition. In the case of multiple owners, for petition purposes,
+they will be considered as one owner.
+C.
+Notice and Hearing.
+1.
+When a proceeding has been initiated under this Section, the surveyor shall establish
+a time and place for a hearing to consider whether the proposed name change is in
+the public interest.
+2.
+At least ten days prior to the date of hearing, notice of the proposed name or name
+change shall be provided as follows:
+a.
+Notice by first-class mail to the property owners currently addressed from or having
+the potential of being addressed from, the subject street;
+b.
+All occupants at the situs addresses on the subject street; and
+c.
+Notice by publication in a newspaper of general circulation in the area of the subject
+street.
+3.
+During or before a hearing under this section, any person may file information with
+the board of county commissioners that alleges any new matter relevant to the proceedings
+or controverts any matter presented to the board.
+4.
+After considering the matters presented under this section, the board of county commissioners
+shall determine whether the name change is in the public interest and shall enter
+a resolution and order granting or denying the request.
+5.
+The Board shall cause the resolution and order to be recorded with the county clerk
+who shall cause copies of the resolution and order to be filed with the department
+of land use and transportation, the department of assessment and taxation, and with
+the county surveyor.
+(Ord. 640 § 4, 2006)
+
+ ### 11.04.050 - Street name standards.
+
+A.
+In addition to complying with the requirements of Section 11.04.020 , all streets named or renamed shall comply with the following criteria:
+1.
+Major streets and highways shall maintain a common name or number for the entire alignment;
+2.
+Whenever practicable, historical names shall be utilized or retained and be subject
+to the considerations as outlined in Section 11.04.060 ;
+3.
+Hyphenated, multiple word, or other exceptionally long names shall be avoided;
+4.
+No street shall be given a name that is the same as, similar to, or pronounced the
+same as any other street within the jurisdiction of Washington County unless that
+street is an extension of an already-named street.
+5.
+Consideration shall be given to the continuation of the name of a street in another
+jurisdiction when it is extended into the county.
+6.
+Names that are difficult to pronounce or spell shall be avoided;
+7.
+Abbreviated street names shall not be allowed.
+8.
+All proposed street names shall be reviewed, prior to use, by the county surveyor's
+office to determine whether the proposed street names comply with the standards and
+classifications set forth in this chapter.
+B.
+The following classifications (suffixes) shall be utilized in the assignment of all
+street names:
+1.
+Boulevard: major north/south street providing through traffic movement across the
+community;
+2.
+Road: major east/west street providing through traffic movement across the community;
+3.
+Avenue: continuous, north/south thoroughfare or extension thereof;
+4.
+Street: continuous, east/west thoroughfare or extension thereof;
+5.
+Drive: curvilinear thoroughfare (less than one hundred eighty degrees) at least one
+thousand feet in length;
+6.
+Lane: short east/west street under one thousand feet in length;
+7.
+Terrace: short north/south street under one thousand feet in length;
+8.
+Court: East/west cul-de-sac;
+9.
+Place: North/south cul-de-sac;
+10.
+Way: Loop street (exceeding one hundred eighty degrees);
+11.
+Parkway: a broad landscaped thoroughfare.
+(Ord. 640 § 5, 2006)
+
+ ### 11.04.060 - Historical names.
+
+Whenever practicable, historical names will be considered in the naming or renaming
+of public streets. Factors to be considered shall include, but not be limited to,
+the following:
+A.
+Original holders of donation land claims in Washington County;
+B.
+Early homesteaders or settlers of Washington County;
+C.
+Heirs of original settlers or long-time (minimum seventy-five years) residents of
+Washington County;
+D.
+Explorers of, or having to do with, Washington County;
+E.
+Native American tribes of Washington County;
+F.
+Early leaders and pioneers of eminence.
+(Ord. 640 § 6, 2006)
+
+ ### 11.04.070 - Repeal.
+
+Any prior ordinance, order, resolution and order, or other county regulations inconsistent
+with the provisions of this chapter, shall no longer be applicable to future actions
+of the county, but nothing herein shall invalidate or modify any existing street name
+without further action as provided in this chapter.
+(Ord. 640 § 7, 2006)
+
+ ### 11.04.080 - Severability.
+
+The provisions of this chapter are severable. If any portion of this chapter is determined
+by a court of competent jurisdiction to be invalid, all remaining portions shall not
+be affected thereby and shall remain in full force and effect.
+(Ord. 640 § 8, 2006)
+
+ ### Chapter 11.08 - PARK USE REGULATIONS
+
+ ### 11.08.010 - Short title and purpose.
+
+In order to protect the health, safety and welfare of the residents and citizens of
+the county and to provide for rules and regulations governing the use of county parks,
+the board of county commissioners of the county does enact the provisions set out
+in this chapter which may be referred to and pleaded as the "park ordinance of the
+county" and may be referred to herein as "this chapter."
+(Ord. 304 § 1, 1985)
+
+ ### 11.08.020 - Definitions.
+
+As used in this chapter, unless the context requires otherwise:
+A.
+"Board" means board of commissioners of the county.
+B.
+"Park Area" means a parcel of land, or reservoir or water impoundment area owned,
+leased, or by other agreement, administered by the county, for recreation or open
+space purposes and designated by the board as a park area. Such designation may also
+apply to such properties or areas held for future recreational development.
+C.
+"Park board" means the park and recreation advisory board created by Ordinance 38
+of the county.
+D.
+"Park director" means the director of parks and recreation of the county.
+E.
+"Park officer" means an individual employed by the county to act and perform certain
+duties under the supervision of the park director in a park area.
+F.
+"Parking permit" means parks-issued proof of a daily parking pass, annual parking
+pass, or other parking pass approved by the parks director required for vehicle parking
+under this chapter and rules hereunder..
+(Ord. 304 § 2, 1985; Ord. No. 825 , § 2(Exh. A, 8-15-2017)
+
+ ### 11.08.030 - Administration responsibility.
+
+The park director, under the direction of the board, shall be responsible for the
+policies for administration and enforcement of this chapter. The park director shall
+administer the day-to-day activities undertaken in connection with this chapter and
+the rules and regulations adopted pursuant thereto.
+(Ord. 304 § 3(A), 1985)
+
+ ### 11.08.040 - Authority.
+
+The park director shall have the authority to do all things necessary to administer
+the provisions of this chapter and the rules and regulations adopted pursuant thereto,
+to control the use of all facilities in a park area and to control the activities
+of park officers.
+(Ord. 304 § 3(B), 1985)
+
+ ### 11.08.050 - Limitation of other jurisdiction not intended.
+
+The enforcement of this chapter and the rules and regulations relating to the governing
+and use of the county parks is not intended to limit the legal jurisdiction of any
+federal, state or county enforcement agency created by law, including but not limited
+to, the county department of public safety and fire protection districts regularly
+charged with the responsibility of providing fire protection for the area.
+(Ord. 304 § 3(C), 1985)
+
+ ### 11.08.060 - Director or officers—Powers and duties.
+
+The powers and duties of the park director or park officers shall be as follows:
+A.
+To have police power in the enforcement of all provisions of this chapter;
+B.
+To do all acts necessary to preserve the proprietary interest of the county in the
+park areas;
+C.
+To receive and collect any costs and charges hereinafter provided by this chapter
+or the rules and regulations adopted pursuant thereto.
+(Ord. 491 § 2(B) Exh. K (part), 1997: Ord. 304 § 4, 1985)
+
+ ### 11.08.070 - Promulgation of rules and regulations.
+
+Upon the recommendation of the park director or park board, or upon its own motion,
+the board may, by resolution and order, promulgate rules and regulations pertaining
+to the administration and enforcement of this chapter and to carry out the purposes
+thereof, including, but not limited to, the following subjects:
+1.
+Fire prevention and control;
+2.
+Hunting;
+3.
+Use of firearms;
+4.
+Removal of plant life;
+5.
+Destruction of park facilities;
+6.
+Removal of rocks;
+7.
+Erection of signs;
+8.
+Digging in park areas;
+9.
+Sales of goods and services;
+10.
+Use of motor vehicles;
+11.
+Animals brought into park areas;
+12.
+Disposal of garbage;
+13.
+Making of unreasonable levels of noise;
+14.
+Horses;
+15.
+Abusive, threatening, boisterous, vile, obscene, or indecent language or conduct;
+16.
+Public demonstrations or mass gatherings;
+17.
+Overnight camping;
+18.
+Marine rules and regulations for the use of reservoirs and watershed areas;
+19.
+Violation procedures;
+20.
+Special uses and events;
+21.
+Fees; and
+22.
+Times and hours for park use.
+(Ord. 304 § 5, 1985)
+
+ ### 11.08.080 - Prohibited activities.
+
+It shall be unlawful for any person:
+A.
+To interfere with, hinder, molest or verbally abuse a park director or park officer
+while in the exercise of his duties;
+B.
+To violate any rule and regulation adopted by the county pursuant to Section 11.08.070 of this chapter;
+C.
+To park a vehicle in Hagg Lake Park unless the vehicle displays a parking permit issued
+by the county. No parking permit shall be required for a vehicle owned and operated
+by the United States, another state or a political subdivision thereof, a vehicle
+owned by this state or by any city, district or political subdivision thereof.
+(Ord. 491 § 2(B) Exh. K (part), 1997: Ord. 304 § 6, 1985)
+
+ ### 11.08.090 - Citation.
+
+A county officer, as defined in the uniform citation ordinance, and a private citizen
+may issue a citation for violation of this chapter and the rules and regulations adopted
+pursuant thereto. Citations shall conform to the requirements of the uniform citation
+ordinance, Chapter 1.08 .
+(Ord. 491 § 2(B) Exh. K (part), 1997)
+
+ ### 11.08.100 - Citation—Other enforcement procedures not excluded.
+
+The provisions of this chapter are in addition to and not in lieu of any other procedures
+and remedies provided by law, including equitable relief and damages.
+(Ord. 491 § 2(B) Exh. K (part), 1997: Ord. 304 § 8(K), 1985)
+
+ ### 11.08.110 - Park and water resources board.
+
+The board may provide for a park and water resources board to advise the board as
+to matters pertaining to the acquisition, administration and use of park areas and
+shall provide for terms of office and directions of the park and water resources board.
+(Ord. 491 § 2(B) Exh. K (part), 1997: Ord. 304 § 9, 1985)
+
+ ### 11.08.120 - Conformity with law.
+
+This chapter shall not be in any way a substitute for, nor eliminate the necessity
+for conformity with any and all laws or rules of the state or its agencies, or any
+ordinance, rule or regulation of the county.
+(Ord. 491 § 2(B) Exh. K (part), 1997: Ord. 304 § 10, 1985)
+
+ ### 11.08.130 - Board authority to contract with governmental agencies.
+
+The board of county commissioners of the county is authorized to contract for park
+services with any political subdivision of the state, municipality or other governmental
+entity, body or agency, in a cooperative effort to enforce the ordinance codified
+in this chapter or similar ordinances or portions thereof in other jurisdictions.
+(Ord. 491 § 2(B) Exh. K (part), 1997: Ord. 304 § 12, 1985)
+
+ ### 11.08.140 - Violation—Penalty.
+
+A.
+Upon conviction of any person for violation of any provision of this chapter or rules
+or regulations adopted pursuant thereto, such person may be punished by a fine of
+not more than two hundred dollars.
+B.
+Notwithstanding subsection A of this section, a violation of subsection C of Section
+11.08.080 of this chapter is a parking violation punishable by a fine of twenty dollars.
+C.
+Each day any person shall be in violation of this chapter or rules or regulations
+adopted pursuant thereto, shall be deemed a separate offense.
+D.
+Any person who has been convicted of a violation of this chapter or rules or regulations
+adopted pursuant thereto and who is found by a court to have been formerly convicted
+of any violation of this chapter or rules or regulations adopted pursuant thereto
+within the two years preceding the date of the alleged violation may be punished by
+a fine of not more than one thousand dollars.
+(Ord. 491 § 2(B) Exh. K (part), 1997: Ord. 304 § 7, 1985)
+APPENDIX
+IN THE BOARD OF COUNTY
+COMMISSIONERS
+FOR WASHINGTON COUNTY
+In the Matter of
+)
+the Adoption of
+)
+Rules and Regula-
+)
+RESOLUTION
+tions Relating to
+)
+AND ORDER
+the use of Washing-
+)
+ton County Parks
+)
+Pursuant of
+)
+Washington to
+)
+Section 5 of
+)
+Ordinance No.
+)
+NO. 75-17
+165 of Washington
+)
+County.
+)
+The above entitled matter came on regularly before the Board at its meeting of January
+14, 1975; and
+It appearing to this Board that this Board did, on December 17, 1974, adopt Ordinance
+No. 165 of Washington County, entitled "An Ordinance Relating to the Use of Washington
+County Parks; Supplying Definitions; Prohibiting Certain Activities; Providing for
+the Adoption of Rules and Regulations; Providing for a Uniform Park Ordinance Citation;
+Providing for Penalties; and Declaring an Emergency"; and
+It appearing to this Board that Section 5 of the aforesaid Ordinance, provides a means
+whereby this Board may, by resolution and order, promulgate rules and regulations
+as provided therein; and
+It appearing to this Board that it is appropriate to adopt and promulgate certain
+rules and regulations relating to the use of Washington County parks, and the Board
+being fully advised in the premises, it is, therefore
+RESOLVED AND ORDERED that the rules set forth in Exhibit "A", attached hereto and
+by this reference incorporated herein consisting of eight (8) pages be, and hereby
+are, adopted and promulgated by this Board, effective immediate; and it further
+RESOLVED AND ORDERED that the Parks Director take such steps as may be necessary to
+post such rules in Washington County park areas.
+DATED this 14th day of January, 1975.
+BOARD OF COUNTY COMMISSIONERS
+FOR WASHINGTON COUNTY, OREGON
+______________
+Chairman
+______________
+Recording Secretary
+EXHIBIT "A"
+
+ ### SECTION 1. - ADOPTION PROVISION.
+
+The following are the duly adopted Rules and Regulations pertaining to Ordinance No.
+165 of Washington County entitled "An Ordinance Relating to the Use of Washington
+County Parks; Supplying Definitions; Prohibiting Certain Activities; Providing for
+the Adoption of Rules and Regulations; Providing for a Uniform Park Ordinance Citation;
+Providing for Penalties; and Declaring an Emergency", adopted by the Board of County
+Commissioners of Washington County on December 17, 1974. The following Rules and Regulations
+are authorized and adopted pursuant to the authority vested in said Board of County
+Commissioners by Section 5 of the said Ordinance.
+
+ ### SECTION 2. - GENERAL RULES AND REGULATIONS.
+
+The general rules and regulations for Washington County parks and their "park areas"
+shall be as follows:
+A.
+Fires in Park Areas.
+1.
+It shall be unlawful to build a fire in any park area unless said fire is confined
+to:
+a.
+Park campstoves or fireplaces;
+b.
+Portions of beaches designated by the Park Director or Park Officer as permitting
+fires;
+c.
+Portable stoves in established campsites, picnic areas and designated beaches where
+fires are permitted.
+2.
+No fire shall be left unattended and every fire shall be extinguished before its user
+leaves the park area.
+B.
+It shall be unlawful to:
+1.
+Hunt, pursue, trap, kill, injure or molest any birds or animals or disturb their habitat;
+2.
+Discharge any firearm, pellet gun, B.B. gun, bow and arrow, slingshot or other weapon
+capable of injuring any person, bird or animal; or
+3.
+Possess any firearm in any park area except as provided by law or duly authorized
+peace officers so authorized under the laws of the State of Oregon and the Federal
+government.
+C.
+No person shall pick, cut, mutilate, or remove from any park area, flowers, shrubs,
+foliage, trees, or plant life, or products of any type without written permission
+from the Park Director or his authorized agent.
+D.
+No person shall mutilate, deface, damage or remove any table, bench, building, sign,
+marker, monument, fence, barrier, fountain faucet, buoy, traffic recorder, or other
+structure, or facility of any kind in a park area.
+E.
+No person shall, unless authorized by Washington County, dig up, deface, or remove
+any dirt, stones, rock or other substance whatever, make any excavation, quarry any
+stone, possess or discharge any explosive device, or lay or set off any blast, or
+roll any stones or other objects, or cause or assist in doing any of the said things
+within the park area.
+F.
+No person shall, except in areas designated by the Park Director or Park Officer,
+erect signs, markers, or inscriptions of any type within a park area without permission
+from the Park Director or Park Officer.
+G.
+No person in a park area may sell, peddle or offer for sale any food, liquids, edibles
+for human consumption, or any goods, wares, services or merchandise within the park
+area except under permit by the Park Director and then only subject to such laws and
+regulations as may now or hereinafter exist.
+H.
+Motor vehicles shall be operated only on roads and in parking areas designated for
+motor vehicle use. Said roads and parking areas are intended for the use of the general
+public for vehicles and subject to all county ordinances and regulations. No motor
+vehicle shall be operated on any trail or in any part of a park area not designated
+for motor vehicle use, or on any road or trail posted as closed to the public. Automobiles,
+motorcycles, trailers, or other vehicles shall be parked only in designated parking
+areas. No person shall operate any motor vehicle within a park area at a speed in
+excess of twenty-five miles per hour unless the roadway is posted otherwise.
+I.
+No dog, cat or other animal of any kind, shall be brought into or kept in a park area
+unless confined, or in a vehicle, or on a leash. It shall be unlawful for any individual
+to leave an unattended animal in a confined area or vehicle for a period of time which
+would be an act of cruel mistreatment as defined in the Washington County Dog Control
+Ordinance No. 138, as amended. The authority of the Park Director or Park Officer
+includes the authority to require the person keeping the animal to undertake any measures
+(including removal of the animal from the park area) deemed by the Park Director or
+Park Officer necessary to prevent interference by the animal with the safety, comfort,
+and well-being of the park area users, or the appearance or sanitary conditions of
+the park area. No animals, other than seeing-eye dogs, shall be allowed in any building.
+J.
+No bottles, cans, ashes, waste, paper, garbage, sewage, refuse, or any other like
+substance shall be left in a park area, except in the receptacles designated for that
+purpose.
+K.
+No person shall operate any radio, sound amplifying equipment, or use any noise-producing
+machine, vehicle device, or instrument in such an unreasonable manner that disturbs
+the peace, quiet, comfort and repose of other park area visitors. Noise emanating
+at an unreasonable level of noise will be subject to the Washington County Noise Control
+Ordinance No. 90, as amended.
+L.
+No person shall, except duly authorized peace officers in the course of their duties,
+ride, drive, lead or keep a horse or other animal in any park area, except on such
+roads, trails, or areas designated for that purpose. No horse or such animal shall
+be hitched to any tree or shrub in such a manner that may cause damage to such tree
+or shrub.
+M.
+No person shall wash any clothing or other materials, or deposit any material or other
+substance, or clean any fish in a lake, stream, or river in a park area.
+N.
+No person shall set up or use a public address system or voice amplifier without specific
+authorization from the Park Director. Any form of mass gathering for special events
+or use of a park area at special times or for special uses or events shall be unlawful
+without specific authorization from the Park Director and shall be in accord with
+State law and County Ordinances and regulations as may now or hereinafter exist. Any
+public disturbance shall be prohibited in any county park area.
+O.
+No person shall use abusive, threatening, boisterous, vile, obscene, or indecent language
+and/or conduct in a park area.
+P.
+Overnight Camping:
+1.
+Camping in areas not designated for camping, shall be unlawful and not permitted.
+2.
+Check in and check out times, reservations and other rules and regulations governing
+overnight camping are specifically reserved for expansion at a later date.
+Q.
+Certain activities, including but not limited to, swimming, picnicking, group picnicking,
+boating, water skiing, fishing, camping, group camping, hiking and horse riding may
+be restricted to designated zones or areas.
+R.
+Except for authorized overnight camping in accordance with these rules and regulations,
+no person, other than law enforcement officers or authorized county personnel, shall
+enter or remain in any park area between the daily closing time and the daily opening
+time as established by the Park Director and posted at the entrance to such park areas.
+It shall be unlawful for any person to enter any grounds, buildings or areas posted
+against entry or trespass or to enter any grounds or buildings after posted closing
+times except the Park Director, Park Officer, Park employees and peace officers in
+the course of their duties.
+S.
+The Park Director, Park Officers and the Washington County Department of Public Safety
+are authorized to obtain compliance of the public with these rules and regulations.
+If any individual willfully fails to obey or disregard an instruction given by the
+Park Director, a Park Officer or the Washington County Department of Public Safety,
+in light of these rules and regulations, said individual shall be subject to citation
+therefrom as provided for by the Park Ordinance of Washington County.
+T.
+The Board of County Commissioners of Washington County and the Park Director shall
+have the authority to close a park area or a portion of a park area to the public
+at any time and without notice for any reasonable and necessary circumstance including
+but not limited to construction and maintenance in the park area, and for all fire
+hazards.
+U.
+Use of a Handicapped Persons Dock
+1.
+Any "Handicapped Persons Dock" as designated by sign or other direction shall be reserved
+for the exclusive use and enjoyment of those handicapped persons for whom the dock
+was designed and built. No other persons shall be permitted to trespass or enter upon
+this dock, irrespective of the presence or absence of handicapped persons, except:
+a.
+The Park Director, Park Officer, Park Employees, and Peace Officers in the course
+of their duties; and
+b.
+Those persons who may assist handicapped persons on to or off of the dock, or assist
+handicapped persons in their enjoyment of the dock.
+
+ ### SECTION 4. - MARINE RULES AND REGULATIONS.
+
+The following rules and regulations shall be applicable to county controlled reservoirs
+and are in addition to the above-mentioned regulations:
+A.
+For the purposes of these rules and regulations, all boats shall be operated in a
+safe manner and in accordance with Oregon Boating Laws and Regulations (State of Oregon
+Marine Board Regulations).
+B.
+It shall be unlawful for any person to operate any houseboat, motorboat, canoe, rowboat,
+sailboat, raft or other floating vessel upon park waters except at those times and
+in those areas where such uses are specifically permitted and posted for those purposes.
+
+ ### SECTION 5. - FEES.
+
+Fees may be charged for certain services and privileges, and for the use of designated
+areas, buildings or facilities. It shall be unlawful to enter or use such areas, buildings,
+services or facilities or to be granted those privileges unless the appropriate fee
+or fees have been paid.
+RESOLVED AND ORDERED that the Parks Director is authorized and directed to cause the
+pages of the aforementioned rules and regulations to reflect the amendment noting
+thereon the effective date of this Resolution and Order and to post the same in the
+Washington County Park areas.
+DATED this 5th day of July, 1977.
+BOARD OF COUNTY COMMISSIONERS
+FOR WASHINGTON COUNTY, OREGON
+______________
+CHAIRMAN
+______________
+RECORDING SECRETARY

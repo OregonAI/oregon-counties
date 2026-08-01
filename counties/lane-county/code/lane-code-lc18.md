@@ -1,0 +1,1050 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lane-county
+id: lane-code-lc18
+title: 'LC18'
+doc_type: ordinance
+citation: 'LC18'
+authority_level: county_ordinance
+issuing_body: 'Lane County Board of Commissioners'
+source_url: https://www.lanecountyor.gov/UserFiles/Servers/Server_3585797/File/Government/County%20Departments/County%20Counsel/Lane%20Code/LC18.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 988e1b0575635b53780fc776edb360a1ade6c25f544f653a78923a806793bf0e
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 682.015
+    - ORS 682.017
+    - ORS 682.025
+    - ORS 682.035
+    - ORS 682.062
+    - ORS 682.063
+    - ORS 682.105
+    - OAR 333-250-0041
+    - OAR 333-250-0085
+    - OAR 333-255-0070
+  related: []
+  supersedes: []
+tags: [lane-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lane County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# LC18 (LC18)
+
+## At a glance
+
+LC18 — code of Lane County. 26 pages.
+
+## Full text
+
+May 2017 18-i
+Chapter 18- LANE COUNTY AMBULANCE SERVICE AREA PLAN .................................................................... 1
+18.100 - Ambulance Service Area Plan - General ................................................................................. 1
+18.100.005 - Purpose. ....................................................................................................................... 1
+18.100.010 - Overview of Lane County. ............................................................................................ 1
+18.100.015 - Definitions. ................................................................................................................... 1
+18.100.016 - Exemptions. ................................................................................................................. 5
+18.100.020 - Ambulance Services Area Boundaries. ........................................................................ 5
+18.100.025 - 9-1-1 Fire Protection Providers and Incorporated Cities Map. .................................... 8
+18.100.030 - Alternatives to Reduce Response Times. ..................................................................... 8
+18.100.040 - System Elements. ......................................................................................................... 9
+18.100.041 - Designations. ............................................................................................................. 13
+18.100.045 - Authority for Ambulance Service Area Assignments. ................................................ 14
+18.100.050 - Coordination. ............................................................................................................. 15
+18.100.060 - Personnel and Equipment Resources. ....................................................................... 16
+18.100.070 - Application for New Assignment or Reassignment. .................................................. 19
+18.100.075 - Review of Application for New Assignment or Reassignment. ................................. 21
+18.100.080 - Board Action on Application for New Assignment or Reassignment. ....................... 21
+18.100.090 - Notification of Vacating an ASA. ................................................................................ 22
+18.100.095 - Maintenance of Level of Service. ............................................................................... 22
+18.100.100 - Transfer of Assignments. ........................................................................................... 22
+18.100.110 - Preventing Interruption of Service. ........................................................................... 22
+18.100.115 - Appeals, Abatement and Penalties. ........................................................................... 22
+18.100.120 - Duties of Ambulance Service Providers. .................................................................... 23
+18.100.130 - Classification of Failure to Comply. ........................................................................... 23
+APPENDIX 1 to LC 18.100.020 ......................................................................................................... 24
+APPENDIX 2 to LC 18.100.025 ......................................................................................................... 25
+
+May 2017 18-1
+Chapter 18- LANE COUNTY AMBULANCE SERVICE AREA PLAN
+
+18.100 - Ambulance Service Area Plan - General
+18.100.005 - Purpose.
+This Ambulance Service Area Plan for Lane County is adopted pursuant to ORS 682.063.  This Plan
+provides for efficient and effective provision of ambulance services through coordination of all providers of
+Emergency Medical Technician (EMT) supervised medical care within the established ambulance service
+areas at standards consistent with those provided by ORS 682.062, 682.063, and the assignment of each
+ambulance service area (ASA) to a single provider, unless otherwise noted in Lane Code, Oregon
+Administrative Rules, and existing local ordinances and rules.  This Plan may be updated in order to
+maintain or promote efficiency and effectiveness.
+
+(Ordinance 10-87, 9.3.87; 7-97, 6.6.97; 1-01, 12.20.01; 5-10, 08.27.10; 14-20, 01.27.15)
+
+18.100.010 - Overview of Lane County.
+Lane County lies in the central Willamette Valley and is bordered on the west by the Pacific Ocean, the
+north by Lincoln, Benton and Linn Counties, the east by Deschutes and Klamath Counties and the south
+by Douglas County.  It encompasses 4,620 square miles and consists of both rugged mountains, the
+Coastal Mountain Range to the west and the Cascade Mountain Range to the east and gentle valleys.
+The elevation of the County seat-Eugene is 422 feet.  The climate is characterized by an overall average
+January temperature of 40 degrees F and an average July temperature of 67 degrees F with an average
+annual precipitation of 46 inches.
+The cities of Eugene, Springfield, and Cottage Grove lie close to or border Interstate 5 which runs north
+and south.  The city of Oakridge is located on State Highway 58 which runs east and west and which is a
+major access to central Oregon.  The city of Florence lies at the intersection of State Highway 126 which
+runs east and west and US 101, which runs north and south, adjacent to the Pacific Ocean.
+The principal industries are agriculture, education, fishing, food processing, logging, manufacturing of
+wood products, recreation and tourism.
+(Ordinance 7-97, 6.6.97; 1-01, 12.20.01; 5-10, 08.27.10; 17-02, 5.11.17)
+
+18.100.015 - Definitions.
+As used in this Chapter 18, the words and phrases below have the following meanings:
+ “Administrative Civil Penalty” means may include a monetary penalty, restitution, costs and
+assessments.
+ “Advanced Emergency Medical Technician (AEMT)” means person who is licensed by the Authority
+as an Advanced Emergency Medical Technician.
+ “Ambulance” means any privately or publicly owned motor vehicle, aircraft or watercraft that is
+regularly provided or offered to be provided for emergency and non-emergency transportation of persons
+who are ill or injured or who have disabilities.
+May 2017 18-2
+ “Ambulance Services” means any person, governmental unit, corporation, partnership, sole
+proprietorship, or other entity that operates ambulances and that holds itself out as providing prehospital
+care or medical transportation to persons who are ill or injured or who have disabilities.
+ “Ambulance Service Area (ASA)”means a geographic area which is served by one ground
+ambulance service provider, and may include all or a portion of a county, or all or portions of two or more
+contiguous counties.
+ “Ambulance Service Subcontract” means agreement between an assigned ASA provider or hospital
+and an ambulance service provider contracting a portion of services.  The agreement requires
+compliance with the state and federal law and regulations and standards and requirements of LC Chapter
+18 applicable to the services and includes clinical and financial provisions.
+ “Ambulance Service Area (ASA) Plan” means a written document that outlines a process for
+establishing a county ambulance services system including both emergency and non- emergency
+ambulance transport .  A plan addresses the need for and coordination of ambulance services by
+establishing ambulance service areas for the entire county and by meeting the other requirements of
+applicable law.
+ “Ambulance Service Provider” means licensed ambulance service that responds to 9-1-1
+dispatched calls or provides pre-arranged non-emergency transfers or emergency or non-emergency
+inter-facility transfers.
+ “Ambulance Service Area (ASA) Provider” means licensed ambulance service assigned an
+Ambulance Service Area that responds to 9-1-1 dispatched calls or provides pre-arranged non-
+emergency transfers or emergency or non-emergency inter-facility transfers.
+ “ASA Advisory Committee (Committee)” means a committee formed to review standards, make
+recommendations to or set new standards for the Board of County Commissioners for all matters
+regarding ambulance services and review and make recommendations regarding soundness of the ASA
+Plan.  For purposes of this Plan, the Lane County Public Health Advisory Committee functions as the
+ASA Advisory Committee.
+ “ASA Advisory Sub-Committee” means a standing subcommittee of the ASA Advisory Committee
+made up of ASA Advisory Committee Members, ASA Providers and PSAP Providers.
+ “Authority” means the Emergency Medical Services and Trauma Systems Program within the
+Oregon Health Authority.
+ “Communication System” means two-way radio communications between ambulances, dispatchers,
+hospitals and other agencies as needed.  A two-channel multi-frequency capacity is minimally required.
+ “Director” means the Director of the Lane County Health and Human Services Department or
+designee.
+ “Dispatch Center” means telecommunications center that sends off (dispatches) and supports EMS
+resources responding to emergency and/or non-emergency calls.
+ “Division” means the Public Health Division, Oregon Health Authority.
+ “Effective Provision of Ambulance Services” means ambulance services provided in compliance with
+the County Ambulance Service Plan’s provisions for boundaries, coordination and system elements.
+ “Efficient Provision of Ambulance Services” means effective ambulance services provided in
+compliance with the County Ambulance Service Plan’s provisions for provider selection.
+May 2017 18-3
+ “Emergency” means any non-hospital occurrence or situation involving illness, injury or disability
+requiring immediate medical or psychiatric services, wherein delay in the provision of such services is
+likely to aggravate the condition and endanger personal health or safety.
+ “Emergency Calls” means a 911 call placed in good faith where the caller believes a time sensitive
+medical emergency has occurred.  The medical emergency is triaged through a State recognized
+Emergency Medical Dispatch (EMD) protocol to assign a response to the incident according to the criteria
+the ASA has in place regarding emergency driving protocol.
+ “Emergency Care” means the performance of acts or procedures under emergency conditions in the
+observation, care and counsel of the ill, injured or disabled; in the administration of care or medications as
+prescribed by a licensed physician, insofar as any of these acts is based upon knowledge and application
+of the principles of biological, physical and social science as required by a completed course utilizing an
+approved curriculum in prehospital emergency care. However, "emergency care" does not include acts of
+medical diagnosis or prescription of therapeutic or corrective measures.
+ “Emergency Medical Dispatch (EMD) Protocol” means a system approved by the State of Oregon
+designed to direct a public safety telecommunicator to determine the medical condition, prioritize the
+medical call and provide pre-arrival instruction and patient care while emergency responders are en route
+to the location of the incident.
+ “Emergency Medical Responder” means a person who is licensed by the Authority as an Emergency
+Medical Responder.
+ “Emergency Medical Service (EMS)” means those pre-hospital functions and services whose
+purpose is to prepare for and respond to medical and traumatic emergencies, ambulance services,
+patient care, communications and evaluation.
+ “Emergency Medical Services Provider (EMS Provider)” means a person who has received formal
+training in prehospital and emergency care and is state-licensed to attend to any ill, injured or disabled
+person. Police officers, fire fighters, funeral home employees and other personnel serving in a dual
+capacity, one of which meets the definition of "emergency medical services provider" are "emergency
+medical services providers" within the meaning of ORS chapter 682.
+ “Emergency Medical Technician (EMT)” means a person who is licensed by the Authority as an
+Emergency Medical Technician.
+ “EMT-Basic” means the same as Emergency Medical Technician.
+ “EMT-Intermediate” means a person who licensed by the Authority as an EMT-Intermediate.
+ “EMT-Paramedic” means the same as Paramedic.
+ “First Responder” means the same as Emergency Medical Responder.
+ “First Response Vehicle” means a vehicle and personnel that provide initial response, assessment,
+and care.
+ “Health Officer” means the Lane County Health Officer.
+ “Lane County Board of Commissioners (Board)” means the elected body consisting of five
+commissioners pursuant to Lane Charter and applicable law.
+ “License” means the document issued by the Authority to the owner of an ambulance service when
+the ambulance service and its ambulance are found to be in compliance with ORS Chapter 682 OAR
+Chapter 333.
+May 2017 18-4
+ “NICU Transfer” means the provision of ambulance services with specialized medical care for the
+stabilization and treatment of ill and newborn babies.
+ “Non-Emergency Ambulance Services” means prearranged or non-immediate ambulance transfers,
+including those between facilities, provided by the assigned ASA provider or their contracted designee
+and under EMT supervision.  Non-EMT attended transports are excluded from this definition, including
+but not limited to stretcher cars, medical taxis, and wheelchair secure transports.
+ “Non-emergency Care” means the performance of acts or procedures on a patient who is not
+expected to die, become permanently disabled or suffer permanent harm within the next 24-hours,
+including but not limited to observation, care and counsel of a patient and the administration of
+medications prescribed by a physician licensed under ORS chapter 677, insofar as any of those acts are
+based upon knowledge and application of the principles of biological, physical and social science and are
+performed in accordance with scope of practice rules adopted by the Oregon Medical Board in the course
+of providing prehospital care as defined by Oregon Administrative Rule.
+ “Notification time” means the length of time between the initial receipt of the request for emergency
+medical service by either a PSAP and/or an emergency dispatch center, and the notification of all
+responding emergency medical service personnel.
+ “Owner” means the person having all the incidents of ownership in an ambulance service or
+ambulance vehicle or, where the incidents of ownership are in different persons, the person, other than a
+security interest holder or lessor, entitled to the possession of an ambulance vehicle or operation of an
+ambulance service under a security agreement of a lease for a term of 10 or more successive days.
+ “Paramedic” means a person who is licensed by the Authority as a Paramedic.
+ “Patient” means a person who is ill or injured, or who has a disability and who is transported in an
+ambulance.
+ “Provider” means any public, private or volunteer entity providing EMS.
+ “Primary Public Safety Answering Point” means a 24-hour public safety answering point that
+receives emergency calls directly from members of the public.
+ “Public Safety Answering Point (PSAP)” means an agency that answers calls from citizens for
+emergencies involving requests for emergencies involving requests for emergency fire, police or medical
+assistance.  An example of a PSAP is a 9-1-1 Center.
+ “Response time” means the length of time between the notification of each provider and the arrival of
+each provider’s emergency medical service unit(s) at the incident scene.
+ “Scene” means the confirmed address provided by dispatch.
+ “Secondary public safety answering point” means a public safety answering point that receives
+emergency calls from a primary public safety answering point on a transfer or relay basis.
+ “Secure Transport” means the provision of non-EMT attended transport for behavioral health
+patients in mental health crisis.
+ “Stretcher Car” means non-emergency transport by a ground vehicle which is designed and
+equipped to transport individuals on a stretcher or gurney type apparatus that is operated to
+accommodate an incapacitated or disabled person who does not require EMT medical assistance during
+transport and which holds all required licenses to operate in the State of Oregon.
+ “Supervising physician” means a medical or osteopathic physician licensed under ORS Chapter 677,
+actively registered and in good standing with Oregon Medical Board of the State of Oregon, who
+May 2017 18-5
+provides direction of emergency or non-emergency care provided by emergency medical services
+providers.
+ “Wheelchair Transport” means non-emergency transport by a ground vehicle which is designed and
+equipped with a wheelchair lift to transport individuals who do not require EMT medical assistance during
+transport.
+(Ordinance 7-97, 6.6.97; 5-10, 08.27.10; 2-11, 8.12.11; 14-20, 01.27.15; 17-02, 5.11.17)
+
+18.100.016 - Exemptions.
+Notwithstanding any other provision, this Plan and the rules adopted in this LC Chapter 18 do not apply
+to:
+A. Vehicles and ambulances being used under the circumstances set forth in ORS 682.035, as well as
+the persons listed in that statutory exemption.
+B. Vehicles and transports which are excluded from the definition of non-emergency ambulance service
+in LC Chapter 18.
+C. Ambulances or vehicles used to transport a patient from outside the County to a location within the
+County, or through the County.
+D. Vehicles used by a hospital owner to provide secure non-EMT attended transport directly through a
+vehicle equipped for behavioral health patients in mental health crisis, or by subcontract with any
+State of Oregon certified secure transportation provider.  The hospital is not required, but may
+contract with the designated ASA provider for the area.
+E. Any person who drives or who attends an ill, injured or disabled person transported in a vehicle
+mentioned in subsections 1–4 of this section, or is licensed to do so.
+
+(Revised by Ordinance 5-10, 08.27.10; 14-20, 01.27.15; 17-02, 5.11.17)
+
+18.100.020 - Ambulance Services Area Boundaries.
+Lane County consists of nine Ambulance Service Areas (ASAs).  The "Lane County Ambulance Service
+Areas and Estimated Emergency Response Time" map (see Appendix #1), adopted and incorporated
+here by this reference, represents the established ASAs, assigned ASA providers and estimated
+emergency response times, which include ASA provider response time.  Actual response time is subject
+to the variables of access, weather, road and traffic conditions as well as other circumstances that can
+impact response time.  The narrative description of the ASAs is generalized, more detailed information
+can be found on the Emergency Response Time Zone Map.  Adjustments to the ASA boundaries may be
+made by the Director or the Board consistent with the requirements of this Plan pursuant to LC
+18.100.030 below.  By mutual aid agreement, an ambulance service provider may respond to another
+provider’s ASA. This Plan applies to all transports originating in Lane County
+A. ASA #1. - Western.  This area is bordered on the west by the Pacific Ocean. On the north, starting at
+about Milepost 174.3 on US 101 (the north end of the Rock Creek bridge), the boundary runs east
+approximately 10 miles, then north approximately 1.5 miles, then east for approximately 9 miles,
+then north for approximately 3 miles, then east again for approximately 6 miles. The boundary turns
+south and runs for approximately 7.5 miles, east for approximately ½- mile, then south for
+approximately 1.5 miles, intersecting State Highway 36 at Greenleaf Creek Road (approximately
+Milepost 21.5).  From there, the boundary runs east and then south-southwest, crossing State
+May 2017 18-6
+Highway 126 at about Milepost 28.5, then runs southeast approximately 6 miles, including the Clay
+Creek Recreational Area, and then continues south to the Douglas County line.  Response into rural
+and frontier areas will be dictated by access capabilities.
+B. ASA #2. - North/West.  This area is bordered on the west by the Pacific Ocean.  Starting at about
+Milepost 174.3 on US 101 (the north end of the Rock Creek bridge), the boundary runs east
+approximately 10 miles and then north approximately 1.5 miles, then east for approximately 9 miles,
+then north to the Benton County Line. Response into rural and frontier areas will be dictated by
+access capabilities.
+C. ASA #3. - Benton.  This area covers only a small portion of northern Lane County. Starting on the
+Benton County line approximately one mile east of the Lincoln County line, the boundary runs south
+approximately 1.75 miles, then east for approximately 6 miles, and then runs north to the Benton
+County line. Response into rural and frontier areas will be dictated by access capabilities.
+D. ASA #4. - West/Central.  Starting at the Linn County line, this area is bordered by the eastern boundary
+of the Junction City Rural Fire Protection District, following that boundary south and then west to the
+intersection of Luckey Lane and River Road. The boundary then turns south on River Road to Beacon
+Drive, turns west on Beacon Drive, and then turns south, following the Urban Growth Boundary south
+and then west and then south again, to the intersection of Hyacinth Street and Torrington Ave. The
+boundary then runs generally south to the intersection of Hyacinth and Calla Street, staying west of
+Hyacinth so that addresses on both sides of Hyacinth, as well as addresses on cul-de-sacs connecting
+from Hyacinth, are in ASA #4. The boundary continues south, staying west of Calla and west of Kalmia
+Street, to Irving Road. The boundary turns west, following the south side of Irving Road to the southeast
+corner of Irving and Northwest Expressway, then southeast on the east side of Northwest Expressway,
+staying east of the Beltline Hwy and Northwest Expressway interchange, and then follows the west side
+of Northwest Expressway south to Maxwell Road. The boundary turns west, following the north side of
+Maxwell Road to Prairie Road, then south to Hwy 99, then northwest on Hwy 99 to the east-bound
+Beltline off-ramp. The boundary turns southwest and then west, following the Eugene City Limits to the
+intersection of Barger Drive and Greenhill Road.  From that point, the boundary continues west,
+following the southern boundary of Lane Rural Fire/Rescue, to the eastern shoreline of Fern Ridge
+Reservoir, then south following the eastern shore of Fern Ridge Reservoir to milepost 51 on Hwy 126,
+then generally south following Coyote Creek to Cantrell Road, and continuing generally south following
+Coyote Creek to the intersection of Crow Road, Erickson Road, and Petzold Road.  From there the
+boundary runs generally southwest approximately 5 miles, crossing Territorial Highway at milepost 28,
+and continuing south approximately 4 miles.  At that point the boundary turns east, in places following
+the southern boundary of Lane County Fire District #1 and the northern boundary of Lorane Fire District,
+and crossing Territorial Highway again at approximately milepost 33.3.  The boundary then turns
+northeast, staying between Lane County Fire District #1 and the South Lane Fire and Rescue District.
+The boundary turns east and then north and then east again, following the northern boundary of South
+Lane Fire and Rescue District and the southern boundary of Goshen Fire District, until it reaches the
+northernmost point of the South Lane Fire and Rescue District.  The boundary then runs east to
+Interstate 5; north on Interstate 5 to the Lane/Linn County border, then west to the point of beginning at
+the boundary of the Junction City Rural Fire Protection District.  Response into rural and frontier areas
+will be dictated by access capabilities.
+E. ASA #5. - East/Central.  This area is bordered on the north by the Linn County line and on the west
+by Interstate 5. On the south the area is bordered by the northern boundary of the South Lane
+County Fire and Rescue Fire District and by the southern boundaries of the Goshen Fire District and
+the Pleasant Hill Fire District.  From there, the boundary turns south-southeast and runs
+approximately 5.8 miles to Bear Mountain, where it turns southeast and runs to Mount June, then
+turns north and intersects State Highway 58 at Milepost 17, where it turns east to Saddle Blanket
+Mountain, and continues east to the Deschutes County line.  In the far northeastern corner of Lane
+May 2017 18-7
+County, the boundary turns west from the Deschutes County line, crosses Hwy 242 at about
+Milepost 61.85 (the snow gate), and then turns north to the Linn County line.  Response into rural
+and frontier areas will be dictated by access capabilities.  (This provider also serves an area of Linn
+County up to Harrisburg, which is not included in this Plan.)
+F. ASA #6. - Southern. Starting at a point on the Douglas County line approximately where Range 6
+West meets Range 7 West, the boundary runs approximately 4.5 miles north, crossing Siuslaw River
+Road just east of Alma, and then turns east, eventually following the southern edge of Lane County
+Fire District #1 and the northern edge of Lorane Fire District, crossing Territorial Highway at
+approximately milepost 33.3.  The boundary turns northeast, staying between Lane County Fire
+District #1 and South Lane Fire and Rescue District.  The boundary turns east and then north and
+then east again, following the northern edge of South Lane Fire and Rescue District, crossing
+Interstate 5, and following the southern edge of Goshen Fire District to the Coast Fork Willamette
+River. The boundary turns south, following the river, then turns east, following the southern edge of
+the Pleasant Hill Fire District and northern edge of South Lane Fire and Rescue District. From there,
+the boundary turns south-southeast and runs approximately 5.8 miles to Bear Mountain, where it
+turns southeast and runs to Mount June, then southeast to Patterson Mountain, then south-
+southeast to Grass Mountain, then continues south to the Douglas County line. Response into rural
+and frontier areas will be dictated by access capabilities.
+G. ASA #7. - South/East.  Starting at Milepost 7 on State Highway 58, this area is bordered on the north
+by a line running east to Saddle Blanket Mountain, and continuing east to the Deschutes County
+line; and bordered on the west and south by a line starting at Milepost 17 on State Highway 58,
+running south to Mount June, then southeast to Patterson Mountain, the south-southeast to Grass
+Mountain, then continuing south to the Douglas County line.  Response into rural and frontier areas
+will be dictated by access capabilities.
+H. ASA #8. - Northwest/Central.  Starting at a point on the Lane/Benton County border, west of Prairie
+Mountain and east of Lobster Creek, this area is bordered on the west by a line running south
+approximately 9 miles, east approximately ½-mile, and then south approximately 1.5 miles,
+intersecting State Highway 36 at Greenleaf Creek Road (approximately Milepost 21.5).  From there,
+the boundary runs east and then south-southwest, crossing State Highway 126 at about Milepost
+28.5, and then runs southeast approximately 6 miles, including the Clay Creek Recreational Area,
+and then continues south to the Douglas County line. On the east, starting at the Benton County line,
+this area is bordered by the eastern edge of the Junction City Rural Fire Protection District to the
+intersection of Luckey Lane and River Road. The boundary then continues south on River Road to
+Beacon Drive, turns west on Beacon Drive, and then turns south, following the Urban Growth
+Boundary south and then west and then south again, to the intersection of Hyacinth Street and
+Torrington Ave. The boundary then runs generally south to the intersection of Hyacinth and Calla
+Street, staying just west of Hyacinth so that addresses on both sides of Hyacinth, as well as
+addresses on cul-de-sacs connecting from Hyacinth, are in ASA #4. The boundary continues south,
+staying just west of Calla and just west of Kalmia Street, to Irving Road. The boundary turns west,
+following the south side of Irving Road to the southeast corner of Irving and Northwest Expressway,
+then southeast on the east side of Northwest Expressway, staying east of the Beltline Hwy and
+Northwest Expressway interchange, and then following the west side of Northwest Expressway to
+Maxwell Road. The boundary turns west, following the north side of Maxwell Road to Prairie Road,
+then south to Hwy 99, then northwest on Hwy 99 to the east-bound Beltline off-ramp. The boundary
+turns southwest and then west, following the Eugene City Limits to the intersection of Barger Drive
+and Greenhill Road.  From that point, the boundary continues west, following the southern boundary
+of Lane Rural Fire/Rescue, to the eastern shoreline of Fern Ridge Reservoir, then south following
+the eastern shore of Fern Ridge Reservoir to milepost 51 on Hwy 126, then generally south following
+Coyote Creek to Cantrell Road, and continuing generally south following Coyote Creek to the
+intersection of Crow Road, Erickson Road, and Petzold Road.  From there the boundary runs
+May 2017 18-8
+generally southwest approximately 5 miles, crossing Territorial Highway at milepost 28, and
+continuing south to intersect the northern boundary of ASA #6, where the boundary turns west to
+Alma and then south to the Douglas County line. Response into rural and frontier areas will be
+dictated by access capabilities.
+I. ASA #9. - North/East.  This ASA is in the far northeastern corner of Lane County, and is bordered on
+the north by the Linn County line and on the east by the Deschutes County line.  The boundary
+between ASA #9 and ASA #5 crosses Hwy 242 at about MP 61.85 (at the snow gate).  Response
+into rural and frontier areas will be dictated by access capabilities.
+
+(Ordinance 10-87, 9.3.87; 7-97, 6.6.97; 1-01, 12.20.01; 15-04, 8.13.04; 7-07, 7.20.07; 5-10, 08.27.10; 14-
+20, 01.27.15; 17-02, 5.11.17)
+
+18.100.025 - 9-1-1 Fire Protection Providers and Incorporated Cities Map.
+(See Appendix #2)
+(Ordinance 10-87, 9.3.87; 7-97, 6.6.97; 15-04, 8.13.04)
+
+18.100.030 - Alternatives to Reduce Response Times.
+ASA boundary lines were drawn considering such elements as 9-1-1 trunking, fire district boundaries,
+current EMT practices, response times, geographic or man-made barriers and public response.  In many
+areas, the actual responding agency may vary for any of the following reasons:
+A. Inability to identify caller’s address, area or district;
+B. Remote wireless calls to PSAP from outside the service area; and
+C. Variable weather and road conditions.
+Any of the above listed conditions may cause more than one ambulance to be dispatched simultaneously
+to the scene.  Alternatives or changes to existing ASA boundaries to reduce notification or response times
+were considered during the development of this Plan.
+This Plan will be reviewed every three years or by request of the Committee, Director or Lane County
+ambulance provider.  ASA boundaries may be modified after this Plan is adopted and implemented.
+When the existing assigned ASA providers agree in writing and request Director action, modifications to
+the ASA boundaries may be made by the Director after review and recommendation of the Committee,
+based upon annexation, changes in response time, dispatch equipment, enhanced 9-1-1 or EMT
+placement and practices and population.  When ASA boundaries are adjusted due to annexation,
+consideration will be given to creating service areas that are well defined, thereby facilitating effective
+dispatch of response resources and data management.  The Director shall maintain a written record of
+modifications made to the ASA boundaries.  Affected ASA providers may appeal to the Board within 14
+days after receipt of the Director’s decision.
+Response Time Zones may be modified after this Plan is adopted and implemented. When the ASA
+requests Director action, modifications to the Response Time Zones within an ASA may be made by the
+Director after review and recommendation of the Committee, based upon EMT placement, ASA practices
+and ASA population. The Director shall maintain a written record of modifications made to the Response
+Time Zones.
+May 2017 18-9
+All other modifications must be made pursuant to one or more provisions, including LC 18.100.045, LC
+18.100.070, LC 18.100.075, LC 18.100.080, or LC 18.100.100.
+(Ordinance 7-97, 6.6.97; 1-01, 12.20.01; 13-01, 1.5.02; 15-04, 8.13.04; 14-20, 01.27.15; 17-02, 5.11.17)
+
+18.100.040 - System Elements.
+The following system elements apply to emergency services provided by each ASA provider:
+A. Notification/Response Time Zones.
+1. The Lane County ASA emergency response times must be as depicted on the Lane County
+Ambulance Service Area and Estimated Emergency Response Time map 90% of the time within
+a calendar quarter, barring inclement weather or other extraordinary conditions.
+2. Notification Times for ambulances must be within two minutes of the initial receipt of the call for
+80% of emergency calls.
+3. Response time for emergency calls must be as follows for 90% of the calls: Zone 1 – Less than
+10 minutes; Zone 2 – Less than 20 minutes; Zone 3 – 45 minutes or less; Zone 4 – up to 4 hours
+and 30 minutes.
+4. Monitoring of notification and emergency response times must be accomplished as provided in
+the quality assurance program.
+5. Response or Notification Time exceptions may be requested by a PSAP or ASA Provider to
+exclude a particular response from the uninterrupted emergency calls used to measure
+Notification or Response Time Compliance. Exception criteria are developed in consideration of
+factors, which may alter an ASA Provider’s ability to respond within the response time standard
+requirements. The Director may revise conditions and criteria. The Director may consult with and
+receive input and recommendations from the Committee regarding the modification of conditions
+and criteria. Calls that are requested as exceptions must be included in Response Time Reports.
+Examples of criteria for excluding Emergency Responses from the count for reporting response
+time performance are listed below:
+a. Dispatch Services.
+(1) Language Barrier
+(2) Unknown or Incorrect address
+(3) Evolving Event
+(4) Scene Hazard
+b. Provider Services.
+(1) Adverse weather conditions
+(2) Road Conditions
+(3) Vehicle Problem
+(4) Incorrect Address
+(5) Unsafe Scene/Staging
+(6) Multiple Incidents with multiple Patients
+May 2017 18-10
+(7) Hazardous Materials Incident
+(8) Crowd Control
+(9) Train
+(10) Second and subsequent unit(s) to a response
+c. System Elements.
+(1) Hospital on divert
+(2) Hospital holding paramedics with patients for extended time
+(3) Change in Response Code
+(4) Delayed Response Area: Specific areas, which have been shown to cause delayed or
+increased response times due to limited access, speed bumps, and other traffic
+controlling measures or devices. The Plan Administrator may approve these areas for
+exception based upon review by the Committee and approval. Exceptions will need to be
+listed and reported on the required Response Time Report form.
+(5) Mutual aid response(s): when an agency is or has been requested to provide mutual
+aid to another ASA.
+B. ASA provider response time may be met with arrival of the first unit dispatched as part of the
+response team. This may be a First Response Vehicle (FRV) or an AASA provider.  When a FRV is
+the first arriving unit, the clock will stop on their arrival if two conditions are met:
+1. The FRV arrives within the prescribed ambulance response time standard
+2. The subsequent ambulance arrives within the extended response time standard.
+ A FRV may be used to extend the arrival time of the ASA provider when a minimum of one person
+arrives with the equipment who is licensed to operate within the scope of practice for the level of
+care at the Advanced EMT Scope of practice or above.  This will extend the allowed response time
+by ten (10) minutes.
+ ASA providers must assure that staffing for FRVs meets plan standards when it uses a FRV to
+extend arrival time. The ASA provider must be able to assure that the response team meets
+requirements for level of care. FRVs are encouraged to participate in providing patient care to the
+level of their scope of practice. ASA providers are encouraged to support FRVs and improve patient
+care practices.
+C. Level of Care.
+1. An ambulance operating in Lane County must consist of a qualified driver and one certified EMT
+or above.  The EMT must always be with the patient in the patient compartment of the
+ambulance.
+2. An ambulance operating in Lane County and providing intermediate life support level of care
+must consist of one certified EMT-Basic and one certified EMT-Intermediate.  The EMT-
+Intermediate must always be with the patient in the patient compartment of the ambulance when
+intermediate care is required or rendered.
+3. An ambulance operating in Lane County and providing advanced life support level care must
+consist of an EMT-Basic and an EMT-Paramedic.  The EMT-Paramedic must always be with the
+May 2017 18-11
+patient in the patient compartment of the ambulance when advance life support care is required
+or being rendered.
+D. Non-Emergency Services.  An ASA provider is responsible for the provision of all operated and
+contracted ambulance services in their ASA, including both emergency and non-emergency services
+except as provided in LC Chapter 18.  This does not include non-EMT attended transports.
+E Personnel.  When operating an ambulance in Lane County, all personnel must meet the
+requirements of ORS 682.017 through 682.245 and OAR 333-255-0070 through 333-255-0073.  The
+practice of staffing an ambulance on a part-time basis with EMTs certified to a higher level of care
+than is possible at other times does not create a requirement that the ambulance provide the same
+level of care on a regular basis.
+F. Medical Supervision.  ASA providers utilizing EMTs must ensure that EMTs are supervised by a
+physician licensed under ORS chapter 677, who is registered and in good standing with the Oregon
+Medical Board.
+G. Patient Care Equipment.  Patient care equipment must meet or exceed the Oregon Health
+Authority ’s requirements as specified in ORS 682.017 through 682.245 and OAR 333-255-0070
+through 333-255-0073.  The ASA provider must maintain a list of equipment for their ambulances
+and provide the list to the Director if requested.
+H. Vehicles.  All ambulances must be either a Type I, II, or III and be licensed by the Oregon Health
+Authority.  All ambulances must meet or exceed the requirements as set forth in ORS 682.017
+through 682.245 and OAR 333-255-060.  An ASA provider must provide as up-to-date list of each
+provider’s ambulances to the Director if requested
+I. Training.  Each ASA provider in Lane County shall provide for continuing medical education which
+meets re-certification standards as specified by the Oregon Health Division.  EMT re-certification and
+continuing medical education must be obtained through in-house training programs, seminars that
+are sponsored by local EMS agencies or accredited teaching institutions as authorized by law.  If
+necessary, individuals may obtain training at other accredited teaching institutions.  All ASA
+providers shall maintain continuing medical education and re-certification standards required by the
+Oregon Health Authority.
+J. Quality Assurance.  In order to ensure the delivery of efficient and effective pre-hospital emergency
+medical care, an EMS Quality Assurance Program is hereby established.
+1. Process.
+a. The Board, in order to ensure the delivery of the most efficient and effective ambulance
+services possible with the available resources, has directed that ASA administration
+responsibility be established with the Director with assistance from the Committee.
+b. Each ASA provider’s Supervising Physician must approve and participate in a Quality
+Improvement Process with their agency in accordance with OAR 333-250-0041.  Copies of
+Quality Improvement Policies of each ASA will be submitted annually.  Quality Assurance in
+Lane County is accomplished by the ASA providers through frequent case review, peer
+review, and periodic review by the supervising physicians.
+c. Each ASA provider must have a complaint process in accordance with OAR 333-250-0085.
+2. ASA Provider Reporting Requirements.  During the month following the end of each calendar
+quarter (January, April, July, October) each Lane County ASA provider and emergency dispatch
+center will submit the following information to the Director:
+May 2017 18-12
+a. Each ASA provider will submit a written response time zone report on forms or in a format
+approved by the Director and will list any factors (weather, road conditions etc.) that may
+have contributed to the delay if the overall response times were below the 90% response
+time for the reporting period.
+b. Each ASA provider will submit the number and disposition of all non-confidential complaints
+made by consumers, the Oregon Health Authority, providers or the medical community
+related to operational standards.
+c. Each emergency dispatch center will submit a written notification dispatch report on the
+forms or in a format approved by the Director.  The report must list the number of
+emergency calls received, the number dispatched within two minutes and the number
+exceeding the two minute dispatch time.
+d. ASA providers who:
+(1) Are based outside of Lane County, and
+(2) Are an ASA provider in their home county, and
+(3) Are a Lane County ASA provider in an ASA which accounts for less than 2% of the
+total number of households within Lane County boundaries.
+are not required to submit Provider Reports to Lane County.
+3. Area Trauma Plan Coordination.  All ASA providers shall comply with the approved Area Trauma
+Advisory Board Plan for the treatment and transport of patients.
+4. Problem Resolution.  Problems involving protocol deviation by EMTs or dispatchers should be
+referred to the respective supervising physician or dispatch supervisor, and problems involving a
+non-compliant provider to the Director.  The Director may seek background data and
+recommendations from the Committee in such instances and may refer the problem to the
+Board.  Any member of the Committee who may have a conflict of interest in the matter shall
+declare such conflict and refrain from participating in any recommendations made.
+5. Sanctions for Non-Compliant Personnel or Providers.  Upon a recommendation by the Director,
+who may seek background data and recommendations from the Committee, or upon its own
+motion, the Board may suspend or revoke the assignment of an ASA upon a finding that the
+provider has:
+a. Willfully violated applicable provisions of an ordinance, this ASA Plan or State or Federal
+laws and regulations; or
+b. Materially misrepresented facts or information given in the application for assignment of an
+ASA or as part of the review of the performance of the service furnished by the provider.
+ In lieu of the suspension or revocation of the assignment of an ASA, the Board may order that
+the violation be corrected and make the suspension or revocation contingent upon compliance
+with the order, within the period of time stated.  Notice of the Board’s action must be provided to
+the holder of the assignment and it must specify the violation, the action necessary to correct the
+violation and the date by which the action must be taken.  If the holder of the assignment fails to
+take corrective action within the time required, the Board will notify the holder that the
+assignment is suspended or revoked upon receipt of the notice.
+ A person affected by the action and receiving a notice of the assignment denial, suspension,
+revocation or contingent suspension or revocation of an ASA may request a hearing before the
+Board by filing with the Board a written request for a hearing within 14 days of the decision,
+May 2017 18-13
+setting forth the reasons for the hearing and the issues proposed to be reviewed.  The filing of a
+hearing request stays the action, pending the hearing and final determination of the decision,
+unless a change is required due to an immediate hazard to the public safety.  The Board shall
+set a time and place for the hearing.  Within 14 days after the conclusion of the hearing, the
+Board shall affirm, reverse or modify its original decision.
+(Ordinance 7-97, 6.6.97; 1-01, 12.20.01; 5-10, 08.27.10; -11, 8.12.11; 14-20, 01.27.15; 17-02, 5.11.17)
+
+18.100.041 - Designations.
+Emergency, Pre-arranged Non-Emergency and Inter-facility Transfers.
+A. The Board designates only one emergency ambulance provider for each ASA and those
+designations are indicated on Appendix 1.  Each of the designated ASA providers has the exclusive
+right to provide emergency ambulance services originating in their respective ASA, except if covered
+by an exemption or (3) of this section.
+B. Subject to any applicable exemption under this Code or (3) of this section, each of the designated
+ASA providers is also designated to exclusively provide non-emergency and inter-facility ambulance
+services for transports originating in their ASA area, with a right to subcontract such services in
+accordance with this Plan and ordinance, LC Chapter 18.  No other designations are made, but the
+Board reserves its right to designate more than one provider for these services per ASA in the
+future.
+C. A hospital may directly provide NICU ambulance service transfers. In the alternative, a hospital may
+provide these services through a contractor as long as the contractor is a duly licensed ambulance
+service provider. The hospital may, but is not required to contract with the designated ASA provider
+for the area.
+D. Nothing in LC Chapter 18 prevents an ASA provider from using ambulances and personnel deployed
+to meet its emergency responsibilities in non-emergency service, provided that the ASA provider’s
+emergency service is not reduced below the level required.
+E. An ASA provider may subcontract non-emergency and inter-facility ambulance services within their
+ASA subject to the following:
+1. ASA providers will use an open competitive selection process, including qualifications, standards
+and requirements set forth in LC Chapter 18, as well as any additional criteria and requirements
+deemed necessary by the ASA provider, except when the ASA provider has evidence through a
+public process that there is only one potential subcontractor (sole source) or the subcontractor
+would be another public entity through an intergovernmental agreement.  In those exceptional
+circumstances, an open competitive process is not required.
+2. The selected contractor must demonstrate the ability to provide the subcontracted service;
+3. The selected contractor must be capable of and agree to comply with all standards and
+requirements of LC Chapter 18, as well as state and federal law and regulations which apply to
+the services. This includes, but is not limited to, liability insurance and obligation to indemnify
+Lane County in LC 18.100.070C.8.
+4. The ASA provider must be capable of and agree to perform the subcontracted services upon
+default, or until another provider is selected.
+May 2017 18-14
+5. The County must provide approval before final contractor selection and contract execution
+based on compliance with LC Chapter 18.  The ASA provider shall provide the Director of Health
+and Human Services with documents as requested.
+F. No other subcontracting is authorized unless pre-approved by the County.  Any current subcontracts
+that have been executed with approval of the County prior to adoption of these subcontracting
+provisions are enforceable for their duration.
+(Ordinance 5-10, 08.27.10; -11, 8.12.11; 14-20, 01.27.15; 17-02, 5.11.17)
+
+18.100.045 - Authority for Ambulance Service Area Assignments.
+A. The Board has the authority to assign an ASA within Lane County in compliance with ORS 682.015
+through 682.245.  Applications by new providers, changes to an existing ASA or requests for a new
+ASA, and requests for assignment change or revocation will be considered for approval if they will
+improve efficient service delivery and benefit public health, safety and welfare.  Applications for new
+ASA assignment may be accepted only when the Director calls for the submittal of applications.
+This applies for all applications for ASA service areas based on vacancy or termination of the ASA
+provider as provided in this plan.  Cities have the authority to develop and apply ambulance licensing
+ordinances within their jurisdictional boundaries, and nothing in this Plan is intended to affect that
+authority. Initial assignment of ambulance service areas in Lane County was made in 1987 by the
+Board in accordance with the laws, ordinances and Plan provisions then existing.
+B. Future updates to this Plan and proposals for assignment changes, request for a new ASA, or to
+change all or part of an existing ASA, requests for assignment by new providers or requests for
+revocation of a service area assignment, ultimately will be the responsibility of the Board.  In
+addition, the Board has the authority to review ASA providers’ records and initiate an assignment
+change or service area revocation.
+C. This ASA Plan was prepared with extensive input from all county ambulance service providers. This
+Plan requires that the ambulance services providers maintain service records in order that the
+County can carry out its ASA Plan responsibilities.
+D. Updates to this Plan, reassignment of ambulance service areas, requests for a new ASA, or to
+change all or part of an existing ASA, requests for assignment by new providers or requests for
+revocation of a service area assignment are processed as follows:
+1. The Director receives or initiates a request.
+2. The Committee reviews all information pertinent to the request and advises the Director.
+3. The Director prepares a proposal for Board consideration.
+4. The Board conducts a public hearing and takes action on the request.
+E. In developing their recommendations, the Committee and the Director shall determine compliance
+with ORS 682.025 through 682.245 and meet the following criteria for service:
+1. Substantially improve ambulance response time, quality and level of services to the proposed
+area without adversely impacting the existing first response system.
+2. Demonstrate that the call volume in the proposed service area is sufficient to financially justify
+the service provided or otherwise demonstrate financial soundness.
+May 2017 18-15
+3. Does not jeopardize the financial ability of other ambulance service providers to provide efficient
+service to the remainder of Lane County.
+F. Existing and proposed providers shall make available information necessary for the Director to make
+a recommendation.  The information must include, but not be limited to, run logs, physician advisor
+correspondence, audit reports, personnel training records, procedure manuals and equipment
+inventories.  In the case of a proposed service provider, records, reference and audit reports may be
+requested in order to determine qualifications and experience.
+G. The Director may initiate a request for revocation and reassignment of a service area if there is
+evidence that an existing provider or personnel of that provider is not meeting minimum standards, is
+not providing minimum response times to their assigned area or if another provider can improve
+efficient service delivery and benefit public health, welfare and safety.
+
+(Ordinance 7-97, 6.6.97; 1-01, 12.20.01; 5-10, 08.27.10; 14-20, 01.27.15; 17-02, 5.11.17)
+
+18.100.050 - Coordination.
+A. Mutual Aid Agreements.  Each ASA provider shall sign a mutual aid agreement with the other ASA
+providers in the County and with other ASA providers in adjoining counties to respond with needed
+personnel and equipment in accordance with the agreement.  All requests for mutual aid must be
+made through the appropriate PSAP.
+B. Disaster Response.
+1. The Director will coordinate with EMS as required disaster planning with any formal disaster
+management plan developed by the Lane County Sheriff (designated as County Emergency
+Services Coordinator) or other appropriate county authorities.
+2. Ambulance provider personnel faced with a multiple-casualty incident should examine the
+situation in terms of its potential or actual magnitude of disaster, and request any appropriate
+additional resources that may be available.
+3. When County resources other than ambulances are required for the provision of emergency
+medical services during a disaster, a request for additional resources will be made to the
+appropriate agency through the County Emergency Management Office.
+a. The Director of the County Emergency Management Office is responsible for locating and
+coordinating all county EMS resources any time that the Mass Casualty Incident (MCI) Plan
+is implemented.
+b. The Director of the County Emergency Management Office will work directly with local
+agencies, departments and governments to coordinate necessary resources during any
+implementation of the MCI Plan.
+4. When resources from outside Lane County are required for the provision of emergency medical
+services during a disaster, a request for those resources will be made through the appropriate
+PSAP to the appropriate agency.  The Director of the County Emergency Management Office
+will be responsible for requesting and coordination all out of county resources any time the MCI
+Plan is implemented.
+5. The Mass Casualty Incident (MCI) Plan is a component of the Lane County Health & Human
+Services Emergency Operations Plan, which is part of the Lane County Emergency Operations
+Plan (EOP) ANNEX H - Medical Services.  The EOP is the responsibility of the Lane County
+May 2017 18-16
+Sheriff as mandated by the state.  If this ASA Plan conflicts with the MCI Plan, then the MCI Plan
+prevails unless otherwise specified by the Board.
+ The purpose of the MCI Plan is to provide guidance to EMS response personnel in the
+coordination of response activities relating to mass casualty incidents in Lane County.  The MCI
+Plan is intended for use when any single incident or combination of incidents depletes the
+resources of any single provider or providers during the normal course of daily operations or at
+the request of the Health Officer.  It is expected the MCI Plan will address the responsibility of
+providers concerning:
+a. coordination;
+b. communication;
+c. move up;
+d. triage; and
+e. transportation.
+ The Director or designee will periodically review the MCI Plan and recommend revisions to meet
+the County’s need.  Following review, the Director will work with the Preparedness Coordinator
+to review recommendations.
+
+6. All ASA providers shall follow Hazard Specific Annex 1 titled Terrorism Incident/Hazard Specific
+Annex 1 of the Lane County Emergency Operations Plan in response to terrorism.
+(Ordinance 10-87, 9.3.87; 7-97, 6.6.97; 1-01, 12.20.01; 5-10, 8.27.10; -11, 8.12.11; 14-20, 01.27.15; 17-
+02, 5.11.17)
+
+18.100.060 - Personnel and Equipment Resources.
+Under special circumstances, additional specialized resources may be required for the management of
+unusual problems and situations.  The initial response agency or the agency with jurisdiction will
+coordinate with the following agencies to the extent specialized resources are needed.
+A. Non-Transporting EMS Providers:
+1. McKenzie Fire & Rescue
+2. Lane County Fire District #1
+3. Goshen Rural Fire District
+4. Mohawk Valley Rural Fire Department
+5. Lake Creek Rural Fire Protection District
+6. Lorane Rural Fire Protection District
+7. Junction City Rural Fire Protection District
+8. Santa Clara Fire District
+9. Dexter Rural Fire Protection District
+10. Lowell Rural Fire Protection District
+May 2017 18-17
+11. Coburg Fire District
+12. Pleasant Hill Fire District
+13. Upper McKenzie Rural Fire Protection District
+14. Deadwood Creek
+15. Siuslaw Valley Fire and Rescue
+16. Mapleton Fire Department
+17. Monroe Rural Fire Protection District
+B. Hazardous Materials:
+1. Emergency Responder Services (ERS): provides notification and activation of State Agencies
+2. Environmental Services: provides oil spill contaminate clean-up 24 hours a day
+3. US Coast Guard: responsible for response in bays and most navigable waters
+4. HAZMAT
+C. Search and Rescue:
+1. Lane County Sheriff Office
+2. Eugene Mountain Rescue
+D. Specialized Rescue:  Eugene Springfield Fire & EMS Dept Technical Rescue Team
+E. Extrication:
+1. McKenzie Fire & Rescue
+2. Lane County Fire Authority
+3. Goshen Rural Fire District
+4. Mohawk Valley Rural Fire Dept
+5. Lake Creek Rural Fire Protection District
+6.  Lorane Rural Fire Protection District
+7. Junction City Rural Fire Protection District
+8. Santa Clara Fire District
+9. Dexter Rural Fire Protection District
+10. Lowell Rural Fire Protection District
+11. Coburg Fire District
+12. Pleasant Hill Fire District
+13. Upper McKenzie Rural Fire Protection District
+14. Emergency Action Services (EASE)
+15. South Lane Fire & Rescue
+May 2017 18-18
+16. Eugene Fire & EMS Department
+17. Springfield Fire & Life Safety
+18. Lane Rural Fire Rescue
+19. Siuslaw Valley Fire and Rescue
+20. Monroe Rural Fire Protection District
+F. Emergency Communication Access:
+1. Telephone:
+a. To establish single access throughout Lane County, 9-1-1 must be available to all telephone
+exchanges within Lane County.
+b. Advertising for or otherwise soliciting requests for emergency medical services utilizing any
+telephone number other than 9-1-1 is prohibited.
+c. All requests for emergency medical services must be received by one of the three Public
+Safety Answering Points (PSAP’s). NOTE: This requirement will be reviewed, and modified
+as appropriate, after the recently legislatively mandated consolidation of PSAP’s in each
+county.
+2. Dispatch Procedures.  To establish a minimum standard of medical dispatching within Lane
+County, all First Response Agencies, ASA Providers, PSAP’s and Dispatch points shall:
+a. Follow the established standards of emergency medical dispatching and follow those
+procedures and protocols as approved by the State Emergency Medical Services
+Committee, Oregon Trauma System Area Trauma Board (ATAB) Rules, and OAR 333-260-
+0050(1) (2),
+b. Conform to a call received to notification of Initial Responders and ASA providers of < 2
+minutes 80% of the time (see LC 18.100.040A.2).
+c. Notify Initial Responders and ASA Providers by the use of radio communications including
+pagers and other tone activated devices.
+d. Include in every radio dispatch the following:
+(1) Announcement identifying agency/agencies to respond, nature of problem identified
+through the use of dispatch priority protocols and the exact location of the patient; and
+(2) Any specific instructions or information pertinent to the emergency.
+(3) Repeat the announcement to each agencies first response unit(s) when they respond
+to include any additional information obtained about the patient's situation, history or
+problem.
+(4) Simultaneously dispatch Advanced Life Support (ALS) Assist according to protocols
+approved by the State Emergency Medical Services Committee and ATAB on all EMS
+calls identified as ALS in nature.
+3. Radio System
+a. Each PSAP/Dispatch shall:  (note that in some cases, the PSAP and Dispatch Center are at
+separate locations, e.g., Central Lane 9-1-1 PSAP, Junction City Police Dispatch)
+May 2017 18-19
+(1) Restrict access to authorized personnel only;
+(2) Meet future state or county standards;
+(3) Maintain radio consoles capable of communication directly with all Initial Response
+agency/agencies dispatched by them;
+(4) Maintain radio logs which contain all information required by the Federal
+Communications Commission and Oregon Revised Statues, including, but not limited
+to: Location of call; nature of the emergency; reporting party; time received, dispatched,
+en-route, arrived, transported, arrived at destination, in-service and in quarters; number
+of patient(s); and type of response to the scene and transport destination; and
+(5) Utilize plain English.
+b. All ASA Providers shall:
+(1) Equip each ambulance with an FCC approved, multi-channel radio with the highest
+allowable wattage;
+(2) Equip each ambulance with a portable handheld radio with a minimum of two channel
+capability;
+(3) Install the Hospital Emergency Ambulance Radio (HEAR) frequency of 155.340 MHz in
+each installed and portable handheld radios;
+(4) License and operate all radio equipment subject to FCC licensure in accordance with
+current FCC rules and regulations; and
+(5) Coordinate communications with the appropriate dispatch center for that agency.
+Times kept by the dispatch center will be times of record. The dispatch center
+appropriate for that agency must be notified when in-service units are no longer
+available for responses.
+4. Emergency Medical Services Dispatcher Training.  All emergency medical services dispatchers
+must successfully complete an Oregon Department of Public Safety Standards and Training
+(DPSST) approved Emergency Medical Dispatch (EMD) course, and continuing education and
+training as required by DPSST to maintain EMD certification.
+(Ordinance 5-10, 08.27.10; -11, 8.12.11; 14-20, 01.27.15; 17-02, 5.11.17)
+
+18.100.070 - Application for New Assignment or Reassignment.
+A. Any person desiring to provide new or reassigned ambulance services within Lane County must
+submit an application to the Director to be assigned an ASA.
+B. In addition to information required by LC 18.100.070C below, the Director, the Committee or the
+Board may require additional information deemed necessary to insure compliance with this Plan and
+applicable law.
+C. The applicant must provide the following information:
+1. The name and address of the person or agency applying.
+2. The ASA the person desires to serve, the location(s) from which ambulance services will be
+provided, and the level of service to be provided.
+May 2017 18-20
+3. A statement as to whether or not the person will subcontract for any service to be provided.  If
+some service will be provided by subcontract, a copy of that subcontract must be provided.
+4. A list of vehicles to be used in providing ambulance services including year, make and model,
+and verification that each vehicle is licensed by the Health Division.
+5. A statement that all equipment and supplies in each ambulance conforms to Health Division
+standards.
+6. A list of personnel to be used in providing ambulance service and their current Emergency
+Medical Technician level and certificate number, or other appropriate certification.
+7. Proof of financial ability to operate, including an operating budget for public bodies or financial
+statement for private entities, references and/or statement of past ambulance service.  Private
+companies must include a profit and loss statement in addition to the above materials.  Other
+appropriate financial information, such as income tax returns, or reports by governmental
+authorities must also be submitted upon request. Public bodies must provide information
+regarding the sources and amounts of funding for ambulance services.
+8. Proof of liability insurance in the amounts not less than that required by ORS 682.105 through
+682.109 or the Oregon Tort Claims Act.  The applicant shall provide to the County a certificate of
+insurance, letter from the carrier, or letter from the Oregon Health Authority approving self-
+insurance.  In addition, upon the County’s decision to approve an application, in whole or in part,
+or otherwise change service boundaries or providers under LC Chapter 18, the applicant shall
+defend, indemnify and hold Lane County, its officers, agents and employees harmless from all
+claims, liability or damage resulting from any error, omission or act on the part of the successful
+applicant, its officers, agents or employees, arising out of performance or failure to perform
+activities described in LC Chapter 18.  This indemnity obligation is subject to any applicable legal
+limitations and applies to any County decision that is effective on or after November 1, 2001.
+Nothing in this provision limits any other legal right to defense or indemnification that is
+otherwise available to the County related to actions of any other providers under LC Chapter 18.
+9. A statement of experience in providing ambulance service of a comparable quality and quantity
+to insure compliance with this ASA Plan.
+10. Proof of ability to comply with the terms and conditions of this ASA Plan and applicable county
+ordinances, in the form of a narrative summary.
+11. A description of any prepaid Ambulance Service Plan, including number of members, number of
+years of operation, funding and term.
+12. Information, in the form of run logs, medical records, medical director correspondence, audit
+reports, training records, policy and procedure manuals and equipment records and inventories,
+and any other records or materials requested.
+13. In the case of an application to transfer or take over an already assigned ASA:
+a. A detailed summary of how the proposed change will improve ambulance response time,
+and the quality and level of services to the ASA.  The application must also include an
+assessment of how the proposed change will impact the existing first response system.
+b. Evidence that the call volume in the ASA is sufficient to financially or otherwise justify the
+change in service.
+May 2017 18-21
+D. The new applicant must submit a non-refundable application fee in an amount determined by order
+of the Board to defray the actual reasonable cost incurred by Lane County in processing the
+application.
+E. The Board may from time to time, by order, amend the amount of application fees to defray the
+actual reasonable costs incurred by Lane County in processing applications.  The Board may also
+adopt annual fees applicable to all providers assigned an ASA to defray the reasonable costs of
+Lane County in administering this Plan.
+F. The Director and the Committee will review applications and make a recommendation on the
+assignment of the ASA to the Board under LC 18.100.045 above.  The assignment or reassignment
+of an ASA is made by an Order of the Board.
+
+(Ordinance 10-87, 9.3.87; 7-97, 6.6.97; 13-01, 1.5.02; 5-10. 08.27.10; -11, 8.12.11; 14-20, 01.27.15; 17-
+02, 5.11.17)
+
+18.100.075 - Review of Application for New Assignment or Reassignment.
+A. The Director and the Committee will review applications for new or reassigned ambulance services
+under LC 18.100.045 above, and make such investigation as deemed appropriate and they may
+request assistance of other persons as necessary.
+B. The Director shall notify the holder of an assignment for providing ambulance service to an ASA of
+any applications by another person to take over that area.
+C. Unless the time is extended by the Board for good cause, the Director shall make its
+recommendation to the Board to grant, deny, modify or attach appropriate conditions to the
+application within 90 days after the application and any required supplemental information has been
+received.
+
+(Ordinance 7-97, 6.6.97; 5-10, 08.27.10; 14-20, 01.27.15)
+
+18.100.080 - Board Action on Application for New Assignment or Reassignment.
+Following receipt of a recommendation, the Board, consistent with LC 18.100.045 above:
+A. Will publish notice in a newspaper of general circulation in Lane County of its intent to hold a public
+hearing on the application and recommendations at least 10 days, but not later than 30 days
+following publication of notice.
+B. May require additional investigation by the Committee if it finds that there is insufficient information
+on which to base its action.
+C. Will, upon the basis of the application, the Committee’s recommendation, such other information as
+is permitted by this Plan, and such information as is presented to the Board at the public hearing
+make an order granting, denying or modifying the application or attaching conditions thereto.
+D. Will make any order adverse to the applicant or to the holder of, or applicant for, another assignment
+effective at least 30 days after the date of such order and will notify such persons in writing of the
+order.  The Board may suspend operation of this subsection and enter an emergency order if it finds
+that there is an immediate and serious danger to the public or that a health hazard or public
+nuisance would be created by a delay.
+
+(Ordinance 7-97, 6.6.97; 14-20, 01.27.15)
+May 2017 18-22
+
+18.100.090 - Notification of Vacating an ASA.
+In the event that an ASA provider wishes to vacate their ASA, the provider must provide at least sixty (60)
+days written notice to the Board.
+(Ordinance 7-97, 6.6.97; 17-02, 5.11.17)
+
+18.100.095 - Maintenance of Level of Service.
+In the event that an ASA provider is unable to comply with the standards promulgated for the ASA by this
+Plan, the provider will notify the Board in writing of its inability to comply and identify which standards are
+involved.  The Board will determine if other qualified providers are available for the ASA who can comply
+with the standards.
+(Ordinance 7-97, 6.6.97; 17-02, 5.11.17)
+
+18.100.100 - Transfer of Assignments.
+Except as provided in LC 18.100.030, an ASA provider may transfer an assignment to another ASA
+provider only upon written notice to and approval by the Board. Review of an application for transfer of an
+assignment is conducted in the same manner as an application for assignment or reassignment.
+(Ordinance 7-97, 6.6.97; 14-20, 01.27.15; 17-02, 5.11.17)
+
+18.100.110 - Preventing Interruption of Service.
+Whenever the Board finds that the failure of service or threatened failure of service would adversely
+impact the health, safety or welfare of the residents of this county, the Board will, after reasonable notice,
+but not less than 24 hours’ notice to the ASA provider, hold a public hearing.  Upon appropriate findings
+after the hearing, the Board may authorize another provider or other person to provide services.
+(Ordinance 7-97, 6.6.97; 14-20, 01.27.15; 17-02, 5.11.17)
+
+18.100.115 - Appeals, Abatement and Penalties.
+A. All the decisions of the Board are reviewable by the Circuit Court of the State of Oregon for the
+County of Lane, by way of writ of review.
+B. The provision of ambulance service by any person or provider in violation of this Plan, or regulations
+promulgated thereunder, is a nuisance and the Court may, in addition to other remedies provided by
+law institute injunctive abatement or other appropriate legal proceedings to temporarily or
+permanently enjoin or abate such emergency ambulance service.
+C. The provision of ambulance services covered by this Plan, by any person who is not the assigned
+ASA provider will constitute a failure to comply with this section.
+D. Failure to comply with this section is enforceable under the applicable provisions of LC Chapter 5,
+except as follows:
+May 2017 18-23
+1. Responsible Person is defined as any person providing Ambulance Services, who has not
+received the area assignment under this chapter.
+2. Fines for failure to comply with LC 18.100.115C are assessed under LC 18.100.130.
+(Ordinance 7-97, 6.6.97; 5-10, 08.27.10; 14-20, 01.27.15)
+
+18.100.120 - Duties of Ambulance Service Providers.
+Any ASA provider operating in Lane County:
+A. Shall conduct its operation in compliance with all applicable state and federal laws, rules and
+regulations, and this ASA Plan;
+B. Shall not fail or refuse to respond to an emergency call for service when an ambulance is available
+for service;
+C. Shall not respond to a medical emergency located outside its assigned ASA except:
+1. When the provider assigned to the ASA is unavailable to respond and the responding provider is
+requested by that provider or 9-1-1 dispatcher to respond; or
+2. When the response is for supplemental assistance or mutual aid.
+D. Shall not voluntarily discontinue service to an assigned ASA until the ASA provider has:
+1. Given 60 days written notice to the Director, or
+2. Obtained written approval of the Board.
+E. This section does not apply to:
+1. Change, restriction or termination of service when required by any public agency, public body or
+court having jurisdiction; or
+2. Transfer of assignments.
+
+(Ordinance 5-10, 5-10, 08.27.10; 14-20, 01.27.15; 17-02, 5.11.17)
+
+18.100.130 - Classification of Failure to Comply.
+A responsible person as defined in LC 18.100.115D is subject to the following penalty amounts for Failure
+to Comply:
+A. Initial Failure to Comply.  For Initial Failure to Comply, the monetary penalty is $500.
+B. Second Failure to Comply.  If the responsible person had a prior occurrence of failure to comply
+within 12 months of the date of the failure to comply, the monetary penalty is $1000.
+C. Third and Subsequent Failure to Comply.  If the responsible person had two or more prior
+occurrences of failure to comply within 12 months of the incident, the monetary penalty is $2,500.
+(Ordinance 7-97, 6.6.97; 5-10, 08.27.10; 14-20, 01.27.15)
+
+May 2017 18-24
+APPENDIX 1 to LC 18.100.020
+
+APPENDIX 1 to LC 18.100.020
+(Ordinance 7-97, 6.6.97; 1-01, 12.20.01; 15-04, 8.13.04; 15-04, 8.13.04; 7-07, 7.20.07; 2-11, 8.12.11)
+
+May 2017 18-25
+APPENDIX 2 to LC 18.100.025
+
+APPENDIX 2 to LC 18.100.025
+(Ordinance 7-97, 6.6.97; 1-01, 12.20.01; 15-04, 8.13.04; 7-07, 7.20.07; 2-11, 8.12.11)

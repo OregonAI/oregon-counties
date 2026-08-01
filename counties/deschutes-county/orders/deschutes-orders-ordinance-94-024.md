@@ -1,0 +1,495 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-94-024
+title: 'Ordinance No. 94-024'
+doc_type: ordinance
+citation: 'Ordinance No. 94-024'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1620317553_1994-34738-Ordinance%20No.%2094-024%20Recorded%209_1_1994.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 7d9b025f59738f7a9c8080d0e1b10699c377b6e534586066a866484124f085bc
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 94-024 (Ordinance No. 94-024)
+
+## At a glance
+
+Ordinance No. 94-024 — orders of Deschutes County. 11 pages.
+
+## Full text
+
+REVIEWED
+94- 34' 738 _
+LEGA OUNSEL
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON
+94Ski' - J Aft10: 22
+An Ordinance Adopting Chapter 15. 10 *
+IM,,
+Deschutes County Code; Providing * P t _$ i_
+Outdoor Lighting Control.
+C _
+41
+QTY
+ORDINANCE NO. 94- 024 jL
+WHEREAS, the Board affirms the right of citizens in Deschutes
+County, Oregon to illuminate residential, commercial and public areas
+with lighting fixtures appropriate to the need while utilizing such
+illumination in a way that preserves rural and urban vistas and is
+confined to the property from which it is generated.
+WHERE, the Board affirms that citizens of Deschutes County, Oregon
+have a right to the safety of well - lighted streets and highways and
+that such illumination by nature cannot be confined to the property
+from which it is generated. Thus, certain high wattage and low wattage
+applications for the purpose of highway safety as defined herein are
+allowed under these provisions.
+WHEREAS, public hearings on the proposed ordinance TA - 93- 19 have
+been held in conformance with state law before the Deschutes County
+Planning Commission and Board of County Commissioners for Deschutes
+County; and
+WHEREAS, after notice and hearings as required by law, the Board
+of County Commissioners has considered the recommendation of the
+Planning Commission; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. That the Deschutes County Code, Title 15, be amended
+to add Chapter 10, " Outdoor Lighting Control," as described in Exhibit
+A, attached hereto and by this reference incorporated herein.
+Section 2. Codification. The Code Book Review Committee shall
+have the authority to format the provisions contained herein in a
+manner that will integrate them into the County Code consistent with
+the Code Book Review Committee' s form and style for ordinance
+codification. Such codification shall include the authority to make
+format changes, to make changes in numbering systems and to make such
+numbering changes consistent with interrelated code sections. In
+addition, as part of codification of these ordinances, the Code Book
+Review Committee may insert appropriate legislative history references.
+Any legislative history references included herein are not adopted as
+part of the substance of this ordinance, but are included for
+administrative convenience and as a reference. They ay J- changed to
+1 - Ordinance 94- 024 ( 08/ 10/ 94)
+y9,
+X131 g
+correct errors and to conform to proper style without action f the
+Board of County Commissioners.
+Section 3. Severability. The provisions of this ordinance are
+severable. If any section, sentence, clause, or phrase of this
+ordinance or any exhibit thereto is adjudged to be invalid by a court
+of competent jurisdiction, that decision shall not affect the validity
+of the remaining portions of this ordinance or any exhibit thereto.
+DATED this 31st day of August, 1994.
+ATT T:
+Recording Secr tary
+BOARD OF COUNTY COMMISSIONERS
+OF ' DESCHUT,ES, COUNTY, OREGON
+I
+NANCY PQgg SotfLANGEN, Chair
+TOM THROOP, Pommissioner
+BARRY H./ SLAUGHTERJ Commissioner
+2 - Ordinance 94- 024 ( 08/ 10/ 94)
+Chapter 15. 10
+OUTDOOR LIGHTING CONTROL
+Sections:
+15. 10. 010 Purpose and intent as relates to
+residential, commercial and
+public area lighting.
+15. 10. 020 Purpose and intent as relates to
+street lighting.
+15. 10. 030 Conformance with applicable
+codes.
+15. 10. 040 Approved materials and
+methods of construction or
+installation/ operation.
+15. 10. 050 Definitions.
+15. 10. 060 Requirements for installation of
+outdoor lighting.
+15. 10. 070 Submission of plans and
+evidence of compliance with
+code - subdivision plats.
+15.10.080 Shielding.
+15. 10. 090 Prohibitions.
+15.10.100 Externally lighted outdoor
+advertising signs, billboards.
+15. 10. 110 Exemptions.
+15. 10. 120 Violations and penalties.
+15. 10. 130 Violations constitute public
+nuisance.
+15. 10. 140 Code requirements table for
+shielding.
+15. 10. 010 Purpose and intent as relates
+to residential, commercial and
+public area lighting.
+The purpose of this section is to affirm the
+right of citizens in DeschutesCounty, Oregon
+to illuminate residential, commercial and
+public areaswith lighting fixtures appropriate
+to the need while utilizing such illumination in
+a way that preserves rural and urban vistas
+and is confined to the property from which it
+is generated.
+15. 10. 020 Purpose and intent as relates
+to street lighting.
+The purpose of this section is to affirm that
+citizens of DeschutesCounty, Oregon have a
+01e. 7 - 01 %
+right to the safety of well -lighted streets and
+highwaysand that suchillumination by nature
+cannot be confined to the property from
+which it is generated. Thus, certain high
+wattage and low wattage applications for the
+propose of highway safety as defined below
+are allowed under these provisions.
+15. 10. 030 Conformance with applicable
+codes.
+All outdoor electrically powered
+illuminating devices shall be installed in
+conformance with the provisions of this code,
+the building code, the electrical code, and the
+sign code of the jurisdiction. No provision of
+this ordinance are intended to pre- empt
+applicable state codes.
+15. 10. 040 Approved materials and
+methods of construction or
+installation/ operation.
+The provisions of this code are not intended
+to prevent the use of any design, material, or
+method of installation or operation not
+specifically prescribed by this code, provided
+any such alternate has been approved. The
+building official may approve any such
+proposed alternate that:
+A. Provides an equivalent alternative design
+that does not exceed 1800 lumens nor project
+light off- site of the subject lot or parcel.
+15. 10. 050 Definitions.
+A. Outdoor light fixtures means outdoor
+artificial illuminating devices, outdoor fixtures,
+lamps and other similar devices, permanently
+installed or portable, used for flood lighting,
+general illumination or advertisement. Such
+devices shall include, but are not limited to,
+search, spot and flood lights for:
+1. buildings and structures;
+2. recreational areas;
+3. parking lot lighting;
+4. landscape lighting;
+5. billboards and other signs (advertising
+or other);
+6. street lighting
+7. product display area lighting;
+Chapter 15. 10 1 ( 08/ 10/ 94)
+8. building overhangs and open canopies.
+9. holiday lighting.
+B. The Community Development
+Department means the Community
+Development Department or designated
+representative( s) for the purposes of the
+ordinance.
+C. Exempt light fixtures means outdoor
+artificial illuminating devices which are
+exempted by Section 15.10.110.
+D. Individual means any private individual,
+tenant, lessee, owner or anycommercial entity
+including but not limited to companies,
+partnerships, joint ventures or corporations.
+E. Installed means initial installation of
+outdoor lighting fixtures following the
+effective date of this ordinance. Projects with
+approved construction plans prior to effective
+date of this ordinance are excluded from
+compliance with the ordinance in the initial
+installation only.
+F. Shielding for the purpose of this
+ordinance is provided for a lighting fixture by
+design of such fixture or by an externally
+applied device such as a shroud or hood of
+metal, wood or painted glass that does not
+allow transmission of light.
+1. Fully shielded means outdoor light
+fixtures shielded or constructed so that light
+rays emitted by the fixture are projected below
+the horizontal plane.
+2. Partially shielded means shielding so
+that the edge of the shield is at or below the
+centerline of the light source or lamp so as to
+limit light emission above the horizontal plane
+to 10 percent or less.
+3. Directed shielding means shielding by
+design or external application that directs light
+downward and limits direct line - of -sight of a
+fixture' s lamp to the property upon which the
+fixture is installed.
+4. Unshieldedmeanslight fixtureslacking
+any means to restrict the emitted light to
+below the horizontal plane.
+G. High intensity dischargelamp sources
+meanshigh pressure sodium, mercury vapor,
+metal halide, low pressure sodium, and other
+similar lamps.
+0137- 0094
+H. Luminous tube lighting means gas-filled
+tubing which, when subjected to high voltage,
+becomes luminescent in a color characteristic
+of the particular gas used, e.g. neon, argon,
+etc.
+15. 10. 060 Requirements for installation
+of outdoor lighting.
+A. Except as exempted by provisions of this
+ordinance, as of the date of adoption, the
+installation of outdoor lighting fixtures shall
+be subject to the provisions of this ordinance.
+15. 10. 070 Submission of plans and
+evidence of compliance with
+code - subdivision plats.
+A. All proposed subdivisions and partitions
+within Deschutes County that include outdoor
+lighting fixtures or street lighting shall be
+subject to the provisions of this ordinance.
+15. 10. 080 Shielding.
+A. All nonexempt outdoor lighting fixtures
+shall have shielding as required by the tables
+set forth in Section 15. 10. 140.
+15. 10. 090 Prohibitions.
+A. Laser Source Light. The use of laser
+source light or any similar high intensity light
+for outdoor advertising or entertainment,
+when projected above the horizontal is
+prohibited.
+B. Searchlights. The operation of
+searchlights for advertising purposes is
+prohibited between eleven o' clock P. M. and
+sunrise the following morning.
+C. Recreational Facilities. No outdoor
+recreational facility, public or private, shall be
+illuminated after eleven o' clock P. M. except to
+conclude a specific recreational or sporting
+event or any other similar activity conducted
+at or in the facility which was in progress
+under such illumination prior to eleven o' clock
+P. M., except that any outdoor recreational
+facility, public or private, which is illuminated
+with outdoor lighting fixtures conforming to
+this code may operate any time with such
+illumination.
+Chapter 15. 10 2 ( 08/ 10/ 94)
+15. 10. 100 Externally lighted outdoor
+advertising signs, billboards.
+A. All externally lighted advertising signs
+and billboards will be illuminated by one of
+the following manners:
+1. Top mounted fixtures in which case
+such fixtures will conform to the shielding
+requirements as set forth in Section 15. 10. 140.
+2. Bottom mounted fixtures in which case
+such fixtures shall be shielded either by
+application of external device or manufactured
+in such a way that upward and side directed
+light is confined to an area within 4 ( four)
+inches of the outermost surface of the sign' s
+top and sides. Shielding will be constructed in
+such a manner that no reflective surface of the
+lighting fixture will extend past the limit of the
+shielding in the vertical plane when viewed
+from directly above. ( See typical drawings -
+Figure 1 and Figure 2 attached)
+15. 10. 110 Exemptions.
+A. Nonconformance.
+1. All other outdoor light fixtures lawfully
+installed prior to and operable on the effective
+date of the requirements codified in this
+ordinance are exempt from all such
+requirements except those regulated in
+subsections A, B, and C of Section 15. 10. 090
+or as follows:
+a. All replacement of outdoor lighting
+fixtures, as of the date of adoption, shall be
+subject to the provisions of this ordinance.
+b. Until a date five years after the date of
+adoption of this code, August 31, 1999.
+2. Fossil Fuel Light. All outdoor light
+fixtures producing light directly by the
+combustion of natural gas or other fossil fuels
+are exempt from all requirement of this code.
+B. Airport operations lighting and aircraft
+navigational beacons as established by the
+Federal Aviation Administration are
+permanently exempt from these provisions. All
+other airport outdoor lighting must conform
+to the intent of this ordinance.
+C. Correctional Institutions. Exterior
+0137- 0695
+lighting for County correctional institutions
+shall be shielded high pressure sodium except
+at the immediate entry area, in which case
+other lighting may be used that conforms to
+the intent of this ordinance.
+D. Lights used for holiday decorations for
+no more than 45 days are exempt from the
+requirements of this ordinance.
+E. Carnivals and Fairs that require the use
+of temporary outdoor lighting fixtures are
+exempt except that permanent installations at
+dedicated sites must conform to the
+requirements of this ordinance.
+F. Historical areas as designated by proper
+authority are exempt from the requirements of
+this ordinance. Use of the minimum
+illumination necessary to maintain public
+safety is encouraged.
+G. Motion detector lights that operate
+automatically for periods of less than 20
+minutes.
+H. U. S. flags displayed by top mounted
+lighting on a 24 hours basis.
+I. Internally lighted advertising signs.
+J. Temporary exemptions to the provision
+of this title for five days per calendar year.
+K. Television or movie film productions are
+exempt except that permanent installations at
+dedicated sites must conform to the
+requirements of this ordinance.
+L. Customary agricultural practices are
+exempt except that permanent installations at
+dedicated sites must conform to the
+requirements of this ordinance.
+M. Construction necessary for an allowed
+use are exempt except that permanent
+installations at dedicated sites must conform
+to the requirements of this ordinance.
+15. 10. 120 Violations and penalties.
+For anyperson, firm or corporation to erect,
+construct, enlarge, alter, repair, move, improve
+or convert anylighting structure, or causethe
+same to be done, contrary to or in violation of
+any provision of this ordinance shall constitute
+a code infraction subject to Section 18. 144. 050
+of this Code.
+Chapter 15. 10 3 ( 08/ 10/ 94)
+0137- 0096
+15. 10. 130 Violations constitute public
+nuisance.
+Any outdoor lighting fixture erected,
+constructed, enlarged, altered, repaired,
+moved, improved, or converted, contrary to
+the provisions of this ordinance shall
+constitute a code violation subject to Section
+18. 144. 040 of this Code.
+15. 10. 140 Code requirements table for
+shielding.
+See attached tables)
+Chapter 15. 10 4 ( 08/ 10/ 94)
+O1
+0"
+0095ot-
+CD
+co
+O
+n -
+00
+Icz,
+X
+0 0
+It Iahaz i
+N V 13 ;
+m N
+ej
+0,
+C'I It
+C, w
+Fj
+Lvn)
+C.....
+00
+0 0
+CN
+0
+rn
+0
+C C C
+H En a
+ril
+C4 0 Go
+N N Ln
+cl......
+aH ....... InCN InN
+0
+co Ln 0 o in o o vi o 0 0 0 in 0 0 0 0 0
+L— LL
+Vr, 0 n
+I
+0
+LL
+rl
+I I
+H
+LL
+N N m v In
+CD
+co
+O
+n -
+z
+JL n Uf-
+w Z w=
+DOt--=)
+OQ
+Qo3: 0Luu,
+W
+LL -
+7
+F_
+W
+G
+Z
+O
+Q
+V
+LL -
+77
+O
+U
+Z
+C9
+U)
+O
+O
+0
+0
+0
+LU
+Q
+Z
+J
+J
+J
+Q
+Z
+ry
+W
+57<
+W
+l
+Q
+U'
+EL

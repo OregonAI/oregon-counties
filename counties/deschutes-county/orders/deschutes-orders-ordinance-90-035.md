@@ -1,0 +1,202 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-90-035
+title: 'Ordinance No. 90-035'
+doc_type: ordinance
+citation: 'Ordinance No. 90-035'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616645258_1990-27632-Ordinance%20No.%2090-035%20Recorded%209_6_1990.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 03d2f027e4826ce931d7e11ce4a3fe3b4eaa50f3998e91a149373a848a567acc
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 90-035 (Ordinance No. 90-035)
+
+## At a glance
+
+Ordinance No. 90-035 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+90- 27632
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF
+An Ordinance Amending Ordi-
+nance No. PL - 15, the Deschutes*
+County Zoning Ordinance of
+1979, As Amended, Revising
+Provisions Concerning Surface
+Mining, and Declaring an
+Emergency.
+ORDINANCE NO. 90- 035
+REVIEWED
+NJ
+10 4
+DESCH18-- CWiTiil OREGON
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDERS as follows:
+Section 1. Section 4. 110 ( 7)( A) of PL - 15, as amended, is
+further amended to read as follows:
+A. No noise - sensitive or dust - sensitive use or
+structure established or constructed after the
+designation of the SMIA Zone shall be located within
+250 feet of any surface mining zone, except as
+provided in subsection 13 of this section."
+Section 2. Section 4. 110( 7) of PL - 15, as amended, is further
+amended to add a new subsection ( 7)( D) as follows:
+D. An exception to the 250 - foot setback in subsection
+7)( A) of this section shall be allowed pursuant to
+a written agreement for a lesser setback made
+between the owner of the noise - sensitive or dust -
+sensitive use or structure located within 250 feet
+of the proposed surface mining activity and the
+owner or operator of the proposed surface mine.
+Such agreement shall be notarized and recorded in
+the Deschutes County Book of Records and shall run
+with the land. Such agreement shall be submitted
+and considered at the time of site plan review or
+site plan modification."
+Section 3. Section 4. 110( 10) of PL - 15, as amended, is further
+amended to read as follows:
+10. Site Plan Review and Approval Criteria.
+A. Elements of Site Plan. A site plan shall be sub-
+mitted in a form prescribed by the Planning Director
+detailing the location of the proposed noise
+sensitive use, the location of the nearby surface
+mine zone and operation, if any, and other informa-
+tion necessary to evaluate the approval criter a, &,_, ,
+ri"
+contained in this section.
+1 - ORDINANCE NO. 90- 035 __:
+SEP 2 71990
+THE BOARD OF COUNTY COMMISSIONERSOF DESCHUTES COUNTY, OREGON,
+ORDERS as follows:
+Section 1. Section 4. 110 ( 7)( A) of PL - 15, as amended, is
+further amended to read as follows:
+A. No noise - sensitive or dust - sensitive use or
+structure established or constructed after the
+designation of the SMIA Zone shall be located within
+250 feet of any surface mining zone, except as
+provided in subsection 13 of this section."
+Section 2. Section 4. 110( 7) of PL - 15, as amended, is further
+amended to add a new subsection ( 7)( D) as follows:
+D. An exception to the 250 - foot setback in subsection
+7)( A) of this section shall be allowed pursuant to
+a written agreement for a lesser setback made
+between the owner of the noise - sensitive or dust -
+sensitive use or structure located within 250 feet
+of the proposed surface mining activity and the
+owner or operator of the proposed surface mine.
+Such agreement shall be notarized and recorded in
+the Deschutes County Book of Records and shall run
+with the land. Such agreement shall be submitted
+and considered at the time of site plan review or
+site plan modification."
+Section 3. Section 4. 110( 10) of PL - 15, as amended, is further
+amended to read as follows:
+10. Site Plan Review and Approval Criteria.
+A. Elements of Site Plan. A site plan shall be sub-
+mitted in a form prescribed by the Planning Director
+detailing the location of the proposed noise
+sensitive use, the location of the nearby surface
+mine zone and operation, if any, and other informa-
+tion necessary to evaluate the approval criter a, &,_, ,
+ri"
+contained in this section.
+1 - ORDINANCENO. 90- 035 __:
+104 - 1000
+B. Site plan review and approval, pursuant to the
+County Uniform Land Use Action Procedures Ordinance,
+shall be required for all uses in the SMIA zone
+prior to the commencement of any construction or
+use.
+C. The planning director or hearings body may grant or
+deny site plan approval and may require such
+modifications to the site plan as are determined to
+be necessary to meet the setbacks, standards and
+conditions described above.
+D. The site plan shall be approved if the planning
+director or hearings body finds that the site plan
+is consistent with the site- specific ESEE analysis
+in the surface mining element of the comprehensive
+plan and that the proposed use will not prevent the
+adjacent surface mining operation from meeting the
+setbacks, standards and conditions set forth in Sec-
+tions 4. 100( 9), ( 11) and ( 14), of this Ordinance,
+respectively.
+E. Public notice shall be as set forth in the County
+Uniform Land Use Action Procedures Ordinance, except
+that in all cases notice of the receipt of an SMIA
+application shall be sent to the mine owners and/ or
+operators whose SM - zoned site triggered the SMIA
+review."
+Section 4. Section 4. 110 of PL - 15, as amended, is further
+amended to add new subsection ( 11) as follows:
+11. Abbreviated SMIA Site Plan Review.
+A. A new or enlarged noise or dust - sensitive use to
+which this section applies that is at least one
+quarter mile from an SM zone and that has at least
+two dwellings or other noise or dust - sensitive uses
+between it and the SM zone is presumed to meet the
+approval criteria set forth in subsection 10( D)
+above and shall be processed under this subsection.
+B. Abbreviated SMIA site plan review shall require the
+submission of an application in a form prescribed
+by the Planning Director and such documentation as
+is necessary to demonstrate conformance with sub-
+section ll( A) above.
+C. Unless the underlying zoning at the SMIA site would
+require additional review of the proposed use for
+some other land use permit, abbreviated site plan
+review shall be conducted ( 1) administratively
+2 - ORDINANCE NO. 90- 035
+104 1801
+without prior public notice; ( 2) with public notice
+of the Findings and Decision mailed consistent with
+subsection 10 ( E) above to all persons entitled to
+receive notice; and ( 3) with an appeal period and
+procedures as set forth in the Uniform Land Use
+Action Procedures Ordinance. Appellants may submit
+evidence to overcome the presumption set forth in
+subsection 11( A) above."
+Section 5. Former subsections 11, 12 and 13 of Section 4. 110
+are renumbered Subsections 12, 13 and 14, respectively.
+Section 6. Notwithstanding Section 4( 7) of the Uniform Land
+Use Action Procedures Ordinance, the provisions of this Ordinance
+shall be applicable to any site plan application accepted pursuant
+to Deschutes County Ordinance No. 90- 014 from the effective date
+of that ordinance onward.
+Section 7. This Ordinance being necessary for the immediate
+preservation of the public peace, health and safety, an emergency
+is declared to exist, and this Ordinance takes effect on its
+passage.
+DATED this .
+A- JA
+day of , 1990.
+AT ST:
+1 J,4 Y
+Recording Secretary
+3 - ORDINANCE NO. 90- 035
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHUTES COUNTY, OREGON

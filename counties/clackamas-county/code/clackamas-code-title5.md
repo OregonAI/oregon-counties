@@ -1,0 +1,500 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clackamas-county
+id: clackamas-code-title5
+title: 'Title5'
+doc_type: ordinance
+citation: 'Title5'
+authority_level: county_ordinance
+issuing_body: 'Clackamas County Board of Commissioners'
+source_url: https://www.clackamas.us/code/title5
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: 674da251e01eefd516fe4b0ab2e51e0d55768fbf4cfd8c08749cfb1b33aa97c4
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 153.030
+    - ORS 161.015
+    - ORS 167.310
+    - ORS 167.374
+    - ORS 203.035
+    - ORS 30.460
+    - ORS 34.010
+    - ORS 34.030
+    - ORS 433.340
+    - ORS 609.015
+    - ORS 609.030
+    - ORS 609.093
+    - ORS 609.100
+    - ORS 609.125
+    - ORS 609.135
+    - ORS 609.168
+    - ORS 609.405
+    - ORS 659A.143
+    - ORS 98.005
+    - ORS 98.025
+  related: []
+  supersedes: []
+tags: [clackamas-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clackamas County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Title5 (Title5)
+
+## At a glance
+
+Title5 — code of Clackamas County. 58919 characters.
+
+## Full text
+
+Title 5: Animals | Clackamas County 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Translate 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Jobs 
+ Events 
+ News 
+ Contact Us 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+
+ 
+ 
+ 
+ Community 
+ 
+ 
+ Business 
+ 
+ 
+ Departments 
+ 
+ 
+ Our County 
+ 
+ 
+ I want to... 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Code 
+ Title 5: Animals 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Title 5: Animals 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Table of Contents 5.01 DOG LICENSING, SERVICES AND ENFORCEMENT 5.01.010 Enactment; Authority 5.01.020 Definitions; Exclusions; Fines and Fees 5.01.030 Licensing; Vaccinations 5.01.040 Control 5.01.050 Biting Dogs; Dangerous Dogs 5.01.060 Impoundment; Release; Adoption 5.01.070 Citation; Complaint; Hearing Process 5.01.080 Penalties 5.01.090 Authority of Dog Services Manager 5.01.100 Transition 5.01.110 Severability 5.01.120 Enforcement of Other Laws Chapter: 5.01 DOG LICENSING, SERVICES AND ENFORCEMENT 5.01.010 Enactment; Authority The County is authorized by Oregon Revised Statutes (ORS) 203.035 to regulate matters of County concern. The Board of County Commissioners finds that dog licensing and services within the County is a matter of County concern that impacts the health and safety of the people of Clackamas County. ORS 609.015, ORS 609.135 and ORS 153.030 recognize the authority of the County to enact and enforce regulations and procedures that vary from related state law provisions. The Board of County Commissioners adopts the following dog licensing and services regulations and procedures pursuant to ORS 203.035. Matters that concern crimes of abuse, neglect, or abandonment of dogs and other animals regulated by this code will be investigated and prosecuted under state law. [Codified by Ord. 05-2000, 7/13/00; Amended by Ord. 01-2004, 4/8/04; Amended by Ord. 05- 2010, 7/1/10; Amended by Ord. 03-2014, 7/31/14] 5.01.020 Definitions; Exclusions; Fines and Fees A. Definitions. Terms used but not defined shall have their plain meaning. 1. ANIMAL means any nonhuman mammal, bird, reptile, amphibian or fish as defined in ORS 167.310 or ORS 167.374. 2. BITE, BITING, BITTEN means the breaking of the skin of a person, domestic animal, or livestock by the teeth of a dog. 3. CONDITIONAL RELEASE means a security or non-security release of an impounded dog which imposes regulations and conditions on the activities and keeping of the dog pending final disposition of a violation of this chapter, including judicial review. 4. CONTINUOUS ANNOYANCE means any dog that unreasonably causes annoyance, alarm or noise disturbance to any person by barking, whining, screeching, howling or making other sounds which may be heard beyond the boundary of the owner's or keeper's property, either as an episode of continuous noise lasting for a minimum period of thirty (30) minutes or repeated episodes of intermittent noise lasting for a minimum period of 45 minutes within a 24- hour period. 5. COSTS mean any monetary assessment, other than fines and fees ordered by a Hearings Officer, including but not limited to, costs for veterinarian care, restitution, prosecution and attorney fees. 6. DANGEROUS DOG means any dog that menaces, bites, injures or kills a person, domestic animal, or livestock. 7. DOG means the common dog (Canis familiaris) and also includes any animal claimed by its owner to be a wolf-hybrid unless the owner provides written verification from a licensed veterinarian that the animal is a wolf-hybrid and not a dog. 8. DOG AT LARGE means a dog that is off or outside the dog owner's property and not under the immediate control of a person. 9. DOG OWNER means the following, however any presumption of ownership raised in this section may be rebutted by proof to the contrary: a. Any person in whose name a dog license has been issued; b. Any person who has a possessory property right in a dog; c. Any person who without regard to any ownership interest, shelters a dog or has a dog in that person's care, possession, custody or control, or knowingly permits a dog to remain on property occupied by that person for more than 30 days. d. In all three circumstances described above, it is understood that in a family situation the adult head(s) of household shall be jointly and severally presumed to be the owner(s). 10. DOG SERVICES means Clackamas County Dog Services. 11. DOG SERVICES OFFICER means a person employed by or contracting with Clackamas County who is authorized to investigate violations and issue citations as provided in this chapter. 12. DOMESTIC ANIMAL means any nonhuman mammal, bird, reptile, amphibian or fish as defined in ORS 167.310. 13. ENFORCING AGENCY means Clackamas County. 14. EUTHANASIA means the putting to death of an animal in any humane manner permitted under ORS 609.405. 15. EXPENSES mean expenditures incurred by Dog Services during impoundment, keeping and disposition of a dog. 16. HEARINGS OFFICER means any authority appointed by the Board of County Commissioners to hear and determine violations of this chapter. 17. IMPOUND means taking physical or constructive custody of a dog. A dog shall be considered impounded from the time Dog Services staff or a peace officer takes physical custody of the dog or serves an owner with a Notice of Impoundment and Conditional Release in accordance with this chapter. 18. LIVESTOCK has the meaning provided in ORS 609.125. 19. MANAGER means the Clackamas County Dog Services Manager or his/her designee. 20. MENACE means lunging, growling, snarling, chasing, attacking, or other behavior by a dog that would cause a reasonable person to fear for the person's safety, the safety of another person or the safety of a domestic animal or livestock. 21. MINIMUM CARE means care sufficient to preserve the health and well-being of a dog and, except for emergencies or circumstances beyond the reasonable control of the owner, includes but is not limited to, each of the following requirements: a. Food of sufficient quantity and quality to allow for normal growth or maintenance of body weight. b. Open or adequate access to potable water in sufficient quantity to satisfy the dogs' needs. Access to snow or ice is not adequate access to potable water. c. Access to adequate shelter. For a dog other than one engaged in herding or protecting livestock, this requires access to a barn, dog house or other enclosed structure sufficient to protect the animal from wind, rain, snow or sun with adequate bedding to protect against cold and dampness. d. Access to adequate bedding, which is defined as bedding of sufficient quantity and quality to permit a dog to remain dry and reasonably clean and to maintain a normal body temperature. e. Veterinary care deemed necessary by a reasonably prudent person to relieve the dog's distress from injury, neglect or disease. f. Continuous access to an area: i. With adequate space for exercise necessary for the health of the dog; ii. With air temperature suitable for the dog; and iii. That is kept reasonably clean and free from excess waste or other contaminants that could affect the dog's health. 22. PEACE OFFICER has the meaning provided in ORS 161.015. 23. PHYSICAL INJURY has the meaning provided in ORS 167.310. 24. SECURE ENCLOSURE means any of the following: a. A fully fenced pen, kennel or structure that is in compliance with applicable County codes, that will remain locked with a padlock or combination lock, and which has secure sides at least five feet high. The County may also require that the structure have a secure top and/or floor attached to the sides, or require that the sides be embedded in the ground no less than one foot; or b. A house or garage that has latched doors kept in good repair to prevent the escape of the dog. A house, garage, patio, porch or any part of the house is not a secure enclosure if the structure would allow the dog to exit the structure of its own will; or c. For a dog deemed a dangerous dog, a fully fenced pen, kennel or structure at least six feet in height that is either anchored beneath the ground or is in concrete and which prevents the dog from digging under it. The enclosure must be of a design that prevents entry of children or unauthorized persons and also prevents those persons from extending an arm or leg inside the enclosure. The enclosure must remain locked with a padlock or combination lock when occupied by the dog. A County approved sign must remain posted at all entry points of the dog owner's property that informs both children and adults that the dog is dangerous. The interior of a home is not a secure enclosure for a dangerous dog unless specifically permitted by a hearings officer's order. 25. TETHERING means to restrain a dog by tying the dog to any object or structure by any means. Tethering does not include using a handheld leash for the purpose of walking a dog. 26. VIOLATION means any violation of this chapter for which a fine, condition, restriction, or other sanction may be imposed. If a violation is ongoing or continuous, as opposed to a single discrete act or occurrence, each day on which the violation continues amounts to an additional violation, and a person may be cited for each day that the violation continues. 27. WOLF-HYBRID means an animal that is either the result of cross-breeding a purebred wolf and a dog, an existing wolf-hybrid with a dog, or any dog declared by its owner to be a wolf-hybrid. A wolf-hybrid will be considered to be a dog under this chapter unless the owner provides written verification from a licensed veterinarian that the animal is a wolf-hybrid and not a dog. B. Exclusions. This chapter does not regulate kennel operators or pet shop owners who for a period of not more than 90 days maintain on their property dogs owned by other persons. C. Fines and Fees. All fines and fees associated with this chapter shall be set by the Board of County Commissioners. [Codified by Ord. 05-2000, 7/13/00; Amended by Ord. 01-2004, 4/8/04; Amended by Ord. 05 2010, 7/1/10; Amended by Ord. 03-2014, 7/31/14; Amended by Ord. 01-2024, 3/21/24] 5.01.030 Licensing; Vaccinations A. License. 1. Individual Dog License. a. A person must be at least 18 years old to obtain a license for a dog. b. Every dog owner shall license a dog by the time the dog has a set of permanent canine teeth or is six months old, whichever comes first, or within thirty (30) days of acquiring the dog. c. A dog owner who has moved to Clackamas County and does not have a current dog license from another Oregon city or county, shall obtain a dog license within thirty (30) days of moving into Clackamas County unless the dog has not yet reached six months of age. A dog with a current dog license from another Oregon city or county shall not require licensing under this chapter until expiration of the current license, if within thirty (30) days of moving into Clackamas County the owner notifies Dog Services of the dog's description, license number, city or county of issuance, and Clackamas County address. d. A dog license is not transferable to another dog. The license number shall be assigned to the particular dog and shall remain with that dog for the life of the dog unless dog services issues an alternate license number for administrative reasons. 2. Multiple Dog License. a. Qualification; Application; Inspection. When an owner has more than one dog, the owner may obtain or renew a multiple dog license after submitting a completed, qualifying Multiple Dog License Application and after either 1) submitting an inspection certification from a veterinarian licensed in the state of Oregon; or 2) a County inspection of the applicant's premises to determine that the owner is in compliance with minimum care standards as provided by this chapter. b. Denial. Causes for denial of a multiple dog license application may include, but are not limited to, denial for any person currently under active investigation or prosecution for any animal-related crime, persons under parole or probation following a conviction for any animal-related crime, or any person for which ownership, keeping or responsibility for animals would be a violation of any rule, regulation or law, either civil or criminal. c. Transfer. A multiple dog license may be transferred to another holder with prior written approval of Clackamas County, provided that the transferee qualifies to hold the license in all ways that an applicant for a new multiple dog license must qualify. d. Appeal of Denial of Multiple Dog License. An owner may appeal the denial of a new multiple dog license, denial of a renewal of a multiple dog license or denial of a transfer of a multiple dog license to a Hearings Officer by delivering a written request to Dog Services within seven (7) days of the mailing date of the written notice denying the license. A hearing will follow the same procedures set forth in this chapter for a hearing on a violation, except that the burden of proof will be on the owner to prove that the denial was improper. e. Land Use Approval. Issuance of a multiple dog license does not constitute approval of a particular land use or indicate compliance with any zoning or land use planning restrictions that may apply. Applicant may be required to demonstrate compliance with city or county zoning or land use planning restrictions prior to issuance. f. To ensure that minimum care standards are continually being met, an owner can either 1) submit an inspection certification from a veterinarian licenses in the state of Oregon or 2) allow a County inspection of the premises to determine that the owner is in compliance with the minimum care standards as provided for by this chapter. g. Violations. A violation of any provision in this section may be prosecuted by the enforcing agency, as provided by Section 5.01.070, and may result in the imposition of fines and civil penalties, or other restrictions or remedies as provided in this chapter. B. Dog Rabies Vaccination. 1. Individual or multiple dog licenses will not be issued without evidence of one of the following for each dog to be licensed: a. A current rabies vaccination certificate issued by a licensed veterinarian; or, b. A written statement signed by a licensed veterinarian stating that for medical reasons the rabies vaccination cannot be administered to the dog. 2. A dog that does not have proof of a current rabies vaccination, exemption from vaccination, or current Oregon county or city license, shall be apprehended and impounded at the owner's expense. 3. A veterinarian performing a rabies vaccination of any dog must transmit a copy of the vaccination certificate or written documentation that includes information contained on the certificate to Dog Services within 30 days of the vaccination. In the alternative, a veterinarian may issue a dog license in accordance with the rules adopted by this Chapter, and submit proof of license to Dog Services within 30 days of the vaccination. C. License Term; Expiration; Renewal; Fine. 1. A license may be purchased for a term of one or three years, at the option of the dog owner, when a valid rabies vaccination certificate is presented. Notwithstanding the license term purchased, a license remains valid only while there is a valid rabies vaccination certificate for the dog. If at any time during a license term an owner fails to maintain a current rabies vaccination certificate for a dog, the license expires. License terms purchased are non-refundable. 2. Renewal of a license term shall not be due until the last day of the month in which the license term expires. If a person fails to renew a license term prior to its expiration date, or allows the rabies vaccination certificate to expire during the license term, a fee or fine may be assessed. D. Identification Tags. 1. At the time an individual dog license is issued, the County will issue a free identification tag that is to be fastened to a collar or harness and kept on the dog at all times when the dog is not in the immediate possession of the owner. 2. When a multiple dog license is issued, the owner may obtain identification tags for each dog in his possession upon payment of a fee. 3. If a dog license tag is lost, the owner may obtain a duplicate tag from Dog Services upon payment of a fee. E. License Fees Exemptions. 1. No license fee will be required for the following: a. Any dog that meets the definition of an "assistance animal" as defined in ORS 659A.143, provided that the license applicant has filed a statement with Dog Services indicating that the dog is an "assistance animal" for a person who has a physical or mental impairment in one or more of their major life activities and resides in the applicant's household. b. Any dog in training to be an "assistance animal" as defined in ORS 659A.143, in affiliation with a recognized organization for the training or placement of assistance animals, provided the trainer files a statement with Dog Services verifying that the dog is an assistance animal. c. Any dog used in law enforcement as defined by ORS 167.310 provided proof of the dog's status has been filed with Dog Services. [Codified by Ord. 05-2000, 7/13/00; Amended by Ord. 05-2003, 3/13/03; Amended by Ord. 01-2004, 4/8/04; Amended by Ord. 05-2010, 7/1/10; Amended by Ord. 08-2012, 8/2/12; Amended by Ord. 03-2014, 7/31/14; Amended by Ord. 01-2024, 3/21/24; Amended by Ord 01-2025 7/17/25] 5.01.040 Control A. Duties of Owners. For the purposes of this chapter, a dog owner is responsible for the behavior of the dog regardless of whether the owner or another person allowed the dog to engage in the behavior that is the subject of the violation. B. Violations. 1. It is unlawful to permit a dog to be a public nuisance. A dog is a public nuisance if it: a. Menaces, bites, injures or kills a person, domestic animal or livestock. It is a defense to this section if the dog engages in such behavior as a result of a person wrongfully assaulting the dog or owner, or other similar provocation, or when the dog's behavior was directed towards a trespasser or other extenuating circumstances that establishes that the dog does not constitute an unreasonable risk to life or property; b. Is a dog at large. It is a defense to this section that the dog was a working dog wearing a locating device and temporarily separated from the person in control of the dog; c. Chases a vehicle while off the dog owner's property; d. Damages or destroys property of another person while off the dog owner's property; e. Scatters garbage while off the dog owner's property; f. Is a female in heat (estrus) and is a dog at large. 2. It is unlawful to fail to comply with the requirements of this chapter that apply to keeping a dangerous dog. 3. It is unlawful to permit any dog to leave the confines of any prescribed quarantine area and/or fail to comply with any other condition of quarantine. 4. It is unlawful to interfere with an identified County employee or peace officer who is enforcing this chapter by intentionally acting in any manner that prevents, or attempts to prevent, a County employee or peace officer from performing their lawful duties. 5. It is unlawful to knowingly provide false information to a County employee or peace officer enforcing this chapter. 6. It is unlawful to permit a dog to be confined within a motor vehicle at any location under such conditions as may endanger the health or well-being of the dog. 7. It is unlawful to permit a dog to be unrestrained in an open portion of a vehicle. 8. It is unlawful to fail to reclaim an impounded dog. 9. It is unlawful to fail to comply with any fine, fee, cost, expense, condition, restriction or other order imposed by a Hearings Officer under this chapter. 10. It is unlawful to fail to surrender a dog for apprehension to the County when required by this chapter. 11. It is unlawful to fail to license a dog, fail to maintain a valid license or fail to renew a license as required by this chapter. 12. It is unlawful for an owner to fail to immediately notify Dog Services when the owner's dog has bitten a person, domestic animal or livestock. 13. It is unlawful to keep a dog in a manner that does not meet minimum care standards of this chapter. 14. It is unlawful to fail to maintain a current rabies vaccination. 15. It is unlawful for a person who has been bitten by a dog, or a parent/guardian of a bitten minor, to fail to immediately notify Dog Services when required by this chapter. 16. It is unlawful for a dog owner to fail to follow any condition of release pending final disposition of a violation of this chapter, including judicial review. 17. It is unlawful to permit any dog to cause continuous annoyance as defined in Section 5.01.020(A)(5). 18. It is unlawful to permit any dog to be tethered: a. With a tether that is not a reasonable length given the size of the dog and available space and that allows the dog to become entangled in a manner that risks the dog's health or safety; b. With a collar that pinches or chokes the dog when pulled; c. For more than 10 hours in a 24-hour period; or d. For more than 15 hours in a 24-hour period if the tether is attached to a runner, pulley or trolley system. 19. It is not unlawful to permit any dog to be tethered: a. While the dog remains in the physical presence of the person who owns, controls or otherwise has charge of the dog; b. Pursuant to the requirements of a campground or other recreational area; c. For the purpose of engaging in an activity that requires licensure in this state, including but not limited to hunting; d. To allow transport of the dog; or e. If the dog is kept for herding, protecting livestock or dog sledding. 20. It is a violation for a veterinarian performing a rabies vaccination on a dog to fail to report the rabies vaccination as provided in Section 5.01.030(B)(3). C. Lost Dogs; Duties of Finders. Any person who finds and shelters a dog without knowing the dog owner's identity shall be subject to the responsibilities provided in ORS 98.005, ORS 98.025 and ORS 609.100. [Codified by Ord. 05-2000, 7/13/00; Amended by Ord. 05-2003, 3/13/03; Amended by Ord. 01-2004, 4/8/04; Amended by Ord. 05-2010, 7/1/10; Amended by Ord. 08-2012, 8/2/12; Amended by Ord. 03-2014, 7/31/14; Amended by Ord. 01-2024, 3/21/24] 5.01.050 Biting Dogs; Dangerous Dogs A. Reporting Biting Dogs. 1. The owner of a dog that bites a person, domestic animal or livestock shall immediately notify Dog Services of the time and circumstances of the bite along with a description of the biting dog, its rabies vaccination status, the owner's name and address, and if known the name and address of the person who was bitten or the owner of the bitten domestic animal or livestock. 2. Any person who is bitten by a dog, is the parent/guardian of a bitten minor, or owns a domestic animal or livestock bitten by a dog shall immediately notify Dog Services of the time and circumstances of the bite along with his/her name and address, a description of the biting dog, and identifying information including but not limited to the name and address of the dog owner. B. Quarantine of Biting Dogs. 1. A dog suspected of biting a person will be quarantined at the owner's expense until the tenth day following the bite in accordance with state law. 2. At the discretion of the County, a dog that has proof of a current rabies vaccination, exemption from vaccination, or a current Oregon county or city license may be quarantined at the premises of a licensed veterinarian or at the premises of the owner providing the dog is kept within a secure enclosure or with approved restraint deemed adequate to prevent contact with any person or other animal, and is kept in accordance with any other conditions set by the County as permitted by this chapter or required by state law. It shall be a violation of this chapter if during home quarantine the dog leaves the confines of a prescribed quarantine area for any reason or otherwise violates the conditions of quarantine. 3. Dogs that have bitten a person and do not have proof of a current rabies vaccination, exemption from vaccination, or a current Oregon county or city license shall be apprehended and impounded as resources allow. C. Dangerous Dogs. 1. Classification of Dog as a Dangerous Dog. A dog may be classified by the Hearings Officer as a dangerous dog when it has menaced, bitten, chased, injured or killed any person, domestic animal or livestock. 2. Notice of Classification; Hearing. a. Notice. Prior to a dog being classified as dangerous, the owner shall have a right to a hearing before a Hearings Officer. The County shall send a Dangerous Dog Notice to the dog owner by personal service or certified mail. If sent by mail, the date of mailing will be considered the date of service. The notice shall inform the owner of: i. A description of the alleged incident and specific behavior that supports classification of the dog as dangerous. ii. The regulations that may be imposed following a dangerous dog classification, including the requirement of a dangerous dog certificate. iii. An opportunity to request a hearing. iv. Information that the dog owner must request a hearing within seven (7) days from the date of service by delivering a written request to Dog Services. v. Information that if the dog owner does not make a timely request for hearing, the dog owner shall be deemed to have waived his/her right to a hearing. Thereafter, following proof of sufficient evidence that the dog is dangerous, the Hearings Officer may so classify the dog and impose regulations consistent with this chapter. b. Hearing. i. Following a timely request for hearing, the County will notify the dog owner and Hearings Officer of the date and time of the hearing. The hearing shall follow the procedures set forth in this chapter for a hearing on a violation. Failure to request a hearing regarding a dangerous dog classification constitutes waiver of any right to a hearing and the County will request the hearings officer declare the dog a dangerous dog. ii. The Hearings Officer may refrain from classifying a dog as dangerous upon a finding that the behavior was the result of a person wrongfully assaulting the dog or owner, or other similar provocation, or when the dog's behavior was directed towards a trespasser, or other extenuating circumstances that establishes that the dog does not constitute an unreasonable risk to life or property. iii. A hearing on classification of a dangerous dog may be consolidated with a hearing on any underlying violation for which the dog owner has been cited. 3. Regulation of Dangerous Dogs; Microchip Identification. When a dog has been classified as dangerous, the dog owner shall keep the dog in a secure enclosure and shall not permit the dog to be off the owner's premises unless the dog is muzzled and restrained by an adequate leash and under the control of a competent person; the dog shall be microchip identified at Dog Services at the expense of the owner, as provided in ORS 609.168. In addition, a Hearings Officer may order the following regulations: a. That the dog owner obtain and maintain proof of public liability insurance; b. That the dog owner successfully complete a County approved pet ownership program; c. That the dog successfully complete obedience training certified by the American Temperament Testing Society or other similar County approved program; d. That the dog be spayed or neutered; e. After consideration of the factors set forth in ORS 609.093, require euthanasia when a dog has bitten or killed a person, domestic animal, or livestock. The Hearings Officer may also consider the public nuisance violation history of the dog and owner to include all known determinations by any court, governing body, official or agency of any local or state government without regard to where or when the incident occurred. 4. Certificate of Registration; Secure Enclosure; Notice to New Owner. a. Certificate of Registration. Within seven (7) days after a dog has been classified as dangerous, the owner must license the dog, if not already licensed, and obtain a dangerous dog certificate of registration to be renewed annually until the dog is declassified or dies. The County will only issue certificates of registration and renewals to persons who are at least 18 years of age and who present sufficient evidence of: i. A current rabies vaccination certificate; ii. A secure enclosure to confine the dangerous dog; iii. A clearly visible County-approved warning sign to be posted and remain at all entry points of the owner's property that informs both children and adults that the dog is dangerous; iv. Microchip identification as provided in ORS 609.168; and v. Payment of an annual dangerous dog registration fee. b. Secure Enclosure. The owner of a dog classified as dangerous shall confine the dog in a secure enclosure. The owner must immediately notify Dog Services when a dangerous dog is at large, or has bitten a person, domestic animal or livestock. A dangerous dog shall not be permitted to leave the confines of a secure enclosure unless the dog is muzzled and restrained by an adequate chain or leash and under control of a competent person. c. Notice to New Owner. Prior to a dangerous dog being sold or given away. The owner shall provide notice to the new owner that the dog has been classified as a dangerous dog and provide the County with the name, address and telephone number of the new owner whether or not the new owner resides in Clackamas County. If the new owner resides in Clackamas County, he/she must comply with all dangerous dog regulations imposed unless and until the dog is declassified or dies. 5. Declassification of Dangerous Dog. a. Declassification. Following an owner's written request, the County may declassify a dog as dangerous and terminate the regulations ordered at the time of classification, except for microchip identification and secure enclosure, when the following conditions have been met: i. For two years from the date of classification the dog has had no further incidents of behavior that would make it a dangerous dog; ii. For two years from the date of classification there have been no violations of the regulations imposed; iii. The dog owner has obtained a certificate of satisfactory completion of obedience training for the classified dog. b. Appeal of Declassification Denial. A dog owner may appeal to a Hearings Officer the denial of a request to declassify a dangerous dog by delivering a written request for appeal to Dog Services within seven (7) days of the mailing date of the County's written notice denying declassification. i. The County's written denial shall include information on how the dog owner may appeal the denial. ii. On appeal the Hearings Officer shall determine whether the dog meets the criteria for declassification and shall either uphold the County's denial or order declassification. [Codified by Ord. 05-2000, 7/13/00; Amended by Ord. 01-2004, 4/8/04; Amended by Ord. 05- 2010, 7/1/10; Amended by Ord. 03-2014, 7/31/14; Amended by Ord. 01-2024, 3/21/24] 5.01.060 Impoundment; Release; Adoption A. Impoundment 1. Any Dog Services Officer or peace officer may impound an animal that the officer reasonably believes is the subject of a violation of this chapter, or when a Dog Services Officer or peace officer reasonably believes the animal requires medical assistance or care, or when ordered by a court or Hearings Officer. 2. If a person refuses to allow a Dog Services Officer or peace officer to enter the premises to apprehend and impound an animal as authorized by this chapter, the County may request the assistance of the local law enforcement official to obtain and execute a search warrant as authorized by law to search for and seize the animal subject to impoundment. 3. Any Dog Services Officer or peace officer is authorized to remove the animal from a motor vehicle to apprehend and impound the animal when the officer reasonably believes it is confined in a manner that endangers its health or well- being, including but not limited to dangerous temperature, lack of food, water or attention. A written notice of impoundment will be left on or in the vehicle with information on how to reclaim the animal. 4. Any person may immediately apprehend and hold for impoundment any animal that has trespassed upon the property of that person or another in violation of this chapter, or has menaced, bitten, injured or killed a person, domestic animal, or livestock. 5. Animals other than dogs that are seized by Dog Services Officers will be taken to facilities that are appropriate for the holding or keeping of those animals. Release of such animals will be subject to State law as well as any rules or procedures for the facility where the animal is being kept. B. Impoundment Holding Periods. Unless otherwise provided in this chapter or reclaimed sooner by the owner, dogs that have been impounded will be held for the following minimum time periods: 1. Dogs not wearing a license tag shall be held for at least three consecutive business days, not including the day of impoundment. 2. Dogs wearing a license tag shall be held for at least five consecutive business days from the date of notification of impoundment. If notification is by mail, the date of mailing shall be considered the date of notification. If a current/valid mailing address is not provided or maintained by the licensee, the holding period will remain five consecutive business days from the date of notification of impoundment, and mailing will be made to the licensee's last known address. C. Release of Animals Impounded at County Dog Shelter; Conditional Release. 1. Release. a. Release Prohibited. Unless otherwise ordered by a Hearings Officer or court of competent jurisdiction, an impounded dog may not be released until final disposition of any violation alleging that the dog has killed a person, or when a dog is pending classification or has been classified as a dangerous dog. b. Release Permitted. Unless prohibited by this chapter prior to final disposition of a violation or pending judicial review, an impounded animal may be released subject to release conditions in Section 5.01.060(C)(2)(a) and payment of fees and costs owed to date including but not limited to boarding fees and prior outstanding balances, except upon showing of good cause. 2. Conditional Release. a. Conditions. As permitted by this chapter pending final disposition of a violation or appeal, the County or Hearings Officer may conditionally release an impounded animal to its owner and may impose any of the following release conditions, including but not limited to a requirement that the animal owner: i. Obtain and provide proof of a rabies vaccination within a designated time, if applicable; ii. Provide proof of license within a designated time, if applicable; iii. Restrain the dog on the dog owner's property by means of a secure enclosure; iv. If the animal is a dog, control the dog on a leash that is no longer than six (6) feet, and at all times handled by an adult who is able to control the dog; v. If the animal is a dog, muzzle the dog at all times when the dog is off the dog owner's property; vi. Obtain veterinary care for the animal within a designated time; vii. Comply with minimum care standards consistent with this chapter; viii. Keep the animal indoors during certain hours. b. Revocation of Conditional Release; Violation; Security Forfeited. i. Revocation. Upon reasonable ground to believe that a release condition has been violated, the County may revoke release, and apprehend and impound the subject animal pending final disposition of the underlying violation or appeal. ii. Violation. At the time of revocation the animal owner shall be cited for failure to follow condition(s) of release. A hearing on revocation may be made in accordance with Section 5.01.070 and consolidated with a hearing on the underlying violation(s). iii. Security Forfeited. The security amount posted on conditional release shall be forfeited upon a finding that one or more conditions of release were violated or if no timely hearing is requested. 3. If a dog owner has been cited for a violation(s) of this chapter, and a Hearings Officer finds that no violation(s) occurred, then impoundment and boarding fees shall not be assessed until the first business day after notice of the Hearings Officer's Final Order. 4. An owner must reclaim an animal within five (5) business days after notice of a Hearings Officer's Final Order unless otherwise ordered or unless stayed by a court of competent jurisdiction. D. Failure to Reclaim. 1. If an owner fails to reclaim an animal as provided in this chapter, the animal will be deemed abandoned and shall become the property of the County without compensation paid to the owner. 2. An owner that fails to reclaim an animal will be civilly liable to the County for all penalties, fines, fees, costs and expenses authorized by this chapter, which may be collected in the same manner as any other debt allowed by law. E. Diseased or Injured Animal. A dog owner shall be liable to the County for costs paid for medical treatment during impoundment. If the County determines an animal is seriously injured or seriously ill or its health condition causes a threat to public health or safety, the animal may be immediately euthanized without compensation paid to the owner. F. Release for Adoption. 1. Fees. Adoption fees will be assessed consistent with this chapter. 2. Standards. The Dog Services Manager shall have the authority to develop and enforce adoption policies and procedures. [Codified by Ord. 05-2000, 7/13/00; Amended by Ord. 05-2003, 3/13/03; Amended by Ord. 01-2004, 4/8/04; Amended by Ord. 05-2010, 7/1/10; Amended by Ord. 08-2012, 8/2/12; Amended by Ord. 03-2014, 7/31/14; Amended by Ord. 01-2024, 3/21/24] 5.01.070 Citation; Complaint; Hearing Process A. Issuance of Citation. 1. Any Dog Services Officer or peace officer may issue and serve a person with a citation when there are reasonable grounds to believe that the person has caused or permitted a violation of this chapter to occur. The citation shall serve as the County's complaint and may include a fine that is payable to Clackamas County. 2. Citations for failure to license a dog, failure to maintain a valid license, or failure to renew a license under Section 5.01.040(B)(11) shall be served by personal service or first-class mail. Citations for all other violations shall be served by personal service or certified mail. All citations shall be served no later than six (6) months from the date the alleged violation occurred. If sent by mail, mailing will be made to the respondent's last known address, and the date of mailing shall be considered the date of service. The failure of any person to receive notice properly given shall not invalidate or otherwise affect proceedings under this chapter. B. Inspection and Investigation. In determining whether to issue a citation, a Dog Services Officer may request entry onto any real property in order to investigate a suspected violation of this chapter. C. Form of Citation. 1. The citation shall include: a. The name and address of the cited person; b. The date(s) the alleged violation(s) occurred; c. The number and title of the section(s) of this chapter violated; d. A description of the animal(s) involved, if applicable; e. The base fine, to be equal to the minimum fine, along with the maximum fine for each violation as authorized by this chapter; f. A statement providing notice of the penalties that could be imposed by the Hearings Officer, including penalties and keeping restrictions provided in Section 5.01.080; g. Whether appearance before a Hearings Officer is optional, or if mandatory, the date, time and place at which the cited person is to appear; h. The procedure for the cited person to follow to admit the violation and pay the fine or to contest the citation and appear before a Hearings Officer; i. A statement that if the cited person fails to pay the fine within the time allowed, or fails to appear before the Hearings Officer when required, the cited person shall have waived his/her right to contest the citation and the Hearings Officer may enter a judgment against the cited person for an amount up to the maximum fine, in addition to any fees, costs or expenses, conditions or restrictions authorized by this chapter; j. A statement that when appearance before a Hearings Officer is mandatory the cited person cannot pay the fine in lieu of appearance. 2. An error in transcribing information into a citation, when determined by the Hearings Officer to be non-prejudicial to the defense of the cited person, may be corrected prior to or at the time of the hearing with notice to the cited person. Except as provided in this subsection, a citation that does not conform to the requirements of this section shall be set aside by the Hearings Officer upon motion of the cited person before any other proceedings at the hearing. Minor variations in the form of citation shall not be a basis for setting aside a citation. Nothing prohibits the Hearings Officer from amending a citation in the Hearings Officer's discretion. D. Response to Citation 1. Unless an appearance before a Hearings Officer is mandatory, a cited person may respond by: a. On the appearance date, appearing personally before the Hearings Officer and either admitting or denying the violation; b. Prior to the appearance date, returning a signed copy of the citation to Dog Services admitting the violation, along with a check or money order payable to Clackamas County for the total base fine amount. Admission and payment do not relieve the cited person of the requirement to correct the violation; or c. Prior to the appearance date, returning a signed copy of the citation to Dog Services denying the violation and requesting a hearing. Dog Services will set a time and place for the hearing and notify the Hearings Officer and the cited person. 2. Mandatory Appearance. Personal appearance before a Hearings Officer at the time and place indicated on the citation shall be mandatory: a. When the cited person has received a citation three (3) times or more within a twelve (12) month period; b. When the issuing officer determines that the appearance should be mandatory; c. When the citation is for permitting a dog to be a public nuisance and the dog has killed a person, domestic animal or livestock; d. When the citation is for failing to comply with the requirements of this chapter that apply to keeping a dangerous dog; or e. When the citation is for keeping a dog in a manner that does not meet minimum care standards of this chapter. 3. Failure to Respond to Citation. If a cited person fails to respond to a citation as required by this chapter, then the person shall be deemed to have waived his/her right to contest the citation. Following proof of sufficient evidence that the cited person has committed the cited violation(s), the Hearings Officer may enter a Final Order against the cited person for an amount up to the maximum fine, in addition to any applicable fees, costs or expenses, and any other imposition consistent with this chapter. A copy of the Final Order shall be sent to the cited person by regular mail. E. Hearing Process. 1. Informal Disposition. The County and the cited person may agree to an informal and final disposition of any violation before a Hearings Officer issues a Final Order. 2. Burden of Proof. The burden will be on the County to prove that the violation occurred by a preponderance of the evidence. 3. Testimony of Witnesses and Parties. The Hearings Officer shall have the authority to administer oaths or affirmations and take testimony of and question witnesses and parties. Parties may offer witness testimony on their own behalf. Written testimony must be submitted by sworn affidavit and may be admitted into the record subject to exclusion by the Hearings Officer and objections by the opposing party. 4. Cross-Examination of Witnesses. Parties may examine or cross-examine witnesses. 5. Evidence. Reliable and relevant evidence shall be admitted subject to the rules of privilege recognized by law. Records developed, kept and maintained, during the normal course of business, including but not limited to, law enforcement reports and veterinary records, shall be admissible provided the party offering the records establishes the authenticity of the records through written or oral testimony. The burden of presenting evidence to support a fact or position shall be on the offering party. The Hearings Officer may establish procedures for the presentation of evidence to ensure that the hearing record reflects a full and fair inquiry into the facts necessary to determine the matter alleged. The Hearings Officer shall have the discretion to exclude any material or testimony that is accumulative, repetitious, irrelevant or immaterial. 6. Objections. Objections to admission of evidence shall be noted in the record and will be considered with respect to the weight to be given the particular evidence offered. The Hearings Officer shall have the discretion to admit or exclude any evidence presented and may reserve the ruling on the admissibility or exclusion of evidence until the time the Final Order is issued. 7. Subpoenas. The Hearings Officer may issue subpoenas to parties when a request is supported by a showing of general relevance and reasonable scope of the evidence sought. Witnesses appearing pursuant to subpoena, other than the parties, peace officers or employees of the County, shall be paid the same witness fees and mileage as allowed in civil cases from the party requesting the subpoena to be paid at the time the subpoena is issued. The party requesting the subpoena will be responsible for its service in accordance with the Oregon Rules of Civil Procedure. 8. Representation. The cited person may represent him/herself or may be represented by counsel at personal expense. The County may be represented at the hearing by any employee of the County. 9. Record. A verbatim record shall be made of all hearings. The record may be transcribed at the request of a party upon payment in advance of the cost of transcription. 10. Final Order. At the conclusion of the hearing, the Hearings Officer shall issue a Final Order based upon reliable, relevant and substantial evidence which shall be the County's final determination. A Final Order shall be effective on the date that it is issued unless otherwise provided by the Hearings Officer. The order may be oral or written, but in all cases must be recorded in the record of the proceeding. The Hearings Officer may impose fines, fees, costs, expenses, conditions or restrictions and any other imposition authorized by this Chapter. Monetary obligations are due and payable on the effective date of the Final Order unless otherwise provided. 11. Amended Decision. The Hearings Officer may issue an amended decision within 10 business days of when the original decision would have become final. The purpose of an amended decision is to provide the ability to correct typographical errors, rectify inadvertent omissions, add clarifications and/or make other minor changes which do not materially alter the decision. 12. Judicial Review. Review of a Final Order of the Hearings Officer may be sought by any party by filing a petition for a writ of review as provided in ORS 34.010 to 34.100. Notwithstanding ORS 34.030, if the Final Order provides that the dog is to be euthanized, a petition for a writ of review must be filed no later than the 10th day after service of the order. To stay an order to euthanize a dog during judicial review, the person seeking judicial review must pay a deposit in the amount of one month's cost of keeping the dog in the shelter. The party seeking judicial review is liable for all costs incurred in housing and caring for the dog during judicial review, even if those costs exceed the amount of the deposit. If the person seeking judicial review pays the deposit, the order to euthanize the dog may not be carried out during judicial review unless: a. The person seeking judicial review fails to pay in advance the costs of keeping the dog in the shelter during judicial review; or b. The County files a motion in the court in which the petition for the writ of review was filed and demonstrates by a preponderance of the evidence that (1) the dog cannot be safely released from the shelter because it presents a risk of causing physical injury to a person or another animal; (2) it is not humane or in the best interest of the dog to remain confined in the shelter; and (3) the County is reasonably likely to succeed on judicial review. 13. Enforcement of Final Order. The County may maintain civil proceedings in law or equity in a court of competent jurisdiction to enforce any provision of a Hearings Officer's Final Order. F. Process when Citation is for Dog as Continuous Annoyance. When the County receives a complaint of a dog causing a continuous annoyance, all of the procedures in this chapter shall apply and the following additional procedures shall also be required: 1. First Complaint. The county will not investigate or issue a citation, but will provide assistance to the complainant and the dog owner to help them resolve the issue between themselves. 2. Second Complaint. The complainant and the dog owner will be referred to mandatory mediation: a. If the complainant fails to participate in mediation, no citation will be issued to the owner, the county will not investigate the complaint and not further complaints will be considered until and unless the complainant participates in mediation. b. If the owner fails to participate in mediation, the county may conduct further investigation into the complaint, may issue a citation and may take other steps that it determines are reasonable in the circumstances. 3. Complaints Following Mediation Where All Parties Have Participated. If mediation is conducted wherein both the owner and complainant participate, upon receipt of further complaints the County may conduct further investigation into the complaint, may issue a citation and may take other steps that it determines are reasonable in the circumstances. 4. After Citation Issued. After a citation is issued by the County, all standard procedures and provisions in this chapter shall apply. [Codified by Ord. 05-2000, 7/13/00; Amended by Ord. 01-2004, 4/8/04; Amended by Ord. 05- 2010, 7/1/10; Amended by Ord. 08-2012, 8/2/12; Amended by Ord. 03-2014, 7/31/14; Amended by Ord. 02-2015, 2/5/15; Amended by Ord. 01-2024, 3/21/24; Amended by Ord. 01-2025, 7/17/2025] 5.01.080 Penalties A. Fines, Fees, Costs; Expenses. 1. Upon a finding that a person has violated this chapter, the Hearings Officer may impose fines, fees, costs and expenses, including costs and expenses of holding a dog in impoundment, which shall become a debt owing to Clackamas County and may be collected in the same manner as any other debt allowed by law. If fines, fees, costs or expenses are not paid within sixty (60) days after payment is ordered, the County may file and record the Final Order for payment in the County Clerk Lien Record as authorized by ORS 30.460. 2. If the Hearings Officer finds that the alleged violation did not occur, the County shall reimburse the owner for any fines, fees, costs and expenses previously paid by the owner for the alleged violation. 3. The Hearings Officer may order payment of the County's attorney fees and prosecution costs to include staff time for any violation of this Chapter. B. Conditions and Restrictions; Restitution; Euthanasia. 1. Upon a finding that a person has violated this chapter, in addition to and not in lieu of any fine, fee, cost or expense, the Hearings Officer may impose restitution, euthanasia, and reasonable conditions and restrictions, including but not limited to: a. Suspend the owner's right to own or keep any animal in Clackamas County for a period not to exceed five (5) years; b. Upon sufficient proof order restitution to any person who has suffered actual monetary loss as a result of a violation of this chapter, including but not limited to expenses incurred for veterinary care, burial and memorial expenses, repair or replacement of damaged property, or medical bills; c. Require the owner to spay or neuter the animal; d. Require the owner to remove the animal to a location where the animal does not present a threat to persons, domestic animals or livestock; e. Require the owner to surrender the animal to the County; f. After consideration of the factors set forth in ORS 609.093, require euthanasia when an animal has bitten or killed a person, domestic animal or livestock. The Hearings Officer may also consider the public nuisance violation history of the animal and owner to include all known determinations by any court, governing body, official or agency of any local or state government without regard to where or when the incident occurred; g. Require that the owner comply with any other condition or restriction reasonably designed to abate any future violation of this chapter; h. Require that the owner obtain microchip identification for the animal; i. Require the owner to reduce the number of animals on the owner's premises. 2. Any condition or restriction imposed by a Hearings Officer must be complied with immediately unless otherwise ordered. The County may request that an owner provide proof of compliance by a date certain. If proof is not provided, or proof is insufficient, then a rebuttable presumption will exist that the owner has failed to comply and the owner may be cited for the violation of Failure to Comply in accordance with this chapter. 3. An owner shall be responsible for all costs incurred in complying with any condition or restriction imposed. 4. When an animal has been ordered surrendered and the County has determined that the animal qualifies for adoption, the County may give placement preference to any person who had prior contact with the animal, including but not limited to the former owner's family members or friends who reside separately from the former owner and whom the County has determined will provide adequate care and follow all conditions or restrictions imposed by the Hearings Officer in order to maintain control of the animal. [Codified by Ord. 05-2000, 7/13/00; Amended by Ord. 05-2003, 3/13/03; Amended by Ord. 01-2004, 4/8/04; Amended by Ord. 05-2010, 7/1/10; Amended by Ord. 08-2012, 8/2/12; Amended by Ord. 03-2014, 7/31/14; Amended by Ord. 01-2024, 3/21/24] 5.01.090 Authority of Dog Services Manager In accordance with this chapter, the Dog Services Manager shall have the authority to: A. Collect fines, fees, costs and expenses. B. Authorize a dog owner to keep a licensed dog that has been impounded and quarantined at the premises of the owner during the period of quarantine. C. Declassify a dog as dangerous in accordance with this chapter. D. Require a cited person to provide proof of compliance with a Hearings Officer's Final Order. E. Inspect the premises of a dog owner to ensure compliance with this chapter; F. Develop and enforce policies, procedures and standards to ensure the effective administration of this chapter. [Added by Ord. 01-2004, 4/8/04; Amended by Ord. 05-2010, 7/1/10; Amended by Ord. 03- 2014, 7/31/14; Amended by Ord. 01-2024, 3/21/24] 5.01.100 Transition [Added by Ord. 01-2004, 4/8/04; Repealed by Ord. 08-2012, 8/2/12] 5.01.110 Severability If any portion of this chapter is declared unconstitutional or invalid for any reason or cause, the remaining portion of this chapter shall remain in full force and effect and be valid as if the invalid portion had not been incorporated herein. [Added by Ord. 01-2004, 4/8/04; Amended by Ord. 05-2010, 7/1/10; Amended by Ord. 01- 2024, 3/21/24] 5.01.120 Enforcement of Other Laws A. Enforcement of Dogs. Pursuant to ORS 203.035; 153.030; 609.015 and ORS 609.135, to the extent there is any conflict, this chapter supersedes enforcement in the County of the following state statutes regarding control of dogs: ORS 609.030 and 609.035 to 609.110; 609.155; 609.158; 609.165; 609.170; 609.180; 609.190. B. Enforcement of Rabies Control. Rabies control shall be enforced by the Clackamas County Health Officer in cooperation with the Dog Services Manager in accordance with ORS 433.340 to 433.390. C. Enforcement of Violations Involving Livestock. When a dog is determined to be a Public Nuisance under this chapter for menacing, biting, injuring or killing livestock, in addition to all other provisions and regulations of this chapter the following state statutes apply: ORS 609.125; 609.156; 609.161; 609.162; 609.163; 609.167; 609.168. D. Enforcement of Possession of Dogs. The number of dogs possessed by a person shall be limited as provided in ORS 167.374. In addition to all other provisions and regulations of this chapter, ORS 167.374 shall apply. E. Other Laws Apply. Except as expressly provided in this chapter, this chapter shall in no way be a substitute for or eliminate the necessity of conforming with any and all state and federal laws, rules and regulations, and other ordinances which relate to the requirements provided in this chapter. [Added by Ord. 05-2010, 7/1/10; Amended by Ord. 08-2012, 8/2/12; Amended by Ord. 02- 2015, 2/5/15; Amended by Ord. 01-2024, 3/21/24] 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ SHORTCUTS 
+ 
+ 
+ 
+ Jobs Procurement Process, Contracts and Grants Pay Online CMap Contact the County Report a Hazard County Code Public Records Request HIPAA/Privacy Concerns Civil Rights ACA Complaint Form Accessibility Statement Title VI Compliance Plan Website Privacy Media Contacts 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ELECTED OFFICIALS 
+ 
+ 
+ 
+ Chair Craig Roberts Commissioner Diana Helm Commissioner Paul Savas Commissioner Martha Schrader Commissioner Ben West   County Assessor/Tax Collector Bronson Rueda County Clerk Catherine McMullen District Attorney John Wentworth Justice of the Peace Kathleen Rastetter Sheriff Angela Brandenburg Treasurer Brian Nava 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can’t find what you're looking for? 
+ 
+ 
+ 
+ 
+ Search Box 
+ 
+
+ 
+ enter your search here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2026 Clackamas County

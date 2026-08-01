@@ -1,0 +1,149 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-index-part-2
+title: 'Index - Part 2'
+doc_type: ordinance
+citation: 'Index - Part 2'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/Administrative%20Code/Index%20-%20Part%202.pdf?t=202405141548090
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d56fd136f68fc986b792b0a41f2c0ef8690acc6a25c92673e77fb1be75557169
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Index - Part 2 (Index - Part 2)
+
+## At a glance
+
+Index - Part 2 — code of Jackson County. 4 pages.
+
+## Full text
+
+CODIFIED ORDINANCES OF JACKSON COUNTY
+PART TWO - ADMINISTRATION CODE
+________
+
+TITLE T
+WO - General Provisions
+ Chap. 202. Codified Ordinances.
+ Chap. 203. Code Enforcement.
+ Chap. 204. Abandoned Personal Property.
+ Chap. 205. Official Standards.
+ Chap. 206. Elections.
+ Chap. 208. Contracts.
+ Chap. 209. Formation or Change of Special District Boundaries.
+ Chap. 211. Fees.
+ Chap. 212. Law Enforcement Duties to Inventory Property.
+TITLE FOUR - Legislation
+ Chap. 213. Board of County Commissioners.
+ Chap. 214. Ordinances and Orders.
+TITLE SIX - Administration
+ Chap. 216. County Administrator.
+ Chap. 217. County Clerk.
+ Chap. 218. County Auditor
+ Chap. 219. County Counsel.
+ Chap. 220. District Attorney.
+ Chap. 222. County Treasurer.
+    (Repealed by Ord. 2003-4. Passed 1-22-03.)
+ Chap. 223. County Assessor.
+ Chap. 225. County Surveyor.
+ Chap. 226. Public Guardian and Conservator.
+ Chap. 228. Finance Department.
+ Chap. 229. Sheriff's Department.
+ Chap. 230. Development Services Department.
+ Chap. 231. Parks and Recreation Department.
+    (Repealed by Ord. 2003-4. Passed 1-22-03.)
+ Chap. 232. Public Works Department.
+    (Repealed by Ord. 2003-4. Passed 1-22-03.)
+ Chap. 234. Community Human Services Department.
+    (Repealed by Ord. 89-10. Passed 9-13-89.)
+ Chap. 235. Health Department.
+    (Repealed by Ord. 89-10. Passed 9-13-89.)
+ Chap. 236. Health and Human Services Department.
+ Chap. 237. Planning and Development Department.
+    (Repealed by Ord. 2003-4. Passed 1-22-03.)
+ Chap. 238. Airport Department.
+ Chap. 240. Library Department.
+    (Repealed by Ord. 2010-6. Passed 6-9-10.)
+ Administration Code 2
+
+ Chap. 241. Juvenile Department.
+    (Repealed by Ord. 2003-4. Passed 1-22-03.)
+ Chap. 243. Community Justice Department.
+ Chap. 244. Organization for Emergency Management.
+TITLE EIGHT - Employment Provisions
+ Chap. 246. Officers and Employees Generally.
+ Chap. 247. Pension Plans.
+TITLE TEN - Boards, Commissions, Committees, Councils and Authorities
+ Chap. 250. Boards, Commissions, Committees, Councils and Authorities
+Generally.
+ Chap. 251. Airport Advisory Committee.
+ Chap. 253. Ambulance Service Advisory Committee.
+    (Repealed by Ord. 98-4. Passed 1-28-98)
+ Chap. 254. Animal Control Advisory Committee.
+    (Repealed by Ord. 2003-4. Passed 1-22-03.)
+ Chap. 255. Audit Committee
+ Chap. 256. Boards of Property Tax Appeals.
+ Chap. 257. Board of Health; Public Health Advisory Board.
+ Chap. 259. Budget Committee.
+ Chap. 260. County Health and Human Services Advisory Committees.
+ Chap. 261. County Roads Committee.
+ Chap. 262. County Road Specifications and Road Variance Advisory Committee.
+ Chap. 263. Economic Development Advisory Committee.
+    (Repealed by Ord. 2007-2. Passed 1-31-07.)
+ Chap. 264. Jackson-Josephine Region Regional Board.
+ Chap. 265. Fair Board.
+ Chap. 266. Farm Board of Review.
+ Chap. 268. Hearings Council.
+ Chap. 269. Housing Authority.
+ Chap. 270. The Job Council.
+    (Repealed by Ord. 2017-1. Passed 3-01-17)
+ Chap. 271. Commission on Children and Families.
+ Chap. 272. Law Library Advisory Committee.
+ Chap. 274. Library Advisory Committee.
+    (Repealed by Ord. 2014-10. Passed 11-26-14)
+ Chap. 275. Local Contract Review Board.
+ Chap. 277. Parks and Recreation Advisory Committee.
+ Chap. 278. Planning Commission.
+ Chap. 280. Private Industry Council.
+ Chap. 281. Regional Solid Waste Committee.
+ Chap. 282. Rogue Valley Workforce Consortium.
+ Chap. 283. Status of Women Advisory Committee.
+ Chap. 284. Taylor Grazing Advisory Committee.
+ Chap. 286. Telecommunications Advisory Committee.
+ Chap. 287. Unified Board of Appeals.
+2A Administration Code
+
+ Chap. 289. Vector Control Committee.
+ Chap. 292. Welfare Board.
+ Chap. 293.  County Wolf Advisory Committee.
+ Chap. 294. County Hearings Officer.
+ Chap. 295. Marijuana Advisory Committee
+TITLE TWELVE - Judiciary
+ Chap. 296. Justice of the Peace.
+ Chap. 298. District Court.
+ Chap. 299. Circuit Court.
+  2B
+
+THIS PAGE RESERVED FOR EXPANSION

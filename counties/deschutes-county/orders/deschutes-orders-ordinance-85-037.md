@@ -1,0 +1,1478 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-85-037
+title: 'Ordinance No. 85-037'
+doc_type: ordinance
+citation: 'Ordinance No. 85-037'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616612430_1986-00240-Ordinance%20No.%2085-037%20Recorded%2012_31_1985.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8f35fae7752d94fffbf15c9f4299ed82b8e0d50aaf0b30393ecfe6d67bf86918
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 85-037 (Ordinance No. 85-037)
+
+## At a glance
+
+Ordinance No. 85-037 — orders of Deschutes County. 32 pages.
+
+## Full text
+
+VOL 70 FhuEIII
+86 002 i0 1"5OEC31 p
+BEFORETHEBOARDOFCOUNTYCOMMISSIONERSOFDES %MW COUN?4-',%SEGON
+t ,
+31,E P . t
+g. COUtl
+yCI IJ o l
+An Ordinance Relating To
+L
+Solid Waste Management
+Including Accumulation,
+Storage, Collection, Trans-
+portation, Disposal, and
+Recycling of Waste and Solid
+Waste; Franchising of Solid
+Waste Collection, Disposal
+And Recycling; Repealing Con-
+flicting Ordinances;
+Providing Penalties,
+Declaring An Emergency And
+Prescribing An Effective Date.*
+ORDINANCE NO. 85- 037
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+ARTICLE I. GENERAL PROVISIONS
+Section 1. 01. SHORT TITLE. This ordinance shall be known
+as the " Solid Waste Management Ordinance".
+Section 1. 02. INDEX.
+ARTICLE I. GENERAL PROVISIONS
+Section 1. 01. Short Title pg. 1
+Section 1. 02. Index pg. 1
+Section 2. 01. Purpose and Policy pg. 4
+Section 3. 01. Authority pg. 5
+Section 4. 01. General Definitions pg. 5
+Section 5. 01. Administration pg- 8
+Section 5. 02. Persons and Practices Exempted pg. 8
+ARTICLE II. SOLID WASTE ADVISORY COMMITTEE.
+Section 6. 01. Solid Waste Advisory Committee pg. 10
+1 - ORDINANCE NO. 85- 037
+y
+4 i
+VOL 70 FACE112
+Section 6. 02. Appointment of Solid Waste
+pg. 12
+Section 8. 02. Education, Promotion and
+Advisory Committee pg. 10
+Section 6. 03. Duties of Solid Waste
+Section 8. 03. Recycling Report pg.
+Advisory Committee pg. 11
+Section 6. 04. Regional Solid Waste Committee pg. 11
+ARTICLE III. REGULATION OF SOLID WASTE MANAGEMENT.
+DISPOSAL AND RECYCLING.
+Section 7. 01. Regulation of Solid Waste
+9. 01. Persons, activities and
+Management pg. 11
+ARTICLE IV. RECYCLING.
+Section 8. 01. Opportunity to Recycle pg. 12
+Section 8. 02. Education, Promotion and
+Notification pg. 12
+Section 8. 03. Recycling Report pg. 12
+Section 8. 04. Prohibited Activities pg. 12
+ARTICLE V. FRANCHISING OF SOLID WASTE COLLECTION,
+DISPOSAL AND RECYCLING.
+Section 9. 01. Persons, activities and
+practices regulated pg. 12
+Section 9. 02. Applications for Franchises pg. 13
+Section 9. 03. Existing Collection, Disposal
+and Recycling Service Providers pg. 14
+Section 9. 04. Specific Collection Franchise
+Requirements pg. 14
+Section 9. 05. Specific Disposal Franchise
+Requirements pg. 15
+Section 9. 06. Expansion of Collection
+Franchise Service Area pg. 16
+Section 9. 07. Review of Applications for
+Franchises pg. 16
+Section 9. 08. Board action on Applications
+for Franchises pg. 17
+Section 9. 09. Types of Franchises pg. 18
+Section 9. 10. Appeal from Determination of
+Board on Franchise pg. 18
+2 - ORDINANCE NO. 85- 037
+VOL 70 FAGS110
+Section 9. 11. Franchise Terms and Renewals pg. 19
+Section 9. 12. Responsibilities of Franchisees pg. 19
+Section 9. 13. Enforcement and Corrective
+Action p4. 21
+Section 9. 14. Preventing Interruption of
+Service pg. 22
+Section 9. 15. Suspension, Modification,
+Revocation, or Refusal to Renew
+Franchise pg. 23
+Section 9. 16. Franchise Fees pg. 24
+Section 9. 17. Use of Franchise Fees pg. 25
+Section 9. 18. Transfer of Franchises pg. 25
+ARTICLE VI. RATES FOR COLLECTION, RECYCLING AND DISPOSAL
+SERVICE.
+Section 10. 01. Existing Rates pg. 25
+Section 10. 02. Rate Standards pg. 25
+Section 10. 03. Rate Adjustments pg. 26
+Section 10. 04. Rate Preferences Prohibited pg. 28
+Section 10. 05. Responsibility for Payment of
+Charges for Service pg. 28
+Section 10. 06. Franchisee Billings to
+Customers pg. 29
+ARTICLE VII. REGIONAL COLLECTION AND DISPOSAL.
+Section 11. 01. Agreements for Joint
+Franchising or Planning pg. 29
+Section 11. 02. Agreements for Allocation
+of Franchise Fees pg. 29
+Section 11. 03. Commercial Hauling and Self -
+Hauling Disposal Regulation
+and Fees pg. 29
+ARTICLE VIII. SOLID WASTE NUISANCE ABATEMENT.
+Section 12. 01. Creation of Nuisance by
+Accumulation or Unauthorized
+Disposal of Solid Waste pg. 29
+3 - ORDINANCE NO. 85- 037
+VOL 70 FACE
+Section 12. 02. Abatement of Solid Waste
+Nuisances pg. 30
+Section 12. 03. Civil Action to Abate Nuisances pg. 30
+Section 12. 04. Unauthorized Disposal pg. 31
+Section 12. 05. Transportation of Solid Waste pg. 31
+ARTICLE IX. APPEALS, ENFORCEMENT AND PENALTIES.
+Section 13. 01. Appeals from Decisions of
+the Board pg. 31
+Section 13. 02. Appeals from Decisions of the
+Administrator pg. 31
+Section 13. 03. Enforcement pg. 31
+Section 13. 04. Penalties pg. 32
+ARTICLE X. CONSTRUCTION, REPEAL OF CONFLICTING
+ORDINANCES, AND EMERGENCY CLAUSE AND
+EFFECTIVE DATE.
+Section 14. 01. Construction pg. 32
+Section 14. 02. Repeal of Conflicting
+Ordinances pg. 32
+Section 14. 03. Emergency Clause and
+Effective Date pg. 32
+Section 2. 01. PURPOSE AND POLICY. To protect the health,
+safety and welfare of the people of Deschutes County, to provide
+a coordinated solid waste management program, and to provide the
+opportunity to recycle, it is declared to be the policy of Des-
+chutes County to regulate solid waste management by:
+1) Following the priorities on managing solid waste pro-
+vided in ORS 459. 015( 2), giving due consideration to economic and
+technical feasibility.
+2) Providing for safe and sanitary accumulation,
+storage,
+collection, transportation and disposal of solid waste.
+3) Prohibiting accumulation of waste or solid waste on
+private property in such manner as to create a public nuisance, a
+hazard to health or a condition of unsightliness, and to provide
+for the abatement of such conditions where found.
+4) Providing the opportunity to recycle as part of the
+overall solid waste collection, transportation and disposal sys-
+tems, taking advantage, where possible, of coordinated area - wide
+4 - ORDINANCE NO. 85- 037
+VOL 70 FAGE115
+service, promotion, education and marketing.
+5) Developing a regional long- range plan to provide ade-
+quate disposal and recycling sites and facilities to meet future
+demands.
+6) Providing for a coordinated county - wide solid waste
+management and recycling plan in cooperation with federal, state
+and local agencies responsible for the prevention, control or
+abatement of air, water and ground pollution and prevention of
+litter.
+7) Providing for public input in solid waste management
+and recycling through the Solid Waste Advisory Committee.
+8) Providing for a coordinated solid waste management and
+recycling plan with cities within Deschutes County and with other
+counties or cities should regional plans be developed.
+9) Providing for cooperation and agreements between Des-
+chutes County and other counties involving joint or regional
+franchising of solid waste collection, disposal and recycling.
+10) Providing minimum standards for location and operation
+of solid waste disposal and recycling sites to protect adjacent
+and nearby residents.
+11) Providing for and encouraging research, studies, sur-
+veys and demonstration projects on developing more sanitary,
+efficient and economical solid waste management systems.
+12) Encouraging utilization of the capabilities and ex-
+pertise of private industry in accomplishing the purposes of this
+ordinance.
+Section 3. 01. AUTHORITY. This ordinance is adopted pur-
+suant to ORS Chapters 190, 203, and 459.
+Section 4. 01. GENERAL DEFINITIONS. For the purpose of this
+ordinance, and where appropriate in the context, words used in
+the present tense include the future, the singular number
+includes the plural, the word " shall" is mandatory and not
+directory, and the term " this ordinance" shall be deemed to
+include all amendments hereafter made to this ordinance.
+1) ADMINISTRATOR. The County Engineer, County Health
+Officer, County Sanitarian or other person designated by reso-
+lution of the Board to administer this ordinance, and the duly
+authorized deputy or assistant of such person.
+2) BOARD. The Board of County Commissioners of Deschutes
+County.
+3) COLLECTION FRANCHISE. A franchise to collect, trans-
+port, dispose of, deposit or store solid waste and recyclable
+5 - ORDINANCE NO. 85- 037
+r i ,
+I VOL iJ0
+materials.
+4) COLLECTION VEHICLE. Any vehicle used to collect or
+transport solid waste and recyclable material.
+5) COMMERCIAL HAULER. A collection franchisee whose
+principal business is the collection, transportation and disposal
+of solid waste and recyclable material.
+6) COMMITTEE. The Solid Waste Advisory Committee.
+7) COMPENSATION. Any type of consideration given for ser-
+vice, including, but not limited to, direct or indirect compen-
+sation by tenants, occupants, licensees or similar persons.
+8) DEPOT. A permanent or temporary facility, container or
+box provided for persons to deposit totally source - separated
+materials for recycling or reuse.
+9) DISPOSAL. Accumulation, storage, collection, trans-
+portation and disposal of solid waste.
+10) DISPOSAL FRANCHISE. A franchise to create or maintain
+a disposal site.
+11) DISPOSAL SITE. Any land and facilities used for the
+disposal, handling or transfer of or resource recovery from solid
+waste, including, but not limited to, dumps, sludge lagoons and
+treatment facilities, landfills, sanitary landfills, compost-
+ing plants, transfer stations and incinerators. " Disposal site"
+does not include a landfill site which is subject to the permit
+requirements of ORS 468. 740 or 481. 345, or a site which is not
+used by the public either directly or through a service and which
+is used by the owner or person in control thereof to dispose of
+wood scrap, sawdust, bark, soil, rock, building demolition
+material or nonputrescible industrial waste products resulting
+from the process of manufacturing.
+12) FRANCHISE. A license to provide service issued by the
+Board for a fee pursuant to this ordinance.
+13) FRANCHISEE. A person to whom the Board has granted a
+franchise.
+14) GENERATOR ( OF SOLID WASTE). A person who possesses and
+controls an item or material immediately prior to and at the time
+it becomes waste or solid waste, or a person who last used an
+item or material and makes it available for recycling or reuse.
+15) HAZARDOUS WASTE. Any waste: ( a) defined as hazardous
+by or pursuant to ORS Chapter 459; or ( b) that may, by itself or
+in combination with other materials, be radioactive, infectious,
+explosive, poisonous, caustic, toxic or otherwise dangerous or
+injurious to human, plant or animal life.
+6 - ORDINANCE NO. 85- 037
+16) INCINERATOR. A combustion device specifically designed
+for the reduction by burning of solid, semi- solid or liquid
+waste.
+17) LANDFILL. A disposal site operated by means of com-
+pacting and covering solid waste at specific designated inter-
+vals, but not each operating day.
+18) NON - COMMERICAL HAULER. A collection franchisee whose
+principal business is other than the collection, transportation
+and disposal of solid waste and recyclable material.
+19) ON - ROUTE COLLECTION. Pick up of source - separated
+recyclable material from the generator at the place of
+generation.
+20) PERSON. Means and includes individuals, corporations,
+associations, firms, partnerships and joint stock companies.
+21) PUTRESCIBLE MATERIAL. Organic material that can decom-
+pose and may give rise to foul smelling, offensive products.
+22) RECYCLE OR RECYCLING. Use of any process by which
+solid waste is transformed into new products in such a manner
+that the original material may lose its identity.
+23) RECYCLABLE MATERIAL. Any material that can be
+collected and sold for recycling at a net cost equal to or less
+than the cost of collection and disposal of the same material.
+24) REGULATIONS. Regulations promulgated by the Board
+pursuant to this ordinance.
+25) RESOURCE RECOVERY. The process of obtaining useful
+material or energy resources from solid waste, including recy-
+cling and reuse.
+26) REUSE. Return of material into the economic stream for
+use in the same kind of application as before without change in
+its identity.
+27) RULES. Rules promulgated by state agencies pursuant to
+ORS Chapter 459.
+28) SANITARY LANDFILL. A disposal site operated by means
+of compacting and covering solid waste at least once each oper-
+ating day.
+29) SELF - HAULING. Transportation by a generator of such
+person' s own waste, solid waste or recyclable material directly
+to a disposal or recycling site or depot. Self - hauling includes
+the transportation of solid waste or recyclable material which
+the generator produces as an incidental part of the generator' s
+business, such as waste incidental to restaurants, janitorial
+7 - ORDINANCE NO. 85- 037
+service, gardening or landscaping,
+Waste incidental to the generator' s
+accumulated or stored waste of the
+clients.
+VOL 70 FADE118
+carpentry, rendering, etc.
+business does not include the
+generator' s customers or
+30) SERVICE. Collection, transportation, transfer,
+disposal or recycling of solid waste or recyclable material for
+compensation. " Service" does not include self - hauling.
+31) SERVICE AREA. The geographical area or premises in
+which service, other than operation of a disposal site, is or has
+been provided.
+32) SOLID WASTE. All putrescible and non- putrescible
+waste, whether in solid or liquid form, exept liquid - carried
+industrial waste or sewage or sewage sludge hauled as an in-
+cidental part of a septic tank or cesspool cleaning service, but
+including garbage, rubbish, ashes, paper, cardboard, sewage
+sludge, street refuse, industrial waste, swill, demolition and
+construction waste, abandoned vehicles or parts thereof, dis-
+carded home and industrial appliances, manure, vegetable or ani-
+mal solid and semi- solid waste, dead animals and other discarded
+solid material.
+33) SOLID WASTE MANAGEMENT. Prevention or reduction of
+solid waste accumulation, including management of storage, col-
+lection, transportation, treatment, utilization, processing and
+final disposal or salvage, source - separation, recycling or reuse
+of and resource recovery from solid waste, and necessary
+facilities therefor.
+34) TRANSFER STATION. A fixed or mobile facility normally
+used as an adjunct of a solid waste collection and disposal sys-
+tem or resource recovery system between a collection route and a
+disposal site.
+35) WASTE. Useless, unwanted or discarded material.
+36) WASTESHED. The geographic area within Deschutes
+County.
+Section 5. 01. ADMINISTRATION. The Adminstrator, under the
+supervision of the Board and with the assistance of the Com-
+mittee, shall be responsible for the enforcement of this ordi-
+nance. In order to carry out the provisions of this ordinance,
+the Administrator shall enter or authorize personnel to enter on
+the premises of any person subject to this ordinance at
+reasonable times and in a reasonable manner to determine com-
+pliance with this ordinance, regulations and franchises promul-
+gated and issued pursuant thereto.
+Section 5. 02. PERSONS AND PRACTICES EXEMPTED.
+1) This ordinance shall not apply to:
+8 - ORDINANCE NO. 85- 037
+vol.
+70 = 1f.9
+a) Areas lying within the limits of any incorporated
+municipality actively operating as such in the
+absence of a mutual agreement between the city and
+Deschutes County.
+b) Federal or state agencies that collect, store,
+transport or dispose of waste or solid waste, or
+those persons who contract with such agencies to
+perform service, but only as to the terms for
+collection or disposal service under the contract.
+This exemption does not apply to disposal at a
+disposal site operated by a franchisee under this
+ordinance.
+c) Auto dismantling pursuant to ORS 481. 345 to
+481. 370.
+d) The collection, transportation and reuse or re-
+cycling of totally source - separated materials by
+religious, charitable, benevolent or fraternal
+organizations for fundraising, or by any person
+when the source - separated materials are generated
+by the person and are purchased from or exchanged
+by the generator for fair market value for reuse
+or recycling.
+e) The collection, transportation, deposit and
+disposal by the owner of residential property of
+solid waste or recyclable material generated by
+tenants or occupants of the property. For
+purposes of this subsection, " residential
+property" means real property or improvements, or
+both, in or upon which a person resides, and
+includes any structure used as a residence, either
+primary or secondary.
+f) Any person or practice which is exempted by
+resolution of the Board. In determining whether
+to exempt a person or practice pursuant to this
+subsection, the Board shall consider the following
+factors:
+i)
+9 - ORDINANCE NO. 85- 037
+The impact of granting the exemption
+upon affected existing franchises;
+The impact of requiring the affected
+person to obtain a franchise;
+The impact of granting or denying the
+exemption on the quality of solid waste
+collection, transportation, deposit and
+disposal for the affected persons.
+VOL 70 FACT120"
+2) In addition to the exemptions in subsection ( 1) of this
+section, sections 12. 01 to 12. 04 of this ordinance shall not
+apply to:
+a) Disposal sites franchised under provisions of this
+ordinance and in compliance with this ordinance.
+b) Agricultural operations, growing or harvesting of
+crops and the raising of fowl or animals.
+ARTICLE II. SOLID WASTE ADVISORY COMMITTEE.
+Section 6. 01. SOLID WASTE ADVISORY COMMITTEE. The Solid
+Waste Advisory Committee, created by Ordinance No. CG - 4, as
+amended, is continued. The committee includes:
+1) Seven members, consisting of:
+a) One ( 1) member with an engineering or technical
+background.
+b) One ( 1) member who is a franchisee under Section
+9. 03 of this ordinance or the franchisee' s
+designated representative.
+c) Five ( 5) lay members.
+2) Committee advisors including the County Building
+Inspector, Sanitarian and Engineer or their representatives.
+Section 6. 02. APPOINTMENT OF SOLID WASTE ADVISORY
+COMMITTEE.
+1) Members, ex - officio members and advisors shall be ap-
+pointed by the Board. The Board may appoint additional persons
+to the Committee in these categories. The Board may appoint or
+approve designation of alternates to serve in the absence of
+persons appointed to the Committee.
+2) Public employe members shall serve for the terms of
+their offices. Appointment of other persons as members shall be
+for staggered terms not to exceed four years. Members shall
+serve until their successors are appointed and qualified.
+Vacancies shall be filled by the Board for the balance of the
+unexpired terms.
+3) The Board shall appoint one member as Chairperson and
+another as Vice - Chairperson, both of whom shall serve in that
+capacity at the pleasure of the Board. Five members of the
+Committee shall constitute a quorum for the transaction of
+business. The Committee shall meet at such times as deemed
+necessary or as called by the Board. The Chairperson or any
+10 - ORDINANCE NO. 85- 037
+von 70 PAcF121
+three members of the Committee may call a special meeting with
+ten days' notice to other members of the Committee, provided,
+however, that members may waive such notice.
+Section 6. 03. DUTIES OF SOLID WASTE ADVISORY COMMITTEE. In
+addition to other duties prescribed by this ordinance, the Com-
+mittee shall:
+1) Make an annual report to the Board containing recom-
+mendations on development and implementation of a solid waste
+management plan and any necessary regulations or amendments to
+this ordinance.
+2) In consultation with responsible public officials and
+with persons providing service:
+a) Develop and periodically review a solid waste
+management plan including regional disposal and
+recycling sites and necessary disposal and re-
+cycling systems for review, adoption or modifi-
+cation by the Board.
+b) Develop and recommend to the appropriate agency or
+the Board minimum standards for location and oper-
+ation of disposal and recycling sites including,
+but not limited to, protection of adjacent and
+nearby residents.
+3) Perform such other duties as are directed by the Board
+or as the Committee may find necessary to effectively carry out
+the purposes of this ordinance.
+Section 6. 04. REGIONAL SOLID WASTE COMMITTEE. The Board
+may appoint one or more members of the Committee to serve on any
+regional solid waste committee to advise the Board.
+ARTICLE III. REGULATION OF SOLID WASTE MANAGEMENT.
+Section 7. 01. REGULATION OF SOLID WASTE MANAGEMENT. Upon
+its own motion or upon recommendation of the Committee, the Board
+may adopt reasonable and necessary regulations governing disposal
+and recycling sites or implementing this ordinance. Such
+regulations shall conform to ORS Chapter 459 and rules
+promulgated pursuant thereto.
+ARTICLE IV. RECYCLING.
+Section 8. 01. OPPORTUNITY TO RECYCLE. All persons in the
+wasteshed shall have the opportunity to recycle, pursuant to ORS
+Chapter 459, as follows:
+1) Landfills and Transfer Stations. All landfills and
+transfer stations open to the public for the disposal of solid
+waste shall provide a place for the deposit of recyclable mate -
+11 - ORDINANCE NO. 85- 037
+VOL 70 FAGS1.22Z
+rial, unless an alternative depot or site is approved by
+resolution of the Board.
+2) Depots. In addition to recycling sites at landfills
+and transfer stations, the Board may approve the location and use
+of temporary or permanent depots for the deposit of recyclable
+material.
+3) Recycling collection. All persons providing service,
+including non- commercial haulers, shall provide all of their
+service customers in the wasteshed within the urban growth
+boundaries of the Cities of Bend and Redmond with on - route
+collection of recyclable materials on at least a monthly basis.
+The Board, by resolution, may require such persons to provide
+on - route collection of recyclable materials more frequently than
+once a month and/ or for persons who are not service customers.
+Section 8. 02. EDUCATION, PROMOTION AND NOTIFICATION. The
+County, in cooperation with the cities in the wasteshed and
+franchisees, shall provide a program of education and promotion
+to encourage recycling within the wasteshed. Notice of the
+opportunity for recycling shall be provided by disposal and
+collection franchisees to persons utilizing the franchisees'
+services.
+Section 8. 03. RECYCLING REPORT. The County, in cooperation
+with the cities in the wasteshed and franchisees, shall develop
+and submit a recycling report to the State Department of Environ-
+mental Quality. The report will describe how the opportunity to
+recycle is being provided to persons within the wasteshed.
+Section 8. 04. PROHIBITED ACTIVITIES. No person shall:
+1) Without permission of the owner or generator of recy-
+clable material, take recyclable material set out to be collected
+by a collection franchisee or other person providing service.
+2) Remove recyclable material from a container, box, col-
+lection vehicle, depot or other receptacle for recyclable mate-
+rial without permission of the owner or person in control of the
+receptacle.
+3) Mix source - separated recyclable material with solid
+waste in any vehicle, box, container or receptacle used in solid
+waste collection or disposal.
+4) Place solid waste in any vehicle, box, container, depot
+or receptacle used for recyclable material.
+ARTICLE V. FRANCHISING OF SOLID WASTE COLLECTION,
+DISPOSAL AND RECYCLING.
+Section 9. 01. PERSONS, ACTIVITIES AND PRACTICES REGULATED.
+Unless exempted under Section 5. 02 of this ordinance, no person
+12 - ORDINANCE NO. 85- 037
+i VEL 70 FAGS' 123
+shall provide service except as authorized by a collection or dis-
+posal franchise issued pursuant to this article.
+Section 9. 02. APPLICATIONS FOR FRANCHISES.
+1) Application for a franchise shall be made on forms
+provided by the Administrator. The Administrator may require the
+filing of additional information necessary to determine com-
+pliance with this ordinance, ORS Chapter 459 and regulations and
+rules promulgated thereunder together with any other applicable
+laws or county ordinances.
+2) The applicant for a collection or disposal franchise
+shall demonstrate to the Board' s satisfaction that the applicant:
+a) Has sufficient vehicles, equipment, land, facil-
+ities, personnel and financial resources to pro-
+vide the proposed service and to meet the stan-
+dards established by this ordinance, ORS Chap-
+ter 459 and regulations or rules promulgated there-
+under.
+b) Has in force public liability insurance in the
+amount of not less than $ 100, 000 per person and
+300, 000 per accident for bodily injury, and not
+less than $ 50, 000 for property damage, which shall
+be evidenced by a certificate of insurance. Des-
+chutes County shall be a named co- insured on such
+policy. The policy and certificate shall provide
+that it may not be cancelled without 30 days'
+written notice to the Board.
+c) Has sufficient experience in properly providing
+service of comparable quality and quantity to
+insure compliance with this ordinance, any regu-
+lations promulgated thereunder and any franchise
+issued to the applicant. If the applicant does
+not prove to the satisfaction of the Board that
+the applicant has sufficient experience, the Board
+may require the applicant to submit a corporate
+surety bond in an amount not to exceed $ 20, 000,
+issued by a person or company authorized to do
+business in the State of Oregon, guaranteeing full
+and faithful performance by the applicant of the
+service and of all duties and obligations of a
+franchisee under this ordinance. If the applicant
+is applying for more than one franchise, the Board
+may permit the applicant to provide a single bond
+covering all such liabilities.
+For commercial haulers, the amount of the bond
+shall be determined by the Board based upon the
+applicant' s actual or projected annual gross
+receipts. For non- commercial haulers, the amount
+13 - ORDINANCE NO. 85- 037
+f y
+VOL 70 FACE124
+of the bond shall be set by the Board based upon
+the annual cost of collection service, as
+described in Section 9. 16 of this Ordinance. The
+Board may waive the surety bond in the case of an
+applicant who is a non- commercial hauler or whose
+total landfill disposal fees do not exceed $ 100
+per month.
+3) Applicants shall specify the nature, type and extent of
+service to be provided, any solid waste or recyclable material
+that will not be accepted for collection, disposal, or recycling,
+and any special requirements for the handling of hazardous waste.
+Section 9. 03. EXISTING COLLECTION, DISPOSAL AND RECYCLING
+SERVICE PROVIDERS. Persons providing collection, disposal or
+recycling service on the effective date of this ordinance,
+whether or not that service has been provided pursuant to a
+franchise or for direct compensation, and who are not exempted
+under Section 5. 02 of this ordinance, shall file an application
+for an appropriate franchise together with any required infor-
+mation within 30 days after the effective date of this ordinance.
+Upon filing the application, such person may continue providing
+existing service until a final determination on the application
+is made by the Board or a court on appeal. Persons who meet the
+applicable qualifications of this article and who were providing
+collection, disposal or recycling service on the effective date
+of this ordinance shall be awarded a collection or disposal
+franchise for the area served on the effective date of this
+ordinance.
+Section 9. 04. SPECIFIC COLLECTION FRANCHISE REQUIREMENTS.
+An applicant for a collection franchise or franchise renewal
+shall demonstrate to the satisfaction of the Board that the
+applicant:
+1) Will use disposal sites and recycling depots authorized
+by the Board.
+2) Will provide the opportunity to recycle as required by
+Section 8. 01 of this ordinance and the terms of the franchise.
+3) Is either:
+a) Currently providing collection service in the
+service area for which the applicant applies on
+the effective date of this ordinance, whether or
+not pursuant to a franchise or for direct com-
+pensation, and has a majority of service customers
+in such service area, which shall be evidenced by
+a list of customers served and a map of the
+service area; or
+b) Applying for a service area that: ( i) has not
+been franchised to another person, ( ii) has been
+14 - ORDINANCE NO. 85- 037
+VOL 70 FAvE
+franchised to another person but is not being
+served by the franchisee after notice and a
+reasonable opportunity to do so, or ( iii) is not
+being adequately served by a franchisee and has a
+substantial demand from service customers for a
+change in service to the area.
+4) If applying for a collection franchise for all or a
+part of a service area franchised to another person pursuant to
+subsection ( 3) of this section, will have available on the first
+day of such proposed service collection vehicles,
+containers or
+other equipment equal to that presently used by the current
+franchisee in providing such service and that service would be
+equal to or better than existing service.
+Section 9. 05. SPECIFIC DISPOSAL FRANCHISE REQUIREMENTS.
+1) An applicant for a disposal franchise shall submit a
+duplicate of the information submitted to the Department of En-
+vironmental Quality on a disposal site under ORS Chapter 459 and
+rules promulgated thereunder.
+2) An applicant for a disposal franchise shall demonstrate
+to the satisfaction of the Board that the applicant will provide
+a place for the deposit of recyclable material.
+3) Each applicant for a disposal franchise shall supply a
+plan for rehabilitation and use of the disposal site after dis-
+posal has been terminated, and such use shall be a use permitted
+within the zone in which such land is located. Such plan shall
+be prepared at the scale of not less than one inch to 400 feet
+with topographical contours, an interval of which shall be not
+less than 25 feet. In the discretion of the Administrator or
+Board, the applicant may be required to furnish a map showing
+greater detail to determine compliance with this ordinance and
+standards established by the Board. Amended plans may be
+submitted for approval in the same manner as initial plans.
+4) Where the land upon which a disposal site would be
+located is privately owned, the owner of the land and the fran-
+chise applicant shall, on forms furnished by the Administrator,
+jointly and severally agree to authorize,
+accept, and be re-
+sponsible or liable for the following:
+a) The entry upon the subject premises by persons
+designated to administer this ordinance to
+determine compliance with this ordinance and the
+performance of the obligations of the franchisee
+and the landowner.
+b) Proper establishment, maintenance and operation of
+the disposal site as required by this ordinance
+and applicable provisions of ORS Chapter 459,
+15 - ORDINANCE NO. 85- 037
+va 70 PA,F126
+rules promulgated thereunder and other applicable
+laws or county ordinances.
+c) Rehabilitation or restoration of the site upon
+termination of disposal under the land use plan
+submitted pursuant to subsection ( 2) of this sec-
+tion or any amendment thereto.
+d) The entry upon the subject premises by persons
+designated by the Board to properly establish,
+maintain, operate, rehabilitate or restore the
+site where the landowner or franchisee does not
+comply with the agreement executed pursuant to
+this subsection after written notice and a reason-
+able opportunity to comply as provided in section
+9. 13 of this ordinance.
+5) The Board may order the filing in the county deed re-
+cords of the agreements executed pursuant to this section as a
+recorded encumbrance on the real property to assure compliance
+with the conditions and agreements.
+Section 9. 06. EXPANSION OF COLLECTION FRANCHISE AREA. A
+collection franchisee may apply to the Board to expand the
+service area covered by its existing franchise, and the Board may
+allow such expansion only if the following circumstances exist:
+1) The proposed expansion of the franchisee' s service area
+is the result of the development or placement of new residential
+units, such as dwellings, mobile homes, motel rooms, etc., and
+new collection service customers;
+2) The proposed expansion of the franchisee' s service area
+involves an area or premises immediately adjacent to the area or
+premises covered by the franchisee' s existing franchise; and
+3) The proposed expansion of the franchisee' s service area
+involves an area or premises not within any other franchisee' s
+service area.
+Section 9. 07. REVIEW OF APPLICATIONS FOR FRANCHISES.
+1) Administrator' s Review. Applications shall be reviewed
+by the Administrator who shall make such investigation as the
+Adminstrator deems appropriate and who may request assistance of
+other persons as necessary.
+2) Notice. Upon receipt of an application, the Admini-
+strator shall give notice to the holder of or applicant for
+another franchise for any part of the service area under
+consideration, or whose existing or proposed disposal site would
+likely be affected by the franchise application under
+consideration.
+16 - ORDINANCE NO. 85- 037
+z '
+VOL 70 PAGE127
+3) Administrator' s Recommendation. Unless the time is
+extended by the Board for good cause, the Administrator shall
+make a recommendation on the franchise to the Committee within 30
+days after the application and any required supplemental infor-
+mation have been received.
+4) Committee Action. The Committee:
+a) Shall consider the application and the recom-
+mendation of the Administrator at the next regular
+meeting of the Committee or at a special meeting
+called for the purpose.
+b) May require additional investigation to be made or
+information to be submitted.
+c) May, after written notice to interested persons,
+call an informational public hearing to permit
+interested persons to testify orally or in writ-
+ing.
+d) Shall, upon the basis of the application, any
+evidence or testimony submitted and the Admini-
+strator' s recommendation, make a finding on the
+qualifications of the applicant and a finding on
+whether: ( i) additional area should be included,
+ii) additional services should be provided, ( iii)
+additional equipment, facilities, land or per-
+sonnel should be provided, ( iv) conditions should
+be imposed on collection, disposal, or recycling,
+and, ( v) with respect to disposal sites, whether
+the site may be integrated with existing private
+or public sites and whether or not the site is an
+economically feasible disposal site.
+e) Shall, upon the basis of its findings, transmit
+its recommendations to the Board to grant, deny,
+modify or attach appropriate conditions to the
+application and shall transmit to the Board such
+recommendations within 30 days from the date of
+the first meeting on the application.
+Section 9. 08. BOARD ACTION ON APPLICATIONS FOR FRANCHISES.
+1) Order on Application. The Board shall, upon the basis
+of the application, the Adminstrator' s recommendation, the
+Committee' s recommendation and such other information as is
+before the Board, affirm, deny or modify the findings of the
+Committee and make an order granting, denying or modifying the
+application or attaching conditions thereto.
+2) Additional Investigation. The Board may require
+additional investigation by the Administrator or the Committee if
+17 - ORDINANCE NO. 85- 037
+70 PAGE127
+it finds that there is insufficient information on which to base
+its action.
+3) Emergency Order. The Board shall not make an order
+adverse to the applicant, or to the holder of or applicant for
+another affected franchise, effective less than 30 days after the
+date of such order and shall notify such persons in writing of
+the order. The Board may suspend operation of this subsection
+and enter an emergency order if it finds that there is an
+immediate and serious danger to the public or that a health
+hazard or public nuisance would be created by a delay.
+Section 9. 09. TYPES OF FRANCHISES.
+1) Joint Franchise. If, upon recommendation of the Com-
+mittee, the Board finds that the applicant for a collection
+franchise cannot provide complete service to a single customer, a
+group or type of customers, or for a particular type or unusually
+large quantity of recyclable material or solid waste, it may
+issue a franchise for joint service with another person who can
+provide supplemental service.
+2) Exclusive Franchise. Where the Board finds that the
+applicant is able to provide complete and adequate service of all
+types within the defined service area, it shall issue an
+exclusive franchise for that area to the applicant.
+3) Temporary Franchise. Upon recommendation of the Ad-
+ministrator and a finding by the Board that the need for service
+justifies action before a complete investigation and final deter-
+mination can be made, the Board may order the Administrator to
+issue a temporary franchise, valid for a stated period not to
+exceed six months, entitling a person to serve a defined service
+area or customers for that period.
+4) Subcontract. The Administrator may permit the
+franchisee to subcontract for recycling service with another
+person if the Administrator finds that the quality and extent of
+service would not be jeopardized. The Administrator may require
+the filing of additional information, and may request the recom-
+mendation of the Committee on the subcontract. If the franchisee
+enters into a subcontract pursuant to this section, the fran-
+chisee remains responsible for the performance of the require-
+ments of the franchise.
+Section 9. 10. APPEAL FROM DETERMINATION OF BOARD ON
+FRANCHISE.
+1) Notice of Appeal. An applicant for a franchise or
+other affected franchisees or franchise applicants may appeal an
+adverse order of the Board by filing written notice of appeal
+with the Board within 30 days of the date of the order.
+18 - ORDINANCE NO. 85- 037
+2 ) Effect of
+entered, the filing
+of the order until a
+appeal.
+VOL 70 FAGE12k
+Notice. Unless an emergency order has been
+of notice of appeal shall suspend operation
+final determination by the Board on the
+3) Public Hearing. The person appealing may request a
+public hearing on the appeal. The Board, upon its own motion or
+upon request, may set a public hearing to consider the appeal not
+more than 30 days from the date of the notice of appeal.
+4) Board Action. Board action on the appeal shall be
+taken in the same manner as on a franchise application. The
+determination of the Board on appeal shall be final.
+5) Restriction on Reapplication. If the Board makes a
+final order rejecting all or part of the application for a fran-
+chise, the applicant may not submit another application contain-
+ing all or a portion of the same service area or same disposal
+site for a period of six months unless this provision is waived
+by the Board upon a finding that the public interest requires
+reconsideration within a shorter period of time.
+Section 9. 11. FRANCHISE TERMS AND RENEWALS.
+1) Collection Franchises. Unless the Board finds that a
+longer or shorter term is required in the public interest, the
+term of collection franchises shall be a continuing seven year
+term. On January 1 of each year, the franchise will be renewed
+for one year, unless the Board notifies the franchisee at least
+30 days in advance of its intent not to renew the franchise.
+Upon notice of intent not to renew, the term of the franchise
+will be six years from the date of notice of termination.
+Nothing in this section restricts the Board from suspending,
+modifying, revoking or refusing to renew a franchise pursuant to
+Section 9. 15 of this ordinance.
+2) Disposal Franchise. The term of disposal franchises
+shall be determined by the Board with the recommendation of the
+Committee based upon site longevity, population to be served and
+probable use after reclamation.
+Section 9. 12. RESPONSIBILITIES OF FRANCHISEES.
+1) Required Services. Franchisees shall furnish all ser-
+vice authorized and required by the franchise and this ordinance,
+at rates established by the Board, for the term of the franchise.
+2) Discontinuance of Service. Except as provided in sub-
+section ( 4) of this section, no franchisee shall voluntarily
+discontinue service to any of the service area or at a disposal
+site unless and until the franchisee has:
+a) Given 90 days' written notice to affected cus-
+tomers in the service area;
+19 - ORDINANCE NO. 85- 037
+VOL 70 FAGE13n
+b) Posted 90 days' notice at the disposal site or
+sites;
+c) Given 90 days' written notice to the Admini-
+strator; and
+d) Obtained approval of the Board.
+3) Complaints, Records and Audit. Franchisees shall:
+a) Respond in writing to any written complaint on
+service and report any unresolved complaint in
+writing to the Administrator.
+b) Keep accurate books and records which shall be
+available during regular business hours for in-
+spection and review by a qualified person desig-
+nated by the Administrator. Records shall be
+generated and maintained according to normal
+accounting practices.
+c) Obtain an audit of the franchisee' s books, at the
+franchisee' s expense, if directed to do so by the
+Board in connection with a franchise application,
+an application for a rate adjustment, or the
+determination and collection of a franchise fee.
+4) Exceptions. Subsection ( 2) of this section shall not
+apply to termination of service due to:
+a) Damage, destruction or failure of equipment due to
+an act of God;
+b) Adverse weather which makes service impossible;
+c) Change, restriction or termination of service when
+required by any public agency, public body or
+court having jurisdiction;
+d) Customer refusal to pay for service in accordance
+with rates established pursuant to this ordinance.
+However collection franchisees may not discontinue
+service under this paragraph without seven days'
+prior written notice to the customer and to the
+Administrator. Where service is terminated to a
+customer for refusal to pay for service, the
+franchisee may require a reasonable deposit to
+guarantee payment for future services before
+reinstating such service.
+e) Transfer of franchises pursuant to Section 9. 18 of
+this ordinance.
+20 - ORDINANCE NO. 85- 037
+VOL 70 FAGE131
+f) A finding by the Adminstrator that service at the
+particular location would jeopardize the safety of
+the driver of a collection vehicle or of the
+motoring public, that the customer has not pro-
+vided reasonable access to the pickup point for
+the containers storing solid waste or recyclable
+materials without hazard or risk to the person
+providing service, or that weather conditions
+prevent service to the particular customer.
+Section 9. 13. ENFORCEMENT AND CORRECTIVE ACTION. In addi-
+tion to the remedy provided in Section 9. 15 and penalties pro-
+vided elsewhere in this ordinance, the following action may be
+taken:
+1) Investigation. The Administrator, upon reasonable
+cause, may make an investigation to determine if there has been a
+violation of this ordinance, ORS Chapter 459 or rules or regu-
+lations promulgated thereunder, or the franchise.
+2) Notice of Violation. If, in the judgment of the Ad-
+ministrator based upon investigation, there is sufficient
+evidence to constitute a violation, the Administrator shall
+notify the alleged violator, in writing, of the alleged violation
+and what steps must be taken to cure the violation and to follow
+the requirements set forth in the notice. The Administrator
+shall send a copy of the notice to the Committee and may forward
+a copy to the Board.
+3) Response. The alleged violator shall provide a written
+response to the notice within 10 days of receipt. The response
+shall indicate whether the alleged violator agrees that there has
+been a violation and whether, when and how corrective action will
+be taken.
+4) Committee Recommendations. If it appears that the
+alleged violator is unable or refuses to cure the violation, the
+Committee shall make a recommendation to the Board concerning
+appropriate action. If the alleged violator is a franchisee, the
+committee may recommend that the franchise be suspended, modified
+or revoked or that it not be renewed, or that any conditions the
+Committee deems appropriate be imposed.
+5) Disposal Site Compliance Order. In the event that the
+landowner or franchisee under a disposal franchise does not com-
+ply with agreements executed pursuant to Section 9. 05 of this
+ordinance within a reasonable time after written notice to com-
+ply, the Board may institute proceedings under subsection ( 6) of
+this section to enforce compliance. " Reasonable time" within
+this subsection shall be the time determined by the Board to be
+reasonable on the basis of the health, safety, and welfare of the
+people of Deschutes County and of the area, giving due consid-
+eration to the following factors:
+21 - ORDINANCE NO. 85- 037
+VOL / PAGE13
+a) The nature of the deficiency.
+b) Conditions created by the deficiency.
+c) Hazards to health or safety.
+d) Creation of a condition of unsightliness.
+e) Creation of a public or private nuisance.
+f) Whether there is a satisfactory alternative
+practice, procedure or operation.
+6) County Corrective Action. Upon failure of the land-
+owner or franchisee to comply with the Board' s compliance order
+within the time specified therein, the Board shall give 30 days'
+written notice to the landowner or franchisee, or both, at their
+last known addresses, that the County will carry out the neces-
+sary corrective action at the landowner' s or franchisee' s ex-
+pense. The Board may shorten the notice period to 24 hours if
+the Board finds that there is an immediate and serious danger to
+the public through creation of a health hazard or a public or
+private nuisance.
+7) Public Hearing. After notice, the Board shall hold a
+public hearing at which all interested persons shall have the
+right to be heard. After the public hearing and on the basis
+thereof, the Board shall have the power to order appropriate
+county agencies to correct the deficiencies in the establishment,
+maintenance or operation of the site, or to make required rehab-
+ilitation or restoration.
+8) Costs of Corrective Action; Liens. If the cost incur-
+red by the County in carrying out subsections ( 6) and ( 7) of this
+section is not paid by the affected landowner or franchisee, the
+Board may order appropriate action to be taken to impose a lien
+upon the subject property.
+Section 9. 14. PREVENTING INTERRUPTION OF SERVICE.
+1) Notice; Hearing; Corrective Action. Whenever the Board
+finds that a franchisee' s interruption or threatened interruption
+of service would result in creation of a health hazard or a pub-
+lic or private nuisance, the Board shall, after reasonable writ-
+ten notice to the franchisee and the opportunity for a public
+hearing if the franchisee requests such hearing, have the right
+to authorize another franchisee or other qualified person to
+provide service, or to use and operate the land, facilities or
+equipment of the franchisee who has interrupted or threatened to
+interrupt service, to provide service so long as such interrup-
+tion continues.
+2) Return of Property. Upon abatement of the actual or
+threatened interruption, the County or other person shall return
+22 - ORDINANCE NO. 85- 037
+VOL 70 FACE133
+all of the franchisee' s property in the same condition as when
+taken, less reasonable wear, tear and use. All receipts shall be
+returned to the franchisee, less costs of performing the service
+during takeover and costs of abatement.
+Section 9. 15. SUSPENSION, MODIFICATION, REVOCATION OR
+REFUSAL TO RENEW FRANCHISE.
+1) Grounds. Upon recommendation of the Committee or on the
+Board' s own motion, the Board may suspend, modify, revoke or
+refuse to renew a franchise upon finding that the franchisee has:
+a) Wilfully violated this ordinance or ORS Chapter
+459 or rules or regulations promulgated there-
+under;
+b) Made a material misrepresentation in any written
+documents required to be submitted by the
+franchisee;
+c) Wilfully refused to provide service required by
+this ordinance or the franchise, or to take any
+corrective action required under Section 9. 13
+after written notification and a reasonable op-
+portunity to do so; or
+d) Misrepresented the gross receipts from the fran-
+chise service area or disposal site, or the
+average occupancy within the service area, if such
+reports are required to be submitted by this
+ordinance or by order of the Board.
+3) Effective Date; Emergency Order. If the Board, by
+order, suspends, modifies, revokes or refuses to renew a fran-
+chise, the action shall not become effective until 30 days after
+the date of the order unless the Board finds that the order
+should take effect earlier to prevent a serious and immediate
+danger to the public health or a public nuisance.
+4) Public Hearing. The affected franchisee may request a
+public hearing before the Board on the order by filing a written
+request for such hearing with the Board within 30 days after the
+date of the order. Upon filing the request, the Board shall set
+a time and place for a public hearing. Unless the Board makes
+the finding described in subsection ( 2) of this section, the
+Board' s action shall not take effect until after the public
+hearing. The franchisee and other interested persons or affected
+public agencies or bodies may submit oral or written evidence to
+the Board relevant to the Board' s order.
+5) Final Order. The Board shall, following the public
+hearing and within 30 days thereafter, affirm, amend or rescind
+its prior order. Subject to court appeal as provided in this
+ordinance, the determination of the Board is final.
+23 - ORDINANCE NO. 85- 037
+Section 9. 16. FRANCHISE FEES.
+1) Collection Franchise Fee.
+a) Commercial Haulers. An annual franchise fee of 3%
+of the gross receipts from providing service to
+the franchise service area shall be paid to the Ad-
+ministrator on the 30th day of January of each
+year, accompanied by a sworn and verified state-
+ment of such gross receipts. Each commercial
+hauler collection franchisee shall maintain suffi-
+cient books and records to accurately reflect the
+gross receipts from the service area and shall
+make such books and records available at reason-
+able times and places for audit by authorized
+personnel of Deschutes County. The Administrator
+may specify reasonable requirements for keeping
+such books and records. The Board may require an
+audit of the franchiee' s books, at the fran-
+chisee' s expense, to determine the accurancy of
+the franchisee' s statement of gross receipts.
+b) ( i) The annual franchise fee for non - commerical
+haulers shall be 3% of the total annual cost of
+collection service to all of the customers in the
+service area. The " total annual cost of collec-
+tion service" shall be the product of the number
+of service customers multiplied by the minimum
+monthly rate per customer which would be charged
+by the commerical hauler franchisee serving the
+surrounding or adjacent area, multiplied by twelve
+12). The fee shall be paid to the Administrator
+on the 30th day of January of each year.
+ii) In the case of non- commercial haulers, such
+as hotel and motel managers, who may not serve the
+same number of customers each month, the number of
+service customers to be used in the computation of
+the annual franchise fee shall be the average
+number of occupants of the affected residential or
+rental units for the previous calendar year.
+Average occupancy shall be determined by County
+transient room tax returns, monthly rental re-
+ceipts, or other similar records maintained by the
+franchisee or the County. Each non- commercial
+hauler collection franchisee shall maintain suffi-
+cient books and records to accurately reflect
+average occupancy in the service area and shall
+make such books and records available at reason-
+able times and places for audit by authorized
+personnel of Deschutes County. The Administrator
+may specify reasonable requirement for keeping
+such books. The Board may require an audit of the
+non - commerical hauler' s books, at the hauler' s
+24 - ORDINANCE NO. 85- 037
+VOL 70 PAGE135
+expense, to determine the hauler' s average
+occupancy.
+2) Disposal Franchise Fee. An annual fee of $ 25. 00 shall
+be paid to the Administrator on the 30th day of January of each
+year.
+Section 9. 17. USE OF FRANCHISE FEES. Fees
+collected pursuant to Section 9. 16 of this ordinance shall be
+paid into the General Fund. The committee may make recommen-
+dations to the Board on a budget for the use of such funds to
+carry out the provisions of this ordinance.
+Section 9. 18. TRANSFER OF FRANCHISES.
+1) Board Approval. No franchise or any interest therein
+may be transferred or pledged as security without prior written
+notice to and approval by the Board.
+2) Application for Approval. A franchisee may apply to
+the Board for approval to transfer or pledge the franchise.
+3) Transfer. Upon recommendation of the Committee, the
+Board may approve a transfer if it finds that the transferor has
+no outstanding obligations to the County and the transferee meets
+all applicable requirements for a franchise. The Board shall
+approve or disapprove any application for transfer of a franchise
+within 30 days of receipt of notice by the Board. The Board may
+extend this time if it finds that there is a substantial question
+of public health or safety involved which requires additional
+time for investigation and decision.
+4) Pledge as Security. Upon recommendation of the Com-
+mittee, the Board may permit a franchise to be pledged as secu-
+rity, but only for the purchase of land, equipment or facilities
+needed to provide service, or to finance purchase of a business
+providing service under this ordinance, and only if the fran-
+chisee demonstrates to the Board' s satisfaction that such pledge
+will not adversely affect the franchisee' s ability to carry out
+the provisions of its franchise and this ordinance. The Board
+may attach whatever conditions it deems appropriate to guarantee
+maintenance of service.
+ARTICLE VI. RATES FOR COLLECTION AND DISPOSAL SERVICE.
+Section 10. 01. EXISTING RATES. Rates adopted by the Board
+prior to the effective date of this ordinance shall remain in
+effect until changed pursuant to this ordinance.
+Section 10. 02. RATE STANDARDS.
+1) The Board shall:
+25 - ORDINANCE NO. 85- 037
+It
+t x *' r
+VOL 70 PAGE136
+a) Approve and establish reasonable and adequate
+rates for collection and disposal franchises.
+b) Establish collection rates which are uniform
+either throughout the county or within zones,
+based upon the length of haul to disposal sites or
+depots, concentration of customers, and other
+factors which may, in the opinion of the Board,
+justify establishment of rate differentials. The
+Board may establish rates which are lower for
+customers who source - separate recyclable material
+than the rates for customers who do not source -
+separate. Collection rates for non- commercial
+hauler collection franchisees shall be the same as
+the rate charged by the commercial hauler collec-
+tion franchisee serving the surrounding or
+adjacent service area.
+c) Establish rates for disposal sites that are uni-
+form throughout the county, or different rates for
+each site or class of sites.
+d) Adjust rates pursuant to Section 10. 03 of this
+ordinance.
+e) Establish an interim rate when necessary until the
+Board makes a final determination on the rate for
+that type of service.
+Section 10. 03. RATE ADJUSTMENTS.
+1) Application for Rate Adjustment. When a franchisee
+proposes to adjust one or more rates, the franchisee shall make
+an application for rate adjustment on forms provided by the Ad-
+ministrator. The application shall include all supporting in-
+formation justifying the proposed rate adjustment, and any other
+information requested by the Administrator.
+2) Administrator' s Review? Review of Franchisee' s Books.
+Upon receiving an application for a rate adjustment, the Ad-
+ministrator shall review the application and supporting in-
+formation, shall designate a qualified person confidentially to
+review the books and records of the franchisee applicant, and
+shall forward the application and supporting information to the
+Committee.
+3) Committee Review. Upon receiving the application for
+rate adjustment, the Committee shall review the application and
+supporting information, may hold an informational public hearing
+on the proposed rate adjustment, and shall make a recommendation
+to the Board regarding the proposal.
+4) Upon receiving the Committee' s recommendation, the
+Board may hold a public hearing on the proposed rate adjustment,
+26 - ORDINANCE NO. 85- 037
+VOL 70 PAGE13 7
+shall review the application and the Committee' s recommendation,
+and shall make a final determination granting, denying or
+modifying the application for rate adjustment.
+5) In determining whether to grant, deny or modify an
+application for a rate adjustment, the Board may consider rates
+charged by other persons performing the same or similar service
+in the same or other areas, and shall give due consideration to
+the following factors:
+a) Changes in the cost of operation.
+b) Current and projected revenues and expenses.
+c) The investment in facilities and equipment.
+d) The services of management.
+e) Local wage scales.
+f) The concentration of customers in the area served.
+g) Methods of storage, collection, transportation,
+disposal, salvage, recycling or reuse.
+h) Net cost of providing the opportunity to recycle,
+including the avoided cost of solid waste dipsosal
+by recycling, education, promotion and notice
+related to recycling.
+i) Whether the franchisee provides incentives to
+customers to source - separate recyclable material.
+j) A reasonable return to the franchisee.
+k) The length of haul to disposal facilities or
+depots.
+1) The cost of disposal.
+m) The use of transfer stations or transfer systems
+and the added costs.
+n) The cost of alternate methods of disposal.
+o) The future service demands of the service area or
+disposal site which must be anticipated in equip-
+ment, facilities, personnel or land.
+p) Extra charges for special pickups or pickups on
+days where service is not normally provided on a
+collection route.
+27 - ORDINANCE NO. 85- 037
+VOL 70 PAGE138
+q) Extra charges where the type or character of waste
+or solid waste, including but not limited to
+wastes with peculiarly offensive odors, requires
+special handling or service.
+r) Extra charges for providing janitorial services on
+the premises where service is provided.
+s) In addition, with respect to disposal sites, the
+type of site, whether the site is open to the
+public and the hours of operation, type of waste
+disposed of and method of disposal.
+t) Cost of compliance with laws, ordinances, regu-
+lations and rules of public agencies or bodies
+having jurisdiction.
+u) Other factors which may, in the opinion of the
+Committee and the Board, necessarily affect the
+rates to be charged.
+Section 10. 04. RATE PREFERENCES PROHIBITED.
+1) No franchisee subject to rate regulation by this ordi-
+nance shall give any rate preference to any person, locality or
+type of solid waste stored, collected, transported or disposed.
+2) Nothing in this section is intended to prevent:
+a) The reasonable establishment of uniform classes of
+rates based upon the type of waste collected,
+transported, disposed of, reused, recycled or
+recovered7 the number, type and location of
+customers served; or upon other factors, as long
+as such rates are reasonably based upon costs of
+the particular service and are approved by the
+Board in the same manner as other rates.
+b) The reduction in rates charged to persons who
+source - separate recyclable material. However, the
+rate charged to a person who recycles shall not be
+greater than that charged to a person who does not
+source - separate materials for recycling.
+c) Any franchisee from volunteering service at re-
+duced or no cost for a charitable, community,
+civic or benevolent purpose.
+Section 10. 05. RESPONSIBILITY FOR PAYMENT OF CHARGES FOR
+SERVICE. Any person who receives service shall be responsible
+for payment for such service. The landlord of any premises shall
+be responsible for payment for service provided to that premises
+if the tenant does not pay for the service.
+28 - ORDINANCE NO. 85- 037
+n Ut. i. 19,
+f V r­
+Section 10. 06. FRANCHISEE BILLINGS TO CUSTOMERS. Billings
+to customers of collection and disposal franchisees shall be
+based upon the rates adopted pursuant to this ordinance. If the
+billing is itemized, each item shall accurately reflect the
+documented actual rate or cost for that item. The Administrator
+may inspect the franchisee' s books to determine the accuracy of
+itemized billings.
+ARTICLE VII. REGIONAL COLLECTION AND DISPOSAL.
+Section 11. 01. AGREEMENTS FOR JOINT FRANCHISING OR PLANNING.
+The Board may enter into agreements with any city or county for
+joint or regional franchising of collection, recycling or dis-
+posal service or planning for regional solid waste management.
+Section 11. 02. AGREEMENTS FOR ALLOCATION OF FRANCHISE FEES.
+The Board may enter into agreements with any city or county pro-
+viding for the allocation of franchise fees where franchise ser-
+vice areas cross city or county boundaries.
+Section 11. 03. COMMERCIAL HAULING AND SELF - HAULING DISPOSAL
+REGULATION AND FEES. The Board may require any franchisee or
+other person to apply to the Public Works Department for a permit
+before hauling and placing any solid waste in any landfill or
+sanitary landfill in Deschutes County. Upon recommendation of
+the Committee, the Board may adopt or modify landfill disposal
+fees.
+ARTICLE VIII. SOLID WASTE NUISANCE ABATEMENT.
+Section 12. 01. CREATION OF NUISANCE BY ACCUMULATION OR
+UNAUTHORIZED DISPOSAL OF SOLID WASTE.
+1) Solid Waste Accumulation. Except as otherwise author-
+ized under this ordinance, no person shall store, collect, main-
+tain or display on private property, waste or solid waste that is
+offensive or hazardous to the health and safety of the public or
+which creates offensive odors or a condition of unsightliness.
+Storage, collection, maintenance or display of waste or solid
+waste in violation of this section is declared to be a public
+nuisance which may be abated as provided in section 12. 02 of this
+ordinance.
+2) Unauthorized Disposal. Except as provided in Section
+5. 02 of this ordinance and in the definition of " Disposal Site"
+in Section 4. 01 of this ordinance, no person shall use or permit
+to be used any land within the County as a public or private
+disposal site without approval of the Board. The disposal of
+waste or solid waste in or upon such land is declared to be a
+public nuisance which may be abated as provided in Section 12. 02
+of this ordinance.
+29 - ORDINANCE NO. 85- 037
+r
+r, VOL 70 PAGE140
+Section 12. 02. ABATEMENT OF SOLID WASTE NUISANCES.
+1) Investigation. The Administrator, with or without a
+written and signed complaint of any person, public agency or
+public body, may investigate to determine whether a nuisance
+exists under section 12. 01 of this ordinance. The Administrator
+may reqest the assistance of the Deschutes County Sheriff for the
+purpose of conducting an investigation.
+2) Notice of Violation. After investigation, if the Ad-
+ministrator finds reasonable cause to believe a nuisance exists,
+the Administrator shall give written notice thereof to the Board
+and to the alleged violator as provided in subsection ( 3) of this
+section.
+3) Show Cause. The Board may order that a notice be is-
+sued and served upon the owner, tenant, occupant or person in
+possession of the property or premises where the nuisance is
+alleged to exist, describing the alleged nuisance and requiring
+such person or persons to appear before the Board at the time and
+place stated in the notice to show cause why a nuisance should
+not be declared to exist. Unless the Board finds that there is
+an immediate and serious hazard to the health or safety of the
+public, the time set for the hearing shall not be less than 15
+nor more than 40 days from the date of notice.
+4) Public Hearing. At the time and place described in the
+notice, the Board shall conduct a public hearing on the existence
+of the alleged nuisance. The Administrator shall report the
+findings from the investigation, and may submit evidence and the
+testimony of witnesses. The persons served with notice shall be
+permitted to cross- examine the Administrator or the Administra-
+tor' s witnesses and may present evidence and call witnesses. Any
+interested person, public agency or public body who requests the
+opportunity shall be heard, subject to the right of the persons
+served with notice to cross- examine.
+5) Declaration of Nuisance. If the Board finds from the
+record at the public hearing that a nuisance exists, it shall
+declare the existence of a nuisance.
+6) Order of Abatement. If a nuisance is declared, the
+Board may order all responsible persons who were notified to
+abate the nuisance within a reasonable time set by the Board.
+Section 12. 03. CIVIL ACTION TO ABATE NUISANCES.
+1) If a nuisance is declared to exist under Section 12. 02
+of this ordinance and is not abated by the responsible persons,
+the Board may:
+a) Order a civil action to be brought in the name of
+the County for its abatement.
+30 - ORDINANCE NO. 85- 037
+VOL 70 FADE141
+b) Where a writ of abatement from an appropriate
+court is obtained, remove from the subject prop-
+erty or premises the waste or solid waste found to
+be the cause of such nuisance. The cost of such
+collection shall be paid by the person or persons
+found by the Board and the Court to be responsible
+for the creation or maintenance of the nuisance
+and shall be a lien upon said property or premises
+until paid. The County or its agents shall not be
+liable for any trespass to, or conversion of, any
+real or personal property reasonably required in
+removing said waste or solid waste.
+2) The provisions of this section are in addition to and
+not in lieu of the penalties provided in section 13. 04 of this
+ordinance.
+Section 12. 04. UNAUTHORIZED DISPOSAL. No person shall dis-
+pose of solid waste on or in any property or premises subject to
+this ordinance of which such person is not the owner, occupant or
+person entitled to possession, or which is not a disposal site
+approved by the Board.
+Section 12. 05. TRANSPORTATION OF SOLID WASTE. No person
+shall transport waste or solid waste in or on a motor vehicle or
+trailer upon a public road unless such waste or solid waste is:
+1) Covered on the sides, top and bottom with a cover se-
+cured to the vehicle or trailer; or
+2) Securely tied to the vehicle or trailer in such a way
+that such waste or solid waste is unlikely to sift, leak or other-
+wise escape therefrom.
+ARTICLE IX. APPEALS, ENFORCEMENT AND PENALTIES.
+Section 13. 01. APPEALS FROM DECISIONS OF THE BOARD. All
+decisions of the Board under this ordinance shall be reviewable
+by the Circuit Court of the State of Oregon for the County of
+Deschutes.
+Section 13. 02. APPEALS FROM DECISIONS OF THE ADMINISTRATOR.
+The Board, upon its own motion or upon the request of an inter-
+ested person or affected public agency or public body, may review
+the decisions of the Administrator made pursuant to this ordin-
+ance and may uphold, modify, rescind or leave standing the
+decision of the Administrator. The Board may hold a public
+hearing with notice to interested persons, public agencies or
+public bodies to review a decision of the Administrator.
+Section 13. 03. ENFORCEMENT.
+Board to enforce this ordinance.
+31 - ORDINANCE NO. 85- 037
+It shall be the duty of the
+Section 13. 04. PENALTIES.
+VOL ? Q FACE142
+1) Any violation of sections 8. 04, 9. 01, 10. 01, 12. 01,
+12. 04 or 12. 05 of this ordinance shall be deemed to be a mis-
+demeanor and shall be punishable upon conviction by a fine of not
+more than $ 500 or by imprisonment in the County jail for not more
+than six months, or both.
+2) Each day a violation described in subsection ( 1) of
+this section continues constitutes a separate offense.
+ARTICLE X. CONSTRUCTION, REPEAL OF CONFLICTING
+ORDINANCES, EFFECTIVE DATE AND EMERGENCY
+CLAUSE.
+Section 14. 01. CONSTRUCTION. ( 1) Titles. The titles in
+this ordinance are not a part of the contents or provisions of
+this ordinance, but are solely for purposes of reference.
+2) Severability. Any finding by any court of competent
+jurisdiction that any portion of this ordinance is unconsti-
+tutional or invalid shall not invalidate any other portion of
+this ordinance.
+Section 14. 02. REPEAL OF CONFLICTING ORDINANCES. Ordinance
+CG - 4 and all amendments thereto, and any portions of any other
+ordinance previously enacted by the County which are inconsistent
+with the provisions of this ordinance, are hereby repealed.
+Section 14. 03. EMERGENCY CLAUSE AND EFFECTIVE DATE. This
+ordinance being necessary for the immediate preservation of the
+public peace, health and safety, an emergency is declared to
+exist, and this ordinance takes
+jefffect
+on January 1, 1986.
+tk
+DATED this / 0 d y of ' 1985.
+ATTEST:
+Recording Secretary
+32 - ORDINANCE NO. 85- 037
+I
+OF COUNTY COMMISSIONERS
+CHUTES C NTY, OREGON
+LAURLYDICE AX TUTTL , Chairman
+LOIS BRISTOV RNANTE, Commissioner
+LIN, Commissioner

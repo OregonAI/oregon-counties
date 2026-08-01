@@ -1,0 +1,480 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clackamas-county
+id: clackamas-code-foreward
+title: 'Foreward'
+doc_type: ordinance
+citation: 'Foreward'
+authority_level: county_ordinance
+issuing_body: 'Clackamas County Board of Commissioners'
+source_url: https://www.clackamas.us/code/foreward
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: 316fdddcf2f2f31f988d1408346eaec801e151e791735e4b94254dee1936a740
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [clackamas-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clackamas County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Foreward (Foreward)
+
+## At a glance
+
+Foreward — code of Clackamas County. 6193 characters.
+
+## Full text
+
+Clackamas County Code Foreward | Clackamas County 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Translate 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Jobs 
+ Events 
+ News 
+ Contact Us 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+
+ 
+ 
+ 
+ Community 
+ 
+ 
+ Business 
+ 
+ 
+ Departments 
+ 
+ 
+ Our County 
+ 
+ 
+ I want to... 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Code 
+ Clackamas County Code Foreward 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Clackamas County Code Foreward 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Clackamas County is one of the oldest counties in the west, and one of the last in Oregon to codify its ordinances. This codification project, enacted by Ordinance #05-2000 on July 13, 2000, was intended to put all effective general Clackamas County Ordinances into one document in a readable manner.  Public access to the County Code may be found at www.clackamas.us .  Ordinances, rules and regulations of related entities, such as Clackamas County Service District #1, Tri-City Service District, Surface Water Management Agency of Clackamas County, North Clackamas Parks and Recreation District, Clackamas County Development Agency (urban renewal districts),  and Clackamas County Housing Authority are not included in the code.  The public has access to the regulations of these entities by contacting the responsible County departments. Guide for Maintaining the Code The code may be kept up to date at all times by following these suggested procedures. Each new ordinance adopted by the Board should be classified as general or special.  General ordinances are those that amend or add to the Clackamas County Code and deal with administrative organization and procedures or those that are regulatory in nature.  Special ordinances are those of restricted application. All ordinances, whether general or special, should be numbered in consecutive order.  The original copy of each ordinance should be filed in numerical order in the Recording Division of the Office of County Clerk after being properly signed.  Special ordinances should not be included in the code. At the time of drafting a general ordinance, the County Counsel should assign a code number to the substantive provisions, based on the subject matter of the provision.  Following adoption of a general ordinance, the substantive provisions should be added to the code.  Where such provisions substitute for existing provisions, the substitution may be made by inserting the new provisions in place of the previous ones.  Where new provisions are added to the code, they should be inserted where appropriate,  consistent with the format and numbering of the code. Ordinances Amending Code Provisions.   General ordinance provisions which amend existing code provisions should be assigned the same code numbers as the amended provisions.  When the code is amended, a notation should follow the new substance of the amendment, e.g., [Chapter 2.01 amended by Ordinance #____, enacted ___, ____.] Ordinances Repealing Code Provisions.  When an ordinance repeals a code chapter, the text of the repealed chapter should be taken out of the code, and a notation in brackets stating the number and date of the repealing ordinance should follow the number of the repealed chapter, e.g., Chapter 2.01 [Chapter 2.01 repealed by Ordinance #____, enacted ___, ____.] Ordinances Adding New Code Provisions.   General ordinances added to the code should be assigned code chapter numbers based on the subject matter of the ordinance.  When an addition is made to the code, a notation in brackets stating the number and date of the ordinance should follow the substantive material of the added Chapter, e.g., [Chapter 2.07 added by Ordinance #_____, enacted ____, _____.] The expansion of this code by the addition of new provisions may be made in two ways:  (1) when the new provisions relate to a subject which cannot be placed within any title of the original organization, a new title may be created; and (2) when the new provisions relate to the subject matter contained within a general title heading, the next chapter number not yet used may be assigned to the new provisions.  If new provisions are being added to already existing code provisions, the next number not yet used may be used, between chapters, or after the last chapter, depending upon where the new provision should logically be placed within the Title.  If the addition of the new provision requires renumbering of subsequent chapters, the Office of County Counsel is authorized to do so pursuant to Chapter 1.01.100 of the Code.  Occasionally, it may be necessary to reorganize material within a title or chapter partially or entirely to rationalize the numbering or formatting system.  In Chapter 1.01.100, the office of County Counsel is authorized to make such changes as are necessary to rationalize the numbering and formatting system. 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ SHORTCUTS 
+ 
+ 
+ 
+ Jobs Procurement Process, Contracts and Grants Pay Online CMap Contact the County Report a Hazard County Code Public Records Request HIPAA/Privacy Concerns Civil Rights ACA Complaint Form Accessibility Statement Title VI Compliance Plan Website Privacy Media Contacts 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ELECTED OFFICIALS 
+ 
+ 
+ 
+ Chair Craig Roberts Commissioner Diana Helm Commissioner Paul Savas Commissioner Martha Schrader Commissioner Ben West   County Assessor/Tax Collector Bronson Rueda County Clerk Catherine McMullen District Attorney John Wentworth Justice of the Peace Kathleen Rastetter Sheriff Angela Brandenburg Treasurer Brian Nava 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can’t find what you're looking for? 
+ 
+ 
+ 
+ 
+ Search Box 
+ 
+
+ 
+ enter your search here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2026 Clackamas County

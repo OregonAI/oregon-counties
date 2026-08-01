@@ -1,0 +1,564 @@
+Lane Code
+CHAPTER 16 CONTENTS
+
+June 2020 16-i
+COMMERCIAL AIRPORT SAFETY COMBINING ZONE (/CAS-RCP)
+16.245 Commercial Airport Safety Combining Zone (/CAS-RCP).
+AIRPORT SAFETY COMBINING ZONE (/AS-RCP)
+16.246 Airport Safety Combining Zone (/AS-RCP).
+16.247 Airport Operations Zone (AO-RCP).
+RESOURCE CAPABILITY DETERMINATION
+16.248 Resource Capability Determination.
+ESTUARINE IMPACT ASSESSMENT
+16.249 Estuarine Impact Assessment.
+
+16.245 Lane Code 16.245
+
+June 2020 16-477 LC16.245_249
+COMMERCIAL AIRPORT SAFETY COMBINING ZONE (/CAS-RCP)
+RURAL COMPREHENSIVE PLAN
+
+16.245 Commercial Airport Safety Combining Zone (/CAS-RCP).
+ (1) Purpose.  The Commercial Airport Safety Combining Zone (/CAS-RCP) is
+applied to those lands adjacent to and within the Mahlon Sweet Field Airport.  The /CAS-
+RCP Zone is intended to carry out the following purposes:
+  (a) Prevent the creation or establishment of obstructions that are a
+hazard to air navigation and flight.
+  (b) Prevent the creation or establishment of other hazards to air
+navigation and flight such as distracting light and glare producing surfaces, radio
+interference, smoke, steam and dust, areas which attract birds and hazards of a similar
+nature.
+ (2) Applicability.  The /CAS-RCP Zone is applied to those lands enc ompassed
+by the surfaces set forth and described in LC 16.245(4) below and diagramed in LC
+16.245(6) below.
+ (3) Use Limitations.  In the /CAS-RCP Zone, the following limitations and
+standards shall apply to all uses permitted, allowed conditionally or all owed as special
+uses by the primary zone with which the /CAS RCP Zone is combined:
+  (a) The height of structures or objects shall not exceed the maximum
+height of the primary zone with which the /CAS -RCP Zone is combined.  Furthermore,
+no structure or object shall be erected, altered, allowed to grow or be maintained in such a
+manner as to penetrate the height limitations of the various areas described in LC
+16.245(4) below.
+  (b) No use may be made of land or water in such a manner as to create
+electrical interference with navigational signals or radio for pilots to distinguish between
+airport lights and others, resulting in glare in the eyes of pilots using the airport,
+impairing visibility in the vicinity of the airport, or otherwise in any way endangeri ng the
+landing, take off or maneuvering of aircraft intending to use the airport.
+ (4) Surfaces Described.
+  (a) Primary Surfaces.
+   (i) The Primary Surface is a plane longitudinally centered on the
+runway centerline and extending 200 feet beyond the ends of prepared runway surfaces.
+The width of the Primary Surface for each runway is the same as the width of the inner
+portion of the Approach Surface for that runway.
+   (ii) For purpose of this section, the center -points at the ends of
+each runway Primary Surface shall be considered as having the following coordinates and
+elevations:
+
+Run-
+way
+Centerpoint Coordinates (NAVD
+83)
+Centerpoint Eleva-
+tion (NAVD 88)
+ Latitute Longitude Feet above sea level
+16R 44ο08’07.610” 123ο13’08.960” 360.1
+34L 44ο06’36.766” 123ο13’07.953” 365.5
+16L 44ο07’58.724” 123ο12’09.711” 363.4
+34R 44ο06’59.478” 123ο12’08.832” 373.6
+
+   (iii) The elevation at any point on the Primary Surface is the same
+as the elevation of the nearest point on the runway centerline.  For purposes of this
+16.245 Lane Code 16.245
+
+June 2020 16-478 LC16.245_249
+section, the runway centerline shall be considered as having a straightline grade between
+the two centerpoints for that runway as described in LC 16.245(4)(ii) above.
+  (b)  Runway 16R -34L Approach Surface .  This runway is a precision
+instrument ru nway aligned in a north-south direction and is designated as a primary
+runway.  The inner edges of the Approach Surfaces coincide with the width of the
+Primary Surface at the ends of Runway 16R -34L and are 1,000 feet wide.  Each
+Approach Surface extends ou tward uniformly to a width of 16,000 feet at a horizontal
+distance of 50,000 feet from the Primary Surface, its centerline being a continuation of
+the runway centerline.  The Approach Surface for 16R and 34L extends outward and
+upward at a slope of 50 hori zontal feet to one vertical foot beginning at the end of and at
+the same elevation as the Primary Surface and extending to a horizontal distance of
+10,000 feet along the extended runway centerline, thence slopes upward 40 horizontal
+feet to one vertical fo ot to an additional distance of 40,000 feet along the extended
+runway centerline.
+  (c) Runway 16L -34R.  This runway is a precision instrument runway
+aligned in a north-south direction and will be designated as a secondary runway.  The
+inner edges of the Approach Surfaces coincide with the width of the Primary Surface of
+the ends of Runway 16L -34R and are 1,000 feet wide.  Each Approach Surface extends
+outward uniformly to a width of 16,000 feet at a horizontal distance of 50,000 feet from
+the Primary Surfa ce, its centerline being the continuation of the runway centerline.  The
+Approach Surface for 16L extends outward and upward at a slope of 20 horizontal feet to
+one vertical foot beginning at the end of and at the same elevation as the Primary Surface,
+to a horizontal distance of 10,000 feet along the extended runway centerline, thence
+slopes upward 40 horizontal feet to one vertical foot for an additional 40,000 feet along
+the extended runway centerline.  The Approach Surface for 34R extends outward and
+upward at a slope of 34 horizontal feet to one vertical foot, beginning at the end of and at
+the same elevation as the Primary Surface to a horizontal distance of 50,000 feet along
+with extended runway centerline.
+  (d) Transitional Surfaces.  These surfaces  are adjacent to the Primary
+Surfaces and the Approach Surfaces.  The surfaces slope upward and outward seven
+horizontal feet to one vertical foot, beginning at the side of and at the same elevation as
+the Primary Surfaces and the Approach Surfaces, and ex tend to where they intercept the
+Horizontal Surface at a height of 150 feet above the airport elevation.  Where the Runway
+16R-34L and 16L -34R Approach Surfaces pass through the Conical Surface, there are
+Transitional Surfaces sloping outward and upward seven horizontal feet to one vertical
+foot, beginning at the sides of and at the same elevation Approach Surface, and extending
+to where they intersect the Conical Surface.  Where the Runway 16R -34L and 16L -34R
+Approach Surfaces extend beyond the Conical Sur face, there are Transitional Surfaces
+sloping outward and upward seven horizontal feet to one vertical foot, beginning at the
+sides of and at the same elevation as the Approach Surface, and extending to a horizontal
+distance of 5,000 feet measured horizont ally from the edge of the Approach Surface and
+at right angles to the runway centerline.
+  (e) Horizontal Surface.  The Horizontal Surface is described by
+swinging arcs of 10,000 feet radii from the center of each end of the Primary Surfaces of
+Runway 16R-34L and Runway 16L-34R, and connecting the arcs with tangent lines.  The
+Horizontal Surface is a horizontal plane 150 feet above the elevation of the airport and
+for purposes of this section shall be considered as having an elevation of 515 feet above
+mean sea level.  The Horizontal Surface does not include the Approach and Transitional
+Surfaces.
+  (f) Conical Surface.  The Conical Surface begins at the outer periphery
+of the Horizontal Surface and slopes outward and upward 20 horizontal feet to one
+16.245 Lane Code 16.245
+
+June 2020 16-479 LC16.245_249
+vertical foot, starting at the elevation of the Horizontal Surface and extends outward a
+horizontal distance of 4,000 feet.
+ (5) Marking and Lighting.  The owner of any existing structure or object that
+does not conform to the height limitations of this section shall be required to permit the
+installation, operation and maintenance thereon of such markers and lights as may be
+deemed necessary by the City of Eugene to indicate to the operators of aircraft in the
+vicinity of the airport, of the presence of such air craft obstructions.  Such markers and
+lights shall be installed, operated and maintained at the expense of the City of Eugene.
+ (6) Surfaces Diagramed. The surfaces described in LC 16.245(4) above are as
+illustrated in the diagram below:  (Revised by Ordinance 7-87; Effective 6.17.87; 10-06, 1.5.07; 7-12,
+12.28.12)
+16.245 Lane Code 16.245
+
+June 2020 16-480 LC16.245_249
+
+16.246 Lane Code 16.246
+
+June 2020 16-481 LC16.245_249
+AIRPORT SAFETY COMBINING ZONE (/AS-RCP)
+RURAL COMPREHENSIVE PLAN
+
+16.246 Airport Safety Combining Zone (/AS-RCP).
+ (1)  Purpose.  The Airport Safety Combining Zone (/AS-RCP) is applied to
+those lands adjacent to the Creswell Airport (Hobby Field), the Cottage Grove Airport,
+the Oakridge Airport, the McKenzie Airport and the Florence Airport.  The /AS -RCP
+Zone is intended to safeguard land uses adjacent to these airports fro m noise and hazards
+associated with aircraft operations and to protect existing use and potential expansion of
+the airport itself from incompatible development.  Specifically, the /AS-RCP Zone is
+intended to carry out the following purposes:
+  (a)  Prevent the creation or establishment of obstructions that are a
+hazard to air navigation and flight.
+  (b) Prevent the creation or establishment of other hazards to air
+navigation and flight such as distracting light and glare producing surfaces, radio
+interference, smoke, steam and dust, areas which attract birds and hazards of a similar
+nature.
+  (c)  Restrict new development of land uses not normally compatible with
+noise and safety hazards associated with airport operations.
+ (2) Applicability.  The /AS-RCP Zone is applied to those lands adjacent to the
+Creswell Airport, the Cottage Grove Airport, the McKenzie Airport, the Oakridge Airport
+and Florence Airport which are encompassed by the surfaces set forth and described in
+LC 16.246(5) below and diagramed in LC 16.246(9) below.  For purposes of this
+Chapter, the elevations of the five runways are established as follows:
+  (a) Cottage Grove - 641 feet above sea level.
+  (b) Creswell - 535 feet above sea level.
+  (c) Florence - 12 feet above sea level.
+  (d) Oakridge - 1419 feet above sea level.
+  (e) McKenzie - 1620 feet above sea level.
+ (3) Use Limitations.  In a/AS -RCP Zone, the following limitations and
+standards shall apply to all uses permitted, allowed conditionally or allowed as special
+uses by the primary zone with which the /AS-RCP Zone is combined.
+  (a) The height of structures or objects shall not exceed the maximum
+height of the primary zone with which the /AS -RCP Zone is combined.  Furthermore, no
+structure or object shall be erected, altered,  allowed to grow or be maintained in such a
+manner as to penetrate the surfaces described in LC 16.246(5) below.  Areas located in
+more than one of the described surfaces shall be subject to the most restrictive (i.e.,
+lowest) surface.
+  (b) All structures  and uses within the /AS -RCP Zone shall conform to
+the requirements of Federal Aviation Regulations, Part 77 or successor.  No use may be
+made of land or water in such a manner as to create electrical interference with
+navigation signals or radio communica tion between the airport and aircraft, making it
+difficult for pilots to distinguish between airport lights and others, resulting in glare in the
+eyes of pilots using the airport, impairing visibility in the vicinity of the airport, or
+otherwise in any way  endangering the landing, take off or maneuvering of aircraft
+intending to use the airport.
+  (c) All structures and uses within this combining district shall conform
+to the requirements of Federal Aviation Regulations, Part 77 or successor, and to other
+Federal and State laws as supplemented by Lane County ordinances, particularly Lane
+County Ordinance No. 105, or successor, regulating structure height, lights, glare
+16.246 Lane Code 16.246
+
+June 2020 16-482 LC16.245_249
+producing surfaces, radio interference, smoke, steam or dust, and other hazards to flight,
+air navigation or public health, safety and welfare.
+ (4) Uses Prohibited.  The area lying beneath the Approach Surface beginning
+at the end of the Primary Surface and extending outward a horizontal distance of 1,000
+feet shall be considered to be a clear zone.  Within this clear zone, no structure or object,
+except for fences and navigational aids approved by the airport operator, shall be erected,
+placed, altered, allowed to grow or be maintained above the surface of the ground.
+ (5) Surface Described.
+  (a) Approach Surface.  A surface longitudinally centered on the runway
+centerline, extending outward and upward from the ends of the Primary Surface at a slope
+of 20 horizontal feet to one vertical foot for a horizontal distance of 5,000 feet and
+widening from the width of 250 feet to 1,250 feet at its outer edge.
+  (b) Conical Surface.  A surface extending outward and upward from the
+periphery of the Horizontal Surface at a slope of 20 horizontal feet to one vertical foot for
+a horizontal distance of 4,000 feet.  This surface rises from 150 feet above the runway
+and extends to a height of 350 feet above the runway.
+  (c) Horizontal Surface.  A horizontal plane 150 feet above the airport
+runway, the perimeter of which is established by swinging arcs of 5,0 00 feet radii from
+the center of each end of the Primary Surface and connecting the arcs with tangent lines.
+  (d) Primary Surface .  The Primary Surface is a plane longitudinally
+centered on the runway centerline and extending 200 feet beyond the ends of the prepared
+runway surface and having a width of 250 feet.  For  purposes of this section, the Primary
+Surface shall be considered as having the same elevation as its respective runway as the
+same are specified in LC 16.246(2) above.  The centerpoints at t he ends of each Primary
+Surface shall be considered as having the following coordinates:
+ North Coordinate East Coordinate
+Cottage Grove Airport 787358 1331306
+ 790828 1331606
+Creswell Airport 833934 1339698
+ 836415 1339781
+Oakridge Airport 766146 1472836
+ 767325 1469017
+McKenzie Bridge Airport 920159 1582521
+ 920810 1585438
+Florence Airport 868731 1050341
+ 869823 1049883
+  (e) Transitional Surfaces.  These surfaces extend upward and outward at
+90 degree angles to the runway centerline and the ru nway centerline extended at a slope
+of seven feet horizontally for each foot vertically from the sides of the Primary Surface
+and Approach Surface to the point of intersection with the Horizontal Surface.  The
+Transitional Surface extends to a height of 150 feet above the runway.
+ (6) Marking and Lighting.  The owner of any existing structure or object that
+does not conform to the height limitations of this section shall be required to permit the
+installation, operation and maintenance thereon of such marker s and lights as may be
+deemed necessary by the airport operator to indicate to the operators of aircraft in the
+vicinity of the airport, of the presence of such aircraft obstructions.  Such markers and
+lights shall be installed, operated and maintained at the expense of the airport operator.
+ (7)  Special Requirements for Construction Permits .  Within the area beneath
+the Approach Surface, no construction permit shall be issued for any building, mobile
+16.247 Lane Code 16.247
+
+June 2020 16-483 LC16.245_249
+home or other structure designed and intended for human occupancy until the property
+owner has agreed to waive action against the County and the airport for noise, property
+damage or personal injuries resulting from activities connected with the airport.  Such
+waiver shall apply only when such activities are conducted in conformance with rules and
+regulations of the airport and applicable Federal and State air regulations and no
+negligence on the part of the County or the airport is involved.  The waiver shall be in a
+form prescribed by the Planning Director and shall be binding on the grantees, their heirs,
+assigns and successors in title.
+ (8) Area.  Established by underlying, parent zone.
+ (9) Surfaces Diagramed.  The surfaces described in LC 16.246(5) above are as
+illustrated in the diagram below:  (Revised by Ordinance 7-87, Effective 6.17.87; 10-04, 6.4.04; 6-10;
+09.17.10; 7-12, 12.28.12)
+
+16.247 Airport Operations Zone (AO-RCP).
+ (1) Purpose.  The Airport Operations Zone (AO -RCP) is intended to recognize
+those areas devoted to or most suitable for the im mediate operational facilities necessary
+for commercial and noncommercial aviation.  It is also intended to provide areas for
+those activities directly supporting or dependent upon aircraft or air transportation when
+such activities, in order to function, require a location within or immediately adjacent to
+primary flight operations and passenger or cargo service facilities.  In addition, the AO-
+RCP Zone is intended to provide areas for certain open space uses for airfield grounds
+maintenance and as a buffer to minimize potential dangers from, and conflicts with, the
+use of aircraft.
+16.247 Lane Code 16.247
+
+June 2020 16-484 LC16.245_249
+ (2) Permitted Buildings and Uses .  In the AO -RCP Zone, the following types
+of buildings and uses are permitted as hereinafter specifically provided for by this
+section, subject to the general provisions and exceptions set forth in this Chapter:
+  (a) Expansions or alterations of public use airports that do not permit
+service to a larger class of airplanes as defined by the Federal Aviation Administration,
+including uses and buil dings which are necessary for airport operation, such as aircraft
+hangars, fuel storage facilities, control tower, passenger and air freight terminals, aircraft
+runways, taxi-ways and tie-down areas, etc.
+  (b) Retail sales and commercial services for air passengers or flight
+connected activities.
+  (c)  Air cargo warehousing and distribution facilities.
+  (d) Aerial mapping and surveying.
+  (e) Aircraft or aircraft component manufacturing or assembly.
+  (f) Aircraft related research and testing.
+  (g) Aircraft sales, repair, service and storage.
+  (h) Schools relating to aircraft operations.
+  (i) Public parking and/or auto storage.
+  (j) Aircraft or air transportation business or professional uses.
+  (k) Aviation clubs.
+  (l) Auto rental agencies.
+  (m) Hotels and motels.
+  (n) Restaurants.
+  (o) Taxi, bus and truck terminals.
+  (p) Environmental monitoring and enforcement agencies.
+  (q) General farming, including the growing of trees, vines, shrubs,
+berries, vegetables, nursery stock, hay grains, seed and similar food and fiber products.
+  (r) Pastures and grazing.
+  (s) Forest or open land preserves.
+  (t) Game and fish preserves.
+  (u) Accessory buildings normally required in connection with a use as
+specified in this subsection.
+  (v) Public and semipublic buildings, structures and uses essential to the
+physical and economic welfare of an area.
+ (3) Uses Subject to Hearings Official Approval .  Airport related uses not
+specified in LC 16.247(2) above are special uses, subject to submittal of an ap plication
+pursuant to LC 14.050 and approval of the application by the Hearings Official pursuant
+to LC 14.300.  An airport related use is defined as an activity or use of the land whose
+immediate presence on or proximity to an airport is necessary to proper airport function,
+to meet the needs of the use when a significant portion of its business or activity is
+derived from the airport, or when special transportation cost or time factors make
+operation from less immediate sites prohibitively expensive.
+ (4)  Special Use Approval Criteria.  Uses allowed in LC 16.247(3) above must
+comply with the following criteria:
+  (a) Conformity with the Rural Comprehensive Plan for Lane County.
+  (b)  The location, size, design and operating characteristics of the
+proposed use:
+   (i) Will be compatible with and will not adversely affect the
+livability or appropriate development of abutting properties and the surrounding vicinity.
+   (ii) Will not be adversely affected by the development of abutting
+properties and the surrounding vicinity. (Consideration may be given to harmony in scale,
+bulk, coverage and density; to the availability of public facilities and utilities; to the
+16.248 Lane Code 16.248
+
+June 2020 16-485 LC16.245_249
+harmful effect, if any, upon desirable neighborhood character, to the generation of traffic
+and the capacity of surrounding streets and roads; and to any other relevant impact of the
+use.)
+   (iii) Will not be adversely affected by known natural hazards, such
+as floods, slides, erosion.
+   (iv) Will not create a hazardous natural condition such as erosion,
+landslide, flooding.
+ (5) Conformance Requirement .  All structures and uses within the AO-RCP
+Zone shall conform to the requirements of Federal Aviation Agency Regulation FAR -77
+or successor, and to other Federal and State laws as supplemented by Lane County
+ordinances, particularly Lane County Ordinance No. 105 or successor, regulating
+structure height, lights, glare producing surfaces, radio interference, smoke, steam or
+dust, and other hazards to flight, air navigation or public health, safety and welfare.
+ (6) Setback Requirements.
+  (a) Front Yard.  Front yards shall not be less than 20 feet deep.
+  (b) Side Yard.  Side yards shall be not less than five feet for residential
+use.  Side yards shall not be required for nonresidential permitted uses, b ut if provided
+shall be not less than five feet.
+ (7) Vision Clearance.  Vision clearance for corner lots shall be a minimum of
+15 feet.
+ (8) Area.
+  (a) The minimum area for the division of land shall be five acres.
+  (b) Notwithstanding the provisions of LC 16.247(8)(a) above, the
+minimum area for a parcel or lot may be reduced when it is intended as a site for a
+commercial, industrial, public or semipublic use allowed within the zone if there is a
+finding that the location, design and arrangement of the  proposed lot or parcel can be
+integrated in a logical manner with the location, design and arrangement of lots or parcels
+and uses, existing and potential, of (a) adjacent properties, and (b) the remainder of the
+contiguous ownership proposed for division.
+  (c) The following animal use area regulations shall apply on lots of less
+than five acres:  Cows, horses, sheep or goats cannot be kept on lots having an area of
+less than one acre.  The minimum area for such animals (other than their young under the
+age of six months) on less than five acres shall be as follows:
+Horses One per acre, plus one additional for every 15,000
+square feet.
+Cows One per acre, plus one additional for every 10,000
+square feet.
+Goats or sheep Five per acre, plus one additional for every 2,000
+square feet.
+   The area of a property may be utilized one time only for the
+computation of the above allowable animal usage.  (Revised by Ordinance 7-87, Effective 6.17.87;
+10-04, 6.4.04; 20-05, 6.16.20)
+
+RESOURCE CAPABILITY DETERMINATION
+RURAL COMPREHENSIVE PLAN
+
+16.248 Resource Capability Determination.
+ (1) Purpose.  Special uses in the Natural Estuary (NE -RCP), Conservation
+Estuary (CE -RCP) and Development Estuary (DE -RCP) Zones are allowed only if
+determined to meet the resource capability and purpose of the management unit in which
+the use or activity occurs.  The purpose of this section is to establish a procedure for
+16.248 Lane Code 16.248
+
+June 2020 16-486 LC16.245_249
+making a Resource Capability Determination.  Major activities or uses in the estuary may
+require an Estuarine Impact Assessment; those uses do not also require this Resource
+Capability Determination.
+ (2) Definition of Resource Capability .  Resource capability is defined as the
+degree to which the natural resource can be physically, chemically or biologically altered,
+or otherwise assimilate an external use and still function to achieve the purpose of the
+zone in which it is located.
+ (3) Identification of Resources and Impacts.  The applicant for a proposed use
+or activity in which a Resource Capabil ity Determination must be made shall submit the
+following:
+  (a) Information on the resources present.  The type of resources likely to
+be affected by the proposed action shall be inventoried.  The County shall assist the
+applicant in locating sources of i nformation.  Sources which can be used include Lane
+County Coastal Resources Inventory, Environmental Impact Statements for the Siuslaw
+River or other published information concerning the Siuslaw estuary, or more current
+resource information.
+  (b) Information on impacts to be expected if the proposed use or activity
+is carried out .  This is not intended to be a full Impact Assessment as specified in LC
+16.249, but presentation of the major effects on water circulation and flushing patterns,
+water quality significant adverse impacts which may occur and impacts on the aquatic
+and shoreland life forms.  Where appropriate to the proposed action, impacts on
+recreational and aesthetic use, navigation and other existing and potential uses of the
+estuary shall be identified as well.
+  (c) Mitigation of Impacts .  Where measurable adverse or negative
+impacts on the resource factors defined in LC 16.248(3)(b) above have been or can be
+identified, information shall be provided on reasonable methods which could be
+employed to avoid or minimize adverse impacts.
+ (4) Resource Capability Determination .  Information on resources present and
+impacts to be expected will be evaluated as part of the special use permit procedure,
+based on the requirement that the estuary can still  function to achieve the purpose of the
+zone in which the activity will be located.  Information developed by resource agencies
+and information submitted by the applicant may be used in the determination and will be
+used whenever possible to reduce duplication of effort between agencies.
+ (5) Resource Capability Findings.  Based on analysis of resources and impacts,
+one of the following findings shall be concluded in approving or disapproving the use
+permit:
+  (a) The proposed use or activity does not repre sent a potential
+significant adverse impact or reduction of significant fish and wildlife habitats or
+essential properties of the estuarine resource.  It is consistent with the resource
+capabilities and existing and potential uses, of the management unit a nd corresponding
+zone.
+  (b) The proposed use or activity presents a potential significant impact
+or reduction of significant fish and wildlife habitats or essential properties of the
+estuarine resource, but reasonable alternative or mitigating measures ar e proposed which
+will eliminate, or minimize to an acceptable level, adverse environmental impact or the
+mitigation requirement of ORS 541.626 have been met.  It is consistent with the resource
+capabilities and existing and potential uses, of the managemen t unit and corresponding
+zone.
+  (c) The proposed use or activity will result in unacceptable loss,
+considering the purpose of the management unit in which the use is proposed.  The use or
+activity represents irreversible changes and actions and unacceptab le significant adverse
+16.249 Lane Code 16.249
+
+June 2020 16-487 LC16.245_249
+impact or reduction of significant estuarine fish and wildlife habitat or essential
+properties of the estuary will result; or that the adverse consequences of the proposed use
+or activity would be likely to result in irreversible tre nds or changes in estuarine resource
+properties and functions.  It is not consistent with the resource capabilities and existing
+and potential uses, of the management unit and corresponding zone.
+ (6)  Notification of Agencies.
+  (a) Any application that is subject to the provisions of this section shall,
+at a minimum, be referred to the following:
+   (i) U. S. Fish and Wildlife Service.
+   (ii) U. S. Environmental Protection Agency.
+   (iii) Oregon State Department of Fish and Wildlife.
+   (iv) Oregon S tate Department of Land Conservation and
+Development.
+   (v) Oregon State Division of State Lands.
+   (vi) National Marine Fishery Service.
+   (vii) Army Corps of Engineers.
+  (b) Agencies receiving referrals shall be afforded 15 calendar days from
+the date of mailing to review and comment on the proposed activity. (Revised by Ordinance 7-
+87, Effective 6.17.87; 7-91, 6.5.91)
+
+ESTUARINE IMPACT ASSESSMENT
+RURAL COMPREHENSIVE PLAN
+
+16.249 Estuarine Impact Assessment.
+ (1) Purpose.  The purpose of this sectio n is to provide a procedure for
+evaluation of uses or activities which are major in nature and which could potentially
+alter the integrity of the estuarine ecosystem.  Activities which require an Impact
+Assessment do not also require a Resource Capability Determination.
+  Uses which are permitted outright do not require an Impact Assessment.
+Uses. requiring a Special Use Permit will require an Impact Assessment only when an
+Environmental Impact Statement (EIS) is required through the Corps of Engineers
+section 20/4-04 permit process.
+ (2) Information to be Presented in the Impact Assessment .  Information
+contained in an Impact Assessment shall be used in the evaluation of a use or activity
+during a Special Use Permit or Conditional Use Permit procedure.  As part of the permit
+review, information developed by resource agencies may be requested and used in the
+determination.  Any possibilities of reducing duplication of effort by the city and other
+agencies will be utilized so long as the necessary information  is adequately analyzed.
+Information contained in the Impact Assessment may be drawn from available data and
+analysis contained in the Lane County Coastal Resources Inventory, Environmental
+Impact Statements and Assessments for Projects in the Siuslaw est uary, other published
+studies pertaining to the Siuslaw River estuary, or more current information provided by
+applicant.  The Impact Assessment should apply available information to the following
+general areas of analysis.  The Planning Director may waive inapplicable items for any
+particular use of project.
+  (a) Aquatic life forms and habitat, including information on habitat type
+and use (e.g., rearing, spawning, feeding/resting, mitigation), species present, seasonal
+abundance, sediment type and characteristics and vegetation present.  The type of
+alteration, including information detailing the extent of alteration (e.g., area
+measurement, depths to which alteration will extend, volumes of materials removed
+and/or placed as fill), impacted species (incl uding threatened and endangered species),
+16.249 Lane Code 16.249
+
+June 2020 16-488 LC16.245_249
+life states and life cycles affected with regard to timing of the proposed alteration, percent
+of total available habitat type subject to alteration.
+  (b) Shoreland life forms and habitat, including information on habitat
+type and use (e.g., feeding, resting or watering areas, flyways), species present, seasonal
+abundance, soil types and characteristics and vegetation present.  Impacted species
+(including threatened and endangered species), life stages and life cycles affected with
+regard to timing of the proposed alteration, percent of total available habitat type
+subjected to alteration.
+  (c) Water quality, including information on increases in sedimentation
+and turbidity, decreases in dissolved oxygen concentrat ion, changes in biological and
+chemical oxygen demand, contaminated sediments, alteration of salinity regime,
+disruption of naturally occurring water temperatures, changes due to reduction, diversion
+or impoundment of water.
+  (d) Hydraulic characteristics, including information on changes in water
+circulation patterns, shoaling patterns, potential of erosion in or accretion in adjacent
+areas, changes in the floodplain, decreases in flushing capacity or decreases in rate of
+water flow from reduction, diversion or impoundment of water resources.
+  (e) Air quality, including information on quantities of emissions of
+particulates, expected inorganic and organic airborne pollutants.
+  (f) Impact of the proposed project on navigation and public access to the
+shoreline and aquatic areas.
+  (g) Demonstration of public need to warrant such a modification to the
+estuary.
+  (h) Demonstration that non -water dependent uses will not preempt
+existing or future water dependent use of the area.
+  (i) Determination of the pot ential cumulative impact of the proposed
+development, including alteration of adjacent significant fish and wildlife habitat and
+essential properties of the estuary.
+  (j) Presentation of upland alternatives and methods to minimize
+preventable adverse impacts.
+  (k) Determination of need for mitigation.
+ (3) Impact Assessment Findings.  Based on results of Impact Assessment
+analysis and the approval criteria contained in the applicable zone, one of the following
+findings shall be concluded in approving or disapproving the use permit:
+  (a) The proposed development does not represent a potential significant
+adverse impact or reduction of significant fish and wildlife habitats or essential properties
+of the estuarine resource.
+  (b) The proposed development pr esents a potential significant adverse
+impact or reduction of significant fish and wildlife habitats or essential properties of the
+estuarine resource, but no reasonable alternatives exist and mitigating measures are
+proposed which will eliminate or minimi ze to an acceptable level, adverse environmental
+impacts.  If mitigation is required under ORS 541.626, a mitigation plan shall have been
+approved by the Division of State Lands before this finding can be made.
+  (c) The proposed development will result in unacceptable loss.  The
+proposed use or activity represents irreversible changes and actions.  Unacceptable
+significant adverse impact or reduction of significant fish and wildlife habitat or
+reduction of essential properties of the estuary will result; o r that the adverse
+consequences of the proposed activity would be likely to result in irreversible trends or
+changes in estuarine resource properties or functions.
+ (4) Notification of Agencies.
+16.249 Lane Code 16.249
+
+June 2020 16-489 LC16.245_249
+  (a) Any application that is subject to the provisions of t his section shall,
+at a minimum, be referred to the following:
+   (i) U. S. Fish and Wildlife Service.
+   (ii) U. S. Environmental Protection Agency.
+   (iii) Oregon State Department of Fish and Wildlife.
+   (iv) Oregon State Department of Land Conservatio n and
+Development.
+   (v) Oregon State Division of State Lands.
+   (vi) National Marine Fishery Service.
+   (vii) Army Corps of Engineers.
+  (b) Agencies receiving referrals shall be afforded 15 calendar days from
+the date of mailing to review and comment on the proposed activity. (Revised by Ordinance 7-
+87, Effective 6.17.87)
+16.249 Lane Code 16.249
+
+June 2020 16-490 LC16.245_249
+
+PAGES 16-490 THROUGH 16-500
+ARE RESERVED FOR FUTURE EXPANSION

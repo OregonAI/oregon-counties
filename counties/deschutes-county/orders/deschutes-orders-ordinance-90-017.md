@@ -1,0 +1,119 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-90-017
+title: 'Ordinance No. 90-017'
+doc_type: ordinance
+citation: 'Ordinance No. 90-017'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616643908_1990-09819-Ordinance%20No.%2090-017%20Recorded%204_12_1990.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 359282d3a20c11ae40bcb53889eea266371ffdcc7bf56c3a5bbac4dfdc4f87e3
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 90-017 (Ordinance No. 90-017)
+
+## At a glance
+
+Ordinance No. 90-017 — orders of Deschutes County. 2 pages.
+
+## Full text
+
+so - 09x19
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DES
+An Ordinance Amending Ordinance
+No. PL - 15, the Deschutes County
+Zoning Ordinance of 1979, as
+Amended, Amending the Text on
+Parking and Loading Space Require- *
+ments on a Commercial Use Consist- *
+ing of Supermarkets and Grocery
+Stores, and Declaring an Emergency.*
+ORDINANCE NO. 90- 017
+V_ a L ,.. Ri. , E6_ "')
+COUNTY-, OREGM
+PLERK ' .
+MIC7, 0FILMED.
+MAY 159
+WHEREAS, the Planning Commission determined that the parking
+requirements for supermarkets and grocery stores was overly
+restrictive in the rural areas of Deschutes County; and
+WHEREAS, the Planning Commission proposed a text amendment
+to Ordinance No. PL - 15 to ease the parking and loading space
+requirements on a commercial use consisting of supermarkets and
+grocery stores; and
+WHEREAS, the Planning Commission recommended after a public
+hearing that the proposed parking and loading amendments be
+adopted by the Board of County Commissioners; and
+WHEREAS, notice of hearing was given in accordance with law;
+and
+WHEREAS, the Board of County Commissioners held a hearing on
+the proposed parking and loading space requirements text amend-
+ment on April 11, 1990; and
+WHEREAS, the Board of County Commissioners concurs with the
+Planning Commission recommendation that the parking and loading
+space requirements text amendment be approved; now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. Section 5. 040( 4)( F), " Off - Street Parking and
+Loading," of Ordinance No. PL - 15, is amended to read as follows:
+F. COMMERCIAL
+Retail store except 1 space per 300 sq. ft. of
+selling bulky merchan- gross floor area.
+dise and grocery stores
+1, 500 sq. ft. gross
+floor area or less:
+1 - ORDINANCE NO. 90- 017
+J U - 18{ 0
+Supermarkets and 1 space per 200 sq. ft. of
+grocery stores: gross floor area.
+Service or repair shops,
+retail stores and out-
+lets selling furniture,
+automobiles or other
+bulky merchandise where
+the operator can show
+the bulky merchandise
+occupies the major area 1 space per 600 sq. ft. of
+of the building: gross floor area.
+Bank or office, except 1 space per 300 sq. ft. of
+medical or dental: gross floor area.
+Medical and dental 1 space per 150 sq. ft. of
+office or clinic: gross floor area:
+Eating or drinking 1 space per 60 sq. ft. of
+establishments: gross floor area.
+Mortuaries: 1 space per 4 seats or 8
+ft. of bench length in
+chapels.
+Section 2. This Ordinance being necessary for the immediate
+preservation of the public peace, health and safety, an emergency
+is declared to exist, and this Ordinance takes effect on its
+passage.
+DATED this day of , 1990.
+BOARD OF COUNTY COMMISSIONERS
+OF DESCHPTES COUNTY, OREGON
+LOIS BRITOW PRANTE, Commiss
+EST• 0 T OOP Chair
+ording Secretary OICK MXUDLIN, C6mmissioner
+2 - ORDINANCE NO. 90- 017

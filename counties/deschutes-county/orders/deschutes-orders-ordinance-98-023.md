@@ -1,0 +1,261 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-98-023
+title: 'Ordinance No. 98-023'
+doc_type: ordinance
+citation: 'Ordinance No. 98-023'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616798394_1998-15075-Ordinance%20No.%2098-023%20Recorded%204_9_1998.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9d002d7ab3a7e6d5e5a955de045b16237d6ed76d475c5db29e28688abe19c752
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 271.340
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 98-023 (Ordinance No. 98-023)
+
+## At a glance
+
+Ordinance No. 98-023 — orders of Deschutes County. 4 pages.
+
+## Full text
+
+a'- ViFWED?. TO FORM REVIEWED
+0164- 296
+LEGA'-;
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES CO KE
+X
+coFes.
+An Ordinance Adding to Title 11 of the Deschutes
+County Code, and Declaring an Emergency.
+ORDINANCE NO. 98- 023
+r--
+ca N
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY, OREGON,
+ORDAINS as follows:
+Section 1. ADDING. Deschutes County Code Title 11, County Owned Land and Property,
+is amendedby the addition of Chapter 11.08, Exchangeof Real Property, as set forth in Exhibit " A,"
+attached hereto and by this reference incorporated herein.
+Section 2. EMERGENCY. This ordinance being necessaryfor the immediate preservation
+of the public peace, health and safety, an emergency is declared to exist, and this ordinance takes effect
+on its passage.
+DATED this 8h day of April, 1998.
+ATTEST:
+Recording Secretary
+Page I of I - Ordinance No. 98- 023 ( 4/ 8/ 98)
+BOARD OF COUNTY COMMISSIONERS FOR
+iRBA L. SWEARINGE ommissioner
+AICROFItMED a
+EXHIBIT " A"
+OChapter 11. 08. Exchange of Real
+Property
+11. 08. 010. Purpose.
+11. 08. 020. Definition - Cash.
+11. 08. 030. Definition - Land.
+11. 08. 040. Definition - Project.
+11. 08. 050. Definition - Real property.
+11. 08. 060. Agreements to exchange.
+11. 08. 070. Resolution of intent.
+11. 08. 080. Notice.
+11. 08. 090. Value of land.
+11. 08. 100. Specified value.
+11. 08. 110. Equalization of value.
+11. 08. 120. Order authorizing exchange.
+11. 08. 130. Delayed exchanges.
+11. 08. 140. Reverse exchange.
+11. 08. 150. Purchase of debt instruments.
+11. 08. 160. Project development.
+11. 08. 170. Expenditure of funds.
+11. 08. 010. Purpose.
+The purpose of this chapter is to provide
+procedures for the exchange of county owned
+land in accordance with ORS 271. 340 and
+275. 100. ( Ord. 98- 023 § 1, 1998)
+1.1. 08. 020. Definition - Cash.
+Cash" means money in the currency of the
+United States, contracts for the sale of real
+estate, notes and trust deeds, and other similar
+instruments, and the value of improvements to
+be constructed. ( Ord. 98- 023 § 1, 1998)
+11. 08. 030. Definition - Land.
+Land" means real property as defined in
+this chapter. ( Ord. 98- 023 § 1, 1998)
+11. 08. 040. Definition - Project.
+Project" means real property to be
+acquired, the retirement of debt incurred in
+acquiring real property or the interdepartmental
+transfer of real property previously acquired by
+the county with funds budgetedin a county
+department fund. ( Ord. 98- 023 § 1, 1998)
+11. 08. 050. Definition - Real property.
+Real property" means the land itself,
+above or under water; all buildings, structures,
+0164- 2967
+improvements, machinery, equipment or
+fixtures erected, or to be erected, upon, above or
+affixed, or to be affixed, to the same; all mines,
+minerals, quarries and trees in, under or upon
+the land; all water rights and privileges in any
+wise appertaining to the land; instream water
+rights; and any easement, estate, right, title or
+interest whatsoever in land or real property, less
+than the fee simple. ( Ord. 98- 023 § 1, 1998)
+11. 08. 060. Agreements to exchange.
+Prior to entering a resolution declaring the
+board's intention to acquire land by exchange,
+the board shall first enter into a non- binding
+letter of intent to exchange real property
+describing the real property sought to be
+acquired and exchanged, the parties responsible
+for payment of the expenses of appraisal, title
+examination, environmental investigation,
+unpaid real property taxes, liens and other
+transaction costs, and the date upon which the
+letter of intent shall expire. ( Ord. 98- 023 § 1,
+1998)
+11. 08. 070. Resolution of intent.
+Whenever the board enters into a non-
+binding letter of intent to exchange real
+property, the board may adopt a resolution
+declaring its intention to make the exchange
+described in the non-binding letter of intent to
+exchange real property when it finds that it is to
+the best interest of the county to acquire real
+property by exchange. The resolution declaring
+the board' s intention to exchange real property
+shall set a public hearing on the matter at least
+six weeks from the date of the resolution. The
+public hearing shall be for the purpose of
+hearing objections to the proposed exchange.
+Ord. 98- 023 § 1, 1998)
+11. 08. 080. Notice.
+Notice of the time and place of public
+hearing on a proposed exchangeof real property
+shall be given by publication once each week
+for four consecutive weeks in The Bulletin, a
+newspaper of general circulation in Deschutes
+County, Oregon. The last publication shall be at
+least seven days before the date of the hearing.
+PAGE 1 OF 3 - EXHIBIT " A" TO ORDINANCE NO. 98- 023 ( 4/ 8/ 98)
+EXHIBIT " A"
+The notice shall describe the land to be
+exchanged. ( Ord. 98- 023 § 1, 1998)
+11. 08. 090. Value of land.
+The value of land to be acquired by the
+county and exchangedby the county shall be
+determined pursuant to an appraisal of the fair
+market value of the land by a licensed real estate
+appraiser, evidence received by the board at a
+public hearing, or the value of the project to be
+acquired as determined by cost estimates
+developed for the project using the cost of
+construction method. ( Ord. 98- 023 § 1, 1998)
+11. 08. 100. Specified value.
+The board may enter into agreements with
+the State of Oregon, any municipal corporation
+or other public entity to exchange real property
+with values agreed upon by the parties when
+such values are supported by good and
+sufficient evidence. ( Ord. 98- 023 § 1, 1998)
+11. 08. 110. Equalization of value.
+When finding that lands being exchanged
+are not of equal value, the board may determine
+that any differences in value may be equalized
+by the payment of cash. Any cash received by
+the county shall be used to acquire other real
+property or improvements to real property
+described in the project identified in the order
+authorizing the exchange. ( Ord. 98- 023 § 1,
+1998)
+11. 08. 120. Order authorizing exchange.
+When the board finds that the land is of
+equal value, including any cash offered in
+exchange, the board may, upon finding that the
+exchange is to the best interest of the county,
+enter its order authorizing the exchange. If cash
+constitutes all or a part of the consideration to
+be received by the county, the order shall
+declare the project to be acquired with the cash.
+Prior to closing an exchange of land, the
+proceedings shall be reviewed by a competent
+attorney who shall review the proceedings for
+conformity with this chapter and ORS 271.340
+and 275. 100 and who shall also approve title to
+the land exchanged by each party. All deeds
+given or accepted by the county shall bear the
+0164= 2968
+order number authorizing the exchange. ( Ord.
+98- 023 § 1, 1998)
+11. 08. 130. Delayed exchanges.
+Where the board has determined that it is to
+the best interest of the county to acquire land,
+theboardmay exchangeland for cash. The land
+to be acquired shall be of equal or greater value
+than the value of the cash to be received. Prior
+to exchanging land for cash, the board shall
+identify anddesignatethe projectto beacquired
+with the proceeds of the exchange, and shall
+hold such proceeds for the purpose of acquiring
+the project. Such cash shall be deposited at
+interest in an account to be used exclusively for
+the project. ( Ord. 98- 023 § 1, 1998)
+11. 08. 140. Reverse exchange.
+When it is to the best interest of the county
+to acquire real property available for sale, the
+county may do so prior to identifying a project.
+Such real property may subsequently be
+designated for a project. When designated for a
+project, the county department fund acquiring
+the real property shall be reimbursed the full
+cost of the acquisition of the real property.
+Ord. 98- 023 § 1, 1998)
+11. 08. 150. Purchase of debt instruments.
+The board may authorize a county
+department fund to purchase a debt instrument
+received by the County, in whole or in part, in
+exchange for land. The cash money realized by
+the interdepartmental purchase of a debt
+instrument shall be designated for a project in
+the same manner in which cash is designated for
+a project under this chapter. ( Ord. 98- 023 § 1,
+1998)
+11. 08. 160. Project development.
+If land is exchanged for cash for a
+designated project, the proceeds of the exchange
+shall not be used for any other purpose, unless
+the board, by order, abandons the project for
+which the funds were segregated and identifies a
+new project of equal or greater value. ( Ord. 98-
+023 § 1, 1998)
+PAGE 2 OF 3 - EXHIBIT " A" TO ORDINANCE NO. 98- 023 ( 4/ 8/ 98)
+EXHIBIT " A" 0164- 2969
+11. 08. 170. Expenditure of funds.
+Funds identified for a project must be fully
+expended for the project within ten years of the
+date of the order authorizing the exchange. if
+funds for a project remain unexpended after ten
+years, the unexpended funds shall be distributed
+in accordance with ORS 275. 275. ( Ord. 98- 023
+1, 1998)
+PAGE 3 OF 3 - EXHIBIT " A" TO ORDINANCENO. 98- 023 ( 4/ 8/98

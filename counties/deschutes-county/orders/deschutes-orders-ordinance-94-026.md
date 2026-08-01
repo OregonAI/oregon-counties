@@ -1,0 +1,252 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-94-026
+title: 'Ordinance No. 94-026'
+doc_type: ordinance
+citation: 'Ordinance No. 94-026'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616698409_1994-22178-Ordinance%20No.%2094-026%20Recorded%205_12_1994.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: fc949bbb6932fe5065528dd7d5dd4c414925548e34ffddffffb2b721d793eaff
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.203
+    - ORS 215.236
+    - ORS 308.765
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 94-026 (Ordinance No. 94-026)
+
+## At a glance
+
+Ordinance No. 94-026 — orders of Deschutes County. 6 pages.
+
+## Full text
+
+z
+REVIEWED
+94- 22178 wwtz
+LEGAL COUNSEL
+BEFORE THE BOARD OF COUNTY COM 1SSIONERS OF DESCHUTES COUNTY, OREGON
+An Ordinance Amending. Chapter 18. 16 * ` ' ! ` r
+j: [}]
+of the Deschutes County Code, Amending
+Standards for Nonfarm Dwellings and
+Divisions of Farm Properties in the * "
+Exclusive Farm Use ( EFU) Zone, and
+Declaring an Emergency. *
+0 t' " a' 1. ,^t"5)
+NO. 94- 026
+WHEREAS, the Land Conservation and Development Commission filed
+new administrative rules OAR 660- 33- 135 on March 1, 1994, relative to
+requirements for Agricultural Lands; and
+WHEREAS, the newly adopted rules were made effective upon filing;
+and
+WHEREAS, the newly adopted rules are very restrictive for
+establishing new farm dwellings, but provide the county the ability to
+relax somewhat approval standards for nonfarm dwellings; and
+WHEREAS, the Board finds it is in the public interest to balance
+the effect of these new rules on rural property owners; and
+WHEREAS, public hearings have been held on the proposed amendments
+consistent with state and county law; and
+WHEREAS, the Deschutes County Planning Commission recommended
+adoption of the amendments as proposed; now therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY ORDAINS as
+follows:
+Section 1. ADOPTION OF AMENDMENTS TO SECTION 18. 16. 050 OF THE
+DESCHUTES COUNTY CODE. Section 18. 16. 050 of the Deschutes County Code,
+as amended, is further amended by the provisions set forth in Exhibit
+A", attached hereto and by this reference incorporated herein.
+Section 2. ADOPTION OF AMENDMENTS TO SECTION 18. 16. 055 OF THE
+DESCHUTES COUNTY CODE. Section 18. 16. 055 of the Deschutes County Code,
+as amended, is further amended by the provisions set forth in Exhibit
+B", attached hereto and by this reference incorporated herein.
+Section 3. SEVERABILITY. The provisions of this ordinance are
+severable. If any sentence, clause, or phrase of this ordinance is
+found to be invalid by a court of competent jurisdiction that decision
+shall not affect the validity of the remaining portions of this
+ordinance.
+ORDINANCE NO. 94- 026
+kEY ,-
+J 199
+0135- 161,6
+Section 4. CORRECTIONS. This ordinance may be corrected by
+order of the Board of County Commissioners to cure editorial and
+clerical errors and to insert appropriate legislative history
+references.
+Section 5. REPEAL OF ORDINANCES AS AFFECTING EXISTING
+LIABILITIES. The repeal, express or implied, of any ordinance,
+ordinance provision, code section or any line on any map by this
+ordinance shall not release or extinguish any duty, condition, penalty,
+forfeiture, or liability incurred under such ordinance, ordinance
+provision, code section or map feature unless a provision of this
+ordinance shall so expressly provide, and such ordinance repealed shall
+be treated as still remaining in force for the enforcement of such
+duty, condition, penalty, forfeiture, or liability, and for the purpose
+of authorizing the prosecution, conviction and punishment of the person
+or persons who violated the repealed ordinance.
+Section 6. EMERGENCY. This Ordinance being necessary for the
+immediate preservation of the public peace, health and safety, an
+emergency is declared to exist, and this Ordinance takes effect on its
+passage.
+DATED this // fA day of May, 1994.
+AT ES
+Recording Secretary
+ORDINANCE NO. 94- 026
+Page 2
+BOARD OF COUNTY
+NANCY scB'" GEN, Chair
+Uyvf
+TOM' THROOP, I Co issioner
+A 1#C/
+BARRY H. SLAUGHTER, Commissioner
+EXHIBIT " A" 0135- 1.6' 1
+18. 16. 050 Standards for Dwellings in the EFU Zones
+A. Farm - Related Dwellings
+A dwelling, includinga manufacturedhomein accordancewith Section18.116.070, is considered
+to becustomarilyprovidedin conjunctionwithfarmuseandmaybepermittedwhenall thefollowing
+criteria are met:
+a. The dwelling will be located on a legally establishedparcel that meetsthe minimum
+parcel size for the applicable subzone, as described under Section 18. 16.065.
+b. The parcel is currently employedin "farm use", as evidencedby a farm management
+planshowingthattheday-to-dayactivitiesonthelandareprincipallydirectedto thefarmuseof the
+land.
+C. Thedwellingisfor thefarmoperatorandtherearenootherdwellingslocatedonthe
+parcel or parcels covered by the farm management plan.
+d. The dwelling will be located on the least productive part of the parcel.
+e. No further farm related dwellings will be allowed on separate parcels, any portion
+of which makesup the land areaincluded in the farm managementplan, asevidencedby a restrictive
+covenant.
+B. SecondaryAccessoryFarmDwelling. A manufacturedhomeasa secondaryaccessoryfarm
+dwellingin accordancewith Section18.116.070maybe permittedsubjectto the followingcriteria:
+a. An owner -occupied farm dwelling, consistentwith Section 18.16.050(A), must exist
+on the farm unit.
+b. A secondaryaccessoryfarm dwelling is not permitted on a parcel of less than 40
+acresunlessit is demonstratedto the Planning Director or Hearings Body that a smaller land unit
+is a commercial agricultural enterprise.
+C. No more than one secondaryaccessoryfarm dwelling is permitted for each40 acres
+of the farm unit.
+d. The occupant of the manufactured home shall be an employee of the farm owner or
+an immediate family member engagedin the farm operation.
+e. The manufacturedhomeshallbeconsideredatemporary installation and permits for
+such shall be renewable on an annual basis.
+f. The manufactured home shall be removed from the property if it is no longer needed
+for the operation of the farm.
+Chapter 18. 16 1 ( 05/ 94)
+Ole 5_101'
+C. A Pre -Existing Dwelling as a Ranch Hand Residence may be permitted subject to the
+following criteria:
+a. The occupant of the dwelling shall be an employeeof the farm owner or an imme-
+diate family member engagedin the farm operation.
+b. The farm unit shall be a minimum of 40 acres unless it is demonstrated to the Plan-
+ning Director or Hearings Body that a smaller land unit is a commercial agricultural enterprise.
+C. No more than one preexisting dwelling may be permitted as a ranch hand residence
+for each 40 acres of the farm unit.
+D. Non- farm Dwelling. One single-family dwelling, including a manufactured home in
+accordance with Section 8.116.070, not provided in conjunction with farm use may be permitted on
+an existing lot or parcel subject to the following criteria:
+a. The PlanningDirector or Hearings Bodyshall makefindings that [the proposednon-
+farm dwelling]:
+1. Is compatible with farm uses described in ORS 215. 203( 2) and is consistent
+with the intent and purpose set forth in ORS 215. 243.]
+1[ 2]. The dwelling or activities associated with the dwelling will not force a
+significant change in or significantly increase the cost of accepted farming practices, as defined in
+ORS 215. 203( 2)( c), or accepted forest practices on nearby lands devoted to farm or forest use.
+Does not interfere seriouslywith acceptedfarming practices, asdefined in ORS 215.203(2)(c), on
+adjacent lands devoted to farm uses.]
+2[ 3]. The proposed nonfarm dwelling d[ D] oes not materially alter the stability of
+the overall land use pattern of the area. In determining whether a proposed nonfarm dwelling will
+alter the stability of the land use pattern in the area, the county shall consider the cumulative
+impact of nonfarm dwellings on other lots or parcels in the area similarly situated and whether
+creation of the parcel will lead to creation of other nonfarm parcels, to the detriment of agriculture
+in the area.
+3[4]. The proposed nonfarm dwelling i[ I] s situated on an existing lot or parcel, or a
+portion of a lot or parcel, that is generally unsuitablefor the production of farm crops andlivestock,
+or merchantabletree species, consideringthe terrain, adversesoil or land conditions, drainageand
+flooding, vegetation, location and size of the tract.
+For the purposes of this subsection only, unsuitability shall be determined with
+reference to the following.
+A lot or parcel shall not be considered unsuitable solely because of size or location
+if it can reasonably be put to farm or forest use in conjunction with other land. If the parcel is
+under forest assessment, the dwelling shall be situated upon generally unsuitable land for the
+production of merchantable tree species recognized by the Forest Practices Rules, considering the
+terrain, adverse soil or land conditions, drainage and flooding, vegetation, location and size of the
+parcel.
+Chapter 18. 16 2 ( 05/ 94)
+0135 - IC
+11#
+A lot or parcel is not " generally unsuitable" simply because it is too small to be
+farmed profitably by itself. If a lot or parcel can be sold, leased, rented or otherwise managed as
+part of a commercial farm or ranch, it is not " generally unsuitable". A lot or parcel is presumed
+to be suitable if it is composedpredominantly of Class I -VI soils. Just becausea lot or parcel is
+unsuitable for one farm use does not mean it is not suitable for another farm use. If the parcel is
+under forest assessment, the area is not " generally unsuitable" simply because it is too small to be
+managed for forest production profitably by itself.
+If a lot or parcel under forest assessment can be sold, leased, rented or otherwise
+managed as a part of a forestry operation, it is not " generally unsuitable". If a lot or parcel is
+under forest assessment , it is presumed suitable if it is composed predominantly of soil capable
+of producing 20 cubic feet of wood fiber per acre per year. If a lot or parcel is under forest
+assessment, to be found compatible and not seriously interfere with forest uses on surrounding land
+it must not force a significant change in forest practices or significantly increase the cost of those
+practices on the surrounding land.
+4[ 5]. The proposednonfarm dwelling i[I] s not within one-quarter mile of a dairy
+farm, feed lot, salesyard, slaughterhouseor poultry, hog or mink farm, unlessadequateprovisions
+are made and approvedby the Planning Director or Hearings Body for a buffer betweensuchuses.
+The establishment of a buffer shall be designed based upon consideration of such factors as
+prevailing winds, drainage, expansion potential of affected agricultural uses, open space and any
+other factor that may affect the livability of the non-farm dwelling or the agriculture of the area.
+Ord. 91- 020 ss 1, 1991)
+b. Pursuant to ORS 215.236, a non-farm dwelling on a lot or parcel in an ExclusiveFarm Use
+zone that is or has been receiving special assessment may be approved only on the condition that
+beforea buildingpermit is issuedtheapplicantmustproduceevidencefrom the CountyAssessor's
+Office that the parcel upon which the dwelling is proposed has been disqualified for special
+assessment at value for farm use under ORS 308. 370 or other special assessment under ORS
+308.765, 321.352, 321.730or 321.815 and that any additional tax or penalty imposed by the County
+Assessor as a result of disqualification has been paid.
+C. A parcel that has been disqualified for special assessment at value for farm use pursuant to
+ORS 215.236(4) shall not requalify for special assessment unless, when combined with another
+contiguous parcel, it constitutes a qualifying parcel. ( Ord. 91- 038 ss 2 and 3 1991)
+Chapter 18. 16 3 ( 05/ 94)
+EXHIBIT " B"
+18. 16. 055 Land Divisions
+A. General. Divisions of land in the farm zone shall be identified on the land division
+application as either a farm division, nonfarm dwelling division, or a nonfarm division.
+B. Farm Divisions. Farm divisions shall be subject to the minimum lot size requirements of
+Section 18. 16.060( A) and all applicable requirements of Title 17. Notwithstanding the provisions
+of section 18.16.060(B), partitions establishing parcels less than the EFU minimum lot size in EFU
+areas may be permitted to create one new parcel for a nonfarm dwelling that has been approved
+under subsection 18. 16. 050( D), provided that the remaining farm parcel meets the minimum
+established by the EFU subzone.
+C. Nonfarm Dwelling Divisions.
+a. Nonfarm dwelling land divisions shall be subject to the minimum lot size require-
+ments of Section 18.16.060(B) and all applicable requirements of the partition ordinance, including
+the general partition standards set forth in Chapter 17. 28 and the Section 18. 16. 050( D) standards
+for nonfarm dwellings. Each nonfarm dwelling land division application shall be accompanied by
+an application for a dwelling on each parcel to be created.
+b. Nonfarm subdivisions are prohibited. No more than three nonfarm parcels may be
+created from any one parent parcel, existing as of the effective date of Ordinance 92-065.
+D. Nonfarm Divisions other than Nonfarm Dwellings. Such divisions shall be subject to the
+minimum lot size requirements of Section 18. 16. 060( C) of this Chapter and the applicable
+partitioning standards, including the general partition standards set forth in Chapter 17.28, the
+Subdivision and Partition Ordinance.
+Chapter 18. 16 1 ( 05/ 94)

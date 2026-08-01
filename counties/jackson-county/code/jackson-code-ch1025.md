@@ -1,0 +1,533 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/jackson-county
+id: jackson-code-ch1025
+title: 'Ch1025'
+doc_type: ordinance
+citation: 'Ch1025'
+authority_level: county_ordinance
+issuing_body: 'Jackson County Board of Commissioners'
+source_url: https://jacksoncountyor.gov/Document%20Center/Government/Codified%20Ordinances/10%20Streets/Ch1025.pdf?t=202406181438080
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 1bd7786ca3751f24bc41eb3666cf7912bbb24cf5f10ff9a5a47f013be03f36b9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 223.297
+  related: []
+  supersedes: []
+tags: [jackson-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Jackson County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ch1025 (Ch1025)
+
+## At a glance
+
+Ch1025 — code of Jackson County. 12 pages.
+
+## Full text
+
+CHAPTE
+R 1025
+System Development Charges
+
+1025.01 Purpose; A
+uthority.
+1025.02 System Development Charges Established.
+1025.03 Scope and Exemptions.
+1025.04 Definitions.
+1025.05 Methodology.
+1025.06 Independent Engineering Evaluation.
+1025.07 Revenue Purposes and Restrictions.
+1025.08 Capital Improvements Plan.
+1025.09 Payment of Charges by Developers.
+1025.10 Installment Payment Option for Owners.
+1025.11 Delinquent Charges.
+1025.12 Credits.
+1025.13 Appeals.
+1025.14 Penalty.
+1025.15 Injunctive Relief.
+1025.16 Construction.
+1025.17 Severability.
+1025.18 Effective Date.
+
+CROSS REFERENCES
+
+Finance Depart
+ment - see ADM. Ch. 228
+Public Works Department - see ADM. Ch. 232
+Public works operations - see S.U. & P.S. Ch. 1020
+County roads standards and specifications - see S.U. & P.S. 1020.02,
+1020.03, Ch. 1024
+Construction at Airport - see S.U. & P.S. 1062.59; Jackson County
+Comprehensive Plan see P. & Z. Ch. 1226
+South Medford Interchange B Surcharge to the Street System Development
+Charge (SurSDC) - See S.U. & P.S. Ch. 1080
+
+1025.01 PURPOSE; AUTHORITY.
+
+The purpose of system development charges is to require a portion of the cost of capital
+improvements expended by the County to be paid by developments that create increased
+need for and demands on capital improvements. This chapter is authorized by ORS
+223.297 to 223.314.
+
+(Ord. 91-5. Passed 1-16-91.)
+1025.03 System Development Charges 16
+
+1025.02 SYSTEM DEVELOPMENT CHARGES ESTABLISHED.
+
+System development charges shall be established in accordance with the procedures set
+forth in this chapter. Implementing ordinances or resolutions to establish methodology
+and fees shall state the area or areas within the County where the system development
+charges shall be imposed according to that methodology.
+
+(Ord. 91-5. Passed 1-16-91.)
+
+1025.03 SCOPE AND EXEMPTIONS.
+
+(a) The system development charges imposed pursuant to this chapter are incurred as a
+result of development and are therefore separate from  and in addition to any applicable
+tax, assessment, charge, fee or payment otherwise provided by law, imposed as a
+condition of ownership, imposed as a condition of development, or voluntarily
+contributed.
+
+(b) Dwelling units, structures and uses established, existing and approved on or before
+the effective date of this chapter will not be required to pay a system development charge
+to the extent of the dwelling unit, structure or use that then legally exists, or is approved,
+and to the extent of the developed area of land as constituted on that date.
+
+(c) Alteration, addition, replacement or change in use that does not add another
+dwelling or otherwise increase the parcels  or structures potential use of the park and
+recreation system or transportation system according to this chapter shall not pay a
+system development charge for the park and recreation system or transportation system.
+Development projects required solely to comply with governmental regulations to protect
+the public health, safety and welfare, such as installation of pollution control equipment,
+shall not be deemed to increase use of the park and recreation system or transportation
+system.
+
+(d) Each structure, use or building addition established after the effective date of this
+chapter shall pay a syste m development charge only once for a given type of capital
+improvement.
+
+(e) An approved project for which permits expire shall be subject to system
+development charges as is all other new development.
+
+(Ord. 91-5. Passed 1-16-91; Ord. 2000-4. Passed 3-15-00.)
+17 System Development Charges 1025.04
+
+1025.04 DEFINITIONS.
+
+As used in this chapter:
+
+(a) Approved - means a development that is allowed pursuant to a building permit
+application submitted prior to the effective date of this chapter. For a period of one year
+after the effective date of this chapter an approved project shall also include
+developments resulting from land use applications for conditional use permits, mobile
+home park permits, destination resort approvals and comm ercial and industrial site plans
+submitted before the effective date of this chapter.
+
+(b) Board - means the Jackson County Board of Commissioners.
+
+(c) Capacity - means the limits of performance or service levels provided by capital
+facilities or assets.
+
+(d) Capital Improvements - means facilities or assets used for transportation or storm
+drainage and flood control or parks and recreation, but not including the cost of operation
+or routine maintenance of capital improvements. These facilities or assets include, but are
+not limited to:  acquisition of rights-of -way; acquisition of land; alteration (including
+closure) of access points that improve road capacity; hard-surfacing of unpaved roads or
+road shoulders; bridge construction (new bridges and replacement or rehabilitation);
+reconstructing, placing or adding depth to road base; installation and modification of
+traffic signals; adding travel or turn lanes; widening lanes; widening road shoulders or
+bikeways; improving the ability of bridges, culverts, roadside ditches and storm drains to
+carry storm runoff or pass flood waters; construction or expansion of parks and recreation
+facilities; and landscaping and tree planting.
+
+(e) Development - means construction of a building or physical change in a structure
+that requires a building permit.
+
+(f) Dwelling - means a building or portion thereof, designed or used for human
+occupancy as a residence for one or more persons, not including vehicles, travel trailers
+or recreational/camping vehicles.
+
+(g) Improvement Fee - means a fee for costs associated with capital improvements to be
+constructed after the date the fee is paid.
+
+(h) Increase in Capaci ty or Capacity -Increasing - means an increase in system capacity
+that occurs when a capital improvement increases the level of performance or service
+provided by existing facilities or assets, or removes limits on the use of facilities or
+assets, or provides new facilities or assets.
+1025.04 System Development Charges 18
+
+(i) Land Area - means the area of a unit of land as measured by projection of the parcel
+boundaries upon a horizontal plane with the exception of a portion of the unit of land
+within a recorded right of way or easement subject to a servitude for a public street or
+scenic or preservation purpose.
+
+(j) Owner - means the owner of record title or the purchaser under a recorded sales
+agreement, and other persons having an interest of record in the described real property.
+
+(k) Qualified Public I mprovement - means capital improvements on arterial and
+collector roads or in the parks and recreation system that are identified in the capital
+improvements plan adopted pursuant to this chapter.
+
+(l) Reimbursement Fee - means a fee for actual costs associated with capital
+improvements already constructed or under construction when the fee is collected.
+
+(m) Routine Maintenance  - means maintenance customarily performed by County
+forces, as distinct from extraordinary maintenance that is contracted out because the
+County does not have sufficient equipment or expertise readily available to perform the
+work.
+
+(n) System Development Charge - means a reimbursement fee, an improvement fee, or
+a combination thereof, paid or required at the time of increased usage of a capital
+improvement, at the time of issuance of a development permit or building permit, or at
+the time of connection to the capital improvement. "System development charge" does
+not include fees assessed or collected as part of a local improvement district or a charge
+in lieu of a local improvement district assessment, or the cost of  complying with
+requirements or conditions imposed by a land use decision.
+
+(o) Trip Share Factor - means the figure which represents the trip generation rate of a
+use or development adjusted to remove passby trips or adjusted for other relevant factors
+determined in the methodology for system development charges for road capacity.
+
+(p) Under Construction - means, with reference to a capital improvement, the time at
+which any contract to build or obtain the capital improvement becomes effective.
+
+(q) Unit of Land  - means a lot, parcel, block or other tract of land that is occupied or
+may be occupied by a structure or structures or other use, and that includes the yards and
+other open spaces required under the Jackson County Land Development Ordinance, but
+excludes public rights of way.
+
+(r) Unused Capacity  - means the capacity not used by existing developments or the
+existing population of an area and therefore available for use by new development.
+19 System Development Charges 1025.06
+
+(s) Wholly Contiguous - means property along the frontage or perimeter boundaries of a
+site; adjacent to a unit of land.
+
+(Ord. 91-5. Passed 1-16-91; Ord. 2000-4. Passed 3-15-00.)
+
+1025.05 METHODOLOGY.
+
+(a) A methodology to establish reimbursement fees shall consider the actual cost of
+existing facilities, prior contributions by existing users, the value of unused capacity,
+rate-making principles employed to finance publicly owned capital improvements, and
+other relevant factors identified and documented in the ordinance or resolution
+establishing the methodology and fees. The methodology shall promote the objective that
+future systems users shall contribute no more than an equitable share to the actual cost of
+existing facilities.
+
+(b) A methodology to establish an improvement fee shall consider the cost of projected
+capital improvements needed to increase the capacity of the systems to which the fee is
+related.
+
+(c) A methodology to establish either an improvement fee or a reimbursement fee, or
+both, shall be containe d in a resolution adopted by the Board, and available for public
+inspection.
+
+(d) A legal action challenging a methodology adopted by the Board pursuant to this
+section shall not be filed later than sixty days after the adoption of the methodology.
+
+(e) System development charges shall also include an additional amount to defray
+administrative costs, and may include costs of planning for capital improvements funded
+by system development charges.
+
+(f) Rounding off to two places beyond the decimal point or to the nearest penny (one-
+hundredth of a dollar) shall be allowed at every step of any calculation concerning system
+development charges. The differences in fees that may result from such rounding off are
+minimal, and therefore will not impair the equitable application of this chapter.
+
+(Ord. 91-5. Passed 1-16-91.)
+
+1025.06 INDEPENDENT ENGINEERING EVALUATION.
+
+(a) An applicant or an agency who disagrees with the amount of road-related system
+development charges may arrange at its own expense for independent evaluation,
+including actual counts of vehicle trips and trip ends, by a professional traffic engineer
+registered to practice in the State of Oregon.
+1025.07 System Development Charges 20
+
+(b) A letter stating the intention to have an independent engineering evaluation
+completed within eighteen months shall be accompanied by an appropriate engineering
+review fee and evidence of the applicant's system development charge placed on deposit
+with the Finance Director. Failure to submit a complete report to the County within
+eighteen months shall mean the amount on deposit will be the final system development
+charge for that use.
+
+(c) Within thirty days of receiving the independent engineer 's report, the Roads and
+Parks Director shall review the adequacy of  the independent engineer's evaluation. If the
+report is found adequate and the result of the independent evaluation differs from the
+charge on deposit, the applicant shall either:
+
+(1) Be required to pay the amount on deposit plus any additional system
+development charge (not including interest) if the trip share factor is higher; or
+
+(2) Receive a refund from the amount on deposit (not including interest) if the trip
+share factor is lower.
+
+(d) Disputed items in the independent engineer's evaluation or the Roads and Parks
+Director's review of the report may be appealed under the procedures in this chapter.
+
+(Ord. 91-5. Passed 1-16-91; Ord. 2003-4. Passed 1-22-03; Ord. 2007-2. Passed 1-31-07.)
+
+1025.07 REVENUE PURPOSES AND RESTRICTIONS.
+
+(a) System development charges for road, street and highway projects and related storm
+drainage and flood control measures shall be applied to costs of capacity increasing
+capital improvements associated with the public road system in the County, including
+expenditures relating to repayment of indebtedness.
+
+(b) A capital improvement being funded wholly or in part from system development
+charge revenues shall be included in the capital improvement plan(s) adopted by the
+Board.
+
+(c) Notwithstanding subsections (a) and (b) hereof, system development charge
+revenues may be expended on the direct costs of complying with the provisions of this
+chapter, and ordinances or resolutions adopted pursuant to this chapter, including the
+actual costs of developing system development charge methodologies, developin g capital
+improvement plans, and providing an annual accounting of system development charge
+expenditures.
+
+(d) System development charges shall be earmarked for expenditure in accordance with
+this section, and deposited in accounts designated for such moneys. That portion of the
+system development charges (plus interest) paid on account of roads, streets and
+highways shall be used for no purpose other than those set forth in this chapter.
+21 System Development Charges 1025.08
+
+(e) The County Administrator shall provide the Board with an annual accounting for
+each fiscal year based on first-in, first-out treatment of costs related to system
+development charges. The annual accounting shall show the total amount of system
+development charge revenues accumulated for each type of facility and the projects
+funded by system development charges.
+
+(f) System development charges shall not be expended for costs associated with the
+construction of administrative office facilities, but this shall not prohibit use of system
+development charges for administration of this chapter, nor overhead charges to capital
+projects.
+
+(g) System development charges shall not be expended for operation or routine
+maintenance of capital improvements.
+
+(h) System development charges for parks and recreation facilities and park and open
+space land shall be applied to costs of capacity increasing capital improvements
+associated with the park and recreation system in Jackson County, including expenditures
+relating to repayment of indebtedness.
+
+(Ord. 91-5. Passed 1-16-91; Ord. 2000-4. Passed 3-15-00.)
+
+1025.08 CAPITAL IMPROVEMENT PLAN.
+
+Prior to adopting any improvement fee and prior to expending any reimbursement fee
+revenues, the Board shall adopt a Capital Improvement Plan or Plans, which may include,
+but not be limited to, a Road System Plan coordinated with the Jackson County
+Comprehensive Plan that:
+
+(a) Describes the types of capital improvements that may be funded with system
+development charge revenues;
+
+(b) Lists the estimated cost for each type of capital outlay by fiscal year;
+
+(c) Indicates the timing of specific capital improvement projects at least one fiscal year
+in advance; and
+
+(d) Describes the process for modifying the plan and determining capital project
+priorities.
+
+(Ord. 91-5. Passed 1-16-91.)
+1025.10 System Development Charges 22
+
+1025.09 PAYMENT OF CHARGES BY DEVELOPERS.
+
+(a) System development charges are payable by developers prior to issuance of permits
+to build or put in place any of the following:
+
+(1) Additional dwelling units on individual units of land;
+
+(2) New or added mobile home spaces in a mobile home park; or
+
+(3) New construction or additions of more than 500 square feet of nonresidential
+structures.
+
+(b) The Finance Director shall receive payment of the system development charge from
+the developer of the unit of land prior to issuance of a permit that allows development.
+
+(c) If development begins without an appropriate permit, the system development
+charge is immediately payable upon the earliest date that a permit was required.
+
+(d) When system development charges are due and unpaid, the Development Services
+Director shall not issue a building permit nor other permit that allows development, until
+the charges have been paid in full, or until an application for installment payments has
+been approved.
+
+(Ord. 91-5. Passed 1-16-91; Ord. 2003-4. Passed 1-22-03; Ord. 2007-2. Passed 1-31-07.)
+
+1025.10 INSTALLMENT PAYMENT OPTION FOR OWNERS.
+
+(a) When a system development charge is due and payable, the owner of land subject to
+the development charge may apply for payment in semi-annual installments. The
+installments shall include interest on the unpaid balance and charges to defray the actual
+administrative cost of providing the installment payment option. Installment payments
+may be distributed according to a schedule adopted by resolution of the Board, provided
+that all charges shall be paid in full upon sale of the property.
+
+(b) An applicant for installment payments shall have the burden of demonstrating the
+applicant's authority as owner to assent to the imposition of a lien on the land and that the
+interest of the applicant is adequate to secure payment.
+
+(c) The Finance Director shall provide application forms for installment payments,
+which shall include a waiver of all rights to contest the validity of the lien, except for the
+correction of computational errors.
+23 System Development Charges 1025.12
+
+(d) When the installment payment option is requested, the Development Services
+Director shall report to the Finance Director the amount of the system development
+charge owing, the name of the developer, the name of the owner, and the description of
+the parcel. The Finance Director shall prepare the lien agreement, including the dates on
+which payments are due, and the additional amount for interest and the actual
+administrative costs on installment payments.
+
+(Ord. 91-5. Passed 1-16-91; Ord. 2003-4. Passed 1-22-03; Ord. 2007-2. Passed 1-31-07.)
+
+1025.11 DELINQUENT CHARGES.
+
+(a) When, for any reason, an installment payment or system development charge has not
+been paid, the Finance-Director shall:
+
+(1) Prepare a report and notice to the owner concerning the delinquent charges;
+
+(2) Describe the development to which the charges are attributable; and
+
+(3) Note the date the charges were due.
+
+(b) The County Administrator may accept, reject or modify the determination of the
+Finance Director as set forth in the report. The County Administrator may direct the
+Finance Director to docket any additional unpaid and uncollected charges in the lien
+docket as may be necessary. Upon completion of the docketing, the County shall have a
+lien against the described land for the full amount of the unpaid charge, together with
+interest and the County's actual cost of publishing or serving notice.
+
+(Ord. 91-5. Passed 1-16-91.)
+
+1025.12 CREDITS.
+
+(a) Credit for a qualified public improvement associated with a new development shall
+be given as an offset to charges due, provided the credit is applied for with payment of an
+appropriate engineering review fee prior to the date when a system development charge is
+due and payable. If a qualified public improvement is located partially on and partially
+off the parcel that is the subject of the development approval, the credit shall be given
+only for the actual cost of the portion of the improvement not located on to the property
+as determined by the Roads and Parks Director. (Ord. 2003- 4. Passed 1-22-03; Ord.
+2007-2. Passed 1-31-07.)
+1025.13 System Development Charges 24
+
+(b) Credit for a qualified public improvement may equal, but not exceed, the system
+development charge due from a development, even if the actual cost of the capital
+improvement as documented by the developer exceeds the applicable system
+development charge.
+
+(c) Credit for a qualified public improvement shall not be transferable from one
+development to another, except upon the finding of the Roads and Parks Director that a
+reasonable relationship exists between the improvement and the development t o which
+credit is transferred.
+
+(d) Credit for a qualified public improvement shall not be transferable from one type of
+capital improvement to another, except that storm drains and flood control measures
+within the right of way that are an integral part of road or bridge construction projects are
+not a separate type of capital improvement for the purposes of this section.
+
+(e) Credit for capital improvements will be allowed only on building permits issued
+within three years after completion and acceptance of the capital improvements.
+
+(Ord. 91-5. Passed 1-16-91; Ord. 2003-4. Passed 1-22-03; Ord. 2007-2. Passed 1-31-07.)
+
+1025.13 APPEALS.
+
+(a) Any person aggrieved by a decision required or permitted to be made by County
+officials pursuant to this chapter or a person challenging the propriety of an expenditure
+of system development charge revenues may appeal the decision or the expenditure by
+filing a written  request (including an appropriate appeal fee) with the County
+Administrator describing with particularity the decision or the expenditure from which
+the person appeals.
+
+(b) An appeal of an expenditure must be filed within two years of the date of the alleged
+improper expenditure. If the Board determines that there has been an improper
+expenditure of system development  charge revenues, the Board shall direct that a sum
+equal to the misspent amount be deposited, within one year, to the credit of the account or
+fund from which it was spent.
+
+(c) Appeals of other decisions must be filed within ten working days of the date of the
+decision. If an error in calculating a fee is alleged, the County Administrator shall
+confirm the amount due. If the County Administrator determines there has been an error
+in calculation of the fee, the County Administrator shall correct the error and notify the
+appellant and other County officials and refund the amount owing to the person who paid
+the fee. There shall be no refunds for failure to claim credit, nor failure to appeal in a
+timely manner.
+25 System Development Charges 1025.17
+
+(d) If no error in calculating the fee is found, the County Administrator shall consider
+whether the decision of any County official or an expenditure is in accordance with
+applicable ordinances or resolutions and the provisions of ORS 223.297 to 223.314 and
+may affirm, modify or overrule the decisions.
+
+(e) The decision of the County Administrator may be appealed by a person with
+standing to the Board or a Hearings Officer designated by the Board.
+
+(f) Refunds of system development charge revenues shall not result from errors in the
+expenditure of earmarked funds, because errors in expenditure of system development
+charges are a separate and distinct issue from fee amounts due from developers.
+
+(Ord. 91-5. Passed 1-16-91.)
+
+1025.14 PENALTY.
+
+Violation of this chapter is punishable by a fine not to exceed $500 plus the amount of
+the system development charge and all applicable interest and administrative costs, or
+revocation of access to roads under Jackson County jurisdiction, or both.
+
+(Ord. 91-5. Passed 1-16-91.)
+
+1025.15 INJUNCTIVE RELIEF.
+
+Jackson County may seek injunctive relief or other appropriate civil remedy for any
+violation of this chapter.
+
+(Ord. 91-5. Passed 1-16-91.)
+
+1025.16 CONSTRUCTION.
+
+The rules of statutory construction contained in ORS Chapter 174 are adopted and by this
+reference made a part of this chapter.
+
+(Ord. 91-5. Passed 1-16-91.)
+
+1025.17 SEVERABILITY.
+
+The invalidity of a section or subsection of this chapter shall not affect the validity of the
+remaining sections or subsections.
+
+(Ord. 91-5. Passed 1-16-91.)
+1025.18 System Development Charges 26
+
+1025.18 EFFECTIVE DATE.
+
+(a) This chapter shall become effective on July 1, 1991.
+
+(b) The amendments made by Ordinance No. 2000-4 shall become effective on July 1,
+2000.
+
+(Ord. 91-5. Passed 1-16-91; Ord. 2000-4. Passed 3-15-00.)

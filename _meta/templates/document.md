@@ -1,7 +1,7 @@
 ---
 schema_version: 1
-corpus: "{{CORPUS_ID}}"
-jurisdiction: "{{JURISDICTION}}"
+corpus: "oregon-counties"
+jurisdiction: "oregon"
 id: 
 title: ""
 doc_type: 

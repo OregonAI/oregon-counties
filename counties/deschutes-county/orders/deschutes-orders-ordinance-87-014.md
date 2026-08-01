@@ -1,0 +1,151 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/deschutes-county
+id: deschutes-orders-ordinance-87-014
+title: 'Ordinance No. 87-014'
+doc_type: ordinance
+citation: 'Ordinance No. 87-014'
+authority_level: county_ordinance
+issuing_body: 'Deschutes County Board of Commissioners'
+source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616622287_1987-09516-Ordinance%20No.%2087-014%20Recorded%205_13_1987.pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d502653189ad195696bfefc517b8a580900de3d9768ed987f7f9ac0addc615bc
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [deschutes-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Deschutes County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance No. 87-014 (Ordinance No. 87-014)
+
+## At a glance
+
+Ordinance No. 87-014 — orders of Deschutes County. 3 pages.
+
+## Full text
+
+8' 7- 951
+BEFORE THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES
+An Ordinance Adopting
+Deschutes County Code,
+Declaring an Emergency
+KFYPUN
+the
+and
+ORDINANCE NO. 87- 014
+WHEREAS, the Book Publishing Company, Seattle,
+has compiled, edited and published a codification of
+laws of Deschutes County, Oregon; and
+COUNTYat RE
+VOL
+a 4.
+Washingtortr
+the general <
+WHEREAS, there are now on file in the office of the County
+Clerk, for public inspection, three copies of a document entitled
+Deschutes County Code;" now, therefore,
+THE BOARD OF COUNTY COMMISSIONERS OF DESCHUTES COUNTY,
+OREGON, ORDAINS as follows:
+Section 1. There is hereby adopted the " Deschutes County
+Code," as compiled, edited and published by Book Publishing
+Company, Seattle, Washington.
+Section 2. This code shall be known as the " Deschutes
+County Code" and it shall be sufficient to refer to said code as
+the " Deschutes County Code" in any prosecution for the violation
+of any provision thereof or in any proceeding at law or in
+equity. It shall be sufficient to designate any ordinance adding
+to, amending, correcting or repealing all or any part or portion
+thereof as an addition to, amendment to, correction or repeal of
+the " Deschutes County Code." Further reference may be had to the
+titles, chapters, sections and subsections of the " Deschutes
+County Code", and such reference shall apply to that numbered
+title, chapter, section or subsection as it appears in the code.
+Section 3. Whenever a reference is made to this code as the
+Deschutes County Code" or to any portion thereof, or to any
+ordinance, order or resolution of Deschutes County, Oregon,
+codified herein, the reference shall apply to all amendments,
+corrections and additions heretofore, now and hereafter made.
+Section 4. Title, chapter and section headings contained
+herein shall not be deemed to govern, limit, modify or in any
+manner affect the scope, meaning or intent of the provisions of
+any title, chapter or section hereof.
+Section 5. The provisions of this code shall not in any
+manner affect matters of record which refer to, or are otherwise
+connected with, ordinances, orders and resolutions, which are
+therein specifically designated by number or otherwise,
+and which
+1 - ORDINANCE NO. 87- 014
+VOL 82PAcE921
+are included within the code, but such references shall be con-
+strued to apply to the corresponding provisions contained within
+this code.
+Section 6. The last ordinance, order or resolution included
+in this code was Ordinance 86- 049, passed April 16, 1987. The
+following ordinances, passed subsequent to Ordinance 86- 049, but
+prior to adoption of this code, are hereby adopted and made a
+part of this code: Ordinances 86- 051, 86- 060, 86- 063, 86- 066,
+86- 068, 86- 069, 86- 071, 86- 072, 86- 073, 86- 075, 86- 076, 86- 077,
+87- 001, 87- 003, 87- 004, 87- 005, 87- 006 and 87- 007.
+Section 7. Neither the adoption of this code nor the repeal
+nor amendments hereby of any ordinance, order or resolution or
+part or portion thereof shall in any manner affect the prosecu-
+tion for violations of ordinances, which violations were commit-
+ted prior to the effective date hereof, nor be construed as a
+waiver of any license, fee, or penalty at said effective date due
+and unpaid under such ordinances, orders or resolutions, nor be
+construed as affecting any of the provisions of such ordinances,
+orders or resolutions relating to the collection of any such
+license, fee, or penalty, or the penal provisions applicable to
+any violation thereof, nor to affect the validity of any bond or
+cash deposit in lieu thereof required to be posted, filed, or
+deposited pursuant to any ordinance, order or resolution, and all
+rights and obligations thereunder appertaining shall continue in
+full force and effect.
+Section 8. If any section, subsection, sentence, clause or
+phrase of this code is for any reason held to be invalid or
+unconstitutional, such decision shall not affect the validity of
+any remaining portion or portions of this code unless:
+a. The code section, subsection, sentence, clause or
+phrase provides otherwise;
+b. The remaining part or parts are so essentially and
+inseparably connected with and dependent upon the un-
+constitutional or invalid part that it is apparent that
+the remaining part or parts would not have been enacted
+without the unconstitutional or invalid part; or
+C. The remaining part or parts, standing alone, are
+incomplete and incapable of being carried out in accor-
+dance with the Board' s intent.
+If for any reason this entire code should be declared invalid or
+unconstitutional, then the original ordinances, orders and reso-
+lutions shall be in full force and effect.
+Section 9. This Ordinance being necessary for the immediate
+preservation of the public peace, health and safety, an emergency
+2 - ORDINANCE NO. 87- 014
+VOL 82PAGET2
+is declared to exist, and this Ordinance takes effect on its
+passage.
+DATED this day of , 1987.
+BOARD OF COUNTY COMMISSIONERS
+OF 0SCHU21ZS _ COUNTY-,- OREGON
+Cnair
+ATTEST:
+TTOM T OOP, Co issloner
+V M
+4RecordingSecretary D CK MAUDLIN, mmissioner
+3 - ORDINANCE NO. 87- 014

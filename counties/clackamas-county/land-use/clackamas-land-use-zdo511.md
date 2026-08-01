@@ -1,0 +1,603 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clackamas-county
+id: clackamas-land-use-zdo511
+title: 'Zdo511'
+doc_type: ordinance
+citation: 'Zdo511'
+authority_level: county_ordinance
+issuing_body: 'Clackamas County Board of Commissioners'
+source_url: https://www.clackamas.us/planning/zdo511
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: dae9df5d8c408cf009c500ed8c2b918aee12962f458178ada039da5532a73d1a
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197A.445
+  related: []
+  supersedes: []
+tags: [clackamas-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clackamas County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Zdo511 (Zdo511)
+
+## At a glance
+
+Zdo511 — land use of Clackamas County. 8092 characters.
+
+## Full text
+
+ZDO 511: Village Community Service District (VCS) | Clackamas County 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Skip to main content
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Translate 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Jobs 
+ Events 
+ News 
+ Contact Us 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Toggle navigation 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ Main navigation 
+ 
+
+ 
+ 
+ 
+ Community 
+ 
+ 
+ Business 
+ 
+ 
+ Departments 
+ 
+ 
+ Our County 
+ 
+ 
+ I want to... 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ ZDO 511: Village Community Service District (VCS)  
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ZDO 511: Village Community Service District (VCS)  
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 511.01 Purpose Section 511 is adopted to implement the policies of the Comprehensive Plan for Village Community Service areas. 511.02 Applicability Section 511 applies to land in the Village Community Service (VCS) District. 511.03 Uses Permitted Uses permitted in the VCS District are listed in Table 511-1, Permitted Uses in the VCS District.  In addition, uses similar to one or more of the listed uses may be authorized pursuant to Section 106, Authorizations of Similar Uses.  As used in Table 511-1: "P" means the use is a primary use. "A" means the use is an accessory use. "C" means the use is a conditional use, approval of which is subject to Section 1203, Conditional Uses. "X" means the use is prohibited. Numbers in superscript correspond to the notes that follow Table 511-1. Permitted uses are subject to the applicable provisions of Subsection 511.04, Dimensional Standards, Subsection 511.05, Development Standard, Section 1000, Development Standards, and Section 1100, Development Review Process. 511.04 Dimensional Standards The following dimensional standards apply in the VCS District.  Modifications to the dimensional standards are established by Sections 800, Special Use Requirements; 903, Setback Exceptions; 904, Height Exceptions; 1107, Property Line Adjustments; and 1205, Variances. Setback:  The setback from lot lines abutting Oregon Trail Drive and Hines Drive shall be zero.  The minimum setback from all other lot lines shall be five feet. Maximum Building Height:  Maximum building height shall be 35 feet.   511.05 Development Standard All primary and accessory uses, including storage of materials, products, or waste, shall be wholly contained within an approved structure.   Table 511-1:  Permitted Uses in the VCS District Use VCS Accessory Uses, Customarily Permitted, such as bicycle racks, cogeneration facilities, meeting facilities, property maintenance and property management offices, rainwater collection systems, satellite dishes, solar energy systems, storage of building maintenance and landscape maintenance equipment, stormwater management facilities, transit amenities, utility service equipment, and utility service lines A Assembly Facilities, including auditoriums, community centers, and senior centers P Athletic Clubs C Bus Shelters A Child Care Centers P Civic and Cultural Facilities, including art galleries and museums P 1 ,C 2 Community Gardens P Composting Facilities X Daycare Services, Adult P Dwellings, if developed as affordable housing, as defined in ORS 197A.445(1), subject to Section 846, Affordable Housing P Electric Vehicle Charging Stations A Employee Amenities, including cafeterias, clinics, daycare facilities, fitness facilities, lounges, and recreational facilities A 3 Farmers' Markets, subject to Section 840 P Government Uses, including fire stations, police stations, and post offices P Libraries P Marijuana Processing X Marijuana Production X Marijuana Retailing X Marijuana Wholesaling X Offices, including developer sales offices and professional offices C Offices, including government offices and utility offices P Pedestrian Amenities P Places of Worship, subject to Section 804 P Public Recreation Facilities P Recyclable Drop-off Sites, subject to Section 819 A Roads P Schools P Signs, subject to Section 1010 A 4 Telecommuting Support Services, including photocopying centers with fax and computer facilities P Temporary Buildings for Uses Incidental to Construction Work, provided that such buildings shall be removed upon completion or abandonment of the construction work A Temporary Storage within an Enclosed Structure of Source-Separated Recyclable/Reusable Materials Generated and/or Used On-Site Prior to On-Site Reuse or Removal by the Generator or Licensed or Franchised Collector to a User or Broker A Utility Carrier Cabinets, subject to Section 830 P,C 5 Utility Facilities, including: Stormwater Management Facilities P,C 5 Utility Cabinets P, 6 Utility Facilities, except Utility Lines, in Road Rights-of-Way P Utility Lines P,C 7 Wireless Telecommunication Facilities, subject to Section 835 See Table 835-1 Notes to Table 511-1: 1 Museums are a primary use. 2 Art galleries are a conditional use. 3 Employee amenities shall be located in the same structure as the use to which they are accessory. 4 Temporary signs regulated under Subsection 1010.13(A) are a primary use. 5 Stormwater management facilities are a primary use if: They are underground, except for an outlet structure if applicable; They are vegetated, except for an outlet structure if applicable; or They are approved in conjunction with a development approved through another land use permit (e.g., a subdivision or design review). 6 Utility cabinets are a primary use if they comply with Section 830, Utility Cabinets, or if they are inside a road right-of-way. 7 Utility lines are a conditional use only if they are gas transmission lines or electric transmission lines. [Added by Ord. ZDO-250, 10/13/2014; Amended by Ord. ZDO-253, 6/1/2015; Amended by Ord. ZDO-254, 1/4/2016; Amended by Ord. ZDO-266, 5/23/2018; Amended by Ord. ZDO-268, 10/2/2018; Amended by Ord. ZDO-280, 10/23/2021; Amended by Ord. ZDO-287, 8/3/2023; Amended by Ord. ZDO-285, 9/3/2024; Amended by Ord. ZDO-288, 9/9/2024] Return to the Zoning and Development Ordinance main page. Contact zoninginfo@clackamas.us for additional information." 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Phone: 503-742-4500 
+ Email: zoninginfo@clackamas.us 
+ 
+ 
+ 
+ 150 Beavercreek Road Room #225 Oregon City, OR 97045 
+ 
+ 
+ Office Hours: Monday to Thursday  8 a.m. to 4 p.m. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ What's My Zoning? 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ Related Events 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ Related Events
+ 
+ 
+ 
+ 
+ Board of County Commissioners, Planning and Zoning 
+ 
+ 
+ Aug 
+ 04 
+ 
+ 
+ 11:00 am 
+ - 11:30 am 
+ 
+ 
+ Land Use Hearing: Z0437-25 and Z0438-25 - Aug. 4, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Aug 
+ 20 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0096-26 - Aug. 20, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+ Planning and Zoning 
+ 
+ 
+ Sep 
+ 03 
+ 
+ 
+ 9:30 am 
+ - 10:00 am 
+ 
+ 
+ Hearings Officer: Z0207-26 - Sept. 3, 2026 
+ More details 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ more events 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ SHORTCUTS 
+ 
+ 
+ 
+ Jobs Procurement Process, Contracts and Grants Pay Online CMap Contact the County Report a Hazard County Code Public Records Request HIPAA/Privacy Concerns Civil Rights ACA Complaint Form Accessibility Statement Title VI Compliance Plan Website Privacy Media Contacts 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ ELECTED OFFICIALS 
+ 
+ 
+ 
+ Chair Craig Roberts Commissioner Diana Helm Commissioner Paul Savas Commissioner Martha Schrader Commissioner Ben West   County Assessor/Tax Collector Bronson Rueda County Clerk Catherine McMullen District Attorney John Wentworth Justice of the Peace Kathleen Rastetter Sheriff Angela Brandenburg Treasurer Brian Nava 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Can’t find what you're looking for? 
+ 
+ 
+ 
+ 
+ Search Box 
+ 
+
+ 
+ enter your search here 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ Get email updates 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ©2026 Clackamas County
