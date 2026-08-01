@@ -1,0 +1,47 @@
+# What the MCP image does NOT need.
+#
+# `.git` IS NOT HERE AND MUST NOT BE. It is a RUNTIME dependency: the toolkit's FTS cache key
+# is `git rev-parse HEAD` plus a hash of `git status --porcelain`, and corpus_overview()
+# shells out to `git log -1`. Exclude it and repo_state() collapses to a constant, so content
+# changes stop invalidating the index — silently, with everything still reporting healthy.
+
+# THE SNAPSHOTS ARE A CI ARTIFACT, NOT A RUNTIME ONE. 3,335 committed .txt extractions,
+# 149 MB, and the server never opens them: `verify-provenance` re-slices every `## Full text`
+# against them in CI, which is where they matter. The documents themselves carry the text the
+# server serves.
+#
+# VERIFIED RATHER THAN ASSUMED, because "nothing reads it" is exactly the claim that is wrong
+# once and expensively — federal-reference excluded its snapshots and its citation module
+# turned out to read one AT IMPORT, so the framework raised FileNotFoundError before serving
+# a request. Checked here by moving the directory away and exercising the server:
+#
+#   ensure_index      ok            (builds from counties/*.md, not snapshots)
+#   resolve_citation  ors-215.203   direct hit into the sibling corpus
+#   resolve_citation  ors-197a.350  the renumbering redirect still works
+#   search_corpus     3 hits
+#   corpus_overview   ok
+#   get_document      body: 13,342 chars — the full text is in the document, not the snapshot
+#
+# This corpus declares no snapshot_slice_module and no tools_module, and its citation module
+# reads `_meta/ors-dispositions.yml` only, so there is no import-time path into this directory.
+# Re-run the check above if any of that changes.
+_meta/snapshots/
+
+# The raw sources are already gitignored, so a shallow-clone build never sees them. Named
+# anyway: the documented build is `git clone --depth 1 && docker build`, but someone will
+# eventually build from a working tree, and there 4.3 GB of PDFs would land in the image.
+_meta/snapshots/*.pdf
+_meta/snapshots/*.html
+_meta/snapshots/*.xml
+_meta/snapshots/*.json
+
+# Rebuilt on demand inside the image by the Dockerfile's ensure_index step. Copying a
+# host-built index in would ship one keyed to the host's repo state.
+_meta/.cache/
+
+# Never inputs to the server.
+.github/
+.obsidian/
+__pycache__/
+*.pyc
+.venv/
