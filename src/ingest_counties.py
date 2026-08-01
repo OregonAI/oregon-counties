@@ -19,6 +19,7 @@ capability.
 from __future__ import annotations
 
 import argparse
+import html
 import json
 import pathlib
 import re
@@ -60,17 +61,22 @@ def discover_link_list(profile: dict, family: str, cfg: dict) -> list[dict]:
     strict regex silently drops every document and produces a false none-found.
     """
     body, _ = fetch.get(cfg["listing_url"])
-    html = body.decode("utf-8", "replace")
+    # NOT named `html` — that shadows the stdlib module this function needs for unescape().
+    page = body.decode("utf-8", "replace")
     base = cfg.get("base_url") or cfg["listing_url"]
-    m = re.search(r'<base[^>]+href\s*=\s*["\']([^"\']+)', html, re.I)
+    m = re.search(r'<base[^>]+href\s*=\s*["\']([^"\']+)', page, re.I)
     if m:
         base = urllib.parse.urljoin(cfg["listing_url"], m.group(1))
 
     link_re = re.compile(cfg["link_re"], re.I)
     seen, out = set(), []
-    for match in link_re.finditer(html):
-        href = match.group(1).strip()
-        url = urllib.parse.urljoin(base, href)
+    for match in link_re.finditer(page):
+        # An href is HTML, so entities in it are markup, not data. Multnomah publishes
+        # `chapter_29a:_references_to_ors,_1990_code_&amp;_ordinances`, and resolving that
+        # literally requests a path containing `&amp;` and gets a 404 — five Multnomah
+        # documents, including a whole code chapter, were lost exactly this way.
+        href = html.unescape(match.group(1).strip())
+        url = _encode(urllib.parse.urljoin(base, href))
         if url in seen:
             continue
         seen.add(url)
@@ -234,6 +240,26 @@ def run_discovery(slug: str, profiles: dict) -> int:
 _ACTION_SEGMENTS = {"download", "view", "open", "file", "get", "inline", ""}
 
 
+def _encode(url: str) -> str:
+    """Percent-encode a URL path that came out of an href.
+
+    Publishers write hrefs with literal spaces and other unencoded characters, and browsers
+    fix them silently. urllib does not: `urlopen` on
+    `.../Lane Code/LC16.245_249.pdf` raises `InvalidURL: URL can't contain control
+    characters`. Lane serves 50 land-use PDFs from a directory with a space in its name, so
+    this is not an edge case — it is most of a county.
+
+    `safe` keeps the characters that are already structural, so a path that IS correctly
+    encoded is not double-encoded into a 404.
+    """
+    parts = urllib.parse.urlsplit(url)
+    return urllib.parse.urlunsplit((
+        parts.scheme, parts.netloc,
+        urllib.parse.quote(parts.path, safe="/%:@!$&'()*+,;=~-._"),
+        urllib.parse.quote(parts.query, safe="/%:@!$&'()*+,;=~-._?"),
+        parts.fragment))
+
+
 def _name_from_url(url: str) -> str:
     parts = [p for p in urllib.parse.urlsplit(url).path.split("/") if p]
     while parts and parts[-1].lower() in _ACTION_SEGMENTS:
@@ -250,7 +276,6 @@ def _titleize(name: str) -> str:
     # Names come out of href attributes, so HTML entities survive into them: Multnomah's
     # `chapter_29a:_references_to_ors,_1990_code_&amp;_ordinances` would otherwise publish a
     # title containing a literal `&amp;`.
-    import html
     stem = html.unescape(re.sub(r"\.[a-z0-9]{2,4}$", "", name, flags=re.I))
     stem = stem.replace("_", " ").strip()
     # Title-case only when the source gave us no case information at all — a slug is

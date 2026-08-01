@@ -149,8 +149,8 @@ sources:
   sha256: ''
   title: 'Chapter 29: Building Regulations'
   last_checked: '2026-07-31'
-- id: multnomah-code-chapter-29a-references-to-ors-1990-code-amp-ordinances
-  url: https://multco.us/file/chapter_29a:_references_to_ors,_1990_code_&amp;_ordinances/download
+- id: multnomah-code-chapter-29a-references-to-ors-1990-code-ordinances
+  url: https://multco.us/file/chapter_29a:_references_to_ors,_1990_code_&_ordinances/download
   family: code
   format: pdf
   sha256: ''
@@ -282,29 +282,29 @@ sources:
   sha256: ''
   title: Appendix 1 - Simc Rap Scoping Report
   last_checked: '2026-07-31'
-- id: multnomah-land-use-appendix-2-agriculture-amp-agri-tourism
-  url: https://multco.us/file/appendix_2_-_agriculture_&amp;_agri-tourism/download
+- id: multnomah-land-use-appendix-2-agriculture-agri-tourism
+  url: https://multco.us/file/appendix_2_-_agriculture_&_agri-tourism/download
   family: land-use
   format: pdf
   sha256: ''
   title: Appendix 2 - Agriculture & Agri-Tourism
   last_checked: '2026-07-31'
-- id: multnomah-land-use-appendix-3-marinas-amp-floating-homes
-  url: https://multco.us/file/appendix_3_-_marinas_&amp;_floating_homes/download
+- id: multnomah-land-use-appendix-3-marinas-floating-homes
+  url: https://multco.us/file/appendix_3_-_marinas_&_floating_homes/download
   family: land-use
   format: pdf
   sha256: ''
   title: Appendix 3 - Marinas & Floating Homes
   last_checked: '2026-07-31'
-- id: multnomah-land-use-appendix-4-natural-amp-cultural-resources
-  url: https://multco.us/file/appendix_4_-_natural_&amp;_cultural_resources/download
+- id: multnomah-land-use-appendix-4-natural-cultural-resources
+  url: https://multco.us/file/appendix_4_-_natural_&_cultural_resources/download
   family: land-use
   format: pdf
   sha256: ''
   title: Appendix 4 - Natural & Cultural Resources
   last_checked: '2026-07-31'
-- id: multnomah-land-use-appendix-5-public-amp-semi-public-facilities
-  url: https://multco.us/file/appendix_5_-_public_&amp;_semi-public_facilities/download
+- id: multnomah-land-use-appendix-5-public-semi-public-facilities
+  url: https://multco.us/file/appendix_5_-_public_&_semi-public_facilities/download
   family: land-use
   format: pdf
   sha256: ''
@@ -422,8 +422,8 @@ sources:
   sha256: ''
   title: 'Rule 2-57: Paid Parental Leave'
   last_checked: '2026-07-31'
-- id: multnomah-policies-rule-2-60-family-amp-medical-leave-0
-  url: https://multco.us/file/rule_2-60:__family_&amp;_medical_leave-0/download
+- id: multnomah-policies-rule-2-60-family-medical-leave-0
+  url: https://multco.us/file/rule_2-60:__family_&_medical_leave-0/download
   family: policies
   format: pdf
   sha256: ''
