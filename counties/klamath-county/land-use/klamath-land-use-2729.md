@@ -1,0 +1,1094 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/klamath-county
+id: klamath-land-use-2729
+title: 'Chapter 60 201803191317200319'
+doc_type: ordinance
+citation: 'Chapter 60 201803191317200319'
+authority_level: county_ordinance
+issuing_body: 'Klamath County Board of Commissioners'
+source_url: https://www.klamathcounty.org/DocumentCenter/View/2729
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e65fe6318b8f0f089fa9c9f7c45b761280bfa888f517481d3819e01bc2496329
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 811.620
+    - ORS 811.625
+  related: []
+  supersedes: []
+tags: [klamath-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Klamath County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter 60 201803191317200319 (Chapter 60 201803191317200319)
+
+## At a glance
+
+Chapter 60 201803191317200319 — land use of Klamath County. 31 pages.
+
+## Full text
+
+60 - 1
+CHAPTER 60
+PLANNING DEPARTMENT DEVELOPMENT
+STANDARDS
+
+ARTICLE 60
+BASIC PROVISIONS
+
+60.010 - PURPOSE
+
+The purpose of this chapter is to establish standards for the design and development of
+sites in order to protect the public health, safety and welfare.
+
+60.020 - APPLICATION
+
+The standards established in this chapter shall apply to all new development in Klamath
+County.
+
+60.030 - DISTINCTION BETWEEN URBAN AND RURAL AREAS
+
+As used in this chapter, urban area means any property or lands located within an Urban
+Growth Boundary of Bonanza, Chiloquin, Klamath Falls, Malin and Merrill established by a
+Comprehensive Plan.  Rural area means all other property or lands.
+
+ORD 45.31 (Art. 61) Adopt February 16, 1995
+ 61-1
+ARTICLE 61
+LOT SIZE AND SHAPE
+61.010 - LOT SIZE AND SHAPE
+The lot size, shape and orientation within all subdivisions or partitions shall be
+appropriate for the  location of the subdivision or partition and for the type of
+development and use contemplated.
+A. Lot Width - Each lot shall have a minimum width of 50 feet, unless otherwise
+specified by this code.
+B. Lot Depth - Each lot shall have a minimum depth of 100 feet.
+C. Lot Area - Each lot shall have a minimum area as required by the zone unless
+otherwise specified by this code.
+D. Corner Lot - Corner lots shall have a minimum width of 60 feet to permit appropriate
+building setbacks.
+E. Orientation of Side Property Line - As far as practical, the side property line of a lot
+shall run at  right angles to th e street upon which it faces, except that on a curved
+street the side property line may be radial to the curve.
+F. Minimum Standards - The minimum standards of this section shall apply except:
+1. In subdivisions or partitions that will not be served by pub lic or private sewer
+system and central water supply systems, the lots or parcels shall be a minimum
+of 1 acre in area .  Special topography or hydrologic conditions may demand a
+larger minimum lot or parcel size.
+2. Where property is zoned or deeded for bu siness or industrial use, other widths
+and area may be permitted.  Depth and width of properties reserved or platted for
+commercial and industrial purposes shall be adequate to provide for the off-street
+parking and service facilities required  for the type  of use and development
+contemplated, as prescribed in Article 68.
+3. Where any parcel of land which is described by a subdivision of the section of
+which it is a part,  or by a government lot number and by the original General
+Land Office survey contains t he minimum acreage required by zoning, shall be
+considered to meet the minimum lot size  regardless of what a later, more
+accurate survey may reveal .  Any parcel which has an existing  State, County or
+public road way or easement, or right -of-way, out of any  or all boundaries,  shall
+by definition be considered to meet the minimum lot size.
+4. However, any property divided by the sale or grant of property for state highway,
+county road,  city street or other right of way purposes shall continue to be
+considered as a single unit of land  until such time as the property is further
+subdivided or partitioned.
+ORD 45.31 (Art. 61) Adopt February 16, 1995
+ 61-2
+61.020 - FLAG LOTS
+The use of panhandle or flag lots as a means of access to a lot or parcel shall be
+permitted only where:
+A. The "flagpole" does not exceed a length 2.5 times the average lot width, excluding
+the flagpole, or twice the depth of the lot, whichever dimension is the lesser.
+B. The "flagpole" maintains a constant minimum width of 30 feet.
+C. The natural grade of the "flagpole" permits construction o f a driveway with a grade
+not exceeding 12 percent.
+D. The driveways or "flagpole" portions of two lots or parcels are not contiguous.
+ORD 45.6 Art. 62.00 Adopt April 3, 1986
+ORD 45.6 Art. 62.003(1) & (B)(2) Adopt April 3, 1986
+ORD 45.6 Art. 62.004 (A)(1), (B)(1), & (C) Adopt April 3, 1986
+ORD 45.6 Art. 62.005(A)(1), & (B) Adopt April 3, 1986
+ORD 45.6 Art. 62.007 Adopt April 3, 1986
+ORD 45.6 Art. 62.007(F)(2)(A) Delete April 3, 1986
+ORD 45.34 Art. 62.030(B), & (D) Adopt May 24, 1996
+ORD 45.36(B) Art. 62.030(B), & (C) Adopt December 8, 1998
+ 62-1
+ARTICLE 62
+HEIGHTS AND SETBACKS
+62.010 - PURPOSE
+The purpose of this article is to establish and maintain minimum requirements for
+structure heights and setbacks from property lines in order to provide a measure
+of buffering between uses, ensure adequate  privacy, maintain safe visibility at
+road intersections, ensure access to and around buildings, and provide  access to
+natural light, ventilation and sunlight.
+62.020 - HEIGHT REQUIREMENTS
+A. Height requirements specified in Section 62.040 or Section 62.050 shall be
+observed unless  specified otherwise in Article 58 (Airport Safety Area -
+Kingsley Field) or in Article 58.4 (Airport  Safety Areas - Crescent Lake,
+Beaver Marsh, Chiloquin and Malin).
+B. Except in Airport Safety Areas, height limitations shall not a pply to barns,
+silos, water towers or  other farm buildings or structures .  Projections such as
+chimneys, amateur radio towers and  antennas, flagpoles and other similar
+objects not used for human occupancy are likewise not subject  to height
+limitations except within an Airport Safety Area, or unless otherwise specified
+in the code.
+C. The height of a structure or building is to be measured as the vertical distance
+from the highest point of the structure or building to the average of the highest
+and lowest points where the exterior walls touch the ground.
+62.030 - SETBACK REQUIREMENTS
+A. Setback requirements specified in Section 62.040 shall be observed unless
+otherwise specified in this Article.
+B. Architectural features such as cornices, eaves, canopies, sun shades, gutters
+and chimneys shall not  be closer than the minimum allowed by the setback
+requirement of the zone to the property line.
+ORD 45.6 Art. 62.00 Adopt April 3, 1986
+ORD 44.84 Art. 62.040 Adopt June 22, 2010 Acknowledged August 2, 2010
+                                                                         62-2
+C. Decks, terraces, steps, or other similar architectural features which are placed
+upon the ground or  finished grade an d do not exceed 30 inches in height
+above the ground or finished grade shall not  be closer than 3 feet to a
+property lot line.
+D. The setback of a structure or building is the horizontal distance measured to
+any part of the  structure including Architectura l features, from the property
+line.
+62.040 - MINIMUM STRUCTURE HEIGHT AND SETBACK REQUIREMENTS
+The following minimum requirements shall be applied to all permitted, conditional
+and accessory  structures allowed by this code unless specified otherwise .  All
+requirements are measured in feet.
+PRINCIPLE STRUCTURE REQUIREMENTS
+(Special Height and Setback Requirements may apply)
+ZONE(s)
+STRUCTURE
+HEIGHT FRONT
+SETBACKS
+SIDE REAR
+RCR 35 20 5 20
+
+R-10 R-5 R-2 R-1 35 25 10 25
+
+RS 35 25 10 25
+     RL RM RH 35 20 5 20
+     CN 25 10 See Section 62.050(C)
+     CG CR CT 50 10 See Section 62.050(C)
+     IL 50 25 See Section 62.050
+     IH 150 25 See Section 62.050
+     EFU F FR -- 25 25 25
+     NR 35 25 25 25
+     OS& -- 25 25 25
+     DRO
+(setbacks not adjacent to a common area)
+10 5 5
+
+DRO
+(setbacks adjacent to a common area)
+10 See Section 88.030
+
+ORD 45.6 Art. 62.00 Adopt April 3, 1986
+ORD 44.84 Art. 62.040 Adopt June 22, 2010 Acknowledged August 2, 2010
+                                                                         62-3
+
+62.050 - MINIMUM STRUCTURE HEIGHT AND SETBACK REQUIREMENTS
+A. Accessory Structures and Buildings
+1. Accessory structures and building s allowed by this code greater than 14
+feet in height shall meet the setback requirements.
+2. Accessory structures and buildings not greater than 14 feet in height may
+be permitted not less than 5 feet from a side or rear lot line.
+3. Accessory structures and buildings shall not be permitted in the side yard
+abutting a street in corner lots.
+B. Corner Lots
+1. The side yard setback on the street side of a corner lot shall be 15 feet in
+R-10, R-5, R-2, R-1, and RS zones.
+2. The side yard setback on the street  side of a corner lot shall be 25 feet in
+commercial and industrial zones.
+3. The side yard setback on the street side of a corner lot shall be 10 feet in
+all other zones.
+4. The side yard setback on the street side of a corner lot shall be 5 feet in
+any zone where the lot  or parcel is less than 50 feet wide as measured
+across the front property line.
+C. Commercial and Industrial Zone Setbacks
+Side and rear setbacks are not required except:
+1. For corner lots;
+2. Where building codes require a setback;
+3. Where a commercial or industrial zoned property abuts a residential zone
+in which case the minimum setback shall be 25 feet plus 1 foot for each 3
+feet of building height greater than 12 feet; or
+4. Where a commercial or industrial zoned property abuts an alley or right-of-
+way, the rear setback shall be a minimum of 10 feet.
+D. Distance Between Buildings
+1. An accessory building shall be located no closer than 6 feet to the
+principal dwelling.
+2. Any accessory building sheltering livestock or other animals shall be
+located no closer than 50  feet to any dwelling or other building used for
+human habitation.
+3. Principle residential buildings shall be located no closer than 10 feet or 1/2
+the height of the  tallest structure, which ever is greater.
+ORD 45.6 Art. 62.00 Adopt April 3, 1986
+ORD 45.36 Art. 62.060 Adopt November 10, 1998
+ORD 45.46 Art. 62.050(G) Adopt July 29, 2002
+ORD 45.91 Art. 62.060 Adopted January 25, 2018
+ 62-4
+4. Nonresidential structures or buildings shall be sited as provided for in the
+Uniform Building code.
+E. Utility or Access Easements
+No structure or building shall be built or placed in an utility or access
+easement.  Where an  easement conflicts with the allowable set back, a
+structure or building shall be set back an additional 2 feet from the easement.
+F. Setbacks from Waterways
+1. Unless otherwise specified by this code, no structure, building, or
+subsurface septic system shall  be located within 100 feet of streams,
+surface water bodies or wetlands .  Measurement of the  setback from
+streams and surface water bodies shall be at right angles to the mean
+high water line.  For an exception to this rule see 57.070 (4)(a).
+2. In the case where the mean high water line cannot  be established, the
+Watermaster shall determine the line.
+3. Development within 100 feet of streams, surface water bodies or wetlands
+shall comply with Article 57 - Significant Resource Overlay.
+4. Nothing in this subsection shall exempt any development f rom the
+requirements of Article 59 - Flood Hazard Area.
+5. Notwithstanding this subsection, structures necessary and required to
+make use of a water right may be permitted within 100 feet of waterways.
+G. Setbacks from Resource Lands:
+Where rural residential land abuts resource (farm or forestry) zoned lands, the
+structural setback  shall be fifty (50) -feet from the residential property
+boundary that is contiguous to resource land.   Effective from the date of
+approval of this amendment (ORD .  45.46; Approved  June 25, 2002),  this
+provision shall only be required upon final plat approval for land partitions or
+subdivisions of rural residential land.
+62.060 - VISION CLEARANCE
+No structure or other visual obstruction shall be created, placed, maintained or
+allowed to grow between 4 and 10 feet in height within 25 feet of the intersection
+of the right -of-way lines of two streets,  a public street and a private street, or a
+street and a railroad property line .  Height shall be measured  from the edge of
+the improved r oadway surface .  In accordance with the Type I Administrative
+Review Procedure, the Planning Director may order the removal or modification
+of such sight obstructions  which conflict with this section .  The Planning
+Director's Order may be appealed pursuant to Article 33.
+63 - 1
+ARTICLE 63
+WIRELESS TELECOMMUNICATIONS FACILITIES
+63.010 – PURPOSE
+The purpose is to establish and maintain development standards for wireless
+facilities to provide a  service to the public consistent and coordinated with
+different land uses and zone designations.
+63.020 – REVIEW PROCEDURE
+A. The applicant shall attend a pre -application conference prior to submission of
+an application for  a wireless telecommunication facility .  The pre-application
+conference will be in conformance with Article 21, Pre-Application Conference
+Procedure.
+B. The review procedure for a wireless telecommunication facility application will
+be subject to the  applicable Conditional Use Permit criteria under Articles 44,
+54, 55 & 55.2 .  A wireless  telecommunication facility application  will be
+reviewed and heard by the Hearings Officer.
+63.030 – SUBMITTAL REQUIREMENTS
+A. A site plan is to accompany the application .  The site plan requirements shall
+be subject to the criteria of Section 41.060 of Article 41.
+B. A map that indicates the l ocation of existing and currently proposed
+telecommunication facilities within a ten mile radius of the proposed site and
+their approximate distance to the proposed site.
+C. A map that indicates the Township, Range, Section and Tax Lot and also the
+location on map of  where the proposed telecommunication facility is to be
+located.
+D. A TOPO map indicating the topography of the site.
+E. A letter from the Federal Aviation Administration or the Oregon Department of
+Transportation Aeronautics Division as to whet her or not aviation lighting
+would be required for the proposed facility.
+F. Documentation that there has been a good faith effort using radio frequency
+maps and coverage  objects to co -locate its antennas on existing facilities in
+the area that is to be served.
+G. A photographic simulation of the location site indicating a before picture and
+an after picture showing how the facility will fit into the surrounding area.
+63 - 2
+H. A copy of a blank lease form.
+63.040 – CONDITIONS OF APPROVAL
+A. A bond or other securi ty acceptable to the Hearings Officer shall be required
+for the removal of the facility until such time the facility is removed .  The bond
+or other security such as; 1) cash or  certified check; 2) time deposit certificate
+payable to Klamath County; 3) savi ngs account  assignment to Klamath
+County.  The bond to be reviewed every two years.
+B. An approval of a wireless telecommunication facility shall include a condition
+that if the facility  is left unused or is abandoned by all wireless providers
+located on the facility for more than one  year, the facility shall be removed by
+the applicant within thirty days of being declared abandoned.
+C. When required, aviation lighting will use Fresnel lenses or suitable lenses to
+minimize ground  lighting conflicts to the m aximum extent regulated by the
+FAA or ODOT – Aeronautics regulations.
+D. When possible, the siting of the facility will utilize existing trees, vegetation,
+and topo to screen facility from view of nearby residences and roadways.
+E. A wireless telecommunica tion facility shall be vegetated and/or camouflaged
+to the maximum  extent practicable to screen facility from view of roadways
+and residences.
+F. The perimeter of the site plan shall be enclosed by a chain link security fence
+of not less than  eight feet ta ll, topped by a three -strand barbed wire barrier,
+and to be erected within a week of construction of the tower.
+G. Provide documentation of legal access.
+H. The applicant shall file a restrictive covenant with the Klamath County Clerk’s
+Office recognizing the rights of adjacent and nearby landowners to conduct
+farming & forest  operations and prohibit the permit grantee, or successors
+from filing any complaint of any type  concerning accepted resource
+management practices and farm use.
+I. Tower setbacks shall be no less than the height of the tower.
+63.050 APPEAL PROCESS
+A decision reached under the Hearings Officer review procedure may be
+appealed to the Klamath  County Board of Commissioners within seven days of
+the mailing of the notification of the final decision as set forth in Article 33.
+ORD 45.34 (Art. 64.020 & 64.030(A)) Adopted May 24, 1996
+ORD 45.91 Art. 64.020 & 64.030 (A & B) Adopted January 25, 2018
+
+ 64-1
+ARTICLE 64
+FENCES, WALLS AND SCREENING
+64.010 - PURPOSE
+The purpose of establishing and maintaining standards for fences, walls and screening
+are to protect certain uses from intrusion, to protect the public from uses which may be
+hazardous, and to increase compatibility of different land uses.
+64.020 - VISION CLEARANCE
+No fence, wall, hedge, or other visual obstruction shall be created, placed, maintained
+or allowed to exceed 4 feet in height within 25 feet of the intersection of the right -of-way
+lines of two streets, a public  street and a private street, or a street and a railroad
+property line .  Height shall be measured from the  edge of the improved roadway
+surface.  In accordance with the Type I Administrative Review  Procedure the Planning
+Director may order the removal or modification of such sight obstructions  which conflict
+with this section.  The Planning Director's order may be appealed pursuant to Article 33.
+64.030 - PERMITTED FENCES, WALLS AND HEDGES
+A. Fences, walls, and hedges not greater than 4  feet in height shall be permitted on or
+within front property lines and building setback, provided they do not obscure vision,
+except that fences may be 7 feet in height if they are constructed of open mesh.
+B. Fences, walls and hedges not greater than 7  feet in height may be permitted on or
+inside any property line, unless otherwise specified in the code.
+C. Fences, walls and hedges located on or inside front property lines shall not obscure
+vision from a public street, road or access to the dwelling or o ther primary structure
+on the property, unless otherwise specified in this code.
+D. Fences, walls and hedges shall be maintained with public safety and a neat and
+orderly appearance in mind.
+64.040 - SPECIAL HEIGHT ALLOWANCES
+Fences not greater than 12 fee t in height enclosing an area for business security
+purposes, or enclosing  school or playgrounds may be permitted provided the fence
+material does not obscure vision from a public street, road or access into the property.
+
+ORD 45.45 (Art. 64.060(E)) Adopted April 2, 2002
+ 64-2
+64.050 - SWIMMING POOL FENCING
+Private swimming pools shall be fenced to exclude unsupervised access and use by
+small children.  Such fencing shall be a minimum of 5 feet high and shall be equipped
+with a self -closing and self -latching gate.  Latching devises shall be located at a
+minimum height of 4 feet above the ground.
+64.060 - REQUIRED SCREENING
+A. A sight obscuring fence or wall at least 8 feet in height is required within side or rear
+property lines where;
+1. A nonconforming commercial or industrial land use abuts property occupied  by a
+use or activity allowed by the zone; or
+2. A commercial or industrial zone abuts property not commercially or industrially
+zoned.
+B. Outdoor storage in a commercial or industrial zone shall be screened from view on
+all sides by a sight obscuring fence, wall or hedge at least 8 feet in height.
+C. Public or private utility substations shall be screened from view on all sides by a
+sight obscuring fence, wall or hedge at least 8 feet in height.
+D. Outdoor mechanical equipment appurtenant to commercial or industrial uses shall
+be screened from view from adjacent property or a public street, road or access.
+E. Auto wrecking yards shall be totally enclosed by a sight obscuring fence or wall 8 to
+15 feet high  & no motor vehicles or parts thereof, shall be visi ble above the site
+obscuring fence or wall.
+
+ORD 45.34 Adopt May 24, 1996
+(Art. 65.020 Delete A-F, Add A-C)
+(Art. 65.025 Added)
+(Art. 65.030(A), (C), & (E)
+ 65-1
+ARTICLE 65
+LANDSCAPING
+65.010 - PURPOSE
+The purposes of landscaping requirements are to maintain and enhance the
+appearance of structures  and properties, to provide for visual privacy and a quality
+visual environment, and to provide areas on  sites to absor b rainfall and reduce
+stormwater runoff.
+65.020 - REQUIRED LANDSCAPING
+The following uses shall provide for and permanently maintain landscaping as required
+by this article:
+A. New and or expanded uses requiring Article 41 Site Plan approval in all Commerc ial
+and Industrial Zones.
+B. New and/or expanded Manufactured Home Parks.
+C. New or expanded Multifamily Structures and PUDs.
+65.025 - LANDSCAPE PLAN
+A Landscape Plan, when required for the uses set out in Section 65.020 shall include
+the following:
+B. Tree and shrub planting calculations;
+C. Existing vegetation;
+D. New plant materials noting location, regionally accepted species and size at
+planting;
+E. Provision for irrigation;
+65.030 - LANDSCAPING STANDARDS
+A. Coverage - All portions of front, rear, and side yards not covered by a structure or by
+required parking and access driveways shall be landscaped unless otherwise
+specified by this code .  At least one tree and two shrubs shall be required for each
+1,000 sq.  ft.  of such space or fraction thereof.
+B. Parking Areas
+1. Where off -street parking for 10 or more vehicles is required the perimeter of
+parking areas shall  be landscaped.
+ORD 45.31 (Art. 65.030(D)) Adopt February 15, 1995
+ 65-2
+2. Landscaping shall include 15 square feet for each parking space.
+C. Playgrounds - All multifamily dwellings having seven or more dwelling units shall
+provide a recreation area and suitable playground with recreation equipment on the
+same lot or parcel a s the dwellings.  Such areas shall contain a minimum of 20 sq .
+ft. per dwelling unit with a minimum of  150 sq . ft.  Playground equipment shall
+include at least one of the following for the minimum area  site and one additional
+element for each additional 3 00 sq.  ft: climber, play sculpture, play wall, sand  box,
+slide, balance beam, horizontal ladder, or swings.
+D. Materials - Landscaping shall consist of live ground cover, forbs, grasses, shrubs,
+trees with local  climatic conditions should be used .  Landscaping may include
+decorative design elements sufficient  irrigation facilities to maintain all vegetation .
+Native vegetation or vegetation suited to including but  not limited to pools, planters,
+rock gardens or similar elements.
+E. Installation - A Performance Agreement pursuant to Article 15 shall be completed as
+a condition of  Planning Department Site Plan Approval providing for the initial
+installation and maintenance of landscape elements for one year.
+65.040 - RESTRICTIONS
+A. Landscaping shall not be e stablished or maintained within public right -of-ways or
+easements without approval of the appropriate entity having control of the right -of-
+way or easement.
+B. The following plants are prohibited from use toward meeting landscaping
+requirements of this code:
+1. Poplars (Populus sp.)
+2. Willows (Salix sp.)
+3. Elms (Ulmus sp.)
+4. Box Elders (Acer negundo)
+C. No landscaping feature shall be created, placed, maintained or allowed to grow
+between 3 and 10  feet in height within 25 feet of the intersection of the right-of-way
+lines of two streets, a public  street and a private street, or a street and a railroad
+property line .  Height shall be measured from  the edge of the improved roadway
+surface.  In accordance with the Type I Administrative Review  Procedure the
+Planning Director may order the removal or modification of such sight  obstructions
+which conflict with this section .  The Planning Director's order may be appealed
+pursuant to Article 33.
+
+ 66-1
+ARTICLE 66
+SIGNS
+66.010 - PURPOSE
+The purpose of sign regulations is to support the use of signing which is maintained in a
+safe and  attractive condition, and to preserve and enhance the County's visual
+environment.
+66.020 - EXEMPT SIGNS
+A. Directional, wa rning, or information signs required or authorized by law which are
+installed and maintained by federal, state, county or municipal officials or by utility or
+railroad companies;
+B. Official notices issued by a court or public body and posted in the perfor mance of a
+public duty;
+C. House identification numbers;
+D. Personal property signs such as "no trespassing", "no hunting", "no parking"; and
+E. Signs that cannot be viewed from a public streets, road or access, signs that cannot
+be viewed from adjacent properties such as signs inside shopping malls, commercial
+buildings and structures and stadiums.
+66.030 - SIGN STANDARDS
+A. On-premise signs may be permitted according to standards identified in this section
+unless otherwise specified in Section 66.040.  All requirements are measured in feet.
+ORD 45.29 (Art. 66.030(B) Adopt May 5, 1993
+ 66-2
+BASIC SIGN REQUIREMENTS
+(Special Requirements may apply, See Section 66.040)
+ZONE (s) HEIGHT
+MAX MAXIMUM SIGN AREA
+IDENTIFICATION SIGNS/SALES SIGNS
+   RCR 10 feet 6 square feet/6 square feet
+   R-10 R-5 R-2 R-1 10 feet 6 square feet/6 square feet
+   RS RL RM 10 feet 6 square feet/6 square feet
+   RH 10 feet 36 square feet/6 square feet
+   CN 20 feet 80 square feet/25 square feet
+   CG CR CT 30 feet 300 square feet/25 square feet
+   IL IH 30 feet 300 square feet/25 square feet
+   EFU F FR NR 10 feet 25 square feet/25 square feet
+   OS&C 10 feet 25 square feet/ -- -- --
+B. Sign area may be allowed in excess of 300 feet in the CG, CT, IL, and IH zones by
+Type I  Administrative Review in accordance with the following building size
+requirements (all measurements are in square feet).
+Building Size:  0-5,000  5,001-10,000  10,001-15,000  >15,000
+Sign Area:  300  400  500  600
+C. As used in this section, the following definitions shall apply:
+1. Identification signs shall mean signs used to indicate the name, address,
+operation or direction to a business conducted on the property.
+2. Sale signs shall mean signs used to advertise property for sale, lease or rent.
+3. Premises: (a) The premises on which any activity is conducted is determined by
+the physical  facts rather than property lines .  It is the land occupied by the
+buildings or other physical uses  that are necessary or customarily incident to the
+activity, including such open spaces as are  arranged and designed to be used in
+connection with such buildings or uses; (b) Except for  farms and ranches, the
+following will not be considered to be part of the premises on which the  activity is
+ORD 45.31 (Art. 66.030(E)) Adopt February 15, 1995
+ 66-3
+     conducted and any signs located on such land will be considered outdoor
+advertising signs:
+(A) Any land which is not used as an integral part of the principal
+activity.  This would include,  but is not limited to: (i) Land which is
+separated from the activi ty by a public road; (ii)  Land which is
+separated by an obstruction and is not used by the activity; and (iii)
+Land that is undeveloped highway frontage adjacent to the land
+actually used by the advertised  activity, even though it might be
+under the same ownership.
+(B) Any land which is used for, or devoted to, a separate purpose
+unrelated to the advertised  activity would not be part of the
+premises on which the activity is located even though  under the
+same ownership;
+(C) Any land which is separated from t he principal activity, and is
+developed or used only at the  sign site by structures or uses which
+are only incidental to the principal activity, and which  serves no
+reasonable or integrated purpose related to the activity other than
+to attempt to qualify the land for signing purposes;
+(D) Where the sign site is located at or near the end of a narrow strip
+contiguous to the  advertised activity, the sign site shall not be
+considered part of the premises on which the  activity advertised is
+being conducted.  A narrow strip shall include any configuration of
+land which is such that it cannot be put to any reasonable use
+related to the activity other  than for signing purposes except the
+major entrance or exit roadway to or from the  premises which
+serves only the advertised activity.
+D. No sign shall be placed and maintained in public street right -of-way or utility right-of-
+way or easement.
+E. Sign Area -- Sign area is to be calculated as the number of square feet of the
+smallest rectangle within which the sign can be enclosed as follows:
+1. Where a sign has two faces containing sign copy which are oriented back -to-
+back, the area of  the sign is to be measured using the larger of the two faces, if
+different;
+2. Where a sign is composed of letters mounted or painted o n a building wall or
+other architectural feature, the sign area is to be calculated as the smallest
+rectangle within which all characters and images can be enclosed; or
+3. Where a sign consists of one or more three -dimensional objects, the sign area
+shall be calculated as largest area of a side of a cube enclosing the entire object.
+
+ORD 45.24 (Art. 66.040(B)) Adopt November 15, 1990
+ORD 45.29 (Art. 66.040(B)) Adopt May 5, 1993
+ 66-4
+F. Sign Maintenance - All signs and advertising objects shall be maintained in a neat,
+legible, and orderly condition.  All signs pertaining to a discontinued use or activity
+shall be removed no later than 6 months following discontinuance of the use.
+G. Illumination - Illuminated signs shall be lighted by continuous, stationary, shielded
+light sources  directed solely at the sign or internal to the sign .  Signs shall be
+illuminated so as to prevent direct illumination or glare onto any public street or road,
+or onto adjacent property .  Signs consisting of  any flashing component shall be
+prohibited where they are visible from any street or highway.
+H. Computerized electronic message boards shall be permitted in conjunction with a
+commercial use  only after app roval signature is received from the jurisdiction
+controlling adjacent rights-of-way.
+66.040 - SPECIAL SIGNS
+A. Temporary Signs
+1. Campaign signs shall meet all sign standards of this code and shall be removed
+no later than 10 days following the appropriate election date.
+2. Construction/Development signs denoting an architect, contractor, developer or
+owner may be placed on the site of a building or structure under construction or
+development.  No such sign shall be greater than 36 square feet in size and shall
+be removed upon completion of construction or development.
+B. Outdoor Advertising Signs
+Not withstanding provisions of ORS Chapter 377, no outdoor advertising sign
+greater than 300  square feet as defined in this code shall be placed or installed on
+any lot or parcel that is not zoned  for commercial or industrial purposes and is not
+within a defined UGB or RSC boundary .  Total sign area per parcel where the
+Outdoor Advertising Sign is to be located must not exceed the total  sign area
+allowed under 66.030.  Outdoor advertising signs existing as of November l5, 1990,
+may continue subject to regulation by the Oregon State Highway Division.
+C. A-Frame signs may be permitted in any commercial or industrial zone based on the
+following standards:
+1. The sign is not located within a public right-of-way;
+2. The sign area does not exceed 10 square feet;
+3. The sign advertises goods, products or services which are manufactured,
+distributed or sold on the premises on which the sign is located.
+
+ORD 45.24 (Art. 66.050(A)) Adopt November 15, 1990
+ 66-5
+66.050 - NONCONFORMING SIGNS
+A. Any sign existing on or before November 1 5, 1990, which does not comply with all
+requirements of this article may be continued as a nonconforming use.
+B. Alteration of any nonconforming sign, except to bring the sign into fu ll conformance
+with this code, shall require a conditional use permit.
+66.060 - SIGNS NOT ADDRESSED
+Signs not addressed or otherwise regulated by this article may be permitted in any zone
+by Conditional Use Permit.  All standards in this article shall apply.
+
+ORD 45.0 Adopt February 16, 1984
+ORD 45.24 Art. 68.030  Adopt October 9, 1991 (Religious Assembly)
+ORD 44.84 Art. 68.030 Adopt June 22, 2010 Acknowledged July 30, 2010
+ORD 44.92 Adopt January 30, 2012
+
+ 68 - 1
+ARTICLE 68
+OFF-STREET PARKING AND LOADING
+68.010 - PURPOSE
+The purpose of off -street parking and loading requirements is to establish and
+maintain areas for  efficient and convenient parking for residential, civic and
+commercial uses and to provide a safe m eans for discharging people and
+products from ground transportation.
+68.020 - GENERAL PROVISIONS
+A. No parking area provided for the purpose of complying with the provisions of
+this code shall be eliminated, reduced or converted to another use unless
+equivalent facilities are provided in conformance with this article.
+B. Additions or expansions of any structure or use on a property shall be
+accompanied by parking  facilities to replace parking lost or achieve
+conformance with this article.
+C. Required parking facilities of two or more uses, structures or contiguous lots
+or parcels may be satisfied by the same parking facilities used jointly, to the
+extent that the need for the facilities does  not materially overlap and provided
+that such right of joint use is  evidenced by a deed, lease,  contract, or similar
+written instrument establishing such joint use.
+D. Space computations for any parking requirements which result in fractional
+requirements shall be increased to the next higher full digit.
+E. Parking requir ements for types of buildings, structures, or uses not
+specifically listed in Section 68.030 shall be determined by the Planning
+Director according to the Type I Administrative Review  Procedure, and be
+based on the parking requirements of comparable uses listed in this code.
+68.030 - OFF-STREET PARKING REQUIREMENTS
+A. The following off -street parking requirements shall apply to all buildings,
+structures, developments and land uses unless otherwise specified in this
+code.
+Single-family, 2 spaces per dwelling unit manufactured home
+Multifamily 1.5 spaces per dwelling unit
+Residential Care 1 space per 4 residents at design capacity
+ORD 45.24 Art. 68.030 (Religious Assembly) Adopt October 9, 1991
+ORD 44.84 Art. 68.030 (Shopping Centers) Adopt June 22, 2010
+  Acknowledged July 30, 2010
+68 - 2
+Religious Assembly 1 space per 4 seats or 8-foot bench or pew in the
+main assembly.
+Library, Cultural Exhibits 1 space per 400 square feet gross floor area
+Primary and Secondary
+Schools
+1 space per classroom plus 1 space per
+administrative employee, and 1 space per 6
+students design capacity or l space per 4
+seats/8 feet of bench in the main auditorium,
+whichever is greater
+College/trade school 1 space per 1.0 faculty FTE plus 1 space per 5
+student FTE design capacity
+Stadium/Fairground 1 space per 4 seats or 1 space per 8 feet of bench,
+whichever is greater
+Other public assembly
+recreation, or
+entertainment
+1 space per 4 seats or 1 space per 8 feet 8 feet of
+bench, or 1 space per 100 feet of gross floor
+area, which ever is greater
+Heavy Industrial 1 space per each 1.5 employees
+Hospital 1 space per two beds
+Transportation 1 space per 2 employees plus 1 space per 3
+departing passengers based on average travel
+day
+Professional/
+Administrative Offices
+1 space per employee plus 1 space per 400
+square feet gross floor area
+Medical Offices 1 space per employee plus 1 space per 200
+square feet gross floor area
+Motel 1 space per guest room
+Retail Sales and Service 1 1 space per 300 square feet of gross floor area
+Retail Sales and Service
+large items such as
+furniture and appliances
+1 space per 750 square feet of gross floor area
+Shopping
+Centers/Department
+Stores
+3.5 spaces per 1000 square feet of gross floor area
+Restaurant/Tavern 1 space per 100 square feet of gross floor area
+Warehouse, wholesale,
+distribution,
+manufacturing
+1 space per employee plus 1 space per
+commercial vehicle plus 1 space per 700 square
+feet of patron service area
+ORD 45.0 Adopt February 16, 1984
+ORD 45.31 Art. 68.040(A) & (B) Adopt February 15, 1995
+ORD 44.84 Art. 68.030 Adopt June 22, 2010 Acknowledged July 30, 2010
+ORD. 44.92 Adopt January 30, 2012
+ 68 - 3
+B. Carpool and Vanpool Parking . Large employers (those with 50 employees or
+more working the same hours or shift) shall dedicate 10% of the required
+parking spaces for carpools and vanpools.
+1. These designated spaces shall be the closest parki ng spaces to the
+building entrance normally used by employees, with the exception of
+disabled/handicap accessible parking spaces.
+2. Carpool and vanpool spaces shall be clearly marked “Reserved –
+Carpool/Vanpool only” along with specific hours of use.
+3. Any other use establishing carpool and vanpool spaces may reduce the
+minimum parking requirement by 3 spaces for each carpool/vanpool
+space created.
+
+C. Transit-related parking reduction. The number of minimum required parking
+spaces may be reduced by up to 10% if:
+1. The proposal is located within a ¼ mile of an existing or planned transit
+route, and;
+2. Transit-related amenities such as transit stops, pull -outs, shelters, park -
+and-ride lots, transit -oriented development, and transit service on an
+adjacent street are present or will be provided by the applicant.
+
+D. Bicycle Parking Standards
+1. The following bicycle parking standards are applicable only inside an
+Urban Unincorporated Community or within an Urban Growth Boundary
+for which Klamath County has jurisdiction. Bicycle parking within the
+Klamath Falls Urban Area is governed by the provisions of subsections 3
+and 4 below.
+2. These standards are only applicable to new structural construction or a
+major remodel exceeding 50% of the assessed value of the existing
+structure, as determined by KC Assessor Office records.
+3. In the Klamath Falls Urban Area, bicycle parking facilities shall be
+provided for all new or expanded multi dwelling residential, institutional,
+commercial and industrial uses. Bicycle parking shall be provided as
+follows:
+a. One bicycle parking space shall be provided for every twelve (12)
+required off street parking spaces, with a minimum of one bicycle
+parking space.
+b. Required bicycle parking facilities shall be located no further than
+fifty feet (50’) from a public entrance.
+ORD 45.0 Adopt February 16, 1984
+ORD 45.31 Art. 68.040(A) & (B) Adopt February 15, 1995
+ORD 44.84 Art. 68.030 Adopt June 22, 2010 Acknowledged July 30, 2010
+ORD. 44.92 Adopt January 30, 2012
+ 68 - 4
+c. Bicycle parking facilities may be provided in a dedicated area
+within a building that is assessable to bicycle storage.
+4. Bicycle Parking Design Guidelines. The following guidelines are applicable
+to bicycle parking facilities in the Klamath Falls Urban Area:
+a. Bicycle parking facilities shall either be stationary racks, which
+accommodate bicyclist’s locks securing the frame and both wheels
+or lockable rooms or enclosures in which the bicycle is stored.
+b. Bicycle parking spaces shall be at least si x feet (6’) long and two
+feet (2’) wide. Upright bicycle storage structures are exempted
+from the parking space length standard.
+c. A five-foot (5’) aisle for bicycle maneuvering shall be provided and
+maintained beside or between each row of bicycle parking.
+d. Bicycle racks or lockers shall be anchored to the ground surface or
+to a structure.
+
+Land Use Category  Minimum Required Bicycle Parking Spaces
+Multiple family residence 1  space per 4 units
+Primary and secondary schools 1  space per classroom
+Vehicle spaces for all other uses 1  space per 10 required vehicle
+  spaces for all other uses with a
+  2-space minimum
+68.040 - DISABLED PERSON PARKING
+Note: All references delineated with an "*" shall reference ADA Accessibility
+Guidelines (Federal Register/Vol. 56, No. 173/Friday, September 6, 1991/Rules
+and Regulations)
+A. Number of Spaces
+If parking spaces are provided for self -parking by employees or visitors, or
+both, then accessible spaces complying with 4.6* shall be provided in each
+such parking area in conform ance with the table below.  Spaces required by
+the table need not be provided in the particular lot .  They may be provided in
+a different location if equivalent or greater accessibility, in terms of distance
+from an accessible entrance, cost and convenience is ensured.
+ORD 45.0 Adopt February 16, 1984
+ORD 45.31 Art. 68.040(A) & (B) Adopt February 15, 1995
+ORD 44.84 Art. 68.030 Adopt June 22, 2010 Acknowledged July 30, 2010
+ 68 - 5
+Total Parking Spaces in Lot Required Minimum Number of Accessible Spaces
+1 to 25 1
+26 to 50 2
+51 to 75 3
+76 to 100 4
+101 to 150 5
+151 to 200 6
+201 to 300 7
+301 to 400 8
+401 to 500 9
+501 to 1000 2% of total
+1011 and over 20 plus 1 for each 100 spaces above 1000
+B. Dimensions
+Access aisles adjacent to accessible spaces shall be 60 inches wide
+minimum, except that one in every eight accessible spaces, and not less than
+one, shall be served by an access aisle 96 inches wide minimum and shall be
+designated "van accessible" as required by 4.6.4.* The vertical clearance at
+such spaces shall comply with 4.6.5.* All such spaces may be grouped on
+one level of a parking  structure.  EXCEPTION: Provision of all required
+parking spaces in conformance with "Universal  Parking Design" (see
+appendix A4.6.3*) is permitted).
+C. Passenger Loading Zones
+If passenger loading zones are provided, then at least one passenger loading
+zone shall comply with 4.6.6.*
+D. Medical Facilities
+At facilities providin g medical care and other services for persons with
+mobility impairments, parking spaces complying with 4.6 shall be provided in
+accordance with 4.1.2(5)(a)* except as follows:
+1. Outpatient units and facilities: 10 percent of the total number of parking
+spaces provided serving each such outpatient unit or facility;
+2. Units and facilities that specialize in treatment or services for persons with
+mobility impairments: 20 percent of the total number of parking spaces
+provided serving each such unit or facility.
+ORD 45.0  Adopt February 16, 1984
+ORD. 45.31 Art. 68.040(A) & (B) Adopt February 15, 1995
+ 68 - 6
+E. Valet Parking
+Valet parking: Valet parking facilities shall provide a passenger loading zone
+complying with 4.6.6*  located on an accessible route to the entrance of the
+facility.  Paragraphs A, B, and C of this section do not apply to valet parking
+facilities.
+F. Signs - A sign shall be posted for each disabled person parking space
+required by this section.  The  sign shall be clearly visible, shall be marked
+with International Symbol of Access, and shall bear the following words in at
+least 1 inch high letters:
+"Parking with D.M.V.  Disabled Permit only.  Violators subject to towing under
+ORS 811.620 and a fine up to $250 under ORS 811.625"
+G. Location - Parking spaces for disabled persons and accessible passenger
+loading zones that serve a particular building shall be located on the shortest
+practicable route to a building entrance.
+68.050 - OFF-STREET PARKING FACILITY LOCATION
+Parking Area Location - The location of off -street parking and loading facilities
+shall be in accordance with the following provisions:
+A. Required parking facilities for residential uses shall be located on the same lot
+or parcel of land as the use the parking facilities are intended to serve.
+B. Required parking facilities for uses other than residential shall be located as
+follows:
+1. On the same lot or parcel of land as the use such parking or loading
+facilities are intended to serve.
+2. On a lot or parcel of land held under joint ownership, provided such
+parking or loading facilities relocated adjoining the use or uses served.
+3. On a lot or parcel of land separated only by an alley from the lot or parcel
+or land on which the use or uses served are located, provided:
+a. That said lots or parcels or land are in the same or joint
+ownership and separated only by an alley;
+b. That direct vehicular access between said lots or parcels of
+land would be possible in the event the alley as vacated; or
+c. That such parking facilities are in close proximity to the
+actual use or uses served.
+C. Required loading facilities shall be located on the same lot or parcel of land
+as the uses served.
+ORD 45.0 Adopt February 16, 1984
+ORD 44.84 Art. 68.070(A) Adopt June 22, 2010 Acknowledged July 30, 2010
+ 68 - 7
+68.060 - DROP-OFF POINTS
+Drop-off Points Required -  Parking areas for public assembly facilities are to
+include a designated on site location for dropping off passengers at the entrance
+to the facility in advance of parking the vehicle.
+Drop-off areas are to consist of vehicle turnout lanes located outside of normal
+travel lanes.  Drop-off points shall be provided for:
+A. Hotels and motels;
+B. Schools with 50 or more students;
+C. Churches with a capacity of 100 or more;
+D. Restaurants with a capacity of 50 or more customers;
+E. Public transportation terminals;
+F. Places of public assembly;
+G. Public Buildings; and
+H. Offices larger than 5,000 square feet gross floor area.
+68.070 - OFF-STREET PARKING DESIGN STANDARDS
+All off-street parking areas shall be designed according to the standards of this
+section.
+A. Parking space dimensions - All off-street parking spaces shall be no less than
+9 feet by 20 feet in size, except as provided in subsection 1 of this section.
+1. Compact parking space dimension – All off -street parking shall include
+compact automobil e and motorcycle spaces up to 20% of the required
+number of parking spaces.
+2. Bicycle parking spaces –  All required bicycle spaces shall be 6- feet long
+and 2-feet wide with an overhead covered space clearance of at least 7-
+feet; and
+a. A 5 -foot clear aisle for bicycle maneuvering provided and maintained
+beside or between each row of bicycle parking.
+b. Bicycle racks or lockers must be securely anchored to the surface or
+an immoveable structure.
+ORD 45.0 Adopt February 16, 1984
+ 68 - 8
+B. The width of aisles between parking spaces -  Aisle width between rows of
+parking spaces shall be no less than:
+1. 16 feet between rows of parking spaces angled at less than 30 degrees;
+2. 18 feet between rows of parking spaces angled at greater than 30 degrees
+and less than 60 degrees;
+3. 25 feet between rows of parking spaces angled at greater than 60
+degrees.
+C. Parallel parking spaces - All parallel parking spaces shall be no less than 9 by
+22 feet in size. Ais le dimensions between parallel parking spaces shall be no
+less than 12 feet for one-way aisles and 24 feet for two-way aisles.
+D. Parking Access
+1. Driveways serving residential uses shall have a minimum width of not less
+than 9 feet when serving 4 or less  dwelling units and a driveway width of
+not less than 16 feet when serving 5 or  more dwelling units or in lieu of
+thereof, 2 separate driveways not less than 9 feet in width and
+unobstructed to a height of 8 feet.
+2. Driveways serving other than residential uses shall have a minimum width
+of 15 feet to accommodate one-way traffic and a minimum width of 25 feet
+to accommodate two-way traffic.
+3. Parking areas for 2 or more vehicles shall be designed to prevent or
+discourage cars from  backing out into a publi c street, public or private
+pedestrian walk, or public alley, in order to leave the area or to maneuver
+out of the parking space. Parking lots shall be designed and improved so
+as to prevent ingress and egress at any point other than designated
+entrance or exit drives.
+4. Access driveways to parking areas containing 4 or more spaces shall be
+located and designed as follows:
+a. Parking area entrance and exit driveways are to be located a
+minimum of 50 feet from the nearest street intersection, as
+measured from the centerline of the driveway to the nearest  travel
+lane of the intersecting street.
+b. Entrance and exit driveways crossing the street property line of a
+single site are to be limited to 2 along the frontage of a single
+street.  The centerline of driv eways on the same property  shall be
+separated by a minimum of 30 feet.
+ORD 45.0 Adopt February 16, 1984
+ 68 - 9
+E. Surfacing - All parking areas within the Klamath Falls Urban Growth Area
+shall be surfaced with an asphalt, concrete, chip seal, brick or other masonry
+paving units.  All parking ar eas outside the Klamath Falls Urban Growth Area
+shall be surfaced with a minimum of a crushed rock gravel surface.
+F. Lining and Marking -  Paved parking spaces shall be marked with paint
+striping, a minimum of 2 inches in width.  Parking spaces in other types of lots
+may be identified by wheel stop barriers.
+G. Wheel Stops -  Within the Klamath Falls Urban Growth Area, wheel stops or
+continuous concrete or asphalt curbing are required in all parking lots to
+define the perimeter of the parking area and to protect landscaping from
+vehicle encroachment.  Wheel stops shall be constructed as follows:
+1. Wheel stops shall be constructed of durable material not less than 6
+inches in height .  Wheel stops shall be securely installed and maintained
+as a safeguard against damage to adjoining  vehicles, machinery or
+abutting property.
+2. Wheel stops or other vehicle barriers less than 2 feet in height shall be
+located no closer than 3 feet to any property line.
+H. Vertical Clearance -  Covered parking spaces shall have a vertical clearance
+of at least 7'6" above the parking lot surface for all uses except residential.
+I. Slope - The finished grade of a parking lot shall not exceed 5 percent slope.
+68.080 - OFF-STREET LOADING REQUIREMENTS
+Buildings or structures constructed or altered which receive and distribute
+materials or merchandise by delivery truck shall provide off-street loading berth in
+the following manner:
+A. The number of berths shall be established according to:
+Gross Floor Area of Structure Number of Required Berths
+Up to 5,000 square feet 0
+5,000 to 20,000 square feet 1
+20,000 to 50,000 square feet 2
+Greater than 50,000 square feet 1 per each additional 50k sq ft
+B. A loading berth shall contain a space not less than 10 feet wide and 50 feet
+long, and have an overhead clearance of not less than 14 feet.  In no case
+shall a loading berth be designed such that any truck would interfere with a
+public street.
+69 - 1
+ARTICLE 69
+RURAL/WILDLAND FIRE SAFETY STANDARDS
+69.010 - PURPOSE
+The purpose of this article is to provide development standards which promote
+safe and appropriate  rural development in areas where wildfire represents a
+threat to persons and property, and to ensure that rural development does not
+threaten valuable resource lands or individuals charged with fighting  wildland
+fires.
+69.020 - APPLICATION
+This article shall apply to all new development zoned Forestry and
+Forestry/Range, and to all new  development in other zoned land located within
+an area identified as having a medium, high or extreme  hazard rating on the
+Wildland Hazard Ratings map adopted as part of the Klamath County
+Comprehensive Plan .  "New development" includes, but is not limited to
+individual dwellings and  structures, land partitions and subdivisions .  New
+dwellings shall comply with Sections 69.040;  69.050(A), (B), (C); 69.060(B);
+69.070; and 69.080 .  New land divisions shall comply with Sections  69.030;
+69.050(D); and 69.060(A).
+69.030 - ROAD STANDARDS
+A. New subdivision or major land partition developments within a high or
+extreme fire hazard rating  may have no fewer than 2 separate access routes
+to a county, state, or federal road, and shall be  interconnected within the
+development to eliminate dead end roads.  Road access shall be on opposite
+sides of the development where practicable.
+B. Dedicated right-of-ways or private road easements for subdivisions and major
+partitions within a  high or extreme fire hazard rating may be no less th an 60
+feet wide.
+1. The improved travel surface may be no less than 32 feet wide and
+improved to county standards for rural roads;
+2. The entire right -of-way shall be maintained as a fuel break free of brush
+and other flammable materials.
+C. Road grades shall not exceed 10 percent.
+D. The length of cul-de-sacs shall not exceed 700 feet.
+E. Cul-de-sacs shall have a right -of-way with a 50 foot radius and an improved
+vehicle turning area not less than 80 feet in diameter.
+69 - 2
+F. Bridges or culverts shall have a minimum load limit of 40,000 pounds (20
+tons) and shall not be narrower than the improved travel surface serving each
+end.
+G. Each lot or parcel in a subdivision created under this ordinance shall have
+direct access to a road meeting the standards of this section.
+H. No dwelling will be permitted without proof of legal access.
+I. New subdivision developments within a medium fire hazard rating shall meet
+the road standards set  forth in Article 71 of this Code, except for Section
+71.100, cul-de-sacs then Section 69.030(D) and (E) shall apply.
+69.040 - BUILDING CONSTRUCTION STANDARDS
+A. Roofing materials shall carry a minimum of Class B rating .  In areas of
+extreme fire hazard rating, Class A rated roofs shall be required.
+B. Manufactured homes shall be ful ly skirted from the floor -line to the ground -
+line.  Vents or openings in skirting shall be screened with corrosion -resistant
+mesh with a mesh size not greater than ¼ inch.
+C. All dwellings shall install a spark arrest on all chimneys .  It shall be
+constructed of nonflammable,  corrosive-resistant material .  The opening in
+the mesh shall be no larger than ¼ inch.
+69.050 - WATER SUPPLY SYSTEMS
+A. All structural developments shall have a dependable supply of water
+adequate for normal daily  consumption and peak emergency needs .  The
+applicant shall provide evidence that the domestic  water supply is from a
+source authorized in accordance with OAR 690, Division 10 and OAR 690,
+Division 20 and that any surface water used is not from a Class II stream as
+defined in OAR 629- 24-101(3).
+B. Individual residences: where a permanent source of water with a capacity of
+4000 gallons or more at the lowest flow such as a stream, pond, or lake exists
+within 500 feet of the homesite, road access  shall be provided to within 15
+feet of the water's edge .  Access to water shall be not less than 15 feet  wide,
+shall be an improved and maintained surface and shall have an improved
+vehicle turning area  of sufficient size to accommodate local fire protection
+equipment.
+C. Where residences are supplied with individual water systems without a
+permanent source of water  for fire suppression, the following standards shall
+apply:
+69 - 3
+1. At least one 1 inch standpipe shall be provided at least 50 feet from a
+building and shall have  adequate protection  from freezing weather .  A
+standpipe shall be located no greater than 10 feet from any driveway.
+2. Electrical service to a well pump shall be from independent service drops
+that do not pass through or onto any building.
+D. Fire protection for all new subdivision developments shall be provided by one
+of the following means as jointly agreed to by the developer and the local fire
+protection agency, or acceptable  alternative approved by the appropriate
+review body:
+1. A centrally located water supply syst em that will serve both domestic and
+fire protection needs.  The water supply system shall be accessible to fire
+protection equipment with sufficient flow  and a minimum storage capacity
+of 5000 gallons, or as recommended by the local fire protection agency; or
+2. Individual lots shall be supplied via wells with water supply mains not less
+than 1 inch in  diameter and capable of producing not less than 15 gallons
+per minute at not less than 40  pounds per square inch of water pressure
+for 1 hour; and
+3. Electrical service to a well pump shall be from independent service drops
+that do not pass through or onto any building.
+69.060 - POWER SUPPLY SYSTEMS
+A. New subdivisions shall provide underground electrical utilities.
+B. All vegetation shall be cleared around existing overhead distribution and
+feeder lines in a manner that prevents trees and limbs from falling up on lines.
+69.070 - FUEL BREAK/PROPERTY DEVELOPMENT STANDARDS
+Property fuel breaks, landscaping and maintenance may be planned in
+accordance with the g uidelines found in "Protecting your Home from Wildfire",
+available from the Planning Department or the  Oregon Department of Forestry .
+The following minimum standards shall apply:
+A. Primary Fuel Break: all residences shall create and maintain a primary fu el
+break not less than 30  feet in width extending from the wall line of the
+structure.  Primary fuel breaks consist of vegetation  less than 3 inches high .
+Isolated landscape trees are acceptable if no branches overhang.  Trees shall
+be thinned to 15 feet between tree crowns, and dead limbs near or over -
+hanging any structure shall be removed.
+B. Secondary Fuel Break: beyond a primary fuel break, residences shall create
+and maintain a secondary fuel break not less than 70 feet wide on the down -
+slope side of a residence and 35 feet on all other sides.  Extend the fuel break
+to 100 feet on the downhill side where steep slopes or  dense vegetation are
+69 - 4
+present.  Secondary fuel breaks consist of live trees and shrubbery pruned to
+reduce the possibility of fire reac hing roofs of structures or the crowns of
+trees.  Low-growing plants and grasses are to be maintained to prevent the
+buildup of flammable fuels.
+C. Wherever practicable, fences shall be constructed of nonflammable materials
+and maintained to eliminate the buildup of flammable refuse.
+D. Outbuildings and accessory structures will meet the same standards as the
+residence or primary  structure in terms of building construction and fuel
+breaks.
+69.080 - IDENTIFICATION SIGNS
+Home identification signs shall be pos ted at the nearest county, state, or federal
+road serving the  residence, and shall comply with the Klamath County house
+numbering system in existence.  Home identification signs may be constructed of
+nonflammable materials with letters at least 3 inches hi gh, 1/2 inch line width,
+and a reflective color that contrasts sharply with the background of both the sign
+itself and the surrounding vegetation.

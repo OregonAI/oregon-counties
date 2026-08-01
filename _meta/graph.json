@@ -1,8 +1,8 @@
 {
  "corpus": "oregon-counties",
- "n_nodes": 1969,
- "n_edges": 6294,
- "n_edges_external": 6294,
+ "n_nodes": 1980,
+ "n_edges": 6405,
+ "n_edges_external": 6405,
  "nodes": [
   {
    "id": "benton-code-adpr",
@@ -7215,6 +7215,72 @@
    "title": "ORDINDEX-71326pdf",
    "doc_type": "ordinance",
    "path": "counties/klamath-county/code/klamath-code-ordindex-71326pdf.md"
+  },
+  {
+   "id": "klamath-land-use-2029",
+   "title": "Economic Development - 8-24-17",
+   "doc_type": "ordinance",
+   "path": "counties/klamath-county/land-use/klamath-land-use-2029.md"
+  },
+  {
+   "id": "klamath-land-use-2725",
+   "title": "Chapter 20 202302021738598403",
+   "doc_type": "ordinance",
+   "path": "counties/klamath-county/land-use/klamath-land-use-2725.md"
+  },
+  {
+   "id": "klamath-land-use-2726",
+   "title": "Chapter 30 (PDF)",
+   "doc_type": "ordinance",
+   "path": "counties/klamath-county/land-use/klamath-land-use-2726.md"
+  },
+  {
+   "id": "klamath-land-use-2728",
+   "title": "Chapter 50 revised 6.13.2025 202506131829004870",
+   "doc_type": "ordinance",
+   "path": "counties/klamath-county/land-use/klamath-land-use-2728.md"
+  },
+  {
+   "id": "klamath-land-use-2729",
+   "title": "Chapter 60 201803191317200319",
+   "doc_type": "ordinance",
+   "path": "counties/klamath-county/land-use/klamath-land-use-2729.md"
+  },
+  {
+   "id": "klamath-land-use-2730",
+   "title": "Chapter 70 (PDF)",
+   "doc_type": "ordinance",
+   "path": "counties/klamath-county/land-use/klamath-land-use-2730.md"
+  },
+  {
+   "id": "klamath-land-use-2731",
+   "title": "Chapter 80 202308101747498714",
+   "doc_type": "ordinance",
+   "path": "counties/klamath-county/land-use/klamath-land-use-2731.md"
+  },
+  {
+   "id": "klamath-land-use-2732",
+   "title": "Chapter 90 (PDF)",
+   "doc_type": "ordinance",
+   "path": "counties/klamath-county/land-use/klamath-land-use-2732.md"
+  },
+  {
+   "id": "klamath-land-use-2734",
+   "title": "TOC.docx revised 6.13.2025 202506131844380856",
+   "doc_type": "ordinance",
+   "path": "counties/klamath-county/land-use/klamath-land-use-2734.md"
+  },
+  {
+   "id": "klamath-land-use-5668",
+   "title": "Chapter 40 202401021333065871",
+   "doc_type": "ordinance",
+   "path": "counties/klamath-county/land-use/klamath-land-use-5668.md"
+  },
+  {
+   "id": "klamath-land-use-5673",
+   "title": "Chapter 10 201809201331318342",
+   "doc_type": "ordinance",
+   "path": "counties/klamath-county/land-use/klamath-land-use-5673.md"
   },
   {
    "id": "klamath-policies-2026-classification-tables-local-737",
@@ -27824,6 +27890,561 @@
    "from": "klamath-code-master-code-71326pdf",
    "type": "references_external",
    "to": "OAR 333-015-0262"
+  },
+  {
+   "from": "klamath-land-use-2725",
+   "type": "references_external",
+   "to": "ORS 197.763"
+  },
+  {
+   "from": "klamath-land-use-2725",
+   "type": "references_external",
+   "to": "ORS 197.805"
+  },
+  {
+   "from": "klamath-land-use-2725",
+   "type": "references_external",
+   "to": "ORS 197.845"
+  },
+  {
+   "from": "klamath-land-use-2725",
+   "type": "references_external",
+   "to": "ORS 215.020"
+  },
+  {
+   "from": "klamath-land-use-2725",
+   "type": "references_external",
+   "to": "ORS 215.030"
+  },
+  {
+   "from": "klamath-land-use-2725",
+   "type": "references_external",
+   "to": "ORS 215.042"
+  },
+  {
+   "from": "klamath-land-use-2725",
+   "type": "references_external",
+   "to": "ORS 215.110"
+  },
+  {
+   "from": "klamath-land-use-2725",
+   "type": "references_external",
+   "to": "ORS 215.406"
+  },
+  {
+   "from": "klamath-land-use-2725",
+   "type": "references_external",
+   "to": "ORS 215.416"
+  },
+  {
+   "from": "klamath-land-use-2725",
+   "type": "references_external",
+   "to": "ORS 215.422"
+  },
+  {
+   "from": "klamath-land-use-2725",
+   "type": "references_external",
+   "to": "ORS 215.427"
+  },
+  {
+   "from": "klamath-land-use-2726",
+   "type": "references_external",
+   "to": "ORS 197.763"
+  },
+  {
+   "from": "klamath-land-use-2726",
+   "type": "references_external",
+   "to": "ORS 197.830"
+  },
+  {
+   "from": "klamath-land-use-2726",
+   "type": "references_external",
+   "to": "ORS 215.042"
+  },
+  {
+   "from": "klamath-land-use-2726",
+   "type": "references_external",
+   "to": "ORS 215.060"
+  },
+  {
+   "from": "klamath-land-use-2726",
+   "type": "references_external",
+   "to": "ORS 215.223"
+  },
+  {
+   "from": "klamath-land-use-2726",
+   "type": "references_external",
+   "to": "ORS 215.412"
+  },
+  {
+   "from": "klamath-land-use-2726",
+   "type": "references_external",
+   "to": "ORS 215.416"
+  },
+  {
+   "from": "klamath-land-use-2726",
+   "type": "references_external",
+   "to": "ORS 215.422"
+  },
+  {
+   "from": "klamath-land-use-2726",
+   "type": "references_external",
+   "to": "ORS 215.427"
+  },
+  {
+   "from": "klamath-land-use-2726",
+   "type": "references_external",
+   "to": "ORS 215.503"
+  },
+  {
+   "from": "klamath-land-use-2726",
+   "type": "references_external",
+   "to": "ORS 216.416"
+  },
+  {
+   "from": "klamath-land-use-2726",
+   "type": "references_external",
+   "to": "ORS 446.003"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 195.120"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 195.300"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 197.015"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 197.435"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 197.660"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 197.732"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 197.770"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 215.130"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 215.213"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 215.246"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 215.263"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 215.298"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 215.306"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 215.417"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 215.740"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 215.750"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 215.780"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 215.783"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 30.930"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 30.936"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 321.359"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 358.480"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 368.001"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 433.735"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 454.695"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 455.055"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 455.315"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 459.245"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 468B.050"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 517.750"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 520.005"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 522.005"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 526.215"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 527.620"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 537.545"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 540.505"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 621.072"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 624.010"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 658.750"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 671.318"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 671.520"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 757.300"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 757.365"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "ORS 772.210"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "OAR 340-093-0050"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "OAR 660-006-0025"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "OAR 660-011-0060"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "OAR 660-012-0065"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "OAR 660-033-0130"
+  },
+  {
+   "from": "klamath-land-use-2728",
+   "type": "references_external",
+   "to": "OAR 734-051-3030"
+  },
+  {
+   "from": "klamath-land-use-2729",
+   "type": "references_external",
+   "to": "ORS 811.620"
+  },
+  {
+   "from": "klamath-land-use-2729",
+   "type": "references_external",
+   "to": "ORS 811.625"
+  },
+  {
+   "from": "klamath-land-use-2731",
+   "type": "references_external",
+   "to": "ORS 215.298"
+  },
+  {
+   "from": "klamath-land-use-2731",
+   "type": "references_external",
+   "to": "ORS 358.905"
+  },
+  {
+   "from": "klamath-land-use-2731",
+   "type": "references_external",
+   "to": "ORS 377.715"
+  },
+  {
+   "from": "klamath-land-use-2731",
+   "type": "references_external",
+   "to": "ORS 517.750"
+  },
+  {
+   "from": "klamath-land-use-2731",
+   "type": "references_external",
+   "to": "ORS 696.010"
+  },
+  {
+   "from": "klamath-land-use-2731",
+   "type": "references_external",
+   "to": "ORS 97.740"
+  },
+  {
+   "from": "klamath-land-use-2732",
+   "type": "references_external",
+   "to": "ORS 30.947"
+  },
+  {
+   "from": "klamath-land-use-2732",
+   "type": "references_external",
+   "to": "ORS 527.610"
+  },
+  {
+   "from": "klamath-land-use-5668",
+   "type": "references_external",
+   "to": "ORS 209.250"
+  },
+  {
+   "from": "klamath-land-use-5668",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "klamath-land-use-5668",
+   "type": "references_external",
+   "to": "ORS 446.003"
+  },
+  {
+   "from": "klamath-land-use-5668",
+   "type": "references_external",
+   "to": "ORS 454.755"
+  },
+  {
+   "from": "klamath-land-use-5668",
+   "type": "references_external",
+   "to": "ORS 92.060"
+  },
+  {
+   "from": "klamath-land-use-5668",
+   "type": "references_external",
+   "to": "ORS 92.095"
+  },
+  {
+   "from": "klamath-land-use-5668",
+   "type": "references_external",
+   "to": "ORS 92.100"
+  },
+  {
+   "from": "klamath-land-use-5668",
+   "type": "references_external",
+   "to": "ORS 92.185"
+  },
+  {
+   "from": "klamath-land-use-5668",
+   "type": "references_external",
+   "to": "ORS 92.190"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "ORS 197.435"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "ORS 215.203"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "ORS 215.283"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "ORS 32.267"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "ORS 433.735"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "ORS 446.003"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "ORS 455.315"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "ORS 468.740"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "ORS 481.345"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "ORS 496.004"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "ORS 527.620"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "ORS 527.715"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "ORS 65.001"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "ORS 757.300"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "ORS 757.365"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "ORS 92.010"
+  },
+  {
+   "from": "klamath-land-use-5673",
+   "type": "references_external",
+   "to": "OAR 860-039-0010"
   },
   {
    "from": "klamath-policies-klamath-county-human-resources-policies-procedures-manual-cu",

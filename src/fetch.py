@@ -24,6 +24,7 @@ not the same as evading a technical access control.** So:
 from __future__ import annotations
 
 import pathlib
+import re
 import time
 import urllib.error
 import urllib.parse
@@ -125,6 +126,31 @@ def get(url: str, _attempt: int = 0) -> tuple[bytes, str]:
         if "CERTIFICATE_VERIFY_FAILED" in str(e.reason):
             raise Refused(f"{url}: TLS chain incomplete (server omits its intermediate)") from e
         raise
+
+
+def filename_of(url: str) -> str | None:
+    """The server's own filename for a URL, from Content-Disposition.
+
+    NEEDED BECAUSE SOME DOCUMENT LINKS CARRY NO NAME. CivicPlus serves
+    `/DocumentCenter/View/2029` with no path segment saying what it is, so a filename-derived
+    id would be the string "2029" and a filename-derived title likewise. The server knows —
+    it sends `Content-Disposition: inline;filename=Economic%20Development%20-%208-24-17.pdf`
+    — and asking is one request.
+
+    ASK WITH GET, NOT HEAD. This is the exact mistake that made Klamath's land-use family
+    look unavailable: `curl -I` against this host answers `text/html`, so 14 real PDFs were
+    recorded as "viewer pages, not documents" and skipped. The GET returns
+    `application/pdf`. A HEAD response is not evidence about what a GET returns.
+    """
+    try:
+        _throttle(url)
+        req = urllib.request.Request(url, headers=HEADERS)
+        with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
+            cd = resp.headers.get("Content-Disposition") or ""
+    except Exception:                              # noqa: BLE001 — caller falls back
+        return None
+    m = re.search(r'filename\*?=(?:UTF-8\'\')?"?([^";]+)"?', cd)
+    return urllib.parse.unquote(m.group(1)).strip() if m else None
 
 
 def snapshot(url: str, dest: pathlib.Path, refetch: bool = False) -> tuple[bytes, bool]:

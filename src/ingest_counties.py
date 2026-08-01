@@ -154,6 +154,13 @@ def _scrape(listing: str, cfg: dict, link_re, seen: set, out: list) -> None:
             continue
         seen.add(key)
         name = _name_from_url(url)
+        # A NAMELESS LINK GETS ITS NAME FROM THE SERVER. `/DocumentCenter/View/2029` yields
+        # the bare id "2029", which is useless as an id and worse as a title; the server's
+        # Content-Disposition says "Economic Development - 8-24-17.pdf". Only asked when the
+        # derived name is purely numeric, so this costs one extra request per nameless link
+        # rather than one per link.
+        if cfg.get("resolve_names") and name.isdigit():
+            name = fetch.filename_of(url) or name
         if fetch.looks_like_draft(name) or fetch.looks_like_draft(href):
             continue
         if cfg.get("exclude_re") and re.search(cfg["exclude_re"], url, re.I):

@@ -1,0 +1,7879 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/klamath-county
+id: klamath-land-use-2728
+title: 'Chapter 50 revised 6.13.2025 202506131829004870'
+doc_type: ordinance
+citation: 'Chapter 50 revised 6.13.2025 202506131829004870'
+authority_level: county_ordinance
+issuing_body: 'Klamath County Board of Commissioners'
+source_url: https://www.klamathcounty.org/DocumentCenter/View/2728
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 1eb552a5bdd5907526d62f33118cb480ee2a0484b9747a5a8818db0eb06aa9d2
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 195.120
+    - ORS 195.300
+    - ORS 197.015
+    - ORS 197.435
+    - ORS 197.660
+    - ORS 197.732
+    - ORS 197.770
+    - ORS 215.130
+    - ORS 215.203
+    - ORS 215.213
+    - ORS 215.246
+    - ORS 215.263
+    - ORS 215.283
+    - ORS 215.298
+    - ORS 215.306
+    - ORS 215.417
+    - ORS 215.740
+    - ORS 215.750
+    - ORS 215.780
+    - ORS 215.783
+    - ORS 30.930
+    - ORS 30.936
+    - ORS 321.359
+    - ORS 358.480
+    - ORS 368.001
+    - ORS 433.735
+    - ORS 454.695
+    - ORS 455.055
+    - ORS 455.315
+    - ORS 459.245
+    - ORS 468B.050
+    - ORS 517.750
+    - ORS 520.005
+    - ORS 522.005
+    - ORS 526.215
+    - ORS 527.620
+    - ORS 537.545
+    - ORS 540.505
+    - ORS 621.072
+    - ORS 624.010
+    - ORS 658.750
+    - ORS 671.318
+    - ORS 671.520
+    - ORS 757.300
+    - ORS 757.365
+    - ORS 772.210
+    - OAR 340-093-0050
+    - OAR 660-006-0025
+    - OAR 660-011-0060
+    - OAR 660-012-0065
+    - OAR 660-033-0130
+    - OAR 734-051-3030
+  related: []
+  supersedes: []
+tags: [klamath-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Klamath County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter 50 revised 6.13.2025 202506131829004870 (Chapter 50 revised 6.13.2025 202506131829004870)
+
+## At a glance
+
+Chapter 50 revised 6.13.2025 202506131829004870 — land use of Klamath County. 214 pages.
+
+## Full text
+
+ORD. 44.92 Adopt January 30, 2012
+ORD. 44.94 Adopt November 27, 2012
+ORD. 44.103 Adopt July 10, 2015
+50 - 1
+
+CHAPTER 50
+LAND USE ZONES
+
+ARTICLE 50
+BASIC PROVISIONS
+
+50.010 - PURPOSE
+
+The purposes of this chapter are to establish land use zones required to implement the
+goals and policies of the Klamath County Comprehensive Plan, to define the purpose of
+each zone, and to specify the types of land uses appropriate for each zone.  More
+specifically, the zones are formulated:
+
+A. To permit orderly and beneficial development, while protecting the character of
+neighborhoods and communities, and the social and economic stability of the County;
+
+B. To reconcile discordant land uses by identifying the relationship between compatible
+uses which minimize land use conflicts;
+
+C. To support the protection and preservation of the agricultural and silvicultural industry
+and the natural resources essential to the conduct of those industries;
+
+D. To support the protection and preservation of the County's open space and
+recreational resources while providing for appropriate development;
+
+E. To provide areas where agricultural, residential, commercial and industrial uses may
+be developed in harmonious patterns and with all the necessities for satisfactory living
+and working environments; and
+
+F. To further the goals and policies of the Klamath County Comprehensive Plan.
+
+50.020- LIST OF BASIC ZONES
+
+The following basic zones are established:
+
+ RCR  Rural Community Residential
+ R- 10  Rural Residential
+ R-5  Rural Residential
+ R-2  Rural Residential
+ R-1  Rural Residential
+ RS   Suburban Residential
+ RL   Low Density Residential
+ RM  Medium Density Residential
+ RH   High Density Residential
+
+ CN   Neighborhood Commercial
+ORD. 44.92 Adopt January 30, 2012
+ORD. 44.94 Adopt November 27, 2012
+ORD. 44.103 Adopt July 10, 2015
+50 - 2
+
+ CG   General Commercial
+ CR   Recreational Commercial
+ CT   Transportation Commercial
+
+ RUC-C Rural Community Commercial
+ RSC-C Rural Service Center Commercial
+ RCR-C Rural Community Resort Commercial
+
+ IL   Light Industrial
+ IH   Heavy Industrial
+
+ ART  Air/Rail Transportation
+
+ RUC-I  Rural Community Industrial
+ RSC-I  Rural Service Center Industrial
+
+ EFU  Exclusive Farm Use
+
+ F   Forestry
+ FR   Forestry/Range
+
+ NR   Non-Resource
+
+ OS&C  Open Space and Conservation
+
+ TRP   Train Park
+
+50.030 - LIST OF SPECIAL PURPOSE ZONES
+
+The following special purpose zones are established:
+
+ SRO  Significant Resource Overlay
+
+ ASK  Airport Safety Overlay - Kingsley Field
+ ANK  Airport Noise Overlay - Kingsley Field
+ AS   Airport Safety Overlay - Beaver Marsh, Chiloquin, Crescent Lake & Malin
+
+ FHZ  Flood Hazard Overlay
+
+ GEO  Geothermal Overlay
+
+ LU   Limited Use Overlay
+
+ IAMP  OR 66 Green Springs Hwy Interchange Area Management Plan
+
+ORD. 44.92 Adopt January 30, 2012
+ORD. 44.94 Adopt November 27, 2012
+ORD. 44.103 Adopt July 10, 2015
+50 - 3
+
+50.040 – TRANSPORTATION-RELATED USES
+
+A. The following transportation-related improvements and activities are considered
+“Essential Services” uses and are permitted outright in all County zones, unless
+otherwise specified in individual zones.
+
+1. Normal operation, maintenance, repair, and preservation activities of existing
+transportation facilities.
+2. Installation of culverts, pathways, medians, fencing, guardrails, lighting, and
+similar types of improvements within the existing right-of way.
+3. Projects specifically identified in the Klamath Falls Urban Area
+Transportation System Plan and the County Wide Transportation System
+Plan.
+4. Landscaping as part of a transportation facility.
+5. Emergency measures necessary for the safety and protection of property.
+6. Acquisition of right- of-way for public roads, highways, and other
+transportation improvements designated in the Urban Area Transportation
+System Plan, except for those that are located in exclusive farm use or
+forest zones.
+7. Construction of a street or road as part of an approved subdivision or land
+partition approved that is consistent with the applicable land division
+regulations.
+
+B. The following transportation-related improvements and activities are considered
+“Extensive Impact Services and Utilities” uses and are permitted conditionally in all
+County zones, unless otherwise specified in individual zones.
+
+1. Construction, reconstruction, or widening of highways, roads, bridges or
+other transportation projects that are:
+a. Not improvements designated in the Urban Area Transportation
+System Plan; or
+b. Not designed and constructed as part of a subdivision or planned
+development subject to site plan and/or conditional use review.
+c. An application for site plan review is subject to review under Article
+41. In addition, the site plan permit shall comply with the Urban
+Area Transportation System Plan and applicable standards of this
+section, and shall address the criteria below. For State projects
+that require an Environmental Impact Statement (EIS) or EA
+(Environmental Assessment), the draft EIS or EA shall be reviewed
+and used as the basis for findings to comply with the following
+criteria:
+1) The project is designed to be compatible with existing land use
+and social patterns, including noise generation, safety, and
+zoning.
+2) The project is designed to minimize avoidable environmental
+impacts to identified wetlands, wildlife habitat, air and water
+quality, cultural resources, and scenic qualities.
+3) The project preserves or improves the safety and function of
+ORD. 44.92 Adopt January 30, 2012
+ORD. 44.94 Adopt November 27, 2012
+ORD. 44.103 Adopt July 10, 2015
+50 - 4
+
+the facility though access management, traffic calming, or
+other design features.
+4) The project includes provision for bicycle and pedestrian
+circulation as consistent with the Comprehensive Plan and
+other requirements of this Code.
+
+ 51 - 1
+
+ARTICLE 51
+RURAL COMMUNITY RESIDENTIAL (RCR)
+
+51.010 - PURPOSE
+
+The purpose of this zone is to establish and maintain areas within rural communities for
+residential uses where existing parcel sizes are generally under one acre and where the
+availability of water and sewer systems makes the existence of such parcels feasible.
+
+51.020 - PERMITTED USES
+
+The following uses shall be permitted subject to site plan review of Article 41, and all other
+applicable standards, criteria, rules, and statutes governing such uses:
+
+A. Single-family dwelling
+B. Manufactured Home
+C. Essential Services
+D. Small Animals - not to exceed 24 animals per acre
+E. Large Animals if lot is over 20,000 square feet, not more than 2 animals per acre
+F. Home Day Care
+G. Residential Care Home
+H. Accessory Buildings and Uses
+I. Community Park
+J. Residential Care Facility
+
+51.030 - CONDITIONAL USES
+
+The following uses may be permitted subject to standards listed in this article and if the
+provisions of Article 44 are satisfied:
+
+A. Multiple-family dwelling
+B. Schools
+C. Community Assembly
+D. Churches
+E. Manufactured Home Park
+F. Extensive Impact Services and Utilities
+G. Cemeteries
+H. Kennel
+I. Bed and Breakfast
+J. Emergency Services
+K.  Mobile Home
+L.  RV Parks
+ 51 - 2
+
+51.040 - PROPERTY DEVELOPMENT STANDARDS
+
+A. Minimum Lot Size - 5,000 square feet
+
+B. Residential Density - 1 dwelling per lot or parcel
+
+C. Lot Size and Shape - See Article 61
+
+D. Building Heights and Setbacks - See Article 62
+
+E. Fences, Walls and Screening - See Article 64
+
+F. Landscaping - See Article 65
+
+G. Signs - See Article 66
+
+H. Parking - See Article 68
+
+I. Access - See Article 71
+ 51.1 - 1
+
+ARTICLE 51.1
+RURAL RESIDENTIAL (R-10)
+
+51.110 - PURPOSE
+
+The purpose of this zone is to establish and maintain areas for rural residential uses.  This
+zone allows for large lot residential uses and for small-scale hobby farming.  The zone also
+serves as a buffer between urban uses and natural resource areas.
+
+Typically, this zone is appropriate in rural or semi-rural areas where the existing land use
+pattern consists of lots greater than one acre in size.  This zone may be applied where
+existing or proposed public facilities and services appropriately serve a density of less than
+one dwelling per 10 acres, or where there is a transition between urban levels o f service
+and rural areas of service.
+
+51.120 - PERMITTED USES
+
+The following uses shall be permitted subject to site plan review of Article 41, and all other
+applicable standards, criteria, rules, and statutes governing such uses:
+
+A. Single-family dwelling
+B. Manufactured Home
+C. Essential Services
+D. Small Animals - not to exceed 24 animals per acre
+E. Large Animals - not to exceed 2 animals per acre
+F. Home Day Care
+G. Residential Care Home
+H. Accessory Buildings and Uses
+I. Community Park
+J. Emergency Services
+K. Residential Care Facility
+
+51.130 - CONDITIONAL USES
+
+The following uses may be permitted subject to standards listed in this article and if the
+provisions of Article 44 are satisfied:
+
+A. Animal Raising, specialty
+B. Extensive Impact Services and Utilities
+C. Cemeteries
+D. Schools
+E. Community Assembly
+F. Churches
+G. Kennel
+H. Bed and Breakfast
+I.   Mobile Home
+ 51.1 - 2
+
+51.140 - PROPERTY DEVELOPMENT STANDARDS
+
+A. Minimum Lot Size - 10 Acres
+
+B. Residential Density - 1 dwelling per lot or parcel
+
+C. Lot Size and Shape - See Article 61
+
+D. Building Heights and Setbacks - See Article 62
+
+E. Fences, Walls and Screening - See Article 64
+
+F. Landscaping - See Article 65
+
+G. Signs - See Article 66
+
+H. Parking - See Article 68
+
+I. Access - See Article 71
+ 51.2 - 1
+ARTICLE 51.2
+RURAL RESIDENTIAL (R-5)
+
+51.210 - PURPOSE
+
+The purpose of this zone is to establish and maintain areas for rural residential uses.  This
+zone allows for large lot residential uses and for small-scale hobby farming.  The zone also
+serves as a buffer between urban uses and natural resource areas.
+
+Typically, this zone is appropriate in rural or semi-rural areas where the existing land use
+pattern consists of lots greater than one acre in size.  This zone may be applied where
+existing or proposed public facilities and services appropriately serve a density of less than
+one dwelling per 5 acres, or where there is a transition between urban levels of service
+and rural areas of service.
+
+51.220 - PERMITTED USES
+
+The following uses shall be permitted subject to site plan review of Article 41, and all other
+applicable standards, criteria, rules, and statutes governing such uses:
+
+A. Single-family dwelling
+B. Manufactured Home
+C. Essential Services
+D. Small Animals - not to exceed 24 animals per acre
+E. Large Animals - not to exceed 2 animals per acre)
+F. Home Day Care
+G. Residential Care Home
+H. Accessory Buildings and Uses
+I. Community Park
+J. Emergency Services
+K. Residential Care Facility
+
+51.230 - CONDITIONAL USES
+
+The following uses may be permitted subje ct to standards listed in this article and if the
+provisions of Article 44 are satisfied:
+A. Animal Raising, specialty
+B. Extensive Impact Services and Utilities
+C. Cemeteries
+D. Schools
+E. Community Assembly
+F. Churches
+G. Kennel
+H. Bed and Breakfast
+I. Mobile Home
+J. The creation of a new parcel or parcels smaller than the minimum lot size only if the
+criteria in Article 45.120 are met
+ 51.2 - 2
+
+51.240 - PROPERTY DEVELOPMENT STANDARDS
+
+A. Minimum Lot Size - 5 Acres
+
+B. Residential Density - 1 dwelling per lot or parcel
+
+C. Lot Size and Shape - See Article 61
+
+D. Building Heights and Setbacks - See Article 62
+
+E. Fences, Walls and Screening - See Article 64
+
+F. Landscaping - See Article 65
+
+G. Signs - See Article 66
+
+H. Parking - See Article 68
+
+I. Access - See Article 71
+ 51.3 - 1
+ARTICLE 51.3
+RURAL RESIDENTIAL (R-2)
+
+51.310 - PURPOSE
+
+The purpose of this zone is to establish and maintain areas for rural residential uses. This
+zone allows for large lot residential uses and for small-scale hobby farming.  The zone also
+serves as a buffer between urban uses and natural resource areas.
+
+Typically, the zone is appropriate in rural or semi-rural areas where the existing rural land
+use pattern consists of lots less than one acre in size.  This zone may be applied where
+existing or pr oposed public facilities or services appropriately serve a density of one
+dwelling per acre, or where there is a transition between urban levels of service and rural
+levels of service.
+
+51.320 - PERMITTED USES
+
+The following uses shall be permitted subject to site plan review of Article 41, and all other
+applicable standards, criteria, rules and statutes governing such use:
+
+A. Single-family dwelling
+B. Manufactured Home
+C. Essential Services
+D. Small Animals - not to exceed 24 animals per acre
+E. Large Animals - not to exceed 2 animals per acre
+F. Home Day Care
+G. Residential Care Home
+H. Residential Care Facility
+I. Accessory Buildings and Uses
+J. Community Park
+K. Emergency Services
+
+51.330 - CONDITIONAL USES
+
+The following uses may be permitted subject t o standards listed in this article and if the
+provisions of Article 44 are satisfied:
+A. Extensive Impact Services and Utilities
+B. Cemeteries
+C. Schools
+D. Community Assembly
+E. Churches
+F. Animal Raising - Specialty
+G. Kennel
+H. Bed and Breakfast
+I.   Mobile Home
+J. The creation of a new parcel or parcels smaller than the minimum lot size only if the
+criteria in Article 45.120 are met
+ 51.3 - 2
+51.340 - PROPERTY DEVELOPMENT STANDARDS
+
+A. Minimum Lot Size - 2 Acres
+
+B. Residential Density - 1 dwelling per lot or parcel
+
+C. Lot Size and Shape - See Article 61
+
+D. Building Heights and Setbacks - See Article 62
+
+E. Fences, Walls and Screening - See Article 64
+
+F. Landscaping - See Article 65
+
+G. Signs - See Article 66
+
+H. Parking - See Article 68
+I.     Access - See Article 71
+ 51.4 - 1
+
+ARTICLE 51.4
+RURAL RESIDENTIAL (R-1)
+
+51.410 - PURPOSE
+
+The purpose of this zone is to establish and maintain areas for rural residential uses. This
+zone allows for large lot residential uses and for small-scale hobby farming.  The zone also
+serves as a buffer between urban uses and natural resource areas.
+
+Typically, the zone is appropriate in rural or semi-rural areas where the existing rural land
+use pattern consists of lots less than one acre in size.  This zone may be applied where
+existing o r proposed public facilities or services appropriately serve a density of one
+dwelling per acre, or where there is a transition between urban levels of service and rural
+levels of service.
+
+51.420 - PERMITTED USES
+
+The following uses shall be permitted subject to site plan review of Article 41, and all other
+applicable standards, criteria, rules and statutes governing such use:
+
+A. Single-family dwelling
+B. Manufactured Home
+C. Essential Services
+D. Small Animals - not to exceed 24 animals per acre
+E. Large Animals - not to exceed 2 animals per acre
+F. Home Day Care
+G. Residential Care Home
+H. Residential Care Facility
+I. Accessory Buildings and Uses
+J. Community Park
+K. Emergency Services
+
+51.430 - CONDITIONAL USES
+
+The following uses may be permitted subje ct to standards listed in this article and if the
+provisions of Article 44 are satisfied:
+A. Extensive Impact Services and Utilities
+B. Cemeteries
+C. Schools
+D. Community Assembly
+E. Churches
+F. Animal Raising - Specialty
+G. Kennel
+H. Bed and Breakfast
+I.   Mobile Home
+J. The creation of a new parcel or parcels smaller than the minimum lot size only if the
+criteria in Article 45.120 are met
+ 51.4 - 2
+
+51.440 - PROPERTY DEVELOPMENT STANDARDS
+
+A. Minimum Lot Size - 1 Acre
+
+B. Residential Density - 1 dwelling per lot or parcel
+
+C. Lot Size and Shape - See Article 61
+
+D. Building Heights and Setbacks - See Article 62
+
+E. Fences, Walls and Screening - See Article 64
+
+F. Landscaping - See Article 65
+
+G. Signs - See Article 66
+
+H. Parking - See Article 68
+
+I. Access - See Article 71
+
+ORD. 45.95 Adopted August 6, 2018
+
+ 51.5 - 1
+
+ARTICLE 51.5
+SUBURBAN RESIDENTIAL (RS)
+
+51.510 - PURPOSE
+
+The purpose of this zone is to establish and maintain suburban areas for residential use.
+This zone serves to implement the Comprehensive Plan calling for use of 1 to 4 dwellings
+units per acre.  Typically, this zone is appropriate for neighborhoods where the majority of
+the lots are large enough to maintain domesticated animals.
+
+51.520 - PERMITTED USES
+
+The following uses shall be permitted subject to site plan review of Article 41, and all other
+applicable standards, criteria, rules and statutes governing such uses:
+
+A. Single-family dwelling
+B. Manufactured Home
+C. Essential Service
+D. Home Day Care
+E. Residential Care Home
+F. Residential Care Facility
+G. Small Animals - not to exceed 24 animals per acre
+H. Large animals if lot is over 20,000 square feet; not to exceed 2 animals per acre.
+I. Accessory Buildings and Uses
+J. Community Park
+K.  Accessory Dwelling Unit(s) subject to Article 89 standards
+
+51.530 - CONDITIONAL USES
+
+The following uses may be permitted subject to standards listed in this article and if the
+provisions of Article 44 are satisfied:
+
+A. Additional dwelling if lot or parcel size is 20,000 square feet or greater
+B. Manufactured Home Park
+C. Extensive Impact Services and Utilities
+D. Cemeteries
+E. Schools
+F. Community Assembly
+G. Churches
+H. Kennel
+I. Emergency Services
+ORD. 45.95 Adopted August 6, 2018
+
+ 51.5 - 2
+
+51.540 - PROPERTY DEVELOPMENT STANDARDS
+
+A. Minimum Lot Size - 10,000 square feet
+
+B. Residential Density - 1 dwelling per lot or parcel, or  one dwelling per 10,000 square
+feet
+
+C. Lot Size and Shape - See Article 61
+
+D. Building Heights and Setbacks - See Article 62
+
+E. Fences, Walls and Screening - See Article 64
+
+F. Landscaping - See Article 65
+
+G. Signs - See Article 66
+
+H. Parking - See Article 68
+
+I. Access - See Article 71
+
+ORD. 45.92 Adopted August 6, 2018
+
+ 51.6 - 1
+
+ARTICLE 51.6
+LOW DENSITY RESIDENTIAL (RL)
+
+51.610 - PURPOSE
+
+The purpose of this zone is to establish and maintain areas suitable for low density
+residential uses.  The Low Density Residential zone is intended to implement the
+Comprehensive Plan designation calling for an optimum residential density between 1 and
+6 dwellings per acre.
+
+51.620 - PERMITTED USES
+
+The following uses shall be permitted subject to site plan review of Article 41, and all other
+applicable standards, criteria, rules and statutes governing such uses:
+
+A. Single-family dwelling
+B. Manufactured Home
+C. Essential Services
+D. Home Day Care
+E. Residential Care Facility
+F. Residential Care Home
+G. Accessory Buildings and Uses
+H. Community Park
+ I.   Accessory Dwelling Unit(s) subject to Article 89 standards
+
+51.630 - CONDITIONAL USES
+
+The following uses may be permitted subject to standards listed in this article and if the
+provisions of Article 44 are satisfied:
+
+A. Schools
+B. Community Assembly
+C. Churches
+D. Cemetery
+E. Extensive Impact Services and Utilities
+F. Emergency Services
+ORD. 45.92 Adopted August 6, 2018
+
+ 51.6 - 2
+
+51.640 - PROPERTY DEVELOPMENT STANDARDS
+
+A. Minimum Lot Size - 7,000 square feet
+
+B. Residential Density - 1 dwelling per lot
+
+C. Lot Size and Shape - See Article 61
+
+D. Building Heights and Setbacks - See Article 62
+
+E. Fences, Walls and Screening - See Article 64
+
+F. Landscaping - See Article 65
+
+G. Signs - See Article 66
+
+H. Parking - See Article 68
+
+I. Access - See Article 71
+
+ORD. 45.92 Adopted August 6, 2018
+
+ 51.7 - 1
+
+ARTICLE 51.7
+MEDIUM DENSITY RESIDENTIAL (RM)
+
+51.710 - PURPOSE
+
+The purpose of this zone is to establish and maintain areas for single -family and duplex
+residences.  The Medium Density Residential zone is intended to implement the
+Comprehensive Plan calling for an optimum residential density up to 8 dwelling units per
+acre.
+
+51.720 - PERMITTED USES
+
+The following shall be permitted subject to site plan review of Article 41, and all other
+applicable standards, criteria, rules and statutes governing such uses:
+
+A. Single-family dwelling
+B. Duplex
+C. Manufactured Home
+D. Mobile Home Park
+E. Essential Services
+F. Home Day Care
+G. Residential Care Facility
+H. Residential Care Home
+I. Accessory Buildings and Uses
+J. Community Park
+K. Accessory Dwelling Unit(s) subject to Article 89 standards
+
+51.730 - CONDITIONAL USES
+
+The following uses may be permitted subject to standards listed in this article and if the
+provisions of Article 44 are satisfied:
+
+A. Multifamily dwelling
+B. Schools
+C. Community Assembly
+D. Churches
+E. Cemetery
+F. Extensive Impact Services and Utilities
+G. Emergency Services
+ORD. 45.92 Adopted August 6, 2018
+
+ 51.7 - 2
+
+51.740 - PROPERTY DEVELOPMENT STANDARDS
+
+A. Minimum Lot Size - 5,000 square feet
+
+B. Residential Density - 1 single-family dwelling unit per lot, or 1 duplex or multifamily
+dwelling per 8,000 square feet
+
+C. Lot Size and Shape - See Article 61
+
+D. Building Heights and Setbacks - See Article 62
+
+E. Fences, Walls and Screening - See Article 64
+
+F. Landscaping - See Article 65
+
+G. Signs - See Article 66
+
+H. Parking - See Article 68
+
+I. Access - See Article 71
+
+ORD. 45.92 Adopted August 6, 2018
+
+ 51.8 - 1
+
+ARTICLE 51.8
+HIGH DENSITY RESIDENTIAL (RH)
+
+51.810 - PURPOSE
+
+The purpose of this zone is to provide and maintain higher densities of dwelling units in
+urban areas where the level of public services can adequately accommodate such
+development.  The High Density Residential zone is appropriate in areas near schools,
+recreation, employment and transportation services. This zone is intended to implement
+the Comprehensive Plan calling for residential densities of up to 24 dwelling units per acre.
+
+51.820 - PERMITTED USES
+
+The following shall be permitted subject to site p lan review of Article 41, and all other
+applicable standards, criteria, rules and statutes governing such uses:
+
+A. Multifamily dwelling
+B. Mobile Home Park
+C. Essential Services
+D. Home Day Care
+E. Residential Care Facility
+F. Residential Care Home
+G. Accessory Buildings and Uses
+H. Community Park
+ I.  Accessory Dwelling Unit(s) subject to Article 89 standards
+
+51.830 - CONDITIONAL USES
+
+The following uses may be permitted subject to standards listed in this article and if the
+provisions of Article 44 are satisfied:
+
+A. Single-Family dwelling
+B. Duplex
+C. Manufactured Dwelling
+D. Schools
+E. Community Assembly
+F. Churches
+G. Cemetery
+H. Extensive Impact Services and Utilities
+I. Emergency Services
+ORD. 45.92 Adopted August 6, 2018
+
+ 51.8 - 2
+
+51.840 - PROPERTY DEVELOPMENT STANDARDS
+
+A. Minimum Lot Size - 10,000 square feet, 10-24 units per acre
+
+B. Residential Density - 1 single-family dwelling per lot, or 1 multiple-family dwelling unit
+per 2,000 square feet
+
+C. Lot Size and Shape - See Article 61
+
+D. Building Heights and Setbacks - See Article 62
+
+E. Fences, Walls and Screening - See Article 64
+
+F. Landscaping - See Article 65
+
+G. Signs - See Article 66
+
+H. Parking - See Article 68
+
+I. Access - See Article 71
+
+ 52.2 - 1
+
+ARTICLE 52.2
+NEIGHBORHOOD COMMERCIAL (CN)
+
+52.210 - PURPOSE
+
+The purpose of this zone is to establish and maintain places for limited retail sales and
+services that are accessible and convenient to nearby residents.  The Neighborhood
+Commercial zone is applied to areas serving only a limited, local market, and is intended
+to permit only those uses which do not create adverse impacts that are incompatible with
+nearby residences.
+
+52.220 - PERMITTED USES
+
+The following uses shall be permitted subject to site plan review of Article 41, and all other
+applicable standards, criteria, rules, and statutes governing such uses:
+
+A. Administrative Services
+B. Community Park
+C. Essential Services
+D. Medical Services
+E. Parking Services
+F. Food and Beverage Sales
+G. Personal Services
+H. Professional Offices
+I. Repair Services
+J. Retail Sales
+K. Accessory Buildings and Uses
+
+52.230 - CONDITIONAL USES
+
+The following uses may be permitted subject to standards listed in this article and if the
+provisions of Article 44 are satisfied:
+
+A. Community Assembly
+B. Schools
+C. Extensive Impact Services and Utilities
+D. Churches
+E. Auto Service Station
+F. Food and Beverage Service
+G. Emergency Services
+ 52.2 - 2
+
+52.240 - PROPERTY DEVELOPMENT STANDARDS
+
+A. Minimum Lot Size - 10,000 square feet
+
+B. Maximum Building Gross Floor Area per Use - 3,000 square feet
+
+ In no case shall the Gross Floor Area for one structure or group of structures treated as
+a common whole exceed 15,000 square feet.
+
+C. Lot Size and Shape - See Article 61
+
+D. Building Heights and Setbacks - See Article 62
+
+E. Fences, Walls and Screening - See Article 64
+
+F. Landscaping - See Article 65
+
+G. Signs - See Article 66
+
+H. Parking - See Article 68
+
+I. Access - See Article 71
+
+ORD 45.0 Adopt February 16, 1984
+ORD 45.31 Art. 52.4 Adopt February 15, 1995
+ORD 45.50 Art. 52.440(I) Adopt June 4, 2008 Periodic Review Task 22
+ 52.4 - 1
+ARTICLE 52.4
+GENERAL COMMERCIAL (CG)
+52.410 - PURPOSE
+The purpose of this zone is to establish and maintain places for a full range of
+retail goods and services available to a large area.
+52.420 - PERMITTED USES
+The following uses shall be permitted subject to site plan review of Article 41, and
+all other applicable standards, criteria, rules, and statutes governing such uses:
+A. Administrative Service
+B. Emergency Services
+C. Essential Services
+D. Medical Services
+E. Parking Services
+F. Agricultural Supplies and Services
+G. Auto Sales/Rentals/Service
+H. Auto Repairs
+I. Auto Service Station
+J. Building and Garden Sales
+K. Entertainment Facilities
+L. Farm Equipment Sales/Rentals/Service
+M. Fleet Storage
+N. Food and Beverage Sales
+O. Food and Beverage Service
+P. General Merchandise Sales
+Q. Heavy Equipment Sales/Rentals/Service
+R. Home Furnishings and Appliances
+S. Manufactured Dwelling Sales
+T. Personal Services
+U. Professional Offices
+V. Repair Services
+ORD 45.0 Adopt February 16, 1984
+ORD 45.31 Art. 52.4 Adopt February 15, 1995
+ORD 45.33 Art. 52.420(Bb) & 430(F) Adopt May 13, 1996
+ORD 45.36 Art. 52.430(O) Adopt November 10, 1998
+ORD 45.50 Art. 52.440(I) Adopt June 4, 2008 Periodic Review Task 22
+ORD 45.87 Art. 52.420(Cc) Adopt Oct. 6, 2016
+ 52.4 - 2
+W. Retail Sales
+X. Warehousing, Storage and Distribution - light
+Y. Custom Manufacturing
+Z. Accessory Buildings and Uses
+Aa. Mini Storage Facility
+Bb. Motels/Hotels within the Klamath Falls UGB
+Cc. Indoor Sports and Recreation
+52.430 - CONDITIONAL USES
+The following uses may be permitted subject to standards listed in this article and
+if the provisions of Article 44 are satisfied:
+A. Community Assembly
+B. Schools
+C. Cultural Services
+D. Extensive Impact Services and Utilities
+E. Churches
+F. RV Parks
+G. Heavy Equipment Repairs
+H. Large Animal Veterinary Services
+I. Kennel
+J. Truck Stop
+K. Auto Wrecking Yard
+L. Worker Residential
+M. Manufactured Home Park
+N. Towing Facility
+52.440 - PROPERTY DEVELOPMENT STANDARDS
+A. Minimum Lot Size - 5,000 square feet
+B. Lot Size and Shape - See Article 61
+C. Building Heights and Setbacks - See Article 62
+ORD 45.0 Adopt February 16, 1984
+ORD 45.31 Art. 52.4 Adopt February 15, 1995
+ORD 45.50 Art. 52.440(I) Adopt June 4, 2008 Periodic Review Task 22
+ 52.4 - 3
+D. Fences, Walls and Screening - See Article 64
+E. Landscaping - See Article 65
+F. Signs - See Article 66
+G. Parking - See Article 68
+H. Access - See Article 71
+I. Building size limitations for commercial uses on unincorporated commercial
+lands in Klamath County:
+1. New Commercial Uses.
+a. Urban Growth Boundaries – No building size limitations.
+b. Goal 14 Exception Areas – No building size limitations unless specified
+by the exception.
+c. Urban Unincorporated Communities Designated Pursuant to OAR
+Chapter 660, Division 22 – Building size shall not exceed 8,000 square
+feet of floor space per building.
+d. Unincorporated Communities Designated Pursuant to OAR Chapter
+660, Division 22 – Building size shall not exceed 4,000 square feet of
+floor space per building.
+e. Rural Lands Not Included in a  - d Above – Building size shall not
+exceed 3,500 square feet of floor space per building.
+2. Existing Commercial Uses.
+a. Urban Growth Boundaries – No building size limitations.
+b. Goal 14 Exception Areas – No building size limitations unless specified
+by the exception.
+c. Urban Unincorporated Communities Designated Pursuant to OAR
+Chapter 660, Division 22 – Klamath County has no designated Urban
+Unincorporated Communities as of the effective date of this Ordinance.
+d. Unincorporated Communities Designated Pursuant to OAR Chapter
+660, Division 22 – A lawfully established commercial use that existed
+prior to December 13, 2005 may expand to occupy a maximum of
+5,000 square feet of floor space per building, or an additional 50% of
+the floor space currently occupied, whichever is greater.
+ORD 45.0 Adopt February 16, 1984
+ORD 45.31 Art. 52.4 Adopt February 15, 1995
+ORD 45.50 Art. 52.440(I) Adopt June 4, 2008 Periodic Review Task 22
+ 52.4 - 4
+e. Rural Lands Not Included in a - d Above – A lawfully established
+commercial use that existed prior to December 13, 2005 may
+expand to occupy a maximum of 4,000 square feet of floor space
+per building, or an additional 50% of the floor space currently
+occupied, whichever is greater.
+3. Commercial Uses Primarily Designed to Serve Resource Industries
+(e.g. Farming, Ranching, Forestry or Mineral Extraction).
+a. Urban Growth Boundaries – No building size limitations.
+b. Goal 14 Exception Areas – No building size limitations unless
+specified by the exception.
+c. Urban Unincorporated Communities Designated Pursuant to OAR
+Chapter 660, Division 22 – Notwithstanding paragraphs 1 and 2 of
+this subsection commercial uses primarily designed to serve
+resource industries are not subject to any building size limitation
+when permitted through a Type II Administrative Review.  Such
+uses may be pe rmitted through a Type I Administrative Review
+when building size does not exceed 8,000 square feet.
+d. Unincorporated Communities Designated Pursuant to OAR Chapter
+660, Division 22 – Notwithstanding paragraphs 1 and 2 of this
+subsection commercial uses p rimarily designed to serve resource
+industries are not subject to any building size limitation when
+permitted through a Type II Administrative Review.  Such uses may
+be permitted through a Type I Administrative Review when building
+size does not exceed 4,000 square feet.
+e. Rural Lands Not Included in a - d Above – Notwithstanding
+paragraphs 1 and 2 of this subsection commercial uses primarily
+designed to serve resource industries are not subject to any
+building size limitation when permitted through a Type  II
+Administrative Review.  Such uses may be permitted through a
+Type I Administrative Review when building size does not exceed
+3,500 square feet.
+4. New or Expanded Commercial Uses Intended to Serve the Rural Area
+or the Needs of the Traveling Public.
+a. Urban Growth Boundaries – No building size limitations.
+b. Goal 14 Exception Areas – No building size limitations unless
+specified by the exception.
+ORD 45.0 Adopt February 16, 1984
+ORD 45.31 Art. 52.4 Adopt February 15, 1995
+ORD 45.50 Art. 52.440(I), (J), & (K) Adopt June 4, 2008 Periodic Review Task 22
+ 52.4 - 5
+c. Urban Unincorporated Communities Designated Pursuant to OAR
+Chapter 660, Division 22 – Notwithstanding paragraphs 1 and 2 of
+this subsection commercial uses primarily designed to serve
+resource industries are not subject to any building size limitation
+when permitted through a Type II Administrative Review.  Such
+uses may be permitted through a Type I Admin istrative Review
+when building size does not exceed 8,000 square feet.
+d. Unincorporated Communities Designated Pursuant to OAR Chapter
+660, Division 22 – Notwithstanding paragraphs 1 and 2 of this
+subsection commercial uses primarily designed to serve res ource
+industries are not subject to any building size limitation when
+permitted through a Type II Administrative Review.  Such uses may
+be permitted through a Type I Administrative Review when building
+size does not exceed 4,000 square feet.
+e. Rural Lands  Not Included in a -d Above – Notwithstanding
+paragraphs 1 and 2 of this subsection commercial uses primarily
+designed to serve the Rural Area or the Needs of the Traveling
+public are not subject to any building size limitation when permitted
+through a Type  II Administrative Review.  Such uses may be
+permitted through a Type I Administrative Review when building
+size does not exceed 3,500 square feet.
+J. For any proposed development which fails to satisfy the relevant
+standards of subsection I. above; Klamat h County shall require an
+exception to Goal 14.
+K. All non-commercial uses that lawfully existed prior to the adoption of this
+Ordinance shall be considered lawful established non -conforming uses,
+which may be restored to their prior lawfully approved size  if destroyed or
+substantially damaged.
+
+ORD 45.0 Adopt February 16, 1984
+ORD 45.50 Art. 52.640(I) Adopt June 4, 2008 Periodic Review Task 22
+ 52.6 - 1
+ARTICLE 52.6
+RECREATIONAL COMMERCIAL (CR)
+52.610 - PURPOSE
+The purpose of this zone is to establish and maintain places for
+recreational facilities and accessory  services available to a large area or
+region.
+52.620 - PERMITTED USES
+A. Administrative Service
+B. Community Park
+C. Golf Course
+D. Essential Services
+E. Medical Services
+F. Auto Service Station
+G. Commercial Campground
+H. Food and Beverage Sales
+I. Food and Beverage Service
+J. Commercial Stables
+K. Hotel/Motel
+L. Resort
+M. Retail Sales
+N. Emergency Services
+O. Accessory Buildings and Uses
+52.630 - CONDITIONAL USES
+The following uses may be permitted subject to standards listed in this
+article and if the provisions of Article 44 are satisfied:
+A. Bed and Breakfast
+B. Community Assembly
+C. Cultural Services
+D. Extensive Impact Services and Utilities
+E. Churches
+F. Custom Manufacturing
+ORD 45.33 Art. 52.630(H) Adopt May 13, 1996
+ORD 45.50 Art. 52.640(I) Adopt June 4, 2008 Periodic Review Task 22
+ 52.6 - 2
+G. Worker Residential
+H. RV Parks
+52.640 - PROPERTY DEVELOPMENT STANDARDS
+A. Minimum Lot Size - 1 acre
+B. Lot Size and Shape - See Article 61
+C. Building Heights and Setbacks - See Article 62
+D. Fences, Walls and Screening - See Article 64
+E. Landscaping - See Article 65
+F. Signs - See Article 66
+G. Parking - See Article 68
+H. Access - See Article 71
+I. Building size limitations for commercial uses on unincorporated
+commercial lands in Klamath County:
+1. New Commercial Uses.
+a. Urban Growth Boundaries – No building size limitations.
+b. Goal 14 Exception Areas – No building size limitations unless
+specified by the exception.
+c. Urban Unincorporated Communities Designated Pu rsuant to
+OAR Chapter 660, Division 22 – Building size shall not exceed
+8,000 square feet of floor space per building.
+d. Unincorporated Communities Designated Pursuant to OAR
+Chapter 660, Division 22 – Building size shall not exceed 4,000
+square feet of floor space per building.
+e. Rural Lands Not Included in a - d Above – Building size shall not
+exceed 3,500 square feet of floor space per building.
+2. Existing Commercial Uses.
+a. Urban Growth Boundaries – No building size limitations.
+b. Goal 14 Exception  Areas – No building size limitations unless
+specified by the exception.
+c. Urban Unincorporated Communities Designated Pursuant to
+OAR Chapter 660, Division 22 – Klamath County has no
+designated Urban Unincorporated Communities as of the
+effective date of this Ordinance.
+ORD 45.50 Art, 52.640(I) Adopt June 4, 2008 Periodic Review Task 22
+ 52.6 - 3
+d. Unincorporated Communities Designated Pursuant to OAR
+Chapter 660, Division 22 – A lawfully established commercial
+use that existed prior to December 13, 2005 may expand to
+occupy a maximum of 5,000 square feet of floor space per
+building, or an additional 50% of the floor space currently
+occupied, whichever is greater.
+e. Rural Lands Not Included in a - d Above – A lawfully established
+commercial use that existed prior to December 13, 2005 may
+expand to occupy a maximum of 4,000 square feet of floor
+space per building, or an additional 50% of the floor space
+currently occupied, whichever is greater.
+3. Commercial Uses Primarily Designed to Serve Resource Industries
+(e.g. Farming, Ranching, Forestry or Mineral Extraction).
+a. Urban Growth Boundaries – No building size limitations.
+b. Goal 14 Exception Areas – No building size limitations unless
+specified by the exception.
+c. Urban Unincorporated Communities Designated Pursuant to
+OAR Chapter 660, Division 22 – Notwithstanding paragraphs 1
+and 2 of this subsection commercial uses primarily designed to
+serve resource industries are not subject to any building size
+limitation when permitted through a Type II Administrative
+Review.  Such uses may be permitted through a Type I
+Administrative Rev iew when building size does not exceed
+8,000 square feet.
+d. Unincorporated Communities Designated Pursuant to OAR
+Chapter 660, Division 22 – Notwithstanding paragraphs 1 and 2
+of this subsection commercial uses primarily designed to serve
+resource industries are not subject to any building size limitation
+when permitted through a Type II Administrative Review.  Such
+uses may be permitted through a Type I Administrative Review
+when building size does not exceed 4,000 square feet.
+e. Rural Lands Not Included  in a -d Above – Notwithstanding
+paragraphs 1 and 2 of this subsection commercial uses
+primarily designed to serve resource industries are not subject
+to any building size limitation when permitted through a Type II
+Administrative Review.  Such uses may be permitted through a
+Type I Administrative Review when building size does not
+exceed 3,500 square feet.
+ORD 45.50 Art, 52.640(I, J, & K) Adopt June 4, 2008 Periodic Review Task 22
+ 52.6 - 4
+4. New or Expanded Commercial Uses Intended to Serve the Rural
+Area or the Needs of the Traveling Public.
+a. Urban Growth Boundaries – No building size limitations.
+b. Goal 14 Exception Areas – No building size limitations unless
+specified by the exception.
+c. Urban Unincorporated Communities Designated Pursuant to
+OAR Chapter 660, Division 22 – Notwithstanding paragraphs 1
+and 2 of this subsection commer cial uses primarily designed to
+serve resource industries are not subject to any building size
+limitation when permitted through a Type II Administrative
+Review.  Such uses may be permitted through a Type I
+Administrative Review when building size does not  exceed
+8,000 square feet.
+d. Unincorporated Communities Designated Pursuant to OAR
+Chapter 660, Division 22 – Notwithstanding paragraphs 1 and 2
+of this subsection commercial uses primarily designed to serve
+resource industries are not subject to any buil ding size limitation
+when permitted through a Type II Administrative Review.  Such
+uses may be permitted through a Type I Administrative Review
+when building size does not exceed 4,000 square feet.
+e. Rural Lands Not Included in a -d Above – Notwithstanding
+paragraphs 1 and 2 of this subsection commercial uses
+primarily designed to serve the Rural Area or the Needs of the
+Traveling public are not subject to any building size limitation
+when permitted through a Type II Administrative Review.  Such
+uses may be  permitted through a Type I Administrative Review
+when building size does not exceed 3,500 square feet.
+J. For any proposed development which fails to satisfy the relevant
+standards of subsection I. above; Klamath County shall require an
+exception to Goal 14.
+K. All non -commercial uses that lawfully existed prior to the adoption of
+this Ordinance shall be considered lawful established non -conforming
+uses, which may be restored to their prior lawfully approved size if
+destroyed or substantially damaged.
+
+ORD 45.31 Art. 52.8 Adopt February 15, 1995
+ORD 45.33 Art. 52.820(T) Adopt May 13, 1996
+ORD 45.36 Art. 52.820(V) Adopt November 10, 1998
+ORD 45.87 Art. 52.820(V)                                       Adopt Oct. 6, 2016
+
+ 52.8 - 1
+ARTICLE 52.8
+TRANSPORTATION COMMERCIAL (CT)
+52.810 - PURPOSE
+The purpose of this zone is to establish and maintain places for sales and
+services primarily related to  transportation and utility industries .  The
+Transportation Commercial zone is appropriate for commercial uses associated
+with highway, rail or air transportation.
+52.820 - PERMITTED USES
+The following uses shall be permitted subject to site plan review of Article 41, and
+all other applicable standards, criteria, rules, and statutes governing such uses:
+A. Administrative Services
+B. Essential Services
+C. Medical Services
+D. Parking Services
+E. Auto Sales/Rentals/Services
+F. Auto Repairs
+G. Auto Service Station
+H. Fleet Storage
+I. Food and Beverage Sales
+J. Food and Beverage Service
+K. Heavy Equipment Repairs
+L. Heavy Equipment Sales/Rentals/Service
+M. Hotel/Motel
+N. Manufactured Dwelling Sales
+O. Repair Services
+P. Truck Stop
+Q. Warehousing, Storage and Distribution - light
+R. Emergency Services
+S. Accessory Buildings and Uses
+T. RV Parks
+U. Mini Storage Facility
+V. Indoor Sports and Recreation
+ORD 45.31 Art. 45.31 Adopt February 15, 1995
+ORD 45.50 Art. 52.840(I) Adopt June 4, 2008 Periodic Review Task 22
+ORD 45.87 Art. 52.830(C) Adopt October 6, 2016
+ 52.8 - 2
+52.830 - CONDITIONAL USES
+The following uses may be permitted subject to standards listed in this article and
+if the provisions of Article 44 are satisfied:
+A. Extensive Impact Services and Utilities
+B. Farm Equipment Sales/Rentals/Service
+C. Warehousing, Storage and Distribution - heavy
+D. Auto Wrecking Yard
+E. Worker Residential
+F. Towing Facility
+52.840 - PROPERTY DEVELOPMENT STANDARDS
+A. Minimum Lot Size - 5,000 square feet
+B. Lot Size and Shape - See Article 61
+C. Building Heights and Setbacks - See Article 62
+D. Fences, Walls and Screening - See Article 64
+E. Landscaping - See Article 65
+F. Signs - See Article 66
+G. Parking - See Article 68
+H. Access - See Article 71
+I. Building size limitations for commercial uses on unincorporated co mmercial
+lands in Klamath County:
+1. New Commercial Uses.
+a. Urban Growth Boundaries – No building size limitations.
+b. Goal 14 Exception Areas – No building size limitations unless specified
+by the exception.
+c. Urban Unincorporated Communities Designated  Pursuant to OAR
+Chapter 660, Division 22 – Building size shall not exceed 8,000 square
+feet of floor space per building.
+d. Unincorporated Communities Designated Pursuant to OAR Chapter
+660, Division 22 – Building size shall not exceed 4,000 square feet o f
+floor space per building.
+ORD 45.31 Art. 45.31 Adopt February 15, 1995
+ORD 45.50 Art. 52.840(I) Adopt June 4, 2008 Periodic Review Task 22
+ 52.8 - 3
+e. Rural Lands Not Included in a - d Above – Building size shall not
+exceed 3,500 square feet of floor space per building.
+2. Existing Commercial Uses.
+a. Urban Growth Boundaries – No building size limitations.
+b. Goal 14 Excep tion Areas – No building size limitations unless
+specified by the exception.
+c. Urban Unincorporated Communities Designated Pursuant to OAR
+Chapter 660, Division 22 – Klamath County has no designated
+Urban Unincorporated Communities as of the effective dat e of this
+Ordinance.
+d. Unincorporated Communities Designated Pursuant to OAR Chapter
+660, Division 22 – A lawfully established commercial use that
+existed prior to December 13, 2005 may expand to occupy a
+maximum of 5,000 square feet of floor space per bu ilding, or an
+additional 50% of the floor space currently occupied, whichever is
+greater.
+e. Rural Lands Not Included in a - d Above – A lawfully established
+commercial use that existed prior to December 13, 2005 may
+expand to occupy a maximum of 4,000 squ are feet of floor space
+per building, or an additional 50% of the floor space currently
+occupied, whichever is greater.
+3. Commercial Uses Primarily Designed to Serve Resource Industries
+(e.g. Farming, Ranching, Forestry or Mineral Extraction).
+a. Urban Growth Boundaries – No building size limitations.
+b. Goal 14 Exception Areas – No building size limitations unless
+specified by the exception.
+c. Urban Unincorporated Communities Designated Pursuant to OAR
+Chapter 660, Division 22 – Notwithstanding paragraphs 1 and 2 of
+this subsection commercial uses primarily designed to serve
+resource industries are not subject to any building size limitation
+when permitted through a Type II Administrative Review.  Such
+uses may be permitted through a Type I Administrative  Review
+when building size does not exceed 8,000 square feet.
+ORD 45.31 Art. 45.31 Adopt February 15, 1995
+ORD 45.50 Art. 52.840(I) Adopt June 4, 2008 Periodic Review Task 22
+ 52.8 - 4
+d. Unincorporated Communities Designated Pursuant to OAR Chapter
+660, Division 22 – Notwithstanding paragraphs 1 and 2 of this
+subsection commercial uses primarily designed to serve resource
+industries are not subject to any building size limitation when
+permitted through a Type II Administrative Review.  Such uses may
+be permitted through a Type I Administrative Review when building
+size does not exceed 4,000 square feet.
+e. Rural Lands Not Inc luded in a - d Above – Notwithstanding
+paragraphs 1 and 2 of this subsection commercial uses primarily
+designed to serve resource industries are not subject to any
+building size limitation when permitted through a Type II
+Administrative Review.  Such uses may be permitted through a
+Type I Administrative Review when building size does not exceed
+3,500 square feet.
+4. New or Expanded Commercial Uses Intended to Serve the Rural Area
+or the Needs of the Traveling Public.
+a. Urban Growth Boundaries – No building size limitations.
+b. Goal 14 Exception Areas – No building size limitations unless
+specified by the exception.
+c. Urban Unincorporated Communities Designated Pursuant to OAR
+Chapter 660, Division 22 – Notwithstanding paragraphs 1 and 2 of
+this subsection commercial uses primarily designed to serve
+resource industries are not subject to any building size limitation
+when permitted through a Type II Administrative Review.  Such
+uses may be permitted through a Type I Administrative Review
+when building size does not exceed 8,000 square feet.
+d. Unincorporated Communities Designated Pursuant to OAR Chapter
+660, Division 22 – Notwithstanding paragraphs 1 and 2 of this
+subsection commercial uses primarily designed to serve resource
+industries are not subject to an y building size limitation when
+permitted through a Type II Administrative Review.  Such uses may
+be permitted through a Type I Administrative Review when building
+size does not exceed 4,000 square feet.
+ORD 45.31 Art. 45.31 Adopt February 15, 1995
+ORD 45.50 Art. 52.840(I), (J) & (K) Adopt June 4, 2008 Periodic Review Task 22
+ 52.8 - 5
+e. Rural Lands Not Included in a - d Above – Notwithstanding
+paragraphs 1 and 2 of this subsection commercial uses primarily
+designed to serve the Rural Area or the Needs of the Traveling
+public are not subject to any building size limitation when permitted
+through a Type II Administrative Review.  Such us es may be
+permitted through a Type I Administrative Review when building
+size does not exceed 3,500 square feet.
+J. For any proposed development which fails to satisfy the relevant standards of
+subsection I. above; Klamath County shall require an exception to Goal 14.
+K. All non -commercial uses that lawfully existed prior to the adoption of this
+Ordinance shall be considered lawful established non-conforming uses, which
+may be restored to their prior lawfully approved size if destroyed or
+substantially damaged.
+
+ 52.91 - 1
+
+ARTICLE 52.91
+RURAL COMMUNITY COMMERCIAL (RUC-C) ZONE
+
+52.911 PURPOSE:
+
+This zone establishes/maintains areas for the concentration of local commercial
+services in order to meet the needs of rural residents, and tourist commercial services
+consistent with the character of the community.
+
+52.912 PERMITTED USES:
+
+A. The following uses shall be permitted subject to site plan review of Article 41, and all
+other applicable standards, criteria, rules, and statutes governing such uses:
+
+1. Agricultural Supplies and Services
+2. Commercial Campground
+3. Golf Course
+4. Commercial Stables
+5. Emergency Services
+6. Motel/Hotel up to 35 Units only if served by a community sewer system.
+7. Uses determined by the Planning Direc tor to be similar to those listed in this
+section to serve the recreational, public, and travel needs of the community and
+surrounding area as provided for by Article 12.070B(1) of the Land Development
+Code.
+
+B. The following uses shall be permitted if th e following criteria are met: (1) building or
+buildings do not exceed 4,000 square -feet of floor space. (2) Completion of Article
+41 site plan review and approval. (3) All other applicable standards, criteria, rules,
+and statues governing such uses are satisfied:
+1. Auto Service Station
+2. Auto Repairs/Sales/Rentals/Service
+3. Farm Equipment Sales/Rental/Service
+4. Heavy Equipment Sales/Rentals/Service
+5. Heavy Equipment Repairs
+6. Miscellaneous Repair Services
+7. Food and Beverage Sales/Service
+8. Building and Garden Sales
+9. General Merchandise Sales
+10. Retail Sales
+11. Home Furnishings and Appliances
+12. Mini-Storage Facility
+13. Administrative Service
+14. Essential Services
+15. Medical Services
+ 52.91 - 2
+
+16. Personal Services
+17. Professional Offices
+18. Custom Manufacturing
+19. R.V. Parks
+20. Accessory Building and Uses
+21. Fleet Storage
+22. Manufactured Dwelling Sales
+23. Truck Stops
+24. Uses determined by the Planning Director to be similar to those listed in this
+section to serve the recreational, public, and travel needs of the community and
+surrounding area as provided for by Artic le 12.070B(1) of the Land Development
+Code.
+
+52.913 Conditional Uses:
+
+The following uses may be permitted subject to standards listed in this article and if the
+provisions of Article 44 are satisfied:
+
+A. Bed and Breakfast
+B. Community Assembly
+C. Cultural Services
+D. Churches
+E. Extensive Impact Services and Utilities
+F. School
+G. Veterinary Services
+H. Warehousing, Storage and Distribution-Light/Heavy
+I. Worker Residential
+J. Uses determined by the Planning Director to be similar to those listed in this section
+to serve the recreational, public, and travel needs of the community and surrounding
+area as provided for by Article 12.070B(1) of the Land Development Code.
+
+52.914 Property Development Standards:
+A. Minimum lot size - 5,000 square feet; and
+
+1. The site shall be of sufficient size to accommodate an On Site Sewage Collection
+System, unless such system can be accessed by easement or water is to be
+provided by a public provider.
+
+2. Will no t result in public health hazards or adverse environmental impacts that
+violate state or water quality regulations and meet the development standards of
+the Klamath County Health Department and the Oregon Department of
+Environmental Quality.
+
+3. Will meet water and sewer requirements.
+
+ 52.91 - 3
+
+B.  Lot Size and Shape - See Article 61
+
+C.  Building Height and Setback - See Article 62, General Commercial
+
+D.  Fences, Wall, and Screening - See Article 64
+
+E.  Landscaping - See Article 65
+
+F.  Signs - See Article 66, General Commercial
+
+G. Parking - See Article 68
+
+H. Access - See Article 71
+
+I. Building Size:
+
+1. Uses listed above as Permitted Uses (52.912(2)) and Conditional Uses (52.913)
+shall not exceed the 4,000 square-foot limit unless:
+
+a. The use is approved as a plan amendment under the provision of Article 47, 48,
+and 49; and
+
+b. The use is limited pursuant to Article 59.8, Limited Use Overlay, to a size of
+building or buildings that is intended to serve the community, surrounding rural
+area or the travel needs of people passing through the area.
+
+2. A lawfully established use that existed prior to the adoption of this Article may
+expand to occupy 4,000 square feet of floor area within a building(s).  If the use
+within the unincorporated community is determined to serve  the community or
+the travel needs of people passing through the area,  the floor area may be
+expanded to occupy a maximum of 4,000 square feet, or an additional 50% of
+the floor area currently occupied, whichever is greater.
+
+3. A floor -space to lot -size rati o of 0.5 for those new small -scale low -impact
+permitted or conditional uses that occur on vacant commercial, substandard size
+parcels. (Example: a 4,000 square foot (0.09 acre) parcel x 0.5 may
+accommodate a 2,000 square foot commercial structure).
+
+ 52.92 - 1
+
+ARTICLE 52.92
+RURAL SERVICE CENTER COMMERCIAL (RSC-C) ZONE
+
+52.921 PURPOSE
+
+This zone establishes/maintains areas for the concentration of local commercial services
+in order to meet the needs of rural residents, and tourist commercial services consistent
+with the character of the community.
+
+52.922 PERMITTED USES
+
+A. The following uses shall be permitted subject to site plan review of Article 41, and all
+other applicable standards, criteria, rules, and statutes governing such uses:
+
+1. Agricultural Supplies and Services
+2. Commercial Campground
+3. Commercial Stables
+4. Emergency Services
+5. Motel/Hotel up to 35 Units
+6. Uses determined by the Planning Director to be similar to those listed in this
+section to serve the recreational, public, and travel needs of the community and
+surrounding area as provided for by Article 12.070B(1) of the Land Development
+Code.
+
+B. The following uses shall be permitted if the following criteria are met: (1) Building or
+buildings do not exceed 4,000 square-feet of floor space. (2) Completion of Article
+41 site plan review and approval. (3) All other applicable standards, criteria, rules,
+and statues governing such uses are satisfied:
+
+1. Auto Service Station
+2. Auto Repairs/Sales/Rentals/Service
+3. Farm Equipment Sales/Rental/Service
+4. Heavy Equipment Sales/Rentals/Service
+5. Heavy Equipment Repairs
+6. Miscellaneous Repair Services
+7. Food and Beverage Sales/Service
+8. Building and Garden Sales
+9. General Merchandise Sales
+10. Retail Sales
+11. Home Furnishings and Appliances
+12. Mini-Storage Facility
+13. Administrative Service
+14. Essential Services
+15. Medical Services
+
+ 52.92 - 2
+
+16. Personal Services
+17. Professional Offices
+18. Custom Manufacturing
+19. Golf Course
+20. R.V. Parks
+21. Accessory Building and Uses
+22. Fleet Storage
+23. Manufactured Dwelling Sales
+24. Truck Stops
+25. Uses determined by the Planning Director to be similar to those listed in this
+section to serve the recreational, public, and tra vel needs of the community and
+surrounding area as provided for by Article 12.070B(1) of the Land Development
+Code.
+
+52.923 CONDITIONAL USES
+
+The following uses may be permitted subject to standards listed in this article and if the
+provisions of Article 44 are satisfied and the following criteria are met: (1) Building or
+buildings do not exceed 4,000 square-feet of floor space.
+
+A. Bed and Breakfast
+B. Community Assembly
+C. Cultural Services
+D. Churches
+E. Extensive Impact Services and Utilities
+F. School
+G. Veterinary Services
+H. Warehousing, Storage and Distribution-Light/Heavy
+I. Worker Residential
+J. Uses determined by the Planning Director to be similar to those listed  in this section
+to serve the recreational, public, and travel needs of the community and surrounding
+area as provided for by Article 12.070B(1) of the Land Development Code.
+
+52.924 PROPERTY DEVELOPMENT STANDARDS:
+
+A. Minimum lot size - 5,000 square feet; and
+
+1. The site shall be of sufficient size to accommodate an On Site Sewage Collection
+System, unless such system can be accessed by easement or water is to be
+provided by a public provider.
+
+2. Will not result in public health hazards or adverse environmental impacts that
+violate state or water quality regulations and m eet the development standards of
+the Klamath County Health Department and the Oregon Department of
+Environmental Quality.
+
+3. Will meet water and sewer requirements.
+ 52.92 - 3
+
+B. Lot Size and Shape - See Article 61
+
+C. Building Height and Setback - See Article 62, General Commercial
+
+D. Fences, Wall, and Screening - See Article 64
+
+E. Landscaping - See Article 65
+
+F. Signs - See Article 66, General Commercial
+
+G. Parking - See Article 68
+
+H. Access - See Article 71
+
+I. Building Size:
+
+1. Uses listed above as Permitted Uses (52.922{2}) and Conditional Uses (52.923)
+shall not exceed the 4,000 square-foot limit unless:
+
+a. The use is approved as a plan amendment under the provision of Article
+47,48,and 49; and
+
+b. The use is limited pursuant to Article 59.8, Limited Use Overlay, to a size of
+building or buildings that is intended to serve the community, surrounding rural
+area or the travel needs of people passing through the area.
+
+2. A lawfully established use that existed prior to the adoption of this Article may
+expand to occupy 4,000 square feet of floor area within a building(s).  If the use
+within the unincorporat ed community is determined to serve the community or
+the travel needs of people passing through the area , the floor area may be
+expanded to occupy a maximum of 4,000 square feet, or an additional 50% of
+the floor area currently occupied, whichever is greater.
+
+3. A floor -space to lot -size ratio of 0.5 for those new small -scale low -impact
+permitted or conditional uses that occur on vacant commercial, substandard size
+parcels. (Example; a 4,000 square foot (0.09 acre) parcel x 0.5 may
+accommodate a 2,000 square foot commercial structure).
+ORD. 44.75 Art. 52.931 (1) & (2) Adopt April 21, 2003
+ORD. 45.49 Art. 52.93 Adopt April 21, 2003 Acknowledged May 21, 2003
+
+52.93 - 1
+
+ARTICLE 52.93
+RURAL COMMUNITY RESORT COMMERCIAL (RCR-C) ZONE
+
+52.931 -  PURPOSE
+This zone establishes/maintains areas for the concentration of rural resort commercial
+services, and shall apply within the boundaries of the unincorporated rural resort
+communities of Rocky Point and Crescent Lake.
+
+Additionally:
+
+1. A Rural Community Commercial (RUC -C) zoning district shall apply to
+commercial lands within the boundaries of Beatty and Sprague River.
+
+2. A Rural Community Resort Commercial (RUC -C) zoning district shall be applied
+to the existing commercial lands within the boundaries of the unincorporated rural
+resort communities of Rocky Point and Crescent Lake.
+
+52.932 Permitted Uses:
+
+1. Uses intended to provide for the concentration of local commercial services in order
+to meet the needs of rural residents, and tourist commercial services consistent with
+the character of t he community.  The following uses shall be permitted if the
+following criteria are met: (1) completion of Article 41(site plans review/approval) and
+(2) all other applicable standards, criteria, rules, and statues governing such uses
+are satisfied:
+
+A. Emergency Services
+B. Parks
+C. Commercial Campground
+D. Uses determined by the Planning Director to be similar to those listed
+in this section to serve the recreational, public, and travel needs of the
+community and surrounding area as provided for by Article 12.070B( 1)
+of the Land Development Code.
+
+2. The following uses shall be permitted if the following criteria are met (1) building or
+buildings do not exceed 4,000 square feet of floor space (2) completion of Article 41
+site plan review/approval and (3) all other ap plicable standards, criteria, rules, and
+statues governing such uses are satisfied:
+
+A. Administrative Service
+B. Auto Repair
+C. Auto Service Station
+ORD. 44.75 Art. 52.931 (1) & (2) Adopt April 21, 2003
+ORD. 45.49 Art. 52.93 Adopt April 21, 2003 Acknowledged May 21, 2003
+
+52.93 - 2
+
+D. Food and Beverage Sales and Service
+E. Medical Services
+F. Personal Services
+G. Professional Offices
+H. Repair Services
+I. Retail Sales
+J. Uses determined by the Planning Director to be similar to those listed
+in this section to serve the recreational, public, and travel needs of the
+community and surrounding area as provided for by Article 12.070B(1)
+of the Land Development Code.
+
+52.933 Conditional Uses:
+The following uses may be permitted subject to standards listed in this article and if the
+provisions of Article 44 are satisfied, and if the following criteria are met (1) building or
+buildings do not exceed 4,000 square feet of floor space (2) completion of Article 41 site
+plan review/approval and (3) all other applicable standards, criteria, rules, and statues
+governing such uses are satisfied:
+
+A. Bed and Breakfast
+B. Churches
+C. Community Assembly
+D. Cultural Service
+E. Golf Course
+F. Mini-Storage Facility
+G. RV Parks
+H. Veterinary Service
+I. Worker Residential
+J. Resorts
+K. Motels/Hotels/Resort Lodges any number of units only if served by a
+community sewer system.
+L. Uses determined by the Planning Director to be similar to those listed
+in this section to serve the recreational, public, and travel needs of the
+community and surrounding area as provided for by Article 12.070B(1)
+of the Land Development Code.
+
+ORD. 44.75 Art. 52.931 (1) & (2) Adopt April 21, 2003
+ORD. 45.49 Art. 52.93 Adopt April 21, 2003 Acknowledged May 21, 2003
+
+52.93 - 3
+
+52.934  - Property Development Standards:
+A. Minimum lot size – 1 acre, and
+1. The site shall be of sufficient size to accommodate an On Site Sewage
+Collection System, unless such system can be accessed by easement or
+water is to be provided by a public provider.
+2. Will not result in public health hazards or adverse environmental impacts that
+violate state or water quality regulations and meet the development standards
+of the Klamath County Health Department and the Oregon Department of
+Environmental Quality.
+3. Will meet water and sewer requirements.
+
+B.  Lot Size and Shape - See Article 61
+
+C.  Building Height and Setback - See Article 62, General Commercial
+
+D.  Fences, Wall, and Screening - See Article 64
+
+E.  Landscaping - See Article 65
+
+F.  Signs - See Article 66, General Commercial
+
+G.  Parking - See Article 68
+
+H. Building Size:
+1. Uses listed above as Permitted Uses (52.932{2}) and Conditional Uses
+(52.933) shall not exceed the 4,000 square-foot limit unless:
+
+a. The use is approved as a plan amendment under the provision of Article
+47, 48, and 49; and
+
+b. The use is limited pursuant to Article 59.8, Limited Use Overlay, to a
+size of building or buildings that is intended to serve the community,
+surrounding rural area or the travel needs of people passing through
+the area.
+
+2. A lawfully established use that existed prior to the adoption of this Article may
+expand to occupy 4,000 square feet of floor area within a building(s).  If the
+use within the unincorporated community is determined to meet the needs of
+rural residents and provide  for tourist services,  the floor area may be
+expanded to occupy a maximum of 4,000 square feet, or an additional 50% of
+the floor area currently occupied, whichever is greater.
+
+3. A floor -space to lot -size ratio of 0.5 for those new small -scale low -impact
+permitted or conditional uses that occur on vacant commercial, substandard
+size parcels. (Example; a 4,000 square foot (0.09 acre) parcel x 0.5 may
+accommodate a 2,000 square foot commercial structure).
+ORD 45.87 Art. 53.220(U) & 53.230 Adopt Oct. 6, 2016
+
+53.2 - 1
+
+ARTICLE 53.2
+LIGHT INDUSTRIAL (IL)
+
+53.210 - PURPOSE
+
+The purpose of this zone is to establish and maintain places where manufacturing, storage
+and wholesale distribution can be undertaken in close proximity to one another without
+encroaching upon the character of the adjacent land uses.  It is not the purpose of the
+Light Industrial zone to permit the processing of raw materials.
+
+53.220 - PERMITTED USES
+
+The following uses shall be permitted subject to site plan review of Article 41, and all other
+applicable standards, criteria, rules, and statutes governing such uses:
+
+A. Administrative Services
+B. Essential Services
+C. Parking Services
+D. Agricultural Packing and Processing
+E. Agricultural Supplies and Services
+F. Auto Sales/Rentals/Service
+G. Auto Repairs
+H. Building and Garden Sales
+I. Fleet Storage
+J. Heavy Equipment Repairs
+K. Heavy Equipment Sales/Rentals/Service
+L. Manufactured Dwelling Sales
+M. Warehousing, Storage and Distribution - heavy
+N. Warehousing, Storage and Distribution - light
+O. Custom Manufacturing
+P. General Manufacturing
+Q. Secondary Processing of Forest Products
+R. Mineral Processing, except Mining
+S. Accessory Buildings and Uses
+T.  Mini Storage Facility
+U. Indoor Sports and Recreation
+
+53.230 - CONDITIONAL USES
+
+The following uses may be permitted subject to standards listed in this article and if the
+provisions of Article 44 are satisfied:
+
+A. Extensive Impact Services and Utilities
+B. Agricultural Waste Processing
+C. Stockyards
+D. Auto Wrecking Yard
+ORD 45.87 Art. 53.220(U) & 53.230 Adopt Oct. 6, 2016
+
+53.2 - 2
+
+E. Scrap Operations
+F. Worker Residential
+G. Food and Beverage Service
+
+53.240 - PROPERTY DEVELOPMENT STANDARDS
+
+A. No parcel planned and zoned for industrial use as of November 15, 1990, shall be
+further partitioned or subdivided except for a specific industrial use listed in  Section
+53.220 or Section 53.230, and verification is provided in the form of the following:
+
+1. A letter of credit or other verification that funds or financing has been secured or
+approved for the proposed use; and
+ 2. Construction working drawings for the proposed facility; and
+
+ 3. A letter of intent from a prospective industrial company.
+
+B. Lot Size and Shape - See Article 61
+
+C. Building Heights and Setbacks - See Article 62
+
+D. Fences, Walls and Screening - See Article 64
+
+E. Landscaping - See Article 65
+
+F. Signs - See Article 66
+
+G. Parking - See Article 68
+
+H. Access - See Article 71
+
+ 53.4 - 1
+
+ARTICLE 53.4
+HEAVY INDUSTRIAL (IH)
+
+53.410 - PURPOSE
+
+The purpose of this zone is to establish and maintain places where large areas of land are
+needed for the fabrication, processing, and movement of raw materials and where the
+potential impacts of noise, odor, vibration, glare, and/or heat are least likely to affect
+adjacent land uses.
+
+53.420 - PERMITTED USES
+
+The following uses shall be permitted subject to site plan review of Article 41, and all other
+applicable standards, criteria, rules, and statutes governing such uses:
+
+A. Essential Services
+B. Agricultural Packing and Processing
+C. Agricultural Waste Processing
+D. Stockyards
+E. Warehousing, Storage and Distribution - heavy
+F. Warehousing, Storage and Distribution - light
+G. Auto Wrecking Yard
+H. Custom Manufacturing
+I. General Manufacturing
+J. Heavy Industrial
+K. Scrap Operation
+L. Secondary Processing of Forest Products
+M. Mini Storage Facility
+
+53.430 - CONDITIONAL USES
+
+The following uses may be permitted subject to stan dards listed in this article and if the
+provisions of Article 44 are satisfied:
+
+A. Extensive Impact Services and Utilities
+B. Explosive and Hazardous Materials
+C. Food and Beverage Service
+D. Worker Residential
+E. Mining and Mineral Processing, provided t he site follows the review procedure and
+meets criteria established in Section 81.040 of this Code.
+ 53.4 - 2
+
+53.440 - PROPERTY DEVELOPMENT STANDARDS
+
+A. No parcel planned and zoned for industrial uses as of November 15, 1990, shall be
+further partitioned or subdiv ider except for a specific industrial use listed in Section
+53.420 or Section 53.430, and verification is provided in the form of the following:
+
+1. A letter of credit or other verification that funds or financing has been secured or
+approved for the proposed use; and
+
+ 2. Construction working drawings for the proposed facility; and
+
+ 3. A letter of intent from a prospective industrial company.
+
+B. Lot Size and Shape - See Article 61
+
+C. Building Heights and Setbacks - See Article 62
+
+D. Fences, Walls and Screening - See Article 64
+
+E. Landscaping - See Article 65
+
+F. Signs - See Article 66
+
+G. Parking - See Article 68
+
+H. Access - See Article 71
+
+53.5 - 1
+
+ARTICLE 53.5
+AIR/RAIL TRANSPORTATION
+
+53.510 - PURPOSE
+
+The purpose of this zone is to enhance the economic viability of Klamath County by
+encouraging the development of sites to business that would benefit from being located in
+close proximity to a major transportation facility.
+
+53.520 - PERMITTED USES
+
+The following uses shall be permitted subject to site plan review (Article 41) and all other
+applicable standards, criteria, rules, and statutes governing such uses:
+
+A. Industrial
+
+ 1.   Fleet Storage
+ 2.   General Manufacturing
+ 3.   Secondary Processing of Forest Products
+ 4.   Explosive and Hazardous Materials
+ 5.   Agricultural Processing
+
+B.  Commercial
+
+ 1.   Parking Service
+ 2.   Warehousing, Storage and Distribution - light and heavy
+ 3.   Accessory Buildings and Uses
+ 4.   Mini Storage Facility
+ 5.   Heavy Equipment Repairs
+ 6.   Heavy Equipment Sales/Rental/Service
+ 7.   Essential Services
+ 8.   Auto Rentals and Services
+    9.   Farm Equipment Sales/Rental/Service
+    10. Emergency Services
+
+53.530 - PROPERTY DEVELOPMENT STANDARDS
+
+A. Industrial
+
+ 1.   Lot Size and Shape - See Article 61
+
+ 2.   Building Heights and Setbacks - See Article 62
+
+ 3.   Fences, Walls and Screening - See Article 64
+
+ 4.   Landscaping - See Article 65
+
+53.5 - 2
+
+ 5.   Signs - See Article 66
+
+ 6.   Parking - See Article 68
+
+ 7.   Access - See Article 71
+
+B. Commercial
+
+ 1.   Minimum Lot Size (5,000 square feet)
+
+ 2.   Lot Size and Shape - See Article 61
+
+ 3.   Building Heights and Setbacks - See Article 62
+
+ 4.   Fences, Walls and Screening - See Article 64
+
+ 5.   Landscaping - See Article 65
+
+ 6.   Signs - See Article 66
+
+ 7.   Parking - See Article 68
+
+ 8.   Access - See Article 71
+
+C. Any air/rail uses designated in Section 53.520(A) and (B) shall maintain a 500 foot
+buffer area around any existing residence.
+
+ORD 44.65 Article 53.91 Adopt June 15, 1998
+ORD 44.75 Article 53.911 Adopt April 21, 2003
+ 53.91 - 1
+ARTICLE 53.91
+RURAL COMMUNITY INDUSTRIAL (RUC-I) ZONE
+53.911 PURPOSE:
+This zone establishes/maintains places where land is needed for the fabrication,
+processing, storage, and movement of raw materials where the potential impact
+of noise, odor, vibration, glare, and /or heat are least likely to affect adjacent land
+uses.  It is intended to (1) promote appropriate economic  development; (2)
+protect the existing character of the area; (3) preserve or enhance the air, water,
+and land resources of the area.
+A Ru ral Commercial Industrial (RUC -I) zoning district shall apply to existing
+industrial lands within the boundaries of Beatty.
+53.912 PERMITTED USES:
+The following uses shall be permitted if the following criteria are satisfied (1)
+building or buildings  do no t exceed 10,000 square -feet of floor space; (2)
+completion of Article 41, Site Plan Review, and;  (3) all other applicable
+standards, criteria, rules, and statues governing such uses:
+A. Agriculture Packing and Processing
+B. Agriculture Supplies and Services
+C. Auto Repairs
+D. Custom/General Manufacturing
+E. Essential Services
+F. Heavy Equipment Repairs
+G. Mini Storage Facility
+H. Saw Mill
+I. Secondary Processing of Forest Products
+J. Warehousing, Storage and Distribution-Heavy/Light
+K. Administrative Services
+L. Auto Sale/Rental Service
+M. Building and Garden Sales
+ORD 44.65 Article 53.91 Adopt June 15, 1998
+
+ 53.91 - 2
+N. Fleet Storage
+O. Heavy Equipment Sales/Rental/Services
+P. Manufactured Dwelling Sales
+Q. Accessory Buildings and Uses
+R. Uses determined by the Planning Director to be similar to those listed in this
+section to promote  appropriate economic development, protect the existing
+character, preserve or enhance the air,  water, and land resources of the area
+as provided for by Article 12.070B(1) of the Land Development Code.
+53.913 CONDITIONAL USES:
+The following uses may be permitted subject to standards listed in this article and
+if the provisions  of Article 44 are satisfied and the following criteria are met: (1)
+Building or buildings do not exceed 10,000 square-feet of floor space:
+A. Extensive Impact Services and Utilities
+B. Agricultural Waste Processing
+C. Stockyards
+D. Worker Residential
+E. Food and Beverage Service
+F. Heavy Industrial
+G. Uses determined by the Planning Director to be similar to those listed in this
+section to promote  appropriate economic development, protect the existing
+character, preserve or enhance the air,  water, and land resources of the area
+as provided for by Article 12.070B(1) of the Land Development Code.
+53.914 USE LIMITATIONS:
+The following limitation and standards shall apply to all permitted and conditional
+uses:
+A. Any permitted use that meets the following criteria shall require a conditional
+use permit:
+1. Any use expected to generate more than 30 -truck-trailer or other heavy
+equipment trips per day to/from the property which is adjacent to or across
+from a residential dwelli ng, a lot in a  platted subdivision, or a residential
+zone.
+ORD 44.65 Article 53.91 Adopt June 15, 1998
+
+ 53.91 - 3
+2. Any use expected to generate more than 20 auto or truck trips during the
+busiest hour of the day to/from the premises.
+3. The use is expected to utilize arterial, collector, or other improved
+street/roads that pass  through or are adjacent to residential  lots, platted
+subdivisions, or residential zones.
+B. Any use on a lot adjacent to/across from a residential dwelling, a lot in a
+platted residential subdivision, or a residential zone shall not emit odor, dust,
+fumes, glare, flashing lights, noise, or  similar disturbances perceptible more
+than 200 feet in the direction of the affected residential use or lot.
+C. No use shall be permitted to operate for business between the hours of 10
+p.m.  and 7a.m., if located  adjacent to/across from residential dwellings , lots
+in platted residential subdivisions or residential  zones, and resultant vehicle
+traffic passes through or is adjacent to residential lots in platted  subdivisions
+or residential zones.
+D. No use shall be permitted which has been declared a nuisance b y state
+statute, county ordinance, or a court of competent jurisdiction.
+53.915 PROPERTY DEVELOPMENT STANDARDS:
+A. No parcel planned and zoned for industrial use as of November 15, 1990,
+shall be further partitioned except for a specific industrial use lis ted in Section
+53.912 or Section 53.913.
+Verification is provided in the form of the following:
+1. Construction drawings for the proposed facility; and
+2. A letter of intent from a prospective company; and
+3. The site shall be of sufficient size to accommo date an on -site sewage
+collection system and water system, unless such system can be accessed
+by easement or water is to be provided by a public provider, and;
+4. Will not result in public health hazards or adverse environmental impacts
+that violate state or federal water quality regulations; and
+5. Will meet water and sewer requirements.
+B. Lot Size and Shape – See Article 61
+C. Building heights and Setbacks – See Article 62, Light Industrial
+D. Fences, Walls and Screening – See Article 64
+E. Landscaping – See Article 65
+ORD 44.65 Article 53.91 Adopt June 15, 1998
+
+ 53.91 - 4
+F. Signs – See Article 66, Light Industrial
+G. Parking – See Article 68, Light Industrial
+H. Access – see Article 71
+I. Building Size:
+1. Uses listed above as Permitted Uses (53.912) and Conditional Uses
+(53.913) shall not exceed the 10,000 square-foot limit unless:
+a. The use is approved as a plan amendment under the provision of
+Article 47,48,and 49; and
+b. The use is limited pursuant to Article 59.8, Limited Use Overlay, to a
+size of building or  buildings that is intended to serve the community,
+surrounding rural area, promote  appropriate economic development,
+protect the existing character, and preserve or  enhance the air, water,
+and land resources of the area.
+2. A lawfully established use that existed prior to the adoption of this Article
+may expand to  occupy 10,000 square feet of floor area within a
+building(s).  If the use is determined to  “promote appropriate economic
+development, protect the existing character , and preserve or enhance the
+air, water, and land resources of the area,” the floor area may be
+expanded to occupy a maximum of  10,000 square feet, or an additional
+50% of the floor area currently occupied, whichever is greater.
+
+ 53.92 - 1
+ARTICLE 53.92
+RURAL SERVICE CENTER INDUSTRIAL (RSC-I) ZONE
+
+53.921 PURPOSE:
+
+This zone establishes/maintains places where land is needed for the fabrication,
+processing, storage, and movement of raw materials w here the potential impact
+of noise, odor, vibration, glare, and /or heat are least likely to affect adjacent land
+uses.  It is intended to (1) promote appropriate economic development; (2)
+protect the existing character of the area; (3) preserve or enhance  the air, water,
+and land resources of the area.
+
+53.922 PERMITTED USES:
+
+The following uses shall be permitted if the following criteria are satisfied (1)
+building or buildings do not exceed 10,000 square -feet of floor space; (2)
+completion of Article 41,  Site Plan Review, and; (3) all other applicable
+standards, criteria, rules, and statues governing such uses:
+
+A. Agriculture Packing and Processing
+B. Agriculture Supplies and Services
+C. Auto Repairs
+D. Custom/General Manufacturing
+E. Essential Services
+F. Heavy Equipment Repairs
+G. Mini Storage Facility
+H. Saw Mill
+I. Secondary Processing of Forest Products
+J. Warehousing, Storage and Distribution-Heavy/Light
+K. Administrative Services
+L. Auto Sale/Rental Service
+M. Building and Garden Sales
+N. Fleet Storage
+O. Heavy Equipment Sales/Rental/Services
+P. Manufactured Dwelling Sales
+Q. Accessory Buildings and Uses
+R. Uses determined by the Planning Director to be similar to those listed in this
+section to promote appropriate economic development, protect the existing
+character, preserve or enhance the air, wate r, and land resources of the area
+as provided for by Article 12.070B(1) of the Land Development Code.
+
+ 53.92 - 2
+53.923 CONDITIONAL USES:
+
+The following uses may be permitted subject to standards listed in this article and
+if the provisions of Article 44 are sati sfied and the following criteria are met: (1)
+Building or buildings do not exceed 10,000 square-feet of floor space.
+
+A. Extensive Impact Services and Utilities
+B. Agricultural Waste Processing
+C. Stockyards
+D. Worker Residential
+E. Food and Beverage Service
+F. Heavy Industrial
+G. Uses determined by the Planning Director to be similar to those listed in this
+section to promote appropriate economic development, protect the existing
+character, preserve or enhance the air, water, and land resources of the area
+as provided for by Article 12.070B(1) of the Land Development Code.
+
+53.924 USE LIMITATIONS:
+
+The following limitation and standards shall apply to all permitted and conditional
+uses:
+
+A. Any permitted use that meets the following criteria shall require a conditional
+use permit:
+
+1. Any use expected to generate more than 30 -truck-trailer or other heavy
+equipment trips per day to/from the property which is adjacent to or across
+from a residential dwelling, a lot in a platted subdivision, or a residential
+zone.
+
+2. Any use expected to generate more than 20 auto or truck trips during the
+busiest hour of the day to/from the premises.
+
+3. The use is expected to utilize arterial, collector, or other improved
+street/roads that pass through or are adjacent to residential lots, platted
+subdivisions, or residential zones.
+
+B. Any use on a lot adjacent to/across from a residential dwelling, a lot in a
+platted residential subdivision, or a residential zone shall not emit odor, dust,
+fumes, glare, flashing lights, noise, or similar disturbances percep tible more
+than 200 feet in the direction of the affected residential use or lot.
+
+ 53.92 - 3
+
+C. No use shall be permitted to operate for business between the hours of 10 p.m.
+and 7a.m., if located adjacent to/across from residential dwellings, lots in platted
+residential subdivisions or residential zones, and resultant vehicle traffic passes
+though or is adjacent to residential lots in platted subdivisions or residential
+zones.
+
+D. No use shall be permitted which has been declared a nuisance by state
+statute, county ordinance, or a court of competent jurisdiction.
+
+53.925 PROPERTY DEVELOPMENT STANDARDS:
+
+A. No parcel planned and zoned for industrial use as of November 15, 1990,
+shall be further partitioned except for a specific industrial use listed in Section
+53.922 or Section 53.923.  Verification is provided in the form of the following:
+
+1. Construction drawings for the proposed facility; and
+2. A letter of intent from a prospective company; and
+3. The site shall be of sufficient size to accommodate an on -site sewage
+collection system and water system, unless such system can be accessed
+by easement or water is to be provided by a public provider, and;
+4. Will not result in public health hazards or adverse environmental impacts
+that violate state or federal water quality regulations; and
+5. Will meet water and sewer requirements.
+
+A. Lot Size and Shape – See Article 61
+
+B. Building heights and Setbacks – See Article 62, Light Industrial
+
+C. Fences, Walls and Screening – See Article 64
+
+D. Landscaping – See Article 65
+
+E. Signs – See Article 66, Light Industrial
+
+F. Parking – See Article 68, Light Industrial
+
+G. Access – see Article 71
+
+H. Building Size:
+
+ 53.92 - 4
+
+1. Uses listed above as Permitted Uses (53.922) and Conditional Uses
+(53.923) shall not exceed the 10,000 square-foot limit unless:
+
+a. The use is approved as a plan amendment under the provision of Article
+47,48, and 49; and
+
+b. The use is limited pursuant to Article 59.8, Limited Use Overlay, to a
+size of building or buildings that is intended to serve the community,
+surrounding rural area, promote appropriate ec onomic development,
+protect the existing character, and preserve or enhance the air, water,
+and land resources of the area.
+
+2. A lawfully established use that existed prior to the adoption of this Article may
+expand to occupy 10,000 square feet of floor are a within a building(s). If the
+use is determined to “promote appropriate economic development, protect the
+existing character, and preserve or enhance the air, water, and land
+resources of the area,” the floor area may be expanded to occupy a maximum
+of 10,000 square feet, or an additional 50% of the floor area currently
+occupied, whichever is greater.
+
+ORD. 45.88 Adopted April 27, 2017
+54-1
+ARTICLE 54
+EXCLUSIVE FARM USE (EFU)
+54.000 – PURPOSE
+The purpose of the Exclusive Farm Use (EFU) Zone is to protect and maintain
+agricultural lands for farm use, consistent with existing and future needs for
+agricultural products. The EFU zone is also intended to allow other uses that are
+compatible with agricultural activities, to protect forests, scenic resources and fish
+and wildlife habitat, and to maintain and improve the quality of air, water and land
+resources of the county. It is also the purpose of the EFU zone to qualify farms for
+farm use valuation under the provisions of ORS Chapter 308.
+
+The EFU zone has been applied to lands designated as Agriculture in the
+Comprehensive Plan, which reflect the requirements of ORS Chapter 215 and OAR
+660-033. The minimum parcel size and other standards established by this zone
+are intended to promote commercial agricultural operations.
+The Exclusive Farm Use -  Cropland zone is applied to agricultur al areas
+characterized by row crop, hay and livestock production in which there is no
+predominant parcel size.
+The Exclusive Farm Use – Cropland/Grazing zone is applied to areas of mixed
+cropland and grazing activities or potential.
+The Exclusive Farm Us e – Grazing zone is for areas of predominantly range and
+grazing uses.
+54.010 – PERMITTED USES
+In the EFU zone, the following uses and activities and their accessory buildings and
+uses are permitted subject to site plan review of Article 41 and the general
+provisions set forth by this ordinance and any other applicable siting and design
+standards and review process in the Land Development Code :
+A. Farm use.
+B. Propagation or harvesting of a forest product.
+C. Agricultural buildings customarily provided in conjunction with farm use.
+D. Creation of, restoration of, or enhancement of wetlands.
+
+ORD. 45.88 Adopted April 27, 2017
+54-2
+E. Operations for the exploration for and production of geothermal resources as
+defined by ORS 522.005 and oil and gas as defined by ORS 520.005,
+including the placement and operation of compressors, separators and other
+customary production equipment for an individual well adjacent to the
+wellhead.
+F. Operations for the exploration for minerals as defined by ORS 517.750.
+G. Climbing and passing lanes within the right of way existing as of July 1, 1987.
+H. Reconstruction or modification of public roads and highways, including the
+placement of utility facilities overhead and in the subsurface of public roads
+and highways along the public right of way,  but not including the addition of
+travel lanes, where no removal or displacement of buildings would occur, or
+no new land parcels result.
+I. Temporary public road and highway detours that will be abandoned and
+restored to original condition or use at such time as no longer needed.
+J. Minor betterment of existing public road and highway related facilities such as
+maintenance yards, weigh stations and rest areas, within right of way existing
+as of July 1, 1987, and contiguous public -owned property utilized to supp ort
+the operation and maintenance of public roads and highways.
+K. Irrigation reservoirs, canals, delivery lines and those structures and accessory
+operational facilities, not including parks or other recreational structures and
+facilities, associated with a district as defined in ORS 540.505.
+L. Fire service facilities providing rural fire protection services.
+M. Onsite filming and activities accessory to onsite filming for 45 days or less as
+provided for in ORS 215.306.
+N. Firearms training facility in existence on September 9, 1995.
+O. An outdoor mass gathering of more than 1,000 persons that is expected to
+continue for more than 1 2 hours but less than 120 hours in any three- month
+period, as provided in ORS 433.735 and subject to Article 42.055.
+P. A facility for the processing of farm crops , biofuel or poultry s ubject to
+Subsection 54.030(A).
+
+ORD. 45.88 Adopted April 27, 2017
+54-3
+Q. Dog training classes or testing trials subject to Subsection 54.030(C).
+R. Farm stands subject to Subsection 54.030(D).
+S. A winery subject to Section 54.065.
+T. Agri-tourism and other commercial events or activities subject to Section
+54.070. This use is subject to the Type II Administrative Review Procedure
+pursuant to Article 22.
+U. Destination resort subject to Subsection 54.030(E). This use is subject to the
+requirements of Article 88 and the Planning Commission Review Procedure
+pursuant to Article 26.
+V. Land application of reclaimed water, agricultural or industrial process water or
+biosolids subject to Subsection 54.030(L). This use is subject to the Type II
+Adminstrative Review Procedure pursuant to Article 22.
+W. Utility facility service lines subject to Subsection 54.030(M).
+X. Utility facilities necessary for public service, including associated transmission
+lines as defined in Article 11 and  wetland waste treatment systems , but not
+including commercial facilities for the purpose of generating electrical power
+for public use by sale or transmission towers over 200 feet in height as
+provided in Subsection 54.030(N). This use is subject to the T ype II
+Administrative Review Procedure pursuant to Article 22.
+Y. A site for the takeoff and landing of model aircraft subject to Subsection
+54.030(Q). This use is subject to the Type II Administrative Review Procedure
+pursuant to Article 22.
+Z. Churches, and cemeteries in conjunction with churches, subject to Subsection
+54.030(X). This use is not permitted on high value farmland except that
+existing churches on high value farmland may be expanded subject to
+Subsection 54.030(Z). This use is subject to the Type II Administrative Review
+Procedure pursuant to Article 22.
+AA. Dwelling customarily provided in conjunction with farm use subject to
+Subsection 54.030(Y) and Section 54.040. This use is subject to the Type II
+Administrative Review Procedure pursuant to Article 22.
+
+ORD. 45.88 Adopted April 27, 2017
+54-4
+BB. A dwelling on property used for farm use located on the same lot or parcel as
+the dwelling of the farm operator, and occupied by a relative of the farm
+operator or farm operator’s spouse if the farm operator does, or will, require
+the assistance of the relative in the management of the farm use subject to
+54.045(A), and 54.030(Y).
+CC. Accessory farm dwellings for year -round and seasonal farm workers subject
+to Subsection 54.030(Y) and Section 54.045. This use is subject to the Type
+II Administrative Review Procedure pursuant to Article 22.
+DD. Lot of record dwelling  subject to Subsection 54.030(Y) and Section 54.050.
+This use is subject to the  Type II Administrative Review Procedure pursuant
+to Article 22.
+EE. Single-family residential dwelling, not provided in conjunction with farm use
+subject to Subsection 54.030(Y) and Section 54.055. This use is subject to the
+Type II Adminstrative Review Procedure pursuant tot Article 22.
+FF. Replacement dwelling to be used in conjunction with farm use if the existing
+dwelling has been listed in a county inventory as historic property as defined
+in ORS 358.480 and listed on the National Register of Historic Places subject
+to Subsection 54.030(Y).
+GG. Alteration, restoration, or replacement of a lawfully established dwelling
+subject to Subsection 54.030(Y) and Section 54.060.
+54.015 – CONDITIONAL USES
+Except where specifically noted, the following uses are permitted subject to
+Conditional Use Permit procedures in Article 44, any specific standards for the use
+set forth in Section 54.030, the conditional use review criteria in Section 54.035 in
+lieu of those contained in Article 44.030, and the general standards for the zone and
+any other applicable standards and review process in the Land Development Code:
+A. A facility for the primary processing of forest products  subject to
+Subsection 54.030(B).
+B. The propagation, cultivation, maintenance and harvesting of aquatic species
+that are not under the jurisdiction of the State Fish and Wildlife Commission
+or insect species.
+
+ORD. 45.88 Adopted April 27, 2017
+54-5
+C. Temporary hardship dwelling , permitted as a temporary use permit as
+required by LDC Article 42.
+D. Residential care home as defined in ORS 197.660, in existing dwellin gs,
+subject to Subsection 54.030(Y).
+E. Room and board arrangements for a maximum of five unrelated persons in
+existing residences subject to Subsection 54.030(Y).
+F. Parking of up to seven log trucks. This use is subject to to the Type II
+Administrative Procedure pursuant to Article 22.
+G. Home occupations as provided in Subsection 54.030(F) and Article 85.
+H. Commercial dog boarding kennels or dog training classes or testing trials that
+cannot be established under Subsection 54.010(Q).
+I. A landscape contracting business, as defined in ORS 671.520, or a business
+providing landscape architecture services, as described in ORS  671.318, if
+the business is pursued in conjunction with the growing and marketing of
+nursery stock on the land that constitutes farm use. This use is subject to the
+Type II Administrative Procedure pursuant to Article 22.
+J. Commercial activities in conjunction with farm use, including the processing
+of farm crops into biofuel not permitted under  Subsection 54.010(P), b ut
+excluding activities in conjunction with a marijuana crop,  and subject to
+54.030(H).
+K. Guest ranch subject to Subsection 54.030(G). This use is not permitted on
+high value farmland.
+L. Operations conducted for mining and processing of geothermal resources as
+defined by ORS 522.005 and oil and gas as defined by ORS 520.005 not
+otherwise permitted.
+M. Operations conducted for mining, crushing or stockpiling of aggregate and
+other mineral and other subsurface resources  subject to Subsection
+54.030(J) and ORS 215.298.
+N. Processing as defined by ORS 517.750 of aggregate into asphalt or portland
+cement subject to 54.030(I).
+
+ORD. 45.88 Adopted April 27, 2017
+54-6
+O. Processing of other mineral resources and other subsurface resources.
+P. Construction of additional passing and travel lanes requiring the acquis ition
+of right of way but not resulting in the creation of new land parcels.  This use
+is subject to the Type II Administrative Procedure pursuant to Article 22.
+Q. Reconstruction or modification of public roads and highways involving the
+removal or displacement of buildings but not resulting in the creation of new
+land parcels.
+R. Improvement of public road and highway related facilities, such as
+maintenance yards, weigh stations and rest areas, where additional property
+or right of way is required but not resulting in the creation of new land parcels.
+S. Transportation improvements on rural lands allowed by and subject to the
+requirements of OAR 660-012-0065.
+T. Personal-use airports for airplanes and helicopter pads, including associated
+hangar, maintenance and service facilities subject to Subsection 54.030(K).
+U. Transmission towers over 200 feet in height. This use is subject to to the Type
+II Administrative Procedure pursuant to Article 22.
+V. Commercial utility facilities for the purpose of generating power for public use
+by sale, not including wind power generation facilities or photovoltaic solar
+power generation facilities subject to Subsection 54.075(A).
+W. Wind power generation facilities as commercial utility facilities for the purpose
+of generating power for public use by sale subject to Subsection 54.075(B).
+X. Photovoltaic solar power generation facilities as commercial utility facilities
+for the purpose of generating power for public use by sale  subject to
+Subsection 54.075(C).
+Y. A site for the disposal of solid waste for which a permit has been granted
+under ORS  459.245 by the Department of Environmental Quality together
+with equipment, facilities or buildings necessary for its operation  subject to
+Subsection 54.030(P). This use is not permitted on high value farmland
+except that existing facilities on high value farmland may be expanded subject
+to Subsection 54.030(Z).
+
+ORD. 45.88 Adopted April 27, 2017
+54-7
+Z. Composting facilities for which a permit has been granted by the Department
+of Environmental Quality under ORS 459.245 and OAR  340-093-0050 and
+340-096-0060 subject to Subsection 54.030(O). This use is not permitted on
+high value farmland except that existing facilities on high value farmland may
+be expanded subject to Subsection 54.030(Z).
+AA. Onsite filming and activities accessory to onsite filming for more than 45 days
+as provided for in ORS 215.306.  This use is subject to to the Type II
+Administrative Procedure pursuant to Article 22.
+BB. Living history museum as defined in  Article 11 and subject to
+Subsections 54.030(R) and 54.030(X).
+CC. Community centers owned by a governmental agency or a nonprofit
+organization and operated primarily by and for residents of the local rural
+community subject to Subsections 54.030(S) and 54.030(X).
+DD. Public parks and playgrounds subject to  Subsections 54.030(T) and
+54.030(X).
+EE. Operations for the extraction and bottling of water.
+FF. Public or private schools for kindergarten through grade 12, including all
+buildings essential to the operation of a school, primarily for residents of the
+rural area in which the school is located, sub ject to Subsection 54.030(X).
+This use is not permitted on high value farmland except that existing schools
+on high value farmland may be expanded subject to Subsections 54.030(U)
+and 54.030(Z).
+GG. Private parks, playgrounds, hunting and fishing preserves, and campgrounds
+subject to Subsections 54.030(V) and 54.030(X). This use is not permitted on
+high value farmland except that existing private parks on high value farmland
+may be expanded subject to Subsection 54.030(Z).
+HH. Golf courses as defined in  Article 11 and subject to Subsections 54.030(W)
+and 54.030(X). This use is not permitted on high value farmland as defined
+in ORS 195.300 except that existing golf courses on high-value farmland may
+be expanded subject to Subsection 54.030(Z).
+
+ORD. 45.88 Adopted April 27, 2017
+54-8
+54.030 – USE STANDARDS
+A. A farm on which a processing facility is located must provide at least one-quarter
+of the farm crops processed at the facility. A farm may also be used for an
+establishment for the slaughter, processing or selling of poultry or poultry
+products pursuant to O RS 603.038. If a building is established or used for the
+processing facility or establishment, the farm operator may not devote more than
+10,000 square feet of floor area to the processing facility or establishment,
+exclusive of the floor area designated for preparation, storage or other farm use.
+A processing facility or establishment must comply with all applicable siting
+standards but the standards may not be applied in a manner that prohibits the
+siting of the processing facility or establishment. A county may not approve any
+division of a lot or parcel that separates a processing facility or establishment
+from the farm operation on which it is located.
+B. A f acility for the primary processing of forest products shall not seriously
+interfere with accepted farming practices and shall be compatible with farm use
+described in Article 11. Such facility may be approved for a one-year period that
+is renewable and is intended to be only portable or temporary in nature. The
+primary processing of a forest product, as used in this  Section, means the use
+of a portable chipper or stud mill or other similar methods of initial treatment of
+a forest product in order to enable its shipment to market. Forest products as
+used in this  Section means timber grown upon a tract where the primary
+processing facility is located.
+C. Dog training classes or testing trials  conducted outdoors, or in farm buildings
+that existed on January 1, 2013, are limited as follows:
+1. The number of dogs participating in training does not exceed 10 per training
+class and the number of training classes to be held on-site does not exceed
+six per day; and
+2. The number of dogs participating in a testing trial does not exceed 60 and
+the number of testing trials to be conducted on-site does not exceed four per
+calendar year.
+D. A farm stand may be approved if:
+
+ORD. 45.88 Adopted April 27, 2017
+54-9
+1. The structures are designed and used for sale of farm crops and livestock
+grown on the farm operation, or grown on the farm operation and other farm
+operations in the local agricultural area, including the sale of retail incidental
+items and fee-based activity to promote the sale of farm crops or livestock
+sold at the farm stand if the annual sales of the incidental items and fees
+from promotional activity do not make up more than 25 percent of the total
+annual sales of the farm stand; and
+2. The farm stand does not include structures designed for occupancy as a
+residence or for activities other than the sale of farm crops and livestock and
+does not include structures for banquets, public gatherings or public
+entertainment.
+3. As used in this  Section, "farm crops or livestock" includes both fresh and
+processed farm crops and livestock grown on the farm operation, or grown
+on the farm operation and other farm operations in the local agricultural area.
+4. As used in this Subsection, "processed crops and livestock" includes jams,
+syrups, apple cider, animal products and other similar farm crops and
+livestock that have been processed and converted into another product but
+not prepared food items.
+5. As used in this  Section, "local agricultural area" includes Oregon or an
+adjacent county in California.
+6. A farm stand may not be used for the sale, or to promote the sale, of
+marijuana products or extracts.
+7. Farm Stand Development Standards
+a. Adequate off -street parking will be provided pursuant to provisions of
+Article 68.
+b.  Roadways, driveway aprons, driveways and parking surfaces shall be
+surfaces that prevent dust, and may include paving, gravel, cinders, or
+bark/wood chips.
+c. All vehicle maneuvering will be conducted on site. No vehicle backing or
+maneuvering shall occur within adjacent roads, streets or highways.
+d. No farm stand building or parking is permitted within the right-of-way.
+
+ORD. 45.88 Adopted April 27, 2017
+54-10
+e. Approval is required from the County Public Works Department regarding
+adequate egress and access. All egress and access points shall be
+clearly marked.   Vision clearance shall be maintained as  required in
+Article 62.060.
+f. All outdoor light fixtures shall be directed downward, and have full cutoff
+and full shieldi ng to preserve views of the night sky and to minimize
+excessive light spillover onto adjacent properties, roads and highways ,
+except as provided for up- lighting of flags and permitted building -
+mounted signs.
+E. A destination resort is not permitted on high-value farmland except that existing
+destination resorts may be expanded subject to 54.030(X).
+F. Home occupations as allowed in Article 85 and with the following additional
+standards:
+a. When a bed and breakfast facility is sited as a home occupation on the
+same tract as a winery established pursuant to Section 54.055 and is
+operated in association with the winery:
+1) The bed and breakfast facility may prepare and serve two meals per
+day to the registered guests of the bed and breakfast facility; and
+2) The meals may be served at the bed and breakfast facility or at the
+winery.
+G. A guest ranch must comply with the following provisions:
+1. Definitions
+a. “Guest lodging unit” means a guest room in a lodge, bunkhouse, cottage
+or cabin used only for transient overnight lodging and not for a permanent
+residence.
+b. “Guest ranch” means a facility for guest lodging units, passive
+recreational activities described in Subsection (6) and food services
+described in  Subsection (7) that are incidental and accessory to an
+existing and continuing livestock operation that qualifies as a farm use.
+c. “Livestock” means cattle, sheep, horses and bison.
+
+ORD. 45.88 Adopted April 27, 2017
+54-11
+2. A guest ranch may be established unless the proposed site of the guest
+ranch is within the boundaries of or surrounded by:
+a. A federally designated wilderness area or a wilderness study area;
+b. A federally designated wildlife refuge;
+c. A federally designated area of critical environmental concern; or
+d. An area established by an Act of Congress for the protection of scenic or
+ecological resources.
+3. The guest ranch must be located on a lawfully established unit of land that:
+a. Is at least 160 acres;
+b. Contains the dwelling of the individual conducting the livestock operation;
+and
+c. Is not high-value farmland.
+4. Except as provided in  Subsection (5), the guest lodging units of the guest
+ranch cumulatively must:
+a. Include not fewer than four nor more than 10 overnight guest lodging
+units; and
+b. Not exceed a total of 12,000 square feet in floor area, not counting the
+floor area of a lodge that is dedicated to kitchen area, rest rooms, storage
+or other shared or common indoor space.
+5. For every increment of 160 acres that the lawfully established unit of land on
+which the guest ranch is located exceeds the minimum 160- acre
+requirement described in Subsection (3), up to five additional overnight guest
+lodging units not exceeding a total of 6,000 square feet of floor area may be
+included in the guest ranch for a total of not more than 25 guest lodging units
+and 30,000 square feet of floor area.
+
+ORD. 45.88 Adopted April 27, 2017
+54-12
+6. A guest ranch may provide passive recreation al activities that can be
+provided in conjunction with the livestock operation’s natural setting
+including, but not limited to, hunting, fishing, hiking, biking, horseback riding,
+camping and swimming. A guest ranch may not provide intensively
+developed recreational facilities, including golf courses as identified in ORS
+215.283.
+7. A guest ranch may provide food services only for guests of the guest ranch,
+individuals accompanying the guests and individuals attending a special
+event at the guest ranch. The cost of meals, if any, may be included in the
+fee to visit or stay at the guest ranch. A guest ranch may not sell individual
+meals to an individual who is not a guest of the guest ranch, an individual
+accompanying a guest or an individual attending a special event at the guest
+ranch.
+8. Notwithstanding ORS 215.283, the governing body of a county or its
+designee may not allow a guest ranch in conjunction with:
+a. A campground as described in 54.015(GG).
+b. A golf course as described in 54.015(HH).
+9. Notwithstanding 54.080, the governing body of a county or its designee may
+not approve a proposed division of land:
+a. for a guest ranch; or
+b. to separate the guest ranch from the dwelling of the individual conducting
+the livestock operation.
+H. Commercial activities in conjunction with farm use may be approved when:
+1. The commercial activity is either exclusively or primarily a customer or
+supplier of farm products;
+2. The commercial activity is limited to providing products and services
+essential to the practice of agriculture by surrounding agricultural operations
+that are sufficiently important to justify the resulting loss of agricultural land
+to the commercial activity; or
+
+ORD. 45.88 Adopted April 27, 2017
+54-13
+3. The commercial activity significantly enhances the farming enterprises of the
+local agricultural community, of which the land housing the commercial
+activity is a part. Retail sales of products or services to the general public
+that take place on a parcel or tract that is different from the parcel or tract on
+which agricultural product is processed, such as a tasting room with no on-
+site winery, are not commercial activities in conjunction with farm use.
+I. Facilities that batch and blend mineral and aggregate into asphalt cement may
+not be authorized within two miles of a planted vineyard. Planted vineyard
+means one or more vineyards totaling 40 acres or more that are planted as of
+the date the application for batching and blending is filed.
+J. Mining, crushing or stockpiling of aggregate and other mineral and subsurface
+resources are subject to the following:
+1. A land use permit is required for mining more than one thousand (1,000)
+cubic yards of martial or excavation preparatory to mining of a surface area
+of more than one (1) acre.
+2. A land use permit for mining of aggregate shall be issued only for a site
+included on the mineral and aggregate inventory in the County’s Goal 5
+Inventory.
+K. A personal-use airport, as used in this Section, prohibits aircraft other than those
+owned or controlled by the owner of the airstrip. Exceptions to the activities
+allowed under this definition may be granted through waiver action by the
+Oregon Department of Aviation in specific instances. A personal -use airport
+lawfully existing as of September 13, 1975, shall continue to be allowed subject
+to any applicable rules of the Oregon Department of Aviation.
+L. Land Application of Reclaimed or Process Water , agricultural process or
+industrial process water or biosolids for agricultural, horticultural or silvicultural
+production, or for irrigation in connection with a use allowed in an EFU zone is
+subject to the issuance of a license, permit or other approval by the Department
+of Environmental Quality under ORS 454.695, 459.205, 468B.050, 468B.053 or
+468B.055, or in compliance with rules adopted under 468B.095, and with the
+requirements of ORS 215.246, 215.247, 215.249 and 215.251.
+
+ORD. 45.88 Adopted April 27, 2017
+54-14
+M. Utility facility service lines are utility lines and accessory facilities or structures
+that end at the point where the utility service is received by the customer and
+that are located on one or more of the following:
+1. A public right of way;
+2. Land immediately adjacent to a public right of way, provided the written
+consent of all adjacent property owners has been obtained; or
+3. The property to be served by the utility.
+N. A utility facility that is necessary for public service.
+1. A utility facility is necessary for public service if the facility must be sited in
+the exclusive farm use zone in order to provide the service.
+a. To demonstrate that a utility facility is necessary, an applicant must show
+that reasonable alternatives have been considered and that the facility
+must be sited in an exclusive farm use zone due to one or more of the
+following factors:
+1) Technical and engineering feasibility;
+2) The proposed facility is locationally -dependent. A utility facility is
+locationally-dependent if it must cross land in one or more areas
+zoned for exclusive farm use in order to achieve a reasonably direct
+route or to meet unique geographical needs that cannot be satisfied
+on other lands;
+3) Lack of available urban and nonresource lands;
+4) Availability of existing rights of way;
+5) Public health and safety; and
+6) Other requirements of state and federal agencies.
+
+ORD. 45.88 Adopted April 27, 2017
+54-15
+b. Costs associated with any of the factors listed in  Subsection (a) of this
+subsection may be considered, but cost alone may not be the only
+consideration in determining that a utility facility is necessary for public
+service. Land costs shall not be included when considering alternative
+locations for substantially similar utility facilities and the siting of utility
+facilities that are not substantially similar.
+c. The owner of a utility facility approved under  Subsection (1) shall be
+responsible for restoring, as nearly as possible, to its former condition
+any agricultural land and associated improvements that are damaged or
+otherwise disturbed by the siting, maintenance, repair or reconstruction
+of the facility. Nothing in this  Subsection shall prevent the owner of the
+utility facility from requiring a bond or other security from a contractor or
+otherwise imposing on a contractor the responsibility for restoration.
+d. The county shall impose clear and objective conditions on an application
+for utility facility siting to mitigate and minimize the impacts of the
+proposed facility, if any, on surrounding lands devoted to farm use in
+order to prevent a significant change in accepted farm practices or a
+significant increase in the cost of farm prac tices on surrounding
+farmlands.
+e. Utility facilities necessary for public service may include on- site and off-
+site facilities for temporary workforce housing for workers constructing a
+utility facility. Such facilities must be removed or converted to an allowed
+use under the EFU Zone or other statute or rule when project construction
+is complete. Off-site facilities allowed under this  Subsection are subject
+to Section 54.035 Conditional Use Review Criteria. Temporary workforce
+housing facilities not included in the initial approval may be considered
+through a minor amendment request. A minor amendment request shall
+have no effect on the original approval.
+f. In addition to the provisions of  Subsection 54.030(N)(1)(a) through (d),
+the establishment or extension of a sewer system as defined by OAR
+660-011-0060(1)(f) shall be subject to the provisions of 660-011-0060.
+g. The provisions of  Subsection (1) do not apply to inter state natural gas
+pipelines and associated facilities authorized by and subject to regulation
+by the Federal Energy Regulatory Commission.
+
+ORD. 45.88 Adopted April 27, 2017
+54-16
+2. An associated transmission line is necessary for public service upon
+demonstration that the associated transmission l ine meets either the
+following requirements of  Subsection (a) or Subsection (b) of this
+Subsection.
+a. An applicant demonstrates that the entire route of the associated
+transmission line meets at least one of the following requirements:
+1) The associated transmission line is not located on high- value
+farmland, as defined in ORS 195.300, or on arable land;
+2) The associated transmission line is co- located with an existing
+transmission line;
+3) The associated transmission line parallels an existing transmission
+line corridor with the minimum separation necessary for safety; or
+4) The associated transmission line is located within an existing right of
+way for a linear facility, such as a trans mission line, road or
+railroad,that is located above the surface of the ground.
+b. After an evaluation of reasonable alternatives, an applicant demonstrates
+that the entire route of the associated transmission line meets, subject to
+Subsections 54.030(N)(2)(c) and (d), two or more of the following criteria:
+1) Technical and engineering feasibility;
+2) The associated tr ansmission line is locationally -dependent because
+the associated transmission line must cross high- value farmland, as
+defined in ORS 195.300, or arable land to achieve a reasonably direct
+route or to meet unique geographical needs that cannot be satisfied
+on other lands;
+3) Lack of an available existing right of way for a linear facility, such as
+a transmission line, road or railroad, that is located above the surface
+of the ground;
+4) Public health and safety; or
+5) Other requirements of state or federal agencies.
+
+ORD. 45.88 Adopted April 27, 2017
+54-17
+c. As pertains to  Subsection (b), the applicant shall demonstrate  how the
+applicant will mitigate and minimize the impacts, if any, of the associated
+transmission line on surrounding lands devoted to farm use in order to
+prevent a significant change in accepted farm practices or a significant
+increase in the cost of farm practices on the surrounding farmland.
+d. The county may consider costs associated with any of the factors listed
+in Subsection (b), but consideration of cost may not be the only
+consideration in determining whether the associated transmission line is
+necessary for public service.
+O. Composting operations and facilities shall meet the performance and permitting
+requirements of the Department of Environmental Quality under OAR 340-093-
+0050 and 340- 096-0060. Buildings and facilities used in conjunction with the
+composting operation shall only be those required for the operation of the
+subject facility. Onsite sales shall be limited to bulk loads of at least one unit (7.5
+cubic yards) in size that are transported in one vehicle. This use is not permitted
+on high value farmland except that existing facilities on high value farmland may
+be expanded subject to Subsection 54.030(Z).
+1. Compost operations subject to Section 54.030(O) include:
+a. A new disposal site for composting that sells, or offers for sale, resulting
+product; or
+b. An existing disposal site for composting that sells, or offers for sale,
+resulting product that:
+c. Accepts as feedstock nonvegetative materials, including dead animals,
+meat, dairy products and mixed food waste (type 3 feedstock); or
+d. Increases the permitted annual tonnage of feedstock used by the
+disposal site by an amount that requires a new land use approval.
+P. Solid waste disposal facilities shall meet the performance and permitting
+requirements of the Department of Environmental Quality under ORS 459.245,
+shall meet the requirements of Section 54.035 and shall comply with the
+following requirements.
+
+ORD. 45.88 Adopted April 27, 2017
+54-18
+1. The facility shall be designed to minimize conflicts with existing and
+permitted uses allowed under plan designations for adjacent parcels as
+outlined in policies of the Comprehensive Plan.
+2. The facility must be of a size and design to minimize noise or other
+detrimental effects when located adjacent to farm, forest and grazing
+dwellings(s) or a residential zone.
+3. The facility shall be fenced when the site is located adjacent to dwelling(s)
+or a residential zone and landscaping, buffering and/or screening shal l be
+provided.
+4. The facility does not constitute an unnecessary fire hazard.  If located in a
+forested area, the county shall condition approval to ensure that minimum
+fire safety measures will be taken, which may include but are not limited to
+the following:
+a. The area surrounding the facility is kept free from litter and debris.
+b. Fencing will be installed around the facility, if deemed appropriate to
+protect adjacent farm crops or timber stand.
+c. If the proposed facility is located in a forested area, construction materials
+shall be fire resistant or treated with a fire retardant substance and the
+applicant will be required to remove forest fuels within 30 feet of
+structures.
+5. The facility shall adequately protect fish and wildlife resources by meeting
+minimum Oregon State Department of Forestry regulations.
+6. Access roads or easements for the facility shall be improved to the county’s
+Transportation System Plan standards and comply with grades
+recommended by the Public Works Director.
+7. Road construction for t he facility must be consistent with the intent and
+purposes set forth in the Oregon Forest Practices Act to minimize soil
+disturbance and help maintain water quality.
+8. Hours of operation for the facility shall be limited to 8 am – 7 pm.
+9. Comply with other conditions deemed necessary.
+
+ORD. 45.88 Adopted April 27, 2017
+54-19
+Q. Buildings and facilities associated with a site for the takeoff and landing of model
+aircraft shall not be more than 500 square feet in floor area or placed on a
+permanent foundation unless the building or facility preexisted the use approved
+under this  Section. The site shall not include an aggregate surface or hard
+surface area unless the surface preexisted the use approved under this Section.
+An owner of property used for the purpose authorized in this Section may charge
+a person operating the use on the property rent for the property. An operator
+may charge users of the property a fee that does not exceed the operator’s cost
+to maintain the property, buildings and facilities. As used in this Section, "model
+aircraft" means a small-scale version of an airplane, glider, helicopter, dirigible
+or balloon that is used or intended to be used for flight and is controlled by radio,
+lines or design by a person on the ground.
+R. A living history museum shall be related to resource based act ivities and shall
+be owned and operated by a governmental agency or a local historical society.
+A living history museum may include limited commercial activities and facilities
+that are directly related to the use and enjoyment of the museum and located
+within authentic buildings of the depicted historic period or the museum
+administration building, if areas other than an exclusive farm use zone cannot
+accommodate the museum and related activities or if the museum
+administration buildings and parking lot are located within one quarter mile of an
+urban growth boundary. "Local historical society" means the local historical
+society, recognized as such by the county governing body and organized under
+ORS Chapter 65.
+S. A community center may provide services to veterans, including but not limited
+to emergency and transitional shelter, preparation and service of meals,
+vocational and educational counseling and referral to local, state or federal
+agencies providing medical, mental health, disability income replacement  and
+substance abuse services, only in a facility that is in existence on January 1,
+2006. The services may not include direct delivery of medical, mental health,
+disability income replacement or substance abuse services.
+T. Public parks may include:
+1. All outdoor recreation uses allowed under ORS 215.213 or 215.283.
+2. Visitor lodging and retreat facilities if authorized in a state park master plan
+that is adopted by OPRD : historic lodges, houses or inns and the following
+associated uses in a state park retreat area only:
+
+ORD. 45.88 Adopted April 27, 2017
+54-20
+a.  Meeting halls not exceeding 2000 square feet of floor area;
+b. Dining halls (not restaurants).
+U. Schools as formerly allowed pursuant to ORS 215.283(1)(a) that were
+established on or before January 1, 2009, may be expanded if:
+1. The Conditional Use Review Criteria in Section 54.035 are met; and
+2. The expansion occurs on the tax lot on which the use was established on or
+before January 1, 2009 or a tax lot that is contiguous to the tax lot and that
+was owned by the applicant on January 1, 2009.
+V. Private Campgrounds are subject to the following:
+1. Except on a lot or parcel contiguous to a lake or reservoir, private
+campgrounds shall not be allowed within three miles of an urban growth
+boundary unless an exception is approved pursuant to ORS  197.732 and
+OAR chapter 660, division 4.  A campground shall be designed and
+integrated into the rural agricultural and forest environment in a manner that
+protects the natural amenities of the site and provides buffers of existing
+native trees and vegetation or other nat ural features between campsites.
+Campgrounds shall not include intensively developed recreational uses such
+as swimming pools, tennis courts, retail stores or gas stations. Overnight
+temporary use in the same campground by a camper or camper's vehicle
+shall not exceed a total of 30 days during any consecutive six-month period.
+2. Campsites may be occupied by a tent, travel trailer, yurt or recreational
+vehicle. Separate sewer, water or electric service hook -ups shall not be
+provided to individual camp sites except that electrical service may be
+provided to yurts allowed by Subsection (3).
+3. A private campground may provide yurts for overnight camping. No more
+than one-third or a maximum of 10 campsites, whichever is smaller, may
+include a yurt. The yurt shall be located on the ground or on a wood floor
+with no permanent foundation.
+W. Accessory uses provided as part of a golf course shall be limited consistent with
+the following standards:
+
+ORD. 45.88 Adopted April 27, 2017
+54-21
+1. An accessory use to a golf course is a facility or improvement that is
+incidental to the operation of the golf course and is either necessary for the
+operation and maintenance of the golf course or that provides goods or
+services customarily provided to golfers at a golf course. An accessory use
+or activity does not serve the needs of the non-golfing public. Accessory uses
+to a golf course may include: Parking; maintenance buildings; cart storage
+and repair; practice range or driving range; clubhouse; restrooms; lockers
+and showers; food and beverage service; pro shop; a practice  or beginners
+course as part of an 18 hole or larger golf course; or golf tournament.
+Accessory uses to a golf course do not include: Sporting facilities unrelated
+to golfing such as tennis courts, swimming pools, and weight rooms;
+wholesale or retail operations oriented to the non-golfing public; or housing;
+2. Accessory uses shall be limited in size and orientation on the site to serve
+the needs of persons and their guests who patronize the golf course to golf.
+An accessory use that provides commercial serv ices (e.g., pro shop, etc.)
+shall be located in the clubhouse rather than in separate buildings; and
+3. Accessory uses may include one or more food and beverage service
+facilities in addition to food and beverage service facilities located in a
+clubhouse. Food and beverage service facilities must be part of and
+incidental to the operation of the golf course and must be limited in size and
+orientation on the site to serve only the needs of persons who patronize the
+golf course and their guests. Accessory food and beverage service facilities
+shall not be designed for or include structures for banquets, public gatherings
+or public entertainment.
+X. Three-mile setback. For uses subject to this Subsection:
+1. No enclosed structure with a design capacity greater than 100 people, or
+group of structures with a total design capacity of greater than 100 people,
+shall be approved in connection with the use within three miles of an urban
+growth boundary, unless an exception is approved pursuant to ORS 197.732
+and OAR chapter 660, division 4, or unless the structure is described in a
+master plan adopted under the provisions of OAR chapter 660, division 34.
+2. Any enclosed structures or group of enclosed structures described in
+Subsection (1) within a tract must be separated by at least one-half mile. For
+purposes of this Subsection, “tract” means a tract that is in existence as of
+June 17, 2010.
+
+ORD. 45.88 Adopted April 27, 2017
+54-22
+3. Existing facilities wholly within a farm use zone may be maintained,
+enhanced or expanded on the same tract, subject to other requirements of
+law, but enclosed existing structures within a farm use zone within three
+miles of an urban growth boundary may not be expanded beyond the
+requirements of this ordinance.
+Y. Single-family dwelling deeds. The landowner shall sign and record in the deed
+records for the county a document binding the landowner, and the landowner's
+successors in interest, prohibiting them from pursuing a claim for relief or cause
+of action alleging injury from farming or forest practices for which no action or
+claim is allowed under ORS 30.936 or 30.937.
+Z. Expansion standards. Existing facilities wholly within a farm use zone may be
+maintained, enhanced or expanded on the same tract, subject to other
+requirements of law. An existing golf course may be expanded consistent with
+the requirements of Subsection 54.015(HH) and Section 54.035.
+54.035 – CONDITIONAL USE REVIEW CRITERIA
+An applicant for a use permitted in Section 54.015  must demonstrate compliance
+with the following criteria in lieu of that contained in Article 44.030 and any other
+conditional use criteria adopted by the county.
+A. The use will not force a significant change in accepted farm or forest practices
+on surrounding lands devoted to farm or forest use; and
+B. The use will not significantly increase the cost of accepted farm or forest
+practices on surrounding lands devoted to farm or forest use.
+C. The proposed use will be compatible with vicinity uses, and satisfies all relevant
+requirements of this ordinance and the following general criteria:
+1. The parcel is suitable for the proposed use considering its size, shape,
+location, topography, existence of improvements and natural features;
+2. The proposed use will not alter the character of the surrounding area in a
+manner which substantially limits, impairs or prevents the use of surrounding
+properties for the permitted uses listed in the underlying zoning district;
+
+ORD. 45.88 Adopted April 27, 2017
+54-23
+3. The proposed use is appropriate, considering the adequacy of public
+facilities and services existing or planned for the area affec ted by the use;
+and
+4. The use is or can be made compatible with existing uses and other allowable
+uses in the area.
+54.040 – PRIMARY FARM DWELLING CUSTOMARILY PROVIDED IN
+CONJUNCTION WITH FARM USE
+A. Large Tract Standards. On land not identified as high-value farmland as defined
+in Article 11, a dwelling may be considered customarily provided in conjunction
+with farm use if:
+1. The parcel on which the dwelling will be located is at least:
+a. 160 acres and not designated rangeland; or
+b. 320 acres and designated rangeland.
+2. The subject tract is currently employed for farm use.
+3. The dwelling will be occupied by a person or persons who will be principally
+engaged in the farm use of the subject tract , such as planting, harvesting,
+marketing or caring for livestock, at a commercial scale.
+4. Except for seasonal farmworker housing approved prior to 2001, there is no
+other dwelling on the subject tract.
+B. Farm Income Standards (non-high value). On land not identified as high- value
+farmland, a dwelling may be considered customarily provided in conjunction with
+farm use if:
+1. The subject tract is currently employed for the farm use on which, in each of
+the last two years or three of the last five years, or in an average of three of
+the last five years, the farm operator earned the lower of the following:
+a. At least $40,000 in gross annual income from the sale of farm products;
+or
+
+ORD. 45.88 Adopted April 27, 2017
+54-24
+b. Gross annual income of at least the midpoint of the median income range
+of gross annual sales for farms in the county with gross annual sales of
+$10,000 or more acco rding to the 1992 Census of Agriculture, Oregon;
+and
+2. Except for seasonal farmworker housing approved prior to 2001, there is no
+other dwelling on lands designated for exclusive farm use pursuant to ORS
+Chapter 215 owned by the farm or ranch operator or on the farm or ranch
+operation;
+3. The dwelling will be occupied by a person or persons who produced the
+commodities that grossed the income in Subsection (1); and
+4. In determining the gross income required by Subsection (1):
+a. The cost of purchased livestock sh all be deducted from the total gross
+income attributed to the farm or ranch operation;
+b. Only gross income from land owned, not leased or rented, shall be
+counted; and
+c. Gross farm income earned from a lot or parcel that has been used
+previously to qualify another lot or parcel for the construction or siting of
+a primary farm dwelling may not be used.
+C. Farm Income Standards (high-value). On land identified as high-value farmland,
+a dwelling may be considered customarily provided in conjunction with farm use
+if:
+1. The subject tract is currently employed for the farm use on which the farm
+operator earned at least $80,000 in gross annual income from the sale of
+farm products in each of the last two years or three of the last five years, or
+in an average of three of the last five years; and
+2. Except for seasonal farmworker housing approved prior to 2001, there is no
+other dwelling on lands designated for exclusive farm use owned by the farm
+or ranch operator or on the farm or ranch operation; and
+3. The dwelling will be occupied by a person or persons who produced the
+commodities that grossed the income in Subsection (1);
+
+ORD. 45.88 Adopted April 27, 2017
+54-25
+4. In determining the gross income required by Subsection (1):
+a. The cost of purchased livestock shall be deducted from the total gross
+income attributed to the farm or ranch operation;
+b. Only gross income from land owned, not leased or rented, shall be
+counted; and
+c. Gross farm income earned from a lot or parcel that has  been used
+previously to qualify another lot or parcel for the construction or siting of
+a primary farm dwelling may not be used.
+D. Additional Farm Income Standards.
+1. For the purpose of Subsections ( B) or (C), noncontiguous lots or parcels
+zoned for farm use in the same county or contiguous counties may be used
+to meet the gross income requirements. Lots or parcels in eastern or western
+Oregon may not be used to qualify a dwelling in the other part of the state.
+2. Prior to the final approval for a dwelling authorized by  Subsections (B) and
+(C)  that requires one or more contiguous or non- contiguous lots or parcels
+of a farm or ranch operation to comply with the gross farm income
+requirements, the applicant shall complete and record with the county clerk
+the covenants, conditions, and restrictions form provided by the county
+(Exhibit A to OAR Chapter 660 Division 33). The covenants, conditions and
+restrictions shall be recorded for each lot or parcel subject to the application
+for the primary farm dwelling and shall preclude:
+a. All future rights to construct a dwelling except for accessory farm
+dwellings, relative farm assistance dwellings, temporary hardship
+dwellings or replacement dwellings allowed by ORS Chapter 215; and
+b. The use of any gross farm income earned on the lots or parcels to qualify
+another lot or parcel for a primary farm dwelling.
+3. The covenants, conditions and restrictions are irrevocable, unless a
+statement of release is signed by an authorized representative of the county
+or counties where the property subject to the covenants, conditions and
+restrictions is located;
+
+ORD. 45.88 Adopted April 27, 2017
+54-26
+E. Commercial Dairy Farm Standards. A dwelling may be considered customarily
+provided in conjunction with a commercial dairy farm and capable of earning the
+gross annual income requirements by Subsections (B) or (C) above, subject to
+the following requirements:
+1. The subject tract will be employed as a commercial dairy as defined in
+Subsection (7);
+2. The dwelling is sited on the same lot or parcel as the buildings required by
+the commercial dairy;
+3. Except for seasonal farmworker housing approved prior to 2001, there is no
+other dwelling on the subject tract;
+4. The dwelling will be occupied by a person or persons who will be principally
+engaged in the operation of the commercial dairy farm, such as the feeding,
+milking or pasturing of the dairy animals or other farm use activities
+necessary to the operation of the commercial dairy farm;
+5. The building permits, if required, have been issued for and construction has
+begun for the buildings and animal waste facilities required for a commercial
+dairy farm; and
+6. The Oregon Department of Agriculture has approved the following:
+a. A permit for a "confined animal feeding operation" under ORS 468B.050
+and 468B.200 to 468B.230; and
+b. A Producer License for the sale of dairy products under ORS 621.072.
+7. As used in this  Section, "commercial dairy farm" is a dairy operation that
+owns a sufficient number of producing dairy animals capable of earning the
+gross annual income required by  Subsections (B) or (C), whichever is
+applicable, from the sale of fluid milk.
+F. Relocated Farm Operations.  A dwelling may be considered customarily
+provided in conjunction with farm use if:
+
+ORD. 45.88 Adopted April 27, 2017
+54-27
+1. Within the previous two years, the applicant owned and operated a different
+farm or ranch operation that earned the gross farm income in each of the
+last five years or four of the last seven years as required by  Subsection (B)
+or (C), whichever is applicable;
+2. The subject lot or parcel on which the dwelling will be located is:
+a. Currently employed for the farm use that produced in each of the last two
+years or three of the last five years, or in an average of three of the last
+five years the gross farm income required by  Subsection (B) or (C),
+whichever is applicable; and
+b. At least the size of the applicable minimum lot size under Section 54.080;
+3. Except for seasonal farmworker housing approved prior to 2001, there is no
+other dwelling on the subject tract;
+4. The dwelling will be occupied by a person or persons who produced the
+commodities that grossed the income in Subsection (1); and
+5. In determining the gross income required by Subsection (1) and Subsection
+(2):
+a. The cost of purchased livestock shall be deducted from the total gross
+income attributed to the tract; and
+b. Only gross income from land owned, not leased or rented, shall be
+counted.
+G. Farming of a marijuana crop, and the gross sales derived from selling a
+marijuana crop, may not be used to demonstrate compliance with the approval
+criteria for a primary farm dwelling.
+
+ORD. 45.88 Adopted April 27, 2017
+54-28
+54.045 – FARM HELP AND ACCESSORY FARM DWELLINGS
+A. To qualify for a relative farm help dwelling:
+1. A dwelling shall be occupied by relatives whose assist ance in the
+management and farm use of the existing commercial farming operation is
+required by the farm operator. However, farming of a marijuana crop may
+not be used to demonstrate compliance with the approval criteria for a
+relative farm help dwelling. The farm operator shall continue to play the
+predominant role in the management and farm use of the farm.
+2. A relative farm help dwelling must be located on the same lot or parcel as
+the dwelling of the farm operator and must be on real property used for farm
+use.
+B. Accessory farm dwellings  may be considered customarily provided in
+conjunction with farm use if each accessory farm dwelling meets all the following
+requirements:
+1. The accessory farm dwelling will be occupied by a person or persons who
+will be principally engaged in the farm use of the land and whose seasonal
+or year -round assistance in the management of the farm use, such as
+planting, harvesting, marketing or caring for livestock, is or will be required
+by the farm operator;
+2. The accessory farm dwelling will be located:
+a. On the same lot or parcel as the primary farm dwelling;
+b. On the same tract as the primary farm dwelling when the lot or parcel on
+which the accessory farm dwelling will be sited is consolidated into a
+single parcel with all other contiguous lots and parcels in the tract;
+c. On a lot or parcel on which the primary farm dwelling is not located, when
+the accessory farm dwelling is limited to only a manufactured dwelling
+with a deed restriction. The deed restriction shall be filed with the county
+clerk and require the manufactured dwelling to be removed when the lot
+or parcel is conveyed to another party. The manufactured dwelling may
+remain if it is reapproved under these provisions;
+
+ORD. 45.88 Adopted April 27, 2017
+54-29
+d. On any lot or parcel, when the accessory farm dwelling is limited to only
+attached multi-unit residential structures allowed by the applicable state
+building code or similar types of farmworker housing as that existing on
+farm or ranch operations registered with the Department of Consumer
+and Business Services, Oregon Occupational Safety and Health Division
+under ORS 658.750. A county shall require all accessory farm dwellings
+approved under this Subsection to be removed, demolished or converted
+to a nonresidential use when farmworker housing is no longer requi red.
+“Farmworker housing” shall have the meaning set forth in 215.278 and
+not the meaning in 315.163; or
+e. On a lot or parcel on which the primary farm dwelling is not located, when
+the accessory farm dwelling is located on a lot or parcel at least the size
+of the applicable minimum lot size under ORS 215.780 and the lot or
+parcel complies with the gross farm income requirements in OAR 660-
+033-0135(3) or (4), whichever is applicable; and
+3. There is no other dwelling on the lands designated for exclusive farm use
+owned by the farm operator that is vacant or currently occupied by persons
+not working on the subject farm or ranch and that could reasonably be used
+as an accessory farm dwelling.
+C. In addition to the requirements in Subsection (B), the primary farm dw elling to
+which the proposed dwelling would be accessory, meets one of the following:
+1. On land not identified as high- value farmland, the primary farm dwelling is
+located on a farm or ranch operation that is currently employed for farm use,
+as defined in ORS 215.203, on which, in each of the last two years or three
+of the last five years or in an average of three of the last five years, the farm
+operator earned the lower of the following:
+a. At least $40,000 in gross annual income from the sale of farm products.
+In determining the gross income, the cost of purchased livestock shall be
+deducted from the total gross income attributed to the tract; or
+b. Gross annual income of at least the midpoint of the median income range
+of gross annual sales for farms in the county with gross annual sales of
+$10,000 or more according to the 1992 Census of Agriculture, Oregon.
+In determining the gross income, the cost of purchased livestock shall be
+deducted from the total gross income attributed to the tract;
+
+ORD. 45.88 Adopted April 27, 2017
+54-30
+2. On land identified as high- value farmland, the primary farm dwelling is
+located on a farm or ranch operation that is currently employed for farm use,
+as defined in ORS 215.203, on which the farm operator earned at least
+$80,000 in gross annual income from the sale of farm products in each of
+the last two years or three of the last five years or in an average of three of
+the last five years. In determining the gross income, the cost of purchased
+livestock shall be deducted from the total gross income attributed to the tract;
+or
+3. It is located on a commercial dairy farm as defined in Section 54.040(E); and
+a. The building permits, if required, have been issued and construction has
+begun or been completed for the buildings and animal waste facilities
+required for a commercial dairy farm;
+b. The Oregon Department of Agriculture has approved a permit for a
+"confined animal feeding operation" under ORS 468B.050 and 468B.200
+to 468B.230; and
+c. A Producer License for the sale of dairy products under ORS 621.072.
+D. No division of a lot or parcel for an accessory farm dwelling shall be approved
+pursuant to this Subsection. If it is determined that an accessory farm dwelling
+satisfies the requirements of this ordinance, a parcel may be created consistent
+with the minimum parcel size requirements in Subsection 54.080(A).
+E. An accessory farm dwelling approved pursuant to this  Section cannot later be
+used to satisfy the requirements for a dwelling not provided in conjunction with
+farm use pursuant to Subsection 54.010(EE).
+F. For purposes of this Subsection, "accessory farm dwelling" includes all types of
+residential structures allowed by the applicable state building code.
+G. Farming of a marijuana crop shall not be used to demonstrate compliance with
+the approval criteria for an accessory farm dwelling.
+H. No accessory farm dwelling unit may be occupied by a relative of the owner or
+operator of the farmworker housing. “Relative” means a spouse of the owner or
+operator or an ancestor, lineal descendant or whole or half sibling of the owner
+or operator or the spouse of the owner or operator.
+
+ORD. 45.88 Adopted April 27, 2017
+54-31
+54.050 – LOT OF RECORD DWELLINGS
+A. A lot of record dwelling may be approved on a pre-existing lot or parcel if:
+1. The lot or parcel on which the dwelling will be sited was lawfully created and
+was acquired and owned continuously by the present owner as defined in
+Subsection (E):
+a. Since prior to January 1, 1985; or
+b. By devise or by intestate succession from a person who acquired and
+had owned continuously the lot or parcel since prior to January 1, 1985.
+2. The tract on which the dwelling will be sited does not include a dwelling;
+3. The lot or parcel on which the dwelli ng will be sited was part of a tract on
+November 4, 1993, no dwelling exists on another lot or parcel that was part
+of that tract;
+4. The proposed dwelling is not prohibited by, and will comply with, the
+requirements of the acknowledged comprehensive plan an d land use
+regulations and other provisions of law;
+5. The lot or parcel on which the dwelling will be sited is not high-value farmland
+except as provided in Subsections (C) and D; and
+6. When the lot or parcel on which the dwelling will be sited lies within an area
+designated in the comprehensive plan as habitat of big game, the siting of
+the dwelling is consistent with the limitations on density upon which the
+acknowledged comprehensive plan and land use regulations intended to
+protect the habitat are based.
+B. When the lot or parcel on which the dwelling will be sited is part of a tract, the
+remaining portions of the tract are consolidated into a single lot or parcel when
+the dwelling is allowed;
+C. Notwithstanding the requirements of  Subsection 54.050(A)(5), a s ingle-family
+dwelling may be sited on high-value farmland if:
+1. It meets the other requirements of Subsections (A) and (B);
+2. The lot or parcel is protected as high-value farmland as defined in Article 11;
+
+ORD. 45.88 Adopted April 27, 2017
+54-32
+3. The county hearings officer determines that:
+a. The lot or parcel cannot practicably be managed for farm use, by itself or
+in conjunction with other land, due to extraordinary circumstances
+inherent in the land or its physical setting that do not apply generally to
+other land in the vicinity.
+1) For the p urposes of this  Section, this criterion asks whether the
+subject lot or parcel can be physically put to farm use without undue
+hardship or difficulty because of extraordinary circumstances inherent
+in the land or its physical setting. Neither size alone nor a parcel's
+limited economic potential demonstrates that a lot or parcel cannot be
+practicably managed for farm use.
+2) Examples of "extraordinary circumstances inherent in the land or its
+physical setting" include very steep slopes, deep ravines, rivers,
+streams, roads, railroad or utility lines or other similar natural or
+physical barriers that by themselves or in combination separate the
+subject lot or parcel from adjacent agricultural land and prevent it from
+being practicably managed for farm use by its elf or together with
+adjacent or nearby farms.
+3) A lot or parcel that has been put to farm use despite the proximity of
+a natural barrier or since the placement of a physical barrier shall be
+presumed manageable for farm use;
+b. The dwelling will comply with the provisions of 54.035; and
+c. The dwelling will not materially alter the stability of the overall land use
+pattern in the area by applying the standards set forth in Subsection
+54.055(C).
+D. Notwithstanding the requirements of  Subsection 54.050(A)(5), a sing le-family
+dwelling may be sited on high-value farmland if:
+1. It meets the other requirements of Subsections (A) and (B);
+2. The tract on which the dwelling will be sited is:
+a. Not high-value farmland defined in Article 11; and
+
+ORD. 45.88 Adopted April 27, 2017
+54-33
+b. Twenty-one acres or less in size; and
+3. The tract is bordered on at least 67 percent of its perimeter by tracts that are
+smaller than 21 acres, and at least two such tracts had dwellings on January
+1, 1993; or
+4. The tract is not a flaglot and is bordered on at least 25 percent of its perimeter
+by tracts that are smaller than 21 acres, and at least four dwellings existed
+on January 1, 1993, within one-quarter mile of the center of the subject tract.
+Up to two of the four dwellings may lie within an urban growth boundary, but
+only if the subject tract abuts an urban growth boundary; or
+5. The tract is a flaglot and is bordered on at least 25 percent of its perimeter
+by tracts that are smaller than 21 acres, and at least four dwellings existed
+on January 1, 1993, within one-quarter mile of the center of the subject tract
+and on the same side of the public road that provides access to the subject
+tract. The governing body of a county must interpret the center of the subject
+tract as the geographic center of the flag lot if the applicant makes a written
+request for that interpretation and that interpretation does not cause the
+center to be located outside the flag lot. Up to two of the four dwellings may
+lie within an urban growth boundary, but only if the subject tract abuts an
+urban growth boundary:
+a. “Flaglot” means a tract containing a narrow strip or panhandle of land
+providing access from the public road to the rest of the tract.
+b. “Geographic center of the flaglot” means the point of intersection of two
+perpendicular lines of which the first line crosses the midpoint of the
+longest side of a flaglot, at a 90-degree angle to the side, and the second
+line crosses the midpoint of the longest adjacent side of the flaglot.
+E. For purposes of  Subsection (A), “owner” includes the wife, husband, son,
+daughter, mother, father, brother, brother-in-law, sister, sister-in-law, son-in-law,
+daughter-in-law, mother -in-law, father -in-law, aunt, uncle, niece, nephew,
+stepparent, stepchild, grandparent or grandchild of the owner or a business
+entity owned by any one or a combination of these family members;
+F. The county assessor shall be notified that the governing body intends to allow
+the dwelling.
+
+ORD. 45.88 Adopted April 27, 2017
+54-34
+G. An approved single-family dwelling under this Section may be transferred by a
+person who has qualified under this  Section to any other person after the
+effective date of the land use decision.
+H. The county shall provide notice of all applications for lot of record dwellings on
+high value farmland to the State Department of Agriculture.  Notice shall be
+provided in accordance with land use regulations and shall be mailed at least
+20 calendar days prior to the public hearing.
+54.055 – DWELLINGS NOT IN CONJUNCTION WITH FARM USE
+Non-farm dwelling. A non-farm dwelling is subject to the following requirements:
+A. The dwelling or activities associated with the dwelling will not force a significant
+change in or significantly increase the cost of accepted farming or forest
+practices on nearby lands devoted to farm or forest use;
+B. Non-farm dwelling suitability standards.
+1. The dwelling, including essential or accessory improvements or structures,
+is situated upon a lot or parcel, or, in the case of an existing  lot or parcel,
+upon a portion of a lot or parcel, that is generally unsuitable land for the
+production of farm crops and livestock or merchantable tree species,
+considering the terrain, adverse soil or land conditions, drainage and
+flooding, vegetation, location and size of the tract. A  new parcel or portion
+of an existing lot or parcel shall not be considered unsuitable solely because
+of size or location if it can reasonably be put to farm or forest use in
+conjunction with other land; and
+2. A new parcel or portion of an existing lot or parc el is not "generally
+unsuitable" simply because it is too small to be farmed profitably by itself. If
+a parcel or portion of a lot or parcel can be sold, leased, rented or otherwise
+managed as a part of a commercial farm or ranch, then it is not "generally
+unsuitable". A new parcel or portion of an existing lot or parcel is presumed
+to be suitable if it is composed predominantly of Class I -VI soils. Just
+because a new parcel or portion of an existing lot or parcel is unsuitable for
+one farm use does not mean it is not suitable for another farm use; or
+
+ORD. 45.88 Adopted April 27, 2017
+54-35
+3. If the lot or parcel is under forest assessment, the dwelling shall be situated
+upon generally unsuitable land for the production of merchantable tree
+species recognized by the Forest Practices Rules, consider ing the terrain,
+adverse soil or land conditions, drainage and flooding, vegetation, location
+and size of the parcel. If a lot or parcel is under forest assessment, the area
+is not "generally unsuitable" simply because it is too small to be managed
+for for est production profitably by itself. If a lot or parcel under forest
+assessment can be sold, leased, rented or otherwise managed as a part of
+a forestry operation, it is not "generally unsuitable". If a lot or parcel is under
+forest assessment, it is presumed suitable if it is composed predominantly of
+soils capable of producing 20 cubic feet of wood fiber per acre per year. If a
+lot or parcel is under forest assessment, to be found compatible and not
+seriously interfere with forest uses on surrounding land it must not force a
+significant change in forest practices or significantly increase the cost of
+those practices on the surrounding land;
+C. The dwelling will not materially alter the stability of the overall land use pattern
+of the area. In determining whether a proposed nonfarm dwelling will alter the
+stability of the land use pattern in the area, a county shall consider the
+cumulative impact of nonfarm dwellings on other lots or parcels in the area
+similarly situated by applying the standards set forth in (1) through (3) below. If
+the application involves the creation of a new parcel for the nonfarm dwelling, a
+county shall consider whether creation of the parcel will lead to creation of other
+nonfarm parcels, to the detriment of agriculture in the area by  applying the
+standards set forth in (1) through (3) below;
+1. Identify a study area for the cumulative impacts analysis. The study area
+shall include at least 2,000 acres or a smaller area not less than 1000 acres,
+if the smaller area is a distinct agricultural area based on topography, soil
+types, land use pattern, or the type of farm or ranch operations or practices
+that distinguish it from other, adjacent agricultural areas. Findings shall
+describe the study area, its boundaries, the location of the subjec t parcel
+within this area, why the selected area is representative of the land use
+pattern surrounding the subject parcel and is adequate to conduct the
+analysis required by this standard. Lands zoned for rural residential or other
+urban or nonresource uses shall not be included in the study area;
+
+ORD. 45.88 Adopted April 27, 2017
+54-36
+2. Identify within the study area the broad types of farm uses (irrigated or
+nonirrigated crops, pasture or grazing lands), the number, location and type
+of existing dwellings (farm, nonfarm, hardship, etc.), and the dwelling
+development trends since 1993. Determine the potential number of
+nonfarm/lot-of-record dwellings that could be approved under Subsection
+54.050(A) and Section 54.055, including identification of predominant soil
+classifications, the parcels created prior to January 1, 1993 and the parcels
+larger than the minimum lot size that may be divided to create new parcels
+for nonfarm dwellings under ORS 215.263(4). The findings shall describe the
+existing land use pattern of the study area including the di stribution and
+arrangement of existing uses and the land use pattern that could result from
+approval of the possible nonfarm dwellings under this Subsection; and
+3. Determine whether approval of the proposed nonfarm/lot-of-record dwellings
+together with exis ting nonfarm dwellings will materially alter the stability of
+the land use pattern in the area. The stability of the land use pattern will be
+materially altered if the cumulative effect of existing and potential nonfarm
+dwellings will make it more difficult for the existing types of farms in the area
+to continue operation due to diminished opportunities to expand, purchase
+or lease farmland, acquire water rights or diminish the number of tracts or
+acreage in farm use in a manner that will destabilize the overall character of
+the study area; and
+D. If a single -family dwelling is established on a lot or parcel as set forth in
+Subsection 54.010(DD) or 55.020(Q)
+, no additional dwelling may later be sited
+under the provisions of this Section.
+54.060 – ALTERATION, RESTORATION OR REPLACEMENT OF A
+LAWFULLY-ESTABLISHED DWELLING
+A. A lawfully established dwelling may be altered, restored or replaced if, when an
+application for a permit is submitted, the permitting authority finds to its
+satisfaction, based on substantial evidence that:
+1. The dwelling to be altered, restored or replaced has, or formerly had:
+a. Intact exterior walls and roof structure;
+b. Indoor plumbing consisting of a kitchen sink, toilet and bathing facilities
+connected to a sanitary waste disposal system;
+
+ORD. 45.88 Adopted April 27, 2017
+54-37
+c. Interior wiring for interior lights;
+d. A heating system; and
+e. The dwelling was assessed as a dwelling for purposes of ad valorem
+taxation for the previous five property tax years, or, if the dwelling has
+existed for less than five years, from that time.
+2. Notwithstanding Subsection 54.060(A)(1)(e), if the value of the dwelling was
+eliminated as a result of either of the following circumstances, the dwelling
+was assessed as a dwelling until such time as the value of the dwelling was
+eliminated:
+a. The destruction (i.e, by fire or natural hazard), or demolition in the case
+of restoration, of the dwelling; or
+b. The applicant establishes to the satisfaction of the permitting authority
+that the dwelling was improperly removed from the tax roll by a person
+other than the curren t owner. “Improperly removed” means that the
+dwelling has taxable value in its present state, or had taxable value when
+the dwelling was first removed from the tax roll or was destroyed by fire
+or natural hazard, and the county stopped assessing the dwelli ng even
+though the current or former owner did not request removal of the
+dwelling from the tax roll.
+B. For replacement of a lawfully established dwelling under
+Subsection 54.010(GG):
+1. The dwelling to be replaced must be removed, demolished or converted to
+an allowable nonresidential use:
+a. Within one year after the date the replacement dwelling is certified for
+occupancy pursuant to ORS 455.055; or
+b. If the dwelling to be replaced is, in the discretion of the permitting
+authority, in such a state of disrepair that the structure is unsafe for
+occupancy or constitutes an attractive nuisance, on or before a date set
+by the permitting authority that is not  less than 90 days after the
+replacement permit is issued; and
+
+ORD. 45.88 Adopted April 27, 2017
+54-38
+c. If a dwelling is removed by moving it off the subject parcel to another
+location, the applicant must obtain approval from the permitting authority
+for the new location.
+2. The applicant must cause to be recorded in the deed records of the county
+a statement that the dwelling to be replaced has been removed, demolished
+or converted.
+3. As a condition of approval, if the dwelling to be replaced is located on a
+portion of the lot or parcel that is not  zoned for exclusive farm use, the
+applicant shall execute and cause to be recorded in the deed records of the
+county in which the property is located a deed restriction prohibiting the siting
+of another dwelling on that portion of the lot or parcel. The r estriction
+imposed is irrevocable unless the county planning director, or the director’s
+designee, places a statement of release in the deed records of the county to
+the effect that the provisions of 2013 Oregon Laws, chapter 462,  Section 2
+and ORS 215.283 regarding replacement dwellings have changed to allow
+the lawful siting of another dwelling.
+C. A replacement dwelling must comply with applicable building codes, plumbing
+codes, sanitation codes and other requirements relating to health and safety or
+to siting at the time of construction. However, the standards may not be applied
+in a manner that prohibits the siting of the replacement dwelling.
+1. The siting standards of  Subsection (2) apply when a dwelling qualifies for
+replacement because the dwelling:
+a. Formerly had the features described in Subsection 54.060(A)(1);
+b. Was removed from the tax roll as described in Subsection 54.060(A)(2);
+or
+c. Had a permit that expired as described under Subsection 54.060(D)(3).
+2. The replacement dwelling must be sited on the same lot or parcel:
+a. Using all or part of the footprint of the replaced dwelling or near a road,
+ditch, river, property line, forest boundary or another natural boundary of
+the lot or parcel; and
+
+ORD. 45.88 Adopted April 27, 2017
+54-39
+b. If possible, for the purpose of minimizing the adverse impact s on
+resource use of land in the area, within a concentration or cluster of
+structures or within 500 yards of another structure.
+3. Replacement dwellings that currently have the features described in
+Subsection 54.060(A)(1) and that have been on the tax roll  as described in
+Subsection 54.060(A)(2) may be sited on any part of the same lot or parcel.
+D. A replacement dwelling permit that is issued under 54.010(GG):
+1. Is a land use decision as defined in ORS 197.015 where the dwelling to be
+replaced:
+a. Formerly had the features described in Subsection 54.060(A)(1); or
+b. Was removed from the tax roll as described in Subsection 54.060(A)(2);
+2. Is not subject to the time to act limits of ORS 215.417; and
+3. If expired before January 1, 2014, shall be deemed to be valid and effective
+if, before January 1, 2015, the holder of the permit:
+a. Removes, demolishes or converts to an allowable nonresidential use the
+dwelling to be replaced; and
+b. Causes to be recorded in the deed records of the county a statement that
+the dwelling to be replaced has been removed, demolished or converted.
+54.065 – WINERIES
+A. A winery may be established as a permitted use if the proposed winery will
+produce wine with a maximum annual production of:
+1. Less than 50,000 gallons and the winery owner:
+a. Owns an on-site vineyard of at least 15 acres;
+b. Owns a contiguous vineyard of at least 15 acres;
+c. Has a long -term contract for the purchase of all of the grapes from at
+least 15 acres of a vineyard contiguous to the winery; or
+
+ORD. 45.88 Adopted April 27, 2017
+54-40
+d. Obtains grapes from any combination of Subsection (a), (b), or (c); or
+2. At least 50,000 gallons and the winery owner:
+a. Owns an on-site vineyard of at least 40 acres;
+b. Owns a contiguous vineyard of at least 40 acres;
+c. Has a long -term contract for the purchase of all of the grapes from at
+least 40 acres of a vineyard contiguous to the winery;
+d. Owns an on- site vineyard of at least 15 acres on a tract of at least 40
+acres and owns at least 40 additional acres of vineyards in Oregon that
+are located within 15 miles of the winery site; or
+e. Obtains grapes from any combination of Subsection (a), (b), (c) or (d).
+B. In addition to producing and distributing wine, a winery established under this
+Section may:
+1. Market and sell wine produced in conjunction with the winery.
+2. Conduct operations that are directly related to the sale or marketing of wine
+produced in conjunction with the winery, including:
+a. Wine tastings in a tasting room or other location on the premises
+occupied by the winery;
+b. Wine club activities;
+c. Winemaker luncheons and dinners;
+d. Winery and vineyard tours;
+e. Meetings or business activities with winery suppliers, distributors,
+wholesale customers and wine-industry members;
+f. Winery staff activities;
+g. Open house promotions of wine produced in conjunction with the winery;
+and
+
+ORD. 45.88 Adopted April 27, 2017
+54-41
+h. Similar activities conducted for the pr imary purpose of promoting wine
+produced in conjunction with the winery.
+3. Market and sell items directly related to the sale or promotion of wine
+produced in conjunction with the winery, the marketing and sale of which is
+incidental to on-site retail sale of wine, including food and beverages:
+a. Required to be made available in conjunction with the consumption of
+wine on the premises by the Liquor Control Act or rules adopted under
+the Liquor Control Act; or
+b. Served in conjunction with an activity authorized by  Subsection
+54.065(B)(2), (4), or (5).
+4. Carry out agri-tourism or other commercial events on the tract occupied by
+the winery subject to Subsections (E).
+5. Host charitable activities for which the winery does not charge a facility rental
+fee.
+C. A winery may include on- site kitchen facilities licensed by the Oregon Health
+Authority under ORS 624.010 to 624.121 for the preparation of food and
+beverages described in Subsection 54.065(B)(3). Food and beverage services
+authorized under Subsection 54.065(B)(3) may not utilize menu options or meal
+services that cause the kitchen facilities to function as a café or other dining
+establishment open to the public.
+D. The gross income of the winery from the sale of incidental items or services
+provided pursuant to Subsection 54.065(B)(3) to 5 may not exceed 25 percent
+of the gross income from the on-site retail sale of wine produced in conjunction
+with the winery. The gross income of a winery does not include income received
+by third parties unaffiliated with the winery. At t he request of the county, the
+winery shall submit to the county  a written statement that is prepared by a
+certified public accountant and certifies the compliance of the winery with this
+Subsection for the previous tax year.
+
+ORD. 45.88 Adopted April 27, 2017
+54-42
+E. A winery may carry out up to 18 days of agri-tourism or other commercial events
+annually on the tract occupied by the winery.  If a winery conducts agri -tourism
+or other commercial events authorized under this  Section, the winery may not
+conduct agri -tourism or other commercial events or activities authorized by
+Subsections 54.070(A) to (D). The requirements of the Agri-tourism permit must
+be met.
+F. A winery operating under this  Section shall provide parking for all activities or
+uses of the lot, parcel or tract on which the winery is established.
+G. Events described in 54.065(E) are subject to the requirements of Section
+54.070(H), Agri-Tourism and other Commercial Events or Activities permit.
+H. Prior to the issuance of a permit to establish a winery under  Subsection
+54.065(A), the applicant shall show that vineyards described in Subsection
+54.065(A) have been planted or that the contract has been executed, as
+applicable.
+I. Standards imposed on  the siting of a winery shall be limited solely to each of
+the following for the sole purpose of limiting demonstrated conflicts with
+accepted farming or forest practices on adjacent lands:
+1. Establishment of a setback of at least 100 feet from all property lines for the
+winery and all public gathering places unless the local government grants an
+adjustment or variance allowing a setback of less than 100 feet; and
+2. Provision of direct road access and internal circulation.
+J. In addition to a winery permitted in Subsections 54.065(A) to 54.065(I), a winery
+may be established if:
+1. The winery owns and is sited on a tract of 80 acres or more, at least 50 acres
+of which is a vineyard;
+2. The winery owns at least 80 additional acres of planted vineyards in Oregon
+that need not be contiguous to the acreage described in Subsection
+54.065(J)(1); and
+3. The winery has produced annually, at the same or a different location, at
+least 150,000 gallons of wine in at least three of the five calendar years
+before the winery is established under this Subsection.
+
+ORD. 45.88 Adopted April 27, 2017
+54-43
+K. In addition to producing and distributing wine, a winery described in Subsection
+54.065(J) may:
+1. Market and sell wine produced in conjunction with the winery;
+2. Conduct operations that are directly related to the sale or marketing of wine
+produced in conjunction with the winery, including:
+a. Wine tastings in a tasting room or other location on the premises
+occupied by the winery;
+b. Wine club activities;
+c. Winemaker luncheons and dinners;
+d. Winery and vineyard tours;
+e. Meetings or business activit ies with winery suppliers, distributors,
+wholesale customers and wine-industry members;
+f. Winery staff activities;
+g. Open house promotions of wine produced in conjunction with the winery;
+and
+h. Similar activities conducted for the primary purpose of promoting wi ne
+produced in conjunction with the winery;
+3. Market and sell items directly related to the sale or promotion of wine
+produced in conjunction with the winery, the marketing and sale of which is
+incidental to retail sale of wine on-site, including food and beverages:
+a. Required to be made available in conjunction with the consumption of
+wine on the premises by the Liquor Control Act or rules adopted under
+the Liquor Control Act; or
+b. Served in conjunction with an activity authorized by  Subsection
+54.065(K)(2)(b) (d), or (e);
+4. Provide services, including agri-tourism or other commercial events, hosted
+by the winery or patrons of the winery, at which wine produced in conjunction
+with the winery is featured, that:
+
+ORD. 45.88 Adopted April 27, 2017
+54-44
+a. Are directly related to the sale or promotion of wine produced in
+conjunction with the winery;
+b. Are incidental to the retail sale of wine on-site; and
+c. Are limited to 25 days or fewer in a calendar year; and
+d. Host charitable activities for which the winery does not charge a facility
+rental fee.
+L. Income requirements:
+1. The gross income of the winery from the sale of incidental items pursuant to
+Subsection 54.065(K)(3) and services provided pursuant to Subsection
+54.065(K)(4) may not exceed 25 percent of the gross income from the on-
+site retail sale of wine produced in conjunction with the winery.
+2. At the request of a local government with land use jurisdiction over the site
+of a winery, the winery shall submit to the local government a written
+statement, prepared by a certified public accountant, that certif ies
+compliance with Subsection (1) for the previous tax year.
+M. A winery permitted under Subsection (J):
+1. Shall provide parking for all activities or uses of the lot, parcel or tract on
+which the winery is established.
+2. May operate a restaurant, as defined in ORS 624.010, in which food is
+prepared for consumption on the premises of the winery.
+N. Permit requirements:
+1. A winery shall obtain a permit if the winery operates a restaurant that is open
+to the public for more than 25 days in a calendar year or provides for agri -
+tourism or other commercial events authorized under  Subsection
+54.065(K)(4) occurring on more than 25 days in a calendar year.
+2. In addition to any other requirements, a local government may approve a
+permit application under this  Subsection if the l ocal government finds that
+the authorized activity:
+a. Complies with the standards described in Subsections 54.035(A) and (B);
+
+ORD. 45.88 Adopted April 27, 2017
+54-45
+b. Is incidental and subordinate to the retail sale of wine produced in
+conjunction with the winery; and
+c. Does not materially alter the stability of the land use pattern in the area.
+3. If the local government issues a permit under this Subsection for agri-tourism
+or other commercial events, the local government shall review the permit at
+least once every five years and, if appropriate, may renew the permit.
+O. A person may not have a substantial ownership interest in more than one winery
+operating a restaurant, as permitted in Subsection (M).
+P. Prior to the issuance of a permit to establish a winery under Subsection (J), the
+applicant shall show that vineyards described in Subsection (J) have been
+planted.
+Q. A winery operating under Subsection (J) shall provide for:
+1. Establishment of a setback of at least 100 feet from all property lines for the
+winery and all public gathering places; and
+2. Direct road access and internal circulation.
+R. A winery operating under  Subsection 54.065(J) may receive a permit to host
+outdoor concerts for which admission is charged, facility rentals or celebratory
+events if the winery received a permit in similar circumstances before August 2,
+2011.
+S. As used in this Section:
+1. “Agri-tourism or other commercial events” includes outdoor concerts for
+which admission is charged, educational, cultural, health or lifestyle events,
+facility rentals, celebratory gatherings and other events at which the
+promotion of wine produced in conjunction with the winery is a secondary
+purpose of the event.
+2. “On-site retail sale” includes the retail sale of wine in person at the winery
+site, through a wine club or over the Internet or telephone.
+
+ORD. 45.88 Adopted April 27, 2017
+54-46
+54.070 – AGRI-TOURISM AND OTHER COMMERCIAL EVENTS
+The following agri-tourism and other commercial events or activities that are related
+to and supportive of agriculture may be established:
+A. A single agri -tourism or other commercial event or activity on a tract in a
+calendar year that is personal to the applicant and is not transferred by, or
+transferable with, a conveyance of the tract, if the agri -tourism or other
+commercial event or activity meets any local standards that apply and:
+1. The agri -tourism or other commercial event or activity is incidental and
+subordinate to existing farm use on the tract;
+2. The duration of the agri -tourism or other commercial event or activity does
+not exceed 72 consecutive hours;
+3. The maximum attendance at the agri -tourism or other commercial event or
+activity does not exceed 500 people;
+4. The maximum number of motor vehicles parked at the site of the agri-tourism
+or other commercial event or activity does not exceed 250 vehicles;
+5. The agri -tourism or other commercial event or activity complies with the
+standards described in Subsections 54.035(A) and (B);
+6. The agri-tourism or other commercial event or activity occurs outdoors, in
+temporary structures, or in existing permitted structures, subject to health
+and fire and life safety requirements; and
+7. The agri -tourism or other commercial event or activity complies with
+conditions established for:
+a. Access, egress and parking consistent with Articles 68 and 71;
+b. A traffic management pl an that identifies the projected number of
+vehicles and any anticipated use of public roads  consistent with Article
+71:
+c. Sanitation and solid waste  consistent with Articles 74 and 75; and
+d. Must comply with the requirements in 54.070(B).
+
+ORD. 45.88 Adopted April 27, 2017
+54-47
+B. In the alternative to Subsections (A) and (C), the county may authorize, through
+an expedited, single- event license, a single agri -tourism or other commercial
+event or activity on a tract in a calendar year by an expedited, single- event
+license that is personal to the applicant and is not transferred by, or transferable
+with, a conveyance of the tract. A decision concerning an expedited, single-
+event license is not a land use decision, as defined in ORS 197.015. To approve
+an expedited, single- event license, the governing body of a county or its
+designee must determine that the proposed agri -tourism or other commercial
+event or activity meets any local standards that apply, and the agri -tourism or
+other commercial event or activity:
+1. Must be incidental and subordinate to existing farm use on the tract;
+2. May not begin before 6 a.m. or end after 10 p.m.;
+3. May not involve more than 100 attendees or 50 vehicles;
+4. May not include the artificial amplification of music or voices before 8 a.m.
+or after 8 p.m.;
+5. May not require or involve the construction or use of a new permanent
+structure in connection with the agri -tourism or other commercial event or
+activity;
+6. Must be located on a tract of at least 10 acres unless the owners or residents
+of adjoining properties consent, in writing, to the location; and
+7. Must comply with applicable health and fire and life safety requirements.
+C. In the alternative to Subsections (A) and (B), the county may authorize up to six
+agri-tourism or other commercial events or activities on a tract in a calendar year
+by a limited use permit that is personal to the applicant and is not transferred
+by, or transferable with, a conveyance of the tract. The agri -tourism or other
+commercial events or activities must meet any local standards that apply, and
+the agri-tourism or other commercial events or activities:
+1. Must be incidental and subordinate to existing farm use on the tract;
+2. May not, individually, exceed a duration of 72 consecutive hours;
+
+ORD. 45.88 Adopted April 27, 2017
+54-48
+3. May not require that a new permanent structure be built, used or occupied
+in connection with the agri-tourism or other commercial events or activities;
+4. Must comply with the standards described in Subsections 54.035(A) and (B);
+5. May not, in combination with other agri-tourism or other commercial events
+or activities authorized in the area, materially alter the stability of the land
+use pattern in the area; and
+6. Must comply with conditions established for:
+a. The types of agri-tourism or other commercial events or activities that are
+authorized during each calendar year, including the number and duration
+of the agri -tourism or other commercial events and activities, the
+anticipated daily attendance and the hours of operation;
+b. The location of existing structures and the location of proposed
+temporary structures to be used in connection with the agri -tourism or
+other commercial events or activities;
+c. The location of access and egress and parking facilities to be used in
+connection with the agri-tourism or other commercial events or activities;
+d. Traffic management, including the projected number of vehicles and any
+anticipated use of public roads; and
+e. Sanitation and solid waste
+f. Must comply with the requirements of 54.070(H)
+7. A permit authorized by this Subsection shall be valid for two calendar years.
+When considering an application for renewal, the county shall ensure
+compliance with the provisions of  Subsection (C), any local standards that
+apply and conditions that apply to the permi t or to the agri -tourism or other
+commercial events or activities authorized by the permit.
+D. In addition to Subsections (A) to (C), the county may authorize agri -tourism or
+other commercial events or activities that occur more frequently or for a longer
+period or that do not otherwise comply with Subsections ( A) to (C) if the agri -
+tourism or other commercial events or activities comply with any local standards
+that apply and the agri-tourism or other commercial events or activities:
+
+ORD. 45.88 Adopted April 27, 2017
+54-49
+1. Are incidental and subordinate to existing commercial farm use of the tract
+and are necessary to support the commercial farm uses or the commercial
+agricultural enterprises in the area;
+2. Comply with the requirements of 54.070(C)(3), (4), (5), and (6);
+3. Occur on a lot or parcel that complies with the acknowledged minimum lot
+or parcel size; and
+4. Do not exceed 18 events or activities in a calendar year.
+E. A holder of a permit authorized by a county under Subsection (D) must request
+review of the permit at four-year intervals. Upon receipt of a request for review,
+the county shall:
+1. Provide public notice and an opportunity for public comment as part of the
+review process; and
+2. Limit its review to events and activities authorized by the permit,
+conformance with conditions of approval required by the permit and the
+standards established by Subsection (D).
+F. Temporary structures established in connection with agri -tourism or other
+commercial events or activities may be permitted. The temporary structures
+must be removed at the end of the agri -tourism or other event or activity.
+Alteration to the land in connection with an agri -tourism or other commercial
+event or activity including, but not limited to, grading, filling or paving, are not
+permitted.
+G. The authorizations provided by  Section are in addit ion to other authorizations
+that may be provided by law, except that “outdoor mass gathering” and “other
+gathering,” as those terms are used in ORS 197.015 (10)(d), do not include agri-
+tourism or other commercial events and activities.
+H. Conditions of Approv al. Agri -tourism and other commercial events permitted
+under Subsections ( C) and (D) are subject to the following  standards and
+criteria:.
+1. A permit application for an agri-tourism or other commercial event or activity
+shall include the following:
+
+ORD. 45.88 Adopted April 27, 2017
+54-50
+a. A description of the type of agri-tourism or commercial events or activities
+that are proposed, including the number and duration of the events and
+activities, the anticipated daily attendance and the hours of operation
+and, for events not held at wineries, how the agri -tourism and other
+commercial events or activities will be related to and supportive of
+agriculture and incidental and subordinate to the existing farm use of the
+tract.
+b. The types and locations of all existing and  proposed temporary
+structures, acce ss and egress, parking facilities, sanitation and solid
+waste facilities to be used in connection with the agri -tourism or other
+commercial events or activities;
+c. Authorization to allow inspection of the event premises. The applicant
+shall provide in writing a consent to allow law enforcement, public health,
+and fire control officers and code enforcement staff to come upon the
+premises for which the permit has been granted for the purposes of
+inspection and enforcement of the terms and conditions of the permit and
+the Exclusive Farm Use Zone and any other applicable laws or
+ordinances.
+2. Approval Criteria.
+a. The area in which the agri -tourism or other commercial events or
+activities are located shall be setback at least 100 feet from the property
+line.
+b. No more than two agri -tourism or commercial events or activities may
+occur in one month.
+c. The maximum number of people shall not exceed 500 per calendar day.
+d. Noise Control:
+1) All noise, including the use of a sound producing device such as, but
+not limited t o, loud speakers and public address systems, musical
+instruments that are amplified or unamplified, shall be in compliance
+with applicable state regulations.
+
+ORD. 45.88 Adopted April 27, 2017
+54-51
+2) A standard sound level meter or equivalent, in good condition, that
+provides a weighted sound pres sure level measured by use of a
+metering characteristic with an "A" frequency weighting network and
+reported as dBA shall be available on- site at all times during agri -
+tourism and other commercial events or activities.
+e. Transportation Management
+1) Adequate traffic control must be provided by the property owner and
+must include one traffic control person for each 250 persons expected
+or reasonably expected to be in attendance at any time. All traffic
+control personnel shall be certified by the State of Oregon and shall
+comply with the current edition of the Manual of Uniform Traffic
+Control Devices.
+2) Adequate off-street parking will be provided pursuant to provisions of
+the Article 68.
+f. Health and Safety Compliance
+1) Sanitation facilities shall include, at a minimum , portable restroom
+facilities and stand-alone hand washing stations.
+2) All permanent and temporary structures and facilities are subject to
+fire, health and life safety requirements, and shall comply with all
+requirements of the County Building  Department any other applicable
+federal, state and local laws.
+3) Compliance with the requirements of the County Building Department
+shall include meeting all building occupancy classification
+requirements of the State of Oregon adopted building code.
+54.075 – COMMERCIAL FACILITIES FOR GENERATING POWER
+A. Commercial Power Generating Facility.
+1. Permanent features of a power generation facility shall not preclude more
+than:
+
+ORD. 45.88 Adopted April 27, 2017
+54-52
+a. 12 acres from use as a commercial agricultural enterprise on high value
+farmland unless an exception is tak en pursuant to ORS 197.732 and
+OAR chapter 660, division 4; or
+b. 20 acres from use as a commercial agricultural enterprise on land other
+than high-value farmland unless an exception is taken pursuant to ORS
+197.732 and OAR chapter 660, division 4.
+2. A power generation facility may include on -site and off -site facilities for
+temporary workforce housing for workers constructing a power generation
+facility. Such facilities must be removed or converted to an allowed use under
+OAR 660-033-0130(19) or other statute or rule when project construction is
+complete. Temporary workforce housing facilities not included in the initial
+approval may be considered through a minor amendment request. A minor
+amendment request shall be subject to 660- 033-0130(5) and shall have no
+effect on the original approval.
+B. Wind Power Generation Facility.
+1. For purposes of this ordinance a wind power generation facility includes, but
+is not limited to, the following system components: all wind turbine towers
+and concrete pads, permanent meteorological towers and wind
+measurement devices, electrical cable collection systems connecting wind
+turbine towers with the relevant power substation, new or expanded private
+roads (whether temporary or permanent) constructed to serve the wind
+power generation facility, office and operation and maintenance buildings,
+temporary lay-down areas and all other necessary appurtenances, including
+but not limited to on -site and off -site facilities for temporary workforce
+housing for workers constructing a wind power generation facility.
+a. Temporary workforce housing described in Subsection 54.075(A)(2)
+must be removed or converted to an allowed use under OAR 660 -033-
+0130(19) or other statute or rule when project construction is complete.
+b. Temporary workforce housing facilities not included in the initial approval
+may be considered through a minor amendment request filed after a
+decision to approve a power generation facility. A minor amendment
+request shall be subject to 660 -033-0130(5) and shall have no effect on
+the original approval.
+
+ORD. 45.88 Adopted April 27, 2017
+54-53
+2. For wind power generation facility proposals on high-value farmland soils, as
+described at ORS 195.300(10), the governing body or its designate must find
+that all of the following are satisfied:
+a. Reasonable alternatives have been consider ed to show that siting the
+wind power generation facility or component thereof on high- value
+farmland soils is necessary for the facility or component to function
+properly or if a road system or turbine string must be placed on such soils
+to achieve a reasonably direct route considering the following factors:
+1) Technical and engineering feasibility;
+2) Availability of existing rights of way; and
+3) The long- term environmental, economic, social and energy
+consequences of siting the facility or component on alternative sites,
+as determined under Subsection (b);
+b. The long- term environmental, economic, social and energy
+consequences resulting from the wind power generation facility or any
+components thereof at the proposed site with measures designed to
+reduce adverse impacts are not significantly more adverse than would
+typically result from the same proposal being located on other agricultural
+lands that do not include high-value farmland soils;
+c. Costs associated with any of the factors listed in Subsection (a) may be
+considered, but costs alone may not be the only consideration in
+determining that siting any component of a wind power generation facility
+on high-value farmland soils is necessary;
+d. The owner of a wind power generation facility approved under
+Subsection (2) shall be responsible for restoring, as nearly as possible,
+to its former condition any agricultural land and associated improvements
+that are damaged or otherwise disturbed by the siting, maintenance,
+repair or reconstruction of the facility. Not hing in this  Subsection shall
+prevent the owner of the facility from requiring a bond or other security
+from a contractor or otherwise imposing on a contractor the responsibility
+for restoration; and
+e. The criteria of Subsection (3) are satisfied.
+
+ORD. 45.88 Adopted April 27, 2017
+54-54
+3. For wind power generation facility proposals on arable lands, meaning lands
+that are cultivated or suitable for cultivation, including high- value farmland
+soils described at ORS 195.300(10), the governing body or its designate
+must find that:
+a. The proposed wind po wer facility will not create unnecessary negative
+impacts on agricultural operations conducted on the subject property.
+Negative impacts could include, but are not limited to, the unnecessary
+construction of roads, dividing a field or multiple fields in such a way that
+creates small or isolated pieces of property that are more difficult to farm,
+and placing wind farm components such as meteorological towers on
+lands in a manner that could disrupt common and accepted farming
+practices;
+b. The presence of a proposed wind power facility will not result in
+unnecessary soil erosion or loss that could limit agricultural productivity
+on the subject property. This provision may be satisfied by the submittal
+and county approval of a soil and erosion control plan prepar ed by an
+adequately qualified individual, showing how unnecessary soil erosion
+will be avoided or remedied and how topsoil will be stripped, stockpiled
+and clearly marked. The approved plan shall be attached to the decision
+as a condition of approval;
+c. Construction or maintenance activities will not result in unnecessary soil
+compaction that reduces the productivity of soil for crop production. This
+provision may be satisfied by the submittal and county approval of a plan
+prepared by an adequately qualified individual, showing how
+unnecessary soil compaction will be avoided or remedied in a timely
+manner through deep soil decompaction or other appropriate practices.
+The approved plan shall be attached to the decision as a condition of
+approval; and
+d. Construction or maintenance activities will not result in the unabated
+introduction or spread of noxious weeds and other undesirable weeds
+species. This provision may be satisfied by the submittal and county
+approval of a weed control plan prepared by an adequately  qualified
+individual that includes a long -term maintenance agreement. The
+approved plan shall be attached to the decision as a condition of
+approval.
+
+ORD. 45.88 Adopted April 27, 2017
+54-55
+4. For wind power generation facility proposals on nonarable lands, meaning
+lands that are not suitable for  cultivation, the requirements of  Subsection
+54.075(B)(3)(d) are satisfied.
+5. In the event that a wind power generation facility is proposed on a
+combination of arable and nonarable lands as described in Subsections (3)
+and (4), the approval criteria of  Subsection (3) shall apply to the entire
+project.
+C. Photovoltaic Solar Power Generation Facility. A proposal to site a photovoltaic
+solar power generation facility shall be subject to the following definitions and
+provisions:
+1. “Arable land” means land in a tract that is predominantly cultivated or, if not
+currently cultivated, predominantly comprised of arable soils.
+2. “Arable soils” means soils that are suitable for cultivation as determined by
+the governing body or its designate based on substantial evidence in the
+record of a local land use application, but “arable soils” does not include high-
+value farmland soils described at ORS 195.300(10) unless otherwise stated.
+3. “Nonarable land” means land in a tract that is predominantly not cultivated
+and predominantly comprised of nonarable soils.
+4. “Nonarable soils” means soils that are not suitable for cultivation. Soils with
+an NRCS agricultural capability class V–VIII and no history of irrigation shall
+be considered nonarable in all cases. The governing body or its designate
+may determine other soils, including soils with a past history of irrigation, to
+be nonarable based on substantial evidence in the record of a local land use
+application.
+
+ORD. 45.88 Adopted April 27, 2017
+54-56
+5. “Photovoltaic solar power generation facility” includes, but is not limited to,
+an assembly of equipment that converts sunlight into electricity and then
+stores, transfers, or both, that electricity. This includes photovoltaic modules,
+mounting and solar tracking equipment, foundations, inverters, wiring,
+storage devices and other components. Photovoltaic solar power generation
+facilities also include electrical cable collection systems connecting the
+photovoltaic solar generation facility to a transmission line, all necessary grid
+integration equipment, new or expanded private roads constructed to serve
+the photovoltaic solar power generation facility, office, operation and
+maintenance buildings, staging areas and all other necessary
+appurtenances. For purposes of applying the acreage standards of this
+Section, a photovoltaic solar  power generation facility includes all existing
+and proposed facilities on a single tract, as well as any existing and proposed
+facilities determined to be under common ownership on lands with fewer
+than 1320 feet of separation from the tract on which the new facility is
+proposed to be sited. Projects connected to the same parent company or
+individuals shall be considered to be in common ownership, regardless of
+the operating business structure. A photovoltaic solar power generation
+facility does not include a net metering project established consistent with
+ORS 757.300 and OAR chapter 860, division 39 or a Feed- in-Tariff project
+established consistent with ORS 757.365 and OAR chapter 860, division 84.
+6. For high-value farmland described at ORS 195.300(10), a photovoltaic solar
+power generation facility shall not preclude more than 12 acres from use as
+a commercial agricultural enterprise unless an exception is taken pursuant
+to ORS 197.732 and OAR chapter 660, division 4. The governing body or its
+designate must find that:
+a. The proposed photovoltaic solar power generation facility will not create
+unnecessary negative impacts on agricultural operations conducted on
+any portion of the subject property not occupied by project components.
+Negative impacts could i nclude, but are not limited to, the unnecessary
+construction of roads dividing a field or multiple fields in such a way that
+creates small or isolated pieces of property that are more difficult to farm,
+and placing photovoltaic solar power generation facil ity project
+components on lands in a manner that could disrupt common and
+accepted farming practices;
+
+ORD. 45.88 Adopted April 27, 2017
+54-57
+b. The presence of a photovoltaic solar power generation facility will not
+result in unnecessary soil erosion or loss that could limit agricultural
+productivity on the subject property. This provision may be satisfied by
+the submittal and county approval of a soil and erosion control plan
+prepared by an adequately qualified individual, showing how
+unnecessary soil erosion will be avoided or remedied and how topsoil will
+be stripped, stockpiled and clearly marked. The approved plan shall be
+attached to the decision as a condition of approval;
+c. Construction or maintenance activities will not result in unnecessary soil
+compaction that reduces the productivity of soil for crop production. This
+provision may be satisfied by the submittal and county approval of a plan
+prepared by an adequately qualified individual, showing how
+unnecessary soil compaction will be avoided or remedied in a timely
+manner through deep soi l decompaction or other appropriate practices.
+The approved plan shall be attached to the decision as a condition of
+approval;
+d. Construction or maintenance activities will not result in the unabated
+introduction or spread of noxious weeds and other undesir able weed
+species. This provision may be satisfied by the submittal and county
+approval of a weed control plan prepared by an adequately qualified
+individual that includes a long -term maintenance agreement. The
+approved plan shall be attached to the decisi on as a condition of
+approval;
+e. The project is not located on high- value farmland soils unless it can be
+demonstrated that:
+1) Non high-value farmland soils are not available on the subject tract;
+2) Siting the project on non high- value farmland soils present on the
+subject tract would significantly reduce the project’s ability to operate
+successfully; or
+3) The proposed site is better suited to allow continuation of an existing
+commercial farm or ranching operation on the subject tract than other
+possible sites also located on the subject tract, including those
+comprised of non high-value farmland soils; and
+
+ORD. 45.88 Adopted April 27, 2017
+54-58
+f. A study area consisting of lands zoned for exclusive farm use located
+within one mile measured from the center of the proposed project shall
+be established and:
+1) If fewer than 48 acres of photovoltaic solar power generation facilities
+have been constructed or received land use approvals and obtained
+building permits within the study area, no further action is necessary.
+2) When at least 48 acres of photovoltaic solar power generation have
+been constructed or received land use approvals and obtained
+building permits, either as a single project or as multiple facilities
+within the study area, the local government or its designate must find
+that the photovoltaic solar energy generation facility will not materially
+alter the stability of the overall land use pattern of the area. The
+stability of the land use pattern will be materially altered if the overall
+effect of existing and potenti al photovoltaic solar energy generation
+facilities will make it more difficult for the existing farms and ranches
+in the area to continue operation due to diminished opportunities to
+expand, purchase or lease farmland or acquire water rights, or will
+reduce the number of tracts or acreage in farm use in a manner that
+will destabilize the overall character of the study area.
+7. For arable lands, a photovoltaic solar power generation facility shall not
+preclude more than 20 acres from use as a commercial agricultural
+enterprise unless an exception is taken pursuant to ORS 197.732 and OAR
+chapter 660, division 4. The governing body or its designate must find that:
+a. The project is not located on high- value farmland soils or arable soils
+unless it can be demonstrated that:
+1) Nonarable soils are not available on the subject tract;
+2) Siting the project on nonarable soils present on the subject tract would
+significantly reduce the project’s ability to operate successfully; or
+3) The proposed site is better suited to allow continuation of an existing
+commercial farm or ranching operation on the subject tract than other
+possible sites also located on the subject tract, including those
+comprised of nonarable soils;
+
+ORD. 45.88 Adopted April 27, 2017
+54-59
+b. No more than 12 acres of the project will be sited on high-value farmland
+soils described at ORS 195.300(10) unless an exception is taken
+pursuant to 197.732 and OAR chapter 660, division 4;
+c. A study area consisting of lands zoned for exclusive farm use located
+within one mile measured from the center of the propose d project shall
+be established and:
+1) If fewer than 80 acres of photovoltaic solar power generation facilities
+have been constructed or received land use approvals and obtained
+building permits within the study area no further action is necessary.
+2) When at least 80 acres of photovoltaic solar power generation have
+been constructed or received land use approvals and obtained
+building permits, either as a single project or as multiple facilities,
+within the study area the local government or its designate must  find
+that the photovoltaic solar energy generation facility will not materially
+alter the stability of the overall land use pattern of the area. The
+stability of the land use pattern will be materially altered if the overall
+effect of existing and potenti al photovoltaic solar energy generation
+facilities will make it more difficult for the existing farms and ranches
+in the area to continue operation due to diminished opportunities to
+expand, purchase or lease farmland, acquire water rights or diminish
+the number of tracts or acreage in farm use in a manner that will
+destabilize the overall character of the study area; and
+d. The requirements of  Subsections 54.075(C)(6)(a), (b), (c), and ( d) are
+satisfied.
+8. For nonarable lands, a photovoltaic solar power generation facility
+shall not preclude more than 320 acres from use as a commercial
+agricultural enterprise unless an exception is taken pursuant to
+ORS 197.732 and OAR chapter 660, division 4. The governing body
+or its designate must find that:
+a. The project is not located on high- value farmland soils or arable soils
+unless it can be demonstrated that:
+1) Siting the project on nonarable soils present on the subject tract would
+significantly reduce the project’s ability to operate successfully; or
+
+ORD. 45.88 Adopted April 27, 2017
+54-60
+2) The proposed site is better suited to allow continuation of an existing
+commercial farm or ranching operation on the subject tract as
+compared to other possible sites also located on the subject tract,
+including sites that are comprised of nonarable soils;
+b. No more than 12 acres of the project will be sited on high-value farmland
+soils described at ORS 195.300(10);
+c. No more than 20 acres of the project will be sited on arable soils unless
+an exception is taken pursuant to ORS 197.732 and OAR chapter 660,
+division 4;
+d. The requirements of Subsection 54.075(C)(6)(d) are satisfied;
+e. If a photovoltaic solar power generation facility is proposed to be
+developed on lands that contain a Goal 5 resource protected under the
+county's comprehensive plan, and the plan does not address conflicts
+between energy facility development and the resource, the applicant and
+the county, together with any state or federal agency responsible for
+protecting the resource or habitat supporting the resource, will
+cooperatively develop a specific resource management plan to mitigate
+potential development conflicts. If there is no program present to protect
+the listed Goal 5 resource(s) present in the local comprehensive plan or
+implementing ordinances and the applicant and the appropriate resource
+management agency(ies) cannot successfully agree on a cooperative
+resource management plan, the county is responsible for determining
+appropriate mitigation measures; and
+
+ORD. 45.88 Adopted April 27, 2017
+54-61
+f. If a proposed photovoltaic solar power generation f acility is located on
+lands where the potential exists for adverse effects to state or federal
+special status species (threatened, endangered, candidate, or sensitive),
+or to wildlife species of concern identified and mapped by the Oregon
+Department of Fis h and Wildlife (including big game winter range and
+migration corridors, golden eagle and prairie falcon nest sites, and pigeon
+springs), the applicant shall conduct a site- specific assessment of the
+subject property in consultation with all appropriate st ate, federal, and
+tribal wildlife management agencies. A professional biologist shall
+conduct the site- specific assessment by using methodologies accepted
+by the appropriate wildlife management agency and shall determine
+whether adverse effects to special status species or wildlife species of
+concern are anticipated. Based on the results of the biologist’s report, the
+site shall be designed to avoid adverse effects to state or federal special
+status species or to wildlife species of concern as described above. If the
+applicant’s site-specific assessment shows that adverse effects cannot
+be avoided, the applicant and the appropriate wildlife management
+agency will cooperatively develop an agreement for project -specific
+mitigation to offset the potential adverse effects of the facility. Where the
+applicant and the resource management agency cannot agree on what
+mitigation will be carried out, the county is responsible for determining
+appropriate mitigation, if any, required for the facility.
+g. The provisions of Subsection 54.075(C)(8)(f) are repealed on January 1,
+2022.
+9. The project owner shall sign and record in the deed records for the county a
+document binding the project owner and the project owner's successors in
+interest, prohibiting them from pursuing a cl aim for relief or cause of action
+alleging injury from farming or forest practices as defined in ORS 30.930(2)
+and (4).
+10. Nothing in this  Section shall prevent the county from requiring a bond or
+other security from a developer or otherwise imposing on a developer the
+responsibility for retiring the photovoltaic solar power generation facility.
+54.080 – LAND DIVISIONS
+A. Minimum Parcel Size.
+
+ORD. 45.88 Adopted April 27, 2017
+54-62
+1. EFU-C Parcels are at least 80 acres in size.
+2. EFU-CG Parcels are at least 80 acres in size.
+3. EFU-G Parcels are at least 160 acres in size
+B. A division of land to accommodate a use permitted by Section 54.015, except a
+residential use, smaller than the minimum parcel size provided in  Subsection
+(A) may be approved  if the parcel for the nonfarm use is not larger than the
+minimum size necessary for the use.
+C. A division of land to create up to two new parcels smaller than the minimum size
+established under Subsection (A), each to contain a dwelling not provided in
+conjunction with farm use, may be permitted if:
+1. The nonfarm dwellings have been approved under Subsection 54.055;
+2. The parcels for the nonfarm dwellings are divided from a lot or parcel that
+was lawfully created prior to July 1, 2001;
+3. The parcels for the nonfarm dwellings are divided from a lot or parcel that
+complies with the minimum size in Subsection (A); and
+4. The remainder of the original lot or parcel that does not contain the nonfarm
+dwellings complies with the minimum size in Subsection (A).
+D. A division of land to divide a lot or parcel into two parcels, each to contain one
+dwelling not provided in conjunction with farm use, may be permitted if:
+1. The nonfarm dwellings have been approved under Subsection 54.055;
+2. The parcels for the nonfarm dwellings are divided from a lot or parcel that
+was lawfully created prior to July 1, 2001;
+3. The parcels for the nonfarm dwellings are divided from a lot or parcel that is
+equal to or smaller than the minimum size in  Subsection (A) but equal to or
+larger than 40 acres;
+4. The parcels for the nonfarm dwellings are:
+a. Not capable of producing more than at least 20 cubic feet per acre per
+year of wood fiber; and
+
+ORD. 45.88 Adopted April 27, 2017
+54-63
+b. Either composed of at least 90 percent Class VII and VIII soils, or
+composed of at least 90 percent Class VI through VIII soils and are not
+capable of producing adequate herbaceous forage for grazing livestock.
+The Land Conservation and Development Commission, in cooperation
+with the State Department of Agriculture and other interested persons,
+may establish by rule objective criteria for identifying units of land that are
+not capable of producing adequate herbaceous forage for grazing
+livestock. In developing the criteria, the commission shall use the latest
+information from the United States Natural Resources Conservation
+Service and consider costs required to utilize grazing lands that differ in
+acreage and productivity level; and
+5. The parcels for the nonfarm dwellings do not have established water rights
+for irrigation.
+E. This Section does not apply to the creation or sale of cemetery lots, if a cemetery
+is within the boundaries designated for a farm use zone at the time the zone is
+established.
+F. This Section does not apply to divisions of land resulting from lien foreclosures
+or divisions of land resulting from foreclosure of recorded contracts for the sale
+of real property.
+G. This Section does not allow  a division or property line adjustment  of a lot or
+parcel that separates a use described in 54.010(BB), 54.015(C), or 54.015(G)
+from the lot or parcel on which the primary residential use exists.
+H. This Section does not allow  a division or property line adjustment of a lot or
+parcel that separates a processing facility from the farm operation specified in
+Section 54.010(P).
+I. A division of land may be permitted to create a parcel with an existing dwelling
+to be used:
+1. As a residential home as described in ORS 197.660 (2) only if the dwelling
+has been approved under Section 54.055; and
+2. For historic property that meets the requirements of Section 54.010(FF).
+J. Notwithstanding the minimum lot or parcel size described in Subsection (A),
+
+ORD. 45.88 Adopted April 27, 2017
+54-64
+1. A division of land may be approved provided:
+a. The land division is for the purpose of allowing a provider of public parks
+or open space, or a not -for-profit land conservation organization, to
+purchase at least one of the resulting parcels; and
+b. A parcel created by the land division that contains a dwelling is large
+enough to support continued residential use of the parcel.
+2. A parcel created pursuant to this Subsection that does not contain a dwelling:
+a. Is not eligible for siting a dwelling, except as may be authorized under
+ORS 195.120;
+b. May not be considered in approving or denying an application for siting
+any other dwelling;
+c. May not be considered in approving a redesignation or rezoning of
+forestlands except for a redesignation or rezoning to allow a public park,
+open space or other natural resource use; and
+d. May not be smaller than 25 acres unless the purpose of the land division
+is to facilitate the creation of a wildlife or pedestrian corridor or the
+implementation of a w ildlife habitat protection plan or to allow a
+transaction in which at least one party is a public park or open space
+provider, or a not -for-profit land conservation organization, that has
+cumulative ownership of at least 2,000 acres of open space or park
+property.
+K. A division of land smaller than the minimum lot or parcel size in Subsection (A)
+may be approved provided:
+1. The division is for the purpose of establishing a church, including cemeteries
+in conjunction with the church;
+2. The church has been approved under Subsection 54.010(Z);
+3. The newly created lot or parcel is not larger than five acres; and
+
+ORD. 45.88 Adopted April 27, 2017
+54-65
+4. The remaining lot or parcel, not including the church, meets the minimum lot
+or parcel size describ ed in Subsection (A) either by itself or after it is
+consolidated with another lot or parcel.
+L. Notwithstanding the minimum lot or parcel size described Subsection (A), a
+division for the nonfarm uses set out in Subsection 54.010(L) if the parcel for
+the nonfarm use is not larger than the minimum size necessary for the use.
+M. The governing body of a county may not approve a division of land for nonfarm
+use under Subsection (B), (C), (D), (I), (J), (K), or (L) unless any additional tax
+imposed for the change in use has been paid.
+N. Parcels used or to be used for training or stabling facilities may not be
+considered appropriate to maintain the existing commercial agricultural
+enterprise in an area where other types of agriculture occur.
+O. A division of a lawfully established unit of land may occur along an urban growth
+boundary where the parcel remaining outside the urban growth boundary is
+zoned for agricultural uses and is smaller than the minimum parcel size,
+provided that:
+1. If the parcel contains a dwelling, the parcel must be large enough to support
+the continued residential use.
+2. If the parcel does not contain a dwelling, it:
+a. Is not elegible for siting a dwelling, except as may be authorized in ORS
+195.120;
+b. May not be considered in approving or denying an application for any
+other dwelling; and
+c. May not be considered in approving a redesignation or rezoning of
+agricultural lands, except to allow a public park, open space, or other
+natural resource use.
+54.085 – DEVELOPMENT STANDARDS
+All dwellings and structures approved pursuant to Article 54  shall be sited in
+accordance with this Section.
+
+ORD. 45.88 Adopted April 27, 2017
+54-66
+A. Minimum Parcel Size:
+1. Exclusive Farm Use-Cropland (EFU-C): 80 acres.
+2. Exclusive Farm Use-Cropland/Grazing (EFU-CG): 80 acres.
+3. Exlusive Farm Use-Grazing (EFU-G): 160 acres.
+B. Building Heights and Setbacks – See Article 62
+C. Fences, Walls and Setbacks – See Article 64
+D. Landscaping – See Article 65
+E. Signs – See Article 66
+F. Parking – See Article 68
+G. Access – See Article 71
+ORD. 45.88 Adopted April 25, 2017
+
+55-1
+ARTICLE 55
+FORESTRY (F)
+55.010 – PURPOSE
+The purpose of this zone is to protect forest ecosystems, and to safeguard those sectors
+of the economy dependent upon forest ecosystems, by conserving the forested land base
+and forest resources, and by allowing for environmentally sound and economically
+efficient forest practices. At the same time, Forest zone regulations are aimed at providing
+opportunities for human habitation, recreation and agricultural uses, consistent with the
+sound management of soil, air, water, vegetation, fish and wildlife that ensures the
+continued vitality of the ecosystem, and that does not unnecessarily hinder forest
+practices.
+55.015 – OUTRIGHT USES
+A. Forest operations or forest practices including, but not limited to, reforestation of forest
+land, road construction and maintenance, harvesting of a forest tree species,
+application of chemicals, and disposal of slash.
+B. Temporary on- site structures that are auxiliary to and used during the term of  a
+particular forest operation.
+C. Physical alterations to the land auxiliary to forest pract ices including, but not limited
+to, those made for purposes of exploration, mining, commercial gravel extraction and
+processing, landfills, dams, reservoirs, road construction or recreational facilities.
+D. Uses to conserve soil, air and water quality and to provide for wi ldlife and fisheries
+resources.
+E. Farm use as defined in ORS 215.203.
+F. Local distribution lines (e.g., electric, telephone, natural gas) and accessory
+equipment (e.g., electric distribution transformers, poles, meter cabinets, terminal
+boxes, pe destals), or equipment that provides service hookups, i ncluding water
+service hookups.
+G. Exploration for mineral and aggregate resources as defined in ORS chapter 517.
+H. Water intake facilities, canals and distribution lines for farm irrigation and ponds.
+55.020 – PERMITTED USES
+In the Forest zone, the following uses and activities and their accessory buildings and
+uses are permitted subject to the general provisions set forth by this ordinance as well as
+the general standards for the zone and any other applicable siting and design standards
+and review process in the zoning ordinance:
+ORD. 45.88 Adopted April 25, 2017
+
+55-2
+A. Temporary portable facility for the primary processing of forest products.
+B. Climbing and passing lanes within the right of way existing as of July 1, 1987.
+C. Reconstruction or modification of public roads and highways, including the placement
+of utility facilities overhead and in the subsurface of public roads and highways along
+the public right of way, but not including the addition of travel lanes, where no removal
+or displacement of buildings would occur, or no new land parcels result.
+D. Temporary public road and highway detours that will be abandoned and restored to
+original condition or use at such time as no longer needed.
+E. Minor betterment of existing public road and highway related facil ities such as
+maintenance yards, weigh stations and rest areas, within right of way existing as of
+July 1, 1987, and contiguous public -owned property utilized to support the operation
+and maintenance of public roads and highways.
+F. Private hunting and fishing operations without any lodging accommodations.
+G. Towers and fire stations for forest fire protection.
+H. Uninhabitable structures accessory to fish and wildlife enhancement.
+I. Temporary forest labor camps.
+J. Exploration for and production of geothermal, gas, oil,  and other associated
+hydrocarbons, including the placement and operation of compressors, separators and
+other customary production equipment for an individual well adjacent to the well head.
+K. An outdoor mass gathering of more than 1,000 persons that is not  anticipated to
+continue for more than 120 hours in any three- month period, as provided in ORS
+433.735 and subject to Section 42.055.
+L. An agricultural building, as defined in ORS 455.315, customarily provided in
+conjunction with farm use or forest use. A person may not convert an agricultural
+building authorized by this section to another use.
+M. Destination resorts, subject to ORS 197.435 to 197-467, Goal 8 and Article 88. This
+use is subject to the Planning Commission Review Procedure pursuant to Article 26.
+N. Youth camps subject to Section 55.050. This use is subject to Type II Administrative
+Review Procedure pursuant to Article 22.
+O. Caretaker residences for public parks and public fish hatcheries subject to Subsection
+55.030(L).
+P. A large tract forest dwelling subject to Subsection 55.030(A) and 55.030(L). This use
+is subject to a Type II Administrative Review pursuant to Article 22.
+ORD. 45.88 Adopted April 25, 2017
+
+55-3
+Q. A lot of record dwelling subject to Subsections 55.030(B) and 55.030(L). This use is
+subject to the Administrative Review Procedure pursuant to Article 22.
+R. A template dwelling subject to Subsection  55.030(C) and 55.030(L). This use is
+subject to the Administrative Review Procedure pursuant to Article 22.
+S. Alteration, restoration or replacement of a lawfully established dwelling subject to
+Subsections 55.030(D) and 55.030(L).
+55.025 – CONDITIONAL USES
+In the Forest zone, except where specifically noted, t he following uses and their
+accessory buildings and uses are permitted subject to Conditional Use Permit procedures
+in Article 44, any specific standards for the use set forth in Section 55.030, the conditional
+use review criteria in Section 55.035 in place of those contained in Article 44.030 and the
+general standards for the zone and any other applicable standards and review process in
+the zoning ordinance:
+A. Log scaling and weigh stations . This use is subject to the Type II Administrative
+Procedure pursuant to Article 22.
+B. Forest management research and experimentation facilities as defined by ORS
+526.215 or where accessory to forest operations.  This use is subject to the Type II
+Administrative Procedure pursuant to Article 22.
+C. A manufactured dwelling or recreational vehicle, or the temporary residential use of
+an existing building, in conjunction with an existing dwelling as a temporary use for
+the term of a hardship suffered by the existing resident or a relative subject to
+Subsection 55.030(E). This use shall be reviewed as a temporary use permit as
+required by LDC Article 42.
+D. Parking of up to seven dump trucks and seven trailers. This use is subject to the Type
+II Administrative Procedure pursuant to Article 22.
+E. Home occupations subject to Subsection 55.030(E) (See Article 85)
+F. Permanent facility for the primary processing of forest products subject to 55.030(M).
+This use is subject to the Type II Administrative Procedure pursuant to Article 22.
+G. Permanent logging equipment repair and storage. This use is subject to the Type II
+Administrative Procedure pursuant to Article 22.
+H. Private seasonal accommodations for fee hunting operations subject to Subsection
+55.030(F). This use is subject to the Type II Administrative Procedure pursuant to
+Article 22.
+ORD. 45.88 Adopted April 25, 2017
+
+55-4
+I. Private accommodations for fishing occupied on a temporary basis  may be allowed
+subject to Subsection  55.030(G). This use is subject to the Type II Administrative
+Procedure pursuant to Article 22.
+J. Mining and processing of oil, gas, or other subsurface resources, as defined in ORS
+Chapter 520, and not otherwise permitt ed under Subsection (S) (e.g., compressors,
+separators and storage serving multiple wells), and mining and processing of
+aggregate and mineral resources as defined in ORS Chapter 517.
+K. Temporary asphalt and concrete batch plants as accessory uses to specif ic highway
+projects. This use is subject to the Type II Administrative Procedure pursuant to Article
+22.
+L. Transportation improvements on rural lands allowed by and subject to the
+requirements of OAR 660-012-0065.
+M. Construction of additional passing and travel lanes requiring the acquisition of right of
+way but not resulting in the creation of new land parcels.
+N. Reconstruction or modification of public roads and highways involving the removal or
+displacement of buildings but not resulting in the creation of new land parcels.
+O. Improvement of public road and highway related facilities, such as maintenance yards,
+weigh stations and rest areas, where additional property or right of way is required but
+not resulting in the creation of new land parcels.
+P. Expansion of existing airports.
+Q. Television, microwave and radio communication facilities and transmission towers.
+This use is subject to the Type II Administrative Procedure pursuant to Article 22.
+R. New electric transmission lines with right of way widths of up to 100 feet as specified
+in ORS 772.210. New distribution lines (e.g., gas, oil, geothermal, telephone, fiber
+optic cable) with rights-of-way 50 feet or less in width.
+S. Water intake facilities, related treatment facilities, pumping stations, and distribution
+lines. This use is subject to the Type II Administrative Procedure pursuant to Article
+22.
+T. Reservoirs and water impoundments. This use is subject to the Type II Administrative
+Procedure pursuant to Article 22.
+U. Disposal site for solid waste approved by the governing body of a city or county or
+both and for which the Oregon Department of Environmental Quality  has granted a
+permit under ORS 459.245, together with equipment, facilities or buildings necessary
+for its operation, subject to 55.030(I).
+ORD. 45.88 Adopted April 25, 2017
+
+55-5
+V. Commercial utility facilities for the purpose of generating power subject to
+Subsection 55.030(H).
+W. Aids to navigation and aviation. This use is subject to the Type II Administrative
+Procedure pursuant to Article 22.
+X. Firearms training facility  as provided in ORS 197.770(2) . This use is subject to the
+Type II Administrative Procedure pursuant to Article 22.
+Y. Fire stations for rural fire protection. This use is subject to the Type II Administrative
+Procedure pursuant to Article 22.
+Z. Cemeteries. This use is subject to the Type II Administrative Procedure pursuant to
+Article 22.
+AA. Public parks subject to Subsection 55.030(J).
+BB. Private parks and campgrounds subject to Subsection 55.030(K).
+55.030 – USE STANDARDS
+A. A large tract forest dwelling authorized under ORS 215.740 may be allowed on land
+zoned for forest use if it is sited on a tract that does not include a dwelling and complies
+with other provisions of law, including the following:
+1. The tract is at least 240 contiguous acres or 320 acres in one ownership that are
+not contiguous but are in the same county or adjacent counties and zoned for forest
+use. A deed restriction shall be filed pursuant to paragraph (3) for all tracts that are
+used to meet the acreage requirements of this subsection.
+2. A tract shall not be considered to consist of less than 240  acres because it is
+crossed by a public road or a waterway.
+3. Where one or more lots or parcels are required to meet minimum acreage
+requirements:
+a. The applicant sha ll provide evidence that the covenants, conditions and
+restrictions form adopted as "Exhibit A" in OAR chapter 660, division 6 has
+been recorded with the county clerk of the county or counties where the
+property subject to the covenants, conditions and restrictions is located.
+b. The covenants, conditions and restrictions are irrevocable, unless a statement
+of release is signed by an authorized representative of the county or counties
+where the property subject to the covenants, conditions and restrictions is
+located.
+B. Lot of record dwelling
+ORD. 45.88 Adopted April 25, 2017
+
+55-6
+1. The lot or parcel on which the dwelling will be sited was lawfully created and was
+acquired and owned continuously by the present owner as defined in paragraph
+(4):
+a. Since prior to January 1, 1985; or
+b. By devise or by intestate succession from a person who acquired and had
+owned continuously the lot or parcel since prior to January 1, 1985.
+2. The tract on which the dwelling will be sited does not include a dwelling;
+3. The lot or parcel on which the dwelling will be sited was part of a tract on November
+4, 1993, no dwelling exists on another lot or parcel that was part of that tract.
+4. For purposes of this subsection , “owner" includes the wife, husband, son,
+daughter, mother, father, brother, brother -in-law, sister, sister -in-law, son-in-law,
+daughter-in-law, mother -in-law, father -in-law, aunt, uncle, niece, nephew,
+stepparent, stepchild, grandparent or grandchild of the owner or a business entity
+owned by any one or combination of these family members.
+5. The dwelling must be located on a tract that is composed of soils not capable of
+producing 4,000 cubic feet per year of commercial tree species and is located
+within 1,500 feet of a public road as defined under ORS 368.001 that provides or
+will provide access to the subject tract. The road shall be maintained and either
+paved or surfaced with rock and shall not be:
+a. A United States Bureau of Land Management road; or
+b. A United States Forest Service road unless the road is paved to a minimum
+width of 18 feet, there is at least one defined lane in each direction and a
+maintenance agreement exists between the United States Forest Service and
+landowners adjacent to the road, a local government or a state agency.
+6. When the lot or parcel on which the dwelling will be sited lies  within an area
+designated in an acknowledged comprehensive plan as habitat of big game, the
+siting of the dwelling shall be consistent with the limitations on density upon which
+the acknowledged comprehensive plan and land use regulations intended to
+protect the habitat are based; and
+7. When the lot or parcel on which the dwelling will be sited is part of a tract, the
+remaining portions of the tract shall be consolidated into a single lot or parcel when
+the dwelling is allowed.
+C. A  single family “template” dwelling authorized under ORS 215.750 on a lot or parcel
+located within a forest zone if the lot or parcel is predominantly composed of soils that
+are:
+1. Capable of producing zero to 20 cubic feet per acre per year of wood fiber if:
+ORD. 45.88 Adopted April 25, 2017
+
+55-7
+a. All or part of at least three other lots or parcels that existed on January 1, 1993,
+are within a 160 acre square centered on the center of the subject tract; and
+b. At least three dwellings existed on January 1, 1993 and continue to exist on the
+other lots or parcels.
+2. Capable of producing 21 to 50 cubic feet per acre per year of wood fiber if:
+a. All or part of at least seven other lots or parcels that existed on January 1, 1993,
+are within a 160 acre square centered on the center of the subject tract; and
+b. At least three dwellings existed on January 1, 1993 and continue to exist on the
+other lots or parcels.
+3. Capable of producing more than 50 cubic feet per acre per year of wood fiber if:
+a. All or part of at least 11 other lots or parcels that existed on January 1, 1993,
+are within a 160 acre square centered on the center of the subject tract; and
+b. At least three dwellings existed on January 1, 1993 and continue to exist on the
+other lots or parcels.
+4. Lots or parcels within urban growth boundaries shall not be used to satisfy eligibility
+requirements.
+5. Except as provided by paragraph (6), if the subject tract abuts a road that existed
+on January 1, 1993, the measurement may be made by creating a 160 acre
+rectangle that is one mile long and 1/4 mile wide centered on the center of  the
+subject tract and that is to the maximum extent possible, aligned with the road.
+6. The following applies where a tract 60 acres or larger abuts a road or perennial
+stream.
+a. The measurement shall be made in accordance with paragraph (5). However,
+one of the three required dwellings shall be on the same side of the road or
+stream as the tract, and:
+1) Be located within a 160-acre rectangle that is one mile long and one-quarter
+mile wide centered on the center of the subject tract and that is, to the
+maximum extent possible aligned with the road or stream; or
+2) Be within one-quarter mile from the edge of the subject tract but not outside
+the length of the 160 acre rectangle, and on the same side of the road or
+stream as the tract.
+b. If a road crosses the tract on which the dwelling will be located, at least one of
+the three required dwellings shall be on the same side of the road as the
+proposed dwelling.
+ORD. 45.88 Adopted April 25, 2017
+
+55-8
+c. A dwelling is in the 160- acre template if any part of the dwelling is in the 160-
+acre template.
+7. A proposed “template” dwelling under this ordinance is not allowed:
+a. If it is prohibited by or will not comply with the requirements of an acknowledged
+comprehensive plan, acknowledged land use regulations, or other provisions
+of law;
+b. Unless it complies with the requirements of Sections 55.040 and 55.045;
+c. Unless no dwellings are allowed on other lots or parcels that make up the tract
+and deed restrictions established under paragraph 55.030(A)(3) for the other
+lots or parcels that make up the tract are met; or
+d. If the tract on which the dwelling will be sited includes a dwelling.
+8. Where other lots or parcels that make up a tract in Subsection (7):
+a. The applicant shall provide evidence that the covenants, conditions and
+restrictions form adopted as "Exhibit A" in OAR chapter 660, division 6 has
+been recorded with the county clerk of the county or counties where the
+property subject to the covenants, conditions and restrictions is located.
+b. The covenants, conditions and restrictions are irrevocable, unless a statement
+of release is signed by an authorized representative of the county or counties
+where the property subject to the covenants, conditions and restrictions is
+located.
+D. Alteration, restoration or replacement of a lawfully established dwelling , where
+Subsections (1) or (2) apply:
+1. Alteration or restoration of a lawfully established dwelling that:
+a. Has intact exterior walls and roof structures;
+b. Has indoor plumbing consisting of a kitchen sink, toilet and bathing facilities
+connected to a sanitary waste disposal system;
+c. Has interior wiring for interior lights; and
+d. Has a heating system.
+2. In the case of replacement, is removed, demolished or converted to an allowable
+nonresidential use within three months of the completion of the replacement
+dwelling.
+E. A home occupation as allowed per Article 85.
+ORD. 45.88 Adopted April 25, 2017
+
+55-9
+F. Private seasonal accommodations for fee hunting operations are subject to the
+following requirements:
+1. Accommodations are limited to no more than 15 guest rooms as that term is
+defined in the Oregon Structural Specialty Code;
+2. Only minor incidental and accessory retail sales are permitted; and
+3. Accommodations are occupied temporarily for the purpose of hunting during either
+or both game bird or big game hunting seasons authorized by the Oregon Fish and
+Wildlife Commission.
+G. Private accommodations for fishing occupied on a temporary basis are subject to the
+following requirements:
+1. Accommodations limited to no more than 15 guest rooms as that term is defined
+in the Oregon Structural Specialty Code;
+2. Only minor incidental and accessory retail sales are permitted;
+3. Accommodations occupied temporarily for the purpose of fishing during fishing
+seasons authorized by the Oregon Fish and Wildlife Commission; and
+4. Accommodations must be located within one -quarter mile of fish -bearing Class I
+waters.
+H. A Commercial Utility Facility for the purpose of generating power shall not preclude
+more than 10 acres from use as a commercial forest operation.
+I. Solid waste disposal facilities shall meet the performance and permitting requirements
+of the Department of Environmental Quality under ORS 459.245, shall meet the
+requirements of Section 55.035 and shall comply with the following requirements.
+1. The facility shall be designed to minimize conflicts with existing and permitted uses
+allowed under plan designations for adjacent parcels as outlined in policies of the
+Comprehensive Plan.
+2. The facility must be of a size and design to mi nimize noise or other detrimental
+effects when located adjacent to farm, forest and grazing dwellings(s) or a
+residential zone.
+3. The facility shall be fenced when the site is located adjacent to dwelling(s) or a
+residential zone and landscaping, buffering and/or screening shall be provided.
+4. The facility does not constitute an unnecessary fire hazard.  If located in a forested
+area, the county shall condition approval to ensure that minimum fire safety
+measures will be taken, which may include but are not limited to the following:
+ORD. 45.88 Adopted April 25, 2017
+
+55-10
+a. The area surrounding the facility is kept free from litter and debris.
+b. Fencing will be installed around the facility, if deemed appropriate to protect
+adjacent farm crops or timber stand.
+c. If the proposed facility is located in a forested area, construction materials shall
+be fire resistant or treated with a fire retardant substance and the applicant will
+be required to remove forest fuels within 30 feet of structures.
+5. The facility shall adequately protect fish and wildlife resour ces by meeting
+minimum Oregon State Department of Forestry regulations.
+6. Access roads or easements for the facility shall be improved to the county’s
+Transportation System Plan standards and comply with grades recommended by
+the Public Works Director.
+7. Road construction for the facility must be consistent with the intent and purposes
+set forth in the Oregon Forest Practices Act to minimize soil disturbance and help
+maintain water quality.
+8. Hours of operation for the facility shall be limited to 8 am – 7 pm.
+9. Comply with other conditions deemed necessary.
+J. Public parks may include:
+1. All uses allowed under Statewide Planning Goal 4;
+2. The following uses, if authorized in a local or park master plan that is adopted as
+part of the local comprehensive plan, or if authorized in a state park master plan
+that is adopted by OPRD:
+a. Campground areas: recreational vehicle sites; tent sites; camper cabins; yurts;
+teepees; covered wagons; group shelters; campfire program areas; camp
+stores;
+b. Day use areas: picnic shelters, barbecue areas, swimming areas (not
+swimming pools), open play fields, play structures;
+c. Recreational trails: walking, hiking, biking, horse, or motorized off-road vehicle
+trails; trail staging areas;
+d. Boating and fishing facilities: launch ramps and landings,  docks, moorage
+facilities, small boat storage, boating fuel stations, fish cleaning stations, boat
+sewage pumpout stations;
+ORD. 45.88 Adopted April 25, 2017
+
+55-11
+e. Amenities related to park use intended only for park visitors and employees:
+laundry facilities; recreation shops; snack shops not exceeding 1500 square
+feet of floor area;
+f. Support facilities serving only the park lands wherein the facility is located:
+water supply facilities, sewage collection and treatment facilities, storm water
+management facilities, electrical and communication f acilities, restrooms and
+showers, recycling and trash collection facilities, registration buildings, roads
+and bridges, parking areas and walkways;
+g. Park Maintenance and Management Facilities located within a park:
+maintenance shops and yards, fuel stations for park vehicles, storage for park
+equipment and supplies, administrative offices, staff lodging; and
+h. Natural and cultural resource interpretative, educational and informational
+facilities in state parks: interpretative centers, information/orientation c enters,
+self-supporting interpretative and informational kiosks, natural history or
+cultural resource museums, natural history or cultural educational facilities,
+reconstructed historic structures for cultural resource interpretation, retail
+stores not exc eeding 1500 square feet for sale of books and other materials
+that support park resource interpretation and education.
+3. Visitor lodging and retreat facilities if authorized in a state park master plan that is
+adopted by OPRD: historic lodges, houses or inns  and the following associated
+uses in a state park retreat area only:
+a. Meeting halls not exceeding 2000 square feet of floor area;
+b. Dining halls (not restaurants).
+K. Private Campgrounds and Campsites.
+1. Campgrounds in private parks may be permitted, subject to the following:
+a. Except on a lot or parcel contiguous to a lake or reservoir, campgrounds shall
+not be allowed within three miles of an urban growth boundary unless an
+exception is approved pursuant to ORS 197.732 and OAR chapter 660, division
+4.
+b. A campground shall be designed and integrated into the rural agricultural and
+forest environment in a manner that protects the natural amenities of the site
+and provides buffers of existing native trees and vegetation or other natural
+features between campsites.
+c. Campgrounds authorized by this rule shall not include intensively developed
+recreational uses such as swimming pools, tennis courts, retail stores or gas
+stations.
+ORD. 45.88 Adopted April 25, 2017
+
+55-12
+d. Overnight temporary use in the same campground by a camper or camper's
+vehicle shall not exc eed a total of 30 days during any consecutive six -month
+period.
+2. Campsites within campgrounds  meeting the requirement of 55.030K.1 and
+permitted pursuant to Section 55.035 must comply with the following:
+a. Allowed uses include tent, travel trailer or recreational vehicle; yurts are also
+allowed uses, subject to 55.030K.2.c.
+b. Separate sewer, water or electric service hook -ups shall not be provided to
+individual camp sites except that electrical service may be provided to yurts.
+c. No more than one-third or a maximum of 10 campsites, whichever is smaller,
+may include a yurt. The yurt shall be located on the ground or on a wood floor
+with no permanent foundation.
+L. For single-family dwellings, the landowner shall sign and record in the deed records
+for the county a document binding the landowner, and the landowner's successors in
+interest, prohibiting them from pursuing a claim for relief or cause of action alleging
+injury from farming or forest practices for which no action or claim is allowed under
+ORS 30.936 or 30.937.
+M. Permanent facility for the primary processing of forest products that is:
+1. Located in a building or buildings that do not exceed 10,000 square feet in total
+floor area, or
+2. Located in an outdoor area that does not exceed one acre excluding laydown and
+storage yards, or
+3. Located in a combination of indoor and outdoor areas described in Subsection s
+(1) and (2); and
+4. Adequately separated from surrounding properties to reasonably mitigate noise,
+odor, and other impacts generated by the facility that adversely affect forest
+management and other existing uses, as determined by the governing body.
+55.035 – CONDITIONAL USE REVIEW CRITERIA
+A use authorized by S ection 55.025 of this zone may be allowed provided the following
+requirements or their equivalent are met. These requirements are designed to make the
+use compatible with forest operations and agriculture and to conser ve values found on
+forest lands.
+A. The proposed use will not force a significant change in, or significantly increase the
+cost of, accepted farming or forest practices on agriculture or forest lands.
+ORD. 45.88 Adopted April 25, 2017
+
+55-13
+B. The proposed use will not significantly increase fire hazard or significantly increase
+fire suppression costs or significantly increase risks to fire suppression personnel.
+C. A written statement recorded with the deed or written contract with the county or its
+equivalent is obtained from the land owner that recognizes the rights of adjacent and
+nearby land owners to conduct forest operations consistent with the Forest Practices
+Act and Rules for uses authorized in OAR 660-006-0025 Subsection (5)(c).
+D. The proposed use will be compatible with vicinity uses, and satisfies all relevant
+requirements of this ordinance and the following general criteria:
+1. The parcel is suitable for the proposed use considering its size, shape, location,
+topography, existence of improvements and natural features;
+2. The proposed use will not alter the character of the surrounding area in a manner
+which substantially limits, impairs or prevents the use of surrounding properties for
+the permitted uses listed in the underlying zoning district;
+3. The proposed use is appropriate, considering the adequacy of public facilities and
+services existing or planned for the area affected by the use; and
+4. The use is or can be made compatible with existing uses and other allowable uses
+in the area.
+55.040 – SITING STANDARDS FOR DWELLINGS AND STRUCTURES IN FOREST
+ZONES
+The following siting criteria or their equivalent shall apply to all new dwellings and
+structures in forest zones. These criteria are designed to make such uses compatible with
+forest operations, to minimize wildfire hazards and risks and to conserve values found on
+forest lands. A governing body shall consider the criteria in this section together with the
+requirements of Section 55.045 to identify the building site:
+A. Dwellings and structures shall be sited on the parcel so that:
+1. They have the least impact on nearby or adjoining forest or agricultural lands;
+2. The siting ensures that adverse impacts on forest operations and accepted farming
+practices on the tract will be minimized;
+3. The amount of forest lands used to site access roads, service corridors, the
+dwelling and structures is minimized; and
+4. The risks associated with wildfire are minimized.
+B. Siting criteria satisf ying Subsection (A) may include setbacks from adjoining
+properties, clustering near or among existing structures, siting close to existing roads
+and siting on that portion of the parcel least suited for growing trees.
+ORD. 45.88 Adopted April 25, 2017
+
+55-14
+C. The applicant shall provide evidence to the governing body that the domestic water
+supply is from a source authorized in accordance with the Water Resources
+Department's administrative rules for the appropriation of ground water or surface
+water and not from a Class II stream as defined in th e Forest Practices rules (OAR
+chapter 629). For purposes of this section, evidence of a domestic water supply
+means:
+1. Verification from a water purveyor that the use described in the application will be
+served by the purveyor under the purveyor's rights to appropriate water;
+2. A water use permit issued by the Water Resources Department for the use
+described in the application; or
+3. Verification from the Water Resources Department that a water use permit is not
+required for the use described in the application. If the proposed water supply is
+from a well and is exempt from permitting requirements under ORS 537.545, the
+applicant shall submit the well constructor's report to the county upon completion
+of the well.
+D. As a condition of approval, if road access to the dwelling is by a road owned and
+maintained by a private party or by the Oregon Department of Forestry, the U.S.
+Bureau of Land Management, or the U.S. Forest Service, then the applicant shall
+provide proof of a long- term road access use permit or agreement. The road use
+permit may require the applicant to agree to accept responsibility for road
+maintenance.
+E. Approval of a dwelling shall be subject to the following requirements:
+1. Approval of a dwelling requires the owner of the tract to plant a sufficient number
+of trees on the tract to demonstrate that the tract is reasonably expected to meet
+Department of Forestry stocking requirements at the time specified in department
+of Forestry administrative rules;
+2. The planning department shall notify the county assessor of the above condition
+at the time the dwelling is approved;
+3. Stocking survey report:
+a. If the lot or parcel is more than 30 acres, the property owner shall submit a
+stocking survey report to the county assessor and the assessor will verify that
+the minimum stocking requirements have been met by the time required by
+Department of Forestry rules;
+ORD. 45.88 Adopted April 25, 2017
+
+55-15
+b. Upon notification by the assessor the Department of Forestry will determine
+whether the tract meets minimum stocking requirements of the Forest Practices
+Act. If that department determines that the tract does not meet those
+requirements, that department will notify the owner and the assessor that the
+land is not being managed as forest land. The assessor will then  remove the
+forest land designation pursuant to ORS 321.359 and impose the additional
+tax; and
+4. The county governing body or its designate shall require as a condition of approval
+of a single-family dwelling under ORS 215.213, 215.383 or 215.284 or otherwi se
+in a farm or forest zone, that the landowner for the dwelling sign and record in the
+deed records for the county a document binding the landowner, and the
+landowner's successors in interest, prohibiting them from pursuing a claim for relief
+or cause of action alleging injury from farming or forest practices for which no
+action or claim is allowed under ORS 30.936 or 30.937.
+55.045 – FIRE-SITING STANDARDS FOR DWELLINGS AND STRUCTURES
+The following fire -siting standards or their equivalent shall apply to all new  dwelling or
+structures in a forest zone:
+A. The dwelling shall be located upon a parcel within a fire protection district or shall be
+provided with residential fire protection by contract. If the dwelling is not within a fire
+protection district, the applicant shall provide evidence that the applicant has asked to
+be included within the nearest such district. If the governing body determines that
+inclusion within a fire protection district or contracting for residential fire protection is
+impracticable, the home site shall meet the requirements in Article 69 of this code.
+1. The applicant shall provide verification from the Water Resources Department that
+any permits or registrations required for water diversion or storage have been
+obtained or that permits or registrations are not required for the use; and
+2. Road access shall be provided to within 15 feet of the water's edge for firefighting
+pumping units. The road access shall accommodate the turnaround of firefighting
+equipment during the fire season. Permanent signs shall be posted along the
+access route to indicate the location of the emergency water source.
+B. Road access to the dwelling shall meet road design standards in Article 69 of this
+code.
+C. The owners of the dwellings and structures shall maintain a prim ary fuel-free break
+area surrounding all structures and clear and maintain a secondary fuel -free break
+area on land surrounding the dwelling that is owned or controlled by the owner in
+accordance with the provisions in "Recommended Fire Siting Standards for Dwellings
+and Structures and Fire Safety Design Standards for Roads" dated March 1, 1991,
+and published by the Oregon Department of Forestry  and shall demonstrate
+compliance with Table 55.045-1.
+ORD. 45.88 Adopted April 25, 2017
+
+55-16
+TABLE 55.045-1 Minimum Primary Safety Zone
+
+Slope
+Feet of Primary
+Safety Zone
+Feet of Additional
+Primary Safety Zone
+Down Slope
+0%  30  0
+10%  30  50
+20%  30  75
+25%  30  100
+40%  30  150
+
+Figure 55.045-1
+
+D. The dwelling shall have a fire retardant roof.
+E. The dwelling shall not be sited on a slope of greater than 40 percent.
+F. If the dwelling has a chimney or chimneys, each chimney shall have a spark arrester.
+55.050 – YOUTH CAMPS
+A. The purpose of this section is to provide for the establishment of a youth camp that is
+generally self-contained and located on a parcel suitable to limit potential impacts on
+nearby and adjacent land and to be compatible with the forest environment.
+ORD. 45.88 Adopted April 25, 2017
+
+55-17
+B. Changes to or expansions of youth camps established prior to the effective date of
+this section shall be subject to the provisions of ORS 215.130.
+C. An application for a proposed youth camp shall comply with the following:
+1. The number of overnight camp participants that may be accommodated shall be
+determined by the governing body, or its designate, based on the size, topography,
+geographic features and any other characteristics of the proposed site for the youth
+camp. Except as provided by paragraph 55.050D.2  a youth camp shall not provide
+overnight accommodations for more than 350 youth cam p participants, including
+staff.
+2. The governing body, or its designated may allow up to eight (8) nights during the
+calendar year when the number of overnight participants may exceed the total
+number of overnight participants allowed under paragraph 55.050C.1.
+3. Overnight stays for adult programs primarily for individuals over 21 years of age,
+not including staff, shall not exceed 10 percent of the total camper nights offered
+by the youth camp.
+4. The use will not force a significant change in, or significantl y increase the cost of,
+accepted farming or forest practices on agriculture or forest lands.
+5. A campground as described in Subsection  55.030(K) shall not be established in
+conjunction with a youth camp.
+6. A youth camp shall not be allowed in conjunction with an existing golf course.
+7. A youth camp shall not interfere with the exercise of legally established water rights
+on adjacent properties.
+D. The youth camp shall be located on a lawful parcel that is:
+1. Suitable to provide a forested setting needed to ensure a primarily outdoor
+experience without depending upon the use or natural characteristics of adjacent
+and nearby public and private land. This determination shall be based on the size,
+topography, geographic features and any other characteristics of the proposed site
+for the youth camp, as well as, the number of overnight participants and type and
+number of proposed facilities. A youth camp shall be located on a parcel of at least
+80 acres.
+ORD. 45.88 Adopted April 25, 2017
+
+55-18
+2. Suitable to provide a protective buffer to separate the visual and audible aspects
+of youth camp activities from other nearby and adjacent lands. The buffers shall
+consist of forest vegetation, topographic or other natural features as well as
+structural setbacks from ad jacent public and private lands, roads, and riparian
+areas. The structural setback from roads and adjacent public and private property
+shall be 250 feet unless the governing body, or its designate sets a different
+setback based upon the following criteria that may be applied on a case- by-case
+basis:
+a. The proposed setback will prevent conflicts with commercial resource
+management practices;
+b. The proposed setback will prevent a significant increase in safety hazards
+associated with vehicular traffic; and
+c. The proposed setback will provide an appropriate buffer from visual and audible
+aspects of youth camp activities from other nearby and adjacent resource
+lands.
+3. Suitable to provide for the establishment of sewage disposal facilities without
+requiring a sewer system as defined in OAR 660-011-0060(1)(f). Prior to granting
+final approval, the governing body or its designate shall verify that a proposed
+youth camp will not result in the need for a sewer system.
+E. A youth camp may provide for the following facilities:
+1. Recreational facilities limited to passive improvements, such as open areas
+suitable for ball fields, volleyball courts, soccer fields, archery or shooting ranges,
+hiking and biking trails, horseback riding or swimming that can be provided in
+conjunction with the site's natural environment. Intensively developed facilities
+such as tennis courts, gymnasiums, and golf courses shall not be allowed. One
+swimming pool may be allowed if no lake or other water feature suitable for aquatic
+recreation is located on the subject property or immediately available for youth
+camp use.
+2. Primary cooking and eating facilities shall be included in a single building. Except
+in sleeping quarters, the governing body, or its designate, may allow secondary
+cooking and eating f acilities in one or more buildings designed to accommodate
+other youth camp activities. Food services shall be limited to the operation of the
+youth camp and shall be provided only for youth camp participants. The sale of
+individual meals may be offered only to family members or guardians of youth
+camp participants.
+3. Bathing and laundry facilities except that they shall not be provided in the same
+building as sleeping quarters.
+4. Up to three camp activity buildings, not including primary cooking and eating
+facilities.
+ORD. 45.88 Adopted April 25, 2017
+
+55-19
+5. Sleeping quarters including cabins, tents or other structures. Sleeping quarters
+may include toilets, but, except for the caretaker's dwelling, shall not include
+kitchen facilities. Sleeping quarters shall be provided only for youth camp
+participants and shall not be offered as overnight accommodations for persons not
+participating in youth camp activities or as individual rentals.
+6. Covered areas that are not fully enclosed.
+7. Administrative, maintenance and storage buildings; permanent structure for
+administrative services, first aid, equipment and supply storage, and for use as an
+infirmary if necessary or requested by the applicant.
+8. An infirmary may provide sleeping quarters  for the medical care provider (e.g.
+Doctor, Registered Nurse, Emergency Medical Technician, etc.).
+9. A caretaker's residence may be established in conjunction with a youth camp prior
+to or after June 14, 2000, if no other dwelling exists on the subject property.
+F. A proposed youth camp shall comply with the following fire safety requirements:
+1. The fire siting standards in Section 55.045;
+2. A fire safety protection plan shall be developed for each youth camp that includes
+the following:
+a. Fire prevention measures;
+b. On site pre-suppression and suppression measures; and
+c. The establishment and maintenance of fire safe area(s) in which camp
+participants can gather in the event of a fire.
+3. Except as determined under paragraph 4, a youth camp's on-site fire suppression
+capability shall at least include:
+a. A 1000 gallon mobile water supply that can access all areas of the camp;
+b. A 30 gallon- per-minute water pump and an adequate amount of hose and
+nozzles;
+c. A sufficient number of fire-fighting hand tools; and
+d. Trained personnel capable of operating all fire suppression equipment at the
+camp during designated periods of fire danger.
+ORD. 45.88 Adopted April 25, 2017
+
+55-20
+4. An equivalent level of fire suppression facilities may be determined by the
+governing body, or it’s designate. The equivalent capability shall be based on the
+Oregon Department of Forestry's (ODF) Wildfire Hazard Zone rating system, the
+response time of the effective wildfire suppression agencies, and consultation with
+ODF personnel if the camp is within an area protected by ODF and not served by
+a local structural fire protection provider.
+5. The provisions of paragraph 4 may be waived by the governing body, or its
+designate, if the youth camp is located in an area served by a structural fire
+protection provider and that provider informs the governing body in writing that on-
+site fire suppression at the camp is not needed.
+G. The governing body, or its designate, shall require as a condition of approval of a
+youth camp, that the land owner of the youth camp sign and record in the deed records
+for the county a document binding the land owner, or operator of the youth camp if
+different from the owner, and the land owner's or operator's successors in interest,
+prohibiting them from pursuing a claim for relief or cause of action alleging injury from
+farming or forest practices for which no action or claim is allowed under ORS 30.936
+or 30.937.
+55.055 – LAND DIVISIONS IN FOREST ZONES
+A. The minimum parcel size for new forest parcels is 80 (eighty) acres.
+B. New land divisions less than the parcel size in Subsection (A) may be approved for
+any of the following circumstances:
+1. For the uses listed in the following subsections provided that such uses have been
+approved pursuant to section 55.035 and the parcel created from the division is
+the minimum size necessary for the use.
+a. 55.020J. Exploration for and production of geothermal, gas, oil, and other
+associated hydrocarbons, including the placement and operation of
+compressors, separators and other customary production equipment for an
+individual well adjacent to the well head.
+b. 55.020M. Destination resorts, subject to ORS 197.435 to 197-467 and Goal 8.
+c. 55.025A. Log scaling and weigh stations
+d. 55.025F. Permanent facility for the primary processing of forest products
+subject to 55.030M.
+e. 55.025G. Permanent logging equipment repair and storage.
+ORD. 45.88 Adopted April 25, 2017
+
+55-21
+f. 55.025J. Mining and processing of oil, gas, or other subsurface resources, as
+defined in ORS Chapter 520, and not otherwise permitted under Subsection
+55.025(S) (e.g., compressors, separators and storage s erving multiple wells),
+and mining and processing of aggregate and mineral resources as defined in
+ORS Chapter 517.
+g. 55.025Q. Television, microwave and radio communication facilities and
+transmission towers.
+h. 55.025S. Water intake facilities, related treat ment facilities, pumping stations,
+and distribution lines.
+i. 55.025T. Reservoirs and water impoundments.
+j. 55.025U. Disposal site for solid waste approved by the governing body of a city
+or county or both and for which the Oregon Department of Environmental
+Quality has granted a permit under ORS  459.245, together with equipment,
+facilities or buildings necessary for its operation.
+k. 55.025V. Commercial utility facilities for the purpose of generating power
+subject to Subsection 55.030(H).
+l. 55.025W. Aids to navigation and aviation.
+m. 55.025X. Firearms training facility as provided in ORS 197.770(2).
+n. 55.025Y. Fire stations for rural fire protection.
+o. 55.025Z. Cemeteries.
+p. 55.025AA. Public parks subject to Subsection 55.030(J).
+q. 55.025BB. Private parks and campgrounds subject to Subsection 55.030(K).
+
+2. For the establishment of a parcel for a dwelling that has existed since before June
+1, 1995, subject to the following requirements:
+a. The parcel established may not be larger than five acres, except as necessary
+to recognize physical factors such as roads or streams, in which case the parcel
+shall not be larger than 10 acres; and
+b. The parcel that does not contain the dwelling is not entitled to a dwelling unless
+subsequently authorized by law or goal and the parcel either:
+1) Meets the minimum land division standards of the zone; or
+2) Is consolidated with another parcel, and together the parcels meet the
+minimum land division standards of the zone.
+ORD. 45.88 Adopted April 25, 2017
+
+55-22
+3. To allow a division of forest land to facilitate a forest practice as defined in ORS
+527.620 that results in a parcel that does not meet the minimum area requirements
+of Subsection (A). Approvals shall be based on findings that demonstrate that there
+are unique property specific characteristics present in the proposed parcel that
+require an amount of land smaller than the minimum area requirements of
+Subsection (A) in order to conduct the forest practice. Parcels created pursuant to
+this paragraph:
+a. Are not eligible for siting of a new dwelling;
+b. May not serve as the justification for the siting of a future dwelling on other lots
+or parcels;
+c. May not, as a result of the land division, be used to justify redesignation or
+rezoning of resource lands; and
+d. May not result in a parcel of less than 35 acres, unless the purpose of the land
+division is to:
+1) Facilitate an exchange of lands involving a governmental agency; or
+2) Allow transactions in which at least one participant is a person with a
+cumulative ownership of at least 2,000 acres of forest land.
+4. To allow a division of a lot or parcel zoned for forest use if:
+a. At least two dwellings lawfully existed on the lot or parcel prior to November 4,
+1993;
+b. Each dwelling complies with the criteria for a replacement dwelling under
+paragraph 55.030D.1;
+c. Except for one parcel, each parcel created under this paragraph is between
+two and five acres in size;
+d. At least one dwelling is located on each parcel created under this paragraph;
+and
+ORD. 45.88 Adopted April 25, 2017
+
+55-23
+e. The landowner of a parcel created under this paragraph provides evidence that
+a res triction prohibiting the landowner and the landowner’s successors in
+interest from further dividing the parcel has been recorded with the county clerk
+of the county in which the parcel is located. A restriction imposed under this
+paragraph shall be irrevocable unless a statement of release is signed by the
+county planning director of the county in which the parcel is located indicating
+that the comprehensive plan or land use regulations applicable to the parcel
+have been changed so that the parcel is no longer subject to statewide planning
+goals protecting forestland or unless the land division is subsequently
+authorized by law or by a change in a statewide planning goal for land zoned
+for forest use.
+5. To allow a proposed division of land to preserve open space or parks, as provided
+in ORS 215.783.
+C. A lot or parcel may not be divided under paragraph 55.055B.4 if an existing dwelling
+on the lot or parcel was approved under a statute, an administrative rule or a land use
+regulation as defined in ORS 197.015 that required removal of the dwelling or that
+prohibited subsequent division of the lot or parcel.
+D. Restrictions
+1. An applicant for the creation of a parcel pursuant to paragraph 55.055B.2 shall
+provide evidence that a restriction on the remaining parcel, not containing the
+dwelling, has been recorded with the county clerk. The restriction shall allow no
+dwellings unless authorized by law or goal on land zoned for forest use except as
+permitted under Subsection (B).
+2. A restriction imposed under this subsection shall be irrevocable unless a statement
+of release is signed by the county planning director of the county where the
+property is located indicating that the comprehensive plan or land use regulations
+applicable to the property have been changed in such a manner that the parcel is
+no longer subject to statewide planning goals pertaining to agricultural land or
+forest land.
+E. A landowner allowed a land division under Subsection (B) shall sign a statement that
+shall be recorded with the county clerk of the county in which the property is located,
+declaring that the landowner will not in the future complain about accepted farming or
+forest practices on nearby lands devoted to farm or forest use.
+F. The county  governing body or its designate may not approve a property line
+adjustment of a lot or parcel in a manner that separates a temporary hardship dwelling
+or home occupation from the parcel on which the primary residential use exists.
+G. A division of a lawfull y established unit of land may occur along an urban growth
+boundary where the parcel remaining outside the urban growth boundary is zoned for
+forest use and is smaller than the minimum parcel size, provided that:
+ORD. 45.88 Adopted April 25, 2017
+
+55-24
+1. If the parcel contains a dwelling, it must be large enough to support continued
+residential use.
+2. If the parcel does not contain a dwelling:
+a. It is not eligible for siting a dwelling, except as may be authorized under ORS
+195.120;
+b. It may not be considered in approving a redesignation or rezoning of  forest
+lands, except to allow a public park, open space, or other natural resource use;
+and
+c. The owner of the parcel shall record with the county clerk an irrevocable deed
+restriction prohibiting the owner and all successors in interest from pursuing a
+cause of action or claim of relief alleging injury from farming or forest practices
+for which a claim or action is not allowed under ORS 30.936 or 30.937.
+55.060 – PROPERTY DEVELOPMENT STANDARDS
+All dwellings and structures approved pursuant to Article 55 shall be sited in accordance
+with this Section.
+A. Minimum Parcel Size – See 55.055.
+B. Building Heights and Setbacks – See Article 62
+C. Fences, Walls and Screening – See Article 64
+D. Landscaping – See Article 65
+E. Signs – See Article 66
+F. Parking – See Article 68
+G. Access – See Article 71
+
+ORD. 45.88 Adopted April 27, 2017
+
+ 55.2-1
+ARTICLE 55.2
+FORESTRY/RANGE (FR)
+55.210 – PURPOSE
+The purpose of this zone is to promote management and conservation of lands of mixed
+farm and forest use. This productive potential of this land is considered to be greater than
+that of Non-Resource (NR) zoned lands, but less than that of Farm (EFU) or Forestry (F)
+zoned lands.
+The zone shall be applied to those lands located in southern Klamath County which
+primarily consist of a juniper -sagebrush-bitterbrush vegetation cover, have no forest
+productivity rating or are predominantly rated as Class VII forest lands, may be significant
+wildlife habitat, and are areas of mixed BLM and private ownership.
+55.220 – APPLICATION
+
+The Forestry/Range zone includes lands of mixed farm and forestry uses. Criteria,
+standards, and procedures for development and land par titioning shall be determined
+based on tax status, soil class, existing parcel size, predominant land use as of January
+1, 1993, and Goal 5 constraints.
+If the predominant land use was farming, the criteria, standards, and procedures in Article
+54 shall apply to all development and land partition activities.
+55.230 – PROCEDURE
+
+The county shall assign the tract to either Article 54 or Article 55 based on the following:
+A. If the tract was under farm deferral on January 1, 1993, then Article 54 applies; or
+B. If the tract is not under farm deferral then Article 55 applies unless the following
+conditions are met, then Article 54.010(DD) shall apply:
+(1) The tract is predominantly made up of class VII soils;
+(2) The tract is less than 80 acres; and
+(3) The tract is not within big game habitat.
+55.250 - LAND DIVISIONS IN FORESTRY/RANGE ZONES
+Land divisions shall be processed and reviewed consistent with Articles 45. In addition to
+review criteria contained in Section 45.050, the following criteria shall apply:
+
+ORD. 45.88 Adopted April 27, 2017
+
+ 55.2-2
+C. MINIMUM LOT SIZE - The minimum lot size is 80 acres.
+D. New land divisions less than the parcel size in Subsection ( A) may be approved for
+any of the following circumstances:
+(1) For the uses listed in Chapter 55.055(B)(1) of the Forest Zone, provided that such
+uses have been approved pursuant to the associated review criteria of the Forest
+Zone and the parcel created from the division is the minimum size necessary for
+the use.
+(2) For the establishment of a parcel for a dwelling that has existed since before June
+1, 1995, subject to the following requirements:
+(a) The parcel established may not be larger than five acres, except as
+necessary to recognize physical factors such as roads or streams, in which
+case the parcel shall not be larger than 10 acres; and
+(b) The parcel that does not  contain the dwelling is not entitled to a dwelling
+unless subsequently authorized by law or goal and the parcel either:
+(i) Meets the minimum land division standards of the zone; or
+(ii) Is consolidated with another parcel, and together the parcels meet the
+minimum land division standards of the zone;
+(c) The minimum tract eligible under paragraph (2) of this subsection  is 40
+acres;
+(d) The tract shall be predominantly in forest use and that portion in forest use
+qualified for special assessment   under a program under ORS chapter 321;
+and
+(e) The remainder of the tract does not qualify for any uses allowed under ORS
+215.213 and 215.283 that are not allowed on forestland.
+(3) To allow a division of forest land to facilitate a forest practice as defined in ORS
+527.620 that results in a parcel that does not meet the minimum area requirements
+of Subsection (A). Parcels created pursuant to this paragraph:
+(a) Are not eligible for siting of a new dwelling;
+(b) May not serve as the justification for the siting of a future dwelling on other
+lots or parcels;
+(c) May not, as a result of the land division, be used to justify redesignation or
+rezoning of resource lands; and
+
+ORD. 45.88 Adopted April 27, 2017
+
+ 55.2-3
+(d) May not result in a parcel of less than 35 acres, unless the purpose of the
+land division is to:
+(i) Facilitate an exchange of lands involving a governmental agency; or
+(ii) Allow transactions in which at least one participant is a person with a
+cumulative ownership of at least 2,000 acres of forest land.
+(4) To allow a division of a lot or parcel zoned for farm-forest use if:
+(a) At least two dwellings lawfully existed on the lot or parcel prior to November
+4, 1993;
+(b) Each dwelling complies with the criteria for a replacement dwelling under
+subsection 55.010(GG) of the EFU Zone;
+(c) Except for one parcel, each parcel created under this paragraph is between
+two and five acres in size;
+(d) At least one dwelling is located on each parcel created under this
+paragraph; and
+(e) The landowner of a parcel created under this paragraph provides evidence
+that a restriction prohibiting the landowner and the landowner’s successors
+in interest from further dividing the parcel has been recorded with the county
+clerk of the county in which the parcel is located. A restriction imposed
+under this paragraph shall be irrevocable unless a statement of release is
+signed by the county planning director of the county in which the parcel is
+located indicating that the comprehensive plan or land use regulations
+applicable to the parcel have been changed so that the parcel is no longer
+subject to statewide planning goals protecting forestland or unless the land
+division is subsequently authorized by law or by a change in a statewide
+planning goal for land zoned for forest use.
+(5) To allow a proposed division of land to preserve open space or parks, as provided
+in ORS 215.783.
+E. A lot or parcel may not be divided under paragraph 55.213(B)(4) if an existing dwelling
+on the lot or parcel was approved under:
+(1) A statute, an administrative rule or a land use regulation as defined in ORS
+197.015 that required removal of the dwelling or that prohibited subsequent
+division of the lot or parcel; or
+(2) A farm use zone provision.
+
+ORD. 45.88 Adopted April 27, 2017
+
+ 55.2-4
+F. Restrictions
+(1) An applicant for the creation of a parcel pursuant to paragraph 55.213(B)(2) shall
+provide evidence that a restriction on the remaining parcel, not containing the
+dwelling, has been recorded with the county clerk. The restriction shall allow no
+dwellings unless authorized by law or goal on land zoned for forest use except as
+permitted under Subsection (B).
+(2) A restriction imposed under this subsection shall be irrevocable unless a statement
+of release is signed by the county planning director indicating that the
+comprehensive plan or land use regulations applicable to the property have been
+changed in such a manner that the parcel is no longer subject to statewide planning
+goals pertaining to agricultural land or forest land.
+G. A landowner allowed a land division under Subsection (B) shall sign a statement that
+shall be recorded with the county clerk of the county in which the property is located,
+declaring that the landowner will not in the future complain about accepted farming or
+forest practices on nearby lands devoted to farm or forest use.
+55.260 - PROPERTY DEVELOPMENT STANDARDS
+H. Minimum Parcel Size - see 55.213(A)
+I. Building Heights and Setbacks - See Article 62
+J. Fences, Walls and Screening - See Article 64
+K. Landscaping - See Article 65
+L. Signs - See Article 66
+M. Parking - See Article 68
+N. Access - See Article 71
+
+ 56 - 1
+ARTICLE 56
+NON-RESOURCE (NR)
+
+56.010 - PURPOSE
+
+The purpose of this zone designation is to implement the non -resource land use
+designation of the Comprehensive Plan.  These are lands that have been found to
+have a low Forest Site Class value, are predominantly SCS Soil Capabili ty Class
+VII and VIII, are not identified as important fish and wildlife habitat, are not
+necessary for watershed protection or recreational use, are not irrigated or irrigable,
+or are not necessary to permit farm or forest practices to be undertaken on adjacent
+or nearby lands.
+
+56.020 - PERMITTED USES
+
+The following uses shall be permitted subject to site plan review of Article 41, and
+all other applicable standards, criteria, rules, and statutes governing such uses:
+
+A. Single-family dwelling
+B. Manufactured Dwelling
+C. Animal raising, large animals
+D. Animal raising, small animals
+E. All permitted uses in Exclusive Farm Use, Forestry, and Forestry/Range zones
+F.  One additional dwelling for family members if the lot or parcel size is equal to or
+greater than 20 acres.
+
+56.030 - CONDITIONAL USES
+
+The following uses may be permitted subject to standards listed in this article and if
+the provisions of Article 44 are satisfied:
+
+A. Animal raising, specialty
+B. Kennels
+C. Cemeteries
+D. All conditional uses in the Exclusive Farm Use, Forestry, and Forestry/range
+zones
+
+56.040 - PROPERTY DEVELOPMENT STANDARDS
+
+A. Minimum Lot Size - 20 acres.
+
+B. Lot Size and Shape - See Article 61
+
+C. Building Heights and Setbacks - See Article 62
+
+D. Fences, Walls and Screening - See Article 64
+
+E. Landscaping - See Article 65
+
+ 56 - 2
+
+F. Signs - See Article 66
+
+G. Parking - See Article 68
+
+H. Access - See Article 71
+
+ 56.2 - 1
+ARTICLE 56.2
+OPEN SPACE AND CONSERVATION
+(OS&C)
+
+56.210 – PURPOSE
+
+The purpose of the open space and conservation zone is to protect designated
+areas of scenic and natural resources; to restrict development from areas with
+fragile, unusual, or unique quali ties; to protect and improve the quality of the air,
+water and land resources; and to plan development so as to conserve open space.
+On private lands, this zone shall be applied only to property owned by nonprofit
+organizations dedicated to the protection of areas with fragile or unique scenic or
+natural qualities.
+
+56.220 - PERMITTED USES
+
+Those uses which are permitted by Federal and State governments in the following
+areas:
+ Federal: National Parks, Research Natural Areas, Wildlife Refuges &
+Designated Wilderness Areas
+ State:      Wildlife Management Areas
+ Private: Lands owned by nonprofit organizations dedicated t o conservation
+purposes
+
+56.230 - PROPERTY DEVELOPMENT STANDARDS
+
+Property development standards shall be determined by the appropriate agency or
+organization that would be necessary for the protection of public health and natural
+resources.
+
+56.240 - BUILDINGS AND STRUCTURES
+
+Buildings in conjunction with permitted uses may be established subject to a
+Conditional Us e Permit.  In addition to review criteria enumerated in Section
+44.030, the following criteria shall apply:
+
+A. The use is compatible with open space and conservation values embodied in
+the Comprehensive Plan;
+
+B. The use will not interfere seriously with accepted farm and forest practices on
+adjacent lands devoted to those uses;
+
+C. The use will not materially alter the stability of the overall land use pattern of the
+area and is located in a manner harmonious with its surroundings; and
+
+D. The use is sited so as to not interfere with fish and wildlife habitat; and
+
+E. Complies with such other conditions as the review body considers necessary
+based on findings supported by substantial evidence in the whole record.
+ORD 44.103 Art. 56.4 Adopted July 10, 2015
+                                                                        56.4 - 1
+
+ARTICLE 56.4
+TRAIN PARK ZONE (TRP)
+56.410 - PURPOSE
+The purpose of the Train Park Zone is to provide for:
+A. Miniature Railroad Support Area  for activities needed to create and
+maintain the Miniature Railroad Museum, Railroad Educational
+Facilities and the multi-use Railroad Park.
+
+56.415 – MINIATURE RAILROAD SUPPORT AREA
+A Train Park Zone can be established to allow a Miniature Railroad Su pport Area
+where:
+A. The applicant owns an existing miniature railroad with at least 5 miles
+of track.
+
+56.420 – OUTRIGHT USES
+Any Outright Uses allowed in a Forestry Zone as defined in 55.020.
+
+56.430 – PERMITTED USES
+A. Railroad/Train Park
+B. Community Park
+C. Miniature Railroad facilities
+D. Custom/General Miniature Railroad manufacturing, servicing, warehousing,
+storage, distribution, and repair facilities.
+E. Miniature Railroad Track and switch manufacturing and repair train storage
+F. Train Storage
+G. Museum & Museum Store
+H. Picnic Shelters
+I. Office Space
+J. Community Assembly
+K. Schools
+L. Campgrounds
+M. RV Parks
+N. Restroom, Laundry, and Shower facilities
+O. Accessory Buildings and Uses
+P. Maintenance, Repair, and Storage of Equipment used to support Forestry and
+Miniature Railroading
+Q. Parking Spaces
+R. Food & Beverage Sales and Service
+S. Full Sized Rail Equipment Restoration and Interpretation facilities
+T. Community Water Systems
+ORD 44.103 Art. 56.4 Adopted July 10, 2015
+                                                                        56.4 - 2
+U. Community Sewage Systems
+V. Private Accommodations for visiting miniature railroaders where
+accommodations are occupied temporarily for the purpose of enjoying or
+supporting miniature railroad events
+W. Burn Pits
+X. Caretaker / Worker Residential
+Y. Uses det ermined by the Planning Director to be similar to those listed in this
+section to serve the miniature railroading recreational, public, and travel needs of
+the community and surrounding areas
+
+56.440 – CONDITIONAL USES
+The following uses may be permitted s ubject to standards listed in this article and it the
+provisions of Article 44 are satisfied:
+A. Emergency Services
+B. Fire stations for rural fire protection
+
+56.450 – PROPERTY DEVELOPMENT STANDARDS
+A. Minimum Lot Size – 2 acres
+B. Lot Size and Shape – See Article 61
+C. Building Heights and Setbacks – See Article 62
+D. Fences, Walls and Screening – See Article 64
+E. Landscaping – See Article 65
+F. Signs – See Article 66
+G. Parking – See Article 68
+H. Access – See Article 71
+I. Building size may not exceed 10,000 sqft
+
+ORD. 45.29 Art. 57.020 May 5, 1993
+57- 1
+ARTICLE 57
+SIGNIFICANT RESOURCE OVERLAY (SRO)
+57.010 - PURPOSE
+The purpose of the Significant Resource Overlay is to implement provisions of the
+Klamath County  Comprehensive Plan to preserve significant natural and cultural
+resources, to address the economic, social, environmental and energy consequences of
+conflicting uses upon significant natural and cultural  resources, and to permit
+development in a manner that does not adversely impact identified resource values.
+57.020 - DEFINITIONS
+"1-A"  Refers to resources which, based on information concerning the location, quality,
+and quantity of the resource site, were determined not to be important enough to
+warrant inclusion on the  plan inventory or are not required to be included in the
+inventory based on the specific Goal standards.
+"1-B"  Refers to a special category of sites in the inventory that have information
+indicating the possible  existence of a resource but where the information is
+inadequate to identify with particularity the  location, quality, and q uantity of the
+resource site.
+"1-C"  Refers to resources which, based on information concerning the location, quality
+and quantity of  the resource site, are considered to be significant, and are
+described in the Comprehensive Plan  Goal 5 Element and/or ide ntified on the
+Goal 5 Significant "1-C" Resource Map.
+"2-A"  Refers to "1 -C" resources where: 1) no conflicting uses were identified; and 2)
+where policies and ordinance provisions were adopted to insure preservation of
+the resource site.
+"3-A"  Resources so designated in the Comprehensive Plan Goal 5 Element are
+considered to be of  great significance and shall be preserved, regardless of any
+affects of such preservation on the conflicting uses.
+"3-B"  Resources so designated in the Comprehensive Plan Goal 5 Element are
+considered to be  significant, but as a result of analysis of the economic, social,
+environmental and energy consequences contained in the Comprehensive Plan,
+any conflicting use is to be allowed,  regardless of any possible impacts on the
+resource.
+"3-C"  Resources so designated in the Comprehensive Plan Goal 5 Element are
+considered to be significant, and conflicting uses to the resource shall be limited
+in order to protect the resource  from irreparable harm.
+ORD. 44.67.1 Art. 57.070(B)(3) Adopt June 2, 2009 July 8, 2009
+
+57- 2
+57.030 - APPLICATION
+In addition t o all other applicable provisions of this code, this article shall apply to all
+land uses, land  divisions, developments and associated activities coincident with a
+resource identified or mapped as  significant ("1 -C") in the Klamath County
+Comprehensive Plan.
+A. All land uses, developments and associated activities which represent actual or
+potential conflicting  uses to a resource as identified in Section 57.040 shall be
+processed as conditional uses unless otherwise specified.
+1. Uses identified as a permitted use in the underlying zone shall be reviewed solely
+against the standards and criteria of this article.
+2. Uses identified as a conditional use in the underlying zone shall be reviewed
+against the standards and criteria of this article in addition to a ll other applicable
+standards and criteria of this code.
+3. The siting of a residential dwelling when located inside a Big Game Habitat
+mapped "Impacted Area"; and, when substantial proof is provided showing
+standards enumerated in Article 57.070(C)(2)(D),  (E), & (F) can be met without
+the application of a Conditional Use Permit and standards enumerated in Article
+57.060.
+B. All land divisions in big game habitat shall comply with the standards enumerated in
+Section 57.070;
+C. Accepted farm practices as def ined by this code or forest practices regulated by the
+Oregon Forest Practices Act are exempt from the provisions of this article;
+D. If an applicant for a development permit governed by this code believes that an
+identified "1 -C" resource is not present o n the site or is not affected by the
+development proposal, the applicant shall  provide substantial evidence to the
+County prior to submitting an application demonstrating how  this article does not
+apply.  The Planning Director or his/her designee shall con sult with appropriate
+resource management agencies and issue an order of determination pursuant to the
+Type II Administrative Review Procedure (Article 22).
+57.040 - CONFLICTING USES
+A. Mineral and Aggregate Resources
+1. Dwellings
+2. Manufactured dwelling or recreational vehicle parks
+3. Schools and churches
+4. Parks, campgrounds, hunting and fishing preserves
+5. Community centers and recreation facilities
+ORD. 45.31 Art. 57.040 (B) to (I) February 15, 1995
+57- 3
+6. Motels or travelers' facilities
+7. Public buildings
+B. Bear Valley Wildlife Refuge
+1. Within the Core Area and Primary Buffer Area
+a. Forest management activities inconsistent with interagency Bald Eagle
+Management Guidelines and not regulated by the Oregon Forest Practices
+Act
+b. Residential development and permanent structures
+c. Roads and highways
+d. Mining
+e. Discharge of pollution
+2. Within the Secondary Buffer Area
+a. Residential development greater than 1 dwelling per 20 acres
+b. Commercial or industrial activities
+c. Schools and churches
+d. Electrical transmission lines
+e. Roads and highways
+f. Discharge of pollutants
+g. Forest management activities not regulated by the Oregon Forest Practices
+Act
+h. Mining between November and April
+3. Within the Flyway
+a. Electrical transmission lines
+b. Residential development greater than 1 dwelling per 20 acres
+c. Commercial or industrial development
+C. Wetlands/Riparian Areas/Class I Streams/Fish Habitat
+1. Non water-dependent uses
+2. Shoreline development or alteration
+3. Removal of riparian vegetation
+4. Filling or removing material/instream modification
+5. Introduction of pollutants (point or non-point)
+ORD. 45.24 Art. 57.040(I) October 9, 1991
+ORD. 45.31 Art. 57.040(B) to (I) February 15, 1995
+57- 4
+6. Water impoundments
+7. Drainage or channelization
+D. Big Game Winter Range
+1. Dwellings
+2. Commercial uses
+3. Mining
+4. Roads and highways
+5. Parks and campgrounds
+6. Schools and churches
+7. Extensive impact facilities
+8. Golf courses
+E. Historic Resources
+1. Demolition or alteration
+F. Archeological Resources
+1. Any excavation or mining activity in a known archeologically sensitive area as
+identified in the  Comprehensive Plan which disturbs more than 10,0 00 square
+feet to a depth greater than an average of 12 inches below the natural surface
+2. Any activity resulting in permanent coverage of a resource site
+G. Wild and Scenic Waterways
+1. Commercial or industrial development
+2. Dams, impoundments or diversion facilities
+3. Filling or removing material
+4. Mining
+57.050 - GENERAL REVIEW PROCEDURE
+A. Where a decision has been made to protect a resource inventoried in the
+Comprehensive Plan from conflicting uses (a "3-A" decision), applicants must clearly
+demonstrate that the proposed use will  not negatively impact the resource .
+Applications for a development permit shall be reviewed in the following manner:
+1. The applicant shall submit a resource management plan meeting the
+requirements of subsection 4 of this section to the County.
+
+57- 5
+2. Resource management agencies identified in Section 570.080 shall review the
+application against their plans, policies and programs for resource management
+and determine whether or not the  development proposal complies or does n ot
+comply with their mandated plans, policies and  programs for resource
+preservation.
+3. If a resource management agency does not accept an applicant's resource
+management plan as  adequate for preservation of the resource in question, the
+County shall deny the development permit application.
+4. Resource management plans shall include the following elements:
+a. A detailed description of the development proposal including a description of
+all associated activities and operating characteristics of the use;
+b. A description of possible impacts (positive or negative) to the resource
+resulting from the proposed development;
+c. A description of the type, extent and location the of the resource involved;
+d. A written statement detailing the proposed strategy to pres erve the identified
+resource.  Such strategy shall include, but not be limited to:
+1) Restrictions on conflicting uses, and the means by which such restrictions
+will be enforced;
+2) The provision of buffer areas, and the means to enforce use limitations in
+the buffer areas;
+3) A mitigation program which considers alternatives to the proposed
+development and  includes standards to assess the effectiveness of the
+mitigation effort;
+4) A monitoring plan for the site to assess long -term impacts from
+development activities, including indicator species or conditions that will
+allow for long-term monitoring;
+5) Special provisions such as conservation easements or land dedications.
+e. Documentation of sources relied upon in developing the management plan.
+B. Where a decision has been made to allow conflicting uses to a resource inventoried
+in the  Comprehensive Plan (a "3 -B" decision), this article shall not apply to the
+development proposal.
+C. When a decision has been made to limit conflicting uses to a resource inve ntoried in
+the Comprehensive Plan (a "3 -C" decision), applications for a development permit
+shall be reviewed in the following manner:
+1. A complete application including a detailed description of the development
+proposal which address the standards and cr iteria of this article shall be referred
+for comment to local, state or  federal agencies having respons ibility for resource
+management as identified in Section 57.090.
+
+57- 6
+2. Resource management agencies may review the application against their plans,
+policies and programs for resource management and respond to the County as
+to how they believe the  development proposal complies or does not comply with
+their plans, policies and programs, and  does or does not comply with the
+applicable criteria and standards of this article.
+3. The appropriate review body shall incorporate all comments, determinations and
+recommendations of resource management agencies into its decision, or shall
+make findings based on substantial evidence in the whole record why the agency
+comments, determinations and recommendations do not apply.
+57.060 - GENERAL REVIEW CRITERIA
+The following review criteria shall apply to all actions governed by this article unless
+otherwise specified .  Criteria and standards enumerated in Section 57.070 shall a lso
+apply as appropriate.
+A. The resource site will not be altered or impacted to a degree that destroys its
+significance;
+B. The proposed development will not result in the loss of habitat for threatened or
+endangered species of animals or plants as ident ified by the U.S .  Fish and Wildlife
+Service, Oregon Department of Fish and Wildlife or other appropriate state or federal
+agency;
+C. All feasible alternatives to the development have been considered and rejected
+which would not  result in a substantial adv erse impact on an identified resource
+value;
+D. The development is sited on the property in such a manner that minimizes adverse
+impacts on the identified resource; and
+E. Documentation has been provided to the County regarding requirements for state or
+federal permits  or licenses, and that appropriate resource management agencies
+have reviewed the development proposal against its plans, policies and programs.
+57.070 - SPECIFIC DEVELOPMENT CRITERIA AND STANDARDS
+A. Mineral and Aggregate Resources
+1. Establishment of a conflicting use will not force a significant change in or
+significantly increase  the cost of accepted and lawful mining operations on
+adjacent and nearby land.
+2. Conflicting uses shall be located a minimum of 1000 feet from an identified
+mining site where the property's size and configuration allows such a set back.
+3. Conflicting uses shall be located upwind from identified sites where practicable.
+4. Conflicting uses shall be located in a manner that screens the residence from site
+and sound of mining site.
+ORD. 45.31 Art. 57.070(B)(3) to (C)(2)(a)(2) February 15, 1995
+57- 7
+5. Approval of a conflicting use shall be conditioned upon the applicant recording a
+statement with the property deed recognizing the rights of mining operations on
+adjacent and nearby land to  continue consistent with all applicable laws a nd
+regulations governing such uses.
+B. Riparian Area--Class I Streams/Surface Waters
+1. Delineation of Riparian Areas of Concern - In order to protect, maintain and
+enhance the water  quality and biological productivity of Class I streams and
+surface waters identified in the  Comprehensive Plan, a riparian area of concern
+is designed as 100 feet from the ordinary high  water line of Class I streams and
+surface waters.  The riparian area of concern may be less upon  a determination
+that the line of upland vegeta tion exists within 100 feet of the ordinary high  water
+line.
+2. Regulated activities in Riparian Areas of Concern
+a. Preservation of Vegetation.  All trees and not less than 50% of the understory
+vegetation shall be preserved, unless the removal of dead, d iseased or dying
+trees is required to prevent property damage or maintain navigation, or unless
+conducted in accordance with other provisions of this code.
+b. Discharge of pollution .  Pollutants shall not be introduced into riparian areas
+or waterways.  Uses and activities shall not have a significant adverse impact
+on water quality or the beneficial use of water by adjacent or downstream
+users.  State and federal water quality laws and regulation shall be applied to
+determine compliance.
+c. Fill and remova l, modification of stream channels .  All activities shall be
+conducted in accordance with laws and regulations of appropriate state and
+federal agencies.
+d. Erosion control .  Temporary measures such as sandbags, straw or other
+ground cover to retard sedimentation during construction shall be employed.
+Permanent erosion control measures shall be required for any activity, which
+generates chronic runoff or sedimentation into a riparian area of concern .  All
+vegetation affected by construction shall be replace d immediately upon
+completion of construction.
+3. Setbacks for development
+a. No permanent structure shall be placed within a riparian area of concern
+except as provided in this article.
+b. All subsurface sewage disposal systems shall be set back not less than 100
+feet from the ordinary high water line of any identified water body or wetland.
+ORD. 45.31 Art. 57.070(B)(3) to (C)(2)(a)(2) February 15, 1995
+ORD. 45.67 Art. 57.070(C) Adopt May 16, 2008 – Acknowledged June 10, 2008
+ORD. 44.67.1 Art. 57.070(C)(2)(A), (B), & (C) Adopt June 2, 2009 – Acknowledged July 8, 2009
+57- 8
+4. Special exception/requirements – The following activities are exempt from the
+requirements of this article:
+a. Residential uses on a lot or parcel legally created p rior to November 15,
+1990.  Structures and subsurface sewage disposal systems shall be setback
+from waterways the maximum amount practicable.
+b. Structures necessary and required to make use of a water right.
+c. Public works projects coordinated through re sponsible state or federal
+agencies having jurisdiction for resource management.
+d. Structural erosion control activities where no practicable non -structural
+alternative exists.
+C. Big Game Habitat
+1. Land Divisions – Minimum Parcel Size
+A) Deer
+1) 80 acres in Low – Medium Density Winter Range
+2) 160 acres in High Density Winter Range
+B) Antelope High Density Winter Range: 160 acres
+C) Elk
+1) 160 acres in Rocky Mountain High Density Winter Range
+2) 160 acres in Roosevelt Elk High Density Spring Range
+3) 160 acres in Roosevelt Elk High Density Winter Range
+D) Impacted Area
+1) The minimum parcel size will be the minimum parcel size of the underlying
+zone.
+2. Residential Development Standards
+A. Residential home sites (including accessory buildings) fronting a public road
+may be permitted if:
+1) Not more than 330 feet from an existing dwelling;
+or
+2) Not more than 150 feet from a side property boundary; and
+3) Not more than 100 feet from an existing public road.
+ORD. 45.67 Art. 57.070(C) Adopt May 16, 2008 – Acknowledged June 10, 2008
+ORD. 44.67.1 Art. 57.070(C)(2)(A), (B), & (C) Adopt June 2, 2009 – Acknowledged July 8, 2009
+57- 9
+B. Residential home sites (including accessory bui ldings) on a parcel in a
+mapped “impacted area” shall be sited using the Base Zoning setback
+standards.
+C. Residential home sites (including accessory buildings) not fronting a public
+road and on a parcel not within a mapped “impacted area” may be permitte d
+if:
+1) Not more than 7 other dwellings exist within a 640 acre square centered
+on the center of the subject parcel in mapped areas of impacted (low -
+medium density) deer winter range; or
+2) Not more than 3 other dwellings exist within a 640 acre square ce ntered
+on the center of the subject parcel in mapped areas of important (high
+density) deer winter range; or
+3) Not more than 3 other dwellings exist within a 640 acre square centered
+on the center of the subject parcel in mapped areas of Antelope High
+Density Winter Range or Rocky Mountain Elk High Density Winter Range
+or Roosevelt Elk High Density Spring Range or Roosevelt Elk High
+Density Winter Range.
+D. Residential home sites (including accessory buildings) shall not be sited
+within a critical habitat area or a migration corridor as may be identified by the
+Oregon Department of Fish and Wildlife, when the habitat area or migration
+corridor has been identified in the Comprehensive Plan.
+E. Fencing provisions shall apply as a condition of approval for any  new fences
+constructed as part of development of a property in conjunction with a
+conditional use permit or site plan review.
+a. New fences on the perimeter of the property shall be designed to permit
+wildlife passage.  The following standards and guidelines shall apply:
+1. The distance between the ground and bottom strand or board shall  be
+at least 16 inches.
+2. The height of the fence shall not exceed 44 inches above ground level.
+3. Smooth wire and wooden fence that allow passage of wildlife are
+preferred.  Woven wire fences are discouraged.
+b. Exceptions:
+1. Fences around home sites designed to exclude wildlife from  gardens,
+flowerbeds, orchards, etc., shall enclose no more than 1 acre.
+2. Corrals used for working livestock.
+
+ORD. 45.24 Art. 57.080(2)(A), (3)(A) Adopt September 24, 1991
+ORD. 45.27 Art. 57.080(C) Adopt April 8, 1992
+ORD. 45.31 Art. 57.080 Adopt February 15, 1995
+ORD. 45.67 Art. 57.070(C) Adopt May 16, 2008 – Acknowledged June 10, 2008
+ORD. 44.67.1 Art. 57.070(C)(2)(A), (B), & (C) Adopt June 2, 2009 – Acknowledged July 8, 2009
+57- 10
+F. Approval of a dwelling shall be conditioned upon the resident filing a
+statement with the property deed agreeing to control free-roaming dogs.  Said
+agreement shall include a statement recognizing damage from wildlife may
+occur when siting a dwelling or accessory building in the  Significant
+Resources Overlay.
+G. Approval of a dwelling shall be conditioned upon applicant filing a restrictive
+covenant with the property deed agreeing to restrict off -road vehicle use from
+November to April.  Farm or Forest tax deferred property is ex empt from this
+covenant, but off -road use is limited to property management, and owner is
+required to show proof that property is in tax deferral, at time of development.
+D. Geothermal Resources
+Development proposals coincident with identified geothermal r esource shall comply
+with the provisions of Article 59.040 of this code.
+E. Archeological Resources
+Development proposals coincident with archeological resources shall comply with
+the provisions of Article 86 of this code.
+F. Historic Resources
+Demolition of or alteration to an identified historic resource shall comply with the
+provisions of Article 87 of this code.
+57.080 - INVENTORY AMENDMENT PROCEDURE
+A. The purpose of this Section is to codify the procedure for adding a site to the
+appropriate Goal 5 inventory, determine the significance of the site, and apply Article
+57 to the site.
+B. The application shall be handled as an amendment to the Klamath County
+Comprehensive Plan and  the zoning map, using the criteria set forth under Section
+48.030 for quasi-judicial actions and Section 49.030 for legislative actions, and shall
+be subject to the criteria set out in Section 57.080(C),  depending on the site and
+inventory.
+C. All sites proposed for inclusion on a Goal 5 inventory as a significant resource with
+the Significant Resource Overlay Zone applied shall be submitted with the following
+information:
+1. Complete tax account number and a map showing the boundaries of the site;
+2. Detailed information on the quantity of the resource at the site;
+ORD. 45.24 Art. 57.080(2)(A), (3)(A) Adopt September 24, 1991
+ORD. 45.27 Art. 57.080(C) Adopt April 8, 1992
+ORD. 45.31 Art. 57.080 Adopt February 15, 1995
+57- 11
+3. Detailed information on the quality of the resource at the site;
+4. A plot plan showing that the proposed site meets all applicable setbacks in the
+Klamath County Land Development Code as applicable;
+5. Submit a detailed report of all potential and mapped conflicting uses as identified
+in Section  57.040, including, but not limited to, farm and forest uses, dwelling
+units and other significant natural, cultural and Goal 5 resources;
+6. A submittal of findings that the proposed resource site meets and satisfies any
+applicable development and/or special use standards in this Code;
+7. A submittal of findings that the proposed resource site meets the criteria set forth
+under Articles 48 or 49 of the Klamath County Land Development Code.
+57.090 - RESOURCE MANAGEMENT AGENCIES
+A. Mineral and Aggregate Resources
+1. Oregon Department of Geology and Mineral Industries
+2. Oregon Department of Fish and Wildlife
+3. Oregon Department of Environmental Quality
+4. Oregon State Highway Division
+5. Klamath County Public Works Department
+B. Bear Valley Wildlife Refuge
+1. U.S. Fish and Wildlife Service
+2. Oregon Department of Fish and Wildlife
+3. Oregon Department of Forestry
+C. Wetlands/Riparian Areas/Class I Streams/Fish Habitat
+1. U.S. Fish and Wildlife Service
+2. U.S. Bureau of Reclamation
+3. Oregon Department of Environmental Quality
+4. Oregon Department of Fish and Wildlife
+5. Oregon Division of State Lands
+6. Klamath Tribe
+D. Upland Game Bird Sites
+1. Oregon Department of Fish and Wildlife
+2. Klamath Tribe
+
+57- 12
+E. Raptor Nest Sites and Rookeries
+1. Oregon Department of Fish and Wildlife
+2. U.S. Fish and Wildlife Service
+3. U.S. Forest Service
+4. U.S. Bureau of Land Management
+F. Big Game
+1. Oregon Department of Fish and Wildlife
+2. Klamath Tribe
+G. Natural Areas
+1. U.S. Forest Service
+2. U.S. Bureau of Land Management
+H. Groundwater Resources
+1. Oregon Department of Water Resources
+2. Oregon Department of Environmental Quality
+I. Geothermal Resources
+1. Oregon Department of Energy
+J. Historic Buildings and Sites
+1. Oregon State Historic Preservation Office
+2. Klamath County Historical Landmark Commission
+K. Archeological Resources
+1. Klamath Tribe
+2. Oregon State Historic Preservation Office
+L. Wild and Scenic Waterways
+1. Oregon Department of Parks and Recreation
+2. U.S.  Forest Service
+3. U.S.  Bureau of Land Management
+
+ 58 - 1
+ARTICLE 58
+AIRPORT SAFETY OVERLAY - KINGSLEY FIELD (ASK)
+
+58.010 - AIRPORT SAFETY ZONES DEFINED
+Safety zones include all land lying underneath or within approach zones,
+transitional zones, horizontal zones and conical zones as they apply to the City of
+Klamath Falls Kingsley Field.  Such safety zones are shown on the Kingsley Field
+Airport Master Plan 1987 -2005, adapted by the City of Klamath Falls, January
+1988. The safety zones are defined as follows:
+A. Precision Instrument Runway Approach Zone - A surface 1,000 feet wide at the
+end of Runway 32 and expanding uniformly to a width of 16,000 feet 50,000 feet
+from the end of the primary runway surface.  The centerline of the surface is the
+continuation of the runway centerline.
+
+B. Non-precision Instrument Runway Approach Zone - A surface 1,000 feet wide
+at the end of Runway 14 and expanding uniformly to a width of 3,500 feet
+10,000 feet from the end of the primary runway surface.   The centerline of the
+surface is the continuation of the runway centerline.
+
+C. Utility Runway Visual Approach Zone - A surface 500 feet wide at the end of
+Runway 7-25 and expanding uniformly to a width of 1,250 feet 5,000 feet from
+the end of the primary runway surface. The centerline of the surface is the
+continuation of the runway centerline.
+
+D. Transitional Zones - Surfaces extending outward and upward at 90 -degree
+angles to the runway centerline at a slope of 7 to 1. Transitional zones for
+portions of the precision approach zones which, project through and beyond the
+limits of the conical surface extend 5,000 feet from the edge of the approach
+zones measured at 90-degree angles to the runway centerline.
+
+E. Horizontal Zone - A surface established by swinging arcs of 10,000 feet radii
+from the centerline of each end of Runway 14-32, and connecting the arcs by
+drawing lines tangent to those arcs.  The horizontal zone does not include the
+approach and transitional zones.
+
+F. Conical Zone - A surface at the periphery of the horizontal zone extending
+outward a distance of 4,000 fee t.  The conical zone does not include the
+precision instrument approach zones and the transitional zones.
+
+ 58 - 2
+58.020 - USE RESTRICTIONS
+A. Safety Hazards - No land use is permitted within any airport safety zone defined
+in Section 58.010 that;
+
+ 1. Creates e lectrical interference with navigational signals or radio
+communication between the airport and aircraft;
+
+ 2. Interferes with a pilot's ability to distinguish between airport lights and other
+lights; or
+
+ 3. Results in glare in the eyes of pilots using the airport;
+
+ 4. Impairs visibility of the airport by means of smoke or other visual
+impairments;
+
+ 5. Attracts concentrations of birds within 10,000 feet of the airport; or
+
+ 6. In any other way creates a hazard or endangers the landing, takeoff, or
+maneuvering of aircraft using the airport.
+
+B. Approach Safety Zone - On lands lying within approach zones defined in
+Section 58.020, the following restrictions shall apply:
+
+ 1. All development shall be subject to a conditional use permit.
+
+ 2. Uses determined by the review body as attracting large groups of people
+shall be prohibited.
+
+ 3. Multifamily residences or any other group residential facility shall be
+prohibited.
+
+ 4. Schools, hospitals, churches and similar civic uses defined by the review
+body shall be prohibited.
+
+ 5. Single-family residences may be permitted at a density not greater than one
+dwelling per 5 acres, except that a dwelling may be permitted on a lot or
+parcel lawfully existing on November 15, 1990 regardless of the property's
+size.
+
+ 58 - 3
+58.030 - HEIGHT LIMITATIONS
+Notwithstanding other provisions of this code, no building, structure or tree shall be
+established, maintained or allowed to grow in excess of the height established for
+the applicable safety zone.  Height limitations for the appl icable safety zones are
+defined as follows:
+A. Precision Instrument Runway Approach Zone -   The surface coincident with
+Runway 32 extending outward and upward at a slope of 50 to 1 beginning at the
+end of, and at the same elevation as, the primary runway surface and extending
+10,000 feet outward along an extension of the runway centerline; thence
+extending outward and upward at a slope of 40 to 1 an  additional 40,000 feet
+outward at a slope of 40 to 1 an additional 40,000 feet outward along an
+extension of the runway centerline.
+
+B. Non-precision Instrument Runway Approach Zone -  The surface coincident
+with Runway 14 extending outward and upward at a slope of 40 to 1 beginning
+at the end of, and at the same elevation as, the primary runway surface and
+extending 5,000 feet outward along an extension of the runway centerline.
+
+C. Utility Runway Visual Approach Zone - This surface coincident  with Runway
+7-25 extending outward and upward at a slope of 20 to 1 beginning at the end
+of, and at the same elevatio n as, the primary runway surface and extending
+5,000 feet outward along an extension of the runway centerline.
+
+D. Transitional Zones - The surface extending outward and upward beginning at
+the side of and at the same elevation as, the primary runway surfa ce and the
+approach zones, and extending to where it intersects the horizontal zone.
+Where the approach surfaces pass through the conical surface, the transitional
+zone shall be the surface extending outward and upward at a  slope of 7 to 1
+beginning at the sides of and at the same elevation as the approach zones and
+extending to where they intersect with the conical surface.  Where the precision
+instrument runway approach zone projects beyond the conical zone, the
+transitional zone shall be the surface extending outward and upward at a slope
+of 7 to 1 beginning at the sides of and at the same elevation as the precision
+instrument  runway approach surface, and extending a horizontal distance of
+5,000 feet outward measured at 90 -degree angles to an extension  of the run
+way centerline.
+
+E. Horizontal Zone - An elevation of 4,242 feet above mean sea level, or 150 feet
+above the airport.
+
+F. Conical Zone - The surface extending outward and upward at a slope of 20 to 1
+beginning at the periphery of the horizontal zone and extending to an elevation
+of 4,442 feet above mean sea level, or 350 feet above the airport.
+
+G. Applicable Height Limitation - Where an area may be subject to more than one
+height limitation, the more restrictive limitation shall apply.
+ORD 45.71 Art.58.2 Adopted December 31, 2008 Acknowledged March 6, 2009
+                                                                 58.2 - 1
+ARTICLE 58.2
+AIRPORT NOISE OVERLAY - KINGSLEY FIELD (ANK)
+58.210 - APPLICATION
+Noise measurements in the vicinity of the Klamath Falls/ Kingsley Field are
+expressed in terms of daynight  average sound level (Ldn) contours .  The Ldn
+contours designated on th e Klamath County  Comprehensive Plan and official
+zoning map define bands within which certain uses may be adversely  affected by
+aircraft noise .  The purpose of these special standards is to identify uses
+appropriate within  these bands and to specify develo pment standards that
+ensure the public health, welfare and safety .  The contours are derived from the
+Noise Impact Boundary Study for Kingsley Field, December, 1980.
+58.220 - PERMITTED AND CONDITIONALLY PERMITTED USES
+If the boundaries of the airport noise  overlying zone overlap any portion of a
+basic zone designation,  then said portion shall be subject to the use limitations
+described by this article.  In no case shall the airport noise overlay permit a more
+intensive use than that allowed by the basic zone designation.
+A. Area Within the 65-70 Ldn Contours:
+1. Permitted uses include parks, playgrounds, golf courses, riding stables,
+water-based recreation  areas, cemeteries, industrial, and all agricultural
+use types in accordance with the basic zone designation.
+2. Conditionally permitted uses include single -family and multifamily
+residential uses, commercial  uses, civic uses, offices, lodging, and sports
+arenas and stadiums in accordance with the basic zone designation.
+3. Development provisions shall app ly as conditions of approval for any
+residence or land division in conjunction with a conditional use permit or
+site plan review.
+a. Development of residential dwellings and land division shall include a
+written statement recorded with the deed which recog nizes the
+existence of the Klamath Falls Airport and all present and future
+operational activities and practices.  Said statement shall incorporate a
+health and safety agreement of “no remonstrance/no complaint” ; and,
+the acceptance of present and future noise impact(s).
+b. Placement of a dwelling through the conditional use permit process
+may be permitted on a lot or parcel created regardless of property’s
+size; unless, prohibited by the underlying land use zone.
+ORD 45.71 Art.58.2 Adopted December 31, 2008 Acknowledged March 6, 2009
+                                                               58.2 - 2
+B. Area Within the 70 and Greater Ldn Contour:
+1. Permitted uses include golf courses, riding stables, water-bases recreation
+areas, cemeteries, industrial, and all agricultural uses in accordance with
+the basic zone designation.
+2. Conditionally permitted  uses include civic and commercial uses, offices,
+and lodging uses in accordance with the basic zone designation.
+3. Prohibited uses include permanent residential, community education,
+religious assembly, cultural  exhibits and library services, and any hea lth
+care related use.
+58.230 - MITIGATION OF NOISE IMPACTS
+In addition to the standards of the basic zone designation, the following shall be
+required prior to development approval:
+A. Insulation required - Applicant shall prepare a plan that will provide for
+adequate noise insulation.   Appropriate criteria, to be determined by the
+applicant, for attenuation of airport and aircraft noise  shall be based on the
+proposed use and the level of noise it can tolerate without interference or
+annoyance.  Adequate noise insulation shall be installed prior to approval of
+the final inspection for a building permit.
+
+58.4 - 1
+ARTICLE 58.4
+AIRSTRIP SAFETY OVERLAY
+BEAVER MARSH, CHILOQUIN, CRESCENT LAKE AND MALIN (AS)
+
+58.410 - AIRSTRIP SAFETY ZONES DEFINED
+
+Safety zones include all land lying underneath or within primary zones, horizontal
+zones, conical zones, approach zones and transitional zones for the airstrips at
+Beaver Marsh, Chiloquin, Crescent Lake and Malin.   The safety zones are defined
+as follows:
+
+A. Primary Zone -  A surface 500 f eet in width centered on the runway and
+extending 220 feet beyond each end of the runway.
+
+B. Horizontal  Zone - A surface 150 feet above the airport elevation created by
+swinging arcs of 5,000 feet radii from the center of each end of the primary
+runway surface and connecting the adjacent arcs by lines tangent to the arcs.
+
+C. Conical Zone - A surface extending 4,000 feet as measured radially from the
+horizontal surface outward and upward at a slope of 20 to 1.
+
+D. Approach Zone - A surface the same width and elevation of the runway and
+expanding uniformly outward and upward at a slope of 20 to 1 to a width of
+1,250 feet 5,000 feet from the end of the primary runway surface.  The
+centerline of the surface is the continuation of the runway centerline.
+
+E. Transitional Zone - All that land which lies directly under and imaginary
+surface extending outward and upward at right angles to the runway
+centerline and centerline extended at a slope of 7 to 1 from the sides of the
+primary surfaces and from the sides of the  approach surfaces until they
+intersect the horizontal surface or the conical surface.   A surface extending
+outward and upward at right angles to the runway centerline at a slope of 7 to
+1 from the sides of the primary surfaces and from the sides of the a pproach
+surfaces until they intersect the horizontal surface or the conical surface.
+
+58.420 - USE RESTRICTIONS
+
+A. Safety Hazards - No land use is permitted within any airport safety zone defined
+in Section 58.410 that:
+
+ 1. Creates electrical interferen ce with navigational signals or radio
+communication between the airport and aircraft;
+
+ 2. Interferes with a pilot's ability to distinguish between airport lights and other
+lights;
+
+58.4 - 2
+ 3. Results in glare in the eyes of pilots using the airport;
+
+ 4. Impairs visibility of the airport by means of smoke or other visual impairment;
+
+ 5. Attracts concentrations of birds within 10,000 feet of the airport; or
+
+ 6. In any other way creates a hazard or endangers the landing, takeoff, or
+maneuvering of aircraft using the airport.
+
+B. Approach Zones - On lands lying within approach zones defined in Section
+58.410, the following restrictions shall apply:
+
+ 1. All development shall be subject to a conditional use permit.
+
+ 2. Uses determined by the review body as attracti ng large groups of people
+shall be prohibited.
+
+ 3. Multiple-family residences or any other group residential facility shall be
+prohibited.
+
+ 4. Schools, hospitals, churches and similar civic uses as defined by the review
+body shall be prohibited.
+
+5. Single-family residential may be permitted at a density  not greater than
+one dwelling per 5 acres, except that a dwelling may be permitted on a lot
+or parcel lawfully existing on November l5, 1990 regardless of the
+property's size.
+
+ 58.430 - HEIGHT RESTRICTIONS
+
+Notwithstanding other provisions of this code, no building, structure or tree shall be
+established, maintained or allowed to grow so as to project above or into any of the
+surface defined in Section 58.410.  Where an area may be subject to more than
+one height limitation, the  more restrictive limitation shall apply. Nothing in this
+subsection shall be construed as to prohibit any building, structure or tree not
+greater than 30 feet in height in any safety zone.
+
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 1
+
+ARTICLE 59
+FLOOD HAZARD OVERLAY
+
+59.010 - STATEMENT OF PURPOSE
+
+It is the purpose of this ordinance to promote public health, safety, and general welfare,
+and to minimize public and private losses due to flooding in flood hazard areas by
+provisions designed to:
+
+A. Protect human life and health;
+
+B. Minimize expenditure of public money for costly flood control projects;
+
+C. Minimize the need for rescue and relief efforts associated with flooding and generally
+undertaken at the expense of the general public;
+
+D. Minimize prolonged business interruptions;
+
+E. Minimize damage to public facilities and utilities such as water and gas mains;
+electric, telephone and sewer lines; and streets and bridges located in special flood
+hazard areas;
+
+F. Help maintain a stable tax base by providing for the sound use and development of
+flood hazard areas so as to minimize blight areas caused by flooding;
+
+G. Notify potential buyers that the property is in a special flood hazard area
+
+H. Notify those who occupy special flood hazard areas that they assume responsibility
+for their actions
+
+I. Participate in and maintain eligibility for flood insurance and disaster relief.
+
+59.020 - METHODS OF REDUCING FLOOD LOSSES
+
+In order to accomplish its purposes, this ordinance includes methods and provisions for:
+
+A. Restricting or prohibiting development which is dangerous to health, safety, and
+property due to water or erosion hazards, or which result in damaging increases in
+erosion or in flood heights or velocities;
+
+B. Requiring that development vulnerable to floods, including facilities which serve such
+uses, be protected against flood damage at the time of initial construction;
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 2
+
+C. Controlling the alteration of natural floodplains, stream channels, and natural
+protective barriers, which help accommodate or channel flood waters;
+
+D. Controlling filling, grading, dredging, and other development which may increase
+flood damage;
+
+E. Preventing or regulating the construction of flood barriers which will unnaturally
+divert flood waters or may increase flood hazards in other areas.
+
+59.030 – DEFINITIONS
+
+Unless specifically defined below, words or phrases used in this ordinance shall be
+interpreted so as to give them the meaning they have in common usage.
+
+Appeal: A request for a review of the interpretation of any provision of this ordinance or
+a request for a variance.
+
+Area of Shallow Flooding:  A designated Zone AO, AH, AR/AO or AR/AH on a
+community’s Flood Insurance Rate Map (FIRM) with a one percent or greater annual
+chance of flooding to an average depth of one to three feet where a clearly defined
+channel does not exist, where the path of flooding is unpredictable, and where velocity
+flow may be evident.  Such flooding is characterized by ponding or sheet flow.
+
+Area of Special Flood Hazard: The land in the floodplain within a community subject to
+a 1 percent or greater chance of flooding in any given year. It is shown on the Flood
+Insurance Rate Map (FIRM) as Zone A, AO, AH, A1-30, AE, A99, AR. “Special Flood
+Hazard Area” is synonymous in meaning and definition with the phrase “Area of Special
+Flood Hazard”.
+
+Base Flood: The flood having a one percent chance of being equaled or exceeded in
+any given year.
+
+Base Flood Elevation (BFE): The elevation to which floodwater is anticipated to rise
+during the base flood.
+
+Basement:  Any area of the building having its floor subgrade (below ground level) on all
+sides.
+
+Development:  Any man-made change to improved or unimproved real estate, including
+but not limited to buildings or other structures, mining, dredging, filling, grading, paving,
+excavation or drilling operations or storage of equipment or materials.
+
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 3
+
+Flood or Flooding:
+(a) A general and temporary condition of partial or complete inundation of normally
+dry land areas from:
+(1) The overflow of inland or tidal waters.
+(2) The unusual and rapid accumulation or runoff of surface waters from any
+source.
+(3) Mudslides (i.e., mudflows) which are proximately caused by flooding as
+defined in paragraph (a)(2) of this definition and are akin to a river of liquid and
+flowing mud on the surfaces of normally dry land areas, as when earth is
+carried by a current of water and deposited along the path of the current.
+(b) The collapse or subsidence of land along the shore of a lake or other body of
+water as a result of erosion or undermining caused by waves or currents of water
+exceeding anticipated cyclical levels or suddenly caused by an unusually high
+water level in a natural body of water, accompanied by a severe storm, or by an
+unanticipated force of nature, such as flash flood or an abnormal tidal surge, or by
+some similarly unusual and unforeseeable event which results in flooding as
+defined in paragraph (a)(1) of this definition.
+
+Flood Elevation Study: See “Flood Insurance Study”.
+
+Flood Insurance Rate Map (FIRM):  The official map of a community, on which the
+Federal Insurance Administrator has delineated both the special hazard areas and the
+risk premium zones applicable to the community. A FIRM that has been made available
+digitally is called a Digital Flood Insurance Rate Map (DFIRM).
+
+Flood Insurance Study (FIS):  An examination, evaluation and determination of flood
+hazards and, if appropriate, corresponding water surface elevations, or an examination,
+evaluation and determination of mudslide (i.e., mudflow) and/or flood-related erosion
+hazards.
+
+Flood Proofing:  Any combination of structural and nonstructural additions, changes, or
+adjustments to structures which reduce or eliminate risk of flood damage to real estate or
+improved real property, water and sanitary facilities, structures, and their contents.
+
+Floodway:  The channel of a river or other watercourse and the adjacent land areas that
+must be reserved in order to discharge the base flood without cumulatively increasing
+the water surface elevation more than a designated height.  Also referred to as
+"Regulatory Floodway."
+
+Functionally Dependent Use:  A use which cannot perform its intended purpose unless
+it is located or carried out in close proximity to water.  The term includes only docking
+facilities, port facilities that are necessary for the loading and unloading of cargo or
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 4
+
+passengers, and ship building and ship repair facilities, and does not include long term
+storage or related manufacturing facilities.
+
+Highest Adjacent Grade:  The highest natural elevation of the ground surface prior to
+construction next to the proposed walls of a structure.
+
+Historic Structure: Any structure that is:
+
+1. Listed individually in the National Register of Historic Places (a listing maintained
+by the Department of Interior) or preliminarily determined by the Secretary of the
+Interior as meeting the requirements for individual listing on the National Register;
+
+2. Certified or preliminarily determined by the Secretary of the Interior as contributing
+to the historical significance of a registered historic district or a district preliminarily
+determined by the Secretary to qualify as a registered historic district;
+
+3. Individually listed on a state inventory of historic places in states with historic
+preservation programs which have been approved by the Secretary of Interior; or
+
+4. Individually listed on a local inventory of historic places in communities with
+historic preservation programs that have been certified either:
+
+a. By an approved state program as determined by the Secretary of the Interior
+or
+b. Directly by the Secretary of the Interior in states without approved programs.
+
+Lowest Floor:  The lowest floor of the lowest enclosed area (including basement).  An
+unfinished or flood resistant enclosure, usable solely for parking of vehicles, building
+access or storage in an area other than a basement area is not considered a building’s
+lowest floor, provided that such enclosure is not built so as to render the structure in
+violation of the applicable non-elevation design requirements of this ordinance.
+
+Manufactured Dwelling:  A structure, transportable in one or more sections, which is
+built on a permanent chassis and is designed for use with or without a permanent
+foundation when attached to the required utilities.  The term "manufactured dwelling"
+does not include a "recreational vehicle" and is synonymous with “manufactured home”.
+
+Manufactured Dwelling Park or Subdivision:  A parcel (or contiguous parcels) of land
+divided into two or more manufactured dwelling lots for rent or sale.
+
+Mean Sea Level: For purposes of the National Flood Insurance Program, the National
+Geodetic Vertical Datum (NGVD) of 1929 or other datum, to which Base Flood
+Elevations shown on a community's Flood Insurance Rate Map are referenced.
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 5
+
+New Construction:  For floodplain management purposes, “new construction” means
+structures for which the “start of construction” commenced on or after the effective date
+of a floodplain management regulation adopted by Klamath County and includes any
+subsequent improvements to such structures.
+
+Recreational Vehicle:  A vehicle which is:
+
+1. Built on a single chassis;
+
+2. 400 square feet or less when measured at the largest horizontal projection;
+
+3. Designed to be self-propelled or permanently towable by a light duty truck; and
+
+4. Designed primarily not for use as a permanent dwelling but as temporary living
+quarters for recreational, camping, travel, or seasonal use.
+
+Special Flood Hazard Area (SFHA):  See “Area of special flood hazard” for this
+definition.
+
+Start of Construction:  Includes substantial improvement and means the date the
+building permit was issued, provided the actual start of construction, repair,
+reconstruction, rehabilitation, addition, placement, or other improvement was within 180
+days from the date of the permit.  The actual start means either the first placement of
+permanent construction of a structure on a site, such as the pouring of slab or footings,
+the installation of piles, the construction of columns, or any work beyond the stage of
+excavation; or the placement of a manufactured dwelling on a foundation.  Permanent
+construction does not include land preparation, such as clearing, grading, and filling; nor
+does it include the installation of streets and/or walkways; nor does it include excavation
+for a basement, footings, piers, or foundations or the erection of temporary forms; nor
+does it include the installation on the property of accessory buildings, such as garages or
+sheds not occupied as dwelling units or not part of the main structure.  For a substantial
+improvement, the actual start of construction means the first alteration of any wall,
+ceiling, floor, or other structural part of a building, whether or not that alteration affects
+the external dimensions of the building.
+
+Structure: For floodplain management purposes, a walled and roofed building, including
+a gas or liquid storage tank, that is principally above ground, as well as a manufactured
+dwelling.
+
+Substantial Damage:  Damage of any origin sustained by a structure whereby the cost
+of restoring the structure to its before damaged condition would equal or exceed 50
+percent of the market value of the structure before the damage occurred.
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 6
+
+Substantial Improvement:  Any reconstruction, rehabilitation, addition, or other
+improvement of a structure, the cost of which equals or exceeds 50 percent of the
+market value of the structure before the "start of construction" of the improvement.  This
+term includes structures which have incurred "substantial damage," regardless of the
+actual repair work performed.  The term does not, however, include either:
+
+1. Any project for improvement of a structure to correct existing violations of state or
+local health, sanitary, or safety code specifications which have been identified by
+the local code enforcement official and which are the minimum necessary to
+assure safe living conditions; or
+
+2. Any alteration of a "historic structure," provided that the alteration will not preclude
+the structure's continued designation as a "historic structure.”
+
+Variance: A grant of relief by Klamath County from the terms of a flood plain
+management regulation.
+
+Violation:  The failure of a structure or other development to be fully compliant with the
+community’s floodplain management regulations.  A structure or other development
+without the elevation certificate, other certifications, or other evidence of compliance
+required in this ordinance is presumed to be in violation until such time as that
+documentation is provided.
+
+59.040 - GENERAL PROVISIONS
+
+A. LANDS TO WHICH THIS ORDINANCE APPLIES
+
+This ordinance shall apply to all special flood hazard areas within the jurisdiction of
+Klamath County.
+
+B. BASIS FOR ESTABLISHING THE SPECIAL FLOOD HAZARD AREAS
+
+The special flood hazard areas identified by the Federal Insurance Administrator in a
+scientific and engineering report entitled “The Flood Insurance Study (FIS) for KLAMATH
+COUNTY, OREGON AND INCORPORATED AREAS, dated November 7, 2024, with
+accompanying Flood Insurance Rate Maps (FIRMs) are hereby adopted by reference
+and declared to be a part of this ordinance. The FIS and FIRM panels are on file at the
+Klamath County Planning Department in the Klamath County Government Center.
+
+///
+
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 7
+
+C.   COORDINATION WITH STATE OF OREGON SPECIALTY CODES
+
+Pursuant to the requirement established in ORS 455 that Klamath County
+administers and enforces the State of Oregon Specialty Codes, Klamath County does
+hereby acknowledge that the Oregon Specialty Codes contain certain provisions that
+apply to the design and construction of buildings and structures located in special
+flood hazard areas. Therefore, this ordinance is intended to be administered and
+enforced in conjunction with the Oregon Specialty Codes.
+
+D. COMPLIANCE AND PENALTIES FOR NONCOMPLIANCE
+
+1. COMPLIANCE
+
+All development within special flood hazard areas is subject to the terms of this
+ordinance and required to comply with its provisions and all other applicable
+regulations.
+
+2. PENALTIES FOR NONCOMPLIANCE
+
+No structure or land shall hereafter be constructed, located, extended, converted,
+or altered without full compliance with the terms of this ordinance and other
+applicable regulations. Violations of the provisions of this ordinance by failure to
+comply with any of its requirements (including violations of conditions and
+safeguards established in connection with conditions) shall constitute an Article 14
+(Enforcement) Nothing contained herein shall prevent the Klamath County from
+taking such other lawful action as is necessary to prevent or remedy any violation.
+
+E.  WARNING AND DISCLAIMER OF LIABILITY
+
+1. WARNING
+The degree of flood protection required by this ordinance is considered
+reasonable for regulatory purposes and is based on scientific and engineering
+considerations. Larger floods can and will occur on rare occasions. Flood heights
+may be increased by man-made or natural causes. This ordinance does not imply
+that land outside the areas of special flood hazards or uses permitted within such
+areas will be free from flooding or flood damages.
+
+2. DISCLAIMER OF LIABILITY
+This ordinance shall not create liability on the part of the Klamath County, any
+officer or employee thereof, or the Federal Insurance Administrator for any flood
+damages that result from reliance on this ordinance or any administrative decision
+lawfully made hereunder.
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 8
+
+59.050 - ADMINISTRATION
+
+A. DESIGNATION OF THE FLOODPLAIN ADMINISTRATOR
+
+The Planning Director and their designee is hereby appointed to administer,
+implement, and enforce this ordinance by granting or denying development permits in
+accordance with its provisions. The Floodplain Administrator may delegate authority
+to implement these provisions.
+
+B. DUTIES AND RESPONSIBILITIES OF THE FLOODPLAIN ADMINISTRATOR
+
+Duties of the floodplain administrator, or their designee, shall include, but not be
+limited to:
+
+1. PERMIT REVIEW
+Review all development permits to determine that:
+a. The permit requirements of this ordinance have been satisfied;
+b. All other required local, state, and federal permits have been obtained and
+approved.
+c. Review all development permits to determine if the proposed development is
+located in a floodway. If located in the floodway assure that the floodway
+provisions of this ordinance in section 59.060(B)(3) and 59.060(B)(4) are met;
+and
+d. Review all development permits to determine if the proposed development is
+located in an area where Base Flood Elevation (BFE) data is available either
+through the Flood Insurance Study (FIS) or from another authoritative source.
+If BFE data is not available then ensure compliance with the provisions of
+sections 59.060(A)(7); and
+e. Provide to building officials the Base Flood Elevation (BFE) and a freeboard
+standard of one foot above the BFE applicable to any building requiring a
+development permit.
+f. Review all development permit applications to determine if the proposed
+development qualifies as a substantial improvement as defined in section
+59.030.
+g. Review all development permits to determine if the proposed development
+activity is a watercourse alteration. If a watercourse alteration is proposed,
+ensure compliance with the provisions in section 59.060(A)(1).
+h. Review all development permits to determine if the proposed development
+activity includes the placement of fill or excavation.
+
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 9
+
+2. INFORMATION TO BE OBTAINED AND MAINTAINED
+
+The following information shall be obtained and maintained and shall be made
+available for public inspection as needed:
+
+a. Obtain, record, and maintain the actual elevation (in relation to mean sea
+level) of the lowest floor (including basements) and all attendant utilities of all
+new or substantially improved structures where Base Flood Elevation (BFE)
+data is provided through the Flood Insurance Study (FIS), Flood Insurance
+Rate Map (FIRM), or obtained in accordance with section 59.060(A)(7).
+b. Obtain and record the elevation (in relation to mean sea level) of the natural
+grade of the building site for a structure prior to the start of construction and
+the placement of any fill and ensure that the requirements of sections
+59.060(B)(4), and 59.050(B)(1)(b) are adhered to.
+c. Upon placement of the lowest floor of a structure (including basement) but
+prior to further vertical construction, obtain documentation, prepared and
+sealed by a professional licensed surveyor or engineer, certifying the
+elevation (in relation to mean sea level) of the lowest floor (including
+basement).
+d. Where base flood elevation data are utilized, obtain As-built certification of the
+elevation (in relation to mean sea level) of the lowest floor (including
+basement) prepared and sealed by a professional licensed surveyor or
+engineer, prior to the final inspection.
+e. Maintain all Elevation Certificates (EC) submitted to the community;
+f. Obtain, record, and maintain the elevation (in relation to mean sea level) to
+which the structure and all attendant utilities were floodproofed for all new or
+substantially improved floodproofed structures where allowed under this
+ordinance and where Base Flood Elevation (BFE) data is provided through
+the FIS, FIRM, or obtained in accordance with section 59.060(A)(7).
+g. Maintain all floodproofing certificates required under this ordinance;
+h. Record and maintain all variance actions, including justification for their
+issuance;
+i. Obtain and maintain all hydrologic and hydraulic analyses performed as
+required under section 59.060(B)(4).
+j. Record and maintain all Substantial Improvement and Substantial    Damage
+calculations and determinations as required under section 59.050(B)(4).
+k. Maintain for public inspection all records pertaining to the provisions of this
+ordinance.
+
+3. REQUIREMENT TO NOTIFY OTHER ENTITIES AND SUBMIT NEW
+TECHNICAL DATA
+
+a. COMMUNITY BOUNDARY ALTERATIONS
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 10
+
+The Floodplain Administrator shall notify the Federal Insurance Administrator
+in writing whenever the boundaries of the community have been modified by
+annexation or the community has otherwise assumed authority or no longer
+has authority to adopt and enforce floodplain management regulations for a
+particular  area, to ensure that  all Flood Hazard Boundary Maps (FHBM) and
+Flood Insurance Rate Maps (FIRM) accurately represent the community’s
+boundaries. Include within such notification a copy of a map of the community
+suitable for reproduction, clearly delineating the new corporate limits or new
+area for which the community has assumed or relinquished floodplain
+management regulatory authority.
+
+b. WATERCOURSE ALTERATIONS
+
+Notify adjacent communities, the Department of Land Conservation and
+Development, and other appropriate state and federal agencies, prior to any
+alteration or relocation of a watercourse, and submit evidence of such
+notification to the Federal Insurance Administration. This notification shall be
+provided by the applicant to the Federal Insurance Administration as a  Letter
+of Map Revision (LOMR) along with either:
+
+1) A proposed maintenance plan to assure the flood carrying capacity  within
+the altered or relocated portion of the watercourse is maintained; or
+2) Certification by a registered professional engineer that the project has been
+designed to retain its flood carrying capacity without periodic maintenance.
+
+The applicant shall be required to submit a Conditional Letter of Map Revision
+(CLOMR) when required under section 59.050(B)(3)(c).
+
+c. REQUIREMENT TO SUBMIT NEW TECHNICAL DATA
+
+   A community’s base flood elevations may increase or decrease resulting
+   from physical changes affecting flooding conditions. As soon as
+   practicable, but not later than six months after the date such information
+   becomes available, a community shall notify the Federal Insurance
+   Administrator of the changes by submitting technical or scientific data in
+   accordance with Title 44 of the Code of Federal Regulations (CFR),
+   Section 65.3. The community may require the applicant to submit such
+   data and review fees required for compliance with this section through the
+   applicable FEMA Letter of Map Change (LOMC) process.
+
+The Floodplain Administrator shall require a Conditional Letter of Map
+Revision prior to the issuance of a floodplain development permit for:
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 11
+
+1) Proposed floodway encroachments that increase the base flood elevation;
+and
+2) Proposed development which increases the base flood elevation by more
+than one foot in areas where FEMA has provided base flood elevations but
+no floodway.
+
+   An applicant shall notify FEMA within six (6) months of project completion
+   when an applicant has obtained a Conditional Letter of Map Revision
+   (CLOMR) from FEMA. This notification to FEMA shall be provided as a
+   Letter of Map Revision (LOMR).
+
+   The applicant shall be responsible for preparing all technical data to
+   support CLOMR/LOMR applications and paying any processing or
+   application fees associated with the CLOMR/LOMR.
+
+The Floodplain Administrator shall be under no obligation to sign the Community
+Acknowledgement Form, which is part of the CLOMR/LOMR application, until
+the applicant demonstrates that the project will or has met the  requirements of
+this code and all applicable state and federal permits.
+
+4. SUBSTANTIAL IMPROVEMENT AND SUBSTANTIAL DAMAGE
+ASSESSMENTS AND DETERMINATIONS
+
+Conduct Substantial Improvement (SI) (as defined in section 2.0) reviews for all
+structural development proposal applications and maintain a record of SI
+calculations within permit files in accordance with section 59.050(B). Conduct
+Substantial Damage (SD) (as defined in section 59.030) assessments when
+structures are damaged due to a natural hazard event or other causes. Make SD
+determinations whenever structures within the special flood hazard area are
+damaged to the extent that the cost of restoring the structure to its before
+damaged condition would equal or exceed 50 percent of the market value of the
+structure before the damage occurred.
+
+C. ESTABLISHMENT OF DEVELOPMENT PERMIT
+
+1. FLOODPLAIN DEVELOPMENT PERMIT REQUIRED
+
+A development permit shall be obtained before construction or development
+begins within any area horizontally within the special flood hazard area
+established in section 59.060(B)(3)(c). The development permit shall be required
+for all structures, including manufactured dwellings, and for all other development,
+as defined in section 59.030, including fill and other development activities.
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 12
+
+2. APPLICATION FOR DEVELOPMENT PERMIT
+
+Application for a development permit may be made on forms furnished by the
+Floodplain Administrator and may include, but not be limited to, plans in duplicate
+drawn to scale showing the nature, location, dimensions, and elevations of the
+area in question; existing or proposed structures, fill, storage of materials,
+drainage facilities, and the location of the foregoing.
+Specifically, the following information is required:
+a. In riverine flood zones, the proposed elevation (in relation to mean sea level),
+of the lowest floor (including basement) and all attendant utilities of all new and
+substantially improved structures; in accordance with the requirements of
+section 59.050(B).
+b. Proposed elevation in relation to mean sea level to which any non-residential
+structure will be floodproofed.
+c. Certification by a registered professional engineer or architect licensed in the
+State of Oregon that the floodproofing methods proposed for any non-
+residential structure meet the floodproofing criteria for non-residential
+structures in section 59.060(B)(3)(c).
+d. Description of the extent to which any watercourse will be altered or relocated.
+e. Base Flood Elevation data for subdivision proposals or other development
+when required per sections 59.050(B)(1) and 59.060(A)(6).
+f. Substantial improvement calculation for any improvement, addition,
+reconstruction, renovation, or rehabilitation of an existing structure.
+g. The amount and location of any fill or excavation activities proposed.
+
+D. VARIANCE PROCEDURE
+
+The issuance of a variance is for floodplain management purposes only. Flood
+insurance premium rates are determined by federal statute according to actuarial risk
+and will not be modified by the granting of a variance.
+
+1. CONDITIONS FOR VARIANCES
+
+a. Generally, variances may be issued for new construction and substantial
+improvements to be erected on a lot of one-half acre or less in size contiguous
+to and surrounded by lots with existing structures constructed below the base
+flood level, in conformance with the provisions of sections 59.050(D)(1), and
+59.050(D)(2). As the lot size increases beyond one-half acre, the technical
+justification required for issuing a variance increases.
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 13
+
+b. Variances shall only be issued upon a determination that the variance is the
+minimum necessary, considering the flood hazard, to afford relief.
+c. Variances shall not be issued within any floodway if any increase in flood
+levels  during the base flood discharge would result.
+d. Variances shall only be issued upon:
+1) A showing of good and sufficient cause;
+2) A determination that failure to grant the variance would result in exceptional
+hardship to the applicant;
+3) A determination that the granting of a variance will not result in increased
+flood heights, additional threats to public safety, extraordinary public
+expense, create nuisances, cause fraud on or victimization of the public, or
+conflict with existing laws or ordinances.
+e. Variances may be issued by a community for new construction and substantial
+improvements and for other development necessary for the conduct of a
+functionally dependent use provided that the criteria of section 59.050(D)(1)
+(b) – (d) are met, and the structure or other development is protected by
+methods that minimize flood damages during the base flood and create no
+additional threats to public safety.
+
+2. VARIANCE NOTIFICATION
+
+Any applicant to whom a variance is granted shall be given written notice that the
+issuance of a variance to construct a structure below the Base Flood Elevation will
+result in increased premium rates for flood insurance and that such construction
+below the base flood elevation increases risks to life and property. Such
+notification and a record of all variance actions, including justification for their
+issuance, shall be maintained in accordance with section 59.050(B).
+
+59.060 - PROVISIONS FOR FLOOD HAZARD REDUCTION
+
+A. GENERAL STANDARDS
+
+ In all special flood hazard areas, the following standards shall be adhered to:
+
+1. ALTERATION OF WATERCOURSES
+
+Require that the flood carrying capacity within the altered or relocated portion of
+said watercourse is maintained. Require that maintenance is provided within the
+altered or relocated portion of said watercourse to ensure that the flood carrying
+capacity is not diminished. Require compliance with sections 59.050(B)(3)(b) and
+59.050(B)(3)(c).
+
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 14
+
+2. ANCHORING
+
+a. All new construction and substantial improvements shall be anchored to
+prevent flotation, collapse, or lateral movement of the structure resulting from
+hydrodynamic and hydrostatic loads, including the effects of buoyancy.
+b. All manufactured dwellings shall be anchored per section 59.060(B)(3).
+
+3. CONSTRUCTION MATERIALS AND METHODS
+
+a. All new construction and substantial improvements shall be constructed with
+materials and utility equipment resistant to flood damage.
+b. All new construction and substantial improvements shall be constructed using
+methods and practices that minimize flood damage.
+
+4. UTILITIES AND EQUIPMENT
+
+a. WATER SUPPLY, SANITARY SEWER, AND ON-SITE WASTE DISPOSAL
+SYSTEMS
+
+1) All new and replacement water supply systems shall be designed to
+minimize or eliminate infiltration of flood waters into the system.
+2) New and replacement sanitary sewage systems shall be designed to
+minimize or eliminate infiltration of flood waters into the systems and
+discharge from the systems into flood waters.
+3) On-site waste disposal systems shall be located to avoid impairment to
+them or contamination from them during flooding consistent with the
+Oregon Department of Environmental Quality.
+
+b. ELECTRICAL, MECHANICAL, PLUMBING, AND OTHER EQUIPMENT
+
+Electrical, heating, ventilating, air-conditioning, plumbing, duct systems, and
+other equipment and service facilities shall be elevated at least one foot above
+the base flood level or shall be designed and installed to prevent water from
+entering or accumulating within the components and to resist hydrostatic and
+hydrodynamic loads and stresses, including the effects of buoyancy, during
+conditions of flooding. In addition, electrical, heating, ventilating, air-
+conditioning, plumbing, duct systems, and other equipment and service
+facilities shall, if replaced as part of a substantial improvement, meet all the
+requirements of this section.
+
+5. TANKS
+
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 15
+
+a. Underground tanks shall be anchored to prevent flotation, collapse and lateral
+movement under conditions of the base flood.
+b. Above-ground tanks shall be installed 1 foot above the BFE or shall be
+anchored to prevent flotation, collapse, and lateral movement under conditions
+of the base flood.
+
+6. SUBDIVISION PROPOSALS & OTHER PROPOSED DEVELOPMENTS
+
+a. All new subdivision proposals and other proposed new developments
+(including proposals for manufactured dwelling parks and subdivisions) greater
+than 50 lots or 5 acres, whichever is the lesser, shall include within such
+proposals, Base Flood Elevation data.
+b. All new subdivision proposals and other proposed new developments
+(including proposals for manufactured dwelling parks and subdivisions) shall:
+1) Be consistent with the need to minimize flood damage.
+2) Have public utilities and facilities such as sewer, gas, electrical, and water
+systems located and constructed to minimize or eliminate flood damage.
+3) Have adequate drainage provided to reduce exposure to flood hazards.
+
+7. USE OF OTHER BASE FLOOD ELEVATION DATA
+
+When Base Flood Elevation data has not been provided, the local floodplain
+administrator shall obtain, review, and reasonably utilize any Base Flood
+Elevation data available from a federal, state, or other source, in order to
+administer section 59.060. All new subdivision proposals and other proposed new
+developments (including proposals for manufactured dwelling parks and
+subdivisions) must meet the requirements of section 59.060(A)(6).
+
+Base Flood Elevations shall be determined for development proposals that are 5
+acres or more in size or are 50 lots or more, whichever is lesser in any A zone
+that does not have an established base flood elevation. Development proposals
+located within a riverine unnumbered A Zone shall be reasonably safe from
+flooding; the test of reasonableness includes use of historical data, high water
+marks, FEMA provided Base Level Engineering data, and photographs of past
+flooding, where available. When no base flood elevation data is available, the
+elevation requirement for development proposals within a riverine unnumbered A
+zone is a minimum of two (2) feet above the highest adjacent grade to be
+reasonably safe from flooding.
+
+8. STRUCTURES LOCATED IN MULTIPLE OR PARTIAL FLOOD ZONES
+
+In coordination with the State of Oregon Specialty Codes:
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 16
+
+a. When a structure is located in multiple flood zones on the community’s Flood
+Insurance Rate Maps (FIRM) the provisions for the more restrictive flood zone
+shall apply.
+b. When a structure is partially located in a special flood hazard area, the entire
+structure shall meet the requirements for new construction and substantial
+improvements.
+
+B. SPECIFIC STANDARDS FOR RIVERINE (INCLUDING ALL NON-COASTAL)
+FLOOD ZONES
+These specific standards shall apply to all new construction and substantial
+improvements in addition to the General Standards contained in section 59.060(A) of
+this ordinance.
+
+1. FLOOD OPENINGS
+
+All new construction and substantial improvements with fully enclosed areas
+below the lowest floor (excluding basements) are subject to the following
+requirements.  Enclosed areas below the Base Flood Elevation, including crawl
+spaces, shall:
+a. Be designed to automatically equalize hydrostatic flood forces on walls by
+allowing for the entry and exit of floodwaters;
+b. Be used solely for parking, storage, or building access;
+c. Be certified by a registered professional engineer or architect or meet or
+exceed all of the following minimum criteria:
+1) A minimum of two openings,
+2) The total net area of non-engineered openings shall be not less than one
+(1) square inch for each square foot of enclosed area, where the enclosed
+area is measured on the exterior of the enclosure walls,
+3) The bottom of all openings shall be no higher than one-foot above grade.
+4) Openings may be equipped with screens, louvers, valves, or other
+coverings or devices provided that they shall allow the automatic flow of
+floodwater into and out of the enclosed areas and shall be accounted for in
+the determination of the net open area.
+5) All additional higher standards for flood openings in the State of Oregon
+Residential Specialty Codes Section R322.2.2 shall be complied with when
+applicable.
+
+2. GARAGES
+
+a. Attached garages may be constructed with the garage floor slab below the
+Base Flood Elevation (BFE) in riverine flood zones, if the following
+requirements are met:
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 17
+
+1) If located within a floodway the proposed garage must comply with the
+requirements of section 59.060(B)(4).
+2) The floors are at or above grade on not less than one side;
+3) The garage is used solely for parking, building access, and/or storage;
+4) The garage is constructed with flood openings in compliance with section
+59.301 to equalize hydrostatic flood forces on exterior walls by allowing for
+the automatic entry and exit of floodwater.
+5) The portions of the garage constructed below the BFE are constructed with
+materials resistant to flood damage;
+6) The garage is constructed in compliance with the standards in section
+59.060(A); and
+7) The garage is constructed with electrical, and other service facilities
+located and installed so as to prevent water from entering or accumulating
+within the components during conditions of the base flood.
+b. Detached garages must be constructed in compliance with the standards for
+appurtenant structures in section 59.060(B)(4) or non-residential structures in
+section 59.060(B)(2) depending on the square footage of the garage.
+
+3. FOR RIVERINE (NON-COASTAL) SPECIAL FLOOD HAZARD AREAS WITH
+BASE FLOOD ELEVATIONS
+In addition to the general standards listed in section 59.060(A) the following
+specific standards shall apply in Riverine (non-coastal) special flood hazard areas
+with Base Flood Elevations (BFE): Zones A1-A30, AH, and AE.
+
+a. BEFORE REGULATORY FLOODWAY
+
+In areas where a regulatory floodway has not been designated, no new
+construction, substantial improvement, or other development (including fill)
+shall be permitted within Zones A1-30 and AE on the community’s Flood
+Insurance Rate Map (FIRM), unless it is demonstrated that the cumulative
+effect of the proposed development, when combined with all other existing and
+anticipated development, will not increase the water surface elevation of the
+base flood more than one foot at any point within the community.
+
+b. RESIDENTIAL CONSTRUCTION
+
+1) New construction, conversion to, and substantial improvement of any
+residential structure shall have the lowest floor, including basement,
+elevated 1 foot above the Base Flood Elevation (BFE) or above.
+2) Enclosed areas below the lowest floor shall comply with the flood opening
+requirements in section 59.060(B)(1).
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 18
+
+c. NON-RESIDENTIAL CONSTRUCTION
+
+1) New construction, conversion to, and substantial improvement of any
+commercial, industrial, or other non-residential structure shall:
+a) Have the lowest floor, including basement elevated 1 foot or more
+above the Base Flood Elevation (BFE); or, together with attendant utility
+and sanitary facilities:
+i. Be floodproofed so that below the base flood level the structure is
+watertight with walls substantially impermeable to the passage of
+water;
+ii. Have structural components capable of resisting hydrostatic and
+hydrodynamic loads and effects of buoyancy.
+iii. Be certified by a registered professional engineer or architect that the
+design and methods of construction are in accordance with accepted
+standards of practice for meeting provisions of this section based on
+their development and/or review of the structural design,
+specifications and plans. Such certifications shall be provided to the
+Floodplain Administrator as set forth section 59.050(B).
+2) Non-residential structures that are elevated, not floodproofed, shall comply
+with the standards for enclosed areas below the lowest floor in section
+59.301.
+3) Applicants floodproofing non-residential buildings shall be notified that flood
+insurance premiums will be based on rates that are one (1) foot below the
+floodproofed level (e.g. a building floodproofed to the base flood level will
+be rated as one (1) foot below.
+
+d. MANUFACTURED DWELLINGS
+
+1) Manufactured dwellings to be placed (new or replacement) or substantially
+improved that are supported on solid foundation walls shall be constructed
+with flood openings that comply with section 59.060(B)(1);
+2) The bottom of the longitudinal chassis frame beam shall be at or above
+Base Flood Elevation;
+3) Manufactured dwellings to be placed (new or replacement) or substantially
+improved shall be anchored to prevent flotation, collapse, and lateral
+movement during the base flood. Anchoring methods may include, but are
+not limited to, use of over-the-top or frame ties to ground anchors
+(Reference FEMA’s “Manufactured Home Installation in Flood Hazard
+Areas” guidebook for additional techniques), and;
+4) Electrical crossover connections shall be a minimum of twelve (12) inches
+above Base Flood Elevation (BFE).
+
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 19
+
+e. RECREATIONAL VEHICLES
+
+Recreational vehicles placed on sites are required to:
+1) Be on the site for fewer than 180 consecutive days, and
+2) Be fully licensed and ready for highway use, on its wheels or jacking
+system, is attached to the site only by quick disconnect type utilities and
+security devices, and has no permanently attached additions; or
+3) Meet the requirements of section 59.060(B)(3)(d), including the anchoring
+and elevation requirements for manufactured dwellings.
+
+  f. APPURTENANT (ACCESSORY) STRUCTURES
+
+Relief from elevation or floodproofing requirements for residential and
+non-residential structures in Riverine (Non-Coastal) flood zones may be
+granted for appurtenant structures that meet the following requirements:
+
+1) Appurtenant structures located partially or entirely within the floodway must
+comply with requirements for development within a floodway found in
+section 59.060(B)(4).
+2) Appurtenant structures must only be used for parking, access, and/or
+storage and shall not be used for human habitation;
+3) In compliance with State of Oregon Specialty Codes, appurtenant
+structures on properties that are zoned residential are limited to one-story
+structures less than 200 square feet, or 400 square feet if the property is
+greater than two (2) acres in area and the proposed appurtenant structure
+will be located a minimum of 20 feet from all property lines. Appurtenant
+structures on properties that are zoned as non-residential are limited in size
+to 120 square feet.
+4) The portions of the appurtenant structure located below the Base Flood
+Elevation must be built using flood resistant materials;
+5) The appurtenant structure must be adequately anchored to prevent
+flotation, collapse, and lateral movement of the structure resulting from
+hydrodynamic and hydrostatic loads, including the effects of buoyancy,
+during conditions of the base flood.
+6) The appurtenant structure must be designed and constructed to equalize
+hydrostatic flood forces on exterior walls and comply with the requirements
+for flood openings in section 59.060(B)(1);
+7) Appurtenant structures shall be located and constructed to have low
+damage potential;
+8) Appurtenant structures shall not be used to store toxic material, oil, or
+gasoline, or any priority persistent pollutant identified by the Oregon
+Department of Environmental Quality unless confined in a tank installed
+incompliance with section 59.060(A)(5).
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 20
+
+9) Appurtenant structures shall be constructed with electrical, mechanical,
+and other service facilities located and installed so as to prevent water from
+entering or accumulating within the components during conditions of the
+base flood.
+
+4. FLOODWAYS
+
+Located within the special flood hazard areas are areas designated as floodways.
+Since the floodway is an extremely hazardous area due to the velocity of the
+floodwaters which carry debris, potential projectiles, and erosion potential, the
+following provisions apply:
+
+a. Prohibit encroachments, including fill, new construction, substantial
+improvements, and other development within the adopted regulatory floodway
+unless:
+1) Certification by a registered professional civil engineer is provided
+demonstrating through hydrologic and hydraulic analyses performed in
+accordance with standard engineering practice that the proposed
+encroachment shall not result in any increase in flood levels within the
+community during the occurrence of the base flood discharge;
+Or,
+2) A community may permit encroachments within the adopted regulatory
+floodway that would result in an increase in base flood elevations, provided
+that a Conditional Letter of Map Revision (CLOMR) is applied for and
+approved by the Federal Insurance Administrator, and the requirements for
+such revision as established under Volume 44 of the Code of Federal
+Regulations, section 65.12 are fulfilled.
+
+b. If the requirements of section 59.060(B)(4) are satisfied, all new construction,
+substantial improvements, and other development shall comply with all other
+applicable flood hazard reduction provisions of section 59.060.
+
+5. STANDARDS FOR SHALLOW FLOODING AREAS
+
+Shallow flooding areas appear on FIRMs as AO zones with depth designations or
+as AH zones with Base Flood Elevations. For AO zones the base flood depths
+range from one (1) to three (3) feet above ground where a clearly defined channel
+does not exist, or where the path of flooding is unpredictable and where velocity
+flow may be evident. Such flooding is usually characterized as sheet flow. For
+both AO and AH zones, adequate drainage paths are required around structures
+on slopes to guide floodwaters around and away from proposed structures.
+
+a.  STANDARDS FOR AH ZONES
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 21
+
+Development within AH Zones must comply with the standards in sections
+59.060(A), 59.060(B), and 59.060(B)(6).
+
+b. STANDARDS FOR AO ZONES
+
+In AO zones, the following provisions apply in addition to the requirements in
+sections 59.060(A) and 59.060(B)(6):
+
+1) New construction, conversion to, and substantial improvement of
+residential structures and manufactured dwellings within AO zones shall
+have the lowest floor, including basement, elevated above the highest
+grade adjacent to the building, at minimum 1 foot above the depth number
+specified on the Flood Insurance Rate Maps (FIRM) (at least two (2) feet if
+no depth number is specified). For manufactured dwellings the lowest floor
+is considered to be the bottom of the longitudinal chassis frame beam.
+2) New construction, conversion to, and substantial improvements of non-
+residential structures within AO zones shall either:
+a) Have the lowest floor (including basement) elevated at minimum 1 foot
+above the depth number specified on the Flood Insurance Rate Maps
+(FIRM) (at least two (2) feet if no depth number is specified); or
+b) Together with attendant utility and sanitary facilities, be completely
+floodproofed at minimum 1 foot above the depth number specified on
+the Flood Insurance Rate Maps (FIRM) (at least two (2) feet if no depth
+number is specified), or a minimum of two (2) feet above the highest
+adjacent grade if no depth number is specified, so that any space below
+that level is watertight with walls substantially impermeable to the
+passage of water and with structural components having the capability
+of resisting hydrostatic and hydrodynamic loads and the effects of
+buoyancy. If this method is used, compliance shall be certified by a
+registered professional engineer or architect as stated in section
+59.060(B)(3)(c).
+3) Recreational vehicles placed on sites within AO Zones on the community’s
+Flood Insurance Rate Maps (FIRM) shall either:
+a) Be on the site for fewer than 180 consecutive days, and
+b) Be fully licensed and ready for highway use, on its wheels or jacking
+system, is attached to the site only by quick disconnect type utilities and
+security devices, and has no permanently attached additions; or
+c) Meet the elevation requirements of section 59.060(B)(5), and the
+anchoring and other requirements for manufactured dwellings of section
+59.060(B)(3).
+4) In AO zones, new and substantially improved appurtenant structures must
+comply with the standards in section 59.060(B)(4).
+Ordinance 45.105                                                                                                                 Adopt October 29, 2024
+59 - 22
+
+5) In AO zones, enclosed areas beneath elevated structures shall comply with
+the requirements in section 59.060(A).
+
+59.4 - 1
+ARTICLE 59.4
+GEOTHERMAL OVERLAY (GEO)
+
+59.410 - PURPOSE
+
+The purpose of the Geothermal Overlay zone is to efficiently use and maximize
+significant geothermal resources of Klamath County for industrial and commercial
+processes.
+
+59.420 - APPLICATION
+
+The Geothermal Overlay Zone shall be applied only to land meeting all of the
+following standards:
+
+A. That all applicable comprehensive plan policies be met with specific
+consideration of policies numbered Goal  #2, Goal #11, Policy 13; Goal #12,
+Policy #2; Goal #12, Policy #4; Goal #13, Policies #1, #2 and #4.
+
+B. Data indicating that the quality and quantity of the geothermal resource exists to
+support the proposed industrial or commercial development.
+
+C. This overlay zone designation can only be appl ied to those lands as identified
+on the Generalized Groundwater Aquifers and Geothermal Resource Map, or
+where sufficient studies and test wells indicate a significant geothermal resource
+exists.
+
+D. That the resource must be used, and used primarily for e ither industrial or
+commercial process uses.
+
+E. That geothermal resource shall be used in accordance with any State or
+Federal laws in effect.
+
+59.430 - PERMITTED USES
+
+Any use types which are either permitted outright or conditionally permitted as
+provided by Chapter 50 in the Industrial or Commercial zones shall be permitted
+provided such uses are primary geothermal process users.
+
+59.440 - CONDITIONAL USES
+
+Residential and commercial uses secondary to an industrial or  commercial
+geothermal use may be permitted conditionally.  Such uses are permitted within the
+Geothermal Overlay Zone when they are found to be (1) necessary for the housing
+of an employee, employees and their families of an identified process use, and (2)
+a necessary geothermal use.  Com mercial and residential uses which are
+secondary to industrial or commercial uses may be allowed subject to the following:
+59.4 - 2
+
+A. Any request to develop secondary residential or commercial uses  shall identify
+the specific industrial or commercial geothermal use or uses for which the
+residential and commercial uses are necessary, and shall be supported by
+appropriate documentation  showing that the number of residential units
+proposed or that  the type of commercial uses is necessary, based on the
+following:
+
+ 1. Residential
+
+  a. The employment level of the proposes uses; and
+  b. The availability of other housing and vacant residential land within a
+reasonable commuting distance.
+
+ 2. Commercial
+
+  a. The employment level of the process use or uses;
+  b. The availability of other commercial land within a reasonable commuting
+distance; and
+  c. The number of approved residential dwellings found necessary to
+support proposed or existing geothermal uses.
+
+B. The geothermal Concept Plan may identify the amount an d location of
+secondary residential or commercial uses to be developed; however, no land
+division for residential or commercial uses shall be approved until after issuance
+of building permits for the use or uses to which the residential or commercial
+uses are identified as secondary.  No building permits for secondary residential
+or commercial shall be issued until building permits for industrial or commercial
+geothermal use have been issued and construction has commenced.
+
+59.450 - PROCEDURE
+
+The application of a Geothermal Overlay Zone to lands within Klamath County shall
+be accomplished through a change of zone designation, as provided in Chapter 4
+combined with approval of a Concept Plan.  The applicant may request that
+approval of the Development Plan a nd any related preliminary subdivision or
+partition plans be considered in the same proceeding.  If the Geothermal
+Development Plan contains more than one phase, only the preliminary plat for the
+first phase needs to be presented for review.
+
+A. Prior to submission of an application for a change of zone designation in order
+to apply the Geothermal Overlay Zone, the prospective applicant shall submit to
+the Planning Director a Concept Plan prepared in accordance with the
+standards provided in Sections 59.460  and 59.470.  Upon receipt of the
+Concept Plan, the Planning Director shall schedule and hold a concept Plan
+Review Conference with the applicant.  At said conference, the applicant or his
+59.4 - 3
+authorized agent shall present the Concept Plan and receive comment s from
+County staff attending the conference.  Representatives of the Planning
+Department and the Department of Public Works shall attend and, at the
+discretion of and as deemed desirable and necessary by the Planning Director,
+representatives from other County or public departments or agencies may be
+invited to attend the conference.
+
+B. The review body shall consider the Geothermal Overlay zone change and
+Concept Plan applications at the same public hearing, pursuant to the
+procedures in Chapter 4 for zon e designation changes. Approval of the zone
+change and Concept Plan shall be subject to the criteria for approval of a zone
+change found in Chapter 4 and the criteria for Concept Plan approval found in
+Section 59.470.  If requested by the applicant, the hearing body shall consider
+the Development Plan and any related preliminary subdivision or partition plans
+at the same public hearing as the zone change and Concept Plan.  Approval of
+the Development Plan shall be subject to the criteria of Section 59.480.
+
+C. Approval of Development Plans shall also be subject to the criteria of Section
+59.440.
+
+D. Preliminary subdivision or partition plans shall be reviewed pursuant to the
+applicable land division procedures and criteria and must conform to the
+approved Development Plan.
+
+E. In the case of land zoned Geothermal as of July 1, 1990, the Geothermal
+Overlay Zone will be implemented by review and approval of a Concept Plan,
+Development Plan, and preliminary subdivision or partition plans as provided
+with the above application.
+
+59.460 - CONCEPT PLAN
+
+Prior to submission of an application for a change of zone designation, the
+prospective applicant shall submit to the Planning Director a Geothermal Concept
+Plan addressing the requirements of Section 59.460 and the standards in Section
+59.470.  The Planning Director shall schedule and hold a Concept Plan review with
+the applicant.  At said conference, the applicant or an authorized agent shall
+present the Concept Plan and receive comments from County Staff attending t he
+conference. Representatives of the Planning Department and the Department of
+Public Works shall attend, and as deemed desirable and necessary by the Planning
+Director, representatives from other County or public departments or agencies may
+be invited to attend the conference.
+
+The Planning Director shall schedule a public hearing for a plan amendment, zone
+change, and if applicable, an exception to statewide planning goals provided the
+proposed Concept Plan contains the necessary information.  Land designated with
+59.4 - 4
+a Geothermal Overlay Zone will not be implemented until the development plan has
+received approval.
+
+A. DESIGN TEAM:
+
+ The Concept Plan and development plan must have stamped or have written
+approval from at least three of the five following professional disciplines:
+
+ 1. Registered Architect;
+ 2. Registered Landscape Architect;
+ 3. Registered Engineer;
+ 4. Certified Land Use Planner; and
+ 5. Registered Land Surveyor.
+
+B. CONCEPT PLAN:
+
+ The following information must be submitted within the Concept Plan:
+
+ 1. General Narrative - A generalized narrative describing the:
+
+  a. Location of the site;
+  b. Its total acreage;
+  c. The existing character, use of the site;
+  d. Uses of adjoining properties;
+  e. Concept of the proposed development including:
+
+   1) Proposed uses and activities;
+   2) Physical land alteration required by the development; and
+   3) A detailed description of how the geothermal resource is to be used.
+
+ 2. General Site Plan - A generalized site plan showing the entire parcel with
+schematic indications of approximate locations of:
+
+  a. Buildings, including all industrial structures;
+  b. Public and private rights-of-way;
+  c. Parking and loading areas;
+  d. Public and private open spaces; and
+  e. Circulation plan.
+
+59.470 - CONCEPT PLAN STANDARDS
+
+The Concept Plan shall be approved or denied based on the following findings of
+fact:
+
+A. The level of sewer service is consistent with applicable Comprehensive Plan
+policies for urban or rural areas.  Project area soils must be capable of handling
+59.4 - 5
+septic and sewage problems commensurate with the size of the proposed
+development.
+
+B. Soil Stability and Land Stability - If there is a history of unstable soil
+characteristics in the area, this must be resolved prior to approval.  The geologic
+conditions of the soil must be suitable to accept the development proposed.
+
+ If the proposed development is located on excessive slopes (over 25 percent),
+the requirements of Article 73 shall be met.
+
+ If the site is within a flood hazard area withi n Klamath County, conditions as
+outlined by the Director of Public Works and flood hazard ordinance must be
+complied with.
+
+C. The level of water service is consistent with applicable Comprehensive Plan
+policies for rural or urban areas.
+
+ 1. If the area is to be served by a public water system or private water system,
+the system is sufficient to support the proposed development.
+
+ 2. If the area is to be served by individual wells, a hydrology report by a
+registered engineer shall be submitted, showing that the quality and quantity
+of water on the property are adequate to serve the proposed development.
+
+D. Fire Protection - The proposed development must be within a fire protection
+district, and the proposed development must have adequate ingress-egress for
+fire fighting equipment.  The circulation plan for the development must have
+adequate access for fire fighting equipment.
+
+E. Access - The development must be accessible by improved County, State, or
+private roads.
+
+F. Energy - Conservation issues shall be dealt with and resolved in the best means
+possible within the development scheme.
+
+G. Effect on Agriculture or Forest Land - Based on the nature of the surrounding
+resource operations, any additional development cannot create a significant
+hardship on those surrounding the proposed development.
+
+H. Effect on Goal 5 Resources - Additional development within the site shall have
+minimum adverse impact on open space, mineral resources, energy sources,
+fish and wildlife habitat, natural areas, scenic views, wa ter-sheds, historic or
+cultural areas, existing or potential recreation trails, existing or potential scenic
+waterways. Compliance with the provisions of Article 57 shall be required.
+
+59.4 - 6
+I. Land Use Conflicts Relating to Industrial/Commercial and Residential  Mixes -
+Where additional residential development would create a significant economic
+hardship on surrounding industrial or commercial development, additional
+residential development may be denied.
+
+J. That the property shall be under the ownership or control of a single entity with
+authority to take all actions and exercise full authority to develop the land.
+
+K. Other Standards - The reviewing body may require that other standards
+deemed necessary by finds of fact be met (i.e., standards deemed necessary to
+protect the public health, safety, and welfare or to mitigate impacts on
+surrounding lands).
+
+59.480 - DEVELOPMENT PLAN
+
+This plan may be submitted at the time the Concept Plan is submitted.  If not, it
+must be submitted prior to actual development.
+
+Approval of the development plan will be made by the Planning Director if there is
+no major or minor partition or subdivision request within the development plan or
+any substantial change from the approved Concept Plan.
+
+Development plans which propose major  or minor partitioning or subdivision or
+which propose a substantial change from the approved Concept Plan will be
+processed pursuant to Chapter 40 of the Land Development Code.  Approval or
+denial of the development plan shall be based on a finding that t he following
+standards have been satisfied:
+
+A. A development scheme which assures that uses are consistent with the
+approved geothermal Concept Plan;
+
+B. The development scheme must assure that specific uses intended for the
+property are located in the area most suited for that use in a manner compatible
+with adjacent uses and consistent with the approved geothermal concept plan.
+
+Information necessary to evaluate the development plan is as follows:
+
+A. Narrative:
+
+ 1. A statement of location and intensity  of proposed uses and activities,
+including:
+
+ 2. Public and private open spaces;
+
+ 3. A physical description of proposed facilities accommodating such uses,
+including type of buildings, structure;
+59.4 - 7
+ 4. Landscaping;
+
+ 5. Circulation plan;
+
+ 6. Statement of location and general configuration of lands to be dedicated for
+public open space;
+
+ 7. Other public uses, general description of utilities, general statement of form
+of site management proposed in areas of significant natural resources;
+
+ 8. A statement detailing the consistency of the proposed development project
+with major public development programs, including, but not limited to,
+freeways, highways, parks, trails, open spaces, utility transmission lines;
+
+ 9. The phase schedules of proposed major public facilities;
+
+    10. Schools, fire protection, police protection, sanitary and water facilities;
+
+    11. Where possible, buildings situated on least productive soils;
+
+    12. Geothermal process temperature needs of the proposed use(s);
+
+    13. Transportation, shipping, and utility needs of the proposed use(s); and
+
+    14. Land area needs (developed, expansion, and support areas).
+
+B. Supporting Graphics - A Statement of Intent required above shall be supported
+by such graphics as are necessary to establish the physical scale and character
+of the development and demonstrate the relationship among its constituent land
+uses, buildings and structures, public facilities, and open space.  Said graphics
+as a minimum shall indicate: Perimeter boundaries of th e site, streets,
+driveways, sidewalks and pedestrian ways, and off -street parking and loading
+areas; location and approximate dimensions of buildings and structures;
+utilization of buildings and structures; reservations for public uses, parks, and
+other open spaces; and  major landscaping proposals.  The Planning Director
+may require graphics presenting additional information as he determines is
+necessary to support the Statement of Intent.
+
+C. Description of Surrounding Area - A set of maps and statement p roviding
+information on the character and use of the surrounding area.
+
+D. Background Report - The purpose of the Background Report is to collect and
+present information pertinent to the actual execution and operation of the
+development.  The contents of t he Background Report shall be determined
+during the Concept Plan Review Conference, and may include, but is not limited
+to, the following information:  A preliminary development schedule including
+59.4 - 8
+anticipated timing for commencement and completion of each phase of
+development, tabulation on the total number of acres in each separate phase
+and percentage of such acreage to be devoted to particular uses; engineering
+feasibility studies must also be submitted.
+
+59.490 - SITE DESIGN AND DEVELOPMENT STANDARDS
+
+A. Site development standards contained in Chapter 60 for lot size  and shape and
+building setbacks and yards may be waved in a  Geothermal Designation
+providing that the development plan indicates where the site development
+standards have been modified and  should incorporate replacement standards
+designed to protect the public health, safety, and welfare.
+
+B. Standards for roadways improvement in urban areas contained in Section
+71.090 shall apply to roads to be dedicated to the public on the final plat.
+Standards for roads that are to remain private roads shall meet requirements
+set by the Planning Commission, subject to a minimum requirement of 50 feet
+wide right-of-way, 8 inches of base rock, 24 feet wide pavement, and 2 feet
+wide gravel shoulders for a total improved top width of 28 feet, and adequate
+drainage facilities as required by the Director of Public Works.
+
+C. Standards for roadway improvement in Rural Areas contained in Section 71.100
+shall apply to roads to be dedicated to the public on the final plat.  Standards for
+roads that are to remain private roads shall meet requirements set by the
+Planning Commission subject to a minimum requirement of a 50 feet wide right-
+or-way, 22 feet in width improved with a minimum of 6 inches of gravel or
+cinders and adequate drainage facilities as required by the Director of Public
+Works.
+
+59.495 - AMENDMENT OF THE CONCEPT PLAN OR DEVELOPMENT PLAN
+
+Any revisions from the approved Concept Plan or Development Plan shall be
+reviewed by the Planning Director, and ma y be referred to the Planning
+Commission as necessary.
+
+ORD. 45.82 Adopt May 24, 2012
+59.8 - 1
+ARTICLE 59.8
+LIMITED USE OVERLAY (LU)
+
+59.810 - PURPOSE
+
+The purpose of the Limited Use Overlay is to limit permitted uses allowed in the
+underlying zone to only those uses which are justified in a required "exception
+statement" or, in the case where a statement is not required, testimony and
+evidence gathered in the review process, or to prohibit certain uses until allowed by
+a subsequent post -acknowledgment amendment to remove the Limited Use
+Overlay.
+
+59.820 - APPLICATION
+
+A. When an "exception" is taken to the Statewide Planning Goals for a
+comprehensive plan change, the Limited Use Overlay shall apply to the property
+in question.
+
+B. If an "exception" is not required, the Limited Use Overlay may be applied to the
+property in question if the review body finds the overlay will further the purpose
+and intent of the Planning process.
+
+C. Uses permitted in the underlying zone shall be limited to those uses specifically
+referenced in the comprehensive plan amendment/zone change and the
+accompanying exception statement, or certain uses shall be prohibited until
+allowed by a subsequent post -acknowledgment to remove the Limited Use
+Overlay.
+
+D. The Limited Use Overlay shall not be used to authorize uses not expressly
+provided for in the underlying zone.
+
+E. The Limited Use Overlay shall apply to the property until it is specifically
+removed via a subsequent comprehensive plan amendment and zone change.
+
+F.  Review Process for Limited Use Overlay approval. The Review Body may
+always require a Post Acknowledgment P lan Amendment be reviewed
+periodically to determine if it conforms with the specific purposes of the
+Limited Use Overlay.
+
+59.830 - PROCEDURE
+
+A. The Limited Use Overlay may be applied through the plan amendment process
+at the time the underlying plan and zone designation is changed.
+
+B. The Limited Use Overlay may be applied through a zone change process at the
+time the underlying zone is changed.
+ORD. 45.82 Adopt May 24, 2012
+59.8 - 2
+
+C. The order adopting the comprehensive plan amendment/zone change shall
+specify the permitted use(s) approved, or the uses prohibited, and shall specify
+the application of the Limited Use Overlay.
+
+D. The permitted uses, or prohibited uses or description thereof, may be qualified
+as necessary to achieve the intent of the Limited Use Overlay.
+
+59.840 - OFFICIAL PLAN/ZONING MAP
+
+The official plan/zoning map shall be amended to note the application of the Limited
+Use Overlay to any applicable parcel.
+
+59.850 - SITE PLAN REQUIREMENT
+
+A. In addition to limiting the uses permitted through a comprehensive plan
+amendment, site plan approval may be required to ensure compatibility of the
+use(s) allowed with other existing uses in the area.
+
+B. Site plan requirements may be added by specific reference to the adopting
+order.
+
+C. All other requirements of the underlying zone remain in effect unless specifically
+altered by site plan approval incorporated in the adopting order.
+
+ORD. 44.94 Adopt November 27, 2012
+59.9 - 1
+ARTICLE 59.9
+OR 66 GREEN SPRINGS HWY INTERCHANGE AREA
+MANAGEMENT PLAN (IAMP)
+
+59.910 – PURPOSE
+
+The purpose of the IAMP Overlay Zone is to protect the function of the US97/OR
+66 Green Springs interchange and provide safe and efficient connections between
+all roadways within the vicinity of the interchange. The function of the interchange,
+located near the southwestern edge of the Klamath Falls  area urban growth
+boundary (UGB), is to: serve local and long distance freight movements by
+providing a connection between US 97 and the shared alignment of OR 66 and OR
+140; provide access to existing local businesses as well as a large amount of
+developable lands near the interchange, and; provide a connection to greater
+Klamath Falls for residents living near the interchange.
+
+59.920 – ZONE BOUNDARY
+
+The boundary of the IAMP Overlay Zone is shown on the Klamath County official
+Zoning Map.
+
+59.930 – APPLICABILITY
+
+ The provisions of this Article shall apply to all land use and development
+applications pursuant to the Land Development Code (LDC), for parcels wholly or
+partially within the IAMP Overlay Zone, as defined by Section 59.920. The
+standards of the IAMP Overlay Zone shall supersede where conflicts arise between
+the standards of the Overlay Zone and those contained within other sections of the
+Land Development Code.
+
+59.940 – USES PERMITTED
+
+Uses allowed in the underlying zoning district are allowed subject to other
+applicable provisions in the Land Development Code and Chapter 50, Land Use
+Zones.
+
+59.950 – ACCESS MANAGEMENT
+
+In addition to the standards and requirements of Article 68 (Off Street Parking and
+Loading) and Article 71 (Vehicular Access and Circulation), parcels wholly or
+partially within the IAMP Overlay Zone are governed by the Access Management
+Plan in the OR 66 Green Springs Hwy Interchange Area Management Plan. The
+following access approval criteria apply to land use and development applications
+for parcels within the Overlay Zone that are subject to Section 71.160 (Access
+Permits).
+
+ORD. 44.94 Adopt November 27, 2012
+59.9 - 2
+A. Access to streets and property within the IAMP Overlay Zone shall be subject to
+joint review by the County and the Oregon Department of Transportation
+(ODOT) and, where applicable, by the city of Klamath Falls. Coordination of this
+review will occur pursuant to Section 59.960.
+
+B. Approval of an access permit is based on the standards contained in this
+section, the provisions of Article 68 (Off Street Parking and Loading) and Article
+71 (Vehicular Access and Circulation) in the LDC, and the Access Management
+Plan in the OR 66 Green Springs Hwy IAMP. Where the recommendations of
+the Access Management Plan conflict with other access and spacing
+requirements in Section 71.020, Access Standards, the Access Management
+Plan shall govern.
+
+59.960 – ADMINISTRATION
+
+The section delineates the responsibilities of the County and ODOT to monitor and
+evaluate vehicle trip generation on the Green Springs interchange from
+development approval under this section.
+
+A. Transportation Analysis
+
+1. The applicant shall prepare and sub mit to the County a traffic impact
+study (TIS) pursuant to the requirements in Section 71.200 Traffic Impact
+Study.
+
+2. A TIS will be required for all application s for zone change and/or
+comprehensive plan amendments located within the IAMP Overlay Zone
+that result in an increase in trips as compared to the existing land use
+designation.
+
+3. Land Use applications that require a State Highway Private Approach
+application may also be required to provide ODOT a TIS, pursuant to
+OAR 734-051-3030(4).
+
+B. Agency Coordination
+
+1. For land use applications within the IAMP Overlay Zone, the County shall
+invite ODOT and the City of Klamath Falls to participate in the County’s
+pre-application meeting with the applicant.
+
+2. The County shall provide written notification to O DOT when the
+application is deemed complete. The County shall also provide written
+notification to the City of Klamath Falls, the transit agency and other
+public or quasi-public agencies that serve the IAMP Overlay Zone when
+the application is deemed complete.
+
+ORD. 44.94 Adopt November 27, 2012
+59.9 - 3
+3. ODOT shall have at least 20 days, measured from the date completion
+notice was mailed, to provide written comments to the County. If ODOT
+does not provide written comments during this 20-day period, the County
+staff report will be issued without consideration of ODOT comments.
+
+59.970 – INTERCHANGE AREA MANAGEMENT PLAN REVIEW AND UPDATE
+
+A. IAMP Review Triggers. In order to ensure that the interchange function and
+capacity is preserved the County, in coordination with ODOT and the City of
+Klamath Falls, shall undertake a formal IAMP review when the following occurs:
+
+1. Five (5) years has elapsed since the date of the IAMP adoption or since
+the last update occurred.
+
+2. Comprehensive Land Use Plan Map or Zoning Map amendments that
+have a “significant effect” pursuant to the Transportation Planning Rule
+and are proposed for land within the IAMP Overlay Zone or for land
+outside the Overlay Zone that significantly affect the Green Springs
+interchange.
+
+B. IAMP Updates
+
+1. If the findings and conclusions from an IAMP review demonstrate the
+need for an update to the plan, review participants will initiate an IAMP
+update process pursuant to the provisions of the IAMP.
+
+2. An updated IAM P shall be legislatively adopted, requiring a Board of
+Commissioners public hearing, as an amendment to the Klamath Falls
+Urban Area Transportation System Plan and will be adopted by the
+Oregon Transportation Commission as an update to the Oregon
+Highway Plan.

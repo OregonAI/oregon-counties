@@ -1,0 +1,177 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/klamath-county
+id: klamath-land-use-2732
+title: 'Chapter 90 (PDF)'
+doc_type: ordinance
+citation: 'Chapter 90 (PDF)'
+authority_level: county_ordinance
+issuing_body: 'Klamath County Board of Commissioners'
+source_url: https://www.klamathcounty.org/DocumentCenter/View/2732
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 119bf37467fcc727f60a429906836cbcd29c313a52f6a58bca6c3c3802a47a18
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 30.947
+    - ORS 527.610
+  related: []
+  supersedes: []
+tags: [klamath-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Klamath County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Chapter 90 (PDF) (Chapter 90 (PDF))
+
+## At a glance
+
+Chapter 90 (PDF) — land use of Klamath County. 4 pages.
+
+## Full text
+
+99 - 1
+CHAPTER 90
+MISCELLANEOUS
+ARTICLE 99
+SENSITIVE BIRD SPECIES HABITAT OVERLAY
+99.005 - PURPOSE
+The purpose of the Sensitive Bird Species Habitat Overlay is to insure that
+sensitive habitat areas  identified in the County's Goal 5 Sensitive Species
+Inventory as critical for the survival of the Golden  Eagle, Prairie Falcon, and the
+Northern Bald Eagle are protected from the effects of conflicting uses or  activities
+which are not subject to the Forest Practices Act .  This objective shall be
+achieved by implementation of the decision resulting from the economic, social,
+environmental and energy analysis
+(ESEE).
+99.010 - DEFINITION OF SENSITIVE HABITAT AREA
+A. The sensitive habitat area is the area identified in the Klamath County
+Comprehensive Plan Resource Element inventory and site specific ESEE for
+each sensitive species site.  The sensitive habitat area to be protected by the
+provisions of this article is defined as the area:
+1. Within a diameter of 660 feet or 1/8 of a mile of a golden eagle nest,
+bald eagle nest, or prairie falcon nest
+2. Within a diameter of 1320 feet or 1/4 of a mile of a golden eagle nest,
+bald eagle nest, or prairie falcon nest
+99.015 - LIMITATIONS AND USES PERMITTED
+A. Uses permitted and conditionally permitted in the underlying zone(s) a re
+either prohibited or subject  to the additional procedure and requirements of
+Section 99.020 and the provisions of the ESEE  decision.  The Sensitive
+Species Habitat Zone does not regulate or prohibit forest practices subject  to
+ORS 527.610 to 527.770 and  the rules adopted pursuant thereto; or to farm
+practices as defined by ORS 30.947(2).
+B. When there is a conflict between the site -specific ESEE analysis and the
+provisions of this overlay  the ESEE analysis shall take precedence.
+ 99 - 2
+99.020 - APPLICABILITY
+A. A review under this article shall be triggered by the following proposals
+occurring within a sensitive  habitat area, as defined in Section 99.010 of this
+article:
+1. An application for a site plan approval or any land use permit identified
+as a conflicting use in the EESE analysis.
+2. Land divisions creating new building sites within the sensitive habitat
+area.
+3. An application for a conditional use permit identified as a conflicting
+area in the ESEE analysis.
+99.030 - SITE PLAN
+A. For those proposals identified in 99.020 to be sited within an inventoried
+sensitive habitat area, as  defined under Section 99.010, a site plan shall be
+prepared in accordance with the requirements of  this section and Article 41 .
+The site plan shall be approved prior to issuance of a building permi t, land
+partition, subdivision, or conditional use permit.
+B. The site plan shall provide the following information in addition to the
+requirements of Article 41 (Site Plan Review):
+1. Description of operating characteristics of the proposed use including
+times when activity  within the sensitive habitat area would generate
+noise, dust, vibration, lights, traffic or be visible from the nest.
+2. Timing of construction activities including grading or filling land, hauling
+building materials.
+3. Description of existing vegetation and vegetation to be removed for the
+proposed development.
+C. The County shall submit a copy of the site plan to the Oregon Department of
+Fish and Wildlife  (ODFW) for comment .  ODFW shall have 20 days from the
+date the site plan is mailed to submit written comments to the County.
+D. Based on the comments, the criteria in Section 99.040, and the ESEE
+analysis, the County shall  approve or reject the site plan .  The County may
+allow the applicant to revise the site plan if the  applicant has not met the
+standard for approval .  Applicant shall waive the 150 -day time limit if  he/she
+chooses to revise the site plan.
+ 99 - 3
+99.040 - SITE PLAN REVIEW
+A. Approval of a site plan shall be based on the following criteria:
+1. The site plan shall consider the biology of the identified sensitive
+species, nesting trees, critical nesting periods, roosting sites and buffer
+areas.
+2. Development activities, including grading and fill, mining, construction
+or activities generating  noise or dust within the sensitive habitat area
+shall be prohibited during the ne sting season  identified in Section
+99.055, unless the site qualifies for On -Site Validation under section
+99.050.
+3. New roads, driveways or public trails shall be located at the greatest
+distance possible from the  nest unless topographic or vegetation or
+structural features will provide greater visual and/or  noise buffer from
+the nest.
+4. Existing vegetation or other landscape features which are located on
+the subject property and  which obscure the view of the nest from the
+proposed development shall be preserved and maintained.  All existing
+vegetation not disturbed by the proposed project shall be preserved
+and maintained.
+5. No partitions or subdivisions shall be permitted which would allow the
+location of a dwelling  sensitive habitat impact area or other structure
+not otherwise permitted by the site specific ESEE, within the 660–foot.
+6. All exterior lighting, including security lighting, shall be sited and
+shielded so that the light is  directed downward and does not shine on
+the subject nest.
+7. The site plan shall conform with the requirements of the ESEE decision
+for the subject  sensitive species habitat site contained in Goal 5
+Inventory of the Klamath County Plan.
+99.050 - ON-SITE VALIDATION
+A. If a site has been abandoned or that nesting activity has ceased prior to the
+time specified in Section  applicant may have to hire a private contractor that
+will follow the established protocol in 99.050(B)  to provide the necessary
+information to ODFW.  If confirmation is validated by the ODFW, the applicant
+will be able to build or start his/her project on or after the early release da te.
+ 99 - 4
+B. The purpose of these guidelines are to establish criteria for modifying the
+species protection period  for a pair of birds in the event the nest site is
+inactive, unsuccessful or the young have left the nest  area.  If it can be
+determined that a nest  site is not active then the species protection period
+can be lifted for that year.  The early release dates proposed here reasonably
+reflect that date after which  nest initiation or re -nesting attempts probably
+would not occur.
+1. To determine if a nest i s active or inactive, the nest site must be
+monitored.  A monitoring plan should include, at a minimum, three field
+observation periods of four hours duration .  Sampling periods should
+be separated by at least ten days .  If a nest is not active by the earl y
+release date  then the protection period can be terminated .  If it is
+determined that nesting is active, after the  young have fledged and left
+the nest tree area, the protection period can be lifted.
+2. If no monitoring is planned for the site, then the f ull species protection
+period should be in effect.
+3. The nest monitoring must be conducted by a biologist .  The field
+activities must not become a  disturbing activity and possible cause of
+nest abandonment.
+99.055 - PROTECTION PERIOD
+Species Protection Period Early Release
+Bald Eagle Jan 1 – Aug 31 May 1
+Golden Eagle Feb 1 – Aug 31 May 1
+Prairie Falcon April 1 – July 30 June 1
+99.060 – REMOVAL AND EXPANSION OF USES
+A. If site is confirmed by Oregon Department Fish and Wildlife or a biologist to
+be abandoned or  destroyed, then the site shall be removed from the
+inventories.
+B. A prohibited use may be established if approved as a plan amendment under
+the provisions of  Articles 47, 48, and 49 of the Klamath County Land
+Development Code.
