@@ -129,3 +129,40 @@ step is exactly the failure that job exists to prevent, and it is silent by cons
 stale. A corpus that ships `joins:` owes itself the same treatment: the toolkit resolves
 each `joins[].document_id`, but only this corpus can check that a `{dataset, key}` pair
 selects any rows at all.
+
+## OCR — reach for `ocrmypdf` + `tesseract-ocr`
+
+Installed system-wide on the ingest host. When a source PDF has no text layer
+(`0 chars extracted`), this is the tooling to use — do not hand-roll a renderer,
+and do not reach for a hosted or generative model.
+
+```
+ocrmypdf -l eng --optimize 0 --output-type pdf --rotate-pages --deskew in.pdf out.pdf
+```
+
+Two flags earned by measurement, not guessed:
+
+* **`--rotate-pages --rotate-pages-threshold 0`** when a document OCRs to fluent
+  nonsense (`:Peusiiqnd` for `Published:`). Some scans are 180° over, and at
+  tesseract's default OSD confidence page 1 is left upside down — producing
+  thousands of characters of confident garbage that passes every length check.
+  Only force the threshold on a document you already know failed, never as a
+  default: it applies the orientation call even when tesseract is unsure.
+* **`pdftotext -layout`** (poppler, also installed) is the fallback for a
+  *different* fault — a text layer that extracts letter-spaced
+  (`A c t u a l 9 3 %`) or in column rather than reading order. That is not a
+  scan and OCR is the wrong tool; re-extracting with another engine recovers the
+  real spacing instead of guessing it back.
+
+**Write the OCR'd file beside the original, never over it.** `source_sha256`
+must keep hashing the bytes the upstream actually served.
+
+**OCR text is a machine reading of an image, not the source's own text.**
+Quality is good but not clean — real example, `pernitted rrine sites` for
+`permitted mine sites` — and mostly-right text is the dangerous case, because it
+reads as authoritative. Before promoting any of it into `## Full text`, apply the
+platform standard: the **two-engine rule** in `oregon-policy-repo/AGENTS.md`
+(no text today, two independent purpose-built engines agreeing ≥80%, quality gate
+passed, no generative OCR, artifacts disclosed rather than repaired, provenance
+in `conversion_notes`, reader warned in the document, human review at merge).
+A single engine's output is never promotable on its own.

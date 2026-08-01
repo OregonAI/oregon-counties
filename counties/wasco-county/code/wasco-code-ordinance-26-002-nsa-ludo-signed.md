@@ -1,0 +1,100 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-ordinance-26-002-nsa-ludo-signed
+title: 'Ordinance 26-002 NSA LUDO signed'
+doc_type: ordinance
+citation: 'Ordinance 26-002 NSA LUDO signed'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Planning/NSA%20LUD/Ordinance%2026-002_NSA%20LUDO_signed.pdf?t=202607021512560
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 346d46e305161c11620361cc9024e36d947ef05def034efc3f2f3eb0dd7799fb
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 196.107
+  related: []
+  supersedes: []
+tags: [wasco-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Wasco County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance 26-002 NSA LUDO signed (Ordinance 26-002 NSA LUDO signed)
+
+## At a glance
+
+Ordinance 26-002 NSA LUDO signed — code of Wasco County. 2 pages.
+
+## Full text
+
+ORDINANCE #24-001 NSA LUDO Updates
+NOW ON THIS DAY, the above-entitled matter having come on regularly for consideration, said day being one duly
+set in term for the transaction of public business and a majority of the Board of Commissioners being present; and
+WHEREAS, the Columbia River Gorge Commission transmitted approved updates to the National Scenic Area
+Management Plan to Wasco County for adoption into the Wasco County National Scenic Area Land Use and
+Development Ordinance (NSA LUDO) on March 15, 2026; and
+WHEREAS, the revisions included many mandatory changes;
+WHEREAS, revisions to the NSA LUDO were to make the language consistent with the adopted National Scenic
+Area Management Plan; and
+WHEREAS, ORS 196.107 exempts Wasco County from the requirement to give notice for all amendments to
+regulations within the National Scenic Area; however, the Wasco County Planning Department voluntarily sent
+notification to the public and to DLCD on September 19, 2025;
+WHEREAS, Planning Department staff hosted a public open houses on September 30 and November 6, 2025, to
+inform the property owners about the amendments and invite public comment;
+WHEREAS, on May 12, 2024, at the hour of 12:00 PM via electronic methods duly posted, the Wasco County
+Planning Commission held the first legally notified public hearing to r eview the proposed amendments, findings of
+fact, and provided opportunity to receive public testimony on the revisions and with a vote of 5 to 0 recommended
+approval with modifications to Chapter 16, Section 16.060.C and D., as to the Wasco County Board of
+Commissioners;
+WHEREAS, that on June 17, 2026 at the hour of 9:30 AM the Wasco County Board of Commissioners met to
+conduct the first of two legally notified public hearings on the above matter.  The Board of County Commissio ners
+reviewed recommendations by the Wasco County Planning Commission, staff’s presentation, and received
+testimony from the public.  The Board of County Commissioners tentatively approved the amendments; and
+IN THE BOARD OF COMMISSIONERS OF THE COUNTY OF WASCO,
+           STATE OF OREGON
+IN THE MATTER OF THE WASCO COUNTY PLANNING COMMISSION’S REQUEST TO APPROVE PROPOSED
+LEGISLATIVE AMENDMENTS TO UPDATE THE WASCO COUNTY NATIONAL SCENIC AREA LAND USE AND
+DEVELOPMENT ORDINANCE
+ORDINANCE # 26-002
+ORDINANCE #26-002
+WASCO COUNTY       ORDINANCE #24-XXX NSA LUDO Updates Page 2 of 2
+WHEREAS, that on July 1, 2026 at the hour of 9:30 AM the Wasco County Board of Commissioners met to conduct
+the second of two legally notified public hearings on the above matter.  The Board of County Commissioners
+reviewed recommendations by the Wasco County Planning Commission, staff’s presentation, and received
+testimony from the public.  The Board of County Commissioners, by a vote of __  to __, approved the amendments
+and conducted the second reading, recommending submittal to the Columbia River Gorge Commission; and
+NOW, THEREFORE, IT IS HEREBY ORDERED:
+Section 1. Based on the Planning Commission recommendation dated May 12, 2026 and the evidence and
+testimony in the record, the legislative amendments to the Wasco County National Scenic Area Land Use and
+Development Ordinance Attached as Exhibit A are hereby approved;
+Section 2. Pursuant to the National Scenic Area Act, the County Administrator shall submit the completed
+update to the National Scenic Area Land Use and Development to the Columbia River Gorge Commission for
+approval;
+Section 3. Pursuant to Oregon Revised Statute 197.615, the County Administrator shall submit the adopted land
+use regulation change to the Department of Land Conservation and Development for acknowledgment; and
+Section 4. The adopted amendments to the Wasco County National Scenic Area Land Use and Development
+Ordinance become effective on the date they are acknowledged.
+DATED this 1st day of July 2026.
+APPROVED AS TO FORM: WASCO COUNTY BOARD OF COMMISSIONERS:
+______________________________________,
+County Counsel
+______________________________________,
+Scott C. Hege, Board Chair
+ATTEST: ______________________________________,
+Jeff Justesen, County Commissioner
+______________________________________
+Christine McNamara, Executive Assistant

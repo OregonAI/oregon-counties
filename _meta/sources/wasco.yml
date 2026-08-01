@@ -1,0 +1,1359 @@
+group: wasco
+title: Wasco County sources
+county: wasco-county
+crawl:
+  decision: proceed
+  checked: '2026-08-01'
+  basis: No AI-agent directive. The robots Allow list names lowercase .pdf while the server serves uppercase
+    .PDF — recorded because a rule that does not match the files it governs is worth knowing about, not
+    because it blocks anything here.
+  hosts:
+  - host: www.wascocountyor.gov
+    robots_url: https://www.wascocountyor.gov/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: Revize origin cms5. Allows PDFs; case mismatch noted above. Real 404 on a nonexistent path.
+last_checked: '2026-07-31'
+upstream_signal: No feed. Documents are filed by year under BOCC Archives, so a new year's directory appearing
+  in the index is the signal for new instruments.
+sources:
+- id: wasco-code-operations-special-events-regulations
+  url: https://www.wascocountyor.gov/document_center/Public%20Works/Operations%20Special%20Events%20Regulations.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: Operations Special Events Regulations
+  last_checked: '2026-07-31'
+- id: wasco-code-wolf-depredation-compensation-application
+  url: https://www.wascocountyor.gov/document_center/Board%20County%20Commissioners/Wolf%20Depredation%20Compensation%20Application.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: Wolf Depredation Compensation Application
+  last_checked: '2026-07-31'
+- id: wasco-code-2025-wasco-county-title-vi-plan-signed
+  url: https://www.wascocountyor.gov/BOCC%20Archives/Current/2025%20Wasco%20County%20Title%20VI%20Plan%20SIGNED.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: 2025 Wasco County Title VI Plan SIGNED
+  last_checked: '2026-07-31'
+- id: wasco-code-wasco-county-organizational-chart-2026-version-2
+  url: https://www.wascocountyor.gov/Wasco%20County%20Organizational%20Chart%202026%20Version%202.pdf
+  family: code
+  format: pdf
+  sha256: ''
+  title: Wasco County Organizational Chart 2026 Version 2
+  last_checked: '2026-07-31'
+- id: wasco-code-authorizing-submissions-to-state-voters-pamphlet-5-11-1988
+  url: https://www.wascocountyor.gov/Ordinances/Elections/Authorizing%20Submissions%20to%20State%20Voters%20Pamphlet%205-11-1988.pdf?t=202503260855280
+  family: code
+  format: pdf
+  sha256: ''
+  title: Authorizing Submissions to State Voters Pamphlet 5-11-1988
+  last_checked: '2026-07-31'
+- id: wasco-code-authorizing-inclusion-of-county-ballot-measures-in-state-vot
+  url: https://www.wascocountyor.gov/Ordinances/Elections/Authorizing%20Inclusion%20of%20County%20Ballot%20Measures%20in%20State%20Voters%20Pamphlet%205-10-2006.pdf?t=202503260855280
+  family: code
+  format: pdf
+  sha256: ''
+  title: Authorizing Inclusion of County Ballot Measures in State Voters Pamphlet 5-10-2006
+  last_checked: '2026-07-31'
+- id: wasco-code-10-006-ordinance-designating-commissioners-as-nonpartisan-of
+  url: https://www.wascocountyor.gov/Ordinances/Elections/10-006%20Ordinance%20Designating%20Commissioners%20as%20NonPartisan%20Offices%208-18-2010.pdf?t=202503260855110
+  family: code
+  format: pdf
+  sha256: ''
+  title: 10-006 Ordinance Designating Commissioners as NonPartisan Offices 8-18-2010
+  last_checked: '2026-07-31'
+- id: wasco-code-adopting-rural-fire-protection-district-ordinance-9-18-1990
+  url: https://www.wascocountyor.gov/Ordinances/Law%20Enforcement%20&%20Emergency%20Services/Adopting%20Rural%20Fire%20Protection%20District%20Ordinance%209-18-1990.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Adopting Rural Fire Protection District Ordinance 9-18-1990
+  last_checked: '2026-07-31'
+- id: wasco-code-ambulance-service-regulation-12-19-1990
+  url: https://www.wascocountyor.gov/Ordinances/Law%20Enforcement%20&%20Emergency%20Services/Ambulance%20Service%20Regulation%20-%2012-19-1990.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ambulance Service Regulation - 12-19-1990
+  last_checked: '2026-07-31'
+- id: wasco-code-amending-09-006-for-the-impoundment-and-towing-of-vehicles-7
+  url: https://www.wascocountyor.gov/Ordinances/Law%20Enforcement%20&%20Emergency%20Services/Amending%2009-006%20for%20the%20Impoundment%20and%20Towing%20of%20Vehicles%207-1-2009.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amending 09-006 for the Impoundment and Towing of Vehicles 7-1-2009
+  last_checked: '2026-07-31'
+- id: wasco-code-criminal-history-check-policy-ordinance-3-4-2009
+  url: https://www.wascocountyor.gov/Ordinances/Law%20Enforcement%20&%20Emergency%20Services/Criminal%20History%20Check%20Policy%20Ordinance%203-4-2009.pdf?t=202503260855360
+  family: code
+  format: pdf
+  sha256: ''
+  title: Criminal History Check Policy Ordinance 3-4-2009
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-13-002-regulating-local-emergency-declarations-2-2
+  url: https://www.wascocountyor.gov/Ordinances/Law%20Enforcement%20&%20Emergency%20Services/Ordinance%2013-002%20Regulating%20Local%20Emergency%20Declarations%202-20-2013.pdf?t=202503260855550
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 13-002 Regulating Local Emergency Declarations 2-20-2013
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-authorizing-iga-to-create-regional-jail-facility-1
+  url: https://www.wascocountyor.gov/Ordinances/Law%20Enforcement%20&%20Emergency%20Services/Ordinance%20Authorizing%20IGA%20to%20Create%20Regional%20Jail%20Facility%2010-18-1995.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance Authorizing IGA to Create Regional Jail Facility 10-18-1995
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-creating-norcor-8-7-1996
+  url: https://www.wascocountyor.gov/Ordinances/Law%20Enforcement%20&%20Emergency%20Services/Ordinance%20Creating%20NORCOR%208-7-1996.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance Creating NORCOR 8-7-1996
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-establishing-procedures-for-the-impoundment-and-to
+  url: https://www.wascocountyor.gov/Ordinances/Law%20Enforcement%20&%20Emergency%20Services/Ordinance%20Establishing%20Procedures%20for%20the%20Impoundment%20and%20Towing%20of%20Vehicles%205-18-1994.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance Establishing Procedures for the Impoundment and Towing of Vehicles 5-18-1994
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-ratifying-the-central-and-eastern-oregon-juvenile-
+  url: https://www.wascocountyor.gov/Ordinances/Law%20Enforcement%20&%20Emergency%20Services/Ordinance%20Ratifying%20the%20Central%20and%20Eastern%20Oregon%20Juvenile%20Justice%20Consortium%203-20-1996.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance Ratifying the Central and Eastern Oregon Juvenile Justice Consortium 3-20-1996
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-25-003-amended-fee-schedule
+  url: https://www.wascocountyor.gov/BOCC%20Archives/2025/Ordinance%2025-003%20Amended%20Fee%20Schedule..pdf?t=202511051509440
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 25-003 Amended Fee Schedule.
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-24-003-animal-services-code-final-signed
+  url: https://www.wascocountyor.gov/BOCC%20Archives/Current/Ordinance%2024-003%20Animal%20Services%20Code%20Final%20SIGNED.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 24-003 Animal Services Code Final SIGNED
+  last_checked: '2026-07-31'
+- id: wasco-code-building-codes-ordinance-19-002
+  url: https://www.wascocountyor.gov/Ordinances/Building%20Codes/Building%20Codes%20Ordinance%2019-002.PDF?t=202503260855290
+  family: code
+  format: pdf
+  sha256: ''
+  title: Building Codes Ordinance 19-002
+  last_checked: '2026-07-31'
+- id: wasco-code-authorizing-community-renewable-energy-association-3-21-2007
+  url: https://www.wascocountyor.gov/Ordinances/Misc/Authorizing%20Community%20Renewable%20Energy%20Association%203-21-2007.pdf?t=202503260855280
+  family: code
+  format: pdf
+  sha256: ''
+  title: Authorizing Community Renewable Energy Association 3-21-2007
+  last_checked: '2026-07-31'
+- id: wasco-code-authorizing-iga-creating-quality-life-intergovernmental-agen
+  url: https://www.wascocountyor.gov/Ordinances/Misc/Authorizing%20IGA%20Creating%20Quality%20Life%20Intergovernmental%20Agency%206-27-2001.pdf?t=202503260855280
+  family: code
+  format: pdf
+  sha256: ''
+  title: Authorizing IGA Creating Quality Life Intergovernmental Agency 6-27-2001
+  last_checked: '2026-07-31'
+- id: wasco-code-clarifying-ordinance-94-105-administering-big-game-habitat-1
+  url: https://www.wascocountyor.gov/Ordinances/Misc/Clarifying%20Ordinance%2094-105%20Administering%20Big%20Game%20Habitat%2010-22-1997.pdf?t=202503260855330
+  family: code
+  format: pdf
+  sha256: ''
+  title: Clarifying Ordinance 94-105 Administering Big Game Habitat 10-22-1997
+  last_checked: '2026-07-31'
+- id: wasco-code-creating-iga-for-mt-hood-economic-alliance-9-7-2005
+  url: https://www.wascocountyor.gov/Ordinances/Misc/Creating%20IGA%20for%20Mt%20Hood%20Economic%20Alliance%209-7-2005.pdf?t=202503260855360
+  family: code
+  format: pdf
+  sha256: ''
+  title: Creating IGA for Mt Hood Economic Alliance 9-7-2005
+  last_checked: '2026-07-31'
+- id: wasco-code-establishing-a-gis-fee-4-18-2007
+  url: https://www.wascocountyor.gov/Ordinances/Misc/Establishing%20a%20GIS%20Fee%204-18-2007.pdf?t=202503260855390
+  family: code
+  format: pdf
+  sha256: ''
+  title: Establishing a GIS Fee 4-18-2007
+  last_checked: '2026-07-31'
+- id: wasco-code-non-discrimination-ordinance-7-11-2007
+  url: https://www.wascocountyor.gov/Ordinances/Misc/Non-discrimination%20Ordinance%207-11-2007.pdf?t=202503260855540
+  family: code
+  format: pdf
+  sha256: ''
+  title: Non-discrimination Ordinance 7-11-2007
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-13-001-delegating-rights-of-way-acceptance-to-coun
+  url: https://www.wascocountyor.gov/Ordinances/Misc/Ordinance%2013-001%20Delegating%20Rights%20of%20Way%20Acceptance%20to%20County%20Road%20Official%204-3-2013.pdf?t=202503260855550
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 13-001 Delegating Rights of Way Acceptance to County Road Official 4-3-2013
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-authorizing-loan-contract-with-the-oregon-economic
+  url: https://www.wascocountyor.gov/Ordinances/Misc/Ordinance%20Authorizing%20Loan%20Contract%20with%20the%20Oregon%20Economic%20Development%20Department%207-17-1996.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance Authorizing Loan Contract with the Oregon Economic Development Department 7-17-1996
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-providing-the-control-of-insect-pests-and-diseases
+  url: https://www.wascocountyor.gov/Ordinances/Misc/Ordinance%20Providing%20the%20Control%20of%20Insect%20Pests%20and%20Diseases%20in%20Fruit%20Trees%203-2-1994.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance Providing the Control of Insect Pests and Diseases in Fruit Trees 3-2-1994
+  last_checked: '2026-07-31'
+- id: wasco-code-providing-a-process-for-claims-12-6-2000
+  url: https://www.wascocountyor.gov/Ordinances/Misc/Providing%20a%20Process%20for%20Claims%2012-6-2000.pdf?t=202503260856020
+  family: code
+  format: pdf
+  sha256: ''
+  title: Providing a Process for Claims 12-6-2000
+  last_checked: '2026-07-31'
+- id: wasco-code-ratifying-iga-creating-mccog-7-1-1992
+  url: https://www.wascocountyor.gov/Ordinances/Misc/Ratifying%20IGA%20Creating%20MCCOG%207-1-1992.pdf?t=202503260856030
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ratifying IGA Creating MCCOG 7-1-1992
+  last_checked: '2026-07-31'
+- id: wasco-code-service-signing-ordinance-10-11-2000
+  url: https://www.wascocountyor.gov/Ordinances/Misc/Service%20Signing%20Ordinance%2010-11-2000.pdf?t=202503260856070
+  family: code
+  format: pdf
+  sha256: ''
+  title: Service Signing Ordinance 10-11-2000
+  last_checked: '2026-07-31'
+- id: wasco-code-social-gaming-ordinance-8-19-2009
+  url: https://www.wascocountyor.gov/Ordinances/Misc/Social%20Gaming%20Ordinance%208-19-2009.pdf?t=202503260856080
+  family: code
+  format: pdf
+  sha256: ''
+  title: Social Gaming Ordinance 8-19-2009
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-14-003-ratifying-formation-of-central-oregon-workf
+  url: https://www.wascocountyor.gov/Ordinance%2014-003%20Ratifying%20Formation%20of%20Central%20Oregon%20Workforce%20Consortium.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 14-003 Ratifying Formation of Central Oregon Workforce Consortium
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-15-001-ratifying-formation-of-mccfl
+  url: https://www.wascocountyor.gov/Ordinances/Misc/Ordinance%2015-001%20Ratifying%20Formation%20of%20MCCFL.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 15-001 Ratifying Formation of MCCFL
+  last_checked: '2026-07-31'
+- id: wasco-code-1978-wasco-county-dog-ordinance
+  url: https://www.wascocountyor.gov/Ordinances/Misc/1978%20Wasco%20County%20Dog%20Ordinance.pdf?t=202503260855140
+  family: code
+  format: pdf
+  sha256: ''
+  title: 1978 Wasco County Dog Ordinance
+  last_checked: '2026-07-31'
+- id: wasco-code-1958-dog-control-district-establishment
+  url: https://www.wascocountyor.gov/Ordinances/Misc/1958%20Dog%20Control%20District%20Establishment.pdf?t=202503260855140
+  family: code
+  format: pdf
+  sha256: ''
+  title: 1958 Dog Control District Establishment
+  last_checked: '2026-07-31'
+- id: wasco-code-1976-dog-licensing-policy
+  url: https://www.wascocountyor.gov/Ordinances/Misc/1976%20Dog%20Licensing%20Policy.pdf?t=202503260855140
+  family: code
+  format: pdf
+  sha256: ''
+  title: 1976 Dog Licensing Policy
+  last_checked: '2026-07-31'
+- id: wasco-code-2023-wasco-county-title-vi-plan-signed
+  url: https://www.wascocountyor.gov/document_center/Policies_and_Ordinances/2023%20Wasco%20County%20Title%20VI%20Plan%20SIGNED.pdf?t=202506101721370
+  family: code
+  format: pdf
+  sha256: ''
+  title: 2023 Wasco County Title VI Plan SIGNED
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-26-001repeal-replace-ordinance-rev2-signed
+  url: https://www.wascocountyor.gov/BOCC%20Archives/2026/Ordinance%2026-001Repeal%20&%20Replace%20Ordinance.rev2_signed.pdf?t=202606161702120
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 26-001Repeal & Replace Ordinance.rev2 signed
+  last_checked: '2026-07-31'
+- id: wasco-code-amended-personnel-ordinance-3-4-1992
+  url: https://www.wascocountyor.gov/Ordinances/Personnel/Amended%20Personnel%20Ordinance%203-4-1992.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amended Personnel Ordinance 3-4-1992
+  last_checked: '2026-07-31'
+- id: wasco-code-amended-personnel-ordinance-9-4-1996
+  url: https://www.wascocountyor.gov/Ordinances/Personnel/Amended%20Personnel%20Ordinance%209-4-1996.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amended Personnel Ordinance 9-4-1996
+  last_checked: '2026-07-31'
+- id: wasco-code-personnel-ordinance-3-16-1988
+  url: https://www.wascocountyor.gov/Ordinances/Personnel/Personnel%20Ordinance%203-16-1988.pdf?t=202503260856000
+  family: code
+  format: pdf
+  sha256: ''
+  title: Personnel Ordinance 3-16-1988
+  last_checked: '2026-07-31'
+- id: wasco-code-personnel-ordinance-5-8-1985
+  url: https://www.wascocountyor.gov/Ordinances/Personnel/Personnel%20Ordinance%205-8-1985.pdf?t=202503260856000
+  family: code
+  format: pdf
+  sha256: ''
+  title: Personnel Ordinance 5-8-1985
+  last_checked: '2026-07-31'
+- id: wasco-code-personnel-ordinance-6-8-1988
+  url: https://www.wascocountyor.gov/Ordinances/Personnel/Personnel%20Ordinance%206-8-1988.pdf?t=202503260856000
+  family: code
+  format: pdf
+  sha256: ''
+  title: Personnel Ordinance 6-8-1988
+  last_checked: '2026-07-31'
+- id: wasco-code-personnel-ordinance-amendment-3-4-1998-part-i
+  url: https://www.wascocountyor.gov/Ordinances/Personnel/Personnel%20Ordinance%20Amendment%203-4-1998%20Part%20I.pdf?t=202503260856000
+  family: code
+  format: pdf
+  sha256: ''
+  title: Personnel Ordinance Amendment 3-4-1998 Part I
+  last_checked: '2026-07-31'
+- id: wasco-code-personnel-ordinance-amendment-3-4-1998-part-ii
+  url: https://www.wascocountyor.gov/Ordinances/Personnel/Personnel%20Ordinance%20Amendment%203-4-1998%20Part%20II.pdf?t=202503260856000
+  family: code
+  format: pdf
+  sha256: ''
+  title: Personnel Ordinance Amendment 3-4-1998 Part II
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-17-001-repealing-personnel-ordinance-1985-0363
+  url: https://www.wascocountyor.gov/Ordinances/Personnel/Ordinance%2017-001%20Repealing%20Personnel%20Ordinance%201985-0363.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 17-001 Repealing Personnel Ordinance 1985-0363
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-24-001-nsa-ludo-update-07-17-24-signed
+  url: https://www.wascocountyor.gov/BOCC%20Archives/Current/Ordinance_24-001_NSA_LUDO_UPDATE_07.17.24%20SIGNED.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 24-001 NSA LUDO UPDATE 07.17.24 SIGNED
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-24-002-legislative-amendments-comprehensive-plan-z
+  url: https://www.wascocountyor.gov/BOCC%20Archives/Current/Ordinance%2024-002%20Legislative%20Amendments%20Comprehensive%20Plan%20Zoning%20Map%20SIGNED.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 24-002 Legislative Amendments Comprehensive Plan Zoning Map SIGNED
+  last_checked: '2026-07-31'
+- id: wasco-code-uniform-addressing-ordinance-6-29-1988
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1988/Uniform%20Addressing%20Ordinance%206-29-1988.pdf?t=202503260856120
+  family: code
+  format: pdf
+  sha256: ''
+  title: Uniform Addressing Ordinance 6-29-1988
+  last_checked: '2026-07-31'
+- id: wasco-code-uniform-addressing-ordinance-8-3-1988
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1988/Uniform%20Addressing%20Ordinance%208-3-1988.pdf?t=202503260856120
+  family: code
+  format: pdf
+  sha256: ''
+  title: Uniform Addressing Ordinance 8-3-1988
+  last_checked: '2026-07-31'
+- id: wasco-code-comprehensive-plan-map-ordinance-amendment-from-exclusive-farm-use-to-rural-service-center-1-1-1989
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1989/Comprehensive%20Plan%20Map%20Ordinance%20Amendment%20-%20From%20Exclusive%20Farm%20Use%20to%20Rural%20Service%20Center%201-1-1989.pdf?t=202503260855350
+  family: code
+  format: pdf
+  sha256: ''
+  title: Comprehensive Plan Map Ordinance Amendment - From Exclusive Farm Use to Rural Service Center
+    1-1-1989
+  last_checked: '2026-07-31'
+- id: wasco-code-comprehensive-plan-map-ordinance-amendment-from-exclusive-farm-use-toc-1-commercial-4-1989
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1989/Comprehensive%20Plan%20Map%20Ordinance%20Amendment%20-%20From%20Exclusive%20Farm%20Use%20toC-1%20Commercial%204-1989.pdf?t=202503260855350
+  family: code
+  format: pdf
+  sha256: ''
+  title: Comprehensive Plan Map Ordinance Amendment - From Exclusive Farm Use toC-1 Commercial 4-1989
+  last_checked: '2026-07-31'
+- id: wasco-code-ludo-amendment-7-19-1989
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1989/LUDO%20Amendment%207-19-1989.pdf?t=202503260855500
+  family: code
+  format: pdf
+  sha256: ''
+  title: LUDO Amendment 7-19-1989
+  last_checked: '2026-07-31'
+- id: wasco-code-ludo-ordinance-amendment-2-3-1989
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1989/LUDO%20Ordinance%20Amendment%202-3-1989.pdf?t=202503260855500
+  family: code
+  format: pdf
+  sha256: ''
+  title: LUDO Ordinance Amendment 2-3-1989
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-amendment-comprehensive-plan-map-from-exclusive-fa
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1989/Ordinance%20Amendment%20Comprehensive%20Plan%20Map%20from%20Exclusive%20Farm%20Use%20to%20Industrial%205-3-1989.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance Amendment Comprehensive Plan Map from Exclusive Farm Use to Industrial 5-3-1989
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-amendment-zone-change-from-commercial-to-residenti
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1989/Ordinance%20Amendment%20Zone%20Change%20from%20Commercial%20to%20Residential%205-3-1989.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance Amendment Zone Change from Commercial to Residential 5-3-1989
+  last_checked: '2026-07-31'
+- id: wasco-code-plan-map-amendment-10-4-1989
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1989/Plan%20Map%20Amendment%2010-4-1989.pdf?t=202503260856010
+  family: code
+  format: pdf
+  sha256: ''
+  title: Plan Map Amendment 10-4-1989
+  last_checked: '2026-07-31'
+- id: wasco-code-zone-change-ordinance-amendment-5-5-1989
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1989/Zone%20Change%20Ordinance%20Amendment%205-5-1989.pdf?t=202503260856210
+  family: code
+  format: pdf
+  sha256: ''
+  title: Zone Change Ordinance Amendment 5-5-1989
+  last_checked: '2026-07-31'
+- id: wasco-code-comp-plan-amendment-6-20-1990
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1990/Comp%20Plan%20Amendment%206-20-1990.pdf?t=202503260855350
+  family: code
+  format: pdf
+  sha256: ''
+  title: Comp Plan Amendment 6-20-1990
+  last_checked: '2026-07-31'
+- id: wasco-code-expansion-of-the-urban-growth-area-11-20-1991
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1991/Expansion%20of%20the%20Urban%20Growth%20Area%2011-20-1991.pdf?t=202503260855390
+  family: code
+  format: pdf
+  sha256: ''
+  title: Expansion of the Urban Growth Area 11-20-1991
+  last_checked: '2026-07-31'
+- id: wasco-code-urban-growth-area-zoning-7-3-1991
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1991/Urban%20Growth%20Area%20Zoning%207-3-1991.pdf?t=202503260856130
+  family: code
+  format: pdf
+  sha256: ''
+  title: Urban Growth Area Zoning 7-3-1991
+  last_checked: '2026-07-31'
+- id: wasco-code-amending-ludo-8-5-1992
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1992/Amending%20LUDO%208-5-1992.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amending LUDO 8-5-1992
+  last_checked: '2026-07-31'
+- id: wasco-code-joint-management-of-urban-growth-area-10-21-1992
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1992/Joint%20Management%20of%20Urban%20Growth%20Area%2010-21-1992.pdf?t=202503260855470
+  family: code
+  format: pdf
+  sha256: ''
+  title: Joint Management of Urban Growth Area 10-21-1992
+  last_checked: '2026-07-31'
+- id: wasco-code-land-use-amendment-1-15-1992
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1992/Land%20Use%20Amendment%201-15-1992.pdf?t=202503260855480
+  family: code
+  format: pdf
+  sha256: ''
+  title: Land Use Amendment 1-15-1992
+  last_checked: '2026-07-31'
+- id: wasco-code-protecting-accepted-resource-fees-10-7-1992
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1992/Protecting%20Accepted%20Resource%20Fees%2010-7-1992.pdf?t=202503260856020
+  family: code
+  format: pdf
+  sha256: ''
+  title: Protecting Accepted Resource Fees 10-7-1992
+  last_checked: '2026-07-31'
+- id: wasco-code-amendment-to-city-of-td-subdivision-and-land-partitioning-or
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1993/Amendment%20to%20City%20of%20TD%20Subdivision%20and%20Land%20Partitioning%20Ordinance%203-17-1993.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amendment to City of TD Subdivision and Land Partitioning Ordinance 3-17-1993
+  last_checked: '2026-07-31'
+- id: wasco-code-amendment-to-city-of-td-urban-growth-boundary-10-20-1993
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1993/Amendment%20to%20City%20of%20TD%20Urban%20Growth%20Boundary%2010-20-1993.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amendment to City of TD Urban Growth Boundary 10-20-1993
+  last_checked: '2026-07-31'
+- id: wasco-code-amendment-to-comprehensive-plan-adding-to-inventory-list-7-2
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1993/Amendment%20to%20Comprehensive%20Plan%20Adding%20to%20Inventory%20List%207-21-1993.pdf?t=202503260855270
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amendment to Comprehensive Plan Adding to Inventory List 7-21-1993
+  last_checked: '2026-07-31'
+- id: wasco-code-amendment-to-ludo-mineral-and-aggregate-overlay-zone-9-15-19
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1993/Amendment%20to%20LUDO%20Mineral%20and%20Aggregate%20Overlay%20Zone%209-15-1993.pdf?t=202503260855270
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amendment to LUDO Mineral and Aggregate Overlay Zone 9-15-1993
+  last_checked: '2026-07-31'
+- id: wasco-code-amendment-to-the-city-of-td-urban-growth-boundary-10-20-1993
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1993/Amendment%20to%20the%20City%20of%20TD%20Urban%20Growth%20Boundary%2010-20-1993.pdf?t=202503260855270
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amendment to the City of TD Urban Growth Boundary 10-20-1993
+  last_checked: '2026-07-31'
+- id: wasco-code-amendments-to-ludo-5-5-1993
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1993/Amendments%20to%20LUDO%205-5-1993.pdf?t=202503260855270
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amendments to LUDO 5-5-1993
+  last_checked: '2026-07-31'
+- id: wasco-code-comprehensive-plan-amendment-6-2-1993
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1993/Comprehensive%20Plan%20Amendment%206-2-1993.pdf?t=202503260855350
+  family: code
+  format: pdf
+  sha256: ''
+  title: Comprehensive Plan Amendment 6-2-1993
+  last_checked: '2026-07-31'
+- id: wasco-code-concurrence-with-city-of-td-periodic-review-order-12-01-1993
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1993/Concurrence%20with%20City%20of%20TD%20Periodic%20Review%20Order%2012-01-1993.pdf?t=202503260855350
+  family: code
+  format: pdf
+  sha256: ''
+  title: Concurrence with City of TD Periodic Review Order 12-01-1993
+  last_checked: '2026-07-31'
+- id: wasco-code-legislative-amendments-to-comprehensive-plan-in-the-secenic-
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1993/Legislative%20Amendments%20to%20Comprehensive%20Plan%20in%20the%20Secenic%20Area%205-19-1993.pdf?t=202503260855490
+  family: code
+  format: pdf
+  sha256: ''
+  title: Legislative Amendments to Comprehensive Plan in the Secenic Area 5-19-1993
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-protecting-farming-and-forestry-practices-4-21-199
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1993/Ordinance%20Protecting%20Farming%20and%20Forestry%20Practices%204-21-1993.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance Protecting Farming and Forestry Practices 4-21-1993
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-protecting-resource-uses-10-7-1993
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1993/Ordinance%20Protecting%20Resource%20Uses%2010-7-1993.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance Protecting Resource Uses 10-7-1993
+  last_checked: '2026-07-31'
+- id: wasco-code-urban-growth-ludo-amendment-1-20-1993
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1993/Urban%20Growth%20LUDO%20Amendment%201-20-1993.pdf?t=202503260856130
+  family: code
+  format: pdf
+  sha256: ''
+  title: Urban Growth LUDO Amendment 1-20-1993
+  last_checked: '2026-07-31'
+- id: wasco-code-zone-change-amendment-to-comprehensive-plan-map-11-3-1993
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1993/Zone%20Change%20Amendment%20to%20Comprehensive%20Plan%20Map%2011-3-1993.pdf?t=202503260856210
+  family: code
+  format: pdf
+  sha256: ''
+  title: Zone Change Amendment to Comprehensive Plan Map 11-3-1993
+  last_checked: '2026-07-31'
+- id: wasco-code-amendment-to-the-comprehensive-plan-10-19-1994
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1994/Amendment%20to%20the%20Comprehensive%20Plan%2010-19-1994.pdf?t=202503260855270
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amendment to the Comprehensive Plan 10-19-1994
+  last_checked: '2026-07-31'
+- id: wasco-code-amendments-to-td-comprehensive-plan-and-plan-map-5-18-1994
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1994/Amendments%20to%20TD%20Comprehensive%20Plan%20and%20Plan%20Map%205-18-1994.pdf?t=202503260855270
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amendments to TD Comprehensive Plan and Plan Map 5-18-1994
+  last_checked: '2026-07-31'
+- id: wasco-code-comprehensive-plan-legislative-amendments-5-4-1994
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1994/Comprehensive%20Plan%20Legislative%20Amendments%205-4-1994.pdf?t=202503260855350
+  family: code
+  format: pdf
+  sha256: ''
+  title: Comprehensive Plan Legislative Amendments 5-4-1994
+  last_checked: '2026-07-31'
+- id: wasco-code-ludo-amendment-7-20-1994
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1994/LUDO%20Amendment%207-20-1994.pdf?t=202503260855500
+  family: code
+  format: pdf
+  sha256: ''
+  title: LUDO Amendment 7-20-1994
+  last_checked: '2026-07-31'
+- id: wasco-code-ludo-for-historic-landmarks-protection-12-9-1994
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1994/LUDO%20for%20Historic%20Landmarks%20Protection%2012-9-1994.pdf?t=202503260855500
+  family: code
+  format: pdf
+  sha256: ''
+  title: LUDO for Historic Landmarks Protection 12-9-1994
+  last_checked: '2026-07-31'
+- id: wasco-code-comprehensive-plan-amendment-for-fish-and-wildlife-8-16-1995
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1995/Comprehensive%20Plan%20Amendment%20for%20Fish%20and%20Wildlife%208-16-1995.pdf?t=202503260855350
+  family: code
+  format: pdf
+  sha256: ''
+  title: Comprehensive Plan Amendment for Fish and Wildlife 8-16-1995
+  last_checked: '2026-07-31'
+- id: wasco-code-comprehensive-plan-amendment-for-site-specific-economic-soci
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1995/Comprehensive%20Plan%20Amendment%20for%20Site%20Specific%20Economic%20Social%20Environmental%20and%20Energy%20Determinations%207-5-1995.pdf?t=202503260855350
+  family: code
+  format: pdf
+  sha256: ''
+  title: Comprehensive Plan Amendment for Site Specific Economic Social Environmental and Energy Determinations
+    7-5-1995
+  last_checked: '2026-07-31'
+- id: wasco-code-comprehensive-plan-amendment-in-exclusive-farm-use-zone-7-17
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1996/Comprehensive%20Plan%20Amendment%20in%20Exclusive%20Farm%20Use%20Zone%207-17-1996.pdf?t=202503260855350
+  family: code
+  format: pdf
+  sha256: ''
+  title: Comprehensive Plan Amendment in Exclusive Farm Use Zone 7-17-1996
+  last_checked: '2026-07-31'
+- id: wasco-code-ludo-amendment-for-exclusive-farm-use-zone-9-18-1996
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1996/LUDO%20Amendment%20for%20Exclusive%20Farm%20Use%20Zone%209-18-1996.pdf?t=202503260855500
+  family: code
+  format: pdf
+  sha256: ''
+  title: LUDO Amendment for Exclusive Farm Use Zone 9-18-1996
+  last_checked: '2026-07-31'
+- id: wasco-code-ludo-amendment-to-the-mineral-and-aggregate-overlay-zone-11-
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1996/LUDO%20Amendment%20to%20the%20Mineral%20and%20Aggregate%20Overlay%20Zone%2011-13-1996.pdf?t=202503260855500
+  family: code
+  format: pdf
+  sha256: ''
+  title: LUDO Amendment to the Mineral and Aggregate Overlay Zone 11-13-1996
+  last_checked: '2026-07-31'
+- id: wasco-code-97-01-amending-comprehensive-plan-9-17-1997
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1997/97-01%20Amending%20Comprehensive%20Plan%209-17-1997.pdf?t=202503260855250
+  family: code
+  format: pdf
+  sha256: ''
+  title: 97-01 Amending Comprehensive Plan 9-17-1997
+  last_checked: '2026-07-31'
+- id: wasco-code-adopting-amendments-to-the-city-of-td-ludo-7-22-1998
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1998/Adopting%20Amendments%20to%20the%20City%20of%20TD%20LUDO%207-22-1998.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Adopting Amendments to the City of TD LUDO 7-22-1998
+  last_checked: '2026-07-31'
+- id: wasco-code-comprehensive-plan-and-ludo-amendments-3-18-1998-part-ii
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1998/Comprehensive%20Plan%20and%20LUDO%20Amendments%203-18-1998%20Part%20II.pdf?t=202503260855350
+  family: code
+  format: pdf
+  sha256: ''
+  title: Comprehensive Plan and LUDO Amendments 3-18-1998 Part II
+  last_checked: '2026-07-31'
+- id: wasco-code-amendment-to-comprehensive-plan-9-16-1998
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1998/Amendment%20to%20Comprehensive%20Plan%209-16-1998.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amendment to Comprehensive Plan 9-16-1998
+  last_checked: '2026-07-31'
+- id: wasco-code-amendment-to-comprehensive-plan-policies-8-5-1998
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1998/Amendment%20to%20Comprehensive%20Plan%20Policies%208-5-1998.pdf?t=202503260855270
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amendment to Comprehensive Plan Policies 8-5-1998
+  last_checked: '2026-07-31'
+- id: wasco-code-comprehensive-plan-and-ludo-amendments-3-18-1998
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1998/Comprehensive%20Plan%20and%20LUDO%20Amendments%203-18-1998.pdf?t=202503260855350
+  family: code
+  format: pdf
+  sha256: ''
+  title: Comprehensive Plan and LUDO Amendments 3-18-1998
+  last_checked: '2026-07-31'
+- id: wasco-code-99-101legislateve-amendments-to-ludo-map-6-16-1999
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1999/99-101Legislateve%20Amendments%20to%20LUDO%20Map%206-16-1999.pdf?t=202503260855250
+  family: code
+  format: pdf
+  sha256: ''
+  title: 99-101Legislateve Amendments to LUDO Map 6-16-1999
+  last_checked: '2026-07-31'
+- id: wasco-code-99-102-amendments-to-comprehensive-plan-map-designation-and-
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1999/99-102%20Amendments%20to%20Comprehensive%20Plan%20Map%20Designation%20and%20LUDO%20Map%206-9-1999.pdf?t=202503260855250
+  family: code
+  format: pdf
+  sha256: ''
+  title: 99-102 Amendments to Comprehensive Plan Map Designation and LUDO Map 6-9-1999
+  last_checked: '2026-07-31'
+- id: wasco-code-99-103-amendments-to-ludo-exclusive-farm-use-6-16-1999
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1999/99-103%20Amendments%20to%20LUDO%20Exclusive%20Farm%20Use%206-16-1999.pdf?t=202503260855250
+  family: code
+  format: pdf
+  sha256: ''
+  title: 99-103 Amendments to LUDO Exclusive Farm Use 6-16-1999
+  last_checked: '2026-07-31'
+- id: wasco-code-99-104-amendments-to-comprehensive-plan-map-designation-and-
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1999/99-104%20Amendments%20to%20Comprehensive%20Plan%20Map%20Designation%20and%20LUDO%20Map%208-18-1999.pdf?t=202503260855250
+  family: code
+  format: pdf
+  sha256: ''
+  title: 99-104 Amendments to Comprehensive Plan Map Designation and LUDO Map 8-18-1999
+  last_checked: '2026-07-31'
+- id: wasco-code-99-106-amendments-to-comprehensive-plan-map-designation-and-
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1999/99-106%20Amendments%20to%20Comprehensive%20Plan%20Map%20Designation%20and%20LUDO%20Map%2010-6-1999.pdf?t=202503260855250
+  family: code
+  format: pdf
+  sha256: ''
+  title: 99-106 Amendments to Comprehensive Plan Map Designation and LUDO Map 10-6-1999
+  last_checked: '2026-07-31'
+- id: wasco-code-99-109-amendments-to-comprehensive-plan-map-designation-and-
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1999/99-109%20Amendments%20to%20Comprehensive%20Plan%20Map%20Designation%20and%20LUDO%20Map%2011-3-1999.pdf?t=202503260855250
+  family: code
+  format: pdf
+  sha256: ''
+  title: 99-109 Amendments to Comprehensive Plan Map Designation and LUDO Map 11-3-1999
+  last_checked: '2026-07-31'
+- id: wasco-code-99-111-amendments-to-comprehensive-plan-map-designation-and-
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1999/99-111%20Amendments%20to%20Comprehensive%20Plan%20Map%20Designation%20and%20LUDO%20Map%2011-3-1999.pdf?t=202503260855250
+  family: code
+  format: pdf
+  sha256: ''
+  title: 99-111 Amendments to Comprehensive Plan Map Designation and LUDO Map 11-3-1999
+  last_checked: '2026-07-31'
+- id: wasco-code-99-112-adopting-an-exception-to-statewide-goal-3-5-5-1999
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1999/99-112%20Adopting%20an%20Exception%20to%20Statewide%20Goal%203%205-5-1999.pdf?t=202503260855250
+  family: code
+  format: pdf
+  sha256: ''
+  title: 99-112 Adopting an Exception to Statewide Goal 3 5-5-1999
+  last_checked: '2026-07-31'
+- id: wasco-code-99-113-amendment-comprehensive-plan-5-5-1999
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1999/99-113%20Amendment%20Comprehensive%20Plan%205-5-1999.pdf?t=202503260855250
+  family: code
+  format: pdf
+  sha256: ''
+  title: 99-113 Amendment Comprehensive Plan 5-5-1999
+  last_checked: '2026-07-31'
+- id: wasco-code-99-114-amendments-to-ludo-16-16-1999
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/1999/99-114%20Amendments%20to%20LUDO%2016-16-1999.pdf?t=202503260855250
+  family: code
+  format: pdf
+  sha256: ''
+  title: 99-114 Amendments to LUDO 16-16-1999
+  last_checked: '2026-07-31'
+- id: wasco-code-amending-99-104-tygh-valley-ludo-1-19-2000-2
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2000/Amending%2099-104%20Tygh%20Valley%20LUDO%201.19.2000%20(2).pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amending 99-104 Tygh Valley LUDO 1.19.2000 (2)
+  last_checked: '2026-07-31'
+- id: wasco-code-amending-99-106-wamic-ludo-1-19-2000
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2000/Amending%2099-106%20Wamic%20LUDO%201-19-2000.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amending 99-106 Wamic LUDO 1-19-2000
+  last_checked: '2026-07-31'
+- id: wasco-code-amending-99-108-transition-lands-study-area-ludo-1-5-2000
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2000/Amending%2099-108%20Transition%20Lands%20Study%20Area%20LUDO%201.5.2000.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amending 99-108 Transition Lands Study Area LUDO 1.5.2000
+  last_checked: '2026-07-31'
+- id: wasco-code-exception-area-zoning-amendment-12-15-2004
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2004/Exception%20Area%20Zoning%20Amendment%2012-15-2004.pdf?t=202503260855390
+  family: code
+  format: pdf
+  sha256: ''
+  title: Exception Area Zoning Amendment 12-15-2004
+  last_checked: '2026-07-31'
+- id: wasco-code-pine-hollow-and-rock-creek-comprehensive-plan-amendments-12-
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2004/Pine%20Hollow%20and%20Rock%20Creek%20Comprehensive%20Plan%20Amendments%2012-15-2004.pdf?t=202503260856010
+  family: code
+  format: pdf
+  sha256: ''
+  title: Pine Hollow and Rock Creek Comprehensive Plan Amendments 12-15-2004
+  last_checked: '2026-07-31'
+- id: wasco-code-zoning-ordinance-amendment-12-15-2004
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2004/Zoning%20Ordinance%20Amendment%2012-15-2004.pdf?t=202503260856210
+  family: code
+  format: pdf
+  sha256: ''
+  title: Zoning Ordinance Amendment 12-15-2004
+  last_checked: '2026-07-31'
+- id: wasco-code-national-scenic-area-ludo-6-8-2005
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2005/National%20Scenic%20Area%20LUDO%206-8-2005.pdf?t=202503260855530
+  family: code
+  format: pdf
+  sha256: ''
+  title: National Scenic Area LUDO 6-8-2005
+  last_checked: '2026-07-31'
+- id: wasco-code-land-use-and-dev-changes-in-management-plan-for-col-river-go
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2006/LAND%20USE%20AND%20DEV%20CHANGES%20IN%20MANAGEMENT%20PLAN%20FOR%20COL%20RIVER%20GORGE%20NATIONAL%20SCENIC%20AREA%207-5-2006.pdf?t=202503260855480
+  family: code
+  format: pdf
+  sha256: ''
+  title: LAND USE AND DEV CHANGES IN MANAGEMENT PLAN FOR COL RIVER GORGE NATIONAL SCENIC AREA 7-5-2006
+  last_checked: '2026-07-31'
+- id: wasco-code-amended-comprehensive-plan-2-7-2007
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2007/Amended%20Comprehensive%20Plan%202-7-2007.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amended Comprehensive Plan 2-7-2007
+  last_checked: '2026-07-31'
+- id: wasco-code-amended-zoning-ordinance-for-forestry-standards-fire-code-3-
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2007/Amended%20Zoning%20Ordinance%20for%20Forestry%20Standards%20Fire%20Code%203-7-2007.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amended Zoning Ordinance for Forestry Standards Fire Code 3-7-2007
+  last_checked: '2026-07-31'
+- id: wasco-code-amendments-scenic-area-zoning-fire-standards-2-27-2007
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2007/Amendments%20Scenic%20Area%20Zoning%20Fire%20Standards%202-27-2007.pdf?t=202503260855270
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amendments Scenic Area Zoning Fire Standards 2-27-2007
+  last_checked: '2026-07-31'
+- id: wasco-code-comp-plan-amendment-removing-urban-growth-area-agreements-2-
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2007/Comp%20Plan%20Amendment%20Removing%20Urban%20Growth%20Area%20Agreements%202-7-2007.pdf?t=202503260855350
+  family: code
+  format: pdf
+  sha256: ''
+  title: Comp Plan Amendment Removing Urban Growth Area Agreements 2-7-2007
+  last_checked: '2026-07-31'
+- id: wasco-code-zoning-amendment-fire-standards-1-9-2007
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2007/Zoning%20Amendment%20Fire%20Standards%201-9-2007.pdf?t=202503260856210
+  family: code
+  format: pdf
+  sha256: ''
+  title: Zoning Amendment Fire Standards 1-9-2007
+  last_checked: '2026-07-31'
+- id: wasco-code-legislative-amendments-to-ludo-10-29-2008
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2008/Legislative%20Amendments%20to%20LUDO%2010-29-2008.pdf?t=202503260855490
+  family: code
+  format: pdf
+  sha256: ''
+  title: Legislative Amendments to LUDO 10-29-2008
+  last_checked: '2026-07-31'
+- id: wasco-code-09-004-code-compliance-and-nuisance-abatement-ordinance-4-15
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2009/09-004%20Code%20Compliance%20and%20Nuisance%20Abatement%20Ordinance%204-15-2009.pdf?t=202503260855090
+  family: code
+  format: pdf
+  sha256: ''
+  title: 09-004 Code Compliance and Nuisance Abatement Ordinance 4-15-2009
+  last_checked: '2026-07-31'
+- id: wasco-code-09-005-ludo-amendment-6-17-2009
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2009/09-005%20LUDO%20Amendment%206-17-2009.pdf?t=202503260855090
+  family: code
+  format: pdf
+  sha256: ''
+  title: 09-005 LUDO Amendment 6-17-2009
+  last_checked: '2026-07-31'
+- id: wasco-code-09-007-exclusive-farm-use-zone-amendment-7-1-2009
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2009/09-007%20Exclusive%20Farm%20Use%20Zone%20Amendment%207-1-2009.pdf?t=202503260855090
+  family: code
+  format: pdf
+  sha256: ''
+  title: 09-007 Exclusive Farm Use Zone Amendment 7-1-2009
+  last_checked: '2026-07-31'
+- id: wasco-code-09-010-mosier-ludo-amendments-9-16-2009
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2009/09-010%20Mosier%20LUDO%20Amendments%209-16-2009.pdf?t=202503260855090
+  family: code
+  format: pdf
+  sha256: ''
+  title: 09-010 Mosier LUDO Amendments 9-16-2009
+  last_checked: '2026-07-31'
+- id: wasco-code-09-011-ludo-legislative-amendments-11-25-2009
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2009/09-011%20LUDO%20Legislative%20Amendments%2011-25-2009.pdf?t=202503260855090
+  family: code
+  format: pdf
+  sha256: ''
+  title: 09-011 LUDO Legislative Amendments 11-25-2009
+  last_checked: '2026-07-31'
+- id: wasco-code-legislative-amendments-to-ludo-4-1-2009
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2009/Legislative%20Amendments%20to%20LUDO%204-1-2009.pdf?t=202503260855490
+  family: code
+  format: pdf
+  sha256: ''
+  title: Legislative Amendments to LUDO 4-1-2009
+  last_checked: '2026-07-31'
+- id: wasco-code-10-001-ludo-amendment-for-scenic-area-1-6-2010
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2010/10-001%20LUDO%20Amendment%20for%20Scenic%20Area%201-6-2010.pdf?t=202503260855110
+  family: code
+  format: pdf
+  sha256: ''
+  title: 10-001 LUDO Amendment for Scenic Area 1-6-2010
+  last_checked: '2026-07-31'
+- id: wasco-code-10-002-flood-hazard-overlay-ordinance-4-12-2010
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2010/10-002%20Flood%20Hazard%20Overlay%20Ordinance%204-12-2010.pdf?t=202503260855110
+  family: code
+  format: pdf
+  sha256: ''
+  title: 10-002 Flood Hazard Overlay Ordinance 4-12-2010
+  last_checked: '2026-07-31'
+- id: wasco-code-10-004-ludo-amendment-exclusive-farm-use-zone-7-7-2010
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2010/10-004%20LUDO%20Amendment%20Exclusive%20Farm%20Use%20Zone%207-7-2010.pdf?t=202503260855110
+  family: code
+  format: pdf
+  sha256: ''
+  title: 10-004 LUDO Amendment Exclusive Farm Use Zone 7-7-2010
+  last_checked: '2026-07-31'
+- id: wasco-code-amended-code-compliance-and-nusicance-abatement-ordinance-1-
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2011/Amended%20Code%20Compliance%20and%20Nusicance%20Abatement%20Ordinance%20%201-5-2011.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amended Code Compliance and Nusicance Abatement Ordinance  1-5-2011
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-12-002-legislative-amendments-to-ludo-4-4-2012
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2012/Ordinance%2012-002%20Legislative%20Amendments%20to%20LUDO%204-4-2012.pdf?t=202503260855550
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 12-002 Legislative Amendments to LUDO 4-4-2012
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-12-015-planning-commission-rules-and-regulations-9
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2012/Ordinance%2012-015%20Planning%20Commission%20Rules%20and%20Regulations%209-19-12.pdf?t=202503260855550
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 12-015 Planning Commission Rules and Regulations 9-19-12
+  last_checked: '2026-07-31'
+- id: wasco-code-ludo-amendment-3-17-2013
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2013/LUDO%20Amendment%203-17-2013.pdf?t=202503260855500
+  family: code
+  format: pdf
+  sha256: ''
+  title: LUDO Amendment 3-17-2013
+  last_checked: '2026-07-31'
+- id: wasco-code-mj-moratorium
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2014/MJ%20Moratorium.pdf?t=202503260855520
+  family: code
+  format: pdf
+  sha256: ''
+  title: MJ Moratorium
+  last_checked: '2026-07-31'
+- id: wasco-code-16-001-time-place-and-manner-for-marijuana
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2016/16-001%20Time%20Place%20and%20Manner%20for%20Marijuana.pdf?t=202503260855130
+  family: code
+  format: pdf
+  sha256: ''
+  title: 16-001 Time Place and Manner for Marijuana
+  last_checked: '2026-07-31'
+- id: wasco-code-17-003-nsa-ludo
+  url: https://www.wascocountyor.gov/document_center/Policies_and_Ordinances/17-003%20NSA%20LUDO.pdf?t=202503260855130
+  family: code
+  format: pdf
+  sha256: ''
+  title: 17-003 NSA LUDO
+  last_checked: '2026-07-31'
+- id: wasco-code-18-001-nsa-ludo
+  url: https://www.wascocountyor.gov/document_center/Policies_and_Ordinances/18-001%20NSA%20LUDO.pdf?t=202503260855130
+  family: code
+  format: pdf
+  sha256: ''
+  title: 18-001 NSA LUDO
+  last_checked: '2026-07-31'
+- id: wasco-code-18-002-ludo-update
+  url: https://www.wascocountyor.gov/document_center/Policies_and_Ordinances/18-002%20-%20LUDO%20Update.pdf?t=202503260855130
+  family: code
+  format: pdf
+  sha256: ''
+  title: 18-002 - LUDO Update
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-18-003-amdending-chapter-3-of-the-wasco-county-204
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2018/Ordinance%2018-003%20Amdending%20Chapter%203%20of%20the%20Wasco%20County%202040%20Comprehensive%20Plan.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 18-003 Amdending Chapter 3 of the Wasco County 2040 Comprehensive Plan
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-19-001-amending-chapters-2-3-6-and-9
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2019/Ordinance%2019-001%20Amending%20Chapters%202,3,6%20and%209.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 19-001 Amending Chapters 2,3,6 and 9
+  last_checked: '2026-07-31'
+- id: wasco-code-building-codes-ordinance-19-002-fully-executed
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2019/Building%20Codes%20Ordinance%2019-002%20Fully%20Executed.pdf?t=202503260855290
+  family: code
+  format: pdf
+  sha256: ''
+  title: Building Codes Ordinance 19-002 Fully Executed
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-19-004-2040-updates-chapters-5-12-signed
+  url: https://www.wascocountyor.gov/Ordinance%2019-004%202040%20Updates%20Chapters%205%20&%2012%20-%20SIGNED.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 19-004 2040 Updates Chapters 5 & 12 - SIGNED
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-19-005-2040-chapters-10-14-signed
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2019/Ordinance%2019-005%202040%20Chapters%2010%20&%2014%20-%20SIGNED.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 19-005 2040 Chapters 10 & 14 - SIGNED
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-19-007-2040-chapters-5-7-11-13
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2019/Ordinance%2019-007%202040%20Chapters%205,7,11%20&%2013.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 19-007 2040 Chapters 5,7,11 & 13
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-19-008-approving-city-of-the-dalles-comp-plan-and-
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2019/Ordinance%2019-008%20Approving%20City%20of%20The%20Dalles%20Comp%20Plan%20and%20LUDO.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 19-008 Approving City of The Dalles Comp Plan and LUDO
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-20-001-2040-chapters-4-5-8
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2020/Ordinance%2020-001%202040%20Chapters%204,5%20&%208.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 20-001 2040 Chapters 4,5 & 8
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-20-004-2040-goal-exceptions-introduction-chapters
+  url: https://www.wascocountyor.gov/Ordinance%2020-004%202040%20Goal%20Exceptions%20&%20Introduction%20Chapters.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 20-004 2040 Goal Exceptions & Introduction Chapters
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-21-001-amended-fee-schedule-complete-signed
+  url: https://www.wascocountyor.gov/document_center/Policies_and_Ordinances/Ordinance%2021-001%20Amended%20Fee%20Schedule%20Complete%20SIGNED.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 21-001 Amended Fee Schedule Complete SIGNED
+  last_checked: '2026-07-31'
+- id: wasco-code-wc-nsa-ludo-ordinance-21-003-signed
+  url: https://www.wascocountyor.gov/document_center/Policies_and_Ordinances/WC%20NSA%20LUDO%20Ordinance%2021-003%20SIGNED.pdf?t=202503260856180
+  family: code
+  format: pdf
+  sha256: ''
+  title: WC NSA LUDO Ordinance 21-003 SIGNED
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-22-003-outdoor-mass-gathering-signed
+  url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2022/Ordinance%2022-003%20Outdoor%20Mass%20Gathering%20SIGNED.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 22-003 Outdoor Mass Gathering SIGNED
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-re-repeal-agriculture-and-forestry-practices-ordin
+  url: https://www.wascocountyor.gov/BOCC%20Archives/2025/Ordinance%20re%20Repeal%20Agriculture%20and%20Forestry%20Practices%20Ordinance.pdf?t=202508291819490
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance re Repeal Agriculture and Forestry Practices Ordinance
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-25-001-ludo-signed
+  url: https://www.wascocountyor.gov/BOCC%20Archives/2025/Ordinance%2025-001_%20LUDO_signed.pdf?t=202508291827040
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 25-001  LUDO signed
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-24-007-code-compliance-penalty-signed-1
+  url: https://www.wascocountyor.gov/BOCC%20Archives/2025/Ordinance%2024-007%20Code%20Compliance%20Penalty%20SIGNED%201.pdf?t=202504211337390
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 24-007 Code Compliance Penalty SIGNED 1
+  last_checked: '2026-07-31'
+- id: wasco-code-wascoc-2
+  url: https://www.wascocountyor.gov/BOCC%20Archives/2025/WASCOC~2.PDF?t=202510221554110
+  family: code
+  format: pdf
+  sha256: ''
+  title: WASCOC~2
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-26-002-nsa-ludo-signed
+  url: https://www.wascocountyor.gov/Planning/NSA%20LUD/Ordinance%2026-002_NSA%20LUDO_signed.pdf?t=202607021512560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 26-002 NSA LUDO signed
+  last_checked: '2026-07-31'
+- id: wasco-code-creating-the-north-central-public-health-district-9-16-2009
+  url: https://www.wascocountyor.gov/Ordinances/Public%20Health/Creating%20the%20North%20Central%20Public%20Health%20District%209-16-2009.pdf?t=202503260855360
+  family: code
+  format: pdf
+  sha256: ''
+  title: Creating the North Central Public Health District 9-16-2009
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-12-014-public-health-uniform-fee-schedule-6-6-2012
+  url: https://www.wascocountyor.gov/Ordinances/Public%20Health/Ordinance%2012-014%20Public%20Health%20Uniform%20Fee%20Schedule%206-6-2012.pdf?t=202503260855550
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 12-014 Public Health Uniform Fee Schedule 6-6-2012
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-13-004-creating-north-central-public-health-distri
+  url: https://www.wascocountyor.gov/Ordinances/Public%20Health/Ordinance%2013-004%20Creating%20North%20Central%20Public%20Health%20District%20as%20an%20Intergovernmental%20Agency%207-3-2013.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 13-004 Creating North Central Public Health District as an Intergovernmental Agency
+    7-3-2013
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-for-enforcement-of-environmental-health-program-6-
+  url: https://www.wascocountyor.gov/Ordinances/Public%20Health/Ordinance%20for%20Enforcement%20of%20Environmental%20Health%20Program%206-27-2001.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance for Enforcement of Environmental Health Program 6-27-2001
+  last_checked: '2026-07-31'
+- id: wasco-code-solid-waste-and-disposal-ordinance-amendment-11-13-1996
+  url: https://www.wascocountyor.gov/Ordinances/Solid%20Waste/Solid%20Waste%20and%20Disposal%20Ordinance%20Amendment%2011-13-1996.pdf?t=202503260856080
+  family: code
+  format: pdf
+  sha256: ''
+  title: Solid Waste and Disposal Ordinance Amendment 11-13-1996
+  last_checked: '2026-07-31'
+- id: wasco-code-solid-waste-collection-and-disposal-ordinance-2-15-1989
+  url: https://www.wascocountyor.gov/Ordinances/Solid%20Waste/Solid%20Waste%20Collection%20and%20Disposal%20Ordinance%20-%202-15-1989.pdf?t=202503260856080
+  family: code
+  format: pdf
+  sha256: ''
+  title: Solid Waste Collection and Disposal Ordinance - 2-15-1989
+  last_checked: '2026-07-31'
+- id: wasco-code-solid-waste-collection-and-disposal-ordinance-amendment-3-24
+  url: https://www.wascocountyor.gov/Ordinances/Solid%20Waste/Solid%20Waste%20Collection%20and%20Disposal%20Ordinance%20Amendment%203-24-1994.pdf?t=202503260856080
+  family: code
+  format: pdf
+  sha256: ''
+  title: Solid Waste Collection and Disposal Ordinance Amendment 3-24-1994
+  last_checked: '2026-07-31'
+- id: wasco-code-solid-waste-franchising-and-nuisance-abatement-4-15-1992
+  url: https://www.wascocountyor.gov/Ordinances/Solid%20Waste/Solid%20Waste%20Franchising%20and%20Nuisance%20Abatement%204-15-1992.pdf?t=202503260856080
+  family: code
+  format: pdf
+  sha256: ''
+  title: Solid Waste Franchising and Nuisance Abatement 4-15-1992
+  last_checked: '2026-07-31'
+- id: wasco-code-waste-collection-and-disposal-ordinance-amendement-6-19-1991
+  url: https://www.wascocountyor.gov/Ordinances/Solid%20Waste/Waste%20Collection%20and%20Disposal%20Ordinance%20Amendement%206-19-1991.pdf?t=202503260856180
+  family: code
+  format: pdf
+  sha256: ''
+  title: Waste Collection and Disposal Ordinance Amendement 6-19-1991
+  last_checked: '2026-07-31'
+- id: wasco-code-amended-uniform-fee-schedule-3-18-2009
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Amended%20Uniform%20Fee%20Schedule%203-18-2009.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amended Uniform Fee Schedule 3-18-2009
+  last_checked: '2026-07-31'
+- id: wasco-code-amended-uniform-fee-schedule-6-9-2004
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Amended%20Uniform%20Fee%20Schedule%206-9-2004.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amended Uniform Fee Schedule 6-9-2004
+  last_checked: '2026-07-31'
+- id: wasco-code-10-003-amending-uniform-fee-schedule-ordinance-5-5-2010
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/10-003%20Amending%20Uniform%20Fee%20Schedule%20Ordinance%205-5-2010.pdf?t=202503260855110
+  family: code
+  format: pdf
+  sha256: ''
+  title: 10-003 Amending Uniform Fee Schedule Ordinance 5-5-2010
+  last_checked: '2026-07-31'
+- id: wasco-code-amended-uniform-fee-schedule-6-12-2002
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Amended%20Uniform%20Fee%20Schedule%206-12-2002.pdf?t=202503260855260
+  family: code
+  format: pdf
+  sha256: ''
+  title: Amended Uniform Fee Schedule 6-12-2002
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-11-002-amended-uniform-fee-schedule-7-6-2011
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Ordinance%2011-002%20Amended%20Uniform%20Fee%20Schedule%207-6-2011.pdf?t=202503260855550
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 11-002 Amended Uniform Fee Schedule 7-6-2011
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-12-013-amended-uniform-fee-schedule-6-6-2012
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Ordinance%2012-013%20Amended%20Uniform%20Fee%20Schedule%206-6-2012.pdf?t=202503260855550
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 12-013 Amended Uniform Fee Schedule 6-6-2012
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-13-003-amending-uniform-fee-schedule-6-26-2013
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Ordinance%2013-003%20Amending%20Uniform%20Fee%20Schedule%206-26-2013.pdf?t=202503260855550
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 13-003 Amending Uniform Fee Schedule 6-26-2013
+  last_checked: '2026-07-31'
+- id: wasco-code-uniform-fee-schedule-10-7-1992
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Uniform%20Fee%20Schedule%2010-7-1992.pdf?t=202503260856120
+  family: code
+  format: pdf
+  sha256: ''
+  title: Uniform Fee Schedule 10-7-1992
+  last_checked: '2026-07-31'
+- id: wasco-code-uniform-fee-schedule-12-20-1989
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Uniform%20Fee%20Schedule%2012-20-1989.pdf?t=202503260856120
+  family: code
+  format: pdf
+  sha256: ''
+  title: Uniform Fee Schedule 12-20-1989
+  last_checked: '2026-07-31'
+- id: wasco-code-uniform-fee-schedule-amendment-9-18-1991
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Uniform%20Fee%20Schedule%20Amendment%20%209-18-1991.pdf?t=202503260856120
+  family: code
+  format: pdf
+  sha256: ''
+  title: Uniform Fee Schedule Amendment  9-18-1991
+  last_checked: '2026-07-31'
+- id: wasco-code-uniform-fee-schedule-amendment-2-8-2006
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Uniform%20Fee%20Schedule%20Amendment%202-8-2006.pdf?t=202503260856120
+  family: code
+  format: pdf
+  sha256: ''
+  title: Uniform Fee Schedule Amendment 2-8-2006
+  last_checked: '2026-07-31'
+- id: wasco-code-uniform-fee-schedule-amendment-10-19-1994
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Uniform%20Fee%20Schedule%20Amendment%2010-19-1994.pdf?t=202503260856120
+  family: code
+  format: pdf
+  sha256: ''
+  title: Uniform Fee Schedule Amendment 10-19-1994
+  last_checked: '2026-07-31'
+- id: wasco-code-uniform-fee-schedule-amendment-11-5-1997
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Uniform%20Fee%20Schedule%20Amendment%2011-5-1997.pdf?t=202503260856120
+  family: code
+  format: pdf
+  sha256: ''
+  title: Uniform Fee Schedule Amendment 11-5-1997
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance16-002feeschedule-8-31-16-000
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Ordinance16-002FeeSchedule-8-31-16_000.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance16-002FeeSchedule-8-31-16 000
+  last_checked: '2026-07-31'
+- id: wasco-code-wasco-county-fee-ordinance-2018
+  url: https://www.wascocountyor.gov/document_center/Policies_and_Ordinances/Wasco%20County%20Fee%20Ordinance%202018.pdf?t=202503260856160
+  family: code
+  format: pdf
+  sha256: ''
+  title: Wasco County Fee Ordinance 2018
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-19-003-fee-schedule-fully-executed
+  url: https://www.wascocountyor.gov/document_center/Policies_and_Ordinances/Ordinance%2019-003%20Fee%20Schedule%20-%20Fully%20Executed.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 19-003 Fee Schedule - Fully Executed
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-14-002-amending-uniform-fee-schedule
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Ordinance%2014-002%20Amending%20Uniform%20Fee%20Schedule.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 14-002 Amending Uniform Fee Schedule
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-17-002-amending-fee-schedule
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Ordinance%2017-002%20Amending%20Fee%20Schedule.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 17-002 Amending Fee Schedule
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-19-006-fee-schedule-signed
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Ordinance%2019-006%20Fee%20Schedule%20-SIGNED.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 19-006 Fee Schedule -SIGNED
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-20-002-amended-fee-schedule-final
+  url: https://www.wascocountyor.gov/Ordinances/Ordinance%2020-002%20Amended%20Fee%20Schedule%20FINAL.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 20-002 Amended Fee Schedule FINAL
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-21-001-amended-fee-schedule-complete
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Ordinance%2021-001%20Amended%20Fee%20Schedule%20Complete.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 21-001 Amended Fee Schedule Complete
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-22-001-amended-fee-schedule-signed
+  url: https://www.wascocountyor.gov/Ordinance%2022-001%20Amended%20Fee%20Schedule%20SIGNED.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 22-001 Amended Fee Schedule SIGNED
+  last_checked: '2026-07-31'
+- id: wasco-code-2023-fee-schedule-rates-incorporated-signed
+  url: https://www.wascocountyor.gov/document_center/Policies_and_Ordinances/2023%20Fee%20Schedule%20Rates%20Incorporated%20SIGNED.pdf?t=202503260855190
+  family: code
+  format: pdf
+  sha256: ''
+  title: 2023 Fee Schedule Rates Incorporated SIGNED
+  last_checked: '2026-07-31'
+- id: wasco-code-ordinance-23-001-amended-fee-schedule-filed
+  url: https://www.wascocountyor.gov/Ordinances/Fee%20Schedules/Ordinance%2023-001%20Amended%20Fee%20Schedule%20FILED.pdf?t=202503260855560
+  family: code
+  format: pdf
+  sha256: ''
+  title: Ordinance 23-001 Amended Fee Schedule FILED
+  last_checked: '2026-07-31'
+- id: wasco-land-use-operations-special-events-regulations
+  url: https://www.wascocountyor.gov/document_center/Public%20Works/Operations%20Special%20Events%20Regulations.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Operations Special Events Regulations
+  last_checked: '2026-07-31'
+- id: wasco-land-use-wolf-depredation-compensation-application
+  url: https://www.wascocountyor.gov/document_center/Board%20County%20Commissioners/Wolf%20Depredation%20Compensation%20Application.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Wolf Depredation Compensation Application
+  last_checked: '2026-07-31'
+- id: wasco-land-use-2025-wasco-county-title-vi-plan-signed
+  url: https://www.wascocountyor.gov/BOCC%20Archives/Current/2025%20Wasco%20County%20Title%20VI%20Plan%20SIGNED.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: 2025 Wasco County Title VI Plan SIGNED
+  last_checked: '2026-07-31'
+- id: wasco-land-use-wasco-county-organizational-chart-2026-version-2
+  url: https://www.wascocountyor.gov/Wasco%20County%20Organizational%20Chart%202026%20Version%202.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Wasco County Organizational Chart 2026 Version 2
+  last_checked: '2026-07-31'

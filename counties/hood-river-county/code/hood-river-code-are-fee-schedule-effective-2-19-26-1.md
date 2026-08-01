@@ -1,0 +1,181 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/hood-river-county
+id: hood-river-code-are-fee-schedule-effective-2-19-26-1
+title: 'ARE Fee Schedule - Effective 2-19-26(1)'
+doc_type: ordinance
+citation: 'ARE Fee Schedule - Effective 2-19-26(1)'
+authority_level: county_ordinance
+issuing_body: 'Hood River County Board of Commissioners'
+source_url: https://hoodriveror.govoffice2.com/vertical/Sites/%7B4BB5BFDA-3709-449E-9B16-B62A0A0DD6E4%7D/uploads/ARE_Fee_Schedule_-_Effective_2-19-26(1).pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 5834d29060555eb234de2da1cc42d50a82e36dd29e84550f4d0305d4e11cb9b6
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [hood-river-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Hood River County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# ARE Fee Schedule - Effective 2-19-26(1) (ARE Fee Schedule - Effective 2-19-26(1))
+
+## At a glance
+
+ARE Fee Schedule - Effective 2-19-26(1) — code of Hood River County. 2 pages.
+
+## Full text
+
+PLCP GIS CATA +
+OLIS Housing Housing
+Admin Total
+Bargain and Sale Deed $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Certificate of Redemption $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Declaration of Deed Restrictions $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Deed Restrictions (incl.  CCR, etc.) $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Easement (Including public utility easement) $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Lot Line Adjustment Deed $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Notice of Intent to Forfeit $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Quitclaim Deed $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Trustee's Deed $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Warranty Deed $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Well Ownership $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Assignment of Contract $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Contract of Sale $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Land Sale Agreement $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Land Sale Contract $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Memorandum of Purchase Agreement $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Appointment of Successor Trustee, Substitution of Trustee $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Assignment of Deed of Trust, Assignment of Mortgage $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Assignment of Rents $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Assumption of Trust Deed $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Deed of Trust, Trust Deed, Mortgage $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Notice of Lis Pendens, Pendency of Action $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Deed of Reconveyance, Full or Partial Reconveyance $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Release of Mortgage $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Satisfaction of Attorney Lien, Construction Lien, or Hospital Lien $5.00 page none none $11.00 $60.00 $4.00 $80.00
+Satisfaction of Mortgage $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+County Lien, Satisfaction of County Lien $5.00 page none none $11.00 none none $16.00
+Attorney Lien, Construction Lien, or Hospital Lien $5.00 page none none $11.00 $60.00 $4.00 $80.00
+Federal Tax Lien, Satisfaction of Federal Tax Lien $5.00 page none none none none none $5.00
+State Tax Lien, Amendment, State Tax Lien Satisfaction $5.00 page none none $11.00 none none $16.00
+Lien Record Abstract $5.00 page none none $11.00 none none $16.00
+Judgment $5.00 page none none $11.00 none none $16.00
+Satisfaction of Judgment $5.00 page none none none none none $5.00
+Completion Notice $5.00 page none none $11.00 $60.00 $4.00 $80.00
+Death Certificate (Short Form certified copy only) $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Memorandum of Lease $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Military Discharge (DD-214) none none none none none $0.00
+Mobile Home Exemption from Title $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Mine Location, Proof of Labor on Mine, Cert of Mine Ownership (not for federal lands) $5.00 page $28.00 $30.00 $11.00 none none $74.00
+Power of Attorney (or revocation) $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Uniform Commercial Code (UCC) $5.00 page $28.00 $30.00 $11.00 $60.00 $4.00 $138.00
+Board of Commissioners Appeal (not recorded) none none none none none $2,785.00
+Plat (minor partition) none none $11.00 $60.00 $4.00 $225.00
+Subdivision (20 or fewer lots) + Assessor & Commissioner Fees none none $11.00 $60.00 $4.00 $275.00
+Subdivision (21 - 99 lots) + Assessor & Commissioner Fees none none $11.00 $60.00 $4.00 $375.00
+Subdivision (100 or more lots) + Assessor & Commissioner Fees none none $11.00 $60.00 $4.00 $675.00
+Document Title
+Fee Breakdown
+Recording
+Deeds
+$2,785 each
+Contracts
+Mortgages
+Lien & Satisfaction of Lien
+Other Documents
+none
+Satisfactions
+$150.00
+$200.00
+$300.00
+$600.00
+Hood River County, Oregon
+Department of Assessment, Records, and Elections
+Fee Schedule Effective 2/19/2026
+Additional Document Title Fee Any document that combines two actions is an extra $5 per title.  Example: Substitution of Trustee &
+Deed of Reconveyance.
+Nonstandard Fee The penalty for failure to meet first page recording requirements is $20.
+Plats & Subdivisions Approvals
+Applicants for plats or subdivisions are responsible to ensure that all necessary fees have been paid
+and approvals granted before recording.  Approval of a subdivision by the county assessor costs $45
+and approval by the Board of Commissioners costs $5.
+Search & Certification for Recorded
+Documents
+The fee to locate a recorded document by document number is $3.75.  The fee to certify a copy as
+being “a true copy of the original” is $3.75. Photocopying is 25 cents a page.  {A certified copy is $7.75}
+Payment must be made before the county will retrieve and copy documents.
+Checks should be made payable to "Hood River County.”
+“Not to exceed” checks, with the amount left blank, are accepted.
+Any document that does not have room to attach our recording certificate will receive a $5 additional
+page fee.
+ Requests to mail copies of documents or other information must be accompanied by a self-addressed
+stamped envelope with adequate postage attached.
+Assessment Roll Data The standard assessment roll dataset is $1,500.   Custom data requests are available for $250 an hour
+with a one hour minimum.
+Appraisal Jacket Information
+The fee for finding an appraisal jacket and copying or scanning the included information is $3.75 + 25
+cents a page.  Request for appraisal jacket information combined with assessment report information
+only incur one $3.75 fee.
+Assessment (ORCATS) Reports
+(Excluding the Sales Report)
+The fee for looking up account information and providing reports from our assessment software is $3.75
+per account + 25 cents a page.  Request for appraisal jacket information combined with assessment
+report information only incur one $3.75 fee.
+Assessor Sales Report The fee for running the assessor sales report is $40 + 1 cent per account.
+Disqualification Calculation The fee to calculate the potential tax liability due to disqualification from special assessment prior to the
+disqualification is $200 per account.
+Personal Property Asset Lists
+(Second Request) The fee for providing a second copy of the asset list is $3.75 per account + 25 cents a page.
+PVAB Filing Fee The county fee to file a Property Value Appeals Board petition with the County Clerk is $40 per petition
+with 1 account per petition.
+Election Ballot Images The fee for ballot images is 25 cents a page + $100 per hour to review and redact images to protect
+ballot secrecy.
+Elections Cast Vote Record The fee for the cast vote record files from an election are $500 per election + $100 per hour to review
+and redact the file to protect ballot secrecy.
+Elections Data/Reports Please contact the county elections office for information about cost and restrictions on using elections
+data.
+Liquor Licenses Application for a new liquor license or change of ownership, location or privilege to an existing license is
+$75.  Application for renewal of an existing license is $35.  This is in addition to OLCC fees.
+Marriage Licenses
+A marriage license costs $50.  Marriage licenses are recorded in the county of issue.  To retrieve, copy
+and certify a marriage license costs $7.75 for the first copy and $4 for each additional copy.
+Amendments are $25.   Waiver of 3-day waiting period is $10 (Fee can be waived at the discretion of
+the Department Management for Active Duty Military or the terminally ill).  Replacement Decorative
+Marriage Certificate costs $5.
+Copying Photocopying is 25 cents a page.  Copies from microfilm are 25 cents a page.  Computer generated
+copies are 25 cents a page.
+Credit Card Convenience Fees
+(Elavon System) There is a 3% convenience fee added to any transaction when paying with a credit card.
+Credit Card Convenience Fees
+(Point & Pay)
+There is a 2.5% convenience fee added to any transaction when paying with a credit card with a $2
+minimum fee.
+E-check Fee (Point & Pay) There is a $2 fee when paying with an E-check.
+Search & Research Fee The fee for searching and research of documents and information not listed already is $100 per hour
+with a one hour minimum.
+Assessment Fees
+Miscellaneous Fees
+Additional Recording Fees & Notes
+*** NOTES ***
+Property Value Appeals Filing Fees
+Election Fees
+License Fees
+Page 2 of 2
+Hood River County, Oregon
+Department of Assessment, Records, and Elections
+Fee Schedule Effective 2/19/2026

@@ -1,0 +1,843 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/grant-county
+id: grant-land-use-2019-land-development-code-chapter-3-pdf
+title: '2019-Land-Development-Code---Chapter-3-PDF'
+doc_type: ordinance
+citation: '2019-Land-Development-Code---Chapter-3-PDF'
+authority_level: county_ordinance
+issuing_body: 'Grant County County Court'
+source_url: https://grantcountyoregon.net/DocumentCenter/View/524/2019-Land-Development-Code---Chapter-3-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e049bfa504ad0809e530f7a93e3e476b8a4d680df186f3f1dbff846e9a9a9c13
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.763
+    - ORS 197.805
+    - ORS 215.427
+    - ORS 215.428
+  related: []
+  supersedes: []
+tags: [grant-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Grant County County Court at the source URL above. Verify at source before relying on it.
+
+# 2019-Land-Development-Code---Chapter-3-PDF (2019-Land-Development-Code---Chapter-3-PDF)
+
+## At a glance
+
+2019-Land-Development-Code---Chapter-3-PDF — land use of Grant County. 29 pages.
+
+## Full text
+
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  1
+CHAPTER 3 - PUBLIC HEARINGS, NOTICE & APPEAL
+ARTICLE 30 - BASIC PROVISIONS
+30.010 - PURPOSE
+The purpose of this Chapter is to prescribe procedures for the conduct of public hearings, public
+notice requirements, and the appeal of decisions reached as a result of the Review Procedures
+described in Chapter 2.
+30.020 - APPLICATIONS
+A. All documentation relied upon by  the applicant in support of a permit or any application
+processed using an Administrative Review Procedure under Article 22, where no pub lic
+hearing is required by this Code, shall be submitted to the Planning Department.
+B. All documents or evidence relied upon by the applicant in s upport of an application
+which requires a public hearing as established by this Code, shall be submitted to the
+Planning Department by 5 p.m. 10 days prior to the date notice is mailed.
+C. If additional documents or evidence is submitted in support of an application before or at
+the public hearing, any party shall be entitled to a continuance of the hearing. The hearing
+continuance shall not be subject to the 150 day time limitation for final local action per
+ORS 215.427.
+D. Unless there is a continuance, if a participant so requests before the conclusion of the
+initial evidentiary hearing, the record shall remain open for at least seven days after the
+hearing. Such an extension shall not be subject to the limitations of the 150 day rule
+found in ORS 215.427.
+E. Review of an application or a public hearing on an applica tion shall not be scheduled or
+noticed until the application is deemed complete by the Planning Director.
+30.030 - STAFF REPORTS
+Staff reports shall be available for public inspection at least seven days prior to the date of the
+public hearing.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  2
+30.040 - GENERAL PROCEDURES
+A. The Planning Director shall develop forms to be used for all applications and the appeal
+of all applications set out in this Chapter.
+B. The burden of proof is on the applicant and/or the appellan t to complete the forms and to
+substantiate the information presented on the application and/or appeal forms.
+C. The Planning Director may reject applications or appeals which are not complete.
+D. In the context of this Chapter, the term "applicant" shall have the following meaning:
+1. When the original Review or Hearing Body hears and decides on the application,
+the applicant is the person(s) submitting the application;
+2. When a decision is appealed, the applicant is the person(s) filing the appeal;
+3. The proponent and opponent shall be considered in the  same context as Section
+30.040(D)(1) & (2) above.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  3
+ARTICLE 31 - PUBLIC HEARINGS
+31.010 - PURPOSE
+This Article shall govern the conduct of all quasi-judicial and legislative land use hearings within
+Grant County, including all urban growth boundary areas which are held or made by the County
+Court or its designates. Such hearings include all proceedings before the Hearings Officer,
+Planning Commission, or the County Court, and may involve comprehensive plan changes, zone
+changes, subdivision or partition platting, conditional use permit, changes in non-conforming
+uses, appeals, and the interpretation and administration of ordinances, codes, laws, and items
+referred by the Planning Director, as well as all other official actions upon application or request.
+31.020 - SPECIAL HEARINGS
+A. The Planning Director may process any question or decision regarding the administration
+of this Code by a special hearing before the Planning Commission or the Hearings
+Officer if the issue: is complex; will have a substantial impact on the area; raises
+questions of a substantive nature. The Presiding Officer of the Hearing Body assigned to
+hear the matter shall be consulted before the matter is scheduled.
+B. The Planning Director may appoint a special fact-finder(s) to investigate any
+circumstance or question concerning this Code. The Planning Director shall consult with
+County Legal Counsel prior to appointing a special fact-finder(s):
+1. The Planning Director shall establish the scope of the investigation and the
+procedures which will be followed during the inquiry;
+2. The special fact-finder(s) shall report to the Planning Director and shall submit
+their results and/or findings as a recommendation to the Director.
+C. Notice of a special hearing shall be given in accordance with Article 32.
+D. The special hearing shall be conducted according to the rules set out in Article 31.
+31.030 - REQUESTS FOR HEARING
+A. A hearing as provided in these rules shall be initiated in one of the following ways:
+1. By motion of the Court or the Planning Commission;
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  4
+2. By an application filed with the Planning Dire ctor in conformance with Code
+requirements and this Article; or
+3. By written directive of the Planning Director.
+B. In cases where the hearing is initiated by a motion of the Court or Planning Commission:
+1. The motion shall set forth the specific issue or issues to be considered in the
+hearing and shall identify, if appropriate, those who will be recognized as parties
+to the proceedings for the purpose of notice as required by Article 32 of this Code.
+The motion may relate to new matters, matters for rehearing, or previous decision
+requiring clarification or explanation;
+2. The decision to issue or not issue a motion shall lie entirely within the discretion
+of the Court or Planning Commission, and the reason or reasons for the action
+need not be specified in the motion;
+3. In all cases, the Court or Planning Commission shall cause notice of the hearing
+to be given in accordance with Article 32 of this Code.
+C. In cases where the hearing is initiated by application, the application shall meet all the
+requirements for the type of application submitted as set out in Chapters 4 and 5.
+D. In cases initiated at the direction of the Planning Director, the Director shall prepare a
+written statement of the matter to be considered. The statement shall include the
+following:
+1. The name of the Hearing Body that will hear the request, as determined at the
+Director's discretion; and
+2. A statement of the factual background or circumstances giving rise to the request,
+the applicable criteria, and the issue or issues requiring resolution.
+E. In the event the request involves specific property or properties, notice of the hearing
+shall be given in accordance with Article 32 of this Code.
+31.040 - NATURE OF HEARING
+A. Land use hearings conducted pursuant to this Article which are quasi-judicial
+administrative determinations shall be conducted according to the rules and procedures
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  5
+governing those actions. All applicants are entitled to a notice of the hearing, to an
+opportunity to be heard, to present and rebut evidence before an impartial Hearing Body,
+to have the proceedings recorded, and to have a decision rendered in accordance with the
+facts on record and the law.
+B. Land use hearings conducted pursuant to this Article which are legislative determinations
+shall be conducted according to the rules and procedures governing those actions. Notice
+of the hearing shall be published and the public shall be invited to testify, to present and
+rebut evidence before an impartial Hearing Body, to have the proceedings recorded, and
+to have a decision rendered.
+C. Hearings held pursuant to this Article are proceedings and the applicant(s) shall appear in
+person or through an attorney or authorized representative.
+31.050 - PRESIDING OFFICER
+A. The Hearing Body shall designate one of its members to preside over the proceedings.
+The Presiding Officer shall have the authority to:
+1. Regulate the course and decorum of the meetings;
+2. Dispose of procedural requests or similar matters;
+3. Rule on offers of proof and relevancy of evidence;
+4. Impose reasonable limitations on the number of witnesses heard and set
+reasonable time limits for oral presentations, cross-examination, and rebuttal
+testimony;
+5. Question any person appearing, and allow other members to question the person;
+6. Waive, at the Presiding Officer's discretion, the application of any Section of this
+Article where the circumstances of the hearing indicate it would be expedient and
+proper to do so, provided the waiver does not act to prejudice or deny any party
+their substantial rights as provided in this Code or otherwise by law;
+7. Take any other actions as authorized by the Court or Commission to appropriately
+conduct the hearing.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  6
+B. All procedural decisions of the Presiding Officer shall be those of the Hearing Body
+unless the Presiding Officer is overruled by a majority vote of the members of the
+Hearing Body.
+31.060 - CONDUCT OF PARTICIPANTS
+Proceedings shall, at all times, be orderly and respectful. No person shall be heard until they state
+their name and address for the record. The Presiding Officer may terminate the hearing when
+necessary or refuse to recognize anyone who:
+A. Is disorderly, abusive, and/or disruptive;
+B. Takes part in or encourages audience demonstrations, including applause, cheering,
+display of signs, or other conduct disruptive of the hearing;
+C. Testifies without first receiving recognition from the Presiding Officer and stating their
+full name and residential address;
+D. Presents irrelevant, immaterial, or repetitious evidence.
+31.070 - BURDEN AND NATURE OF PROOF
+A. The burden of proof shall be on the applicant. The more a proposed use or structure
+changes existing land use patterns, or causes impacts on surrounding lands or the
+community, the greater the burden of proof shall be on the applicant to show the request
+complies with all applicable criteria. The applicant shall address all the criteria listed in
+the staff report as it applies to the request. For purposes of an appeal, the burden of proof
+shall be upon the appellant. The applicant may present rebuttal evidence to the
+information in the staff report, as appropriate, to  meet the requirements of this s ubsection.
+B. The decision of the Hearing Body shall be based upon substantial evidence and be
+supported by the record. The applicant shall address the required criteria and present
+evidence as appropriate to the specific proposal. In addition to the standards and criteria
+for the specific type of application, the Hearing Body shall deem the following criteria
+applicable to its decisions:
+1. Conformance with the Grant County Comprehensive Plan to include its Goals,
+Policies and Implementing Measures;
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  7
+2. Conformance with applicable State Laws, Rules, and Regulations pertaining to
+land use and the specific proposal, including the applicable Oregon
+Administrative Rules in Chapter 660 and guidelines contained in the State Wide
+Planning Goals;
+3. Conformance with the Land Development Code, the Building Code, Health Code,
+and similar requirements as they relate to the specific proposal;
+4. Conformance with general development considerations, such as the preservation
+of the character of the area involved, the properties peculiar suitability for
+particular uses, the conservation of property values, and the current direction of
+building development;
+5. Whether or not a mistake has been made in the original Comprehensive Plan
+designation;
+6. Whether or not a change of circumstances has occurred so that the existing
+condition within the vicinity of the proposal no longer conforms to the intent of
+the Comprehensive Plan, or applicable codes.
+31.080 - DISCLOSURE RULE
+A. Pre-Hearing/Ex parte Contact:
+1. Members of the Hearing Body shall avoid significant ex parte and pre-hearing
+contacts with interested parties to the proposal so that their deliberations and
+recommendations can be based on the evidence presented at the time of the public
+hearing. Any contacts shall be revealed at the commencement of the hearing or
+when identified, and:
+a. If the contacts have not significantly impaired the member's impartiality or
+ability to vote on the matter, the member shall so state and may
+participate; or
+b. If the contacts have significantly impaired the member's impartiality and
+ability to vote on the matter, the member shall so state and shall abstain
+from voting on the matter. The member may be counted for purposes of
+forming a quorum.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  8
+2. Parties to the request may challenge the impartiality of a member of the Hearing
+Body based on ex parte contact. The disqualification of a challenged member is
+discretionary and shall be determined by a majority vote of the unchallenged
+members. A quorum is not required for a vote of disqualification. In no case shall
+any member participate in a vote concerning his or her own disqualification;
+3. Contact with County staff does not constitute ex parte contact.
+B. Conflict of Interest. In addition to the ex parte and pre-hearing contacts, no member of
+the governing body shall participate in any vote on a proposal when:
+1. The member (or spouse, brother, sister, child, parent, father-in-law, mother-in-
+law, or any business in which the member has a financial interest, or any business
+which the member is negotiating for) has a direct or substantial financial interest
+in the proposal;
+2. The member has an interest in property within the area entitled to receive notice
+of the public hearing under Article 32;
+3. The member has a relationship with the applicant or other participants so that the
+member is unable to be reasonably impartial in reaching a decision;
+4. For any other reason specified by State Law;
+5. No other official or employee of the County who has a financial interest or other
+private interest in the proposal shall participate in discussion with or give an
+official opinion on the proposal without first declaring for the record the nature
+and extent of the conflict of interest.
+31.090 - CHALLENGE FOR BIAS, PREJUDICE, OR CONFLICT OF INTEREST
+A. Any applicant or opponent of a proposal may challenge the qualification of any member
+to participate in such hearing and decision because of bias, prejudice or conflict of
+interest.
+B. The challenge may be oral or in writing, and shall state the facts relied upon for the
+challenge.
+C. The challenge must be submitted, to the Planning Commission at the time set for the
+public hearing.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  9
+D. The challenged member(s) shall have an opportunity at the hearing:
+1. To agree with the challenge and withdraw from participation in the Hearing and
+decision; or
+2. To disagree with the challenge and respond orally and in writing.
+E. The challenge and any response shall be incorporated into the record of the hearing.
+31.100 - PARTIES
+A. Person(s) speaking at the hearing shall identify themselves as:
+1. A witness only; or
+2. A party as defined in Section 11.030; or
+3. A County Official.
+B. Person(s) appearing at a hearing either orally or in writing (including those representing
+an organization) shall state at the beginning of their testimony the facts which support
+their status as a party or a witness:
+1. Persons who were not entitled to notice, but who claim party status because they
+will be adversely affected by the decision, shall identify and document the facts
+showing how they will be adversely affected. Persons who fail to do so shall be
+witnesses;
+2. At the close of their statement of facts on how they will be adversely affected, the
+Presiding Officer will promptly rule on whether that person will be treated as a
+party or not;
+3. The ruling of the Presiding Officer on this point shall be the ruling of the Hearing
+Body unless the Hearing Body votes to overruled the Presiding Officer
+C. After party status has been determined, anyone challenging the ruling shall be heard
+immediately and the Presiding Officer (or the Hearing Body) may change its decision on
+party status.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  10
+31.110 - RULES OF EVIDENCE
+A. All evidence offered and not properly objected to may be received unless otherwise
+excluded by the Hearing Body.
+B. All documents or evidence relied upon by the applicant shall be submitted to the Planning
+Director as specified in Section 30.020(B) and shall be made available to the public for
+inspection.
+C. All evidence received by the Hearing Body shall be made a part of the record of the case,
+except for matters stipulated to and matters judicially noticeable. No other factual
+information or evidence shall be considered in the determination of the case.
+Documentary evidence may be received in the form of copies or excerpts, or by
+incorporation by reference (if the document so incorporated is a public record not exempt
+from inspection).
+D. Cross-examination shall be at the discretion of the Hearing Body. Any cross-examination
+question shall be directed to the Presiding Officer who will determine if the cross-
+examination will benefit the Hearing Body. If the Presiding Officer determines the
+question will help in the decision, the Presiding Officer will ask the question to the party
+or witness appropriate to answer. In all cases, cross-examination shall be conducted in a
+non-inflammatory manner. The Presiding Officer may terminate cross-examination if it
+becomes disruptive to the hearing.
+E. Judicial notice may be taken of any ORS, OAR, Federal, State, or local rule or regulation,
+general fact, and/or scientific fact within the experience, technical competence, or
+specialized knowledge of a member of the Hearing Body, staff, or technical witness
+called by either side. Opportunity will be given for rebuttal of these facts.
+F. No decision shall be rendered except upon consideration of the whole record, or portions
+as may be cited by the Hearing Body, and as supported by, and in accordance with,
+reliable, probative, and substantial evidence.
+G. The Hearing Body at its discretion may be represented by the County Legal Counsel.
+31.120 - ORDER OF PROCEDURE
+The Presiding Officer shall conduct the hearing in an orderly fashion, within the guidelines in
+this Section. However, the technical rules of parliamentary procedure shall be avoided so the
+hearing may be conducted in a clear, simple and fair manner.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  11
+A. Quorum. The Presiding Officer shall establish a quorum:
+1. If a member of the Hearing Body must leave prior to the close of the particular
+proposal at hand, losing the quorum, the Presiding Officer shall so state, and shall
+proceed with the hearing for purposes of taking evidence and testimony;
+2. The members shall not vote on the proposal until the absent member has reviewed
+the evidence and testimony taken;
+3. At the close of the hearing, the Hearing Body shall continue the request to a date
+and time certain for deliberation and decision when the absent member can
+participate;
+4. If the request cannot be continued to a date and time certain during the public
+hearing, the Planning Director shall reschedule the request as soon as possible and
+give new notice as set out in Article 32;
+5. If a quorum is not present, a Hearing Body shall continue (reschedule) the agenda
+to a date and time certain.
+B. Commencement. The Presiding Officer shall announce the nature and purpose of the
+hearing, summarize the rules for the conduct of the hearing, identify the name of each
+applicant, and describe the general nature of each proposal. In addition, the Presiding
+Officer shall announce the following:
+1. All testimony and evidence must be directed toward the criteria required by
+Section 31.120(E);
+2. All speakers that fail to raise an issue in a hearing, in person or by letter, with
+sufficient specificity to afford the Hearing Body an opportunity to respond to the
+issue precludes a local or LUBA appeal based on that issue; (RAISE IT OR
+WAIVE IT)
+C. Abstentions. The Presiding Officer shall inquire of the Hearing Body whether any
+member wishes to abstain from participation in the hearing on a specific proposal:
+1. Any member so abstaining shall identify the reasons for the record and shall not
+participate in the discussion of, or vote on the proposal;
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  12
+2. Any member whose participation has been challenged by an allegation of bias,
+prejudice, conflict of interest, or pre-judgment, or who has been subject to
+significant ex parte or pre-hearing contacts with proponents or opponents, may
+make a statement explaining the nature of the conflict or bias for the record, and
+shall announce whether the member will participate in the hearing as set forth in
+Section 31.080.
+D. Objection to Jurisdiction. The Presiding Officer shall inquire of the audience if there are
+any objections to the jurisdiction of the Hearing Body to hear the matter. Objections, if
+any, shall be noted in the record, and the matter shall proceed or terminate at the
+discretion of the Hearing Body.
+E. Criteria.  The Presiding Officer shall request the Planning Director or staff member to
+present the criteria from the Land Development Code, the Comprehensive Plan, the Goals
+and Policies, or other document as required under ORS 197.763(5), under which the
+request shall be reviewed.
+F. Staff Report. The Presiding Officer shall request the Planning Director or a member of
+staff be present at the meeting to report and indicate the action required.
+G. Proponent's Case. The Presiding Officer shall allow the applicant or appellant to
+comment and present evidence in support of the application or appeal as follows:
+1. 10 minutes for the proponent to make introductory comments and present
+evidence;
+2. 5 minutes for each witness called by the proponent;
+3. 5 minutes for each audience member speaking in favor of the proposal;
+4. 5 minutes for cross-examination of planning staff regarding the Staff Report
+subject to the general rules of cross-examination set out in Section 31.110(D); and
+5. The time allocations for the proponent's case may be adjusted at the discretion of
+the Hearing Body to expedite the hearing or promote fairness.
+H. Opponent's Case. The Presiding Officer shall allow opponents to comment and present
+evidence in opposition to the proposal as follows:
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  13
+1. 10 minutes for a representative of the opponents to make introductory comments
+and present evidence;
+2. 5 minutes for each witness or party to speak in opposition to the proposal;
+3. 5 minutes for each audience member speaking in opposition to the proposal;
+4. 5 minutes for cross-examination of planning staff regarding the Staff Report
+subject to the general rules of cross-examination set out in Section 31.110(D); and
+5. The time allocations for the opponent's case may be adjusted at the discretion of
+the Hearing Body to expedite the hearing or promote fairness.
+I. Neutral. Any audience member wishing to ask the Presiding Officer for clarification on
+procedural or substantive issues may be heard at the discretion of the Presiding Officer
+prior to the call for Rebuttal as follows:
+1. The audience member shall give their name and address for the record and
+address their request for clarification to the Presiding Officer;
+2. If acknowledged as a neutral participant, the audience member need not speak in
+favor or against the proposal;
+3. After receiving a response by or through the Presiding Officer, the participant
+may request to establish party or witness status in order to go on record as a
+proponent or opponent; and
+4. If status is approved by the Presiding Officer, the initial neutral status of the
+participant will be altered and recorded as testimony by a proponent or opponent
+or witness thereto within the time frames given in (G) or (H) above.
+J. Rebuttal. The Presiding Officer shall allow the applicant to cross-examine the opponent
+by addressing questions to the Presiding Officer, and otherwise rebut any new matters
+presented by the opponents or their witnesses. The Hearing Body may allow the opponent
+to offer rebuttal to the applicant's rebuttal if:
+1. The applicant has provided new arguments in the rebuttal; and
+2. The opponent has specific responses to the new arguments.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  14
+K. Continuances. The Hearing Body may grant a continuance of the hearing whenever it
+concludes additional time is reasonably required to either evaluate evidence in the record
+or to obtain additional evidence. In addition, continuances shall be granted in the
+following circumstances:
+1. If the applicant places additional documents or evidence in the record, any party
+to the hearing may request the hearing be continued in order to review the
+additional documents or evidence. The period of continuance shall not count
+against the 150 day limit for final action specified in ORS 215.427;
+2. If a continuance has not otherwise been granted, any participant may request the
+record remain open for at least seven days after the hearing. The request must be
+made before the close of the evidentiary hearing and the period of continuance
+shall not count against the 150 day limit for final action specified in ORS
+215.427.
+L. Summation. The Presiding Officer shall allow the proponent and opponent five minutes,
+or other reasonable time limit determined by the Hearing Body, to summarize their
+arguments.
+M. Discussion. At the close of the proponents and the opponents summation, the Planning
+Staff shall review the applicable criteria, the evidence submitted, and the staff
+recommendation. The members of the Hearing Body shall be allowed to openly discuss
+the proposal and further question staff members or any party appearing for or against the
+proposal.
+N. Close of Hearing. The Presiding Officer shall close the public hearing when certain that
+all of the testimony has been heard, and all questions have been answered:
+1. If there should be a need to discuss the proposal with any person who is not a
+member of the Hearing Body, the Presiding Officer shall re-open the public
+hearing for that purpose;
+2. Upon satisfaction of the situation, and an opportunity for comment and/or rebuttal
+by the proponent, the opponent and staff, the Presiding Officer shall again close
+the public hearing.
+31.130 - FINAL ACTION
+A. At the close of the public hearing, the Hearing Body may:
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  15
+1. On a quasi-judicial application:
+a. Approve the application as submitted;
+b. Deny the application;
+c. Approve the application with certain conditions as it deems appropriate; or
+d. Continue the application for further study, a site visit, deliberations, or a
+decision to a date and time certain.
+2. On a legislative matter:
+a. Approve the matter as submitted;
+b. Deny the matter;
+c. Approve the matter with conditions as it deems appropriate; or
+d. Continue the matter for further study, a site visit, deliberations, or a
+decision to a date and time certain.
+B. The decision of the Hearing Body shall be made after the hearing is closed and
+deliberations are completed, and shall be in the form of a motion, duly seconded, and
+approved by a majority of the members. The Presiding Officer may poll each member
+regarding their vote and the reasons for it. All members shall state their vote for the
+record.
+C. A quasi-judicial decision of the Hearing Body shall not become final until written
+findings of fact are prepared and approved by a majority vote of the participating
+members, signed by the Presiding Officer or a designate, and mailed as required by
+Article 32. The findings shall include the criteria, standards for approval, the facts relied
+on in making the decision, and a statement showing how the facts, when applied to the
+criteria, justify the final action.
+D. A legislative matter shall become final upon the second reading of the Ordinance, in a
+public meeting. Notice of the adoption shall be sent to DLCD. Local notice of the
+adoption shall be deemed given by a notice of the date for the second reading by
+publication.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  16
+31.140 - RECORD OF PROCEEDINGS AND DECISIONS
+A. The Presiding Officer of the Hearing Body shall designate a person to record the
+proceedings electronically or stenographically. The proceedings shall not be transcribed
+unless required for appeal, review, or unless otherwise ordered by the Court, Commission
+or Hearings Officer.
+B. All exhibits received in evidence shall be marked or otherwise made readily available and
+identifiable for purposes of review. Evidence or exhibits of unusual size or bulk, which
+cannot be conveniently held, shall not be received. All exhibits received into the record
+shall be retained by the Planning Director on behalf of the Hearing Body, and shall be
+made accessible per ORS Chapter 192 for inspection or copying by interested persons,
+subject to a reasonable copying fee. When all appeal periods have expired, the Planning
+Director is authorized to dispose of the exhibits.
+C. The Planning Director shall hold all sound recordings made of hearings items for the
+following time periods after the date of the last meeting on that item. The tapes shall be
+made available for inspection or copying by interested persons, subject to a reasonable
+charge for copying:
+1. If a meeting is fully transcribed, hold the tapes for 90 days;
+2. If the meeting is summarized in minutes, hold the tapes for one year;
+3. If the meetin g is summarized in formal findi ngs, hold the tapes for five years;
+4. If minutes or findings are not done, the tape cannot be erased and must be kept
+forever.
+D. Findings of fact are to be compiled for each decision taken at a hearing. Responsibility
+for preparation of this document shall be determined by the Presiding Officer of the
+Hearing Body at the close of each hearing on any matter.
+E. Notice of the decision shall be mailed to Parties as defined in Section 11.030, who perfect
+status under Section 31.100(B) who request a copy of the notice in writing at the Hearing.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  17
+ARTICLE 32 - PUBLIC NOTICE
+32.010 - PURPOSE
+The purpose of public notice is to provide an opportunity for affected or interested persons to
+participate in the local land use review and decision process.
+32.020 - NOTICE SCHEDULE
+A. The Planning Director shall determine the type of notice required for each decision, and
+may provide additional notice, in such a way that all persons reasonably determined to be
+potentially affected by a local land use decision receive actual notice.
+B. The notice requirements for the various types of land use, development, and land division
+decisions are set forth in Sections 32.030 through 32.070.
+32.030 - TYPES OF NOTICE
+A. Notices shall be sent by first class mail at least 10 days prior to the date of review for all
+applications processed as a Type II Review Procedure under Article 22, a Planning
+Commission Review under Article 24, a Hearings Officer Review under Article 23, or a
+County Court Review under Article 25 and at least 20 days prior to a hearing, to the
+following persons:
+1. The applicant and subject property owner;
+2. To all property owners, or contract purchasers of record, as shown on the most
+recent property tax assessment roll where such property is located:
+a. Within 100 feet of the property which is the subject of the notice where
+the property is wholly or in part within an urban growth boundary;
+b. Within 250 feet of the property which is the subject of the notice where
+the property is outside an urban growth boundary and not within a farm or
+forest zone;
+c. Within 750 feet of the property which is the subject of the notice where
+the property is within a farm or forest zone;
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  18
+d. To each mailing address for tenants of a mobile home park for an
+application involving property encompassing all or part of a mobile home
+park. The applicant shall provide a mailing list of all tenants of the park;
+e. To a public airport owner for a zone change if:
+1. The zone could permit development of a structure greater than 35
+feet in height, and the property is inside the runway "approach
+surface" as defined by the Oregon Department of Transportation;
+and
+2. The subject property is within 5,000 feet of the side or end of a
+runway.
+f. To all property owners within 500 feet of a parcel when a change of
+comprehensive plan designation and zone change, or a zone change is
+proposed;
+g. To all property owners within 500 feet of a proposed quarry, mining, or
+processing operation;
+h. To the Citizen Advisory Committee, if any are certified in the area the
+application is located;
+i. The Planning Director may increase the notice list for applications which
+may have an impact beyond the limitations in Section 32.030(A)(2)(a)-(h).
+3. Notice of the final action on a land use application or application for division of
+land shall be sent to all participants who have been officially recognized as
+parties.
+B. When required by Section 32.060, notice shall be given by publication in a newspaper of
+general circulation in the area affected, published at least 10 days prior to the date of the
+hearing.
+C. The hearing may be continued when necessary to gather additional information, to visit
+the site, or to respond to new information presented after the 10 day deadline has passed.
+No additional notice is required provided the hearing is continued to a date and time
+certain. If an application is continued without setting a date and time certain, additional
+notice as originally required shall be sent.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  19
+D. Cost of the first notice shall be included in the application fee.
+E. Additional or subsequent notices may require a fee.
+32.040 - CONTENT OF MAILED NOTICE
+A. Notice of the review date for the application or an evidentiary hearing before the Review
+or Hearing Body shall contain the following information, as appropriate:
+1. The date, time, and location of the hearing;
+2. Nature of the application and the proposed use or uses which could be authorized;
+3. A list of the applicable criteria from the Comprehensive Plan, Land Development
+Code, and State Goals by reference only. A statement shall be included indicating
+where the criteria can be viewed or copies purchased;
+4. A description of the subject property, reasonably calculated to give notice of its
+actual location;
+5. A statement that failure to raise an issue in a hearing, in person or by letter, with
+sufficient specificity to afford the Review or Hearing Body an opportunity to
+respond to the issue precludes a local or LUBA appeal based on that issue;
+(RAISE IT OR WAIVE IT)
+6. Name of a local government representative to contact and the telephone number
+where additional information may be obtained;
+7. Statement that a copy of the application, all documents and evidence relied upon
+by the applicant and applicable criteria are available for inspection at no cost and
+copies will be provided at a reasonable cost;
+8. Statement that a copy of the staff report will be available for inspection at no cost
+at least seven days prior to the hearing and copies will be provided at a reasonable
+cost;
+9. A general explanation of the requirements for submission of testimony and the
+procedure for the conduct of hearings.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  20
+B. Where the application is made for a change of zone classification, the Planning Director
+shall have the discretion to include within the notice of hearing, that the Hearing Body
+may consider a more restrictive zone classification than requested in the application.
+32.050 - RECEIPT OF NOTICE
+Failure of any party to receive notice shall not nullify a land use decision.
+32.060 - NOTICE SCHEDULE
+TYPE OF APPLICATION REQUIREMENT
+Adminstrative Permit Mailed
+Temporary Use Permit Mailed
+Variance
+Mailed
+Published
+Conditional Use Permit Mailed
+Subdivision
+Mailed
+Published
+Land Partition Mailed
+Replat
+Mailed
+Published
+Planned Unit Development
+Mailed
+Published
+Change of Zone Designation: Quasi-Judicial
+Mailed
+Published
+Change of Plan Designation: Quasi-Judicial
+Mailed
+Published
+Legislative Amendment:  Comprehensive Plan, Data Base,
+Goals & Policies, & Land Development Code Text
+Mailed
+Published
+Appeal to County Court
+Mailed
+Published
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  21
+32.070 - NOTICE TO PUBLIC AGENCIES
+Information that should be conveyed to reviewers includes:
+A. Project location.
+B. Proposed land use action.
+C. Location of project access points.
+D. Additional information that could be supplied to the reviewer upon request (provided the
+information is available) includes a site plan showing the following:
+1. Distances to neighboring constructed access points, median openings, traffic
+signals, intersections and other transportation features on both sides of the
+property.
+2. Number and direction of lanes to be constructed on the driveway plus striping
+plans.
+3. All planned transportation features (lanes, signals, bikeways, walkways,
+crosswalks etc.).
+4. Trip generation data or appropriate traffic studies.
+5. Parking and internal circulation plans for vehicles and pedestrians.
+6. Plot map showing property lines, right-of-way and ownership abutting properties.
+7. A detailed description of any requested variance.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  22
+ARTICLE 33 - APPEAL OF DECISIONS
+33.010 - PURPOSE
+The purpose of this Article is to establish uniform procedures for the appeal of decisions
+rendered pursuant to this Code.
+33.020 - APPEAL AUTHORITY
+A. Final actions made under the following review procedures may be appealed to the County
+Planning Commission:
+1. Type II Administrative Review - Article 22
+B. Final actions made under the following review procedures may be appealed to the County
+Court:
+1. Hearings Officer - Article 23
+2. Planning Commission - Article 24
+C. Recommendations to another Review or Hearing Body do not constitute a final action
+and cannot be appealed.
+33.030 - APPEALS
+A. An action by the Planning Director may be appealed to the Planning Commission and an
+action by the Hearings Officer, or the Planning Commission may be appealed to the
+County Court by a party filing a statement of appeal with the Planning Director within:
+1. 21 days after written notice of the decision is given or mailed to the individual on
+the matter for the following types of issues:
+a. Zone changes;
+b. Comprehensive Plan amendments;
+c. All legislative matters.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  23
+2. 12 days after written notice of the decision is given or mailed to the individual on
+all other types of land use or land division applications.
+B. Notice is deemed given when:
+1. It is mailed (as established by the date of the official postmark) to the last known
+address of the party;
+2. It is personally given to the party.
+C. A party shall mean a person or organization perfecting status as a party as defined in
+Section 11.030. Party status may be challenged on appeal by any party to the appeal, the
+Planning Director, or the Court. Any challenge of party status shall be settled by the
+Court as its first order of business in the appeal hearing.
+D. Notice for appeal hearings shall be given to all parties perfecting status.
+33.040 - STATEMENT OF APPEAL
+A. A statement of appeal shall be on a form supplied by the Planning Director and shall
+contain the following information:
+1. How the Comprehensive Plan, Grant County Land Development Code, applicable
+State law, or other evidence, was incorrectly interpreted or applied in the decision;
+2. What information in the record of decision was pertinent to the decision, but was
+not considered by the Review Body. This may include the Comprehensive Plan,
+Grant County Land Development Code, applicable State law, or other evidence;
+3. Each ground or reason for appeal must be separately numbered and explained,
+and the appeal hearing will be strictly limited to the items specified in the
+statement of appeal;
+B. The grounds for the local or LUBA appeal must have been raised at the Review or
+Hearing Body level with sufficient specificity to allow the Review or Hearing Body an
+opportunity to respond to the issue.
+C. The statement of appeal shall be accompanied by the following:
+1. The required filing fee;
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  24
+2. In cases involving an appeal on the record, the statement shall also be
+accompanied by a deposit, in an amount established by the Planning Director, to
+cover the estimated cost of producing a typewritten summary of the testimony in
+the hearing;
+3. In the event the deposit is insufficient to cover the cost of the preparation of the
+typewritten summary, the Planning Director shall mail written notice to the
+appellant of the balance due;
+a. Within 10 days from the mailing of the notice of completion of the
+summary, appellant shall tender to the Director the balance due for the
+cost of the summary;
+b. Failure to tender the balance is a jurisdictional defect and the appeal shall
+be dismissed;
+c. Any part of the deposit in excess of the actual cost of the summary shall
+be returned to the appellant.
+D. In the event more than one party files an appeal, the Planning Director shall require equal
+deposits from each appellant. The final cost of the typewritten summary, shall be shared
+equally by all appellants.
+E. Failure to submit a statement of appeal in conformance with the requirements of this
+Section shall be considered a jurisdictional defect, and the appeal shall be dismissed.
+33.050 - EFFECT OF APPEAL
+A. Failure to file an appeal within the specified time or in the manner prescribed in Sections
+33.030 and 33.040 shall nullify the appeal and the decision shall be final.
+B. The effect of an appeal shall be to stay or suspend the appealed action.
+33.060 - STANDING TO APPEAL
+To have standing to appeal a decision rendered under the procedures of this Code, persons or
+parties must have participated, either orally or in writing, in the local review process, and must
+have been granted standing under Section 31.100(B) of this Code b y the Presiding Officer at the
+Public H earing.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  25
+33.070 - ACTION OF THE PLANNING DIRECTOR
+Appeal from actions by Planning Director shall be to the Planning Commission and shall be
+heard de novo by the Commission:
+A. Within 14 days from the filing of the statement of appeal, the Planning Director shall
+prepare a report of the action under appeal, and mail notice to the parties indicating the
+report is available for inspection and/or copying;
+B. The report shall consist of all materials, documents, and exhibits considered by the
+Planning Director in taking the action, including the final action under appeal, if one
+exists;
+C. The Planning Director is authorized to charge a reasonable fee for the preparation and
+copying of the report.
+33.080 - ACTION OF THE HEARINGS OFFICER OR PLANNING COMMISSION
+A. An appeal from an action by the Hearings Officer or Planning Commission shall be to the
+County Court, and shall be confined to the record of the hearing. The record shall
+include:
+1. All materials, pleadings, memoranda, stipulations, motions, exhibits, and
+documents submitted by any party to the action as evidence in the hearing;
+2. All materials submitted by the Planning staff in the hearing;
+3. The tape recording, if one exists, of the hearing;
+4. A typewritten summary of the testimony given at the hearing. The typewritten
+summary shall be prepared by the Planning Director or a designate;
+5. The findings of fact entered by the Hearing Body.
+B. Within 21 days of filing of the statement of appeal, the Planning Director shall cause the
+record to be compiled, including the written summary of testimony, and mail notice to the
+parties indicating the record is available for inspection and/or copying. The Planning
+Director is authorized to charge a reasonable fee for paper or tape copying.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  26
+C. Any party wishing to challenge the composition or completeness of the record, or the
+accuracy of the typewritten summary of the testimony, shall file written objections within
+14 days from the date of the mailing of the notice of completion of record. In addition;
+1. Objections to the accuracy of the summary of testimony shall be accompanied by
+a verbatim transcript for the portion(s) of the hearing which supports each
+challenged point;
+2. Controversy concerning any of these matters shall be settled by the Court as its
+second order of business at the appeal hearing, after questions about party status,
+if any exist, are settled.
+D. The parties to an appeal from any action by the Hearings Officer or Planning
+Commission shall be allowed to present oral or written arguments concerning any ground
+or reason for appeal specified in the statement of appeal, but no new matters or evidence
+shall be submitted unless permitted pursuant to Section 33.080(E).
+E. A party to an appeal from any action by the Hearings Officer or Planning Commission
+may request permission to submit evidence not contained in the record for an appeal
+when all of the following criteria are met:
+1. The evidence was not reasonably available to the party at the time of the original
+hearing, and the facts supporting this conclusion are documented by affidavit(s);
+2. The evidence is substantially relevant to issues raised in the appeal. Evidence is
+substantially relevant when, in the opinion of the County Court, it has special
+value to prove relevant criteria, so that consideration of the new evidence is likely
+to alter deliberations;
+3. The evidence to be introduced was made available to all parties to the appeal at
+least 20 days prior to the hearing, and there is no significant prejudice or
+unfairness to another party. In addition:
+a. If it becomes available within 10 days of the hearing, a continuance may
+be requested by the proponent in order to meet the 20 day rule;
+b. The  County  Court may grant a continuance so the new evidence will meet
+the 20 day rule provided the continuance serves the public interest; and
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  27
+c. If the applicant is the party requesting the privilege of introducing
+evidence, a written waiver of the 150 day time limit specified in ORS
+215.428 must be submitted to the County Court.
+33.090 - ACTION OF THE COUNTY COURT
+A. In addition to appeals created by other provisions in this Chapter, the County Court may
+order its own review of a final action by a Review or Hearing Body. Review under these
+circumstances shall be governed by the provisions of this Article including the creation of
+the record as provided in this Article. A summary of testimony as required by Section
+33.040(C) shall be prepared at the County's expense.
+B. The County Court may affirm, reverse, or amend the decision under appeal, and may
+impose additional or different conditions as may be necessary to carry out its decision.
+The Court may also return the proceeding to the initial Review or Hearing Body for
+additional consideration or action. The return shall contain specific instructions to the
+initial Review or Hearing Body regarding the nature and scope of its further
+consideration or action.
+C. The County Court shall make written findings and conclusions as part of its written
+decision. This document will constitute the final action of the County Court for appeal
+and other purposes.
+D. The County Court may cause supplemental or replacement findings and conclusions,
+based on the record for the decision, to be prepared and signed after the original findings
+and conclusions have been executed. When supplemental or replacement findings and
+conclusions are prepared and signed, this document shall constitute the final action of the
+County Court for appeal and other purposes in lieu of the original findings and
+conclusions.
+E. The  County  Court may open the record for clarification on a part of the record.
+F. The County Court by its own motion only, may choose to hear any appeal de novo. The
+decision to do so must be made within 10 days of receiving a statement of appeal.
+G. An appeal of a decision of the County Court to the Land Use Board of Appeals (LUBA),
+shall follow the procedures outlined in ORS 197.805 to 197.860.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  28
+33.100 - CONSOLIDATION OF APPEALS
+In the event the final action for a single land use or land division is subject to concurrent appeals,
+the County Court is authorized to consolidate the appeals into a single proceeding. In this event,
+the Presiding Officer may modify the rules of procedure contained in this Chapter, or implement
+new rules, which facilitate the merger of the appeal applications and the taking of evidence,
+testimony and argument. The decision of the County Court or Appeal Board shall be documented
+in a single set of findings of fact which shall act as the formal decision and final action on all of
+the appeals for the purpose of further appeals.
+33.110 - REMANDS - LAND USE BOARD OF APPEAL
+In all cases, a copy of the opinion on remand shall be filed with the Planning Director to be
+included in the permanent file.
+33.120 - PARTICIPATION IN LAND USE BOARD OF APPEAL (LUBA)
+The County shall not generally participate in appeals filed with the LUBA. The response to an
+appeal shall be left to the party whose interests are, or may be, affected by a modification,
+reversal, or remand upon appeal. Only in those cases that represent a significant issue to the
+entire County, or establish a precedent that may be detrimental to County interests, will the
+County Court and the County Legal Counsel consider participating in a response.
+33.130 - REHEARING
+Remanded land use applications shall be subject to the following rules regarding rehearing:
+A. Only a party of record in the appeal to the LUBA appeal may initiate an application for
+rehearing before the County Court. The County Court reserves the right to initiate a
+rehearing by its own motion.
+B. Participation in the rehearing shall be strictly limited to those persons or organizations
+who were parties to the LUBA appeal. Therefore:
+1. Notice of the rehearing required by Article 32 shall be given only to persons who
+were parties to the LUBA appeal; and
+2. Only parties to the LUBA appeal may present evidence, witnesses, testimony or
+arguments in the rehearing. Grant County shall be considered a participant in the
+rehearing even if it did not directly appear in the LUBA appeal.
+CHAPTER 3 –  PUBLIC HEARINGS, NOTICE & APPEAL Page  3 -  29
+C. The rehearing shall be initiated by an appeal application, subject to the normal appeal fee,
+and on a form prescribed by the Planning Director. The appeal must be filed with the
+Planning Director within 14 days from the date the decision is mailed to the participants
+by LUBA.
+D. The rehearing shall be strictly limited to the ground or grounds specified in the LUBA
+decision for remand, and no evidence, testimony, or arguments shall be received on other
+issues, even if such issues were matters within the scope of the Court's original action.
+E. The rules otherwise governing applications, hearings, and appeals contained in Articles
+30, 31, 32 and 33 shall control rehearings unless modified by the provisions of this
+Section.
+F. The party prevailing at the rehearing shall prepare the findings of fact necessary to
+support the decision upon rehearing.

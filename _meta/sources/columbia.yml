@@ -1,0 +1,45 @@
+group: columbia
+title: Columbia County sources
+county: columbia-county
+crawl:
+  decision: proceed
+  checked: '2026-08-01'
+  basis: No AI-agent directive; media tree open. Nothing to decide.
+  hosts:
+  - host: www.columbiacountyor.gov
+    robots_url: https://www.columbiacountyor.gov/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: No named AI agents.
+last_checked: '2026-07-31'
+upstream_signal: No feed and no codification, so there is no consolidated text whose hash would change
+  — freshness here means new ordinance PDFs appearing in the index.
+sources:
+- id: columbia-orders-2019-6-matter-of-adopting-the-columbia-county-livestock-at-l
+  url: https://www.columbiacountyor.gov/media/Board/BOC/Ordinances/Book%202/Livestock/2019-6%20%20Matter%20of%20Adopting%20the%20Columbia%20County%20Livestock%20at%20Large%20Nuisance%20Odinance.pdf
+  family: orders
+  format: pdf
+  sha256: ''
+  title: 2019-6  Matter of Adopting the Columbia County Livestock at Large Nuisance Odinance
+  last_checked: '2026-07-31'
+- id: columbia-orders-2019-5-matter-of-adopting-the-columbia-county-parking-and-towing-ordinance
+  url: https://www.columbiacountyor.gov/media/Board/BOC/Ordinances/Book%203/Parking%20and%20Towing/2019-5%20Matter%20of%20Adopting%20the%20Columbia%20County%20Parking%20and%20Towing%20Ordinance.pdf
+  family: orders
+  format: pdf
+  sha256: ''
+  title: 2019-5 Matter of Adopting the Columbia County Parking and Towing Ordinance
+  last_checked: '2026-07-31'
+- id: columbia-orders-ordinances-2019-5-matter-of-adopting-the-columbia-county-parking-and-towing-ordinance
+  url: https://www.columbiacountyor.gov/media/Board/Ordinances/2019-5%20Matter%20of%20Adopting%20the%20Columbia%20County%20Parking%20and%20Towing%20Ordinance.pdf
+  family: orders
+  format: pdf
+  sha256: ''
+  title: 2019-5 Matter of Adopting the Columbia County Parking and Towing Ordinance
+  last_checked: '2026-07-31'
+- id: columbia-land-use-columbia-county-fy26-fee-increase-eff-9-1-25
+  url: https://www.columbiacountyor.gov/media/Land_Development/Permit%20Applications/2025-2026%20Permit%20Applications/Columbia%20County%20FY26%20Fee%20Increase%20EFF%209.1.25.pdf
+  family: land-use
+  format: pdf
+  sha256: ''
+  title: Columbia County FY26 Fee Increase EFF 9.1.25
+  last_checked: '2026-07-31'

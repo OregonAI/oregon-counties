@@ -1,0 +1,119 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lincoln-county
+id: lincoln-land-use-state-transportation-improvement-program-stip-project-descri
+title: 'State-Transportation-Improvement-Program-STIP-Project-Descriptions-PDF'
+doc_type: ordinance
+citation: 'State-Transportation-Improvement-Program-STIP-Project-Descriptions-PDF'
+authority_level: county_ordinance
+issuing_body: 'Lincoln County Board of Commissioners'
+source_url: https://www.co.lincoln.or.us/DocumentCenter/View/1169/State-Transportation-Improvement-Program-STIP-Project-Descriptions-PDF
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: f1671e2d55c43e8798094aec0096af4afa6bd88b34b60710cce691cb5baf1f9f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [lincoln-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lincoln County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# State-Transportation-Improvement-Program-STIP-Project-Descriptions-PDF (State-Transportation-Improvement-Program-STIP-Project-Descriptions-PDF)
+
+## At a glance
+
+State-Transportation-Improvement-Program-STIP-Project-Descriptions-PDF — land use of Lincoln County. 2 pages.
+
+## Full text
+
+Bridge Replacement Projects
+Canal Creek (Alder Springs Road) Bridge Replacement, Bridge Number: 41C28, Key Number:
+11972
+This project consists of replacing a 90-ft long RR flat car with posts welded to the side for
+guardrail.  The bridge is functionally obsolete because the RR flat car is only 8.5-ft wide.
+The replacement will be a single span one-lane wide bridge on the same alignment.  There
+may be less than 1 acre of right-of-way acquired at either end of the bridge to accommodate
+the widening, guardrails, new ditches, and/or bioswales.  This project will increase safety
+by removing weight restrictions, widening the bridge deck, and improving approaches.
+Construction is scheduled to begin in 2006.
+OR 34: Lint Creek Bridge Replacement, Bridge Number: 04166, Key Number: 14002
+This project proposes to repair or replace the Lint Creek Bridge on OR 34 just east of
+Waldport (MP 0.55 to 0.61).  The existing bridge has suffered from severe corrosion,
+cracking of the girders, and deep delamination in areas of high sheer stress.  Approximately
+6 right-of-way files have been identified as being impacted.  Replacement or repair of this
+structure would not impact future traffic volumes.  Construction is scheduled to begin in
+2009.
+US 101: Millport Slough Bridge Replacement, Bridge Number: 06579, Key Number: 12802
+An inspection in June 2002 found the US 101 bridge over Millport Slough to be structurally
+deficient with a poor substructure, inadequate rails and transitions, and an "intolerable"
+deck geometry.  This project will replace the bridge with a new bridge of the same size in
+the same location (MP 120.82 to 120.84).  No additional right-of-way acquisition is planned
+for the project.  No additional lanes, signalization, channelization, or speed zone changes are
+planned.  Construction is scheduled to begin in 2007.
+US 101: Spencer Creek Bridge Replacement, Key Number: 10058
+The existing structure was constructed in 1946 and deteriorated at a much faster rate than
+anticipated.  An emergency detour structure was constructed in 1999 to carry traffic.  This
+temporary structure has a design life of 5-8 years.  In addition, southern approaches to the
+structure are threatened by surf erosion of the cliffs adjacent to the highway. The project will
+replace the existing failed structure (MP 133.65 to 134.34) and protect the new structure
+approaches from erosion. This is a joint project with the Corps of Engineers shoreline
+erosion portion.  Construction is scheduled to begin in 2006.
+Pavement Preservation Projects
+US 20: Elk City Road – Eddyville, Key Number: 12808
+This project proposes to repave an 8.40 mile stretch of US 20 in Lincoln County.  The project
+extends from about a half-mile east of Elk City Road (MP 16.10) to just past Deer Creek
+Road east of Eddyville (MP 24.50).  A 50 millimeter asphalt overlay is planned for the length
+of the project.  No expansion of the currently paved road surface is anticipated as part of the
+project.  No additional right-of-way is expected to be acquired for this project.  Traffic
+volumes are not expected to change as a result of this project.  No additional lanes,
+signalization, channelization, or speed zone changes are planned.
+US 20: US 101 – John Moore Road (Newport) Pavement Preservation, Key Number: 12810
+This project proposes to repave a 0.58 mile section of Highway 20 (East Olive Street) from
+US 101 to John Moore Road in Newport (MP 0.00 to 0.63).  A 50 millimeter asphalt inlay is
+planned for the length of the project.  No curb or sidewalk work is anticipated.  No
+additional right-of-way is planned for this project.  The repaving will be conducted within
+the existing highway right-of-way.  Traffic volumes are not expected to change as a result of
+this project.  No additional lanes, signalization, channelization, or speed zone changes are
+planned. The project is located entirely within the City of Newport UGB.
+US 101: Coronado Shores – Boiler Bay Wayside Pavement Preservation, Key Number: 12806
+This project proposes to repave a 3.21 mile stretch of US 101 from milepost 123.20 to
+milepost 126.41.  The project begins in the Coronado Shores area south of Siletz Bay, about
+where Lancer Street and Seagrove Drive intersect US 101.  The project ends at the border
+between Boiler Bay State Wayside and the Depoe Bay city limits.  A 50 millimeter asphalt
+inlay is planned for the length of the project.  No expansion of the currently paved surface is
+planned.  No additional right-of-way is planned for this project. Traffic volumes are not
+expected to change as a result of this project.  No additional lanes, signalization,
+channelization, or speed zone changes are planned.
+US 101: Wm Keady Wayside-Cooks Chasm Pavement Preservation, Key Number: 13569
+This project proposes to repave 10.35 miles of a 10.85-mile stretch of US 101 in Lincoln
+County, from the William P. Keady State Wayside in Waldport (MP 156.55) south to the
+Cooks Chasm Bridge (MP 167.40) near the Lane County line.  From MP 156.55 to 156.80 a 50
+millimeter asphalt inlay with a 50 millimeter asphalt overlay is proposed.  From MP 156.80
+to 160.05 a 75 millimeter asphalt overlay is proposed, with the exception of a half mile no-
+work area between MP 159.10 and 159.60, where a previous project added a left-turn lane
+into Beachside State Park.  Approximately 50 square meters of surfacing stabilization is
+proposed between MP 156.55 and 160.05.  From the Big Creek Bridge (at MP  60.05) south to
+the end of the project a 50 millimeter asphalt inlay with a 50 millimeter asphalt overlay is
+planned, except for a three-quarter mile stretch through the City of Yachats (MP 164.00 to
+165.75) where only a 50 millimeter asphalt inlay is planned.  Guardrails along the project
+route will also be upgraded and replaced.  No expansion of the currently paved road
+surface is planned.  This project is a combination of two previously approved projects, Key
+#12811 (Alsea Bay Bridge to Big Creek, approved by FHWA 2/13/04) and Key #12812 (Big
+Creek Bridge to Cooks Chasm Bridge, approved 2/18/04).  No additional right-of-way is
+expected to be acquired for this project. Traffic volumes are not expected to change as a
+result of this project.  No additional lanes, signalization, channelization, or speed zone
+changes are planned.  Construction is scheduled to begin in 2006.

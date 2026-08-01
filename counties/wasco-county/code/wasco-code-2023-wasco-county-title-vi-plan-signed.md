@@ -1,0 +1,357 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-2023-wasco-county-title-vi-plan-signed
+title: '2023 Wasco County Title VI Plan SIGNED'
+doc_type: ordinance
+citation: '2023 Wasco County Title VI Plan SIGNED'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/document_center/Policies_and_Ordinances/2023%20Wasco%20County%20Title%20VI%20Plan%20SIGNED.pdf?t=202506101721370
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 92bdcf6d3ed321b2d8a6d57455d292a80b08cd229c0599d2e1f32abda942b6f2
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [wasco-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Wasco County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 2023 Wasco County Title VI Plan SIGNED (2023 Wasco County Title VI Plan SIGNED)
+
+## At a glance
+
+2023 Wasco County Title VI Plan SIGNED — code of Wasco County. 7 pages.
+
+## Full text
+
+INTRODUCTION
+WASCO COUNTY TITLE VI PLAN
+Adopted March 15, 2023
+
+Title VI of the Civil Rights Act of 1964 prohibits discrimination on the basis of race, color and national
+origin in programs and activities receiving Federal financial assistance.
+
+Wasco County passes through responsibility of transportation services to Mid -Columbia Economic
+Development District (MCEDD) and is committed to ensuring that no person is excluded from
+participation in, or denied the benefits of its programs and services on the basis of race, color, sex, or
+national origin, as protected by Title VI in Federal Transit Administration (FTA) Circular 4702.1.B
+TITLE VI COMPLAINT PROCEDURES
+In order to comply with 49 CFR Section 21.9(b), Wasco County has developed procedures for investigating
+and tracking Title VI complaints filed against them and make their procedures for filing a complaint
+available to members of the public upon request. Complainants, or their representative, may file a written
+complaint with the Title VI Complaint Coordinator at any time within one hundred and eighty (180) days
+from the date of the alleged discriminatory act.
+
+If you believe you have been subjected to discrimination under Title VI, you may file a complaint.
+HOW TO FILE A TITLE VI COMPLAINT
+You may file a signed, written complaint up to one hundred and eighty (180) days from the date of alleged
+discrimination by delivering, mailing or faxing your complaint to Wasco County. The complaint should
+include the following information:
+
+ Your name, mailing address, and how to contact you (i.e., telephone number, email address, etc.)
+ Name, address, phone number and relationship of Representative to Complainant, if applicable
+ How, when, where and why you believe you were discriminated against. Include the  location,
+names and contact information of any witnesses.
+
+ Other information that you deem significant
+
+The complaint may also be filed in writing with Wasco County at the following address:
+
+Wasco County
+ATTN: Title VI Complaint Coordinator
+511 Washington St, Suite 101
+The Dalles, OR 97058
+WASCO COUNTY Page 2 of 8
+
+By phone: 541-506-2520
+By fax: 541-296-2551
+NOTE: Wasco County encourages all complainants to certify all mail that is sent through the U.S. Postal
+Service and/or ensure that all written correspondence can be tracked easily. For complaints originally
+submitted by facsimile, an original, signed copy of the complaint must be mailed to the Title VI
+Coordinator as soon as possible, but no later than 180 days from the alleged date of discrimination.
+
+What happens to your complaint after it is submitted to Wasco County?
+All complaints alleging discrimination based on race, color or national origin in a service or benefit
+provided by Wasco County will be directly addressed by Wasco County. Wasco County provides for staff
+to take complaints and forward them to the Title VI Complaint Coordinator (Office Administrator) who
+categorizes, tracks them, and develops responses and forwards them to the Wasco County Administrator
+for approval. The Administrator will investigate the complaint and make a determination. Formal
+investigation of the complaint will be confidential and will include, but is not limited to, details of the
+specific incident, frequency and dates of occurrences and names of any witnesses. Customer will be
+notified of resolution.
+
+Wasco County shall also provide appropriate assistance to complainants, including those persons with
+disabilities, or who are limited in their ability to communicate in English. Additionally, Wasco County shall
+make every effort to address all complaints in an expeditious and thorough mann er.
+
+In instances where additional information is needed for investigation of the complaint, Wasco County will
+contact the complainant in writing. Please note that in responding to any requests for additional
+information, a complainant’s failure to provide the requested information within thirty (30) calendar days
+may result in the administrative closure of the complaint.
+
+Once sufficient information for investigating the complaint is received by Wasco County, a written
+response will be drafted, subject to review by the County’s attorney. If appropriate, Wasco County’s
+attorney may administratively close the complaint. In this case, Wasco County will notify the complainant
+of the action as soon as possible.
+
+How you will be notified of the outcome of your complaint:
+Wasco County will send a final written response to the complainant and advise the complainant of his or
+her right to 1) appeal within seven (7) calendar days of receipt of the final written decision from Wasco
+County, and/or 2) file a complaint externally with the U.S. Department of Transportation and/or the
+Federal Transit Administration. Every effort will be made to respond to Title VI complaints within 60
+working days of receipt of such complaints, if not sooner.
+
+A written appeal requesting review of a determination of unlawful denial of access or accommodation to
+services must include the customer’s name, address, and telephone contact number. A statement of
+reason(s) why the applicant believes the denial of accommodation request or access to s ervices was
+inappropriate is recommended. The Wasco County Board of Commissioners will set a mutually agreed -
+upon time and place for the review process with the applicant and/or representatives within 30 days of
+the request. The applicant may submit documents or other information to be included with the record
+WASCO COUNTY Page 3 of 8
+
+and considered in the review process. Anyone needing special accommodations may contact Wasco
+County at 541-296-2520 for assistance.
+
+The right of the appellant to a prompt and equitable resolution of the complaint must not be impaired by
+the appellant’s pursuit of other remedies, such as filing of a complaint with the Department of Justice or
+other appropriate federal agency or the filing of a suit in state or federal court. Use of this procedure is
+not a prerequisite to the pursuit of other remedies.
+
+In addition to the complaint process described above, a complainant may file a Title VI complaint or
+lawsuit with the following offices:
+Federal Transit Administration Office of Civil Rights
+Attention: Title VI Program Coordinator
+East Building, 5th Floor – TCR
+1200 New Jersey Ave., SE
+Washington, DC 20590
+
+Oregon Department of Transportation
+Office of Civil Rights, MS 23
+3930 Fairview Industrial Drive SE
+Salem, OR 97302
+
+U.S. Department of Justice
+Civil Rights Division
+Coordination and Review
+Section – NWB
+950 Pennsylvania Ave, NW
+Washington, DC 20530
+
+Disposition of Complaints and Resolution
+Sustained Complaints- If the complaint is substantiated and a probable cause of a discriminatory practice
+based on race, color, or national origin is found to exist, Wasco County shall endeavor to eliminate said
+practice by means of a Remedial Action Plan. The Remedial Plan shall include: a list of all corrective
+actions accepted by the agency; description of how the corrective action will be implemented; and a
+written assurance that the agency will implement the accepted corrective action in the manner discussed
+in the plan.
+
+Unsustained Complaints- If there is insufficient evidence to either prove or disprove the allegation(s) both
+parties to the complaint will be informed of the reason(s) for this disposition.
+
+Unfounded Complaint- If it is determined that an act reported pursuant to this policy/procedure did not
+in fact occur, a finding of unfounded shall be made.
+WASCO COUNTY Page 4 of 8
+
+Exonerated Complaints- If it is determined that an act reported pursuant to this policy/procedure did in fact occur, but
+was lawful and proper within the guidelines established herein, a finding of exonerated shall be made.
+
+Recording Title VI Investigations, Complaints and Lawsuits
+In order to comply with 49 CFR Section 21.9(b), Wasco County prepares and maintains a list of any active i nvestigations
+conducted by entities other than the FTA, lawsuits, or complaints naming Wasco County that allege discrimination on the
+basis of race, color, or national origin. This list includes the date of the investigation, lawsuit, or complaint was file d; a
+summary of the allegation(s); the status of the investigation, lawsuit, or complaint; and actions taken by the recipient in
+response to the investigation, lawsuit, or complaint. The Wasco County Title VI Complaint Coordinator (Office
+Administrator) maintains these files until closed. The Wasco County Title VI Complaint Coordinator will also maintain a
+log of all complaints received. Records will be stored according to state and federal record retention requirements.
+Tracked information will be reported to ODOT as the grantor of the funds as required.
+
+Additional Information Upon Request
+At the discretion of FTA, information other than that required by the referenced circular may be requested, in
+writing, from Wasco County in order to investigate complaints of discrimination or to resolve concerns about
+possible noncompliance with Title VI requirements. The Wasco County Title VI Complaint Coordinator is available to
+provide additional information as needed and to respond to any inquiry.
+
+BOARD COMPOSITION AND MINORITY REPRESENTATION ON NON-ELECTED BODIES
+Wasco County is overseen by a Board of Commissioners, and the table depicting the membership of this Board as of
+March 2023 is below:
+
+Not Hispanic or Latino
+
+Hispanic or Latino
+Population (2020 Census) 21,653 5017
+Wasco County Board of Commissioners
+3
+
+Of Those Who Are Not Hispanic or Latino
+
+White Alone
+Black or
+African
+American
+Alone
+
+Asian Alone
+
+Native
+Hawaiian
+Alone
+American
+Indian or
+Alaskan
+Native
+Alone
+Some Other
+Race Alone
+Two or
+more races
+Population (2020
+Census) 18,703 115 248 185 983 110 1309
+Wasco County
+Board of
+Commissioners
+
+WASCO COUNTY Page 5 of 8
+
+For the Board of Commissioners and Committees advising the Wasco County Board and transportation operations,
+Wasco County encourages participation of minorities on the Board and committees in the following manners:
+
+ Posting information about the ability to participate on our website, through our social  media platforms and
+through our newsletter.
+
+ Sending press releases to the local newspapers in our regional service area.
+ Conducting direct outreach to organizations and agencies representing the interests of minority populations
+and/or providing direct services to minority individuals.
+
+RECORD OF TITLE VI OR OTHER CIVIL RIGHTS INVESTIGATIONS, COMPLAINTS OR LAWSUITS
+To date, there have been no Title VI investigations, complaints or lawsuits.
+
+LIMITED ENGLISH PROFICIENCY PLAN
+Wasco County is committed to breaking down language barriers by implementing consistent standards of language
+assistance across its service area. Wasco County leverages the MCEDD updated Limited English Proficiency Plan as part of
+our Title VI policy, which can be found on their website.
+
+NOTIFYING BENEFICIARIES OF THEIR RIGHTS UNDER TITLE VI
+Our website includes our Title VI policy and complaint form. The website also states the Anti- Discrimination Statement
+as listed in this plan. Wasco County’s Title VI policy and complaint form are also posted at Wasco County’s office (located
+at 511 Washington St, Suite 101, The Dalles, OR). The Title VI Compliance Statement is included in rider guides and bus
+schedules as appropriate. Finally, the Title VI Compliance Statement is posted inside vehicles used for public
+transportation. Individuals who believe they have been discriminated against may request a complaint form from the
+Office Administrator at Wasco County’s office.
+
+ANALYSIS OF CONSTRUCTION PROJECTS
+Over the last three years Wasco County has not completed a construction project requiring an
+environmental assessment (EA) or environmental impact statement (EIS).
+
+INCLUSIVE PUBLIC PARTICIPATION
+Community Outreach is a requirement of Title VI. Wasco County and its sub -recipients shall seek out and consider the
+viewpoints of minority and low-income populations in the course of conducting public outreach. Specific information
+about MCEDD’s programs can be found in their Title VI policy.
+
+ANTI-DISCRIMINATION STATEMENT/TITLE VI POLICY
+Anti-Discrimination Statement: Wasco County is an affirmative-action, equal-opportunity employer. Public
+Transportation services are available to all without regard to race, color, national origin, gender, gender identity,
+religion, age, height, weight, disability, political beliefs, sexual orientation, marital status, family status or veteran st atus.
+
+Declaración de Anti-discriminación: Wasco County y son empleadores de acción afirmativa e igualdad de oportunidades.
+Servicios de transporte públicos son disponibles a todos sin importar raza, color, origen nacional, genero, identidad de
+genero, religión, edad, altura, peso, incapacidad, creencias políticas, orientación sexual, estado de matrimonio , estado
+familiar o si es veterano de guerra.
+WASCO COUNTY Page 6 of 8
+
+Wasco County’s Title VI policy and complaint form are posted on the Wasco County website
+(http://co.wasco.or.us) and at Wasco County’s offices (located at 511 Washington Street, The Dalles, OR).
+Individuals who believe they have been discriminated against may request a complaint form from the
+Office Administrator at Wasco County’s office.
+
+Ref: FTA Circular 4702.1B Title VI and Title VI Dependent Guidelines for Federal Transit Administration
+Recipients
+
+Purpose
+
+The purpose of this policy is to establish guidelines to effectively monitor and ensure that Wasco County
+is in compliance with all FTA Title VI requirements and regulations in order to carry out the provisions of
+the Department of Transportation’s (DOT) Title VI Regulations at 49 CFR Part 21.
+
+Authorities
+
+Title VI of the Civil Rights Act of 1964, as amended, provides that no per son in the United States shall, on
+the grounds of race, color, national origin, or sex, be excluded from participation in, be denied the
+benefits of, or be otherwise subjected to discrimination under any program or activity receiving federal
+financial assistance.
+
+Policy Statement
+
+Wasco County assures that no person shall, on the grounds of race, color, national origin, or sex, as
+provided by Title VI of the Civil Rights Act of 1964, as amended, be excluded from participation in, be
+denied the benefits of, or be otherwise subjected to discrimination under any program or activity. Wasco
+County is committed to creating and maintaining programs and services that are free of all forms of
+discrimination.
+
+Responsibilities
+
+All employees of Wasco County shall follow the intent of these guidelines in a manner that reflects the
+organization’s policy. Employees receiving information regarding violations of this order shall determine if
+there is any basis for the allegation and shall proceed with resolution as stated in the sections Employee
+Responsibility and/or Investigation of Complaints and Appeal Process.
+
+Certification and Assurance
+
+To ensure accordance with 49 CFR Section 21.7, every application for financial assistance from FTA must
+be accompanied by an assurance that the applicant will carry out the program in compliance with Title VI
+of the Civil Rights Act of 1964. This requirement shall be fulfilled when the applicant submits its annual
+certifications and assurances to FTA. The text of FTA’s annual certifications and assurances is available on
+FTA’s Web site. Wasco County complies with this instruction annually in order to receive FTA funding.
+
+NOTIFICATION OF COMPLIANCE WITH TITLE VI
+In order to comply with 49 CFR Section 21.9 (d) MCEDD has posted inf ormation for the public regarding
+the Title VI obligations and protections against discrimination afforded to the public by Title VI on the
+Wasco County website. Wasco County has also posted the following notice of compliance with Title VI,
+WASCO COUNTY Page 7 of 8
+
+which is visible to the public at the Wasco County office and directs the public to the Wasco County
+website and to the appropriate phone number to inquire for more information. Additionally, this
+information is available upon request.
+
+Notification of Compliance with Title VI
+
+Wasco County complies with Title VI and Title VI Dependent Guidelines for Federal Transit Administration
+Recipients. Title VI obligations and protections against discrimination afforded to the public by Title VI can
+be found on the Wasco County website at http://www.co.wasco.or.us. This information is also available
+upon request, please inquire inside office or contact Title VI Complaint Coordinator at (541) 506 -2520.
+
+Notificación de la conformidad con Title VI
+
+Wasco County se conforma con las pautas dependientes del Title VI y del Title VI para los recipientes
+federales de la administración del tránsito. Las obligaciones y las protecciones del Title VI contra la
+discriminación producida al público por Title VI se pueden encontrar en el Web site de Wasco County en
+http://www.co.wasco.or.us. Esta información está también disponible a petición, investiga por favor
+dentro de oficina o entra en contacto con a coordinador de la queja del Title VI en (541) 506-2520.
+
+APPROVED this 15th day of March, 2023.
+
+Wasco County Board of Commissioners
+
+______________________________
+Steven D. Kramer, Chair
+
+______________________________
+Scott C. Hege, Vice-Chair
+
+______________________________
+Philip L. Brady, County Commissioner

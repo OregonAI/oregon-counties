@@ -1,0 +1,1088 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-ordinance-22-001-amended-fee-schedule-signed
+title: 'Ordinance 22-001 Amended Fee Schedule SIGNED'
+doc_type: ordinance
+citation: 'Ordinance 22-001 Amended Fee Schedule SIGNED'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinance%2022-001%20Amended%20Fee%20Schedule%20SIGNED.pdf?t=202503260855560
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 4afb4e3cc5017532e99063dd3bbd08ebcd6938f2f96426c52de7d7743d8674be
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 106.045
+    - ORS 166.291
+    - ORS 18.930
+    - ORS 190.050
+    - ORS 192.440
+    - ORS 203.035
+    - ORS 203.065
+    - ORS 205.236
+    - ORS 205.320
+    - ORS 205.327
+    - ORS 205.350
+    - ORS 209.260
+    - ORS 21.300
+    - ORS 215.416
+    - ORS 271.230
+    - ORS 368.326
+    - ORS 471.166
+    - ORS 92.100
+    - ORS 92.170
+    - OAR 918-050-0100
+  related: []
+  supersedes: []
+tags: [wasco-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Wasco County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance 22-001 Amended Fee Schedule SIGNED (Ordinance 22-001 Amended Fee Schedule SIGNED)
+
+## At a glance
+
+Ordinance 22-001 Amended Fee Schedule SIGNED — code of Wasco County. 19 pages.
+
+## Full text
+
+THE BOARD OF COMMISSIONERS OF WASCO COUNTY OREGON DOES ORDAIN AS FOLLOWS:
+Section 1. PURPOSE
+ Wasco County provides core services to all citizens which are paid for through the annual tax base. On the
+whole, the County endeavors to proactively provide access to services in alignment with our Vision and Mission
+statements.
+In some instances, special services are required or necessitated by various state statutes, or to meet the needs of
+citizens who have requests outside of core services. The purpose of this Ordinance is to outline the fees to be
+collected by Wasco County Departments for performing services, and to establish a uniform fee schedule.
+Section 2. AUTHORITY
+ The Ordinance is enacted pursuant to the authority granted to general law Counties by ORS 203.035-
+ORS
+203.065 and by ORS 192.440.
+Section 3. FEE SCHEDULE
+ Fees shall be charged and collected by the indicated Department before the filing, recording or copying of
+subject documents shall be completed. A table of all County fees can be found in Appendix A, B, C and D. Other
+fees may apply as assessed under Oregon Revised Statutes.
+Section 4.  ENACTMENT PROVISIONS (1)
+(1) CONFORMANCE WITH LAW
+ Except as expressly provided herein, this Ordinance shall in no way be a substitute for or eliminate the
+necessity of conforming with any and all State and Federal laws, rules and regulations including but not limited to
+the payment of all other fees required by law and other Ordinances which are now or may be in the future in
+effect which relate to the requirements provided in the Ordinance.
+(2) SEPARABILITY
+ If any section, subsection, sentence, clause, phrase or portion of this Ordinance is for any reason held
+invalid or unconstitutional by a Court of competent jurisdiction, such portion shall be deemed as a separate,
+distinct and independent provision and such holdings shall not affect the validity of the remaining portion of this
+Ordinance.
+IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+IN AND FOR THE COUNTY OF WASCO
+IN THE MATTER OF AMENDING WASCO COUNTY’S UNIFORM FEE SCHEDULE FOR VARIOUS COUNTY
+DEPARTMENTS
+ORDINANCE 22-001
+ORDINANCE 22-001
+
+(3) EFFECTIVE DATE
+ This Ordinance shall take effect on April 5, 20 22 upon its adoption, and all previous orders, resolutions or
+ordinances setting fees conflicting with the provisions of this Ordinance are hereby repealed and will be of no
+further force and effect.
+ Regularly passed and adopted by the Board of Commissioners of the County of Wasco, State of Oregon,
+by a __ to __ vote on this 19th day of January, 2022.
+
+ATTEST:
+
+Kathy Clark
+Executive Assistant
+APPROVED AS TO FORM:
+
+Kristen Campbell
+Wasco County Counsel
+WASCO COUNTY BOARD
+OF COMMISSIONERS
+
+Kathleen B. Schwartz, Commission Chair
+
+Steven D. Kramer, Vice-Chair
+
+Scott C. Hege, County Commissioner
+ORDINANCE 21-001
+
+APPENDIX A: County Fee Schedule
+Fees Across All County Departments
+Service Description Fee Amount Applicable
+Statute
+Miscellaneous Copies/Printing/Transmission
+Black and white copies
+8.5” x 11” or 8.5” x 14”
+$0.25 per page County
+Ordinance
+Black and white copies
+11” x 17”
+$1.03 per page County
+Ordinance
+Color copies
+(any size listed above)
+$1.03 per page County
+Ordinance
+Providing content on media
+(zip disk, jump drive, CD, etc.)
+$15.45 per media plus
+actual costs of services
+County
+Ordinance
+Printing computer labels $41.20 plus actual printing
+and label cost
+County
+Ordinance
+Electronic transmission of documents
+(Fax, email, FTP, or similar
+transmission.
+If printing of copies is required to
+redact information or to get records
+into the appropriate form, subset, etc.,
+copy fees and research time will also
+apply.)
+$5.15 per transmission plus
+actual costs of services
+
+County
+Ordinance
+Research and Professional Services Fees
+Basic Research Fee
+(Only upon availability of staff)
+$41.20 per hour, one hour
+minimum, unless specified
+by Department fee schedule
+County
+Ordinance
+Professional Services / Complex
+Analysis
+See specific Department fee
+schedule
+County
+Ordinance
+Public Record Request Fees
+Certification of a Public Record
+(Licenses, etc.)
+$3.75 per record  ORS 205.320
+Public records request, general (Cost is request-dependent and is
+sum of research, copies, transmission, etc.)
+
+Administrative Services
+Service Description Fee Amount Applicable
+Statute
+FINANCE DEPARTMENT
+Placing a stop payment on a Wasco
+County issued check
+$34.00 per check County
+Ordinance
+Returned item (non-sufficient funds,
+closed account, etc.) deposited to
+Wasco County bank account
+$26.00 per check County
+Ordinance
+INFORMATION SERVICES DEPARTMENT
+Professional Services $124.00 per hour County
+ORDINANCE 21-001
+
+Ordinance
+GIS Mapping : See Appendix C
+
+LEGAL SERVICES
+County Counsel Fees. Please contact
+Administrative Services for estimate.
+At current hourly rate County
+Ordinance
+
+Land-based and Civil Services
+Service Description Fee Amount Applicable
+Statute
+ASSESSMENT AND TAXATION DEPARTMENT
+Assessment mapping changes and
+new plat
+ $556.00 base fee County
+Ordinance
+Additional lot created  $51.00 each County
+Ordinance
+Additional map affected  $51.00 each  County
+Ordinance
+Lot line adjustment  $257.00 each County
+Ordinance
+Calculation of farm/forest
+disqualifications
+(To be applied against penalty if the
+account is disqualified within 90 days)
+ $41.00 per hour, one hour
+minimum
+County
+Ordinance
+CLERK’S OFFICE
+Land-based Recording Fees 3All documents presented for recording must be “required or
+permitted by law to be recorded”)
+Deed and Mortgage Records
+Breakdown of fees:
+  Clerk Recording Fee
+  Public Land Corner Preservation Fund
+  Geographic Information Systems (GIS) Fund
+  Assessment & Taxation Fund
+  Oregon Land Information System (OLIS) Fund
+  Affordable Housing Alliance Fund
+$105.00 for the 1st page,
+$5.00 for each page after
+  $5.00 per page
+  $10.00 per document
+  $19.00 per document
+  $10.00 per document
+  $1.00 per document
+  $60.00 per document
+ORS 205.320
+and County
+Ordinance
+Lien Records
+Breakdown of fees:
+  Clerk Recording Fee
+  Assessment & Taxation Fund
+  Oregon Land Information System (OLIS) Fund
+  Affordable Housing Alliance Tax
+$76.00 for the 1st page,
+$5.00 for each page after
+  $5.00 per page
+  $10.00 per document
+  $1.00 per document
+  $60.00 per document
+ORS 205.320
+and County
+Ordinance
+Partition Plat, Replat, and Property Line Adjustment Plat ORS 205.320
+and
+Surveyor Fee, Property Line Adjustment
+   Plat, Single-Parcel Partition Plat or Replat
+Assessor and Tax Collector Fees
+Recording Base Fee (includes A&T Fund, OLIS
+Fund, GIS Fund, Public Land Corner Preservation
+Fund, General Clerk Fee)
+Affordable Housing Alliance Fund
+See Surveyor’s Office fees
+
+See Assessment and Taxation
+$90.00 per document
+
+$60 per document
+County
+Ordinance
+ORDINANCE 21-001
+
+Clerk Recording Fee
+County Court Approval (if required)
+Copy Fees
+$5.00 per page
+$10.00
+$3.00 per page
+Subdivision and Subdivision Replat; ORS 205.320
+and
+Surveyor Fee, Subdivision and Subdivision
+Replat,
+  Condominium
+Assessor and Tax Collector Fees
+Recording Base Fee, 20 lots or less
+Recording Base Fee, 21 mots or more
+(includes A&T Fund, OLIS Fund, GIS Fund, Public
+Land Corner Preservation Fund, General Clerk
+Fee)
+Affordable Housing Alliance Fund
+Clerk Recording Fee
+County Court Approval (if required)
+Copy Fees
+See Surveyor’s Office fees
+
+See Assessment and Taxation
+$90.00 per document
+$110.00 per document
+
+$60.00 per document
+$5.00 per page
+$10.00
+$3.00 per page
+County
+Ordinance
+Non Standard Documents $20.00 per document ORS 205.327
+Documents Describing More Than One
+Transaction
+$5 per additional
+transaction or title
+ORS
+205.236(4)
+Location of Record (land records are
+available online free of charge. See the
+Digital Research Room on the Wasco County
+website)
+$3.75 location fee plus
+$0.25 per page
+ORS 205.320
+Recording Image Subscription (download
+of images recorded in the Clerk’s office and
+provided on media)
+$0.25 per page/image
+plus cost of media if
+applicable
+County
+Ordinance
+Marriage Fees
+Marriage License $50.00 ORS 205.320
+and ORS
+106.045
+Civil Marriage Ceremony (in office, by
+appointment only)
+$117.00 Senate Bill 27
+Staff Witness for Ceremony $16.00 per staff member County
+Ordinance
+Certified Copy of Marriage License $7.75 ORS 205.320
+Time Waiver of 3-day Waiting Period $16.00 County
+Ordinance
+Certificate of Parental Consent for
+Marriage of a Minor
+$16.00 per minor County
+Ordinance
+Amending a Filed Marriage Record $25.00
+Domestic Partnership Declaration
+Registration $50.00 ORS 205.320
+Certified Copy of a Domestic Partnership
+Declaration
+$7.75 ORS 205.320
+Elections Reports
+Request for List of Electors $25.00 plus 2.5¢ per
+100 names
+OAR 165-002-
+0020 Section
+ORDINANCE 21-001
+
+PLANNING DEPARTMENT
+See Appendix B  County and ORS
+
+PUBLIC WORKS DEPARTMENT
+Petition for Road Vacation $515.00 County
+Ordinance
+Permit for Mass Gathering $515.00 County
+Ordinance
+Permit for Motor Vehicle Road Rally $1030.00 County
+Ordinance
+
+SURVEYOR’S OFFICE
+Survey Filing
+(Reviewed, filed and indexed)
+$195.00 plus $55 per page
+over 2 pages
+ORS 209.260
+Property Line Adjustment Survey
+Filing
+(Reviewed, filed and indexed)
+$265.00 plus $55.00 per
+page over 2 pages
+ORS 209.260
+
+Single-Parcel Partition Plat, or Single
+Parcel Replat Review (Reviewed, filed
+and indexed)
+$500.00 per plat ORS 92.100 and
+County
+Ordinance
+Multiple-Parcel Partition Plat or
+Replat Review (Reviewed, filed and
+indexed)
+$655.00 per plat ORS 92.100 and
+County
+Ordinance
+Subdivision or Subdivision Replat
+Review (Reviewed, field-checked, filed
+and indexed)
+$735.00 per subdivision
+plus $70.00 per lot
+ORS 205.350 and
+County
+Ordinance
+Condominium Plat Review
+(Reviewed,  field-checked, filed and
+indexed
+$790.00 per condominium,
+plus $70.00 per unit
+ORS 205.350 and
+County
+Ordinance
+Re-check or Re-design Review 50% of the original review
+fee
+County
+Ordinance
+Affidavit Review (Correction, Consent,
+Post-Monumentation, etc.)
+$55.00per affidavit
+recorded
+ORS 92.170 and
+County
+Ordinance
+Marking the Record Upon the
+Surveyor’s Copy of an Original
+Plat(For Road Vacation, etc.)
+$55.00 per recorded
+document
+ORS 271.230(2)
+and County
+Ordinance
+Research $80.00per hour after the
+first hour
+County
+Ordinance
+Large Format Printing or Copying $1.05 per square foot,
+$2.05minimum
+County
+Ordinance
+
+ORDINANCE 21-001
+
+Public Safety Services
+Service Description Fee Amount Applicable
+Statute
+COMMUNITY CORRECTIONS DEPARTMENT
+Community Service Work Program
+Placement
+$40.00 County
+Ordinance
+DNA Sample Draw $25.00 County
+Ordinance
+Drug Testing $20.00 per sample for in-lab
+tests
+$10.00 for instant tests
+County
+Ordinance
+Inter-County Transfer Request $50.00 County
+Ordinance
+Interstate Compact $100.00 County
+Ordinance
+Probation/Post Prison/Parole
+Supervision
+$40.00per month County
+Ordinance
+Travel Permit $5.00 each permit County
+Ordinance
+Treatment Program Intake $155.00 County
+Ordinance
+Treatment Assessment $155.00 County
+Ordinance
+Treatment Assessment Update $85.00 County
+Ordinance
+Unexcused Assessment No-Show Fee $55.00 County
+Ordinance
+Treatment: Individual Counseling
+Session
+$130.00 County
+Ordinance
+Treatment: Group Session $50.00 County
+Ordinance
+Program Curriculum Book $30.00
+Electronic Monitoring Setup $25.00 County
+Ordinance
+Electronic Monitoring Daily Fee $5.00 County
+Ordinance
+
+SHERIFF’S OFFICE
+Civil Fees Per Statute ORS 21.300
+Concealed Handgun License Per Statute ORS
+166.291(5)(a)
+Fingerprinting $20.00 per card or $20.00
+for electronic submission
+County
+Ordinance
+OLCC Liquor License (regular and
+special event)
+$25.00 per permit ORS 471.166 (7)
+Real Property Foreclosure Sheriff
+Sale
+$800.00 deposit (Applicants
+will be billed for actual costs
+ORS 18.930(5)
+ORDINANCE 21-001
+
+and employee time.)
+Sheriff Incident Reports*
+(No charge for victim for first copy)
+1–24 pages: $15.45 per
+report
+25–49 pages: $20.60 per
+report
+50+ pages: $51.50 per
+report
+County
+Ordinance
+Videos
+
+$15.45 plus staff time* County
+Ordinance
+* Research/Staff Time – fee is based on salary and fringe benefits of
+the employee charged with the task (such as document research,
+retrieval, review or redaction), converted to an hourly rate. Time is
+charged in 15-minute increments with a 15-minute minimum. Call
+the Sheriff’s Office for an estimate when research or staff time is
+needed.
+County
+Ordinance
+BUILDING CODES DEPARTMENT
+See Appendix D  County
+Ordinance
+
+Fee Schedule 1 Effective Date January 4, 2022
+
+Wasco County Planning Department Fees
+
+Effective January 4, 2022 per County Commissioner Ordinance 21-001
+
+Consolidated Permit Process: For applications requiring more than one type of review, the full fee
+shall be paid for the primary/most expensive review and 50% for each additional review. Type I fees
+accompanying Type II-IV reviews will be waived.
+
+Type I – Ministerial Fee
+Address – New or Change $79
+Land Use Verification Letter (Not Involving Land Use Decision) $158
+Marijuana Production $1,044 + $80/hour
+after 10 hrs
+Non-Structural Sign-Off  – MNN (e.g., LUCS)  $95
+Structural Without Land Use Application – MNS  $326
+Telecommunications Tower – Collocation $1,674
+
+Type II – Administrative Fee
+Conditional Uses
+ Aggregate and Other Subsurface Resources $2,661
+ Exclusive Farm Use, Non-Farm Dwelling $2,136
+ Farm Ranch Recreation $1,716
+ F-F(10) Dwelling Without Farm or Forest Use $1,401
+ Other $1,401
+ Power Generating Facility (EFSC approval and required review)  $80/hr
+ Power Generating Facility (Commercial)                                                                        $5,286 + $1,000/tower
+ Power Generating Facility (Non-Commercial)                                                               $1,940 + $1,000/tower
+Extension of Time for Land Use Approval $535
+Legal Parcel Determination                                                                                                $540 + $80/hour after 5 hours
+LUDO Interpretation or Similar Use Determination $80/hr
+Major Modification of Approval (notice is required)  $116 + $80/hr
+National Scenic Area (NSA)
+ Expedited (Used listed in Section 3.110 of Wasco County NSALUDO)  $1,332
+ Expedited (Removal or Demolition)  $351
+ Full Review (Fences and Accessory Structures Less Than 500 SQ)  $1,086
+ Full Review $2,996
+Non-Conforming Use Review (verification, restoration or alteration)  $1,086
+Partition, Property Line Adjustment, or Replat (not involving public or private roads)
+ Property Line Adjustment $1,642
+ Partition or Replat $1,642
+Site Plan Review (parking, loading, and home occupations)  $666
+Subject to Standards
+ Aggregate Overlay Significant Determination $666
+ Dwelling (Accessory, Large Tract Forest, Lot-of-Record, Primary, Relative)  $1,401
+ EPDs (Environmental Protection Districts)  $719
+ Guest House $561
+ Rural Residential (R-R(10)) Dwelling $719
+ Marijuana Processing and/or Wholesale                               $2,136 + hourly rate of $80 after 20 hours
+ Other $719
+ Utility Facilities Necessary for Public Service $2,570
+Fee Schedule 2 Effective Date January 4, 2022
+
+Temporary Use Permit $771
+Temporary Use Permit Renewal (e.g., Medical Hardship Dwelling)  $456
+Variance (Administrative) – Less Than 50% Deviation From Stated Standard $771
+
+Type III Action – Planning Commission Fee
+Appeal to Planning Commission: ORS 215.416(11)(b); full refund if upheld 250
+Mobile Home Park / RV Park $2,241
+Other Reviews Directed to Planning Commission by Ordinance $1,611
+Partition, Property Lind Adjustment, or Replat (involving public or private roads approvals)
+ Property Line Adjustment $2,062
+ Single Parcel Partition or Replat $2,062
+ Multiple Parcel Partition or Replat $2,062
+Planned Unit Development – Preliminary/Final Plat Review Prelim. $3,816
+Final $830 +
+$50 per lot
+Subdivision – Preliminary/Final Plat Review Prelim.  $4,160
+Final  $830 +
+$50. Per lot
+Variance – 50% or Greater Deviation From Stated Standard $1,086
+
+Type IV Action – Board of County Commissioners Fee
+Appeal to Board of Commissioners $1,296
+Goal Exception                                                                               $1,821 + hourly rate of $80/hour after 20 hours
+Zone Change                                                                                   $1,821 + hourly rate of 80/hour after 20 hours
+Open Space Lands Tax Assessment $981
+Road Dedication $945
+Road Naming/Re-Addressing (full fee + half fee for each address changed); not land use decision                   $210
+Subdivision Lot Line Vacation per ORS 368.326 $403
+
+Miscellaneous Fee
+Amendment to Land Use Application Request (after pre-notice; prior to approval) $368
+Complex Projects – As Determined by Planning Director (See Policy and Process) $80/hr
+Continuance/Extension Request of Planning Commission or Board Hearings $525
+LUBA Remand and Review $315
+Outdoor Mass Gathering
+ Less than 3000 people $2,625
+ 3,000 or more, or 120 hrs or more $4,725
+Pre-Application Conference - $250 of the $500 applies towards land use application if
+applied for within 90 days of conference.
+$525
+Research / Records Request $47/hr
+Withdrawal of Application – Refunds
+ Before completeness is determined 75%Total
+ After completeness is determined      50% Total
+ After Pre-Notice or Notice of Decision is mailed No Refund
+Withdrawal of Appeal After Received No Refund
+Work Commenced Without Required Land Use Approval                              Additional 100% of Total Review Fee
+Work Commenced in NSA Without Required Land Use Approval                 Additional 100% of Total Review Fee
+
+Fee Schedule 3 Effective Date January 4, 2022
+
+Code Compliance Fee
+Administrative Overhead hourly rate $80/hr
+Appeal to Hearing’s Officer $100
+Continued Non-Compliance $52/month
+Recordation of Compliance Document $101
+Other compliance penalty charges exist as established in Compliance Ordinance (WCCCNAO)
+
+FEE SCHEDULE ATTACHMENT - POLICY & PROCESS
+ MNN: There is no fee for LUCS issued with a building permit.
+ MNS: Examples include building permits, manufacture home placement permit and agricultural
+exempt permit applications.
+
+ Fee Waivers:
+1) Applicability: A Fee Waiver is applicable to Planning Department fees only.  All “Other
+Departmental Fees” must be paid in full or documentation provided that they have been waived,
+at the time of application submittal.
+2) Ministerial Sign off with Administrative Review: If an applicant pays for and receives approval of
+Type II (Administrative/Discretionary) review, all ministerial sign offs associated with that review
+shall be waived. This includes Building Permit Application, Manufactured Home Placement Permit
+Application, Agricultural Exempt Permit Application, Land Use Compatibility Statement, Water
+Rights Application, and Department of State Lands Permit Application.
+3) Individuals: Any individual may request a Fee Waiver from the Planning Director of any
+development review or appeal fees. To be granted a waiver (or portion of a fee waiver) an
+individual must provide documentation of household income at or below 150% of the federal
+poverty level. To prove a hardship, applicants must provide federal tax returns, pay stubs or annual
+benefit statements. Assistance will be provided based on the availability of funding. Waivers must
+be approved and granted by the Planning Director prior to submittal of an application or appeal.
+4) Appeal: Any organization or individual may appeal the Planning Director’s decision not to grant a
+Fee Waiver (or portion thereof) to the Board of County Commissioners.
+
+ Complex Projects: Complex projects involve more resources of the planning and other county
+departments due to their complexity and their overall impacts on the community. As such, complex
+projects may even require the hiring of outside assistance. For these types of large-scale projects that
+require a great deal of departmental resources to review, the county will require the applicant to sign
+a memorandum of agreement to compensate the county for actual costs incurred to complete the
+review and process in a timely manner. The agreement shall include details with regards to deposit
+and the scheduling of payments. If an applicant refuses to enter into a memorandum of agreement or
+if the applicant and the county fail to reach an agreement, the application will not be processed.
+
+FEE SCHEDULE ATTACHMENT – ADDITIONAL FEE WAIVER SPECIFICS
+As part of a fee waiver request, the planning director can require documentation of income at or below 150%
+of the federal poverty level (FPL) to prove financial need. 150% of the federal poverty level is a measure
+frequently used by other agencies nationwide to prove individuals’ financial need.  This measure can be
+Fee Schedule 4 Effective Date January 4, 2022
+
+adjusted for household size. Those at or below 150% of the federal poverty level are in poverty. The
+percentage of the federal poverty level of an individual’s income can be calculated using online calculators
+(http://www.lccaa.net/eligibility_calculator, http://www.safetyweb.org/fpl.php).
+Documentation that the County can accept to serve as proof of income includes:
+ Tax returns (use the adjusted gross income figure)
+ Pay stubs (use two months of them)(calculators are available online)
+ Annual benefit statements for social security and other benefits, or cancelled checks from the Social
+Security Administration.
+An alternate method to prove an individual’s financial need is to require institutional documentation of receipt
+of public assistance such as TANF (food stamps), SNAP (food stamps for families), Section 8 housing, Medicaid,
+etc..
+The following chart outlines 150% of the federal poverty level.
+2021 Federal Poverty Guidelines  - 150% of the Federal Poverty Level (FPL)
+Household Size 1 2 3 4 5 6 7 8
+ 150% $19,320 $26,130 $32,940 $39,750 $46,560 $53,370  $60,180 $66,990
+
+2019 Federal Poverty Guidelines
+Household Size  1  2  3  4  5  6  7  8
+
+ 100% $12,880 $17,420 $21,960 $26,500 $31,040 $35,580 $40,120 $44,660
+
+ 150% $19,320 $26,130 $32,940 $39,750 $46,560 $53,370  $60,180 $66,990
+
+Appendix C: GIS Services
+
+GIS Services - Standard Labor Rate $60/Hour
+Map Prices - Custom Maps
+Size Price Additional Copies (ea)
+8.5 x 11 $8.00 $1.50
+11 x 17 $9.00 $2.00
+18 x 24 $13.00 $13.00
+24 x 36 $16.00 $16.00
+24 x 40 $26.00 $26.00
+36 x 48 $36.00 $36.00
+Maps which take longer than 15 minutes to make (excluding printing time) are charged
+at our shop rate
+
+Available Data Layers (Fees allowed per ORS
+190.050)
+Layer Price Notes
+Addresses $52.00 Each
+Extract of Assessor's
+Database
+
+$308.00
+
+Table Schema
+Roads $52.00 Each
+Tax Code Areas  $47.00
+Taxlot Maps N/A See Also The Oregon Map
+
+Taxlots $1/parcel or $1,1,508for
+entire County
+
+See Also Our Online Map
+Other Groups/Layers -
+$48.00 each
+
+Contains
+
+Notes
+
+Labor Rate
+$86.00 per hour
+
+Administrative Boundaries
+Columbia Gorge Urban
+Renewal District, City of
+The Dalles Watershed,
+School Districts, NWCPUD
+Subdivisions, Transition
+Lands Study Area, Wasco
+County Boundary
+
+Populated Places
+City Limits, Urban Growth
+Boundaries, Rural Service
+Centers
+
+See Also State Data
+Tax Codes Tax Codes
+Zoning - Cities Zoning - Cities
+Zoning - Environmental
+Protection Districts
+Zoning - Environmental
+Protection Districts
+
+Zoning - Wasco County Zoning - Wasco County
+We require payment in advance from companies we have not done business with in the past.
+Credit card payments get charged an additional amount (depending on how much the base
+purchase is) to match what the companies charge the County. Checks should be made out to
+Wasco County GIS, and sent with a note stating which layers are being requested. Send it to:
+Wasco County IS Department
+Attn: GIS
+2705 E 2nd St, The Dalles, OR 97058
+
+Fee Schedule Wasco County Building Codes Services
+
+STRUCTURAL PERMIT FEES
+In accordance with OAR 918-050-0100(1)(c) and (2)(c)(A), Building Valuation is determined per the ICC Building
+Valuation Data Table current as of April 1 of each year.
+Valuation:
+
+$1-$2,000.00 $69.00
+$2,001.00-$25,000.00 $69.00 for the $2,000.00 plus $10.81 for each additional
+$1,000.00 or fraction thereof, to  and including
+$25,000.00
+$25,001.00-$50,000.00 $317.63 for the $25,000.00 plus $8.05 for each additional
+$1,000.00 or fraction thereof, to  and including
+$50,000.00
+$50,001.00-$100,000.00 $518.88 for the first $50,000.00 plus $5.41 for each
+additional $1,000.00 or fraction thereof, to and including
+$100,000.00
+$100,001.00 and up $789.13 for the first $100,000.00 plus $4.49 for each
+additional $1,000.00 or fraction thereof.
+
+OTHER INSPECTIONS AND FEES
+Residential Fire Sprinkler 13R (standalone/closed system) fee includes plan review (13D multipurpose/continuous loop
+requires Plumbing)
+0 to 2000 sq. ft. area covered $112.70
+2001 to 3600 sq. ft. area covered $119.03
+3601 to 7200 sq. ft. area covered $160.71
+7201 sq. ft. and greater $214.19
+
+Prescriptive solar photovoltaic system-fee includes plan
+review
+$184.00
+Non-Prescriptive solar photovoltaic system-requires plan
+review
+Use structural Permit Fee table above
+Phased plan review - $60.00 application fee plus 10% of
+the total project building permit fee not exceed $1500.00
+for each phase (in addition to standard structural plan
+review)
+Phased plan review - $69.00 application fee plus 20% of
+the total project building permit fee not exceed $1500.00
+for each phase (in addition to standard structural plan
+review)
+Deferred plan review – 65% of the building permit fee
+calculated using the deferred portion valuation with a
+$156.00 minimum (in addition to standard structural plan
+review)
+Deferred plan review – 65% of the building permit fee
+calculated using the deferred portion valuation with a
+$179.40 minimum (in addition to standard structural plan
+review)
+After hours inspections outside of normal business hours
+(minimum charge 2 hours)
+$89.70 per hour during work week.
+Double time rate with 4 hour minimum on weekends and
+holidays
+Re-Inspection fee $89.70 per each
+Inspections for which no fee is specifically indicated $89.70 per hour
+Demolition Permit Fee $130.00 (Residential)
+ $215.00 (Commercial)
+Fee Schedule Wasco County Building Codes Services
+Pre-Application Consultation/Consultation Fee                          $89.70 1 hour minimum
+Temporary Certificate of Occupancy $160.00 for 30 days only (Residential)
+$320.00 for 30 days only (Commercial)
+Ag Exempt Request Fee $50.00
+Plan Review Fees 65% of structural permit fee
+Fire and Life Safety Plan Review Fees 40% of structural permit fee
+Additional plan review required by changes, additions, or
+revisions to approved plans
+$74.75 per hour (Residential)
+$89.70 per hour (Commercial)
+Expedited Plan Review Fee $320.00 per hour 2 hour minimum
+Overtime Fee (if applicable 1.5 times the Base Rate)
+MECHANICAL PERMIT FEES
+ONE & TWO FAMILY DWELLINGS:
+Minimum permit fee $69.00 (Residential)
+Furnace/Burner including ducts and vents
+Up to 100K BTU/hr. $13.80
+Greater than 100K BTU/hr. $13.80
+Heating/Cooling/Stove/Vents
+Ductwork only $13.80
+Unit Heater (suspended, wall, and floor) $13.80
+Wood/Gas/Pellet fireplace insert or free standing stoves $13.80
+Repair/alter/add to mechanical appliance $13.80
+Evaporative cooler (permanent) $13.80
+Air Conditioner $13.80
+Ventilation system, not a portion of HVAC system $13.80
+Ventilation fan connected to a single duct $10.35
+Attic/Crawl space fans $10.35
+Range hood/other kitchen equipment $13.35
+Clothes dryer exhaust $10.35
+Floor furnace including vent $13.80
+Hydronic hot water system $27.60
+Gas Piping Outlets
+1-4 outlets $27.60
+Additional outlets $3.45
+Exterior medium pressure ea. 100’ $27.60
+Air-handling units including ducts/Heat pumps/Mini split system
+Any size $13.80
+Incinerators
+Domestic – installation or relocation $13.80
+Miscellaneous Fees
+Hourly Rate (number of hours) $89.70
+Other heat/cool/vent/appliance (not indicated) $13.80
+COMMERCIAL:
+Minimum permit fee $69.00 (Commercial)
+Valuation:
+Up to $3,500.00 $69.00
+$3,501 to $10,000.00 – for the 1st $3,500.00 plus $69.00 for the 1st $3,500.00 plus $1.38/$100.00 or portion
+Fee Schedule Wasco County Building Codes Services
+$1.20/$100.00 or portion thereof above $3,500.00 thereof above $3,500.00
+Over $10,001.00 – for the 1st $10,000.00 plus
+$3.00/$1,000.00 or portion thereof above $10,000.00
+$158.70 for the 1st $10,000.00 plus $3.45/$1,000.00 or
+portion thereof above $10,000.00
+Investigative Fee Actual Cost
+Re-inspection fee $89.70
+After hours inspections outside of normal business hours
+(minimum charge 2 hours)
+$89.70 per hour during work week.
+Double time rate with 4 hour minimum on weekends and
+holidays
+Plan Review Fee, if required 50% of subtotal
+Request by government agency under ORS 190
+Cost of Inspector plus, travel & mileage to and from areas
+requested for inspections
+Expedited Plan Review Fee $245.00 per hour 2 hour minimum
+Overtime Fee (if applicable 1.5 times the Base Rate)
+PLUMBING PERMIT FEES
+NEW SINGLE FAMILY DWELLINGS
+Minimum Permit Fee - Residential $69.00
+New single family dwelling 1 bath/ 1 kitchen – includes the
+1st 100’ of each site utility, hose bibbs, icemakers,
+underfloor low-point drains, and rain drain packages
+$289.80
+Each add’l bath (1/2 bath counts as whole) $103.50
+Each add’l kitchen $69.00
+Each add’l 100’ of site utilities or fraction thereof; storm,
+water, and sanitary sewer
+$41.40
+Each fixture residential (for new, additions, and
+alterations)
+$27.60
+Re-pipe water supply $100.00
+Manufactured Dwellings
+Site utilities-first 30 lineal feet refer to Manufactured Home Permit
+Each additional 100’ of site utilities of fraction thereof $41.40
+RV and Manufactured Dwelling Parks
+Base Fee (include the 1st 10 or fewer spaces $441.60
+Each additional space $37.95
+COMMERCIAL
+Minimum Permit Fee – Commercial $69.00
+Each fixture (for new, additions, and alterations) $27.60
+Site utilities ea. 100’ or fraction thereof $41.40
+Residential fire sprinkler 13D (continuous loop/multipurpose) – fee includes plan review
+0 to 2000 sq. ft., area covered $112.70
+2001 to 3600 sq. ft., area covered $119.03
+3601 to 7200 sq. ft., area covered $160.71
+7201 sq. ft. and greater $214.19
+Miscellaneous Fees
+Backflow device/backwater valve $27.60
+Re-Inspection fee $89.70
+Inspections which no fee specified $89.70
+Request by government agency under ORS 190 Cost of Inspector plus, travel & mileage to and from areas
+requested for inspections
+Fee Schedule Wasco County Building Codes Services
+Medical Gas Piping
+$1 to $10,00 valuation $310.50
+$10,000.00 and greater Valuation $310.50 for the 1st $10,000.00 plus $2.07 for each add’l
+$100.00 or fraction thereof
+Investigative Fee Actual Cost
+Re-inspection fee $89.70
+After hours inspections outside of normal business hours
+(minimum charge 2 hours)
+$89.70 per hour during work week.
+Double time rate with 4 hour minimum on weekends and
+holidays
+Plan Review fee, if required 50% of subtotal
+Expedited Plan Review Fee $245.00 per hour 2 hour minimum
+Overtime Fee (if applicable 1.5 times the Base Rate)
+ELECTRICAL PERMIT FEES
+NEW SINGLE FAMILY DWELLINGS-SERVICE AND ATTACHED GARAGE INCLUDED
+Minimum Permit Fee - Residential $89.70
+1,000 sq. ft. or less $146.05
+Each additional 500 sq. ft. or portion thereof $26.45
+Limited Energy $34.50
+Each manufactured home or modular dwelling service or
+feeder
+$89.70
+New Multifamily – total # of units
+Use 1 and 2 Family rates above for largest sq. ft. unit – cost
+of largest unit ____/2 x number of remaining number
+
+Multifamily limited energy, by floor $62.10
+Services or Feeders (installation, alteration, relocation)
+200 amps or less $109.25
+201 to 400 amps $129.95
+401 to 600 amps $215.05
+601 to 1,000 amps $281.75
+Over 1,000 amps or volts $647.45
+Reconnect Only $72.45
+Temp. Services or Feeders (installation, alteration, relocation)
+200 amps or less $72.45
+201 to 400 amps $98.90
+401 to 600 amps $143.75
+601 to 1,000 amps $234.60
+Over 1,000 amps or volts $539.35
+Branch Circuits (new, alteration, extension per panel)
+Fee for branch circuits with purchase of a service or feeder fee:
+Each branch circuit $5.52
+Fee for branch circuits without purchase of a service or feeder fee:
+First branch circuit $74.75
+Additional branch circuits $5.52
+Miscellaneous (service or feeder not included)
+Each pump or irrigation circle $89.70
+Each sign or outline lighting $89.70
+Signal, circuit or a limited-energy panel, alteration or $72.45 Commercial
+Fee Schedule Wasco County Building Codes Services
+extension $89.70 Residential
+Hourly rate (number of hours) $89.70
+Request by government agency under ORS 190 Cost of Inspector plus, travel & mileage to and from areas
+requested for inspections
+Investigative fee Actual Cost
+Re-inspection fee $89.70
+After hours inspections outside of normal business hours
+(minimum charge 2 hours)
+$89.70 per hour during work week.
+Double time rate with 4 hour minimum on weekends and
+holidays
+Master Individual Inspection Fee $89.70 per hour (minimum 2hours)
+Plan Review fee, if required 50% of subtotal
+Expedited Plan Review Fee $245.00 per hour 2 hour minimum
+Overtime Fee (if applicable 1.5 times the Base Rate)
+Minimum Permit Fee – Commercial $89.70
+MANUFACTURED DWELLING PERMIT FEES
+Installation fee (includes placement, concrete
+slabs/runners/foundations when prescriptive, electrical
+feeder, and plumbing/cross-over connections up to 30
+lineal feet)
+$220.80
+Re-inspection fee  $89.70
+State fee  $34.50
+Investigative fee Actual Cost
+RENEWABLE ENERGY SYSTEMS PERMIT FEES
+5kva or less $109.25
+5.01 to 15kva $129.95
+15.01 to 25kva $215.05
+Solar ea. Add’l kva 25.01 to 100 max      $8.63
+Wind 25.01 to 50kva $281.75
+Wind 50.01 to 100 kva $800.00
+Wind 100.01 or greater $920.00
+Service or feeders of 601 to 1,000 amps-additional to
+previous range $281.75
+Service or feeders over 1,000 amps or volts-additional to
+previous range  $647.45
+Re-inspection fee $89.70
+Plan Review, if required 50% of subtotal
+RV PARK & ORGANIZATIONAL CAMP PERMIT FEES
+VALUATION:
+$1.00 to $500.00 $17.25
+$501.00 to $$2,000.00 $17.25 for the first $500.00, plus $2.30
+for each additional $1,000.00 or
+fraction thereof, to and including
+$2,000.00
+$2,001.00 to $25,000.00 $51.75 for the first $2,000.00, plus $10.35 for each
+additional $1,000.00 or fraction thereof, to and including
+$25,000.00
+$25,001.00 to $50,000.00 $289.80 for the first $25,000.00, plus $7.48 for each
+Fee Schedule Wasco County Building Codes Services
+additional $1,000.00 or fraction thereof, to and including
+$50,000.00
+$50,001.00 to $100,000.00 $476.68 for the first $50,00.00, plus $5.18 for each
+additional $1,000.00 or fraction thereof, to and including
+$100,000.00
+$100,001.00 to $500,000.00 $735.43 for the first $100,00.00, plus $4.03 for each
+additional $1,000.00 or fraction thereof, to and including
+$500,000.00
+$500,001.00 to $1,000,000.00 $2,345.43 for the first $5,000.00, plus
+$2.30 for each additional $1,000.00 or
+fraction thereof, to and including
+$1,000,000.00
+Over $1,000,001.00 $4,070.43 for the first $1,000,00.00,
+ plus $2.30 for each additional
+$1,000.00 or fraction thereof
+MISCELLLANEOUS BUILDING FEES
+Request by government agency under ORS 190 (IGA) Cost of Inspector plus, travel & mileage to and from areas
+requested for inspections
+Permit Reinstatement fee – to renew already expired
+permit, as eligible; subject to State Surcharge
+$100.00, plus State Surcharge (Only applicable to expired
+permits that fall within the current code cycle of permit)
+Permit Extension fee – to extend expiration on active
+permit
+$80.00 (For first time only) After first extension $50.00
+each
+Refund Processing Fee - for repayment of costs of
+administration
+$100.00 or 25% of any fee to be refunded, whichever is
+less for the processing of a permit application
+
+Copy fees $1.00 for each

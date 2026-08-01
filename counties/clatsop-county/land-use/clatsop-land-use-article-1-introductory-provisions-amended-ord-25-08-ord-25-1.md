@@ -1,0 +1,3123 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clatsop-county
+id: clatsop-land-use-article-1-introductory-provisions-amended-ord-25-08-ord-25-1
+title: 'ARTICLE-1---Introductory-Provisions-Amended-Ord-25-08-Ord-25-16-Ord-26-05'
+doc_type: ordinance
+citation: 'ARTICLE-1---Introductory-Provisions-Amended-Ord-25-08-Ord-25-16-Ord-26-05'
+authority_level: county_ordinance
+issuing_body: 'Clatsop County Board of Commissioners'
+source_url: https://clatsopcounty.gov/DocumentCenter/View/3914/ARTICLE-1---Introductory-Provisions-Amended-Ord-25-08-Ord-25-16-Ord-26-05
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: cd32d7d7f84aca80eade22bce0564fbbf02ee8df4c7e90852d2ea20ccea309a2
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 195.060
+    - ORS 197.015
+    - ORS 197.360
+    - ORS 197.732
+    - ORS 215.010
+    - ORS 215.203
+    - ORS 215.283
+    - ORS 274.005
+    - ORS 30.930
+    - ORS 308A.062
+    - ORS 315.141
+    - ORS 321.267
+    - ORS 329A.250
+    - ORS 329A.255
+    - ORS 358.905
+    - ORS 433.735
+    - ORS 446.003
+    - ORS 455.010
+    - ORS 455.315
+    - ORS 468.740
+    - ORS 475A.210
+    - ORS 475A.290
+    - ORS 527.620
+    - ORS 527.715
+    - ORS 568.909
+    - ORS 603.038
+    - ORS 624.010
+    - ORS 65.001
+    - ORS 757.300
+    - ORS 757.365
+    - ORS 801.190
+    - ORS 822.110
+    - ORS 92.010
+    - ORS 92.830
+    - OAR 736-021-0030
+    - OAR 860-039-0010
+  related: []
+  supersedes: []
+tags: [clatsop-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clatsop County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# ARTICLE-1---Introductory-Provisions-Amended-Ord-25-08-Ord-25-16-Ord-26-05 (ARTICLE-1---Introductory-Provisions-Amended-Ord-25-08-Ord-25-16-Ord-26-05)
+
+## At a glance
+
+ARTICLE-1---Introductory-Provisions-Amended-Ord-25-08-Ord-25-16-Ord-26-05 — land use of Clatsop County. 65 pages.
+
+## Full text
+
+Clatsop County Land and Water I-1 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+ARTICLE 1. INTRODUCTORY PROVISIONS
+
+Section 1.0100. Title
+This Ordinance shall be known as the Clatsop County Land and Water Development
+and Use Code (LAWDUC).
+
+SECTION 1.0200. PURPOSE
+The purpose of this Ordinance is to coordinate County regulations governing the
+development and use of land and water, and to implement the objectives, goals and
+policies set forth in the Clatsop County Comprehensive Plan.
+
+SECTION 1.0300. SCOPE OF REGULATIONS
+1) This document contains standards applicable to development.
+2) If there is a conflict between a provision of this Development Code and a
+condition of approval required for a specific project approved under this
+Development Ordinance, the Development Code shall apply. [ORD 25-02]
+3) The standards established by this initial enactment shall be revised and extended
+as specified in the following section of and by decisions authorized by the
+Development Code and other ordinances of the County.
+4) The standards contained within this document may be revised or deleted and
+new standards may be added when such action will improve use of the Land and
+Water Development and Use Code. [ORD 25-02]
+
+SECTION 1.0400. APPLICATION
+This Code shall apply to all land or water within Clatsop County.
+
+Clatsop County Land and Water I-2 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+SECTION 1.0500. DEFINITIONS
+As used in this Ordinance, the following words and phrases shall have the following
+meanings:
+
+ABANDONMENT OF SURFACE MINING -- A cessation of surface mining, not set forth
+in an operator's plan of operation or by any other sufficient written notice, extending for
+more than six
+(6) consecutive months or when, by reason of examination of the premises or by any
+other means, it becomes the opinion of the Community Development Director that the
+operation has in fact been abandoned by the operator. The operator may, within thirty
+(30) days of receipt of written notification from the Community Development Director of
+its intent to declare the operation abandoned, submit evidence to the Community
+Development Director's satisfaction that the operation is in fact not abandoned.
+
+ABSENTEE OWNER -- Any real property owner(s) who customarily resides some place
+other than the property in question. [ORD 25-02]
+
+ABUTMENT-- A substructure composed of stone, concrete, brick or timber supporting
+the end of a single span bridge or the ends of a multi-span superstructure and, in
+general, retaining or supporting the approach embankment placed in contact there-with.
+
+ABUTTING – Two or more lots joined by a common boundary line or point. For the
+purposes of this definition, lots that are separated by a road, street, alley, or public way
+are not considered abutting. [ORD 25-02]
+
+ACCEPTED FARMING PRACTICES -- A mode of operation that is common to farms of
+a similar nature, necessary for the operation of such farms to obtain a profit in money,
+and customarily utilized in conjunction with farm use. As applied to composting
+operations on high-value farmland, “accepted farming practice” includes composting
+operations that either 1) compost only materials produced on the subject tract, or 2)
+compost materials brought from off-site and processed alone or in conjunction with
+materials generated on the subject tract, and use all on-site generated compost for on-
+farm production in conjunction with, and auxiliary to, the farm use on the subject tract.
+[Ord. 18-02]
+
+ACCESS – The place, way or means by which pedestrians, bicycles, and vehicles enter
+or leave property. [ORD 25-02]
+
+ACCESSORY STRUCTURE, DETACHED - A non-habitable detached structure that is
+used for storage of equipment and materials associated with the primary use and which
+is located on the same lot, parcel or tract with the primary use. Accessory structure
+includes, but is not limited to: [Ord. 18-02] [ORD 25-02]
+
+1) BARN -- A structure used for the storage of farm products, feed, and for housing
+farm animals and farm equipment. [ORD 25-02]
+
+Clatsop County Land and Water I-3 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+2) GARAGE, PRIVATE -- A carport, deck, or building, or a portion of a carport,
+deck, or building used for the parking and storage of vehicles of the owner or
+tenant of a property. [ORD 25-02]
+3) PERSONAL STORAGE STRUCTURE -- A structure for the storage of the
+owner’s or tenant’s personal possessions which is located on the same property
+as the owner’s or tenant’s residence. [ORD 25-02]
+4) SHED, FARM STORAGE -- A structure to store or repair a property owner's
+machinery and heavy equipment used in conjunction with agricultural/forestry
+practices on the same property on which the structure is located or on adjacent
+property under the same ownership. [ORD 25-02]
+
+ACCESSORY STRUCTURE,
+ATTACHED -- An accessory
+building which is attached to the
+main building through common wall
+construction or by the roof over a
+breezeway connecting the
+accessory building and the main
+building. [ORD 25-02]
+
+ACCESSORY TO -- With respect to
+forest management dwellings,
+“accessory to” means that forest
+management is the primary use of
+the property. [ORD 25-02]
+
+ACCESSORY USE -- A secondary
+use that is in addition to and
+supports the principal use located on the same lot, tract or parcel. [ORD 25-02]
+
+ACCESSWAY -- An unobstructed right-of-way containing a drive or roadway which
+provides vehicular access within a mobile home park and connects to a public street.
+[ORD 25-02]
+
+ACCRETION -- The build-up of land along a beach or shore by the deposition of
+waterborne or airborne sand, sediment, or other material.
+
+ACTIVITY – See Development.
+
+ADJUSTED PROPERTY LINE -- See property line adjustment.
+
+ADMINISTRATIVE – A discretionary action or permit decision made without a public
+hearing, but requiring public notification and an opportunity for appeal. [ORD. 26-05]
+
+AFFORDABLE HOUSING – “Affordable housing” means housing that is affordable to
+households with incomes equal to or less than 80 percent of the median family income
+
+Clatsop County Land and Water I-4 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+for the county. To be considered “affordable” housing costs should not exceed 30% of
+the total gross household income. [ORD. 23-07] [ORD 25-02] [ORD. 26-05]
+
+AGITATION DREDGING -- Dredging by displacement of sediments out of a shoaled
+area using currents generated by a ship's propeller or large pump. Also referred to as
+propwash dredging and sandwave skimming, depending on the gear and techniques
+used.
+
+AGRICULTURAL EXEMPT BUILDING – Any structure that is considered to be an
+“agricultural building” as defined in ORS 455.315 and is on a lot or parcel that is:
+(1) Enrolled in a farm or forest deferral program with the County Assessor; or
+(2) Not enrolled in a farm or forest deferral program with the County Assessor and
+for which the owner submits a signed statement along with documentation such
+as a business plan, profit/loss statements, tax returns or advertising, to
+demonstrate the lot or parcel(s) are in Farm Use as defined in LAWDUC 1.0500.
+[Ord. 18-02]
+
+AGRICULTURAL LAND --
+1) (A) Lands classified by the U.S. Soil Conservation Service (SCS) or Natural
+Resources Conservation Service (NRCS) as predominantly Class I-IV
+soils;
+(B) Land in other soil classes that is suitable for farm use as defined in ORS
+215.203(2)(a), taking into consideration soil fertility; suitability for grazing;
+climatic conditions; existing and future availability of water for farm
+irrigation purposes; existing land use patterns; technological and energy
+inputs required; and accepted farming practices; and
+(C) Land that is necessary to permit farm practices to be undertaken on
+adjacent or nearby agricultural lands.
+2) Land in capability classes other than I-IV that is adjacent to or intermingled with
+lands in capability classes I-IV within a farm unit, shall be inventoried as
+agricultural lands even though this land may not be cropped or grazed;
+3) “Agricultural Land” does not include land within acknowledged urban growth
+boundaries or land within acknowledged exception areas for Goal 3 or 4.
+
+AGRI-TOURISM -- A common, farm-dependent activity that is incidental and
+subordinate to a working farm and that promotes successful agriculture and generates
+supplemental income for the owner. Such uses may include hay rides, corn mazes and
+other similar uses that are directly related to on-site agriculture. Any assembly of
+persons shall be for the purpose of taking part in agriculturally-based activities such as
+animal or crop care, tasting farm products or learning about farm or ranch operations.
+Agri-tourism may include farm-to-plate meals. Except for small, farm-themed parties,
+Agri-tourism does not include weddings, celebratory gatherings, parties or regularly
+occurring similar uses.   [Ord. 18-02]
+
+AIRPORT -- Any land area, runway or other facility designed, used or intended to be
+used either publicly or by any person or persons for the landing and taking off of aircraft,
+
+Clatsop County Land and Water I-5 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+including all necessary taxiways, aircraft storage and tie-down areas, hangars, and
+other necessary buildings and open spaces.
+
+ALL TERRAIN VEHICLE (ATV) -- A vehicle defined in ORS 801.190-801.194.
+
+ALL TERRAIN VEHICLE (ATV) RECREATION AREA -- An area or tract of land where
+ATVs have been approved by Clatsop County for use.
+
+ALLEY -- A public right-of-way of 25 feet or less in width that provides a secondary
+means of access to public or private property. [ORD 25-02]
+
+ALTERATION, STRUCTURAL -- Any change or repair to the supporting members of a
+building or structure, including bearing walls, foundations, columns, beams, or girders.
+Any change in the external dimensions of the building shall be considered a structural
+alteration. [ORD 25-02]
+
+ANIMAL HOSPITAL/VETERINARY CLINIC – A building or facility that specializes in the
+medical care and treatment of animals, including overnight boarding. [ORD. 23-07]
+
+APPEAL -- A request for review of a decision made by the Community Development
+Director, Hearings Officer, Planning Commission or the Board of Clatsop County
+Commissioners. [ORD 25-02]
+
+APPLICANT -- Any person who makes an application to the Clatsop County Community
+Development Department. [ORD 25-02]
+
+AQUACULTURE -- The raising, feeding, planting and harvesting of fish, shellfish,
+aquatic plants or other aquatic organisms, including associated facilities necessary to
+engage in the use.
+
+AQUATIC AREAS -- Aquatic areas include the tidal waters, including subtidal areas and
+wetlands of the estuaries and non-tidal sloughs, streams, and wetlands within the
+shorelands area boundary. The lands underlying the waters are also included. The
+upper limit of aquatic areas is the upper limit of aquatic vegetation or, where such a line
+cannot be accurately determined, Mean Higher High Water (MHHW) in tidal areas or
+Ordinary High Water (OHW) in non-tidal areas.
+
+ARCHAEOLOGICAL SITE -- A geographic area in Clatsop County, including but not
+limited to submerged and submersible lands, but not the bed of the sea within the
+state’s jurisdiction, that contains archaeological objects as defined in ORS
+358.905(1)(a) and the contextual associations of the objects with:
+1) Each other; or
+2) Biotic or geological remains or deposits. Examples of archaeological sites
+include, but are not limited to shipwrecks, lithic quarries, house pit villages,
+camps, burials, lithic scatters, homesteads and townsites. [ORD 25-02]
+
+Clatsop County Land and Water I-6 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+AREA ZONED FOR RURAL RESIDENTIAL USE – Land that is not located inside an
+urban growth boundary as defined in ORS 195.060 and that is subject to an
+acknowledged exception to a statewide land use planning goal relating to farmland or
+forestland; and zoned to allow residential use as a primary use. [ORD. 23-03]
+
+AUTO, BOAT, TRAILER, RV SALES – Includes the sale or leasing of new or used cars,
+boats, trailers, and/or recreational vehicles (RVs); however, service, vehicle
+accessories, and parts sales may also be available. Some dealerships also include
+leasing option and a mix of vehicle types. [ORD. 23-07]
+
+AUTO WRECKING YARD -- Any property where two or more motor vehicles not in
+running condition, or the parts thereof, are stored in the open and are not being restored
+to operation; or any land, building or structure used for the wrecking or storing of such
+motor vehicles or the parts thereof.
+
+AUTOMOBILE RACETRACK – A facility that contains a racetrack, spectator seating,
+and parking, and may include a restaurant or refreshment area. [ORD. 23-07]
+
+AUTOMOBILE SERVICE STATION -- Any premises used for supplying gasoline, oil,
+minor accessories and services, excluding body and fender repair, for automobiles at
+retail direct to the customer.
+
+AUTOMOBILE AND OTHER VEHICLE SALES AREA -- An open area, other than a
+street, used for the display, sale or rental of new or used motor vehicles or trailers and
+where no repair work is done except minor incidental repair of motor vehicles or trailers
+to be displayed, sold or rented on the premises.
+
+AUXILIARY -- With respect to uses in the F-80 and AF zones, auxiliary means a use or
+alteration of a structure or land which provides help or is directly associated with the
+conduct of a particular forest practice. An auxiliary structure is located on site,
+temporary in nature, and is not designed to remain for the forest's entire growth cycle
+from planting to harvesting. An auxiliary use is removed when a particular forest
+practice has concluded.
+
+AVULSION -- A tearing away or separation by the force of water. Land which is
+separated from uplands or adjacent properties by the action of a stream or river cutting
+through the land to form a new stream bed.
+
+AWNING -- Any stationary structure other than a window awning for the purpose of
+providing shelter from the sun and rain, and having a roof with supports and not more
+than one wall or storage cabinet substitution for a wall. [ORD 25-02]
+
+BANKLINE ALTERATION -- Realignment of a stream bank or the entire stream, either
+within or without its normal highwater boundaries.
+
+BASEMENT -- A portion of a building which has less than half of its height, measured
+
+Clatsop County Land and Water I-7 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+from finished floor to finished
+ceiling, above the average finished
+grade of the adjoining ground. A
+basement is not considered a story
+unless the ceiling is 6 feet or more
+above the grade. [ORD 25-02]
+
+BEACH -- Gently sloping areas of
+loose material (e.g., sand, gravel
+and cobbles) that extend landward
+from the low-water line (extreme
+low tide) to a point where there is a
+definite change in the material type
+or landform, or to the line of year-
+round established vegetation.
+
+BEACH ACCESS, PUBLIC OR
+PRIVATE -- Trails or roads which
+provide access for the public to the
+beach.
+
+BEACH NOURISHMENT --
+Placement of sand material on
+actively eroding beach sites
+identified in the Dredged Material Management Plan to maintain the historic beach
+profile.
+Beach nourishment does not include creation of new land area or beaches and must
+provide for the protection of estuarine resources (including habitat, nutrient, fish, wildlife,
+and aesthetic resources). Dredged material may be used for beach nourishment.
+
+BED AND BREAKFAST FACILITY -- The use of a single-unit dwelling in which lodging
+and a morning meal for guests only are offered for compensation, having no more than
+5 sleeping rooms for this purpose. A bed and breakfast facility must be within the
+residence of the operator and be compliant with the requirements of ORS 624.010 to
+624.130. [ORD 18-02] [ORD 25-02] [ORD 25-16]
+
+BENEFICIAL USE -- The using of dredged material for some productive or beneficial
+purpose in a manner consistent with applicable laws, not harmful to the environment,
+and not in conflict with other uses authorized in this plan, such as fisheries and ports.
+“Beneficial use” includes the use of dredged materials to improve or enhance upland
+sites; to protect or stabilize beaches or shorelines; to enhance native and natural wildlife
+habitat; to enhance or create aquatic habitat; disposal at ocean beaches; or for
+construction purposes (for a road foundation, for example).
+
+BIOFUEL – As defined in ORS 315.141, “biofuel” means liquid, gaseous or solid fuels,
+derived from biomass, that have been converted into a processed fuel ready for use as
+
+Clatsop County Land and Water I-8 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+energy by a biofuel producer’s customers or for direct biomass energy use at the biofuel
+producer’s site. [ORD. 23-02]
+
+BLOCK -- A tract of land bounded by a street or by a combination of streets and public
+parks, cemeteries, railroad rights-of-way, drainageways, or unsubdivided land. [ORD
+25-02]
+
+BOARD -- The Board of County Commissioners, Clatsop County, Oregon.
+
+BOARDING HOUSE -- A building or portion thereof, other than a motel, bed and
+breakfast facility, restaurant or hotel, where meals or lodging or both are provided for
+compensation for three or more persons. [ORD. 24-14] [ORD 25-02]
+
+BOAT HOUSE -- A floating or pile-supported structure used for the protection and
+storage of a boat or boats.
+
+BOAT RAMP OR LAUNCH -- An improved sloped surface extending from a shoreland
+area into an aquatic area suitable for removing a boat from the water and launching a
+boat into the water from a trailer.
+
+BREAKWATER -- A protective navigational structure built of rock, concrete, steel, piling
+or constructed to float for the purpose of protecting the shore or facility behind the
+structure.
+
+BRIDGE CROSSING -- The portion of a bridge spanning a waterway not including
+supporting structures or fill located in the water or adjacent wetlands.
+
+BRIDGE CROSSING SUPPORT STRUCTURES -- Piers, piling, abutments, and similar
+structures necessary to support a bridge span but not including fill for causeways or
+approaches.
+
+BUILDING -- A structure built or placed for the support, shelter, or enclosure of persons,
+animals, chattels, or property of any kind.
+
+BUILDING LINE -- A line on the Comprehensive Plan, Zoning Map, or plat, parallel to
+the street right-of-way, indicating the limit beyond which buildings or structures may not
+be erected, or the minimum distance as prescribed by the provisions of this Ordinance
+between the front property line abutting a street and the closest point of the roof line of
+any building or structure related thereto.
+
+BUILDING PERMIT-- Written permission by the Clatsop County Building Codes Division
+for the construction, repair, alteration of or addition to a structure. [ORD 25-02]
+
+BULKHEAD -- A vertical wall of steel, timber or concrete used for erosion protection or
+as a retaining wall.
+
+Clatsop County Land and Water I-9 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+CAMPGROUND -- An area devoted to overnight temporary use for vacation,
+recreational or emergency purposes, but not for residential purposes. [Ord. 18-02]
+
+CAMPGROUND, PRIMITIVE -- Any area or tract of land where two or more campsites
+are located for both tent or trailer camping purposes or tent camping only. The
+campground is characterized by no sewage disposal hookups, no utilities, running water
+and pit toilets are provided nearby, and it may or may not include a flush toilet.
+
+CAMPSITE -- A space provided in a campground, primitive campground or recreational
+vehicle (RV) park which usually contains a table, stove, parking place and space for a
+tent to accommodate a one-family group.
+
+CARETAKER RESIDENCE -- A single dwelling unit which is used exclusively by the
+owner, manager or operator of a principal permitted use and which is located on the
+same parcel as the principal use. [ORD 25-02]
+
+CARPORT -- A covered shelter for a motorized vehicle, boat or recreational vehicle,
+which is open on two or more sides. [ORD 25-02]
+
+CEMETERY -- Land used or intended to be used for the burial of the dead and
+dedicated for cemetery purposes, including columbariums, mausoleums and
+mortuaries, when operated in conjunction with and within the boundary of such
+cemetery.
+
+CENTER OF THE SUBJECT TRACT – The mathematical centroid of the tract. [ORD
+23-02]
+
+CHANNELIZATION -- Diversion of flow from shallow areas into the main channel by
+dredging, pile dikes or other means to the degree that circulation is markedly decreased
+and sedimentation increased in the shallow areas.
+
+CHILD CARE CENTER – Means a child care facility, other than a family child care
+home, that is:
+1) Certified under ORS 329A.255; or [ORD. 23-04]
+2) Preschool recorded program or school-age recorded program recorded under
+ORS 329A.255; or
+3) Parent cooperative, as defined in ORS 329A.250. [ORD 25-16]
+
+CLEAR-VISION AREAS -- A triangular shaped portion of land established at street
+intersections in which nothing is erected, placed, planted, or allowed to grow in such a
+manner as to limit or obstruct the sight distance of motorists entering or leaving the
+intersection. (See 3.9530)
+
+CLINIC – Medical offices with outpatient treatment and no overnight stays. Urgent care
+is another term commonly used to describe this type of facility. [ORD. 23-07]
+
+Clatsop County Land and Water I-10 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+CLUSTER DEVELOPMENT -- A development technique wherein house sites or
+structures are grouped together around accessways or cul-de-sacs, with the remainder
+of the tract left in open space or common open space. Clustering can be carried out in
+the context of a major or minor partition, subdivision, planned development or through
+the replatting of existing lots. [ORD 25-02]
+
+COASTAL SHORELANDS -- Those areas immediately adjacent to the ocean, estuaries,
+associated wetland and coastal lakes. The extent of shorelands shall include at least:
+1) Areas subject to ocean flooding and lands within 100 feet of the ocean shore or
+within 50 feet of an estuary or coastal lake;
+2) Adjacent areas of geologic instability where the geologic instability is related or
+will impact a coastal water body;
+3) Natural or man-made riparian resources, especially vegetation necessary to
+stabilize the shoreline and to maintain water quality and temperature necessary
+for the maintenance of fish habitat and spawning areas;
+4) Areas of significant shoreland and wetland biological habitats whose habitat
+quality is primarily derived from or related to the association with coastal water
+areas;
+5) Areas necessary for water-dependent and water-related uses including areas of
+recreational importance which utilize coastal water or riparian resources; areas
+appropriate for navigation and port facilities, dredged material disposal and
+mitigation sites, and areas having characteristics suitable for aquaculture;
+6) Areas of exceptional aesthetic or scenic quality, where the quality is primarily
+derived from or related to the association with coastal water areas;
+7) Coastal headlands;
+8) Dikes and their associated inland toe drains; and
+9) Locations of archaeological or historical importance associated with the estuary.
+
+COFFEE KIOSK – Single-tenant coffee and donut restaurants with drive-through
+windows. Freshly brewed coffee and a variety of coffee-related accessories are the
+primary retail products sold at these sites. They may also sell other  refreshment items,
+such as donuts, bagels, muffins cakes, sandwiches, wraps, salads, and other hot and
+cold beverages. [ORD. 23-07]
+
+COMMERCIAL DAIRY FARM: A commercial dairy farm is a dairy operation that owns a
+sufficient number of producing dairy animals capable of earning the gross annual
+income required by this Article/Chapter from the sale of fluid milk. [Ord. 18-02]
+
+COMMERCIAL POWER GENERATING FACILITY -- A facility for the production of
+energy and its related or supporting facilities that:
+1) Generates energy using means listed in ORS or OAR such as solar power, wind
+power, fuel cells, hydroelectric power, thermal power, geothermal power, landfill
+gas, digester gas, waste, dedicated energy crops available on a renewable basis
+or low-emission, nontoxic biomass based on solid organic fuels from wood, forest
+or field residues but not including the production of biofuel as authorized by ORS
+215.203(2)(b)(K) in all zones that allow “Farm Use” and 215.283(1)(r) and
+
+Clatsop County Land and Water I-11 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+215.283(2)(a) in the EFU zone;
+2) Is intended to provide energy for sale; and
+3) Does not include a net metering project established consistent with ORS 757.300
+and OAR chapter 860, division 39 or a Feed-in-Tariff project established
+consistent with ORS 757.365 and OAR chapter 860, division 84.
+[Ord. 18-02]
+
+COMMERCIAL TREE SPECIES -- Trees recognized for commercial production under
+rules adopted by the State Board of Forestry pursuant to ORS 527.715. [Ord. 18-02]
+
+COMMON OPEN SPACE -- See Open Space definition.
+
+COMMUNICATION FACILITIES -- Power and communication lines and towers,
+antennas and microwave receivers.
+
+COMPREHENSIVE PLAN -- A generalized, coordinated land use map and policy
+statement of the governing body of a local government that interrelates all functional
+and natural systems and activities relating to the use of lands, including but not limited
+to sewer and water systems, transportation systems, educational facilities, recreational
+facilities, and natural resources and air and water quality management programs.
+“Comprehensive” means all-inclusive, both in terms of geographic area covered and
+functional and natural activities and systems occurring in the area covered by the plan.
+“General nature” means a summary of policies and proposals in broad categories and
+does not necessarily indicate specific locations of any area, activity or use. A plan is
+“coordinated” when the needs of all levels of governments, semi-public and private
+agencies and citizens of Oregon have been considered and accommodated as much as
+possible. “Land” includes water, both surface and subsurface, and the air.
+
+CONDITIONAL USE -- A type of development which requires special consideration prior
+to being permitted in a particular zone because of its possible impact on adjacent
+developments, land and water resources and the growth and development of the
+County. [ORD 25-02]
+
+CONDOMINIUM – A form of ownership where the owner has a deed to a volume of
+space and is governed by the provisions of ORS Chapter 100. [ORD 25-02]
+
+CONFINED AQUATIC PLACEMENT – A type of in-water dredge material placement
+where new structures are added to retain dredged material within the site, at locations
+where material would otherwise be transported by natural riverine processes resulting in
+adverse effects such as increased shoaling in the Lower Columbia River Federal
+Navigation Channel. The structures are installed first and then dredged material is
+placed between the structures where it is protected from erosion. [ORD. 25-05]
+
+CONGREGATE CARE FACILITY – An independent living development that provides
+centralized amenities such as dining, housekeeping, communal transportation, and
+organized social/recreational activities. Each individual dwelling unit often has a
+
+Clatsop County Land and Water I-12 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+kitchenette, rather than a full kitchen. Limited medical services, such as nursing and
+dental may be provided. [ORD. 23-07]
+
+CONTESTED CASE -- A proceeding in which the legal rights, duties, or privileges of
+specific parties under general rules or policies provided under ORS 215.010 to 215.422,
+or an ordinance, rule of regulation adopted pursuant thereto, are required to be
+determined only after a hearing at which specific parties are entitled to appear and be
+heard.
+
+CONTIGUOUS – Tax lots or parcels that have a common boundary. Contiguous lots or
+parcels include those that are under common ownership and separated by a public
+road. [Ord. 18-02]
+
+CONVENIENCE MARKET – These markets sell convenience foods, newspapers,
+magazines, and often beer and wine; they do not have gasoline pumps. [ORD.23-07]
+
+CONVENIENCE STORE WITH GAS PUMPS – Gasoline/service stations with
+convenience markets where there is significant business related to the sale of
+convenience items and the fueling of motor vehicles. Some commonly sold convenience
+items include freshly brewed coffee, daily-made donuts, bakery items, hot and cold
+beverages, breakfast items, dairy items, fresh fruits, soups, light meals, ready-to-go and
+freshly made sandwiches and wraps, and ready-to-go salads. Stores typically have
+automated teller machines (ATMs), and public restrooms. [ORD. 23-07]
+
+COOKING FACILITIES – Are defined as stoves, ovens or other equipment designed to
+prepare hot meals that utilize a 220-volt outlet or any non-electrical fuel sources.
+Cooking facilities do not include a single hot plate, microwave, toaster over, air fryer,
+toaster or similar plug-in countertop appliance. [ORD 25-02]
+
+COTTAGE CLUSTER – A grouping of at least four detached dwelling units per acre.
+Dwelling units have a building footprint of less than 900 square feet per dwelling unit
+that includes a common courtyard with at least 150 square feet per cottage. Units may
+be located on a single lot or parcel or on individual lots or parcels. A maximum of eight
+cottages shall be permitted per courtyard. For example, 150 square feet of common
+courtyard area for eight cottages equals 1,200 square feet of common courtyard area.
+[ORD. 24-14]
+
+COTTAGE CLUSTER PROJECT – A development site with one or more cottage
+clusters. Each cottage cluster as part of a cottage cluster project must have its own
+common courtyard. [ORD. 24-14]
+
+COUNTY -- The County of Clatsop, Oregon.
+
+COUNTY ROAD -- See Road, County.
+
+COURT -- An open occupied space, other than a yard, on the same lot with a building
+
+Clatsop County Land and Water I-13 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+and enclosed on two (2) or more sides by such building.
+
+CUBIC FOOT PER ACRE -- The average annual increase in cubic foot volume of wood
+fiber per acre for fully stocked stands at the culmination of mean annual increment as
+reported by the USDA Natural Resource Conservation Service (NRCS) soil survey. The
+cubic foot per acre value is calculated by dividing the total volume of the stand by its
+age, at the point where the stand reaches its maximum annual rate of growth. [Ord. 18-
+02]
+
+CUBIC FOOT PER ACRE PER YEAR -- The average annual increase in cubic foot
+volume of wood fiber per acre for fully stocked stands at the culmination of mean annual
+increment as reported by the USDA Natural Resource Conservation Service (NRCS)
+soil survey. [Ord. 18-02]
+
+CULTURAL AREAS – Archaeological sites, landscape features of cultural interest, and
+sites where both are present. Also referred to as “cultural resource site”. [ORD 25-02]
+
+CULTURED CHRISTMAS TREES -- Means trees:
+1) Grown on lands used exclusively for that purpose, capable of preparation by
+intensive cultivation methods such as plowing or turning over the soil;
+2) Of a marketable species;
+3) Managed to produce trees meeting U.S. No. 2 or better standards for Christmas
+trees as specified by the Agriculture Marketing Services of the U.S. Department
+of Agriculture; and
+4) Evidencing periodic maintenance practices of shearing for Douglas Fir and pine
+species, weed and brush control and one or more of the following practices:
+Basal pruning, fertilizing, insect and disease control, stump culture, soil
+cultivation, irrigation.
+
+DATE OF CREATION AND EXISTENCE – In farm and forest zones, when a lot, parcel
+or tract is reconfigured pursuant to applicable law after November 4, 1993, the effect of
+which is to qualify a lot, parcel or tract for the siting of a dwelling, the date of the
+reconfiguration is the date of creation or existence. Reconfigured means any change in
+the boundary of the lot, parcel, or tract.  [Ord. 18-02]
+
+DE NOVO HEARING – A hearing by the reviewing body as if the action had not been
+previously heard and as if no decision has been rendered, except that all testimony,
+evidence and other material from the record of the previous consideration shall be
+included in the record of the review. [ORD 25-02]
+
+DECK -- A flat floored area adjoining a house, greater than 30 inches above finished
+grade. Decks may be either covered or uncovered. (see also Patio). [ORD 25-02]
+
+DESTINATION RESORTS -- A destination resort is a self-contained development
+providing primarily visitor-oriented accommodations and developed recreation facilities.
+[ORD 25-02]
+
+Clatsop County Land and Water I-14 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+
+The following uses are not considered destination resorts:
+1) Cities or planned communities
+2) Recreational vehicle parks
+3) Campgrounds
+4) Rural subdivision or planned development
+5) Amusement parks
+6) Schools or academies
+7) Hunting, fishing lodges, or cabins
+8) Hotels or motels
+9) Organization camps, campgrounds or centers
+
+DEVELOPMENT -- Any human-made change to improved or unimproved real estate,
+including but not limited to: construction, reconstruction, conversion, relocation or
+enlargement of any structure; any mining, excavation, landfill or land disturbance, any
+use or extension of the use of land.
+
+DIKES -- With regard to flood protection, a structure designed and built to prevent
+inundation of a parcel of land by water. With regard to dredged material disposal, a
+structure consisting of sediments, rock, or other material designed to contain the
+dredged material and allow for settling of solids in a specific area while it is being
+deposited and after deposition has occurred. A dike is considered new when placed on
+an area which: (1) has never previously been diked, or (2) has previously been diked,
+but all or a substantial part of the area is subject to daily inundation and tidal marsh has
+been established. Maintenance and repair refer to: (1) existing serviceable dikes
+(including those that allow some seasonal inundation), and (2) those that have been
+damaged by flooding, erosion, tide gate failure, etc., but where reversion to tidal marsh
+has not yet occurred, or where repair work is commenced within 36 months of the
+breach regardless if the area has reverted to estuarine habitat.  Dike is synonymous
+with levee as defined in CREST’s 2002 Columbia River Estuary Dredged Material
+Management Plan.
+
+DIRECTOR -- The Community Development Director, the administrative official of
+Clatsop County, or duly authorized representative, designated to administer the
+responsibilities of the Department of Community Development. [ORD 25-02]
+
+DISCRETIONARY LAND USE REVIEW – A land use review procedure that relies on
+standards or criteria that require interpretation or the exercise of policy or legal
+judgment. Discretionary land use reviews are processed under the Type II, III, or IV
+review procedures, as defined in Article 2.
+
+DISPOSAL SITE -- Land and facilities used for the disposal, handling or transfer of
+resource recovery from solid wastes, including but not limited to dumps, landfills, sludge
+lagoons, sludge treatment facilities, disposal sites for septic tank pumping or cesspool
+cleaning service, transfer stations, resource recovery facilities, incinerators for solid
+waste delivered by the public or by a solid waste collection service, composting plants
+
+Clatsop County Land and Water I-15 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+and land and facilities previously used for solid waste disposal at a land disposal site;
+but the term does not include a facility subject to the permit requirements of ORS
+468.740 (wastewater disposal); a landfill site which is used by the owner or person in
+control of the premises to dispose of soil, rock, concrete, or other similar on
+decomposable material, unless the site is used by the public either directly or through a
+solid waste collection service; or a site operation by a wrecker issued a certificate under
+ORS 822.110.
+
+DISTRIBUTION LINES -- For natural gas - the act of distributing gas from the plant to
+the customer. For electric - the act of distributing electric power using low voltage
+transmission lines that deliver power to retail customers.
+
+DOCKS -- A pier or secured float or floats for vessel moorage, fishing, or other water
+use.
+
+DREDGED MATERIAL -- Sediments, gravels and other solids removed from an aquatic
+area.
+
+DREDGED MATERIAL DISPOSAL -- The deposition of dredged material in aquatic
+areas or land areas. Methods include land disposal (deposition in specific land areas or
+on the tops and landward sides of flood protection dikes) and in-water disposal
+(including beach nourishment, flowlane disposal, expanded flowlane/thalweg disposal,
+ocean disposal, estuarine open-water disposal, and agitation dredging). [ORD. 24-18]
+
+DREDGING -- The extraction or displacement of aquatic sediment or other material for
+the
+purpose of maintaining or deepening a navigation channel, mooring basin or other
+navigational areas, obtaining fill material or mining and mineral extraction.
+
+DRIFT RIGHT -- A specific area or section of river bottom that has been cleared of
+snags and sunken debris and is shared and actively managed by a group of fisherman
+as their fishing grounds.
+
+DRIVEWAY -- An improved travel surface, on privately owned property and maintained
+by private funds for the exclusive use of private parties, that is intended to provide
+access from a federal, state, county, public, or private road to no more than two lots,
+parcels, areas or tracts of land.
+
+DUCK SHACK -- A structure having no permanent water or sewage treatment
+connection which is used to store recreational equipment meant for hunting waterfowl.
+
+DUNE -- A hill or ridge of sand built up by wind along sandy coasts.
+
+DUNE, ACTIVE -- A dune that migrates, grows and diminishes from the force of wind
+and supply of sand. Active dunes include all open sand dunes, active hummocks, and
+active foredunes.
+
+Clatsop County Land and Water I-16 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+
+DUNE, CONDITIONALLY STABLE -- A dune which is presently in a stable condition,
+but vulnerable to becoming active due to fragile vegetative cover.
+
+DUNE, INTERDUNE AREA -- A low lying area between higher sand land forms which is
+generally under water during part of the year. Interdune areas are characterized by a
+deflation plain which is wind scoured to the level of the summer water table.
+
+DUNE, OLDER STABILIZED -- A dune that is stable from wind erosion, has significant
+soil development, and that may include diverse forest cover. May include older
+foredunes.
+
+DUNE, OPEN SAND -- A collective term for active unvegetated dune land forms.
+
+DUNE, RECENTLY STABILIZED -- A dune with sufficient vegetation to be stabilized
+from wind erosion, but with little, if any, development of soil or cohesion of sand under
+the vegetation. Recently stabilized dunes include conditionally stable foredunes,
+conditionally stable dunes, dune complexes, and younger stabilized dunes.
+
+DUNE, YOUNGER STABILIZED -- A wind stable dune with weakly developed soils and
+vegetation.
+
+DWELLING TYPES -- For the purpose of this Ordinance, dwellings are separated into
+the following categories and defined as follows:
+1) DWELLING, ATTACHED – Two or more dwelling units attached by common
+walls, roof or other structural part, at a common property line between separate
+lots or parcels.
+2) DWELLING, DETACHED – A single dwelling unit whose construction does not
+share a common wall, roof or other structural part with another unit. The term
+“dwelling, detached” includes manufactured dwellings and prefabricated
+dwellings.
+3) DWELLING, DUPLEX – Two attached or detached dwelling units on a single lot
+or parcel.
+4) DWELLING, HEALTH HARDSHIP – A manufactured dwelling or recreational
+vehicle, or the temporary use of an existing building, in conjunction with an
+existing dwelling as a temporary use for the term of a health hardship suffered by
+the existing residents or a relative of the resident.
+5) DWELLING, MULTI-UNIT – Five or more attached dwelling units on a lot or
+parcel.
+6) DWELLING, QUADPLEX – Four attached dwelling units on a lot or parcel.
+7) DWELLING, TRIPLEX – Three attached dwelling units on a lot or parcel. [ORD.
+24-14] [ORD 25-02]
+
+DWELLING UNIT – A single unit designed for residential occupancy for living purposes
+providing complete independent living facilities including permanent spaces for living,
+sleeping, eating, cooking and sanitation. [ORD 25-02]
+
+Clatsop County Land and Water I-17 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+
+DWELLING UNIT, ACCESSORY (ADU) – An attached or detached dwelling unit that is
+secondary to the primary dwelling unit. The unit includes its own independent living
+facilities with provisions for living, sleeping, eating, cooking, and sanitation, and is
+designed for residential occupancy independent of the primary dwelling unit. A single-
+unit dwelling with an accessory dwelling unit (ADU), as defined herein, located within
+one of the rural community zones shall not be considered a duplex or multi-unit
+dwelling. [ORD 25-02] [ORD 25-16]
+
+EASEMENT -- A non-possessory interest in the land of another which entitles the owner
+of the interest to a limited use or enjoyment of the other's land and protection from
+interference with this use.
+
+EFFLUENT -- With regard to water quality, treated or untreated liquid entering the
+estuary from a point source. With regard to dredging, water, including dissolved and
+suspended materials, which flows from a dredged material disposal site.
+
+EMERGENCY – A human created or natural event or circumstance that causes or
+threatens widespread loss of life, injury to person or property, human suffering or
+financial loss, including but not limited to:
+(a) Fire, wildfire, explosion, flood, severe weather, landslides or mud slides,
+drought, earthquake, volcanic activity, tsunamis or other oceanic phenomena,
+spills or releases of oil or hazardous material, contamination, utility or
+transportation emergencies, disease, blight, infestation, civil disturbance, riot,
+sabotage, acts of terrorism and war; and
+(b) A rapid influx of individuals from outside this state, a rapid migration of
+individuals from one part of this state to another or a rapid displacement of
+individuals if the influx, migration or displacement result form the type of event
+or circumstance described in paragraph (a) of this subsection. [ORD 23-13]
+
+EMERGENCY CONDITIONS IN ESTUARINE AREAS -- Emergency conditions are
+limited to activities such as bankline or streamline alteration, dike repair, fill, and
+shoreline stabilization undertaken during high water and/or storm conditions.
+Emergency activities affecting removal of material from estuarine aquatic areas or filling
+of estuarine aquatic areas are those necessary for preventing irreparable harm, injury or
+damage to persons or property. The Oregon Division of State Lands requires
+notification within 24 hours following the start of emergency activities. Measures taken
+as a result of emergency conditions will be inspected following notification and denied or
+approved. [ORD. 23-13]
+
+EMPLOYEE HOUSING – Dwelling units provided by an employer for employees. [ORD.
+24-14]
+
+ESTUARINE ENHANCEMENT -- An action which results in a long-term improvement of
+existing estuarine functional characteristics and processes that is not the result of a
+creation or restoration action.
+
+Clatsop County Land and Water I-18 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+
+ESTUARINE OPEN-WATER DREDGED MATERIAL DISPOSAL -- All type of in-water
+dredged material disposal within the estuary which do not fall into the classifications of
+flowlane disposal, expanded flowlane/thalweg disposal, beach nourishment, sump
+disposal, agitation dredging and disposal to provide fill material for an approved aquatic
+area fill project. [ORD. 24-18]
+
+ESTUARY -- A body of water semi-enclosed by land, connecting with the open ocean,
+and within which salt water is diluted by freshwater derived from the land. The estuary
+includes: estuarine water, intertidal areas, and submerged lands. The Columbia River
+Estuary, for regulatory purposes, extends to the Columbia River Mile 38, and to the
+head of tide for all tributaries. [ORD. 25-08]
+
+EVENT, TEMPORARY – An event that is held primarily on or is using Public Property
+that has an expected attendance of more than [50], but no more than [500] people, that
+will not continue for more than [72] hours in any three month period, and that will be
+located in a rural or resource area. Temporary Events are permitted through a
+ministerial/Type I or Temporary Use process and are not considered “outdoor mass
+gatherings” as defined by ORS 433.735 or Agri-tourism events as provided for by ORS
+215.283(4). [Ord. 18-02]
+
+EXCAVATE -- The removal by man of sand, sediment, or other material from an area of
+land or water for other than commercial or industrial use.
+
+EXCEPTION AREA -- An area no longer subject to the requirements of one or more of
+the Statewide Planning Goals because the area is the subject of a site specific
+exception acknowledged pursuant to ORS 197.732 and OAR Chapter 660, Division 4.
+
+EXANDED FLOWLANE/THALWEG DISPOSAL – Disposal of dredged material in
+contours of 20 feet in depth or greater that are contiguous with the Federal Navigation
+Channel, and which may occur in areas designated Conservation Other Resources.
+[ORD. 24-18]
+
+EXPLORATION FOR MINERAL AND AGGREGATE RESOURCES -- All activities
+conducted on or beneath the surface of the earth for the purpose of determining
+presence, location, extent, grade, or economic viability of a deposit. “Exploration” does
+not include prospecting or chemical processing of minerals. “Minerals” includes soil,
+coal, clay, stone, sand, gravel, metallic ore and any other solid material or substance
+excavated for commercial, industrial or construction use from natural deposits situated
+within or upon lands in this state.
+
+FAMILY – A group of persons living together as one housekeeping unit using one
+kitchen. [ORD. 23-02]
+
+FAMILY CHILD CARE HOME – Means a home that is registered or certified by the
+Oregon Department of Education Office of Child Care to provide child care in the
+
+Clatsop County Land and Water I-19 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+provider’s home to not more than 16 children, including children of the provider,
+regardless of full-time or part-time status. A family child care home is a residential use.
+[ORD. 23-04]
+
+FARM OPERATOR -- A person who operates a farm, doing the work and making the
+day-to-day decisions about such things as planting, harvesting, feeding and marketing.
+[Ord. 18-02]
+
+FARM OR RANCH OPERATION -- All lots or parcels of land in the same ownership that
+are used by the farm or ranch operator for farm use as defined in ORS 215.203(2).
+[Ord. 18-02]
+
+FARM PRODUCT PROCESSING FACILITY – A facility for:
+10) Processing farm crops, including the production of biofuel, if at least one-quarter
+of the farm crops come from the farm operation containing the facility; or
+11) Slaughtering, processing or selling poultry or poultry products from the farm
+operation containing the facility and consistent with the licensing exemption for a
+person under ORS 603.038(2). [ORD. 23-02]
+
+FARM STAND STRUCTURE -- A structure that is designed and used for the sale of
+farm crops and livestock as provided in the definition of FARM USE. A food stand is
+considered to be a farm stand structure. [Ord. 18-02]
+
+FARM USE -- The current employment of land for the primary purpose of obtaining a
+profit in money by raising, harvesting and selling crops or the feeding, breeding,
+management and sale of, or the produce of, livestock, poultry, fur-bearing animals or
+honeybees or for dairying and the sale of dairy products or any other agricultural or
+horticultural use or animal husbandry or any combination thereof. "Farm use" includes
+the preparation and storage of the products raised on such land for human use and
+animal use and disposal by marketing or otherwise. “Farm use” also includes the
+current employment of land for the primary purpose of obtaining a profit in money by
+stabling or training equines including but not limited to providing riding lessons, training
+clinics and schooling shows. "Farm use" also includes the propagation, cultivation,
+maintenance and harvesting of aquatic species. It does not include the use of land
+subject to the provisions of ORS Chapter 321, except land used exclusively for growing
+cultured Christmas subsection ORS 215.203(3) or land described in ORS 321.267(1)(e)
+or 321.415(5). “Current Employment”, as used in this definition, includes:
+1) Farmland, the operation or use of which is subject to any farm-related
+government program;
+2) Land lying fallow for one year as a normal and regular requirement of good
+agricultural husbandry;
+3) Land planted in orchards or other perennials, other than land specified in sub-
+paragraph (4) of this paragraph, prior to maturity;
+
+Clatsop County Land and Water I-20 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+4) Land not in an Exclusive Farm Use zone which has not been eligible for
+assessment at special farm use value in the year prior to planting the current
+crop and has been planted in orchards, cultured Christmas trees or vineyards for
+at least three years;
+5) Wasteland, in an Exclusive Farm Use zone, dry or covered with water, neither
+economically tillable nor grazeable, lying in or adjacent to and in common
+ownership with a farm use land and which is not currently being used for an
+economic farm use;
+6) Land under buildings supporting accepted farm practices;
+7) Water impoundments lying in or adjacent to and in common ownership with farm
+use land;
+8) Any land constituting a woodlot, not to exceed 20 acres, contiguous to and
+owned by the owner of land specially valued for farm use event if the land
+constituting the woodlot is not utilized in conjunction with farm use;
+9) Land lying idle for no more than one year where the absence of farming activity is
+due to the illness of the farmer or member of the farmer’s immediate family. For
+purposes of the paragraph, illness includes injury or infirmity whether or not such
+illness results in death;
+10) Any land described under ORS 321.267(1)(e) or 321.415(5); and
+11) Any land in an Exclusive Farm Use zone used for the storage of agricultural
+products that would otherwise be disposed of through open field burning or
+propane flaming.
+
+FARM USE, COMMERCIAL ACTIVITY IN CONJUNCTION WITH -- The processing,
+packaging, treatment, wholesale distribution and storage of a product primarily derived
+from farm activities in the local agricultural community. Also includes retail sales of
+products, supplies and services, which may be offered in a farm stand structure, to the
+agricultural community that support the production and harvesting of agricultural
+products. [Ord. 18-02]
+
+FARMWORKER HOUSING-- Housing limited to occupancy by farmworkers and their
+immediate families, no dwelling unit of which is occupied by a relative of the owner or
+operator of the farmworker housing. [Ord. 18-02]
+
+FEDERAL NAVITATION CHANNEL – A federally-maintained passage in a stretch of
+water where the river bed has been deepened to allow access to large vessels. [ORD.
+24-18]
+
+FENCE, SIGHT OBSCURING -- A fence consisting of wood, metal or masonry, or an
+evergreen hedge or other evergreen planting, arranged in such a way as to obstruct
+vision.
+
+FILL -- The placement by man of sand, sediment or other material to create new
+uplands or raise the elevation of the land.
+
+FINANCIAL INSTITUTION – A business establishment in which money is kept for
+
+Clatsop County Land and Water I-21 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+savings or commercial purposes, or is invested, supplied for loads, or exchanged. This
+term shall include credit unions and similar establishments which typically include
+automatic teller machines (ATMs) and drive-through facilities. [ORD. 23-07]
+
+FLATS -- Intertidal and all subtidal areas with low slopes and current velocities, and
+usually consisting of relatively fine sediments.
+
+FLOATING RESIDENCE -- A dwelling unit which floats on a water body and is designed
+such that it does not come into contact with land except by ramp. Floating residences
+may also be referred to as floating homes or houseboats. A floating residence is not
+equivalent to a duck shack or other similar recreational structure designed for temporary
+use. It is also not equivalent to a boathouse, designed for storage of boats.
+
+FLOOD INSURANCE RATE MAP (FIRM) -- An official map of a community, on which
+the Federal Insurance administrator has delineated both the special hazard areas and
+the risk premium zones applicable to the community. [Ord. 18-02]
+
+FLOOR AREA, GROSS (GFA) – The total area of all enclosed space within a building.
+Gross floor area is measured from exterior building walls on all floors of a building or
+structure. Also referred to as gross square feet, or GSF. [ORD 25-02]
+
+FLOOR AREA, HABITABLE -- The sum of the area of all enclosed space within a
+building, measured from the exterior faces of the exterior walls or from the center line of
+walls separating two or more attached dwellings or buildings. Floor Area does not
+include:
+1) Uninhabitable attic spaces and crawlspaces providing headroom of less than
+seven feet measured from the highest point of the finished ceiling to the top of
+the finished floor surface.
+2) Basements, if more than 50% of the height of the basement is below grade.
+3) Uncovered steps or fire escapes.
+4) Private garages, carports or porches.
+5) Water towers or cooling towers.
+6) Off-street parking or loading spaces.
+7) Vent shafts. [ORD 25-02]
+
+FLOWLANE DISPOSAL -- Disposal of dredged material in the flow lane, in a location
+where the prevailing sediment transport is in a downstream direction.
+
+FLOWLANE DREDGED MATERIAL DISPOSAL -- Deposition of dredged material in or
+adjacent to a natural or maintained navigational channel in a location where the
+prevailing sediment transport will carry the material downstream.  [ORD. 24-18]
+
+FLUSHING TIME -- The length of time required to remove an introduced pollutant from
+a body of water through tidal or fresh water flow.
+
+FOREDUNE, ACTIVE -- An unstable barrier ridge of sand paralleling the beach and
+
+Clatsop County Land and Water I-22 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+subject to wind erosion, water erosion, and growth from new sand deposits. Active
+foredunes may include areas with beach grass, and occur in sand spits and at river
+mouths as well as elsewhere.
+
+FOREDUNE BREACHING – The alteration of the crest of an active foredune or
+conditionally stable foredune or conditionally stable foredune where alteration is not
+conducted as part of a foredune grading plan or remedial grading.
+
+FOREDUNE, CONDITIONALLY STABLE -- An active foredune that has ceased
+growing in height, and that has become conditionally stable with regard to wind erosion.
+
+FOREDUNE GRADING – The alteration of active dunes in a manner that changes their
+shape and height. Foredune grading is intended to be preventative and is undertaken
+primarily for view enhancement.
+
+FOREDUNE, OLDER -- A conditionally stable foredune that has become wind stabilized
+by diverse vegetation and soil development.
+
+FOREST LANDS -- Those lands acknowledged as forest lands in the Comprehensive
+Plan. Where a plan amendment involving forest lands is proposed, forest land shall
+include lands which are suitable for commercial forest uses including adjacent or nearby
+lands which are necessary to permit forest operations or practices and other forested
+land that maintain soil, air, water, scenic resources, and fish and wildlife resources.
+Land use exclusively for growing cultured Christmas trees is not included in this
+definition of forest lands.
+
+FOREST MANAGEMENT FACILITY -- Permanent or temporary structure(s) to provide
+workspace, storage, repair, operational base, communication site and support for the
+management of public or private forest lands.
+
+FOREST MANAGEMENT, RESEARCH AND EXPERIMENTATION FACILITIES --
+Facilities needed by the State Board of Higher Education to conduct research and
+experimentation programs to develop the maximum yield from the forest lands of
+Oregon to obtain the fullest utilization of the forest resource, and to study air and water
+pollution as it relates to the forest products industries.
+
+FOREST OPERATION -- Any commercial activity relating to the growing, harvesting or
+management of any forest tree species as defined in ORS 527.620(6). [Ord. 18-02]
+
+FRONTAGE -- All the property that abuts a public or private street, measured along the
+street line. [ORD 25-02]
+
+Clatsop County Land and Water I-23 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+FULL CUT-OFF LIGHTING -- A luminaire light
+distribution where zero candela intensity occurs at
+an angle of 90 degrees above nadir, and at all
+greater angles from nadir. Additionally, the
+candela per 1000 lamp lumens does not exceed
+100 (10 percent) at a vertical angle of 80 degrees
+above nadir. This applies to all lateral angles
+around the luminaire. (See Image)
+
+GARAGE, PRIVATE -- See “ACCESSORY STRUCTURE, DETACHED”. [ORD 25-02]
+
+GARAGE, PUBLIC -- A deck, building or part thereof used for repair or storage of
+vehicles for remuneration by the owner and/or employees of said garage.
+
+GAS -- All natural gas and all other fluid hydrocarbons not defined as oil, including
+condensate originally in the gaseous phase in the reservoir.
+
+GAS OIL WELL -- A well from which oil or gas is obtained.
+
+GEOLOGIC -- Relating to the occurrence and properties of earth. Geologic hazards
+include faults, land and mudslides, and earthquakes.
+
+GOLF COURSE -- An area of land with highly maintained natural turf laid out for the
+game of golf with a series of nine or more holes, each including a tee, a fairway, a
+putting green, and often one or more natural or artificial hazards. A "golf course" for
+purposes of this ordinance means a nine- or 18-hole regulation golf course or a
+combination nine- and 18-hole regulation golf course consistent with the following:
+1) A regulation 18-hole golf course is generally characterized by a site of about 120
+to 150 acres of land, has a playable distance of 5,000 to 7,200 yards, and a par
+of 64 to 73 strokes;
+2) A rule nine-hole golf course is generally characterized by a site of about 65 to 90
+acres of land, has a playable distance of 2,500 to 3,600 yards, and a par of 32 to
+36 strokes.
+[Ord. 18-02]
+
+GOLF COURSE, NON-REGULATION -- A golf course or golf course-like development
+that does not meet the definition of golf course in this rule, including but not limited to
+executive golf courses, par 3 golf courses, pitch and putt golf courses, miniature golf
+courses, driving ranges and Frisbee golf. Non-regulation golf courses are not permitted
+on lands zoned EFU or AF. [Ord. 18-02]
+
+Clatsop County Land and Water I-24 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+
+GOVERNING BODY -- A City Council,
+County Board of Commissioners, or
+County Court or its designate, including
+Community Development Director,
+Hearings Office, Planning Commission or
+as provided by Oregon law.
+
+GRADE, AVERAGE -- The average
+elevation of the undisturbed ground prior to
+construction at the four principal corners of
+the proposed structure. See diagram at
+right.
+
+GRAZING -- The use of land for pasture of
+horses, cattle, sheep, goats and/or other domestic herbivorous animals, alone or in
+conjunction with agricultural pursuits.
+
+GROINS -- A partial barrier to waterflow, that is constructed of rock and designed to
+interrupt sand movement along a shore.
+
+GROSS LEASABLE AREA (GLA) -- The portion of GFA that is available for lease to a
+tenant. GLA is equal to GFA minus common areas that are not leased to tenants. These
+common areas include spaces for circulation between tenant spaces (lobbies, elevator
+cores, stairs, corridors, and atriums), utility / mechanical spaces and parking areas.
+[ORD 25-02]
+
+GUEST HOUSE -- An accessory building, studio, or other habitable space/structure,
+used in conjunction with the main dwelling for the temporary housing of non-paying
+visitors and guests. A guesthouse is not an independent dwelling unit. [ORD. 23-03]
+[ORD 25-02]
+
+GUEST ROOMS -- Any room or rooms used or intended to be used by a guest for
+sleeping purposes. Every 100 square feet of habitable floor area in a dormitory shall be
+considered to be a guest room. [ORD 25-02]
+
+HEALTH/FITNESS CLUB – A privately-owned facility that primarily focuses on
+individual fitness or training. It typically provides exercise classes, fitness equipment,
+gymnasium, weight room, spa, and locker rooms. May also include ancillary facilities
+such as a swimming pool, whirlpool, sauna, limited retail, and tennis, racquetball or
+handball courts or a small restaurant or snack bar. [ORD. 23-07]
+
+Clatsop County Land and Water I-25 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+HEIGHT, BUILDING --
+The vertical distance
+measured from the
+average undisturbed
+ground to the highest
+point on the building or
+structure excluding
+chimneys, utility vents,
+and antennas. See
+diagram at right. [ORD
+25-02]
+
+HIGH VALUE FARM LAND -- Is described as:
+1) High Value Farmland: Land in a tract composed predominantly of soils that are:
+a) Irrigated and classified prime, unique, Class I or II; or
+b) Not irrigated and classified prime, unique, Class I or II.
+2) In addition to that land described in Subsection 1), high-value farmland, if outside
+the Willamette Valley, includes tracts growing specified perennials as
+demonstrated by the most recent aerial photography of the Agricultural
+Stabilization and Conservation Service of the U.S. Department of Agriculture
+taken prior to November 4, 1993. "Specified perennials" means perennials grown
+for market or research purposes including, but not limited to, nursery stock,
+berries, fruits, nuts, Christmas trees, or vineyards, but not including seed crops,
+hay, pasture or alfalfa;
+3) In addition to that land described in Subsection 1), high-value farmland, if west of
+the summit of the Coast Range and used in conjunction with a dairy operation on
+January 1, 1993, includes tracts composed predominantly of the following soils in
+Class III or IV or composed predominantly of a combination of the soils described
+in Subsection 1) and the following soils:
+a) Subclassification IIIe, specifically, Astoria, Hembre, Knappa, Meda,
+Quillayutte and Winema;
+b) Subclassification IIIw, specifically, Brenner and Chitwood;
+c) Subclassification IVe, specifically, Astoria, Hembre, Meda, Nehalem,
+Neskowin and Winema; and
+d) Subclassification IVw, specifically, Coquille.
+[Ord. 18-02]
+
+HISTORIC HOME – A single-unit dwelling constructed between 1850 and 1945. [ORD.
+23-03] [ORD. 25-16]
+
+HISTORICAL RESOURCE -- Those districts, sites, buildings, structures, and artifacts
+which have a relationship to events or conditions of the human past.
+
+HOME OCCUPATION – A lawfully approved commercial activity operated within a
+dwelling unit or attached or detached accessory structure. [ORD 25-02]
+
+Clatsop County Land and Water I-26 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+HOSPITAL – A hospital is any institution where medical or surgical care and overnight
+accommodations are provided to non-ambulatory and ambulatory patients. [ORD. 23-
+07]
+
+HOTEL -- A building or portion thereof of more than five (5) sleeping rooms designated
+or used for occupancy of individuals who are lodged with or without meals, and in which
+no provision is made for cooking in any individual room or suite.
+
+HOUSE OF WORSHIP – A church, synagogue, temple, mosque, chapel, meeting
+house, or other non-residential place of worship. The term also includes uses
+customarily associated with the practice of religious activity, including worship services,
+religion classes, weddings, funerals, meal programs, child care or preschool or pre-
+kindergarten education. The term does not include parochial education for kindergarten
+through grade 12 or higher education. [ORD. 25-16]
+
+INDUSTRIAL – Any activity involving the manufacturing or treatment of any commodity
+including the assembly, packaging, canning, bottling, or processing of any item. To
+change any commodity in composition for size, shape, texture, or appearance, is
+deemed to be an industrial process. [ORD. 23-07]
+
+INDUSTRIAL, HEAVY – Manufacturing, assembly, processing raw materials, repairing,
+research, storage, wholesaling and distribution, retailing of permitted uses, and closely
+related heavy industrial uses, in which all operations, other than transportation, may be
+performed within enclosed buildings or in open storage areas subject to performance
+standards imposed by all applicable governmental agencies. [ORD. 23-07]
+
+INDUSTRIAL, LIGHT – An industrial facility devoted to a single use with an emphasis
+on activities other than manufacturing and typically has minimal office space. Typical
+light industrial activities include printing, material testing, and assembly of data
+processing equipment. [ORD. 23-07]
+
+INDUSTRIAL PARK – Characterized by a mix of manufacturing, service, and
+warehouse facilities with a wide variation in the proportion of each type of use from one
+location to another. Many industrial parks contain highly-diversified facilities and multiple
+tenants. [ORD. 23-07]
+
+IN-KIND -- With respect to mitigation, any actions that duplicate the full array of wetland
+and aquatic area characteristics that are lost or impaired by a development action.
+
+INSTITUTIONS OF HIGHER EDUCATION – Public or private vocational and trade
+schools, academies, colleges, and universities. [ORD. 23-07]
+
+INTERTIDAL -- Between extreme low water and the landward limit of aquatic
+vegetation, or where vegetation is absent, mean higher high water.
+
+IN-WATER DISPOSAL -- The disposal of dredged material in the estuary, river or
+
+Clatsop County Land and Water I-27 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+ocean.
+
+IN-WATER DREDGED MATERIAL DISPOSAL -- Deposition of dredged materials in an
+aquatic area. Methods include beach nourishment, flowlane disposal, expanded
+flowlane/thalweg disposal, estuarine open-water disposal, in-water sump disposal,
+agitation dredging and ocean disposal. [ORD. 24-18]
+
+IRRIGATED -- Agricultural land watered by an artificial or controlled means, such as
+sprinklers, furrows, ditches, or spreader dikes. An area or tract is “irrigated” if it is
+currently watered, or has established rights to use water for irrigation, including such
+tracts that receive water for irrigation from a water or irrigation district or other provider.
+An area or tract within a water or irrigation district that was once irrigated shall continue
+to be considered "irrigated" even if the irrigation water was removed or transferred to
+another tract. [Ord. 18-02]
+
+JETTY -- A barrier to waterflow that is constructed of rock or concrete and used to
+stabilize the navigation channel and improve scour at the mouth of the estuary. Jetties
+must be able to withstand extreme wave conditions and may alter littoral drift.
+
+KENNEL -- Any lot or premises in which four (4) or more dogs or cats at least four
+months of age are kept commercially for board, propagation, training or sale.
+
+LAND DISPOSAL -- Deposition of dredged material on upland areas or on shorelands,
+including on the top and landward sides of flood control dikes.
+
+LAND DIVISION – Land divided to create legally separate lots or parcels by partition or
+subdivision. [ORD 25-02]
+
+LAND USE DECISION – A land use decision is defined by ORS 197.015(10). [ORD 25-
+02]
+
+LAWFULLY ESTABLISHED UNIT OF LAND – “Lawfully established unit of land”
+means:
+(1) A lot or parcel created pursuant to ORS 92.010 to 92.192; or
+(2) Another unit of land created:
+a. In compliance with all applicable planning, zoning and subdivision or
+partition ordinances and regulations; or
+b. By deed or land sales contract, if there were no applicable planning,
+zoning or subdivision or partition ordinances or regulations.
+“Lawfully established unit of land” does not mean a unit of land created solely to
+establish a separate tax account. [Ord. 21-05]
+
+LEGISLATIVE DECISION – A legislative decision involves formulation of policy by the
+Board of Commissioners. Ex-parte contact requirements are not applicable to legislative
+hearings. [ORD 25-02]
+
+Clatsop County Land and Water I-28 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+LOADING SPACE, OFF-STREET – A dedicated off-street space for the temporary
+parking of commercial vehicles or trucks while loading or unloading merchandise or
+materials. Required off-street loading spaces are not to be included as off-street parking
+space in computation of required off-street parking space. [ORD 25-02]
+
+LOG DUMP/SORT AREA (IN WATER) -- The use of an area to transfer logs to or from
+the land to water, normally associated with log storage/sort yards, log booming or
+processing/shipping facilities where rafts are built or dismantled.
+
+LOG STORAGE (IN WATER) -- The use of water surface area to store commercial logs
+in rafts until ready for market.
+
+LOG STORAGE/SORTING AREA (DRY LAND) -- An area where logs are gathered
+from surrounding harvest areas, weighed, sorted for species, size and quality, and
+stored until ready for transfer to water storage areas or to market.
+
+LOT – A single unit of land that is created by a subdivision of land as defined under
+ORS 92.010. In certain instances, this ordinance also uses the term "lot" in a broader
+sense inclusive of the terms parcel, unit of land, and tract of land. [Ord. 18-02] [ORD 25-
+02]
+
+LOT, BUILDABLE -- A legal lot which is proposed for use in compliance with this
+Ordinance, and which has received approval of the water supply and sewage
+disposal method.
+
+LOT, LEGAL -- A unit of land which meets the minimum size requirements of the
+zone in which it is located and which has a minimum 25-foot frontage on a state,
+county or public road or which has access to a state, county, or public road by
+means of a private road easement.
+
+LOT OF RECORD -- Any lot or parcel lawfully created by a subdivision or
+partition plat of record in the County Clerk’s Office, or any lot or parcel lawfully
+created by deed or land sales contract, recorded in the Deed Records of Clatsop
+County, prior to land use partitioning requirements.
+
+LOT AREA -- The total horizontal area within the lines of a lot, parcel or tract of land,
+excluding: (1) public, county, state, or federal road rights-of-way, and (2) submerged or
+submersible lands, as defined in ORS 274.005, if the lands are equal to or greater than
+20% of the total lot area. [ORD. 25-02]
+
+Clatsop County Land and Water I-29 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+LOT CORNER -- A lot located at the intersection of two or more streets, other than an
+alley, at their intersection. A loop road is not considered the intersection of two streets.
+See illustration at right. [ORD. 25-02]
+
+LOT COVERAGE -- The percentage of a lot covered by a building or buildings. Lot
+coverage does not include gravel or paved surface areas. [ORD. 25-02]
+
+LOT, CUL-DE-SAC – A lot which has a front lot line contiguous with the outer radius of
+the turn-around portion of a cul-de-sac. Such lots shall have a minimum street frontage
+of 45 feet. The calculation of lot width
+is made by measuring width at the
+midpoint of side lot lines. [ORD. 25-
+02]
+
+LOT DEPTH -- The distance
+measured from the mid-point of the
+front lot line to the mid-point of the
+opposite lot line. See example below.
+[ORD. 25-02]
+
+LOT, DOUBLE-
+FRONTAGE/THROUGH – A lot other
+than a corner lot that has frontage on
+two streets. [ORD. 25-02]
+
+LOT, FLAG – A lot that has access to a public right-of-way by means of a narrow strip of
+land. The front lot line for the purposes of setbacks shall be designated as that property
+line which intersects the access way for the flag lot. [ORD. 25-02]
+
+LOT INTERIOR -- A lot other than a corner lot and having frontage on only one street.
+[ORD. 25-02]
+
+Clatsop County Land and Water I-30 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+LOT LINE -- The
+property line
+bounding a lot.
+
+LOT LINE
+ADJUSTMENT --
+See Property Line
+Adjustment. [ORD.
+25-02]
+
+LOT LINE, FRONT
+-- The common
+property line(s)
+between a lot and a
+street (other than
+an alley) that
+separates the lot
+from the street and
+from which access
+is provided to the
+lot. For the purpose of establishing setback requirements, orientation of the dwelling unit
+is independent of access to the parcel. For a corner lot, the shortest line along a street
+(other than an alley) that separates the lot from the street is the front lot line. If two or
+more street lot lines are of equal length, then the applicant or property owner can
+choose which lot line is to be the front. [ORD. 25-02]
+
+LOT LINE, REAR -- The lot line which is opposite the front lot line and which separates
+one lot from another. [ORD. 25-02]
+
+1) In the case of an irregular,
+triangular or other-shaped lot, an
+imaginary line 10 feet in length
+shall be drawn within the lot,
+parallel to and at a maximum
+distance from the front lot line.
+(See diagram at right)
+2) In the case of a double-frontage or
+through lot that is not a corner lot,
+there is no rear lot line. Each street
+frontage is considered a front lot line. [ORD. 25-02]
+
+LOT LINE, SIDE -- Any property line which is neither a front nor a rear lot line.
+
+LOT, OCEAN FRONT – A lot, parcel or unit of land that abuts the ocean shore state
+recreation area (as defined in OAR 736-021-0030) or a lot, parcel or unit of land where
+no residence may be legally placed or constructed between the subject lot and the
+
+Clatsop County Land and Water I-31 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+ocean shore state recreation area. See standards in 3.0150. [ORD. 25-02]
+
+LOT WIDTH -- The average horizontal distance between the midpoints of the side lot
+lines. The term “average lot width” has the same meaning as “lot width” as defined here.
+[ORD. 25-02]
+
+LOW WATER BRIDGES -- A specific type of bridge crossing. Low water bridges are
+temporarily placed by private property owners across minor streams and sloughs during
+periods of low or intermittent water flow in order to provide access for farm machinery
+and other uses. Low water bridges are generally constructed of logs or planking and
+cable, and, as such, fill required for approaches to these bridges will in all cases be
+minimal (e.g. grading of a road approach) and consistent with the resource capabilities
+of the area and the purpose of the management unit. Low water bridges are removed
+during periods of high water flow and are replaced in the same location in subsequent
+seasons. Note that in sloughs behind tidegates, where water levels are regulated and
+changes in seasonal water heights are minimal low water bridges may be in place year-
+round.
+
+MAINTENANCE -- Routine upkeep of existing structure or facilities which are in current
+use or operation.
+
+MAINTENANCE AND REPAIR -- Routine upkeep of an existing structure or remedial
+restoration of a damaged structure in current use or operation. Maintenance and repair
+may involve changes in the structure's location, configuration, orientation, or alignment if
+these changes are limited to the minimum amount necessary to retain or restore its
+operation or function or to meet current building, engineering or safety standards.
+
+MANUFACTURED DWELLING – Means a residential trailer, mobile home or
+manufactured home, as defined by ORS 446.003 and as shown below. “Manufactured
+Dwelling” does not include any building or structure constructed to conform to the State
+of Oregon Structural Specialty Code, the Low-Rise Residential Dwelling Code or the
+Small Home Specialty Code.
+1) Residential trailer: A structure constructed for movement on the public
+highways that has sleeping, cooking and plumbing facilities, that is intended for
+human occupancy, that is being used for residential purposes and that was
+constructed before January 1, 1962.
+2) Mobile home: A structure constructed for movement on the public highways that
+has sleeping, cooking and plumbing facilities, that is intended for human
+occupancy, that is being used for residential purposes and that was constructed
+between January 1, 1962 and June 15, 1976, and met the construction
+requirements of Oregon mobile home law in effect at the time of construction.
+
+Clatsop County Land and Water I-32 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+3) Manufactured home: A structure constructed after June 26, 1976, for movement
+on the public highways, that has sleeping, cooking and plumbing facilities, that is
+intended for human occupancy, that is being used for residential purposes and
+that was constructed in accordance with federal manufactured housing
+construction and safety standards and regulations in effect at the time of
+construction. [ORD 25-02]
+
+MANUFACTURED DWELLING PARK: A place where four or more manufactured
+dwellings or prefabricated structures (as defined in ORS 455.010) that are relocatable
+and more than 8 ½ feet wide, are located within 500 feet of one another on a lot, tract or
+parcel of land under the same ownership, the primary purpose of which is to rent or
+lease space or keep space for rent or lease to any person for a charge or fee paid or to
+be paid for the rental or lease or use of facilities or to offer space free in connection with
+securing the trade or patronage of such person. “Manufactured Dwelling Park” does not
+include a lot or lots located within a subdivision being rented or leased for occupancy by
+no more than one manufactured dwelling per lot if the subdivision was approved by
+Clatsop County. [ORD 25-02]
+
+MANUFACTURED HOME SUBDIVISION – A subdivision as defined and regulated
+under ORS 92.830-92.845. [ORD 25-02]
+
+MANUFACTURING – An area where the primary activity is the conversion of raw
+materials or parts into finished products. Size and type of activity may vary substantially
+from one facility to another. In addition to the production of goods, manufacturing
+generally includes supporting offices, warehouse, research, and associated functions.
+[ORD.23-07]
+
+MARINA -- Facilities which provide moorage, launching, storage, supplies and a variety
+of services for recreational, commercial and fishing vessels. They are differentiated from
+docks and moorages by their larger scale, the provision of significant land side services
+and/or the use of a solid breakwater (rock, bulkheading, etc.).
+
+MEAN HIGH WATER (MHW) -- The average height of all high waters over a 19-year
+period.
+
+MEAN HIGHER HIGH WATER (MHHW) -- The average height of the higher high waters
+over a 19-year period.
+
+MEAN LOW WATER (MLW) -- The average height of all low waters over a 19-year
+period.
+
+MEAN LOWER LOW WATER (MLLW) – The average height of the lower low waters
+over a 19-year period.
+
+MEAN SEA LEVEL -- The average height of the sea for all states of the tide.
+
+Clatsop County Land and Water I-33 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+MILITARY ACTIVITIES -- The movement of equipment and/or personnel related to the
+military including but not limited to the following (allowed in Military Reserve (MR) and
+EFU, and AF zones):
+1) Combat exercises.
+2) Air and ground combat exercises.
+3) Transport of military property.
+
+MINE -- Premises from which any rock, sand, gravel, stone, topsoil, clay, mud, peat,
+organic, or mineral is removed or excavated for sale, or other reasons, and exclusive of
+excavating and grading for streets and roads and the process of grading a lot
+preparatory to the construction of a building for which a permit has been issued by a
+public agency. [Ord. 18-02]
+
+MINERAL RESOURCES -- Soil, coal, clay, stone, sand, gravel, metallic ore and any
+other solid material or substance excavated for commercial, industrial or construction
+uses from natural deposits situated within or upon lands in this state.
+
+MINING -- “Mining” includes all or any part of the process of mining by the removal of
+overburden and the extraction of natural mineral deposits thereby exposed by any
+method including open pit mining operations, auger mining operations, processing,
+surface impacts of underground mining, production of surface mining refuse and the
+construction of adjacent off-site borrow pits except those constructed for use as access
+roads. “Mining” does not include excavations of sand, gravel, clay, rock, organic or other
+similar materials conducted by a landowner or tenant on the landowner or tenant’s
+property for the primary purpose of reconstruction or maintenance of access roads and
+excavation or grading operations conducted in the process of farming, forestry or
+cemetery operations, on-site road construction or other on-site construction or non-
+surface impacts of underground mines. [Ord. 18-02]
+
+MINING AND PROCESSING OF AGGREGATE AND MINERAL RESOURCES --
+“Processing” includes, but is not limited to, crushing, washing, milling and screening as
+well as the batching and blending of mineral aggregate into asphalt and Portland
+cement concrete located within the operating permit area. “Mining” includes all or any
+part of the process of mining by the removal of overburden and the extraction of natural
+mineral deposits thereby exposed by any method including open pit mining operations,
+auger mining operations, processing, surface impacts of underground mining,
+production of surface mining refuse and the construction of adjacent of off-site borrow
+pits except those constructed for use as access roads.
+“Mining” does not include excavations of sand, gravel, clay, rock or other similar
+materials conducted by a landowner or tenant on the landowner or tenant’s property for
+the primary purpose of reconstruction or maintenance of access roads and excavation
+or grading operations conducted in the process of farming or cemetery operations, on-
+site road construction or other on-site construction of non-surface impacts of
+underground mines. [Ord. 18-02]
+
+MINING AND PROCESSING OF AGGREGATE, MINERAL, OIL, GAS OR OTHER
+
+Clatsop County Land and Water I-34 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+SUBSURFACE RESOURCES -- Processing of aggregate includes, but is not limited to,
+crushing, washing, milling and screening as well as the batching and blending of
+mineral aggregate into asphalt and Portland cement concrete located within the
+operating permit area. “Gas” means all natural gas and all other fluid hydrocarbons not
+defined as oil, including condensation originally in the gaseous phase in the reservoir.
+“Oil” means crude petroleum oil and all other hydrocarbons, regardless of gravity, which
+are produced in liquid form by ordinary production methods, but does not include liquid
+hydrocarbons that we were originally in a gaseous phase in the reservoir. [Ord. 18-02]
+
+MINING/MINERAL EXTRACTION -- The removal for economic use of minerals,
+petroleum resources, sands, gravels or other naturally occurring materials from the
+shorelands or submerged lands.
+
+MINI-STORAGE – An enclosed storage area containing individual rented or owned
+compartments or stalls that is designed and used for renting or leasing individual
+storage space to occupants who have exclusive access to the storage space to store or
+remove personal property. [ORD.23-07]
+
+MINISTERIAL – A routine governmental action or decision that involves little or no
+discretion. The issuance of a development permit or building permit are such actions. A
+ministerial action is not a land use decision, as defined in ORS 197.015 and is therefore
+not appealable through Oregon’s quasi-judicial process. [ORD. 26-05]
+
+MINOR NAVIGATIONAL IMPROVEMENT -- Alterations necessary to provide water
+access to existing or permitted uses including dredging for access channels and for
+maintaining existing navigation but excluding fill and in-water navigational structures
+other than floating breakwaters or similar permeable wave barriers.
+
+MITIGATION -- Any action that, to some degree, softens the impact of development on
+wetlands and aquatic areas. This may include all or any one of the following actions: (1)
+avoiding the impact altogether by not taking a certain action or parts of an action; (2)
+minimizing impacts by limiting the degree or magnitude of an action and its
+implementation; (3) rectifying the impact by repairing, rehabilitating, or restoring the
+affected environment; (4) reducing or eliminating the impact over time by preservation
+and maintenance operations; and (5) compensating for the impact by creation,
+restoration, or enhancement of wetlands and aquatic areas to maintain their functional
+processes, such as natural biological productivity, habitat, and species diversity, unique
+features and water quality. Any mitigation action or combination of actions may involve
+monitoring and remedial follow-up measures.
+
+MOORAGE -- Piling or a dock, or both, used to secure a boat or barge.
+
+MOTEL – A building or group of buildings on the same lot, containing guest units with
+separate entrances and consisting of individual sleeping quarters detached or in
+connected rows, with or without cooking facilities, for rental to transients.
+
+Clatsop County Land and Water I-35 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+MULTI-PURPOSE RECREATONAL FACILITY – Two or more of the following land uses
+combined at one site: miniature golf, batting cages, video arcade, bumper boats, go-
+carts, thrill rides and/or a golf driving range. Refreshment areas and/or gift shop may
+also be provided. [ORD.23-07]
+
+NAVIGATION AIDS -- Beacons, buoys, range markers and other objects providing
+directional assistance.
+
+NAVIGATION CHANNEL -- Authorized channel(s) maintained by the Corps of
+Engineers, and other natural or locally maintained channels. See also “Federal
+Navigation Channel”. [ORD. 24-18]
+
+NAVIGATIONAL STRUCTURES -- Jetties, groins, pile dikes, breakwaters, and other in-
+water structures designed to change or moderate hydraulic characteristics for the
+purpose of improving navigation.
+
+NECESSARY FOR -- With respect to forest management dwellings, "necessary for"
+means the dwelling will contribute substantially to effective and efficient management of
+the forest land to be managed by the resident(s) of the dwelling.
+
+NEIGHBORHOOD/COMMUNITY ORGANIZATION: A non-profit, tax-exempt
+organization, including private homeowners’ associations where membership goes with
+ownership (501 (c)(7)), and associations open to everyone in the community (501
+(c)(4)). Such organizations need to provide the Community Development Department
+an Oregon Secretary of State certificate, tax exemption certificate, a copy of the bylaws
+showing the boundaries of the organization, and the person designated to receive
+mailed notices.
+
+NEIGHBORHOOD PARK OR PLAYGROUND -- An area for intense recreational
+activities, such as but not limited to field games, court games, crafts, playground
+apparatus area, skating, walking, viewing, picnicking, wading pools, swimming pools.
+
+NET METERING POWER FACILITY -- A facility for the production of energy that:
+1) Generates energy using means listed in ORS or OAR such as solar power, wind
+power, fuel cells, hydroelectric power, landfill gas, digester gas, waste, dedicated
+energy crops available on a renewable basis or low-emission, nontoxic biomass
+based on solid organic fuels from wood, forest or field residues; but not including
+the production of biofuel as authorized by ORS 215.203(2)(b)(K) in all zones
+which allow “Farm Use” and 215.283(1)(r) in the Exclusive Farm Use zone;
+2) Is intended to offset part of the customer-generator’s requirements for energy;
+3) Will operate in parallel with a utility’s existing transmission and distribution
+facilities;
+4) Is consistent with generating capacity as specified in ORS 757.300 and/or OAR
+860-039-0010 as well as any other applicable regulations;
+
+Clatsop County Land and Water I-36 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+5) Is located on the same tract as the use(s) to which it is accessory and the power
+generating facility, tract, and use(s) are all under common ownership and
+management.
+[Ord. 18-02]
+
+NEW CONSTRUCTION -- Structures for which the start of construction commenced on
+or after the effective date of this ordinance.
+
+NEW DREDGING -- Dredging in an area that has not been dredged before; or
+deepening an existing dredged channel, basin, or other facility beyond its previously
+authorized or approved depth; or dredging a channel, basin, or other facility that has not
+been in use or operation in the past five years.
+
+NEW SINGLE-UNIT DWELLING – A dwelling that did not previously exist in residential
+or non-residential form. “New” does not include the acquisition, alteration, renovation or
+remodeling of an existing structure. [ORD.23-03] [ORD. 25-16]
+
+NON-COMMERCIAL/STAND-ALONE POWER GENERATING FACILITY -- A facility for
+the production of energy that:
+1) Generates energy using means listed in ORS or OAR such as solar power, wind
+power, fuel cells, hydroelectric power, landfill gas, digester gas, waste, dedicated
+energy crops available on a renewable basis or low-emission, nontoxic biomass
+based on solid organic fuels from wood, forest or field residues but not including
+the production of biofuel as authorized by ORS 215.203(2)(b)(K) in all zones
+which allow “Farm Use” and 215.283(1)(r) in the Exclusive Farm Use zone;
+2) Is intended to provide all of the generator’s requirements for energy for the tract
+or the specific lawful accessory use that it is connected to;
+3) Operates as a stand-alone power generator not connected to a utility grid; and
+4) Is located on the same tract as the use(s) to which it is accessory and the power
+generating facility, tract, and use(s) are all under common ownership and
+management.
+[Ord. 18-02]
+
+NOXIOUS MATTER -- Materials which are capable of causing injury to living organisms
+by chemical reaction or is capable of causing detrimental effects upon the
+psychological, social, or economic well-being of human beings.
+
+NURSERY, HORTICULTURAL -- A place where trees, shrubs, vines, etc. are
+propagated for transplanting or for use as stocks for grafting and where such flora can
+be sold.
+
+NURSING HOME – A facility whose primary function is to provide care for persons who
+are unable to care for themselves. Examples of such facilities include rest homes,
+chronic care, and convalescent homes. Skilled nurses and nursing aides are present 24
+hours a day at these sites. Residents often require treatment from a registered
+healthcare professional for on-going medical issues. A nursing home resident is not
+
+Clatsop County Land and Water I-37 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+capable of operating a vehicle. [ORD. 23-07]
+
+OCCUPATION – refers to any service, trade or business which has employees,
+manufactures a product or provides service to the public.
+
+OCEAN FLOODING -- The flooding of lowland areas by salt water owing to tidal action,
+storm surge, or tsunamis (seismic sea waves). Land forms subject to ocean flooding
+include beaches, marshes, coastal lowlands, and low lying interdune areas. Areas of
+ocean flooding are mapped by the Federal Emergency Management Agency (FEMA).
+Ocean flooding includes areas of velocity flooding and associated shallow marine
+flooding.
+
+OCEAN YARD – See “Yard, Ocean”. [ORD 25-02]
+
+OFFICE, GENERAL – A location where affairs of businesses, commercial or industrial
+organization, or professional persons or firms are conducted. An office building or
+buildings may contain a mixture of tenants including professional services, insurance
+companies, investment brokers, and tenant services. [ORD. 23-07]
+
+OFFICE, MEDICAL OR DENTAL – A medical-dental office building is a facility that
+provides diagnoses and outpatient care on a routine basis but is unable to provide
+prolonged in-house medical and surgical care. [ORD. 23-07]
+
+OFF-SITE -- With respect to mitigation, an area separated from the impact area by a
+significant distance and that offers little or no opportunity for reestablishing lost values
+and functions to organisms which originally benefited from the lost habitat.
+
+OIL -- Crude petroleum oil and all other hydrocarbons, regardless of gravity, which are
+produced in liquid form by ordinary production methods, but not including liquid
+hydrocarbons that were originally in a gaseous phase in the reservoir.
+
+OIL AND GAS, GEOTHERMAL PRODUCTION -- Liquid or vaporous hydrocarbon
+substances, when at normal temperatures, which are removed from the earth by means
+other than mining (Conditional use in resource zones).
+
+ON-SITE -- With respect to mitigation, an area adjacent to or near the impact area that
+offers a reasonable opportunity for reestablishing lost values and functions to organisms
+which originally benefited from the lost habitat.
+
+OPEN PLAY FIELD -- A large, grassy area with no structural improvements intended for
+outdoor games and activities within a park by park visitors. The term does not include
+developed ball fields, golf courses or courts for racquet sports. [Ord. 18-02]
+
+OPEN SPACE -- Land used for farm or forest uses, and any land area that would, if
+preserved and continued in its present use:
+1) Conserve and enhance natural or scenic resources;
+
+Clatsop County Land and Water I-38 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+2) Protect air or streams or water supply;
+3) Promote conservation of soils, wetlands, beaches or tidal marshes;
+4) Conserve landscape areas, such as public or private golf courses, that reduce air
+pollution and enhance the value of abutting or neighboring property;
+5) Enhance the value to the public of abutting or neighboring parks, forests, wildlife
+preserves, nature reservations or sanctuaries or other open space;
+6) Promote orderly urban development.
+
+OPEN SPACE, COMMON -- A parcel of land together with any improvements that are
+to be used, maintained and enjoyed by the owners and occupants of the individual
+building units (Homeowners Association) in subdivisions with common open space,
+planned development or cluster development.
+
+OPERATOR -- Any individual, public or private corporation, political subdivision,
+agency, board or department of this State, any municipality, partnership, association,
+firm, trust, estate or any other legal entity whatsoever that is engaged in mining
+operations.
+
+ORGANIZER – Any person who holds, stages or sponsors an outdoor mass gathering
+and the owner, lessee or possessor of the real property upon which the outdoor mass
+gathering is to take place. [ORD. 23-02]
+
+ORIGINAL PARCEL – A piece of land prior to partitioning or subdividing. [ORD 25-02]
+
+OUT-OF-KIND -- With respect to mitigation, any action that replaces wetland or aquatic
+area characteristics that have been impaired or lost due to a development action with a
+different set of characteristics that are judged to be of equal resource value.
+
+OUTDOOR MASS GATHERING – An actual or reasonably anticipated assembly of
+more than 3,000 persons which is held primarily in open spaces and not in any
+permanent structure and within any three-month period is expected to continue for more
+than 24 hours and not more than 120 hours, excluding hours required for ingress to and
+egress from a gathering that is located on lands zoned for exclusive farm use that are
+60 miles or farther from the nearest interstate highway. [ORD. 23-02]
+
+OVER-CHANNELIZATION – Diversion of flow from shallow areas into the main channel
+by dredging, pile dikes or other means to the degree that circulation is markedly
+decreased and sedimentation increased in the shallow areas.
+
+OVERLAY DISTRICT -- A supplementary district which places special restrictions or
+preempts the use of land beyond those required in the underlying zones.
+
+OWNER -- The owner of record of real property as shown on the tax rolls of the County,
+or a person who is purchasing a piece of property under contract.
+
+OWNER OR A RELATIVE – The owner of the lot or parcel, or a relative of the owner or
+
+Clatsop County Land and Water I-39 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+the owner’s spouse, including a child, parent, stepparent, grandchild, grandparent, step
+and parent, sibling, stepsibling, niece, nephew or first cousin of either. [ORD. 23-02]
+
+OWNERSHIP -- The existence of a legal or equitable interest in a lot, parcel or tract.
+[ORD 25-02]
+
+PARCEL –
+1) Includes a unit of land created:
+By partitioning of land as defined in ORS 92.010;
+(A) In compliance with all applicable planning, zoning and partitioning ordinances
+and regulations; or
+(B) By deed or land sales contract, if there were no applicable planning, zoning or
+partitioning ordinances or regulations.
+2) Does not include a unit of land created solely to establish a separate tax account.
+
+PARK, PRIVATE – An area devoted to low-intensity outdoor recreational uses for which
+enjoyment of the outdoors in an open space, or on land in its natural state, is a
+necessary component and the primary focus. [ORD. 25-16]
+
+PARK, PUBLIC -- A public area intended for open space and outdoor recreation use
+that is owned and managed by a city, county, regional government, state or federal
+agency, or park district and that may be designated as a public park in the applicable
+comprehensive plan and zoning ordinance. [Ord. 18-02]
+
+PARKING SPACE – An area permanently available for the parking of a motor vehicle.
+[ORD 25-02]
+
+PARKS AND CAMPGROUNDS -- An area devoted to overnight temporary use for
+vacation, recreational or emergency purposes, but not for residential purposes. A
+camping site may be occupied by a tent, travel trailer or recreational vehicle.
+Campgrounds shall not include intensively developed recreational uses such as
+swimming pools, tennis courts, retail stores or gas stations.
+
+PARTITION -- Either an act of partitioning land or an area or tract of land partitioned.
+
+PARTITIONING LAND – Dividing land to create not more than three parcels of land
+within a calendar year, but does not include:
+1) Dividing land as a result of a lien foreclosure, foreclosure of a recorded contract
+for the sale of real property or the creation of cemetery lots;
+2) A property line adjustment is defined in Section 1.0500;
+3) Dividing land as a result of the recording of a subdivision or condominium plat;
+4) Selling or granting by a person to a public agency or public body of property for
+state highway, county road, city street or other right of way purposes if the road
+or right of way complies with the applicable comprehensive plan and ORS
+215.283(2)(q) to (2). However, any property sold or granted for state highway,
+county road, city street or other right of way purposes shall continue to be
+
+Clatsop County Land and Water I-40 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+considered a single unit of land until the property is further subdivision or
+partitioned; or
+5) Selling or granting by a public agency or public body of excess property resulting
+from the acquisition of land by the state, a political subdivision or special district
+for highways, county roads, city streets or other right of way purposes when the
+sale or grant is part of a property line adjustment incorporating the excess right of
+way into adjacent property. The property line adjustment shall be approved or
+disapproved by the applicable local government. If the property line adjustment is
+approved, it shall be recorded in the deed records of the county where the
+property is located.   [ORD 25-02]
+
+PATIO -- A recreation area adjoining a dwelling which is often paved or a wood
+platform. Patio surface is not higher than 30 inches above finished grade. A patio may
+be covered or uncovered (see also Deck). [ORD 25-02]
+
+PERFORMANCE STANDARDS -- A criterion to control noise, odor, smoke, toxic or
+noxious matter, vibration, fire and explosive hazards, or glare or heat generated by or
+inherent in uses of land or buildings.
+
+PERMANENT STRUCTURE – As used in the definition of “Outdoor Mass Gathering”, a
+permanent structure includes a stadium, arena, auditorium, coliseum, fairgrounds or
+other similar established places for assemblies. [ORD. 23-02] [ORD 25-02]
+
+PERMIT -- Discretionary approval of a proposed development of land under ORS
+215.010 to 215.311, 215.317, 215.327 and 215.402 to 215.438 and 215.700 to 215.780
+or county legislation or regulation adopted pursuant thereto. “Permit” does not include:
+1) A limited land use decision as defined in ORS 197.015;
+2) A decision that determines the appropriate zoning classification for a particular
+use by applying criteria or performance standards defining the uses permitted
+within the zone, and the determination applies only to land within an urban
+growth boundary;
+3) A decision which determines final engineering design, construction operation,
+maintenance, repair or preservation of a transportation facility which is otherwise
+authorized by and consistent with the comprehensive plan and land use
+regulations; or
+4) An expedited land division, as described in ORS 197.360. [ORD 25-02]
+
+PERSON -- Any natural person, firm, partnership, association, social or fraternal
+organization, corporation, estate, trust, receiver, syndicate, branch of government, or
+any other person or combination acting as a unit.
+
+PERSONAL SERVICES – An establishment which provides for the care of a person or
+a person’s apparel, and may include, but not be limited to, beauty/barbershop, nail
+salon, tanning salon, laundry, dry cleaning (retail store), garment service, and shoe
+repair. [ORD. 23-07]
+
+Clatsop County Land and Water I-41 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+PERSONAL STORAGE STRUCTURE -- See Accessory Structure. [Ord. 18-02]
+
+PERSONAL USE AIRPORT -- An airstrip restricted, except for aircraft emergencies, to
+use by the owner, and on an infrequent and occasional basis, by invited guests, and by
+commercial aviation activities in connection with agricultural operations. No aircraft may
+be based on a personal use airport other than those owned or controlled by the owner
+of the airstrip.
+
+PILE DIKE -- A partial barrier to water flow, constructed of piling, that is designed to
+direct river flow in a particular direction.
+
+PILING -- Wood, concrete or steel posts driven into the bottom in aquatic areas either
+as mooring devices, or to support a dock, float, range marker, or other structure.
+
+PILING/DOLPHIN INSTALLATION -- The driving of wood, concrete or steel piling into
+the bottom in aquatic areas to support piers or docks, structures, moored floating
+structures, vessels or log rafts or for other purposes. A dolphin is a group of piling held
+together by steel cable and used for mooring vessels, log rafts or floating structures.
+
+PLANNED DEVELOPMENT – Any combination of residential land uses. These
+developments may contain supporting services such as limited retail and recreational
+facilities. [ORD.23-07] [ORD 25-02]
+
+PLAT -- A final map and other writing containing all the descriptions, locations,
+specification, provisions, dedications and information regarding a subdivision or
+partition. [ORD 25-02]
+
+POTABLE WATER SUPPLY -- See Water Supply, Potable.
+
+PREPARATION -- As it applies to the definition of “Farm use” in ORS 215.203,
+preparation of products or by-products includes but is not limited to the cleaning,
+treatment, sorting or packaging of farm products or by-products. [ORD. 18-02] [ORD.
+25-16]
+
+PRIMARY PROCESSING OF A FOREST PRODUCT -- The use of a portable chipper
+or stud mill or other similar methods of initial treatment of a forest product in order to
+enable its shipment to market.
+
+PRINCIPAL USE -- The main use to which the land and buildings are devoted. [ORD
+25-02]
+
+PRINCIPALLY ABOVE GROUND -- At least 51 percent of the actual cash value of the
+structure, less land value, is above ground.
+
+PRINCIPALLY ENGAGED IN FARM USE -- As it refers to primary farm dwellings and
+accessory farm dwellings, a person is principally engaged in the farm use of the land
+
+Clatsop County Land and Water I-42 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+when the amount of time that an occupant of the dwelling is engaged in farm use of the
+property is similar to the average number of hours that is typically required for a full-
+time employee of the relevant type of farm use, whether that person is employed off the
+farm or not. Only one resident of a household need meet the “principally engaged” test,
+or the test may be met collectively by more than one household member. [Ord. 18-02]
+
+PRIVATE ROAD -- See Road, Private.
+
+PROCESSED -- As it applies to farm stands, processed crops and livestock means
+farm products that have been converted into other products through canning, drying,
+baking, freezing, pressing, butchering or other similar means of adding value to the farm
+product, including the addition of incidental ingredients, but not including the conversion
+of farm products into food items that are prepared on-site or intended for on-site
+consumption. [Ord. 18-02]
+
+PROCESSING AREA – The floor area of a building dedicated to farm product
+processing. “Processing area” does not include the floor area designated for
+preparation, storage or other farm use. [ORD. 23-02]
+
+PRODUCTS OR BY-PRODUCTS – As it applies to the definition of “Farm use” in ORS
+215.203, ‘products or by-products” includes:
+1) Products or by-products raised on the farm operation where the preparation
+occurs
+2) Products or by-products raised on other farm land, provided:
+(A) The preparation is occurring only on a tract currently employed for a farm
+use or farm uses other than preparation; and
+(B) Such products or by-products are prepared in the same facilities as, and in
+conjunction with, products or by-products raised on the farm operation
+where the preparation occurs. [ORD. 25-16}
+
+PROFESSION – A personal service or services rendered to the public which may only
+be lawfully rendered pursuant to a license issued by the State of Oregon.
+
+PROPERTY LINE ADJUSTMENT -- The relocation or elimination of all or a portion of
+the common property line between abutting properties that does not create an additional
+lot or parcel.
+
+PSILOCYBIN – Psilocybin or psilocybin and related products. [ORD. 24-20]
+
+PSILOCYBIN ADMINISTRATION SESSION – A session held at a psilocybin service
+center at which a client purchases, consumes, and experiences the effects of a
+psilocybin product under the supervision of a psilocybin service facilitator. [ORD. 24-20]
+
+PSILOCYBIN FARM USE – The planting, cultivation, growing, preparation, propagation
+and harvesting of psilocybin-producing fungi:
+1) A crop for the purposes of farm use as defined in ORS 215.203;
+
+Clatsop County Land and Water I-43 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+2) A crop for purposes of a farm and farming practice, both as defined in ORS
+30.930;
+3) A product of farm use as described in ORS 308A.062; and
+4) The product of an agricultural activity for purposes of ORS 568.909.
+5) The farm use may include packaging for shipment but shall not include the
+manufacturing or processing of psilocybin products. [ORD. 24-20]
+
+PSILOCYBIN LICENSEE – A person that holds a license issued under ORS 475A.290,
+457A.305, 475A.325 or 457A.594. This may also include a “Licensee representative” as
+defined in ORS 475A. [ORD. 24-20]
+
+PSILOCYBIN PRESMISES – The following areas of a location licensed under ORS
+475A.210 to 475A.722:
+1) All public and private enclosed areas at the location that are used in the business
+operated at the location, including offices, kitchens, rest rooms and storerooms;
+2) All areas outside a building that the Oregon Health Authority has specifically
+licensed for the manufacturing of psilocybin products or the operation of a
+psilocybin service center; and
+3) For a location that the Authority has specifically licensed for the operation of a
+psilocybin service center outside a building, that portion of the location used to
+operate the psilocybin service center and provide psilocybin services to clients.
+[ORD. 24-20]
+
+PSILOCYBIN MANUFACTURE – The manufacturing, production, compounding,
+conversion or processing of a psilocybin product, either directly or indirectly by
+extraction from substances of natural origin, or independently by means of chemical
+synthesis, or by a combination of extraction and chemical synthesis, and includes any
+packaging or repackaging of the psilocybin product or labeling or relabeling of its
+container. [ORD. 24-20]
+
+PSILOCYBIN PRODUCT MANUFACTURER – A person that manufactures psilocybin
+products in this state. [ORD. 24-20]
+
+PSILOCYBIN PRODUCTS – Psilocybin-producing fungi, mycelium and mixtures or
+substances containing a detectable amount of psilocybin, including whole fungi,
+psilocybin extract, and edible psilocybin products. [ORD. 24-20]
+
+PSILOCYBIN SERVICE CENTER – An establishment where administration sessions
+are held; and at which other psilocybin services may be provided. [ORD. 24-20]
+
+PUBLIC ACCESS -- Public access to shoreline and aquatic areas either may be
+achieved through:
+1) direct physical access to shoreland and aquatic areas (i.e. boat ramps);
+2) aesthetic access (i.e. viewing opportunities); and
+3) other facilities providing some degree of access to shorelands and aquatic areas.
+
+Clatsop County Land and Water I-44 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+PUBLIC GAIN -- The net gain from combined economic, social, and environmental
+effects which accrue to the public because of a use or activity and its subsequent
+resulting effects.
+
+PUBLIC USE -- A structure or use intended or used for a public purpose by a city,
+school district, county, state, or by any other public agency or by a public utility.
+
+PUBLIC OR SEMI-PUBLIC USE -- A structure or use, owned or operated by a state,
+county, city, school district or other public or private agency or concern for the benefit of
+the public generally including schools, fire stations, libraries, community building,
+museums, fairgrounds, and churches but does not include specific uses or structures
+which are defined separately in this section. [ORD. 23-04]
+
+PUBLIC UTILITY -- A private business or organization such as a public service
+corporation, performing some public service and subject to special governmental
+regulations, or a governmental agency performing similar public services, the service by
+either of which are paid for directly by the recipients thereof. Such services shall
+include, but are not limited to, water supply electric power, gas and transportation of
+persons or freight.
+
+QUASI-JUDICIAL HEARING/DECISION – A quasi-judicial hearing is a type of land use
+proceeding in which the decision maker addresses a narrow land use issue, normally
+related to one, or a limited number of parcels, and applies existing criteria. Quasi-
+judicial cases include variances, conditional use permits and zone changes. [ORD 25-
+02]
+
+REACH -- A hydraulic engineering term used to describe longitudinal segments along a
+stream or a river. A reach will generally include the segment of the flood hazard area
+where flood heights are primarily controlled by man-made or natural obstructions or
+constrictions. In an urban area an example of reach would be the segment of a stream
+or river between two consecutive bridge crossings.
+
+RECLAMATION -- The employment in a surface mining or mining operation or
+procedures, reasonably designed to minimize as much as practicable the disruption
+from the surface mining operation and to provide for the rehabilitation of any such
+surface and resources adversely affected by such surface mining operations through
+the rehabilitation of plant cover, soil stability, water resources, and other measures
+appropriate to the subsequent beneficial use of such mined and reclaimed lands.
+
+RECORD -- To submit instrumentation to, and have such instrumentation accepted by,
+the Office of the County Clerk for the purpose of placing an instrumentation, or copies
+thereof, in official plat evidence.
+
+RECREATION COMPLEX – An outdoor facility that is used for non-professional sports.
+It may consist of multiple sports fields. May include stadium seating, a fitness trail,
+activity shelter, aquatic center, picnic ground, basketball and tennis courts, playground,
+
+Clatsop County Land and Water I-45 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+and driving ranges. [ORD.23-07]
+
+RECREATION, HIGH INTENSITY -- Uses involving specially built facilities, or occurring
+in such density or form that is requires or results in a modification of the area or
+resource.
+Campgrounds, golf courses, public beaches, and marinas are examples of facilities for
+high intensity recreation.
+
+RECREATION, LOW INTENSITY -- Recreation that does not require developed
+facilities and can be accommodated without change to the area or resource. For
+example, boating, hunting, hiking, wildlife photography, and beach or shore activities
+can be low intensity recreation. Facilities included as low-intensity recreation include
+picnic tables, trail signs, unpaved trails and portable restrooms.
+
+RECREATIONAL VEHICLE – A vehicle with or without motive power that is designed
+for use as temporary living quarters and as further defined by rule by the Director of
+Transportation. Recreational Vehicle includes the following terms: [ORD 25-02]
+1) CAMPER - A structure containing a floor that is designed to be temporarily
+mounted upon a motor vehicle, and which is designed to provide facilities for
+temporary human habitation.
+2) MOTOR HOME - A motor vehicle with a permanently attached camper, or that is
+originally designed, reconstructed or permanently altered to provide facilities for
+temporary human habitation.
+3) TRAVEL TRAILER - A trailer that is capable of being used for temporary human
+habitation, which is not more than eight feet wide, and except in the case of a
+tent trailer, has four permanent walls when it is in the usual travel position.
+4) SELF-CONTAINED RECREATIONAL VEHICLE - A vehicle that contains a
+factory-equipped, on board system for the storage and disposal of gray water
+and sewage.
+
+RECREATIONAL VEHICLE PARK -- An area of ground upon which two or more
+recreational vehicles are located, established or maintained for occupancy by
+recreational vehicles of the general public as temporary living quarters for recreational,
+education or vacation purposes.
+
+RECYCLING CENTER -- A center for the receiving and storage of recyclable materials
+such as paper, glass and aluminum. The center would receive materials from the
+general public. This use may involve some outside storage.
+
+REHABILITATION -- Infrequent, extensive repair of more than routine nature to existing
+structures or facilities which are in current use or operation.
+
+RELATIVE -- A spouse, child, stepchild, parent, stepparent, grandchild, grandparent,
+stepgrandparent, sibling, stepsibling, aunt, uncle, niece, nephew or first cousin of the
+farm operator or the farm operator’s spouse. [Ord. 18-02]
+
+Clatsop County Land and Water I-46 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+RELIGIOUS INSTITUTION OR ASSEMBLY – A building or other development used for
+a faith-based organization such as a church, mosque, temple or synagogue; together
+with its accessory uses and buildings, including but not limited to child care centers,
+offices, schools and living quarters for caretakers or religious leaders. [ORD. 23-07]
+
+REMEDIAL DUNE GRADING - Grading that is undertaken on an active dune in order to
+protect existing improvements from the effects of wind-borne sand. The grading is
+intended to remedy the effect of sand inundation that has already occurred.
+
+RENTAL, SHORT-TERM -- A dwelling unit that is rented to any person or entity for a
+period of up to thirty (30) consecutive nights.
+
+RENTED -- The use and possession of a residence is granted to one or more persons
+in exchange for consideration valued in money, goods, labor, credits, property or other
+consideration valued in money, without any deduction.
+
+REPLAT -- The act of platting the lots, parcels and easements in a recorded subdivision
+or partition plat to achieve a reconfiguration of the existing subdivision or partition plat or
+to increase or decrease the number of lots in the subdivision.
+
+RESERVE STRIP -- A strip of land one (1) foot in width which may overlay the outer
+one (1) foot of any public road right-of-way and over which authority is reserved to the
+Board specifically for the control of access to adjacent lands. Such control remains in
+effect until a plan for logical development of adjacent lands is accepted by the County or
+until adjacent right-of-way is accepted by the County for the continuation or widening of
+the street.
+
+RESIDENTIAL FACILITY – A facility licensed by or under the authority of the State of
+Oregon, which provides residential care alone or in conjunction with treatment or
+training or a combination thereof for six (6) to fifteen (15) individuals who need not be
+related. Staff persons required to meet State of Oregon licensing requirements shall not
+be counted in the number of facility residents, and need not be related to each other or
+to any resident of the residential facility. [ORD. 24-14]
+
+RESIDENTIAL HOME – A home licensed by or under the authority of the State of
+Oregon, which provides residential care alone or in conjunction with treatment or
+training or a combination thereof for five (5) or fewer individuals who need not be
+related. Staff persons required to meet State of Oregon licensing requirements shall not
+be counted in the number of facility residents, and need not be related to each other or
+to any resident of the residential home. [ORD. 24-14]
+
+RESORT -- Any area of land or water used for open land commercial or private
+recreation where overnight lodging, meals and related tourist services are provided in
+conjunction with such recreational use.
+
+RESOURCE ZONES -- The following zones shall be considered resource zones: EFU,
+
+Clatsop County Land and Water I-47 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+AF, F- 80, OPR, RM, LW, AN, AC-1, AC-2, NU, QM, NS, CS, NAC-1, NAC-2, EAC.
+
+RESTAURANT, CASUAL – Sit-down, full-service eating establishments. Generally,
+these restaurants serve lunch and dinner; they may also be open for breakfast and are
+sometimes open 24 hours a day. These restaurants typically do not accept reservations.
+Some facilities may also contain a lounge or bar are for serving food and alcoholic
+drinks. [ORD. 23-07]
+
+RESTAURANT, FAST FOOD, WITH DRIVE-THRU – A restaurant characterized by a
+drive-through and carry-out clientele, long hours of service (some are open for
+breakfast, all are open for lunch and dinner, some are open late at night or 24 hours a
+day) and high turnover rates for eat-in customers. These limited-service eating
+establishments do not provide table service. A patron generally orders from a menu
+board and pays before receiving the meal. [ORD. 23-07]
+
+RESTAURANT, FAST FOOD, WITHOUT DRIVE-THRU – A restaurant characterized by
+a carry-out clientele, and high turnover rates for eat-in customers. These limited-service
+eating establishments do not provide table service. A patron generally orders from a
+menu board and pays before receiving the meal. [ORD. 23-07]
+
+RESTAURANT, FINE DINING – Full-service restaurant characterized by duration of
+stay of at least one hour. These types of restaurants generally do not serve breakfast;
+some do not serve lunch; all serve dinner. A patron commonly waits to be seated, is
+served by wait staff, orders from a menu and pays after the meal. Some fine dining
+restaurants have a lounge or bar facilities for serving alcoholic beverages, but they are
+ancillary to the restaurant. [ORD. 23-07]
+
+RESTORATION -- Revitalizing, returning or replacing attributes and amenities such as
+natural biological productivity and aesthetic or cultural resources which have been
+diminished or lost by past alterations, activities or catastrophic events. For the purpose
+of Oregon Statewide Planning Goal 16, estuarine restoration means to revitalize or
+reestablish functional characteristics and processes of the estuary diminished or lost by
+past alterations, activities, or catastrophic events. A restored area must be a shallow
+subtidal or an intertidal or tidal marsh area after alteration work is performed, and may
+not have been a functioning part of the estuarine system when alteration work began.
+
+Active restoration involves the use of specific remedial actions such as removing
+dikes or fills, installing water treatment facilities, or rebuilding or removing
+deteriorated urban waterfront areas or returning diked areas to tidal influence.
+
+Passive restoration is the use of natural processes, sequences, and timing which
+occurs after the removal or reduction of adverse stresses without other specific
+positive remedial action.
+
+RESTORATION AS MITIGATION -- For the purposes of Statewide Planning Goal 16
+estuarine restoration means to revitalize or reestablish functional characteristics and
+
+Clatsop County Land and Water I-48 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+processes of the estuary diminished or lost by past alterations, activities, or catastrophic
+events. A restored area must be a shallow subtidal or an intertidal or tidal marsh area
+after alteration work is performed, and may not have been a functioning part of the
+estuarine system when alteration work began.
+
+RETAIL, DISCOUNT SUPERSTORE OR CLUB – A discount club is a discount store or
+warehouse where shoppers pay a membership fee in order to take advantage of
+discount prices on a wide variety of items such as food, clothing, tires, and appliances;
+many items are sold in large quantities or bulk. Some sites may include on-site fueling
+pumps. [ORD. 23-07]
+
+RETAIL, GROCERY – Retail store selling a complete assortment of food, food
+preparation and wrapping materials, and housing cleaning items. [ORD. 23-07]
+
+RETAIL, HOME IMPROVEMENT SUPERSTORES – A free-standing facility that
+specializes in the sale of home improvement merchandise. Examples of items sold in
+these stores include lumber, tools, paint, lighting, wallpaper and paneling, kitchen and
+bathroom fixtures, lawn equipment, and plant and garden accessories. [ORD. 23-07]
+
+RETAIL SALES – In-person sales of items for a customer’s personal use but does not
+include the sale of a seasonal use manufactured on the premises in Residential
+Agriculture (i.e. RA-1, RA-2, RA-5, RA-10) or resource zone (i.e. EFU, AF, F-80).
+
+RIPARIAN -- Of, pertaining to, or situated on the edge of the bank of a river or other
+body of water.
+
+RIPRAP -- A layer, facing, or protective mound of stones randomly placed to prevent
+erosion, scour or sloughing of a structure or embankment; also, the stone so used. In
+local usage, the similar use of other hard material, such as concrete rubble, is also
+frequently included as riprap.
+
+ROAD – A public or private way created to provide ingress to, or egress from, one or
+more lots, parcels, areas or tracts of land, or that provides for travel between places by
+vehicles. A private way created in compliance with OAR 629-625 (Forest Practices Act)
+is not a “road.” The terms “street,” “access drive”, “lane”, “avenue” and “highway” for the
+purposes of this Ordinance shall be synonymous with the term “road.”  [ORD 25-02]
+
+ROAD CLASSIFICATION – For the purposes of this Ordinance, public, private, County
+and State roads are classified as follows: [ORD 25-02]
+1) Principal Arterial: These roads serve urbanized areas, provide a high degree of
+mobility and provide mobility through rural areas. Principal arterials serve
+abutting land uses. All state highways are classified as Principal Arterials
+2) Minor Arterial: Minor arterials provide service for trips of moderate length and
+serve geographic areas that are smaller than those served by principal arterials.
+Examples of minor arterial roads include a portion of Westport Ferry Road from
+the ferry terminal to the railroad crossing.
+
+Clatsop County Land and Water I-49 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+3) Major Collector: Major collectors provide service to traffic generators within the
+county, such as schools and county parks and link these places with nearby
+cities. Examples of major collector roads include Lewis and Clark Road, Logan
+Road, Fort Clatsop Road, Youngs River Road, Hamlet Road, Ridge Road,
+Svensen Market Road, Walluski Loop and Hillcrest Loop.
+4) Minor Collector: Minor collector roads collect traffic from local roads and provide
+service to smaller unincorporated communities not served by a higher
+classification road.  Minor collector roads link traffic generators to rural areas.
+Examples of minor collector roads include Tucker Creek Lane, Koppisch Road,
+Brownsmead Hill Road, Aldrich Point Road, Clifton Road, Sunset Beach Lane,
+and Dellmoor Loop.
+5) Local: Local roads primarily provide access to adjacent land.  Trips are generally
+shorter distances compared to trips on a higher classification road. Examples of
+local roads include Maki Road, Anderson Lane, E. Shingle Mill Lane, Ray Brown
+Road, Beerman Creek Lane, Burnside Loop, and Claremont Road.
+
+ROAD, COUNTY – A way within a dedicated public right-of-way which has been
+formally accepted by the Board of County Commissioners for access and vehicular
+circulation purposes and which is maintained by the county. [ORD 25-02]
+
+ROAD, CUL-DE-SAC – A street having only one outlet for vehicular traffic and a
+turnaround at the opposite end. A cul-de-sac is not to be extended or continued to serve
+future subdivision or development on adjacent lands. [ORD 25-02]
+
+ROAD, FRONTAGE – A street which is parallel and adjacent to a principal or minor
+arterial road, and which provides access to abutting properties while separating those
+properties from the adjacent arterial road. [ORD 25-02]
+
+ROAD, PRIVATE – A way within a private road easement that is intended to provide
+access from a state, county, or public road to one or more lots, parcels, areas or tracts
+of land and which is maintained by private funds for the exclusive use of private parties.
+[ORD 25-02]
+
+ROAD, PUBLIC – A way dedicated or deeded for public use, but not accepted into the
+County road maintenance system. [ORD 25-02]
+
+ROAD, STATE -- An improved travel surface placed within a dedicated public right-of-
+way which is maintained by the State of Oregon. [ORD 25-02]
+
+ROOMING HOUSE -- See “Boarding House.” [ORD 25-02]
+
+SAND DUNES -- The accumulation of sand in ridges or mounds, usually by natural
+means, landward of the beach.
+
+SCHOOL, ELEMENTARY – Typically serves students attending kindergarten through
+fifth or sixth grades. [ORD. 23-07]
+
+Clatsop County Land and Water I-50 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+
+SCHOOL, HIGH – A public or private high school serves students who have completed
+middle school, typically services ninth grade through twelfth grade. [ORD. 23-07]
+
+SCHOOL, MIDDLE – A middle school serves students who have completed elementary
+school and have not yet entered high school. [ORD. 23-07]
+
+SEASONAL FARMWORKER HOUSING -- Housing limited to occupancy by seasonal
+farmworkers and their immediate families which is occupied no more than nine months
+a year. For purposes of this definition, “nine months” means 273 days within any
+calendar year.
+
+SEASONAL USE – A use carried on for only a part of the year during a designated
+season, such as the spring, summer, the fall or the winter months.
+
+SENIOR HOUSING, ASSISTED LIVING – An assisted living complex is a residential
+setting that provides either routine general protective oversight or assistance with
+activities necessary for independent living to mentally or physically limited persons. It
+commonly has separate living quarters for residents. Its centralized services typically
+include dining, housekeeping, social and physical activities, medication administration,
+and communal transportation. Alzheimer’s and ALS care are commonly offered by
+these facilities, though the living quarters for these patients may be located separately
+from the other residents. Assisted care commonly bridges the gap between independent
+living and nursing homes. Staff may be available at an assisted care facility 24 hours a
+day, but skilled medical care – which is limited in nature – is not required. [ORD. 23-07]
+
+SENSITIVE USE -- A conflicting use or structure considered sensitive to dust, odor,
+vibration, and/or noise, including an office, business, residence, school, park, church or
+hospital. Industrial, agricultural and forestry activities are not sensitive uses unless the
+activity includes an accessory residential use.
+
+SHALLOW WATER PLACEMENT – A dredge material disposal site that initially
+contains an area that is generally shallower than -20 feet Columbia River Datum (CRD).
+The intent of in-water shallow placement is to transform areas that are open water now
+into areas that are shallower submerged or tidally or seasonally inundated to improve
+habitat complexity. [ORD. 25-05]
+
+SHARED USE PATH:  A facility for non-motorized access conforming to County
+standards and separated from the roadway, either in the roadway right-of-way,
+independent public right-of-way, or a public access easement. It is designed and
+constructed to allow for safe walking, biking, and other human-powered travel modes.
+
+SHORELINE -- The boundary between a body of water and the land, measured on tidal
+waters at the landward limit of aquatic vegetation or, where aquatic vegetation is
+absent, Mean Higher High Water; and on non-tidal waterways at the ordinary high water
+mark.
+
+Clatsop County Land and Water I-51 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+
+SHORELINE PLACEMENT – A dredge material disposal area in the Columbia River
+Estuary where dredged material could be placed in water below ordinary high water
+(OHW). These sites are completely or periodically inundated in water and are then filled
+with dredged material to create land above OHW. [ORD. 25-05]
+
+SHORELINE STABILIZATION -- The protection from erosion and sloughing of ocean
+and estuary shorelines and the banks of tidal or non-tidal streams, rivers or lakes by
+vegetative or structural means. Vegetative shoreline stabilization is the use of lands that
+anchor the soil to prevent shoreline erosion and sloughing. Structural shoreline
+stabilization is the use of riprap, bulkheads, sea walls, or other non-vegetative material
+to prevent shoreline erosion.
+
+SIGN -- Any letter, figures, symbols, or designs which are intended to convey a
+message or to attract the attention of a person on a public street.
+
+SIGN, FLASHING -- Any illuminated sign on which the artificial light is not maintained
+stationary and/or constant in intensity and color at all times when such sign is in use.
+For the purpose of this ordinance, any moving, illuminated sign shall be considered a
+flashing sign.
+
+SIGNIFICANT AREAS -- An area of more than local significance; so designated
+because it possesses important natural, scientific, historical, cultural and/or
+archaeological resources.
+
+SIGNIFICANT SHORELAND RESOURCES -- Are described in subarea plans, and are
+included in the Coastal Shorelands boundaries. Significant shoreland resources include
+significant non-tidal wetlands, significant shoreland fish and wildlife habitat, significant
+riparian vegetation, exceptional aesthetic resources and coastal headlands.
+
+SOLAR ACCESS -- The exposure of a building to the sun which enables such building
+to obtain south-facing surface area exposure, in excess of 50% on the date of the winter
+solstice, adequate for solar space heating or water heating purposes.
+
+SOLID WASTE -- All putrescible and non-putrescible wastes including but not limited to
+garbage, rubbish, refuse, ashes, waste paper and cardboard; sewage sludge, septic
+tank and cesspool plumbing and other sludge; commercial, industrial demolition and
+construction wastes, discarded or abandoned vehicles or parts thereof; discarded home
+and industrial appliances; manure, vegetable or animal solid and semi-solid wastes,
+dead animals and other wastes; but the term does not include:
+1) Environmentally hazardous wastes as defined in Ordinance 72-3, pertaining to
+Solid Waste Nuisance Abatement.
+2) Materials used for fertilizer for other productive purposes or which are
+salvageable as such materials are used on land in agricultural operations and the
+growing or harvesting of crops and raising of fowl or animals.
+
+Clatsop County Land and Water I-52 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+SOLID WASTE TRANSFER STATION -- This use would involve the transfer of solid
+waste materials from route collection trucks to larger capacity semi-trailers for transport
+to a solid waste disposal site. The transfer activities would be conducted entirely within
+an enclosed structure. The use may involve a service area for the repair and
+maintenance of trucks and an outside parking area for trucks.
+
+SPECIALITY TRADE CONTRACTOR – A business primarily involved in providing
+contract repairs and services to meet industrial or residential needs. Included
+businesses may include: plumbing, heating and cooling, machine repair, electrical and
+mechanical repair, industrial supply, roofing, locksmith, weed and pest control, and
+cleaning. [ORD.23 -07]
+
+STABILIZATION -- The process of controlling soil or sand activity (i.e. stilling the
+movement of sand and eroding soil) by natural vegetative growth, planting of grasses
+and shrubs, or mechanical means (e.g. wire net, fencing).
+
+STADIUM/EVENT CENTER – A large indoor/outdoor facility in which spectator events
+are held. These events may include professional or amateur sports or non-sporting
+events such as concerts, shows, or religious services. [ORD. 23-07]
+
+START OF CONSTRUCTION –
+1) For a structure other than a mobile home "start of construction" means the first
+placement of permanent construction on a site, such as the pouring of slabs or
+footings or any work beyond the state of excavation. Permanent construction
+does not include land preparation, such as clearing, grading or filling; nor does it
+include the installation of streets and/or walkways; not does it include the
+excavation for a basement; footing, piers or foundations or the erection of
+temporary forms; nor does it include the installation on the property of accessory
+buildings, such as garages or sheds not occupied as dwelling units or not as part
+of the main structure. For a structure without a basement or poured footings, the
+"start of construction" includes the first permanent framing or assembly of the
+structure or any part thereof on its piling or foundation.
+2) For mobile homes not within a mobile home park/subdivision "start of
+construction" means the placing of the mobile home on the property.
+3) For mobile homes within mobile home park/subdivision "start of construction"
+means the date on which the construction of facilities for servicing the site on
+which the mobile home is to be affixed (including at a minimum, the construction
+of streets, either final site grading or the pouring of concrete pads, and the
+installation of utilities) is completed.
+
+STATE ROAD -- See Road, State.
+
+STORAGE -- To keep for future use. Placement of a structure, excluding mobile homes,
+RVs and trailers in residential zones in which valued possessions are kept for use at a
+future date.
+
+Clatsop County Land and Water I-53 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+STORAGE STRUCTURES FOR EMERGENCY SUPPLIES -- Structures to
+accommodate those goods, materials and equipment required to meet the essential and
+immediate needs of an affected population in a disaster. Such supplies include food,
+clothing, temporary shelter materials, durable medical goods and pharmaceuticals,
+electric generators, water purification gear, communication equipment, tools and other
+similar emergency supplies.
+
+STRUCTURE -- Anything constructed, erected or air-inflated, permanent or temporary,
+which requires location on the ground or water, or attached to an existing structure.
+Among other things, structure includes residences, apartments, barns, cabins,
+buildings, walls, fences, billboards, poster panels, food stands and parking lots. [Ord.
+18-02]
+
+SUBDIVIDE LAND -- To divide an area or tract of land into four or more lots within a
+calendar year. [ORD 25-02]
+
+SUBDIVIDER -- Any person who undertakes the subdivision of land for the purpose of
+ownership or development at any time, whether immediate or future.
+
+SUBDIVISION -- Either an act of subdividing land or an area or tract of land subdivided.
+[ORD 25-02]
+
+SUBMERGED LANDS -- Lands lying below the line of Mean Low Water in tidal areas
+and the line of Ordinary Low Water in non-tidal areas.
+
+SUBMERSIBLE LANDS -- Land lying between Extreme Low Water and Extreme High
+Water.
+
+SUBSTANTIAL CONSTRUCTION – Any development-related activity (site preparation
+or construction activities), including any combination of development, building, or septic
+permits, septic construction, clearing, grading, excavation or other earthwork, road
+construction, utility placement, surveying, engineering and architectural design, that has
+been met prior to the expiration of the specific development permit as outlined below:
+
+Substantial construction shall be defined to have occurred for construction when any of
+the following have been met prior to the expiration of the specific development permit:
+1) Building, development and septic permits have been obtained and a foundation
+completed for a conventionally built dwelling; or
+2) Substantial construction, as defined above, has been completed at a cost in
+excess of 10% of the construction value of the proposed structure as determined
+by Uniformed Building Code calculations. Documentation of the cost of
+improvements for the dwelling shall be in writing (i.e., receipts, canceled checks,
+etc.) and shall be submitted to the Community Development Department with a
+time schedule of the activities/expenditures.
+
+SUBSTANTIAL IMPROVEMENT -- Any repair, reconstruction, or improvement of a
+
+Clatsop County Land and Water I-54 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+structure, the cost of which equals or exceeds fifty percent (50%) of the market value of
+the structure either:
+1) Before the improvement or repair is started, or
+2) If the structure has been damaged and is being restored, before the damage
+occurred.
+
+For the purpose of this definition, substantial improvement is considered to occur when
+the first alteration of any wall, ceiling, floor, or other structural part of the building
+commences, whether or not the alteration affects the external dimensions of the
+building. The term does not, however, include:
+1) Any project for improvement of a structure to comply with existing state or local
+health, sanitary or safety code specifications which are solely necessary to
+assure safe living conditions, or
+2) Any alteration of a structure listed on the National Register of Historical Places or
+a State Inventory of Historic Places.
+
+SUBTIDAL -- Below the level of mean lower low tide. In the Columbia River Estuary this
+is generally three (3) feet below mean lower low water.
+
+SUMP DREDGED MATERIAL DISPOSAL, IN-WATER -- Deposition of dredged
+materials in a temporary in-water holding area and subsequently rehandling the material
+to place it on a land disposal site.
+
+SURVEY AND MONUMENT -- To locate and monument the boundaries of a
+subdivision lot, partition parcel, road right-of-way or road easement. A survey shall be
+completed by a state licensed surveyor and be in compliance with ORS 92 and 209,
+such that the error of closure shall not exceed one foot in 5,000 feet. At a minimum, the
+corners of all parcels and the boundaries of all roads which are created or easements
+which are utilized shall be monumented. Points shall be monumented along road
+boundaries at the point of beginning, at road intersections and where the boundary line
+changes direction. If a cul-de-sac is proposed, the center of the cul-de-sac shall be
+monumented. (Ord. 21-05)
+
+TEMPORARY ESTUARINE ALTERATION -- Dredging, filling, or other estuarine
+alteration occurring over a specified short period of time which is needed to facilitate an
+allowed use. Temporary alterations may not be for more than three years and the
+affected area must be restored to its previous condition. Temporary alterations include:
+(1) alterations necessary for disposal sites by barge or pipeline and staging areas or
+dredging for jetty maintenance, (2) alterations to establish mitigation sites, alterations for
+bridge construction or repair and for drilling or other explanatory operations, and (3)
+minor structures (such as blinds) necessary for research and educational observation.
+
+TEMPORARY STRUCTURE – Includes tents, trailers, chemical toilet facilities and other
+structures customarily erected or sited for temporary use. [ORD.23-02]
+
+TEMPORARY USE -- A non-permanent use or activity involving minimal capital
+
+Clatsop County Land and Water I-55 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+investment that does not result in the permanent alteration of the site and is removed
+from the site within one year. [Ord. 18-02] [ORD 25-02]
+
+THALWEG – An expanded area contiguous to the Federal Navigation Channel that
+occurs at the 20-foot depth contour, or deeper. [ORD. 24-18]
+
+THEATER – A structure that is used for dramatic, motion pictures, or other
+performances for admission to which entrance money is collected. [ORD. 23-07]
+
+TIDAL MARSH -- Tidal wetlands vegetated with emergent vascular plants lying between
+extreme low tide and landward limit of aquatic vegetation.
+
+TIDEGATE – A device placed in a dike or dam that allows the passage of water through
+a culvert in a single direction.
+
+TOWNHOUSE – A dwelling unit that is part of a row of two or more attached dwelling
+units, where each unit is located on an individual lot or parcel and shares at least one
+common wall with an adjacent dwelling unit. [ORD 25-02]
+
+TOXIC MATERIALS -- A substance (liquid, solid, or gaseous) which by reason of an
+inherent deleterious property tends to destroy life or impair health.
+
+TRACT OF LAND -- One or more contiguous lots or parcels under the same ownership,
+as defined in ORS 215.010(2). [Ord. 18-02]
+
+TRANSFER SITE – Sites that are in-water holding areas created for temporary storage
+of dredged material. [ORD. 25-05]
+
+TRANSIENT LODGING – Any hotel, motel, inn, lodge, or resort intended to be used for
+transient persons or tourists for overnight lodging, or longer. Transient lodging includes
+customary accessory uses that are subordinate to the primary use including gift shops,
+restaurants or swimming pools. Transient lodging does not include spaces used for
+parking recreational vehicles, bed and breakfast establishment or test or short-term
+rental units. [ORD. 23-07]
+
+TRANSMISSION LINES – Lines designated to move bulk energy products from where
+they are produced, generated or stored in bulk to distribution lines that carry the energy
+products to consumers.
+
+TREE -- any woody plant having at least one well-defined stem at least six inches in
+diameter measured at a height of four and one-half feet above the natural grade.
+
+TRUCKING TERMINAL – An intermodal truck terminal facility where goods are
+transferred between trucks and/or between trucks and other modes of transport,
+including but not limited to railroads and/or parks. [ORD. 23-01]
+
+Clatsop County Land and Water I-56 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+USE -- See Development.
+
+UTILITIES -- Local sewer, water, gas, telephone and power distribution lines necessary
+for local utility service. Included in this definition are uses needed to operate
+transmission and distribution lines including pumping stations, repeater stations, and
+water storage tanks.
+
+UTILITIES NECESSARY FOR PUBLIC SERVICE -- Unless otherwise specified in this
+Article/Chapter, any facility owned or operated by a public, private or cooperative
+company for the transmission, distribution or processing of its products or for the
+disposal of cooling water, waste or by-products, and including, major trunk pipelines,
+water towers , sewage lagoons, cell towers, electrical transmission facilities (except
+transmission towers over 200’ in height) including substations not associated with a
+commercial power generating facilities and other similar facilities. [Ord. 18-02]
+
+UTILITY – A free-standing building that can house office space, a storage area, and
+equipment that supports a local electrical, communication , water supply or control, or
+sewage treatment utility. [ORD. 23-07]
+
+VARIANCE -- A grant of relief to a person from the quantifiable standards of this
+ordinance in a manner that would otherwise be prohibited. “Variance” does not include
+grants of relief from standards regulating uses or density. [ORD. 26-05]
+
+VARIANCE, ADMINISTRATIVE – A minor deviation from an established dimensional
+standard that complies with Section 2.8030. [ORD. 26-05]
+
+VEGETATIVE HEDGE – One or more species of shrubs or trees, growing or planted
+along a line to create a dense boundary to buffer adjacent property or to screen out
+objectionable views.  [Ord. 18-02]
+
+VEHICLE – Any device in, upon or by which any person or property is or may be
+transported or drawn and includes vehicles that are propelled or powered by any
+means.
+
+VETERINARY CLINIC -- Any building or portion thereof designed or used for the care,
+observation or treatment of animals.
+
+WAREHOUSE -- A structure or part of a structure, for storing goods, wares, and
+merchandise, whether for the owner or for others, and whether it is a public or private
+warehouse.
+
+WATER-DEPENDENT -- A use or use and activity which can only be carried out on, in
+or adjacent to water areas because the use requires access to the waterbody for water-
+borne transportation, recreation, energy production, or source of water.
+
+WATER-ORIENTED -- A use whose attraction to the public is enhanced by a view or
+
+Clatsop County Land and Water I-57 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+access to coastal waters.
+
+WATER-RELATED -- Uses which are not directly dependent upon access to a water
+body, but which provide goods or services that are directly associated with water-
+dependent land or waterways, and which, if not located adjacent to water, would result
+in a public loss of quality in the goods or services offered. Except as necessary for
+water-dependent or water-related uses or facilities, residences, parking lots, spoil and
+dump sites, roads and highways, restaurants, businesses, factories, and trailer parks
+are not generally considered dependent on or related to water location needs.
+
+WATER SUPPLY, POTABLE -- A water source that complies with appropriate state
+agency regulations as to quality and quantity.
+
+WETLAND CREATION -- Alteration, by excavation or other means, of upland areas to
+allow local hydrologic conditions to convert soils and vegetation to hydric character.
+
+WETLAND ENHANCEMENT -- An action which results in a long term improvement of
+existing wetland functional characteristics and processes that is not the result of a
+creation of restoration action.
+
+WETLANDS -- Those areas that are inundated or saturated by surface or ground water
+at a frequency and duration sufficient to support, and that under normal circumstances
+do support, a prevalence of vegetation typically adapted for life in saturated soil
+conditions.
+
+WETLANDS, SIGNIFICANT NON-TIDAL -- Non-tidal wetlands described as significant
+in Coastal Shorelands boundary descriptions or protected by the County's Goal 5
+element.
+
+WINDMILL -- A structure designed to generate power or pump water through the action
+of wind on vanes or sails (see 3.0170).
+
+WINERY -- A facility that produces wine with a maximum annual production of:
+1) Less than 50,000 gallons and that:
+(A) owns an on-site vineyard of at least 15 acres;
+(B) owns a contiguous vineyard of at least 15 acres;
+(C) has a long-term contract for the purchase of all of the grapes from at least
+15 acres of a vineyard contiguous to the winery; or
+(D) obtains grapes from any combination of subparagraph (A), (B) or (C) of
+this paragraph; or
+2) At least 50,000 gallons and no more than 100,000 gallons and that:
+(A) owns an on-site vineyard of at least 40 acres;
+(B) owns a contiguous vineyard of at least 40 acres;
+(C) has a long-term contract for the purchase of all of the grapes from at least
+40 acres of a vineyard contiguous to the winery; or
+
+Clatsop County Land and Water I-58 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+(D) obtains grapes from any combination of subparagraph (A), (B) or (C) of
+this paragraph.
+
+YARD -- A required area of land unoccupied and unobstructed by any structure 30
+inches or more above the ground level, with the exception of fences,
+walkways/staircases, retaining walls, poles, posts customary yard accessories,
+appurtenances, ornaments, furniture and accessory structures or uses permitted subject
+to the provisions of this code. [ORD 25-02]
+
+YARD, FRONT – A yard between the front line of the
+main building (exclusive of steps) and the front
+property line.
+
+YARD, OCEAN – A distance measured horizontally
+and at a right angle from the Statutory Vegetation
+Line established and described by ORS 390770 to
+the nearest point of a building. An ocean yard may
+be a front yard, rear yard, or a side yard. [ORD 25-
+02]
+
+YARD, REAR – A yard extending across the full width of the lot between the primary
+
+Clatsop County Land and Water I-59 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+building and the nearest point of the rear lot line. [ORD 25-02]
+
+YARD, SIDE -- An open, unoccupied space on the same lot with the primary building,
+between the side wall line of the primary building and the side line of the lot. [ORD 25-
+02]
+
+YARD, STREET SIDE -- A yard adjacent to a street between the front yard and the rear
+lot line measured horizontally and at right angles from the side lot line to the nearest
+point of the building.
+
+YOUTH CAMP -- A facility either owned or leased, and operated by a state or local
+government, or a nonprofit corporation as defined under ORS 65.001, to provide an
+
+Clatsop County Land and Water I-60 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+outdoor recreational and educational experience primarily for the benefit of persons 21
+years of age and younger. Youth camps do not include any manner of juvenile detention
+center or juvenile detention facility. [Ord. 18-02]
+
+Clatsop County Land and Water I-61 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+SECTION 1.1000. GENERAL PROVISIONS
+1.1010. Basic Characteristics of a Residential Site
+Except as otherwise provided by 1.1020, a lot or parcel to be developed for residential
+use shall comply with the following:
+1) In a location that will not be served by a public sewer, a lot or parcel shall have
+sufficient size to permit compliance with the requirements of the Department of
+Environmental Quality for sewage disposal by septic tank and drain field or other
+alternative system and permit continued reliance on that method of sewage
+disposal. If the location will not be served by a community water system, a lot or
+parcel shall have sufficient additional size to permit an on-site water supply for
+each lot or parcel without conflict between water supply and sewage disposal
+facilities.
+2) In a location that will be served by public or private sewer, the standards of each
+zone shall apply.
+
+1.1020 General Exception to Lot Size Standards
+1) A lot of record with an area or dimension which does not meet the requirements
+of the zone may be developed as allowed by the zone subject to all other
+applicable county development standards and requirements, provided the lot of
+record:
+(A) Is located within a Rural Community or residential zone that has a
+minimum lot size standard of one (1) acre or greater; and,
+(B) Is located in an area for which an exception to Goal 3 or Goal 4 has been
+acknowledged; and,
+(C) Does not abut Camp Rilea.
+2) In all other areas:
+(A) If, at the time the applicable zone or an amendment to the applicable lot
+size or dimension standards was adopted, a lot of record has an area or
+dimension that does not meet the requirements of the zone, and the lot of
+record was not in the same ownership with a contiguous lot or parcel
+which does not meet the minimum area or dimension requirements, the lot
+of record may be developed as allowed by the applicable zone and county
+development standards.
+(B) If, at the time the applicable zone or an amendment to the applicable lot
+size or dimension standards was adopted, a lot of record has an area or
+dimension that does not meet the requirements of the zone, and the lot or
+parcel was in the same ownership as any contiguous lots or parcels which
+do not meet the minimum area or dimension  requirements, the
+contiguous properties constitute one land use lot of record that may be
+developed as allowed by the applicable zone and county development
+standards.
+
+Section 1.1030. Rules of Construction
+Unlisted words and phrases: The definition of any word or phrase not listed in this
+chapter which is in question when administering this Ordinance shall be defined from
+one of the following sources. The sources shall be consulted in the order listed.
+
+Clatsop County Land and Water I-62 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+1) Clatsop County Comprehensive Plan.
+2) Any other Clatsop County resolution, Ordinance, codes or regulation.
+3) Any statute or regulation of the State of Oregon (including the Uniform Building
+Code and LCDC Goals and Guidelines).
+4) Legal definition from case law or law dictionary.
+
+Section 1.1040. Scope and Compliance
+1) The provisions of this Ordinance shall apply to all unincorporated areas of
+Clatsop County, Oregon which are not within the urban growth boundary of an
+incorporated city or town. The procedural provisions of this ordinance will
+continue to be utilized for unincorporated areas within urban growth boundaries.
+2) A parcel of land or water area may be used, developed by land division or
+otherwise, and a structure may be used or developed by construction,
+reconstruction, alteration, occupancy or otherwise only as this Ordinance
+permits.
+3) A development may be used only for a lawful use. A lawful use is one that is not
+prohibited by law and for which the development is designed, arranged and
+intended or which is non-conforming (See Section 3.1000 Nonconforming uses
+and structures).
+4) In addition to complying with the criteria and other provisions within this
+Ordinance, each development shall comply with the applicable standards set
+forth in County Development and Use Standards Document.
+5) The requirements of this Ordinance apply to the person undertaking a
+development or the user of a development and to the person's successors in
+interest. [ORD 25-02]
+
+Section 1.1050. Consistency with Comprehensive Plan
+Actions initiated under this Ordinance shall be consistent with the Clatsop County
+Comprehensive Plan as adopted or hereafter amended. Where a provision of this
+Ordinance is in conflict with the Comprehensive Plan, the Comprehensive Plan shall
+apply. A provision of this Ordinance that is in addition to another requirement is not in
+conflict.
+
+Section 1.1060. Authorization of Similar Development
+If development that has been referred to a hearing body by the Director for evaluation
+under the Type III procedure is found comparable to development that is allowed in an
+area under the Type I or II procedure, the hearing body may rule that future
+development of the same kind shall be approved under the Type I or II procedure in the
+specified district or zone. To make such a ruling, the hearing body shall do the following:
+1) Make a determination as part of a Type III decision in conjunction with approval
+of a development that is substantially the same as an earlier development
+approved under the Type III procedure.
+
+Clatsop County Land and Water I-63 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+2) Determine that the development is comparable to other development allowed in
+the area by either the Type I or II procedure. Similarity can be based on
+compliance with plan policy and standards, if appropriate within the context of the
+requirements for the area and type of development, as well as on language
+interpretation similarity.
+3) If approval and classification as a Type I or II development is dependent upon
+compliance with standards beyond those contained in the Development and Use
+Standards Document, prepare and add to the standards document the
+appropriate standards to be applicable to all future development.
+4) Report the determination to the Board of Commissioners at least thirty (30) days
+prior to the effective date of the ruling. The ruling will not become effective if the
+Board of Commissioners moves to have the matter addressed as an Ordinance
+amendment.
+
+Section 1.1070. Maintenance of Ordinance Requirements
+No lot area (except as may be permitted under a lot line adjustment), yard, or other
+open space, required off-street parking or loading area or other site condition existing
+on or after the effective date of this Ordinance shall be reduced in area, dimension or
+size below the minimum required by this Ordinance, nor shall any site condition which is
+required by this Ordinance for one development be used to meet a requirement for any
+other development except as authorized.
+
+Section 1.1080. Access
+Every lot shall abut a street, other than an alley, for at least twenty-five (25) feet. Lots
+which were created prior to adoption of Ordinance No. 66-2 which do not meet this
+provision may be built on if it is determined by the Community Development Director
+under a Type I procedure that:
+1) Access to be provided is adequate to handle the types and amount of traffic
+expected for the use.
+2) Access width is adequate for fire protection vehicles.
+
+Section 1.1090. Bond or Cash Deposit
+Before issuing or renewing a development permit when the applicant has an obligation
+to construct or improve public facilities to serve the development and use or to reclaim
+land such as that due to surface mining operations or to fulfill requirements for
+revegetation, or for any development and use that the Community Development
+Director, Planning Commission or Board of Commissioners deem necessary, the
+obligation shall either be fulfilled prior to the issuance of the development permit or the
+applicant shall be required to file with the County Clerk and acknowledgment of
+obligation. The acknowledgment shall contain the time within which it is to be met and a
+surety bond or cash or negotiable security deposit sufficient to cover the cost of the
+work as estimated by the County Engineer for the year fulfillment of the obligation is
+anticipated. The bond shall be conditioned upon the permittee carrying out the
+obligation and fulfilling the other requirements of this Ordinance that bear on the
+approval of the development. The deposit or bond shall be forfeited to the County if the
+permittee does not fulfill the requirements. The bond or deposit shall remain in the
+
+Clatsop County Land and Water I-64 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+custody of the County until the obligation is completed or the bond or deposit is
+forfeited, or shall be placed in an escrow account subject to County control.
+
+Section 1.1100. Non-Compliance with Provisions Under Obligation
+1) If the Director finds that a permittee is not fulfilling an obligation, the Director
+shall, in written notice to the permittee and the permittee's surety, specify the
+details of non- compliance. Unless the Director allows more time for compliance
+because of circumstances beyond the permittee's control, within thirty (30) days
+after receiving the notice, the permittee or the permittee's surety shall commence
+the compliance and proceed diligently to complete fulfillment of the obligation.
+2) If the permittee or the permittee's surety does not commence the compliance
+within the thirty (30) days or the additional time allowed by the Director, or has so
+commenced but fails diligently to complete the compliance, or the compliance is
+otherwise not completed within the time specified in granting the development
+permit, the County may take the following action:
+(A) Enter upon the site of the development and carry out the obligation in
+accordance with the provisions agreed upon under the acknowledgment.
+(B) Notify the permittee and the permittee's surety of the permittee's failure to
+perform as required by this Ordinance.
+(C) Demand payment from the permittee for the unfulfilled obligation.
+(D) If the security for the obligation is a bond, notify the surety that has
+furnished the bond that reimbursement for the expense for fulfillment of
+the obligation is due and payable to the County or, if the security is a
+deposit of cash or other assets, appropriate as much of the deposit as is
+necessary to recoup the expenses.
+(E)  If a bond or other security required by Section 1.1090 is not sufficient to
+compensate the County for expenses necessary to fulfill the obligation, the
+amount due to the County for the obligation is a lien in favor of the County
+and upon the entire contiguous real property of the owner of the land
+subject to the obligation.
+(F)  The lien attaches upon the filing with the County Clerk of notice of the
+claim for the amount due for the fulfillment of the obligation. The notice
+shall demand the amount due, allege the insufficiency of the bond or other
+security to compensate the County fully for the expense of the fulfillment
+of the obligation, and allege the permittee's failure to do the required
+obligation.
+(G) The lien may be foreclosed in the manner prescribed by law for
+foreclosing other liens on real property.
+
+Section 1.1110. Adjusting Bond or Deposit for Future Obligation
+1) In the case of an obligation to perform at a future date, such as a surface mining
+reclamation obligation, the amount of bond or deposit shall be adjusted annually
+to reflect changing estimates of the costs of fulfilling the obligation.
+
+Clatsop County Land and Water I-65 Date: April 22, 2026
+Development and Use Code                         Ordinances 25-08, 25-16, 26-05
+ARTICLE 1. INTRODUCTORY PROVISIONS
+2) In the case of a surface mining reclamation obligation the bond shall be no less
+than an amount comparable to $600 per acre in 1978, and the minimum bond
+shall be adjusted by the County Engineer annually on the basis of changes in
+generally accepted economic indices of construction costs and costs of living. If
+the acreage to which the bond or deposit pertains and is designated by the
+permittee, excavation may take place only within the acreage so designated.
+Otherwise, the acreage to which the bond or deposit pertains and on which
+excavation may take place in the entire mining site. The permittee may apply for
+release of a bond or deposit pertaining to an area that has not been mined and is
+not intended to be mined or that has been mined and reclaimed in conformity to
+these standards. Within thirty (30) days after the application is filed, the Director
+shall consider the application. If the Director determines that the area, if unmined,
+is expected to remain so for the foreseeable future or if mined has been
+reclaimed in conformity to this Ordinance, the Director shall release the bond or
+deposit to the extent that is pertains to that area.
+3) Where the County carries out the obligation because the permittee has failed to
+do so under Section 1.1100, the County may expend funds only to the extent
+necessary to complete the obligation. If the amount specified in the notice to the
+surety is not paid within thirty (30) days after that notice is given the surety, the
+County shall institute proceedings to recover the amount.
+4) A lien created under this Section is prior to all other liens and encumbrances,
+except that the lien has equal priority with tax liens.
+
+Section 1.1120. Fees and Deposits
+Fees and deposits shall be set and adjusted by Board of Commissioners resolution.
+
+Section 1.1130. Interpretation
+Where the conditions imposed by a provision of this Ordinance are less restrictive than
+comparable conditions imposed by any other provisions of this Ordinance or any other
+Ordinance, the provisions which are more restrictive shall govern.
+
+Section 1.1140. Severability
+The provisions of this Ordinance are severable. If any section, sentence, clause or
+phrase of this Ordinance is adjudged by a court of competent jurisdiction to be invalid,
+the decision shall not affect the validity of the remaining portions of this Ordinance.

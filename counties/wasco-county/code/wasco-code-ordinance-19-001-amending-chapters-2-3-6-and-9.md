@@ -1,0 +1,129 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/wasco-county
+id: wasco-code-ordinance-19-001-amending-chapters-2-3-6-and-9
+title: 'Ordinance 19-001 Amending Chapters 2,3,6 and 9'
+doc_type: ordinance
+citation: 'Ordinance 19-001 Amending Chapters 2,3,6 and 9'
+authority_level: county_ordinance
+issuing_body: 'Wasco County Board of Commissioners'
+source_url: https://www.wascocountyor.gov/Ordinances/Plannning%20and%20Land%20Use/2019/Ordinance%2019-001%20Amending%20Chapters%202,3,6%20and%209.pdf?t=202503260855560
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 106ab4bd95b8eec3e50d4935daa119db54f508e8599095afa83726ad5b721671
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 197.610
+  related: []
+  supersedes: []
+tags: [wasco-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Wasco County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance 19-001 Amending Chapters 2,3,6 and 9 (Ordinance 19-001 Amending Chapters 2,3,6 and 9)
+
+## At a glance
+
+Ordinance 19-001 Amending Chapters 2,3,6 and 9 — code of Wasco County. 3 pages.
+
+## Full text
+
+ORDINANCE #19-001 Wasco County 2040
+
+NOW ON THIS DAY, the above-entitled matter having come on regularly for consideration, said
+day being one duly set in term for the transaction of public business and a majority of the Board
+of Commissioners being present; and
+WHEREAS, the Wasco County Planning Commission and the Wasco County Board of
+Commissioners directed the Wasco County Planning Department to pursue Voluntary Periodic
+Review to update the Wasco County Comprehensive Plan on 5 October 2016; and
+WHEREAS, Wasco County entered Periodic Review on 20 February 2018 with approval from the
+Department of Land Conservation and Development’s (DLCD) approval of a work plan; and
+WHEREAS, the fifth task on the work plan was to make amendments to Goal 6 (Air, Water, and
+Land Resources Quality) to make the language consistent with current Wasco County Planning
+Department practice and state law and reformat the language in to the new Wasco County
+2040 (Comprehensive Plan) format; and
+WHEREAS, the fifth task on the work plan was to make amendments to address community
+concerns about water quantity and quality and develop a policy based upon community input;
+and
+WHEREAS, the sixth task on the work plan was to make amendments to Goal 9 (Economic
+Development) to make the language consistent with current Wasco County Planning
+Department practice and state law and reformat the language into to the new Wasco County
+2040 format; and
+IN THE BOARD OF COMMISSIONERS OF THE STATE OF OREGON
+IN AND FOR THE COUNTY OF WASCO
+IN THE MATTER OF THE WASCO COUNTY PLANNING COMMISSION’S REQUEST TO APPROVE PROPOSED
+PERIODIC REVIEW LEGISLATIVE AMENDMENTS TO UPDATE THE LAND USE AND DEVELOPMENT
+ORDINANCE RELATED TO LAND PLANNING GOALS 2, 3, 6 AND 9 IN CHAPTERS 2, 3, 6 and 9 OF WASCO
+COUNTY 2040, THE COMPREHENSIVE PLAN (FILE NUMBERS 921-18-000098, 921-18-000099, 921-18-
+000100, 921-18-000108)
+ORDINANCE # 19-001
+ORDINANCE #19-001
+WASCO COUNTY    ORDINANCE #19-001 Wasco County 2040 Page 2 of 3
+WHEREAS, the sixth task on the work plan was to address economic development trends and
+forecasts and develop new policy for the land use planning program to support strong
+economic development; and
+WHEREAS, the seventh task on the work plan was to make amendments to Goal 2 (Land Use
+Planning) to add policies and implementation in support of incentive and creative solutions for
+the land use planning program; and
+WHEREAS, the eighth task on the work plan was to make amendments to Goal 3 (Agricultural
+Lands) to establish clear direction for rules related to agri-tourism based on community input,
+creating a mechanism to permit uses and activities as permitted by state law; and
+WHEREAS, each Periodic Review task is approved and submitted to DLCD after completion for
+acknowledgment; and
+WHEREAS, the Wasco County Planning Department sent notification to DLCD pursuant to ORS
+197.610 on 28 September 2018; and
+WHEREAS, all property owners were sent notice of proposed Periodic Review update to the
+Comprehensive Plan in March 2017; and
+WHEREAS, that on 6 November 2018, at the hour of 3:00 PM in the lower level classroom at
+The Discovery Center the Wasco County Planning Commission held the first legally notified
+public hearing to review recommendations by staff and the advisory group, background
+information, and receive public testimony on work tasks 5, 6, 7 and 8. The Planning Commission
+then closed the public hearing and with a vote of 5 to 0, with two members absent,
+recommended approval to the Wasco County Board of Commissioners; and
+WHEREAS, that on 19 December 2018 at the hour of 9:30 AM at the Wasco County Courtroom
+#302, located at 511 Washington St, The Dalles, Oregon, the Wasco County Board of
+Commissioners met to conduct the first of two legally notified public hearings on the above
+matter. The Board of County Commissioners reviewed recommendations by the Wasco County
+Planning Commission, staff’s presentation, and received testimony from the public. The Board
+of County Commissioners tentatively approved the amendments; and
+WHEREAS, that on 16 January 2019 at the hour of 9:30 AM at the Wasco County Courtroom
+#302, located at 511 Washington St, The Dalles, Oregon, the Wasco County Board of
+Commissioners met to conduct the second of two legally notified public hearings on the above
+matter. The Board of County Commissioners reviewed recommendations by the Wasco County
+Planning Commission, staff’s presentation, and received testimony from the public. The Board
+ORDINANCE #19-001
+WASCO COUNTY    ORDINANCE #19-001 Wasco County 2040 Page 3 of 3
+of County Commissioners, by a vote of ___ to ___, approved the amendments and conducted
+the second reading, recommending submittal to DLCD; and
+NOW, THEREFORE, IT IS HEREBY ORDERED: That the request by the Wasco County Planning
+Department for a legislative amendment to the Wasco County Comprehensive Plan, to be
+renamed Wasco County 2040, in conjunction with Periodic Review work plan tasks 5, 6, 7 and 8
+is hereby approved; and
+WHEREAS, Pursuant to Oregon Administrative Rules 660-025-0130, submission of a completed
+work task is required to DLCD for acknowledgment as part of Periodic Review, and once the
+work tasks are acknowledged they will be effective.
+DATED this 16th day of January, 2019.
+APPROVED AS TO FORM:  WASCO COUNTY BOARD OF COMMISSIONERS:
+______________________________________
+Kristen Campbell, County Counsel
+______________________________________
+Steven D. Kramer, Chair
+ATTEST: ______________________________________
+Scott C. Hege, Vice-Chair
+______________________________________
+Kathy White, Executive Assistant
+_______________________________________
+Kathleen B. Schwartz, County Commissioner

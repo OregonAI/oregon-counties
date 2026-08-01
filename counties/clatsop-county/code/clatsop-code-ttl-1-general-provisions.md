@@ -1,0 +1,1555 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clatsop-county
+id: clatsop-code-ttl-1-general-provisions
+title: 'Ttl 1: General Provisions'
+doc_type: ordinance
+citation: 'Ttl 1: General Provisions'
+authority_level: county_ordinance
+issuing_body: 'Clatsop County Board of Commissioners'
+source_url: https://ecode360.com/44303313
+source_format: html
+retrieved: '2026-07-31'
+source_sha256: 9fa37b5b4510f0a4e6678719f4457b305cb528945a08180efabd918b8cc19f20
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [clatsop-county, code]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clatsop County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ttl 1: General Provisions (Ttl 1: General Provisions)
+
+## At a glance
+
+Ttl 1: General Provisions — code of Clatsop County. 5982 characters.
+
+## Full text
+
+Title 1: General Provisions - Clatsop County, OR 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to content 
+ 
+ 
+ 
+ 
+ 
+ home 
+ Home 
+ 
+ 
+ 
+ 
+ code 
+ 
+ Code
+ 
+ 
+ 
+ 
+ 
+ 
+ Code 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ law 
+ Laws (0) 
+ 
+ 
+ 
+ 
+ 
+ New Laws (0) 
+ 
+ 
+ 
+ 
+ Law Ledger (0) 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ help_center 
+ 
+ Help
+ 
+ 
+ 
+ 
+ 
+ 
+ Help 
+ 
+ 
+ 
+ 
+ About Us 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ ecode 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ search 
+ 
+ 
+ 
+ 
+ 
+ 
+ Login 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Clatsop County, OR
+ 
+ chevron_right 
+ 
+ chevron_right 
+ Code of Ordinances 
+ chevron_right 
+ Title 1 General Provisions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Title 1
+ 
+ 
+General Provisions 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 1.01
+ 
+ 
+CODE ADOPTION 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.01.010
+ 
+ 
+Adoption, amendment and repeal. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.01.020
+ 
+ 
+Reservation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.01.030
+ 
+ 
+Severability. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.01.040
+ 
+ 
+Conformance with State law. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.01.050
+ 
+ 
+Inconsistent provisions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.01.060
+ 
+ 
+References to prior code. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 1.04
+ 
+ 
+ADMINISTRATIVE CODE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.04.010
+ 
+ 
+County organization and structure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.04.020
+ 
+ 
+Board meetings. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.04.030
+ 
+ 
+Committees, commissions and boards. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.04.040
+ 
+ 
+Finance. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.04.050
+ 
+ 
+Signature authority delegation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.04.060
+ 
+ 
+Local Contract Review Board rules. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.04.070
+ 
+ 
+Emergencies. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 1.05
+ 
+ 
+RURAL LAW ENFORCEMENT DISTRICT ADVISORY COMMITTEE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.05.010
+ 
+ 
+Short title. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.05.020
+ 
+ 
+Purpose. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.05.030
+ 
+ 
+Formation of an Advisory Committee—Membership. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.05.040
+ 
+ 
+Duties of the Advisory Committee. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.05.050
+ 
+ 
+Miscellaneous provisions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.05.060
+ 
+ 
+Conformance with State law. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.05.070
+ 
+ 
+Inconsistent provisions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.05.080
+ 
+ 
+Separability. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 1.08
+ 
+ 
+REWARD FOR INFORMATION LEADING TO THE ARREST AND CONVICTION OF PERSONS VANDALIZING COUNTY PROPERTY 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.08.010
+ 
+ 
+Reward. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.08.020
+ 
+ 
+Procedure for payment. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 1.11
+ 
+ 
+CODE VIOLATIONS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.11.010
+ 
+ 
+Violations deemed Class A or B classification—Penalties. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.11.020
+ 
+ 
+Strict liability. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.11.030
+ 
+ 
+Continuing violations. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.11.040
+ 
+ 
+Violation procedures—Statutory provisions adopted. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.11.050
+ 
+ 
+Other remedies not precluded. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 1.12
+ 
+ 
+CODE COMPLIANCE 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.010
+ 
+ 
+Application. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.020
+ 
+ 
+Purpose. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.030
+ 
+ 
+Definitions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.040
+ 
+ 
+Nuisance and infraction declared. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.050
+ 
+ 
+Persons authorized to take enforcement action. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.060
+ 
+ 
+Persons against whom enforcement action may be taken. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.070
+ 
+ 
+Issuance of warnings. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.080
+ 
+ 
+Service of notice and warnings. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.090
+ 
+ 
+Notice of violation form and content. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.100
+ 
+ 
+Abatement by owner—Administrative review. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.110
+ 
+ 
+Administrative review. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.120
+ 
+ 
+Appeal of administrative review. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.130
+ 
+ 
+Schedules of fines. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.140
+ 
+ 
+Disposition of civil penalties received. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.150
+ 
+ 
+Responsibility to remedy. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.160
+ 
+ 
+Other remedies preserved. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.170
+ 
+ 
+Enforcement action discretionary. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.12.180
+ 
+ 
+Inspection warrants. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Chapter 1.14
+ 
+ 
+CODE COMPLIANCE HEARINGS PROCEDURES 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.14.010
+ 
+ 
+Application. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.14.020
+ 
+ 
+Purpose. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.14.030
+ 
+ 
+Definitions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.14.040
+ 
+ 
+Hearings officers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.14.050
+ 
+ 
+Persons against whom enforcement action may be taken. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.14.060
+ 
+ 
+Instituting civil penalty proceedings. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.14.070
+ 
+ 
+Notice of violation and proposed civil penalty. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.14.080
+ 
+ 
+Service of notice. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.14.090
+ 
+ 
+Setting the hearing, continuances. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.14.100
+ 
+ 
+Hearing procedure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.14.110
+ 
+ 
+Decision and order of hearings officer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.14.120
+ 
+ 
+Penalty amounts and other orders by the hearings officer. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.14.130
+ 
+ 
+Collection of civil penalties. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.14.140
+ 
+ 
+Final decision. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ § 1.14.150
+ 
+ 
+Disposition of civil penalties received. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ By using eCode360 you agree to be legally bound by the Terms of Use and Privacy Policy .

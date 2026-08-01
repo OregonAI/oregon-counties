@@ -1,0 +1,254 @@
+ ### ARTICLE 17.00 - FLOOD PLAIN OVERLAY ZONE
+
+ ### 17.01 - PURPOSE
+
+The Flood Plain (FP) Overlay Zone is a superimposed zone applied in combination with
+existing identified zones for the purpose of promoting the public health, safety,
+and general welfare and to minimize public and private losses due to flood conditions
+in specified areas.
+
+ ### 17.02 - AREAS OF SPECIAL FLOOD HAZARD
+
+The boundaries of areas recognized as Flood Plains (FP) shall be the boundaries of
+special flood hazard areas which are areas subject to a one percent or greater chance
+of flooding in any given year, identified by the Federal Emergency Management Agency
+(FEMA) in a scientific and engineering report entitled "The Flood Insurance Study
+for Union County, Oregon," dated November 1979.
+The Flood Plain Overlay Zone is identified on the Union County Zoning Maps as a superimposed
+zone. In addition, where base flood elevation data has been provided by the FEMA,
+the Federal Flood Insurance and Floodway Maps are hereby adopted by reference and
+declared to be a supplemental part of this ordinance. These maps may be periodically
+revised or modified by FEMA in accordance with prescribed procedures pursuant to Section
+206 of the Flood Disaster Protection Act of 1973 (PL92-234). These changes are technical
+in nature and are made in order to reflect new or revised data on base flood elevations,
+ground elevations, flood control structures or other factors. In order to employ the
+best available information and maintain compliance with Federal Flood Insurance Program
+regulations, Union County shall utilize any such revisions or modifications upon their
+effective date.
+Where base flood elevation data has not been provided by FEMA, the County Building
+Inspector shall obtain, review, and reasonably utilize any base flood elevation data
+from Federal, State or other sources, in order to administer residential and non-residential
+construction within potential special flood hazard areas. When no base data exists,
+the zoning and building permit applications shall be reviewed to assure that proposed
+construction will be reasonably safe from flooding. The test of reasonableness shall
+be made, where available, through the use of historical data, high water marks, photographs
+of past flooding, etc.
+
+ ### 17.03 - LIMITATIONS
+
+The areas within the FP Overlay Zone shall be regulated by the following general and
+specific standards in combination with the applicable underlying zone, e.g., FP/R-1.
+The outright and conditional uses permitted in accordance with the provisions of the
+underlying zones shall be permitted only where the FP general and specific standards
+can be complied with.
+1.
+General Standards.
+In all areas of special flood hazards, the following standards are required:
+A.
+Filing of a development permit or building permit, where applicable, shall be obtained
+before construction or development begins within any area of special flood hazard.
+Development permits are required for all structures including manufactured homes and
+for all other development including fill, except low investment structures; building
+permits shall be for all structures. Application for a development and building permit
+shall be made to and maintained by the County Building Inspector and findings submitted
+to the County Planning Department. Specifically, the following information is required
+for development permits:
+(1)
+Elevation in relation to mean sea level, of the lowest floor, including basement,
+of all structures.
+(2)
+Elevation in relation to mean sea level to which any structure has been flood proofed.
+(3)
+Certification by a registered professional engineer or architect that the flood proofing
+methods for any non-residential structure meet the flood proofing criteria in Subsection
+17.03 1.B.
+(4)
+Description of the extent to which any watercourse will be altered or relocated as
+a result of proposed development; and
+(5)
+If the Building Inspector determines an alteration to a watercourse could have an
+effect on a neighboring community, such community shall be involved in the review
+of the development permit.
+B.
+Anchoring.
+(1)
+All new construction and substantial improvements shall be anchored to prevent flotation,
+collapse or lateral movement of the structure.
+(2)
+All mobile homes shall be anchored to resist floatation, collapse, or lateral movement
+by providing over-the-top and frame ties to ground anchors. Specific requirements
+shall be that:
+(a)
+Over-the-top ties be provided at each of the four corners of the mobile home, with
+two additional ties per side at intermediate locations, with mobile homes less than
+50 feet long requiring one additional tie per side.
+(b)
+Frame ties be provided at each corner of the mobile home with five additional ties
+per side at intermediate points, with mobile homes less than 50 feet long requiring
+four additional ties per side.
+(c)
+All components of the anchoring system be capable of carrying a force of 4,800 pounds;
+and
+(d)
+Any additions to the mobile home be similarly anchored.
+(3)
+An alternative method of anchoring may involve a system designed to withstand a wind
+force of 90 miles-per-hour or greater. Certification must be provided to the County
+Building Inspector that this standard has been met.
+(4)
+All manufactured homes must likewise be anchored to prevent flotation, collapse or
+lateral movement, and shall be installed using methods and practices that minimize
+flood damage. Anchoring methods may include, but are not limited to, use of over-the-top
+or frame ties to ground anchors (Reference FEMA's "Manufactured Home Installation
+in Flood Hazard Areas" guidebook for additional techniques).
+C.
+Construction, Materials and Methods.
+(1)
+All new construction and substantial improvements shall be constructed with materials
+and utility equipment resistant to flood damage.
+(2)
+All new construction and substantial improvements shall be constructed using methods
+and practices that minimize flood damage.
+(3)
+Electrical, heating, ventilation, plumbing, and air-conditioning equipment and other
+service facilities shall be designed and/or otherwise elevated or located so as to
+prevent water from entering or accumulating within the components during conditions
+of flooding.
+D.
+Utilities.
+(1)
+All new and replacement water supply systems shall be designed to minimize or eliminate
+infiltration of flood waters into the system.
+(2)
+New and replacement sanitary sewage systems shall be designed to minimize or eliminate
+infiltration of flood waters into the systems and discharge from the systems into
+flood waters; and
+(3)
+On-site waste disposal systems shall be located to avoid impairment to them or contamination
+from them during flooding.
+E.
+Subdivision Proposals.
+(1)
+All subdivision proposals shall be consistent with the need to minimize flood damage.
+(2)
+All subdivision proposals shall have public utilities and facilities such as sewer,
+gas, electrical, and water systems located and constructed to minimize flood damage.
+(3)
+All subdivision proposals shall have adequate drainage provided to reduce exposure
+to flood damage; and
+(4)
+Where base flood elevation data has not been provided or is not available for another
+authoritative source it shall be generated for subdivision proposals and other proposed
+developments which contain at least 50-lots or 5-acres, whichever is less.
+F.
+Alteration to Watercourses.
+No development activity shall alter a water course which will reduce its carrying
+capacity.
+G.
+Low Investment Accessory Structures.
+(1)
+Obtain a building permit prior to construction.
+(2)
+Be anchored in compliance with Subsection 17.03 1.B(1).
+2.
+Specific Standards.
+In all areas of special flood hazards where base flood elevation data has been provided
+the following provisions are required:
+A.
+Residential Construction.
+(1)
+New construction and substantial improvement of any residential structure shall have
+the lowest floor, including the basement, elevated to or above base flood elevation.
+(2)
+Fully enclosed areas below the lowest floor that are subject to flooding are prohibited,
+or shall be designed to automatically equalize hydrostatic flood forces on exterior
+walls by allowing for the entry and exit of floodwaters. Designs for meeting this
+requirement must either be certified by a registered professional engineer or architect
+or must meet or exceed the following minimum criteria:
+(a)
+A minimum of two openings having a total net area of not less than one square inch
+for every square foot of enclosed area subject to flooding shall be provided.
+(b)
+The bottom of all openings shall be no higher than one foot above grade.
+(c)
+Openings may be equipped with screens, louvers, or other coverings or devices provided
+that they permit the automatic entry and exit of floodwaters.
+B.
+Non-Residential Construction.
+New construction and substantial improvement of any commercial, industrial or non-residential
+structure other than low investment accessory structures shall either have the lowest
+floor, including the basement, elevated to the level of the base flood elevation,
+or together with the attendant utility and sanitary facilities, shall:
+(1)
+Be flood proofed so that below the base flood level the structure is watertight with
+walls substantially impermeable to the passage of water.
+(2)
+Have structural components capable of resisting hydrostatic and hydrodynamic loads
+and effects of buoyancy, and
+(3)
+Be certified by a registered professional engineer or architect that the standards
+of this subsection are satisfied. Such certifications shall be provided to the County
+Building Inspector.
+C.
+Mobile Homes.
+(1)
+Mobile homes shall be anchored in accordance with Subsection 17.03 1.B.
+(2)
+For new mobile home parks and mobile home subdivisions, or expansions to existing
+mobile home parks and mobile home subdivisions, or existing mobile home parks and
+mobile home subdivisions where the repair, reconstruction or improvements of the streets,
+utilities and pads equals or exceeds 50 percent of value of the streets, utilities
+and pads before the repair, reconstruction or improvements has commenced, and for
+mobile homes not placed in a mobile home park or mobile home subdivision, require
+that:
+(a)
+Stands or lots are elevated on compacted fill or on pilings so that the lowest floor
+of the mobile home will be at or above the base flood level.
+(b)
+Adequate surface drainage and access for a hauler are provided, and
+(c)
+In the instance of elevation on pilings, that:
+I.
+Lots are large enough to permit steps.
+II.
+Piling foundations are placed in stable soil no more than 10 feet apart, and
+III.
+Re-reinforcement is provided for pilings more than 6 feet above the ground level.
+(3)
+No mobile home shall be placed in a floodway, except in an existing mobile home park
+or existing mobile home subdivision.
+D.
+Manufactured Homes.
+All manufactured homes to be placed or substantially improved within Zones A1-30,
+AH, and AE shall be elevated on a permanent foundation such that the lowest floor
+of the manufactured home is at or above the base flood elevation and be securely anchored
+to an adequately anchored foundation system in accordance with the provisions of Subsection
+17.03 1.B.
+E.
+Floodways.
+Since the floodway is an extremely hazardous area due to the velocity of flood waters
+which carry debris, potential projectiles, and have erosion potential, the following
+provisions apply:
+(1)
+Encroachments are prohibited, including fill, new construction, substantial improvements,
+and other development unless certification by a registered professional engineer or
+architect is provided demonstrating that encroachments shall not result in any increase
+in flood levels during the occurrence of the base flood discharge.
+(2)
+If Subsection (1) above is satisfied, all new construction and substantial improvements
+shall comply with all applicable flood hazard reduction provisions of Section 17.03 limitations.
+(3)
+Prohibit the placement of any manufactured homes, except in an existing manufactured
+home park or existing manufactured home subdivision.
+
+ ### 17.04 - WARNING AND DISCLAIMER OF LIABILITY
+
+The degree of flood protection required by this section is considered reasonable for
+regulatory purposes and is based on scientific and engineering considerations. Larger
+floods can and will occur on rare occasions. Flood heights may be increased by man-made
+or natural causes. This section does not imply that land outside the areas of special
+flood hazards or uses permitted within such areas will be free from flooding or flood
+damages.
+This section shall not create liability on the part of Union County, or the Federal
+Emergency Management Agency for any flood damages that result from reliance on this
+section or any administrative decision lawfully made thereafter.

@@ -1,0 +1,4378 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clatsop-county
+id: clatsop-land-use-article-5-special-districts-amended-ord-25-16
+title: 'ARTICLE-5---Special-Districts-Amended-Ord-25-16'
+doc_type: ordinance
+citation: 'ARTICLE-5---Special-Districts-Amended-Ord-25-16'
+authority_level: county_ordinance
+issuing_body: 'Clatsop County Board of Commissioners'
+source_url: https://clatsopcounty.gov/DocumentCenter/View/3937/ARTICLE-5---Special-Districts-Amended-Ord-25-16
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 1f4890bc561bb838d8622e2bee63bdf2d2a91fca4a15fb14a2e1e97a9e87394b
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 215.425
+    - ORS 390.605
+    - ORS 390.770
+    - ORS 446.062
+    - ORS 455.446
+    - ORS 479.015
+    - ORS 917.195
+  related: []
+  supersedes: []
+tags: [clatsop-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clatsop County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# ARTICLE-5---Special-Districts-Amended-Ord-25-16 (ARTICLE-5---Special-Districts-Amended-Ord-25-16)
+
+## At a glance
+
+ARTICLE-5---Special-Districts-Amended-Ord-25-16 — land use of Clatsop County. 100 pages.
+
+## Full text
+
+Clatsop County Land and Water V-1  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+ARTICLE 5.
+SPECIAL PURPOSE DISTRICTS
+
+SECTION 5.0000. SPECIAL PURPOSE DISTRICTS
+A special purpose district is an overlay district which may be combined with any portion
+of any zone as appropriate to the purpose of the district. The regulations of a special
+purpose district may add to or modify the requirements of the underlying zone and the
+regulations of the special purpose district and the zone shall all apply. Where the
+requirements of a special purpose overlay district and the underlying base zone conflict,
+the regulations that are more restrictive shall control.  The boundaries of special
+purpose districts are shown on the Clatsop County Land and Water Development Map
+and Columbia River Estuary Resource Base Maps. These maps are hereby adopted by
+this reference as a part of this Ordinance.
+Each special purpose district and the abbreviated designation suffix are listed in Table
+5.1.
+Table 5.1 Special Purpose Overlays, Abbreviations, and Boundaries
+SPECIAL PURPOSE OVERLAY
+(ABBREVIATION)
+BOUNDARY
+Airport (AO)
+Aquifer Reserve (ARO)
+Beaches and Dunes (BDO) All beach and dune landforms to the eastern limit of
+Highway 101 as identified on the Beach and Dune
+Overlay Map dated August 29, 2025.
+Active Dune Overlay Map dated August 29, 2025
+Construction Setback Line Map dated August 29, 2025
+Dune Morphology Map dated August 29, 2025
+Shoreline Access Inventory Map created May 1, 2023
+and printed August 25, 2025. [ORD. 25-09]
+Destination Resort (DRO)
+Dredged Material Disposal (DMD) The area of Dredged Material Disposal identified on the
+Columbia River Estuary Resource Base Maps dated
+September 30, 1983.
+
+Clatsop County Land and Water V-2  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+SPECIAL PURPOSE OVERLAY
+(ABBREVIATION)
+BOUNDARY
+Flood Hazard (FHO) The areas of flood hazards identified by the Federal
+Emergency Management Agency (FEMA) in reports
+entitled:
+• The Flood Insurance Study (FIS), #41007CV001B
+and #41007CV002B, dated June 20, 2018, Version
+Number 2.3.2.0, for unincorporated areas of
+Clatsop County and accompanying Digital Flood
+Insurance Rate Maps (DFIRM) and Flood Boundary
+and Floodway maps dated effective June 20, 2018;
+and
+• The Flood Insurance Study (FIS) #41007CV001A
+and #41007CV002A, dated September 17, 2010,
+for unincorporated areas of Clatsop County and
+Flood Boundary and Floodway maps dated
+effective September 17, 2010.
+Geologic Hazard (GHO) Areas identified by the Oregon Department of Geology
+and Mineral Industries (DOGAMI) as having a
+moderate, high or very high likelihood of landslide
+activity.
+Mitigation Site Reserve (MIT) The area of Mitigation identified on the Columbia River
+Estuary Resource Base Maps dated September 30,
+1983.
+Planned Development (PDO)
+Quarry and Mining (QMO)
+Restoration Inventory Sites (RIS) The area of Restoration identified on the Columbia
+River Estuary Resource Base Maps dated September
+30, 1983.
+Rural Community (RCO)
+Sensitive Bird Habitat (SBHO)
+
+Clatsop County Land and Water V-3  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+SPECIAL PURPOSE OVERLAY
+(ABBREVIATION)
+BOUNDARY
+Shoreland (SO) • Elk Creek Estuary Coastal Shorelands boundary as
+identified on the Elk Creek Estuary Map of the Elk
+Creek Estuary section of the Estuarine Resources
+and Coastal Shorelands Element of the Clatsop
+County Comprehensive Plan dated September 30,
+1983; and
+• Necanicum River Estuary Coastal Shorelands
+boundary as identified on the Elk Creek Estuary Map
+of the Elk Creek Estuary section of the Estuarine
+Resources and Coastal Shorelands Element of the
+Clatsop County Comprehensive Plan dated
+September 30, 1983; and
+• Columbia River Estuary Coastal Shorelands
+boundary as identified on the Columbia River Estuary
+Resource Maps dated July 2002; and
+• Coastal Shorelands boundary as identified on the
+Ocean and Coastal Lake Shorelands Maps of the
+Ocean and Coastal Lake Shorelands of the Estuarine
+Resources and Coastal Shorelands Element of the
+Clatsop County Comprehensive Plan dated
+September 30, 1983.
+
+Clatsop County Land and Water V-4  July 22, 2025
+Development and Use Code   Codified Through Ordinance 25-02
+ARTICLE 5. SPECIAL DISTRICTS
+SECTION 5.1000. FLOOD HAZARD OVERLAY (FHO)
+Section 5.1010. Purpose
+The purpose of the flood hazard overlay district is to identify those areas of the County
+subject to the hazards of periodic flooding and establish standards and regulations to
+reduce flood damage or loss of life in those areas. This district shall apply to all areas of
+special flood hazards within the unincorporated areas of Clatsop County as identified on
+Flood Insurance Rate Maps (FIRM) and Flood Boundary and Floodway Maps. In
+advancing these principles and the general purposes of the Clatsop County
+Comprehensive Plan, the specific objectives are:
+1) To promote the general health, welfare and safety of the County;
+2) To prevent the establishment of certain structures and land uses unsuitable for
+human habitation because of the danger of flooding, unsanitary conditions or
+other hazards;
+3) To minimize the need for rescue and relief efforts associated with flooding;
+4) To help maintain a stable tax base by providing for sound use and development
+in flood- prone areas and to minimize prolonged business interruptions;
+5) To minimize damage to public facilities and utilities located in flood hazard areas;
+6) To insure that potential home and business buyers are notified that property is in
+a flood area.
+
+The areas of special flood hazard are identified in “The Flood Insurance Study (FIS)
+#41007CV001B and #41007CV002B, dated June 20, 2018, Version Number 2.3.2.0, for
+unincorporated areas of Clatsop County” and in “The Flood Insurance Study (FIS)
+#41007CV001A and #41007CV002A, dated September 17, 2010, for unincorporated
+areas of Clatsop County”.
+Section 5.1020. Definitions
+The following words and phrases shall be interpreted so as to give them the meanings
+they have in common usage and to give this chapter its most reasonable application:
+
+“ACCESSORY STRUCTURE” means a structure on the same or adjacent parcel as a
+principal structure, the use of which is incidental and subordinate to the principal
+structure. A separate insurable building should not be classified as an accessory or
+appurtenant structure
+
+“ALTERATION OF A WATERCOURSE” includes, but is not limited to, any dam,
+culvert, impoundment, channel relocation, change in channel alignment, channelization,
+or change in cross-sectional area or capacity, which may alter, impede, retard or change
+the direction and/or velocity of the riverine flow of water during conditions of the base
+flood.
+
+Clatsop County Land and Water V-5  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+“AREA OF SHALLOW FLOODING” means a designated AO or AH zone on the Flood
+Insurance Rate Map (FIRM) with a one percent or greater chance of flooding to an
+average depth of one to three feet; a clearly defined channel does not exist; the path of
+flooding is unpredictable and indeterminate; and velocity flow may be evident. AO is
+characterized as sheet flow and AH indicates ponding.
+
+“AREA OF SPECIAL FLOOD HAZARD” is the land in the floodplain within a
+community subject to a one percent or greater chance of flooding in any given year.
+Zone designations on FIRMs include the letters A or V. Also known as the Special Flood
+Hazard Area (SFHA)
+
+“BASE FLOOD” means the flood having a one percent chance of being equaled or
+exceeded in any given year. Also referred to as the “100-year flood”. Designation on
+maps always includes the letters A or V.
+
+“BASE FLOOD ELEVATION (BFE)” means the water surface elevation during the base
+flood in relation to a specified datum. The Base Flood Elevation (BFE) is depicted on
+the FIRM to the nearest foot and in the FIS to the nearest 0.1-foot.
+
+“BASEMENT” means any area of the building having its floor subgrade (below ground
+level) on all sides.
+
+“BELOW-GRADE CRAWLSPACE” means an enclosed area below the base flood
+elevation in which the interior grade is not more than two feet below the lowest adjacent
+exterior grade and the height, measured from the interior grade of the crawlspace to the
+top of the crawlspace foundation, does not exceed 4 feet at any point.
+
+“BREAKAWAY WALL” means a wall that is not a part of the structural support of the
+building and is intended through its design and construction to collapse under specific
+lateral loading forces, without causing damage to the elevated portion of the building or
+supporting foundation system.
+
+“BUILDING” means a building or structure subject to building codes.
+
+“BUILDING CODES” means the combined specialty codes adopted under ORS
+446.062, 446.185, 447.020 (2), 455.020 (2), 455.496, 455.610, 455.680, 460.085,
+460.360, 479.730 (1) or 480.545, but does not include regulations adopted by the State
+Fire Marshal pursuant to ORS chapter 476 or ORS 479.015 to 479.200 and 479.210 to
+479.220.
+
+“COASTAL HIGH-HAZARD AREA” means an area of special flood hazard extending
+from offshore to the inland limit of a primary frontal dune along an open coast and any
+
+Clatsop County Land and Water V-6  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+other area subject to high velocity wave action from storms or seismic sources. The
+area is designated in the FIRM as Zone V1-V30, VE or V.
+
+“CRITICAL FACILITIES” means those structures or facilities which produce, use, or
+store highly volatile, flammable, explosive, toxic, and/or water-reactive materials;
+hospitals, nursing homes, and housing likely to contain occupants who may not be
+sufficiently mobile to avoid death or injury during a flood; police stations, fire stations,
+vehicle and equipment storage facilities, and emergency operations centers that are
+needed for flood response activities before, during, and after a flood; and public and
+private facilities that are vital to maintaining or restoring normal services to flooded
+areas before, during and after a flood.
+
+“DATUM” is a base measurement point (or set of points) from which all elevations are
+determined. Historically, that common set of points has been the National Geodetic
+Vertical Datum of 1929 (NAVD29). The vertical datum currently adopted by the federal
+government as a basis for measuring heights is the North American Vertical Datum of
+1988 (NAVD88).
+
+“DEVELOPMENT” means any manmade change to improved or unimproved real
+property, including but not limited to buildings or other structures, mining, dredging,
+filling, grading, paving, excavation or drilling operations or storage of equipment or
+materials located within the area of special flood hazard.
+“DIGITAL FIRM (DFIRM),” means Digital Flood Insurance Rate Map. It depicts flood
+risk and zones and flood risk information The DFIRM presents the flood risk information
+in a format suitable for electronic mapping applications.
+
+“ENCROACHMENT” means the advancement or infringement of uses, fill, excavation,
+buildings, permanent structures or other development into a floodway which may
+impede or alter the flow capacity of a floodplain.
+
+“ELEVATED BUILDING” means a non-basement building which has its lowest elevated
+floor raised above ground level by foundation walls, shear walls, post, piers, pilings, or
+columns.
+
+“EXISTING BUILDING OR STRUCTURE” means a structure for which the “start of
+construction” commenced before July 3, 1978.
+
+“EXISTING MANUFACTURED HOME PARK OR SUBDIVISION” means one in which
+the construction of facilities for servicing the lots on which the manufactured homes are
+to be affixed is completed before the effective date of Clatsop County’s floodplain
+management regulations July 3, 1978. The “construction of facilities includes, at a
+
+Clatsop County Land and Water V-7  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+minimum, the installation of utilities, the construction of streets, and either final site
+grading or the pouring of concrete pads.
+
+“FEDERAL EMERGENCY MANAGEMENT AGENCY (FEMA)” means the agency with
+the overall responsibility for administering the National Flood Insurance Program.
+
+“FLOOD” or “FLOODING” means a general and temporary condition of partial or
+complete inundation of normally dry land areas from:
+(1) The overflow of inland or tidal waters; and/or
+(2) The unusual and rapid accumulation of runoff of surface waters from any source.
+
+“FLOOD HAZARD BOUNDARY MAP” means the official map used by the Federal
+Insurance Administrator where the boundaries of the areas of special flood hazard have
+been designated.
+
+“FLOOD INSURANCE RATE MAP (FIRM)” means an official map of a community, on
+which the Federal Insurance administrator has delineated both the special hazard areas
+and the risk premium zones applicable to the community.
+
+“FLOOD INSURANCE STUDY (FIS)” means the official report provided by the Federal
+Insurance Administrator that includes flood profiles, the flood boundary-floodway map
+and the water surface elevation of the base flood.
+
+“FLOOD PROOFING” means any combination of structural and nonstructural additions,
+changes, or adjustments to structures which reduce or eliminate flood damage to real
+estate or improved real property, water and sanitary facilities, structures and their
+contents.
+
+“FLOODPLAIN ADMINISTRATOR” means the Community Development Director, or an
+individual or committee that is designated by the Director, to implement and administer
+the provisions of this ordinance.
+
+“FLOODWAY” means the channel of a river or other watercourse and the adjacent land
+areas that must be reserved in order to discharge the base flood without cumulatively
+increasing the water surface elevation more than one foot.
+
+“HIGHEST ADJACENT GRADE” means the highest natural elevation of the ground
+surface prior to construction next to the proposed walls of a structure.
+
+“HISTORIC STRUCTURE” means a structure that is:
+1) Listed individually in the National Register of Historic Places (a listing maintained
+by the U.S. Department of Interior) or preliminarily determined by the Secretary
+
+Clatsop County Land and Water V-8  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+of the Interior as meeting the requirements for individual listing on the National
+Register;
+2) Certified or preliminarily determined by the Secretary of the Interior as
+contributing to the historical significance of a registered historic district or to a
+district preliminarily determined by the Secretary to qualify as a registered historic
+district;
+3) Individually listed on a state inventory of historic places in states with historic
+preservation programs which have been approved by the Secretary of the
+Interior; or
+4) Individually listed on a local inventory of historic places in communities with
+historic preservation programs that have been certified either:
+(A) By an approved state program as determined by the Secretary of the
+Interior, or
+(B) Directly by the Secretary of the Interior in states without approved
+programs.
+
+“LATERAL ADDITION” means an addition that requires a foundation to be built outside
+of the foundation footprint of the existing building.
+
+“LETTER OF MAP CHANGE (LOMC)” means an official FEMA determination, by letter,
+to amend or revise effective Flood Insurance Rate Maps and Flood Insurance Studies.
+LOMCs are issued in the following categories:
+Letter of Map Amendment (LOMA)
+A revision based on technical data showing that a property was incorrectly
+included in a designated special flood hazard area. A LOMA amends the current
+effective Flood Insurance Rate Map and establishes that a specific property is
+not located in a special flood hazard area.
+
+Letter of Map Revision (LOMR)
+A revision based on technical data showing that, usually due to manmade
+changes, shows changes to flood zones, flood elevations, floodplain and
+floodway delineations, and planimetric features. One common type of LOMR, a
+LOMR-F, is a determination that a structure of parcel has been elevated by fill
+above the base flood elevation and is excluded from the special flood hazard
+area.
+
+Letter of Map Revision Based on Fill – (LOMR-F)
+A modification of the Special Flood Hazard Area (SFHA) shown on the Flood
+Insurance Rate Map (FIRM), based on the placement of fill outside the existing
+regulatory floodway.
+
+Conditional Letter of Map Revision (CLOMR)
+
+Clatsop County Land and Water V-9  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+A formal review and comment by FEMA as to whether a proposed project
+complies with the minimum National Flood Insurance Program floodplain
+management criteria. A CLOMR does NOT amend or revise effective Flood
+Insurance Rate Maps, Flood Boundary and Floodway Maps, or Flood Insurance
+Studies.
+
+“LOWEST FLOOR” means the lowest floor of the lowest enclosed area (including
+basement). An unfinished or flood-resistant enclosure, usable solely for parking of
+vehicles, building access or storage, in an area other than a basement area, is not
+considered a building's lowest floor, provided that such enclosure is not built so as to
+render the structure in violation of the applicable non-elevation design requirements of
+this chapter.
+
+“MANUFACTURED DWELLING” (aka manufactured housing) means a structure,
+transportable in one or more sections, which is built on a permanent chassis and is
+designed for use with or without a permanent foundation when connected to the
+required utilities. The term “manufactured dwelling” does not include a recreational
+vehicle.
+
+“MANUFACTURED HOME PARK OR SUBDIVISION” means a parcel (or contiguous
+parcels) of land divided into two or more manufactured home lots for rent or sale.
+
+“MEAN SEA LEVEL (MSL)” means the North American Vertical Datum (NGVD) of
+1988 or other datum, to which base flood elevations shown on the flood insurance rate
+map are referenced.
+
+“NATURAL ELEVATION” means the elevation of natural grade, or the grade in
+existence before July 3, 1978.
+
+“NEW CONSTRUCTION” means a structure for which the “start of construction”
+commenced after July 3, 1978 and includes subsequent substantial improvements to
+the structure.
+
+“NEW MANUFACTURED HOME PARK OR SUBDIVISION” means a manufactured
+home park or subdivision for which the construction of facilities for serving the lots on
+which the manufactured homes are to be affixed (including at a minimum, the
+installation of utilities, the construction of streets, and either final site grading or the
+pouring of concrete pads) is completed on or after the effective date of floodplain
+management regulations adopted by Clatsop County.
+
+“RECREATION VEHICLE” means a vehicle which is (1) built on a single chassis, (2)
+four hundred (400) square feet or less when measured at the largest horizontal
+
+Clatsop County Land and Water V-10  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+projection, (3) designed to be self-propelled or permanently towed by a light-duty truck,
+and (4) designed primarily not for use as temporary living quarters for recreational,
+camping, travel or seasonal use.
+
+“SPECIAL FLOOD HAZARD AREA (SFHA)” means areas subject to inundation from
+the waters of a one-hundred-year flood.
+
+“START OF CONSTRUCTION” includes substantial improvement, and means the date
+the building permit was issued, provided the actual start of construction, repair,
+reconstruction, rehabilitation, addition placement or other improvement was within one
+hundred eighty days of the permit date. The actual start means either the first
+placement of permanent construction of a structure on a site, such as the pouring of a
+slab or footings, the installation of piles, the construction of columns or any work beyond
+the stage of excavation; or the placement of a manufactured home on a foundation.
+Permanent construction does not include land preparation, such as clearing, grading
+and filling; nor does it include the installation of streets and walkways; nor does it
+include excavation for a basement, footings, piers or foundation or the erection of
+temporary forms; nor does it include the installation on the property of accessory
+buildings, such
+as garages or sheds not occupied as dwelling units or not part of the main structure. For
+a
+substantial improvement, the actual start of construction means the first alteration of any
+wall, ceiling, floor, or other structural part of a building, whether or not that alteration
+affects the external dimensions of the building.
+
+“STRUCTURE” means a walled and roofed building, a manufactured dwelling, a
+modular or temporary building, or a gas or liquid storage tank that is principally above
+ground.
+
+“SUBSTANTIAL DAMAGE” means the damage of any origin sustained by a structure
+whereby the cost of restoring the structure to its before damage condition would equal
+or exceed 50-percent of the market value of the structure before the damage occurred.
+
+“SUBSTANTIAL IMPROVEMENT” means any repair, reconstruction, rehabilitation,
+addition, or other improvement of a structure, the cost of which equals or exceeds 50
+percent of the market value of the structure before the “start of construction” of the
+improvement. This term includes structures which have incurred “repetitive loss” or
+“substantial damage,” regardless of the actual repair work performed. The market value
+of the structure should be:
+
+(1)  the appraised value of the structure prior to the start of the initial repair or
+improvement, or
+
+Clatsop County Land and Water V-11  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+(2)  in the case of damage, the value of the structure prior to the damage
+occurring. This term includes structures which have incurred “substantial
+damage”, regardless of the actual amount of repair work performed. The term
+does not include either:
+(a)  A project for improvement of a structure to correct existing violations of
+state or local health, sanitary, or safety code specifications, which have
+been identified by the local code enforcement official and which are the
+minimum necessary to assure safe living conditions, or
+(b)  Alteration of an Historic Structure, provided that the alteration will not
+preclude the structure's continued designation as an Historic Structure.
+
+“VERTICAL ADDITION” means the addition of a room or rooms on top of an existing
+building.
+
+“WATERCOURSE” means a lake, river, creek, stream, wash, arroyo, channel or other
+topographic feature in, on, through, or over which water flows at least periodically.
+
+“WATER-DEPENDENT” means a use or use and activity which can only be carried out
+on, in or adjacent to water areas because the use requires access to the waterbody for
+water-borne transportation, recreation, energy production, or source of water.
+
+“WATER SURFACE ELEVATION” means the height, in relation to mean sea level, of
+floods of various magnitudes and frequencies in the flood plains of coastal or riverine
+areas.
+Section 5.1030. Interpretation
+In the interpretation and application of this ordinance all provisions shall be:
+1) Considered as minimum requirements;
+2) Liberally construed in favor of the governing body, and;
+3) Deemed neither to limit nor repeal any other powers granted under state
+statutes, including state building codes.
+Section 5.1040. Floodplain Administrator Duties and Responsibilities
+1) Permit Review
+The Floodplain Administrator duties shall include, but not be limited to, the
+following:
+(A) Review all development permit applications to determine whether
+proposed new development will be located in Areas of Special Flood
+Hazard and to determine that all new development complies with the
+requirements of this ordinance;
+
+Clatsop County Land and Water V-12  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+(B) Review applications for modifications of any existing development in
+Areas of Special Flood Hazard for compliance with the requirements of
+this ordinance;
+(C) Review proposed development to assure that necessary permits have
+been received from those Federal, State or local governmental agencies
+from which prior approval is required. Copies of such permits shall be
+provided and maintained on file.
+(D) Review all development permit applications for property in a Special Flood
+Hazard Area to determine if the proposed development is located in the
+floodplain or floodway, and if located in a floodway, ensure that the
+encroachment standards of Section 5.1140 are met.
+(E) Issue floodplain development permits when the provisions of this
+ordinance have been met, or disapprove the same in the event of
+noncompliance;
+(F) Coordinate with the Building Official to assure that applications for
+buildings permits comply with the requirements of this ordinance.
+2) Use of Base Flood Data
+(A) Interpret flood hazard area boundaries, provide available flood hazard
+information, and provide base flood elevations, where they exist;
+(B) When Base Flood Elevation data or floodway data are not available, then
+the Floodplain Administrator shall obtain, review and reasonably utilize
+any base flood elevation and floodway data available from a federal, state
+or other source in order to administer the provisions of this ordinance.
+(C) When Base Flood Elevations or other current engineering data are not
+available, the Floodplain Administrator shall take into account the flood
+hazards, to the extent they are known, to determine whether a proposed
+building site will be reasonably safe from flooding.
+3) Interpretation of FIRM Boundaries
+(A) Make interpretations, as needed, of the exact location of boundaries of the
+Areas of Special Flood Hazard, including regulatory floodways (for
+example, where there appears to be a conflict between a mapped
+boundary and actual field conditions). Any person contesting the location
+of the boundary shall be given a reasonable opportunity to appeal the
+interpretation as provided in Section 5.1090.
+4) Obtain and Maintain Information
+(A) Obtain, verify and record the actual elevation in relation to the vertical
+datum used on the effective FIRM, or highest adjacent grade where no
+BFE is available, of the lowest floor level, including basements and below-
+grade crawlspaces, of all new construction or substantially improved
+buildings and structures.
+(B) Obtain, verify and record the actual elevation, in relation to the vertical
+datum used on the effective FIRM, or highest adjacent grade where no
+
+Clatsop County Land and Water V-13  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+BFE is available, to which any new or substantially improved buildings or
+structures have been flood-proofed. When flood-proofing is utilized for a
+structure, the Floodplain Administrator shall obtain certification of design
+criteria from a registered professional engineer or architect;
+(C) Ensure that all records pertaining to the provisions of this ordinance are
+permanently maintained in the office of Community Development and shall
+be open for public inspection.
+(D) Make inspections in Areas of Special Flood Hazard to determine whether
+development has been undertaken without issuance of a floodplain
+development permit, ensure that development is undertaken in
+accordance with this ordinance, and verify that existing buildings and
+structures maintain compliance with this ordinance;
+(E) Coordinate with the Building Official to inspect areas where buildings and
+structures in flood hazard areas have been damaged, regardless of the
+cause of damage, and notify owners that permits may be required prior to
+repair, rehabilitation, demolition, relocation, or reconstruction of the
+building or structure;
+(F) Make Substantial Damage or Substantial Damage determinations based
+on criteria set forth in Section 5.1110 of this ordinance.
+Section 5.1050. Alteration of Water Courses
+1) The bankfull flood carrying capacity of the altered or relocated portion of the
+water course shall not be diminished. Prior to issuance of a floodplain
+development permit, the applicant must submit a description of the extent to
+which any water course will be altered or relocated as a result of the proposed
+development and submit certification by a registered professional engineer that
+the bankfull flood carrying capacity of the water course will not be diminished.
+
+Clatsop County Land and Water V-14  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+2) The applicant shall notify adjacent communities, the U.S. Army Corps of
+Engineers, Oregon Department of State Lands, and Oregon Department of Land
+Conservation and Development prior to any alteration or relocation of a water
+source. Evidence of notification must be submitted to the floodplain administrator
+and to the Federal Emergency Management Agency.
+3) The applicant shall be responsible for providing the necessary maintenance for
+the altered or relocated portion of the watercourse so that the flood carrying
+capacity will not be diminished.
+4) The applicant shall meet the requirements to submit technical data in Section
+5.1200 when the alteration of a watercourse, including the placement of culverts,
+results in the relocation or elimination of the special flood hazard area.
+Section 5.1060. Non-Conversion of Enclosed areas below the Lowest Floor
+To ensure that the areas below the BFE continue to be used solely for parking vehicles,
+limited storage, or access to the building and not be finished for use as human
+habitation without first becoming fully compliant with the floodplain management
+ordinance in effect at the time of conversion, the Floodplain Administrator shall:
+1) Determine which applicants for new construction and/or substantial
+improvements have fully enclosed areas below the lowest floor that are 5 feet or
+higher;
+2) Enter into a “NON-CONVERSION AGREEMENT FOR CONSTRUCTION
+WITHIN FLOOD HAZARD AREAS” or equivalent with Clatsop County. The
+agreement shall be recorded with the Clatsop County Clerk as a deed restriction.
+The non-conversion agreement shall be in a form acceptable to the Floodplain
+Administrator and County Counsel; and
+3) Have the authority to inspect any area of a structure below the base flood
+elevation to ensure compliance upon prior notice of at least 72 hours.
+Section 5.1070. Floodplain Inspection and Enforcement
+1) The Administrator or designee shall make periodic inspections of floodplain areas
+to establish that development activities within the floodplain are being performed
+in compliance with an approved floodplain development permit. The
+Administrator or designee shall prepare a field report listing non-complying
+conditions to be delivered to the Code Compliance Officer within 5 business
+days.
+2) Upon receipt of the report the Code Compliance Officer shall take action in
+accordance with Clatsop County Code of Regulations to effect the abatement of
+such violation.
+
+Clatsop County Land and Water V-15  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+3) If the violation is not resolved through code enforcement the Floodplain
+Administrator shall request to the Administrator of Federal Insurance
+Administration a declaration for denial of insurance, stating that the property is in
+violation of a cited statute or local law, regulation or ordinance, pursuant to
+section 1316 of the National Flood Insurance Act of 1968 as amended.
+Section 5.1080.  Warning and Disclaimer of Liability
+The degree of flood protection required by this Ordinance is considered reasonable for
+regulatory purposes and is based on engineering and scientific considerations. Larger
+floods can and will occur on rare occasions. Flood heights may be increased by man-
+made or natural causes.
+
+This Ordinance does not imply that land outside the areas of special flood hazards or
+uses permitted within such areas will be free from flooding or flood damages. This
+ordinance shall not create a liability on the part of Clatsop County or by an officer, or
+employee thereof for any flood damages that result from reliance on this Ordinance or
+any administrative decision lawfully made there under.
+Section 5.1090. Appeals
+An appeal of a Floodplain Administrator decision pursuant to this chapter may be
+appealed in accordance with Section 2.2190. Appeals of a decision by the Hearings
+Officer pursuant to this chapter may be appealed in accordance with Clatsop County
+Code of Regulations.
+Section 5.1100. Permit Procedures
+A Floodplain Development Permit shall be obtained before construction or development
+begins within any area of special flood hazard. Application for a Floodplain
+Development Permit shall be made to the Floodplain Administrator on forms furnished
+by the Administrator or the Administrator’s designee prior to starting development
+activities. Specifically, the following information is required:
+1) Application Stage:
+(A) Plans in duplicate drawn to scale with elevations of the project area and
+the nature, location, dimensions of existing and proposed structures,
+earthen fill placement, storage of materials or equipment and drainage
+facilities.
+(B) Delineation of flood hazard areas, floodway boundaries including base
+flood elevations, or flood depth in AO zones, where available;
+(C) For all proposed structures, elevation in relation to the highest adjacent
+grade and the base flood elevation, or flood depth in AO zones, of the:
+1. lowest enclosed area, including crawlspace or basement floor;
+2. bottom of the lowest horizontal structural member in coastal high
+hazard areas (V Zones);
+
+Clatsop County Land and Water V-16  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+3. top of the proposed garage slab, if any, and;
+4. next highest floor
+(D) Locations and sizes of all flood openings;
+(E) Elevation to which any non-residential structure will be flood-proofed;
+(F) Certification from a registered professional engineer or architect that any
+proposed non-residential flood-proofed structure will meet the flood-
+proofing criteria of the NFIP and building codes;
+(G) Description of the extent to which any watercourse will be altered or
+relocated as a result of a proposed development;
+2) Construction Stage:
+(A) For all new construction and substantial improvements, the permit holder
+shall provide to the Floodplain Administrator an as-built certification of the
+floor elevation or flood-proofing level immediately after the lowest floor or
+flood-proofing is placed and prior to further vertical construction .
+(B) Any deficiencies identified by the Floodplain Administrator shall be
+corrected by the permit holder immediately and prior to work proceeding.
+Failure to submit certification or failure to make the corrections shall be
+cause for the Floodplain Administrator to issue a stop-work order for the
+project.
+3) Certificate of Occupancy
+(A) In addition to the requirements of the building codes pertaining to
+certificate of occupancy, prior to the final inspection the owner or
+authorized agent shall submit the following documentation that has been
+prepared and sealed by a registered surveyor or engineer;
+1. For elevated buildings and structures in non-coastal Areas of
+Special Flood Hazard (A zones), the elevation of the lowest floor,
+including basement or where no base flood elevation is available
+the height above highest adjacent grade of the lowest floor;
+2. For buildings and structures in coastal Areas of Special Flood
+Hazard (V zones), the elevation of the bottom of the lowest
+horizontal structural member supporting the lowest floor.
+(B) Failure to submit certification or failure to correct violations shall be cause
+for the Building Official to withhold a certificate of occupancy or delay a
+final building inspection until such deficiencies are corrected.
+4) Expiration of Floodplain Development Permit
+(A) Floodplain development permit shall expire 180 days after issuance
+unless the permitted activity has been substantially begun and thereafter
+is pursued to completion.
+(B) Commencement of work includes start of construction, when the permitted
+work requires a building permit.
+
+Clatsop County Land and Water V-17  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+Section 5.1110. Substantial Damage and Substantial Improvement Determination
+For applications for permits to improve buildings and structures, including additions,
+repairs, renovations, and alterations, the Floodplain Administrator, shall:
+1) Estimate the market value, or require the applicant to obtain a professional
+appraisal of the market value, of the building or structure before the proposed
+work is performed; when repair of damage is proposed, the market value of the
+building or structure shall be the market value before the damage occurred;
+2) Compare the cost of improvement, the cost to repair the damaged building to its
+pre-damaged condition, or the combined costs of improvements and repairs, if
+applicable, to the market value of the building or structure;
+(A) Except as indicated in subsections (D) and (E) below, all costs to repair
+substantial damage, including emergency repairs, must be included;
+(B) The costs associated with the correction of pre-existing violations of state
+or local health, sanitary, or safety code specifications that were identified
+by the building official, the director of environmental health, or any other
+local code enforcement official prior to the improvement or repair and that
+are the minimum necessary to ensure safe living conditions shall not be
+included;
+(C) Except as indicated in subsections (d) and (e) below, the costs of
+complying with any county, state, or federal regulation other than those
+described in subsection (b) must be included;
+(D) Costs associated with the following items are not included:
+1. The preparation and approval of all required plans, calculations,
+certifications, and specifications;
+2. The performance of surveys or other geotechnical or engineering
+studies and resulting reports;
+3. Permit and review fees;
+4. The construction, demolition, repair, or modification of outdoor
+improvements, including landscaping, fences, swimming pools,
+detached garages and sheds, etc.;
+(E) Proposed alterations of a designated historic building or structure is not to
+be considered substantial improvement unless the alteration causes a loss
+of said designation.
+3) The Floodplain Administrator shall make the final determination of whether the
+proposed improvement and/or repair constitutes a substantial improvement or
+substantial damage;
+4) The Floodplain Administrator shall notify the applicant of the results of the
+determination by letter,
+5) Applicant has the right to appeal the determination pursuant to Section 5.1090.
+Section 5.1120. Variances
+A request for a variance from a standard contained in this chapter shall be reviewed in
+
+Clatsop County Land and Water V-18  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+accordance with the procedures of Section 2.8000-2.8030. The burden to show that the
+variance is warranted and meets the criteria is on the applicant.
+
+When considering a variance application, the deciding body shall consider all technical
+evaluations, all relevant factors, standards specified in other sections of this ordinance,
+and:
+
+1) The danger that materials may be swept onto other lands to the injury of others;
+2) The danger to life and property due to flooding or erosion damage;
+3) The susceptibility of the proposed facility and its contents to flood damage and
+the effect of such damage on the individual owner;
+4) The importance of the services provided by the proposed facility to the
+community;
+5) The necessity to the facility of a waterfront location, where applicable;
+6) The availability of alternative locations for the proposed use which are not subject
+to flooding or erosion damage;
+7) The compatibility of the proposed use with existing and anticipated development;
+8) The relationship of the proposed use to the comprehensive plan and floodplain
+management program for that area;
+9) The safety of access to the property in times of flood for ordinary and emergency
+vehicles;
+10) The expected heights, velocity, duration, rate of rise, and sediment transport of
+the flood waters and the effects of wave action, if applicable, expected at the site;
+and,
+11) The costs of providing governmental services during and after flood conditions,
+including maintenance and repair of public utilities and facilities such as sewer,
+gas, electrical, and water systems, and streets and bridges.
+
+Upon consideration of the factors identified above and the purposes of this ordinance,
+the deciding body may attach such conditions to the granting of variances as it deems
+necessary to further the purposes of this ordinance.
+
+The floodplain administrator shall maintain a permanent record of all variances and
+report any variances to the Federal Emergency Management Agency upon request.
+
+The following standards are applicable to a variance request, not those of Section
+2.8010:
+1) Generally, the only condition under which a variance from the elevation standard
+may be issued is for new construction and substantial improvements to be
+erected on a lot of one-half acre or less in size contiguous to and surrounded by
+lots with existing structures constructed below the base flood level, providing
+items 1-11 in Section 5.1120 have been fully considered.  As the lot size
+
+Clatsop County Land and Water V-19  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+increases the technical justification required for issuing the variance increases
+2) Variances shall only be issued upon:
+(A) A showing of good and sufficient cause,
+(B) A determination that failure to grant the variance would result in
+exceptional hardship to the applicant, and
+(C) A determination that the granting of a variance will not result in increased
+flood heights, additional threats to public safety, extraordinary public
+expense, create nuisances, cause fraud on or victimization of the public or
+conflict with existing local laws or ordinances.
+3) Variances shall not be issued within any designated floodway if any increase in
+flood levels during the base flood discharge would result.
+4) Variances shall only be issued upon a determination that the variance is the
+minimum necessary, considering the flood hazard, to afford relief.
+5) Variances may be issued for a water dependent use provided that
+(A) The criteria of paragraphs (1) through (4) of this section are met, and;
+(B) The structure or other development is protected by methods that minimize
+flood damages during the base flood and create no additional threats to
+public safety.
+6) Variances may be issued for the repair restoration or rehabilitation of structures
+listed on the National Register of Historic Places or the Statewide Inventory of
+Historic Properties, without regard to the procedures set forth in this section.
+7) Variances as interpreted in the National Flood Insurance Program are based on
+the general zoning law principle that they pertain to a physical piece of property;
+they are not personal in nature and do not pertain to the structure, its inhabitants,
+economic or financial circumstances. They primarily address small lots in densely
+populated residential neighborhoods. As such, variances from the flood
+elevations should be quite rare.
+8) Variances may be issued for nonresidential buildings in very limited
+circumstances to allow a lesser degree of floodproofing than watertight or dry-
+floodproofing, where it can be determined that such action will have low damage
+potential, complies with all other variance criteria and otherwise complies with
+building codes.
+9) When a variance is granted, the county shall give written notice to the property
+owner within five days after the decision is final. The notice shall state that:
+(A) The structure or manufactured home will be allowed to be built or placed
+with the lowest floor elevation at or below the base flood elevation, and
+(B) That the issuance of the variance to construct a structure below the base
+flood level will result in increased premium rates for flood insurance as
+high as twenty-five dollars for every one hundred dollars of insurance
+coverage, and
+(C) Such construction below the base flood level increases the risk to life and
+property.
+
+Clatsop County Land and Water V-20  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+(D) The above notification shall be maintained with a record of all variance
+actions.
+10) Variance Time Limit. Authorization of a variance shall conform to the
+requirements of Section 2.8030.
+Section 5.1130. Development Standards
+1) General Standards
+In all areas of special flood hazards as presented on the FIRM, the following
+standards shall apply for all new construction and substantial improvements:
+(A) Subdivisions:
+1. All proposed new development and subdivisions shall be consistent
+with the need to minimize flood damage and ensure that building
+sites will be reasonably safe from flooding.
+2. Residential building lots shall have adequate buildable area outside
+of floodways.
+3. All new development proposals and subdivision preliminary
+plats/development plans shall include the mapped flood hazard
+zones from the effective FIRM.
+4. Base flood elevation data shall be generated and/or provided for
+subdivision proposals and all other proposed development,
+including manufactured home parks and subdivisions, greater than
+fifty lots or five acres, whichever is less.
+5. Where base flood elevation data has not been provided or is not
+available from another authoritative source, it shall be generated
+and/or provided for subdivision proposals and all other proposed
+developments that contain at least 50 lots or five acres, whichever
+is less.
+6. All new development in a subdivision shall have public utilities and
+facilities such as sewer, gas, electric and water systems located
+and constructed to minimize flood damage.
+7. All subdivisions shall have adequate drainage provided to reduce
+exposure to flood hazards. In AO and AH zones, drainage paths
+shall be provided to guide floodwater around and away from all
+proposed and existing structures.
+(B) Coastal High Hazard Area:
+In coastal high hazard areas (V Zones), alteration of sand dunes shall be
+prohibited unless it has been demonstrated by engineering analysis that
+the alteration will not increase potential flood damage.
+(C) Tsunami Inundation Zone:
+1. New essential and new special occupancy structures shall not be
+constructed in the Tsunami Inundation Zone. The Tsunami
+Inundation Zone may include V, A, and potentially other flood
+
+Clatsop County Land and Water V-21  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+zones. If an exception is granted then the Coastal High Hazard
+Area construction standards in this ordinance shall apply to the
+building of these new structures in the Tsunami Inundation Zone.
+(D) Building Design and Construction:
+1. Buildings and structures, including manufactured dwellings, within
+the scope of the building codes, including repair of substantial
+damage and substantial improvement of such existing buildings
+and structures, shall be designed and constructed in accordance
+with the flood-resistant construction provisions of these codes,
+including but not limited to Section R322 of the Residential
+Specialty Code and Section 1612 of the Structural Specialty Code.
+(E) Construction Materials and Methods:
+1. All new construction and substantial improvements shall be
+constructed with materials and utility equipment resistant to flood
+damage.
+2. All new construction or substantial improvements shall be
+constructed by methods and practices that minimize flood damage.
+3. Electrical, heating, ventilation, plumbing and air conditioning
+equipment and other service facilities shall be elevated to one foot
+above flood level so as to prevent water from entering or
+accumulating within the components during conditions of flooding.
+(F) Review of Development Permits:
+1. Where elevation data is not available, either through the flood
+insurance study or from other administrative source, applications
+for development permits shall be reviewed to assure that proposed
+construction will be reasonably safe from flooding. The test of
+reasonableness is a local judgment and includes use of historical
+data, high water marks, photographs of past flooding, etc. where
+available. Failure to elevate to at least two feet above grade in
+these zones may result in higher insurance rates.
+(G) Anchoring:
+1. All new construction and substantial improvements shall be
+anchored to prevent flotation, collapse, or lateral movement of the
+structure.
+2. All manufactured dwellings must likewise be anchored to prevent
+flotation, collapse, or lateral movement, and shall be installed using
+methods and practices that minimize flood damage. Anchoring
+methods may include, but are not limited to, use of over-the-top or
+frame ties to ground anchors.
+(H) Utilities:
+1. All new and replacement water supply systems shall be designed to
+minimize or eliminate infiltration of flood waters into the system;
+
+Clatsop County Land and Water V-22  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+2. New and replacement sanitary sewage systems shall be designed
+to minimize or eliminate infiltration of flood waters into the systems
+and discharge from the systems into flood waters; and
+3. C) On-site waste disposal systems shall be located to avoid
+impairment to them or contamination from them during flooding
+consistent with the Oregon Department of Environmental Quality
+regulations.
+(I) Foundation Protection: A registered professional civil engineer shall
+develop or review the structural design, specifications and plans for the
+foundation of the building and shall certify that the design and methods of
+construction are in accordance with accepted practices to withstand
+flotation, collapse, lateral movement, erosion and scour, undermining, and
+the effects of water and wind acting simultaneously on all building
+components during the base flood.
+2) Specific Standards
+In all areas of special flood hazards where base flood elevation data has been
+provided (Zones A1-A30, AH and AE) as set forth in this ordinance, the following
+provisions are required:
+(A) Manufactured Dwellings:
+1. New and replacement manufactured dwellings are within the scope
+of the building codes; and,
+2. All new manufactured dwellings and replacement manufactured
+dwellings shall be installed using methods and practices which
+minimize flood damage and shall be securely anchored to prevent
+flotation, collapse and lateral movement during the base flood.
+Methods of anchoring include, but are not limited to, use of over-
+the-top or frame ties to ground anchors. Additional techniques may
+be found in FEMA’s “Manufactured Home Installation in Flood
+Hazard Areas” guidebook. This requirement is in addition to
+applicable state and local anchoring requirements for resisting wind
+forces.
+3. Manufactured dwellings supported on solid foundation walls shall
+be constructed with flood openings that comply with Section
+5.1130(1)(E), above.
+4. Electrical crossover connections shall be a minimum of 12 inches
+above BFE.
+(B) Critical Facilities:
+Construction of new critical facilities shall be, to the extent possible,
+located outside the limits of the Special Flood Hazard Area (SFHA).
+Construction of new critical facilities shall be permissible within the SFHA
+if no feasible alternative site is available. Critical facilities constructed
+within the SFHA shall have the lowest floor elevated three feet above BFE
+
+Clatsop County Land and Water V-23  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+(or depth number in AO zones) or to the height of the 0.2 percent (500-
+year) flood, whichever is higher. Access to and from the critical facility
+should also be protected to the height utilized above. Floodproofing and
+sealing measures must be taken to ensure that toxic substances or
+persistent organic pollutants as defined by the Oregon Department of
+Environmental Quality will not be displaced by or released into
+floodwaters. Access routes elevated to or above the level of the base flood
+elevation shall be provided to all critical facilities to the extent possible.
+(C) Residential Construction:
+1. New construction or substantial improvement of any residential
+structure shall have the lowest floor, including basement, elevated
+to a minimum of one foot above the base flood elevation.
+2. Fully enclosed areas below the lowest floor that are subject to
+flooding shall be designed to automatically equalize hydrostatic
+flood forces on exterior walls by allowing for the entry and exit of
+floodwaters. Designs for meeting this requirement must either be
+certified by a registered professional engineer or architect or must
+meet or exceed the following minimum criteria:
+a. A minimum of two openings having a total net area of not
+less than one (1) square inch for every square foot of
+enclosed area subject to flooding shall be provided;
+b. The bottom of all openings shall be no higher than one (1)
+foot above grade; and
+c. Openings may be equipped with screens, louvers, or other
+coverings or devices provided that they permit the automatic
+entry and exit of floodwaters.
+(D) Non-Residential Construction:
+New construction or substantial improvement of any commercial,
+industrial, or other non-residential structure shall either have the lowest
+floor, including basement, elevated to a minimum of one (1) foot above the
+base flood elevation or, together with attendant utility and sanitary
+facilities, shall:
+1. Be flood proofed so that below the base flood level the structure is
+water tight with walls substantially impermeable to the passage of
+water;
+2. Have structural components capable of resisting hydrostatic and
+hydrodynamic loads and effects of buoyancy;
+3. Be certified by a registered professional engineer or architect that
+the design and methods of construction are in accordance with
+standards of practice for meeting provisions of this subsection
+based on their development and/or review of the structural design,
+
+Clatsop County Land and Water V-24  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+specifications and plans. Such certification shall be provided as set
+forth in Section 5.1060(2).
+4. Applicants floodproofing non-residential buildings shall be notified
+that flood insurance premiums will be based on rates that are one
+foot below the floodproofed level (e.g., a building floodproofed to
+the base flood level will be rated as one foot below).
+5. If construction will be elevated instead of floodproofed, fully
+enclosed areas below the lowest floor that are subject to flooding
+shall be designed to automatically equalize hydrostatic flood forces
+on exterior walls by allowing for the entry and exit of floodwaters.
+Designs for meeting this requirement must either be certified by a
+registered professional engineer or architect or must meet or
+exceed the following minimum criteria:
+a. A minimum of two openings having a total net area of not
+less than one (1) square inch for every square foot of
+enclosed area subject to flooding shall be provided;
+b. The bottom of all openings shall be no higher than one (1)
+foot above grade; and
+c. Openings may be equipped with screens, louvers, or other
+coverings or devices provided that they permit the automatic
+entry and exit of floodwaters.
+(E) Below-grade crawl spaces:
+1. The building must be designed and adequately anchored to resist
+flotation, collapse, and lateral movement of the structure resulting
+from hydrodynamic and hydrostatic loads, including the effects of
+buoyancy. Hydrostatic loads and the effects of buoyancy can
+usually be addressed through the required openings stated in 2)
+below. Because of hydrodynamic loads, crawlspace construction is
+not allowed in areas with flood velocities greater than five (5) feet
+per second unless the design is reviewed by a qualified design
+professional, such as a registered architect or professional
+engineer. Other types of foundations are recommended for these
+areas.
+2. The crawlspace is an enclosed area below the base flood elevation
+(BFE) and, as such, must have openings that equalize hydrostatic
+pressures by allowing the automatic entry and exit of floodwaters.
+The bottom of each flood vent opening can be no more than one (1)
+foot above the lowest adjacent exterior grade.
+3. Portions of the building below the BFE must be constructed with
+materials resistant to flood damage. This includes not only the
+foundation walls of the crawlspace used to elevate the building, but
+also any joists, insulation, or other materials that extend below the
+
+Clatsop County Land and Water V-25  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+BFE. The recommended construction practice is to elevate the
+bottom of joists and all insulation above BFE.
+4. Any building utility systems within the crawlspace must be elevated
+above BFE or designed so that floodwaters cannot enter or
+accumulate within the system components during flood conditions.
+Ductwork, in particular, must be either placed above the BFE or
+sealed from floodwaters.
+
+5. The interior grade of a crawlspace below the BFE must not be more
+than two (2) feet below the lowest adjacent exterior grade.
+6. The crawlspace shall not be temperature controlled.
+7. The height of the below-grade crawlspace, measured from the
+interior grade of the crawlspace to the top of the crawlspace
+foundation wall must not exceed four (4) feet at any point. The
+height limitation is the maximum allowable unsupported wall height
+according to the engineering analyses and building code
+requirements for flood hazard areas.
+8. There must be an adequate drainage system that removes
+floodwaters from the interior area of the crawlspace. The enclosed
+area should be drained within a reasonable time after a flood event.
+The type of drainage system will vary because of the site gradient
+and other drainage characteristics, such as soil types. Possible
+options include natural drainage through porous, well-drained soils
+and drainage systems such as perforated pipes, drainage tiles or
+gravel or crushed stone drainage by gravity or mechanical means.
+Figure 2: Requirements for below-grade crawlspace construction. (Provided by FEMA)
+
+Clatsop County Land and Water V-26  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+9. The velocity of floodwaters at the site should not exceed five (5)
+feet per second for any crawlspace. For velocities in excess of five
+(5) feet per second, other foundation types should be used.
+10. If the crawlspace provisions listed in 1) through 8) above are used
+written notice shall be given that the structure will be rated for flood
+insurance as having its lowest floor below the base flood elevation,
+and that the cost of flood insurance will be commensurate with that
+rating.
+(F) Fences and Walls:
+1. New fencing shall be designed to collapse under conditions of the
+base flood or to allow the passage of water by having flaps or
+openings in the areas at or below the base flood elevation sufficient
+to allow flood water and associated debris to pass freely.
+(G) On-site Sewage Systems:
+1. Soil absorption systems shall be located outside of flood hazard
+areas. Where suitable soil absorption sites outside of the flood
+hazard area are not available, the soil absorption site is permitted
+to be located within the flood hazard area provided it is located to
+minimize the effects of inundation under conditions of the base
+flood.
+2. Mound systems in flood hazard areas shall be prohibited.
+(H) Tanks:
+1. Underground tanks in flood hazard areas shall be anchored to
+prevent flotation, collapse or lateral movement resulting from
+hydrostatic loads, including the effects of buoyancy assuming the
+tank is empty, during conditions of the design flood.
+2. Above-ground tanks in flood hazard areas shall be:
+3. Attached to and elevated to or above the base flood elevation (or
+depth number in AO zones) on a supporting structure that is
+designed to prevent flotation, collapse or lateral movement during
+conditions of the design flood; or be
+4. Anchored or otherwise designed and constructed to prevent
+flotation, collapse or lateral movement resulting from hydrodynamic
+and hydrostatic loads, including the effects of buoyancy assuming
+the tank is empty, during conditions of the design flood.
+5. Tank inlets, fill openings, outlets and vents shall be:
+a. A minimum of 2 feet above BFE or fitted with covers
+designed to prevent the inflow of floodwater or outflow of the
+contents of the tank during conditions of the design flood;
+and
+b. Anchored to prevent lateral movement resulting from
+hydrodynamic and hydrostatic loads, including the effects of
+
+Clatsop County Land and Water V-27  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+buoyancy, during conditions of the design flood.
+(I) Recreation Vehicle:
+In A1-30, AH, and AE Zones, all recreational vehicles to be placed on a
+site must:
+1. Be on the site for fewer than 180 consecutive days, and
+2. Be fully licensed and highway ready; or
+3. Be elevated and anchored.
+(J) Accessory Structures:
+1. Relief from the elevation or dry flood-proofing standards may be
+granted for an accessory structure containing no more than 200
+square feet and not exceeding one story in height. Such a structure
+must meet the following standards:
+2. The accessory structure is not temperature controlled;
+3. The accessory structure shall be located on property with a
+dwelling;
+4. The accessory structure shall not be used for human habitation and
+shall be used solely for parking of vehicles or storage of items
+having low damage potential when submerged.
+5. Toxic material, oil or gasoline, or any priority persistent pollutant
+identified by the Oregon Department of Environmental Quality shall
+not be stored below BFE, or where no BFE is available lower than
+three feet above grade, unless confined in a tank installed in
+compliance with this ordinance;
+6. The accessory structure shall be constructed of flood resistant
+materials.
+7. The accessory structure shall be constructed and placed on the
+building site so as to offer the minimum resistance to the flow of
+flood waters;
+8. The accessory structure shall be firmly anchored to prevent
+flotation;
+9. All service facilities, such as electrical and heating equipment
+associated with the accessory structure, shall be elevated or flood
+proofed to or above the flood protection elevation, and;
+10. It shall be designed to equalize hydrostatic flood forces on exterior
+walls by allowing for the automatic entry and exit of floodwater.
+Designs for complying with this requirement must be certified by a
+licensed professional engineer or architect, or
+a. Provide a minimum of two openings with a total net area of
+not less than one square inch for every square foot of
+enclosed area subject to flooding;
+b. The bottom of all openings shall be no higher than one foot
+above the higher of the exterior or interior grade or floor
+
+Clatsop County Land and Water V-28  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+immediately below the opening;
+c. Openings may be equipped with screens, louvers, valves or
+other coverings or devices provided they permit the
+automatic flow of floodwater in both directions without
+manual intervention.
+(K) Temporary Structures, Storage, and Bridges:
+1. A floodplain development permit is required for construction or
+placement of temporary structures, temporary storage associated
+with non-residential uses, and temporary bridges located in areas
+of special flood hazard:
+2. Temporary structures, not including bridges, shall be limited as to
+time of service, but shall not be permitted for more than 90 days.
+The Floodplain Administrator is authorized to grant a one-time
+extension, not to exceed 45 days, for demonstrated cause; such
+cause shall reaffirm the temporary nature of the structure.
+Temporary structures shall be anchored to prevent flotation,
+collapse, or lateral movement.
+3. Temporary storage of materials shall be limited as to time of
+service, but shall not be permitted for more than 90 days. The
+Floodplain Administrator is authorized to grant a one-time
+extension, not to exceed 45 days, for demonstrated cause; such
+cause shall reaffirm the temporary nature of the storage. Stored
+material shall be anchored or contained to prevent flotation or
+release outside the assigned storage area. Hazardous materials or
+materials deemed to be persistent organic pollutants by the Oregon
+Department of Environmental Quality shall not be stored in the
+floodway.
+4. Temporary encroachments in the floodway for the purposes of
+capital improvement projects (including bridges) require a floodplain
+development permit. No CLOMR/LOMR is required.
+Section 5.1140. Development in Floodways
+1) Except as provided in paragraphs (3) and (4), encroachments, including fill, new
+construction, substantial improvements, and other development are prohibited
+unless certification by a registered professional civil engineer is provided
+demonstrating through hydrologic and hydraulic analyses performed in
+accordance with standard engineering practice that such encroachments shall
+not result in any increase in base flood or floodway elevations when compared to
+pre-project conditions.
+2) Any fill allowed to be placed in the floodway shall be designed to be stable under
+conditions of flooding, including rapid rise and rapid drawdown of floodwaters,
+prolonged inundation, and flood-related erosion and scour.
+
+Clatsop County Land and Water V-29  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+3) Applicants shall obtain a Conditional Letter of Map Revision (CLOMR) before an
+encroachment in the floodway is permitted that will cause any increase in the
+base flood elevation. Applicants must obtain a Letter of Map Revision (LOMR) no
+later than six months after project completion.
+4) Construction of new fencing is prohibited, unless the fencing is designed to
+collapse or break-away, and is anchored at one end and cabled together so as to
+not create debris. As an alternative to a break-away design, a new fence may be
+designed to allow the passage of water by having a flap or opening in the areas
+at or below the base flood elevation sufficient to allow floodwaters to pass freely.
+Section 5.1150. Zones with Base Flood Elevation but no Floodway
+1) In areas within Zones A1-30 and AE on the community’s FIRM with a base flood
+elevation, or where a base flood elevation is developed according to Section
+5.1130(2) but where no regulatory floodway has been designated, new
+construction, substantial improvements, or other development (including fill) shall
+be prohibited, unless it is demonstrated that the cumulative effect of the
+proposed development, when combined with all other existing and anticipated
+development, will not increase the water surface elevation of the base flood more
+than one foot at any point within the community.
+2) Applicants of proposed projects that increase the base flood elevation more than
+one foot should obtain from FEMA a Conditional Letter of Map Revision
+(CLOMR) before the project may be permitted. Applicants must obtain a Letter of
+Map Revision (LOMR) no later than six months after project completion.
+Section 5.1160. Zones Without Base Flood Elevations
+1) These standards apply in riverine areas of special flood hazard where no base
+flood elevation data have been provided (A Zones):
+2) When base flood elevation or floodway data have not been identified by FEMA in
+a Flood Insurance Study and /or Flood Insurance Rate Maps, the Floodplain
+Administrator shall obtain, review, and reasonably utilize scientific or historic
+base flood elevation and floodway data available from a federal, state, or other
+source, in order to administer this ordinance. If data are not available from any
+source, only then subsection 3 shall apply.
+3) Where the floodplain administrator has obtained base flood elevation data,
+applicants of proposed projects that increase the base flood elevation more than
+one foot shall obtain from FEMA a Conditional Letter of Map Revision (CLOMR)
+before the project may be permitted. Applicants must obtain a Letter of Map
+Revision (LOMR) no later than six months after project completion.
+4) In special flood hazard areas without base flood elevation data, no
+encroachments, including structures or fill, shall be located in an Area of Special
+Flood Hazard within an area equal to the width of the stream or fifty feet,
+whichever is greater, measured from the ordinary high water mark, unless a base
+
+Clatsop County Land and Water V-30  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+flood elevation is developed by a licensed professional engineer.
+Section 5.1170. Coastal High Hazard Area
+All other development in coastal high hazard areas (V Zones) for which specific
+provisions are not specified in this ordinance or building codes, shall:
+1) All new construction and substantial improvements in Zones V1-V30 and VE (V if
+base flood elevation data is available) shall be elevated on pilings and columns
+so that:
+(A) The bottom of the lowest horizontal structural member of the lowest floor
+(excluding the pilings or columns) is elevated a minimum of one foot
+above the base flood level; and
+(B) The pile or column foundation and structure attached thereto is anchored
+to resist flotation, collapse and lateral movement due to the effects of wind
+and water loads acting simultaneously on all building components. Wind
+and water loading values shall each have a one percent change of being
+equaled or exceeded in any given year (100-year mean recurrence
+interval).
+2) A registered professional engineer or architect shall develop or review the
+structural design, specifications and plans for the construction, and shall certify
+that the design and methods of construction to be used are in accordance with
+accepted standards of practice for meeting the provisions of 1(A) and 1(B) of this
+section.
+3) Obtain the elevation (in relation to mean sea level) of the bottom of the lowest
+structural member of the lowest floor (excluding pilings and columns) of all new
+and substantially improved structures in Zones V1-30, VE and V, and whether or
+not such structures contain a basement. The local administrator shall maintain a
+record of all such information.
+4) All new construction shall be located landward of the reach of mean high tide.
+5) Provide that all new construction and substantial improvements have the space
+below the lowest floor either free of obstruction or constructed with non-
+supporting breakaway walls, open wood lattice-work, or insect screening
+intended to collapse under wind and water loads without causing collapse,
+displacement, or other structural damage to the elevated portion of the building
+or supporting foundation system. For the purpose of this section, a breakaway
+wall shall have a design safe loading resistance of not less than 10 and no more
+than 20 pounds per square foot. Use of breakaway walls which exceed a design
+safe loading resistance of 20 pounds per square foot (either by design or when
+so required by local or state codes) may be permitted only if a registered
+professional engineer or architect certifies that the designs proposed meet the
+following conditions:
+(A) Breakaway wall collapse shall result from water load less than that which
+would occur during the base flood; and
+
+Clatsop County Land and Water V-31  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+(B) The elevated portion of the building and supporting foundation system
+shall not be subject to collapse, displacement, or other structural damage
+due to the effects of wind and water loads acting simultaneously on all
+building components (structural and non-structural. Maximum wind and
+water loading values to be used in this determination shall each have a
+one percent chance of being equaled or exceeded in any given year (100-
+year mean recurrence interval).
+6) If breakaway walls are utilized, such enclosed space shall be useable solely for
+parking of vehicles, building access, or storage. Such space shall not be used for
+human habitation.
+7) Prohibit the use of fill for structural support of buildings.
+8) Prohibit man-made alteration of sand dunes which would increase potential flood
+damage.
+9) All manufactured homes to be placed or substantially improved within Zones V1-
+V30, V and VE that are:
+(A) Outside of a manufactured home park or subdivision;
+(B) In a new manufactured home park or subdivision;
+(C) In an expansion to an existing manufactured home park or subdivision, or
+(D) In an existing manufactured home park or subdivision on which a
+manufactured home has incurred substantial damage as the result of a
+flood
+ shall comply with the requirements of Section 5.1170(1)-(8). Manufactured
+homes placed or substantially improved on all other sites in an existing
+manufactured home park or subdivision shall comply with the requirements of
+Section 5.1130(2)(A).
+10) Recreational vehicles places on sites within Zones V1-V30, V and VE shall:
+(A) Be on the site for fewer than 180 consecutive days;
+(B) Be fully licensed and ready for highway use, on its wheels or jacking
+systems and attached to the site only by quick disconnect type utilities and
+security devices, and have to permanently attached additions; or
+(C) Meet the requirements of Section 5.1170(1)-(8).
+
+Section 5.1180. Non-Coastal High Hazard Areas
+1) All development in non-coastal high hazard areas (A zones) for which specific
+provisions are not specified in this ordinance or building codes, shall:
+2) Be located and constructed to minimize flood damage;
+3) Be designed so as not to impede flow of flood waters under base flood
+conditions;
+4) If located in a floodway, meet the limitations of Section 5.1150 of this ordinance;
+5) Be anchored to prevent flotation or lateral movement resulting from hydrostatic
+loads, including the effects of buoyancy, during conditions of the design flood;
+
+Clatsop County Land and Water V-32  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+6) Be constructed of flood damage-resistant materials; and
+7) Have electric service and or mechanical equipment elevated above the base
+flood elevation (or depth number in AO zones), except for minimum electric
+service required to address life safety and electric code requirements.
+Section 5.1190. Specific Standards for Areas of Shallow Flooding (AO and AH
+Zone)
+Shallow flooding areas appear on FIRMs as AO zones with depth designations. The
+base flood depths in these zones range from 1 to 3 feet above ground where a clearly
+defined channel does not exist, or where the path of flooding is unpredictable and where
+velocity flow may be evident. Such flooding is usually characterized as sheet flow. In
+these areas, the following provisions apply:
+1) New construction and substantial improvements of residential structures and
+manufactured homes within AO zones shall have the lowest floor (including
+basement) elevated above the highest grade adjacent to the building, a minimum
+of one foot above the depth number specified on the FIRM (at least two feet if no
+depth number is specified).
+2) New construction and substantial improvements of nonresidential structures
+within AO zones shall either:
+(A) Have the lowest floor (including basement) elevated above the highest
+adjacent grade of the building site, one foot or more above the depth
+number specified on the FIRM (at least two feet if no depth number is
+specified); or
+(B) Together with attendant utility and sanitary facilities, be completely flood
+proofed to or above that level so that any space below that level is
+watertight with walls substantially impermeable to the passage of water
+and with structural components having the capability of resisting
+hydrostatic and hydrodynamic loads and effects of buoyancy. If this
+method is used, compliance shall be certified by a registered professional
+engineer or architect as in section 5.1130(2)(E).
+3) Require adequate drainage paths around structures on slopes to guide
+floodwaters around and away from proposed structures.
+4) Recreational vehicles placed on sites within AO zones on the community’s FIRM
+either:
+(A) Be on the site for fewer than 180 consecutive days, and
+(B) Be fully licensed and ready for high use, on its wheels or jacking system,
+is attached to the site only by quick disconnect type utilities and security
+devices, and has no permanently attached additions; or
+(C) Meet the requirements of Section 5.1170(1)-(8).
+
+Clatsop County Land and Water V-33  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+Section 5.1200. Requirement to Submit New Technical Data
+1) Within six months of project completion, an applicant who obtains an approved
+Conditional Letter of Map Revision (CLOMR) from FEMA, or whose development
+modifies floodplain boundaries, modifies base flood elevations, or alters a
+watercourse, shall obtain from FEMA a Letter of Map Revision (LOMR) reflecting
+the as-built changes to the FIRM.
+2) It is the responsibility of the applicant to have technical data prepared in a format
+required for a Conditional Letter of Map Revision (CLOMR) or Letter of Map
+Revision (LOMR) and to submit such data to FEMA on the appropriate application
+forms. Submittal and processing fees for these map revisions shall be the
+responsibility of the applicant.
+3) Clatsop County shall be under no obligation to sign the Community
+Acknowledgement Form, which is part of the CLOMR/LOMR application, until the
+applicant demonstrates that the project will or has met the requirements of this
+code and all applicable State and Federal laws.
+
+SECTION 5.2000. TSUNAMI INUNDATION ZONE
+Section 5.2010. Review Required
+Pursuant to OAR 632-05-050 Tsunami Inundation Zone, persons proposing new
+construction of or the conversion to essential facilities, hazardous facilities, major
+structures, or special occupancy structures are required to contact the Oregon
+Department of Geology and Mineral Industries (DOGAMI) at the earliest reasonable
+date for a consultation regarding the requirements of ORS 455.446 and 455.447 that
+pertain to their proposed facility or structure. As used in this section, “essential facility”
+means hospitals and other medical facilities having surgery and emergency treatment
+areas, fire and police stations, tanks or other structures containing housing or
+supporting water or fire suppression materials or equipment required for the protection
+of essential or hazardous facilities or special occupancy structures, emergency vehicle
+shelters and garages, structures and equipment in emergency-preparedness centers,
+standby power generating equipment for essential facilities, and structures and
+equipment in government communication centers and other facilities required for
+emergency response. As used in this section, “hazardous facility” means structures
+housing supporting or containing sufficient quantities of toxic or explosive substances to
+be of danger to the safety of the public if released. As used in this section, “special
+occupancy structure” means covered structures whose primary occupancy is public
+assembly with a capacity greater than 300 persons, buildings with a capacity greater
+than 250 individuals for every public, private or parochial school through secondary
+level or child care centers, buildings for colleges or adult education schools with a
+capacity greater than 500 persons, medical facilities with 50 or more resident,
+incapacitated patients not included in facilities mentioned above, jails and detention
+facilities, and all structures and occupancies with a capacity greater than 5,000 persons.
+
+Clatsop County Land and Water V-34  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+Section 5.2020. Verification of Review
+Prior to the issuance of a development permit for a regulated structure or facility, the
+developer of that structure or facility shall present verification of consultation with
+DOGAMI, or verification of an exception.
+
+Clatsop County Land and Water V-35  July 22, 2025
+Development and Use Code   Codified Through Ordinance 25-02
+ARTICLE 5. SPECIAL DISTRICTS
+SECTION 5.3000. GEOLOGIC HAZARDS OVERLAY (GHO)
+Section 5.3005. Purpose
+The intent of the geologic hazards overlay is to minimize building hazards and threats to
+life and property that may be created by landslides, ocean flooding and erosion, weak
+foundation soils, and other hazards as identified and mapped by the County. This
+purpose is achieved by basing County decisions on accurate geologic and soils
+information prepared by qualified professionals.
+[ORD. 25-02]
+Section 5.3010. Applicability
+This section applies to all development in the following geologically hazardous areas:
+1) Areas subject to mass wasting including:
+(A) Active landslides, inactive landslides, landslide topography and mass
+movement topography identified in the Oregon Department of Geology
+and Mineral Industries (DOGAMI) Bulletins 74 and 79;
+
+(B) Faults including definite, indefinite, inferred and concealed in the Oregon
+Department of Geology and Mineral Industries (DOGAMI) Bulletins 74 and
+79;
+(C) All areas identified in the report, “A Field Inventory of Geologic Hazards
+from Silver Point to Cove Beach, Clatsop County, Oregon”, prepared by
+Martin Ross in 1978, as needing site specific investigations;
+2) Areas subject to wave attack, including:
+(A) All Ocean Front Lots; and
+(B) The beach and dune hazard area as defined in Section 5.4020.
+3) The determination of whether a property is located in one of the above
+referenced hazardous areas shall be made by the Community Development
+Mass wasting. (Provided by geologyin.com)
+
+Clatsop County Land and Water V-36  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+Director. If a specific site does not include the characteristics for which it is
+mapped, the Director shall grant a waiver from the requirements of Section
+5.3000. The waiver shall be in the form of a written finding. The finding shall be
+based on a report, from a professional specified in Section 5.3020, detailing the
+basis for the determination that the site does not contain the identified geologic
+condition.
+[ORD. 25-02]
+Section 5.3015. Geologic Hazard Permit Requirements
+1) Development activity is not permitted in an identified hazard area unless:
+(A) A waiver has been granted under Section 5.3010
+(B) The proposed use is exempted under Section 5.3020
+(C) The applicant obtains a geologic hazard permit under this section
+2) Application for a geologic hazard permit shall be on forms provided by the
+County and shall include a geotechnical report prepared in conformance with the
+requirements of Section 5.3025. [ORD. 24-12]
+3) Before a development permit can be issued, the geotechnical report must be
+approved as part of the development permit approval process.
+(A) Where a geotechnical report recommends that additional site
+investigations, such as borings or test pits, are undertaken, the results of
+those investigations must be included in the building permit application
+package.
+(B) Where an application is made for a subdivision or a planned development
+located in an area identified in Section 5.3010, a geotechnical report in
+conformance with Section 5.3025 shall be prepared.
+4) Application for a geologic hazard permit may be made concurrently with an
+application for a development permit.
+[ORD. 24-12; ORD. 25-02]
+Section 5.3020. Exemptions
+The following development activities are exempt from the requirement for a Geologic
+Hazard Permit:
+1) Maintenance, repair, or alterations to existing structures that do not alter the
+building footprint or foundation;
+2) Exploratory excavations under the direction of a certified engineering geologist or
+registered geotechnical engineer;
+3) Site evaluations, installation, and repair of onsite sewage disposal systems;
+4) Construction of structures which do not require either a development permit or
+building permit;
+5) Excavation which is less than 30 inches in depth and which involves less than 30
+cubic yards of volume;
+6) Fill which is less than 30 inches in depth and which involves less than 30 cubic
+
+Clatsop County Land and Water V-37  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+yards of volume;
+7) Retaining walls up to 30 inches in height which do not support a building;
+8) Forest operations subject to regulation under ORS 527 (the Oregon Forest
+Practices Act);
+9) Mining operations subject to regulation by the Oregon Department of Geology
+and Mineral Industries (DOGAMI);
+10) Maintenance and repair of public and private roads, streets, parking lots,
+driveways, and culverts;
+11) Maintenance and repair of utility lines, and the installation of individual utility
+service connections;
+12) Emergency response activities intended to reduce or eliminate an immediate
+danger to life, property, or flood or fire hazard; and
+13) Beachfront protective structures subject to regulation by the Oregon Parks and
+Recreation Department under OAR Chapter 736, division 20.
+[ORD. 23-12; ORD. 25-02]
+
+Section 5.3025 Geotechnical Report Requirements
+For the purposes of Section 5.3000, Geologic Hazard Report refers to engineering
+geologic reports, geotechnical reports, and geotechnical engineering reports.
+1) Geologic Hazard Reports shall be prepared consistent with the following:
+(A) standard geologic practices and scientific and engineering principles;
+(B) the applicable provisions outlined in the Oregon State Board of Geologist
+Examiners publication “Guidelines for Preparing Engineering Geologic
+Reports,” 2nd Edition (May 30, 2024) or other published best practice
+guidelines for engineering geologic or geotechnical engineering reports.
+(C) Reports shall reference the published guidelines upon which they are
+based.
+2) For Ocean Front Lots, Geologic Hazard Reports shall address the applicable
+criteria and development standards listed in Section 5.4000, Beach and Dune
+Overlay (BDO).
+3) Geologic Hazard Reports shall include the following from the preparer(s) of the
+report:
+(A) A statement that all the applicable content requirements of Section 5.3025
+have been addressed or are not applicable to the review. An explanation
+shall be provided for any requirement identified as not applicable;
+(B) A description of the qualifications of the professional(s) that prepared the
+report. If multiple professionals contributed to the report, each professional
+shall individually sign and stamp their own work products; and
+(C) A statement by the preparer(s) that they have the appropriate
+qualifications to have completed the report and all its contents.
+4) All Geologic Hazard Reports are valid for a period of 5 years from the date of
+preparation. Such reports are valid only for the development plan addressed in
+
+Clatsop County Land and Water V-38  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+the report. Clatsop County assumes no responsibility for the quality or accuracy
+of such reports.
+[ORD. 23-12; ORD. 24-12; ORD. 25-02]
+Section 5.3030. Geologic Hazard Permit Review
+An application for a geologic permit shall be reviewed under a Type I procedure.
+1) A geologic hazard permit shall be approved by the Director if:
+(A) The conclusions of the report support findings that the site’s geologic
+characteristics will not adversely affect the proposed development and the
+proposed site modifications will not adversely affect geologic conditions
+and processes in the immediate area: or
+(B) The conclusions of the report identify specific actions that shall be taken to
+ensure the proposed development will not increase the risk of geologic
+conditions and processes in the immediate area.
+2) Specific recommendations contained in the geologic report shall be incorporated
+into the approved geologic hazard permit.
+3) The specific recommendations contained in the geotechnical report, and
+conditions applied to the geologic hazard permit shall be incorporated into the
+plans and specifications submitted with the development permit application.
+4) If the geologic hazard report has not been prepared to support a specified
+development, the person(s) who prepared the report shall submit a letter
+verifying that the proposed project has been reviewed and complies with the
+recommendations contained in the report submitted with the geologic hazard
+permit. If the proposed project does not comply with the recommendations, the
+letter shall include additional recommendations or changes required to bring the
+project into compliance. This letter shall be included in the development permit
+application.
+5) If the geologic hazards report is more than 5 years old, a letter shall be submitted
+from the person(s) who prepared the report verifying that the geotechnical report
+is still valid for the proposed project.
+[ORD. 23-12; ORD. 25-02]
+Section 5.3035. Geological Hazard Reports for Ocean Front Lots [ORD. 25-09]
+Reports for new developments on vacant, Ocean Front Lots shall include the following
+information, analysis and recommendations. [ORD. 25-16]
+1) Site description:
+(A) The history of the site and surrounding areas, such as previous riprap or
+dune grading permits, erosion events, exposed trees on the beach, or
+other relevant local knowledge of the site.
+(B) Topography, including elevations and slopes on the property itself.
+(C) Vegetation cover.
+
+Clatsop County Land and Water V-39  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+(D) Subsurface materials – the nature of the rocks and soils.
+(E) Conditions of the seaward front of the property, particularly for sites having
+a sea cliff.
+(F) Presence of drift logs or other flotsam on or within the property.
+(G) Description of streams or other drainage that might influence erosion or
+locally reduce the level of the beach.
+(H) Proximity of nearby headlands or jetties which might block the longshore
+movement of beach sediments, thereby affected the level of the beach in
+front of the property.
+(I) Description of any shore protection structures that may exist on the
+property or on nearby properties.
+(J) Presence of pathways or stairs from the property to the beach.
+(K) Existing human impacts on the site, particularly that might alter the
+resistance to wave attack.
+(L) Location and condition of nearby beach access sites.
+2) Description of the front beach:
+(A) Average widths of the beach during the summer and winter.
+(B) Median grain size of beach sediment.
+(C) Average beach slopes during the summer and winter.
+(D) Elevations above mean sea level of the beach at the seaward edge of the
+property during summer and winter.
+(E) Presence of rip currents and rip embayments that can locally reduce the
+elevation of the front beach.
+(F) Presence of rock outcrops and sea stacks, both offshore or within the
+beach zone.
+(G) Information regarding the depth of beach sand down to bedrock at the
+seaward edge of the property.
+3) Analyses of Erosion and Flooding Potential:
+(A) Analysis of DOGAMI beach monitoring data for the site or nearby area (if
+available)
+(B) Analysis of human activities affecting shoreline erosion.
+(C) Analysis of possible mass wasting, including weathering processes, land
+sliding or slumping.
+(D) Calculation of wave run-up beyond mean water elevation that might result
+in erosion of the sea cliff or foredune.
+(E) Evaluation of frequency that erosion-inducing processes could occur,
+considering the most extreme potential conditions of unusually high-water
+levels together with severe storm wave energy.
+(F) For dune-backed shorelines, use established geometric model to assess
+the potential distance of property erosion and compare the results with
+direct evidence obtained during site visit, aerial photo analysis, or analysis
+of DOGAMI beach monitoring data.
+
+Clatsop County Land and Water V-40  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+(G) Description of estimated local sea level rise over the next 50 years and
+impacts of that sea level change on the site, including during severe storm
+conditions.
+4) Assessment of Potential Erosion Control Options:
+(A) Determination of eligibility for beachfront protective structures as
+prescribed in Section 5.4000: Beach and Dune Overlay Zone.
+(B) Assessment of potential erosion events, including erosion caused by sea
+level rise and climate change conditions, and potential responses that
+address the need for future erosion control measures.
+(C) Assessment of how the proposal is consistent with applicable beach and
+Dune Overlay Zone approval criteria.
+5) Geologic hazard reports for land divisions and for development requiring building
+permits on ocean front lots shall also include the following recommendations:
+(A) Use results from the above analyses to establish setback (beyond any
+minimums established by the Land and Water Development and Use
+Code, building techniques, or other mitigation to ensure an acceptable
+level of safety and compliance with all local requirements.
+(B) Recommend a foundation and site design that facilities structure
+relocation in the event the structure is threatened by erosion or flooding in
+the future.
+(C) Recommend methods to control and direct water drainage to not cause
+erosion or visual impacts.
+6) Geologic hazard reports for activities on ocean front lots shall be informed by the
+following report and any later applicable reports published by the department of
+Geology and Mineral Industries. Allan, J. C., & O’Brien, F. (2025). Beaches and
+Dunes of Clatsop County, Oregon: 1975 to 2022 (Open-File Report O-25-04).
+Oregon Department of Geology and Mineral Industries.
+
+SECTION 5.4000. BEACH AND DUNE OVERLAY DISTRICT (BDO)
+Section 5.4010. Purpose
+The intent of the beach and dune overlay is to regulate uses and activities in the
+affected areas in order to: ensure that development is consistent with the natural
+limitations of the oceanshore; ensure that identified recreational, aesthetic, wildlife
+habitat and other resources are protected; conserve, protect, where appropriate
+develop, and where appropriate restore the resources and benefits of beach and dune
+areas; and to reduce the hazards to property and human life resulting from both natural
+events and development activities.
+Section 5.4020. Applicability
+The beach and dune overlay (BDO) includes the following beach and dune areas:
+1) BEACH: The beach, which extends from extreme low tide landward to the
+Statutory Vegetation Line established and described in ORS 390.770, or the line
+
+Clatsop County Land and Water V-41  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+of established upland shore vegetation, whichever is further inland;
+2) DUNE HAZARD AREA: The dune hazard area, which extends from the
+Statutory Vegetation Line established and described by ORS 390.770 or the line
+of established upland shore vegetation, whichever is further inland, landward to
+the construction setback line.
+3) CONSTRUCTION SETBACK LINE: The construction setback line is established
+as follows:
+(A) A line 570 feet landward of the Statutory Vegetation Line established and
+described by ORS 390.770 for the area north of Surf Pines to the
+Columbia River south jetty.
+(B) The Pinehurst construction setback line, established and described in
+Ordinance 92-20; and
+(C) The Surf Pines construction setback line, established and described in
+Ordinance 83-17 and extended north to include T7N, R10W, Section 16C,
+Tax Lot 300.
+(D) Elsewhere in Clatsop County, the construction setback line is described in
+Section 3.0150. [ORD. 25-09]
+4) DUNE CONSTRUCTION AREA: The dune construction area, which extends
+from the construction setback line as defined in the section above, landward to
+the eastern limit of Highway 101.
+Section 5.4030. Relationship to the Underlying Zone
+Uses and activities permitted in the Beach and Dune Overlay (BDO) are subject to the
+provisions and standards of the underlying zone and this chapter. Where the provisions
+of this district and the underlying zone conflict, the provisions of this district shall apply.
+Section 5.4040 Oregon Parks and Recreation Department Regulated Uses
+1) Uses and activities permitted on the beach, as defined in Section 5.4020(1) are
+those permitted subject to review and approval by the Oregon Parks and
+Recreation Department (OPRD) consistent with ORS 390.605-390.725 and OAR
+Divisions 20-30.
+2) No construction or site preparation on the beach, as defined in Section 5.4020(1)
+is permitted prior to the issuance of an OPRD permit. [ORD. 25-09]
+3) The County’s review of regulated uses and activities shall be coordinated with
+the Oregon Parks and Recreation Department. [ORD. 25-09]
+Section 5.4050. Type I Uses
+The following developments and uses and their accessory uses are permitted under a
+Type I procedure subject to specific development standards.
+1) In the Dune Construction Area, as defined in Section 5.4020(4), any Type I
+permitted uses allowed in the underlying zone subject to the applicable standards
+of that zone and the applicable general standards of Section 5.4090. [ORD. 25-
+
+Clatsop County Land and Water V-42  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+09]
+2) In the Dune Hazard Area as defined in Section 5.4020(2),
+(A) Maintenance and repair of existing structures, including roads and
+subsurface disposal systems.
+(B) Land transportation facilities as specified in Section 4.0300.
+(C) Drainage improvements, including storm water outfall.
+(D) Maintenance of existing riparian vegetation, including the planting of
+additional riparian vegetation.
+(E) Foredune breaching, where:
+1. The breaching is required to replenish sand supply in interdune
+areas, or is undertaken on a temporary basis for emergency
+purposes such as fire control or the alleviation of a flood hazard.
+2. There are no other reasonable alternatives to alleviate the
+emergency.
+3. The breaching does not endanger existing development.
+4. The area affected by the breaching is restored according to an
+approved Stabilization and Planting Program; and [ORD. 25-09]
+5. At a minimum, foredunes shall be restored to a dune profile which
+provides flood protection equivalent to that prior to breaching.
+(F) Remedial grading, in the following cases and subject to the following
+standards: [ORD. 25-09]
+1. Clearing of sand which is inundating houses or commercial
+buildings above their foundation sill elevations or which is
+2. Clearing of sand which is inundating a street and which is
+interfering with vehicular or pedestrian traffic, including clearing of
+sand from a public beach access parking lot.
+3. Excavation of sand necessary to alleviate storm water buildup,
+based upon a report prepared by a licensed engineer. In no event
+shall sand be removed from the beach and dune system.;
+4. Sand may be graded to the elevation of the sill of a structure’s
+foundation or to the elevation of the street. [ORD. 25-09]
+5. Not more than 15 feet from the edge of the structure or street, the
+graded area shall slope up to the horizontal 35-foot grading limit.
+[ORD. 25-09]
+6. At a minimum, within the Flood Hazard Overlay (FHO), the area
+graded shall maintain the 100-year flood elevation as established
+by the County Flood Insurance Rate Map (FIRM), and the project
+shall demonstrate compliance with the requirements of the Flood
+Hazard Overlay Zone (Section 5.1000). [ORD. 25-09]
+7. All graded sand from Ocean Front Lots and streets accessing the
+beach shall be placed on the beach or foreslope portion of the
+adjoining dune. [ORD. 25-09]
+
+Clatsop County Land and Water V-43  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+8. Graded sand may be placed landward of the foredune crest in the
+following circumstances: [ORD. 25-09]
+a. OPRD will not approve a beach disposal.
+b. There is topography across the beach access routes making
+beach disposal unsafe (e.g. Scarped foredune).
+c. There are wetlands or habitat across the beach access
+route.
+d. There is a Stabilization and Planting Program or erosion
+control structure or program that would be damaged or
+compromised by crossing for beach disposal.
+9. No grading shall occur seaward of the Statutory Vegetation Line or
+the line of established upland shore vegetation, whichever is further
+inland without a permit from OPRD. [ORD. 25-09]
+10. Remedial grading and deposition beyond the foredune crest shall
+not lower the height of the foredune. [ORD. 25-09]
+11. The path for grading sand to the foreslope of the foredune or the
+beach shall not be greater than 15 feet wide. [ORD. 25-09]
+12. After remedial grading, minor reshaping of the forward portion of a
+dune necessary to provide an even slope for the planting of
+stabilizing vegetation after grading is allowed as a part of a
+remedial grading project. [ORD. 25-09]
+13. Graded areas seaward of structures on ocean front lots shall be
+revegetated with plants other than noxious weeds on the Oregon
+Department of Agriculture Noxious Weeds List. [ORD. 25-09]
+14. The permit application shall include a Stabilization and Planting
+Program. [ORD. 25-09]
+(G) Habitat Grading and Enhancement: Permits for the enhancement or
+restoration of beach and dune landforms for the purposes of wildlife and
+plant habitat are permitted in the Beach and Dune Overlay Zone subject to
+the following requirements: [ORD. 25-09]
+1. Any proposed vegetation removal shall be the minimum necessary
+to carry out the purpose of the habitat restoration or enhancement
+project.
+2. Activities shall demonstrate compliance with the requirements of
+the Flood Hazard Overlay Zone, if applicable.
+3. Activities shall be tied to an existing conservation plan, wildlife
+strategy, Endangered Species Act requirement, or other applicable
+documents.
+4. The permit applicable shall include a clear plan for what activities
+will be carried out, the timing of the activities and shall include:
+a. Grading plans and Stabilization and Planting Program
+b. Methods for protecting the surrounding area from any
+
+Clatsop County Land and Water V-44  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+adverse effects of the restoration or enhancement activities;
+and
+c. Measures that will be taken to minimize or eliminate hazards
+to life, public, and private property, and the natural
+environment which may be caused by the proposed
+activities.
+Section 5.4060 Type II Conditional Uses
+The following developments and uses and their accessory uses are permitted under a
+Type II procedure, consistent with Sections 2.5000 to 2.5030, subject to the applicable
+general standards of Section 5.4090.
+1) In the Dune Construction Area as defined in Section 5.4020(4), any Type II
+conditional uses allowed in the underlying zone subject to the applicable
+standards of that zone and the applicable standards of Section 5.4090. [ORD.
+25-09]
+2) On the Beach, as defined in Section 5.4020(1), and in the Dune Hazard Area as
+defined in section 5.4020(2), and in the Dune Construction Area as defined in
+section 5.4020(4):
+(A) Pedestrian and Equestrian Trail.
+1. To minimize the loss of vegetation, fencing adjacent to the trail may
+be required to restrict traffic to the designated trail, and
+2. New subdivisions or other developments of ten or more dwelling
+units that abut the Beach as defined in Section 5.4020(1), shall
+provide public trails to the beach.
+(B) Beachfront Protective Structures and Non-Structural Erosion Control: the
+Geologic Hazard Report shall demonstrate that:
+1. The beachfront protective structure is located in an area where the
+county has identified that development existed on or before
+January 1, 1977.
+2. The development is being threatened by erosion hazard.
+3. Lower impact means of shoreline stabilization cannot provide the
+level of erosion protection required to protect the development.
+Following is the order shoreline stabilization solutions, from lowest
+impact to highest impact. [ORD. 25-09]
+a. Avoiding the hazard, moving the building
+b. Non-structural erosion control
+c. Hybrid erosion control (Non-structural supported by
+beachfront protective structure)
+d. Beachfront protective structure with persistent vegetation
+e. Beachfront protective structure with no persistent vegetation
+4. The structure is the minimum necessary to provide for the level of
+protection that has been identified.
+
+Clatsop County Land and Water V-45  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+5. Vegetation planting is incorporated into the project to minimize the
+structure and its impacts.
+6. The structure is placed as far landward as is practical, consistent
+with maintaining existing riparian vegetation. [ORD. 25-09]
+7. Adverse impacts on adjacent property are avoided. [ORD. 25-09]
+8. Existing public access is preserved, including access along the
+beach, coastal shorelands and other waterbodies. [ORD. 25-09]
+a. Where public access may be impacted, the standard may be
+met by mitigating the public impacts at the same location
+and at the same time as the impact.
+b. Mitigation actions must be specified in the geologic hazard
+report and include a legal instrument making the owner of
+the beachfront protective structure responsible for mitigation.
+c. Mitigation to ensure that public access is preserved may
+include but is not limited to constructing stairs or other
+improvements to maintain public access across a beachfront
+protective structure, or an owner’s obligation to remove the
+beachfront protective structure or to clean up deteriorated
+beachfront protective structure debris in the future if it
+diminishes the public access.
+9. Visual impacts from the beach are minimized.
+10. Any rip-rap shall be covered with sand and revegetated with beach
+grass, willow or other appropriate vegetation consistent with the
+project restoration plan. [ORD. 25-09]
+11. The area affected by the project is restored with stabilizing
+vegetation according to the Stabilization and Planting Program
+prepared by a registered professional geologist or certified
+engineering geologist, consistent with Section 5.4096. [ORD. 25-
+09]
+12. Costs to the public are avoided; and [ORD. 25-09]
+13. Adverse impacts on water currents, erosion, and accretion patterns
+are avoided. [ORD. 25-09]
+14. The emergency placement or riprap on the Beach, as defined in
+Section 5.4020(1) requires a permit from the Oregon Parks and
+Recreation Department (OPRD). [ORD. 25-09]
+3) Elevating the height of foredunes using grading and/or replacement of vegetation
+with species that increase dune height, where a Geologic Site Investigation
+Report and Stabilization and Planting Program demonstrate that: [ORD. 25-09]
+(A) The project will measurably alleviate a flood or tsunami hazard in terms of
+a specified area protected from a flood or tsunami of a specified size or
+elevation.
+(B) The project will not diminish public access; harm significant biological
+
+Clatsop County Land and Water V-46  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+resources or increase hazards to existing development.
+(C) Foredunes shall be restored  to a dune profile which provides flood and
+erosion protection at least equal to that provided before the project.
+4) Foredune grading for view enhancement or to prevent inundation may be allowed
+in foredune areas where an overall plan for foredune grading has been adopted
+as an amendment to the Comprehensive Plan. [ORD. 25-09]
+Section 5.4070. Type III Conditional Uses
+The following developments and uses and their accessory uses may be permitted under
+a Type III procedure, consistent with Sections 2.4020 to 2.4040, subject to the
+applicable general development and use criteria of Section 5.4090. [ORD. 25-09]
+1) In the Dune Construction Area as defined in Section 5.4020(4), any Type III
+conditional use allowed in the underlying zone subject to applicable standards of
+that zone and the applicable general standards of Section 5.4090.
+2) On the Beach, as defined in section 5.4020(1), or the line of established upland
+shore vegetation, whichever is further inland, and in the Dune Hazard Area as
+defined in section 5.4020(2), and in the Dune Construction Area as defined in
+Section 5.4020(4): [ORD. 25-09]
+(A) Cable Landings: [ORD. 25-09]
+1. The term “cable landing” refers to all construction and post-
+construction activities and components connecting undersea
+telecommunications or power cables to onshore networks. Cable
+landings shall be located outside of wetlands, riparian areas, and
+their buffers.
+2. All components of a cable landing in the Beach and Dune Overlay
+shall be considered at the same time in making a permit decision.
+3. Applications and findings shall describe planning maximum build-
+out condition of the cable landing and route(s).
+4. A complete application shall include documentation of a pre-
+application conference with coordinating state agencies and the
+County.
+5. Cable landing project applicants shall follow the recommendations
+of state resource agencies, including Oregon Department of
+Transportation, Oregon Department of State Lands, Oregon Parks
+and Recreation Department, Department of Geology and Mineral
+Industries and Department of Land Conservation and Development.
+6. The state resource agencies shall be included in a mandatory pre-
+application meeting and shall receive copies of all hearing and
+decision notices.
+7. In addressing the General Development and Use Criteria and
+Conditional Use Criteria, the applicant shall address both temporary
+construction impacts and post-construction impacts.
+
+Clatsop County Land and Water V-47  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+8. The applicant shall include plans for responding to sinkholes and
+inadvertent releases of drilling fluids.
+9. The County shall require bonds or other financial guarantees to
+ensure that impacts to beach and dune resources from the
+following are avoided, minimized and/or mitigated:
+a. Cable landing inadvertent releases and sinkholes
+b. Buried cable landing structures and components that may be
+exposed be erosion.
+10. Cable landings in residential zones shall be processed consistent
+with Section 2.0080(3), subject to the applicable general standards
+of Section 5.4090 and the cable land standards above.
+Section 5.4075. Type IV Uses [ORD. 25-09]
+1) A Foredune Management Plan for grading to enhance views or to prevent sand
+inundation in foredune areas that were committed to development on or before
+January 1, 1977, may be adopted as an amendment to the Comprehensive Plan.
+The Foredune Management Plan shall:
+(A) Be prepared by a registered professional geologist or certified engineering
+geologist who has a PhD in Coastal Geomorphology or demonstrated
+experience completing foredune grading plans at the littoral cell scale.
+(B) Be based on factors affecting the stability of the shoreline to be managed
+including sources of sand, ocean flooding, and patterns of accretion and
+erosion (including wind erosion), and the effects of beachfront protective
+structures and jetties.
+(C) Cover an entire beach and foredune area subject to an accretion problem,
+including adjacent areas potentially affected by changes in flooding,
+erosion or accretion resulting from dune grading.
+(D) Specify minimum dune height and width requirements to be maintained for
+protection from flooding and erosion. The minimum height for flood
+protection is four feet above the 100-year flood elevation established by
+the FEMA flood insurance studies.
+(E) Identify and set priorities for low and narrow dune areas which need tob e
+built up.
+(F) Prescribe standards for redistribution of sand and temporary and
+permanent stabilization measures including the timing of these activities.
+(G) Prohibit removal of sand from the beach-foredune system.
+(H) Be adopted as an amendment to the Comprehensive Plan.
+(I) Be consistent with the Oregon Ocean Shore Management Plan, scoped in
+collaboration with the Oregon Pars and Recreation Department (OPRD)
+and follow OPRD recommendations.
+(J) Make recommendations on the decision type and standards that should
+be used to permit grading projects pursuant to the plan.
+
+Clatsop County Land and Water V-48  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+
+Section 5.4080. Prohibited Activities
+The following activities are prohibited in all areas within the beach and dune overlay
+(BDO) as defined in Section 5.4020:
+1) Removal of sand from the beach or dune system.
+2) Removal of stabilizing vegetation, except Oregon Department of Agriculture
+noxious weeds or except in conjunction with a permitted development or use and
+in conjunction with a Stabilization and Planting Program. [ORD. 25-09]
+Section 5.4090. General Development and Use Criteria
+The following criteria are applicable to developments and uses that may be allowed as
+conditional uses on the Beach, as defined in Section 5.4020(1), in the Dune Hazard
+Area as defined in Section 5.4020(2), and on Ocean Front lots. [ORD. 25-09]
+1) For development located in all areas in the BDO as defined by Section 5.4020,
+other than older stabilized dunes, findings shall address the following:
+(A) The adverse effects the proposed development will have on the site and
+adjacent areas;
+(B) Temporary and permanent stabilization proposed and the planned
+maintenance of new and existing vegetation;
+(C) Methods for protecting the surrounding area from adverse effects of the
+development;
+(D) Hazards to life, public and private property, and the natural environment
+which may be caused by the proposed use.
+(E) How the proposed development will not result in the drawdown of the
+groundwater supply in a manner that would lead to:
+1. The loss of stabilizing vegetation:
+2. The loss of water quality;
+3. Saltwater intrusion into the water supply; or
+4. Lowering of interdune water level. Building permits for single-unit
+dwellings are exempt from this requirement if appropriate findings
+are provided at the time of subdivision approval.
+2) For development on the Beach, as defined in section 5.4020(1), and in the Dune
+Hazard Area as defined in section 5.4020(2), and on Ocean Front Lots, a
+geotechnical report in conformance with Section 5.3020, shall be required prior to
+the issuance of a development permit.
+
+Clatsop County Land and Water V-49  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+3) For development in the Dune Hazard Area as defined in section 5.4020(2) and in
+the Dune Construction Area as defined in section 5.4020(4) a Stabilization and
+Planting Program is required prior to the issuance of a development permit. The
+Stabilization and Planting Program shall meet the requirements of Section
+5.4096. [ORD. 25-09]
+4) No site clearing is permitted prior to the issuance of the development permit for
+the proposed development or use. Site clearing shall occur no sooner than is
+necessary prior to construction. The permanent revegetation of the site shall be
+started as soon as is practical, but in no event later than six months after the
+completion of construction. [ORD. 25-09]
+
+Section 5.4096. Stabilization and Planting Program [ORD. 25-09]
+The goal and effect of a Stabilization and Planting Program is to protect Goal 18
+resources and to protect development from hazards including windblown sand.
+Stabilization and Planting Programs are required parts of some uses and activities
+regulated by the Beach and Dun Overlay. Stabilization and Planting Programs may also
+be permitted with review apart from any regulated use or activity to stabilize a source of
+windblown/inundating sand, to proactively avoid erosion threats, or to achieve an
+ecological or public access objective. Stabilization and Planting Programs shall comply
+with the following standards:
+1) When a Stabilization and Planting Program is proposed on an ocean front lot, on
+the beach, or in the dune hazard area as defined in Section 5.4020 above, the
+program shall be prepared by a registered professional geologist or certified
+engineering geologist. [ORD. 25-16]
+2) The program shall specify actions and responsibilities for five years.
+3) The program shall be based on an analysis of the area subject to
+accretion/erosion.
+4) The program shall specify:
+(A) Areas where vegetation is to be removed;
+(B) Quantity and type of vegetation to be removed or replaced;
+(C) Temporary sand stabilization measures to be used during construction;
+(D) The proposed type of vegetation to be planted;
+(E) Plant distribution;
+(F) Required fertilization;
+(G) Other vegetation maintenance;
+(H) The location of any sand fences;
+(I) The timing of the elements of the proposed program.
+5) Fire-resistant species are the preferred stabilizing vegetation within 25 feet of
+existing dwellings or structures.
+6) Fencing may be permitted on a temporary basis to protect vegetation that is
+
+Clatsop County Land and Water V-50  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+being planted as part of the program, or to control the effects of pedestrian beach
+access on adjacent areas.
+7) The program shall specify a date within 5 years when the fencing shall be
+removed.
+
+SECTION 5.4100. SHORELAND OVERLAY DISTRICT (SO)
+Section 5.4110. Purpose
+The purpose of this district is to manage uses and activities in coastal shoreland areas
+which are not designated as a Shoreland Zone in a manner consistent with the
+resources and benefits of coastal shorelands and adjacent estuarine aquatic areas.
+Section 5.4120. Designation of Shoreland Overlay District
+This overlay district refers to areas described on official Clatsop County Zoning Maps. It
+does not include shoreland areas of the Columbia River Estuary designated Marine
+Industrial Shoreland, Conservation Shoreland, or Natural Shoreland. Included in this
+overlay district are:
+1) Areas subject to ocean flooding and lands within 100 feet of the ocean shore or
+within 50 feet of an estuary or a coastal lake.
+2) Areas of geological instability in or adjacent to the shoreland boundary when the
+geologic instability is related to or will impact a coastal water body.
+3) Natural or man-made riparian resources, especially vegetation which function to
+stabilize the shoreline or maintain water quality and temperature necessary for
+the maintenance of fish habitat and spawning areas.
+4) Areas of significant shoreland and wetland biological habitats whose habitat
+quality is primarily derived from or related to the association with coastal and
+estuarine areas.
+5) Areas necessary for water-dependent and water-related uses, including uses
+appropriate for port facilities and navigation, dredged material disposal and
+mitigation sites, and areas suitable for aquaculture.
+6) Areas of exceptional aesthetic or scenic quality, where the quality is primarily
+derived from or associated with the coastal or estuarine areas.
+7) Areas of recreational importance or public access which utilize coastal waters or
+riparian resources.
+8) Locations of archaeological or historical importance associated with the estuary.
+9) Coastal headlands.
+10) Dikes and their associated inland toe drains.
+Section 5.4140. Categories of Coastal Shorelands
+There are two categories of Coastal Shorelands as described below:
+1) Category 1:
+(A) Those shorelands described in the Estuarine and Coastal Shoreland
+Element of the Comprehensive Plan as:
+
+Clatsop County Land and Water V-51  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+1. Significant, non-estuarine marshes;
+2. Riparian resources;
+3. Significant fish and wildlife habitat;
+4. Exceptional aesthetic resources;
+5. Historical and archaeological sites.
+2) Category 2:
+(A) All shorelands which do not fall within 1(A)1-5 and are not currently
+designated Marine Industrial Shorelands, Conservation Shorelands or
+Natural Shorelands are the second category of Coastal Shorelands.
+
+Section 5.4150. Developments Permitted with Category 1 Coastal Shorelands
+Only the following uses and activities are permitted under a Type I procedure (Section
+2.1010) within shorelands defined in Section 5.4140(1)(A)1)-5):
+1) Low intensity, water-dependent recreation.
+2) Existing and compatible farm uses and activities, excluding structures.
+3) Forest operations only if natural values of the resource are protected, as
+determined by administration of the Oregon Forest Practices Act, where
+applicable, otherwise as determined by the Planning Division under a Type II
+procedure.
+4) Research or educational activities which maintain or enhance the natural
+characteristics of the area and its resources.
+5) Navigational aids.
+6) Vegetative shoreline stabilization.
+7) Maintenance and repair of existing and serviceable dikes.
+8) New dikes.
+Section 5.4160. Developments Permitted within Category 2 Coastal Shorelands
+Within coastal shorelands defined in Section 5.4140(2) the following uses and activities
+are permitted if otherwise allowed in the underlying zone, and subject to the
+requirements and standards of the use in the underlying zone:
+1) Uses allowed in Section 5.4150 above.
+2) Single-unit dwellings, provided that, if possible, the dwelling is to be located on a
+portion of the property outside of the Coastal Shoreland boundary. [ORD. 25-16]
+3) Limited home occupation.
+4) Home occupation in an existing building.
+5) Signs.
+6) Water-dependent recreation.
+7) Projects for the protection of habitat, nutrient, fish, wildlife and aesthetic
+resources.
+8) Aquaculture.
+9) Utilities as necessary for public service.
+
+Clatsop County Land and Water V-52  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+10) Water-dependent commercial and industrial uses.
+
+Other uses and activities within Category 2 Coastal Shorelands are allowed under a
+Type IV procedure upon findings that such uses and activities are compatible with the
+objectives of the Comprehensive Plan to protect riparian vegetation and wildlife habitat.
+
+Section 5.4170. Development Standards
+1) All uses and activities in the Columbia River Estuary Shoreland Overlay District
+will satisfy applicable Columbia River Estuary Shoreland and Aquatic Area Use
+and Activity Standards contained in the Development and Use Standards
+Document.
+2) If a proposal involves several uses, the standards applicable to each use shall be
+satisfied.
+3) For parcels totally within the Coastal Shorelands Boundary, structures shall be
+sited according to lot line setbacks and Riparian Vegetation Standards in 6.5000
+et seq.
+4) For parcels partially within and partially outside of the Coastal Shorelands
+boundary, structures shall be located outside the Boundary. This requirement
+may be waived by the Community Development Director only upon a showing
+that the portion of the site outside of the Boundary cannot accommodate the use
+or is of such value for resource purposes that the use would impact resource
+productivity less if located within Coastal Shorelands.
+5) Proposed development in shoreland areas within identified hazards to
+development shall be evaluated prior to construction to assure that new hazards
+are not created or existing hazards are not worsened on adjacent property.
+
+SECTION 5.4200. AQUIFER RESERVE OVERLAY DISTRICT (ARO)
+Section 5.4210. Purpose
+The purpose of the aquifer reserve overlay zoning district is to protect the aquifer as a
+future drinking water source by controlling activities which may occur on the ground
+surface. These sections apply as additional restrictions to the underlying zones. Should
+the regulations of this overlay district be in conflict with the underlying zone, the conflict
+shall be resolved by the application of the more stringent regulation.
+Section 5.4220. Development and Uses Permitted
+Unless otherwise listed in Section 5.4240, any use permitted in the underlying zone may
+be allowed within the boundaries of this special district.
+Section 5.4230. Conditional Development and Use
+
+Clatsop County Land and Water V-53  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+Unless otherwise listed in Section 5.4240, any use conditionally allowed in the
+underlying zone may be allowed within the boundaries of this special district subject to
+the applicable standards of that zone.
+Section 5.4240. Prohibited Development and Use
+The following developments are prohibited in this district unless determined by the
+Planning Director as set out in Section 5.4250 below that such use will not adversely
+affect the aquifer:
+1) Construction of subsurface sewage disposal systems.
+2) Application of fertilizers in amounts and concentrations which would add nitrates
+to the groundwater.
+3) Construction of oil and gas storage facilities unless they are adequately protected
+to prevent spillage from reaching groundwater.
+4) Other activities which, in the opinion of the Community Development Director,
+would cause the degradation of groundwater as a potable water source.
+Section 5.4250. Determination by the Community Development Director
+Any activities which, in the opinion of the Community Development Director, would
+adversely affect the aquifer as a potable water source, are prohibited by Section 5.4240
+above. To aid in this determination, the Community Development Director may require
+certification from a qualified professional engineer or hydrologist that a proposed activity
+will not cause such degradation.
+
+SECTION 5.4300. MITIGATION SITE OVERLAY DISTRICT (MIT)
+Section 5.4310. Purpose
+The purpose of the Mitigation Site Overlay District is to protect identified mitigation sites
+in the Columbia River Estuary from incompatible and preemptive development uses and
+activities and implement mitigation and restoration actions in designated areas of the
+zone. There are three priority categories and four protection levels for mitigation sites in
+this district.
+Section 5.4320. Designation of Mitigation Sites
+Mitigation sites are described and identified on maps in the background report Mitigation
+and Restoration Plan for the Columbia River Estuary of the County's Comprehensive
+Plan. Revisions to mitigation site designations must be recorded by amendment to the
+Comprehensive Plan and Plan Map.
+Section 5.4330. Developments Allowed in Mitigation Sites
+The Priority and Level of protection for a designated mitigation site may be determined
+from the background report A Mitigation and Restoration Plan for the Columbia River
+Estuary of the County's Comprehensive Plan. The following uses are allowable in this
+overlay district:
+
+Clatsop County Land and Water V-54  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+1) Priority 1, Level 1:
+(A) Uses allowed in the underlying zone that do not preempt the use of the
+site for mitigation purposes, subject to the underlying zone's development
+standards.
+(B) Mitigation as a Review Use under a Type II procedure pursuant to Section
+2.1020 and subject to the Mitigation and Restoration Standards in Section
+6.4150.
+(C) In an Exclusive Farm Use (EFU) zone, farm related structures that are
+valued at $5,000 or less, subject to the development standards of the
+underlying zone.
+(D)  Priority 1, Level 2:
+(E) Uses allowed in the underlying zone that do not preempt the use of the
+site for mitigation purposes, subject to the underlying zone's development
+standards.
+(F) Mitigation as a Review Use under a Type II procedure pursuant to Section
+2.1020, and subject to the Mitigation and Restoration Standards in Section
+6.4150.
+(G) In an Exclusive Farm Use (EFU) zone, farm related structures that are
+valued at $5,000 or less, subject to the development standards of the
+underlying zone.
+(H) Topographical and structural preemptive uses allowed in the underlying
+zone and subject to the zone's policy and procedural requirements, under
+the additional conditions that:
+1. if diked, demonstration that a predetermined amount of dike
+frontage (established in the Plan or during new site designations)
+and contiguous diked area is retained for mitigation purposes; or
+2. if upland, demonstration that a predetermined amount of
+contiguous area (established in the Plan or during new site
+designation) is available for excavation to allow tidal influence or
+capable of being inundated through some water level control
+procedure.
+(I) Restoration, creation, or enhancement outside of the context of mitigation
+as a Conditional Use under the conditions that:
+1. if diked, demonstration that a predetermined amount of dike
+frontage and contiguous diked area is retained for mitigation
+purposes; or
+
+Clatsop County Land and Water V-55  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+2. if upland, demonstration that a predetermined amount of
+contiguous area is available for excavation to allow tidal influence
+or capable of being inundated through some water level control
+procedure. If the underlying zone is Exclusive Farm Use (EFU),
+Forestry (F-80), and Agricultural/Forestry (AF), a goal exception
+shall be required to implement restoration, creation or
+enhancement outside of the context of mitigation.
+(J) Priority 2, Level 3:
+(K) Uses allowed in the underlying zone that do not preempt the use of the
+site for mitigation purposes, subject to the underlying zone's development
+standards.
+(L) Mitigation as a Review Use Under a Type II procedure pursuant to Section
+2.1020, and subject to the Mitigation and Restoration Standards in Section
+6.4150.
+(M) In an Exclusive Farm Use (EFU) zone, farm related structures that are
+valued at $5,000 or less, subject to the development standards of the
+underlying zone.
+(N) Restoration, creation and enhancement outside of the context of the
+mitigation as a Conditional Use under a Type II procedure pursuant to
+Section 2.1020, and subject to the Mitigation and Restoration Standards in
+Section 6.4150. If the underlying zone is Exclusive Farm Use (EFU),
+Forestry (F-80), or Agricultural/Forestry (AF), a goal exception is required
+to implement restoration, creation, or enhancement outside of the context
+of mitigation.
+(O) Preemptive uses allowed in the underlying zone, subject to the zone's
+development standards, under the additional condition that action on the
+application shall be suspended for 30 days from the date a complete
+application is filed. The period of suspension is to allow interested parties
+time to review the need and negotiate use of the site for mitigation. If at
+the close of the 30 day period no satisfactory means of preserving the site
+is established, the permit will be processed under the normal procedures.
+(P) Priority 3, Level 4:
+(Q) All uses allowed in the underlying zone, subject to the underlying zone's
+development standards.
+(R) Mitigation as a Review Use under a Type II procedure pursuant to Section
+2.1020, and subject to the Mitigation and Restoration Standards in Section
+6.4150.
+
+Clatsop County Land and Water V-56  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+(S) Restoration, creation, and enhancement outside of the context of
+mitigation as a Conditional Use under a Type II procedure pursuant to
+Section 2.1020, and subject to the Mitigation and Restoration Standards in
+Section 6.4150. If the underlying zone is Exclusive Farm Use (EFU),
+Forestry (F-80), or Agricultural/Forestry (AF), a goal exception is required
+to implement restoration, creation, or enhancement outside of the context
+of mitigation.
+Section 5.4340. Removal of the Mitigation Site Overlay District
+Removal of designated mitigation sites shall be subject to the following criteria:
+1) Priority 1, Level 1:
+(A) Removal of the Mitigation Site Overlay District shall be allowed for any
+portion of the site where a mitigation action has occurred. The site shall be
+removed by an amendment to the Comprehensive Plan.
+(B) Removal of the Mitigation Site Protection Overlay District before the site
+has been used wholly or in part for mitigation shall be done by an
+amendment to the Comprehensive Plan only where:
+1. Provision is made for a replacement mitigation site of suitable
+characteristics; or
+2. The development need for which the mitigation site was initially
+designated as a compensating action is withdrawn or reevaluated.
+(C) Priority 2, Level 2:
+(D) Removal of the Mitigation Site Overlay District shall be allowed for any
+portion of the site where a mitigation action has occurred. The site will be
+removed by plan amendment during routine plan upkeep.
+(E) Removal of the Mitigation Site Overlay District shall be allowed for any
+portion of the site where preemptive uses have been implemented,
+including restoration, creation or enhancement outside of the context of
+mitigation provided that:
+1. if diked, a demonstration that a predetermined amount of dike
+frontage and contiguous diked area is retained for mitigation
+purposes; or
+2. if upland, demonstration that a predetermined amount of
+contiguous area is available for excavation to allow tidal influence
+or capable of being inundated through some water level control
+procedure.
+(F) Removal of all or portions of the Mitigation Site Overlay District from the
+Comprehensive Plan before the site has been used wholly or in part for
+mitigation shall be done by Plan amendment and may only be approved if:
+1. provision is made for a replacement of adequate mitigation area of
+suitable characteristics in another suitable location; or
+
+Clatsop County Land and Water V-57  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+2. the development need for which the mitigation site was initially
+designated as a compensating action is withdrawn or reevaluated.
+(G) Priority 2, Level 3:
+(H) The Mitigation Site Overlay District shall be removed from any portion of a
+site where a mitigation action has occurred or preemptive uses have been
+implemented, including restoration, creation or enhancement outside of
+the context of mitigation. The site shall be removed by an amendment to
+the Comprehensive Plan.
+(I) Removal of the Mitigation Site Overlay District for all or portions of a
+designated mitigation site before the site has been used wholly or in part
+for mitigation shall be done by an amendment to the Comprehensive Plan
+and Zoning Ordinance where:
+1. Provision is made for a replacement of adequate mitigation area of
+suitable characteristics in another suitable location; or
+2. The development need for which the mitigation site was initially
+designated for compensatory purposes is withdrawn or
+reevaluated.
+(J) Priority 3, Level 4:
+(K) The Mitigation Site Overlay District shall be removed from any portion of
+the site that a mitigation action has occurred or preemptive uses have
+been implemented, including restoration, creation or enhancement outside
+of the context of mitigation. The site will be removed by an amendment to
+the Comprehensive Plan.
+(L) After a mitigation site has been used for mitigation or restoration, creation,
+or enhancement action outside of the context of mitigation and all or a
+portion of the site is no longer available for mitigation, the Mitigation Site
+Overlay District designation shall be removed and the wetland or aquatic
+area created through the mitigation action shall be placed in the
+appropriate Aquatic designation. These changes shall be made by means
+of an amendment to the Comprehensive Plan.
+Section 5.4350. Preemptive Uses
+Incompatible and preemptive use of mitigation sites includes the following:
+1) Uses requiring substantial structural or capital improvements (e.g. construction of
+permanent building) but not including dike maintenance.
+2) Uses that require extensive alteration of the topography of the site, thereby
+reducing the potential for mitigation (e.g. extensive site grading, elevation of the
+site by placement of fill materials).
+
+SECTION 5.4400. SENSITIVE BIRD HABITAT OVERLAY DISTRICT (SBHO)
+Section 5.4410. Purpose
+
+Clatsop County Land and Water V-58  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+The purpose of the Sensitive Bird Habitat Overlay District is to insure that habitat areas
+identified as critical for the survival of the Northern Bald Eagle, Great Blue Heron, Band-
+tailed Pigeon and Snowy Plover are protected from the effects of conflicting uses or
+activities. This objective shall be achieved through the development of site-specific
+management plans that are developed to ensure that proposed uses and activities will
+neither destroy or result in the abandonment of sensitive bird habitat areas.
+Section 5.4420. Definition of Nest Sites
+All Northern Bald Eagle nests and roosts, Great Blue Heron rookeries, Band-tailed
+Pigeon mineral springs and Snowy Plover nesting habitat identified in the Clatsop
+County Comprehensive Plan shall be subject to the requirements of the Sensitive Bird
+Habitat Overlay District. When additional sites are identified by the Oregon Department
+of Fish and Wildlife they shall be added to the Comprehensive Plan map titled "Open
+Space Resources of Clatsop County" and become subject to the requirements of the
+Sensitive Bird Habitat Overlay District.
+Section 5.4430. Development and Uses Permitted
+Uses permitted in the underlying zone(s) are permitted or conditionally permitted in the
+Sensitive Bird Habitat Overlay District subject to the additional procedure and
+requirements of Section 5.4440. The SBHO does not regulate forest practices, only
+those development and uses that would require a development on lands designated
+Conservation Forest Lands.
+Section 5.4440. Development and Use Criteria
+The following review procedure and criteria shall apply:
+1) The review procedure is initiated when Clatsop County receives a request for a
+development permit that may affect a sensitive bird habitat;
+2) A proposed use or activity is considered to have the potential for affecting a
+sensitive bird habitat if it is located within a quarter mile of an eagle nest or
+roosting site, or an osprey nest or it is within 600 feet of a heron rookery, or
+band-tailed pigeon mineral spring or it is within 400 feet of snowy plover nesting
+habitat.
+3) If a proposed use or activity meets the locational criteria of subsection 5.4440(2),
+Clatsop County or the Oregon Department of Forestry shall notify the Oregon
+Department of Fish and Wildlife.
+4) Upon notification, the Oregon Department of Fish and Wildlife shall review the
+proposed use or activity and make a determination of whether the use or activity
+has the potential for adversely affecting a sensitive bird habitat area. In making
+this review and determination the Oregon Department of Fish and Wildlife shall
+consult with the affected landowner(s) and appropriate state agencies. The
+determination shall be completed within seven working days of the receipt of
+notice from Clatsop County.
+
+Clatsop County Land and Water V-59  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+5) A sensitive bird habitat will be considered affected by a use or activity if it is
+located within 660 feet of an eagle or osprey site or within 300 feet of a heron
+rookery or pigeon mineral spring, or within 200 feet of snowy plover nesting
+habitat. However, the Oregon Department of Fish and Wildlife may determine
+that uses and activities located further from the sensitive habitat also will affect
+the site because of unique site conditions such as topography. The basis for
+such a finding shall be spelled out in the Oregon Department of Fish and
+Wildlife's determination of impact.
+6) If the Oregon Department of Fish and Wildlife determines that the sensitive
+habitat area will not be affected, Clatsop County may proceed with the
+processing of the permit application.
+7) If the Oregon Department of Fish and Wildlife determines that the site would be
+affected, the Oregon Department of Fish and Wildlife shall work with the affected
+property owner. In the development of a site specific habitat protection plan, the
+plan shall consider nesting trees, critical nesting periods, roosting sites and buffer
+areas.
+8) Clatsop County will not process a development permit or activities detailed in a
+notification of operation until the required management plan has been completed
+and submitted to Clatsop County or the Department of Forestry.
+
+SECTION 5.4500. DREDGED MATERIAL DISPOSAL SITE RESERVATION OVERLAY
+DISTRICT (DMD)
+Section 5.4510. Purpose
+The intent of this district is to designate dredged material disposal sites in the County
+with respect to present and expected water-dependent development and navigational
+access requirements in the Columbia River Estuary and to protect these sites for
+dredged material disposal operations.
+Section 5.4520. District Boundaries
+The DMD Site Reservation District conforms to the description of dredged material
+disposal sites in the Columbia River Estuary Dredged Material Management Plan of the
+County's Comprehensive Plan. Revisions to the Columbia River Estuary Dredged
+Material Management Plan must be recorded by amendment to the Comprehensive
+Plan. The following ordinances have amended the boundaries of the DMD overlay:
+[ORD. 25-05]
+
+An exception to Goal 16 to allow in-water disposal of dredged material in the expanded
+flowlane/thalweg in depths greater than 20 feet and contiguous to the Federal
+Navigation Channel, which encroach into designated aquatic Conservation areas, was
+approved by Ordinance 24-16, on November 13, 2024. Approval of Ordinance 24-16 is
+subject to the following conditions: [ORD. 24-18]
+4) This goal exception only applies to in-water placement of dredged materials.
+
+Clatsop County Land and Water V-60  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+This goal exception does not authorize new dredging activities within areas
+designated Conservation Other Resources or Natural.
+5) No in-water dredge material disposal shall occur outside areas designated
+Development or outside areas included in this goal exception areas unless a new
+goal exception is approved.
+6) The goal exception area excludes subarea P30.1 Mouth of the Columbia River,
+which extends from River mile 0 to River Mile 3 of the Columbia River.
+7) All in-water dredged disposal within the goal exception areas will occur during the
+in-water work periods established during consultation with the National Marine
+Fisheries Service under the Endangered Species Act.
+8) All in-water disposal within the goal exception areas will follow the Best
+Management Practices (BMPs) established during consultation with the National
+Marine Fisheries Service under the Endangered Species Act.
+9) Disposal of dredged materials within the expanded flowlane/thalweg exception
+area shall be reviewed using the standards in Sections 4.3730 and 4.3750,
+LAWDUC. Non-federal applicants shall be required to submit all applicable
+applications and must receive approval prior to commencing work. Federal
+agencies, consistent with the Oregon Coastal Zone Management Program, must
+demonstrate consistency with Sections 4.3730 and 4.3750, to the maximum
+extent practicable.
+10) Non-federal entities using the expanded flowlane/thalweg exception area for in-
+water dredged material disposal shall annually submit to Clatsop County a copy
+of the dredging season monitoring and reporting results for the Columbia River
+that are prepared for the Oregon Department of Environmental Quality to
+demonstrate compliance with the requirements of the 401 Water Quality
+Certification. If the user of the goal exception area is a federal agency, the State
+of Oregon is responsible for requesting the annual report they submit to the
+Oregon Department of Environmental Quality per the Section 401 Water Quality
+Certification and submitting that report annually to Clatsop County.
+11) The informational thalweg map shall be used for advisory purposes only. In
+cases where the informational thalweg map conflicts with the definition of
+“expanded flowlane/thalweg disposal”, the definition shall take precedence.
+12) A new thalweg map shall be prepared every 5 years and submitted to Clatsop
+County Community Development and the U.S. Army Corps of Engineers. When
+said map is not available, placement activities will continue solely based on the
+text definition of thalweg placement.
+13) Deepwater placement of dredged material within the expanded flowlane/thalweg
+exception area: Areas deeper than 65 feet below MLLW may be used for thin-
+layer placement only if the placement does not cause the area to become
+permanently converted to depths shallower than 65 feet. Thin-layer placement is
+defined a maximum deposition on the riverbed of 0.25 feet during placement of
+each hopper dredge or barge load to minimize benthic impacts.
+
+Clatsop County Land and Water V-61  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+
+A comprehensive plan map amendment to show the estimated 5-year location of the
+thalweg was adopted by Ordinance 24-17 on November 13, 2024. It is important to note
+that the text descriptions and definition of “expanded flowlane/thalweg disposal” are the
+regulating boundaries of this exception area. Maps and GIS data layers used by the
+County are a representation of those boundaries. In cases where the informational map
+and the actual location conflict, the text descriptions and definition should be used to
+resolve any boundary confusion. [ORD. 24-18]
+
+Ordinance 25-03, adopted August 27, 2025. This ordinance conditionally authorized an
+exception to Goal 16 to allow in-water disposal of dredged material at shallow water
+placement sites O-27.4-IW-S beginning in 2033 and at O-29.1-IW-S beginning in 2029.
+This ordinance also conditionally authorized in-water temporary storage of dredged
+material at transfer sites O-28.4-IW-T and O-32.4-IW-T beginning in 2025. [ORD. 25-05]
+
+Ordinance 25-04, adopted August 27, 2025. This ordinance conditionally authorized an
+exception to Goal 16 to allow in-water disposal of dredged material at shallow water
+placement sites W-21.2-IW-S beginning in 2029, O-25.4-IW-S beginning in 2025, and
+O-30.8-IW-S beginning in 2028. This ordinance also conditionally authorized confined
+aquatic placement of dredged material at O-26.7-IW-S beginning in 2033 and shoreline
+placement at site O-25.4-BN beginning in 2025 and site O-27.5-BN beginning in 2025.
+[ORD. 25-05]
+Section 5.4530.  Dredged Material Disposal Sites
+The purpose of site designations is to protect important dredged material disposal sites
+from incompatible and preemptive uses that may limit their ultimate use for the
+deposition of dredged material, and to ensure that an adequate number of sites will be
+reserved in order to accommodate dredged material disposal needs resulting from five
+years of existing and expected water-dependent development and navigation projects.
+Section 5.4540. Uses Allowed in Dredged Material Disposal Sites
+Dredged material disposal including beach nourishment designated in the
+Comprehensive Plan's background report Columbia River Estuary Dredged Material
+Management Plan is permitted with standards under a Type I procedure if the site is
+located upland or in the coastal shoreland boundary. Dredged material disposal
+including beach nourishment, shallow water placement, confined aquatic placement,
+shoreline placement and transfer sites for temporary storage of dredged material
+designated in the Comprehensive Plan and located in aquatic areas may be allowed as
+a Conditional Use under a Type II procedure. In addition, only those uses and activities
+permitted or conditionally permitted in the underlying zone which are determined not to
+preempt the site's future use for dredged material disposal are allowed, subject to the
+policies and procedural requirements of the underlying zone. [ORD. 25-05]
+
+Clatsop County Land and Water V-62  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+
+Section 5.4550. Removal of Dredged Material Disposal Site Designation
+Removal of a dredged material disposal site designation before a site has been filled to
+capacity shall only be approved if:
+1) Provision is made for a replacement dredged material disposal site of suitable
+characteristics; or
+2) The dredging need for which the site was initially designated for dredged material
+disposal is withdrawn or reevaluated.
+Section 5.4560. Preemptive Uses
+Incompatible and preemptive uses of dredged material disposal sites include the
+following:
+1) Uses requiring substantial structural or capital improvements (e.g. construction of
+permanent buildings);
+2) Uses that require extensive alteration of the topography of the site, thereby
+reducing the potential usable volume of the dredged material disposal area (e.g.
+extensive site grading, elevation by placement of fill materials other than dredged
+materials).
+3) Uses that include changes made to the site that would present expeditious use of
+the site for dredged material disposal. Such uses would delay deposition of
+dredged materials on the site beyond the period of time commonly required to
+obtain the necessary federal, state and local dredging and material disposal
+permits (approximately 90 days).
+
+SECTION 5.4600. QUARRY & MINING OVERLAY DISTRICT (QMO)
+Section 5.4605. Purpose
+The purpose and intent of the Quarry and Mining Overlay District (/QMO) is:
+1) To allow the development and use of mineral and aggregate resources;
+2) To provide uniform standards for extraction and processing of mineral and
+aggregate resources;
+3) To balance conflicts between mining operations and new and existing
+surrounding conflicting uses;
+4) To ensure the rehabilitation and restoration of mining sites; and
+5) To protect mineral and aggregate resources for future use consistent with
+Comprehensive Plan goals and policies and Statewide Planning Goal 5.
+Section 5.4610. Definitions
+
+Clatsop County Land and Water V-63  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+CONFLICTING USE -- A use authorized in the underlying zone, which, if allowed, could
+adversely affect operations at a significant mineral and aggregate resource site, or
+could be adversely affected by mining or processing activities at a significant site. For
+purposes of this chapter, another Goal 5 resource located on or adjacent to a significant
+site may be considered a conflicting use if that resource could be adversely affected by
+mining or processing at the site.
+
+ESEE ANALYSIS -- The analysis of Economic, Social, Environmental and Energy
+consequences of (a) allowing mining on a significant site, and (b) allowing conflicting
+uses to displace mining on a significant site. Based on the results of the ESEE analysis,
+the County may determine a level of protection for the resource, and implement a
+program to achieve the designated level of protection.
+
+EXTRACTION AREA -- The area within which mineral and aggregate extraction,
+processing and storage may take place under the provisions of this Chapter (see
+Appendix A).
+
+IMPACT AREA -- An area determined on a case-by-case basis through the ESEE
+analysis, within which sensitive uses are limited or regulated (see Appendix A).
+
+MINERAL AND AGGREGATE -- Includes soil, select fill, coal, metallic ore, and any
+other inorganic solid excavated from a natural deposit in the earth for commercial,
+industrial or constructional use.
+
+MINING -- All or any part of the process of mining by the removal of overburden and the
+extraction of natural mineral deposits thereby exposed by any method including open-pit
+mining operations, auger mining operations, blasting, processing, surface impacts of
+underground mining, production of surface mining refuse and the construction of
+adjacent or off-site borrow pits except those pits developed for use in the construction of
+access roads for surface mining operations. "Mining" does not include excavations of
+sand, gravel, clay, rock or other similar materials conducted by a landowner or
+maintenance of access roads, excavation or grading operations conducted in the
+process of farming or cemetery operations or road construction or other on-site
+construction, or the non-surface impacts of underground mines.
+
+PROCESSING – Includes, but is not limited to, extraction, washing, crushing, milling,
+screening, handling, conveying, batching and blending into asphalt or Portland cement,
+and transportation of mineral and aggregate materials.
+
+SENSITIVE USE -- A conflicting use or structure considered sensitive to dust, odor,
+vibration and/or noise, such as a residence, school, park or hospital. Industrial,
+agricultural and forestry activities are not sensitive uses unless the activity includes an
+
+Clatsop County Land and Water V-64  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+accessory residential use.
+
+SIGNIFICANT RESOURCE SITE -- Includes resource sites which meet or exceed
+location, quality and quantity criteria set forth under Section 5.4665 of this Chapter and
+are so designated by the County through a legislative or quasi-judicial process.
+Section 5.4615. Application of Overlay Zone
+The provisions of this Chapter shall apply to all lands zoned Quarry and Mining Overlay.
+Nothing in this Chapter shall constitute a waiver or suspension of the provisions of any
+underlying zone or concurrent overlay zone. Any conflicts between the provisions of this
+Chapter and the provisions of other chapters of this Ordinance, Comprehensive Plan
+Goals and Policies and the Statewide Planning Goals shall be resolved through the
+ESEE analysis.
+
+The Quarry and Mining Overlay Zone consists of two distinct areas; the Extraction area
+and the Impact area.
+1) EXTRACTION AREA. The mineral and aggregate extraction area shall be
+applied to any site where mining will be permitted and which has been identified
+as a significant resource area in the Comprehensive Plan Inventory. The area
+may consist of one or more tax lots or portion(s) of single tax lots, and may be
+applied to contiguous properties under different ownership. The size of the
+Extraction Area shall be determined by the Goal 5 process, but between any
+existing Sensitive Use and the extraction area boundary a general distance of
+1,000 feet shall be applied. The exact distance may be varied through the
+planning process.
+2) IMPACT AREA. The mineral and aggregate Impact Area shall be applied to
+properties or portions of properties adjacent to and immediately surrounding an
+Extraction Area. The width of the Impact Area shall be determined through the
+ESEE analysis prior to application of the QMO Overlay Zone, based on the type
+of mineral or aggregate resource to be extracted as well as physical features of
+the area which may cause a larger or smaller area to be affected. The minimum
+width of the impact area shall be 1,000 feet from the Extraction Area boundary
+unless a reduced distance is justified, based on the ESEE analysis (see example
+in Appendix A).
+Section 5.4620. Exemptions
+The following activities are exempt from the requirements of this Chapter. Operators or
+owners claiming any of these exemptions may be asked to establish the validity of the
+exemption. Areas which are designated scenic resource areas in the County
+Comprehensive Plan are not exempt from this chapter.
+1) In zones qualified under ORS 215 and Statewide Planning Goal 3, mining less
+than 500 cubic yards of material or excavation preparatory to mining of a surface
+
+Clatsop County Land and Water V-65  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+area of less than one acre. In other zones, mining less than 1,000 cubic yards of
+material or activities affecting less than one acre of land within a period of 12
+consecutive calendar months.
+2) Forest related quarrying regulated under the Oregon Forest Practices Act.
+3) Excavations of sand, gravel, clay, rock or other similar materials conducted by a
+landowner or tenant of a parcel for the primary purpose of reconstruction or
+maintenance of on-site access roads.
+4) Excavation or grading operations conducted in the process of farming, forestry or
+cemetery operations.
+5) On-site road construction or other on-site construction or non-surface impacts of
+underground mines.
+Section 5.4625. Pre-Existing and Non-Conforming Uses
+Mineral and aggregate sites which have a valid County permit on the effective date of
+this District shall be considered pre-existing sites. Pre-existing sites may continue to
+operate under the standards of Section 3.1000. However, any expansion of a mineral
+and aggregate activity on a pre-existing site beyond the boundaries of the surface
+mining area covered by the County permit or zone, or any activity requiring a new
+County permit or zone, shall require a new Conditional Use Permit in accordance with
+Section 2.4000 of this Ordinance. The lawful use of any building, structure or land on
+the effective date of this Chapter shall be considered a non-conforming use. Any
+enlargement, alteration or other change in use, or cessation of the nonconforming use
+shall be in accordance with Section 3.1000.
+Section 5.4630. Permitted Uses - Extraction Areas
+Any permitted use or conditional use allowed in the underlying zone, except Sensitive
+Uses as defined in Section 4.404, may be permitted in the QMO Extraction Area subject
+to the underlying zone criteria and as otherwise authorized by the ESEE analysis.
+
+The following uses may be permitted in the QMO Extraction Area subject to site plan
+approval in accordance with Section 5.4645:
+1) Mining or extraction of rock, clay, soil, sand, gravel, or other mineral or aggregate
+material.
+2) Stockpiling and storage of mineral and aggregate materials.
+3) Processing of:
+(A) Materials, including crushing, washing, milling, screening, sizing, batching
+of Portland cement; and
+(B) Batching or blending of mineral and aggregate into asphaltic concrete.
+(C) Buildings, structures and equipment directly related to the above permitted
+uses.
+4) One temporary manufactured home or recreational vehicle for a caretaker or
+watchman in conjunction with a mineral and aggregate activity. The
+
+Clatsop County Land and Water V-66  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+manufactured home shall meet the setbacks of the underlying zone, and shall be
+removed when the aggregate operation ceases, unless allowed in accordance
+with the requirements of the underlying zone.
+5) Storage of transportation equipment or storage of machinery or equipment used
+in conjunction with the on-site mineral and aggregate activity.
+6) Sale of products extracted and processed on-site from a mineral and aggregate
+operation.
+Section 5.4635. Development Standards - Extraction Area
+A development plan shall be submitted to the County Planning Division for any activity
+allowed in Section 5.4630. The development plan shall provide the necessary
+documents, permits, and maps to demonstrate compliance with the following standards
+and requirements:
+1) Screening and Buffering:
+(A) An earthen berm and buffer of existing or planted trees or vegetation shall
+be maintained to fully screen the view of any mineral and aggregate
+activity and all related equipment from any public road, public park, or
+residence within 1,000 feet. Where screening is shown through the ESEE
+analysis to be unnecessary because of topography or other features of the
+site, the screening requirements may be waived by the Community
+Development Director.
+(B) Sight obscuring fencing or approved barrier type shrubs shall be required
+to eliminate any safety hazards that use of the site may create. Fencing, if
+required, shall be sight obscuring and a minimum of 6 feet high.
+2) Access:
+(A) All private access roads from mineral and aggregate sites to public roads
+shall be paved or graveled. If graveled, the access road shall be graded
+and maintained as needed to minimize dust.
+(B) Improvements of fees in lieu of improvements of public roads, County
+roads and State highways may be required when the Community
+Development Director or hearings body, in consultation with the
+appropriate road authority, determines that the increased traffic on the
+roads resulting from the surface mining activity will damage the road
+sufficiently to warrant off-site improvement. If the fee in lieu of
+improvements is required, the amount of the fee shall reflect the
+applicant's pro- rated share of the actual total cost of the capital
+expenditure of the road construction or reconstruction project necessitated
+by and benefiting the surface mining operation. Discounts for taxes and
+fees already paid for such improvements, such as road taxes for vehicles
+and for property already dedicated or improved, shall be applied.
+(C) Any internal road at a mineral and aggregate site within 250 feet of a
+Sensitive Use shall be paved or graveled, and shall be maintained at all
+
+Clatsop County Land and Water V-67  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+times to reduce noise and dust in accordance with County or DEQ
+standards specified in the ESEE analysis.
+(D) An effective vehicular barrier or gate shall be required at all access points
+to the site.
+3) Hours of Operation:
+(A) Blasting shall be restricted to the hours of 8:00 a.m. to 5:00 p.m., Monday
+through Friday. No blasting shall occur on Saturdays, Sundays, or any
+recognized legal holiday.
+(B) Mineral and aggregate extraction, drilling, processing and equipment
+operation located within 1,000 feet or as established by the ESEE analysis
+of any Sensitive Use is restricted to the hours of 7:00 a.m. to 6:00 p.m.
+Monday through Friday, and 8:00 a.m. to 5:00 p.m. Saturday. All other
+sites are limited to operating hours of 7:00 a.m. to 10:00 p.m. Monday
+through Saturday. No operation shall occur on Sundays or recognized
+legal holidays.
+(C) An increase in operating time limits shall be granted for all activities except
+blasting if:
+1. Three are no Sensitive Uses within 1,000 feet of the mining site; or
+if
+2. There are Sensitive Uses within 1,000 feet, the increased activity
+will not exceed noise standards established by the County or DEQ;
+and
+3. The operator shall notify the owners and occupants of all Sensitive
+Uses within 1,000 feet or the distance established by the ESEE
+analysis by first class mail which is mailed at least 96 hours prior to
+the date and approximate time of the activity for which the operator
+receives an exception.
+(D) The operating time limits may be waived in the case of an emergency as
+determined by the County governing body.
+4) Environmental Standards:
+(A) DEQ Standards. Mineral and aggregate extraction, processing and other
+operations shall conform to all applicable environmental standards of the
+County and State. Any crusher, asphalt, concrete, ready-mix or other
+machinery shall submit an approved DEQ permit(s) at the time of
+development plan application.
+(B) DOGAMI Standards. Mineral and aggregate extraction, processing, other
+operations and site reclamation shall conform to the requirements of the
+Department of Geology and Mineral Industries (DOGAMI).
+(C) Permits Required. Mining shall not commence until all applicable State
+and Federal permits, if any, are provided to the County.
+(D) Equipment Removal: All surface mining equipment, machinery, vehicles,
+buildings, man-made debris and other material related to the mineral and
+
+Clatsop County Land and Water V-68  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+aggregate activity shall be removed from the site within 30 days of
+completion of all mining, processing and reclamation, except for structures
+which are permitted uses in the underlying zone.
+5) Performance Agreement:
+(A) The operator of a mineral and aggregate site shall provide the County with
+annual notification of DOGAMI permits.
+(B) Mineral and aggregate operations shall be insured for $500,000.00
+against liability and tort arising from production activities or operations
+incidental thereto conducted or carried on by virtue of any law, ordinance
+or condition, and such insurance shall be kept in full force and effect
+during the period of such operations. A prepaid policy of such insurance
+which is effective for a period of one year shall be deposited with the
+County prior to commencing any mineral and aggregate operations. The
+owner of operator shall annually provide the County with evidence that the
+policy has been renewed.
+(C) Significant Resource Area Protection: Conflicts between inventoried
+mineral and aggregate resource sites and significant fish and wildlife
+habitat, riparian areas and wetlands, and ecologically and scientifically
+significant natural areas and scenic areas protected by the Clatsop Plains
+Community Plan or other provision of the County Comprehensive Plan,
+shall be balanced as determined by the site-specific ESEE analysis.
+(D) Site Reclamation: A reclamation plan shall be submitted concurrently with
+the development plan required in Section 5.4645. The reclamation plan
+shall include a schedule showing the planned order and sequence of
+reclamation, shall assure that the site will be restored or rehabilitated for
+the land uses specified in the underlying zone consistent with the site
+specific Goal 5 program, and shall meet DOGAMI requirements.
+6) Water Management:
+(A) Surface water shall be managed in a manner which meets all applicable
+DEQ, DOGAMI, and ODFW water quality standards. Approval may be
+conditioned upon meeting such standards by a specified date. Discharge
+across public roads shall be prohibited. Existing natural drainages on the
+site shall not be changed in a manner which substantially interferes with
+drainage patterns on adjoining property, or which drains waste materials
+or waste water onto adjoining property or perennial streams.
+(B) Where the mineral and aggregate operation abuts a lake, river, or
+perennial stream, all existing vegetation within 100 feet of the mean high
+water mark shall be retained unless otherwise authorized in accordance
+with the ESEE analysis and the development plan.
+(C) All water required for the mineral and aggregate operation, including dust
+control, landscaping and processing of material, shall be legally available
+and appropriated for such use. The applicant shall provide written
+
+Clatsop County Land and Water V-69  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+documentation of water rights from the State Department of Water
+Resources and/or local water district prior to any site operation.
+7) Floodplain:
+(A) Any QMO Extraction Area located wholly or in part in a Special Flood
+Hazard Area as shown on the Federal Insurance Rate Map (FIRM) shall
+receive approval in accordance with Section 5.1000 of this Ordinance prior
+to any site operation.
+Section 5.4640. Application Process
+Final development plan approval is required prior to the beginning of any mineral and
+aggregate activity listed in Section 5.4630, and before any expansion of a pre-existing
+or non-conforming site. The applicant shall provide the following at the time of
+application:
+1) A development plan demonstrating that the development standards required in
+Section 5.4635 can be met, including:
+(A) Screening and fencing;
+(B) Access;
+(C) Hours of operation;
+(D) Environmental standards;
+(E) Equipment removal;
+(F) Performance agreement;
+(G) Significant resource area protection;
+(H) Site reclamation;
+(I) Water management; and
+(J) Floodplain.
+(K) A map or diagram showing the location and setbacks of all proposed
+mineral and aggregate activities and operations and the location and
+distance to all Sensitive Uses within the Impact Area.
+Section 5.4645. Site Plan Review
+1) Site plan review is required prior to commencement of mining. Application shall
+be in the form required by the County, and shall demonstrate compliance with the
+standards of Section 5.4635 and any requirements adopted as part of the Goal 5
+process.
+2) Applications for site plan approval of surface mining operations and activities
+authorized by Section 5.4620 in accordance with ORS 215.425 and ORS
+917.195.
+3) The County shall approve, conditionally approve, or deny a site plan based on
+the ability of the site plan to conform to the standards of Section 5.4635 and
+other requirements adopted as part of the Goal 5 process.
+4) If the County determines that the site plan is substantially different from the
+proposal approved in the Goal 5 process, the application shall be denied or
+
+Clatsop County Land and Water V-70  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+conditioned to comply with the decision adopted as part of the Goal 5 process, or
+the applicant may choose to apply for a Comprehensive Plan amendment
+whereby the original decision reached through the Goal 5 process will be
+reexamined based on the revised site plan.
+Section 5.4650. Impact Area - Uses and Standards
+Any permitted use or conditional use allowed in the underlying zone, including Sensitive
+Uses, subject to Section 5.4655, may be allowed in the QMO Impact Area subject to the
+underlying zone criteria and as otherwise authorized by the ESEE analysis.
+Section 5.4655. Sensitive Uses
+1) The owner of a proposed new Sensitive Use shall sign and record in the County
+Deed Records an Aggregate Operation Easement, Waiver of Remonstrance and
+Indemnity which shall state that if the owner (or successors) of the new noise
+sensitive use object to the allowed mineral and aggregate activities on the
+adjacent QMO Extraction Area, the owner (or successors) of the new sensitive
+use shall indemnify the County and the resource owner and operator against all
+lost cost and expense including attorney's fees arising out of remonstrance
+proceeding. The Aggregate Operation Easement, Waiver of Remonstrance and
+Indemnity shall run with the land, until such time as the operation ends and the
+site has been reclaimed in accordance with the approved reclamation plan. It
+shall be a requirement of the mineral and aggregate operator to release any
+restrictions, easements or waivers of remonstrance and indemnity.
+2) The use will not interfere with or cause any adverse impact on a mineral and
+aggregate activity allowed under Section 5.4630; and
+3) The use will not prevent the adjacent mineral and aggregate activity from
+meeting the standards and conditions set forth in Section 5.4645.
+Section 5.4660. Designation of Overlay Zone
+The Quarry and Mining Overlay zone may be applied through the initial legislative
+planning process, the plan update process or through individual application for a
+Comprehensive Plan amendment and zone change. The boundary of the Overlay zone
+shall be all property contained in the Mineral and Aggregate Extraction Area and
+Mineral and Aggregate Impact Area. Designation shall be carried out in accordance with
+the LCDC Goal 5 rule, OAR 16, Division 16. Preparation of the ESEE analysis shall be
+the responsibility of the applicant.
+Section 5.4665. Determination of Significance
+Only sites deemed significant shall be zoned Quarry and Mining (/QMO) Overlay.
+Mining and processing activities at sites not zoned QMO may be allowed after
+conditional use approval under the criteria of Section 2.4000. All sites which have not
+been evaluated for significance shall be classified "1-B" on the County inventory for
+purposes of Goal 5. The following criteria shall be used in determining significance:
+
+Clatsop County Land and Water V-71  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+1) Significant Aggregate Resources. An aggregate resource shall have at least
+250,000 cubic yards of reserve and meet at least two of the following minimum
+requirements:
+(A) Abrasion: Loss of not more than 35% by weight;
+(B) Oregon Air Degradation: Loss of not more than 35% by weight;
+(C) Sodium Sulphate Soundness: Not more than 17% by weight.
+(D) Other mineral resources. Significance of non-aggregate resources shall be
+determined on a case-by-case basis after consultation with DOGAMI.
+Section 5.4670. Termination of QMO Zone
+The Quarry and Mining Overlay zone designation shall be removed by the owner or the
+County through the zone change process when:
+1) The owner of the mineral and aggregate site submits evidence showing a
+significant resource no longer exists on the site;
+2) The mineral and aggregate resource site has been reclaimed in accordance with
+the approved reclamation plan; and
+3) The operator has caused to be released any operation easements, restrictions or
+waivers of remonstrance and indemnity relating to the application of this
+ordinance.
+
+Clatsop County Land and Water V-72  July 22, 2025
+Development and Use Code   Codified Through Ordinance 25-02
+ARTICLE 5. SPECIAL DISTRICTS
+SECTION 5.4700. DESTINATION RESORT OVERLAY DISTRICT (DRO)
+Section 5.4705. Purpose and Intent
+The purpose of the Destination Resort Overlay District is to recognize sites that are
+suitable and appropriate for the location of recreation oriented tourist and vacation
+resorts, and to establish standards to guide the development of such facilities. The
+Destination Resort Overlay District is intended to insure the compatibility of tourist and
+vacation resorts with the natural resources of the County.
+
+Clatsop County recognizes that ocean shorelands and major rivers (Nehalem and
+Columbia) constitute outstanding natural scenic and recreational resources. Therefore,
+the Destination Resort Overlay District is provided for and may be applied only to lands
+some part of which are on or have a view of ocean or major river shorelines.
+
+When a Destination Resort is requested and it is determined that an Exception is
+necessary to a Statewide Planning Goal an Exception shall be taken to the appropriate
+Goal or Goals.
+Section 5.4710. General Provisions
+1) This district may be requested where identified on the Comprehensive
+Plan/Zoning Map or in the text of the Plan. The establishment of this district
+requires a public hearing by the Planning Commission in conjunction with a
+Conceptual Plan.
+
+The developer has three (3) years from the date of approval for the district
+change and Conceptual Plan to complete a Development Plan and be issued a
+building permit for a primary use. In the event that the developer has not been
+issued a building permit prior to the expiration date, the district change and
+Conceptual Plan are null and void. The Director shall then amend the
+Comprehensive Plan/Zoning Map to remove the /DRO District.
+(A) The Director may, upon written request by the applicant, grant an
+extension of the expiration date of up to one year upon the findings that:
+(B) Unforeseen circumstances or conditions have caused the delay;
+(C) The applicant has demonstrated reasonable diligence in attempting to
+meet the time limits imposed; and
+(D) Facts upon which the approval was based have not changed to an extent
+sufficient to warrant refiling.
+Section 5.4715. Development and Use Permitted
+The following developments are permitted subject to the approved Development Plan
+and to applicable development standards:
+1) Developed recreation facilities, self-contained development and visitor oriented
+accommodations as part of one Destination Resort.
+
+Section 5.4720. Application of the District and Procedure
+
+Clatsop County Land and Water V-73  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+Application of the zone to a specific property is accomplished through a zone map
+change. Approval of a zone map change to Destination Resort Overlay District signifies
+that the affected property is suitable for development pursuant to Section 5.4700
+through 5.4760 and subject to the Conceptual Plan approved at the time of zone
+change, but does not authorize development. The Conceptual Plan may contain phases
+of development. The zone district or districts applicable to the property preceding the
+change will be retained on the zoning map. If a proposed Development Plan (at least
+Phase I if the development is to be phased) is not submitted for a site within three years
+of the zone change to Destination Resort Overlay District, the Destination Resort
+Overlay District designation shall be extinguished. The Community Development
+Director shall then remove the Destination Resort Overlay District from the
+Comprehensive Plan/Zoning Map.
+
+While the Destination Resort Overlay District is applicable to certain property, no
+development or use of the property shall occur, except as provided in Sections 5.4700
+to 5.4760, in the underlying zone district or districts retained on the zoning maps and
+except for pre-existing uses which may be continued.
+
+Development pursuant to this Destination Resort Overlay District shall be reviewed and
+approved without reference to the provisions of the underlying zone or zones except to
+the extent that the proposed development includes uses permitted in those zones and
+not otherwise permitted in the Destination Resort Overlay District. The requirements of
+other applicable overlay districts and supplemental standards shall apply. A proposed
+zone change from Destination Resort Overlay District to a district or districts other than
+the underlying zone or zones retained on the Comprehensive Plan/Zoning Map shall be
+evaluated as a change from such underlying district or districts.
+1) Zone Change: An amendment to the Comprehensive Plan/Zoning Map to apply
+the Destination Resort Overlay District may be initiated by the Board of
+Commissioners, by the Planning Commission or by application of the property
+owner. The procedure shall be as provided in Section 2.8100 through 2.8120 but
+the matters to be included in an application and considered on review shall be as
+set forth in Section 5.4725 and the criteria for approval of the change shall be as
+set forth in Section 5.4730. A Conceptual Plan for the site shall be approved as a
+part of the zone change. The Conceptual Plan will identify any areas of the site
+that are not available for development and the general categories of development
+permissible on the remainder of the site. If development as identified on the
+Conceptual Plan requires one or more exceptions to Land Conservation and
+Development Commission Goals 3, 4, 17 or 18, the Goal 2 exception process
+shall be complied with at the time of the zone change.
+2) Conceptual Plan: A Conceptual Plan shall determine the nature, location and
+phasing, if any, of development on property in the designated Destination Resort
+Overlay District. A property owner may initiate a request for approval of a
+
+Clatsop County Land and Water V-74  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+Conceptual Plan by filing an application with the Department of Community
+Development. The procedure shall be as provided in Section 5.4720(3) but the
+matters to be included in an application and considered on review shall be as set
+forth in Section 5.4735 and the criteria for approval shall be as set forth in
+Section 5.4745.
+3) Development Plan: A Development Plan shall include the elements provided in
+Section 5.4750 and shall be the authority for issuance of building and other
+required development permits. The proposed Development Plan shall be
+submitted to the Planning Division and approved or denied by the Director
+pursuant to the criteria set forth in Section 5.4755. If the proposed development
+will include subdivision or major partition of the property, preliminary approval
+shall be obtained prior to approval of the Development Plan. l the Conceptual
+Plan authorized phased development, the Development Plan may be for one or
+more of the phases. If a Development Plan is not submitted within three years of
+approval of the Conceptual Plan, the latter shall expire and a new Conceptual
+Plan shall be required unless prior to the end of the three year period, the
+property owner submits and receives a one-year extension.
+4) Pre-application Conference: Prior to submitting a zone change application or a
+Conceptual Plan application, the property owner shall confer with the Community
+Development Director regarding the proposal and the requisites of the
+applications.
+Section 5.4725. Application for Destination Resort Overlay District Zone Change
+The following information shall be provided as part of the application for a zone change
+to the Destination Resort Overlay District:
+1) The completed application form.
+2) A site map, drawn to scale, showing the subject property and all property within
+250' of the boundaries of the subject property.
+3) A vicinity map showing the area and land uses within ½ mile of the property.
+4) A site inventory and map including the following information as is available in the
+Comprehensive Plan or other readily available published inventories:
+(A) SCS soils classifications.
+(B) Forest site classifications.
+(C) Goal 5 resources inventoried in the Comprehensive Plan.
+(D) The shorelands boundary and shorelands resources inventoried in the
+Comprehensive Plan.
+(E) Outstanding natural features not included within (C) or (D) above.
+(F) Beach and dunes land form classifications.
+(G) Geologic hazards.
+(H) Areas of the Clatsop Plains Groundwater Aquifer including areas where
+the greatest amount of water may be withdrawn without damage of salt
+water intrusion, loss of stabilizing vegetation, loss of water quality or result
+
+Clatsop County Land and Water V-75  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+in a significant and permanent drawdown of the groundwater table.
+(I) A Conceptual Plan, including phases if the project is to be developed in
+phases, based on the site inventory and showing the general categories of
+development proposed for the site. The site shall be divided into units
+having common characteristics for the purpose of the plan. Any areas not
+suitable for development shall be designated.
+(J) A legal description of the subject property as it appears on the deed or
+deeds.
+(K) Assessor's maps of the subject property and all property within 250'.
+(L) A written statement providing justification for the proposed zone change
+according to the approval criteria stated in Section 5.4730.
+(M) A detailed determination of how the site is suitable for the proposed resort
+development considering:
+1. Natural amenities of the site;
+2. The type and extent of development proposed, and its direct and
+indirect on- site and off-site environmental, social and energy
+impacts;
+3. Access to adequate transportation facilities;
+4. The physical limitations for development of the site, including
+natural hazards such as flooding and steep slopes; and
+5. Whether or not the effects of the development can be limited to
+avoid interference with continued resource use of surrounding
+lands including intensive farming operations, highly sensitive
+natural resource sites; and
+6. Orderly and economic provision of key facilities (water, sewer, fire)
+assuming full development of the subject site.
+(N) An economic and fiscal impact assessment showing whether or not there
+are net benefits to the County as a whole. Such an assessment should
+examine and consider:
+1. Changes in employment and income to the area and the County
+2. Changes in local revenues and demands for new or increased
+levels of public facilities and services
+3. Indirect economic impacts on the surrounding area including the
+effect of the loss of resource land
+(O) Types, amounts and ownerships of units to be constructed.
+Section 5.4730. Approval Criteria for Destination Resort Overlay District Zone
+Change
+A zone change to Destination Resort Overlay District shall be approved upon findings
+that the following criteria are satisfied:
+
+Clatsop County Land and Water V-76  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+1) The property has beach access or offers substantial views of ocean or major
+river shorelines.
+2) The proposed site is suitable to accommodate a variety of amenities in
+conjunction with the living accommodations, or is located to take advantage of a
+specific scenic, natural or recreational resource that will constitute a special
+attraction for vacationers.
+3) The proposed development of the property in accordance with the Conceptual
+Plan can be accomplished without substantial interference to or significant
+adverse effects upon identified sensitive or unique natural areas or ecological
+features.
+4) The proposed development of the property can be accomplished in accordance
+with the Conceptual Plan in a manner than will be compatible with adjacent
+lands.
+5) Suitable access exists or can be provided to serve development of the proposed
+site.
+6) Adequate public services can be provided to serve full development of the
+property.
+7) Required findings for needed Goal exceptions have been made.
+8) The requirements of Section 5.4725(4)(M) and (N).
+Section 5.4735. Contents of Application for Conceptual Plan
+The information required as part of the Conceptual Plan shall be as stated in Sections
+2.9000 through 2.9300 of the Land and Water Development and Use Ordinance.
+Section 5.4740. Development Standards
+1) Land Coverage Limitation (Density): Living units, enclosed recreation,
+entertainment or commercial facilities, off loading facilities, parking, roads and
+streets may occupy a maximum of 35% of the gross land area of the
+development.
+2) Destination resorts shall be served by on-site sewage and water systems
+approved by the DEQ, except in cases where it is beneficial to connect to an
+existing or previously planned system serving adjacent or surrounding lands and
+there are no significant adverse consequences therefrom.
+3) Adequate fire protection shall be available through an existing fire district or
+provided on site.
+4) A Destination Resort proposal shall not alter the character of the surrounding
+area in a manner which substantially limits, impairs or prevents the permitted use
+of the surrounding properties. A Destination Resort proposal shall not force a
+significant change in or significantly increase the cost of farm or forest practices
+on nearby lands devoted to farm or forest uses.
+5) To the greatest extent possible, significant vegetation and natural features on the
+property shall be preserved.
+
+Clatsop County Land and Water V-77  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+6) All requirements of other applicable County ordinance provisions shall be
+satisfied. Commercial services provided as a part of the Destination Resort shall
+be contained within the development.
+7) Commercial buildings shall be designed to be compatible in appearance with the
+living accommodations, and shall be constructed of similar materials. The
+commercial services provided shall be in scale with the overall development.
+8) A majority of the units must be visitor oriented accommodations. Availability of
+the units shall be assured by the agreement of the applicant imposed as a
+condition of Development Plan approval and by restrictive covenants recorded in
+the County deed records binding living units sold separately pursuant to an
+approved subdivision or condominium.
+9) The Final Plan shall be consistent with the Conceptual Plan approved for the
+property.
+10) Trash receptacles, and parking lots shall be screened from view from public
+places and neighboring properties, through the use of features such as berms,
+fences, false facades, and dense landscaping.
+11) There shall be a 50 foot wide landscaped area in the boundary area containing
+trees and shrubs with a fence or a berm.
+12) Long expanses of fence or wall along public streets or roads shall be designed to
+prevent visual monotony through the use of offsets, landscaping, and change in
+materials.
+13) To reduce building scale along the perimeter of the development site, earth
+sculpturing and other techniques shall be used.
+14) The building arrangement shall provide for open space linkages in such a way
+that the required open space extends from the street into the interior of the site.
+15) Access shall be designed to cause minimum interference with traffic movement
+on abutting streets or roads. Where necessary, additional right-of-way shall be
+dedicated to maintain adequate traffic circulation.
+16) Metal siding and roof surfaces shall be covered and maintained with a non-
+reflective paint.
+17) Artificial lighting shall be so arranged and constructed as to not produce direct
+glare on adjacent residential properties or otherwise interfere with the use and
+enjoyment of any property.
+Section 5.4745. Conceptual Plan
+The Conceptual Plan for a Destination Resort development permitted under Sections
+5.4700 through 5.4755 may be approved upon finding that the following criteria have
+been met:
+1) The proposed development has been designed to function as an attraction for
+vacationers and other visitors, and an adequate level and variety of amenities is
+available in relation to the living accommodations provided to accomplish this
+purpose.
+
+Clatsop County Land and Water V-78  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+2) The development has been designed to include beach access or views of the
+ocean or major river shorelands as a major feature of the project.
+3) The proposed type and level of development is appropriate to the site, meets the
+development standards contained herein, and will be compatible with the existing
+uses of the adjacent lands as well as the potential future uses as indicated by the
+current Comprehensive Plan and zoning designations.
+4) The proposed means of external and internal circulation is adequate to provide
+for the safe movement of vehicles and pedestrians.
+5) Adequate public services will be available to serve the development, including
+water supply, sewage disposal, electric power, telephone service, police and fire
+protection.
+6) Significant vegetation and natural features on the property have been
+substantially preserved.
+7) The commercial services proposed as a part of the development, if any, are in
+keeping with the overall scale of the project and have been located and designed
+to be compatible with the primary purpose of resort development.
+8) A detailed determination of how the site is suitable for the proposed resort
+development considering:
+(A) Natural amenities of the site;
+(B) The type and extent of development proposed, and its direct and indirect
+on-site and off-site environmental, social and energy impacts;
+(C) Access to adequate transportation facilities;
+(D) The physical limitations for development of the site, including natural
+hazards such as flooding and steep slopes; and
+(E) Whether or not the effects of the development can be limited to avoid
+interference with continued resource use of surrounding lands including
+intensive farming operations, highly sensitive natural resource sites; and
+(F) Orderly and economic provision of key facilities (water, sewer, fire)
+assuming full development of the subject site.
+(G) An economic and fiscal impact assessment showing whether or not there
+are net benefits to the County as a whole. Such an assessment should
+examine and consider:
+(H) Changes in employment and income to the area and the County
+(I) Changes in local revenues and demands for new or increased levels of
+public facilities and services
+(J) Indirect economic impacts on the surrounding area including the effect of
+the loss of resource land.
+Section 5.4750. Development Plan Contents
+The information required as a part of the Development Plan shall be as stated in the
+Clatsop County Land and Water Development and Use Code.
+
+Clatsop County Land and Water V-79  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+Section 5.4755. Development Plan Approval Criteria
+The Development Plan for the site, or for a phase of development if applicable, shall be
+approved if it contains the information required under Section 5.4750, is consistent with
+the approved Conceptual Plan and if all other applicable County requirements have
+been met.
+Section 5.4760. Conditions
+Clatsop County shall require conditions necessary and sufficient to ensure that the
+development is compatible with continued resource use of surrounding lands. These
+measures may include, but are not limited to:
+1) Limiting the number of dwelling units;
+2) Limiting the overall density of the development;
+3) Limiting the location of structures, roads and physical alterations, or otherwise
+restricting layout to protect important natural features or to buffer the resort from
+adjacent or nearby uses; and
+4) Additional planning and zoning controls on nearby land to reduce or manage
+pressures of off-site development created by the destination resort.
+
+SECTION 5.4800. PLANNED DEVELOPMENT OVERLAY DISTRICT (PDO)
+Section 5.4805. Purpose
+It is the intent of the Planned Development special district to encourage appropriate and
+orderly development of tracts of land sufficiently large to allow comprehensive planning
+and to provide a degree of flexibility in the application of certain regulations which
+cannot be obtained through traditional lot-by-lot subdivision. In this manner,
+environmental amenities may be enhanced by promoting a harmonious variety of uses;
+the economy of shared service and facilities; compatibility of surrounding areas; and the
+creation of attractive, healthful, efficient, and stable environments for living, shopping, or
+working. Specifically, it is the purpose of this section to promote and encourage:
+1) Comprehensive development equal to or better than that resulting from traditional
+lot-by- lot land use development.
+2) Appropriate mixtures of housing types and designs.
+3) Appropriate mixture of uses.
+4) More attractive and usable open space.
+5) Advances in technology, architectural design, functional land use design.
+6) Recognition of the problems of population density, distribution, and circulation
+and to allow a deviation from rigid established patterns of land uses, but
+controlled by defined policies and objectives.
+7) Flexibility of design in the placement and uses of buildings and open spaces,
+circulation facilities and off-street parking areas, and to more efficiently utilize
+potential of sites characterized by special features of geography, topography,
+size or shape.
+
+Clatsop County Land and Water V-80  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+It is also not the intention of this section to be a bypass of regular zoning provisions
+solely to allow increased densities nor is it a means of maximizing densities on parcels
+of land which have unbuildable or unusable areas.
+Section 5.4810. Applicability
+A Planned Development may be located in any of the following zones provided that a
+Planned Development (PDO) suffix has been added to the underlying zone and
+provided the development is in accordance with the criteria, standards and provisions of
+this section: AC-RCR, KS-RCR, RCR, RCMFR, RSA- SFR, RSA-MFR, CR, SFR-1, RA-
+1, RA-2, RA-5, RA-10, RCC, GC, TC RCC-LI, RCI, and LI (except in the Clatsop Plains
+planning area).
+Section 5.4815. Approval Criteria
+In addition to the development standards and procedures specified in this special
+district, the Planning Commission shall require that the following criteria are met prior to
+approval of a Planned Development:
+1) The location, size and type of development are consistent with the County
+Comprehensive Plan.
+2) Commercial developments part of Planned Developments shall be limited in size
+and service to that appropriate to serve the neighborhood of which the Planned
+Development is an integral part and shall be designed to provide goods and
+services primarily to the residents of the Planned Development.
+3) The location, size and design are such that the development can be well
+integrated with its surroundings with little if any impact on adjacent properties and
+development.
+4) The location, size and type of development are such that traffic generated can be
+accommodated safely and conveniently on existing or planned arterial or
+collector streets or on improved roads.
+5) The development will be adequately served by existing or planned facilities and
+services.
+6) Any deviation from the standards of the underlying zone are warranted by the
+design and amenities incorporated in the development plan and program.
+7) Adequate provision is made for the preservation of natural resources such as
+bodies of water, significant vegetation and special terrain features.
+8) Sufficient financing exists to assure that the proposed development will be
+substantially completed within four (4) years of approval.
+9) Permanent common open space as part of subdivisions or planned development
+adjoining one another shall be integrated and continuous whenever possible.
+Open space can follow ridge tops, deflation plains or shorelands, forest land (as
+a buffer) and other resource lands.
+
+Clatsop County Land and Water V-81  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+Section 5.4820. General Development and Use Standards and Requirements.
+1) Size:
+(A) Planned developments may be established in residential districts on
+parcels of land which are suitable for and of sufficient size to be planned
+and developed in a manner consistent with the purposes and objectives of
+Section 5.4800. For those planned developments which are located in the
+RSA-SFR, RSA-MFR, CR, SFR-1, RA-1, GC, TC, and LI zones, the site
+shall include not less than four acres of contiguous land. For those located
+in a RA-2 the site shall include not less than eight acres of contiguous
+land, and for those located in a RA-5 the site shall include not less than
+twenty acres of contiguous land, unless the Planning Commission or
+Board of commissioners, upon appeal, find that property of less than the
+requirement above is suitable by virtue of its unique historical character,
+topography, or other natural features, or by virtue of its qualifying as an
+isolated problem area.
+(B) Combination residential-commercial-industrial developments may be
+established in residential, commercial and light industrial zones on parcels
+of land which are suitable for and of a sufficient size to be planned and
+developed in a manner consistent with the purpose and objectives of
+Section 5.4800.
+2)  Ownership:
+(A) The tract or tracts of land included in a proposed planned development
+must be in one ownership or control or the subject of a joint application by
+the owners of all the property included. The holder of a written option to
+purchase or any governmental agency or redeveloper under contract with
+a governmental agency, shall be deemed the owner of such land for the
+purposes of this section.
+(B) Unless otherwise provided as a condition of approval of a planned
+development permit the permittee may divide and transfer units of any
+development. The transferee shall use and maintain each such unit in
+strict conformance with the approved permit and development plan.
+3) Professional Design:
+(A) The applicant for all proposed planned developments shall certify that the
+talents of the following professional will be utilized in the planning process
+for development: (1) an architect licensed by the state, (2) a landscape
+architect licensed by the state, and (3) a registered engineer or land
+surveyor licensed by the state. The Planning Commission may waive this
+requirement provided the applicant can show that equivalent and
+acceptable design talents have been utilized in the planning process.
+(B) One of the professional consultants chosen by the applicant from the
+above group shall be designated to be responsible for conferring with the
+Department of Community Development with respect to the concept and
+
+Clatsop County Land and Water V-82  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+details of the plan.
+(C) The selection of the professional coordinator of the design team will not
+limit the owner or the developer in consulting with the Department of
+Community Development or the Commission.
+(4) General Information. The planning process for development shall include:
+(A) Plot plan of land in area to be developed indicating location of adjacent
+streets and all private rights-of-way existing and proposed.
+(B) A legal boundary survey.
+(C) Existing and proposed finish grades of the property with all drainage
+features.
+(D)  Location of all proposed structures, together with the usage to be
+contained therein and approximate location of all entrances thereto and
+height and gross floor area thereof.
+(E) Vehicular and pedestrian circulation features within the site and on
+adjacent streets and alleys.
+(F) The extent, location, arrangement and proposed improvements of all off-
+street parking and loading facilities.
+(G) The extent, location, arrangement, and proposed improvements of all
+open space, landscaping, fences and walls.
+(H) Architectural drawings and sketches demonstrating the planning and
+character of the proposed development.
+(I) Number of units proposed.
+(J) Contour lines at 2-foot intervals.
+Section 5.4825. Development and Use Standards
+In addition to, or as a greater requirement to the regulations normally found in the
+district, the following guidelines and requirements shall apply to all developments for
+which a planned development permit is required:
+1) Outdoor living area guidelines: In all residential developments, or in combination
+residential-commercial-industrial developments, 40 percent of the total area
+should be devoted to outdoor living area. Of this area, 25 percent of said outdoor
+living area may be utilized privately by individual owners or users of the planned
+development; however, 75 percent of this area should be common or shared
+outdoor living area.
+2) Height guidelines: The same restrictions shall prevail as permitted outright in the
+district in which such development occurs, except that the Commission may
+further limit heights:
+(A) Around the site boundaries, and/or
+(B) To protect scenic vistas from encroachments.
+(C) Underground utilities: In any development which is primarily designed for
+or occupied by dwellings all electric and telephone facilities, fire alarm,
+conduits, street light wiring, and other wiring, conduits and similar facilities
+
+Clatsop County Land and Water V-83  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+shall be placed underground by the developer.
+3) Density guidelines:
+(A) The density of a planned development shall not exceed the density of the
+parent zone, except as more restrictive regulations may be prescribed as
+a condition of a planned development permit. When calculating density,
+the gross area is used in the total area including street dedications.
+(B) Areas of public or semi-public uses may be included in calculating
+allowable density.
+4) Distribution of facilities without reference to lot lines: Individual buildings,
+accessory buildings, off-street parking, and loading facilities, open space, and
+landscaping and screening may be located without reference to lot lines, save
+the boundary line of the development, except that required parking spaces
+serving residential uses shall be located within 200 feet of the building containing
+the living units served.
+5) Waiver or reduction of yard and other dimensional requirements: Except as
+otherwise provided, the minimum lot area, width and frontage, height and yard
+requirements otherwise applying in the district shall not dictate the strict
+guidelines for development of the planned development but shall serve to inform
+the designers of the importance of developing a project that will be in harmony
+with the character of the surrounding neighborhood.
+6) Dedication and maintenance of facilities: The Planning Commission, or on
+appeal, the Board of Commissioners, may, as a condition of approval for any
+development for which a planned development permit is required, require that
+portions of the tract or tracts under consideration be set aside, improved,
+conveyed or dedicated for the following uses:
+7) Recreation facilities: The Planning Commission or Board of Commissioners, as
+the case may be, may require that suitable area for parks, playgrounds be set
+aside, improved, or permanently reserved for the owners, residents, employees
+or patrons of the development.
+(A) Outdoor living area: Whenever private outdoor living area is provided, the
+Planning Commission or Board of Commissioners shall require that an
+association of owners or tenants be created into a non-profit corporation
+under the laws of the State of Oregon, which shall adopt such Articles of
+Incorporation and Bylaws and adopt and impose such Declaration of
+Covenants and Restrictions on such outdoor living area and/or common
+areas that are acceptable to the Commission. Said association shall be
+formed and continued for the purpose of maintaining such outdoor living
+area. Such an association, if required, may undertake other functions. It
+shall be created in such a manner that owners of property shall
+automatically be members and shall be subject to assessments levied to
+maintain said outdoor living areas for the purposes intended. The period of
+existence of such association shall be not less than 20 years, and it shall
+
+Clatsop County Land and Water V-84  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+continue thereafter and until a majority vote of the members shall
+terminate it.
+(B) Streets: The Planning Commission or Board of Commissioners may
+require that the right-of-way width of such other streets necessary to the
+proper development of adjacent properties be dedicated to the County.
+(C) Easements: Easements necessary to the orderly extension of public
+utilities may be required as a condition of approval.
+(D) Developments shall be allowed only if services or public facilities (water,
+sewer, fire protection) are capable of supporting increased loads. Phasing
+of development may be allowed if improvement of public facilities is
+assured by the time of construction and the additional loads are
+anticipated.
+(E) If water, sewer or public utility systems are utilized either in the
+development of a subdivision or the building of individual residences, the
+provider of the services shall approve and show intentions to install
+services to the new structure(s) prior to the issuance of either plat
+approvals or development permits.
+(F) All new development shall install underground utilities such as electric,
+telephone and television cable.
+Section 5.4830. Application Procedures
+There shall be a three-stage review process for planned developments consisting of
+Pre- application Conference (Stage One), Preliminary Approval (Stage Two), and Final
+Approval (Stage Three).
+1) Pre-application Conference (Stage One): The owner, or his authorized agent,
+shall submit to the Department of Community Development the following
+information:
+(A) A schematic drawing, drawn to a minimum scale of one inch equals 200
+feet (1"=200'), showing the general relationship contemplated among all
+public and private uses and existing physical features.
+(B) A written statement setting forth the source of water supply, method of
+sewage disposal, means of drainage, dwelling types, non-residential uses,
+lot layout, public and private access, height of structures, lighting,
+landscaped areas to be devoted to various uses, and population densities
+per net acre and per gross acre contemplated by the applicant.
+
+The developer and the Department of Community Development shall meet
+together and determine whether the requirements of Section 5.4810 of this
+Ordinance have been complied with. If there is disagreement on this issue, the
+applicant, by request, or the Department of Community Development, may take
+this pre-application information to the Planning Commission for their
+determination of whether this site qualifies for the contemplated planned
+
+Clatsop County Land and Water V-85  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+development.
+
+The applicant must indicate to the Department of Community Development or
+Commission his professional design team, as outlined in Section 5.4810(1)
+during Stage One, and should also designate who is to be his professional
+coordinator.
+
+The professional coordinator shall be responsible for presenting the developer's
+plan in all of the broad professional aspects to the Planning Division. If the
+Department of Community Development and applicant reach a satisfactory
+agreement the applicant may proceed to prepare data for Stage Two-Preliminary
+Approval.
+2) Preliminary Approval (Stage Two):
+(A) Applicants for planned developments, preliminary approval, shall be made
+by the owner of all affected property or his authorized agent, and shall be
+filed on a form prescribed by the Department of Community Development
+and filed with said department. Applications shall be accompanied by the
+following information:
+1. Four (4) copies of a preliminary development plan of the entire
+development, showing streets, driveways, sidewalks, pedestrian
+ways, off-street parking and loading areas; location and
+approximate dimensions of structures, utilization of structures,
+including activities and the number of living units; major
+landscaping features; relevant operational data, drawings and/or
+elevations clearly establishing the scale, character and relationship
+of buildings, streets, and open space. Such development plan shall
+include maps and information on the surrounding area within 400
+feet of the development. A boundary survey or a certified boundary
+description by a registered engineer or licensed surveyor, plus
+contour information, shall also be submitted.
+
+The elevations of all points used to determine contours shall be
+indicated on the preliminary plan and said points shall be given true
+elevation above mean sea level as determined by the County
+Engineer. The base data used shall be clearly indicated and shall
+be compatible to County datum, if bench marks are not adjacent.
+Two-foot contour intervals are required.
+
+All elements listed in this subsection shall be characterized as
+existing or proposed and sufficiently detailed to indicate intent and
+impact.
+
+Clatsop County Land and Water V-86  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+2. A tabulation of the land area to be devoted to various uses, and a
+calculation of the average residential density per net acre.
+3. A stage development schedule demonstrating that the developer
+intends to commence construction within one year after the
+approval of the final development plan and will proceed diligently to
+completion.
+4. It is proposed that the final development plan will be executed in
+stages, a schedule thereof will be required.
+(B) An application for a planned development permit shall be considered by
+the Planning Commission under a Type III procedure. After such hearing,
+the Commission shall determine whether the proposal conforms to the
+planned development regulations in Sections 5.4800 through 5.4850, and
+may approve or disapprove in concept the application and the
+accompanying preliminary development plan or require changes or
+impose conditions of approval as are in its judgment necessary to ensure
+conformity to said criteria and regulations. In so doing, the Commission
+may, in its discretion, authorize submission of the final development plan
+in stages corresponding to different units or elements of the development.
+It may do so only upon evidence assuring completion of the entire
+development in accordance with the preliminary development plan and
+stage development schedule. Should a decision not be rendered within 60
+days after filing, the application and preliminary development plan shall be
+deemed approved in concept unless said time has been extended by the
+Commission.
+3) Final Approval (Stage Three):
+(A) Within one year after concept approval or modified approval of a
+preliminary development plan, the applicant shall file with the Planning
+Division a final plan for the entire development or, when submission in
+stages has been authorized pursuant to Section 5.4810(2) for the first unit
+of the development. The final plan shall conform in all major respects with
+the approved preliminary development plan. The final plan shall include all
+information included in the preliminary plan plus the following: the location
+of water, sewerage and drainage facilities; detailed building and
+landscaping plans and elevations; the character and location of signs;
+plans for street improvements and grading or earth moving plans. The
+final plan shall be sufficiently detailed to indicate fully the ultimate
+operation and appearance of the development. Copies of legal documents
+required by the Commission for dedication or reservation of public
+facilities, or for the creation of a non-profit homeowner association, shall
+also be submitted.
+(B) Within 30 days after the filing of the final development plan, the
+Commission shall forward such development plan and the original
+
+Clatsop County Land and Water V-87  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+application to the County Road Department for review of public
+improvements, including streets, sewers and drainage. The Commission
+shall not act on a development plan until it has first received a report from
+the County Road Department or until more than 30 days have elapsed
+since the plan and application were sent to the County Road Department,
+whichever is the shorter period.
+(C) Upon receipt of the final development plan, the Planning Commission shall
+examine such plan and determine whether it conforms in all substantial
+respects to the previously approved planned development permit, or
+require such changes in the proposed development or impose such
+conditions of approval as are in its judgment necessary insure conformity
+to the applicable criteria and standards. In so doing, the Commission may
+permit the applicant to revise the plan and resubmit it as a final
+development plan within 30 days.
+(D) After final concept approval by the Planning Commission, the planned
+development application will be sent to the Board of Commissioners for
+consideration for final approval. A public hearing shall be held on each
+such application. After such hearing, the Board of Commissioners shall
+determine whether the proposal conforms to the permit criteria set forth in
+the planned development regulations in Sections 5.4800 through 5.4850
+and may approve or disapprove the application and the accompanying
+development plan or require changes or impose conditions of approval as
+are in its judgment necessary to insure conformity to said criteria and
+regulations. The decision of the Board of Commissioners shall be final.
+Section 5.4835. Limitation on Resubmission
+Whenever an application for a planned development permit has been denied, no
+application for the same plan or any portion thereof shall be filed by the same applicant
+within six months after the date of denial.
+Section 5.4840. Adherence to Approved Plan and Modification Thereof
+1) The applicant shall agree in writing to be bound, for himself and his successors in
+interest, by the conditions prescribed for approval of a development. The
+approved final plan and stage development schedule shall control the issuance
+of all building permits and shall restrict the nature, location, and design of all
+uses. Minor changes in an approved preliminary or final development plan may
+be approved by the Zoning and Subdivision Administrator if such changes are
+consistent with the purposes and general character of the development plan. All
+other modifications, including extension or revisions of the stage development
+schedule, shall be processed in the same manner as the original application and
+shall be subject to the same procedural requirements.
+2) A performance bond shall be required, in an amount to be determined by the
+
+Clatsop County Land and Water V-88  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+Planning Commission, to ensure that a development proposal is completed as
+approved and within the time limits agreed to.
+Section 5.4845. Violation of Conditions
+Failure to comply with the final development plan, any condition of approval prescribed
+under Section 5.4810(3), or to comply with the stage development schedule, shall
+constitute a violation of this Ordinance. In this event, the Board of Commissioners may,
+after notice and hearing, revoke a planned development permit.
+Section 5.4850. Common Open Space
+Maintenance of common open space shall be subject to Section 3.3060.
+
+SECTION 5.5000. NORTH CLATSOP PLAINS OVERLAY DISTRICT (NCP)
+Section 5.5010. Purpose
+The North Clatsop Plains overlay district NCP implements provisions of the Clatsop
+Plains Community Plan specific to the North Clatsop Plains Sub-Area. It is intended to
+provide for the planned and orderly growth of the North Clatsop Plains Sub-Area while
+protecting and maintaining natural resource values and preserving the semi-rural
+characteristics of the area. It is further intended to maintain compatibility between land
+uses in the vicinity of Camp Rilea while maintaining landowners’ rights to reasonable
+use of their land.
+Section 5.5020. Applicability
+The North Clatsop Plains overlay district (NCP) applies to areas designated NCP on the
+Clatsop County Zoning Map.
+
+View of elk on the Clatsop Plains
+
+Clatsop County Land and Water V-89  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+Section 5.5030. Development and Uses Permitted
+Development and uses permitted in the underlying zoning district are permitted in the
+North Clatsop Plains overlay district (NCP).
+Section 5.5040. Conditional Development and Use
+Developments and uses conditionally allowed in the underlying zoning district are
+conditionally allowed in the North Clatsop Plains overlay district (NCP), pursuant to
+procedures outline in Article 2 of this ordinance.
+Section 5.5050. Development and Use Standards
+1) Increases in residential density in the NCP overlay district through zone changes
+and density transfers are prohibited.
+2) Notwithstanding the provisions of Development Standards Section 3.3040, where
+common open space is required to be designated within the North Clatsop Plains
+Sub-Area, the location and configuration of such open space shall be prioritized
+based on the following criteria; open space areas meeting more than one
+criterion are preferred:
+(A) Open space buffers between residential uses and Camp Rilea;
+(B) Wildlife corridors;
+(C) Trail corridors;
+(D) Ridge tops, deflation plains, and shorelands.
+3) New dwellings within the NCP overlay shall comply with the noise attenuation
+construction standards of Title 15 of the Clatsop County Code of Regulations.
+4) Notwithstanding the provisions of Section 3.3050, Density Transfer Standards
+within the NCP district are subject to the following requirements and exceptions:
+(A) Density may be transferred more than once from a single density transfer
+sending site within the /NCP overlay until all density is removed from the
+site;
+(B) All density transfer receiving sites shall be located outside the NCP
+overlay district;
+(C) Density transfer credits need not be applied to a receiving site at the time
+of transfer but may be saved in a Density Transfer Bank maintained by
+Clatsop County.
+5.5100. STANDARDS FOR FLOATING RESIDENCES AND FLOATING
+RECREATIONAL CABINS
+Section 5.5110. Floating Residences & Floating Recreational Cabins
+1) Except as provided in this Section, floating recreational cabins and floating
+residences are not allowed in Clatsop County. Existing structures that meet
+criteria described in this Section shall be allowed subject to the nonconforming
+use and structure provisions of this Ordinance.
+2) Floating residences and floating recreational cabins are subject to applicable
+provisions of the Standards Document of Clatsop County Ordinance 80-14.
+
+Clatsop County Land and Water V-90  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+3) New floating residences and floating recreational cabins are allowed only in
+zones that specifically allow floating residences and floating recreational cabins
+by approved County permit.
+4) Any floating residence or floating recreational cabin in existence and lawfully
+moored prior to January 1, 2000, that complies with applicable County standards
+may be considered a legal nonconforming structure, and will be allowed, subject
+to the provisions of this Section. A property owner wishing to obtain
+nonconforming structure status shall provide documentation that substantiates
+that the floating residence or recreational cabin:
+(A) Was in existence and lawfully moored prior to January 1, 2000;
+(B) Complies with applicable rules and regulations of the Oregon Division of
+State Lands; and
+(C) Complies with applicable rules and regulations of the Oregon Department
+of Environmental Quality.
+(D) Acceptable forms of documentation include but are not limited to, lease
+agreements, legal ownership records on file with the County Clerk, tax
+records, dated aerial photography, sworn affidavits and/or written reports.
+(E) A lawfully moored floating residence or recreational cabin in existence
+prior to January 1, 2000, that does not comply with County standards shall
+have until January 1, 2006 to demonstrate compliance with those
+standards and qualify for legal nonconforming status.
+5.5120. Standards for Floating Residences and Floating Recreational Cabins
+Floating residences and recreational cabins shall demonstrate and maintain at all times:
+(1) Lawful moorage;
+(2) Compliance with rules and regulations of the Oregon Division of State Lands in
+existence on the date the structure was approved by Clatsop County; and
+(3) Compliance with rules and regulations of the Oregon Department of
+Environmental Quality in existence on the date the structure was approved by
+Clatsop County.
+
+Clatsop County Land and Water V-91  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+
+Floating residences along John Day River.
+5.5130.  Access and Parking Standards
+The owner of a floating residence or recreational cabin must demonstrate and at all
+times maintain lawful access to the structure. In addition, the owner must demonstrate
+at all times not less than two (2) lawful parking spaces. The parking spaces must be at
+the normal and customary location at which users park their vehicles to access the
+structure.
+5.5140.  Failure to Comply with Floating Residence and Floating Recreational
+Cabin Standards
+If it is determined by the Code Compliance Specialist that the owners or users of a
+floating residence that is a lawful nonconforming structure are in violation of County
+standards, the Code Compliance Specialist shall, in addition to any other remedy
+allowed by law or ordinance, revoke the owner’s right to maintain the floating residence.
+
+SECTION 5.5200. PARK MASTER PLAN ZONE (PMP)
+Section 5.5210. Purpose
+The purpose of this zone is to provide for the long term protection, management and
+enjoyment of natural, cultural, scenic, open space and recreational resources within
+publicly-owned or managed parks. Through the implementation of adopted park master
+plans, this zone provides for the development of park facilities and the support of
+recreational uses in a manner that is consistent with defined park management
+objectives, the County’s Comprehensive Plan, and the Statewide Planning Goals.
+Section 5.5220. Applicability
+This zone will be applied only to public parks which has master plans adopted by
+Clatsop County pursuant to OAR 660 Division 34. For state parks, the master plans
+shall also have adopted by the Oregon Parks and Recreation Department (OPRD)
+pursuant to OAR 736 Division 18. The adoption of this zone for a park shall supersede
+
+Clatsop County Land and Water V-92  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+all previously adopted zones and overlay districts for the subject park property for as
+long as the property remains in public ownership or management and is used for public
+park purposes. In the event that such park property is transferred to private ownership
+or ceases to be managed or used for park purposes, a Comprehensive Plan and Zoning
+Map amendment shall be applied for and approved, consistent with the Statewide
+Planning Goals, prior to the approval of any development permits for the subject
+property.
+Section 5.5230. Park Development and Uses Allowed
+Park uses and facilities that are consistent with a park master plan adopted pursuant to
+OAR 660 Division 34, and with applicable development standards, are allowed through
+the review procedures specified below:
+1) Uses and facilities described in the park master plan are allowed through the
+review procedures specified in the master plan for the described projects.
+2) Minor variations from the uses and facilities described in the park master plan are
+allowed through the review procedures specified in the master plan for the
+described projects, unless the master plan language specifically precludes such
+variations. The standards in Section 3.195 of this ordinance shall be used to
+determine whether a proposed variation from a planned use or facility is minor.
+3) Accessory uses and facilities which are incidental and customarily appurtenant to
+the uses and facilities described in this park master plan are allowed through
+Type I procedures.
+4) The repair and renovation of existing park facilities are allowed through Type I
+procedures.
+5) The replacement, in the same location and size, of existing park facilities is
+allowed through Type I procedures.
+6) The replacement, with minor location changes, of park facilities that existed on
+the effective date of this ordinance (October 26, 2001) is allowed through Type 2
+procedures. The standards in Section 3.916 of this ordinance shall be used to
+determine whether a proposed location change for an existing park facility is
+minor.
+7) The minor expansion of park uses and facilities that existed on the effective date
+of this ordinance (October 26, 2001) is allowed through Type 2 procedures. The
+standards in Section 3.916 of this ordinance shall be used to determine whether
+a proposed expansion of an existing use or facility is minor.
+8) Road construction, construction, and maintenance only as provided in paragraph
+(a) through (c) of this section.
+(A) A road may be constructed or reconstructed if it is determined through a
+Type III process that one of the following circumstances exists:
+1. A road is needed to conduct a response action under the
+Comprehensive Environmental Response, Compensation and
+Liability Act (CERCLA) or to conduct a natural resource restoration
+
+Clatsop County Land and Water V-93  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+action under CERCLA, Section 311 of the Clean Water Act, or the
+Oil Pollution Act;
+2. A road is needed pursuant to reserved or outstanding rights, of as
+provided for by state statute or treaty;
+3. Road realignment is needed to prevent irreparable resource
+damage that arises from the design, location, use or deterioration of
+an existing road that cannot be mitigated by road maintenance.
+Realignment may occur under this paragraph only if the road is
+deemed essential for public or private access, natural resource
+management or public health or safety;
+4. Road reconstruction is needed to implement a road safety
+improvement project on an existing road determined to be
+hazardous on the basis of accident experience or accident potential
+on that road.
+(B) A road may be constructed or reconstructed if the Oregon Parks and
+Recreation Department, in consultation with Clatsop County, determines
+that a road is needed to protect public health and safety in cases of an
+imminent threat of flood, fire, or other catastrophic event, that, without
+intervention, would cause the loss of like or property.
+(C) Maintenance of existing roads is permissible.
+9) Proposed park uses and facilities that are not provided for in subsections 1
+through 8 of this section shall require an amendment to the park master plan
+adopted through the Plan Amendment process described under OAR 660
+Division 34.
+Section 5.5240. Park Master Plan
+
+Clatsop County Land and Water V-94  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+Each park master plan implemented through this ordinance shall include:
+1) Findings that describe the park issues regarding the constraints, needs, and
+opportunities related to the use and development of the park and the protection,
+management, and interpretation of park resources.
+2) Maps that adequately illustrate the locations of park resources that are important
+to the use and development of the park and to the protection, management, and
+interpretation of resources, including maps that depict significant habitat,
+protected species, significant plant communities, water features, natural hazards,
+cultural resource sites, and scenic resources.
+3) Goals for park use and development for the protection, management, and
+interpretation of park resources.
+4) Narrative descriptions, site plans, and illustrations as necessary to adequately
+describe the types, locations, sizes, capacities, and site designs of the existing
+and planned park uses and facilities.
+5) Guidelines for the management of the park’s natural, cultural and scenic
+resources.
+6) Standards for the development of planned park facilities in identified sensitive
+resource areas, including riparian areas, wetlands, estuarine areas, coastal
+lakes, significant upland habitat, coastal dune hazard areas, and flood hazard
+areas.
+7) Findings that demonstrate that the park master plan is in compliance with the
+Statewide Planning Goals.
+8) Any additional information that the Community Development Director deems
+necessary to adequately assess the compliance of the park master plan with the
+Statewide Planning Goals.
+Section 5.5250. Standards for Reviewing Proposed Variations from Park Master
+Plans.
+The following standards shall be used to determine whether a proposed variation from a
+planned park use or facility is minor. A proposed variation may be determined to be
+minor if it is not expected to cause significant impacts on adjacent land uses, other uses
+in the park, local public services, transportation systems, or important natural, cultural,
+or scenic resources. Further:
+1) A proposed location change for a planned park facility may be determined to be
+minor if it does not cause the facility to serve a different park use area.
+2) The following limitations shall apply to determinations involving minor expansions
+of planned park facilities:
+(A) A maximum of 20 percent increase in the floor area of any planned
+permanent building, provided that this limitation shall not apply to the
+following: toilet and shower buildings, garbage and recycling collection
+buildings; campground registration and storage buildings; and any other
+accessory building that does not exceed 120 square feet after expansion;
+
+Clatsop County Land and Water V-95  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+(B) A maximum of 20 percent increase in the number of planned bedrooms in
+any lodge, inn, bed and breakfast, barracks or bunkhouse, or group of
+cabins, or in any park use area;
+(C) A maximum of 20 percent increase in the number of planned camp sites in
+any general or group camping area;
+(D) A maximum of 20 percent increase in the number of planned parking
+spaces in any parking lot or park use area;
+(E) A maximum of 20 percent increase in the surface area of any planned
+road for purposes of improving safety, realignment or widening; or
+(F) Extension of a road to provide access to a planned use that is expanded
+or relocated under the provisions of this section may be considered minor
+only to the extent needed to serve the expanded or relocated use.
+3) A proposal for a different kind or location of park use area from those in the
+adopted master plan shall not be considered a minor variation.
+4) Within an existing or planned park use area, a proposal for a park facility that is
+different from the kind of park facilities in that park area in the adopted master
+plan shall not be considered a minor variation, except that proposals for the
+following different facilities may be considered minor variations: toilet and shower
+buildings, garbage and recycling facilities; campground registration and storage
+buildings; any other accessory structure not exceeding 120 square feet;
+alternative camping structures such as yurts, camper cabins, tepees and covered
+wagons in planned or existing tent and RV sites; picnic shelters in day use area;
+and trails.
+5) Outside of existing and planned park use areas, new trails located at least 300
+feet from the nearest park boundary may be considered minor variations from
+adopted master plans.
+Section 5.5260. Standards for Review Proposed Location Changes and
+Expansions of Existing Park Uses and Facilities
+The following standards shall be used to determine whether a proposed location change
+or expansion of an existing park use or facility is minor. A proposed location change or
+expansion may be determined to be minor if it is not expected to cause significant
+impacts on adjacent land uses, other uses in the park, local public services,
+transportation systems, or important natural, cultural, or scenic resources. Further:
+1) A location change for an existing park facility may be determined to be minor if it
+does not cause the facility to serve a different park use.
+2) The following limitations shall apply to determinations involving minor expansions
+of existing park uses and facilities;
+
+Clatsop County Land and Water V-96  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+(A) A maximum of 20 percent increase in the floor area of any permanent
+building, provided that this limitation shall not apply to the following: toilet
+and shower buildings, garbage and recycling collection buildings;
+campground registration and storage buildings; and any other accessory
+building that does not exceed 120 square feet after expansion;
+(B) A maximum of 20 percent increase in the number of planned bedrooms in
+any lodge, inn, bed and breakfast, barracks or bunkhouse, or group of
+cabins, or in any park use area;
+(C) A maximum of 20 percent increase in the number of planned camp sites in
+any general o r group camping area;
+(D) A maximum of 20 percent increase in the number of planned parking
+spaces in any parking lot or park use area; and
+(E) A maximum of 20 percent increase in the surface area of any road for
+purposes of improving safety, realignment or widening; or
+(F) Extension of an existing road to provide access to a that is expanded or
+relocated under the provisions of this section may be considered minor
+only to the extent needed to serve the expanded or relocated use.
+
+SECTION 5.5300 AIRPORT OVERLAY ZONE (AO)
+Section 5.5310. Purpose
+In order to carry out the provisions of this overlay zone, there are hereby created and
+established certain zones which include all of the land lying beneath the Airport
+Imaginary surfaces as they apply to the airport in the (city/county). Such zones are
+shown on the current airport Airspace and Runway Approach Zone drawings.
+
+Further, this overlay zone is intended to prevent the establishment of airspace
+obstructions in airport approaches and surrounding areas through height restrictions
+and other land use controls as deemed essential to protect the health, safety, and
+welfare of the people of the (city/county).
+Section 5.5320. Special Definitions
+AIRPORT APPROACH SAFETY ZONE. The land that underlies the approach surface,
+excluding the RAZ
+
+AIRPORT HAZARD. Any structure, tree, or use of land which exceeds height limits
+established by the Airport Imaginary Surfaces.
+
+AIRPORT IMAGINARY SURFACES. Those imaginary areas in space which are defined
+by the Approach Surface, Transitional Surface, Horizontal Surface, and Conical Surface
+and in which any object extending about these imaginary surfaces is an obstruction.
+
+Clatsop County Land and Water V-97  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+APPROACH SURFACE. A surface longitudinally centered on the extended runway
+centerline and extending outward and upward from each end of the Primary Surface.
+The inner edge of the approach surface is the same width as the Primary Surface and
+extends to a width of: 1,250 feet for utility runway having only visual approaches; 1,500
+feet for a runway other than a utility runway having only visual approaches; 2,000 feet
+for a utility runway having a non-precision instrument approach; 3,500 feet for a non-
+precision instrument runway other than utility, having visibility minimums greater than
+three-fourths of a statute mile; 4,000 feet for a non-precision instrument runway having
+visibility minimums as low as three-fourths statute mile; and 16,000 feet for precision
+instrument runways. The Approach Surface extends for a horizontal distance of 5,000
+feet at a slope of 20 feet outward to each foot upward (20:1) for all utility and visual
+runways; 10,000 feet at a slope of 34 feet outward for each foot upward (34:10 for all
+non-precision instrument runways other than utility; and for all precision instrument
+runways extends for a horizontal distance of 10,000 feet at a slope of 50 feet outward
+for each foot upward (50:1); thence slopes upward 40 feet outward for each foot upward
+(40:1) an additional distance of 40,000 feet.
+
+CONICAL SURFACE. Extends 20 feet outward for each one foot upward (20:1) for
+4,000 feet beginning at the edge of the horizontal surface (5,000 feet from the center of
+each of the Primary Surface of each visual and utility runway or 10,000 feet for all non-
+precision instrument runways other than utility at 150 feet above and airport elevation)
+and upward extending to a height of 350 feet above the airport elevation.
+
+HORIZONTAL SURFACE. A horizontal plane 150 feet above the established airport
+elevation, the perimeter of which is constructed by swinging runways 5,000 feet from
+the center of each end of the Primary Surface of each visual or utility runway and
+10,000 feet from the center of each end of the Primary Surface of all other runways and
+connecting the adjacent arcs by lines tangent to those arcs.
+
+NOISE SENSITIVE AREA. Within 1,500 feet of an airport or within established noise
+contour boundaries exceeding 55 DNL.
+
+NON-PRECISION INSTRUMENT RUNWAY. A runway having an existing instrument
+approach procedure utilizing air navigation facilities with only horizontal guidance, or
+area type navigation equipment, for which a straight-in non-precision instrument
+approach procedure has been approved, or planned, or indicated on an FAA or state
+planning document or military service airport planning document.
+
+PLACE OF PUBLIC ASSEMBLY. Structure of place which the public may enter for such
+purposes as deliberation, education, worship, shopping, entertainment, amusement,
+awaiting transportation, or similar activity.
+
+Clatsop County Land and Water V-98  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+PRECISION INSTRUMENT RUNWAY. A runway having an existing instrument
+approach procedure utilizing an Instrument Landing System (ILS), Microwave Landing
+System (MLS), Global Positioning Satellite (GPS) or a Precision Approach Radar
+(PAR). It also means a runway for which a precision approach system is planned and is
+not indicated by a FAA approved airport layout plan; any other FAA or state planning
+document, or military service airport-planning document.
+
+PRIMARY SURFACE. A surface longitudinally centered on a runway. When the runway
+has a specifically prepared hard surface, the Primary Surface extends 200 feet beyond
+each end of that runway. When the runway has no specially prepared hard surface, or
+planned hard surface, the Primary Surface ends at each end of that runway. The width
+of the primary Surface is 250 feet for utility runways having only visual approaches,
+5,000 feet for utility runways having non-precision instrument approaches, 5,000 feet for
+other than utility runways having only visual approaches or non-precision instrument
+approaches with visibility minimums greater than three-fourths of a mile and 1,000 feet
+for non-precision instrument runways with visibility minimums of three-fourths of a mile
+or less and for precision instrument runways.
+
+RUNWAY APPROACH ZONE (RAZ). An area off the runway end (formerly the clear
+zone) used to enhance the protection of people and property on the ground. The RAZ is
+trapezoidal in shape and centered about the extended runway centerline. It begins 200
+feet (60m) beyond the end of the arcs usable for takeoff or landing. The RAZ
+dimensions are functions of the type of aircraft and operations to be conducted on the
+runway.
+
+TRANSITIONAL SURFACE. Extend seven feet outward for each one foot upward (7:1)
+beginning on each side of the Primary Surface which point is the same elevation as the
+runway surface, and from the sides of the approach surfaces thence extending upward
+to a height of 150 feet above the airport elevation (Horizontal Surface)
+
+UTILITY RUNWAY. A runway that is constructed for and intended to be used by
+propeller driven aircraft of 12,500 pounds maximum gross weight or less.
+
+VISUAL RUNWAY. A runway that is intended solely for the operation of aircraft using
+visual approach procedures when no instrument approach procedures have been
+approved, or planned, or indicated on an FAA or state planning document or military
+service airport planning document.
+Section 5.5330. Permitted Uses Within the Runway Approach Zone (RAZ)
+While it is desirable to clear all objects from the RAZ, some uses are permitted,
+provided they do not attract wildlife, are below the approach surface and do not interfere
+with navigational aids.
+
+Clatsop County Land and Water V-99  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+1) Agricultural operations (other than forestry or livestock farms.)
+2) Golf courses (but not club houses).
+3) Automobile parking facilities
+Section 5.5340. Conditional Uses Within the Airport Approach Safety Zone
+1) A structure or building accessory to a permitted use.
+2) Single-unit dwellings, mobile homes, duplexes, and multi-unit dwellings, when
+allowed by the underlying zone, provided the landowner signs and records in the
+deed and mortgage records of (city/county) a Hold Harmless Agreement and
+Aviation and Hazard Easement and submits them to the airport sponsor and the
+(city/county) Planning Departments. [ORD. 25-16]
+3) Commercial and industrial uses, when allowed by the underlying zone, provided
+the use does not result in:
+(A) Creating electrical interference with navigational signals or radio
+communication between the airport and aircraft.
+(B) Making it difficult for pilots to distinguish between airport lights and lighting
+from nearby land uses.
+(C) Impairing visibility.
+(D) Creating bird strike or other wildlife hazards.
+(E) Endangering or interfering with the landing, taking off or maneuvering of
+aircraft intending to use airport
+(F) Attracting a large number of people
+4) Buildings and uses of public works, public service, or public utility nature.
+Section 5.5350. Procedures
+An applicant seeking a conditional use shall follow procedures set forth in the urban
+growth management plan/agreement between the (city/county). Information
+accompanying the application shall also include the following:
+1) Property boundary lines as they relate to the Airport Imaginary Surfaces.
+2) Location and height of all existing and proposed buildings, structures, utility lines,
+and roads.
+
+In accordance with OAR Chapter 738 Division 100, City or County Planning Authority
+shall notify the owner of the airport and Aeronautics Section on land use permits or
+zone changes within 5,000 feet of a visual and 10,000 feet of instrument airport so as to
+provide Oregon Aeronautics Section an opportunity to review and comment.
+Section 5.5360. Limitations
+1) To meet the standards established in FAA Regulations, Part 77 and OAR
+Chapter 738 Division 70, no structure shall penetrate into the Airport Imaginary
+Surfaces as defined above.
+2) No place of public assembly shall be permitted in the Airport Approach Safety
+
+Clatsop County Land and Water V-100  April 23, 2026
+Development and Use Code   Codified Through Ordinance 25-16
+
+ARTICLE 5. SPECIAL DISTRICTS
+Zone or RAZ.
+3) No structure or building shall be allowed within the RAZ.
+4) Whenever there is a conflict in height limitations prescribed by this overlay zone
+and the primary zoning district, the lowest height limitation fixed shall govern;
+provided, however, that the height limitations here imposed shall not apply to
+such structures customarily employed for aeronautical purposes.
+5) No glare producing materials shall be used on the exterior of any structure
+located within the Airport Approach Safety Zone.
+6) In noise sensitive areas (within 1,500 feet of an airport or within established noise
+contour boundaries of 55 DNL and above for identified airports) where noise
+levels are a concern, a declaration of anticipated noise levels shall be attached to
+any building permit, land division appeal, deed, and mortgage records. In areas
+where the noise level is anticipated to be 55 DNL and above, prior to issuance of
+a building permit for construction of noise sensitive land use (real property
+normally used for sleeping or normally used as schools, churches, hospitals, or
+public libraries), the permit application shall be required to demonstrate that a
+noise abatement strategy will be incorporated into the building design which will
+achieve an indoor noise level equal to or less than 55 DNL. The planning and
+building department will review building permits or noise sensitive developments.
+7) No development that attracts or sustains hazardous bird movements from
+feeding, watering, or roosting across the runways and/or approach and departure
+patterns of aircraft. Planning authority shall notify Oregon Aeronautics of such
+development (e.g., waste disposal sites and wetland enhancements) within the
+airport overlay zone so as to provide Oregon Aeronautics Section an opportunity
+to review and comment on the side in accordance with FAA AC 150/5200-33.

@@ -211,7 +211,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://www.columbiacountyor.gov
-  built: false
+  built: true
 - slug: lincoln-county
   name: Lincoln County
   short_name: Lincoln
@@ -221,7 +221,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://www.co.lincoln.or.us
-  built: false
+  built: true
 - slug: clatsop-county
   name: Clatsop County
   short_name: Clatsop
@@ -231,7 +231,7 @@ counties:
   governing_body: board
   home_rule: charter
   source_url: https://clatsopcounty.gov
-  built: false
+  built: true
 - slug: malheur-county
   name: Malheur County
   short_name: Malheur
@@ -241,7 +241,7 @@ counties:
   governing_body: county-court
   home_rule: general-law
   source_url: https://www.malheurco.org
-  built: false
+  built: true
 - slug: crook-county
   name: Crook County
   short_name: Crook
@@ -251,7 +251,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://crookcountyor.gov
-  built: false
+  built: true
 - slug: tillamook-county
   name: Tillamook County
   short_name: Tillamook
@@ -262,6 +262,8 @@ counties:
   home_rule: general-law
   source_url: https://www.tillamookcounty.gov
   built: false
+  deferred: municode-web-drop
+  deferred_reason: 'hosted on lb2.municodeweb.com, which completes TLS then DROPS the connection for an honestly-identified agent while serving a browser User-Agent HTTP 200 — refusal delivered as a TCP reset rather than a status code'
 - slug: wasco-county
   name: Wasco County
   short_name: Wasco
@@ -271,7 +273,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://www.wascocountyor.gov
-  built: false
+  built: true
 - slug: union-county
   name: Union County
   short_name: Union
@@ -281,7 +283,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://unioncountyor.gov
-  built: false
+  built: true
 - slug: jefferson-county
   name: Jefferson County
   short_name: Jefferson
@@ -292,6 +294,8 @@ counties:
   home_rule: general-law
   source_url: https://www.jeffersoncountyor.gov
   built: false
+  deferred: cloudflare-challenge
+  deferred_reason: 'jeffco.net / the county''s eCode360 migration both return HTTP 403 Cloudflare managed challenge to an honestly-identified agent (re-checked 2026-08-01)'
 - slug: hood-river-county
   name: Hood River County
   short_name: Hood River
@@ -301,7 +305,7 @@ counties:
   governing_body: board
   home_rule: charter
   source_url: https://www.hoodrivercounty.gov
-  built: false
+  built: true
 - slug: curry-county
   name: Curry County
   short_name: Curry
@@ -311,7 +315,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://www.currycountyor.gov
-  built: false
+  built: true
 - slug: baker-county
   name: Baker County
   short_name: Baker
@@ -322,6 +326,8 @@ counties:
   home_rule: general-law
   source_url: https://www.bakercountyor.gov
   built: false
+  deferred: tls-chain-incomplete
+  deferred_reason: 'www.bakercountyor.gov serves its leaf certificate without the DigiCert intermediate and publishes no AIA caIssuers URI, so no verifying client can build a chain; browsers paper over it. Fixable BY THE COUNTY by serving the full chain'
 - slug: morrow-county
   name: Morrow County
   short_name: Morrow
@@ -332,6 +338,8 @@ counties:
   home_rule: general-law
   source_url: https://www.morrowcountyor.gov
   built: false
+  deferred: municode-web-drop
+  deferred_reason: 'same host as Tillamook (lb2.municodeweb.com); completes TLS then drops the connection for an honestly-identified agent'
 - slug: lake-county
   name: Lake County
   short_name: Lake
@@ -342,6 +350,8 @@ counties:
   home_rule: general-law
   source_url: https://www.lakecountyor.org
   built: false
+  deferred: cloudflare-challenge
+  deferred_reason: 'lake.county.codes (General Code) returns HTTP 403 Cloudflare managed challenge to an honestly-identified agent; robots also names ClaudeBot'
 - slug: wallowa-county
   name: Wallowa County
   short_name: Wallowa
@@ -362,6 +372,8 @@ counties:
   home_rule: general-law
   source_url: https://harneycountyor.gov
   built: false
+  deferred: sucuri-challenge
+  deferred_reason: 'harneycountyor.gov is behind Sucuri CloudProxy, which answers a JavaScript cookie challenge as HTTP 307 with no Location header'
 - slug: grant-county
   name: Grant County
   short_name: Grant
@@ -371,7 +383,7 @@ counties:
   governing_body: county-court
   home_rule: general-law
   source_url: https://grantcountyoregon.net
-  built: false
+  built: true
 - slug: sherman-county
   name: Sherman County
   short_name: Sherman
@@ -381,7 +393,7 @@ counties:
   governing_body: county-court
   home_rule: general-law
   source_url: https://www.shermancountyor.gov
-  built: false
+  built: true
 - slug: gilliam-county
   name: Gilliam County
   short_name: Gilliam

@@ -144,9 +144,15 @@ def _scrape(listing: str, cfg: dict, link_re, seen: set, out: list) -> None:
         # documents, including a whole code chapter, were lost exactly this way.
         href = html.unescape(match.group(1).strip())
         url = _encode(urllib.parse.urljoin(base, href))
-        if url in seen:
+        # Dedupe on the PATH, ignoring the query. Publishers link the same file both plainly
+        # and with a cache-busting `?t=<timestamp>`, and treating those as two documents
+        # produces two records of one instrument — Wasco links its Title VI Plan both ways
+        # on the same page. The first form seen wins, so a plain URL is preferred to one
+        # carrying a timestamp that will change.
+        key = urllib.parse.urlsplit(url)._replace(query="", fragment="").geturl()
+        if key in seen:
             continue
-        seen.add(url)
+        seen.add(key)
         name = _name_from_url(url)
         if fetch.looks_like_draft(name) or fetch.looks_like_draft(href):
             continue
@@ -245,10 +251,62 @@ def discover_municode(profile: dict, family: str, cfg: dict) -> list[dict]:
     return out
 
 
+def discover_ecode360(profile: dict, family: str, cfg: dict) -> list[dict]:
+    """General Code's eCode360 — parse the table of contents embedded in the landing page.
+
+    There is no JSON API (`/api/toc/<code>` 404s), but the TOC is present in the HTML as
+    HTML-escaped JSON, one object per node:
+
+        {"prefix":"Ttl 1","tocName":"General Provisions","guid":"44303313",
+         "href":"/44303313","title":"General Provisions","number":"1", ...}
+
+    So the readable identity IS available and there is no need to fall back on the opaque
+    guid: a document lands as `clatsop-code-ttl-1-general-provisions` rather than
+    `clatsop-code-44303313`, which is the difference between an id a citation can reach and
+    a number nobody can.
+
+    ONE DOCUMENT PER TITLE, matching the Municode route and for the same reason — a node
+    page carries its whole subtree, so per-section would be hundreds of requests for text
+    already in hand.
+
+    General Code is the largest commercial code vendor among Oregon counties (4 of 36, ahead
+    of Municode's 3), so this mode is worth its length: it serves Clatsop and Crook now and
+    Lake when that county is reached.
+    """
+    body, _ = fetch.get(cfg["toc_url"])
+    page = html.unescape(body.decode("utf-8", "replace"))
+    prefix_re = cfg.get("prefix_re", r"Ttl[^\"]*")
+
+    out, seen = [], set()
+    for m in re.finditer(
+            rf'\{{"prefix":"({prefix_re})","tocName":"([^"]*)","guid":"(\d+)"', page):
+        pref, name, guid = (s.strip() for s in m.groups())
+        if guid in seen:
+            continue
+        seen.add(guid)
+        # "(Reserved)" titles are placeholders holding a number against future use. They are
+        # real TOC entries and contain no law; ingesting them would pad the count with
+        # documents whose entire content is the word Reserved.
+        if re.fullmatch(r"\(?reserved\)?", name, re.I):
+            continue
+        slug = _slugify(f"{pref} {name}")
+        out.append({
+            "url": f"{cfg.get('base', 'https://ecode360.com')}/{guid}",
+            "name": slug,
+            "title": f"{pref}: {name}",
+            "id": f"{profile['slug']}-{family}-{slug}",
+        })
+    if not out:
+        raise ValueError(f"{cfg['toc_url']}: no TOC nodes matched — eCode360 changed its "
+                         f"page shape, and returning nothing would look like an empty code")
+    return out
+
+
 DISCOVERY = {
     "link-list": discover_link_list,
     "mco-s3": discover_mco_s3,
     "municode-api": discover_municode,
+    "ecode360": discover_ecode360,
 }
 
 
@@ -293,7 +351,8 @@ def run_discovery(slug: str, profiles: dict) -> int:
                 # generic slugifier only knows the filename. Filename-derived ids are the
                 # fallback, not the rule: `1616608184_35-752-ordinance-no-80-201-recorded-9-18-1980`
                 # is stable but says nothing, and a citation cannot be resolved to it.
-                "id": item.get("id") or f"{slug}-{family}-{_slugify(item['name'])}",
+                "id": item.get("id") or _fallback_id(slug, family, item["url"]),
+                **({"_explicit_id": True} if item.get("id") else {}),
                 "url": item["url"],
                 "family": family,
                 "format": cfg.get("format", "pdf"),
@@ -302,6 +361,16 @@ def run_discovery(slug: str, profiles: dict) -> int:
                 "last_checked": time.strftime("%Y-%m-%d"),
             })
         print(f"  {family:<10} {len(found)} source(s)")
+
+    # WIDEN COLLIDING IDS BEFORE DECIDING THEY ARE DUPLICATES. Filenames are not unique
+    # across a document tree — Wasco files two different 1989 ordinances whose names agree
+    # for the first 60 characters — and the parent directory is what actually distinguishes
+    # them. Only the colliding ids are widened, so every other id stays short.
+    from collections import Counter as _Counter
+    counts = _Counter(s["id"] for s in group["sources"])
+    for s in group["sources"]:
+        if counts[s["id"]] > 1 and not s.get("_explicit_id"):
+            s["id"] = _fallback_id(slug, s["family"], s["url"], widen=True)
 
     # IDS MUST BE UNIQUE, and this is checked here rather than at ingest because a collision
     # at ingest is INVISIBLE: two sources with one id write the same file, the second
@@ -316,6 +385,13 @@ def run_discovery(slug: str, profiles: dict) -> int:
         for i, n in sorted(dupes.items(), key=lambda kv: -kv[1])[:8]:
             print(f"  {n}x  {i}", file=sys.stderr)
         return 1
+
+    # `_explicit_id` is an internal marker for the widening pass above and must NOT reach
+    # the manifest — the source-group schema is additionalProperties: false, so leaking it
+    # fails validation for every source in the file. Dropped here rather than never set,
+    # because the widening pass genuinely needs to know which ids a profile chose itself.
+    for s in group["sources"]:
+        s.pop("_explicit_id", None)
 
     SOURCES.mkdir(parents=True, exist_ok=True)
     out = SOURCES / f"{slug}.yml"
@@ -360,9 +436,32 @@ def _name_from_url(url: str) -> str:
     return urllib.parse.unquote(parts[-1]) if parts else "document"
 
 
-def _slugify(name: str) -> str:
+def _fallback_id(slug: str, family: str, url: str, widen: bool = False) -> str:
+    """`<county>-<family>-<filename>`, widened with the parent directory on a collision.
+
+    Filenames are not unique across a document tree: Wasco files two different 1989
+    ordinances whose names agree for the first 60 characters, and truncation made them one
+    id. Rather than truncate harder or append an arbitrary counter, the parent directory —
+    which is what actually distinguishes them — is folded in. Deterministic, and the id still
+    says what the document is.
+    """
+    parts = [p for p in urllib.parse.urlsplit(url).path.split("/") if p]
+    while parts and parts[-1].lower() in _ACTION_SEGMENTS:
+        parts.pop()
+    # 60 characters is plenty for a normal filename and NOT enough for a collision: Wasco
+    # files two 1989 ordinances that agree for their first 60 characters and differ only in
+    # the destination zone, so widening has to lengthen as well as add the directory.
+    stem = _slugify(urllib.parse.unquote(parts[-1]), 130 if widen else 60) if parts else "document"
+    if widen and len(parts) > 1:
+        parent = _slugify(urllib.parse.unquote(parts[-2]))
+        if parent and parent not in stem:
+            stem = f"{parent}-{stem}"
+    return f"{slug}-{family}-{stem}"
+
+
+def _slugify(name: str, max_len: int = 60) -> str:
     stem = re.sub(r"\.[a-z0-9]{2,4}$", "", name, flags=re.I)
-    return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", stem.lower())).strip("-")[:60]
+    return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", stem.lower())).strip("-")[:max_len]
 
 
 def _titleize(name: str) -> str:
@@ -460,6 +559,9 @@ def ingest_county(slug: str, config, refetch: bool = False, limit: int | None = 
             snap = SNAPSHOTS / f"{sid}.{src['format']}"
             raw, fresh = fetch.snapshot(src["url"], snap, refetch)
             fmt = fetch.sniff(raw, src["format"])
+            if fmt in fetch.UNSUPPORTED:
+                raise ValueError(f"{fmt.upper()} file, not a document this corpus can read "
+                                 f"(usually an application form rather than law)")
             if fmt != src["format"]:
                 # Sniffed format wins and the manifest is corrected. A PDF served from an
                 # extensionless URL and recorded as html makes corpus-detect-changes convert

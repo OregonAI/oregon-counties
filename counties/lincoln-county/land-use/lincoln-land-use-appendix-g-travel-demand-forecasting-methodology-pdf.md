@@ -1,0 +1,102 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/lincoln-county
+id: lincoln-land-use-appendix-g-travel-demand-forecasting-methodology-pdf
+title: 'Appendix-G-Travel-Demand-Forecasting-Methodology-Pdf'
+doc_type: ordinance
+citation: 'Appendix-G-Travel-Demand-Forecasting-Methodology-Pdf'
+authority_level: county_ordinance
+issuing_body: 'Lincoln County Board of Commissioners'
+source_url: https://www.co.lincoln.or.us/DocumentCenter/View/1170/Appendix-G-Travel-Demand-Forecasting-Methodology-Pdf
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a2ec6c07db10ee5ef5b42c10ce62e0fbab592be076c749a78be131e07e6f884e
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [lincoln-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Lincoln County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Appendix-G-Travel-Demand-Forecasting-Methodology-Pdf (Appendix-G-Travel-Demand-Forecasting-Methodology-Pdf)
+
+## At a glance
+
+Appendix-G-Travel-Demand-Forecasting-Methodology-Pdf — land use of Lincoln County. 2 pages.
+
+## Full text
+
+APPENDIX G LINCOLN_FORECASTING METHOD V2.DOC                                                                          1
+TECHNICAL MEMORANDUM
+
+Travel Demand Forecasting Methodology
+for the Lincoln County Transportation System Plan
+PREPARED FOR: John deTar, ODOT Region 2 Planning
+Matt Spangler, Lincoln County Planning and Development Department
+Jim Buisman, Lincoln County Public Works Department
+PREPARED BY: Tim Newkirk, CH2M HILL
+COPIES: Larry Weymouth, CH2M HILL
+File
+DATE: January 23, 2006
+This technical memorandum is the travel demand forecasting methodology for the Lincoln
+County TSP future conditions traffic operations analysis.  It describes the method for
+forecasting 30th Highest Hour traffic volumes at study intersections.
+Travel demand forecasts for study intersections in the Lincoln County TSP will be
+determined by analyzing the ODOT Future Volume Tables, published online.  The latest
+tables provide current year traffic volumes, forecast traffic volumes for the year 2024, and a
+statistical descriptor (R-squared value) that provides the reliability of the forecast for all
+state highways.  ODOT guidelines for using the Future Volume Tables state that forecasts
+with R-squared values below 0.75 should not be used.  Forecasts with R-squared values
+above 0.75 will be used to determine an average annual growth rate for the 20-year planning
+period and an overall growth factor.  Table 1 shows the milepost ranges used forecasting
+data, average annual growth rate, and overall factor for each of the four state highways with
+study intersections.  Study intersections along Oregon Coast Highway are split into two
+groups.
+TABLE 1
+Travel Demand Forecast Growth Rates
+Lincoln County TSP Study Highways
+Highway Name Milepost Data Used
+Average Annual
+Growth Rate
+20-Year Growth
+Factor
+Oregon Coast Highway, No. 9 Drift Creek Road to Otter
+Crest Loop North:
+MP 119.22 to MP 124.36
+North Beaver Creek Road
+to Lori Lane:
+MP 154.04 to MP 155.46
+Drift Creek Road to
+Otter Crest Loop
+North: 2.4%
+North Beaver Creek
+Road to Lori Lane:
+2.2%
+Drift Creek Road to
+Otter Crest Loop
+North: 1.48
+North Beaver Creek
+Road to Lori Lane:
+1.45
+Corvallis-Newport Highway, No. 33 MP 5.29 to MP 5.79 2.3% 1.45
+Salmon River Highway, No. 39 MP 0.40 to 5.31 1.9% 1.39
+Siletz Highway, No. 181 MP 23.75 to 31.19 2.1% 1.41
+Source: ODOT Future Volume Tables, 2004-2024 version.
+Average annual growth rates range from approximately 1.9 percent per year to 2.4 percent
+per year.  This converts to an overall 20-year growth factor of 1.39 to 1.48.  These growth
+factors will be applied to the balanced 2005 30th Highest Hour intersection turning
+movement volumes to determine 2025 30th Highest Hour volumes for operational analysis.

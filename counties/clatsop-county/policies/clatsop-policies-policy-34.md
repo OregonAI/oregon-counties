@@ -1,0 +1,108 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/clatsop-county
+id: clatsop-policies-policy-34
+title: 'Policy-34'
+doc_type: policy
+citation: 'Policy-34'
+authority_level: county_policy
+issuing_body: 'Clatsop County Board of Commissioners'
+source_url: https://clatsopcounty.gov/DocumentCenter/View/2272/Policy-34
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: e02a3c5aaaf730e50cfdd06a5edfc1d73e4bee3dc211b1d9f46efb31f4263902
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [clatsop-county, policies]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Clatsop County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Policy-34 (Policy-34)
+
+## At a glance
+
+Policy-34 — policies of Clatsop County. 2 pages.
+
+## Full text
+
+March 2017 CLATSOP COUNTY Page A-34
+ ADMINISTRATIVE POLICY & PROCEDURE
+
+SUBJECT:  Animals in the Workplace
+
+DATE:             February 2017     March 2017
+
+I. PURPOSE
+
+It is Clatsop County’s policy to provide a safe and healthy work environment for all
+employees and visitors. In accordance with this, animals are prohibite d from all Clatsop
+County facilities with the exception of authorized service animals and working animals as
+defined below.
+
+II.  POLICY
+
+In addition to providing a safe and healthy  work environment, this policy responds to
+concerns for providing a professional and conducive work environment . Further, it limits
+potential distractions and disturbances in the workplace . This policy provides for the
+health and safety of employees and County facilities by restricting animals in the
+workplace as follows:
+1. Unauthorized animals are not permitted in County workplace areas.
+2. Employees and visitors are reminded that bringing a pet to work and leaving them in
+a car is neither appropriate, nor safe and is prohibited is some jurisdictions.  Animals
+left in a vehicle or oth erwise unattended may be reported to the appropriate local
+authorities. Efforts may be made to reach the person prior to contacting authorities i f
+the vehicle or pet can be identified as belonging to a specific employee.
+3. In order to accommodate individuals  with disabilities, service animals are expressly
+permitted in all areas in the workplace.
+4. Employees who are in need of a service animal must obtain authorization through
+the job accommodation process prior to bringing the animal to the worksite.
+5. Instructional program animals (such as Fidelco Guide dogs) may be permitted on a
+limited case -by-case basis, and only if approved in advance by the County
+Manager.
+6. In all cases, only clean, trained, well -behaved, non-aggressive animals are allowed,
+and they are to be leashed and kept under control at all times.
+
+CLATSOP COUNTY ADMINISTRATIVE POLICY NO. A-34
+March 2017 CLATSOP COUNTY Page A-34
+ ADMINISTRATIVE POLICY & PROCEDURE
+
+7. It is the animal owner's responsibility to ensure that animals relieve themselves
+outside and owners should not call upon co-workers or facilities staff.
+8. Working animals are permitted under the direction of the Sheriff’s Office.
+9. Individuals are reminded not to touch, feed or pet a service or working animal when
+the animal is working as it distracts the animal from the task at hand.
+This Policy shall apply to all employees, contractors , vendors and visitors of Clatsop County
+and shall cover all areas of business operations of Clatsop County.
+"Facility" means any Clatsop County owned or leased facility  excluding County parks, Fair &
+Expo grounds and the Animal Shelter..
+"Service Animals " refers to animals (prima rily dogs) used to guide or provide assistance to
+persons with disabilities in the activities of independent living. The Americans with Disabilities
+Act (ADA) defines service animals as any animal individually trained to do work or perform tasks
+for the be nefit of an individual with a disability. If an animal meets this broad definition, it is
+considered a service animal.
+"Working Animals" refers to those animals engaged in authorized service to the corporation
+(e.g., guard dogs, pest control animals, police dogs).
+
+IV. VIOLATIONS
+
+Violation of this policy shall be a basis for discipline up to and including termination.
+Discipline is in addition to, and not in lieu of, any criminal or other action that may
+occur if any reports are provided to local authoriti es. Violation of this policy may be
+deemed malfeasance or willful or wanton neglect of duty, in which case the County
+may decline to indemnify and defend an employee in a civil suit relating to the employee
+violating this policy.

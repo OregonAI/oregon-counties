@@ -159,9 +159,31 @@ def sniff(body: bytes, declared: str | None = None) -> str:
         return "json"
     if head[:5].lower() == b"<?xml":
         return "xml"
+    # Office documents. `\xd0\xcf\x11\xe0` is the OLE compound-file header (.doc/.xls);
+    # a ZIP magic with `word/` or `[Content_Types]` inside is OOXML (.docx/.xlsx).
+    #
+    # These MUST be detected rather than left to the declared format, because the fallback
+    # below trusts the manifest — and a .doc handed to the PDF extractor raises
+    # `PdfStreamError: Stream has ended unexpectedly`, which reads like a corrupt download
+    # rather than a file we simply cannot parse. Sherman publishes its permit APPLICATION
+    # FORMS as .doc alongside its land-use PDFs; six of them failed that way.
+    if body.startswith(b"\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1"):
+        return "doc"
+    if body.startswith(b"PK\x03\x04") and (b"word/" in body[:4000]
+                                            or b"[Content_Types]" in body[:4000]):
+        return "docx"
     if b"<html" in head.lower() or b"<!doctype html" in head.lower():
         return "html"
+    # The declared format is the LAST resort, not the first. Trusting it over the bytes is
+    # how a PDF served from an extensionless URL gets HTML-to-text run over it and reports
+    # CHANGED on every run forever — and how a .doc reaches the PDF parser.
     return (declared or "html")
+
+
+# Formats this corpus has no extractor for. Reported by name rather than attempted, so the
+# log says "we cannot read this" instead of raising a parser error that reads like a corrupt
+# download. These are overwhelmingly application forms rather than law.
+UNSUPPORTED = {"doc", "docx", "xls", "xlsx"}
 
 
 def recorded_retrieved(doc_path: pathlib.Path) -> str | None:
