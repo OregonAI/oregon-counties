@@ -109,14 +109,38 @@ PROFILE = {
                 "Deschutes County Code Titles 18-23 (zoning, comprehensive plan) live in the "
                 "same SPA as the rest of the code, so the same limitation applies. The "
                 "land-use ORDINANCES are present in `orders`.")},
+        # CORRECTED 2026-08-01, after actually browsing the repository instead of
+        # inferring from the robots file. The earlier reason said the disallow blocks this
+        # family. That was too broad and it hid the more useful finding.
+        #
+        # weblink.deschutes.org/robots.txt disallows exactly four paths:
+        #     /MyWebLink.aspx  /Login.aspx  /Search.aspx  /DocView.aspx
+        # `/Browse.aspx` is NOT among them, so browsing the repository is permitted. Browsed
+        # it (the listing is client-side, so rendered): PUBLIC-Administration holds Audit
+        # Committee Minutes, BOCC Meetings, Internal Audit Reports and one code-information
+        # document. THE PUBLIC RECORDS POLICY IS NOT IN THE PUBLIC REPOSITORY AT ALL.
+        #
+        # Two separate facts, and conflating them was the error:
+        #   1. The policy is not published here — a finding about what Deschutes posts.
+        #   2. The documents that ARE here require /DocView.aspx, the one retrieval path
+        #      the county disallowed — a rule we honour.
+        #
+        # The county's own site compounds this: /292/Public-Records-Requests refers
+        # repeatedly to "the County's policy relating to submittal" and links no document.
+        # So Deschutes plainly HAS a public records policy — its website enforces it — and
+        # has not posted it. That is neither an absence at the county nor a wall we could
+        # pass, and PLAN.md's Phase 12 Done-when named this exact document before anyone
+        # checked whether it existed.
         "policies": {
             "skip": (
-                "Personnel rules and internal policy are in Laserfiche WebLink, whose "
-                "robots.txt disallows /DocView.aspx and /Search.aspx — the retrieval path "
-                "itself. This is the county's own document system stating a rule about its "
-                "own site, which is a different thing from a code vendor asserting rights "
-                "over public law, and it is honoured. Procurement solicitations are on "
-                "BidLocker, a third party, and are not policy.")},
+                "NOT PUBLISHED, and separately NOT RETRIEVABLE. Browsing Laserfiche is "
+                "permitted (/Browse.aspx is not in the four-path disallow list) and shows "
+                "the public records policy is not in the public repository — only audit "
+                "minutes, BOCC meetings and audit reports. Those documents in turn require "
+                "/DocView.aspx, which the county DOES disallow and which is honoured. The "
+                "county's own site cites the policy without linking it. Deschutes has this "
+                "policy; it has not posted it. Procurement solicitations are on BidLocker, "
+                "a third party, and are not policy.")},
     },
 }
 
