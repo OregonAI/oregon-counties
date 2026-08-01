@@ -32,11 +32,11 @@ relationships:
     - ORS 223.505
     - ORS 223.770
     - ORS 275.320
-    - ORS 27913.060
-    - ORS 27913.235
     - ORS 279A.025
+    - ORS 279B.060
     - ORS 279B.065
     - ORS 279B.085
+    - ORS 279B.235
     - ORS 279C.440
     - ORS 279C.800
     - ORS 279C.850
@@ -46,8 +46,8 @@ relationships:
     - ORS 316.167
     - ORS 34.010
     - ORS 466.005
-    - ORS 47513.486
-    - ORS 47513.928
+    - ORS 475B.486
+    - ORS 475B.928
     - ORS 609.163
     - ORS 656.017
     - OAR 137-047-0700

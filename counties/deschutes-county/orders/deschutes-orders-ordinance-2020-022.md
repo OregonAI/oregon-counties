@@ -44,7 +44,6 @@ relationships:
     - ORS 358.480
     - ORS 454.695
     - ORS 459.245
-    - ORS 46813.095
     - ORS 468B.095
     - ORS 517.750
     - ORS 520.005

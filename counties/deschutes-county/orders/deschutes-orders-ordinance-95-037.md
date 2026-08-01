@@ -29,7 +29,7 @@ relationships:
     - ORS 454.695
     - ORS 454.705
     - ORS 454.755
-    - ORS 46813.055
+    - ORS 468B.055
   related: []
   supersedes: []
 tags: [deschutes-county, orders]

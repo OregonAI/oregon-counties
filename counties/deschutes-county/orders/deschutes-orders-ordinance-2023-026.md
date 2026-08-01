@@ -24,11 +24,11 @@ relationships:
   implements: []
   implemented_by: []
   references_external:
-    - ORS 2798.065
-    - ORS 2798.080
-    - ORS 2798.085
+    - ORS 279B.065
     - ORS 279B.070
     - ORS 279B.075
+    - ORS 279B.080
+    - ORS 279B.085
   related: []
   supersedes: []
 tags: [deschutes-county, orders]

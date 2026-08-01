@@ -1,0 +1,97 @@
+# Citations whose chapter letter the source PDF's own text layer decodes as digits.
+#
+# NOT hand-written and NOT a find-and-replace of 13 -> B. Every `printed` value below
+# was read off the page rendered at 300dpi by ocrmypdf/tesseract and PaddleOCR
+# independently, with both engines required to agree, the section number required to
+# match exactly, and the recovered chapter's digits required to open the broken
+# chapter's digits. Written by src/relayer_citations.py; consumed by
+# src/link_citations.py so it survives regeneration. See oregon-counties#10.
+#
+# The verbatim `## Full text` of these documents is UNCHANGED and still shows the
+# malformed citation, because that is what the county's file says.
+
+documents:
+  - document: deschutes-orders-ordinance-2008-023
+    source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617024603_2008-769-Ordinance%20No.%202008-023%20Recorded%207_29_2008.pdf
+    citations:
+      - extracted: ORS 27913.050
+        printed: ORS 279B.050
+        page: 9
+        engines: [ocrmypdf/tesseract, PaddleOCR PP-OCRv6]
+      - extracted: ORS 27913.065
+        printed: ORS 279B.065
+        page: 10
+        engines: [ocrmypdf/tesseract, PaddleOCR PP-OCRv6]
+      - extracted: ORS 27913.400
+        printed: ORS 279B.400
+        page: 14
+        engines: [ocrmypdf/tesseract, PaddleOCR PP-OCRv6]
+  - document: deschutes-orders-ordinance-2009-014
+    source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617027888_2009-1291-Ordinance%20No.%202009-014%20Recorded%206_24_2009.pdf
+    citations:
+      - extracted: ORS 46813.095
+        printed: ORS 468B.095
+        page: 4
+        engines: [ocrmypdf/tesseract, PaddleOCR PP-OCRv6]
+  - document: deschutes-orders-ordinance-2010-022
+    source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617038711_2010-2760-Ordinance%20No.%202010-022%20Recorded%207_28_2010.pdf
+    citations:
+      - extracted: ORS 46813.095
+        printed: ORS 468B.095
+        page: 6
+        engines: [ocrmypdf/tesseract, PaddleOCR PP-OCRv6]
+  - document: deschutes-orders-ordinance-2012-007
+    source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617041496_2012-1583-Ordinance%20No.%202012-007%20Recorded%205_7_2012.pdf
+    citations:
+      - extracted: ORS 46813.095
+        printed: ORS 468B.095
+        page: 5
+        engines: [ocrmypdf/tesseract, PaddleOCR PP-OCRv6]
+  - document: deschutes-orders-ordinance-2020-005
+    source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1618198524_2020-410-Ordinance%20No.%202020-005%20Recorded%2012_10_2020.pdf
+    citations:
+      - extracted: ORS 27913.060
+        printed: ORS 279B.060
+        page: 44
+        engines: [ocrmypdf/tesseract, PaddleOCR PP-OCRv6]
+      - extracted: ORS 27913.235
+        printed: ORS 279B.235
+        page: 50
+        engines: [ocrmypdf/tesseract, PaddleOCR PP-OCRv6]
+      - extracted: ORS 47513.486
+        printed: ORS 475B.486
+        page: 87
+        engines: [ocrmypdf/tesseract, PaddleOCR PP-OCRv6]
+      - extracted: ORS 47513.928
+        printed: ORS 475B.928
+        page: 88
+        engines: [ocrmypdf/tesseract, PaddleOCR PP-OCRv6]
+  - document: deschutes-orders-ordinance-2020-022
+    source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1617130529_2020-172-Ordinance%20No.%202020-022%20Recorded%205_21_2020.pdf
+    citations:
+      - extracted: ORS 46813.095
+        printed: ORS 468B.095
+        page: 23
+        engines: [ocrmypdf/tesseract, PaddleOCR PP-OCRv6]
+  - document: deschutes-orders-ordinance-2023-026
+    source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1704297609_2023-391-Ordinance%20No.%202023-026%20Recorded%2012182023.pdf
+    citations:
+      - extracted: ORS 2798.065
+        printed: ORS 279B.065
+        page: 4
+        engines: [ocrmypdf/tesseract, PaddleOCR PP-OCRv6]
+      - extracted: ORS 2798.080
+        printed: ORS 279B.080
+        page: 4
+        engines: [ocrmypdf/tesseract, PaddleOCR PP-OCRv6]
+      - extracted: ORS 2798.085
+        printed: ORS 279B.085
+        page: 4
+        engines: [ocrmypdf/tesseract, PaddleOCR PP-OCRv6]
+  - document: deschutes-orders-ordinance-95-037
+    source_url: https://s3-us-west-2.amazonaws.com/municipalcodeonline.com-new/deschutescounty/ordinances/documents/1616708175_1995-14590-Ordinance%20No.%2095-037%20Recorded%205_4_1995.pdf
+    citations:
+      - extracted: ORS 46813.055
+        printed: ORS 468B.055
+        page: 28
+        engines: [ocrmypdf/tesseract, PaddleOCR PP-OCRv6]
