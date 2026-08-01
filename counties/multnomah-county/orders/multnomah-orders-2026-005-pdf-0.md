@@ -1,0 +1,4696 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-2026-005-pdf-0
+title: '2026-005.Pdf-0'
+doc_type: ordinance
+citation: '2026-005.Pdf-0'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/2026-005.pdf-0/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 3ff9314d09df6782d9a03299a444f34a8e0672ec9ab2c0bcd500307338e084d9
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 2026-005.Pdf-0 (2026-005.Pdf-0)
+
+## At a glance
+
+2026-005.Pdf-0 — orders of Multnomah County. 69 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+
+RESOLUTION NO. ______
+
+Adopting the East Multnomah County Transportation Safety Action Plan.
+
+The Multnomah County Board of Commissioners Finds:
+
+A. Multnomah County in partnership with the cities of Fairview, Gresham, Troutdale, and
+Wood Village have completed a Transportation Safety Action Plan (TSAP) for urban East
+Multnomah County that was funded by Metro with a Safe Streets for All federal grant;
+
+B. Many of the major roadways in urban East Multnomah County are designated as High
+Injury Corridors, meaning these roadways are where the highest concentrations of fatal
+and serious injury traffic crashes occur in the Portland Metro region;
+
+C. Between 2013 and 2022, 473 people were seriously injured and 104 people lost their
+lives on East Multnomah County roads;
+
+D. Over 3,000 community members provided feedback during development of the TSAP
+about their experiences on East Multnomah County roads and their support for various
+safety improvements. A resounding theme was the need for safer conditions for those
+who are walking, rolling, and biking, with 45% of survey respondents feeling
+uncomfortable or very uncomfortable walking or rolling, and 49% feeling the same about
+biking;
+
+E. The Multnomah County Bicycle and Pedestrian Community Advisory Committee
+provided input in developing the TSAP and voted in support of the plan at their
+December 2025 meeting;
+
+F. The East Multnomah County Transportation Committee (EMCTC) served as the steering
+committee for the TSAP. EMCTC endorsed the TSAP in December 2025 and set a
+shared Vision Zero Goal to eliminate all traffic fatalities and serious injuries in East
+Multnomah County by 2035; and
+
+G. The TSAP includes a list of actions and next steps for implementation that provides a
+coordinated strategy for the County, East County cities, and community partners to work
+toward achieving the Vision Zero Goal.
+
+The EMCTC Resolves:
+
+1. To adopt the East Multnomah County Transportation Safety Action Plan as included in
+Exhibit A.
+
+ADOPTED this __ day of _______, 20__.
+
+15th
+January
+2026-005
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+SUBMITTED BY:  Margi Bradway, Director, Department of Community Services
+East Multnomah County
+Transportation Safety
+Action Plan
+Winter 2025
+Photo Credit: Jonathan Maus/BikePortland
+Disclaimer
+Achieving Vision Zero through
+the Safe System Approach is a
+shared responsibility - government
+at all levels, law enforcement,
+industry, nonprofit and advocacy
+organizations, and individuals have
+a role in making our roadways
+safer for everyone. Successful
+implementation of the actions in this
+Plan is dependent upon available
+funding and participation of the
+partnering agencies in collaboration
+with community partners.
+Visit the project website for plan summaries in English, Spanish, Ukrainian, Russian,
+Vietnamese, and Chinese.
+503-823-4000  Traducción e Interpretación | Biên Dịch và Thông Dịch | 口笔译服务 | Устный иписьменный перевод
+| Turjumaad iyo Fasiraad | Письмовий і усний переклад |Traducere și interpretariat | Chiaku me Awewen Kapas |
+अन ुवादन तथा व् याख् या
+Table of Contents
+Introduction and Vision ......................... 1
+A Call to Action to Save Lives
+One Traffic Death Is Too Many
+Vision Zero
+Safe System Approach
+Community Engagement ........................ 6
+Your Voice Matters!
+Understanding Transportation Safety Today..... 12
+Data Reveals Why and Where Crashes Are Happening
+Taking Action to Improve Our Streets ........... 27
+Creating Priority Safety Corridors
+Safety Improvements in East County
+Achieving Zero Traffic Deaths................... 44
+Where Do We Start?
+Quick-Build and Demonstration Projects:
+A Tool for Immediate Safety Action
+Toolbox of Quick-Build Treatments for Arterial and
+Collector Roads
+Visit the project webpage to review planning process
+reference documents:
+• Plan Review
+• Safety Analysis
+• Community Engagement Summary
+This project was funded by a Safe Streets and Roads for All federal grant awarded to Metro.
+Introduction
+and Vision
+We are committed to creating a transportation
+system in East Multnomah County where everyone—
+regardless of how they travel—can move safely and
+confidently.
+We recognize that traffic deaths and serious injuries
+are preventable and unacceptable. As part of the
+Transportation Safety Action Plan (TSAP), we resolve to
+take bold, data-driven, and community-informed actions
+to eliminate fatal and life-altering crashes in urban East
+Multnomah County, which includes the parts of East
+Multnomah County incorporated within the cities of
+Gresham, Troutdale, Fairview, and Wood Village.
+We will collaborate to prioritize investments in high-risk
+corridors and implement proven safety strategies by
+focusing on communities. Our approach will be guided
+by the Safe System principles and aligned with the Vision
+Zero goal (see “Safe System Approach”).
+Who Are “We?”
+In this TSAP , “we” refers to Multnomah County and its
+partner jurisdictions in the urban east county: the Cities
+of Gresham, Troutdale, Fairview, and Wood Village (see
+Figure 1). This plan reflects our commitment to work
+collaboratively to improve safety in our communities.
+A Call to Action to Save Lives
+A Vision Zero Goal for
+East Multnomah County
+EMCTC has collaborated to create this goal
+based on data and community engagement and
+recommends adoption by the County and Cities in East
+Multnomah County:
+East Multnomah County
+Transportation Committee (EMCTC) is
+committed to the goal of eliminating
+all traffic fatalities and serious
+injuries in East Multnomah County
+by 2035. No loss of life is acceptable,
+and we must ensure our streets are
+safe for all community members to
+travel, including those who walk, use
+bicycles, take transit, or use mobility
+devices.
+Between 2013 and 2022 on our roads...
+473 people
+were seriously
+injured
+104 people
+lost their lives
+The number of
+people killed or
+seriously injured in
+crashes was almost
+three times higher
+in 2022 than 2013.
+People walking,
+biking and using
+a motorcycle are
+much more likely
+to be involved in a
+serious injury
+or fatality than
+people driving
+INTRODUCTION AND VISION   |   2
+/gid00039/gid00034/gid00042/gid00051/gid00055/gid00042/gid00038/gid00056
+/gid00040/gid00051/gid00038/gid00052/gid00041/gid00034/gid00046
+/gid00049/gid00048/gid00051/gid00053/gid00045/gid00034/gid00047/gid00037
+/gid00053/gid00051/gid00048/gid00054/gid00053/gid00037/gid00034/gid00045/gid00038
+/gid00056/gid00048/gid00048/gid00037/gid00001/gid00055/gid00042/gid00045/gid00045/gid00034/gid00040/gid00038
+¥84
+¥84
+SW BUTLER RD
+SW
+TOW
+LE
+AVE
+SW
+EAS
+TMAN
+PKWY
+SERO
+BER
+TSAV
+E
+NW DIVISION ST
+NE
+223RD
+AVE
+NE
+FAIRVIEW
+PKWY
+NE HALSEY ST
+NE
+181ST
+ AVE
+NE GLISAN ST
+SW
+PL
+EASA
+NTVIEW
+DR
+SE
+KANE
+DR
+N
+MAIN
+AVE
+SE
+PALMBL
+AD
+RD
+SE DIVISION ST
+NE
+238
+TH
+DR
+NW MARINE DR
+NW
+EASTM
+AN
+PKW
+Y
+SE POWELL
+E BURNSIDE ST
+NE SANDY BLVD
+E POWELL BLVD
+SE
+HOGAN
+RD
+EVA DN281 ES
+SW HALSEY ST
+SE
+223RD
+AVE
+SE PALMQUIST RD
+SW
+HIGHLAND
+DR
+NW BURNSIDE RD
+NE
+HO
+GA
+N
+DR
+WPOWELL BLVD
+SW
+257TH
+AVE
+NE
+KAN
+EDR
+S
+TROUTDALE
+RD
+NEBLUE LAKE RD
+SERE
+GNER
+RD
+NE BURNS
+IDE RD
+SE 11TH ST
+SE
+FOST
+ERRD
+Figure 1. Project Area Map
+INTRODUCTION AND VISION   |   3
+One Traffic Death Is Too Many
+This TSAP is dedicated to those who have lost
+their lives or been seriously injured on urban
+East Multnomah County streets, and to their
+families and friends.
+For our communities, even one traffic fatality is not
+acceptable. Crash data from 2013 to 2022 shows that the
+injury severity from crashes in East Multnomah County
+has increased, especially in 2021 and 2022 (see Figure
+2). The data also reveals that bicyclists, motorcyclists,
+and pedestrians are more likely to be killed or seriously
+injured in a crash (see Figure 3). We created this TSAP to
+prevent deaths and life-altering injuries from happening.
+Walking, rolling, and driving can become safer through
+roadway design measures, education to improve
+behavior, enforcement, and regional collaboration.
+Figure 2. Fatal and Serious Injury Crashes in East
+Multnomah County, 2013–2022
+Figure 3. Injuries and Fatalities from Crashes by Mode
+in East Multnomah County, 2013–2022
+0
+20
+40
+60
+80
+100
+120
+140
+Killed or Seriously Injured Crashes Over Time
+2013
+37 41
+53 56
+47 46
+55 51
+75
+116
+2014 2015 2016 2017 2018 2019 2020 2021 2022
+Number of Fatal and Serious Injury Crashes
+Crash Injury Severity by Mode
+Car
+ Fatal Serious Injury Minor Injury Possible Injury
+Bicycle Motorcycle Walk
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%Percent of total crashes
+This chart shows the share of injury type by mode. It shows
+that crashes involving bicycles, motorcycles, and pedestrians
+are more likely to result in a fatality or serious injury.
+Police-Reported Classifications (KABCO Scale)
+The KABCO scale is the nationally recognized standard
+used by police officers at the scene of a crash to classify
+injuries.
+K (Fatal): An injury that results in death within 30 days of
+the crash.
+A (Serious Injury): Any injury that prevents the person
+from performing normal activities they could do before
+the crash. This can include severe wounds, crushed
+injuries, or being unconscious.
+B (Minor Injury): Any non-incapacitating injury that is
+evident to a person other than the injured person, such as
+major abrasions or visible bruising.
+C (Possible Injury): Potential injuries indicated by the
+person’s behavior or claim of pain, but not visible at the
+scene.
+O (No Apparent Injury): The person does not claim
+injury and shows no visible signs of injury.
+Note: East Multnomah County crash data for 2013 - 2022 is
+from ODOT and Multnomah County.
+INTRODUCTION AND VISION   |   4
+Vision Zero
+Vision Zero is a transformational
+shift in how to approach street
+design and traffic safety. It is
+rooted in the belief that traffic
+deaths are preventable and that it
+is important to continuously strive
+for zero traffic deaths. Vision Zero
+means shifting our focus from
+prioritizing moving vehicles to
+prioritizing moving people safely.
+Communities across the nation have
+established a Vision Zero goal, and
+have seen fewer deaths and injuries
+on their roadways.*
+Why Vision Zero?
+Since 2013, 104 people have lost
+their lives and 473 people have
+been seriously injured in traffic
+collisions on roads in urban East
+Multnomah County. This TSAP is the
+result of an organized and collective
+call to action.
+Safe System Approach
+Vision Zero uses the Safe System Approach, which recognizes that
+humans sometimes make mistakes, and that the human body has a
+limited ability to tolerate the force of a crash. Therefore, transportation
+systems should be designed so that mistakes do not result in deaths.
+This new approach focuses on roadway designs that anticipate human
+mistakes and reduce the risks of a crash, while also minimizing the risk of
+a serious injury or fatality when crashes do take place.** This approach is
+different because it focuses on shared responsibility for change instead
+of individual behavior.
+Safe Road Users. People living, working, or traveling in urban East
+Multnomah County should be safe walking, biking, rolling, taking
+transit, or driving.
+Safe Vehicles. Promote vehicle designs and regulations that minimize
+crashes, reduce severity, and incorporate safety measures using the
+latest technology.
+Safe Speeds. Slower travel speeds help save lives and reduce the risk of
+a life-altering injury or death.
+Safe Roads. Design roads so that human error does not result in the loss
+of human life.
+Post-Crash Care. When crashes do occur, reduce harm by providing
+rapid access to emergency medical care and analyzing data to support
+system improvements.
+Safe
+Speeds
+Post-Crash
+Care
+Safe
+Roads
+Safe
+Vehicles
+Safe Road
+Users
+THE
+SAFE SYSTEM
+APPROACH
+*World Resources Institute and
+Global Road Safety Facility,
+Sustainable and Safe: A Vision and
+Guidance for Zero Road Deaths,
+2017, www.wri.org/research/
+sustainable-and-safe-vision-
+and-guidance-zero-road-deaths .
+**For more information about Safe Systems Approach visit: Zero Deaths
+and Safe System | FHWA
+INTRODUCTION AND VISION   |   5
+Community
+Engagement
+Your Voice Matters!
+Community
+Engagement Approach
+Community feedback is critical to understanding
+transportation safety issues and informing high-impact
+recommendations and action items for this TSAP . To
+find out what challenges and barriers affect people
+traveling in East Multnomah County, we engaged over
+3,000 community members, including underserved
+populations, about their experiences walking, rolling,
+biking, driving, and taking public transit.
+To maximize the reach and depth of public feedback,
+we used the following three-phase approach for
+community engagement:
+PHASE I: Listen and Learn
+In this phase, we heard about residents’ transportation
+safety concerns, needs, and visions for the future. We
+cast a wide net to reach as many people as possible by
+attending community events, conducting a survey, and
+hosting focus groups in multiple languages.
+PHASE 2: Reflect and Dive In
+This phase gave the public opportunities to learn about
+and refine preliminary goals and recommendations.
+We also shared how their Phase 1 feedback shaped
+those recommendations. During this phase, we tabled
+at in-person events with interactive poster boards and
+hosted a survey and virtual open house website using the
+StoryMap platform.
+PHASE 3: Refine
+The purpose of this phase was to provide opportunities
+for the public and partners to review the draft TSAP .
+We reconnected with project participants to share and
+get any final ideas about the draft plan document and
+planned strategies and actions to make streets safer.
+Phase 1 Public Input Map with many comments.
+COMMUNITY ENGAGEMENT   |   7
+Figure 4. Interactive Map Comments
+FAIRVIEW
+GRESHAM
+PORTLAND
+TROUTDALE
+WOOD
+VILLAGE
+¥84
+NE
+162ND
+AVE
+SW BUTLER RD
+SE SWE ETBRI A RRD
+SE 302ND AVE
+SW
+TO
+W
+LE
+AVE
+SW
+EAS
+TMA
+NPKW
+Y
+S E KERSLAKE RD
+SE LUSTED RD
+HWY 26
+HWY 26
+FAIR
+VIEW
+PKW
+Y
+172ND AVE
+STARK ST
+STARK
+S
+T
+HALSEY ST
+257TH
+AVE
+160TH AVE
+238TH DR
+MASON ST
+SANDY BLVD
+201ST AVE
+BIRDSDALE AVE
+WALLULA AVE
+MARINE DR
+WB HWY I84
+GLISAN ST
+STONE RD
+223RD AVE
+CLEVELAND AVE
+182ND AVE
+HOGAN
+DR
+BURNSIDE ST
+181ST AVE
+DIVISION ST KANE
+DR
+FO
+STERRD
+174TH AVE
+148TH AVE
+HOGAN
+RD
+AIRPORT WAY
+BURNSIDE RD
+162ND AVE
+0 1 2½ MILES
+All Comments
+Dense
+Sparse
+Columbia River
+This map illustrates the interactive map comments about different types of safety issues for all modes of transportation.
+Which illustrates general high safety need areas from the public perspective.
+COMMUNITY ENGAGEMENT   |   8
+Bringing a Wide Audience to the Planning Process
+We provided a mix of virtual and in-person opportunities
+to meaningfully involve a wide audience in the TSAP
+process. The project team also worked with Community
+Engagement Liaisons (CELs)—community engagement
+experts with ties to underserved communities in the
+area—to hold listening sessions with speakers of
+Russian, Vietnamese, Mandarin Chinese, and Spanish
+as well as low-income transit riders and cyclists. We
+also interviewed community partners from community
+groups in the area.
+Engagement Highlights
+18
+In-Person Tabling
+Events
+
+Virtual Open House Visitors
+• English: 1,844
+• Spanish: 172
+• Russian: 136
+• Mandarin Chinese: 115
+• Ukrainian: 105
+• Vietnamese: 87
+81
+Participants in
+Community Listening
+Sessions*
+8
+Interviews with
+Organizations
+1,298
+Phase 1 Participants
+310
+Phase 2 Participants
+Participants attend Listening Session 1.
+*English, Spanish, Vietnamese, Mandarin Chinese,
+Russian
+COMMUNITY ENGAGEMENT   |   9
+What We Heard
+ Widespread Safety
+Concerns
+Residents expressed strong concerns about unsafe
+conditions for walking, biking, and rolling—especially
+along high-injury corridors (HICs). Older adults, people
+with disabilities, and transit users reported feeling
+particularly vulnerable.
+“All the busy roads make it hard to make my bus
+transfers, sometimes there’s no crosswalk that gets
+there and I have to run. I feel the most unsafe in the
+winter when it’s dark.”
+ Strong Support for
+Safety Improvements
+Community members overwhelmingly supported
+strategies like improving sidewalks and lighting (81%),
+reducing speed limits (66%), and funding safety
+education programs (78%). There was also broad support
+for making biking safer (68%) and reallocating street
+space for safety (62%). Some community members
+called for a fundamental shift in transportation planning,
+emphasizing multimodal design, increased density, and
+reduced reliance on cars.
+“We need more than an attempt to make 5-lane
+roads safer—we need systemic change to how we
+design our cities.”
+“Most folks drive too fast. Any methods or
+improvements to help slow traffic down would be
+appreciated.”
+ Top Infrastructure and
+Behavior Issues
+The most cited infrastructure concerns were poorly
+maintained or missing sidewalks, bike lanes, difficult
+crossings, and inadequate lighting. Behavior concerns
+included distracted driving, aggressive driving, speeding,
+and failure to yield to pedestrians and cyclists.
+“Drivers don’t understand that any intersection is a
+crosswalk—not just marked ones.”
+ Shared Concerns Across
+Communities
+Listening sessions with Slavic, Vietnamese, Chinese,
+Spanish-speaking, and underserved English-speaking
+communities revealed shared concerns about lighting,
+sidewalk conditions, reckless driving, and lack of
+enforcement. Many participants supported safety
+improvements but had mixed views on reallocating
+road space. Community members also brought up the
+importance of ADA (Americans with Disabilities Act)
+compliant infrastructure, especially near schools and transit
+stops.
+As a driver, I especially worry about visibility of bikes
+and pedestrians.
+ Safety Needs Around Schools
+Youth participants spoke about poor lighting, sidewalk
+obstructions, and speeding near schools. Community
+partners shared the need for better infrastructure,
+education, and coordination—especially in areas with high
+social vulnerability.
+Support for Safe Routes
+to School
+Community members are interested in local jurisdictions
+implementing and supporting existing programs that
+improve roadway safety. They support seeking long-term
+funding for the East Multnomah County Safe Routes to
+School Program.
+Automated Traffic Enforcement
+Automated enforcement with speed safety
+cameras was the most popular policy and
+programmatic action in our Phase 2 community survey.
+Which Corridors Are Safety
+Priorities
+Community members provided input on where safety can
+be improved. We gathered this input and combined it with
+a safety analysis of crash records between 2013 and 2022
+to identify priority safety corridors (see more details about
+priority safety corridors on page 28).
+We also asked what safety improvements should be
+made for each corridor. The most frequently supported
+improvements were pedestrian crossing enhancements,
+street lighting, traffic signal improvements, sidewalks, and
+accessibility improvements.
+COMMUNITY ENGAGEMENT   |   10
+Project staff interact with community members at the Rock
+the Block Event in Rockwood.
+COMMUNITY ENGAGEMENT   |   1 1
+Understanding
+Transportation
+Safety Today
+Data Reveals Why and Where Crashes Are
+Happening
+A comprehensive safety analysis serves as
+the foundation of this TSAP. We analyzed
+over 9,000 crash records between 201 3 and
+2022 to better understand where and how
+transportation safety can be improved in East
+Multnomah County.
+Systemic Safety Analysis
+Approach
+Some streets are more dangerous than others.
+To prioritize safety improvements, it is essential to first
+know where the most severe crashes occur or have the
+potential to occur. The systemic safety analysis examined
+roadway characteristics and contributing crash factors to
+identify patterns and proactively determine where safety
+improvements should be prioritized to prevent future
+severe crashes.
+Crashes and High-Injury
+Corridors
+Metro (the planning organization for the Portland
+metropolitan region) identified corridors with the
+highest concentration of fatal or serious injury crashes
+throughout the region, defining these corridors as high-
+injury corridors (HICs). The HIC analysis included in this
+plan used the most recent HICs available during the TSAP
+planning process and compared roads over one mile long
+in East Multnomah County. Metro regularly updates the
+HICs as more recent crash data becomes available. Three
+HIC layers were developed—one focusing on crashes
+involving people walking, one focusing on crashes
+involving people biking, and one focusing on all crashes
+(Figure 5). This plan uses Metro’s HICs as a starting point
+to identify roads with safety issues.
+Most of the arterial roads in East Multnomah County are
+HICs. These corridors serve as the main connecting grid to
+meet the needs of community members walking, rolling,
+or taking transit as well as those traveling in their cars and
+moving freight through the area.
+In an average year,
+58 people
+are killed or severely injured in East
+Multnomah County (2013-2022)
+7 people riding
+motorcycles
+38 people driving or
+riding in a car
+1 1 people walking
+2 people biking
+UNDERSTANDING TRANSPORTATION SAFETY TODAY   |   13
+Figure 5. East Multnomah County High-Injury Corridors
+High injury corridors (HICs) are roadways in the region where the highest
+concentrations of crashes involving a motor vehicle occur.
+This map shows that many of the major streets in East Multnomah County
+are dangerous for people traveling around by car, walking, or rolling.
+Bike corridors have the highest
+concentrations o f crashes  between mo tor
+vehicles  and p eople b iking.
+Pedestrian corridors have the  highest
+concentrations o f crashes  between mo tor
+vehicles  and peo ple walking.
+Pedestrian Bike
+High Injury Corridors
+MULTNOMAH COUNTY
+TRANSPORTATION SAFETY ACTION PLAN
+FAIRVIEW
+GRESHAM
+PORTLAND
+TROUTDALE
+WOOD VILLAGE
+¥84
+NE 162ND AVE
+SW BUTLER RD
+SES WEETBRIA R RD
+SE LUSTED RD
+SW T
+OW
+LE
+AVE
+SW
+EASTMA
+NPKWY
+MULTNOMAH COUNTY BOUNDARY
+STARK ST STARK ST
+STAR
+K S T
+HWY 26
+HWY
+26 HWY 26
+160TH AVE
+FAIRV
+IEW
+PKWY
+172ND AVE
+HALSEY ST
+HALSEY ST
+SANDY BLVD
+162ND AVE
+257T
+H
+AVE
+MARINE DR
+WB HWY I84
+GLISAN ST
+MASON ST
+2
+38
+TH DR
+201ST A
+VE
+BIRDSDALE AVE
+WALLULA AVE
+STONE RD
+223RD AVE
+FOST
+ER RD
+CLEVELAND AVE
+182ND AVE
+HOGAN
+DR
+BURNSIDE ST
+DIVISION ST
+AIRPORT
+WAY
+181ST AVE
+KANE DR
+174TH AVE
+HOGAN RD
+BURNSIDE RD
+162ND AVE
+DESTINATIONS + BOUNDARIES
+City Limits
+Parks + Open Space
+Project Area Boundary
+HIGH INJURY CORRIDORS
+Bike
+Pedestrian
+Vehicle
+Data provided by Metro, RLIS, and ODOT.
+HIGH INJURY
+CORRIDORS
+MUL TNOMAH COUNTY TSAP
+High injury corridors were evaluated at
+the Metro regional scale.
+These corridors have the h ighest
+concentrations of serious  or fatal
+crashes for all modes.
+All Modes
+UNDERSTANDING TRANSPORTATION SAFETY TODAY   |   14
+Speeding
+Excessive speeds, especially in areas with
+speed limits of 35 mph or higher:
+• Roads with a 35 mph speed limit make
+up only 1 1% of roadway miles but
+account for 66% of fatal and serious
+injury crashes.
+• Free-flow speed analysis shows typical
+travel speeds exceed posted limits by up
+to 5 mph on corridors like W. Powell Blvd
+and Columbia River Hwy.
+Intersections
+High incidence of bicycle, pedestrian, and
+motorcycle crashes caused by vehicles
+failing to yield:
+• 52% of pedestrian injury crashes were
+due to driver failure to yield. Drivers were
+responsible in 76% of those cases.
+• Bicycle and motorcycle crashes often
+involve turning vehicles.
+Midblock Crossing
+Lack of mid-block crosswalks increases risk
+for people crossing the street:
+• Mid-block crossing crashes are common
+near commercial areas and transit stops,
+where there are long distances between
+designated crossings.
+• 68 pedestrian-involved crashes occurred
+away from intersections, 60% of
+these were more than 200 feet from a
+crosswalk or signal.
+• High-risk areas include NE Burnside Rd
+and NE Division St (see Figure 6).
+Overall Safety Trends
+Peak Hours and Visibility
+Lighting conditions play a major role in crash
+severity, especially for people walking:
+• Crash severity spikes during winter
+months, afternoon rush hours and after
+dark (especially in November).
+• Of 160 pedestrian-involved crashes after
+dark, 86% occurred in areas with some
+street lighting.
+• High crash rates on SE 182nd Ave and NE
+181st Ave despite existing lighting (see
+Figure 7).
+Impaired Driving
+Drug and alcohol use greatly increases crash
+severity, particularly at night:
+• Substance-involved crashes are four
+times more likely to result in fatal or
+serious injuries. These crashes are
+most common between 7 PM and
+midnight and disproportionately affect
+pedestrians.
+• 84% of all fatal crashes after dark involve
+impairment.
+Road and Pathway Maintenance
+Poor conditions of roads, sidewalks, and
+bike lanes identified as a top safety concern
+in the community survey. Crashes often
+occur in areas with missing or inadequate
+pedestrian and bicycle infrastructure.
+UNDERSTANDING TRANSPORTATION SAFETY TODAY   |   15
+Figure 6. Crossing Safety Analysis
+This map shows where pedestrian crashes that are not at an intersection or crosswalk are occurring in relation to crossings in East
+Multnomah County. Red dots represent crashes withing 200 feet of a crossing, and teal dots represent those farther than 200 feet
+from a crossing. Numbers within black circles indicate the total number of all midblock pedestrian collisions. Crashes shown are
+categorized according to their distance from the nearest marked crossing, such as a signalized intersection or crosswalk.
+FAIRVIEW
+GRESHAM
+PORTLAND
+TROUTDALE
+WOOD VILLAGE
+¥84
+NE 162ND AVE
+SW BUTLER RD
+SES WEETBRIA R RD
+SE LUSTED RD
+SW
+TOW
+LE
+AVE
+SW
+EASTMANPKWY
+MULTNOMAH COUNTY BOUNDARY
+STARK ST STARK ST
+STAR
+K S T
+HWY 26
+HWY
+26 HWY 26
+160TH AVE
+FAIRVIEW
+PKWY
+172ND AVE
+HALSEY ST
+HALSEY ST
+SANDY BLVD
+162ND AVE
+257TH
+AVE
+MARINE DR
+WB HWY I84
+GLISAN ST
+MASON ST
+2
+38TH DR
+201ST
+AVE
+BIRDSDALE AVE
+WALLULA AVE
+STONE RD
+223RD AVE
+FOSTERRD
+CLEVELAND AVE
+182ND AVE
+HOGAN
+DR
+BURNSIDE ST
+DIVISION ST
+AIRPORTWAY
+181ST AVE
+KANE DR
+174TH
+AVE
+HOGAN
+RD
+BURNSIDE RD
+162ND
+AVE
+DESTINATIONS + BOUNDARIES
+City Limits
+Parks + Open Space
+Project Area Boundary
+HIGH INJURY CORRIDORS*
+Bike
+Pedestrian
+Vehicle
+Data provided by Metro, RLIS, and ODOT.
+0 0.5 1 MILES
+EAST MUL TNOMAH COUNTY
+TSAP
+HIGH INJURY
+CORRIDORS - EAST
+MULTNOMAH
+COUNTY
+*High injury corridors were evaluated at the East
+Multnomah County scale.
+UNDERSTANDING TRANSPORTATION SAFETY TODAY   |   16
+Data provided by the Oregon Department of Transportation
+and the City of Gresham.
+Figure 7. Lighting Safety Analysis
+FAIRVIEW
+GRESHAM
+PORTLAND
+TROUTDALE
+WOOD VILLAGE
+¥: 6
+¥: 6
+NE
+16
+2ND
+AVE
+SW BUTLER RD
+SESW EETBRIA R RD
+SW
+TO
+W
+LE
+AVE
+SW
+EA
+STMA
+NPKWY
+S E K ERSLAKE RD
+SE LUSTED RD
+SE
+RO
+BER
+TSAVE
+NW DIVISION ST
+NE
+223RD
+AVE
+NEFAIRVI
+EW
+PK
+W
+Y
+NE HALSEY ST
+NE
+181ST
+ AVE
+NE GLISAN ST
+SW
+PLEAS
+AN
+TVIEW
+DR
+SEKANE
+DR
+N
+M
+AIN
+AVE
+SE
+PALMBL
+AD
+RD
+SE DIVISION ST
+NE
+238
+TH
+DR
+NW
+MARINE DR
+NW
+EASTM
+AN
+PKW
+Y
+SE
+STARK
+ST
+EHIS
+TORIC
+COLUM
+B
+IA
+RIV ER HWY
+SE POWELL VALLEY RD
+E BURNSIDE ST
+NE SANDY BLVD
+E POWELL BLVD
+SE
+HOG
+AN
+RD
+EVA DN281 ES
+SE ORIENT
+DR
+SE
+TROUTDALE RD
+SW HALSEY ST
+SE
+223RD
+AVE
+NE DIVISIO
+NST
+SE
+190
+TH
+DR
+SE PALMQUIST RD
+SW
+HIGHLANDDR
+NW BURNSIDE RD
+NE
+HOGAN
+DR
+W POWELL
+BLVD
+SW
+25
+7TH
+AV
+E
+SE
+172ND
+AVE
+NE
+KANE
+DR
+NW
+CIVIC
+DR
+SE
+282ND
+AVE
+S
+TRO
+UTDALE
+RD
+NE
+BLUE LAKE RD
+NE MARINE DR
+SE
+REGNERRD
+NE
+JORD
+AN
+RD
+SE
+242ND
+AV
+E
+NE BURNSIDE RD
+SE 11TH ST
+SE
+FO
+STERRD
+SE DIVISION
+DR
+MULTNOMAH COUNTY BOUNDARY
+DESTINATIONS + BOUNDARIES
+City Limits
+Project Area Boundary
+Parks + Open Space
+LEGEND
+Lighting at Major Intersections
+Heavily Lit (4-8 light ﬁxtures)
+Moderately Lit (1-3 light ﬁxtures)
+No Lighting (0 light ﬁxtures)
+Many Collisions After Dark
+Few Collisions After Dark
+Data provided by Oregon Department of Transportation and the City of Gresham
+0 0.5 1 MILES
+MULTNOMAH COUNTY TSAP
+LIGHTING
+ANALYSIS
+FAIRVIEW
+GRESHAM
+PORTLAND
+TROUTDALE
+WOOD VILLAGE
+¥84
+NE 162ND AVE
+SW BUTLER RD
+SES WEETBRIA R RD
+SE LUSTED RD
+SW
+TOW
+LE
+AVE
+SW
+EASTMANPKWY
+MULTNOMAH COUNTY BOUNDARY
+STARK ST STARK ST
+STAR
+K S T
+HWY 26
+HWY
+26 HWY 26
+160TH AVE
+FAIRVIEW
+PKWY
+172ND AVE
+HALSEY ST
+HALSEY ST
+SANDY BLVD
+162ND AVE
+257TH
+AVE
+MARINE DR
+WB HWY I84
+GLISAN ST
+MASON ST
+2
+38TH DR
+201ST
+AVE
+BIRDSDALE AVE
+WALLULA AVE
+STONE RD
+223RD AVE
+FOSTERRD
+CLEVELAND AVE
+182ND AVE
+HOGAN
+DR
+BURNSIDE ST
+DIVISION ST
+AIRPORTWAY
+181ST AVE
+KANE DR
+174TH
+AVE
+HOGAN
+RD
+BURNSIDE RD
+162ND
+AVE
+DESTINATIONS + BOUNDARIES
+City Limits
+Parks + Open Space
+Project Area Boundary
+HIGH INJURY CORRIDORS*
+Bike
+Pedestrian
+Vehicle
+Data provided by Metro, RLIS, and ODOT.
+0 0.5 1 MILES
+EAST MUL TNOMAH COUNTY
+TSAP
+HIGH INJURY
+CORRIDORS - EAST
+MULTNOMAH
+COUNTY
+*High injury corridors were evaluated at the East
+Multnomah County scale.
+This map shows the number of light poles at intersections in East Multnomah County, as well as indicating where there are
+higher numbers of collisions after dark. Areas noted as heavily lit (teal), with a higher number of light fixtures, do not necessarily
+reflect areas that are sufficiently lit.
+UNDERSTANDING TRANSPORTATION SAFETY TODAY   |   17
+Data provided by the Oregon Department of Transportation
+and the City of Gresham.
+Crash Location Analysis
+Understanding where crashes occur can determine
+where transportation investments can have the most
+impact. We mapped crashes in East Multnomah County
+and categorized them by injury and crash type. Figure
+8 through Figure 10 map the highest concentrations of
+fatal and severe crashes by mode with the red hexagons
+illustrating where the most crashes occurred.
+Pedestrian
+The highest concentrations of pedestrian crashes take
+place at the following intersections:
+• Division St and NE Kane Dr
+• NE Burnside Road and NE Division St
+• SE 182nd Ave and W. Powell Blvd
+• E. Burnside St and SE 181st Ave
+High pedestrian crash corridors include the following:
+• Stark St
+• Burnside Rd
+• 181st Ave
+• 182nd Ave
+• NE 162nd Ave
+Pedestrian fatalities are concentrated on major arterials,
+especially along SE 181st and 182nd Aves. Some
+pedestrian fatalities are also identified directly along I-84
+or on highway ramps. The northwest portions of East
+Multnomah County have particularly high concentrations
+of severe crashes. This includes segments of E Burnside
+Rd, SE 181st Ave, and NE Glisan St.
+See Figure 8.
+Bicycle
+Bicycle crashes are concentrated along the following
+corridors:
+• 181st Ave
+• Burnside Rd
+• Powell Blvd
+• NE Glisan St
+Many crashes take place at the intersection of Burnside
+Rd and Division St.
+See Figure 9.
+Vehicle-Only
+Vehicle-only collisions take place on every major arterial
+in East Multnomah County, especially in the central and
+western parts. Fatalities are distributed throughout and
+are especially concentrated on Burnside Rd and 181st
+Ave and other intersections. Minor injury crashes are
+distributed throughout East Multnomah County.
+See Figure 10.
+UNDERSTANDING TRANSPORTATION SAFETY TODAY   |   18
+Figure 8. Pedestrian Crashes, 2013-2022
+FAIRVIEW
+GRESHAM
+PORTLAND
+TROUTDALE
+WOOD VILLAGE
+¥84
+¥84
+NE
+162ND
+AVE
+SW BUTLER RD
+SES WEETBRIA R RD
+SE LUSTED RD
+SW
+TOW
+LE
+AVE
+SW
+EASTM
+AN PKWY
+SE
+RO
+BER
+TSAVE
+NW DIVISION ST
+NE 223RD AVE
+SE
+181ST
+AVE
+NE
+FAIRVIEW
+PKWY
+NE HALSEY ST
+NE 181ST AVE NE GLISAN ST
+SW
+PLEASAN
+TVIEW
+DR
+SE KANE DR
+N MAIN AVE
+FAIRVIEW AVE
+SE PALMBLAD RD
+SE DIVISION ST
+NE
+238TH
+DR
+NW MARINE DR
+NW
+EASTM
+AN
+PKWY
+SEST
+ARK ST
+SE POWELL VALLEY RD
+E BURNSIDE ST
+NE SANDY BLVD
+E POWELL BLVD
+SE HOGAN RD
+SE 182ND AVE
+SEORIENT DR
+SE
+TRO
+UTDALERD
+SW HALSEY ST
+SE 223RD AVE
+NE DIVISION ST
+SE 190TH DR
+SE PALMQUIST RD
+SW
+HIGHLAND
+DR
+NW BURNSIDE
+RD
+NE
+HOGAN
+DR
+W POWELL BLVD
+SW
+257TH
+AVE
+W HISTORIC COLUMBIA RIVER HWY
+SE 172ND AVE
+EHISTORIC
+COLUM
+B
+IA
+RIVER H WY
+NE
+KANE
+DR
+NW
+CI
+VI
+C
+DR
+SE 282ND AVE
+SW CH
+ERRY PARK RD
+STROUTDALE
+RD
+NE
+BL
+UE LAKE RD
+NE MARINE DR
+NE
+JORD
+ANRD
+SE
+242ND
+AVE
+NW NORTH FRONTAGE RD
+NE BURNS
+IDE RD
+SE 11TH ST
+SE
+FOSTER
+RD
+SE DIVISION DR
+SE
+REGNERRD
+MULTNOMAH COUNTY BOUNDARY
+DESTINATIONS + BOUNDARIES
+City Limits
+Project Area Boundary
+Data provided by Metro, RLIS, and ODOT.
+0 0.5 1 MILES
+PEDESTRIAN CRASH
+DENSITY MAP
+(2013-2022)
+EAST MUL TNOMAH COUNTY
+TSAP
+CRASH CONCENTRATION INDEX*
+High
+Low
+* The Crash Concentration Index was developed by
+summing up crash scores weighted by severity
+inside a respective hexagon.
+FAIRVIEW
+GRESHAM
+PORTLAND
+TROUTDALE
+WOOD VILLAGE
+¥84
+NE 162ND AVE
+SW BUTLER RD
+SES WEETBRIA R RD
+SE LUSTED RD
+SW
+TOW
+LE
+AVE
+SW
+EASTMANPKWY
+MULTNOMAH COUNTY BOUNDARY
+STARK ST STARK ST
+STAR
+K S T
+HWY 26
+HWY
+26 HWY 26
+160TH AVE
+FAIRVIEW
+PKWY
+172ND AVE
+HALSEY ST
+HALSEY ST
+SANDY BLVD
+162ND AVE
+257TH
+AVE
+MARINE DR
+WB HWY I84
+GLISAN ST
+MASON ST
+2
+38TH DR
+201ST
+AVE
+BIRDSDALE AVE
+WALLULA AVE
+STONE RD
+223RD AVE
+FOSTERRD
+CLEVELAND AVE
+182ND AVE
+HOGAN
+DR
+BURNSIDE ST
+DIVISION ST
+AIRPORTWAY
+181ST AVE
+KANE DR
+174TH
+AVE
+HOGAN
+RD
+BURNSIDE RD
+162ND
+AVE
+DESTINATIONS + BOUNDARIES
+City Limits
+Parks + Open Space
+Project Area Boundary
+HIGH INJURY CORRIDORS*
+Bike
+Pedestrian
+Vehicle
+Data provided by Metro, RLIS, and ODOT.
+0 0.5 1 MILES
+EAST MUL TNOMAH COUNTY
+TSAP
+HIGH INJURY
+CORRIDORS - EAST
+MULTNOMAH
+COUNTY
+*High injury corridors were evaluated at the East
+Multnomah County scale.
+This map shows where pedestrian crashes occurred, with red indicating high numbers of crashes and yellow indicating low
+numbers of crashes. To create this map, we developed a crash concentration index for each mode that summarizes crash
+frequency and severity within a 0.2-mile-wide hexagon grid. Each hexagon’s score is the sum of crash scores weighted by severity.
+UNDERSTANDING TRANSPORTATION SAFETY TODAY   |   19
+Data provided by Metro, RLIS, and ODOT.
+Figure 9. Bicycle Crashes, 2013-2022
+FAIRVIEW
+GRESHAM
+PORTLAND
+TROUTDALE
+WOOD VILLAGE
+¥84
+¥84
+NE
+162ND
+AVE
+SW BUTLER RD
+SES WEETBRIA R RD
+SE LUSTED RD
+SW
+TOW
+LE
+AVE
+SW
+EASTM
+AN PKWY
+SE
+RO
+BER
+TSAVE
+NW DIVISION ST
+NE 223RD AVE
+SE
+181ST
+AVE
+NE
+FAIRVIEW
+PKWY
+NE HALSEY ST
+NE 181ST AVE NE GLISAN ST
+SW
+PLEASAN
+TVIEW
+DR
+SE KANE DR
+N MAIN AVE
+FAIRVIEW AVE
+SE PALMBLAD RD
+SE DIVISION ST
+NE
+238TH
+DR
+NW MARINE DR
+NW
+EASTM
+AN
+PKWY
+SEST
+ARK ST
+SE POWELL VALLEY RD
+E BURNSIDE ST
+NE SANDY BLVD
+E POWELL BLVD
+SE HOGAN RD
+SE 182ND AVE
+SEORIENT DR
+SE
+TRO
+UTDALERD
+SW HALSEY ST
+SE 223RD AVE
+NE DIVISION ST
+SE 190TH DR
+SE PALMQUIST RD
+SW
+HIGHLAND
+DR
+NW BURNSIDE
+RD
+NE
+HOGAN
+DR
+W POWELL BLVD
+SW
+257TH
+AVE
+W HISTORIC COLUMBIA RIVER HWY
+SE 172ND AVE
+EHISTORIC
+COLUM
+B
+IA
+RIVER H WY
+NE
+KANE
+DR
+NW
+CI
+VI
+C
+DR
+SE 282ND AVE
+SW CH
+ERRY PARK RD
+STROUTDALE
+RD
+NE
+BL
+UE LAKE RD
+NE MARINE DR
+NE
+JORD
+ANRD
+SE
+242ND
+AVE
+NW NORTH FRONTAGE RD
+NE BURNS
+IDE RD
+SE 11TH ST
+SE
+FOSTER
+RD
+SE DIVISION DR
+SE
+REGNERRD
+MULTNOMAH COUNTY BOUNDARY
+DESTINATIONS + BOUNDARIES
+City Limits
+Project Area Boundary
+Data provided by Metro, RLIS, and ODOT.
+0 0.5 1 MILES
+BICYCLE CRASH
+DENSITY MAP
+(2013-2022)
+EAST MUL TNOMAH COUNTY
+TSAP
+CRASH CONCENTRATION INDEX*
+High
+Low
+* The Crash Concentration Index was developed by
+summing up crash scores weighted by severity
+inside a respective hexagon.
+FAIRVIEW
+GRESHAM
+PORTLAND
+TROUTDALE
+WOOD VILLAGE
+¥84
+NE 162ND AVE
+SW BUTLER RD
+SES WEETBRIA R RD
+SE LUSTED RD
+SW
+TOW
+LE
+AVE
+SW
+EASTMANPKWY
+MULTNOMAH COUNTY BOUNDARY
+STARK ST STARK ST
+STAR
+K S T
+HWY 26
+HWY
+26 HWY 26
+160TH AVE
+FAIRVIEW
+PKWY
+172ND AVE
+HALSEY ST
+HALSEY ST
+SANDY BLVD
+162ND AVE
+257TH
+AVE
+MARINE DR
+WB HWY I84
+GLISAN ST
+MASON ST
+2
+38TH DR
+201ST
+AVE
+BIRDSDALE AVE
+WALLULA AVE
+STONE RD
+223RD AVE
+FOSTERRD
+CLEVELAND AVE
+182ND AVE
+HOGAN
+DR
+BURNSIDE ST
+DIVISION ST
+AIRPORTWAY
+181ST AVE
+KANE DR
+174TH
+AVE
+HOGAN
+RD
+BURNSIDE RD
+162ND
+AVE
+DESTINATIONS + BOUNDARIES
+City Limits
+Parks + Open Space
+Project Area Boundary
+HIGH INJURY CORRIDORS*
+Bike
+Pedestrian
+Vehicle
+Data provided by Metro, RLIS, and ODOT.
+0 0.5 1 MILES
+EAST MUL TNOMAH COUNTY
+TSAP
+HIGH INJURY
+CORRIDORS - EAST
+MULTNOMAH
+COUNTY
+*High injury corridors were evaluated at the East
+Multnomah County scale.
+This map shows where bicycle crashes occurred, with red indicating high numbers of crashes and yellow indicating low numbers
+of crashes. To create this map, we developed a crash concentration index for each mode that summarizes crash frequency and
+severity within a 0.2-mile-wide hexagon grid. Each hexagon’s score is the sum of crash scores weighted by severity.
+UNDERSTANDING TRANSPORTATION SAFETY TODAY   |   20
+Data provided by Metro, RLIS, and ODOT.
+Figure 10. Vehicular Crashes, 2013-2022
+FAIRVIEW
+GRESHAM
+PORTLAND
+TROUTDALE
+WOOD VILLAGE
+¥84
+¥84
+NE
+162ND
+AVE
+SW BUTLER RD
+SES WEETBRIA R RD
+SE LUSTED RD
+SW
+TOW
+LE
+AVE
+SW
+EASTM
+AN PKWY
+SE
+RO
+BER
+TSAVE
+NW DIVISION ST
+NE 223RD AVE
+SE
+181ST
+AVE
+NE
+FAIRVIEW
+PKWY
+NE HALSEY ST
+NE 181ST AVE NE GLISAN ST
+SW
+PLEASAN
+TVIEW
+DR
+SE KANE DR
+N MAIN AVE
+FAIRVIEW AVE
+SE PALMBLAD RD
+SE DIVISION ST
+NE
+238TH
+DR
+NW MARINE DR
+NW
+EASTM
+AN
+PKWY
+SEST
+ARK ST
+SE POWELL VALLEY RD
+E BURNSIDE ST
+NE SANDY BLVD
+E POWELL BLVD
+SE HOGAN RD
+SE 182ND AVE
+SEORIENT DR
+SE
+TRO
+UTDALERD
+SW HALSEY ST
+SE 223RD AVE
+NE DIVISION ST
+SE 190TH DR
+SE PALMQUIST RD
+SW
+HIGHLAND
+DR
+NW BURNSIDE
+RD
+NE
+HOGAN
+DR
+W POWELL BLVD
+SW
+257TH
+AVE
+W HISTORIC COLUMBIA RIVER HWY
+SE 172ND AVE
+EHISTORIC
+COLUM
+B
+IA
+RIVER H WY
+NE
+KANE
+DR
+NW
+CI
+VI
+C
+DR
+SE 282ND AVE
+SW CH
+ERRY PARK RD
+STROUTDALE
+RD
+NE
+BL
+UE LAKE RD
+NE MARINE DR
+NE
+JORD
+ANRD
+SE
+242ND
+AVE
+NW NORTH FRONTAGE RD
+NE BURNS
+IDE RD
+SE 11TH ST
+SE
+FOSTER
+RD
+SE DIVISION DR
+SE
+REGNERRD
+MULTNOMAH COUNTY BOUNDARY
+DESTINATIONS + BOUNDARIES
+City Limits
+Project Area Boundary
+Data provided by Metro, RLIS, and ODOT.
+0 0.5 1 MILES
+VEHICULAR CRASH
+DENSITY MAP
+(2013-2022)
+EAST MUL TNOMAH COUNTY
+TSAP
+CRASH CONCENTRATION INDEX*
+High
+Low
+* The Crash Concentration Index was developed by
+summing up crash scores weighted by severity
+inside a respective hexagon.
+FAIRVIEW
+GRESHAM
+PORTLAND
+TROUTDALE
+WOOD VILLAGE
+¥84
+NE 162ND AVE
+SW BUTLER RD
+SES WEETBRIA R RD
+SE LUSTED RD
+SW
+TOW
+LE
+AVE
+SW
+EASTMANPKWY
+MULTNOMAH COUNTY BOUNDARY
+STARK ST STARK ST
+STAR
+K S T
+HWY 26
+HWY
+26 HWY 26
+160TH AVE
+FAIRVIEW
+PKWY
+172ND AVE
+HALSEY ST
+HALSEY ST
+SANDY BLVD
+162ND AVE
+257TH
+AVE
+MARINE DR
+WB HWY I84
+GLISAN ST
+MASON ST
+2
+38TH DR
+201ST
+AVE
+BIRDSDALE AVE
+WALLULA AVE
+STONE RD
+223RD AVE
+FOSTERRD
+CLEVELAND AVE
+182ND AVE
+HOGAN
+DR
+BURNSIDE ST
+DIVISION ST
+AIRPORTWAY
+181ST AVE
+KANE DR
+174TH
+AVE
+HOGAN
+RD
+BURNSIDE RD
+162ND
+AVE
+DESTINATIONS + BOUNDARIES
+City Limits
+Parks + Open Space
+Project Area Boundary
+HIGH INJURY CORRIDORS*
+Bike
+Pedestrian
+Vehicle
+Data provided by Metro, RLIS, and ODOT.
+0 0.5 1 MILES
+EAST MUL TNOMAH COUNTY
+TSAP
+HIGH INJURY
+CORRIDORS - EAST
+MULTNOMAH
+COUNTY
+*High injury corridors were evaluated at the East
+Multnomah County scale.
+This map shows where vehicular (including motorcycle) crashes occurred, with red indicating high numbers of crashes and
+yellow indicating low numbers of crashes. To create this map, we developed a crash concentration index for each mode that
+summarizes crash frequency and severity within a 0.2-mile-wide hexagon grid. Each hexagon’s score is the sum of crash scores
+weighted by severity.
+Data provided by Metro, RLIS, and ODOT.
+UNDERSTANDING TRANSPORTATION SAFETY TODAY   |   21
+Crash Profile 4: Pedestrian
+Crash, at Intersection, with
+Improper Maneuver by Driver
+160 crashes
+Crashes in this profile account for 25% of pedestrian fatal
+and serious injury crashes and 38% of pedestrian injury
+crashes.
+Crash Profile 5: Bicycle
+Crash, at Intersection, with
+a Turning Vehicle, on Road
+with Dedicated Bike Facility
+73 crashes
+This profile accounts for 33% of bicycle-involved fatal and
+serious injury crashes and 29% of bicycle injury crashes.
+Crash Profile 6: Motorcyclist Crash,
+at Intersection, with a Turning
+Vehicle
+68 crashes
+This profile accounts for 32% of motorcyclist fatal and
+serious injury crashes and 30% of motorcyclist injury
+crashes.
+Crash Profile 1: Crashes with
+Alcohol or Drugs Involved
+568 crashes
+The highest number of injury crashes in this profile
+occurred between 7 pm and midnight, with 38% of
+crashes. In comparison, only 17% of non-substance
+involved crashes occurred between those hours.
+Crash Profile 2: Fixed Object
+Crashes on 35 mph Roads
+286 crashes
+This profile accounts for 9% of all fatal and serious injury
+crashes, and 3% of all injury crashes.
+Crash Profile 3: Pedestrian Crash,
+After Dark
+160 crashes
+Crashes in this profile account for 46% of pedestrian fatal
+and serious injury crashes and 38% of all pedestrian injury
+crashes.
+Crash Profiles (2013-2022)
+Knowing the circumstances surrounding crashes is just as important as knowing where they occurred. While there
+are many factors that contribute to crashes, some crash types are more common than others. Crash profiles highlight
+groups of crashes with similar characteristics to identify contributing factors that can influence recommendations for
+safety countermeasures. These crash profiles were also used to identify the priority safety corridors. Six crash profiles
+were developed for roads in East Multnomah County and include all injury and fatality crashes. Interestingly, weather
+was not shown to be a significant risk factor for crashes.
+Maps of crash locations for the six crash profiles are shown in the Systemic Safety Analysis Planning
+Reference Document available on the project website: https://multco.us/info/tsap-project-resources
+UNDERSTANDING TRANSPORTATION SAFETY TODAY   |   22
+Crash Trends Over Time
+We analyzed crash data from 2013 to 2022 to identify
+where crashes were increasing or decreasing. Instead
+of just looking at where crashes happened, we also
+considered when they occurred over the past years
+to identify trends. Over this time period there was an
+increase in crashes in the Wood Village and Fairview,
+potentially correlated with new commercial and
+residential development. Troutdale, Kane Drive and
+Division Street had a decrease in crashes over the past
+10 years.
+See Figure 11.
+Safe Roads for Everyone
+Underserved Communities Analysis
+East Multnomah County includes communities with a
+high concentration of people who have historically faced
+barriers to transportation access, including low-income
+households and communities of color. This focus on
+reducing barriers helped guide us in identifying where
+safety and transportation improvements could have the
+greatest impact.
+See Figure 12.
+Where Low-Income Communities Travel
+We looked at how often people earning less than
+80% of the average income travel through the project
+area without a car. In East Multnomah County, 6.7% of
+households do not have access to a motor vehicle. Most
+trips without a car are on the MAX Blue Line or on East
+Burnside/NW Burnside Rd in Gresham, which is also
+served by TriMet Route 287 and has a bike lane along
+some of it, in addition to sidewalks. Many trips without
+a car are also made on NW Division St, W. Powell Blvd,
+NE Glisan St, SE Stark St, NE Halsey St, and SE 182nd Ave.
+Many trips without a car are also made on roads where
+there are gaps in active transportation infrastructure such
+as the majority of NE Sandy Blvd within the project area
+and 201st Ave between Halsey St and I-84.
+See Figure 13.
+UNDERSTANDING TRANSPORTATION SAFETY TODAY   |   23
+Figure 1 1. Crash Trends Over Time
+FAIRVIEW
+GRESHAM
+PORTLAND
+TROUTDALE
+WOOD VILLAGE
+¥84
+NE 162ND AVE
+SW BUTLER RD
+SES WEETBRIA R RD
+SE LUSTED RD
+SW
+TOW
+LE
+AVE
+SW
+EASTMANPKWY
+MULTNOMAH COUNTY BOUNDARY
+STARK ST STARK ST
+STAR
+K S T
+HWY 26
+HWY
+26 HWY 26
+160TH AVE
+FAIRVIEW
+PKWY
+172ND AVE
+HALSEY ST
+HALSEY ST
+SANDY BLVD
+162ND AVE
+257TH
+AVE
+MARINE DR
+WB HWY I84
+GLISAN ST
+MASON ST
+2
+38TH DR
+201ST
+AVE
+BIRDSDALE AVE
+WALLULA AVE
+STONE RD
+223RD AVE
+FOSTERRD
+CLEVELAND AVE
+182ND AVE
+HOGAN
+DR
+BURNSIDE ST
+DIVISION ST
+AIRPORTWAY
+181ST AVE
+KANE DR
+174TH
+AVE
+HOGAN
+RD
+BURNSIDE RD
+162ND
+AVE
+DESTINATIONS + BOUNDARIES
+City Limits
+Parks + Open Space
+Project Area Boundary
+HIGH INJURY CORRIDORS*
+Bike
+Pedestrian
+Vehicle
+Data provided by Metro, RLIS, and ODOT.
+0 0.5 1 MILES
+EAST MUL TNOMAH COUNTY
+TSAP
+HIGH INJURY
+CORRIDORS - EAST
+MULTNOMAH
+COUNTY
+*High injury corridors were evaluated at the East
+Multnomah County scale.
+This map presents how crash trends have changed over time in East Multnomah County. Green dots indicate areas where crash
+numbers are decreasing, while orange dots indicate areas where crash numbers are increasing. The relative confidence of the
+results is color coded, with darker shades indicating higher confidence levels.
+Data provided by Metro, RLIS, and ODOT.
+UNDERSTANDING TRANSPORTATION SAFETY TODAY   |   24
+Figure 12. Areas with Higher Proportion of Underserved Communities
+FAIRVIEW
+GRESHAM
+PORTLAND
+TROUTDALE
+WOOD VILLAGE
+¥84 ¥84
+NE
+162ND
+AVE
+SW BUTLER RD
+SE S WEETBRI AR RD
+SE LUSTED RD
+SW
+ TOW
+LE AVE
+SW
+ EASTMAN PKWY SE ROBERTS AVE
+NW DIVISION ST
+NE 223RD AVE
+SE 181ST AVE
+NE FAIRVIEW PKWYNE HALSEY ST
+NE
+181ST
+ AVE
+NE GLISAN ST
+SW
+ PLEASANT VIEW
+ DR
+SE
+KANE
+DR
+N
+M
+AIN
+AVE
+FAIR
+VIEW
+AVE
+SE
+PALMBL
+AD
+RD
+SE DIVISION ST
+NE
+238TH
+DR
+NW MARINE DR
+NW EASTM
+AN PKWY
+SE STARK ST
+SE POWELL VALLEY RD
+E BURNSIDE ST
+NE SANDY BLVD
+E POWELL BLVD
+SE
+HOGAN
+RD
+SE 182ND AVE
+MULTNOMAH COUNTY BOUNDARY
+STARK ST STARK ST
+STARK ST
+160TH
+ AVE
+EVA DN271
+HWY 26
+HALSEY ST
+HALSEY ST
+SANDY BLVD
+162ND AVE
+SE ORIENT DR
+RD
+SE TROUTDALE
+SW HALSEY ST
+SE
+ 223RD
+ AVE
+NE DIVISION ST
+RD HT091 ES
+SE PALMQUIST RD
+SW
+ HIGHLAND DR
+NW BURNSIDE RD NE HOGAN DR
+W POWELL
+BLVD
+SW
+ 257TH AVE
+W HISTORIC COLUMBIA RIVER HWY
+SE
+172ND
+AVE
+E HISTORIC COLUM
+BIA RIVER H WY
+NE KANE DR
+NW
+ CIVIC DR
+SE
+282ND
+AVE
+SW CHERRY PARK RD
+S TROUTDALE RD
+NE BLUE LAKE RD
+NE MARINE DR
+SE REGNER RD
+NE JORDAN RD
+SE 242ND AVE
+NE BURNSIDE RD
+SE 11TH ST
+SE FOSTER RD
+SE DIVISION DR
+MARINE DR
+FAIRVIEW
+ PKWY
+WB HWY I84
+GLISAN ST
+257TH
+AVE
+MASON ST
+DR
+238TH
+201ST
+ AVE
+BIRDSD
+ALE
+AVE
+W
+ALL
+UL
+A
+AVE
+STONE RD
+223RD
+AVE
+FOSTER RD
+CLEVEL
+AND
+AVE
+182ND AVE
+Data provided by Metro, RLIS, ACS 5 Year Estimates, Tree Equity Index, EJ Screen, Opportunity Atlas and ODOT.
+0 0.5 1 MILES
+CONCENTRATIONS OF HISTORICALLY
+DISADVANTAGED OR VULNERABLE
+POPULATIONS
+Higher Need
+Lower Need
+HIGH INJURY CORRIDORS*
+All Modes
+*High injury corridors were evaluated at the East
+Multnomah County scale.
+This map highlights the areas that have concentrations of historically disadvantaged or vulnerable populations using
+public health and demographic indicators. Darker teal areas are those that are expected to have higher needs as defined by
+concentration of population indicators such as economic opportunity, lack of tree canopy, and households with access to a
+vehicle. For a full description of the methodology, refer to the Systemic Safety Analysis Appendix.
+Data provided by Metro, RLIS, ACS 5 Year Estimates, Tree
+Equity Index, EJ Screen, Opportunity Atlas and ODOT.
+UNDERSTANDING TRANSPORTATION SAFETY TODAY   |   25
+Figure 13. Network Use by Low-Income Communities
+FAIRVIEW
+GRESHAM
+PORTLAND
+TROUTDALE
+WOOD VILLAGE
+¥84
+NE 162ND AVE
+SW BUTLER RD
+SES WEETBRIA R RD
+SE LUSTED RD
+SW
+TOW
+LE
+AVE
+SW
+EASTMANPKWY
+MULTNOMAH COUNTY BOUNDARY
+STARK ST STARK ST
+STAR
+K S T
+HWY 26
+HWY
+26 HWY 26
+160TH AVE
+FAIRVIEW
+PKWY
+172ND AVE
+HALSEY ST
+HALSEY ST
+SANDY BLVD
+162ND AVE
+257TH
+AVE
+MARINE DR
+WB HWY I84
+GLISAN ST
+MASON ST
+2
+38TH DR
+201ST
+AVE
+BIRDSDALE AVE
+WALLULA AVE
+STONE RD
+223RD AVE
+FOSTERRD
+CLEVELAND AVE
+182ND AVE
+HOGAN
+DR
+BURNSIDE ST
+DIVISION ST
+AIRPORTWAY
+181ST AVE
+KANE DR
+174TH
+AVE
+HOGAN
+RD
+BURNSIDE RD
+162ND
+AVE
+DESTINATIONS + BOUNDARIES
+City Limits
+Parks + Open Space
+Project Area Boundary
+HIGH INJURY CORRIDORS*
+Bike
+Pedestrian
+Vehicle
+Data provided by Metro, RLIS, and ODOT.
+0 0.5 1 MILES
+EAST MUL TNOMAH COUNTY
+TSAP
+HIGH INJURY
+CORRIDORS - EAST
+MULTNOMAH
+COUNTY
+*High injury corridors were evaluated at the East
+Multnomah County scale.
+This map highlights network use by low-income communities. MAX light rail stations are designated by orange dots, while travel
+routes are designated based on numbers of low-income travelers, with dark teal representing the greatest number of trips (more
+than 1,000) and orange indicating the fewest trips (between 50 and 100).
+Data provided by Replica Places, Spring 2024, Typical
+Thursday.
+UNDERSTANDING TRANSPORTATION SAFETY TODAY   |   26
+Taking Action
+to Improve
+Our Streets
+Creating Priority Safety Corridors
+The community feedback, systemic safety
+data, and underserved community analysis
+results were combined to create the top 10
+safety priority corridors where we can see the
+most benefit from implementing future safety
+countermeasures. Traffic safety improvement
+recommendations target specific factors that
+contribute to crashes, including road design,
+driver behavior, and environmental conditions.
+The map on the next page presents all 10 priority safety
+corridors (Figure 15), followed by detail sheets that
+provide recommendations for each corridor. Figure 14
+provides a summary of signalized improvement options
+for all corridors.
+The following detail sheets provide information about
+recommended improvements for each of the corridors.
+Blue text indicates concerns and improvements that are
+corridor-wide. For example, adding new crossings or
+constructing medians. Additional design work will be
+needed to determine exact locations. Orange indicates
+improvements assigned to specific locations.
+How We Chose the Corridors
+To meaningfully address traffic-related fatalities and
+serious injuries in the area, we identified a set of priority
+safety corridors that tell us where improvements are
+needed—roadways where crash risk is disproportionately
+high and where targeted investments can have
+the greatest impact. These corridors span multiple
+jurisdictions and reflect a data-driven approach that
+considers crash history, underserved communities, land
+use context, and community input.
+These streets often serve as critical connectors between
+neighborhoods, schools, transit, and essential services,
+yet they currently present significant barriers to safe and
+comfortable travel for people of all ages and abilities.
+Corridors were identified by evaluating roadways on the
+following criteria:
+• Location on an High Injury Corridor (HIC)
+• Number of crash profiles along the corridor
+• Number of bicycle or pedestrian crashes per mile
+along the corridor
+• Number of crashes involving fatalities or serious
+injuries along the corridor among all modes
+• Low-income travel
+• Whether the corridor was flagged as a safety concern
+in the public engagement survey results
+Corridors that already have committed investments for
+safety improvements by local agencies were not included
+among the TSAP priority safety corridors. These include
+NE Sandy Blvd and SE 257th Dr/NE Kane Dr.
+TAKING ACTION TO IMPROVE OUR STREETS   |   28
+Across the 10 priority safety corridors, several safety
+countermeasures are recommended repeatedly,
+indicating strong potential for systemwide
+implementation. These treatments address the most
+common crash types and community concerns, including
+speeding, unsafe crossings, and conflicts between
+modes. Implementing these measures is critical to
+achieving Vision Zero and improving safety for all users.
+The countermeasures highlighted on this page should
+be prioritized for inclusion in agency design standards,
+maintenance programs, and capital planning efforts. By
+embedding these treatments into routine operations
+and policy updates, jurisdictions can ensure that safety
+improvements are delivered consistently and equitably
+across the entire transportation network. Installing safety
+improvements may also provide additional benefits to
+the surrounding area such as supporting placemaking,
+economic development, and climate resiliency.*
+Speed Management
+• Lower posted speed limits
+• Speed feedback signs and dynamic displays
+• Speed safety camera enforcement
+• Constructed medians and lane narrowing
+Pedestrian Safety
+• Enhanced pedestrian crossings
+• Curb extensions to shorten crossing distances
+• Pedestrian scale lighting
+• Raised crosswalks
+Systemwide Safety Improvements
+Speed safety camera
+Enhanced crosswalk (above) and curb extension (below)
+*Visit the FHWA website for more information about proven
+safety countermeasures, including measures of effectiveness.
+TAKING ACTION TO IMPROVE OUR STREETS   |   29
+Bicycle Safety
+• Separated or protected bike lanes
+• Bicycle conflict striping at intersections and driveways
+• Floating bus stops to reduce bus-bike conflicts
+• Roadway surface improvements and ADA-compliant
+ramps
+Intersection Safety
+• Leading Pedestrian Intervals (LPIs)
+• Right turn on red restrictions
+• Protected or permissive left-turn phasing
+• Right turn on red restrictions
+• Advanced stop bars
+Access and Connectivity
+• Sidewalk infill and ADA improvements
+• Access management to reduce driveway conflicts
+• Roadway reconfiguration to improve multimodal
+balance
+A comprehensive list of actions and countermeasures is in
+Table 1.
+Separated bike lane Bicycle Conflict Striping
+Protected or protected/permissive left turn phasing Floating bus stop
+TAKING ACTION TO IMPROVE OUR STREETS   |   30
+Safety Improvements in East County
+Flashing beacon improves safety at
+pedestrian crossing in Wood Village.
+This location, at the corner of Wood Village Blvd and
+Riverwood St, is an important link between a dense
+neighborhood and a large community shopping hub.
+While there was a marked crosswalk, Multnomah County
+Sheriff’s Office (MSCO) safety missions showed that many
+drivers failed to stop for pedestrians. The crossing now
+has a Rapid Rectangular Flashing Beacon (RFFB) and ADA
+compliant features. These features increase pedestrian
+visibility and driver stop compliance, which improves
+pedestrian safety in this important location.
+New multi-use path and crossing fills gap
+in Gresham.
+A new, safer crossing for the Wy’East Way multi-use path
+in Gresham completes a gap in the system and address
+ADA accessibility issues.
+Gresham completed a missing link of the Wy’East Way
+path along the MAX tracks just south of Division Street.
+This new segment gives bicyclists and pedestrians on
+the Wy’East Way a safe route around the Division and
+Main Avenue intersection. The intersection is a primary
+route to downtown Gresham and a heavily travelled
+intersection. Bicyclists trying to access downtown
+previously shared the road with vehicles on Main Avenue
+and the intersection didn’t even have bicycle lanes. The
+new path segment has an RRFB crossing on Division
+Street and makes it easier for pedestrians and bicyclists to
+skip the crowded Division and Main Avenue intersection
+and travel downtown and to the Gresham Transit Center.
+TAKING ACTION TO IMPROVE OUR STREETS   |   31
+Protected/Permissive (P/P) left turn phasing is a
+signal control strategy that allows left-turning drivers to
+dedicated green arrow (protected phase), and then, if
+SUMMARY OF SIGNALIZED INTERSECTION
+IMPROVEMENT OPTIONS IN ALL CORRIDORS
+Leading Pedestrian Intervals (LPI) give pedestrians
+a head start of a few seconds before cars get a green
+light, making the pedestrians more visible and helping
+cars yield to them.
+Right Turn on Red Restrictions prohibit vehicles from
+turning right on a red light, decreasing the opportunity
+Protected  Left Turn Phasing is a type of signal
+phasing that reduces is a type of signal phasing that
+reduce
+dedicated time to make their turn on a green arrow.
+High Visibility Crosswalks are crosswalk markings
+that are perpendicular to the pedestrian path of travel
+and are visible to drivers from farther away than
+traditional crosswalk markings.
+Advanced Stop Bars are painted lines before
+crosswalks that encourage drivers to stop further back
+from crosswalks and give more space to pedestrians.
+A
+A
+B
+C
+D
+B
+C
+E
+D
+E
+F
+F
+Figure 14. Summary of Signalized Intersection Improvement Options in All Corridors
+Protected Left Turn Phasing  is a type of signal
+phasing that reduces conflicts by giving left-turning
+vehicles dedicated time to make their turn on a
+green arrow.
+TAKING ACTION TO IMPROVE OUR STREETS   |   32
+Figure 15. Priority Safety Corridors
+3
+4 5
+6
+7
+8
+9
+10
+FAIRVIEW
+GRESHAM
+PORTLAND
+TROUTDALE
+WOOD
+VILLAGE
+¥84
+¥84
+NE 162ND AVE
+SW BUTLER RD
+SES WEETBRIA R RD
+SE LUSTED RD
+SW
+TOW
+LE
+AVE
+SW
+EASTMANPKWY
+STARK ST
+STA
+R
+K ST
+HWY
+26 HWY 26
+160TH AVE
+FAI
+RVIE
+W
+PK
+WY
+172ND AVE
+HALSEY ST
+SANDY BLVD
+162ND AVE
+257TH
+AVE
+MARINE DR
+GLISAN ST
+MASON S T
+238TH DR
+201ST AVE
+BIRDSDALE AVEWALLULA AVE
+STONE RD
+223RD AVE
+FO
+STE
+RRD
+CLEVELAND AVE182ND AVE HO
+GAN
+DR
+BURNS
+IDE ST
+DIVISION ST
+AIRPORT WAY
+181ST AVE
+KANE
+DR
+174TH AVE
+HOGAN
+RD
+BURNSIDE RD
+162ND AVE
+Corridor 10: Stark St from 257th Ave to Troutdale Rd
+Corridor 9: 223rd Ave from Halsey St to Glisan St
+Corridor 8: 238th Dr from Sandy Blvd to Arata Rd
+Corridor 7: Halsey St from 162nd Ave to 257th Ave
+Corridor 6: Stark St from 162nd Ave to 223rd Ave
+Corridor 5: Burnside St from Cleveland St to Powell Blvd
+Corridor 4: 182nd Ave from Yamhill St to Springwater
+Corridor 3: 181st Ave from Sandy Blvd to Yamhill St
+Corridor 2: Hogan Rd from Powell Blvd to Springwater
+Corridor 1: Hogan Dr from Division St to Stark St
+PRIORITY SAFETY CORRIDORS
+Data provided by Metro, RLIS, and ODOT.
+0 0.5 1 MILES
+MULTNOMAH COUNTY TSAP
+FAIRVIEW
+GRESHAM
+PORTLAND
+TROUTDALE
+WOOD VILLAGE
+¥84
+NE 162ND AVE
+SW BUTLER RD
+SES WEETBRIA R RD
+SE LUSTED RD
+SW
+TOW
+LE
+AVE
+SW
+EASTMANPKWY
+MULTNOMAH COUNTY BOUNDARY
+STARK ST STARK ST
+STAR
+K S T
+HWY 26
+HWY
+26 HWY 26
+160TH AVE
+FAIRVIEW
+PKWY
+172ND AVE
+HALSEY ST
+HALSEY ST
+SANDY BLVD
+162ND AVE
+257TH
+AVE
+MARINE DR
+WB HWY I84
+GLISAN ST
+MASON ST
+2
+38TH DR
+201ST
+AVE
+BIRDSDALE AVE
+WALLULA AVE
+STONE RD
+223RD AVE
+FOSTERRD
+CLEVELAND AVE
+182ND AVE
+HOGAN
+DR
+BURNSIDE ST
+DIVISION ST
+AIRPORTWAY
+181ST AVE
+KANE DR
+174TH
+AVE
+HOGAN
+RD
+BURNSIDE RD
+162ND
+AVE
+DESTINATIONS + BOUNDARIES
+City Limits
+Parks + Open Space
+Project Area Boundary
+HIGH INJURY CORRIDORS*
+Bike
+Pedestrian
+Vehicle
+Data provided by Metro, RLIS, and ODOT.
+0 0.5 1 MILES
+EAST MUL TNOMAH COUNTY
+TSAP
+HIGH INJURY
+CORRIDORS - EAST
+MULTNOMAH
+COUNTY
+*High injury corridors were evaluated at the East
+Multnomah County scale.
+This map shows the 10 corridors where we will prioritize
+future safety countermeasures. These corridors were chosen
+based on the systemic safety data, community feedback,
+and underserved community analysis results. The corridors
+all have equal value for improvements, they are not ranked
+in order of priority.
+Data provided by Metro, RLIS, and ODOT.
+TAKING ACTION TO IMPROVE OUR STREETS   |   33
+Red Sunset Red Sunset
+Park Park
+Hall Park Hall Park
+evAdna leve lC
+23rd St
+Division StDivision St
+19th St
+evA  bulC  yrtnuoC
+20th St 18th St
+Eighth St
+Liberty Ave
+Stark StStark St
+Tenth St
+Hogan Dr
+Ninth St
+17th St
+16th Way
+Burnside Rd
+Hogan Pl
+Red Sunset Dr
+Kelly CreekKelly Creek
+GRE SH AM
+TROU TDALE
+N¾
+Corridor 1: Hogan Dr
+DIVI SION ST TO ST ARK ST
+Corridor-wide Safety Concerns Corridor-Wide Safety Recommendations
+Speeding
+Construct medians
+Lower speed limit
+Driveways create conflicts for
+people walking and biking
+Access management
+(reduce number of driveways)
+Infrequent and insufficient
+pedestrian crossings Enhanced pedestrian crossings
+Uncomfortable bike lanes Separated/
+protected bicycle lane
+Indistinct bike lane crossings Bicycle conflict striping
+Non-bicycle-safe storm drains
+in bike lane Roadway surface improvements
+Signalized intersection conflicts
+See summary of safety
+improvement options f or signalized
+intersections
+Hogan Drive, between Division Street and Stark Street, carries around 29,000 vehicles per day. The corridor has a high number
+of crashes, including rear-end crashes and pedestrian crashes at both signalized and unsignalized intersections. Community
+members have raised concerns about speeding and shared that they feel unsafe walking and biking along this stretch. Poor
+lighting at key intersections, like Hogan Drive and Division Street, also makes it harder for people walking and biking to see and
+be seen, increasing safety concerns. This corridor is located within Gresham and owned by the City of Gresham.
+Site Specific Recommendations
+Pedestrian refuge islands
+New lighting
+(on page 31)
+TAKING ACTION TO IMPROVE OUR STREETS   |   34
+Powell Blvd
+Powell Blvd
+Hogan Rd
+1st St
+Roberts Dr
+5th St4th St 11th St12th St
+6th St
+9thSt
+Tenth St
+Hogan Rd
+Johnson Creek
+Johnson Creek
+Springwater Corridor
+N¾
+Corridor 2: Hogan Rd
+POWELL B LVD TO SPRINGW ATER CORRIDOR TRAIL
+Site Specific Recommendations
+Pedestrian refuge islands
+Enhanced pedestrian
+crossings
+ADA-compliant ramps
+Corridor-wide Safety Concerns Corridor-Wide Safety Recommendations
+Speeding
+Speed safety camera enforcement
+Speed feedback signs
+Lower speed limit
+Future plans to widen roadway
+likely increase demand and
+encourage higher speeds
+Two-way left turn lanes
+Uncomfortable bike lanes Separated/
+protected bicycle lane
+Indistinct bike lane crossings Bicycle conflict striping
+Gaps in sidewalk facility Sidewalks
+Wide roadway creates longer
+pedestrian crossing distances Curb extensions
+Signalized intersection conflicts
+See summary of safety
+improvement options f or signalized
+intersections
+Hogan Road, between Powell Boulevard and the Springwater Corridor Trail, carries 15,000 to 18,000 vehicles per day. This stretch
+has a high number of crashes, mostly rear-end crashes, with some angle crashes. Although the posted speed limit is 35 mph,
+our speed analysis shows many drivers are driving faster. Community members have expressed feeling unsafe walking and
+biking, particularly at the Springwater Trail crossing. There are also gaps in the sidewalk network and a lack of Americans with
+Disabilities Act-compliant curb ramps, making access difficult for many users. Future plans to widen the road could lead to more
+traffic and encourage even faster driving. This corridor is located within Gresham and owned by the City of Gresham.
+(on page 31)
+TAKING ACTION TO IMPROVE OUR STREETS   |   35
+Stark St
+Halsey St
+Yamhill St
+Glisan St
+Burnside St
+Everett Ct
+Wasco St
+181st Ave
+Pine StDavis St
+Sandy Blvd
+Colum
+biaRiverHwy
+N¾
+Corridor 3: 181st Ave
+SANDY BL VD TO Y AMHILL ST
+Site Specific Recommendations
+Install ADA-compliant ramps
+New lighting
+Modify right turn lanes to
+slow turning speeds
+Reduce curb corner radii
+(to slow turning speeds)
+New high visibility
+crosswalk
+Corridor-wide Safety Concerns Corridor-Wide Safety Recommendations
+Infrequent and insufficient
+pedestrian crossings Enhanced pedestrian crossings
+Speeding
+Construct medians
+Lower speed limit
+Uncomfortable bike lanes Separated/
+protected bicycle lane
+Indistinct bike lane crossings Bicycle conflict striping
+Buses block bike lane Floating bus stops
+(bike lane behind bus stop)
+Excessively wide vehicle lanes Narrow vehicle lanes
+History of crashes after dark Reflective pavement markings
+Signalized intersection conflicts
+See summary of safety
+improvement options f or signalized
+intersections
+Traffic volumes along 181st Avenue range from 16,000 to 28,000 vehicles per day, and the corridor has seen a high number of
+crashes—including pedestrian, bicycle, and multiple types of vehicle crashes. Community members have expressed feeling unsafe
+walking and biking, especially near the I-84 interchange. The street has wide travel lanes that can encourage speeding, while the
+bike lanes are narrow, unprotected, and often difficult for drivers to see across intersections and driveways. Buses stopping in the
+bike lane create additional conflicts. Lighting at key locations, such as the intersection of 181st Avenue and Stark Street, is also
+limited, further reducing visibility and safety. This corridor is located within Gresham and managed by the City of Gresham.
+(on page 31)
+TAKING ACTION TO IMPROVE OUR STREETS   |   36
+Southwest
+Park
+Vance Park
+e
+Yamhill St
+Springwater Corridor
+Division St
+Powell Blvd
+11th St
+Highland Dr
+Mt Hood Hwy
+Haig Dr
+Lincoln St
+SecondSt
+Tibbets St
+8th St
+Clay StMill Ct
+Mill St
+1st St
+5th Dr
+3rd St
+Clinton St
+Butler Creek
+Butler Creek
+Fairview CreekFairview Creek
+M A H S E R G
+D N A L T R O P GRE SH AM
+PORTLAN D
+182nd Ave
+N¾
+Corridor 4: 182nd Ave
+YAMHILL ST T O SPRINGW ATER  CORRIDOR  TRAIL
+Site Specific Recommendations
+Pedestrian refuge islands
+New lighting
+Corridor-wide Safety Concerns Corridor-Wide Safety Recommendations
+Speeding
+Speed safety camera enforcement
+Speed feedback signs
+Lower speed limit
+Construct medians
+Infrequent and insufficient
+pedestrian crossings Enhanced pedestrian crossings
+Driveways create additional
+conflict points
+Access management
+(reduce number of driveways)
+Uncomfortable bike lanes Separated/
+protected bicycle lane
+Indistinct bike lane crossings Bicycle conflict striping
+Buses block bike lane Floating bus stops
+(bike lane behind bus stop)
+History of crashes after dark Reflective pavement markings
+Signalized intersection conflicts
+See summary of safety
+improvement options f or signalized
+intersections
+182nd Avenue carries between 20,000 and 24,000 vehicles per day. The posted speed limit is 35 mph, with 20 mph school zones.
+The corridor has a high number of crashes, including rear-end, pedestrian, and angle crashes—many of which occurred after dark.
+Crash data often points to speeding as a contributing factor. Community members have shared that they feel unsafe walking and
+biking in the area. Lighting is poor at key intersections, such as 182nd Avenue and Division Street. Additionally, buses stopping in
+bike lanes create conflicts for people biking. This corridor is located within Gresham and managed by the City of Gresham.
+(on page 31)
+TAKING ACTION TO IMPROVE OUR STREETS   |   37
+Kane Road Kane Road
+Park Park
+Thom Park Thom Park
+Division St
+Liberty Ave
+1st St
+8th St
+evA  atsiV
+3rdSt
+Liberty Ave
+Burnside Rd
+Francis Ave
+10th St
+Cochran Ave
+Hogan Dr
+18th St
+6th St
+Hogan Rd
+Sixth St
+Fleming Ave
+Powell Blvd
+Cleveland Ave
+Francis Ave
+Rene Ave
+¯
+KellyCreek
+KellyCreek
+Corridor-wide Safety Concerns Corridor-Wide Safety Recommendations
+Speeding
+Construct medians
+Lower speed limit
+Infrequent and insufficient
+pedestrian crossings Enhanced pedestrian crossings
+Uncomfortable bike lanes Separated/
+protected bicycle lane
+Indistinct bike lane crossings Bicycle conflict striping
+Non-bicycle-safe storm drains
+in bike lane Roadway surface improvements
+Signalized intersection conflicts
+See summary of safety
+improvement options f or signalized
+intersections
+Corridor 5: Burnside Rd
+CLEVEL AND AVE TO POWELL BL VD
+Traffic volumes on Burnside Road range from 26,000 vehicles per day near Cleveland Avenue to 37 ,000 near Powell Boulevard.
+The posted speed limit is 35 mph. The corridor has seen a high number of crashes, including pedestrian crashes, rear-end, and
+angle crashes. Community members have shared concerns about speeding and reported feeling unsafe walking and biking,
+especially near Hogan Drive and Burnside Road. Pedestrians often face challenges with drivers not yielding at intersections, and
+there is a general lack of safe crossing options along the corridor. This corridor is located within Gresham and managed by the
+City of Gresham.
+Site Specific Recommendations
+Raised crosswalk across
+right turn slip lane
+Right on red restriction
+Intersection geometry
+reconfiguration
+ADA improvements
+(on page 31)
+TAKING ACTION TO IMPROVE OUR STREETS   |   38
+30 84
+Southwest Southwest
+Park Park
+Vance Vance
+Park Park
+Salish PondsSalish Ponds
+Wetland ParkWetland Park
+Halsey St
+Stark St
+Division St
+162nd Ave162nd Ave
+223rd Ave223rd Ave
+Burnside Rd
+181st Ave165th Ave
+Glisan St
+202nd Ave
+Division St
+188th Ave
+Burnside St
+192nd Ave194th Ave
+212th Ave
+175th Pl
+190th Ave
+182nd Ave
+19th St
+Johnson C reek
+Johnson C reek
+FAI RVI E WGRE SH AM
+GRE SH AM
+GRE SH AM
+PORTLAN D
+PORTLAN D
+GRE SH AM
+FAIRVIEW WOOD  VI LLAGE
+179th Ave
+N ¾
+Fairview CreekFairview Creek
+Corridor-wide Safety Concerns Corridor-Wide Safety Recommendations
+Speeding
+Speed safety camera enforcement
+Dynamic speed display/feedback signs
+Construct medians
+Lower speed limit
+Infrequent and insufficient
+pedestrian crossings Enhanced pedestrian crossings
+Uncomfortable bike lanes Separated/ protected bicycle lane
+Indistinct bike lane crossings Bicycle conflict striping
+Buses block bike lane Floating bus stops (bike lane behind bus stop)
+Signalized intersection conflicts See summary of safety improvement options f or signalized intersections
+Corridor 6: Stark St
+162ND AVE TO 223RD AVE
+Between 162nd and 223rd Avenues, Stark Street carries between 12,000 and 24,000 vehicles per day, with a posted speed
+limit of 35 mph. It has a high number of crashes, including rear-end, pedestrian, and angle crashes—along with some head-
+on crashes. Crash data points to excessive speeding as a contributing factor. Community members have expressed concerns
+about feeling unsafe walking and biking. Long distances between marked or enhanced pedestrian crossings increase risk for
+people walking, and buses stopping in bike lanes create conflicts for people biking. This corridor is located within Gresham
+and managed by the City of Gresham.
+(on page 31)
+TAKING ACTION TO IMPROVE OUR STREETS   |   39
+JewitJewit
+LakeLake
+Fairview LakeFairview Lake
+McGuire McGuire
+Island Park Island Park
+GovernmentGovernment
+Island State Island State
+Recreation AreaRecreation Area
+Halsey St
+185th Dr
+162nd Ave162nd Ave
+Stark St
+181st Ave
+Glisan St
+Halsey St
+202nd Ave
+San Rafael St
+223rd Ave
+Airport Way
+Burnside St
+SundialRd
+Fairview Lake Way
+Rd
+Sandy Blvd
+175th Pl
+Graham Rd
+Swigert Way
+257th Ave257th Ave
+172nd Ave
+192nd Ave
+Sandy River
+Sandy River
+Columbia SloughColumbia Slough
+ColumbiaRiver
+ColumbiaRiver
+KellyCreek
+KellyCreek
+Arata Creek
+Arata Creek
+CAM AS
+WASH OU GAL
+CAM AS
+W E I V R I A F
+GRE SH AM
+FAIRVIEW
+FAI RVI E W
+GRE SH AMPORTLAN D
+GRE SH AM
+TROU TDALE
+TROU TDALE
+GRE SH AM
+WOOD  VI LLAGE
+GRE SH AM
+PORTLAN D
+VAN COU VE R
+N ¾
+Site Specific Recommendations
+Roadway reconfiguration
+Construct medians
+Pedestrian refuge islands
+Corridor-wide Safety Concerns Corridor-Wide Safety Recommendations
+Speeding
+Lower speed limit
+Narrow vehicle lanes
+Uncomfortable bike lanes Separated/
+protected bicycle lane
+Indistinct bike lane crossings Bicycle conflict striping
+Infrequent and insufficient
+pedestrian crossings Enhanced pedestrian crossings
+Gaps in sidewalk facility Sidewalk
+Wide roadway creates longer
+pedestrian crossing distances Curb extensions
+Signalized intersection conflicts
+See summary of safety
+improvement options f or signalized
+intersections
+Corridor 7: Halsey St
+162ND AVE TO 257TH AVE
+Traffic volumes along Halsey Street range from 8,000 to 18,000 vehicles per day. The posted speed limit is 35 mph, with 20 mph
+school zones. Community members have shared concerns about feeling unsafe walking and biking, particularly due to the wide
+roadway and long distances between marked pedestrian crossings—especially between 162nd Avenue and 192nd Avenue. The
+combination of low traffic volumes and inconsistent street design can encourage speeding and make it difficult for pedestrians
+to cross safely. This corridor crosses Gresham, Fairview, Wood Village, and Troutdale and is managed by Gresham and
+Multnomah County.
+(on page 31)
+TAKING ACTION TO IMPROVE OUR STREETS   |   40
+Wood Wood
+Village Village
+City Park City Park
+Treehill Dr
+Arata RdArata Rd
+Ct
+Village
+Walnut Ave
+Halsey St
+Sandy Blvd
+Sandy Blvd
+Birch Ave
+Maple Blvd
+Chinook St
+235th Ave
+Halsey St
+Kokanee Ln
+24 0th Ave
+244th Ave
+237th Ave
+238th Dr
+236th Ave
+Ash Ave
+Arata C
+reek
+Arata C
+reek
+W E I V R I A F
+E G A L L I V D O O W
+E L A D T U O R T
+WOOD VI LLAGE
+N ¾
+Corridor-wide Safety Concerns Corridor-Wide Safety Recommendations
+Speeding Lower speed limit
+Indistinct bike lane crossings Bicycle conflict striping
+Speeding Speed feedback signs
+Inconsistent roadway
+cross section Roadway reconfiguration
+Uncomfortable bike lanes Separated/protected
+bicycle lane
+Signalized intersection conflicts
+See summary of safety
+improvement options f or signalized
+intersections
+Corridor 8: 238th Dr
+SANDY BL VD TO ARA TA RD
+Traffic volumes on 238th Drive range from 12,000 vehicles per day north of I-84 to 24,000 further south. The posted speed limit is
+35 mph. The corridor has experienced a high number of crashes, including rear-end, pedestrian, and angle crashes. Community
+members have raised concerns about speeding. The roadway design is inconsistent between Halsey Street and Arata Road.
+There are also gaps in the bicycle network, and bike facilities are often missing or poorly marked—especially at intersections
+and driveways, where conflicts are more likely. This corridor is located within Wood Village and is partially managed by both
+Multnomah County and ODOT.
+Site Specific Recommendations
+High visibility crosswalks
+(on page 31)
+TAKING ACTION TO IMPROVE OUR STREETS   |   41
+Langley ParkLangley Park
+Indian Indian
+John John
+Park Park
+Stone Stone
+Park Park
+223rd Ave
+Halsey StHalsey St
+Multnomah Dr
+Chinook W
+ay
+Glisan StGlisan St
+Barr Rd
+219th Ave
+Park Ln
+FAI RVI E W
+WOOD  VI LLAGE
+GRE SH AM
+WOOD VI LLAGE
+Fairview CreekFairview Creek
+N¾
+Corridor-wide Safety Concerns Corridor-Wide Safety Recommendations
+Speeding
+Speed safety camera enforcement
+Construct medians
+Lower speed limit
+Uncomfortable bike lanes Separated/
+protected bicycle lane
+Indistinct bike lane crossings Bicycle conflict striping
+Buses block bike lane Floating bus stops
+(bike lane behind bus stop)
+Infrequent and insufficient
+pedestrian crossings Enhanced pedestrian crossings
+Signalized intersection conflicts
+See summary of safety
+improvement options f or signalized
+intersections
+Corridor 9: 223rd Ave
+HALS EY ST TO GLISAN ST
+223rd Ave carries about 18,000 vehicles per day and has a posted speed limit of 35 mph and 40 mph. Community members have
+raised strong concerns about speeding and reckless driving, and the corridor has experienced a high number of crashes—
+including rear-end, pedestrian, and bicycle crashes. People walking and biking report feeling unsafe, particularly where bike lanes
+are unmarked or unclear at intersections and driveways. Buses crossing and stopping in the bike lane also create conflicts for
+people biking. At the intersection with Glisan Street, the right turn lanes are slip lanes, which increase turning speeds and create
+long unsafe crossings for pedestrians, while two vehicle lanes must merge at once—adding further risk. Additional safety issues
+include frequent angle crashes at 223rd Avenue and Park Lane, and an unprotected bike lane at 223rd Avenue and Halsey Street
+that is crossed by turning vehicles. This corridor is located on the boundary of Wood Village and Fairview and is managed by
+Multnomah County.
+Site Specific Recommendations
+Modify right turn lanes to
+slow turning speeds
+ADA improvements
+Lane extention lines
+Roadway reconfiguration
+Protected or protected/
+permissive LT phasing
+Dedicated bicycle
+signal phase
+(on page 31)
+TAKING ACTION TO IMPROVE OUR STREETS   |   42
+Mountain Mountain
+Vista GreenwayVista Greenway
+Mt. Hood
+Community College
+Mt. Hood
+Community College
+Corbeth Ln
+Stark St
+Troutdale Rd
+257th Ave
+GRE SH AM
+TROU TDALE
+BeaverCreek
+BeaverCreek
+N ¾
+Site Specific Recommendations
+Enhanced pedestrian
+crossing
+Corridor-wide Safety Concerns Corridor-Wide Safety Recommendations
+Current design standard,
+if applied, would widen the
+roadway and likely induce
+demand and encourage
+higher speeds
+Two-way left turn lanes
+Sidewalk facility gaps- people are
+walking on gravel across narrow
+bridge
+Sidewalk
+Bicycle facility gaps and lack of
+protection/separation Separated/protected bicycle lane
+Signalized intersection conflicts
+See summary of safety
+improvement options f or signalized
+intersections
+Corridor 10: Stark St
+257TH D R TO TROUTDALE
+Stark Street carries about 12,000 vehicles per day between 257th Drive and Troutdale Road, with a posted speed limit of 40 mph.
+The current design standard, if applied, would widen the roadway, leading to more traffic and faster driving. There are gaps in
+the sidewalk network, including a narrow culvert crossing where people walk on gravel across a bridge with no separation from
+traffic. Long distances between marked or enhanced pedestrian crossings increase risk for people walking. The bike network
+is incomplete, and existing bike lanes lack protection or separation from traffic. This corridor is located on the boundary of
+Gresham and Troutdale and is partially managed by both City of Gresham and Multnomah County.
+(on page 31)
+TAKING ACTION TO IMPROVE OUR STREETS   |   43
+Achieving Zero
+Traffic Deaths
+Safety Strategies and Actions
+This chapter outlines the full set of actions that we will
+take to implement the TSAP and move toward the Vision
+Zero goal of eliminating traffic deaths and serious injuries.
+This implementation framework includes priority steps
+to address the most urgent needs, quick-build and
+demonstration projects, and systemwide improvements
+that respond directly to the safety issues identified in the
+crash analysis and community engagement. Actions are
+aligned with the Safe System categories—Safe Roads,
+Safe Speeds, Safe People, Safe Vehicles, and Post-Crash
+Care—and span infrastructure improvements, policy
+updates, education campaigns, enforcement programs,
+and funding advocacy.
+On the next page, priority next steps are presented,
+together with accompanying key actions and context.
+A toolbox of quick-build projects that provide immediate,
+low-cost safety benefits follows. Table 1 presents the
+systemwide actions and strategies, including roles,
+timelines, and performance metrics. The chapter
+concludes with strategies for performance monitoring
+and reporting.
+These actions to address traffic safety require a
+collaborative, multisector effort. Local agencies and
+community organizations can implement a wide
+range of actions—some within the traditional scope of
+transportation agencies, and others that extend into
+public health, law enforcement, and social services. The
+recommendations in this chapter are based on insights
+from other studies, including reports prepared by Racial
+and Ethnic Approaches to Community Health
+(REACH) and the Multnomah County Health Department,
+highlighting systemic factors and community-driven
+solutions beyond the authority of transportation
+agencies. These actions address the biggest safety issues
+identified in the systemic safety analysis, including
+speeding, intersection conflicts, and pedestrian visibility
+issues. By combining infrastructure improvements with
+education and policy changes, we target both physical
+and behavioral conditions that contribute to serious
+injury and fatal crashes.
+The East Multnomah County Transportation
+Committee (EMCTC) is the transportation
+coordinating committee for the urban eastern
+portion of Multnomah County.
+EMCTC is made up of elected officials from
+Fairview, Gresham, Troutdale, Wood Village,
+Multnomah County, and the Port of Portland. It
+also has non-voting representation from Metro,
+Oregon Department of Transportation (ODOT),  the
+City of Portland, and TriMet. The EMCTC advises
+on transportation policy direction and funding
+priorities for East Multnomah County.
+For the TSAP , EMCTC served as the steering
+committee. Throughout the project, they reviewed
+key materials, such as the public engagement
+plan and other deliverables, and helped shape the
+direction of the work. They also provided input
+on crash data analysis, prioritization, and safety
+infrastructure and actions. EMCTC used all of this
+information to set an ambitious Vision Zero goal for
+this plan and the partner agencies to work towards.
+The EMCTC Technical Advisory Committee
+(TAC), which includes staff representatives from
+each of the agencies, was the project advisory
+group, collaborating and offering support and
+expertise to guide the project every step of
+the way. Looking ahead, both groups will be
+instrumental in overseeing implementation of the
+plan, communicating back with the community,
+and monitoring progress towards the Vision Zero
+goal.
+ACHIEVING ZERO TRAFFIC DEATHS   |   45
+Where Do We Start?
+Priority Steps
+Achieving Vision Zero will require sustained commitment,
+collaboration, and a willingness to act boldly and quickly.
+Where do we start? Progress must begin with tangible,
+near-term steps.
+These priority steps can help move the TSAP from vision
+to reality. They reflect the most urgent needs identified
+through crash data and community engagement, and
+they focus on strategies that can be implemented quickly
+and effectively. These steps emphasize coordination
+across jurisdictions, advocating for funding, and
+building public trust through visible improvements and
+transparent reporting.
+The priority steps on the following pages have been
+organized into the following categories:
+• Design and construction
+• Speed management
+• Funding advocacy
+• Process
+• Policy and program
+Safety Partnerships and Ongoing
+Community Engagement
+Coordination with other agencies and community-
+based organizations in East Multnomah County
+can help ensure that all the organizations that
+have a stake in the upcoming improvements. We
+will coordinate with local agencies such as the
+Multnomah County Sheriff, city police, or TriMet,
+depending on the relevancy to a specific project.
+For example, we will work with TriMet to pair
+transit improvements with planned safety projects.
+Additionally, coordinating with community-based
+organizations such as Oregon Walks or the Street
+Trust may also help amplify engagement to a
+broader community and improve communication
+with local communities.
+Ongoing community engagement is also an
+important next step for the project. Community
+members should continue to be involved through
+updates on the email list and website, project-
+based communication and events. The Multnomah
+County Bicycle and Pedestrian Community
+Advisory Committee serves an important advisory
+role and a way for community members to be
+more involved in implementation.
+ACHIEVING ZERO TRAFFIC DEATHS   |   46
+Context
+While building all the safety improvements identified in
+the TSAP (see Taking Action to Improve our Streets) will
+require a long-term investment, there are opportunities
+to begin now. Some corridors already have projects
+underway, and others present opportunities for quick-
+build improvements that can deliver faster, less costly
+safety benefits. Building safer roads through proven
+safety countermeasures is one of the most effective
+ways to both prevent crashes from happening and
+minimize the harm caused to those involved when
+crashes do occur.
+Our safety analysis shows that intersections are high-risk
+locations for vulnerable road users and a lack of midblock
+crosswalks increases the risk for people crossing the
+street. Among all modes of travel, pedestrians are the
+most at risk in low-light conditions, as drivers have greater
+difficulty detecting people walking or crossing. Existing
+data shows enhancing lighting conditions along priority
+corridors will improve visibility, reduce the likelihood
+of collisions, and create safer and more comfortable
+environments for pedestrians. Through our community
+engagement, we know that people want to see safety
+improvements on East County roadways. Completing
+sidewalk and bike lane gaps was the highest community
+priority, followed closely by improving difficult street
+crossings and the need for better pedestrian-scale
+street lighting.
+Recent investments are already showing results.
+The recent Metropolitan Transportation Improvement
+Program (MTIP) report cited a nearly $24 million
+transportation investment in East Multnomah
+County, including significant safety projects.
+Alongside these investments, there has also been a
+decline in traffic deaths and serious injuries in East
+Multnomah County in 2024. We can continue this trend
+with strategic investments based on our TSAP data and
+community input.
+Speed Management Priority Steps
+Develop a Safe Speeds Strategy and begin piloting speed
+safety cameras and feedback signs.
+Key Actions to Advance
+• Develop a program to enforce speed limits
+and vehicles stopping at stop signals through
+automated speed safety cameras and movable
+ticket vans. (Action 5 in Table 1)
+• Add speed feedback signs paired with
+enforcement along high-injury corridors and in
+school zones. (Action 6 in Table 1)
+• Develop a Safe Speeds Strategy for East
+Multnomah County (Action 7 in Table 1)
+Context
+Our project data, community members, and many
+community organization partners agree that speeding
+is a major concern and leading cause of fatal and serious
+injury crashes on East Multnomah County roads.
+By developing a Safe Speeds Strategy, we will be able
+to conduct additional detailed planning and coordination
+on deployment of speed management strategies
+such as, setting appropriate speed limits, identifying
+opportunities for speed safety cameras, and other proven
+countermeasures. We can also begin moving forward to
+pilot strategies as the City of Gresham is planning a speed
+camera test run to assess the technological feasibility,
+understand the potential workload and revenue impacts,
+evaluate public perception, and determine if the
+technology aligns with the City’s safety goals.
+Design and Construction Priority Steps
+Construct safety improvements identified for the priority
+corridors of the TSAP , as well as on other East Multnomah
+County high-injury corridors.
+Key Actions to Advance
+• Improve street lighting—especially pedestrian
+scale lighting—along the identified priority
+corridors. (Action 1 in Table 1)
+• Complete gaps in sidewalks and bike lanes and
+address ADA accessibility issues. (Action 2 in
+Table 1)
+• Construct high visibility crosswalks with
+beacons (RRFBs) where crossing opportunities
+are distant. (Action 3 in Table 1)
+• Construct safety improvements identified for
+the priority corridors of the Transportation
+Safety Action Plan, as well as on other roads in
+the County with similar safety issues. (Action 4
+in Table 1)
+ACHIEVING ZERO TRAFFIC DEATHS   |   47
+Crash data show that higher vehicle speeds increase
+the likelihood of a crash and the severity of injuries.
+Many pedestrian crashes in the study area occurred on
+busy corridors with high vehicle speeds and limited
+crossings. In school zones, lower speeds can give drivers
+more reaction time for children crossing. Pairing speed
+feedback signs with enforcement reinforces safe driving
+behavior, builds driver speed awareness, and can create
+a safer road environment for all, especially more
+vulnerable users.
+Funding Advocacy Priority Steps
+Partner strategically to advocate for funding to reach our
+Vision Zero goal in East Multnomah County.
+EMCTC’s leadership is critical to advocate for a more
+comprehensive transportation funding package from
+the state, as well as bringing in grants and ensuring
+successful programs, like SRTS, have sustainable funding.
+This multijurisdictional plan will allow us to partner
+strategically and advocate for East County with a
+unified voice.
+Process Priority Steps
+Act on community priorities and opportunities for
+short-term solutions in all safety improvements, both
+new investment and maintenance work. Build trust by
+reporting on progress towards implementing projects
+and programs in the plan.
+Key Actions to Advance
+• Seek additional maintenance capacity
+and resources for safety priorities. (Action 24 in
+Table 1)
+• Pursue grants and other revenue sources that
+can be used for safety projects. (Action 25 in
+Table 1)
+• Continue seeking funding to sustain and grow
+the East Multnomah County Safe Routes to
+School (SRTS) Program. (Action 26 in Table 1)
+Context
+East Multnomah County faces significant transportation
+funding gaps, with needs for roadway maintenance,
+safety upgrades, and larger corridor projects far
+outpacing available resources. Aging infrastructure,
+rising construction costs, and increasing need for
+safer, multimodal streets place added strain on limited
+budgets. While we have been successful in securing some
+state and federally funded grants, these are often project
+specific and competitive, leaving gaps in addressing
+urgent local priorities.
+The East Multnomah County Safe Routes to School
+(SRTS) program has been funded by ODOT and Metro
+grants. Currently, there is no long-term, stable funding
+source for the SRTS program. In our project survey, SRTS
+programming was the second most requested action of
+this plan.
+Key Actions to Advance
+• Continue to gather public feedback and
+empower the public to share roadway safety
+concerns. (Action 8 in Table 1)
+• Create program to fund and implement quick-
+build and low-cost safety projects. (Action 19
+in Table 1)
+• Continue to provide regular safety updates
+to the EMCTC, EMCTC Technical Advisory
+Committee, and the Multnomah County
+Bike and Pedestrian Community Advisory
+Committee to track progress. (Action 20 in
+Table 1)
+• Include TSAP recommended safety
+improvements in upcoming and future
+road projects and incorporate community
+knowledge of safety issues into project design
+and implementation. (Action 21 in Table 1)
+Context
+Through this project, we engaged over 3,000 community
+members from across East County. Our community
+shares widespread safety concerns and wants to see
+change happen quickly. Continued presence at events
+and relationships with community groups will help
+sustain trust, ensure ongoing community input, and
+keep local priorities at the forefront of transportation
+decision-making. By maintaining these connections, the
+County can more effectively identify emerging safety
+concerns, tailor projects to meet the needs of diverse
+populations, and foster a sense of shared ownership over
+improvements.
+ACHIEVING ZERO TRAFFIC DEATHS   |   48
+To create change as quickly as possible, we plan to scope
+these safety improvements into scheduled corridor
+projects and create programs to fund and implement
+quick-build and low-cost improvements. While quick
+builds can be challenging on arterials due to heavy traffic
+and freight needs, they can still be effective when paired
+with targeted solutions—such as lane reconfigurations,
+modular traffic calming, signal timing adjustments, and
+rapid crosswalk enhancements—that do not require full
+reconstruction. For more information about quick builds
+see page 49.
+To continue to build trust with the community and
+implement the plan, we will provide regular safety
+updates to the EMCTC, EMCTC TAC, and the Multnomah
+County Bike and Pedestrian Community Advisory
+Committee. Ongoing reporting allows decision-makers
+to monitor the effectiveness of implemented projects,
+identify emerging challenges, and adjust strategies based
+on data and community feedback. It also strengthens
+transparency, builds trust among member jurisdictions,
+and ensures that limited resources are directed to the
+highest-need locations and projects. By institutionalizing
+these updates, we can demonstrate measurable progress
+toward reducing serious crashes and keep roadway safety
+at the forefront of regional transportation planning.
+Policy and Program Priority Steps
+Upcoming transportation plan and standards updates
+will provide good opportunities to incorporate the Vision
+Zero goal and Safer System Approach into ongoing
+agency projects.
+Key Actions to Advance
+• Incorporate Vision Zero goal and safety
+recommendations into local plans and design
+standards for ongoing implementation. (Action
+10 in Table 1)
+Context
+By embedding Vision Zero principles into TSPs
+(Transportation System Plans), Capital Improvement
+Plans, and design standards, jurisdictions can use multiple
+funding streams and implementation pathways to build
+projects, seek funding, or start programs. Updating these
+guiding documents to reflect safety best practices creates
+a framework for consistent, long-term improvements. We
+can make sure that safety is a baseline requirement, not
+an add-on—so every plan, project, or investment moves
+the community closer to zero traffic deaths.
+Progress has already begun. The City of Gresham is
+updating their TSP and incorporating projects and
+countermeasures from this plan into that effort.
+Multnomah County is updating their Design and
+Construction Manual to add more options for separated
+bike facilities, midblock crossings, and general safety
+updates. The Cities of Troutdale, Fairview, and Wood
+Village will be updating their TSPs and standards in the
+coming years.
+ACHIEVING ZERO TRAFFIC DEATHS   |   49
+Transportation funding is limited, and the community has
+made it clear: they want to see safety improvements now,
+not years from now. We can respond to this urgent need
+by prioritizing quick-build approaches – low-cost, rapidly
+deployable roadway treatments that can reduce vehicle
+speeds and separate vehicles from people walking
+and biking. The strategies can be effective at targeted
+locations on the high priority corridors.
+Quick-build projects may use temporary or semi-
+permanent materials such as paint, flexible delineators,
+modular curbs, and signage. They allow local agencies
+to test safety treatments, gather feedback, and refine
+designs before committing to full capital investments
+that may take a longer amount of time. However, not all
+quick-build projects may be suitable along high-volume
+or high-speed corridors due to traffic complexity, transit
+operations, or the need for more durable materials and
+traffic control.
+Quick Build Approaches for Arterial and
+Collector Roadways
+Arterial and collector roads in East Multnomah County
+are often high-speed, high-volume corridors that serve as
+critical connectors for people walking, biking, rolling, and
+driving. These roads are also where many of the region’s
+most severe crashes occur—particularly those involving
+vulnerable road users.
+These quick build strategies provide immediate, lower-
+cost safety benefits and can be scaled or adapted as
+conditions change, helping address urgent safety
+concerns, test design concepts, and build momentum
+toward long-term Vision Zero goals while pursuing
+funding for larger corridor projects. The two biggest
+priorities from a safety standpoint are to reduce speeds
+and increase separation between people walking and
+biking and vehicles on busy roads.
+Key Elements:
+• To leverage quick builds to balance effectiveness
+and feasibility, start with protected bike lanes, refuge
+islands, signal timing fixes, and lane narrowing (high
+impact + feasible). Layer in road diets, curb extensions,
+and parking-protected lanes where corridor
+conditions and community support allow.
+• Explore how to set up a dedicated budget to build
+quick build projects, even if it is small to start, and
+determine a process to select priority locations.
+• Identify and Pilot Priority Locations – Use crash data
+and community input to select a small set of high-
+need sites to pilot quick build approaches.
+• Apply for SS4A funding to pay for these sites.
+• Monitor outcomes (crash reductions, user feedback,
+travel behavior changes) to build evidence for
+expansion and help secure additional funding.
+Quick-Build and Demonstration Projects:
+A Tool for Immediate Safety Action
+For more information about quick build projects,
+check out Portland Metro’s Community Quick-build
+and Demonstration Projects Guide.
+ACHIEVING ZERO TRAFFIC DEATHS   |   50
+The following treatments are well-suited for high-volume corridors and can be deployed using temporary or semi-
+permanent materials:
+Access and Connectivity
+• Sidewalk infill using temporary materials such as
+modular interlocking panels where feasible
+• ADA-compliant curb ramps and tactile warning
+surfaces*
+• Wayfinding signage to improve navigation and
+visibility
+These treatments can be bundled into corridor-specific
+quick-build packages or deployed as standalone
+improvements. We can coordinate with maintenance
+schedules, transit operations, and community partners
+to ensure successful implementation. Where possible,
+we will pair quick build projects with evaluation plans to
+measure effectiveness and inform future investments.
+Toolbox of Quick-Build Treatments for Arterial
+and Collector Roads
+Speed Management
+• Painted curb extensions to narrow intersections and
+slow turning movements
+• Lane narrowing using striping or flex posts
+• Speed feedback signs and dynamic displays
+• Modular medians to reduce crossing distances and
+calm traffic
+• Chicanes to slow vehicle travel speeds along straight
+corridors
+Pedestrian Safety
+• High-visibility crosswalks with reflective markings
+• Pedestrian refuge islands using modular curbs or
+delineators
+• Pedestrian-scale lighting at crossings and intersections
+• Advance stop bars to increase yielding behavior
+Bicycle Safety
+• Protected bike lanes using flex posts, parking buffers,
+or modular curbs
+• Conflict striping at intersections and driveways
+• Floating bus stops to reduce bus-bike conflicts
+• Surface improvements to address potholes and
+drainage issues
+• Diverters and modal filters to separate bicycles from
+motor vehicles
+Intersection Safety
+• Leading pedestrian intervals (LPIs) to give pedestrians
+a head start
+• Right-on-red restrictions to reduce turning conflicts
+• Turn calming treatments such as rubber speed humps
+or centerline hardening
+• Remove parking near corners to increase visibility
+“Intersection daylighting”
+*ADA-specific plans provide more details on how road
+authorities will address ADA upgrades. All new capital
+projects will be ADA-compliant.
+ACHIEVING ZERO TRAFFIC DEATHS   |   51
+Chicane
+Wayfinding signage Street beautification/public art Modal filters
+Painted curb and bollard curb extensions
+Speed feedback sign
+Advance stop bar and high visibility crosswalk
+Modular curb protected bike lane
+Floating bus stop
+ACHIEVING ZERO TRAFFIC DEATHS   |   52
+ACHIEVING ZERO TRAFFIC DEATHS   |   53
+Action
+Number
+Theme Action Item Action Description Safe System
+Categories
+Participating
+Parties
+Target
+Completion
+Term*
+Potential Performance
+Metrics
+Level of
+Funding
+Required**
+1. Design &
+Construction
+Improve street lighting
+- especially pedestrian
+scale lighting - along
+the identified priority
+corridors.
+Identify opportunities to fill gaps in and
+enhance street lighting by bringing it up to
+currently adopted standards, particularly
+on the HICs and at midblock crosswalks and
+intersections. Priority locations include NE
+Hogan Dr and NE Division St, SE 181st Ave and
+SE Stark St, SE 182nd Ave and Division St.
+Safety improvement projects should include
+photometric analysis and appropriate
+pedestrian scale lighting improvements.
+Safer Roads City of Gresham,
+Mid-County Lighting
+District, Wood
+Village, Multnomah
+County
+Medium Percentage of lighting system improved
+to standards.
+Number of crosswalks with new
+lighting.
+Number of miles of roadway with new
+street lighting (both pedestrian scale
+and vehicular).
+$$
+2. Design &
+Construction
+Complete gaps in
+sidewalks and bike
+lanes and address ADA
+accessibility issues.
+In addition to targeting gaps and accessibility
+needs along high-injury corridors,
+implementation should prioritize transit
+routes, school walksheds, and connections to
+essential destinations. Look for opportunities to
+develop separated (spatially separated or grade
+separated) or protected bicycle facilities to
+address known safety issues on arterial streets
+with high levels of bicycle crashes and severe
+injuries, such as 181st Ave, Burnside Rd, and
+Powell Blvd.
+Safer Roads Cities and
+Multnomah County,
+ODOT***
+Long Percentage progress in filling identified
+gaps.
+Number of miles of completed sidewalk
+and constructed bike lanes across all
+roads in East Multnomah County.
+Number of miles of completed sidewalk
+and constructed bike lanes across
+all arterials and collectors in East
+Multnomah County.
+Percentage progress on ADA Transition
+Plan implementation
+$$$
+* Short: 1-3 years; Medium: 4-7 years; Long: over 8 years; Ongoing: recurring actions
+** $- Likely achievable within typical operating budgets; $$- May need an outside grant to complete; $$$- Likely would require multiple large grants and/or identification of a new revenue source.
+*** Fairview, Gresham, Troutdale, and Wood Village.
+Table 1. Systemwide Safety Transportation Actions and Strategies
+Note: Actions highlighted in orange reflect the most urgent needs and were outlined in the previous priority steps section on page 45.
+The following table presents the actions we will pursue to implement the TSAP . Actions are organized by theme and aligned with the Safe System categories—Safer
+Roads, Safer Speeds, Safer People, Safer Vehicles, and Post-Crash Care. Each action includes a description, participating agencies, target timeline, performance metrics,
+funding level, and implementation considerations such as staffing needs and policy changes. Together, these actions provide local agency staff with a clear and
+structured road map for achieving Vision Zero in East Multnomah County, starting with high-impact, near-term priorities and building toward long-term systemic change.
+ACHIEVING ZERO TRAFFIC DEATHS   |   54
+Table 1: Systemwide Safety Transportation Actions and Strategies, cont’d.
+Action
+Number
+Theme Action Item Action Description Safe System
+Categories
+Participating
+Parties
+Target
+Completion
+Term*
+Potential Performance
+Metrics
+Level of
+Funding
+Required**
+3. Design &
+Construction
+Construct high
+visibility, enhanced
+crosswalks where
+crossing opportunities
+are distant.
+These improvements will enhance safety by
+making pedestrians more visible to drivers,
+reducing crossing distances, and providing
+designated, accessible points for safe street
+crossing. Treatments may include striping with
+reflective markings, rectangular rapid flashing
+beacons (RRFBs), pedestrian hybrid beacons
+(PHBs) or other appropriate signalized devices
+depending on roadway conditions.
+Safer Roads Multnomah County
+and cities
+Long Number of high-visibility crosswalks
+with pedestrian beacons installed in
+areas with crossing gaps greater than
+¼ mile along the priority corridors and
+High Injury Corridors.
+$$
+4. Design &
+Construction
+Construct safety
+improvements
+identified for the
+priority corridors of the
+Transportation Safety
+Action Plan, as well as
+on other roads in the
+County with similar
+safety issues.
+Improvements should address the key target
+areas based on the crash data. This could
+include improved lighting for pedestrian
+facilities, especially in intersections where
+lighting is insufficient and has resulted in severe
+or fatal pedestrian crashes. Improving crossings,
+including adding mid-block crossings to heavy
+pedestrian and vehicle corridors, or adjusting
+signal timings should also be evaluated.
+Additional investments may include improving
+intersection safety for bicycles from turning
+vehicles, as well as implementing additional
+streetscape elements such as bulb outs and
+medians to address other documented safety
+issues identified by the community and in
+crash data. Project implementation will include
+quick build approaches, capital projects, and
+maintenance improvements. Implementation
+timing and strategy will vary for each corridor
+and roadway jurisdiction.
+Safer Roads Multnomah County
+and cities
+Long Number of priority corridors that
+received improvements.
+Number of proven safety improvements
+implemented on priority corridors.
+$$$
+* Short: 1-3 years; Medium: 4-7 years; Long: over 8 years; Ongoing: recurring actions
+** $- Likely achievable within typical operating budgets; $$- May need an outside grant to complete; $$$- Likely would require multiple large grants and/or identification of a new revenue source.
+Note: Actions highlighted in orange reflect the most urgent needs and were outlined in the previous priority steps section on page 45.
+ACHIEVING ZERO TRAFFIC DEATHS   |   55
+Action
+Number
+Theme Action Item Action Description Safe System
+Categories
+Participating
+Parties
+Target
+Completion
+Term*
+Potential Performance
+Metrics
+Level of
+Funding
+Required**
+5. Speed
+Management
+Develop a program to
+enforce speed limits
+and vehicles stopping
+at stop signals through
+automated speed
+safety cameras and
+movable ticket vans.
+Enact these changes across East Multnomah
+County, but some initial specific locations to
+prioritize include: SE Hogan Rd from Powell Blvd
+to Springwater Corridor Trail, SE 182nd Ave from
+SE Yamhill St to Springwater Corridor Trail, SE
+Stark St from SE 162nd Ave to SE 223rd Ave, and
+SE 223rd Ave from NE Halsey St to NE Glisan St.
+Use annual crash and speed data to evaluate
+effectiveness and identify new locations for
+camera expansion.
+Safer Speeds City of Gresham,
+City of Troutdale,
+City of Fairview, City
+of Wood Village,
+Gresham Police,
+Multnomah County
+Sheriff’s Office
+Short Number of speed safety cameras
+installed.
+Percent reduction in vehicles traveling
+10 mph or more over the posted speed
+limit at speed safety camera locations
+$$
+6. Speed
+Management
+Add speed feedback
+signs paired with
+enforcement along
+high injury corridors
+and in school zones.
+Implement speed feedback signs and
+accompanying enforcement and education in
+identified HICs and school zones, and create a
+plan for identifying and improving other areas
+in need.
+Some specific locations to prioritize include:
+Hogan Rd from Powell Blvd to Springwater
+Corridor Trail, 182nd from Yamhill St to
+Springwater Corridor, Stark St from 162nd Ave
+to 223rd Ave, and 223rd Ave from Halsey St to
+Glisan St.
+Safer Speeds Multnomah County,
+Gresham Police,
+Sheriff’s Office, and
+cities
+Short Measure reduction in vehicle speeds
+after speed feedback signs have
+been installed. Track the increase in
+the number of speed feedback signs
+installed on high injury corridors.
+$$
+7. Speed
+Management
+Develop a Safe Speeds
+Strategy for East
+Multnomah County.
+The strategy can help to prioritize streets for
+working with partners to conduct speed studies
+and lower speed limits, installing traffic calming
+treatments, and pairing efforts with education
+and enforcement actions. The strategy should
+be developed with EMCTC input and approved
+by partner agencies’ lead staff.
+Safer Speeds ODOT, Multnomah
+County
+(Transportation
+Division and Health
+Department),
+Sheriff’s Office,
+Gresham Police and
+cities
+Medium (short if
+we receive SS4A
+grant)
+Track the start, completion, and
+adoption of Safe Speeds Strategy
+$$
+* Short: 1-3 years; Medium: 4-7 years; Long: over 8 years; Ongoing: recurring actions
+** $- Likely achievable within typical operating budgets; $$- May need an outside grant to complete; $$$- Likely would require multiple large grants and/or identification of a new revenue source.
+Note: Actions highlighted in orange reflect the most urgent needs and were outlined in the previous priority steps section on page 45.
+Table 1: Systemwide Safety Transportation Actions and Strategies, cont’d.
+ACHIEVING ZERO TRAFFIC DEATHS   |   56
+Action
+Number
+Theme Action Item Action Description Safe System
+Categories
+Participating
+Parties
+Target
+Completion
+Term*
+Potential Performance
+Metrics
+Level of
+Funding
+Required**
+8. Policies and
+Programs
+Continue to gather
+public feedback and
+empower the public to
+share roadway safety
+concerns.
+Develop and implement a standing public
+engagement strategy, with at least one
+community outreach activity per city (4 total)
+each year focused on roadway safety priorities
+and experiences. Include updates about the
+Transportation Safety Action Plan in typical
+ongoing in-person outreach, particularly over
+the summer months, as well as email updates
+using the mailing list. Advertise See Click Fix
+as a method of reporting safety concerns
+and making sure its accessible to diverse
+communities.
+Safer People Multnomah County
+(Transportation
+Division and Health
+Department) and
+cities
+Short Number of events and communications
+containing transportation safety
+information and updates.
+$
+9. Policies and
+Programs
+Fully staff local police
+traffic division and
+recreate a focused
+traffic enforcement
+team at the County
+Sheriff’s Office.
+These teams will focus on high-visibility
+enforcement of the most dangerous driving
+behaviors—such as speeding, impaired
+driving, and failure to yield—particularly
+in high-crash corridors and neighborhoods
+experiencing disproportionate traffic safety
+risks.
+Safer People Gresham Police
+Department,
+Multnomah County
+Sheriff’s Office
+Medium Number of dedicated traffic division
+deputies
+$$$
+* Short: 1-3 years; Medium: 4-7 years; Long: over 8 years; Ongoing: recurring actions
+** $- Likely achievable within typical operating budgets; $$- May need an outside grant to complete; $$$- Likely would require multiple large grants and/or identification of a new revenue source.
+Note: Actions highlighted in orange reflect the most urgent needs and were outlined in the previous priority steps section on page 45.
+Table 1: Systemwide Safety Transportation Actions and Strategies, cont’d.
+ACHIEVING ZERO TRAFFIC DEATHS   |   57
+Action
+Number
+Theme Action Item Action Description Safe System
+Categories
+Participating
+Parties
+Target
+Completion
+Term*
+Potential Performance
+Metrics
+Level of
+Funding
+Required**
+10. Policies and
+Programs
+Incorporate Vision
+Zero goal and safety
+recommendations into
+local plans and design
+standards for ongoing
+implementation.
+Update cities’ Transportation System Plans to
+include safe system goals and safety actions
+identified in the TSAP .
+Update Capital Improvement Plans to include
+safety improvements identified in the TSAP as
+well as criteria to prioritize investments based
+on systemic crash analysis.
+Update the Multnomah County Design and
+Construction Manual and Standard Drawings
+focusing on roadway safety and specifically
+vulnerable roadway user safety. Recommended
+updates include but are not limited to: curb radii
+standards, stop bar standards, bike lane width
+standards/protection, traffic calming standards
+and guidance, discouraging slip-lane use, bus
+stop facility standards and guidance, pedestrian
+crossing design and spacing standards, slip lane
+standards, Leading Pedestrian Interval (LPI) and
+No Turn On Red (NTOR) guidelines, and Design
+Level-of-Service standards that define level of
+acceptable performance conditions for facilities.
+Incorporate Vision Zero goals into upcoming
+community health improvement plan.
+Safer Roads Multnomah County
+(Transportation
+Division and Health
+Department) and
+cities
+Medium Number of plans and/or standards that
+have been updated to include TSAP
+recommendations.
+$
+* Short: 1-3 years; Medium: 4-7 years; Long: over 8 years; Ongoing: recurring actions
+** $- Likely achievable within typical operating budgets; $$- May need an outside grant to complete; $$$- Likely would require multiple large grants and/or identification of a new revenue source.
+Note: Actions highlighted in orange reflect the most urgent needs and were outlined in the previous priority steps section on page 45.
+Table 1: Systemwide Safety Transportation Actions and Strategies, cont’d.
+ACHIEVING ZERO TRAFFIC DEATHS   |   58
+Action
+Number
+Theme Action Item Action Description Safe System
+Categories
+Participating
+Parties
+Target
+Completion
+Term*
+Potential Performance
+Metrics
+Level of
+Funding
+Required**
+11. Policies and
+Programs
+Support legislation to
+lower Oregon’s legal
+blood alcohol content
+(BAC) limit from 0.08%
+to 0.05% and increase
+enforcement of driving
+under the influence and
+distracted driving.
+Work with and advocate with state governing
+agencies and advocacy groups to lower the BAC.
+This includes setting up or joining recurring
+discussions with stakeholders, sending an
+EMCTC letter to support a bill, and speaking
+with state officials as needed.
+Safer People EMCTC, Multnomah
+County Health
+Department
+Medium Number of meetings with state
+agencies and relevant advocacy groups
+on this subject.
+Adoption of legislative change
+$
+12. Policies and
+Programs
+Work towards a
+Vision Zero Fleet by
+purchasing safer fleet
+vehicles as old ones
+need to be replaced.
+When replacing fleet vehicles, review
+safety features that are included in each
+manufacturer’s standard package and add
+additional features, as feasible. Desirable
+advanced driver assistance systems (ADAS)
+features include blind spot monitoring,
+automatic emergency braking, lane keeping
+assist, etc.
+Safer Vehicles EMCTC, Multnomah
+County, and cities
+Medium Percent reduction in preventable
+crashes involving agency fleet vehicles
+per year.
+Percentage of fleet vehicles equipped
+with safety technology (e.g.,
+telematics, automatic emergency
+braking, speed governors, backup
+cameras).
+$
+13. Policies and
+Programs
+Work with partners to
+increase ride options
+and explore other
+strategies to reduce
+drunk and impaired
+driving.
+Promote and look for ways to support existing
+safe transportation alternatives such as
+late-night bus routes, rideshare partnerships,
+or voucher programs. Additionally, work
+with driver-for-hire services (including taxis,
+rideshare companies, and other private
+companies), transit providers, and bar owners
+to develop a targeted DUI program in hotspots
+linked to DUI citations.
+Safer People Multnomah County
+(Transportation
+Division and Health
+Department)
+Medium Number of new partnerships with
+relevant community partners.
+$$
+* Short: 1-3 years; Medium: 4-7 years; Long: over 8 years; Ongoing: recurring actions
+** $- Likely achievable within typical operating budgets; $$- May need an outside grant to complete; $$$- Likely would require multiple large grants and/or identification of a new revenue source.
+Note: Actions highlighted in orange reflect the most urgent needs and were outlined in the previous priority steps section on page 45.
+Table 1: Systemwide Safety Transportation Actions and Strategies, cont’d.
+ACHIEVING ZERO TRAFFIC DEATHS   |   59
+Action
+Number
+Theme Action Item Action Description Safe System
+Categories
+Participating
+Parties
+Target
+Completion
+Term*
+Potential Performance
+Metrics
+Level of
+Funding
+Required**
+14. Policies and
+Programs
+Advocate for state
+and national laws
+that require safe
+vehicle standards and
+technology.
+Integrate into annual legislative and policy
+advocacy agenda, with clearly defined priorities
+and documented engagement with state and
+national level initiatives Apply for a Road to
+Zero grant to explore other strategies to address
+impaired driving crashes.
+Safer Vehicles EMCTC, Multnomah
+County Health
+Department
+Medium Document EMCTC support and
+advocacy.
+$
+15. Policies and
+Programs
+Coordinate with
+partners to assess
+needs for post-
+crash response
+improvements.
+Identify and partner with relevant community
+partners to determine data sharing needs,
+response needs, strategies to adopt latest
+evidence-based practices, and victim priorities.
+Post-Crash Care Multnomah County
+Health Department
+Medium  Number of partner agencies engaged
+(e.g., fire, EMS, law enforcement,
+hospitals, transportation).
+$
+16. Education Deliver a safety
+education campaign
+in East Multnomah
+County.
+Launch and implement a comprehensive and
+culturally relevant speed safety campaign
+including multilingual education materials and
+tailored outreach strategies for community
+groups (e.g., non-English speakers, youth, and
+older adults). Speed is a top risk factor in many
+serious and fatal crashes in East Multnomah
+County and a high priority public concern.
+Safer People Multnomah County
+and cities, Gresham
+Police Department,
+Sheriff’s Office
+Medium Completion of campaign design.
+Number of community members
+reached through the campaign.
+Number of community partners helping
+to promote the campaign.
+$$
+17. Education Create a program for
+deploying variable
+message boards
+throughout East
+Multnomah County
+along high crash
+corridors.
+Messages can inform on fatal crashes, school
+zone awareness, speeding, or other safety
+considerations.
+Safer People Multnomah County
+and cities
+Medium Number of messages displayed per
+year.
+$$
+* Short: 1-3 years; Medium: 4-7 years; Long: over 8 years; Ongoing: recurring actions
+** $- Likely achievable within typical operating budgets; $$- May need an outside grant to complete; $$$- Likely would require multiple large grants and/or identification of a new revenue source.
+Note: Actions highlighted in orange reflect the most urgent needs and were outlined in the previous priority steps section on page 45.
+Table 1: Systemwide Safety Transportation Actions and Strategies, cont’d.
+ACHIEVING ZERO TRAFFIC DEATHS   |   60
+Action
+Number
+Theme Action Item Action Description Safe System
+Categories
+Participating
+Parties
+Target
+Completion
+Term*
+Potential Performance
+Metrics
+Level of
+Funding
+Required**
+18. Education Educate property
+owners on sidewalk
+maintenance
+requirements for
+accessibility.
+Design and create property owner sidewalk
+maintenance educational resources and
+outreach plan. Ensure materials are accessible
+in multiple formats and languages and explore
+ways to make sidewalk permitting easier and
+more affordable.
+Safer People Multnomah County
+and cities
+Long Completion of education materials and
+promotion plan.
+Number of property owners reached.
+Percent change in sidewalk repair
+permit applications.
+$
+19. Policies and
+Programs
+Create program to fund
+and implement quick
+build and low-cost
+safety projects.
+Develop a program that identifies, funds,
+and delivers quick-build and low-cost safety
+improvements to address urgent transportation
+safety needs. These projects may include
+temporary or lower-cost treatments such
+as flexible delineators, paint-and-post curb
+extensions, high-visibility crosswalks, signage,
+or traffic calming elements. By streamlining
+funding and implementation processes, this
+program will allow agencies and partners
+to respond quickly to community-identified
+concerns, pilot innovative safety solutions, and
+make immediate progress toward reducing
+serious crashes while larger capital projects are
+planned and built.
+Safer Roads Multnomah County
+and cities
+Short Number of quick-build and low-cost
+safety projects implemented per year in
+East Multnomah County.
+$$
+20. Process Continue to provide
+regular safety updates
+to the EMCTC, EMCTC
+TAC, and Bike and
+Pedestrian Community
+Advisory Committee
+(BPCAC) to track
+progress.
+Publish an annual report or webpage that tracks
+crash data and implementation progress using
+key performance metrics. Dedicate at least one
+EMCTC working session a year towards safety.
+Encourage partner jurisdictions to brief their
+commission/council on annual progress as well.
+In presentations make connections between
+land use and safety.
+Safer People Multnomah County,
+City of Gresham,
+Metro
+Ongoing Number of briefings.
+Completion of annual report and
+evaluation.
+$
+* Short: 1-3 years; Medium: 4-7 years; Long: over 8 years; Ongoing: recurring actions
+** $- Likely achievable within typical operating budgets; $$- May need an outside grant to complete; $$$- Likely would require multiple large grants and/or identification of a new revenue source.
+Note: Actions highlighted in orange reflect the most urgent needs and were outlined in the previous priority steps section on page 45.
+Table 1: Systemwide Safety Transportation Actions and Strategies, cont’d.
+ACHIEVING ZERO TRAFFIC DEATHS   |   61
+Table 1: Systemwide Safety Transportation Actions and Strategies, cont’d.
+Action
+Number
+Theme Action Item Action Description Safe System
+Categories
+Participating
+Parties
+Target
+Completion
+Term*
+Potential Performance
+Metrics
+Level of
+Funding
+Required**
+21. Process Include TSAP
+recommended safety
+improvements
+in upcoming and
+future road projects
+and incorporate
+community knowledge
+of safety issues into
+project design and
+implementation.
+The TSAP identifies many proven safety
+improvements that correspond to the crash
+profiles on our roads and can be incorporated
+into the design of upcoming road projects.
+Through the TSAP , the community shared
+specific safety issues and locations as well as
+safety measures they support. This information
+can provide a starting place for engaging the
+community on specific improvement projects.
+Create guiding process documentation to
+consistently implement these practices in future
+corridor projects.
+Safer Roads Multnomah County
+and cities
+Ongoing Number of corridor projects that
+include safety improvements and how
+they are being used.
+Number of projects using inclusive
+community engagement best practices.
+$$
+22. Process Update the Plan and
+HICs.
+Update this TSAP every 5 years to track progress
+and meet evolving needs. Make updates to the
+High Injury Corridors Map based on the most
+recent data available. More frequent updates to
+HICs and other crash data can be documented in
+the annual progress report.
+Safer Roads Cities, Multnomah
+County, Metro,
+EMCTC
+Medium Completion of Transportation Safety
+Action Plan and HIC Map updates every
+5 years.
+$$
+23. Process Evaluate locations
+where fatal crashes
+occur, identify safety
+improvements,
+and consider if
+implementation can
+occur through a quick
+build program or rapid
+response grant.
+Complete an evaluation/inventory of fatal crash
+locations after they happen and identify safety
+improvements and implementation strategies
+for all sites. Complete an evaluation of fatal
+crash locations annually to identify new priority
+locations.
+Safer Roads Multnomah County
+(Transportation
+Division and Health
+Department) and
+City of Gresham
+Long Percent of fatal crash locations
+evaluated annually.
+Percentage of fatal crash locations
+with documented safety improvement
+recommendations.
+$$
+* Short: 1-3 years; Medium: 4-7 years; Long: over 8 years; Ongoing: recurring actions
+** $- Likely achievable within typical operating budgets; $$- May need an outside grant to complete; $$$- Likely would require multiple large grants and/or identification of a new revenue source.
+Note: Actions highlighted in orange reflect the most urgent needs and were outlined in the previous priority steps section on page 45.
+ACHIEVING ZERO TRAFFIC DEATHS   |   62
+Action
+Number
+Theme Action Item Action Description Safe System
+Categories
+Participating
+Parties
+Target
+Completion
+Term*
+Potential Performance
+Metrics
+Level of
+Funding
+Required**
+24. Funding
+Advocacy
+Seek additional
+maintenance capacity
+and resources for safety
+priorities.
+Continue advocating for funding and working
+to stabilize maintenance capabilities to
+increase safety on roadways and public trust.
+Integrate safety into maintenance and asset
+management prioritization processes. Utilize
+maintenance staff’s expertise in reviewing
+and addressing safety needs. Look for
+opportunities for maintenance staff to assist in
+implementing quick build safety improvements
+in coordination with maintenance activities.
+Design safety improvements that consider
+maintenance capacity and equipment needs.
+Safer Roads Multnomah County
+and cities
+Long Number of surface maintenance service
+requests.
+Pavement Condition Index (PCI).
+Number of regulatory and warning
+signs replaced or repaired.
+$$$
+25. Funding
+Advocacy
+Pursue grants and
+other funding sources
+that can be used for
+safety projects.
+EMCTC should strategize and advocate for
+funding for East Multnomah County safety
+projects at regional committees and at the state
+legislature. Staff will apply for Safe Streets and
+Roads for All (SS4A) Implementation funding
+and other available state, regional or federal
+funds for priority safety infrastructure projects
+identified in the Safety Action Plan.
+Safer Roads EMCTC,
+Multnomah County
+(Transportation
+Division and Health
+Department), and
+Cities
+Short Number of grant applications.
+Number of successful grant
+applications.
+Total dollars awarded for safety
+projects.
+$
+26. Funding
+Advocacy
+Continue seeking
+funding to sustain
+and grow the East
+Multnomah County
+Safe Routes to School
+Program.
+Continue to leverage Metro and state grants
+as available but seek other opportunities for
+long-term funding for the East Multnomah
+County Safe Routes to Schools and Vision Zero
+Programs.
+Safer People East Multnomah
+County SRTS
+Partnership:
+Multnomah
+County, City of
+Gresham, Portland,
+School Districts,
+Community Partner
+Organizations, Metro
+Medium Dollars allocated to the East
+Multnomah County SRTS Program.
+$
+Table 1: Systemwide Safety Transportation Actions and Strategies, cont’d.
+* Short: 1-3 years; Medium: 4-7 years; Long: over 8 years; Ongoing: recurring actions
+** $- Likely achievable within typical operating budgets; $$- May need an outside grant to complete; $$$- Likely would require multiple large grants and/or identification of a new revenue source.
+Note: Actions highlighted in orange reflect the most urgent needs and were outlined in the previous priority steps section on page 45.
+Performance Monitoring and Reporting
+To promote accountability and continuous improvement
+toward the Vision Zero goal, we will implement a
+performance monitoring and reporting framework.
+This framework will track progress toward eliminating
+traffic-related fatalities and serious injuries by setting
+performance targets for each strategy and action.
+Progress will be documented through an annual safety
+report, which will be presented to EMCTC and made
+publicly available on the County’s website to maintain
+transparency and build community trust.
+This approach directly supports the SS4A Implementation
+Grant requirements, which call for:
+• Ongoing performance tracking of safety outcomes
+• Public transparency through regular reporting
+• Data-driven decision-making to guide future
+investments
+• Evaluation of impacts and benefits to underserved
+communities
+This ongoing evaluation process will guide resource
+allocation, inform policy adjustments, and check
+that investments are improving safety across the
+transportation system. The framework will track regional
+safety metrics in East Multnomah County such as:
+• Total deaths and serious injuries (single-year and
+five-year rolling averages as required by the Federal
+Highway Administration’s Safety Performance
+Management Program
+• Death and serious injury rates per 100 million vehicle
+miles traveled
+• Total pedestrian and bicyclist deaths and serious
+injuries
+• Outreach and engagement events held to promote
+safety
+• To the extent possible, investments to improve safety
+issues on the priority safety corridors
+Much of this data is already available from Metro Regional
+Government.
+ACHIEVING ZERO TRAFFIC DEATHS   |   63

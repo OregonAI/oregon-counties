@@ -1,0 +1,665 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-resolution-approving-a-petition-to-annex-a-single-parcel-of-land-to-the-dunthorpe-riverdale-service-district-pursuant-to-ors-198-8-33285f
+title: 'Resolution Approving A Petition To Annex A Single Parcel Of Land To The Dunthorpe-Riverdale Service District Pursuant To Ors 198.857 And Authorizing The Chair To Provide The District’S Endorsement On The Petition.'
+doc_type: ordinance
+citation: 'Resolution Approving A Petition To Annex A Single Parcel Of Land To The Dunthorpe-Riverdale Service District Pursuant To Ors 198.857 And Authorizing The Chair To Provide The District’S Endorsement On The Petition.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_approving_a_petition_to_annex_a_single_parcel_of_land_to_the_dunthorpe-riverdale_service_district_pursuant_to_ors_198.857_and_authorizing_the_chair_to_provide_the_district%E2%80%99s_endorsement_on_the_petition./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 8d108209a90f4d8372f480882d41c8ca5a48651af492abaccfa818f167e7ab2c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 190.003
+    - ORS 195.020
+    - ORS 195.065
+    - ORS 195.205
+    - ORS 197.175
+    - ORS 198.705
+    - ORS 198.725
+    - ORS 198.857
+    - OAR 660-003-0010
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Approving A Petition To Annex A Single Parcel Of Land To The Dunthorpe-Riverdale Service District Pursuant To Ors 198.857 And Authorizing The Chair To Provide The District’S Endorsement On The Petition. (Resolution Approving A Petition To Annex A Single Parcel Of Land To The Dunthorpe-Riverdale Service District Pursuant To Ors 198.857 And Authorizing The Chair To Provide The District’S Endorsement On The Petition.)
+
+## At a glance
+
+Resolution Approving A Petition To Annex A Single Parcel Of Land To The Dunthorpe-Riverdale Service District Pursuant To Ors 198.857 And Authorizing The Chair To Provide The District’S Endorsement On The Petition. — orders of Multnomah County. 18 pages.
+
+## Full text
+
+Page 1 of 2 - Approving a Petition to Annex a Single Parcel of Land to the Dunthorpe-
+Riverdale Service District pursuant to ORS 198.857 and Authorizing the Chair to Provide the
+District’s Endorsement on the Petition.
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+GOVERNING BODY FOR DUNTHORPE-RIVERDALE SERVICE DISTRICT
+RESOLUTION NO.  2022-009
+Approving a Petition to Annex a Single Parcel of Land to the Dunthorpe-Riverdale Service
+District pursuant to ORS 198.857  and Authorizing the Chair to Provide  the District’s
+Endorsement on the Petition.
+The Multnomah County Board of Commissioners Finds:
+a. The Duntho rpe-Riverdale Service District  (“District”) is a county service district
+organized under ORS Chapter 451.   The Multnomah County Board of County
+Commissioners is the governing body of the District (“District Board”).
+b. ORS 198.857  provides a process for annexing  a parcel of land to a county service
+district.  ORS 198.857(2) requires that the board of a county service district approve an
+annexation petition by endorsement thereon before the annexation petition is filed with
+the county board.
+c. Petitioners have submitted an annexation petition to  the Distr ict for approval by
+endorsement on the petition .  The annexation petition is attached hereto as Exhibit 1
+and includes a map and legal description of the property.
+d. Per the District s taff report  prepared for the Multnomah County Board of County
+Commissioners, attached hereto as Exhibit 2, annexation to the District of the property
+described in Exhibit 1 is consistent with the statewide planning goals, the Principal Act
+(ORS Chapter 451) , and Metro Code Chapter 3.09,  and the petition meets the
+requirements of ORS 198.857.
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+/ / /
+Page 2 of 2 - Approving a Petition to Annex a Single Parcel of Land to the Dunthorpe-
+Riverdale Service District pursuant to ORS 198.857 and Authorizing the Chair to Provide the
+District’s Endorsement on the Petition.
+The Multnomah County Board of Commissioners Resolves:
+1. The District Board approves the annexation petition attached hereto as Exhibit 1.
+2. The County Chair, acting as the Chair of the governing body of the Dunthorpe-Riverdale
+Service District, is authorized and directed to provide the District Board’s approval by
+endorsement on the petition attached hereto as Exhibit 1.
+ADOPTED this 10th day of February, 2022.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+GOVERNING BODY FOR DUNTHORPE -
+RIVERDALE SERVICE DISTRICT
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+SUBMITTED BY: JAMIE WALTZ, DCS DIRECTOR
+By K�ce ��--- Katherine Thomas, Assistant County Attorney
+Exhibit 1 COVER PAGE
+to
+Dunthorpe-Riverdale Service District Resolution Approving a
+Petition to Annex a Single Parcel of Land to the Dunthorpe-
+Riverdale Service District pursuant to ORS 198.857 and
+Authorizing the Chair to Provide the District’s Endorsement on the
+Petition
+PETITION OF LAND OWNER(S)
+FOR A DISTRICT ANNEXATION
+PETITION FOR ANNEXATION TO THE: Dunthorpe-Riverdale Service District, a
+district organized under ORS 451. This petition is filed pursuant to ORS 198.857.
+TO: The Board of County Commissioners of Multnomah County
+We, the undersigned land owner(s) in the territory proposed to be annexed as
+described in Exhibit A, as described below, hereby petition for, and give our
+consent to, annexation of the area to the Dunthorpe-Riverdale Service District
+to construct maintain and operate sewage works.
+Other affected districts (if any), and the principal Act of each are: ____ N_I_A ___ _
+The affected county's are: Multnomah and Clackamas County
+The proposed annexation is subject to the following terms and conditions (if any):
+Petitioners will enter into an Annexation Contract with the City of Lake Oswego.
+The Multnomah County Board of Commissioners has jurisdiction to act on this petition
+pursuant to ORS 198.857, 198.725, and 198.705(17), and Metro Code 3.09.040(A)(1)
+The Property Owners of .89 acres in Multnomah and Clackamas County are:
+David A. Weinstein
+Print Name
+70;?.o Sw -:s,� ,Ave Po,Ha,'L(?.( o(l.. 91.:219 . I
+Ignature
+Shaina G. Weinstein
+Print Name
+1-020 )W :JC, -ff. Jkc-. Po-r.J-La-W 0/2, C,r--2I9
+Mailing Address
+0,· ... ajJ� V\.JG V
+Signature
+There are no electors within the affected terrority.
+Petition to Annex into Dunthorpe-Riverdale Service District Endorsed by:
+Multnomah County Chair acting as District Board Chair
+The property to be annexed is described as follows: See Exhibit A for description and map of the affected territory
+Revised January 2022
+_______________________________ ________________________________
+_____________________
+Certified by: Print Name Certified by: Signature
+Date Signed
+Chet Hagen, Program Manager
+1/13/2022
+PROPE
+RTY DESCRIPTION
+December 16, 2021
+Project No. 21172
+Annexation Area
+
+A t
+ract of land situated in th e Northeast one-quarter of Section 3, Township 2 South, Range 1
+East of the Willamette Meridian, Clackamas County, Oregon and Southeast one-quarter of
+Section 34, Township 1 South, Range 1 East of the Willamette Meridian, Multnomah County,
+Oregon, being a portion of Blocks 131 and 132, DUNTHORPE, being more particularly
+described as follows:
+
+Begi
+nning at a point on the northeasterly right of way line of SW Iron Mountain Boulevard which
+bears
+northwesterly 15 feet (Deed) from the southeasterly line of Block 132; thence North
+41°13’45” East, a distance of 332.63 feet to a point on the northeasterly line of said Block 132;
+the
+nce South 35°17 ’17” East along said northeasterly line, a distance of 69.94 feet to the most
+easterly corner of said Block 132, said point being the most northerly corner of Block 131; thence
+South 61°12 ’29” East along the northeasterly line of said Block 131, a distance of 27.94 fee t;
+
+thence leaving said northeasterly line, South 30°52 ’04” East, a distance of 332.03 feet to the
+northerly right of way line of said SW Iron Mountain Boulevard; thence northwesterly along said
+right of way line on a curve to the right having a radius of 555.00 feet through a central angle of
+11°43’16” an arc distance of 113.54 feet to a compound curve; thence along said curve having a
+radi
+us of 1470.00 feet through a central angle of 01°38 ’06” an arc distance of 41.95 feet to the
+Point of Beginning.
+Contai
+ning 41,110 square feet.
+ANDY PA
+RIS & ASSOCIAT
+ES, INC.
+160
+57 BOONES FERRY ROAD
+LAKE OSWEG
+O, OREGON 97035
+503-636-334
+Exhibit A to Petition of Land Owner(s) for a District Annexation
+Exhibit A to Petition of Land Owner(s) for a District Annexation
+EXHIBIT 2
+TO:
+FROM:
+Date of Staff Report:
+Date of County Board Hearing:
+Multnomah County Board of County Commissioners
+Chet Hagen, Dunthorpe-Riverdale Service District Program
+Manager
+January 25, 2022
+March 3, 2022
+DUNTHORPE-RIVERDALE SERVICE DISTRICT ANNEXATION PETITION STAFF REPORT
+Petitioners: Property Owners – David A. and Shaina G. Weinstein
+Subject Property: Located at 13175 SW Iron Mountain Blvd: Tax Lot 21E03AA00900, NE
+1/4 Sec. 3, T2S R1E, W.M., Clackamas County, Oregon and Tax Lot
+1S1E34DD -03000, SE 1/4 of Section 34, T1S, R1E, W.M. Multnomah
+County, Oregon
+(See attached legal description and map)
+1. Staff Recommendation/Action Requested:  Approval of annexation petition
+2. Financial Impact to Multnomah County:  None
+3. Legal Issues:  None
+4. Link to Current County Policies:  None
+5. Citizen Participation: By the time of the hearing, notice of the
+Multnomah County Board of County
+Commissioners hearing on the annexation
+petition will consist of: 1) Published notice in
+the Oregonian; 2) Mailed notice to the
+Petitioners, affected local governments, all
+property owners within 100 feet of the area
+to be annexed, and all recognized
+neighborhood or community organizations
+whose boundaries include the subject
+property; and 3) weatherproof posting of the
+hearing notice on a sign located in the public
+right-of-way adjacent to the subject property.
+Notice of this hearing includes information on
+how to provide testimony.
+Page 2 of 4 – Staff Report on Annexation Petition for 13175 SW Iron Mountain Blvd
+6. Other Government Participation: The Dunthorpe-Riverdale Service District
+(“District”) is a county service district that
+provides sanitary sewer service in
+unincorporated Multnomah and Clackamas
+counties and for which the Multnomah
+County Board of County Commissioners
+serves as the governing body (“District
+Board”).  The District Board has approved
+and endorsed the annexation petition as is
+required by statute.
+The property proposed to be annexed to the
+District is located in both Clackamas County
+and Multnomah County.  However, because
+Multnomah County is the District’s principal
+county, as defined in ORS 198.705(17), the
+Multnomah County Board of County
+Commissioners (“County Board”) must
+decide whether to approve the annexation
+petition.  ORS 198.725.
+The property proposed to be annexed is also
+located partially within the City of Lake
+Oswego’s Urban Service Boundary
+(Clackamas County tax lot) and partially
+within the City of Portland’s Urban Service
+Boundary (Multnomah County tax lot).  As
+discussed below, neither City objects to the
+annexation, but Lake Oswego will require the
+Petitioners to sign an annexation contract in
+accordance with the City’s Comprehensive
+Plan.
+PETITION UNDER ORS 198.857
+Petitioner initiated a consent annexation petition under ORS 198.857.  The petition meets the
+requirement for initiation of annexation proceedings set forth in ORS 198.857(2) and Metro
+Code 3.09.040(A) (lists Metro’s minimum requirements for petition).  If the County Board
+approves the proposal, the boundary change would become effective on the date described in
+Metro Code 3.09.060(A)(4).
+THE SUBJECT PROPERTY
+The territory that is proposed to be annexed (“subject property” or “affected territory”) is located
+generally on the south edge of the District at 13175 SW Iron Mountain Blvd: Tax Lot
+21E03AA00900, NE 1/4 Sec. 3, T2S R1E, W.M., Clackamas County, Oregon, and Tax Lot
+1S1E34DD -03000, SE 1/4 of Section 34, T1S, R1E, W.M. Multnomah County, Oregon.  A full
+legal description and map of the subject property is attached to this staff report.
+Page 3 of 4 – Staff Report on Annexation Petition for 13175 SW Iron Mountain Blvd
+The subject property is inside of Metro's jurisdictional boundary and inside the regional Urban
+Growth Boundary (UGB). The subject property is .89 acres, currently has one dwelling located
+on the Clackamas County tax lot, and is valued at $870,520.00.
+The portion of the subject property that lies within Clackamas County is covered by an Urban
+Growth Management Agreement between Clackamas County and the City of Lake Oswego.
+The agreement acknowledges that areas covered by the agreement can and should ultimately
+be provided with a full range of services by the City of Lake Oswego and that this should be
+accomplished through annexation to the City.  However, the subject property is not currently
+contiguous to the City, though it is within the City’s Urban Service Boundary.
+The portion of the subject property that lies within Multnomah County is covered by an Urban
+Planning Area Agreement between Multnomah County and the City of Portland.  The agreement
+acknowledges that areas covered by the agreement can and should ultimately be provided with
+a full range of services by the City of Portland and that this should be accomplished through
+annexation to the City.  However, the subject property is not currently contiguous to the City,
+though it is within the City’s Urban Services Boundary, and the City is not pursuing annexations
+in the area at this time.
+The proposed annexation would not result in the withdrawal of the subject property from the
+legal boundary of any county, city, district whose jurisdictional boundary or adopted urban
+service area includes any part of the affected territory or who provides any urban service to any
+portion of the affected territory; Metro; or any other unit of local government, as defined in ORS
+190.003, that is a party to any agreement for provision of an urban service to the affected
+territory.
+JURISDICTION
+The property to be annexed lies within Clackamas County and Multnomah County.  However,
+Multnomah County is the “principal county,” as defined in ORS 198.705(17), in the District, and
+the Multnomah County Board of County Commissioners therefore has jurisdiction to determine
+whether to approve the annexation petition pursuant to ORS 198.725 and 198.857.
+REASON FOR ANNEXATION
+The petitioner desires sanitary sewer service to serve an existing single-family dwelling.
+AVAILABILITY OF SERVICES
+District sewer services are available to serve the subject property and the existing dwelling.  In
+particular, the existing dwelling can be served from a District sewer line that is in an easement
+on the north end of the subject property in Multnomah County.
+CRITERIA
+Oregon Revised Statute Chapter 198 provides that, when determining whether to approve an
+annexation petition, the County Board shall “consider the local comprehensive plan for the area
+and any service agreement executed between a local government and the affected district.”
+Page 4 of 4 – Staff Report on Annexation Petition for 13175 SW Iron Mountain Blvd
+ORS 198.857(4).
+A second set of criteria can be found in the Metro Code.  To approve a boundary change, the
+County Board must apply the criteria and consider the factors set forth in Metro Code Section
+3.09.045(D) and (E).  To approve a boundary change, the County Board must:
+1) Find that the boundary change is consistent with expressly applicable provisions in:
+(A) Any applicable urban service agreement adopted pursuant to ORS
+195.065;
+(B) Any applicable annexation plan adopted pursuant to ORS 195.205;
+(C) Any applicable cooperative planning agreement adopted pursuant to ORS
+195.020(2) between the District and any county, city, district whose
+jurisdictional boundary or adopted urban service area
+includes any part of the affected territory or who provides any urban
+service to any portion of the affected territory; Metro; or any other unit of
+local government, as defined in ORS 190.003, that is a party to any
+agreement for provision of an urban service to the affected territory;
+(D) Any applicable public facility plan adopted pursuant to a statewide
+planning goal on public facilities and services;
+(E) Any applicable comprehensive plan;
+(F) Any applicable concept plan; and
+2) Consider whether the boundary change would:
+(A) Promote the timely, orderly and economic provision of public facilities and
+services;
+(B) Affect the quality and quantity of urban services; and
+(C) Eliminate or avoid unnecessary duplication of facilities and services.
+In addition, the County Board must consider whether the annexation petition covers property
+that lies outside the UGB.  Finally, ORS 197.175 requires that the annexation of property to a
+district be done in accordance with the statewide planning goals.
+Staff has addressed the criteria listed above in the attached Findings, Reasons for Decision,
+and Conclusions.
+STAFF RECOMMENDATION.
+Based on the attached Findings, Reasons for Decision, and Conclusions, staff recommends the
+annexation petition for the subject property described in the attached legal description and map
+be approved.
+Page 1 of 6 – Findings, Reason for Decision, and Conclusions
+FINDINGS, REASONS FOR DECISION, AND CONCLUSIONS
+Based on the staff report and the public hearing, the Multnomah County Board of County
+Commissioners finds that:
+1. Petitioners David A. and Shaina G. Weinstein (“Petitioners”) filed an annexation petition
+to annex territory described in the legal description and map attached to these Findings,
+Reasons for Decision, and Conclusions (“subject property”) to the Dunthorpe-Riverdale
+Service District (“District”). The Petitioners desire sanitary sewer service to serve an
+existing dwelling on the subject property.
+2. The subject property lies within Clackamas County and Multnomah County.  According
+to Oregon Revised Statute (“ORS”) 198.725, when two counties are affected by
+annexation proceedings, the county board in the “principal county,” as defined in ORS
+198.705(17), has authority to be the decision maker.  Multnomah County is the “principal
+county” for the Dunthorpe-Riverdale Service District and the Multnomah County Board of
+County Commissioners (“County Board”) therefore has jurisdiction to determine whether
+to approve the annexation petition for the subject property.
+3. The subject property is inside of Metro's jurisdictional boundary and inside the regional
+Urban Growth Boundary (UGB).
+4. The subject property contains .89 acres, one single-family dwelling located on the
+Clackamas County portion of the property, and is valued at $870,520.00.
+5. The subject property is a single parcel, but includes two separate tax lots: one in
+Clackamas County and one in Multnomah County.
+a. The tax lot located within Clackamas County is zoned R-30, which allows single
+family dwellings on 30,000 square foot lots.  The Clackamas County tax lot is .67
+acres, or approximately 31,438 square feet.  The Clackamas County tax lot
+contains one existing single family dwelling and no other dwellings are proposed.
+b. The tax lot located in Multnomah County is zoned R-20, which allows single
+family houses, accessory dwelling units (ADU) and duplexes on corners on
+20,000 square foot lots. The Multnomah County tax lot is .22 acres, or
+approximately 9,800 square feet. The Multnomah County tax lot contains no
+existing dwellings and no new dwellings are proposed.
+6. ORS Chapter 198 directs the County Board to “consider the local comprehensive plan
+for the area and any service agreement executed between a local government and the
+affected district.”
+7. To approve a boundary change, the County Board must also apply the criteria and
+consider the factors set forth in Metro Code Section 3.09.045(D).  To approve a
+boundary change the County Board must:
+1) Find that the change is consistent with expressly applicable provisions in:
+Page 2 of 6 – Findings, Reason for Decision, and Conclusions
+(A) Any applicable urban service agreement adopted pursuant to
+ORS 195.065;
+(B) Any applicable annexation plan adopted pursuant to ORS
+195.205;
+(C) Any applicable cooperative planning agreement adopted pursuant
+to ORS 195.020(2) between the District and
+any county, city, district whose jurisdictional boundary or adopted
+urban service area includes any part of the affected territory or
+who provides any urban service to any portion of the affected
+territory; Metro; or any other unit of local government, as defined
+in ORS 190.003, that is a party to any agreement for provision of
+an urban service to the affected territory;
+(D) Any applicable public facility plan adopted pursuant to a statewide
+planning goal on public facilities and services;
+(E) Any applicable comprehensive plan;
+(F) Any applicable concept plan; and
+2) Consider whether the boundary change would:
+(A) Promote the timely, orderly and economic provision of public
+facilities and services;
+(B) Affect the quality and quantity of urban services; and
+(C) Eliminate or avoid unnecessary duplication of facilities and
+services.
+8. To approve a boundary change, the County Board must also apply the criteria and
+consider the factors set forth in Metro Code Section 3.09.045(E), which provides, “A city
+may not annex territory that lies outside the [Urban Growth Boundary] UGB, except it
+may annex a lot or parcel that lies partially within and partially outside the UGB.”
+9. ORS 197.175 requires that annexation of property to a district be done in accordance
+with the statewide planning goals.
+10. The Land Conservation and Development Commission required each jurisdiction
+requesting acknowledgement of their comprehensive plan to include in the plan a written
+statement "setting forth the means by which a plan for management of the
+unincorporated area within the urban growth boundary will be completed and by which
+the urban growth boundary may be modified."  OAR 660-003-0010(2)(c).  This takes the
+form of urban growth management agreements between cities and counties.
+11. The portion of the subject property that lies within Clackamas County is covered by an
+Urban Growth Management Agreement between Clackamas County and the City of
+Page 3 of 6 – Findings, Reason for Decision, and Conclusions
+Lake Oswego.  The agreement acknowledges that areas covered by the agreement can
+and should ultimately be provided with a full range of services by the City of Lake
+Oswego and that this should be accomplished through annexation to the City.  However,
+the subject property is not currently contiguous to the City.
+12. The City of Lake Oswego has established an Urban Service Boundary, and the subject
+property is within the City’s Urban Service Boundary.
+13. In light of the Urban Growth Management Agreement and the location of a portion of the
+subject property in the Lake Oswego Urban Service Boundary, the Lake Oswego
+Comprehensive Plan is the applicable comprehensive plan for the Clackamas County
+portion of the subject property.
+14. The Lake Oswego Comprehensive Plan calls for sewer services ultimately to be
+provided by the City.  However, Lake Oswego’s Comprehensive Plan and Public
+Facilities Plan allow for interim sewer service to be provided by the District prior to the
+subject property’s annexation to the City.
+15. The City does not oppose annexation of the subject property to the District because the
+property is not currently contiguous to the City.  However, the City’s position that it does
+not oppose annexation of the subject property to the District is dependent on the
+Petitioners signing an Annexation Contract with the City. The City’s position is based on
+Lake Oswego Comprehensive Plan Urban Service Boundary and Urban Growth
+Boundary Policy A-5 (Volume I, part 2, page 167, adopted March 18, 2014), which
+states:
+A-5.  Support expansion of an existing service district’s boundaries only if:
+a. It can be shown that it is the only feasible way to provide a particular service.
+City services, rather than district services shall be provided when they are,
+or can be made available and are adequate;
+b. The provision of service is consistent with the City’s Public Facility Plan and
+Comprehensive Plan goals and policies;
+c. Annexation agreements are recorded for the property receiving service, to
+the extent permitted by law; and
+d. The service district can maintain an adequate level of service over both the
+short and long term.
+16. The portion of the subject property that lies within Multnomah County is covered by an
+Urban Planning Area Agreement between Multnomah County and the City of Portland.
+The agreement acknowledges that areas covered by the agreement can and should
+ultimately be provided with a full range of services by the City of Portland and that this
+should be accomplished through annexation to the City.  However, the subject property
+is not currently contiguous to the City, and the City is not pursuing annexations in the
+area at this time.
+17. The City of Portland has established an Urban Service Boundary, which has also been
+adopted as the Urban Planning Area Agreement boundary, and the subject property is
+within that boundary.
+Page 4 of 6 – Findings, Reason for Decision, and Conclusions
+18. In light of the Urban Planning Area Agreement and the location of a portion of the
+subject property in the Portland Urban Service Boundary, the Portland Comprehensive
+Plan is the applicable comprehensive plan for the Multnomah County portion of the
+subject property.
+19. Chapter 8 of the City of Portland’s Comprehensive Plan acknowledges the City’s
+ultimate primacy as service provider but also calls on the City to coordinate with other
+urban service providers within the urban services area prior to the ultimate timely
+annexation of the area to ensure effective and efficient service delivery.
+20. Policy 8.18 of the City of Portland’s Comprehensive Plan provides, “Prohibit service
+district expansion or creation within the City’s Urban Services Boundary without the
+City’s expressed consent.”  A similar statement is found in the City of Portland’s Citywide
+Systems Plan, Chapter 6, which serves as the City’s Public Facility Plan. The City of
+Portland has consented to this annexation.
+21. ORS 195 requires agreements between providers of urban services.  Urban services are
+defined as: sanitary sewers, water, fire protection, parks, open space, recreation and
+streets, roads and mass transit.  These agreements are to specify which governmental
+entity will provide which service to which area in the long term.  The counties are
+responsible for facilitating the creation of these agreements.  There are no ORS 195
+urban service agreements or cooperative planning agreements between the Dunthorpe-
+Riverdale Service District and other entities.
+22. There is no applicable annexation plan adopted pursuant to ORS 195.205 for the subject
+property.
+23. There is no concept plan that covers the subject property.
+24. The Dunthorpe-Riverdale Service District is a separate governmental entity, which has
+as its governing body the Multnomah County Board of County Commissioners.  The
+District provides collector sanitary sewer service in the Dunthorpe-Riverdale portion of
+Multnomah and Clackamas Counties and is the only entity with sewer lines in the area of
+the subject property.  Through an agreement with the City of Portland, sewage from the
+District is treated at the City’s Tryon Creek regional sewage treatment plant.  While
+previously staffed and run by County employees, the District infrastructure is now
+maintained by the City of Portland through a contract.  The proposed dwelling can be
+served from a District line that is in an easement on the north end of the property within
+Multnomah County.
+25. The subject property receives water service from the Palatine Hill Water District.
+26. The subject property is within the Riverdale Rural Fire Protection District.
+27. The subject property is served by the Clackamas County Sheriff.
+28. Other services are provided generally by Clackamas County and the City of Lake
+Oswego.
+Page 5 of 6 – Findings, Reason for Decision, and Conclusions
+Based on the foregoing findings, the Multnomah County Board of County
+Commissioners concludes that:
+1. ORS 198.857 requires consideration of any service agreement between a local
+government and the District. Metro Code 3.09.045(D)(1)(a) requires that any District
+boundary change be consistent  with expressly applicable provisions of urban service
+agreements adopted pursuant to ORS 195.065.  The District is not a party to an urban
+service agreement.  Therefore, these provisions are inapplicable, or if applicable, no
+inconsistencies exist.
+2. Metro Code 3.09.045(D)(1)(b) requires that any District boundary change be consistent
+with expressly applicable provisions of any applicable annexation plan adopted pursuant
+to ORS 195.205.  No City of Lake Oswego, City of Portland, or District annexation plan
+covers the subject property.  Therefore, this provision is inapplicable, or if applicable, no
+inconsistencies exist.
+3. Metro Code 3.09.045(D)(1)(c) requires the County to find that the boundary change is
+consistent with any applicable cooperative planning agreement adopted pursuant to
+ORS 195.020(2) between the District and a necessary party, as defined in Metro Code
+3.09.020(J).  The District is not a party to a cooperative planning agreement under ORS
+195. Therefore , this provision is inapplicable, or if applicable, no inconsistencies exist.
+4. Metro Code 3.09.045(D)(1)(d) calls for consistency between the boundary change and
+any expressly applicable provisions contained in any applicable public facility plan
+adopted pursuant to a statewide planning goal on public facilities and services.   The
+Cities of Lake Oswego and Portland have Public Facility Plans contemplate that sewer
+services may be provided by the District prior to City annexation if certain conditions are
+met (execution of an Annexation Contract in the case of Lake Oswego and consent from
+the City in the case of Portland).  Here, those conditions have been met. Therefore, the
+proposed annexation is consistent with the applicable public facility plans.
+5. Metro Code 3.09.045(D)(1)(e) calls for consistency of the boundary change with
+expressly applicable provisions in any applicable comprehensive land use plans.  ORS
+198.857 requires consideration of the applicable comprehensive plan.  ORS 197.175
+requires that annexation of property to the District be done in accordance with the
+statewide planning goals.
+a. In light of the Urban Growth Management Agreement between Clackamas
+County and Lake Oswego, and the location of a portion of the subject property in
+the Lake Oswego Urban Service Boundary, the Lake Oswego Comprehensive
+Plan is the applicable comprehensive plan for the Clackamas County portion of
+the subject property. The Lake Oswego Comprehensive Plan was adopted
+pursuant to the statewide planning goals and therefore consistency of the
+annexation with the Lake Oswego Comprehensive Plan demonstrates
+consistency with the statewide planning goals.  The Lake Oswego
+Comprehensive Plan calls for sewer services ultimately to be provided by the
+City.  However, Lake Oswego’s Comprehensive Plan allows for interim sewer
+service to be provided by the District prior to the subject property’s annexation to
+Page 6 of 6 – Findings, Reason for Decision, and Conclusions
+the City, and the proposed annexation therefore is consistent with the
+Comprehensive Plan.  In addition, the annexation petition is consistent with Lake
+Oswego Comprehensive Plan Urban Service Boundary and Urban Growth
+Boundary Policy A-5 (Volume I, part 2, page 167, adopted March 18, 2014).  As
+noted in Finding 15, the Comprehensive Plan allows annexation of the subject
+property to the District because the Petitioners have agreed to execute an
+Annexation Contract addressing eventual annexation to the City.
+b. In light of the Urban Planning Area Agreement between Multnomah County and
+Portland, and the location of a portion of the subject property in the Portland
+Urban Service Boundary, the Portland Comprehensive Plan is the applicable
+comprehensive plan for the Multnomah County portion of the subject property.
+The Portland Comprehensive Plan was adopted pursuant to the statewide
+planning goals and therefore consistency of the annexation with the Portland
+Comprehensive Plan demonstrates consistency with the statewide planning
+goals. The Portland Comprehensive Plan calls for sewer services ultimately to be
+provided by the City.  However, Portland’s Comprehensive Plan allows for interim
+sewer service to be provided by the District, with the City’s consent, prior to the
+subject property’s annexation to the City.  The City has consented to the
+annexation, and the proposed annexation therefore is consistent with the
+Comprehensive Plan.
+6. Metro Code 3.09.045(D)(1)(f) requires consideration of any applicable concept plan.
+There is no concept plan that covers the subject property.  This provision therefore is
+inapplicable or, if applicable, no inconsistencies exist.
+7. Metro Code 3.09.045(D)(2)(a) requires consideration of whether the boundary change
+would “[p]romote the timely, orderly and economic provision of public facilities and
+services.”  The District already provides service to the areas surrounding the subject
+property.  As a result, connection to the District’s sewer facilities will be more efficient,
+both economically and in terms of timing, than extending other possible sewer
+connections.  The County Board therefore concludes that annexation promotes the
+timely, orderly and economic provision of this service.
+8. Metro Code 3.09.045(D)(2)(b) calls for consideration of whether the boundary change
+will affect the quality and quantity of urban services.  Given the size of the District, this
+one-parcel annexation will have little or no impact on the District’s ability to provide
+services and is only a minimal increase in the quantity of urban services.  Therefore, the
+boundary change would not significantly affect the quality or quantity of urban services.
+9. Metro 3.09.045(D)(2)(c) requires consideration of whether the boundary change would
+“Eliminate or avoid unnecessary duplication of facilities or services.”  Annexation
+legitimizes service provision by the District, which is the only entity with sewer lines in
+the area of the subject property.  Therefore, provision of these services by another entity
+would result in unnecessary duplication of facilities and services in the area.
+10. Based on the foregoing Findings, Reasons for Decision, and Conclusions, the County
+Board concludes that the annexation petition meets the necessary criteria for approval.
+PROPERTY DESCRIPTION
+December 16, 2021
+Project No. 21172
+Annexation Area
+A tract of land situated in th e Northeast one-quarter of Section 3, Township 2  South, Range 1
+East of the Willamet te Meridian , Clackamas County, Oregon  and So utheast one -quarter of
+Section 34, Township 1  South, Range 1 East of the Willamet te Meridian, Multnomah County,
+Oregon, being a portion of Blocks 131 and 132, DUNTHORPE , being more particularly
+described as follows:
+Beginning at a point on the northeasterly right of way line of SW Iron Mountain Boulevard which
+bears northwesterly 15 feet ( Deed) fro m the south easterly line of Block 132; thence North
+41°13’45” East, a distance of 332.63 feet to a point on the northeas terly line of said Block 132;
+thence South 35°17 ’17” East along said northeasterly line, a distance of 69. 94 feet to the most
+easterly corner of said Block 132, said point being the most northerly corner of Block 131; thence
+South 61°12 ’29” East along the northeasterly line of said Block 131, a dist ance of 27.94 f eet;
+thence leaving said northeasterly line, South 30°52 ’04” East, a distance of 332.03 feet to the
+northerly right of way line of said SW Iron Mountain Boulevard; thence northwesterly along said
+right of way line on a curve to the right having a  radius of 555.00 feet through a central angle of
+11°43’16” an arc distance of 113.54 feet to a co mpound curve; thence along said curve having a
+radius of 1470.00 feet through a  central angle of 01°38’06” an arc distance of 41.95 feet to  the
+Point of Beginning.
+Containing 41,110 square feet.
+ANDY PARIS & ASSOCIATES, INC.
+16057 BOONES FERRY ROAD
+LAKE OSWEGO, OREGON 97035
+503-636-3341
+REGISTERED
+PROFESSIONAL
+LAND SURVEYOR
+JANUARY 15, 1987
+HAROLD P. SALO
+EXPIRES: JUNE 30, 2022
+T.L. 2000
+TAX MAP 1S 1E 3400
+• 0 \)
+ol-1''€.
+~ ~ ~
+•
+T.L. 3000
+<o\ o" ,':>
+"o" /"
+MULTNOMAH COUNTY
+CLACKAMAS COUNTY,
+N 89'24'19" E 139.62'
+TAX MAP 2 1E 3 AA
+T.L. 800
+/
+/
+/ T.L. 900
+13175 SW IRON
+MOUNTAIN BL VD.
+41,110 SQ. FT.
+T.L. 1000
+T.L. 3300
+T.L. 310
+EXHIBIT MAP - ANNEXATION AREA
+BEING PORTIONS OF I.DTS 131 & 132
+·nUNTHoRPr
+IN THE NE 1/ 4 SECTION 3
+T.2S, R.1E, W.M.
+CLACKAMAS COUNTY,
+AND
+SE 1/ 4 OF SECTION 34,
+T.1S, R.1E, W.M.
+Cl'l'Y OF PORTLAND
+MULTNOMAH COUNTY, OREGON
+DECEMBER 16, 2021
+TAX MAP 2 1E 03AA T.L 900
+TAX MAP 1S 1E 340D T.L 3000
+REGISTERED
+PROFESSIONAL
+LAND SUR YOR
+JANUARY 15, 1987
+HAROLD P. SALO
+2264
+EXPIRES: JUNE 30, 2022
+ANDY PARIS AND ASSOCIATES, INC.
+PROFESSIONAL LAND SURVEYORS
+16057 BOONES FERRY ROAD
+LAKE OSWEGO, OREGON 97035
+PH: 503-636-3341
+DRAnED: GAR 10/27/2021 / PROJECT: 21172 / DRAWING: 21172_AXI

@@ -1,0 +1,2394 @@
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO. 2020-007
+Approving the Multnomah County Transportation Capital Improvement Plan and Program for
+Fiscal Years 2020-2024.
+The Multnomah County Board of Commissioners Finds:
+a. Multnomah County's roads, Willamette River Bridges, bikeways, pedestrian ways, and
+related structures are vital to an orderly and balanced transportation system and must
+be maintained and preserved to provide for the safe and efficient movement of people
+and commerce.
+b. A unified approach to long-range facilities planning and capital investment programming
+is a County goal.
+c. The Multnomah County Transportation Division has established a process, consistent
+with County Transportation System Plan Policies #5 and #17 to develop a County
+Transportation Capital Improvement Plan and Program (Transportation CIPP).
+d. The Transportation CIPP establishes priorities for capital improvements that will
+maximize the use of financial resources and provide for the safe and reliable public use
+of the County roads, Willamette River Bridges, bikeways, pedestrian ways, and related
+structures.
+e. The Transportation CIPP is a two-part document. The Transportation Capital
+Improvement Plan (the Plan) identifies and scores transportation projects needed in the
+next 20 years. The Transportation Capital Improvement Program (the Program) assigns
+available revenues to high priority projects for a five-year period.
+f. The Multnomah County FY 2014-2018 Transportation CIPP was approved by this board
+on May 28, 2015 by Resolution 2015-049.
+g. The Program is updated biennially to reflect new and completed projects as well as the
+most current revenue projections. This action would approve the biennial update of the
+FY 2020-24 CIPP.
+h. The 2020 update includes revisions to all project prioritization criteria and project cost
+estimate for all non-Willamette River Bridge projects; as well as cost estimate updates
+for Willamette River Bridge projects.
+i. The 2020 update reflects new and better data about all capital needs and included an
+extensive public input process including 7 in person open houses, 3 online open
+houses, and presentations at multiple neighborhood associations, advisory committees,
+and other meetings. This resulted in over 700 comments over the course of the update.
+j. The Public Review Draft 2020 Update of the Transportation CIPP has been available
+online since November 7, 2019. Comments on the Public Review draft have been
+incorporated into the Final Draft, which has been posted online January 3, 2020.
+k. The Transportation Division staff recommends the County Board approve the attached
+2020 Update of the FY 2020 - 2024 Transportation CIPP.
+The Multnomah County Board of Commissioners Resolves:
+1. The 2020 Update of Multnomah County Fiscal Years 2020-2025 Transportation Capital
+Improvement plan and program is approved.
+ADOPTED this 23rd day of January, 2020.
+REVIEWED:
+JENNY M. MADKOUR, OUNTY ATTORNEY
+FOR MULTNOMAH CO NTY, OREGON
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+~6f'Jo
+Deborah Kafoury, Chair
+, r. Asst. County Attorney
+SUBMITTED BY: Jamie Waltz, Interim Director, Department of Community Services
+TRANSPORTATION
+CAPITAL IMPROVEMENT
+PLAN AND PROGRAM
+2020-2024
+FINAL DRAFT
+January 3, 2020
+
+This page intentionally left blank.
+
+Final RCIPP
+Task 5. 2 – Final Roadway Capital Improvement Plan and Program  (RCIPP)
+Date:  December 27, 2019
+To:  Multnomah County
+From:  Shelly Alexander, PE, David Evans and Associates, Inc.
+  Hannah Polow, AICP, David Evans and Associates, Inc.
+  Justin Kuenne, EIT, David Evans and Associates, Inc.
+Subject: Roadway Capital Improvement Plan and Program (RCIPP) Update
+
+Table of Contents
+Executive Summary ........................................................................................................................................ i
+Introduction .................................................................................................................................................. 1
+Plan ........................................................................................................................................................... 3
+Program..................................................................................................................................................... 3
+Update Process ......................................................................................................................................... 3
+Public Process ........................................................................................................................................... 5
+Plan Framework ............................................................................................................................................ 8
+Scoring Framework Development ............................................................................................................ 8
+Project Scoring ............................................................................................................................................ 11
+Criteria and Measures ............................................................................................................................. 11
+Criteria and Measures Summary ............................................................................................................ 59
+Scoring Framework Limitations .............................................................................................................. 61
+Project Distribution ................................................................................................................................. 62
+Project Development and Cost Estimates .................................................................................................. 67
+Project Development .............................................................................................................................. 67
+Tactical Asset Management Plan ............................................................................................................ 70
+List of projects ......................................................................................................................................... 75
+Bridge Capital Improvement Plan and Program ......................................................................................... 80
+Capital Improvement Program ................................................................................................................... 89
+Purpose ................................................................................................................................................... 89
+Funding Influences and Decisions ........................................................................................................... 89
+Five-Year Capital Improvement Program................................................................................................ 91
+
+This page intentionally left blank.
+
+Final RCIPP   i
+Executive Summary
+Multnomah County (County) is updating its Roadway Capital Improvement Plan and Program (RCIPP).
+The RCIPP identifies transportation needs in the County and establishes a strategic implementation
+approach.
+The County aims to completely update the RCIPP at regular intervals to reflect ongoing priorities as well
+as changes to policies, technology and the environment. The last major update was completed in 2002,
+and minor updates were completed in 2005, 2010, and 2014. To update its RCIPP, the County first
+updated its Roadway Capital Improvement Plan, or Plan—a component part of the RCIPP, which
+includes a list of transportation project needs for the next 20-plus years. To update the Plan, the County
+conducted a detailed inventory of its transportation assets covered under the Plan—roadways, bike and
+pedestrian facilities, and fish passage culverts—and developed a scoring framework to rank candidate
+projects from highest to lowest priority. Throughout the plan update, three rounds of public
+engagement took place around the County to share information and collect input on the process and
+projects.
+As part of the plan update the County identified over 100 GIS data sources with potentially useful data.
+After filtering down to under 30 sources, the County compiled and assessed relevant data and identified
+deficiencies in the roadway network. The next step involved supplementing the existing data with new,
+current data. With multiple options for collecting new data, the County decided to utilize LiDAR (Light
+Detection and Ranging) technology, which was utilized in 2014 as well. The new scan that took place in
+2018 benefited from higher resolution than the 2014 scan as well as two scans per roadway. The scan
+enabled them to efficiently collect large amounts of accurate data of all 270 miles of County-maintained
+roadways. Figure 1 shows the County-maintained roadways within three different regions of the county.
+Figure 1: County Regions
+
+From the existing and newly captured data, the County catalogued eleven roadway features. Orbit GT
+was used for semi-automated data extraction, and analysis and tracking were performed with ArcGIS.
+Over 25,000 features were extracted, each of which includes four to six attributes.
+
+Final RCIPP   ii
+The County also reviewed all existing Capital projects in the following documents:
+1. Multnomah County CIPP (2014-18)
+2. City of Gresham TSP (2015)
+3. City of Fairview TSP (2016)
+4. City of Troutdale TSP (2013)
+5. Urban Pockets of Unincorporated Multnomah County TSP (2006)
+6. Main Streets on Halsey (2017)
+7. East Metro Connections Plan (2012)
+8. Multnomah County TSP (2016)
+9. City of Wood Village TSP (2016)
+10. Regional Transportation Plan (2014)
+11. Halsey Street Corridor Study (2005)
+12. 257th Avenue Enhancement Study (1997)
+13. Multnomah County ADA Transition Plan Inventory (2017)
+In addition to the above, projects recommended by the public at meetings and input from County
+maintenance and engineering staff were included in the project list. Figure 2 shows the number of RCIPP
+projects per region and Figure 3 shows the total RCIPP projects’ costs per region within unincorporated
+Multnomah County.
+Figure 3: Projects per Region within Unincorporated
+Figure 2: Projects' Costs per Region within
+Unincorporated Multnomah County
+
+Final RCIPP   iii
+The scoring framework was developed to evaluate projects that best reflect the County’s values and
+priorities for the transportation system. This process was aided by a detailed review of County plans and
+national best practices as well as feedback received through public engagement efforts. Ultimately, it
+was decided to evaluate candidate projects on the following criteria: Equity, Safety, Mobility, Asset
+Management, Resiliency and Emergency Management, and Sustainability. Candidate projects were then
+scored to determine their ranking among all projects included in the updated Plan, thereby identifying
+the County’s most critical transportation capital needs. The scoring methodology is described in the Plan
+Framework section and the details of each criteria is described in the Project Scoring section.
+The County then updated the Roadway Capital Improvement Program (Program). The Program identifies
+an implementation strategy for the Plan by assigning funding to projects for construction. To update the
+Program, the County forecasted estimated transportation revenues over the next five years and
+assigned those revenues to specific projects according to priority. The total expense outlined in the 5-
+year program for roadway capital improvement projects is approximately $40.4 million. The details
+associated with the Program can be found in the Capital Improvement section.
+
+Final RCIPP   iv
+
+This page intentionally left blank.
+Roadway Capital Improvement Plan and Program Update  2020
+Final RCIPP  1
+Introduction
+The Multnomah County (County) Roadway Capital Improvement Plan and Program (RCIPP) is a two-part
+effort, consisting of the Roadway Capital Improvement Plan (Plan) and the Roadway Capital
+Improvement Program (Program). The plan and program identify projects within the County’s road
+service area. Multnomah County’s road service area includes roads and assets in the cities of Fairview,
+Troutdale, and Wood Village and in unincorporated areas including Sauvie Island, the West Hills and the
+Corbett area. This service area also includes 6 Willamette River bridges within the City of Portland. The
+Multnomah County Transportation Division is responsible for the design, construction, maintenance,
+operation, and planning of almost 300 miles of roads, 27 bridges, 1700 culverts, and many miles of
+sidewalks, bike lanes, and drainage pipes and ditches in this road service area. Figure 4 shows the
+County-maintained roadways within three different regions of the county.
+Figure 4: County Regions
+
+The purpose of the RCIPP is to deliver on the goals of the County, the Cities that are served by County
+roads, and the Transportation Division. The Cities of Fairview, Troutdale, and Wood Village have
+Transportation System Plans that include future capital improvements on County Roads. The County
+also has a Transportation System Plan for unincorporated Multnomah County which includes capital
+projects in unincorporated areas.
+As part of the development of the RCIPP, a best practices review was conducted. This included an
+analysis of the goals of the County, the Department, and the Transportation System Plans. Stakeholder
+interviews were held with staff from other County departments and offices, staff at Fairview, Troutdale,
+and Wood Village, and management within the Transportation Division.
+Table 1 lists the goals from each review process and highlights the common goals.
+Final RCIPP   2
+Table 1: Summary of Goal Interests by Review Process
+Stakeholder Interviews Best Practices Summary Document Review
+• Safety
+• Strategic asset management
+• Equity
+• Climate change
+• DCS/Transportation:
+- Reliability
+- Equity
+- Transparency
+- Integrity
+- Leadership
+• Economic vitality
+• Livability
+• Mobility
+• Safety
+• Sustainability
+• Diversity
+• Equity
+• Review for Best Practices:
+- Climate change
+- Health
+- Autonomous vehicles
+- Stormwater/culverts/flooding
+- Reliability
+- Strategic asset management
+- Emergency management
+- Urban/rural
+- Active transportation
+• Balance transportation options/
+manage travel demand
+• Encourage economic prosperity
+• Promote safety
+• Allocate limited funding
+efficiently
+• Ensure plans programs are
+consistent with existing local,
+state, and federal regulations
+• Promote public health
+• Ensure equity
+• Use performance-based
+management
+Note: Bold indicates goals that moved forward within the analysis
+From the analysis, six goals emerged (shown in the bullet list below). These goals informed the Criteria
+and Measures, which are outlined in the next section.
+• Safety
+• Equity
+• Asset Management
+• Mobility
+• Resiliency/Emergency Management
+• Sustainability
+Creating a balanced system reflects the County’s commitment to improving all modes of transportation.
+Improvements for motor vehicles, cyclists, pedestrians, and fish passage culverts are all included in the
+RCIPP. By regularly updating the RCIPP, the County is (1) continuing to make strategic transportation
+investments that provide the greatest benefits for all users, and (2) bolstering its eligibility and
+competitiveness for state and federal grant programs. The component parts of the RCIPP, the Plan and
+Program, are summarized below.
+
+Final RCIPP   3
+Plan
+The Plan is a comprehensive listing of transportation capital project1 needs in Multnomah County for the
+next 20 or more years. The objective of the Plan is to identify those projects that are most crucial to
+maintain and enhance the transportation system to best meet the County’s goals (see Figure 3). To
+identify the projects that address its most critical needs, the County has developed a scoring framework
+to assign priority to candidate projects. This scoring framework evaluates candidate projects using the
+following criteria: Equity, Safety, Mobility, Asset Management, Resiliency and Emergency Management,
+and Sustainability. The Scoring Framework Development section discusses this scoring framework in
+greater detail.
+Program
+The Program seeks to implement the Plan by assigning County revenues to the candidate projects
+included in the Plan for a five-year period. Currently, the County receives transportation revenues from
+three primary sources: federal distributions2, the State Highway Fund3 and the County’s $0.03/gallon
+gas tax. Historically, these revenues do not meet the amount the County requires to maintain its
+transportation system at levels consistent with its standards. As such, the Program is able to assign
+funding to only the most critical projects—in this case, those with scores indicating the highest level of
+priority.
+Update Process
+The County’s approach for project implementation (the Program) is constrained by similarly dynamic
+factors: construction costs and the availability of transportation revenues. To account for these potential
+changes in community needs and purchasing power, the County updates the component parts of its
+RCIPP, the Plan and Program, at regular intervals.
+The County aims to completely update the Plan at regular intervals to reflect ongoing priorities as well
+as changes to policies, technology and the environment. The last major update to the Plan was
+completed in 2002, and minor updates were completed in 2005, 2010, and 2014. In this current major
+update, the County has developed a new scoring framework to prioritize roadway, bicycle and
+pedestrian, bridge, and culvert projects for the next 20 years. Minor updates of the Plan should be
+completed as necessary between major updates to keep it as effective as possible in identifying the
+County’s most critical transportation project needs.
+The Program identifies an implementation approach for the Plan by assigning funds to projects for their
+implementation over the next five years. Because of the shorter horizon of the Program compared to
+the Plan (5 years versus 20 years) and the possible volatility associated with the collection of
+transportation revenues and construction costs, the County completes an update at least every two
+years. To match available funding with transportation projects, the County performs an annual internal
+review. At least every other year, the County completes a formal update to the Program, during which
+
+1 Operations and maintenance (O&M) needs are not included in the Roadway Capital Improvement Plan. Examples
+of O&M projects include striping, signing, or crack sealing. The County finances these projects through separate
+funds designated for O&M.
+2 The sources of federal monies distributed to the County include the Surface Transportation Program and the
+Highway and Bridge Program.
+3 The sources of revenue contributing to the State Highway Fund include the state gas tax, vehicle registration fees,
+and the truck weight/mile tax.
+Final RCIPP   4
+time the County engages in an extensive public engagement effort to collect citizen input on the most
+critical transportation needs over the next five years.
+Collecting Data and Mapping Deficiencies
+To better understand the conditions of County roads, all 270 miles of County-maintained roadways were
+scanned using the laser surveying method, LiDAR. LiDAR uses ultraviolet, visible, or near infrared light to
+image objects by illuminating them with laser light and measuring the return time and frequency of
+reflected light with a sensor to then calculate the precise distances between objects and the light-
+emitting source. This allows precision mapping of large areas with minimal effort. This method enabled
+the analysis of all County roads, and provided detailed information of 11 roadway attributes:
+• Travel lanes
+• Bike lanes
+• Driveways
+• Landscape buffers
+• Legends – examples could include turn arrows, bicycle lane stencils, RR XING stencils, etc.
+• Shoulders
+• Obstacles
+• Sidewalk data
+• Turning lane/width
+• Medians
+• Curbs
+The 11 attributes were mapped, including the size, shape, and condition of all County roadways. This
+data remains available for future use during operations and maintenance, project design and
+construction, and decision-making for leveraging funds.
+The information collected and mapped using LiDAR will be added to the County’s existing maps, which
+show attributes such as landslide hazards, guardrail conditions, culvert locations, and ditches. This
+information created a comprehensive dataset so the County could determine where deficiencies exist in
+the current roadway system to help identify and prioritize system improvements.
+
+The LiDAR truck used to capture the data for this project.
+Final RCIPP   5
+Public Process
+The County engaged with the public at three phases during this project to collect input and feedback on
+project recommendations. A series of open houses and online open houses were held to engage with
+the public over the course of the following three phases:
+• Phase 1 (April 2018): Initial input on needed improvement locations and project prioritization
+• Phase 2 (February 2019): Feedback on prioritized list of projects
+• Phase 3 (November 2019): Review of the draft RCIPP document
+This section is organized by phase, summarizing the content presented and the corresponding feedback
+received from the public. Throughout phases 1 and 2, safety was an important consideration for the
+public. They showed a clear desire for this to be a top factor when making decisions about project
+prioritization.
+Phase 1
+In spring 2018, the first round of public engagement occurred, including open houses throughout the
+County as well as online. The purpose of this initial round was to gather public input regarding what
+improvements were needed, where they may be needed, and how they should be prioritized. Feedback
+was encouraged on the County’s evaluation criteria, project list, and priorities for the RCIPP.
+The public expressed concerns regarding multiple issues, including:
+• High-crash locations
+• Dangerous and on-going high-speed driving locations
+• The importance of walking and biking
+• Increased traffic volumes
+• Tourism effects on infrastructure
+• Logging effects on the natural environment, specifically on the Columbia River Gorge
+• Commuter traffic route choices
+• The prioritization process and allocation of funds
+In addition to providing feedback directly related to this project, attendees provided other comments as
+well. Community needs and individual concerns varied by geographical location, with the residents of
+the West regional area expressing the most concern regarding cut-thru commuter traffic. Residents of
+the Urban East regional area expressed concerns of increased traffic volumes on Marine Drive as a result
+of increased industry and shipping in the area. Residents of the Rural East regional area expressed
+concerns of the negative effects on infrastructure from the tourism industry. Multiple citizens expressed
+a desire for the County to address immediate maintenance and safety issues.
+When asked to rank the scoring criteria in order of importance, Safety and Equity were the two criteria
+that ranked the highest.
+As a result of concerns associated with asset management, safety, and equity, the County integrated
+that into the weighting methodology to have the measure scores for these three criteria carry a heavier
+weight than the other criteria.
+Final RCIPP   6
+Phase 2
+In winter 2019, the second round of public engagement occurred, including open houses throughout the
+County as well as online open house. The purpose of the second round was to inform the public about
+the RCIPP, share the project list, and gather public input on the project list and the criteria used in
+ranking the projects. Participants were asked to describe any scenario they would have preferred over
+the four offered. Of 35 responses, half described a scenario even more heavily weighted toward safety,
+or combining mobility and/or equity in interdependence with safety. This reiterated the importance of
+safety to be weighted as one of the top criteria, which remained one of the top weighted criteria in the
+final scoring.
+Participants were asked to choose their top five projects from a list of 127 road capital projects. In
+response, 89 projects were selected — but only 30 were chosen by five or more participants (see Figure
+5). The number of points means the number of times a project showed up in participants’ choices.
+Figure 5: Priority Projects Identified in Open Houses during Phase 2 (Winter 2019)
+
+Final RCIPP   7
+Phase 3
+In fall 2019, the third round of public engagement occurred, including an open house and online open
+house. The final project scores and draft document were available for public review. The purpose of the
+third  (final) round of public engagement was to inform the public about the RCIPP, review the draft plan
+(including if any projects are missing from the final plan), and provide feedback on the approximately
+130 capital projects, including priority and schedule. About a quarter of the  63 submitted comments
+concerned projects 535U and 536U (both located on Scholls Ferry Road), mostly expressing a need for
+sidewalks along the whole of Scholls Ferry Road. Other projects receiving more than one comment:
+• 110R and 111R (Cornelius Pass Road): 5
+• 505U and 506U (238th Drive): 3
+• 118R and 119R (Dodge Park Road): 3
+• 122R (Germantown Road): 2
+• 514U (Forest Park / SW Hills Urban Pockets Sidewalk Infill): 2
+Other comments were more general, not specific to projects on the list. Topics included walking and
+biking, culverts and wildlife crossings, and maintenance concerns including potholes. All are represented
+in full in the appendix.
+Final RCIPP   8
+Plan Framework
+In the previous section, the Roadway Capital Improvement Plan (or Plan) is defined. In this section, the
+Plan is discussed in greater detail.
+Scoring Framework Development
+Multnomah County has developed a comprehensive scoring evaluation framework for the purpose of
+ranking and prioritizing transportation projects for its Plan. Based on a review of its overall goals,
+adopted plans, national best practices, and public feedback, the County has defined six scoring criteria
+to evaluate projects across six different areas: Equity, Safety, Mobility, Asset Management, Resiliency
+and Emergency Management, and Sustainability. For each criterion, a number of measures—grouped
+into sub-topics—explain the details associated with evaluating each project. Figure 6: Evaluation
+Framework summarizes the hierarchy of these components for this framework.
+These components are defined below:
+• Criteria – Broad subject areas to structure the evaluation framework.
+• Sub-topics – Categories within each criterion to define what topics the criterion will address.
+• Measures – Evaluative questions associated with each criterion that result in qualitative or
+quantitative answers.
+Figure 6: Evaluation Framework
+
+Figure 7 summarizes the steps taken to develop the scoring framework used for the Plan. The three
+primary steps undertaken as part of the scoring framework development process are summarized
+below. Additional detail and discussion on these steps can be found in the appendices.
+Figure 7: Scoring Framework Development Timeline
+
+Scoring Framework Development  Testing  Scoring
+
+CRITERION
+SUB-TOPIC
+MEASURE MEASURE MEASURE
+SUB-TOPIC
+MEASURE MEASURE
+Develop Scoring
+Criteria and
+Measures
+Develop Scoring
+Methodology
+for Measures
+Develop
+Weighting for
+Criteria
+Test Scoring
+Methodology
+and Criteria
+Weighting
+Score Projects
+Final RCIPP   9
+Scoring Criteria and Measures
+As a first step in its development of a scoring framework, the County chose scoring criteria and
+measures, grouped into sub-topics within each criterion. These criteria and measures represent the
+primary components of the scoring framework used in this update to the Plan. To guide its
+development, the County reviewed relevant planning documents, studied national best practices, and
+conducted stakeholder interviews. Based on these efforts and their consistency with guiding goals for
+future transportation investment stated in the County’s 2016 TSP, seven criteria were selected.
+Associated measures were also established for each criterion and grouped into sub-topics for
+organizational purposes. Measures were chosen based on their usefulness in evaluation and data
+availability. In later steps of the development and refinement of the scoring framework, one of these
+criteria was eliminated, for a total of six: Equity, Safety, Mobility, Asset Management, Resiliency and
+Emergency Management, and Sustainability. Discussions of the sub-topics and measures under these
+criteria and other additional details can be found in Appendix A.
+Scoring Methodology for Measures
+With an established framework of criteria, sub-topics, and measures, methodologies to score each
+measure were defined. For each measure, a scoring methodology was developed to calculate scores
+ranging from zero to three. The scoring methodologies defined for the measures included a range of
+evaluation strategies, varying based on the nature of the measure and the characteristics of available
+data (e.g., quantitative versus qualitative). Higher scores were used to indicate a higher level of priority
+or project need, facilitating quick comparisons between multiple projects’ scores for a single measure.
+The scale of zero to three was selected to reflect not applicable (N/A), low, medium, and high when
+scoring the projects (see Table 2).
+Table 2: Score Explanation
+Score Description
+0 N/A
+1 Low priority
+2 Medium priority
+3 High priority
+In preparation for the next step in the scoring framework development process, measures scores were
+then converted into aggregated criteria scores and converted to a 100-point scale, so they could be
+more readily interpreted.4 See Appendix A for more details.5
+
+4 As described in this paragraph, two different scoring scales are used in the scoring methodology. A scoring scale
+of zero to three is used early in the process, because it provides convenient benchmarks that pair effectively with
+the scoring methodologies used for the measures. For example, the scores 1/2/3 are used to correspond to low/
+medium/high levels of priority for a given measure, with 0 corresponding to the evaluation being “not applicable”
+for a given project. Later in the scoring process, conversion to a 100-point scale is performed in order to increase
+interpretability and to facilitate the rounding of total scores to the nearest whole number or nearest tenth without
+significant loss in the score’s meaning.
+5 In the memorandum found in Appendix A, a discussion of refinements to the criteria and measures developed in
+the first step of the scoring framework development process, “Develop Scoring for Measures,” is provided.
+Final RCIPP   10
+Weighting Criteria
+In the final major step of the scoring framework development process, the County established strategic
+criteria weightings for use in determining final scores for projects. The criteria weightings developed in
+this process were chosen to best reflect the County’s priorities for the future of its transportation
+system as well as public feedback collected at open house events, through written correspondence, and
+from surveys. While all six criteria were incorporated into the scoring framework because of their
+alignment with the County’s priorities, goals, and values, three criteria were given additional emphasis:
+Equity, Safety, and Asset Management. See Table 3 and Figure 8.
+Table 3: Criteria Rankings and Weights
+Criterion Rank (1 = most prioritized) Weight
+Equity 1 (tied) 20%
+Safety 1 (tied) 20%
+Asset Management 1 (tied) 20%
+Mobility 2 15%
+Resiliency and Emergency Management 3 13%
+Sustainability 4 12%
+
+Figure 8: Scoring Summary
+
+With these weights specified for application in determining final scores for projects, the scoring
+framework was ready. Appendix B, “Develop Normalization and Weighting for Criteria” outlines this
+process.
+Final RCIPP   11
+Project Scoring
+After developing the structure for the RCIPP, the County developed criteria and corresponding measures
+to score the projects. The criteria were developed based on a number of components, including:
+• Planning documents (TSP, Bridge Capital Improvement Plan, and Strategic Capital Plan)
+• Staff and upper management review
+• Public involvement (stakeholder interviews and public meetings)
+Within this section, an introduction is provided for each criterion, and measures are broken into the sub-
+topics if applicable. Following the details associated with each criterion, high-level data will be displayed
+for the county. For more detailed scoring information, including how scores of 0-3 are applied, see
+Appendix A. More detailed maps (with zoomed-in extents) can be found in Appendix C.
+Criteria and Measures
+Equity
+Eight measures are divided across two sub-topics: Population Groups and Health Risk Factors. Measures
+under each of these sub-topics identify the relationship between a given project and (1) the distribution
+of vulnerable or transportation disadvantaged populations, and (2) the occurrence of health risk factors,
+respectively. Projects in areas with higher concentrations of these population groups or health risk
+factors score higher. Geographical concentrations of population groups are determined at the U.S.
+Census block group level.
+Sub-topic – Population Groups:
+The Population Groups measures are based on data from the Census Bureau. The following measures
+are included within this sub-topic:
+• People of Color (See Figure 9)
+• Limited English Proficiency (LEP) (See Figure 10)
+• Older Adults (See Figure 11)
+• Children (See Figure 12)
+• Disability (See Figure 13)
+• Low-income (See Figure 14)
+Sub-topic – Health Risk Factors:
+The Health Risk Factors measures are based on data from the Environmental Protection Agency (EPA)
+(for environmental toxins) and from the County (for body mass index [BMI]). The following measures are
+included within this sub-topic:
+• Environmental Toxins (See Figure 15)
+• BMI (See Figure 16)
+Final RCIPP   12
+Many projects, such as a major roadway or bikeway corridor project, span multiple block groups. In
+these cases, each segment of the project is assigned a score for each measure for every block group the
+project intersects. The project’s overall score for a given Equity measure is assigned based on the
+average (mean) of all the data for that measure across all applicable block groups.
+Roadway Capital Improvement Plan and Program Update      2020
+Final RCIPP      13
+Figure 9: Map of People of Color for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A
+Note: More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       14
+Figure 10: Map of Limited English Proficiency (LEP) for Multnomah County
+
+Note:  More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       15
+Figure 11: Map of Older Adults for Multnomah County
+
+Note:  More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       16
+Figure 12: Map of Children for Multnomah County
+
+Note:  More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       17
+Figure 13: Map of Disability for Multnomah County
+
+Note:  More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       18
+Figure 14: Map of Low-Income for Multnomah County
+
+Note:  More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       19
+Figure 15: Map of Environmental Toxins for Multnomah County
+
+Note:  More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       20
+Figure 16: Map of BMI for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A.
+
+Final RCIPP  21
+Safety
+Six measures are identified for the Safety criterion, divided among three sub-topics: Existing Crash
+Information, Potential Crash Information, and Potential Safety Benefits. These measures evaluate
+projects in the context of safety needs for a transportation facility. Projects achieving the highest scores
+for the measures in this criterion are those in areas with a history of crashes or greater potential for
+crashes as well as those that incorporate specific improvements to improve safety for all users.
+Sub-topics – Existing Crash Information and Potential Crash Information:
+Existing Crash Information and Potential Crash Information data comes from the County. The following
+measures are included within these sub-topics:
+Existing Crash Information
+• Safety priority index system (SPIS) rating (See Figure 17)
+• Severity of crashes (See Figure 18)
+• Pedestrian/bicycle crashes (See Figure 19)
+Potential Crash Information
+• Safety index (See Figure 20)
+Sub-topic – Potential Safety Benefits:
+The Potential Safety Benefits sub-topic is based on details associated with the project description. The
+following measures are included within this sub-topic:
+• Potential safety benefits for non-motorized modes
+• Potential safety benefits for motor vehicles
+For projects with multiple scores for multiple units of analysis (e.g., a project corridor divided into
+multiple street segments) for a given Safety measure, the project will score the maximum of all scores.
+Final RCIPP   22
+
+This page intentionally left blank.
+
+Roadway Capital Improvement Plan and Program Update     2020
+
+Final RCIPP      23
+Figure 17: Map of Safety Priority Index System (SPIS) Rating for Multnomah County
+
+Note: Score of 1 was not utilized for this measure. More detailed
+scoring information can be found in Appendix A.
+
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       24
+Figure 18: Map of Severity of Crashes for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A.
+
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       25
+ Figure 19: Map of Pedestrian/Bicycle Crashes for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       26
+Figure 20: Map of Safety Index for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A.
+
+Final RCIPP  27
+Mobility
+Eight measures are identified for the Mobility criterion and are divided into three sub-topics:
+Infrastructure, Operations, and Capacity. These measures serve to prioritize projects that best address
+mobility and accessibility needs in the County. Projects that score highest across the measures under the
+Mobility criterion provide enhanced freedom of mobility as well as improved inter-modal connectivity
+and accessibility for all users.
+Sub-topic – Infrastructure:
+Most of the measures within the infrastructure topic are based on data provided by the County (Project
+Length is the only exception and is based on the project description). The following measures are
+included within this sub-topic:
+• Project length
+• Transit connections (See Figure 21)
+• School connections (See Figure 22)
+• Americans with Disabilities Act (ADA) compliance (See Figure 23)
+Sub-topic – Operations:
+The Operations sub-topic and only measure, Congestion Relief, is based on data from the County, with
+boundary information from Metro. The following measures are included within this sub-topic:
+• Congestion relief (See Figure 24)
+Sub-topic – Capacity:
+The three Capacity sub-topics (Vehicle, Bike, and Pedestrian) are based on details associated with the
+project description. The following measures are included within this sub-topic:
+• Vehicle capacity
+• Bike capacity
+• Pedestrian capacity
+For projects with multiple scores for a given Mobility measure, the project will score the maximum of all
+scores.
+
+Final RCIPP   28
+
+This page intentionally left blank.
+Roadway Capital Improvement Plan and Program Update     2020
+
+Final RCIPP      29
+Figure 21: Map of Transit Connections for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       30
+Figure 22: Map of School Connections for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       31
+Figure 23: Map of ADA Compliance for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       32
+Figure 24: Map of Congestion Relief for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A.
+
+Final RCIPP  33
+Asset Management
+Seven measures are under the Asset Management criterion and are divided among three sub-topics:
+Surface Infrastructure, Structures, and Criticality. These measures evaluate asset condition to prioritize
+projects that address insufficient or failing infrastructure or the County’s most critical assets. Projects
+scoring highest for these measures are those that address areas of most urgent need or critical
+importance.
+Sub-topics – Surface Infrastructure, Structures, and Criticality:
+All data used within this criterion is from the County. The following measures are included within these
+sub-topics:
+Surface Infrastructure
+• Pavement condition (See Figure 25)
+• Signalized intersections (See Figure 26)
+• Guardrail (See Figure 27)
+• Shoulder (See Figure 28)
+Structures
+• Culverts (See Figure 29)
+• Bridges (See Figure 30)
+Criticality
+• Critical roads (See Figure 31)
+For projects with multiple scores for a given Asset Management measure, the project will score the
+maximum of all scores.
+Final RCIPP   34
+
+This page intentionally left blank.
+
+Roadway Capital Improvement Plan and Program Update     2020
+
+Final RCIPP      35
+Figure 25: Map of Pavement Condition for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       36
+Figure 26: Map of Signalized Intersections for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       37
+Figure 27: Map of Guardrail for Multnomah County
+
+Note: Score of 2 was not utilized for this measures. More detailed
+scoring information can be found in Appendix A.
+
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       38
+Figure 28: Map of Shoulders for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       39
+Figure 29: Map of Culverts for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       40
+Figure 30: Map of Bridges for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       41
+Figure 31: Map of Critical Roads for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       42
+
+This page intentionally left blank.
+
+Final RCIPP  43
+Resiliency and Emergency Management
+Seven measures identified for the Resiliency and Emergency Management criterion evaluate how
+projects relate to areas associated with high risk of natural disasters and emergency response
+operations. The measures are divided among two sub-topics: Known Hazards and Access. The projects
+that score highest for this criterion are those that are located in areas of high risk hazards and enhance
+mobility and accessibility for emergency response services.
+Sub-topics – Known Hazards and Access:
+All data used within this criterion is from the County. Additional data from the Oregon Department of
+Geology and Mineral Industries (DOGAMI) was integrated into the landslide measure within the Known
+Hazards sub-topic.  The following measures are included within these sub-topics:
+Known Hazards
+• Landslides (See Figure 32)
+• Earthquakes (See Figure 33)
+• Wildfire risk (See Figure 34)
+• Floodplain (See Figure 35)
+Access
+• Emergency response proximity (See Figure 36)
+• Emergency transportation routes (ETRs) (See Figure 37)
+• Important access (See Figure 38)
+For projects with multiple scores for a given Resiliency and Emergency Management measure, the
+project will score the maximum of all scores.
+Final RCIPP   44
+
+This page intentionally left blank.
+
+Roadway Capital Improvement Plan and Program Update     2020
+
+Final RCIPP      45
+Figure 32: Map of Landslides for Multnomah County
+
+Note: Scores of 1 and 2 were not utilized for this measure. More
+detailed scoring information can be found in Appendix A.
+
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       46
+Figure 33: Map of Earthquakes for Multnomah County
+
+Note: Scores of 1 and 2 were not utilized for this measure. More
+detailed scoring information can be found in Appendix A.
+
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       47
+Figure 34: Map of Wildfire Risk for Multnomah County
+
+Note: Scores of 1 and 2 were not utilized for this measure. More
+detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       48
+Figure 35: Map of Floodplain for Multnomah County
+
+Note: Scores of 1 and 2 were not utilized for this measure. More
+detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       49
+Figure 36: Map of Emergency Response Proximity for Multnomah County
+
+Note: Scores of 1-3 are based on proximity. More detailed
+scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       50
+Figure 37: Map of Emergency Transportation Routes (ETRs) for Multnomah County
+
+Note: Scores of 1 and 2 were not utilized for this measure. More
+detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       51
+Figure 38: Map of Important Access for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       52
+
+This page intentionally left blank.
+
+FInal RCIPP  53
+Sustainability
+Four measures are identified under the Sustainability criterion and are divided among two sub-topics:
+Economic Vitality and Environmental Protection. These measures evaluate the relationship between the
+project location and employment opportunities and high value lands or habitats, respectively. Projects
+located closer to employment centers and sensitive lands score higher; it is assumed that these projects
+will contribute positively to increased economic activity and protection of natural resources.
+Sub-topics – Economic Vitality:
+The Jobs measure is evaluated based on Census Bureau data. The Rural Center and Opportunity Zones
+measure uses data from Business Oregon and the County. The following measures are included within
+this sub-topic:
+• Jobs (See Figure 39)
+• Rural centers and opportunity zones (See Figure 40)
+Sub-topics – Environmental Protection:
+The Environmental Protection sub-topic measure of High Value Lands is based on data from the Regional
+Conservation Strategy.  The Important Fish Passage Culverts data is from the County. The following
+measures are included within this sub-topic:
+• High value lands (See Figure 41)
+• Important fish passage culverts (See Figure 42)
+For projects with multiple scores for a given Sustainability measure, the project will score the maximum
+of all scores.
+Final RCIPP   54
+
+This page intentionally left blank.
+
+Roadway Capital Improvement Plan and Program Update     2020
+
+Final RCIPP      55
+Figure 39: Map of Jobs for Multnomah County
+
+Note: More detailed scoring information can be found in Appendix A.
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       56
+Figure 40: Map of Rural Centers and Opportunity Zones for Multnomah County
+
+Note: Scores of 1 and 2 were not utilized for this measure. More
+detailed scoring information can be found in Appendix A.
+
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       57
+Figure 41: Map of High Value Lands for Multnomah County
+
+Note: Scores of 1 and 2 were not utilized for this measure. More
+detailed scoring information can be found in Appendix A.
+
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP       58
+Figure 42: Map of Important Fish Passage Culverts for Multnomah County
+Note: More detailed scoring information can be found in Appendix A.
+Final RCIPP   59
+
+Criteria and Measures Summary
+Table 4: Criteria and Measures Summary
+
+ Measure Score
+0 1 2 3
+Equity
+People of Color
+No population
+Lowest third  ≤0.1737 Middle third  ≤0.3046 Highest third ≤0.7319
+LEP Lowest third ≤0.0507 Middle third ≤0.0911 Highest third ≤0.2322
+Older adults Lowest third ≤0.0182 Middle third ≤0.1331 Highest third ≤0.5275
+Children Lowest third ≤0.0507 Middle third ≤0.09114 Highest third ≤0.2322
+Disability Lowest third ≤0.1073 Middle third ≤0.1753 Highest third ≤0.5323
+Low-income Lowest third ≤0.0832 Middle third ≤0.1641 Highest third ≤0.7557
+Environmental
+Toxins No PM 2.5 Lowest third ≤9.76 Middle third ≤10.06 Highest third ≤10.41
+BMI No population Lowest third ≤25.413 Middle third ≤26.708 Highest third ≤28.597
+Safety
+(SPIS) rating
+No crashes
+N/A
+Within 0.5 mile or less of
+corridor of top 10
+percentile SPIS rating
+group
+Within corridor of top 10
+percentile SPIS rating group
+Severity of
+Crashes PDO crashes Non-fatal injury crash Fatal crash
+Pedestrian/Bicy
+cle Crashes
+Pedestrian OR bicycle crash
+AND includes PDO
+Pedestrian OR bicycle
+crash AND result in a non-
+fatal injury
+Pedestrian OR bicycle crash
+AND result in a fatality
+Safety Index
+Two situations: (1) Posted
+speed is 25 miles per hour
+(mph) or lower and (2) 30-
+35 mph AND under 12,000
+average daily traffic OR
+one or two lanes
+40 mph+, OR Speed limit
+30-35 mph, more than two
+lanes, OR 12,000+ ADT
+40 mph+ AND one of the
+following: More than two
+lanes, OR 12,000+ ADT
+40 mph+ AND More than two
+lanes AND
+12,000+ ADT
+Potential Safety
+for Non-
+motorized
+"Shoulder," "Sidewalk,"
+"Multi-use path" not in
+project description
+"Shoulder" in project
+description
+"Sidewalk" or "bike lane"
+in project description
+"Multi-use path" or "buffered
+bike lane" in project description
+Potential Safety
+for Motor
+Vehicles
+"Safety" not in the project
+description
+"Safety" in project
+description  N/A N/A
+Mobility
+Project Length Located at intersection Less than a mile 1-2 miles 2+ miles
+Transit
+Connections
+No bus stops within a half
+mile Within 0.5 mile of bus stop Within 0.25 mile of bus
+stop Within 500 feet of bus stop
+School
+Connections
+No schools within a half
+mile Within 0.5 mile of school Within 0.25 mile of school Within 500 feet of school
+ADA
+Compliance No ADA deficiencies Ramp score of 1-7 (Tiers 5
+and 6)
+Ramp score of 8-15 (Tiers
+3 and 4)
+Ramp score of 16-30 (Tiers 1
+and 2)
+Congestion
+Relief N/A PM peak ADT per lane is
+less than 1,500
+PM peak ADT per lane is
+between 1,500 and 1,700
+PM peak ADT per lane is
+between 1,700 and 1,800
+Vehicle
+Capacity
+Project does not add
+capacity
+" Project adds capacity (key
+words utilized can be found
+in GIS methodology)
+N/A N/A
+Bike Capacity Project does not add
+capacity
+Project adds capacity (key
+words utilized can be found
+in GIS methodology)
+N/A N/A
+Pedestrian
+Capacity
+Project does not add
+capacity
+Project adds capacity (key
+words utilized can be found
+in GIS methodology)
+N/A N/A
+Final RCIPP   60
+
+ Measure Score
+0 1 2 3
+Asset Management
+Pavement
+Condition 100 PCI 70-99 PCI 51-69 PCI <50 PCI
+Signalized
+Intersections No signalized intersections Good (County scored as
+1)
+Fair/Installed before
+1995 (County scored as
+2)
+Poor/Failed signal
+(County scored as 3)
+Guardrail No slope hazard OR Guardrail
+present Pass rating N/A
+Fail or unknown rating
+OR no guardrail in slope
+hazard area
+Shoulder Shoulder > 6 feet >4 but <6 feet >2 but <4 feet No shoulder
+Culverts Good condition, and/or has
+been installed recently
+Fair/Installed 10+ years
+ago
+Poor/Installed 35+ years
+ago
+Critical/Installed 50+
+years ago
+Bridges
+Sufficiency rating 91-100,
+structure and elements in very
+good condition, or does not
+include bridge
+Sufficiency rating 81-90
+or minor to moderate
+work is recommended
+Sufficiency rating 51-80
+or major work is
+recommended
+Sufficiency rating 0-50
+or replacement is
+recommended
+Critical Roads 2nd tier snow route and
+local/gravel
+1st/2nd tier snow route
+and local
+1st/2nd tier snow route
+and collector or arterial
+1st tier snow route and
+arterial
+EM and Resiliency
+Landslides Not susceptible to landslides N/A N/A Susceptible to landslides
+(gridcode 9 and 10)
+Earthquakes Not susceptible to high
+damage area N/A N/A Heavy damage potential
+(gridcode 311-478)
+Wildfire Risk Not within risk area N/A N/A Within risk area
+Floodplain Not within floodplain N/A N/A Within floodplain
+Emergency
+Response
+Proximity
+No emergency services within
+a mile
+1 emergency service
+within a mile
+2-3 emergency services
+within a mile
+4+ emergency services
+within a mile
+Emergency
+Transportation
+Routes (ETRs)
+Not within ETR N/A N/A Within ETR
+Important
+Access
+Project not on a road that
+touches a state highway
+Project on a local that
+touches a state highway
+Project on a collector
+that touches a state
+highway
+Project on an arterial
+that touches a state
+highway
+Sustainability
+Jobs No jobs Lowest third  (1-4 jobs) Middle third (5-16 jobs) Highest third (17+ jobs)
+Rural Centers
+and
+Opportunity
+Zones
+Not within rural center or
+opportunity zone N/A N/A Within rural center or
+opportunity zone
+High Value
+Lands
+Not within high value habitat
+lands N/A N/A Within high value
+habitat lands
+Important Fish
+Passage
+Culverts
+Not regional or local AND not
+5-year priority
+Regional or local but not
+5-year priority Local and 5-year priority Regional and 5-year
+priority
+Final RCIPP   61
+
+Scoring Framework Limitations
+In its development of the framework, the County worked to best address or mitigate data
+limitations wherever possible. The following discussion summarizes some of the key limitations that
+informed the development of the scoring framework.
+1. Conceptual Status of Evaluated Projects – The projects included in the Plan are generally
+conceptual level, meaning they are only broadly defined and may change as the result of
+additional design efforts. Because of this, the scoring framework is developed to distinguish
+projects on account of broad, rather than granular, differences. The scoring framework also
+does not take into consideration the anticipated outcome of the projects since much of the
+impacts have not been determined due to the conceptual nature of projects.
+
+2. Duplicative and/or Correlated Data – Using the developed scoring framework, total scores
+are based on many individual measure scores, each corresponding to a unique evaluative
+question. Design of these measures, or evaluative questions, was carefully considered in
+order to avoid duplication or overlap among the measures. The County employs many
+sources of data to evaluate the condition of its transportation system and forecast future
+needs, but many of these data sources may point to similar characteristics or needs. To
+address this situation, the County vetted the measures to identify where multiple measures
+might relate to duplicative or highly correlated data. To make sure that project
+characteristics captured by the measures did not have a higher than desired impact on
+projects’ total scores, the County eliminated or modified applicable measures or added a
+counterbalancing measure. An example is the tendency of a number of the mobility
+measures to result in more favorable measure scores for projects in urban areas than for
+projects in rural areas. To make sure rural projects were not unfairly disadvantaged (so as to
+deliver on the County’s goals to enhance its transportation system in unincorporated
+communities), the Rural Centers and Opportunity Zones measure was added.
+
+3. Insufficient and/or Incomplete Data – The County’s ability to collect applicable
+transportation data can be constrained by budget and technological limitations. Therefore,
+while the County prioritizes the collection of data to describe the condition of many of its
+transportation assets or forecast future needs, it is not feasible for the County to collect
+rigorous and detailed data on everything associated with the transportation system and its
+use. These gaps in the data available were carefully considered during development of the
+scoring framework. Methods used to address or mitigate these data gaps included using
+subjective evaluations or using proxies to substitute for the missing data.
+
+4. Subjective Measures – As described above, subjective measures are employed in the
+scoring framework to help address data gaps, where they correspond to critical scoring
+elements relating to the six criteria selected by the County. Subjective evaluations have a
+number of disadvantages compared to objective evaluations, but the County sought to
+mitigate these disadvantages by defining comprehensive criteria for determining the scores
+for measures for which subjective evaluations are used.
+Final RCIPP   62
+
+Project Distribution
+The purpose of this section is to evaluate the distribution of the 132 projects throughout
+Multnomah County with regards to geographical and financial distribution, and effects to
+demographic groups.
+The data utilized for this analysis is the same data that is applied for the Equity criterion: U.S. Census
+Bureau American Community Survey (ACS) 5-Year Estimates, 2016. The following demographics are
+included within this analysis: people of color or minorities, LEP, older adults (ages 65+), children
+(ages 10-17), people with disabilities, and low-income population.
+The existing project descriptions are meant to provide an overview of each project; therefore, the
+resulting effects (both positive and negative) of a project after completion can be assumed only to a
+limited degree and are somewhat unknown. Project details will be defined more as each project
+advances into its design phase. Though the complete effects are somewhat unknown, the equitable
+distribution of projects, including project type and project funds, can be obtained.
+The distribution of projects was analyzed based on the geographical location of each project. Three
+ideas6 were developed for consideration as part of the Equity analysis and are listed in Table 5.
+Table 5: Potential Ideas to Assess the Equity of Projects across the County
+Analysis Idea Comparison
+Measure Data Comparison**
+1 Top 20*
+number
+Geographic area
+distribution+ (west/
+urban east/rural
+east)
+Total projects from the top 20 highest scored projects in each
+area (west/urban east/rural east). This will treat line and point
+projects the same.
+2 Type of
+project
+Total number of projects by mode (if a project increases
+capacity for vehicles, bikes, pedestrians) in each area (west/
+urban east/rural east). This will treat line and point projects
+the same.
+3 Total
+number
+Total number of all projects in each area (west/urban east/
+rural east). This will treat line and point projects the same.
+* Arbitrary number to focus the equity analysis to only the top-scoring projects. Could be adjusted to be a smaller or larger number based
+on the focus for top-scoring projects. | + Rough population estimates could be calculated based on census tract populations to show the
+project versus population ratio as well.
+**Line projects are projects with linear features, such as roadways or trails. Point projects are located at discreet points or geographical
+locations, such as pedestrian crossing enhancements at an intersection or culvert locations.
+After the three ideas were considered, it was decided to move forward with Analysis Idea 3. As
+mentioned above, additional data was added for comparison purposes: a combination of looking at
+total number of projects and how they would be distributed across the County, and the distribution
+in relation to selected vulnerable population data utilized within the Equity criterion.
+It is important to identify locations with high concentrations of the demographic characteristics
+listed above for multiple reasons. Title VI of the Civil Rights Act of 1964 protects people from
+discrimination based on race, color, and national origin in programs or activities that receive federal
+funding.7 Though consideration of Title VI (race, color, and national origin) is a good start, it is also
+
+6 One analysis idea not listed here is mileage. Because of the mix of both li ne and point-based projects, this
+analysis would eliminate the point-based projects.
+7 U.S. Department of Transportation - Title IV of the Civil Rights Act of 1964, 42 U.S.C. § 2000d, et seq.
+Final RCIPP   63
+
+important to consider those who may be transportation-disadvantaged for one or more other
+reasons, such as being too old or young to drive, or having a disability that inhibits one’s ability to
+drive. Providing adequate transportation options, especially to those who rely on them the most,
+will aid in creating a better transportation system that serves all and a balanced transportation
+system that is capable of handling future transportation demands.
+Table 6 lists the total population and percentages of populations8 within each of the three regions of
+Unincorporated Multnomah County, as well as the number and percentage of each demographic
+population within each region. The demographic populations are broken down and discussed by
+demographic type in the following subsections.
+Table 6: Demographic Summary and Number of Projects by Geographic Area
+Geographic
+Area
+Popula
+tion
+Average
+Equity
+Score of
+Projects
+People of Color LEP Older Adults Children Disability Low-income
+Total
+Projects
+(overlapp
+ing
+regions)
+Total
+Projects (
+>50% in
+region)
+ # % # % # % # % # % # %
+West 28,884 1.75 4,615 16 11,260 39 4,544 16 3,446 12 713 2 741 7 48 29
+Urban East 55,087 2.33 12,023 22 19,858 36 6,310 11 6,199 11 4,059 7 3,051 15 102 52
+Rural East 11,986 1.80 1,164 10 4,140 35 1,883 16 1,508 13 297 2 188 5 91 51
+County Total 95,957 1.78 17,802 19 35,258 37 12,737 13 11,153 12 5,069 5 3,980 4 241 132
+*Note: Population estimates include some areas outside of the County’s jurisdiction. The three different geographic areas are based on
+block groups and include some incorporated areas based on project extents, but do not include any block groups fully within Portland or
+Gresham.
+Each project is located in one of the three regional areas listed above; therefore, the projects are
+distributed throughout Multnomah County.
+Table 7 shows the sum of the projects’ costs within each region and throughout the County to
+illustrate the allocation of funds both throughout the County and within each regional area. As
+shown, the total cost of all projects is approximately $1.3 billion. Of this, 36 percent is allocated to
+the West regional area, 20 percent to the Urban East, and 44 percent to the Rural East. All dollar
+amounts are shown in 2019 U.S. dollars.
+Table 7: Financial Distribution and Funds per Capita throughout the County
+Geographic Area Population Total Projects Total Cost
+Percentage of
+County Project
+Costs
+West 28,884 29 $479,677,319 33%
+Urban East 55,087 52 $303,250,000 21%
+Rural East 11,986 51 $652,420,000 46%
+County Total 95,957 132 $1,435,347,319 100%
+
+8 Percentages in the table and the following text are rounded to the nearest whole number.
+Final RCIPP   64
+
+People of Color
+The evaluation of concentration of the minority populations includes all non-White populations,
+including Hispanic/Latino populations, and is summarized at the regional area level in Table 8. As
+shown in Table 7, 19 percent of the County’s population is minorities. Approximately 16 percent of
+the population in the West regional area and 10 percent of the population in the Rural East regional
+area are minorities, both of which are less than the County average. The Urban East regional area
+has a minority population of 22 percent, which is approximately 3 percent higher than the County
+average, and is the regional area with the largest percentage of minority populations. The Urban
+East regional area is also the area with the largest number of projects.
+Table 8: People of Color (Minority) Population per County Regional Area
+Geographic Area Population Minorities Total Projects # %
+West 28,884 4,615 16 29
+Urban East 55,087 12,023 22 52
+Rural East 11,986 1,164 10 51
+County Total 95,957 17,802 19 132
+Limited English Proficiency (LEP)
+The evaluation of concentration of LEP populations includes individuals who do not speak English as
+their primary language and may have a limited ability to read, write, speak, and understand English.
+Identifying LEP populations is important in order to ensure that the proper resources are provided
+to LEP individuals, so they are able to effectively participate in and benefit from federally assisted
+projects and that project actions do not violate Title VI.
+As shown in Table 8, 37 percent of the County’s population are LEP. The Rural East and Urban East
+regional areas have 35 percent and 36 percent LEP populations, respectively, which are both slightly
+lower than the County average. The West regional area has an LEP population of 39 percent, which
+is slightly higher than the County average. All of the regional areas have levels of LEP populations
+similar to one another (35 percent to 39 percent) and to the unincorporated county as a whole
+(37 percent).
+Table 9: Limited English Proficiency (LEP) Population per County Regional Area
+Geographic Area Population Limited English Proficiency (LEP) Total Projects # %
+West 28,884 11,260 39 29
+Urban East 55,087 19,858 36 52
+Rural East 11,986 4,140 35 51
+County Total 95,957 35,258 37 132
+Final RCIPP   65
+
+Older Adults (Ages 65+)
+The evaluation of concentration of older adults is based on people age 65 and older. As shown in
+Table 9, 13 percent of the County’s population is older than 65 years. The Urban East regional area
+has an elderly population of 11 percent, which is lower than the County average. The West and
+Urban East regional areas both have elderly populations of 16 percent, which is higher than the
+County average. All areas have levels of elderly populations similar to one another (11 percent to 16
+percent) and to the unincorporated county as a whole (13 percent), although there is a slightly
+lower percentage of elderly people in the more densely populated Urban East regional area than the
+two more rural regions.
+Table 10: Older Adults (Ages 65+) Population per County Regional Area
+Geographic Area Population Older Adults Total Projects # %
+West 28,884 4,544 16 29
+Urban East 55,087 6,310 11 52
+Rural East 11,986 1,883 16 51
+County Total 95,957 12,737 13 132
+Children (Ages 10–17)
+The evaluation of concentration of children is based on ages 10 to 17. As shown in Table 10,
+12 percent of the County’s population are children between these ages. The Urban East regional
+area has a children population of 11 percent, which is slightly lower than the County average. The
+West regional area has a children population of 12 percent, which is the same as the County
+average, and the Urban East regional area has a children population of 13 percent, which is slightly
+higher than the County average. All regional areas are very close to the County average, meaning
+that the population of children is fairly evenly distributed throughout the County.
+Table 11: Children (Ages 10–17) Population per County Regional Area
+Geographic Area Population Children Total Projects # %
+West 28,884 3,446 12 29
+Urban East 55,087 6,199 11 52
+Rural East 11,986 1,508 13 51
+County Total 95,957 11,153 12 132
+People with Disabilities
+The evaluation of concentration of people with disabilities is based on households in which one or
+more persons has a disability. As shown in Table 11, 5 percent of the County’s population has a
+disability. The West and Rural East regional areas both have disabled populations of 2 percent,
+which is lower than the County average. The Urban East regional area has a disabled population of
+7 percent, which is slightly higher than the County average and which is the regional area with the
+largest percentage of people with disabilities. This area also has the largest number of projects.
+Final RCIPP   66
+
+Table 12: People with Disabilities per County Regional Area
+Geographic Area Population Disabled Total Projects # %
+West 28,884 713 2 29
+Urban East 55,087 4,059 7 52
+Rural East 11,986 297 2 51
+County Total 95,957 5,069 5 132
+Low-income Population
+The evaluation of concentration of low-income populations is based on the Federal Poverty Limit
+from the U.S. Department of Health and Human Services (HHS). It defines low-income populations
+as households in which household income is at or below the HHS poverty guidelines and is based on
+household size. Table 12 shows the federal poverty level for one- to four-person households in
+Oregon as of 2016. The year 2016 was used for consistency with other ACS data used in this RCIPP.9
+Table 13: 2016 Federal Poverty Guidelines Chart - Oregon
+Number of People in Household Household Income
+1 $11,880
+2 $16,020
+3 $20,160
+4 $24,300
+Table 13 shows the number and percentage of low-income populations in each regional area
+throughout the County. Approximately 4 percent of the County’s population is classified as low-
+income. The Rural East and West regional areas have 2 percent and 3 percent low-income
+populations, respectively, which are both lower than the County average. The Urban East regional
+area has a low-income population of 6 percent, which is higher than the County average. The Urban
+East area has the largest percentage and the largest number of low-income populations, with 6
+percent of the total population for a total of 3,051 individuals, thus demonstrating that low-income
+populations are more concentrated in the urban area than in the more rural areas.
+Table 14: Low-Income Population per County Regional Area
+Geographic Area Population Low-income Total Projects # %
+West 28,884 741 3 29
+Urban East 55,087 3,051 6 52
+Rural East 11,986 188 2 51
+County Total 95,957 3,980 4 132
+
+9 U.S. Department of Health and Human Services – Federal Poverty Guidelines, 2016
+Final RCIPP   67
+
+Project Development and Cost Estimates
+Project Development
+The project list reflects transportation improvement project needs for the next 20 years and
+beyond. Several internal and external means are used to identify transportation improvement
+projects for this Plan update. The primary internal source of information is the FY 2014-2018 Capital
+Improvement Plan and Program (CIPP). Projects included in the 2014-2018 CIPP that have been
+completed have been deleted from this update. Other sources of projects include agency
+Transportation System Plans (TSPs) and corridor plans. Additionally, projects recommended by the
+public at meetings and input from County maintenance and engineering staff were included.
+Projects from each of the plans were evaluated and either consolidated into larger, all-
+encompassing roadway projects or left as stand-alone projects if their magnitude is large. Railroad
+undercrossings are one example of stand-alone projects that were not consolidated with other
+projects. In many cases, this meant that a single project in the RCIPP captures multiple projects from
+(for instance) the ADA transition Plan, a City TSP, and a Corridor Plan. Bundling projects allows the
+County to achieve maximum efficiency and cost sharing/saving when planning, designing, and
+constructing together. Project Cost estimates were developed based on the new, comprehensive
+projects, their descriptions, and the County’s design standards.
+The consolidation of projects was completed first to develop the initial project list (Round 1). After
+developing that project list, new projects were identified using new data sources (Round 2). The
+details associated with each project development piece is detailed below.
+Round 1. Initial Project List
+In the summer of 2018, Transportation Improvement Projects from the following documents were
+mapped and consolidated into one list:
+1. Multnomah County CIPP (2014-18)
+2. City of Gresham TSP (2015)
+3. City of Fairview TSP (2016)
+4. City of Troutdale TSP(2013)
+5. Urban Pockets of Unincorporated
+Multnomah County TSP (2006)
+6. Main Streets on Halsey (2017)
+7. East Metro Connections Plan (2012)
+8. Multnomah County TSP (2016)
+9. City of Wood Village TSP (2016)
+10. Regional Transportation Plan (2014)
+11. Halsey Street Corridor Study (2005)
+12. 257th Avenue Enhancement Study
+(1997)
+13. Multnomah County ADA Transition
+Plan Inventory (2017)
+A number of considerations were addressed when defining projects:
+• Smaller infrastructure improvements were bundled together within reasonable geographical
+ranges. Some examples include culvert replacement and fish passage improvement projects,
+sidewalk infill in urban, unincorporated areas, small-scale, inexpensive “safety”
+improvements on a corridor such as bike and pedestrian improvements on multiple
+intersections within a roadway segment, and other small-scale projects.
+Final RCIPP   68
+
+Projects were removed if they were on local non-County roads or if they were in a plan that was
+superseded. Projects in urban pockets (areas expected to be annexed but are currently Multnomah
+County) were included in the RCIPP The outcome of the approach above was to consolidate 592
+projects from 12 plans into 132 new, consolidated projects that could be evaluated against one
+another using the criteria and measures developed through the Plan update process. Figure 43
+illustrates an example of multiple projects that have been consolidated into one large, all-
+encompassing project.
+Figure 43: Example of Consolidation of Projects into Large, Holistic Project
+
+Round 2. Overlay/New Data
+In the fall of 2018, overlay and new data was applied to the county to identify any new projects or
+additional components that should be added to projects identified in Round 1. Identifying projects
+based on new and overlay data bolsters the project list of previously identified projects. This allows
+as many projects as possible to be identified. The following data points were considered in
+identifying new projects:
+• Overlay Data
+o Paving overlay priority indicates whether a roadway is identified for an overlay
+improvement in the near future.
+o Incorporate ADA curb ramp priorities into projects previously identified in the review of
+transportation documents.
+o Bundling remaining ADA curb ramp projects previously identified in the review of
+transportation documents.
+o Add any known non-Willamette River Bridge projects previously identified in the review
+of transportation documents.
+• New Data
+o “Failed Roads” (Roads with a PCI <50) do not provide an adequate roadway and require
+extensive improvements to improve pavement quality.
+Final RCIPP   69
+
+Project Cost Assumptions
+New cost estimates were developed for all 132 projects in the Capital Improvement Plan. Cost
+estimates were developed using the County’s adopted Design and Construction Manual standards. It
+was assumed that every capital project would be constructed to the County’s preferred roadway
+standard, regardless of whether the project is a culvert replacement, a road reconstruction, or
+primarily a bicycle or pedestrian improvement. The result of this approach is that the cost estimates
+are higher than the prior capital improvement plan, but both the project descriptions and the cost
+estimates are more realistic.
+The cost estimates for all projects are “planning level” estimates, and while the estimates are at
+varying levels of precision, each estimate includes engineering, right-of-way (ROW) acquisition,
+construction, any necessary environmental permitting, wetland mitigation, and hazmat costs, and a
+30% contingency. The cost estimates are dependent on two additional factors: scope accuracy and
+engineering effort, which are outlined below.
+Scope Accuracy:
+• Level 1: Project scope well understood and well defined.
+• Level 2: Project scope conceptual. Scope lacks detail due to potential permit requirements;
+unknown project conditions; limited knowledge of external impacts.
+• Level 3: Project scope is a “vision” with limited detail.
+Engineering Effort:
+• Level A: Preliminary engineering performed. Technical information is available, engineering
+calculations have been performed; clear understanding of the materials size and quantities
+needed to execute job. Schedule understood; staff and permitting is fairly clear (possibility
+for further refinement). Project Development and Construction Contingencies range
+between 10 and 20 percent.
+• Level B: Conceptual engineering performed. Technical information is available; rough
+engineering calculations may have been performed or similar information from previous
+work is utilized. Project Development Contingencies range between 15 and 25 percent and
+Construction Contingencies range between 20 and 30 percent.
+• Level C: No engineering performed. Limited technical information available and/or analysis
+performed. Project Development and Construction Contingencies should be selected
+appropriately by Project Manager. Contingency may range up to 50 percent.
+County Specific Cost Contingencies
+In general, the cost assumptions reflect standard practice for planning level cost estimates.
+However, in an effort to more accurately estimate costs, the County developed county-specific
+contingencies based on an evaluation of current capital project costs. Therefore, the contingencies
+are more reflective of what the County’s costs are for capital projects. Table 14 lists the cost
+contingencies used when estimating each projects’ cost.
+Final RCIPP   70
+
+Table 15: Cost Contingencies for Estimating Project Costs
+Cost Contingencies Percentage of Project Construction Costs
+Design Engineering
+40% (construction < $500k)
+30% (construction $501k - $5M)
+20% (construction > $5M)
+CE and Inspection 20%
+Right-of-Way 20% (high ROW need)
+10% (low ROW need)
+Hazmat 6%
+Traffic Control 5% (rural project)
+8% (urban project)
+Tactical Asset Management Plan
+Inventory of County Assets
+Multnomah County maintains a network of 274 miles of roads, approximately 1,700 culverts, 22
+small bridges (non-Willamette River), 46 signals and rapid flashing beacons, 7.8 miles of guardrail,
+and 6 bridges spanning the Willamette River.
+While the 132 capital projects listed in this plan cover 170 miles of road, they do not encompass all
+the assets and replacement needs that the County has. Multnomah County has roads, bridges,
+culverts, guardrail, stormwater/drainage systems, retaining structures (walls), rapid flashing
+beacons, ADA ramps, and signals that are not addressed in capital projects. This could be for several
+reasons: (1) the asset does not meet the cost threshold of $500,000, (2) it has not been adequately
+assessed for need, or (3) it does not yet need replacement. This section focuses on the assets which
+are not included in a capital improvement project in this plan.
+Below is a discussion of the above assets, their level of assessment, anticipated replacement
+timeline, and cost of replacing a percentage of them in the RCIPP timeframe. The cost estimates
+include cost escalation to account for inflation and capture a more realistic expectation of the cost
+of replacement within the timeframe.
+This document does not address or identify specific funds for non-plan identified asset
+replacements. This section is designed solely to inform the County’s overall need. A larger, more
+comprehensive study and plan may be done in the future, which would look at actual lifespans of
+assets, both locally and using national or international standards, to determine the actual time
+frame for replacements.
+Ongoing Asset Management Recommendations
+Inventory of most assets has been completed, which informs the county of the quantity and location
+of all assets. Table 16 lists the inventory progress of County assets shown in the RCIPP. The County is
+responsible for condition assessments of all assets and, depending on the asset, different criteria
+and/or regulations may need to be applied during the assessment. For culverts, the County develops
+the condition assessment, however, for bridges and ADA ramps, a combination of County criteria
+and State or Federal requirements are used during the condition assessment.
+Final RCIPP   71
+
+Table 16: Asset Inventory and Condition Assessment Progress
+Asset Type Inventory Condition Assessment
+Culverts (fish passage) and (in stream, non-fish passage) Complete Complete
+Culverts (Non-In-Stream, Stormwater/Drainage) Complete Partially complete1
+Guardrail Complete Complete
+Pavement Complete Complete2
+Traffic Signals and Enhanced Crossings Complete To be completed3
+Bridge structures Complete Partially complete4
+Storm Drainage  Complete To be completed5
+1 Assessment as of summer 2018. Data analysis currently in progress. Future Stormwater/Drainage Master Plan expected to address full
+storm system.
+2 Pavement Condition Index (PCI) serves as a proxy for field condition.
+3 To be created and added at a future date. Staff input and age of asset serve as a proxy for inventory and condition assessment.
+4 Condition assessment based on ODOT sufficiency rating (how the structure is constructed) as well as other factors regarding adjacent
+conditions, capacity, etc.
+5 To be completed as part of future Storm Drainage Master Plan.
+Culverts
+The County has 1700 culverts which are categorized as fish passage, in-stream (may or may not be
+fish passage), and drainage/stormwater culverts. All of the culverts have had condition assessments,
+but not all have been reviewed for quality control. Generally speaking, fish passage and in-stream
+culvert assessments are more likely to be accurate and complete than non-in-stream,
+drainage/stormwater culverts. For all culverts, the County assumes a 60-year life span, which is
+based on data for corrugated metal pipe (CMP). While not all county culverts are this type, this is
+used as a proxy for all culverts until a more in-depth analysis can occur. Additionally, it is assumed
+that culverts in the County are currently 40-60 years old, therefore within the RCIPP timeframe,
+approximately half would need to be replaced.
+Culverts (Fish Passage In-Stream, Non-Fish Passage)
+Fish passage and in-stream culverts typically serve surrounding watersheds and aid in the
+movement of water through constructed areas, such as under a roadway that crosses a stream that
+would otherwise be unobstructed. They aim to minimize fish passage obstructions and allow natural
+migration to and from the ocean. Table 17 shows the cost estimate over the course of the RCIPP
+timeframe. The total cost per year in 2019 dollars is $5,104,415.
+Table 17: Culvert (Fish Passage and In-Stream, Non-Fish Passage) Cost Estimate, compiled in 2019*
+Timeframe Cost
+2025-2029 $33,923,985
+2030-2034 $41,273,715
+2035-2040 $61,495,611
+Total Cost  $136,693,311
+*Assumptions:
+1. 50 percent of assets replaced during the RCIPP timeframe.
+2. 50 feet of roadway improvements necessary on each end of each culvert.
+3. The earthwork necessary for construction of in-stream culverts is based on the assumption that 75 percent of the in-stream culverts
+require 15 feet of embankment (measured vertically) and the remaining 25 percent require 30 feet of embankment.
+4. 137 in-stream pipe culverts and seven in-stream box culverts replaced during the outlined RCIPP timeframe.
+Final RCIPP   72
+
+Culverts (Non-In-Stream, Stormwater/Drainage)
+Stormwater and Drainage culverts function to remove stormwater and runoff from roadside ditches
+and pass water under roadways at drainage points. Unlike In-Stream culverts, they typically collect
+runoff from manmade drainage channels. Table 17 shows the cost estimate over the course of the
+RCIPP timeframe. The total cost per year in 2019 dollars is $2,041,433.
+Table 18: Culvert (Non-In-Stream and Stormwater/Drainage) Cost Estimate, compiled in 2019*
+Timeframe Cost
+2025-2029 $13,990,710
+2030-2034 $17,021,838
+2035-2040 $25,361,622
+Total Cost  $56,374,170
+*Assumptions:
+1. 50 percent of the assets replaced during the RCIPP timeframe.
+2. 50 feet of roadway improvements necessary on each end of each culvert.
+3. 545 non-in-stream culverts replaced during the outlined RCIPP timeframe.
+Guardrail
+County inventory and condition assessment have determined that existing guardrail does not meet
+current standards10. The County has approximately 41,140 linear feet of guardrail. For Capital
+projects in locations where the county has existing substandard guardrail, the asset will be replaced
+and brought up to standard. For the remaining guardrail, the County has 30 years as the
+replacement cycle for this asset (all guardrail should be replaced every 30 years), therefore in the
+25-29, 30-34, and 35-39 timeframe, 50% of all guardrail will be replaced. Table 18 shows the cost
+estimate over the course of the RCIPP timeframe. The total cost per year in 2019 dollars is $274,984.
+Table 19: Guardrail Cost Estimate, compiled in 2019*
+Timeframe Cost
+2025-2029 $1,884,571
+2030-2034 $2,292,869
+2035-2040 $3,416,251
+Total Cost  $7,593,691
+*Assumptions:
+1. 50% of the assets replaced during the RCIPP time frame.
+2. Accounts for existing guardrail; does not include non-existing, needed guardrail.
+
+10 Cornelius Pass Road and Newberry Roads are an exception to this as they were installed as part of a recent
+capital project.
+Final RCIPP   73
+
+Pavement
+The County uses pavement condition index (PCI) to assess and monitor the condition of the roads.
+For the 104 miles of roadways that are not included in a capital project, the cost assumption below
+assumes condition will worsen over the timeframe of the plan and replacement costs grow higher as
+condition worsens. Table 19 shows the cost estimate over the course of the RCIPP timeframe. The
+total cost per year in 2019 dollars is $15,725,838.
+Table 20: Pavement Cost Estimate, compiled in 2019*
+Timeframe Cost
+2025-2029 $93,035,241
+2030-2034 $113,191,596
+2035-2040 $168,649,380
+Total Cost  $374,876,217
+*Assumptions:
+1. No pavement rehabilitation projects before 2025.
+Traffic Signals and Enhanced Crossings
+The County has 46 Traffic signals, rapid flashing beacons, and flashers. All signals in the County have
+been inventoried. Condition assessment has not been completed, therefore the County uses a proxy
+based on the age of the signal and staff knowledge of the condition. All rapid flashing beacons and
+flashers are less than 10 years old. They have not been inventoried or condition assessed, but are
+assumed to not need replacement as part of this cost estimating. Table 20 shows the cost estimate
+over the course of the RCIPP timeframe. The total cost per year in 2019 dollars is $553,635.
+Table 21: Traffic Signals and Enhanced Crossings Cost Estimate, compiled in  2019*
+Timeframe Cost
+2025-2029 $3,97,267
+2030-2034 $4,616,305
+2035-2040 $6,878,046
+Total Cost  $11,494,351
+*Assumptions:
+1. 50% of assets replaced during RCIPP timeframe.
+Bridge structures
+The County has 21 bridge structures which include road bridges as well as large culvert structures.
+Table 21 shows the cost estimate over the course of the RCIPP timeframe. The total cost per year in
+2019 dollars is $1,586,486.
+Table 22: Bridge Structures Cost Estimate, compiled in 2019*
+Timeframe Cost
+2025-2029 $10,872,787
+2030-2034 $13,228,408
+2035-2040 $19,709,616
+Total Cost  $43,810,811
+*Assumptions:
+1. 50 feet of roadway improvements necessary on each end of the bridge.
+2. Based on a typical roadway section of 6-inches ACP on top of 9-inches aggregate base.
+3. The bridges identified as needing replacement were based on their design life year, which was assumed to be 75 years after the
+original construction date.
+Final RCIPP   74
+
+Storm Drainage
+The County intends to conduct a storm drainage master plan in the future. Most County storm drain
+assets are undersized. Capital projects that impact a storm drain or culvert, include the cost of
+replacing that asset. For storm drainage assets not associated with a capital project the county did
+not develop a lifespan estimate, Instead the County used 50% as the number of assets to be
+replaced in the timeframe. This is due to the likely age of the asset 60 year for CMG pipe, and the
+likelihood that it was installed 40-60 years ago. Table 22 shows the cost estimate over the course of
+the RCIPP timeframe. The total cost per year in 2019 dollars is $13,575,097.
+Table 23: Storm Drainage Cost Estimate, compiled in 2019*
+Timeframe Cost
+2025-2029 $93,035,241
+2030-2034 $113,191,596
+2035-2040 $168,649,380
+Total Cost  $374,876,217
+*Assumptions:
+1. 50% of assets replaced during RCIPP timeframe.
+2. Drainage systems: for each new run of pipe installed, two (2) new inlets and one (1) new manhole required
+Additional Assets
+As mentioned, the County will need to conduct a larger and more comprehensive Asset
+Management Plan as part of a future effort. However, this section provides a basis for analyzing all
+of the County’s asset replacement needs. Other County assets that are included in County Capital
+Projects as appropriate but that have not been fully evaluated and costed for replacement outside
+of a capital project include the following:
+• Cross Section analysis to determine the difference between existing cross section and
+preferred cross section by functional class. The data for this task is available, but the task
+should be completed after the County’s pending Design and Construction Manual update.
+• Clear Zone analysis to determine if guardrail or retaining wall is needed. The data for this
+has been created and a data layer is available to indicate where this is needed. Need for
+guardrail is nearly ubiquitous throughout the county.
+• Roadway shoulder analysis has been completed. Condition, width and material data is
+available.
+• Sinkholes and slides data is being collected. In addition to pavement condition index, this
+information is useful to project development and determining the type of roadway
+rehabilitation necessary.
+Final RCIPP   75
+
+List of projects
+Based on the scoring methodology, all 132 projects were scored and ranked. Additionally, the
+projects were categorized by the three sub areas of the region: West, urban East, and rural East.
+Tables 23 lists each RCIPP project, including its region, score, and cost estimate11. The projects are
+listed in order from the highest scoring (highest priority) to the lowest scoring (lowest priority). For a
+list of project descriptions (listed by project number), see Appendix D.
+Table 24: RCIPP Projects
+Project Region Score Cost (2019
+dollars)
+500U NE 207th Avenue (Fairview Parkway): NE Glisan Street to
+NE Sandy Boulevard: Arterial corridor Management (ACM)
+with Adaptive Signal Timing
+Urban East 51.7 $2,970,000
+505U NE 238th Drive: NE Halsey Street to NE Glisan Street Urban East 51.2 $31,500,000
+542U S Troutdale Road: SW Cherry Park Road to SE Stark Street Urban East 51.1 $8,490,000
+538U SE Stark Street: S Troutdale Road to SE Evans Avenue Rural East 50.6 $1,980,000
+517U NE Glisan Street: Fairview Parkway to NE 242nd Avenue:
+Arterial Corridor Management (ACM)
+Urban East 50.2 $2,940,000
+537U SE Stark Street: SW 257th Avenue to S Troutdale Road Urban East 49.8 $8,210,000
+109R NE Corbett Hill Road Safety Improvements Rural East 49.6 $20,870,000
+507U SW 257th Avenue Pedestrian Safety Improvements
+(Gresham City Limits to I-84)
+Urban East 49.5 $2,650,000
+533U NE Sandy Boulevard: NE 223rd Avenue to NE 238th Avenue Urban East 49.4 $8,360,000
+522U NE Halsey Street: NE 238th Drive to Historic Columbia River
+Highway
+Urban East 49.3 $13,350,000
+110R NW Cornelius Pass Road: Highway 30 - Skyline Boulevard West 48.7 $143,230,000
+132R Johnson Creek Culverts of Regional Concern Urban East 48.3 $5,150,000
+506U NE 238th Drive/NE 242nd Avenue/NE Hogan Drive: NE
+Sandy Boulevard to NE Glisan Street: Arterial Corridor
+Management (ACM) with Adaptive Signal Timing
+Urban East 47.1 $250,000
+121R SE Foster Road: SE Jenne Road to County Line Urban East 47.1 $3,760,000
+532U NE Sandy Boulevard: Gresham City Limits to NE 223rd
+Avenue
+Urban East 46.2 $11,100,000
+519U NE Halsey Street: NE 202nd Avenue to NE 223rd Avenue Urban East 45.8 $3,320,000
+526U W Historic Columbia River Highway: NE 244th Avenue and
+NE Halsey Street
+Urban East 45.4 $12,390,000
+514U Forest Park / SW Hills Urban Pockets Sidewalk Infill Projects West 45.4 $21,340,000
+502U NE 223rd Avenue: NE Halsey Street to NE Glisan Street Urban East 45.4 $5,490,000
+511U Dunthorpe Urban Pockets Active Transportation Projects West 44.8 $5,710,000
+548U NE Glisan St Overlay: SE 223rd to NE 238th Urban East 44.5 $5,310,000
+520U NE Halsey Street: NE 223rd Avenue to NE 238th Drive Urban East 44.4 $3,350,000
+534U NE Sandy Boulevard: NE 238th Drive to Roadway Terminus Urban East 44.3 $2,740,000
+535U SW Scholls Ferry Road: SW Humphrey Boulevard to SW
+Patton Road
+West 44.3 $21,970,000
+545U Wood Village Boulevard: NE Glisan Street and NE Halsey
+Drive
+Urban East 44.2 $1,530,000
+
+11 Cost estimates include engineering, right-of-way, construction, any necessary environmental permitting, wetland mitigation, hazmat,
+and a 30% contingency. Cost estimates are based on preferred alternatives and in 2019 dollars.
+
+Final RCIPP   76
+
+Project Region Score Cost (2019
+dollars)
+179R SE Stark Street: SE 35th Street to Stark Street Bridge/E
+Historic Columbia River Highway
+Rural East 44.1 $21,210,000
+513U Forest Park / SW Hills Urban Pockets Bicycle Projects West 43.7 $46,640,000
+510U SE Cochran Road: SE Troutdale Road to Gresham /
+Troutdale City Limits
+Urban East 43.4 $4,040,000
+131R SE Hurlburt Road: E Historic Columbia River Highway to SE
+Littlepage Road
+Rural East 43.3 $8,240,000
+135R E Larch Mountain Road: E Historic Columbia River Highway
+to End of Road
+Rural East 42.9 $194,720,000
+560U Stark Street Overlay: Gresham City Limit to SW 257th Ave Urban East 42.9 $4,060,000
+157R Sandy River Tributary Culverts of Local Concern Rural East 42.8 $9,030,000
+101R SE 282nd Avenue: SE Orient Drive to County Line Rural East 42.3 $1,840,000
+530U NE Marine Drive - NE 223rd Avenue to Gresham City limits Urban East 42.3 $19,350,000
+171R Stark Street Bridge Rural East 42.1 $19,030,000
+549U Cherry Park Rd Overlay: SW 257th Avenue to SE Troutdale
+Road
+Urban East 41.8 $2,130,000
+177R E Woodard Road: E Historic Columbia River Highway to SE
+Ogden Road
+Rural East 41.7 $21,740,000
+543U S Troutdale Road: SE Stark to SE Strebin Road Urban East 41.5 $5,170,000
+153R SE Oxbow Parkway: SE Oxbow Drive to End of Road Rural East 41.3 $10,670,000
+501U NE 223rd Avenue and NE Glisan Street Intersection
+Improvements
+Urban East 41.0 $660,000
+508U Buxton Road: Historic Columbia River E Highway to SE
+Cherry Park Road
+Urban East 40.9 $920,000
+553U Graham Rd ADA Ramp Upgrades: E Historic Columbia River
+Highway to I-84
+Urban East 40.9 $530,000
+552U Cherry Park Rd ADA Ramp Upgrades: NE 238th Ave to SW
+257th Ave
+Urban East 40.9 $1,730,000
+503Ua NE 223rd Avenue: NE Sandy Boulevard to South of UPRR
+Undercrossing
+Urban East 40.7 $4,720,000
+149R SE Orient Drive: Gresham city limits to County line Rural East 40.7 $950,000
+525U E Historic Columbia River Highway Curb Extensions Urban East 40.4 $980,000
+111R NW Cornelius Pass Road: Skyline Boulevard - County Line West 40.3 $11,150,000
+124R SE Gordon Creek Road: SE Hurlburt Road to S curves
+/Milepost 2
+Rural East 40.0 $26,210,000
+114R SE Division Drive: SE Troutdale Road to SE Oxbow Drive Rural East 39.9 $6,490,000
+547U Historic Columbia River Hwy Overlay: approximately 632 E.
+Historic Columbia River Highway to Sandy River
+Urban East 39.8 $1,250,000
+529U NE Marine Drive: NW Sundial Road to NE 223rd Avenue Urban East 39.8 $16,680,000
+176R Tualatin River Culverts of Local Concern West 39.5 $4,410,000
+136R NW Laidlaw Road: NW Thompson Road to County line West 39.5 $7,880,000
+516U NE Glisan Street: NE 202nd Avenue to NE 207th Avenue Urban East 39.1 $7,560,000
+133R SE Kerslake Road: SE Wilson Road to SE 302nd Avenue Rural East 38.9 $5,140,000
+536U SW Scholls Ferry Road: SW Patton Road to Washington
+County Line
+West 38.5 $1,830,000
+113R Cornell Road (all segments within County jurisdiction) West 38.2 $14,650,000
+550U Jenne Rd to 174th Ave Overlay Urban East 38.2 $1,660,000
+Final RCIPP   77
+
+Project Region Score Cost (2019
+dollars)
+125R SE Gordon Creek Road: S curves/Milepost 2 to SE Trout
+Creek Road)
+Rural East 38.0 $19,000,000
+170R NW Springville Road: City of Portland line to Washington
+County line
+West 37.9 $7,720,000
+103R SE 302nd Avenue: SE Kerslake Road to SE Bluff Road Rural East 37.8 $11,980,000
+116R SE Division Drive: UGB to SE Troutdale Road Rural East 37.7 $2,310,000
+503Ub NE 223rd Avenue: UPRR Undercrossing to North of NE
+Marine Drive
+Urban East 37.6 $6,220,000
+521U NE Halsey Street and Wood Village Boulevard Signal Urban East 37.5 $1,060,000
+169R NW Skyline Boulevard: NW Beck Road to NW Rocky Point
+Road
+West 37.4 $9,330,000
+528U NW Marine Drive: NW Frontage Road to NW Sundial Road Urban East 37.3 $4,130,000
+163R Sauvie Island Loop Roads Shoulder Improvements West 37.2 $12,520,000
+126R SE Gordon Creek Road: SE Trout Creek Road to County line Rural East 37.2 $5,450,000
+118R SE Dodge Park Boulevard: SE Orient Drive to SE Pleasant
+Home Road
+Rural East 37.1 $3,440,000
+119R SE Dodge Park Boulevard: SE Pleasant Home Road to
+County Line
+Rural East 37.0 $24,480,000
+175R SE Troutdale Road: SE Division Drive to SE 282nd Drive Rural East 36.8 $16,200,000
+138R SE Lusted Road: Gresham city limit to SE Pleasant Home
+Road
+Rural East 36.8 $6,550,000
+546U Far Southeast Urban Pockets Active Transportation Projects Urban East 36.8 $3,820,000
+509U NE Blue Lake Road: NE 223rd Avenue to NE Interlachen
+Lane
+Urban East 36.2 $4,180,000
+199R SE Evans Road: SE Hurlburt Road to E Historic Columbia
+River Highway
+Rural East 35.9 $12,910,000
+524U E Historic Columbia River Highway and Buxton Avenue
+Intersection Signalization
+Urban East 35.8 $930,000
+129R SE Hosner Road: SE Hosner Terrace to SE Oxbow Park Road Rural East 35.7 $12,260,000
+122R Germantown Road: NW Skyline Boulevard to County Line West 35.7 $41,827,319
+105R SE Anderson State Road: SE 267th Avenue (South) to SE
+267th Avenue (North)
+Urban East 35.7 $1,780,000
+164R NW Skyline Boulevard: NW Cornell Road to NW Greenleaf
+Road
+West 35.4 $1,620,000
+167R NW Skyline Boulevard: NW Cornelius Pass Road to NW Rock
+Creek Road
+West 35.3 $31,360,000
+166R NW Skyline Boulevard: City of Portland line to NW Cornelius
+Pass Road
+West 35.3 $2,520,000
+172R SE Sweetbriar Road: SE Troutdale Road to East City Limit Rural East 34.8 $2,270,000
+551U NE 242nd Dr Overlay: Cherry Park Road to Gresham City
+Limit
+Urban East 34.5 $1,530,000
+531U NE Marine Drive and NE 223rd Avenue Intersection
+Reconstruction
+Urban East 34.5 $14,910,000
+108R NE Corbett Hill Road/East Historic Columbia River Highway Rural East 34.3 $3,960,000
+107R Columbia River Gorge Tributary Culverts of Local Concern Rural East 33.9 $4,290,000
+180R SE Troutdale Road: SE Strebin Road to SE Division Drive Rural East 33.8 $10,980,000
+161R NW Sauvie Island Road: NW Reeder Road to Milepost 6 West 33.8 $9,640,000
+117R SE Division Drive and SE Troutdale Road Intersection Rural East 33.7 $7,600,000
+Final RCIPP   78
+
+Project Region Score Cost (2019
+dollars)
+159R NW Sauvie Island Road Multi-Use Path: Bridge to NW
+Reeder Road
+West 33.2 $4,440,000
+142R SE Mershon Road: NE Ogden Road to E Historic Columbia
+River Highway
+Rural East 33.1 $19,870,000
+158R Sandy River Tributary Culverts of Regional Concern Rural East 32.9 $4,050,000
+178R SE Stark Street: Troutdale City Limits to SE 35th Street Rural East 32.6 $800,000
+151R SE Oxbow Drive: SE Division Drive to SE Hosner Road Rural East 32.5 $16,380,000
+541U NW Sundial Road: NW Marine Drive to 40-mile loop Urban East 32.3 $4,710,000
+523U W Historic Columbia River Highway Railroad Overcrossing Urban East 32.3 $16,550,000
+120R SE Foster Road at SE 172nd Avenue Urban East 32.3 $8,050,000
+168R NW Skyline Boulevard: NW Rock Creek to NW Beck Road West 31.9 $2,450,000
+518U NE Glisan Street Culvert (east of NE 223rd Avenue) Urban East 31.4 $2,140,000
+143R SE McNutt Road: SE 252nd Avenue to SE 257th Avenue Urban East 31.3 $2,720,000
+165R NW Skyline Boulevard: 50’ SE NW Kelly Circle to 750’ SE NW
+Meares Drive / City Boundary
+West 31.2 $2,210,000
+140R SE Lusted Road: SE Cottrell Road to Clackamas County line Rural East 30.9 $26,210,000
+112R NW Cornelius Pass Road and NW Skyline Boulevard
+Intersection
+West 30.6 $1,280,000
+100R SE 267th Avenue: City of Gresham Boundary to End of Road Urban East 30.6 $2,550,000
+155R SE Powell Valley Road/SE Roork Road: SE 282nd Avenue to
+SE 302nd Avenue
+Rural East 30.0 $5,090,000
+147R SE Orient Drive/SE 282nd Avenue Intersection
+Improvements
+Rural East 29.8 $990,000
+150R SE Orient Drive / SE Bluff Road Intersection Improvements Rural East 29.8 $2,340,000
+148R SE Orient Drive / SE Dodge Park Boulevard Intersection
+Improvements
+Rural East 29.6 $1,920,000
+137R SE Littlepage Road: SE Hurlburt Road to E Knieriem Road Rural East 29.3 $2,000,000
+173R SE Telford Road: SE 252nd Avenue to Clackamas County
+Line
+Urban East 28.9 $4,860,000
+134R E Knieriem Road: SE Littlepage Road to E Historic Columbia
+River Highway
+Rural East 28.8 $24,610,000
+527U NE Interlachen Lane: NE Marine Drive to NE Blue Lake Road Urban East 28.7 $3,350,000
+160R NW Sauvie Island Road / US Highway 30 Intersection
+Upgrades
+West 28.4 $100,000
+128R Reconstruct Bridge #2 on SE Gordon Creek Road, the
+Gordon Creek Viaduct
+Rural East 27.9 $5,330,000
+156R NW Reeder Road: NW Gillihan Road to Columbia County
+Line
+West 27.1 $7,350,000
+182R NE Latourell Falls Bridge Replacement Rural East 26.4 $970,000
+106R Beaver Creek Culverts of Regional Concern Rural East 26.4 $3,960,000
+145R Newberry Road: US Highway 30 to City of Portland
+Boundary
+West 25.6 $36,100,000
+139R SE Lusted Road: SE Pleasant Home Road to SE Cottrell Road Rural East 25.5 $13,080,000
+174R NW Thompson Road: NW 53rd Drive to UGB West 25.5 $21,210,000
+144R Multnomah Channel Tributary Culverts of Local Concern West 25.3 $5,670,000
+146R NE Ogden Road: NE Mershon Road to E Woodard Road Rural East 25.3 $390,000
+504U NE 223rd Avenue - North Railroad Crossing Bridge
+Replacement
+Urban East 24.7 $15,460,000
+102R SE 282nd Avenue/SE Stone Road Turn Lanes Rural East 24.2 $440,000
+Final RCIPP   79
+
+Project Region Score Cost (2019
+dollars)
+127R Reconstruct Bridge #1 on SE Gordon Creek Road, over
+Gordon Creek
+Rural East 23.9 $6,740,000
+162R NW Sauvie Island Road: Milepost 6 to the Columbia County
+Line
+West 23.3 $3,510,000
+152R SE Oxbow Drive/SE 327th Avenue/SE Altman Road
+Realignment
+Rural East 21.9 $4,190,000
+104R SE 302nd Avenue / SE Lusted Road / SE Pipeline Road
+Intersection Improvements
+Rural East 21.7 $14,120,000
+115R SE Division Drive from SE Oxbow Drive to SE 317th Avenue Rural East 21.2 $4,240,000
+130R SE Hosner Road: SE Lusted Road to SE Oxbow Drive Rural East 21.1 $2,900,000
+123R NW Gillihan Road / NW Reeder Road Intersection Upgrades West 19.1 $10,000
+
+Final RCIPP   80
+
+Bridge Capital Improvement Plan and Program
+This section of the plan addresses the capital needs of the six Willamette River bridges: Broadway,
+Burnside, Hawthorne, Morrison, Sauvie Island, and Sellwood. With the exception of the Sauvie
+Island Bridge, these bridges are located in the City of Portland and provide regional connections
+between the east and west sides of the metropolitan area. Figure  shows the four downtown,
+Multnomah County-operated and maintained bridges and Figure 43 shows a map with five of six
+bridges. As part of the 2015 Capital Improvement Plan and Program (CIPP) Update, the Willamette
+River Bridges Capital Improvement Plan (Bridge CIP) was incorporated. In 2019 the project list was
+updated to reflect changes in conditions since the 2015 inspections and cost increases for projects
+that were not completed in their original time period. A new five-year time period was also added at
+the end of the Bridge CIP timeline and the time periods for projects were shifted based on when
+they are likely to be completed. The excerpts from the Bridge CIP plan below are incorporated into
+the County RCIPP. The full Bridge CIP (with all updates) is available as a separate document, and
+provides more details on the projects.
+ Purpose:  Multnomah County’s Bridge CIP identifies a 20-
+year program of necessary capital projects and associated
+funding needs to maintain and seismically retrofit the iconic
+Willamette River bridges (Broadway, Burnside, Hawthorne,
+Morrison, Sauvie Island and Sellwood) for the period 2020-
+2039.  These bridges connect the community and currently
+serve approximately 200,000 people daily.  As of 2019, the
+four historic movable bridges lack the necessary seismic
+resiliency to withstand moderate to major earthquakes.
+This is especially true for the anticipated Magnitude 9.0
+Cascadia Subduction Zone event that the Oregon
+Department of Geology and Mineral Industries has
+calculated as having a 37 percent chance of occurring
+before 2065.
+Bridge CIP Objectives:  The Bridge CIP meets the following
+objectives established by Multnomah County:
+• Provide a rational basis for identifying and
+prioritizing capital projects.
+• Establish criteria for informing program and project
+selection decisions.
+• Provide collaborative public and stakeholder input
+for criteria selection.
+• Identify needs, projects, and costs to maintain the
+bridges to identified performance standards.
+• Conduct a seismic evaluation to support
+programmatic rehabilitation needs, projects, and
+costs.
+Figure 42 – Multnomah County
+Operated and Maintained
+Downtown Portland Bridges
+
+Final RCIPP   81
+
+• Develop a comprehensive understanding of the current condition of the six bridges.
+• Assess life cycle and capital maintenance needs for key mechanical, electrical and structural
+systems and paint.
+• Obtain Board of County Commissioners (BCC) input and approval for the Bridge CIP.
+Results:  The Bridge CIP currently identifies 54 capital projects with a total cost of approximately
+$1.4 billion.  The Bridge CIP provides an action plan for 2020-2039 resulting in the following
+outcomes:
+• Dependable bridge operation
+• Safe and reliable river crossings
+• Enhanced seismic resiliency
+• Integration of project distribution analysis within the decision making processes
+• Alignment with Multnomah County’s Climate Action Plan
+Costs for the projects account for inflation to a programmed year of expenditure.  Each capital
+project is planned within a specified five-year time interval, as summarized in Table 25.
+Table 25: Summary of Project Costs by Target Time Interval
+Target Time Interval Number of Projects Cost at Target Time Interval for Construction
+2020-2024 10 $751.50 million
+2025-2029 16 $159.77 million
+2030-2034 10 $402.47 million
+2035-2039 18 $167.27 million
+Bridge CIP costs summarized by bridge complex are shown in Table 26.
+Table 26: Summary of Project Costs by Bridge Complex
+Bridge Name Number of Projects Cost at Target Time Interval for Construction
+Broadway 16 $193.97 million
+Burnside 3 $684.94 million
+Hawthorne 16 $227.74 million
+Morrison 15 $256.22 million
+Multiple 6 $112.74 million
+Sauvie Island 4 $3.93 million
+Sellwood 3 $1.45 million
+Bridge CIP costs summarized by primary work category are shown in Table 27.
+Final RCIPP   82
+
+Table 27: Summary of Bridge CIP Costs by Primary Work Category
+Performance Attribute Criteria Assessment and Ratings
+In addition to considering the cost, the prioritization process considered how each bridge project
+bundle rated against ten different performance attribute criteria that were derived from the
+County’s values. Bridge projects were rated, receiving scores that ranged from -3 (poor
+performance) to +3 (excellent performance), and every project was evaluated at each five-year time
+interval.  The scores at each time interval were then compared to the score based on the bridge’s
+existing condition. The higher the resulting value of this comparison, the higher the priority of the
+project.
+The following ten performance attributes were established for each project (in alphabetical order):
+• Emergency Preparedness - An assessment of the structure’s ability to resist anticipated
+seismic and flood events.
+• Livable Communities - An assessment of how the improvement promotes a multimodal
+community including bicyclists, transit users and pedestrians ADA compatibility) to
+encourage a more livable and healthy community.
+• Maintenance - An assessment of the long-term maintenance needs and the safety of
+maintenance and operations staff.  Maintenance considerations include the overall
+durability, longevity, and maintainability of roadway surfaces. They also include the
+accessibility and safety considerations for maintenance personnel.
+• Movable Operations - An assessment of the project’s ability to maintain bridge movable
+operations for all modes.
+• Regional Alignment - An assessment of how well the projects align with adjacent partner
+agency CIP projects and regional plans, including those for emergency preparedness. (Note:
+Considers input from the stakeholder engagement process.)
+• Social Justice - An assessment of project impacts on services for traditionally under-served
+communities (people of color, low-income, limited English proficiency (LEP), older adults,
+children, and people with disabilities).  Services include schools, social services, faith-based
+organizations, community centers, police/fire/justice, and food options).
+• Structural Integrity - An assessment of the structural condition of the bridge based on
+assessed condition. Projects include paint system rehabilitations that have the ability to
+preserve the structural condition of the various steel members.
+Primary Work Category Number of Projects Cost at Target Time Interval for Construction
+Accessibility 6 $42.87 million
+Driving Surface 5 $39.25 million
+Electrical and Lighting 9 $27.21 million
+Mechanical 5 $29.87 million
+Paint 10 $285.79 million
+Seismic 6 $885.65 million
+Structural 13 $170.35 million
+Final RCIPP   83
+
+• Sustainability - Assessment of the influence of the project on:  (1) the long-term economic
+well-being of the region; (2) the long-term environmental well-being of the vicinity adjacent
+to the bridges; and (3) the preservation of the historic and iconic nature of the bridges.
+• Traffic Operations - An assessment of the operations of motor vehicles, freight mobility,
+and congestion reduction.
+• User Safety - An assessment of multimodal (including river traffic) safety on the bridge
+complex and its approach roadways. Safety considerations include horizontal and vertical
+geometric configurations, merging or weave distances, design speeds, sight distance, lane
+and shoulder widths, traffic and safety lighting, vehicle or vessel snagging, barrier rail
+systems, and roadway conditions.
+Final RCIPP   84
+
+Figure 43: Willamette River Bridge Projects
+
+Roadway Capital Improvement Plan and Program Update     2020
+
+Final RCIPP      85
+Table 28: Bridge Projects
+
+Project
+Rank
+Bridge Name(s)
+
+Project Name
+Primary  Work
+Category
+Target
+Construction
+Time
+Total Cost at
+Target
+Construction
+Time
+1 Burnside Seismic Resiliency (Major Bridge Rehabilitation /
+Bridge Replacement) - Environmental Impact Study
+Seismic 2020–2024 $17,000,000
+2 Burnside Seismic Resiliency (Major Bridge Rehabilitation / Bridge
+Replacement) - Final Design and Right-of-Way (ROW) Seismic 2020–2024 $122,942,477
+3 Burnside Seismic Resiliency (Major Bridge Rehabilitation /
+Bridge Replacement) - Construction Seismic 2020–2024 $545,000,000
+4 Morrison Bridge Painting and Structural Rehabilitation - West
+Approach Paint 2020–2024 $17,352,088
+5 Broadway Movable Span Deck Replacement Driving Surface 2020–2024 $4,984,731
+6 Hawthorne Bridge Deck and Joint Improvements Structural 2020–2024 $10,493,304
+7 Broadway, Burnside,
+Hawthorne, and Morrison
+Bicycle and Pedestrian Improvement Project -
+Feasibility Study Phase Accessibility 2020–2024 $1,442,557
+8 Morrison Motor, Brake, and Electrical Power Rehabilitation;
+Operator House Improvements Mechanical 2020–2024 $4,265,529
+9 Morrison Bent Cap Rehabilitation - Approach Spans Structural 2020–2024 $4,131,652
+10 Morrison Painting and Structural Improvements - River Spans Paint 2020–2024 $23,883,371
+11 Broadway Bridge Deck / Rail / Illumination Improvements Driving Surface 2025–2029 $14,449,244
+12 Morrison Span Lock and Support Rehabilitation Mechanical 2025–2029 $4,361,957
+13 Morrison Roadway Approaches, Bridge Deck Overlay, and
+Illumination Improvements Driving Surface 2025–2029 $15,661,148
+14 Broadway Roadway and Structural Rehabilitation Driving Surface 2025–2029 $2,665,398
+15 Broadway Gate, Span Lock and Structural Rehabilitation - River Spans Electrical and
+Lighting 2025–2029 $4,881,378
+16 Hawthorne Bent Cap Rehabilitation - Approach Spans Structural 2025–2029 $3,814,227
+17 Broadway Broadway Bridge West Approach Structural Rehabilitation
+and Paint Paint 2025–2029 $26,325,997
+18 Hawthorne Operating Machinery, Trunnion, and Trunnion Tower
+Structural Rehabilitation Mechanical 2025–2029 $17,914,399
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP      86
+
+Project
+Rank
+Bridge Name(s)
+
+Project Name
+Primary  Work
+Category
+Target
+Construction
+Time
+Total Cost at
+Target
+Construction
+Time
+19 Hawthorne Span Lock and Live Load Shoe Rehabilitation Mechanical 2025–2029 $1,031,973
+20 Broadway, Burnside,
+Hawthorne, and Morrison Scour Remediation Structural 2025–2029 $29,405,052
+21 Hawthorne Structural Rehabilitation of Steel and Concrete Members
+- River Spans Structural 2025–2029 $13,142,165
+22 Sauvie Island Roadway Improvements - East Approach Driving Surface 2025–2029 $1,488,668
+23 Hawthorne Joint Rehabilitation and Replacement - West and East
+Approaches Structural 2025–2029 $2,384,383
+24 Broadway, Burnside,
+Hawthorne and Morrison
+Bicycle and Pedestrian Improvement Project - Design
+and Construction Phase 1 Accessibility 2025–2029 $16,319,707
+25 Burnside, Broadway, and
+Morrison Submarine Cable Removal Electrical and
+Lighting 2025–2029 $4,552,476
+26 Sauvie Island Roadway and Structural Rehabilitation Structural 2025–2029 $1,371,606
+27 Hawthorne Hawthorne Bridge Limited Seismic Retrofit Seismic 2030–2034 $51,043,621
+28 Broadway Broadway Bridge Limited Seismic Retrofit Seismic 2030–2034 $52,628,358
+29 Morrison Morrison Bridge Limited Seismic Retrofit Seismic 2030–2034 $97,033,289
+30 Hawthorne Roadway, Sign Bridge, and Illumination Improvements -
+Approaches Structural 2030–2034 $38,009,187
+31 Morrison Structural Rehabilitation of Steel and Concrete Pier
+Members - River Spans Structural 2030–2034 $17,498,153
+32 Hawthorne Paint and Structural Rehabilitation of Steel and Concrete
+Members - East Approach Paint 2030–2034 $37,363,940
+33 Morrison Joint Rehabilitation - West Approach, River Spans, and
+East Approach Structural 2030–2034 $4,537,785
+34 Broadway, Burnside,
+Hawthorne, and Morrison
+Bicycle and Pedestrian Improvement Project - Design
+and Construction Phase 2 Accessibility 2030–2034 $16,323,533
+35 Hawthorne Bridge Painting and Upgraded Lighting Paint 2030–2034 $43,328,584
+36 Broadway, Burnside,
+Hawthorne, and Morrison Fender Repair and Installation Structural 2030–2034 $44,701,438
+37 Morrison Paint, Structural Rehabilitation, and Access Improvements
+- East Approach Paint 2035–2039 $54,678,686
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP      87
+
+Project
+Rank
+Bridge Name(s)
+
+Project Name
+Primary  Work
+Category
+Target
+Construction
+Time
+Total Cost at
+Target
+Construction
+Time
+38 Broadway Operating Machinery Rehabilitation and Brake
+Replacement Mechanical 2035–2039 $2,300,579
+39 Morrison Warning Gate and Sign Bridge Replacement Electrical and
+Lighting 2035–2039 $7,277,240
+40 Broadway Bridge Painting - Maintenance of 2002 Paint Project Paint 2035–2039 $66,631,927
+41 Broadway Bridge Painting - Maintenance of 2015 Paint Project Paint 2035–2039 $14,891,720
+42 Sellwood Lighting Maintenance Electrical and
+Lighting 2035–2039 $326,903
+43 Broadway Electrical System Master Control Switch Installation and
+Miscellaneous Operator House Improvements
+
+Electrical and
+Lighting
+2035–2039 $307,377
+44 Hawthorne Installation of Remote Operation and Monitoring Equipment Electrical and
+Lighting 2035–2039 $2,063,574
+45 Hawthorne ADA Improvements
+Accessibility 2035–2039 $3,472,729
+46 Sellwood Joint Rehabilitation and Replacement
+Structural 2035–2039 $353,055
+47 Morrison ADA Improvements
+Accessibility 2035–2039 $3,472,729
+48 Broadway ADA Improvements
+Accessibility 2035–2039 $1,841,966
+49 Sauvie Island Under-bridge Maintenance Traveler System
+Structural 2035–2039 $510,786
+50 Morrison Installation of Remote Operation and Monitoring
+Equipment
+Electrical and
+Lighting 2035–2039 $2,063,574
+51 Broadway Installation of Remote Operation and Monitoring
+Equipment
+Electrical and
+Lighting 2035–2039 $2,063,574
+52 Sauvie Island Routine Maintenance and Bridge Painting Paint 2035–2039 $560,741
+53 Sellwood Bridge Maintenance Painting Paint 2035–2039 $774,760
+54 Hawthorne Warning and Barrier Gate Rehabilitation Electrical and
+Lighting 2035–2039
+$3,674,718
+
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP      88
+
+This page intentionally left blank.
+Final RCIPP  89
+Capital Improvement Program
+Purpose
+The Roadway Capital Improvement Plan included several steps to develop one consolidated and
+prioritized list of projects. The project list was developed based on existing plan projects, new data
+collected through the LiDAR scan, and conversations with partners and the public. This new list was then
+run through a comprehensive prioritization process that was created based on the County’s vision and
+goals. The result of this process is a Capital Improvement Plan representing more than 20 years of future
+project needs. While this plan refers to the “20 year timeline” or the “20 year need”, it is clear that the
+needs represent more projects than the County can afford to construct in that timeframe.
+The Capital Improvement Plan identifies and scores all project needs for Multnomah County’s
+transportation system, while the Capital Improvement Program identifies anticipated revenue and
+schedules projects for construction for a 5-year period. In this update, the 5 year program represents
+Fiscal Years 2020 – 2024. It includes projects that are currently underway by the County.
+Constantly changing community needs will alter County transportation program priorities over time
+before all projects can be constructed. The Transportation Capital Improvement Program is reviewed by
+the Transportation Division staff on an annual basis with full reviews including public input on a biennial
+basis. The 2020 – 2024 Capital Improvement Program is based on the best available revenue and cost
+information. It reflects a program of projects that are in various states of delivery. The 20-year list of
+needs does not have to be constrained by available revenue, however the Program reflects what known
+revenue the County has to design and, in most cases, construct. The total cost of projects in the Program
+update is $40.4 million.
+The total capital need identified in the Transportation Capital Improvement Plan for the 132 candidate
+projects totals more than an estimated $1.35 billion.
+Funding Influences and Decisions
+The prioritized list of projects is a reflection of the order in which projects would be delivered if limitless
+resources existed and no emergencies or other mitigating factors occurred. However, it is necessary to
+be responsive to issues and funding opportunities that arise. Below are examples of mitigating factors
+that may act as a catalyst in project development and construction.
+• Natural Disasters: Examples include landslides, wildfires, and other natural disasters affecting
+County assets. In the recent past, capital projects have been prioritized in rural west Multnomah
+County in response to landslides. These include Newberry and Germantown roads.
+• Development: Sometimes development projects trigger improvements by the County. An
+example of this is recent bulb-outs on the Historic Columbia River Highway in the City of
+Troutdale. Development occurred on the south side of the road and a condition of the
+development was to install bulb-outs on the south side of the road. In order to be ADA
+compliant, the County installed bulb-outs on the north side.
+• Cost Sharing: County partners’ jurisdictions sometimes complete projects that the County is able
+to “piggyback” on for cost savings. Recently the City of Fairview provided funding and
+coordination services to work with the Railroad on developing a project on 223rd Street (County
+Roadway Capital Improvement Plan and Program
+Update
+
+ 2020
+Final RCIPP  90
+road) under the railroad bridge. As a result of these resources, the County is working with the
+City on the project development.
+• Public Input and Safety: Multiple complaints, enforcement, or safety issues force work to be
+elevated. We try to be responsive to concerns and issues when they are raised. We have a
+website for this (https://multco.us/roads/report-hazardous-road-conditions) and a web-based
+app where you can report issues. The County tracks this information to understand where
+recurring problems are noted. When possible, the County pursues low-cost improvements to
+address concerns.
+• Grant Availability:  Projects may be eligible for grants depending upon their location and their
+components. For instance, there is a roadway overlay project on Larch Mountain Road that is
+funded with a Federal Lands Access Program grant. This is unique to this location as Larch
+Mountain accesses Federal Lands. The County also has a Regional Flexible Fund Allocation grant
+from Metro for bicycle, pedestrian, and vehicular improvements on Stark Street between 257th
+Street and Troutdale Road. This is a fund source that is available within the urban growth
+boundary.
+
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP      91
+
+Five-Year Capital Improvement Program
+The total cost of the roadway projects listed on the Program update is $40.4 million. The breakdown over the next 5 year cycle (2020-2024) is
+shown below in Table 29.
+Table 29: 5-Year Capital Improvement Program
+
+Multnomah County // Capital Improvement Projects for 2020-24
+NW Germantown Rd slide repair U 1 $251K $226K $25K
+Newberry Rd slide repair U 1 $990K $884K $106K
+Arata Rd U 4 $7.35M $2.08M $5.27M
+NE 238th Dr U 4 $8.39M $7.52M $868K
+NE Cochran Rd Culvert R 4 $3.14M $579K $2.56M
+NW Cornelius Pass Rd R 1 $4.24M $4.20M $45K
+Sandy Blvd sidewalk infills (201st-207th) U 2 $275K -- $275K
+SE 267th Ave Culvert R 4 $995K $650K $345K
+Offsite mitigation (from Sandy Blvd project) U 2 $475K -- $475K
+SE Stark St Improvements U 4 $4.71M $3.52M $1.19M
+NE Latourell Rd Bridge R 4 $1.49M $1.14M $355K
+Overlays U/R -- $1.80M -- $1.80M
+E Larch Mountain Rd Overlay R 4 $3.52M $3.15M $370K
+ADA Tier 1 First 20% (Design Only) -- -- $500K -- -- Design Only
+TOTAL ROADS $38.1M $23.9M $14.2M
+Broadway Rall Wheel Replacement U 1 $628K $64K $564K
+Burnside Rehabilitation U 1 $9.93M $1.02M $8.91M
+Morrison Paint U 1 $26.4M $2.71M $23.7M
+Morrison PLC Replacement U 1 $366K -- $366K
+Burnside PLC Replacement U 1 $366K -- $366K
+Broadway PLC Replacement U 1 $366K -- $366K
+Hawthorne PLC Replacement U 1 $366K -- $366K
+Hawthorne Approaches Overlay U 1 $8.54M $878K $7.67M
+Morrison East Approaches Strengthening U 1 $7.70M $791K $6.91M
+Broadway Lift Span Deck Replacement U 1 $3M $308K $2.70M
+TOTAL BRIDGES $57.7M $5.77M $51.9M
+2023 2024
+Anticipated Construction Timing
+2019 2020 2021 2022
+County
+Funds
+Bridges Project Name
+Roads Project Name Urban/
+Rural District Total Project
+Cost
+External
+Grant Funds
+Roadway Capital Improvement Plan and Program Update     2020
+Final RCIPP      92
+
+This page intentionally left blank.

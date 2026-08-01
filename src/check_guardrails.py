@@ -41,7 +41,11 @@ ABSENCE_RE = re.compile(
     r"\b(?:does not (?:publish|have|maintain)|publishes no|has no|no such|none (?:is |are )?"
     r"published|not published|no (?:published )?(?:code|policy|ordinance|plan))\b", re.I)
 
-DRAFT_RE = re.compile(r"redline|\bissue\s*\d+\b|zdoproposed|-draft\b|\bproposed\b", re.I)
+# Kept IDENTICAL to fetch.DRAFT_PATTERNS by importing it, so the discovery filter and the CI
+# gate can never drift apart and disagree about what a draft is.
+sys.path.insert(0, str(pathlib.Path(__file__).resolve().parent.parent))
+from src.fetch import DRAFT_PATTERNS  # noqa: E402
+DRAFT_RE = re.compile("|".join(DRAFT_PATTERNS), re.I)
 
 # The survey family whose absence a claim in each subdirectory would be about.
 DIR_FAMILY = {"code": "county_code", "orders": "board_orders",

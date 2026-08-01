@@ -6,18 +6,18 @@ Generated 2026-07-31. Non-authoritative; see DISCLAIMER.md.
 
 | doc_type | count |
 |---|---|
-| ordinance | 1741 |
+| ordinance | 2456 |
 | policy | 239 |
 
-**Total: 1980**
+**Total: 2695**
 
 ## Source manifest
 
-2267 declared source(s) across 25 group(s) in `sources`.
+3002 declared source(s) across 26 group(s) in `sources`.
 
 ## Freshness (reverify every 180 days)
 
-1980 of 1980 document(s) overdue for re-verification.
+2695 of 2695 document(s) overdue for re-verification.
 
 | id | doc_type | last_verified |
 |---|---|---|
@@ -71,5 +71,5 @@ Generated 2026-07-31. Non-authoritative; see DISCLAIMER.md.
 | benton-code-ladest | ordinance | never |
 | benton-code-nsozo | ordinance | never |
 | benton-code-ovzo | ordinance | never |
-| … | *1930 more* | |
+| … | *2645 more* | |
 

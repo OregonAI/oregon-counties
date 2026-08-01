@@ -1,0 +1,126 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-2025-045
+title: '2025-045'
+doc_type: ordinance
+citation: '2025-045'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/2025-045.pdf/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: aed66785f80a7f767c335868f8c0bb41ff97c7e6ab34fa9b016b95cae79075c0
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# 2025-045 (2025-045)
+
+## At a glance
+
+2025-045 — orders of Multnomah County. 3 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO. 2025-045
+Acknowledging Historical Injustices and Stating an Ongoing Commitment to
+Healing the Injustices to the Chinese American Community.
+
+The Multnomah County Board of Commissioners Finds:
+A. Chinese people have been buried at Lone Fir Cemetery since at least 1868 and
+approximately 2,892 Chinese and Chinese Americans were once buried in Block
+14 at Lone Fir Cemetery.  Many of those bodies were disinterred and sent back
+to China for reburial, either individually or in large-scale disinterments that
+occurred from the 1880s onward. At this time, it is unknown where more than half
+the people of Chinese descent were buried in Lone Fir Cemetery, but of those
+records that have been found, more than 90 percent were buried in Block 14.
+That space continued to be the location of Chinese burials in Lone Fir Cemetery
+through the 1940s.
+B. Lone Fir Cemetery began as privately owned land, but in 1928, Multnomah
+County took ownership and halted burials, cultural practices, and use of Block
+14. In 1947, Multnomah County officials proposed exhuming the remaining
+Chinese burials from Block 14 and repurposing the parcel for other uses,
+including for economic and logistical convenience. Multnomah County notified
+the Chinese American community of this plan and told them to disinter hundreds
+of human remains from Block 14 themselves, or that Multnomah County would
+do so on their behalf.
+C. In July of 1948, Multnomah County workers exhumed the remains of 265
+individuals from Block 14 using a bulldozer from the Road Department and heavy
+diesel equipment to remove Chinese American Ancestors. Most remains were
+shipped to China; those that were not repatriated were to be reburied elsewhere
+in Lone Fir Cemetery, as part of the agreement made with the Benevolent
+Association.  No other known portions of the cemetery or communities were
+impacted in this manner.
+
+D. During the removal of interred Chinese Americans at Block 14, Multnomah
+County failed to record proper names of individuals who were disinterred and
+failed to identify and account for at least 106 children who were known to have
+been buried at Block 14, leaving their final resting place unknown.  In addition,
+during the decommissioning of Block 14, Multnomah County failed to account for
+damaged and/or destroyed culturally significant historic artifacts.
+E. In 1953, Multnomah County constructed the Morrison Building upon Block 14 and
+paved over the remainder of the block for use as a parking lot. The building and
+parking lot would cover the footprint of Block 14 for the next 50 years.
+F. When the County transferred ownership of the cemetery to Metro in 1994, it
+retained the southwest corner of the cemetery. It planned to demolish the
+Morrison Building and sell the land for development. In 2004 the Buckman
+Neighborhood Association, Friends of Lone Fir Cemetery, and the Oregon
+Chinese Consolidated Benevolent Association informed the County that they
+believed the site still contained human remains. In 2005, upon demolition of the
+Morrison Building, an archaeological investigation confirmed the presence of
+human remains and cultural artifacts beneath the Morrison Building and parking
+lot. The property was deeded to Metro in 2007, reconnecting it to the cemetery.
+Between 2005 and 2025, the site remained undeveloped and poorly maintained,
+leaving remnants of buried building demolition materials.
+G. Multnomah County signed a Memorandum of Understanding (MOU) with Metro
+and the city of Portland in 2005, committing to work together to see that the site
+is appropriately developed to create a proper entrance to the Lone Fir Cemetery,
+to create a potential memorial to the Chinese workers who were buried on the
+site, and/or other uses appropriate to its history, location and circumstances.
+The MOU states that Metro shall be responsible for all costs associated with the
+operation and maintenance of the property; Multnomah County stands ready as a
+collaborator in actions that contribute to healing the injustices.
+H. Multnomah County recognizes the enduring harm caused by these historical
+injustices and acknowledges its responsibility to repair and preserve the history
+and dignity of the Chinese American community.
+The Multnomah County Board of Commissioners Resolves:
+1. On behalf of Multnomah County, the Board of Commissioners issues a formal
+apology to the Chinese American community for the historical injustices
+committed at Block 14;
+2. Further, Multnomah County supports the display of this formal apology at the
+Block 14 memorial and in the public record;
+3. An ongoing commitment to healing the injustices to the Chinese American
+community. This may include Board approved proclamations, hosting memorial
+events, contributing funds toward a Block 14 Memorial, and supporting an exhibit
+at the Portland Chinatown Museum.
+Dated this 26th day of June, 2025.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+________________________________
+Jessica Vega Pederson, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By___________________________________
+    Jenny M. Madkour, County Attorney
+Submitted by: Jessica Vega Pederson, Chair

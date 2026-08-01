@@ -1,0 +1,745 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-resolution-establishing-fees-and-charges-for-chapter-27-comm
+title: 'Resolution Establishing Fees And Charges For Chapter 27, Community Services, Of The Multnomah County Code And Repealing Resolution 2016-074.'
+doc_type: ordinance
+citation: 'Resolution Establishing Fees And Charges For Chapter 27, Community Services, Of The Multnomah County Code And Repealing Resolution 2016-074.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_establishing_fees_and_charges_for_chapter_27%2C_community_services%2C_of_the_multnomah_county_code_and_repealing_resolution_2016-074./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d40ac36b7e1d8d1c9b06fb0045691079b4902202dbd3dc452570323123841915
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 203.148
+    - ORS 209.070
+    - ORS 209.250
+    - ORS 209.260
+    - ORS 271.230
+    - ORS 374.305
+    - ORS 758.010
+    - ORS 92.065
+    - ORS 92.070
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Establishing Fees And Charges For Chapter 27, Community Services, Of The Multnomah County Code And Repealing Resolution 2016-074. (Resolution Establishing Fees And Charges For Chapter 27, Community Services, Of The Multnomah County Code And Repealing Resolution 2016-074.)
+
+## At a glance
+
+Resolution Establishing Fees And Charges For Chapter 27, Community Services, Of The Multnomah County Code And Repealing Resolution 2016-074. — orders of Multnomah County. 14 pages.
+
+## Full text
+
+Page 1 of 14 – Resolution Establishing Fees for Chapter 27 and Repealing Resolution 2016-074
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+
+RESOLUTION NO. 2020-023
+
+Establishing Fees and Charges for Chapter 27, Community Services, of the Multnomah County
+Code and Repealing Resolution 2016-074.
+
+The Multnomah County Board of Commissioners Finds:
+
+a. The Multnomah County Code provides that the Board shall establish certain fees and
+charges by resolution.
+
+b. On August 4, 2016, by Resolution 2016-074, the Board established fees for MCC Chapter
+27, Community Services.
+
+c. It is necessary to increase the survey filing fee authorized under MCC §27.060 and as
+allowed under ORS 209.260 and to increase the deposits and fees authorized under
+MCC §27.062, with respect to county surveyor fees for plat base deposits and affidavits
+of correction. Updates to MCC §27.062 are also needed due to changes in ORS Chapter
+100.
+
+d. It is also necessary to increase the fee assessed to the recording of certain documents
+in the County Records (MCC § 27.061) which fund the Public Land Corner Preservation
+Fund as established by ORS 203.148. The Public Land Corner Program is a function of
+the County Surveyor’s Office required by ORS 209.070.
+
+e. The elimination of MCC §27.064 and changes to MCC §27.065 are necessary to reflect
+changes to the types of media that are provided to the public and the discontinuation of
+loaning certain types of media to the public.
+
+f. All other County fees and charges established by Resolution 2016-074 are intended to
+remain in effect as set out below, and Resolution 2016-074 will be repealed.
+
+The Multnomah County Board of Commissioners Resolves:
+
+1. The fees and charges for Chapter 27, Community Services, of the Multnomah County Code
+are set as follows:
+
+ Section 27.051. SUBSURFACE SEWAGE INSPECTION AND PERMIT FEES.
+
+SITE EVALUATION
+Site Evaluation – Report (SER)
+ New Site Evaluation Report  (Up to
+600 gallons) $2,088
+ Repair Site Evaluation Report (Up to
+600 gallons) $1,043
+ Large systems (601 – 2,500 gallons)
+ Additional fee charged per 500
+gallons
+$493
+
+Page 2 of 14 – Resolution Establishing Fees for Chapter 27 and Repealing Resolution 2016-074
+SINGLE FAMILY DWELLING ONLY
+Evaluation for Temporary or Health Hardship Mobile
+Home
+ Biennial inspection $1,117
+
+New Residential Construction – Installation Permit
+(Up to 600 gallons)
+ Alternative Treatment Technology,
+Capping Fill, Sand Filtration, Pressure
+Distribution, or Tile Dewatering
+$3,731
+ Standard Tank and Drainfield or
+Seepage Trench $2,747
+ Gray Water Waste Disposal Sump $1,407
+ Other $2,747
+
+Residential Repair Permit
+(Up to 600 gallons)
+ Minor Repair, Septic Tank Only $600
+
+ Major Repair
+  Septic Tank and Standard
+Drainfield $1,210
+  Septic Tank and Non -
+Standard Drainfield $1,645
+
+SINGLE FAMILY, TWO OR MORE FAMILY, AND
+COMMERCIAL FACILITIES
+All Pumping Systems With Single Pump, Excluding
+Sandfilters
+ Single Pump Systems $218
+
+Alteration Permit
+ Minor Septic Tank Only $1,407
+ Major Septic Tank and Drainfield $2,760
+
+Authorization Notice
+ Without Site Visit $713
+ With Site Visit $1,981
+
+Decommission Cesspool/Septic Tank
+ Abandonment – without site visit $309
+ Abandonment – with site visit and
+another septic permit $309
+ Abandonment – with site visit, but no
+other septic permit $644
+
+Existing System Evaluation $1,405
+
+Annual Inspection - Holding Tank
+ Annual Inspection $838
+ Annual Inspection Late Fee $101
+Page 3 of 14 – Resolution Establishing Fees for Chapter 27 and Repealing Resolution 2016-074
+TWO OR MORE FAMILY AND COMMERCIAL FACILITIES
+Large System Plan Review
+To be charged in addition to standard construction and repair
+permit fees.
+ 601 – 2,500 gallons per day $1,652
+
+Commercial Repair Permit
+Up to 600 gallons
+ Major, Alternative Treatment
+Technology, Capping Fill, Sand Filtration,
+Pressure Distribution or Tile Dewatering
+$3,731
+ Major Standard Tank and Drainfield
+or Seepage Trench $2,747
+ Minor Holding Tank $2,747
+ Minor Septic Tank $1,407
+ Large system (601 – 2,500 gallons)
+ Additional fee charged per 500
+gallons
+
+$349
+New Commercial Construction – Installation Permit
+(Up to 600 gallons)
+ Alternative Treatment Technology,
+Capping Fill, Sand Filtration, Pressure
+Distribution or Tile Dewatering
+$3,731
+ Holding Tank $2,747
+ Standard Tank and Drainfield or
+Seepage Trench $2,747
+ Large systems (601 – 2,500 gallons)
+ Additional fee charged per 500
+gallons
+$349
+
+MISCELLANEOUS
+Annual Report for Alternative Treatment
+Technology, Sand Filtration or Pressure
+Distribution System
+
+$180
+
+Annual Report Late Fee $17
+
+Septic Review Certification (Land
+Use/Planning)
+ Without site visit $226
+ With site visit $422
+
+Permit Transfer, Reinstatement or
+Renewal
+ Without Site Visit $713
+ With Site Visit $1,638
+
+Plan Review Recheck Fee
+ Additional fee for each checksheet
+issued after the second checksheet $268
+
+Page 4 of 14 – Resolution Establishing Fees for Chapter 27 and Repealing Resolution 2016-074
+Pumper Truck Inspection
+ First Truck $814
+ Second Truck $328
+
+Reinspection Fee
+ Residential $295
+ Commercial $295
+
+Winter Water Level Evaluation $578
+
+Work Without Permit $95 per hour or
+fraction of an
+hour, Minimum
+-$95
+
+ Section 27.052. MISCELLANEOUS PERMIT FEES.
+
+ See Exhibit A attached.
+
+ Section 27.053. PLAN REVIEW AND INSPECTION OF  UNDERGROUND
+INSTALLATIONS AND STREET INTERSECTIONS.
+
+ See Exhibit B attached.
+
+ Section 27.054: ROAD VACATION APPLICATION.
+
+Feasibility study: $200.00
+Application: 120% of estimated costs
+Minimum: $1,000.00 plus $65.00 for posting
+
+ Section 27.055. STREET AND ROAD WIDENING PERMITS.
+
+ (B) The construction permit deposit schedule for engineering, design, project
+management, and administration shall be as follows:
+
+Project Cost as Estimated by the County Deposit
+Minimum Deposit at the time of application 800.00
+$4,000.00 to $10,000.00 20%
+$20,000.00 to $50,000.00 $2,000.00 plus 12.0% over $10,000.00
+$50,000.00 and over $6,800.00 plus s10.0% over $50,000.00
+
+ Section 27.056. MISCELLANEOUS PUBLIC WORKS FEES.
+
+ For services provided by the department in connection with design, plan review and
+inspection of items not set forth elsewhere, the department shall charge fees sufficient to cover the
+actual cost of services.  The following are deposits only.  The actual charges will be based on actual
+costs including overhead and other related costs, determined at the completion of the project.  The
+difference between the actual costs and the deposit will either be billed or refunded to the permit
+holder.
+
+Project cost as Estimated by the county Deposit
+Minimum deposit at the time of application $800.00
+Page 5 of 14 – Resolution Establishing Fees for Chapter 27 and Repealing Resolution 2016-074
+$4,000.00 to $10,000.00 $20%
+$10,000.00 to $50,000.00 $2,000.00 plus 12.0% over $10,000.00
+$50,000.00 and over $6,800.00 plus 10.0% over $50,000.00
+
+ Section 27.059. ZONE REVIEW AND ZONING INSPECTIONS.
+
+ For conducting any zone review prior to the issuance of a building or mobile home permit,
+the department shall charge a fee of $25.00 or 15 percent of the permit fee, whichever is greater;
+provided that the fee for review of applications for permits to construct one-or two-family dwellings
+shall not exceed $25.00.  Zoning review fees are payable upon permit application.  For conducting
+any zoning inspection during construction or after completion of construction, the department shall
+charge a fee equal to the greater of $25.00 or 35 percent of the building permit fee, to be collected
+at the time the permit is issued, provided, however, that no fee for zoning inspection of one- and two-
+family dwellings shall exceed $25.00.  Zoning inspection fees are payable upon permit issuance.
+
+ Section 27.060. FILING OF MAP SURVEYS.
+
+ A fee of $475.00 plus $50.00 per page for page four and above shall accompany each filing
+of a map of survey
+
+ Section 27.061. FEES FOR CERTAIN DOCUMENTS; PUBLIC LAND CORNER
+PRESERVATION ACOUNT.
+
+Document filing fee: $10.00
+
+ Section 27.062. COUNTY SURVEYOR FEES.
+
+ (A) Fees are based on the following procedures and requirements on partition,
+subdivision and condominium plats.
+
+(1) Submit a boundary survey to the County surveyor a minimum of 30 days prior
+to the submission of the final subdivision or condominium plat.  If warranted,
+the county surveyor may waive this requirement.
+
+(2) In addition to the requirements of ORS 209.250, a survey, and a partition plat
+if a separate survey has not been filed shall show all obvious encroachments
+or hiatus created by deeds, buildings, fences, cultivation, previous surveys
+and plats, or similar means and any other conditions that may indicate that
+the ownership lines as surveyed may be different than those shown on the
+survey.
+
+(3) The county surveyor may refuse to approve a plat if the surveyor finds an
+encroachment or hiatus.  Evidence that the hiatus or encroachment has been
+eliminated may be required, or the county surveyor may r equire that it be
+shown on the plat if it cannot be eliminated.
+
+(4) All partition, subdivision, and condominium final plats, including those inside
+city limits, shall be checked and approved by the county surveyor prior to
+recording.  No plat shall be recorded without such approval.  This approval by
+the county surveyor shall be valid for 30 days from the date of approval to the
+date submitted for recording, after 30 days the approval is withdrawn and
+must be resubmitted.
+
+Page 6 of 14 – Resolution Establishing Fees for Chapter 27 and Repealing Resolution 2016-074
+(5) All partition, subdivision, and condominium final plats submitted for approval
+shall be accompanied by a report, issued by a title insurance company, or
+authorized agent to perform such service in Oregon, setting forth ownership
+and all easements of record, together with a copy of the  current deed and
+easements for the platted property, and copies of the deeds for all abutting
+properties and other documentation as required by the county surveyor.  The
+report shall have been issued no more than 15 days prior to plat submittal to
+the county surveyor.  A supplemental report may be required by the county
+surveyor.
+
+ (B) A deposit for the following county surveyor functions shall be made with the
+submission of the material.  The final fee will be determined at completion of the project based on
+actual costs incurred by Multnomah County including overhead and other related costs.  The
+difference between the actual costs and the deposit will be paid prior to approval of the final plat or
+refunded to the applicant except for post-monumented plats, which will not be refunded until after
+completion of the interior monumentation; the survey filing fee is non-refundable.
+
+(1) Partition Plat Review, the deposit shall be:
+
+Base Deposit $1,500.00 plus
+Survey filing Fee $475.00 plus $50.00 per
+page for page four and
+above
+
+(2) Pre-monumented Plat Review, the deposit shall be:
+
+Base Deposit $2,250.00 plus
+Survey Filing Fee $475.00 plus $50.00 per
+page for page four and
+above, plus
+Per Lot, Tract, or Parcel $110.00 each, plus
+Per gross acre of the subdivision if the
+average Lot size exceeds 15,000 sq. ft
+$150.00 per acre
+
+(3) Post-Monumented Plat Review, the deposit shall be:
+
+Base Deposit $2,500.00 plus
+Survey Filing Fee $475.00 plus $50.00
+per page for page
+four and above, plus
+Per Lot, Tract, or Parcel $150.00 each, plus
+Per gross acre of the subdivision if the
+average lot size exceeds 15,000 sq. ft.
+$150.00 per acre
+
+ A deposit, as determined by the County Surveyor, will be required prior to
+final plat approval to ensure the completion of post -monumentation, as
+provided by ORS 92.065.
+
+(4) For Condominium Plat Review, the deposit shall be:
+
+Base Deposit $2,500.00 plus
+Deposit Per Page $250.00 plus
+Page 7 of 14 – Resolution Establishing Fees for Chapter 27 and Repealing Resolution 2016-074
+Survey Filing Fee $475.00 plus $50.00
+per page for page
+four and above
+
+(5) For Condominium Plat Amendment Review, the deposit shall be:
+
+Base Deposit $1,250.00 plus
+Survey Filing Fee $475.00 plus $50.00
+per page for page
+four and above, plus
+
+(C) Posting of street vacations in accordance with:
+
+ORS 271.230(2) $  65.00
+
+(D) Review, Approval, and Posting of Affidavits of
+correction
+$100.00 plus county
+clerk’s recording fee
+
+(E) In accordance with ORS 92.070(5), (1997), relating to the reestablishment of
+Subdivision Plat Monuments and the review and recordation of the requ ired
+surveyor’s affidavit in support thereof, the affidavit recording fee shall be $100.00 plus
+the county clerk’s recording fee.
+
+(F) In accordance with ORS 100.11 6(9), relating to Declaration Amendment Review
+service, the fee shall be $100.00.
+
+ Section 27.065. MAP REPRODUCTIONS.
+
+ For the services of the department in reproducing maps, fees shall be charged in accordance
+with the following schedules:
+
+Standard Weight Blackline
+11 inches x 17 inches First five free of
+charge (except for
+certified copies),
+$1.00 each
+additional page
+
+18 inches x 24 inches First one free of
+charge (except for
+certified copies),
+$2.00 each
+additional page
+
+24 inches x 36 inches $3.00 per page
+Page 8 of 14 – Resolution Establishing Fees for Chapter 27 and Repealing Resolution 2016-074
+Standard Weight Blackline
+8.5 inches x 11 inches
+
+Copies Certified by County
+Surveyor
+First five free of
+charge (except for
+certified copies),
+$1.00 each
+additional copy
+
+$5.00 per page in
+addition to copy
+charges
+
+ Section 27.067. BOUNDARY CHANGE APPLICATION.
+
+ For services provided by the department in connection with processing a boundary change
+petition, the department shall charge fees sufficient to cover the actual cost of services.  The following
+is a deposit only and is in addition to any other fees, deposits or charges authorized by law.  The
+actual charges will be based on actual costs including overhead and other related costs, determined
+at the completion of the process.  The difference between the actual costs and the deposit will either
+be billed or refunded to the applicant.  Minimum Deposit:  $2,300 per application (includes Metro
+mapping service fee).
+
+ Section 27.402. PROCEDURE FOR REQUESTING TRANSFER OF TAX
+FORECLOSED PROPERTY FOR HOUSING PURPOSES:
+
+Non-refundable Application Fee:   $  50.00
+
+ Section 27.406. PROCEDURE FOR DISPOSITION OF REQUESTS FOR
+TRANSFER OF TAX FORECLOSED PROPERTY FOR HOUSING AND FOR OPEN SPACE,
+PARKS OR NATURAL AREAS:
+
+ Non-refundable Transfer Fee:   $200.00
+
+ Section 27.605. PERMITS.
+
+Ammonia storage: $25.00
+
+ Section 27.783. SEWER USER SERVICE CHARGES.
+
+Per equivalent dwelling unit, per month: $14.00
+Pumping, per 1,000 cubic feet water
+consumption per month:
+$0.50 to $2.00
+
+ Section 27.784. SENIOR CITIZENS RATE
+
+Per month: $7.00
+
+Page 9 of 14 – Resolution Establishing Fees for Chapter 27 and Repealing Resolution 2016-074
+ Section 27.788. CONNECTION FEES.
+
+ (A) The following fees for connection with a public sewer inside or outside the district
+shall become effective November 1, 1984, and shall be based on equivalent dwelling units and shall
+be as follows:
+
+  (1) Residential Users:
+
+(a) Single-family unit connection fee, October 1, 1984: $1,100.00
+(b) Multifamily unit connection fee:
+ (i) First living unit: $1,100.00
+ (ii) Each additional living unit: $   935.00
+
+  (2) Nonresidential users:  The formula for computing the connection fee for a
+nonresidential user shall be equal to the equivalent dwelling units multiplied by $1,100.00.  Equivalent
+dwelling units shall be determined by table 2 of MCC 27.783.
+
+  (3) Combined dwelling units and others:  Where both dwelling units and other
+occupancies are combined on the same property, the charges for sanitary connection shall be at the
+living unit rate for the dwelling units required in subsection (A)(1)(b) of this section, plus the rates
+given in (A)(2) for the nonresidential users of the property.
+
+ Section 27.790. EXTRA-STRENGTH INDUSTRIAL WASTE.
+
+(D) Extra-strength rates.  Effective October 1, 1984:
+
+BOD, per pound $0.097
+Suspended solids, per pound $0.106
+
+(E) Industrial waste discharge permit fees.
+
+(1) The engineer shall determine the effective period for the permit, based upon
+such factors as concentration, volume, and origin of the discharge.  In no case
+shall an industrial waste permit be effective for a period exceeding five years.
+
+(2) Except as provided in subsection (F)(2)[sic], fees for industrial waste
+discharge permits shall be $75.00 for each permit and $50.00 for each
+renewal of a permit.  However, permit renewals which involve new or
+additional discharges from those in the preceding permit shall have a fee of
+$75.00.  Where a permit is issued as a re sult of a violation, the permit fee
+shall be $150.00.  Fees are payable to the county as part of the application
+for the permit or permit renewal.
+
+(3) Where the owner of a property is discharging industrial wastes prior to the
+effective date of the ordinance comprising this subchapter, the owner shall be
+issued an industrial waste discharge permit at no charge, but will then be
+subject to the renewal fees and requirements of this section.
+
+(F) Minimal charges suspension.  The engineer may establish a minim um limit for
+monthly extra-strength charges.  The billing for all accounts whose monthly extra -
+strength charges are below this minimum limit will be suspended until such time as
+they are found to be higher.
+
+Page 10 of 14 – Resolution Establishing Fees for Chapter 27 and Repealing Resolution 2016-074
+(G) Adjustments.  The engineer may check sewage strength as outlined in this section
+and adjust charges where applicable at any time in accordance with the most recent
+analysis.
+Resampling request; fees.  Any discharger may request the district to resample
+wastewater at no charge if 18 months or more h ave elapsed since the last such
+sampling.  If less than 18 months have elapsed since the last sampling, then requests
+for the district to resample wastes shall be submitted in writing and accompanied by
+full payment for the resampling fee.  The fee to each account for five days of sampling
+is $500.00 per sample, per sampling point.  The fee for one day’s resampling is
+$125.00 per sample, per sampling point.
+2. This resolution takes effect and Resolution 2016-074 is repealed on May 7, 2020.
+ADOPTED this 30 day of April, 2020.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+  Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+Submitted by: Jaime Waltz, Interim Director, Department of Community Services
+Page 11 of 14 – Chapter 27, Community Services Fee Resolution– Exhibit A
+EXHIBIT A
+
+Section 27.052. MISCELLANEOUS PERMIT FEES
+
+Miscellaneous permit fees.
+
+The following fees shall be charged for permits:
+
+(A) For overweight or over dimensional moves, except for moves as specified in MCC
+27.052(A)(2), either single trip or annual permit, the fee shall be $8.00.  Future fee increases
+by the Oregon Department of Transportation shall automatically increase the county's fee for
+this service to the same level, without action of the board of county commissioners.
+
+(B) For building and structure move permits permittee shall post a deposit of $1,000.00 prior to
+issuance of a permit.  Non-refundable permit application, investigation and issuance fees for
+structures under 14 feet in width and 15 feet in height shall be $115.00.  For structures
+exceeding the above dimensions, the non-refundable permit fee shall be $145.00.  Inspection
+fees to be billed at the actual costs incurred by the county including overhead and equipment
+costs.  For over-dimensional moves other than house moves, the non-refundable permit fees
+for heights over 17 feet in width shall be $75.00 for a normal workday, and $350.00 for
+holidays and weekends.
+
+(C) For permits issue for manholes for storm and sanitary sewers, the fee shall be $30.00 per
+manhole.
+
+(D) For permits issued for canopies, awnings and marquees, a fee of $40.00 shall be charged.
+
+(E) For permits issued for construction or reconstruction of driveway approaches, the fees shall
+be:
+
+(1) $90.00 first driveway approach.
+
+(2) $60.00 each additional driveway approach inspected at the same time as first
+approach.
+
+(3) Common access way permit fees for plan review and inspection shall be $120.00 or
+$0.06 per square foot of common access way, whichever is greater.  The above fee
+will include the first driveway approach fee under section 27.052(E)(1).
+
+(4) $90.00 for agriculture approaches.
+
+(5) $90.00 for temporary logging approaches.
+
+(F) For permits issued for sewer connections, the fee shall be $120.00 per connection.
+
+(G) For a drilling or boring test hole permit, the fee shall be $84.00 each.
+
+(H) For curb drain outlet construction or reconstruction, including drainage connections to catch
+basins, a fee of $20.00 shall be charged.
+
+(I) For sidewalk construction or reconstruction, the fee shall be $0.25 per square foot with a
+minimum fee of $10.00.  For curb construction or reconstruction the fee shall be $0.35 per
+lineal foot with a minimum fee of $10.00.
+
+Page 12 of 14 – Chapter 27, Community Services Fee Resolution– Exhibit A
+(J) The fee to release advertising benches picked up within the right-of-way shall be $50.00 per
+bench.
+
+(K) For any excavation, construction, reconstruction, repair, removal, abandonment, placement
+or use within the right-of-way, the permit fee shall be a minimum of $50.00.
+
+(L) For material filing or excavating within the public right-of-way, the permit fee shall be $50.00.
+
+(M) For underground storm or sanitary sewer construction, recons truction or repair permits,
+including property service and laterals not maintained by the county, the fees shall be:
+
+Length of Conduit
+Constructed,
+Reconstructed,
+Repaired or Exposed
+for Repair
+
+Fee
+0 - 50 feet  $50.00
+51 - 100 feet  60.00
+101 - 200 feet  70.00
+201 - 300 feet  75.00
+301 - 400 feet  80.00
+401 - 500 feet  85.00
+501  feet and over  $85.00 plus
+$0.07 per foot
+over 500 feet
+
+Conduit diameters exceeding 24 inches shall be assessed a surcharge onto the above rates
+of $0.01 per foot of diameter per foot of length.
+
+(N) A permit fee for a temporary road closure shall be $50.00.
+
+(O) If work is commenced on a project requiring a permit without first securing the permit, the fee
+for investigation shall be $95 per hour or fraction of an hour, with $95 minimum.  If the fee
+required by this subsection is not paid directly to the department by the owner of the property,
+the person paying the penalty shall be required to notify the owner that the penalty was
+imposed.  Payment of the fee shall not relieve or excuse any person from penalties imposed
+for violation of any applicable statutes or ordinances.
+
+(P) A permit deposit for each permit authorizing work under ORS 374.305 not covered in this
+section shall be 120 percent of estimated amount of charges based on the estimated hours
+or part thereof for plan review and/or inspection.  The final fee will be determined at
+completion of the project based on the actual costs incurred by Multnomah County including
+overhead and other related costs.  The difference between the two amounts will be billed or
+refunded to the permit holder with the minimum fee being $50.00.
+
+(Q) Permits under this section shall be issued without charge when a permit is required as a
+direct result of a county public works improvement. For temporary closure of any street or
+any portion of a street, the fee shall be $84.00.[Ord. 126 § 9 (1976); Ord. 195 § 6 (1979(;
+Ord. 256 § 2 (1980); Ord. 278 § 3 (1981); Ord. 367 § 1 (1983) (court of appeals held that
+payment of fee for permit by utility companies was in violation of ORS 758.010 on May 16,
+1984, supreme court denied petition for review August 8, 1984, court of appeals decision
+became enforceable September 10, 1984); Ord. 467 § 2 (1985); Ord 826 § 2(A)--(H) (1995)]
+Page 13 of 14 – Chapter 27, Community Services Fee Resolution– Exhibit B
+EXHIBIT B
+
+Section 27.053. PLAN REVIEW AND INSPECTION OF UNDERGROUND INSTALLATIONS
+AND STREET INTERSECTIONS
+
+Fees for plan review and inspection of underground installations and street intersections.
+
+(A) For plan review and inspection of any storm sewer line installation, when completed facilities
+are to be maintained by the county, the fee shall be:
+
+Estimated or Bid Construction
+Cost
+
+Fee
+
+0.00 - $1,000.00  $50.00
+$1,000.00 - 5,000.00  $50.00 plus 1.25% over $1,000.00
+5,000.00 - 10,000.00  $100.00 plus 1.00% over
+$5,000.00
+10,000.00 - 15,000.00  $150.00 plus 0.90% over
+$10,000.00
+15,000.00 - 20,000.00  $195.00 plus 0.80% over
+$15,000.00
+20,000.00 - 25,000.00  $235.00 plus 0.70% over
+$20,000.00
+25,000.00 - 30,000.00  $270.00 plus 0.60% over
+$25,000.00
+30,000.00 - 35,000.00  $300.00 plus 0.50% over
+$30,000.00
+35,000.00 - 40,000.00  $325.00 plus 0.40% over
+$35,000.00
+40,000.00 - 45,000.00  $345.00 plus 0.30% over
+$40,000.00
+45,000.00 - 50,000.00  $360.00 plus 0.20% over
+$45,000.00
+50,000.00 - and over  $370.00 plus 0.74% over
+$50,000.00
+
+(B) When submitting plans for review, the applicant shall submit a copy of the engineer's estimate
+or the bid construction cost.  No plans will be reviewed without the required cost figures.  If,
+in the opinion of the director of the department, the cost figures appear unreasonable, the
+director shall establish the permit fee based upon the director's cost estimate of the work to
+be done.  The director shall submit a report to the county executive/chair of the board of
+county commissioners whenever a cost estimate is adjusted and shall state the reasons
+therefore.
+
+(C) For utility lines, including storm and sanitary sewers, to be maintained be maintained by
+others, not connecting to a county-maintained system but located within county-controlled
+right-of-way or easements, the plan review and inspection fee will be $40.00 plus $0.10 per
+foot of line.
+
+(D) For storm or sanitary sewer line systems located on private land connecting to county
+maintained systems, the plan review and inspection fee will be a minimum of $40.00 plus
+Page 14 of 14 – Chapter 27, Community Services Fee Resolution– Exhibit B
+$10.00 for each acre or fraction thereof within the development area.  Developments
+requiring both storm and sanitary system review will be charged that rate for each.
+
+(E) A sewer line system for fee purposes means a line with two or more connections including
+lateral lines, house branches, inlets or any other appurtenance contributing discharge.
+
+(F) Plan review and inspection fees will be established by the director for connections to a county
+system where the development area is not discernable or applicable.  A deposit shall be 120
+percent of estimated amount o f charges based on the estimated hours or parts thereof
+required for plan review and/or inspection.  The final fee will be determined at completion of
+the project based on costs incurred by Multnomah County including overhead and other
+related costs.  The difference between the actual costs and the deposit will be billed or
+refunded to the permit holder.
+
+(G) For plan review and inspection of each street intersection or vehicle access, either public or
+private, other than a standard driveway approach, a fee of $40.00 will be charged.
+
+(H) Plans shall be reviewed by Multnomah County under this section for compatibility with the
+comprehensive plan, conformance to county design criteria, as applicable, and for general
+protection of county facilities as considered necessary.
+
+(I) Inspection by Multnomah County under this section will be cursory only and will not relieve
+the owner, contractor or engineer of responsibility for the project being completed according
+to plans and specifications.
+
+[Ord. 126 § 10 (1976); Ord. 826 § 2(I), (J)(1995)]
+
+H:\My Documents\WK - 1\Ch27FeeRes-surveyorfeesplusportland-redlined.doc 5/15/2012 10:37 AM

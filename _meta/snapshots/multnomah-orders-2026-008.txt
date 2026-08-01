@@ -1,0 +1,1357 @@
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO.
+Adopting the Main Streets on Halsey Cross Section and Street Design Plan.
+The Multnomah County Board of Commissioners Finds:
+A. The Main Streets on Halsey Cross Section and Street Design Plan (the “Halsey Plan”)
+builds on work conducted under previous phases to transform Halsey Street into a
+safe, vibrant, and attractive street that supports adjacent land uses and provides
+opportunities for transportation choices serving neighborhoods and businesses;
+B. The Halsey Plan culminates a yearlong effort of planning and outreach along the
+Halsey Corridor in Fairview, Wood Village, and Troutdale. This included extensive
+community engagement including focus groups, workshops, and surveys to
+understand community desires for improvements on Halsey Street;
+C. The Halsey Plan is a ten (10) percent conceptual design plan that will be refined
+through the final design process, which will provide more detail on some aspects of the
+Halsey Plan, including right-of-way impacts, impacts to adjacent properties, street
+lighting, and utility needs, intersection operations and design, and bus stop placement
+and design, each of which could impact the design and cost;
+D. The Halsey Plan allows Multnomah County to update the street cross section for NE
+Halsey Street within the three cities and pursue funding opportunities through grants
+and development impacts for the future road configuration; and
+E. The Halsey Plan is included as Exhibit A to this Resolution.
+The Multnomah County Board of Commissioners Resolves:
+1. To accept the Halsey Plan to guide future transportation planning decisions through
+the Plan’s vision, implementation, and final recommendations; and
+2. To adopt the final report as identified as the “Main Streets on Halsey: Cross Section
+and Street Design Plan” prepared by Kittleson and Associates in substantially the
+same form as the attached Exhibit “A”.
+ADOPTED this 29th day of January, 2026.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+2026-008
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+
+TECHNICAL MEMORANDUM #5
+TITLE:  Linear Design Plan
+PROJECT:  Main Streets on Halsey
+PROJECT #: 23021.043
+DATE:  February 29, 2024
+
+TABLE OF CONTENTS
+I. Introduction
+II. Evaluation of Design Alternatives
+1. Summary of Alternatives
+a. Cross Section Alternatives
+b. Intersection Treatment Alternatives
+c. Enhanced Crossing Alternatives
+2. Summary of Evaluation Criteria
+3. Evaluation Results
+a. Cross Section Alternatives
+i. Residential Context Zone
+ii. Commercial Context Zone
+iii. Edgefield Context Zone
+iv. Cross Section Evaluation Summary
+III. Preferred Alternatives
+1. Near-Term Solutions
+a. Near-Term Cross Sections
+b. Near-Term Intersection Treatments
+c. Near-Term Enhanced Crossing Locations
+2. Long-Term Solutions
+a. Preferred Cross Sections
+i. Residential Context Zone
+ii. Commercial Context Zone
+iii. Edgefield Context Zone
+b. Preferred Intersection Treatments
+i. NE Halsey Street/NE 223rd Avenue
+ii. NE Halsey Street/NE 238th Drive
+iii. SW Halsey Street/SW 257th Drive
+IV. Design Implementation
+1. Key Considerations
+a. Linear Design Plan 1
+b. Linear Design Plan 2
+c. Linear Design Plan 3
+2. Elements of Distinction and Continuity
+a. Elements of Distinction
+b. Elements of Continuity
+3. Corridor Branding
+4. Design Directions
+a. Planting
+i. Street Trees
+ii. Planting Strips
+iii. Planted Medians
+iv. Maintenance
+b. Stormwater Facilities
+c. Off-Street Facilities Materials
+d. Driveways
+e. On-Street Parking
+f. Transit Stops
+g. Enhanced Crossings
+i. Crossing Treatments
+ii. Crossing Locations
+h. Major Street Intersections
+i. Minor Street Intersections
+i. Raised Crosswalks
+ii. Conflict Striping
+V. Cost Estimates
+VI. Land Use and Code Evaluation
+1. Land Use Opportunities and Alternatives
+Evaluation
+2. Assessment of Potential Development
+Code Updates
+a. Lot Dimension and Building
+Orientation Options
+VII. Appendices
+1. Appendix A: Evaluation Summary
+2. Appendix B: Near-Term Solutions
+3. Appendix C: Long-Term Solutions
+4. Appendix D: Linear Design Plans
+
+I. INTRODUCTION
+This memorandum presents the preferred streetscape and roadway design alternatives  developed by the project team to
+improve multimodal access and circulation along the 3.5-mile segment of NE Halsey Street from NE 201st Avenue to SW
+257th Drive (corridor). Previous memoranda presented alternative cross sections for various context zones along the
+corridor (residential, commercial, Edgefield), as well as alternative treatments for three intersections (NE 223rd Avenue, NE
+238th Drive, and SW 257th Drive), and enhanced crossings at multiple locations. Previous memoranda also presented the
+criteria that were used to evaluate the alternatives and select preferred alternatives for the streetscape design plan. This
+memorandum summarizes the alternatives, the evaluation criteria, and the results of the evaluation that led to selection of
+the preferred alternatives.
+This memorandum also presents a linear design plan for the corridor. The linear design plan reflects the preferred cross
+sections, intersection treatments, and enhanced crossings, and shows how they come together to improve access and
+circulation along the corridor for people walking, biking, and accessing transit. The linear design plan is supported by design
+directions for multiple features along the corridor. Finally, this memorandum presents potential code amendments to
+support implementation of the streetscape and roadway design plan within the three cities (Fairview, Wood Village, and
+Troutdale) and Multnomah County.
+
+II. EVALUATION OF DESIGN ALTERNATIVES
+The preferred streetscape and roadway design alternatives presented in this memorandum were selected by the project
+team based on an evaluation of the alternatives using the project evaluation criteria. The alternatives and evaluation
+criteria are provided in Tech Memo #3: Alternatives Analysis. A summary of the alternatives, evaluation criteria, and the
+evaluation results is provided below.
+Summary of Alternatives
+Streetscape and roadway design alternatives were developed by the project team to address the project goals and
+objectives as well as key issues identified along the corridor. The alternatives were developed based on input from the
+three cities (Fairview, Wood Village, and Troutdale) and Multnomah County, and on discussions with the project advisory
+committees on a preliminary set of alternatives. The alternatives consist of cross sections, intersection treatments, and
+enhanced crossings as described below.
+Cross Section Alternatives
+The project team developed several cross section alternatives for the residential, commercial, and Edgefield context zones
+along the corridor. The alternatives include one near-term solution for each context zone that could be implemented with
+minor changes to existing signing and striping, and three or four long-term solutions for each context zone that would
+require significant changes to the existing configuration of the roadway. Most of the alternatives are named based on the
+type of bicycle facilities included (e.g., separated bike lanes, sidewalk-level bike lanes, etc.) because the bicycle facilities
+have the widest variation of all the roadway elements across the alternatives. Also, the type of bicycle facility can affect the
+curb-to-curb width, sidewalk configuration, and location of street trees relative to the curb.  The cross section alternatives
+were evaluated based on several criteria and a preferred alternative was selected for each context zone as indicated below.
+Intersection Treatment Alternatives
+The project team developed several intersection treatment alternatives for the NE 223rd Avenue, NE 238th Drive, and NE
+257th Drive intersections. The alternatives include one near-term solution for each intersection that could be implemented
+with minor changes to the existing signing and striping, and one or two long-term solutions that would require significant
+reconfiguration of the intersections, such as reconfiguring the intersections as a single-lane roundabout or as a protected
+intersection. The intersection treatment alternatives were evaluated based on several criteria and a preferred alternative
+was selected for each intersection as indicated below.
+Enhanced Crossing Alternatives
+The project team developed several enhanced crossing alternatives for the corridor. The alternatives include various
+crossing treatments (e.g., curb extensions, raised median islands, high visibility signs and pavement markings, and
+rectangular rapid flashing beacons), and locations along the corridor. Unlike the cross section and intersection treatment
+alternatives described above, the enhanced crossing alternatives were not evaluated based on the evaluation criteria. This
+is because all the treatments and locations identified in the alternative analysis are identified as preferred and included in
+the linear design plan.
+
+Summary of Evaluation Criteria
+Evaluation criteria were developed by the project team to evaluate the streetscape and roadway design alternatives and to
+select preferred alternatives for the linear design plan. The evaluation criteria reflect the project objectives developed at
+the outset of the project and provide the means to assess the extent to which the objectives have been met. The project
+objectives and related criteria are summarized below.
+Table 1. Project Objectives and Evaluation Criteria
+Project Objective Evaluation Criteria
+1. Create a cohesive Halsey streetscape and
+pedestrian environment that supports existing
+small businesses, attracts new businesses, and
+creates new jobs
+1.1 Promotes economic development by supporting access to
+local businesses and business districts for all travel modes.
+2. Design Halsey Street to unite the three cities
+while also allowing each city to be distinguished in
+the ways they build community and drive economic
+development
+2.1 Minimizes impacts to adjacent properties
+2.2 Can be implemented on an incremental basis through
+development
+2.3 Construction and long-term maintenance costs are equal to
+existing costs
+3. Make Halsey Street safer, more accessible, and
+more visually attractive
+3.1 Creates safe and convenient access for people with disabilities
+3.2 Improves street appearance through added landscaping and
+street trees
+3.3 Creates space for adding street furnishing
+4. Make public transit, walking, and biking in the
+Halsey Street corridor more appealing and safer
+4.1 Improves safety for people walking, biking and taking transit
+4.2 Increases number and frequency of protected crossings of
+Halsey Street
+4.3 Improves access to adjacent land uses and public transit
+facilities and services
+5. Improve the environment by reducing pollution,
+planting street trees, and using cost-efficient,
+sustainable landscaping treatments
+5.1 Incorporates sustainable design strategies
+5.2 Creates space for incorporating stormwater facilities
+5.3 Reduces impervious surfaces
+5.4 Increases tree canopy coverage in the corridor
+6. Enhance bikeability and walkability by slowing
+vehicular traffic, improving intersections, and
+discouraging through-traffic by trucks
+6.1 Slows vehicular traffic
+6.2 Discourages through truck traffic
+6.3 Maintains access to local businesses for delivery trucks
+6.4 Provides low-street pedestrian and bicycle facilities
+7. Engage with local business owners and the public
+to broaden commitment and ongoing involvement
+in the corridor
+7.1 Supported by local property owners, business owners and
+operators, and the public.
+7.2 Consistent with previous planning efforts
+
+Consistency with the criteria shown in Table 1 are presented on a scale of 1 to 5, where 1 means poor and 5 means good.
+Evaluation of each alternative is in relation to other alternatives, rather than against an absolute scale. All criteria are
+weighted equally for the purposes of the evaluation. Table 2 illustrates the evaluation matrix legend that was applied to
+each of the project objectives and criteria identified above.
+Table 2. Evaluation Matrix Legend
+1 2 3 4 5
+Design concept has
+little or no benefit in
+achieving the project
+objective.
+Design concept has
+poor benefit in
+achieving the
+project objective.
+Design concept has
+some benefit in
+achieving the project
+objective.
+Design concept
+has good benefit
+in achieving the
+project objective.
+Design concept has
+significant benefit in
+achieving the project
+objective.
+Evaluation Results
+The streetscape and roadway design alternatives were evaluated against the project evaluation criteria to determine the
+extent to which they meet the project objectives. The following summarizes the evaluation results for the cross sections
+and intersection treatments. As indicated above, the enhanced crossings were not evaluated against the criteria given that
+they were all identified as preferred.
+Cross Section Alternatives
+The cross section alternatives for the residential, commercial, and Edgefield context zones were evaluated against the
+project evaluation criteria and a preferred alternative was selected for each zone. Table 3 below summarizes the results of
+the cross section evaluation for the three context zones. A detailed summary of the evaluation is provided in Appendix A.
+Residential Context Zone
+Three cross sections were developed and evaluated for the residential context zone. The cross sections include Separated
+Bike Lanes, Sidewalk-Level Bike Lanes, and Sidewalk-Adjacent Bike Lanes. All three cross sections would improve access and
+circulation along the corridor; however, the Sidewalk-Level Bike Lanes and Sidewalk-Adjacent Bike Lanes cross sections
+would provide more separation from adjacent street traffic as well as several other benefits over the Separated Bike Lanes
+cross section, and therefore are scored higher.
+The scores for the Sidewalk-Level Bike Lanes and Sidewalk-Adjacent Bike Lanes cross sections are similar, and there are only
+a few criteria where one scores higher than the other. Ultimately the Sidewalk-Adjacent Bike Lanes cross section scored the
+highest among the alternatives. A key differentiator in the scoring is the location of the landscape strip relative to the
+sidewalks, bike lanes, and motor vehicle lanes. In the Sidewalk-Adjacent Bike Lanes cross section the landscape strip is
+located between the bike lanes and the motor vehicle lanes. This creates more separation from adjacent street traffic, more
+opportunities for sustainable design features, and improves access to adjacent land uses and local transit service. However,
+there are some drawbacks that should be explored during the final design phase, such as the potential for conflicts between
+people walking and biking in the residential zones.
+It should be noted that the preferred cross section presented later in this report for the residential context zone was refined
+to include a 1-foot buffer between the sidewalk and bike lane.
+
+Commercial Context Zone
+Four cross sections were developed and evaluated for the commercial context zone. The cross sections include Separated
+Bike Lanes, Sidewalk-Level Bike Lanes, Sidewalk-Adjacent Bike Lanes, and Parking-Protected Bike Lanes. All four cross
+sections would improve access and circulation along the corridor; however, like the residential context zone, the Sidewalk-
+Level Bike Lanes and Sidewalk-Adjacent Bike Lanes cross sections would provide more separation from adjacent street
+traffic as well as several other benefits over the other cross sections, and therefore are scored higher.
+Like the residential context zone, the scores for the Sidewalk-Level Bike Lanes and Sidewalk-Adjacent Bike Lanes cross
+sections are similar, and there are only a few criteria where one scores higher than the other. Ultimately the Sidewalk -
+Adjacent Bike Lanes cross section scored the highest among the alternatives. Like the residential context zone, a key
+differentiator in the scoring is the location of the landscape strip  relative to the sidewalks, bike lanes, and motor vehicle
+lanes. In the Sidewalk-Adjacent Bike Lanes cross section the landscape strip is located between the bike lanes and the
+motor vehicle lanes. This creates more separation from adjacent street traffic, more opportunities for sustainable design
+features, and improves access to adjacent land uses and local transit service – this effect is amplified in the commercial
+context zone given the presence of on-street parking. However, there are some drawbacks that should be explored during
+the final design phase, such as the potential for conflicts between people walking and biking in the commercial zones.
+It should be noted that the preferred cross section presented later in this report for the commercial context zone was refined
+to include 8-foot sidewalks and a 1-foot buffer between the sidewalk and bike lane.
+Edgefield Context Zone
+Three cross sections were developed and evaluated for the Edgefield context zone. The cross sections include Shoulder Bike
+Lanes with Shared-Use Paths, Sidewalk-Level Bike Lanes, and Shared-Use Paths Within Right-of-Way. All three cross
+sections would improve access and circulation along the corridor; however, the Shared-Use Paths Within Right-of-Way
+cross section would provide several benefits over the other cross sections, and therefore scored higher.
+Key differentiators in the scoring include the presence of a center turn lane, the presence of continuous at-grade facilities
+on both sides of the roadway, and the location of the landscape strip relative to the shared-use paths and motor vehicle
+lanes. The center turn lane is a critical element of the preferred cross section and provides improved access to adjacent
+land uses, especially during peak time periods, as well as consistency with all prior planning efforts for the corridor. Like the
+center tun lane, the presence of continuous at-grade facilities is also a critical element. They provide improved access and
+circulation for people walking, biking, and accessing transit along both sides of the corridor. Finally, like the commercial and
+residential context zones, the location of the landscape strip between the shared-use path and the motor vehicle lanes
+creates more separation from adjacent street traffic, more opportunities for sustainable design features, and improved
+access to adjacent land uses and local transit service.
+It should be noted that the preferred cross section presented later in this report for the Edgefield context zone was refined
+and the 12-foot shared-use paths were replaced by 6-foot sidewalks and 6-foot bike lanes with a 1-foot buffer.
+Cross Section Evaluation Summary
+Table 3 below summarizes the results of the cross section evaluation for the three context zones. Appendix A contains a
+detailed summary of the evaluation and provides further justification for the evaluation scores shown below.
+
+Table 3. Cross Section Evaluation Summary
+Project
+Objectives Evaluation Criteria
+Residential Context Cross Section Evaluation Commercial Context Cross Section Evaluation Edgefield Context Cross Section Evaluation
+Separated
+Bike Lanes
+Sidewalk-Level
+Bike Lanes
+Sidewalk-
+Adjacent Bike
+Lanes
+Separated
+Bike Lanes
+Sidewalk-
+Level Bike
+Lanes
+Sidewalk-
+Adjacent Bike
+Lanes
+Parking-
+Protected Bike
+Lane
+Shoulder Bike
+Lanes with
+Shared-Use
+Path
+Sidewalk-
+Level Bike
+Lanes
+Shared-Use
+Paths Within
+Right-of-Way
+1 1.1 Promotes economic development by supporting access to
+local businesses and business districts for all travel modes. 3 4 4 3 4 4 3 3 4 4
+2
+2.1 Minimizes impacts to adjacent properties 2 3 3 2 3 3 2 3 1 2
+2.2 Can be implemented on an incremental basis through
+development 4 3 2 4 3 2 2 4 2 4
+2.3 Construction and long-term maintenance costs are equal to
+existing costs 2 3 4 2 3 4 3 2 3 4
+3
+3.1 Creates safe and convenient access for people with
+disabilities 2 4 3 2 4 3 3 2 4 3
+3.2 Improves street appearance through added landscaping
+and street trees 3 4 5 3 4 5 3 3 4 5
+3.3 Creates space for adding street furnishing 3 5 4 3 5 4 5 3 4 4
+4
+4.1 Improves safety for people walking, biking and taking
+transit 3 4 5 3 4 5 3 3 4 5
+4.2 Increases number and frequency of protected crossings of
+Halsey Street 3 5 5 3 5 5 3 3 5 5
+4.3 Improves access to adjacent land uses and public transit
+facilities and services 2 4 5 2 4 5 3 2 4 5
+5
+5.1 Incorporates sustainable design strategies 3 4 5 3 4 5 3 4 4 5
+5.2 Creates space for incorporating stormwater facilities 2 4 5 2 4 5 2 4 4 5
+5.3 Reduces impervious surfaces 2 3 3 2 3 3 2 2 2 3
+5.4 Increases tree canopy coverage in the corridor 4 4 5 4 4 5 4 4 4 5
+6
+6.1 Slows vehicular traffic 3 4 5 3 4 5 5 3 3 3
+6.2 Discourages through truck traffic 3 4 4 3 4 4 5 3 4 4
+6.3 Maintains access to local businesses for delivery trucks 2 3 4 2 3 4 2 3 5 5
+6.4 Provides low-street pedestrian and bicycle facilities 3 5 5 3 5 5 4 3 5 5
+7
+7.1 Supported by local property owners, business owners and
+operators, and the public. 2 5 5 2 5 5 2 4 2 5
+7.2 Consistent with previous planning efforts 1 2 2 1 2 2 1 2 2 2
+Total 52 77 83 52 77 83 60 60 70 83
+
+III. PREFERRED ALTERNATIVES
+The preferred streetscape and roadway design alternatives are presented below. The alternatives include cross sections for
+various context zones along the corridor (residential, commercial, Edgefield), intersection treatments at three major
+intesections (NE 223rd Avenue, NE 238th Drive, SW 257th Drive), and enhanced crossings at multiple locations. Based on
+direction provided by the project team, the preferred alternatives are presented as both near-term and long-term
+solutions.
+Near-Term Solutions
+This section summarizes the near-term solutions for the NE Halsey Street corridor that could be achieved primarily through
+signing and striping modifications. These solutions should be considered as interim measures until the preferred cross
+sections, intersection treatments, and enhanced crossings can be constructed. These are low-cost solutions that can
+potentially improve comfort and safety of various users as well as encourage slower driving speeds, which is a major
+concern along NE Halsey Street.
+Near-Term Cross Sections
+The near-term cross section reduces the width of the center turn lanes and travel lanes to dedicate more width to the
+bicycle lanes, allowing for painted buffers with each on-street bike lane. The sidewalks and planting strips remain
+unchanged, and the overall roadway width remains the same.
+Most of the corridor currently has 12-foot travel lanes and 13-foot center turn lanes, and some segments have even wider
+travel lanes. The near-term cross section proposes to restripe the travel lanes down to 11 feet, the center turn lane down to
+12 feet, and the bike lanes down to 5 feet, in which case the remaining 5+ feet can be dedicated to the bike lane buffer. At
+locations where the travel lanes are wider than 12 feet, they should also be restriped to 11 feet and the remaining space
+should be dedicated to the bike lane buffer. At locations where the bike lane buffer is at least 3 feet, diagonal chevron
+striping should be provided within the buffer as well. In locations where parking is provided, the bike lane should be striped
+on the inside of the parking lane and a door zone buffer should be provided. Figure 1 illustrates an example of the near-
+term cross section within a commercial context zone with on-street parking on one side.
+
+Figure 1: Near-Term Cross Section
+
+Along the Edgefield section, the existing travel lanes are 11 feet wide, while the shoulder bike lanes are 4 feet wide. The
+near-term cross section includes widening the shoulder bike lanes to 6-feet along the entire Edgefield segment. This wider
+shoulder bike lane can also be used by people walking, as there is no existing sidewalk on this segment.  In addition, the
+resulting width of the roadway would be consistent with the long-term solution for the Edgefield context zone as described
+below. Figure 2 illustrates the near-term cross section along the Edgefield segment.
+
+Figure 2: Near-Term Cross Section – Edgefield Segment
+
+Additionally, the near-term solution includes speed feedback signs at multiple locations along the corridor, as speeding is
+one of the major corridor concerns. According to the Oregon Department of Transportation, speed feedback signs provide
+10% reduction in crashes of all types and severities.
+Near-Term Intersection Treatments
+Figures 3, 4, and 5 illustrate the near-term intersection treatments at three major intersections along NE Halsey Street. As
+shown, most of the treatments involve signing and striping modifications, while others involve changes to the traffic signal
+equipment. The signing and striping modifications include:
+◼ High visibility crosswalks on all legs. The presented crosswalks use perpendicular bar or ladder style markings, but
+they can be replaced with longitudinal bar or continental style markings.
+◼ Advanced stop bars within all approaching lanes.
+◼ Green bike lane conflict striping at driveways, bus pullouts, beginning of the right -turn lanes, and through the
+intersection.
+◼ Green bike lanes on all intersection approaches and bike boxes along NE Halsey Street.
+
+Other potential near-term treatments include:
+◼ Improved lighting, as necessary to meet City and/or County standards.
+◼ Countdown pedestrian heads, as necessary to meet MUTCD requirements.
+◼ Leading pedestrian intervals, as feasible with existing signal controllers.
+◼ No right-turn on red, as feasible without significantly impacting traffic operations.
+Figure 3: Near-term Intersection Treatments – NE 223rd Avenue
+
+Figure 4: Near-term Intersection Treatments – NE 238th Drive
+
+Figure 5: Near-term Intersection Treatments – SW 257th Drive
+
+Near-Term Enhanced Crossing Locations
+The enhanced crossings section below presents a detailed overview of enhanced crossings along the corridor, including
+their locations and treatments. Certain crossings can be constructed on a near-term basis, as the only portion of these
+crossings that would require rebuilding as the complete cross section is constructed are the pedestrian ramps along the
+sidewalks. The pedestrian refuge islands at these crossings will remain in the same location in the near term, as in the long
+term. Figure 6 below presents the locations of near-term crossing locations.
+As funds become available, the following crossings can be constructed in the near term:
+◼ In front of Reynold Middle School, east of NE 201 st Avenue
+◼ West of NE 227th Avenue, in front of the MLA Public Charter School
+◼ West of NE 230th Court
+◼ West of NE 238th Drive, near Flair Apartments
+Additionally, the following existing crossings can also be improved in the near term:
+◼ East of NE 206th Avenue – redesign existing refuge islands
+◼ East of NE 213th Avenue – redesign existing refuge islands
+◼ Intersection with W Historic Columbia River Highway – install RRFB’s and advance warnings
+Figure 6: Near-Term Crossing Locations
+
+Long-Term Solutions
+This section summarizes the proposed long-term streetscape and roadways design solutions for the NE Halsey Street
+corridor. These long-term solutions include preferred cross sections, intersection treatments, and enhanced crossings along
+the corridor.
+Preferred Cross Sections
+The preferred cross sections for the residential, commercial, and Edgefield context zones are presented below. In order to
+provide continuity along the entire corridor, the layout of the cross sections are very similar. Each context zone includes
+landscaping strips, sidewalk-level separated bike lanes, buffers, and sidewalks. The elements that provide distinction for
+each context zone include presence of parking, type and width of planting strips, and width of sidewalks.
+
+Residential Context Zone
+The preferred cross section for the residential context zone is shown in Figure 7. This cross section includes two 11-foot
+travel lanes and a 12-foot center turn lane or planted median. The cross section also includes 6-foot sidewalks, 6-foot bike
+lanes, and 6-foot planting strips, that are all located behind the curb on both sides. There is also a 1-foot buffer between
+the sidewalks and bike lanes to provide clear separation between the facilities and improve the comfort of people walking
+and biking. The total width of the cross section is 72-feet, which is wider than Multnomah County’s preferred cross section
+width (70-feet), but narrower than the County’s minimum right-of-way width (80-feet).
+Figure 7: Residential Context Zone
+
+Notes:
+1. Planted medians will only occur where there are no driveways or intersections.
+2. Planting strips are continuous except for short, paved sections adjacent to on-street parking or in-lane bus stops.
+3. Stormwater facilities may be used in place of the planting strips in some areas.
+4. Where on-street parking is provided, planting strips would be 8’ long at each tree, with special paving in the strip
+between the planters.
+
+On-street parking may be provided on at least one side of the roadway while staying within the County’s minimum right -of-
+way width; however, on-street parking is generally not desirable within the residential context zone. Figure 8 illustrates a
+plan view of the preferred cross section, including an enhanced pedestrian crossing and in-lane bus stop.
+Figure 8: Residential Context Zone Enlargement
+
+Commercial Context Zone
+The preferred cross section for the commercial context zone is shown in Figure 9. This cross section includes two 11-foot
+travel lanes, a 12-foot center turn lane or planted median, and a 8-foot parking lane on one side. The cross section also
+includes 8-foot sidewalks, 6-foot bike lanes, and 4-foot tree wells on both sides. There is also a 1-foot buffer between the
+sidewalks and bike lanes to provide clear separation between the facilities and improve the comfort of people walking and
+biking. The total width of the cross section is 80-feet, which is wider than Multnomah County’s preferred cross section
+width (70-feet – excluding on-street parking), but consistent with the County’s minimum right-of-way width (80-feet).
+Figure 9: Commercial Context Zone (Type A)
+
+Notes:
+1. Planted medians will only occur where there are no driveways or intersections.
+2. Tree wells are 4’ x 6’ with special paving between.
+3. Tree wells will include tree grates to maximize space for pedestrians and furnishings.
+
+Figure 10 illustrates a plan view of the preferred cross section, including an enhanced pedestrian crossing.
+
+Figure 10: Commercial Context Zone Enlargement (Type A)
+
+On-street parking may also be provided on both sides of the roadway within the commercial context zone; however, it
+would require eliminating the center turn lane and reconfiguring the roadway with a two -lane cross section to stay within
+the County’s minimum right-of-way width. An example of a two-lane cross section with on-street parking on both sides is
+shown in Figure 11. This cross section layout is proposed along a portion of the corridor in Fairview, between NE Village
+Street and NE 223rd Avenue, but could also be applied elsewhere.
+
+Figure 11: Commercial Context Zone (Type B)
+
+Notes:
+1. Tree wells are 4’ x 6’ with special paving between.
+2. Tree wells will include tree grate to maximize space for pedestrians and furnishings.
+
+Edgefield Context Zone
+The preferred cross section for the Edgefield context zone is shown in Figure 12. This cross section includes two 11-foot
+travel lanes and a 12-foot center turn lane or planted median. The cross section also includes 6-foot sidewalks, 6-foot bike
+lanes, and 6-foot tree wells on both sides. There is also a 1-foot buffer between the sidewalks and bike lanes to provide
+clear separation between the facilities and improve the comfort of people walking and biking. The total width of the cross
+section is 72-feet, which is wider than Multnomah County’s preferred cross section width (70-feet), but narrower than the
+County’s minimum right-of-way width (80-feet).
+Figure 12: Edgefield Context Zone
+
+Notes:
+1. Planted medians will only occur where there are no driveways or intersections.
+2. Planting strips are continuous except for short, paved sections adjacent to in-lane bus stops.
+3. Stormwater facilities may be used in place of the planting strips in some areas.
+
+On-street parking may be provided on at least one side of the roadway while staying within the County’s minimum right -of-
+way width; however, on-street parking is generally not desirable within the Edgefield context zone. Figure 13 illustrates a
+plan view of the preferred cross section, including an enhanced pedestrian crossing and in-lane bus stop.
+
+Figure 13: Edgefield Context Zone Enlargement
+
+Preferred Intersection Treatments
+The preferred intersection treatments for the NE 223rd Avenue, NE 238th Drive, and SW 257th Drive intersections are
+presented below. These improvements are intended to improve multimodal access and circulation along the corridor
+without significantly impacting the capacity of the intersections or limiting the potential for large truck turning movements.
+In order to provide continuity along the corridor, the types of treatments included at each intersection are similar.
+
+NE Halsey Street/NE 223rd Avenue
+The preferred alternative at the NE Halsey Street/NE 223rd Avenue intersection is illustrated in Figure 14. The alternative
+includes several enhanced features, including:
+◼ Improved lighting, as necessary to meet City and/or County standards.
+◼ Improved signal equipment, including: countdown pedestrian signal heads, as necessary to meet MUTCD
+requirements; leading pedestrian intervals, as feasible with existing signal controllers; and no right-turn on red, as
+feasible without significantly impacting traffic operations.
+◼ Improved signing and striping, including: high visibility crosswalk signs and pavement markings on all legs,
+advanced stop bars within all approaching lanes, green bicycle crossing striping on all legs
+◼ Limited or restricted access to land uses in the southwest corner of the intersection
+Figure 14: Proposed Intersection Design at NE 223 rd Avenue & NE Halsey Street
+
+Final design of the NE Halsey Street/NE 223rd Avenue intersection should consider potential impacts to adjacent
+properties, including access. The final design should also consider the potential for protected intersection and other
+enhanced treatments. Figure 15 below presents a draft concept developed as part of a separate project.
+
+Figure 15: NE 223rd Avenue Protected Intersection Concept
+
+NE Halsey Street/NE 238th Drive
+The preferred alternative at the NE Halsey Street/NE 238th Drive intersection is illustrated in Figure 16. The alternative
+includes several enhanced features, including:
+◼ Improved lighting, as necessary to meet City and/or County standards.
+◼ Improved signal equipment, including: countdown pedestrian signal heads, as necessary to meet MUTCD
+requirements; leading pedestrian intervals, as feasible with existing signal controllers; and no right-turn on red, as
+feasible without significantly impacting traffic operations.
+◼ Improved signing and striping: high visibility crosswalk signs and pavement markings on all legs, advanced stop
+bars within all approaching lanes, green bicycle crossing striping on all legs
+Figure 16: Proposed Intersection Design at NE 238th Drive & NE Halsey Street
+
+Final design of the NE Halsey Street/NE 238th Drive intersection should consider potential impacts to adjacent properties,
+including access. The final design should also consider the potential for protected intersection and other enhanced
+treatments as documented in Tech Memo #3: Alternatives Analysis.
+
+SW Halsey Street/SW 257th Drive
+The preferred alternative at the SW 257th Drive intersection is illustrated in Figure 17. The alternative includes several
+enhanced features, including:
+◼ Improved lighting at all intersection corners
+◼ Improved signal equipment, including: countdown pedestrian signal heads, as necessary to meet MUTCD
+requirements; leading pedestrian intervals, as feasible with existing signal controllers; and no right-turn on red, as
+feasible without significantly impacting traffic operations.
+◼ Improved signing and striping: high visibility crosswalk signs and pavement markings on all legs, advanced stop
+bars within all approaching lanes, green bicycle crossing striping on all legs
+Figure 17: Proposed Intersection Design at SW 257th Drive & SW Halsey Street
+
+Final design of the NE Halsey Street/NE 257th Drive intersection should consider potential impacts to adjacent properties,
+including access. The final design should also consider the potential for protected intersection and other enhanced
+treatments as documented in Tech Memo #3: Alternatives Analysis.
+
+IV. DESIGN IMPLEMENTATION
+This section presents considerations for various elements of the corridor design. Linear Design Plans 1, 2, and 3 below
+present the proposed liner design plan for the NE Halsey Street corridor.
+Key Considerations
+Key considerations in the streetscape design process were developed at the outset of the project and documented in Tech
+Memo #2: Cross Section Deficiencies and Needs. The key considerations were refined throughout the planning process and
+are provided below.
+◼ NE Halsey Street is a Multnomah County facility and classified as a minor arterial. Multnomah County is
+responsible for defining its major design elements and multimodal features , which were considered in developing
+the preferred cross sections.
+◼ The three cities (Fairview, Wood Village, and Troutdale) are responsible for approving land use applications and
+providing conditions of approval for private development. Any development on or near a road or other right-of-
+way owned by the County (NE Halsey Street) requires a transportation planning review by the County as part of
+the land use decision. The review will identify what impacts the project will have on the transportation system and
+how these effects may be offset with frontage improvements and/or dedication as part of its conditions of
+approval.
+◼ The existing facilities on NE Halsey Street do not provide a safe and comfortable environment for people walking,
+biking, or taking transit. In addition, the facilities tend to encourage high traffic volumes and travel speeds along
+the corridor, especially from through and heavy vehicle traffic.
+◼ NE Halsey Street has many essential destinations as well as existing and well-established natural features and
+urban design elements that encourage crossing activity at key locations along the corridor. These destinations,
+features, and elements were considered and emphasized when developing a preferred cross section and when
+identifying potential crossing locations.
+◼ The community has been engaged on several occasions over the last several years on the form and function of NE
+Halsey Street. Their input has been incorporated into the planning process.
+◼ Recommendations from prior planning efforts, such as previous phases of the Main Streets on Hal sey project, were
+considered in developing the corridor design.
+The corridor design presented in this memorandum is intended to address the following corridor concerns:
+◼ Potential refinements to Multnomah County’s standard cross section for NE Halsey Street (perhaps through an
+overlay) that enhance multimodal access and circulation – the cross sections were designed to reflect various
+context zones along the corridor (residential, commercial, Edgefield).
+◼ Potential improvements at several key intersections along the corridor (NE 223 rd Avenue, NE 238th Drive, SW 257th
+Drive) to enhance traffic operations and safety for all travel modes.
+◼ Potential improvements at several mid-block crosswalks along the corridor to enhance access and circulation for
+people walking, biking, and accessing transit as well as other adjacent land uses.
+
+Key Map
+Key Map
+Key Map
+Fairview
+Fairview
+Fairview
+NE 201st Ave
+NE Halsey St
+NE Halsey St
+NE 205th Ave
+ NE 208th Pl
+NE Fairview Pkwy
+NE 213th Ave
+NE Market Dr
+ NE Village St
+Gresham
+NE Wasco St
+NE 196th Ave
+NE Halsey St
+Residential ContextZone Enlargement
+Redesign existing refuge islands
+Relocate bus stop
+Relocate bus stop
+ Redesign existing refuge islands
+Add parking if the adjacentland uses redevelop
+0’ 200’
+LINEAR DESIGN PLAN 1
+City Limits
+Residential Context Zone
+Commercial Context Zone
+Edgefield Context Zone
+Other / Open Space
+Enhanced Pedestrian Crossing
+Proposed Intersection Improvements
+Special Opportunity Area
+Bus Stops
+Legend
+Reynolds Learning AcademyReynolds SD Park & RideConnection to Gresham-Fairview Trail, and Potential Trailhead ImprovementsGresham Fairview TrailRenolds SD Baseball DiamondPotential Connection to Salish Ponds City TrailVA Outpatient Clinic
+Key Notes
+1
+1
+2
+2
+3
+4
+5
+6
+7
+3
+7
+6
+4
+5
+MATCHLINE SEE BELOW LEFT
+MATCHLINE SEE ABOVE RIGHT
+MATCHLINE SEE BELOW LEFT
+MATCHLINE SEE ABOVE RIGHT
+MATCHLINE SEE MAP 2
+Key Map
+Key Map
+Key Map
+Fairview
+ NE Halsey St
+NE 223rd Ave
+Fairview  Ave
+NE Halsey St
+NE Halsey St
+NE 238th Dr
+NE 240th Ave
+Fairview
+Wood Village
+Wood Village
+Troutdale
+NE 244th Ave
+0’ 200’
+4
+7
+10
+11
+11
+9
+ 12
+8
+LINEAR DESIGN PLAN 2
+City Limits
+Residential Context Zone
+Commercial Context Zone
+Edgefield Context Zone
+Other / Open Space
+Enhanced Pedestrian Crossing
+Proposed Intersection Improvements
+Special Opportunity Area
+Bus Stops
+Legend
+Fairview CreekMarilyn’s Park - Opportunity to Highlight Fairview CreekFairview Food Plaza and “The Fork”Ukrainian Bible ChurchAccess to Fairview Woods Wetland ParkMt. Hood Community College Head Start - FairviewThe Byway Retail / DiningWood Village City Hall and Civic CenterDonald L. Robertson City ParkReynolds School DistrictArata CreekOpportunity to Highlight ArataCreek
+Key Notes
+1
+2
+3
+4
+5
+7
+6
+8
+9
+10
+11
+12
+1
+2
+3
+5
+6
+Birch Ave
+NE 230th Ct
+Wood Village Blvd
+NE 227th Ave
+Commercial ContextZone Enlargement
+Proposed Intersection Design
+Proposed Intersection Design
+Limiteddrivewayaccess
+Add parking if the adjacentland uses redevelop
+Parking to be added only with a future road project or significant redevelopment
+MATCHLINE SEE BELOW LEFT
+MATCHLINE SEE ABOVE RIGHT
+MATCHLINE SEE BELOW LEFT
+MATCHLINE SEE ABOVE RIGHT
+MATCHLINE SEE MAP 3
+MATCHLINE SEE MAP 1
+Key Map
+Key Map
+Key Map
+Troutdale
+Troutdale
+Troutdale
+SW Halsey St
+SW Halsey St
+SW Halsey St
+E Columbia River Hwy
+SW Halsey St
+Historic Columbia River Hwy
+Edgeﬁeld ContextZone Enlargement
+Crossing to be located in conjunctionwith development of Edgefieldnorth property
+Relocate crossing
+Install RRFBand advancedwarning
+Relocatebus stop
+SW 257th Dr
+SW Halsey Loop
+SW Halsey Loop
+0’ 200’
+2
+3
+1
+LINEAR DESIGN PLAN 3
+City Limits
+Residential Context Zone
+Commercial Context Zone
+Edgefield Context Zone
+Other / Open Space
+Enhanced Pedestrian Crossing
+Proposed Intersection Improvements
+Special Opportunity Area
+Bus Stops
+Legend
+McMenamins EdgefieldTroutdale Station Food CartsTroutdale Gateway Sign
+Key Notes
+1
+2
+3
+SW Owens Pl
+SW Lancaster Ct
+SW Edgefield Pl
+Proposed Intersection Design
+MATCHLINE SEE BELOW LEFT
+MATCHLINE SEE ABOVE RIGHT
+MATCHLINE SEE BELOW LEFT
+MATCHLINE SEE ABOVE RIGHT MATCHLINE SEE MAP 2
+
+Elements of Distinction and Continuity
+When selecting standards in future design stages for visible items like light poles, furnishings, and planting, the following
+categories provide an intentional divide that emphasizes the unique character of each city, while also tying the corridor
+together visually as a cohesive whole.
+Elements of Distinction
+These elements express the individual character of each city and provide visual cues to people as they move from one city
+to the next.
+◼ Gateway features
+◼ Public art
+◼ Street tree and plant palette, in the planting strips and planted medians
+◼ Tree grates
+◼ Storm grates
+◼ Event-specific banners on the light poles
+◼ Paver color and pattern, or other materials, in the buffer separating the sidewalk from the bike lane
+◼ Bridges and culverts
+◼ Hanging flower baskets (but having these should be agreed to as an Element of Continuity)
+Elements of Continuity
+These elements visually unite the corridor.
+◼ Halsey Corridor Branding elements, including wayfinding features
+◼ Light poles with banner brackets
+◼ Seasonal or year-round banners (between events) on the light poles, derived from the corridor branding
+◼ Benches
+◼ Drinking fountains
+◼ Bike racks
+◼ Trash receptacles
+◼ Paving: roadway, sidewalks, bike lanes, and crosswalks
+◼ Building signage standards
+◼ Bus stops
+◼ Landscape maintenance (all by one entity)
+◼ Move utilities underground, over time
+
+Corridor Branding
+The three cities of Fairview, Wood Village and Troutdale engaged with Arnett Muldrow, a creative planning firm with
+specialized expertise in “Place Branding”. Arnett Muldrow was charged with developing a recognizable brand for Halsey
+Street as it passes through the three cities. This brand will be used to help market the cor ridor to residents and visitors to
+the region who may come through on their way to and from the Columbia River Gorge, Mt. Hood , and Central Oregon. This
+brand will be used to promote economic development, shopping, dining, entertainment, and redevelopment opportunities
+along NE Halsey Street.
+The brand is built on some of the attributes for the landscape and culture currently found in this part of East Multnomah
+County. Key words used to describe the area include Nature, Recreation, Gather, and Discovery. In many ways, this reach of
+NE Halsey Street is a bridge that links the urbanity of the Portland Metropolitan Area with the rural and natural
+environments of the Columbia River Gorge and Cascades. The branding effort is ongoing, with the brand name still to be
+finalized by the three cities. Several of the branding name options that are being considered are illustrated below.
+
+The preferred streetscape and roadway design alternative illustrated in this tech memo reflects this branding direction for
+NE Halsey Street. It is desired that the branding be incorporated into the streetscape, signage , and visual environment of
+the NE Halsey Street corridor.
+Design Directions
+Planting
+Streetscape planting can create a strong visual character for the corridor with changing interest across the seasons, while
+also increasing safety, providing environmental benefits, and raising property values. Planting areas can also be used to
+manage stormwater, as described below.
+
+Street Trees
+As the biggest objects in the streetscape, street trees are one of the main elements that define the visual character of the
+corridor. They also shade the surrounding paving, intercept stormwater before it hits the ground, filter air pollutants, and
+absorb carbon dioxide. The trunks lined up along each curb and in planted medians also tend to calm traffic speeds,
+increasing safety for all road users.
+Tree species should be selected carefully for the available space and growing conditions, with an emphasis on tough,
+drought tolerant species that can handle reflected heat. A variety of species should be used in small groups, rather than a
+monoculture that would be at risk of a mass failure from an unknown future disease.
+In the Commercial Context Zone, street trees will be planted with tree grates to maximize space for pedestrians and
+furnishings. In the Residential and Edgefield Context Zones, street trees will be planted in the planting strips. Street trees
+should also be included in planted medians, as applicable.
+Providing adequate volume of quality, uncompacted soil for the tree roots is critical to the trees’ growth and long-term
+health. Typical urban tree planting pits do not provide enough soil volume and result in smaller, short-lived trees that
+increase costs for maintenance or replacement, have shallow roots that disturb paving, and can potentially become safety
+hazards. With enough soil volume, street trees will be bigger and healthier, live longer, require less maintenance, not
+impact surrounding paving, and provide more of the environmental and social benefits described above.
+When trees are planted in small tree wells or narrow planting strips, soil volume can be increased by  using a structure to
+support the surrounding paving while preventing soil compaction. There are a variety of custom suspended paving system
+options or modular products that can achieve this, such as Silva Cells . The higher initial investment for creating adequate
+soil volume will pay off over time with higher performing trees that live longer and require less maintenance.
+Planting Strips
+Located between vehicle traffic and the sidewalk, the planting strips in Residential and Edgefield Context Zones provide a
+welcome buffer and enhance the pedestrian experience. In addition to the street trees, planting strips can host shrubs,
+groundcovers, and ornamental grasses. Plants should generally be less than 30” height to not block visibility. All species
+should be tough and drought-tolerant, and there should be a diversity of colors, textures, forms, flowers, and evergreen vs.
+deciduous leaves.
+Planted Medians
+Where the center turn lane is not needed for turning into a driveway or cross street, it should instead be a raised planted
+median with street trees and plantings like the planting strips. The refuge islands at enhanced pedestrian crossings are like
+planted medians, except they should not include trees. The added vegetation in medians will contribute to the vibrant
+character of the corridor, and the extra row of tree trunks will visually narrow the roadway which will further calm traffic
+and increase safety.
+Maintenance
+Careful plant selection, quality planting soil, and adequate soil volume for trees will minimize maintenance costs over time.
+Plants and trees should be chosen that do not drop fruit, large leaves, or other significant debris. Broadleaf evergreen trees
+such as live oaks will drop far fewer leaves per year than the typical deciduous street trees , as well as providing a green
+presence throughout the winter. The mature sizes of all plants need to be considered, as well as their placement relative to
+paving edges, to minimize or eliminate the need for annual trimming.
+
+Stormwater Facilities
+Stormwater planters and rain gardens manage both the volume and water quality of the runoff, and will be located in the
+planting strips or in the wider curb extension at some intersections and enhanced pedestrian crossings. Runoff from the
+roadway, sidewalk, and bike lane directly enters these facilities through curb cuts, and then infiltrates through the soil.
+There will typically be an overflow drain in each facility that connects to the storm sewer.
+Vegetated stormwater facilities are planted with native or adapted wetland plants that thrive in wet conditions and are also
+drought tolerant. Since they are close to the roadway, most plants should be no more than three feet tall, so they do not
+block visibility of pedestrians or cross traffic. Occasional maintenance will be required to remove trash that washes into the
+facilities, remove weeds, and top off the mulch.
+The strategies described above to increase soil volume for street trees can also be useful for stormwater management, by
+directing runoff into the trees’ root zones. This frees up space in the constrained urban environment by reducing the area
+needed for other types of stormwater facilities. While stormwater trees are increasingly being implemented in other places
+like Minneapolis, Vancouver BC, and Sweden, they are not currently an established stormwater BMP in this area so they
+would likely need to be considered a pilot program.
+Larger stormwater facilities can be an opportunity for more expressive planting  and other materials, and can be a highly
+visible venue for public art.
+Off-Street Facilities Materials
+There are two off-street facilities for which building material options should be considered:
+◼ Bike lane: Two primary materials that could be considered for construction of the separated bicycle facility,
+include asphalt and concrete.
+– The main benefit of constructing the bike lane out of asphalt is that it will reduce the project cost by
+approximately 30%. Additionally, constructing the bike lane out of a different material than the sidewalk would
+provide a clear distinction between the space that is dedicated to people biking and the space dedicated to
+people walking. At intersections, the mixing zone for people biking and walking can be constructed out of
+concrete, which would provide an additional cue to people biking that they need to yield to people walking.
+– The benefits of constructing the bike lane out of concrete are aesthetic reasons and the ability to use colored
+concrete. Colored concrete creates a welcoming environment for people biking and can provide visual cues to
+people driving that they need to yield to cyclists.
+◼ The Buffer between bike lane and sidewalk: there are many materials that can be used for providing a visual and
+tactile separation between the bike lane and sidewalk. It should be a material of contrast color and texture so that
+people with visual impairments could use it for navigating the sidewalk. This buffer space should not be simply
+painted.
+Driveways
+There are many driveways along NE Halsey Street, which provide access to a combination of single-family, multi-family
+residential and commercial uses. The linear design plan provides limited access management recommendations; however,
+the plan provides guidance for typical treatments at driveways. These treatments are intended to increase driver’s
+awareness of people walking and biking, while accommodating private vehicles and delivery trucks.
+The linear design plan recommends maintaining the level of the sidewalk and the bike lane consistent across driveways. The
+width of the landscaping buffer (6-feet in residential zones and 4-feet in commercial zones) can be utilized for constructing
+
+driveway aprons. If additional width is needed, the bike lane can also be used for providing appropriate driveway apron
+grades. The following provides guidance for minor and major driveways along the corridor.
+◼ Minor driveways: these driveways serve single-family homes or small multi-family developments. They typically
+experience a relatively small volume of vehicular traffic – less than 20 trips a day. At these types of locations,
+bicycle conflict striping is optional. Figure 18 illustrates an example treatment at a minor driveway in Cambridge,
+Massachusetts.
+◼ Major driveways: These driveways serve commercial uses or large multi-family developments. They typically
+experience a relatively large volume of vehicular traffic – more than 20 trips a day. At these locations, the plan
+recommends providing bicycle conflict striping as shown in Figure 19, or utilizing colored concrete as shown in
+Figure 20. If colored concrete is utilized for the bike lane, it should be green color for consistency with other
+treatments along the corridor. The design should also consider providing yield pavement markings for vehicles at
+major driveways to warn them about pedestrian and bicycle movements.
+Figure 18: Example Treatment at Minor Driveways (Cambridge, Massachusetts)
+
+Image Source: Google Maps Streetview
+
+Figure 19: Example Treatment of Conflict Striping at Driveways (Portland, Oregon)
+
+Image Source: Google Maps Streetview
+Figure 20: Example Treatment at Major Driveways (Clackamas, Oregon)
+Image Source: Google Maps Streetview
+
+On-Street Parking
+On-street parking is proposed along most commercial corridor segments on at least one side of the street. In a few
+segments, parking is proposed on both sides of the street, dependent on the context of  the adjacent properties and the
+available right-of-way. Parking zones can also be used for loading-and-unloading zones for local delivery trucks.
+The linear design plan proposes to keep on-street parking 8-feet wide along the 3-lane cross section of the corridor and 8-ft
+wide along the 2-lane cross section. At bus-stop and mid-block crossing locations the plan proposes to introduce curb
+extensions for the width of the parking lane to improve pedestrian user experience and safety. Figure 21 illustrates a typical
+on-street parking layout along the corridor.
+Figure 21: Typical Corridor On-Street Parking Layout (West of NE Halsey St and NE 238th Drive)
+
+Transit Stops
+Transit stops are located at multiple points along the corridor. Some stops are recommended to be relocated while some
+are recommended to be enhanced to accommodate the preferred cross section . Per direction from TriMet, bus stops are
+proposed to be in-lane at most locations, except for major signalized intersections, where existing pull-outs are proposed to
+remain. The benefit of maintaining in-lane stops along most of the corridor is to minimize transit delays caused by the bus
+needing to merge back into traffic after a stop.
+Figure 22 shows an example of proposed treatment for in-lane bus stops and right-of-way constrained bus pullouts. At such
+locations, the plan recommends narrowing the bike lane to four or five feet to increase the pedestrian waiting area. The
+width of the landscaping buffer (four feet in commercial and six feet in residential zones) should be used for providing bus
+loading and unloading area. The design should utilize pavement markings and signs to require bicyclists to stop for
+pedestrians.
+Where right-of-way allows, the waiting area should be increased to 10 or 12 feet and the bike lane should be moved to the
+back of the waiting area, as shown in Figure 23. At bus pullouts at intersections, the plan suggests concrete like shown in
+Figure 22 or painting the roadway with red paint, like shown in Figure 23.
+Bus shelters should be installed at all bus stops, where the right-of-way is available. Bus shelters provide wind, rain, and sun
+cover and significantly increase the user experience. Additional lighting should also be provided at all bus stops for
+improved security, as lighting is one of the major corridor concerns expressed by the community.
+Figure 22: Example Proposed Typical Bus Stop Treatment (Portland, Oregon)
+Image Source: Google Maps Streetview
+
+Figure 23: Example Bus Pullout Treatment (Portland, Oregon)
+
+Image Source: Google Maps Streetview
+Enhanced Crossings
+NE Halsey Street currently has numerous enhanced crossings at major intersections and midblock locations within the study
+corridor; however, there are several long stretches between intersections with no designated crossings. These are an
+inconvenience for residents and other pedestrians who go out of their way to use the designated crossings, and a potential
+safety hazard when they choose to cross the street between designated crossings.
+Crossing Treatments
+As presented in Tech Memo #3: Alternatives Analysis, the typical components of an enhanced crossing increase user safety
+and comfort by reducing the crossing distance and by providing appropriate signage, striping, and beacons. Figure 24
+illustrates the following components included in the linear design plan at all mid-block crossings along NE Halsey Street:
+◼ Continental style crosswalk markings
+◼ Advanced stop bars with “Stop Here for Pedestrians” signage
+◼ Crosswalk signage
+◼ Rectangular Rapid Flashing Beacons (RRFBs) with audible pushbuttons
+Additionally, 3-lane segments include pedestrian refuge islands, as shown in Figure 24, and locations with on-street parking
+include curb extensions, as shown in Figure 25.
+
+Figure 24: Typical Enhanced Pedestrian Crossing with a Refuge Island
+
+Image Source: Google Maps Streetview
+Figure 25: Example Pedestrian Crossing with a Refuge Island and Curb Extensions (Portland, Oregon)
+
+Image Source: Google Maps Streetview
+
+Crossing Locations
+Tech Memo #3: Alternatives Analysis identifies three locations for enhanced crossings, and the linear design plan identifies
+an additional nine crossing locations, which brings the total of proposed crossings to 12. This results in an average spacing
+of 620 feet between mid-block and protected intersection crossings. The Blueprint for Urban Design (ODOT, 2021)
+recommends a target spacing of 500 to 1,000-feet along commercial and residential corridors. Additionally, the plan
+recommends relocating or enhancing six of the existing crossings, which are outlined below. All existing and future crossing
+locations are presented in Figure 26.
+Proposed enhanced pedestrian crossings include (from west to east):
+◼ In front of Reynold Middle School, east of NE 201st Avenue
+◼ West of NE 208th Place, at the existing bus stop
+◼ Two crossings at the proposed roundabout at Fairview Parkway
+◼ West of NE Market Drive, at the existing bus stop
+◼ East of NE Village Street, west of the Stomping Grounds Coffee House driveway
+◼ West of NE 223rd Avenue, west of the Scrubby’s Express Lube and Car Wash driveway
+◼ West of NE 227th Avenue, in front of the MLA Public Charter School
+◼ West of NE 230th Court
+◼ West of NE 238th Drive, near Flair Apartments
+◼ East of 224th Avenue, near westmost Edgefield driveway
+◼ Between 224th Avenue and SW Lancaster Court, near the Edgefield bus stop
+◼ West of SW Halsey Loop (East)
+Upgraded existing pedestrian crossings include (from west to east):
+◼ East of NE 206th Avenue – redesign existing refuge islands
+◼ East of NE 213th Avenue – redesign existing refuge islands
+◼ West of NE Wood Village Boulevard – construct curb extension on the south side
+◼ West of NE 224th Avenue – construct curb extension on the south side
+◼ West of SW Edgefield Meadows Avenue – relocate crossing 60 feet to the west and construct refuge islands
+◼ Intersection with W Historic Columbia River Highway – install RRFB’s and advance warnings
+
+Figure 26: Existing and Proposed Mid-Block Crossing Locations
+
+Major Street Intersections
+There are four major street intersections along the NE Halsey Street corridor, including NE Fairview Parkway, NE 223rd
+Avenue, NE 238th Drive, and SW 257th Drive. While the NE Fairview Parkway intersection is expected to be reconfigured as a
+multi-lane roundabout, all other major street intersections are expected to remain as traffic signals . As indicated above, the
+linear design plan includes enhanced features at each intersection and identifies the potential for additional features, such
+as protected intersection treatments. The following provides additional details on bike lanes at the major intersections.
+Figure 27 below illustrates an example of how sidewalk-level bike lanes could be handled at major street intersections. As
+illustrated, the bike lanes are to be lowered down to the roadway level and the bike crossing s are to be located near the
+pedestrian crossings. This treatment would best improve visibility of people walking and biking. Additionally, pavement
+markings and signs should require bicyclists to yield to pedestrians at intersections.
+Figure 27: Example Major Intersection Treatment (Cambridge, Massachusetts)
+
+Image Source: Google Maps Streetview
+
+Minor Street Intersections
+There are approximately 16 unsignalized, minor street intersections along the NE Halsey Street corridor. Some of them have
+four legs, but most are three-legged intersections. These intersections experience a higher volume of vehicular traffic than
+major driveways, therefore it is even more important to properly delineate space for people biking and walking to minimize
+conflicts with vehicles. The plan includes two options for minor-street approach treatments:
+Raised Crosswalks
+One of the major concerns along NE Halsey Street is increased vehicular speeds. Traffic calming can be provided by
+introducing vertical features, like raised crosswalks. They are designed to be flush with the sidewalk, thus providing
+approximately a gradual 6-inch rise. Where possible, the plan suggests introducing raised crosswalks across minor street
+approaches for people walking and biking. Raised crosswalks allow people to cross the street at the same level as the
+sidewalk and the elevated bike lane. They make crossings more comfortable for non-motorized users, especially people
+using wheelchairs or other mobility devices. Figure 28 presents an example of a raised crosswalk that allows people walking
+and biking to cross the street at continuous level.
+Figure 28: Example Raised Crosswalk
+
+Photo Source: The City of Boston
+Conflict Striping
+Another design option for minor street intersections is to bring the bicycle lane and the sidewalk down to the roadway
+level. It is a less expensive design option, but it provides fewer benefits in terms of traffic calming and the user experien ce
+of people walking and biking. Figure 29 illustrates an example from NE Halsey Street, west of the study corridor.
+
+Figure 29: Minor Street Conflict Striping Example (Portland, Oregon)
+
+Photo Source: Google Maps
+V. COST ESTIMATES
+Planning level cost estimates were prepared for the preferred cross sections, intersection treatments, and enhanced
+crossings based on unit costs from similar projects completed in the northwest. The cost estimates include the total cost to
+implement the long-term solutions along the 3.5-mile segment of NE Halsey Street, the total cost to implement the long-
+term solutions within the three cities (Fairview, Wood Village, Troutdale), and the total cost to implement the preferred
+cross-section per linear foot within the three context zones (residential, commercial, and Edgefield). Table 4 summarizes
+the cost estimates. A list of detailed bid items and cost estimate assumptions are documented in Appendix E.
+Table 4. Cost Estimates
+Units
+Construction
+Cost
+Engineering
+Support (25%)
+Contingency
+(40%) Total Cost
+3.5-Mile Corridor $34.5M $8.7M $13.8M $57.0M
+Fairview City Limits $16.2M $4.1M $6.5M $26.8M
+Wood Village City Limits $7.3M $1.8M $2.9M $12.0M
+Troutdale City Limits $11.0M $2.8M $4.4M $18.2M
+Residential Context Zone (LF) $1,300 $320 $650 $2,270
+Commercial Context Zone 2-Lane (LF) $1,350 $340 $680 $2,370
+Commercial Context Zone 3-Lane (LF) $1,430 $360 $720 $2,510
+Edgefield Context Zone (LF) $1,220 $300 $610 $2,130
+
+VI. LAND USE AND CODE EVALUATION
+In 2021, as part of an earlier phase of the project, development code amendments were proposed for each city to
+implement the Main Streets on Halsey vision and recommendations. Specifically, the amendments include a Storefront
+District and establish building and site design standards intended to implement the Halsey Mainstreet design and
+development concepts. The code amendments were adopted by Fairview and Wood Village, and proposed amendments for
+Troutdale will be considered in 2024. Staff from Fairview and Wood Village indicated that the updated standards and
+requirements generally meet the land use implementation objectives for the Main Streets on Halsey project.
+Land Use Opportunities and Alternatives Evaluation
+The project team coordinated with City staff representatives to define and agree to conduct  targeted, site-specific land use
+opportunities and alternatives analysis to support implementation of the Halsey Main Streets concepts. This analysis is
+documented in Tech Memo #4: Land Use and Transportation Alternatives (TM 4). The purpose of this exercise was to
+identify potential rezoning or other land use/transportation interventions to support the transportation and land use
+objectives of the project. Sites either within or near each city’s Storefront District were identifi ed based on their
+development/redevelopment potential to help activate a walkable, mixed-use environment. Sites were also evaluated for
+their possible relationship with streetscape improvements and opportunities to integra te with multimodal and main street
+design concepts that were identified in Tech Memo #3: Alternatives Analysis. The general locations for the opportunity sites
+are shown in Figure 30. See TM 4 for more details on the land use alternatives and opportunities that were considered for
+the identified sites.
+Figure 30: Land Use Alternative Areas in Fairview, Wood Village, and Troutdale
+
+Assessment of Potential Development Code Updates
+Project team members continued to coordinate and discuss how best to follow up on previous project work and add value
+to earlier corridor planning phases regarding additional amendments to local development codes. The efforts described in
+the remainder of this section reflect those conversations. The Cities of Wood Village and Troutdale have indicated that they
+do not anticipate a need for code amendments to support the land use alternatives and opportunities identified in TM 4 for
+their respective jurisdictions. However, some of the alternatives that were considered for Fairview may necessitate code
+amendments to remove barriers and enable land use and development opportunities that are compatible with the
+
+preferred streetscape design alternatives. The project team is considering the following potential updates to the Fairview
+code to support implementation of Halsey Main Street:
+◼ Double-frontage, orientation, and access standards in the Town Center Commercial and Storefront districts
+◼ Exceptions to setback requirements
+◼ Exceptions to height step back requirements
+◼ Exceptions to design standards
+Fairview’s requirements and standards for each of these code areas are summarized below. Each summary includes a brief
+assessment of potential code barriers and preliminary amendment options.
+Lot Dimension and Building Orientation Options
+Table 4 assesses certain code standards/requirements related to building orientation, lot dimensions, and other standards
+that may be a barrier to development that supports walkable main street environment in the TCC and Storefront districts.
+The code language or standards that may be an issue and/or considered for amendment are formatted in bold text under
+the “Applicable Code Language” column. These code sections were identified based on discussions with staff and some of
+the site-specific challenges that were discussed in TM 4. In addition, City of Fairview staff and developers have generally
+expressed a need for additional flexibility for various development and design requirements in the TCC district, w hich may
+serve as a model for offering design/development flexibility in other zones and overlay districts. A component of allowing
+more flexibility may be to establish a list of design and development exceptions. Clear and reasonable exceptions may
+enable development to still meet the intent and purpose of the TCC zone without having to navigate additional approval
+processes that can deter development from occurring.
+
+Table 4: Potential Updates for FMC Sections
+FMC Section and Potential Issue Area Applicable Code Language Assessment and Potential Code Update Options
+FMC 19.65.040 Building Orientation
+and Setbacks
+Exceptions for setback requirements –
+The City is exploring increasing
+flexibility for setback requirements.
+Some sites in the TCC/Storefront
+districts have constraints in the
+setback area that may be challenging
+for developers to resolve under the
+current setback requirements.
+Building setbacks are measured from the wall or facade to the
+respective property line. The setback standards, as listed on the
+following page, apply to primary structures as well as accessory
+structures. The standards may be modified only by approval of a
+variance.
+Any deviations to the setback requirements in the
+TCC district may only be granted through the City’s
+variance process. Typically, the burden of proof to
+approve a variance is relatively onerous and the
+extent of the variance is limited, making it a
+challenge to use this process. To enable additional
+flexibility, the City may consider exceptions where it
+is difficult or not practical to meet the maximum
+setback due to existing site constraints. The City
+may consider maximum exceptions to help ensure
+that setbacks are still maintaining the storefront
+scale that is intended for Halsey (e.g., exception up
+to an additional 20 feet).
+Note that this section of the FMC already has
+provisions for exceptions, however they only apply
+to architectural features that encroach into the
+setback area.
+FMC 19.65.040 Building Orientation
+and Setbacks
+Double frontage – Some of the sites
+evaluated in TM 4 had multiple
+frontages. Frontage improvement
+requirements for double-frontage
+parcels may affect the location/design
+of streetscape improvements on
+Halsey, including setback
+requirements.
+2. Maximum Setback:
+b. Applicability.
+iii. On corner lots with or lots with more than one frontage, the
+maximum setback only applies to the street property line which
+abuts the higher classification street. If the lot abuts two streets of
+the same classification, then the applicant may select which street
+property line the maximum setback applies to.
+Some of the corner properties in the storefront
+district front onto streets that are a higher
+functional classification than Halsey Street, such as
+Fairview Parkway. If the intention of the Storefront
+district is to ensure all buildings/development along
+Halsey face the street, then the City may consider
+amendments to clarify that this provision does not
+apply to corner properties in the Storefront district.
+In addition, the City may consider that the
+maximum setback/frontage requirements apply to
+Halsey in the Storefront district.
+FMC 19.65.040 Building Orientation
+and Setbacks
+Maximum setbacks – some sites may
+have difficulty meeting the maximum
+setback standard due to exiting
+constraints, including drainage
+2. Maximum Setback:
+c. Standards.
+i. Maximum Setback. Unless otherwise specified, the maximum a
+building can be set back from a street lot line is 10 feet. On sites
+within a storefront district, at least 75 percent of the length of the
+ground level street-facing facade of the building must meet the
+See assessment for setback exceptions above for
+options on how the City may address properties that
+cannot meet the maximum setback due to site
+constraints.
+  Technical Memorandum #5 Page 47 of 49
+
+easements and existing utilities for one
+of the identified opportunity sites.
+maximum setback standard. On all other sites, at least 50 percent
+of the length of the ground level street-facing facade of the building
+must meet the maximum setback standard. Eaves, chimneys, bay
+windows, overhangs, cornices, awnings, canopies, porches, decks,
+pergolas, and similar architectural features on the facade do not
+count towards meeting the maximum setback standard. The
+standard applies to the facade wall.
+FMC 19.65.040 Building Orientation
+and Setbacks
+Setback Improvements – Some sites
+may be unable to meet setback
+improvements due to existing site
+constraints or right-of-way issues. As
+mentioned above, one of the
+opportunity sites has an existing
+drainage easement and public sewer
+that would be within the setback area.
+2. Maximum Setback:
+c. Standards.
+ii. Improvements in the Setback Between a Building and a Street Lot
+Line. The land between any building and a street lot line must be
+landscaped to at least the standards of FMC 19.163.030(E)(1)
+and/or hard surfaced for use by pedestrians.
+Some properties in the Storefront district may be
+unable to meet landscaping or hard
+surfacing/pedestrian improvement requirements
+due to challenges with easements and utilities. The
+City may also consider specific exceptions for these
+cases that include provisions to ensure the frontage
+still maintains cohesion with neighboring storefront
+properties. For example, landscaping criteria may
+include specific types of landscaping that also serve
+as a drainage or stormwater facility, such as
+bioswales or street planters.
+FMC 19.65.050 Block Layout
+Requirements for alley or interior
+parking court
+B. Block Layout Standard.
+1. New land divisions and developments with more than one
+building, which are subject to site design review, shall be configured
+to provide an alley or interior parking court, as shown in Figure
+16.85.050(B). When new public streets are created on larger sites,
+blocks (areas bound by public street right-of-way) shall have a
+length not exceeding 200 feet, and a depth not exceeding 200 feet.
+2. Pedestrian pathways shall be provided from the street right-of-
+way to interior parking courts between buildings, as necessary to
+ensure reasonably safe, direct, and convenient access to building
+entrances and off-street parking.
+3. Exceptions to the alley or interior parking court standard may be
+approved, and longer block lengths or depths allowed, when the
+proposed development provides a mid-block pedestrian pathway.
+The mid-block pedestrian pathway must connect across the site to
+both street frontages, be at least 10 feet in width, and be lit with
+pedestrian-scale lighting.
+
+  Technical Memorandum #5 Page 48 of 49
+
+C. Variances. Variances will be made in accordance with
+Chapter 19.520 FMC. The standard may be varied to address
+topographic or other physical constraints, in accordance with the
+provisions for Class B or C variances in Chapter 19.520 FMC.
+FMC 19.65.060 Building Height
+Height Step Down – Interested
+developers for some of the
+opportunity sites identified in TM 4
+suggested that this requirement may
+be hard to meet. The City is
+considering updates to offer flexibility
+to these standards.
+B. Height Step Down. In the following situations, the base height is
+reduced, or stepped down, to create a transition to areas with
+lower building heights or to reduce the massing of the building as
+seen from the street:
+1. Adjacent to Residential Zone. The following step-down height
+limits apply within 25 feet of sites zoned residential. Sites with
+property lines that abut residential zones for less than a five-foot
+length are exempt from these standards:
+a. On the portion of the site within 25 feet of a site zoned R, R-
+7.5, R-10, or VSF, the step-down height limit is 35 feet. See
+Figure 19.65.060(B).
+b. On the portion of the site within 25 feet of a site zoned
+R/MF, VA, VTH, VO, VC, VMU, the step-down height limit is 45
+feet. See Figure 19.65.060(B).
+2. Across a Local Street or Alley from a Residential Zone. On the
+portion of the site within 15 feet of a lot line that is across a local
+street or alley, as identified in the Fairview Transportation System
+Plan (TSP), from any of the zones listed in subsection (B)(1) of this
+section, the step-down height limit is 45 feet.
+3. Adjacent to Any Street. If a project is approved for a height bonus
+pursuant to FMC 19.65.070, then step-down height limit applies to
+a portion of the site as follows:
+a. For sites eligible for a height bonus of 10 feet, allowing an
+overall height of 55 feet, the step-down height limit is 45 feet
+on the portion of the site within five feet of any street lot line.
+See Figure 19.65.060(B).
+b. For sites eligible for a height bonus of 20 feet, allowing an
+overall height of 65 feet, the step-down height limit is 45 feet
+on the portion of the site within 15 feet of any street lot line.
+Additionally, any rooftop area within 15 feet of the street lot
+line must be usable outdoor space or developed as an eco-
+roof. See Figure 19.65.060(B).
+The City has indicated that developers have faced
+challenges meeting the step down requirements
+when applying height bonuses. The city may
+consider exceptions for height step downs if specific
+bonuses are provided (e.g., affordable housing).
+Alternatively, to simplify the requirement or enable
+flexibility, the city may consider providing the option
+of a step down calculated as a percentage of the
+total height or frontage length, which may help
+ensure the stepdown is proportional to the scale of
+the building. For example: “The step-down height
+limit is 45 feet or 75% of the building height,
+whichever is less.”
+
+VII. APPENDICES
+The appendices listed below include full-size versions of the graphics included in this memorandum and the evaluation
+matrix:
+◼ Appendix A: Evaluation Summary
+◼ Appendix B: Near-Term Solutions
+◼ Appendix C: Long-Term Solutions
+◼ Appendix D: Linear Design Plans

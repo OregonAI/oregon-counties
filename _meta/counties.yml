@@ -84,8 +84,6 @@ counties:
   home_rule: general-law
   source_url: https://www.co.marion.or.us
   built: true
-  deferred: cloudflare-challenge
-  deferred_reason: 'CODE ONLY. codepublishing.com (General Code) returns HTTP 403 Cloudflare managed challenge. The county''s OWN domain serves us fine and its 153 administrative policies are ingested — checking co.marion.or.us before writing the county off is the lesson (2026-08-01).'
 - slug: jackson-county
   name: Jackson County
   short_name: Jackson
@@ -349,9 +347,7 @@ counties:
   governing_body: board
   home_rule: general-law
   source_url: https://www.lakecountyor.org
-  built: false
-  deferred: cloudflare-challenge
-  deferred_reason: 'lake.county.codes (General Code) returns HTTP 403 Cloudflare managed challenge to an honestly-identified agent; robots also names ClaudeBot'
+  built: true
 - slug: wallowa-county
   name: Wallowa County
   short_name: Wallowa

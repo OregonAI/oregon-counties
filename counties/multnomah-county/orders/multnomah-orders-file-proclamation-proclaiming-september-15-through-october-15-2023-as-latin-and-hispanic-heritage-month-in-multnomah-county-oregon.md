@@ -1,0 +1,99 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-proclamation-proclaiming-september-15-through-october-15-2023-as-latin-and-hispanic-heritage-month-in-multnomah-county-oregon
+title: 'proclamation proclaiming september 15 through october 15, 2023, as latinÉ and hispanic heritage month in multnomah county, oregon.'
+doc_type: ordinance
+citation: 'proclamation proclaiming september 15 through october 15, 2023, as latinÉ and hispanic heritage month in multnomah county, oregon.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/proclamation_proclaiming_september_15_through_october_15%2C_2023%2C_as_latin%C3%89_and_hispanic_heritage_month_in_multnomah_county%2C_oregon./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 7c6515dee11ececc4a8f8a6d9d8e89771c1a9cd739a0faa3fd35ebcb537e2699
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# proclamation proclaiming september 15 through october 15, 2023, as latinÉ and hispanic heritage month in multnomah county, oregon. (proclamation proclaiming september 15 through october 15, 2023, as latinÉ and hispanic heritage month in multnomah county, oregon.)
+
+## At a glance
+
+proclamation proclaiming september 15 through october 15, 2023, as latinÉ and hispanic heritage month in multnomah county, oregon. — orders of Multnomah County. 2 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY , OREGON
+PROCLAMATION NO. 2023-082
+Proclaiming September 15 through October 15, 2023, as Latiné and Hispanic Heritage
+Month in Multnomah County, Oregon.
+The Multnomah County Board of Commissioners Finds:
+A. For over fifty years, Latiné and Hispanic Heritage Month has been celebrated
+nationwide from September 15 to October 15 to honor and recognize the diverse
+Latiné communities who bring rich culture, language, and history to our region.
+B. Latiné and Hispanic Heritage Month is held in recognition of the significance of
+September 15th because it is the anniversary of the Independence of Latin
+American countries Costa Rica, El Salvador. Guatemala, Honduras, and
+Nicaragua and Mexico’s and Chile’s celebration of their Independence days on
+September 16th and 18th.
+C. Multnomah County has been home to people who identify as Hispanic, Latino,
+Latiné, Latina, Latinx, Afro-Latino, Aftro-Latina, Chicano, Chicana, and/or
+Indigenous from Mexico, Central or South America for over 100 years. In the
+1920 census, 37 Mexicans were listed as living in Multnomah County.
+D. Members of the community in Multnomah County include people whose families
+have been here for generations and some of the newest members of our
+community. Oregon’s Hispanic population is among one of the fastest growing. In
+Multnomah County, it is estimated that 13% of Multnomah County’s population
+identifies as Hispanic or Latiné.
+E. Latiné residents in Multnomah County contribute to our culture and arts as
+singers, performers, and writers. They help drive our small business economy as
+workers, business owners, and entrepreneurs. They enrich our academic
+environment as teachers, professors, and engineers. They are driving social and
+political change as advocates, activists, and elected officials. They ensure our
+health and community as nurses, doctors, caretakers, and childcare workers.
+F . Latiné employees make up 13% percent of Multnomah County’s workforce. The
+approximately 778 Latiné County employees allow us to better serve our
+community by bringing multilingual and multicultural capacity to our workforce.
+H. Multnomah County takes great pride in our growing community and all who
+identify under the Latiné umbrella; and in the impressive and valuable
+contributions made by our Latiné residents to the County's growth, prosperity,
+and well-being.
+I. Latiné and Hispanic Heritage Month celebrates and recognizes the contributions
+that the Latinė communities in the United States have made to society and
+culture. This month, we honor the rich heritage of Latiné communities and
+celebrate their countless achievements.
+The Multnomah County Board of Commissioners Proclaims:
+1. September 15 through October 15, 2023, as Latiné and Hispanic Heritage Month
+in Multnomah County, Oregon, in recognition and celebration of the many
+contributions of Latinx residents to the County and our community.
+2. We call upon all residents of Multnomah County to celebrate the history and
+recognize the contributions of Latiné residents to our community, state, and
+nation.
+SUBMITTED BY: Chair Jessica Vega Pederson
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By
+Jenny M. Madkour, County Attorney
+ADOPTED this 5th day of October, 2023.

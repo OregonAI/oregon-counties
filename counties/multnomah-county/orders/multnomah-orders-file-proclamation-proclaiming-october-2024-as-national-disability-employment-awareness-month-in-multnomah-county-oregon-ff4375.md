@@ -1,0 +1,176 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-proclamation-proclaiming-october-2024-as-national-disability-employment-awareness-month-in-multnomah-county-oregon-ff4375
+title: 'Proclamation \u200b\u200bProclaiming October 2024 As National Disability Employment Awareness Month In Multnomah County, Oregon.'
+doc_type: ordinance
+citation: 'Proclamation \u200b\u200bProclaiming October 2024 As National Disability Employment Awareness Month In Multnomah County, Oregon.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/proclamation_%E2%80%8B%E2%80%8Bproclaiming_october_2024_as_national_disability_employment_awareness_month_in_multnomah_county%2C_oregon./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: c4e74f8c285ecfdaa068b8fc0b20fb70d12dd9fd5fc4ae8a1b56e629e2732c32
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Proclamation ​​Proclaiming October 2024 As National Disability Employment Awareness Month In Multnomah County, Oregon. (Proclamation ​​Proclaiming October 2024 As National Disability Employment Awareness Month In Multnomah County, Oregon.)
+
+## At a glance
+
+Proclamation ​​Proclaiming October 2024 As National Disability Employment Awareness Month In Multnomah County, Oregon. — orders of Multnomah County. 4 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+
+PROCLAMATION NO. 2024-092
+
+Proclaiming October 2024 as National Disability Employment Awareness Month
+in Multnomah County, Oregon.
+
+The Multnomah County Board of Commissioners Finds:
+
+A. Approximately 61 million people in the United States have a disability.
+Almost 15% of Multnomah County residents live with some form of
+disability. Disabilities are ordinary and familiar parts of who people are, and
+we honor the diverse experiences of disability and perspectives within our
+community.
+
+B. National Disability Employment Awareness Month (NDEAM) is an annual
+campaign that takes place each October to celebrate the value and talent
+workers with disabilities add to America’s workplaces and economy.
+NDEAM’s purpose is to confirm the commitment to ensuring disabled
+workers have access to good jobs, every month of every year. The 2024
+NDEAM theme is “Access to Good Jobs for All.”
+
+C. In the 2023 Countywide Employee Survey, 24.5% of Multnomah County
+staff identified as having a disability. This number is a call to action to
+increase the support available for employees with disabilities. Policies,
+practices, and processes should be developed with a Universal Design
+approach and with people with disabilities in mind. The accommodation
+process under the Americans with Disabilities Act (ADA) should be
+streamlined and straightforward, adequately resourced, and tracked in a
+way that tells us who is and isn’t getting needed accommodations, as well
+as any disparities in access or outcomes.
+
+D.  Even within the disability community, disability can be experienced very
+differently. These diverse experiences can be exacerbated in the
+workplace. Disabilities that impact sight and hearing may further exclude
+folks as accessibility efforts are not broadly implemented. Employees with
+invisible disabilities often report not being believed or being charged with
+exaggerating symptoms and impacts. Staff with Long COVID are
+navigating the workplace post-COVID infection. These staff members
+continue to support County operations while experiencing varied and
+ongoing symptoms. Neurodivergent individuals may struggle to get their
+workplace limitations accommodated due to a lack of awareness of
+available accommodations and bias from co-workers.
+
+E.  Workplace accommodations are an imperative part of creating an inclusive
+organization. While Multnomah County maintains a robust reasonable
+accommodation process, there is still opportunity for a scent-free policy, or
+improved COVID precautions. Without clear policies, Human Resource
+staff and managers assisting employees in implementing needed
+accommodations are not always able to create a safe and accessible
+environment for all.
+
+F.  The Workforce Equity Strategic Plan renewal process included forming a
+Disability Equity Workgroup. This body put forward disability-specific
+recommendations for inclusion in the ‘24-’28 WESP. One of these
+initiatives, a Disability Experience Survey, has recently been launched
+from the Office of Diversity and Equity. The purpose of this anonymous
+tool is to hear directly from staff with disabilities and create a baseline from
+which to measure the success of future initiatives.
+
+G.  The Department of County Assets (DCA) plays an important role in making
+Multnomah County a welcoming and inclusive workplace for people with
+disabilities. DCA serves the people who serve the people by managing
+technology suites, assistive tech, contracts, and buildings and facilities.
+
+● Facilities and Property Management recently executed a
+contract with Moore Iacofano Goltsman, Inc. (MIG), an on-call
+accessibility consultant, to update building design standards
+and incorporate physical accessibility best practices. This was
+a direct response to feedback from staff with disabilities and
+the disability community.
+● The Information Technology (IT) division provides software
+and hardware to assist with a wide range of accessibility
+needs, as well Artificial Intelligence (AI) and Generative AI
+tools. These new tools benefit all staff and, in particular,
+employees with disabilities. IT recently launched a new
+county-wide Digital Experience Standard that ensures all new
+websites, tools and applications comply with Federal WCAG
+2.1+ and County accessibility standards. As the County
+designs a new website, IT is leading the way with community
+reviewers including an intentional focus on including reviewers
+with disabilities.
+
+H.  The IDEA employee resource group (“Including Disability in Equity and
+Access”) offers ongoing support and resource connection for employees
+with disabilities. IDEA also regularly engages in countywide equity efforts
+and continuous improvement processes. Recently, IDEA formed a
+Neurodivergence subcommittee, a space where neurodivergent staff can
+connect and support continued progress for equity and inclusion of
+neurodivergent employees.
+
+I.  Future work for Multnomah County includes benchmarks outlined in the
+WESP. This includes creating a centralized accommodation unit to
+facilitate ADA accommodations; utilizing Disability Experience Survey data
+to inform future initiatives and areas for improvement; required training for
+all staff on ways disability shows up in the workplace; raising awareness of
+disability justice principles; and bringing in disability equity consultants to
+provide an evaluation report from an outside perspective. Additionally, the
+Office of Diversity and Equity is standing up a Digital Accessibility Program
+that is expected to establish community channels to understand
+accessibility needs for both employees and community.
+
+J.  Employers tend to prioritize the accommodation and accessibility needs of
+their current employees, which may overlook those of potential
+employees. For example, externally facing websites and systems should
+be accessible to screen readers to support job applicants with disabilities.
+
+K.  As we consider “Access to Good Jobs for All”, we must ask ourselves and
+our organization what steps we can take individually and collectively to
+increase disability inclusion in Multnomah County. Enacting needed policy,
+implementing WESP benchmarks, elevating the voices of those with lived
+experience, and acknowledging the reality that we are living and working in
+an ongoing pandemic may be first steps. Increasing awareness of disability
+justice principles and the intersectional nature of many marginalized
+communities is key to operationalizing the Safety, Trust and Belonging we
+strive to create and uphold.
+
+The Multnomah County Board of Commissioners Proclaims:
+
+The month of October 2024 as National Disability Employment Awareness Month
+in Multnomah County, Oregon. We celebrate and recognize the significant
+contributions of people with disabilities to the workforce and to the community
+and invite other organizations to do the same.
+ADOPTED this 24th day of October, 2024.
+SUBMITTED BY: Tracey Massey, DCA
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By:
+Jenny M. Madkour, County Attorney

@@ -1,0 +1,618 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-order-declaring-certain-tax-foreclosed-properties-subject-to
+title: 'Order Declaring Certain Tax Foreclosed Properties Subject To Waste And Directing The Tax Collector To Issue A Deed To The County.'
+doc_type: ordinance
+citation: 'Order Declaring Certain Tax Foreclosed Properties Subject To Waste And Directing The Tax Collector To Issue A Deed To The County.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/order_declaring_certain_tax_foreclosed_properties_subject_to_waste_and_directing_the_tax_collector_to_issue_a_deed_to_the_county./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 2b190a8b804df825db36af004c5691c79c6e7b23944e8113af83c9b48b05f170
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 195.300
+    - ORS 30.930
+    - ORS 312.122
+    - ORS 312.180
+    - ORS 312.200
+    - ORS 92.010
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Order Declaring Certain Tax Foreclosed Properties Subject To Waste And Directing The Tax Collector To Issue A Deed To The County. (Order Declaring Certain Tax Foreclosed Properties Subject To Waste And Directing The Tax Collector To Issue A Deed To The County.)
+
+## At a glance
+
+Order Declaring Certain Tax Foreclosed Properties Subject To Waste And Directing The Tax Collector To Issue A Deed To The County. — orders of Multnomah County. 20 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+ORDER NO. 2020-012
+Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to
+Issue a Deed to the County.
+The Multnomah County Board of Commissioners Finds:
+a. On or about October 5, 2018, in the Multnomah County Circuit Court, Case No. 18CV-32545,
+Judgment in favor of Multnomah County and against certain properties more particularly
+described in the Judgment ("Judgement-2018"), was entered in an action filed by the County
+pursuant to ORS Chapter 312 to collect all delinquent tax liens on said real property subject
+to foreclosure.
+b. On or about October 23, 2019, in the Multnomah Cqunty Circuit Court, Case No. 19CV-
+34277, Judgment in favor of Multnomah County and against certain properties more
+particularly described in the Judgment ("Judgement-2019"), was entered in an action filed by
+the County pursuant to ORS Chapter 312 to collect all delinquent tax liens on said real
+property subject to foreclosure.
+c. Since the entry of Judgment-2018 and Judgement-2019, the County Tax Collector has
+determined that certain properties amongst those covered by said Judgments may be subject
+to waste.
+d. After providing notice to the owners, interested parties and any occupants of those certain
+properties, in compliance with ORS 312.122 and Multnomah County Code (MCC) §§ 7.421-
+7.425, the County held individual hearings to determine whether any of the Properties were
+in fact subject to waste and, accordingly, should be deeded to the County early as provided
+by ORS 312.122(1).
+e. Hearings were held on January 14, 2020 (Property Nos. 1-4) and January 15, 2020 (Property
+Nos. 5-6), in accordance with ORS 312.122 and MCC §§ 7.421-7.425 and the Hearings
+Officer found that certain properties are subject to waste and recommends that the
+redemption period be reduced and the properties be deeded early to the County as provided
+at ORS 312.122 and MCC § 7.425.
+f. The properties found to be subject of waste and proposed for early deed to the County are
+identified as follows ("Properties"):
+Judgment-2018
+Property No. 1: Tax Account No: R235259
+Property No. 2: Tax Account No: R159946
+Judgement-2019
+Property No. 3: Tax Account Nos: R108826 R108829 R108823
+Property No. 4: Tax Account No: R244260
+Property No. 5: Tax Account No: R133539
+Property No. 6: Tax Account No: R273706
+Page 1 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+Ti
+g. Copies of the Hearing Officer's Expedited Redemption and Forfeiture Hearing Findings and
+Recommendations are attached for each of the Properties identified as Exhibits 1-6 and legal
+descriptions are attached and described in Exhibits 7A and 8A to this Order.
+h. The Properties are declared subject to waste as provided under ORS 312.122, ORS 312.180
+and MCC § 7.422.
+The Multnomah County Board of Commissioners Orders:
+1. The Hearings Officer's Expedited Redemption and Forfeiture Hearing Findings and
+Recommendations, attached as Exhibits 1-6, are hereby adopted and the Properties are
+determined to be subject to waste in accordance with ORS 312.122 and MCC § 7.422.
+2. The Properties shall be subject to a reduced 30-day redemption period after the date of this
+Order, during which the Properties may be redeemed by any person(s) or entity(s) that
+appears in the records of the County to have a lien or other interest in the Properties.
+3. After the expiration of the 30-day redemption period from the date of this Order, unless the
+Properties are sooner redeemed by a person(s) or entity(s) qualified to redeem the property,
+any rights of possession the owners may have in the Properties are forfeited in accordance
+with ORS 312.122(2) (c).
+4. After the expiration of the 30-day redemption period, the County's Tax Collector is directed to
+execute and the County Chair is authorized to accept, a Tax Foreclosure Deed conveying the
+Properties that have not otherwise been redeemed to the County, in substantial conformance
+with the Tax Foreclosure Deed attached as Exhibits 7 and 8 to this Order.
+5. All rights of redemption with respect to the Properties shall terminate on the execution of the
+Tax Foreclosure Deeds to the County.
+ADOPTED this 13 th  day of February 2020.
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH yOUNTY, OREGON
+By
+
+barlo Rasch, Assistant County Attorney
+SUBMITTED BY: Marissa Madrigal, Dept. of County Management
+Page 2 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+EXHIBIT 1 TO BOARD ORDER
+EXPEDITED REDEMPTION AND FORFEITURE HEARINGS
+FINDINGS AND RECOMMENDATION
+PROPERTY OWNER: Oregon State DVA; Norman Yee
+ADDRESS: 4314 NE 105 th, Portland, OR 97220
+TAX ACCOUNT NO: R235259
+TAX FORECLOSURE CASE HISTORY: Multnomah County Circuit Court Case
+#18CV-32545.
+STATUTORY REDEMPTION PERIOD EXPIRATION: October 5, 2020.
+DATE OF HEARING: January 14, 2020, 9:00 am
+HEARINGS OFFICER: Ben Hilton
+APPEARING AT HEARING: 	 For Multnomah Courtty: Michael Sublett
+For Owner/Interested Party: NONE
+SUMMARY OF EVIDENCE AND TESTIMONY PRESENTED:
+For Multnomah County:
+• There was not an acknowledgement by the owner of record of certified notification letter
+received by County.
+• Property is a residential improved property in NE Portland.
+• Property is vacant per an in force City of Portland Order and is demolished.
+Property taxes owing to County at the time of the hearing are approximately $11,913.
+There is no utility service to the property.
+The City of Portland has received complaints on the property since at least 2009 and as recently
+as 2019. Complaints have reported intruders on the property, tall grass and weeds, dangerous
+limbs, illegal dumping, illegal structures, rodent harborage, and past criminal activity. The
+subject is proximate to Prescott Elementary School.
+Property was inspected by Mr. Sublett in 2016, 2018, 2019, 2020.
+Over that time, Mr. Sublett observed increasing deterioration on the premises: Evidence of
+trespass, camping, dumping and other illegal activities contributing to waste; Shrubbery and
+landscape is grossly overgrown, conducive to rodent harborage; Structural compromise;
+Neglected arboreal maintenance presents potentially dangerous site conditions. Site conditions
+have deteriorated or lacked improvement on each successive inspection.
+Mr. Sublett's observations were supported by photographic evidence and City of Portland
+Enforcement Exhibits.
+For Owner/Interested Party: No appearance.
+FINDINGS:
+1. The property suffers from waste as defined in ORS 312.122 and Multnomah County Code 7.400 in
+the following particulars:
+a. The evidence and testimony presented by the County established that the conditions at the property
+were deteriorated.
+b. The owner has caused this deterioration of the improvements at the property by failing to address
+the above cited conditions.
+2. The property suffers from abandonment as defined in ORS 312.122 and Multnomah County Code
+7.400 in the following particulars:
+Page 3 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+a. The evidence and testimony presented by the County established that the improvements and property
+were abandoned.
+b. The owner is responsible for the abandonment the real property by failing to address or respond to
+the cited conditions.
+RECOMMENDATION: That the Board of County Commissioners:
+1. Affirm that the Property is subject to waste and abandonment;
+2. Declare that the owner's right of possession is forfeited; and
+3. Direct the Tax Collector to deed the property to the County after expiration of a period of thirty
+(30) days if not sooner redeemed. (ORS 312.122, Multnomah County Code 7.426.)
+Ben Hilton, Hearings Officer
+/s/
+January 14, 2020
+Page 4 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+EXHIBIT 2 TO BOARD ORDER
+EXPEDITED REDEMPTION AND FORFEITURE HEARINGS
+FINDINGS AND RECOMMENDATION
+PROPERTY OWNER: Oregon State DVA; Norman Yee
+ADDRESS: 1124 N TERRY ST, Portland, OR 97217
+TAX ACCOUNT NO: R159946
+TAX FORECLOSURE CASE HISTORY: Multnomah County Circuit Court Case
+#18CV-32545.
+STATUTORY REDEMPTION PERIOD EXPIRATION: October 5, 2020.
+DATE OF HEARING: January 14, 2020, 10:30 am
+HEARINGS OFFICER: Ben Hilton
+APPEARING AT HEARING: 	 For Multnomah County: Michael Sublett
+For Owner/Interested Party: NONE
+SUMMARY OF EVIDENCE AND TESTIMONY PRESENTED:
+For Multnomah County:
+There was not an acknowledgement by the owner of record of certified notification letter
+received by County.
+Property is a residential zoned property in N Portland.
+Property is vacant per an expired City of Portland Order and is demolished.
+Property taxes owing to County at the time of the hearing are approximately $18,963.
+There is no utility service to the property.
+The City of Portland has received complaints on the property since at least 2005 and as recently
+as 2017. Complaints have reported overgrown vegetation, illegal dumping, illegal structures,
+rodents, squatting and possible criminal activity.
+Property was inspected by Mr. Sublett in 2016; 2018, 2019, 2020.
+Over that time, Mr. Sublett observed increasing deterioration on the premises: overgrown
+vegetation, tree risk, Evidence of trespass, camping, dumping and other illegal activities
+contributing to waste. Shrubbery and landscape is grossly overgrown, conducive to rodent
+harborage. Neglected arboreal maintenance presents potentially dangerous site conditions. Site
+conditions have deteriorated or lacked improvement on each successive inspection.
+• Mr. Sublett's observations were supported by photographic evidence and City of Portland
+Enforcement Exhibits.
+For Owner/Interested Party: No appearance.
+FINDINGS:
+1. The property suffers from waste as defined in ORS 312.122 and Multnomah County Code 7.400 in
+the following particulars:
+a. The evidence and testimony presented by the County established that the conditions at the
+property were deteriorated.
+b. The owner has caused this deterioration of the improvements at the property by failing to address
+the above cited conditions.
+2. The property suffers from abandonment as defined in ORS 312.122 and Multnomah County Code
+7.400 in the following particulars:
+Page 5 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+a. The evidence and testimony presented by the County established that the improvements and
+property were abandoned.
+b. The owner is responsible for the abandonment the real property by failing to address or respond
+to the cited conditions.
+RECOMMENDATION: That the Board of County Commissioners:
+1. Affirm that the Property is subject to waste and abandonment;
+2. Declare that the owner's right of possession is forfeited; and
+3. Direct the Tax Collector to deed the property to the County after expiration of a period of thirty
+(30) days if not sooner redeemed. (ORS 312.122, Multnomah County Code 7.426.
+Ben Hilton, Hearings Officer
+/s/
+January 14, 2020
+Page 6 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+EXHIBIT 3 TO BOARD ORDER
+EXPEDITED REDEMPTION AND FORFEITURE HEARINGS
+FINDINGS AND RECOMMENDATION
+PROPERTY OWNER: Aleen A Gross Trust
+ADDRESS: 2955 SW FAIRVIEW BLVD, Portland, OR 97205
+TAX ACCOUNT NOS: R108826 R108829 R108823
+TAX FORECLOSURE CASE HISTORY: Multnomah County Circuit Court Case
+#19CV-34277.
+STATUTORY REDEMPTION PERIOD EXPIRATION: October 25, 2021.
+DATE OF HEARING: January 14, 2020, 1:00 pm
+HEARINGS OFFICER: Ben Hilton
+APPEARING AT HEARING: 	 For Multnomah County: Michael Sublett
+For Owner/Interested Party: NONE
+SUMMARY OF EVIDENCE AND TESTIMONY PRESENTED:
+For Multnomah County:
+There was not an acknowledgement by the owner of record of certified notification letter
+received by County.
+Property is a residential improved property in SW Portland.
+Property is vacant per an in force City of Portland Order.
+Property taxes owing to County at the time of the hearing are approximately $76,307.
+There is no utility service to the property.
+The City of Portland has received complaints on the property since at least 1998 and as recently
+as 2019. Complaints have reported intruders on the property, tall grass and weeds, dangerous
+limbs, illegal dumping, structural failure, rodent harborage, and past criminal activity.
+Demolition order in process.
+Property was inspected by Mr. Sublett in November and December 2019.
+• Mr. Sublett's observations were supported by photographic evidence and City of Portland
+Enforcement Exhibits.
+For Owner/Interested Party: No appearance.
+FINDINGS:
+1. The property suffers from waste as defined in ORS 312.122 and Multnomah County Code 7.400 in
+the following particulars:
+a. The evidence and testimony presented by the County established that the conditions at the
+property were deteriorated.
+b. The owner has caused this deterioration of the improvements at the property by failing to address
+the above cited conditions.
+2. The property suffers from abandonment as defined in ORS 312.122 and Multnomah County Code
+7.400 in the following particulars:
+a. The evidence and testimony presented by the County established that the improvements and
+property were abandoned.
+b. The owner is responsible for the abandonment the real property by failing to address or respond
+to the cited conditions.
+Page 7 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+RECOMMENDATION: That the Board of County Commissioners:
+1. Affirm that the Property is subject to waste and abandonment;
+2. Declare that the owner's right of possession is forfeited; and
+3. Direct the Tax Collector to deed the property to the County after expiration of a period of thirty
+(30) days if not sooner redeemed. (ORS 312.122, Multnomah County Code 7.426.)
+Ben Hilton, Hearings Officer
+/s/
+January 14, 2020
+Page 8 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+EXHIBIT 4 TO BOARD ORDER
+EXPEDITED REDEMPTION AND FORFEITURE HEARINGS
+FINDINGS AND RECOMMENDATION
+PROPERTY OWNER: Calvin and Roberta Queahpama
+ADDRESS: 2650 SE 101ST AVE, Portland, OR 97266
+TAX ACCOUNT NO: R244260
+TAX FORECLOSURE CASE HISTORY: Multnomah County Circuit Court Case
+#19CV-34277.
+STATUTORY REDEMPTION PERIOD EXPIRATION: October 25, 2021.
+DATE OF HEARING: January 14, 2020, 2:30 pm
+HEARINGS OFFICER: Ben Hilton
+APPEARING AT HEARING: 	 For Multnomah County: Michael Sublett
+For Owner/Interested Party: NONE
+SUMMARY OF EVIDENCE AND TESTIMONY PRESENTED:
+For Multnomah County:
+• There was not an acknowledgement by the owner of record of certified notification letter
+received by County.
+Property is a residential improved property in SE Portland.
+Property is vacant and under a City of Portland Police Bureau Board Up Action.
+Property taxes owing to County at the time of the hearing are approximately $25,961.
+There is no utility service to the property.
+The City of Portland has received complaints on the property since at least 2013 and as recently
+as 2019. Complaints have reported intruders/squatters on the property, tall grass and weeds,
+dangerous limbs, illegal dumping, trash accumulation, and past criminal activity. It is subject to
+a Portland Police Board Up Order.
+Property was inspected by Mr. Sublett in November and December 2019.
+Mr. Sublett's observations were supported by photographic evidence and City of Portland
+Enforcement Exhibits.
+For Owner/Interested Party: No appearance.
+FINDINGS:
+1. The property suffers from waste as defined in ORS 312.122 and Multnomah County Code 7.400 in
+the following particulars:
+a. The evidence and testimony presented by the County established that the conditions at the
+property were deteriorated.
+b. The owner has caused this deterioration of the improvements at the property by failing to address
+the above cited conditions.
+2. The property suffers from abandonment as defined in ORS 312.122 and Multnomah County Code
+7.400 in the following particulars:
+a. The evidence and testimony presented by the County established that the improvements and
+property were abandoned.
+b. The owner is responsible for the abandonment the real property by failing to address or respond
+to the cited conditions.
+Page 9 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+RECOMMENDATION: That the Board of County Commissioners:
+1. Affirm that the Property is subject to waste and abandonment;
+2. Declare that the owner's right of possession is forfeited; and
+3. Direct the Tax Collector to deed the property to the County after expiration of a period of thirty
+(30) days if not sooner redeemed. (ORS 312.122, Multnomah County Code 7.426.)
+Ben Hilton, Hearings Officer
+/s/
+January 14, 2020
+Page 10 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+EXHIBIT 5 TO BOARD ORDER
+EXPEDITED REDEMPTION AND FORFEITURE HEARINGS
+FINDINGS AND RECOMMENDATION
+PROPERTY OWNER: Larry Mark Wilson, Jr.
+ADDRESS: 12110 SE LIEBE ST, Portland, OR 97266
+TAX ACCOUNT NOS: R133539
+TAX FORECLOSURE CASE HISTORY: Multnomah County Circuit Court Case
+#19CV-34277.
+STATUTORY REDEMPTION PERIOD EXPIRATION: October 25, 2021.
+DATE OF HEARING: January 15, 2020, 9:00 am
+HEARINGS OFFICER: Ben Hilton
+APPEARING AT HEARING: 	 For Multnomah County: Michael Sublett
+For Owner/Interested Party: NONE
+SUMMARY OF EVIDENCE AND TESTIMONY PRESENTED:
+For Multnomah County:
+• There was not an acknowledgement by the owner of record of certified notification letter
+received by County.
+Property is a residential zoned unimproved property in SE Portland.
+Property is vacant per an in force City of Portland Order.
+Property taxes owing to County at the time of the hearing are approximately $17,268.
+There is no utility service to the property.
+The City of Portland has received complaints on the property since at least 1996 and as recently
+as 2019. Complaints have reported exterior evidence of trespass, camping, dumping and other
+illegal activities contributing to waste. Shrubbery and landscape is overgrown, conducive to
+rodent harborage. Neglected arboreal maintenance presents potentially dangerous site
+conditions. The improvements were demolished in 2016. Site conditions have deteriorated on
+each successive inspection.
+Property was inspected by Mr. Sublett in November and December 2019.
+Mr. Sublett's observations were supported by photographic evidence and City of Portland
+Enforcement Exhibits.
+For Owner/Interested Party: No appearance.
+FINDINGS:
+1. The property suffers from waste as defined in ORS 312.122 and Multnomah County Code 7.400 in
+the following particulars:
+a. The evidence and testimony presented by the County established that the conditions at the
+property were deteriorated.
+b. The owner has caused this deterioration of the improvements at the property by failing to address
+the above cited conditions.
+2. The property suffers from abandonment as defined in ORS 312.122 and Multnomah County Code
+7.400 in the following particulars:
+a. The evidence and testimony presented by the County established that the improvements and
+property were abandoned.
+Page 11 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+b. The owner is responsible for the abandonment the real property by failing to address or respond
+to the cited conditions.
+RECOMMENDATION: That the Board of County Commissioners:
+1. Affirm that the Property is subject to waste and abandonment;
+2. Declare that the owner's right of possession is forfeited; and
+3. Direct the Tax Collector to deed the property to the County after expiration of a period of thirty
+(30) days if not sooner redeemed. (ORS 312.122, Multnomah County Code 7.426.)
+Ben Hilton, Hearings Officer
+/s/
+January 15, 2020
+Page 12 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+EXHIBIT 6 TO BOARD ORDER
+EXPEDITED REDEMPTION AND FORFEITURE HEARINGS
+FINDINGS AND RECOMMENDATION
+PROPERTY OWNER: Laurence R. Lindstrom
+ADDRESS: 6227 SW KELLY AVE, Portland, OR 97239
+TAX ACCOUNT NOS: R273706
+TAX FORECLOSURE CASE HISTORY: Multnomah County Circuit Court Case
+#19CV-34277.
+STATUTORY REDEMPTION PERIOD EXPIRATION: October 25, 2021.
+DATE OF HEARING: January 15, 2020, 10:30 am
+HEARINGS OFFICER: Ben Hilton
+APPEARING AT HEARING: 	 For Multnomah County: Michael Sublett
+For Owner/Interested Party: NONE
+SUMMARY OF EVIDENCE AND TESTIMONY PRESENTED:
+For Multnomah County:
+• There was not an acknowledgement by the owner of record of certified notification letter
+received by County.
+Property is a residential zoned improved property in SW Portland.
+Property is vacant.
+Property taxes owing to County at the time of the hearing are approximately $28,489.
+There is limited utility service to the property.
+The City of Portland has received complaints on the property since at least 2005 and as recently
+as 2015. Complaints have reported intruders on the property, tall grass and weeds, dangerous
+limbs, failing foundation, and trash accumulation adjacent to school (Sunstone Montessori
+School). Landscape is untended and overgrown in places, conducive to rodent harborage.
+Neglected arboreal maintenance presents potentially dangerous site conditions. Serious issues of
+potential foundation compromise with significant open gaps. Lack of downspouts direct water to
+foundation. Site conditions have deteriorated on each successive inspection.
+Property was inspected by Mr. Sublett in November and December 2019.
+Mr. Sublett's observations were supported by photographic evidence and City of Portland
+Enforcement Exhibits.
+For Owner/Interested Party: No appearance.
+FINDINGS:
+1. The property suffers from waste as defined in ORS 312.122 and Multnomah County Code 7.400 in
+the following particulars:
+a. The evidence and testimony presented by the County established that the conditions at the
+property were deteriorated.
+b. The owner has caused this deterioration of the improvements at the property by failing to address
+the above cited conditions.
+2. The property suffers from abandonment as defined in ORS 312.122 and Multnomah County Code
+7.400 in the following particulars:
+Page 13 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+a. The evidence and testimony presented by the County established that the improvements and
+property were abandoned.
+b. The owner is responsible for the abandonment the real property by failing to address or respond
+to the cited conditions.
+RECOMMENDATION: That the Board of County Commissioners:
+1. Affirm that the Property is subject to waste and abandonment;
+2. Declare that the owner's right of possession is forfeited; and
+3. Direct the Tax Collector to deed the property to the County after expiration of a period of thirty
+(30) days if not sooner redeemed. (ORS 312.122, Multnomah County Code 7.426.)
+Ben Hilton, Hearings Officer
+/s/
+January 15, 2020
+Page 14 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+EXHIBIT 7 TO BOARD ORDER
+Until a change is requested, all tax statements shall be sent
+To the following address:
+MULTNOMAH COUNTY
+% TAX TITLE PROGRAM
+PO BOX 2716
+PORTLAND OR 97208-2716
+After recording return to:
+MULTNOMAH COUNTY TAX COLLECTOR
+501 SE HAWTHORNE BLVD
+PORTLAND OR 97214
+MULTNOMAH COUNTY
+TAX FORECLOSURE DEED
+The parties to this deed are Michael Vaughn, as the Tax Collector for Multnomah County, Oregon, Grantor, and
+Multnomah County, a political subdivision of the State of Oregon (the County), Grantee.
+A Judgment in favor of the County and against property described in Exhibit 7A attached hereto; (hereinafter "the
+Property") was entered on or about October 5, 2018, in an action filed pursuant to ORS Chapter 312 in the
+Multnomah County Circuit Court (Case No 18CV-32545). The County brought this action to foreclose the liens
+for delinquent taxes against all the properties shown on the 2018 Multnomah County foreclosure list, which
+included the Property. Upon entry of the Judgment in the above referenced action, the Circuit Court ordered that
+the several properties be sold to the County for the respective amounts of taxes and interest for which the
+properties are liable. A certified copy of the Judgment containing the list of properties ordered to be sold was
+delivered to Michael Vaughn at the Multnomah County Division of Assessment, Recording and Taxation.
+The Property was the subject of a forfeiture and expedited redemption proceeding as provided under ORS
+312.122 and Multnomah County Code §§ 7.420-7.425. By Multnomah County Board Order No. 	 , the
+Multnomah County Board of Commissioners directed this Tax Foreclosure Deed for the Property be
+executed after 30 days from the date of said Order.
+Now, therefore as authorized under ORS 312.200; I, Michael Vaughn, as Tax Collector, conveys to Multnomah
+County all right title and interest in certain real property located in Multnomah County, Oregon; and more
+particularly described in Exhibit A attached hereto together with all tenements, herediments and appurtenances
+thereto belonging or appertaining, to have and to hold unto the County, its successors and assigns from every right
+or interest of any person in such premises.
+BEFORE SIGNING OR ACCEPTING THIS INSTRUMENT, THE PERSON TRANSFERRING FEE TITLE
+SHOULD INQUIRE ABOUT THE PERSON'S RIGHTS, IF ANY, UNDER ORS 195.300, 195.301 AND 195.305
+TO 195.336 AND SECTIONS 5 TO 11, CHAPTER 424, OREGON LAWS 2007, SECTIONS 2 TO 9 AND 17,
+CHAPTER 855, OREGON LAWS 2009, AND SECTIONS 2 TO 7, CHAPTER 8, OREGON LAWS 2010. THIS
+INSTRUMENT DOES NOT ALLOW USE OF THE PROPERTY DESCRIBED IN THIS INSTRUMENT IN
+VIOLATION OF APPLICABLE LAND USE LAWS AND REGULATIONS. BEFORE SIGNING OR
+ACCEPTING THIS INSTRUMENT, THE PERSON ACQUIRING FEE TITLE TO THE PROPERTY SHOULD
+CHECK WITH THE APPROPRIATE CITY OR COUNTY PLANNING DEPARTMENT TO VERIFY THAT
+THE UNIT OF LAND BEING TRANSFERRED IS A LAWFULLY ESTABLISHED LOT OR PARCEL, AS
+DEFINED IN ORS 92.010 OR 215.010, TO VERIFY THE APPROVED USES OF THE LOT OR PARCEL, TO
+DETERMINE ANY LIMITS ON LAWSUITS AGAINST FARMING OR FOREST PRACTICES, AS DEFINED
+IN ORS 30.930, AND TO INQUIRE ABOUT THE RIGHTS OF NEIGHBORING PROPERTY OWNERS, IF
+ANY, UNDER ORS 195.300, 195.301 AND 195.305 TO 195.336 AND SECTIONS 5 TO 11, CHAPTER 424,
+Page 15 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+OREGON LAWS 2007, SECTIONS 2 TO 9 AND 17, CHAPTER 855, OREGON LAWS 2009, AND SECTIONS
+2 TO 7, CHAPTER 8, OREGON LAWS 2010.
+Dated this 	 day of March 2020
+MICHAEL VAUGHN, TAX COLLECTOR,
+MULTNOMAH COUNTY, OREGON
+Michael Vaughn, Tax Collector
+STATE OF OREGON
+COUNTY OF MULTNOMAH )
+This instrument was acknowledged before me on this 	 day of March 2020 by Michael Vaughn as
+Tax Collector for Multnomah County, Oregon.
+Marina A. Baker
+Notary Public for Oregon
+My Commission expires 05/23/2022
+ACCEPTED: Multnomah County approves and accepts this conveyance.
+Deborah Kafoury, Chair of the Multnomah County Board
+Reviewed:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By
+
+Carlos A. Rasch, Assistant County Attorney
+Page 16 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+EXHIBIT 7A TO BOARD ORDER
+1) R235259
+The North 75 feet of Lot E, Block 27, PARKROSE, in the City of Portland, County of Multnomah and
+State of Oregon.
+2) R159946
+The East 70 feet of Lots 1, 2, 3 and 4, Block 1, FAIRPORT, in the City of Portland, County of
+Multnomah and State of Oregon.
+Page 17 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+EXHIBIT 8 TO BOARD ORDER
+Until a change is requested, all tax statements shall be sent
+To the following address:
+MULTNOMAH COUNTY
+% TAX TITLE PROGRAM
+PO BOX 2716
+PORTLAND OR 97208-2716
+After recording return to:
+MULTNOMAH COUNTY TAX COLLECTOR
+501 SE HAWTHORNE BLVD
+PORTLAND OR 97214
+MULTNOMAH COUNTY
+TAX FORECLOSURE DEED
+The parties to this deed are Michael Vaughn, as the Tax Collector for Multnomah County, Oregon, Grantor, and
+Multnomah County, a political subdivision of the State of Oregon (the County), Grantee.
+A Judgment in favor of the County and against property described in Exhibit 8A attached hereto; (hereinafter "the
+Property") was entered on or about October 23, 2019, in an action filed pursuant to ORS Chapter 312 in the
+Multnomah County Circuit Court (Case No 19CV-34277). The County brought this action to foreclose the liens
+for delinquent taxes against all the properties shown on the 2019 Multnomah County foreclosure list, which
+included the Property. Upon entry of the Judgment in the above referenced action, the Circuit Court ordered that
+the several properties be sold to the County for the respective amounts of taxes and interest for which the
+properties are liable. A certified copy of the Judgment containing the list of properties ordered to be sold was
+delivered to Michael Vaughn at the Multnomah County Division of Assessment, Recording and Taxation.
+The Property was the subject of a forfeiture and expedited redemption proceeding as provided under ORS
+312.122 and Multnomah County Code §§ 7.420-7.425. By Multnomah County Board Order No. 	 , the
+Multnomah County Board of Commissioners directed this Tax Foreclosure Deed for the Property be
+executed after 30 days from the date of said Order.
+Now, therefore as authorized under ORS 312.200; I, Michael Vaughn, as Tax Collector, conveys to Multnomah
+County all right title and interest in certain real property located in Multnomah County, Oregon; and more
+particularly described in Exhibit A attached hereto together with all tenements, herediments and appurtenances
+thereto belonging or appertaining, to have and to hold unto the County, its successors and assigns from every right
+or interest of any person in such premises.
+BEFORE SIGNING OR ACCEPTING THIS INSTRUMENT, THE PERSON TRANSFERRING FEE TITLE
+SHOULD INQUIRE ABOUT THE PERSON'S RIGHTS, IF ANY, UNDER ORS 195.300, 195.301 AND 195.305
+TO 195.336 AND SECTIONS 5 TO 11, CHAPTER 424, OREGON LAWS 2007, SECTIONS 2 TO 9 AND 17,
+CHAPTER 855, OREGON LAWS 2009, AND SECTIONS 2 TO 7, CHAPTER 8, OREGON LAWS 2010. THIS
+INSTRUMENT DOES NOT ALLOW USE OF THE PROPERTY DESCRIBED IN THIS INSTRUMENT IN
+VIOLATION OF APPLICABLE LAND USE LAWS AND REGULATIONS. BEFORE SIGNING OR
+ACCEPTING THIS INSTRUMENT, THE PERSON ACQUIRING FEE TITLE TO THE PROPERTY SHOULD
+CHECK WITH THE APPROPRIATE CITY OR COUNTY PLANNING DEPARTMENT TO VERIFY THAT
+THE UNIT OF LAND BEING TRANSFERRED IS A LAWFULLY ESTABLISHED LOT OR PARCEL, AS
+DEFINED IN ORS 92.010 OR 215.010, TO VERIFY THE APPROVED USES OF THE LOT OR PARCEL, TO
+DETERMINE ANY LIMITS ON LAWSUITS AGAINST FARMING OR FOREST PRACTICES, AS DEFINED
+IN ORS 30.930, AND TO INQUIRE ABOUT THE RIGHTS OF NEIGHBORING PROPERTY OWNERS, IF
+ANY, UNDER ORS 195.300, 195.301 AND 195.305 TO 195.336 AND SECTIONS 5 TO 11, CHAPTER 424,
+Page 18 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+OREGON LAWS 2007, SECTIONS 2 TO 9 AND 17, CHAPTER 855, OREGON LAWS 2009, AND SECTIONS
+2 TO 7, CHAPTER 8, OREGON LAWS 2010.
+Dated this 	 day of March 2020
+MICHAEL VAUGHN, TAX COLLECTOR,
+MULTNOMAH COUNTY, OREGON
+Michael Vaughn, Tax Collector
+STATE OF OREGON
+COUNTY OF MULTNOMAH )
+This instrument was acknowledged before me on this 	 day of March 2020 by Michael Vaughn as
+Tax Collector for Multnomah County, Oregon.
+Marina A. Baker
+Notary Public for Oregon
+My Commission expires 05/23/2022
+ACCEPTED: Multnomah County approves and accepts this conveyance.
+Deborah Kafoury, Chair of the Multnomah County Board
+Reviewed:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By
+
+Carlos A. Rasch, Assistant County Attorney
+Page 19 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a
+EXHIBIT 8A TO BOARD ORDER
+1.) R108823
+Lot 6, Block 25, ARLINGTON HEIGHTS, in the City of Portland County of Multnomah and State of
+Oregon.
+2.) R108826
+That part of Lot 7, Block 25, ARLINGTON HEIGHTS, in the City of Portland, County of Multnomah
+and State of Oregon, described as follows:
+Beginning at the Southwesterly corner of Lot 11, Block 25, ARLINGTON HEIGHTS, Multnomah
+County, Oregon; thence Westerly along the Southerly line of Lot 7, Block 25, 48.19 feet to the
+Southwesterly corner of said Lot 7; thence Northerly along the Westerly line of Lot 7, 65 feet; thence
+Easterly to a point in the Easterly line of Lot 7, 20 feet Southerly from the Northwesterly corner of Lot
+11; thence Southerly along the Easterly line of Lot 7, 70 feet, more or less to the point of beginning.
+3.) R108829
+All that part of Lot 11, Block 25, ARLINGTON HEIGHTS, in the City of Portland, County of
+Multnomah and State of Oregon lying Northwesterly of a line drawn 30.71 feet Southeasterly of and
+parallel to the Northwesterly line thereof.
+4.) R244260
+Lot 11 and the South one-half of Lot 12, Block 1, PITTOCK GROVE, in the City of Portland, County of
+Multnomah and State of Oregon.
+EXCEPTING therefrom the East 140 feet.
+5.) R133539
+Lot 4, CHOLOMA, in the City of Portland, County of Multnomah and State of Oregon.
+6.) R273706
+Lot 9, Block 10, SOUTHPORT, in the City of Portland, County of Multnomah and State of Oregon.
+Page 20 of 20-Order Declaring Certain Tax Foreclosed Properties Subject to Waste and Directing the Tax Collector to Issue a

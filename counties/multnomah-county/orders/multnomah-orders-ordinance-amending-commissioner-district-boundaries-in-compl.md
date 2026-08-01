@@ -1,0 +1,151 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-ordinance-amending-commissioner-district-boundaries-in-compl
+title: 'Ordinance Amending Commissioner District Boundaries In Compliance With Multnomah County Home Rule Charter.'
+doc_type: ordinance
+citation: 'Ordinance Amending Commissioner District Boundaries In Compliance With Multnomah County Home Rule Charter.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/ordinance_amending_commissioner_district_boundaries_in_compliance_with_multnomah_county_home_rule_charter./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: c709d35798cc5fb1b225288eff7ff2ab332352d8b940c86c740235bc52607718
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance Amending Commissioner District Boundaries In Compliance With Multnomah County Home Rule Charter. (Ordinance Amending Commissioner District Boundaries In Compliance With Multnomah County Home Rule Charter.)
+
+## At a glance
+
+Ordinance Amending Commissioner District Boundaries In Compliance With Multnomah County Home Rule Charter. — orders of Multnomah County. 3 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+ORDINANCE NO. 1303
+Amending Commissioner District Boundaries in Compliance with Multnomah County Home Rule
+Charter.
+(Language stricken is deleted; underlined language is new.)
+The Multnomah County Board of Commissioners Finds:
+a.  County Charter Section 3.15 requires that the Auditor determine by August 1 after the release
+of each federal decennial census the population distribution among the commissioner
+districts specified by the Charter.
+b. On March 8, 2021, the Auditor notified the Board of County Commissio ners that, due to
+the COVID -19 pandemic, the U.S. Census Bureau would be delayed in releasing the
+census data necessary for the Auditor to complete the tasks required under County
+Charter Section 3.15.  The Auditor notified the Board that the U.S. Census Bureau planned
+to release the census data by September 30, 2021, and that the Auditor expected to
+complete her work by February 28, 2022.
+c. The Auditor has made the required determination and reported it to the Board within the
+timeline identified in the March 8, 2021 notice.  In accordance with the Charter, the Auditor
+has prepared and presented to the Board a plan to modify the boundaries of the
+commissioner districts to provide approximately equal population distribution while
+generally retaining the geographical characteristics of districts as nearly as possible.
+d. As required by the Charter, the Board adopts this ordinance to alter the boundaries of the
+commissioner districts to provide for approximately equal population distribution and retain
+the general geographical characteristics of the districts established by the Charter as
+nearly as possible.
+Multnomah County Ordains as Follows:
+Section 1. The commissioner districts set forth in the Multnomah County Home Rule
+Charter, Section 3.10, are amended to read as follows:
+CHAPTER III.     GOVERNING BODY
+3.10. Membership
+The governing body shall be a board of five county commissioners.  The Chair of the Board
+shall be elected from the county at large.  Four county commissioners shall be elected from
+districts as herein established and described.
+(1) Position No. 1 shall be occupied by that commissioner elected from or
+appointed to the West District, the boundaries of which are as follows:
+Bounded on the north by Columbia County; bounded on the east as follows:
+Washington State line at the Columbia River, south to Willamette River, south on
+the Willamette River to the Steel Bridge, southeast along the Union Pacific
+Railroad to Interstate 84, east on Interstate 84 to 33rd Avenue, south on 33rd
+Avenue becoming 32nd Avenue to Ankeny Street, east on Ankeny Street to 33rd
+Avenue, south on 33rd Avenue to Stark Street, west on Stark Street to 28th
+Avenue, south on 28th Avenue to Hawthorne Boulevard, east on Hawthorne
+Boulevard to Cesar Chavez Boulevard, south on Cesar Chavez Boulevard to its
+extension to the Portland Traction R.R. right-of-way (40 Mile Loop Trail),
+southeast on the Portland Traction R.R. right-of-way to the intersection of
+Johnson Creek Boulevard, then south to the Clackamas County line; and
+bounded on the west by Washington County.
+
+(2)          Position No. 2 shall be occupied by that commissioner elected from or
+appointed to the North District, the boundaries of which are as follows:
+
+Bounded on the north by the Washington State line at the Columbia River;
+bounded on the east and south as follows: beginning at the Washington State
+line at the Columbia River at a point west of Government Island (coinciding with
+the northwestern boundary of consensus tract 102), southeast along the south
+channel of the Columbia River to the Gresham City Line, southwest along the
+Gresham City Line to Interstate 84 west along Interstate 84 and following the
+Union Pacific Railroad to the Willamette River at the Steel Bridge; bounded on
+the west by the Willamette River.
+
+(3)          Position No. 3 shall be occupied by that commissioner elected from or
+appointed to the Central District, the boundaries of which are as follows:
+
+Bounded on the north and east as follows: beginning at the intersection of 33rd
+Avenue and Interstate 84, east along Interstate 84 to 148th Avenue, south on
+148th Avenue to Powell Boulevard, west on Powell Boulevard to 130th Avenue,
+south on 130th Avenue to Holgate Boulevard, west on Holgate Boulevard to 128th
+Avenue, south on 128th Avenue to Schiller Street, west on Schiller Street to 122nd
+Avenue, south on 122nd Avenue to Foster Road, east on Foster Road to 131st
+Avenue, south on 131st Avenue to Claybourne Street, east on Claybourne Street
+to 134th Avenue, south on 134th Avenue to Deardorff Road, south on Deardorff
+Road to Clackamas County line; bounded on the south by Clackamas County;
+bounded on the west as follows: beginning at the intersection of Johnson Creek
+Boulevard and the Clackamas County line, north to the intersection of Johnson
+Creek Boulevard and the Portland Traction R.R. right-of-way (40 Mile Loop Trail),
+northwest along the Portland Traction R.R. right-of-way to the extension of Cesar
+Chavez Boulevard, continuing north on Cesar Chavez Boulevard to Hawthorne
+Boulevard, west on Hawthorne Boulevard to 28th Avenue, north on 28th Avenue
+to Stark Street, east on Stark Street to 33rd Avenue, north on 33rd Avenue to
+Ankeny Street, east on Ankeny Street to 32nd Avenue, north on 32nd Avenue
+becoming 33rd Avenue, north on 33rd Avenue to Interstate 84.
+
+(4)          Position No. 4 shall be occupied by that commissioner elected from or
+appointed to the East District, the boundaries of which are as follows:
+
+Bounded on the north at the Washington State line at the Columbia River; bounded
+on the east by Hood River County; bounded on the south by Clackamas County;
+and bounded on the west as follows: beginning at the intersection of the
+Clackamas County Line and Deardorff Road, north  on Deardorff Road to 134 th
+Avenue, north on 134 th Avenue to Claybourne Street, west on Claybourne Street
+to 131st Avenue, north on 131 st Avenue to Foster Road, west on Foster Road to
+122nd Avenue, north on 122nd Avenue to Schiller Street, east on Schiller  Street to
+128th Avenue, north on 128 th Avenue to Holgate Boulevard, east on Holgate
+Boulevard to 130 th Avenue, north on 130 th Avenue to Powell Boulevard, east on
+Powell Boulevard to 148 th Avenue, north on 148 th Avenue to Interstate 84, east
+along Interstate 84 the Gresham City Line, north/northeast along the Gresham City
+Line to south channel of the Columbia River, northwest along the south channel of
+the Columbia River to the Washington State line at a point west of Government
+Island.
+FIRST READING: December 16, 2021
+SECOND READING AND ADOPTION: January 6, 2022
+BOARD OF COUNTY COMMISSIONERS FOR
+MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY FOR
+MULTNOMAH COUNTY, OREGON
+By
+ Jenny M. Madkour, County Attorney

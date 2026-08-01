@@ -1,0 +1,469 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/marion-county
+id: marion-land-use-marioncomp01
+title: 'MarionComp01'
+doc_type: ordinance
+citation: 'MarionComp01'
+authority_level: county_ordinance
+issuing_body: 'Marion County Board of Commissioners'
+source_url: https://www.codepublishing.com/OR/MarionCounty/html/MarionComp01/MarionComp01.html
+source_format: xml
+retrieved: '2026-07-31'
+source_sha256: f3fc9576fcccd7d42bca6284027f7badefdf530341b4e5d23b9b8ee476e471b5
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 195.025
+  related: []
+  supersedes: []
+tags: [marion-county, land-use]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Marion County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# MarionComp01 (MarionComp01)
+
+## At a glance
+
+MarionComp01 — land use of Marion County. 34815 characters.
+
+## Full text
+
+INTRODUCTION 
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+ I. INTRODUCTION 
+
+ Legislative history: Ord. 1454 § 4 (Exh. B), 2023; Ord. 1166 § 4, 2002. 
+
+
+
+
+ PURPOSE 
+ The Marion County Comprehensive Plan was developed for the purpose of providing a guide to development and conservation of Marion County’s land resources. It is a generalized long-range policy guide and land use map that provides the basis for decisions on the physical, social, and economic development of Marion County. It represents a public statement of the most desirable land conservation projections for the next 10 to 20 years. These policies and statements are based on inventories, developmental limitations, projected needs, public attitudes, Countywide urban growth management project framework and implementation strategy, and the State Land Conservation and Development Commission Goals and Guidelines. 
+
+ The Plan also coordinates the various factors which influence community development such as sewer and water, transportation, housing, commerce, industry, schools, land use, recreation, and natural resources. It establishes goals and policies which recognize and plan for the interrelationships and interactions of these factors. 
+
+ The main objectives of this Comprehensive Plan are: 
+
+ a.    To prevent future conflicts between land use activities. 
+
+ b.    To provide an objective basis for the land use decisions of elected officials, planners, public agencies, and individual citizens. 
+
+ c.    To provide a source of information describing the conditions and characteristics of the community. 
+
+ d.    To identify the direction and nature of changes which may be expected within the community. 
+
+ e.    To provide a better understanding of specific actions, programs and regulations which may affect the general public. 
+
+ f.    To establish a balance between the competing State and County resource preservation goals and development preferences. 
+
+ The Plan has been revised with the express purpose of providing an accurate statement of the County land use program and to comply with the State land use goals. There are 14 State goals that are applicable to Marion County. It is the purpose and intent of the County Plan to comply with these State goals. 
+
+
+
+ SCOPE 
+ The scope of the Plan is comprehensive and long range. It is intended to provide a broad framework within which more specific implementation policies and programs may be developed. Comprehensiveness is required through the establishment of Statewide planning goals and guidelines by the Land Conservation and Development Commission in 1975. 
+
+ It is recognized that urbanization must be a shared responsibility between the County and the city involved. Within the general framework of the County Plan, it should be the responsibility of each individual city to develop detailed plans for land use allocation and community development within its urban growth boundary, and specific implementation programs for such plans. Where such detailed plans are already in existence, they have been incorporated within this Plan. ORS 195.025 specifically requires the County to coordinate land use planning within the County. 
+
+ It is extremely important to maintain a clear distinction between the Comprehensive Plan itself and implementing measures. Implementing measures include such controls as the zoning and subdivision codes, public land acquisition, taxation policies and public improvements. These measures are specific actions which are taken to transform the Plan proposals and policies into reality. This Plan does not automatically change zoning; however, an Oregon Supreme Court decision in 1975 reaffirmed that the comprehensive plan and the implementing zoning must be consistent with each other and the zoning must be subordinate to the Plan. The Comprehensive Plan establishes a guide for future zoning within the County as well as a Plan for all other land use decisions. 
+
+ As part of the Plan implementation process, existing zoning is reviewed to determine the appropriateness of the zoning to the achievement of the long-range goals and objectives for land use, conservation and development stated in the Plan. The views of area residents concerning zoning will be sought through the Citizen Involvement Program. Proposals for rezoning any portion of the County resulting from this review will be processed through the normal zone change procedures, requiring public notices, public hearings and citizen involvement. 
+
+
+
+ PLANNING PROCESS 
+ The preparation of a comprehensive plan involves several logical steps which may be referred to as the planning process. Basically, the steps (or phases) of the process may be identified as: 
+
+ a.    Research – the collection of physical, social, economic and demographic information. 
+
+ b.    Analysis – the studying of information, definition of problems, identification of possible solutions. 
+
+ c.    Plan – the evaluation of possible solutions and the selection of a course of action. 
+
+ d.    Implementation – carrying out the Plan directives by establishing land use control ordinances and other specific programs that accomplish the intent of the Plan. 
+
+ e.    Review and Amendment – continuously monitoring the validity of the policies and recommendations of the Plan, and amending them as necessary to accomplish long-range goals and objectives. Amendments and changes in the Comprehensive Plan can be made by the Board of Commissioners but only after holding public hearings on the proposed amendments and changes. 
+
+ The last step indicates that the process is continuous, and also implies that it may be repeated. While the Plan is being used to guide development and implementation programs, it is constantly being monitored to be sure that its guidelines are still valid. With the passage of time and the changing of conditions, the Plan may require revision. 
+
+
+
+ CITIZEN INVOLVEMENT 
+ Citizen participation is desirable in many areas of governmental activity. In the planning process, where governmental policies are being established, citizen participation is not only desirable but essential. The LCDC Citizen Involvement Goal No. 1 requires the opportunity for citizens to be involved in the planning process. In the preparation of the Marion County Comprehensive Plan, citizens participated in all phases of the planning process. 
+
+ Marion County developed an active citizen involvement program by establishing Area Advisory Committees (AACs) and a Committee for Citizen Involvement (CCI). The CCI is a committee of citizens of Marion County that developed and monitored the citizen involvement program to assure that there are opportunities for all citizens to take part in planning decisions. 
+
+ Area Advisory Committees (AAC) are made up of interested citizens appointed by the Marion County Board of Commissioners to provide guidance and recommendations on planning issues. The members of the eight area committees have reviewed and commented on the County Goals and Policies and land use designations contained in the Comprehensive Plan. These advisory committees also take part in the implementation phase of the planning process. In accomplishing the planning goals and policies, the Area Advisory Committees plus individual citizen response played a major role in determining the zoning patterns in their areas. 
+
+ A detailed description of the citizen involvement program used in the development of the Plan is included in the Background and Inventory Report. In anticipation of Plan implementation the County has reevaluated its citizen involvement program. The large committees in each of eight areas have been reduced in size to four to six members. At least one member of the County Planning Commission is on each area committee. The Planning Commission has been designated the Citizen Involvement Committee. Having a Commission member on each area committee will improve communication. 
+
+ The Planning Commission will be studying and making recommendations on ways to implement the Comprehensive Plan. They will seek the assistance and input of the members of each area committee before forwarding their recommendation to the Board of Commissioners. Area committee members can provide their input through the Planning Commission or directly to the Board. 
+
+ The Staff will continue to seek input from the Planning Commission members and/or area committee members located within the affected area on administrative decisions and permit applications scheduled for public hearing. Any input received will be noted in staff reports and made part of the record. 
+
+
+
+ Policies 
+
+ 1.    The Marion County Planning Commission shall serve as the Citizen Involvement Committee. The committee shall periodically review the citizen involvement process and make recommendations on how the process can be improved. 
+
+ 2.    The Board of Commissioners shall appoint four to six citizens from each of eight geographical areas of the County to serve as an Area Advisory Committee. The Planning Commission shall designate one of its members to serve on each committee. 
+
+ 3.    A chairman shall be selected from the members of each committee. The chairman shall receive all staff requests for input on applications within the area represented by the committee. The chairman shall solicit input from those committee members familiar with the property in question. Committee members shall have the opportunity to provide their response directly or through a committee member to the Board of Commissioners’ staff or Planning Commission. 
+
+ 4.    At the request of the Planning Commission, a majority of committee members, or on his own initiative, the chairman shall schedule meetings of the Area Committee. Members shall be given at least three days notice of meetings. 
+
+ 5.    The CCI shall meet with the chairmen of all committees at least once a year to receive comments on how the process is working and to report on the status of Plan implementation. 
+
+ 6.    The general public shall be afforded the opportunity to be involved in all phases of the planning process as provided for in the citizen involvement program adopted by the Board of Commissioners. 
+
+
+
+ USING THE PLAN 
+ A primary consideration in the preparation of the Comprehensive Plan should be its usefulness. The Marion County Plan is a statement of public goals, policies, objectives, standards and guidelines that are intended to be used for coordination with other jurisdictions and in making specific decisions about present and future land use. The following explanation should help to understand what these terms mean and how they are used in the Plan. 
+
+ 
+ 
+ 
+ 
+ Definition 
+
+ 
+ 
+ Example 
+
+ 
+ 
+ 
+ 
+ Goal: A general statement of intent, point of view or desired status to achieve or maintain through implementing measures 
+
+ 
+ 
+ To provide areas in rural Marion County for residential development with a variety of locations, types and densities. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Policy: A commitment to pursue a course of action which will influence specific decisions 
+
+ 
+ 
+ Rural residential development should be limited to areas of non-farm or forest lands and limited to rural densities. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Objectives: A scheduling of actions outlining who does what and when 
+
+ 
+ 
+ Marion County will identify rural lands suitable for residential development by identifying non-farm or forest lands and justifying an exception to the LCDC Agricultural Goals No. 3 and 4. 
+
+ 
+ 
+ 
+ 
+ 
+ Standards: A set of numbers or specifications which measure and quantify the subject matter found within the policy statement 
+
+ 
+ 
+ Rural residential densities shall not exceed one dwelling unit per acre. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Coordination Guidelines: Flexible directions or measures that may be utilized to address specific policy statements within the urban growth management framework 
+
+ 
+ 
+ City plans should allow diverse housing types in multiple residential zones including a variety of ownership types and should efficiently use multiple family zoned lands by not allowing the development capacity of the zones to be underutilized. 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Statements of goals, policies, objectives, standards and guidelines are included within each appropriate plan section to specify the County’s position on the subject matter. In some instances certain statements, such as a policy, may apply to more than one subject. These statements, together with the Land Use Plan Map, Transportation Map and Parks and Recreation Map, are the mechanism used to convey the desired direction and intent of County land use positions. 
+
+ In addition, the Plan contains intent statements in narrative form. These statements explain the basis and intent for the County’s position on each subject in the plan and have significance in clarifying and setting County policy. 
+
+ Goals, policies, objectives, standards and guidelines are implemented when the County reviews individual land use actions. To determine whether a specific land use proposal is appropriate, a decision must be made of the applicability of each goal, policy, standard or guideline. These evaluations form the comparative justification for approving or denying land use proposals. 
+
+ The Plan can be a very positive aid in providing information and guidance to anyone seeking to purchase or develop property. The Plan should be used by the County, other agencies, cities, private businesses, and individuals in planning for future investments and lifestyles. Before a decision is made to invest in or develop property, the Plan should be consulted to determine if the property owner’s interests are consistent with the goals and policies. If property owners purchase land that is not designated for their intended use, then they must bear the responsibility of the speculative decision. 
+
+ Expectations for the future use of land in Marion County are defined so that property commitments can be made with a degree of confidence and reliance on land use controls. This assists anyone involved with land in the County in making decisions that will be in the best interests of themselves and the public. 
+
+
+
+ PLAN AMENDMENTS 
+ To maintain the Comprehensive Plan as an accurate statement of County land use goals and policies based on current inventory data, it is necessary to periodically review and evaluate it. If changes in the social, physical or economic conditions of Marion County occur it will be necessary to restate the land use goals and policies as well as the land use designations on the Plan Map. In any case Plan amendments must be consistent with the State land use goals and applicable land use laws. 
+
+ Policy 1. The Comprehensive Plan and implementing measures shall be reviewed and updated at least every five years. The review process shall include opportunity for the general public, area advisory committees and State and Federal agencies to submit proposed changes and to review and comment on any amendments being considered by the Planning Commission and the Board of Commissioners. 
+
+ Plan amendments may range from individual property requests to a complete Plan revision. The need to revise the Plan on an individual property can be considered through an application by an affected property owner at any time. The complete planning process described earlier will be followed in the review of major Plan changes or complete Plan revisions. 
+
+ The flexibility of the planning program through amendments and changes based on new information is important but, at the same time, the integrity of the goals and policies must be maintained through long-term stability and consistency in their application. 
+
+ Policy 2. The procedures which Marion County will use to consider Comprehensive Plan amendments, in addition to the requirements in State law, is as follows: 
+
+ Individual Property or Quasi-Judicial Amendments: 
+
+ Plan changes directly involving five or less properties will be considered a quasi-judicial amendment. Quasi-judicial amendments may be initiated by the subject property owners with an application form supplied by the Marion County Planning Division. The amendment will be reviewed by the zone change procedure established in the Marion County Zoning Ordinance. A Plan amendment application of this type may be processed simultaneously with a zone change request. 
+
+ Area-Wide or Legislative Amendments: 
+
+ Where six or more properties are involved, or where a change in the text of the Plan is proposed, the amendment will be considered a legislative amendment. Legislative plan amendments may be initiated only by the County Planning Commission or the Board of Commissioners. Any interested person may request changes in the Land Use Map or the text of the Plan by letter or petition, or with respect to the County Urban Growth Management Framework by request of a majority of the cities in the County. If the Commission or Board accepts the request and initiates a change, the review will follow the planning process described earlier. 
+
+ Urban Area Plan and Boundary Amendments: 
+
+ Urban Area Plan and Urban Growth Boundary changes shall be accomplished by the amendment procedure included in each city/County urban growth boundary and policy agreement or growth management agreement/compact. 
+
+
+
+ LAND USE 
+ As stated earlier, the central purpose of the Comprehensive Plan is to provide a guide for the utilization of the land resources of Marion County. To do this, consideration must be given to all types and categories of land use. There are many other aspects of our society that interrelate with land use activities and all must be considered concurrently in developing a comprehensive land use plan. However, decisions on how to manage these other concerns should be consistent with, and based upon, land use considerations. This has been the approach used in developing the Marion County Comprehensive Plan. The Plan recognizes the land use impact of existing conditions and anticipates the possible impact of future changes. All other plan components that directly relate to land use such as transportation and recreation were first considered for their land use impact. 
+
+ Even though this Plan deals primarily with rural areas, both urban and rural lands are included within the jurisdiction of the County and land use planning must be done for both. Planning must recognize the interrelationships that exist between them. First, there is the economic interrelationship. Rural land uses (agricultural and timber production) are dependent upon urban areas for facilities to process and finish their raw products, to supply them with equipment needed for production and with household goods and for services such as medical, legal, educational, cultural, governmental, and so forth. Conversely, urban areas are dependent upon rural areas to produce raw materials for processing and refining and as a market for goods and services. 
+
+ Secondary, there is the physical interrelationship between urban and rural areas. Land area is finite and urban area expansion consequently means rural area reduction. This fact has an obvious impact on rural land use patterns. Where rural land adjacent to urban areas is being utilized for agricultural production, urban expansion requires conversion of the agricultural land. Another part of the physical interrelationship between urban and rural land use is the open space and aesthetic benefits that occur to the urban areas just by the existence of rural lands. Consideration of these interrelationships has been an important part of the planning process. 
+
+ In addition to the urban-rural interrelationship, other rural land-use-related activities and interests must also be balanced. These include transportation, environmental quality, parks and recreation, economic development and energy planning. Individual consideration of these land use elements and appropriate policy statements are discussed in separate sections of the Plan. 
+
+ The Plan is primarily concerned with coordination of rural land use activities with lesser emphasis on coordination of land uses with other rural needs and interests. The major rural land use issues discussed in the Plan are agriculture, forestry and rural development. Goals and policy statements that attempt to balance these significant interests are the heart of the Plan and are the primary consideration in making County land use decisions. The following is a discussion of the interrelationship of these rural land use elements. 
+
+
+
+ Rural Issues and Problems 
+
+ The majority of the lands in rural Marion County are being utilized for agriculture or timber production. These activities are directly dependent upon the land resource for their continued viability. They are also the dominant industries in Marion County. 
+
+ One of the significant features of the existing land use pattern, as shown on the existing land use map in the Background and Inventory Report, is the existence of rural residential dwellings scattered throughout the County. Many of these homes are agricultural dwellings necessary for farm and forest maintenance. There is, however, an increasing proliferation of non-farm residences that create incompatibility problems. This is most apparent in agricultural areas close to urban centers. 
+
+ Non-farm residences are dwellings for persons not directly involved with farming and who are not employed or engaged in rural resource activities. The problems that scattered non-agricultural uses create in an agricultural area are both social and economic. Social problems develop between farm and non-farm people because of different lifestyles and different tolerances to farming practices. Non-farm people may object to the odors of agricultural production, to dust, chemical sprays, smoke and to noise. It then becomes necessary for a farmer to severely restrict his operations to comply with many of the objections. The non-farm people may also pose other problems for the farmer. Loose dogs can cause injury or loss of livestock and poultry. Economic problems for farmers are often created when more restrictive methods of farming must be employed. Also, residential development may increase assessed land values on nearby lands which can drastically increase the overall tax burden, and result in the selling of farm land for non-farm purposes. 
+
+ The best farm soils are also the most easily developed. Most of the urban development has taken place on lands suitable for farming. Rural areas have also experienced development such as acreage subdivisions that convert farmland to residential use or limit the use of nearby farmlands. As urban areas expand and rural developments occur, additional farmland will be converted to non-farm uses. 
+
+ Farm operations require adequate amounts of land area to function economically. Farm operations range in size from smaller acreages intensively managed to several hundred acres for more extensive operations. Therefore, the parcel sizes available and the ownership pattern become critical factors in maintaining the flexibility of choice in farm operations. As parcels become smaller, the range of crop types and management techniques become limited. This loss of flexibility and freedom of choice in farming could become detrimental to accepted farm practices. The wide diversity in crop type and production techniques makes defining a specific minimum parcel size for farming very difficult in Marion County. 
+
+ Land use controls can be employed to keep open future use options for resource lands. Control of land divisions and land use intensity are important means for protecting agricultural land. However, land use controls alone are no guarantee of maintenance of agriculture. Other factors such as market conditions, environmental choices, social attitudes, climate and taxation have significant effects upon agricultural production. 
+
+ Forest lands also suffer similar problems. A majority of these lands are located in the National Forests and are restricted in use by the Forest Service. The majority of the remaining forest lands are not well suited for any use except timber production due to rugged terrain and their remoteness. There are, however, intermingled areas of gentle slopes that are also desirable for homesites, farming and other activities. 
+
+ There is an increasing demand for recreational homesites and recreational facilities of all kinds in forested areas. The North Santiam River Canyon and its Little North Fork Canyon area are particularly popular and accessible. These steep, timbered areas are environmentally sensitive to human activity and are vulnerable to accidents such as fire. Many forest fires are caused by human activity or neglect. The development of homesites in forested areas increases the potential threat to the forest industry. 
+
+ The division of forest land into small tracts usually results in uneconomic forest management units. This is a prime concern of the State Forestry Department. It has been their experience that as a parcel size decreases so does the landowner’s desire and ability to economically manage the land for timber production. 
+
+ These lands are a significant resource base for timber production. Their loss through small land divisions and non-forestry development will have an adverse impact on the forest land base and forest lands management programs. The State is committed to encouraging timber production on existing private small timber tracts. Management programs that include financial assistance are being made available by the State to enhance production. 
+
+ Problems also occur when management techniques such as fire protection, harvesting, road building and slash burning adversely affect nearby residents. These conflicts usually result in curtailment of management practices which may result in uneconomic timber production on these lands. 
+
+ To determine the appropriate extent of development of rural areas is a matter of setting priorities among the various alternatives ranging from full development to complete preservation of existing land use. 
+
+ The need for rural development with its related service and environmental costs must be justified, especially when the loss of agricultural and timber production is involved. The costs of providing essential services to rural residential areas are significant when compared with more compact urban type development. Rural residential, commercial and industrial areas can have drastic effects on continued agricultural and forestry production. And, there are other significant environmental, social, economic and energy consequences to development in rural areas. 
+
+ These concerns must be balanced against the positive social and personal benefits of rural living and the desire for an alternative lifestyle. Economic demand and energy conservation must also be considered when commercial and industrial activities are proposed in rural areas. Rural lands best suited for residential, commercial and industrial development are those that minimize the conflicts with rural resource activities. 
+
+ Existing economic, physical and social conditions as well as projections of the most desirable future conditions must be used to establish balanced policy and land use allocation. The balancing process should result in a plan that provides the greatest long-term benefit to the greatest number of present and future citizens of Marion County. Individual sacrifices are often necessary to accomplish the greatest public benefit. Individuals who find themselves with land designated and zoned in a manner that does not accommodate their intended use should consider seeking other more suitable lands. Such a transition will be to the long-term benefit of both the individual and the public. 
+
+
+
+ Goal Exceptions 
+
+ Within areas inventoried as farmland and forest land in the Background and Inventory Report are small clusters of non-resource uses. Due to existing residential, commercial, industrial and public facilities development on these lands and the commitment to additional development, these areas are no longer available for farm or forest uses. LCDC Goal 2 provides a mechanism for not applying the agricultural and forest lands goals to areas with these characteristics. This mechanism is the goal exception process that requires specific findings justifying why such lands are not available for resource use. 
+
+ Marion County has taken exception to both the Agricultural Lands and Forest Land Goals as part of the comprehensive planning process. Other exceptions may be approved in the future subject to review by the Land Conservation and Development Commission. The findings justifying the original exceptions are contained in Appendix A as amended, on file at the Marion County Planning office. The lands for which exceptions were taken are identified as Rural Residential, Commercial, Industrial and Public and Semi-Public in Table No. 1 on page 14. These exceptions total 750,000 acres. 
+
+
+
+ Land Use Designations 
+
+ There are a number of interrelated issues that must be evaluated to determine the most appropriate use of land. Applying the State and County goals to lands in Marion County and determining appropriate land use designations is a deductive process based on inventory data and how it specifically relates to the State goal requirements. 
+
+ The State goals are of two types – site-specific resource lands goals and non-site-specific goals that have a secondary influence on land use designations. The Agricultural Lands Goal (No. 3) and the Forest Lands Goal (No. 4) are the two site-specific resource goals that dominate the land use pattern of Marion County. The other goals, including housing, recreation, transportation and energy, are not generally site-specific but they have implications for certain lands. All rural land use allocations are evaluated first against the intent of the resource goals and then the considerations included in the other goals. While the goals all have equal standing and importance, the two resource goals provide the primary framework for evaluating and justifying land use designations contained in the Plan. The two resource goals are explained in later Plan sections. 
+
+ The Marion County Comprehensive Plan Background and Inventory Report contains information and maps of the land capabilities for agriculture and timber production. Additional information on parcelization, current and historical land use, development hazards and ownership are also included to provide a complete picture of the capability and availability of lands in Marion County for various uses. A review of this data reveals almost all of the rural lands in the County have some agriculture or forest use capability. 
+
+ The two resource goals require the protection of all lands with productive capacity. In most of Marion County nonproductive lands represent small areas intermingled with productive lands. In order to protect the resource lands from potential conflicts, the resource designation is applied to the nonproductive lands and the zoning regulations discourage use of nonproductive lands for homesite development. One exception is in the South Salem Hills where there are larger areas of nonproductive farmland where limited homesite development can be compatible with the low intensity farming occurring in the area. Within areas characterized as resource lands, some lands have been developed for non-resource uses or pre-committed to development by surrounding development. In addition, there are instances when useable resource lands may be needed for some other use. Designation of usable resource lands for non-resource uses involves balancing the goals pertaining to urbanization, transportation, energy, public facilities, etc., with the applicable resource goal. 
+
+ Lands needed to accommodate needed growth in incorporated cities were identified and separately designated as urban areas. State Goal 14 specifies the process by which these lands are justified for non-resource use. This involves projecting future city growth over the approximate 20-year planning period and identifying a sufficient amount of serviceable land around each city to accommodate this growth. A discussion of the urban growth boundary program is contained in the urbanization section of the Plan. 
+
+ Land needed to serve the recreation needs of Marion County residents and visitors were also identified and included as part of the long range land use plan of Marion County. The needs identification and evaluation in the Parks and Recreation Plan is the basis for converting certain limited resource areas to public use. 
+
+ In order to identify additional lands for other non-resource uses such as residential, commercial or industrial, an exception to the applicable resource goal must be taken. The process of justifying alternative designations includes making findings that the land cannot be used for farm or forestry uses or is needed for alternate uses. The exception report containing these findings and maps of the various non-resource areas is appended to the Comprehensive Plan. 
+
+ This process identified almost 93,000 acres, or 12.4 percent of Marion County, for development of one type or another. The remaining land area of Marion County (87.6 percent) is designated for agriculture and forestry uses with the Primary Agriculture, Special Agriculture, Farm-Timber and Forest Lands designations being applied. The differentiation between the areas specifically designated as agricultural land, the forest lands and the agriculture-forest mix is primarily based upon land capability and existing uses patterns. Each land use designation is described and explained in the following plan sections. 
+
+ The following table is a breakdown of the acreage allocated to each of the Comprehensive Plan land use designations. 
+
+ 
+ 
+ Table No. 1 – Acreage of Land Use Plan Designations 
+
+ 
+ 
+ 
+ Designation 
+
+ 
+ 
+ Acreage 
+
+ 
+ 
+ 
+ 
+ Urban Areas – Within Urban Growth Boundaries 
+
+ 
+ 
+ 56,211 
+
+ 
+ 
+ 
+ 
+ 
+ Rural Residential 
+
+ 
+ 
+ 18,730 
+
+ 
+ 
+ 
+ 
+ Commercial 
+
+ 
+ 
+ 313 
+
+ 
+ 
+ 
+ 
+ Industrial 
+
+ 
+ 
+ 733 
+
+ 
+ 
+ 
+ 
+ Public and Semi-Public 
+
+ 
+ 
+ 16,750 
+
+ 
+ 
+ 
+ 
+ Special Agriculture 
+
+ 
+ 
+ 24,198 
+
+ 
+ 
+ 
+ 
+ Primary Agriculture 
+
+ 
+ 
+ 296,961 
+
+ 
+ 
+ 
+ 
+ Farm/Timber 
+
+ 
+ 
+ 15,610 
+
+ 
+ 
+ 
+ 
+ Forest 
+
+ 
+ 
+ 320,494 
+
+ 
+ 
+ 
+ 
+   
+
+ 
+ 
+   
+
+ 
+ 
+ 
+ 
+ Total 
+
+ 
+ 
+ 750,000

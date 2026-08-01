@@ -1,0 +1,82 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-resolution-authorizing-the-repurchase-of-tax-foreclosed-property-as-allowed-under-ors-275-180-by-former-owners-george-and-pam-stat-4cf911
+title: 'Resolution Authorizing The Repurchase Of Tax Foreclosed Property As Allowed Under Ors 275.180 By Former Owners, George And Pam Staton And Execution Of Deeds And Contract'
+doc_type: ordinance
+citation: 'Resolution Authorizing The Repurchase Of Tax Foreclosed Property As Allowed Under Ors 275.180 By Former Owners, George And Pam Staton And Execution Of Deeds And Contract'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_authorizing_the_repurchase_of_tax_foreclosed_property_as_allowed_under_ors_275.180_by_former_owners%2C_george_and_pam_staton_and_execution_of_deeds_and_contract%09/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 34b7816038f12203bab05e33495988b0b4e021e60b8feb62d321943cc73de98f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 275.180
+    - ORS 312.200
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Authorizing The Repurchase Of Tax Foreclosed Property As Allowed Under Ors 275.180 By Former Owners, George And Pam Staton And Execution Of Deeds And Contract (Resolution Authorizing The Repurchase Of Tax Foreclosed Property As Allowed Under Ors 275.180 By Former Owners, George And Pam Staton And Execution Of Deeds And Contract)
+
+## At a glance
+
+Resolution Authorizing The Repurchase Of Tax Foreclosed Property As Allowed Under Ors 275.180 By Former Owners, George And Pam Staton And Execution Of Deeds And Contract — orders of Multnomah County. 2 pages.
+
+## Full text
+
+Page 1 of 1- Authorizing the Repurchase of Tax Foreclosed Property as Allowed under ORS 275.180 by
+Former Owners, George and Pam Staton and Execution of Deeds and Contract
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO.
+Authorizing the Repurch ase of Tax Foreclosed Propert y as Allowed under ORS 275.180 by Former Owners,
+George and Pam Staton and Execution of Deeds and Contract
+The Multnomah County Board of Commissioners Finds:
+a. George and Pam Staton are the former owners of certain real property , more particularly described  in
+the proposed deed to  (“Former Owners”), attached and identified within Exhibit I (“Contract”) as Exhibit
+A (“Property”).
+b. On or about October 5, 2018, judgment was entered in Multnomah County Circuit Court foreclosing the
+delinquent taxes levied against the Property.
+c. On October 6, 2020 , the County Tax Collector deeded all right, title and interest in the Propert y to
+Multnomah County as authorized under ORS 312.200.
+d. Former Owner has applied to the County in compliance with MCC Section 7.402 to repurchase the
+Property for $46,505.00, plus interest and expenses  (“Repurchase Price”), an amount consistent with
+ORS 275.180 and MCC Subsection 7.402(B).  The County will receive payment of the Repurchase Price
+under the terms of a Limited Term Repurchase Contract of Sale (“Contract”) attached and identified as
+Exhibit I.  The Contract temporarily conveys the Property to Former Owners to facilitate a refinancing or
+sale, with a reconveyance deed to County should the Contract not be completed , attached as Exhibit B
+within Exhibit I.
+e. It is in the best public interest that the Propert y be sold to the Former O wner as described above in
+Paragraph d).
+The Multnomah County Board of Commissioners Resolves:
+The County Chair is authorized to execute the Contract and associated deed and reconveyance deed, and
+related escrow documents, in substantial conformance with the attached Exhibit I, conveying the Property to
+George and Pam Staton.
+ADOPTED this 11 day of March 2021.
+.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+2021-010
+Page 2 of 1- Authorizing the Repurchase of Tax Foreclosed Property as Allowed under ORS 275.180 by
+Former Owners, George and Pam Staton and Execution of Deeds and Contract
+SUBMITTED BY:
+Travis Graves, Interim Director, Dept. of County Management

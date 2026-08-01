@@ -1,0 +1,448 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-ordinance-amending-multnomah-county-code-chapter-11-revenue-and-taxation
+title: 'Ordinance Amending Multnomah County Code Chapter 11 – Revenue And Taxation.'
+doc_type: ordinance
+citation: 'Ordinance Amending Multnomah County Code Chapter 11 – Revenue And Taxation.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/ordinance_amending_multnomah_county_code_chapter_11_%E2%80%93_revenue_and_taxation./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9501a36da4aab3d11d50da91026320e020233cb9607c39f80531803ba843cb53
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 321.005
+    - ORS 742.585
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance Amending Multnomah County Code Chapter 11 – Revenue And Taxation. (Ordinance Amending Multnomah County Code Chapter 11 – Revenue And Taxation.)
+
+## At a glance
+
+Ordinance Amending Multnomah County Code Chapter 11 – Revenue And Taxation. — orders of Multnomah County. 11 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+ORDINANCE NO. 1280
+Amending Multnomah County Code Chapter 11 — Revenue and Taxation.
+(Language stricken is deleted; underlined language is new.)
+The Multnomah County Board of Commissioners Finds:
+a. 	 On December 5, 2019, the County, the City of Portland, and Metro, entered into the Second
+Amended and Restated Visitor Facilities Intergovernmental Agreement. Changes to portions of
+Multnomah County Code Chapter 11 are needed to fully implement the agreement.
+Ordinance 934, adopted July 29, 1999, amended Chapter 11 to exempt vehicles rented from "car
+sharing organizations" from the County's Motor Vehicle Rental Tax. Vehicle rental and
+transportation options have changed since this exemption was adopted, reducing its impact. Given
+these changes, the car sharing exemption is not achieving the policy goals it was intended to
+further.
+c. Periodically, there is a need to amend Multnomah County Code to make technical corrections to
+address changes in business practices over time, correct typos, reduce ambiguity, and eliminate
+inconsistent -leans.
+d. The first reading for certain revisions to portions of Multnomah County Code §§ 11.202 — 11.420
+occurred on January 9, 2020.
+e. At the second reading of those changes on February 13, 2020, Commissioner Sharon Meieran
+moved to amend portions of Multnomah County Code §§ 11.300 — 11.402 to reflect feedback on
+the first reading changes received from Metro and the City of Portland, and to clarify the County's
+intent, such as by defining key terms.
+The Office of the Chair and the Division of Finance and Risk management of the Department of
+County Management recommended the adoption of this ordinance to the Board of County
+Commissioners to amend portions of Multnomah County Code §§ 11.202 — 11.420, as moved by
+Commissioner Meieran.
+g. 	 The County now wishes to amend certain portions of Multnomah County Code §§ 11.202 — 11.420
+through a third reading of these changes, as amended.
+Multnomah County Ordains as Follows:
+Section 1. 	 MCC § 11.202 is amended as follows:
+§ 11.202 	 MONTHLY STATEMENT BY DEALER; AMOUNT OF FEE.
+(A) 	 Subject to divisions subsections (B) and (C) of this section, below, in addition to any fees
+or taxes otherwise provided for by law, every dealer and subdealer engaging in his own name, or in the
+Page 1 of 11 - Amending Multnomah County Code Chapter 11 — Revenue and Taxation
+name of others, or in the name of his representatives or agents in the county, in the sale, use or
+distribution of motor vehicle fuel or withdrawal of motor vehicle fuel for sale, use or distribution within
+areas in the county within which the county has the power to tax the sale, use or distribution of motor
+vehicle fuel, shall:
+* * *
+
+Section 2. 	 MCC § 11.209 is amended as follows:
+§ 11.209 	 PAYMENT OF FEE AND DELINQUENT PENALTY.
+(A) The license fee imposed by §§ 11.201 and 11.202 shall be paid on or before the 25th  day
+of each month to the division which, upon request, shall provide a receipt to the dealer or subdealer
+therefor.
+(B) Except as provided in division subsection (D of this section), to any license fee not paid
+as required by division subsection (A) of this section there shall be added a penalty of 1% of such
+license fee.
+(C) Except as provided in division subsection (D of this section), below, if the fee and
+penalty required by division subsection (B) of this section are not received on or before the close of
+business on the last day of the month in which the payment is due, a further penalty of 10% shall be paid
+in addition to the penalty provided for in division (B) of this section subsection (B).
+(D) If the Division determines that the delinquency.was due to reasonable cause and without
+any intent to avoid payment, the penalties provided by division subsections (B) and (C) of this section
+shall be waived.
+* * *
+
+(F) 	 No dealer who collects from any person the fee provided for in this subchapter shall
+knowingly and wilfully willfully fail to report and pay the same to the Division as required by this
+subchapter.
+
+Section 3. 	 MCC § 11.219 is amended as follows:
+§ 11.219 	 REFUNDS.
+
+(A) 	 Any person who has paid any fees on motor vehicle fuel imposed or directed to be paid
+under this subchapter either directly by the collection of the fee by the vendor from the consumer, or
+indirectly by adding the amount of the fee to the price of the fuel and paid by the consumer, shall be
+reimbursed and repaid the amount of such fee paid by him, except as provided in §§ 11.220 and 11.223,
+if such person has:
+* * *
+
+(B) 	 When a motor vehicle with auxiliary equipment uses equipment or separate tank for such
+a motor, a refund may be claimed and allowed as provided by division subsection (D of this section)
+except as otherwise provided by this division subsection (B), without the necessity of furnishing proof of
+the amount of fuel used in the operation of the auxiliary equipment. The person claiming the refund
+may present to the Division a statement of his claim and be allowed a refund as follows:
+Page 2 of 11 - Amending Multnomah County Code Chapter 11 — Revenue and Taxation
+* * *
+(D) 	 Before any such refund may be granted, the person claiming such refund must present to
+the Division a statement accompanied by copies of the original invoices showing such purchases;
+provided that in lieu of such invoices, refunds submitted under division subsection (A)(4) of this section
+shall be accompanied by infounation showing source of fuel used and evidence of payment of fee or tax
+to the state in which the fuel was used. The statement shall be made over the signature of the claimant,
+and shall state the total amount of such fuel for which is entitled to be reimbursed under division (A) of
+this section subsection (A). The Division, upon the presentation of the statement and invoices, or other
+required documents, shall cause to be repaid to the claimant from the fees collected on motor vehicle
+fuel such fees so paid by the claimant.
+Section 4. 	 MCC § 11.223 is amended as follows:
+§ 11.223 	 REFUND OF FEE ON FUEL USED IN OPERATION OF VEHICLES OVER
+CERTAIN ROADS OR PRIVATE PROPERTY.
+(A) 	 Except where a refund is authorized by §§ 11.225 or 11.226, upon compliance with
+division subsection (B) or (C) of this section the Division shall refund, in the manner provided in
+division subsection (B) or (C) of this section, the fee on motor vehicle fuel that is used in the operation
+of a motor vehicle:
+(1) By any person on any road, thoroughfare or property in private ownership.
+(2) By any person on any road, thoroughfare or property, other than a state highway,
+county road or city street, for the removal of forest produces, as defined in ORS 321.005, or the products
+of such forest products converted to a form other than logs at or near the harvesting site, or for the
+construction or maintenance of the road, thoroughfare or property, pursuant to a written agreement or
+permit authorizing the use, constructions or maintenance of the road, thoroughfare or property, with or
+by:
+(a) 	 An agency of the United States;
+* * *
+(d) 	 A licensee of any agency named in division subsections (A)(2)(a), (b) or
+(c)  of this section.
+* * *
+(4) 	 By any person on any county road for the removal of forest products, as defined
+in ORS 321.005, or the products of such forest products converted to a form other than logs at or near
+the harvesting site, if:
+(a) 	 The use of the county road is pursuant to a written agreement entered into
+with, or to a permit issued by, the State Board of Forestry, the State Forester or an agency of the Unites
+States, authorizing such person to use such road and requiring such person to pay for or to perform the
+construction or maintenance of the county road;
+* * *
+(c) 	 Copies of the agreement or permits required by division subsections
+(A)(4)(a) and (b) of this section are filed with the Division.
+Page 3 of 11 - Amending Multnomah County Code Chapter 11— Revenue and Taxation
+(B) 	 Except for a farmer subject to division subsection (C) of this section, the person or
+agency, as the case may be, who has paid any fee on such motor vehicle fuels imposed or directed to be
+paid, as provided by this subchapter, is entitled to claim a refund of the fee so paid on such fuels or for
+the proportionate part of the fee paid on fuels used in the operation of such vehicles, when part of the
+operations are over such road, thoroughfares or property. The proportionate part shall be based upon the
+number of miles traveled by any such vehicle over such roads, thoroughfares or property as compared to
+the total number of miles traveled by such vehicle. To be eligible to claim such refund the person or
+agency, as the case may be, shall first establish and maintain a complete record of the operations, miles
+traveled, gallons of fuel used and other information, in such form and in such detail as the Division may
+prescribe and require, the source of supply of all fuels purchased or used, and the particular vehicles or
+equipment in which used. Whenever any such claim si received and approved by the Division, it shall
+cause the refund of fee to be paid to the claimant in like manner as provided for paying of other refund
+claims
+* * *
+(D) 	 As used in division subsections (B) and (C) of this section, FARMER includes any
+person who manages or conducts a farm for the production of livestock or crops but does not include a
+person who manages or conducts a farm for the production of forest products, as defined in ORS
+321.005, or the products of such forest products converted to a form other than logs at or near the
+harvesting site, or of forest trees unless the production of such forest products or forest trees is only
+incidental to the primary purpose of the farming operation.
+Section 5. 	 MCC § 11.233 is amended as follows:
+§ 11.233 	 USE OF FREE.
+(A) Except as provided by division subsection (B) of this section the fees collected under this
+subchapter, after deducting the costs of administration and collection, shall be used by the county solely
+for the purposes prescribed by the state constitution for the use of taxes upon motor vehicle fuel, but
+may be shared by agreement with a city or cities situated in whole or in part within its boundaries for
+those purposes.
+(B) (1) On or before August 15 of each year, the Director of the Department of County
+Management shall determine as accurately as possible the amount of the motor vehicle fuel tax imposed
+under §§ 11.201 through 11.218 of this subchapter during the preceding fiscal year with respect to fuel
+purchased and used to operate or propel motorboats. The amount deteimined shall be reduced by the
+amount of any refunds for motorboats used for commercial purposes actually paid during the preceding
+year on account of § 11.219(A)(1) of this subchapter.
+(2) The amount of the estimate made under division subsection (B)(1) of this section as
+reduced by refunds shall be transferred to Metro on or before September 30 of each year to be used
+solely for the acquisition, development, administration, operation, and maintenance of any Metro-owned
+or operated facility which was transferred by the county to Metro.
+* * *
+Section 6. 	 MCC § 11.300 is amended as follows:
+Page 4 of 11 - Amending Multnomah County Code Chapter 11 — Revenue and Taxation
+§ 11.300 	 DEFINITIONS.
+For the purpose of this subchapter, the following definitions apply unless the context requires a
+different meaning.
+CAR SHARING ORGANIZATION.  A profit or non profit organization with membership
+requirements that provides the use of motor vehicles exclusively to its members for a fee.
+COMMERCIAL ESTABLISHMENT. Any person or other entity, any part of whose business
+consists of providing the use of motor vehicles for a rental fee, including a vehicle sharing program, as
+defined in ORS 742.585.
+* * *
+EXCISE TAX FUND INTERGOVERNMENTAL AGREEMENT. The intergovernmental
+agreement dated April 1, 2000, entered into b and between. Multnomah Coun and Metro for the
+•u •ose of su o 	 s•ecified facilities and •ro•rams includin• the Oregon Convention Center the
+Portland'5 Centers for the Arts, and the Regional Arts and Cultural Council.
+OCC COMPLETION BONDS. Means those certain revenue bonds issued to expand and
+complete the Oregon Convention Center (OCC), as described in the Excise Tax Fund Intergovernmental
+Agreement.
+PAY AND SECURE DEBT SERVICE. The payment of principal of, interest on, and
+redemption premium, if any, of certain bonds described in the Visitor Facilities Intergovernmental
+Agreement.
+secure the bonds.
+* * *
+RENTAL FEE. The gross fee and charges, whatever the basis of their calculation, paid to a
+commercial establishment by any person for the rental of a motor vehicle. The rental fee includes,
+without limitation, the base rate charged for the motor vehicle, the cost of all options and rented
+accessories  and an additional e 	 ment and services included in the • ross rental fee char • e. Rental
+fee does not include the cost of fuel purchased from the commercial establishment for the motor vehicle
+if the fuel is subject to the fee set forth in § 11.201.
+VISITOR FACILITIES INTERGOVERNMENTAL AGREEMENT. The Second Amended
+and Restated Visitor Facilities Intergovernmental Agreement entered into by and between Multnomah
+Coun the Ci of Portland and Metro for the 	 ose of susortin regional visitor facilities visitor
+industry development, and programs and facilities that contribute to the vibrancy, livability, and
+desirability of the Portland-Multnomah County area, including but not limited to mental health and drug
+addiction treatment, crisis assessment and treatnient, the homeless youth continuum of care, shelter
+services, and public safety.
+Page 5 of 11 - Amending. Multnomah County Code Chapter 11 — Revenue and Taxation
+Section 7. 	 MCC § 11.301 is amended as follows:
+§ 11.301 	 IMPOSITION OF TAX.
+(A) 	 A tax is imposed on every person renting a motor vehicle from a commercial
+establishment doing business in the county, if the rental is for a period of 30 days or less. A rental must
+have a duration of 30 days or less if the actual possession or use by the person renting the vehicle
+terminates not later than the end of a 30-day period or if any contract governing the rental has a duration
+of 30 days or less.
+* * *
+(C) 	 The surcharge of the tax imposed by subsection (A) is equal to 2.5% of the rental fee
+charged by the commercial establishment for the rental. This surcharge shall remain in force as long as
+the relevant bonds OCC Completion Bonds are outstanding, as described in § 11.402(B)(2) the Visitor
+Facilities Intergovernmental Agreement arc outstanding.
+* * *
+Section 8. 	 MCC § 11.304 is amended as follows:
+§ 11.304 	 USE OF TAXES.
+(A) The 14.5% base taxes collected under this subchapter are general fund revenues of the
+county, except that the portion of taxes attributable to gasoline sales are subject to the limitations on use
+prescribed by the constitution and laws of the state.
+(B) All 2.5% surcharge taxes collected under this subchapter will be deposited in used to pay
+and secure debt service for so long as required under the Visitors Facilities Trust Account (VFTA)
+created by 11.401(E) and allocated as provided by 11A 02(B) Intergovernmental Agreement.
+Section 9. 	 MCC § 11.305 is amended as follows:
+§ 11.305 	 EXEMPTIONS.
+The tax imposed by 11.301 is not applicable to:
+(A) 	 A rental fee that state or federal law exempts from the tax.
+* * *
+resident of the exemption area.
+Section 10.  MCC § 11.399 is amended as follows:
+§ 11.399 	 PENALTY.
+(A) 	 In addition to any other penalties prescribed by law, any commercial establishment which
+fails to collect and remit all taxes collected by it or otherwise fails to comply with this subchapter shall
+be subject to a penalty equal to 50% of any deficiency in the taxes remitted by it, or to such lesser
+penalty as the director may assess.
+Page 6 of 11 - Amending Multnomah County Code Chapter 11 — Revenue and Taxation
+(B) 	 The penalty imposed by division subsection  (A) of this section shall be a debt owed by
+the commercial establishment to the county.
+* * *
+Section 11.  MCC § 11.400 is amended as follows:
+§ 11.400 	 DEFINITIONS.
+For the purpose of this subchapter, the following definitions apply unless the context requires a
+different meaning.
+* * *
+rogram or programs to attract visitors to the Portland area to
+allocated  in  MCC  § 11.402(A).
+EXCISE TAX FUND INTERGOVERNMENTAL AGREEMENT. The intergovernmental
+agreement dated April 1, 2000, entered into by and between Multnomah County and Metro for the
+•urpose of supporting specified facilities and programs including the Oregon Convention Center, the
+Portland'5 Centers for the Arts, and the Regional Arts and Cultural Council.
+FACILITIES. The Oregon Convention Center, the Portland Center for the Performing Arts, the
+Exposition Center, and neighborhood arts programs.
+* * *
+. _rams aimed at incr sed community and educational
+exposure to arts and involvement in  artistic endeavors to enhance the quality of  life thus incr asing
+tourism and increasing support for cultural programs.
+* * *
+PAY AND SECURE DEBT SERVICE. As stated  in MCC 11.402(A)(2)(a) and  11.402(B)(3)
+"pay and secure debt service" means the. The  payment of principal of, interest on, and redemption
+premium, if any, of Oregon Convention Center Hotel Project Bonds certain bonds described in the
+Visitor Facilities Intergovernmental Agreement
+reserve fund, if  any established to secure the Bbonds.
+* * *
+VISITOR FACILITIES INTERGOVERNMENTAL AGREEMENT. That intergovernmental
+agreement The Second Amended and Restated Visitor Facilities Inter overnrnental A•reement entered
+into by and between Multnomah County, the City of Portland, and Metro for the purpose of supporting
+regional visitor facilities and, visitor industry development in,  and programs and facilities that contribute
+to the vibrancy, livabilit ,and desirability of  the Portland-Multnomah County area,  including but not
+limited to mental health and dru• addiction treatment, crisis assessment and treatment the homeless
+youth continuum of care, shelter services, and public safety.
+Page 7 of 11 - Amending Multnomah County Code Chapter 11 — Revenue and Taxation
+VISITORS FACILITIES TRUST ACCOUNT (VFTA).  The excise tax account created by
+MCC § 11.401(E) to recei
+Intergovernmental Agreement.
+Section 12. MCC § 11.401 is amended as follows:
+§ 11.401 	 TAX IMPOSED.
+(A) FEW A tax is imposed on each transient for the privilege of occupancy in any hotel in the
+county, each transient shall pay a tax of 11.5% of the rent charged by the operator.
+* * *
+After deductions for administration costs and any refunds or credits authorized by
+- - 	 ated as provided for in subsection (B), (C), (D) and
+(E) of this section.
+(B) Each transient shall pay a tax of 11.5% of the rent charged by the operator, with this tax
+corn  rised of the followin• base rate and surchar' es:
+.CD 	 The base rate of the tax imposed by subsection (A) is equal to 5%. It will be
+allocated to the county general fund, and is available for general fund expenditures.
+(C)(2)A first surcharge rate of the tax imposed by subsection (A) is equal to 1% and will
+procurement and service of county convention business and tourism.
+(D)ffl A second surcharge of the tax imposed by subsection (A) is equal to 3% and will
+be allocated to the Excise Tax Fund and dedicated to the expenditures specified in subsection 11.402.
+This surcharge shall remain in force as long as required under the Visitor Facilities and Excise Tax Fund
+Intergovernmental Agreements.
+(E1)(41 A third surcharge of the tax imposed by subsection (A) is equal to 2.5% and will
+be allocated to the VFTA that is separate from the Excise Tax Fund, and dedicated to the expenditures
+specified in subsection 11.402(B). This surcharge shall remain in force as long as the relevant bonds
+described in required under subsection 11.102(B)(2) and (3) the Visitor Facilities and Excise Tax Fund
+Intergovernmental Agreements are outstanding.
+Section 13. MCC § 11.402 is amended as follows:
+§ 11.402 	 DISTRIBUTION USE OF EXCISE TAX FUND AND VISITOR FACILITIES
+TRUST ACCOUNT PROCEEDS.
+(A) 	 The 3% surcharge imposed by Section 11.401(D) and allocated to the Excise Tax Fund
+shall be collected and distributed annually as follows:
+(3)
+(1) 	 Before paying the surcharge imposed by subsection (D), as required by § 11.407,
+collecting the tax.
+Page 8 of 11 - Amending Multnomah County Code Chapter 11 — Revenue and Taxation
+(2) 	 The County will pay from the proceeds of the surcharge that is allocated to the
+Excise Tax Fund as set forth in paragraphs (a) through (e) below, with the exception of taxes collected
+by an Oregon Convention Center Hotel to support bond repayment as specified in (B)(3) of this section,
+which taxes will be deposited into the VFTA.
+To Metro, for the operation of the Oregon Convention Center, $3,800,000
+qqual to the greater of the change in the CPI or the overall change in the proceeds of the tax. If the
+the proceeds to pay and secure debt service on Oregon Convention Center Hotel Project Bonds, also
+referred to as OCC Hotel Project Bonds, and on Bonds issued for the purpose of making capital
+improvements to the Oregon Convention Center.
+el
+plus annual percentage incr-uses equal to the lesser of the change in the CPI or the overall change in the
+proceeds of the tax.
+(c) To the government entity responsible for operating the Portland '5 Center
+for the Arts' for a program or programs for cultural tourism, to be administered through a contract with
+Travel Portland, and in collaboration with the Regional Arts and Culture Council, $200,000 in fiscal
+year 1997 98 and, in each fiscal y-ar thereafter, tha 	 • • •
+the lesser of the change in the CPI or the overall change in the proceeds of the tax:
+(d) To the Regional Arts and Culture Council, any remaining balance up to
+$200,000 of the proceeds of the tax after the payments in subsections (a) through (c) arc made, to be
+allocated as follows:
+1. 	 $100,000 for neighborhood arts;
+$100,000 to broaden participation in and visitors to the region's
+arms of the greater Portland metropolitan region.
+• :•• • 	 "C 	 I C - "C
+payments in subsections (a) through (e) are made will be allocated towards replacement, renewal,
+determined by Metro.
+(3)
+Excise Tax Fund.
+
+Earnings on proceeds allocated to the Excise Tax Fund will be credited to the
+
+W(1) The amounts specified in subsection (2) above are subject to review by the Board every
+five years. After deductions for refunds or credits, including interest thereon, authorized by this
+subchapter, the proceeds collected under § 11.401(A) will be used for related administrative costs and as
+set forth below:
+(1) 	 The base taxes collected under §  11.401(B)(1) and the surcharge taxes collected
+Page 9 of 11 - Amending Multnomah County Code Chapter 11 — Revenue and Taxation
+{a)
+under § 11.401(B)(2) are general fund revenues of the county.
+(2 (B) The surcharge taxes collected under § 11.401(B)(3) will be used, for so long as
+required under The 2.5% surcharge described by section 11.101(E) and allocated to the VFTA shall be
+collected and distributed according to the terms of the Visitor Facilities and Excise Tax Fund
+Intergovernmental Agreements: (a) to support regional visitor facilities, visitor industry development,
+and •ro • rams and facilities that contribute to the vibrant livabili and desirabili of the re i ion
+including but not limited to mental health and drug addiction treatment, crisis assessment and treatment,
+• $ 	 _alto pay and secure debt
+service; to pay for program and administrative costs allowed under the Visitor Facilities and Excise Tax
+Fund Inter• overnmental A.reements; and (c) to pay and secure debt service; and between the City,
+County, and Metro. Said distribution shall be made in the following order of priority in amounts
+specified
+(3) 	 The surcharge taxes collected under  § 11.401(B)(4) will be used, for so long as
+re lured under the Visitor Facilities and Excise Tax Fund Inter overnmental A reements: a to su ort
+regional visitor facilities, visitor industry development, and programs and facilities that contribute to the
+vibrant livabili and desirabilit of the rep ion includin• but not limited to mental health and d u•
+addiction treatment, crisis assessment and treatment, the homeless youth continuum of care, shelter
+services, and public safety; (b) to pay for program and administrative costs allowed under the  isitor
+Facilities and Excise Tax Fund Intergovernmental Agreements and (c) to pay and secure debt  service for
+so long as the relevant bonds described in the Visitor Facilities Agreement:,
+(1) 	 Before paying the tax imposed by subsection (E) are required by § 11.407, the
+operator may deduct an amount equal of 5% of the portion of the tax allocated to VFTA. This 5% may
+(2) To the City of Portland for payment of debt service on bonds issued for the
+Oregon Convention Center, Portland'5 Centers of the Arts, and Civic Stadium (now known as Jeld Wen
+Field);
+(3) To Metro to pay and secure debt service on the Oregon Convention Center Hotel
+Project Bonds, also referred to as the OCC Hotel Project Bonds;
+Marketing related to:
+(i) Oregon Convention Center;
+(ii) County Visitor Facilities;
+{iv) 	 Convention Visitor Public Transit Passes;
+(v) Visitor Development Fund, Inc.
+(vi) Portland'5 Center for the Arts; and
+(vii) Rose Quarter Facilities and City Tourism Support.
+Page 10 of 11 - Amending Multnomah County Code Chapter 11 — Revenue and Taxation
+THIRD READING AND ADOPTION: — 	 February 20, 2020
+vOR MUD',
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+-
+Deborah Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By
+William Masson, Senior Assistant County Attorney
+{5) 	 The Restricted Reserve and Bond Redemption Reserve are outstanding.
+Section 13. MCC § 11,419 is amended as follows:
+§ 11.419 	 CREDIT AGAINST CITY TAX.
+(A) Any person subject to the payment or collection of the 11.401(B) 5% base tax and the
+11.401(C) 1% surcharge under §§ 11.401(B)(1) and (2) is entitled to a credit against the payment of the
+tax in the amount due any city within the county for a transient lodgings tax for the same occupancy.
+(B) No person subject to the surcharge taxes imposed by _§.11.401 (D) and 11.401(E)(31 :
+f4  is entitled to a credit against the payment of those taxes. The 3% surcharge imposed by 11.401(D)
+and the 2.5% surcharge imposed by 11A 01(E) The surcharges are due and payable in accordance with
+this subchapter regardless of the amount due any city within the county for a transient lodging tax for the
+same occupancy made taxable under this subchapter.
+Section 14. MCC § 11,420 is amended as follows:
+§ 11.420 	 DELINQUENCY AND INTEREST.
+(A) 	 Any operator who has not been granted an extension of time for remittance of tax due and
+who fails to remit any tax imposed by this subchapter prior to delinquency must pay a penalty of 10% of
+the amount of the tax due in addition to the amount of the tax.
+* * *
+(C) If the tax administrator deteimines that the non-payment of any remittance due under this
+subchapter is due to fraud or intent to evade, a penalty of 25% of the amount of the tax will be added to
+the penalties stated in divisionssubsections (A) and (B) of this section.
+FIRST READING: 	 January 9, 2020
+SECOND READING AND AMENDMENT: 	 February 13, 2020
+Page 11 of 11 - Amending Multnomah County Code Chapter 11 — Revenue and Taxation

@@ -1,0 +1,93 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-ordinance-amending-mcc-chapter-5-relating-to-campaign-financ
+title: 'Ordinance Amending Mcc Chapter 5 Relating To Campaign Finance.'
+doc_type: ordinance
+citation: 'Ordinance Amending Mcc Chapter 5 Relating To Campaign Finance.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/ordinance_amending_mcc_chapter_5_relating_to_campaign_finance./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: d0e268f15601e8b95a0487f51c21fc0f46b21c4bc9376144310bdbf463175699
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 260.005
+    - ORS 260.039
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance Amending Mcc Chapter 5 Relating To Campaign Finance. (Ordinance Amending Mcc Chapter 5 Relating To Campaign Finance.)
+
+## At a glance
+
+Ordinance Amending Mcc Chapter 5 Relating To Campaign Finance. — orders of Multnomah County. 7 pages.
+
+## Full text
+
+Page 1 of 7 – Amending MCC Chapter 5 Relating to Campaign Finance
+BEFORE THE BOARD OF COUNTY COMMISSIONERS FOR MULTNOMAH COUNTY, OREGON  ORDINANCE NO. 1319  Amending MCC Chapter 5 Relating to Campaign Finance.  (Language stricken is deleted; underlined language is new.)  The Multnomah County Board of Commissioners Finds:  a. In November 2016, voters approved amendments to the Multnomah County Charter relating to campaign finance in Multnomah County candidate elections, and the Board implemented those amendments by adopting provisions in Multnomah County Code (MCC) Chapter 5 in 2017.  b. The campaign finance program is implemented and administered by the County Elections Division. As described in MCC 5.204(C), the Elections Division Director has adopted the Contribution Limit and Disclosure Administrative Rules (CLDR) to carry out and enforce the campaign finance provisions. In addition to detailing the particulars of the program’s enforcement process, the CLDR supplement and clarify definitions and requirements established in Code.  c. After court rulings on specific campaign finance provisions and experience administering the campaign finance program during multiple Multnomah County candidate election cycles, there is a need to update the Code to provide clarity to candidates and the public regarding campaign finance. This entails consolidating and clarifying campaign finance definitions; repealing unenforceable expenditure limits from the Code; and adopting additional enforcement language.   d. Consistent with the Charter, current County Code incorporates by reference relevant definitions from Oregon Revised Statutes (ORS) Chapter 260 as they existed on November 8, 2016.  This ordinance removes the incorporation by reference of the 2016 ORS definitions and instead lists all defined campaign finance terms, with reference to the complete definitions adopted into CLDR. The definitions in CLDR incorporate the relevant text of the 2016 ORS definitions, with modifications to align the definitions with the County’s campaign finance provisions and court rulings.  Consolidating all defined terms into MCC 5.200 with references to complete definitions in the CLDR will make the Code more user friendly.   e. In Multnomah County v. Mehrwein, 366 Or 295 (2020), the Oregon Supreme Court held that MCC 5.202(A) and (C), which relate to expenditures and independent expenditures, are invalid.  This ordinance removes those provisions from County Code, consistent with that ruling, to make County Code clearer and easier for the public to understand and use.  However, the expenditure and
+
+Page 2 of 7 – Amending MCC Chapter 5 Relating to Campaign Finance
+independent expenditure provisions remain in County Charter Section 11.60, should the law change in the future to allow those provisions to be operative.    Multnomah County Ordains as Follows:  Section 1.  MCC 5.200 is amended as follows:  § 5.200 - DEFINITIONS.  Unless otherwise indicated by the text or context of MCC 5.200 through MCC 5.206 this Section, all the following terms used in MCC 5.200 through MCC 5.206 shall have the definitions below or set forth in the Contribution Limit and Disclosure Administrative Rules (CLDR) Chapter 260 of Oregon Revised Statutes, as of November 8, 2016.  Terms found therein or defined below and in CLDR are capitalized in MCC 5.200 through MCC 5.206 this Section.  CANDIDATE.  Has the meaning set forth in CLDR.     CANDIDATE COMMITTEE. Has the meaning set forth in CLDR. at ORS 260.039 – 260.041, as of November 8, 2016, for the term “principal campaign committee.”  CLDR. Means Contribution Limit and Disclosure Administrative Rules.  CLEARLY IDENTIFIED. Means (i) the name of the cCandidate involved appears; (ii) a photograph or drawing of the cCandidate appears; or (iii) the identity of the cCandidate is apparent by unambiguous reference   COMMUNICATION.   (A) Means any written, printed, digital, electronic or broadcast communication in support of or opposition to a cClearly iIdentified cCandidate in a Multnomah County Candidate Election but does not include communication:  (A) (1) that is funded using a total of $345 or less;  (B) (2) by means of small items worn or carried by Individuals;  (C) (3) bumper stickers;  (D) (4) Small Signs; or  (E) (5) a distribution of five hundred (500) or fewer substantially similar pieces of literature within any 10 business-day period.  (B) For purposes of this definition, written, printed, digital, electronic or broadcast communications include but are not limited to text messages; videos;
+
+Page 3 of 7 – Amending MCC Chapter 5 Relating to Campaign Finance
+websites; Social Media posts; emails; graphics with interchanging formats or photos; still photos transmitted electronically; and automated or autogenerated communications prepared by an Individual or Entity and distributed by volunteers using their own devices in support of or opposition to a Clearly Identified Candidate in a Multnomah County Candidate Election.  CONTRIBUTION. Has the meaning set forth in CLDR. ORS 260.005(3) and 260.007, as of November 8, 2016, except it does not include (1) funds provided by government systems of public funding of campaigns or (2) providing rooms, phones, and internet access for use by a candidate committee free or at a reduced charge.  CREDIT UNION. Has the meaning set forth in CLDR.  * * * ELECTION CYCLE.  (A) Generally, the period between an election at which a cCandidate is elected and the next election for that same office, disregarding any intervening primary or nominating election, any recall election, or any special election called to fill a vacancy.      (B) For any recall election: the period beginning the day that the recall election is called or declared and ending at midnight of the day of the recall election.  (C) For any special election called to fill a vacancy: the period beginning the day that the special election is called or declared and ending at midnight of the day of the election.    (1) The Election Cycle for a special election is inclusive of a special runoff election if no Candidate receives 50% plus one vote of votes cast at an election to fill a vacancy.  ENTITY.  Means any corporation, partnership, limited liability company, proprietorship, or other form of organization which creates an entity which is legally separate from an Individual, including Candidate Committees, Political Committees, and Small Donor Committees.   EXPENDITURE. Has the meaning set forth in CLDR. at ORS 260.005(8) and 260.007, as of November 8, 2016, except that it does not include Communication to its members, and not to the public, by a Membership Organization not organized primarily for the purpose of influencing the outcome of contests.  EXTRANATIONAL INSTITUTION. Has the meaning set forth in CLDR.   FINANCIAL INSTITUTION. Has the meaning set forth in CLDR.
+
+Page 4 of 7 – Amending MCC Chapter 5 Relating to Campaign Finance
+ INDEPENDENT EXPENDITURE. Has the meaning set forth in CLDR.   * * *   INSURED INSTITUTION. Has the meaning set forth in CLDR.  * * *  POLITICAL COMMITTEE. Has the meaning set forth in CLDR.  * * *  SMALL DONOR COMMITTEE. Means a Political Committee which cannot accept has never accepted Contributions in amounts exceeding the Small Donor Committee qualifying amount in effect when the Contribution is accepted.  The current Small Donor Committee qualifying amount is one hundred fifteen dollars ($115) per Individual contributor per calendar year.  * * *  SOCIAL MEDIA. Has the meaning set forth in CLDR.  Section 2.  MCC 5.201 is amended as follows:  § 5.201 CONTRIBUTIONS IN MULTNOMAH COUNTY CANDIDATE ELECTIONS.  (A) An Individual or Entity may make Contributions only as specifically allowed to be received in this Section.      (B) A Candidate or Candidate Committee may receive only the following contributions during any Election Cycle:    (1) Not more than five hundred sixty-eight dollars ($568) from an Individual or Political Committee other than a Small Donor Committee;     (2) Any amount from a Small Donor Committee; and    (3) No amount from any other Entity.     (C) For purposes of subsection (A) and (B), a Contribution is not considered to have been made or received if refunded or declined:  (1) Except as provided in subsection (C)(2), within 30 calendar days of the date of receipt by the Candidate or their Candidate Committee;
+
+Page 5 of 7 – Amending MCC Chapter 5 Relating to Campaign Finance
+(2) For a Contribution received during the period beginning 42 calendar days before a primary, general, recall, or special election, within seven calendar days of the date of receipt by the Candidate or their Candidate Committee.  (D) Individuals shall have the right to make cContributions by payroll deduction by any private or public employer upon the employer’s agreement or if such deduction is available to the employees for any other purpose.  Section 3.  MCC 5.202 is amended as follows:  § 5.202 EXPENDITURES IN MULTNOMAH COUNTY CANDIDATE ELECTIONS.  (A)  No Individual or Entity shall expend funds to support or oppose a Candidate, except those collected from the sources and under the Contribution limits set forth in this Section.     (B)  An Entity shall register as a Political Committee within three (3) business days of making aggregate Independent Expenditures exceeding $865 in any Election cCycle to support or oppose one or more Candidates in any Multnomah County Candidate Election.     (C)  Only the following Independent Expenditures are allowed per Election Cycle to support or oppose one or more Candidates in any particular Multnomah County Candidate Election:     (1) An Individual may make aggregate Independent Expenditures of not more than five thousand dollars ($5,000).      (2) A Small Donor Committee may make Independent Expenditures in any amounts from funds contributed in compliance with Section 5.200.    (3) A Political Committee may make aggregate Independent Expenditures of not more than ten thousand dollars ($10,000), provided that the Independent Expenditures are funded by means of contributions to the Political Committee by Individuals in amounts not exceeding five hundred dollars ($500) per Individual per year.  Section 4.  MCC 5.204 is amended as follows:  § 5.204 IMPLEMENTATION AND ENFORCEMENT.  (A) A violation occurs when an Individual or Entity fails to comply with any provision of MCC 5.200 through MCC 5.203make disclosures in accordance with all requirements of MCC 5.203.
+
+Page 6 of 7 – Amending MCC Chapter 5 Relating to Campaign Finance
+(B) Each violation of any provision in this Section will be punishable by imposition of a civil fine, which is not less than two or more than twenty times the amount of the unlawful Contribution or Expenditure or Independent Expenditure.   (1) For purposes of MCC 5.203, the amount of an unlawful Contribution, Expenditure, or Independent Expenditure is the amount that each Individual or Entity uses to fund a Communication that does not comply with MCC 5.203.      (2) Civil fines will be issued to each Individual or Entity that funds a Communication that does not comply with MCC 5.203, based on the amount that each Individual or Entity paid to fund the noncompliant Communication.  (C) The Director will promulgate administrative rules to carry out and enforce MCC 5.200 through3 and MCC 5.204.  The Director will enforce the provisions of MCC 5.200 through MCC 5.2045.203 and the administrative rules adopted pursuant to this Section.   (D) Any person may file a written complaint of a violation of MCC 5.200 to MCC 5.2036 with the Director.     (E) The Director, otherwise having reason to believe that a violation of any provision has occurred, will issue a complaint regarding such violation.  (F) Upon receipt or issuance of a complaint, the Director will examine the complaint to determine whether a violation has occurred and will make any investigation necessary.  (G) The Director may issue subpoenas to compel the production of records, documents, books, papers, memoranda or other information necessary to determine compliance with the provisions of MCC 5.200 to 5.2036.      (H) The Director will find a violation occurred if the Director determines that there is sufficient evidence to show that it is more likely than not that an Individual or Entity violated MCC 5.200 through MCC 5.203.    (I) Upon finding a violation of the requirement for timely disclosure set forth in MCC 5.203, the Director:     (1) Will undertake an investigation to determine the true original sources of the Contributions and/or Independent Expenditures used to fund the Communication at issue; and     (2) Will issue a statement containing the available information about the involved donor(s) required by MCC 5.203 to:
+Page 7 of 7 – Amending MCC Chapter 5 Relating to Campaign Finance
+(a) The complainant, if any;
+(b) Each Individual and Entity who is the subject of the
+complaint; and
+(c) Any Individual or Entity, including a news organization, who
+has requested in writing to receive such statements.
+(3) May issue a civil penalty of not less than two or more than twenty
+times the amount of the unlawful Contribution or Expenditure or
+Independent Expenditure.
+(I) (J) The County’s decision in the matter is final upon issuance.  Such decision
+will be enforced by Multnomah County.  If a civil penalty is not paid within 30 days of the
+date of the County’s final decision or completion of any judicial review, whichever is
+later, the fine then due will be increased by 25% of the original amount; if the civil
+penalty is not paid within 60 days of the date of the County’s final decision or completion
+of judicial review, whichever is later, the fine then due will be increased by 50% of the
+original amount.  At the discretion of the Director, any civil penalty not paid within 60
+days from the date of the final decision or completion of judicial review, which is later,
+may be assigned to a collection agency for collection on behalf of Multnomah County.
+Section 5. In MCC 5.200, subsection (C)(1) of the definition of “Election Cycle” is
+repealed when instant runoff ranked choice voting is implemented under Multnomah
+County Home Rule Charter Section 11.15.
+FIRST READING: December 7, 2023
+SECOND READING AND ADOPTION: December 14, 2023
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By
+     Katherine Thomas, Assistant County Attorney
+SUBMITTED BY: Margi Bradway, Director of Department of Community Services

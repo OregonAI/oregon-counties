@@ -1,0 +1,296 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-resolution-adopting-the-multnomah-county-investment-policy-for-fiscal-year-2023-and-repealing-resolution-2021-051
+title: 'Resolution Adopting The Multnomah County Investment Policy For Fiscal Year 2023 And Repealing Resolution 2021-051.'
+doc_type: ordinance
+citation: 'Resolution Adopting The Multnomah County Investment Policy For Fiscal Year 2023 And Repealing Resolution 2021-051.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_adopting_the_multnomah_county_investment_policy_for_fiscal_year_2023_and_repealing_resolution_2021-051./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 619567acfd974ef63ad85db1f0dba94a9dfb7ed11327e1f86aee672f72d0f3d1
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 294.035
+    - ORS 294.040
+    - ORS 294.052
+    - ORS 294.135
+    - ORS 294.810
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Adopting The Multnomah County Investment Policy For Fiscal Year 2023 And Repealing Resolution 2021-051. (Resolution Adopting The Multnomah County Investment Policy For Fiscal Year 2023 And Repealing Resolution 2021-051.)
+
+## At a glance
+
+Resolution Adopting The Multnomah County Investment Policy For Fiscal Year 2023 And Repealing Resolution 2021-051. — orders of Multnomah County. 26 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO.
+Adopting the Multnomah County Investment Policy for Fiscal Year 2023 and Repealing Resolution
+2021-051.
+The Multnomah County Board of Commissioners Finds:
+a. ORS 294.135 requires the County to adopt a written investment policy.
+b. County funds are managed and invested with three main objectives: Safety of Principal, Strong
+Liquidity, and Yields/Returns that meet or exceed investment portfolio performance
+benchmarks.
+c. Investment Portfolio maturity constraint for 10 percent of total portfolio will be updated from a
+constraint of under 30 days to under 90 days.
+d. The policy revision will enhance our ability to improve total investment portfolio yields.
+e. Investment Policy revisions were reviewed by the County’s Investment Advisory Board on April
+21st 2022.
+The Multnomah County Board of Commissioners Resolves:
+1. The Board adopts the attached Multnomah County Investment Policy (document dated May
+2022).
+2. The Chief Financial Officer, or their designee, is authorized to administer the Investment
+Policy.
+3. This resolution repeals and replaces the previous Investment Policy adopted by Resolution
+No. 2021-051.
+ADOPTED this 16th day of June, 2022.
+SUBMITTED BY: Eric Arellano, Chief Financial Officer, County Management
+2022-056
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY FOR
+MULTNOMAH COUNTY , OREGON
+By
+Jenny M. Madkour, County Attorney
+Deborah Kafoury, Chair
+BOARD OF COUNTY COMMISSIONERS FOR
+MULTNOMAH COUNTY , OREGON
+Investment Policy
+May 2022
+Table of Contents
+ADOPTION
+RESOLUTION
+3I. INTRODUCTION
+4II. GOVERNING
+AUTHORITY
+4III. SCOPE
+5IV. GENERAL
+OBJECTIVES
+5V. STANDARDSOF
+CARE
+6VI. TRANSACTION
+COUNTERPARTIES
+, BROKER
+DEALERS
+, BANK
+DEPOSITORIESAND
+INVESTMENT
+ADVISORS
+7VII. ADMINISTRATION
+, OPERATIONSAND
+CONTROLS
+8VIII. SUITABLEAND
+AUTHORIZED
+INVESTMENTS
+10IX. INVESTMENT
+PARAMETERS
+13X. INVESTMENTOF
+PROCEEDSFROM
+DEBT
+ISSUANCE
+15XI. COMMUNITY
+ADVANTAGE
+BANKING
+PROGRAM
+15XII. GUIDELINE
+MEASUREMENTAND
+ADHERENCE
+16XIII. REPORTINGAND
+DISCLOSURE
+16XIV. POLICY
+MAINTENANCEAND
+CONSIDERATIONS
+17DEFINITIONS
+17ADDENDUM A 21ADDENDUM B 22ADDENDUM C 23ADDENDUM D 24
+Adoption Resolution
+I. Introduction
+This Investment Policydefines theparameters withinwhichfunds heldbytheMultnomahCountyfundbalances are to be invested. This policy formalizes the framework, pursuant to ORS 294.135, forMultnomahCounty’sinvestmentactivitiestoensureeffectiveandjudiciousmanagementoffundswithinthe scope of this policy.
+These guidelines are intended to be broad enough to allow designated investment professionals tofunction properly within the parameters of responsibility and authority, yet specific enough toadequately safeguard the investment assets.
+Effective cashmanagement is recognizedas essential togoodfiscal management. Cashmanagement isdefined as the process of managing monies in order toensuremaximumcashavailability. TheCountyshall maintain a comprehensive cash management program that includes collection of accountsreceivable, prudent investment of its available cash, disbursement of payment in accordance withinvoice terms, and the management of banking services.
+Portfolio StrategyTheCountymanagesitsinvestmentportfoliointhreeseparatefunds.TheCoreFund,LiquidityFund,andtheLibraryBondFund. TheCorefundis definedas operatingfundbalances whichexceedtheCounty’scurrent year liquidityneeds. Ingeneral, Corefunds areinvestedlongerthanoneyearontheyieldcurvetodiversifythematuritystructureoftheoverallportfolio.ThegoaloftheCorefundistoprovidereturnsthat either meet or exceed portfolio benchmark and control the riskandmarket pricechanges of theportfolio by keeping the duration within established target ranges. The Liquidity fund is sufficient tomeet all expected liabilities for the next fiscal year along with anestablishedcontingencyamount forunexpected liabilities. Annually the County quantifies froma thoroughanalysis of historical budgetaryflows and future budgetary requirements the optimal Liquidity and Core investment balances. TheLibrary Bond Fund comprises bondproceeds fromMeasure26-211, acapital bondmeasuretoexpandand modernize library spaces and balance library services more fairly across Multnomah County.
+TheCountywill complywithFederalandStatelaws,IRSRegulations,GAAPandGASBguidelines,OregonState Treasury guidelines and GFOA best practices.
+Chief Investment Officer or designee is defined as the Investment Officer throughout this policy.
+II. Governing Authority
+It is the policy of Multnomah County that theadministrationof its funds andtheinvestment of thosefunds shall be handled with the highest public trust. Investments shall bemadeinamanner that willassuresecurityof principal. Parameters will beset tolimit maturities andincreasediversificationoftheportfolio while meeting the dailycashflowneeds of theCountyandconformingtoall applicablestateand county requirements governing the investment of public funds. The receipt of a market rate ofreturn will be secondary to safety and liquidity requirements. It is the intent of the County to be incompletecompliancewithlocal, state, andfederallaw. Theearningsfrominvestmentswillbeusedinamanner that best serves the public trust and interests of the County.
+Multnomah County’s investment program shall be operated in conformance with Oregon RevisedStatutes and applicable federal law. Specifically, this investment policy is written inconformancewithORS294.035; 294.040; 294.052; 294.135; 294.145;and294.810.Allfundswithinthescopeofthispolicyare subject tolaws establishedbythestateof Oregon. Anyrevisions or extensions of thesesections ofthe ORS shall be assumed to be part of this Investment Policy immediately upon being enacted.
+III. Scope
+This investment policyapplies totheinvestingofthefinancialassetsofallfundsincludedinMultnomahCounty’s investment portfolio as defined in this policy. During theFiscal Year 2020-2021, theCounty’saverage dailybalanceof cashinvestedwas approximately$855,893,087, withthelowmonthlyaveragebalance of $383,380,294 occurring in September 2020 and the high monthly average balance of$1,351,282,779 occurring in November 2020.
+All applicable cash will beinvestedincompliancewithOregonRevisedStatutes Chapters 294and295,and all other applicable statutes, policies and other written procedures. Investment earnings of theinvestment portfolioshall beallocatedtoeligibleCountygovernmental, proprietaryandfiduciaryfundsas summarized in Addendum A.
+InvestmentsownedbyMultnomahCountyHospitalFacilitiesAuthorityandHigherEducationFacilitiesdonot fall under the purviewof MultnomahCountyor this investment policy. Funds heldbyaTrusteeorFiscal Agent areexcludedif theCountydoesnothaveinvestmentcontrol.DeferredCompensationfundsare governed by separate rules and are not covered within this policy.
+IV. General Objectives
+It is thepolicyof theCountythatallfundsshallbemanagedandinvestedwiththreeprimaryobjectives,listed in the following order of priority:
+1. Safety of PrincipalInvestments shall beundertakeninamanner that seeks toensurethepreservationof capitalinthe overall portfolio. The goal is to mitigate credit risk and interest rate risk throughdiversification, maturity constraints and credit quality.
+2. LiquidityThe investment portfolio shall remain sufficiently liquid to meet all reasonably anticipatedoperatingrequirements.Furthermore,theportfolioshouldconsistlargelyofsecuritieswithactivesecondary or resalemarkets. Aportionof theportfolioalsomaybeplacedintheOregonShortTermFundwhichprovidesnextdayliquidity. Wherepossibleandprudent,theportfolioshouldbestructured so that investments mature concurrent with anticipated demands.
+3. Yield-ReturnTheCounty’s investment portfolioshall bedesignedwiththeobjectiveofattainingamarketrateof return throughout budgetary and economic cycles, taking into account the County’s riskconstraints andliquidityrequirements.Returnconsistsofbothprincipalreturnandincomereturn(yield), andwhilesecurities maybesoldprior tomaturitytheinvestments will generallybeheldto maturity.
+V. Standards of Care
+Prudence: ThestandardofprudencetobeusedbytheInvestmentOfficerandtreasurystaffshallbethe“prudent person” standardwhichstatesthat“Investmentsshallbemadewithjudgmentandcare,undercircumstances then prevailing, which persons of prudence, discretion and intelligence exercise in themanagement of their own affairs, not for speculation, but for investment, considering the probablesafety of their capital as well as the probable income to be derived.”
+The Investment Officer and treasury staff acting in accordance with written procedures and thisinvestment policy, and exercising due diligence shall be relieved of personal responsibility for anindividual security’s credit risk or market pricefluctuations, provideddeviations fromexpectations arereported in a timely manner and that investment transactions are carriedout inaccordancewiththisinvestment policy.
+Ethics andConflicts of Interest: Countyemployeesinvolvedintheinvestmentprocessshallrefrainfrombusiness activity that could conflict with the proper execution and management of the investmentprocess, or that couldimpairtheirabilitytomakeimpartialdecisions. Suchemployeesshalldiscloseanymaterial interests infinancial institutions withwhichtheyconduct business. Theyshallfurtherdiscloseanypersonal financial/investment positions that couldberelatedtotheperformanceoftheinvestmentportfolio. Suchemployees shallatalltimescomplywiththeStateofOregonGovernmentStandardsandPractices code of ethics set forth in ORS Chapter 244.
+Delegationof Authority: TheChiefFinancialOfficerordesigneedesignatedastheInvestmentOfficerofthe County and is responsible for the daily cash management as well as all investment decisions andactivities. No person is authorized to engage in an investment transaction for the County except asprovidedunder theterms of this policy. TheInvestment Officer mayalsoauthorizetreasurystaff toactas designees with dual signature requirement.  (See Addendum B).
+Investment Advisor: Subject torequiredprocurementprocedures,theCountymayengagethesupportservices of outside professionals inregardtoits management of theinvestment portfolio, solongas itcanbedemonstratedor anticipatedthat theseservices produceanet financial advantageornecessaryfinancial protection of the County’s resources. External investment advisors shall besubject toOregonRevised Statutes and the provisions of this Investment Policy. The investment advisor shall providenon-discretionary advisory services, which require prior approval from the Investment Officer on alltransactions.
+Investment Advisory Board: The County Chair will appoint the members of the Investment AdvisoryBoard(IAB) tothree-year terms. TheIABwill consist of fivecitizenmemberswhowillbenominatedonthe basis of their expertise in financial markets and fixed income investments.  (See Addendum C).
+The IAB will meet quarterly to review the County’s investment performance and adherence to theinvestment policy. All suchmeetings will beopentothepublicandpublicizedasrequiredbythe“OpenMeetings Law.”
+Minutes of eachmeetingof theIABshallberecordedandincludedinthemanagementsummaryforthefollowing month.
+VI. Transaction Counterparties, Broker Dealers, BankDepositories and Investment Advisors
+AuthorizedFinancial Institutions andBroker/Dealers: TheInvestment Officer willmaintainandreviewannually a list of financial institutions authorized to provide the County investment and safekeepingservices, as well as a list of approved security broker/dealers.
+ApprovedBroker Dealer Process: TheInvestmentOfficermayutilizetheinvestmentadvisor’sapprovedbroker/dealer list inlieuof theCounty’s approvedlist. Theadvisor must submittheapprovedlisttotheCounty annually and provide updates as they occur. The advisor must maintain documentation ofappropriate license and professional credentials of broker/dealers on the list. The annual investmentadvisor broker/dealer review procedures include:
+FINRA Certification checki. Firm Profileii. Firm Historyiii. Firm Operationsiv. Disclosures of Arbitration Awards, Disciplinary and Regulatory Eventsv. State Registration Verificationvi. Financial reviewof acceptableFINRAcapital requirements orletterofcreditforclearingsettlements.
+For each investment transaction, the investment advisor shall providetheCountywithaconfirmationticket listing the specific instrument, issuer, coupon, maturity, CUSIPnumber, par amount, purchaseorsale price, transaction date, and other pertinent information.
+To be eligible, a financial institution must meet at least one of the following three criteria:a. Be a primary dealer of the Federal Reserve Bank of New York; orb. Report voluntarily to the F.R.B. of New York; orc. Affirm that it has met the securities dealers’ capital adequacy requirements of the SEC.
+The Investment Officer is authorized to signaTradingAuthorizationAgreement or Master RepurchaseAgreement withanyinstitutionincludedonthelist, andwillmaintainafile,eitherelectronicallyorhardcopy, of the most recent audited financial reports of each firm on the approved list.
+The Investment Officer is authorized to transact trades directly with issuers of corporate debt andcommercial paper provided that the provisions of ORS 294.035 and this investment policy are observed.
+TheInvestment Officer is responsiblefor maintainingcurrentfilesdocumentingtheappropriatelicensesand professional credentials of broker/dealers with whom the County transacts trades. Additionaldocumentation to be maintained includes certification of state registration and FINRA certification.
+Approved Bank Institutions: All bank financial institutions that provide deposits, certificates or anyotherdepositoftheCountymustbeeitherfullycoveredbytheFDICorthebankmustbeaparticipantofthe State of Oregon – Public Funds Collateralization Program (PFCP). ORS Chapter 295 governs thecollateralizationprogramfor banks at theStatelevel.Bankdepositoriesarerequiredtopledgecollateralagainst any public fund deposits in excess of the FDIC insurance amounts. This provides additional
+protectionfor public funds intheevent of abankfailure. ORSChapter295setsthespecificvalueofthecollateral, aswellasthetypesofcollateralthatareacceptable.ORSChapter295createsasharedliabilitystructurefor participatingbankdepositories,betterprotectingpublicfundsthoughstillnotguaranteeingthat all funds are 100% protected.
+ApprovedInvestment Advisors: An Investment Advisor may be utilized to manage funds and willbe  selected  through  a competitive RFP process. The Advisor must meet the following criteria.i. The investment advisor firm must be registered with the Securities and ExchangeCommission(SEC) or licensedbytheStateof Oregon;(Note:Investmentadvisorfirmswith assets under management > $100 million must be registered with the SEC,otherwise the firm must be licensed by the State of Oregon);ii. All investment advisor firm representatives conducting investment transactions onbehalf of County must be registered representatives with FINRA;iii. All  investment  advisor  firm  representatives  conducting  investment  transactions  onbehalf of the County must be licensed by the State of Oregon;iv. Contract  terms  will  include  that  the  Investment  advisor  comply  with  the County’sInvestment Policy.
+The investment advisor must notify the County immediately if any of the following issues arisewhileserving under a County contract:
+● Pending investigations by securities regulators.● Significant changes in net capital.● Pending customer arbitration cases.● Regulatory enforcement actions.
+VII. Administration, Operations and Controls
+Delivery versus Payment (DVP): All investments eligible for delivery purchased pursuant to thisinvestment policy will be delivered versus payment by either book entry or physical delivery to athird-partycustodian. Deliveryversus paymentisasettlementsystemthatstipulatesthatcashpaymentmust be made prior to or simultaneously with the delivery of the security.
+Third-Party Safekeeping or Bank Custody: Securities will be held by an independent third-partysafekeepinginstitutionor bankcustodianselectedbyMultnomahCounty.Allsecuritieswillbereceiptedand recorded based on the terms in thecustodial contract. Uponrequest, thesafekeepinginstitutionshall make available a copy of its Statement on Standards for AttestationEngagements (SSAE) No. 16.TheCountywill haveonlineaccessthroughthesafekeepingbankforverificationoftheaccountholdingsand transactions.
+Competitive Pricing of Transactions: The Investment Officer shall ensure a competitive selection ofinvestment purchases.i. The Investment Officer shall obtain and document competitive bid information on allinvestments purchased or sold. Competitive bids or offers shouldbeobtained, whenpossible,from at least three separate brokers/financial institutions or through the use of a nationallyrecognized trading platform.
+ii. Intheinstanceof asecurityforwhichthereisnoreadilyavailablecompetitivebidorofferingonthesamespecific issue, thentheInvestment Officer shall document quotations for comparableor alternative securities.iii. When purchasing original issue instrumentality securities, no competitive offerings will berequiredas all dealers inthesellinggroupofferthosesecuritiesasthesameoriginalissueprice.However, the Investment Officer is encouraged to document quotations on comparablesecurities.iv. If an Investment Advisor provides investment transaction services, the advisor must retaindocumentation of competitive pricing execution on each transaction and provide it to theInvestment Officer.
+Internal Controls: The Investment Officer shall be responsible for implementing effective internalcontrols and shall maintain a system of written internal controls to address the following areas ofconcern:● Clear delegation of authority● Segregationof duties andseparationof responsibilities fortradeexecution,accounting,andrecord keeping● Written confirmation of transactions and funds transfers● Compliance with investment policy constraints and requirements● Custodial safekeeping● Timely reconcilement of custodial reports● Appropriate security for online transactions and access to bank accounts and bank data● Dual authorizations of wire and automated clearing house (ACH) transfers● Staff training● Review, maintenance and monitoring of security produces both manual and automated● Control of collusion
+External Auditor: Anexternal auditor shall provideanannual independent audit toassurecompliancewith Oregon state law and Multnomah County policies and procedures.
+AccountingMethod: Atthetimeofsettlementofapurchase,aninvestmentwillbebookedatcost. Anygainor loss resultingfromaninvestmentsoldorcalledwillbecreditedorchargedtoinvestmentincomeas of thesettlement dateof thetransaction. Premiums onsecurities will beamortizedtothematuritydate unless the security is a callable security then it will be amortized to the call date. Discounts onsecurities will beaccretedtostatedmaturitydate. Intheeventofasalebeforematurity,anyremainingpremiums or discounts will be credited or charged to income as of the settlement date.
+The County shall comply with all legal requirements and generally accepted accounting principles(GAAP). Theseprinciplesarecontainedinthepronouncementsofauthoritativebodiesincluding,butnotlimited to, the American Institute of Certified Public Accountants (AICPA) and the GovernmentAccounting Standards Board (GASB).Most of the County’s available cash will be pooled for investment purposes in the investment portfolio.
+Cash not pooled will be restricted to:● Deferred compensation deposits and investments;● Cash held with fiscal agents;● Cash designated for retention of construction payments;
+● Petty cash and other funds (e.g. trusts).Theseitems will earninterest income, if applicable, fromthefinancial institutionholdingthefundsinatrust or fiduciary capacity.
+Portfolio Earnings Allocation: The amount of earnings allocated monthly will be calculated by theGeneral Ledger section based on the following:● Theaveragedailycashbalance(ADCB) ofeacheligiblefundwillbecalculated. ThePropertyTax Trust Fund ADCB will be reduced by the average daily uncollected funds (float).● The average monthly yield of the County’s investment portfolio will be calculated on anActual/365-day basis.● An administrative fee of 100 basis points (1.00%) will be deducted from the earningsallocation prior to distribution.● If the ADCB of a fund is negative andthefundwouldnormallybecreditedearnings if theADCB of that fundwerepositive, thefundwill bedebitedearnings at theaveragemonthlyyield of the portfolio for the period that the fund’s cash balance is negative.● The allocation of earnings process is summarized in Addendum A.
+Sale of Securities: Investments maybesoldat aprofit or loss whentheInvestment Officer deems thatsuch a decision is prudent to meet the objectives of this policy.
+Securities shall generally be held until maturity with the following exceptions:i. A security with declining credit may be sold early to minimize loss of principal.ii. A security exchange that would improve the quality, yield or target durationinthe portfolio.iii. Liquidity needs of the portfolio require that the security be sold.
+Indemnification Clause: The County shall indemnify County officials and Investment Advisory Boardmembers frompersonal liability for losses that might occur pursuant toadministeringthis investmentpolicy.
+VIII. Suitable and Authorized Investments
+Authorized Investments: The Oregon State Investment Officer maintains a list of agencies andinstrumentalities of theUnitedStateswithavailableobligationsthatanypoliticalsubdivisionoftheStateof Oregonmayinvest inunder ORS294.035(3)(a) and294.040. Investmentsshallbeincompliancewiththis list found at:
+https://www.oregon.gov/treasury/public-financial-services/Documents/Public-Financial-Services-Local-Government-Resources/2014.09.11-US-Gov-and-Agy-Securities-for-LGs-9-2014.pdf
+The following investments are permitted pursuant to ORS 294.035, 294.040, and ORS 294.810.
+USTreasuryObligations:U.S.Treasuryandothergovernmentobligationsthatcarrythefullfaithandcredit guaranteeof theUnitedStates for thetimelypayment of principal andinterest.[ORSSection294.035(3)(a)]
+US Agency Obligations: Federal agency and instrumentalities of the United States or enterprisessponsoredbytheUnitedStatesGovernment(GSEs)andwhosepaymentisguaranteedbytheUnitedStates, the agencies and instrumentalities of the United states or enterprises sponsored by theUnited States Government. [ORS Section 294.035(3)(a)]
+Municipal Debt: Lawfully issued debt obligations of the States of Oregon, California, Idaho andWashingtonandpoliticalsubdivisionsofthosestatesiftheobligationshavealong-termratingonthesettlement dateof Aa3or better byMoody’sInvestorsServiceorAA-orbetterbyS&Porequivalentratingbyanynationallyrecognizedstatisticalratingorganization,orareratedonthesettlementdatein the highest category for short-termmunicipal debt by a nationally recognized statistical ratingorganization. [ORS 294.035(3)(b)] [ORS 294.035(3)(c)]
+Corporate Indebtedness: Corporate indebtedness subject to a valid registration statement on filewith the Securities and Exchange Commission or issued under the authority of section 3(a)(2) or3(a)3oftheSecuritiesActof1933, andnotlistedontheFossilFreeIndex(FFI)CarbonUnderground(FFICU) 200
+TM
+annual listing. Corporate indebtedness must beratedonthesettlement dateAA- orbetter by S&P or Aa3or better byMoody’s Investors Serviceor equivalent ratingbyanynationallyrecognized statistical rating organization. [ORS 294.035(3)(i)]
+Commercial Paper: Corporateindebtedness subject toavalidregistrationstatementonfilewiththeSecurities andExchangeCommissionorissuedundertheauthorityofsection3(a)(2)or3(a)(3)oftheSecurities Act of 1933, and not listed on theFossil FreeIndex(FFI) CarbonUnderground(FFICU)200
+TM
+annual listing. Commercial Paper must beratedonthesettlement dateA-1orbetterbyS&Por P-1 or better by Moody’s or equivalent rating by any nationally recognized statistical ratingorganization. Issuer constraints for commercial paper combinedwithcorporatenoteswillbelimitedby statute to 5% of market value of portfolio per issuer. [ORS 294.035(3)(i)]
+Certificates of Deposit: Certificates of deposit in insured institutions as defined in ORS Section706.008, in credit unions as defined in ORS Section 723.006, or in federal credit unions, if theinstitution or credit union maintains a head office or a branch in this state [ORS Section294.035(3)(d)]. Certificates of deposit intofinancialinstitutionsoutsideofOregonareallowediftheInvestment Officer deposits the funds into a depository in Oregon and the Oregon depositoryparticipates in a program pursuant to ORS Section 295.004
+Bank Time Deposits/Savings Accounts: Bank Time Deposits and savings accounts in insuredinstitutions as definedinORSSection706.008,increditunionsasdefinedinORSSection723.006,orinfederal credit unions, if theinstitutionor credit unionmaintains aheadofficeor abranchinthisstate [ORS Section 294.035(3)(d)]
+Banker’s Acceptance: A short-term credit investment created by a non-financial firm andguaranteedbyaqualifiedfinancial institutionwhoseshort-termletter ofcreditratingisratedinthehighest categorywithout gradationbyoneor morenationallyrecognizedstatistical ratingagencies.[ORS 294.035(3)(h)(A)]
+Repurchase Agreement: These are investment arrangements involving the purchase of USGovernment andagencysecurities withasimultaneous agreement toresell thembacktothesameseller for samedollar investment plus again. Amounts invested,rateandtermsarenegotiablebutsuch repurchase transactions are limited to 90 days maximumterm. Maximumpercentages for
+prices paidfor collateral securities areprescribedbytheOregonInvestment Council or theOregonShort-TermFund Board [ORS 294.035 (11); ORS294.135(2)]. TheCountyprescribes thefollowingminimum pricing margins for repurchased collateral:
+US Treasury Securities 102%US Agency Securities 102%
+Reverse Repurchase Agreement: These are investment arrangements involving the sale of USGovernment and agency securities with a simultaneous agreement tobuythembacktothesameseller for same dollar investment plus a cost.
+Local Government Investment Pool: TheLocalGovernmentInvestmentPool,(LGIP)alsonamedtheOregon Short TermFund (OSTF) is an open-ended, no-load diversified portfolio offeredtoeligibleparticipants that includes, but is not limited to, any municipality, political subdivision or publiccorporationof theStateof Oregonthatbylawismadethecustodianof,orhascontrolof,anypublicfunds. The LGIP is commingled with the State of Oregon’s short-termfunds. Oregon’s LGIP wascreated by ORS Chapter 748. The OSTF is allowed to invest up to 50%of the funds incorporatesecurities down to a single A rating. The maximummaturityis 3years and50%of thepool mustmatureor reset within93days. Theportfoliois managedbyTreasuryprofessionals attheStateofOregon. Thefundis expectedtomaintain$1.00per everydollar put intothefund, but $1.00NetAsset Value is not guaranteed.   The County total fund balance held in the pool is limited by statute.
+Approval of PermittedInvestments: If additional types of securities areconsideredfor investment,perOregonstatestatutetheywill not beeligiblefor investment until thisPolicyhasbeenamendedandtheamended version adopted by the Multnomah County Board of Commissioners.
+Prohibited Investments:
+Private Placement or “144A” Securities: Private placement or “144A” securities are not allowed.“144A” securities include commercial paper issued under section 4(2)144A (also known as“4(2)A”) of the Securities Act of 1933.Securities Lending: Multnomah County shall not lend securities nor directly participate in asecurities lending program.14 Day Settlement: Multnomah County shall not purchasesecurities withadelayedsettlement inexcess of 14 business days per ORS statute.Mortgage Backed or Asset Backed Securities: Multnomah County shall not invest directly inMortgage Backed or Asset Backed Securities.Equity Securities: Multnomah County is not allowedto buy equity securities by Statute.Fossil Fuels: MultnomahCountyshall not directlyinvest cashassets inthecorporatedebt securitiesissued by any fossil fuel companies listed on the Fossil Free Index (FFI) Carbon Underground(FFICU) 200
+TM
+annual listing, pursuant to Multnomah County Board Resolution No. 2015-104,dated September 24, 2015.
+Collateralization of Bank Demand Deposits and Time Deposits and Certificates of Deposit:All bank demand deposits, time deposits and Certificates of Deposits shall be either held inqualifiedOregon depositories in accordance with ORS Chapter 295 or meet the FDIC insurance limit. Timedeposits, certificates of deposit andsavings accounts areconsideredinvestments andwithinthescopeof this policy.
+IX. Investment Parameters
+TheInvestment Officerisresponsibleforpreparinganannualcashflowscheduleforallfundsincludedinthe County’s investment portfolio. Thecashflowscheduleshall becontinuouslyreviewedtocompareprojected flows to actual.
+Credit Risk: Credit riskis theriskthat asecurityor aportfoliowill losesomeor all of its valueduetoareal or perceivedchangeintheabilityof theissuer torepayitsdebt.Creditriskwillbemitigatedbythefollowing guidelines:
+i. Diversification: It is the policy of Multnomah County to diversify its investments. Whereappropriate, exposures will belimitedbysecuritytype, maturity, issuance, andissuer. Allowedsecurity types and Investment exposure limitations are detailed in the table below.ii. Investment Credit Ratings: Investments must havearatingfromS&Pof AA- or Moody’sAa3orequivalent by any other nationally recognized statistical rating organization.iii. Diversification and Credit Exposure Constraints: The following table limits exposures amonginvestments permitted by this policy.iv. Restriction on Municipal Issuers With Prior Default History: Per ORS 294.040, the bonds ofissuers listedinORS294.035(3)(a) to(c) maybepurchasedonlyif therehasbeennodefaultinpayment of either theprincipal of or theinterest ontheobligations of theissuingcounty,port,school district or city, for a period of five years next preceding the date of the investment.
+Liquidityrisk: is theriskthat aninvestment maynot beeasilymarketableorredeemable.Thefollowingstrategies will be employed to mitigate liquidity risks:
+i. The value of at least 10%of funds available for investingwill beinvestedintheOregonShortTermFund, withaqualifieddepositoryinstitution, or investments maturinginlessthan90daysto provide sufficient liquidity for expected disbursements.ii. Funds inexcess of liquidityrequirementsareallowedforinvestmentsmaturingatamaximumof5.25 years. However, longer-term investments tend to be less liquid than shorter terminvestments.iii. Reserve or Capital Improvement Project monies may be invested in securities exceeding themaximum term if the maturities of such investments are made to coincide as nearly aspracticablewiththeexpecteduseof thefunds. Thesefunds will beheldindedicatedmanagedaccounts.
+Interest Rate Risk: Longer-terminvestments have the potential to achievehigher returns but arealsolikely to exhibit higher market value volatility due to the changes inthegeneral level of interest ratesover thelifeof theinvestment(s). Interest rateriskwill bemitigatedbyprovidingadequateliquidityforshort termcashneeds, andbymakinglonger-terminvestments onlywithfundsthatarenotneededforcurrent year cashflowpurposes. Certaintypes of securities, includingvariableratesecurities,securities
+withprincipalpay-downspriortomaturity,andsecuritieswithembeddedoptions,willaffecttheinterestrate risk profile of the portfolio differently in different interest rate environments. The followingstrategies will beemployedtocontrol andmitigateadversechangesinthemarketvalueoftheportfoliodue to changes in interest rates:
+i. Where feasible and prudent, investment maturities should be matched with expected cashoutflows to mitigate market risk.ii. Totheextent feasible, investmentmaturitiesnotmatchedwithcashoutflows,includingliquidityinvestments under one year, should be staggered to mitigate re-investment risk.iii. The maximum percent of callable securities in the portfolio shall be 25%;iv. The maximumstated final maturity of individual securities intheportfolioshall be5.25years,except as otherwise stated in this policy.v. The maximum portfolio average maturity (measured with stated final maturity) shall be 2.5years.
+Maturity Constraints Minimum % of Total PortfolioUnder 90 days 10%Under 1 year 35%Under 5.25 years 100%Weighted Average Maturity 2.5Security Type Constraints Maximum % of Total PortfolioCallable Securities 25%
+X. Investment of Proceeds from Debt Issuance
+Investments of bond proceeds are restricted under bondcovenants that maybemorerestrictivethanthe investment parameters included inthis policy. Bondproceeds shall beinvestedinaccordancewiththe parameters of this policy and the applicable bond covenants and tax laws.
+Funds from bond proceeds and amounts held in a bond payment reserve or proceeds fund may beinvested pursuant to ORS 294.052. Investments of bond proceeds are typicallynot investedfor resaleandarematuritymatchedwithoutflows. Consequently, surplus funds withinthescopeof ORS294.052are not subject to this policy’s liquidity risk constraints within section IX (ii).
+XI. Community Advantage Banking Program
+Pursuant to Multnomah County Board Resolution No. 2012-045, dated April 26, 2012, theInvestmentOfficer is authorized topurchasetimecertificates of deposit fromqualifiedcommunitybanks or creditunions with a par amount not to exceed the FDIC or NCUA insured limits per institutiontoatotal of$10,000,000.   (See Addendum D)
+XII. Guideline Measurement and Adherence
+Guideline Measurements:
+Guideline compliance shall consist of the following policies:i. If theportfoliofalls outsideof compliancewithadoptedinvestmentpolicyguidelinesorisbeingmanagedinconsistentlywiththispolicy,theInvestmentOfficershallbringtheportfoliobackintocompliance in a prudent manner and as soon as prudently feasible.ii. Violations of portfolio guidelines as aresult of transactions; actions tobringtheportfoliobackinto compliance and; reasoning for actions taken to bring the portfolio back into complianceshall be documented and reported to the IAB.iii. Due to fluctuations in the aggregate surplus funds balance, maximum percentages for aparticular issuer or investment typemaybeexceededat apoint intime.Securitiesneednotbeliquidated torealigntheportfolio; however, considerationshouldbegiventothis matter whenfuture purchases are made to ensure that appropriate diversification is maintained.iv. Investment maturities may exceed the guidelines for a period not to exceed 10 successivebusiness days with prompt and appropriate notifications to the Investment Officer and theInvestment Advisory Board. The Investment Officer is responsible for bringing the investmentportfolio back into compliance as soon as is practical.v. The LGIP Pool and the Bank Balances can be over the limits during tax turnover.
+XIII. Reporting and Disclosure
+Monthly Reporting: The Investment Officer shall prepare monthly a management summary thatprovides the details of theinvestment portfolio, as well as transactiondetails for thereportingperiod.Details shall be sufficient to document conformity with the provisions of statutes andthis investmentpolicy and shall include a listing of individual securities heldat theendof theperiod. All investmentsowned will be marked-to-market monthly by the County’s third-party custodian.
+The monthly management investment summary will be provided to the Chair of the Board ofCommissioners, the members of the Investment Advisory Board, the Chief Financial Officer and theCounty Auditor and any other interested parties upon request.
+Compliance Reporting: The Investment Officer shall prepareareport at least quarterlythat allows theBoard of Commissioners to ascertain whether investment activities during the reporting period haveconformed to the investment policy. The report should beprovidedtotheinvestment oversight body.The report will include, at a minimum, the following:
+i. Alistingof all investments heldduringthereportingperiodshowing:par/facevalue;accountingbookvalue; market value; typeof investment; issuer; credit ratings; andyieldtomaturity(yieldto worst if callable).ii. Average maturity of the portfolio at period-end.iii. Maturity distribution of the portfolio at period-end.iv. Average portfolio credit quality of the portfolio at period-end.v. Average weighted yield to maturity (yield to worst if callable investments are allowed) of theportfolio.vi. Distribution by type of investment.
+vii. Transactions since last report.viii. Transactions report on quarterly basis identifying transacting broker/dealer firm.ix. Violations of portfolioguidelines or non-complianceissuesthatoccurredduringthepriorperiodor that are outstanding. This report should also note actions (taken or planned) to bring theportfolio back into compliance.
+Performance Measurement: The performance of Multnomah County total holdings will be measuredagainst the performance of the one year Treasury note. Preservation of capital and maintenance ofsufficient liquidity will be considered prior to attainment of market return performance.
+Amarket benchmarkwill bedeterminedthat is appropriatefor thecoreinvestment fundbasedontheCounty’s risk and return profile. The structure will be based upon a chosenminimumandmaximumeffective duration and will have the objective to achieve market rates of return over longinvestmenthorizons. The purpose of the benchmark is to appropriately manage the risk in the portfolio giveninterest rate cycles. The core portfolio is expected to provide similar returns to the benchmark overinterest rate cycles, but mayunderperformor out performincertainperiods. TheCountywill usetheBofA Merrill 0-5 year Treasurybenchmarkfor thecoreportfolio. TheCounty’s investment advisor willprovide fair market value return comparisons of the portfolio to the benchmark on a monthly basis.When comparing the performance of the County’s portfolio, all fees and expenses involved withmanaging the portfolio shall be included in the computation of the portfolios rate of return.
+Themarketvalueoftheportfolioshallbecalculatedandastatementofthemarketvalueoftheportfolioshall be issued at least monthly.
+XIV. Policy Maintenance and Considerations
+TheCounty’s investment policyshallbereviewedannuallybytheInvestmentOfficerandtheInvestmentAdvisoryBoardfor appropriatemodifications. This policyandanyamendments tothis policyaretobeapprovedannuallybytheBoardof CountyCommissioners.Materialrevisionstothispolicywillrequireareview by the Oregon Short Term Fund Board, pursuant to ORS.
+Definitions
+Belowis therationalefor thevariouselementsofthisinvestmentpolicy.Everyeffortshouldbemadebytheusers andbeneficiariesofthispolicytounderstandthephilosophyandreasonsbehindeachelementof the policy.
+Accounting Method:A public entity must comply withGenerally Accepted Accounting Principles.
+AuthorizedFinancial Dealers andInstitutions: Theinvestment policyrequires that asetformalprocessbeusedtoselect depositories andbrokers/dealers.Becausethepolicyisintendedtoendure,itdoesnotmention specific firms or depositories. Rather, it provides for aprocess that will screenout institutionsthat lack economic viabilityor whosepast practices suggests that thesafetyof public capital wouldbeimpaired if transactions were directed to or through such firms.
+Authorized and Suitable Investments: The selection of investment instruments to be allowed forinvestment purposes isasignificantpolicyissueformanygovernments.Althoughday-to-dayselectionofspecific instruments shouldbetreatedas amanagement function, thepolicyshoulddefinethegeneraluniverse. Directionshouldbespecificallygiventofunds that receivebondproceedssubjecttoarbitrageconsiderations.
+From the approving authority’s perspective, special care must be taken to ensure that the list ofinstruments includes only those allowed by lawand thosethat local investment managers aretrainedandcompetent tohandle. Citingoftheappropriatestatutesfortheparticularentityasattachmentsmaybe appropriate.
+In selecting authorized investments, consideration should be given to credit ratings on bankers’acceptances and collateralization of applicable instruments.
+If repurchaseagreementsareauthorized,aMasterRepurchaseAgreementmustbesignedwiththebankor dealer.
+Collateralization: Collateralizationmust berequiredonanyrepurchaseagreement.Thispolicyaddressessuchpointsasmarketvaluationresponsibilityandtiming,safekeepingbyanindependentthirdpartyandevidence of ownership.
+Delegation of Authority: After theinvestment objectives havebeenidentified, thenext element of aninvestment policy is an explicit delegation of authority to specific investment officials responsible forconducting transactions and managing the entity's investment program.
+Diversification: The Investment Policystates thepurposeof diversification--toreduceoverall portfoliorisks whileattainingmarketaverageratesofreturn.Diversificationisconceptualizedintermsofmaturityas well as instrument type and issuer. Thus, the diversification concept in a cash management fundincludes prohibitionagainst over concentrationinaspecific maturitysector, as well as constrainingthereliance on specific risky instruments and issuers.
+Ethics and Conflicts of Interest: Some governments have adopted conflict of interest legislation thatregulates theactivities of certainofficers andemployees. Intheinvestmentarea,someconflictsmaybegovernedbygeneral codeprovisions, makingseparatepolicies redundant. Somejurisdictions,however,may seek to adopt policies regarding ethical behavior and conflicts of interest.
+Internal Controls: The development of internal controls remains amanagement function. Thespecificinternal control measures are beyond the scope of the investment policy and will be subject to thenormal operating procedures of the Investment Officer. The investment policy merely requires that asystemof internal controlsbeestablished.Thepolicydoesprovideforthetimingofperiodicreviewsandmonitoringof controls. Thereviewof internal controls is not left uptotheperiodic examinationbytheExternal Auditors but review of controls is an ongoing responsibility of the entity.
+Investment Advisers: Multnomah County has chosen to utilizeaninvestment adviser for assistanceinmanaging its investment practices and portfolio management. Policies surrounding the investmentadviser are included in the policy.Investment PolicyAdoption:ThepolicyisannuallyadoptedbytheBoardofCommissioners. Inaddition,the policy is reviewed by the Oregon Short Term Fund Board.
+Market Rate of Return:Prevailing rate of return.
+Market Yield (Benchmark): MultnomahCounty's investment strategyis passive. Thepolicydefines thebasis used by the Investment Officer to determine whether average yields are being achieved bycomparison to a benchmark.
+MaximumMaturity: Toprotectpublicfundsfrommarketpricelossesresultingfromrisinginterestrates,thepolicylimits themaximumtermtomaturityoncurrent operatingfunds' investment to12months-theoperatingbudgetcycle.Whilethemaximumtermtomaturityforfundsnotanticipatedtobeneededfor current operations have a longer term.
+Objectives: Everyinvestment policymust containaconciseandclear statement of objectives regardingsafetyof capital, liquidityandreturnoninvestment. Theeffectiveness of theinvestment programissetby the caliber of the staff, the procedures used, the working environment and the policy guidanceprovided by governing officials. Through its statement of objectives, thegoverningbodysets thetoneand direction of the policy and the investment program.
+Performance Standards: Much of the investment policy focus is directed toward controls. Yieldobjectives are also quite important. The long-run interests of Multnomah County go beyond simpleprudence and safety of funds. Theinvestment policyprovides aformal evaluationof performanceandoperational audits.
+Policy:The overall policy statement summarizes intoa condensed format the entire investment policy.
+Prudence: To burden a conscientious professional with personal responsibility for default on a singleitemwithin a diversified portfolio seems unduly severe. Accordingly, public entities with portfolios ofsufficient size are urged to apply the prudence concept to the overall portfolio.
+Reporting: Investment reports provide a mechanism for monitoring by the governing body. Periodicflows of information areneededtoconsider theimpact of economic conditions, portfoliochanges andthe results of investment operations. Reporting also provides written communication regardinginvestment performance, compliance, and a clear representation of the investment portfolio.
+SafekeepingandCustody: Likeprivateinvestors,governingofficialsfeelmoresecureabouttheirentity'sinvestments if theyknowthat thesecurities arephysicallysafe. Theinvestment policyincludesaclauseregardingthird-partysafekeepingandcustodyof securities andcollateral. Thepolicyalsoaddressesthedelivery of securities, whereDeliveryVersus Payment (DVP) is arequirement (i.e. Deliveryof securitieswith a subsequent exchange of money for the securities).
+Scope: The scope section explains what funds this policy applies to. It also explains what funds areexcluded, and provides an explanation of guidance for investment of those funds.
+Ratings Table – Long-Term
+ThreeHighestRatingCategories
+S&P Moody’s Fitch DefinitionAAA Aaa AAA Highest credit qualityAA+, AA, AA- Aa1, Aa2, Aa3 AA+, AA, AA- Very high credit quality
+A+, A, A- A1, A2, A3 A+, A, A- High credit quality
+BBB+, BBB, BBB- Baa1, Baa2, Baa3 BBB+, BBB, BBB- Good credit qualityBB+, BB, BB- Ba1, Ba2, Ba3 BB+, BB, BB- Non-investment grade
+Ratings Table – Short-Term
+HighestRatingCategory
+S&P Moody’s Fitch DefinitionA1+, A1 P1+, P1 F1+, F1 Highest credit qualityMunicipal Commercial Paper
+A-1, A-1+, SP-1+, SP-1 P1, MIG1, VMIG1 F1+, F1 Highest credit quality
+ADDENDUM A
+Investment Earnings Allocation
+A. Pursuant to State lawand County policy investment earnings will beallocatedtoall Debt ServiceFunds, all Capital Projects Funds, all Special RevenueFunds, except as notedbelowandtheBehavioralHealth Managed Care Fund (3002).
+B. Investment earnings will not beallocatedtotheFederal/StateProgramFundbecausethemajorityoftheexpenditures areonareimbursement basis fromthegrantoragencyandtheGeneralFundprovidesthe cash flow.
+C. The General Fund will receive the balance of the investment earnings. All other Funds that aresupported in whole or part by the General Fund will not be allocated investment earnings.
+D. Intheevent anewfundor account is created, theChief Financial Officer is authorizedtomakethedetermination if the fund or account should receive investment earnings. This determinationis tobebased on the criteria used for the funds in existence at the time this policy is adopted.
+ADDENDUM B
+Delegation of Authority
+Eric Arellano Single Signature AuthorityChief Financial Officer
+Jeff DeCosta Designee / Dual Signature AuthorityInvestment Officer
+William Navarro Designee / Dual Signature AuthorityTreasury Analyst
+ADDENDUM C
+Brigid O’Callaghan Term Expires: 6/30/23Eighth  Term
+Vacant Term Expires:Term commences on
+Jack Pessia Term Expires: 6/30/24Fifth Term
+Alex Roth Term Expires: 3/31/25Second Term
+Tony Tursich Term Expires: 10/30/23Third Term
+Staff:
+Eric Arellano, Chief Financial Officer (503) 988-6718
+Jeff DeCosta, Investment Officer (503) 988-7471
+William Navarro, Senior Treasury Analyst (503) 988-3681
+ADDENDUM D

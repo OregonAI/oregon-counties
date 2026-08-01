@@ -1,0 +1,448 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-resolution-authorizing-approval-of-the-issuance-sale-executi
+title: 'Resolution Authorizing Approval Of The Issuance, Sale, Execution And Delivery Of Revenue Bonds, In One Or More Series, By The Hospital Facilities Authority Of Multnomah County, Oregon In An Aggregate Principal Amount Not To Exceed $175…'
+doc_type: ordinance
+citation: 'Resolution Authorizing Approval Of The Issuance, Sale, Execution And Delivery Of Revenue Bonds, In One Or More Series, By The Hospital Facilities Authority Of Multnomah County, Oregon In An Aggregate Principal Amount Not To Exceed $175…'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/_resolution_authorizing_approval_of_the_issuance%2C_sale%2C_execution_and_delivery_of_revenue_bonds%2C_in_one_or_more_series%2C_by_the_hospital_facilities_authority_of_multnomah_county%2C_oregon_in_an_aggregate_principal_amount_not_to_exceed_%24175%E2%80%A6/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 7cee4863d72eaebf41207025ba1250d3e2129deb5cecadb1344051618f196d2d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 192.210
+    - ORS 441.525
+    - ORS 441.550
+    - ORS 441.555
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Authorizing Approval Of The Issuance, Sale, Execution And Delivery Of Revenue Bonds, In One Or More Series, By The Hospital Facilities Authority Of Multnomah County, Oregon In An Aggregate Principal Amount Not To Exceed $175… (Resolution Authorizing Approval Of The Issuance, Sale, Execution And Delivery Of Revenue Bonds, In One Or More Series, By The Hospital Facilities Authority Of Multnomah County, Oregon In An Aggregate Principal Amount Not To Exceed $175…)
+
+## At a glance
+
+Resolution Authorizing Approval Of The Issuance, Sale, Execution And Delivery Of Revenue Bonds, In One Or More Series, By The Hospital Facilities Authority Of Multnomah County, Oregon In An Aggregate Principal Amount Not To Exceed $175… — orders of Multnomah County. 13 pages.
+
+## Full text
+
+BEFORE THE HOSPITAL FACILITIES AUTHORITY
+OF MULTNOMAH COUNTY, OREGON
+RESOLUTION NO.  2021-066
+Authorizing Approval of the Issuance, Sale, Execution and Delivery of Revenue Bonds, in One or
+More Series, by The Hospital Facilities Authority of Multnomah County, Oregon in an Aggregate
+Principal Amount Not to Exceed $175,000,000; Authorizing the Execution of a Letter of Intent
+with Terwilliger Plaza, Inc.; Designating an Authorized Representative; and Related Matters.
+The Board of Directors of The Hospital Facilities Authority of Multnomah County, Oregon
+Finds:
+a. The Board of Directors of The Hospital Facilities Authority of Multnomah County, Oregon
+(the “Authority”), a public authority organized and existing pursuant to Oregon Revised
+Statutes (“ORS”) 441.525 to 441.595, inclusive (the “Act”), has received a request from
+Terwilliger Plaza, Inc., an Oregon nonprofit corporation (the “Borrower”), and an
+organization descr ibed in Section 501(c)(3) of the Internal Revenue Code of 1986, to
+execute and deliver Revenue Bonds, in one or more series, in an aggregate principal
+amount not to exceed $175,000,000 (the “Bonds”) to finance and refinance the costs of the
+following projects (collectively, the “Project”):
+1. designing, constructing, improving, furnishing and equipping of an approximately
+10-story building with approximately 127 additional independent living units and
+additional related amenities of the Borrower’s existing continuing care retirement
+facility (the “Parkview Expansion”);
+2. paying capitalized interest;
+3. refinancing the Authority’s Revenue Bonds, Series 2019 (Terwilliger Plaza, Inc.) ,
+originally issued on August 15, 2019 , which funded certain pre -development
+expenses related to the Parkview Expansion;
+4. funding debt service reserve funds, if required; and
+5. paying certain costs of issuance of the Bonds.
+b. The Authority has received an application from the Borrower in support of its request for
+financing the Project.  The application includes the following:
+1. A letter from the Borrower dated June 24, 2021, requesting issuance of the Bonds
+on behalf of the Borrower, and describing the Project;
+2. Independent Auditors’ Report and Financial Statements for t he years ended
+December 31, 2020, and 2019;
+3. Preliminary Financing Calendar of Events; and
+4. Working Group Distribution List.
+
+c. ORS 441.550 authorizes the Authority to borrow money and to issue revenue bonds for the
+purpose of carrying out its powers on such terms as the Board of Directors deems necessary
+or advisable.  The Authority has determined that the execution and delivery of the financing
+documents described below and the use of the proceeds of the Bonds by the Borrower to
+finance and refinance the Project is necessary and desirable and that such financing
+documents and the Project are in the best interest of the citizens of Multnomah County,
+Oregon.
+d. The Authority will issue the Bonds and loan the proceeds from the sale thereof under the
+following financing documents (collectively, the “Financing Documents”), which may
+include, but are not limited to:
+1. one or more  Indentures of Trust between the Authority and U.S. Bank National
+Association, as bond trustee (the “Bond Trustee”);
+2. one or more Loan Agreements between the Authority and the Borrower;
+3. a Bond Purchase Contract among the Authority, the Borrower and B.C. Ziegler and
+Company, as underwriter (the “Underwriter”); and
+4. a Preliminary Official Statement and a Final Official Statement.
+e. The Bonds may be issued in any combination of tax -exempt and taxable bonds.  The
+Borrower intends to enter into certain additional docu ments with various parties in
+connection with the issuance of the Bonds that may include, but are not limited to , a
+continuing disclosure certificate or agreement, one or more supplements to a master trust
+indenture, one or more deeds of trust, and the Financing Documents listed above.
+f. The principal of and interest on the Bonds will not constitute a debt of the Authority or
+Multnomah County, Oregon, nor shall the Bonds be payable from a tax of any nature levied
+upon any property within Multnomah County, Oregon, nor within any other political
+subdivision of the state of Oregon.  The Authority has no taxing power.  The Bonds will
+be payable only from the revenues and resources provided or arranged by the Borrower.
+g. The Board determines that it is in the best  interest for the Authority to provide adequate
+adult congregate care facilities and related services within Multnomah County, Oregon ,
+and to proceed with the issuance of the Bonds.  Capitalized terms not defined herein shall
+have the meanings set forth in the Financing Documents.
+The Board of Directors of The Hospital Facilities Authority of Multnomah County, Oregon
+Resolves:
+Section 1. The Authority does authorize and approve of the provisions of and directs the
+execution, sale, delivery and issuance by the Authorit y of the Bonds, in one or more series, in an
+aggregate principal amount not to exceed $175,000,000 to finance and refinance the Project.
+Section 2. The Authority designates each of the Chair, Vice Chair, Secretary, the Assistant
+Secretary, Chief Financial Officer of the County or the Authority's designee as “Authorized
+Representatives,” collectively, and as an “Authorized Representative,” individually, of the
+
+Authority to negotiate the terms and the sale of the Bonds and to determine and designate the dated
+date, the series designation, the maturity dates and amounts, the interest rates and interest rate
+modes, the optional and mandatory redemption provisions, with or without premium, if any, and
+the interest payment dates and such other provisions and terms of the Bon ds as are deemed
+necessary and desirable for the issuance, sale and closing of the Bonds.  The Bonds shall be
+executed by the facsimile signature of the Chair and shall be attested by the facsimile signature of
+an Authorized Representative of the Authority .  The Bonds will mature not later than
+December 31, 2056.  The Bonds shall be issued or executed in the form as may be approved by
+the Authorized Representative.
+ The Authorized Representative is authorized to execute and deliver a letter of intent,
+substantially in the form attached hereto as Exhibit A (the “Letter of Intent”), which sets forth the
+basic obligations of the Authority and the Borrower regarding the Bonds.
+Section 3. The Board authorizes the Authorized Representative to review and approve the
+terms and provisions of the Financing Documents.
+Section 4. The Authority provides for the establishment of the special funds as set forth in the
+Financing Documents, to be held in trust as set forth therein.  The Authority is obligated to deposit
+proceeds related to the Bonds to the funds as set forth in and as required by the applicable
+Financing Documents. In addition, the Authority shall provide for the deposit of all of the loan
+payments payable to the Authority pursuant to the Financing Documents.
+Section 5. The Authority's pledge for the payment of the Bonds shall be valid and binding
+from the date of the adoption of this Resolution against any parties having subsequent claims of
+any kind in tort, contract or otherwise against the Authority, irrespective of whether su ch parties
+have actual notice of this pledge.  Pursuant to ORS 441.555(5), this pledge is noted in the
+Authority's minute book which shall contain this Resolution and which shall be constructive notice
+thereof to all parties, and neither this Resolution no r any other instrument by which a pledge is
+created need be otherwise recorded, nor shall the filing of any financing statement under the
+Oregon Uniform Commercial Code be required to perfect such pledge.  Any moneys or obligations
+so pledged and later received by the Authority shall immediately be subject to the lien of the pledge
+without any physical delivery or further act.
+Section 6. The Authority authorizes the sale of the Bonds to the Underwriter pursuant to the
+terms and c onditions of the Bond Purchase Contract  as may be approved by the Authorized
+Representative.
+Section 7. The Authority directs the Authorized Representative to execute and deliver the
+Financing Documents in the forms and with such changes as may be approved by the Authorized
+Representative.  The Authority authorizes the performance by the Authority of the obligations and
+duties on its part as contained in the Financing Documents.  Any one or more of the Authorized
+Representatives shall approve, execute and deliver each of the above -described Financing
+Documents and such other documents as are necessary to consummate the sale and issuance of the
+Bonds.
+Section 8. U.S. Bank National Association, in Portland, Oregon, is designated and approved
+as the Bond Trustee, Paying Agent and Bond Registrar of the Bonds.  The Authority does request
+
+and authorize the Bond Registrar to execute the Certificate of Authentication as of the date of
+delivery of the Bonds.  The Paying Agent and Bond Registrar shall maintain a record of the names
+and addresses of the registered owners of the Bonds.  The records of the registered bond ownership
+are not public records within the meaning of ORS 192.210(4).
+Section 9. The Authority designates Orrick, Herrington & Sutcliffe LLP as bond counsel and
+special counsel to the Authority (collectively, “Bond Counsel”) for the Bonds.
+Section 10. During any time the Bonds are held in a book-entry only system (the “Book-Entry
+System”), the registered owner of all of such Bonds shall be The Depository Trust Company, New
+York, New York (“DTC”), and such Bonds shall be registere d in the name of Cede & Co., as
+nominee for DTC.  The Authority has entered into a Blanket Issuer Letter of Representations (the
+“Letter”) wherein the Authority represents that it will comply with the requirements stated in
+DTC's Operational Arrangements as they may be amended from time to time.
+Section 11. For purposes of compliance by the Underwriter with Rule 15c2 -12(b)(1) (the
+“Rule”) of the federal Securities and Exchange Commission, the Authority authorizes the use and
+distribution of the Preliminary Official Sta tement and the Final Official Statement by the
+Underwriter, and the Authorized Representative  is authorized to deem the Preliminary Official
+Statement as “final” for purposes of the Rule.
+Section 12. The Bonds may be transferred or subject to exchange, for fully registered Bonds as
+provided in the related Financing Documents.  All Bonds issued upon transfer of or in exchange
+for such Bonds shall be valid obligations of the Authority evidencing the same obligation and shall
+be entitled to the same benefits as such Bonds surrendered for such exchange or transfer.  All fees,
+expenses and charges of a paying agent and registrar shall be payable by the Borrower.
+Section 13. The Authority may defease the Bonds as provide d in the related Financing
+Documents.
+Section 14. In consideration of the purchase and acceptance of any or all of the Bonds by those
+who shall own the same from time to time (the “Owners”), the provisions of this Resolution shall
+be part of the contract of the Author ity with the Owners and shall be deemed to be and shall
+constitute a contract between the Authority and the Owners.  The covenants, pledges, and
+representations contained in this Resolution or in the closing documents executed in connection
+with the Bonds,  including without limitation the Authority's covenants and pledges contained
+herein, and the other covenants and agreements herein set forth to be performed by or on behalf of
+the Authority shall be contracts for the equal benefit, protection and security of the Owners, all of
+which shall be of equal rank without preference, priority or distinction of any Bonds  of a series
+over any other thereof, except as expressly provided in or pursuant to this Resolution.
+Section 15. Each Authorized Representative of the Authority is authorized to take such action
+and to approve, execute or deliver for and on behalf of the Authority such other and additional
+documents including, but not limited to a tax certificate and agreement, an Internal Revenue
+Service Information Rep ort (Form 8038) and any documents necessary in the opinion of Bond
+Counsel, for the issuance, sale or administration of the Bonds.  The Authorized Representatives
+are further authorized to carry out the transactions contemplated by the documents defined in  the
+Financing Documents and as authorized and approved in this Bond Resolution, and to execute and
+
+deliver the Financing Documents, the Bonds, the Tax Certificate and Agreement and all other
+documents hereby authorized, to the respective parties entitled thereto.
+[REMAINDER OF PAGE INTENTIONALLY LEFT BLANK]
+ADOPTED and effective this 22nd day of July, 2021.
+THE HOSPITAL FACILITIES AUTHORITY
+OF MULTNOMAH COUNTY, OREGON
+By______________________________________
+Chair
+ATTEST:
+REVIEWED:
+JENNY MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By:�
+�
+�_..,...___...._
+Secretary
+Page 1 of 9 – Letter of Intent
+EXHIBIT A
+LETTER OF INTENT
+between
+THE HOSPITAL FACILITIES AUTHORITY OF
+MULTNOMAH COUNTY, OREGON
+and
+TERWILLIGER PLAZA, INC.
+THIS LETTER OF INTENT is between THE HOSPITAL FACILITIES AUTHORITY
+OF MULTNOMAH COUNTY, OREGON, a public authority of the State of Oregon (the
+“Authority”), and TERWILLIGER PLAZA, INC., an Oregon nonprofit corporation (the
+“Borrower”).
+1. Preliminary Statement.  Among the matters of mutual inducement, which have
+resulted in the execution of this Letter of Intent are the following:
+a. The Authority is a public authority, authorized and empowered by ORS 441.525 to
+441.595 (the “Act”) to issue revenue bonds for the purposes specified therein, including providing
+funds to nonprofit corporations sufficient to improve, extend, maintain, equip and furnish hospital
+facilities and adult congregate care facilities under the Act, upon such terms and conditions as the
+Authority may deem advisable.
+b. The Authority proposes to issue its  revenue bonds, in one or more series, in an
+aggregate principal amount not to exceed $175,000,000 (collectively, the “Bonds”). The proceeds
+of the Bonds will be used to make a loan to the Borrower to finance and/or refinance the costs of:
+(1) designing, constructing, improving, furnishing and equipping of a 10 -story building with
+approximately 127 additional independent living units and additional related amenities of the
+Borrower’s existing continuing care retirement facility  community (the “Parkview Expansion”);
+(2) paying capitalized interest; (3) refinancing the Authority’s Revenue Bonds, Series 2019
+(Terwilliger Plaza, Inc.), originally issued on August 15, 2019 in the principal amount of
+$25,000,000, which funded certain pre-development expenses related to the Parkview Expansion;
+(4) funding debt service reserve funds, if required; and (5) paying certain costs of issuance of the
+Bonds  (collectively, the “Project”).
+
+Page 2 of 9 – Letter of Intent
+
+The total estimated costs of the Project to be financed and refinanced with the proceeds of
+the Bonds will be in an aggregate principal amount not to exceed $175,000,000.
+ c. The Authority deems it necessary and advisable that it take such action as may be
+required under the Act to authorize and issue the Bonds to finance and refinance all or a portion of
+the costs of the Project in a total amount not to exceed $175,000,000.
+ d. The Authority finds that the issuance of the Bonds to finance and refinance the costs
+of the Project, and the loaning of the proceeds thereof to the Borr ower constitutes a valid public
+purpose.
+ e. All references in this Letter of Intent to the Authority shall be deemed to include
+where appropriate its elected and appointed officials, employees and agents.
+ 2. Undertakings on the Part of the Authority .  Subject to (a) the conditions stated
+herein and (b) the preparation and approval of the various financing documents and review and
+approval by Bond Counsel, as defined below, the Authority agrees and represents as follows:
+  a. The Authority will, upon satis faction by the Borrower of all conditions
+stated herein and all other conditions imposed on the Borrower by the Authority prior to issuance
+of the Bonds, authorize and cause the issuance of its Bonds to be payable solely from revenues
+and assets of the Bor rower to the Authority pursuant to a loan agreement or other financing
+agreement between the Borrower and the Authority, which Bonds will be in an aggregate principal
+amount not to exceed $175,000,000.
+  b. The Authority will adopt such proceedings and authorize the execution of
+such documents as may be necessary and advisable for the authorization, issuance, sale and
+delivery of the Bonds, and loan the proceeds of the Bonds to the Borrower to finance and refinance
+the Project, all as authorized by law and as mutually satisfactory to the Borrower and the Authority.
+  c. The amounts payable to the Authority under the loan agreement or other
+financing agreement related to the Bonds will be sufficient to pay the principal of and the interest
+on, and redemption premium, if any, of the Bonds as and when the same become due and payable.
+  d. The Authority has appointed Orrick, Herrington & Sutcliffe LLP as bond
+counsel and special counsel to the Authority (collective ly, “Bond Counsel”), to supervise the
+proceedings and to approve the legality of the Bonds, the tax-exempt status of interest on the Bonds
+and to conduct due diligence with respect to the Borrower and to assist in the review of the
+Preliminary Official Statement and the Final O fficial Statement (collectively, the “Official
+Statement”) for the Bonds.
+
+Page 3 of 9 – Letter of Intent
+
+  e. Neither the Bonds nor the interest thereon shall be an obligation of the
+Authority, Multnomah County, Oregon (the “County”) or the State of Oregon, or the personal
+obligations of the elected or appointed officials, employees or agents of the Authority, the County
+or the State of Oregon within the meaning of any constitutional or statutory provisions whatsoever,
+but shall be payable solely from revenues or as sets provided or arranged by the Borrower.  The
+Bonds shall not be a general obligation of the Authority or its elected or appointed officials,
+employees or agents nor a pledge of the faith and credit of the Authority or its elected or appointed
+officials, employees or agents nor a debt or pledge of the faith and credit of the County or the State
+of Oregon.  The Authority has no taxing authority.
+  f. No presently existing assets of the Authority or the County shall be given
+to secure the Bonds and the Bond s shall be repayable out of, and only out of, revenues or assets
+provided or arranged by the Borrower.
+ 3. Undertakings on the Part of the Borrower .  Subject to the conditions above
+stated, the Borrower agrees as follows:
+  a. The Borrower will cooperate with the Authority for the approval of all of
+the terms and conditions of the issuance of the Bonds, and in the sale of the Bonds in an aggregate
+principal amount not to exceed $175,000,000 to be used to finance and refinance the Project.
+  b. At the time of closing of the Bonds, the Borrower will pay to the Authority,
+from proceeds of the Bonds or other available Borrower funds, an issuer’s fee equal to one dollar
+($1.00) per one thousand dollars ($1,000) of the principal amount  of the Bonds, but not less than
+$10,000 and subject to a cap at the discretion of the Authority,  and the Borrower will pay from
+proceeds of the Bonds or other available Borrower funds, to Bond Counsel, fees based on the time
+incurred with respect to the Bonds and the Project based on its standard hourly rates plus its out -
+of-pocket expenses.
+  c. At the time of closing of the sale of the Bonds, the Borrower will deliver an
+executed loan agreement or other financing agreement with the Authority, under whic h terms the
+Borrower will agree to pay the Authority loan payments sufficient in the aggregate to pay the
+principal of and interest on, and redemption premium, if any, of the Bonds as and when the same
+shall become due and payable.  The Authority, at its option, may require the Bonds to be secured
+by one or more reserve funds acceptable in form and substance to the Authority.
+  d. In addition to the indemnification and hold harmles s obligations of the
+Borrower under Section 5(a) hereof, the loan agreement or other financing agreement entered into
+
+Page 4 of 9 – Letter of Intent
+
+in connection with each series of Bonds  shall contain provisions in which the Borrower shall
+indemnify and hold the Authority and the Coun ty and their elected or appointed officials,
+employees and agents harmless from all liabilities incurred in connection with the Project or the
+sale, issuance, marketing or administration of the Bonds.
+  e. The Borrower will cause Borrower's counsel to provide the Authority with
+a legal opinion substantially the same in form and substance as the legal opinion provided by
+Borrower's counsel to the Underwriter with respect to the Bonds and in form and substance
+acceptable to Bond Counsel.
+  f. Each loan agreem ent or other financing agreement entered into in
+connection with the Bonds shall also contain such other provisions as may be required or permitted
+by law and as are mutually acceptable to the parties.
+  g. In accordance with the provisions of Rule 15c2 -12 promulgated by the
+Securities and Exchange Commission, the Borrower, as an “Obligated Person” within the meaning
+of the Rule, agrees to execute and deliver a continuing disclosure certificate or agreement in a form
+satisfactory to the Authority and Bond Counsel (the “Continuing Disclosure Certificate”) and
+agrees to provide information and at the times as specified in the Continuing Disclosure Certificate
+and will undertake to provide in a timely manner no tices of specified events, as described in the
+Continuing Disclosure Certificate, with respect to the Bonds.
+h. In addition to the indemnification and hold harmless obligations of the
+Borrower under Section 5(a) hereof, the Borrower shall indemnify and save the Authority and the
+County, their appointed or elected officials, employees or agents harmless against and from all
+claims by or on behalf of any person, firm, corporation or other legal entity arising from any fees
+or costs incurred by the Authority o r the County in responding to any Internal Revenue Service
+audit, Securities and Exchange Commission inquiry or any other federal, state or regulatory action
+or proceeding with respect to the Bonds  or the Project.  The Authority may employ, at the
+Borrower’s expense, any counsel (internal or otherwise) or experts required in responding to any
+audit, inquiry, regulatory action or proceeding with respect to the Bonds or the Project.
+  h. The Borrower will take such further action and adopt such further
+proceedings as may be required to implement these understandings.
+ 4. General Provisions.
+  a. Except as provided in Section 4(b) and Section 5(a) hereof or as otherwise
+provided herein, all obligations arising under this Letter of Intent are conditioned upon the parties
+
+Page 5 of 9 – Letter of Intent
+
+agreeing to mutually acceptable terms for sale of the Bonds and mutually acceptable terms and
+conditions for the contracts and agreements contemplated herein ; provided, however, that the
+Authority shall not participate in or be responsible for the marketing of the Bonds.
+  b. Notwithstanding anything to the contrary stated herein, the Borrower will
+pay, or cause to be paid, whether the Bonds are actually issued or not, any fees and expenses
+incurred in connection with the issuance, sale and on-going administration of the Bonds, including
+without limitation, the reasonable fees and expenses of Bond Counsel, the Authority's financial
+advisor, if any, and the Bond Trustee, registrar, paying agent and escrow agent , if necessary.  In
+addition, the Borrower shall pay the out-of-pocket costs of Bond Counsel, the Authority's financial
+advisor, if any, and County staff.  The Borrower will also pay the cost and fees of its counsel,
+underwriter's fees and any other costs incurred in connection with the Project or the Bonds.
+  c. The Borrower shall obtain, at its expense, all necessary governmental
+approvals and opinions of Bond Counsel to ensure the legality and tax-exempt status of the Bonds.
+In addition, the Borrower shall make no use of the proceeds of any series of the Bonds so as to
+cause such Bonds to be classified as arbitrage bonds as that term is defined in the Internal Revenue
+Code of 1986, as amended, and the regulations promulgated thereunder (the “Code”) or cease to
+be “qualified 501(c)(3) bonds” as that term is defined in Section 145 of the Code.
+  d. The Borrower agrees to execute and deliver the Continuing Disclosure
+Certificate as required by Section 3(g) hereof.
+
+ 5. Miscellaneous Provisions.
+  a. The Borrower shall and hereby agrees to indemnify and save the Authority
+and the County, their appointed or elected officials, employees or agents harmless against and from
+all claims by or on behalf of any person, firm, corporation or other legal entity arising from the
+execution of this Letter of Intent and any and all other actions to be taken by the Authority or the
+County relating to the Project or the issuance of the Bonds for so long as such Bonds remain
+outstanding, including, without limitation, the conduct or management of, or from any work or
+thing done related to the Project, including without limitation, (i) any condition related to the
+Project, (ii) any breach or default on the part of the Borrower in the performance of any of its
+obligations under this Letter of Intent, (iii) any ac t or negligence of the Borrower or of any of its
+agents, contractors, servants, employees or licensees, (iv) any act or negligence of any assignee or
+lessee of the Borrower, or of any agents, contractors, servants, employees or licensees of any
+
+Page 6 of 9 – Letter of Intent
+
+assignee or lessee of the Borrower, (v) any omission or misstatements of any material fact in the
+Official Statement or any other liability arising from the sale, issuance, marketing or administration
+of the Bonds, or (vi) any Internal Revenue Service audit or procee ding or any Securities and
+Exchange Commission investigation proceeding or any inquiry or any other federal, state or local
+regulatory action, investigation or proceeding.  The Borrower shall indemnify and save the
+Authority and the County and their electe d or appointed officials, employees or agents harmless
+from any such claim arising as aforesaid, or in connection with any action or proceeding or costs
+or fees incurred in any action or proceedings brought thereon whether at trial, on appeal, in
+bankruptcy proceedings or otherwise, and upon notice from the Authority or its elected or
+appointed officials, employees or agents, the Borrower shall defend them or either of them in any
+such action or proceeding at the Borrower's expense.
+ Notwithstanding the fact that it is the intention of the parties hereto that the Authority and
+the County and their elected or appointed officials, employees or agents shall not incur any
+pecuniary liability by reason of the terms of this Letter of Intent or the undertakings req uired of
+the Authority or the County or their elected or appointed officials, employees or agents hereunder,
+by reason of the issuance of the Bonds or by reason of the execution of any financing documents
+relating thereto, or by reason of the performance o f any act requested by the Authority or the
+County, its elected or appointed officials, employees or agents or by the Borrower, including all
+claims, liabilities or losses arising in connection with the violation of any statutes or regulation
+pertaining to the foregoing; nevertheless, if the Authority or the County or its elected or appointed
+officials, employees or agents should incur any such pecuniary liability, then in such event the
+Borrower shall indemnify and hold the Authority and the County and the ir elected or appointed
+officials, employees or agents harmless against all claims, demands or causes of action whatsoever,
+by or on behalf of any person, firm or corporation or other legal entity arising out of the same or
+out of any Official Statement or lack of Official Statement in connection with the sale or resale of
+the Bonds and all costs, fees and expenses, including without limitation, legal fees and expenses
+whether incurred at trial, on appeal, in bankruptcy proceedings or otherwise incurred in connection
+with any such claim or in connection with any action or proceeding brought thereon, and upon
+notice from the Authority or its elected or appointed officials, employees or agents, the Borrower
+shall defend the Authority and its elected or appoint ed officials, employees or agents in any such
+action or proceeding.
+Page 7 of 9 – Letter of Intent
+Notwithstanding anything to the contrary contained herein, the Borrower shall have no
+liability to indemnify the Authority or the County, or its elected or appointed officials, employees
+or agents, against claims or damages resulting from the Authority's or the County or their elected
+or appointed officials, employees or agents own gross negligence or willful misconduct.
+In the event any claim is made against the Authority or the County, their elected or
+appointed officials, employees or agents (collectively, the “Indemnified Parties”) for which
+indemnification may be sought from the Borrower under the foregoing provisions, the Indemnified
+Parties shall promptly give written notice thereof to the Borrower; provided that any failure to give
+or delay in giving such written notice shall not relieve the Borrower's indemnification obligations
+as set forth above except to the extent such failure or delay prejudices the Borrower's ability to
+defend or settle such claim.  Upon receipt of such notice, the Borrower shall assume the defense
+thereof in all respects and may settle such claim in such manner as it deems appropriate so long as
+there is no liability, cost or expense to the Indemnified Party.
+b. If Bond proceeds are not sufficient to complete the Project, the Borrower
+agrees to pay, or cause to be paid, the deficiency.
+c. The Authority and the Borrower have caused this Letter of Intent to be
+authorized by their respective governing body or board of directors, and executed by their duly
+authorized officers as of the 22nd day of July 2021.
+THE HOSPITAL FACILITIES AUTHORITY TERWILLIGER PLAZA, INC.
+OF MULTNOMAH COUNTY, OREGON
+By: _________________________________ By: _____________________________
+Authorized Representative Authorized Representative

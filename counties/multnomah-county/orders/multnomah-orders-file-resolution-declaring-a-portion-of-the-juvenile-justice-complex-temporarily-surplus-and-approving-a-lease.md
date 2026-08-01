@@ -1,0 +1,132 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-resolution-declaring-a-portion-of-the-juvenile-justice-complex-temporarily-surplus-and-approving-a-lease
+title: 'Resolution Declaring A Portion Of The Juvenile Justice Complex Temporarily Surplus; And Approving A Lease.'
+doc_type: ordinance
+citation: 'Resolution Declaring A Portion Of The Juvenile Justice Complex Temporarily Surplus; And Approving A Lease.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_declaring_a_portion_of_the_juvenile_justice_complex_temporarily_surplus%3B_and_approving_a_lease./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 784f8a4ddba3e8b88f9a245d0ed4d99ba6d0b5cdd4b3c94d90f70c97e9fe6ea8
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Declaring A Portion Of The Juvenile Justice Complex Temporarily Surplus; And Approving A Lease. (Resolution Declaring A Portion Of The Juvenile Justice Complex Temporarily Surplus; And Approving A Lease.)
+
+## At a glance
+
+Resolution Declaring A Portion Of The Juvenile Justice Complex Temporarily Surplus; And Approving A Lease. — orders of Multnomah County. 3 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO. 2022-015
+Declaring a Portion of the Juvenile Justice Complex Temporarily Surplus; and Approving a
+Lease.
+The Multnomah County Board of Commissioners Finds:
+a. The Oregon Department of Justice (DOJ) has primary responsibility for representing
+the state in juvenile dependency court proceedings. These hearings occur primarily in
+the Juvenile Court, which is located within the County’s Juvenile Justice Complex. In
+order to effectively and efficiently perform their duties, it is necessary for the DOJ
+assistant attorneys general to have space in the facility to complete their work
+responsibilities. Presently, all other agencies that are part of the juvenile delinquency
+and juvenile dependency systems have allocated work space within the Juvenile
+Justice Complex. DOJ is the only system partner who does not.
+b. DCJ Juvenile Services Division discontinued most of its support for juvenile
+dependency matters two years ago, reducing FTE as a result. This change, as well as
+other reductions in administrative staffing, created vacant space within the Data &
+Document Services area of the Juvenile Justice Complex.
+c. Specifically, the County does not intend at this time to use approximately 1,221
+rentable square feet of office space (1st Floor Offices 1115,1116,1117,1118,1119,1120,
+& 1121 in the Southwest wing) (“Premises”) of the Juvenile Justice Complex building at
+1401 NE 68th Ave, Portland, Oregon (“Building”). Per FAC-3, Sec. IV, it is appropriate
+to declare the Premises temporarily surplus in order to lease the space.
+d. It is in the best interests of the County to declare the Premises temporarily surplus and
+to execute a lease substantially in conformance with the terms set forth in Exhibit 1
+(Terms Sheet) to this Resolution.
+The Multnomah County Board of Commissioners Resolves:
+1. The Premises is declared temporarily surplus for the term of a lease (as extended by
+renewal or amendment) executed in substantial conformance with the terms set forth
+in Exhibit 1 (Terms Sheet) to this Resolution.
+2. The Chair is authorized to execute such lease and any ancillary instruments and to
+execute renewals or amendments of the same without further Board action.
+ADOPTED this 3rd day of March, 2022.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+SUBMITTED BY:   Tracey Massey, Director, DCA
+EXHIBIT 1
+Terms sheet – Lease of Premises in JJC to OR DOJ
+
+1.  Landlord Multnomah County
+2.  Tenant  The State of Oregon, Department of
+Justice
+3.  Premises
+Building:
+Street:
+
+Juvenile Justice Center
+1401 NE 68th Avenue Portland, OR
+97213
+4.  Premises Rentable Square Footage
+Building Rentable Square Footage
+1,221 rsf, 1st Flr, SW wing
+12,210 rsf
+5.  Tenant’s Proportionate Share  10.00%
+6.  Estimated Completion Date TBD
+7.  Term 72 whole calendar months, upon
+completion of Premises Improvements
+(estimated late Q2/earlyQ3)
+8.  Monthly Base Rent  To be calculated for cost recovery (initial
+rate ~$2.4442/month/rsf); 3%/yr annual
+escalation
+
+9.  Improvement Allowance
+Tenant’s Share of Improvement
+     Costs
+$0.00
+All of the Improvement Costs
+10.  Use  the general purposes of government office
+use
+11.  Parking Rights unreserved parking in Common Areas
+12.  Utilities and Services
+Utility/Service Included in Base
+Services
+Paid directly
+by Tenant
+Water YES
+Sewer YES
+Electricity YES
+Gas YES
+Trash removal  YES
+Recycling  YES
+Janitorial services and supplies  YES
+Window washing  YES
+Snow and ice removal  YES
+Security  YES
+Pest control YES

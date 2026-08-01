@@ -1,0 +1,72 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-ordinance-amending-mcc-chapter-12-business-income-tax-2
+title: 'Ordinance Amending Mcc Chapter 12 – Business Income Tax.-2'
+doc_type: ordinance
+citation: 'Ordinance Amending Mcc Chapter 12 – Business Income Tax.-2'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/ordinance_amending_mcc_chapter_12_%E2%80%93_business_income_tax.-2/download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 4597bae49e6a602307236c0edfd5e0a112f0b6511f3fdc467c93b2e7f152ae5c
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Ordinance Amending Mcc Chapter 12 – Business Income Tax.-2 (Ordinance Amending Mcc Chapter 12 – Business Income Tax.-2)
+
+## At a glance
+
+Ordinance Amending Mcc Chapter 12 – Business Income Tax.-2 — orders of Multnomah County. 2 pages.
+
+## Full text
+
+Page 1 of 2 - Amending MCC Chapter 12 – Business Income Tax
+BEFORE THE BOARD OF COUNTY COMMISSIONERS FOR MULTNOMAH COUNTY, OREGON  ORDINANCE NO. 1322  Amending MCC Chapter 12 – Business Income Tax   (Language stricken is deleted; double underlined language is new.)  The Multnomah County Board of Commissioners Finds:  1. Under Multnomah County Code Chapter 12, the County collects a “Business Income Tax” (BIT) on a portion of a business’ income that results from conducting business in Multnomah County.   2. The City of Portland also collects a “Business License Tax” (BLT) tax on a portion of a business’ income that results from conducting business in the City of Portland. The City BLT is administered through City Code Chapter 7.02.   3. By agreement between the City and the County, the City of Portland collects and administers the County BIT. To simplify the administration of the two taxes and to align the County’s BIT code with the City BLT code, the County is proposing amending the County BIT for tax years beginning January 1, 2024. The proposed amendment will allow the tax administrator by administrative rule to mandate tax returns be filed electronically.  4. Electronically filed tax returns increase administrative efficiency and reduce return processing errors that can result from manual returns being processing. Many taxfilers and tax preparers already file electronic returns for state and federal tax returns. The proposed amendment would allow the Administrator by rule to require electronic filing for tax preparers and businesses who are already required to file electronically for federal tax returns.  5. The implementation of the electronic filing requirement will be completed in phased in approach by the County’s tax administrator that will accommodate taxpayers, tax preparers, and tax software vendors.   6. To increase the number of tax returns filed electronically, the Division of Finance and Risk Management of the Department of County Management recommends the adoption of this ordinance to the Board of County Commissioners to amend certain portions of MCC Chapter 12.  The County has worked closely with the City of Portland Revenue Division with the intent to implement this mandate uniformly between jurisdictions.  7. The County now wishes to amend the below described portion of MCC §§ 12.510
+Page 2 of 2 - Amending MCC Chapter 12 – Business Income Tax
+Multnomah County Ordains as Follows:
+Section 1. MCC § 12.510 is amended as follows:
+§ 12.510 – RETURN DUE DATE.
+(E) Authority to require filing of returns by electronic means.
+(1) As used in this section:
+a) “Electronic means” includes computer-generated electronic or magnetic media,
+internet-based applications or similar computer-based methods or applications.
+b) “Paid tax preparer” means a person who prepares a tax return for another or
+advises or assists in the preparation of a tax return for another, or who
+employs or authorizes another to do the same, for valuable consideration.
+c) “Tax return” means a return filed under the Business Income Tax Law.
+(2) The Administrator may by rule require a paid tax preparer to file tax returns by
+electronic means if the paid tax preparer is required to file federal tax returns by
+electronic means.
+(3) The Administrator may require by rule that a business subject to the Business
+Income Tax Law file tax returns by electronic means if it is required to file, or
+voluntarily files, federal tax returns by electronic means.
+(4) The Administrator may by rule establish exceptions to the electronic filing
+requirements of this section.
+FIRST READING:   1/11/24
+SECOND READING AND ADOPTION: 1/18/24
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Peterson, Chair
+ REVIEWED:
+ JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON

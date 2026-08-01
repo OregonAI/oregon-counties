@@ -1,0 +1,122 @@
+group: lake
+title: Lake County sources
+county: lake-county
+crawl:
+  decision: proceed
+  checked: '2026-08-01'
+  basis: 'THE ONLY HOST IN THIS CORPUS WHOSE robots.txt NAMES ClaudeBot AND DISALLOWS IT. Ingested on
+    an explicit operator decision taken with that fact in front of them, under the Phase 12 reasoning
+    that the county authors its law and the vendor hosts it. No evasion involved: the site serves our
+    unchanged self-identifying User-Agent HTTP 200 over HTTP/2, and the earlier 403 was the same protocol-version
+    artefact that kept Marion out. This is declining to honour a stated preference — recorded as such,
+    not dressed up as anything else.'
+  hosts:
+  - host: lake.county.codes
+    robots_url: https://lake.county.codes/robots.txt
+    ai_block: true
+    content_signal: null
+    notes: 'Names claudebot, gptbot, ccbot, amazonbot, applebot-extended, bytespider, google-extended
+      and meta-externalagent, each Disallow: /. The one genuine AI objection among the corpus''s blocked
+      hosts.'
+last_checked: '2026-07-31'
+upstream_signal: No feed. Titles are server-rendered at stable /LCC/<n> paths, so re-hashing each detects
+  an amendment and a new title appears as a new link on the index.
+sources:
+- id: lake-code-1
+  url: https://lake.county.codes/LCC/1
+  family: code
+  format: html
+  sha256: ''
+  title: '1'
+  last_checked: '2026-07-31'
+- id: lake-code-2
+  url: https://lake.county.codes/LCC/2
+  family: code
+  format: html
+  sha256: ''
+  title: '2'
+  last_checked: '2026-07-31'
+- id: lake-code-3
+  url: https://lake.county.codes/LCC/3
+  family: code
+  format: html
+  sha256: ''
+  title: '3'
+  last_checked: '2026-07-31'
+- id: lake-code-5
+  url: https://lake.county.codes/LCC/5
+  family: code
+  format: html
+  sha256: ''
+  title: '5'
+  last_checked: '2026-07-31'
+- id: lake-code-6
+  url: https://lake.county.codes/LCC/6
+  family: code
+  format: html
+  sha256: ''
+  title: '6'
+  last_checked: '2026-07-31'
+- id: lake-code-8
+  url: https://lake.county.codes/LCC/8
+  family: code
+  format: html
+  sha256: ''
+  title: '8'
+  last_checked: '2026-07-31'
+- id: lake-code-9
+  url: https://lake.county.codes/LCC/9
+  family: code
+  format: html
+  sha256: ''
+  title: '9'
+  last_checked: '2026-07-31'
+- id: lake-code-10
+  url: https://lake.county.codes/LCC/10
+  family: code
+  format: html
+  sha256: ''
+  title: '10'
+  last_checked: '2026-07-31'
+- id: lake-code-12
+  url: https://lake.county.codes/LCC/12
+  family: code
+  format: html
+  sha256: ''
+  title: '12'
+  last_checked: '2026-07-31'
+- id: lake-code-13
+  url: https://lake.county.codes/LCC/13
+  family: code
+  format: html
+  sha256: ''
+  title: '13'
+  last_checked: '2026-07-31'
+- id: lake-code-15
+  url: https://lake.county.codes/LCC/15
+  family: code
+  format: html
+  sha256: ''
+  title: '15'
+  last_checked: '2026-07-31'
+- id: lake-land-use-16
+  url: https://lake.county.codes/LCC/16
+  family: land-use
+  format: html
+  sha256: ''
+  title: '16'
+  last_checked: '2026-07-31'
+- id: lake-land-use-17
+  url: https://lake.county.codes/LCC/17
+  family: land-use
+  format: html
+  sha256: ''
+  title: '17'
+  last_checked: '2026-07-31'
+- id: lake-land-use-18
+  url: https://lake.county.codes/LCC/18
+  family: land-use
+  format: html
+  sha256: ''
+  title: '18'
+  last_checked: '2026-07-31'

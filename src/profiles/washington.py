@@ -133,14 +133,27 @@ PROFILE = {
                 "/lut/land-use-ordinances rather than in Municode. Reachable and not "
                 "blocked; deferred to keep this pass to the two code books."),
         },
+        # RESOLVED 2026-08-01 with a rendered browser, and the answer was neither of the
+        # two possibilities this note used to offer. The portal is GONE:
+        #
+        #   public.powerdms.com/WashCoOR          renders "No Site Found"
+        #   public.powerdms.com/washcoor/documents  404 {"code":"key_not_found"}
+        #
+        # Plain HTTP had returned 200 with the literal body "PowerDMS", which is the app
+        # shell it serves for any path — so "200" said nothing about whether the site
+        # existed. Only rendering it distinguished a wall from a dead link.
+        #
+        # So Washington's administrative manual is not behind an access barrier and is not
+        # an absence at the county: the survey's recorded location no longer exists. Where
+        # the county publishes it now was not established, and that is the honest state.
         "policies": {
             "skip": (
-                "The Administrative Manual is on PowerDMS (public.powerdms.com/WashCoOR), "
-                "which returns HTTP 200 and renders the literal string 'PowerDMS' — a "
-                "client-side app with no server-rendered content and no stable per-document "
-                "URLs. Nothing was enumerable, and it is not possible to tell from outside "
-                "whether that is an access wall or an empty shelf. Recorded as unreachable "
-                "rather than as an absence at Washington County."),
+                "The PowerDMS portal recorded by the survey NO LONGER EXISTS — "
+                "public.powerdms.com/WashCoOR renders 'No Site Found' and the API returns "
+                "key_not_found, confirmed with a rendered browser on 2026-08-01. Plain HTTP "
+                "returned 200 with the app shell, which is why this looked like a wall. "
+                "Where Washington publishes its Administrative Manual now is NOT "
+                "established; this is neither a block nor an absence at the county."),
         },
     },
 }

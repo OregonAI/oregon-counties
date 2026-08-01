@@ -1,0 +1,192 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-order-establishing-costs-and-persons-liable-for-road-hazard-
+title: 'Order Establishing Costs And Persons Liable For Road Hazard On Se Pounder Road.'
+doc_type: ordinance
+citation: 'Order Establishing Costs And Persons Liable For Road Hazard On Se Pounder Road.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/order_establishing_costs_and_persons_liable_for_road_hazard_on_se_pounder_road./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 9903b6679a7e5303d09f3a7577de74f44fbbccdca2421176345268dcaadcf455
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 368.001
+    - ORS 368.251
+    - ORS 368.256
+    - ORS 368.271
+    - ORS 368.276
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Order Establishing Costs And Persons Liable For Road Hazard On Se Pounder Road. (Order Establishing Costs And Persons Liable For Road Hazard On Se Pounder Road.)
+
+## At a glance
+
+Order Establishing Costs And Persons Liable For Road Hazard On Se Pounder Road. — orders of Multnomah County. 5 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+ORDER NO.
+Order establishing costs and persons liable for road hazard on SE Pounder Road.
+The Multnomah County Board of Commissioners Finds:
+a) SE Pounder Road, in the area of Corbett, is a County road under the meaning of ORS
+368.001(1).
+b) Beginning in 2020, and continuing into 2021, Multnomah County Land Use Planning
+received complaints that excavation and ground disturbing activities were being
+performed at 645 SE Pounder Road in a manner that caused erosion, blocked the
+County’s culvert and ditch, and impacted adjacent property and Pounder Road.
+According to recorded documents in the Tax Assessor’s Office, Heather Moon owns
+the real property at 645 SE Pounder Road.
+c) On or about February 23, 2021, Multnomah County Transportation was notified that
+large cracks had formed on SE Pounder Road.  Transportation conducted a site visit
+and observed water, mud and debris sheeting across the road, a plugged public
+culvert, sloughing of the road shoulder, and sinking and cracking in the pavement.
+d) The County Engineer determined that the activities at 645 SE Pounder Road created a
+road hazard under the meanings in ORS 368.251 and 368.256(1), and presented a
+substantial risk of damage or injury to the traveling public, requiring abatement without
+delay and without notice or a hearing, and proceeded accordingly pursuant to ORS
+368.271(1)(c).
+e) Beginning February 23, 2021, County Transportation took emergency action to abate
+the road hazard created by the activities at 645 SE Pounder Road. Abatement
+measures were completed on March 4, 2022. The emergency abatement measures
+resulted in over $387,000 in costs to County Transportation funds.
+f) On July 14, 2022, the Multnomah County Board of Commissioners accepted a written
+report from the County Engineer. That report is attached hereto as Exhibit 1.
+g) On July 14, 2022, the Board of County Commissioners set a public hearing for
+October 6, 2022 at 9:30 AM in the Board Room in accordance with ORS 368.276(1).
+h) Notice of the hearing was provided in accordance with ORS 368.276(2).
+i) On October 6, 2022, the Board of County Commissioners conducted a public hearing
+where staff presented facts supporting the financial impacts of the emergency
+abatement measure, and provided opportunity for public comment in accordance with
+ORS 368.276(1) and (3).
+2022-090
+The Multnomah County Board of Commissioners Orders:
+1. Ms. Heather Moon is the property owner of 645 SE Pounder Road. The activities
+conducted on that property caused a road hazard on SE Pounder Road that resulted
+in mud and debris sheeting across the road, a plugged public culvert, sloughing of the
+road shoulder, and sinking and cracking in the pavement that required an emergency
+closure of the road and abatement measures.
+2. The emergency abatement measures resulted in over $387,000 in costs to County
+Transportation funds.
+3. Ms. Heather Moon is hereby assessed $_____________ in costs, due within 60 days
+of this Order.
+4. The Office of County Attorney is authorized to negotiate assessed costs and a
+payment schedule with Ms. Heather Moon.
+ADOPTED this 6th day of October, 2022.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+SUBMITTED BY:
+Jenny M. Madkour, County Attorney
+$387,000
+Exhibit 1
+MULTNOMAH COUNTY
+AGENDA PLACEMENT REQUEST
+Board Clerk Use Only
+Meeting Date:
+Agenda Item #:
+Est. Start Time:
+Agenda Title: Reporting on County Road Hazard Abatement Activities on SE Pounder
+Road and Setting a Public Hearing to Assess Costs & Liability pursuant to ORS
+368.276(1).
+Requested Date: July 14, 2022 Time Needed: 10 minutes
+Department/Division: Community
+Services/Transportation
+Requester Name & Email: Jon Henrichsen,
+jon.p.henrichsen@multco.us
+Please list all presenters, with their titles, organization or department, in order of
+speaker, or note if their role is to answer questions:
+Jon Henrichsen, County Engineer and DCS Transportation Division Director and Courtney
+Lords, Senior Assistant County Attorney
+Will your group join virtually or in-person? (check one)
+___ Presenters will be in the Multnomah Building Boardroom
+_X__ Presenters will be virtual/online. List emails of all virtual presenters:
+Note: Virtual presenters must log in 15 mins prior to the start of the meeting to test
+video & mic
+General Information:
+1. What are you requesting from the Board?
+Reporting on County road hazard abatement activities on SE Pounder Road, in Corbett, in
+accordance with ORS 368.271(4); and setting a public hearing date of October 6, 2022 for
+the Board to assess costs of abatement and determine the person or party responsible for
+payment of such costs pursuant to ORS 368.276(1).
+2. Please provide sufficient background information for the Board and the public to
+understand this issue. Please note which Program Offer(s) this action affects and how
+it impacts the results.
+This APR constitutes the County’s written report regarding Transportation’s emergency
+abatement actions on SE Pounder Road, pursuant to ORS 368.271(4).  Transportation
+was authorized to take emergency abatement actions, pursuant to ORS 368.271(1)(c), due
+to the County Engineer’s determination that a road hazard was created and caused
+emergency conditions and damage to the right of way, and presented a substantial risk of
+damage or injury to the traveling public, requiring abatement without delay and without
+notice or a hearing.
+On or about February 23, 2021, Transportation was notified about large cracks forming in
+SE Pounder Road in the Corbett area of east County.  Transportation did a site visit and
+observed water, mud and debris sheeting across the road, a plugged public culvert,
+sloughing of the road shoulder, and sinking and cracking in the pavement.  Based on these
+observations, the County Engineer made a determination that a road hazard was present
+and presented a substantial risk of damage or injury to the traveling public, requiring
+abatement without delay and without notice or a hearing, and proceeded accordingly.
+Transportation performed emergency work including removal and replacement of the
+obstructed culvert, cleaned out the preexisting County ditch, regraded a ditch that was
+created and modified by the property owner without County approval or notice, repaired a
+roadway embankment that had washed out, cleared and replaced a man hole, installed a
+rock retaining wall to support the road structure that was necessary due to unpermitted
+excavation, replaced damaged asphalt, and replaced damaged fencing on an adjacent
+property.  Corbett Water District also had to replace its water line.
+3. Explain the fiscal impact (current year and ongoing).
+Transportation incurred $387,005.00 in costs to remediate the road hazard and repair the
+road due to the damage caused the property owner’s failure to comply with County rules
+and regulations, as well as to obtain a right of way permit.  Consequently, and pursuant to
+ORS 368.276, Transportation is seeking reimbursement of those costs.
+4. Explain any legal and/or policy issues involved.
+Pursuant to ORS 368.271, counties are authorized to take emergency actions to abate a
+road hazard when a road hazard presents a substantial risk of damage, injury, or other
+emergency condition.  Obstruction of a road drain is not permitted under ORS 368.251,
+and creation of a road hazard is prohibited under ORS 368.256.  ORS 368.251 states:
+When a county road official takes emergency abatement actions, the county road official is
+required to file a written report to the county governing board explaining those actions, the
+reason for the actions, and costs incurred in accordance with ORS 368.271(4); this APR is
+that report.
+Pursuant to ORS 368.276 and upon receipt of the report, the County governing body shall
+set a hearing date and time to assess costs performed under ORS 368.271 and determine
+persons liable for those costs.  A hearing date is requested for October 6, 2022.
+This action is subsequent to the County obtaining a restraining order against the property
+owner in Multnomah County Circuit Court, and a land use enforcement action that resulted
+in a Hearings Officer Order in favor of the County.
+5. Explain any community and/or other government participation that has or will take
+place.
+The public hearing required under ORS 368.276 allows for the adjacent property owner
+and public participation in the County Board’s determination of costs and persons liable
+for payment of those costs.
+Required Signature:
+Elected Official/
+Department
+Director:
+/s/ Jamie Waltz
+Date:
+Note: Please insert name of your approver following the /s/. Send accompanying electronic
+approvals to the Board Clerk.

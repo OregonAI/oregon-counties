@@ -1,0 +1,102 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-proclamation-proclaiming-october-14th-2024-as-indigenous-peo
+title: 'Proclamation Proclaiming October 14Th, 2024 As Indigenous Peoples’ Day In Multnomah County, Oregon.'
+doc_type: ordinance
+citation: 'Proclamation Proclaiming October 14Th, 2024 As Indigenous Peoples’ Day In Multnomah County, Oregon.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/proclamation_proclaiming_october_14th%2C_2024_as_indigenous_peoples%E2%80%99_day_in_multnomah_county%2C_oregon./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 4c8bf28aac2d3c65b3ef95077f98f5f858aa05dbea242cf1b9b1ce864f465d0f
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Proclamation Proclaiming October 14Th, 2024 As Indigenous Peoples’ Day In Multnomah County, Oregon. (Proclamation Proclaiming October 14Th, 2024 As Indigenous Peoples’ Day In Multnomah County, Oregon.)
+
+## At a glance
+
+Proclamation Proclaiming October 14Th, 2024 As Indigenous Peoples’ Day In Multnomah County, Oregon. — orders of Multnomah County. 2 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+
+PROCLAMATION NO. 2024-088
+
+Proclaiming October 14th, 2024 as Indigenous Peoples’ Day in Multnomah County,
+Oregon.
+
+The Multnomah County Board of Commissioners Finds:
+
+A. The Native American, Alaskan Native and Indigenous heritage of Turtle Island, or
+what we now call the United States extends since time immemorial and is a vital
+influence in our country’s prosperity.
+
+B. The United States rests on the ancestral territory of the Indigenous Tribal Nations of
+this region and their homelands and villages with the stolen labor of our African siblings;
+and we acknowledge the multi-generational loss of life, loss of land, loss of water and
+waterways, loss of language, loss of children, and loss of culture due to the historical
+and ongoing colonization of this land that perpetuate the current structural barriers that
+impact the Native quality of life.
+
+C. Our name, “Multnomah,” is derived from the Multnomah who are a band of the
+Chinookan people and we conduct daily business on Indigenous soil. We recognize that
+we are occupants, guests, and stewards of this land, originally cared for by bands of the
+Confederated Tribes of Grand Ronde.
+
+D. Indigenous Peoples and Nations have lived here since time immemorial with their
+own knowledge, languages, relationships with the environment, advocacy, science,
+philosophy, arts and culture. Their historical and present-day contributions,
+relationships, history, and advocacy continue to shape the character of our region.
+
+E. Recognizing that we were not the first caretakers of this land and that generations of
+Native American people called, and continue to call, this place home, is essential to
+where we need to begin as a County and community. If we are intentional about equity
+and inclusion, being sincere in our words and actions will consistently result in respect
+for Native American people coming first.
+
+F. We are still here. Indigenous Peoples' Day is an opportunity to acknowledge and
+celebrate the thriving traditions and deeply rooted values of the Indigenous Peoples who
+reside in Multnomah County and their ancestors before them.
+
+G. By honoring and celebrating our region’s first peoples, we are reclaiming a piece of
+history and ancestral wisdom, and choosing to no longer observe a time of genocide.
+
+The Multnomah County Board of Commissioners Proclaims:
+October 14th, 2024 as Indigenous Peoples’ Day in Multnomah County, Oregon, to honor
+and celebrate the many contributions made by the Indigenous peoples throughout our
+vibrant community. We encourage other businesses, organizations, public institutions
+and community members to recognize Indigenous Peoples' Day, and to take time to
+learn and teach others around the history and cultural significance of our county and
+Indigenous community.
+ADOPTED this 17th day of October, 2024.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Jessica Vega Pederson, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By:
+Jenny M. Madkour, County Attorney

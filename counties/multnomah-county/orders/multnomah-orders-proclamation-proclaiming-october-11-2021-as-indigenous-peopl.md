@@ -1,0 +1,96 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-proclamation-proclaiming-october-11-2021-as-indigenous-peopl
+title: 'Proclamation Proclaiming October 11, 2021 As Indigenous Peoples’ Day In Multnomah County, Oregon.'
+doc_type: ordinance
+citation: 'Proclamation Proclaiming October 11, 2021 As Indigenous Peoples’ Day In Multnomah County, Oregon.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/proclamation_proclaiming_october_11%2C_2021_as_indigenous_peoples%E2%80%99_day_in_multnomah_county%2C_oregon./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: c8093e6af28a4913a86026681fe969098b2021551f5aa8f68ce72b291d50f3c8
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Proclamation Proclaiming October 11, 2021 As Indigenous Peoples’ Day In Multnomah County, Oregon. (Proclamation Proclaiming October 11, 2021 As Indigenous Peoples’ Day In Multnomah County, Oregon.)
+
+## At a glance
+
+Proclamation Proclaiming October 11, 2021 As Indigenous Peoples’ Day In Multnomah County, Oregon. — orders of Multnomah County. 3 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERSFOR MULTNOMAH COUNTY, OREGONPROCLAMATION NO.2021-078
+iləp kʰapa uk board of county commissionerspus multnomah county oregonhayash-wawa pipa kʼwinin-tʼsəm:2021-078
+ProclaimingOctober11, 2021as IndigenousPeoples’Dayin MultnomahCounty,Oregon.
+hayash-wawakʰapaOctober11, 2021kakwashawash-tilixam-hayash-sankʰapamultnomah county oregon
+The Multnomah County Board of Commissioners finds:
+a. TheNativeAmerican,AlaskanNativeandIndigenousheritageofTurtleIsland,orwhatwenowcalltheUnitedStatesextendssincetimeimmemorialandisa vitalinfluence in our country’s prosperity.
+uk multnomah county board of commissioners ɬaska tʼɬap kakwa:
+hayux̣luymashawash-tilixamɬaskakəmtəksuk nim kʰapauk iliʔi kakwaiɬagwa-tənəs-iliʔi.x̣luymatilixamɬaskakəmtəksukbastənnimkʰapaukiliʔikakwaunitedstates.kwansəmanqatiukshawashtilixamɬaskamiɬaytkʰapaukukiliʔilyakwa.  uk kimtəks pi yaʔim kʰapa ɬaska munk kʰanawi tilixam manaqi skukum alta.
+b. TheUnitedStatesrestsontheancestralterritoryoftheIndigenousTribalNationsofthisregionandtheirhomelandsandvillageswiththestolenlaborof ourAfricansiblings;andweacknowledgethemulti-generationallossoflife,lossofland,lossofwaterandwaterways,lossoflanguage,lossofchildren,andlossofcultureduetothehistoricalandongoingcolonizationof thislandthatperpetuatethecurrentstructural barriers that impact the Native quality of life.
+uk unitedstatesiliʔiukukkakwaukiliʔikʰapashawash-tilixampi ɬaskaanqatitilixam.x̣luymamasachitilixamɬaskachakupi kapshawlaukukiliʔikʰapaukshawash-tilixam.wəxtɬaskakapshwalaɬiʔil-tilixampimunkɬaskamamukhayupusbastən-tilixam.hayunsaykaiktachaku-hilukiwabastəntilixamɬaskamunkmasachiikta. hayunsaykaanqati-tilixamɬaskachakuhilupiwəx̣t hayutʼsəkchaku-hilupiwəx̣t hayulalangchaku-hilupi wəx̣t hayutənaschaku-hilupi wəx̣t nsaykaul-shawash-uyx̣at-iktachaku-hilu.kʰənəx̣ wikkʰanawishawashiktachaku-hilu.bastəntilixamdrettikiukmasachiiktakakwaɬaskachakumanaqiskukum.kʰabastən-tilixam ɬaska munk masachi ikta kʰapa  shawash-tilixam alta.
+c. Ourname,“Multnomah,”is derivedfromtheMultnomahwhoarea bandof theChinookanpeopleandweconductdailybusinessonIndigenoussoil.Werecognizethatweareoccupants,guests,andstewardsof thisland,originallycaredforbybands of the Confederated Tribes of Grand Ronde.
+uk nimmultnomahchakukʰapaukchinuk-tilixam.anqatimultnomahɬakʼamaschinuk-tilixamɬaskamíɬaytkʰapaukukiliʔi. liiiliiianqatiɬaskamiɬaytyakwailəpukbastəntilixamɬaskachaku.altax̣luymatilixamɬaskamiɬaytkʰapaukiliʔikakwailiʔiqʰaukmultnomahɬakʼamas-chinuk-tilixamɬaskamiɬaytanqati.nsaykakəmtəksukdretx̣luyma-tilixamnsaykakʰapaukukiliʔi. nsaykakəmtekskakwachachaluanqati-tilixamkʰapa shawash-iliʔi-tilixamɬaska iliʔi ukuk. chachalushawash-iliʔi-tilixamɬaskaanqati-tilixammunk-tʼuʔanukukiliʔiiləpkʰapaukx̣luymatilixam ɬaska chaku.
+d. IndigenousPeoplesandNationshavelivedheresincetimeimmemorialwiththeirownknowledge,languages,relationshipswiththeenvironment,advocacy, science,philosophy, arts and culture.Theirhistoricaland presentday contributions,relationships, history, and advocacy continue to shape the character of our region.
+lilianqatishawash-tilixamɬaskamiɬaytkʰapaukukiliʔi. hilutilixamɬaskakəmtəksqʰənchi-lilianqatiɬaskamiɬaytyakwa.ɬaskaanqati-tilixamtʼuʔanhayukimtəkspilalangpiɬaskakəmtəksqʰata-pusmunkhayuiktaɬushkʰapailiʔi.kʰaɬaskayaʔimpi uk ikta ɬaska wawa uk munk manaqi ɬush ikta kʰapa tilixam pi iliʔi alta.
+e. We arestillhere.IndigenousPeoples'DayisanopportunitytoacknowledgeandcelebratethethrivingtraditionsanddeeplyrootedvaluesoftheIndigenousPeopleswho reside in Multnomah County and their ancestors before them.
+kʰansaykamiɬayt.kʰapashawash-tilixam-hayash-sanɬushnsaykamunk-kimtəksuk shawash-tilixampi qʰataɬaskamunkikta. ɬushnsaykamunk-kimtəksshawash-tilixamɬakstamiɬaytkʰapamultnomahcountyalta. wəx̣t ɬushnsaykamunk-kimtəks ɬaska anqati tilixam pi qʰata ɬaska miɬayt anqati.
+f. Byhonoringandcelebratingourregion’sfirstpeoples,wearereclaimingapieceofhistoryandancestralwisdom,andchoosingto no longerobservea timeofgenocide.
+pusnsaykamunk-kimtəkskʰapashawash-tilixamaltansaykachaku-kəmtəksɬushiktakʰapaɬaskayaʔimpi anqati-kimtəks.pusnsaykamunk-kakwaaltaaɬqiwikshawash-tilixam ɬaska chaku-hilu wəx̣t.
+g. TodayMultnomahCountyrecognizesthemorethan70,000AmericanIndianandAlaskaNativeslivinginourregion,andhonorstheimportantrolethatTribalLeadersplayin sustainingourculture,promotingcommunityhealthandmakingpositiveimpacts every day in the lives of the people of Multnomah County.
+uk san multnomah county tayi-tilixam ɬaska kəmtəks uk manaqi wəx̣t pi 70,000
+shawash-tilixam miɬayt yakwa alta. ɬaska munk-kimtəks uk shawash-tayi-tilixam pi
+kʰanawi ikta ɬaska munk pus munk-tuʔan uk shawash-uyx̣at-ikta. uk
+shawash-tayi-tilixam ɬaska munk ikta manaqi-ɬush pus shawash-tilixam. wəx̣t ɬaska
+munk ikta manaqi-ɬush kʰapa kʰanawi tilixam kʰapa multnomah county.
+The Multnomah County Board of Commissioners Proclaims:
+October 11th, 2021 as Indigenous Peoples’ Day in Multnomah County, Oregon, to honor
+and celebrate the many contributions made by the Indigenous peoples throughout our
+vibrant community. We encourage other businesses, organizations, public
+institutions
+and community members to recognize Indigenous Peoples' Day, and to take
+time to
+learn and teach others around the history and cultural significance of our county
+and
+Indigenous community.
+uk multnomah county board of commissioners ɬaska munk hayash-wawa kakwa:
+October 11th, 2021 kakwa shawash-tilixam-hayash-san ukuk pus multnomah county
+oregon.  dret nsayka munk-kimtəks kʰanawi uk ikta shawash-tilixam ɬaska munk kʰapa
+kʰanawi uk tilixam yakwa.  nsayka tiki uk manaqi-hayu x̣luyma tilixam ɬaska
+chaku-kəmtəks uk shawash-tilixam-hayash-san.  wəx̣t ɬush ɬaska chaku-kəmtəks uk
+shawash-iliʔi yaʔim.  kʼuy aɬqi ɬaska munk-kəmtəks manaqi-hayu x̣luyma tilixam kʰapa
+uk shawash-iliʔi yaʔim.
+ADOPTED this 7th day of October, 2021
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, County Chair
+REVIEWED:
+JENNY
+ M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+By________________________________
+
+Jenny M. Madkour, County Attorney
+SUBMITTED BY: Anna Marie Allen, Policy & Engagement Advisor, Multnomah County
+Chair’s office.

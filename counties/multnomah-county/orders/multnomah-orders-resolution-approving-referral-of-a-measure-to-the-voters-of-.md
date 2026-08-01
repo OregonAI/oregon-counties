@@ -1,0 +1,3794 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-resolution-approving-referral-of-a-measure-to-the-voters-of-
+title: 'Resolution Approving Referral Of A Measure To The Voters Of Multnomah County The Question Of Levying A Personal Income Tax To Higher Earners To Fund Tuition-Free Preschool For All Program.'
+doc_type: ordinance
+citation: 'Resolution Approving Referral Of A Measure To The Voters Of Multnomah County The Question Of Levying A Personal Income Tax To Higher Earners To Fund Tuition-Free Preschool For All Program.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_approving_referral_of_a_measure_to_the_voters_of_multnomah_county_the_question_of_levying_a_personal_income_tax_to_higher_earners_to_fund_tuition-free_preschool_for_all_program./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: 1ec7b57ea348d80e582b5b0b939b3c59bfdd9757bda59bf6584a1c37c902c44d
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 316.027
+    - ORS 329A.430
+    - OAR 150-316-0025
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Approving Referral Of A Measure To The Voters Of Multnomah County The Question Of Levying A Personal Income Tax To Higher Earners To Fund Tuition-Free Preschool For All Program. (Resolution Approving Referral Of A Measure To The Voters Of Multnomah County The Question Of Levying A Personal Income Tax To Higher Earners To Fund Tuition-Free Preschool For All Program.)
+
+## At a glance
+
+Resolution Approving Referral Of A Measure To The Voters Of Multnomah County The Question Of Levying A Personal Income Tax To Higher Earners To Fund Tuition-Free Preschool For All Program. — orders of Multnomah County. 52 pages.
+
+## Full text
+
+Page 1 - Approving referral of a measure to the voters of Multnomah County the question of
+levying a personal income tax to higher earners to fund tuition-free Preschool for All
+Program.
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO. 2020-067
+Approving referral of a measure to the voters of Multnomah County the question of levying a
+personal income tax to higher earners to fund tuition-free Preschool for All Program.
+The Multnomah County Board of Commissioners Finds:
+a. The Board determines that it is a matter of County concern and a public purpose to,
+within the next 10 years, ensure universal, tuition free, voluntary, high quality preschool
+education for every three-and-four-year-old with a parent or guardian residing within
+Multnomah County.
+b. High quality preschool programs improve health, education, economic, and social
+outcomes, saving money on costly interventions later in life.
+c. Public investment in preschool may be our single best investment to reduce racial,
+ethnic, and income based education and opportunity gaps. Children attending a high-
+quality preschool have higher high school graduation rates and earnings in adulthood,
+and experience reduced rates of unemployment, substance abuse, and involvement in
+the criminal justice system.
+d. Economists estimate that the rate of return for funding high quality preschool programs
+ranges from $7 to $10 for every dollar invested.
+e. There are approximately 19,000 three and four year-olds in Multnomah County.
+f. Over 66 percent of three and four year-olds in Multnomah County of Hispanic or Latino,
+African American or Black, Native Hawaiian or Pacific Islander, American Native or
+Alaskan Native, Asian or Slavic race, ethnicity, or ancestry are living below 200 percent
+of the Federal Poverty Level.
+g. According to a recent analysis, Oregon is the sixth least affordable state in the nation for
+the cost of family child care.
+h. More than 60 percent of households in Multnomah County fall under the Self-Sufficiency
+Standard, meaning that they are unable to meet basic living needs without assistance.
+i. Federal and State preschool programs only meet 15 percent of the need for preschool
+access in Multnomah County.
+j. The median preschool teacher wage in Oregon in 2018 was $13.70 per hour, and the
+median kindergarten teacher wage was $38.80 per hour.
+
+Page 2 - Resolution approving referral of a measure to the voters of Multnomah County the
+question of levying a Personal Income Tax to fund the Preschool for All Program.
+k. Public investment in preschool is a powerful economic development strategy, creating
+jobs and raising the skill level of the labor force, particularly for historically
+disadvantaged groups.
+
+l. The lack of affordable preschool is a serious burden on low-income and middle-income
+communities. The high cost of care prevents parents (disproportionately mothers) from
+being able to work as many hours as they need to, or from working at all. As a result,
+poverty rates for young children are higher than for any other age group in Oregon.
+
+m. Multnomah County engaged with parents, educators, community advocates, small
+business leaders, and other community stakeholders over a multi-year process to
+develop the Preschool for All plan, which establishes a roadmap for expanding high-
+quality preschool to all three and four year-olds in Multnomah County, attached hereto
+as Exhibit D.
+
+n. The Universal Preschool NOW coalition of more than 30 endorsing organizations
+gathered more than 24,000 qualified signatures from county voters to certify a
+citizens initiative for November's ballot to consider countywide universal preschool
+for all 3- and 4-year-olds, with living wages for preschool teachers and assistants,
+funded through a tax on the top 5% of income earners.
+
+o. Universal Preschool NOW's historic, successful signature collection effort during a
+pandemic demonstrates strong public support for a universal preschool program. UP
+NOW organizers have collaborated with Preschool For All and are in discussion
+about a memorandum of understanding/agreement for continued involvement in any
+universal preschool program approved by voters in November.
+
+p. This Resolution implements the Board’s intent to refer a measure to the voters to enact
+an income tax on Oregon taxable income on Multnomah County residents and on
+nonresidents that derive income from sources within the county at certain thresholds, to
+fund the operation and administration of a tuition-free preschool program.
+
+q. This Resolution recognizes the significant contributions to this effort of Sarah Cohen-
+Doherty, who died unexpectedly on July 21. Sarah’s intelligence and dedication to
+expanding early learning opportunities to those most in need is reflected in the
+community involvement and outreach conducted and the Preschool for All Task Force
+report. Her diverse experience as a teacher, education program coordinator,
+communications project manager brought a wealth of knowledge to the Preschool for All
+effort.
+
+The Multnomah County Board of Commissioners Resolves:
+
+1. The measure described in the proposed Ordinance (Exhibit A) is referred to the electors
+of Multnomah County for the November 3, 2020, election.
+
+2. The Ordinance (Exhibit A), Ballot Title (Exhibit B), and the Explanatory Statement
+(Exhibit C) are adopted and made part of this Resolution. The Ordinance, Ballot Title
+and Explanatory Statement will be printed substantially in the form set forth.
+
+Page 3 - Approving referral of a measure to the voters of Multnomah County the question of
+levying a Personal Income Tax to fund the Preschool for All Program.
+3. The Board authorizes the County Attorney to deliver to the Elections Director the final
+ballot title and explanatory statement on form SEL 801 not later than September 3, 2020
+(sixty-one (61) days prior to the election date), and to take such further action as is
+necessary to carry out the intent and purposes herein in compliance with the applicable
+provisions of law.
+ADOPTED this 6th day of August, 2020
+SUBMITTED BY: Jessica Vega Pederson, Multnomah County Commissioner, District 3
+By: Jenny M. Madkour, County Attorney
+ BOARD OF COUNTY COMMISSIONERS
+ FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+•1!)'\A_,I��
+
+BEFORE THE VOTERS OF MULTNOMAH COUNTY, OREGON
+NOVEMBER 3, 2020
+Ordinance No. 1288
+Personal Income Tax on Higher Earners to Fund Tuition-Free Preschool for All
+Program.
+The Multnomah County Board of Commissioners Finds:
+1. Oregon Constitution Article VI, section 10 grants county voters authority to adopt
+a county charter.
+2. Multnomah County Charter Section 2.10 grants the county legislative authority
+“over matters of county concern to the fullest extent permitted by the
+constitutions and laws of the United States and the State of Oregon.” Multnomah
+County has authority to enact laws taxing incomes to pay for county services
+required for the health, safety, and welfare of the people of the county.
+3. An income tax on Oregon taxable income on Multnomah County residents and
+on nonresidents that derive income from sources within the county at certain
+thresholds, is required to fund the operation and administration of a Tuition-Free
+Preschool Program.
+Multnomah County Voters Ordain as follows:
+Personal Income Tax on Higher Earners to Fund Tuition-Free Preschool for All
+Program.
+SECTION 1.   TITLE
+This chapter is known and cited as the Multnomah County Preschool for All Program
+Tax.
+SECTION 2.   DEFINITIONS
+For the purpose of this ordinance, the following definitions apply unless the context
+requires a different meaning.
+BOARD. The Multnomah County Board of County Commissioners.
+COMMITTEE. The Multnomah County Preschool for All Program Advisory Committee.
+DEPARTMENT. The Multnomah County Department of County Human Services.
+DEPARTMENT.
+​
+The Multnomah County Department of County Human Services.
+
+FINANCIAL ADMINISTRATOR.
+​
+
+​
+The Multnomah County Finance Chief Financial Officer
+
+or designee
+
+NONRESIDENT.
+​
+
+​
+An individual who is not a resident within the Multnomah County
+
+jurisdictional boundary.
+
+PRESCHOOL FOR ALL PROGRAM or
+​
+
+​
+PROGRAM.
+​
+ The Multnomah County Preschool
+
+for All Program providing tuition-free preschool for children that meets the criteria in this
+
+Ordinance.
+
+RESIDENT.
+​
+
+​
+ A taxpayer domiciled within Multnomah County for any portion of the
+
+taxable year. ORS 316.027 and OAR 150-316-0025 are hereby adopted and shall
+
+control when residency questions arise.
+
+TAXABLE INCOME.
+​
+
+​
+Taxable income under Oregon law.
+
+SECTION 3.
+
+INCOME TAX
+
+A.
+A tax of 1.5% is imposed on Oregon taxable income over $200,000 for joint filers
+
+and $125,000 for single filers on every resident of Multnomah County subject to tax
+
+under ORS chapter 316, and upon the taxable income derived from sources within
+
+Multnomah County over $200,000 if filing jointly and $125,000 if filing singly of every
+
+nonresident that is subject to tax under ORS chapter 316. On January 1, 2026, the tax
+
+imposed will be increased by 0.8%.
+
+B.
+An additional tax of 1.5% is imposed on Oregon taxable income over $400,000 if
+
+filing jointly and $250,000 if filing singly on every resident of the district subject to tax
+
+under ORS chapter 316, and upon the taxable income derived from sources within
+
+Multnomah County over $400,000 if filing jointly and $250,000 if filing singly of every
+
+nonresident that is subject to tax under ORS chapter 316.
+
+C.
+As allowed by the Multnomah County Home Rule Charter, the Board may adjust
+
+the income tax rate to fully fund the Program.
+​
+A technical team will be convened by the
+
+Chair’s Office and will report to the Board before January 1, 2026, with a
+
+recommendation regarding the increase in subsection (A) of this section and the future
+
+revenue requirements to ensure the program is fully funded.
+
+D.
+ The net revenues (“Tax Receipts”) will be paid to the County and tracked in a
+
+separate fund, for distribution by the Board for Program services, such as:
+
+a.
+Administration by the Department of County Human Services. The
+
+Department will oversee Program operations, ensure quality, provide
+
+operational support and oversight, and adopt administrative rules to
+
+implement the Program.
+
+b.
+Programming for all children aged three or four years old by September
+
+1st of the enrolling year with a parent or legal guardian residing in
+
+Multnomah County are eligible to enroll in the Program. Equitable access
+
+will be provided to people of color and other historically marginalized
+
+communities.
+
+c.
+Providing up to six hours per day of high-quality, tuition-free,
+
+developmentally appropriate, early learning experiences reflecting best
+
+practices in a mixed-delivery model.
+
+d.
+Offering Program options will include:
+
+i.
+Half-day, full-day, year-round, and school-year schedules.
+
+ii.
+Culturally relevant, multi-generational learning programs as part of
+
+the mixed delivery system.
+
+iii.
+Up to four additional hours of before or aftercare per day for
+
+families with incomes under the Self-Sufficiency Standard for
+
+Multnomah County.
+
+e.
+Requiring that Program teachers be paid on par with kindergarten
+
+teachers, and assistants will be paid a minimum of $19.91 in 2022, with
+
+cost of living adjustments (COLA) based on the County’s Local 88
+
+union-negotiated COLA rate or to bring wage to 135% of Portland’s
+
+minimum wage, whichever is greater.
+
+f.
+Establishing a compensation matrix that adjusts wages based on Program
+
+teacher or assistant credentialing, education, certification, licensure, ORO
+
+Steps, special skills (such as language), and experience, and by 2035
+
+reflects a Program assistant teacher minimum wage not less than 75% of
+
+Program teacher minimum wage.
+
+g.
+Establishing credentialing requirements for providers, including licensure
+
+and certification that builds over time, allowing for workforce development
+
+strategies and supports to be in place before credentialing requirements
+
+rise.
+
+h.
+Multnomah County shall remain neutral with respect to representation and
+
+collective bargaining on matters concerning labor relations for any family
+
+childcare provider participating or applying to participate in the Program,
+
+as authorized by ORS 329A.430.
+
+E.
+This tax will be effective beginning January 1, 2021.
+
+SECTION 4.
+PERFORMANCE AUDITS.
+
+Independent performance audits will be conducted on the use of funds generated by
+
+this tax.
+
+SECTION 5.
+
+PRESCHOOL FOR ALL PROGRAM ADVISORY COMMITTEE.
+
+A.
+COMMITTEE ESTABLISHED.
+​
+ A Preschool for All Program Advisory Committee
+
+is created to review Program expenditures, provide Program oversight, review data,
+
+advise evaluation efforts, and make policy recommendations to the Department.
+
+B.
+MEMBERSHIP.
+​
+ The Chair, with approval of the Board, will appoint a minimum of
+
+12, and a maximum of 15 Committee members that represent the County’s diverse
+
+communities and geographies.
+
+C.
+TERM
+​
+. Each Committee member is appointed for a two-year term. An
+
+appointment may be rescinded by Board vote. No member can serve more than two
+
+consecutive terms within any five year period.
+
+SECTION 6.
+
+PAYMENT OF TAX
+
+Payment of this tax is due on the due date of the Oregon Personal Income Tax Return,
+
+generally April 15th or the closest following business day.
+
+SECTION 7.
+
+FINANCIAL ADMINISTRATOR DUTIES
+
+A.
+Receipt.
+​
+The Financial Administrator will receive the tax imposed by this
+
+ordinance from the taxpayers, keep accurate records, and report all monies received.
+
+B.
+Collection.
+​
+ The Financial Administrator will collect and pursue payment of all
+
+taxes owing to the county.
+
+C.
+Rulemaking.
+​
+ The Financial Administrator will adopt administrative rules to
+
+implement this tax. Rules adopted will generally be consistent with the rules of the
+
+Oregon Department of Revenue regarding personal income tax.
+
+D.
+Contracting.
+​
+ The Financial Administrator may contract with public or private
+
+agencies, as necessary, to implement this ordinance.
+
+SECTION 8.
+
+OTHER PROVISIONS
+
+A.
+Savings Clause.
+​
+If any part of this ordinance, or any tax against any individual or
+
+group is found unconstitutional, illegal, or invalid, such unconstitutionality, illegality or
+
+invalidity will affect only that part of this ordinance or tax and will not affect or impair any
+
+other provisions of this tax or ordinance.
+
+B.
+This ordinance takes effect January 1, 2021, upon enactment by Multnomah
+
+County voters at the election called for November 3, 2020.
+
+CAPTION (10/10)
+
+Establishes tuition-free preschool program, higher earners income tax funding.
+
+QUESTION (20/20)
+
+Should County establish tuition-free “Preschool for All Program” with new 1.5 to
+
+3.8 percent tax on income above thresholds?
+
+SUMMARY (175/175)
+
+Establishes “Preschool for All Program” providing up to six hours per day of
+
+tuition-free, developmentally appropriate early learning, reflecting best practices.
+
+Mixed delivery model; half-day, full-day, year-round, school-year schedule
+
+options. All three, four year olds with parent, legal guardian residing in County
+
+eligible. Equitable access provided to people of color, historically marginalized
+
+communities.  Before, aftercare for qualifying incomes.  Board to establish
+
+provider credentialing requirements, compensation matrix including teacher pay
+
+on par with kindergarten teachers, assistants paid $19.91 per hour in 2022 with
+
+adjustments.  County neutral on representation, collective bargaining on provider
+
+labor relations.
+
+New tax on County residents and taxable income derived within County funds
+
+Program:  1.5 percent tax on taxable income over $125,000 (single) and $200,000
+
+(joint), increasing to 2.3 percent tax January 1, 2026; additional 1.5 percent tax on
+
+taxable income over $250,000 (single) and $400,000 (joint) .
+
+Administration by Department of County Human Services (Program), Chief
+
+Financial Officer (Tax).  Establishes Board appointed advisory committee for
+
+oversight, policy recommendations. Independent performance audits. Other
+
+provisions.
+
+EXPLANATORY STATEMENT (485/500)
+
+This measure would establish an income tax to fund a new 'Preschool for All
+
+Program,' providing voluntary, tuition-free, high-quality preschool for all children
+
+who are 3 or 4 years old on September 1 of the enrolling year and have parents or
+
+legal guardians who reside in Multnomah County, including options for full-year
+
+and, for qualifying incomes, before or aftercare. Equitable access will be provided
+
+to people of color and other historically marginalized communities.
+
+The “Preschool for All Program” model was developed by a Multnomah
+
+County-led task force, to address the lack of access to preschool and disparities,
+
+by: increasing access to tuition-free, developmentally appropriate, inclusive,
+
+culturally relevant early learning experiences;
+​
+providing compensation for early
+
+learning professionals that is consistent with that of kindergarten teachers
+​
+; and
+
+growing the number of available high quality preschool slots countywide.
+
+Under the “Preschool for All Program” funds would be distributed to:
+
+●
+Provide high-quality, tuition-free, developmentally appropriate, early
+
+learning experiences for children;
+
+●
+Offer scheduling options including half-day, full-day, year-round, and
+
+school-year schedules
+
+●
+Offer up to 6 hours per day tuition-free for all participants; and up to
+
+4 additional hours per day of before, aftercare tuition-free for
+
+families under the Self Sufficiency Standard for Multnomah County;
+
+●
+Offer culturally relevant, multi-generational learning experiences;
+
+●
+Compensate teachers on par with kindergarten teachers. Preschool
+
+assistant wage minimum $19.91 per hour in 2022, with adjustments
+
+on cost of living or commensurate with 135% of Portland minimum
+
+wage, whichever is greater;
+
+●
+Establish compensation matrix and credentialing requirements for
+
+providers, including licensure and certification, allowing for
+
+workforce development strategies and supports to be in place before
+
+credentialing requirements rise.
+
+The County would remain neutral with respect to representation and collective
+
+bargaining on matters concerning labor relations for any family childcare provider
+
+participating or applying to participate in the Program.
+
+Program funded by a new tax on taxable income of County residents and on
+
+taxable income derived from sources within Multnomah County: 1.5 percent on
+
+taxable income over $200,000 (joint) and $125,000 (single), increasing to 2.3
+
+percent tax on January 1, 2026; additional 1.5 percent on taxable income over
+
+$400,000 (joint) and $250,000 (single). A household with taxable income below
+
+$200,000 (single filer below $125,000) would not pay this tax.
+​
+Tax becomes
+
+effective January 1, 2021.
+
+Program is subject to independent performance audits. Program administered by
+
+the Department of County Human Services. Requires recommendation from a
+
+technical team on whether the 2026 tax increase is necessary to fully fund the
+
+Program. Creates advisory committee appointed by Board and composed of
+
+community members that represent the County’s diverse communities and
+
+geographies.  Advisory committee to review Program expenditures, provide
+
+Program oversight, review data, advise evaluation efforts, and make policy
+
+recommendations.
+
+County Chief Financial Officer would oversee collection, enforcement of tax;
+
+adoption of implementing administrative rules; contracting with other agencies as
+
+needed.
+
+Preschool for All Plan
+
+July 2020
+
+Table of Contents
+
+INTRODUCTION
+4
+
+By ​
+Commissioner Jessica Vega Pederson
+
+Overview
+6
+
+Accessible & Equitable
+
+Scalable & Supportive
+
+Smart & Accountable
+
+Responsibly & Sustainably Funded
+
+A Vision Eight Years in the Making
+9
+
+Inclusive
+
+Thoughtful
+
+Community-based
+
+Comprehensive
+
+The Preschool for All Plan
+11
+
+Ensuring Access To High-quality Preschool For All
+
+Prioritizing Children With The Least Access To Preschool Today
+
+Supporting Providers
+
+Investing In Infrastructure
+
+Providing Responsible Leadership
+
+Funding Mechanism & Revenue
+17
+
+From Vision to Reality
+19
+
+Setting A Realistic Pace
+
+Using Change To Create Opportunity
+
+A Commitment to Quality
+22
+
+Program Quality Standards & Competencies
+
+Program Evaluation
+
+Workforce Development
+26
+
+Existing Preschool Providers
+
+New Preschool Providers
+
+Union Neutrality
+
+Appendix A:
+
+29
+
+Task Force Members
+
+Parent Accountability Council Members
+
+Task Force & Work Group Facilitators
+
+Work Group Members
+
+Appendix B:
+
+Pre-referral Committee Members
+
+Technical Advisory Committee Members
+
+Appendix C:
+35
+
+Path to Universality
+
+Appendix D:
+36
+
+Supporting Providers & Teachers
+
+Appendix E:
+
+Projected 5-Year Budget
+
+INTRODUCTION
+
+COMMISSIONER JESSICA VEGA PEDERSON
+
+Who would have predicted two years ago that the year
+
+2020 would not only unleash a global pandemic, but also
+
+dramatically shift the conversation about racial justice
+
+across the U.S.?
+
+I didn’t. But I did know two years ago that a plan for
+
+Preschool for All​
+ (PFA), in its earliest stages, would indeed
+
+address systemic racism, fair wages and workforce
+
+support for teachers and staff, and focus on equitable
+
+outcomes for our whole community.
+
+This process started with a commitment to do the things
+
+we think cannot be done. Go beyond what has been
+
+done in the past. Strive toward our vision: ​
+Every child has access to a preschool that
+
+is right for them, and every family can afford it.
+
+Preschool is a powerful force for good. It has real, lasting positive impacts for children
+
+and families. Well-funded preschool programs can also properly pay the hardworking
+
+professionals teaching our children. Reliable care provides support to families that
+
+decreases workplace absenteeism and turnover. All together, these opportunities
+
+promote a healthier and more just society.
+
+The thing I am most proud of about PFA is that it is a plan developed ​
+with​
+ — not just
+
+for​
+ — the communities most impacted by the lack of high-quality and affordable
+
+preschool options.
+
+With over 95 individuals representing over 50 organizations, experts in policy,
+
+education and equity worked together since 2018 to design a thoughtful, sustainable
+
+and high-quality tuition-free preschool program for Multnomah County’s children.
+
+The foundation of Preschool for All was built on the preschool vision of ​
+Early Learning
+
+Multnomah’s Parent Accountability Council​
+—a group dedicated to elevating the
+
+voices of parents from African American, African immigrant, Asian, Latino, Native
+
+American and Slavic communities.
+
+As a result, the pages ahead lay out a plan for high-quality and tuition-free preschool
+
+that prioritizes our community’s children who currently have the least access, children
+
+who speak languages other than English, children experiencing poverty, and provides
+
+special support for children with developmental delays and disabilities, while building
+
+towards a fully universal system.
+
+This framework shows how PFA is designed to grow at a sustainable pace to become
+
+universal while avoiding the pitfalls that can hurt childcare services or don’t equitably
+
+serve our children in a rush to overhaul the system. It starts with addressing the
+
+systemic inequities in our early learning system by prioritizing who is served first. It
+
+offers before and after care options to support working families. And it includes a
+
+policy of no suspensions or expulsions, recognizing how these disproportionately
+
+impact children of color.
+
+This plan prioritizes support for providers and teachers. It offers a living wage so
+
+preschool teachers would earn the same as Kindergarten teachers and invests in
+
+comprehensive workforce development. The plan carries a strong commitment to
+
+supporting existing community care providers, most of whom are women — and
+
+disproportionately, women of color.
+
+Over the past two years, our vision for preschool has developed into a
+
+transformational plan that will create the best universal preschool system this country
+
+has ever seen--a plan created by the community for the community.
+
+This work would not have been possible without the efforts of a large and incredible
+
+team. From each and every person who contributed to the Preschool for All Task
+
+Force report, to the dozens of people who served on our Pre-referral and Technical
+
+Advisory committees over the past year, to the teams within Multnomah County who
+
+worked on the administrative and implementation details, to our fantastic partners
+
+who ensured we are working with community every step of the way. I am particularly
+
+grateful for those folks who have been meeting and working almost every day to
+
+make Preschool for All a reality: Mark Holloway, Ricardo Lujan Valerio and the team at
+
+Latino Network, Brooke Chilton-Timmons, Megan Irwin, Chris Fick, Kim Melton, Amy
+
+Ruiz and the team at Strategies 360​
+.
+
+Together, we are putting our values into action and improving the lives of children,
+
+families, and our entire community.
+
+In solidarity,
+
+Overview
+
+The early years of every child’s life are crucial for
+
+social, emotional, and cognitive development.
+
+Joyful, high-quality preschool and early learning
+
+programs are one of the most effective ways to
+
+positively impact brain development, school
+
+readiness, and overall family wellbeing.
+
+Unfortunately, families in Multnomah County face
+
+great challenges accessing early learning programs
+
+for their children. This is especially true for children
+
+experiencing poverty, children of color, children who
+
+speak diverse languages, and children with
+
+developmental delays and disabilities.
+
+Multnomah County is a difficult place to raise young
+
+children. The County has one of the highest housing
+
+costs in Oregon: 40% of households spend more
+
+than 30% of their income on housing. Further, more
+
+than 60% of Multnomah County households with
+
+children under the age of 5 fall below the
+
+Self-Sufficiency Standard, meaning they are unable
+
+to meet their basic needs without assistance. Oregon consistently ranks as one the
+
+most expensive states in the nation for preschool, yet public funds currently provide
+
+preschool only for those families in deepest poverty, reaching under 20% of our
+
+community’s 3- and 4-year-olds. This combination of economic pressures and limited
+
+assistance places access to quality preschool out of reach for many families. Far too
+
+many children in our community are denied the crucial and well-known benefits
+
+preschool provides.
+
+For the past 20 years, poverty has increased rapidly in Multnomah County, growing at
+
+a rate far higher than the county’s overall rate of population growth. Children in
+
+communities of color are disproportionately impacted by poverty:  41% of children
+
+under the age of six in Multnomah County are children of color, while 65% of children
+
+living in poverty are children of color. The COVID-19 pandemic has exacerbated the
+
+disparities in resources and opportunity for many families in Multnomah
+
+County—especially families of color—creating an even more unstable and uncertain
+
+future for our youngest children.
+
+Now more than ever we need to invest in stabilizing families and ensuring the
+
+wellbeing of young children. Preschool allows families to go to work, with confidence
+
+that their children are in safe and enriching environments. High-quality preschool not
+
+only improves health, educational, economic, and social outcomes for individual
+
+children and their families, but it also provides a high rate of return on the public’s
+
+investment: for every dollar spent on high-quality preschool, the community sees a
+
+return of between $7 and $10.
+ Investments in early childhood education programs
+
+1
+ James Heckman, Schools, Skills, Synapses (2008).
+
+reach far beyond individuals and families, saving money on costly interventions later
+
+in life and opening pathways to economic prosperity for generations to come.
+
+That is why over one hundred public, private, and social sector leaders, community
+
+members, and preschool practitioners worked together to build a high-quality
+
+preschool program for all 3- and 4-year-olds in Multnomah County. This coalition of
+
+leaders and stakeholders envision a program that is:
+
+ACCESSIBLE & EQUITABLE
+
+●
+All 3- and 4-year-olds​
+ in Multnomah County
+
+are eligible, and the program is countywide
+
+from the start.
+
+●
+The program is ​
+tuition-free to all families.
+
+●
+Before- and after-care options​
+ (for a total of
+
+up to 10 hours in a single day) are free for
+
+families below the Multnomah County Self
+
+Sufficiency Standard.
+
+●
+The program ​
+centers the needs of children
+
+who have the least access to preschool
+
+today​
+.
+
+●
+Provides ​
+appropriate support​
+ for children
+
+with developmental delays and disabilities
+
+●
+The program offers a mixed delivery program
+
+model, with a ​
+range of options to meet
+
+families’ needs​
+, including:
+
+o
+full-day and part-day programming,
+
+o
+year-round options, and
+
+o
+home-based, center-based, and public
+
+school based settings.
+
+●
+The program offers multi-generational and ​
+culturally specific and culturally
+
+responsive​
+ program options.
+
+●
+The program promotes inclusive learning environments for all children by
+
+expressly prohibiting suspensions and expulsions​
+.
+
+●
+The program offers a ​
+living wage for participating providers​
+, including
+
+preschool teachers and assistants.
+
+SCALABLE & SUPPORTIVE
+
+●
+Preschool for All will expand to full capacity at a ​
+sustainable pace​
+ that allows
+
+small providers and providers of color to participate.
+
+●
+To ensure that high-quality programming is ​
+seamlessly aligned with
+
+kindergarten expectations​
+, all participating programs will follow the Oregon
+
+Early Learning and Kindergarten Guidelines.
+
+●
+The program invests in ​
+workforce development ​
+by collaborating with existing
+
+providers and by facilitating ongoing professional development and
+
+equity-focused pathways to higher education for providers.
+
+SMART & ACCOUNTABLE
+
+●
+The program​
+ invests in infrastructure​
+ by using funds to support providers in
+
+meeting regulatory requirements (e.g., licensing, compliance with fire code)
+
+and upgrading facilities.
+
+●
+The program ensures ​
+community oversight and accountability​
+ by
+
+maintaining an advisory board of parents, providers, and community leaders,
+
+including representatives from culturally specific organizations. The PFA
+
+Advisory Committee will provide program oversight, review data, advise
+
+evaluation efforts, and recommend shifts in policy and practices.
+
+RESPONSIBLY & SUSTAINABLY FUNDED
+
+●
+The program is funded by a marginal income tax on high income earners, with
+
+a tiered, progressive approach to income thresholds. In 2020, these thresholds
+
+represent approximately the top eight percent of filers in Multnomah County.
+
+●
+The tax is structured to generate an estimated $133 million in 2021, increasing
+
+to an estimated $202 million in 2026, based on analysis and revenue estimates
+
+by Oregon’s Legislative Revenue Office and ECONorthwest. ​
+This revenue is
+
+sufficient to grow the Preschool for All program to capacity for all children
+
+under the Self-Sufficiency Standard by fall 2026.
+
+●
+Beginning in January 2021, the proposed tax applies as follows:
+
+o
+First tier​
+: ​
+Joint filers or households​
+ with ​
+taxable​
+ income over $200,000
+
+will pay 1.5% on taxable income over $200,000. ​
+Individuals​
+ with ​
+taxable
+
+income over $125,000 will pay 1.5% on taxable income over $125,000.
+
+o
+Second tier​
+: ​
+Joint filers or households​
+ with ​
+taxable​
+ household income
+
+over $400,000 will pay an additional 1.5% on taxable income over
+
+$400,000. ​
+Individuals​
+ with ​
+taxable​
+ income over $250,000 will pay an
+
+additional 1.5% on taxable income over $250,000.
+
+●
+In order to grow the Preschool for All program to full capacity after initial
+
+implementation, on January 1, 2026 the tax will be increased by 0.8% on
+
+taxable income over $200,000 (joint filers or households) or $125,000
+
+(single filers).​
+ The Multnomah County Board of Commissioners has the
+
+Charter authority today—and will continue to have the authority—to adjust
+
+this rate as needed to ensure the program is fully funded.
+
+o
+By 2026, state or federal funding for early childhood education could
+
+further offset additional local investment and reduce or even eliminate
+
+the need for the rate increase.
+
+o
+A technical team will be convened by the Chair’s Office and will report
+
+to the Board before January 1, 2026 with a recommendation on the rate
+
+required to ensure the program is fully funded.
+
+A Vision Eight Years in the
+
+Making
+
+Planning for the Preschool for All Initiative began in Fall 2018 when Commissioner
+
+Jessica Vega Pederson convened the Preschool for All Task Force. The Task Force
+
+received its charge from the parents and community-based organizations convened
+
+by Social Venture Partners and Early Learning Multnomah to create a vision for
+
+preschool in our county, with the priority populations named through the Ready for
+
+Kindergarten Collaborative back in 2012. The Task Force’s work was broadly inclusive,
+
+thoughtful, and community-based, with explicit commitments to children and
+
+families of Multnomah County—including a commitment to confronting and
+
+challenging racism in school practices, processes, and systems.
+
+The Task Force developed comprehensive recommendations for Preschool for All
+
+built around a shared vision: ​
+Every child has access to a preschool that’s right for
+
+them, and every family can afford it.
+
+INCLUSIVE
+
+The Task Force included parents and community leaders from early learning,
+
+healthcare, housing, human services, school districts, higher education, culturally
+
+specific organizations, local non-profits, and the business community. For a complete
+
+list of Task Force members with affiliations, see Appendix A.
+
+The Preschool for All policy development process was
+
+overseen by the Parent Accountability Council (PAC)
+
+that advises Early Learning Multnomah (ELM). The PAC
+
+was initially created to guide the ELM’s work, ​
+ensuring
+
+that the voices of families of color were at the center
+
+of decision-making​
+. Parents from African American,
+
+African immigrant, Asian, Latino, Native American, and
+
+Slavic communities form the Council. In addition to the
+
+monthly PAC meetings, PAC parents and partner
+
+organizations convened quarterly culturally-specific
+
+Parent Leadership Team meetings for broader parent
+
+input. The PAC continues to provide policy advice and
+
+guidance to the Preschool for All Initiative.
+
+THOUGHTFUL
+
+To ensure the Task Force’s vision for Preschool for All
+
+was detailed and comprehensive, Commissioner Vega Pederson invited local
+
+technical experts to participate in four Work Groups. Each work group focused on a
+
+key area of planning.
+
+Policy & Program Work Group
+
+Design a high-quality preschool
+
+program for children and
+
+families from diverse
+
+backgrounds.
+
+Workforce Work Group
+
+Develop an adequately sized
+
+workforce that is skilled, valued,
+
+and compensated fairly.
+
+Infrastructure Work Group
+
+Identify how to support and
+
+expand settings that can
+
+accommodate early learning
+
+programs, with an eye toward
+
+filling gaps in specific geographical parts of Multnomah County.
+
+Finance, Strategy & Administration Work Group
+
+Create the framework for a central administration, and provide guidance about
+
+projected program costs and suggestions for program funding sources.
+
+COMMUNITY-BASED
+
+Altogether more than 95 individuals, representing
+
+over 50 organizations, participated in the Task
+
+Force and Work Groups. The Task Force also relied
+
+on the expertise of the PAC to help shape and give
+
+feedback on the recommendations. This structure
+
+paved the way for an innovative set of
+
+recommendations that build on research and
+
+embody the wisdom and lived experience of
+
+community members.
+
+COMPREHENSIVE
+
+In July 2019, the Preschool for All Task Force
+
+completed its work and presented a
+
+comprehensive set of recommendations​
+ for
+
+moving a universal preschool initiative forward in
+
+Multnomah County.
+
+The Preschool for All Plan
+
+Building on the momentum of the Task Force’s recommendations, Preschool for All
+
+entered its second phase of planning, which focused on financing the program and
+
+building out an implementation plan. This phase of work was advised by two bodies:
+
+the Pre-Referral Committee and the Technical Advisory Committee.
+
+Preschool for All Pre-Referral Committee (PRC)
+
+Members of the PRC were leaders in early childhood, public education, health care,
+
+human services, nonprofit, culturally specific groups, and business. The group advised
+
+on development of a ballot measure and funding mechanism for Preschool for All.
+
+Preschool for All Technical Advisory Committee (TAC)
+
+Members of the TAC had participated in one of the Task Force Work Groups and
+
+included preschool providers, leaders of Early Learning Multnomah and Child Care
+
+Resource and Referral, staff of culturally specific organizations and children's
+
+advocacy organizations, and representatives from philanthropy. The group developed
+
+a timeline for the program to grow to scale and a plan to implement Task Force
+
+recommendations.
+
+The resulting Preschool for All Plan ensures access for all families, develops and
+
+supports a skilled workforce, invests in infrastructure, and takes a responsible
+
+approach to leadership.
+
+ENSURING ACCESS TO HIGH-QUALITY PRESCHOOL
+
+FOR ALL
+
+Preschool for All allows parents to choose the option that works for their family, so
+
+they can go to work, build a career, pay their bills, and contribute to the economy
+
+while also ensuring that their children don’t miss out on critical social and academic
+
+skills.
+
+All 3- and 4- year olds in Multnomah County are eligible for Preschool for All from
+
+the start, and Preschool for All is tuition-free for all families.​
+ The program:
+
+●
+Focuses on providing joyful, culturally responsive, developmentally
+
+appropriate, inclusive preschool experiences for all children in Multnomah
+
+County.
+
+●
+Utilizes a comprehensive set of learning standards that are aligned with
+
+Oregon’s Early Learning and Kindergarten Guidelines, focused on developing
+
+the whole child by addressing social-emotional skills, approaches to learning,
+
+early literacy, vocabulary, early math skills, and physical/motor development, in
+
+a playful and developmentally appropriate way.
+
+●
+Provides up to six hours per day of high-quality, tuition-free preschool.
+
+●
+Provides up to four additional hours of before/aftercare per day free for families
+
+with incomes under the Self-Sufficiency Standard for Multnomah County.
+
+Preschool for All makes a variety of settings and schedules available to families.
+
+The program:
+
+●
+Includes home-based, center-based, Head Start, and public school-based
+
+preschool providers.
+
+●
+Provides access to culturally specific, multi-generational learning programs as
+
+part of the mixed delivery system.
+
+●
+Invites families to indicate setting preferences when applying and provides
+
+equitable access to different program types.
+
+●
+Offers half-day, full-day, year-round, and school-year schedules.
+
+Preschool for All prohibits participating providers from suspending or expelling
+
+children. ​
+The program:
+
+●
+Includes professional development for providers on anti-bias early education
+
+practices.
+
+●
+Increases funding for early childhood mental health consultations and
+
+supports  for providers and families.
+
+●
+Provides support to families to address concerns about a child’s placement
+
+with a provider.
+
+from “​
+Standing Together Against Suspension & Expulsion in Early Childhood”​
+ a joint statement published
+
+by the National Association for the Education of Young Children with support from the American Academy
+
+of Pediatrics, National Education Association, and many more (emphasis ours).
+
+PRIORITIZING CHILDREN WITH THE LEAST ACCESS TO
+
+PRESCHOOL TODAY
+
+As Preschool for All builds toward a fully universal system with the capacity to meet
+
+the needs of every 3- and 4- year old in Multnomah County, ​
+the program specifically
+
+prioritizes children in our community who have the least access to quality,
+
+affordable preschool opportunities today.
+
+Children that experience disparate access include:
+
+●
+Black, Brown, Indigenous, and all children of color;
+
+●
+Migrant and refugee children;
+
+●
+Children who speak languages other than English;
+
+●
+Children with developmental delays and disabilities;
+
+●
+Children of teen parents, or in military families;
+
+●
+Children living in foster care;
+
+●
+Children from families affected by homelessness, incarceration, substance
+
+abuse, mental health issues, and domestic violence.
+
+Culturally specific organizations (CSOs) will play a central role in the Preschool for All
+
+system, including the application process. In the early years, families will apply to
+
+Preschool for All through CSOs. CSOs will screen and prioritize families for PFA
+
+enrollment, based on guidance from Preschool for All. ​
+The process will be simple
+
+and supportive for families, based in organizations trusted by the community.
+
+PFA’s Technical Advisory Committee developed an initial framework for Outreach &
+
+Prioritized Enrollment that will be further refined in partnership with CSOs:
+
+1.
+Culturally specific organizations (CSOs) will be funded to outreach to priority
+
+populations and to guide families through the application process.
+
+2.
+Families will complete a universal application form, developed in partnership
+
+with the CSOs.
+
+3.
+Using guidance from Preschool for All, CSOs will then prioritize families for PFA
+
+enrollment based on their overall need.
+
+4.
+CSOs will enter those families into the PFA database.
+
+5.
+PFA administrative staff will then match families with a PFA provider based on
+
+their application preferences (geographic location, language spoken by
+
+provider, program length, etc).
+
+The application process at culturally specific organizations will be open to any
+
+family in Multnomah County, continuing the open door policy that CSOs currently
+
+utilize in other programs.
+
+Strong outreach efforts will help ensure that families from priority populations make
+
+up a significant portion of the PFA applications. These outreach strategies include
+
+partnering with culturally specific media to spread information about PFA, and
+
+including culturally relevant information on the website, not just translated
+
+information.
+
+Basing the outreach and application process within culturally specific organizations
+
+will result in a more culturally responsive experience for families and help ensure that
+
+more families from the priority populations feel comfortable applying for Preschool
+
+for All. As the number of Preschool for All slots grows, culturally specific organizations
+
+will continue to play a central role in the application process and in prioritizing
+
+families for enrollment.
+
+Preschool for All will also create an ​
+online application where families can apply
+
+directly to Preschool for All​
+ in the early years of implementation. The exact timeline
+
+will be determined as more details about the application system are finalized, and
+
+with the input of the culturally specific agencies involved in outreach and enrollment.
+
+SUPPORTING PROVIDERS
+
+Preschool for All provides a living wage for early education workers, who are severely
+
+underpaid and often can’t afford to stay in the field, contributing to higher turnover
+
+and lower quality preschool education. With fair compensation and professional
+
+support, we can keep talented teachers in the field, leading to better outcomes for
+
+children.
+
+Preschool for All ensures a living wage for participating providers:
+
+●
+Lead preschool teachers are paid on par with kindergarten teachers.
+
+●
+Assistant preschool teachers are paid a minimum of $18 per hour in 2020 dollars,
+
+with cost of living adjustments (COLA) based on the County’s union-negotiated
+
+COLA rate OR to bring wage to 135% of Portland metro minimum wage,
+
+whichever is greater. In 2022, when assistant teachers are paid under the
+
+Preschool for All Plan, this wage will be $19.91.
+
+●
+Preschool for All’s plan also establishing a compensation matrix that adjusts
+
+wages based on Program teacher or assistant teacher credentialing, education,
+
+certification, licensure, ORO Steps, special skills (such as language), and
+
+experience, and by 2035 reflects a Program assistant teacher minimum wage
+
+not less than 75% of Program teacher minimum wage.
+
+●
+Preschool for All defines assistant preschool teachers broadly, as all non-lead
+
+teaching staff working with children in the classroom in a center or school
+
+model, or working with children in a home based model, including teaching
+
+staff with titles like associate teacher, break support staff, or teachers aide.
+
+Preschool for All supports provider credentialing and professional development:
+
+●
+Providers can achieve their credentialing through community-based training or
+
+college courses.
+
+●
+Credentialing requirements for providers build over time, allowing for workforce
+
+development strategies and supports to be in place before credentialing
+
+requirements rise. At the start of Preschool for All, providers/lead teachers will be
+
+required to be on Step 7 of the Oregon Registry or have a Child Development
+
+Associate (CDA) Credential. At program maturity, providers/lead teachers will be
+
+required to be on Step 9 of the Oregon Registry or have an associate degree or
+
+bachelor’s degree.
+
+Preschool for All develops and expands the workforce of preschool providers:
+
+●
+Partners with existing providers to meet Preschool for All requirements through
+
+collaborative and individualized coaching.
+
+●
+Offers support to providers who would like to pursue higher education or
+
+community-based training. Supports include scholarships for tuition and other
+
+costs associated with higher education, such as substitute staff and childcare for
+
+their own children.
+
+●
+Partners closely with local community colleges and universities to increase the
+
+number of early childhood educators graduating from their institutions, with an
+
+emphasis on making the system more accessible for students who speak
+
+languages other than English.
+
+●
+Provides opportunities for providers to access personal and professional
+
+development such as career coaching and professional networks.
+
+●
+Expands, replicates, or develops new programs that provide early educator
+
+certification, training, and pathways to employment. Those programs may
+
+include paid internship opportunities and Child Development Associate
+
+Credential programs for parents, high school students, and English language
+
+learners.
+
+●
+Invests in and supports a shared services model that will allow providers to
+
+access centralized supports.
+
+INVESTING IN INFRASTRUCTURE
+
+Preschool for All supports providers in ensuring facilities meet the requirements for
+
+preschool programs.
+
+To grow the number of preschool slots across Multnomah County, Preschool for
+
+All allocates funding to support providers who want to improve or expand their
+
+facilities​
+:
+
+●
+Makes infrastructure investments and development decisions using a racial
+
+equity lens and prioritizes reducing geographic and racial disparities.
+
+●
+Prioritizes infrastructure investments in the growth, expansion, and stability of
+
+existing providers, with a focus on providers of color.
+
+●
+Creates supports to help providers access infrastructure technical assistance and
+
+navigate challenging regulatory and permitting systems.
+
+●
+Works with system partners to leverage other public funding sources for capital
+
+improvements and new construction.
+
+PROVIDING RESPONSIBLE LEADERSHIP
+
+Preschool for All is administered by the Department of County Human Services. The
+
+Department will oversee program operations and ensure program quality.
+
+Preschool for All provides efficient program administration:
+
+●
+Structures the central administration as effectively and efficiently as possible to
+
+be able to provide strong operational support and oversight of Preschool for All.
+
+●
+Avoids duplicating the work of existing entities and builds on current systems by
+
+leveraging organizations that already support the early childhood ecosystem,
+
+including partnerships with organizations that are trusted by the community.
+
+Preschool for All provides oversight and is accountable to the public:
+
+●
+Creates a community advisory group. The advisory group will provide program
+
+oversight, review data, advise evaluation efforts, and recommend shifts in policy
+
+and practices. The advisory group will have 12-15 members and will be appointed
+
+by the Multnomah County Board of County Commissioners, which serves as the
+
+overall governance body of Preschool for All. Geographic and racial diversity of
+
+the group will be important considerations as the Board develops the overall
+
+membership. DCHS will staff the advisory group and members will be asked to
+
+participate for a minimum of two years. The Preschool for All advisory group will
+
+include:
+
+○
+A minimum of two parents, at least one parent will also be a member of
+
+the Early Learning Multnomah Parent Accountability Council
+
+○
+A minimum of two preschool providers
+
+○
+A minimum of two representatives from culturally specific organizations
+
+○
+A representative from a union supporting child care workers
+
+○
+A school district representative
+
+○
+A representative from an early childhood system organization
+
+○
+The remaining seats may include additional representatives from the list
+
+above and representatives from advocacy, workforce development, higher
+
+education, health care and other organizations that work to support
+
+children and families in Multnomah County.
+
+●
+Oversees financial management including budgeting analysis, needs
+
+assessment, collection of funds, and braiding of funding streams.
+
+●
+Guides strategic planning to meet equity commitments and financial and
+
+programmatic needs, including infrastructure and workforce development.
+
+●
+Provides oversight and public communication of data collection and evaluation
+
+results.
+
+●
+Coordinates closely with system partners including the State, Head Start
+
+providers, early childhood special education, and the Early Learning Hub.
+
+●
+Receives independent performance reviews and audits.
+
+●
+Completes a system evaluation to inform program and policy improvements and
+
+report on program goals.
+
+Preschool for All supports families in applying, enrolling, and navigating its
+
+services:
+
+●
+Manages and oversees the application, eligibility, and enrollment process.
+
+●
+Identifies and addresses gaps in provider types and geographic needs as the
+
+program grows.
+
+●
+Provides a clear and accessible way for families to raise concerns and have them
+
+addressed quickly.
+
+●
+Funds family navigators to connect families with needed resources.
+
+Funding Mechanism &
+
+Revenue
+
+Preschool for All has worked with multiple technical experts to develop and model
+
+the proposed mechanism, estimated revenue, costs, reserves, and growth
+
+assumptions. On the revenue side, this work included analysis by ECONorthwest and
+
+July 2020 estimates by Oregon’s Legislative Revenue Office.
+
+On the cost side, Preschool for All staff consulted with other jurisdictions
+
+implementing large scale preschool systems, subject matter experts, and the
+
+Technical Advisory Committee. Staff also utilized analysis by the Department of
+
+County Human Services finance office, data and learnings from other Multnomah
+
+County programs, and reviewed assumptions with Multnomah County’s economist.
+
+Preschool for All also worked with the Pre-Referral Committee and tested various
+
+revenue mechanisms with voters to determine viability, including an income tax on
+
+high income earners, an employer-paid payroll tax with exemptions for workers
+
+earning less than $125,000, and a property tax levy. Research done by other
+
+jurisdictions concurrently confirmed a lack of support for a local sales tax.
+
+Based on this work, Preschool for All is proposing a marginal income tax on high
+
+income earners, with a tiered, progressive approach to income thresholds. In 2020,
+
+these thresholds represent approximately the top eight percent of income tax filers in
+
+Multnomah County.
+
+Preschool for All’s plan starts with a lower rate to fund the program as it grows.
+
+The tax is structured to generate an estimated $133 million in 2021, increasing to an
+
+estimated $202 million in 2026, based on analysis and revenue estimates by Oregon’s
+
+Legislative Revenue Office and ECONorthwest. This revenue is sufficient to grow the
+
+Preschool for All program to a level that provides capacity for all children in priority
+
+populations—adding 7,000 new slots—by fall 2026.
+
+The Plan includes an automatic .8% rate increase in 2026 to fully fund the
+
+program, ​
+but also calls on the Chair’s Office to convene a technical team prior to 2026
+
+to make a recommendation to the Board on the rate needed to ensure the program
+
+is fully funded. By 2026, state or federal funding for early childhood education could
+
+further offset additional local investment and reduce or even eliminate the need for
+
+the rate increase.
+
+●
+Beginning in January 2021, the proposed tax applies as follows:
+
+o
+Lower tier:
+
+▪
+Joint filers or households with ​
+taxable​
+ income over $200,000 will
+
+pay 1.5% on taxable income over $200,000 but under $400,000.
+
+▪
+Individuals with ​
+taxable​
+ income over $125,000 will pay 1.5% on
+
+taxable income over $125,000 but under $250,000.
+
+o
+Upper tier:
+
+▪
+Joint filers or households with ​
+taxable​
+ household income over
+
+$400,000 will pay an additional 1.5% on taxable income over
+
+$400,000.
+
+▪
+Individuals with ​
+taxable​
+ income over $250,000 will pay an
+
+additional 1.5% on taxable income over $250,000.
+
+●
+Beginning in January 2026, the proposed tax applies as follows if the Board
+
+does not adjust, reduce or eliminate the .8% rate increase::
+
+o
+Lower tier:
+
+▪
+Joint filers or households with taxable income over $200,000 will
+
+pay 2.3% on taxable income over $200,000 but under $400,000.
+
+▪
+Individuals with taxable income over $125,000 will pay 2.3% on
+
+taxable income over $125,000 but under $250,000.
+
+o
+Upper tier:
+
+▪
+Joint filers or households with taxable household income over
+
+$400,000 will pay an additional 1.5% on taxable income over
+
+$400,000.
+
+▪
+Individuals with taxable income over $250,000 will pay an
+
+additional 1.5% on taxable income over $250,000.
+
+Overlap of PFA’s Mechanism and the County’s Business License Tax
+
+Earlier this year, as Metro was referring a higher-income earner tax for homeless
+
+services to the May ballot, business advocates identified an area of overlap between
+
+business taxes and this income tax mechanism. With the same basic mechanism, PFA
+
+also recognizes a need to mitigate or resolve any double-taxation issues that may
+
+impact a small subset of business owners, and will address this during
+
+implementation.
+
+From Vision to Reality
+
+In coming years, Preschool for All will implement a universal preschool program in
+
+Multnomah County. Implementation is guided by considerations related to ​
+setting a
+
+realistic pace, avoiding unintended consequences, and adapting to changes
+
+resulting from the COVID-19 pandemic.
+
+SETTING A REALISTIC PACE
+
+Today, Multnomah County has a limited number of available preschool slots and
+
+providers who meet standards for high-quality preschool programs. This influences
+
+the pace at which Preschool for All can be implemented. In the early years of the
+
+program, Preschool for All will need to support current providers in meeting quality
+
+standards and partner with them to expand their capacity .
+
+Implementing too quickly can have unintended consequences.​
+ For example,
+
+accelerated implementation that can:
+
+●
+Reduce the availability of infant/toddler slots in a community that is already
+
+considered an infant/toddler child-care desert.
+
+●
+Funnel investment primarily into large programs — such as school districts
+
+and large centers — that are easier to scale than small centers and
+
+home-based settings. This creates a two-tiered, inequitable system.
+
+The pace of implementation for Preschool for All takes into account the need to
+
+build capacity, while also managing the potential for unintended consequences.
+
+Figure 1: Preschool for All Projected Enrollment, Years 1–6
+
+The first phase of implementation—beginning immediately after collecting taxes—will
+
+involve making investments to help providers to meet Preschool for All standards
+
+through coaching, professional development, and business supports.
+
+By 2026, this initial implementation phase will increase the number of preschool slots
+
+as shown in Figure 1.
+
+Figure 2: Preschool for All Projected Timeline to Full Capacity
+
+Modeling shows that it will be possible to reach universal scale within 10 years with a
+
+modest bump in the tax rate in 2026. Figure 2 shows the estimated growth of
+
+preschool slots by all public funding sources through the 2030–31 school year.
+
+USING CHANGE TO CREATE OPPORTUNITY
+
+Implementation of Preschool for All will help stabilize the vulnerable child care and
+
+preschool marketplace, which has been devastated by the COVID-19 pandemic. The
+
+early years of implementation will involve growing the pool of qualified providers: this
+
+presents an opportunity to prioritize, elevate, and support small providers, providers of
+
+color, and culturally specific providers in the following ways.
+
+●
+Preschool for All will ensure that BIPOC providers have access to information
+
+and resources—including PFA supports and funds—that will help them
+
+stabilize and strengthen their businesses.
+
+●
+Preschool for All will prioritize BIPOC-owned, culturally specific, and
+
+culturally-relevant preschools in selection and funding processes.
+
+●
+Preschool for All will invest in and support pathways for interested providers to
+
+restart their businesses shut down during the pandemic, especially those
+
+businesses that are culturally specific and/or BIPOC-owned.
+
+●
+Preschool for All will invest funding to provide pathways for previous child care
+
+business owners who would like to shift their careers and teach in or lead other
+
+preschools.
+
+A Commitment to Quality
+
+Preschool for All is focused on providing ​
+joyful, culturally responsive,
+
+developmentally appropriate, inclusive preschool experiences​
+ for all children in
+
+Multnomah County. Participating preschool programs will use a comprehensive set of
+
+learning standards that are aligned with Oregon’s Early Learning and Kindergarten
+
+Guidelines. These standards focus on developing the whole child by addressing
+
+social-emotional skills, approaches to learning, early literacy, vocabulary, early math
+
+skills, and physical/motor development, in a playful and developmentally appropriate
+
+way.
+
+In order to ensure quality and consistency across provider settings, the Preschool for
+
+All Task Force approved a set of 10 quality standards and seven core staff
+
+competencies adapted from the National Association for the Education of Young
+
+Children’s (NAEYC) program quality and professional competency standards. Once
+
+admitted to the program, providers will receive ongoing coaching to support
+
+continuous improvement over time. Providers will also participate in a Preschool for
+
+All professional development series and ongoing training aligned with the Preschool
+
+for All core competencies.
+
+PROGRAM QUALITY STANDARDS & COMPETENCIES
+
+Relationships
+
+Trusting relationships are the foundation of positive interactions between adults and
+
+children and are critical for strengthening community and program development.
+
+Positive relationships and partnerships with families are the center of program design
+
+that creates a joyful preschool experience for children.
+
+Parent & Family Partnerships
+
+Preschool for All programs value each family’s unique expertise about their children
+
+and honor the parent and family’s role as their child’s first teacher. Parents and
+
+program staff partner to set goals for each child and to communicate about each
+
+child’s growth, learning, and development at home and in the classroom. Families
+
+and parents have opportunities to form networks and connections with one another,
+
+and all cultures and linguistic backgrounds are welcome.
+
+Community Relationships
+
+The program actively works to engage community partners and work with them to
+
+provide support for children and families. Community members are actively invited
+
+into the classroom.
+
+Teaching
+
+Programs use developmentally appropriate and culturally and linguistically
+
+responsive teaching practices. Programs recognize that children have diverse
+
+learning styles, cultural backgrounds, interests, and needs and use varied instructional
+
+practices to support learning. Classroom practices balance whole group, small group,
+
+and individual learning opportunities and provide both child led and teacher led
+
+activities.
+
+Staff Competencies, Preparation & Support
+
+Programs involve educators in educational opportunities that are intentional for staff
+
+growth, reflection, child development, program assessment, curriculum, and positive
+
+guidance. Teachers are provided with observation, supervision, coaching, and
+
+mentoring. Program staff look like the community they work with and are trained in
+
+multicultural, culturally responsive, and trauma informed practices. The seven staff
+
+competencies are:
+
+●
+Child development and learning in context
+
+●
+Family and community partnerships
+
+●
+Child observation, documentation, and assessment
+
+●
+Developmentally, culturally, and linguistically appropriate teaching practices
+
+●
+Content knowledge in early childhood curriculum
+
+●
+Professionalism as an early childhood educator
+
+●
+Program management
+
+Curriculum
+
+Curriculum is comprehensive across all domains of learning and development.
+
+Curriculum is tailored to the needs of the population served and is flexible/adaptable
+
+to support individualized instruction. Curriculum treats children’s culture and
+
+linguistic background as assets for teaching and learning diverse languages and
+
+Black English. Curriculum has intentional structures designed to welcome families
+
+and community into the classroom.
+
+Screening & Assessment
+
+Assessment evidence is gathered in realistic, developmentally appropriate settings
+
+that children are comfortable in and that are consistent with children’s culture and
+
+language. Multiple sources of information are gathered over time, including
+
+observations and information gathered from parents and families. Assessments are
+
+used to develop insight into each child’s learning and development, and they are
+
+used to plan instruction accordingly.
+
+Health
+
+The program supports health, wellness, and safety through education, family
+
+engagement, and connection to community resources.
+
+Physical Environment
+
+The classroom’s physical environment is warm, safe, and welcoming. A variety of
+
+child-centered learning materials are accessible to children of different ages and
+
+abilities and are available in children’s home languages. The space celebrates
+
+children, families, and communities present in the classroom through showcasing
+
+their work and art.
+
+Leadership & Management
+
+Program leadership and management are diverse and committed to supporting
+
+employees in maintaining a healthy work/life balance through an integration of
+
+benefits and clear policies and procedures. Likewise, they are dedicated to creating a
+
+dynamic and professional work environment devoted to continual professional
+
+learning.
+
+PROGRAM EVALUATION
+
+Preschool for All will use the program goals approved by the Task Force to design an
+
+evaluation and guide ongoing improvement. To inform that work, Preschool for All
+
+will create an evaluation committee including researchers, parents, providers, and
+
+community members. The evaluation committee’s role will be to help design
+
+evaluation and research plans and review evaluation results prior to release.
+
+Program Goals
+
+●
+Children develop pre-academic skills.
+
+●
+Children develop socially and emotionally.
+
+●
+Developmental screenings are implemented appropriately, and referrals are
+
+made when indicated.
+
+●
+The opportunity gap narrows at school entry and 3rd grade.
+
+●
+Parents and families are engaged in their children’s learning.
+
+●
+Preschool for All develops and retains a workforce reflective of the community.
+
+Evaluation Criteria
+
+The evaluation committee will utilize the following design criteria:
+
+●
+Include multiple sources of data and multiple measures including program
+
+level data, child demographic data, data about the workforce, classroom
+
+quality data, and review of Preschool for All administrative practices.
+
+●
+All tools must be used for the purposes they were designed for, and data will
+
+be shared with individual programs to support ongoing improvement.
+
+●
+Develop comprehensive goals related to families and teachers/providers.
+
+●
+Ensure child outcomes are used to assess a full range of developmental and
+
+learning outcomes.
+
+●
+Use assessments administered in kindergarten and Grade 3 to measure the
+
+impact of Preschool for All on learning outcomes.
+
+●
+Use developmental screening data to ensure programs complete screenings,
+
+share information with families, and use results to improve classroom practice.
+
+Ensure safeguards are in place to reduce the likelihood that data will be used
+
+inappropriately to make decisions about individual children and that
+
+screenings are administered in the child’s native language.
+
+●
+Share results aggregated at the population level publicly.
+
+●
+Share results aggregated at the program level with Preschool for All providers
+
+to use for program improvement and support.
+
+Implementation Evaluation Focus
+
+To guide ongoing improvement in implementation, Preschool for All will collect data
+
+and develop an implementation evaluation that includes:
+
+●
+Access to the program & family satisfaction
+
+●
+Children’s learning and development
+
+●
+Administrative effectiveness
+
+●
+Workforce diversity and wellbeing
+
+Workforce Development
+
+Educators—including teachers, assistants, and in-home providers—are the heart of
+
+high-quality preschool programs. Preschool for All will partner with existing providers
+
+to increase both capacity and quality of preschool programs. Providers will fall into
+
+three groups: Ready to Learn, Ready to Implement, and Ready to Teach. Preschool for
+
+All is prepared to support the participation of providers in all three groups in order to
+
+be successful.
+
+Preschool for All requirements will be transparent and easy to understand. Providers
+
+should be able to self-assess their readiness level and apply for the level of support
+
+they need. The tools and process used to gauge quality and readiness will be
+
+informative, not punitive.
+
+Preschool for All is committed to family choice and to the importance of culturally
+
+specific and responsive settings, including preschools led in diverse languages and
+
+preschools that have a significant proportion of staff of color. These commitments will
+
+be reflected in the provider selection process.
+
+Preschool for All believes that all providers can improve with adequate partnership
+
+and support. Providers who are Ready to Implement and Ready to Teach will be
+
+eligible to receive contracted slots through Preschool for All. PFA will partner with and
+
+give support to providers who are Ready to Learn, so that they can improve their
+
+quality, meet requirements, and become Ready to Implement.
+
+EXISTING PRESCHOOL PROVIDERS
+
+Providers have individual strengths and needs. Each provider’s journey from being
+
+Ready to Learn to being Ready to Implement may be different. Existing preschool
+
+providers who are Ready to Learn can complete the following steps to become Ready
+
+to Implement.
+
+●
+Complete a self-assessment checklist on provider requirements.
+
+●
+Commit to meet provider requirements within two years. After two years of
+
+coaching and support, Ready to Learn sites need to be Ready to Implement in
+
+order to continue receiving PFA support. If a provider isn’t able to meet that
+
+goal, the coach will create an exit plan and connect the provider with other
+
+resources.
+
+●
+Have a license by the time they become Ready to Implement (or if a school
+
+district, follow licensing requirements/process created by the state).
+
+●
+Agree to actively participate in regular coaching with the entire staff team,
+
+including center/program leadership.
+
+●
+Commit to a coaching plan developed in collaboration with a PFA coach and
+
+to making positive progress on the goals included in the plan. The coaching
+
+plan will include a timeline for a provider making progress on and meeting
+
+each of their goals.
+
+●
+Participate in a peer network/community of practice.
+
+●
+Participate in PFA professional development.
+
+●
+Receive access to funding for training and education.
+
+●
+Receive financial incentives for participating in coaching and professional
+
+development, including:
+
+○
+Stipends for participating in pre-launch coaching.
+
+○
+Funding for supplies.
+
+○
+Funding for substitute staff and/or access to a substitute pool in order
+
+to participate in coaching, professional development, and education.
+
+Providers who are Ready to Implement will receive start-up funding for equipment
+
+and supplies before the Fall of 2022 when Preschool for All slots will open. Provider
+
+salaries and requirements take effect when the provider is Ready to Implement and
+
+Preschool For All has a contract with the provider for slots.
+
+NEW PRESCHOOL PROVIDERS
+
+New preschool providers who are Ready to Learn will:
+
+●
+Have a demonstrated history of being a culturally responsive or culturally
+
+specific organization.
+
+●
+Have a plan to fill a demonstrated preschool need in the community.
+
+●
+Agree to participate in regular coaching focused on starting a preschool.
+
+●
+Commit to have their preschool operational in two years.
+
+●
+Receive funding to support planning and capacity building.
+
+●
+Participate in a peer network/community of practice.
+
+●
+Participate in PFA professional development.
+
+●
+Receive access to funding for training and education (when staff are
+
+identified).
+
+●
+In addition, new providers who are ready to implement will receive startup
+
+funding for equipment and supplies. Providers who are adding new preschool
+
+classrooms or expanding their in-home businesses to additional locations will
+
+also receive startup funding.
+
+UNION NEUTRALITY
+
+Multnomah County shall remain neutral with respect to representation and collective
+
+bargaining on matters concerning labor relations for any family childcare provider
+
+participating or applying to participate in the Preschool for All Program, as authorized
+
+by ORS 329A.430.
+
+Multnomah County representatives are currently engaged with AFSCME on a
+
+separate pending labor peace resolution, with the intention of ensuring the workforce
+
+has an appropriate voice in representation and organizing matters.
+
+Appendix A: Preschool for All Task Force, Parent
+
+Accountability Council, and Work Group Members
+
+TASK FORCE MEMBERS
+
+Amanda Whalen​
+, Chief Impact Officer, United Way of the Columbia-Willamette
+
+Amy Nash-Kille​
+, Senior Manager Research and Evaluation, KinderCare
+
+Andrea Paluso​
+, Co-Founder and Executive Director, Family Forward
+
+Andrew Hoan​
+, Executive Director, Portland Business Alliance
+
+Carla Piluso​
+, Oregon House of Representatives, District 50
+
+Carmen Rubio​
+, Executive Director, Latino Network
+
+Diana Nunez​
+, President, Hispanic Metropolitan Chamber
+
+Guadalupe Guerrero​
+, Superintendent, Portland Public Schools
+
+Jenn Lynch​
+, Partner, Portland Seed Fund; Board, Business for a Better Portland
+
+Jessica Vega Pederson​
+, Preschool for All Task Force Chair; Commissioner,
+
+Multnomah County
+
+Kali Thorne Ladd​
+, Executive Director, KairosPDX
+
+Keith Thomajan​
+, Chief Executive Officer, United Way of the Columbia-Willamette
+
+Ken Richardson​
+, Superintendent, David Douglas School District
+
+Ken Thrasher​
+, Business Leader
+
+Kim Melton​
+, Chief of Staff, Multnomah County Chair Deborah Kafoury’s Office
+
+Lee Po Cha​
+, Executive Director, Immigrant & Refugee Community Organization
+
+Lisa Pellegrino​
+, Director, Portland Children’s Levy
+
+Dr. Lisa Skari​
+, President, Mt. Hood Community College
+
+Lydia Gray-Holifield​
+, Parent Leader, ELM Parent Accountability Council
+
+Dr. Maggie Bennington-Davis​
+, Interim CEO, Health Share
+
+Mark Holloway​
+, Preschool for All Task Force Vice Chair; Social Venture Partner
+
+Dr. Marvin Lynn​
+, Dean of the Graduate School of Education, Portland State University
+
+Michael Buonocore​
+, Executive Director, Home Forward
+
+Michael Lopes-Serrao​
+, Superintendent, Parkrose School District
+
+Mystique Pratcher​
+, Parent Leader, Albina Head Start Policy Council
+
+Petra Hernandez​
+, Parent Leader, ELM Parent Accountability Council
+
+Rachael Banks​
+, Public Health Director, Multnomah County
+
+Ruth Adkins​
+, Government & Community Relations, Kaiser Permanente
+
+Swati Adarkar​
+, President and CEO, Children’s Institute
+
+Tara Cooper​
+, Chief Executive Officer, Black Parent Initiative
+
+Tawna Sanchez​
+, Director of Youth & Education Services, Native American Youth and
+
+Family Center; Oregon House of Representatives, District 43
+
+PARENT ACCOUNTABILITY COUNCIL MEMBERS
+
+PAC Leaders
+
+Elia Barcamontes​
+, Latino Network
+
+Fadumo Mohamed​
+, Immigrant & Refugee Community Organization
+
+HappyStar Bravehawk​
+, Native American Youth and Family Center
+
+Hawalul Nur​
+, Immigrant & Refugee Community Organization
+
+Kathleen Holifield​
+, KairosPDX
+
+Lam Hoang​
+, Immigrant & Refugee Community Organization
+
+Lydia Gray-Holifield​
+, Self Enhancement, Inc.
+
+Oxana Gvozdekov​
+, Immigrant & Refugee Community Organization
+
+Petra Hernandez​
+, Latino Network
+
+Rayna Thomas​
+, Native American Youth and Family Center
+
+Svetlana Litvenenko​
+, Immigrant & Refugee Community Organization
+
+Tam Huynh​
+, Immigrant & Refugee Community Organization
+
+PAC Staff
+
+Anna Selvanovich​
+, Immigrant & Refugee Community Organization
+
+Ayni Amir​
+, Immigrant & Refugee Community Organization
+
+Chau Huynh​
+, Immigrant & Refugee Community Organization
+
+Lai-Lani Ovalles​
+, ELM, United Way of the Columbia-Willamette
+
+Lupe Campos​
+, Latino Network
+
+MaryEtta Callier-Wells​
+, Self Enhancement, Inc.
+
+Monique Lopez​
+, Native American Youth and Family Center
+
+Richarnae Harris​
+, KairosPDX
+
+Winter Rose​
+, Native American Youth and Family Center
+
+TASK FORCE & WORK GROUP FACILITATORS
+
+Task Force and Policy & Program Work Group Facilitator
+
+Megan Irwin​
+, Brave Ideas Consulting
+
+Workforce Work Group Facilitator
+
+Dr. Christyn Dundorf​
+, Early Learning Consultant Group and ​
+Molly Day​
+, ELM, United
+
+Way of the Columbia-Willamette
+
+Infrastructure Work Group Facilitator
+
+Sarah Zahn​
+, Urban Development Partners and ​
+Margaret Mahoney​
+, Enterprise
+
+Community Partners
+
+Finance Strategy & Administration Work Group Facilitator
+
+Ian Galloway​
+, Federal Reserve Bank of San Francisco
+
+Task Force & Work Group Support Staff
+
+Brooke Chilton Timmons, ​
+Multnomah County Department of County Human
+
+Services
+
+Molly Day, ​
+ELM, United Way of Columbia-Willamette
+
+Sarah Cohen-Doherty​
+, Social Venture Partners
+
+Tia Williams​
+, Office of Multnomah County Commissioner Jessica Vega Pederson
+
+WORK GROUP MEMBERS
+
+Policy & Program Work Group Members
+
+Alex Lebow​
+, Social Venture Partners
+
+Amy Nash-Kille​
+, KinderCare
+
+April Olson​
+, Gresham-Barlow School District
+
+Dr. Christyn Dundorf​
+, Early Learning Consultant Group
+
+Danita Huynh​
+, Immigrant and Refugee Community Organization
+
+Dr. Dawn Hendricks​
+, Early Learning Consultant Group
+
+Dee Hayward​
+, Immigrant and Refugee Community Organization
+
+Hadiyah Miller​
+, Child Care Resource & Referral of Multnomah County, Oregon
+
+Association for the Education of Young Children
+
+Jennifer Scheib​
+, Native American Youth and Family Center
+
+Leslee Barnes​
+, Village Child Care, Child Care Resource & Referral of Multnomah
+
+County
+
+Lisa Grotting​
+, Multnomah Early Childhood Program
+
+Lizzy Tremaine​
+, Portland State University
+
+Maria Perdomo​
+, Metropolitan Family Service
+
+Marina Merrill​
+, Children's Institute
+
+Mary Pearson​
+, David Douglas School District
+
+Meg McElroy​
+, Portland Children’s Levy
+
+Meera Batra​
+, Neighborhood House
+
+Mina Smith​
+, ELM, United Way of the Columbia-Willamette
+
+Pam Greenhough Corrie​
+, Mt Hood Community College
+
+Robert Cantwell​
+, Portland Public Schools
+
+Robert Woods and Kat Simons​
+, The International School
+
+Sabrina Ersland​
+, Albina Head Start
+
+Sadie Feibel​
+, Latino Network
+
+Sara Mickelson​
+, Oregon Department of Education, Early Learning Division
+
+Workforce Work Group Members
+
+Abby Bush​
+, Oregon Community Foundation
+
+Alise Sanchez​
+, Oregon Community Health Workers Association
+
+Ben Anderson-Nathe​
+, Portland State University
+
+Christine Waters​
+, Child Care Resource & Referral of Multnomah County
+
+Eva Rippeteau​
+, AFSCME
+
+Frank Caropelo​
+, Reynolds School District
+
+Jamie Rodrick​
+, Portland Community College
+
+Joy Jerome Turtola​
+, Worksystems Inc
+
+Kim Larson​
+, Oregon Center for Career Development
+
+Leisl Wehmueller​
+, Immigrant and Refugee Community Organization
+
+Lili Hoag, Kate Newhall, and Regan Gray​
+, Family Forward
+
+Rashelle Chase​
+, KinderCare
+
+Sabrina Ersland​
+, Albina Head Start
+
+Shannon Aden​
+, Child Care Business Owner
+
+Soobin Oh​
+, Children's Institute
+
+Teresa Gonczy​
+, Social Venture Partners
+
+Infrastructure Work Group Members
+
+Afton Walsh​
+, Walsh Construction
+
+Amanda Grear​
+, ELM, United Way of the Columbia-Willamette
+
+Craig Kelley​
+, Kelley Foundation
+
+Dawn Barberis​
+, Former Head Start Administrator
+
+Jennifer Marsicek​
+, Scott Edwards Architecture
+
+Jessica Conner​
+, Portland Housing Bureau
+
+Rachel Langford​
+, Home Forward
+
+Louis Fontenot​
+, Trammell Crow Company
+
+Mark Holloway​
+, Social Venture Partners
+
+Nick Sauvie​
+, Rose Community Development Center
+
+Paul Cathcart​
+, Portland Public Schools
+
+Tia Williams​
+, Office of County Commissioner Jessica Vega Pederson
+
+Finance Strategy & Administration Work Group Members
+
+Aisling Coghlan
+
+Chris Fick​
+, Office of County Commissioner Jessica Vega Pederson
+
+Dana Hepper,​
+ Children's Institute
+
+Frances Sallah​
+, ELM, United Way of the Columbia-Willamette
+
+Jason Hardaway​
+, Ciita, Social Venture Partners
+
+John Tapogna​
+, ECONorthwest
+
+Larry Fox​
+, Social Venture Partners
+
+Mark Holloway​
+, Social Venture Partners
+
+Mary King​
+, Professor Emerita, Economics Department Portland State University
+
+Molly Day​
+, ELM, United Way of the Columbia-Willamette
+
+Nick Gallo​
+, Youth Progress
+
+Whitney Grubbs​
+, Chalkboard Project
+
+Appendix B: Pre-Referral Committee and Technical
+
+Advisory Committee Members
+
+PRE-REFERRAL COMMITTEE MEMBERS
+
+Mark Holloway​
+, Co-Chair
+
+Jessica Vega Pederson​
+,​
+ ​
+Co-Chair; Multnomah County Commissioner
+
+Amanda Manjarrez​
+, Latino Network
+
+Amanda Whalen​
+, United Way of Columbia-Willamette
+
+Andrea Paluso​
+, Family Forward
+
+Chris Tebben​
+, Children's Institute Board; Sapient Solutions, LLC
+
+Coi Vu​
+, Immigrant Refugee Community Organization
+
+Craig Wilcox​
+,  Wells Fargo, Portland Business Alliance
+
+Eva Rippeteau​
+, Oregon AFSCME Council 75
+
+Ian Galloway​
+, Federal Reserve Bank of San Francisco
+
+John Branam​
+, Get Schooled
+
+Jonathan Garcia​
+, Portland Public Schools
+
+Kali Ladd​
+, KairosPDX
+
+Ken Thrasher​
+, Retired CEO, Fred Meyer & Compli
+
+Kim Melton​
+, Office of Multnomah County Chair Deborah Kafoury
+
+Lauren Johnson​
+, Social Venture Partners
+
+Lydia Gray-Holifield​
+, Early Learning Multnomah Parent Accountability Council
+
+Dr. Maggie Bennington-Davis/Peg King​
+, Health Share of Oregon
+
+Mary King​
+, Professor of Economics Emerita, Portland State University
+
+Ricardo Lujan-Valerio​
+, Latino Network
+
+Tawna Sanchez​
+, Director of Youth & Education Services, Native American Youth and
+
+Family Center; Oregon House of Representatives, District 43
+
+Tia Williams​
+, Office of Portland Mayor Ted Wheeler
+
+Toya Fick​
+, Stand for Children
+
+TECHNICAL ADVISORY COMMITTEE MEMBERS
+
+Technical Advisory Committee Members
+
+Amy Nash-Kille​
+, KinderCare
+
+Christine Waters​
+, Child Care Resource & Referral
+
+Craig Kelley​
+, Kelley Family Foundation; Social Venture Partner
+
+Dana Hepper​
+, Children’s Institute
+
+Danita Huynh​
+, Immigrant Refugee Community Organization
+
+Emily Glasgow​
+, Portland Public Schools
+
+Frances Sallah​
+, Early Learning Multnomah, United Way of Columbia-Willamette
+
+Hadiyah Miller​
+, Oregon Association for the Education of Young Children, Child Care
+
+Resource & Referral
+
+Leslee Barnes​
+, Village Child Care, Black Child Development PDX, Early Education
+
+Consulting
+
+Margaret Mahoney​
+, Enterprise Community Partners
+
+Mimi Orozco Caravantes​
+, Swindells Resource Center
+
+Molly Day​
+, Early Learning Multnomah, United Way of Columbia-Willamette
+
+Rachel Langford​
+, Home Forward
+
+Regan Gray​
+, Family Forward
+
+Sabrina Ersland​
+, Albina Head Start
+
+Sadie Feibel​
+, Latino Network
+
+Technical Advisory Committee Advisor
+
+Linda Hassaan Anderson​
+, Early Learning Consultant, Social Venture Partner
+
+Technical Advisory Committee Facilitators
+
+Brooke Chilton Timmons​
+, Multnomah County Department of County Human
+
+Services
+
+Megan Irwin​
+, Brave Ideas Consulting
+
+Appendix C: Path to Universality
+
+Preschool for All’s plan is projected to add enough new seats to ​
+fully serve all
+
+children in priority populations by fall 2026​
+. This assumes 7,000 new slots in
+
+addition to the current 3,116 publicly-funded slots (e.g. Head Start, Preschool Promise).
+
+Preschool for All projects adding enough new seats to ​
+reach full capacity by fall
+
+2030​
+. This assumes 12,000 new slots in addition to the current 3,116 publicly-funded
+
+slots.
+
+Other assumptions:
+
+●
+19,115 3- and 4- year olds by 2025 and 20,213 by 2035, based on ECONorthwest
+
+analysis of ACS data and Portland State University Population Research Center
+
+forecasts.
+
+●
+Fewer 3 year olds will participate than 4 year olds; participation rates will also
+
+be influenced by income levels, based on ​
+further analysis by ECONorthwest​
+.
+
+●
+Preschool for All’s saturation rate is approximately 75% with these
+
+considerations.
+
+Appendix D: Supporting Providers & Teachers
+
+Preschool for All provides a living wage for early education workers, who are severely
+
+underpaid and often can’t afford to stay in the field, contributing to higher turnover
+
+and lower quality preschool education. With fair compensation and professional
+
+support, we can keep talented teachers in the field, leading to better outcomes for
+
+children.
+
+Lead preschool teacher
+
+On par with kindergarten teachers
+
+Assistant preschool teacher
+
+Preschool for All defines assistant
+
+preschool teachers broadly, as all
+
+non-lead teaching staff working
+
+working with children in the
+
+classroom in a center or school
+
+model, and working with children in
+
+a home based model, including
+
+teaching staff with titles like
+
+associate teacher, break support
+
+staff, teachers aide.
+
+$18 per hour in 2020 dollars.
+
+Cost of living adjustment​
+ (COLA) based on the
+
+County’s Local 88 union-negotiated COLA rate
+
+OR to bring wage to 135% of Portland metro
+
+minimum wage, whichever is greater.
+
+Compensation matrix that adjusts wages to
+
+reflect a minimum assistant preschool teacher
+
+wage that is ​
+no less than 75% of a preschool
+
+teacher wage by 2035
+.
+
+2
+
+Impact of 75% ratio matrix wage adjustment
+
+The proposed matrix will move assistant teacher wages significantly higher by
+
+2035​
+, to reach 75% of lead teacher wages that are on par with kindergarten teacher
+
+wages. As an example, this is what that ratio would look like in 2019 dollars, the last
+
+year kindergarten teacher salary data is available via the U.S. Bureau of Labor
+
+Statistics for the Portland metro area.
+
+Hourly
+
+Annual
+
+Current preschool teacher median wage
+
+$14.96
+
+$31,120
+
+Example of proposed lead teacher wage on par with
+
+kindergarten teacher
+
+$35.73
+
+$74,330*
+
+Example of proposed assistant teacher wage at 75%
+
+ratio
+
+$26.79
+
+$55,747
+
+*2019 Portland metropolitan area median kindergarten teacher wage, U.S. Bureau of Labor Statistics
+
+2
+ The 75% ratio is based on the ​
+2020-21 MHCC Head Start (OSEA) Salary Schedule​
+ wage ratio of an Assistant
+
+Teacher 2 with a CDA to a Teacher 1 with an Associates degree, classifications that represent Preschool for
+
+All credentialing requirements at Program maturity. Comparing both low to low and high to high wages for
+
+these two classifications produced a ratio of an assistant teacher making 73% of a lead teacher. We’ve
+
+rounded up to 75%.
+
+This wage represents a ​
+significant increase from today’s average wages​
+, while
+
+avoiding extreme wage disparities that threaten the viability of the infant/toddler
+
+childcare market or create a liability for providers under Oregon’s Pay Equity Act.
+
+Starting in ​
+2023​
+, the minimum wage in Oregon—and the Portland metro area—will
+
+be indexed to the US City average Consumer Price Index for All Urban Consumers.
+
+Preschool for All’s approach—growing wages based on a union-negotiated COLA,
+
+with the back stop of a tie to the minimum wage—is intended to provide ​
+stronger
+
+long-term wage growth.
+
+AFSCME Local
+
+88/Multnomah County
+
+Contract — July 1 COLA
+
+Increase
+
+US City average
+
+Consumer Price Index
+
+for All Urban
+
+Consumers (CPI-U)
+
+20-year average
+
+(2001-2020)
+
+2.48
+
+2.13
+
+10-year average
+
+(2011-2020)
+
+2.29
+
+1.74
+
+Median increase over
+
+last 20 year
+
+2.70
+
+2.10
+
+As a backstop, Preschool for All also includes a wage floor of 135% of local minimum
+
+wage. In 2022, this means the assistant teacher wage will be at least $19.91.
+
+Wage Growth Simulations
+
+While no one can predict what the exact CPI or COLA figures will be each year in the
+
+future, we do have year to year historical data we can look to, to see how the
+
+preschool assistant teacher wages would rise.
+
+Aligning 2020 with 2008 (Great Recession)
+
+A simulation of wage growth using year-to-year CPI and COLA figures from
+
+2008-on—aligning 2020 with 2008, when numbers began to reflect the impacts of the
+
+Great Recession—shows an example of wage growth we might see over the next
+
+decade. In this scenario, wages under the updated proposal exceed Preschool for All’s
+
+prior wage proposal and Universal Preschool NOW’s proposed wage in 2031 and
+
+beyond.
+
+Local 88 July 1
+
+COLA
+
+CPI-U
+
+Portland Metro
+
+Min Wage
+
+3
+Original PFA
+
+Proposal
+
+4
+Current UPN
+
+Proposal
+
+5
+Updated PFA
+
+Proposal
+
+6
+
+2008
+
+2.7%
+
+3.8%
+
+$13.25
+
+$19.21
+
+$18.00
+
+2020
+
+2009
+
+2.7%
+
+-0.4%
+
+$14.00
+
+$20.30
+
+$18.90
+
+2021
+
+2010
+
+2.7%
+
+1.6%
+
+$14.75
+
+$18.44
+
+$21.39
+
+$19.91
+
+2022
+
+2011
+
+1.2%
+
+3.2%
+
+$15.18
+
+$18.98
+
+$22.01
+
+$20.50
+
+2023
+
+2012
+
+0.0%
+
+2.1%
+
+$15.47
+
+$19.34
+
+$22.44
+
+$20.89
+
+2024
+
+2013
+
+3.3%
+
+1.5%
+
+$15.69
+
+$19.98
+
+$22.75
+
+$21.58
+
+2025
+
+2014
+
+2.7%
+
+1.6%
+
+$15.92
+
+$20.52
+
+$23.08
+
+$22.16
+
+2026
+
+2015
+
+2.1%
+
+0.1%
+
+$15.93
+
+$20.95
+
+$23.10
+
+$22.63
+
+2027
+
+2016
+
+1.0%
+
+1.3%
+
+$16.12
+
+$21.16
+
+$23.38
+
+$22.85
+
+2028
+
+2017
+
+2.2%
+
+2.1%
+
+$16.44
+
+$21.62
+
+$23.83
+
+$23.36
+
+2029
+
+2018
+
+3.6%
+
+2.4%
+
+$16.80
+
+$22.40
+
+$24.36
+
+$24.20
+
+2030
+
+2019
+
+3.9%
+
+1.8%
+
+$17.08
+
+$23.28
+
+$24.77
+
+$25.14
+
+2031
+
+2020
+
+2.9%
+
+1.2%
+
+$17.27
+
+$23.95
+
+$25.05
+
+$25.87
+
+2032
+
+3
+ ​
+In 2023, Oregon minimum wage growth is tied to US City average Consumer Price Index for All Urban
+
+Consumers (CPI-U); Portland Metro minimum wage is $1.25 higher. The average annual growth rate of this
+
+CPI wage index over the last 20 years was 2.12%.
+
+4
+ $18 per hour (2022 dollars), with cost of living adjustments (COLA) based on the County’s Local 88
+
+union-negotiated COLA rate, and floor of 125% of local minimum wage. The average annual growth rate of
+
+the wage index over the last 20 years was 2.48%.
+
+5
+ $18 per hour now (2020 dollars), and floor of 145% of Portland Metro area minimum wage.
+
+6
+ $18 per hour now (2020 dollars). Cost of living adjustment based on the County’s Local 88
+
+union-negotiated COLA rate OR to bring wage to 135% of Portland metro minimum wage, whichever is
+
+greater. Does not reflect impact of wage matrix 75% ratio by 2035.
+
+Appendix E: Projected 5-Year Budget
+
+Utilizing the PFA Task Force report as a foundation, the Technical Advisory Committee
+
+continued to refine programmatic and implementation details. Department of
+
+County Human Services (DCHS) staff used the TAC decisions to build the budget
+
+framework. Within each budget area, consultation with other jurisdictions
+
+implementing preschool,  preschool providers, and subject matter experts locally and
+
+nationally shaped the estimate. DCHS finance staff analyzed the budget to determine
+
+accurate costs for county staffing and overhead. The budget went through many
+
+iterations as new information and feedback emerged that would improve Preschool
+
+for All for families and providers and build an equitable and efficient system.
+
+Operating Reserve
+
+●
+In the early years of PFA, we are setting aside an operating reserve fund of 15%
+
+of annual revenue.
+
+●
+After 5 years, PFA transitions to an ongoing reserve fund set-aside of 10% of
+
+annual revenue.
+
+Program Quality & Capacity Building
+
+●
+Includes coaching, program staffing, professional development, provider
+
+supports
+
+●
+PFA is committed to recruiting providers who reflect our community and to
+
+giving families options that best meet their needs. There will be a strong focus
+
+on recruiting BIPOC providers to become PFA providers.
+
+●
+PFA will include coaching and support for providers who don’t yet meet
+
+Preschool for All requirements in order to grow an inclusive and diverse
+
+system.
+
+Administration & Accountability
+
+●
+Includes admin staff, tax collection costs, evaluation and auditing
+
+●
+Tax collection—through the City of Portland, which is also administering
+
+Metro’s high-income earner tax—is the largest expense
+
+Infrastructure Supports:
+
+●
+There is $25 million set aside in the first 5 years of the budget for infrastructure.
+
+●
+This funding includes low or no-interest loans and grants for providers.
+
+●
+A key staff member for Preschool for All will be tasked with implementing
+
+infrastructure and business development supports for providers, including
+
+work with the city to ease the process for providers to improve and expand
+
+their space.
+
+●
+The cost per preschool space varies widely depending on the setting type, so
+
+it’s not possible at this time to say exactly how many classrooms/preschool
+
+spaces/renovations will be possible with the $25 million budget.
+
+●
+PFA also hopes to leverage philanthropic and governmental partnerships to
+
+deepen infrastructure investments and incentives and to utilize multiple
+
+strategies, such as low or no-interest loans and grants, to support a wide range
+
+of providers and infrastructure projects.
+
+●
+PFA will prioritize access to capital for small providers.
+
+Preschool Access & Infant/Toddler Slot Protection
+
+●
+Preschool Access covers the cost of preschool slots, modeled on a range of
+
+$14,000 to $20,000.
+
+●
+Slot cost will vary by provider type. Preschool for All is seeking equitable results
+
+for children and families, and the inputs to get these results will differ
+
+depending on the assets and resources of provider types. For example, this
+
+means that school districts will receive less funding per slot than a child care
+
+center or in-home provider.
+
+●
+We anticipate that in-home providers and preschool centers offering
+
+year-round 9-10 hour per day programming will receive approximately $20,000
+
+per fully-funded slot in 2022.
+
+●
+Providers of the same type offering the same services (# of hours, calendar
+
+year) will receive the same base compensation amount. There may be higher
+
+compensation amounts for providers offering specific supports, like
+
+transportation, and for providers serving infants and toddlers (see below, Infant
+
+and Toddler Slot Preservation Fund).
+
+●
+Preschool for All does not have specific staff ratio requirements above
+
+licensing guidelines. PFA Coaches will focus on the overall quality of the
+
+program, including the relationships between staff and preschoolers,
+
+partnerships with families, teaching practices and support for staff. Adding
+
+additional ratio requirements could have the unintended consequence of
+
+disrupting a provider’s existing business model and staffing structure, leaving
+
+them with less funding per classroom or increasing the overall cost of the
+
+program.
+
+●
+PFA will recruit a wide range of providers that can meet the needs of families.
+
+Providers whose business model incorporates preschool on weekend days will
+
+be encouraged to participate. If weekend days emerge over time as a
+
+significant need from families, PFA will develop strategies, including possible
+
+incentives, to increase the number of slots that include weekend days.
+
+●
+During Preschool for All’s implementation—2021 and early 2022—providers of
+
+all different types will continue to be engaged, including on slot rates before
+
+they are finalized.
+
+●
+This fund also covers the costs of outreach and enrollment support for families.
+
+●
+Infant and Toddler Slot Preservation Fund includes up to $25 million per year
+
+as the program matures and the overall number of slots increases. Specific
+
+strategies will include financial incentives for providers offering infant and
+
+toddler care that allow for wage increases for child care staff working with 0-2
+
+year olds.

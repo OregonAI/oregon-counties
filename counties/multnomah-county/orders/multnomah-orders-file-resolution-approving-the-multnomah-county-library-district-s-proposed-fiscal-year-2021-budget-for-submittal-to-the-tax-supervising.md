@@ -1,0 +1,398 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-resolution-approving-the-multnomah-county-library-district-s-proposed-fiscal-year-2021-budget-for-submittal-to-the-tax-supervising
+title: 'Resolution Approving The Multnomah County Library District’S Proposed Fiscal Year 2021 Budget For Submittal To The Tax Supervising And Conservation Commission.'
+doc_type: ordinance
+citation: 'Resolution Approving The Multnomah County Library District’S Proposed Fiscal Year 2021 Budget For Submittal To The Tax Supervising And Conservation Commission.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_approving_the_multnomah_county_library_district%E2%80%99s_proposed_fiscal_year_2021_budget_for_submittal_to_the_tax_supervising_and_conservation_commission./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: a6f902ec72d88a3678eca7facdc8dceff375fe7e2731770d4389da36149e422e
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 294.423
+    - ORS 294.426
+    - ORS 294.428
+    - ORS 294.635
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Approving The Multnomah County Library District’S Proposed Fiscal Year 2021 Budget For Submittal To The Tax Supervising And Conservation Commission. (Resolution Approving The Multnomah County Library District’S Proposed Fiscal Year 2021 Budget For Submittal To The Tax Supervising And Conservation Commission.)
+
+## At a glance
+
+Resolution Approving The Multnomah County Library District’S Proposed Fiscal Year 2021 Budget For Submittal To The Tax Supervising And Conservation Commission. — orders of Multnomah County. 11 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO.  2020-027
+Approving the Multnomah County Library Dist rict’s Proposed Fiscal Year 20 21 Budget for
+Submittal to the Tax Supervising and Conservation Commission.
+The Multnomah County Board of Commissioners Finds:
+A. ORS 294.423 provides that the MCLD Board is the Budget Committee for the MCLD.
+B. ORS 294.635 requires transmittal of the Budget to the Tax Supervising and
+Conservation Commission (TSCC) prior to May 15.
+C. On May 7, 2020 the MCLD Board received the budget message from the MCLD
+Director/Budget Officer and the Proposed Budget for the fiscal year July 1, 20 20 to June 30,
+2021, in compliance with ORS 294.426.
+D. The MCLD Director/Budget Officer requests that the MCLD Board approve the
+Proposed Budget for submittal to the TSCC as required by ORS 294.428.
+E. The Budget submitted to the TSCC establishes the estimated maximum expenditures
+for the MCLD. The MCLD Board may not increase these expenditures by more than ten
+percent.
+F. The Budget submitted to the TSCC establishes the maximum property tax levy for the
+MCLD.
+G. Submitting the Budget to the TSCC does not prevent the MCLD Board from mak ing
+reallocations within the limitations noted above.
+H. The MCLD Board will conduct a review and public discussion of the FY 2021 Budget.
+The Multnomah County Board of Commissioners Resolves:
+1. The MCLD Director/Budget Officer will prepare the FY 20 21 Approved Budget and
+forward it to the TSCC.
+2. The following tax levy is approved and included in the Approved Budget forwarded to
+the TSCC.
+3. This tax is at the authorized tax rate as follows:
+General Government Category
+Operating Taxes Tax Rate / 1,000
+Permanent Tax Rate $  1. 2200
+Total Operating Taxes     $  1. 2200
+ADOPTED this 7th day of May, 2020.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+REVIEWED:
+. JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MU TNOMAH COUNTY, OREGON
+d Allgeier, Library Director of Operations
+MULTNOMAH COUNTY LIBRARY
+DISTRICT
+PROPOSED BUDGET
+FISCAL YEAR 2020 - 2021
+TABLE OF CONTENTS
+Page
+Budget Message 3
+Budget Document 4
+Financial Policies 5
+Library District Resources 6
+Library District Requirements 7
+Capital Fund Resources 8
+Capital Fund Requirements 9
+Multnomah County Library District
+Budget Message
+May 4, 2020
+It is my privilege to propose the Fiscal Year 2021 budget for the Multnomah County
+Library District. This is the eighth annual library district budget since the adoption
+of Measure 26-143 in November 2012, which created a library district to fund
+library services with a permanent rate, limited to $1.24.
+In Fiscal Year 2021, the library proposes to levy a rate of $1.22 per $1,000 of
+assessed value, a figure in line with the original financial plan for the district. Based
+on projections from the Multnomah County Budget Office, the $1.22 rate will
+generate adequate revenue to maintain current service levels and support the
+longer term fiscal health of the district.
+The district tax is expected to generate $90.9 million; combined with other
+revenues (fines, fees, grants, and interest), the district's total revenues are
+projected at $92.7 million. Of that amount, $91.3 million, is budgeted for transfer
+to the County Library Fund. Based on the county’s financial policy and Budget Office
+recommendations, $0.5 million is placed in contingency and 10% of the expected
+tax revenues ($9.1 million) are placed in the unappropriated fund balance as the
+District’s reserve. The remaining balance ($4.9 million) will be transferred into the
+Multnomah County Library District Capital Fund which will total ($34.7 million).
+The library district budget is based on an intergovernmental agreement between
+Multnomah County and the Library District. As stated in the agreement, the District
+contracts with Multnomah County to provide library services. The District will
+regularly reimburse the County from the Library District Fund as expenses are
+incurred.
+In the next fiscal year, Multnomah County Library will contribute to its community
+in new and meaningful ways, as a collaborative force to support people and
+communities responding to and recovering from the most daunting challenges of
+our lifetime. The Library will remain committed, nimble and resilient to serve a
+vibrant and diverse community.
+Respectfully,
+Vailey Oehlke
+Director of Libraries, Multnomah County Library District
+Multnomah County Library District
+Budget FY 2020-21
+A continuing evolution to serve the community
+The Multnomah County Library District was approved by voters in 2012 in order to
+fund library services on an ongoing basis for the use of the people of Multnomah
+County. The district funds the entirety of the Multnomah County Library Fund that is
+adopted each year by the Multnomah County Board of County Commissioners.
+As the needs of the community change, Multnomah County Library must balance
+and serve changing community needs in new ways. The District Fund is prepared
+with an eye towards long term sustainability to fund our libraries while still
+supporting library efforts to innovate, include, and adapt.
+The proposed FY21 Library District Budget will fund a current service level budget
+for library operations with a one percent constraint to support the library’s long
+term fiscal outlook. The library approaches FY21 with an eye toward the future
+fiscal health of the Library in order to mitigate the long term implications of Library
+District expenditures growing more quickly than revenue. This budget will preserve
+the balance in the Multnomah County Library District Capital Fund for the long term
+fiscal health of the Library District.
+In the next fiscal year, the Library will sustain its focus on meeting critical
+community needs, while redefining service models in light of the COVID-19
+pandemic. This will include adapting library services in ways that support public
+health and safety and putting equity at the core of every decision. The Library will
+also continue to shape a vision for spaces that best meet evolving community
+needs.
+Multnomah County Library is proud to continue its 150-year-plus tradition of
+service. Over that time, this organization has responded to global pandemic,
+economic depression and recession, war and the ongoing challenge to recognize
+and affirm essential civil and human rights and opportunity for all. The Library will
+continue to provide world class library services to this diverse and growing
+community in new ways that rise to the challenge of the moment and beyond.
+About the budget
+By charter, members of the Multnomah County Board of County Commissioners
+serve as the governing body of the District. The Budget Committee consists of the
+members of the Board, convening as the Multnomah County Library District Board.
+The FY21 budget is proposed at a tax rate of $1.22 per $1,000 of assessed value in
+line with the original financial plan for the district. This rate will generate enough
+revenue to maintain current hours and services.
+This budget continues a practice of maintaining the Library department budget in
+the current Library Fund and utilizing the Library District Fund to receive the
+library district tax as well as any non-tax revenues for FY2021. This will ensure
+that the district’s taxes and revenues are received and accounted for separately.
+An Intergovernmental Agreement (IGA) between Multnomah County and
+Multnomah County Library District provides a contractual structure for the District
+and the County to provide library services.
+Multnomah County Library District’s Financial Policies
+On May 30, 2019 the Multnomah County Library District Board passed Resolution
+2019-052, adopting Multnomah County financial and budget policies as the policies
+of the Multnomah County Library District, with two Library-specific policies related
+to Reserves and Contingency, and transfers to the Library District Capital Fund
+replacing the County versions.
+RESOURCES
+General Fund Multnomah County Library District
+(Fund)
+1 1. Available cash on hand* (cash basis) or 1
+2 $24,138,546 $20,826,555 $18,120,907 2. Beginning working capital (accrual basis) $13,112,222 2
+3 $1,788,605 $800,921 $1,132,753 3. Previously levied taxes estimated to be received $824,103 3
+4 $195,148 $198,895 $338,595 4. Interest $204,000 4
+5 5. Transferred IN, from other funds 5
+6 6  OTHER RESOURCES 6
+7 $710,892 $642,863 $565,000 7  Fines & Fees $340,000 7
+8 $552,990 $741,704 $100,000 8  Interest $200,000 8
+9 $1,786,256 $1,847,529 $1,845,813 9  Grants & Gifts $950,114 9
+10 $321,195 $314,495 $274,000 10  Sales To The Public $277,000 10
+11 11 11
+12 12 12
+13 13 13
+14 14
+15 15 15
+16 16 16
+17 17 17
+18 18 18
+19 19 19
+20 20 20
+21 21 21
+22 22 22
+23 23 23
+24 24 24
+25 25 25
+26 26 26
+27 27 27
+28 28 28
+29 $29,493,631 $25,372,963 $22,377,068 29. Total resources, except taxes to be levied $15,907,439 29
+30 $85,523,954 30. Taxes estimated to be received $89,871,555 30
+31 $77,982,928 $82,567,521 31. Taxes collected in year levied 31
+32 $107,476,559 $107,940,484 $107,901,022 32.  TOTAL RESOURCES $105,778,994 32
+*The balance of cash, cash equivalents and investments in the fund at the beginning of the budget year
+FORM
+LB-20
+Second Preceding
+Year 2017 - 2018
+Budget for Next Year 2020-2021Historical Data
+Actual
+First Preceding
+Year 2018 - 2019
+Adopted Budget
+This Year
+2019 - 2020 RESOURCE DESCRIPTION
+Proposed By
+Budget Officer
+Approved By
+Budget Committee
+Adopted By
+Governing Body
+(Name of Municipal Corporation)
+FORM
+LB-30
+(name of fund)
+Adopted Budget
+Second Preceding First Preceding This Year Proposed By Approved By Adopted By
+Year 2017 - 2018 Year 2018 - 2019 2019 - 2020 Budget Officer Budget Committee Governing Body
+ PERSONNEL SERVICES NOT ALLOCATED
+11
+22
+3
+000 3  TOTAL PERSONNEL SERVICES 0
+4     Total Full-Time Equivalent (FTE)
+MATERIALS AND SERVICES NOT ALLOCATED
+5 77,381,364 79,388,278 88,089,357 Contract with Multnomah County 91,250,506
+6 -291 -140 1,729,162
+7 77,381,072 79,388,138 89,818,519 7 TOTAL MATERIALS AND SERVICES 91,250,506
+CAPITAL OUTLAY NOT ALLOCATED
+88
+99
+10
+000 10  TOTAL CAPITAL OUTLAY 0
+DEBT SERVICE
+11 11
+12 12
+13
+000 13 TOTAL DEBT SERVICE 0
+SPECIAL PAYMENTS
+14 14
+15 15
+16 000 16 TOTAL SPECIAL PAYMENTS 0
+INTERFUND TRANSFERS
+17 9,268,932 11,587,564 8,882,973 17 Multnomah County Library District Capital Fund 4,938,522
+18 18
+19 19
+20 20
+21 21
+22 9,268,932 11,587,564 8,882,973 22 TOTAL INTERFUND TRANSFERS 4,938,522
+OPERATING CONTINGENCY
+23 500,000 23  TOTAL OPERATING CONTINGENCY 500,000
+24 86,650,004 90,975,702 99,201,492 24 Total Requirements Not Allocated 96,689,028
+25 25 Total Org./Prog. Requirements
+26 26 Reserved for future expenditure
+27 20,826,555 16,964,781 27  Ending balance (prior years)
+28 8,699,530 28 UNAPPROPRIATED ENDING FUND BALANCE 9,089,966
+29 107,476,559 107,940,484 107,901,022 29        TOTAL REQUIREMENTS 105,778,994
+REQUIREMENTS SUMMARY
+NOT ALLOCATED TO AN ORGANIZATIONAL UNIT OR PROGRAM
+Multnomah County Library District General Fund
+Actual
+REQUIREMENTS DESCRIPTION
+Budget For Next Year 2020 - 2021
+150-504-030  (Rev 10/14)
+RESOURCES
+ Capital Fund Multnomah County Library District
+(Fund)
+1 1. Available cash on hand* (cash basis) or 1
+2 $8,827,332 $20,515,396 2. Beginning working capital (accrual basis) $29,633,684 2
+3 3. Previously levied taxes estimated to be received 3
+4 $12,198 $308,528 4. Interest 4
+5 $9,268,932 $11,587,564 $8,882,973 5. Transferred IN, from other funds 4,938,522 5
+6 6  OTHER RESOURCES 6
+7
+7  Fines & Fees 7
+8 $300,000 8  Interest $150,000 8
+9 9  Grants & Gifts 9
+10
+10  Sales To The Public 10
+11 11 11
+12 12 12
+13 13 13
+14 14
+15 15 15
+16 16 16
+17 17 17
+18 18 18
+19 19 19
+20 20 20
+21 21 21
+22 22 22
+23 23 23
+24 24 24
+25 25 25
+26 26 26
+27 27 27
+28 28 28
+29 $9,281,130 $20,723,424 $29,698,369 29. Total resources, except taxes to be levied $34,722,206 29
+30 30. Taxes estimated to be received 30
+31 31. Taxes collected in year levied 31
+32 $9,281,130 $20,723,424 $29,698,369 32.  TOTAL RESOURCES $34,722,206 32
+RESOURCE DESCRIPTION
+Proposed By
+Budget Officer
+Approved By
+Budget Committee
+Adopted By
+Governing Body
+(Name of Municipal Corporation)
+Second Preceding
+Year 2017 - 2018
+Budget for Next Year 2020-2021Historical Data
+Actual
+First Preceding
+Year 2018 - 2019
+Adopted Budget
+This Year
+2019 - 2020
+*The balance of cash, cash equivalents and investments in the fund at the beginning of the budget year
+FORM
+LB-20
+FORM
+LB-30
+(name of fund)
+Adopted Budget
+Second Preceding First Preceding This Year Proposed By Approved By Adopted By
+Year 2017 - 2018 Year 2018 - 2019 2019 - 2020 Budget Officer Budget Committee Governing Body
+ PERSONNEL SERVICES NOT ALLOCATED
+11
+22
+3
+00 3  TOTAL PERSONNEL SERVICES 0
+4     Total Full-Time Equivalent (FTE)
+MATERIALS AND SERVICES NOT ALLOCATED
+5
+Contract with Multnomah County
+6 453,797 291,714 125,000 6 270,000
+7 453,797 291,714 125,000 7 TOTAL MATERIALS AND SERVICES 270,000
+CAPITAL OUTLAY NOT ALLOCATED
+88 1,600,000
+99
+10 000 10  TOTAL CAPITAL OUTLAY 1,600,000
+DEBT SERVICE
+11 11
+12 12
+13
+000 13 TOTAL DEBT SERVICE 0
+SPECIAL PAYMENTS
+14 14
+15 15
+16 000 16 TOTAL SPECIAL PAYMENTS 0
+INTERFUND TRANSFERS
+17 17
+18 18
+19 19
+20 20
+21 21
+22
+000 22 TOTAL INTERFUND TRANSFERS 0
+OPERATING CONTINGENCY
+23 29,573,369 23  TOTAL OPERATING CONTINGENCY 32,852,206
+24 453,797 291,714 29,698,369 24 Total Requirements Not Allocated 34,722,206
+25 25 Total Org./Prog. Requirements
+26 26 Reserved for future expenditure
+27 8,827,332 20,431,711 27  Ending balance (prior years)
+28 28 UNAPPROPRIATED ENDING FUND BALANCE
+29 9,281,130 20,723,424 29,698,369 29        TOTAL REQUIREMENTS 34,722,206
+150-504-030  (Rev 10/14)
+REQUIREMENTS DESCRIPTION
+Budget For Next Year 2020 - 2021
+REQUIREMENTS SUMMARY
+NOT ALLOCATED TO AN ORGANIZATIONAL UNIT OR PROGRAM
+Multnomah County Library District Capital Fund
+Actual

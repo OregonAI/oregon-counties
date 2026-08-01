@@ -309,8 +309,74 @@ def discover_ecode360(profile: dict, family: str, cfg: dict) -> list[dict]:
     return out
 
 
+def discover_js(profile: dict, family: str, cfg: dict) -> list[dict]:
+    """Render a page with a real browser, then read its links.
+
+    FOR HOSTS THAT SERVE US AND SIMPLY NEED JAVASCRIPT — not for hosts that refuse us.
+    Multnomah's board-documents list is the measured case: plain HTTP returns ZERO file links
+    across pages 0, 1 and 23, while a rendered page yields 29 on page one. The content is
+    public, the server answers our honest agent 200, and the only obstacle is that the list is
+    built client-side. Rendering it is being a capable client.
+
+    The distinction this mode does NOT cross: it is never pointed at a host that refused an
+    honestly-identified request. Those are recorded `unavailable` in their profiles and
+    reaching them would mean presenting as something we are not, which is a different act and
+    a decision that is not this function's to make.
+
+    An `X-Crawler-Identity` header names the project on every request, so a site operator
+    reading logs sees who called even though the User-Agent is Chromium's own.
+
+    `pages` gives a printf-style URL template and a count for paginated lists.
+    """
+    from playwright.sync_api import sync_playwright
+
+    urls = ([cfg["url_template"] % n for n in range(cfg["pages"])]
+            if cfg.get("pages") else _listing_urls(cfg))
+    pattern = re.compile(cfg["link_re"], re.I)
+    seen, out = set(), []
+
+    with sync_playwright() as pw:
+        browser = pw.chromium.launch()
+        ctx = browser.new_context(extra_http_headers={
+            "X-Crawler-Identity": fetch.USER_AGENT})
+        page = ctx.new_page()
+        for i, u in enumerate(urls, 1):
+            try:
+                page.goto(u, timeout=45000, wait_until="domcontentloaded")
+                page.wait_for_timeout(cfg.get("settle_ms", 2500))
+                hrefs = page.eval_on_selector_all(
+                    "a[href]", "els => els.map(e => e.getAttribute('href'))") or []
+            except Exception as e:                 # noqa: BLE001 — reported, not hidden
+                print(f"    page {i}/{len(urls)} FAILED: {type(e).__name__}: {str(e)[:60]}")
+                continue
+            before = len(out)
+            for href in hrefs:
+                if not href or not pattern.search(href):
+                    continue
+                url = _encode(urllib.parse.urljoin(u, html.unescape(href.strip())))
+                key = urllib.parse.urlsplit(url)._replace(query="", fragment="").geturl()
+                if key in seen:
+                    continue
+                seen.add(key)
+                name = _name_from_url(url)
+                if fetch.looks_like_draft(name) or fetch.looks_like_draft(href):
+                    continue
+                if cfg.get("exclude_re") and re.search(cfg["exclude_re"], url, re.I):
+                    continue
+                out.append({"url": url, "name": name})
+            if len(urls) > 3:
+                print(f"    page {i}/{len(urls)}: +{len(out) - before} (total {len(out)})")
+        browser.close()
+
+    if not out:
+        raise ValueError(f"rendered {len(urls)} page(s) and matched nothing — the page shape "
+                         f"changed, and returning nothing would look like an empty family")
+    return out
+
+
 DISCOVERY = {
     "link-list": discover_link_list,
+    "js-render": discover_js,
     "mco-s3": discover_mco_s3,
     "municode-api": discover_municode,
     "ecode360": discover_ecode360,
@@ -378,6 +444,19 @@ def run_discovery(slug: str, profiles: dict) -> int:
     for s in group["sources"]:
         if counts[s["id"]] > 1 and not s.get("_explicit_id"):
             s["id"] = _fallback_id(slug, s["family"], s["url"], widen=True)
+
+    # STILL COLLIDING AFTER WIDENING means the names are genuinely the same, not truncated.
+    # Multnomah adopts a "Resolution Establishing Fees for Building Permits..." most years
+    # and files each under that same title; six share one slug at 130 characters. They are
+    # DIFFERENT INSTRUMENTS, so deduplicating would delete law — the only correct move is a
+    # stable discriminator. A short hash of the path is deterministic across runs, so an id
+    # does not churn between ingests, and the readable part of the id is untouched.
+    counts = _Counter(s["id"] for s in group["sources"])
+    for s in group["sources"]:
+        if counts[s["id"]] > 1 and not s.get("_explicit_id"):
+            import hashlib
+            path = urllib.parse.urlsplit(s["url"]).path
+            s["id"] = f"{s['id']}-{hashlib.sha1(path.encode()).hexdigest()[:6]}"
 
     # IDS MUST BE UNIQUE, and this is checked here rather than at ingest because a collision
     # at ingest is INVISIBLE: two sources with one id write the same file, the second

@@ -3,3 +3,8 @@
 # shared rather than a third implementation that drifts from the other two.
 pypdf
 PyYAML
+
+# src/ingest_counties.py's js-render discovery mode. Used ONLY for hosts that serve an
+# honestly-identified agent and build their document lists client-side — never to get
+# past a host that refused one. See discover_js().
+playwright

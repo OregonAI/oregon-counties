@@ -1,0 +1,139 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-file-resolution-adopting-the-recommended-preferred-alternative-for-inclusion-in-the-supplemental-draft-environmental-impact-statement-o
+title: 'Resolution Adopting The Recommended Preferred Alternative For Inclusion In The Supplemental Draft Environmental Impact Statement Of The Earthquake Ready Burnside Bridge Project.'
+doc_type: ordinance
+citation: 'Resolution Adopting The Recommended Preferred Alternative For Inclusion In The Supplemental Draft Environmental Impact Statement Of The Earthquake Ready Burnside Bridge Project.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_adopting_the_recommended_preferred_alternative_for_inclusion_in_the_supplemental_draft_environmental_impact_statement_of_the_earthquake_ready_burnside_bridge_project./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: c20835fb513da21c873db41d0a94282966aea7521bdacd009d38e40d36059d01
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external: []
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Adopting The Recommended Preferred Alternative For Inclusion In The Supplemental Draft Environmental Impact Statement Of The Earthquake Ready Burnside Bridge Project. (Resolution Adopting The Recommended Preferred Alternative For Inclusion In The Supplemental Draft Environmental Impact Statement Of The Earthquake Ready Burnside Bridge Project.)
+
+## At a glance
+
+Resolution Adopting The Recommended Preferred Alternative For Inclusion In The Supplemental Draft Environmental Impact Statement Of The Earthquake Ready Burnside Bridge Project. — orders of Multnomah County. 3 pages.
+
+## Full text
+
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+RESOLUTION NO.  2022-020
+Adopting the Recommended Preferred Alternative for Inclusion in the Supplemental Draft
+Environmental Impact Statement of the Earthquake Ready Burnside Bridge Project.
+The Multnomah County Board of Commissioners Finds:
+a. Multnomah County owns and maintains the Burnside Bridge, a 96-year-old structure
+that is nearing the end of its service life and was not designed to withstand a major
+earthquake.
+b. In March 1996, Metro designated Burnside Street a primary “East-West emergency
+transportation route” thereby establishing the Burnside corridor as a regional “lifeline”
+route.
+c. In April 2015, Multnomah County adopted the Willamette River Bridges Capital
+Improvement Plan, whereby making the existing Burnside Bridge seismically resilient,
+either through a retrofit or full replacement, was listed as the highest priority project in
+the 2015-2034 timeframe.
+d. A seismically resilient Burnside Bridge will support the region’s ability to provide rapid
+and reliable emergency response, rescue, and evacuation after a major earthquake,
+as well as enable post-earthquake economic recovery.
+e. In September 2016, Multnomah County initiated a Burnside Bridge Seismic
+Feasibility Study whose purpose was to create a range of options for a seismically
+resilient Burnside Bridge that will remain fully operational and accessible for vehicles
+and other modes of transportation immediately following a major Cascadia
+Subduction Zone earthquake. The outcomes of this study were adopted by the Board
+on November 1, 2018.
+f. In October 2018, Multnomah County convened a Policy Group made up of elected
+and appointed representatives of jurisdictions and agencies with an interest in the
+Burnside Bridge to make recommendations at project milestones during the
+Environmental Review Phase.
+g. The Policy Group has met five times during the Environmental Review Phase to
+review the project progress and to formalize their recommendation for a Preferred
+Alternative for inclusion into the publication of the draft Environmental Impact
+Statement.
+h. The Policy Group currently consists of:
+● Co-chair, Multnomah County Chair Deborah Kafoury
+● Co-chair, Multnomah County Commissioner Jessica Vega Pederson
+● Steve Witter, TriMet
+● Chris Warner, Portland Bureau of Transportation Director
+● Rian Windsheimer, Oregon Department of Transportation (Region 1)
+● Phil Ditzler, Federal Highway Administration (Oregon)
+● Justin Douglas, Prosper Portland
+● Councilor Mary Nolan, Metro
+● Councilor Sue Piazza, City of Gresham
+● Oregon State Senator Kathleen Taylor (District 21)
+● Oregon State Representative Barbara Smith Warner (District 45)
+● U.S. Senator Jeff Merkely’s Office
+● U.S. Senator Ron Wyden’s Office
+● U.S. Representative Earl Blumenauer’s Office
+● U.S. Representative Suzanne Bonamici’s Office
+i. In October 2018, a Communit y Task Force of 21 cit izens was formed as part of the
+Environmental Review Phase. The Community Task Force has since met twenty -nine
+times.
+j. In fall of 2020, the Community Task Force, Policy Group and Board  of County
+Commissioners recommended a Preferred Alternative to be included in the publication
+of the draft Environmental Impact Statement. The recommended Preferred Alternative
+consists of the Long Span Alternative and the closure of the bridge to traffic  during the
+construction phase. The alternatives not selected include the Enhanced Seismic
+Retrofit, the Short Span Replacement Alternative, and the Couch Extension
+Replacement Alternative. The installation of a temporary movable bridge during the
+construction phase was not selected. A Draft Environmental Impact Statement was
+published Feb 5, 2021 for public review and comment, documenting the benefits and
+impacts of the range of alternatives considered.
+k. In spring of 2021, the two Board of County Commissi oners who Co -Chair the project
+Policy Group, Chair Deborah Kafoury and Commissioner Jessica Vega Pederson,
+requested that the project team explore ways to bring the overall cost of the project down
+to better ensure a new bridge gets funded and built. Any proposed changes were to be
+included in the publication of a Supplemental Draft Environmental Impact Statement for
+public review and comment.
+l. On January 24th, 2022, the Community Task Force recommended a range of cost saving
+measures to be applied to the L ong Span Alternative, resulting in an update to the
+recommended Preferred Alternative. The range of cost saving measures included the
+selection of a conventional girder style structure type for the west approach span over
+Tom McCall Waterfront Park, a bascule style structure type for the movable span in the
+river, and the narrowing of the overall bridge width resulting in the reduction of one
+vehicular lane of traffic.
+m. On March 3rd, 2022, the Policy Group approved the Community Task Force’s
+recommendation for the refinements to the recommended Preferred Alternative. The
+Policy Group forwarded these recommendations to the Multnomah County Board of
+Commissioners for approval.
+The Multnomah County Board of Commissioners Resolves:
+1. The work of the Community Task Force is appreciated. The Board thanks them for
+their service to the public.
+2. The work of the Policy Group is appreciated. The Board thanks them for their service
+to the public.
+3. To include the recommended Preferred Alternative in the publication of the
+Supplemental Draft Environmental Impact Statement.
+4. To direct staff in the Department of Community Services to work with the Federal
+Highway Administratio n to publish the Supplemental Draft Environmental Impact
+Statement as soon as is practicable.
+ADOPTED this 17th day of March, 2022.
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON
+SUBMITTED BY:  Jamie Waltz, Director, Department of Community Services

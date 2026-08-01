@@ -1,0 +1,343 @@
+---
+schema_version: 1
+corpus: oregon-counties
+jurisdiction: oregon/multnomah-county
+id: multnomah-orders-resolution-authorizing-the-issuance-sale-and-delivery-of-gen
+title: 'Resolution Authorizing The Issuance, Sale And Delivery Of General Obligation Bonds; Designating An Authorized Representative; Authorizing The Execution And Delivery Of Financial Documents And Related Matters.'
+doc_type: ordinance
+citation: 'Resolution Authorizing The Issuance, Sale And Delivery Of General Obligation Bonds; Designating An Authorized Representative; Authorizing The Execution And Delivery Of Financial Documents And Related Matters.'
+authority_level: county_ordinance
+issuing_body: 'Multnomah County Board of Commissioners'
+source_url: https://www.multco.us/file/resolution_authorizing_the_issuance%2C_sale_and_delivery_of_general_obligation_bonds%3B_designating_an_authorized_representative%3B_authorizing_the_execution_and_delivery_of_financial_documents_and_related_matters./download
+source_format: pdf
+retrieved: '2026-07-31'
+source_sha256: abca9496e8badfee3501244f6bcbb491b719f02027758d43169be18debe7ef9e
+snapshot_policy: hash-only
+effective_date: null
+source_version: null
+status: current
+content_mode: verbatim
+last_verified: ''
+verified_by: ''
+maintainer: 'OregonAI'
+relationships:
+  implements: []
+  implemented_by: []
+  references_external:
+    - ORS 287A.100
+    - ORS 287A.315
+    - ORS 308.207
+  related: []
+  supersedes: []
+tags: [multnomah-county, orders]
+---
+
+> **NON-AUTHORITATIVE.** This is a convenience copy for machine reading. The official text is
+> published by Multnomah County Board of Commissioners at the source URL above. Verify at source before relying on it.
+
+# Resolution Authorizing The Issuance, Sale And Delivery Of General Obligation Bonds; Designating An Authorized Representative; Authorizing The Execution And Delivery Of Financial Documents And Related Matters. (Resolution Authorizing The Issuance, Sale And Delivery Of General Obligation Bonds; Designating An Authorized Representative; Authorizing The Execution And Delivery Of Financial Documents And Related Matters.)
+
+## At a glance
+
+Resolution Authorizing The Issuance, Sale And Delivery Of General Obligation Bonds; Designating An Authorized Representative; Authorizing The Execution And Delivery Of Financial Documents And Related Matters. — orders of Multnomah County. 7 pages.
+
+## Full text
+
+Page 1 – Authorizing the issuance, sale and delivery of general obligation bonds;
+designating an authorized representative; authorizing the execution and delivery of
+financial documents and related matters
+3523274.8 043987  RSIND
+BEFORE THE BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+
+RESOLUTION NO. 2020-103
+
+Authorizing the issuance, sale and delivery of general obligation bonds; designating an
+authorized representative; authorizing the execution and delivery of financial documents
+and related matters
+
+The Multnomah County Board Of Commissioners Finds:
+
+a. The Board of Commissioners (the “ Board”) of Multnomah County, Oregon (the
+“County”), is authorized pursuant to the Oregon Constitution an d ORS 287A.100
+to issue general obligation bonds to finance capital costs; and
+
+b. The issuance of the bonds will not result in the County exceeding the debt limit in
+ORS 287A.100(2) which states that “[u]nless the county charter provides a lesser
+limitation, a county may not issue or have outstanding at the time of issuance
+general obligation bonds in a principal amount that exceeds two percent of the real
+market value of the taxable property in the county, cal culated as provided in
+ORS 308.207”; and
+
+c. On June  25, 2020, the County adopted Resolution No. 2020 -057 authorizing
+submission to the voters of the County at a measure election on November  3,
+2020, the question of contracting a general obligation bonded ind ebtedness in an
+amount not to exceed $387,000,000 to finance capital costs as set forth in the
+notice of bond election and pay bond issuance costs; and
+
+d. The election was duly and legally held on November 3, 2020, and, within 20 days
+following the election, the elections officer of the County certified that the issuance
+of the general obligation bonds was approved by a majority of the qualified voters
+of the County voting at the election; and
+
+e. The Board determined the results of the election as required pursuant to
+Multnomah County Code § 5.106(E) on December 3, 2020; and
+
+f. The County adopts this resolution (the “Resolution”) to provide the terms under
+which the general obligation bonds will be sold and issued; to authorize the
+issuance of the general obligation bonds; and to classify the ad valorem taxes
+levied to pay debt service on the general obligation bonds as not being s ubject to
+the limits of Sections 11 and 11b, Article XI of the Oregon Constitution.
+
+Page 2 – Authorizing the issuance, sale and delivery of general obligation bonds;
+designating an authorized representative; authorizing the execution and delivery of
+financial documents and related matters
+3523274.8 043987  RSIND
+The Multnomah County Board Of Commissioners Resolves:
+
+1. BONDS AUTHORIZED. The County hereby authorizes the issuance of general
+obligation bonds (the “Bonds”) in an aggregate principal amount not to exceed
+$387,000,000, issued in one or more series, to finance the projects set forth in
+the ballot title for the Bonds.
+
+2. The Bonds shall mature over a period not exceeding nine years from their date
+of issue. The remaining terms of the Bonds shall be established as provided in
+Section 10 hereof.
+
+3. DESIGNATION OF AUTHORIZED REPRESENTATIVE. The Board designates
+the Chief Financial Officer (the “ Authorized Representative”) or a designee of
+the Authorized Representative to act on be half of the County as specified in
+Section 10 hereof.
+
+4. SECURITY. Pursuant to ORS 287A.315, the County hereby pledges its full faith
+and credit and taxing power to pay the Bonds. The County hereby covenants
+for the benefit of those who shall own the Bonds from time to time (the “Owners”)
+to levy annually, as necessary, a direct ad valor em tax upon all of the taxable
+property within the County which is sufficient, after taking into consideration
+discounts taken and delinquencies that may occur in the payment of such taxes
+and other legally available amounts, to pay all Bond principal and interest when
+due. This tax shall be in addition to all other taxes of the County, and this tax
+shall not be limited in rate, amount or otherwise, by Sections 11 or 11b of Article
+XI of the Oregon Constitution.
+
+5. FORM OF BONDS . The Bonds shall be issued in substantially the form as
+approved by the Authorized Representative. The Bonds may be printed or
+typewritten, and may be issued as one or more temporary Bonds which shall be
+exchangeable for definitive Bonds when definitive Bonds are available.
+
+6. EXECUTION OF BONDS. The Bonds shall be executed on behalf of the County
+with the manual or facsimile signature of an Authorized Representative of the
+County.
+
+7. REDEMPTION. The Bonds may be subject to optional redemption or mandatory
+redemption prior to maturity as determined under Section 10 hereof.
+
+8. TAX-EXEMPT STATUS. If any portion of the Bonds are issued as federally tax-
+exempt Bonds, the County covenants to use the portion of those proceeds of
+the Bonds, and the facilities financed with such Bonds, and to otherwise comply
+with the provisions of the Internal Revenue Code of 1986, as amended (the
+“Code”), so that interest paid on such Bonds will not be includable in gross
+
+Page 3 – Authorizing the issuance, sale and delivery of general obligation bonds;
+designating an authorized representative; authorizing the execution and delivery of
+financial documents and related matters
+3523274.8 043987  RSIND
+income of the Owners for federal income tax purposes. The County specifically
+covenants:
+
+i. to comply with the “arbitrage” provisions of Section 148 of the Code, and to
+pay any rebates to the United States on the gross proceeds of such Bonds;
+and
+
+ii. to operate the facilities financed with the proceeds of such Bonds so that
+such Bonds are not “private activity bonds” under Section 141 of the Code;
+and
+
+iii. comply with all reporting requirements.
+
+The Authorized Representative may enter into covenants on behalf of the
+County to protect the tax-exempt status of such Bonds.
+
+9. DESIGNATION AS A “QUALIFIED TAX -EXEMPT OBLIGATION” . The
+Authorized Representative, upon the advice of Bond Counsel, may designate
+any series of the Bonds as a “qualified tax -exempt obligation” pursuant to
+Section 265(b)(3)(B) of the Code.
+
+10. DELEGATION FOR ESTABLI SHMENT OF TERMS AND SALE OF THE
+BONDS. The Authorized Representative is hereby authorized, on behalf of the
+County without further action of the Board (and such actions of the Authorized
+Representative, if taken prior to the adoption of th e Resolution, are  hereby
+affirmed and authorized), to:
+
+i. establish the principal and interest payment dates, principal amounts,
+interest rates, denominations, redemption provisions and all other terms for
+the Bonds be issued;
+
+ii. select an underwriter and proceed with a publicly offered sale of the Bonds
+or select a bank or other financial institution through a direct purchase or
+placement agent selected by the Authorized Representative;
+
+iii. negotiate the terms of a bond purchase agr eement with the underwriter or
+lender, or conduct a competitive sale, as determined by the Authorized
+Representative;
+
+iv. determine if all or a portion of the Bonds shall be issued as federally tax-
+exempt or taxable obligations;
+
+Page 4 – Authorizing the issuance, sale and delivery of general obligation bonds;
+designating an authorized representative; authorizing the execution and delivery of
+financial documents and related matters
+3523274.8 043987  RSIND
+v. enter into covenants regarding the use of the proceeds of the Bonds and
+the projects financed with the proceeds of the Bonds, and covenants to
+maintain the tax-exempt status of the Bonds, if applicable;
+
+vi. appoint a registrar and paying agent for the Bonds, if necessary;
+
+vii. take such actions as are necessary to qualify the Bonds for the book -entry
+only system of The Depository Trust Company if required;
+
+viii. approve of and authorize the distribution of the preliminary and final official
+statements for the Bonds, if required;
+
+ix. obtain one or more ratings on the Bonds if determined by the Authorized
+Representative to be in the best interest of the County, and expend Bond
+proceeds to pay the costs of obtaining such rating;
+
+x. apply, if available and deemed appropriate, an d expend Bond proceeds to
+pay any insurance premium;
+
+xi. approve, execute and deliver a Continuing Disclosure Certificate pursuant
+to SEC Rule 15c2 -12, as amended (17 CFR Part 240, § 240.15c2 -12), if
+required;
+
+xii. approve, execute and deliver the Bond closing documents and certificates;
+
+xiii. make any clarifying changes or additional covenants not inconsistent with
+this Resolution; and
+
+xiv. execute and deliver a certificate specifying the action taken by the
+Authorized Representative pursuant to this Section  10(xiv) and any other
+certificates, documents or agreements that the Authorized Representative
+determines are desirable to issue, sell and deliver the Bonds in accordance
+with this Resolution.
+
+11. DEFAULT AND REMEDIES.  The occurrence of one or more of the following
+shall constitute an Event of Default under this Resolution and the Bonds:
+
+i. Failure by the County to pay Bond principal, interest or premium when due
+(whether at maturity, or upon redemption after a Bond has been properly
+called for redemption);
+
+ii. Failure by the County to observe and perform any covenant, condition or
+agreement on its part to be observed or performed for the benefit of Owners,
+for a period of 60 days after written notice to the County by the Owners  of
+
+Page 5 – Authorizing the issuance, sale and delivery of general obligation bonds;
+designating an authorized representative; authorizing the execution and delivery of
+financial documents and related matters
+3523274.8 043987  RSIND
+51% or more of the principal amount of Bonds then Outstanding specifying
+such failure and requesting that it be remedied; provided however, that if
+the failure stated in the notice cannot be corrected within such 60 day
+period, it shall not constitute an Event of Default so long as corrective action
+is instituted by the County within the 60 day period and diligently pursued,
+and the default is corrected as promptly as practicable after the written
+notice referred to in this paragraph; or
+
+iii. The County is  adjudged insolvent by a court of competent jurisdiction,
+admits in writing its inability to pay its debts generally as they become due,
+files a petition in bankruptcy, or consents to the appointment of a receiver
+for the payments.
+
+The Owners of 51% or mo re of the principal amount of Bonds then
+Outstanding may waive any Event of Default and its consequences, except
+an Event of Default as described in Section 11(i).
+
+Upon the occurrence and continuance of any Event of Default hereunder
+the Owners of 51% or  more of the principal amount of Bonds then
+Outstanding may take whatever action may appear necessary or desirable
+to enforce or to protect any of the rights of the Owners, either at law or in
+equity or in bankruptcy or otherwise, whether for the specific enforcement
+of any covenant or agreement contained in this Resolution or the Bonds or
+in aid of the exercise of any power granted in this Resolution or in the Bonds
+or for the enforcement of any other legal or equitable right vested in the
+Owners by the Resolution or the Bonds or by law. However, the Bonds shall
+not be subject to acceleration.
+
+No remedy in the Resolution conferred upon or reserved to Owners is
+intended to be exclusive and every such remedy shall be cumulative and
+shall be in addition to every other remedy given under the Resolution or now
+or hereafter existing at law or in equity. No delay or omission to exercise
+any right or power accruing upon any default shall be construed to be a
+waiver thereof, but any such right and power may be exercised from time to
+time and as often as may be deemed expedient. To entitle the Owners to
+exercise any remedy reserved to them, it shall not be necessary to give any
+notice other than such notice as may be required by this Resolution or by
+law.
+
+12. DEFEASANCE. The County may defease the Bonds by setting aside, with a
+duly appointed escrow agent, in a special escrow account irrevocably pledged
+to the payment of the Bonds to be defeased, cash or direct obligations of the
+United States in an amount w hich, in the opinion of an independent certified
+public accountant, is sufficient without reinvestment to pay all principal and
+
+Page 6 – Authorizing the issuance, sale and delivery of general obligation bonds;
+designating an authorized representative; authorizing the execution and delivery of
+financial documents and related matters
+3523274.8 043987  RSIND
+interest on the defeased Bonds until their maturity date or any earlier redemption
+date. Bonds which have been defeased pursuant  to this Section shall be
+deemed paid and no longer outstanding, and shall cease to be entitled to any
+lien, benefit or security under this Resolution except the right to receive payment
+from such special escrow account.
+
+13. ESTABLISHMENT OF FUNDS AND ACCOUNT S. The following funds and
+accounts shall be created into which the proceeds of the Bonds shall be
+deposited, which funds and accounts shall be continually maintained, except as
+otherwise provided, so long as the Bonds remain unpaid.
+
+i. Debt Service Account. The County shall maintain the debt service account
+in the County’s debt service fund for the payment of principal, premium, if
+any, and interest on the Bonds as they become due. All accrued interest, if
+any, and all taxes levied and other moneys available for the payment of the
+Bonds shall be deposited to the debt service account.
+
+ii. Project Fund. The County shall maintain the project fund for the purpose of
+accounting for and paying all costs of the projects and the costs related to
+the preparation, authorization, issuance, and sale of the Bonds. Any interest
+earnings on moneys invested from the project fund shall be retained in the
+project fund. The County’s share of any liquidated damages or other
+moneys paid by defaulting contractors or their sureties will be deposited into
+the project fund to assure the completion of the projects.
+
+Upon completion of the projects and upon payment in full of all costs related
+thereto, any balance remaining in the project fund shall be deposited to the
+Debt Service Account for payment of debt service.
+
+14. RESOLUTION TO CONSTITUTE CONTRACT . In consideration of the
+purchase and acceptance of any or all of the Bonds by the Owners, the
+provisions of this Resolution shall be part of the contract of the County with the
+Owners and shall be deemed to be and shall constitute a contract between the
+County and the Owners. The covenants, pledges, representations and
+warranties contained in this Resolution or in the closing documents executed in
+connection with the Bonds, including w ithout limitation the County’s covenants
+and pledges contained in Section  4 hereof, and the other covenants and
+agreements herein set forth to be performed by or on behalf of the County shall
+be contracts for the equal benefit, protection and security of t he Owners, all of
+which shall be of equal rank without preference, priority or distinction of any of
+such Bonds over any other thereof, except as expressly provided in or pursuant
+to this Resolution.
+
+Page 7 – Authorizing the issuance, sale and delivery of general obligation bonds;
+designating an authorized representative; authorizing the execution and delivery of
+financial documents and related matters
+3523274.8 043987  RSIND
+ADOPTED this 10th day of December, 2020.
+SUBMITTED BY:  Eric Arellano, Chief Financial Officer
+BOARD OF COUNTY COMMISSIONERS
+FOR MULTNOMAH COUNTY, OREGON
+Deborah Kafoury, County Chair
+REVIEWED:
+JENNY M. MADKOUR, COUNTY ATTORNEY
+FOR MULTNOMAH COUNTY, OREGON

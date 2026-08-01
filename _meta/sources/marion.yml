@@ -4,25 +4,190 @@ county: marion-county
 crawl:
   decision: proceed
   checked: '2026-07-31'
-  basis: 'Cloudflare managed challenge: HTTP 403 with cf-mitigated: challenge to an honest, self-identifying
-    User-Agent. A browser-identified curl gets 200, so the content is public and only our truthful identification
-    is refused. Getting past it would require misrepresenting what we are, which is a different act from
-    declining to honour a robots directive, and one this corpus does not take. Recorded as a fact about
-    OUR ACCESS, never about Marion County: Marion publishes its code; we did not take it. robots.txt separately
-    names no AI agent, so the corpus-wide vendor-directive decision is not engaged here.'
+  basis: codepublishing.com challenged HTTP/1.1 requests and passes HTTP/2 ones — a protocol-version rule,
+    not identity. Since src/fetch.py speaks HTTP/2 the site answers our unchanged, self-identifying User-Agent
+    with 200. robots.txt names no AI agent, so the corpus-wide vendor-directive decision is not engaged
+    here at all; there was never a stated preference to weigh.
   hosts:
   - host: www.codepublishing.com
     robots_url: https://www.codepublishing.com/robots.txt
     ai_block: false
     content_signal: null
-    notes: 'robots.txt disallows /cgi-bin/ /CPC/ /dtSearch/ /errors/ /search/ /Search_forms/ and *.pl
-      *.pm *.js *.pdf *.rtf *nt.html — no AI agent named, and none of it covers the HTML code tree. The
-      block is not robots.txt at all: a Cloudflare managed challenge returns 403 to the honest agent while
-      a browser-identified curl gets 200.'
+    notes: robots.txt disallows /cgi-bin/ /CPC/ /dtSearch/ /errors/ /search/ /Search_forms/ and *.pl *.pm
+      *.js *.pdf *.rtf *nt.html — no AI agent named, and none of it covers the HTML code tree we read.
+      Its Cloudflare config challenges HTTP/1.1 and passes HTTP/2.
 last_checked: '2026-07-31'
 upstream_signal: No feed. Code Publishing republishes the whole static site on codification, so re-hashing
   each chapter page detects an amendment. Chapter paths are stable across republications.
 sources:
+- id: marion-code-marioncountynt
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCountyNT.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCountyNT
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty01
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty01/MarionCounty01.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty01
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty02
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty02/MarionCounty02.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty02
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty03
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty03/MarionCounty03.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty03
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty04
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty04/MarionCounty04.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty04
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty05
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty05/MarionCounty05.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty05
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty06
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty06/MarionCounty06.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty06
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty07
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty07/MarionCounty07.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty07
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty08
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty08/MarionCounty08.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty08
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty09
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty09/MarionCounty09.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty09
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty10
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty10/MarionCounty10.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty10
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty11
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty11/MarionCounty11.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty11
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty12
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty12/MarionCounty12.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty12
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty13
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty13/MarionCounty13.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty13
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty14
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty14/MarionCounty14.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty14
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty15
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty15/MarionCounty15.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty15
+  last_checked: '2026-07-31'
+- id: marion-code-marioncountyot
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCountyOT.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCountyOT
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty16
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty16/MarionCounty16.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty16
+  last_checked: '2026-07-31'
+- id: marion-code-marioncounty17
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCounty17/MarionCounty17.html
+  family: code
+  format: xml
+  sha256: ''
+  title: MarionCounty17
+  last_checked: '2026-07-31'
+- id: marion-land-use-marioncompnt
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionCompNT.html
+  family: land-use
+  format: xml
+  sha256: ''
+  title: MarionCompNT
+  last_checked: '2026-07-31'
+- id: marion-land-use-marioncomp01
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionComp01/MarionComp01.html
+  family: land-use
+  format: xml
+  sha256: ''
+  title: MarionComp01
+  last_checked: '2026-07-31'
+- id: marion-land-use-marioncomp02
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionComp02/MarionComp02.html
+  family: land-use
+  format: xml
+  sha256: ''
+  title: MarionComp02
+  last_checked: '2026-07-31'
+- id: marion-land-use-marioncomp03
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionComp03/MarionComp03.html
+  family: land-use
+  format: xml
+  sha256: ''
+  title: MarionComp03
+  last_checked: '2026-07-31'
+- id: marion-land-use-marioncomp04
+  url: https://www.codepublishing.com/OR/MarionCounty/html/MarionComp04/MarionComp04.html
+  family: land-use
+  format: xml
+  sha256: ''
+  title: MarionComp04
+  last_checked: '2026-07-31'
 - id: marion-policies-101
   url: https://www.co.marion.or.us/BOC/Policies/101.pdf
   family: policies
