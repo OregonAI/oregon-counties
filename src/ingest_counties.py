@@ -127,28 +127,55 @@ def discover_mco_s3(profile: dict, family: str, cfg: dict) -> list[dict]:
     return out
 
 
-def discover_municode(profile: dict, family: str, cfg: dict) -> list[dict]:
-    """Municode — the JSON API, which is open while the HTML library index 403s.
+MUNICODE = "https://api.municode.com"
 
-    `ClientContent/<id>` is the staleness test, not `Jobs/latest/<id>`, which returns 204 for
-    every Oregon client and so tests nothing. A client record can exist with
-    `latestUpdatedDate: null` and no content at all — Lincoln County has exactly that, and
-    recording it as a source would have been a fabricated one.
+
+def discover_municode(profile: dict, family: str, cfg: dict) -> list[dict]:
+    """Municode — the JSON API, which is open while the HTML library index is a JS shell.
+
+    THREE ENDPOINTS, IN THIS ORDER, and getting the order wrong is why the first version of
+    this function returned nothing:
+
+        ClientContent/<clientId>          the products this client publishes
+        Jobs/latest/<productId>           the current supplement -> the jobId everything needs
+        codesToc?jobId=&productId=        the table of contents; 404s WITHOUT a real jobId
+        CodesContent?jobId=&nodeId=&...   the text of one node and all its descendants
+
+    A CORRECTION TO WHAT THIS DOCSTRING USED TO SAY. It claimed `Jobs/latest/<id>` returns
+    204 for every Oregon client and therefore tests nothing. That is wrong: for Washington
+    County's Code of Ordinances (productId 16681) it returns supplement 25 with jobId 436713,
+    and without that jobId `codesToc` 404s. The 204 observation was made against a CLIENT id
+    where this endpoint takes a PRODUCT id.
+
+    `latestUpdatedDate: null` still means an empty shell rather than a code — Lincoln County
+    has exactly that, and recording it as a source would have been a fabricated one.
+
+    One source per TOP-LEVEL TOC NODE (a Title), because CodesContent on a title returns that
+    title and every section under it in one response. Per-section would be ~95 requests per
+    title for text we already hold.
     """
-    body, _ = fetch.get(f"https://api.municode.com/ClientContent/{cfg['client_id']}")
-    payload = json.loads(body)
+    body, _ = fetch.get(f"{MUNICODE}/ClientContent/{cfg['client_id']}")
     out = []
-    for code in payload.get("codes", []):
-        if cfg.get("product_id") and code.get("productId") != cfg["product_id"]:
+    for code in json.loads(body).get("codes", []):
+        pid = code.get("productId")
+        if cfg.get("product_id") and pid != cfg["product_id"]:
             continue
         if not code.get("latestUpdatedDate"):
             continue                       # an empty shell, not a code
-        out.append({
-            "url": f"https://api.municode.com/codesToc?jobId=&productId={code['productId']}",
-            "name": code["productName"],
-            "product_id": code["productId"],
-            "updated": code["latestUpdatedDate"],
-        })
+        job, _ = fetch.get(f"{MUNICODE}/Jobs/latest/{pid}")
+        job_id = json.loads(job).get("Id")
+        toc, _ = fetch.get(f"{MUNICODE}/codesToc?jobId={job_id}&productId={pid}")
+        for node in json.loads(toc).get("Children") or []:
+            node_id, heading = node.get("Id"), (node.get("Heading") or "").strip()
+            if not node_id or cfg.get("skip_re") and re.search(cfg["skip_re"], heading, re.I):
+                continue
+            out.append({
+                "url": (f"{MUNICODE}/CodesContent?jobId={job_id}"
+                        f"&nodeId={urllib.parse.quote(node_id)}&productId={pid}"),
+                "name": node_id,
+                "title": heading,
+                "id": f"{profile['slug']}-{family}-{node_id.lower()}",
+            })
     return out
 
 
@@ -333,14 +360,23 @@ tags: [{tags}]
 """
 
 
-def ingest_county(slug: str, config, refetch: bool = False, limit: int | None = None) -> int:
+def ingest_county(slug: str, config, refetch: bool = False, limit: int | None = None,
+                  profile: dict | None = None) -> int:
     group_path = SOURCES / f"{slug}.yml"
     if not group_path.is_file():
         print(f"no manifest for {slug}; run --discover first", file=sys.stderr)
         return 1
     group = yaml.safe_load(group_path.read_text(encoding="utf-8"))
-    if group["crawl"]["decision"] == "excluded":
-        print(f"{slug}: crawl decision is 'excluded' — nothing ingested by design")
+    decision = group["crawl"]["decision"]
+    if decision in ("excluded", "unavailable"):
+        # Both mean "no documents", and they mean opposite things about WHY. `excluded` is a
+        # choice we made; `unavailable` is a refusal we were handed. Reported distinctly so
+        # a reader of the log — and of STATUS.md — is never left to infer that a county
+        # publishes nothing when in fact we could not reach what it publishes.
+        why = ("deliberately not ingested" if decision == "excluded"
+               else "the host refused an honestly-identified agent")
+        print(f"{slug}: crawl decision is '{decision}' — {why}. Nothing ingested, and this "
+              f"is a fact about our access, not about the county.")
         return 0
 
     registry = {c["slug"]: c for c in
@@ -367,8 +403,16 @@ def ingest_county(slug: str, config, refetch: bool = False, limit: int | None = 
                 snap = snap.with_suffix(f".{fmt}")
                 snap.write_bytes(raw)
 
-            text, stats = (extract.extract_pdf(raw) if fmt == "pdf"
-                           else extract.extract_html(raw))
+            # A profile may supply its own extractor. Needed wherever a county's documents
+            # are not files but API responses: Washington's code arrives as Municode JSON,
+            # which extract_html would happily turn into a page of punctuation.
+            custom = getattr((profile or {}).get("_module"), "extract", None)
+            if custom is not None:
+                text, stats = custom(raw, fmt, src)
+            elif fmt == "pdf":
+                text, stats = extract.extract_pdf(raw)
+            else:
+                text, stats = extract.extract_html(raw)
             extract.assert_extracted(text, sid)
             (SNAPSHOTS / f"{sid}.txt").write_text(text, encoding="utf-8")
 
@@ -423,7 +467,8 @@ def main() -> int:
     targets = sorted(profiles) if args.all else [args.only] if args.only else []
     if not targets:
         ap.error("one of --discover, --only, --all, --list")
-    return max(ingest_county(t, config, args.refetch, args.limit) for t in targets)
+    return max(ingest_county(t, config, args.refetch, args.limit, profiles.get(t))
+               for t in targets)
 
 
 if __name__ == "__main__":

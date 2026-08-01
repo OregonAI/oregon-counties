@@ -1,0 +1,25 @@
+group: marion
+title: Marion County sources
+county: marion-county
+crawl:
+  decision: unavailable
+  checked: '2026-07-31'
+  basis: 'Cloudflare managed challenge: HTTP 403 with cf-mitigated: challenge to an honest, self-identifying
+    User-Agent. A browser-identified curl gets 200, so the content is public and only our truthful identification
+    is refused. Getting past it would require misrepresenting what we are, which is a different act from
+    declining to honour a robots directive, and one this corpus does not take. Recorded as a fact about
+    OUR ACCESS, never about Marion County: Marion publishes its code; we did not take it. robots.txt separately
+    names no AI agent, so the corpus-wide vendor-directive decision is not engaged here.'
+  hosts:
+  - host: www.codepublishing.com
+    robots_url: https://www.codepublishing.com/robots.txt
+    ai_block: false
+    content_signal: null
+    notes: 'robots.txt disallows /cgi-bin/ /CPC/ /dtSearch/ /errors/ /search/ /Search_forms/ and *.pl
+      *.pm *.js *.pdf *.rtf *nt.html — no AI agent named, and none of it covers the HTML code tree. The
+      block is not robots.txt at all: a Cloudflare managed challenge returns 403 to the honest agent while
+      a browser-identified curl gets 200.'
+last_checked: '2026-07-31'
+upstream_signal: No feed. Code Publishing republishes the whole static site on codification, so re-hashing
+  each chapter page detects an amendment. Chapter paths are stable across republications.
+sources: []
